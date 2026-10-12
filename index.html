@@ -97,6 +97,7 @@
         <button @click="changeMonth(-1)">‹ 上月</button>
         <span class="cal-title">{{ calYear }}年{{ calMonth+1 }}月</span>
         <button @click="changeMonth(1)">下月 ›</button>
+        <button @click="clearCache()" title="清除离线缓存" style="margin-left:auto;font-size:0.85rem;">🗑 清缓存</button>
       </div>
       <div class="cal-grid">
         <div class="cal-dow" v-for="d in ['日','一','二','三','四','五','六']" :key="d">{{d}}</div>
@@ -685,6 +686,16 @@
           const url = this.mode === "clean"
             ? this.currentArticle.cleanPath
             : this.currentArticle.annotatedPath
+          const cacheKey = 'article_' + this.currentArticle.fileKey + '_' + this.mode;
+          
+          // 先从缓存读取（快速显示）
+          const cached = localStorage.getItem(cacheKey);
+          if (cached) {
+            this.articleHtml = cached;
+            this.dictResult = null;
+          }
+          
+          // 从网络获取最新内容，更新缓存
           fetch(url).then(r=>r.text()).then(html=>{
             // 原文页：把难词替换成可点击的蓝色超链接
             if (this.mode === "clean" && this.vocabList && this.vocabList.length > 0) {
@@ -694,8 +705,10 @@
                 html = html.replace(regex, `<span class="clickable-word" data-word="${word}" style="color:#2563eb;text-decoration:underline;cursor:pointer;">${word}</span>`);
               }
             }
-            this.articleHtml = html
-            this.dictResult = null
+            this.articleHtml = html;
+            this.dictResult = null;
+            // 存到缓存
+            localStorage.setItem(cacheKey, html);
             // 搜索后自动滚动到关键词
             if(this.kw.trim()){
               setTimeout(()=>{
@@ -703,8 +716,16 @@
               }, 300)
             }
           }).catch(()=>{
-            this.articleHtml = "<p style='color:#999'>文章加载失败，请检查文件路径。</p>"
+            // 网络失败时，如果没有缓存，显示错误
+            if (!cached) {
+              this.articleHtml = "<p style='color:#999'>文章加载失败，请检查网络。</p>";
+            }
           })
+        },
+        clearCache(){
+          const keys = Object.keys(localStorage).filter(k => k.startsWith('article_'));
+          keys.forEach(k => localStorage.removeItem(k));
+          alert('已清除 ' + keys.length + ' 篇文章的离线缓存');
         },
         scrollToKeyword(kw){
           const container = document.querySelector('.modal-card')
