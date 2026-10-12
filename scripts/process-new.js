@@ -205,9 +205,17 @@ for (const plainFile of plainFiles) {
   const plainText = extractPlainText(plainPath);
   const vocabs = extractVocabs(annotatedHtml);
   
-  // 提取标题
-  const titleMatch = cleanHtml.match(/<h1>([\s\S]*?)<\/h1>/);
-  const title = titleMatch ? titleMatch[1].replace(/<[^>]+>/g, '').trim() : fileKey;
+  // 提取标题（支持 h1/h2/title）
+  let title = '';
+  const h1Match = cleanHtml.match(/<h1[^>]*>([\s\S]*?)<\/h1>/);
+  const h2Match = cleanHtml.match(/<h2[^>]*>([\s\S]*?)<\/h2>/);
+  if (h1Match) title = h1Match[1].replace(/<[^>]+>/g, '').trim();
+  else if (h2Match) title = h2Match[1].replace(/<[^>]+>/g, '').trim();
+  else {
+    const t = cleanHtml.match(/<title>([\s\S]*?)<\/title>/);
+    if (t) title = t[1].replace(/\s*—\s*\d{4}\/\d{2}\/\d{2}/, '').trim();
+  }
+  if (!title) title = fileKey;
   
   console.log(`   📝 标题: ${title.substring(0, 60)}...`);
   console.log(`   📖 正文字数: ${plainText.length}`);
