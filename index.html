@@ -9,10 +9,9 @@
     *{box-sizing:border-box;margin:0;padding:0;}
     body{font-family:system-ui,-apple-system,sans-serif;max-width:1100px;margin:0 auto;padding:1rem 1rem 3rem;line-height:1.6;background:#fafafa;color:#222;}
     h2{color:#1a1a1a;font-size:1.5rem;margin:1rem 0;}
-    .search-bar{margin:1rem 0;display:flex;flex-direction:column;gap:8px;}
-    .search-bar input{padding:10px 14px;width:100%;font-size:1rem;border:1px solid #ddd;border-radius:8px;}
-    .search-btns{display:flex;gap:8px;}
-    .search-btns button{padding:8px 16px;cursor:pointer;background:#2563eb;color:#fff;border:none;border-radius:8px;font-size:0.9rem;}
+    .search-bar{margin:1rem 0;display:flex;gap:8px;align-items:center;}
+    .search-bar input{padding:10px 14px;flex:1;font-size:1rem;border:1px solid #ddd;border-radius:8px;}
+    .search-bar button{padding:10px 16px;cursor:pointer;background:#2563eb;color:#fff;border:none;border-radius:8px;font-size:0.9rem;white-space:nowrap;}
 
     /* ===== 日历插件 ===== */
     .calendar-box{background:#fff;border:1px solid #e5e5e5;border-radius:12px;padding:1rem;margin:1rem 0;max-width:420px;}
@@ -84,14 +83,12 @@
     <h2>📚 共享外刊精读库</h2>
 
     <div class="search-bar">
-      <div style="position:relative;">
+      <div style="position:relative;flex:1;">
         <input v-model="kw" placeholder="输入关键词" @keyup.enter="searchFull" style="padding-right:28px;">
         <span v-if="kw" @click="kw='';articleList=[]" style="position:absolute;right:8px;top:50%;transform:translateY(-50%);cursor:pointer;color:#999;font-size:16px;">✕</span>
       </div>
-      <div class="search-btns">
-        <button @click="searchTitle()">搜标题</button>
-        <button @click="searchFull()">搜全文</button>
-      </div>
+      <button @click="searchTitle()">搜标题</button>
+      <button @click="searchFull()">搜全文</button>
     </div>
 
     <!-- ===== 日历插件 ===== -->
@@ -100,7 +97,7 @@
         <button @click="changeMonth(-1)">‹ 上月</button>
         <span class="cal-title">{{ calYear }}年{{ calMonth+1 }}月</span>
         <button @click="changeMonth(1)">下月 ›</button>
-        <button @click="clearCache()" title="清除离线缓存" style="margin-left:auto;font-size:0.85rem;">🗑 清缓存</button>
+        <button @click="clearCache()" title="清除离线缓存" style="margin-left:auto;font-size:1rem;padding:4px 8px;">🗑</button>
       </div>
       <div class="cal-grid">
         <div class="cal-dow" v-for="d in ['日','一','二','三','四','五','六']" :key="d">{{d}}</div>
