@@ -117,7 +117,7 @@
           <button :class="{primary:mode==='annotated'}" @click="mode='annotated';loadContent()">批注版</button>
           <button @click="showVocab=true">生词表</button>
           <button @click="printArticle()" title="打印" style="padding:8px 12px;">🖨</button>
-          <button @click="downloadArticle()">⬇ 下载</button>
+          <button @click="downloadArticle()" title="下载" style="padding:8px 12px;">⬇</button>
           <button @click="toggleSpeak()">{{ speaking ? '⏸ 停止' : '🔊 朗读' }}</button>
         </div>
         <div class="article-content" v-html="articleHtml"></div>
