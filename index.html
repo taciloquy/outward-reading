@@ -118,6 +118,7 @@
           <button @click="showVocab=true">生词表</button>
           <button @click="printArticle()">🖨 打印</button>
           <button @click="downloadArticle()">⬇ 下载</button>
+          <button @click="toggleSpeak()">{{ speaking ? '⏸ 停止' : '🔊 朗读' }}</button>
         </div>
         <div class="article-content" v-html="articleHtml"></div>
       </div>
@@ -570,7 +571,8 @@
           mode: "clean",
           showVocab: false,
           vocabList: [],
-          articleHtml: ""
+          articleHtml: "",
+          speaking: false
         }
       },
       computed:{
@@ -706,6 +708,25 @@
           a.click();
           document.body.removeChild(a);
           URL.revokeObjectURL(url);
+        },
+        toggleSpeak(){
+          if (this.speaking) {
+            speechSynthesis.cancel();
+            this.speaking = false;
+            return;
+          }
+          const div = document.createElement('div');
+          div.innerHTML = this.articleHtml;
+          const text = div.textContent || div.innerText || '';
+          if (!text.trim()) return;
+          const utter = new SpeechSynthesisUtterance(text);
+          utter.lang = 'en-US';
+          utter.rate = 0.9;
+          utter.onend = () => { this.speaking = false; };
+          utter.onerror = () => { this.speaking = false; };
+          speechSynthesis.cancel();
+          speechSynthesis.speak(utter);
+          this.speaking = true;
         },
         printVocab(){
           const rows = this.vocabList.map(v => '<tr><td>'+v.word+'</td><td>'+v.phonetic+'</td><td>'+v.definition+'</td></tr>').join('')
