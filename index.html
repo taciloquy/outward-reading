@@ -1,0 +1,372 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>共享外刊精读库</title>
+  <script src="https://unpkg.com/vue@3/dist/vue.global.prod.js"></script>
+  <style>
+    *{box-sizing:border-box;margin:0;padding:0;}
+    body{font-family:system-ui,-apple-system,sans-serif;max-width:1100px;margin:0 auto;padding:1rem 1rem 3rem;line-height:1.6;background:#fafafa;color:#222;}
+    h2{color:#1a1a1a;font-size:1.5rem;margin:1rem 0;}
+    .search-bar{margin:1rem 0;display:flex;gap:8px;align-items:center;}
+    .search-bar input{padding:10px 14px;flex:1;max-width:500px;font-size:1rem;border:1px solid #ddd;border-radius:8px;}
+    .search-bar button{padding:10px 18px;cursor:pointer;background:#2563eb;color:#fff;border:none;border-radius:8px;font-size:1rem;}
+
+    /* ===== 日历插件 ===== */
+    .calendar-box{background:#fff;border:1px solid #e5e5e5;border-radius:12px;padding:1rem;margin:1rem 0;max-width:420px;}
+    .cal-header{display:flex;justify-content:space-between;align-items:center;margin-bottom:0.8rem;}
+    .cal-header button{padding:4px 10px;cursor:pointer;border:1px solid #ddd;background:#fff;border-radius:6px;font-size:0.85rem;}
+    .cal-header .cal-title{font-size:1rem;font-weight:600;}
+    .cal-grid{display:grid;grid-template-columns:repeat(7,1fr);gap:3px;}
+    .cal-dow{text-align:center;font-size:0.7rem;color:#999;padding:2px 0;font-weight:600;}
+    .cal-day{height:32px;display:flex;align-items:center;justify-content:center;border-radius:6px;cursor:pointer;font-size:0.8rem;border:1px solid transparent;transition:all .15s;position:relative;}
+    .cal-day:hover{background:#eff6ff;}
+    .cal-day.empty{cursor:default;}
+    .cal-day.empty:hover{background:transparent;}
+    .cal-day.has-article{background:#dbeafe;color:#2563eb;font-weight:600;}
+    .cal-day.has-article::after{content:'';position:absolute;bottom:4px;width:5px;height:5px;border-radius:50%;background:#2563eb;}
+    .cal-day.selected{background:#2563eb;color:#fff !important;}
+    .cal-day.selected::after{background:#fff;}
+    .cal-day.today{border-color:#2563eb;}
+
+    .article-list{margin:1rem 0;}
+    .article-item{padding:14px;border:1px solid #e5e5e5;border-radius:8px;margin:8px 0;cursor:pointer;background:#fff;transition:all .2s;}
+    .article-item:hover{border-color:#2563eb;box-shadow:0 2px 8px rgba(37,99,235,.1);}
+    .article-item .title{font-size:1rem;font-weight:600;color:#1a1a1a;}
+    .article-item .date{font-size:0.85rem;color:#888;margin-top:4px;}
+    .article-content{margin:1rem 0;line-height:1.75;font-size:1.05rem;}
+    .article-content pre{white-space:normal !important;font-size:16px !important;font-family:Georgia,'Times New Roman',serif !important;line-height:1.8 !important;margin:0 0 6px 0 !important;}
+    .article-content h1{font-size:18px !important;margin-bottom:6px !important;}
+    .article-content .subtitle{font-size:12px !important;color:#555 !important;margin-bottom:12px !important;}
+    .article-content .header-bar{font-size:11px !important;}
+    .btn-group button{margin-right:8px;padding:8px 14px;cursor:pointer;border-radius:6px;border:1px solid #aaa;background:#fff;font-size:0.9rem;}
+    .btn-group button.primary{background:#2563eb;color:#fff;border-color:#2563eb;}
+    .modal{position:fixed;top:0;left:0;right:0;bottom:0;background:rgba(0,0,0,.4);z-index:10;display:flex;align-items:center;justify-content:center;}
+    .modal-card{background:#fff;width:95%;max-width:800px;height:90%;border-radius:12px;padding:1.5rem;overflow:auto;}
+    .modal-card h3{margin-bottom:1rem;font-size:1.2rem;}
+    .vocab-item{padding:8px 0;border-bottom:1px solid #eee;}
+    .vocab-item strong{color:#1a1a1a;}
+    .vocab-item .phonetic{color:#1a6fb0;margin:0 6px;}
+    .vocab-item .def{color:#555;}
+    .empty{color:#999;padding:2rem 0;text-align:center;}
+    .close-btn{position:sticky;top:0;float:right;cursor:pointer;font-size:1.2rem;color:#888;}
+
+    /* ===== 手机适配 ===== */
+    @media (max-width: 600px) {
+      body{padding:0.5rem 0.8rem 2rem;}
+      h2{font-size:1.2rem;}
+      .search-bar input{font-size:16px;} /* 防止iOS自动放大 */
+      .calendar-box{max-width:100%;padding:0.8rem;}
+      .cal-day{height:36px;font-size:0.85rem;}
+      .modal-card{width:100%;height:100%;border-radius:0;padding:1rem;}
+      .btn-group button{padding:10px 14px;font-size:16px;} /* 触控友好 */
+      .article-item{padding:12px;}
+      .article-content pre{font-size:15px !important;line-height:1.7 !important;}
+      .vocab-item{font-size:15px;}
+    }
+  </style>
+</head>
+<body>
+  <div id="app">
+    <h2>📚 共享外刊精读库</h2>
+
+    <div class="search-bar">
+      <div style="position:relative;flex:1;max-width:500px;">
+        <input v-model="kw" placeholder="输入关键词" @keyup.enter="searchFull" style="padding-right:28px;">
+        <span v-if="kw" @click="kw='';articleList=[]" style="position:absolute;right:8px;top:50%;transform:translateY(-50%);cursor:pointer;color:#999;font-size:16px;">✕</span>
+      </div>
+      <button @click="searchTitle()" style="background:#6b7280;">搜索标题</button>
+      <button @click="searchFull()">搜索全文</button>
+    </div>
+
+    <!-- ===== 日历插件 ===== -->
+    <div class="calendar-box">
+      <div class="cal-header">
+        <button @click="changeMonth(-1)">‹ 上月</button>
+        <span class="cal-title">{{ calYear }}年{{ calMonth+1 }}月</span>
+        <button @click="changeMonth(1)">下月 ›</button>
+      </div>
+      <div class="cal-grid">
+        <div class="cal-dow" v-for="d in ['日','一','二','三','四','五','六']" :key="d">{{d}}</div>
+        <div v-for="(cell,i) in calCells" :key="i"
+          class="cal-day"
+          :class="{empty:!cell.day, selected:selectedDate===cell.date, 'has-article':cell.hasArticle, today:cell.date===todayStr}"
+          @click="cell.day && selectDate(cell.date)">
+          {{ cell.day || '' }}
+        </div>
+      </div>
+    </div>
+
+    <div class="article-list" v-if="articleList.length>0">
+      <div class="article-item" v-for="art in articleList" :key="art.fileKey" @click="openArticle(art)">
+        <div class="title">{{ art.title }}</div>
+        <div class="date">{{ art.publishDate }} · {{ art.fileKey }}</div>
+        <div v-if="art._snippet" style="font-size:0.85rem;color:#666;margin-top:6px;line-height:1.5;" v-html="art._snippet"></div>
+      </div>
+    </div>
+    <div class="empty" v-else>暂无文章，请选择日期或搜索</div>
+
+    <!-- 文章弹窗 -->
+    <div v-if="showArticle" class="modal" @click.self="closeArticle">
+      <div class="modal-card">
+        <span class="close-btn" @click="closeArticle">✕</span>
+        <h3>{{ currentArticle.title }}</h3>
+        <div class="btn-group">
+          <button :class="{primary:mode==='clean'}" @click="mode='clean';loadContent()">原文</button>
+          <button :class="{primary:mode==='annotated'}" @click="mode='annotated';loadContent()">批注版</button>
+          <button @click="showVocab=true">生词表</button>
+          <button @click="printArticle()">🖨 打印</button>
+        </div>
+        <div class="article-content" v-html="articleHtml"></div>
+      </div>
+    </div>
+
+    <!-- 生词弹窗 -->
+    <div v-if="showVocab" class="modal" @click.self="showVocab=false">
+      <div class="modal-card">
+        <span class="close-btn" @click="showVocab=false">✕</span>
+        <h3>本篇生词</h3>
+        <div class="btn-group" style="margin-bottom:1rem;">
+          <button @click="printVocab()">🖨 打印生词表</button>
+        </div>
+        <div class="vocab-item" v-for="v in vocabList" :key="v.word">
+          <strong>{{ v.word }}</strong>
+          <span class="phonetic">{{ v.phonetic }}</span>
+          <span class="def">{{ v.definition }}</span>
+        </div>
+      </div>
+    </div>
+  </div>
+
+  <script>
+    const { createApp } = Vue
+
+    // ===== 文章数据库（嵌入前端，纯静态） =====
+    const ARTICLES = [
+      {
+        title: "Superstar podcasts are Silicon Valley's way of talking to itself",
+        publishDate: "2026-10-11",
+        fileKey: "2026-10-11_001",
+        source: "The Economist",
+        cleanPath: "/articles/2026/10/2026-10-11_001.clean.html",
+        annotatedPath: "/articles/2026/10/2026-10-11_001.annotated.html",
+        plainText: "Superstar podcasts are Silicon Valley's way of talking to itself — 2026/10/11 Superstar podcasts are Silicon Valley's way of talking to itself 2026/10/11 Superstar podcasts are Silicon Valley's way of talking to itself 马斯克、奥特曼、黄仁勋都在上：播客为什么突然成了硅谷最值钱的流量入口？ EACH WEEKDAY morning Jordi Hays and John Coogan, two entrepreneurs-turned-podcasters, enter a sauna in Los Angeles with copies of the Wall Street Journal. They come out with jackets, ties and hot takes on the tech news of the day. Then they go on air as hosts of the \"Technology Business Programming Network\" (\"TBPN\") podcast, riffing with guests, banging gongs and blowing airhorns. Silicon Valley laps it up. It is not uncommon to see \"TBPN\", rather than CNBC, streaming on the TV screens in tech firms' offices. Podcasts are the latest example of a power law in Silicon Valley. Only a few become big hitters. Those that do attract the demigods of tech as guests, making them even more influential. \"TBPN\" has interviewed Sam Altman of OpenAI and Mark Zuckerberg of Meta. The \"All-In\" Podcast, hosted by four plutocrats who straddle tech and MAGA politics, held a summit in Los Angeles in September attended by Elon Musk and Jensen Huang. (When Donald Trump phoned Nvidia's boss on stage during the summit, Mr Huang put the president on speakerphone.) All share an in-crowd mystique bordering on incestuousness. In April OpenAI reportedly spent $100m-200m to buy then-18-month-old TBPN (though there was no mention of the affiliation during Mr Altman's interview). The \"All-In\" hosts are self-described \"besties\" with many of their billionaire interviewees. They are also an echo chamber, with a tin ear at times to the concerns of the rest of America. This new podcasting elite reflects a big change in Silicon Valley's relationship with the media. During the last great investment boom, the dotcom era of the 1990s, publications like Wired were tech-industry gospels. They covered the internet like Rolling Stone wrote about rock'n'roll, says John Battelle, a founding editor of Wired: \"We thought we were covering the counterculture.\" But the rise of social media and the growing power and wealth of big tech generated a rift between Silicon Valley and news outlets. Podcasters, who share their guests' techno-optimism, provide a friendlier platform. The watershed came during the 2024 presidential race. Led by Mr Trump, politicians saw the medium as a less filtered way of getting their message out than the press or broadcast TV. Two of its billionaire co-hosts, David Sacks and Chamath Palihapitiya, threw a fundraiser in San Francisco for Mr Trump. Shortly afterwards he appeared on their show. That helped raise the profile of the hosts, as well as of tech podcasting in general. Helping them thrive is what would be called, in Silicon Valley jargon, a flywheel. Just before he hit the big time in 2024, Mr Patel tweeted his bank balance. It showed savings of $0.14. Then Mr Zuckerberg came onto the show and the advertising dollars poured in. As more prominent executives take part, not only do advertisers notice; so do potential customers, investors and jobseekers, raising the quality of the audience. \"This is luxurious media with very valuable eyeballs,\" says Josh Kaplan, boss of Smooth Media, which represents podcasters. The format is particularly well-suited to Silicon Valley, where founders invent stories for a living. \"We're not journalists; we are enthusiasts,\" says Patrick O'Shaughnessy, whose podcast, \"Invest Like the Best\", has a strong following in VC circles. These offerings may be popular, but do not expect them to invest in the costly investigative work that uncovers frauds, such as that at Theranos, a health-tech startup, exposed by the Wall Street Journal in 2015. Instead, AI is at the centre of their discussions. Unlike many parts of America, they treat it as almost the only topic worth discussing. But this obsession has further pushed Silicon Valley into a \"monoculture\", says David Senra, an influential podcaster. Recently he has been to tech dinners where conversation veers only between AI optimism and doomerism. \"It sounds like they are all reading the same tweets,\" he says. Lulu Cheng Meservey, a PR consultant to tech founders, reckons nine-tenths of people in tech speak only to other people in tech. Podcasts exacerbate that. They may be well-meaning, she says, but \"when a billionaire AI salesman is telling you whether to buy AI, you are taking that from someone who is entirely unrelatable to you.\" It may get worse. Silicon Valley's podcasters sprinkle their conversations with reverence for space missions, robots and other techno-wizardry. In an Alpocalypse, they would come out better off than most people. Mr Battelle calls it the \"golden ticket on the rocket ship\". If all else fails, they can podcast from Mars. But will people still want to listen to them?",
+        vocabs: [
+          {word:"entrepreneurs-turned-podcasters",phonetic:"/ˌɒntrəprəˈnɜːz/",definition:"创业者转型播客主"},
+          {word:"sauna",phonetic:"/ˈsɔːnə/",definition:"桑拿房"},
+          {word:"riffing",phonetic:"/ˈrɪfɪŋ/",definition:"即兴闲聊"},
+          {word:"demigods",phonetic:"/ˈdemɪɡɒdz/",definition:"大佬"},
+          {word:"plutocrats",phonetic:"/ˈpluːtəkræts/",definition:"财阀"},
+          {word:"straddle",phonetic:"/ˈstrædl/",definition:"横跨"},
+          {word:"incestuousness",phonetic:"/ɪnˈsestʃuəsnəs/",definition:"近亲式裙带"},
+          {word:"affiliation",phonetic:"/əˌfɪliˈeɪʃn/",definition:"关联"},
+          {word:"interviewees",phonetic:"/ˌɪntəvjuːˈiːz/",definition:"被采访者"},
+          {word:"elite",phonetic:"/eɪˈliːt/",definition:"精英"},
+          {word:"rift",phonetic:"/rɪft/",definition:"裂痕"},
+          {word:"techno-optimism",phonetic:"/ˈteknəʊ ˈɒptɪmɪzəm/",definition:"技术乐观主义"},
+          {word:"watershed",phonetic:"/ˈwɔːtəʃed/",definition:"分水岭"},
+          {word:"jargon",phonetic:"/ˈdʒɑːɡən/",definition:"行话"},
+          {word:"flywheel",phonetic:"/ˈflaɪwiːl/",definition:"飞轮效应"},
+          {word:"prominent",phonetic:"/ˈprɒmɪnənt/",definition:"知名的"},
+          {word:"luxurious",phonetic:"/lʌɡˈʒʊəriəs/",definition:"奢华的"},
+          {word:"enthusiasts",phonetic:"/ɪnˈθjuːziæsts/",definition:"热心人"},
+          {word:"investigative",phonetic:"/ɪnˈvestɪɡətɪv/",definition:"调查性的"},
+          {word:"frauds",phonetic:"/frɔːdz/",definition:"骗局"},
+          {word:"obsession",phonetic:"/əbˈseʃn/",definition:"痴迷"},
+          {word:"monoculture",phonetic:"/ˈmɒnəʊˌkʌltʃə/",definition:"单一文化"},
+          {word:"veers",phonetic:"/vɪəz/",definition:"转向"},
+          {word:"doomerism",phonetic:"/ˈduːmərɪzəm/",definition:"末日论"},
+          {word:"exacerbate",phonetic:"/ɪɡˈzæsəbeɪt/",definition:"加剧"},
+          {word:"unrelatable",phonetic:"/ˌʌnrɪˈleɪtəbl/",definition:"无法共鸣的"},
+          {word:"reverence",phonetic:"/ˈrevərəns/",definition:"崇敬"}
+        ]
+      },
+      {
+        title: "An International Career Forged by the Struggles of Apartheid",
+        publishDate: "2026-10-12",
+        fileKey: "2026-10-12_001",
+        source: "The New York Times",
+        cleanPath: "/articles/2026/10/2026-10-12_001.clean.html",
+        annotatedPath: "/articles/2026/10/2026-10-12_001.annotated.html",
+        plainText: "An International Career Forged by the Struggles of Apartheid — 2026/10/12 An International Career Forged by the Struggles of Apartheid 2026/10/12 An International Career Forged by the Struggles of Apartheid Navi Pillay, who won this year's Nobel Peace Prize, fought racism in South Africa, shaping her international career as a judge and advocate for justice and human rights. She lived her childhood in a slum without sewage or water, attended a school for only children of Indian descent, and knew that her skin color prohibited her from going to the beach her father would drive past during the Christmas season. But she also described a pivotal moment that helped her rise from under the thumb of racism: Parents in her community in the coastal city of Durban pooled their money to send her to university, after her high school principal said she had potential. That opportunity began a barrier-breaking career that led Ms. Pillay to becoming a lawyer, a judge on multiple international courts, the human rights chief of the United Nations and, on Friday, a Nobel Peace Prize laureate. In announcing the prize, the Nobel committee said that Ms. Pillay had been \"instrumental in ensuring that war crimes, crimes against humanity and genocide are prosecuted.\" She becomes the fifth South African to win the award, joining the ranks of the country's most vaunted figures including Nelson Mandela and Archbishop Desmond Tutu. While much of Ms. Pillay's global recognition comes from human rights work she has done abroad, her experiences in South Africa have indelibly shaped her life, and she has remained deeply invested in her home country's sometimes-fragile democracy. \"I see this award as the voice of the majority of the world,\" Ms. Pillay said in an interview with the South African state broadcaster on Friday. She added that a majority of South Africans \"want the rule of law, they want the independent judiciary to be respected.\" She studied law at what is now the University of KwaZulu-Natal. Because it was segregated, Black students had to attend classes at night, said Jessica Neuwirth, a human-rights lawyer and activist who has known Ms. Pillay for four decades. During the day, Ms. Pillay would go to the library, where she found books about the Nuremberg trials, helping inspire her fascination with international justice, Ms. Neuwirth said. When the apartheid government locked up her husband, Gaby Pillay, who was also a lawyer, for political activities and cut off his access to the outside world, Ms. Pillay used his power of attorney to file an action on his behalf, Ms. Neuwirth said. She ended up winning an order prohibiting his torture. Ms. Pillay's struggle to maneuver within a racist system applying unjust laws in some ways helped her develop the persistence she needed, she has said in interviews. She said in a podcast interview last year that she would keep filing legal motions even if they had little chance of succeeding because she believed that was the only weapon she had to fight the system. \"It was clear to me the only thing I can do is keep going, seeking justice,\" she said. She rose to international prominence shortly after apartheid ended in the 1990s, as a judge on the tribunal on the Rwanda genocide, which broke new ground in prosecuting the crime of genocide and treating mass rape as a form of genocide. Ms. Pillay later served as a judge on the International Criminal Court, the U.N. High Commissioner for Human Rights, and a substitute judge of the International Court of Justice. The prize, however, was not welcomed everywhere. Speaking at a rally in Syracuse, New York, on Friday evening, President Trump spent about 10 minutes attacking the decision, describing Ms. Pillay as a \"mystery person\" he had never heard of and warning Norway that he would not forget it. On social media, he said he deserved eight Nobel Peace Prizes for the wars he claims to have settled, though some of those conflicts continue and others were ended largely by other parties. The chairman of the Norwegian Nobel Committee replied calmly, saying the panel is independent of the government and bound only by the will of Alfred Nobel. Ms. Pillay, for her part, had already joked to an applauding crowd in Nuremberg that if they kept clapping, she might share the prize with Mr. Trump.",
+        vocabs: [
+          {word:"apartheid",phonetic:"/əˈpɑːteɪt/",definition:"种族隔离"},
+          {word:"slum",phonetic:"/slʌm/",definition:"贫民窟"},
+          {word:"sewage",phonetic:"/ˈsuːɪdʒ/",definition:"污水"},
+          {word:"descent",phonetic:"/dɪˈsent/",definition:"血统"},
+          {word:"prohibited",phonetic:"/prəˈhɪbɪtɪd/",definition:"禁止"},
+          {word:"pivotal",phonetic:"/ˈpɪvətl/",definition:"关键的"},
+          {word:"principal",phonetic:"/ˈprɪnsəpl/",definition:"校长"},
+          {word:"instrumental",phonetic:"/ˌɪnstrəˈmentl/",definition:"起关键作用的"},
+          {word:"genocide",phonetic:"/ˈdʒenəsaɪd/",definition:"种族灭绝"},
+          {word:"prosecuted",phonetic:"/ˈprɒsɪkjuːtɪd/",definition:"起诉"},
+          {word:"vaunted",phonetic:"/ˈvɔːntɪd/",definition:"备受推崇的"},
+          {word:"indelibly",phonetic:"/ɪnˈdeləbli/",definition:"不可磨灭地"},
+          {word:"judiciary",phonetic:"/dʒuˈdɪʃəri/",definition:"司法机构"},
+          {word:"segregated",phonetic:"/ˈseɡrɪɡeɪtɪd/",definition:"种族隔离的"},
+          {word:"fascination",phonetic:"/ˌfæsɪˈneɪʃn/",definition:"痴迷"},
+          {word:"maneuver",phonetic:"/məˈnuːvə/",definition:"周旋"},
+          {word:"persistence",phonetic:"/pəˈsɪstəns/",definition:"坚持"},
+          {word:"motions",phonetic:"/ˈməʊʃnz/",definition:"法律动议"},
+          {word:"prosecuting",phonetic:"/ˈprɒsɪkjuːtɪŋ/",definition:"起诉"},
+          {word:"substitute",phonetic:"/ˈsʌbstɪtjuːt/",definition:"替补的"},
+          {word:"rally",phonetic:"/ˈræli/",definition:"集会"},
+          {word:"mystery",phonetic:"/ˈmɪstri/",definition:"神秘的"},
+          {word:"conflicts",phonetic:"/ˈkɒnflɪkts/",definition:"冲突"},
+          {word:"bound",phonetic:"/baʊnd/",definition:"受约束的"}
+        ]
+      }
+    ]
+
+    createApp({
+      data(){
+        return {
+          kw: "",
+          articleList: [],
+          selectedDate: "",
+          calYear: 2026,
+          calMonth: 9, // 0=Jan, 9=Oct
+          todayStr: "2026-10-12",
+          showArticle: false,
+          currentArticle: null,
+          mode: "clean",
+          showVocab: false,
+          vocabList: [],
+          articleHtml: ""
+        }
+      },
+      computed:{
+        calCells(){
+          const year = this.calYear
+          const month = this.calMonth
+          const firstDay = new Date(year, month, 1).getDay() // 0=Sun
+          const daysInMonth = new Date(year, month+1, 0).getDate()
+          const cells = []
+          for(let i=0;i<firstDay;i++) cells.push({day:null,date:null})
+          for(let d=1;d<=daysInMonth;d++){
+            const dateStr = `${year}-${String(month+1).padStart(2,'0')}-${String(d).padStart(2,'0')}`
+            cells.push({day:d, date:dateStr, hasArticle: ARTICLES.some(a=>a.publishDate===dateStr)})
+          }
+          return cells
+        }
+      },
+      methods:{
+        changeMonth(delta){
+          let m = this.calMonth + delta
+          let y = this.calYear
+          if(m<0){m=11;y--}
+          if(m>11){m=0;y++}
+          this.calMonth = m
+          this.calYear = y
+        },
+        selectDate(date){
+          this.selectedDate = date
+          this.articleList = ARTICLES.filter(a => a.publishDate === date)
+        },
+        extractSnippet(text, kw){
+          const idx = text.toLowerCase().indexOf(kw.toLowerCase())
+          if(idx === -1) return ''
+          const start = Math.max(0, idx - 50)
+          const end = Math.min(text.length, idx + kw.length + 80)
+          let snippet = (start > 0 ? '...' : '') + text.substring(start, end) + (end < text.length ? '...' : '')
+          // 高亮关键词
+          const re = new RegExp('(' + kw.replace(/[.*+?^${}()|[\]\\]/g,'\\$&') + ')', 'gi')
+          snippet = snippet.replace(re, '<mark style="background:#fef08a;padding:0 2px;">$1</mark>')
+          return snippet
+        },
+        searchTitle(){
+          if(!this.kw.trim()){ this.articleList = []; return }
+          const k = this.kw.toLowerCase()
+          const kw = this.kw.trim()
+          this.articleList = ARTICLES.filter(a =>
+            a.title.toLowerCase().includes(k) ||
+            (a.source||"").toLowerCase().includes(k)
+          ).map(a => {
+            const s = this.extractSnippet(a.title, kw)
+            return {...a, _snippet: s ? '【标题】' + s : ''}
+          })
+        },
+        searchFull(){
+          if(!this.kw.trim()){ this.articleList = []; return }
+          const k = this.kw.toLowerCase()
+          const kw = this.kw.trim()
+          this.articleList = ARTICLES.filter(a =>
+            a.title.toLowerCase().includes(k) ||
+            a.plainText.toLowerCase().includes(k) ||
+            (a.source||"").toLowerCase().includes(k)
+          ).map(a => {
+            const s = this.extractSnippet(a.plainText, kw)
+            return {...a, _snippet: s ? s : ''}
+          })
+        },
+        openArticle(art){
+          this.currentArticle = art
+          this.showArticle = true
+          this.mode = "clean"
+          this.vocabList = art.vocabs || []
+          this.loadContent()
+        },
+        loadContent(){
+          const url = this.mode === "clean"
+            ? this.currentArticle.cleanPath
+            : this.currentArticle.annotatedPath
+          fetch(url).then(r=>r.text()).then(html=>{
+            this.articleHtml = html
+            // 搜索后自动滚动到关键词
+            if(this.kw.trim()){
+              setTimeout(()=>{
+                this.scrollToKeyword(this.kw.trim())
+              }, 300)
+            }
+          }).catch(()=>{
+            this.articleHtml = "<p style='color:#999'>文章加载失败，请检查文件路径。</p>"
+          })
+        },
+        scrollToKeyword(kw){
+          const container = document.querySelector('.modal-card')
+          if(!container) return
+          // 遍历文本节点找关键词
+          const walker = document.createTreeWalker(container, NodeFilter.SHOW_TEXT, null)
+          const kwLower = kw.toLowerCase()
+          let node
+          while(node = walker.nextNode()){
+            if(node.textContent.toLowerCase().includes(kwLower)){
+              // 高亮并滚动
+              const range = document.createRange()
+              const idx = node.textContent.toLowerCase().indexOf(kwLower)
+              range.setStart(node, idx)
+              range.setEnd(node, idx + kw.length)
+              const mark = document.createElement('mark')
+              mark.style.background = '#fef08a'
+              mark.style.padding = '2px 0'
+              range.surroundContents(mark)
+              mark.scrollIntoView({behavior:'smooth', block:'center'})
+              break
+            }
+          }
+        },
+        closeArticle(){
+          this.showArticle = false
+          this.currentArticle = null
+          this.articleHtml = ""
+          this.showVocab = false
+        },
+        printArticle(){
+          const w = window.open('', '_blank')
+          w.document.write('<html><head><meta charset="utf-8"><title>'+this.currentArticle.title+'</title></head><body>'+this.articleHtml+'</body></html>')
+          w.document.close()
+          w.print()
+        },
+        printVocab(){
+          const rows = this.vocabList.map(v => '<tr><td>'+v.word+'</td><td>'+v.phonetic+'</td><td>'+v.definition+'</td></tr>').join('')
+          const w = window.open('', '_blank')
+          w.document.write('<html><head><meta charset="utf-8"><title>生词表</title><style>body{font-family:sans-serif;padding:2rem}table{width:100%;border-collapse:collapse}td{padding:6px;border-bottom:1px solid #ddd}</style></head><body><h2>'+this.currentArticle.title+' — 生词表</h2><table><tr><th>单词</th><th>音标</th><th>释义</th></tr>'+rows+'</table></body></html>')
+          w.document.close()
+          w.print()
+        }
+      }
+    }).mount('#app')
+  </script>
+</body>
+</html>

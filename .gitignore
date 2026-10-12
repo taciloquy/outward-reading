@@ -1,0 +1,7 @@
+node_modules/
+npm-debug.log*
+tmp_output/*.html
+.DS_Store
+Thumbs.db
+.vscode/
+*.swp
