@@ -1061,6 +1061,19 @@
           dictResult: null
         }
       },
+      mounted(){
+        // 打开网站自动选中最近有文章的日期
+        const dates = ARTICLES.map(a => a.publishDate).sort().reverse()
+        if(dates.length > 0){
+          const latestDate = dates[0]
+          this.selectedDate = latestDate
+          this.articleList = ARTICLES.filter(a => a.publishDate === latestDate)
+          // 跳转到对应月份
+          const [y, m] = latestDate.split('-')
+          this.calYear = parseInt(y)
+          this.calMonth = parseInt(m) - 1
+        }
+      },
       computed:{
         calCells(){
           const year = this.calYear
