@@ -128,7 +128,6 @@
     <div v-if="showArticle" class="modal" @click.self="closeArticle">
       <div class="modal-card">
         <span class="close-btn" @click="closeArticle">✕</span>
-        <h3>{{ currentArticle.title }}</h3>
         <div class="btn-group">
           <button :class="{primary:mode==='clean'}" @click="mode='clean';loadContent()">原文</button>
           <button :class="{primary:mode==='annotated'}" @click="mode='annotated';loadContent()">批注版</button>
