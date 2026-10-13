@@ -20,11 +20,11 @@
     .cal-header{display:flex;justify-content:space-between;align-items:center;margin-bottom:0.8rem;}
     .cal-header button{padding:4px 10px;cursor:pointer;border:1px solid #ddd;background:#fff;border-radius:6px;font-size:0.85rem;}
     .cal-header .cal-title{font-size:1rem;font-weight:600;}
-    .cal-grid{display:grid;grid-template-columns:repeat(7,1fr);gap:3px;}
+    .cal-grid{display:grid;grid-template-columns:repeat(7,1fr);grid-auto-rows:32px;gap:3px;}
     .cal-dow{text-align:center;font-size:0.7rem;color:#999;padding:2px 0;font-weight:600;}
     .cal-day{height:32px;display:flex;align-items:center;justify-content:center;border-radius:6px;cursor:pointer;font-size:0.8rem;border:1px solid transparent;transition:all .15s;position:relative;}
     .cal-day:hover{background:#eff6ff;}
-    .cal-day.empty{cursor:default;visibility:hidden;}
+    .cal-day.empty{cursor:default;visibility:hidden;height:32px;}
     .cal-day.empty:hover{background:transparent;}
     .cal-day.has-article{background:#dbeafe;color:#2563eb;font-weight:600;}
     .cal-day.has-article::after{content:'';position:absolute;bottom:4px;width:5px;height:5px;border-radius:50%;background:#2563eb;}
