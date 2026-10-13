@@ -134,6 +134,7 @@
           <!-- <button @click="showVocab=true">生词表</button> -->
           <button @click="printArticle()" title="打印" style="padding:8px 12px;">🖨</button>
           <button @click="showUploadModal=true" title="上传音频" style="padding:8px 12px;">📤</button>
+          <button @click="openAudioPlayer()" title="播放音频" style="padding:8px 12px;">🎵</button>
           <button @click="downloadArticle()" title="下载" style="padding:8px 12px;">⬇</button>
           <button @click="toggleSpeak()" :title="speaking?'停止朗读':'朗读'" style="padding:8px 10px;">
             <svg width="16" height="16" viewBox="0 0 24 24" fill="#f59e0b" style="vertical-align:-2px;"><path d="M3 9v6h4l5 5V4L7 9H3zm13.5 3c0-1.77-1.02-3.29-2.5-4.03v8.05c1.48-.73 2.5-2.25 2.5-4.02zM14 3.23v2.06c2.89.86 5 3.54 5 6.71s-2.11 5.85-5 6.71v2.06c4.01-.91 7-4.49 7-8.77s-2.99-7.86-7-8.77z"/></svg>
@@ -157,6 +158,40 @@
     </div>
 
     <!-- 生词弹窗 -->
+    <!-- 播放音频弹窗 -->
+    <div v-if="showAudioPlayer" class="modal" @click.self="showAudioPlayer=false">
+      <div class="modal-card">
+        <span class="close-btn" @click="showAudioPlayer=false">✕</span>
+        <h3>播放音频</h3>
+        
+        <!-- AI 音频 -->
+        <div style="margin:1rem 0;padding:1rem;border:1px solid #ddd;border-radius:8px;">
+          <strong>AI 朗读</strong>
+          <p style="color:#666;font-size:0.9rem;margin:0.5rem 0 0 0;">使用浏览器自带的 AI 语音朗读文章</p>
+        </div>
+        
+        <!-- 用户上传的音频 -->
+        <div style="margin:1rem 0;">
+          <strong>已上传的音频</strong>
+          <div v-if="uploadedAudios.length === 0" style="color:#999;margin-top:0.5rem;">暂无上传的音频</div>
+          <div v-for="audio in uploadedAudios" :key="audio.id" style="margin:0.5rem 0;padding:0.8rem;border:1px solid #ddd;border-radius:8px;">
+            <div style="display:flex;justify-content:space-between;align-items:center;">
+              <div>
+                <strong>{{audio.uploaderName}}</strong>
+                <span style="color:#999;font-size:0.85rem;margin-left:8px;">{{audio.fileName}}</span>
+              </div>
+              <div>
+                <button @click="playAudio(audio)" style="padding:4px 12px;cursor:pointer;margin-right:8px;">播放</button>
+                <button @click="deleteAudio(audio.id)" style="padding:4px 12px;cursor:pointer;color:red;">删除</button>
+              </div>
+            </div>
+          </div>
+        </div>
+        
+        <button @click="showAudioPlayer=false" style="padding:8px 16px;cursor:pointer;">关闭</button>
+      </div>
+    </div>
+
     <!-- 上传音频弹窗 -->
     <div v-if="showUploadModal" class="modal" @click.self="showUploadModal=false">
       <div class="modal-card">
@@ -1075,6 +1110,7 @@
           vocabList: [],
           articleHtml: "",
         showUploadModal: false,
+        showAudioPlayer: false,
         uploaderName: localStorage.getItem("uploaderName") || "",
         uploadedAudios: [],
           speaking: false,
@@ -1275,6 +1311,29 @@
           query.onsuccess = (e) => {
             this.uploadedAudios = e.target.result;
           };
+        };
+      },
+      // 播放音频
+      playAudio(audio){
+        const audioEl = new Audio(audio.audioData);
+        audioEl.play();
+      },
+      // 打开播放音频弹窗
+      openAudioPlayer(){
+        this.showAudioPlayer = true;
+        this.loadUploadedAudios(this.currentArticle.fileKey);
+      },
+      // 删除音频
+      deleteAudio(audioId){
+        if (!confirm("确定要删除这个音频吗？")) return;
+        const request = indexedDB.open("audioDB", 1);
+        request.onsuccess = (e) => {
+          const db = e.target.result;
+          const transaction = db.transaction(["audios"], "readwrite");
+          const store = transaction.objectStore("audios");
+          store.delete(audioId);
+          alert("删除成功！");
+          this.loadUploadedAudios(this.currentArticle.fileKey);
         };
       },
       clearCache(){
