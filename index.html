@@ -1173,6 +1173,8 @@
                 return match;
               });
             }
+            // 去掉文章里的header-bar（灰色小标题）
+            html = html.replace(/<div class='header-bar'>[\s\S]*?<\/div>/, "");
             this.articleHtml = html;
             this.dictResult = null;
             // 存到缓存
