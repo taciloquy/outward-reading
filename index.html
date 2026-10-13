@@ -133,7 +133,8 @@
           <button :class="{primary:mode==='annotated'}" @click="mode='annotated';loadContent()">批注版</button>
           <!-- <button @click="showVocab=true">生词表</button> -->
           <button @click="printArticle()" title="打印" style="padding:8px 12px;">🖨</button>
-          <button @click="showUploadModal=true" title="上传音频" style="padding:8px 12px;">📤</button>
+          <button @click="startRecording()" :title="isRecording ? '停止录音' : '直接录音'" style="padding:8px 12px;" v-if="!isRecording">🎙</button>
+          <button @click="stopRecording()" :title="'停止录音 (' + recordingSeconds + '秒)'" style="padding:8px 12px;background:#ff4444;color:white;" v-else>⏱ {{recordingSeconds}}s</button>
           <button @click="openAudioPlayer()" title="播放音频" style="padding:8px 12px;">🎵</button>
           <button @click="downloadArticle()" title="下载" style="padding:8px 12px;">⬇</button>
           <button @click="toggleSpeak()" :title="speaking?'停止朗读':'朗读'" style="padding:8px 10px;">
@@ -209,20 +210,6 @@
       </div>
     </div>
 
-    <div v-if="showVocab" class="modal" @click.self="showVocab=false">
-      <div class="modal-card">
-        <span class="close-btn" @click="showVocab=false">✕</span>
-        <h3>本篇生词</h3>
-        <div class="btn-group" style="margin-bottom:1rem;">
-          <button @click="printVocab()">🖨 打印生词表</button>
-        </div>
-        <div class="vocab-item" v-for="v in vocabList" :key="v.word">
-          <strong>{{ v.word }}</strong>
-          <span class="phonetic">{{ v.phonetic }}</span>
-          <span class="def">{{ v.definition }}</span>
-        </div>
-      </div>
-    </div>
   </div>
 
   <script>
@@ -1111,6 +1098,11 @@
           articleHtml: "",
         showUploadModal: false,
         showAudioPlayer: false,
+        isRecording: false,
+        mediaRecorder: null,
+        recordedChunks: [],
+        recordingTimer: null,
+        recordingSeconds: 0,
         uploaderName: localStorage.getItem("uploaderName") || "",
         uploadedAudios: [],
           speaking: false,
@@ -1317,6 +1309,54 @@
       playAudio(audio){
         const audioEl = new Audio(audio.audioData);
         audioEl.play();
+      },
+      // 开始录音
+      async startRecording(){
+        try {
+          const stream = await navigator.mediaDevices.getUserMedia({ audio: true });
+          this.mediaRecorder = new MediaRecorder(stream);
+          this.recordedChunks = [];
+          
+          this.mediaRecorder.ondataavailable = (e) => {
+            if (e.data.size > 0) this.recordedChunks.push(e.data);
+          };
+          
+          this.mediaRecorder.onstop = () => {
+            const blob = new Blob(this.recordedChunks, { type: 'audio/webm' });
+            const reader = new FileReader();
+            reader.onload = (e) => {
+              const audioData = e.target.result;
+              const articleId = this.currentArticle.fileKey;
+              const uploaderName = this.uploaderName || "匿名";
+              
+              // 保存到 IndexedDB
+              this.saveAudioToDB(articleId, uploaderName, audioData, "录音_" + new Date().toLocaleTimeString() + ".webm");
+              
+              alert("录音完成，已保存！");
+            };
+            reader.readAsDataURL(blob);
+            
+            // 停止所有轨道
+            stream.getTracks().forEach(track => track.stop());
+          };
+          
+          this.mediaRecorder.start();
+          this.isRecording = true;
+          this.recordingSeconds = 0;
+          this.recordingTimer = setInterval(() => {
+            this.recordingSeconds++;
+          }, 1000);
+        } catch (err) {
+          alert("无法访问麦克风：" + err.message);
+        }
+      },
+      // 停止录音
+      stopRecording(){
+        if (this.mediaRecorder && this.isRecording) {
+          this.mediaRecorder.stop();
+          this.isRecording = false;
+          clearInterval(this.recordingTimer);
+        }
       },
       // 打开播放音频弹窗
       openAudioPlayer(){
