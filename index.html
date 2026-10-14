@@ -210,20 +210,6 @@
       </div>
     </div>
 
-    <div v-if="showVocab" class="modal" @click.self="showVocab=false">
-      <div class="modal-card">
-        <span class="close-btn" @click="showVocab=false">✕</span>
-        <h3>本篇生词</h3>
-        <div class="btn-group" style="margin-bottom:1rem;">
-          <button @click="printVocab()">🖨 打印生词表</button>
-        </div>
-        <div class="vocab-item" v-for="v in vocabList" :key="v.word">
-          <strong>{{ v.word }}</strong>
-          <span class="phonetic">{{ v.phonetic }}</span>
-          <span class="def">{{ v.definition }}</span>
-        </div>
-      </div>
-    </div>
   </div>
 
   <script>
