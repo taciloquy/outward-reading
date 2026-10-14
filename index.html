@@ -1101,7 +1101,7 @@
           selectedDate: "",
           calYear: 2026,
           calMonth: 9, // 0=Jan, 9=Oct
-          todayStr: "2026-10-13",
+          todayStr: new Date().toISOString().split("T")[0],
           showArticle: false,
           currentArticle: null,
           mode: "clean",
