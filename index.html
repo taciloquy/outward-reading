@@ -1234,10 +1234,6 @@
                 return match;
               });
             }
-            // 去掉文章里的header-bar、h1和subtitle（重复的标题）
-            html = html.replace(/<div class='header-bar'>[\s\S]*?<\/div>/, "");
-            html = html.replace(/<h1>[\s\S]*?<\/h1>/, "");
-            html = html.replace(/<div class='subtitle'>[\s\S]*?<\/div>/, "");
             this.articleHtml = html;
             this.dictResult = null;
             // 存到缓存
