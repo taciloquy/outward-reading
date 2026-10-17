@@ -64,7 +64,7 @@
     .vocab-item .phonetic{color:#1a6fb0;margin:0 6px;}
     .vocab-item .def{color:#555;}
     .empty{color:#999;padding:2rem 0;text-align:center;}
-    .close-btn{position:sticky;top:0;float:right;cursor:pointer;font-size:1.2rem;color:#888;}
+    .close-btn{position:sticky;top:0;float:right;cursor:pointer;font-size:1.5rem;color:#888;padding:4px 12px;background:#f5f5f5;border-radius:8px;margin-bottom:8px;}
 
     /* ===== 手机适配 ===== */
     @media (max-width: 600px) {
@@ -133,9 +133,6 @@
           <button :class="{primary:mode==='annotated'}" @click="mode='annotated';loadContent()">批注版</button>
           <!-- <button @click="showVocab=true">生词表</button> -->
           <button @click="printArticle()" title="打印" style="padding:8px 12px;">🖨</button>
-          <button @click="startRecording()" :title="isRecording ? '停止录音' : '直接录音'" style="padding:8px 12px;" v-if="!isRecording">🎙</button>
-          <button @click="stopRecording()" :title="'停止录音 (' + recordingSeconds + '秒)'" style="padding:8px 12px;background:#ff4444;color:white;" v-else>⏱ {{recordingSeconds}}s</button>
-          <button @click="openAudioPlayer()" title="播放音频" style="padding:8px 12px;">🎵</button>
           <button @click="downloadArticle()" title="下载" style="padding:8px 12px;">⬇</button>
           <button @click="toggleSpeak()" :title="speaking?'停止朗读':'朗读'" style="padding:8px 10px;">
             <svg width="16" height="16" viewBox="0 0 24 24" fill="#f59e0b" style="vertical-align:-2px;"><path d="M3 9v6h4l5 5V4L7 9H3zm13.5 3c0-1.77-1.02-3.29-2.5-4.03v8.05c1.48-.73 2.5-2.25 2.5-4.02zM14 3.23v2.06c2.89.86 5 3.54 5 6.71s-2.11 5.85-5 6.71v2.06c4.01-.91 7-4.49 7-8.77s-2.99-7.86-7-8.77z"/></svg>
@@ -159,56 +156,6 @@
     </div>
 
     <!-- 生词弹窗 -->
-    <!-- 播放音频弹窗 -->
-    <div v-if="showAudioPlayer" class="modal" @click.self="showAudioPlayer=false">
-      <div class="modal-card">
-        <span class="close-btn" @click="showAudioPlayer=false">✕</span>
-        <h3>播放音频</h3>
-        
-        <!-- AI 音频 -->
-        <div style="margin:1rem 0;padding:1rem;border:1px solid #ddd;border-radius:8px;">
-          <strong>AI 朗读</strong>
-          <p style="color:#666;font-size:0.9rem;margin:0.5rem 0 0 0;">使用浏览器自带的 AI 语音朗读文章</p>
-        </div>
-        
-        <!-- 用户上传的音频 -->
-        <div style="margin:1rem 0;">
-          <strong>已上传的音频</strong>
-          <div v-if="uploadedAudios.length === 0" style="color:#999;margin-top:0.5rem;">暂无上传的音频</div>
-          <div v-for="audio in uploadedAudios" :key="audio.id" style="margin:0.5rem 0;padding:0.8rem;border:1px solid #ddd;border-radius:8px;">
-            <div style="display:flex;justify-content:space-between;align-items:center;">
-              <div>
-                <strong>{{audio.uploaderName}}</strong>
-                <span style="color:#999;font-size:0.85rem;margin-left:8px;">{{audio.fileName}}</span>
-              </div>
-              <div>
-                <button @click="playAudio(audio)" style="padding:4px 12px;cursor:pointer;margin-right:8px;">播放</button>
-                <button @click="deleteAudio(audio.id)" style="padding:4px 12px;cursor:pointer;color:red;">删除</button>
-              </div>
-            </div>
-          </div>
-        </div>
-        
-        <button @click="showAudioPlayer=false" style="padding:8px 16px;cursor:pointer;">关闭</button>
-      </div>
-    </div>
-
-    <!-- 上传音频弹窗 -->
-    <div v-if="showUploadModal" class="modal" @click.self="showUploadModal=false">
-      <div class="modal-card">
-        <span class="close-btn" @click="showUploadModal=false">✕</span>
-        <h3>上传音频</h3>
-        <div style="margin:1rem 0;">
-          <label>上传者名字：</label>
-          <input v-model="uploaderName" placeholder="输入你的名字" style="padding:6px;margin-left:8px;">
-        </div>
-        <div style="margin:1rem 0;">
-          <label>选择音频文件：</label>
-          <input ref="audioFile" type="file" accept="audio/*" style="margin-left:8px;">
-        </div>
-        <button @click="uploadAudio()" style="padding:8px 16px;cursor:pointer;">上传</button>
-      </div>
-    </div>
 
   </div>
 
@@ -217,18 +164,6 @@
 
     // ===== 文章数据库（嵌入前端，纯静态） =====
     const ARTICLES = [
-      {
-        title: "Are 60-Second Microdramas the Future of Hollywood, or the End?",
-        publishDate: "2026-10-14",
-        fileKey: "2026-10-14_001",
-        source: "The Economist",
-        cleanPath: "/outward-reading/articles/2026/10/2026-10-14_001.clean.html",
-        annotatedPath: "/outward-reading/articles/2026/10/2026-10-14_001.annotated.html",
-        plainText: "Are 60-Second Microdramas the Future of Hollywood, or the End? — 2026/10/14 Are 60-Second Microdramas the Future of Hollywood, or the End? 2026/10/14 Are 60-Second Microdramas the Future of Hollywood, or the End? 中国短剧杀进好莱坞：一集60秒、一年赚15亿美元，美国都急了！ In 2020, the entertainment mogul Jeffrey Katzenberg brought to life an idea that must have seemed — in the flash of its conception — foolproof: Netflix, but for people addicted to their phones. He called it Quibi: short for \"quick bites.\" It collapsed after eight months in a total void of public interest. And yet, the joke may very well be on us. Because, just six years later, short-form, mobile-first narrative entertainment is the fastest-growing form of streaming worldwide, per Bloomberg. Microdramas, sometimes called \"verticals,\" are TV shows for your phone. They are typically described as soap operas for Gen Z: hypersexual, over the top and — most important — short, with episodes rarely exceeding two minutes in length. The format was born around 2018 in China, where its revenue now exceeds that of the conventional film industry. As I write this, the form is on track to take in $1.5 billion in revenue in the United States by the end of the year. Each short episode opens with a hook and ends with a twist, dragging viewers, like recalcitrant pets, through entire seasons roughly the length of a feature film. In the first years of this decade, a number of Chinese companies began to export the form abroad, creating countless U.S. microdrama apps and coordinating U.S.-based microdrama shoots in order to supply those apps with content. These companies still retain a near monopoly on U.S. production, but that is quickly changing. Hollywood executives — noticing these apps outranking their own streamers on the charts — have started to spin up microdrama platforms of their own. I'd managed to wrangle three days of set visits on a show called \"Bound by Love,\" a production of ReelShort. Culturally, ReelShort is an interesting case: the flagship brand of an American company originally financed — and still partly owned — by a Chinese digital content group. The 9:16 format that fills a vertical phone screen leaves little room to maneuver, requiring actors to stand unnaturally close together. \"Bound by Love,\" which in its finished form would run more than two and a half hours, was to be shot at a variety of locations over the course of just 11 days. The key grip had an explanation for this: The scenes they were shooting that day were for an early episode, one that would appear before the viewer hit the paywall. As at least a dozen people would subsequently inform me, the platforms are not overly invested in the quality of the episodes that come after — i.e., the episodes a viewer has actually paid to see. The goal is to keep them up, which is distinct from telling a good or even coherent story. What is clear with hindsight is that Quibi failed primarily because it was TV — regular old TV — that happened to be on your phone. The intervening years have taught us that what tends to succeed on phones is phone stuff. This is the terrain that ReelShort and its peers have precision-engineered their content to compete on. Fox Entertainment has made an equity investment in the microdrama platform Holywater. Disney+ has begun to produce microdramas of its own, and Paramount+ has a slate scheduled for the fall. Today microdramas are — as more than one person put it to me — the only game in town. \"I was fighting it for a long time, but Old Hollywood is dead.\" Microdramas, she went on, are commercialized, rule-bound, utterly devoid of artistry. \"And this can't be the end of it for me, so I'm joining the bandwagon.\" The male leads I spoke to, specifically, seemed uniformly thrilled by this professional windfall. It's different for the women. Apparently, China's short-form video platforms had recently seen a milestone: more than $12 million spent in one day on advertisements for A.I.-generated microdramas. The country's microdrama production hubs, meanwhile — sites of industrial-scale production only months earlier — were emptying out. Actors who were in demand last year, stars of the form, were doing food delivery just to survive. Gelb was seeing the writing on the wall: \"Experience shows that, in the microdrama world, what happens in China does not stay in China.\" It's a preview for what's to come for the rest of the world. \" Soon after I returned, it emerged that an average of 470 A.I.-generated microdramas were released on Chinese platforms each day this past January. In the same period, COL Group — a part-owner of ReelShort's parent company — said that it planned to replace 75 percent of its actors with A.I. for titles released in China. I spoke to an executive at COL, a man named Timothy Oh. He seemed amused, if puzzled, by the continued American resistance to A.I.-generated content. \"The reality is, content is content,\" he told me. \"People are already watching A.I. slop on Instagram.\" As I write this, A.I. microdramas are all over the ReelShort homepage, and make up a large percentage of their most-watched charts.",
-        vocabs: [
-          
-        ]
-      },
       {
         title: "No one is falling for Trump's budget-busting 'dividend' check gimmick",
         publishDate: "2026-09-14",
@@ -1093,6 +1028,18 @@
 
       },
       {
+        title: "Are 60-Second Microdramas the Future of Hollywood, or the End?",
+        publishDate: "2026-10-14",
+        fileKey: "2026-10-14_001",
+        source: "The Economist",
+        cleanPath: "/outward-reading/articles/2026/10/2026-10-14_001.clean.html",
+        annotatedPath: "/outward-reading/articles/2026/10/2026-10-14_001.annotated.html",
+        plainText: "Are 60-Second Microdramas the Future of Hollywood, or the End? — 2026/10/14 Are 60-Second Microdramas the Future of Hollywood, or the End? 2026/10/14 Are 60-Second Microdramas the Future of Hollywood, or the End? 中国短剧杀进好莱坞：一集60秒、一年赚15亿美元，美国都急了！ In 2020, the entertainment mogul Jeffrey Katzenberg brought to life an idea that must have seemed — in the flash of its conception — foolproof: Netflix, but for people addicted to their phones. He called it Quibi: short for \"quick bites.\" It collapsed after eight months in a total void of public interest. And yet, the joke may very well be on us. Because, just six years later, short-form, mobile-first narrative entertainment is the fastest-growing form of streaming worldwide, per Bloomberg. Microdramas, sometimes called \"verticals,\" are TV shows for your phone. They are typically described as soap operas for Gen Z: hypersexual, over the top and — most important — short, with episodes rarely exceeding two minutes in length. The format was born around 2018 in China, where its revenue now exceeds that of the conventional film industry. As I write this, the form is on track to take in $1.5 billion in revenue in the United States by the end of the year. Each short episode opens with a hook and ends with a twist, dragging viewers, like recalcitrant pets, through entire seasons roughly the length of a feature film. In the first years of this decade, a number of Chinese companies began to export the form abroad, creating countless U.S. microdrama apps and coordinating U.S.-based microdrama shoots in order to supply those apps with content. These companies still retain a near monopoly on U.S. production, but that is quickly changing. Hollywood executives — noticing these apps outranking their own streamers on the charts — have started to spin up microdrama platforms of their own. I'd managed to wrangle three days of set visits on a show called \"Bound by Love,\" a production of ReelShort. Culturally, ReelShort is an interesting case: the flagship brand of an American company originally financed — and still partly owned — by a Chinese digital content group. The 9:16 format that fills a vertical phone screen leaves little room to maneuver, requiring actors to stand unnaturally close together. \"Bound by Love,\" which in its finished form would run more than two and a half hours, was to be shot at a variety of locations over the course of just 11 days. The key grip had an explanation for this: The scenes they were shooting that day were for an early episode, one that would appear before the viewer hit the paywall. As at least a dozen people would subsequently inform me, the platforms are not overly invested in the quality of the episodes that come after — i.e., the episodes a viewer has actually paid to see. The goal is to keep them up, which is distinct from telling a good or even coherent story. What is clear with hindsight is that Quibi failed primarily because it was TV — regular old TV — that happened to be on your phone. The intervening years have taught us that what tends to succeed on phones is phone stuff. This is the terrain that ReelShort and its peers have precision-engineered their content to compete on. Fox Entertainment has made an equity investment in the microdrama platform Holywater. Disney+ has begun to produce microdramas of its own, and Paramount+ has a slate scheduled for the fall. Today microdramas are — as more than one person put it to me — the only game in town. \"I was fighting it for a long time, but Old Hollywood is dead.\" Microdramas, she went on, are commercialized, rule-bound, utterly devoid of artistry. \"And this can't be the end of it for me, so I'm joining the bandwagon.\" The male leads I spoke to, specifically, seemed uniformly thrilled by this professional windfall. It's different for the women. Apparently, China's short-form video platforms had recently seen a milestone: more than $12 million spent in one day on advertisements for A.I.-generated microdramas. The country's microdrama production hubs, meanwhile — sites of industrial-scale production only months earlier — were emptying out. Actors who were in demand last year, stars of the form, were doing food delivery just to survive. Gelb was seeing the writing on the wall: \"Experience shows that, in the microdrama world, what happens in China does not stay in China.\" It's a preview for what's to come for the rest of the world. \" Soon after I returned, it emerged that an average of 470 A.I.-generated microdramas were released on Chinese platforms each day this past January. In the same period, COL Group — a part-owner of ReelShort's parent company — said that it planned to replace 75 percent of its actors with A.I. for titles released in China. I spoke to an executive at COL, a man named Timothy Oh. He seemed amused, if puzzled, by the continued American resistance to A.I.-generated content. \"The reality is, content is content,\" he told me. \"People are already watching A.I. slop on Instagram.\" As I write this, A.I. microdramas are all over the ReelShort homepage, and make up a large percentage of their most-watched charts.",
+        vocabs: [
+          
+        ]
+      },
+      {
         title: "China is turning trash into treasure on a vast scale",
         publishDate: "2026-10-15",
         fileKey: "2026-10-15_001",
@@ -1133,15 +1080,6 @@
           showVocab: false,
           vocabList: [],
           articleHtml: "",
-        showUploadModal: false,
-        showAudioPlayer: false,
-        isRecording: false,
-        mediaRecorder: null,
-        recordedChunks: [],
-        recordingTimer: null,
-        recordingSeconds: 0,
-        uploaderName: localStorage.getItem("uploaderName") || "",
-        uploadedAudios: [],
           speaking: false,
           dictResult: null
         }
@@ -1158,6 +1096,14 @@
           this.calYear = parseInt(y)
           this.calMonth = parseInt(m) - 1
         }
+        // ESC 键关闭文章弹窗
+        this.escHandler = (e) => {
+          if (e.key === 'Escape' && this.showArticle) this.closeArticle()
+        }
+        document.addEventListener('keydown', this.escHandler)
+      },
+      beforeUnmount(){
+        if (this.escHandler) document.removeEventListener('keydown', this.escHandler)
       },
       computed:{
         calCells(){
@@ -1278,140 +1224,7 @@
             }
           })
         },
-        // 上传音频
-      async uploadAudio(){
-        const file = this.$refs.audioFile.files[0];
-        if (!file) {
-          alert("请选择音频文件");
-          return;
-        }
-        if (!this.uploaderName.trim()) {
-          alert("请输入上传者名字");
-          return;
-        }
-        localStorage.setItem("uploaderName", this.uploaderName);
-        
-        // 读取文件并保存到 IndexedDB
-        const reader = new FileReader();
-        reader.onload = (e) => {
-          const audioData = e.target.result;
-          const articleId = this.currentArticle.fileKey;
-          
-          // 保存到 IndexedDB
-          this.saveAudioToDB(articleId, this.uploaderName, audioData, file.name);
-          
-          alert("上传成功！");
-          this.showUploadModal = false;
-          this.loadUploadedAudios(articleId);
-        };
-        reader.readAsDataURL(file);
-      },
-      // 保存音频到 IndexedDB
-      saveAudioToDB(articleId, uploaderName, audioData, fileName){
-        const request = indexedDB.open("audioDB", 1);
-        request.onupgradeneeded = (e) => {
-          const db = e.target.result;
-          db.createObjectStore("audios", { keyPath: "id", autoIncrement: true });
-        };
-        request.onsuccess = (e) => {
-          const db = e.target.result;
-          const transaction = db.transaction(["audios"], "readwrite");
-          const store = transaction.objectStore("audios");
-          store.add({
-            articleId: articleId,
-            uploaderName: uploaderName,
-            audioData: audioData,
-            fileName: fileName,
-            uploadTime: new Date().getTime()
-          });
-        };
-      },
-      // 加载已上传的音频
-      loadUploadedAudios(articleId){
-        const request = indexedDB.open("audioDB", 1);
-        request.onsuccess = (e) => {
-          const db = e.target.result;
-          const transaction = db.transaction(["audios"], "readonly");
-          const store = transaction.objectStore("audios");
-          const index = store.index("articleId");
-          const query = index.getAll(articleId);
-          query.onsuccess = (e) => {
-            this.uploadedAudios = e.target.result;
-          };
-        };
-      },
-      // 播放音频
-      playAudio(audio){
-        const audioEl = new Audio(audio.audioData);
-        audioEl.play();
-      },
-      // 开始录音
-      async startRecording(){
-        try {
-          const stream = await navigator.mediaDevices.getUserMedia({ audio: true });
-          this.mediaRecorder = new MediaRecorder(stream);
-          this.recordedChunks = [];
-          
-          this.mediaRecorder.ondataavailable = (e) => {
-            if (e.data.size > 0) this.recordedChunks.push(e.data);
-          };
-          
-          this.mediaRecorder.onstop = () => {
-            const blob = new Blob(this.recordedChunks, { type: 'audio/webm' });
-            const reader = new FileReader();
-            reader.onload = (e) => {
-              const audioData = e.target.result;
-              const articleId = this.currentArticle.fileKey;
-              const uploaderName = this.uploaderName || "匿名";
-              
-              // 保存到 IndexedDB
-              this.saveAudioToDB(articleId, uploaderName, audioData, "录音_" + new Date().toLocaleTimeString() + ".webm");
-              
-              alert("录音完成，已保存！");
-            };
-            reader.readAsDataURL(blob);
-            
-            // 停止所有轨道
-            stream.getTracks().forEach(track => track.stop());
-          };
-          
-          this.mediaRecorder.start();
-          this.isRecording = true;
-          this.recordingSeconds = 0;
-          this.recordingTimer = setInterval(() => {
-            this.recordingSeconds++;
-          }, 1000);
-        } catch (err) {
-          alert("无法访问麦克风：" + err.message);
-        }
-      },
-      // 停止录音
-      stopRecording(){
-        if (this.mediaRecorder && this.isRecording) {
-          this.mediaRecorder.stop();
-          this.isRecording = false;
-          clearInterval(this.recordingTimer);
-        }
-      },
-      // 打开播放音频弹窗
-      openAudioPlayer(){
-        this.showAudioPlayer = true;
-        this.loadUploadedAudios(this.currentArticle.fileKey);
-      },
-      // 删除音频
-      deleteAudio(audioId){
-        if (!confirm("确定要删除这个音频吗？")) return;
-        const request = indexedDB.open("audioDB", 1);
-        request.onsuccess = (e) => {
-          const db = e.target.result;
-          const transaction = db.transaction(["audios"], "readwrite");
-          const store = transaction.objectStore("audios");
-          store.delete(audioId);
-          alert("删除成功！");
-          this.loadUploadedAudios(this.currentArticle.fileKey);
-        };
-      },
-      clearCache(){
+        clearCache(){
           const keys = Object.keys(localStorage).filter(k => k.startsWith('article_'));
           keys.forEach(k => localStorage.removeItem(k));
           alert('已清除 ' + keys.length + ' 篇文章的离线缓存');
