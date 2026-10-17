@@ -106,6 +106,27 @@ scanExisting(ARTICLES_DIR);
 console.log(`已处理文章: ${existingArticles.length} 篇`);
 console.log(`目录中 HTML 文件: ${allFiles.length} 个\n`);
 
+// ========== 补同步：已处理文章新增的 translated.html ==========
+let syncedTranslated = 0;
+for (const fileKey of existingArticles) {
+  const translatedName = `${fileKey}.translated.html`;
+  if (!allFiles.includes(translatedName)) continue;
+  // 找 clean 文件位置（推断年月目录）
+  const [dateStr] = [fileKey.split('_')[0]];
+  const [y, m] = dateStr.split('-');
+  const targetPath = path.join(ARTICLES_DIR, y, m, translatedName);
+  if (fs.existsSync(targetPath)) continue; // 已存在，跳过
+  const targetDir = path.dirname(targetPath);
+  fs.mkdirSync(targetDir, { recursive: true });
+  const translatedHtml = fs.readFileSync(path.join(SOURCE_DIR, translatedName), 'utf8');
+  fs.writeFileSync(targetPath, translatedHtml);
+  console.log(`🔄 补同步翻译版: articles/${y}/${m}/${translatedName}`);
+  syncedTranslated++;
+}
+if (syncedTranslated > 0) {
+  console.log(`✅ 补同步了 ${syncedTranslated} 个翻译版文件\n`);
+}
+
 const newArticles = [];
 
 // ========== 新格式：直接是 YYYY-MM-DD_001.clean.html / .annotated.html ==========
@@ -133,10 +154,18 @@ for (const cleanFile of newCleanFiles) {
   
   fs.writeFileSync(path.join(targetDir, cleanFile), cleanHtml);
   fs.writeFileSync(path.join(targetDir, annotatedFile), annotatedHtml);
-  
+
+  // 同步翻译版文件（如果存在）
+  const translatedFile = cleanFile.replace('.clean.html', '.translated.html');
+  if (allFiles.includes(translatedFile)) {
+    const translatedHtml = fs.readFileSync(path.join(SOURCE_DIR, translatedFile), 'utf8');
+    fs.writeFileSync(path.join(targetDir, translatedFile), translatedHtml);
+    console.log(`   ✅ 已写入: articles/${y}/${m}/${translatedFile}`);
+  }
+
   const plainText = extractPlainText(path.join(SOURCE_DIR, cleanFile));
   const vocabs = extractVocabs(annotatedHtml);
-  const titleMatch = cleanHtml.match(/<h1>([\s\S]*?)<\/h1>/);
+  const titleMatch = cleanHtml.match(/<h1[^>]*>([\s\S]*?)<\/h1>/) || cleanHtml.match(/<h2[^>]*>([\s\S]*?)<\/h2>/);
   const title = titleMatch ? titleMatch[1].replace(/<[^>]+>/g, '').trim() : fileKey;
   
   console.log(`   ✅ 已写入: articles/${y}/${m}/${cleanFile}`);
@@ -146,8 +175,8 @@ for (const cleanFile of newCleanFiles) {
   newArticles.push({
     title, publishDate: dateStr, fileKey,
     source: 'The Economist',
-    cleanPath: `/articles/${y}/${m}/${cleanFile}`,
-    annotatedPath: `/articles/${y}/${m}/${annotatedFile}`,
+    cleanPath: `/outward-reading/articles/${y}/${m}/${cleanFile}`,
+    annotatedPath: `/outward-reading/articles/${y}/${m}/${annotatedFile}`,
     plainText, vocabs
   });
 }
@@ -200,6 +229,14 @@ for (const plainFile of plainFiles) {
   fs.writeFileSync(path.join(targetDir, annotatedName), annotatedHtml);
   console.log(`   ✅ 已写入: articles/${y}/${m}/${cleanName}`);
   console.log(`   ✅ 已写入: articles/${y}/${m}/${annotatedName}`);
+
+  // 同步翻译版文件（如果存在）
+  const translatedName = `${fileKey}.translated.html`;
+  if (allFiles.includes(translatedName)) {
+    const translatedHtml = fs.readFileSync(path.join(SOURCE_DIR, translatedName), 'utf8');
+    fs.writeFileSync(path.join(targetDir, translatedName), translatedHtml);
+    console.log(`   ✅ 已写入: articles/${y}/${m}/${translatedName}`);
+  }
   
   // 提取正文和生词
   const plainText = extractPlainText(plainPath);
@@ -226,8 +263,8 @@ for (const plainFile of plainFiles) {
     publishDate: dateStr,
     fileKey,
     source: 'The Economist',
-    cleanPath: `/articles/${y}/${m}/${cleanName}`,
-    annotatedPath: `/articles/${y}/${m}/${annotatedName}`,
+    cleanPath: `/outward-reading/articles/${y}/${m}/${cleanName}`,
+    annotatedPath: `/outward-reading/articles/${y}/${m}/${annotatedName}`,
     plainText,
     vocabs
   });
