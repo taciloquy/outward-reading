@@ -131,6 +131,8 @@
         <div class="btn-group">
           <button :class="{primary:mode==='clean'}" @click="mode='clean';loadContent()">原文</button>
           <button :class="{primary:mode==='annotated'}" @click="mode='annotated';loadContent()">批注版</button>
+          <!-- 新增：翻译版按钮，新标签页打开同目录 translated.html -->
+          <button @click="openTranslated()" title="翻译版">翻译版</button>
           <!-- <button @click="showVocab=true">生词表</button> -->
           <button @click="printArticle()" title="打印" style="padding:8px 12px;">🖨</button>
           <button @click="downloadArticle()" title="下载" style="padding:8px 12px;">⬇</button>
@@ -1275,6 +1277,13 @@
           a.click();
           document.body.removeChild(a);
           URL.revokeObjectURL(url);
+        },
+        // 新增：打开翻译版（新标签页）
+        openTranslated(){
+          if (!this.currentArticle) return
+          // 把 cleanPath 的 .clean.html 替换为 .translated.html
+          const translatedUrl = this.currentArticle.cleanPath.replace('.clean.html', '.translated.html')
+          window.open(translatedUrl, '_blank')
         },
         toggleSpeak(){
           if (this.speaking) {
