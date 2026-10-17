@@ -54,6 +54,14 @@
     .article-content h1{font-size:18px !important;margin-bottom:6px !important;}
     .article-content .subtitle{font-size:12px !important;color:#555 !important;margin-bottom:12px !important;}
     .article-content .header-bar{font-size:11px !important;}
+    /* 【改动】翻译版视图：字体与原文(clean)一致，覆盖源 HTML 自带的 12pt 小字号 */
+    .translated-view{font-size:1.05rem !important;line-height:1.75 !important;font-family:system-ui,-apple-system,sans-serif !important;}
+    .translated-view h1{font-size:1.2rem !important;line-height:1.4 !important;margin:0 0 4px 0 !important;color:#222 !important;}
+    .translated-view h1.cn{font-size:0.95rem !important;color:#666 !important;font-weight:normal !important;margin:0 0 14px 0 !important;}
+    .translated-view div.g{margin:0 0 14px 0 !important;}
+    .translated-view p{font-size:1.05rem !important;line-height:1.75 !important;margin:0 0 4px 0 !important;color:#222 !important;font-family:system-ui,-apple-system,sans-serif !important;}
+    .translated-view p.cn{font-size:0.95rem !important;line-height:1.7 !important;color:#555 !important;margin:0 0 10px 0 !important;}
+    .translated-view *{letter-spacing:normal !important;}
     .btn-group button{margin-right:8px;padding:8px 14px;cursor:pointer;border-radius:6px;border:1px solid #aaa;background:#fff;font-size:0.9rem;}
     .btn-group button.primary{background:#2563eb;color:#fff;border-color:#2563eb;}
     .modal{position:fixed;top:0;left:0;right:0;bottom:0;background:rgba(0,0,0,.4);z-index:10;display:flex;align-items:center;justify-content:center;}
@@ -64,7 +72,7 @@
     .vocab-item .phonetic{color:#1a6fb0;margin:0 6px;}
     .vocab-item .def{color:#555;}
     .empty{color:#999;padding:2rem 0;text-align:center;}
-    .close-btn{position:sticky;top:0;float:right;cursor:pointer;font-size:1.2rem;color:#888;}
+    .close-btn{position:sticky;top:0;float:right;cursor:pointer;font-size:1.5rem;color:#888;padding:4px 12px;background:#f5f5f5;border-radius:8px;margin-bottom:8px;}
 
     /* ===== 手机适配 ===== */
     @media (max-width: 600px) {
@@ -131,11 +139,10 @@
         <div class="btn-group">
           <button :class="{primary:mode==='clean'}" @click="mode='clean';loadContent()">原文</button>
           <button :class="{primary:mode==='annotated'}" @click="mode='annotated';loadContent()">批注版</button>
+          <!-- 【改动】翻译版改为内嵌切换视图，不再新标签页打开 -->
+          <button :class="{primary:mode==='translated'}" @click="mode='translated';loadContent()">翻译</button>
           <!-- <button @click="showVocab=true">生词表</button> -->
           <button @click="printArticle()" title="打印" style="padding:8px 12px;">🖨</button>
-          <button @click="startRecording()" :title="isRecording ? '停止录音' : '直接录音'" style="padding:8px 12px;" v-if="!isRecording">🎙</button>
-          <button @click="stopRecording()" :title="'停止录音 (' + recordingSeconds + '秒)'" style="padding:8px 12px;background:#ff4444;color:white;" v-else>⏱ {{recordingSeconds}}s</button>
-          <button @click="openAudioPlayer()" title="播放音频" style="padding:8px 12px;">🎵</button>
           <button @click="downloadArticle()" title="下载" style="padding:8px 12px;">⬇</button>
           <button @click="toggleSpeak()" :title="speaking?'停止朗读':'朗读'" style="padding:8px 10px;">
             <svg width="16" height="16" viewBox="0 0 24 24" fill="#f59e0b" style="vertical-align:-2px;"><path d="M3 9v6h4l5 5V4L7 9H3zm13.5 3c0-1.77-1.02-3.29-2.5-4.03v8.05c1.48-.73 2.5-2.25 2.5-4.02zM14 3.23v2.06c2.89.86 5 3.54 5 6.71s-2.11 5.85-5 6.71v2.06c4.01-.91 7-4.49 7-8.77s-2.99-7.86-7-8.77z"/></svg>
@@ -153,77 +160,20 @@
             </div>
           </div>
         </div>
+        <!-- 【改动】翻译版视图：上下分屏布局保留，但点击中文不触发查词 -->
+        <div v-else-if="mode === 'translated'" class="split-view">
+          <div class="article-reading translated-view" v-html="articleHtml"></div>
+          <div class="dict-panel">
+            <div class="dict-placeholder">【翻译视图下点击中文不触发查词，切回原文可点词】</div>
+          </div>
+        </div>
         <!-- 批注页：保持原来的单栏布局 -->
         <div v-else class="article-content" v-html="articleHtml"></div>
       </div>
     </div>
 
     <!-- 生词弹窗 -->
-    <!-- 播放音频弹窗 -->
-    <div v-if="showAudioPlayer" class="modal" @click.self="showAudioPlayer=false">
-      <div class="modal-card">
-        <span class="close-btn" @click="showAudioPlayer=false">✕</span>
-        <h3>播放音频</h3>
-        
-        <!-- AI 音频 -->
-        <div style="margin:1rem 0;padding:1rem;border:1px solid #ddd;border-radius:8px;">
-          <strong>AI 朗读</strong>
-          <p style="color:#666;font-size:0.9rem;margin:0.5rem 0 0 0;">使用浏览器自带的 AI 语音朗读文章</p>
-        </div>
-        
-        <!-- 用户上传的音频 -->
-        <div style="margin:1rem 0;">
-          <strong>已上传的音频</strong>
-          <div v-if="uploadedAudios.length === 0" style="color:#999;margin-top:0.5rem;">暂无上传的音频</div>
-          <div v-for="audio in uploadedAudios" :key="audio.id" style="margin:0.5rem 0;padding:0.8rem;border:1px solid #ddd;border-radius:8px;">
-            <div style="display:flex;justify-content:space-between;align-items:center;">
-              <div>
-                <strong>{{audio.uploaderName}}</strong>
-                <span style="color:#999;font-size:0.85rem;margin-left:8px;">{{audio.fileName}}</span>
-              </div>
-              <div>
-                <button @click="playAudio(audio)" style="padding:4px 12px;cursor:pointer;margin-right:8px;">播放</button>
-                <button @click="deleteAudio(audio.id)" style="padding:4px 12px;cursor:pointer;color:red;">删除</button>
-              </div>
-            </div>
-          </div>
-        </div>
-        
-        <button @click="showAudioPlayer=false" style="padding:8px 16px;cursor:pointer;">关闭</button>
-      </div>
-    </div>
 
-    <!-- 上传音频弹窗 -->
-    <div v-if="showUploadModal" class="modal" @click.self="showUploadModal=false">
-      <div class="modal-card">
-        <span class="close-btn" @click="showUploadModal=false">✕</span>
-        <h3>上传音频</h3>
-        <div style="margin:1rem 0;">
-          <label>上传者名字：</label>
-          <input v-model="uploaderName" placeholder="输入你的名字" style="padding:6px;margin-left:8px;">
-        </div>
-        <div style="margin:1rem 0;">
-          <label>选择音频文件：</label>
-          <input ref="audioFile" type="file" accept="audio/*" style="margin-left:8px;">
-        </div>
-        <button @click="uploadAudio()" style="padding:8px 16px;cursor:pointer;">上传</button>
-      </div>
-    </div>
-
-    <div v-if="showVocab" class="modal" @click.self="showVocab=false">
-      <div class="modal-card">
-        <span class="close-btn" @click="showVocab=false">✕</span>
-        <h3>本篇生词</h3>
-        <div class="btn-group" style="margin-bottom:1rem;">
-          <button @click="printVocab()">🖨 打印生词表</button>
-        </div>
-        <div class="vocab-item" v-for="v in vocabList" :key="v.word">
-          <strong>{{ v.word }}</strong>
-          <span class="phonetic">{{ v.phonetic }}</span>
-          <span class="def">{{ v.definition }}</span>
-        </div>
-      </div>
-    </div>
   </div>
 
   <script>
@@ -254,44 +204,7 @@
         vocabs: [
           
         ]
-      },
-      {
-        title: "China is turning trash into treasure on a vast scale",
-        publishDate: "2026-10-15",
-        fileKey: "2026-10-15_001",
-        source: "The Economist",
-        cleanPath: "/outward-reading/articles/2026/10/2026-10-15_001.clean.html",
-        annotatedPath: "/outward-reading/articles/2026/10/2026-10-15_001.annotated.html",
-        plainText: "China is turning trash into treasure on a vast scale — 2026/10/15 China is turning trash into treasure on a vast scale A fast-growing number of EVs will soon be scrapped and replaced. Shredding their batteries yields \"black mass\", a powder from which valuable metals such as lithium, cobalt and nickel can be recovered and reused. From next month the EU will make it harder to export this waste. The aim is to encourage more processing of black mass close to home (at the moment most is shipped to Asia). In August America, which has banned Chinese EVs but still imports lots of Chinese batteries, blocked all black-mass exports. China, however, is unlikely to suffer. Black mass might make up 20-30% of global demand for battery metals by 2050, says the International Energy Agency, a forecaster. So China is supercharging its recycling industries: not just to shore up supplies of battery metals, but also rare earths and much else. The goal is to make its economy less \"linear\" (where raw materials are made into products which are then thrown away) and more \"circular\" (closing the loop so recycled waste replaces raw materials). Once recycling efforts were driven by concerns about pollution. Now, amid a global scramble for the materials needed to build a high-tech economy, security has become a primary motive. In the 1980s China started to import waste, taking the hardware, paper and plastic that richer countries did not want. A sprawling informal recycling-sector emerged, led by scavengers picking through rubbish piles. Much ended up in landfills or burnt in the open air, leaching toxic chemicals and creating poisonous smog. China is still well behind squeaky-clean European countries when it comes to waste management (though it is hard to say how far, as it does not publish detailed national data for recycling). Its poorer rural areas are still often strewn with rubbish. But officials have made China's big cities, at least, cleaner and more pleasant to live in. Now their focus is shifting to the use of recycling for the sake of security. In July China released a plan for the development of the circular economy until 2030. \"The importance of resource security has become increasingly prominent, while geopolitical dynamics...have grown complex and severe,\" the plan noted. First, China wants to dominate high-tech manufacturing in everything from robotics to wind turbines. And second, to achieve this, it must secure supplies of raw materials, connect more power lines and build more data-centres. Massive amounts of aluminium, copper, battery metals and rare earths are needed. While China controls the bulk of the global refining capacity for these materials, it relies on imports for most of the ores. Meanwhile many Western countries want to reduce reliance on China's factories. Officials worry they might try to squeeze its supplies. Last year a researcher at a state-owned research facility said that without recycling China would \"keep facing strangleholds in the future\". That China already makes vast quantities of these goods should make recycling simpler to do. Factories can tweak designs so that products are easier to dismantle later. And many battery-producing techniques (such as using acids and heat to isolate valuable metals) are also used in recycling them. Take CATL, for example, the world's largest battery-maker. Most of the Chinese firm's sales are domestic, and will end up being processed by a CATL subsidiary called Brunp, which is the world's biggest battery-recycler. Such arrangements have helped China build 85% of global battery recycling capacity. China is trying to make the recycling of rare earths (which it claims now supplies 10% of them) more efficient. At present it is far more costly than extracting them from raw materials. Still, Chinese rare-earth companies, which are almost all state-owned, \"do not rely on economic viability in all cases\", notes Corby Anderson. And to make sure its recycling plants are fed, China is also quietly reassuming its old role in the waste trade. It is selectively rolling back import restrictions on some foreign waste. In 2024 it eased curbs on imports of some scrap copper and aluminum. Last year it started allowing imports of black mass. In January it slashed import tariffs on the stuff from 6.5% to 3%. Officials have pledged to continue to increase imports of \"high-quality\" recycled materials over the next five years. Still, now that America and Europe want to keep their valuable waste, could they eat into China's recycling dominance? Zhang Yuping, the deputy general manager of GEM, a big Shenzhen-listed battery-recycler, thinks not. \"From the perspective of national security, they might have some justification,\" he says. But the cost of recycling outside China would be high and scaling up difficult. Europe, at least, can't digest such a challenge, reckons Mr Zhang. \"They would pay a heavy cost. \" ■",
-        vocabs: [
-          
-        ]
-      },
-      {
-        title: "Video Cameras Are Everywhere-and Now They Are Being Hacked for War",
-        publishDate: "2026-10-16",
-        fileKey: "2026-10-16_001",
-        source: "The Economist",
-        cleanPath: "/outward-reading/articles/2026/10/2026-10-16_001.clean.html",
-        annotatedPath: "/outward-reading/articles/2026/10/2026-10-16_001.annotated.html",
-        plainText: "Video Cameras Are Everywhere-and Now They Are Being Hacked for War — 2026/10/16 Video Cameras Are Everywhere-and Now They Are Being Hacked for War As U.S. and Israeli forces bombed Iran early this year, a poultry farmer in northern Israel decided to check on his chickens. When he launched the app on his phone for the webcam outside his coop, he was alarmed to see that its language had been switched to Arabic. He contacted Israel's National Cyber Directorate, which found that hackers had taken control of the Chinese-made camera. They weren't interested in chickens. The camera's orientation on the coop offered it a line of sight to the movements of Israeli security forces along the nearby border with Lebanon. The cyber directorate said it helped the farmer harden the camera's security and adjust its viewing angle to stop capturing military operations. The farmer's webcam was one of an estimated 1.2 billion internet-connected cameras worldwide, according to cybersecurity consultants S-RM. The devices have become a background fixture of daily life in the form of security systems, doorbells, traffic controls and even baby monitors—and potentially any of them are vulnerable to snooping, say cybersecurity experts and hackers. \"We are now seeing the conversion of civilian surveillance into wartime intelligence collection,\" said Alexander Leslie, a national-security expert at threat-intelligence consultants Recorded Future, who sees a global \"soft underbelly\" in omnipresent digital eyeballs. Intelligence agencies scour the internet for vulnerable cameras and robotically tap in to them by testing millions of passwords. Now, AI has made it even easier to hack into them and analyze their data at scale, transforming cameras that were designed to boost safety into tools for combatants to track, surveil and attack the enemy—often surpassing the abilities of human intelligence analysts. Algorithms digest endless reams of footage to find hidden gems and patterns for agents to monitor. Russia and Ukraine have ramped up camera-hacking in their war, aiming to spy on each other, find new targets and assess damage from their attacks. Israel, long a master of digital spycraft, hacked into Iranian traffic cameras to help forces collect intelligence used in the assassination of Iranian Supreme Leader Ali Khamenei earlier this year. Iran and its proxies have struck back by breaking into hundreds of Israeli webcams and security cameras that Israeli officials consider sensitive to national security, like the one on the chicken coop. In 2024, Russian hackers commandeered residential webcams in Kyiv, including one installed by a condominium association to monitor the neighborhood. Ukraine's security service, the SBU, said that Russia intended to use the hacked video feeds to find targets in the capital and \"to adjust missile attacks on Ukraine,\" refining their aim for subsequent strikes. The SBU said it has identified and secured, reoriented or blocked roughly 40,000 video cameras that posed potential security risks since Russia's 2022 invasion. Hacked cameras are taking over roles in targeting, damage assessments and other combat intelligence-gathering that were previously supplied by aerial reconnaissance or on-the-ground spies. Penetrating a well-placed camera can get analysts closer to targets and carries less risk than infiltrating even the canniest secret agent. Video cameras operate silently, often in restricted areas. While private individuals and enterprise-network managers are increasingly attuned to cybersecurity, web-connected devices like cameras may have fewer built-in protections and not be consistently monitored, patched or updated, said Xu Zou, senior vice president for cloud security services at cybersecurity company Palo Alto Networks. Information-security specialists inside companies and governments often aren't aware of connected cameras, which are frequently installed and operated by facilities managers or other non-IT teams, he said. Ondrej Svoboda in Prague was reading to his young children one evening in 2023 when the baby monitor in their room started emitting strange sounds of people talking and background music, as if from a bar. At first he thought his wife was using the two-way function but quickly realized that hackers had gotten into his system. \"I didn't think this was something that could happen to me,\" recalled Svoboda, who worked at a cybersecurity company. \"I was really scared-my heart was racing.\" Trying to avoid frightening his children, he silently stared into the camera to show the hackers he knew about them and then unplugged the camera. For days he suffered nightmares as he struggled to understand how he got hacked. Eventually he remembered he had tried connecting his webcams to another app, which likely was insecure. Vulnerable accessories linked into a network are among hackers' prime targets, expanding what technicians call the attack surface. Often, cameras aren't the target, but serve as the weak link in a larger hacking attempt. Ransomware group Akira tapped an unprotected webcam to get around one organization's network-security systems and extort it, S-RM reported last year. Once hackers are inside a local network, they can usually probe stored files, email accounts and other devices, including cameras. \"The Internet of Things is such a wild area that everything-whether you realize it or not—is an extension of your attack surface,\" said Paul Caron, S-RM head of cyber for the Americas.",
-        vocabs: [
-          
-        ]
-      },
-      {
-        title: "Are 60-Second Microdramas the Future of Hollywood, or the End?",
-        publishDate: "2026-10-14",
-        fileKey: "2026-10-14_001",
-        source: "The Economist",
-        cleanPath: "/outward-reading/articles/2026/10/2026-10-14_001.clean.html",
-        annotatedPath: "/outward-reading/articles/2026/10/2026-10-14_001.annotated.html",
-        plainText: "Are 60-Second Microdramas the Future of Hollywood, or the End? — 2026/10/14 Are 60-Second Microdramas the Future of Hollywood, or the End? 2026/10/14 Are 60-Second Microdramas the Future of Hollywood, or the End? 中国短剧杀进好莱坞：一集60秒、一年赚15亿美元，美国都急了！ In 2020, the entertainment mogul Jeffrey Katzenberg brought to life an idea that must have seemed — in the flash of its conception — foolproof: Netflix, but for people addicted to their phones. He called it Quibi: short for \"quick bites.\" It collapsed after eight months in a total void of public interest. And yet, the joke may very well be on us. Because, just six years later, short-form, mobile-first narrative entertainment is the fastest-growing form of streaming worldwide, per Bloomberg. Microdramas, sometimes called \"verticals,\" are TV shows for your phone. They are typically described as soap operas for Gen Z: hypersexual, over the top and — most important — short, with episodes rarely exceeding two minutes in length. The format was born around 2018 in China, where its revenue now exceeds that of the conventional film industry. As I write this, the form is on track to take in $1.5 billion in revenue in the United States by the end of the year. Each short episode opens with a hook and ends with a twist, dragging viewers, like recalcitrant pets, through entire seasons roughly the length of a feature film. In the first years of this decade, a number of Chinese companies began to export the form abroad, creating countless U.S. microdrama apps and coordinating U.S.-based microdrama shoots in order to supply those apps with content. These companies still retain a near monopoly on U.S. production, but that is quickly changing. Hollywood executives — noticing these apps outranking their own streamers on the charts — have started to spin up microdrama platforms of their own. I'd managed to wrangle three days of set visits on a show called \"Bound by Love,\" a production of ReelShort. Culturally, ReelShort is an interesting case: the flagship brand of an American company originally financed — and still partly owned — by a Chinese digital content group. The 9:16 format that fills a vertical phone screen leaves little room to maneuver, requiring actors to stand unnaturally close together. \"Bound by Love,\" which in its finished form would run more than two and a half hours, was to be shot at a variety of locations over the course of just 11 days. The key grip had an explanation for this: The scenes they were shooting that day were for an early episode, one that would appear before the viewer hit the paywall. As at least a dozen people would subsequently inform me, the platforms are not overly invested in the quality of the episodes that come after — i.e., the episodes a viewer has actually paid to see. The goal is to keep them up, which is distinct from telling a good or even coherent story. What is clear with hindsight is that Quibi failed primarily because it was TV — regular old TV — that happened to be on your phone. The intervening years have taught us that what tends to succeed on phones is phone stuff. This is the terrain that ReelShort and its peers have precision-engineered their content to compete on. Fox Entertainment has made an equity investment in the microdrama platform Holywater. Disney+ has begun to produce microdramas of its own, and Paramount+ has a slate scheduled for the fall. Today microdramas are — as more than one person put it to me — the only game in town. \"I was fighting it for a long time, but Old Hollywood is dead.\" Microdramas, she went on, are commercialized, rule-bound, utterly devoid of artistry. \"And this can't be the end of it for me, so I'm joining the bandwagon.\" The male leads I spoke to, specifically, seemed uniformly thrilled by this professional windfall. It's different for the women. Apparently, China's short-form video platforms had recently seen a milestone: more than $12 million spent in one day on advertisements for A.I.-generated microdramas. The country's microdrama production hubs, meanwhile — sites of industrial-scale production only months earlier — were emptying out. Actors who were in demand last year, stars of the form, were doing food delivery just to survive. Gelb was seeing the writing on the wall: \"Experience shows that, in the microdrama world, what happens in China does not stay in China.\" It's a preview for what's to come for the rest of the world. \" Soon after I returned, it emerged that an average of 470 A.I.-generated microdramas were released on Chinese platforms each day this past January. In the same period, COL Group — a part-owner of ReelShort's parent company — said that it planned to replace 75 percent of its actors with A.I. for titles released in China. I spoke to an executive at COL, a man named Timothy Oh. He seemed amused, if puzzled, by the continued American resistance to A.I.-generated content. \"The reality is, content is content,\" he told me. \"People are already watching A.I. slop on Instagram.\" As I write this, A.I. microdramas are all over the ReelShort homepage, and make up a large percentage of their most-watched charts.",
-        vocabs: [
-          
-        ]
-      },
-      {
+      },      {
         title: "No one is falling for Trump's budget-busting 'dividend' check gimmick",
         publishDate: "2026-09-14",
         fileKey: "2026-09-14_001",
@@ -1152,6 +1065,43 @@
           {word:"airstrike",phonetic:"/ˈeəstraɪk/",definition:"空袭"},
           {word:"restraint",phonetic:"/rɪˈstreɪnt/",definition:"克制"}
         ]
+
+      },
+      {
+        title: "Are 60-Second Microdramas the Future of Hollywood, or the End?",
+        publishDate: "2026-10-14",
+        fileKey: "2026-10-14_001",
+        source: "The Economist",
+        cleanPath: "/outward-reading/articles/2026/10/2026-10-14_001.clean.html",
+        annotatedPath: "/outward-reading/articles/2026/10/2026-10-14_001.annotated.html",
+        plainText: "Are 60-Second Microdramas the Future of Hollywood, or the End? — 2026/10/14 Are 60-Second Microdramas the Future of Hollywood, or the End? 2026/10/14 Are 60-Second Microdramas the Future of Hollywood, or the End? 中国短剧杀进好莱坞：一集60秒、一年赚15亿美元，美国都急了！ In 2020, the entertainment mogul Jeffrey Katzenberg brought to life an idea that must have seemed — in the flash of its conception — foolproof: Netflix, but for people addicted to their phones. He called it Quibi: short for \"quick bites.\" It collapsed after eight months in a total void of public interest. And yet, the joke may very well be on us. Because, just six years later, short-form, mobile-first narrative entertainment is the fastest-growing form of streaming worldwide, per Bloomberg. Microdramas, sometimes called \"verticals,\" are TV shows for your phone. They are typically described as soap operas for Gen Z: hypersexual, over the top and — most important — short, with episodes rarely exceeding two minutes in length. The format was born around 2018 in China, where its revenue now exceeds that of the conventional film industry. As I write this, the form is on track to take in $1.5 billion in revenue in the United States by the end of the year. Each short episode opens with a hook and ends with a twist, dragging viewers, like recalcitrant pets, through entire seasons roughly the length of a feature film. In the first years of this decade, a number of Chinese companies began to export the form abroad, creating countless U.S. microdrama apps and coordinating U.S.-based microdrama shoots in order to supply those apps with content. These companies still retain a near monopoly on U.S. production, but that is quickly changing. Hollywood executives — noticing these apps outranking their own streamers on the charts — have started to spin up microdrama platforms of their own. I'd managed to wrangle three days of set visits on a show called \"Bound by Love,\" a production of ReelShort. Culturally, ReelShort is an interesting case: the flagship brand of an American company originally financed — and still partly owned — by a Chinese digital content group. The 9:16 format that fills a vertical phone screen leaves little room to maneuver, requiring actors to stand unnaturally close together. \"Bound by Love,\" which in its finished form would run more than two and a half hours, was to be shot at a variety of locations over the course of just 11 days. The key grip had an explanation for this: The scenes they were shooting that day were for an early episode, one that would appear before the viewer hit the paywall. As at least a dozen people would subsequently inform me, the platforms are not overly invested in the quality of the episodes that come after — i.e., the episodes a viewer has actually paid to see. The goal is to keep them up, which is distinct from telling a good or even coherent story. What is clear with hindsight is that Quibi failed primarily because it was TV — regular old TV — that happened to be on your phone. The intervening years have taught us that what tends to succeed on phones is phone stuff. This is the terrain that ReelShort and its peers have precision-engineered their content to compete on. Fox Entertainment has made an equity investment in the microdrama platform Holywater. Disney+ has begun to produce microdramas of its own, and Paramount+ has a slate scheduled for the fall. Today microdramas are — as more than one person put it to me — the only game in town. \"I was fighting it for a long time, but Old Hollywood is dead.\" Microdramas, she went on, are commercialized, rule-bound, utterly devoid of artistry. \"And this can't be the end of it for me, so I'm joining the bandwagon.\" The male leads I spoke to, specifically, seemed uniformly thrilled by this professional windfall. It's different for the women. Apparently, China's short-form video platforms had recently seen a milestone: more than $12 million spent in one day on advertisements for A.I.-generated microdramas. The country's microdrama production hubs, meanwhile — sites of industrial-scale production only months earlier — were emptying out. Actors who were in demand last year, stars of the form, were doing food delivery just to survive. Gelb was seeing the writing on the wall: \"Experience shows that, in the microdrama world, what happens in China does not stay in China.\" It's a preview for what's to come for the rest of the world. \" Soon after I returned, it emerged that an average of 470 A.I.-generated microdramas were released on Chinese platforms each day this past January. In the same period, COL Group — a part-owner of ReelShort's parent company — said that it planned to replace 75 percent of its actors with A.I. for titles released in China. I spoke to an executive at COL, a man named Timothy Oh. He seemed amused, if puzzled, by the continued American resistance to A.I.-generated content. \"The reality is, content is content,\" he told me. \"People are already watching A.I. slop on Instagram.\" As I write this, A.I. microdramas are all over the ReelShort homepage, and make up a large percentage of their most-watched charts.",
+        vocabs: [
+          
+        ]
+      },
+      {
+        title: "China is turning trash into treasure on a vast scale",
+        publishDate: "2026-10-15",
+        fileKey: "2026-10-15_001",
+        source: "The Economist",
+        cleanPath: "/outward-reading/articles/2026/10/2026-10-15_001.clean.html",
+        annotatedPath: "/outward-reading/articles/2026/10/2026-10-15_001.annotated.html",
+        plainText: "China is turning trash into treasure on a vast scale — 2026/10/15 China is turning trash into treasure on a vast scale A fast-growing number of EVs will soon be scrapped and replaced. Shredding their batteries yields \"black mass\", a powder from which valuable metals such as lithium, cobalt and nickel can be recovered and reused. From next month the EU will make it harder to export this waste. The aim is to encourage more processing of black mass close to home (at the moment most is shipped to Asia). In August America, which has banned Chinese EVs but still imports lots of Chinese batteries, blocked all black-mass exports. China, however, is unlikely to suffer. Black mass might make up 20-30% of global demand for battery metals by 2050, says the International Energy Agency, a forecaster. So China is supercharging its recycling industries: not just to shore up supplies of battery metals, but also rare earths and much else. The goal is to make its economy less \"linear\" (where raw materials are made into products which are then thrown away) and more \"circular\" (closing the loop so recycled waste replaces raw materials). Once recycling efforts were driven by concerns about pollution. Now, amid a global scramble for the materials needed to build a high-tech economy, security has become a primary motive. In the 1980s China started to import waste, taking the hardware, paper and plastic that richer countries did not want. A sprawling informal recycling-sector emerged, led by scavengers picking through rubbish piles. Much ended up in landfills or burnt in the open air, leaching toxic chemicals and creating poisonous smog. China is still well behind squeaky-clean European countries when it comes to waste management (though it is hard to say how far, as it does not publish detailed national data for recycling). Its poorer rural areas are still often strewn with rubbish. But officials have made China's big cities, at least, cleaner and more pleasant to live in. Now their focus is shifting to the use of recycling for the sake of security. In July China released a plan for the development of the circular economy until 2030. \"The importance of resource security has become increasingly prominent, while geopolitical dynamics...have grown complex and severe,\" the plan noted. First, China wants to dominate high-tech manufacturing in everything from robotics to wind turbines. And second, to achieve this, it must secure supplies of raw materials, connect more power lines and build more data-centres. Massive amounts of aluminium, copper, battery metals and rare earths are needed. While China controls the bulk of the global refining capacity for these materials, it relies on imports for most of the ores. Meanwhile many Western countries want to reduce reliance on China's factories. Officials worry they might try to squeeze its supplies. Last year a researcher at a state-owned research facility said that without recycling China would \"keep facing strangleholds in the future\". That China already makes vast quantities of these goods should make recycling simpler to do. Factories can tweak designs so that products are easier to dismantle later. And many battery-producing techniques (such as using acids and heat to isolate valuable metals) are also used in recycling them. Take CATL, for example, the world's largest battery-maker. Most of the Chinese firm's sales are domestic, and will end up being processed by a CATL subsidiary called Brunp, which is the world's biggest battery-recycler. Such arrangements have helped China build 85% of global battery recycling capacity. China is trying to make the recycling of rare earths (which it claims now supplies 10% of them) more efficient. At present it is far more costly than extracting them from raw materials. Still, Chinese rare-earth companies, which are almost all state-owned, \"do not rely on economic viability in all cases\", notes Corby Anderson. And to make sure its recycling plants are fed, China is also quietly reassuming its old role in the waste trade. It is selectively rolling back import restrictions on some foreign waste. In 2024 it eased curbs on imports of some scrap copper and aluminum. Last year it started allowing imports of black mass. In January it slashed import tariffs on the stuff from 6.5% to 3%. Officials have pledged to continue to increase imports of \"high-quality\" recycled materials over the next five years. Still, now that America and Europe want to keep their valuable waste, could they eat into China's recycling dominance? Zhang Yuping, the deputy general manager of GEM, a big Shenzhen-listed battery-recycler, thinks not. \"From the perspective of national security, they might have some justification,\" he says. But the cost of recycling outside China would be high and scaling up difficult. Europe, at least, can't digest such a challenge, reckons Mr Zhang. \"They would pay a heavy cost. \" ■",
+        vocabs: [
+          
+        ]
+      },
+      {
+        title: "Video Cameras Are Everywhere-and Now They Are Being Hacked for War",
+        publishDate: "2026-10-16",
+        fileKey: "2026-10-16_001",
+        source: "The Economist",
+        cleanPath: "/outward-reading/articles/2026/10/2026-10-16_001.clean.html",
+        annotatedPath: "/outward-reading/articles/2026/10/2026-10-16_001.annotated.html",
+        plainText: "Video Cameras Are Everywhere-and Now They Are Being Hacked for War — 2026/10/16 Video Cameras Are Everywhere-and Now They Are Being Hacked for War As U.S. and Israeli forces bombed Iran early this year, a poultry farmer in northern Israel decided to check on his chickens. When he launched the app on his phone for the webcam outside his coop, he was alarmed to see that its language had been switched to Arabic. He contacted Israel's National Cyber Directorate, which found that hackers had taken control of the Chinese-made camera. They weren't interested in chickens. The camera's orientation on the coop offered it a line of sight to the movements of Israeli security forces along the nearby border with Lebanon. The cyber directorate said it helped the farmer harden the camera's security and adjust its viewing angle to stop capturing military operations. The farmer's webcam was one of an estimated 1.2 billion internet-connected cameras worldwide, according to cybersecurity consultants S-RM. The devices have become a background fixture of daily life in the form of security systems, doorbells, traffic controls and even baby monitors—and potentially any of them are vulnerable to snooping, say cybersecurity experts and hackers. \"We are now seeing the conversion of civilian surveillance into wartime intelligence collection,\" said Alexander Leslie, a national-security expert at threat-intelligence consultants Recorded Future, who sees a global \"soft underbelly\" in omnipresent digital eyeballs. Intelligence agencies scour the internet for vulnerable cameras and robotically tap in to them by testing millions of passwords. Now, AI has made it even easier to hack into them and analyze their data at scale, transforming cameras that were designed to boost safety into tools for combatants to track, surveil and attack the enemy—often surpassing the abilities of human intelligence analysts. Algorithms digest endless reams of footage to find hidden gems and patterns for agents to monitor. Russia and Ukraine have ramped up camera-hacking in their war, aiming to spy on each other, find new targets and assess damage from their attacks. Israel, long a master of digital spycraft, hacked into Iranian traffic cameras to help forces collect intelligence used in the assassination of Iranian Supreme Leader Ali Khamenei earlier this year. Iran and its proxies have struck back by breaking into hundreds of Israeli webcams and security cameras that Israeli officials consider sensitive to national security, like the one on the chicken coop. In 2024, Russian hackers commandeered residential webcams in Kyiv, including one installed by a condominium association to monitor the neighborhood. Ukraine's security service, the SBU, said that Russia intended to use the hacked video feeds to find targets in the capital and \"to adjust missile attacks on Ukraine,\" refining their aim for subsequent strikes. The SBU said it has identified and secured, reoriented or blocked roughly 40,000 video cameras that posed potential security risks since Russia's 2022 invasion. Hacked cameras are taking over roles in targeting, damage assessments and other combat intelligence-gathering that were previously supplied by aerial reconnaissance or on-the-ground spies. Penetrating a well-placed camera can get analysts closer to targets and carries less risk than infiltrating even the canniest secret agent. Video cameras operate silently, often in restricted areas. While private individuals and enterprise-network managers are increasingly attuned to cybersecurity, web-connected devices like cameras may have fewer built-in protections and not be consistently monitored, patched or updated, said Xu Zou, senior vice president for cloud security services at cybersecurity company Palo Alto Networks. Information-security specialists inside companies and governments often aren't aware of connected cameras, which are frequently installed and operated by facilities managers or other non-IT teams, he said. Ondrej Svoboda in Prague was reading to his young children one evening in 2023 when the baby monitor in their room started emitting strange sounds of people talking and background music, as if from a bar. At first he thought his wife was using the two-way function but quickly realized that hackers had gotten into his system. \"I didn't think this was something that could happen to me,\" recalled Svoboda, who worked at a cybersecurity company. \"I was really scared-my heart was racing.\" Trying to avoid frightening his children, he silently stared into the camera to show the hackers he knew about them and then unplugged the camera. For days he suffered nightmares as he struggled to understand how he got hacked. Eventually he remembered he had tried connecting his webcams to another app, which likely was insecure. Vulnerable accessories linked into a network are among hackers' prime targets, expanding what technicians call the attack surface. Often, cameras aren't the target, but serve as the weak link in a larger hacking attempt. Ransomware group Akira tapped an unprotected webcam to get around one organization's network-security systems and extort it, S-RM reported last year. Once hackers are inside a local network, they can usually probe stored files, email accounts and other devices, including cameras. \"The Internet of Things is such a wild area that everything-whether you realize it or not—is an extension of your attack surface,\" said Paul Caron, S-RM head of cyber for the Americas.",
+        vocabs: [
+          
+        ]
       }
     ]
 
@@ -1170,15 +1120,6 @@
           showVocab: false,
           vocabList: [],
           articleHtml: "",
-        showUploadModal: false,
-        showAudioPlayer: false,
-        isRecording: false,
-        mediaRecorder: null,
-        recordedChunks: [],
-        recordingTimer: null,
-        recordingSeconds: 0,
-        uploaderName: localStorage.getItem("uploaderName") || "",
-        uploadedAudios: [],
           speaking: false,
           dictResult: null
         }
@@ -1195,6 +1136,14 @@
           this.calYear = parseInt(y)
           this.calMonth = parseInt(m) - 1
         }
+        // ESC 键关闭文章弹窗
+        this.escHandler = (e) => {
+          if (e.key === 'Escape' && this.showArticle) this.closeArticle()
+        }
+        document.addEventListener('keydown', this.escHandler)
+      },
+      beforeUnmount(){
+        if (this.escHandler) document.removeEventListener('keydown', this.escHandler)
       },
       computed:{
         calCells(){
@@ -1268,20 +1217,28 @@
           this.loadContent()
         },
         loadContent(){
-          const url = this.mode === "clean"
-            ? this.currentArticle.cleanPath
-            : this.currentArticle.annotatedPath
+          // 【改动】支持 translated 模式：URL = cleanPath 替换后缀
+          let url;
+          if (this.mode === "clean") url = this.currentArticle.cleanPath;
+          else if (this.mode === "annotated") url = this.currentArticle.annotatedPath;
+          else if (this.mode === "translated") url = this.currentArticle.cleanPath.replace('.clean.html', '.translated.html');
           const cacheKey = 'article_' + this.currentArticle.fileKey + '_' + this.mode;
-          
+
           // 先从缓存读取（快速显示）
           const cached = localStorage.getItem(cacheKey);
           if (cached) {
             this.articleHtml = cached;
             this.dictResult = null;
           }
-          
+
           // 从网络获取最新内容，更新缓存
           fetch(url).then(r=>r.text()).then(html=>{
+            // 【改动】翻译版：剥离源文件自带的 <style> 和 <title>（连同内容），避免小字号和多余标题
+            if (this.mode === "translated") {
+              html = html.replace(/<style[\s\S]*?<\/style>/gi, '');
+              html = html.replace(/<title[\s\S]*?<\/title>/gi, '');
+              html = html.replace(/<\/?(html|head|body|meta)[^>]*>/gi, '');
+            }
             // 原文页：把难词替换成可点击的蓝色超链接
             if (this.mode === "clean" && this.vocabList && this.vocabList.length > 0) {
               // 一次性替换所有单词，避免重复替换
@@ -1315,140 +1272,7 @@
             }
           })
         },
-        // 上传音频
-      async uploadAudio(){
-        const file = this.$refs.audioFile.files[0];
-        if (!file) {
-          alert("请选择音频文件");
-          return;
-        }
-        if (!this.uploaderName.trim()) {
-          alert("请输入上传者名字");
-          return;
-        }
-        localStorage.setItem("uploaderName", this.uploaderName);
-        
-        // 读取文件并保存到 IndexedDB
-        const reader = new FileReader();
-        reader.onload = (e) => {
-          const audioData = e.target.result;
-          const articleId = this.currentArticle.fileKey;
-          
-          // 保存到 IndexedDB
-          this.saveAudioToDB(articleId, this.uploaderName, audioData, file.name);
-          
-          alert("上传成功！");
-          this.showUploadModal = false;
-          this.loadUploadedAudios(articleId);
-        };
-        reader.readAsDataURL(file);
-      },
-      // 保存音频到 IndexedDB
-      saveAudioToDB(articleId, uploaderName, audioData, fileName){
-        const request = indexedDB.open("audioDB", 1);
-        request.onupgradeneeded = (e) => {
-          const db = e.target.result;
-          db.createObjectStore("audios", { keyPath: "id", autoIncrement: true });
-        };
-        request.onsuccess = (e) => {
-          const db = e.target.result;
-          const transaction = db.transaction(["audios"], "readwrite");
-          const store = transaction.objectStore("audios");
-          store.add({
-            articleId: articleId,
-            uploaderName: uploaderName,
-            audioData: audioData,
-            fileName: fileName,
-            uploadTime: new Date().getTime()
-          });
-        };
-      },
-      // 加载已上传的音频
-      loadUploadedAudios(articleId){
-        const request = indexedDB.open("audioDB", 1);
-        request.onsuccess = (e) => {
-          const db = e.target.result;
-          const transaction = db.transaction(["audios"], "readonly");
-          const store = transaction.objectStore("audios");
-          const index = store.index("articleId");
-          const query = index.getAll(articleId);
-          query.onsuccess = (e) => {
-            this.uploadedAudios = e.target.result;
-          };
-        };
-      },
-      // 播放音频
-      playAudio(audio){
-        const audioEl = new Audio(audio.audioData);
-        audioEl.play();
-      },
-      // 开始录音
-      async startRecording(){
-        try {
-          const stream = await navigator.mediaDevices.getUserMedia({ audio: true });
-          this.mediaRecorder = new MediaRecorder(stream);
-          this.recordedChunks = [];
-          
-          this.mediaRecorder.ondataavailable = (e) => {
-            if (e.data.size > 0) this.recordedChunks.push(e.data);
-          };
-          
-          this.mediaRecorder.onstop = () => {
-            const blob = new Blob(this.recordedChunks, { type: 'audio/webm' });
-            const reader = new FileReader();
-            reader.onload = (e) => {
-              const audioData = e.target.result;
-              const articleId = this.currentArticle.fileKey;
-              const uploaderName = this.uploaderName || "匿名";
-              
-              // 保存到 IndexedDB
-              this.saveAudioToDB(articleId, uploaderName, audioData, "录音_" + new Date().toLocaleTimeString() + ".webm");
-              
-              alert("录音完成，已保存！");
-            };
-            reader.readAsDataURL(blob);
-            
-            // 停止所有轨道
-            stream.getTracks().forEach(track => track.stop());
-          };
-          
-          this.mediaRecorder.start();
-          this.isRecording = true;
-          this.recordingSeconds = 0;
-          this.recordingTimer = setInterval(() => {
-            this.recordingSeconds++;
-          }, 1000);
-        } catch (err) {
-          alert("无法访问麦克风：" + err.message);
-        }
-      },
-      // 停止录音
-      stopRecording(){
-        if (this.mediaRecorder && this.isRecording) {
-          this.mediaRecorder.stop();
-          this.isRecording = false;
-          clearInterval(this.recordingTimer);
-        }
-      },
-      // 打开播放音频弹窗
-      openAudioPlayer(){
-        this.showAudioPlayer = true;
-        this.loadUploadedAudios(this.currentArticle.fileKey);
-      },
-      // 删除音频
-      deleteAudio(audioId){
-        if (!confirm("确定要删除这个音频吗？")) return;
-        const request = indexedDB.open("audioDB", 1);
-        request.onsuccess = (e) => {
-          const db = e.target.result;
-          const transaction = db.transaction(["audios"], "readwrite");
-          const store = transaction.objectStore("audios");
-          store.delete(audioId);
-          alert("删除成功！");
-          this.loadUploadedAudios(this.currentArticle.fileKey);
-        };
-      },
-      clearCache(){
+        clearCache(){
           const keys = Object.keys(localStorage).filter(k => k.startsWith('article_'));
           keys.forEach(k => localStorage.removeItem(k));
           alert('已清除 ' + keys.length + ' 篇文章的离线缓存');
@@ -1493,7 +1317,8 @@
           const url = URL.createObjectURL(blob);
           const a = document.createElement('a');
           a.href = url;
-          const suffix = this.mode === 'clean' ? 'clean' : 'annotated';
+          // 【改动】支持 translated 后缀
+          const suffix = this.mode === 'clean' ? 'clean' : (this.mode === 'translated' ? 'translated' : 'annotated');
           a.download = this.currentArticle.fileKey + '.' + suffix + '.html';
           document.body.appendChild(a);
           a.click();
@@ -1520,6 +1345,8 @@
           this.speaking = true;
         },
         handleWordClick(e){
+          // 【改动】翻译视图下点击中文不触发查词
+          if (this.mode === 'translated') return;
           const word = e.target.getAttribute('data-word');
           if (!word) return;
           const v = this.vocabList.find(v => v.word.toLowerCase() === word.toLowerCase());
