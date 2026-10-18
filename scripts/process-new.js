@@ -42,38 +42,24 @@ function extractPlainText(htmlPath) {
 
 function extractVocabs(annotatedHtml) {
   const vocabs = [];
-  // 找所有蓝色音标 span + 灰色释义 span 的组合（不硬编码 font-size，兼容 8.5pt/12pt 等写法）
-  const phoneticRe = /<span style='color:#1A6FB0;[^']*'>([^<]+)<\/span><span style='color:#555555;[^']*'>([^<]*)<\/span>/g;
-  // 找红色词（被标注的生词）
-  const redWordRe = /<span style='color:#EE0000;'>([^<]+)<\/span>/g;
-  
-  const redWords = [];
+  // 按文本流顺序同时匹配红色词和音标对，用 FIFO 队列配对：
+  // 红色词入队，音标对从队首取一个配对；队列空时该音标对对应词没标红，跳过。
+  const tokenRe = /<span style='color:#EE0000;'>([^<]+)<\/span>|<span style='color:#1A6FB0;[^']*'>([^<]+)<\/span><span style='color:#555555;[^']*'>([^<]*)<\/span>/g;
   let m;
-  while ((m = redWordRe.exec(annotatedHtml)) !== null) {
-    redWords.push(m[1]);
-  }
-  
-  const pairs = [];
-  while ((m = phoneticRe.exec(annotatedHtml)) !== null) {
-    pairs.push({ phonetic: m[1], definition: m[2].trim() });
-  }
-  
-  // 把红色词和音标对按顺序配对
-  for (let i = 0; i < redWords.length && i < pairs.length; i++) {
-    vocabs.push({
-      word: redWords[i],
-      phonetic: pairs[i].phonetic,
-      definition: pairs[i].definition
-    });
-  }
-  
-  // 如果红色词和音标对数不一致，用音标对里的文本推断
-  if (vocabs.length === 0 && pairs.length > 0) {
-    for (const p of pairs) {
-      vocabs.push({ word: '?', phonetic: p.phonetic, definition: p.definition });
+  const queue = [];
+  while ((m = tokenRe.exec(annotatedHtml)) !== null) {
+    if (m[1] !== undefined) {
+      // 红色词入队
+      queue.push(m[1]);
+    } else {
+      // 音标对，从队首配对
+      if (queue.length > 0) {
+        const word = queue.shift();
+        vocabs.push({ word, phonetic: m[2], definition: m[3].trim() });
+      }
+      // 队列空 = 该音标对对应词没标红，跳过
     }
   }
-  
   return vocabs;
 }
 
