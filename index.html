@@ -254,6 +254,22 @@
   <script>
     const { createApp } = Vue
 
+    // ===== localStorage 安全封装 =====
+    // 沙箱环境（如产物预览 iframe）中 localStorage 可能被禁，直接访问会抛
+    // SecurityError 使 Vue 挂载失败、整页被 v-cloak 藏成白屏。这里探测可用性，
+    // 不可用时降级为内存存储（仅当前页面会话有效，正常浏览器不受影响）。
+    const safeLS = (() => {
+      let ok = false; const mem = {};
+      try { localStorage.setItem("__probe__","1"); localStorage.removeItem("__probe__"); ok = true; } catch(e) {}
+      return {
+        get(k){ try { if(ok) return localStorage.getItem(k); } catch(e) {} return (k in mem) ? mem[k] : null; },
+        set(k,v){ try { if(ok){ localStorage.setItem(k,v); return; } } catch(e) {} mem[k] = String(v); },
+        remove(k){ try { if(ok){ localStorage.removeItem(k); return; } } catch(e) {} delete mem[k]; },
+        keys(prefix){ try { if(ok) return Object.keys(localStorage); } catch(e) {} return Object.keys(mem); }
+      };
+    })();
+
+
     // ===== 文章数据库（嵌入前端，纯静态） =====
     const ARTICLES = [
 {
@@ -1574,7 +1590,7 @@
         recordedChunks: [],
         recordingTimer: null,
         recordingSeconds: 0,
-        uploaderName: localStorage.getItem("uploaderName") || "",
+        uploaderName: safeLS.get("uploaderName") || "",
         uploadedAudios: [],
           speaking: false,
           dictResult: null
@@ -1671,7 +1687,7 @@
           const cacheKey = 'article_' + this.currentArticle.fileKey + '_' + this.mode;
           
           // 先从缓存读取（快速显示）
-          const cached = localStorage.getItem(cacheKey);
+          const cached = safeLS.get(cacheKey);
           if (cached) {
             this.articleHtml = cached;
             this.dictResult = null;
@@ -1700,7 +1716,7 @@
             this.articleHtml = html;
             this.dictResult = null;
             // 存到缓存
-            localStorage.setItem(cacheKey, html);
+            safeLS.set(cacheKey, html);
             // 搜索后自动滚动到关键词
             if(this.kw.trim()){
               setTimeout(()=>{
@@ -1725,7 +1741,7 @@
           alert("请输入上传者名字");
           return;
         }
-        localStorage.setItem("uploaderName", this.uploaderName);
+        safeLS.set("uploaderName", this.uploaderName);
         
         // 读取文件并保存到 IndexedDB
         const reader = new FileReader();
@@ -1848,8 +1864,8 @@
         };
       },
       clearCache(){
-          const keys = Object.keys(localStorage).filter(k => k.startsWith('article_'));
-          keys.forEach(k => localStorage.removeItem(k));
+          const keys = safeLS.keys().filter(k => k.startsWith('article_'));
+          keys.forEach(k => safeLS.remove(k));
           alert('已清除 ' + keys.length + ' 篇文章的离线缓存');
         },
         scrollToKeyword(kw){
