@@ -159,7 +159,7 @@
       <div class="modal-card">
         <span class="close-btn" @click="closeArticle">✕</span>
         <div class="btn-group">
-          <button v-if="currentArticle && currentArticle.readingPath" :class="{primary:mode==='reading'}" @click="mode='reading'">精读页</button>
+          <button v-if="currentArticle && currentArticle.readingPath" :class="{primary:mode==='reading'}" @click="openReading()">精读页</button>
           <button v-if="!currentArticle || !currentArticle.readingPath" :class="{primary:mode==='clean'}" @click="mode='clean';loadContent()">原文</button>
           <button v-if="!currentArticle || !currentArticle.readingPath" :class="{primary:mode==='annotated'}" @click="mode='annotated';loadContent()">批注版</button>
           <button v-if="!currentArticle || !currentArticle.readingPath" :class="{primary:mode==='translated'}" @click="mode='translated';loadContent()">翻译版</button>
@@ -2065,6 +2065,18 @@
           this.currentArticle = null
           this.articleHtml = ""
           this.showVocab = false
+        },
+        openReading(){
+          /* 手机窄屏 / iPhone：不进弹窗，整页跳到精读页独立地址。
+             原因：iOS 在 iframe 里打印会打到外层首页（日历叠加），且丢弃 @media print，
+             必须在本体页上浏览与打印；返回走文章页头部的「← 返回日历」 */
+          var narrow = window.matchMedia('(max-width:700px)').matches;
+          var iphone = /iPhone|iPod/i.test(navigator.userAgent);
+          if((narrow || iphone) && this.currentArticle && this.currentArticle.readingPath){
+            location.href = this.currentArticle.readingPath;
+            return;
+          }
+          this.mode = 'reading'
         },
         printArticle(){
           /* 精读页模式：直接调用 iframe 内页面的打印（其打印样式只含标题+英文正文） */
