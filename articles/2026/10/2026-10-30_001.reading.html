@@ -44,7 +44,8 @@ header{
 h1{font-size:22px;font-weight:700}
 .meta{color:var(--ink-light);font-size:13px}
 .meta span{margin-right:14px}
-.anchors{margin-top:10px;display:flex;flex-wrap:wrap;gap:8px}
+.tool-row{display:flex;align-items:center;gap:10px;margin-top:10px}
+.anchors{display:flex;flex-wrap:wrap;gap:8px;flex:1;min-width:0}
 .anchors a{
   text-decoration:none;font-size:13px;color:var(--accent);
   background:var(--accent-light);padding:4px 12px;border-radius:999px;
@@ -226,11 +227,30 @@ mark.voc:hover{background:#e0eabf;border-bottom-color:var(--accent)}
   .layout,.practice{padding-left:16px;padding-right:16px}
 }
 
+/* ========== 手机（≤700px）：头部不再固定，压缩高度，把屏幕留给正文 ========== */
+@media (max-width:700px){
+  header{position:static;padding:12px 16px 10px}
+  h1{font-size:17px;line-height:1.45}
+  .meta-row{display:block}
+  .meta{font-size:12px;margin-top:5px}
+  .meta span{margin-right:10px}
+  .tool-row{margin-top:8px;gap:8px}
+  .anchors{flex-wrap:nowrap;overflow-x:auto;gap:6px;padding-bottom:2px;-webkit-overflow-scrolling:touch}
+  .anchors::-webkit-scrollbar{display:none}
+  .anchors a{flex:none;font-size:12.5px;padding:4px 10px}
+  .print-btn{font-size:12.5px;padding:5px 10px;border-radius:999px}
+  .paragraph,.headline-block,#practice,#main-reading,.mindmap,#side-panel{scroll-margin-top:10px}
+  .layout{padding-top:14px}
+  .mindmap{padding:10px;margin-bottom:16px}
+  .paragraph,.headline-block{padding:14px}
+}
+
 /* ========== 打印按钮（屏幕显示） ========== */
 .print-btn{
-  position:absolute;top:18px;right:28px;z-index:5;
+  flex:none;
   border:1px solid var(--line);background:var(--paper);color:var(--ink-light);
   font-size:13px;border-radius:8px;padding:6px 14px;cursor:pointer;
+  font-family:inherit;white-space:nowrap;
 }
 .print-btn:hover{color:var(--accent);border-color:var(--accent)}
 
@@ -270,14 +290,16 @@ mark.voc:hover{background:#e0eabf;border-bottom-color:var(--accent)}
       <span>分类：英国《卫报》外刊讲解 第1213天</span>
       <span>阅读时长：约 18 分钟</span>
     </div>
+  </div>
+  <div class="tool-row">
+    <nav class="anchors">
+      <a href="#main-reading">双语正文</a>
+      <a href="#side-panel" onclick="showTab(1)">词汇总表</a>
+      <a href="#side-panel" onclick="showTab(2)">专有名词表</a>
+      <a href="#practice">翻译练习</a>
+    </nav>
     <button class="print-btn" onclick="window.print()" title="A4 打印：仅标题与英文正文">🖨 打印</button>
   </div>
-  <nav class="anchors">
-    <a href="#main-reading">双语正文</a>
-    <a href="#side-panel" onclick="showTab(1)">词汇总表</a>
-    <a href="#side-panel" onclick="showTab(2)">专有名词表</a>
-    <a href="#practice">翻译练习</a>
-  </nav>
 </header>
 
 <div class="layout">
