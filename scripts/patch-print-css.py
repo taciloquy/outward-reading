@@ -25,7 +25,7 @@ import io
 MARK = '/* ========== 打印样式'
 
 NEW_CSS = """/* ========== 打印样式：A4，仅标题 + 英文正文（v3 / Safari 兼容） ========== */
-@page{size:A4 portrait;margin:18mm 16mm}
+@page{size:A4 portrait;margin:14mm 13mm}
 
 @media print{
   html,body{
@@ -44,7 +44,7 @@ NEW_CSS = """/* ========== 打印样式：A4，仅标题 + 英文正文（v3 / S
     background:#fff !important;border:none !important;box-shadow:none !important;
     padding:0 0 6pt !important;margin:0 !important;
   }
-  h1{font-size:19pt !important;line-height:1.4 !important;margin:0 0 6pt !important;color:#111 !important}
+  h1{font-size:17pt !important;line-height:1.35 !important;margin:0 0 5pt !important;color:#111 !important}
   .layout{
     display:block !important;max-width:none !important;
     padding:0 !important;margin:0 !important;gap:0 !important;
@@ -52,21 +52,21 @@ NEW_CSS = """/* ========== 打印样式：A4，仅标题 + 英文正文（v3 / S
   .main,main{width:100% !important;max-width:none !important;flex:none !important;min-width:0 !important}
   .paragraph,.headline-block{
     background:#fff !important;border:none !important;border-radius:0 !important;
-    box-shadow:none !important;padding:0 !important;margin:0 0 12pt !important;
+    box-shadow:none !important;padding:0 !important;margin:0 0 8pt !important;
   }
   .p-label{font-size:8.5pt !important;color:#777 !important;letter-spacing:.06em !important;margin:0 0 3pt !important}
   .en-block{
     background:#fff !important;border:none !important;border-left:2px solid #ccc !important;
     border-radius:0 !important;box-shadow:none !important;
     padding:1pt 0 1pt 8pt !important;
-    font-size:10.5pt !important;line-height:1.7 !important;color:#111 !important;
+    font-size:10pt !important;line-height:1.55 !important;color:#111 !important;
   }
   mark.voc{
     background:transparent !important;border-bottom:none !important;
     padding:0 !important;color:inherit !important;font-weight:600 !important;
   }
-  .headline-en{font-size:13pt !important;line-height:1.5 !important;color:#111 !important}
-  .headline-sub{font-size:10.5pt !important;color:#444 !important;font-style:italic !important;margin-top:4pt !important}
+  .headline-en{font-size:12pt !important;line-height:1.45 !important;color:#111 !important}
+  .headline-sub{font-size:9.5pt !important;color:#444 !important;font-style:italic !important;margin-top:3pt !important}
   h2,h3{page-break-after:avoid}
   a{color:#111 !important;text-decoration:none !important}
 }
@@ -110,7 +110,7 @@ def is_v3(src):
     if i < 0:
         return False
     seg = src[i:i + 400]
-    return ('v3 / Safari' in seg) and ('@page{size:A4 portrait;margin:18mm 16mm}' in src)
+    return ('v3 / Safari' in seg) and ('@page{size:A4 portrait;margin:14mm 13mm}' in src)
 
 
 def patch(path, check_only=False):

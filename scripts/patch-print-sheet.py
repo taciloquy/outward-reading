@@ -21,11 +21,13 @@ body.print-sheet .mm-switch,body.print-sheet .anchors,body.print-sheet .tool-row
 body.print-sheet .meta,body.print-sheet .print-tip,body.print-sheet .pg-mask{display:none !important}
 body.print-sheet .meta-row{display:block !important}
 body.print-sheet .main{width:100% !important;max-width:100% !important;margin:0 !important;padding:0 !important}
-body.print-sheet header,body.print-sheet .headline-block{background:none !important;border:none !important;box-shadow:none !important;padding:0 0 6mm !important}
-body.print-sheet .paragraph{background:none !important;border:none !important;border-radius:0 !important;box-shadow:none !important;padding:0 0 4mm !important;color:#000 !important}
-body.print-sheet .paragraph .en-block{font-size:11.5pt !important;line-height:1.75 !important;color:#000 !important}
+body.print-sheet header,body.print-sheet .headline-block{background:none !important;border:none !important;box-shadow:none !important;padding:0 0 5pt !important;margin:0 0 8pt !important}
+body.print-sheet .paragraph{background:none !important;border:none !important;border-radius:0 !important;box-shadow:none !important;padding:0 0 8pt !important;color:#000 !important}
+body.print-sheet .paragraph .en-block{font-size:10pt !important;line-height:1.55 !important;color:#000 !important}
 body.print-sheet mark,body.print-sheet mark.voc{background:none !important;color:inherit !important}
 body.print-sheet .p-label{color:#555 !important}
+/* 打印分页控制：段落序号 / 标题不孤悬页底 */
+body.print-sheet .p-label{break-after:avoid !important;page-break-after:avoid !important}
 """
 
 HOOK_JS = """
@@ -46,12 +48,15 @@ INFRAME_JS = """  /* 0) 首页弹窗（iframe）里：打印的是外层首页�
       title: '先去独立页面再打印',
       desc: '你现在是在首页的弹窗里看这篇精读页，在这里打印会把首页的日历一起印出来。',
       steps: [
-        '点下面的「复制精读页链接」',
-        '粘到 Safari 打开（独立完整页面）',
+        '点下面的「前往独立页面」',
+        '页面会跳到精读页本体（不在弹窗里）',
         '再点一次「🖨 打印」，按提示操作'
       ],
-      primaryLabel: '复制精读页链接',
-      primaryAction: copyPageLink
+      primaryLabel: '前往独立页面',
+      primaryAction: function(){
+        try{ window.top.location.href = location.href; }
+        catch(e){ copyPageLink(); }        /* 跨域被拦时退回复制链接 */
+      }
     });
     return;
   }

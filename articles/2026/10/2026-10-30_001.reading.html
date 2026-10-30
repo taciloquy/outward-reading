@@ -301,7 +301,7 @@ mark.voc:hover{background:#e0eabf;border-bottom-color:var(--accent)}
 @media print{.print-tip{display:none !important}.pg-mask{display:none !important}}
 
 /* ========== 打印样式：A4，仅标题 + 英文正文（v3 / Safari 兼容） ========== */
-@page{size:A4 portrait;margin:18mm 16mm}
+@page{size:A4 portrait;margin:14mm 13mm}
 
 @media print{
   html,body{
@@ -320,7 +320,7 @@ mark.voc:hover{background:#e0eabf;border-bottom-color:var(--accent)}
     background:#fff !important;border:none !important;box-shadow:none !important;
     padding:0 0 6pt !important;margin:0 !important;
   }
-  h1{font-size:19pt !important;line-height:1.4 !important;margin:0 0 6pt !important;color:#111 !important}
+  h1{font-size:17pt !important;line-height:1.35 !important;margin:0 0 5pt !important;color:#111 !important}
   .layout{
     display:block !important;max-width:none !important;
     padding:0 !important;margin:0 !important;gap:0 !important;
@@ -328,21 +328,21 @@ mark.voc:hover{background:#e0eabf;border-bottom-color:var(--accent)}
   .main,main{width:100% !important;max-width:none !important;flex:none !important;min-width:0 !important}
   .paragraph,.headline-block{
     background:#fff !important;border:none !important;border-radius:0 !important;
-    box-shadow:none !important;padding:0 !important;margin:0 0 12pt !important;
+    box-shadow:none !important;padding:0 !important;margin:0 0 8pt !important;
   }
   .p-label{font-size:8.5pt !important;color:#777 !important;letter-spacing:.06em !important;margin:0 0 3pt !important}
   .en-block{
     background:#fff !important;border:none !important;border-left:2px solid #ccc !important;
     border-radius:0 !important;box-shadow:none !important;
     padding:1pt 0 1pt 8pt !important;
-    font-size:10.5pt !important;line-height:1.7 !important;color:#111 !important;
+    font-size:10pt !important;line-height:1.55 !important;color:#111 !important;
   }
   mark.voc{
     background:transparent !important;border-bottom:none !important;
     padding:0 !important;color:inherit !important;font-weight:600 !important;
   }
-  .headline-en{font-size:13pt !important;line-height:1.5 !important;color:#111 !important}
-  .headline-sub{font-size:10.5pt !important;color:#444 !important;font-style:italic !important;margin-top:4pt !important}
+  .headline-en{font-size:12pt !important;line-height:1.45 !important;color:#111 !important}
+  .headline-sub{font-size:9.5pt !important;color:#444 !important;font-style:italic !important;margin-top:3pt !important}
   h2,h3{page-break-after:avoid}
   a{color:#111 !important;text-decoration:none !important}
 }
@@ -357,11 +357,15 @@ body.print-sheet .mm-switch,body.print-sheet .anchors,body.print-sheet .tool-row
 body.print-sheet .meta,body.print-sheet .print-tip,body.print-sheet .pg-mask{display:none !important}
 body.print-sheet .meta-row{display:block !important}
 body.print-sheet .main{width:100% !important;max-width:100% !important;margin:0 !important;padding:0 !important}
-body.print-sheet header,body.print-sheet .headline-block{background:none !important;border:none !important;box-shadow:none !important;padding:0 0 6mm !important}
-body.print-sheet .paragraph{background:none !important;border:none !important;border-radius:0 !important;box-shadow:none !important;padding:0 0 4mm !important;color:#000 !important}
-body.print-sheet .paragraph .en-block{font-size:11.5pt !important;line-height:1.75 !important;color:#000 !important}
+body.print-sheet header,body.print-sheet .headline-block{background:none !important;border:none !important;box-shadow:none !important;padding:0 0 5pt !important;margin:0 0 8pt !important}
+body.print-sheet .paragraph{background:none !important;border:none !important;border-radius:0 !important;box-shadow:none !important;padding:0 0 8pt !important;color:#000 !important}
+body.print-sheet .paragraph .en-block{font-size:10pt !important;line-height:1.55 !important;color:#000 !important}
 body.print-sheet mark,body.print-sheet mark.voc{background:none !important;color:inherit !important}
 body.print-sheet .p-label{color:#555 !important}
+
+/* 打印分页控制：段落序号 / 标题不孤悬页底 */
+.p-label{break-after:avoid !important;page-break-after:avoid !important}
+h1,.headline-block{break-after:avoid !important;page-break-after:avoid !important}
 </style>
 </head>
 <body>
@@ -920,12 +924,15 @@ function doPrint(){
       title: '先去独立页面再打印',
       desc: '你现在是在首页的弹窗里看这篇精读页，在这里打印会把首页的日历一起印出来。',
       steps: [
-        '点下面的「复制精读页链接」',
-        '粘到 Safari 打开（独立完整页面）',
+        '点下面的「前往独立页面」',
+        '页面会跳到精读页本体（不在弹窗里）',
         '再点一次「🖨 打印」，按提示操作'
       ],
-      primaryLabel: '复制精读页链接',
-      primaryAction: copyPageLink
+      primaryLabel: '前往独立页面',
+      primaryAction: function(){
+        try{ window.top.location.href = location.href; }
+        catch(e){ copyPageLink(); }        /* 跨域被拦时退回复制链接 */
+      }
     });
     return;
   }
