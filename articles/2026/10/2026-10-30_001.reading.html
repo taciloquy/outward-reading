@@ -1,0 +1,876 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>西班牙高铁又出事了：同一条高铁线，10个月两次重大事故、114人死亡！西班牙铁路怎么了？—— 英国《卫报》外刊讲解第1213天</title>
+<style>
+/* ========== 全局变量：改这里即可换配色 ========== */
+:root{
+  --bg: #f7f5f0;
+  --paper: #ffffff;
+  --paper-trans: #f0ede6;
+  --ink: #3d3a34;
+  --ink-light: #8a857c;
+  --accent: #6b8f71;
+  --accent-light: #e6efe7;
+  --line: #e2ddd3;
+  --hl: #f5e6a8;
+  --voc: #eef3d8;          /* 正文中「有注释的单词」底色 */
+  --voc-line: #c3d19b;
+  --radius: 10px;
+  --header-h: 116px;       /* 顶部固定栏高度，JS 会实时校准 */
+}
+*{box-sizing:border-box;margin:0;padding:0}
+html{scroll-behavior:smooth}
+body{
+  background:var(--bg); color:var(--ink);
+  font-family:-apple-system,BlinkMacSystemFont,"PingFang SC","Hiragino Sans GB","Microsoft YaHei",sans-serif;
+  line-height:1.75;
+}
+.en, .mono{font-family:Menlo, Monaco, "Courier New", monospace}
+
+/* ========== 页面头部 ========== */
+/* 顶部标题栏：固定在页面顶端，滚动时不动 */
+header{
+  position:sticky; top:0; z-index:60;
+  background:rgba(255,255,255,.95);
+  -webkit-backdrop-filter:saturate(180%) blur(10px);
+  backdrop-filter:saturate(180%) blur(10px);
+  border-bottom:1px solid var(--line);
+  padding:14px 28px 12px;
+}
+.meta-row{display:flex;flex-wrap:wrap;gap:14px;align-items:baseline}
+h1{font-size:22px;font-weight:700}
+.meta{color:var(--ink-light);font-size:13px}
+.meta span{margin-right:14px}
+.anchors{margin-top:10px;display:flex;flex-wrap:wrap;gap:8px}
+.anchors a{
+  text-decoration:none;font-size:13px;color:var(--accent);
+  background:var(--accent-light);padding:4px 12px;border-radius:999px;
+}
+.anchors a:hover{filter:brightness(.96)}
+
+/* ========== 左右分栏 ========== */
+.layout{
+  display:flex;gap:24px;align-items:flex-start;
+  max-width:1400px;margin:0 auto;padding:24px 28px;
+}
+.main{flex:7;min-width:0}
+/* 右侧面板：固定悬浮，高度不超一屏 */
+.side{
+  flex:3;min-width:0;
+  position:sticky; top:calc(var(--header-h) + 12px);
+  height:calc(100vh - var(--header-h) - 24px);
+  display:flex;
+}
+
+/* ========== 左侧主阅读区 ========== */
+.mindmap{
+  background:var(--paper);border:1px solid var(--line);border-radius:var(--radius);
+  padding:14px 14px 16px;color:var(--ink-light);font-size:14px;margin-bottom:24px;
+}
+.mindmap img{max-width:100%;border-radius:8px}
+/* 导图双版本切换 */
+.mm-switch{display:flex;justify-content:flex-end;gap:8px;margin-bottom:10px}
+.mm-btn{
+  font-size:12.5px;padding:4px 14px;border-radius:999px;cursor:pointer;
+  border:1px solid var(--line);background:var(--bg);color:var(--ink-light);
+}
+.mm-btn:hover{border-color:var(--accent)}
+.mm-btn.active{background:var(--accent-light);border-color:var(--accent);color:var(--accent);font-weight:600}
+.mm-view img{width:100%;display:block;border-radius:8px}
+/* 矢量导图交互：分支可点击折叠 */
+.mm-branch rect,.mm-branch text,.mm-arrow{cursor:pointer}
+.mm-branch:hover rect{stroke-width:2.5}
+.mm-children.collapsed{display:none}
+.mm-arrow{font-size:11px;user-select:none}
+
+.headline-block{
+  background:var(--paper);border:1px solid var(--line);border-radius:var(--radius);
+  padding:18px 20px;margin-bottom:22px;
+}
+.headline-en{font-size:18px;font-weight:700;line-height:1.6}
+.headline-sub{font-size:15px;color:var(--ink-light);margin-top:6px}
+
+.paragraph{
+  background:var(--paper);border:1px solid var(--line);border-radius:var(--radius);
+  padding:18px 20px;margin-bottom:22px;
+}
+.p-label{
+  font-size:12px;color:var(--ink-light);letter-spacing:.08em;
+  margin-bottom:8px;text-transform:uppercase;
+}
+.en-block{
+  background:var(--paper);border-radius:6px;padding:4px 0;
+  font-size:15px;line-height:1.9;white-space:pre-wrap;
+}
+.zh-block{
+  background:var(--paper-trans);border-radius:8px;padding:12px 16px;
+  margin-top:10px;font-size:14.5px;color:#55524b;white-space:pre-wrap;
+}
+mark.hl{background:var(--hl);border-radius:3px;padding:0 1px}
+/* 正文中「有注释的单词」：淡绿底 + 虚线下划线，点击跳到该词注释 */
+mark.voc{
+  background:var(--voc);border-bottom:1px dashed var(--voc-line);
+  border-radius:3px;padding:0 1px;cursor:pointer;color:inherit;
+}
+mark.voc:hover{background:#e0eabf;border-bottom-color:var(--accent)}
+.note-item.flash{background:#fdf6db;border-radius:6px;box-shadow:0 0 0 6px #fdf6db}
+
+/* —— 本段注释组（默认收起） —— */
+.notes-toggle{
+  margin-top:12px;font-size:13px;color:var(--accent);background:none;
+  border:1px solid var(--accent);border-radius:6px;padding:4px 12px;cursor:pointer;
+}
+.notes-group{display:none;margin-top:10px;border-top:1px dashed var(--line);padding-top:10px}
+.notes-group.open{display:block}
+.note-item{font-size:13.5px;margin-bottom:14px;line-height:1.8}
+.note-item b{color:var(--accent)}
+
+/* 锚点跳转补偿：不被固定标题栏挡住 */
+.paragraph,.headline-block,#practice,#main-reading,.mindmap,#side-panel{
+  scroll-margin-top:calc(var(--header-h) + 16px);
+}
+
+/* ========== 右侧查询面板（固定悬浮 + 分页） ========== */
+.side-inner{
+  background:var(--paper);border:1px solid var(--line);border-radius:var(--radius);
+  padding:14px;display:flex;flex-direction:column;width:100%;height:100%;overflow:hidden;
+}
+.side-head{display:flex;justify-content:space-between;align-items:center;margin-bottom:10px;flex:none}
+.side-head h2{font-size:15px}
+.side-collapse{font-size:12px;color:var(--accent);background:var(--accent-light);border:none;border-radius:6px;padding:4px 10px;cursor:pointer}
+.side-body{display:flex;flex-direction:column;flex:1;min-height:0}
+.side-body.hidden{display:none}
+
+.search-box{margin-bottom:10px;flex:none}
+.search-box input{
+  width:100%;border:1px solid var(--line);border-radius:8px;
+  padding:8px 12px;font-size:14px;background:var(--bg);color:var(--ink);
+}
+.search-box input:focus{outline:2px solid var(--accent-light);border-color:var(--accent)}
+.search-result{font-size:12.5px;color:var(--ink-light);margin-top:6px;line-height:1.9}
+.search-result a{color:var(--accent);text-decoration:none;margin-right:10px}
+
+/* 分页内容区：只有这一块滚动，搜索框与分页按钮固定 */
+.tab-panes{flex:1;min-height:0;overflow-y:auto;overflow-x:hidden;padding-right:2px}
+.tab-pane{display:none}
+.tab-pane.active{display:block}
+.tab-list{display:flex;flex-direction:column}
+.row{padding:7px 8px;border-radius:7px;border-bottom:1px solid var(--bg)}
+.row.row-hit{background:var(--hl)}
+.row:hover{background:#faf8f3}
+.row-top{display:flex;align-items:baseline;gap:7px;flex-wrap:wrap}
+.row-top .w{font-weight:700;font-size:13px;color:var(--ink)}
+.row-top .ph{font-size:11.5px;color:var(--ink-light)}
+.row-top .src{
+  margin-left:auto;font-size:11px;color:var(--accent);text-decoration:none;
+  background:var(--accent-light);padding:1px 7px;border-radius:5px;white-space:nowrap;
+}
+.row .def{font-size:12.5px;color:#55524b;line-height:1.72;margin-top:4px}
+.row .def.role{color:var(--ink-light);border-left:2px solid var(--accent-light);padding-left:8px;margin-top:6px}
+
+/* 段落导航（第 3 页） */
+.p-nav{display:flex;flex-direction:column;gap:2px}
+.p-nav a{
+  display:block;padding:7px 10px;border-radius:6px;text-decoration:none;
+  color:var(--ink);font-size:13px;border-left:2px solid transparent;
+}
+.p-nav a:hover{background:var(--accent-light);border-left-color:var(--accent)}
+.p-nav a.sub{font-size:12.5px;color:var(--ink-light);padding-left:22px}
+.p-nav a .hint{display:block;font-size:11.5px;color:var(--ink-light);margin-top:1px;font-family:Menlo,monospace}
+
+/* 底部分页按钮 1 / 2 / 3 */
+.tab-bar{
+  flex:none;display:flex;gap:6px;margin-top:10px;padding-top:10px;
+  border-top:1px solid var(--line);
+}
+.tab-btn{
+  flex:1;font-size:12px;padding:7px 4px;border-radius:7px;cursor:pointer;
+  border:1px solid var(--line);background:var(--bg);color:var(--ink-light);
+  font-family:inherit;white-space:nowrap;
+}
+.tab-btn:hover{border-color:var(--accent);color:var(--accent)}
+.tab-btn.active{background:var(--accent-light);border-color:var(--accent);color:var(--accent);font-weight:600}
+
+/* ========== 底部：翻译练习 ========== */
+.practice{
+  max-width:1400px;margin:0 auto;padding:0 28px 40px;
+}
+.practice h2{font-size:18px;margin-bottom:12px}
+.fold{
+  background:var(--paper);border:1px solid var(--line);border-radius:var(--radius);
+  margin-bottom:12px;overflow:hidden;
+}
+.fold-head{
+  width:100%;text-align:left;background:none;border:none;cursor:pointer;
+  padding:12px 18px;font-size:14.5px;font-weight:600;color:var(--ink);
+  display:flex;justify-content:space-between;align-items:center;
+}
+.fold-body{display:none;padding:0 18px 16px;font-size:14.5px;white-space:pre-wrap}
+.fold.open .fold-body{display:block}
+.fold.open .fold-head .arrow{transform:rotate(90deg)}
+.fold-head .arrow{color:var(--ink-light);font-size:12px;transition:transform .2s}
+
+/* ========== 移动端自适应 ========== */
+@media (max-width:1024px){
+  .layout{flex-direction:column}
+  .main{flex:none;width:100%}
+  /* 窄屏：面板下沉页面底部，不再固定高度 */
+  .side{flex:none;width:100%;position:static;order:2;height:auto;display:block}
+  .side-inner{height:auto}
+  .tab-panes{max-height:56vh}
+  .practice{order:3}
+  header{padding:12px 16px 10px}
+  .layout,.practice{padding-left:16px;padding-right:16px}
+}
+
+/* ========== 打印按钮（屏幕显示） ========== */
+.print-btn{
+  position:absolute;top:18px;right:28px;z-index:5;
+  border:1px solid var(--line);background:var(--paper);color:var(--ink-light);
+  font-size:13px;border-radius:8px;padding:6px 14px;cursor:pointer;
+}
+.print-btn:hover{color:var(--accent);border-color:var(--accent)}
+
+/* ========== 打印样式：A4，仅标题 + 英文正文 ========== */
+@media print{
+  @page{size:A4 portrait;margin:18mm 16mm}
+  body{background:#fff}
+  /* 隐藏：锚点/元信息/打印按钮、导图、右侧面板、译文、注释、翻译练习 */
+  .anchors,.meta-row .meta,.print-btn,.mindmap,.side,.practice,
+  .zh-block,.notes-toggle,.notes-group,.mm-switch{display:none !important}
+  header{position:static;background:#fff;border:none;padding:0 0 6px;backdrop-filter:none}
+  h1{font-size:20pt;line-height:1.4;margin-bottom:4px}
+  .layout{display:block;padding:0}
+  .main{width:100%;flex:none}
+  .paragraph{margin:0 0 14px;padding:0;page-break-inside:auto}
+  .p-label{font-size:9.5pt;color:#666;margin-bottom:4px}
+  .en-block{
+    background:#fff !important;border:none;border-left:2px solid #bbb;
+    padding:2px 0 2px 10px;font-size:10.5pt;line-height:1.75;
+  }
+  .en-block mark.voc{background:transparent;font-weight:600;padding:0}
+  /* 标题块中的英文标题区 */
+  .headline-en{font-size:13pt;font-weight:700}
+  .headline-sub{font-size:10.5pt;font-style:italic}
+  h2,h3{page-break-after:avoid}
+}
+</style>
+</head>
+<body>
+
+<!-- ==================== 页面头部 ==================== -->
+<header>
+  <div class="meta-row">
+    <h1>西班牙高铁又出事了：同一条高铁线，10 个月两次重大事故、114 人死亡</h1>
+    <div class="meta">
+      <span>日期：2026-10-30</span>
+      <span>分类：英国《卫报》外刊讲解 第1213天</span>
+      <span>阅读时长：约 18 分钟</span>
+    </div>
+    <button class="print-btn" onclick="window.print()" title="A4 打印：仅标题与英文正文">🖨 打印</button>
+  </div>
+  <nav class="anchors">
+    <a href="#main-reading">双语正文</a>
+    <a href="#side-panel" onclick="showTab(1)">词汇总表</a>
+    <a href="#side-panel" onclick="showTab(2)">专有名词表</a>
+    <a href="#practice">翻译练习</a>
+  </nav>
+</header>
+
+<div class="layout">
+
+  <!-- ==================== 左侧主阅读区 ==================== -->
+  <main class="main" id="main-reading">
+
+    <!-- 思维导图 -->
+    <section class="mindmap" id="mindmap">
+      <div class="mm-switch">
+        <button class="mm-btn" id="mm-all-btn" onclick="toggleAllMindmap()">全部收起</button>
+        <button class="mm-btn active" id="mm-vector-btn" onclick="showMindmap('vector',this)">矢量版</button>
+      </div>
+      <div class="mm-view" id="mm-vector">
+      <svg viewBox="0 0 960 720" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="西班牙高铁事故文章思维导图" style="width:100%;height:auto;font-family:-apple-system,'PingFang SC','Hiragino Sans GB','Microsoft YaHei',sans-serif">
+        <!-- 连接线：根 → 四大分支（常显） -->
+        <path d="M200,350 C232,350 232,97 260,97"  stroke="#6b8f71" stroke-width="2" fill="none"/>
+        <path d="M200,350 C232,350 232,267 260,267" stroke="#7d98ad" stroke-width="2" fill="none"/>
+        <path d="M200,350 C232,350 232,447 260,447" stroke="#bd7a6d" stroke-width="2" fill="none"/>
+        <path d="M200,350 C232,350 232,657 260,657" stroke="#9b86b3" stroke-width="2" fill="none"/>
+
+        <!-- 分支一：事故概况（¶1–2） -->
+        <g class="mm-branch" data-target="bc1">
+          <rect x="260" y="80" width="160" height="34" rx="8" fill="#e6efe7" stroke="#6b8f71"/>
+          <text x="330" y="102" text-anchor="middle" fill="#4c6b52" font-size="14" font-weight="700">事故概况（¶1–2）</text>
+          <text class="mm-arrow" data-for="bc1" x="410" y="102" text-anchor="end" fill="#4c6b52">▾</text>
+        </g>
+        <g class="mm-children" id="bc1">
+          <path d="M420,97 C447,97 447,45 470,45"  stroke="#6b8f71" stroke-width="1.5" fill="none"/>
+          <path d="M420,97 C447,97 447,89 470,89"  stroke="#6b8f71" stroke-width="1.5" fill="none"/>
+          <path d="M420,97 C447,97 447,133 470,133" stroke="#6b8f71" stroke-width="1.5" fill="none"/>
+          <rect x="470" y="30"  width="474" height="30" rx="8" fill="#e6efe7"/><text x="484" y="50"  fill="#3d3a34" font-size="12.5">Renfe 列车追尾停驶的 Iryo：至少 68 死、数十人伤</text>
+          <rect x="470" y="74"  width="474" height="30" rx="8" fill="#e6efe7"/><text x="484" y="94"  fill="#3d3a34" font-size="12.5">托莱多省乌尔达镇附近脱轨，现场是葡萄园与橄榄林</text>
+          <rect x="470" y="118" width="474" height="30" rx="8" fill="#e6efe7"/><text x="484" y="138" fill="#3d3a34" font-size="12.5">两车同向（马德里→安达卢西亚）：Iryo 私营、Renfe 国有</text>
+        </g>
+
+        <!-- 分支二：幸存者视角（¶3–4） -->
+        <g class="mm-branch" data-target="bc2">
+          <rect x="260" y="250" width="160" height="34" rx="8" fill="#e7eef3" stroke="#7d98ad"/>
+          <text x="330" y="272" text-anchor="middle" fill="#54718a" font-size="14" font-weight="700">幸存者视角（¶3–4）</text>
+          <text class="mm-arrow" data-for="bc2" x="410" y="272" text-anchor="end" fill="#54718a">▾</text>
+        </g>
+        <g class="mm-children" id="bc2">
+          <path d="M420,267 C447,267 447,215 470,215" stroke="#7d98ad" stroke-width="1.5" fill="none"/>
+          <path d="M420,267 C447,267 447,259 470,259" stroke="#7d98ad" stroke-width="1.5" fill="none"/>
+          <path d="M420,267 C447,267 447,303 470,303" stroke="#7d98ad" stroke-width="1.5" fill="none"/>
+          <rect x="470" y="200" width="474" height="30" rx="8" fill="#e7eef3"/><text x="484" y="220" fill="#3d3a34" font-size="12.5">秘鲁游客梅迪纳被抛到空中，与女友互相寻找</text>
+          <rect x="470" y="244" width="474" height="30" rx="8" fill="#e7eef3"/><text x="484" y="264" fill="#3d3a34" font-size="12.5">“有人伤口、有人浑身是血、有人失去肢体”</text>
+          <rect x="470" y="288" width="474" height="30" rx="8" fill="#e7eef3"/><text x="484" y="308" fill="#3d3a34" font-size="12.5">菲律宾夫妇：桌子在撞击中消失，“像第二次生命”</text>
+        </g>
+
+        <!-- 分支三：原因链（¶5–7） -->
+        <g class="mm-branch" data-target="bc3">
+          <rect x="260" y="430" width="160" height="34" rx="8" fill="#f3e4e0" stroke="#bd7a6d"/>
+          <text x="330" y="452" text-anchor="middle" fill="#96524a" font-size="14" font-weight="700">原因链（¶5–7）</text>
+          <text class="mm-arrow" data-for="bc3" x="410" y="452" text-anchor="end" fill="#96524a">▾</text>
+        </g>
+        <g class="mm-children" id="bc3">
+          <path d="M420,447 C447,447 447,350 470,350" stroke="#bd7a6d" stroke-width="1.5" fill="none"/>
+          <path d="M420,447 C447,447 447,400 470,400" stroke="#bd7a6d" stroke-width="1.5" fill="none"/>
+          <path d="M420,447 C447,447 447,450 470,450" stroke="#bd7a6d" stroke-width="1.5" fill="none"/>
+          <path d="M420,447 C447,447 447,500 470,500" stroke="#bd7a6d" stroke-width="1.5" fill="none"/>
+          <rect x="470" y="330" width="474" height="40" rx="8" fill="#f3e4e0"/><text x="484" y="347" fill="#3d3a34" font-size="12.5">① 8:30 LZB 信号系统计算机故障 → 6 列车停驶、<tspan x="484" dy="17">波及约 63 公里区段</tspan></text>
+          <rect x="470" y="380" width="474" height="40" rx="8" fill="#f3e4e0"/><text x="484" y="397" fill="#3d3a34" font-size="12.5">② 8:36 控制中心仍指示 2 列“照常恢复”——<tspan x="484" dy="17">而停车信号仍然有效（被称“令人费解的”决定）</tspan></text>
+          <rect x="470" y="430" width="474" height="40" rx="8" fill="#f3e4e0"/><text x="484" y="447" fill="#3d3a34" font-size="12.5">③ Renfe 行驶约 25 公里，约 17 分钟后撞上<tspan x="484" dy="17">静止的 Iryo；控制中心“本有足够时间核实却没纠正”</tspan></text>
+          <rect x="470" y="480" width="474" height="40" rx="8" fill="#f3e4e0"/><text x="484" y="497" fill="#3d3a34" font-size="12.5">④ 另一列车司机自行纠正：“不能恢复正常运行，<tspan x="484" dy="17">必须目视行车”</tspan></text>
+        </g>
+
+        <!-- 分支四：全国震动（¶8–9） -->
+        <g class="mm-branch" data-target="bc4">
+          <rect x="260" y="640" width="160" height="34" rx="8" fill="#ece6f2" stroke="#9b86b3"/>
+          <text x="330" y="662" text-anchor="middle" fill="#6f5c88" font-size="14" font-weight="700">全国震动（¶8–9）</text>
+          <text class="mm-arrow" data-for="bc4" x="410" y="662" text-anchor="end" fill="#6f5c88">▾</text>
+        </g>
+        <g class="mm-children" id="bc4">
+          <path d="M420,657 C447,657 447,605 470,605" stroke="#9b86b3" stroke-width="1.5" fill="none"/>
+          <path d="M420,657 C447,657 447,649 470,649" stroke="#9b86b3" stroke-width="1.5" fill="none"/>
+          <path d="M420,657 C447,657 447,693 470,693" stroke="#9b86b3" stroke-width="1.5" fill="none"/>
+          <rect x="470" y="590" width="474" height="30" rx="8" fill="#ece6f2"/><text x="484" y="610" fill="#3d3a34" font-size="12.5">今年 1 月阿达穆斯同线相撞 46 死；10 个月累计 114 死</text>
+          <rect x="470" y="634" width="474" height="30" rx="8" fill="#ece6f2"/><text x="484" y="654" fill="#3d3a34" font-size="12.5">“引以为傲”的欧洲最现代化高铁网：团结将转为愤怒</text>
+          <rect x="470" y="678" width="474" height="30" rx="8" fill="#ece6f2"/><text x="484" y="698" fill="#3d3a34" font-size="12.5">反对党要求立即调查 + 对全网做全面独立审查</text>
+        </g>
+
+        <!-- 根节点 -->
+        <rect x="16" y="286" width="184" height="128" rx="12" fill="#566d5a"/>
+        <text x="108" y="322" text-anchor="middle" fill="#ffffff" font-size="15" font-weight="700">西班牙高铁</text>
+        <text x="108" y="342" text-anchor="middle" fill="#ffffff" font-size="15" font-weight="700">又出事了</text>
+        <text x="108" y="366" text-anchor="middle" fill="#dfe8e1" font-size="11">同一条线 · 10 个月</text>
+        <text x="108" y="383" text-anchor="middle" fill="#dfe8e1" font-size="11">两起事故 · 至少 114 死</text>
+      </svg>
+
+      </div>
+      <div class="mm-view" id="mm-image" style="display:none"></div>
+    </section>
+
+    <section class="paragraph headline-block" id="p-headline">
+      <div class="p-label">The Guardian · 标题</div>
+      <div class="headline-en en">Spain's Sánchez <mark class="voc" data-note="n-p-headline-1">declares</mark> three days of <mark class="voc" data-note="n-p-headline-2">mourning</mark> after at least 68 killed in Toledo train crash</div>
+      <div class="zh-block">西班牙托莱多列车相撞事故造成至少68人死亡，首相桑切斯宣布全国哀悼三天</div>
+
+      <button class="notes-toggle" onclick="toggleNotes(this)">查看标题注释</button>
+      <div class="notes-group">
+        <div class="note-item" id="n-p-headline-1"><b>declare</b> /dɪˈkleə(r)/ v.<br>英文释义：to announce something officially or publicly<br>中文释义：宣布，宣告，声明<br>文中意：西班牙首相正式宣布全国哀悼三天<br>例句一：The government declared a state of emergency after the earthquake. 地震发生后，政府宣布进入紧急状态。<br>例句二：She finally declared her intention to leave the company. 她终于公开宣布了离开公司的打算。</div>
+        <div class="note-item" id="n-p-headline-2"><b>mourning</b> /ˈmɔːnɪŋ/ n.<br>英文释义：the feeling or expression of deep sadness after someone's death<br>中文释义：哀悼，悲痛，服丧<br>文中意：政府为列车事故遇难者宣布的全国哀悼期<br>例句一：The entire nation was in mourning after the president's death. 总统去世后，全国陷入哀悼之中。<br>例句二：Flags were lowered to half-mast as a sign of mourning. 旗帜降至半旗，以示哀悼。</div>
+      </div>
+    </section>
+
+    <!-- Paragraph 1 -->
+    <section class="paragraph" id="p1">
+      <div class="p-label">Paragraph 1</div>
+      <div class="en-block en">The Spanish prime minister has declared three days of mourning after at least 68 people were killed and dozens more injured in a <mark class="voc" data-note="n-p1-1">collision</mark> between two high-speed trains that officials suggested was caused by an “<mark class="voc" data-note="n-p1-2">inexplicable</mark>” error at the central command centre. The trains, one from Spain’s <mark class="voc" data-note="n-p1-3">state-owned</mark> Renfe and the other from the private rail company Iryo, were travelling on Wednesday morning in the same direction on the line that stretches from the Spanish capital, Madrid, to the southern region of Andalusia. After the Iryo train <mark class="voc" data-note="n-p1-4">came to a halt</mark>, the other <mark class="voc" data-note="n-p1-5">slammed into</mark> its rear, knocking several <mark class="voc" data-note="n-p1-6">carriages</mark> off the track near the town of Urda.</div>
+      <div class="zh-block">西班牙首相宣布全国哀悼三天。此前，两列高速列车发生相撞事故，造成至少68人死亡、数十人受伤。官员表示，事故可能是由中央指挥中心一次“令人费解”的失误造成的。周三上午，两列列车沿着连接西班牙首都马德里与南部安达卢西亚地区的铁路线路同向行驶，其中一列属于西班牙国有铁路公司Renfe，另一列属于私营铁路公司Iryo。Iryo列车停下后，另一列列车猛烈撞上了它的尾部，导致数节车厢在乌尔达镇附近脱轨。</div>
+
+      <button class="notes-toggle" onclick="toggleNotes(this)">查看本段注释</button>
+      <div class="notes-group">
+        <div class="note-item" id="n-p1-1"><b>collision</b> /kəˈlɪʒən/ n.<br>英文释义：an accident in which two or more people or vehicles hit each other<br>中文释义：碰撞，相撞，撞击事故<br>文中意：两列高速列车之间发生的相撞事故<br>例句一：The collision between the two trucks blocked the highway for hours. 两辆卡车相撞，导致高速公路堵塞了数小时。<br>例句二：Several passengers were injured in a collision involving two buses. 两辆公交车发生碰撞，造成数名乘客受伤。</div>
+        <div class="note-item" id="n-p1-2"><b>inexplicable</b> /ˌɪnɪkˈsplɪkəbl/ adj.<br>英文释义：impossible or very difficult to explain or understand<br>中文释义：无法解释的，令人费解的<br>文中意：指挥中心出现的失误令人难以理解，无法得到合理解释<br>例句一：For some inexplicable reason, the lights suddenly went out. 不知什么原因，灯突然熄灭了。<br>例句二：His sudden disappearance remains inexplicable to his family. 他的突然失踪至今仍让家人无法理解。</div>
+        <div class="note-item" id="n-p1-3"><b>state-owned</b> /ˌsteɪt ˈəʊnd/ adj.<br>英文释义：owned and controlled by the government rather than by private individuals or companies<br>中文释义：国有的，国家所有的<br>文中意：指西班牙国有铁路公司Renfe<br>例句一：The government plans to reform several state-owned enterprises. 政府计划改革几家国有企业。<br>例句二：The country relies heavily on state-owned energy companies. 这个国家在很大程度上依赖国有能源企业。</div>
+        <div class="note-item" id="n-p1-4"><b>come to a halt</b> /kʌm tə ə hɔːlt/ phr.<br>英文释义：to stop moving or operating completely<br>中文释义：停止，停下来，陷入停顿<br>文中意：Iryo列车在铁轨上停了下来<br>例句一：Traffic came to a halt when heavy snow covered the roads. 大雪覆盖道路后，交通完全停滞。<br>例句二：The entire project came to a halt because of a lack of funding. 由于缺乏资金，整个项目陷入停顿。</div>
+        <div class="note-item" id="n-p1-5"><b>slam into</b> /slæm ˈɪntuː/ phr.<br>英文释义：to crash into someone or something with great force<br>中文释义：猛烈撞上，重重撞击<br>文中意：Renfe列车猛烈撞上前方Iryo列车的尾部<br>例句一：The driver lost control and slammed into a concrete wall. 司机失去控制，猛烈撞上了一堵混凝土墙。<br>例句二：A huge wave slammed into the side of the fishing boat. 一个巨浪猛烈拍打在渔船侧面。</div>
+        <div class="note-item" id="n-p1-6"><b>carriage</b> /ˈkærɪdʒ/ n.<br>英文释义：one of the separate sections of a train in which passengers travel<br>中文释义：（火车的）车厢<br>文中意：事故中被撞击并脱离轨道的列车车厢<br>例句一：We walked through three carriages before finding an empty seat. 我们穿过三节车厢才找到一个空座位。<br>例句二：Passengers in the last carriage felt the strongest impact. 最后一节车厢里的乘客感受到了最猛烈的撞击。</div>
+      </div>
+    </section>
+
+    <!-- Paragraph 2 -->
+    <section class="paragraph" id="p2">
+      <div class="p-label">Paragraph 2</div>
+      <div class="en-block en">Josimar Medina woke a little before 9am on Wednesday to find himself <mark class="voc" data-note="n-p2-1">airborne</mark> and <mark class="voc" data-note="n-p2-2">hurtling</mark> through his carriage on the fast train from Madrid to Seville. “I remember flying through the air and looking for my girlfriend, who was also <mark class="voc" data-note="n-p2-3">shooting through</mark> the air,” said Medina, a 37-year-old tourist from the northern Peruvian city of Chiclayo. Once he <mark class="voc" data-note="n-p2-4">landed</mark>, he <mark class="voc" data-note="n-p2-5">looked around</mark> and realised just how lucky he and his girlfriend, Vitoria Maia, had been. “I saw people with <mark class="voc" data-note="n-p2-6">cuts</mark>, people covered in blood, people missing <mark class="voc" data-note="n-p2-7">limbs</mark>, and I saw one person who had nothing left below the chest,” said Medina.</div>
+      <div class="zh-block">周三上午9点前不久，乔西马尔·梅迪纳从睡梦中醒来，却发现自己已经腾空而起，在一列从马德里开往塞维利亚的高速列车车厢里猛烈地飞了出去。“我记得自己在空中飞着，一边寻找我的女朋友，她当时也被甩到了空中。”37岁的梅迪纳说道。他是一名来自秘鲁北部城市奇克拉约的游客。落地后，他环顾四周，才意识到自己和女友维多利亚·玛雅是多么幸运。“我看到有人身上有伤口，有人浑身是血，有人失去了肢体。我还看到一个人，胸部以下已经什么都没有了。”梅迪纳说道。</div>
+
+      <button class="notes-toggle" onclick="toggleNotes(this)">查看本段注释</button>
+      <div class="notes-group">
+        <div class="note-item" id="n-p2-1"><b>airborne</b> /ˈeəbɔːn/ adj.<br>英文释义：in the air, especially after leaving the ground<br>中文释义：在空中的，腾空的<br>文中意：梅迪纳在猛烈撞击下被抛到空中，身体离开了座位<br>例句一：The plane was airborne within seconds of leaving the runway. 飞机离开跑道后几秒钟就升空了。<br>例句二：The force of the explosion sent several objects airborne. 爆炸产生的冲击力将几个物体掀到了空中。</div>
+        <div class="note-item" id="n-p2-2"><b>hurtle</b> /ˈhɜːtl/ v.<br>英文释义：to move very quickly, especially in a way that seems dangerous or uncontrolled<br>中文释义：飞驰，猛冲，快速失控地移动<br>文中意：梅迪纳的身体在撞击后不受控制地从车厢里猛地飞出去<br>例句一：A large rock came hurtling down the mountain towards the village. 一块巨石从山上飞速滚落，直冲山下的村庄。<br>例句二：The cyclist went hurtling down the steep hill without being able to stop. 那名骑行者沿着陡坡飞速冲下去，根本无法停下来。</div>
+        <div class="note-item" id="n-p2-3"><b>shoot through</b> /ʃuːt θruː/ phr.<br>英文释义：to move very quickly through a place or space<br>中文释义：飞速穿过，猛地冲过<br>文中意：梅迪纳的女朋友也因撞击而被猛地甩到空中<br>例句一：A flash of lightning shot through the dark sky. 一道闪电划过漆黑的天空。<br>例句二：A sharp pain shot through his shoulder when he lifted the heavy box. 当他抬起那个沉重的箱子时，一阵剧痛突然袭过他的肩膀。</div>
+        <div class="note-item" id="n-p2-4"><b>land</b> /lænd/ v.<br>英文释义：to come down through the air and reach the ground or another surface<br>中文释义：落地，降落，着地<br>文中意：梅迪纳被撞飞后，身体重新落到车厢内的某个位置<br>例句一：The little boy jumped off the wall and landed safely on his feet. 小男孩从墙上跳下来，双脚稳稳落地。<br>例句二：The suitcase fell from the shelf and landed beside her chair. 行李箱从架子上掉下来，落在了她的椅子旁边。</div>
+        <div class="note-item" id="n-p2-5"><b>look around</b> /lʊk əˈraʊnd/ phr.<br>英文释义：to turn your head and look at the things or people around you<br>中文释义：环顾四周，四下张望<br>文中意：梅迪纳落地后环顾车厢，发现其他乘客伤势惨重<br>例句一：She looked around the empty room and wondered where everyone had gone. 她环顾空荡荡的房间，心想大家都去了哪里。<br>例句二：He looked around nervously before entering the unfamiliar building. 走进那栋陌生的建筑前，他紧张地环顾四周。</div>
+        <div class="note-item" id="n-p2-6"><b>cut</b> /kʌt/ n.<br>英文释义：an injury in which the skin is damaged or broken by something sharp<br>中文释义：伤口，割伤，划伤<br>文中意：事故中部分乘客身上出现的伤口<br>例句一：She had a deep cut on her hand after breaking a glass. 她打碎玻璃杯后，手上留下了一道很深的伤口。<br>例句二：The nurse cleaned the cut and covered it with a bandage. 护士清洗了伤口，并用绷带包扎起来。</div>
+        <div class="note-item" id="n-p2-7"><b>limb</b> /lɪm/ n.<br>英文释义：an arm or a leg of a person or animal<br>中文释义：肢体，四肢之一<br>文中意：部分乘客在事故中失去的手臂或腿部<br>例句一：The accident left him with serious injuries to his lower limbs. 这场事故使他的下肢受了重伤。<br>例句二：Regular exercise helps maintain strength and flexibility in your limbs. 经常锻炼有助于保持四肢的力量和灵活性。</div>
+      </div>
+    </section>
+
+    <!-- Paragraph 3 -->
+    <section class="paragraph" id="p3">
+      <div class="p-label">Paragraph 3</div>
+      <div class="en-block en">The Peruvian stood <mark class="voc" data-note="n-p3-1">recounting</mark> the details of Wednesday’s <mark class="voc" data-note="n-p3-2">deadly</mark> rail crash, in which at least 68 people were killed and dozens more were injured, wearing a light brown Tshirt <mark class="voc" data-note="n-p3-3">stained</mark> with the blood of a young American man he had helped <mark class="voc" data-note="n-p3-4">move to safety</mark>. The couple climbed out of the train and helped the injured while they waited for <mark class="voc" data-note="n-p3-5">medics</mark> and Guardia Civil officers to arrive <mark class="voc" data-note="n-p3-6">at the scene of</mark> the crash, which took place <mark class="voc" data-note="n-p3-7">amid</mark> <mark class="voc" data-note="n-p3-8">vineyards</mark> and olive <mark class="voc" data-note="n-p3-9">groves</mark> near the small town of Urda.</div>
+      <div class="zh-block">这名秘鲁男子站在那里，讲述着周三那场致命列车事故的细节。事故造成至少68人死亡，另有数十人受伤。他身上穿着一件浅棕色T恤，上面沾着一名年轻美国男子的血迹，而他此前曾帮助将这名男子转移到安全地带。这对情侣从列车中爬出来，一边等待医护人员和西班牙国民警卫队警员赶到现场，一边帮助受伤的乘客。事故发生在乌尔达小镇附近，周围是一片片葡萄园和橄榄树林。</div>
+
+      <button class="notes-toggle" onclick="toggleNotes(this)">查看本段注释</button>
+      <div class="notes-group">
+        <div class="note-item" id="n-p3-1"><b>recount</b> /rɪˈkaʊnt/ v.<br>英文释义：to describe or tell someone about something that happened, often in detail<br>中文释义：讲述，叙述，详细回忆<br>文中意：幸存者向记者详细讲述列车相撞事故的经过<br>例句一：The survivor recounted the terrifying moments before the building collapsed. 幸存者讲述了大楼倒塌前那些令人恐惧的瞬间。<br>例句二：My grandfather often recounts stories from his childhood. 我的祖父经常讲述他童年时期的故事。</div>
+        <div class="note-item" id="n-p3-2"><b>deadly</b> /ˈdedli/ adj.<br>英文释义：causing or likely to cause death<br>中文释义：致命的，造成死亡的<br>文中意：形容这场造成至少68人死亡的严重列车事故<br>例句一：A deadly earthquake struck the coastal region early in the morning. 清晨，一场致命地震袭击了沿海地区。<br>例句二：The disease can be deadly if it is not treated in time. 如果不及时治疗，这种疾病可能致命。</div>
+        <div class="note-item" id="n-p3-3"><b>stain</b> /steɪn/ v.<br>英文释义：to leave a mark on something that is difficult to remove<br>中文释义：弄脏，留下污渍，染上污迹<br>文中意：幸存者的浅棕色T恤沾上了被救助者的血迹<br>例句一：She accidentally stained her white dress with red wine. 她不小心把红酒洒在白裙子上，留下了污渍。<br>例句二：His hands were stained with paint after working all afternoon. 干了一下午的活后，他的双手沾满了油漆。</div>
+        <div class="note-item" id="n-p3-4"><b>move to safety</b> /muːv tə ˈseɪfti/ phr.<br>英文释义：to take someone or something away from danger to a safe place<br>中文释义：转移到安全地带，帮助脱离危险<br>文中意：梅迪纳帮助一名受伤的年轻美国男子转移到安全区域<br>例句一：Firefighters moved several families to safety before the fire spread. 消防员在火势蔓延前将几户家庭转移到了安全地带。<br>例句二：The teacher quickly moved the children to safety during the earthquake. 地震发生时，老师迅速将孩子们转移到了安全地带。</div>
+        <div class="note-item" id="n-p3-5"><b>medic</b> /ˈmedɪk/ n.<br>英文释义：a person who is trained to give medical treatment, especially in an emergency<br>中文释义：医护人员，急救人员<br>文中意：赶往列车事故现场救治伤者的急救医护人员<br>例句一：Medics rushed to the scene to treat the injured passengers. 急救人员迅速赶到现场救治受伤乘客。<br>例句二：A medic checked his breathing before taking him to the hospital. 一名急救人员在将他送往医院前检查了他的呼吸情况。</div>
+        <div class="note-item" id="n-p3-6"><b>at the scene of</b> /ət ðə siːn əv/ phr.<br>英文释义：at the place where an accident, crime or other event has happened<br>中文释义：在……现场<br>文中意：在列车相撞事故发生的地点<br>例句一：Several police officers were already at the scene of the accident. 几名警察已经抵达事故现场。<br>例句二：Reporters gathered at the scene of the fire to interview witnesses. 记者聚集在火灾现场采访目击者。</div>
+        <div class="note-item" id="n-p3-7"><b>amid</b> /əˈmɪd/ prep.<br>英文释义：in the middle of or surrounded by something<br>中文释义：在……之中，被……环绕<br>文中意：事故发生在葡萄园和橄榄树林环绕的乡间地带<br>例句一：A small wooden house stood amid the tall trees. 一座小木屋坐落在高大的树木之间。<br>例句二：The village remained peaceful amid the surrounding mountains. 这座村庄坐落在群山之间，依然宁静祥和。</div>
+        <div class="note-item" id="n-p3-8"><b>vineyard</b> /ˈvɪnjəd/ n.<br>英文释义：a piece of land where grapes are grown, especially for making wine<br>中文释义：葡萄园，酿酒葡萄种植园<br>文中意：事故发生地点周围的葡萄种植园<br>例句一：The family owns a beautiful vineyard in southern France. 这家人在法国南部拥有一座美丽的葡萄园。<br>例句二：Workers were harvesting grapes in the vineyard when the storm arrived. 暴风雨来临时，工人们正在葡萄园里采摘葡萄。</div>
+        <div class="note-item" id="n-p3-9"><b>grove</b> /ɡrəʊv/ n.<br>英文释义：a small group of trees growing close together, often of the same type<br>中文释义：小树林，树丛，果树林<br>文中意：事故地点附近的橄榄树林，olive groves<br>例句一：We found a quiet place to rest in a grove of pine trees. 我们在一片松树林里找到了一个安静的休息地点。<br>例句二：The old farmhouse was surrounded by orange groves. 那座古老的农舍四周环绕着橘树林。</div>
+      </div>
+    </section>
+
+    <!-- Paragraph 4 -->
+    <section class="paragraph" id="p4">
+      <div class="p-label">Paragraph 4</div>
+      <div class="en-block en">Fredrich and Arabella Barilea, a couple from the Philippines who now live in Dubai, were on the Iryo train, and Fredrich was <mark class="voc" data-note="n-p4-2">sent flying</mark> by the <mark class="voc" data-note="n-p4-1">impact</mark>. “One guy was shouting: ‘Get out! Get out! Another train could hit!” said Fredrich. “We saw all the people were also <mark class="voc" data-note="n-p4-3">getting off</mark>. Many of them had head injuries and were covered in blood. We just got as far away from the train as we could.” “It all happened <mark class="voc" data-note="n-p4-4">in a split second</mark>,” said Arabella. “The table we were sitting at just disappeared in the crash. I feel like we’re on our <mark class="voc" data-note="n-p4-5">second life</mark>.”</div>
+      <div class="zh-block">弗雷德里希和阿拉贝拉·巴里莱亚是一对来自菲律宾、如今居住在迪拜的夫妻。事故发生时，他们正乘坐Iryo列车，弗雷德里希被猛烈的撞击力甩飞了出去。“有个男人一直在大喊： ‘快出去！快出去！可能还有另一列火车会撞过来！’”弗雷德里希说道。“我们看到其他人也都在下车。很多人头部受了伤，浑身是血。我们只想着尽可能远离列车。”“这一切都发生在一瞬间。”阿拉贝拉说道。“我们坐着的那张桌子在撞击中直接消失了。我感觉我们就像获得了第二次生命。”</div>
+
+      <button class="notes-toggle" onclick="toggleNotes(this)">查看本段注释</button>
+      <div class="notes-group">
+        <div class="note-item" id="n-p4-1"><b>impact</b> /ˈɪmpækt/ n.<br>英文释义：the force or action of one object hitting another<br>中文释义：撞击，冲击，撞击力<br>文中意：两列火车相撞时产生的巨大冲击力，将弗雷德里希甩飞出去<br>例句一：The impact of the crash shattered the car's front window. 撞击产生的冲击力震碎了汽车的前挡风玻璃。<br>例句二：The passengers were thrown forward by the sudden impact. 突如其来的撞击使乘客们向前甩去。</div>
+        <div class="note-item" id="n-p4-2"><b>send sb. flying</b> /send ˈsʌmbədi ˈflaɪɪŋ/ phr.<br>英文释义：to cause someone to be thrown through the air with great force<br>中文释义：把某人撞飞，将某人猛地甩出去<br>文中意：弗雷德里希被列车相撞产生的巨大冲击力甩飞<br>例句一：The cyclist was sent flying when a car hit his bicycle. 一辆汽车撞上自行车后，那名骑行者被撞飞了出去。<br>例句二：The force of the explosion sent the workers flying across the room. 爆炸的冲击力将工人们猛地掀到了房间另一边。</div>
+        <div class="note-item" id="n-p4-3"><b>get off</b> /ɡet ɒf/ phr.<br>英文释义：to leave a bus, train, plane or other form of transport<br>中文释义：下车，离开交通工具<br>文中意：事故发生后，其他乘客纷纷从列车上下来逃生<br>例句一：All passengers were asked to get off the train immediately. 所有乘客都被要求立即下车。<br>例句二：She realised she had left her phone behind after getting off the bus. 下公交车后，她才意识到自己把手机落在车上了。</div>
+        <div class="note-item" id="n-p4-4"><b>in a split second</b> /ɪn ə ˌsplɪt ˈsekənd/ phr.<br>英文释义：in an extremely short period of time; almost immediately<br>中文释义：在一瞬间，刹那间，转眼之间<br>文中意：列车相撞以及车厢内的混乱几乎在一瞬间发生<br>例句一：In a split second, the peaceful street turned into a scene of chaos. 转瞬之间，原本平静的街道陷入了一片混乱。<br>例句二：She made the decision in a split second and jumped into the water to save the child. 她在一瞬间作出决定，跳进水里救那个孩子。</div>
+        <div class="note-item" id="n-p4-5"><b>second life</b> /ˌsekənd ˈlaɪf/ n.<br>英文释义：a feeling of having been given another chance to live after surviving a dangerous or life-threatening event<br>中文释义：第二次生命，劫后余生，重获新生<br>文中意：阿拉贝拉形容自己和丈夫从致命事故中幸存，仿佛获得了第二次生命<br>例句一：After surviving the terrible accident, he felt as though he had been given a second life. 从那场可怕的事故中幸存后，他觉得自己仿佛获得了第二次生命。<br>例句二：The mountain climber described his rescue as the beginning of a second life. 那名登山者将获救形容为第二次生命的开始。</div>
+      </div>
+    </section>
+
+    <!-- Paragraph 5 -->
+    <section class="paragraph" id="p5">
+      <div class="p-label">Paragraph 5</div>
+      <div class="en-block en">Spain’s transport minister, Óscar Puente, said that <mark class="voc" data-note="n-p5-1">rear-end collisions</mark> like that which had taken place on Wednesday were “highly unlikely” and suggested that the accident may have been caused by human error made in “inexplicable” <mark class="voc" data-note="n-p5-2">circumstances</mark>. He said the LZB signalling system, which automatically halts a train if the line ahead is occupied, had <mark class="voc" data-note="n-p5-3">gone down</mark> at about 8.30am local time due to a computer <mark class="voc" data-note="n-p5-4">malfunction</mark>. As a result, an estimated six trains had been halted along <mark class="voc" data-note="n-p5-5">a stretch of</mark> around 63km of track, he said.</div>
+      <div class="zh-block">西班牙交通部长奥斯卡·普恩特表示，像周三发生的这种列车追尾事故“极不可能发生”，并指出，这起事故可能是由某种“令人费解”的人为失误造成的。他表示，LZB信号系统在当地时间上午8点30分左右因计算机故障而停止运行。这套系统能够在前方轨道被其他列车占用时自动使列车停下。据他介绍，受此影响，估计有六列列车在一段长约63公里的铁轨上被迫停驶。</div>
+
+      <button class="notes-toggle" onclick="toggleNotes(this)">查看本段注释</button>
+      <div class="notes-group">
+        <div class="note-item" id="n-p5-1"><b>rear-end collision</b> /ˌrɪər end kəˈlɪʒən/ n.<br>英文释义：an accident in which one vehicle crashes into the back of another vehicle<br>中文释义：追尾事故，后车撞上前车的碰撞事故<br>文中意：后方的Renfe列车撞上前方已经停下的Iryo列车<br>例句一：A rear-end collision involving three cars caused a major traffic jam. 一起涉及三辆汽车的追尾事故造成了严重交通堵塞。<br>例句二：Keeping a safe distance can reduce the risk of rear-end collisions. 保持安全车距可以降低追尾事故的风险。</div>
+        <div class="note-item" id="n-p5-2"><b>circumstance</b> /ˈsɜːkəmstəns/ n.<br>英文释义：the conditions and facts that are connected with and affect a situation or event<br>中文释义：情况，情形，环境，具体条件<br>文中意：人为失误发生时令人难以理解的具体情况<br>例句一：The police are still investigating the circumstances surrounding her disappearance. 警方仍在调查她失踪的具体情况。<br>例句二：Under normal circumstances, the journey takes about two hours. 正常情况下，这段旅程大约需要两个小时。</div>
+        <div class="note-item" id="n-p5-3"><b>go down</b> /ɡəʊ daʊn/ phr.<br>英文释义：to stop working or become unavailable, especially when referring to a computer or electronic system<br>中文释义：（计算机、网络或电子系统）停止运行，发生故障，瘫痪<br>文中意：LZB铁路信号系统因计算机故障而停止正常运行<br>例句一：The company's website went down during the online sale. 这家公司的网站在网上促销期间崩溃了。<br>例句二：When the payment system went down, customers could only pay in cash. 支付系统瘫痪后，顾客只能使用现金付款。</div>
+        <div class="note-item" id="n-p5-4"><b>malfunction</b> /ˌmælˈfʌŋkʃən/ n.<br>英文释义：a failure of a machine, system or piece of equipment to work correctly<br>中文释义：故障，失灵，运转不正常<br>文中意：导致LZB信号系统停止运行的计算机故障<br>例句一：A technical malfunction forced the aircraft to return to the airport. 一次技术故障迫使飞机返回机场。<br>例句二：The factory was temporarily closed because of a machinery malfunction. 由于机器故障，工厂暂时关闭。</div>
+        <div class="note-item" id="n-p5-5"><b>a stretch of</b> /ə stretʃ əv/ phr.<br>英文释义：a continuous length or area of something, especially a road, railway or land<br>中文释义：一段……，一片连续延伸的区域<br>文中意：一段长约63公里的铁轨<br>例句一：The highway passes through a beautiful stretch of countryside. 这条高速公路穿过一片美丽的乡村地带。<br>例句二：A long stretch of railway track was damaged by the flooding. 一长段铁轨被洪水损坏。</div>
+      </div>
+    </section>
+
+    <!-- Paragraph 6 -->
+    <section class="paragraph" id="p6">
+      <div class="p-label">Paragraph 6</div>
+      <div class="en-block en">The task of <mark class="voc" data-note="n-p6-2">monitoring</mark> the rail lines then <mark class="voc" data-note="n-p6-1">fell to</mark> a 24-hour <mark class="voc" data-note="n-p6-3">command centre</mark> in Madrid. Minutes after the computer malfunction, the centre instructed at least two of the trains to continue <mark class="voc" data-note="n-p6-4">as normal</mark>, despite the fact that there was still a “stop signal” in place, said Puente. “It was the control centre, through its operators, that made the decision to resume traffic, under circumstances that, from our point of view, are inexplicable,” he said. “Clearly, it was a wrong decision.”</div>
+      <div class="zh-block">随后，监控铁路线路的任务便落到了马德里一座全天24小时运作的指挥中心身上。普恩特表示，计算机发生故障仅仅几分钟后，尽管当时仍然存在“停车信号”，指挥中心却指示至少两列列车像往常一样继续行驶。“正是控制中心通过其操作人员作出了恢复列车运行的决定，而在我们看来，作出这一决定时的情况令人费解。”他说道。“显然，这是一个错误的决定。”</div>
+
+      <button class="notes-toggle" onclick="toggleNotes(this)">查看本段注释</button>
+      <div class="notes-group">
+        <div class="note-item" id="n-p6-1"><b>fall to</b> /fɔːl tuː/ phr.<br>英文释义：if a duty or responsibility falls to someone, that person becomes responsible for doing it<br>中文释义：（责任、任务）落到……身上，由……承担<br>文中意：信号系统故障后，监控铁路线路的责任转移到了马德里的指挥中心<br>例句一：After the manager resigned, the responsibility for leading the team fell to her. 经理辞职后，领导团队的责任落到了她身上。<br>例句二：When his parents became ill, the task of caring for the family fell to him. 父母生病后，照顾家庭的重担落到了他的肩上。</div>
+        <div class="note-item" id="n-p6-2"><b>monitor</b> /ˈmɒnɪtə(r)/ v.<br>英文释义：to watch and check something carefully over a period of time to see how it develops or changes<br>中文释义：监控，监测，持续观察<br>文中意：指挥中心负责持续监控铁路线路及列车的运行情况<br>例句一：Doctors monitored the patient's condition throughout the night. 医生整夜监测病人的身体状况。<br>例句二：The company uses advanced technology to monitor the safety of its factories. 这家公司使用先进技术监控工厂的安全状况。</div>
+        <div class="note-item" id="n-p6-3"><b>command centre</b> /kəˈmɑːnd ˌsentə(r)/ n.<br>英文释义：a central place from which activities or operations are directed and controlled<br>中文释义：指挥中心，控制中心<br>文中意：位于马德里、全天24小时负责协调和监控铁路运行的指挥中心<br>例句一：Emergency teams coordinated the rescue operation from a temporary command centre. 应急队伍在一个临时指挥中心协调救援行动。<br>例句二：The airport's command centre monitors aircraft movements around the clock. 机场指挥中心全天候监控飞机的运行情况。</div>
+        <div class="note-item" id="n-p6-4"><b>as normal</b> /əz ˈnɔːml/ phr.<br>英文释义：in the usual way, without any change from what normally happens<br>中文释义：照常，像平常一样<br>文中意：尽管信号系统发生故障，指挥中心仍要求列车按正常方式继续运行<br>例句一：Despite the heavy rain, the school remained open and classes continued as normal. 尽管下着大雨，学校仍然开放，课程照常进行。<br>例句二：The restaurant reopened the next morning and business continued as normal. 餐厅第二天早上重新开门，生意照常进行。</div>
+      </div>
+    </section>
+
+    <!-- Paragraph 7 -->
+    <section class="paragraph" id="p7">
+      <div class="p-label">Paragraph 7</div>
+      <div class="en-block en">Giving initial details about the crash, Puente said the Iryo train had been travelling ahead on the tracks and had been sitting <mark class="voc" data-note="n-p7-1">stationary</mark> when the Renfe train was instructed by the command centre to resume its journey. The Renfe train then travelled approximately 25km before colliding with the Iryo train about 17 minutes later. The control centre “had <mark class="voc" data-note="n-p7-2">more than enough</mark> time to verify the error, and they did not fix it”, Puente added. Puente said that similar <mark class="voc" data-note="n-p7-3">erroneous</mark> instructions had been given to at least one other train on Wednesday morning. “And it was the <mark class="voc" data-note="n-p7-4">engineer</mark> of one of the trains who <mark class="voc" data-note="n-p7-5">corrected</mark> the command centre and told them he can’t resume normal operation – it has to be [an] <mark class="voc" data-note="n-p7-6">on-sight operation</mark>,” Puente said.</div>
+      <div class="zh-block">在介绍这起事故的初步细节时，普恩特表示，Iryo列车原本行驶在前方轨道上。当指挥中心指示Renfe列车恢复行驶时，Iryo列车正处于静止状态。随后，Renfe列车行驶了大约25公里，并在约17分钟后与Iryo列车相撞。普恩特补充道，控制中心“有绰绰有余的时间来核实这一错误，但他们却没有纠正”。普恩特表示，周三上午，至少还有另一列列车收到了类似的错误指令。“而且，正是其中一列列车的司机纠正了指挥中心的错误，并告诉他们，他不能恢复正常运行，必须采用目视行车方式。”普恩特说道。</div>
+
+      <button class="notes-toggle" onclick="toggleNotes(this)">查看本段注释</button>
+      <div class="notes-group">
+        <div class="note-item" id="n-p7-1"><b>stationary</b> /ˈsteɪʃənəri/ adj.<br>英文释义：not moving; staying in one place<br>中文释义：静止的，固定不动的<br>文中意：Iryo列车在遭到后方列车撞击前，正停在轨道上<br>例句一：The driver failed to notice a stationary vehicle on the road ahead. 司机没有注意到前方道路上一辆静止不动的汽车。<br>例句二：The train remained stationary for nearly half an hour because of a technical problem. 由于技术故障，列车停在原地将近半个小时。</div>
+        <div class="note-item" id="n-p7-2"><b>more than enough</b> /mɔː ðən ɪˈnʌf/ phr.<br>英文释义：much more than is needed or necessary<br>中文释义：绰绰有余，远远超过所需<br>文中意：控制中心本来有充足的时间核实并纠正错误指令<br>例句一：We have more than enough time to finish the project before Friday. 我们有绰绰有余的时间在周五之前完成这个项目。<br>例句二：There was more than enough evidence to prove that the documents were false. 已经有充分得多的证据证明这些文件是伪造的。</div>
+        <div class="note-item" id="n-p7-3"><b>erroneous</b> /ɪˈrəʊniəs/ adj.<br>英文释义：wrong or incorrect, especially because of a mistake or false information<br>中文释义：错误的，不正确的<br>文中意：指挥中心向列车发出的错误运行指令<br>例句一：The newspaper published an erroneous report about the company's financial situation. 这家报纸发表了一篇关于该公司财务状况的错误报道。<br>例句二：An erroneous calculation caused the engineers to underestimate the cost of the project. 一次错误的计算导致工程师低估了项目成本。</div>
+        <div class="note-item" id="n-p7-4"><b>engineer</b> /ˌendʒɪˈnɪə(r)/ n.<br>英文释义：a person who drives or operates a train, especially in American English<br>中文释义：火车司机，列车驾驶员<br>文中意：发现指挥中心指令有误并主动予以纠正的一名列车司机<br>例句一：The train engineer noticed an obstacle on the track and immediately applied the brakes. 火车司机发现轨道上有障碍物，立即采取制动措施。<br>例句二：The experienced engineer brought the train to a safe stop during the emergency. 那名经验丰富的火车司机在紧急情况下安全地停下了列车。</div>
+        <div class="note-item" id="n-p7-5"><b>correct</b> /kəˈrekt/ v.<br>英文释义：to make something right or accurate by removing mistakes<br>中文释义：纠正，改正，修正<br>文中意：一名列车司机发现指挥中心的错误，并主动指出和纠正<br>例句一：The teacher corrected several mistakes in the student's essay. 老师纠正了学生作文中的几处错误。<br>例句二：The technician quickly corrected the problem before the machine was restarted. 技术人员在机器重新启动前迅速纠正了问题。</div>
+        <div class="note-item" id="n-p7-6"><b>on-sight operation</b> /ˌɒn ˈsaɪt ˌɒpəˈreɪʃən/ n.<br>英文释义：a restricted method of train operation in which the driver proceeds cautiously according to what can be seen ahead<br>中文释义：目视行车，依靠司机观察前方线路情况谨慎行驶的运行方式<br>文中意：列车司机认为不能恢复正常运行，而应采用依靠目视观察、限制速度的谨慎行车方式<br>例句一：During the signalling failure, the railway instructed drivers to use on-sight operation in the affected area. 信号系统故障期间，铁路部门要求司机在受影响区域采用目视行车方式。<br>例句二：On-sight operation requires drivers to remain alert and be prepared to stop when an obstacle appears. 目视行车要求司机保持警惕，并在出现障碍物时随时准备停车。</div>
+      </div>
+    </section>
+
+    <!-- Paragraph 8 -->
+    <section class="paragraph" id="p8">
+      <div class="p-label">Paragraph 8</div>
+      <div class="en-block en">The tragedy was the second major deadly high-speed train accident this year in Spain, <mark class="voc" data-note="n-p8-1">rattling</mark> a country where the <mark class="voc" data-note="n-p8-2">extensive</mark> rail network has long been <mark class="voc" data-note="n-p8-3">a point of pride</mark>. In January, 46 people were killed and dozens more injured after two trains – again, one from Renfe and one from Iryo – collided on the same line near the town of Adamuz in Andalucía. But, as also happened at Adamuz, the <mark class="voc" data-note="n-p8-4">solidarity</mark> and kindness <mark class="voc" data-note="n-p8-5">on display</mark> is likely to turn to anger over the coming hours as people seek answers as to how one of Europe’s most modern and <mark class="voc" data-note="n-p8-2">extensive</mark> high-speed rail networks could experience two deadly collisions that have between them <mark class="voc" data-note="n-p8-6">claimed at least 114 lives</mark> <mark class="voc" data-note="n-p8-7">in the space of</mark> just 10 months.</div>
+      <div class="zh-block">这场悲剧是西班牙今年发生的第二起重大致命高铁事故，令这个长期以来以庞大铁路网络为傲的国家深受震动。今年1月，两列列车——同样是一列属于Renfe，另一列属于 Iryo——在安达卢西亚地区阿达穆斯镇附近的同一条铁路线上相撞，造成46人死亡、数十人受伤。然而，正如阿达穆斯事故发生后一样，随着人们开始追问，为什么欧洲最现代化、最庞大的高铁网络之一，竟然会在短短10个月内接连发生两起致命碰撞事故，夺走至少114条生命，眼下人们展现出的团结与善意，很可能在接下来的几个小时里逐渐转化为愤怒。</div>
+
+      <button class="notes-toggle" onclick="toggleNotes(this)">查看本段注释</button>
+      <div class="notes-group">
+        <div class="note-item" id="n-p8-1"><b>rattle</b> /ˈrætl/ v.<br>英文释义：to make someone feel nervous, worried or shocked, especially because of something unexpected<br>中文释义：使震惊，使不安，使惊慌<br>文中意：接连发生的重大高铁事故令整个西班牙社会深受震动<br>例句一：The unexpected resignation of the president rattled financial markets. 总统的突然辞职令金融市场感到不安。<br>例句二：The series of violent attacks rattled residents of the normally peaceful town. 接连发生的暴力袭击让这座平日宁静小镇的居民感到恐慌。</div>
+        <div class="note-item" id="n-p8-2"><b>extensive</b> /ɪkˈstensɪv/ adj.<br>英文释义：covering a large area or involving a large amount of something<br>中文释义：广泛的，大规模的，覆盖范围广的<br>文中意：形容西班牙高速铁路网络覆盖范围广、规模庞大<br>例句一：The city has developed an extensive public transport network over the past decade. 过去十年里，这座城市建立了覆盖广泛的公共交通网络。<br>例句二：The researchers conducted extensive interviews with hundreds of local residents. 研究人员对数百名当地居民进行了广泛访谈。</div>
+        <div class="note-item" id="n-p8-3"><b>a point of pride</b> /ə ˌpɔɪnt əv ˈpraɪd/ phr.<br>英文释义：something that makes a person, group or country feel particularly proud<br>中文释义：引以为傲的事物，值得骄傲的地方<br>文中意：发达的铁路网络长期以来是西班牙国家自豪感的重要来源<br>例句一：The university's long history of academic excellence is a point of pride for its students. 这所大学悠久的卓越学术传统是学生们引以为傲的事情。<br>例句二：The city's beautiful public parks have become a point of pride for local residents. 这座城市美丽的公共公园已经成为当地居民引以为傲的事物。</div>
+        <div class="note-item" id="n-p8-4"><b>solidarity</b> /ˌsɒlɪˈdærəti/ n.<br>英文释义：support and unity between people who share common interests, goals or difficulties<br>中文释义：团结，互助，声援<br>文中意：事故发生后，幸存者、救援人员及民众之间展现出的团结互助精神<br>例句一：Thousands of people gathered in solidarity with the families affected by the disaster. 数千人聚集起来，声援受到灾难影响的家庭。<br>例句二：The crisis brought out a remarkable sense of solidarity among neighbours. 这场危机激发了邻里之间非同寻常的团结精神。</div>
+        <div class="note-item" id="n-p8-5"><b>on display</b> /ɒn dɪˈspleɪ/ phr.<br>英文释义：clearly shown or demonstrated so that other people can see it<br>中文释义：展现出来，表现得十分明显<br>文中意：事故现场人们展现出的团结与善意<br>例句一：The courage and determination of the rescue workers were on display throughout the operation. 在整个救援行动中，救援人员的勇气与决心展现得淋漓尽致。<br>例句二：Her remarkable talent was on display during the final performance. 在最后一场演出中，她非凡的才华得到了充分展现。</div>
+        <div class="note-item" id="n-p8-6"><b>claim lives</b> /kleɪm laɪvz/ phr.<br>英文释义：to cause people to die, especially in an accident, disaster or violent event<br>中文释义：夺走生命，造成死亡<br>文中意：两起高铁事故在短短10个月内共造成至少114人死亡<br>例句一：The powerful earthquake claimed hundreds of lives across the region. 这场强烈地震夺走了该地区数百人的生命。<br>例句二：The disease continues to claim lives in communities with limited access to medical care. 在医疗资源匮乏的社区，这种疾病仍在不断夺走人们的生命。</div>
+        <div class="note-item" id="n-p8-7"><b>in the space of</b> /ɪn ðə speɪs əv/ phr.<br>英文释义：within a particular period of time, often one that seems surprisingly short<br>中文释义：在……时间之内，在短短……期间<br>文中意：两起重大高铁事故发生在仅仅10个月的时间内<br>例句一：In the space of three years, the small company became an international business. 短短三年间，这家小公司发展成了一家国际企业。<br>例句二：The town experienced three major floods in the space of just six months. 这座小镇在短短六个月内经历了三次严重洪灾。</div>
+      </div>
+    </section>
+
+    <!-- Paragraph 9 -->
+    <section class="paragraph" id="p9">
+      <div class="p-label">Paragraph 9</div>
+      <div class="en-block en">The <mark class="voc" data-note="n-p9-1">opposition</mark> People’s party leader, Alberto Núñez Feijóo, <mark class="voc" data-note="n-p9-2">called for</mark> an immediate investigation into what had happened, as well as a “complete and independent review” of Spain’s entire rail network. “Spain has the right to know what is going on with its infrastructure,” he told reporters.</div>
+      <div class="zh-block">反对党人民党领导人阿尔韦托·努涅斯·费霍呼吁立即对事故经过展开调查，并对西班牙整个铁路网络进行一次“全面而独立的审查”。他对记者表示：“西班牙有权知道，自己的基础设施究竟出了什么问题。”</div>
+
+      <button class="notes-toggle" onclick="toggleNotes(this)">查看本段注释</button>
+      <div class="notes-group">
+        <div class="note-item" id="n-p9-1"><b>opposition</b> /ˌɒpəˈzɪʃən/ n.<br>英文释义：the political parties or groups that are not in government and disagree with or challenge those in power<br>中文释义：反对党，在野党，反对派<br>文中意：指西班牙政府之外、对执政当局提出批评和监督的反对党<br>例句一：The opposition demanded an explanation for the government's sudden decision. 反对党要求政府对这一突然作出的决定给出解释。<br>例句二：Opposition leaders criticised the new policy during a heated parliamentary debate. 反对党领导人在一场激烈的议会辩论中批评了这项新政策。</div>
+        <div class="note-item" id="n-p9-2"><b>call for</b> /kɔːl fɔː(r)/ phr.<br>英文释义：to publicly ask for or demand that something should happen<br>中文释义：呼吁，要求，公开提出诉求<br>文中意：反对党领导人公开要求立即调查事故，并全面审查铁路网络<br>例句一：Environmental groups called for stricter laws to protect endangered animals. 环保组织呼吁制定更严格的法律来保护濒危动物。<br>例句二：The victims' families called for a full investigation into the factory explosion. 遇难者家属要求对工厂爆炸事故展开全面调查。</div>
+      </div>
+    </section>
+  </main>
+
+  <!-- ==================== 右侧查询面板 ==================== -->
+  <aside class="side" id="side-panel">
+    <div class="side-inner">
+      <div class="side-head">
+        <h2>查询面板</h2>
+        <button class="side-collapse" onclick="toggleSide()">收起面板</button>
+      </div>
+
+      <div class="side-body" id="side-body">
+
+        <div class="search-box">
+          <input type="text" id="search-input" placeholder="输入单词 / 短语，实时检索全文…"
+                 oninput="doSearch(this.value)">
+          <div class="search-result" id="search-result"></div>
+        </div>
+
+        <div class="tab-panes">
+          <div class="tab-pane active" id="tab-1">
+            <div class="tab-list" id="vocab-list">
+<div class="row" id="v-1"><div class="row-top"><span class="w en">declare</span><span class="ph en">/dɪˈkleə(r)/</span><a class="src" href="#p-headline">标题</a></div><div class="def">英文释义：to announce something officially or publicly</div></div>
+<div class="row" id="v-2"><div class="row-top"><span class="w en">mourning</span><span class="ph en">/ˈmɔːnɪŋ/</span><a class="src" href="#p-headline">标题</a></div><div class="def">英文释义：the feeling or expression of deep sadness after someone's death</div></div>
+<div class="row" id="v-3"><div class="row-top"><span class="w en">collision</span><span class="ph en">/kəˈlɪʒən/</span><a class="src" href="#p1">¶1</a></div><div class="def">英文释义：an accident in which two or more people or vehicles hit each other</div></div>
+<div class="row" id="v-4"><div class="row-top"><span class="w en">inexplicable</span><span class="ph en">/ˌɪnɪkˈsplɪkəbl/</span><a class="src" href="#p1">¶1</a></div><div class="def">英文释义：impossible or very difficult to explain or understand</div></div>
+<div class="row" id="v-5"><div class="row-top"><span class="w en">state-owned</span><span class="ph en">/ˌsteɪt ˈəʊnd/</span><a class="src" href="#p1">¶1</a></div><div class="def">英文释义：owned and controlled by the government rather than by private individuals or companies</div></div>
+<div class="row" id="v-6"><div class="row-top"><span class="w en">come to a halt</span><span class="ph en">/kʌm tə ə hɔːlt/</span><a class="src" href="#p1">¶1</a></div><div class="def">英文释义：to stop moving or operating completely</div></div>
+<div class="row" id="v-7"><div class="row-top"><span class="w en">slam into</span><span class="ph en">/slæm ˈɪntuː/</span><a class="src" href="#p1">¶1</a></div><div class="def">英文释义：to crash into someone or something with great force</div></div>
+<div class="row" id="v-8"><div class="row-top"><span class="w en">carriage</span><span class="ph en">/ˈkærɪdʒ/</span><a class="src" href="#p1">¶1</a></div><div class="def">英文释义：one of the separate sections of a train in which passengers travel</div></div>
+<div class="row" id="v-9"><div class="row-top"><span class="w en">airborne</span><span class="ph en">/ˈeəbɔːn/</span><a class="src" href="#p2">¶2</a></div><div class="def">英文释义：in the air, especially after leaving the ground</div></div>
+<div class="row" id="v-10"><div class="row-top"><span class="w en">hurtle</span><span class="ph en">/ˈhɜːtl/</span><a class="src" href="#p2">¶2</a></div><div class="def">英文释义：to move very quickly, especially in a way that seems dangerous or uncontrolled</div></div>
+<div class="row" id="v-11"><div class="row-top"><span class="w en">shoot through</span><span class="ph en">/ʃuːt θruː/</span><a class="src" href="#p2">¶2</a></div><div class="def">英文释义：to move very quickly through a place or space</div></div>
+<div class="row" id="v-12"><div class="row-top"><span class="w en">land</span><span class="ph en">/lænd/</span><a class="src" href="#p2">¶2</a></div><div class="def">英文释义：to come down through the air and reach the ground or another surface</div></div>
+<div class="row" id="v-13"><div class="row-top"><span class="w en">look around</span><span class="ph en">/lʊk əˈraʊnd/</span><a class="src" href="#p2">¶2</a></div><div class="def">英文释义：to turn your head and look at the things or people around you</div></div>
+<div class="row" id="v-14"><div class="row-top"><span class="w en">cut</span><span class="ph en">/kʌt/</span><a class="src" href="#p2">¶2</a></div><div class="def">英文释义：an injury in which the skin is damaged or broken by something sharp</div></div>
+<div class="row" id="v-15"><div class="row-top"><span class="w en">limb</span><span class="ph en">/lɪm/</span><a class="src" href="#p2">¶2</a></div><div class="def">英文释义：an arm or a leg of a person or animal</div></div>
+<div class="row" id="v-16"><div class="row-top"><span class="w en">recount</span><span class="ph en">/rɪˈkaʊnt/</span><a class="src" href="#p3">¶3</a></div><div class="def">英文释义：to describe or tell someone about something that happened, often in detail</div></div>
+<div class="row" id="v-17"><div class="row-top"><span class="w en">deadly</span><span class="ph en">/ˈdedli/</span><a class="src" href="#p3">¶3</a></div><div class="def">英文释义：causing or likely to cause death</div></div>
+<div class="row" id="v-18"><div class="row-top"><span class="w en">stain</span><span class="ph en">/steɪn/</span><a class="src" href="#p3">¶3</a></div><div class="def">英文释义：to leave a mark on something that is difficult to remove</div></div>
+<div class="row" id="v-19"><div class="row-top"><span class="w en">move to safety</span><span class="ph en">/muːv tə ˈseɪfti/</span><a class="src" href="#p3">¶3</a></div><div class="def">英文释义：to take someone or something away from danger to a safe place</div></div>
+<div class="row" id="v-20"><div class="row-top"><span class="w en">medic</span><span class="ph en">/ˈmedɪk/</span><a class="src" href="#p3">¶3</a></div><div class="def">英文释义：a person who is trained to give medical treatment, especially in an emergency</div></div>
+<div class="row" id="v-21"><div class="row-top"><span class="w en">at the scene of</span><span class="ph en">/ət ðə siːn əv/</span><a class="src" href="#p3">¶3</a></div><div class="def">英文释义：at the place where an accident, crime or other event has happened</div></div>
+<div class="row" id="v-22"><div class="row-top"><span class="w en">amid</span><span class="ph en">/əˈmɪd/</span><a class="src" href="#p3">¶3</a></div><div class="def">英文释义：in the middle of or surrounded by something</div></div>
+<div class="row" id="v-23"><div class="row-top"><span class="w en">vineyard</span><span class="ph en">/ˈvɪnjəd/</span><a class="src" href="#p3">¶3</a></div><div class="def">英文释义：a piece of land where grapes are grown, especially for making wine</div></div>
+<div class="row" id="v-24"><div class="row-top"><span class="w en">grove</span><span class="ph en">/ɡrəʊv/</span><a class="src" href="#p3">¶3</a></div><div class="def">英文释义：a small group of trees growing close together, often of the same type</div></div>
+<div class="row" id="v-25"><div class="row-top"><span class="w en">impact</span><span class="ph en">/ˈɪmpækt/</span><a class="src" href="#p4">¶4</a></div><div class="def">英文释义：the force or action of one object hitting another</div></div>
+<div class="row" id="v-26"><div class="row-top"><span class="w en">send sb. flying</span><span class="ph en">/send ˈsʌmbədi ˈflaɪɪŋ/</span><a class="src" href="#p4">¶4</a></div><div class="def">英文释义：to cause someone to be thrown through the air with great force</div></div>
+<div class="row" id="v-27"><div class="row-top"><span class="w en">get off</span><span class="ph en">/ɡet ɒf/</span><a class="src" href="#p4">¶4</a></div><div class="def">英文释义：to leave a bus, train, plane or other form of transport</div></div>
+<div class="row" id="v-28"><div class="row-top"><span class="w en">in a split second</span><span class="ph en">/ɪn ə ˌsplɪt ˈsekənd/</span><a class="src" href="#p4">¶4</a></div><div class="def">英文释义：in an extremely short period of time; almost immediately</div></div>
+<div class="row" id="v-29"><div class="row-top"><span class="w en">second life</span><span class="ph en">/ˌsekənd ˈlaɪf/</span><a class="src" href="#p4">¶4</a></div><div class="def">英文释义：a feeling of having been given another chance to live after surviving a dangerous or life-threatening event</div></div>
+<div class="row" id="v-30"><div class="row-top"><span class="w en">rear-end collision</span><span class="ph en">/ˌrɪər end kəˈlɪʒən/</span><a class="src" href="#p5">¶5</a></div><div class="def">英文释义：an accident in which one vehicle crashes into the back of another vehicle</div></div>
+<div class="row" id="v-31"><div class="row-top"><span class="w en">circumstance</span><span class="ph en">/ˈsɜːkəmstəns/</span><a class="src" href="#p5">¶5</a></div><div class="def">英文释义：the conditions and facts that are connected with and affect a situation or event</div></div>
+<div class="row" id="v-32"><div class="row-top"><span class="w en">go down</span><span class="ph en">/ɡəʊ daʊn/</span><a class="src" href="#p5">¶5</a></div><div class="def">英文释义：to stop working or become unavailable, especially when referring to a computer or electronic system</div></div>
+<div class="row" id="v-33"><div class="row-top"><span class="w en">malfunction</span><span class="ph en">/ˌmælˈfʌŋkʃən/</span><a class="src" href="#p5">¶5</a></div><div class="def">英文释义：a failure of a machine, system or piece of equipment to work correctly</div></div>
+<div class="row" id="v-34"><div class="row-top"><span class="w en">a stretch of</span><span class="ph en">/ə stretʃ əv/</span><a class="src" href="#p5">¶5</a></div><div class="def">英文释义：a continuous length or area of something, especially a road, railway or land</div></div>
+<div class="row" id="v-35"><div class="row-top"><span class="w en">fall to</span><span class="ph en">/fɔːl tuː/</span><a class="src" href="#p6">¶6</a></div><div class="def">英文释义：if a duty or responsibility falls to someone, that person becomes responsible for doing it</div></div>
+<div class="row" id="v-36"><div class="row-top"><span class="w en">monitor</span><span class="ph en">/ˈmɒnɪtə(r)/</span><a class="src" href="#p6">¶6</a></div><div class="def">英文释义：to watch and check something carefully over a period of time to see how it develops or changes</div></div>
+<div class="row" id="v-37"><div class="row-top"><span class="w en">command centre</span><span class="ph en">/kəˈmɑːnd ˌsentə(r)/</span><a class="src" href="#p6">¶6</a></div><div class="def">英文释义：a central place from which activities or operations are directed and controlled</div></div>
+<div class="row" id="v-38"><div class="row-top"><span class="w en">as normal</span><span class="ph en">/əz ˈnɔːml/</span><a class="src" href="#p6">¶6</a></div><div class="def">英文释义：in the usual way, without any change from what normally happens</div></div>
+<div class="row" id="v-39"><div class="row-top"><span class="w en">stationary</span><span class="ph en">/ˈsteɪʃənəri/</span><a class="src" href="#p7">¶7</a></div><div class="def">英文释义：not moving; staying in one place</div></div>
+<div class="row" id="v-40"><div class="row-top"><span class="w en">more than enough</span><span class="ph en">/mɔː ðən ɪˈnʌf/</span><a class="src" href="#p7">¶7</a></div><div class="def">英文释义：much more than is needed or necessary</div></div>
+<div class="row" id="v-41"><div class="row-top"><span class="w en">erroneous</span><span class="ph en">/ɪˈrəʊniəs/</span><a class="src" href="#p7">¶7</a></div><div class="def">英文释义：wrong or incorrect, especially because of a mistake or false information</div></div>
+<div class="row" id="v-42"><div class="row-top"><span class="w en">engineer</span><span class="ph en">/ˌendʒɪˈnɪə(r)/</span><a class="src" href="#p7">¶7</a></div><div class="def">英文释义：a person who drives or operates a train, especially in American English</div></div>
+<div class="row" id="v-43"><div class="row-top"><span class="w en">correct</span><span class="ph en">/kəˈrekt/</span><a class="src" href="#p7">¶7</a></div><div class="def">英文释义：to make something right or accurate by removing mistakes</div></div>
+<div class="row" id="v-44"><div class="row-top"><span class="w en">on-sight operation</span><span class="ph en">/ˌɒn ˈsaɪt ˌɒpəˈreɪʃən/</span><a class="src" href="#p7">¶7</a></div><div class="def">英文释义：a restricted method of train operation in which the driver proceeds cautiously according to what can be seen ahead</div></div>
+<div class="row" id="v-45"><div class="row-top"><span class="w en">rattle</span><span class="ph en">/ˈrætl/</span><a class="src" href="#p8">¶8</a></div><div class="def">英文释义：to make someone feel nervous, worried or shocked, especially because of something unexpected</div></div>
+<div class="row" id="v-46"><div class="row-top"><span class="w en">extensive</span><span class="ph en">/ɪkˈstensɪv/</span><a class="src" href="#p8">¶8</a></div><div class="def">英文释义：covering a large area or involving a large amount of something</div></div>
+<div class="row" id="v-47"><div class="row-top"><span class="w en">a point of pride</span><span class="ph en">/ə ˌpɔɪnt əv ˈpraɪd/</span><a class="src" href="#p8">¶8</a></div><div class="def">英文释义：something that makes a person, group or country feel particularly proud</div></div>
+<div class="row" id="v-48"><div class="row-top"><span class="w en">solidarity</span><span class="ph en">/ˌsɒlɪˈdærəti/</span><a class="src" href="#p8">¶8</a></div><div class="def">英文释义：support and unity between people who share common interests, goals or difficulties</div></div>
+<div class="row" id="v-49"><div class="row-top"><span class="w en">on display</span><span class="ph en">/ɒn dɪˈspleɪ/</span><a class="src" href="#p8">¶8</a></div><div class="def">英文释义：clearly shown or demonstrated so that other people can see it</div></div>
+<div class="row" id="v-50"><div class="row-top"><span class="w en">claim lives</span><span class="ph en">/kleɪm laɪvz/</span><a class="src" href="#p8">¶8</a></div><div class="def">英文释义：to cause people to die, especially in an accident, disaster or violent event</div></div>
+<div class="row" id="v-51"><div class="row-top"><span class="w en">in the space of</span><span class="ph en">/ɪn ðə speɪs əv/</span><a class="src" href="#p8">¶8</a></div><div class="def">英文释义：within a particular period of time, often one that seems surprisingly short</div></div>
+<div class="row" id="v-52"><div class="row-top"><span class="w en">opposition</span><span class="ph en">/ˌɒpəˈzɪʃən/</span><a class="src" href="#p9">¶9</a></div><div class="def">英文释义：the political parties or groups that are not in government and disagree with or challenge those in power</div></div>
+<div class="row" id="v-53"><div class="row-top"><span class="w en">call for</span><span class="ph en">/kɔːl fɔː(r)/</span><a class="src" href="#p9">¶9</a></div><div class="def">英文释义：to publicly ask for or demand that something should happen</div></div>
+            </div>
+          </div>
+
+          <div class="tab-pane" id="tab-2">
+            <div class="tab-list" id="proper-list">
+<div class="row" id="pn-1"><div class="row-top"><span class="w">Pedro Sánchez / 佩德罗·桑切斯</span></div><div class="def">佩德罗·桑切斯是西班牙首相，西班牙工人社会党（PSOE）的重要领导人，自2018年起担任首相。西班牙实行议会君主制，首相是政府首脑，负责国家行政事务。2026年10月28日，西班牙托莱多省发生严重高铁相撞事故后，桑切斯宣布全国哀悼三天，并承诺彻底调查事故原因。如果调查发现存在疏忽或安全系统缺陷，政府将采取相应措施。RTVE.es +1</div></div>
+<div class="row" id="pn-2"><div class="row-top"><span class="w">Renfe / 西班牙国家铁路公司</span></div><div class="def">Renfe是西班牙国有铁路运营企业，其名称源自西班牙语Red Nacional de los Ferrocarriles Españoles，意为“西班牙国家铁路网”。Renfe运营包括AVE高速列车在内的多种铁路客运服务。AVE是Alta Velocidad Española的缩写，意为“西班牙高速铁路”，同时也与西班牙语中表示“鸟”的ave同形。Renfe长期是西班牙铁路客运的重要运营商，但随着铁路市场开放，也开始面临其他公司的竞争。</div></div>
+<div class="row" id="pn-3"><div class="row-top"><span class="w">Iryo / 西班牙私营高速铁路运营商</span></div><div class="def">Iryo是西班牙一家私营高速铁路客运品牌，由意大利铁路集团旗下Trenitalia等投资方参与经营，于2022年开始商业运营。它与Renfe的AVE以及其他高速铁路品牌在部分线路上展开竞争。Iryo运营的高速列车采用现代化高速铁路技术，主要连接马德里、巴塞罗那、瓦伦西亚和西班牙南部城市。2026年10月的事故涉及一列Renfe列车和一列Iryo列车。RTVE.es +1</div></div>
+<div class="row" id="pn-4"><div class="row-top"><span class="w">Andalusia / 安达卢西亚</span></div><div class="def">安达卢西亚位于西班牙南部，是西班牙面积较大的自治区之一，首府为塞维利亚（Seville）。该地区以弗拉门戈舞蹈、橄榄油、历史建筑和地中海文化闻名。安达卢西亚历史上曾长期受到伊斯兰文明影响，格拉纳达的阿尔罕布拉宫便是重要的历史遗产。马德里至塞维利亚的高速铁路于1992年开通，是西班牙高速铁路发展的重要起点。</div></div>
+<div class="row" id="pn-5"><div class="row-top"><span class="w">Toledo and Urda / 托莱多与乌尔达</span></div><div class="def">托莱多是西班牙中部一座历史悠久的城市，也是同名省份的首府，以中世纪建筑和基督教、伊斯兰教、犹太教文化交融的历史而闻名。乌尔达（Urda）则是托莱多省的一座小镇，周围分布着农业用地、葡萄园和橄榄树林。2026年10月28日的高铁相撞事故发生在乌尔达附近的马德里—安达卢西亚高速铁路线上。RTVE.es +1</div></div>
+<div class="row" id="pn-6"><div class="row-top"><span class="w">Chiclayo, Peru / 秘鲁奇克拉约</span></div><div class="def">奇克拉约位于南美洲国家秘鲁的北部，是兰巴耶克大区的重要城市，距离太平洋海岸不远。该地区拥有丰富的考古遗产，尤其以古代莫切文明和西潘领主墓葬遗址闻名。文章中的幸存者Josimar Medina来自奇克拉约，他当时正在西班牙旅行。秘鲁的官方语言包括西班牙语，因此秘鲁游客与西班牙当地居民之间通常不存在明显的西班牙语语言障碍。</div></div>
+<div class="row" id="pn-7"><div class="row-top"><span class="w">Guardia Civil / 西班牙国民警卫队</span></div><div class="def">Guardia Civil是西班牙重要的国家级执法机构，成立于1844年，具有军事性质，但承担大量民事执法任务。其职责包括维护公共安全、打击犯罪、管理部分地区的道路交通，以及参与重大事故和灾难救援。与主要负责城市治安的国家警察不同，国民警卫队在乡村地区、公路及部分交通领域发挥重要作用。文章中，国民警卫队警员赶赴列车事故现场参与救援与调查。</div></div>
+<div class="row" id="pn-8"><div class="row-top"><span class="w">Dubai, United Arab Emirates / 阿联酋迪拜</span></div><div class="def">迪拜是阿拉伯联合酋长国的重要城市，也是中东地区的国际航空、商业和旅游中心。由于拥有大量跨国企业、服务业岗位和国际交通枢纽，迪拜吸引了来自世界各地的外籍居民，其中包括规模较大的菲律宾人社区。文章中的Fredrich和Arabella Barilea是一对来自菲律宾、现居迪拜的夫妻，他们在乘坐Iryo列车时遭遇事故。</div></div>
+<div class="row" id="pn-9"><div class="row-top"><span class="w">Óscar Puente / 奥斯卡·普恩特</span></div><div class="def">奥斯卡·普恩特是西班牙政治人物，隶属于西班牙工人社会党，曾担任巴利亚多利德市长，后出任西班牙交通部长。交通部门负责国家交通政策以及相关基础设施事务。在2026年 10月的高铁事故发生后，普恩特向媒体解释了铁路信号系统故障和列车恢复运行的初步时间线，并指出指挥中心允许列车继续行驶的决定存在严重疑问。RTVE.es +1</div></div>
+<div class="row" id="pn-10"><div class="row-top"><span class="w">LZB Signalling System / LZB铁路信号与列车控制系统</span></div><div class="def">LZB是德语Linienzugbeeinflussung的缩写，意为“连续式列车控制”。这是一种最早在德国发展的铁路安全技术，可以持续向列车提供运行许可、速度限制和前方线路状况等信息，并在必要时触发制动。与仅在固定地点传递信号的传统系统相比，LZB能够持续监控列车运行。2026年10月的事故中，相关LZB系统因计算机故障停止正常工作，随后铁路运行需要依靠其他安全程序进行管理。RTVE.es</div></div>
+<div class="row" id="pn-11"><div class="row-top"><span class="w">Railway Signalling and Train Protection / 铁路信号与列车防护机制</span></div><div class="def">铁路信号系统的核心作用是防止不同列车在同一时间进入可能发生冲突的轨道区段。现代铁路通常采用信号显示、列车位置检测、自动制动和调度管理等多层安全机制。红色停车信号一般意味着列车不得未经许可继续正常行驶。此次事故中，系统故障后列车一度自动停止，但随后有列车在停车信号仍然有效的情况下获准恢复运行。这一过程成为调查重点。RTVE.es +1</div></div>
+<div class="row" id="pn-12"><div class="row-top"><span class="w">Adif / 西班牙铁路基础设施管理机构</span></div><div class="def">Adif是Administrador de Infraestructuras Ferroviarias的缩写，即西班牙铁路基础设施管理机构。它与Renfe的职责不同：Renfe主要负责运营列车和运输乘客，而Adif负责铁路基础设施的管理，包括轨道、信号系统、车站和列车运行调度等。2026年10月事故中，位于马德里阿托查的Adif控制中心负责处理信号故障后的列车运行安排。Olive Press News Spain</div></div>
+<div class="row" id="pn-13"><div class="row-top"><span class="w">Railway Control Centre / 铁路运行控制中心</span></div><div class="def">铁路运行控制中心相当于整个铁路网络的调度中枢，工作人员通过通信设备和监控系统了解列车位置、运行速度、轨道占用情况以及信号状态。当自动信号系统出现故障时，控制中心通常需要按照规定的应急程序协调列车运行，避免不同列车进入存在冲突风险的区段。2026年10月事故中，控制中心在信号故障后作出的恢复运行指令，是调查人员重点关注的问题。RTVE.es</div></div>
+<div class="row" id="pn-14"><div class="row-top"><span class="w">On-sight Operation / 目视行车方式</span></div><div class="def">目视行车是一种在特定限制条件下使用的铁路运行方式。当正常信号保护无法充分发挥作用时，司机需要以受到严格限制的速度谨慎前进，并根据能够观察到的前方线路情况，确保在发现障碍物时及时停车。它与按照正常速度和常规信号许可运行的方式不同。文章中，一名列车司机曾向控制中心指出，列车不能直接恢复正常运行，而应采用目视行车方式。The Guardian</div></div>
+<div class="row" id="pn-15"><div class="row-top"><span class="w">The 17-minute Timeline / 事故前的17分钟</span></div><div class="def">根据西班牙交通部长公布的初步情况，10月28日上午约8点30分，LZB信号系统发生故障，相关区段的多列列车自动停止。约8点36分，控制中心允许一列Renfe列车恢复正常行驶，尽管停车信号仍然有效。随后，该列车行驶约25公里，并在约17分钟后撞上前方静止的Iryo列车。这段时间线成为调查的关键，因为它涉及错误指令是否有机会被发现和纠正。以上仍属于事故调查初期披露的信息。RTVE.es +1</div></div>
+<div class="row" id="pn-16"><div class="row-top"><span class="w">Spain’s High-Speed Rail Network / 西班牙高速铁路网络</span></div><div class="def">西班牙拥有欧洲规模最大的高速铁路网络之一，高铁线路总长度约4000公里。1992年，马德里至塞维利亚的AVE线路正式开通，此后网络逐步扩展至巴塞罗那、瓦伦西亚等主要城市。高速铁路长期被视为西班牙现代化建设的重要成果。然而，铁路安全不仅取决于新线路建设，也取决于长期维护、信号设备更新和运营管理。根据路透社援引的数据，2018年至2022年间，西班牙高铁相关支出中约16%用于维护、更新和升级，其余主要用于新基础设施建设。 ReutersFeed</div></div>
+<div class="row" id="pn-17"><div class="row-top"><span class="w">Adamuz Train Crash / 阿达穆斯列车事故</span></div><div class="def">阿达穆斯位于西班牙南部安达卢西亚自治区的科尔多瓦省。2026年1月，两列分别由Renfe 和Iryo运营的列车在阿达穆斯附近发生严重相撞事故，造成46人死亡、数十人受伤。2026年 10月，西班牙再次发生重大高铁事故，两起事故累计造成至少114人死亡。西班牙政府表示，根据当时掌握的信息，两起事故的原因似乎没有直接关联，不能仅因为涉及相同运营商和线路就认定事故原因相同。Reuters +1</div></div>
+<div class="row" id="pn-18"><div class="row-top"><span class="w">People’s Party / 西班牙人民党</span></div><div class="def">西班牙人民党（Partido Popular，简称PP）是西班牙主要的中右翼政党之一，长期与中左翼的西班牙工人社会党竞争执政地位。人民党曾多次领导西班牙中央政府，也是国家议会中的重要政治力量。2026年10月的高铁事故发生后，人民党要求对事故展开调查，并对铁路网络的整体安全状况进行独立审查。</div></div>
+<div class="row" id="pn-19"><div class="row-top"><span class="w">Alberto Núñez Feijóo / 阿尔韦托·努涅斯·费霍</span></div><div class="def">阿尔韦托·努涅斯·费霍是西班牙政治人物，人民党领导人，曾长期担任加利西亚自治区主席。2022年，他成为人民党全国领导人。2026年10月的高铁事故发生后，费霍要求立即调查事故经过，并对西班牙整个铁路网络开展全面、独立的安全审查。他强调，西班牙公众有权了解国家基础设施的真实运行状况。 The Guardian截至2026年10月29日的报道。事故原因和责任归属尚未得到最终调查结论。RTVE.es +2</div><div class="def role">资料核对：以上背景依据文章内容，并参考西班牙公共广播机构RTVE、Reuters及</div></div>
+            </div>
+          </div>
+
+          <div class="tab-pane" id="tab-3">
+            <div class="p-nav">
+<a href="#p-headline">标题 · The Guardian<span class="hint">Toledo train crash</span></a>
+              <a href="#p1">Paragraph 1<span class="hint">The Spanish prime minister…</span></a>
+              <a href="#p2">Paragraph 2<span class="hint">Josimar Medina woke a…</span></a>
+              <a href="#p3">Paragraph 3<span class="hint">The Peruvian stood recounting…</span></a>
+              <a href="#p4">Paragraph 4<span class="hint">Fredrich and Arabella Barilea,…</span></a>
+              <a href="#p5">Paragraph 5<span class="hint">Spain’s transport minister, Óscar…</span></a>
+              <a href="#p6">Paragraph 6<span class="hint">The task of monitoring…</span></a>
+              <a href="#p7">Paragraph 7<span class="hint">Giving initial details about…</span></a>
+              <a href="#p8">Paragraph 8<span class="hint">The tragedy was the…</span></a>
+              <a href="#p9">Paragraph 9<span class="hint">The opposition People’s party…</span></a>
+            </div>
+          </div>
+        </div>
+
+        <div class="tab-bar">
+          <button class="tab-btn active" onclick="showTab(1,this)">1 词汇</button>
+          <button class="tab-btn" onclick="showTab(2,this)">2 专有名词</button>
+          <button class="tab-btn" onclick="showTab(3,this)">3 段落导航</button>
+        </div>
+
+      </div><!-- /side-body -->
+    </div>
+  </aside>
+
+</div><!-- /layout -->
+
+<!-- ==================== 底部翻译练习 ==================== -->
+<section class="practice" id="practice">
+  <h2>翻译练习</h2>
+
+  <div class="fold" id="fold-exercise">
+    <button class="fold-head" onclick="toggleFold('fold-exercise')">
+      <span>练习题</span><span class="arrow">▶</span>
+    </button>
+    <div class="fold-body">请根据今天学习的外刊，用自己的英语简要复述这场西班牙高铁相撞事故，包括事故经过、幸存者的经历、可能的事故原因，以及公众的反应。要求：至少使用下方提示词中的6个，可以适当改变词形。尽量使用自己的语言，不要直接照抄原文。<br><br>1. 周三上午，西班牙两列高速列车发生追尾事故，造成至少68人死亡、数十人受伤。<br>（collision / rear-end / claim lives / injured）<br><br>2. 一列列车停在轨道上，另一列列车从后方猛烈撞上，导致数节车厢脱轨。<br>（stationary / slam into / carriage / off the track）<br><br>3. 一名幸存者回忆说，猛烈的撞击将他和女友甩到了空中，周围许多乘客浑身是血。<br>（recount / impact / send sb. flying / covered in blood）<br><br>4. 调查初步显示，铁路信号系统发生故障后，指挥中心仍然错误地指示列车恢复正常运行。<br>（signalling system / malfunction / human error / instruct / resume）<br><br>5. 这是西班牙10个月内发生的第二起重大高铁事故，引发了公众的震惊与愤怒。<br>（tragedy / rattle / in the space of / turn to anger）<br><br>6. 反对党呼吁立即展开调查，并对全国铁路基础设施进行全面、独立的审查。<br>（call for / investigation / independent review / infrastructure）<br><br>Critical Thinking 课后思考<br>If a tragedy could have been prevented, is it still just an accident?<br><br>如果一场悲剧原本可以避免，那么它还能仅仅被称为一场“意外”吗？</div>
+  </div>
+
+  <div class="fold" id="fold-answer">
+    <button class="fold-head" onclick="toggleFold('fold-answer')">
+      <span>参考答案</span><span class="arrow">▶</span>
+    </button>
+    <div class="fold-body">On Wednesday morning, a deadly collision between two high-speed trains in Spain claimed at least 68 lives. One train was stationary when another slammed into its rear. The impact sent passengers flying and left many injured. A survivor recounted seeing people covered in blood. Investigators suspected human error after a signalling system malfunction. The command centre had instructed trains to resume their journeys despite a stop signal. This was Spain’s second major deadly train accident in ten months, rattling the country. Opposition leaders called for an immediate investigation and an independent review of the railway network.<br><br>周三上午，西班牙两列高速列车发生严重相撞事故，造成至少68人死亡。一列列车停在轨道上时，另一列列车从后方猛烈撞上。巨大的撞击力将乘客甩飞，导致多人受伤。一名幸存者回忆说，他看到许多人浑身是血。信号系统发生故障后，调查人员怀疑事故可能涉及人为失误。尽管停车信号仍然有效，指挥中心却指示列车恢复行驶。这是西班牙十个月内发生的第二起重大致命列车事故，令全国深受震动。反对党领导人呼吁立即展开调查，并对铁路网络进行独立审查。<br><br>思考题参考答案（选做）<br><br>I don’t think so. An accident is something nobody wants to happen, but that doesn’t mean nobody is responsible. If people ignore safety warnings or make careless decisions, the tragedy may be preventable. In this case, technology failed, but human decisions may have made the situation worse. We cannot prevent every accident, but we can learn from our mistakes. The most important thing is not just to find out what went wrong, but to make sure it never happens again.<br><br>我不这么认为。意外是没有人希望发生的事情，但这并不意味着没有人需要承担责任。如果人们忽视安全警告，或者作出草率的决定，那么悲剧原本可能是可以避免的。在这起事故中，技术出现了故障，但人为决定可能让情况变得更加糟糕。我们无法阻止所有意外发生，但可以从错误中吸取教训。最重要的不仅是查清究竟哪里出了问题，更是确保同样的悲剧不再重演。</div>
+  </div>
+</section>
+
+<script>
+/* ========== 极简原生 JS：折叠 / 搜索高亮 / 面板显隐 ========== */
+
+function toggleNotes(btn){
+  btn.nextElementSibling.classList.toggle('open');
+  btn.textContent = btn.nextElementSibling.classList.contains('open')
+    ? '收起本段注释' : '查看本段注释';
+}
+
+/* 右侧面板分页：1 词汇总表 / 2 专有名词表 / 3 段落导航 */
+function showTab(n, btn){
+  [1,2,3].forEach(function(i){
+    var pane = document.getElementById('tab-'+i);
+    if(pane) pane.classList.toggle('active', i === n);
+  });
+  var bar = document.querySelector('.tab-bar');
+  if(bar){
+    var btns = bar.querySelectorAll('.tab-btn');
+    for(var k=0;k<btns.length;k++){
+      btns[k].classList.toggle('active', k === n-1);
+    }
+  }
+  /* 若面板处于收起状态，切换分页时自动展开 */
+  var body = document.getElementById('side-body');
+  if(body && body.classList.contains('hidden')) toggleSide();
+  var panes = document.querySelector('.tab-panes');
+  if(panes && !btn) panes.scrollTop = 0;
+}
+
+function toggleFold(id){
+  document.getElementById(id).classList.toggle('open');
+}
+
+/* 导图双版本切换：矢量版 / 手绘版 */
+function showMindmap(mode, btn){
+  document.getElementById('mm-vector').style.display = (mode === 'vector') ? '' : 'none';
+  document.getElementById('mm-image').style.display  = (mode === 'image')  ? '' : 'none';
+  document.querySelectorAll('.mm-btn').forEach(function(b){ b.classList.remove('active'); });
+  if(btn) btn.classList.add('active');
+}
+
+/* 矢量导图：点击分支标题折叠 / 展开子节点 */
+var MM_BRANCHES = ['bc1','bc2','bc3','bc4'];
+function toggleBranch(id){
+  var kids = document.getElementById(id);
+  var collapsed = kids.classList.toggle('collapsed');
+  var arrow = document.querySelector('.mm-arrow[data-for="'+id+'"]');
+  if(arrow) arrow.textContent = collapsed ? '▸' : '▾';
+  syncAllBtn();
+}
+/* shouldExpand = true 全部展开；false 全部收起 */
+function setAllBranches(shouldExpand){
+  MM_BRANCHES.forEach(function(id){
+    var isCollapsed = document.getElementById(id).classList.contains('collapsed');
+    if(shouldExpand && isCollapsed) toggleBranch(id);
+    if(!shouldExpand && !isCollapsed) toggleBranch(id);
+  });
+}
+function syncAllBtn(){
+  var anyCollapsed = MM_BRANCHES.some(function(id){
+    return document.getElementById(id).classList.contains('collapsed');
+  });
+  document.getElementById('mm-all-btn').textContent = anyCollapsed ? '全部展开' : '全部收起';
+}
+function toggleAllMindmap(){
+  /* 若当前显示手绘版，先切回矢量版再操作 */
+  if(document.getElementById('mm-image').style.display !== 'none'){
+    showMindmap('vector', document.getElementById('mm-vector-btn'));
+  }
+  var anyCollapsed = MM_BRANCHES.some(function(id){
+    return document.getElementById(id).classList.contains('collapsed');
+  });
+  /* 有收起的 → 全部展开；全展开 → 全部收起 */
+  setAllBranches(anyCollapsed);
+  syncAllBtn();
+}
+document.querySelectorAll('.mm-branch').forEach(function(g){
+  g.addEventListener('click', function(){ toggleBranch(g.getAttribute('data-target')); });
+});
+
+function toggleSide(){
+  var body = document.getElementById('side-body');
+  body.classList.toggle('hidden');
+  var btn = document.querySelector('.side-collapse');
+  btn.textContent = body.classList.contains('hidden') ? '展开面板' : '收起面板';
+}
+
+/* 实时搜索：高亮全文英文块 + 标记表格命中行 + 列出跳转链接 */
+var lastMarks = [];
+function clearMarks(){
+  lastMarks.forEach(function(m){
+    var parent = m.parentNode;
+    parent.replaceChild(document.createTextNode(m.textContent), m);
+    parent.normalize();
+  });
+  lastMarks = [];
+  document.querySelectorAll('tr.row-hit').forEach(function(r){ r.classList.remove('row-hit'); });
+}
+
+function doSearch(q){
+  clearMarks();
+  var result = document.getElementById('search-result');
+  q = q.trim();
+  if(!q){ result.textContent = ''; return; }
+
+  /* 1) 高亮左侧正文英文块 */
+  var hitParas = [];
+  document.querySelectorAll('.en-block').forEach(function(block){
+    var marksBefore = lastMarks.length;   /* 本段新增的高亮数，用于按段统计 */
+    var walker = document.createTreeWalker(block, NodeFilter.SHOW_TEXT, null, false);
+    var nodes = [];
+    while(walker.nextNode()) nodes.push(walker.currentNode);
+    nodes.forEach(function(node){
+      var text = node.nodeValue, lower = text.toLowerCase(), needle = q.toLowerCase();
+      var idx = lower.indexOf(needle);
+      if(idx === -1) return;
+      var frag = document.createDocumentFragment(), pos = 0;
+      while(idx !== -1){
+        frag.appendChild(document.createTextNode(text.slice(pos, idx)));
+        var mark = document.createElement('mark');
+        mark.className = 'hl';
+        mark.textContent = text.slice(idx, idx + q.length);
+        frag.appendChild(mark);
+        lastMarks.push(mark);
+        pos = idx + q.length;
+        idx = lower.indexOf(needle, pos);
+      }
+      frag.appendChild(document.createTextNode(text.slice(pos)));
+      node.parentNode.replaceChild(frag, node);
+    });
+    if(lastMarks.length > marksBefore){
+      var para = block.closest('.paragraph');
+      if(para) hitParas.push(para.id);
+    }
+  });
+
+  /* 2) 词汇总表 / 专有名词表：命中行加底色 */
+  var vocabHit = false, properHit = false;
+  ['vocab-list','proper-list'].forEach(function(tid){
+    document.querySelectorAll('#'+tid+' .row').forEach(function(row){
+      if(row.textContent.toLowerCase().indexOf(q.toLowerCase()) !== -1){
+        row.classList.add('row-hit');
+        if(tid === 'vocab-list') vocabHit = true; else properHit = true;
+      }
+    });
+  });
+
+  /* 3) 结果区：跳转链接 */
+  var links = hitParas.map(function(pid){
+    var label = pid === 'p-headline' ? '标题' : ('¶ ' + pid.replace('p',''));
+    return '<a href="#'+pid+'">'+label+'</a>';
+  }).join('');
+  result.innerHTML = (links || vocabHit || properHit)
+    ? ('命中 ' + hitParas.length + ' 段：' + links +
+       (vocabHit ? '<a href="javascript:void(0)" onclick="showTab(1)">→ 词汇表</a>' : '') +
+       (properHit ? '<a href="javascript:void(0)" onclick="showTab(2)">→ 专名表</a>' : ''))
+    : '未找到匹配内容';
+
+  /* 4) 自动翻到有命中的分页：保证「查到了就看得见」 */
+  if(vocabHit) showTab(1);
+  else if(properHit) showTab(2);
+}
+
+/* ========== 顶部固定栏高度校准（供侧栏 sticky 与锚点补偿使用） ========== */
+function syncHeaderHeight(){
+  var hd = document.querySelector('header');
+  if(hd) document.documentElement.style.setProperty('--header-h', hd.offsetHeight + 'px');
+}
+syncHeaderHeight();
+window.addEventListener('load', syncHeaderHeight);
+window.addEventListener('resize', syncHeaderHeight);
+
+/* ========== 点击正文中高亮的单词：展开本段注释并定位到该词条 ========== */
+document.addEventListener('click', function(e){
+  var m = e.target.closest ? e.target.closest('mark.voc') : null;
+  if(!m) return;
+  var id = m.getAttribute('data-note');
+  var item = id ? document.getElementById(id) : null;
+  if(!item) return;
+  var group = item.closest('.notes-group');
+  if(group && !group.classList.contains('open')){
+    group.classList.add('open');
+    var btn = group.previousElementSibling;
+    if(btn && btn.classList.contains('notes-toggle')) btn.textContent = '收起本段注释';
+  }
+  item.classList.add('flash');
+  item.scrollIntoView({behavior:'smooth', block:'center'});
+  setTimeout(function(){ item.classList.remove('flash'); }, 1800);
+});
+</script>
+</body>
+</html>
