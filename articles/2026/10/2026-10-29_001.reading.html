@@ -74,7 +74,7 @@ h1{font-size:22px;font-weight:700}
 /* 导图双版本切换 */
 .mm-switch{display:flex;justify-content:flex-end;gap:8px;margin-bottom:10px}
 .mm-btn{
-  font-size:12.5px;padding:4px 14px;border-radius:999px;cursor:pointer;
+  font-size:13.5px;padding:4px 14px;border-radius:999px;cursor:pointer;
   border:1px solid var(--line);background:var(--bg);color:var(--ink-light);
 }
 .mm-btn:hover{border-color:var(--accent)}
@@ -84,13 +84,13 @@ h1{font-size:22px;font-weight:700}
 .mm-branch rect,.mm-branch text,.mm-arrow{cursor:pointer}
 .mm-branch:hover rect{stroke-width:2.5}
 .mm-children.collapsed{display:none}
-.mm-arrow{font-size:11px;user-select:none}
+.mm-arrow{font-size:12.5px;user-select:none}
 
 .headline-block{
   background:var(--paper);border:1px solid var(--line);border-radius:var(--radius);
   padding:18px 20px;margin-bottom:22px;
 }
-.headline-en{font-size:18px;font-weight:700;line-height:1.6}
+.headline-en{font-size:19.5px;font-weight:700;line-height:1.6;font-family:-apple-system,BlinkMacSystemFont,"PingFang SC","Hiragino Sans GB","Microsoft YaHei",sans-serif}
 .headline-sub{font-size:15px;color:var(--ink-light);margin-top:6px}
 
 .paragraph{
@@ -98,16 +98,16 @@ h1{font-size:22px;font-weight:700}
   padding:18px 20px;margin-bottom:22px;
 }
 .p-label{
-  font-size:12px;color:var(--ink-light);letter-spacing:.08em;
+  font-size:12.5px;color:var(--ink-light);letter-spacing:.08em;
   margin-bottom:8px;text-transform:uppercase;
 }
 .en-block{
   background:var(--paper);border-radius:6px;padding:4px 0;
-  font-size:15px;line-height:1.9;white-space:pre-wrap;
+  font-size:17px;line-height:1.9;white-space:pre-wrap;
 }
 .zh-block{
   background:var(--paper-trans);border-radius:8px;padding:12px 16px;
-  margin-top:10px;font-size:14.5px;color:#55524b;white-space:pre-wrap;
+  margin-top:10px;font-size:15.5px;color:#55524b;white-space:pre-wrap;
 }
 mark.hl{background:var(--hl);border-radius:3px;padding:0 1px}
 /* 正文中「有注释的单词」：淡绿底 + 虚线下划线，点击跳到该词注释 */
@@ -120,12 +120,12 @@ mark.voc:hover{background:#e0eabf;border-bottom-color:var(--accent)}
 
 /* —— 本段注释组（默认收起） —— */
 .notes-toggle{
-  margin-top:12px;font-size:13px;color:var(--accent);background:none;
+  margin-top:12px;font-size:13.5px;color:var(--accent);background:none;
   border:1px solid var(--accent);border-radius:6px;padding:4px 12px;cursor:pointer;
 }
 .notes-group{display:none;margin-top:10px;border-top:1px dashed var(--line);padding-top:10px}
 .notes-group.open{display:block}
-.note-item{font-size:13.5px;margin-bottom:14px;line-height:1.8}
+.note-item{font-size:15px;margin-bottom:14px;line-height:1.8}
 .note-item b{color:var(--accent)}
 
 /* 锚点跳转补偿：不被固定标题栏挡住 */
@@ -147,10 +147,10 @@ mark.voc:hover{background:#e0eabf;border-bottom-color:var(--accent)}
 .search-box{margin-bottom:10px;flex:none}
 .search-box input{
   width:100%;border:1px solid var(--line);border-radius:8px;
-  padding:8px 12px;font-size:14px;background:var(--bg);color:var(--ink);
+  padding:9px 12px;font-size:15.5px;background:var(--bg);color:var(--ink);
 }
 .search-box input:focus{outline:2px solid var(--accent-light);border-color:var(--accent)}
-.search-result{font-size:12.5px;color:var(--ink-light);margin-top:6px;line-height:1.9}
+.search-result{font-size:13.5px;color:var(--ink-light);margin-top:6px;line-height:1.9}
 .search-result a{color:var(--accent);text-decoration:none;margin-right:10px}
 
 /* 分页内容区：只有这一块滚动，搜索框与分页按钮固定 */
@@ -162,24 +162,24 @@ mark.voc:hover{background:#e0eabf;border-bottom-color:var(--accent)}
 .row.row-hit{background:var(--hl)}
 .row:hover{background:#faf8f3}
 .row-top{display:flex;align-items:baseline;gap:7px;flex-wrap:wrap}
-.row-top .w{font-weight:700;font-size:13px;color:var(--ink)}
-.row-top .ph{font-size:11.5px;color:var(--ink-light)}
+.row-top .w{font-weight:700;font-size:15px;color:var(--ink)}
+.row-top .ph{font-size:12.5px;color:var(--ink-light)}
 .row-top .src{
-  margin-left:auto;font-size:11px;color:var(--accent);text-decoration:none;
+  margin-left:auto;font-size:11.5px;color:var(--accent);text-decoration:none;
   background:var(--accent-light);padding:1px 7px;border-radius:5px;white-space:nowrap;
 }
-.row .def{font-size:12.5px;color:#55524b;line-height:1.72;margin-top:4px}
+.row .def{font-size:13.5px;color:#55524b;line-height:1.76;margin-top:4px}
 .row .def.role{color:var(--ink-light);border-left:2px solid var(--accent-light);padding-left:8px;margin-top:6px}
 
 /* 段落导航（第 3 页） */
 .p-nav{display:flex;flex-direction:column;gap:2px}
 .p-nav a{
   display:block;padding:7px 10px;border-radius:6px;text-decoration:none;
-  color:var(--ink);font-size:13px;border-left:2px solid transparent;
+  color:var(--ink);font-size:14px;border-left:2px solid transparent;
 }
 .p-nav a:hover{background:var(--accent-light);border-left-color:var(--accent)}
-.p-nav a.sub{font-size:12.5px;color:var(--ink-light);padding-left:22px}
-.p-nav a .hint{display:block;font-size:11.5px;color:var(--ink-light);margin-top:1px;font-family:Menlo,monospace}
+.p-nav a.sub{font-size:13.5px;color:var(--ink-light);padding-left:22px}
+.p-nav a .hint{display:block;font-size:12px;color:var(--ink-light);margin-top:1px;font-family:Menlo,monospace}
 
 /* 底部分页按钮 1 / 2 / 3 */
 .tab-bar{
@@ -187,7 +187,7 @@ mark.voc:hover{background:#e0eabf;border-bottom-color:var(--accent)}
   border-top:1px solid var(--line);
 }
 .tab-btn{
-  flex:1;font-size:12px;padding:7px 4px;border-radius:7px;cursor:pointer;
+  flex:1;font-size:12.5px;padding:8px 4px;border-radius:7px;cursor:pointer;
   border:1px solid var(--line);background:var(--bg);color:var(--ink-light);
   font-family:inherit;white-space:nowrap;
 }
@@ -302,71 +302,71 @@ mark.voc:hover{background:#e0eabf;border-bottom-color:var(--accent)}
 
         <!-- 分支一：增长神话（点击标题可折叠子节点） -->
         <g class="mm-branch" data-target="bc1">
-          <rect x="260" y="80" width="160" height="34" rx="8" fill="#e6efe7" stroke="#6b8f71"/>
-          <text x="330" y="102" text-anchor="middle" fill="#4c6b52" font-size="14" font-weight="700">增长神话（¶1–2）</text>
-          <text class="mm-arrow" data-for="bc1" x="410" y="102" text-anchor="end" fill="#4c6b52">▾</text>
+          <rect x="260" y="80" width="190" height="34" rx="8" fill="#e6efe7" stroke="#6b8f71"/>
+          <text x="330" y="102" text-anchor="middle" fill="#4c6b52" font-size="15" font-weight="700">增长神话（¶1–2）</text>
+          <text class="mm-arrow" data-for="bc1" x="442" y="102" text-anchor="end" fill="#4c6b52">▾</text>
         </g>
         <g class="mm-children" id="bc1">
-          <path d="M420,97 C447,97 447,45 470,45" stroke="#6b8f71" stroke-width="1.5" fill="none"/>
-          <path d="M420,97 C447,97 447,89 470,89" stroke="#6b8f71" stroke-width="1.5" fill="none"/>
-          <path d="M420,97 C447,97 447,133 470,133" stroke="#6b8f71" stroke-width="1.5" fill="none"/>
-          <rect x="470" y="30"  width="474" height="30" rx="8" fill="#e6efe7"/><text x="484" y="50"  fill="#3d3a34" font-size="12.5">营收 3.76亿 → 116亿美元（30 倍，25Q1 → 26Q2）</text>
-          <rect x="470" y="74"  width="474" height="30" rx="8" fill="#e6efe7"/><text x="484" y="94"  fill="#3d3a34" font-size="12.5">超过麦当劳等企业巨头</text>
-          <rect x="470" y="118" width="474" height="30" rx="8" fill="#e6efe7"/><text x="484" y="138" fill="#3d3a34" font-size="12.5">IPO 临近：可能成为史上最大</text>
+          <path d="M450,97 C462,97 462,45 480,45" stroke="#6b8f71" stroke-width="1.5" fill="none"/>
+          <path d="M450,97 C462,97 462,89 480,89" stroke="#6b8f71" stroke-width="1.5" fill="none"/>
+          <path d="M450,97 C462,97 462,133 480,133" stroke="#6b8f71" stroke-width="1.5" fill="none"/>
+          <rect x="480" y="30"  width="464" height="32" rx="8" fill="#e6efe7"/><text x="492" y="51"  fill="#3d3a34" font-size="14.5">营收 3.76亿 → 116亿美元（30 倍，25Q1 → 26Q2）</text>
+          <rect x="480" y="74"  width="464" height="32" rx="8" fill="#e6efe7"/><text x="492" y="95"  fill="#3d3a34" font-size="14.5">超过麦当劳等企业巨头</text>
+          <rect x="480" y="118" width="464" height="32" rx="8" fill="#e6efe7"/><text x="492" y="139" fill="#3d3a34" font-size="14.5">IPO 临近：可能成为史上最大</text>
         </g>
 
         <!-- 分支二：盈利亮点 -->
         <g class="mm-branch" data-target="bc2">
-          <rect x="260" y="250" width="160" height="34" rx="8" fill="#e7eef3" stroke="#7d98ad"/>
-          <text x="330" y="272" text-anchor="middle" fill="#54718a" font-size="14" font-weight="700">盈利亮点（¶3）</text>
-          <text class="mm-arrow" data-for="bc2" x="410" y="272" text-anchor="end" fill="#54718a">▾</text>
+          <rect x="260" y="250" width="190" height="34" rx="8" fill="#e7eef3" stroke="#7d98ad"/>
+          <text x="330" y="272" text-anchor="middle" fill="#54718a" font-size="15" font-weight="700">盈利亮点（¶3）</text>
+          <text class="mm-arrow" data-for="bc2" x="442" y="272" text-anchor="end" fill="#54718a">▾</text>
         </g>
         <g class="mm-children" id="bc2">
-          <path d="M420,267 C447,267 447,215 470,215" stroke="#7d98ad" stroke-width="1.5" fill="none"/>
-          <path d="M420,267 C447,267 447,259 470,259" stroke="#7d98ad" stroke-width="1.5" fill="none"/>
-          <path d="M420,267 C447,267 447,303 470,303" stroke="#7d98ad" stroke-width="1.5" fill="none"/>
-          <rect x="470" y="200" width="474" height="30" rx="8" fill="#e7eef3"/><text x="484" y="220" fill="#3d3a34" font-size="12.5">Q2 营业利润近 10 亿美元（上一季度亏 17 亿）</text>
-          <rect x="470" y="244" width="474" height="30" rx="8" fill="#e7eef3"/><text x="484" y="264" fill="#3d3a34" font-size="12.5">算力支出占营收 251% → 48%</text>
-          <rect x="470" y="288" width="474" height="30" rx="8" fill="#e7eef3"/><text x="484" y="308" fill="#3d3a34" font-size="12.5">模型改进 → 开发与运行更快、更省</text>
+          <path d="M450,267 C462,267 462,215 480,215" stroke="#7d98ad" stroke-width="1.5" fill="none"/>
+          <path d="M450,267 C462,267 462,259 480,259" stroke="#7d98ad" stroke-width="1.5" fill="none"/>
+          <path d="M450,267 C462,267 462,303 480,303" stroke="#7d98ad" stroke-width="1.5" fill="none"/>
+          <rect x="480" y="200" width="464" height="32" rx="8" fill="#e7eef3"/><text x="492" y="221" fill="#3d3a34" font-size="14.5">Q2 营业利润近 10 亿美元（上一季度亏 17 亿）</text>
+          <rect x="480" y="244" width="464" height="32" rx="8" fill="#e7eef3"/><text x="492" y="265" fill="#3d3a34" font-size="14.5">算力支出占营收 251% → 48%</text>
+          <rect x="480" y="288" width="464" height="32" rx="8" fill="#e7eef3"/><text x="492" y="309" fill="#3d3a34" font-size="14.5">模型改进 → 开发与运行更快、更省</text>
         </g>
 
         <!-- 分支三：三大隐忧 -->
         <g class="mm-branch" data-target="bc3">
-          <rect x="260" y="430" width="160" height="34" rx="8" fill="#f3e4e0" stroke="#bd7a6d"/>
-          <text x="330" y="452" text-anchor="middle" fill="#96524a" font-size="14" font-weight="700">三大隐忧（¶4–8）</text>
-          <text class="mm-arrow" data-for="bc3" x="410" y="452" text-anchor="end" fill="#96524a">▾</text>
+          <rect x="260" y="430" width="190" height="34" rx="8" fill="#f3e4e0" stroke="#bd7a6d"/>
+          <text x="330" y="452" text-anchor="middle" fill="#96524a" font-size="15" font-weight="700">三大隐忧（¶4–8）</text>
+          <text class="mm-arrow" data-for="bc3" x="442" y="452" text-anchor="end" fill="#96524a">▾</text>
         </g>
         <g class="mm-children" id="bc3">
-          <path d="M420,447 C447,447 447,350 470,350" stroke="#bd7a6d" stroke-width="1.5" fill="none"/>
-          <path d="M420,447 C447,447 447,400 470,400" stroke="#bd7a6d" stroke-width="1.5" fill="none"/>
-          <path d="M420,447 C447,447 447,450 470,450" stroke="#bd7a6d" stroke-width="1.5" fill="none"/>
-          <path d="M420,447 C447,447 447,500 470,500" stroke="#bd7a6d" stroke-width="1.5" fill="none"/>
-          <rect x="470" y="330" width="474" height="40" rx="8" fill="#f3e4e0"/><text x="484" y="347" fill="#3d3a34" font-size="12.5">① 竞争加剧：Meta / 微软推动员工改用自研替代品；<tspan x="484" dy="17">OpenAI Codex 日用量自 8 月初以来增 10 倍</tspan></text>
-          <rect x="470" y="380" width="474" height="40" rx="8" fill="#f3e4e0"/><text x="484" y="397" fill="#3d3a34" font-size="12.5">② 增长放缓：Q3 环比约 +45%（仅为 Q2 增速的 1/3）；<tspan x="484" dy="17">近半营收依赖 Alphabet / 亚马逊 / 微软云渠道</tspan></text>
-          <rect x="470" y="430" width="474" height="40" rx="8" fill="#f3e4e0"/><text x="484" y="447" fill="#3d3a34" font-size="12.5">③ 算力昂贵：每月付 SpaceX 约 31 亿美元租英伟达芯片（至 2029，<tspan x="484" dy="17">明年初起提前 90 天通知可退出）</tspan></text>
-          <rect x="470" y="480" width="474" height="40" rx="8" fill="#f3e4e0"/><text x="484" y="497" fill="#3d3a34" font-size="12.5">④ 自建算力：Anthropic Direct 向博通采购定制芯片 →<tspan x="484" dy="17">更资本密集，自由现金流承压、需继续融资</tspan></text>
+          <path d="M450,447 C462,447 462,350 480,350" stroke="#bd7a6d" stroke-width="1.5" fill="none"/>
+          <path d="M450,447 C462,447 462,400 480,400" stroke="#bd7a6d" stroke-width="1.5" fill="none"/>
+          <path d="M450,447 C462,447 462,450 480,450" stroke="#bd7a6d" stroke-width="1.5" fill="none"/>
+          <path d="M450,447 C462,447 462,500 480,500" stroke="#bd7a6d" stroke-width="1.5" fill="none"/>
+          <rect x="480" y="330" width="464" height="44" rx="8" fill="#f3e4e0"/><text x="492" y="351" fill="#3d3a34" font-size="14.5">① 竞争加剧：Meta / 微软推动员工改用自研替代品；<tspan x="492" dy="19">OpenAI Codex 日用量自 8 月初以来增 10 倍</tspan></text>
+          <rect x="480" y="380" width="464" height="44" rx="8" fill="#f3e4e0"/><text x="492" y="401" fill="#3d3a34" font-size="14.5">② 增长放缓：Q3 环比约 +45%（仅为 Q2 增速的 1/3）；<tspan x="492" dy="19">近半营收依赖 Alphabet / 亚马逊 / 微软云渠道</tspan></text>
+          <rect x="480" y="430" width="464" height="44" rx="8" fill="#f3e4e0"/><text x="492" y="451" fill="#3d3a34" font-size="14.5">③ 算力昂贵：每月付 SpaceX 约 31 亿美元租英伟达芯片（至 2029，<tspan x="492" dy="19">明年初起提前 90 天通知可退出）</tspan></text>
+          <rect x="480" y="480" width="464" height="44" rx="8" fill="#f3e4e0"/><text x="492" y="501" fill="#3d3a34" font-size="14.5">④ 自建算力：Anthropic Direct 向博通采购定制芯片 →<tspan x="492" dy="19">更资本密集，自由现金流承压、需继续融资</tspan></text>
         </g>
 
         <!-- 分支四：结语与愿景 -->
         <g class="mm-branch" data-target="bc4">
-          <rect x="260" y="640" width="160" height="34" rx="8" fill="#ece6f2" stroke="#9b86b3"/>
-          <text x="330" y="662" text-anchor="middle" fill="#6f5c88" font-size="14" font-weight="700">结语与愿景（¶9）</text>
-          <text class="mm-arrow" data-for="bc4" x="410" y="662" text-anchor="end" fill="#6f5c88">▾</text>
+          <rect x="260" y="640" width="190" height="34" rx="8" fill="#ece6f2" stroke="#9b86b3"/>
+          <text x="330" y="662" text-anchor="middle" fill="#6f5c88" font-size="15" font-weight="700">结语与愿景（¶9）</text>
+          <text class="mm-arrow" data-for="bc4" x="442" y="662" text-anchor="end" fill="#6f5c88">▾</text>
         </g>
         <g class="mm-children" id="bc4">
-          <path d="M420,657 C447,657 447,605 470,605" stroke="#9b86b3" stroke-width="1.5" fill="none"/>
-          <path d="M420,657 C447,657 447,649 470,649" stroke="#9b86b3" stroke-width="1.5" fill="none"/>
-          <path d="M420,657 C447,657 447,693 470,693" stroke="#9b86b3" stroke-width="1.5" fill="none"/>
-          <rect x="470" y="590" width="474" height="30" rx="8" fill="#ece6f2"/><text x="484" y="610" fill="#3d3a34" font-size="12.5">「bold but sane」：大胆而不失理智</text>
-          <rect x="470" y="634" width="474" height="30" rx="8" fill="#ece6f2"/><text x="484" y="654" fill="#3d3a34" font-size="12.5">AI 处于指数级（exponential）轨迹之上</text>
-          <rect x="470" y="678" width="474" height="30" rx="8" fill="#ece6f2"/><text x="484" y="698" fill="#3d3a34" font-size="12.5">技术如此 mind-bending，要拿捏平衡恐比想象中更难</text>
+          <path d="M450,657 C462,657 462,605 480,605" stroke="#9b86b3" stroke-width="1.5" fill="none"/>
+          <path d="M450,657 C462,657 462,649 480,649" stroke="#9b86b3" stroke-width="1.5" fill="none"/>
+          <path d="M450,657 C462,657 462,693 480,693" stroke="#9b86b3" stroke-width="1.5" fill="none"/>
+          <rect x="480" y="590" width="464" height="32" rx="8" fill="#ece6f2"/><text x="492" y="611" fill="#3d3a34" font-size="14.5">「bold but sane」：大胆而不失理智</text>
+          <rect x="480" y="634" width="464" height="32" rx="8" fill="#ece6f2"/><text x="492" y="655" fill="#3d3a34" font-size="14.5">AI 处于指数级（exponential）轨迹之上</text>
+          <rect x="480" y="678" width="464" height="32" rx="8" fill="#ece6f2"/><text x="492" y="699" fill="#3d3a34" font-size="14.5">技术如此 mind-bending，要拿捏平衡恐比想象中更难</text>
         </g>
 
         <!-- 根节点 -->
         <rect x="16" y="296" width="184" height="108" rx="12" fill="#566d5a"/>
-        <text x="108" y="336" text-anchor="middle" fill="#ffffff" font-size="16.5" font-weight="700">Anthropic 准备上市</text>
-        <text x="108" y="360" text-anchor="middle" fill="#dfe8e1" font-size="11.5">一家 AI 公司为何可能</text>
-        <text x="108" y="377" text-anchor="middle" fill="#dfe8e1" font-size="11.5">创造史上最大 IPO 之一</text>
+        <text x="108" y="334" text-anchor="middle" fill="#ffffff" font-size="18" font-weight="700">Anthropic 准备上市</text>
+        <text x="108" y="361" text-anchor="middle" fill="#dfe8e1" font-size="13">一家 AI 公司为何可能</text>
+        <text x="108" y="382" text-anchor="middle" fill="#dfe8e1" font-size="13">创造史上最大 IPO 之一</text>
       </svg>
       </div>
       <div class="mm-view" id="mm-image" style="display:none">
@@ -377,7 +377,7 @@ mark.voc:hover{background:#e0eabf;border-bottom-color:var(--accent)}
     <!-- 经济学人原标题 + 标题注释 -->
     <section class="paragraph headline-block" id="p-headline">
       <div class="p-label">The Economist · 标题</div>
-      <div class="headline-en en">Don’t expect <mark class="voc" data-note="n-p-headline-1">supersize</mark> profits from Anthropic soon</div>
+      <div class="headline-en">Don’t expect <mark class="voc" data-note="n-p-headline-1">supersize</mark> profits from Anthropic soon</div>
       <div class="headline-sub en"><mark class="voc" data-note="n-p-headline-2">Lurking</mark> in its IPO prospectus are warnings of challenges ahead</div>
 
       <button class="notes-toggle" onclick="toggleNotes(this)">查看标题注释</button>
