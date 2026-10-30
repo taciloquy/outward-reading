@@ -254,6 +254,22 @@ mark.voc:hover{background:#e0eabf;border-bottom-color:var(--accent)}
 }
 .print-btn:hover{color:var(--accent);border-color:var(--accent)}
 
+/* ========== 打印提示条：手机 / 微信内兜底 ========== */
+.print-tip{
+  position:fixed;left:50%;bottom:calc(18px + env(safe-area-inset-bottom));
+  transform:translate(-50%,10px);
+  max-width:min(92vw,460px);width:max-content;
+  background:rgba(28,32,38,.94);color:#f5f2ec;
+  font-size:13px;line-height:1.6;letter-spacing:.01em;
+  padding:10px 14px;border-radius:12px;
+  box-shadow:0 8px 24px rgba(0,0,0,.22);
+  z-index:9999;opacity:0;pointer-events:none;
+  transition:opacity .25s ease,transform .25s ease;
+  text-align:center;
+}
+.print-tip.show{opacity:1;transform:translate(-50%,0)}
+@media print{.print-tip{display:none !important}}
+
 /* ========== 打印样式：A4，仅标题 + 英文正文 ========== */
 @media print{
   @page{size:A4 portrait;margin:18mm 16mm}
@@ -298,7 +314,7 @@ mark.voc:hover{background:#e0eabf;border-bottom-color:var(--accent)}
       <a href="#side-panel" onclick="showTab(2)">专有名词表</a>
       <a href="#practice">翻译练习</a>
     </nav>
-    <button class="print-btn" onclick="window.print()" title="A4 打印：仅标题与英文正文">🖨 打印</button>
+    <button class="print-btn" onclick="doPrint()" title="A4 打印：仅标题与英文正文">🖨 打印</button>
   </div>
 </header>
 
@@ -728,6 +744,41 @@ mark.voc:hover{background:#e0eabf;border-bottom-color:var(--accent)}
 
 <script>
 /* ========== 极简原生 JS：折叠 / 搜索高亮 / 面板显隐 ========== */
+
+/* ========== 打印：桌面直调；微信给引导、其他手机给提示后再调 ========== */
+function printTip(msg, ms){
+  var old = document.getElementById('print-tip');
+  if(old && old.parentNode) old.parentNode.removeChild(old);
+  var t = document.createElement('div');
+  t.id = 'print-tip';
+  t.className = 'print-tip';
+  t.textContent = msg;
+  document.body.appendChild(t);
+  requestAnimationFrame(function(){ t.classList.add('show'); });
+  setTimeout(function(){
+    t.classList.remove('show');
+    setTimeout(function(){ if(t.parentNode) t.parentNode.removeChild(t); }, 300);
+  }, ms || 4600);
+}
+
+function doPrint(){
+  var ua = navigator.userAgent || '';
+  var inWX = /MicroMessenger/i.test(ua);
+  var mobile = /Android|iPhone|iPad|iPod|Mobile|HarmonyOS/i.test(ua);
+
+  if(inWX){
+    printTip('微信内不能直接打印：点右上角 ··· ，选「在浏览器打开」，再用浏览器菜单里的「打印 / 存为 PDF」。', 6200);
+    return;
+  }
+  if(mobile){
+    printTip('正在调起打印…若没反应，请用浏览器右上角菜单里的「打印 / 存为 PDF」。', 5200);
+    /* 同步调用：iOS Safari 要求打印紧贴用户手势，放进 setTimeout 会失效 */
+    try{ window.print(); }catch(e){}
+    return;
+  }
+  try{ window.print(); }
+  catch(e){ printTip('当前浏览器没有响应打印，请用浏览器菜单里的「打印 / 存为 PDF」。'); }
+}
 
 function toggleNotes(btn){
   btn.nextElementSibling.classList.toggle('open');
