@@ -268,7 +268,37 @@ mark.voc:hover{background:#e0eabf;border-bottom-color:var(--accent)}
   text-align:center;
 }
 .print-tip.show{opacity:1;transform:translate(-50%,0)}
-@media print{.print-tip{display:none !important}}
+
+/* ========== 打印引导卡片：iPhone / 微信内 ========== */
+.pg-mask{
+  position:fixed;inset:0;z-index:10000;
+  background:rgba(28,24,20,.44);
+  display:flex;align-items:flex-end;justify-content:center;
+  opacity:0;transition:opacity .22s ease;
+}
+.pg-mask.show{opacity:1}
+.pg-card{
+  width:100%;max-width:480px;
+  background:var(--paper,#fbf8f2);color:var(--ink,#2b2622);
+  border-radius:18px 18px 0 0;
+  padding:20px 20px calc(20px + env(safe-area-inset-bottom));
+  box-shadow:0 -10px 34px rgba(0,0,0,.2);
+  transform:translateY(16px);transition:transform .26s ease;
+  font-family:-apple-system,'PingFang SC','Hiragino Sans GB','Microsoft YaHei',sans-serif;
+}
+.pg-mask.show .pg-card{transform:translateY(0)}
+.pg-card h3{margin:0 0 6px;font-size:16px;font-weight:600;letter-spacing:.01em}
+.pg-card p{margin:0 0 12px;font-size:13px;line-height:1.7;color:var(--ink-light,#6b6259)}
+.pg-card ol{margin:0 0 16px;padding-left:20px;font-size:13.5px;line-height:1.85}
+.pg-card ol li{margin-bottom:2px}
+.pg-acts{display:flex;gap:10px}
+.pg-acts button{
+  flex:1;font-size:14px;padding:11px 0;border-radius:10px;cursor:pointer;
+  font-family:inherit;-webkit-tap-highlight-color:transparent;
+}
+.pg-primary{border:1px solid var(--accent,#8a6b4f);background:var(--accent,#8a6b4f);color:#fff}
+.pg-ghost{border:1px solid var(--line,#e2dad0);background:transparent;color:var(--ink-light,#6b6259)}
+@media print{.print-tip{display:none !important}.pg-mask{display:none !important}}
 
 /* ========== 打印样式：A4，仅标题 + 英文正文 ========== */
 @media print{
@@ -745,7 +775,7 @@ mark.voc:hover{background:#e0eabf;border-bottom-color:var(--accent)}
 <script>
 /* ========== 极简原生 JS：折叠 / 搜索高亮 / 面板显隐 ========== */
 
-/* ========== 打印：桌面直调；微信给引导、其他手机给提示后再调 ========== */
+/* ========== 打印：桌面 / iPad / Android 直调；iPhone 走分享菜单；微信先回浏览器 ========== */
 function printTip(msg, ms){
   var old = document.getElementById('print-tip');
   if(old && old.parentNode) old.parentNode.removeChild(old);
@@ -754,30 +784,161 @@ function printTip(msg, ms){
   t.className = 'print-tip';
   t.textContent = msg;
   document.body.appendChild(t);
-  requestAnimationFrame(function(){ t.classList.add('show'); });
+  void t.offsetHeight;            /* 强制 reflow：不依赖 rAF，任何环境都能上过渡 */
+  t.classList.add('show');
   setTimeout(function(){
     t.classList.remove('show');
     setTimeout(function(){ if(t.parentNode) t.parentNode.removeChild(t); }, 300);
   }, ms || 4600);
 }
 
+function legacyCopy(text, cb){
+  var ta = document.createElement('textarea');
+  ta.value = text;
+  ta.setAttribute('readonly','');
+  ta.style.position = 'fixed';
+  ta.style.left = '-9999px';
+  document.body.appendChild(ta);
+  ta.select();
+  try{ document.execCommand('copy'); }catch(e){}
+  document.body.removeChild(ta);
+  if(cb) cb();
+}
+
+function copyPageLink(){
+  var url = location.href;
+  var done = function(){ printTip('链接已复制，粘到 Safari 里打开就能打印。', 3200); };
+  if(navigator.clipboard && navigator.clipboard.writeText){
+    navigator.clipboard.writeText(url).then(done, function(){ legacyCopy(url, done); });
+  }else{
+    legacyCopy(url, done);
+  }
+}
+
+function closePrintGuide(){
+  var m = document.getElementById('pg-mask');
+  if(!m) return;
+  m.classList.remove('show');
+  setTimeout(function(){ if(m.parentNode) m.parentNode.removeChild(m); }, 240);
+}
+
+/* opts: {title, desc, steps:[...], primaryLabel, primaryAction} */
+function openPrintGuide(opts){
+  closePrintGuide();
+  var m = document.createElement('div');
+  m.id = 'pg-mask';
+  m.className = 'pg-mask';
+
+  var card = document.createElement('div');
+  card.className = 'pg-card';
+
+  var h = document.createElement('h3');
+  h.textContent = opts.title;
+  card.appendChild(h);
+
+  var p = document.createElement('p');
+  p.textContent = opts.desc;
+  card.appendChild(p);
+
+  var ol = document.createElement('ol');
+  (opts.steps || []).forEach(function(s){
+    var li = document.createElement('li');
+    li.textContent = s;
+    ol.appendChild(li);
+  });
+  card.appendChild(ol);
+
+  var acts = document.createElement('div');
+  acts.className = 'pg-acts';
+  if(opts.primaryLabel && opts.primaryAction){
+    var b1 = document.createElement('button');
+    b1.className = 'pg-primary';
+    b1.textContent = opts.primaryLabel;
+    b1.onclick = function(){ closePrintGuide(); opts.primaryAction(); };
+    acts.appendChild(b1);
+  }
+  var b2 = document.createElement('button');
+  b2.className = 'pg-ghost';
+  b2.textContent = opts.primaryLabel ? '取消' : '知道了';
+  b2.onclick = closePrintGuide;
+  acts.appendChild(b2);
+  card.appendChild(acts);
+
+  m.appendChild(card);
+  document.body.appendChild(m);
+  void m.offsetHeight;            /* 强制 reflow：不依赖 rAF */
+  m.classList.add('show');
+  m.addEventListener('click', function(e){ if(e.target === m) closePrintGuide(); });
+}
+
 function doPrint(){
   var ua = navigator.userAgent || '';
-  var inWX = /MicroMessenger/i.test(ua);
-  var mobile = /Android|iPhone|iPad|iPod|Mobile|HarmonyOS/i.test(ua);
+  var inWX = /MicroMessenger|WeChat/i.test(ua);
+  var isIPhone = /iPhone|iPod/i.test(ua);
+  var isIPad = /iPad/i.test(ua) || (/Macintosh/i.test(ua) && navigator.maxTouchPoints > 1);
+  var isAndroid = /Android/i.test(ua);
+  var isHarmony = /HarmonyOS/i.test(ua);
 
+  /* 1) 微信内置浏览器：打印接口被屏蔽，先请用户回到系统浏览器 */
   if(inWX){
-    printTip('微信内不能直接打印：点右上角 ··· ，选「在浏览器打开」，再用浏览器菜单里的「打印 / 存为 PDF」。', 6200);
+    openPrintGuide({
+      title: '微信里打不了印',
+      desc: '微信内置浏览器屏蔽了打印功能，换到 Safari 或系统浏览器里打开就能用。',
+      steps: [
+        '点右上角 ···',
+        '选「在默认浏览器打开」（找不到就先把链接复制出来）',
+        '在浏览器里再点一次「🖨 打印」'
+      ],
+      primaryLabel: '复制链接',
+      primaryAction: copyPageLink
+    });
     return;
   }
-  if(mobile){
-    printTip('正在调起打印…若没反应，请用浏览器右上角菜单里的「打印 / 存为 PDF」。', 5200);
-    /* 同步调用：iOS Safari 要求打印紧贴用户手势，放进 setTimeout 会失效 */
+
+  /* 2) iPhone Safari：window.print() 静默失败，只能走系统分享菜单 */
+  if(isIPhone && !isIPad){
+    if(navigator.share){
+      openPrintGuide({
+        title: '在 iPhone 上打印',
+        desc: 'iPhone 的 Safari 不响应网页里的直接打印，从系统的「分享」两步就到。',
+        steps: [
+          '点下面的「打开分享菜单」',
+          '在弹出面板里向下滑，找到并点「打印」',
+          '只要 PDF：在打印预览里双指放大，即可「存储到文件」'
+        ],
+        primaryLabel: '打开分享菜单',
+        primaryAction: function(){
+          try{
+            navigator.share({ title: document.title, url: location.href });
+          }catch(e){}
+        }
+      });
+    }else{
+      openPrintGuide({
+        title: '在 iPhone 上打印',
+        desc: '这个浏览器没有开放网页打印，用 Safari 打开后按下面两步操作。',
+        steps: [
+          '点 Safari 工具栏中间的「分享」图标 ⤴',
+          '向下滑找到「打印」；只要 PDF 就在预览里双指放大后「存储到文件」'
+        ],
+        primaryLabel: '复制链接',
+        primaryAction: copyPageLink
+      });
+    }
+    return;
+  }
+
+  /* 3) iPad / Android / 鸿蒙 / 桌面：直接调起 */
+  if(isIPad || isAndroid || isHarmony){
+    printTip('正在调起打印…若没反应，请用浏览器菜单里的「打印 / 存为 PDF」。', 4200);
     try{ window.print(); }catch(e){}
     return;
   }
-  try{ window.print(); }
-  catch(e){ printTip('当前浏览器没有响应打印，请用浏览器菜单里的「打印 / 存为 PDF」。'); }
+  try{
+    window.print();
+  }catch(e){
+    printTip('当前浏览器没有响应打印，请用浏览器菜单里的「打印 / 存为 PDF」。');
+  }
 }
 
 function toggleNotes(btn){
