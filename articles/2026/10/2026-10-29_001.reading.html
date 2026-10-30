@@ -347,6 +347,21 @@ mark.voc:hover{background:#e0eabf;border-bottom-color:var(--accent)}
   a{color:#111 !important;text-decoration:none !important}
 }
 
+
+/* ========== 打印视图兜底：body.print-sheet（普通规则，任何 WebKit 都生效） ========== */
+body.print-sheet{background:#fff !important;margin:0 !important;padding:0 !important}
+body.print-sheet .layout{display:block !important}
+body.print-sheet .side,body.print-sheet .mindmap,body.print-sheet .practice,
+body.print-sheet .zh-block,body.print-sheet .notes-toggle,body.print-sheet .notes-group,
+body.print-sheet .mm-switch,body.print-sheet .anchors,body.print-sheet .tool-row,
+body.print-sheet .meta,body.print-sheet .print-tip,body.print-sheet .pg-mask{display:none !important}
+body.print-sheet .meta-row{display:block !important}
+body.print-sheet .main{width:100% !important;max-width:100% !important;margin:0 !important;padding:0 !important}
+body.print-sheet header,body.print-sheet .headline-block{background:none !important;border:none !important;box-shadow:none !important;padding:0 0 6mm !important}
+body.print-sheet .paragraph{background:none !important;border:none !important;border-radius:0 !important;box-shadow:none !important;padding:0 0 4mm !important;color:#000 !important}
+body.print-sheet .paragraph .en-block{font-size:11.5pt !important;line-height:1.75 !important;color:#000 !important}
+body.print-sheet mark,body.print-sheet mark.voc{background:none !important;color:inherit !important}
+body.print-sheet .p-label{color:#555 !important}
 </style>
 </head>
 <body>
@@ -895,6 +910,12 @@ function openPrintGuide(opts){
   m.addEventListener('click', function(e){ if(e.target === m) closePrintGuide(); });
 }
 
+/* ========== 打印视图兜底：任何入口打印前切到 print-sheet 视图，打完恢复 ========== */
+window.addEventListener('beforeprint', function(){ document.body.classList.add('print-sheet'); });
+window.addEventListener('afterprint', function(){ document.body.classList.remove('print-sheet'); });
+/* print-sheet-safety：万一浏览器不触发 afterprint，用户再碰页面就自动恢复 */
+document.addEventListener('pointerdown', function(){ document.body.classList.remove('print-sheet'); }, true);
+
 function doPrint(){
   var ua = navigator.userAgent || '';
   var inWX = /MicroMessenger|WeChat/i.test(ua);
@@ -902,6 +923,23 @@ function doPrint(){
   var isIPad = /iPad/i.test(ua) || (/Macintosh/i.test(ua) && navigator.maxTouchPoints > 1);
   var isAndroid = /Android/i.test(ua);
   var isHarmony = /HarmonyOS/i.test(ua);
+  /* 0) 首页弹窗（iframe）里：打印的是外层首页（日历+弹窗叠加），必须先去独立页面 */
+  var inFrame = false;
+  try{ inFrame = (window.self !== window.top); }catch(e){ inFrame = true; }
+  if(inFrame && (inWX || isIPhone || isIPad || isAndroid || isHarmony)){
+    openPrintGuide({
+      title: '先去独立页面再打印',
+      desc: '你现在是在首页的弹窗里看这篇精读页，在这里打印会把首页的日历一起印出来。',
+      steps: [
+        '点下面的「复制精读页链接」',
+        '粘到 Safari 打开（独立完整页面）',
+        '再点一次「🖨 打印」，按提示操作'
+      ],
+      primaryLabel: '复制精读页链接',
+      primaryAction: copyPageLink
+    });
+    return;
+  }
 
   /* 1) 微信内置浏览器：打印接口被屏蔽，先请用户回到系统浏览器 */
   if(inWX){
@@ -932,9 +970,14 @@ function doPrint(){
         ],
         primaryLabel: '打开分享菜单',
         primaryAction: function(){
+          document.body.classList.add('print-sheet');   /* beforeprint 之外的冗余保险 */
+          var cleanup = function(){ document.body.classList.remove('print-sheet'); };
+          try{ window.addEventListener('afterprint', cleanup, {once:true}); }catch(e){}
           try{
-            navigator.share({ title: document.title, url: location.href });
-          }catch(e){}
+            var pr = navigator.share({ title: document.title, url: location.href });
+            if(pr && pr.then){ pr.then(cleanup, cleanup); }
+            else{ setTimeout(cleanup, 90000); }
+          }catch(e){ cleanup(); }
         }
       });
     }else{
