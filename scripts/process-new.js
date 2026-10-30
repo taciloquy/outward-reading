@@ -72,8 +72,28 @@ function ensureViewport(html) {
 
 console.log('🔍 扫描早安英文目录...\n');
 
-// 找所有 HTML 文件
-const allFiles = fs.readdirSync(SOURCE_DIR).filter(f => f.endsWith('.html'));
+// 找所有 HTML 文件（递归扫描 YYYYMM 月份文件夹 + 根目录散文件）
+function scanSourceFiles(dir) {
+  const results = [];
+  for (const entry of fs.readdirSync(dir, { withFileTypes: true })) {
+    if (entry.name.startsWith('.')) continue;
+    const full = path.join(dir, entry.name);
+    if (entry.isDirectory()) {
+      // 月份文件夹命名规则：YYYYMM（8位数字）
+      if (/^\d{6}$/.test(entry.name)) {
+        results.push(...scanSourceFiles(full));
+      }
+    } else if (entry.name.endsWith('.html')) {
+      results.push(full);
+    }
+  }
+  return results;
+}
+const allFilePaths = scanSourceFiles(SOURCE_DIR);
+// 文件名 → 完整路径映射
+const allFilesMap = {};
+for (const fp of allFilePaths) allFilesMap[path.basename(fp)] = fp;
+const allFiles = Object.keys(allFilesMap);
 
 // 已处理的 fileKey 列表（如 2026-10-11_001）
 const existingArticles = [];
@@ -104,7 +124,7 @@ for (const fileKey of existingArticles) {
   if (fs.existsSync(targetPath)) continue; // 已存在，跳过
   const targetDir = path.dirname(targetPath);
   fs.mkdirSync(targetDir, { recursive: true });
-  const translatedHtml = fs.readFileSync(path.join(SOURCE_DIR, translatedName), 'utf8');
+  const translatedHtml = fs.readFileSync(allFilesMap[translatedName], 'utf8');
   fs.writeFileSync(targetPath, translatedHtml);
   console.log(`🔄 补同步翻译版: articles/${y}/${m}/${translatedName}`);
   syncedTranslated++;
@@ -135,8 +155,8 @@ for (const cleanFile of newCleanFiles) {
   const targetDir = path.join(ARTICLES_DIR, y, m);
   fs.mkdirSync(targetDir, { recursive: true });
   
-  const cleanHtml = fs.readFileSync(path.join(SOURCE_DIR, cleanFile), 'utf8');
-  const annotatedHtml = fs.readFileSync(path.join(SOURCE_DIR, annotatedFile), 'utf8');
+  const cleanHtml = fs.readFileSync(allFilesMap[cleanFile], 'utf8');
+  const annotatedHtml = fs.readFileSync(allFilesMap[annotatedFile], 'utf8');
   
   fs.writeFileSync(path.join(targetDir, cleanFile), cleanHtml);
   fs.writeFileSync(path.join(targetDir, annotatedFile), annotatedHtml);
@@ -144,12 +164,12 @@ for (const cleanFile of newCleanFiles) {
   // 同步翻译版文件（如果存在）
   const translatedFile = cleanFile.replace('.clean.html', '.translated.html');
   if (allFiles.includes(translatedFile)) {
-    const translatedHtml = fs.readFileSync(path.join(SOURCE_DIR, translatedFile), 'utf8');
+    const translatedHtml = fs.readFileSync(allFilesMap[translatedFile], 'utf8');
     fs.writeFileSync(path.join(targetDir, translatedFile), translatedHtml);
     console.log(`   ✅ 已写入: articles/${y}/${m}/${translatedFile}`);
   }
 
-  const plainText = extractPlainText(path.join(SOURCE_DIR, cleanFile));
+  const plainText = extractPlainText(allFilesMap[cleanFile]);
   const vocabs = extractVocabs(annotatedHtml);
   const titleMatch = cleanHtml.match(/<h1[^>]*>([\s\S]*?)<\/h1>/) || cleanHtml.match(/<h2[^>]*>([\s\S]*?)<\/h2>/);
   const title = titleMatch ? titleMatch[1].replace(/<[^>]+>/g, '').trim() : fileKey;
@@ -192,8 +212,8 @@ for (const plainFile of plainFiles) {
   console.log(`📄 处理新文章: ${plainFile}`);
   console.log(`   日期: ${dateStr}`);
   
-  const plainPath = path.join(SOURCE_DIR, plainFile);
-  const annotatedPath = path.join(SOURCE_DIR, annotatedFile);
+  const plainPath = allFilesMap[plainFile];
+  const annotatedPath = allFilesMap[annotatedFile];
   
   // 生成 clean HTML
   let cleanHtml = fs.readFileSync(plainPath, 'utf8');
@@ -219,7 +239,7 @@ for (const plainFile of plainFiles) {
   // 同步翻译版文件（如果存在）
   const translatedName = `${fileKey}.translated.html`;
   if (allFiles.includes(translatedName)) {
-    const translatedHtml = fs.readFileSync(path.join(SOURCE_DIR, translatedName), 'utf8');
+    const translatedHtml = fs.readFileSync(allFilesMap[translatedName], 'utf8');
     fs.writeFileSync(path.join(targetDir, translatedName), translatedHtml);
     console.log(`   ✅ 已写入: articles/${y}/${m}/${translatedName}`);
   }
