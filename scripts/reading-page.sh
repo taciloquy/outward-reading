@@ -71,6 +71,12 @@ case "$cmd" in
     web_path="/outward-reading/articles/$yy/$mm/${date}_001.reading.html"
     mkdir -p "$dest_dir"
 
+    # 手绘版导图检查（缺了照样发布，但明确提醒）
+    if ! grep -q "手绘版" "$html"; then
+      echo "⚠️  这份精读页没有「手绘版」导图（规范 7.1 要求每期必做）"
+      echo "   补图后执行： python3 scripts/embed-handmap.py \"$html\" <手绘图.png>"
+    fi
+
     echo "== 1/4 复制精读页 → $dest"
     cp "$html" "$dest"
 
