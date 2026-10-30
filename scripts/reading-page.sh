@@ -104,7 +104,7 @@ NODE
     git push
     echo ""
     echo "✅ 完成。GitHub Pages 部署约需 1-2 分钟，之后访问："
-    echo "   https://taciloquy.github.io/outward-reading/  （选 $date，默认即精读页）"
+    echo "   https://taciloquy.github.io/outward-reading/  （选 ${date}，默认即精读页）"
     ;;
 
   *)
