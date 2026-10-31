@@ -1,0 +1,450 @@
+{
+ "paragraphs": [
+  {
+   "en_html": "The next-gen Roadster certainly <mark class=\"voc\">took the scenic route</mark> in getting here. A <mark class=\"voc\">prototype</mark> version was announced as a “one more thing” style surprise during the 2017 Tesla Semi event. The <mark class=\"voc\">specs</mark> sounded <mark class=\"voc\">ludicrous</mark> even back then: 0-60 mph in 1.9 seconds, a top speed over 250 mph, a 200 kWh battery delivering up to 620 miles of <mark class=\"voc\">range</mark>, and a $200,000 starting <mark class=\"voc\">price tag</mark>. Musk said deliveries would start in 2020, which sounded perfectly <mark class=\"voc\">doable</mark> at the time.",
+   "zh": "新一代Roadster走到今天这一步，可谓绕了好大一圈。早在2017年的特斯拉Semi卡车发布会上，一款Roadster原型车就作为“还有一件事”的压轴惊喜突然亮相。即便放在当年，它公布的性能参数也堪称疯狂：从静止加速至每小时60英里仅需1.9秒，最高时速超过250英里，配备200千瓦时电池，续航里程最高可达620英里，起售价为20万美元。马斯克当时表示，车辆将在2020年开始交付，而在那个时候，这个计划听起来似乎完全能够实现。",
+   "notes": [
+    {
+     "w": "take the scenic route",
+     "ipa": "/teɪk ðə ˌsiːnɪk ˈruːt/",
+     "pos": "idiom",
+     "en": "to take a longer or less direct way to reach a destination or achieve a goal",
+     "zh": "绕远路；经历曲折的过程",
+     "ctx": "本义“走风景路线”，实际是“绕远路”；作者用它调侃九年才走到今天。",
+     "ex1": "The project took the scenic route, finally reaching completion after eight years. 这个项目经历了一番曲折，八年后才终于完成。",
+     "ex2": "We decided to take the scenic route along the coast instead of the highway. 我们决定走沿海的风景路线，而不是高速公路。"
+    },
+    {
+     "w": "prototype",
+     "ipa": "/ˈprəʊtətaɪp/",
+     "pos": "n.",
+     "en": "the first model of a product from which later versions are developed",
+     "zh": "原型，原型机，样车",
+     "ctx": "原型车，只证明“做得出来”，离“卖得出去”还差量产、法规、成本三道关。",
+     "ex1": "The manufacturer unveiled a prototype of its new electric sports car. 制造商展示了新款电动跑车的原型车。",
+     "ex2": "Engineers tested several prototypes before finalizing the design. 工程师在最终确定设计之前测试了多个原型。"
+    },
+    {
+     "w": "spec",
+     "ipa": "/spek/",
+     "pos": "n.",
+     "en": "a detailed description of the technical features or performance of a product",
+     "zh": "规格，技术参数，性能指标",
+     "ctx": "specifications 的口语缩写，参数党最爱；这里指加速、极速、电池、续航、价格一整套数字。",
+     "ex1": "The new smartphone has impressive specs for its price. 这款新手机以其价格而言拥有令人印象深刻的配置。",
+     "ex2": "Buyers compared the specs of several electric vehicles before making a decision. 买家在作出决定前比较了几款电动汽车的技术参数。"
+    },
+    {
+     "w": "ludicrous",
+     "ipa": "/ˈluːdɪkrəs/",
+     "pos": "adj.",
+     "en": "extremely unreasonable, exaggerated or ridiculous",
+     "zh": "荒唐的，离谱的，夸张得难以置信的",
+     "ctx": "比 ridiculous 更重，带“荒唐到好笑”的意味；作者用它给 2017 年那组参数定性。",
+     "ex1": "The proposed acceleration figures sounded ludicrous to many engineers. 这些拟定的加速数据在许多工程师听来简直离谱。",
+     "ex2": "It would be ludicrous to expect the entire project to be finished overnight. 指望整个项目一夜之间完成简直荒唐。"
+    },
+    {
+     "w": "range",
+     "ipa": "/reɪndʒ/",
+     "pos": "n.",
+     "en": "the distance a vehicle can travel before it needs more fuel or its battery must be recharged",
+     "zh": "续航里程；范围",
+     "ctx": "电动车的“续航”，一次充电能跑多远；620 miles of range 是当年最唬人的数字之一。",
+     "ex1": "The electric vehicle offers a driving range of more than 400 miles. 这款电动汽车的续航里程超过400英里。",
+     "ex2": "Cold weather can reduce the range of an electric car. 寒冷天气可能降低电动汽车的续航里程。"
+    },
+    {
+     "w": "price tag",
+     "ipa": "/ˈpraɪs tæɡ/",
+     "pos": "n.",
+     "en": "the price of something, especially an expensive product",
+     "zh": "价格，标价",
+     "ctx": "字面“价签”，新闻里常指“要花多少钱”，也可引申为某件事的代价。",
+     "ex1": "The luxury sports car comes with a price tag of $200,000. 这款豪华跑车的售价高达20万美元。",
+     "ex2": "The ambitious project carries a substantial price tag. 这个雄心勃勃的项目需要投入巨额资金。"
+    },
+    {
+     "w": "doable",
+     "ipa": "/ˈduːəbl/",
+     "pos": "adj.",
+     "en": "possible to do or achieve",
+     "zh": "可行的，能够完成的",
+     "ctx": "口语化的“办得到”；sounded perfectly doable 埋着伏笔——当时听着可行，后来全没兑现。",
+     "ex1": "The deadline seemed perfectly doable when the project began. 项目刚开始时， 这个截止日期看起来完全能够实现。",
+     "ex2": "The task is challenging, but it is definitely doable. 这项任务虽然具有挑战性，但绝对可以完成。 15. 2017年Roadster发布与“one more thing”（One More Thing） 2017年11月，特斯拉在发布Semi电动卡车的活动上，出人意料地展示了第二代 Roadster原型车。文章用“one more thing”形容这一压轴亮相方式，实际上借用了苹果公司经典的产品发布传统。苹果联合创始人史蒂夫·乔布斯曾多次在发布会接近尾声时说出“One more thing”，随后公布令人期待的重要产品或消息。这种安排通过制造悬念，让最后登场的产品获得更强烈的传播效果。特斯拉当年的Roadster亮相，也利用了类似的戏剧性发布方式。 16. 电池容量与续航里程（kWh and Driving Range） 千瓦时（kilowatt-hour，kWh）是能量单位，常用于衡量电动汽车电池能够储存的电能。 文章提到的200 kWh电池，意味着其标称储能容量为200千瓦时，而不是发动机功率为 200千瓦。电动汽车的续航里程不仅取决于电池容量，还受到车辆重量、空气阻力、行驶速度、温度和驾驶方式等因素的影响。2017年Roadster公布的最高620英里续航里程， 约相当于998公里。对于强调极限加速和高速性能的超级跑车而言，同时实现大容量电池、长续航和轻量化设计，是一项具有挑战性的工程任务。 7.Early adopters quickly threw down $50,000 deposits (or $250,000 for the limited Founders Series), effectively interest-free loans to help fund Tesla’s scaling ambitions. But then Tesla seemed to forget about the Roadster, as cementing its status as the ultimate vaporware. Production deadlines slipped as Tesla prioritized mass-market vehicles like the Model Y, while also wrestling with the overly complicated Cybertruck. Occasionally, when Musk would remember that the Roadster existed, he would up the ante about its capabilities. This culminated in the “SpaceX package” that would equip the supercar with cold-gas thrusters, bestowing hover powers and a 0-60 time under one second. 早期支持者迅速掏出5万美元支付订金，限量版Founders Series的订金则高达25万美元。 这些钱实际上相当于提供给特斯拉的无息贷款，帮助其实现扩大生产规模的雄心。然而， 特斯拉随后似乎把Roadster忘在了脑后，进一步坐实了它作为终极“画饼产品”的地位。 随着特斯拉将重心转向Model Y等面向大众市场的车型，同时还要应对设计过于复杂的 Cybertruck，Roadster的生产期限一再推迟。偶尔，当马斯克想起Roadster的存在时， 他又会进一步提高对其性能的承诺。最终，这些不断升级的设想发展成了所谓的 “SpaceX套件”：通过为这款超级跑车配备冷气体推进器，赋予它悬浮能力，并实现不到一秒的零至每小时60英里加速。"
+    }
+   ]
+  },
+  {
+   "en_html": "<mark class=\"voc\">Early adopters</mark> quickly <mark class=\"voc\">threw down</mark> $50,000 <mark class=\"voc\">deposits</mark> (or $250,000 for the limited Founders Series), effectively interest-free loans to help fund Tesla’s scaling ambitions. But then Tesla seemed to forget about the Roadster, as <mark class=\"voc\">cementing</mark> its status as the ultimate <mark class=\"voc\">vaporware</mark>. Production deadlines slipped as Tesla <mark class=\"voc\">prioritized</mark> mass-market vehicles like the Model Y, while also <mark class=\"voc\">wrestling with</mark> the overly complicated Cybertruck. Occasionally, when Musk would remember that the Roadster existed, he would <mark class=\"voc\">up the ante</mark> about its capabilities. This <mark class=\"voc\">culminated in</mark> the “SpaceX package” that would equip the supercar with cold-gas thrusters, <mark class=\"voc\">bestowing</mark> hover powers and a 0-60 time under one second.",
+   "zh": "早期支持者迅速掏出5万美元支付订金，限量版Founders Series的订金则高达25万美元。这些钱实际上相当于提供给特斯拉的无息贷款，帮助其实现扩大生产规模的雄心。然而，特斯拉随后似乎把Roadster忘在了脑后，进一步坐实了它作为终极“画饼产品”的地位。随着特斯拉将重心转向Model Y等面向大众市场的车型，同时还要应对设计过于复杂的Cybertruck，Roadster的生产期限一再推迟。偶尔，当马斯克想起Roadster的存在时，他又会进一步提高对其性能的承诺。最终，这些不断升级的设想发展成了所谓的“SpaceX套件”：通过为这款超级跑车配备冷气体推进器，赋予它悬浮能力，并实现不到一秒的零至每小时60英里加速。",
+   "notes": [
+    {
+     "w": "early adopter",
+     "ipa": "/ˌɜːli əˈdɒptə/",
+     "pos": "n.",
+     "en": "a person who begins using a new product or technology before most other people",
+     "zh": "早期采用者，尝鲜用户",
+     "ctx": "科技行业的“尝鲜者”：愿意为新东西先掏钱、也先承担风险的那批人。",
+     "ex1": "Early adopters were willing to pay large deposits for the new electric car. 早期尝鲜用户愿意为这款新电动汽车支付高额订金。",
+     "ex2": "Early adopters often help new technologies gain public attention. 早期采用者往往有助于新技术获得公众关注。"
+    },
+    {
+     "w": "throw down",
+     "ipa": "/θrəʊ daʊn/",
+     "pos": "phr. v.",
+     "en": "to spend or pay a significant amount of money, often quickly or without hesitation",
+     "zh": "豪掷，爽快掏出（钱）",
+     "ctx": "俚语“掏钱、砸钱”，比 pay 多一层“爽快、不含糊”的态度。",
+     "ex1": "Fans threw down thousands of dollars to reserve the limited-edition car. 粉丝们豪掷数千美元预订这款限量版汽车。",
+     "ex2": "He threw down $500 for a concert ticket without thinking twice. 他毫不犹豫地花了500美元买了一张演唱会门票。"
+    },
+    {
+     "w": "deposit",
+     "ipa": "/dɪˈpɒzɪt/",
+     "pos": "n.",
+     "en": "an amount of money paid in advance as part of the total cost of something",
+     "zh": "订金，预付款；存款",
+     "ctx": "订金，先付一部分把东西订下来；文章点破它其实是给厂家的无息资金。",
+     "ex1": "Customers were required to pay a deposit to reserve the vehicle. 顾客需要支付订金才能预订这款汽车。",
+     "ex2": "She paid a deposit on the apartment before signing the contract. 她在签订合同前支付了公寓的订金。"
+    },
+    {
+     "w": "cement",
+     "ipa": "/sɪˈment/",
+     "pos": "v.",
+     "en": "to make a position, reputation or relationship stronger and more firmly established",
+     "zh": "巩固，确立，使更加牢固",
+     "ctx": "名词“水泥”，动词“把……砌牢”，引申为“坐实”某种名声——这里坐实的是“画饼”。",
+     "ex1": "Repeated delays cemented the product’s reputation as an empty promise. 一再延期使这款产品“空头承诺”的名声更加根深蒂固。",
+     "ex2": "The victory cemented her position as one of the world’s best athletes. 这场胜利巩固了她作为世界顶尖运动员之一的地位。"
+    },
+    {
+     "w": "vaporware",
+     "ipa": "/ˈveɪpəweə/",
+     "pos": "n.",
+     "en": "a product, especially software or technology, that is announced or advertised but never actually released",
+     "zh": "只宣传却迟迟不上市的产品；“画饼产品”",
+     "ctx": "科技圈黑话：vapor（蒸汽）＋ware（产品），指“只活在发布会里”的东西。",
+     "ex1": "After years of delays, the promised device became known as vaporware. 经过多年的延期，这款曾经承诺推出的设备被人们称为“画饼产品”。",
+     "ex2": "Investors worried that the ambitious project would turn into vaporware. 投资者担心这个雄心勃勃的项目最终会沦为只停留在宣传中的产品。"
+    },
+    {
+     "w": "prioritize",
+     "ipa": "/praɪˈɒrətaɪz/",
+     "pos": "v.",
+     "en": "to treat something as more important than other things and deal with it first",
+     "zh": "优先考虑，优先处理",
+     "ctx": "排优先级：把 A 放在 B 前面，就意味着 B 要等——Roadster 就是那个被等的。",
+     "ex1": "The company prioritized affordable electric vehicles over expensive sports cars. 该公司优先发展价格亲民的电动汽车，而不是昂贵的跑车。",
+     "ex2": "Students should learn to prioritize their most important tasks. 学生应该学会优先处理最重要的任务。"
+    },
+    {
+     "w": "wrestle with",
+     "ipa": "/ˈresl wɪð/",
+     "pos": "phr. v.",
+     "en": "to struggle to deal with a difficult problem or situation",
+     "zh": "努力应对，艰难处理，与……作斗争",
+     "ctx": "本义“摔跤”，引申为“跟难题缠斗”，比 deal with 更有吃力感。",
+     "ex1": "Engineers wrestled with technical problems for several years. 工程师们花了数年时间努力解决技术难题。",
+     "ex2": "The government is wrestling with rising housing costs. 政府正在努力应对不断上涨的住房成本。"
+    },
+    {
+     "w": "up the ante",
+     "ipa": "/ʌp ði ˈænti/",
+     "pos": "idiom",
+     "en": "to increase the level of risk, effort, demands or expectations in a situation",
+     "zh": "加大赌注，提高要求，进一步抬高标准",
+     "ctx": "扑克术语“加注”，引申为“把筹码、标准往上抬”；这里指一次次加码性能承诺。",
+     "ex1": "The company upped the ante by promising even faster acceleration. 该公司进一步加码，承诺实现更快的加速性能。",
+     "ex2": "Competitors upped the ante by introducing more advanced technology. 竞争对手推出更先进的技术，进一步提高了竞争门槛。"
+    },
+    {
+     "w": "culminate in",
+     "ipa": "/ˈkʌlmɪneɪt ɪn/",
+     "pos": "phr. v.",
+     "en": "to reach a final or particularly important result after a series of events",
+     "zh": "最终导致，以……告终，达到……的高潮",
+     "ctx": "一系列事情“最终走到”某个结果，强调过程累积之后的终点。",
+     "ex1": "Years of research culminated in the development of a revolutionary engine. 多年的研究最终促成了一款革命性发动机的诞生。",
+     "ex2": "The negotiations culminated in a historic agreement. 谈判最终达成了一项历史性协议。"
+    },
+    {
+     "w": "bestow",
+     "ipa": "/bɪˈstəʊ/",
+     "pos": "v.",
+     "en": "to give someone or something a quality, ability, honour or gift",
+     "zh": "赋予，授予，赐予",
+     "ctx": "正式、带授予意味的“赋予”，常配荣誉、能力；用在这里像给车发超能力。",
+     "ex1": "The new propulsion system could bestow remarkable abilities on the vehicle. 新推进系统可能赋予这辆汽车非凡的能力。",
+     "ex2": "The university bestowed an honorary degree upon the scientist. 这所大学授予了这位科学家荣誉学位。 17. Founders Series与特斯拉预订制度（Founders Series） Founders Series是特斯拉为第二代Roadster设置的限量版本。2017年Roadster公布时，普通版本的预订者需要支付5万美元订金，而Founders Series的预订金额高达25 万美元，对应当时公布的整车价格。对于尚未进入量产阶段的产品，提前收取订金能够帮助企业了解市场需求，并在一定条件下提供资金支持。但订金的退款安排、会计处理以及能否用于企业运营，取决于具体合同和财务制度。文章将这些预付款比作“无息贷款”，主要是为了突出消费者在等待交付期间提前向企业提供了资金。 18. Vaporware与科技行业的“画饼文化”（Vaporware） Vaporware是科技行业中的一个带有贬义的术语，指企业已经高调宣布、宣传甚至接受预订，却长期未能真正上市的产品。这个词由vapor（蒸汽）和ware（商品、软件产品） 组合而成，暗示产品仿佛只是飘浮在空气中的概念。它最初主要用于计算机软件行业， 后来逐渐扩展到硬件和其他科技产品。Vaporware并不必然意味着企业实施欺诈，有些产品确实因为技术困难、资金问题或战略调整而延期。文章将Roadster称为ultimate vaporware，是对其多年无法兑现交付承诺的一种尖锐讽刺。 8.Musk has also sought to downplay the Roadster’s significance, calling it a “small potato situation” that will not “move the needle in a major way financially.” He’s framed the supercar more as a joint engineering collaboration between Tesla and SpaceX, even questioning whether it’s “even a car anymore” given its experimental nature. Some analysts theorize that the decision to re-release the Roadster is an attempt to set the stage for a rumored Tesla-SpaceX merger. 马斯克也曾试图淡化Roadster的重要性，称它不过是件“小事”，不会在财务层面产生什么重大影响。他更多地将这款超级跑车描述为特斯拉与SpaceX之间的一项联合工程合作，甚至考虑到它的实验性质，还质疑它“究竟还能不能算是一辆汽车”。一些分析师推测，特斯拉决定重新推出Roadster，可能是在为传闻中的特斯拉与SpaceX合并计划铺路。"
+    }
+   ]
+  },
+  {
+   "en_html": "Musk has also sought to <mark class=\"voc\">downplay</mark> the Roadster’s significance, calling it a “<mark class=\"voc\">small potato</mark> situation” that will not “<mark class=\"voc\">move the needle</mark> in a major way financially.” He’s <mark class=\"voc\">framed</mark> the supercar more as a joint engineering <mark class=\"voc\">collaboration</mark> between Tesla and SpaceX, even questioning whether it’s “even a car anymore” given its experimental nature. Some analysts <mark class=\"voc\">theorize</mark> that the decision to re-release the Roadster is an attempt to <mark class=\"voc\">set the stage for</mark> a rumored Tesla-SpaceX <mark class=\"voc\">merger</mark>.",
+   "zh": "马斯克也曾试图淡化Roadster的重要性，称它不过是件“小事”，不会在财务层面产生什么重大影响。他更多地将这款超级跑车描述为特斯拉与SpaceX之间的一项联合工程合作，甚至考虑到它的实验性质，还质疑它“究竟还能不能算是一辆汽车”。一些分析师推测，特斯拉决定重新推出Roadster，可能是在为传闻中的特斯拉与SpaceX合并计划铺路。",
+   "notes": [
+    {
+     "w": "downplay",
+     "ipa": "/ˌdaʊnˈpleɪ/",
+     "pos": "v.",
+     "en": "to make something seem less important, serious or significant than it really is",
+     "zh": "淡化，轻描淡写，降低……的重要性",
+     "ctx": "故意“往小里说”，与 play up 相对；马斯克用它给外界期望降温。",
+     "ex1": "The CEO tried to downplay the importance of the delayed project. 首席执行官试图淡化这个延期项目的重要性。",
+     "ex2": "Officials downplayed concerns about the company’s financial difficulties. 官员们淡化了外界对公司财务困境的担忧。"
+    },
+    {
+     "w": "small potatoes",
+     "ipa": "/ˌsmɔːl pəˈteɪtəʊz/",
+     "pos": "idiom",
+     "en": "something or someone considered unimportant or insignificant",
+     "zh": "小事一桩；无足轻重的事情",
+     "ctx": "习语“小土豆”，指不值一提的小事；加了 situation 更像随口一句轻描淡写。",
+     "ex1": "Compared with the company’s main business, the sports car project is small potatoes. 与公司的主营业务相比，这个跑车项目不过是小事一桩。",
+     "ex2": "The loss seemed like small potatoes compared with the larger financial crisis. 与更严重的金融危机相比，这笔损失显得微不足道。"
+    },
+    {
+     "w": "move the needle",
+     "ipa": "/muːv ðə ˈniːdl/",
+     "pos": "idiom",
+     "en": "to make a noticeable or meaningful difference to a situation or result",
+     "zh": "产生实质性影响，带来明显改变",
+     "ctx": "仪表指针动一下＝数据有可见变化；否定式就是“掀不起水花”。",
+     "ex1": "The new product is unlikely to move the needle on the company’s overall profits. 这款新产品不太可能显著改变公司的整体利润。",
+     "ex2": "Small improvements may not move the needle unless they are implemented at scale. 小幅改进如果不能大规模实施，就可能无法产生明显影响。"
+    },
+    {
+     "w": "frame",
+     "ipa": "/freɪm/",
+     "pos": "v.",
+     "en": "to present or describe something in a particular way that influences how people understand it",
+     "zh": "将……描述为；以特定方式呈现或界定",
+     "ctx": "名词“框架”，动词“框定、包装成某种说法”，直接影响别人怎么理解这件事。",
+     "ex1": "The company framed the project as an experiment rather than a commercial product. 该公司将这个项目描述为一项实验，而非商业产品。",
+     "ex2": "The media framed the announcement as a major turning point for the industry. 媒体将这项宣布描述为行业的重大转折点。"
+    },
+    {
+     "w": "collaboration",
+     "ipa": "/kəˌlæbəˈreɪʃn/",
+     "pos": "n.",
+     "en": "the act of working together with another person or organization to achieve a shared goal",
+     "zh": "合作，协作",
+     "ctx": "比 cooperation 更强调“一起做同一个项目”，常指跨机构联合研发。",
+     "ex1": "The vehicle was developed through a collaboration between two engineering teams. 这款汽车由两个工程团队合作开发。",
+     "ex2": "International collaboration is essential for major scientific discoveries. 国际合作对于重大科学发现至关重要。"
+    },
+    {
+     "w": "theorize",
+     "ipa": "/ˈθɪəraɪz/",
+     "pos": "v.",
+     "en": "to suggest a possible explanation for something based on available information",
+     "zh": "推测，提出理论，作出假设",
+     "ctx": "基于现有信息的“推测”，语气比 claim 弱，明示“尚未证实”。",
+     "ex1": "Analysts theorized that the announcement was part of a larger business strategy. 分析师推测，这项宣布是更大商业战略的一部分。",
+     "ex2": "Scientists theorize that the planet may once have contained liquid water. 科学家推测这颗行星过去可能存在液态水。"
+    },
+    {
+     "w": "set the stage for",
+     "ipa": "/set ðə steɪdʒ fɔː/",
+     "pos": "idiom",
+     "en": "to create the conditions that make a future event or development possible",
+     "zh": "为……铺路，为……创造条件",
+     "ctx": "舞台隐喻：把台子搭好，好戏才上场；指为后续事件创造条件。",
+     "ex1": "The partnership could set the stage for a major merger. 这项合作可能为一场重大合并铺平道路。",
+     "ex2": "The discovery set the stage for further advances in medical research. 这一发现为医学研究的进一步突破创造了条件。"
+    },
+    {
+     "w": "merger",
+     "ipa": "/ˈmɜːdʒə/",
+     "pos": "n.",
+     "en": "the joining of two or more companies or organizations into a single entity",
+     "zh": "合并，企业并购",
+     "ctx": "两家公司并成一家；文章特意加 rumored，说明这还只是传闻。",
+     "ex1": "Investors reacted positively to rumours of a merger between the two companies. 投资者对两家公司可能合并的传闻作出了积极反应。",
+     "ex2": "The merger created one of the largest technology companies in the industry. 这次合并造就了行业内规模最大的科技公司之一。 19. 特斯拉与SpaceX的商业关系（Tesla and SpaceX） 特斯拉与SpaceX是两家不同的企业，分别以电动汽车、能源技术和航天工程为主要业务方向，但都与马斯克密切相关。两家公司在工程人才、材料技术、制造经验和技术理念等方面存在潜在的合作空间。Roadster所提出的冷气体推进器等技术，正体现了汽车工程与航天工程之间的交叉。文章提到，一些分析师推测Roadster重新亮相可能是在为特斯拉与SpaceX的潜在合并铺路。不过，这属于分析师的推测，不能将企业之间的技术合作直接等同于已经确定的合并计划。 9.Tesla’s failure to bring the Roadster to market allowed other automakers to slip past the company with their own hyper-powered EVs. Rimac has smashed performance records with the Nevera, Porsche has refined electric performance with the Taycan, and Chinese giants like BYD are producing track-ready supercars at a fraction of the cost. The Roadster is no longer shocking the world as an impossible prototype; it’s playing catch-up to an industry that spent nine years building what Tesla merely rendered. But then again, none of those cars flew. 特斯拉迟迟未能将Roadster推向市场，让其他汽车制造商得以凭借各自的超高性能电动汽车实现反超。Rimac凭借Nevera打破了多项性能纪录，保时捷通过Taycan不断完善电动汽车的性能表现，而比亚迪等中国汽车巨头则正在以远低于竞争对手的成本生产能够驰骋赛道的超级跑车。如今，Roadster已经不再是一款凭借看似不可能实现的性能参数震惊世界的原型车。相反，它正在奋力追赶整个行业——在过去九年里，其他车企真正造出了特斯拉当年仅仅停留在效果图上的东西。不过话说回来，那些车可没有一辆会飞。"
+    }
+   ]
+  },
+  {
+   "en_html": "Tesla’s failure to <mark class=\"voc\">bring the Roadster to market</mark> allowed other automakers to <mark class=\"voc\">slip past</mark> the company with their own hyper-powered EVs. Rimac has <mark class=\"voc\">smashed performance records</mark> with the Nevera, Porsche has refined electric performance with the Taycan, and Chinese giants like BYD are producing <mark class=\"voc\">track-ready</mark> supercars <mark class=\"voc\">at a fraction of the cost</mark>. The Roadster is no longer shocking the world as an impossible prototype; it’s <mark class=\"voc\">playing catch-up</mark> to an industry that spent nine years building what Tesla merely <mark class=\"voc\">rendered</mark>. But then again, none of those cars flew.",
+   "zh": "特斯拉迟迟未能将Roadster推向市场，让其他汽车制造商得以凭借各自的超高性能电动汽车实现反超。Rimac凭借Nevera打破了多项性能纪录，保时捷通过Taycan不断完善电动汽车的性能表现，而比亚迪等中国汽车巨头则正在以远低于竞争对手的成本生产能够驰骋赛道的超级跑车。如今，Roadster已经不再是一款凭借看似不可能实现的性能参数震惊世界的原型车。相反，它正在奋力追赶整个行业——在过去九年里，其他车企真正造出了特斯拉当年仅仅停留在效果图上的东西。不过话说回来，那些车可没有一辆会飞。",
+   "notes": [
+    {
+     "w": "bring to market",
+     "ipa": "/brɪŋ tuː ˈmɑːkɪt/",
+     "pos": "phr.",
+     "en": "to make a new product available for customers to buy",
+     "zh": "将……推向市场，使……上市销售",
+     "ctx": "把产品“送到市场上”，即跑完量产、认证、销售全过程。",
+     "ex1": "The company struggled to bring its innovative vehicle to market. 该公司在将创新车型推向市场的过程中困难重重。",
+     "ex2": "It can take years to bring a new medical technology to market. 将一项新医疗技术推向市场可能需要数年时间。"
+    },
+    {
+     "w": "slip past",
+     "ipa": "/slɪp pɑːst/",
+     "pos": "phr. v.",
+     "en": "to move ahead of or overtake someone or something, sometimes gradually or unexpectedly",
+     "zh": "悄然超过，反超",
+     "ctx": "悄无声息地“溜过去、超过去”，比 overtake 多一层“对方没察觉”的意味。",
+     "ex1": "Several competitors slipped past the market leader with more advanced products. 几家竞争对手凭借更先进的产品悄然超越了市场领导者。",
+     "ex2": "The runner slipped past his rival just before the finish line. 这名跑者在终点线前悄然超过了对手。"
+    },
+    {
+     "w": "smash records",
+     "ipa": "/smæʃ ˈrekɔːdz/",
+     "pos": "phr.",
+     "en": "to break existing records by achieving significantly better results",
+     "zh": "打破纪录，刷新纪录",
+     "ctx": "smash 比 break 更有“砸碎”的力量感，强调破纪录的幅度。",
+     "ex1": "The electric hypercar smashed several acceleration records. 这款电动超级跑车打破了多项加速纪录。",
+     "ex2": "The athlete smashed the world record in the final race. 这名运动员在决赛中大幅刷新了世界纪录。"
+    },
+    {
+     "w": "track-ready",
+     "ipa": "/ˈtræk ˌredi/",
+     "pos": "adj.",
+     "en": "designed or equipped to perform effectively on a racing track",
+     "zh": "适合赛道驾驶的，具备赛道性能的",
+     "ctx": "复合形容词：出厂就能下赛道，不必再改装。",
+     "ex1": "The manufacturer unveiled a track-ready electric supercar. 这家制造商发布了一款具备赛道性能的电动超级跑车。",
+     "ex2": "The track-ready model features upgraded brakes and suspension. 这款赛道版车型配备了升级的刹车和悬架系统。"
+    },
+    {
+     "w": "at a fraction of the cost",
+     "ipa": "/æt ə ˈfrækʃn əv ðə kɒst/",
+     "pos": "phr.",
+     "en": "at a much lower price than something else",
+     "zh": "以远低于……的成本或价格",
+     "ctx": "fraction 是“零头”，即“只花对方几分之一的钱”。",
+     "ex1": "The company offers similar performance at a fraction of the cost. 该公司以远低于竞争对手的成本提供相近的性能。",
+     "ex2": "Online courses can provide quality education at a fraction of the cost of traditional programmes. 在线课程能够以远低于传统课程的费用提供优质教育。"
+    },
+    {
+     "w": "play catch-up",
+     "ipa": "/pleɪ ˈkætʃ ʌp/",
+     "pos": "idiom",
+     "en": "to try to reach the same level as competitors who have already made greater progress",
+     "zh": "奋力追赶，努力弥补落后差距",
+     "ctx": "比赛中落后一方“追分”，引申为“补课、追赶”。",
+     "ex1": "After years of delays, the company is now playing catch-up with its competitors. 经过多年的延期，这家公司如今正奋力追赶竞争对手。",
+     "ex2": "Traditional manufacturers are playing catch-up in the electric vehicle market. 传统制造商正在电动汽车市场奋力追赶。"
+    },
+    {
+     "w": "render",
+     "ipa": "/ˈrendə/",
+     "pos": "v.",
+     "en": "to produce a digital image or visual representation of a proposed design",
+     "zh": "渲染，生成效果图",
+     "ctx": "用软件“渲染”出图；作者拿它和 building 对照——一个造图，一个造车。",
+     "ex1": "The designers rendered a detailed image of the futuristic vehicle. 设计师渲染出了一张未来汽车的精细效果图。",
+     "ex2": "The company presented a beautifully rendered concept but never built a working prototype. 该公司展示了精美的概念效果图，却始终没有制造出能够实际运行的原型。 20. Rimac Nevera、保时捷Taycan与中国高性能电动汽车（The Global Electric Hypercar Race） Rimac是一家来自克罗地亚的高性能电动汽车制造商，以电池技术和电动超级跑车闻名。其Nevera车型凭借强大的电动动力系统创造了多项加速和性能纪录。保时捷 Taycan则是德国豪华汽车制造商保时捷推出的纯电动高性能车型，强调运动操控与日常驾驶体验的结合。中国汽车制造商也在快速进入高性能电动车领域，例如比亚迪旗下仰望品牌推出的U9电动超级跑车。文章将这些车型与Roadster进行对比，突出一个重要变化：2017年Roadster公布的许多惊人性能指标，经过多年技术发展，已经不再是其他制造商完全无法企及的目标。特斯拉曾经依靠未来愿景震撼世界，如今却必须面对竞争对手已经实现的技术成果。 20261018 是的，特斯拉真造了一辆「飞行汽车」！中国官网开放预订，意向金33.2万元，你会买吗？ 翻译作业 ： 马斯克终于展示了新一代特斯拉Roadster。这辆超级跑车不仅能够倒挂行驶、短暂飞行，还声称可以在不到一秒内加速至每小时60英里，整场发布会更像是一场令人惊叹的特技表演。（accelerate, stunt） 然而，这款车能否真正投入生产仍存在诸多限制，也许永远不会正式投产。（regulatory, go into production） 事实上，Roadster早在2017年就以原型车的形式亮相，但多年来不断推迟交付，甚至被讽刺为一款只停留在宣传中的“画饼产品”。（prototype, vaporware, broken promises） 与此同时，其他汽车制造商已经推出了性能强大的电动超级跑车。曾经引领未来的特斯拉，如今反而需要奋力追赶竞争对手。（smash records, play catch-up） 不过，正如作者在结尾调侃的那样：其他公司的跑车再厉害，至少它们还不会飞。 20261018 是的，特斯拉真造了一辆「飞行汽车」！中国官网开放预订，意向金33.2万元，你会买吗？ 参考答案 ： Tesla finally demonstrated its new Roadster, which could drive upside down, fly briefly and accelerate to 60mph in under a second. The event looked more like a spectacular stunt show than a product launch. However, the car faces serious regulatory challenges and may never go into production. First introduced as a prototype in 2017, the Roadster suffered years of delays and broken promises, earning a reputation as vaporware. Meanwhile, competitors have smashed performance records, leaving Tesla playing catch-up. Yet the author ends with a humorous reminder: none of those competing cars could fly."
+    }
+   ]
+  }
+ ],
+ "proper": [
+  {
+   "name": "Elon Musk / 埃隆·马斯克",
+   "def": "埃隆·马斯克是美国企业家，担任特斯拉（Tesla）首席执行官，同时领导太空探索公司SpaceX。他以提出大胆的技术愿景而闻名，包括可重复使用火箭、自动驾驶汽车、火星移民以及能够短暂飞行的超级跑车。马斯克的个人风格与特斯拉的品牌形象密切相关：一方面，他善于通过突破常规的技术承诺吸引全球关注；另一方面，一些产品的实际交付时间与最初承诺存在明显差距。Roadster正是这种技术雄心与商业兑现之间矛盾的典型案例。<br>本文中的意思：文章的主角兼“首席许诺人”：飞行、悬浮、1 秒破百这些卖点，全出自他的口头承诺。"
+  },
+  {
+   "name": "Tesla Roadster / 特斯拉 Roadster 的起源",
+   "def": "Roadster是特斯拉历史上具有特殊意义的车型。2008年，第一代Tesla Roadster正式开始交付，它基于莲花Elise跑车平台开发，是特斯拉最早实现商业化生产的电动汽车。这款车证明了电动汽车不仅可以满足日常出行需求，也能够提供跑车级别的性能。2017年，特斯拉公布第二代Roadster，计划将其打造为性能远超传统超级跑车的电动车型。与面向大众市场的Model 3、Model Y不同，Roadster更承担着展示品牌技术极限的任务。<br>本文中的意思：全文的中心物件：2017 年就亮相、却九年未能量产的那台电动超跑。"
+  },
+  {
+   "name": "Waco, Texas / 得克萨斯州韦科市",
+   "def": "韦科位于美国得克萨斯州中部，处于达拉斯与奥斯汀之间。得克萨斯州近年来成为美国汽车制造、航天工程和高科技产业的重要发展地区。特斯拉在奥斯汀附近建设了大型超级工厂Gigafactory Texas，SpaceX也在得州南部的Starbase开展火箭研发和发射活动。文章提到的Roadster展示活动在韦科举行，使这一地区再次与马斯克旗下企业的前沿工程技术联系起来。<br>本文中的意思：演示地点，也是“发布会办成特技秀”这个判断的地理出处。"
+  },
+  {
+   "name": "0–60 mph / 零至 60 英里加速",
+   "def": "0–60 mph是美国汽车行业衡量车辆加速性能的常用指标，表示汽车从静止加速到每小时60英里所需的时间。60英里约等于96.6公里，因此它与中文汽车媒体常说的“零百加速”（0–100 km/h）非常接近，但并不完全相同。传统高性能跑车通常需要数秒完成这一过程，而文章中的Roadster声称仅用0.81秒便达到60 mph。如此极端的加速性能不仅取决于动力系统，也受到轮胎抓地力、车辆质量、空气动力学及推进技术等因素的影响。<br>本文中的意思：全文反复出现的计时方式：1 秒、0.81 秒、1.9 秒都拿它当尺子。"
+  },
+  {
+   "name": "Cold-Gas Thrusters / SpaceX 与冷气体推进器",
+   "def": "SpaceX成立于2002年，是马斯克创办的商业航天公司，以可重复使用火箭、卫星互联网及载人航天技术闻名。文章中的Roadster使用了与SpaceX相关的冷气体推进技术。冷气体推进器通过释放储存在高压容器中的气体产生反作用力，从而推动设备或调整其姿态。与依靠燃烧产生推力的火箭发动机不同，冷气体推进器不需要在喷射过程中进行化学燃烧，常用于航天器的小幅姿态调整。将这种技术应用于汽车，是Roadster区别于传统电动跑车的重要设计思路。<br>本文中的意思：“像火箭一样飞”的技术底牌，也是文章质疑“这还算不算车”的由来。"
+  },
+  {
+   "name": "Downforce and Fan-Based Suction / 下压力与风扇吸附系统",
+   "def": "下压力是使车辆压向路面的作用力，能够提高轮胎与道路之间的附着能力。传统赛车主要通过车身外形、尾翼和底部空气流动产生空气动力学下压力，而风扇吸附系统则利用主动抽吸车底空气的方式，在车底形成较低气压，从而产生额外的吸附力。文章称Roadster的系统能够产生高达两个G的吸附力。这里的G通常表示以重力加速度为基准的加速度或力的相对大小。风扇辅助产生下压力并非全新概念，1978年的BrabhamBT46B一级方程式赛车就因采用风扇辅助系统而闻名。<br>本文中的意思：解释“倒挂行驶”为什么不是特效——车是被吸在路面上的。"
+  },
+  {
+   "name": "Tesla Vehicle Lineup / 特斯拉车型阵容",
+   "def": "文章列举了特斯拉的多种车型，体现其从乘用车向商用运输和自动驾驶领域扩展的产品布局。Model 3是面向大众市场的电动轿车，Model Y是电动SUV；Cybertruck以棱角分明的不锈钢车身设计著称；Tesla Semi是面向货运行业的电动半挂卡车；Cybercab则是特斯拉提出的专为自动驾驶出行服务设计的双座车辆。这些车型分别代表特斯拉在大众消费、商用运输和无人驾驶等不同领域的技术方向。<br>本文中的意思：被飞越的那一排车，说明 Roadster 在品牌里是“技术图腾”而非走量产品。"
+  },
+  {
+   "name": "Attitude Control System / 姿态控制系统",
+   "def": "在航空航天领域，attitude并不是日常英语中的“态度”，而是指飞行器在空间中的朝向和姿态。姿态控制系统负责调节飞行器的俯仰、偏航和滚转，使其能够在空中保持稳定或完成特定动作。传统汽车主要通过方向盘控制平面内的行驶方向，而一旦车辆离开地面，就需要考虑三维空间中的姿态控制。文章中Roadster的空中翻转动作，正是这一航空航天技术概念在汽车演示中的体现。<br>本文中的意思：说明 Roadster 的空中动作已经是飞行器逻辑，不再是汽车逻辑。"
+  },
+  {
+   "name": "Rocket Flight vs. Flying Cars / 火箭飞行与汽车飞行的区别",
+   "def": "传统汽车依靠轮胎与地面之间的作用力实现加速、制动和转向，而火箭通过向后喷射物质产生反作用力，因此不需要依靠道路就能够获得推力。马斯克所说的Roadster能够“像火箭一样飞行”，强调的是其利用推进器进行短暂离地和姿态调整的能力。不过，短暂腾空、悬浮与持续受控飞行属于不同的技术能力。真正能够作为交通工具使用的飞行汽车，还需要解决持续升力、能源消耗、稳定性、紧急降落和运行安全等问题。<br>本文中的意思：给“会飞”划边界：短暂腾空并不等于能当交通工具用。"
+  },
+  {
+   "name": "This Is Spinal Tap / “11 out of 10”的文化来源",
+   "def": "马斯克所说的“11 out of 10”不仅是一种数学上故意夸张的说法，也让人联想到1984年英国摇滚伪纪录片《This Is Spinal Tap》中的著名笑话。影片中，一名摇滚乐手展示自己的音箱，声称普通音箱的音量刻度最高只有10，而他的音箱可以调到11，仿佛因此就能比其他音箱更响。此后，“turn it up to eleven”逐渐成为英语流行文化中的经典表达，用来形容把某种体验、强度或表现推向超出常规的极限。马斯克用这一表达强调Roadster追求的是近乎荒诞的驾驶乐趣。<br>本文中的意思：“11 分”这个梗的出处，也解释了作者为何说这是一种近乎荒诞的乐趣。"
+  },
+  {
+   "name": "FAA — Federal Aviation Administration / 美国联邦航空管理局",
+   "def": "FAA是美国联邦航空管理局，隶属于美国交通部，主要负责民用航空安全监管、航空器适航认证、飞行员资格管理及国家空域系统的运行管理。对于具备飞行能力的车辆，是否需要获得FAA认证，取决于其实际设计、运行方式和适用法规。汽车能够在展示场地短暂腾空，并不意味着它已经获得在公共空域中飞行的许可。如果Roadster未来被设计为可供消费者使用的飞行器，其航空安全和运行合规问题将成为重要挑战。<br>本文中的意思：第一道监管关：能飞，不等于被允许在公共空域飞。"
+  },
+  {
+   "name": "NHTSA — National Highway Traffic Safety Administration / 美国国家公路交通安全管理局",
+   "def": "NHTSA是美国国家公路交通安全管理局，同样隶属于美国交通部，主要负责制定和执行机动车安全标准，并管理车辆安全缺陷调查与召回等事务。美国市场上的普通道路机动车通常需要符合适用的联邦机动车安全标准。对于Roadster这样兼具高性能汽车与实验性推进装置特征的产品，车辆碰撞安全、乘员保护以及特殊装置的运行风险都可能涉及监管问题。文章同时提到FAA和NHTSA，正是为了说明一辆能够飞行的汽车可能需要面对不同于传统汽车的复杂监管环境。<br>本文中的意思：第二道监管关：能上路，还要过碰撞安全与召回那一整套。"
+  },
+  {
+   "name": "Newton’s Second Law of Motion / 牛顿第二运动定律",
+   "def": "牛顿第二运动定律是经典力学的基本规律之一，通常写作F=ma，其中F表示物体所受的合外力，m表示质量，a表示加速度。对于质量不变的物体，在其他条件相同的情况下，合外力越大，加速度越大；质量越小，相同的合外力产生的加速度也越大。马斯克在文章中提到增加作用力、减轻车辆质量，就是对这一基本物理规律的应用。不过，实际汽车的加速表现还受到轮胎抓地力、空气阻力、动力系统输出以及驾驶者能够承受的加速度等因素的限制。<br>本文中的意思：马斯克解释 0.81 秒的物理学依据：加大作用力、减轻质量。"
+  },
+  {
+   "name": "Mach Number / 马赫数与音速",
+   "def": "马赫数以奥地利物理学家恩斯特·马赫（Ernst Mach）的名字命名，表示物体运动速度与当地音速的比值。Mach 1表示一倍音速，Mach 0.5表示音速的一半。由于音速受到空气温度等条件影响，马赫数并不对应一个在所有环境下都固定不变的速度。在标准海平面附近的常见条件下，Mach 0.5大约相当于每小时600多公里。文章中马斯克提到这一速度，进一步突出了他对Roadster极限性能的大胆设想。<br>本文中的意思：“0.5 马赫”的具体量级，用来凸显这个加速目标有多离谱。"
+  },
+  {
+   "name": "One More Thing / 2017 年 Roadster 发布与“one more thing”",
+   "def": "2017年11月，特斯拉在发布Semi电动卡车的活动上，出人意料地展示了第二代Roadster原型车。文章用“one more thing”形容这一压轴亮相方式，实际上借用了苹果公司经典的产品发布传统。苹果联合创始人史蒂夫·乔布斯曾多次在发布会接近尾声时说出“One more thing”，随后公布令人期待的重要产品或消息。这种安排通过制造悬念，让最后登场的产品获得更强烈的传播效果。特斯拉当年的Roadster亮相，也利用了类似的戏剧性发布方式。<br>本文中的意思：2017 年那次“压轴惊喜”的发布套路，也正是九年等待的起点。"
+  },
+  {
+   "name": "kWh and Driving Range / 电池容量与续航里程",
+   "def": "千瓦时（kilowatt-hour，kWh）是能量单位，常用于衡量电动汽车电池能够储存的电能。文章提到的200 kWh电池，意味着其标称储能容量为200千瓦时，而不是发动机功率为200千瓦。电动汽车的续航里程不仅取决于电池容量，还受到车辆重量、空气阻力、行驶速度、温度和驾驶方式等因素的影响。2017年Roadster公布的最高620英里续航里程，约相当于998公里。对于强调极限加速和高速性能的超级跑车而言，同时实现大容量电池、长续航和轻量化设计，是一项具有挑战性的工程任务。<br>本文中的意思：620 英里续航，是当年参数表里最唬人的一项。"
+  },
+  {
+   "name": "Founders Series / 限量创始人系列与预订制度",
+   "def": "Founders Series是特斯拉为第二代Roadster设置的限量版本。2017年Roadster公布时，普通版本的预订者需要支付5万美元订金，而Founders Series的预订金额高达25万美元，对应当时公布的整车价格。对于尚未进入量产阶段的产品，提前收取订金能够帮助企业了解市场需求，并在一定条件下提供资金支持。但订金的退款安排、会计处理以及能否用于企业运营，取决于具体合同和财务制度。文章将这些预付款比作“无息贷款”，主要是为了突出消费者在等待交付期间提前向企业提供了资金。<br>本文中的意思：25 万美元订金的限量版，是“用消费者的钱做研发”的典型。"
+  },
+  {
+   "name": "Vaporware / 科技行业的“画饼文化”",
+   "def": "Vaporware是科技行业中的一个带有贬义的术语，指企业已经高调宣布、宣传甚至接受预订，却长期未能真正上市的产品。这个词由vapor（蒸汽）和ware（商品、软件产品）组合而成，暗示产品仿佛只是飘浮在空气中的概念。它最初主要用于计算机软件行业，后来逐渐扩展到硬件和其他科技产品。Vaporware并不必然意味着企业实施欺诈，有些产品确实因为技术困难、资金问题或战略调整而延期。文章将Roadster称为ultimatevaporware，是对其多年无法兑现交付承诺的一种尖锐讽刺。<br>本文中的意思：文章给 Roadster 的定性：ultimate vaporware。"
+  },
+  {
+   "name": "Tesla and SpaceX / 特斯拉与 SpaceX 的商业关系",
+   "def": "特斯拉与SpaceX是两家不同的企业，分别以电动汽车、能源技术和航天工程为主要业务方向，但都与马斯克密切相关。两家公司在工程人才、材料技术、制造经验和技术理念等方面存在潜在的合作空间。Roadster所提出的冷气体推进器等技术，正体现了汽车工程与航天工程之间的交叉。文章提到，一些分析师推测Roadster重新亮相可能是在为特斯拉与SpaceX的潜在合并铺路。不过，这属于分析师的推测，不能将企业之间的技术合作直接等同于已经确定的合并计划。<br>本文中的意思：解释“联合工程合作”说法的现实基础，也解释了合并传闻从哪儿来。"
+  },
+  {
+   "name": "Rimac Nevera, Porsche Taycan / 全球电动超跑竞速",
+   "def": "Rimac是一家来自克罗地亚的高性能电动汽车制造商，以电池技术和电动超级跑车闻名。其Nevera车型凭借强大的电动动力系统创造了多项加速和性能纪录。保时捷Taycan则是德国豪华汽车制造商保时捷推出的纯电动高性能车型，强调运动操控与日常驾驶体验的结合。中国汽车制造商也在快速进入高性能电动车领域，例如比亚迪旗下仰望品牌推出的U9电动超级跑车。文章将这些车型与Roadster进行对比，突出一个重要变化：2017年Roadster公布的许多惊人性能指标，经过多年技术发展，已经不再是其他制造商完全无法企及的目标。特斯拉曾经依靠未来愿景震撼世界，如今却必须面对竞争对手已经实现的技术成果。<br>本文中的意思：反超者的名单：九年间，别人把参数变成了量产车。"
+  }
+ ],
+ "sources_note": "资料核对：以上背景依据课件原文，并参考 The Verge 报道、Tesla 官网、美国联邦航空管理局（FAA）与美国国家公路交通安全管理局（NHTSA）截至 2026 年 10 月的公开信息。",
+ "practice": {
+  "intro": "请根据今天学习的外刊，把下面的中文句子翻译成英文。要求：尽量用上括号里提示的表达，可以适当改变词形，但不要直接照抄原文。",
+  "items": [
+   "马斯克终于展示了新一代特斯拉Roadster。这辆超级跑车不仅能够倒挂行驶、短暂飞行，还声称可以在不到一秒内加速至每小时60英里，整场发布会更像是一场令人惊叹的特技表演。（accelerate, stunt）",
+   "然而，这款车能否真正投入生产仍存在诸多限制，也许永远不会正式投产。（regulatory, go into production）",
+   "事实上，Roadster早在2017年就以原型车的形式亮相，但多年来不断推迟交付，甚至被讽刺为一款只停留在宣传中的“画饼产品”。（prototype, vaporware, broken promises）",
+   "与此同时，其他汽车制造商已经推出了性能强大的电动超级跑车。曾经引领未来的特斯拉，如今反而需要奋力追赶竞争对手。（smash records, play catch-up）",
+   "不过，正如作者在结尾调侃的那样：其他公司的跑车再厉害，至少它们还不会飞。"
+  ],
+  "critical_en": "If a car can fly but never reaches a customer’s driveway, is the spectacle itself the product?",
+  "critical_zh": "如果一辆车能飞、却永远开不进消费者的车库，那这场表演本身是不是就已经成了产品？",
+  "answer": "1. Tesla finally demonstrated its new Roadster, which could drive upside down, fly briefly and accelerate to 60mph in under a second. The event looked more like a spectacular stunt show than a product launch.<br><br>2. However, the car faces serious regulatory challenges and may never go into production.<br><br>3. First introduced as a prototype in 2017, the Roadster suffered years of delays and broken promises, earning a reputation as vaporware.<br><br>4. Meanwhile, competitors have smashed performance records, leaving Tesla playing catch-up.<br><br>5. Yet the author ends with a humorous reminder: none of those competing cars could fly."
+ },
+ "mindmap": {
+  "aria": "特斯拉 Roadster 飞行汽车文章思维导图",
+  "alt": "特斯拉 Roadster 会飞、会倒挂、1 秒破百（矢量版）",
+  "svg": "<svg viewBox=\"0 0 960 720\" xmlns=\"http://www.w3.org/2000/svg\" role=\"img\" aria-label=\"特斯拉飞行汽车文章思维导图\" style=\"width:100%;height:auto;font-family:-apple-system,'PingFang SC','Hiragino Sans GB','Microsoft YaHei',sans-serif\">\n        <rect x=\"24\" y=\"306\" width=\"176\" height=\"88\" rx=\"14\" fill=\"#eae3d2\" stroke=\"#9a8f76\"/>\n        <text x=\"112\" y=\"342\" text-anchor=\"middle\" fill=\"#3d3a34\" font-size=\"17\" font-weight=\"700\">特斯拉 Roadster</text>\n        <text x=\"112\" y=\"368\" text-anchor=\"middle\" fill=\"#5c5648\" font-size=\"12.5\">会飞的车，还是场秀？</text>\n\n        <path d=\"M200,350 C232,350 232,88 260,88\" stroke=\"#6b8f71\" stroke-width=\"2\" fill=\"none\"/>\n        <path d=\"M200,350 C232,350 232,238 260,238\" stroke=\"#7d98ad\" stroke-width=\"2\" fill=\"none\"/>\n        <path d=\"M200,350 C232,350 232,433 260,433\" stroke=\"#bd7a6d\" stroke-width=\"2\" fill=\"none\"/>\n        <path d=\"M200,350 C232,350 232,628 260,628\" stroke=\"#9b86b3\" stroke-width=\"2\" fill=\"none\"/>\n\n        <g class=\"mm-branch\" data-target=\"bc1\">\n          <rect x=\"260\" y=\"71\" width=\"190\" height=\"34\" rx=\"8\" fill=\"#e6efe7\" stroke=\"#6b8f71\"/>\n          <text x=\"349\" y=\"93\" text-anchor=\"middle\" fill=\"#4c6b52\" font-size=\"15\" font-weight=\"700\">演示：倒挂与飞行（¶1–2）</text>\n          <text class=\"mm-arrow\" data-for=\"bc1\" x=\"442\" y=\"93\" text-anchor=\"end\" fill=\"#4c6b52\">▾</text>\n        </g>\n        <g class=\"mm-children\" id=\"bc1\">\n          <path d=\"M450,88 C462,88 462,46 480,46\" stroke=\"#6b8f71\" stroke-width=\"1.5\" fill=\"none\"/>\n          <path d=\"M450,88 C462,88 462,88 480,88\" stroke=\"#6b8f71\" stroke-width=\"1.5\" fill=\"none\"/>\n          <path d=\"M450,88 C462,88 462,130 480,130\" stroke=\"#6b8f71\" stroke-width=\"1.5\" fill=\"none\"/>\n          <rect x=\"480\" y=\"30\" width=\"456\" height=\"32\" rx=\"8\" fill=\"#e6efe7\"/><text x=\"492\" y=\"51\" fill=\"#3d3a34\" font-size=\"14\">倒挂爬坡、坡顶翻身，靠 SpaceX 风扇吸附贴住垂直路面</text>\n          <rect x=\"480\" y=\"72\" width=\"456\" height=\"32\" rx=\"8\" fill=\"#e6efe7\"/><text x=\"492\" y=\"93\" fill=\"#3d3a34\" font-size=\"14\">飞越 Model 3、Model Y、Cybertruck 全系，做出“踢翻”动作</text>\n          <rect x=\"480\" y=\"114\" width=\"456\" height=\"32\" rx=\"8\" fill=\"#e6efe7\"/><text x=\"492\" y=\"135\" fill=\"#3d3a34\" font-size=\"14\">车尾主推进器＋姿态控制推进器，像火箭一样腾空</text>\n        </g>\n\n        <g class=\"mm-branch\" data-target=\"bc2\">\n          <rect x=\"260\" y=\"221\" width=\"190\" height=\"34\" rx=\"8\" fill=\"#e5edf4\" stroke=\"#7d98ad\"/>\n          <text x=\"349\" y=\"243\" text-anchor=\"middle\" fill=\"#3d5872\" font-size=\"15\" font-weight=\"700\">马斯克：好玩排第一（¶3–4）</text>\n          <text class=\"mm-arrow\" data-for=\"bc2\" x=\"442\" y=\"243\" text-anchor=\"end\" fill=\"#3d5872\">▾</text>\n        </g>\n        <g class=\"mm-children\" id=\"bc2\">\n          <path d=\"M450,238 C462,238 462,196 480,196\" stroke=\"#7d98ad\" stroke-width=\"1.5\" fill=\"none\"/>\n          <path d=\"M450,238 C462,238 462,238 480,238\" stroke=\"#7d98ad\" stroke-width=\"1.5\" fill=\"none\"/>\n          <path d=\"M450,238 C462,238 462,280 480,280\" stroke=\"#7d98ad\" stroke-width=\"1.5\" fill=\"none\"/>\n          <rect x=\"480\" y=\"180\" width=\"456\" height=\"32\" rx=\"8\" fill=\"#e5edf4\"/><text x=\"492\" y=\"201\" fill=\"#3d3a34\" font-size=\"14\">“不一定安全优先，但乐趣指数给 11 分”</text>\n          <rect x=\"480\" y=\"222\" width=\"456\" height=\"32\" rx=\"8\" fill=\"#e5edf4\"/><text x=\"492\" y=\"243\" fill=\"#3d3a34\" font-size=\"14\">两个 G 的吸力、冷气体推进，全是航天技术下放</text>\n          <rect x=\"480\" y=\"264\" width=\"456\" height=\"32\" rx=\"8\" fill=\"#e5edf4\"/><text x=\"492\" y=\"285\" fill=\"#3d3a34\" font-size=\"14\">真要上路，还得过 FAA 与 NHTSA 两道监管关</text>\n        </g>\n\n        <g class=\"mm-branch\" data-target=\"bc3\">\n          <rect x=\"260\" y=\"416\" width=\"190\" height=\"34\" rx=\"8\" fill=\"#f4e7e4\" stroke=\"#bd7a6d\"/>\n          <text x=\"349\" y=\"438\" text-anchor=\"middle\" fill=\"#7c4a3e\" font-size=\"15\" font-weight=\"700\">九年跳票史（¶5–7）</text>\n          <text class=\"mm-arrow\" data-for=\"bc3\" x=\"442\" y=\"438\" text-anchor=\"end\" fill=\"#7c4a3e\">▾</text>\n        </g>\n        <g class=\"mm-children\" id=\"bc3\">\n          <path d=\"M450,433 C462,433 462,391 480,391\" stroke=\"#bd7a6d\" stroke-width=\"1.5\" fill=\"none\"/>\n          <path d=\"M450,433 C462,433 462,433 480,433\" stroke=\"#bd7a6d\" stroke-width=\"1.5\" fill=\"none\"/>\n          <path d=\"M450,433 C462,433 462,475 480,475\" stroke=\"#bd7a6d\" stroke-width=\"1.5\" fill=\"none\"/>\n          <rect x=\"480\" y=\"375\" width=\"456\" height=\"32\" rx=\"8\" fill=\"#f4e7e4\"/><text x=\"492\" y=\"396\" fill=\"#3d3a34\" font-size=\"14\">0.81 秒破 60 英里，马斯克：得冲到 0.5 马赫</text>\n          <rect x=\"480\" y=\"417\" width=\"456\" height=\"32\" rx=\"8\" fill=\"#f4e7e4\"/><text x=\"492\" y=\"438\" fill=\"#3d3a34\" font-size=\"14\">2017 年就亮参数：1.9 秒、620 英里、20 万美元</text>\n          <rect x=\"480\" y=\"459\" width=\"456\" height=\"32\" rx=\"8\" fill=\"#f4e7e4\"/><text x=\"492\" y=\"480\" fill=\"#3d3a34\" font-size=\"14\">5 万订金当无息贷款，车却成了“终极画饼”</text>\n        </g>\n\n        <g class=\"mm-branch\" data-target=\"bc4\">\n          <rect x=\"260\" y=\"611\" width=\"190\" height=\"34\" rx=\"8\" fill=\"#ece4f2\" stroke=\"#9b86b3\"/>\n          <text x=\"349\" y=\"633\" text-anchor=\"middle\" fill=\"#5a4670\" font-size=\"15\" font-weight=\"700\">被反超，只剩会飞（¶8–9）</text>\n          <text class=\"mm-arrow\" data-for=\"bc4\" x=\"442\" y=\"633\" text-anchor=\"end\" fill=\"#5a4670\">▾</text>\n        </g>\n        <g class=\"mm-children\" id=\"bc4\">\n          <path d=\"M450,628 C462,628 462,586 480,586\" stroke=\"#9b86b3\" stroke-width=\"1.5\" fill=\"none\"/>\n          <path d=\"M450,628 C462,628 462,628 480,628\" stroke=\"#9b86b3\" stroke-width=\"1.5\" fill=\"none\"/>\n          <path d=\"M450,628 C462,628 462,670 480,670\" stroke=\"#9b86b3\" stroke-width=\"1.5\" fill=\"none\"/>\n          <rect x=\"480\" y=\"570\" width=\"456\" height=\"32\" rx=\"8\" fill=\"#ece4f2\"/><text x=\"492\" y=\"591\" fill=\"#3d3a34\" font-size=\"14\">马斯克自称“小事一桩”，不指望它改动财报</text>\n          <rect x=\"480\" y=\"612\" width=\"456\" height=\"32\" rx=\"8\" fill=\"#ece4f2\"/><text x=\"492\" y=\"633\" fill=\"#3d3a34\" font-size=\"14\">Rimac、保时捷、比亚迪已经用真车反超</text>\n          <rect x=\"480\" y=\"654\" width=\"456\" height=\"32\" rx=\"8\" fill=\"#ece4f2\"/><text x=\"492\" y=\"675\" fill=\"#3d3a34\" font-size=\"14\">九年只造出渲染图，如今只能奋力追赶</text>\n        </g>\n\n      </svg>",
+  "img": ""
+ }
+}

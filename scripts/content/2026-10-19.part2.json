@@ -1,0 +1,309 @@
+{
+ "paragraphs": [
+  {
+   "en_html": "Aditya Kare, 21, was <mark class=\"voc\">refueling</mark> his 2018 Hero motorcycle at a gas station in the nearby city of Latur. He said the ethanol blend had reduced his average <mark class=\"voc\">mileage</mark> from 60 kilometers per liter to around 45, and he was having a hard time <mark class=\"voc\">making do with</mark> the 100 rupees, a little more than $1, that his parents gave him for his <mark class=\"voc\">commute</mark> to college. \"At home, we are planning to get an electric bike,\" he said.",
+   "zh": "21 岁的阿迪蒂亚·卡雷，正在附近的拉图尔市一座加油站，给他那辆2018 款的Hero 摩托车加油。他说，乙醇混合燃油把他的平均油耗，从每升60 公里压到了45 公里左右——父母给他上学通勤的那100 卢比（也就比一美元多一点），他越来越难凑合着撑过去了。“我们家正打算买一辆电动车，”他说。",
+   "notes": [
+    {
+     "w": "refuel",
+     "ipa": "/ˌriːˈfjuːəl/",
+     "pos": "v.",
+     "en": "refuel (v.) means to put more fuel into a vehicle",
+     "zh": "正在给摩托车加油",
+     "ctx": "was refueling his 2018 Hero motorcycle——全篇唯一一个动态画面：一个年轻人，站在加油站。",
+     "ex1": "He pulled into the station to refuel before the long drive. 他把车开进加油站，好在长途驾驶前加满油。",
+     "ex2": "The plane landed to refuel and took off an hour later. 飞机降落加油，一小时后重新起飞。"
+    },
+    {
+     "w": "mileage",
+     "ipa": "/ˈmaɪlɪdʒ/",
+     "pos": "n.",
+     "en": "mileage (n.) means the number of miles a vehicle can travel using a particular amount of fuel",
+     "zh": "每升能跑多少公里",
+     "ctx": "from 60 kilometers per liter to around 45——换算过来是百公里1.67 升变成了2.22 升，多烧三分之一。",
+     "ex1": "The car's mileage fell after they switched to the new fuel. 换成新燃料后，这辆车的油耗明显变差了。",
+     "ex2": "He checked the mileage before deciding whether to buy it. 他先看了油耗，再决定买不买。"
+    },
+    {
+     "w": "make do with",
+     "ipa": "",
+     "pos": "（短语）",
+     "en": "make do with something means to manage with what you have, even though it is not really enough",
+     "zh": "靠100 卢比撑过去",
+     "ctx": "那100 卢比约合1 美元多，也就是7 块多人民币，是他一天上学的钱。",
+     "ex1": "We had no bread, so we had to make do with rice. 没有面包了，我们只能拿米饭凑合。",
+     "ex2": "She made do with what she had and never complained. 她手头有什么就用什么，从不抱怨。"
+    },
+    {
+     "w": "commute",
+     "ipa": "/kəˈmjuːt/",
+     "pos": "n. / v.",
+     "en": "commute (n.) means the journey to work or school and back every day",
+     "zh": "上学的路程",
+     "ctx": "父母给他那100 卢比，是让他去上学的。",
+     "ex1": "His commute to college takes almost an hour each way. 他上学单程就要将近一小时。",
+     "ex2": "More people are choosing to commute by bike in the city. 城里越来越多人选择骑车通勤。"
+    }
+   ]
+  },
+  {
+   "en_html": "Sugarcane <mark class=\"voc\">comes with</mark> a high cost. It is a <mark class=\"voc\">thirsty</mark> crop, and its demand, for both food and fuel, is forcing many farmers to <mark class=\"voc\">drill</mark> deeper for water and <mark class=\"voc\">drain</mark> local <mark class=\"voc\">aquifers</mark>. Mr. Patil's well goes down 800 feet. This year, even at that depth, there is no water. A dam on the Manjara River has become a dry <mark class=\"voc\">ditch</mark>. Ponds are <mark class=\"voc\">bare</mark>. \"This environment is not good for sugarcane,\" said Ganesh Gomare, a farmer. \"But the economy of Marathwada is dependent on sugarcane.\"",
+   "zh": "甘蔗，是带着高昂代价来的。它是一种很“渴”的作物，而它作为食物与燃料的双重需求，正逼着许多农民往更深处打井，把当地的地下含水层抽干。帕蒂尔家的井，往下打了800 英尺——可今年，打到了那个深度，依然没有水。曼贾拉河上的那座水坝，如今成了一条干沟。池塘，空空如也。“这方水土，不适合种甘蔗，”农民加内什·戈马雷说。“可马拉特瓦达的经济，就靠甘蔗撑着。”",
+   "notes": [
+    {
+     "w": "come with",
+     "ipa": "",
+     "pos": "（短语）",
+     "en": "come with something means to include something as a part or feature, or to have it as a necessary result",
+     "zh": "代价是跟着甘蔗一起长出来的",
+     "ctx": "不说 has a high cost，因为 comes with 的意思是：你种它，这份代价就和它一起长出来了，掰不开。",
+     "ex1": "Every choice comes with a cost. 每一个选择，都带着代价。",
+     "ex2": "The apartment comes with a small garage. 这套公寓带一个小车库。"
+    },
+    {
+     "w": "thirsty",
+     "ipa": "/ˈθɜːsti/",
+     "pos": "adj.",
+     "en": "thirsty (adj.) means needing to drink; used of plants, needing a lot of water",
+     "zh": "喝水大户",
+     "ctx": "a thirsty crop——生产一公斤蔗糖，从种到炼全程要耗掉一千多升水。",
+     "ex1": "Sugarcane is a thirsty crop, and the wells are running dry. 甘蔗是喝水大户，而井正在见底。",
+     "ex2": "After two hours in the sun, the workers were thirsty and tired. 在太阳下干了两个小时，工人们又渴又累。"
+    },
+    {
+     "w": "drill",
+     "ipa": "/drɪl/",
+     "pos": "v.",
+     "en": "drill (v.) means to make a hole in the ground using a special machine, in order to find water or oil",
+     "zh": "往更深处打井",
+     "ctx": "不是农民想打井，是需求在逼他们打。",
+     "ex1": "Farmers are drilling deeper each year to reach the falling water table. 农民们一年比一年钻得深，去够那越来越低的水位。",
+     "ex2": "They drilled for oil for three years and found nothing. 他们钻了三年石油，一无所获。"
+    },
+    {
+     "w": "drain",
+     "ipa": "/dreɪn/",
+     "pos": "v.",
+     "en": "drain (v.) means to make the water in something flow away, so that it becomes empty",
+     "zh": "把地下水层抽干",
+     "ctx": "地下那块储存水的“海绵”，正在被抽空。",
+     "ex1": "Years of overuse have drained the aquifer beneath the plain. 长年超采，把平原下面的含水层抽干了。",
+     "ex2": "The project drained the swamp and turned it into farmland. 这项工程抽干了沼泽，把它变成了农田。"
+    },
+    {
+     "w": "aquifer",
+     "ipa": "/ˈækwɪfə(r)/",
+     "pos": "n.",
+     "en": "aquifer (n.) means a layer of rock or soil under the ground that holds water",
+     "zh": "农民往上钻的那块海绵",
+     "ctx": "井打得越深，这块海绵就干得越快。",
+     "ex1": "The local aquifer has fallen by several metres in ten years. 当地含水层十年间下降了好几米。",
+     "ex2": "Once an aquifer is drained, it may take centuries to refill. 含水层一旦被抽干，可能要几个世纪才能重新蓄满。"
+    },
+    {
+     "w": "ditch",
+     "ipa": "/dɪtʃ/",
+     "pos": "n.",
+     "en": "ditch (n.) means a narrow channel dug in the ground, used for water or drainage",
+     "zh": "大坝自己变成了一条干沟",
+     "ctx": "本该把水拦住的东西，现在自己成了漏水的沟。",
+     "ex1": "The stream behind the village is little more than a ditch now. 村后那条小溪，如今几乎只剩一条沟了。",
+     "ex2": "Workers dug a ditch to carry the water to the fields. 工人们挖了一条沟，把水引到田里。"
+    },
+    {
+     "w": "bare",
+     "ipa": "/beə(r)/",
+     "pos": "adj.",
+     "en": "bare (adj.) means empty, with nothing in it or covering it",
+     "zh": "池塘空空如也",
+     "ctx": "Ponds are bare——三个词，一个句号；作者写完就闭了嘴，这句不要去解释，停两秒。",
+     "ex1": "The shelves were bare by the end of the day. 一天下来，货架空了。",
+     "ex2": "The trees stood bare against the winter sky. 树木光秃秃的，立在冬天的天空下。"
+    }
+   ]
+  },
+  {
+   "en_html": "Sugar is <mark class=\"voc\">tempting</mark>. It enjoys relatively high profits. So Mr. Gomare, 38, <mark class=\"voc\">devoted</mark> more of his land to sugarcane this year. It <mark class=\"voc\">backfired</mark>. He expects his yields to be half of normal.",
+   "zh": "糖是诱人的。它利润相对高。所以38 岁的戈马雷先生今年把更多的地，押给了甘蔗。适得其反。他预计，收成只有正常年份的一半。",
+   "notes": [
+    {
+     "w": "tempting",
+     "ipa": "/ˈtemptɪŋ/",
+     "pos": "adj.",
+     "en": "tempting (adj.) means making you want to have or do it, even though you know you probably should not",
+     "zh": "明知有风险，还是忍不住",
+     "ctx": "马拉特瓦达的水本就不够，可甘蔗利润高，糖厂就在旁边。",
+     "ex1": "The offer was tempting, but she knew the risks were too great. 那份报价很诱人，但她知道风险太大了。",
+     "ex2": "The cake looked tempting, and he had not eaten since morning. 那块蛋糕看着太勾人，而他一早到现在还没吃东西。"
+    },
+    {
+     "w": "devote A to B",
+     "ipa": "",
+     "pos": "（短语）",
+     "en": "devote A to B means to give a large part of your time, effort or resources to one particular thing",
+     "zh": "把更多地押在甘蔗上",
+     "ctx": "他不是被骗去种的，他是主动押的注。",
+     "ex1": "He devoted more of his land to the crop that promised the highest price. 他把更多的地，押在了那个承诺价最高的作物上。",
+     "ex2": "She devoted herself to teaching for more than thirty years. 她献身教育三十多年。"
+    },
+    {
+     "w": "backfire",
+     "ipa": "/ˌbækˈfaɪə(r)/",
+     "pos": "v.",
+     "en": "backfire (v.) means if a plan or action backfires, it has the opposite result to the one you intended",
+     "zh": "赌注反噬了自己",
+     "ctx": "两句话铺垫押注，两个字把它全部炸回来——这是英文写作里最狠的一招：长铺短收。",
+     "ex1": "The plan to save money backfired and cost them twice as much. 省钱的反倒花掉了两倍的钱。",
+     "ex2": "His joke backfired on him when nobody laughed. 没人笑，他那个笑话反噬到了自己身上。"
+    }
+   ]
+  },
+  {
+   "en_html": "Nearby, Dagdu Venkat Rao Padile, 66, <mark class=\"voc\">uprooted</mark> a stalk of sugarcane from his field. The plant was <mark class=\"voc\">emaciated</mark>. Its sugar content would be <mark class=\"voc\">paltry</mark>. \"It will cost me more to cut it than what I'll get for it,\" Mr. Padile said. His yields would be one-fourth of normal. The rains were so poor that he had left most of his land <mark class=\"voc\">fallow</mark>.",
+   "zh": "不远处，66 岁的达格杜·文卡特·拉奥·帕迪尔，从自家地里连根拔起了一根甘蔗。这株植物瘦得脱了形。它的含糖量，会少得可怜。“割它花的钱，比卖它能挣的还多，”帕迪尔说。他估摸着，今年的收成只有正常年份的四分之一。雨水少成那样，他干脆把大部分地都撂荒了。",
+   "notes": [
+    {
+     "w": "uproot",
+     "ipa": "/ˌʌpˈruːt/",
+     "pos": "v.",
+     "en": "uproot (v.) means to pull a plant out of the ground, including its roots",
+     "zh": "拔出来是为了看",
+     "ctx": "割，是为了收；拔，是为了看：他想知道这根甘蔗到底长成了什么样。",
+     "ex1": "He uprooted a cane and held it up for us to see how thin it was. 他拔出一根甘蔗举起来，让我们看它有多细。",
+     "ex2": "Thousands of families were uprooted by the war. 战争让数千家庭背井离乡。"
+    },
+    {
+     "w": "emaciated",
+     "ipa": "/ɪˈmeɪsieɪtɪd/",
+     "pos": "adj.",
+     "en": "emaciated (adj.) means extremely thin and weak, especially because of illness or lack of food",
+     "zh": "饿瘦了的甘蔗",
+     "ctx": "作者把一个本来形容人和动物的词用在一根植物上，一个词就把甘蔗写成了营养不良的孩子，而它饿，是因为最需要水的那个夏天，水没来。",
+     "ex1": "The rescuers found children too emaciated to stand. 救援人员发现的那些孩子，瘦得站都站不起来。",
+     "ex2": "After months without rain, the plants looked emaciated. 几个月没下雨，那些植物看上去都饿瘦了。"
+    },
+    {
+     "w": "paltry",
+     "ipa": "/ˈpɔːltri/",
+     "pos": "adj.",
+     "en": "paltry (adj.) means very small in amount, and of little or no value",
+     "zh": "含糖量少得可怜",
+     "ctx": "一根甘蔗的全部价值就在它的糖上，而今年糖也少得可怜。",
+     "ex1": "They were offered a paltry sum for a year's work. 干了一年，他们只拿到一笔少得可怜的钱。",
+     "ex2": "The raise was so paltry that nobody bothered to thank anyone. 那点加薪少得可怜，没人愿意为它道谢。"
+    },
+    {
+     "w": "fallow",
+     "ipa": "/ˈfæləʊ/",
+     "pos": "adj.",
+     "en": "fallow (adj.) means if land is left fallow, it is not planted with crops for a season, to let the soil recover",
+     "zh": "没水可浇，只能撂荒",
+     "ctx": "他不是想让地歇，是种不起；一个农民把地空着，是他这辈子最难受的事。",
+     "ex1": "With no water in the wells, he left most of his land fallow. 井里没水，他只好把大部分地撂荒。",
+     "ex2": "Farmers let the fields lie fallow every third year. 农民们每三年让地休耕一次。"
+    }
+   ]
+  },
+  {
+   "en_html": "Tanisha Gaikwad had <mark class=\"voc\">all but</mark> cut sugar from her diet. But she <mark class=\"voc\">joined the line</mark> at the sweet shop for a small box of laddoos to offer at the <mark class=\"voc\">altar</mark> for Mahalaxmi, a goddess of wealth and power. Her prayers, she said, could not be <mark class=\"voc\">sugar-free</mark>.",
+   "zh": "塔妮莎·盖克瓦德，已经几乎把糖从自己的饮食里戒掉了。可她还是去糖果店排了队，买了一小盒拉杜——要供在祭台上，献给吉祥天女，一位掌管财富与力量的女神。她说，她的祷告，不能是无糖的。",
+   "notes": [
+    {
+     "w": "all but",
+     "ipa": "",
+     "pos": "（短语）",
+     "en": "all but means almost completely; very nearly",
+     "zh": "已经差不多戒掉了",
+     "ctx": "她自己不吃了，但还是要排队去买最甜的那种供神。",
+     "ex1": "By the time help arrived, the game was all but over. 救援赶到时，比赛差不多已经结束了。",
+     "ex2": "The old town was all but destroyed by the earthquake. 那座老城几乎被地震彻底毁掉。"
+    },
+    {
+     "w": "join the line",
+     "ipa": "",
+     "pos": "（短语）",
+     "en": "join the line means to go and stand at the end of a queue of people waiting",
+     "zh": "她跟着大家一起排队等",
+     "ctx": "戒了糖的人，为了供神又站回了那条队里。",
+     "ex1": "She joined the line outside the shop and waited her turn. 她在店外排进队伍，等着轮到自己。",
+     "ex2": "People were joining the line before the shop had even opened. 店还没开门，人们就已经在排队了。"
+    },
+    {
+     "w": "altar",
+     "ipa": "/ˈɔːltə(r)/",
+     "pos": "n.",
+     "en": "altar (n.) means a table or raised surface used for religious ceremonies",
+     "zh": "供神的那个台子",
+     "ctx": "她买的拉杜不是零食，是摆到台上去的东西。",
+     "ex1": "She placed the small box of sweets on the altar. 她把那一小盒甜食摆上了供台。",
+     "ex2": "Flowers are laid at the altar every morning. 每天早上，都有人把鲜花供在祭坛前。"
+    },
+    {
+     "w": "sugar-free",
+     "ipa": "/ˈʃʊɡə friː/",
+     "pos": "adj.",
+     "en": "sugar-free (adj.) means containing no sugar (the suffix -free means 'without')",
+     "zh": "祷告不能是无糖的",
+     "ctx": "把食品标签上的词贴到了“祷告”上，这是全文最漂亮的一处双关；她戒了糖，但没戒掉希望。",
+     "ex1": "She has all but cut sugar from her diet, but her prayers cannot be sugar-free. 她几乎把糖从饮食里戒掉了，可她的祷告不能是无糖的。",
+     "ex2": "The shop sells a range of sugar-free drinks. 这家店卖一系列无糖饮料。"
+    }
+   ]
+  }
+ ],
+ "proper": [
+  {
+   "name": "El Niño（厄尔尼诺）",
+   "def": "西班牙语，字面意思是“小男孩”，全名 El Niño de Navidad，即“圣诞的圣婴”。十九世纪秘鲁渔民发现每年圣诞节前后沿岸海水异常变暖、鱼群消失、渔获归零，于是管这股暖流叫“圣婴”。它是发生在赤道太平洋的周期性气候现象，会扰乱全球天气：通常给印度、泰国带来高温干旱，给巴西带来多雨寡照。2026 年6 月11 日，美国国家海洋和大气管理局（NOAA）正式宣布厄尔尼诺形成，判断其夏秋季发展为“超强”级别的概率为63%、持续至冬季的概率为96%；中国国家气候中心的判断为“强至超强”东部型。上一次这个量级是1997-98 和2015-16 两次。<br>本文中的意思：全文标题的第一个词，也是整场危机的总源头。它的名字来历——“带来厄运的圣婴”——与第十段那句“祷告不能无糖”形成一条宗教意象暗线：让甘蔗枯死的叫“圣婴”，而人们在节日里仍然把甜食供到神的面前。"
+  },
+  {
+   "name": "Marathwada（马拉特瓦达）",
+   "def": "印度马哈拉施特拉邦内的一个地区，也是该邦甘蔗核心产区之一。2026 年9 月25 日，马哈拉施特拉邦宣布全邦358 个taluka（小区）中有265 个——约七成四——被划为旱区，全邦6-9 月降雨亏缺18.8%。<br>本文中的意思：全文三个农民（帕蒂尔、戈马雷、帕迪尔）和那条干河床所在的地方；它既是甘蔗产区，也是旱情最重的地方——甘蔗把水喝光，水没了又种不成甘蔗，这个死循环就发生在这一片地上。"
+  },
+  {
+   "name": "Latur（拉图尔）",
+   "def": "马拉特瓦达地区内的一座城市。<br>本文中的意思：第六段那个21 岁大学生阿迪蒂亚所在的地方。作者刻意让种甘蔗的人和骑摩托车的人住在同一片地上——他们被同一根甘蔗拴在一起。"
+  },
+  {
+   "name": "Hero（Hero MotoCorp，英雄摩托）",
+   "def": "印度本土摩托车制造商，也是这个国家最大的两轮车生产商之一。印度是全球最大的两轮车市场，全国有两亿多辆摩托车在跑。<br>本文中的意思：第六段阿迪蒂亚那辆2018 款摩托车的品牌。在印度，摩托车不是玩具，是腿——所以它才是E20 政策落到普通人身上的那个载体。"
+  },
+  {
+   "name": "laddoo（拉杜）",
+   "def": "印度最常见的传统甜食之一，用豆粉、酥油和糖搓成的小球，圆滚金黄，主要用于过节和供神。<br>本文中的意思：第十段里那盒被供上祭坛的甜食。它是这篇文章最后那句双关的实物：姑娘自己已经戒糖，却还是排队买下了最甜的它。"
+  },
+  {
+   "name": "Mahalaxmi（吉祥天女）",
+   "def": "印度教女神，掌管财富、繁荣与力量。十月的印度教节日季（九夜节、十胜节、排灯节）里，她是主要的供奉对象之一。<br>本文中的意思：第十段供台的主人。姑娘向一位“财富与力量”的女神祷告——而在这个国家，那份用来表达敬意的甜，今年贵得快要供不起了。"
+  },
+  {
+   "name": "Manjara River（曼贾拉河）",
+   "def": "流经马拉特瓦达地区的一条河流。<br>本文中的意思：第七段里那座“水坝变成干沟”的河。作者用它把“缺水”这件事，从一口井扩展到整条河。"
+  },
+  {
+   "name": "E20（含20% 乙醇的汽油）",
+   "def": "印度推行的乙醇混合汽油标准：在汽油中掺入20% 由甘蔗等作物制成的乙醇。2026 年4 月，印度政府把E20 定为全国每一个加油站的标配燃油，并取消了高比例乙醇汽油的生产税。<br>本文中的意思：第五段那项 government directive 的产物，也是全篇最反常识之处的原点：政府想用甘蔗省油，甘蔗一少糖价就飞，为压糖价又得限制甘蔗去做乙醇——政策的两头在抢同一根甘蔗。"
+  }
+ ],
+ "sources_note": "资料核对：以上背景依据文章内容与课件【背景信息/专有名词】整理，并参考美国国家海洋和大气管理局（NOAA）、中国国家气候中心及印度马哈拉施特拉邦政府 2026 年的公开信息。",
+ "practice": {
+  "intro": "请根据今天学习的外刊，把下面的中文句子翻译成英文。要求：尽量用上本文的核心表达，可以适当改变词形，但不要直接照抄原文。",
+  "items": [
+   "冲突。气候变化。一场正在让万物枯萎的厄尔尼诺。这三样东西像是商量好了似的，一起来毁掉全世界那份嗜甜的快乐。（conspire / spoil / sweet tooth / wither）",
+   "全球糖价一路飙升——一个又热又干的夏天，把世界上大片产糖区烤得焦头烂额，顺手把整体食品价格也往上顶了一顶。（soar / scorch / nudge）",
+   "而这份痛，没有哪个地方感受得比印度更深切。十一年来最糟糕的一场季风，加上对甘蔗歉收的恐惧，把糖价猛地戳了上去。（acutely / monsoon / spike）",
+   "甘蔗正是这个国家生物燃料计划的关键作物——这一点尤其要命，因为印度正想方设法压住石油进口，偏偏中东的航道又被战争掐住了。（biofuels push / curb / choke）",
+   "所以，38 岁的戈马雷先生今年把更多的地，押给了甘蔗。适得其反。（devote ... to / backfire）",
+   "塔妮莎·盖克瓦德几乎已经把糖从自己的饮食里戒掉了。可她说，她的祷告，不能是无糖的。（all but / cut ... from / sugar-free）"
+  ],
+  "critical_en": "When a crop feeds both people and fuel tanks, who should get it first — and who decides?",
+  "critical_zh": "当一种作物既要喂饱人、又要喂饱油箱，应该先给谁——又该由谁来决定？",
+  "answer": "1. Conflict. Climate change. A withering El Niño. All are conspiring to spoil the world's sweet tooth.<br><br>2. Global sugar prices have soared, as a hot, dry summer scorched much of the sugar-producing parts of the world, nudging overall food prices upward.<br><br>3. Nowhere is that felt as acutely as it is in India. The worst monsoon in 11 years and fears of a poor sugarcane harvest have spiked prices.<br><br>4. Sugarcane is a key crop for the country's biofuels push, all the more so as India seeks to curb oil imports while the waterways of the Middle East are choked by war.<br><br>5. So Mr. Gomare, 38, devoted more of his land to sugarcane this year. It backfired.<br><br>6. Tanisha Gaikwad had all but cut sugar from her diet. Her prayers, she said, could not be sugar-free."
+ },
+ "mindmap": {
+  "aria": "全球糖价上涨与粮食能源之争思维导图",
+  "alt": "全球糖价上涨：粮食与能源之争（手绘版）",
+  "svg": "<svg viewBox=\"0 0 960 720\" xmlns=\"http://www.w3.org/2000/svg\" role=\"img\" aria-label=\"全球糖价上涨与粮食能源之争思维导图\" style=\"width:100%;height:auto;font-family:-apple-system,'PingFang SC','Hiragino Sans GB','Microsoft YaHei',sans-serif\">\n        <rect x=\"24\" y=\"306\" width=\"176\" height=\"88\" rx=\"14\" fill=\"#eae3d2\" stroke=\"#9a8f76\"/>\n        <text x=\"112\" y=\"342\" text-anchor=\"middle\" fill=\"#3d3a34\" font-size=\"17\" font-weight=\"700\">全球糖价上涨</text>\n        <text x=\"112\" y=\"368\" text-anchor=\"middle\" fill=\"#5c5648\" font-size=\"12.5\">粮食与能源的争夺</text>\n\n        <path d=\"M200,350 C232,350 232,88 260,88\" stroke=\"#6b8f71\" stroke-width=\"2\" fill=\"none\"/>\n        <path d=\"M200,350 C232,350 232,238 260,238\" stroke=\"#7d98ad\" stroke-width=\"2\" fill=\"none\"/>\n        <path d=\"M200,350 C232,350 232,433 260,433\" stroke=\"#bd7a6d\" stroke-width=\"2\" fill=\"none\"/>\n        <path d=\"M200,350 C232,350 232,628 260,628\" stroke=\"#9b86b3\" stroke-width=\"2\" fill=\"none\"/>\n\n        <g class=\"mm-branch\" data-target=\"bc1\">\n          <rect x=\"260\" y=\"71\" width=\"190\" height=\"34\" rx=\"8\" fill=\"#e6efe7\" stroke=\"#6b8f71\"/>\n          <text x=\"355\" y=\"93\" text-anchor=\"middle\" fill=\"#6b8f71\" font-size=\"15\" font-weight=\"700\">天灾合谋，糖价飙升 ¶1</text>\n          <text class=\"mm-arrow\" data-for=\"bc1\" x=\"442\" y=\"93\" text-anchor=\"end\" fill=\"#6b8f71\">▾</text>\n        </g>\n        <g class=\"mm-children\" id=\"bc1\">\n          <path d=\"M450,88 C462,88 462,46 480,46\" stroke=\"#6b8f71\" stroke-width=\"1.5\" fill=\"none\"/>\n          <path d=\"M450,88 C462,88 462,88 480,88\" stroke=\"#6b8f71\" stroke-width=\"1.5\" fill=\"none\"/>\n          <path d=\"M450,88 C462,88 462,130 480,130\" stroke=\"#6b8f71\" stroke-width=\"1.5\" fill=\"none\"/>\n          <rect x=\"480\" y=\"30\" width=\"456\" height=\"32\" rx=\"8\" fill=\"#e6efe7\"/><text x=\"492\" y=\"51\" fill=\"#3d3a34\" font-size=\"14\">冲突、气候变化、厄尔尼诺合谋毁掉嗜甜</text>\n          <rect x=\"480\" y=\"72\" width=\"456\" height=\"32\" rx=\"8\" fill=\"#e6efe7\"/><text x=\"492\" y=\"93\" fill=\"#3d3a34\" font-size=\"14\">全球糖价飙升，印度之痛最深切</text>\n          <rect x=\"480\" y=\"114\" width=\"456\" height=\"32\" rx=\"8\" fill=\"#e6efe7\"/><text x=\"492\" y=\"135\" fill=\"#3d3a34\" font-size=\"14\">最差季风＋歉收恐慌，节日季把糖价戳上去</text>\n        </g>\n        <g class=\"mm-branch\" data-target=\"bc2\">\n          <rect x=\"260\" y=\"221\" width=\"190\" height=\"34\" rx=\"8\" fill=\"#e5edf4\" stroke=\"#7d98ad\"/>\n          <text x=\"355\" y=\"243\" text-anchor=\"middle\" fill=\"#7d98ad\" font-size=\"15\" font-weight=\"700\">粮食与能源之争 ¶2–4</text>\n          <text class=\"mm-arrow\" data-for=\"bc2\" x=\"442\" y=\"243\" text-anchor=\"end\" fill=\"#7d98ad\">▾</text>\n        </g>\n        <g class=\"mm-children\" id=\"bc2\">\n          <path d=\"M450,238 C462,238 462,196 480,196\" stroke=\"#7d98ad\" stroke-width=\"1.5\" fill=\"none\"/>\n          <path d=\"M450,238 C462,238 462,238 480,238\" stroke=\"#7d98ad\" stroke-width=\"1.5\" fill=\"none\"/>\n          <path d=\"M450,238 C462,238 462,280 480,280\" stroke=\"#7d98ad\" stroke-width=\"1.5\" fill=\"none\"/>\n          <rect x=\"480\" y=\"180\" width=\"456\" height=\"32\" rx=\"8\" fill=\"#e5edf4\"/><text x=\"492\" y=\"201\" fill=\"#3d3a34\" font-size=\"14\">高糖价搅乱印度的能源安全目标</text>\n          <rect x=\"480\" y=\"222\" width=\"456\" height=\"32\" rx=\"8\" fill=\"#e5edf4\"/><text x=\"492\" y=\"243\" fill=\"#3d3a34\" font-size=\"14\">去年泡透、被害虫啃光，今年又晒到干裂</text>\n          <rect x=\"480\" y=\"264\" width=\"456\" height=\"32\" rx=\"8\" fill=\"#e5edf4\"/><text x=\"492\" y=\"285\" fill=\"#3d3a34\" font-size=\"14\">印度成活教材；全球糖价一年涨近15%</text>\n        </g>\n        <g class=\"mm-branch\" data-target=\"bc3\">\n          <rect x=\"260\" y=\"416\" width=\"190\" height=\"34\" rx=\"8\" fill=\"#f4e7e4\" stroke=\"#bd7a6d\"/>\n          <text x=\"355\" y=\"438\" text-anchor=\"middle\" fill=\"#bd7a6d\" font-size=\"15\" font-weight=\"700\">E20 政策的两头 ¶5–6</text>\n          <text class=\"mm-arrow\" data-for=\"bc3\" x=\"442\" y=\"438\" text-anchor=\"end\" fill=\"#bd7a6d\">▾</text>\n        </g>\n        <g class=\"mm-children\" id=\"bc3\">\n          <path d=\"M450,433 C462,433 462,391 480,391\" stroke=\"#bd7a6d\" stroke-width=\"1.5\" fill=\"none\"/>\n          <path d=\"M450,433 C462,433 462,433 480,433\" stroke=\"#bd7a6d\" stroke-width=\"1.5\" fill=\"none\"/>\n          <path d=\"M450,433 C462,433 462,475 480,475\" stroke=\"#bd7a6d\" stroke-width=\"1.5\" fill=\"none\"/>\n          <rect x=\"480\" y=\"375\" width=\"456\" height=\"32\" rx=\"8\" fill=\"#f4e7e4\"/><text x=\"492\" y=\"396\" fill=\"#3d3a34\" font-size=\"14\">政府指令：E20 成为加油站标配</text>\n          <rect x=\"480\" y=\"417\" width=\"456\" height=\"32\" rx=\"8\" fill=\"#f4e7e4\"/><text x=\"492\" y=\"438\" fill=\"#3d3a34\" font-size=\"14\">压油需、省外汇、肥糖厂，气炸司机</text>\n          <rect x=\"480\" y=\"459\" width=\"456\" height=\"32\" rx=\"8\" fill=\"#f4e7e4\"/><text x=\"492\" y=\"480\" fill=\"#3d3a34\" font-size=\"14\">大学生卡雷：油耗变差，100 卢比难撑</text>\n        </g>\n        <g class=\"mm-branch\" data-target=\"bc4\">\n          <rect x=\"260\" y=\"611\" width=\"190\" height=\"34\" rx=\"8\" fill=\"#ece4f2\" stroke=\"#9b86b3\"/>\n          <text x=\"355\" y=\"633\" text-anchor=\"middle\" fill=\"#9b86b3\" font-size=\"15\" font-weight=\"700\">农民、水与祷告 ¶7–10</text>\n          <text class=\"mm-arrow\" data-for=\"bc4\" x=\"442\" y=\"633\" text-anchor=\"end\" fill=\"#9b86b3\">▾</text>\n        </g>\n        <g class=\"mm-children\" id=\"bc4\">\n          <path d=\"M450,628 C462,628 462,586 480,586\" stroke=\"#9b86b3\" stroke-width=\"1.5\" fill=\"none\"/>\n          <path d=\"M450,628 C462,628 462,628 480,628\" stroke=\"#9b86b3\" stroke-width=\"1.5\" fill=\"none\"/>\n          <path d=\"M450,628 C462,628 462,670 480,670\" stroke=\"#9b86b3\" stroke-width=\"1.5\" fill=\"none\"/>\n          <rect x=\"480\" y=\"570\" width=\"456\" height=\"32\" rx=\"8\" fill=\"#ece4f2\"/><text x=\"492\" y=\"591\" fill=\"#3d3a34\" font-size=\"14\">甘蔗是渴作物，800 英尺深井不见水</text>\n          <rect x=\"480\" y=\"612\" width=\"456\" height=\"32\" rx=\"8\" fill=\"#ece4f2\"/><text x=\"492\" y=\"633\" fill=\"#3d3a34\" font-size=\"14\">押注甘蔗却适得其反：收成只剩一半、四分之一</text>\n          <rect x=\"480\" y=\"654\" width=\"456\" height=\"32\" rx=\"8\" fill=\"#ece4f2\"/><text x=\"492\" y=\"675\" fill=\"#3d3a34\" font-size=\"14\">戒糖的姑娘仍排队买拉杜：祷告不能无糖</text>\n        </g>\n      </svg>",
+  "img": ""
+ }
+}

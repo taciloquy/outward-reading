@@ -1,0 +1,365 @@
+{
+ "date": "2026-10-17",
+ "title_tag": "美国越来越难以依靠，世界各国开始寻找第三条路？—— 英国《经济学人》外刊讲解第1200天",
+ "h1": "美国越来越难以依靠，世界各国开始寻找第三条路？",
+ "source_label": "The Economist",
+ "category": "英国《经济学人》外刊讲解 第1200天",
+ "read_minutes": 19,
+ "nav_hint": "Mark Carney shows middle powers how to handle a dangerous world",
+ "headline": {
+  "en_html": "<span>Mark Carney shows <mark class=\"voc\">middle powers</mark> how to <mark class=\"voc\">handle</mark> a dangerous world</span> — <span>Canada is <mark class=\"voc\">standing up to</mark> a <mark class=\"voc\">bullying</mark> America</span>",
+  "zh": "马克·卡尼为中等强国示范——如何在乱世中稳住阵脚。加拿大正挺身直面霸凌成性的美国。",
+  "notes": [
+   {
+    "w": "middle power",
+    "ipa": "/ˈmɪdl ˈpaʊər/",
+    "pos": "n.",
+    "en": "A country that is not a superpower but still has significant economic, diplomatic or military influence in international affairs.",
+    "zh": "中等强国",
+    "ctx": "国际关系术语，指实力可观但够不上超级大国的国家；本文用它给加拿大这类“夹在中间”的国家定位。",
+    "ex1": "Canada, Japan and Australia are typical middle powers. 加拿大、日本、澳大利亚是典型中等强国。",
+    "ex2": "Middle powers often work through alliances and institutions. 中等强国通常借助联盟和制度行事。"
+   },
+   {
+    "w": "handle",
+    "ipa": "/ˈhændl/",
+    "pos": "v.",
+    "en": "To deal with or manage a situation, especially a difficult one.",
+    "zh": "应对，驾驭，处理",
+    "ctx": "不是“解决”，而是“应对、驾驭”；标题说的是中等强国如何在乱世里稳住阵脚。",
+    "ex1": "A good leader knows how to handle pressure. 好的领导者知道如何应对压力。",
+    "ex2": "This tool helps you handle large datasets. 这个工具帮你处理大型数据集。"
+   },
+   {
+    "w": "stand up to",
+    "ipa": "/stænd ʌp tuː/",
+    "pos": "phr. v.",
+    "en": "To refuse to accept unfair treatment from a powerful person or group; to oppose someone bravely.",
+    "zh": "挺身对抗，勇敢面对（强者）",
+    "ctx": "指不再忍让、正面顶住强者；副标题写的是加拿大对美国的姿态。",
+    "ex1": "She finally stood up to her overbearing boss. 她终于对专横的老板说不。",
+    "ex2": "Small countries rarely stand up to a superpower. 小国很少敢直面超级大国。"
+   },
+   {
+    "w": "bullying",
+    "ipa": "/ˈbʊli/ /ˈbʊliɪŋ/",
+    "pos": "n./adj.",
+    "en": "A bully is someone who uses their strength or power to hurt or frighten weaker people; bullying describes such behaviour.",
+    "zh": "恃强凌弱者；霸凌的，欺凌的",
+    "ctx": "恃强凌弱；a bullying America 直接把美国定性成霸凌者。",
+    "ex1": "The article calls the tariffs an act of economic bullying. 文章称关税是一种经济霸凌。",
+    "ex2": "Stand up to bullying, online or offline. 无论线上线下，都要反抗霸凌。"
+   }
+  ]
+ },
+ "paragraphs": [
+  {
+   "en_html": "<mark class=\"voc\">Entitled</mark> Canada has been <mark class=\"voc\">feeding off</mark> America for decades. Like a <mark class=\"voc\">parasitic</mark> bug, it enjoys the benefits of being America’s <mark class=\"voc\">cherished</mark> 51st state without giving anything back. Canadians know they couldn’t live without America’s protection, yet their <mark class=\"voc\">ungrateful</mark> prime minister, Mark Carney, refuses to <mark class=\"voc\">defer to</mark> the great and beautiful country over the border.",
+   "zh": "加拿大这个自以为应得的国家，几十年来一直趴在美国身上吸血。它像一只寄生虫，享受着被美国当作珍视的第51个州的好处，却什么也不回馈。加拿大人心知肚明，没有美国的保护他们根本活不下去；可他们那位忘恩负义的总理马克·卡尼，偏偏拒绝向边境那头伟大而美丽的国家低头。",
+   "notes": [
+    {
+     "w": "entitled",
+     "ipa": "/ɪnˈtaɪtld/",
+     "pos": "adj.",
+     "en": "Believing that you deserve special treatment or have the right to something, without having earned it.（认为自己理应受到特殊对待、理应得到某物，而其实并未挣得。）",
+     "zh": "自以为应得的，理直气壮的",
+     "ctx": "觉得自己理应受优待、理直气壮占便宜；entitled Canada 是模仿特朗普口吻的挖苦。",
+     "ex1": "He sounds so entitled. 他听起来一副全世界欠他的样子。",
+     "ex2": "Entitlement mentality can damage teamwork. \"理所当然\"的心态会损害团队合作。"
+    },
+    {
+     "w": "feed off",
+     "ipa": "/fiːd ɒf/",
+     "pos": "phr. v.",
+     "en": "To get what you need from something, often in a way that harms or weakens it.（从某物身上获取所需，方式往往会对它造成损害或削弱。）",
+     "zh": "靠……为生，依附……获利",
+     "ctx": "靠吸食某物为生；has been feeding off America 是特朗普眼中加拿大在“吸血”美国。",
+     "ex1": "The media feeds off scandal. 媒体靠丑闻吃饭。",
+     "ex2": "Some startups feed off big platforms. 一些初创公司依附大平台生存。"
+    },
+    {
+     "w": "parasitic",
+     "ipa": "/ˌpærəˈsɪtɪk/",
+     "pos": "adj.",
+     "en": "Living on or in another organism and getting food or protection from it, often harming it; (figurative) relying on others without giving back.",
+     "zh": "寄生的；依附他人过活的",
+     "ctx": "寄生的；Like a parasitic bug 把加拿大比作寄生虫，是全文第一个生物学隐喻。",
+     "ex1": "The vine has a parasitic relationship with the tree. 这种藤与树是寄生关系。",
+     "ex2": "He described the arrangement as parasitic. 他形容这种安排是寄生式的。"
+    },
+    {
+     "w": "cherished",
+     "ipa": "/ˈtʃerɪʃt/",
+     "pos": "adj.",
+     "en": "Loved and cared for very much; deeply valued.",
+     "zh": "被珍视的，备受珍爱的",
+     "ctx": "被珍视的；America’s cherished 51st state 是特朗普式反讽——被宠爱却不领情。",
+     "ex1": "Freedom of speech is a cherished value. 言论自由是被珍视的价值观。",
+     "ex2": "She kept her grandmother’s ring as a cherished possession. 她把祖母的戒指当作珍爱之物保存。"
+    },
+    {
+     "w": "ungrateful",
+     "ipa": "/ʌnˈɡreɪtfl/",
+     "pos": "adj.",
+     "en": "Not showing or feeling any thanks for something that has been done for you.",
+     "zh": "不知感恩的，忘恩负义的",
+     "ctx": "不知感恩的；特朗普骂卡尼 ungrateful，因为他拒绝向美国低头。",
+     "ex1": "Don’t be so ungrateful. 别这么不知好歹。",
+     "ex2": "His ungrateful remark hurt her. 他那句不知感恩的话刺伤了她。"
+    },
+    {
+     "w": "defer to",
+     "ipa": "/dɪˈfɜːr tuː/",
+     "pos": "phr. v.",
+     "en": "To agree to accept someone’s opinion or decision because you respect their authority or knowledge.",
+     "zh": "服从，听命于",
+     "ctx": "服从、听命于；refuses to defer to 说明卡尼不肯照美国的意思办。",
+     "ex1": "I defer to your expertise on this matter. 这件事我听从你的专业判断。",
+     "ex2": "Junior staff often defer to senior colleagues. 初级员工常听从资深同事。"
+    }
+   ]
+  },
+  {
+   "en_html": "That is how Donald Trump sees Canada, and it leaves no room for <mark class=\"voc\">mutual benefit</mark> between the two <mark class=\"voc\">allies</mark>. The bullying president is <mark class=\"voc\">ratcheting up</mark> tariffs. Canadian consumers, in response, are spitting out their Kentucky bourbon and leaving Las Vegas. Mr Carney, in office for 18 months, remains <mark class=\"voc\">defiant</mark>, the star of an extended, dramatic and <mark class=\"voc\">riveting</mark> <mark class=\"voc\">stand-off</mark>.",
+   "zh": "这，就是特朗普眼中的加拿大；而这套看法，让这两个盟友之间毫无互利可言。这位霸凌成性的总统正一步步加高关税，加拿大消费者则用实际行动回应：他们吐出嘴里的肯塔基波本威士忌，转身离开拉斯维加斯。已经上任18个月的卡尼总理依然毫不退让，成了这场旷日持久、戏剧化且扣人心弦的对峙中最耀眼的主角。",
+   "notes": [
+    {
+     "w": "mutual benefit",
+     "ipa": "/ˈmjuːtʃuəl ˈbenɪfɪt/",
+     "pos": "n.",
+     "en": "A situation in which two or more people or groups get advantages from each other.",
+     "zh": "互利，互惠",
+     "ctx": "互利；leaves no room for mutual benefit 指在特朗普眼里这是一场零和。",
+     "ex1": "The deal was designed for mutual benefit. 这笔交易旨在实现互利。",
+     "ex2": "Trade should be a game of mutual benefit. 贸易应当是互利共赢的游戏。"
+    },
+    {
+     "w": "allies",
+     "ipa": "/ˈælaɪz/",
+     "pos": "n.",
+     "en": "Countries that have agreed to help and support each other, especially in a war.",
+     "zh": "盟友，盟国",
+     "ctx": "盟友；the two allies 指美加两国，本该互利，如今只剩施压。",
+     "ex1": "The two countries have been allies for decades. 两国结盟数十年。",
+     "ex2": "We need to stand by our allies. 我们需要站在盟友一边。"
+    },
+    {
+     "w": "ratchet up",
+     "ipa": "/ˈrætʃɪt ʌp/",
+     "pos": "phr. v.",
+     "en": "To increase something gradually, stage by stage, in a way that is difficult to reverse.",
+     "zh": "逐步加码，只升不降地提高",
+     "ctx": "像棘轮一样只升不降地加码；此处指关税一层层往上叠。",
+     "ex1": "The conflict could ratchet up quickly. 冲突可能迅速升级。",
+     "ex2": "They keep ratcheting up the requirements. 他们不断提高要求。"
+    },
+    {
+     "w": "defiant",
+     "ipa": "/dɪˈfaɪənt/",
+     "pos": "adj.",
+     "en": "Boldly refusing to obey someone or something; showing a willingness to resist.",
+     "zh": "公然不服的，拒不退让的",
+     "ctx": "公然不服、拒不退让；remains defiant 写卡尼在关税面前不低头。",
+     "ex1": "The protesters remained defiant. 抗议者仍然拒不服从。",
+     "ex2": "His defiant speech drew applause. 他反抗姿态的演讲赢得掌声。"
+    },
+    {
+     "w": "riveting",
+     "ipa": "/ˈrɪvɪtɪŋ/",
+     "pos": "adj.",
+     "en": "So interesting or exciting that you cannot stop watching or listening.",
+     "zh": "引人入胜的，扣人心弦的",
+     "ctx": "扣人心弦的；作者用它形容这场对峙像戏一样好看，带点“吃瓜”意味。",
+     "ex1": "The documentary was riveting from start to finish. 这部纪录片从头到尾都引人入胜。",
+     "ex2": "She gave a riveting account of the crisis. 她对危机的叙述扣人心弦。"
+    },
+    {
+     "w": "stand-off",
+     "ipa": "/ˈstænd ɒf/",
+     "pos": "n.",
+     "en": "A situation in which neither side in a disagreement or conflict is willing to back down.",
+     "zh": "僵持，对峙",
+     "ctx": "双方都不肯让步的僵持；卡尼是这场对峙里最抢眼的主角。",
+     "ex1": "The two armies are in a tense stand-off. 两军陷入紧张对峙。",
+     "ex2": "Negotiations ended the month-long stand-off. 谈判结束了长达一个月的对峙。"
+    }
+   ]
+  },
+  {
+   "en_html": "By now you might have expected Mr Carney to have <mark class=\"voc\">caved in</mark>. Canada is only a mid-size power with a so-so economy and <mark class=\"voc\">puny</mark> armed forces. It has vulnerabilities <mark class=\"voc\">aplenty</mark>. One will be evident on October 19th, when the province of Alberta holds a <mark class=\"voc\">referendum</mark> asking if it may one day <mark class=\"voc\">secede</mark>, taking with it more oil in the ground than in the entire United States.",
+   "zh": "按理说，到了这个节骨眼上，你大概已经料定卡尼撑不下去了。加拿大充其量只是个中等规模的国家，经济马马虎虎，军队弱得可怜，软肋一抓一大把。其中一个软肋将在10月19日暴露无遗——那一天，阿尔伯塔省要举行公投，问的是：它有朝一日能不能脱离加拿大。而它一旦走了，会带走比整个美国地下还多的石油。",
+   "notes": [
+    {
+     "w": "cave in",
+     "ipa": "/keɪv ˈɪn/",
+     "pos": "phr. v.",
+     "en": "To finally stop resisting and do what someone else wants, especially after a long period of pressure.",
+     "zh": "屈服，让步，撑不住",
+     "ctx": "顶不住压力而屈服；作者先让读者以为卡尼“该撑不住了”，再反转。",
+     "ex1": "The government refused to cave in to the strikers. 政府拒绝向罢工者屈服。",
+     "ex2": "He finally caved in after hours of negotiation. 经过数小时谈判，他终于让步。"
+    },
+    {
+     "w": "puny",
+     "ipa": "/ˈpjuːni/",
+     "pos": "adj.",
+     "en": "Small, weak and not effective.",
+     "zh": "弱小的，微不足道的",
+     "ctx": "弱小得可怜的；puny armed forces 说加拿大军队不堪一击，为后文扩军做反差。",
+     "ex1": "Their puny forces could not resist the invasion. 他们弱小的军队无法抵抗入侵。",
+     "ex2": "The protest was a puny response to the crisis. 这场抗议对危机而言只是无力的回应。"
+    },
+    {
+     "w": "aplenty",
+     "ipa": "/əˈplenti/",
+     "pos": "adj.",
+     "en": "In large amounts; plenty.",
+     "zh": "大量的，充足的（后置定语）",
+     "ctx": "大量、充足，作后置定语；vulnerabilities aplenty 就是“软肋一大把”。",
+     "ex1": "The city offers entertainment aplenty. 这座城市娱乐机会多多。",
+     "ex2": "There were complaints aplenty. 抱怨声不绝于耳。"
+    },
+    {
+     "w": "referendum",
+     "ipa": "/ˌrefəˈrendəm/",
+     "pos": "n.",
+     "en": "A vote in which all the people in a country or area are asked to give their opinion about a particular issue.",
+     "zh": "全民公投",
+     "ctx": "全民公投；阿尔伯塔要问的是“有朝一日能不能脱离加拿大”。",
+     "ex1": "Scotland held a referendum on independence in 2014. 苏格兰2014年就独立举行公投。",
+     "ex2": "The referendum result was very close. 公投结果非常接近。"
+    },
+    {
+     "w": "secede",
+     "ipa": "/sɪˈsiːd/",
+     "pos": "v.",
+     "en": "To formally leave an organization, state or alliance and become independent.",
+     "zh": "脱离，独立出去",
+     "ctx": "正式脱离、独立出去；一旦走了，会带走比整个美国还多的石油。",
+     "ex1": "The region voted to secede from the country. 该地区投票脱离国家。",
+     "ex2": "Secession would trigger a constitutional crisis. 独立将引发宪法危机。"
+    }
+   ]
+  },
+  {
+   "en_html": "In fact Mr Carney is <mark class=\"voc\">riding high</mark>. Polls suggest that those Albertans will probably vote to stay. And under him, Canada is doing better than you might expect. In January it was Mr Carney, at the annual <mark class=\"voc\">jamboree</mark> in Davos, who argued that what he called the “middle powers” must find ways to <mark class=\"voc\">take on</mark> threatening ones. Nine months on, his country offers lessons for what these middle powers should do when the <mark class=\"voc\">hegemonic</mark> giant <mark class=\"voc\">pulls the mat from under</mark> them.",
+   "zh": "可事实上，卡尼如今正春风得意。民调显示，那些阿尔伯塔人大概率会选择留下。而在他的带领下，加拿大的表现也比很多人预想的要好。今年一月，正是在达沃斯那场一年一度的大聚会上，卡尼提出了他的主张：他口中的“中等强国”，必须找到办法去对抗那些咄咄逼人的大国。九个月过去，他的国家已经成了这些中等强国的范本——当那个霸权巨人猛地从他们脚下抽走垫子时，他们该怎么做。",
+   "notes": [
+    {
+     "w": "riding high",
+     "ipa": "/ˈraɪdɪŋ haɪ/",
+     "pos": "phr. v.",
+     "en": "To be very successful, confident and happy, especially after a period of difficulty.",
+     "zh": "势头正盛，春风得意",
+     "ctx": "春风得意、势头正盛；与上一段“该垮了”的预期形成反转。",
+     "ex1": "The team is riding high after three straight wins. 三连胜后球队势头正盛。",
+     "ex2": "She is riding high in the opinion polls. 她在民调中遥遥领先。"
+    },
+    {
+     "w": "jamboree",
+     "ipa": "/ˌdʒæmbəˈriː/",
+     "pos": "n.",
+     "en": "A large, lively and often noisy gathering or celebration.",
+     "zh": "喧闹的大聚会，大联欢",
+     "ctx": "喧闹的大聚会；the annual jamboree in Davos 是在暗贬达沃斯论坛的热闹。",
+     "ex1": "The conference felt more like a corporate jamboree. 这场会议更像一场企业大联欢。"
+    },
+    {
+     "w": "take on",
+     "ipa": "/teɪk ˈɒn/",
+     "pos": "phr. v.",
+     "en": "To fight or compete against someone; to accept a challenge or responsibility.",
+     "zh": "对抗，迎战；承担",
+     "ctx": "迎上去对抗、接下挑战；指中等强国得找到办法对付威胁性大国。",
+     "ex1": "No one wanted to take on the defending champion. 没人想挑战卫冕冠军。",
+     "ex2": "We need to take on climate change seriously. 我们必须认真应对气候变化。"
+    },
+    {
+     "w": "hegemonic",
+     "ipa": "/ˈhedʒɪmɒn/ /hɪˈdʒemənɪk/",
+     "pos": "n./adj.",
+     "en": "A state or group that dominates all others; hegemonic means relating to such dominance.",
+     "zh": "霸权国；霸权的，称霸的",
+     "ctx": "霸主、霸权的；the hegemonic giant 指随时可能抽走支撑的美国。",
+     "ex1": "America is often seen as a global hegemon. 美国常被视为全球霸主。",
+     "ex2": "The policy reflects hegemonic ambitions. 该政策反映了霸权野心。"
+    },
+    {
+     "w": "pull the mat from under",
+     "ipa": "/pʊl ðə mæt frəm ˈʌndər/",
+     "pos": "phr.",
+     "en": "To suddenly remove support or help from someone, leaving them in difficulty.",
+     "zh": "突然抽走支撑，釜底抽薪",
+     "ctx": "突然抽走别人脚下的支撑；指霸权国一夜之间撤走保护伞。",
+     "ex1": "The funding cut pulled the rug from under the project. 资金削减让项目突然失去支撑。"
+    }
+   ]
+  },
+  {
+   "en_html": "Those lessons start with a <mark class=\"voc\">bracing</mark> dose of realism. As we set out, middle powers will never replace the hegemons as the force that sustains powerful permanent institutions such as the UN. The world has grown more dangerous because both America and China are exploiting or <mark class=\"voc\">undermining</mark> arrangements and norms in which power was shared. <mark class=\"voc\">Emboldened</mark>, wreckers like Russia and Iran are becoming even more <mark class=\"voc\">predatory</mark>. <mark class=\"voc\">Co-ordinating</mark> the more <mark class=\"voc\">herbivorous</mark> middle powers is often too hard to get much done—as you can see in even the most developed middle-power club, the European Union.",
+   "zh": "这些经验，得从一剂令人清醒的现实主义说起。正如我们此前所阐述的：中等强国永远不可能取代那些霸权国家，成为支撑联合国这类强大常设机构的中坚力量。世界之所以变得更加危险，是因为美国和中国都在利用、或者在掏空那些原本权力共享的安排与规范。而受到鼓舞的破坏者——俄罗斯、伊朗之流——正变得更加掠夺成性。至于把那些更为“食草”的中等强国协调起来，往往难到办不成什么事；这一点，你只要看看连发育最成熟的中等强国俱乐部——欧盟，就明白了。",
+   "notes": [
+    {
+     "w": "bracing",
+     "ipa": "/ˈbreɪsɪŋ/",
+     "pos": "adj.",
+     "en": "Making you feel fresh and full of energy because it is cold; (figurative) harsh but refreshing and good for you.",
+     "zh": "令人精神一振的；凛冽而有益的",
+     "ctx": "凛冽而提神的，引申为“不舒服但有益”；a bracing dose of realism 是先泼一盆冷水。",
+     "ex1": "The cold air was bracing. 冷空气令人清醒。",
+     "ex2": "His speech offered a bracing dose of reality. 他的讲话给了一剂清醒的现实。"
+    },
+    {
+     "w": "undermine",
+     "ipa": "/ˌʌndərˈmaɪn/",
+     "pos": "v.",
+     "en": "To gradually make someone or something weaker or less effective, especially in a hidden way.",
+     "zh": "暗中削弱，掏空",
+     "ctx": "从底下悄悄掏空；指中美都在利用或蚕食原本共享权力的规则。",
+     "ex1": "Constant criticism undermined her confidence. 不断的批评削弱了她的信心。",
+     "ex2": "The scandal undermined public trust. 丑闻动摇了公众信任。"
+    },
+    {
+     "w": "emboldened",
+     "ipa": "/ɪmˈbəʊldənd/",
+     "pos": "adj.",
+     "en": "Made to feel braver or more confident; given courage to do something.",
+     "zh": "受到鼓舞的，胆子更壮的",
+     "ctx": "受到鼓舞、胆子更大；大国拆规则，让俄罗斯、伊朗这类破坏者更放肆。",
+     "ex1": "Emboldened by the win, they attacked again. 获胜让他们更大胆，再次发起攻击。",
+     "ex2": "The silence emboldened him to speak out. 沉默让他有了勇气发声。"
+    },
+    {
+     "w": "predatory",
+     "ipa": "/ˈpredətri/",
+     "pos": "adj.",
+     "en": "Living by killing and eating other animals; (figurative) exploiting others for personal gain.",
+     "zh": "掠夺成性的，捕食性的",
+     "ctx": "捕食性的、掠夺成性的；与后文 herbivorous 构成肉食对食草的对照。",
+     "ex1": "The company was accused of predatory pricing. 这家公司被控掠夺性定价。",
+     "ex2": "Predatory lenders target vulnerable borrowers. 掠夺性放贷者瞄准脆弱借款人。"
+    },
+    {
+     "w": "co-ordinate",
+     "ipa": "/kəʊˈɔːdɪneɪt/",
+     "pos": "v.",
+     "en": "To organize the different parts of an activity or the people involved so that they work together effectively.",
+     "zh": "协调，统筹",
+     "ctx": "协调、统筹；把一群“食草”国家拢到一起，往往难到办不成事。",
+     "ex1": "We need to co-ordinate our response. 我们需要协调应对。",
+     "ex2": "The teams worked in a co-ordinated way. 各团队以协调方式工作。"
+    },
+    {
+     "w": "herbivorous",
+     "ipa": "/hɜːˈbɪvərəs/",
+     "pos": "adj.",
+     "en": "Feeding on plants; not eating meat.",
+     "zh": "食草的，温和无害的",
+     "ctx": "食草的；the more herbivorous middle powers 指没什么攻击性的中等强国。",
+     "ex1": "Cows and sheep are herbivorous. 牛羊是食草动物。",
+     "ex2": "The group is more herbivorous than predatory. 这群国家更像食草动物而非捕食者。"
+    }
+   ]
+  }
+ ]
+}

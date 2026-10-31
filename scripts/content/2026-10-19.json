@@ -1,0 +1,852 @@
+{
+ "date": "2026-10-19",
+ "title_tag": "全球糖价上涨：粮食与能源之争—— 美国《纽约时报》外刊讲解第1202天",
+ "h1": "全球糖价上涨：粮食与能源之争",
+ "source_label": "The New York Times",
+ "category": "美国《纽约时报》外刊讲解 第1202天",
+ "read_minutes": 18,
+ "nav_hint": "El Niño threatens global sugar supply",
+ "headline": {
+  "en_html": "<span>El Niño <mark class=\"voc\">Threatens</mark> Global Sugar <mark class=\"voc\">Supply</mark></span> — <span>A <mark class=\"voc\">poor</mark> sugarcane crop in India, the world's second-largest producer, is hurting consumers and farmers — plus <mark class=\"voc\">undermining</mark> the country's energy security goals.</span>",
+  "zh": "厄尔尼诺发威，全球糖供应告急——印度甘蔗歉收，正在让农民和消费者一起受伤，还把这个国家的能源安全目标，从底下一点点掏空。",
+  "notes": [
+   {
+    "w": "threaten",
+    "ipa": "/ˈθretn/",
+    "pos": "v.",
+    "en": "threaten (v.) means to be likely to cause harm or damage to something",
+    "zh": "大祸临头但尚未落地的悬置感",
+    "ctx": "糖还没断供，刀已经举起来了——作者不用 hurt 或 damage，因为它们表示“已经发生”，threaten 才是“即将发生”。",
+    "ex1": "The drought threatens the harvest of more than two million farmers. 这场干旱威胁着两百多万农民的收成。",
+    "ex2": "Warming seas threaten to push the fish stocks past the point of recovery. 海水变暖，可能会把鱼类资源推向无法恢复的临界点。"
+   },
+   {
+    "w": "supply",
+    "ipa": "/səˈplaɪ/",
+    "pos": "n.",
+    "en": "supply (n.) means an amount of something that is available to be used",
+    "zh": "全球糖的总盘子",
+    "ctx": "标题用 Global Sugar Supply，把一场天气事件直接接到了全世界的糖罐子上——五个词就交代了完整的因果链。",
+    "ex1": "Global oil supply remains tight despite record output in the United States. 尽管美国产量创纪录，全球石油供应依然吃紧。",
+    "ex2": "Fresh vegetables were in short supply after the floods. 洪水过后，新鲜蔬菜供应短缺。"
+   },
+   {
+    "w": "poor",
+    "ipa": "/pɔː(r)/",
+    "pos": "adj.",
+    "en": "poor (adj.) means smaller in amount, or lower in quality, than is normal or expected",
+    "zh": "歉收的",
+    "ctx": "a poor sugarcane crop 不是“一株穷甘蔗”，是“一场收成不好的甘蔗”；外刊经济类文章中 poor harvest 是固定高频搭配——典型熟词僻义。",
+    "ex1": "Poor harvests across the region have pushed bread prices to a record high. 整个地区歉收，把面包价格推到了历史新高。",
+    "ex2": "Investors were rattled by the company's poor results in the first quarter. 公司第一季度糟糕的业绩让投资者慌了神。"
+   },
+   {
+    "w": "undermine",
+    "ipa": "/ˌʌndəˈmaɪn/",
+    "pos": "v.",
+    "en": "undermine (v.) means to make something weaker at its most basic level, usually in a way that is not immediately noticeable",
+    "zh": "悄悄掏空",
+    "ctx": "糖价一涨，印度能源安全目标的底座被一点点挖掉；作者不用 destroy——那是一下子炸掉，undermine 是你看不见的慢动作。",
+    "ex1": "Constant leaks undermined public confidence in the government's handling of the crisis. 不断出现的泄密，悄悄掏空了公众对政府处理这场危机的信任。",
+    "ex2": "Years of underfunding had undermined the foundations of the research system. 长年经费不足，已经把这套研究体系的根基掏空了。"
+   }
+  ]
+ },
+ "paragraphs": [
+  {
+   "en_html": "Conflict. Climate change. A <mark class=\"voc\">withering</mark> El Niño. All are <mark class=\"voc\">conspiring</mark> to <mark class=\"voc\">spoil</mark> the world's <mark class=\"voc\">sweet tooth</mark>. Global sugar prices have <mark class=\"voc\">soared</mark>, as a hot, dry summer scorched much of the sugar-producing parts of the world, <mark class=\"voc\">nudging</mark> overall food prices upward. Nowhere is that felt as <mark class=\"voc\">acutely</mark> as it is in India, the biggest sugar consumer in the world and the second-biggest producer. The worst <mark class=\"voc\">monsoon</mark> in 11 years and fears of a poor sugarcane harvest have <mark class=\"voc\">spiked</mark> prices amid the Hindu festival season, when gods and <mark class=\"voc\">mortals</mark> alike are <mark class=\"voc\">feted</mark> with sweets.",
+   "zh": "冲突。气候变化。一场正在让万物枯萎的厄尔尼诺。这三样东西像是商量好了似的，一起来毁掉全世界那份嗜甜的快乐。全球糖价一路飙升——一个又热又干的夏天，把世界上大片产糖区烤得焦头烂额，顺手把整体食品价格也往上顶了一顶。而这份痛，没有哪个地方感受得比印度更深切：它是全球最大的食糖消费国，也是第二大生产国。十一年来最糟糕的一场季风，加上对甘蔗歉收的恐惧，把糖价猛地戳了上去——偏偏这一切，就发生在印度教的节日季里；在这个时节，神明和凡人，都要用甜食供着。",
+   "notes": [
+    {
+     "w": "wither",
+     "ipa": "/ˈwɪðə(r)/",
+     "pos": "v.",
+     "en": "wither (v.) means if a plant withers, it becomes dry and dies",
+     "zh": "让万物枯萎",
+     "ctx": "withering 是现在分词作定语，修饰 El Niño，把一个自然现象写成了正在动手的反派；而这位反派的名字，叫“圣婴”。",
+     "ex1": "The crops withered in the fields for want of rain. 庄稼因为缺水，在田里活活枯死了。",
+     "ex2": "Their enthusiasm withered after the first few failures. 头几次失败之后，他们的热情就蔫了。"
+    },
+    {
+     "w": "conspire",
+     "ipa": "/kənˈspaɪə(r)/",
+     "pos": "v.",
+     "en": "conspire (v.) means to secretly plan with other people to do something harmful",
+     "zh": "拟人化的合谋",
+     "ctx": "战争、气候变化、厄尔尼诺三样互不相干的东西，被作者写成了一个犯罪团伙——用阴谋的动词写自然的巧合，这是外刊最爱的一手。",
+     "ex1": "High interest rates and weak demand conspired to sink the housing market. 高利率和需求疲软合谋，把楼市拖下了水。",
+     "ex2": "Everything seemed to conspire against her on the day of the interview. 面试那天，仿佛所有事情都在跟她作对。"
+    },
+    {
+     "w": "spoil",
+     "ipa": "/spɔɪl/",
+     "pos": "v.",
+     "en": "spoil (v.) means to ruin the quality or pleasure of something",
+     "zh": "毁掉那份快乐",
+     "ctx": "spoil the world's sweet tooth，把我们嗜甜的快乐给毁了——它和 sweet tooth 撞在一起，构成标题般的对仗。",
+     "ex1": "One bad apple can spoil the whole barrel. 一个烂苹果能坏掉一整桶。",
+     "ex2": "The rain spoiled what had been a perfect afternoon. 这场雨，糟蹋了一个原本完美的下午。"
+    },
+    {
+     "w": "sweet tooth",
+     "ipa": "/ˈswiːt tuːθ/",
+     "pos": "n. phrase.",
+     "en": "sweet tooth (n.) means a strong liking for sweet food",
+     "zh": "全世界那份嗜甜的快乐",
+     "ctx": "作者不写 people's love of sugar，而写 the world's sweet tooth——把人类对甜食的依赖，写成了一颗具体的、会被伤害的牙。",
+     "ex1": "I have a sweet tooth, so I always keep a bar of dark chocolate in my bag. 我嗜甜，包里总揣着一块黑巧克力。",
+     "ex2": "She baked a cake to satisfy her son's sweet tooth. 她烤了个蛋糕，好满足儿子的甜食瘾。"
+    },
+    {
+     "w": "soar",
+     "ipa": "/sɔː(r)/",
+     "pos": "v.",
+     "en": "soar (v.) means to rise very quickly to a high level",
+     "zh": "持续猛涨",
+     "ctx": "三个“涨”里幅度最大的一个，Global sugar prices have soared；和 spike 的“啪一下”、nudge 的“轻轻推”构成递减阶梯。",
+     "ex1": "Housing prices have soared by more than 40 percent in five years. 房价五年里飙升了40% 以上。",
+     "ex2": "The rocket soared into the night sky. 火箭直窜夜空。"
+    },
+    {
+     "w": "nudge",
+     "ipa": "/nʌdʒ/",
+     "pos": "v. / n.",
+     "en": "nudge (v.) means to push someone or something gently, usually with your elbow",
+     "zh": "顺带推高、温水煮青蛙式地推",
+     "ctx": "糖价飙了，整体食品价格只被 nudge 了一下——因为糖在食品里占的比例小，天天买你感觉不到，月底看账单才发现贵了。",
+     "ex1": "The tax increase nudged inflation up by less than half a percentage point. 这次加税，把通胀轻轻往上顶了不到0.5 个百分点。",
+     "ex2": "She nudged her brother and pointed at the screen. 她用胳膊肘碰了碰弟弟，指了指屏幕。"
+    },
+    {
+     "w": "acutely",
+     "ipa": "/əˈkjuːtli/",
+     "pos": "adv.",
+     "en": "acutely (adv.) means in a sharp, intense way",
+     "zh": "切肤地",
+     "ctx": "felt acutely 是痛感的强度；与前面 Nowhere 的倒装配合，构成“没有哪里比印度感受得更深切”。",
+     "ex1": "She was acutely aware that every eye in the room was on her. 她深切地意识到，屋里每一双眼睛都在看着她。",
+     "ex2": "The shortage is felt most acutely in rural areas. 这种短缺，在农村地区感受最深切。"
+    },
+    {
+     "w": "monsoon",
+     "ipa": "/ˌmɒnˈsuːn/",
+     "pos": "n.",
+     "en": "monsoon (n.) means the season of heavy rain in South Asia, or the wind that brings it",
+     "zh": "印度农业的命脉",
+     "ctx": "the worst monsoon in 11 years——在印度，这不是气象新闻，是粮食新闻。",
+     "ex1": "Farmers across the country wait for the monsoon before planting. 全国农民都等季风到了才下种。",
+     "ex2": "A weak monsoon means a poor harvest for millions of small farmers. 季风一弱，就意味着数百万小农要歉收。"
+    },
+    {
+     "w": "spike",
+     "ipa": "/spaɪk/",
+     "pos": "v. / n.",
+     "en": "spike (v.) means to rise suddenly and sharply",
+     "zh": "被恐惧一下戳上去",
+     "ctx": "推高价格的不是“歉收”本身，而是 fears of a poor harvest——货还没少，人心先慌了；它和 soar 不同：soar 是持续飞高，spike 是“啪”的一下。",
+     "ex1": "Electricity prices spiked during the heat wave. 热浪期间，电价猛地蹿了上去。",
+     "ex2": "There was a sharp spike in unemployment after the factory closed. 工厂关停后，失业人数骤然飙升。"
+    },
+    {
+     "w": "mortal",
+     "ipa": "/ˈmɔːtl/",
+     "pos": "n. / adj.",
+     "en": "mortal (n.) means a human being, especially one who will die; (adj.) means causing death, or too extreme to be defeated",
+     "zh": "会死的凡人",
+     "ctx": "gods and mortals alike——神和凡人一视同仁，都被甜食供着；这个词为第十段那句“祷告”埋下了第一颗种子。",
+     "ex1": "In the old stories, gods and mortals shared the same table. 在古老的故事里，神明和凡人同桌共食。",
+     "ex2": "He spoke of things that mere mortals were not meant to know. 他讲的那些事，本不是凡人该知道的。"
+    },
+    {
+     "w": "fete",
+     "ipa": "/feɪt/",
+     "pos": "v. / n.",
+     "en": "fete (v.) means to honor or entertain someone with a celebration",
+     "zh": "用甜食把人供起来",
+     "ctx": "gods and mortals alike are feted with sweets——它是被动态，主语是神和凡人，动作是“被甜食招待”；外刊里这个词常用被动式。",
+     "ex1": "On her return she was feted as a national hero. 她归来时，被当作民族英雄一般盛情款待。",
+     "ex2": "Visitors are feted with tea and homemade cakes in every village. 每座村子里，来客都会用茶和自制糕点招待。"
+    }
+   ]
+  },
+  {
+   "en_html": "<mark class=\"voc\">Making matters worse</mark>, high sugar prices are also <mark class=\"voc\">complicating</mark> India's energy security goals. Sugarcane is a key crop for the country's biofuels push, all the more so as India seeks to curb oil imports while the waterways of the Middle East are <mark class=\"voc\">choked</mark> by war. This year's El Niño has left many of the country's sugarcane fields <mark class=\"voc\">parched</mark>, just a year after they were <mark class=\"voc\">drenched</mark> by excess rains and <mark class=\"voc\">devoured</mark> by pests.",
+   "zh": "更糟的是，高糖价还在把印度的能源安全目标搅成一团乱麻。甘蔗正是这个国家生物燃料计划的关键作物——这一点尤其要命，因为印度正想方设法压住石油进口，偏偏中东的航道又被战争掐住了。今年的厄尔尼诺，把印度大片甘蔗地晒得干裂；而就在一年前，这些地才刚被过多的雨水泡透、被害虫啃光。",
+   "notes": [
+    {
+     "w": "make matters worse",
+     "ipa": "",
+     "pos": "（短语）",
+     "en": "make matters worse means to make an already bad situation even worse",
+     "zh": "我再给你加一层",
+     "ctx": "前面讲的是厨房里的糖，这一插入语一出来，场子立刻扩到了加油站和国家战略。",
+     "ex1": "It was raining, and, to make matters worse, the car broke down. 天在下雨，更糟的是，车还抛了锚。",
+     "ex2": "The crops failed. What's worse, the price of seed had doubled. 庄稼歉收了。更糟的是，种子价格翻了一倍。"
+    },
+    {
+     "w": "complicate",
+     "ipa": "/ˈkɒmplɪkeɪt/",
+     "pos": "v.",
+     "en": "complicate (v.) means to make a problem or situation more difficult to deal with",
+     "zh": "给……添乱",
+     "ctx": "作者不说 hurt、不说 damage、不说 threaten——他选 complicate：能源安全这事本来就难，现在又多了一团乱麻；麻烦不是被炸掉的，是被搅浑的。",
+     "ex1": "The strike further complicated an already difficult negotiation. 罢工让本就艰难的谈判更添了一团乱麻。",
+     "ex2": "A shortage of drivers has complicated the delivery of the supplies. 司机短缺，给物资运送添了乱。"
+    },
+    {
+     "w": "choke",
+     "ipa": "/tʃəʊk/",
+     "pos": "v.",
+     "en": "choke (v.) means to make it difficult for someone to breathe; to block something so nothing can pass through",
+     "zh": "把航道堵死",
+     "ctx": "the waterways of the Middle East are choked by war——一只手掐在航道上，船过不去。",
+     "ex1": "The narrow streets were choked with traffic all day. 那些窄街，一整天都堵得水泄不通。",
+     "ex2": "His voice was choked with emotion as he thanked the crowd. 他向人群道谢时，声音因激动而哽咽。"
+    },
+    {
+     "w": "parched",
+     "ipa": "/pɑːtʃt/",
+     "pos": "adj.",
+     "en": "parched (adj.) means very dry, especially because of hot weather",
+     "zh": "今年的地，被晒干了",
+     "ctx": "left the fields parched——它与下文的 drenched 构成一对：去年泡透，今年烤干。",
+     "ex1": "After three months without rain, the fields were parched and cracked. 三个月没下雨，田地干裂，裂开一道道缝。",
+     "ex2": "He drank three glasses of water to soothe his parched throat. 他灌了三杯水，好缓解冒烟的嗓子。"
+    },
+    {
+     "w": "drench",
+     "ipa": "/drentʃ/",
+     "pos": "v.",
+     "en": "drench (v.) means to make someone or something completely wet",
+     "zh": "去年被水泡烂",
+     "ctx": "drenched by excess rains——老天爷不给中间值：去年泡透，今年烤干。",
+     "ex1": "We were drenched to the skin before we reached the car. 还没走到车边，我们就被浇了个透。",
+     "ex2": "The sudden storm drenched the fields in less than an hour. 那场急风暴雨，不到一小时就把田地泡透了。"
+    },
+    {
+     "w": "devour",
+     "ipa": "/dɪˈvaʊə(r)/",
+     "pos": "v.",
+     "en": "devour (v.) means to eat something quickly and hungrily, like an animal",
+     "zh": "被害虫啃光",
+     "ctx": "devoured by pests——虫子用的是野兽吞食的动词；三个动词连起来就是印度农民这两年：drenched 泡透→devoured 啃光→parched 烤干。",
+     "ex1": "The locusts devoured the crop in a single night. 蝗虫一夜之间把庄稼啃了个精光。",
+     "ex2": "She devoured the novel in two days. 她两天就把那本小说啃完了。"
+    }
+   ]
+  },
+  {
+   "en_html": "Protests have <mark class=\"voc\">broken out</mark> over rising prices. The government has warned sugar traders against <mark class=\"voc\">hoarding</mark>. And a country that usually exports sugar has <mark class=\"voc\">taken the extraordinary step of</mark> opening the doors to imports this year, further raising global sugar prices. \"This crop is gone,\" Morarji Patil, a 30-year-old farmer, said as he stood beside his cane field one sweaty September morning in the Marathwada region of western India. Like other farmers here, Mr. Patil was already <mark class=\"voc\">crushed</mark> by debt and high fertilizer prices before the <mark class=\"voc\">blistering</mark> heat and <mark class=\"voc\">scant</mark> rains. His cane <mark class=\"voc\">stalks</mark> were thin and short, <mark class=\"voc\">stunted</mark> by a lack of water this summer when they needed it most. Mr. Patil expected his <mark class=\"voc\">yields</mark> to be 70 percent lower than normal.",
+   "zh": "抗议因涨价而爆发了。政府已经警告糖商不许囤积。而一个平时出口糖的国家，今年破天荒地迈出一步——向进口打开了大门，这反过来又把全球糖价往上推了一把。“这批庄稼完了。”三十岁的农民莫拉尔吉·帕蒂尔说。那是一个出汗的九月早晨，他站在印度西部马拉特瓦达地区自家的甘蔗地边。跟这里其他农民一样，在酷热和少雨到来之前，他就已经被债务和高昂的化肥价格压垮了。他的甘蔗秆又细又矮——在最需要水的那个夏天，水没来。帕蒂尔预计，今年的收成会比正常年份低七成。",
+   "notes": [
+    {
+     "w": "break out",
+     "ipa": "",
+     "pos": "（短语）",
+     "en": "break out means if something such as war, fire or fighting breaks out, it starts suddenly",
+     "zh": "抗议突然爆发了",
+     "ctx": "Protests have broken out over rising prices——over 在这里不是“在……上面”，是“因为”。",
+     "ex1": "Protests broke out in three cities after the fuel price rose. 油价上涨后，三座城市爆发了抗议。",
+     "ex2": "A fire broke out in the kitchen late at night. 深夜，厨房起了火。"
+    },
+    {
+     "w": "hoard",
+     "ipa": "/hɔːd/",
+     "pos": "v. / n.",
+     "en": "hoard (v.) means to collect and store large amounts of something, often in secret",
+     "zh": "囤积居奇",
+     "ctx": "老百姓一慌，糖商就囤，一囤就更贵，更贵就更慌，这是个死循环，所以政府直接下场限库存。",
+     "ex1": "Shoppers hoarded toilet paper as soon as the news broke. 消息一出，顾客就抢着囤卫生纸。",
+     "ex2": "They hoarded supplies, hoping to sell them at a higher price. 他们把货囤起来，指望着能卖个高价。"
+    },
+    {
+     "w": "take the step of doing",
+     "ipa": "",
+     "pos": "（短语）",
+     "en": "take the step of doing something means to do something important that you have been considering",
+     "zh": "破天荒地迈出这一步",
+     "ctx": "不说 has decided to import，因为这一步不是随便迈的。",
+     "ex1": "The government took the extraordinary step of closing the airports. 政府破天荒地迈出了一步：关闭机场。",
+     "ex2": "She finally took the step of starting her own business. 她终于迈出了那一步——自己创业。"
+    },
+    {
+     "w": "crush",
+     "ipa": "/krʌʃ/",
+     "pos": "v.",
+     "en": "crush (v.) means to press something so hard that it breaks or is damaged",
+     "zh": "在旱灾到来之前，就已经被压垮了",
+     "ctx": "was already crushed by debt ... before the blistering heat——天灾不是起因，天灾是最后一击。",
+     "ex1": "Many small farmers are crushed by debt before the first crop is sold. 许多小农在头一茬庄稼卖出之前，就已被债务压垮。",
+     "ex2": "The news crushed her hopes of going to university. 这个消息，碾碎了她上大学的希望。"
+    },
+    {
+     "w": "blistering",
+     "ipa": "/ˈblɪstərɪŋ/",
+     "pos": "adj.",
+     "en": "blistering (adj.) means extremely hot, or done with great speed, force or anger",
+     "zh": "酷热",
+     "ctx": "the blistering heat——外刊里 blistering 常形容热、快、狠三层意思，如 a blistering attack 一顿猛批。",
+     "ex1": "Workers laboured in blistering heat to repair the road. 工人们在酷热中修路。",
+     "ex2": "The minister came under blistering criticism from both sides. 部长受到来自双方的猛烈批评。"
+    },
+    {
+     "w": "scant",
+     "ipa": "/skænt/",
+     "pos": "adj.",
+     "en": "scant (adj.) means not enough; very small in amount",
+     "zh": "雨少得可怜",
+     "ctx": "scant rains——与前面的 crushed by debt 一起，构成债务→化肥贵→酷热→少雨，一件件往上摞。",
+     "ex1": "The team paid scant attention to the warnings. 那支队伍几乎没把警告当回事。",
+     "ex2": "There is scant evidence that the policy has worked. 几乎没有证据表明这项政策起了作用。"
+    },
+    {
+     "w": "stalk",
+     "ipa": "/stɔːk/",
+     "pos": "n. / v.",
+     "en": "stalk (n.) means the main stem of a plant; (v.) means to follow someone secretly and persistently",
+     "zh": "甘蔗秆",
+     "ctx": "His cane stalks were thin and short——一年生的秆子又细又矮，说明它在最需要水的夏天，没喝到水。",
+     "ex1": "He pulled a stalk of sugarcane from the field to show us. 他从地里拔出一根甘蔗秆给我们看。",
+     "ex2": "In the old photograph, the corn stalks were taller than the boy. 那张老照片里，玉米秆比那孩子还高。"
+    },
+    {
+     "w": "stunt",
+     "ipa": "/stʌnt/",
+     "pos": "v. / n.",
+     "en": "stunt (v.) means to prevent something from growing to its full size; (n.) a dangerous action done for entertainment",
+     "zh": "发育不良的",
+     "ctx": "stunted by a lack of water——过去分词短语作原因状语，解释甘蔗为什么又细又矮。",
+     "ex1": "Her growth was stunted by years of poor nutrition. 长年营养不良，阻碍了她的发育。",
+     "ex2": "The company staged a publicity stunt to launch the new phone. 公司为发布新手机，搞了一次博眼球的噱头活动。"
+    },
+    {
+     "w": "yield",
+     "ipa": "/jiːld/",
+     "pos": "n. / v.",
+     "en": "yield (n.) means the amount of food produced on an area of land; (v.) means to produce or to give way",
+     "zh": "收成",
+     "ctx": "expected his yields to be 70 percent lower than normal——三户农民连成一条递减线：七成→一半→四分之一。",
+     "ex1": "Crop yields fell by nearly a third after the drought. 干旱之后，粮食产量下降了近三分之一。",
+     "ex2": "The new seeds give a higher yield per acre. 新种子让每亩产量更高了。"
+    }
+   ]
+  },
+  {
+   "en_html": "India represents an <mark class=\"voc\">object lesson</mark> on the <mark class=\"voc\">far-reaching</mark> effects of conflict and extreme weather on a nation's economy. Food prices are rising month by month. Key crops <mark class=\"voc\">remain at risk</mark> as <mark class=\"voc\">the long tail</mark> of El Niño drags out through next year, heightening the <mark class=\"voc\">likelihood</mark> of extreme drought and flood. <mark class=\"voc\">On top of that</mark>, India is extremely <mark class=\"voc\">vulnerable</mark> to global oil supply shocks. It imports the vast majority of its crude oil. It's not just India. <mark class=\"voc\">Extraordinary</mark> heat and drought this year have <mark class=\"voc\">hit</mark> sugarcane in Brazil, the world's biggest sugar producer, and <mark class=\"voc\">sugar beets</mark> in Europe. Global sugar prices are nearly 15 percent higher than they were a year ago.",
+   "zh": "印度就是一件摆在眼前的活教材——它演示了冲突和极端天气，能对一个国家的经济产生多深远的影响。食品价格一个月一个月地往上走。关键作物依然岌岌可危，因为厄尔尼诺那条长尾巴还要一路拖到明年，把极端干旱和洪水发生的可能性又抬高了。雪上加霜的是，印度在全球石油供应冲击面前，脆弱得不堪一击——它绝大部分的原油都靠进口。而且，倒霉的不止印度一个。今年破纪录的高温和干旱，同时打击了巴西的甘蔗和欧洲的甜菜——前者是全球最大的产糖国。全球糖价，已经比一年前高出将近15%。",
+   "notes": [
+    {
+     "w": "object lesson",
+     "ipa": "/ˈɒbdʒɪkt ˈlesn/",
+     "pos": "n. phrase.",
+     "en": "an object lesson is a clear, practical example of how something should or should not be done",
+     "zh": "活生生的教材",
+     "ctx": "印度用自己的经济，给全世界演示了一遍战争加极端天气能把一个国家搞成什么样；注意：它绝不是“物体课”，这是本段最大的陷阱。",
+     "ex1": "The collapse of the bank was an object lesson in what happens when regulation is weak. 那家银行的倒闭，是监管松懈会酿成什么后果的活教材。",
+     "ex2": "Every failed project should be treated as an object lesson. 每一个失败的项目，都该被当作摆在眼前的教材。"
+    },
+    {
+     "w": "far-reaching",
+     "ipa": "/ˌfɑː ˈriːtʃɪŋ/",
+     "pos": "adj.",
+     "en": "far-reaching (adj.) means having a wide influence or effect",
+     "zh": "影响面极广",
+     "ctx": "far-reaching effects of conflict and extreme weather——一条因果链从太平洋一直伸到印度人的餐桌。",
+     "ex1": "The decision had far-reaching consequences for the whole industry. 这个决定对整个行业产生了深远影响。",
+     "ex2": "They announced far-reaching reforms of the tax system. 他们宣布了对税制影响深远的改革。"
+    },
+    {
+     "w": "remain at risk",
+     "ipa": "",
+     "pos": "（短语）",
+     "en": "remain at risk means to continue to be in a situation where something bad could happen",
+     "zh": "危险还没过去",
+     "ctx": "Key crops remain at risk——不是“现在危险”，是“危险的状态一直没解除”。",
+     "ex1": "Hundreds of homes remain at risk from the rising water. 数百户人家仍处在上涨的洪水威胁之下。",
+     "ex2": "The harvest remains at risk until the rains arrive. 雨不来，收成就一直悬着。"
+    },
+    {
+     "w": "the long tail",
+     "ipa": "",
+     "pos": "（短语）",
+     "en": "the long tail means the effect of something that continues long after the main event is over",
+     "zh": "厄尔尼诺拖在后面的那条尾巴",
+     "ctx": "the long tail of El Niño drags out through next year——它今年闹完，明年还拖着你。",
+     "ex1": "Doctors warn of the long tail of the disease, which can last for years. 医生警告这种病有很长的尾巴，可能持续数年。",
+     "ex2": "Even after the war ended, its long tail was felt for a generation. 战争结束了，它的长尾效应还影响了一代人。"
+    },
+    {
+     "w": "likelihood",
+     "ipa": "/ˈlaɪklihʊd/",
+     "pos": "n.",
+     "en": "likelihood (n.) means the chance that something will happen",
+     "zh": "概率被抬高了",
+     "ctx": "heightening the likelihood of extreme drought and flood——尾巴一拖，概率就上去了。",
+     "ex1": "There is a strong likelihood of rain later this week. 本周晚些时候极有可能下雨。",
+     "ex2": "The new treatment reduces the likelihood of complications. 新疗法降低了出现并发症的可能性。"
+    },
+    {
+     "w": "on top of that",
+     "ipa": "",
+     "pos": "（短语）",
+     "en": "on top of that means in addition to what has been said, especially when it is bad",
+     "zh": "雪上加霜",
+     "ctx": "On top of that, India is vulnerable to oil shocks——已经一堆事了，又往上摞了一件。",
+     "ex1": "It rained for a week and, on top of that, the hotel lost our booking. 雨下了一周，更糟的是，酒店还把我们的预订弄丢了。",
+     "ex2": "He lost his job and, to top it all off, his car broke down. 他丢了工作，雪上加霜的是，车还坏了。"
+    },
+    {
+     "w": "vulnerable",
+     "ipa": "/ˈvʌlnərəbl/",
+     "pos": "adj.",
+     "en": "vulnerable (adj.) means able to be easily hurt or harmed, especially because you have no protection",
+     "zh": "毫无招架之力",
+     "ctx": "vulnerable to global oil supply shocks——一个国家的两个命门，吃的和烧的，同时被掐住了。",
+     "ex1": "Older people are especially vulnerable to extreme heat. 老年人尤其容易受到极端高温的伤害。",
+     "ex2": "The country remains highly vulnerable to oil supply shocks. 这个国家在石油供应冲击面前，依然极其脆弱。"
+    },
+    {
+     "w": "extraordinary",
+     "ipa": "/ɪkˈstrɔːdnri/",
+     "pos": "adj.",
+     "en": "extraordinary (adj.) means very unusual or surprising",
+     "zh": "破天荒的",
+     "ctx": "一个常年出口糖的国家，如今开门进口——这个动作本身就是 extraordinary。",
+     "ex1": "The hospital took extraordinary measures to save the patient. 医院采取了非常规手段去抢救那个病人。",
+     "ex2": "It was an extraordinary achievement for a first novel. 对一部处女作来说，那是了不起的成就。"
+    },
+    {
+     "w": "hit",
+     "ipa": "/hɪt/",
+     "pos": "v.",
+     "en": "hit (v.) means to affect someone or something very badly",
+     "zh": "打击",
+     "ctx": "have hit sugarcane in Brazil and sugar beets in Europe——灾害类外刊的万能动词：不说 damage，不说 affect，像一拳打过来，一拳打在两处。",
+     "ex1": "The drought hit the harvest across three provinces. 干旱打击了三个省的收成。",
+     "ex2": "The tourism industry was hit hard by the pandemic. 旅游业受到疫情的重创。"
+    },
+    {
+     "w": "sugar beet",
+     "ipa": "/ˈʃʊɡə biːt/",
+     "pos": "n. phrase.",
+     "en": "sugar beet means a plant with a large white root from which sugar is made",
+     "zh": "欧洲的糖源",
+     "ctx": "今年两条腿一起挨打——巴西的甘蔗和欧洲的甜菜同时受灾。",
+     "ex1": "Much of Europe's sugar comes from sugar beet rather than cane. 欧洲的糖大部分来自甜菜，而不是甘蔗。",
+     "ex2": "The sugar beet crop suffered badly in the dry summer. 那个干旱的夏天里，甜菜收成糟糕透顶。"
+    }
+   ]
+  },
+  {
+   "en_html": "In India, sugar has long <mark class=\"voc\">enjoyed</mark> state support. Most recently, the industry <mark class=\"voc\">profited from</mark> a government <mark class=\"voc\">directive</mark> that made 20-percent <mark class=\"voc\">ethanol</mark> <mark class=\"voc\">blends</mark> the standard fuel at Indian gas stations. The government said its biofuels push reduced oil demand and climate pollution, while also saving the country's <mark class=\"voc\">precious</mark> <mark class=\"voc\">foreign exchange</mark>. It called ethanol blends \"a key <mark class=\"voc\">pillar</mark> of India's energy transition.\" It offered sugar <mark class=\"voc\">refineries</mark> an additional source of revenue. It also <mark class=\"voc\">infuriated</mark> Indian drivers.",
+   "zh": "在印度，糖长期以来都享受着国家的扶持。最近，这个行业从一项政府指令里赚到了钱——这项指令把含20% 乙醇的混合燃油，定为印度加油站的标准燃油。政府说，它推的这套生物燃料，既压低了石油需求和气候污染，又省下了国家宝贵的外汇。它把这种乙醇燃油称作“印度能源转型的一根关键支柱”。它给糖厂送去了一笔额外收入。它同时也把印度司机气炸了。",
+   "notes": [
+    {
+     "w": "enjoy",
+     "ipa": "/ɪnˈdʒɔɪ/",
+     "pos": "v.",
+     "en": "enjoy (v.) means to have and be able to use something good or useful",
+     "zh": "享有",
+     "ctx": "sugar has long enjoyed state support——糖不是普通商品，它被政策抱在怀里。",
+     "ex1": "The industry has long enjoyed protection from the state. 这个行业长期以来享受着国家的保护。",
+     "ex2": "He enjoys a reputation as one of the finest chefs in the city. 他享有这座城市最好厨师之一的名声。"
+    },
+    {
+     "w": "profit from",
+     "ipa": "",
+     "pos": "（短语）",
+     "en": "profit from something means to get an advantage or money from it",
+     "zh": "实实在在赚到了钱",
+     "ctx": "作者不用 benefited from，因为 profit 把“赚钱”两个字写在脸上了。",
+     "ex1": "The company profited handsomely from the rise in demand. 公司从需求上涨中大赚了一笔。",
+     "ex2": "He profited from information that other investors did not have. 他靠别的投资者没有的信息赚了钱。"
+    },
+    {
+     "w": "directive",
+     "ipa": "/dəˈrektɪv/",
+     "pos": "n.",
+     "en": "directive (n.) means an official order or instruction",
+     "zh": "一道让糖厂赚钱的政令",
+     "ctx": "直接把20% 乙醇汽油定成全国加油站的标配。",
+     "ex1": "The ministry issued a directive ordering all schools to close. 部里下达指令，要求所有学校关闭。",
+     "ex2": "Under the new directive, every station must sell the blended fuel. 按新指令，每个加油站都必须出售这种混合燃油。"
+    },
+    {
+     "w": "ethanol",
+     "ipa": "/ˈeθənɒl/",
+     "pos": "n.",
+     "en": "ethanol (n.) means a type of alcohol that can be used as a fuel, made from plants such as sugarcane or corn",
+     "zh": "掺进汽油里的那种酒精",
+     "ctx": "20-percent ethanol blends——印度把它叫 E20，2026 年4 月起成为全国加油站标配。",
+     "ex1": "Brazil has used ethanol as a vehicle fuel for decades. 巴西把乙醇当车用燃料用了几十年。",
+     "ex2": "The government ordered more ethanol to be blended into petrol. 政府下令在汽油中掺入更多乙醇。"
+    },
+    {
+     "w": "blend",
+     "ipa": "/blend/",
+     "pos": "n. / v.",
+     "en": "blend (n.) means a mixture of different things; (v.) to mix things together",
+     "zh": "酒精和汽油的混合油",
+     "ctx": "ethanol blends——司机加的不再是纯汽油，而是一份掺出来的东西。",
+     "ex1": "The new fuel is a blend of petrol and ethanol. 这种新燃料是汽油和乙醇的混合物。",
+     "ex2": "The city is a blend of old and new. 这座城市是新旧交融的产物。"
+    },
+    {
+     "w": "precious",
+     "ipa": "/ˈpreʃəs/",
+     "pos": "adj.",
+     "en": "precious (adj.) means rare and valuable, and therefore worth protecting",
+     "zh": "金贵得很",
+     "ctx": "saving the country's precious foreign exchange——对一个高度依赖进口的国家，外汇是命根子，所以作者给它加了“珍贵”两个字。",
+     "ex1": "Every drop of water became precious during the drought. 干旱期间，每一滴水都变得金贵起来。",
+     "ex2": "The country spends precious foreign exchange importing fuel. 这个国家花掉宝贵的外汇去进口燃料。"
+    },
+    {
+     "w": "foreign exchange",
+     "ipa": "/ˈfɒrɪn ɪksˈtʃeɪndʒ/",
+     "pos": "n. phrase.",
+     "en": "foreign exchange means the system of buying and selling foreign money; the money a country holds in other currencies",
+     "zh": "买油要花的那些美元",
+     "ctx": "印度每少进口一桶油，就少花一笔美元；对一个高度依赖进口的国家，外汇是命根子。",
+     "ex1": "Every barrel it no longer imports saves precious foreign exchange. 每少进口一桶油，就省下一笔宝贵的外汇。",
+     "ex2": "The central bank stepped in to defend the currency with its foreign reserves. 央行出手，动用外汇储备保卫本币。"
+    },
+    {
+     "w": "pillar",
+     "ipa": "/ˈpɪlə(r)/",
+     "pos": "n.",
+     "en": "pillar (n.) means a strong column that supports a building; something important that supports a system",
+     "zh": "能源转型的支柱",
+     "ctx": "不是“一个办法”，是“支柱”：抽了它就塌。",
+     "ex1": "Farming remains a pillar of the local economy. 农业仍是当地经济的支柱。",
+     "ex2": "She was a pillar of strength to her family throughout the crisis. 整场危机中，她都是全家的顶梁柱。"
+    },
+    {
+     "w": "refinery",
+     "ipa": "/rɪˈfaɪnəri/",
+     "pos": "n.",
+     "en": "refinery (n.) means a factory where a substance such as oil or sugar is made pure",
+     "zh": "糖厂",
+     "ctx": "第5 段结尾那句 It offered sugar refineries an additional source of revenue，说的就是它们。",
+     "ex1": "The sugar refinery runs day and night during the harvest. 收成季里，糖厂日夜不停地运转。",
+     "ex2": "Oil refineries along the coast were forced to shut down. 沿海的那些炼油厂被迫关停。"
+    },
+    {
+     "w": "infuriate",
+     "ipa": "/ɪnˈfjʊərieɪt/",
+     "pos": "v.",
+     "en": "infuriate (v.) means to make someone extremely angry",
+     "zh": "把司机气炸了",
+     "ctx": "与前一句 It offered sugar refineries... 构成并列的两个短句：一手给糖，一手给巴掌；作者连一个转折词都没用。",
+     "ex1": "The new charges infuriated commuters across the city. 新的收费把全城的通勤者气炸了。",
+     "ex2": "She was infuriated by his refusal to answer the question. 他拒绝回答那个问题，把她气坏了。"
+    }
+   ]
+  },
+  {
+   "en_html": "Aditya Kare, 21, was <mark class=\"voc\">refueling</mark> his 2018 Hero motorcycle at a gas station in the nearby city of Latur. He said the ethanol blend had reduced his average <mark class=\"voc\">mileage</mark> from 60 kilometers per liter to around 45, and he was having a hard time <mark class=\"voc\">making do with</mark> the 100 rupees, a little more than $1, that his parents gave him for his <mark class=\"voc\">commute</mark> to college. \"At home, we are planning to get an electric bike,\" he said.",
+   "zh": "21 岁的阿迪蒂亚·卡雷，正在附近的拉图尔市一座加油站，给他那辆2018 款的Hero 摩托车加油。他说，乙醇混合燃油把他的平均油耗，从每升60 公里压到了45 公里左右——父母给他上学通勤的那100 卢比（也就比一美元多一点），他越来越难凑合着撑过去了。“我们家正打算买一辆电动车，”他说。",
+   "notes": [
+    {
+     "w": "refuel",
+     "ipa": "/ˌriːˈfjuːəl/",
+     "pos": "v.",
+     "en": "refuel (v.) means to put more fuel into a vehicle",
+     "zh": "正在给摩托车加油",
+     "ctx": "was refueling his 2018 Hero motorcycle——全篇唯一一个动态画面：一个年轻人，站在加油站。",
+     "ex1": "He pulled into the station to refuel before the long drive. 他把车开进加油站，好在长途驾驶前加满油。",
+     "ex2": "The plane landed to refuel and took off an hour later. 飞机降落加油，一小时后重新起飞。"
+    },
+    {
+     "w": "mileage",
+     "ipa": "/ˈmaɪlɪdʒ/",
+     "pos": "n.",
+     "en": "mileage (n.) means the number of miles a vehicle can travel using a particular amount of fuel",
+     "zh": "每升能跑多少公里",
+     "ctx": "from 60 kilometers per liter to around 45——换算过来是百公里1.67 升变成了2.22 升，多烧三分之一。",
+     "ex1": "The car's mileage fell after they switched to the new fuel. 换成新燃料后，这辆车的油耗明显变差了。",
+     "ex2": "He checked the mileage before deciding whether to buy it. 他先看了油耗，再决定买不买。"
+    },
+    {
+     "w": "make do with",
+     "ipa": "",
+     "pos": "（短语）",
+     "en": "make do with something means to manage with what you have, even though it is not really enough",
+     "zh": "靠100 卢比撑过去",
+     "ctx": "那100 卢比约合1 美元多，也就是7 块多人民币，是他一天上学的钱。",
+     "ex1": "We had no bread, so we had to make do with rice. 没有面包了，我们只能拿米饭凑合。",
+     "ex2": "She made do with what she had and never complained. 她手头有什么就用什么，从不抱怨。"
+    },
+    {
+     "w": "commute",
+     "ipa": "/kəˈmjuːt/",
+     "pos": "n. / v.",
+     "en": "commute (n.) means the journey to work or school and back every day",
+     "zh": "上学的路程",
+     "ctx": "父母给他那100 卢比，是让他去上学的。",
+     "ex1": "His commute to college takes almost an hour each way. 他上学单程就要将近一小时。",
+     "ex2": "More people are choosing to commute by bike in the city. 城里越来越多人选择骑车通勤。"
+    }
+   ]
+  },
+  {
+   "en_html": "Sugarcane <mark class=\"voc\">comes with</mark> a high cost. It is a <mark class=\"voc\">thirsty</mark> crop, and its demand, for both food and fuel, is forcing many farmers to <mark class=\"voc\">drill</mark> deeper for water and <mark class=\"voc\">drain</mark> local <mark class=\"voc\">aquifers</mark>. Mr. Patil's well goes down 800 feet. This year, even at that depth, there is no water. A dam on the Manjara River has become a dry <mark class=\"voc\">ditch</mark>. Ponds are <mark class=\"voc\">bare</mark>. \"This environment is not good for sugarcane,\" said Ganesh Gomare, a farmer. \"But the economy of Marathwada is dependent on sugarcane.\"",
+   "zh": "甘蔗，是带着高昂代价来的。它是一种很“渴”的作物，而它作为食物与燃料的双重需求，正逼着许多农民往更深处打井，把当地的地下含水层抽干。帕蒂尔家的井，往下打了800 英尺——可今年，打到了那个深度，依然没有水。曼贾拉河上的那座水坝，如今成了一条干沟。池塘，空空如也。“这方水土，不适合种甘蔗，”农民加内什·戈马雷说。“可马拉特瓦达的经济，就靠甘蔗撑着。”",
+   "notes": [
+    {
+     "w": "come with",
+     "ipa": "",
+     "pos": "（短语）",
+     "en": "come with something means to include something as a part or feature, or to have it as a necessary result",
+     "zh": "代价是跟着甘蔗一起长出来的",
+     "ctx": "不说 has a high cost，因为 comes with 的意思是：你种它，这份代价就和它一起长出来了，掰不开。",
+     "ex1": "Every choice comes with a cost. 每一个选择，都带着代价。",
+     "ex2": "The apartment comes with a small garage. 这套公寓带一个小车库。"
+    },
+    {
+     "w": "thirsty",
+     "ipa": "/ˈθɜːsti/",
+     "pos": "adj.",
+     "en": "thirsty (adj.) means needing to drink; used of plants, needing a lot of water",
+     "zh": "喝水大户",
+     "ctx": "a thirsty crop——生产一公斤蔗糖，从种到炼全程要耗掉一千多升水。",
+     "ex1": "Sugarcane is a thirsty crop, and the wells are running dry. 甘蔗是喝水大户，而井正在见底。",
+     "ex2": "After two hours in the sun, the workers were thirsty and tired. 在太阳下干了两个小时，工人们又渴又累。"
+    },
+    {
+     "w": "drill",
+     "ipa": "/drɪl/",
+     "pos": "v.",
+     "en": "drill (v.) means to make a hole in the ground using a special machine, in order to find water or oil",
+     "zh": "往更深处打井",
+     "ctx": "不是农民想打井，是需求在逼他们打。",
+     "ex1": "Farmers are drilling deeper each year to reach the falling water table. 农民们一年比一年钻得深，去够那越来越低的水位。",
+     "ex2": "They drilled for oil for three years and found nothing. 他们钻了三年石油，一无所获。"
+    },
+    {
+     "w": "drain",
+     "ipa": "/dreɪn/",
+     "pos": "v.",
+     "en": "drain (v.) means to make the water in something flow away, so that it becomes empty",
+     "zh": "把地下水层抽干",
+     "ctx": "地下那块储存水的“海绵”，正在被抽空。",
+     "ex1": "Years of overuse have drained the aquifer beneath the plain. 长年超采，把平原下面的含水层抽干了。",
+     "ex2": "The project drained the swamp and turned it into farmland. 这项工程抽干了沼泽，把它变成了农田。"
+    },
+    {
+     "w": "aquifer",
+     "ipa": "/ˈækwɪfə(r)/",
+     "pos": "n.",
+     "en": "aquifer (n.) means a layer of rock or soil under the ground that holds water",
+     "zh": "农民往上钻的那块海绵",
+     "ctx": "井打得越深，这块海绵就干得越快。",
+     "ex1": "The local aquifer has fallen by several metres in ten years. 当地含水层十年间下降了好几米。",
+     "ex2": "Once an aquifer is drained, it may take centuries to refill. 含水层一旦被抽干，可能要几个世纪才能重新蓄满。"
+    },
+    {
+     "w": "ditch",
+     "ipa": "/dɪtʃ/",
+     "pos": "n.",
+     "en": "ditch (n.) means a narrow channel dug in the ground, used for water or drainage",
+     "zh": "大坝自己变成了一条干沟",
+     "ctx": "本该把水拦住的东西，现在自己成了漏水的沟。",
+     "ex1": "The stream behind the village is little more than a ditch now. 村后那条小溪，如今几乎只剩一条沟了。",
+     "ex2": "Workers dug a ditch to carry the water to the fields. 工人们挖了一条沟，把水引到田里。"
+    },
+    {
+     "w": "bare",
+     "ipa": "/beə(r)/",
+     "pos": "adj.",
+     "en": "bare (adj.) means empty, with nothing in it or covering it",
+     "zh": "池塘空空如也",
+     "ctx": "Ponds are bare——三个词，一个句号；作者写完就闭了嘴，这句不要去解释，停两秒。",
+     "ex1": "The shelves were bare by the end of the day. 一天下来，货架空了。",
+     "ex2": "The trees stood bare against the winter sky. 树木光秃秃的，立在冬天的天空下。"
+    }
+   ]
+  },
+  {
+   "en_html": "Sugar is <mark class=\"voc\">tempting</mark>. It enjoys relatively high profits. So Mr. Gomare, 38, <mark class=\"voc\">devoted</mark> more of his land to sugarcane this year. It <mark class=\"voc\">backfired</mark>. He expects his yields to be half of normal.",
+   "zh": "糖是诱人的。它利润相对高。所以38 岁的戈马雷先生今年把更多的地，押给了甘蔗。适得其反。他预计，收成只有正常年份的一半。",
+   "notes": [
+    {
+     "w": "tempting",
+     "ipa": "/ˈtemptɪŋ/",
+     "pos": "adj.",
+     "en": "tempting (adj.) means making you want to have or do it, even though you know you probably should not",
+     "zh": "明知有风险，还是忍不住",
+     "ctx": "马拉特瓦达的水本就不够，可甘蔗利润高，糖厂就在旁边。",
+     "ex1": "The offer was tempting, but she knew the risks were too great. 那份报价很诱人，但她知道风险太大了。",
+     "ex2": "The cake looked tempting, and he had not eaten since morning. 那块蛋糕看着太勾人，而他一早到现在还没吃东西。"
+    },
+    {
+     "w": "devote A to B",
+     "ipa": "",
+     "pos": "（短语）",
+     "en": "devote A to B means to give a large part of your time, effort or resources to one particular thing",
+     "zh": "把更多地押在甘蔗上",
+     "ctx": "他不是被骗去种的，他是主动押的注。",
+     "ex1": "He devoted more of his land to the crop that promised the highest price. 他把更多的地，押在了那个承诺价最高的作物上。",
+     "ex2": "She devoted herself to teaching for more than thirty years. 她献身教育三十多年。"
+    },
+    {
+     "w": "backfire",
+     "ipa": "/ˌbækˈfaɪə(r)/",
+     "pos": "v.",
+     "en": "backfire (v.) means if a plan or action backfires, it has the opposite result to the one you intended",
+     "zh": "赌注反噬了自己",
+     "ctx": "两句话铺垫押注，两个字把它全部炸回来——这是英文写作里最狠的一招：长铺短收。",
+     "ex1": "The plan to save money backfired and cost them twice as much. 省钱的反倒花掉了两倍的钱。",
+     "ex2": "His joke backfired on him when nobody laughed. 没人笑，他那个笑话反噬到了自己身上。"
+    }
+   ]
+  },
+  {
+   "en_html": "Nearby, Dagdu Venkat Rao Padile, 66, <mark class=\"voc\">uprooted</mark> a stalk of sugarcane from his field. The plant was <mark class=\"voc\">emaciated</mark>. Its sugar content would be <mark class=\"voc\">paltry</mark>. \"It will cost me more to cut it than what I'll get for it,\" Mr. Padile said. His yields would be one-fourth of normal. The rains were so poor that he had left most of his land <mark class=\"voc\">fallow</mark>.",
+   "zh": "不远处，66 岁的达格杜·文卡特·拉奥·帕迪尔，从自家地里连根拔起了一根甘蔗。这株植物瘦得脱了形。它的含糖量，会少得可怜。“割它花的钱，比卖它能挣的还多，”帕迪尔说。他估摸着，今年的收成只有正常年份的四分之一。雨水少成那样，他干脆把大部分地都撂荒了。",
+   "notes": [
+    {
+     "w": "uproot",
+     "ipa": "/ˌʌpˈruːt/",
+     "pos": "v.",
+     "en": "uproot (v.) means to pull a plant out of the ground, including its roots",
+     "zh": "拔出来是为了看",
+     "ctx": "割，是为了收；拔，是为了看：他想知道这根甘蔗到底长成了什么样。",
+     "ex1": "He uprooted a cane and held it up for us to see how thin it was. 他拔出一根甘蔗举起来，让我们看它有多细。",
+     "ex2": "Thousands of families were uprooted by the war. 战争让数千家庭背井离乡。"
+    },
+    {
+     "w": "emaciated",
+     "ipa": "/ɪˈmeɪsieɪtɪd/",
+     "pos": "adj.",
+     "en": "emaciated (adj.) means extremely thin and weak, especially because of illness or lack of food",
+     "zh": "饿瘦了的甘蔗",
+     "ctx": "作者把一个本来形容人和动物的词用在一根植物上，一个词就把甘蔗写成了营养不良的孩子，而它饿，是因为最需要水的那个夏天，水没来。",
+     "ex1": "The rescuers found children too emaciated to stand. 救援人员发现的那些孩子，瘦得站都站不起来。",
+     "ex2": "After months without rain, the plants looked emaciated. 几个月没下雨，那些植物看上去都饿瘦了。"
+    },
+    {
+     "w": "paltry",
+     "ipa": "/ˈpɔːltri/",
+     "pos": "adj.",
+     "en": "paltry (adj.) means very small in amount, and of little or no value",
+     "zh": "含糖量少得可怜",
+     "ctx": "一根甘蔗的全部价值就在它的糖上，而今年糖也少得可怜。",
+     "ex1": "They were offered a paltry sum for a year's work. 干了一年，他们只拿到一笔少得可怜的钱。",
+     "ex2": "The raise was so paltry that nobody bothered to thank anyone. 那点加薪少得可怜，没人愿意为它道谢。"
+    },
+    {
+     "w": "fallow",
+     "ipa": "/ˈfæləʊ/",
+     "pos": "adj.",
+     "en": "fallow (adj.) means if land is left fallow, it is not planted with crops for a season, to let the soil recover",
+     "zh": "没水可浇，只能撂荒",
+     "ctx": "他不是想让地歇，是种不起；一个农民把地空着，是他这辈子最难受的事。",
+     "ex1": "With no water in the wells, he left most of his land fallow. 井里没水，他只好把大部分地撂荒。",
+     "ex2": "Farmers let the fields lie fallow every third year. 农民们每三年让地休耕一次。"
+    }
+   ]
+  },
+  {
+   "en_html": "Tanisha Gaikwad had <mark class=\"voc\">all but</mark> cut sugar from her diet. But she <mark class=\"voc\">joined the line</mark> at the sweet shop for a small box of laddoos to offer at the <mark class=\"voc\">altar</mark> for Mahalaxmi, a goddess of wealth and power. Her prayers, she said, could not be <mark class=\"voc\">sugar-free</mark>.",
+   "zh": "塔妮莎·盖克瓦德，已经几乎把糖从自己的饮食里戒掉了。可她还是去糖果店排了队，买了一小盒拉杜——要供在祭台上，献给吉祥天女，一位掌管财富与力量的女神。她说，她的祷告，不能是无糖的。",
+   "notes": [
+    {
+     "w": "all but",
+     "ipa": "",
+     "pos": "（短语）",
+     "en": "all but means almost completely; very nearly",
+     "zh": "已经差不多戒掉了",
+     "ctx": "她自己不吃了，但还是要排队去买最甜的那种供神。",
+     "ex1": "By the time help arrived, the game was all but over. 救援赶到时，比赛差不多已经结束了。",
+     "ex2": "The old town was all but destroyed by the earthquake. 那座老城几乎被地震彻底毁掉。"
+    },
+    {
+     "w": "join the line",
+     "ipa": "",
+     "pos": "（短语）",
+     "en": "join the line means to go and stand at the end of a queue of people waiting",
+     "zh": "她跟着大家一起排队等",
+     "ctx": "戒了糖的人，为了供神又站回了那条队里。",
+     "ex1": "She joined the line outside the shop and waited her turn. 她在店外排进队伍，等着轮到自己。",
+     "ex2": "People were joining the line before the shop had even opened. 店还没开门，人们就已经在排队了。"
+    },
+    {
+     "w": "altar",
+     "ipa": "/ˈɔːltə(r)/",
+     "pos": "n.",
+     "en": "altar (n.) means a table or raised surface used for religious ceremonies",
+     "zh": "供神的那个台子",
+     "ctx": "她买的拉杜不是零食，是摆到台上去的东西。",
+     "ex1": "She placed the small box of sweets on the altar. 她把那一小盒甜食摆上了供台。",
+     "ex2": "Flowers are laid at the altar every morning. 每天早上，都有人把鲜花供在祭坛前。"
+    },
+    {
+     "w": "sugar-free",
+     "ipa": "/ˈʃʊɡə friː/",
+     "pos": "adj.",
+     "en": "sugar-free (adj.) means containing no sugar (the suffix -free means 'without')",
+     "zh": "祷告不能是无糖的",
+     "ctx": "把食品标签上的词贴到了“祷告”上，这是全文最漂亮的一处双关；她戒了糖，但没戒掉希望。",
+     "ex1": "She has all but cut sugar from her diet, but her prayers cannot be sugar-free. 她几乎把糖从饮食里戒掉了，可她的祷告不能是无糖的。",
+     "ex2": "The shop sells a range of sugar-free drinks. 这家店卖一系列无糖饮料。"
+    }
+   ]
+  }
+ ],
+ "proper": [
+  {
+   "name": "El Niño（厄尔尼诺）",
+   "def": "西班牙语，字面意思是“小男孩”，全名 El Niño de Navidad，即“圣诞的圣婴”。十九世纪秘鲁渔民发现每年圣诞节前后沿岸海水异常变暖、鱼群消失、渔获归零，于是管这股暖流叫“圣婴”。它是发生在赤道太平洋的周期性气候现象，会扰乱全球天气：通常给印度、泰国带来高温干旱，给巴西带来多雨寡照。2026 年6 月11 日，美国国家海洋和大气管理局（NOAA）正式宣布厄尔尼诺形成，判断其夏秋季发展为“超强”级别的概率为63%、持续至冬季的概率为96%；中国国家气候中心的判断为“强至超强”东部型。上一次这个量级是1997-98 和2015-16 两次。<br>本文中的意思：全文标题的第一个词，也是整场危机的总源头。它的名字来历——“带来厄运的圣婴”——与第十段那句“祷告不能无糖”形成一条宗教意象暗线：让甘蔗枯死的叫“圣婴”，而人们在节日里仍然把甜食供到神的面前。"
+  },
+  {
+   "name": "Marathwada（马拉特瓦达）",
+   "def": "印度马哈拉施特拉邦内的一个地区，也是该邦甘蔗核心产区之一。2026 年9 月25 日，马哈拉施特拉邦宣布全邦358 个taluka（小区）中有265 个——约七成四——被划为旱区，全邦6-9 月降雨亏缺18.8%。<br>本文中的意思：全文三个农民（帕蒂尔、戈马雷、帕迪尔）和那条干河床所在的地方；它既是甘蔗产区，也是旱情最重的地方——甘蔗把水喝光，水没了又种不成甘蔗，这个死循环就发生在这一片地上。"
+  },
+  {
+   "name": "Latur（拉图尔）",
+   "def": "马拉特瓦达地区内的一座城市。<br>本文中的意思：第六段那个21 岁大学生阿迪蒂亚所在的地方。作者刻意让种甘蔗的人和骑摩托车的人住在同一片地上——他们被同一根甘蔗拴在一起。"
+  },
+  {
+   "name": "Hero（Hero MotoCorp，英雄摩托）",
+   "def": "印度本土摩托车制造商，也是这个国家最大的两轮车生产商之一。印度是全球最大的两轮车市场，全国有两亿多辆摩托车在跑。<br>本文中的意思：第六段阿迪蒂亚那辆2018 款摩托车的品牌。在印度，摩托车不是玩具，是腿——所以它才是E20 政策落到普通人身上的那个载体。"
+  },
+  {
+   "name": "laddoo（拉杜）",
+   "def": "印度最常见的传统甜食之一，用豆粉、酥油和糖搓成的小球，圆滚金黄，主要用于过节和供神。<br>本文中的意思：第十段里那盒被供上祭坛的甜食。它是这篇文章最后那句双关的实物：姑娘自己已经戒糖，却还是排队买下了最甜的它。"
+  },
+  {
+   "name": "Mahalaxmi（吉祥天女）",
+   "def": "印度教女神，掌管财富、繁荣与力量。十月的印度教节日季（九夜节、十胜节、排灯节）里，她是主要的供奉对象之一。<br>本文中的意思：第十段供台的主人。姑娘向一位“财富与力量”的女神祷告——而在这个国家，那份用来表达敬意的甜，今年贵得快要供不起了。"
+  },
+  {
+   "name": "Manjara River（曼贾拉河）",
+   "def": "流经马拉特瓦达地区的一条河流。<br>本文中的意思：第七段里那座“水坝变成干沟”的河。作者用它把“缺水”这件事，从一口井扩展到整条河。"
+  },
+  {
+   "name": "E20（含20% 乙醇的汽油）",
+   "def": "印度推行的乙醇混合汽油标准：在汽油中掺入20% 由甘蔗等作物制成的乙醇。2026 年4 月，印度政府把E20 定为全国每一个加油站的标配燃油，并取消了高比例乙醇汽油的生产税。<br>本文中的意思：第五段那项 government directive 的产物，也是全篇最反常识之处的原点：政府想用甘蔗省油，甘蔗一少糖价就飞，为压糖价又得限制甘蔗去做乙醇——政策的两头在抢同一根甘蔗。"
+  }
+ ],
+ "sources_note": "资料核对：以上背景依据文章内容与课件【背景信息/专有名词】整理，并参考美国国家海洋和大气管理局（NOAA）、中国国家气候中心及印度马哈拉施特拉邦政府 2026 年的公开信息。",
+ "practice": {
+  "intro": "请根据今天学习的外刊，把下面的中文句子翻译成英文。要求：尽量用上本文的核心表达，可以适当改变词形，但不要直接照抄原文。",
+  "items": [
+   "冲突。气候变化。一场正在让万物枯萎的厄尔尼诺。这三样东西像是商量好了似的，一起来毁掉全世界那份嗜甜的快乐。（conspire / spoil / sweet tooth / wither）",
+   "全球糖价一路飙升——一个又热又干的夏天，把世界上大片产糖区烤得焦头烂额，顺手把整体食品价格也往上顶了一顶。（soar / scorch / nudge）",
+   "而这份痛，没有哪个地方感受得比印度更深切。十一年来最糟糕的一场季风，加上对甘蔗歉收的恐惧，把糖价猛地戳了上去。（acutely / monsoon / spike）",
+   "甘蔗正是这个国家生物燃料计划的关键作物——这一点尤其要命，因为印度正想方设法压住石油进口，偏偏中东的航道又被战争掐住了。（biofuels push / curb / choke）",
+   "所以，38 岁的戈马雷先生今年把更多的地，押给了甘蔗。适得其反。（devote ... to / backfire）",
+   "塔妮莎·盖克瓦德几乎已经把糖从自己的饮食里戒掉了。可她说，她的祷告，不能是无糖的。（all but / cut ... from / sugar-free）"
+  ],
+  "critical_en": "When a crop feeds both people and fuel tanks, who should get it first — and who decides?",
+  "critical_zh": "当一种作物既要喂饱人、又要喂饱油箱，应该先给谁——又该由谁来决定？",
+  "answer": "1. Conflict. Climate change. A withering El Niño. All are conspiring to spoil the world's sweet tooth.<br><br>2. Global sugar prices have soared, as a hot, dry summer scorched much of the sugar-producing parts of the world, nudging overall food prices upward.<br><br>3. Nowhere is that felt as acutely as it is in India. The worst monsoon in 11 years and fears of a poor sugarcane harvest have spiked prices.<br><br>4. Sugarcane is a key crop for the country's biofuels push, all the more so as India seeks to curb oil imports while the waterways of the Middle East are choked by war.<br><br>5. So Mr. Gomare, 38, devoted more of his land to sugarcane this year. It backfired.<br><br>6. Tanisha Gaikwad had all but cut sugar from her diet. Her prayers, she said, could not be sugar-free."
+ },
+ "mindmap": {
+  "aria": "全球糖价上涨与粮食能源之争思维导图",
+  "alt": "全球糖价上涨：粮食与能源之争（手绘版）",
+  "svg": "<svg viewBox=\"0 0 960 720\" xmlns=\"http://www.w3.org/2000/svg\" role=\"img\" aria-label=\"全球糖价上涨与粮食能源之争思维导图\" style=\"width:100%;height:auto;font-family:-apple-system,'PingFang SC','Hiragino Sans GB','Microsoft YaHei',sans-serif\">\n        <rect x=\"24\" y=\"306\" width=\"176\" height=\"88\" rx=\"14\" fill=\"#eae3d2\" stroke=\"#9a8f76\"/>\n        <text x=\"112\" y=\"342\" text-anchor=\"middle\" fill=\"#3d3a34\" font-size=\"17\" font-weight=\"700\">全球糖价上涨</text>\n        <text x=\"112\" y=\"368\" text-anchor=\"middle\" fill=\"#5c5648\" font-size=\"12.5\">粮食与能源的争夺</text>\n\n        <path d=\"M200,350 C232,350 232,88 260,88\" stroke=\"#6b8f71\" stroke-width=\"2\" fill=\"none\"/>\n        <path d=\"M200,350 C232,350 232,238 260,238\" stroke=\"#7d98ad\" stroke-width=\"2\" fill=\"none\"/>\n        <path d=\"M200,350 C232,350 232,433 260,433\" stroke=\"#bd7a6d\" stroke-width=\"2\" fill=\"none\"/>\n        <path d=\"M200,350 C232,350 232,628 260,628\" stroke=\"#9b86b3\" stroke-width=\"2\" fill=\"none\"/>\n\n        <g class=\"mm-branch\" data-target=\"bc1\">\n          <rect x=\"260\" y=\"71\" width=\"190\" height=\"34\" rx=\"8\" fill=\"#e6efe7\" stroke=\"#6b8f71\"/>\n          <text x=\"355\" y=\"93\" text-anchor=\"middle\" fill=\"#6b8f71\" font-size=\"15\" font-weight=\"700\">天灾合谋，糖价飙升 ¶1</text>\n          <text class=\"mm-arrow\" data-for=\"bc1\" x=\"442\" y=\"93\" text-anchor=\"end\" fill=\"#6b8f71\">▾</text>\n        </g>\n        <g class=\"mm-children\" id=\"bc1\">\n          <path d=\"M450,88 C462,88 462,46 480,46\" stroke=\"#6b8f71\" stroke-width=\"1.5\" fill=\"none\"/>\n          <path d=\"M450,88 C462,88 462,88 480,88\" stroke=\"#6b8f71\" stroke-width=\"1.5\" fill=\"none\"/>\n          <path d=\"M450,88 C462,88 462,130 480,130\" stroke=\"#6b8f71\" stroke-width=\"1.5\" fill=\"none\"/>\n          <rect x=\"480\" y=\"30\" width=\"456\" height=\"32\" rx=\"8\" fill=\"#e6efe7\"/><text x=\"492\" y=\"51\" fill=\"#3d3a34\" font-size=\"14\">冲突、气候变化、厄尔尼诺合谋毁掉嗜甜</text>\n          <rect x=\"480\" y=\"72\" width=\"456\" height=\"32\" rx=\"8\" fill=\"#e6efe7\"/><text x=\"492\" y=\"93\" fill=\"#3d3a34\" font-size=\"14\">全球糖价飙升，印度之痛最深切</text>\n          <rect x=\"480\" y=\"114\" width=\"456\" height=\"32\" rx=\"8\" fill=\"#e6efe7\"/><text x=\"492\" y=\"135\" fill=\"#3d3a34\" font-size=\"14\">最差季风＋歉收恐慌，节日季把糖价戳上去</text>\n        </g>\n        <g class=\"mm-branch\" data-target=\"bc2\">\n          <rect x=\"260\" y=\"221\" width=\"190\" height=\"34\" rx=\"8\" fill=\"#e5edf4\" stroke=\"#7d98ad\"/>\n          <text x=\"355\" y=\"243\" text-anchor=\"middle\" fill=\"#7d98ad\" font-size=\"15\" font-weight=\"700\">粮食与能源之争 ¶2–4</text>\n          <text class=\"mm-arrow\" data-for=\"bc2\" x=\"442\" y=\"243\" text-anchor=\"end\" fill=\"#7d98ad\">▾</text>\n        </g>\n        <g class=\"mm-children\" id=\"bc2\">\n          <path d=\"M450,238 C462,238 462,196 480,196\" stroke=\"#7d98ad\" stroke-width=\"1.5\" fill=\"none\"/>\n          <path d=\"M450,238 C462,238 462,238 480,238\" stroke=\"#7d98ad\" stroke-width=\"1.5\" fill=\"none\"/>\n          <path d=\"M450,238 C462,238 462,280 480,280\" stroke=\"#7d98ad\" stroke-width=\"1.5\" fill=\"none\"/>\n          <rect x=\"480\" y=\"180\" width=\"456\" height=\"32\" rx=\"8\" fill=\"#e5edf4\"/><text x=\"492\" y=\"201\" fill=\"#3d3a34\" font-size=\"14\">高糖价搅乱印度的能源安全目标</text>\n          <rect x=\"480\" y=\"222\" width=\"456\" height=\"32\" rx=\"8\" fill=\"#e5edf4\"/><text x=\"492\" y=\"243\" fill=\"#3d3a34\" font-size=\"14\">去年泡透、被害虫啃光，今年又晒到干裂</text>\n          <rect x=\"480\" y=\"264\" width=\"456\" height=\"32\" rx=\"8\" fill=\"#e5edf4\"/><text x=\"492\" y=\"285\" fill=\"#3d3a34\" font-size=\"14\">印度成活教材；全球糖价一年涨近15%</text>\n        </g>\n        <g class=\"mm-branch\" data-target=\"bc3\">\n          <rect x=\"260\" y=\"416\" width=\"190\" height=\"34\" rx=\"8\" fill=\"#f4e7e4\" stroke=\"#bd7a6d\"/>\n          <text x=\"355\" y=\"438\" text-anchor=\"middle\" fill=\"#bd7a6d\" font-size=\"15\" font-weight=\"700\">E20 政策的两头 ¶5–6</text>\n          <text class=\"mm-arrow\" data-for=\"bc3\" x=\"442\" y=\"438\" text-anchor=\"end\" fill=\"#bd7a6d\">▾</text>\n        </g>\n        <g class=\"mm-children\" id=\"bc3\">\n          <path d=\"M450,433 C462,433 462,391 480,391\" stroke=\"#bd7a6d\" stroke-width=\"1.5\" fill=\"none\"/>\n          <path d=\"M450,433 C462,433 462,433 480,433\" stroke=\"#bd7a6d\" stroke-width=\"1.5\" fill=\"none\"/>\n          <path d=\"M450,433 C462,433 462,475 480,475\" stroke=\"#bd7a6d\" stroke-width=\"1.5\" fill=\"none\"/>\n          <rect x=\"480\" y=\"375\" width=\"456\" height=\"32\" rx=\"8\" fill=\"#f4e7e4\"/><text x=\"492\" y=\"396\" fill=\"#3d3a34\" font-size=\"14\">政府指令：E20 成为加油站标配</text>\n          <rect x=\"480\" y=\"417\" width=\"456\" height=\"32\" rx=\"8\" fill=\"#f4e7e4\"/><text x=\"492\" y=\"438\" fill=\"#3d3a34\" font-size=\"14\">压油需、省外汇、肥糖厂，气炸司机</text>\n          <rect x=\"480\" y=\"459\" width=\"456\" height=\"32\" rx=\"8\" fill=\"#f4e7e4\"/><text x=\"492\" y=\"480\" fill=\"#3d3a34\" font-size=\"14\">大学生卡雷：油耗变差，100 卢比难撑</text>\n        </g>\n        <g class=\"mm-branch\" data-target=\"bc4\">\n          <rect x=\"260\" y=\"611\" width=\"190\" height=\"34\" rx=\"8\" fill=\"#ece4f2\" stroke=\"#9b86b3\"/>\n          <text x=\"355\" y=\"633\" text-anchor=\"middle\" fill=\"#9b86b3\" font-size=\"15\" font-weight=\"700\">农民、水与祷告 ¶7–10</text>\n          <text class=\"mm-arrow\" data-for=\"bc4\" x=\"442\" y=\"633\" text-anchor=\"end\" fill=\"#9b86b3\">▾</text>\n        </g>\n        <g class=\"mm-children\" id=\"bc4\">\n          <path d=\"M450,628 C462,628 462,586 480,586\" stroke=\"#9b86b3\" stroke-width=\"1.5\" fill=\"none\"/>\n          <path d=\"M450,628 C462,628 462,628 480,628\" stroke=\"#9b86b3\" stroke-width=\"1.5\" fill=\"none\"/>\n          <path d=\"M450,628 C462,628 462,670 480,670\" stroke=\"#9b86b3\" stroke-width=\"1.5\" fill=\"none\"/>\n          <rect x=\"480\" y=\"570\" width=\"456\" height=\"32\" rx=\"8\" fill=\"#ece4f2\"/><text x=\"492\" y=\"591\" fill=\"#3d3a34\" font-size=\"14\">甘蔗是渴作物，800 英尺深井不见水</text>\n          <rect x=\"480\" y=\"612\" width=\"456\" height=\"32\" rx=\"8\" fill=\"#ece4f2\"/><text x=\"492\" y=\"633\" fill=\"#3d3a34\" font-size=\"14\">押注甘蔗却适得其反：收成只剩一半、四分之一</text>\n          <rect x=\"480\" y=\"654\" width=\"456\" height=\"32\" rx=\"8\" fill=\"#ece4f2\"/><text x=\"492\" y=\"675\" fill=\"#3d3a34\" font-size=\"14\">戒糖的姑娘仍排队买拉杜：祷告不能无糖</text>\n        </g>\n      </svg>",
+  "img": "/Users/malen/outward-reading-site-prod/scripts/content/img/2026-10-19.jpg"
+ }
+}
