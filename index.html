@@ -1871,7 +1871,10 @@
           selectedDate: "",
           calYear: 2026,
           calMonth: 9, // 0=Jan, 9=Oct
-          todayStr: "2026-10-13",
+          todayStr: (() => {
+            const d = new Date(), p = n => String(n).padStart(2, '0')
+            return `${d.getFullYear()}-${p(d.getMonth()+1)}-${p(d.getDate())}`
+          })(),
           showArticle: false,
           currentArticle: null,
           mode: "clean",
@@ -1883,14 +1886,16 @@
         }
       },
       mounted(){
-        // 打开网站自动选中最近有文章的日期
+        // 从文章页「← 返回日历」回来时会带 ?d=YYYY-MM-DD，定位回那一天；
+        // 没有参数则自动选中最近有文章的日期
+        const qd = new URLSearchParams(location.search).get('d')
         const dates = ARTICLES.map(a => a.publishDate).sort().reverse()
-        if(dates.length > 0){
-          const latestDate = dates[0]
-          this.selectedDate = latestDate
-          this.articleList = ARTICLES.filter(a => a.publishDate === latestDate)
+        const target = (qd && ARTICLES.some(a => a.publishDate === qd)) ? qd : (dates[0] || '')
+        if(target){
+          this.selectedDate = target
+          this.articleList = ARTICLES.filter(a => a.publishDate === target)
           // 跳转到对应月份
-          const [y, m] = latestDate.split('-')
+          const [y, m] = target.split('-')
           this.calYear = parseInt(y)
           this.calMonth = parseInt(m) - 1
         }
@@ -1920,8 +1925,11 @@
           this.calYear = y
         },
         selectDate(date){
+          const list = ARTICLES.filter(a => a.publishDate === date)
           this.selectedDate = date
-          this.articleList = ARTICLES.filter(a => a.publishDate === date)
+          // 当天只有一篇且有独立精读页：点日期直接进文章，不再多套一层列表
+          if(list.length === 1 && list[0].readingPath){ location.href = list[0].readingPath; return }
+          this.articleList = list
         },
         extractSnippet(text, kw){
           const idx = text.toLowerCase().indexOf(kw.toLowerCase())
