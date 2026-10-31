@@ -1,0 +1,349 @@
+{
+  "paragraphs": [
+    {
+      "en_html": "6. If you’ve come into some jewelry or even expect to, it’s crucial to know its value — for insurance, for deciding who in a family will get what and for potential division of cash outcomes, says Nidhi Singhvi. A former <mark class=\"voc\">hedge funder</mark> who later worked in crypto, Singhvi started Unvault last October to bring <mark class=\"voc\">transparency</mark> to the secondhand jewelry market. “I’m Indian. We do gold very differently in India,” she says. Gold jewelry, like 22-<mark class=\"voc\">karat</mark> bracelets and necklaces, are “transferred from generation to generation with the idea that it can be used for anything,” she says. “My mom used gold to send me for a school exchange program. The market is very transparent, and there is very good financial infrastructure for selling it.”",
+      "zh": "尼迪·辛格维说，如果你已经继承了珠宝，甚至只是预计将来会继承，那么搞清楚它值多少钱就至关重要——为了投保，为了决定家里谁该拿走哪一件，也为了将来万一要折现分钱。她做过对冲基金，后来又转战加密货币，去年10月创办了Unvault，想让二手珠宝市场变得透明一些。“我是印度人。在印度，我们对黄金完全是另一套玩法，”她说。像22K的手镯、项链这类金饰，“是一代一代往下传的，而且人人都明白：它随时可以拿来做任何事。”“我妈就是靠金子，把我送去参加学校的交换项目的，”她说，“那个市场非常透明，而且有一整套很成熟的变现渠道。”",
+      "notes": [
+        {
+          "w": "hedge fund",
+          "ipa": "",
+          "pos": "固定短语",
+          "en": "a hedge fund means an investment fund that uses varied strategies, including hedging, to pursue returns for select investors",
+          "zh": "对冲基金",
+          "ctx": "hedge 本义树篱→两头下注；辛格维“对冲基金→加密货币→珠宝估值”的整条履历其实是同一件事：给难以定价的东西定价。",
+          "ex1": "Gold is often bought as a hedge against inflation rather than for yield. 买黄金往往是为了对冲通胀，而不是为了收益。",
+          "ex2": "He hedged his bets by keeping a stake in both competing platforms. 他在两个竞争平台上都持有股份，两头下注。"
+        },
+        {
+          "w": "transparency",
+          "ipa": "/trænsˈpærənsi/",
+          "pos": "n.",
+          "en": "transparency (n.) means openness about information, so that others can see clearly what is happening",
+          "zh": "透明度",
+          "ctx": "全文的隐藏主线：她创办 Unvault 就是为了给二手珠宝市场带来透明度，而她口中的印度市场恰恰“非常透明”。",
+          "ex1": "Regulators demanded greater price transparency in the secondhand market. 监管机构要求二手市场提高价格透明度。",
+          "ex2": "A lack of transparency left sellers negotiating blind. 信息不透明，使得卖家只能盲目议价。"
+        },
+        {
+          "w": "karat",
+          "ipa": "/ˈkærət/",
+          "pos": "n.",
+          "en": "karat (n.) means a unit measuring the purity of gold, expressed as parts out of twenty-four",
+          "zh": "开（黄金纯度的单位）",
+          "ctx": "24 分制纯度，22K 含金约 91.6%；印度人买金为储值，美国人买 14K、18K 为结实好戴。",
+          "ex1": "The bracelet carried a 22-karat stamp on the inside of the clasp. 这只手镯在搭扣内侧打着22K的印记。",
+          "ex2": "High-karat pieces are softer and dent more easily than 14-karat ones. 高纯度金饰比14K的更软，也更容易磕出凹痕。"
+        }
+      ]
+    },
+    {
+      "en_html": "7. To Singhvi, the American system of <mark class=\"voc\">aggressive</mark> storefronts with big “WE BUY GOLD” posters in the window was a <mark class=\"voc\">turnoff</mark>. She knew a lot of women who wouldn’t <mark class=\"voc\">set foot in</mark> a pawnshop. Instead, her platform uses artificial intelligence to <mark class=\"voc\">assess</mark> the jewelry in clients’ collections and assign it a clear value based on the weight of the metal and the <mark class=\"voc\">carats</mark> and quality of the gemstones. With Unvault, you can build a digital <mark class=\"voc\">portfolio</mark> of what you own by sending in photographs and watch its value rise and fall with the price of gold. When you’re ready to offload it, you can sell directly to Unvault, which will <mark class=\"voc\">deduct</mark> a 10% to 20% fee and then pass the interesting pieces and stones to a network of estate jewelers, and <mark class=\"voc\">melt down</mark> the rest.",
+      "zh": "在辛格维看来，美国那种橱窗上糊着巨大“高价收金”海报、咄咄逼人的店面，实在让人倒胃口。她认识不少女人，是打死也不肯踏进当铺半步的。于是她换了条路：她的平台用人工智能评估客户手里的珠宝，按金属重量、宝石克拉与成色，给出一个清清楚楚的估值。在Unvault上，你只要拍几张照片传上去，就能为自己名下的首饰建起一个数字资产组合，然后看着它的身价随金价起起落落。等你想脱手了，可以直接卖给Unvault——它抽走一成到两成的费用，把其中有看头的首饰和宝石转给一整张古董珠宝商的网络，剩下的，熔掉。",
+      "notes": [
+        {
+          "w": "aggressive",
+          "ipa": "/əˈɡresɪv/",
+          "pos": "adj.",
+          "en": "aggressive means forceful and pushy in manner, or bold and assertive in strategy",
+          "zh": "咄咄逼人的，视觉上强行推销的",
+          "ctx": "此处不是“有攻击性”，而是零售语境里那种橱窗贴满巨幅海报、逼着你成交的店面。",
+          "ex1": "The chain's aggressive pricing forced two local rivals out of business. 这家连锁店的激进定价把两个本地对手挤出了市场。",
+          "ex2": "His tone came across as aggressive even when the content was reasonable. 即便内容合理，他的语气也显得咄咄逼人。"
+        },
+        {
+          "w": "a turnoff",
+          "ipa": "/ˈtɜːnɒf/",
+          "pos": "n.（口语高频）",
+          "en": "a turnoff means something that makes you lose interest or feel repelled",
+          "zh": "让人倒胃口、劝退的那一点",
+          "ctx": "名词连写，指“把兴趣关掉的那个开关”，区别于动词短语 turn off；这种观感正是很多女性宁可让黄金在抽屉里躺三十年也不进当铺的原因。",
+          "ex1": "The hidden booking fee was an instant turnoff for most customers. 隐藏的订票手续费让大多数顾客当场就没了兴趣。",
+          "ex2": "Constant upselling is a major turnoff in an otherwise good restaurant. 不停推销加价，是一家本来不错的餐厅最大的减分项。"
+        },
+        {
+          "w": "set foot in",
+          "ipa": "",
+          "pos": "固定短语",
+          "en": "to set foot in a place means to enter it, almost always used in the negative to stress refusal",
+          "zh": "踏进（几乎只用于否定）",
+          "ctx": "注意是 wouldn’t 不肯，不是 couldn’t 不能：她们不是进不去，是拉不下那个脸。",
+          "ex1": "He swore he would never set foot in that building again. 他发誓再也不踏进那栋楼一步。",
+          "ex2": "She hadn't set foot in a bank branch in over five years. 她已经五年多没进过银行网点了。"
+        },
+        {
+          "w": "assess",
+          "ipa": "/əˈses/",
+          "pos": "v.",
+          "en": "assess (v.) means to judge or estimate the nature, quality, or value of something",
+          "zh": "评估，综合评定",
+          "ctx": "与 appraise 侧重“定金额”相比，assess 更偏整体判断：按金属重量、克拉、成色一起看。",
+          "ex1": "Engineers were sent to assess the damage before any claim was filed. 在提出索赔之前，工程师被派去评估损失。",
+          "ex2": "The board must assess whether the timeline is realistic. 董事会必须评估这个时间表是否现实。"
+        },
+        {
+          "w": "carat",
+          "ipa": "/ˈkærət/",
+          "pos": "n.",
+          "en": "carat (n.) means a unit of weight for gemstones, equal to 200 milligrams",
+          "zh": "克拉（宝石重量单位）",
+          "ctx": "与黄金纯度 karat 读音相同、拼法不同；原文金属讲 weight、宝石讲 carats，用词毫厘不差。",
+          "ex1": "A two-carat stone with poor clarity can sell for less than a flawless one-carat. 一颗净度差的两克拉宝石，可能卖不过一颗完美的一克拉。",
+          "ex2": "Buyers often overvalue carat weight and ignore cut entirely. 买家常常高估克拉数，却完全忽略切工。"
+        },
+        {
+          "w": "portfolio",
+          "ipa": "/pɔːtˈfəʊliəʊ/",
+          "pos": "n.",
+          "en": "a portfolio means a collection of investments or works held by one person or institution",
+          "zh": "资产组合；作品集",
+          "ctx": "原指“能拿着走的一叠纸”（早年股票债券都是纸质凭证），此处指手机里可看涨跌的数字珠宝资产组合。",
+          "ex1": "She diversified the portfolio away from a single sector after the selloff. 抛售潮之后，她把投资组合从单一板块分散开来。",
+          "ex2": "Candidates are asked to submit a portfolio rather than a written test. 应聘者需要提交作品集，而不是参加笔试。"
+        },
+        {
+          "w": "deduct",
+          "ipa": "/dɪˈdʌkt/",
+          "pos": "v.",
+          "en": "deduct (v.) means to subtract an amount from a total",
+          "zh": "扣除",
+          "ctx": "de- 向下 + duct 引导：先从成交额里扣掉 10%–20% 的手续费，剩下的才付给卖家。",
+          "ex1": "The platform deducts a fee before the proceeds reach the seller's account. 平台先扣除费用，余款才打到卖家账户。",
+          "ex2": "Home office expenses are tax-deductible under the new rules. 按新规定，居家办公费用可以抵税。"
+        },
+        {
+          "w": "melt down",
+          "ipa": "",
+          "pos": "固定短语",
+          "en": "to melt something down means to heat metal until it becomes liquid so that it can be reused",
+          "zh": "熔化，回炉熔掉",
+          "ctx": "首饰的第二条出路：有看头的转给古董珠宝商，剩下的熔掉只留金属——这正是珠宝区别于瓷器、棒球卡的价值地板。",
+          "ex1": "Broken chains and single earrings are usually melted down for their metal content. 断链子和单只耳环通常会被熔掉，只取其中的金属。",
+          "ex2": "Thousands of historic coins were melted down during the currency crisis. 货币危机期间，成千上万枚历史钱币被熔毁。"
+        }
+      ]
+    },
+    {
+      "en_html": "8. “For me, a key part of such <mark class=\"voc\">intergenerational</mark> transitions is not being afraid to <mark class=\"voc\">repurpose</mark>, <mark class=\"voc\">reset</mark> or <mark class=\"voc\">recast</mark> things,” says Andrew James Hamilton, a <mark class=\"voc\">curator</mark> at the Art Institute of Chicago. “My grandmother had a pair of opal earrings that my mother inherited and turned into two <mark class=\"voc\">tie tacks</mark> for her gay grandsons, my brother and me,” he says. “Earrings can become cuff links, rings, <mark class=\"voc\">pendants</mark>. And with the price of precious metals as high as it is, things can be melted down and recast as something else equally precious.”",
+      "zh": "“在我看来，这种代际交接里最关键的一点，就是别怕把东西改掉、重镶、或者回炉重造，”芝加哥艺术博物馆策展人安德鲁·詹姆斯·汉密尔顿说。“我奶奶有一对欧泊耳环，我妈继承之后，把它改成了两枚领带夹，给她的两个同性恋孙子——我哥和我，”他说，“耳环可以变袖扣、变戒指、变吊坠。而且眼下贵金属这么贵，东西大可以熔了，再铸成另一件同样贵重的物件。”",
+      "notes": [
+        {
+          "w": "intergenerational",
+          "ipa": "/ˌɪntədʒenəˈreɪʃənl/",
+          "pos": "adj.",
+          "en": "intergenerational means existing or occurring between different generations",
+          "zh": "代际的，跨代的",
+          "ctx": "inter- 之间（区别于 intra- 内部）；此处不只是财产往下传，更是“谁能继承什么”这套老规矩的交接。",
+          "ex1": "Intergenerational wealth transfers are reshaping the housing market. 代际财富转移正在重塑住房市场。",
+          "ex2": "The policy debate turned on intergenerational fairness rather than short-term cost. 这场政策辩论的焦点是代际公平，而非短期成本。"
+        },
+        {
+          "w": "repurpose",
+          "ipa": "/ˌriːˈpɜːpəs/",
+          "pos": "v.",
+          "en": "repurpose (v.) means to use something for a different function from the one it was originally made for",
+          "zh": "改作他用",
+          "ctx": "东西本体基本保留，只换用途：一对欧泊耳环变成两枚领带夹；改造让传承在这个没有女孩的家里继续下去。",
+          "ex1": "The mill was repurposed as a design school without touching its original frame. 这座工厂被改建成设计学院，原有结构一点没动。",
+          "ex2": "Editors repurpose long reports into short videos to reach new audiences. 编辑把长报告改造成短视频，以触达新的受众。"
+        },
+        {
+          "w": "reset",
+          "ipa": "/ˌriːˈset/",
+          "pos": "v.",
+          "en": "reset (v.) means to fix a gemstone into a new mounting; more generally, to set something again",
+          "zh": "（宝石）重新镶嵌",
+          "ctx": "珠宝术语：set 是把宝石固定在托上，reset 就是宝石留下、戒托换掉——宝石永不过时，过时的只是款式与镶法。",
+          "ex1": "She had the sapphire reset in a simple platinum band. 她把那颗蓝宝石重新镶在一枚简洁的铂金戒圈上。",
+          "ex2": "Resetting an old stone costs a fraction of buying a comparable new one. 把老宝石重镶的花费，只是买同等新石头的零头。"
+        },
+        {
+          "w": "recast",
+          "ipa": "/ˌriːˈkɑːst/",
+          "pos": "v.",
+          "en": "recast (v.) means to melt metal down and shape it again in a mould",
+          "zh": "回炉重铸",
+          "ctx": "与第七段 Unvault 的 melt down 是同一个物理动作，情感却完全相反：一个是处理废料，一个是换个样子继续存在。",
+          "ex1": "The medals were melted down and recast as a single commemorative plaque. 这些奖章被熔掉，重铸成了一块纪念牌匾。",
+          "ex2": "He recast the entire proposal after the client changed the brief. 客户改了需求之后，他把整份提案推倒重写。"
+        },
+        {
+          "w": "curator",
+          "ipa": "/kjʊəˈreɪtə(r)/",
+          "pos": "n.",
+          "en": "a curator means a person who selects, cares for, and presents the objects in a museum or collection",
+          "zh": "策展人，藏品主管",
+          "ctx": "来自拉丁语 curare“照料”；一个职业就是“原样保存文物”的人却说“别怕改造”，这个身份让这句话格外有分量。",
+          "ex1": "The curator spent two years assembling loans from eleven institutions. 这位策展人花了两年，从十一家机构借来了展品。",
+          "ex2": "Readers increasingly rely on curated newsletters rather than open feeds. 读者越来越依赖精选的新闻邮件，而不是开放的信息流。"
+        },
+        {
+          "w": "tie tack",
+          "ipa": "",
+          "pos": "固定短语",
+          "en": "a tie tack means a short decorative pin pushed through a necktie to hold it against the shirt",
+          "zh": "针式领带夹",
+          "ctx": "tack 是图钉式短针（区别于夹子式的 tie clip）；耳环本就是“装饰面＋一根针”，改起来几乎不用动原件。",
+          "ex1": "He wore his father's tie tack to every interview that year. 那一年他每次面试都戴着父亲的领带夹。",
+          "ex2": "The gift shop sold lapel pins and tie tacks cast from the museum's collection. 礼品店出售以馆藏为原型铸造的翻领针和领带夹。"
+        },
+        {
+          "w": "pendant",
+          "ipa": "/ˈpendənt/",
+          "pos": "n.",
+          "en": "a pendant means a piece of jewelry that hangs from a chain worn around the neck",
+          "zh": "吊坠",
+          "ctx": "来自拉丁语 pendere“悬挂”，同族 depend / suspend；此处是耳环改造的三个去处之一。",
+          "ex1": "She had the coin mounted as a pendant rather than leaving it in a drawer. 她把那枚钱币做成了吊坠，而不是让它躺在抽屉里。",
+          "ex2": "A single pendant light replaced the dated ceiling fixture. 一盏吊灯取代了那个过时的吸顶灯。"
+        }
+      ]
+    },
+    {
+      "en_html": "9. “After the Holocaust, my grandparents <mark class=\"voc\">immigrated</mark> to Israel, and my grandmother always wore a gold Magen David Jewish star and an <mark class=\"voc\">infinity</mark> necklace that looked like an ‘S’ to <mark class=\"voc\">honor</mark> her <mark class=\"voc\">roots</mark> and love of my grandfather,” says Ronnit Hershowitz, a marketing director in New York. “It was passed down to me. My grandfather always got <mark class=\"voc\">choked up</mark> seeing it because it was more than just a necklace. For them, it <mark class=\"voc\">represented</mark> <mark class=\"voc\">eternal</mark> strength and love.”",
+      "zh": "“大屠杀之后，我的祖父母移民去了以色列。我奶奶脖子上总挂着两样东西：一枚金的大卫之盾，和一条形状像字母S的无限符号项链——前一样纪念她的来处，后一样纪念她对我祖父的爱，”纽约的市场总监罗妮特·赫肖维茨说，“后来，它传到了我手上。我祖父每回看见它都会哽咽，因为那不只是一条项链。对他们两个人来说，它代表的是永不磨灭的力量，和爱。”",
+      "notes": [
+        {
+          "w": "immigrate",
+          "ipa": "/ˈɪmɪɡreɪt/",
+          "pos": "v.",
+          "en": "immigrate (v.) means to come into a country in order to live there permanently",
+          "zh": "移入，移民（到某国定居）",
+          "ctx": "im- 进来，对应 emigrate 出去；介词搭配固定为 immigrate TO / emigrate FROM。",
+          "ex1": "Her grandparents immigrated to Canada with two suitcases and no English. 她的祖父母带着两只箱子、不会一句英语，移民到了加拿大。",
+          "ex2": "Thousands emigrated from the region during the economic collapse. 经济崩溃期间，成千上万人从该地区移民出走。"
+        },
+        {
+          "w": "infinity",
+          "ipa": "/ɪnˈfɪnəti/",
+          "pos": "n.",
+          "en": "infinity (n.) means a state of having no end or limit in time, space, or quantity",
+          "zh": "无限（符号 ∞）",
+          "ctx": "把 ∞ 的两个圈拉开错位，就是一个流畅的 S 形——正对应这家人最后那句 eternal。",
+          "ex1": "The two mirrors created an infinity of reflections down the corridor. 两面镜子让走廊里映出了无穷无尽的倒影。",
+          "ex2": "He seemed to have infinite patience with first-time buyers. 他对首次购买的客户似乎有着无限的耐心。"
+        },
+        {
+          "w": "honor",
+          "ipa": "/ˈɒnə(r)/",
+          "pos": "v.",
+          "en": "honor (v.) means to show great respect or to keep alive the memory of someone or something",
+          "zh": "致敬，纪念",
+          "ctx": "h 不发音（同 heir / honest / hour）；此处纪念的是一个已被烧毁、不复存在的欧洲故乡。",
+          "ex1": "The scholarship was created in honor of a teacher who died in the war. 这项奖学金是为纪念一位在战争中牺牲的教师而设立的。",
+          "ex2": "The firm honored every contract it had signed before the bankruptcy. 公司履行了破产前签下的每一份合同。"
+        },
+        {
+          "w": "roots",
+          "ipa": "/ruːts/",
+          "pos": "n. (pl.)",
+          "en": "roots (n., plural) means a person's family origins and cultural background",
+          "zh": "根脉，出身与文化来处",
+          "ctx": "树根，看不见却决定你是什么；对一个被迫离开故土的人，这个词的分量远超“家乡”。",
+          "ex1": "After thirty years abroad, he went back to his roots for a single summer. 在国外待了三十年后，他回到故土过了一个夏天。",
+          "ex2": "The movement began as a grassroots campaign in three small towns. 这场运动最初是三个小镇上的草根行动。"
+        },
+        {
+          "w": "get choked up",
+          "ipa": "",
+          "pos": "固定短语",
+          "en": "to get choked up means to become so emotional that you are unable to speak properly",
+          "zh": "哽咽，说不出话",
+          "ctx": "注意原文是 always，不是有一次：他看到的不是项链，是“她活下来了，还坐在我对面”。",
+          "ex1": "He got choked up halfway through the toast and had to stop. 祝酒词说到一半，他哽住了，只能停下来。",
+          "ex2": "She choked back tears as the auctioneer read out her mother's name. 拍卖师念出她母亲名字时，她强忍着眼泪。"
+        },
+        {
+          "w": "represent",
+          "ipa": "/ˌreprɪˈzent/",
+          "pos": "v.",
+          "en": "represent (v.) means to be a symbol or sign of something",
+          "zh": "象征，代表",
+          "ctx": "与第二段 Stinger 那句 are part of our family lineage 精确对照：血脉是具体实物，力量与爱只能“代表”。",
+          "ex1": "The ruling represents a significant shift in how such cases are handled. 这项裁决意味着此类案件处理方式的重大转变。",
+          "ex2": "Small firms felt their interests were not represented in the negotiations. 小公司觉得自己的利益在谈判中没有得到代表。"
+        },
+        {
+          "w": "eternal",
+          "ipa": "/ɪˈtɜːnl/",
+          "pos": "adj.",
+          "en": "eternal means lasting or existing forever, without end",
+          "zh": "永恒的",
+          "ctx": "盾＝strength，无限＝eternal，给祖父的＝love：三个词正好把祖母脖子上那两件东西翻译成文字。",
+          "ex1": "An eternal flame burns at the memorial to the city's war dead. 这座城市的阵亡者纪念碑前燃着一盏长明火。",
+          "ex2": "He remained an eternal optimist even as the numbers worsened. 即便数据一路恶化，他依然是个永远的乐观主义者。"
+        }
+      ]
+    }
+  ],
+  "proper": [
+    {
+      "name": "baby boomers / 婴儿潮一代",
+      "def": "指 1946 年至 1964 年出生的美国人，因二战结束后生育率暴涨而得名。这批人先后赶上战后制造业黄金期、七十年代的低房价与八十年代以来长达四十年的美股牛市，是美国历史上最富有的一代，人口仅占两成多，却握有全美一半以上的财富。<br>本文中的意思：这场“财富大转移”与“物品大转移”的起点——93 万亿美元资产与满屋子收藏，主要出自这一代人之手。"
+    },
+    {
+      "name": "the Silent Generation / 沉默的一代",
+      "def": "指 1928 年至 1945 年出生的一代人，得名于 1951 年《时代》周刊的一篇文章，形容这批年轻人不抗议、不发声，埋头工作与存钱。他们的童年经历大萧条、少年经历二战，因此极度渴望稳定，也极不舍得丢弃任何东西。<br>本文中的意思：与婴儿潮一代共同构成遗产转移的上游；他们“什么都不舍得扔”的习惯，正是子女家里堆满瓷器、银器、邮票册的直接原因。"
+    },
+    {
+      "name": "the Great Wealth Transfer / 财富大转移",
+      "def": "英语世界既有的财经术语，指婴儿潮一代与沉默的一代向下一代集中转移巨额资产这一现象。咨询机构 Cerulli Associates 测算，到 2045 年这一规模约为 84 万亿美元，其修订版本估计到 2048 年可达 124 万亿美元，被称为人类历史上规模最大的一次财富交接。<br>本文中的意思：标题 the Great Stuff Transfer 正是对这个术语的戏仿——把 Wealth（钱）换成 Stuff（一堆杂物），把镜头从“钱怎么分”挪到“钱以外那些东西怎么办”；读不出这层双关，标题的巧思就丢了。"
+    },
+    {
+      "name": "probate court / 遗嘱认证法庭",
+      "def": "美国多数州处理遗产的法定机构。人去世后，遗产通常不能直接交给家属，须先经法院验证遗嘱真伪、清点并评估全部资产、清偿债务与税款，剩余部分才分配给继承人。普通中产家庭走完流程约需 9 个月至一年半，复杂或有争议的常拖两三年。<br>本文中的意思：解释了斯廷格一家处理母亲遗产为什么“这一拖就是将近两年”——这不是家属拖延，而是制度使然。"
+    },
+    {
+      "name": "Dickens houses / 狄更斯圣诞小屋",
+      "def": "一类北美常见的圣诞摆件，为手工彩绘的维多利亚时代伦敦建筑微缩模型。其文化源头是狄更斯 1843 年的小说《圣诞颂歌》，该书几乎一手塑造了现代圣诞节“雪夜、煤气灯、家庭团聚、对穷人行善”的形象。这类摆件常被收藏数十年，攒成一整条街，但二手市场几乎不值钱。<br>本文中的意思：文章用它来代表“上一代人的心头好、下一代人的收纳噩梦”，与珠宝形成对照。"
+    },
+    {
+      "name": "Unvault Inc. / Unvault",
+      "def": "美国的珠宝估值与交易金融科技平台，由 Nidhi Singhvi 与 Navya Reddy 创办。用户上传首饰照片，平台以 AI 结合实时金价与宝石行情给出估值，用户可像看股票一样追踪自己的“珠宝资产组合”；若选择出售，须寄件验真，平台抽取约 10%–20% 费用。创始人称其为“珠宝界的 Robinhood”。<br>本文中的意思：文章“技术解法”这条线的载体，也是 5700 美元与 7500 亿美元两个关键数字的出处。"
+    },
+    {
+      "name": "Nidhi Singhvi / 尼迪·辛格维",
+      "def": "Unvault 联合创始人，印度裔，成长于以宝石加工闻名的印度斋浦尔，创业前先后从事对冲基金与加密货币行业。<br>本文中的意思：文章的核心受访者之一。她的三段履历本质是同一件事——给难以定价的东西定价；而“母亲卖金子送她出国交换”的个人经历，正是印度黄金文化的具体注脚。"
+    },
+    {
+      "name": "The RealReal / 睿尔",
+      "def": "美国规模最大的奢侈品二手寄卖平台。与个人对个人的 eBay 不同，卖家把物品寄给平台，由专家鉴定真伪后代为挂售并抽成。品牌名把“real”重复两遍，直指二手奢侈品市场最大的痛点——真假。<br>本文中的意思：珠宝变现链条中面向中高端、尤其是知名品牌与时装珠宝的一环，用以说明珠宝“任何价位都有出路”。"
+    },
+    {
+      "name": "the Art Institute of Chicago / 芝加哥艺术博物馆",
+      "def": "1879 年创立的美国顶级艺术博物馆之一，同时附设艺术学院，代表藏品包括修拉的《大碗岛的星期天下午》与霍普的《夜游者》。<br>本文中的意思：受访者 Andrew James Hamilton 的任职机构。作者点明其策展人身份，是为“别怕改造”这句话背书——一个职业就是原样保管文物的人主张改造，说服力远高于普通人。"
+    },
+    {
+      "name": "the Holocaust / 犹太大屠杀",
+      "def": "特指二战期间纳粹德国对欧洲犹太人实施的系统性屠杀，约 600 万犹太人遇难，占当时欧洲犹太人口约三分之二。该词源自希腊语 holos（全部）+ kaustos（烧），本义是“整只烧尽的献祭”；部分犹太社群因不接受“献祭”的含义，更倾向使用希伯来语的 Shoah（浩劫）。<br>本文中的意思：文章最后一段的历史背景——不了解这一点，就无法理解那位祖母为何终生佩戴一枚“盾”，也无法理解祖父每次看到项链都会哽咽的分量。"
+    },
+    {
+      "name": "Magen David / 大卫之盾·六芒星",
+      "def": "希伯来语 מגן דוד 的音译，字面意思是“大卫之盾”而非“大卫之星”——magen 在希伯来语中意为“盾牌”。英文 Star of David 与中文“大卫之星”都是依其六角形外观所作的意译。学界主流认为该名称指向犹太教祷文中“上帝是大卫的盾牌”之意，中世纪起被刻于护身符上，用于祈求庇护；1948 年后成为以色列国旗的核心符号。<br>本文中的意思：祖母终生佩戴的那枚金饰。理解“盾”而非“星”，才能读出作者的用意——一个刚从大屠杀中幸存的女人，戴在脖子上的不是装饰，是护身的盾。"
+    },
+    {
+      "name": "streedhan / 印度“女性财产”",
+      "def": "印度传统中归新娘个人所有的嫁妆财产，尤以黄金为主，习俗与法律上均不属于丈夫或婆家。在女性长期缺乏财产权与就业机会的社会结构中，这批黄金是她唯一可自主支配的退路。据世界黄金协会等机构估算，印度家庭与寺庙合计持有约 25,000 吨黄金，超过全球前十大央行黄金储备的总和，价值逾 2.4 万亿美元。<br>本文中的意思：Singhvi 那句“我们印度人对黄金完全是另一套玩法”的制度背景，也解释了她母亲为何能“用金子把女儿送出国”——在印度，金价每日公开、按克报价，变现与抵押渠道极其成熟。"
+    }
+  ],
+  "sources_note": "资料核对：以上背景依据文章内容，并参考 Bloomberg、Unvault Inc. 2026 年报告、Cerulli Associates、世界黄金协会及芝加哥艺术博物馆的公开资料。",
+  "practice": {
+    "intro": "请根据今天学习的外刊，把下面的中文句子翻译成英文。要求：尽量用上本文的核心表达，可以适当改变词形，但不要直接照抄原文。",
+    "items": [
+      "在这场即将到来的、从婴儿潮一代传向年轻一代的财产雪崩中，珠宝是唯一的亮点。（avalanche / possessions / bright spot）",
+      "未来二十年里，美国将有约93万亿美元的资产，从婴儿潮一代和沉默的一代手中交到继承人手上。（Silent Generation / heir）",
+      "珠宝是其中罕见的例外，理由既摆在明面上，也藏在心里头：首先，白银、黄金、铂金和宝石本身就有材料价值。（exception / intimate / material value）",
+      "美国家庭平均坐拥价值5700美元、却从未估过价的金饰——全国上下的抽屉里，按黄金重量算大约躺着7500亿美元。（sit on / unappraised / gold weight）",
+      "她认识很多女人，是打死也不肯踏进当铺半步的。（set foot in / pawnshop）",
+      "在我看来，这种代际交接里很关键的一点，就是别怕把东西改作他用、重新镶嵌，或者回炉重铸。（intergenerational / repurpose / reset / recast）"
+    ],
+    "critical_en": "When an heirloom is melted down and remade into something else, does it still carry the same memory — or was its value always in the metal rather than in the story?",
+    "critical_zh": "把一件传家宝熔掉、重做成别的东西，它还算不算“传家”？一件旧物的分量，究竟在金属里，还是在故事里？",
+    "answer": "1. In the coming avalanche of possessions being passed down from baby boomers to younger generations, jewelry is the bright spot.<br><br>2. In the next 20 years, some $93 trillion in assets in the US will be passed down from baby boomers and the Silent Generation to their heirs.<br><br>3. Jewelry is the rare exception. The reasons are both obvious and intimate: To begin with, silver, gold, platinum and gemstones have material value.<br><br>4. The average US household is sitting on $5,700 in unappraised gold jewelry, with roughly $750 billion in gold weight in drawers across the country.<br><br>5. She knew a lot of women who wouldn't set foot in a pawnshop.<br><br>6. “For me, a key part of such intergenerational transitions is not being afraid to repurpose, reset or recast things.”"
+  },
+  "mindmap": {
+    "aria": "美国 93 万亿美元继承潮与珠宝传承思维导图",
+    "alt": "物品大转移：为什么珠宝是唯一亮点（手绘版）",
+    "svg": "<svg viewBox=\"0 0 960 720\" xmlns=\"http://www.w3.org/2000/svg\" role=\"img\" aria-label=\"美国 93 万亿美元继承潮与珠宝传承思维导图\" style=\"width:100%;height:auto;font-family:-apple-system,'PingFang SC','Hiragino Sans GB','Microsoft YaHei',sans-serif\">\n        <rect x=\"24\" y=\"306\" width=\"176\" height=\"88\" rx=\"14\" fill=\"#eae3d2\" stroke=\"#9a8f76\"/>\n        <text x=\"112\" y=\"342\" text-anchor=\"middle\" fill=\"#3d3a34\" font-size=\"17\" font-weight=\"700\">93万亿的继承潮</text>\n        <text x=\"112\" y=\"368\" text-anchor=\"middle\" fill=\"#5c5648\" font-size=\"12.5\">一屋子旧东西，珠宝是亮点</text>\n\n        <path d=\"M200,350 C232,350 232,88 260,88\"  stroke=\"#6b8f71\" stroke-width=\"2\" fill=\"none\"/>\n        <path d=\"M200,350 C232,350 232,238 260,238\" stroke=\"#7d98ad\" stroke-width=\"2\" fill=\"none\"/>\n        <path d=\"M200,350 C232,350 232,433 260,433\" stroke=\"#bd7a6d\" stroke-width=\"2\" fill=\"none\"/>\n        <path d=\"M200,350 C232,350 232,628 260,628\" stroke=\"#9b86b3\" stroke-width=\"2\" fill=\"none\"/>\n\n        <g class=\"mm-branch\" data-target=\"bc1\">\n          <rect x=\"260\" y=\"71\" width=\"190\" height=\"34\" rx=\"8\" fill=\"#e6efe7\" stroke=\"#6b8f71\"/>\n          <text x=\"349\" y=\"93\" text-anchor=\"middle\" fill=\"#4c6b52\" font-size=\"15\" font-weight=\"700\">丧事与分首饰（¶1–2）</text>\n          <text class=\"mm-arrow\" data-for=\"bc1\" x=\"442\" y=\"93\" text-anchor=\"end\" fill=\"#4c6b52\">▾</text>\n        </g>\n        <g class=\"mm-children\" id=\"bc1\">\n          <path d=\"M450,88 C462,88 462,46 480,46\" stroke=\"#6b8f71\" stroke-width=\"1.5\" fill=\"none\"/>\n          <path d=\"M450,88 C462,88 462,88 480,88\" stroke=\"#6b8f71\" stroke-width=\"1.5\" fill=\"none\"/>\n          <path d=\"M450,88 C462,88 462,130 480,130\" stroke=\"#6b8f71\" stroke-width=\"1.5\" fill=\"none\"/>\n          <rect x=\"480\" y=\"30\" width=\"456\" height=\"32\" rx=\"8\" fill=\"#e6efe7\"/><text x=\"492\" y=\"51\" fill=\"#3d3a34\" font-size=\"14\">母亲因癌离世，遗产在遗嘱认证法庭拖了近两年</text>\n          <rect x=\"480\" y=\"72\" width=\"456\" height=\"32\" rx=\"8\" fill=\"#e6efe7\"/><text x=\"492\" y=\"93\" fill=\"#3d3a34\" font-size=\"14\">首饰按母系分配：姨妈收着，再传给她们的女儿</text>\n          <rect x=\"480\" y=\"114\" width=\"456\" height=\"32\" rx=\"8\" fill=\"#e6efe7\"/><text x=\"492\" y=\"135\" fill=\"#3d3a34\" font-size=\"14\">订婚戒指留给唯一的孙女——首饰即血脉</text>\n        </g>\n\n        <g class=\"mm-branch\" data-target=\"bc2\">\n          <rect x=\"260\" y=\"221\" width=\"190\" height=\"34\" rx=\"8\" fill=\"#e5edf4\" stroke=\"#7d98ad\"/>\n          <text x=\"349\" y=\"243\" text-anchor=\"middle\" fill=\"#3d5872\" font-size=\"15\" font-weight=\"700\">93万亿与一屋杂物（¶3–5）</text>\n          <text class=\"mm-arrow\" data-for=\"bc2\" x=\"442\" y=\"243\" text-anchor=\"end\" fill=\"#3d5872\">▾</text>\n        </g>\n        <g class=\"mm-children\" id=\"bc2\">\n          <path d=\"M450,238 C462,238 462,196 480,196\" stroke=\"#7d98ad\" stroke-width=\"1.5\" fill=\"none\"/>\n          <path d=\"M450,238 C462,238 462,238 480,238\" stroke=\"#7d98ad\" stroke-width=\"1.5\" fill=\"none\"/>\n          <path d=\"M450,238 C462,238 462,280 480,280\" stroke=\"#7d98ad\" stroke-width=\"1.5\" fill=\"none\"/>\n          <rect x=\"480\" y=\"180\" width=\"456\" height=\"32\" rx=\"8\" fill=\"#e5edf4\"/><text x=\"492\" y=\"201\" fill=\"#3d3a34\" font-size=\"14\">20 年内 93 万亿美元易主，实物随之一同涌来</text>\n          <rect x=\"480\" y=\"222\" width=\"456\" height=\"32\" rx=\"8\" fill=\"#e5edf4\"/><text x=\"492\" y=\"243\" fill=\"#3d3a34\" font-size=\"14\">珠宝是例外：金价是十年前 5 倍，抽屉值 7500 亿</text>\n          <rect x=\"480\" y=\"264\" width=\"456\" height=\"32\" rx=\"8\" fill=\"#e5edf4\"/><text x=\"492\" y=\"285\" fill=\"#3d3a34\" font-size=\"14\">从当铺到拍卖行，任何价位都有现成出口</text>\n        </g>\n\n        <g class=\"mm-branch\" data-target=\"bc3\">\n          <rect x=\"260\" y=\"416\" width=\"190\" height=\"34\" rx=\"8\" fill=\"#f4e7e4\" stroke=\"#bd7a6d\"/>\n          <text x=\"349\" y=\"438\" text-anchor=\"middle\" fill=\"#7c4a3e\" font-size=\"15\" font-weight=\"700\">把抽屉变成市场（¶6–7）</text>\n          <text class=\"mm-arrow\" data-for=\"bc3\" x=\"442\" y=\"438\" text-anchor=\"end\" fill=\"#7c4a3e\">▾</text>\n        </g>\n        <g class=\"mm-children\" id=\"bc3\">\n          <path d=\"M450,433 C462,433 462,391 480,391\" stroke=\"#bd7a6d\" stroke-width=\"1.5\" fill=\"none\"/>\n          <path d=\"M450,433 C462,433 462,433 480,433\" stroke=\"#bd7a6d\" stroke-width=\"1.5\" fill=\"none\"/>\n          <path d=\"M450,433 C462,433 462,475 480,475\" stroke=\"#bd7a6d\" stroke-width=\"1.5\" fill=\"none\"/>\n          <rect x=\"480\" y=\"375\" width=\"456\" height=\"32\" rx=\"8\" fill=\"#f4e7e4\"/><text x=\"492\" y=\"396\" fill=\"#3d3a34\" font-size=\"14\">印度人拿黄金当活钱：母亲靠金子送她出国</text>\n          <rect x=\"480\" y=\"417\" width=\"456\" height=\"32\" rx=\"8\" fill=\"#f4e7e4\"/><text x=\"492\" y=\"438\" fill=\"#3d3a34\" font-size=\"14\">美国“高价收金”的店面，劝退了大量女性</text>\n          <rect x=\"480\" y=\"459\" width=\"456\" height=\"32\" rx=\"8\" fill=\"#f4e7e4\"/><text x=\"492\" y=\"480\" fill=\"#3d3a34\" font-size=\"14\">AI 按重量、克拉、成色估值，卖回抽 10%–20%</text>\n        </g>\n\n        <g class=\"mm-branch\" data-target=\"bc4\">\n          <rect x=\"260\" y=\"611\" width=\"190\" height=\"34\" rx=\"8\" fill=\"#ece4f2\" stroke=\"#9b86b3\"/>\n          <text x=\"349\" y=\"633\" text-anchor=\"middle\" fill=\"#5a4670\" font-size=\"15\" font-weight=\"700\">熔了重铸也是传承（¶8–9）</text>\n          <text class=\"mm-arrow\" data-for=\"bc4\" x=\"442\" y=\"633\" text-anchor=\"end\" fill=\"#5a4670\">▾</text>\n        </g>\n        <g class=\"mm-children\" id=\"bc4\">\n          <path d=\"M450,628 C462,628 462,586 480,586\" stroke=\"#9b86b3\" stroke-width=\"1.5\" fill=\"none\"/>\n          <path d=\"M450,628 C462,628 462,628 480,628\" stroke=\"#9b86b3\" stroke-width=\"1.5\" fill=\"none\"/>\n          <path d=\"M450,628 C462,628 462,670 480,670\" stroke=\"#9b86b3\" stroke-width=\"1.5\" fill=\"none\"/>\n          <rect x=\"480\" y=\"570\" width=\"456\" height=\"32\" rx=\"8\" fill=\"#ece4f2\"/><text x=\"492\" y=\"591\" fill=\"#3d3a34\" font-size=\"14\">祖母的欧泊耳环改成两枚领带夹，给两个孙子</text>\n          <rect x=\"480\" y=\"612\" width=\"456\" height=\"32\" rx=\"8\" fill=\"#ece4f2\"/><text x=\"492\" y=\"633\" fill=\"#3d3a34\" font-size=\"14\">耳环可变袖扣、戒指、吊坠；贵金属熔了重铸</text>\n          <rect x=\"480\" y=\"654\" width=\"456\" height=\"32\" rx=\"8\" fill=\"#ece4f2\"/><text x=\"492\" y=\"675\" fill=\"#3d3a34\" font-size=\"14\">大卫之盾与 ∞ 项链：代表力量、永恒与爱</text>\n        </g>\n      </svg>",
+    "img": ""
+  }
+}

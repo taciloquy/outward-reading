@@ -1,0 +1,688 @@
+{
+ "date": "2026-09-29",
+ "title_tag": "美国柴油涨破6美元，川川“铁票仓”先急了：为什么柴油价格能搅动中期选举？—— 美国CNN外刊讲解第1182天",
+ "h1": "美国柴油涨破6美元，川川“铁票仓”先急了：为什么柴油价格能搅动中期选举？",
+ "source_label": "CNN",
+ "category": "美国CNN外刊讲解 第1182天",
+ "read_minutes": 20,
+ "nav_hint": "Pain at the pump, MAGA base rattled",
+ "headline": {
+  "en_html": "Soaring diesel prices are <mark class=\"voc\">clobbering</mark> Trump’s MAGA <mark class=\"voc\">faithful</mark>, exposing <mark class=\"voc\">rifts</mark> — Pain at the <mark class=\"voc\">pump</mark> for rural Republicans is shifting the political map",
+  "zh": "柴油价格飙升重创特朗普的MAGA铁杆票仓，裂痕已然显现——乡村共和党人的加油之痛，正在改写政治版图",
+  "notes": [
+   {
+    "w": "clobber",
+    "ipa": "/ˈklɒbə(r)/",
+    "pos": "v.",
+    "en": "to hit someone or something very hard, or to defeat someone decisively; to affect someone very badly",
+    "zh": "重击，痛击；沉重打击",
+    "ctx": "标题没用 hurt 或 raise，而用 clobber——柴油涨价不是“影响”谁，是照着铁杆支持者一顿闷棍，谁疼谁知道。",
+    "ex1": "Rising interest rates have clobbered first-time homebuyers this year. 今年利率上升沉重打击了首次购房者。",
+    "ex2": "The team was clobbered 5-0 in the final match. 该队在决赛中以0比5惨败。"
+   },
+   {
+    "w": "faithful",
+    "ipa": "/ˈfeɪθfl/",
+    "pos": "n.",
+    "en": "people who are loyal supporters of a person, organization, or belief",
+    "zh": "忠实支持者，铁杆拥护者",
+    "ctx": "形容词加 the 当集合名词用，指“铁杆那一群”；the MAGA faithful 就是特朗普最死忠、最不容易跑的那批票。",
+    "ex1": "The party's faithful gathered in the convention hall to hear the leader's speech. 该党的忠实支持者聚集在会议厅聆听领袖演讲。",
+    "ex2": "He remained one of the team's most loyal faithful even during its worst seasons. 即使在球队最糟糕的赛季，他仍是最忠实的支持者之一。"
+   },
+   {
+    "w": "rift",
+    "ipa": "/rɪft/",
+    "pos": "n.",
+    "en": "a serious disagreement that divides people who were previously united",
+    "zh": "裂痕，分歧",
+    "ctx": "本义是岩层上被撕开的一道缝，用在党内就是“原本一条心的人被劈开”，副标题说这场油价危机正撕开共和党。",
+    "ex1": "The new policy has created a deep rift within the party. 新政策在党内制造了深深的裂痕。",
+    "ex2": "The dispute over the budget widened the rift between the two allies. 预算争端加深了两个盟友之间的裂痕。"
+   },
+   {
+    "w": "pump",
+    "ipa": "/pʌmp/",
+    "pos": "n.",
+    "en": "a machine at a gas station that dispenses fuel; used in the phrase “pain at the pump” to refer to the financial burden of high gasoline or diesel prices",
+    "zh": "加油泵；（引申）加油之痛",
+    "ctx": "pain at the pump 是英语惯用语，把加油枪当成“痛点”的代名词，一句就把油价之苦写得有画面。",
+    "ex1": "With gas prices hitting new highs, pain at the pump is a top concern for voters. 随着油价创下新高，加油之痛成为选民最关心的问题。",
+    "ex2": "The president promised to ease pain at the pump by releasing oil from strategic reserves. 总统承诺通过释放战略石油储备来缓解加油之痛。"
+   }
+  ]
+ },
+ "paragraphs": [
+  {
+   "en_html": "Diesel prices soaring to <mark class=\"voc\">record</mark> highs this past week have caused Republican candidates in <mark class=\"voc\">solid-red</mark> parts of the country to call for an end to President Donald Trump’s war with Iran and for a ban on diesel exports, as the issue <mark class=\"voc\">rattles</mark> the party’s MAGA base in a way that few have in this midterm election year. “Michigan families are struggling with the price of everyday life,” Mike Rogers, the state’s GOP <mark class=\"voc\">nominee</mark> for U.S. Senate, said in an ad this past week.",
+   "zh": "过去一周，柴油价格飙升至历史新高，令全国深红选区的共和党候选人纷纷呼吁结束特朗普总统对伊朗的战争，并禁止柴油出口。这一议题在这个中期选举年撼动了该党MAGA基本盘，其烈度鲜有匹敌者。“密歇根的家庭正在为日常生活的开销苦苦挣扎，”该州共和党联邦参议员候选人迈克·罗杰斯在过去一周的一则广告中说道。",
+   "notes": [
+    {
+     "w": "record",
+     "ipa": "/ˈrekɔːd/",
+     "pos": "adj.",
+     "en": "the highest or lowest level that has ever been achieved or recorded",
+     "zh": "创纪录的",
+     "ctx": "名词 record（纪录）直接拿来当定语，record highs 就是“有记录以来的最高位”，比 very high 有分量。",
+     "ex1": "The country experienced record temperatures this summer. 该国今年夏天经历了创纪录的高温。",
+     "ex2": "The company reported record profits in the fourth quarter. 该公司报告第四季度利润创下纪录。"
+    },
+    {
+     "w": "solid-red",
+     "ipa": "/ˌsɒlɪd ˈred/",
+     "pos": "adj.",
+     "en": "(of a voting district) overwhelmingly supporting the Republican Party, with little chance of voting for Democrats",
+     "zh": "深红的，共和党铁票仓的",
+     "ctx": "美国政治红色代表共和党、蓝色代表民主党，solid 是“铁板一块”，solid-red 就是民主党想都别想的选区。",
+     "ex1": "The senator easily won reelection in her solid-red state. 这位参议员在她的深红州轻松赢得连任。",
+     "ex2": "Even in solid-red districts, voters are expressing frustration over rising costs. 即使在深红选区，选民也对不断上涨的成本表达不满。"
+    },
+    {
+     "w": "rattle",
+     "ipa": "/ˈrætl/",
+     "pos": "v.",
+     "en": "to make someone nervous, worried, or unsettled; to shake or disturb",
+     "zh": "使不安，使慌乱；动摇",
+     "ctx": "原义是“哗啦哗啦地响”，引申为把人心里搅得发慌；此处指柴油议题动摇了基本盘那种稳如磐石的支持。",
+     "ex1": "The unexpected poll results rattled the campaign team. 出人意料的民调结果令竞选团队感到不安。",
+     "ex2": "The scandal has rattled investors' confidence in the company. 丑闻动摇了投资者对公司的信心。"
+    },
+    {
+     "w": "nominee",
+     "ipa": "/ˌnɒmɪˈniː/",
+     "pos": "n.",
+     "en": "a person who has been formally chosen as a candidate for an election or position",
+     "zh": "被提名人，候选人",
+     "ctx": "来自 nominate（提名），指党内正式推出、披挂上阵的那个人，本文即密歇根州共和党提名的联邦参议员候选人。",
+     "ex1": "The party's presidential nominee will be announced at the convention. 该党的总统候选人将在全国代表大会上公布。",
+     "ex2": "She is the Democratic nominee for governor in a closely contested state. 她是在一个竞争激烈的州获得民主党提名的州长候选人。"
+    }
+   ]
+  },
+  {
+   "en_html": "The war has sent oil prices surging, with <mark class=\"voc\">disruptions</mark> to shipping through the Strait of Hormuz, a <mark class=\"voc\">vital</mark> route for global energy supplies, <mark class=\"voc\">reverberating</mark> through fuel markets. But while poll after poll has shown voters concerned about the cost of gasoline, it’s the price of diesel — a far less obvious consumer product — that has <mark class=\"voc\">riled up</mark> the industrial and agricultural interests that have been among the most faithful Republican supporters.",
+   "zh": "这场战争导致油价飙升，霍尔木兹海峡——全球能源供应的咽喉要道——航运受阻，冲击波已在整个燃料市场回荡。然而，尽管一份又一份民调显示选民担忧汽油价格，真正激怒了工业与农业利益集团的，却是柴油——一种远不那么引人注目的消费品——的价格。而这些利益集团，恰恰是共和党最忠实的支持者群体。",
+   "notes": [
+    {
+     "w": "disruption",
+     "ipa": "/dɪsˈrʌpʃn/",
+     "pos": "n.",
+     "en": "a disturbance that interrupts or prevents something from continuing normally",
+     "zh": "中断，扰乱，干扰",
+     "ctx": "dis- 打散 + rupt 断裂，航运“断链”就是 disruption；海峡一卡，整条能源供应链就被掐住。",
+     "ex1": "The strike caused widespread disruption to train services across the country. 罢工导致全国火车服务大范围中断。",
+     "ex2": "Supply chain disruptions during the pandemic led to shortages of many goods. 疫情期间的供应链中断导致许多商品短缺。"
+    },
+    {
+     "w": "vital",
+     "ipa": "/ˈvaɪtl/",
+     "pos": "adj.",
+     "en": "extremely important and necessary for something to succeed or exist",
+     "zh": "至关重要的，必不可少的",
+     "ctx": "词根 vita 是“生命”，vital route 就是命脉通道，霍尔木兹对全球能源供应正是这个级别。",
+     "ex1": "Access to clean water is vital for public health. 获得清洁水源对公共健康至关重要。",
+     "ex2": "The port plays a vital role in the region's economy. 该港口在该地区经济中发挥着至关重要的作用。"
+    },
+    {
+     "w": "reverberate",
+     "ipa": "/rɪˈvɜːbəreɪt/",
+     "pos": "v.",
+     "en": "(of an event or idea) to have a wide-ranging and lasting effect; to echo repeatedly",
+     "zh": "产生广泛影响，回荡",
+     "ctx": "声音撞墙后一层层返回来，用来写冲击“荡开去”；海峡受阻的影响就这样传遍整个燃料市场。",
+     "ex1": "The effects of the financial crisis reverberated around the world for years. 金融危机的影响在世界各地回荡了数年之久。",
+     "ex2": "The Supreme Court's decision will reverberate through the entire healthcare system. 最高法院的裁决将在整个医疗保健系统中产生深远影响。"
+    },
+    {
+     "w": "rile up",
+     "ipa": "/raɪl ʌp/",
+     "pos": "phr. v.",
+     "en": "to make someone angry or excited; to stir up strong emotions",
+     "zh": "激怒，煽动",
+     "ctx": "比 anger 更口语、更带火气，指把一群人“点着”；文中被点着的，正是工业与农业利益集团。",
+     "ex1": "The controversial remarks riled up the crowd at the rally. 争议性言论激怒了集会上的群众。",
+     "ex2": "Talk of raising taxes always riles up the party's base. 一提加税总是会激怒该党的基本盘。"
+    }
+   ]
+  },
+  {
+   "en_html": "The political <mark class=\"voc\">fallout</mark> is <mark class=\"voc\">landing in</mark> deep-red voting districts the hardest. Federal data shows these tend to be the places where diesel <mark class=\"voc\">makes up</mark> the largest proportion of the overall <mark class=\"voc\">fuel mix</mark>. This is especially the case in farming communities, where diesel powers the fuel-thirsty <mark class=\"voc\">tractors</mark> and other <mark class=\"voc\">machinery</mark> that the agriculture industry relies on.",
+   "zh": "政治冲击波正狠狠地砸向深红选区。联邦数据显示，这些地区的柴油在整体燃料结构中所占比例往往最高。农业社区尤为如此——柴油驱动着耗油量惊人的拖拉机和其他机械，是农业产业赖以运转的命脉。",
+   "notes": [
+    {
+     "w": "fallout",
+     "ipa": "/ˈfɔːlaʊt/",
+     "pos": "n.",
+     "en": "the negative consequences or aftereffects of a significant event or situation",
+     "zh": "余波，负面影响",
+     "ctx": "原指核爆之后飘落的放射性尘埃，用在政坛就是一场风波溅出的碎片，落到谁头上谁疼。",
+     "ex1": "The fallout from the scandal forced the CEO to resign. 丑闻的余波迫使首席执行官辞职。",
+     "ex2": "The economic fallout of the war is being felt across the region. 战争的经济余波正在整个地区蔓延。"
+    },
+    {
+     "w": "land in",
+     "ipa": "/lænd ɪn/",
+     "pos": "phr. v.",
+     "en": "to arrive at or affect a particular place or group, especially with force or impact",
+     "zh": "落到，砸向",
+     "ctx": "用“落地”写冲击的落点，landing in ... the hardest 就是“砸得最重的地方”，方向和力度全在一个动词里。",
+     "ex1": "The blame for the failure landed squarely on the manager's shoulders. 失败的责任直接落到了经理肩上。",
+     "ex2": "The new regulations will land hardest on small businesses. 新法规将对小企业造成最严重的冲击。"
+    },
+    {
+     "w": "make up",
+     "ipa": "/meɪk ʌp/",
+     "pos": "phr. v.",
+     "en": "to form or constitute a particular proportion or part of something",
+     "zh": "构成，占",
+     "ctx": "此处既不是“化妆”也不是“和好”，而是“占多大比重”，后面通常接比例。",
+     "ex1": "Women make up more than half of the company's workforce. 女性占该公司员工总数的一半以上。",
+     "ex2": "Agriculture makes up a significant portion of the state's economy. 农业占该州经济的重要部分。"
+    },
+    {
+     "w": "fuel mix",
+     "ipa": "/ˈfjuːəl mɪks/",
+     "pos": "n.",
+     "en": "the combination of different types of fuel used in a particular area or system",
+     "zh": "燃料结构，燃料组合",
+     "ctx": "mix 是“配比”，一个地区烧什么、各占多少就是它的 fuel mix；深红区这份配比里柴油最重。",
+     "ex1": "The country is trying to shift its fuel mix toward renewable sources. 该国正试图将其燃料结构转向可再生能源。",
+     "ex2": "Diesel accounts for a larger share of the fuel mix in rural areas. 柴油在农村地区的燃料结构中占比更大。"
+    },
+    {
+     "w": "tractor",
+     "ipa": "/ˈtræktə(r)/",
+     "pos": "n.",
+     "en": "a powerful motor vehicle used on farms for pulling machinery and plowing fields",
+     "zh": "拖拉机",
+     "ctx": "词根 trahere 是“拉”，拖拉机就是“拉东西的机器”；它与联合收割机一起，构成农业里的油老虎。",
+     "ex1": "The farmer spent the morning driving his tractor across the fields. 农民一上午都开着拖拉机在田间劳作。",
+     "ex2": "Modern tractors are equipped with GPS for precision farming. 现代拖拉机配备了GPS以实现精准农业。"
+    },
+    {
+     "w": "machinery",
+     "ipa": "/məˈʃiːnəri/",
+     "pos": "n.",
+     "en": "machines collectively, especially those used in industry or agriculture",
+     "zh": "机械，机械装置",
+     "ctx": "不可数的集合名词，指“机械的总和”，不能说 a machinery；农业靠的就是这一整套机械。",
+     "ex1": "The factory invested in new machinery to increase production. 工厂投资购买新机械以提高产量。",
+     "ex2": "Heavy machinery is required to harvest the crops efficiently. 高效收割庄稼需要重型机械。"
+    }
+   ]
+  },
+  {
+   "en_html": "That has led <mark class=\"voc\">lawmakers</mark> to demand what was unthinkable in the GOP only a couple of months ago: a ban on diesel exports from the United States. The proposal seems to make sense <mark class=\"voc\">on its face</mark>: restrict the flow of the fuel out of the U.S. to boost the supply domestically, quickly lowering prices. The problem is that almost nobody who understands oil markets — including Energy Secretary Chris Wright — believes it would work out that way. Analysts who have been <mark class=\"voc\">modeling</mark> the impact of a diesel export ban are consistently warning it would create <mark class=\"voc\">chaos</mark> and hurt consumers.",
+   "zh": "这促使议员们提出了几个月前在共和党内还不可想象的主张：禁止美国出口柴油。这一提议表面上似乎合情合理：限制燃料外流以增加国内供应，从而迅速压低价格。问题在于，几乎所有真正懂石油市场的人——包括能源部长克里斯·赖特——都不认为它会奏效。一直在建模分析柴油出口禁令影响的分析师们一致警告：此举将制造混乱，伤害消费者。",
+   "notes": [
+    {
+     "w": "lawmaker",
+     "ipa": "/ˈlɔːmeɪkə(r)/",
+     "pos": "n.",
+     "en": "a person who makes laws; a member of a legislative body",
+     "zh": "立法者，议员",
+     "ctx": "law + maker 直译“造法的人”，是议员的中性说法，比 congressman 更不挑党派。",
+     "ex1": "Lawmakers debated the bill for hours before voting. 议员们就法案辩论了数小时后才投票。",
+     "ex2": "The lawmaker introduced legislation to lower prescription drug prices. 这位议员提出立法以降低处方药价格。"
+    },
+    {
+     "w": "on its face",
+     "ipa": "/ɒn ɪts feɪs/",
+     "pos": "phr.",
+     "en": "based on a first impression or superficial examination, without considering deeper complexities",
+     "zh": "从表面上看",
+     "ctx": "法律用语，只看纸面、不问内里；作者用它给后面的反转埋钉子——看着合理的禁令其实行不通。",
+     "ex1": "On its face, the proposal seems reasonable, but it has hidden costs. 从表面上看，该提议似乎合理，但存在隐性成本。",
+     "ex2": "The argument is compelling on its face but falls apart under scrutiny. 该论点表面上很有说服力，但经不起推敲。"
+    },
+    {
+     "w": "model",
+     "ipa": "/ˈmɒdl/",
+     "pos": "v.",
+     "en": "to simulate or predict the effects of something using a mathematical or analytical system",
+     "zh": "建模分析，模拟",
+     "ctx": "名词“模型”作动词，指先把政策后果用数据算一遍，比 predict 多一层“有模型撑着”的底气。",
+     "ex1": "Economists modeled the impact of the tax cut on growth. 经济学家建模分析了减税对增长的影响。",
+     "ex2": "Researchers are modeling how climate change will affect crop yields. 研究人员正在建模分析气候变化将如何影响作物产量。"
+    },
+    {
+     "w": "chaos",
+     "ipa": "/ˈkeɪɒs/",
+     "pos": "n.",
+     "en": "a state of complete disorder and confusion",
+     "zh": "混乱，动荡",
+     "ctx": "希腊语里指宇宙成形之前的那团混沌，程度远重于 mess；分析师说禁令一出就是市场大乱。",
+     "ex1": "The power outage caused chaos across the city. 停电在全城造成混乱。",
+     "ex2": "The sudden policy change threw the market into chaos. 政策的突然变化使市场陷入混乱。"
+    }
+   ]
+  },
+  {
+   "en_html": "The Gulf Coast <mark class=\"voc\">refineries</mark> that typically export diesel abroad would get <mark class=\"voc\">overloaded</mark> with <mark class=\"voc\">a glut of</mark> crude that would have to <mark class=\"voc\">be diverted to</mark> storage. The diesel they make would mostly be <mark class=\"voc\">stranded</mark> in their region, because there are no pipelines to get it across the country. Parts of the country that rely on imports of diesel could then see prices soar even higher than they are now. “It is not at all clear that the national price of diesel would fall,” the Energy Policy Research Foundation said Thursday in a report.",
+   "zh": "通常向海外出口柴油的墨西哥湾沿岸炼油厂，将因大量原油无处可去而陷入过剩，只能转为储存。它们生产的柴油也将大部分困守本地区，因为没有管道将其输送到全国各地。而那些依赖柴油进口的地区，价格反而可能比现在涨得更凶。“全国柴油价格是否会下降，完全说不准，”能源政策研究基金会周四在一份报告中表示。",
+   "notes": [
+    {
+     "w": "refinery",
+     "ipa": "/rɪˈfaɪnəri/",
+     "pos": "n.",
+     "en": "a factory where raw materials such as crude oil are processed into usable products like gasoline or diesel",
+     "zh": "炼油厂",
+     "ctx": "refine（提炼）加 -ery（场所），把原油炼成汽柴油的地方；墨西哥湾沿岸是全球炼油的心脏地带。",
+     "ex1": "The refinery processes thousands of barrels of crude oil per day. 该炼油厂每天加工数千桶原油。",
+     "ex2": "A fire at the refinery forced the company to halt production. 炼油厂火灾迫使公司停止生产。"
+    },
+    {
+     "w": "overloaded",
+     "ipa": "/ˌəʊvəˈləʊdɪd/",
+     "pos": "adj.",
+     "en": "carrying or supplied with more than can be handled or accommodated",
+     "zh": "超负荷的，过剩的",
+     "ctx": "over- 过量 + load 装载，货多到装不下；禁令一堵，炼油厂先被自己的原油压垮。",
+     "ex1": "The electrical system was overloaded and caused a blackout. 电力系统超负荷导致停电。",
+     "ex2": "Trucks were overloaded with goods during the holiday season. 假日期间卡车超载运货。"
+    },
+    {
+     "w": "a glut of",
+     "ipa": "/ə ɡlʌt ɒv/",
+     "pos": "phr.",
+     "en": "an excessive supply or amount of something, more than what is needed",
+     "zh": "大量的，过剩的",
+     "ctx": "glut 专指“供过于求的堆积”，是经济学意义上的过剩，正好说清禁令造成的原油淤积。",
+     "ex1": "A glut of cheap imports drove local producers out of business. 大量廉价进口商品迫使本地生产商倒闭。",
+     "ex2": "There is a glut of office space in the city center. 市中心办公空间过剩。"
+    },
+    {
+     "w": "be diverted to",
+     "ipa": "/biː daɪˈvɜːtɪd tuː/",
+     "pos": "phr. v.",
+     "en": "to be redirected or channeled to a different place or purpose",
+     "zh": "被转移到，被转用于",
+     "ctx": "di- 分开 + vert 转，本该出口的原油被“改道”进储油罐，一个动词写尽禁令的副作用。",
+     "ex1": "The funds were diverted to other projects without approval. 这些资金未经批准就被转用于其他项目。",
+     "ex2": "Traffic was diverted to side streets during the road construction. 道路施工期间交通被疏导到小街上。"
+    },
+    {
+     "w": "strand",
+     "ipa": "/strænd/",
+     "pos": "v.",
+     "en": "to leave someone or something in a place from which they cannot leave or be moved",
+     "zh": "使滞留，使困于",
+     "ctx": "原义“搁浅”，船卡在沙滩上动不了；柴油因没有管道被困在产区，正是这个画面。",
+     "ex1": "The storm stranded hundreds of travelers at the airport. 暴风雨使数百名旅客滞留在机场。",
+     "ex2": "The broken-down bus stranded passengers on the highway for hours. 抛锚的巴士使乘客在高速公路上滞留了数小时。"
+    }
+   ]
+  },
+  {
+   "en_html": "In Iowa, where farmer anger over the price of diesel has reached a <mark class=\"voc\">boiling point</mark> and endangered the GOP’s hold over a Senate seat in a state Trump won by 13 percentage points in 2024, <mark class=\"voc\">conservative</mark> lawmakers are <mark class=\"voc\">rushing to</mark> <mark class=\"voc\">embrace</mark> an export ban. The Iowa Corn Growers Association, which has <mark class=\"voc\">endorsed</mark> all Republicans in this year’s Iowa congressional races, wrote to the state’s <mark class=\"voc\">delegation</mark> in Washington this past week <mark class=\"voc\">pleading for</mark> action to lower diesel prices.",
+   "zh": "在艾奥瓦州，农民对柴油价格的愤怒已到沸点，危及共和党在该州一个参议院席位的掌控——而特朗普2024年曾以13个百分点的优势拿下该州。保守派议员正争先恐后地拥抱出口禁令。艾奥瓦州玉米种植者协会——今年该州国会选举中支持了所有共和党候选人——过去一周致信该州驻华盛顿代表团，恳请采取行动降低柴油价格。",
+   "notes": [
+    {
+     "w": "boiling point",
+     "ipa": "/ˈbɔɪlɪŋ pɔɪnt/",
+     "pos": "n.",
+     "en": "the point at which a situation becomes so heated or intense that it can no longer be controlled; the temperature at which a liquid boils",
+     "zh": "沸点；爆发点",
+     "ctx": "从物理上的“沸点”借到情绪上，农民的火气已经烧到顶，再添一把就漫出来。",
+     "ex1": "Tensions between the two communities reached boiling point after the incident. 事件发生后，两个社区之间的紧张关系达到了沸点。",
+     "ex2": "Public frustration over the economy has reached boiling point. 公众对经济的不满已达到爆发点。"
+    },
+    {
+     "w": "conservative",
+     "ipa": "/kənˈsɜːvətɪv/",
+     "pos": "adj.",
+     "en": "favoring traditional values and cautious change; relating to the Republican Party or right-wing politics",
+     "zh": "保守派的",
+     "ctx": "政治光谱右翼的代称，此处指共和党内那批保守派议员，抢着要禁出口的正是他们。",
+     "ex1": "The conservative senator opposed the new environmental regulations. 这位保守派参议员反对新的环境法规。",
+     "ex2": "Conservative voters turned out in large numbers for the election. 保守派选民大批出动参加选举。"
+    },
+    {
+     "w": "be rushed to",
+     "ipa": "/biː rʌʃt tuː/",
+     "pos": "phr. v.",
+     "en": "to do something with great haste or urgency",
+     "zh": "急于，争先恐后地",
+     "ctx": "rush 是“冲”，被动式写出议员慌不择路的姿态——几个月前还不敢想的事，如今抢着干。",
+     "ex1": "Lawmakers were rushed to pass the emergency funding bill. 议员们急于通过紧急拨款法案。",
+     "ex2": "Investors rushed to sell their shares as the market crashed. 市场崩盘时投资者争先恐后地抛售股票。"
+    },
+    {
+     "w": "embrace",
+     "ipa": "/ɪmˈbreɪs/",
+     "pos": "v.",
+     "en": "to accept or support a belief, idea, or policy enthusiastically",
+     "zh": "拥抱，欣然接受",
+     "ctx": "本义“张开双臂抱住”，用在主张上就是全盘接受还带着热情，比 support 多一层心甘情愿。",
+     "ex1": "The company embraced new technology to stay competitive. 该公司拥抱新技术以保持竞争力。",
+     "ex2": "Many voters have embraced the candidate's economic message. 许多选民欣然接受了这位候选人的经济主张。"
+    },
+    {
+     "w": "endorse",
+     "ipa": "/ɪnˈdɔːs/",
+     "pos": "v.",
+     "en": "to publicly declare support or approval for a person, policy, or product",
+     "zh": "支持，背书",
+     "ctx": "原指在支票背面签名，引申为公开“背书”；协会给全部共和党候选人背书，等于把农民票仓押了上去。",
+     "ex1": "The union endorsed the candidate for mayor. 工会支持这位市长候选人。",
+     "ex2": "Several celebrities have endorsed the new environmental campaign. 几位名人支持了这项新的环保运动。"
+    },
+    {
+     "w": "delegation",
+     "ipa": "/ˌdelɪˈɡeɪʃn/",
+     "pos": "n.",
+     "en": "a group of people chosen to represent a larger group or organization",
+     "zh": "代表团",
+     "ctx": "delegate（派代表）加 -tion，指被派出去代为说话的一批人；此处是艾奥瓦州驻华盛顿的国会代表团。",
+     "ex1": "A trade delegation was sent to negotiate the agreement. 一个贸易代表团被派去谈判该协议。",
+     "ex2": "The state's congressional delegation met with the governor to discuss funding. 该州国会代表团与州长会面讨论资金问题。"
+    },
+    {
+     "w": "plead for",
+     "ipa": "/pliːd fɔː(r)/",
+     "pos": "phr. v.",
+     "en": "to make an emotional or urgent request for something",
+     "zh": "恳求，呼吁",
+     "ctx": "plead 带哀求色彩，不是平铺直叙地“要求”，是带着急切的“求你们了”，写出农民协会的处境。",
+     "ex1": "Residents pleaded for help after the flood destroyed their homes. 洪水摧毁家园后，居民恳求援助。",
+     "ex2": "The charity pleaded for donations to support refugee families. 该慈善机构恳请捐款以支持难民家庭。"
+    }
+   ]
+  },
+  {
+   "en_html": "The record highs are especially <mark class=\"voc\">ill-timed</mark> because they hit <mark class=\"voc\">right at</mark> harvest, the association noted. “This time of year should be positive for Iowa farmers, but the concern of affordability <mark class=\"voc\">looms large</mark> as diesel prices go above $6 per gallon,” the letter said. “This is <mark class=\"voc\">accelerating</mark> the economic and mental stress farmers are feeling.”",
+   "zh": "协会指出，这轮历史新高来得尤其不是时候，因为正值收获季节。“每年的这个时候本该是艾奥瓦农民欢欣鼓舞的日子，但随着柴油价格突破每加仑6美元，负担能力的忧虑笼罩一切，”信中写道。“这正在加剧农民所承受的经济压力和精神压力。”",
+   "notes": [
+    {
+     "w": "ill-timed",
+     "ipa": "/ˌɪl ˈtaɪmd/",
+     "pos": "adj.",
+     "en": "happening at an unsuitable or unfortunate moment",
+     "zh": "时机不当的，不合时宜的",
+     "ctx": "ill 在这里不是“病”而是“坏、不巧”，ill-timed 就是来得不是时候，偏偏撞上收割季。",
+     "ex1": "The announcement was ill-timed, coming right after the company's worst earnings report. 这一宣布时机不当，恰好发生在公司最差财报发布之后。",
+     "ex2": "His ill-timed joke offended the audience. 他不合时宜的玩笑冒犯了观众。"
+    },
+    {
+     "w": "right at",
+     "ipa": "/raɪt æt/",
+     "pos": "phr.",
+     "en": "exactly at a particular moment or point",
+     "zh": "恰好在，正是在",
+     "ctx": "right 在此是强调词，“正好、偏偏”，把“时机太差”这层意思顶到最前面。",
+     "ex1": "The power went out right at the most exciting moment of the game. 停电恰好发生在比赛最激动人心的时刻。",
+     "ex2": "She arrived right at the moment the meeting was starting. 她恰好在会议开始时到达。"
+    },
+    {
+     "w": "loom large",
+     "ipa": "/luːm lɑːdʒ/",
+     "pos": "phr. v.",
+     "en": "to be imminent and seem threatening or important; to be a major concern",
+     "zh": "笼罩，迫在眉睫",
+     "ctx": "loom 是庞然大物在雾里逼近，loom large 就是压在心头、躲不开，负担之忧正是如此。",
+     "ex1": "The threat of layoffs loomed large over the workforce. 裁员的威胁笼罩着全体员工。",
+     "ex2": "Climate change looms large in the minds of young voters. 气候变化在年轻选民心中占据重要位置。"
+    },
+    {
+     "w": "accelerate",
+     "ipa": "/əkˈseləreɪt/",
+     "pos": "v.",
+     "en": "to make something happen faster or sooner; to increase in speed",
+     "zh": "加速，加剧",
+     "ctx": "词根 celer 是“快”，这里不是车轮加速，而是把压力往前推，让农民的经济与精神负担更早爆掉。",
+     "ex1": "The new policy could accelerate the pace of economic recovery. 新政策可能加快经济复苏的步伐。",
+     "ex2": "Rising costs have accelerated the decline of small businesses. 成本上升加剧了小企业的衰落。"
+    }
+   ]
+  },
+  {
+   "en_html": "Steve Kuiper, a farmer and head of the association, said that diesel is <mark class=\"voc\">indispensable</mark> to his work. As the harvest <mark class=\"voc\">gets in gear</mark>, the <mark class=\"voc\">tractor-trailers</mark> that deliver equipment to farms and <mark class=\"voc\">haul away</mark> harvested crops, as well as the tractors and combines and harvesters that do the work, all run on diesel, Kuiper said. His own operation uses some 500 gallons of diesel per day, he said. Fuel he contracted for last year is running at about half the cost of fuel purchased now; <mark class=\"voc\">topping off</mark> one truck Thursday cost $500, Kuiper said. “Farming is not a <mark class=\"voc\">huge-margin</mark> business. This quickly <mark class=\"voc\">cuts into</mark> it,” he said.",
+   "zh": "农民兼协会主席史蒂夫·凯珀说，柴油对他的劳作不可或缺。随着收获季全面展开，向农场运送设备、运走收获作物的牵引挂车，以及田间作业的拖拉机、联合收割机和收获机，统统烧的是柴油，凯珀说。他自己的经营每天要用掉约500加仑柴油。他说，去年签约锁定的燃料价格约为现在购买价格的一半；周四给一辆卡车加满油花了500美元。“农业本就不是高利润行业。这很快就侵蚀了利润，”他说。",
+   "notes": [
+    {
+     "w": "indispensable",
+     "ipa": "/ˌɪndɪˈspensəbl/",
+     "pos": "adj.",
+     "en": "absolutely necessary; too important to be without",
+     "zh": "不可或缺的，必不可少的",
+     "ctx": "in- 不 + dispensable 可省掉的，“省不掉”就是不可或缺，语气比 necessary 重得多。",
+     "ex1": "Smartphones have become indispensable in modern life. 智能手机已成为现代生活中不可或缺的东西。",
+     "ex2": "She is indispensable to the success of the project. 她对项目的成功不可或缺。"
+    },
+    {
+     "w": "get in gear",
+     "ipa": "/ɡet ɪn ɡɪə(r)/",
+     "pos": "phr. v.",
+     "en": "to start working or operating efficiently; to begin to move or progress",
+     "zh": "开始运转，步入正轨",
+     "ctx": "来自汽车挂挡，gear 是挡位，挂上挡车才动；收割季“挂挡”就是全面开工。",
+     "ex1": "The campaign is finally getting in gear as the election approaches. 随着选举临近，竞选活动终于开始全速运转。",
+     "ex2": "It took a while for the team to get in gear after the long break. 长假过后，团队花了一段时间才进入状态。"
+    },
+    {
+     "w": "tractor trailer",
+     "ipa": "/ˈtræktə ˈtreɪlə(r)/",
+     "pos": "n.",
+     "en": "a large truck consisting of a tractor unit and a trailer, used for transporting goods",
+     "zh": "牵引挂车，半挂卡车",
+     "ctx": "车头（tractor）加挂车（trailer）拼成的大货车，农场的设备与粮食全靠它进出。",
+     "ex1": "Tractor trailers lined up at the warehouse to unload their cargo. 牵引挂车在仓库前排成一列卸货。",
+     "ex2": "The highway was blocked by an overturned tractor trailer. 一辆翻倒的牵引挂车堵住了高速公路。"
+    },
+    {
+     "w": "haul away",
+     "ipa": "/hɔːl əˈweɪ/",
+     "pos": "phr. v.",
+     "en": "to transport or carry something away, especially with effort or in large quantities",
+     "zh": "运走，拖走",
+     "ctx": "haul 是“费力地拖运”，一车一车把收成拉走，正说明柴油消耗有多大。",
+     "ex1": "Trucks hauled away the debris after the storm. 暴风雨过后，卡车运走了残骸。",
+     "ex2": "The company was fined for hauling away hazardous waste illegally. 该公司因非法运走危险废物而被罚款。"
+    },
+    {
+     "w": "top off",
+     "ipa": "/tɒp ɒf/",
+     "pos": "phr. v.",
+     "en": "to fill a container that is already partially full to the top; to refuel a vehicle",
+     "zh": "加满，补满",
+     "ctx": "油箱还有点油，再“补到顶”，日常说法就是加满；加满一辆车 500 美元，价格之痛全在这。",
+     "ex1": "He stopped at the gas station to top off his tank before the long drive. 长途驾驶前他在加油站加满了油箱。",
+     "ex2": "Let me top off your coffee before we start the meeting. 会议开始前我帮你把咖啡续满。"
+    },
+    {
+     "w": "huge-margin",
+     "ipa": "/hjuːdʒ ˈmɑːdʒɪn/",
+     "pos": "adj.",
+     "en": "involving a very large profit margin; highly profitable",
+     "zh": "高利润的",
+     "ctx": "margin 是“利润空间”，huge-margin business 就是赚头很大的行当，农业恰恰不是。",
+     "ex1": "Luxury goods are typically a huge-margin business. 奢侈品通常是高利润行业。",
+     "ex2": "Farming is not a huge-margin industry, so rising costs hit hard. 农业不是高利润行业，因此成本上升冲击很大。"
+    },
+    {
+     "w": "cut into sth.",
+     "ipa": "/kʌt ˈɪntuː/",
+     "pos": "phr. v.",
+     "en": "to reduce or take away from something, especially profits, savings, or time",
+     "zh": "侵蚀，削减",
+     "ctx": "像刀一样切进去，把利润一块块削走；成本上涨对薄利农业就是这种切法。",
+     "ex1": "Rising rent has cut into our monthly savings. 租金上涨侵蚀了我们的每月储蓄。",
+     "ex2": "The longer commute cut into his time with family. 更长的通勤时间削减了他与家人相处的时间。"
+    }
+   ]
+  },
+  {
+   "en_html": "The price of fertilizer is going up at the same time, he said, and all of those costs will be <mark class=\"voc\">passed on to</mark> consumers. Kuiper does not specifically blame Trump or other Republicans for the situation, which he said has been building for years and could be <mark class=\"voc\">mitigated</mark> by steps such as an <mark class=\"voc\">embargo</mark> on diesel exports or allowing more <mark class=\"voc\">ethanol</mark> to be mixed in with petroleum products. But the situation <mark class=\"voc\">puts all politicians in a negative light</mark>. “All our elected officials in D.C. need to do their job and get things <mark class=\"voc\">taken care of</mark>,” Kuiper said.",
+   "zh": "他说，化肥价格同时也在上涨，所有这些成本最终都会转嫁给消费者。凯珀并未专门将矛头指向特朗普或其他共和党人——他说这个问题已酝酿多年，可以通过禁止柴油出口或允许更多乙醇混入石油产品等措施来缓解。但这一局面让所有政客都脸上无光。“我们在华盛顿的所有民选官员都需要尽职尽责，把事情处理好，”凯珀说。",
+   "notes": [
+    {
+     "w": "pass on to",
+     "ipa": "/pɑːs ɒn tuː/",
+     "pos": "phr. v.",
+     "en": "to transfer something, especially costs, to someone else",
+     "zh": "转嫁给",
+     "ctx": "成本像接力棒，一层层传下去，最后掏钱的是消费者。",
+     "ex1": "The company passed the increased costs on to its customers. 公司将增加的成本转嫁给了客户。",
+     "ex2": "Landlords often pass property tax increases on to tenants. 房东通常将房产税上涨转嫁给租户。"
+    },
+    {
+     "w": "mitigate",
+     "ipa": "/ˈmɪtɪɡeɪt/",
+     "pos": "v.",
+     "en": "to make something less severe, harmful, or painful",
+     "zh": "缓解，减轻",
+     "ctx": "词根 mitis 是“柔和”，把锋利的后果磨钝，并非彻底解决，所以只是缓解。",
+     "ex1": "The government introduced measures to mitigate the effects of the drought. 政府出台措施以减轻干旱的影响。",
+     "ex2": "Planting trees can help mitigate climate change. 植树有助于缓解气候变化。"
+    },
+    {
+     "w": "embargo",
+     "ipa": "/ɪmˈbɑːɡəʊ/",
+     "pos": "n.",
+     "en": "an official ban on trade or other commercial activity with a particular country or in a particular product",
+     "zh": "禁运，禁令",
+     "ctx": "政府层面的贸易禁令，比 ban 正式；凯珀用它指“禁出口”这剂药，与全文的 export ban 同义。",
+     "ex1": "The UN imposed an arms embargo on the warring nation. 联合国对交战国实施了武器禁运。",
+     "ex2": "The oil embargo caused a global energy crisis. 石油禁运引发了全球能源危机。"
+    },
+    {
+     "w": "ethanol",
+     "ipa": "/ˈeθənɒl/",
+     "pos": "n.",
+     "en": "a type of alcohol used as a fuel, often made from corn or sugarcane and mixed with gasoline",
+     "zh": "乙醇",
+     "ctx": "ethane 乙烷加 -ol 醇，玉米酿的酒精燃料，掺进油里能顶一部分油量，也正合艾奥瓦这个玉米州的心思。",
+     "ex1": "Many gas stations now offer fuel blends containing ethanol. 许多加油站现在提供含乙醇的混合燃料。",
+     "ex2": "Ethanol produced from corn is a major biofuel in the Midwest. 由玉米生产的乙醇是中西部的主要生物燃料。"
+    },
+    {
+     "w": "put sb. in a negative light",
+     "ipa": "/pʊt ˈsʌmbədi ɪn ə ˈneɡətɪv laɪt/",
+     "pos": "phr.",
+     "en": "to make someone appear bad or unfavorable to others",
+     "zh": "使某人脸上无光，使某人处于不利境地",
+     "ctx": "把人放到坏光线下，形象自然难看；此处指柴油危机让所有政客都显得无能。",
+     "ex1": "The leaked emails put the entire management team in a negative light. 泄露的邮件使整个管理团队脸上无光。",
+     "ex2": "His refusal to answer questions put him in a negative light with the public. 他拒绝回答问题使他在公众面前形象受损。"
+    },
+    {
+     "w": "take care of",
+     "ipa": "/teɪk keə(r) ɒv/",
+     "pos": "phr. v.",
+     "en": "to deal with or handle a situation or problem",
+     "zh": "处理好，解决",
+     "ctx": "除了“照顾”，更常指把事情办妥；凯珀用它把责任推回给华盛顿。",
+     "ex1": "Don't worry about the arrangements — I'll take care of everything. 别担心安排的事——我会处理好一切。",
+     "ex2": "The committee promised to take care of the complaints promptly. 委员会承诺迅速处理这些投诉。"
+    }
+   ]
+  }
+ ],
+ "proper": [
+  {
+   "name": "Diesel prices soaring to record highs / 柴油价格飙升至历史新高",
+   "def": "2026 年 9 月，美国全国柴油平均零售价格达到每加仑 6.53 美元的历史高位，与一年前不足 3.70 美元相比涨幅超过 76%；加利福尼亚州更高达每加仑 8.44 美元。柴油价格年内累计上涨 83%，有望成为 AAA 自 2000 年开始追踪柴油价格以来最大的年度涨幅，涨幅远超同期汽油，是本轮能源危机中受冲击最重的成品油品种。<br>本文中的意思：全文的起点与坐标——正是这个“破 6 美元”的数字，把一场远在中东的战争变成了深红选区的日常账单。"
+  },
+  {
+   "name": "Republican candidates in solid-red parts / 深红选区的共和党候选人",
+   "def": "“深红选区”指共和党占绝对优势、几乎不可能被民主党翻盘的国会选区。联邦数据显示，这些地区的柴油在整体燃料结构中所占比例往往最高，受冲击最集中。柴油价格飙升后，深红选区的共和党候选人纷纷呼吁结束对伊战争并禁止柴油出口：艾奥瓦州参议员 Chuck Grassley 直言“柴油高价正在扼杀农民收入”，阿拉斯加州参议员沙利文公开呼吁暂停柴油出口，田纳西州众议员 Tim Burchett 已提出立法草案推动出口禁令。<br>本文中的意思：文章的反常之处就在于——最不该抱怨的一群人开始抱怨了，因为铁票仓恰恰是柴油用得最多的地方。"
+  },
+  {
+   "name": "Mike Rogers / 迈克·罗杰斯",
+   "def": "密歇根州共和党联邦参议员候选人，曾任联邦众议员和众议院情报委员会主席，长期以国家安全鹰派立场著称。柴油价格飙升后，他于 9 月 21 日发布竞选广告，呼吁尽快结束对伊战争。Sabato’s Crystal Ball 在 9 月 22 日将密歇根州参议院选情从“倾向共和党”调整为“胜负难料”，分析人士指出罗杰斯与艾奥瓦州的 Hinson、俄亥俄州的 Husted 一样，开始采取“向中间靠拢”的策略。<br>本文中的意思：第 1 段那句“密歇根的家庭正在为日常开销苦苦挣扎”，就是从他的广告里剪出来的——连国安鹰派都被油价逼得谈民生。"
+  },
+  {
+   "name": "MAGA base / MAGA 基本盘",
+   "def": "指特朗普“让美国再次伟大”（Make America Great Again）运动最忠实的支持者群体，核心包括乡村选民、农民、卡车司机和小企业主。《农场杂志》2026 年 4 月对全美 44 个州 974 名农场主的调查显示，78% 的受访者认为机械、化肥、燃料、种子等投入成本是经营面临的重要挑战；94% 表示伊朗战事推高了化肥和能源价格；39% 的农民在中期选举前已经动摇，有人考虑抛弃共和党候选人，有人考虑支持独立候选人，有人干脆不打算投票。<br>本文中的意思：这是全文的“受伤部位”——柴油涨价打的不是别人，正是共和党最稳的那块票。"
+  },
+  {
+   "name": "Strait of Hormuz / 霍尔木兹海峡",
+   "def": "位于伊朗与阿拉伯半岛之间，连接波斯湾与阿曼湾，是全球最关键的能源运输咽喉。战前该海峡承担全球约五分之一的原油和成品油运输，日均约 2000 万桶。2026 年 2 月底美伊战争爆发后，伊朗对海峡实施封锁；船舶追踪机构克普勒公司数据显示，8 月 19 日仅有 9 艘大宗商品运输船通过，而战前日均通行量远高于此，当前原油运输量约为战前的 15%。分析人士提醒，真正要警惕的是危机长期化——海湾出口长期受限，影响会沿能源、航运、制造业和消费价格链条继续传导。<br>本文中的意思：柴油涨价的源头。第 2 段用它解释“为什么一场中东战争会打到艾奥瓦的田里”。"
+  },
+  {
+   "name": "Diesel as economic lifeblood / 柴油作为经济命脉",
+   "def": "柴油驱动着卡车、火车、船舶、拖拉机、联合收割机和建筑机械。美国炼油厂每日可生产约 530 万桶馏分油（含柴油、取暖油、航空煤油），国内每日需求仅 360 万桶。柴油价格飙升相当于对美国供应链征收“重税”，因为美国供应链严重依赖柴油运输货物。CNN 把柴油称为“地球上最重要的燃料”。<br>本文中的意思：解释了柴油为何比汽油更“政治”——汽油只烧在私家车里，柴油烧在整条供应链上。"
+  },
+  {
+   "name": "Industrial and agricultural interests / 工业与农业利益集团",
+   "def": "指美国工业和农业产业中的核心组织与群体，包括农场主、农业协会、货运公司及相关供应链从业者，传统上是共和党最忠实的支持者之一。艾奥瓦州农民拉冯·格里菲恩站在容量 1.1 万余升的农场柴油储罐旁，看着超过 1.1 万美元的账单——她原估算约 1 万美元。她的丈夫克雷格回忆：“第一天涨 30 美分，到最后差不多涨了一美元。”艾奥瓦州大豆协会的格兰特·金伯利用“滞胀”描述农业困境：投入成本急剧上升，农产品价格停滞甚至下跌，“农民正承受着双向挤压”。<br>本文中的意思：第 2 段说“真正被激怒的是这群人”——他们不是街头抗议者，而是共和党账本上最稳的那一栏。"
+  },
+  {
+   "name": "Faithful Republican supporters / 共和党忠实支持者",
+   "def": "指长期稳定投票支持共和党的选民群体，包括乡村选民、农民、卡车司机和小企业主。艾奥瓦州是观察这一群体政治忠诚变化的关键窗口：Marist 民调显示，58% 的艾奥瓦注册选民不认可特朗普的工作表现，43% 表示其国会投票主要是对特朗普的反对票。该州参议院选情已从“倾向共和党”转为“胜负难料”，民主党候选人 Josh Turek 以 50% 对 42% 领先共和党候选人 Ashley Hinson。但分析人士指出，这并不意味着农民选民在转向支持民主党——更准确的说法是，农民对共和党越来越感到疏离。<br>本文中的意思：文章反复强调的“faithful”在这里落了地——不是改投别人，是先不想投了。"
+  },
+  {
+   "name": "Political fallout / 政治余波",
+   "def": "指某一重大事件在政治层面引发的连锁反应与负面后果。柴油价格飙升的政治冲击波正最沉重地落在共和党的深红选区。CNN 分析指出，柴油价格年内上涨 83%，已成为选民在中期选举前对生活成本焦虑的核心来源。艾奥瓦州国会代表团的共和党人开始公开与特朗普在伊朗战争问题上决裂：众议员 Zach Nunn 和 Mariannette Miller-Meeks 与民主党人联署决议，要求总统在未经国会授权的情况下从伊朗撤军——而此前他们曾五次投票支持继续战争；参议员候选人 Ashley Hinson 在社交媒体上呼吁国会立即返回华盛顿暂停柴油出口，此前她一直坚定支持特朗普处理伊朗问题的方式。<br>本文中的意思：第 3 段的题眼。作者用 fallout（核爆尘埃）暗示：这场价格风波的政治碎片，落点全在共和党自己头上。"
+  },
+  {
+   "name": "Diesel in the fuel mix / 柴油在燃料结构中的占比",
+   "def": "“燃料结构”指一个地区所使用的各种燃料的构成比例。深红选区（尤其是农业社区）的柴油在整体燃料结构中所占比例最高。美国炼油厂产出的柴油多于国内消耗，因此才有柴油对外出口；但柴油是全球化交易品种，美国本土价格由全球供需决定。GasBuddy 分析师帕特里克·德哈安指出：“你无法通过行政命令将一种全球交易的大宗商品隔绝起来，并指望全球价格不再产生影响。”<br>本文中的意思：解释了第 3 段“为什么偏偏是深红区最疼”，也为第 4 段“禁令为何没用”埋下伏笔。"
+  },
+  {
+   "name": "Diesel export ban / 柴油出口禁令",
+   "def": "指禁止美国柴油出口的贸易限制措施。美国是全球柴油出口的重要来源，上月柴油出口一度升至接近 200 万桶/日的周纪录水平。田纳西州共和党众议员 Tim Burchett 提出两项法案：H.R.10423 要求至 2027 年 1 月前全面禁止柴油出口；H.R.10422 设置价格触发机制，当全美柴油均价达到 5 美元/加仑时自动启动禁令，直至油价连续 30 天回落至 4.50 美元/加仑及以下。特朗普本人 9 月 22 日表态支持禁令，称“我已经说了，别把柴油出口出去，我们生产很多柴油”。白宫内部存在明显分歧：能源部长 Chris Wright 警告禁令将导致墨西哥湾沿岸产品积压、迫使炼油商下调开工率、快速压缩汽油产量；内政部长 Doug Burgum 表示“完全不确信”禁令能压低价格。<br>本文中的意思：第 4 段的核心主张——几个月前在共和党内还“不可想象”，如今成了议员们抢着拥抱的救命稻草。"
+  },
+  {
+   "name": "Energy Policy Research Foundation / 能源政策研究基金会",
+   "def": "一家专注于能源政策分析的美国研究机构。该机构在报告中指出，柴油出口禁令实施后，墨西哥湾沿岸炼油厂的柴油将因缺乏管道运输而困守本地区，依赖柴油进口的地区价格反而可能涨得更高，“全国柴油价格是否会下降，完全说不准”。CNN 援引分析人士警告称，禁令可能使东海岸和西海岸价格飙升，因为这些地区依赖进口且无法便捷获取墨西哥湾沿岸的燃料——“如果禁止出口，两海岸就完蛋了”。<br>本文中的意思：第 5 段那句“完全说不准”的出处，也是全文最锋利的一记反讽：禁令想压价，结果可能抬价。"
+  },
+  {
+   "name": "Gulf Coast refineries / 墨西哥湾沿岸炼油厂",
+   "def": "美国墨西哥湾沿岸是全球最重要的炼油中心之一，这些炼油厂通常向海外出口柴油。禁令一旦实施，它们将因原油过剩而不堪重负。能源经济学家 Joseph Brusuelas 警告，出口禁令会造成短期国内供应过剩，过剩产品随后必须折价出售，反过来可能导致能源企业削减产量，从而再次推高价格。凯投宏观在研报中写道：美国柴油看似过剩，但矛盾的是，出口禁令会迫使炼厂在几周内削减成品油供应，最终政策适得其反。美国石油学会（API）表示，限制柴油出口会扰乱美国与全球燃油市场，破坏炼油运营稳定性，加深全球炼油危机。<br>本文中的意思：第 5 段的主角——它们本是出口阀门，禁令一关，阀门变成了堵点。"
+  },
+  {
+   "name": "Pipelines / 管道运输",
+   "def": "美国成品油跨区域运输高度依赖管道网络。墨西哥湾沿岸的柴油若要运往东海岸和其他消费地区，主要依靠 Colonial Pipeline 等管道系统。出口禁令将导致柴油无法外运，而国内管道运力有限，无法把过剩柴油及时输送到需要的地区。CNN 分析指出，墨西哥湾沿岸和中西部的柴油价格可能因禁令下降“几十美分”，但东海岸和西海岸因依赖进口且管道运力不足，可能经历突然的价格飙升。<br>本文中的意思：第 5 段“stranded”的技术原因——没有管道，柴油就只能困在产地，全国市场被切成互不相通的几块。"
+  },
+  {
+   "name": "Iowa Corn Growers Association / 艾奥瓦州玉米种植者协会",
+   "def": "艾奥瓦州是美国最大的玉米生产州，该协会代表本州玉米种植者的利益。2026 年国会选举中，该协会支持了该州所有共和党候选人。柴油价格飙升至历史新高后，协会致信艾奥瓦州驻华盛顿国会代表团，恳请采取行动降低柴油价格，指出收获季正值柴油需求高峰，价格飙升加剧了农民的经济和精神压力。协会市场部高级主任格兰特·金伯利是第六代农民，他用“滞胀”描述过去三年的农业困境：投入成本急剧上升，农产品价格停滞甚至下跌。<br>本文中的意思：第 6 段里那封“恳请信”的作者——一个刚刚给所有共和党人背过书的协会，转头开始求油价。"
+  },
+  {
+   "name": "Harvest season / 收获季",
+   "def": "指农作物集中收割的时期，通常在秋季，也是农业柴油消耗的高峰——拖拉机、联合收割机和运输卡车全部依赖柴油。80 岁的艾奥瓦农民比尔·佩莱特在亚特兰大镇附近经营着 10.3 万亩地，仅去年秋收就消耗了 5.7 万到 7.6 万升柴油。他说：“我们根本不用去赌场，因为整个农场每年都是一场赌局。”《农场杂志》调查显示，如果当前价格和成本维持不变，约 16% 的受访农民表示需大幅重组资产，超过 6% 表示可能在 1 至 3 年内被迫退出市场。<br>本文中的意思：第 7 段“ill-timed”的全部理由——涨价偏赶上一年中最费油的时节。"
+  },
+  {
+   "name": "Tractor-trailers, combines, harvesters / 牵引挂车、联合收割机、收获机",
+   "def": "指农业作业中依赖柴油的核心机械设备。牵引挂车负责向农场运送设备、运走收获作物；联合收割机和收获机负责田间收割。艾奥瓦农民兰迪·伦泽的家族农场年销售额约 900 万美元，净利润率仅 2% 到 3%。他从经济学角度分析燃料涨价的“乘数效应”：“种子、化肥、农药靠柴油卡车运来，耕种、喷药、收割靠柴油农机完成，就连运牛去屠宰场的费用也涨了。”他认为这些成本是“非弹性”的，因为价格升上去之后，整条价值链会在新的高位重新稳定，不会再降。<br>本文中的意思：第 8 段那一串机器名字的现实版——凯珀说它们“统统烧柴油”，不是修辞，是成本表。"
+  },
+  {
+   "name": "Contracted fuel price / 签约锁定的燃料价格",
+   "def": "指农民通过远期合同提前锁定燃料价格的做法。史蒂夫·凯珀去年签约锁定的柴油价格约为现在购买价格的一半；周四给一辆卡车加满油花了 500 美元。他说：“农业本就不是高利润行业。这很快就侵蚀了利润。”艾奥瓦农民拉冯·格里菲恩的丈夫克雷格回忆，伊朗战事爆发后柴油价格“第一天涨 30 美分，到最后差不多涨了一美元”。<br>本文中的意思：第 8 段那个“一半”的来历——去年锁价的人今年还能喘口气，没锁的只能按现价挨打。"
+  },
+  {
+   "name": "Fertilizer prices / 化肥价格",
+   "def": "化肥（如无水氨）是农业生产的核心投入品，价格与能源成本高度相关。天然气是生产合成氨的主要原料，合成氨又是氮肥的基础，因此天然气涨价会传导至化肥价格。学术研究表明，天然气价格月度上涨 10%，氮肥价格指数在当月及下月合计通常上涨约 0.6% 至 0.9%。艾奥瓦州农民使用的无水氨氮肥已从每吨约 800 美元涨至 1200 美元。格里菲恩夫妇经营着 6677.3 亩农田，每亩综合投入成本约 164.7 美元；一袋玉米种子市价 250 到 400 美元，仅能播种约 15.2 亩；联邦补贴折算每亩约 5.6 至 5.8 美元，连三分之一的种子都买不到。<br>本文中的意思：第 9 段开头“化肥同时也在涨”——柴油不是孤立的伤口，而是压在农民身上的成本链中的一环。"
+  },
+  {
+   "name": "Ethanol blending / 乙醇混入",
+   "def": "指将乙醇（通常由玉米提炼）按一定比例混入汽油或柴油以降低燃料成本的做法。根据联邦《可再生燃料标准》（RFS），炼油厂必须将数百亿加仑生物燃料（如玉米乙醇）掺入国家燃料池，或从其他炼油厂购买可再生燃料掺混配额（RINs）。生物燃料支持者认为，乙醇作为相对廉价的添加剂可增加燃料供应量，从而降低燃油价格。GasBuddy 分析师德哈安估算，临时豁免联邦可再生燃料强制规定有望让燃油每加仑下降 10 至 20 美分。但白宫近期推动扩大小型炼油厂豁免范围，已引发农业带强烈不满，农业利益集团担心这会削弱对玉米乙醇的需求。<br>本文中的意思：凯珀在第 9 段给出的另一半药方——不只要禁出口，还要让更多玉米乙醇进油里。"
+  },
+  {
+   "name": "All our elected officials in D.C. / 华盛顿的所有民选官员",
+   "def": "指美国国会参众两院议员及联邦政府官员。凯珀在采访中表示，这个问题已酝酿多年，但“我们在华盛顿的所有民选官员都需要尽职尽责，把事情处理好”，暗示两党在应对柴油价格危机方面均未采取有效行动。石油行业高管和相关行业协会则呼吁暂停征收联邦柴油消费税，认为此举可在不产生出口禁令弊端的情况下缓解价格压力，但这一提议在政府内部引发了关于如何豁免该税的争论。经济学家菲利普·维斯特雷杰警告：柴油的需求价格弹性很低，出口禁令甚至可能导致全球油价最高翻倍。<br>本文中的意思：全文的收束——凯珀不骂特朗普、不骂民主党，只把球踢回华盛顿，这恰恰是最重的批评。"
+  }
+ ],
+ "sources_note": "资料核对：以上背景依据文章内容，并参考美国能源信息署（EIA）、AAA 每日油价数据、《农场杂志》2026 年 4 月农场主调查、能源政策研究基金会（EPRINC）报告及 CNN 截至 2026 年 9 月的公开报道。",
+ "practice": {
+  "intro": "请根据今天学习的外刊，把下面的中文句子翻译成英文。要求：尽量用上本文的核心表达，可以适当改变词形，但不要直接照抄原文。",
+  "items": [
+   "寒潮正沉重打击户外工作者，而受影响最深的恰恰是最忠实的环卫工人。（cold snap / clobber / faithful）",
+   "这场争论在球队内部造成了深深的裂痕。（rift）",
+   "这个教学方案表面上看不错，但专家警告说可能会造成混乱。（on its face / chaos）",
+   "新年临近了，居民们纷纷呼吁物业尽快修好电梯。（plead for）",
+   "房租上涨最终会转嫁给租客。（pass on to）",
+   "这个问题已经存在多年，可以通过一些措施来缓解。（build / mitigate）"
+  ],
+  "critical_en": "If an export ban is exactly what angry voters want but almost certainly makes prices worse, should a politician promise it anyway — and who pays for that promise?",
+  "critical_zh": "如果一项出口禁令正是愤怒选民想要的，却几乎肯定会让价格更糟，政客还该不该许下这个承诺？许下之后，代价又由谁来付？",
+  "answer": "1. The cold snap is clobbering outdoor workers, and those hit hardest are precisely the most faithful street cleaners.<br><br>2. The dispute has created a deep rift within the team.<br><br>3. The teaching plan looks good on its face, but experts warn it could create chaos.<br><br>4. The New Year is approaching, and residents are rushing to plead for the property management to fix the elevator soon.<br><br>5. Rising rents will ultimately be passed on to tenants.<br><br>6. The problem has been building for years and could be mitigated by some measures."
+ },
+ "mindmap": {
+  "aria": "美国柴油涨价与中期选举思维导图",
+  "alt": "柴油涨破6美元冲击共和党铁票仓（手绘版）",
+  "img": "/Users/malen/outward-reading-site-prod/scripts/content/img/2026-09-29.jpg",
+  "svg": "<svg viewBox=\"0 0 960 720\" xmlns=\"http://www.w3.org/2000/svg\" role=\"img\" aria-label=\"美国柴油涨价与中期选举思维导图\" style=\"width:100%;height:auto;font-family:-apple-system,'PingFang SC','Hiragino Sans GB','Microsoft YaHei',sans-serif\">\n        <rect x=\"24\" y=\"306\" width=\"176\" height=\"88\" rx=\"14\" fill=\"#eae3d2\" stroke=\"#9a8f76\"/>\n        <text x=\"112\" y=\"342\" text-anchor=\"middle\" fill=\"#3d3a34\" font-size=\"17\" font-weight=\"700\">柴油涨破6美元</text>\n        <text x=\"112\" y=\"368\" text-anchor=\"middle\" fill=\"#5c5648\" font-size=\"12.5\">川川铁票仓先急了</text>\n\n        <path d=\"M200,350 C232,350 232,88 260,88\"  stroke=\"#6b8f71\" stroke-width=\"2\" fill=\"none\"/>\n        <path d=\"M200,350 C232,350 232,238 260,238\" stroke=\"#7d98ad\" stroke-width=\"2\" fill=\"none\"/>\n        <path d=\"M200,350 C232,350 232,433 260,433\" stroke=\"#bd7a6d\" stroke-width=\"2\" fill=\"none\"/>\n        <path d=\"M200,350 C232,350 232,628 260,628\" stroke=\"#9b86b3\" stroke-width=\"2\" fill=\"none\"/>\n\n        <g class=\"mm-branch\" data-target=\"bc1\">\n          <rect x=\"260\" y=\"71\" width=\"190\" height=\"34\" rx=\"8\" fill=\"#e6efe7\" stroke=\"#6b8f71\"/>\n          <text x=\"349\" y=\"93\" text-anchor=\"middle\" fill=\"#4c6b52\" font-size=\"15\" font-weight=\"700\">铁票仓先炸锅（¶1）</text>\n          <text class=\"mm-arrow\" data-for=\"bc1\" x=\"442\" y=\"93\" text-anchor=\"end\" fill=\"#4c6b52\">▾</text>\n        </g>\n        <g class=\"mm-children\" id=\"bc1\">\n          <path d=\"M450,88 C462,88 462,46 480,46\" stroke=\"#6b8f71\" stroke-width=\"1.5\" fill=\"none\"/>\n          <path d=\"M450,88 C462,88 462,88 480,88\" stroke=\"#6b8f71\" stroke-width=\"1.5\" fill=\"none\"/>\n          <path d=\"M450,88 C462,88 462,130 480,130\" stroke=\"#6b8f71\" stroke-width=\"1.5\" fill=\"none\"/>\n          <rect x=\"480\" y=\"30\" width=\"456\" height=\"32\" rx=\"8\" fill=\"#e6efe7\"/><text x=\"492\" y=\"51\" fill=\"#3d3a34\" font-size=\"14\">全美柴油均价6.53美元/加仑，一年涨超76%</text>\n          <rect x=\"480\" y=\"72\" width=\"456\" height=\"32\" rx=\"8\" fill=\"#e6efe7\"/><text x=\"492\" y=\"93\" fill=\"#3d3a34\" font-size=\"14\">深红区共和党候选人喊停对伊战争、禁柴油出口</text>\n          <rect x=\"480\" y=\"114\" width=\"456\" height=\"32\" rx=\"8\" fill=\"#e6efe7\"/><text x=\"492\" y=\"135\" fill=\"#3d3a34\" font-size=\"14\">罗杰斯打广告：密歇根家庭撑不住日常开销</text>\n        </g>\n\n        <g class=\"mm-branch\" data-target=\"bc2\">\n          <rect x=\"260\" y=\"221\" width=\"190\" height=\"34\" rx=\"8\" fill=\"#e5edf4\" stroke=\"#7d98ad\"/>\n          <text x=\"349\" y=\"243\" text-anchor=\"middle\" fill=\"#3d5872\" font-size=\"15\" font-weight=\"700\">真正疼的是柴油（¶2–3）</text>\n          <text class=\"mm-arrow\" data-for=\"bc2\" x=\"442\" y=\"243\" text-anchor=\"end\" fill=\"#3d5872\">▾</text>\n        </g>\n        <g class=\"mm-children\" id=\"bc2\">\n          <path d=\"M450,238 C462,238 462,196 480,196\" stroke=\"#7d98ad\" stroke-width=\"1.5\" fill=\"none\"/>\n          <path d=\"M450,238 C462,238 462,238 480,238\" stroke=\"#7d98ad\" stroke-width=\"1.5\" fill=\"none\"/>\n          <path d=\"M450,238 C462,238 462,280 480,280\" stroke=\"#7d98ad\" stroke-width=\"1.5\" fill=\"none\"/>\n          <rect x=\"480\" y=\"180\" width=\"456\" height=\"32\" rx=\"8\" fill=\"#e5edf4\"/><text x=\"492\" y=\"201\" fill=\"#3d3a34\" font-size=\"14\">霍尔木兹封锁，冲击波荡遍整个燃料市场</text>\n          <rect x=\"480\" y=\"222\" width=\"456\" height=\"32\" rx=\"8\" fill=\"#e5edf4\"/><text x=\"492\" y=\"243\" fill=\"#3d3a34\" font-size=\"14\">民调盯的是汽油，真正被点着的是柴油</text>\n          <rect x=\"480\" y=\"264\" width=\"456\" height=\"32\" rx=\"8\" fill=\"#e5edf4\"/><text x=\"492\" y=\"285\" fill=\"#3d3a34\" font-size=\"14\">深红区柴油占比最高，农业社区首当其冲</text>\n        </g>\n\n        <g class=\"mm-branch\" data-target=\"bc3\">\n          <rect x=\"260\" y=\"416\" width=\"190\" height=\"34\" rx=\"8\" fill=\"#f4e7e4\" stroke=\"#bd7a6d\"/>\n          <text x=\"349\" y=\"438\" text-anchor=\"middle\" fill=\"#7c4a3e\" font-size=\"15\" font-weight=\"700\">禁令看着对，实则糟（¶4–5）</text>\n          <text class=\"mm-arrow\" data-for=\"bc3\" x=\"442\" y=\"438\" text-anchor=\"end\" fill=\"#7c4a3e\">▾</text>\n        </g>\n        <g class=\"mm-children\" id=\"bc3\">\n          <path d=\"M450,433 C462,433 462,391 480,391\" stroke=\"#bd7a6d\" stroke-width=\"1.5\" fill=\"none\"/>\n          <path d=\"M450,433 C462,433 462,433 480,433\" stroke=\"#bd7a6d\" stroke-width=\"1.5\" fill=\"none\"/>\n          <path d=\"M450,433 C462,433 462,475 480,475\" stroke=\"#bd7a6d\" stroke-width=\"1.5\" fill=\"none\"/>\n          <rect x=\"480\" y=\"375\" width=\"456\" height=\"32\" rx=\"8\" fill=\"#f4e7e4\"/><text x=\"492\" y=\"396\" fill=\"#3d3a34\" font-size=\"14\">议员推出口禁令，几个月前还不可想象</text>\n          <rect x=\"480\" y=\"417\" width=\"456\" height=\"32\" rx=\"8\" fill=\"#f4e7e4\"/><text x=\"492\" y=\"438\" fill=\"#3d3a34\" font-size=\"14\">炼厂被原油憋死，柴油困在产区没管道运</text>\n          <rect x=\"480\" y=\"459\" width=\"456\" height=\"32\" rx=\"8\" fill=\"#f4e7e4\"/><text x=\"492\" y=\"480\" fill=\"#3d3a34\" font-size=\"14\">两海岸依赖进口反而更贵，全国降价说不准</text>\n        </g>\n\n        <g class=\"mm-branch\" data-target=\"bc4\">\n          <rect x=\"260\" y=\"611\" width=\"190\" height=\"34\" rx=\"8\" fill=\"#ece4f2\" stroke=\"#9b86b3\"/>\n          <text x=\"349\" y=\"633\" text-anchor=\"middle\" fill=\"#5a4670\" font-size=\"15\" font-weight=\"700\">艾奥瓦：怒到沸点（¶6–9）</text>\n          <text class=\"mm-arrow\" data-for=\"bc4\" x=\"442\" y=\"633\" text-anchor=\"end\" fill=\"#5a4670\">▾</text>\n        </g>\n        <g class=\"mm-children\" id=\"bc4\">\n          <path d=\"M450,628 C462,628 462,586 480,586\" stroke=\"#9b86b3\" stroke-width=\"1.5\" fill=\"none\"/>\n          <path d=\"M450,628 C462,628 462,628 480,628\" stroke=\"#9b86b3\" stroke-width=\"1.5\" fill=\"none\"/>\n          <path d=\"M450,628 C462,628 462,670 480,670\" stroke=\"#9b86b3\" stroke-width=\"1.5\" fill=\"none\"/>\n          <rect x=\"480\" y=\"570\" width=\"456\" height=\"32\" rx=\"8\" fill=\"#ece4f2\"/><text x=\"492\" y=\"591\" fill=\"#3d3a34\" font-size=\"14\">农民怒火到沸点，共和党参院席位告急</text>\n          <rect x=\"480\" y=\"612\" width=\"456\" height=\"32\" rx=\"8\" fill=\"#ece4f2\"/><text x=\"492\" y=\"633\" fill=\"#3d3a34\" font-size=\"14\">玉米协会致信国会：收获季偏撞上6美元柴油</text>\n          <rect x=\"480\" y=\"654\" width=\"456\" height=\"32\" rx=\"8\" fill=\"#ece4f2\"/><text x=\"492\" y=\"675\" fill=\"#3d3a34\" font-size=\"14\">凯珀日耗500加仑，成本终将转嫁消费者</text>\n        </g>\n      </svg>"
+ }
+}

@@ -1,0 +1,327 @@
+{
+ "date": "2026-09-30",
+ "title_tag": "西方曾经垄断的高科技市场，正在被中国企业一个个抢走：凭什么？—— 美国《华盛顿邮报》外刊讲解第1183天",
+ "h1": "西方曾经垄断的高科技市场，正在被中国企业一个个抢走：凭什么？",
+ "source_label": "The Washington Post",
+ "category": "美国《华盛顿邮报》外刊讲解 第1183天",
+ "read_minutes": 18,
+ "nav_hint": "How China is conquering high-tech",
+ "headline": {
+  "en_html": "How China is <mark class=\"voc\">conquering</mark> high-tech markets once controlled by the West",
+  "zh": "中国如何攻占曾由西方主导的高科技市场",
+  "notes": [
+   {
+    "w": "conquer",
+    "ipa": "/ˈkɒŋkə(r)/",
+    "pos": "v.",
+    "en": "conquer (v.) means to gain control over or dominate a place, market, or field",
+    "zh": "征服，攻占；占领（市场等）",
+    "ctx": "并非军事意义上的征服，而是指中国在高科技市场中占据主导地位、赢得竞争优势。一个战场词用在市场上，标题的火药味就出来了。",
+    "ex1": "The company has conquered the European smartphone market in just three years. 这家公司仅用三年就攻占了欧洲智能手机市场。",
+    "ex2": "Streaming platforms are battling to conquer the attention of younger audiences. 流媒体平台正在争夺年轻受众的注意力。"
+   }
+  ]
+ },
+ "paragraphs": [
+  {
+   "en_html": "It’s the rare factory that <mark class=\"voc\">doubles as</mark> a tourist attraction. But more than 300,000 visitors have <mark class=\"voc\">streamed through</mark> Xiaomi’s <mark class=\"voc\">sprawling</mark> “<mark class=\"voc\">hyperfactory</mark>” here since the company began offering tours of its automobile <mark class=\"voc\">assembly</mark> lines two years ago.",
+   "zh": "工厂兼作旅游景点，实属罕见。然而，自两年前小米公司开放其汽车装配线参观以来，已有逾三十万游客涌入这座坐落于此、占地广阔的小米“超级工厂”。",
+   "notes": [
+    {
+     "w": "double as",
+     "ipa": "/ˈdʌbl æz/",
+     "pos": "phr.",
+     "en": "double as (phr.) means to serve two purposes or functions at the same time",
+     "zh": "兼作，兼任",
+     "ctx": "指工厂不仅是生产基地，同时也充当旅游景点。double 是“双份”，一个东西干两份活。",
+     "ex1": "The old warehouse now doubles as an art gallery and a concert venue. 这座旧仓库如今兼作美术馆和音乐会场地。",
+     "ex2": "She doubles as the team’s coach and its equipment manager. 她兼任球队教练和器材管理员。"
+    },
+    {
+     "w": "stream through",
+     "ipa": "/striːm θruː/",
+     "pos": "phr.",
+     "en": "stream through (phr.) means to move continuously in large numbers through a place",
+     "zh": "涌入，川流不息地穿过",
+     "ctx": "形容大量游客络绎不绝地参观工厂。stream 本义是“水流”，人一多就成了“人流”。",
+     "ex1": "Fans streamed through the stadium gates hours before the match began. 比赛开始前几个小时，球迷们就涌入了体育场大门。",
+     "ex2": "Commuters streamed through the subway station during the morning rush hour. 早高峰期间，通勤者川流不息地穿过地铁站。"
+    },
+    {
+     "w": "sprawling",
+     "ipa": "/ˈsprɔːlɪŋ/",
+     "pos": "adj.",
+     "en": "sprawling (adj.) means spread out over a large area in an untidy or irregular way",
+     "zh": "占地广阔的，蔓延的",
+     "ctx": "形容小米工厂规模庞大、面积辽阔。原指城市“摊大饼”式地往外铺开，用在这里画面感很强。",
+     "ex1": "The sprawling campus covers more than 500 acres of land. 这座占地广阔的校园占地超过500英亩。",
+     "ex2": "They got lost in the sprawling suburbs of the city. 他们在城市蔓延的郊区迷了路。"
+    },
+    {
+     "w": "hyper-",
+     "ipa": "/ˈhaɪpə(r)/",
+     "pos": "prefix",
+     "en": "hyper- (prefix) means excessive, beyond normal, or extremely large in scale",
+     "zh": "超级，过度，超",
+     "ctx": "用于构成“hyperfactory”，强调工厂规模之大、自动化程度之高，远超传统工厂。",
+     "ex1": "The company built a hypermodern headquarters with cutting-edge technology. 该公司建造了一座配备尖端技术的超现代化总部。",
+     "ex2": "Children in this generation are often called digital hypernatives. 这一代儿童常被称为数字超级原住民。"
+    },
+    {
+     "w": "assembly",
+     "ipa": "/əˈsembli/",
+     "pos": "n.",
+     "en": "assembly (n.) means the process of putting together the parts of something, especially in manufacturing",
+     "zh": "装配，组装",
+     "ctx": "指汽车零部件的组装过程，即装配线作业。",
+     "ex1": "The factory’s assembly line produces 500 units per day. 该工厂的装配线每天生产500台产品。",
+     "ex2": "Workers on the assembly line must follow strict safety protocols. 装配线上的工人必须遵守严格的安全规程。"
+    }
+   ]
+  },
+  {
+   "en_html": "On display is a vision of manufacturing far removed from the labor-intensive operations that characterized China’s emergence as an economic power a quarter century ago. Industrial robots painted a brilliant white <mark class=\"voc\">pivot</mark> and <mark class=\"voc\">twirl</mark> around half-finished electric <mark class=\"voc\">sedans</mark>. <mark class=\"voc\">Compact</mark> <mark class=\"voc\">unmanned</mark> load carriers, <mark class=\"voc\">chirping</mark> a <mark class=\"voc\">melodic</mark> warning for the few humans they encounter, <mark class=\"voc\">scoot across</mark> the floor in a vast factory larger than the Pentagon.",
+   "zh": "呈现在眼前的，是一幅与中国四分之一世纪前以劳动密集型产业崛起为经济强国时截然不同的制造业图景。工业机器人喷涂着亮白色的车漆，围绕半成品的电动轿车旋转作业。紧凑型无人搬运车穿梭于这座比五角大楼还要庞大的厂房之中，遇到为数不多的人类时，便发出悦耳的鸣叫声以示警示。",
+   "notes": [
+    {
+     "w": "pivot",
+     "ipa": "/ˈpɪvət/",
+     "pos": "n.",
+     "en": "pivot (n.) means a central point or pin on which something turns or rotates",
+     "zh": "枢轴，支点",
+     "ctx": "指工业机器人喷涂的白色枢轴部件，是汽车底盘的关键旋转部件。",
+     "ex1": "The door swings on a metal pivot fixed to the frame. 门靠固定在门框上的金属枢轴转动。",
+     "ex2": "The dancer spun on a single pivot, balancing perfectly. 舞者以单脚为支点旋转，保持完美的平衡。"
+    },
+    {
+     "w": "twirl",
+     "ipa": "/twɜːl/",
+     "pos": "v.",
+     "en": "twirl (v.) means to spin or rotate quickly and lightly",
+     "zh": "旋转，转动",
+     "ctx": "形容机器人在车身旁快速旋转作业的动作。比 rotate 轻快，带点优雅。",
+     "ex1": "The skater twirled gracefully across the ice. 滑冰者在冰面上优雅地旋转。",
+     "ex2": "She twirled the umbrella as she walked in the rain. 她在雨中边走边转动雨伞。"
+    },
+    {
+     "w": "sedan",
+     "ipa": "/sɪˈdæn/",
+     "pos": "n.",
+     "en": "sedan (n.) means a car with a closed body, a fixed roof, and separate trunk, designed to carry four or more passengers",
+     "zh": "轿车",
+     "ctx": "指四门三厢的电动轿车。美式说法，英式多用 saloon。",
+     "ex1": "He parked his black sedan in front of the hotel. 他把黑色轿车停在酒店门前。",
+     "ex2": "Electric sedans are becoming increasingly popular among urban commuters. 电动轿车在城市通勤者中越来越受欢迎。"
+    },
+    {
+     "w": "compact",
+     "ipa": "/kəmˈpækt/",
+     "pos": "adj.",
+     "en": "compact (adj.) means small and efficiently arranged; taking up little space",
+     "zh": "紧凑的，小巧的",
+     "ctx": "形容无人搬运车体积小巧、设计紧凑。注意形容词重音在后，名词 compact（粉饼、契约）重音在前。",
+     "ex1": "The compact apartment was cleverly designed to maximize space. 这套紧凑的公寓经过巧妙设计，最大限度地利用了空间。",
+     "ex2": "She bought a compact camera that fits easily into her pocket. 她买了一台可以轻松放进口袋的紧凑型相机。"
+    },
+    {
+     "w": "unmanned",
+     "ipa": "/ˌʌnˈmænd/",
+     "pos": "adj.",
+     "en": "unmanned (adj.) means not having or requiring a person on board; operated remotely or automatically",
+     "zh": "无人的，无人驾驶的",
+     "ctx": "指无需人工操作的自动搬运车。un- 无 + manned 配备人员的。",
+     "ex1": "The military deployed unmanned drones for surveillance missions. 军方部署了无人驾驶无人机执行侦察任务。",
+     "ex2": "Unmanned vehicles are expected to revolutionize urban delivery systems. 无人驾驶车辆有望彻底改变城市配送系统。"
+    },
+    {
+     "w": "chirp",
+     "ipa": "/tʃɜːp/",
+     "pos": "v.",
+     "en": "chirp (v.) means to make a short, high-pitched sound, like a bird or an electronic device",
+     "zh": "发出唧唧声，发出短促的尖鸣声",
+     "ctx": "形容无人搬运车发出悦耳的电子提示音。本是鸟叫、虫鸣，用在机器上，冷冰冰的设备忽然有了生命感。",
+     "ex1": "The smoke alarm chirped every few minutes to warn of a low battery. 烟雾报警器每隔几分钟就发出鸣叫声，提醒电池电量不足。",
+     "ex2": "Crickets chirped softly in the garden at night. 夜晚，蟋蟀在花园里轻声鸣叫。"
+    },
+    {
+     "w": "melodic",
+     "ipa": "/məˈlɒdɪk/",
+     "pos": "adj.",
+     "en": "melodic (adj.) means pleasant to listen to; producing a pleasant tune",
+     "zh": "悦耳的，旋律优美的",
+     "ctx": "形容无人搬运车的提示音旋律优美、不刺耳。与下一段 robotic 的冷硬感形成反差。",
+     "ex1": "The melodic chime of the clock echoed through the hall. 钟声悦耳，在大厅中回荡。",
+     "ex2": "Her melodic voice captivated the entire audience. 她悦耳的嗓音迷住了全场观众。"
+    },
+    {
+     "w": "scoot across",
+     "ipa": "/skuːt əˈkrɒs/",
+     "pos": "phr.",
+     "en": "scoot across (phr.) means to move quickly and smoothly across a surface",
+     "zh": "快速滑过，掠过",
+     "ctx": "形容无人搬运车在厂房地面上快速移动。scoot 是口语里“嗖地一下挪开”，很轻快。",
+     "ex1": "The child scooted across the floor on his toy car. 孩子坐着玩具车快速滑过地板。",
+     "ex2": "A lizard scooted across the path and disappeared into the bushes. 一只蜥蜴快速穿过小路，消失在灌木丛中。"
+    }
+   ]
+  },
+  {
+   "en_html": "“They have gone all in on automation and robotics and minimizing labor and maximizing efficiency,” said Michael Dunne, an auto industry consultant in San Diego. “You will find in China’s auto industry the most advanced plants in the world, by far.” And not just in the auto industry. Chinese manufacturers’ automation, innovative designs, <mark class=\"voc\">world-class</mark> <mark class=\"voc\">logistics</mark> and government support have <mark class=\"voc\">vaulted</mark> them to global <mark class=\"voc\">supremacy</mark> in an ever-longer list of technologically advanced products. Once known for using cheap labor to produce inexpensive clothes and toys, Chinese factories increasingly specialize in some of the world’s most <mark class=\"voc\">sophisticated</mark> <mark class=\"voc\">merchandise</mark>, including feature-rich electric vehicles and robotics.",
+   "zh": "“他们全力押注自动化和机器人技术，最大限度减少人工、最大化提升效率，”圣迭戈汽车行业顾问迈克尔·邓恩说道。“你会发现，中国汽车行业拥有迄今为止世界上最先进的工厂。”而且不仅限于汽车行业。中国制造商凭借自动化、创新设计、世界级物流体系和政府支持，在越来越多的技术先进产品领域跃居全球之巅。中国工厂曾以廉价劳动力生产廉价服装和玩具而闻名，如今则日益专注于一些世界上最精密的商品，包括功能丰富的电动汽车和机器人。",
+   "notes": [
+    {
+     "w": "world-class",
+     "ipa": "/ˌwɜːld ˈklɑːs/",
+     "pos": "adj.",
+     "en": "world-class (adj.) means of the highest quality or standard internationally",
+     "zh": "世界一流的，世界级的",
+     "ctx": "形容中国制造商拥有全球顶尖的物流体系。",
+     "ex1": "The city is home to several world-class universities and research institutions. 这座城市拥有多所世界一流的大学和研究机构。",
+     "ex2": "The athlete received world-class training from an early age. 这位运动员从小就接受了世界级的训练。"
+    },
+    {
+     "w": "logistics",
+     "ipa": "/ləˈdʒɪstɪks/",
+     "pos": "n.",
+     "en": "logistics (n.) means the detailed organization and implementation of a complex operation, especially the movement of goods",
+     "zh": "物流，后勤",
+     "ctx": "指中国制造商高效的商品流通和供应链管理体系。恒用复数，动词也跟复数。",
+     "ex1": "The company invested heavily in logistics to speed up delivery times. 该公司在物流方面投入巨资，以加快交货速度。",
+     "ex2": "Poor logistics management led to delays and increased costs. 物流管理不善导致延误和成本增加。"
+    },
+    {
+     "w": "vault",
+     "ipa": "/vɔːlt/",
+     "pos": "v.",
+     "en": "vault (v.) means to leap or spring suddenly and powerfully; to propel oneself upward or forward",
+     "zh": "跃升，跳跃",
+     "ctx": "指中国制造商凭借自动化等优势，迅速攀升至全球领先地位。本义是撑杆跳、一跃而过，比 rise 有爆发力。",
+     "ex1": "The startup vaulted to the top of the industry in just two years. 这家初创企业仅用两年就跃居行业榜首。",
+     "ex2": "She vaulted over the fence with surprising agility. 她以惊人的敏捷翻过了栅栏。"
+    },
+    {
+     "w": "supremacy",
+     "ipa": "/suːˈpreməsi/",
+     "pos": "n.",
+     "en": "supremacy (n.) means the state of being superior to all others; highest authority or power",
+     "zh": "霸权，至高地位，优势",
+     "ctx": "指中国在越来越多技术先进产品领域占据的主导优势。比 leadership 更硬，带“无人能及”的意味。",
+     "ex1": "The two nations competed for technological supremacy in the region. 两国在该地区争夺技术霸权。",
+     "ex2": "The team’s supremacy in the league remained unchallenged for a decade. 该队在联赛中的霸主地位十年间无人撼动。"
+    },
+    {
+     "w": "sophisticated",
+     "ipa": "/səˈfɪstɪkeɪtɪd/",
+     "pos": "adj.",
+     "en": "sophisticated (adj.) means advanced, complex, and highly developed",
+     "zh": "精密的，先进的，复杂的",
+     "ctx": "形容中国工厂生产的商品技术含量高、工艺复杂。修饰人时是“老练的”，修饰物时是“精密的”，一词两面。",
+     "ex1": "The laboratory uses sophisticated equipment to analyze blood samples. 实验室使用精密设备分析血液样本。",
+     "ex2": "Modern aircraft are equipped with sophisticated navigation systems. 现代飞机配备了先进的导航系统。"
+    },
+    {
+     "w": "merchandise",
+     "ipa": "/ˈmɜːtʃəndaɪz/",
+     "pos": "n.",
+     "en": "merchandise (n.) means goods that are bought and sold; commercial products",
+     "zh": "商品，货物",
+     "ctx": "指中国工厂生产的各类高科技产品。不可数名词，不能说 a merchandise。",
+     "ex1": "The store displays a wide range of merchandise for holiday shoppers. 商店为假日购物者陈列了琳琅满目的商品。",
+     "ex2": "Counterfeit merchandise is a serious problem for luxury brands. 假冒商品是奢侈品牌面临的一个严重问题。"
+    }
+   ]
+  },
+  {
+   "en_html": "Only Britain <mark class=\"voc\">at the dawn of</mark> the Industrial Revolution and the United States following World War II have so dominated the global production of goods. China now <mark class=\"voc\">accounts for</mark> 32 percent of global manufacturing value added, twice its share in 2010, and more than the combined total of the next four biggest manufacturing powers - the United States, Germany, Japan and South Korea - according to the U.N. Industrial Development Organization.",
+   "zh": "历史上，只有工业革命初期的英国和二战后的美国曾如此主导全球商品生产。据联合国工业发展组织数据，中国目前占全球制造业增加值的32%，是2010年份额的两倍，超过紧随其后的四大制造业强国——美国、德国、日本和韩国——的总和。",
+   "notes": [
+    {
+     "w": "at the dawn of",
+     "ipa": "/æt ðə dɔːn ɒv/",
+     "pos": "phr.",
+     "en": "at the dawn of (phr.) means at the beginning or early stage of a period or era",
+     "zh": "在……的黎明，在……之初",
+     "ctx": "指工业革命刚刚兴起的时期。dawn 是黎明，比 at the beginning of 多一层“天刚亮、一切未定”的画面。",
+     "ex1": "At the dawn of the digital age, few could predict the internet’s impact. 在数字时代之初，很少有人能预见互联网的影响。",
+     "ex2": "She began her career at the dawn of the renewable energy boom. 她在可再生能源热潮之初开始了自己的职业生涯。"
+    },
+    {
+     "w": "account for",
+     "ipa": "/əˈkaʊnt fɔː(r)/",
+     "pos": "phr.",
+     "en": "account for (phr.) means to represent or constitute a particular proportion or amount",
+     "zh": "占（比例），构成",
+     "ctx": "指中国制造业增加值占全球的32%。同一短语另有“解释、说明”之义，靠上下文分辨。",
+     "ex1": "Renewable energy now accounts for nearly 40 percent of the country’s electricity supply. 可再生能源目前占该国电力供应的近40%。",
+     "ex2": "Online sales account for a growing share of the company’s revenue. 在线销售占公司收入的比例越来越大。"
+    }
+   ]
+  },
+  {
+   "en_html": "Take BYD, China’s largest carmaker. The BYD Seal, which is comparable to the Tesla Model 3, includes as standard equipment a <mark class=\"voc\">rotating</mark> 15.6-inch touch screen, dual wireless <mark class=\"voc\">charging pads</mark> and an interior multicolor lighting system that pulses along with ambient sound or music. But its late-2025 <mark class=\"voc\">sticker price</mark> of $24,190 was more than $8,000 lower than the Tesla sells for in China, according to the Rhodium Group, a New York <mark class=\"voc\">consultancy</mark>. Government subsidies, meanwhile, account for just $235 of the $4,700-per-vehicle price advantage BYD holds across its <mark class=\"voc\">fleet</mark> over Elon Musk’s Tesla, Rhodium said. “There’s a lot of technological advancement taking place in China,” said Louis Kuijs, chief economist, Asia Pacific, for S&amp;P Global Ratings. “The Chinese companies are just very good and very fast, and the price-quality <mark class=\"voc\">ratio</mark> is very attractive.”",
+   "zh": "以中国最大的汽车制造商比亚迪为例。比亚迪“海豹”车型可与特斯拉Model 3相媲美，标配一块可旋转的15.6英寸触摸屏、双无线充电板，以及一套随环境音或音乐律动的车内多色氛围灯系统。然而据纽约咨询公司荣鼎集团的数据，其2025年末的标价为24,190美元，比特斯拉在中国市场的售价低逾8,000美元。荣鼎表示，在比亚迪全系车型相较马斯克旗下特斯拉每辆车4,700美元的价格优势中，政府补贴仅占235美元。“中国正在发生大量的技术进步，”标普全球评级亚太区首席经济学家路易斯·凯杰斯表示。“中国企业非常优秀、非常迅速，性价比极具吸引力。”",
+   "notes": [
+    {
+     "w": "rotating",
+     "ipa": "/rəʊˈteɪtɪŋ/",
+     "pos": "adj.",
+     "en": "rotating (adj.) means turning around a central point or axis",
+     "zh": "旋转的，转动的",
+     "ctx": "形容汽车中控触摸屏可以转动。竖屏横屏随意切换，是这批中国电车爱秀的一个细节。",
+     "ex1": "The rotating stage allowed the audience to see the performance from all angles. 旋转舞台让观众可以从各个角度观看表演。",
+     "ex2": "The wind turbine features rotating blades that generate electricity. 风力发电机配有旋转叶片，用于发电。"
+    },
+    {
+     "w": "charging pad",
+     "ipa": "/ˈtʃɑːdʒɪŋ pæd/",
+     "pos": "n.",
+     "en": "charging pad (n.) means a flat device on which electronic devices can be placed to charge wirelessly",
+     "zh": "充电板，无线充电板",
+     "ctx": "指汽车中控台配备的双无线充电区域。",
+     "ex1": "He placed his phone on the charging pad and waited for it to power up. 他把手机放在充电板上，等待它充电。",
+     "ex2": "The new desk comes with a built-in charging pad for smartphones. 这款新桌子内置了智能手机充电板。"
+    },
+    {
+     "w": "sticker price",
+     "ipa": "/ˈstɪkə praɪs/",
+     "pos": "n.",
+     "en": "sticker price (n.) means the advertised or listed price of a product, especially a car",
+     "zh": "标价，定价",
+     "ctx": "指比亚迪海豹车型的官方标价。来自贴在车窗上的那张价签，即“明码标价、不打折”的价。",
+     "ex1": "The sticker price of the house was far beyond their budget. 这栋房子的标价远超他们的预算。",
+     "ex2": "Customers often negotiate below the sticker price when buying a car. 顾客买车时通常会讨价还价，低于标价成交。"
+    },
+    {
+     "w": "consultancy",
+     "ipa": "/kənˈsʌltənsi/",
+     "pos": "n.",
+     "en": "consultancy (n.) means a company or firm that provides expert advice in a particular field",
+     "zh": "咨询公司",
+     "ctx": "指提供专业分析和建议的机构，如荣鼎集团。与 consultant（顾问个人）区别开。",
+     "ex1": "She works for a management consultancy in London. 她在伦敦一家管理咨询公司工作。",
+     "ex2": "The consultancy published a report on global trade trends. 该咨询公司发布了一份关于全球贸易趋势的报告。"
+    },
+    {
+     "w": "fleet",
+     "ipa": "/fliːt/",
+     "pos": "n.",
+     "en": "fleet (n.) means a group of vehicles, aircraft, or ships operated by a company or organization",
+     "zh": "车队，机群，舰队",
+     "ctx": "指比亚迪旗下所有车型组成的整体产品线。across its fleet＝全系车型平均下来。",
+     "ex1": "The company plans to electrify its entire fleet by 2030. 该公司计划到2030年实现全部车队电动化。",
+     "ex2": "The airline’s fleet includes more than 200 aircraft. 该航空公司的机队包括200多架飞机。"
+    },
+    {
+     "w": "ratio",
+     "ipa": "/ˈreɪʃiəʊ/",
+     "pos": "n.",
+     "en": "ratio (n.) means the relationship between two amounts, showing how much bigger one is than the other",
+     "zh": "比率，比例",
+     "ctx": "文中“price-quality ratio”指价格与质量之间的比率，即性价比。中文的“性价比”，英文就是这个词组。",
+     "ex1": "The ratio of students to teachers in this school is 15 to 1. 这所学校的师生比例是15比1。",
+     "ex2": "A high debt-to-income ratio can make it difficult to get a loan. 高负债收入比会使人难以获得贷款。"
+    }
+   ]
+  }
+ ]
+}
