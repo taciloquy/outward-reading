@@ -159,7 +159,6 @@
       <div class="modal-card">
         <span class="close-btn" @click="closeArticle">✕</span>
         <div class="btn-group">
-          <button v-if="currentArticle && currentArticle.readingPath" :class="{primary:mode==='reading'}" @click="openReading()">精读页</button>
           <button v-if="!currentArticle || !currentArticle.readingPath" :class="{primary:mode==='clean'}" @click="mode='clean';loadContent()">原文</button>
           <button v-if="!currentArticle || !currentArticle.readingPath" :class="{primary:mode==='annotated'}" @click="mode='annotated';loadContent()">批注版</button>
           <button v-if="!currentArticle || !currentArticle.readingPath" :class="{primary:mode==='translated'}" @click="mode='translated';loadContent()">翻译版</button>
@@ -170,12 +169,8 @@
             <svg width="16" height="16" viewBox="0 0 24 24" fill="#f59e0b" style="vertical-align:-2px;"><path d="M3 9v6h4l5 5V4L7 9H3zm13.5 3c0-1.77-1.02-3.29-2.5-4.03v8.05c1.48-.73 2.5-2.25 2.5-4.02zM14 3.23v2.06c2.89.86 5 3.54 5 6.71s-2.11 5.85-5 6.71v2.06c4.01-.91 7-4.49 7-8.77s-2.99-7.86-7-8.77z"/></svg>
           </button>
         </div>
-        <!-- 精读页：内嵌完整单页（含搜索/折叠/可交互导图），iframe 同源加载 -->
-        <div v-if="mode === 'reading'" class="reading-view">
-          <iframe :src="currentArticle.readingPath" class="reading-frame" title="精读页"></iframe>
-        </div>
         <!-- 原文页：上下分屏 -->
-        <div v-else-if="mode === 'clean'" class="split-view">
+        <div v-if="mode === 'clean'" class="split-view">
           <div class="article-reading" v-html="articleHtml" @click="handleWordClick"></div>
           <div class="dict-panel">
             <div v-if="!dictResult" class="dict-placeholder">【点击上方蓝色单词，查看音标、释义】</div>
@@ -1965,9 +1960,12 @@
           })
         },
         openArticle(art){
+          /* 29 日之后的新式文章：点一下直接进文章页本体，不再套弹窗（无「精读页」按钮、无 ✕）。
+             返回走浏览器返回键或文章页顶部的「← 返回日历」 */
+          if(art && art.readingPath){ location.href = art.readingPath; return }
           this.currentArticle = art
           this.showArticle = true
-          this.mode = art.readingPath ? "reading" : "clean"
+          this.mode = "clean"
           this.vocabList = art.vocabs || []
           this.loadContent()
         },
@@ -2065,18 +2063,6 @@
           this.currentArticle = null
           this.articleHtml = ""
           this.showVocab = false
-        },
-        openReading(){
-          /* 手机窄屏 / iPhone：不进弹窗，整页跳到精读页独立地址。
-             原因：iOS 在 iframe 里打印会打到外层首页（日历叠加），且丢弃 @media print，
-             必须在本体页上浏览与打印；返回走文章页头部的「← 返回日历」 */
-          var narrow = window.matchMedia('(max-width:700px)').matches;
-          var iphone = /iPhone|iPod/i.test(navigator.userAgent);
-          if((narrow || iphone) && this.currentArticle && this.currentArticle.readingPath){
-            location.href = this.currentArticle.readingPath;
-            return;
-          }
-          this.mode = 'reading'
         },
         printArticle(){
           /* 精读页模式：直接调用 iframe 内页面的打印（其打印样式只含标题+英文正文） */
