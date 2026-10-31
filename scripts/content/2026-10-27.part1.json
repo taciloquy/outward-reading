@@ -1,0 +1,417 @@
+{
+ "date": "2026-10-27",
+ "title_tag": "非法金矿的黄金，最后是怎么变成“正规金条”的？—— 美国《纽约时报》外刊讲解第1210天",
+ "h1": "非法金矿的黄金，最后是怎么变成“正规金条”的？",
+ "source_label": "The New York Times",
+ "category": "美国《纽约时报》外刊讲解第1210天",
+ "read_minutes": 18,
+ "nav_hint": "How a Trillion-Dollar Industry Launders Illegal Gold",
+ "headline": {
+  "en_html": "How a <mark class=\"voc\">Trillion-Dollar</mark> Industry <mark class=\"voc\">Launders</mark> Illegal Gold",
+  "zh": "万亿美元产业如何洗白非法黄金",
+  "notes": [
+   {
+    "w": "trillion-dollar",
+    "ipa": "/ˈtrɪljən ˈdɑːlər/",
+    "pos": "adj.",
+    "en": "involving or worth an amount of money measured in trillions of dollars",
+    "zh": "价值万亿美元的；涉及万亿美元规模的",
+    "ctx": "形容全球黄金产业规模庞大，涉及数万亿美元的交易和利益",
+    "ex1": "Artificial intelligence could become a trillion-dollar industry. 人工智能可能发展成为一个万亿美元规模的产业。",
+    "ex2": "The government announced a trillion-dollar investment plan. 政府宣布了一项万亿美元投资计划。"
+   },
+   {
+    "w": "launder",
+    "ipa": "/ˈlɔːndər/",
+    "pos": "v.",
+    "en": "to make illegally obtained money or assets appear to have come from a legal source",
+    "zh": "洗钱；洗白非法资产",
+    "ctx": "通过精炼、认证等环节，使非法开采的黄金看起来具有合法来源",
+    "ex1": "The criminals used fake businesses to launder their profits. 犯罪分子利用虚假企业洗白非法利润。",
+    "ex2": "The investigation revealed how stolen money was laundered through international banks. 调查揭露了被盗资金如何通过国际银行被洗白。"
+   }
+  ]
+ },
+ "paragraphs": [
+  {
+   "en_html": "In an industry <mark class=\"voc\">riddled with</mark> <mark class=\"voc\">abuse</mark>, the world’s banks and governments rely on one <mark class=\"voc\">entity</mark> to keep gangsters, <mark class=\"voc\">warlords</mark> and human rights violators from selling gold into the <mark class=\"voc\">mainstream</mark> market. That group, the London Bullion Market Association, is the <mark class=\"voc\">self-described</mark> “global authority for <mark class=\"voc\">precious metals</mark>.” But a New York Times investigation found that the association has repeatedly allowed gold into the market that has been mined by criminals, <mark class=\"voc\">cartel</mark> members and children. Refiners lie <mark class=\"voc\">with impunity</mark> about the origins of their gold. And in the case of Madagascar, the L.B.M.A. helped change and <mark class=\"voc\">backdate</mark> key paperwork that certified gold as free from abuse.",
+   "zh": "在一个充斥着各种违法乱象的行业里，世界各国的银行和政府依赖一个机构，阻止黑帮分子、军阀和侵犯人权者将黄金卖入主流市场。这个机构就是伦敦金银市场协会（L.B.M.A.），它自称是“全球贵金属行业的权威机构”。然而，《纽约时报》的一项调查发现，该协会曾多次允许由犯罪分子、贩毒集团成员以及童工开采的黄金进入市场。黄金精炼商可以肆无忌惮地谎报黄金来源，而不必承担任何后果。在马达加斯加的案例中，伦敦金银市场协会甚至帮助修改关键文件，并将文件日期倒填至更早的时间，以证明这些黄金不存在违法侵害问题。",
+   "notes": [
+    {
+     "w": "riddled with",
+     "ipa": "/ˈrɪdld wɪð/",
+     "pos": "phr.",
+     "en": "to be full of something unpleasant, harmful or undesirable",
+     "zh": "充斥着；充满（不好的事物）",
+     "ctx": "形容黄金行业充斥着违法行为、剥削和侵犯人权等问题",
+     "ex1": "The old building was riddled with cracks. 这栋老建筑到处都是裂缝。",
+     "ex2": "The report was riddled with serious mistakes. 这份报告错误百出。"
+    },
+    {
+     "w": "abuse",
+     "ipa": "/əˈbjuːs/",
+     "pos": "n.",
+     "en": "the unfair, cruel or harmful treatment of people; the improper use of power",
+     "zh": "虐待；侵害；滥用",
+     "ctx": "指黄金开采和交易过程中存在的剥削、侵犯人权及其他违法乱象",
+     "ex1": "The organization works to protect children from abuse. 该组织致力于保护儿童免受虐待。",
+     "ex2": "The investigation uncovered widespread abuse of power. 调查揭露了普遍存在的权力滥用现象。"
+    },
+    {
+     "w": "entity",
+     "ipa": "/ˈentəti/",
+     "pos": "n.",
+     "en": "an organization, business or other unit that exists as a separate and independent body",
+     "zh": "实体；独立机构；组织",
+     "ctx": "指全球银行和政府所依赖的伦敦金银市场协会这一机构",
+     "ex1": "The two companies operate as separate legal entities. 这两家公司作为独立的法律实体运营。",
+     "ex2": "The government created a new entity to oversee the project. 政府成立了一个新机构来监督该项目。"
+    },
+    {
+     "w": "warlord",
+     "ipa": "/ˈwɔːrlɔːrd/",
+     "pos": "n.",
+     "en": "a military leader who controls a particular area by force, often without official government authority",
+     "zh": "军阀；地方武装首领",
+     "ctx": "指可能通过控制非法金矿获取收入的地方武装势力头目",
+     "ex1": "Several warlords fought for control of the region. 几名军阀为争夺该地区的控制权而交战。",
+     "ex2": "The warlord used violence to maintain his power. 这名军阀依靠暴力维持自己的权力。"
+    },
+    {
+     "w": "mainstream",
+     "ipa": "/ˈmeɪnstriːm/",
+     "pos": "adj.",
+     "en": "considered normal or accepted by most people; belonging to the main part of a system or society",
+     "zh": "主流的；被广泛接受的",
+     "ctx": "形容受到国际金融机构认可的正规黄金交易市场",
+     "ex1": "Electric vehicles are becoming increasingly mainstream. 电动汽车正变得越来越主流。",
+     "ex2": "The artist struggled for years before achieving mainstream success. 这位艺术家奋斗多年后才获得主流市场的认可。"
+    },
+    {
+     "w": "self-described",
+     "ipa": "/ˌself dɪˈskraɪbd/",
+     "pos": "adj.",
+     "en": "using a particular word or description to refer to oneself, rather than being described that way by others",
+     "zh": "自称的；自我标榜的",
+     "ctx": "强调伦敦金银市场协会的“全球权威机构”地位是其自身宣称的",
+     "ex1": "The self-described expert had no formal qualifications. 这位自称的专家并没有正式资质。",
+     "ex2": "A self-described billionaire appeared on the television show. 一位自称亿万富翁的人出现在电视节目中。"
+    },
+    {
+     "w": "precious metals",
+     "ipa": "/ˈpreʃəs ˈmetəlz/",
+     "pos": "n.",
+     "en": "rare and valuable metals, especially gold, silver and platinum",
+     "zh": "贵金属",
+     "ctx": "指黄金、白银等具有较高经济价值的金属",
+     "ex1": "Gold and silver are among the most widely traded precious metals. 黄金和白银是交易最广泛的贵金属之一。",
+     "ex2": "Some investors buy precious metals during periods of economic uncertainty.一些投资者会在经济不确定时期购买贵金属。"
+    },
+    {
+     "w": "cartel",
+     "ipa": "/kɑːrˈtel/",
+     "pos": "n.",
+     "en": "a group of organizations that work together to control a market, or a criminal organization involved in illegal trade",
+     "zh": "卡特尔；垄断联盟；犯罪集团",
+     "ctx": "指参与非法黄金开采或交易的有组织犯罪集团",
+     "ex1": "The police arrested several members of a powerful drug cartel. 警方逮捕了一个势力强大的贩毒集团的多名成员。",
+     "ex2": "The companies were accused of forming a cartel to control prices. 这些公司被指控组成垄断联盟以操纵价格。"
+    },
+    {
+     "w": "with impunity",
+     "ipa": "/wɪð ɪmˈpjuːnəti/",
+     "pos": "phr.",
+     "en": "without being punished or suffering any negative consequences for doing something wrong",
+     "zh": "不受惩罚地；肆无忌惮地",
+     "ctx": "指黄金精炼商即使谎报黄金来源，也可以逃避处罚和追责",
+     "ex1": "Corrupt officials were able to break the law with impunity. 腐败官员能够肆无忌惮地违法而不受惩罚。",
+     "ex2": "No company should be allowed to pollute the environment with impunity. 任何公司都不应该被允许肆意污染环境而不承担后果。"
+    },
+    {
+     "w": "backdate",
+     "ipa": "/ˌbækˈdeɪt/",
+     "pos": "v.",
+     "en": "to put an earlier date on a document than the date when it was actually written or signed",
+     "zh": "倒填日期；将文件日期追溯至更早时间",
+     "ctx": "指将黄金认证相关文件的日期改为更早的时间，使其看起来早已完成审核",
+     "ex1": "The manager was accused of backdating several financial documents. 这名经理被指控倒填多份财务文件的日期。",
+     "ex2": "The company illegally backdated contracts to hide the delay. 该公司非法倒填合同日期，以掩盖延误事实。"
+    }
+   ]
+  },
+  {
+   "en_html": "The Times investigation shows that the divide between “clean” and “dirty” gold is an industry <mark class=\"voc\">fiction</mark>. There is just gold. And as Wall Street, central banks and investors <mark class=\"voc\">stockpile</mark> and trade the precious metal, they’re <mark class=\"voc\">profiting off</mark> a supply that includes gold from illegal sources. The price this year <mark class=\"voc\">crossed the $5,000 mark</mark>. That has made it profitable to mine in inefficient, destructive and politically <mark class=\"voc\">destabilizing</mark> ways.",
+   "zh": "《纽约时报》的调查表明，所谓“干净黄金”与“肮脏黄金”之间的界限，不过是整个行业编造出来的假象。黄金就是黄金，并不存在真正明确的区分。当华尔街、各国中央银行和投资者大量囤积、交易这种贵金属时，他们正从一个包含非法来源黄金的供应体系中获利。今年，黄金价格突破了5000美元大关。这使得即便采用低效率、破坏性强，甚至会造成政治局势动荡的方式开采黄金，也变得有利可图。",
+   "notes": [
+    {
+     "w": "fiction",
+     "ipa": "/ˈfɪkʃən/",
+     "pos": "n.",
+     "en": "something that is invented or imagined rather than being true",
+     "zh": "虚构的事物；假象；不真实的说法",
+     "ctx": "指黄金行业人为制造的“干净黄金”和“肮脏黄金”可以明确区分的假象",
+     "ex1": "The idea that success comes without hard work is a complete fiction. 认为成功不需要努力的想法完全是一种幻想。",
+     "ex2": "The company's claim of financial stability turned out to be a fiction. 这家公司所谓财务稳定的说法最终被证明只是一个假象。"
+    },
+    {
+     "w": "stockpile",
+     "ipa": "/ˈstɑːkpaɪl/",
+     "pos": "v.",
+     "en": "to collect and store a large quantity of something for future use",
+     "zh": "大量储备；囤积",
+     "ctx": "指中央银行和投资者大量购买并储存黄金，将其作为储备资产或投资",
+     "ex1": "Many families began to stockpile food before the storm arrived. 许多家庭在暴风雨来临前开始囤积食物。",
+     "ex2": "The government decided to stockpile medical supplies in case of an emergency. 政府决定储备医疗物资，以应对可能发生的紧急情况。"
+    },
+    {
+     "w": "profit off",
+     "ipa": "/ˈprɑːfɪt ɔːf/",
+     "pos": "phr.",
+     "en": "to make money or gain a financial advantage from something, sometimes in a way considered unfair or unethical",
+     "zh": "从......中获利；利用......赚钱",
+     "ctx": "指金融机构和投资者从包含非法开采黄金的供应体系中获取利润",
+     "ex1": "Some companies profit off people's fears during a crisis. 一些公司在危机期间利用人们的恐惧心理牟利。",
+     "ex2": "The businessman was criticized for profiting off the suffering of others. 这名商人因利用他人的苦难牟利而受到批评。"
+    },
+    {
+     "w": "cross the mark",
+     "ipa": "/krɔːs ðə mɑːrk/",
+     "pos": "phr.",
+     "en": "to go beyond a particular level, amount or numerical threshold",
+     "zh": "突破某一关口；超过某一数值",
+     "ctx": "指黄金价格突破每盎司5000美元的重要价格关口",
+     "ex1": "The company's annual revenue crossed the $1 billion mark for the first time. 该公司的年收入首次突破10亿美元大关。",
+     "ex2": "The number of visitors has finally crossed the one-million mark. 游客数量终于突破了100万人次大关。"
+    },
+    {
+     "w": "destabilizing",
+     "ipa": "/diːˈsteɪbəlaɪzɪŋ/",
+     "pos": "adj.",
+     "en": "causing a government, society, economy or system to become less stable",
+     "zh": "造成不稳定的；破坏稳定的",
+     "ctx": "指黄金开采活动可能加剧政治冲突、助长非法势力，从而破坏地区政治稳定",
+     "ex1": "The conflict had a destabilizing effect on the entire region. 这场冲突对整个地区产生了破坏稳定的影响。",
+     "ex2": "A sudden economic crisis can have destabilizing consequences for a country.突如其来的经济危机可能给一个国家带来动荡性的后果。"
+    }
+   ]
+  },
+  {
+   "en_html": "The industry works like this: Miners and <mark class=\"voc\">brokers</mark> sell <mark class=\"voc\">raw</mark> gold to refiners, which melt it, remove <mark class=\"voc\">impurities</mark>, and form it into bars. The major international marketplace accepts bars only from the 67 L.B.M.A.-certified refineries. Those refiners must document the source of every <mark class=\"voc\">ounce</mark> of gold in every bar. But <mark class=\"voc\">for all</mark> its talk about being a global authority, the L.B.M.A. is mostly a <mark class=\"voc\">paperwork</mark> collector. The association relies on refiners to inspect the mines and to <mark class=\"voc\">self-report</mark> the details.",
+   "zh": "黄金行业的运作方式是这样的：矿工和经纪商将未经加工的黄金卖给精炼商，精炼商再将黄金熔化、去除杂质，并铸造成金条。主要的国际黄金交易市场只接受来自67家获得伦敦金银市场协会（L.B.M.A.）认证的精炼厂的金条。这些精炼商必须记录每根金条中每一盎司黄金的来源。然而，尽管伦敦金银市场协会不断宣称自己是全球权威机构，但实际上，它基本上只是一个收集文件的机构。该协会依赖精炼商自行检查矿场，并自行上报相关细节。",
+   "notes": [
+    {
+     "w": "broker",
+     "ipa": "/ˈbroʊkər/",
+     "pos": "n.",
+     "en": "a person or company that arranges deals between buyers and sellers, usually in exchange for a fee",
+     "zh": "经纪人；中间商；交易代理人",
+     "ctx": "指在黄金开采者与精炼商之间促成黄金买卖的中间商",
+     "ex1": "She hired a real estate broker to help her find an apartment. 她聘请了一位房地产经纪人帮她寻找公寓。",
+     "ex2": "The broker earns a commission on every successful transaction. 这名经纪人从每笔成功的交易中赚取佣金。"
+    },
+    {
+     "w": "raw",
+     "ipa": "/rɔː/",
+     "pos": "adj.",
+     "en": "in a natural state, without being processed, treated or prepared",
+     "zh": "未经加工的；天然状态的；原始的",
+     "ctx": "形容刚从矿场开采或初步提取、尚未经过正规精炼的黄金",
+     "ex1": "The factory imports raw materials from several countries. 这家工厂从多个国家进口原材料。",
+     "ex2": "The chef prefers to use fresh, raw ingredients whenever possible. 这位厨师尽可能使用新鲜、未经加工的食材。"
+    },
+    {
+     "w": "impurity",
+     "ipa": "/ɪmˈpjʊrəti/",
+     "pos": "n.",
+     "en": "a substance that is present in something and makes it less pure",
+     "zh": "杂质；不纯物质",
+     "ctx": "指原始黄金中混杂的其他金属或物质，需要在精炼过程中去除",
+     "ex1": "The water is filtered to remove harmful impurities. 这些水经过过滤，以去除有害杂质。",
+     "ex2": "Even a small amount of impurity can affect the quality of the final product. 即使少量杂质也可能影响最终产品的质量。"
+    },
+    {
+     "w": "ounce",
+     "ipa": "/aʊns/",
+     "pos": "n.",
+     "en": "a unit used to measure weight, especially the weight of precious metals",
+     "zh": "盎司；重量单位",
+     "ctx": "指衡量黄金重量的单位，国际黄金市场通常使用金衡盎司，一金衡盎司约等于31.1克",
+     "ex1": "The price of gold is usually quoted per ounce. 黄金价格通常按每盎司报价。",
+     "ex2": "He bought a one-ounce gold coin as a long-term investment. 他购买了一枚一盎司的金币作为长期投资。"
+    },
+    {
+     "w": "for all",
+     "ipa": "/fər ɔːl/",
+     "pos": "phr.",
+     "en": "despite something; used to show that a fact is surprising in relation to what has been said",
+     "zh": "尽管；虽然有......",
+     "ctx": "强调尽管伦敦金银市场协会不断宣称自己是全球权威机构，实际发挥的监督作用却十分有限",
+     "ex1": "For all his wealth, he lives a surprisingly simple life. 尽管他非常富有，却过着出人意料的简朴生活。",
+     "ex2": "For all her experience, she still makes mistakes sometimes. 尽管她经验丰富，有时仍然会犯错。"
+    },
+    {
+     "w": "paperwork",
+     "ipa": "/ˈpeɪpərwɜːrk/",
+     "pos": "n.",
+     "en": "the documents and forms that are necessary for a particular job, activity or official process",
+     "zh": "文书工作；文件；手续",
+     "ctx": "指黄金来源证明、认证报告及其他合规文件，暗示协会主要依靠收集文件进行监管",
+     "ex1": "It took us several hours to complete all the paperwork. 我们花了几个小时才完成所有文书手续。",
+     "ex2": "The bank requires additional paperwork before approving the loan. 银行在批准贷款之前要求提供额外文件。"
+    },
+    {
+     "w": "self-report",
+     "ipa": "/ˌself rɪˈpɔːrt/",
+     "pos": "v.",
+     "en": "to provide information about one's own activities, behavior or performance rather than having it independently verified",
+     "zh": "自行报告；自主申报",
+     "ctx": "指黄金精炼商自行向伦敦金银市场协会报告矿场检查结果和黄金来源信息，而不是由协会独立核实",
+     "ex1": "Participants were asked to self-report their daily exercise habits. 参与者被要求自行报告每天的运动习惯。",
+     "ex2": "Companies must self-report certain environmental violations to the authorities.企业必须主动向监管部门报告某些环境违规行为。"
+    }
+   ]
+  },
+  {
+   "en_html": "A few years back, Madagascar’s central bank decided to <mark class=\"voc\">capitalize on</mark> booming prices by buying and stockpiling gold, including from illegal mines that <mark class=\"voc\">employ</mark> children. To see how it happened, I began at the mines themselves. I took a <mark class=\"voc\">propeller plane</mark> from the capital, Antananarivo, and drove three hours through <mark class=\"voc\">farmland</mark> to a mine called Madagold. The mine sits in a dry valley in the northern part of the island, surrounded by a busy market fueled by <mark class=\"voc\">gold-rush</mark> cash.",
+   "zh": "几年前，马达加斯加中央银行决定利用黄金价格飙升的机会，大量购买并囤积黄金，其中包括来自雇用童工的非法矿场的黄金。为了弄清楚这一切究竟是如何发生的，我决定从矿场本身开始调查。我从首都塔那那利佛乘坐一架螺旋桨飞机出发，随后驱车穿过农田，行驶了三个小时，来到一座名为Madagold的金矿。这座金矿坐落在马达加斯加岛北部一处干燥的山谷中，周围是一片繁忙的市场，淘金热带来的大量现金推动着这里的商业活动。",
+   "notes": [
+    {
+     "w": "capitalize on",
+     "ipa": "/ˈkæpɪtəlaɪz ɑːn/",
+     "pos": "phr.",
+     "en": "to use a situation or opportunity to gain an advantage or benefit",
+     "zh": "利用；抓住......的机会；从......中获益",
+     "ctx": "指马达加斯加中央银行试图抓住黄金价格大幅上涨的机会，通过购买和储备黄金获取经济利益",
+     "ex1": "The company capitalized on the growing demand for electric vehicles. 这家公司抓住了电动汽车需求不断增长的机会。",
+     "ex2": "She capitalized on her popularity to launch her own clothing brand. 她利用自己的人气创立了个人服装品牌。"
+    },
+    {
+     "w": "employ",
+     "ipa": "/ɪmˈplɔɪ/",
+     "pos": "v.",
+     "en": "to give someone a job and pay them for their work",
+     "zh": "雇用；聘用",
+     "ctx": "指一些非法金矿雇用儿童从事黄金开采工作，涉及童工问题",
+     "ex1": "The factory employs more than 500 local workers. 这家工厂雇用了500多名当地工人。",
+     "ex2": "The restaurant was fined for illegally employing underage workers. 这家餐厅因非法雇用未成年工人而被罚款。"
+    },
+    {
+     "w": "propeller plane",
+     "ipa": "/prəˈpelər pleɪn/",
+     "pos": "n.",
+     "en": "an aircraft that is powered by one or more rotating propellers",
+     "zh": "螺旋桨飞机",
+     "ctx": "指记者从马达加斯加首都前往偏远金矿地区时乘坐的螺旋桨飞机",
+     "ex1": "We took a small propeller plane to reach the remote island. 我们乘坐一架小型螺旋桨飞机前往那座偏远岛屿。",
+     "ex2": "The propeller plane flew low over the mountains. 这架螺旋桨飞机低空飞越群山。"
+    },
+    {
+     "w": "farmland",
+     "ipa": "/ˈfɑːrmlænd/",
+     "pos": "n.",
+     "en": "land that is used for growing crops or raising animals",
+     "zh": "农田；耕地；农业用地",
+     "ctx": "指记者前往Madagold金矿途中经过的大片农业用地",
+     "ex1": "Large areas of farmland were destroyed by the floods. 大片农田被洪水摧毁。",
+     "ex2": "The government introduced new policies to protect valuable farmland. 政府出台了新政策，以保护宝贵的耕地。"
+    },
+    {
+     "w": "gold rush",
+     "ipa": "/ˈɡoʊld rʌʃ/",
+     "pos": "n.",
+     "en": "a situation in which large numbers of people hurry to an area to search for gold, hoping to become rich",
+     "zh": "淘金热；采金热潮",
+     "ctx": "指大量人群涌入马达加斯加金矿地区寻找黄金、追逐财富的热潮",
+     "ex1": "The discovery of gold triggered a gold rush in the region. 黄金的发现引发了该地区的一场淘金热。",
+     "ex2": "Thousands of people moved west during the California Gold Rush. 在加利福尼亚淘金热期间，成千上万的人向西迁移。"
+    }
+   ]
+  },
+  {
+   "en_html": "Everywhere I looked, at Madagold and at mines across the country, children were in danger. Children in Madagascar’s mines <mark class=\"voc\">crushed</mark> rocks and hauled buckets of <mark class=\"voc\">ore</mark>. <mark class=\"voc\">Toddlers</mark> <mark class=\"voc\">wandered</mark> between 100-foot-deep <mark class=\"voc\">shafts</mark>. In the gold-rich northern region of Diana, miners follow no laws, the government’s regional mining supervisor, Firmin Razafindratondra, said. All of the area’s gold mining, he said, is illegal. Outside Mananjary, on Madagascar’s east coast, miners operated despite government shutdown orders. <mark class=\"voc\">Excavators</mark> turned <mark class=\"voc\">rice paddies</mark> into a <mark class=\"voc\">giant pit</mark>.",
+   "zh": "无论我走到哪里，无论是在Madagold金矿，还是在马达加斯加全国各地的其他矿场，孩子们都身处危险之中。在马达加斯加的矿场里，儿童负责砸碎岩石、搬运一桶桶矿石。蹒跚学步的幼童甚至在深达100英尺（约30米）的矿井之间四处游荡。在黄金资源丰富的北部迪亚纳地区，政府地区矿业监管官员菲尔曼·拉扎芬德拉通德拉表示，矿工们根本不遵守任何法律。他说，该地区所有的黄金开采活动都是非法的。在马达加斯加东海岸的马南扎里市郊外，尽管政府已经下令关闭矿场，矿工们仍在继续作业。挖掘机将原本的稻田挖成了一个巨大的深坑。",
+   "notes": [
+    {
+     "w": "crush",
+     "ipa": "/krʌʃ/",
+     "pos": "v.",
+     "en": "to press or break something with great force so that it becomes damaged or changes shape",
+     "zh": "压碎；碾碎；砸碎",
+     "ctx": "指在金矿工作的儿童通过敲打和砸碎岩石，从中提取含金矿物",
+     "ex1": "She crushed the garlic before adding it to the soup. 她把大蒜捣碎后加入汤中。",
+     "ex2": "The heavy truck crushed several wooden boxes. 这辆重型卡车压碎了几个木箱。"
+    },
+    {
+     "w": "ore",
+     "ipa": "/ɔːr/",
+     "pos": "n.",
+     "en": "rock or earth from which metal can be obtained",
+     "zh": "矿石；矿砂",
+     "ctx": "指从金矿中开采出来、含有黄金等金属成分的矿石",
+     "ex1": "The company discovered large deposits of iron ore in the mountains. 这家公司在山区发现了大量铁矿石矿藏。",
+     "ex2": "The miners transported the ore to a nearby processing plant. 矿工们将矿石运往附近的加工厂。"
+    },
+    {
+     "w": "toddler",
+     "ipa": "/ˈtɑːdlər/",
+     "pos": "n.",
+     "en": "a young child who has just learned to walk",
+     "zh": "学步儿童；蹒跚学步的幼童",
+     "ctx": "指在危险矿井之间四处走动、年龄非常小的儿童",
+     "ex1": "The toddler took her first steps across the living room. 这个蹒跚学步的小女孩迈出了穿过客厅的第一步。",
+     "ex2": "Parents should never leave toddlers alone near swimming pools. 家长绝不应该让幼童独自待在游泳池附近。"
+    },
+    {
+     "w": "wander",
+     "ipa": "/ˈwɑːndər/",
+     "pos": "v.",
+     "en": "to walk slowly around or to move from place to place without a particular direction or purpose",
+     "zh": "闲逛；漫步；游荡；徘徊",
+     "ctx": "指幼童在深达约30米的矿井之间毫无防护地四处走动，面临严重危险",
+     "ex1": "We spent the afternoon wandering through the old streets. 我们整个下午都在古老的街道上闲逛。",
+     "ex2": "The little boy wandered away from his parents in the crowded market. 这个小男孩在拥挤的市场里闲逛时与父母走散了。"
+    },
+    {
+     "w": "shaft",
+     "ipa": "/ʃæft/",
+     "pos": "n.",
+     "en": "a long, narrow, usually vertical passage that goes down into the ground, especially in a mine",
+     "zh": "矿井；竖井；井筒",
+     "ctx": "指金矿中深达100英尺、约30米的垂直矿井，幼童在这些矿井之间行走十分危险",
+     "ex1": "The miners descended into the shaft before sunrise. 矿工们在日出前下到了矿井里。",
+     "ex2": "The rescue team searched the abandoned mine shaft for missing workers. 救援队在废弃矿井中搜寻失踪的工人。"
+    },
+    {
+     "w": "excavator",
+     "ipa": "/ˈekskəveɪtər/",
+     "pos": "n.",
+     "en": "a large machine used for digging and moving earth, especially on construction sites or in mines",
+     "zh": "挖掘机；挖土机",
+     "ctx": "指矿工用来大规模挖掘土地、将稻田变成巨大矿坑的重型机械",
+     "ex1": "The excavator dug a deep hole for the building's foundation. 挖掘机为建筑物的地基挖了一个深坑。",
+     "ex2": "Several excavators were working at the construction site. 几台挖掘机正在建筑工地上作业。"
+    },
+    {
+     "w": "rice paddy",
+     "ipa": "/ˈraɪs ˌpædi/",
+     "pos": "n.",
+     "en": "a field where rice is grown, usually covered with shallow water",
+     "zh": "稻田；水田",
+     "ctx": "指马达加斯加东海岸原本用于种植水稻、后来被采矿活动破坏的农田",
+     "ex1": "Farmers were working in the rice paddies early in the morning. 清晨，农民们正在稻田里劳作。",
+     "ex2": "The village is surrounded by beautiful green rice paddies. 这个村庄四周环绕着美丽的绿色稻田。"
+    },
+    {
+     "w": "pit",
+     "ipa": "/pɪt/",
+     "pos": "n.",
+     "en": "a large, deep hole in the ground, especially one made by digging or mining",
+     "zh": "深坑；矿坑；采掘坑",
+     "ctx": "指挖掘机在原本的稻田上挖出的巨大采矿深坑，体现黄金开采对土地的严重破坏",
+     "ex1": "The workers dug a large pit to install the underground pipes. 工人们挖了一个大坑来安装地下管道。",
+     "ex2": "The abandoned mining pit filled with rainwater after the storm. 暴风雨过后，这个废弃矿坑积满了雨水。"
+    }
+   ]
+  }
+ ]
+}

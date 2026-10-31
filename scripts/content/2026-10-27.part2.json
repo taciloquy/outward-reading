@@ -1,0 +1,410 @@
+{
+ "paragraphs": [
+  {
+   "en_html": "For that gold to <mark class=\"voc\">be worth anything</mark>, it needed to be “certified L.B.M.A.,”Madagascar’s central bank governor, Aivo Andrianarivelo, said. So he <mark class=\"voc\">dispatched</mark> his gold chief to Switzerland to find a refiner. Initially, it did not go well. Refiners questioned the gold’s origins and legality. “Nobody wanted to <mark class=\"voc\">touch</mark> this gold,” said Marc Ummel, a gold-supply-chain specialist at the nonprofit group SwissAid. Small-scale mines are considered <mark class=\"voc\">red flags</mark>. The L.B.M.A.’s rules say that any refiner accepting this gold would be required to conduct mine inspections. “‘It’s impossible,’”Mr. Ummel remembers telling Madagascar’s banker. “You will never be able to find an L.B.M.A. refiner.’” <mark class=\"voc\">On that point</mark>, he was wrong.",
+   "zh": "马达加斯加中央银行行长艾沃·安德里亚纳里韦洛表示，要让这些黄金具有市场价值，就必须获得伦敦金银市场协会（L.B.M.A.）的认证。于是，他派遣负责黄金业务的主管前往瑞士，寻找愿意合作的精炼商。然而，事情一开始并不顺利。精炼商们对这些黄金的来源及其合法性提出了质疑。“没有人愿意碰这些黄金。”非营利组织SwissAid的黄金供应链专家马克·乌梅尔说道。小规模矿场被视为潜在风险的警示信号。根据伦敦金银市场协会的规定，任何接收这类黄金的精炼商都必须对矿场进行实地检查。乌梅尔回忆说，他当时曾告诉马达加斯加的银行官员：“这不可能。你们永远不可能找到一家获得L.B.M.A.认证的精炼商。”然而，在这一点上，他错了。",
+   "notes": [
+    {
+     "w": "be worth something",
+     "ipa": "/bi wɜːrθ ˈsʌmθɪŋ/",
+     "pos": "phr.",
+     "en": "to have a particular value or to be valuable, useful or important",
+     "zh": "具有一定价值；值钱；有价值",
+     "ctx": "指马达加斯加的黄金只有获得国际市场认可的认证，才能顺利进入主流交易市场并实现其商业价值",
+     "ex1": "This old painting could be worth a lot of money. 这幅旧画可能值很多钱。",
+     "ex2": "A good reputation is worth more than a short-term profit. 良好的声誉比短期利润更有价值。"
+    },
+    {
+     "w": "dispatch",
+     "ipa": "/dɪˈspætʃ/",
+     "pos": "v.",
+     "en": "to send someone or something to a particular place for a specific purpose",
+     "zh": "派遣；派出；发送",
+     "ctx": "指马达加斯加中央银行行长派遣黄金业务主管前往瑞士，寻找愿意接收黄金的精炼商",
+     "ex1": "The government dispatched rescue teams to the earthquake-hit region. 政府向地震灾区派遣了救援队伍。",
+     "ex2": "The company dispatched an engineer to investigate the technical problem. 公司派出一名工程师调查技术问题。"
+    },
+    {
+     "w": "touch",
+     "ipa": "/tʌtʃ/",
+     "pos": "v.",
+     "en": "to become involved with or agree to deal with something, especially when it may cause problems",
+     "zh": "接触；碰；插手；参与处理",
+     "ctx": "指国际精炼商因担心黄金来源不合法、存在合规风险，而不愿接收或处理马达加斯加的黄金",
+     "ex1": "No bank wanted to touch the risky investment. 没有一家银行愿意碰这项高风险投资。",
+     "ex2": "The company refused to touch the deal because of possible legal problems. 由于可能存在法律问题，这家公司拒绝参与这笔交易。"
+    },
+    {
+     "w": "red flag",
+     "ipa": "/ˌred ˈflæɡ/",
+     "pos": "n.",
+     "en": "a sign that something may be wrong, dangerous or suspicious",
+     "zh": "危险信号；警示信号；可疑迹象",
+     "ctx": "指小规模金矿可能存在非法开采、童工或其他违规问题，因此需要引起精炼商的警惕",
+     "ex1": "His refusal to answer simple questions was a major red flag. 他拒绝回答简单的问题，这是一个明显的危险信号。",
+     "ex2": "Unusually high returns can be a red flag when choosing an investment. 在选择投资项目时，异常高的回报率可能是一个警示信号。"
+    },
+    {
+     "w": "on that point",
+     "ipa": "/ɑːn ðæt pɔɪnt/",
+     "pos": "phr.",
+     "en": "regarding that particular statement, opinion or issue",
+     "zh": "在这一点上；就这个问题而言",
+     "ctx": "指乌梅尔关于马达加斯加不可能找到L.B.M.A.认证精炼商的判断最终被事实推翻",
+     "ex1": "I agree with your general argument, but on that point, I disagree. 我总体上同意你的观点，但在这一点上，我不赞同。",
+     "ex2": "She believed the project would fail, but on that point, she was wrong. 她认为这个项目会失败，但在这一点上，她判断错了。"
+    }
+   ]
+  },
+  {
+   "en_html": "The central bank <mark class=\"voc\">cut a deal</mark> in 2023 with the Istanbul Gold Refinery, one of the world’s biggest L.B.M.A.-certified refiners. The Turkish refiner’s <mark class=\"voc\">auditor</mark> <mark class=\"voc\">filed</mark> paperwork with the L.B.M.A. claiming that it “does not <mark class=\"voc\">do any business</mark>” with mines that <mark class=\"voc\">raise red flags</mark>. That claim <mark class=\"voc\">freed the company from</mark> having to conduct inspections. The raw gold was melted into 12 kg bars at a plant next to Madagascar’s international airport. From there, tens of millions of dollars in gold was shipped to Turkey to enter the legitimate supply. 2023年，马达加斯加中央银行与伊斯坦布尔黄金精炼厂达成了一项协议。该精炼厂是",
+   "zh": "全球规模最大的获得伦敦金银市场协会（L.B.M.A.）认证的黄金精炼商之一。这家土耳其精炼厂的审计人员向L.B.M.A.提交了文件，声称该公司“没有与任何存在风险警示信号的矿场开展业务”。这一声明使该公司免于进行矿场实地检查。随后，原始黄金在马达加斯加国际机场附近的一座加工厂被熔铸成每根重12公斤的金条。从那里，价值数千万美元的黄金被运往土耳其，进入合法的黄金供应体系。",
+   "notes": [
+    {
+     "w": "cut a deal",
+     "ipa": "/kʌt ə diːl/",
+     "pos": "phr.",
+     "en": "to reach an agreement with someone, especially in business or negotiations",
+     "zh": "达成协议；谈成交易；敲定合作",
+     "ctx": "指马达加斯加中央银行与伊斯坦布尔黄金精炼厂达成黄金精炼及交易合作协议",
+     "ex1": "The two companies finally cut a deal after months of negotiations. 经过数月谈判，两家公司终于达成了协议。",
+     "ex2": "The government cut a deal with local businesses to create more jobs. 政府与当地企业达成协议，以创造更多就业机会。"
+    },
+    {
+     "w": "auditor",
+     "ipa": "/ˈɔːdɪtər/",
+     "pos": "n.",
+     "en": "a person whose job is to officially examine financial records, business activities or compliance with rules",
+     "zh": "审计员；审计师；审核人员",
+     "ctx": "指负责审核伊斯坦布尔黄金精炼厂合规情况，并向L.B.M.A.提交相关报告的审计人员",
+     "ex1": "The auditor discovered several problems in the company's financial records.审计员发现这家公司的财务记录存在几个问题。",
+     "ex2": "An independent auditor was hired to examine the organization's accounts. 该组织聘请了一名独立审计师来检查账目。"
+    },
+    {
+     "w": "file",
+     "ipa": "/faɪl/",
+     "pos": "v.",
+     "en": "to officially submit a document, report or application to an organization or authority",
+     "zh": "正式提交；递交；归档",
+     "ctx": "指审计人员向伦敦金银市场协会正式提交有关黄金来源及合规情况的文件",
+     "ex1": "The company filed its annual financial report last week. 这家公司上周提交了年度财务报告。",
+     "ex2": "She decided to file a complaint against the airline. 她决定向这家航空公司提出正式投诉。"
+    },
+    {
+     "w": "do business with",
+     "ipa": "/duː ˈbɪznəs wɪð/",
+     "pos": "phr.",
+     "en": "to have commercial relationships or carry out business transactions with a person or organization",
+     "zh": "与......做生意；与......开展商业往来",
+     "ctx": "指黄金精炼厂与矿场之间存在黄金采购、加工或其他商业合作关系",
+     "ex1": "The company refuses to do business with suppliers that use child labor. 这家公司拒绝与使用童工的供应商开展业务。",
+     "ex2": "Many international firms are eager to do business with local manufacturers. 许多国际企业渴望与当地制造商开展商业合作。"
+    },
+    {
+     "w": "raise red flags",
+     "ipa": "/reɪz red flæɡz/",
+     "pos": "phr.",
+     "en": "to cause concern or suspicion that something may be wrong, dangerous or dishonest",
+     "zh": "引发警觉；亮起危险信号；引起怀疑",
+     "ctx": "指某些矿场因可能存在非法开采、童工或其他违规行为，而引发合规风险警示",
+     "ex1": "Several unusual transactions raised red flags during the financial review. 财务审查期间，几笔异常交易引起了警觉。",
+     "ex2": "The applicant's inconsistent answers raised red flags for the interviewer. 申请人前后不一致的回答引起了面试官的怀疑。"
+    },
+    {
+     "w": "free sb. from doing sth.",
+     "ipa": "/friː frəm ˈduːɪŋ/",
+     "pos": "phr.",
+     "en": "to remove someone's obligation or responsibility to do something",
+     "zh": "使某人免于做某事；解除某人的某项义务",
+     "ctx": "指审计文件中的声明使伊斯坦布尔黄金精炼厂不必履行对高风险矿场进行实地检查的义务",
+     "ex1": "The new technology freed employees from doing repetitive tasks. 新技术使员工不必再做重复性的工作。",
+     "ex2": "The scholarship freed her from having to pay university tuition. 这笔奖学金使她免于支付大学学费。"
+    }
+   ]
+  },
+  {
+   "en_html": "It was only <mark class=\"voc\">by chance</mark> that anyone at the L.B.M.A. took a look at the Madagascar gold. The European Union <mark class=\"voc\">happened to be considering</mark> certifying the association for a new <mark class=\"voc\">oversight</mark> role. An E.U. inspector noticed the Madagascar deal and began <mark class=\"voc\">scrutinizing</mark> it. How, the inspector asked, could a refinery process gold from Madagascar yet claim no red flags? L.B.M.A. staff <mark class=\"voc\">escalated</mark> the problem to a“<mark class=\"voc\">compliance</mark> <mark class=\"voc\">panel</mark>” that included the chief executive, Ms. Crowell. The association could have punished the refiner. Instead, the L.B.M.A. helped <mark class=\"voc\">cover up</mark> the problem.",
+   "zh": "伦敦金银市场协会（L.B.M.A.）之所以有人注意到马达加斯加的黄金，纯属偶然。当时，欧盟恰好正在考虑认证该协会，让其承担一项新的监管职责。一名欧盟检查员注意到了马达加斯加的这笔交易，并开始对其展开仔细审查。这名检查员提出了一个疑问：一家精炼厂怎么可能一边加工来自马达加斯加的黄金，一边又声称不存在任何风险警示信号呢？L.B.M.A.的工作人员随后将这一问题上报给一个“合规委员会”，该委员会成员包括首席执行官克罗韦尔女士。协会本可以对这家精炼厂进行处罚。然而，L.B.M.A.非但没有这样做，反而帮助掩盖了这个问题。",
+   "notes": [
+    {
+     "w": "by chance",
+     "ipa": "/baɪ tʃæns/",
+     "pos": "phr.",
+     "en": "by accident or coincidence, rather than by intention or planning",
+     "zh": "偶然地；碰巧；出于巧合",
+     "ctx": "强调L.B.M.A.内部有人注意到马达加斯加黄金的合规问题，并非源于协会主动监管，而是一次偶然事件",
+     "ex1": "I met my childhood friend by chance at the airport. 我在机场偶然遇到了儿时的朋友。",
+     "ex2": "The scientist discovered the unusual reaction entirely by chance. 这位科学家完全是偶然发现了这种不寻常的反应。"
+    },
+    {
+     "w": "happen to do sth.",
+     "ipa": "/ˈhæpən tə duː/",
+     "pos": "phr.",
+     "en": "to do something or experience something by chance, without planning or expecting it",
+     "zh": "碰巧做某事；恰好发生某事",
+     "ctx": "指欧盟当时恰好正在考虑赋予L.B.M.A.新的监管职责，因此才意外发现了马达加斯加黄金交易的问题",
+     "ex1": "I happened to see your brother at the bookstore yesterday. 昨天我碰巧在书店看到了你哥哥。",
+     "ex2": "She happened to be working late when the power went out. 停电时，她恰好正在加班。"
+    },
+    {
+     "w": "oversight",
+     "ipa": "/ˈoʊvərsaɪt/",
+     "pos": "n.",
+     "en": "the activity of watching and checking something to make sure it is being done properly and according to rules",
+     "zh": "监督；监管；监察",
+     "ctx": "指欧盟考虑赋予L.B.M.A.的新的行业监督和合规审查职责",
+     "ex1": "The government promised stronger oversight of the banking industry. 政府承诺加强对银行业的监管。",
+     "ex2": "The project failed partly because of a lack of proper oversight. 这个项目失败的部分原因是缺乏适当的监督。"
+    },
+    {
+     "w": "scrutinize",
+     "ipa": "/ˈskruːtənaɪz/",
+     "pos": "v.",
+     "en": "to examine something very carefully, especially in order to discover mistakes, problems or hidden details",
+     "zh": "仔细审查；严密检查；详细调查",
+     "ctx": "指欧盟检查员开始深入审查马达加斯加黄金交易，寻找其中可能存在的合规问题",
+     "ex1": "Investors carefully scrutinized the company's financial statements. 投资者仔细审查了这家公司的财务报表。",
+     "ex2": "The journalist scrutinized every detail of the official report. 这名记者仔细审查了官方报告中的每一个细节。"
+    },
+    {
+     "w": "escalate",
+     "ipa": "/ˈeskəleɪt/",
+     "pos": "v.",
+     "en": "to refer a problem or issue to someone with greater authority or responsibility for further action",
+     "zh": "将问题上报；提交上级处理；升级处理",
+     "ctx": "指L.B.M.A.工作人员将马达加斯加黄金交易的合规问题提交给更高级别的合规委员会处理",
+     "ex1": "The employee escalated the complaint to the regional manager. 这名员工将投诉上报给了区域经理。",
+     "ex2": "If the issue cannot be resolved, we will escalate it to senior management. 如果问题无法解决，我们会将其提交给高级管理层处理。"
+    },
+    {
+     "w": "compliance",
+     "ipa": "/kəmˈplaɪəns/",
+     "pos": "n.",
+     "en": "the act of obeying laws, rules, regulations or official requirements",
+     "zh": "合规；遵守规定；服从",
+     "ctx": "指黄金精炼厂及相关机构是否遵守L.B.M.A.制定的黄金来源审查和认证规则",
+     "ex1": "The company introduced new policies to ensure compliance with environmental laws. 这家公司出台了新政策，以确保遵守环境法律。",
+     "ex2": "All employees must complete annual compliance training. 所有员工都必须完成年度合规培训。"
+    },
+    {
+     "w": "panel",
+     "ipa": "/ˈpænl/",
+     "pos": "n.",
+     "en": "a small group of people chosen to discuss, investigate or make decisions about a particular subject",
+     "zh": "专门小组；委员会；专家组",
+     "ctx": "指L.B.M.A.内部负责讨论和处理重大合规问题的专门委员会",
+     "ex1": "A panel of experts was invited to evaluate the research project. 一个专家小组受邀评估这项研究项目。",
+     "ex2": "The university established an independent panel to investigate the complaints.这所大学成立了一个独立委员会来调查投诉。"
+    },
+    {
+     "w": "cover up",
+     "ipa": "/ˈkʌvər ʌp/",
+     "pos": "phr.",
+     "en": "to hide the truth about something wrong or illegal in order to prevent people from discovering it",
+     "zh": "掩盖；隐瞒；包庇",
+     "ctx": "指L.B.M.A.没有处罚存在合规问题的精炼厂，反而帮助其掩盖黄金来源审查中的问题",
+     "ex1": "The company tried to cover up the serious safety problems at its factory. 这家公司试图掩盖工厂存在的严重安全问题。",
+     "ex2": "The investigation revealed that several officials had helped cover up the scandal. 调查揭露了几名官员曾帮助掩盖这起丑闻。"
+    }
+   ]
+  },
+  {
+   "en_html": "Association officials worked with the Istanbul Gold Refinery’s auditor to create a new report that <mark class=\"voc\">made it seem like</mark> the refiner had <mark class=\"voc\">disclosed</mark> the red flags from the beginning and had <mark class=\"voc\">taken steps</mark> to scrutinize the supply chain. The report was backdated, as if it had been filed <mark class=\"voc\">in real time</mark>. That backdated report remains on the L.B.M.A.’s website, with no <mark class=\"voc\">indication</mark> of any <mark class=\"voc\">alterations</mark>. <mark class=\"voc\">The matter was closed</mark>. The gold was certified as meeting the world’s most <mark class=\"voc\">rigorous</mark> standards. Now those same refiners who had <mark class=\"voc\">turned Madagascar away</mark> are calling looking to buy gold, Mr. Andrianarivelo said, because the L.B.M.A. had declared that “there was no issue” with it.",
+   "zh": "协会官员与伊斯坦布尔黄金精炼厂的审计人员合作，制作了一份新的报告，让人看起来仿佛这家精炼厂从一开始就已经披露了相关风险警示信号，并且采取了措施对黄金供应链进行严格审查。这份报告的日期被倒填至更早的时间，使其看起来就像是在当时按时提交的一样。如今，这份倒填日期的报告仍然保留在L.B.M.A.的官方网站上，却没有任何迹象表明它曾被修改过。此事就这样不了了之。这批黄金最终获得认证，被认定符合全球最严格的标准。安德里亚纳里韦洛表示，如今，那些曾经拒绝接收马达加斯加黄金的精炼商，反而主动打电话来，希望购买这些黄金，因为L.B.M.A.已经宣布，这些黄金“不存在任何问题”。",
+   "notes": [
+    {
+     "w": "make it seem like",
+     "ipa": "/meɪk ɪt siːm laɪk/",
+     "pos": "phr.",
+     "en": "to create the impression that something is true, even if it may not actually be the case",
+     "zh": "使......看起来好像；营造出......的假象",
+     "ctx": "指协会官员与审计人员通过制作新报告，营造出精炼厂早已披露风险并履行审查义务的假象",
+     "ex1": "The advertisement makes it seem like the product can solve every problem.这则广告让人觉得这款产品似乎能够解决所有问题。",
+     "ex2": "He tried to make it seem like the decision had been approved by everyone.他试图让人觉得这项决定已经获得了所有人的批准。"
+    },
+    {
+     "w": "disclose",
+     "ipa": "/dɪsˈkloʊz/",
+     "pos": "v.",
+     "en": "to make information known to the public or to someone who needs to know it, especially information that was previously secret",
+     "zh": "披露；公开；透露",
+     "ctx": "指精炼厂向L.B.M.A.报告黄金供应链中存在的风险警示信号及相关问题",
+     "ex1": "The company refused to disclose the details of the agreement. 这家公司拒绝披露协议的具体内容。",
+     "ex2": "All candidates must disclose any potential conflicts of interest. 所有候选人都必须披露任何潜在的利益冲突。"
+    },
+    {
+     "w": "take steps to do sth.",
+     "ipa": "/teɪk steps tə duː/",
+     "pos": "phr.",
+     "en": "to take action or make efforts in order to achieve something or deal with a problem",
+     "zh": "采取措施做某事；着手解决某个问题",
+     "ctx": "指报告声称精炼厂已经采取措施，对黄金供应链进行审查和风险核实",
+     "ex1": "The government has taken steps to reduce air pollution. 政府已经采取措施减少空气污染。",
+     "ex2": "The company is taking steps to improve working conditions. 这家公司正在采取措施改善工作条件。"
+    },
+    {
+     "w": "in real time",
+     "ipa": "/ɪn ˌriːəl ˈtaɪm/",
+     "pos": "phr.",
+     "en": "at the same time as something happens, without a significant delay",
+     "zh": "实时地；在事情发生的当时",
+     "ctx": "指报告被伪装成在相关审查发生时就已经及时提交，而不是事后补写和倒填日期",
+     "ex1": "The application allows users to track their deliveries in real time. 这款应用允许用户实时追踪快递。",
+     "ex2": "The system monitors changes in temperature in real time. 这个系统实时监测温度变化。"
+    },
+    {
+     "w": "indication",
+     "ipa": "/ˌɪndɪˈkeɪʃən/",
+     "pos": "n.",
+     "en": "a sign, piece of information or evidence that shows something exists or is likely to be true",
+     "zh": "迹象；标志；表明；暗示",
+     "ctx": "指报告上没有任何能够表明其日期或内容曾被修改的标记或说明",
+     "ex1": "There is no indication that the situation will improve soon. 目前没有任何迹象表明情况会很快改善。",
+     "ex2": "A sudden drop in sales may be an indication of deeper problems. 销售额突然下降可能表明存在更深层次的问题。"
+    },
+    {
+     "w": "alteration",
+     "ipa": "/ˌɔːltəˈreɪʃən/",
+     "pos": "n.",
+     "en": "a change made to something, especially a document, plan or physical object",
+     "zh": "修改；改动；变更",
+     "ctx": "指对黄金合规报告的日期或内容进行的修改，而官方网站并未披露这些改动",
+     "ex1": "Any alteration to the original agreement must be approved by both parties.对原协议的任何修改都必须得到双方批准。",
+     "ex2": "The document showed signs of unauthorized alterations. 这份文件显示出未经授权的修改痕迹。"
+    },
+    {
+     "w": "the matter was closed",
+     "ipa": "/ðə ˈmætər wəz kloʊzd/",
+     "pos": "phr.",
+     "en": "the issue or case was considered finished, with no further action or investigation required",
+     "zh": "事情就此了结；案件被结案；不再继续追究",
+     "ctx": "指L.B.M.A.在修改报告后结束了对该问题的处理，没有进一步追究精炼厂的责任",
+     "ex1": "After a brief investigation, the matter was closed without further action. 经过简短调查，此事便不了了之，没有采取进一步行动。",
+     "ex2": "The manager announced that the matter was closed and no more complaints would be considered. 经理宣布此事已经了结，不再受理更多投诉。"
+    },
+    {
+     "w": "rigorous",
+     "ipa": "/ˈrɪɡərəs/",
+     "pos": "adj.",
+     "en": "extremely thorough, careful and strict in following rules, methods or standards",
+     "zh": "严格的；严谨的；缜密的",
+     "ctx": "形容L.B.M.A.所宣称的全球最严格的黄金来源审查和认证标准，与实际操作形成鲜明反差",
+     "ex1": "All new medicines must undergo rigorous testing before they can be sold. 所有新药在上市之前都必须经过严格测试。",
+     "ex2": "The university is known for its rigorous academic standards. 这所大学以严格的学术标准而闻名。"
+    },
+    {
+     "w": "turn away",
+     "ipa": "/tɜːrn əˈweɪ/",
+     "pos": "phr.",
+     "en": "to refuse to accept, help or allow someone or something to enter or participate",
+     "zh": "拒绝；回绝；不予接纳",
+     "ctx": "指那些曾因黄金来源存在风险而拒绝与马达加斯加开展交易的精炼商",
+     "ex1": "The hospital was criticized for turning away patients who could not afford treatment. 这家医院因拒绝接收无力支付治疗费用的患者而受到批评。",
+     "ex2": "The company turned away several suppliers because they failed to meet safety standards. 这家公司拒绝了几家未达到安全标准的供应商。"
+    }
+   ]
+  }
+ ],
+ "proper": [
+  {
+   "name": "London Bullion Market Association（LBMA） / 伦敦金银市场协会",
+   "def": "伦敦金银市场协会成立于1987年，总部位于英国伦敦，是全球贵金属场外交易市场的重要行业组织。它制定并管理黄金和白银的“良好交割”（Good Delivery）标准，对精炼厂的生产能力、金条规格、质量以及负责任采购情况提出要求。LBMA并不是政府监管机构，却通过认证制度对全球黄金贸易具有重要影响。能够进入其认可名单的精炼厂，更容易获得国际金融市场的信任。<br>本文中的意思：正因为如此，文章中LBMA的认证失灵才格外令人震惊。"
+  },
+  {
+   "name": "Good Delivery List / 良好交割名单",
+   "def": "Good Delivery List是LBMA管理的黄金和白银精炼厂认可名单。进入名单的精炼厂需要满足技术、生产和合规方面的要求，其生产的合格金条能够被伦敦等主要国际贵金属市场广泛接受。获得认证并不意味着该精炼厂生产的每一根金条都经过LBMA独立实地核查。<br>本文中的意思：文章指出，精炼商承担着黄金来源调查及相关信息报告的重要责任，而这种对企业自身审核和申报的依赖，可能使高风险黄金进入正规市场。"
+  },
+  {
+   "name": "Gold Laundering / 黄金洗白",
+   "def": "黄金洗白是指通过收购、运输、精炼、伪造来源证明或其他交易安排，掩盖黄金的非法来源，使其看起来符合正规市场的交易要求。与普通商品不同，黄金经过熔化和重新铸造后，很难仅凭成品外观判断它最初来自哪座矿山。如果来源文件存在虚假信息，非法开采的黄金就可能与合法黄金一起进入国际供应链。<br>本文中的意思：文章揭露的核心问题，正是原本应该保障黄金来源可信度的认证体系，反而可能成为黄金洗白过程中的关键环节。"
+  },
+  {
+   "name": "The New York Times Investigation / 《纽约时报》调查报道",
+   "def": "《纽约时报》创刊于1851年，是美国具有重要国际影响力的新闻媒体，以深度报道和调查新闻著称。调查报道通常需要通过文件、现场采访、公开记录和多方证词，还原难以从官方声明中发现的问题。<br>本文中的意思：这篇文章不仅关注非法金矿的劳动和环境状况，还追踪黄金从矿场进入精炼厂、再获得国际认证的过程，将调查重点放在整个黄金供应链的制度漏洞上。"
+  },
+  {
+   "name": "Clean Gold and Dirty Gold / 干净黄金与肮脏黄金",
+   "def": "在负责任黄金采购的语境中，“干净黄金”通常指来源能够得到合理核查、符合相关法律及社会环境标准的黄金；“肮脏黄金”则通常指与非法采矿、童工、武装冲突或环境破坏等问题有关的黄金。这不是两种物理性质不同的金属，而是对黄金来源及生产过程的区分。<br>本文中的意思：文章使用“There is just gold”这一表述，强调当不同来源的黄金被熔化、精炼并进入同一个市场后，消费者和投资者往往难以识别其中的差异。"
+  },
+  {
+   "name": "Central Banks and Gold Reserves / 中央银行与黄金储备",
+   "def": "黄金储备是中央银行持有的储备资产之一，通常与外汇储备共同构成国家官方储备的一部分。黄金具有全球交易市场，不直接依赖某个发行国的偿付承诺，因此常被视为分散储备风险的一种资产。中央银行购买黄金通常并不是为了制造首饰，而是出于储备管理、资产多元化等考虑。<br>本文中的意思：文章指出，当中央银行和大型投资机构持续购买黄金时，市场需求也可能间接支持那些存在非法开采问题的黄金供应链。"
+  },
+  {
+   "name": "Gold Prices and Mining Incentives / 黄金价格与采矿利润",
+   "def": "黄金价格通常以美元每金衡盎司报价，一金衡盎司约等于31.1克。当黄金价格上涨时，原本因为开采成本高、黄金含量低而缺乏经济价值的矿藏，也可能变得有利可图。这会吸引更多企业和个人进入采矿行业。在监管薄弱的地区，高金价还可能刺激无证开采、破坏农田和森林等行为。<br>本文中的意思：文章所描述的矛盾就在于：黄金价格越高，非法开采者可能获得的经济回报也越大。"
+  },
+  {
+   "name": "Gold Refining / 黄金精炼",
+   "def": "黄金精炼是将含有杂质的原始黄金通过熔炼、化学处理等工艺提纯，再加工成符合特定标准的金条或其他黄金产品的过程。国际市场上的标准金条需要满足纯度、重量、标识等要求。黄金精炼不仅是生产环节，也是黄金进入国际金融体系的重要环节。<br>本文中的意思：由于不同来源的黄金可以在加工过程中混合，黄金的可追溯性很大程度上依赖精炼厂保存的采购记录、运输文件和来源证明。"
+  },
+  {
+   "name": "Responsible Gold Guidance / 负责任黄金采购指南",
+   "def": "Responsible Gold Guidance是LBMA制定的黄金负责任采购规则，要求获得认可的精炼商建立供应链尽职调查体系，识别洗钱、恐怖主义融资、侵犯人权及其他相关风险。该制度参考经济合作与发展组织（OECD）的五步尽职调查框架，并要求精炼商接受独立第三方审计。不过，第三方审计并不等于对每座矿场进行独立实地调查。<br>本文中的意思：文章所揭露的问题，正是书面审核与真实矿场状况之间可能存在的差距。"
+  },
+  {
+   "name": "Madagascar / 马达加斯加",
+   "def": "马达加斯加是位于非洲东南部印度洋上的岛国，首都为塔那那利佛（Antananarivo）。它是世界第四大岛，以独特的生物多样性著称，拥有大量其他地区罕见的动植物。该国拥有黄金、宝石、石墨等矿产资源，但贫困、基础设施不足和监管能力有限等问题影响着矿业发展。<br>本文中的意思：在一些偏远地区，黄金开采为当地居民提供收入来源，同时也可能伴随非法经营、劳动剥削和生态破坏。"
+  },
+  {
+   "name": "Antananarivo / 塔那那利佛",
+   "def": "塔那那利佛是马达加斯加的首都和重要政治、经济中心，位于岛屿中部高地。城市名称在马达加斯加语中与“千人之城”有关。由于马达加斯加地形复杂，部分偏远地区道路条件有限，从首都前往矿区往往需要结合航空与陆路交通。<br>本文中的意思：文章中的记者先乘坐螺旋桨飞机，再驱车三小时抵达Madagold矿场，这一行程也反映了偏远矿区与国家行政中心之间的地理距离。"
+  },
+  {
+   "name": "Child Labor in Madagascar / 马达加斯加童工问题",
+   "def": "马达加斯加的童工问题长期存在，尤其涉及农业、采矿和非正规经济部门。美国劳工部的调查曾记录儿童参与黄金、云母及其他矿物开采的情况。在矿区，儿童可能承担搬运重物、破碎岩石、地下挖掘等危险工作，面临矿井坍塌、粉尘吸入和身体伤害等风险。<br>本文中的意思：根据美国劳工部2024年度调查所引用的统计数据，马达加斯加5至14岁儿童中约42.8%从事劳动，说明儿童劳动问题具有相当大的规模。"
+  },
+  {
+   "name": "Diana Region / 迪亚纳地区",
+   "def": "迪亚纳（Diana）位于马达加斯加北部，是该国的一个行政区，拥有农业、旅游和矿产资源。<br>本文中的意思：文章指出，这一黄金资源丰富的地区存在严重的非法采矿问题。当地政府矿业监管官员Firmin Razafindratondra表示，该地区的黄金开采活动全部属于非法行为。矿产资源丰富并不意味着采矿活动自动合法，矿场仍需要遵守当地关于开采许可、土地使用、劳动保护和环境管理的法律。"
+  },
+  {
+   "name": "Mananjary and Rice Paddies / 马南扎里与稻田破坏",
+   "def": "马南扎里（Mananjary）位于马达加斯加东海岸，周边地区存在农业生产活动。<br>本文中的意思：文章描述，当地矿工无视政府关闭矿场的命令，使用挖掘机将稻田变成巨大的矿坑。露天采矿会移除土壤和植被，改变原有地形及排水条件。对于依赖农业生产的社区而言，农田遭到破坏不仅意味着生态损失，也可能直接影响粮食生产和家庭收入。"
+  },
+  {
+   "name": "Switzerland and the Gold Refining Industry / 瑞士与全球黄金精炼业",
+   "def": "瑞士是全球重要的黄金精炼与贸易中心，拥有多家国际知名黄金精炼企业。黄金可以从世界各地运往瑞士进行提纯、加工和交易。由于瑞士精炼商与国际金融市场联系紧密，其对黄金来源的审查受到广泛关注。<br>本文中的意思：文章中，马达加斯加中央银行派人前往瑞士寻找精炼商，却因黄金来源及合法性问题遭到拒绝，说明国际黄金交易不仅关注黄金本身的纯度，也关注其来源是否符合相关合规要求。"
+  },
+  {
+   "name": "SwissAid / 瑞士援助组织",
+   "def": "SwissAid是瑞士的一家非营利发展援助组织，关注贫困、可持续发展以及自然资源治理等问题。它也开展与黄金供应链透明度、小规模采矿和非法黄金贸易相关的研究。<br>本文中的意思：文章引用的Marc Ummel是该组织的黄金供应链专家。他认为，马达加斯加的小规模矿场存在明显的风险警示，按照相关认证规则，精炼商应当开展进一步调查，因此最初判断这些黄金很难找到愿意合作的LBMA认证精炼商。"
+  },
+  {
+   "name": "Small-Scale Mining and Red Flags / 小规模采矿与风险警示",
+   "def": "小规模采矿通常指资金、设备和产量相对有限的矿业活动，可能由个人、家庭或小型企业经营。小规模采矿本身并不必然违法，但部分矿场缺少完善的许可、劳动保护和交易记录，因此在国际供应链审查中可能被认定为高风险来源。<br>本文中的意思：所谓red flags，是指需要进一步核查的风险警示信号，而不是已经确认违法的证据。发现风险信号后，企业应根据风险性质开展更深入的尽职调查，而不能仅凭简单声明排除问题。"
+  },
+  {
+   "name": "Istanbul Gold Refinery / 伊斯坦布尔黄金精炼厂",
+   "def": "伊斯坦布尔黄金精炼厂（Istanbul Gold Refinery，简称IGR）是土耳其的重要黄金精炼企业，位于全球黄金贸易的重要枢纽伊斯坦布尔。<br>本文中的意思：文章指出，该公司在2023年与马达加斯加中央银行达成合作，接收并加工相关黄金。其审计文件声称公司没有与存在风险警示的矿场开展业务，因此无需进行相应矿场检查。这一声明成为调查中的关键争议点，因为相关黄金实际上来自存在严重非法开采风险的地区。"
+  },
+  {
+   "name": "European Union and Compliance Oversight / 欧盟与合规监管",
+   "def": "欧盟（European Union，简称EU）是由欧洲国家组成的政治和经济联盟，在贸易、金融监管和供应链合规等领域制定共同规则。<br>本文中的意思：文章中，欧盟正在考虑认可LBMA承担新的监督职责，一名检查员因此注意到马达加斯加黄金交易中的矛盾：精炼厂一方面处理来自高风险地区的黄金，另一方面却声称不存在风险警示。这说明行业组织即使拥有国际认可的标准，其实际执行情况仍可能需要外部监督和审查。"
+  },
+  {
+   "name": "Backdating and Certification Integrity / 文件倒填日期与认证公信力",
+   "def": "Backdating是指将文件标注为早于实际制作或签署时间的日期。倒填日期并非在所有情况下都必然违法，但如果目的是制造虚假的时间记录、掩盖未履行的审查义务，就可能构成严重的合规和诚信问题。<br>本文中的意思：文章指出，LBMA相关人员与精炼厂审计人员合作制作了一份新报告，并将日期倒填，使其看起来像是精炼厂早已披露风险、完成审查。最终，原本受到质疑的黄金获得认证，曾经拒绝交易的精炼商也开始主动寻求购买。这一事件反映出，认证制度的公信力不仅取决于标准是否严格，更取决于审查过程是否真实、独立和透明。请根据今天学习的外刊 How a Trillion-Dollar Industry Launders Illegal Gold，用自己的英语简要复述这场关于全球黄金产业的调查。要求： 至少使用下方提示词中的6个，可以适当改变词形。尽量使用自己的语言，不要直接照抄原文。1. 全球黄金产业规模庞大，但其中充斥着非法开采、童工和侵犯人权等问题。《纽约时报》的调查揭露了黄金认证体系中的严重漏洞。（trillion-dollar industry / be riddled with / human rights abuse / investigation）2. 伦敦金银市场协会（L.B.M.A.）自称是全球贵金属行业的权威机构，但它主要依赖精炼商自行报告黄金来源，而不是独立核查。（self-described / global authority / refiner / self-report / inspect）3. 在马达加斯加，儿童被迫搬运矿石、砸碎岩石，甚至有幼童在危险的矿井之间四处走动。（haul / crush / ore / toddler / shaft）4. 尽管这些黄金的来源引发了严重的风险警示，马达加斯加中央银行仍然与一家获得认证的土耳其精炼厂达成了协议，使非法黄金得以进入正规市场。（raise red flags / cut a deal / certified / legitimate supply）5. 当欧盟检查员发现问题后，L.B.M.A.非但没有处罚精炼商，反而帮助掩盖问题，修改报告并倒填日期，最终让这些黄金获得了认证。（scrutinize / punish / cover up / backdate / certify）If illegal gold can become “clean” simply through paperwork, can we really trust international certification systems?如果非法黄金仅仅通过几份文件就能变成“干净黄金”，我们还能真正信任国际认证体系吗？请用2–3句英文表达你的观点。The global gold industry is riddled with illegal mining and human rights abuse. The L.B.M.A., a self-described global authority, relies on refiners to self-report gold sources. In Madagascar, children crush rocks and haul ore near dangerous mine shafts. Despite these red flags, the central bank cut a deal with a certified Turkish refiner, allowing illegal gold to enter the legitimate supply. When an E.U. inspector discovered the problem, the L.B.M.A. helped cover it up instead of punishing the refiner. Officials even backdated a report to make the gold appear legitimate. This investigation raises serious questions about international certification systems.全球黄金产业充斥着非法开采和侵犯人权等问题。伦敦金银市场协会自称是全球权威机构，却依赖精炼商自行报告黄金来源。在马达加斯加，儿童在危险的矿井附近砸碎岩石、搬运矿石。尽管存在这些风险警示信号，中央银行仍与一家获得认证的土耳其精炼厂达成协议，使非法黄金得以进入正规供应体系。当一名欧盟检查员发现问题后，伦敦金银市场协会非但没有处罚精炼商，反而帮助掩盖问题。官员们甚至倒填了一份报告的日期，让这些黄金看起来具有合法来源。这项调查引发了人们对国际认证体系的严重质疑。思考题参考答案（选做）I don’t think we can fully trust these systems without independent oversight. Certification should be based on real inspections, not just paperwork provided by companies themselves. Otherwise, even the strictest standards can become meaningless.我认为，如果缺乏独立监管，我们就无法完全信任这些认证体系。认证应该建立在真实的实地检查之上，而不是仅仅依赖企业自行提供的文件。否则，即使是最严格的标准，也可能变得毫无意义。"
+  }
+ ],
+ "sources_note": "资料核对：以上背景依据文章内容，并参考 The New York Times、LBMA（Good Delivery 标准）、OECD 尽职调查框架及 SwissAid 截至 2026 年 10 月的公开资料。",
+ "practice": {
+  "intro": "请根据今天学习的外刊 How a Trillion-Dollar Industry Launders Illegal Gold，用自己的英语简要复述这场关于全球黄金产业的调查。要求：至少使用下方提示词中的 6 个，可以适当改变词形。尽量使用自己的语言，不要直接照抄原文。",
+  "items": [
+   "全球黄金产业规模庞大，但其中充斥着非法开采、童工和侵犯人权等问题。《纽约时报》的调查揭露了黄金认证体系中的严重漏洞。（trillion-dollar industry / be riddled with / human rights abuse / investigation）",
+   "伦敦金银市场协会（L.B.M.A.）自称是全球贵金属行业的权威机构，但它主要依赖精炼商自行报告黄金来源，而不是独立核查。（self-described / global authority / refiner / self-report / inspect）",
+   "在马达加斯加，儿童被迫搬运矿石、砸碎岩石，甚至有幼童在危险的矿井之间四处走动。（haul / crush / ore / toddler / shaft）",
+   "尽管这些黄金的来源引发了严重的风险警示，马达加斯加中央银行仍然与一家获得认证的土耳其精炼厂达成了协议，使非法黄金得以进入正规市场。（raise red flags / cut a deal / certified / legitimate supply）",
+   "当欧盟检查员发现问题后，L.B.M.A. 非但没有处罚精炼商，反而帮助掩盖问题，修改报告并倒填日期，最终让这些黄金获得了认证。（scrutinize / punish / cover up / backdate / certify）"
+  ],
+  "critical_en": "If illegal gold can become “clean” simply through paperwork, can we really trust international certification systems?",
+  "critical_zh": "如果非法黄金仅仅通过几份文件就能变成“干净黄金”，我们还能真正信任国际认证体系吗？",
+  "answer": "The global gold industry is riddled with illegal mining and human rights abuse.<br><br>The L.B.M.A., a self-described global authority, relies on refiners to self-report gold sources.<br><br>In Madagascar, children crush rocks and haul ore near dangerous mine shafts.<br><br>Despite these red flags, the central bank cut a deal with a certified Turkish refiner, allowing illegal gold to enter the legitimate supply.<br><br>When an E.U. inspector discovered the problem, the L.B.M.A. helped cover it up instead of punishing the refiner.<br><br>Officials even backdated a report to make the gold appear legitimate.<br><br>This investigation raises serious questions about international certification systems.<br><br>参考答案中文：全球黄金产业充斥着非法开采和侵犯人权等问题。伦敦金银市场协会自称是全球权威机构，却依赖精炼商自行报告黄金来源。在马达加斯加，儿童在危险的矿井附近砸碎岩石、搬运矿石。尽管存在这些风险警示信号，中央银行仍与一家获得认证的土耳其精炼厂达成协议，使非法黄金得以进入正规供应体系。当一名欧盟检查员发现问题后，伦敦金银市场协会非但没有处罚精炼商，反而帮助掩盖问题。官员们甚至倒填了一份报告的日期，让这些黄金看起来具有合法来源。这项调查引发了人们对国际认证体系的严重质疑。<br><br>思考题参考答案（选做）：I don’t think we can fully trust these systems without independent oversight. Certification should be based on real inspections, not just paperwork provided by companies themselves. Otherwise, even the strictest standards can become meaningless.<br><br>我认为，如果缺乏独立监管，我们就无法完全信任这些认证体系。认证应该建立在真实的实地检查之上，而不是仅仅依赖企业自行提供的文件。否则，即使是最严格的标准，也可能变得毫无意义。"
+ },
+ "mindmap": {
+  "aria": "非法黄金洗白文章思维导图",
+  "alt": "非法金矿黄金洗白（手绘版）",
+  "svg": "<svg viewBox=\"0 0 960 720\" xmlns=\"http://www.w3.org/2000/svg\" role=\"img\" aria-label=\"非法黄金洗白文章思维导图\" style=\"width:100%;height:auto;font-family:-apple-system,'PingFang SC','Hiragino Sans GB','Microsoft YaHei',sans-serif\">\n        <rect x=\"24\" y=\"306\" width=\"176\" height=\"88\" rx=\"14\" fill=\"#eae3d2\" stroke=\"#9a8f76\"/>\n        <text x=\"112\" y=\"342\" text-anchor=\"middle\" fill=\"#3d3a34\" font-size=\"17\" font-weight=\"700\">非法黄金洗白</text>\n        <text x=\"112\" y=\"368\" text-anchor=\"middle\" fill=\"#5c5648\" font-size=\"12.5\">万亿美元产业的暗面</text>\n\n        <path d=\"M200,350 C232,350 232,88 260,88\" stroke=\"#6b8f71\" stroke-width=\"2\" fill=\"none\"/>\n        <path d=\"M200,350 C232,350 232,238 260,238\" stroke=\"#7d98ad\" stroke-width=\"2\" fill=\"none\"/>\n        <path d=\"M200,350 C232,350 232,433 260,433\" stroke=\"#bd7a6d\" stroke-width=\"2\" fill=\"none\"/>\n        <path d=\"M200,350 C232,350 232,628 260,628\" stroke=\"#9b86b3\" stroke-width=\"2\" fill=\"none\"/>\n\n        <g class=\"mm-branch\" data-target=\"bc1\">\n          <rect x=\"260\" y=\"71\" width=\"190\" height=\"34\" rx=\"8\" fill=\"#e6efe7\" stroke=\"#6b8f71\"/>\n          <text x=\"349\" y=\"93\" text-anchor=\"middle\" fill=\"#4c6b52\" font-size=\"15\" font-weight=\"700\">行业假象：只有黄金（¶1–2）</text>\n          <text class=\"mm-arrow\" data-for=\"bc1\" x=\"442\" y=\"93\" text-anchor=\"end\" fill=\"#4c6b52\">▾</text>\n        </g>\n        <g class=\"mm-children\" id=\"bc1\">\n          <path d=\"M450,88 C462,88 462,46 480,46\" stroke=\"#6b8f71\" stroke-width=\"1.5\" fill=\"none\"/>\n          <path d=\"M450,88 C462,88 462,88 480,88\" stroke=\"#6b8f71\" stroke-width=\"1.5\" fill=\"none\"/>\n          <path d=\"M450,88 C462,88 462,130 480,130\" stroke=\"#6b8f71\" stroke-width=\"1.5\" fill=\"none\"/>\n          <rect x=\"480\" y=\"30\" width=\"456\" height=\"32\" rx=\"8\" fill=\"#e6efe7\"/><text x=\"492\" y=\"51\" fill=\"#3d3a34\" font-size=\"14\">LBMA 自称全球权威，却屡放罪犯与童工开采的黄金</text>\n          <rect x=\"480\" y=\"72\" width=\"456\" height=\"32\" rx=\"8\" fill=\"#e6efe7\"/><text x=\"492\" y=\"93\" fill=\"#3d3a34\" font-size=\"14\">精炼商谎报来源不受罚，马达加斯加文件还被倒填</text>\n          <rect x=\"480\" y=\"114\" width=\"456\" height=\"32\" rx=\"8\" fill=\"#e6efe7\"/><text x=\"492\" y=\"135\" fill=\"#3d3a34\" font-size=\"14\">干净与肮脏黄金之分是行业假象，华尔街与央行照样获利</text>\n        </g>\n\n        <g class=\"mm-branch\" data-target=\"bc2\">\n          <rect x=\"260\" y=\"221\" width=\"190\" height=\"34\" rx=\"8\" fill=\"#e5edf4\" stroke=\"#7d98ad\"/>\n          <text x=\"349\" y=\"243\" text-anchor=\"middle\" fill=\"#3d5872\" font-size=\"15\" font-weight=\"700\">洗白流水线（¶3–4）</text>\n          <text class=\"mm-arrow\" data-for=\"bc2\" x=\"442\" y=\"243\" text-anchor=\"end\" fill=\"#3d5872\">▾</text>\n        </g>\n        <g class=\"mm-children\" id=\"bc2\">\n          <path d=\"M450,238 C462,238 462,196 480,196\" stroke=\"#7d98ad\" stroke-width=\"1.5\" fill=\"none\"/>\n          <path d=\"M450,238 C462,238 462,238 480,238\" stroke=\"#7d98ad\" stroke-width=\"1.5\" fill=\"none\"/>\n          <path d=\"M450,238 C462,238 462,280 480,280\" stroke=\"#7d98ad\" stroke-width=\"1.5\" fill=\"none\"/>\n          <rect x=\"480\" y=\"180\" width=\"456\" height=\"32\" rx=\"8\" fill=\"#e5edf4\"/><text x=\"492\" y=\"201\" fill=\"#3d3a34\" font-size=\"14\">67 家认证精炼厂垄断入口，LBMA 只是个收集文件的机构</text>\n          <rect x=\"480\" y=\"222\" width=\"456\" height=\"32\" rx=\"8\" fill=\"#e5edf4\"/><text x=\"492\" y=\"243\" fill=\"#3d3a34\" font-size=\"14\">查矿场全靠精炼商自查自报，监管形同虚设</text>\n          <rect x=\"480\" y=\"264\" width=\"456\" height=\"32\" rx=\"8\" fill=\"#e5edf4\"/><text x=\"492\" y=\"285\" fill=\"#3d3a34\" font-size=\"14\">央行趁金价飙升囤金，记者深入 Madagold 矿场</text>\n        </g>\n\n        <g class=\"mm-branch\" data-target=\"bc3\">\n          <rect x=\"260\" y=\"416\" width=\"190\" height=\"34\" rx=\"8\" fill=\"#f4e7e4\" stroke=\"#bd7a6d\"/>\n          <text x=\"349\" y=\"438\" text-anchor=\"middle\" fill=\"#7c4a3e\" font-size=\"15\" font-weight=\"700\">矿场惨状与四处碰壁（¶5–6）</text>\n          <text class=\"mm-arrow\" data-for=\"bc3\" x=\"442\" y=\"438\" text-anchor=\"end\" fill=\"#7c4a3e\">▾</text>\n        </g>\n        <g class=\"mm-children\" id=\"bc3\">\n          <path d=\"M450,433 C462,433 462,391 480,391\" stroke=\"#bd7a6d\" stroke-width=\"1.5\" fill=\"none\"/>\n          <path d=\"M450,433 C462,433 462,433 480,433\" stroke=\"#bd7a6d\" stroke-width=\"1.5\" fill=\"none\"/>\n          <path d=\"M450,433 C462,433 462,475 480,475\" stroke=\"#bd7a6d\" stroke-width=\"1.5\" fill=\"none\"/>\n          <rect x=\"480\" y=\"375\" width=\"456\" height=\"32\" rx=\"8\" fill=\"#f4e7e4\"/><text x=\"492\" y=\"396\" fill=\"#3d3a34\" font-size=\"14\">童工砸石运矿，幼童在百英尺深的矿井间游荡</text>\n          <rect x=\"480\" y=\"417\" width=\"456\" height=\"32\" rx=\"8\" fill=\"#f4e7e4\"/><text x=\"492\" y=\"438\" fill=\"#3d3a34\" font-size=\"14\">挖掘机把稻田挖成巨坑，违规开采全然不受管</text>\n          <rect x=\"480\" y=\"459\" width=\"456\" height=\"32\" rx=\"8\" fill=\"#f4e7e4\"/><text x=\"492\" y=\"480\" fill=\"#3d3a34\" font-size=\"14\">精炼商嫌风险纷纷拒绝，小规模矿场被视作警示信号</text>\n        </g>\n\n        <g class=\"mm-branch\" data-target=\"bc4\">\n          <rect x=\"260\" y=\"611\" width=\"190\" height=\"34\" rx=\"8\" fill=\"#ece4f2\" stroke=\"#9b86b3\"/>\n          <text x=\"349\" y=\"633\" text-anchor=\"middle\" fill=\"#5a4670\" font-size=\"15\" font-weight=\"700\">一纸倒填：假金变真（¶7–9）</text>\n          <text class=\"mm-arrow\" data-for=\"bc4\" x=\"442\" y=\"633\" text-anchor=\"end\" fill=\"#5a4670\">▾</text>\n        </g>\n        <g class=\"mm-children\" id=\"bc4\">\n          <path d=\"M450,628 C462,628 462,586 480,586\" stroke=\"#9b86b3\" stroke-width=\"1.5\" fill=\"none\"/>\n          <path d=\"M450,628 C462,628 462,628 480,628\" stroke=\"#9b86b3\" stroke-width=\"1.5\" fill=\"none\"/>\n          <path d=\"M450,628 C462,628 462,670 480,670\" stroke=\"#9b86b3\" stroke-width=\"1.5\" fill=\"none\"/>\n          <rect x=\"480\" y=\"570\" width=\"456\" height=\"32\" rx=\"8\" fill=\"#ece4f2\"/><text x=\"492\" y=\"591\" fill=\"#3d3a34\" font-size=\"14\">2023 年与土耳其精炼厂成交，一纸声明免掉实地检查</text>\n          <rect x=\"480\" y=\"612\" width=\"456\" height=\"32\" rx=\"8\" fill=\"#ece4f2\"/><text x=\"492\" y=\"633\" fill=\"#3d3a34\" font-size=\"14\">欧盟检查员偶然发现问题，LBMA 反而帮着掩盖</text>\n          <rect x=\"480\" y=\"654\" width=\"456\" height=\"32\" rx=\"8\" fill=\"#ece4f2\"/><text x=\"492\" y=\"675\" fill=\"#3d3a34\" font-size=\"14\">报告倒填日期后黄金获认证，昔日拒收者抢着来买</text>\n        </g>\n      </svg>",
+  "img": ""
+ }
+}

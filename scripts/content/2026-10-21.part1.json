@@ -1,0 +1,357 @@
+{
+  "date": "2026-10-21",
+  "title_tag": "法国骚乱后续：巴黎开始宵禁、2400人被捕，这场残局该怎么收？政府为何没能提前阻止失控？—— 美国《美联社》外刊讲解第1204天",
+  "h1": "法国骚乱后续：巴黎开始宵禁、2400人被捕，这场残局该怎么收？政府为何没能提前阻止失控？",
+  "source_label": "The Associated Press",
+  "category": "美国《美联社》外刊讲解 第1204天",
+  "read_minutes": 18,
+  "nav_hint": "Paris police issue overnight curfew",
+  "headline": {
+    "en_html": "Paris police <mark class=\"voc\">issue</mark> overnight <mark class=\"voc\">curfew</mark> in 2 areas of French capital to try to prevent further <mark class=\"voc\">disorder</mark>",
+    "zh": "巴黎警方在首都两处地区实施夜间宵禁，以防止进一步发生骚乱",
+    "notes": [
+      {
+        "w": "issue",
+        "ipa": "/ˈɪʃuː/",
+        "pos": "v.",
+        "en": "to officially announce, publish or give an order, warning or statement",
+        "zh": "发布，颁布，正式发出",
+        "ctx": "巴黎警方正式发布夜间宵禁命令",
+        "ex1": "The government issued an emergency warning as the powerful storm approached the coast. 随着强风暴逼近海岸，政府发布了紧急预警。",
+        "ex2": "The university issued a statement explaining its decision to cancel the event. 大学发布声明，解释取消活动的决定。"
+      },
+      {
+        "w": "curfew",
+        "ipa": "/ˈkɜːfjuː/",
+        "pos": "n.",
+        "en": "a rule requiring people to stay indoors or return home by a particular time, especially at night",
+        "zh": "宵禁，宵禁令",
+        "ctx": "巴黎警方为防止骚乱进一步发生而实施的夜间人员活动限制",
+        "ex1": "The city imposed a midnight curfew following several nights of violent clashes. 在连续数晚发生暴力冲突后，该市实施了午夜宵禁。",
+        "ex2": "Residents were required to return home before the curfew came into effect. 居民被要求在宵禁生效前返回家中。"
+      },
+      {
+        "w": "disorder",
+        "ipa": "/dɪsˈɔːdə(r)/",
+        "pos": "n.",
+        "en": "violent or uncontrolled behaviour in public that disturbs peace and order",
+        "zh": "骚乱，混乱，公共秩序失控",
+        "ctx": "法国抗议活动期间发生的暴力冲突、抢劫及其他扰乱公共秩序的行为",
+        "ex1": "Police increased their presence in the city centre to prevent further public disorder. 警方加强了在市中心的部署，以防止进一步发生公共骚乱。",
+        "ex2": "The football match was followed by scenes of disorder outside the stadium. 足球比赛结束后，体育场外出现了混乱场面。"
+      }
+    ]
+  },
+  "paragraphs": [
+    {
+      "en_html": "PARIS (AP) — Paris police issued an overnight curfew on Monday in two areas of the French capital, after a weekend marred by France’s worst <mark class=\"voc\">rioting</mark> in years that <mark class=\"voc\">targeted</mark> city halls, other public buildings and thousands of businesses across the country. The order aims to protect “people and property from the violence and looting,” the Paris police statement said. The curfew <mark class=\"voc\">prohibits</mark> anyone from entering or remaining on the Place de la République, where rioting took place Saturday, and the shopping neighborhood of Les Halles, which has been <mark class=\"voc\">subject to</mark> looting.",
+      "zh": "巴黎（美联社）——周一，巴黎警方在法国首都的两个地区实施了夜间宵禁。此前的周末，法国爆发了多年来最严重的骚乱，全国各地的市政厅、其他公共建筑以及数千家商铺成为袭击目标，整个周末因此蒙上了阴影。巴黎警方在声明中表示，这项命令旨在保护“民众及其财产免受暴力和抢劫的侵害”。宵禁令禁止任何人进入或逗留在共和国广场以及莱阿勒购物区。前者在周六发生了骚乱，后者则遭到了洗劫。",
+      "notes": [
+        {
+          "w": "rioting",
+          "ipa": "/ˈraɪətɪŋ/",
+          "pos": "n.",
+          "en": "violent and uncontrolled behaviour by a large group of people in a public place",
+          "zh": "暴乱，骚乱，群体性暴力事件",
+          "ctx": "法国多个城市发生的严重暴力冲突和大规模骚乱",
+          "ex1": "Several shops were forced to close after rioting spread through the city centre. 骚乱蔓延至市中心后，多家商店被迫关门。",
+          "ex2": "The government promised an independent investigation into the causes of the rioting. 政府承诺对骚乱的起因展开独立调查。"
+        },
+        {
+          "w": "target",
+          "ipa": "/ˈtɑːɡɪt/",
+          "pos": "v.",
+          "en": "to deliberately choose someone or something as the object of an attack or action",
+          "zh": "以……为目标，针对，袭击",
+          "ctx": "骚乱者将市政厅、公共建筑和大量商铺作为袭击目标",
+          "ex1": "Cybercriminals increasingly target small businesses with limited security resources. 网络犯罪分子越来越多地将安全资源有限的小企业作为攻击目标。",
+          "ex2": "The new policy specifically targets families struggling with rising housing costs. 这项新政策专门面向因住房成本上涨而陷入困境的家庭。"
+        },
+        {
+          "w": "prohibit",
+          "ipa": "/prəˈhɪbɪt/",
+          "pos": "v.",
+          "en": "to officially forbid something by law, rule or authority",
+          "zh": "禁止，不准许",
+          "ctx": "宵禁令明确禁止民众在规定时段进入或逗留在指定区域",
+          "ex1": "The new regulations prohibit smoking in all indoor public spaces. 新规定禁止在所有室内公共场所吸烟。",
+          "ex2": "Visitors are prohibited from entering the protected wildlife area without permission. 未经许可，游客不得进入野生动物保护区。"
+        },
+        {
+          "w": "be subject to",
+          "ipa": "/bi ˈsʌbdʒɪkt tə/",
+          "pos": "phr.",
+          "en": "to be likely to experience or be affected by something, especially something unpleasant",
+          "zh": "遭受，受到……影响，易受……侵害",
+          "ctx": "巴黎莱阿勒购物区已经遭到抢劫和洗劫",
+          "ex1": "Coastal communities are increasingly subject to severe flooding during storms. 沿海社区在风暴期间越来越容易遭受严重洪灾。",
+          "ex2": "Employees working under extreme pressure may be subject to considerable emotional stress. 在极端压力下工作的员工可能承受相当大的心理压力。"
+        }
+      ]
+    },
+    {
+      "en_html": "Earlier Monday, Prime Minister Sébastien Lecornu had <mark class=\"voc\">called for</mark> “very limited” and “<mark class=\"voc\">localized</mark>” curfews. In northern France, local authorities <mark class=\"voc\">imposed</mark> a curfew for children and teenagers under age 18 in several cities, including Lille. At least 2,400 people were <mark class=\"voc\">arrested</mark> across the country. Authorities estimated Monday that at least 3,000 businesses were damaged or looted in several cities.",
+      "zh": "周一早些时候，法国总理塞巴斯蒂安·勒科尔尼曾呼吁实施“范围非常有限”且“仅限于局部地区”的宵禁。在法国北部，包括里尔在内的多个城市，当地政府对18岁以下的儿童和青少年实施了宵禁。全国至少有2400人被逮捕。有关部门周一估计，多个城市至少有3000家商铺遭到破坏或洗劫。",
+      "notes": [
+        {
+          "w": "call for",
+          "ipa": "/kɔːl fɔː(r)/",
+          "pos": "phr. v.",
+          "en": "to publicly ask for or demand that something should happen",
+          "zh": "呼吁，要求，主张",
+          "ctx": "法国总理呼吁在必要地区实施有限范围的宵禁",
+          "ex1": "Environmental groups called for stricter regulations on industrial pollution. 环保组织呼吁对工业污染实施更严格的监管。",
+          "ex2": "Following the accident, residents called for an independent investigation. 事故发生后，居民呼吁开展独立调查。"
+        },
+        {
+          "w": "localized",
+          "ipa": "/ˈləʊkəlaɪzd/",
+          "pos": "adj.",
+          "en": "limited to a particular place or small area rather than affecting a large region",
+          "zh": "局部的，地方性的，限于特定区域的",
+          "ctx": "宵禁只针对发生严重骚乱的特定地区，而非全国范围",
+          "ex1": "The disease outbreak remained localized and did not spread to neighbouring cities. 疫情仍局限于当地，没有蔓延到邻近城市。",
+          "ex2": "Officials described the flooding as a localized problem affecting only a few streets. 官员表示，洪水只是局部问题，仅影响了几条街道。"
+        },
+        {
+          "w": "impose",
+          "ipa": "/ɪmˈpəʊz/",
+          "pos": "v.",
+          "en": "to officially introduce a rule, tax, restriction or punishment and make people obey it",
+          "zh": "实施，强制推行，施加",
+          "ctx": "法国北部多个城市的地方政府正式实施针对未成年人的宵禁",
+          "ex1": "The government imposed new restrictions on water consumption during the drought. 干旱期间，政府实施了新的用水限制。",
+          "ex2": "Several countries imposed additional taxes on imported luxury goods. 多个国家对进口奢侈品征收了额外税款。"
+        },
+        {
+          "w": "arrest",
+          "ipa": "/əˈrest/",
+          "pos": "v.",
+          "en": "to take someone into police custody because they are suspected of breaking the law",
+          "zh": "逮捕，拘捕",
+          "ctx": "法国警方在全国范围内逮捕了至少2400名涉事人员",
+          "ex1": "Police arrested three suspects following a lengthy investigation into the robbery. 经过对抢劫案的长期调查，警方逮捕了三名嫌疑人。",
+          "ex2": "The journalist was arrested while covering a demonstration in the capital. 这名记者在首都报道一场示威活动时被逮捕。"
+        }
+      ]
+    },
+    {
+      "en_html": "Flames <mark class=\"voc\">engulfed</mark> the 19th-century City Hall in Limoges, in central France, causing its roof to <mark class=\"voc\">collapse</mark> and nearly destroying the building. The previous day, at the end of the protest against the rising cost of living, which brought together 5,500 people in Limoges, a group attacked the east <mark class=\"voc\">wing</mark> of the city hall and started a fire. Within three hours, the roof of the historic building, <mark class=\"voc\">inaugurated</mark> in 1883 and <mark class=\"voc\">modeled after</mark> the Hôtel de Ville in Paris, was completely engulfed.",
+      "zh": "在法国中部城市利摩日，熊熊烈火吞噬了建于19世纪的市政厅，导致屋顶坍塌，整栋建筑几乎被毁。此前一天，一场反对生活成本上涨的抗议活动在利摩日举行，吸引了5500人参加。活动临近结束时，一群人袭击了市政厅的东翼并纵火。短短三个小时内，这座历史建筑的屋顶便被大火完全吞噬。该建筑于1883年落成，其设计仿照了巴黎市政厅。",
+      "notes": [
+        {
+          "w": "engulf",
+          "ipa": "/ɪnˈɡʌlf/",
+          "pos": "v.",
+          "en": "to completely surround or cover something, especially with fire, water or another powerful force",
+          "zh": "吞没，吞噬，完全包围",
+          "ctx": "猛烈的大火迅速吞噬了利摩日市政厅及其屋顶",
+          "ex1": "Within minutes, thick black smoke engulfed the entire apartment building. 短短几分钟内，浓浓的黑烟便吞没了整栋公寓楼。",
+          "ex2": "A wave of panic engulfed the crowd when the emergency alarm suddenly sounded. 紧急警报突然响起时，一阵恐慌席卷了人群。"
+        },
+        {
+          "w": "collapse",
+          "ipa": "/kəˈlæps/",
+          "pos": "v.",
+          "en": "to fall down suddenly because of damage, weakness or lack of support",
+          "zh": "倒塌，坍塌，崩溃",
+          "ctx": "利摩日市政厅的屋顶因严重火灾而坍塌",
+          "ex1": "The old bridge collapsed after days of exceptionally heavy rainfall. 连续数日的特大暴雨过后，这座老桥坍塌了。",
+          "ex2": "The company's financial structure collapsed under the pressure of mounting debt. 在不断增加的债务压力下，这家公司的财务体系崩溃了。"
+        },
+        {
+          "w": "wing",
+          "ipa": "/wɪŋ/",
+          "pos": "n.",
+          "en": "a section of a large building that extends from its main part",
+          "zh": "建筑物的侧翼，侧楼，翼楼",
+          "ctx": "利摩日市政厅遭到袭击并被纵火的东翼建筑",
+          "ex1": "The museum's newly renovated east wing will reopen to visitors next month. 博物馆新装修的东翼展区将于下个月重新向游客开放。",
+          "ex2": "The hospital plans to build a new wing dedicated to children's healthcare. 医院计划新建一栋专门用于儿童医疗的侧楼。"
+        },
+        {
+          "w": "inaugurate",
+          "ipa": "/ɪˈnɔːɡjəreɪt/",
+          "pos": "v.",
+          "en": "to officially open a building, institution or project with a ceremony",
+          "zh": "举行落成典礼，正式启用，为……揭幕",
+          "ctx": "利摩日市政厅于1883年正式落成并投入使用",
+          "ex1": "The president inaugurated the new railway station during a ceremony attended by hundreds of guests. 总统在数百名嘉宾出席的仪式上为新火车站揭幕。",
+          "ex2": "The university inaugurated its new research centre after five years of construction. 经过五年的建设，这所大学正式启用了新的研究中心。"
+        },
+        {
+          "w": "be modeled after",
+          "ipa": "/bi ˈmɒdld ˈɑːftə(r)/",
+          "pos": "phr.",
+          "en": "to be designed or created to resemble or follow the example of something else",
+          "zh": "仿照……设计，以……为原型",
+          "ctx": "利摩日市政厅的建筑设计以巴黎市政厅为原型",
+          "ex1": "The new library was modeled after traditional European reading rooms. 这座新图书馆仿照传统欧洲阅览室设计。",
+          "ex2": "The education programme was modeled after a successful initiative introduced in Finland. 这项教育计划借鉴了芬兰一项成功项目的模式。"
+        }
+      ]
+    },
+    {
+      "en_html": "“I was <mark class=\"voc\">horrified</mark>, but despite how violent what I saw was, I <mark class=\"voc\">couldn't bring myself to leave</mark>.” The day after the <mark class=\"voc\">arson</mark> attack, Anne, a 47-year-old teacher, returned to the site and said she was still “<mark class=\"voc\">dumbfounded</mark>.” Marine, 18, a literature student, <mark class=\"voc\">on the verge of</mark> tears, said she felt “heartbroken.” “I don't understand how things got to this point.” “Usually, our protests are always peaceful,” continued Anne, who joined the march at 2 pm. “There was some tension, we got a bit of <mark class=\"voc\">tear gas</mark>, but I never felt unsafe, and then at 3:30 pm, suddenly, things <mark class=\"voc\">deteriorated</mark>.” On Sunday evening, a <mark class=\"voc\">rally</mark> to <mark class=\"voc\">condemn</mark> the violence drew 7,000 people.",
+      "zh": "“我感到非常恐惧，但尽管眼前的一切如此暴力，我却怎么也无法让自己离开。”纵火袭击发生后的第二天，47岁的教师安妮再次回到现场。她说，自己至今仍然“震惊得说不出话来”。18岁的文学专业学生玛丽娜眼含泪水，表示自己感到“心碎”。“我不明白事情怎么会发展到这一步。”“通常，我们的抗议活动一直都是和平的。”下午2点参加游行的安妮继续说道，“当时现场有些紧张，我们也受到了一点催泪瓦斯的影响，但我从来没有觉得自己不安全。可到了下午3点半，情况突然急转直下。”周日晚上，一场谴责暴力行为的集会吸引了7000人参加。",
+      "notes": [
+        {
+          "w": "horrified",
+          "ipa": "/ˈhɒrɪfaɪd/",
+          "pos": "adj.",
+          "en": "extremely shocked, frightened or disgusted by something terrible",
+          "zh": "惊恐的，震骇的，极度震惊的",
+          "ctx": "安妮目睹市政厅遭到严重暴力破坏后感到极度惊恐",
+          "ex1": "Residents were horrified by the destruction caused by the sudden explosion. 居民们对突如其来的爆炸造成的破坏感到极度震惊。",
+          "ex2": "She was horrified to discover that someone had stolen her personal information. 发现有人窃取了自己的个人信息后，她惊恐万分。"
+        },
+        {
+          "w": "can't bring oneself to do sth.",
+          "ipa": "/kɑːnt brɪŋ wʌnˈself tə duː/",
+          "pos": "phr.",
+          "en": "to feel emotionally unable or unwilling to do something, even when one knows it may be necessary",
+          "zh": "无法说服自己做某事，实在不忍心做某事",
+          "ctx": "安妮虽然被眼前的暴力景象吓坏了，却始终无法让自己离开现场",
+          "ex1": "She couldn't bring herself to throw away the letters her grandmother had written. 她始终舍不得扔掉祖母写给她的信。",
+          "ex2": "Although he knew the decision was necessary, he couldn't bring himself to tell his colleagues the bad news. 尽管知道这个决定是必要的，他却怎么也无法开口告诉同事们这个坏消息。"
+        },
+        {
+          "w": "arson",
+          "ipa": "/ˈɑːsn/",
+          "pos": "n.",
+          "en": "the criminal act of deliberately setting fire to a building or property",
+          "zh": "纵火罪，蓄意纵火",
+          "ctx": "骚乱者故意点燃利摩日市政厅的纵火袭击",
+          "ex1": "Investigators suspected arson after discovering evidence of a deliberately started fire. 调查人员发现人为纵火的证据后，怀疑这是一起纵火案。",
+          "ex2": "The abandoned warehouse was destroyed in what police described as a suspected arson attack. 一座废弃仓库被烧毁，警方称这可能是一起纵火袭击。"
+        },
+        {
+          "w": "dumbfounded",
+          "ipa": "/dʌmˈfaʊndɪd/",
+          "pos": "adj.",
+          "en": "so surprised or shocked that one is unable to speak or react",
+          "zh": "目瞪口呆的，惊得说不出话的",
+          "ctx": "安妮面对历史市政厅被烧毁的惨状，仍然震惊得难以言语",
+          "ex1": "The researchers were dumbfounded when the experiment produced completely unexpected results. 实验出现完全出乎意料的结果时，研究人员惊得目瞪口呆。",
+          "ex2": "He stood dumbfounded as the judges announced that his small company had won the international award. 当评委宣布他的小公司获得国际大奖时，他站在原地，惊得说不出话来。"
+        },
+        {
+          "w": "on the verge of",
+          "ipa": "/ɒn ðə vɜːdʒ əv/",
+          "pos": "phr.",
+          "en": "very close to experiencing something or reaching a particular state",
+          "zh": "濒临，即将，处于……的边缘",
+          "ctx": "18岁的文学专业学生玛丽娜悲伤得几乎要哭出来",
+          "ex1": "After months of financial difficulties, the family business was on the verge of bankruptcy. 经历数月财务困难后，这家家族企业濒临破产。",
+          "ex2": "She was on the verge of tears when she heard the emotional farewell speech. 听到感人的告别演讲时，她几乎要落泪。"
+        },
+        {
+          "w": "tear gas",
+          "ipa": "/ˈtɪə ɡæs/",
+          "pos": "n.",
+          "en": "a chemical substance used by police or military forces to make people's eyes water and force crowds to disperse",
+          "zh": "催泪瓦斯，催泪气体",
+          "ctx": "法国警方在抗议现场使用的催泪瓦斯",
+          "ex1": "Police used tear gas to disperse the crowd after violence broke out near the government building. 政府大楼附近爆发暴力冲突后，警方使用催泪瓦斯驱散人群。",
+          "ex2": "Several demonstrators reported breathing difficulties after being exposed to tear gas. 几名示威者表示，接触催泪瓦斯后出现了呼吸困难。"
+        },
+        {
+          "w": "deteriorate",
+          "ipa": "/dɪˈtɪəriəreɪt/",
+          "pos": "v.",
+          "en": "to become progressively worse in quality, condition or seriousness",
+          "zh": "恶化，变糟，急转直下",
+          "ctx": "原本相对和平的抗议活动在下午3点半左右突然演变为严重骚乱",
+          "ex1": "Relations between the two countries deteriorated rapidly after the diplomatic dispute. 外交争端发生后，两国关系迅速恶化。",
+          "ex2": "The patient's condition began to deteriorate despite receiving immediate medical treatment. 尽管立即接受了治疗，患者的病情仍开始恶化。"
+        },
+        {
+          "w": "rally",
+          "ipa": "/ˈræli/",
+          "pos": "n.",
+          "en": "a large public meeting where people gather to express support for or opposition to something",
+          "zh": "集会，群众大会，示威集会",
+          "ctx": "7000名民众参加的谴责暴力行为的公众集会",
+          "ex1": "Thousands of residents attended a rally demanding stronger environmental protection. 数千名居民参加集会，要求加强环境保护。",
+          "ex2": "The student organization held a peaceful rally in support of better campus facilities. 学生组织举行了一场和平集会，支持改善校园设施。"
+        },
+        {
+          "w": "condemn",
+          "ipa": "/kənˈdem/",
+          "pos": "v.",
+          "en": "to express strong public disapproval of something, especially because it is morally wrong",
+          "zh": "谴责，强烈反对",
+          "ctx": "法国民众通过集会公开谴责纵火、抢劫及其他暴力行为",
+          "ex1": "International organizations condemned the attack on civilians and demanded an immediate investigation. 国际组织谴责针对平民的袭击，并要求立即展开调查。",
+          "ex2": "The university president condemned all forms of discrimination in a public statement. 大学校长在公开声明中谴责了一切形式的歧视。"
+        }
+      ]
+    },
+    {
+      "en_html": "On Monday, <mark class=\"voc\">cleanup crews</mark> and firefighters cleared <mark class=\"voc\">shattered</mark> glass and other <mark class=\"voc\">debris</mark> from the streets of Paris. Ouri Zagoury, owner of a video game shop near Paris’ Place de la République, said that he closed the store Saturday afternoon, but then saw looters <mark class=\"voc\">forcing their way in</mark> on <mark class=\"voc\">surveillance cameras</mark>. “There were so many people coming in and out. And even though I called the police, they said not to <mark class=\"voc\">intervene</mark>, that they would come, but they never did, which is another problem,” Zagoury said.",
+      "zh": "周一，清洁人员和消防员在巴黎街头清理碎玻璃及其他残骸。乌里·扎古里在巴黎共和国广场附近经营一家电子游戏商店。他说，自己周六下午关了店，但随后通过监控摄像头看到抢劫者强行闯入店内。“当时有太多人进进出出。虽然我报了警，但警方告诉我不要介入，说他们会赶过来，可他们始终没有出现。这又是另一个问题。”扎古里说道。",
+      "notes": [
+        {
+          "w": "cleanup crew",
+          "ipa": "/ˈkliːnʌp kruː/",
+          "pos": "n.",
+          "en": "a group of workers responsible for removing rubbish, debris or damage after an event or disaster",
+          "zh": "清理队，清洁工作人员",
+          "ctx": "骚乱结束后负责清理巴黎街头碎玻璃和残骸的工作人员",
+          "ex1": "Cleanup crews worked throughout the night to remove fallen trees from the roads. 清理人员彻夜工作，清除道路上倒下的树木。",
+          "ex2": "Specialized cleanup crews were sent to the coastal area after the oil spill. 漏油事故发生后，专业清理队被派往沿海地区。"
+        },
+        {
+          "w": "shattered",
+          "ipa": "/ˈʃætəd/",
+          "pos": "adj.",
+          "en": "broken into many small pieces, especially as a result of a violent impact",
+          "zh": "破碎的，粉碎的",
+          "ctx": "骚乱中商店橱窗和其他玻璃设施被砸碎后留下的碎玻璃",
+          "ex1": "Shattered windows covered the pavement after the powerful explosion. 剧烈爆炸后，破碎的窗玻璃散落在人行道上。",
+          "ex2": "Workers carefully removed the shattered glass from the damaged office building. 工人们小心地清理受损办公楼中的碎玻璃。"
+        },
+        {
+          "w": "debris",
+          "ipa": "/ˈdebriː/",
+          "pos": "n.",
+          "en": "scattered pieces of broken or destroyed material left after damage, destruction or an accident",
+          "zh": "残骸，碎片，瓦砾",
+          "ctx": "巴黎骚乱结束后遗留在街道上的各种破损物品和建筑碎片",
+          "ex1": "Rescue workers searched through the debris of the collapsed building for survivors. 救援人员在倒塌建筑的废墟中搜寻幸存者。",
+          "ex2": "Strong winds scattered branches and other debris across the highway. 强风将树枝和其他碎片吹得散落在公路上。"
+        },
+        {
+          "w": "force one's way in",
+          "ipa": "/fɔːs wʌnz weɪ ɪn/",
+          "pos": "phr.",
+          "en": "to enter a place by using physical strength or pushing past an obstacle",
+          "zh": "强行闯入，硬挤进去",
+          "ctx": "抢劫者不顾商店已经关闭，强行闯入电子游戏商店",
+          "ex1": "The burglars forced their way into the house by breaking the back door. 窃贼砸开后门，强行闯入了房屋。",
+          "ex2": "A group of impatient passengers tried to force their way onto the crowded train. 一群急躁的乘客试图强行挤上拥挤的列车。"
+        },
+        {
+          "w": "surveillance camera",
+          "ipa": "/səˈveɪləns ˈkæmərə/",
+          "pos": "n.",
+          "en": "a camera used to monitor and record activities in a particular place for security purposes",
+          "zh": "监控摄像头，安防摄像机",
+          "ctx": "店主用来远程查看商店遭到抢劫过程的监控设备",
+          "ex1": "Surveillance cameras captured the moment a suspicious vehicle entered the parking area. 监控摄像头拍下了一辆可疑车辆驶入停车场的瞬间。",
+          "ex2": "The shopping centre installed additional surveillance cameras to improve security. 购物中心安装了更多监控摄像头，以提高安全水平。"
+        },
+        {
+          "w": "intervene",
+          "ipa": "/ˌɪntəˈviːn/",
+          "pos": "v.",
+          "en": "to become involved in a situation in order to change what is happening or prevent something harmful",
+          "zh": "介入，干预，出面制止",
+          "ctx": "警方要求店主不要亲自介入或阻止抢劫者的行为",
+          "ex1": "The teacher intervened when an argument between two students became increasingly aggressive. 当两名学生之间的争吵越来越激烈时，老师出面进行了干预。",
+          "ex2": "The central bank decided to intervene in the currency market to prevent further instability. 中央银行决定干预外汇市场，以防止局势进一步动荡。"
+        }
+      ]
+    }
+  ]
+}

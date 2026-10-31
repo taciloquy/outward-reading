@@ -1,0 +1,885 @@
+{
+ "date": "2026-10-21",
+ "title_tag": "法国骚乱后续：巴黎开始宵禁、2400人被捕，这场残局该怎么收？政府为何没能提前阻止失控？—— 美国《美联社》外刊讲解第1204天",
+ "h1": "法国骚乱后续：巴黎开始宵禁、2400人被捕，这场残局该怎么收？政府为何没能提前阻止失控？",
+ "source_label": "The Associated Press",
+ "category": "美国《美联社》外刊讲解 第1204天",
+ "read_minutes": 18,
+ "nav_hint": "Paris police issue overnight curfew",
+ "headline": {
+  "en_html": "Paris police <mark class=\"voc\">issue</mark> overnight <mark class=\"voc\">curfew</mark> in 2 areas of French capital to try to prevent further <mark class=\"voc\">disorder</mark>",
+  "zh": "巴黎警方在首都两处地区实施夜间宵禁，以防止进一步发生骚乱",
+  "notes": [
+   {
+    "w": "issue",
+    "ipa": "/ˈɪʃuː/",
+    "pos": "v.",
+    "en": "to officially announce, publish or give an order, warning or statement",
+    "zh": "发布，颁布，正式发出",
+    "ctx": "巴黎警方正式发布夜间宵禁命令",
+    "ex1": "The government issued an emergency warning as the powerful storm approached the coast. 随着强风暴逼近海岸，政府发布了紧急预警。",
+    "ex2": "The university issued a statement explaining its decision to cancel the event. 大学发布声明，解释取消活动的决定。"
+   },
+   {
+    "w": "curfew",
+    "ipa": "/ˈkɜːfjuː/",
+    "pos": "n.",
+    "en": "a rule requiring people to stay indoors or return home by a particular time, especially at night",
+    "zh": "宵禁，宵禁令",
+    "ctx": "巴黎警方为防止骚乱进一步发生而实施的夜间人员活动限制",
+    "ex1": "The city imposed a midnight curfew following several nights of violent clashes. 在连续数晚发生暴力冲突后，该市实施了午夜宵禁。",
+    "ex2": "Residents were required to return home before the curfew came into effect. 居民被要求在宵禁生效前返回家中。"
+   },
+   {
+    "w": "disorder",
+    "ipa": "/dɪsˈɔːdə(r)/",
+    "pos": "n.",
+    "en": "violent or uncontrolled behaviour in public that disturbs peace and order",
+    "zh": "骚乱，混乱，公共秩序失控",
+    "ctx": "法国抗议活动期间发生的暴力冲突、抢劫及其他扰乱公共秩序的行为",
+    "ex1": "Police increased their presence in the city centre to prevent further public disorder. 警方加强了在市中心的部署，以防止进一步发生公共骚乱。",
+    "ex2": "The football match was followed by scenes of disorder outside the stadium. 足球比赛结束后，体育场外出现了混乱场面。"
+   }
+  ]
+ },
+ "paragraphs": [
+  {
+   "en_html": "PARIS (AP) — Paris police issued an overnight curfew on Monday in two areas of the French capital, after a weekend marred by France’s worst <mark class=\"voc\">rioting</mark> in years that <mark class=\"voc\">targeted</mark> city halls, other public buildings and thousands of businesses across the country. The order aims to protect “people and property from the violence and looting,” the Paris police statement said. The curfew <mark class=\"voc\">prohibits</mark> anyone from entering or remaining on the Place de la République, where rioting took place Saturday, and the shopping neighborhood of Les Halles, which has been <mark class=\"voc\">subject to</mark> looting.",
+   "zh": "巴黎（美联社）——周一，巴黎警方在法国首都的两个地区实施了夜间宵禁。此前的周末，法国爆发了多年来最严重的骚乱，全国各地的市政厅、其他公共建筑以及数千家商铺成为袭击目标，整个周末因此蒙上了阴影。巴黎警方在声明中表示，这项命令旨在保护“民众及其财产免受暴力和抢劫的侵害”。宵禁令禁止任何人进入或逗留在共和国广场以及莱阿勒购物区。前者在周六发生了骚乱，后者则遭到了洗劫。",
+   "notes": [
+    {
+     "w": "rioting",
+     "ipa": "/ˈraɪətɪŋ/",
+     "pos": "n.",
+     "en": "violent and uncontrolled behaviour by a large group of people in a public place",
+     "zh": "暴乱，骚乱，群体性暴力事件",
+     "ctx": "法国多个城市发生的严重暴力冲突和大规模骚乱",
+     "ex1": "Several shops were forced to close after rioting spread through the city centre. 骚乱蔓延至市中心后，多家商店被迫关门。",
+     "ex2": "The government promised an independent investigation into the causes of the rioting. 政府承诺对骚乱的起因展开独立调查。"
+    },
+    {
+     "w": "target",
+     "ipa": "/ˈtɑːɡɪt/",
+     "pos": "v.",
+     "en": "to deliberately choose someone or something as the object of an attack or action",
+     "zh": "以……为目标，针对，袭击",
+     "ctx": "骚乱者将市政厅、公共建筑和大量商铺作为袭击目标",
+     "ex1": "Cybercriminals increasingly target small businesses with limited security resources. 网络犯罪分子越来越多地将安全资源有限的小企业作为攻击目标。",
+     "ex2": "The new policy specifically targets families struggling with rising housing costs. 这项新政策专门面向因住房成本上涨而陷入困境的家庭。"
+    },
+    {
+     "w": "prohibit",
+     "ipa": "/prəˈhɪbɪt/",
+     "pos": "v.",
+     "en": "to officially forbid something by law, rule or authority",
+     "zh": "禁止，不准许",
+     "ctx": "宵禁令明确禁止民众在规定时段进入或逗留在指定区域",
+     "ex1": "The new regulations prohibit smoking in all indoor public spaces. 新规定禁止在所有室内公共场所吸烟。",
+     "ex2": "Visitors are prohibited from entering the protected wildlife area without permission. 未经许可，游客不得进入野生动物保护区。"
+    },
+    {
+     "w": "be subject to",
+     "ipa": "/bi ˈsʌbdʒɪkt tə/",
+     "pos": "phr.",
+     "en": "to be likely to experience or be affected by something, especially something unpleasant",
+     "zh": "遭受，受到……影响，易受……侵害",
+     "ctx": "巴黎莱阿勒购物区已经遭到抢劫和洗劫",
+     "ex1": "Coastal communities are increasingly subject to severe flooding during storms. 沿海社区在风暴期间越来越容易遭受严重洪灾。",
+     "ex2": "Employees working under extreme pressure may be subject to considerable emotional stress. 在极端压力下工作的员工可能承受相当大的心理压力。"
+    }
+   ]
+  },
+  {
+   "en_html": "Earlier Monday, Prime Minister Sébastien Lecornu had <mark class=\"voc\">called for</mark> “very limited” and “<mark class=\"voc\">localized</mark>” curfews. In northern France, local authorities <mark class=\"voc\">imposed</mark> a curfew for children and teenagers under age 18 in several cities, including Lille. At least 2,400 people were <mark class=\"voc\">arrested</mark> across the country. Authorities estimated Monday that at least 3,000 businesses were damaged or looted in several cities.",
+   "zh": "周一早些时候，法国总理塞巴斯蒂安·勒科尔尼曾呼吁实施“范围非常有限”且“仅限于局部地区”的宵禁。在法国北部，包括里尔在内的多个城市，当地政府对18岁以下的儿童和青少年实施了宵禁。全国至少有2400人被逮捕。有关部门周一估计，多个城市至少有3000家商铺遭到破坏或洗劫。",
+   "notes": [
+    {
+     "w": "call for",
+     "ipa": "/kɔːl fɔː(r)/",
+     "pos": "phr. v.",
+     "en": "to publicly ask for or demand that something should happen",
+     "zh": "呼吁，要求，主张",
+     "ctx": "法国总理呼吁在必要地区实施有限范围的宵禁",
+     "ex1": "Environmental groups called for stricter regulations on industrial pollution. 环保组织呼吁对工业污染实施更严格的监管。",
+     "ex2": "Following the accident, residents called for an independent investigation. 事故发生后，居民呼吁开展独立调查。"
+    },
+    {
+     "w": "localized",
+     "ipa": "/ˈləʊkəlaɪzd/",
+     "pos": "adj.",
+     "en": "limited to a particular place or small area rather than affecting a large region",
+     "zh": "局部的，地方性的，限于特定区域的",
+     "ctx": "宵禁只针对发生严重骚乱的特定地区，而非全国范围",
+     "ex1": "The disease outbreak remained localized and did not spread to neighbouring cities. 疫情仍局限于当地，没有蔓延到邻近城市。",
+     "ex2": "Officials described the flooding as a localized problem affecting only a few streets. 官员表示，洪水只是局部问题，仅影响了几条街道。"
+    },
+    {
+     "w": "impose",
+     "ipa": "/ɪmˈpəʊz/",
+     "pos": "v.",
+     "en": "to officially introduce a rule, tax, restriction or punishment and make people obey it",
+     "zh": "实施，强制推行，施加",
+     "ctx": "法国北部多个城市的地方政府正式实施针对未成年人的宵禁",
+     "ex1": "The government imposed new restrictions on water consumption during the drought. 干旱期间，政府实施了新的用水限制。",
+     "ex2": "Several countries imposed additional taxes on imported luxury goods. 多个国家对进口奢侈品征收了额外税款。"
+    },
+    {
+     "w": "arrest",
+     "ipa": "/əˈrest/",
+     "pos": "v.",
+     "en": "to take someone into police custody because they are suspected of breaking the law",
+     "zh": "逮捕，拘捕",
+     "ctx": "法国警方在全国范围内逮捕了至少2400名涉事人员",
+     "ex1": "Police arrested three suspects following a lengthy investigation into the robbery. 经过对抢劫案的长期调查，警方逮捕了三名嫌疑人。",
+     "ex2": "The journalist was arrested while covering a demonstration in the capital. 这名记者在首都报道一场示威活动时被逮捕。"
+    }
+   ]
+  },
+  {
+   "en_html": "Flames <mark class=\"voc\">engulfed</mark> the 19th-century City Hall in Limoges, in central France, causing its roof to <mark class=\"voc\">collapse</mark> and nearly destroying the building. The previous day, at the end of the protest against the rising cost of living, which brought together 5,500 people in Limoges, a group attacked the east <mark class=\"voc\">wing</mark> of the city hall and started a fire. Within three hours, the roof of the historic building, <mark class=\"voc\">inaugurated</mark> in 1883 and <mark class=\"voc\">modeled after</mark> the Hôtel de Ville in Paris, was completely engulfed.",
+   "zh": "在法国中部城市利摩日，熊熊烈火吞噬了建于19世纪的市政厅，导致屋顶坍塌，整栋建筑几乎被毁。此前一天，一场反对生活成本上涨的抗议活动在利摩日举行，吸引了5500人参加。活动临近结束时，一群人袭击了市政厅的东翼并纵火。短短三个小时内，这座历史建筑的屋顶便被大火完全吞噬。该建筑于1883年落成，其设计仿照了巴黎市政厅。",
+   "notes": [
+    {
+     "w": "engulf",
+     "ipa": "/ɪnˈɡʌlf/",
+     "pos": "v.",
+     "en": "to completely surround or cover something, especially with fire, water or another powerful force",
+     "zh": "吞没，吞噬，完全包围",
+     "ctx": "猛烈的大火迅速吞噬了利摩日市政厅及其屋顶",
+     "ex1": "Within minutes, thick black smoke engulfed the entire apartment building. 短短几分钟内，浓浓的黑烟便吞没了整栋公寓楼。",
+     "ex2": "A wave of panic engulfed the crowd when the emergency alarm suddenly sounded. 紧急警报突然响起时，一阵恐慌席卷了人群。"
+    },
+    {
+     "w": "collapse",
+     "ipa": "/kəˈlæps/",
+     "pos": "v.",
+     "en": "to fall down suddenly because of damage, weakness or lack of support",
+     "zh": "倒塌，坍塌，崩溃",
+     "ctx": "利摩日市政厅的屋顶因严重火灾而坍塌",
+     "ex1": "The old bridge collapsed after days of exceptionally heavy rainfall. 连续数日的特大暴雨过后，这座老桥坍塌了。",
+     "ex2": "The company's financial structure collapsed under the pressure of mounting debt. 在不断增加的债务压力下，这家公司的财务体系崩溃了。"
+    },
+    {
+     "w": "wing",
+     "ipa": "/wɪŋ/",
+     "pos": "n.",
+     "en": "a section of a large building that extends from its main part",
+     "zh": "建筑物的侧翼，侧楼，翼楼",
+     "ctx": "利摩日市政厅遭到袭击并被纵火的东翼建筑",
+     "ex1": "The museum's newly renovated east wing will reopen to visitors next month. 博物馆新装修的东翼展区将于下个月重新向游客开放。",
+     "ex2": "The hospital plans to build a new wing dedicated to children's healthcare. 医院计划新建一栋专门用于儿童医疗的侧楼。"
+    },
+    {
+     "w": "inaugurate",
+     "ipa": "/ɪˈnɔːɡjəreɪt/",
+     "pos": "v.",
+     "en": "to officially open a building, institution or project with a ceremony",
+     "zh": "举行落成典礼，正式启用，为……揭幕",
+     "ctx": "利摩日市政厅于1883年正式落成并投入使用",
+     "ex1": "The president inaugurated the new railway station during a ceremony attended by hundreds of guests. 总统在数百名嘉宾出席的仪式上为新火车站揭幕。",
+     "ex2": "The university inaugurated its new research centre after five years of construction. 经过五年的建设，这所大学正式启用了新的研究中心。"
+    },
+    {
+     "w": "be modeled after",
+     "ipa": "/bi ˈmɒdld ˈɑːftə(r)/",
+     "pos": "phr.",
+     "en": "to be designed or created to resemble or follow the example of something else",
+     "zh": "仿照……设计，以……为原型",
+     "ctx": "利摩日市政厅的建筑设计以巴黎市政厅为原型",
+     "ex1": "The new library was modeled after traditional European reading rooms. 这座新图书馆仿照传统欧洲阅览室设计。",
+     "ex2": "The education programme was modeled after a successful initiative introduced in Finland. 这项教育计划借鉴了芬兰一项成功项目的模式。"
+    }
+   ]
+  },
+  {
+   "en_html": "“I was <mark class=\"voc\">horrified</mark>, but despite how violent what I saw was, I <mark class=\"voc\">couldn't bring myself to leave</mark>.” The day after the <mark class=\"voc\">arson</mark> attack, Anne, a 47-year-old teacher, returned to the site and said she was still “<mark class=\"voc\">dumbfounded</mark>.” Marine, 18, a literature student, <mark class=\"voc\">on the verge of</mark> tears, said she felt “heartbroken.” “I don't understand how things got to this point.” “Usually, our protests are always peaceful,” continued Anne, who joined the march at 2 pm. “There was some tension, we got a bit of <mark class=\"voc\">tear gas</mark>, but I never felt unsafe, and then at 3:30 pm, suddenly, things <mark class=\"voc\">deteriorated</mark>.” On Sunday evening, a <mark class=\"voc\">rally</mark> to <mark class=\"voc\">condemn</mark> the violence drew 7,000 people.",
+   "zh": "“我感到非常恐惧，但尽管眼前的一切如此暴力，我却怎么也无法让自己离开。”纵火袭击发生后的第二天，47岁的教师安妮再次回到现场。她说，自己至今仍然“震惊得说不出话来”。18岁的文学专业学生玛丽娜眼含泪水，表示自己感到“心碎”。“我不明白事情怎么会发展到这一步。”“通常，我们的抗议活动一直都是和平的。”下午2点参加游行的安妮继续说道，“当时现场有些紧张，我们也受到了一点催泪瓦斯的影响，但我从来没有觉得自己不安全。可到了下午3点半，情况突然急转直下。”周日晚上，一场谴责暴力行为的集会吸引了7000人参加。",
+   "notes": [
+    {
+     "w": "horrified",
+     "ipa": "/ˈhɒrɪfaɪd/",
+     "pos": "adj.",
+     "en": "extremely shocked, frightened or disgusted by something terrible",
+     "zh": "惊恐的，震骇的，极度震惊的",
+     "ctx": "安妮目睹市政厅遭到严重暴力破坏后感到极度惊恐",
+     "ex1": "Residents were horrified by the destruction caused by the sudden explosion. 居民们对突如其来的爆炸造成的破坏感到极度震惊。",
+     "ex2": "She was horrified to discover that someone had stolen her personal information. 发现有人窃取了自己的个人信息后，她惊恐万分。"
+    },
+    {
+     "w": "can't bring oneself to do sth.",
+     "ipa": "/kɑːnt brɪŋ wʌnˈself tə duː/",
+     "pos": "phr.",
+     "en": "to feel emotionally unable or unwilling to do something, even when one knows it may be necessary",
+     "zh": "无法说服自己做某事，实在不忍心做某事",
+     "ctx": "安妮虽然被眼前的暴力景象吓坏了，却始终无法让自己离开现场",
+     "ex1": "She couldn't bring herself to throw away the letters her grandmother had written. 她始终舍不得扔掉祖母写给她的信。",
+     "ex2": "Although he knew the decision was necessary, he couldn't bring himself to tell his colleagues the bad news. 尽管知道这个决定是必要的，他却怎么也无法开口告诉同事们这个坏消息。"
+    },
+    {
+     "w": "arson",
+     "ipa": "/ˈɑːsn/",
+     "pos": "n.",
+     "en": "the criminal act of deliberately setting fire to a building or property",
+     "zh": "纵火罪，蓄意纵火",
+     "ctx": "骚乱者故意点燃利摩日市政厅的纵火袭击",
+     "ex1": "Investigators suspected arson after discovering evidence of a deliberately started fire. 调查人员发现人为纵火的证据后，怀疑这是一起纵火案。",
+     "ex2": "The abandoned warehouse was destroyed in what police described as a suspected arson attack. 一座废弃仓库被烧毁，警方称这可能是一起纵火袭击。"
+    },
+    {
+     "w": "dumbfounded",
+     "ipa": "/dʌmˈfaʊndɪd/",
+     "pos": "adj.",
+     "en": "so surprised or shocked that one is unable to speak or react",
+     "zh": "目瞪口呆的，惊得说不出话的",
+     "ctx": "安妮面对历史市政厅被烧毁的惨状，仍然震惊得难以言语",
+     "ex1": "The researchers were dumbfounded when the experiment produced completely unexpected results. 实验出现完全出乎意料的结果时，研究人员惊得目瞪口呆。",
+     "ex2": "He stood dumbfounded as the judges announced that his small company had won the international award. 当评委宣布他的小公司获得国际大奖时，他站在原地，惊得说不出话来。"
+    },
+    {
+     "w": "on the verge of",
+     "ipa": "/ɒn ðə vɜːdʒ əv/",
+     "pos": "phr.",
+     "en": "very close to experiencing something or reaching a particular state",
+     "zh": "濒临，即将，处于……的边缘",
+     "ctx": "18岁的文学专业学生玛丽娜悲伤得几乎要哭出来",
+     "ex1": "After months of financial difficulties, the family business was on the verge of bankruptcy. 经历数月财务困难后，这家家族企业濒临破产。",
+     "ex2": "She was on the verge of tears when she heard the emotional farewell speech. 听到感人的告别演讲时，她几乎要落泪。"
+    },
+    {
+     "w": "tear gas",
+     "ipa": "/ˈtɪə ɡæs/",
+     "pos": "n.",
+     "en": "a chemical substance used by police or military forces to make people's eyes water and force crowds to disperse",
+     "zh": "催泪瓦斯，催泪气体",
+     "ctx": "法国警方在抗议现场使用的催泪瓦斯",
+     "ex1": "Police used tear gas to disperse the crowd after violence broke out near the government building. 政府大楼附近爆发暴力冲突后，警方使用催泪瓦斯驱散人群。",
+     "ex2": "Several demonstrators reported breathing difficulties after being exposed to tear gas. 几名示威者表示，接触催泪瓦斯后出现了呼吸困难。"
+    },
+    {
+     "w": "deteriorate",
+     "ipa": "/dɪˈtɪəriəreɪt/",
+     "pos": "v.",
+     "en": "to become progressively worse in quality, condition or seriousness",
+     "zh": "恶化，变糟，急转直下",
+     "ctx": "原本相对和平的抗议活动在下午3点半左右突然演变为严重骚乱",
+     "ex1": "Relations between the two countries deteriorated rapidly after the diplomatic dispute. 外交争端发生后，两国关系迅速恶化。",
+     "ex2": "The patient's condition began to deteriorate despite receiving immediate medical treatment. 尽管立即接受了治疗，患者的病情仍开始恶化。"
+    },
+    {
+     "w": "rally",
+     "ipa": "/ˈræli/",
+     "pos": "n.",
+     "en": "a large public meeting where people gather to express support for or opposition to something",
+     "zh": "集会，群众大会，示威集会",
+     "ctx": "7000名民众参加的谴责暴力行为的公众集会",
+     "ex1": "Thousands of residents attended a rally demanding stronger environmental protection. 数千名居民参加集会，要求加强环境保护。",
+     "ex2": "The student organization held a peaceful rally in support of better campus facilities. 学生组织举行了一场和平集会，支持改善校园设施。"
+    },
+    {
+     "w": "condemn",
+     "ipa": "/kənˈdem/",
+     "pos": "v.",
+     "en": "to express strong public disapproval of something, especially because it is morally wrong",
+     "zh": "谴责，强烈反对",
+     "ctx": "法国民众通过集会公开谴责纵火、抢劫及其他暴力行为",
+     "ex1": "International organizations condemned the attack on civilians and demanded an immediate investigation. 国际组织谴责针对平民的袭击，并要求立即展开调查。",
+     "ex2": "The university president condemned all forms of discrimination in a public statement. 大学校长在公开声明中谴责了一切形式的歧视。"
+    }
+   ]
+  },
+  {
+   "en_html": "On Monday, <mark class=\"voc\">cleanup crews</mark> and firefighters cleared <mark class=\"voc\">shattered</mark> glass and other <mark class=\"voc\">debris</mark> from the streets of Paris. Ouri Zagoury, owner of a video game shop near Paris’ Place de la République, said that he closed the store Saturday afternoon, but then saw looters <mark class=\"voc\">forcing their way in</mark> on <mark class=\"voc\">surveillance cameras</mark>. “There were so many people coming in and out. And even though I called the police, they said not to <mark class=\"voc\">intervene</mark>, that they would come, but they never did, which is another problem,” Zagoury said.",
+   "zh": "周一，清洁人员和消防员在巴黎街头清理碎玻璃及其他残骸。乌里·扎古里在巴黎共和国广场附近经营一家电子游戏商店。他说，自己周六下午关了店，但随后通过监控摄像头看到抢劫者强行闯入店内。“当时有太多人进进出出。虽然我报了警，但警方告诉我不要介入，说他们会赶过来，可他们始终没有出现。这又是另一个问题。”扎古里说道。",
+   "notes": [
+    {
+     "w": "cleanup crew",
+     "ipa": "/ˈkliːnʌp kruː/",
+     "pos": "n.",
+     "en": "a group of workers responsible for removing rubbish, debris or damage after an event or disaster",
+     "zh": "清理队，清洁工作人员",
+     "ctx": "骚乱结束后负责清理巴黎街头碎玻璃和残骸的工作人员",
+     "ex1": "Cleanup crews worked throughout the night to remove fallen trees from the roads. 清理人员彻夜工作，清除道路上倒下的树木。",
+     "ex2": "Specialized cleanup crews were sent to the coastal area after the oil spill. 漏油事故发生后，专业清理队被派往沿海地区。"
+    },
+    {
+     "w": "shattered",
+     "ipa": "/ˈʃætəd/",
+     "pos": "adj.",
+     "en": "broken into many small pieces, especially as a result of a violent impact",
+     "zh": "破碎的，粉碎的",
+     "ctx": "骚乱中商店橱窗和其他玻璃设施被砸碎后留下的碎玻璃",
+     "ex1": "Shattered windows covered the pavement after the powerful explosion. 剧烈爆炸后，破碎的窗玻璃散落在人行道上。",
+     "ex2": "Workers carefully removed the shattered glass from the damaged office building. 工人们小心地清理受损办公楼中的碎玻璃。"
+    },
+    {
+     "w": "debris",
+     "ipa": "/ˈdebriː/",
+     "pos": "n.",
+     "en": "scattered pieces of broken or destroyed material left after damage, destruction or an accident",
+     "zh": "残骸，碎片，瓦砾",
+     "ctx": "巴黎骚乱结束后遗留在街道上的各种破损物品和建筑碎片",
+     "ex1": "Rescue workers searched through the debris of the collapsed building for survivors. 救援人员在倒塌建筑的废墟中搜寻幸存者。",
+     "ex2": "Strong winds scattered branches and other debris across the highway. 强风将树枝和其他碎片吹得散落在公路上。"
+    },
+    {
+     "w": "force one's way in",
+     "ipa": "/fɔːs wʌnz weɪ ɪn/",
+     "pos": "phr.",
+     "en": "to enter a place by using physical strength or pushing past an obstacle",
+     "zh": "强行闯入，硬挤进去",
+     "ctx": "抢劫者不顾商店已经关闭，强行闯入电子游戏商店",
+     "ex1": "The burglars forced their way into the house by breaking the back door. 窃贼砸开后门，强行闯入了房屋。",
+     "ex2": "A group of impatient passengers tried to force their way onto the crowded train. 一群急躁的乘客试图强行挤上拥挤的列车。"
+    },
+    {
+     "w": "surveillance camera",
+     "ipa": "/səˈveɪləns ˈkæmərə/",
+     "pos": "n.",
+     "en": "a camera used to monitor and record activities in a particular place for security purposes",
+     "zh": "监控摄像头，安防摄像机",
+     "ctx": "店主用来远程查看商店遭到抢劫过程的监控设备",
+     "ex1": "Surveillance cameras captured the moment a suspicious vehicle entered the parking area. 监控摄像头拍下了一辆可疑车辆驶入停车场的瞬间。",
+     "ex2": "The shopping centre installed additional surveillance cameras to improve security. 购物中心安装了更多监控摄像头，以提高安全水平。"
+    },
+    {
+     "w": "intervene",
+     "ipa": "/ˌɪntəˈviːn/",
+     "pos": "v.",
+     "en": "to become involved in a situation in order to change what is happening or prevent something harmful",
+     "zh": "介入，干预，出面制止",
+     "ctx": "警方要求店主不要亲自介入或阻止抢劫者的行为",
+     "ex1": "The teacher intervened when an argument between two students became increasingly aggressive. 当两名学生之间的争吵越来越激烈时，老师出面进行了干预。",
+     "ex2": "The central bank decided to intervene in the currency market to prevent further instability. 中央银行决定干预外汇市场，以防止局势进一步动荡。"
+    }
+   ]
+  },
+  {
+   "en_html": "Interior Minister Laurent Nuñez <mark class=\"voc\">offered his resignation</mark> Sunday. But President Emmanuel Macron refused it “<mark class=\"voc\">given</mark> the need for continued <mark class=\"voc\">command</mark> of law enforcement in the current context,” Macron’s office said. He <mark class=\"voc\">instructed</mark> Nuñez “to take all necessary steps to ensure full <mark class=\"voc\">transparency</mark> about the failures in planning and <mark class=\"voc\">intelligence-gathering</mark> that led to the violence.” Nuñez <mark class=\"voc\">acknowledged</mark> that authorities had “<mark class=\"voc\">lost control</mark>” in some major cities on Saturday. “You can’t <mark class=\"voc\">look shopkeepers in the eye</mark> when hundreds of businesses have been looted and say we haven’t lost control in some of these major cities,” Nuñez said.",
+   "zh": "周日，法国内政部长洛朗·努涅斯提出辞职。但马克龙总统拒绝了他的辞呈。总统办公室表示，这是“考虑到当前局势下，执法部门仍需要持续而统一的指挥”。马克龙指示努涅斯“采取一切必要措施，确保对导致暴力事件发生的行动规划及情报收集工作中的失误进行充分、透明的说明”。努涅斯承认，周六当局在一些主要城市已经“失去了控制”。他说：“当数百家商铺遭到洗劫时，你不可能直视店主的眼睛，却还告诉他们，我们在这些大城市中的一些地方没有失去控制。”",
+   "notes": [
+    {
+     "w": "offer one's resignation",
+     "ipa": "/ˈɒfə wʌnz ˌrezɪɡˈneɪʃn/",
+     "pos": "phr.",
+     "en": "to formally express a willingness or intention to leave an official position or job",
+     "zh": "提出辞职，递交辞呈",
+     "ctx": "法国内政部长因严重骚乱和治安失控问题向总统提出辞职",
+     "ex1": "The transport minister offered his resignation following widespread criticism of the railway disaster. 铁路灾难引发广泛批评后，交通部长提出辞职。",
+     "ex2": "The chief executive offered her resignation after the company reported enormous financial losses. 公司公布巨额财务亏损后，首席执行官提出辞职。"
+    },
+    {
+     "w": "given",
+     "ipa": "/ˈɡɪvn/",
+     "pos": "prep.",
+     "en": "considering or taking into account a particular situation or fact",
+     "zh": "考虑到，鉴于",
+     "ctx": "马克龙考虑到当前仍需要有人持续指挥执法工作，因此拒绝内政部长辞职",
+     "ex1": "Given the severe weather conditions, the organizers decided to postpone the outdoor concert. 考虑到恶劣的天气条件，组织者决定推迟户外音乐会。",
+     "ex2": "Given the importance of the negotiations, both sides agreed to extend the discussions. 鉴于谈判的重要性，双方同意延长磋商。"
+    },
+    {
+     "w": "command",
+     "ipa": "/kəˈmɑːnd/",
+     "pos": "n.",
+     "en": "the authority or responsibility to direct and control people, especially in the military or police",
+     "zh": "指挥权，指挥，领导",
+     "ctx": "当前法国执法部门仍需要持续稳定的统一指挥",
+     "ex1": "The senior officer took command of the rescue operation after the earthquake. 地震发生后，这名高级军官接管了救援行动的指挥工作。",
+     "ex2": "Effective command is essential when emergency teams are responding to a major disaster. 应急队伍应对重大灾难时，有效的指挥至关重要。"
+    },
+    {
+     "w": "instruct",
+     "ipa": "/ɪnˈstrʌkt/",
+     "pos": "v.",
+     "en": "to officially tell someone to do something, especially when one has authority over them",
+     "zh": "指示，命令，吩咐",
+     "ctx": "马克龙正式指示内政部长采取措施，调查并公开相关失误",
+     "ex1": "The prime minister instructed officials to prepare an emergency response plan. 总理指示官员制定紧急应对计划。",
+     "ex2": "The court instructed the company to release the relevant financial documents. 法院命令该公司公开相关财务文件。"
+    },
+    {
+     "w": "transparency",
+     "ipa": "/trænsˈpærənsi/",
+     "pos": "n.",
+     "en": "the quality of being open and honest, allowing people to understand decisions, actions and processes",
+     "zh": "透明度，公开性，信息透明",
+     "ctx": "马克龙要求公开说明警方在骚乱前的行动规划和情报收集工作中存在的失误",
+     "ex1": "Citizens demanded greater transparency in the government's use of public funds. 公民要求政府在使用公共资金方面提高透明度。",
+     "ex2": "The company promised full transparency during the investigation into the safety incident. 公司承诺在安全事故调查期间保持完全透明。"
+    },
+    {
+     "w": "intelligence-gathering",
+     "ipa": "/ɪnˈtelɪdʒəns ˌɡæðərɪŋ/",
+     "pos": "n.",
+     "en": "the process of collecting and analysing information, especially about possible threats or security risks",
+     "zh": "情报收集，情报搜集工作",
+     "ctx": "法国执法部门在骚乱发生前搜集、分析潜在暴力风险信息的工作",
+     "ex1": "Effective intelligence-gathering helped security agencies identify potential threats before the summit. 有效的情报收集帮助安全机构在峰会前识别潜在威胁。",
+     "ex2": "The investigation revealed serious weaknesses in the organization's intelligence-gathering procedures. 调查揭示了该机构情报收集程序中的严重缺陷。"
+    },
+    {
+     "w": "acknowledge",
+     "ipa": "/əkˈnɒlɪdʒ/",
+     "pos": "v.",
+     "en": "to accept or admit that something is true, especially when it is unpleasant or difficult",
+     "zh": "承认，认可，正视",
+     "ctx": "内政部长公开承认警方在部分法国主要城市已经失去控制",
+     "ex1": "The company acknowledged that mistakes had been made during the product development process. 公司承认在产品研发过程中出现了失误。",
+     "ex2": "The president acknowledged the public's growing frustration over rising living costs. 总统承认公众对生活成本上涨的不满情绪日益加剧。"
+    },
+    {
+     "w": "lose control",
+     "ipa": "/luːz kənˈtrəʊl/",
+     "pos": "phr.",
+     "en": "to become unable to manage, direct or contain a situation",
+     "zh": "失去控制，无法掌控局面",
+     "ctx": "法国警方无法有效控制部分主要城市发生的大规模暴力和抢劫",
+     "ex1": "The authorities lost control of the crowd when thousands of people rushed toward the stadium gates. 数千人冲向体育场大门时，当局失去了对人群的控制。",
+     "ex2": "The situation quickly became dangerous after the organizers lost control of the event. 组织者失去对活动的控制后，局势迅速变得危险。"
+    },
+    {
+     "w": "look someone in the eye",
+     "ipa": "/lʊk ˈsʌmwʌn ɪn ði aɪ/",
+     "pos": "phr.",
+     "en": "to look directly at someone, especially when speaking honestly or facing a difficult truth",
+     "zh": "直视某人的眼睛，坦然面对某人",
+     "ctx": "内政部长认为，在数百家商铺被洗劫的情况下，政府无法面对受害店主却否认治安失控",
+     "ex1": "He looked his employees in the eye and admitted that the company had made serious mistakes. 他直视员工的眼睛，承认公司犯下了严重错误。",
+     "ex2": "She couldn't look her friend in the eye after breaking an important promise. 违背重要承诺后，她不敢直视朋友的眼睛。"
+    }
+   ]
+  },
+  {
+   "en_html": "The protests in France began last month at high schools in Paris' working-class northern suburbs, where anger over teacher shortages and <mark class=\"voc\">shabby</mark> facilities <mark class=\"voc\">evolved into</mark> a broader movement. France's extremely <mark class=\"voc\">strained</mark> <mark class=\"voc\">public finances</mark> mean the government <mark class=\"voc\">has precious little room for</mark> broader measures to <mark class=\"voc\">address</mark> protesters' anger over the rising cost of living. The government has so far not <mark class=\"voc\">committed to</mark> a <mark class=\"voc\">substantial</mark> increase in funding for schools. However, it has <mark class=\"voc\">pledged</mark> to send some 3,000 teachers, who are fully qualified but have not yet started work, to <mark class=\"voc\">fill staffing gaps</mark>.",
+   "zh": "法国的抗议活动始于上个月巴黎北部工人阶级聚居的郊区高中。最初，学生们因教师短缺和学校设施破旧而感到愤怒，随后抗议逐渐演变为一场范围更广的社会运动。法国公共财政已经极度紧张，这意味着政府几乎没有多少财政空间采取更大范围的措施，来回应抗议者对生活成本上涨的不满。到目前为止，政府尚未承诺大幅增加学校经费。不过，政府已承诺调派约3000名已经取得完整任教资格、但尚未正式上岗的教师，以填补师资缺口。",
+   "notes": [
+    {
+     "w": "shabby",
+     "ipa": "/ˈʃæbi/",
+     "pos": "adj.",
+     "en": "in poor condition because of age, heavy use or lack of proper care",
+     "zh": "破旧的，破败的，维护不善的",
+     "ctx": "法国部分高中校舍和教学设施陈旧破损、维护不足",
+     "ex1": "Students complained about the shabby classrooms and outdated equipment in their school. 学生们抱怨学校教室破旧、设备过时。",
+     "ex2": "The once-elegant hotel had become shabby after years of poor maintenance. 这家曾经优雅的酒店因多年缺乏维护而变得破败不堪。"
+    },
+    {
+     "w": "evolve into",
+     "ipa": "/ɪˈvɒlv ˈɪntə/",
+     "pos": "phr. v.",
+     "en": "to gradually develop or change into something different, often more complex",
+     "zh": "逐渐演变为，发展成为",
+     "ctx": "最初围绕教师短缺和学校条件的学生抗议逐渐发展成全国性的社会运动",
+     "ex1": "What began as a small community project eventually evolved into a nationwide environmental campaign. 一项最初规模很小的社区项目最终发展成了一场全国性的环保运动。",
+     "ex2": "Their informal discussions gradually evolved into a long-term business partnership. 他们最初的非正式讨论逐渐发展成了长期商业合作关系。"
+    },
+    {
+     "w": "strained",
+     "ipa": "/streɪnd/",
+     "pos": "adj.",
+     "en": "under great pressure and having difficulty meeting demands or functioning effectively",
+     "zh": "紧张的，承受巨大压力的，捉襟见肘的",
+     "ctx": "法国公共财政状况极度紧张，政府缺乏足够资金回应民众诉求",
+     "ex1": "The country's strained healthcare system is struggling to cope with an ageing population. 该国承受巨大压力的医疗体系正艰难应对人口老龄化问题。",
+     "ex2": "Relations between the two companies became increasingly strained after the contract dispute. 合同纠纷发生后，两家公司的关系日益紧张。"
+    },
+    {
+     "w": "public finances",
+     "ipa": "/ˌpʌblɪk ˈfaɪnænsɪz/",
+     "pos": "n.",
+     "en": "the money a government receives, spends and manages, including taxes, public spending and debt",
+     "zh": "公共财政，政府财政状况",
+     "ctx": "法国政府收入、支出和债务构成的财政体系正面临巨大压力",
+     "ex1": "Rising debt payments have placed additional pressure on the country's public finances. 不断增加的债务偿付支出给该国公共财政带来了额外压力。",
+     "ex2": "The finance minister warned that large tax cuts could weaken public finances. 财政部长警告称，大规模减税可能削弱公共财政状况。"
+    },
+    {
+     "w": "have little room for",
+     "ipa": "/hæv ˈlɪtl ruːm fɔː(r)/",
+     "pos": "phr.",
+     "en": "to have very limited ability, opportunity or freedom to do something",
+     "zh": "几乎没有余地，缺乏空间",
+     "ctx": "法国政府由于财政紧张，几乎没有空间推出更大规模的经济援助措施",
+     "ex1": "With operating costs already extremely high, the company has little room for further price reductions. 由于运营成本已经极高，这家公司几乎没有进一步降价的空间。",
+     "ex2": "The government has little room for additional spending without increasing public debt. 如果不增加公共债务，政府几乎没有额外支出的空间。"
+    },
+    {
+     "w": "address",
+     "ipa": "/əˈdres/",
+     "pos": "v.",
+     "en": "to deal with a problem, concern or difficult situation",
+     "zh": "处理，应对，设法解决",
+     "ctx": "法国政府需要回应并解决民众对生活成本上涨的不满",
+     "ex1": "The city introduced new housing policies to address the shortage of affordable apartments. 该市推出新的住房政策，以解决经济适用住房短缺问题。",
+     "ex2": "The company must address employees' concerns about workplace safety. 公司必须解决员工对工作场所安全的担忧。"
+    },
+    {
+     "w": "commit to",
+     "ipa": "/kəˈmɪt tə/",
+     "pos": "phr. v.",
+     "en": "to promise or firmly agree to do something or provide resources for a particular purpose",
+     "zh": "承诺，保证，致力于",
+     "ctx": "法国政府尚未正式承诺大幅增加学校教育经费",
+     "ex1": "The government committed to reducing carbon emissions over the next decade. 政府承诺在未来十年减少碳排放。",
+     "ex2": "The company has committed to investing more money in employee training. 公司已承诺投入更多资金用于员工培训。"
+    },
+    {
+     "w": "substantial",
+     "ipa": "/səbˈstænʃl/",
+     "pos": "adj.",
+     "en": "large in amount, size, value or importance",
+     "zh": "大量的，可观的，重大的",
+     "ctx": "政府尚未承诺对学校经费进行大幅度增加",
+     "ex1": "The research project received substantial financial support from several international organizations. 这项研究项目获得了多个国际组织的大量资金支持。",
+     "ex2": "The new transport system is expected to bring substantial improvements to daily commuting. 新交通系统预计将显著改善日常通勤状况。"
+    },
+    {
+     "w": "pledge",
+     "ipa": "/pledʒ/",
+     "pos": "v.",
+     "en": "to make a serious or formal promise to do something",
+     "zh": "郑重承诺，保证，发誓",
+     "ctx": "法国政府承诺调派约3000名合格教师填补学校师资缺口",
+     "ex1": "The mayor pledged to improve public transport services before the next election. 市长承诺在下次选举前改善公共交通服务。",
+     "ex2": "Several technology companies pledged to strengthen the protection of users' personal data. 多家科技公司承诺加强对用户个人数据的保护。"
+    },
+    {
+     "w": "fill staffing gaps",
+     "ipa": "/fɪl ˈstɑːfɪŋ ɡæps/",
+     "pos": "phr.",
+     "en": "to provide enough workers to cover positions where employees are missing or insufficient",
+     "zh": "填补人员缺口，弥补人手不足",
+     "ctx": "法国政府计划安排约3000名合格教师上岗，以缓解学校师资短缺",
+     "ex1": "The hospital recruited retired nurses to fill staffing gaps during the winter emergency. 医院聘请退休护士，以填补冬季紧急时期的人员缺口。",
+     "ex2": "Several schools hired temporary teachers to fill staffing gaps before the new academic year. 多所学校在新学年开始前聘请临时教师，以弥补师资缺口。"
+    }
+   ]
+  },
+  {
+   "en_html": "The unrest will likely <mark class=\"voc\">deal a blow to</mark> <mark class=\"voc\">business confidence</mark>, which is already <mark class=\"voc\">fragile</mark> due to a <mark class=\"voc\">fiscal crisis</mark> and high energy prices resulting from the Iran war. The <mark class=\"voc\">minority government</mark> is struggling to pass <mark class=\"voc\">spending cuts</mark> in France's <mark class=\"voc\">deeply divided</mark> parliament as part of its 2027 budget. The unrest has <mark class=\"voc\">weighed on</mark> French stocks and the euro and put pressure on French <mark class=\"voc\">government bonds</mark>. “Le Pen no longer needs to spend any money to campaign,” Jean-Baptiste Moreau, a former lawmaker from Macron's <mark class=\"voc\">camp</mark>, told Reuters. “It's not just <mark class=\"voc\">a clear path ahead</mark> of her, it's a six-lane highway.”",
+   "zh": "这场社会动荡很可能进一步打击商业信心。而受财政危机以及伊朗战争导致的高能源价格影响，法国的商业信心原本就已经十分脆弱。作为2027年预算案的一部分，法国少数派政府正艰难地试图在严重分裂的议会中推动削减公共开支的措施。骚乱已经对法国股市和欧元造成压力，同时也使法国政府债券承压。来自马克龙阵营的前议员让-巴蒂斯特·莫罗告诉路透社：“勒庞现在甚至不需要再花钱竞选了。摆在她面前的已经不只是一条畅通无阻的道路，而是一条六车道高速公路。”",
+   "notes": [
+    {
+     "w": "deal a blow to",
+     "ipa": "/diːl ə bləʊ tə/",
+     "pos": "phr.",
+     "en": "to seriously damage or weaken something, such as confidence, hopes, plans or an economy",
+     "zh": "对……造成沉重打击，严重削弱",
+     "ctx": "法国骚乱可能进一步严重打击本就脆弱的商业信心",
+     "ex1": "The sudden collapse of the negotiations dealt a major blow to hopes for a peace agreement. 谈判突然破裂，给达成和平协议的希望造成了沉重打击。",
+     "ex2": "The unexpected factory closure dealt a serious blow to the local economy. 工厂意外关闭给当地经济造成了严重打击。"
+    },
+    {
+     "w": "business confidence",
+     "ipa": "/ˈbɪznəs ˈkɒnfɪdəns/",
+     "pos": "n.",
+     "en": "the degree of optimism businesses have about future economic conditions and their own performance",
+     "zh": "商业信心，企业信心",
+     "ctx": "法国企业对未来经济环境、经营前景和投资机会的信心",
+     "ex1": "Business confidence improved after the central bank announced measures to stabilize financial markets. 中央银行宣布稳定金融市场的措施后，企业信心有所改善。",
+     "ex2": "Persistent political uncertainty has weakened business confidence and discouraged investment. 持续的政治不确定性削弱了商业信心，并抑制了投资。"
+    },
+    {
+     "w": "fragile",
+     "ipa": "/ˈfrædʒaɪl/",
+     "pos": "adj.",
+     "en": "easily damaged, weakened or destroyed, especially because of instability or weakness",
+     "zh": "脆弱的，不稳定的，易受冲击的",
+     "ctx": "法国商业信心原本就受到财政危机和能源价格上涨的影响，十分脆弱",
+     "ex1": "The country's fragile economic recovery could be threatened by another rise in energy prices. 该国脆弱的经济复苏可能受到能源价格再次上涨的威胁。",
+     "ex2": "Trust between the two communities remained fragile after years of conflict. 经历多年冲突后，两个社区之间的信任仍然十分脆弱。"
+    },
+    {
+     "w": "fiscal crisis",
+     "ipa": "/ˈfɪskl ˈkraɪsɪs/",
+     "pos": "n.",
+     "en": "a serious situation in which a government faces major problems managing its revenue, spending or debt",
+     "zh": "财政危机",
+     "ctx": "法国政府面临公共债务、财政赤字及预算压力等严重财政问题",
+     "ex1": "The government introduced emergency spending controls to prevent a deeper fiscal crisis. 政府推出紧急支出管控措施，以防止财政危机进一步恶化。",
+     "ex2": "A prolonged fiscal crisis could reduce the country's ability to invest in healthcare and education. 长期财政危机可能削弱该国投资医疗和教育的能力。"
+    },
+    {
+     "w": "minority government",
+     "ipa": "/maɪˈnɒrəti ˈɡʌvənmənt/",
+     "pos": "n.",
+     "en": "a government formed by a political party or coalition that does not hold a majority of seats in parliament",
+     "zh": "少数派政府",
+     "ctx": "法国执政阵营未掌握议会过半数席位，导致预算改革难以推进",
+     "ex1": "The minority government needed support from opposition parties to pass the annual budget. 少数派政府需要反对党的支持才能通过年度预算。",
+     "ex2": "Political analysts warned that the minority government might struggle to survive a confidence vote. 政治分析人士警告称，少数派政府可能难以通过信任投票。"
+    },
+    {
+     "w": "spending cuts",
+     "ipa": "/ˈspendɪŋ kʌts/",
+     "pos": "n.",
+     "en": "reductions in the amount of money spent by a government, organization or business",
+     "zh": "削减开支，支出削减",
+     "ctx": "法国政府试图在2027年预算中实施的公共财政支出削减措施",
+     "ex1": "The proposed spending cuts sparked protests among teachers and healthcare workers. 拟议中的支出削减措施引发了教师和医护人员的抗议。",
+     "ex2": "The university announced spending cuts after experiencing a significant decline in funding. 由于经费大幅减少，大学宣布削减开支。"
+    },
+    {
+     "w": "deeply divided",
+     "ipa": "/ˈdiːpli dɪˈvaɪdɪd/",
+     "pos": "adj.",
+     "en": "having serious disagreements or opposing opinions that make cooperation difficult",
+     "zh": "严重分裂的，分歧极大的",
+     "ctx": "法国议会内部政治立场严重对立，难以就预算削减达成一致",
+     "ex1": "The deeply divided parliament failed to reach an agreement on the proposed reforms. 严重分裂的议会未能就拟议改革达成一致。",
+     "ex2": "The issue has left the community deeply divided over the future of the development project. 这一问题使社区在开发项目的未来方向上产生了严重分歧。"
+    },
+    {
+     "w": "weigh on",
+     "ipa": "/weɪ ɒn/",
+     "pos": "phr. v.",
+     "en": "to negatively affect something, especially by reducing confidence, value or performance",
+     "zh": "拖累，对……造成压力，压制",
+     "ctx": "法国骚乱对法国股市和欧元的市场表现造成负面影响",
+     "ex1": "Concerns about slowing economic growth continued to weigh on global stock markets. 对经济增长放缓的担忧持续拖累全球股市。",
+     "ex2": "High borrowing costs have weighed on consumer spending and business investment. 高借贷成本抑制了消费者支出和企业投资。"
+    },
+    {
+     "w": "government bond",
+     "ipa": "/ˈɡʌvənmənt bɒnd/",
+     "pos": "n.",
+     "en": "a financial security issued by a government to borrow money from investors",
+     "zh": "政府债券，国债",
+     "ctx": "法国政府发行的债券受到政治动荡和财政担忧的影响",
+     "ex1": "Investors purchased government bonds as they searched for relatively stable assets. 投资者为了寻找相对稳定的资产而购买政府债券。",
+     "ex2": "Rising government bond yields can increase the cost of borrowing for a country. 政府债券收益率上升可能增加一个国家的借贷成本。"
+    },
+    {
+     "w": "camp",
+     "ipa": "/kæmp/",
+     "pos": "n.",
+     "en": "a group of people who share similar political beliefs, interests or loyalties",
+     "zh": "阵营，派别，政治集团",
+     "ctx": "支持马克龙及其政治路线的政治阵营",
+     "ex1": "Several senior politicians from the president's camp opposed the proposed tax increase. 总统阵营中的几位高级政客反对拟议中的增税措施。",
+     "ex2": "The party has become divided into two competing camps over its future direction. 该党围绕未来发展方向分裂成了两个相互竞争的阵营。"
+    },
+    {
+     "w": "a clear path ahead",
+     "ipa": "/ə klɪə pɑːθ əˈhed/",
+     "pos": "phr.",
+     "en": "a situation in which there are few obstacles preventing someone from achieving a goal",
+     "zh": "前途畅通无阻，前方障碍很少",
+     "ctx": "法国政治动荡可能使勒庞在未来政治竞争中获得更加有利的局面",
+     "ex1": "After its main competitor withdrew, the company had a clear path ahead in the negotiations. 主要竞争对手退出后，这家公司在谈判中几乎没有了障碍。",
+     "ex2": "With strong public support and little opposition, the reform proposal appeared to have a clear path ahead. 由于获得强大的公众支持且反对声音很少，这项改革提案似乎前景十分顺利。"
+    }
+   ]
+  },
+  {
+   "en_html": "Some protesters have already called for <mark class=\"voc\">a new round of</mark> demonstrations on Saturday, October 24. Unions have called for strikes on November 5 to protest budget cuts and support <mark class=\"voc\">hiking</mark> wages. The weekend violence has largely <mark class=\"voc\">eclipsed</mark> the recent high school student protests. Schools are now <mark class=\"voc\">on a break</mark> for two weeks, but there have been reports of protests at some universities. While mayors of France's biggest cities <mark class=\"voc\">demanded answers</mark> from the government over what they say was a lack of preparation, authorities <mark class=\"voc\">rushed to</mark> <mark class=\"voc\">set up</mark> support measures for impacted businesses and <mark class=\"voc\">bolster</mark> security as <mark class=\"voc\">calm</mark> returned to the streets.",
+   "zh": "一些抗议者已经呼吁在10月24日星期六举行新一轮示威活动。工会则号召于11月5日举行罢工，以抗议预算削减，并支持提高工资。周末发生的暴力事件已经在很大程度上掩盖了近期高中生抗议活动原本受到的关注。目前，法国学校正进入为期两周的假期，但已有报道称，部分大学仍然出现了抗议活动。法国一些最大城市的市长要求政府就他们所认为的准备不足作出解释。与此同时，随着街头逐渐恢复平静，当局正加紧为受影响的企业制定援助措施，并加强安全保障。",
+   "notes": [
+    {
+     "w": "a new round of",
+     "ipa": "/ə njuː raʊnd əv/",
+     "pos": "phr.",
+     "en": "another period or series of activities, discussions or events of the same kind",
+     "zh": "新一轮的，又一轮的",
+     "ctx": "部分抗议者计划于10月24日再次组织大规模示威活动",
+     "ex1": "The two countries agreed to begin a new round of peace negotiations next month. 两国同意下个月启动新一轮和平谈判。",
+     "ex2": "The company announced a new round of hiring to support its international expansion. 公司宣布启动新一轮招聘，以支持国际业务扩张。"
+    },
+    {
+     "w": "hike",
+     "ipa": "/haɪk/",
+     "pos": "v.",
+     "en": "to increase something, especially prices, wages, taxes or interest rates, often by a large amount",
+     "zh": "大幅提高，提高，增加",
+     "ctx": "法国工会要求政府和雇主提高劳动者工资",
+     "ex1": "The company decided to hike salaries to attract more experienced engineers. 公司决定提高工资，以吸引更多有经验的工程师。",
+     "ex2": "The government faced criticism after announcing plans to hike fuel taxes. 政府宣布计划提高燃油税后遭到了批评。"
+    },
+    {
+     "w": "eclipse",
+     "ipa": "/ɪˈklɪps/",
+     "pos": "v.",
+     "en": "to make something seem less important or noticeable by attracting more attention",
+     "zh": "使黯然失色，掩盖，盖过",
+     "ctx": "周末严重的暴力骚乱抢走了公众注意力，使原本的高中生抗议诉求受到忽视",
+     "ex1": "The corruption scandal completely eclipsed the government's achievements in education reform. 腐败丑闻完全掩盖了政府在教育改革方面取得的成就。",
+     "ex2": "The unexpected controversy eclipsed what should have been a celebration of the athlete's success. 突如其来的争议盖过了原本应该庆祝这名运动员成功的喜悦。"
+    },
+    {
+     "w": "on a break",
+     "ipa": "/ɒn ə breɪk/",
+     "pos": "phr.",
+     "en": "temporarily not working, studying or taking part in regular activities because of a holiday or rest period",
+     "zh": "处于假期中，正在休假，暂时停课",
+     "ctx": "法国学校进入为期两周的假期，学生暂时不需要正常上课",
+     "ex1": "The university students are on a break before the start of the spring semester. 大学生们正在春季学期开学前休假。",
+     "ex2": "The research team is on a short break after completing the first stage of the project. 研究团队完成项目第一阶段后，正在短暂休整。"
+    },
+    {
+     "w": "demand answers",
+     "ipa": "/dɪˈmɑːnd ˈɑːnsəz/",
+     "pos": "phr.",
+     "en": "to insist that someone provide an explanation or account for a problem, failure or decision",
+     "zh": "要求解释，要求给出交代",
+     "ctx": "法国主要城市的市长要求政府解释为何未能提前做好应对骚乱的准备",
+     "ex1": "Residents demanded answers from local officials after the drinking water supply was contaminated. 饮用水受到污染后，居民要求当地官员作出解释。",
+     "ex2": "Families demanded answers about the safety failures that had led to the tragic accident. 遇难者家属要求有关方面就导致悲剧的安全失误给出交代。"
+    },
+    {
+     "w": "rush to do sth.",
+     "ipa": "/rʌʃ tə duː/",
+     "pos": "phr.",
+     "en": "to do something very quickly because it is urgent or needs immediate attention",
+     "zh": "急忙做某事，赶紧采取行动",
+     "ctx": "法国当局在骚乱结束后迅速采取措施，帮助受损企业并加强治安",
+     "ex1": "Hospitals rushed to prepare additional beds as the number of patients increased sharply. 随着患者人数急剧增加，医院赶紧准备更多床位。",
+     "ex2": "The government rushed to introduce emergency assistance after the devastating floods. 毁灭性洪灾发生后，政府迅速推出紧急援助措施。"
+    },
+    {
+     "w": "set up",
+     "ipa": "/set ʌp/",
+     "pos": "phr. v.",
+     "en": "to establish, organize or arrange something so that it can begin operating",
+     "zh": "建立，设立，安排",
+     "ctx": "法国当局紧急设立针对受损企业的援助措施",
+     "ex1": "The charity set up temporary shelters for families displaced by the earthquake. 慈善机构为因地震流离失所的家庭设立了临时避难所。",
+     "ex2": "The local government set up a special fund to support struggling small businesses. 当地政府设立了一项专项基金，以支持陷入困境的小企业。"
+    },
+    {
+     "w": "bolster",
+     "ipa": "/ˈbəʊlstə(r)/",
+     "pos": "v.",
+     "en": "to strengthen or improve something by providing additional support",
+     "zh": "加强，巩固，增强",
+     "ctx": "法国当局在骚乱后增加安保力量，以加强公共安全",
+     "ex1": "The company introduced new training programmes to bolster employees' professional skills. 公司推出新的培训计划，以提升员工的专业技能。",
+     "ex2": "The government deployed additional officers to bolster security around major public buildings. 政府增派警力，以加强主要公共建筑周边的安全保障。"
+    },
+    {
+     "w": "calm",
+     "ipa": "/kɑːm/",
+     "pos": "n.",
+     "en": "a peaceful situation in which there is little noise, excitement, violence or disorder",
+     "zh": "平静，安宁，平稳状态",
+     "ctx": "经历严重骚乱后，法国城市街头逐渐恢复的平静秩序",
+     "ex1": "A sense of calm gradually returned to the neighbourhood after the emergency was resolved. 紧急事件得到解决后，社区逐渐恢复了平静。",
+     "ex2": "Officials appealed for calm as tensions between the two groups continued to rise. 随着两个群体之间的紧张局势持续升级，官员呼吁民众保持冷静。"
+    }
+   ]
+  }
+ ],
+ "proper": [
+  {
+   "name": "巴黎共和国广场（Place de la République）",
+   "def": "位于巴黎市中心偏东，是巴黎重要的公共空间与政治集会地点；广场中央矗立着象征法兰西共和国的玛丽安娜雕像，因交通便利、空间开阔，长期是示威游行、政治集会与公众悼念的举办地。<br>本文中的意思：第 1 段被宵禁点名禁入的广场，周六的骚乱就发生在这里。"
+  },
+  {
+   "name": "莱阿勒（Les Halles）",
+   "def": "巴黎市中心的商业与交通枢纽，历史上曾是巴黎最著名的中央食品批发市场，因此被称为巴黎的“肚腹”；20 世纪市场迁出后发展为大型购物中心与地铁、区域快铁换乘站，人流极密。<br>本文中的意思：它与共和国广场一起被列入宵禁范围，因遭到洗劫而成为第二个禁区。"
+  },
+  {
+   "name": "法国宵禁制度（Curfew）",
+   "def": "宵禁是政府或执法机关在特定时间、特定区域内限制人员外出、聚集或进入公共场所的措施；法国在社会骚乱与公共卫生紧急事件中都曾使用，其限制范围、适用人群与法律依据并不相同。<br>本文中的意思：本文的宵禁不是全城封锁，而是只针对巴黎两个街区的定点限制。"
+  },
+  {
+   "name": "法国总理与总统的职责",
+   "def": "法国实行半总统制：总统是国家元首，由全民直选产生；总理领导政府工作、协调各部委落实政策，由总统任命，但政府必须考虑国民议会的政治力量分布。当议会多数派与总统阵营不一致时，行政决策与立法协调都会更加困难。<br>本文中的意思：总理勒科尔尼只能“呼吁”有限宵禁，具体措施由地方当局落地，这正是半总统制下的权责分工。"
+  },
+  {
+   "name": "法国地方治安管理与未成年人宵禁",
+   "def": "法国公共安全由中央政府、地方行政机关与不同执法机构分担，国家警察、国家宪兵与地方政府各在权限内承担治安职责；针对未成年人的宵禁属于特定地区、特定时段的限制措施，须有相应法律依据并受必要性与比例原则约束。<br>本文中的意思：北部多个城市对 18 岁以下未成年人实施宵禁，就是这类地方性、时段性措施。"
+  },
+  {
+   "name": "利摩日（Limoges）",
+   "def": "位于法国中部偏西的上维埃纳省，是利穆赞地区的重要文化中心，自 18 世纪起以瓷器制造闻名欧洲，城中保留大量历史建筑与文化遗产。<br>本文中的意思：市政厅被烧，损失的不只是一栋政府办公楼，还有这座城市的历史文化遗产。"
+  },
+  {
+   "name": "利摩日市政厅（Hôtel de Ville de Limoges）",
+   "def": "1883 年 7 月 14 日落成，由建筑师夏尔-阿尔弗雷德·勒克莱尔设计，风格融合文艺复兴晚期与路易十三时期元素，并借鉴了巴黎市政厅的设计；石材立面与中央钟楼是它的标志。<br>本文中的意思：这座 1883 年落成、仿巴黎市政厅而建的历史建筑，屋顶在火灾中坍塌，几近被毁。"
+  },
+  {
+   "name": "法国市政厅的象征意义（Hôtel de Ville）",
+   "def": "在法国，Hôtel de Ville 指市政厅而非酒店，它既是市政府办公地，也是举行公共仪式、市民活动与地方政治会议的场所；既承担行政功能，也象征地方自治、共和制度与城市的公共生活。<br>本文中的意思：正因市政厅是共和国的象征，针对它的袭击才具有超出普通财产破坏的政治意味。"
+  },
+  {
+   "name": "法国的抗议文化（Protest Culture）",
+   "def": "法国的街头示威传统可追溯到 1789 年大革命及此后多次社会运动，示威、罢工与公众集会是民众表达政治诉求、争取劳动权益、影响公共政策的重要方式；法律保护和平集会与表达自由，但不包括纵火、抢劫与攻击他人等暴力行为。<br>本文中的意思：理解这场骚乱的前提，是把和平示威与违法暴力分开看——受访者反复强调“我们的抗议一直是和平的”。"
+  },
+  {
+   "name": "法国的催泪瓦斯与人群管控（Tear Gas and Crowd Control）",
+   "def": "催泪瓦斯是用于驱散人群、控制现场局势的化学刺激剂，接触后可能引起流泪、眼部刺痛、咳嗽与呼吸不适；法国警方在大规模示威中可以使用，但须遵守法律及必要性、比例性要求，其使用也经常成为公共讨论的争议问题。<br>本文中的意思：抗议者说“受了点催泪瓦斯，但从没觉得不安全”，可见催泪瓦斯在法国街头是常规手段。"
+  },
+  {
+   "name": "法国国家警察与国家宪兵（Police Nationale and Gendarmerie Nationale）",
+   "def": "法国有两支国家级治安力量：国家警察属文职警察体系，主要负责城市地区的公共安全；国家宪兵具军事身份，主要负责乡村、城郊及部分其他地区。两者均受内政部管理，在重大公共活动、犯罪调查与维护社会秩序中相互配合。<br>本文中的意思：应对这种跨城市的大规模骚乱需要多支力量同时调动，也就更考验统一指挥。"
+  },
+  {
+   "name": "法国警方的公共安全职责（Public Security）",
+   "def": "警方职责包括保护人员与财产安全、预防和调查犯罪、维护公共秩序；大规模骚乱中既要应对暴力冲突，也要保护商铺、公共建筑与普通居民，而多点同时告急时，人员部署、情报判断与响应速度都会吃紧。<br>本文中的意思：店主报警却始终等不到警察，正是公众质疑执法部门应急能力的直接来源。"
+  },
+  {
+   "name": "法国内政部长（Minister of the Interior）",
+   "def": "内政部长是政府中负责国内安全事务的重要官员，职责涉及国家警察、国家宪兵、公共秩序以及部分行政管理工作；发生严重骚乱时须协调执法力量并向政府与公众解释有关行动，因此其表现容易成为政治争议与问责的焦点。<br>本文中的意思：努涅斯请辞被拒、又被要求交代规划与情报失误，正是这一角色的问责压力。"
+  },
+  {
+   "name": "埃马纽埃尔·马克龙（Emmanuel Macron）",
+   "def": "法国政治人物，曾担任经济部长，2017 年首次当选总统，2022 年获得连任；主张推动经济改革、增强法国及欧洲的竞争力，任内也出现过围绕养老金改革、生活成本与社会不平等等问题的大规模抗议。<br>本文中的意思：他拒绝内政部长辞呈、要求调查执法失误，体现总统对危机处理的直接介入。"
+  },
+  {
+   "name": "情报收集与政府透明度（Intelligence-gathering and Transparency）",
+   "def": "情报收集是公共安全管理的重要环节，包括识别潜在威胁、分析风险信息，以及帮助有关部门提前安排人员与资源；政府透明度则要求公共机构对决策、行动与失误作出必要说明并接受监督。<br>本文中的意思：马克龙要求“充分透明”地说明规划与情报失误，等于承认这场骚乱本可更早预见。"
+  },
+  {
+   "name": "巴黎北部郊区与社会经济差异（Northern Suburbs of Paris）",
+   "def": "巴黎北部部分郊区工薪阶层居民较多，也存在收入较低、公共服务压力较大的社区；但郊区之间经济条件差异很大，不能一概视为贫困地区，部分社区的教育资源、就业机会、住房条件与社会融合长期受到关注。<br>本文中的意思：抗议从这里的高中开始，说明校舍与师资问题可以成为更大范围社会不满的起点。"
+  },
+  {
+   "name": "法国公立教育与教师短缺（Public Education and Teacher Shortages）",
+   "def": "法国公立中小学教育主要由国家和地方公共机构共同支持，教师招聘、任用及教育政策在很大程度上由国家教育体系负责；不同地区学校可能面临招聘困难、人员配置不均与设施维护不足，教师短缺会加剧地区间的教育机会差距。<br>本文中的意思：政府只承诺调派 3000 名已取得资格、尚未上岗的教师，正是“缺口大、手段少”的写照。"
+  },
+  {
+   "name": "法国公共财政与政府预算（Public Finances and Government Budget）",
+   "def": "公共财政主要涉及政府税收、公共支出、财政赤字与债务；长期支出超过收入，就需要通过借款或调整财政政策弥补缺口。法国须在教育、医疗、养老金、公共安全等领域分配资金，财政紧张会让政策选择更加困难。<br>本文中的意思：财政没有余量，是政府无法用“更大范围措施”回应生活成本不满的根本原因。"
+  },
+  {
+   "name": "少数派政府与法国议会（Minority Government and Parliament）",
+   "def": "少数派政府指执政党或执政联盟在议会中未掌握过半数席位；法国国民议会是重要立法机构，政府推动预算与改革通常需要争取足够议会支持，议会内部力量分散、立场对立时，削减支出、调整税收等争议措施就很难过关。<br>本文中的意思：2027 年预算里的削减开支卡在议会，与这种政治结构直接相关。"
+  },
+  {
+   "name": "玛丽娜·勒庞（Marine Le Pen）",
+   "def": "法国国民联盟的重要政治人物，长期活跃于右翼民粹主义与民族主义政治领域，多次参加总统选举；主张涉及移民限制、国家主权、购买力与公共安全等议题。<br>本文中的意思：前议员用“六车道高速公路”形容她可能获得的政治机会，这是一种比喻性判断，并不意味着选举结果已经确定。"
+  },
+  {
+   "name": "法国国债、欧元与商业信心（Government Bonds, Euro and Business Confidence）",
+   "def": "政府债券是国家向投资者借款时发行的金融工具，价格与收益率受利率、财政状况及政治风险影响；欧元是法国使用的共同货币，汇率受经济数据与市场预期影响；商业信心则反映企业对未来经营环境、需求与投资前景的判断。<br>本文中的意思：骚乱同时压住股市、欧元与国债，说明市场把街头秩序读成了财政与政治风险。"
+  },
+  {
+   "name": "法国工会与罢工制度（Trade Unions and Strikes）",
+   "def": "法国工会是代表劳动者权益的重要社会组织，围绕工资、工作条件、养老金与公共政策开展集体谈判与社会动员；法律保护罢工权，但不同行业及公共服务领域适用不同程序与限制，法国工会也有组织跨行业集体行动的传统。<br>本文中的意思：工会把 11 月 5 日的罢工与预算削减、加薪绑在一起，让街头运动延伸到劳资议题。"
+  },
+  {
+   "name": "经济援助与骚乱后的恢复措施（Business Support and Recovery Measures）",
+   "def": "大规模骚乱结束后，地方政府与中央政府可能采取清理街道、修复公共设施、加强警力部署，以及协助受损商家处理保险、融资与经营恢复等措施；对小商铺而言，损失不只是被盗商品与损坏门窗，还包括停业期间失去的收入。<br>本文中的意思：当局一边设立援助措施、一边加强安保，正是“先止血、再善后”的恢复逻辑。"
+  }
+ ],
+ "sources_note": "资料核对：以上背景依据文章内容，并参考美联社（AP）报道、巴黎警察局与法国内政部公开声明、法国政府 2027 年预算相关公开信息，以及法国国民议会与教育部公开资料，截至 2026 年 10 月。",
+ "practice": {
+  "intro": "请根据今天学习的外刊，把下面的中文句子翻译成英文。要求：尽量用上括号里的提示词，可以适当改变词形，但不要直接照抄原文。",
+  "items": [
+   "法国爆发严重骚乱后，巴黎警方在部分地区实施夜间宵禁，以防止进一步发生暴力和抢劫。（issue / overnight curfew / disorder / looting）",
+   "在利摩日，一座历史悠久的市政厅遭到纵火，大火吞噬了建筑，导致屋顶坍塌。（arson / engulf / collapse）",
+   "许多居民对暴力事件感到震惊，一些商铺遭到洗劫，街道上留下了大量碎玻璃和残骸。（horrified / dumbfounded / looter / debris）",
+   "法国内政部长承认，警方在部分城市已经失去控制。政府承诺调查相关失误，提高透明度。（acknowledge / lose control / intelligence-gathering / transparency）",
+   "这场社会动荡可能进一步打击法国本就脆弱的商业信心。政府正努力加强治安，并帮助受影响的企业。（unrest / deal a blow to / fragile / bolster / support measures）"
+  ],
+  "critical_en": "When a state fails to protect shops and city halls, should the blame fall on the police, on budget cuts, or on the protesters themselves?",
+  "critical_zh": "当国家没能保护好商铺和市政厅时，责任该算在警察头上、算在财政削减头上，还是算在抗议者自己头上？",
+  "answer": "1. After serious riots broke out across France, Paris police issued an overnight curfew to prevent further disorder and looting.<br><br>2. In Limoges, an arson attack engulfed the historic city hall, causing its roof to collapse.<br><br>3. Many residents were horrified by the violence, while shopkeepers suffered heavy losses.<br><br>4. The interior minister acknowledged that police had lost control in some cities and promised greater transparency.<br><br>5. The unrest could deal a blow to France’s already fragile business confidence. As calm gradually returned, authorities worked to bolster security and provide support measures for damaged businesses."
+ },
+ "mindmap": {
+  "aria": "法国骚乱后续：巴黎宵禁与 2400 人被捕文章思维导图",
+  "alt": "法国骚乱与巴黎宵禁（矢量版）",
+  "svg": "<svg viewBox=\"0 0 960 720\" xmlns=\"http://www.w3.org/2000/svg\" role=\"img\" aria-label=\"法国骚乱后续：巴黎宵禁与 2400 人被捕文章思维导图\" style=\"width:100%;height:auto;font-family:-apple-system,'PingFang SC','Hiragino Sans GB','Microsoft YaHei',sans-serif\">\n        <rect x=\"24\" y=\"306\" width=\"176\" height=\"88\" rx=\"14\" fill=\"#eae3d2\" stroke=\"#9a8f76\"/>\n        <text x=\"112\" y=\"342\" text-anchor=\"middle\" fill=\"#3d3a34\" font-size=\"17\" font-weight=\"700\">法国骚乱后续</text>\n        <text x=\"112\" y=\"368\" text-anchor=\"middle\" fill=\"#5c5648\" font-size=\"12.5\">巴黎宵禁与失控的残局</text>\n\n        <path d=\"M200,350 C232,350 232,88 260,88\"  stroke=\"#6b8f71\" stroke-width=\"2\" fill=\"none\"/>\n        <path d=\"M200,350 C232,350 232,238 260,238\" stroke=\"#7d98ad\" stroke-width=\"2\" fill=\"none\"/>\n        <path d=\"M200,350 C232,350 232,433 260,433\" stroke=\"#bd7a6d\" stroke-width=\"2\" fill=\"none\"/>\n        <path d=\"M200,350 C232,350 232,628 260,628\" stroke=\"#9b86b3\" stroke-width=\"2\" fill=\"none\"/>\n\n        <g class=\"mm-branch\" data-target=\"bc1\">\n          <rect x=\"260\" y=\"71\" width=\"190\" height=\"34\" rx=\"8\" fill=\"#e6efe7\" stroke=\"#6b8f71\"/>\n          <text x=\"349\" y=\"93\" text-anchor=\"middle\" fill=\"#4c6b52\" font-size=\"15\" font-weight=\"700\">宵禁、逮捕与纵火（¶1–3）</text>\n          <text class=\"mm-arrow\" data-for=\"bc1\" x=\"442\" y=\"93\" text-anchor=\"end\" fill=\"#4c6b52\">▾</text>\n        </g>\n        <g class=\"mm-children\" id=\"bc1\">\n          <path d=\"M450,88 C462,88 462,46 480,46\" stroke=\"#6b8f71\" stroke-width=\"1.5\" fill=\"none\"/>\n          <path d=\"M450,88 C462,88 462,88 480,88\" stroke=\"#6b8f71\" stroke-width=\"1.5\" fill=\"none\"/>\n          <path d=\"M450,88 C462,88 462,130 480,130\" stroke=\"#6b8f71\" stroke-width=\"1.5\" fill=\"none\"/>\n          <rect x=\"480\" y=\"30\" width=\"456\" height=\"32\" rx=\"8\" fill=\"#e6efe7\"/><text x=\"492\" y=\"51\" fill=\"#3d3a34\" font-size=\"14\">巴黎两区夜间宵禁：禁入共和国广场与莱阿勒</text>\n          <rect x=\"480\" y=\"72\" width=\"456\" height=\"32\" rx=\"8\" fill=\"#e6efe7\"/><text x=\"492\" y=\"93\" fill=\"#3d3a34\" font-size=\"14\">全国至少 2400 人被捕，3000 家商铺受损</text>\n          <rect x=\"480\" y=\"114\" width=\"456\" height=\"32\" rx=\"8\" fill=\"#e6efe7\"/><text x=\"492\" y=\"135\" fill=\"#3d3a34\" font-size=\"14\">利摩日 19 世纪市政厅遭纵火，屋顶坍塌</text>\n        </g>\n\n        <g class=\"mm-branch\" data-target=\"bc2\">\n          <rect x=\"260\" y=\"221\" width=\"190\" height=\"34\" rx=\"8\" fill=\"#e5edf4\" stroke=\"#7d98ad\"/>\n          <text x=\"349\" y=\"243\" text-anchor=\"middle\" fill=\"#3d5872\" font-size=\"15\" font-weight=\"700\">目击者与店主（¶4–5）</text>\n          <text class=\"mm-arrow\" data-for=\"bc2\" x=\"442\" y=\"243\" text-anchor=\"end\" fill=\"#3d5872\">▾</text>\n        </g>\n        <g class=\"mm-children\" id=\"bc2\">\n          <path d=\"M450,238 C462,238 462,196 480,196\" stroke=\"#7d98ad\" stroke-width=\"1.5\" fill=\"none\"/>\n          <path d=\"M450,238 C462,238 462,238 480,238\" stroke=\"#7d98ad\" stroke-width=\"1.5\" fill=\"none\"/>\n          <path d=\"M450,238 C462,238 462,280 480,280\" stroke=\"#7d98ad\" stroke-width=\"1.5\" fill=\"none\"/>\n          <rect x=\"480\" y=\"180\" width=\"456\" height=\"32\" rx=\"8\" fill=\"#e5edf4\"/><text x=\"492\" y=\"201\" fill=\"#3d3a34\" font-size=\"14\">教师安妮：目睹暴力，却无法让自己离开</text>\n          <rect x=\"480\" y=\"222\" width=\"456\" height=\"32\" rx=\"8\" fill=\"#e5edf4\"/><text x=\"492\" y=\"243\" fill=\"#3d3a34\" font-size=\"14\">18 岁学生玛丽娜眼看要哭，只说“心碎”</text>\n          <rect x=\"480\" y=\"264\" width=\"456\" height=\"32\" rx=\"8\" fill=\"#e5edf4\"/><text x=\"492\" y=\"285\" fill=\"#3d3a34\" font-size=\"14\">店主在监控里看抢劫者闯入，报警无人来</text>\n        </g>\n\n        <g class=\"mm-branch\" data-target=\"bc3\">\n          <rect x=\"260\" y=\"416\" width=\"190\" height=\"34\" rx=\"8\" fill=\"#f4e7e4\" stroke=\"#bd7a6d\"/>\n          <text x=\"349\" y=\"438\" text-anchor=\"middle\" fill=\"#7c4a3e\" font-size=\"15\" font-weight=\"700\">问责与财政困境（¶6–7）</text>\n          <text class=\"mm-arrow\" data-for=\"bc3\" x=\"442\" y=\"438\" text-anchor=\"end\" fill=\"#7c4a3e\">▾</text>\n        </g>\n        <g class=\"mm-children\" id=\"bc3\">\n          <path d=\"M450,433 C462,433 462,391 480,391\" stroke=\"#bd7a6d\" stroke-width=\"1.5\" fill=\"none\"/>\n          <path d=\"M450,433 C462,433 462,433 480,433\" stroke=\"#bd7a6d\" stroke-width=\"1.5\" fill=\"none\"/>\n          <path d=\"M450,433 C462,433 462,475 480,475\" stroke=\"#bd7a6d\" stroke-width=\"1.5\" fill=\"none\"/>\n          <rect x=\"480\" y=\"375\" width=\"456\" height=\"32\" rx=\"8\" fill=\"#f4e7e4\"/><text x=\"492\" y=\"396\" fill=\"#3d3a34\" font-size=\"14\">内政部长请辞被拒，承认部分城市已失控</text>\n          <rect x=\"480\" y=\"417\" width=\"456\" height=\"32\" rx=\"8\" fill=\"#f4e7e4\"/><text x=\"492\" y=\"438\" fill=\"#3d3a34\" font-size=\"14\">骚乱起于郊区高中：教师短缺、校舍破旧</text>\n          <rect x=\"480\" y=\"459\" width=\"456\" height=\"32\" rx=\"8\" fill=\"#f4e7e4\"/><text x=\"492\" y=\"480\" fill=\"#3d3a34\" font-size=\"14\">财政吃紧，只能调 3000 名教师补缺口</text>\n        </g>\n\n        <g class=\"mm-branch\" data-target=\"bc4\">\n          <rect x=\"260\" y=\"611\" width=\"190\" height=\"34\" rx=\"8\" fill=\"#ece4f2\" stroke=\"#9b86b3\"/>\n          <text x=\"349\" y=\"633\" text-anchor=\"middle\" fill=\"#5a4670\" font-size=\"15\" font-weight=\"700\">市场震荡与出路（¶8–9）</text>\n          <text class=\"mm-arrow\" data-for=\"bc4\" x=\"442\" y=\"633\" text-anchor=\"end\" fill=\"#5a4670\">▾</text>\n        </g>\n        <g class=\"mm-children\" id=\"bc4\">\n          <path d=\"M450,628 C462,628 462,586 480,586\" stroke=\"#9b86b3\" stroke-width=\"1.5\" fill=\"none\"/>\n          <path d=\"M450,628 C462,628 462,628 480,628\" stroke=\"#9b86b3\" stroke-width=\"1.5\" fill=\"none\"/>\n          <path d=\"M450,628 C462,628 462,670 480,670\" stroke=\"#9b86b3\" stroke-width=\"1.5\" fill=\"none\"/>\n          <rect x=\"480\" y=\"570\" width=\"456\" height=\"32\" rx=\"8\" fill=\"#ece4f2\"/><text x=\"492\" y=\"591\" fill=\"#3d3a34\" font-size=\"14\">商业信心再受打击，股市、欧元、国债承压</text>\n          <rect x=\"480\" y=\"612\" width=\"456\" height=\"32\" rx=\"8\" fill=\"#ece4f2\"/><text x=\"492\" y=\"633\" fill=\"#3d3a34\" font-size=\"14\">前议员：勒庞面前是六车道高速公路</text>\n          <rect x=\"480\" y=\"654\" width=\"456\" height=\"32\" rx=\"8\" fill=\"#ece4f2\"/><text x=\"492\" y=\"675\" fill=\"#3d3a34\" font-size=\"14\">10·24 再示威、11·5 罢工已在路上</text>\n        </g>\n      </svg>\n",
+  "img": "/tmp/mm21/mm21.jpg"
+ }
+}

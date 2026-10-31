@@ -1,0 +1,445 @@
+{
+ "paragraphs": [
+  {
+   "en_html": "For Ukraine, the Starlink internet service has become the <mark class=\"voc\">lifeblood</mark> of frontline communication between units, who say there is currently no <mark class=\"voc\">rival</mark> to the <mark class=\"voc\">capabilities</mark> of SpaceX’s products. Starshield receivers, largely <mark class=\"voc\">impervious</mark> to radio <mark class=\"voc\">jamming</mark>, are used as <mark class=\"voc\">onboard</mark> guidance systems and to provide links to a <mark class=\"voc\">remote pilot</mark> for Ukrainian drones, including deep behind Russian lines inside Ukraine.",
+   "zh": "对乌克兰而言，星链互联网服务已成为前线各部队之间通信的命脉——这些部队表示，目前尚无任何产品在性能上能与SpaceX 相抗衡。而星盾的接收设备基本不受无线电干扰，它既被用作机载制导系统，也为乌克兰无人机与后方操作员之间提供通信链路；这些无人机的活动范围，甚至深入乌克兰境内俄军战线的后方地带。",
+   "notes": [
+    {
+     "w": "lifeblood",
+     "ipa": "/ˈlaɪfblʌd/",
+     "pos": "n.",
+     "en": "the lifeblood of something is the thing it depends on completely in order to keep working or existing",
+     "zh": "命脉，生命线",
+     "ctx": "life＋blood，“维持生命的那管血”。作者不用 key 或 backbone，用 lifeblood——前线通信不是“重要”，是“断了就活不成”。",
+     "ex1": "Remittances are the lifeblood of the coastal economy. 侨汇是沿海经济的命脉。",
+     "ex2": "Credit is the lifeblood of small businesses in this district. 信贷是这个街区小生意的命脉。"
+    },
+    {
+     "w": "rival",
+     "ipa": "/ˈraɪvl/",
+     "pos": "n. & adj.",
+     "en": "a rival (n.) is someone or something competing with another for the same thing",
+     "zh": "对手，可与之匹敌者",
+     "ctx": "出自拉丁语 rivalis，“住在同一条小河两岸的人”——两个农夫隔溪而居，你多我就少。no rival to the capabilities＝不是“没人比它好”，是“连个对手都还没有”。",
+     "ex1": "No rival has yet matched its coverage at anything like the same price. 尚无任何对手能以接近的价格匹敌它的覆盖能力。",
+     "ex2": "The two ports have been rivals for cargo for more than a century. 两百多年来这两个港口一直是货源上的对手。"
+    },
+    {
+     "w": "capability",
+     "ipa": "/ˌkeɪpəˈbɪləti/",
+     "pos": "n.",
+     "en": "a capability (n.) is the ability or capacity to do something, especially a complex combination of things",
+     "zh": "能力，性能组合，战斗力",
+     "ctx": "capable 出自拉丁语 capax，“能容纳、能抓住”。军事语境里 capability 不是单项本事，而是一整套配起来的战力——所以“没有对手”说的是整套系统，不是某一项参数。",
+     "ex1": "The two systems differ less in capacity than in capability. 两套系统的差别与其说在容量，不如说在能力。",
+     "ex2": "Building this capability took a decade and a great deal of money. 建成这种能力花了十年时间和大量资金。"
+    },
+    {
+     "w": "impervious",
+     "ipa": "/ɪmˈpɜːviəs/",
+     "pos": "adj.",
+     "en": "impervious (adj.) means not allowing something to pass through, or not affected by something",
+     "zh": "无法穿透的，不受影响的",
+     "ctx": "im-（不）＋ per-（穿过）＋ via（路）：没有路可以穿过去，像一块密到水珠渗不进去的雨衣布。作者说 largely impervious to radio jamming，留了 largely 这个余地——几乎不受干扰，不是绝对不受。",
+     "ex1": "The casing is impervious to dust and heavy rain, though not to salt spray. 外壳防尘防暴雨，但挡不住盐雾。",
+     "ex2": "Officials seemed impervious to warnings from their own analysts. 官员们似乎对自己分析师的警告充耳不闻。"
+    },
+    {
+     "w": "jamming",
+     "ipa": "/ˈdʒæmɪŋ/",
+     "pos": "n. & v.",
+     "en": "jamming (n.) is the deliberate broadcasting of radio signals to overwhelm and block a communication signal",
+     "zh": "（无线电）干扰，压制",
+     "ctx": "jam 本义是把东西硬塞进容器，也是果酱——果子被熬煮挤到一起。电子战里就是拿噪声把信号挤死。这个词一出，战场就从地面升到了电磁频谱。",
+     "ex1": "Both sides now jam each other’s signals as a matter of routine. 双方如今把互相干扰信号当作例行手段。",
+     "ex2": "The link held even under sustained jamming near the front line. 即使在前线附近持续干扰下，这条链路也撑住了。"
+    },
+    {
+     "w": "onboard",
+     "ipa": "/ˈɒnbɔːd/",
+     "pos": "adj.",
+     "en": "onboard (adj.) means carried on a vehicle, aircraft or ship",
+     "zh": "机载的，随装备安装的",
+     "ctx": "on＋board，board 本义是木板，引申为甲板、船板。onboard guidance systems＝装在无人机上的制导系统——注意不是“远程操控”，是“机器自己带着脑子飞”。",
+     "ex1": "The onboard computer takes over if the ground link is lost. 万一地面链路中断，机载计算机会接管。",
+     "ex2": "All thirty people aboard were evacuated within nine minutes. 机上三十人九分钟内全部撤离。"
+    },
+    {
+     "w": "remote pilot",
+     "ipa": "/rɪˈməʊt ˈpaɪlət/",
+     "pos": "名词短语",
+     "en": "a remote pilot is someone who operates an aircraft from a distance rather than sitting in it",
+     "zh": "远程操作员，远端飞手",
+     "ctx": "英语里 pilot 的本义是领航员，是把船领进港的那个人，不是驾驶员。所以 remote pilot 从来没有“打游戏”的味道，它天然带着“负有领航责任”的分量——这两个字，决定了人们怎么看待这场战争。",
+     "ex1": "Each aircraft is flown by a crew of two, including a remote pilot. 每架飞行器由两名人员操控，其中包括一名远程操作员。",
+     "ex2": "He trained as a pilot long before he ever flew anything unmanned. 在接触任何无人装备之前，他早就受过领航员的训练。"
+    }
+   ]
+  },
+  {
+   "en_html": "Musk’s role as the <mark class=\"voc\">strong-willed</mark> CEO of a company with <mark class=\"voc\">outsized</mark> influence over US national security has <mark class=\"voc\">at times</mark> raised questions over who is making decisions about SpaceX’s satellite services. The Biden administration at times relied on Musk to help implement policy. Biden officials <mark class=\"voc\">coordinated with</mark> SpaceX to <mark class=\"voc\">thwart</mark> US <mark class=\"voc\">adversaries</mark> by cutting the service, and to help allies by expanding Starlink’s <mark class=\"voc\">availability</mark>. They added that discussions between the government and SpaceX often focused on preventing groups such as the <mark class=\"voc\">Iranian-linked</mark> Houthis in Yemen and Hezbollah in Lebanon from using Starlink terminals.",
+   "zh": "马斯克作为一家对美国国家安全有着超乎本分之影响力的公司的强势CEO，这一身份不时引发外界质疑：究竟是谁在决定SpaceX的卫星服务。拜登政府在某些事务上曾倚重马斯克协助落实政策。拜登政府官员与SpaceX进行协调，一方面通过切断服务挫败美国的对手，另一方面通过扩大星链的覆盖范围来帮助盟友。这些前官员还补充说，政府与SpaceX之间的讨论，焦点往往集中在阻止也门的胡塞武装、黎巴嫩的真主党等组织使用星链终端上。",
+   "notes": [
+    {
+     "w": "strong-willed",
+     "ipa": "/ˌstrɒŋ ˈwɪld/",
+     "pos": "adj.",
+     "en": "strong-willed (adj.) means determined to do what one wants, even when others disagree",
+     "zh": "意志坚定，我行我素",
+     "ctx": "strong＋willed，“意志被加强的”。路透社这句写得极克制：Musk’s role as the strong-willed CEO——说的是“他所扮演的角色”，不是他这个人。形容词一放，人物就成了一个位置。",
+     "ex1": "She was strong-willed enough to overrule her entire advisory board. 她意志强到足以否决整个顾问委员会的意见。",
+     "ex2": "A strong-willed founder and a cautious board rarely agree for long. 一位我行我素的创始人和一个谨慎的董事会很难长期意见一致。"
+    },
+    {
+     "w": "outsized",
+     "ipa": "/ˈaʊtsaɪzd/",
+     "pos": "adj.",
+     "en": "outsized (adj.) means much larger or more powerful than is usual or appropriate for the position held",
+     "zh": "大得不相称的，超出本分的",
+     "ctx": "oversized 只是“偏大”，outsized 是“大到不合身”。outsized influence over US national security＝影响力超出了他所处的位置——这句话不是夸，是问责。",
+     "ex1": "A handful of firms wield outsized influence over how the standard is written. 少数几家公司对这项标准的制定握有不成比例的巨大影响力。",
+     "ex2": "The founder’s outsized role has long made investors uneasy. 创始人超出本分的作用，长期让投资者不安。"
+    },
+    {
+     "w": "at times",
+     "ipa": "/æt taɪmz/",
+     "pos": "短语",
+     "en": "at times means sometimes, but not regularly or continuously",
+     "zh": "有时，偶尔",
+     "ctx": "一个频率限定语，不是某个时段。作者用它给指控留了余地：不是“一直如此”，是“有时候”——也正因为只是“有时候”，才更显得说不清。",
+     "ex1": "The signal was at times unusable, though never for long. 信号有时候没法用，不过从没持续太久。",
+     "ex2": "At one time the company operated more than two hundred ships. 这家公司一度运营着两百多艘船。"
+    },
+    {
+     "w": "coordinate with",
+     "ipa": "/kəʊˈɔːdɪneɪt wɪð/",
+     "pos": "动词短语",
+     "en": "coordinate with someone means to organise your actions together with theirs so they fit into one plan",
+     "zh": "与……协同，与……对表",
+     "ctx": "co-（共同）＋ ordinare（排序），order 就是从 ordin 来的。它不是 cooperate（合作），是“把动作按同一个顺序排好”——比合作更紧，更像同一套指挥系统里的两个环节。",
+     "ex1": "Ground units coordinated with air support throughout the operation. 整个行动期间地面部队与空中支援保持协同。",
+     "ex2": "Relief agencies coordinated their deliveries to avoid duplication. 救援机构协调了各自的投送以避免重复。"
+    },
+    {
+     "w": "thwart",
+     "ipa": "/θwɔːt/",
+     "pos": "v.",
+     "en": "thwart (v.) means to prevent someone from doing what they intend to do",
+     "zh": "挫败，阻挠",
+     "ctx": "源自古英语 thwert，“横着的”：你顺着走廊往前走，突然有人张开双臂横着一站。作者用它写“切断服务”，画面感比 block 强得多——不是不许，是横在路中间。",
+     "ex1": "The plot was thwarted before any device reached its target. 这套装置抵达目标之前，图谋就被挫败了。",
+     "ex2": "Poor coordination thwarted what had been a well-designed plan. 糟糕的协同，让一个本来设计周密的计划泡了汤。"
+    },
+    {
+     "w": "adversary",
+     "ipa": "/ˈædvəsəri/",
+     "pos": "n.",
+     "en": "an adversary (n.) is an opponent or enemy, especially one you are in a long-term contest with",
+     "zh": "对手，敌对方",
+     "ctx": "ad-（朝向）＋ vers（转），“转过身正对着你的那个人”，同根有 reverse、versus。官方文件爱用 adversary 而不是 enemy：前者是“长期博弈的对手”，后者是“要消灭的敌人”，一词之差，分寸全在里头。",
+     "ex1": "Officials described it as a capable adversary rather than an outright enemy. 官员将其称为一个不容小觑的对手，而非彻底的敌人。",
+     "ex2": "The two have been adversaries for years and remain unfailingly polite. 两人互为对手多年，并且始终不失礼数。"
+    },
+    {
+     "w": "availability",
+     "ipa": "/əˌveɪləˈbɪləti/",
+     "pos": "n.",
+     "en": "availability (n.) means the fact that something can be obtained, used or reached",
+     "zh": "可获得性，开通范围",
+     "ctx": "available＋-ity。作者用 expanding availability 而不是 expanding service：不是把服务变好，是把“能不能用上”的范围往外推——对伊朗、对乌克兰，动作都是这一个。",
+     "ex1": "Officials discussed expanding the availability of the service to new regions. 官员们讨论了把这项服务的开通范围扩大到新的地区。",
+     "ex2": "Availability, not speed, was the main complaint from rural users. 农村用户最主要的抱怨不是速度，而是能不能用上。"
+    },
+    {
+     "w": "Iran-linked",
+     "ipa": "/ɪˈrɑːn lɪŋkt/",
+     "pos": "adj.",
+     "en": "Iran-linked (adj.) means connected with Iran in some way that is not being specified",
+     "zh": "与伊朗有牵连的，伊朗背景的",
+     "ctx": "名词＋link 的过去分词，拼成一个复合形容词。妙在“不指定”：linked to 什么、怎么连的、连得多深，全部留白——这是新闻里最省事也最安全的定性方式。",
+     "ex1": "Investigators examined several Iran-linked shipping companies. 调查人员核查了几家与伊朗有关联的航运公司。",
+     "ex2": "The report referred only to groups linked to the network, without naming them. 该报告只提到与这个网络有关联的组织，并未点名。"
+    }
+   ]
+  },
+  {
+   "en_html": "In October 2023, during fighting between Israel and Hezbollah <mark class=\"voc\">militants</mark> in southern Lebanon, intelligence officials told the White House that individuals linked to Hezbollah could have gained access to Starlink terminals. Officials had similar concerns about the Houthis in Yemen in 2024 during a US air <mark class=\"voc\">campaign</mark> against the Iran-linked group. In both cases, the administration contacted SpaceX and asked it to identify the terminals and <mark class=\"voc\">shut them off</mark>. At least some of the terminals were <mark class=\"voc\">deactivated</mark>.",
+   "zh": "2023年10月，在以色列与黎巴嫩南部真主党武装人员交战期间，情报官员告知白宫，与真主党有关联的一些个人可能已经获得了星链终端。2024年，在针对这个与伊朗有关联的组织实施的空中战役期间，官员们对也门的胡塞武装也有类似担忧。在这两起事件中，政府均联系了SpaceX，并要求其锁定相关终端并将其关停。至少有一部分终端被停用了。",
+   "notes": [
+    {
+     "w": "militant",
+     "ipa": "/ˈmɪlɪtənt/",
+     "pos": "n. & adj.",
+     "en": "a militant (n.) is a person who uses or supports forceful, often armed, action for a cause",
+     "zh": "武装人员",
+     "ctx": "拉丁语 militare“当兵”＋-ant（表示人）。注意与 militia（民兵组织）分工：militant 是人，militia 是队伍；一个指个体，一个指建制。",
+     "ex1": "Reports said militants had taken positions along the border road. 报道称武装人员已在边境公路沿线占领阵地。",
+     "ex2": "The militia and its former militants have since split into three factions. 这支民兵武装及其昔日成员此后分裂成了三个派系。"
+    },
+    {
+     "w": "campaign",
+     "ipa": "/kæmˈpeɪn/",
+     "pos": "n.",
+     "en": "a campaign (n.) is a series of planned military or political actions aimed at a particular goal",
+     "zh": "战役，一系列有计划的行动",
+     "ctx": "出自拉丁语 campus“开阔地”——古时打仗要在开阔地摆开阵势。所以 campaign 天生带“有部署、分阶段”的意思：air campaign 不是“空袭几次”，是一整套打出来的作战计划。",
+     "ex1": "The bombing campaign lasted eleven weeks and involved four countries. 这场轰炸战役持续了十一周，涉及四个国家。",
+     "ex2": "What began as a local dispute became a national campaign within months. 起初只是地方争端，几个月内演变成了一场全国性运动。"
+    },
+    {
+     "w": "shut sb off",
+     "ipa": "/ʃʌt ˈsʌmbədi ɒf/",
+     "pos": "动词短语",
+     "en": "shut someone off means to cut off their supply of something they depend on, such as water, power or a service",
+     "zh": "掐断，中断供给",
+     "ctx": "本义是“拧水龙头、拉电闸”。政府要 SpaceX 做的事，用的正是这个词：shut them off——像关一户人家的水电那样，关掉一支武装的通信。生活化的动词，用在战争上，冷得刺人。",
+     "ex1": "The district was shut off from the grid for three days. 这个区域被断电断供应三天。",
+     "ex2": "Hundreds of users were shut off with no explanation and no warning. 数百名用户在毫无解释和预警的情况下被掐断了服务。"
+    },
+    {
+     "w": "deactivate",
+     "ipa": "/diˈæktɪveɪt/",
+     "pos": "v.",
+     "en": "deactivate (v.) means to make something inactive or unusable, especially remotely",
+     "zh": "停用，使失效",
+     "ctx": "de-（去除、反向）＋active。注意作者的分寸：不是 destroyed，不是 confiscated，是 deactivated——硬件没坏，只是被远程按了关机键。这一句，恰好把“谁握着开关”说透了。",
+     "ex1": "The card was deactivated within an hour of the loss being reported. 挂失上报后一小时内这张卡就被停用了。",
+     "ex2": "Nothing was physically broken; the units were simply deactivated remotely. 硬件没坏，这些设备只是被远程停用了。"
+    }
+   ]
+  },
+  {
+   "en_html": "In a 2024 <mark class=\"voc\">submission</mark> to the US Commerce Department’s Bureau of Industry and Security, SpaceX said it <mark class=\"voc\">works closely with</mark> US government agencies to secure <mark class=\"voc\">export authorizations</mark> where required and to <mark class=\"voc\">safeguard</mark> technology in support of US national security objectives and foreign policy goals.",
+   "zh": "在2024 年提交给美国商务部产业与安全局的一份意见书中，SpaceX 表示，它与美国政府机构密切合作，以便在必要时取得出口许可，并守护相关技术，服务于美国的国家安全目标与外交政策目标。",
+   "notes": [
+    {
+     "w": "submission",
+     "ipa": "/səbˈmɪʃn/",
+     "pos": "n.",
+     "en": "a submission (n.) is a document formally sent to an authority, court or agency for it to consider",
+     "zh": "呈交的文件，意见书",
+     "ctx": "sub-（向上呈）＋ mittere（送），就是从下往上递的那份材料。全文唯一一份可核对的一手文件，性质却是“意见书”——不是合同，不是备忘录，是任何公司都能提交的公开评论。",
+     "ex1": "The agency received more than two hundred submissions before closing the consultation. 该机构在结束意见征集前收到了两百多份呈交意见。",
+     "ex2": "Each submission is published online, whether it supports the rule or attacks it. 每份呈交文件都会公开发布，无论它支持还是反对这项规则。"
+    },
+    {
+     "w": "work closely with",
+     "ipa": "/wɜːk ˈkləʊsli wɪð/",
+     "pos": "短语",
+     "en": "work closely with someone means to cooperate with them in sustained and frequent contact",
+     "zh": "与……密切合作",
+     "ctx": "“贴得很近地一起干活”。这句话出自 SpaceX 自己提交的文件，本意是反对管制太严，却被路透社拿去当证据——同一句话，护身符与照妖镜，看你从哪一边读。",
+     "ex1": "The agency works closely with industry bodies when drafting new rules. 该机构在起草新规时与行业组织密切合作。",
+     "ex2": "Inspectors work closely with local authorities throughout the year. 检查人员全年与地方当局密切配合。"
+    },
+    {
+     "w": "export authorization",
+     "ipa": "/ˈekspɔːt ɔːθəraɪˈzeɪʃn/",
+     "pos": "名词短语",
+     "en": "an export authorization is an official permission required before certain goods may be sent abroad",
+     "zh": "出口许可，出口批文",
+     "ctx": "export＋authorization。注意动词是 secure（弄到手），不是 get——一份批文不是“拿到”，是“争到”。星链终端能出境，靠的就是这一纸授权。",
+     "ex1": "Dual-purpose items cannot be shipped without an export authorization. 军民两用物项没有出口许可不得发运。",
+     "ex2": "The licence does not authorize re-export to third countries. 这份许可并不授权向第三国转口。"
+    },
+    {
+     "w": "safeguard",
+     "ipa": "/ˈseɪfɡɑːd/",
+     "pos": "v. & n.",
+     "en": "safeguard (v.) means to protect something from harm or loss",
+     "zh": "守护，防止流失",
+     "ctx": "safe（无恙）＋guard（看护）。SpaceX 说自己在 safeguard technology——守的是技术，防的是流失。这个词天生站在“守方”，而这篇报道问的是：守的是谁的东西？",
+     "ex1": "The agreement includes clauses to safeguard sensitive technology. 该协议包含守护敏感技术的条款。",
+     "ex2": "Independent audits act as a safeguard against misuse of the data. 独立审计是防止数据被滥用的保障措施。"
+    }
+   ]
+  },
+  {
+   "en_html": "Soon after Russia’s <mark class=\"voc\">full-scale</mark> invasion of Ukraine in 2022, Biden officials <mark class=\"voc\">pushed</mark> SpaceX to expand Starlink use for the Ukrainian military. <mark class=\"voc\">In a separate instance</mark>, the Biden administration asked SpaceX to turn on Starlink in Iran during a protest movement launched in September 2022 after the death of Mahsa Amini, an Iranian arrested for not wearing her hijab properly. Starlink terminals were moved into the country <mark class=\"voc\">with the help of</mark> the administration.",
+   "zh": "2022 年俄罗斯全面入侵乌克兰后不久，拜登政府官员便推动SpaceX 扩大乌军对星链的使用。另一起事件中，拜登政府于2022 年9 月玛莎·阿米尼身亡后爆发的抗议运动期间，要求SpaceX 在伊朗开通星链；相关终端在政府协助下被运入该国。",
+   "notes": [
+    {
+     "w": "full-scale",
+     "ipa": "/ˌfʊl ˈskeɪl/",
+     "pos": "adj.",
+     "en": "full-scale (adj.) means complete and using all available resources, not limited or partial",
+     "zh": "全面的，全规模的",
+     "ctx": "“满刻度的、全尺寸的”。full-scale invasion 与“边境摩擦”“局部行动”是两码事——它一出现，前面所有克制的说法都作废了。全文的时间原点就在这个词后面。",
+     "ex1": "A full-scale invasion would look entirely different from the raids we have seen. 全面入侵将与我们看到的这些袭扰完全不同。",
+     "ex2": "The exercise was the largest full-scale rehearsal since the war. 这次演习是战后规模最大的一次全面演练。"
+    },
+    {
+     "w": "pushed",
+     "ipa": "/pʊʃt/",
+     "pos": "v.",
+     "en": "pushed here means urged someone strongly to do something, applying continuing pressure",
+     "zh": "推动，力推，施压使其行动",
+     "ctx": "源自拉丁语 pellere“击打、驱动”。官方不是“建议”，是 pushed——一次又一次往前推，直到对方动起来。这个词把“请求”那层客气的皮撕掉了。",
+     "ex1": "Donors pushed the agency to publish the data it had withheld. 捐助方推动该机构公布它此前扣下的那批数据。",
+     "ex2": "The committee is pushing for a decision before the end of the month. 该委员会正力推在月底前作出决定。"
+    },
+    {
+     "w": "in a separate instance",
+     "ipa": "/ɪn ə ˈseprət ˈɪnstəns/",
+     "pos": "短语",
+     "en": "in a separate instance means in another case that is unconnected with the one just described",
+     "zh": "另一起，另一个例子",
+     "ctx": "separate 出自 se-（分开）＋parare（准备），各自分开备着的。新闻里的“另一起”是有讲究的：它把两件事隔开，既不让读者混为一谈，也不让它们互相加重。",
+     "ex1": "In a separate instance, the same official approved the transfer within a day. 另一起事件中，同一位官员一天之内就批准了那笔转账。",
+     "ex2": "The two incidents were handled separately and never appeared in one report. 这两起事件被分头处理，从未出现在同一份报告里。"
+    },
+    {
+     "w": "with the help of",
+     "ipa": "/wɪð ðə help əv/",
+     "pos": "短语",
+     "en": "with the help of someone means assisted by them, without specifying how much they did",
+     "zh": "在……的协助下",
+     "ctx": "一个“责任分配模糊剂”：帮了什么、帮到哪一步，全不说。终端是“在政府协助下”运进伊朗的——这句话能写进报道，恰恰因为它什么都没说死。",
+     "ex1": "The documents were obtained with the help of a former employee. 这些文件是在一名前雇员的帮助下取得的。",
+     "ex2": "Evacuations were carried out with assistance from two neighbouring states. 撤离行动是在两个邻国的协助下完成的。"
+    }
+   ]
+  },
+  {
+   "en_html": "The Trump administration took a similar step earlier this year and discussed with Musk and SpaceX getting Starlink terminals into Iran and activated following US-Israeli strikes in the country in June 2025 and again in February 2026. Neither the Trump administration nor SpaceX has <mark class=\"voc\">publicly confirmed</mark> that those terminals were <mark class=\"voc\">turned on</mark>. The Wall Street Journal reported in February that the US government had sent thousands of Starlink terminals into Iran.",
+   "zh": "今年早些时候，特朗普政府采取了类似行动，并与马斯克及SpaceX 商讨，在2025 年6 月及2026 年2 月美以对伊朗实施军事打击后，将星链终端运入伊朗并予以开通。特朗普政府与SpaceX 均未公开证实这些终端已开通。《华尔街日报》今年2 月报道称，美国政府已向伊朗境内运送了数千台星链终端。",
+   "notes": [
+    {
+     "w": "publicly confirmed",
+     "ipa": "/ˈpʌblɪkli kənˈfɜːmd/",
+     "pos": "短语",
+     "en": "publicly confirmed means officially acknowledged in a statement or in public remarks",
+     "zh": "公开确认",
+     "ctx": "public（公开）＋confirm（con- 加强＋firmare 使坚固，即使之确定）。新闻里这个短语常常前面带着 neither：既不确认，也不否认——沉默本身，就是这条报道里最响的一句。",
+     "ex1": "The company has never publicly confirmed how many units were shipped. 这家公司从未公开证实到底发送了多少台。",
+     "ex2": "Officials would neither confirm nor deny that the order had been given. 官员们既不确认也不否认这道命令已经下达。"
+    },
+    {
+     "w": "sent vs turned on",
+     "ipa": "/sent/ /tɜːnd ɒn/",
+     "pos": "短语",
+     "en": "sent means delivered to a place; turned on means switched on and made operational",
+     "zh": "送达 ≠ 开通",
+     "ctx": "两个动作被作者刻意拆开：物流是一件事，功能启用是另一件事。数千台终端“送到”了伊朗，却没人证实它们“开着”——差的那一步，正是全篇最要紧的一步。",
+     "ex1": "Thousands of kits were sent to the region, though many were never activated. 数千套设备被送到该地区，但其中许多从未开通。",
+     "ex2": "Delivery is one thing; getting the service turned on is quite another. 送达是一回事，把服务开通完全是另一回事。"
+    }
+   ]
+  }
+ ],
+ "proper": [
+  {
+   "name": "Starlink / 星链",
+   "def": "美国太空探索技术公司旗下的低轨卫星互联网星座，通过数千颗运行在约 340–570 公里高度的近地轨道卫星提供宽带服务，用户只需一台相控阵平板终端便可接入。与地球同步轨道卫星相比，它离得近，因此时延低（公开技术口径约为 25–60 毫秒，同步轨道则常达数百毫秒）。<br>本文中的意思：全文的三件“主角设备”之一，也是最贴近普通用户的那一件。它在乌克兰被用作前线通信、防空警报与部分军事用途的网络支撑。它既是一个产品，也是一种被反复开关的开关。"
+  },
+  {
+   "name": "Starshield / 星盾",
+   "def": "SpaceX 面向政府与军方客户推出的产品线，基于星链的制造能力，但在加密等级、抗干扰能力与任务配置上按军用标准定制。<br>本文中的意思：乌克兰指控被限制的就是它。请注意马斯克的那句话：Starshield 系统由美国政府拥有和控制。而也正是这条，让第五段的“到底谁下的令”成了全文最难回答的问题。"
+  },
+  {
+   "name": "SpaceX / 太空探索技术公司",
+   "def": "由埃隆·马斯克于 2002 年创立的美国私营航天与通信企业，业务涵盖运载火箭、载人航天、卫星互联网。它既是 NASA 与五角大楼的重要承包商，也是商业发射市场的主导者。<br>本文中的意思：全文真正的题眼不是某个人，是这家公司的性质——一家私营公司。因为它是私有的，所以政府只能“请求”；因为它控制了它就是老板，所以外界永远搞不清哪里是公司、哪里是老板。"
+  },
+  {
+   "name": "Elon Musk / 埃隆·马斯克",
+   "def": "SpaceX 的首席执行官与最大股东，同时是特斯拉等多家公司的负责人。<br>本文中的意思：路透社笔下的写法极其克制：Musk’s role as the strong-willed CEO——它说的是“他所扮演的角色”，而不是他这个人。第七段的 outsized influence 由此构成了全文的核心问题：一个人可以是 CEO，也可以同时是一条被两个国家争抢的脖子。"
+  },
+  {
+   "name": "the Biden administration / 拜登政府",
+   "def": "指乔·拜登任内的美国联邦政府（2021—2025）。<br>本文中的意思：这一任班子的做法是：对外对黎巴嫩、也门方向要求“关”，对伊朗、乌克兰方向要求“开”。全文三分之一的匿名信源，都出自这一届卸任官员之口。"
+  },
+  {
+   "name": "the Trump administration / 特朗普政府",
+   "def": "指唐纳德·特朗普本届任内的美国联邦政府。<br>本文中的意思：第二段与第十段的主语。它在 2025 年 6 月与 2026 年 2 月美以对伊朗的军事打击之后，同样与马斯克及 SpaceX 商量向伊朗境内输送终端。两任政府做法一致，才是这篇真正的新闻点。"
+  },
+  {
+   "name": "Volodymyr Zelenskiy / 弗拉基米尔·泽连斯基",
+   "def": "乌克兰总统，2019 年就任，2022 年俄罗斯全面入侵后成为国际社会最熟知的战时领导人之一。<br>本文中的意思：第四段唯一的“受害者陈述”。他称乌克兰对星盾的使用受到故意限制，影响了无人机表现；星链也被降速。请注意报道给这三个字套的防弹衣：Zelenskiy said。"
+  },
+  {
+   "name": "Ukraine / 乌克兰",
+   "def": "东欧国家，2022 年 2 月遭俄罗斯全面军事入侵。其东部与南部前线至今是世界上电子战密度最高的地区之一。<br>本文中的意思：全文最长的一条线——2022 年被要求“开”，2026 年 10 月被限速。从盟友到被掐，中间的落差，正是欧洲各国感到不安的来源。"
+  },
+  {
+   "name": "Russia’s full-scale invasion of Ukraine / 2022 年俄罗斯全面入侵乌克兰",
+   "def": "2022 年 2 月 24 日，俄罗斯对乌克兰发动全面军事行动。此前的 2014 年，克里米亚与顿巴斯地区已发生冲突。<br>本文中的意思：全文的时间原点。Soon after 这三个字之后，第一批星链终端几天之内就运抵乌克兰。这也是“美国为何要请一家公司开网”的起点。"
+  },
+  {
+   "name": "the Houthis / 胡塞武装",
+   "def": "也门武装组织，正式名称是“安拉拥护者”（Ansar Allah），2014 年起控制包括首都萨那在内的也门北部大片地区。红海航道承担全球约十分之一的贸易量，其受袭会直接影响国际航运。<br>本文中的意思：第一段“关闭”、第八段“锁定并关停”的对象之一。路透社全篇沿用 groups 这个零定性的词；各国对该组织的定性不一，中国官方从未给出定性，本稿亦不作定性判断。"
+  },
+  {
+   "name": "Hezbollah / 真主党",
+   "def": "黎巴嫩的政治与武装组织，2023 年 10 月 8 日在黎巴嫩南部开辟第二条战线，2024 年 11 月下旬停火协议生效。<br>本文中的意思：第八段第一个案例的对象。请注意用词：individuals linked to Hezbollah（与真主党有关联的个人）——不是 members，不是 fighters。每一层都是合格的法律防护。"
+  },
+  {
+   "name": "Lebanon & Yemen / 黎巴嫩与也门",
+   "def": "黎巴嫩位于地中海东岸，与以色列接壤；也门位于阿拉伯半岛南端，濒临红海与亚丁湾。<br>本文中的意思：这两个地名构成第一段“关闭”那一方的地理坐标。2023 年在黎巴嫩，2024 年在也门——也正是这一点，让 In both cases 这四个字得以成立。"
+  },
+  {
+   "name": "Iran / 伊朗",
+   "def": "西亚大国，1979 年伊斯兰革命后建立现行政体，此后女性在公共场合佩戴头巾成为法律要求。<br>本文中的意思：全文唯一一个被“要求开网”的对象国。2022 年阿米尼事件后拜登政府要求开网，2025、2026 年特朗普政府再度要求开网。同样是“开网”，放在别国是商业行为，放在这里就是外交行为。"
+  },
+  {
+   "name": "Mahsa Amini / 玛莎·阿米尼",
+   "def": "22 岁的伊朗库尔德族女性，库尔德语名字叫吉娜（Jina）。2022 年 9 月 13 日在德黑兰被“道德警察”以头巾佩戴不合规定为由逮捕，在沃扎拉（Vozara）拘留中心昏迷，9 月 16 日在医院去世。伊朗官方称其自身有基础疾病；联合国人权事务高级专员当时呼吁就此展开独立、公正的调查。<br>本文中的意思：第十段伊朗开网的时间坐标。请注意作者写的是 after the death of——最轻的说法。读者可以由此体会到：讲至此，路透社一个字的评判也没有给。"
+  },
+  {
+   "name": "The White House / 白宫",
+   "def": "美国总统的办公场所与行政中枢，新闻里通常代指总统及其核心决策班子。<br>本文中的意思：第五段第一个被“问”的对象。它既没否认也没证实，referred Reuters to Trump’s remarks——把自己藏在了总统的一句旧话后面。"
+  },
+  {
+   "name": "The Pentagon / 五角大楼",
+   "def": "美国国防部办公地，代指国防部本身。<br>本文中的意思：第五段关键的第三方。马斯克在社交媒体上说，速度与使用量的限制由美国军方决定——而白宫却说总统没跟马斯克谈过。三方说法摆在一起，谁也不认账。"
+  },
+  {
+   "name": "Bureau of Industry and Security (BIS) / 美国商务部产业与安全局",
+   "def": "美国商务部下属部门，负责出口管制，管理《出口管理条例》（EAR）下的许可与分类。<br>本文中的意思：第九段那份 2024 年呈交文件的接收方。记住一条读法：英语的长名词短语从后往前读——Bureau of Industry and Security（最里），the US Commerce Department’s（外面一层）。"
+  },
+  {
+   "name": "Starlink user terminal / 星链用户终端",
+   "def": "星链的地面设备，一套包含相控阵平板天线、路由器、电源与线缆的“套件”（Starlink Kit）。SpaceX 在 2024 年提交给 BIS 的文件中自述：这套套件在线上与零售渠道销售，按“大众市场商品”归类，管制分类号为 ECCN 5A992.c。<br>本文中的意思：第八段那个悬案的关键。正因为它被当作低管制等级的消费品在管，它才有可能被广泛转手流通——这是制度设计的结果，不是某一家的道德问题。"
+  },
+  {
+   "name": "Low Earth orbit / LEO / 近地轨道",
+   "def": "通常指距地面约 2,000 公里以下的轨道。对比而言，地球同步轨道高度约 35,786 公里。轨道越低，信号往返距离越短，时延越低。<br>本文中的意思：第四段那道“物理题”的答案——同步轨道链路的时延常常是数百毫秒，低轨链路大约只有它的一个数量级之差。用一条慢成这样的链路去遥控高速机动的目标，晚一帧，可能就是几百米。"
+  },
+  {
+   "name": "The 2024 SpaceX submission to BIS / SpaceX 2024 年向 BIS 提交的意见书",
+   "def": "2024 年 10 月 15 日，SpaceX 就美国商务部一份拟议出口管制规则提交的公开评论意见（规则编号 RIN 0694-AJ43，刊于 89 Fed. Reg. 60985），任何人可在 regulations.gov 上查阅原文。<br>本文中的意思：全文唯一一份可核对的一手材料。调查记者在这儿需要的不是线人，是耐心。请注意一个反转：这份文件的实质目的是反对规则管得太严，而路透社把其中那句“与政府机构密切合作”拿来当了证据。"
+  },
+  {
+   "name": "The 2025–2026 US-Israeli strikes on Iran / 2025 年与 2026 年美以对伊朗的军事打击",
+   "def": "2025 年 6 月与 2026 年 2 月，美国与以色列对伊朗相关目标实施的两轮军事行动。具体打击范围与后果各方说法不一。<br>本文中的意思：特朗普政府“采取类似行动”的时间背景。请留意这个并置：军事打击与开通网络几乎同时发生——一边扔炸弹，一边递网线。这就是报道让读者自己看见的那个结构。"
+  },
+  {
+   "name": "Europe’s own military satellite capability / 欧洲自主的军用卫星通信",
+   "def": "2026 年围绕 Starlink 限制的争议之后，欧洲多国讨论了发展自主军用卫星通信能力的必要性。公开资料显示：欧盟的 IRIS² 星座规划约在 2030 年前后提供服务，首批卫星目标发射时间为 2029 年；芬兰、加拿大等亦有各自的项目时间表。IRIS² 的卫星总数各家口径不一（约 290 至 350 颗），口径差异较大的数字不宜作为单一事实引用。<br>本文中的意思：第三段那句判断的落脚点——欧洲为什么被“晃乱了”？因为它发现自己短期内没有替代方案。这是全篇唯一一处“试图依靠瓦解依赖”的方向。"
+  },
+  {
+   "name": "Starlink Kit classification and export control / 星链套件的出口管制分类",
+   "def": "SpaceX 在 2024 年呈交 BIS 的文件中表示，星链套件按 ECCN 5A992.c 归类，属低管制等级的大众市场商品；文件同时主张：若把最终用途管制扩大适用到所有物项，可能给全球销售低管制等级商业产品的企业带来“意想不到的后果”。<br>本文中的意思：同一份文件，两种用法。SpaceX 用它当护身符（“我们配合”），路透社拿它当照妖镜（“你配合到什么程度”）。而文件里那句关于低管制分类的自述，也顺带说明了终端为何可能被广泛转手。"
+  }
+ ],
+ "sources_note": "资料核对：以上背景依据文章内容，并参考路透社（Reuters）报道、SpaceX 2024 年提交美国商务部 BIS 的公开意见书及欧盟 IRIS² 计划的公开资料整理。",
+ "practice": {
+  "intro": "请根据今天学习的外刊，把下面的中文句子翻译成英文。要求：尽量用上本文的核心表达，可以适当改变词形，但不要直接照抄原文。",
+  "items": [
+   "在本月乌克兰军方网络被限速之前，两届美国政府就已多次要求SpaceX开启或关闭其星链服务。",
+   "拜登执政期间，美方曾要求切断服务，以阻止伊朗支持的代理武装在也门和黎巴嫩利用星链进行通信。",
+   "这些请求表明，美国政府在落实外交政策时，对一家私营企业的依赖达到了前所未有的程度。",
+   "尽管乌克兰是美国的盟友，这次限速仍让欧洲官员感到不安，其中一些人认为，欧洲必须发展自己的军事卫星通信能力，因为短期内没有可行的替代方案。",
+   "对乌克兰而言，星链已成为前线部队通信的命脉，而且目前没有任何产品能与之匹敌。",
+   "特朗普政府和SpaceX都没有公开证实这些终端已被激活。"
+  ],
+  "critical_en": "If a single company can switch a country’s battlefield communications on or off, who should hold that switch — the company, the government that buys the service, or the country that depends on it?",
+  "critical_zh": "如果一家公司就能决定一个国家的战场通信是开还是关，那么这个开关究竟该握在谁手里——公司、购买服务的政府，还是那个依赖它的国家？",
+  "answer": "1. Well before Ukraine’s military access to the network was throttled this month, two US administrations had several times asked SpaceX to turn its Starlink service on or off.<br><br>2. During Biden’s presidency, the US asked for the service to be switched off to prevent Iranian proxy militias in Yemen and Lebanon from using Starlink to communicate.<br><br>3. These requests show that US administrations rely on a private-sector company to an unprecedented degree to help implement foreign policy.<br><br>4. Despite Ukraine being a US ally, the restrictions have rattled European officials, some of whom argue that Europe must develop its own military satellite communications capabilities because no viable short-term alternative exists.<br><br>5. For Ukraine, Starlink has become the lifeblood of frontline communication, and there is currently no rival to its capabilities.<br><br>6. Neither the Trump administration nor SpaceX has publicly confirmed that those terminals were turned on."
+ },
+ "mindmap": {
+  "aria": "星链与美政府开关之争思维导图",
+  "alt": "星链：谁握着开关（手绘版）",
+  "svg": "<svg viewBox=\"0 0 960 720\" xmlns=\"http://www.w3.org/2000/svg\" role=\"img\" aria-label=\"星链与美政府开关之争思维导图\" style=\"width:100%;height:auto;font-family:-apple-system,'PingFang SC','Hiragino Sans GB','Microsoft YaHei',sans-serif\">\n        <rect x=\"24\" y=\"306\" width=\"176\" height=\"88\" rx=\"14\" fill=\"#eae3d2\" stroke=\"#9a8f76\"/>\n        <text x=\"112\" y=\"342\" text-anchor=\"middle\" fill=\"#3d3a34\" font-size=\"17\" font-weight=\"700\">星链 Starlink</text>\n        <text x=\"112\" y=\"368\" text-anchor=\"middle\" fill=\"#5c5648\" font-size=\"12.5\">一家私企手里的开关</text>\n\n        <path d=\"M200,350 C232,350 232,88 260,88\"  stroke=\"#6b8f71\" stroke-width=\"2\" fill=\"none\"/>\n        <path d=\"M200,350 C232,350 232,238 260,238\"  stroke=\"#7d98ad\" stroke-width=\"2\" fill=\"none\"/>\n        <path d=\"M200,350 C232,350 232,433 260,433\"  stroke=\"#bd7a6d\" stroke-width=\"2\" fill=\"none\"/>\n        <path d=\"M200,350 C232,350 232,628 260,628\"  stroke=\"#9b86b3\" stroke-width=\"2\" fill=\"none\"/>\n\n        <g class=\"mm-branch\" data-target=\"bc1\">\n          <rect x=\"260\" y=\"71\" width=\"190\" height=\"34\" rx=\"8\" fill=\"#e6efe7\" stroke=\"#6b8f71\"/>\n          <text x=\"349\" y=\"93\" text-anchor=\"middle\" fill=\"#4c6b52\" font-size=\"15\" font-weight=\"700\">两届政府反复开关（¶1–3）</text>\n          <text class=\"mm-arrow\" data-for=\"bc1\" x=\"442\" y=\"93\" text-anchor=\"end\" fill=\"#4c6b52\">▾</text>\n        </g>\n        <g class=\"mm-children\" id=\"bc1\">\n          <path d=\"M450,88 C462,88 462,46 480,46\" stroke=\"#6b8f71\" stroke-width=\"1.5\" fill=\"none\"/>\n          <path d=\"M450,88 C462,88 462,88 480,88\" stroke=\"#6b8f71\" stroke-width=\"1.5\" fill=\"none\"/>\n          <path d=\"M450,88 C462,88 462,130 480,130\" stroke=\"#6b8f71\" stroke-width=\"1.5\" fill=\"none\"/>\n          <rect x=\"480\" y=\"30\" width=\"456\" height=\"32\" rx=\"8\" fill=\"#e6efe7\"/><text x=\"492\" y=\"51\" fill=\"#3d3a34\" font-size=\"14\">拜登与川总政府多次要求 SpaceX 开启或关闭星链</text>\n          <rect x=\"480\" y=\"72\" width=\"456\" height=\"32\" rx=\"8\" fill=\"#e6efe7\"/><text x=\"492\" y=\"93\" fill=\"#3d3a34\" font-size=\"14\">也门、黎巴嫩要“关”；伊朗、乌克兰要“开”</text>\n          <rect x=\"480\" y=\"114\" width=\"456\" height=\"32\" rx=\"8\" fill=\"#e6efe7\"/><text x=\"492\" y=\"135\" fill=\"#3d3a34\" font-size=\"14\">两届政府皆借私企落实外交，依赖程度前所未有</text>\n        </g>\n\n        <g class=\"mm-branch\" data-target=\"bc2\">\n          <rect x=\"260\" y=\"221\" width=\"190\" height=\"34\" rx=\"8\" fill=\"#e5edf4\" stroke=\"#7d98ad\"/>\n          <text x=\"349\" y=\"243\" text-anchor=\"middle\" fill=\"#3d5872\" font-size=\"15\" font-weight=\"700\">乌克兰前线的命脉（¶4–6）</text>\n          <text class=\"mm-arrow\" data-for=\"bc2\" x=\"442\" y=\"243\" text-anchor=\"end\" fill=\"#3d5872\">▾</text>\n        </g>\n        <g class=\"mm-children\" id=\"bc2\">\n          <path d=\"M450,238 C462,238 462,196 480,196\" stroke=\"#7d98ad\" stroke-width=\"1.5\" fill=\"none\"/>\n          <path d=\"M450,238 C462,238 462,238 480,238\" stroke=\"#7d98ad\" stroke-width=\"1.5\" fill=\"none\"/>\n          <path d=\"M450,238 C462,238 462,280 480,280\" stroke=\"#7d98ad\" stroke-width=\"1.5\" fill=\"none\"/>\n          <rect x=\"480\" y=\"180\" width=\"456\" height=\"32\" rx=\"8\" fill=\"#e5edf4\"/><text x=\"492\" y=\"201\" fill=\"#3d3a34\" font-size=\"14\">泽连斯基称星盾被有意限速，无人机作战受影响</text>\n          <rect x=\"480\" y=\"222\" width=\"456\" height=\"32\" rx=\"8\" fill=\"#e5edf4\"/><text x=\"492\" y=\"243\" fill=\"#3d3a34\" font-size=\"14\">星链是前线通信命脉，星盾接收器几乎不受干扰</text>\n          <rect x=\"480\" y=\"264\" width=\"456\" height=\"32\" rx=\"8\" fill=\"#e5edf4\"/><text x=\"492\" y=\"285\" fill=\"#3d3a34\" font-size=\"14\">限速令欧洲官员慌乱：短期没有可行替代方案</text>\n        </g>\n\n        <g class=\"mm-branch\" data-target=\"bc3\">\n          <rect x=\"260\" y=\"416\" width=\"190\" height=\"34\" rx=\"8\" fill=\"#f4e7e4\" stroke=\"#bd7a6d\"/>\n          <text x=\"349\" y=\"438\" text-anchor=\"middle\" fill=\"#7c4a3e\" font-size=\"15\" font-weight=\"700\">关与开的实战（¶7–8）</text>\n          <text class=\"mm-arrow\" data-for=\"bc3\" x=\"442\" y=\"438\" text-anchor=\"end\" fill=\"#7c4a3e\">▾</text>\n        </g>\n        <g class=\"mm-children\" id=\"bc3\">\n          <path d=\"M450,433 C462,433 462,391 480,391\" stroke=\"#bd7a6d\" stroke-width=\"1.5\" fill=\"none\"/>\n          <path d=\"M450,433 C462,433 462,433 480,433\" stroke=\"#bd7a6d\" stroke-width=\"1.5\" fill=\"none\"/>\n          <path d=\"M450,433 C462,433 462,475 480,475\" stroke=\"#bd7a6d\" stroke-width=\"1.5\" fill=\"none\"/>\n          <rect x=\"480\" y=\"375\" width=\"456\" height=\"32\" rx=\"8\" fill=\"#f4e7e4\"/><text x=\"492\" y=\"396\" fill=\"#3d3a34\" font-size=\"14\">马斯克身份引发追问：究竟谁在决定卫星服务</text>\n          <rect x=\"480\" y=\"417\" width=\"456\" height=\"32\" rx=\"8\" fill=\"#f4e7e4\"/><text x=\"492\" y=\"438\" fill=\"#3d3a34\" font-size=\"14\">2023 黎巴嫩、2024 也门：锁定终端并远程关停</text>\n          <rect x=\"480\" y=\"459\" width=\"456\" height=\"32\" rx=\"8\" fill=\"#f4e7e4\"/><text x=\"492\" y=\"480\" fill=\"#3d3a34\" font-size=\"14\">同一位 CEO：既切断对手，也扩大盟友覆盖</text>\n        </g>\n\n        <g class=\"mm-branch\" data-target=\"bc4\">\n          <rect x=\"260\" y=\"611\" width=\"190\" height=\"34\" rx=\"8\" fill=\"#ece4f2\" stroke=\"#9b86b3\"/>\n          <text x=\"349\" y=\"633\" text-anchor=\"middle\" fill=\"#5a4670\" font-size=\"15\" font-weight=\"700\">文件与时间线（¶9–11）</text>\n          <text class=\"mm-arrow\" data-for=\"bc4\" x=\"442\" y=\"633\" text-anchor=\"end\" fill=\"#5a4670\">▾</text>\n        </g>\n        <g class=\"mm-children\" id=\"bc4\">\n          <path d=\"M450,628 C462,628 462,586 480,586\" stroke=\"#9b86b3\" stroke-width=\"1.5\" fill=\"none\"/>\n          <path d=\"M450,628 C462,628 462,628 480,628\" stroke=\"#9b86b3\" stroke-width=\"1.5\" fill=\"none\"/>\n          <path d=\"M450,628 C462,628 462,670 480,670\" stroke=\"#9b86b3\" stroke-width=\"1.5\" fill=\"none\"/>\n          <rect x=\"480\" y=\"570\" width=\"456\" height=\"32\" rx=\"8\" fill=\"#ece4f2\"/><text x=\"492\" y=\"591\" fill=\"#3d3a34\" font-size=\"14\">2024 意见书：与政府密切合作、取得出口许可</text>\n          <rect x=\"480\" y=\"612\" width=\"456\" height=\"32\" rx=\"8\" fill=\"#ece4f2\"/><text x=\"492\" y=\"633\" fill=\"#3d3a34\" font-size=\"14\">2022 乌克兰、伊朗开网；2025–2026 再送伊朗</text>\n          <rect x=\"480\" y=\"654\" width=\"456\" height=\"32\" rx=\"8\" fill=\"#ece4f2\"/><text x=\"492\" y=\"675\" fill=\"#3d3a34\" font-size=\"14\">“送达”不等于“开通”，两届政府都不公开证实</text>\n        </g>\n      </svg>",
+  "img": ""
+ }
+}

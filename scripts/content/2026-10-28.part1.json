@@ -1,0 +1,447 @@
+{
+ "date": "2026-10-28",
+ "title_tag": "欧洲博物馆接连被盗！为什么小偷宁愿偷黄金，也不愿偷价值连城的名画？—— 美国《华尔街日报》外刊讲解第1211天",
+ "h1": "欧洲博物馆接连被盗！为什么小偷宁愿偷黄金，也不愿偷价值连城的名画？",
+ "source_label": "The Wall Street Journal",
+ "category": "美国《华尔街日报》外刊讲解 第1211天",
+ "read_minutes": 18,
+ "nav_hint": "The Year of the Heist",
+ "headline": {
+  "en_html": "<span><mark class=\"voc\">The Great Louvre Robbery</mark> Was Just the Start.</span> — <span>It's Been the Year of the <mark class=\"voc\">Heist</mark>.</span>",
+  "zh": "卢浮宫惊天大劫案只是开始：这一年，艺术品盗窃案接连上演",
+  "notes": [
+   {
+    "w": "robbery",
+    "ipa": "/ˈrɑːbəri/",
+    "pos": "n.",
+    "en": "the crime of stealing money or property from a person or place, often using force or threats",
+    "zh": "抢劫；劫案",
+    "ctx": "标题用 robbery 而非 theft，是把这桩案子往明火执仗上写——砸窗、闯入、劫走，一个词就定了全篇的调子。",
+    "ex1": "The bank robbery shocked the entire town. 这起银行抢劫案震惊了整个小镇。",
+    "ex2": "The police arrested three suspects in connection with the robbery. 警方逮捕了三名与这起抢劫案有关的嫌疑人。"
+   },
+   {
+    "w": "heist",
+    "ipa": "/haɪst/",
+    "pos": "n.",
+    "en": "an act of stealing something valuable, especially from a bank, museum or other heavily guarded place",
+    "zh": "重大盗窃案；精心策划的劫案",
+    "ctx": "全文的题眼：heist 专指对银行、博物馆这类戒备森严之处的精心策划的大劫案，比 theft 更有电影感，也暗示这不是顺手牵羊。",
+    "ex1": "The thieves planned an elaborate diamond heist. 盗贼精心策划了一场钻石劫案。",
+    "ex2": "The daring heist became the subject of a popular documentary. 这场大胆的盗窃案成为一部热门纪录片的主题。"
+   }
+  ]
+ },
+ "paragraphs": [
+  {
+   "en_html": "In the year since thieves <mark class=\"voc\">stunned</mark> the world by <mark class=\"voc\">smashing their way into</mark> the Louvre Museum and stealing France’s <mark class=\"voc\">crown jewels</mark> worth at least $101 million, art heists have only <mark class=\"voc\">intensified</mark>. From Wales to Sicily, more than 14 museums have been hit by <mark class=\"voc\">smash-and-grab</mark> criminals since early 2025, suggesting museums haven’t <mark class=\"voc\">cracked the code</mark> on how to safely protect their treasures. Police are still looking for the Louvre’s stolen <mark class=\"voc\">trove</mark> of 19th-century jewelry.",
+   "zh": "自从窃贼强行闯入卢浮宫博物馆、盗走价值至少1.01亿美元的法国王室珠宝，震惊全世界以来，这一年间，艺术品盗窃案非但没有减少，反而愈演愈烈。从威尔士到西西里岛，自2025年初以来，已有超过14家博物馆遭到暴力破门、迅速洗劫的犯罪分子袭击。这表明，博物馆仍未找到安全保护馆藏珍宝的有效办法。警方至今仍在寻找卢浮宫失窃的那批19世纪珠宝。",
+   "notes": [
+    {
+     "w": "stun",
+     "ipa": "/stʌn/",
+     "pos": "v.",
+     "en": "to surprise or shock someone so much that they cannot react immediately",
+     "zh": "使震惊；使目瞪口呆",
+     "ctx": "作者不写 surprise，偏用 stun，一字之差就在于那半秒的反应不过来——世界是被打懵的，不是被惊到的。",
+     "ex1": "The sudden announcement stunned investors around the world. 这一突如其来的公告令全球投资者震惊。",
+     "ex2": "She was stunned to discover that her closest friend had lied to her. 发现最亲密的朋友竟然欺骗了自己，她惊呆了。"
+    },
+    {
+     "w": "smash one's way into",
+     "ipa": "/smæʃ wʌnz weɪ ˈɪntuː/",
+     "pos": "phr.",
+     "en": "to force one's way into a place by violently breaking something",
+     "zh": "砸开障碍强行闯入",
+     "ctx": "不写 break into，偏用 smash one's way into，多出来的 smash 就是暴力程度：不是推门，是砸出一条路。",
+     "ex1": "The burglars smashed their way into the jewelry store after midnight. 窃贼在午夜过后砸开障碍，强行闯入珠宝店。",
+     "ex2": "Firefighters smashed their way into the burning apartment to rescue a child. 消防员破门冲进燃烧的公寓，救出了一名儿童。"
+    },
+    {
+     "w": "crown jewels",
+     "ipa": "/ˌkraʊn ˈdʒuːəlz/",
+     "pos": "n.",
+     "en": "the valuable crowns, jewels and other ceremonial objects belonging to a royal family",
+     "zh": "王室珠宝；王权珠宝",
+     "ctx": "被盗的不是普通展品，而是 crown jewels，一个词把案子的分量抬到国宝级别。",
+     "ex1": "The country's crown jewels are displayed under strict security. 该国的王室珠宝在严密安保下展出。",
+     "ex2": "The royal collection includes crown jewels dating back several centuries. 这批王室收藏包括可追溯至数百年前的王权珠宝。"
+    },
+    {
+     "w": "intensify",
+     "ipa": "/ɪnˈtensɪfaɪ/",
+     "pos": "v.",
+     "en": "to become greater, stronger or more extreme, or to make something do so",
+     "zh": "加剧；增强；愈演愈烈",
+     "ctx": "一年过去，案子不是 still happening，而是 intensified——非但没停，反而愈演愈烈，语气比 increase 重得多。",
+     "ex1": "Competition between the two technology companies has intensified. 两家科技公司之间的竞争愈发激烈。",
+     "ex2": "The government intensified its efforts to combat organized crime. 政府加大了打击有组织犯罪的力度。"
+    },
+    {
+     "w": "smash-and-grab",
+     "ipa": "/ˌsmæʃ ən ˈɡræb/",
+     "pos": "adj.",
+     "en": "involving breaking into a place and quickly stealing valuable things",
+     "zh": "砸抢式的；破门后迅速抢走财物的",
+     "ctx": "英文给这类犯罪量身定做的标签：砸开、抢走、跑掉，三个动作压进一个形容词，比 a robbery at a museum 有效得多。",
+     "ex1": "A smash-and-grab gang targeted several luxury stores overnight. 一个砸抢团伙一夜之间袭击了数家奢侈品商店。",
+     "ex2": "The shopping mall installed stronger windows after a series of smash-and- grab attacks. 在接连发生砸抢事件后，商场安装了更加坚固的橱窗。"
+    },
+    {
+     "w": "crack the code",
+     "ipa": "/kræk ðə koʊd/",
+     "pos": "phr.",
+     "en": "to discover the solution to a difficult problem or understand how something works",
+     "zh": "破解难题；找到解决问题的诀窍",
+     "ctx": "博物馆没破解这道密码——用破译密码来说安保，比 find a way 多了一层这是一道解不开的题的无奈。",
+     "ex1": "Scientists are still trying to crack the code of human aging. 科学家仍在努力破解人类衰老的奥秘。",
+     "ex2": "The company finally cracked the code on attracting younger customers. 这家公司终于找到了吸引年轻顾客的诀窍。"
+    },
+    {
+     "w": "trove",
+     "ipa": "/troʊv/",
+     "pos": "n.",
+     "en": "a collection of valuable or interesting things, especially one that has been discovered or gathered together",
+     "zh": "珍藏；宝藏；一批珍贵物品",
+     "ctx": "trove 本指被发掘出来的一批宝物，用在这里既是被盗的那批珠宝，也暗含宝藏的分量。",
+     "ex1": "Archaeologists discovered a trove of ancient coins beneath the ruins. 考古学家在废墟下发现了一批珍贵的古代钱币。",
+     "ex2": "The old library contains a remarkable trove of historical documents. 这座古老的图书馆收藏着一批极其珍贵的历史文献。"
+    }
+   ]
+  },
+  {
+   "en_html": "Experts have <mark class=\"voc\">myriad</mark> theories about why art heists are increasing, from <mark class=\"voc\">soaring</mark> gold prices making golden <mark class=\"voc\">antiquities</mark> and precious gems more valuable to the <mark class=\"voc\">misguided</mark> <mark class=\"voc\">notion</mark> that stolen art can <mark class=\"voc\">reap</mark> higher sums on the black market—it cannot. But museum directors and security firms agree the Louvre <mark class=\"voc\">breach</mark> set an <mark class=\"voc\">ominous</mark> <mark class=\"voc\">precedent</mark>. “The Louvre was a <mark class=\"voc\">wake-up call</mark> that anywhere can be hit,” said Chris Marinello, chief executive of Art Recovery International.",
+   "zh": "对于艺术品盗窃案为何不断增加，专家们提出了各种各样的理论：从金价飙升使古代黄金文物和珍贵宝石更加值钱，到有人错误地认为，被盗艺术品能够在黑市上卖出更高的价钱——但实际上并不能。然而，博物馆馆长和安保公司一致认为，卢浮宫失窃事件开创了一个不祥的先例。“卢浮宫事件敲响了警钟，让人们意识到，任何地方都可能成为袭击目标。”国际艺术品追索公司首席执行官克里斯·马里内洛说道。",
+   "notes": [
+    {
+     "w": "myriad",
+     "ipa": "/ˈmɪriəd/",
+     "pos": "adj.",
+     "en": "extremely large in number; too many to count",
+     "zh": "无数的；大量的；各种各样的",
+     "ctx": "专家的说法多到数不清，myriad 一个词顶掉 a great many，还带书面腔，正合分析性报道。",
+     "ex1": "The internet offers myriad opportunities for young entrepreneurs. 互联网为年轻创业者提供了无数机会。",
+     "ex2": "There are myriad reasons why people choose to live abroad. 人们选择在国外生活的原因多种多样。"
+    },
+    {
+     "w": "soar",
+     "ipa": "/sɔːr/",
+     "pos": "v.",
+     "en": "to rise very quickly to a high level",
+     "zh": "猛增；飙升；急剧上涨",
+     "ctx": "金价不是 rise，是 soar——陡直往上冲，这个动词本身就在解释盗贼为什么盯上黄金。",
+     "ex1": "Housing prices have soared in major cities over the past decade. 过去十年间，大城市的房价大幅飙升。",
+     "ex2": "Demand for electric vehicles soared after the government introduced new subsidies. 政府推出新的补贴政策后，电动汽车的需求量猛增。"
+    },
+    {
+     "w": "antiquity",
+     "ipa": "/ænˈtɪkwəti/",
+     "pos": "n.",
+     "en": "an object or work of art from ancient times",
+     "zh": "古物；古代文物；古董",
+     "ctx": "值钱的不是金子，是 antiquity 这层古董身份——材料加上历史，才有超额溢价。",
+     "ex1": "The museum houses a remarkable collection of Egyptian antiquities. 这家博物馆收藏着一批珍贵的埃及古代文物。",
+     "ex2": "Several priceless antiquities were discovered during the excavation. 考古发掘过程中发现了几件价值连城的古代文物。"
+    },
+    {
+     "w": "misguided",
+     "ipa": "/ˌmɪsˈɡaɪdɪd/",
+     "pos": "adj.",
+     "en": "based on wrong beliefs or judgments, although often intended to achieve something good",
+     "zh": "判断错误的；被误导的；不明智的",
+     "ctx": "作者对偷来的画能卖高价这个念头下了判词：misguided，不是错，是想岔了、被带偏了，语气里带着一点讥讽。",
+     "ex1": "His misguided attempt to help only made the situation worse. 他本想帮忙，却因为判断失误使情况更加糟糕。",
+     "ex2": "The policy was based on a misguided belief that technology could solve every problem. 这项政策建立在一种错误观念之上，即技术能够解决所有问题。"
+    },
+    {
+     "w": "notion",
+     "ipa": "/ˈnoʊʃən/",
+     "pos": "n.",
+     "en": "an idea, belief or understanding of something",
+     "zh": "观念；想法；看法",
+     "ctx": "用 notion 而不是 idea，把这种念头写成一种流行的观念，后面紧跟 reap，把靠赃物发财的算盘摊开。",
+     "ex1": "She rejected the notion that success depends entirely on luck. 她不认同成功完全取决于运气的观点。",
+     "ex2": "Many people still hold the notion that expensive products are always better. 许多人仍然抱有价格越贵、产品就越好的观念。"
+    },
+    {
+     "w": "reap",
+     "ipa": "/riːp/",
+     "pos": "v.",
+     "en": "to obtain something, especially something beneficial, as a result of one's actions or efforts",
+     "zh": "获得；收获；取得",
+     "ctx": "reap 本义收割庄稼，用在赃物收益上，仿佛黑市是一块可以反复收割的田。",
+     "ex1": "Students who read regularly often reap significant benefits in the long run. 经常阅读的学生往往能从长远来看获得巨大的益处。",
+     "ex2": "The company reaped enormous profits from its investment in renewable energy. 这家公司从可再生能源投资中获得了巨额利润。"
+    },
+    {
+     "w": "breach",
+     "ipa": "/briːtʃ/",
+     "pos": "n.",
+     "en": "an act of breaking through a barrier or violating a rule, agreement or security system",
+     "zh": "突破；破坏；违反；安全漏洞事件",
+     "ctx": "全文反复出现：不是被偷，而是被突破——安保防线上的一道口子，比 burglary 更强调系统的失败。",
+     "ex1": "The security breach exposed the personal information of thousands of customers. 这起安全漏洞事件导致数千名顾客的个人信息泄露。",
+     "ex2": "The company faced legal action for a serious breach of contract. 这家公司因严重违反合同而面临法律诉讼。"
+    },
+    {
+     "w": "ominous",
+     "ipa": "/ˈɑːmɪnəs/",
+     "pos": "adj.",
+     "en": "suggesting that something bad or unpleasant is likely to happen",
+     "zh": "不祥的；预示危险的；令人担忧的",
+     "ctx": "卢浮宫立下的先例是 ominous 的：乌云压顶，坏事还没到，预感已经先到。",
+     "ex1": "Dark clouds gathered above the village, creating an ominous atmosphere. 乌云笼罩在村庄上空，营造出一种不祥的气氛。",
+     "ex2": "The sudden silence from the rescue team was an ominous sign. 救援队突然失去音讯，是一个令人担忧的信号。"
+    },
+    {
+     "w": "precedent",
+     "ipa": "/ˈpresɪdənt/",
+     "pos": "n.",
+     "en": "an earlier event or action that is regarded as an example or guide for similar situations in the future",
+     "zh": "先例；前例；可供效仿的范例",
+     "ctx": "法律词挪到犯罪上：有了 precedent，别人就敢照着做，一个词把后面还会出事的逻辑钉死了。",
+     "ex1": "The court's decision could set an important precedent for future cases. 法院的裁决可能为今后的类似案件树立重要先例。",
+     "ex2": "Allowing one employee to ignore the rules would set a dangerous precedent. 允许一名员工无视规定，将会开创一个危险的先例。"
+    },
+    {
+     "w": "wake-up call",
+     "ipa": "/ˈweɪk ʌp kɔːl/",
+     "pos": "n.",
+     "en": "an event that makes someone realize they need to take action to avoid a serious problem",
+     "zh": "警钟；使人警醒的事件",
+     "ctx": "直接引语里的口语表达，比 warning 有画面：不是一份报告，是半夜把你吵醒的那通电话。",
+     "ex1": "The financial crisis was a wake-up call for companies that had ignored the risks. 金融危机给那些忽视风险的公司敲响了警钟。",
+     "ex2": "Failing the exam was a wake-up call that made him take his studies seriously. 考试不及格给他敲响了警钟，让他开始认真对待学业。"
+    }
+   ]
+  },
+  {
+   "en_html": "For its part, the Louvre created a new security <mark class=\"voc\">coordinator</mark> position now held by Olivier Goupil, a <mark class=\"voc\">veteran</mark> police officer. The museum also added more <mark class=\"voc\">crowd-control</mark> barriers and <mark class=\"voc\">anti-ram</mark> devices around its <mark class=\"voc\">exterior</mark>. There are now window <mark class=\"voc\">railings</mark> at the upper-level Apollo Gallery where thieves broke in. In a statement, the museum said the challenge is to balance its mission of protecting its collection while also sharing it with roughly 30,000 visitors a day. “Museums are not <mark class=\"voc\">fortresses</mark>,” the museum said in an email.",
+   "zh": "卢浮宫方面则新设立了一个安保协调员职位，目前由资深警官奥利维耶·古皮尔担任。博物馆还在建筑外围增设了更多人群管控护栏和防车辆冲撞装置。此前窃贼闯入的上层阿波罗画廊，如今也安装了窗户防护栏杆。博物馆在一份声明中表示，真正的挑战在于如何兼顾保护馆藏的使命，同时又能让每天约3万名参观者欣赏这些珍宝。“博物馆不是堡垒。”博物馆在一封电子邮件中表示。",
+   "notes": [
+    {
+     "w": "coordinator",
+     "ipa": "/koʊˈɔːrdɪneɪtər/",
+     "pos": "n.",
+     "en": "a person whose job is to organize different activities or people so that they work together effectively",
+     "zh": "协调员；统筹负责人",
+     "ctx": "新设的职位叫 coordinator（统筹者），不是 guard（保安）——卢浮宫把安保当成一件要协调多方的事。",
+     "ex1": "The event coordinator made sure that every guest arrived on time. 活动协调员确保每位嘉宾都准时到场。",
+     "ex2": "She was appointed as the project coordinator for the international research team. 她被任命为这个国际研究团队的项目协调员。"
+    },
+    {
+     "w": "veteran",
+     "ipa": "/ˈvetərən/",
+     "pos": "adj.",
+     "en": "having a lot of experience in a particular job or activity",
+     "zh": "经验丰富的；资深的；老练的",
+     "ctx": "一个形容词就交代了分量：不是随便找个人，是 veteran police officer，老刑警出身。",
+     "ex1": "A veteran journalist was sent to cover the conflict. 一名资深记者被派去报道这场冲突。",
+     "ex2": "The company hired a veteran engineer to lead its new technology division. 公司聘请了一位经验丰富的工程师领导新的技术部门。"
+    },
+    {
+     "w": "crowd-control",
+     "ipa": "/ˈkraʊd kənˌtroʊl/",
+     "pos": "adj.",
+     "en": "designed or used to manage the movement and behavior of large groups of people",
+     "zh": "人群管控的；用于维持人群秩序的",
+     "ctx": "复合形容词专指管人流的护栏——每天三万游客，博物馆防的不只是贼，还有人群。",
+     "ex1": "Police installed crowd-control barriers outside the stadium before the concert. 演唱会开始前，警方在体育场外设置了人群管控护栏。",
+     "ex2": "The organizers introduced new crowd-control measures to prevent overcrowding. 组织者采取了新的人群管控措施，以防止过度拥挤。"
+    },
+    {
+     "w": "anti-ram",
+     "ipa": "/ˌænti ˈræm/",
+     "pos": "adj.",
+     "en": "designed to prevent vehicles from crashing into or forcing their way through a protected area",
+     "zh": "防冲撞的；防车辆强行撞入的",
+     "ctx": "防车辆冲撞是反恐时代的产物，列出它等于承认对手的手段已经升级。",
+     "ex1": "The embassy installed anti-ram barriers to protect its main entrance. 大使馆安装了防冲撞护栏，以保护正门入口。",
+     "ex2": "Anti-ram bollards were placed along the busy pedestrian street. 这条繁忙的步行街沿线设置了防车辆冲撞的防护柱。"
+    },
+    {
+     "w": "exterior",
+     "ipa": "/ɪkˈstɪriər/",
+     "pos": "n.",
+     "en": "the outside surface or appearance of a building or object",
+     "zh": "外部；外表；建筑物外侧",
+     "ctx": "加固的是 exterior（外围），言下之意很扎心：里面已经不保险，只能先把壳加厚。",
+     "ex1": "The exterior of the historic building was carefully restored. 这座历史建筑的外立面得到了精心修复。",
+     "ex2": "Although the house looks old from the exterior, its interior is surprisingly modern. 虽然这栋房子从外面看很古老，但内部却出奇地现代化。"
+    },
+    {
+     "w": "railing",
+     "ipa": "/ˈreɪlɪŋ/",
+     "pos": "n.",
+     "en": "a fence or barrier made of metal or wood bars, used for protection or support",
+     "zh": "栏杆；护栏；防护围栏",
+     "ctx": "具体到窗户护栏——窃贼正是从这扇窗进来的，补救精确到一根栏杆。",
+     "ex1": "She leaned against the balcony railing and watched the sunset. 她倚着阳台栏杆欣赏日落。",
+     "ex2": "Metal railings were installed around the garden to keep visitors away from the flowers. 花园周围安装了金属护栏，以防游客靠近花卉。"
+    },
+    {
+     "w": "fortress",
+     "ipa": "/ˈfɔːrtrəs/",
+     "pos": "n.",
+     "en": "a large, strong building or place designed to be defended against attack",
+     "zh": "堡垒；要塞；防御严密的建筑",
+     "ctx": "全段最重的一句引语：博物馆不是堡垒；fortress 一出，把要不要把博物馆封死这个两难直接摆上桌面。",
+     "ex1": "The ancient fortress was built on a hill to defend the city against invaders. 这座古老的堡垒建在山丘上，用来抵御入侵者、保卫城市。",
+     "ex2": "After several security incidents, the wealthy businessman turned his home into a fortress. 在发生数起安全事件后，这位富商把自己的家变成了一座戒备森严的堡垒。"
+    }
+   ]
+  },
+  {
+   "en_html": "The Louvre heist revealed that thieves are increasingly stealing gold, <mark class=\"voc\">bronze</mark> and jewels more than traditional paintings—a <mark class=\"voc\">turnabout</mark> from a century ago when a thief stole its “Mona Lisa,” later recovered. In 10 of the subsequent museum break-ins across Europe over the past year, thieves <mark class=\"voc\">bypassed</mark> paintings to steal objects that could be <mark class=\"voc\">dismantled</mark> or <mark class=\"voc\">melted down</mark> because such commodities <mark class=\"voc\">retain</mark> value as precious metals and gems. Black-market jewelers are often willing to re-cut and reshape bigger jewels into smaller <mark class=\"voc\">untraceable</mark> ones that can be resold anywhere, investigators say.",
+   "zh": "卢浮宫盗窃案揭示了一个趋势：如今，窃贼越来越倾向于盗取黄金、青铜器和珠宝，而不是传统绘画作品。这与一个多世纪前的情况形成了鲜明反差：当时，一名窃贼盗走了卢浮宫的《蒙娜丽莎》，不过这幅画后来被追回。过去一年里，欧洲各地随后发生的博物馆入室盗窃案中，有10起案件的窃贼绕过画作，转而盗取那些可以拆解或熔化的物品，因为这些东西即使被破坏，仍能凭借其中的贵金属和宝石保有价值。调查人员表示，黑市珠宝商往往愿意将较大的珠宝重新切割、改造，变成更小、无法追踪来源的珠宝，以便在任何地方转售。",
+   "notes": [
+    {
+     "w": "bronze",
+     "ipa": "/brɑːnz/",
+     "pos": "n.",
+     "en": "a reddish-brown metal made mainly from copper and tin",
+     "zh": "青铜；青铜制品",
+     "ctx": "被盗的是青铜书封，bronze 在提醒读者：值钱的是材料，不是艺术。",
+     "ex1": "The museum displayed a bronze statue dating back more than two thousand years. 博物馆展出了一尊有两千多年历史的青铜雕像。",
+     "ex2": "The artist spent three years creating a life-sized bronze sculpture. 这位艺术家花了三年时间创作了一尊真人大小的青铜雕塑。"
+    },
+    {
+     "w": "turnabout",
+     "ipa": "/ˈtɜːrnəbaʊt/",
+     "pos": "n.",
+     "en": "a complete change in a situation, opinion or way of doing something",
+     "zh": "彻底转变；大转变；反转",
+     "ctx": "一个世纪前偷《蒙娜丽莎》，如今绕开画作去偷金属，turnabout 把这种掉头写得干净利落。",
+     "ex1": "The election results marked a dramatic turnabout in public opinion. 选举结果标志着公众舆论发生了戏剧性的转变。",
+     "ex2": "The struggling company achieved an unexpected turnabout after introducing its new product. 这家陷入困境的公司推出新产品后，局面出现了意想不到的逆转。"
+    },
+    {
+     "w": "bypass",
+     "ipa": "/ˈbaɪpæs/",
+     "pos": "v.",
+     "en": "to avoid or go around someone or something, especially to reach a different destination or achieve a goal",
+     "zh": "绕过；避开；不予理会",
+     "ctx": "不是没看见画，是 bypassed——看见了，故意绕开，这个词把窃贼的算计写出来了。",
+     "ex1": "The new highway allows drivers to bypass the crowded city center. 这条新高速公路让司机可以绕过拥堵的市中心。",
+     "ex2": "Some companies try to bypass traditional retailers and sell directly to customers. 一些公司试图绕过传统零售商，直接向消费者销售产品。"
+    },
+    {
+     "w": "dismantle",
+     "ipa": "/dɪsˈmæntəl/",
+     "pos": "v.",
+     "en": "to take a machine, structure or object apart into separate pieces",
+     "zh": "拆开；拆卸；拆解",
+     "ctx": "拆开卖零件：文物一旦被 dismantle，身份就没了，只剩材料。",
+     "ex1": "The workers carefully dismantled the old bridge before construction began. 施工开始前，工人们小心地拆除了旧桥。",
+     "ex2": "The thieves dismantled the stolen motorcycles and sold their parts separately. 窃贼将偷来的摩托车拆解，并分别出售零部件。"
+    },
+    {
+     "w": "melt down",
+     "ipa": "/melt daʊn/",
+     "pos": "phr. v.",
+     "en": "to heat a metal object until it becomes liquid, often so that the metal can be used again",
+     "zh": "熔化；熔毁（金属物品）",
+     "ctx": "黄金最狠的一点：熔了就查不出来；这个词直接回答标题里为什么宁愿偷黄金。",
+     "ex1": "The factory melted down old aluminum cans to produce new materials. 工厂将旧铝罐熔化，用来生产新材料。",
+     "ex2": "The criminals planned to melt down the stolen silver coins to hide their origins. 犯罪分子打算熔化偷来的银币，以掩盖其来源。"
+    },
+    {
+     "w": "retain",
+     "ipa": "/rɪˈteɪn/",
+     "pos": "v.",
+     "en": "to continue to have or keep something, even when circumstances change",
+     "zh": "保留；保持；继续拥有",
+     "ctx": "别的价值会随破坏而消失，贵金属却 retain value，三个词点破盗贼的经济学。",
+     "ex1": "The historic building has retained much of its original character. 这座历史建筑仍然保留着许多原有特色。",
+     "ex2": "Gold tends to retain its value during periods of economic uncertainty. 在经济不确定时期，黄金往往能够保持其价值。"
+    },
+    {
+     "w": "untraceable",
+     "ipa": "/ʌnˈtreɪsəbəl/",
+     "pos": "adj.",
+     "en": "impossible or extremely difficult to find, follow or identify the origin of",
+     "zh": "无法追踪的；难以查明来源的",
+     "ctx": "重新切割之后珠宝变得 untraceable，这才是黑市愿意接货的前提。",
+     "ex1": "The criminals used untraceable payments to conceal their illegal activities. 犯罪分子使用难以追踪的支付方式来掩盖非法活动。",
+     "ex2": "Once the stolen stones were recut, they became almost untraceable. 这些被盗宝石一旦经过重新切割，就几乎无法追查来源。"
+    }
+   ]
+  },
+  {
+   "en_html": "On Oct. 5, thieves <mark class=\"voc\">broke into</mark> the C. Karoutzos <mark class=\"voc\">Contemporary</mark> Art Center in central France and <mark class=\"voc\">hauled off</mark> a 330-pound bronze book cover decorated with gold, gems and shells designed by <mark class=\"voc\">surrealist</mark> Salvador Dalí. Museum owner Christian Karoutzos said his video cameras captured a few <mark class=\"voc\">shadowy</mark> figures leaving the scene, but the book cover remains missing. On the other hand, authorities have had better success recovering stolen paintings. It likely helped that the works were <mark class=\"voc\">identifiable</mark> and only valuable if left <mark class=\"voc\">intact</mark>, Marinello said. “You can’t melt down a Renoir.”",
+   "zh": "10月5日，窃贼闯入法国中部的C. Karoutzos当代艺术中心，搬走了一件重达330磅（约150公斤）的青铜书封。这件作品由超现实主义艺术家萨尔瓦多·达利设计，装饰着黄金、宝石和贝壳。博物馆所有者克里斯蒂安·卡鲁佐斯表示，监控摄像头拍下了几个模糊的人影离开现场的画面，但这件青铜书封至今仍下落不明。另一方面，当局在追回被盗画作方面取得了更大的成功。马里内洛表示，这很可能是因为画作具有可辨识的特征，而且只有保持完整才有价值。“你总不能把一幅雷诺阿的画熔掉吧。”",
+   "notes": [
+    {
+     "w": "break into",
+     "ipa": "/breɪk ˈɪntuː/",
+     "pos": "phr. v.",
+     "en": "to enter a building or place illegally, especially by using force",
+     "zh": "破门而入；非法闯入",
+     "ctx": "最朴素的动词，却和后面的 hauled off 一起构成闯进去、搬出来的两拍节奏。",
+     "ex1": "Burglars broke into the jewelry shop through a back window. 窃贼从后窗闯入了这家珠宝店。",
+     "ex2": "Someone tried to break into our apartment while we were away. 我们不在家时，有人试图闯入我们的公寓。"
+    },
+    {
+     "w": "contemporary",
+     "ipa": "/kənˈtempəreri/",
+     "pos": "adj.",
+     "en": "belonging to or happening in the present time, especially in art, culture or society",
+     "zh": "当代的；现代的；同时代的",
+     "ctx": "馆名里的一枚坐标，与后文达利的 surrealist 相映：当代艺术馆里，摆着超现实主义的杰作。",
+     "ex1": "The gallery is famous for its collection of contemporary Chinese art. 这家画廊以收藏中国当代艺术作品而闻名。",
+     "ex2": "Contemporary artists often experiment with unusual materials and techniques. 当代艺术家经常尝试使用不同寻常的材料和技法。"
+    },
+    {
+     "w": "haul off",
+     "ipa": "/hɔːl ɔːf/",
+     "pos": "phr. v.",
+     "en": "to pull, carry or take something away, especially something large or heavy",
+     "zh": "拖走；搬走；费力地运走",
+     "ctx": "330 磅的青铜书封是被拖走的：haul off 自带重量感，读者几乎能听见摩擦声。",
+     "ex1": "The thieves hauled off a massive bronze statue in the middle of the night. 窃贼在半夜搬走了一尊巨大的青铜雕像。",
+     "ex2": "Workers hauled off the damaged furniture after the flood. 洪水过后，工人们将损坏的家具费力地搬走。"
+    },
+    {
+     "w": "surrealist",
+     "ipa": "/səˈriːəlɪst/",
+     "pos": "n.",
+     "en": "an artist or writer who creates works featuring strange, dreamlike or seemingly impossible images and ideas",
+     "zh": "超现实主义艺术家；超现实主义者",
+     "ctx": "一个身份标签就替读者省去解释：达利的东西，本来就像梦。",
+     "ex1": "The surrealist painted a landscape filled with floating clocks and mysterious figures. 这位超现实主义艺术家画了一幅充满漂浮时钟和神秘人物的风景画。",
+     "ex2": "As a surrealist, she often drew inspiration from dreams and the unconscious mind. 作为一名超现实主义艺术家，她经常从梦境和潜意识中汲取灵感。"
+    },
+    {
+     "w": "shadowy",
+     "ipa": "/ˈʃædoʊi/",
+     "pos": "adj.",
+     "en": "dark and difficult to see clearly, or mysterious and lacking clear details",
+     "zh": "模糊不清的；隐约的；神秘的",
+     "ctx": "监控只拍到 shadowy figures，模糊的人影——一个形容词写足抓不到人的无力感。",
+     "ex1": "A shadowy figure appeared at the end of the empty street. 空荡荡的街道尽头出现了一个模糊的人影。",
+     "ex2": "The witness could only describe a shadowy figure standing near the entrance. 目击者只能描述出一个站在入口附近、轮廓模糊的人影。"
+    },
+    {
+     "w": "identifiable",
+     "ipa": "/aɪˌdentɪˈfaɪəbəl/",
+     "pos": "adj.",
+     "en": "able to be recognized or identified as a particular person or thing",
+     "zh": "可辨认的；可识别的；能够确认身份的",
+     "ctx": "画作 identifiable，所以追得回来；与第 4 段的 untraceable 正好是一对反义，全篇的对照在此收口。",
+     "ex1": "The suspect was clearly identifiable in the security footage. 监控录像中的嫌疑人可以被清楚地辨认出来。",
+     "ex2": "Each antique in the collection has identifiable features that prove its origin. 收藏中的每件古董都有能够证明其来源的可辨识特征。"
+    },
+    {
+     "w": "intact",
+     "ipa": "/ɪnˈtækt/",
+     "pos": "adj.",
+     "en": "complete and not damaged or changed in any way",
+     "zh": "完整无损的；未受破坏的；保持原样的",
+     "ctx": "名画只有 intact 才值钱，这半句是全文推理的支点：贼为什么不肯偷画。",
+     "ex1": "Despite the powerful earthquake, the ancient temple remained intact. 尽管发生了强烈地震，这座古老的寺庙依然完好无损。",
+     "ex2": "The package arrived with all its contents intact. 包裹送达时，里面的所有物品都完好无损。"
+    }
+   ]
+  }
+ ]
+}

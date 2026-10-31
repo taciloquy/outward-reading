@@ -1,0 +1,527 @@
+{
+ "date": "2026-10-22",
+ "title_tag": "马斯克突然要给7200万美国孩子每人送1股SpaceX：他到底想干什么？—— 美国彭博社外刊讲解 第1205天",
+ "h1": "马斯克突然要给7200万美国孩子每人送1股SpaceX：他到底想干什么？",
+ "source_label": "Bloomberg Opinion",
+ "category": "美国彭博社外刊讲解 第1205天",
+ "read_minutes": 20,
+ "nav_hint": "Musk’s Promise to Kids Is No Gift",
+ "headline": {
+  "en_html": "Musk’s <mark class=\"voc\">Promise</mark> to Give SpaceX Stock to Kids <mark class=\"voc\">Is No Gift</mark>",
+  "zh": "马斯克放话要给孩子们送 SpaceX 股票——名为馈赠，实非善礼。",
+  "notes": [
+   {
+    "w": "promise",
+    "ipa": "/ˈprɒmɪs/",
+    "pos": "n.",
+    "en": "promise (n.) means a statement that you will definitely do something",
+    "zh": "诺言、允诺",
+    "ctx": "全文的靶子——马斯克“要给孩子们送股票”这件事本身；标题主语是 promise 而不是 gift，作者要拆的不是礼物的价值，而是这句话的可信度。",
+    "ex1": "He made a promise to donate one share to every child, without saying how the shares would ever reach them. 他承诺给每个孩子捐一股，却只字未提这些股票究竟怎么发到孩子手上。",
+    "ex2": "A promise is cheap; it is the delivery that costs money. 承诺很便宜，贵的是兑现。"
+   },
+   {
+    "w": "is no gift",
+    "ipa": "/ɪz nəʊ ɡɪft/",
+    "pos": "结构",
+    "en": "be no + noun is a structure used to deny the very nature of something, not its degree",
+    "zh": "根本不是……",
+    "ctx": "作者第一秒就亮牌——这不是“礼物够不够大”的讨论，而是“它算不算礼物”的判决；no + 名词的语气比 not a 强得多。",
+    "ex1": "His silence was no accident; he had been advised not to speak. 他的沉默绝非偶然，是有人建议他别开口。",
+    "ex2": "This is no substitute for real regulation. 这替代不了真正的监管。"
+   }
+  ]
+ },
+ "paragraphs": [
+  {
+   "en_html": "One of the great joys, but also <mark class=\"voc\">miseries</mark>, of following business news over the past decade <mark class=\"voc\">or so</mark> has been riding the <mark class=\"voc\">dodgy</mark> <mark class=\"voc\">roller coaster</mark> of <mark class=\"voc\">the Elon Musk experience</mark>. He has gone from a guy people considered a <mark class=\"voc\">real-life</mark> Tony Stark to something more like a modern-day Henry Ford, <mark class=\"voc\">in the worst possible way</mark>, with countless <mark class=\"voc\">gut-wrenching</mark> <mark class=\"voc\">twists</mark> in between. At no point, however, did anybody think: “Hey, you know who’s <mark class=\"voc\">missing out on</mark> this? Children.” Until today.",
+   "zh": "过去十年，追踪商业新闻，最大的乐趣与最大的折磨，是同一件事——坐了一趟“马斯克体验”的野过山车。他从人人仰望的“现实版钢铁侠”，一路坐成了“现代版亨利·福特”，而且是福特最不堪的那种翻版，中间数不清的揪心弯道自不必说。可这么多年来，从没有人想过：“哎，这趟热闹里，谁还没被带上车？孩子们啊。”——直到今天。",
+   "notes": [
+    {
+     "w": "misery",
+     "ipa": "/ˈmɪzəri/",
+     "pos": "n.",
+     "en": "misery (n.) means great suffering or discomfort, either physical or mental",
+     "zh": "痛苦、煎熬",
+     "ctx": "与 joys 并列——追马斯克的新闻又爽又遭罪，一句里把他定性成“又爱又恨的连续剧”；作不可数名词时指一种持续的难受状态。",
+     "ex1": "The joys and miseries of following this company are hard to separate. 追踪这家公司的乐趣与折磨，已经很难分开了。",
+     "ex2": "He put us out of our misery and admitted the launch was delayed again. 他终于让我们解脱了：承认发射又推迟了。"
+    },
+    {
+     "w": "or so",
+     "ipa": "/ɔː səʊ/",
+     "pos": "短语",
+     "en": "or so means approximately, roughly",
+     "zh": "……左右、大约",
+     "ctx": "口语松弛感——作者本可写 approximately，偏用 or so，等于告诉读者“我们聊点轻松的”；它只能放在数量词之后。",
+     "ex1": "He has been making promises like this for a decade or so. 这样的承诺他大概已经许了十年左右。",
+     "ex2": "The meeting should last an hour or so. 会大概开一个小时左右。"
+    },
+    {
+     "w": "dodgy",
+     "ipa": "/ˈdɒdʒi/",
+     "pos": "adj.",
+     "en": "dodgy (adj.) means unreliable, possibly dishonest, or likely to fail or break at any moment",
+     "zh": "不靠谱的、来路可疑的",
+     "ctx": "王牌词——a dodgy roller coaster 不是“刺激的过山车”，是“你怀疑螺丝没拧紧的那种过山车”，一个形容词就给马斯克这十年定了性。",
+     "ex1": "Investors have learned to read his timelines as, at best, dodgy. 投资者已经学会把他的时间表读成——往好了说，不靠谱。",
+     "ex2": "The numbers look dodgy to anyone who has seen the original filing. 凡看过原始申报文件的人，都觉得这些数字可疑。"
+    },
+    {
+     "w": "roller coaster",
+     "ipa": "/ˈrəʊlə ˌkəʊstə(r)/",
+     "pos": "n.",
+     "en": "a roller coaster is a ride at an amusement park that moves very fast along a steep track; figuratively, a situation that keeps changing dramatically",
+     "zh": "过山车；大起大落的经历",
+     "ctx": "全文的总比喻——把“关注马斯克”这件事打包成一座过山车，后面所有的 twists 都从这座车上来。",
+     "ex1": "It has been a roller coaster of a year for anyone holding the stock. 对持股的人来说，这一年就是一趟过山车。",
+     "ex2": "Buckle up — this is going to be a roller coaster. 系好安全带，这趟要颠了。"
+    },
+    {
+     "w": "the ... experience",
+     "ipa": "/ɪkˈspɪəriəns/",
+     "pos": "n.",
+     "en": "experience (n.) here means everything that happens to you in connection with a particular person or activity",
+     "zh": "经历、体验（打包用法）",
+     "ctx": "the Elon Musk experience——把一个活人做成了主题乐园项目，这是全文最损的一处命名。",
+     "ex1": "Calling it “the full experience” is the politest way to warn you. 把这叫“完整体验”，是最客气的提醒方式。",
+     "ex2": "Ten years of this man is less a career than an experience. 这个人这十年与其说是事业，不如说是一场体验。"
+    },
+    {
+     "w": "real-life / modern-day",
+     "ipa": "/ˈrɪəl laɪf/ /ˈmɒdn deɪ/",
+     "pos": "adj.",
+     "en": "real-life means existing in reality rather than in fiction; modern-day means existing in the present time",
+     "zh": "现实版的；当代的",
+     "ctx": "比喻的两个端点——一次用 real-life（真人版钢铁侠），一次用 modern-day（现代版亨利·福特），换词之间完成了一次坠落。",
+     "ex1": "He was once described as a real-life Tony Stark. 他曾被人称作真人版钢铁侠。",
+     "ex2": "Critics now call him a modern-day Henry Ford — and not as a compliment. 批评者现在叫他现代版亨利·福特——这可不是夸他。"
+    },
+    {
+     "w": "in the worst possible way",
+     "ipa": "/ɪn ðə wɜːst ˈpɒsəbl weɪ/",
+     "pos": "短语",
+     "en": "in the worst possible way means in the most negative manner imaginable",
+     "zh": "以最糟糕的方式",
+     "ctx": "福特式下坡的注解——亨利·福特晚年用影响力传播反犹内容，所以作者说的不是“他退步了”，而是“他把影响力用在了最坏的地方”。",
+     "ex1": "He used his enormous influence in the worst possible way. 他把自己的巨大影响力用在了最糟的地方。",
+     "ex2": "The announcement could not have come at a worse possible time. 这消息挑的时间再糟不过了。"
+    },
+    {
+     "w": "gut-wrenching",
+     "ipa": "/ˈɡʌt rentʃɪŋ/",
+     "pos": "adj.",
+     "en": "gut-wrenching (adj.) means causing very strong, unpleasant emotions; literally, making your stomach twist",
+     "zh": "揪心的、让人五脏翻腾的",
+     "ctx": "十年弯道个个带离心力——字面是“把肠子拧了一把”，比 heart-wrenching 更生理、更难忍，读者能感到胃在翻。",
+     "ex1": "Watching the stock fall 40% in a month was gut-wrenching. 眼看着股价一个月跌掉四成，那种感觉是揪心的。",
+     "ex2": "It was a gut-wrenching choice between two bad options. 那是在两个糟糕选项之间做出的揪心抉择。"
+    },
+    {
+     "w": "twist",
+     "ipa": "/twɪst/",
+     "pos": "n.",
+     "en": "a twist is an unexpected development in a story or situation",
+     "zh": "反转、转折",
+     "ctx": "回扣 roller coaster——过山车的弯道叫 twists，剧情的反转也叫 twists，作者一个词同时管住了两个比喻。",
+     "ex1": "The story’s cruelest twist is that nobody was surprised. 这个故事最残忍的反转是：没人觉得意外。",
+     "ex2": "There were twists and turns enough for a whole season of television. 那些弯弯绕绕，足够拍一整季剧。"
+    },
+    {
+     "w": "miss out on",
+     "ipa": "/mɪs aʊt ɒn/",
+     "pos": "短语v.",
+     "en": "miss out on sth means to fail to experience or benefit from something good",
+     "zh": "错过、没赶上",
+     "ctx": "反讽的引信——孩子们“错过了”这趟过山车？作者假装替孩子惋惜，其实是在说：孩子们躲过一劫。",
+     "ex1": "Nobody wants to miss out on the next big thing. 谁都不想错过下一个大风口。",
+     "ex2": "The children, mercifully, missed out on the whole drama. 孩子们侥幸躲过了整场闹剧。"
+    }
+   ]
+  },
+  {
+   "en_html": "SpaceX Chief Executive Officer Elon Musk <mark class=\"voc\">pledged</mark> on Monday to <mark class=\"voc\">donate</mark> one share of his company to each of America’s 72 million children, <mark class=\"voc\">vowing</mark> it would be the first such gift “of many.” If you had just this morning traveled here from another planet, then you might consider this a <mark class=\"voc\">reasonably</mark> <mark class=\"voc\">generous</mark> <mark class=\"voc\">gesture</mark> from a <mark class=\"voc\">near-trillionaire</mark>. The stock has been a bit <mark class=\"voc\">stagnant</mark> since its June IPO, <mark class=\"voc\">sure, but</mark> the company has billions of dollars in US government contracts, and Musk has promised its revenue will <mark class=\"voc\">soar</mark> from less than $19 billion last year to $1 trillion by 2030.",
+   "zh": "SpaceX 首席执行官埃隆·马斯克周一承诺，将向全美7200 万名儿童每人捐赠一股公司股票，并宣称这不过是“诸多馈赠”中的第一份。倘若你是今晨才从外星球飞抵地球，你或许会以为，这是一位准万亿富翁相当慷慨的姿态。没错，公司股票自六月上市以来确实有些趴窝，但这家企业手里握着数十亿美元的美国政府合同，而马斯克更是放话：营收将从去年的不足190 亿美元，一路飙升至2030 年的1 万亿美元。",
+   "notes": [
+    {
+     "w": "pledge",
+     "ipa": "/pledʒ/",
+     "pos": "v.",
+     "en": "pledge (v.) means to formally and publicly promise to do something",
+     "zh": "正式、公开地承诺",
+     "ctx": "记者在陈述事实——全段三个“承诺”动词排下来：pledged（转述事实）→ vowing（切进马斯克本人的口气）→ promise（作者总结），重量与视角各不同。",
+     "ex1": "He pledged one share to every child and gave no further detail. 他承诺给每个孩子一股，再没给任何细节。",
+     "ex2": "Politicians pledge a great deal in the weeks before an election. 政客在选举前几周许诺得特别多。"
+    },
+    {
+     "w": "donate",
+     "ipa": "/dəʊˈneɪt/",
+     "pos": "v.",
+     "en": "donate (v.) means to give money or goods to a person or organization, usually for a good cause",
+     "zh": "捐赠",
+     "ctx": "donate 是马斯克的说法，作者全程不背书——他自己用的是 pledge、promise、offer 这些带距离的词。",
+     "ex1": "He said he would donate the shares, but no paperwork followed. 他说会捐出这些股票，可之后没见任何文件。",
+     "ex2": "The company donates a fixed share of profits every year. 这家公司每年捐出固定比例的利润。"
+    },
+    {
+     "w": "vow",
+     "ipa": "/vaʊ/",
+     "pos": "v.",
+     "en": "vow (v.) means to make a serious, solemn promise, often publicly or to a higher power",
+     "zh": "立誓、起誓",
+     "ctx": "作者用 vowing 转述马斯克的话，是让他自己给自己加码——“这还只是第一批哦”，画风立刻变成他在自我感动。",
+     "ex1": "He vowed it would be the first of many such gifts. 他立誓说这只是众多礼物中的第一份。",
+     "ex2": "She vowed never to invest in a company she could not understand. 她发誓绝不再投资自己看不懂的公司。"
+    },
+    {
+     "w": "reasonably",
+     "ipa": "/ˈriːznəbli/",
+     "pos": "adv.",
+     "en": "reasonably (adv.) here means fairly or to a moderate degree, but not extremely",
+     "zh": "还算、尚可",
+     "ctx": "刀藏在副词里——reasonably generous ≈“凑合算慷慨”，作者先把 generous 打折，再拿给你看。",
+     "ex1": "A reasonably generous reading is that he meant well. 往好了理解，算是他本意不坏。",
+     "ex2": "The terms are reasonably generous, but the risk is not. 条款还算大方，风险可不算小。"
+    },
+    {
+     "w": "generous",
+     "ipa": "/ˈdʒenərəs/",
+     "pos": "adj.",
+     "en": "generous (adj.) means giving more of something, especially money, than is usual or expected",
+     "zh": "慷慨的",
+     "ctx": "这个词全文只出现在“假设”里——只有刚从外星球来的人，才会觉得这算慷慨，作者自己一次都没承认。",
+     "ex1": "Only someone who had just arrived from another planet would call it generous. 只有一个刚从外星球来的人，才会管这叫慷慨。",
+     "ex2": "He has always been generous with other people’s money. 他一向拿别人的钱很大方。"
+    },
+    {
+     "w": "gesture",
+     "ipa": "/ˈdʒestʃə(r)/",
+     "pos": "n.",
+     "en": "a gesture is an action intended to show a feeling or intention, often more symbolic than practical",
+     "zh": "姿态、表示",
+     "ctx": "姿态≠实质——elegant gesture 的潜台词是“这事的意义主要在于做给你看”。",
+     "ex1": "It was a gesture of goodwill, and nothing more. 那只是个善意的姿态，仅此而已。",
+     "ex2": "The apology was widely read as an empty gesture. 那次道歉被普遍看作空洞的姿态。"
+    },
+    {
+     "w": "near-trillionaire",
+     "ipa": "/ˌnɪə ˌtrɪljəˈneə(r)/",
+     "pos": "n.",
+     "en": "a near-trillionaire is someone whose wealth is close to, but not yet, one trillion dollars",
+     "zh": "准万亿富翁",
+     "ctx": "上去过、没守住，才是他此刻最真实的位置——今年 6 月 SpaceX 上市后他身家一度破万亿，随后暴跌，所以 near- 这五个字母写的是一段真实历史。",
+     "ex1": "Trillionaire was a word in dictionaries for 160 years before anyone qualified. trillionaire 这个词在词典里躺了一百六十年，才终于有人够格。",
+     "ex2": "He became, briefly, the world’s first trillionaire. 他一度成了世界首位万亿富翁。"
+    },
+    {
+     "w": "stagnant",
+     "ipa": "/ˈstæɡnənt/",
+     "pos": "adj.",
+     "en": "stagnant (adj.) means not developing, growing or changing; literally, of water, not flowing",
+     "zh": "停滞的",
+     "ctx": "配 a bit 用的高级黑——人类史上最大规模的个人财富蒸发，作者写“有点趴着”，这叫 understatement，往小了说反而更重。",
+     "ex1": "The stock has been a bit stagnant since its June listing. 该股自六月上市以来一直有点趴着。",
+     "ex2": "A stagnant economy punishes the young first. 停滞的经济最先惩罚年轻人。"
+    },
+    {
+     "w": "soar",
+     "ipa": "/sɔː(r)/",
+     "pos": "v.",
+     "en": "soar (v.) means to rise very quickly to a high level",
+     "zh": "飙升",
+     "ctx": "作者替马斯克把饼画到天上——四年涨 52 倍，用 soar 而不是 rise，就是在暗示“这得靠气流，不靠腿”。",
+     "ex1": "He promised revenue would soar from $19bn to $1trn by 2030. 他承诺营收将从190亿飙升到2030年的1万亿。",
+     "ex2": "Temperatures soared, and so did the complaints. 温度飙升，抱怨也跟着飙升。"
+    },
+    {
+     "w": "sure, but...",
+     "ipa": "/ʃʊə bʌt/",
+     "pos": "结构",
+     "en": "sure, but... is a concessive pattern in which the speaker first grants the opposing point, then turns against it",
+     "zh": "没错，但是……",
+     "ctx": "先替对方把好话说完，再一刀切回——这是英语议论文与辩论里最基础也最好用的让步套路。",
+     "ex1": "Sure, the stock has been flat — but the contracts are real. 没错，股价是趴着不动，可订单是真的。",
+     "ex2": "Sure, it sounds generous, but nobody has seen a contract. 听着是挺大方，可谁也没见过合同。"
+    }
+   ]
+  },
+  {
+   "en_html": "Such a gift would <mark class=\"voc\">barely</mark> <mark class=\"voc\">trouble</mark> Musk’s vast wealth and power. It would cost about $10.5 billion, <mark class=\"voc\">shaving</mark> Musk’s <mark class=\"voc\">net worth</mark> to $889.5 billion. And as my Bloomberg Opinion colleague Liam Denning <mark class=\"voc\">points out</mark>, it would cut his SpaceX <mark class=\"voc\">voting power</mark>, currently at 82% because of the stock’s <mark class=\"voc\">dual-class</mark> nature, by just 0.1 percentage points.",
+   "zh": "这样的一份“厚礼”，几乎不会动摇马斯克庞大的财富与权力。它要花掉大约105 亿美元，把他的净资产从九千亿刮到8895 亿——仅此而已。而正如我在彭博观点栏目的同事利亚姆·丹宁所指出的：由于双层股权结构，他目前握有SpaceX 82% 的投票权，这份礼物会把它削掉——仅仅0.1 个百分点。",
+   "notes": [
+    {
+     "w": "barely",
+     "ipa": "/ˈbeəli/",
+     "pos": "adv.",
+     "en": "barely (adv.) means only just; almost not",
+     "zh": "几乎不、仅仅",
+     "ctx": "barely trouble 是全文第一刀——这份礼物几乎不动他一根毫毛；它自带否定意味，句子本身不再加 not。",
+     "ex1": "The gift would barely trouble his fortune. 这份礼物几乎动不了他的财富。",
+     "ex2": "She had barely finished speaking when the questions began. 她话音刚落，问题就来了。"
+    },
+    {
+     "w": "trouble",
+     "ipa": "/ˈtrʌbl/",
+     "pos": "v.",
+     "en": "trouble (v.) means to cause someone worry, effort or inconvenience",
+     "zh": "使烦恼、打扰",
+     "ctx": "熟词僻义——人人认识的是名词“麻烦”，此处是动词“使费神”；把“花钱”说成“费神”，笔法极轻：这份礼物对他连“费神”都算不上。",
+     "ex1": "The cost would not trouble him in the slightest. 这笔钱对他来说一点也不费神。",
+     "ex2": "Don’t trouble yourself with the small print. 那些小字条款你别费神看了。"
+    },
+    {
+     "w": "shave",
+     "ipa": "/ʃeɪv/",
+     "pos": "v.",
+     "en": "shave (v.) means to remove hair with a razor; figuratively, to reduce something by a small amount",
+     "zh": "刮掉一层、小幅削减",
+     "ctx": "王牌词——cut／reduce／trim／slash／shave 这一队里，shave 最轻、最不疼：105 亿是他的胡茬，不是肉；第 9 段 slash 出现时会回扣。",
+     "ex1": "The gift would shave his net worth to $889.5 billion. 这份礼物会把他的净资产削到8895亿。",
+     "ex2": "They shaved two percent off the budget and called it reform. 他们从预算里刮掉两个百分点，然后管这叫改革。"
+    },
+    {
+     "w": "net worth",
+     "ipa": "/ˌnet ˈwɜːθ/",
+     "pos": "n.",
+     "en": "net worth is the value of everything a person or company owns, minus everything they owe",
+     "zh": "净资产",
+     "ctx": "富豪榜上那个数——net 是“扣净的”（反义 gross 毛的），拥有减负债就是 net worth。",
+     "ex1": "His net worth fell briefly, then rose again. 他的净资产短暂下跌，随后又涨了回去。",
+     "ex2": "Net worth is not the same as cash in the bank. 净资产不等于银行里的现金。"
+    },
+    {
+     "w": "point out",
+     "ipa": "/pɔɪnt aʊt/",
+     "pos": "短语v.",
+     "en": "point out means to draw attention to a fact or detail",
+     "zh": "指出、点明",
+     "ctx": "作者搬出同事 Liam Denning——账是算过的，不是他拍脑袋；评论文章里引用同事，是给自己加一道保险。",
+     "ex1": "As my colleague points out, the voting power barely moves. 正如我同事指出的，投票权几乎不动。",
+     "ex2": "He was quick to point out that no money had changed hands. 他立刻指出，一分钱都还没过手。"
+    },
+    {
+     "w": "voting power",
+     "ipa": "/ˈvəʊtɪŋ ˈpaʊə(r)/",
+     "pos": "n.",
+     "en": "voting power is the ability to influence decisions through the votes you control",
+     "zh": "投票权、表决权",
+     "ctx": "真正的权力在这儿，不在钱上——捐赠会稀释股份，但因为有双层股权，投票权只掉 0.1 个百分点。",
+     "ex1": "He kept 82% of the voting power after the gift. 捐完之后他仍握着82%的投票权。",
+     "ex2": "Money is one thing; voting power is another. 钱是一回事，投票权是另一回事。"
+    },
+    {
+     "w": "dual-class",
+     "ipa": "/ˈdjuːəl klɑːs/",
+     "pos": "adj.",
+     "en": "dual-class refers to a share structure in which a company issues two (or more) classes of stock with different voting rights per share",
+     "zh": "双层（多重）股权",
+     "ctx": "42% 股份对 82% 投票权的秘密——创始人持有一股多票的 B 类股，股份被稀释，控制权几乎不动（福特汽车、Alphabet、Meta 同理）。",
+     "ex1": "Thanks to the dual-class structure, founders are hard to remove. 有了双层股权，创始人很难被赶走。",
+     "ex2": "Investors increasingly object to dual-class listings. 投资者越来越反对双层股权上市。"
+    }
+   ]
+  },
+  {
+   "en_html": "But even a <mark class=\"voc\">passing</mark> familiarity with Musk’s whole <mark class=\"voc\">vibe</mark> should <mark class=\"voc\">raise many immediate concerns</mark> about this “promise.” For one thing, it was made on his social media app, X, <mark class=\"voc\">formerly</mark> known as Twitter, on which Musk has promised many things, a large percentage of which have never happened. Most famous was his 2018 <mark class=\"voc\">declaration</mark> that he had “funding secured” to <mark class=\"voc\">take Tesla Inc. private</mark> at $420 a share. It <mark class=\"voc\">got him in serious legal trouble</mark> when it <mark class=\"voc\">turned out</mark> not to be true.",
+   "zh": "然而，哪怕只是对马斯克这个人整体画风稍加了解，也足以让人立刻对这份“承诺”生出诸多疑虑。其一，它是发在他自己的社交平台X——也就是昔日的推特——上面的；而在那个平台上，马斯克许下过许多承诺，其中相当大一部分从未兑现。最出名的要数他2018 年的那次宣告：他声称已“落实资金”，将以每股420 美元将特斯拉私有化。后来事实证明并非如此，他因此惹上了不小的法律麻烦。",
+   "notes": [
+    {
+     "w": "passing",
+     "ipa": "/ˈpɑːsɪŋ/",
+     "pos": "adj.",
+     "en": "passing (adj.) here means brief or casual, not deep or thorough",
+     "zh": "一闪而过的、粗略的",
+     "ctx": "哪怕你只是顺手瞥过一眼他这个人，都足够起疑——a passing familiarity 是极克制的说法：不需要研究，看一眼就够。",
+     "ex1": "Even a passing familiarity with his record raises questions. 哪怕只是略略了解他的过往，都会起疑。",
+     "ex2": "He mentioned it in passing, then changed the subject. 他顺口提了一句，就换了话题。"
+    },
+    {
+     "w": "vibe",
+     "ipa": "/vaɪb/",
+     "pos": "n.",
+     "en": "vibe (n., informal) means the atmosphere or feeling that a person or place gives off",
+     "zh": "氛围、气场",
+     "ctx": "语域切换的信号——正经财经评论里突然冒出一个俚语，是作者故意“降调”：我都不用列证据，你感受一下这个人。",
+     "ex1": "The whole vibe of the announcement felt rushed. 这场发布的整体氛围就透着急。",
+     "ex2": "I got a bad vibe from the moment the details were skipped. 从细节被跳过的那一刻起，我就觉得不对劲。"
+    },
+    {
+     "w": "raise concerns",
+     "ipa": "/reɪz kənˈsɜːnz/",
+     "pos": "短语",
+     "en": "raise concerns means to cause people to feel worried about something",
+     "zh": "引发担忧",
+     "ctx": "raise 熟词僻义：举起→引发、提出（raise a question／raise doubts／raise eyebrows），与 concerns 搭配是评论文章的高频起手式。",
+     "ex1": "The lack of paperwork raised immediate concerns. 没有书面文件，立刻引发了担忧。",
+     "ex2": "It raises the question of who is actually in charge. 这就引出了一个问题：到底谁说了算。"
+    },
+    {
+     "w": "formerly",
+     "ipa": "/ˈfɔːməli/",
+     "pos": "adv.",
+     "en": "formerly (adv.) means in the past, before the present situation",
+     "zh": "从前、以前",
+     "ctx": "形近词陷阱：formerly（从前）≠ formally（正式地）；X, formerly known as Twitter 是新闻里最标准的改名交代方式。",
+     "ex1": "The platform, formerly known as Twitter, is owned by him. 这个平台从前叫Twitter，现在归他所有。",
+     "ex2": "The building was formerly a factory. 这栋楼从前是个工厂。"
+    },
+    {
+     "w": "declaration",
+     "ipa": "/ˌdekləˈreɪʃn/",
+     "pos": "n.",
+     "en": "a declaration is an official or emphatic statement",
+     "zh": "声明、宣告",
+     "ctx": "最爱带同位语从句的名词之一——后接 that he had “funding secured”，that 后主谓宾齐全，展开 declaration 的内容。",
+     "ex1": "His declaration that the funding was secured turned out to be false. 他那份“资金已到位”的声明，结果并不属实。",
+     "ex2": "The declaration that no jobs would be cut lasted a week. 那份“不裁员”的声明撑了一个星期。"
+    },
+    {
+     "w": "take ... private",
+     "ipa": "/teɪk ˈpraɪvət/",
+     "pos": "短语",
+     "en": "to take a company private means to buy back all its publicly traded shares so it is no longer listed",
+     "zh": "私有化",
+     "ctx": "2018 年那桩旧案的核心动作，反义是 go public（上市）。",
+     "ex1": "He said he would take the company private at $420 a share. 他说要以每股420美元把公司私有化。",
+     "ex2": "Going public brings money; going private brings control. 上市带来钱，私有化带来控制权。"
+    },
+    {
+     "w": "get sb in trouble",
+     "ipa": "/ɡet ɪn ˈtrʌbl/",
+     "pos": "句型",
+     "en": "to get someone in trouble means to cause them to be blamed or punished",
+     "zh": "让某人惹上麻烦",
+     "ctx": "极生活化、可直接搬用的句型——一个 700 亿美元级别的事，作者用小学生级别的词来收尾，反差感全在这里。",
+     "ex1": "The tweet got him in serious legal trouble. 那条推文让他惹上了严重的法律麻烦。",
+     "ex2": "Don’t sign anything you don’t understand — it will get you in trouble. 看不懂的别签，会让你惹麻烦的。"
+    },
+    {
+     "w": "turn out",
+     "ipa": "/tɜːn aʊt/",
+     "pos": "短语v.",
+     "en": "turn out means to happen in a particular way, or to be discovered to be",
+     "zh": "结果是、原来是",
+     "ctx": "自带反转——it turned out not to be true：前面铺得多满，这里摔得多重。",
+     "ex1": "It turned out not to be true. 结果证明那不是真的。",
+     "ex2": "The deal turned out to be far smaller than announced. 这笔交易结果远没有宣布的那么大。"
+    }
+   ]
+  },
+  {
+   "en_html": "If you have several <mark class=\"voc\">hours to kill</mark>, you can <mark class=\"voc\">peruse</mark> this website for a long list of other <mark class=\"voc\">unfulfilled</mark> Musk promises, including a “<mark class=\"voc\">cross country</mark> <mark class=\"voc\">summon</mark>” feature that would let your Tesla travel the continent by itself, Incredible-Journey style, to find you; half-hour rocket trips from New York to London; 1 million robotaxis; and <mark class=\"voc\">seafaring</mark> Teslas, <mark class=\"voc\">to name a few</mark>. <mark class=\"voc\">Buying stock in Musk</mark> is <mark class=\"voc\">less an investment than</mark> it is <mark class=\"voc\">subscribing to</mark> a streaming service for increasingly <mark class=\"voc\">ridiculous</mark> science fiction.",
+   "zh": "若你有几个小时的闲暇要打发，不妨去某个网站上细细翻阅——那儿列着一长串马斯克未兑现的承诺：比如“跨州召唤”功能，能让你的特斯拉独自横穿大陆、像《不可思议的旅程》里的三只小动物那样跑来与你相会；比如半小时从纽约飞到伦敦的火箭旅程；比如一百万辆机器人出租车；再比如能出海航行特斯拉——凡此种种，不一而足。买入“马斯克”的股票，与其说是一项投资，不如说是订阅了一项流媒体服务，播的还是一出越来越荒诞的科幻连续剧。",
+   "notes": [
+    {
+     "w": "hours to kill",
+     "ipa": "/ˈaʊəz tə kɪl/",
+     "pos": "结构",
+     "en": "time to kill means spare time with nothing particular to do; kill time means to spend time doing something unimportant",
+     "zh": "要打发的时间",
+     "ctx": "语法上是不定式作后置定语（hours to kill = hours that you need to kill）；这份清单长到你得腾出整个下午才翻得完。",
+     "ex1": "If you have several hours to kill, the list is waiting. 你要是有几个小时要打发，那份清单正等着你。",
+     "ex2": "We had an hour to kill before the flight. 起飞前我们有一个小时要打发。"
+    },
+    {
+     "w": "peruse",
+     "ipa": "/pəˈruːz/",
+     "pos": "v.",
+     "en": "peruse (v.) means to read or examine something carefully, especially at length",
+     "zh": "细读、通读",
+     "ctx": "最费时间的“看”——read／scan／skim／browse／peruse 里最慢的一档，配 hours 才够用。",
+     "ex1": "You can peruse the website for a long list of broken promises. 你可以去那个网站细读一长串未兑现的承诺。",
+     "ex2": "He perused the contract for an hour before signing. 他把合同细看了一个小时才签字。"
+    },
+    {
+     "w": "unfulfilled",
+     "ipa": "/ˌʌnfʊlˈfɪld/",
+     "pos": "adj.",
+     "en": "unfulfilled (adj.) means not carried out or not achieved",
+     "zh": "未兑现的、未实现的",
+     "ctx": "第 3 段 fulfill a pledge 埋的伏笔在这里兑现——作者不写 broken promises 而写 unfulfilled，词更冷，也更像“账本”。",
+     "ex1": "The website catalogues years of unfulfilled promises. 那个网站分门别类地记录着多年未兑现的承诺。",
+     "ex2": "The promise remains unfulfilled to this day. 这个承诺到今天仍未兑现。"
+    },
+    {
+     "w": "cross country",
+     "ipa": "/krɒs ˈkʌntri/",
+     "pos": "短语",
+     "en": "cross country means across a whole country, from one side to the other",
+     "zh": "横穿全国的",
+     "ctx": "让一辆车自己横穿整个大陆来接你——作者连“这不可能”都不用说，只要原样搬过来就好笑。",
+     "ex1": "The car would travel the continent by itself to find you. 那辆车会自己横穿大陆来找你。",
+     "ex2": "They drove cross country in six days. 他们用了六天横穿全国。"
+    },
+    {
+     "w": "summon",
+     "ipa": "/ˈsʌmən/",
+     "pos": "v.",
+     "en": "summon (v.) means to order someone to come, or to call something forth",
+     "zh": "召唤、传唤",
+     "ctx": "“cross country summon”让车自己横穿大陆来找你——用 summon 而不用 call，是因为它有“下命令让对方到跟前来”的权威感。",
+     "ex1": "He described a “summon” feature that would bring the car to you. 他描述过一个“召唤”功能，能让车自己开到你面前。",
+     "ex2": "The committee summoned him to explain the delay. 委员会传唤他去解释延误原因。"
+    },
+    {
+     "w": "seafaring",
+     "ipa": "/ˈsiːfeərɪŋ/",
+     "pos": "adj.",
+     "en": "seafaring (adj.) means relating to travel by sea",
+     "zh": "航海的、以航海为业的",
+     "ctx": "大词小用——把航海词安在汽车上（seafaring Teslas），荒诞感全靠这个词的正式度。",
+     "ex1": "He also promised seafaring cars. 他还承诺过能下海的车。",
+     "ex2": "It is a seafaring word applied, absurdly, to a car. 一个航海的词被荒唐地安在了汽车头上。"
+    },
+    {
+     "w": "to name a few",
+     "ipa": "/tə neɪm ə fjuː/",
+     "pos": "路标短语",
+     "en": "to name a few is used after a short list to show that there are many more",
+     "zh": "仅举几例",
+     "ctx": "四条只是冰山一角——这个短语自带“我还没说完”的余味，是列举时的收尾神器。",
+     "ex1": "Robotaxis, rocket trips, seafaring cars, to name a few. 机器人出租车、火箭客运、能下海的车，仅举几例。",
+     "ex2": "Paris, Rome, Lisbon, to name but a few, are on the list. 巴黎、罗马、里斯本——仅举几例——都在名单上。"
+    },
+    {
+     "w": "buying stock in Musk",
+     "ipa": "/ˈbaɪɪŋ stɒk ɪn/",
+     "pos": "短语",
+     "en": "to buy stock in a company is to buy shares in it",
+     "zh": "购买……的股票",
+     "ctx": "不是 in Tesla，是 in Musk——作者故意把公司换成人名：你买的不是这家公司，是这个人，全文最省力也最狠的一刀。",
+     "ex1": "You are not buying stock in a company; you are buying stock in a person. 你买的不是一家公司的股票，你买的是一个人。",
+     "ex2": "Investors who bought stock in him are now buying stock in his moods. 当初买他股票的投资者，现在是在买他的情绪。"
+    },
+    {
+     "w": "less A than B",
+     "ipa": "/les... ðæn/",
+     "pos": "结构",
+     "en": "less A than B means “it is more accurate to call it B than A”",
+     "zh": "与其说是 A，不如说是 B",
+     "ctx": "全文金句的骨架——高明处在于它不否认 A，只说 B 更准，比直白的 not A but B 更聪明，也更毒。",
+     "ex1": "Buying his stock is less an investment than a subscription to science fiction. 买他的股票与其说是投资，不如说是订了一部科幻连续剧。",
+     "ex2": "It is less a plan than a wish with a deadline. 这与其说是计划，不如说是带截止日期的愿望。"
+    },
+    {
+     "w": "subscribe to",
+     "ipa": "/səbˈskraɪb tuː/",
+     "pos": "v.",
+     "en": "subscribe to means (1) to pay regularly for a service; (2) to agree with an idea or theory",
+     "zh": "订阅；认同、赞同",
+     "ctx": "两个用法同时生效——按月扣费＋认同一套说法，作者一句话用了双关。",
+     "ex1": "You are not buying shares; you are subscribing to a story. 你不是在购买股票，你是在订阅一个故事。",
+     "ex2": "I do not subscribe to the view that markets are always rational. 我不认同市场永远理性这种看法。"
+    },
+    {
+     "w": "ridiculous",
+     "ipa": "/rɪˈdɪkjələs/",
+     "pos": "adj.",
+     "en": "ridiculous (adj.) means silly or unreasonable and deserving to be laughed at",
+     "zh": "荒唐可笑的",
+     "ctx": "注意它修饰的是 science fiction——荒唐的不是这些承诺“难”，而是它们“越来越像科幻片”。",
+     "ex1": "It is ridiculous to call this a plan. 把这叫计划，简直荒唐。",
+     "ex2": "At some point the promises stop being bold and start being ridiculous. 到某个时刻，这些承诺就不再叫大胆，而叫荒唐了。"
+    }
+   ]
+  }
+ ]
+}

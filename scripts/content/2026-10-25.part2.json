@@ -1,0 +1,390 @@
+{
+ "paragraphs": [
+  {
+   "en_html": "Price wars have <mark class=\"voc\">eaten into</mark> the printer dragons’ profits even as sales boom. But the firms still excite investors. Bambu Lab was founded in 2020 by <mark class=\"voc\">alumni</mark> of another Chinese company, DJI, the world’s leading dronemaker. The printer-maker is reported to have a private <mark class=\"voc\">valuation</mark> of about $10bn. Last year DJI itself invested in Elegoo, a Bambu rival. Creality <mark class=\"voc\">listed</mark> on the Hong Kong Stock Exchange in May. It <mark class=\"voc\">boasts</mark> a <mark class=\"voc\">market capitalisation</mark> of HK$12bn ($1.5bn).",
+   "zh": "尽管销量蓬勃增长，价格战却不断侵蚀着这些3D打印机“四小龙”的利润。但这些企业依然令投资者兴奋不已。拓竹科技于2020年由中国另一家企业——全球领先的无人机制造商大疆的前员工创立。据报道，这家3D打印机制造商的非上市公司估值约为100亿美元。去年，大疆自身也投资了拓竹的竞争对手智能派（Elegoo）。创想三维（Creality）于今年5月在香港证券交易所上市，目前市值高达120亿港元（约合15亿美元）。",
+   "notes": [
+    {
+     "w": "eat into",
+     "ipa": "/iːt ˈɪntuː/",
+     "pos": "phr.",
+     "en": "eat into (phr.) means to gradually reduce the amount, value or size of something",
+     "zh": "逐渐侵蚀；不断消耗；削减",
+     "ctx": "价格战虽然推动销量增长，却不断压缩3D打印机企业的利润。",
+     "ex1": "Rising energy costs are eating into the company's profits. 不断上涨的能源成本正在侵蚀公司的利润。",
+     "ex2": "Unexpected expenses have eaten into our savings. 意料之外的开支已经消耗了我们的一部分积蓄。"
+    },
+    {
+     "w": "alumnus",
+     "ipa": "/əˈlʌmnəs/",
+     "pos": "n.",
+     "en": "alumnus (n.) means a former student of a school or university, or a former member of an organization",
+     "zh": "校友；毕业生；机构或企业的前成员",
+     "ctx": "alumni是复数形式，DJI alumni指曾经在大疆工作过的员工。",
+     "ex1": "The startup was founded by two alumni of Stanford University. 这家初创公司由两名斯坦福大学校友创立。",
+     "ex2": "Several alumni of the technology giant have launched their own businesses. 这家科技巨头的几名前员工创办了自己的企业。"
+    },
+    {
+     "w": "valuation",
+     "ipa": "/ˌvæljuˈeɪʃən/",
+     "pos": "n.",
+     "en": "valuation (n.) means an estimate of how much a company, property or other asset is worth",
+     "zh": "估值；价值评估",
+     "ctx": "private valuation指拓竹科技作为一家非上市公司，在私人融资或交易中获得的估值。",
+     "ex1": "The startup reached a valuation of $5 billion after its latest funding round. 这家初创公司在最新一轮融资后估值达到50亿美元。",
+     "ex2": "Investors questioned whether the company's high valuation was justified. 投资者质疑这家公司的高估值是否合理。"
+    },
+    {
+     "w": "list",
+     "ipa": "/lɪst/",
+     "pos": "v.",
+     "en": "list (v.) means to make a company's shares available for trading on a stock exchange",
+     "zh": "（公司）上市；挂牌交易",
+     "ctx": "Creality listed on the Hong Kong Stock Exchange指创想三维在香港证券交易所上市。",
+     "ex1": "The technology company plans to list on the stock exchange next year. 这家科技公司计划明年在证券交易所上市。",
+     "ex2": "Several Chinese firms have listed in Hong Kong to raise capital. 多家中国企业已在香港上市以筹集资金。"
+    },
+    {
+     "w": "boast",
+     "ipa": "/boʊst/",
+     "pos": "v.",
+     "en": "boast (v.) means to have something impressive or valuable that is worth mentioning",
+     "zh": "拥有（值得自豪的事物）；以……为傲；夸耀",
+     "ctx": "强调创想三维上市后手握高达 120 亿港元的市值，体量已经能上资本市场的台面。",
+     "ex1": "The city boasts some of the finest museums in Europe. 这座城市拥有欧洲一些最出色的博物馆。",
+     "ex2": "The new smartphone boasts an impressive battery life. 这款新智能手机拥有令人印象深刻的电池续航能力。"
+    },
+    {
+     "w": "market capitalisation",
+     "ipa": "/ˈmɑːrkɪt ˌkæpɪtəlaɪˈzeɪʃən/",
+     "pos": "n.",
+     "en": "market capitalisation (n.) means the total market value of a company's shares, calculated by multiplying its share price by the number of shares outstanding",
+     "zh": "市值；股票总市值",
+     "ctx": "创想三维上市后，其股票总市值达到120亿港元。",
+     "ex1": "The company's market capitalisation exceeded $100 billion for the first time. 这家公司的市值首次突破1000亿美元。",
+     "ex2": "A sharp fall in share prices wiped billions off the firm's market capitalisation. 股价暴跌使这家公司的市值蒸发了数十亿美元。"
+    }
+   ]
+  },
+  {
+   "en_html": "The government <mark class=\"voc\">cherishes</mark> 3D-printing firms. The business <mark class=\"voc\">featured in</mark> its “Made in China 2025” industrial plan, which was launched in 2015 to ensure domestic strength and <mark class=\"voc\">self-reliance</mark> in high-tech manufacturing (much to the West’s concern). Officials see 3D printers as a way to produce components of <mark class=\"voc\">aerospace</mark>, health care and military equipment, for which China often relies on Western suppliers. Policymakers have directed research institutes and <mark class=\"voc\">state-run</mark> firms to buy them.",
+   "zh": "中国政府十分重视3D打印企业。3D打印产业被纳入了2015年推出的“中国制造2025”产业规划。这项规划旨在增强中国国内高科技制造业的实力与自主能力（这也引发了西方国家的深切担忧）。政府官员认为，3D打印机可以用于生产航空航天、医疗保健和军事装备的零部件，而在这些领域，中国往往依赖西方供应商。政策制定者已经要求科研机构和国有企业采购3D打印机。",
+   "notes": [
+    {
+     "w": "cherish",
+     "ipa": "/ˈtʃerɪʃ/",
+     "pos": "v.",
+     "en": "cherish (v.) means to value something highly and consider it very important or worth protecting",
+     "zh": "珍视；重视；珍惜",
+     "ctx": "强调中国政府高度重视3D打印企业，将其视为具有重要战略价值的产业。",
+     "ex1": "The country cherishes its long tradition of scientific innovation. 这个国家十分珍视其悠久的科学创新传统。",
+     "ex2": "She cherishes the memories of her childhood. 她十分珍惜童年的回忆。"
+    },
+    {
+     "w": "feature in",
+     "ipa": "/ˈfiːtʃər ɪn/",
+     "pos": "phr.",
+     "en": "feature in (phr.) means to be included in something as an important or noticeable part",
+     "zh": "被纳入；在……中占有一席之地；成为……的重要内容",
+     "ctx": "3D打印产业被纳入“中国制造2025”国家产业发展规划。",
+     "ex1": "Renewable energy features prominently in the government's economic strategy. 可再生能源在政府的经济战略中占据重要地位。",
+     "ex2": "Several young designers featured in the exhibition. 几位年轻设计师的作品出现在这场展览中。"
+    },
+    {
+     "w": "self-reliance",
+     "ipa": "/ˌself rɪˈlaɪəns/",
+     "pos": "n.",
+     "en": "self-reliance (n.) means the ability to depend on your own resources and abilities rather than relying on others",
+     "zh": "自力更生；自主能力；独立自主",
+     "ctx": "指中国希望增强高科技制造业的自主能力，减少对外国技术和供应商的依赖。",
+     "ex1": "The country is investing in research to achieve greater technological self-reliance. 这个国家正在加大科研投入，以实现更高程度的技术自主。",
+     "ex2": "Developing local supply chains is essential for industrial self-reliance. 发展本地供应链对于实现产业自主至关重要。"
+    },
+    {
+     "w": "aerospace",
+     "ipa": "/ˈeroʊspeɪs/",
+     "pos": "n.",
+     "en": "aerospace (n.) means the industry or field concerned with the design and production of aircraft and spacecraft",
+     "zh": "航空航天工业；航空航天领域",
+     "ctx": "指3D打印技术可用于生产飞机、航天器等航空航天设备的零部件。",
+     "ex1": "The company supplies advanced materials to the aerospace industry. 这家公司为航空航天工业供应先进材料。",
+     "ex2": "3D printing is increasingly used in aerospace engineering. 3D打印技术正越来越多地应用于航空航天工程。"
+    },
+    {
+     "w": "state-run",
+     "ipa": "/ˌsteɪt ˈrʌn/",
+     "pos": "adj.",
+     "en": "state-run (adj.) means owned, managed or controlled by the government",
+     "zh": "国营的；国家经营的；由政府管理的",
+     "ctx": "state-run firms指由国家拥有或控制的企业，即国有企业。",
+     "ex1": "The state-run railway company announced plans to expand its network. 这家国营铁路公司宣布了扩大铁路网络的计划。",
+     "ex2": "Several state-run firms are investing heavily in renewable energy. 多家国有企业正在大力投资可再生能源。"
+    }
+   ]
+  },
+  {
+   "en_html": "Some competitors say Chinese firms have <mark class=\"voc\">profited from</mark> Western <mark class=\"voc\">open-source</mark> printing software. Last month an American court ruled that Bambu Lab had <mark class=\"voc\">infringed on</mark> four <mark class=\"voc\">patents</mark> held by an American company, and ordered it to pay $27.6m in damages. Although Chinese firms have captured the consumer market, they have struggled to do so for industrial 3D printers. Firms are <mark class=\"voc\">wary</mark> of relying on Chinese products if it involves <mark class=\"voc\">feeding them with</mark> sensitive designs (though Britain’s defence ministry has been using Bambu printers, its government admits). Outside China, <mark class=\"voc\">top-of-the-range</mark> machines are still mostly supplied by American and European <mark class=\"voc\">outfits</mark>. They can sell for millions of dollars.",
+   "zh": "一些竞争对手认为，中国企业从西方的开源3D打印软件中获益。上个月，一家美国法院裁定，拓竹科技侵犯了一家美国公司持有的四项专利，并判令其支付2760万美元的损害赔偿金。尽管中国企业已经占领了消费级3D打印机市场，但在工业级3D打印机领域，它们仍然难以取得同样的成功。如果使用中国设备意味着需要向其输入敏感的设计资料，企业就会对依赖这些产品心存顾虑（尽管英国政府承认，其国防部一直在使用拓竹打印机）。在中国以外的市场，最高端的3D打印设备仍主要由美国和欧洲企业供应。这些设备的售价可高达数百万美元。",
+   "notes": [
+    {
+     "w": "profit from",
+     "ipa": "/ˈprɑːfɪt frəm/",
+     "pos": "phr.",
+     "en": "profit from (phr.) means to gain money, an advantage or some other benefit from something",
+     "zh": "从……中获利；受益于",
+     "ctx": "部分竞争对手认为中国企业利用西方开源打印软件获得了商业利益。",
+     "ex1": "Several companies have profited from the growing demand for electric vehicles. 多家公司从不断增长的电动汽车需求中获益。",
+     "ex2": "Some investors profited from the sudden rise in gold prices. 一些投资者从金价突然上涨中获利。"
+    },
+    {
+     "w": "open-source",
+     "ipa": "/ˌoʊpən ˈsɔːrs/",
+     "pos": "adj.",
+     "en": "open-source (adj.) means describing software whose source code is publicly available for people to use, study, modify and share under its licence",
+     "zh": "开源的；开放源代码的",
+     "ctx": "open-source printing software指源代码公开、允许他人在相应许可条件下使用和修改的3D打印软件。",
+     "ex1": "Many developers use open-source software to build new applications. 许多开发者利用开源软件开发新应用程序。",
+     "ex2": "The company released its software as an open-source project. 这家公司将其软件作为开源项目发布。"
+    },
+    {
+     "w": "infringe on",
+     "ipa": "/ɪnˈfrɪndʒ ɑːn/",
+     "pos": "phr.",
+     "en": "infringe on (phr.) means to violate a law, right or legal protection belonging to someone else",
+     "zh": "侵犯；侵害；违反",
+     "ctx": "infringed on four patents指拓竹科技被法院认定侵犯了四项专利权。",
+     "ex1": "The company was accused of infringing on its competitor's patents. 这家公司被指控侵犯竞争对手的专利权。",
+     "ex2": "New surveillance measures may infringe on people's privacy. 新的监控措施可能侵犯人们的隐私。"
+    },
+    {
+     "w": "patent",
+     "ipa": "/ˈpætənt/",
+     "pos": "n.",
+     "en": "patent (n.) means an official legal right that gives an inventor control over the use or sale of an invention for a limited period",
+     "zh": "专利；专利权",
+     "ctx": "指一家美国公司持有、受到法律保护的四项技术专利。",
+     "ex1": "The inventor applied for a patent to protect her new technology. 这位发明家申请了专利，以保护她的新技术。",
+     "ex2": "The two technology companies are involved in a patent dispute. 这两家科技公司正卷入一场专利纠纷。"
+    },
+    {
+     "w": "wary",
+     "ipa": "/ˈweri/",
+     "pos": "adj.",
+     "en": "wary (adj.) means careful or cautious because you are uncertain about possible risks or dangers",
+     "zh": "谨慎的；警惕的；心存顾虑的",
+     "ctx": "企业担心使用中国工业3D打印机可能涉及敏感设计资料的安全风险。",
+     "ex1": "Investors remain wary of putting money into an unstable market. 投资者对于向不稳定的市场投入资金仍持谨慎态度。",
+     "ex2": "Consumers are increasingly wary of sharing personal information online. 消费者对于在网上分享个人信息越来越警惕。"
+    },
+    {
+     "w": "feed sth. with sth.",
+     "ipa": "/fiːd ... wɪð/",
+     "pos": "phr.",
+     "en": "feed sth. with sth. (phr.) means to supply a machine or system with information or material that it needs to operate",
+     "zh": "向……输入；为……提供数据或材料",
+     "ctx": "指向中国设备里输入可能涉及商业机密的设计文件，这正是海外企业最怕的那一步。",
+     "ex1": "Engineers fed the system with detailed design data. 工程师向系统输入了详细的设计数据。",
+     "ex2": "The machine is continuously fed with raw materials. 这台机器持续获得原材料供应。"
+    },
+    {
+     "w": "top-of-the-range",
+     "ipa": "/ˌtɑːp əv ðə ˈreɪndʒ/",
+     "pos": "adj.",
+     "en": "top-of-the-range (adj.) means the most expensive or advanced among a particular range of products",
+     "zh": "最高端的；顶级配置的",
+     "ctx": "指性能先进、价格昂贵的高端工业级3D打印设备。",
+     "ex1": "The company unveiled a top-of-the-range electric car with advanced safety features. 这家公司发布了一款配备先进安全功能的顶级电动汽车。",
+     "ex2": "Top-of-the-range cameras are often used by professional filmmakers. 专业电影制作人经常使用顶级相机。"
+    },
+    {
+     "w": "outfit",
+     "ipa": "/ˈaʊtfɪt/",
+     "pos": "n.",
+     "en": "outfit (n.) means a company, business or organization, especially one operating in a particular field",
+     "zh": "公司；企业；机构",
+     "ctx": "American and European outfits指供应高端工业3D打印设备的美国和欧洲企业。",
+     "ex1": "The small technology outfit has grown into a global business. 这家小型科技公司已经发展成为一家全球性企业。",
+     "ex2": "Several European outfits are developing next-generation battery technology. 多家欧洲企业正在研发下一代电池技术。"
+    }
+   ]
+  },
+  {
+   "en_html": "<mark class=\"voc\">Undeterred</mark>, Chinese suppliers are creating a new form of manufacturing at home and abroad. They are <mark class=\"voc\">pioneering</mark> “3D-printing farms”—facilities with as many as 5,000 <mark class=\"voc\">desktop</mark> 3D printers that operate like factories. Several have been built in China this year. Printing farms can mass-produce <mark class=\"voc\">trinkets</mark> for <mark class=\"voc\">zany</mark> consumer trends <mark class=\"voc\">in short order</mark>, replacing expensive and slow <mark class=\"voc\">injection-moulding</mark> techniques. Like the printers themselves, their output will be higher quality and cheaper than what came before.",
+   "zh": "中国供应商并未因此退缩，而是正在国内外开创一种全新的制造模式。它们率先探索“3D打印农场”——这是一种拥有多达5000台桌面3D打印机、像工厂一样运转的生产设施。今年，中国已经建成了数座这样的打印农场。3D打印农场能够在短时间内大规模生产迎合各种古怪、奇特消费潮流的小饰品和新奇玩意儿，从而取代成本高昂、生产周期漫长的注塑成型技术。与3D打印机本身一样，这些打印农场生产出来的产品也将比以往质量更好、价格更低。",
+   "notes": [
+    {
+     "w": "undeterred",
+     "ipa": "/ˌʌndɪˈtɜːrd/",
+     "pos": "adj.",
+     "en": "undeterred (adj.) means not discouraged or prevented from doing something despite difficulties or setbacks",
+     "zh": "未被吓退的；不气馁的；不屈不挠的",
+     "ctx": "尽管面对专利败诉、工业市场攻不下等一堆麻烦，中国厂商照样不退缩，转头去开新赛道。",
+     "ex1": "Undeterred by repeated failures, the scientist continued her research. 这位科学家没有因屡次失败而气馁，而是继续开展研究。",
+     "ex2": "The startup remained undeterred despite fierce competition from larger companies. 尽管面临大型企业的激烈竞争，这家初创公司依然没有退缩。"
+    },
+    {
+     "w": "pioneer",
+     "ipa": "/ˌpaɪəˈnɪr/",
+     "pos": "v.",
+     "en": "pioneer (v.) means to be one of the first people or organizations to develop or introduce a new method, idea or technology",
+     "zh": "率先开发；开创；成为……的先驱",
+     "ctx": "中国企业正在率先探索利用大量桌面3D打印机组成生产设施的新型制造模式。",
+     "ex1": "The company pioneered a new method of recycling plastic waste. 这家公司率先开发了一种回收塑料废弃物的新方法。",
+     "ex2": "Several researchers pioneered the use of artificial intelligence in medical diagnosis. 几位研究人员率先将人工智能应用于医疗诊断。"
+    },
+    {
+     "w": "desktop",
+     "ipa": "/ˈdesktɑːp/",
+     "pos": "adj.",
+     "en": "desktop (adj.) means designed to be used on a desk rather than as a large industrial machine",
+     "zh": "台式的；桌面型的",
+     "ctx": "desktop 3D printers指体积较小、可以放置在桌面上的3D打印机。",
+     "ex1": "Desktop computers remain popular in offices that require powerful equipment. 在需要高性能设备的办公室里，台式电脑仍然很受欢迎。",
+     "ex2": "The new desktop scanner is compact enough for a small workspace. 这款新型桌面扫描仪体积小巧，适合狭小的工作空间。"
+    },
+    {
+     "w": "trinket",
+     "ipa": "/ˈtrɪŋkɪt/",
+     "pos": "n.",
+     "en": "trinket (n.) means a small decorative object or piece of jewellery that is inexpensive and has little practical value",
+     "zh": "小饰品；廉价装饰品；小玩意儿",
+     "ctx": "指3D打印农场能够快速生产的各种迎合消费潮流的小饰品和新奇物件。",
+     "ex1": "Tourists crowded into the shops to buy colourful trinkets and souvenirs. 游客们涌进商店购买色彩鲜艳的小饰品和纪念品。",
+     "ex2": "She decorated her desk with tiny trinkets collected during her travels. 她用旅行途中收集的小饰品装点自己的书桌。"
+    },
+    {
+     "w": "zany",
+     "ipa": "/ˈzeɪni/",
+     "pos": "adj.",
+     "en": "zany (adj.) means strange, unusual or amusing in a silly and energetic way",
+     "zh": "古怪滑稽的；荒诞有趣的；奇特的",
+     "ctx": "zany consumer trends指各种奇特、搞怪、变化迅速的消费潮流。",
+     "ex1": "The brand became famous for its zany advertisements and unusual products. 这个品牌因其古怪有趣的广告和与众不同的产品而出名。",
+     "ex2": "A zany fashion trend spread rapidly across social media. 一股奇特搞怪的时尚潮流迅速席卷社交媒体。"
+    },
+    {
+     "w": "in short order",
+     "ipa": "/ɪn ʃɔːrt ˈɔːrdər/",
+     "pos": "phr.",
+     "en": "in short order (phr.) means very quickly or within a short period of time",
+     "zh": "迅速地；在短时间内；很快",
+     "ctx": "强调3D打印农场能够迅速响应消费趋势，在很短时间内完成产品生产。",
+     "ex1": "The company developed a new product in short order to meet rising demand. 这家公司迅速开发了一款新产品，以满足不断增长的需求。",
+     "ex2": "With the right equipment, the repairs can be completed in short order. 只要设备合适，维修工作就能很快完成。"
+    },
+    {
+     "w": "injection moulding",
+     "ipa": "/ɪnˈdʒekʃən ˈmoʊldɪŋ/",
+     "pos": "n.",
+     "en": "injection moulding (n.) means a manufacturing process in which heated material is injected into a mould to produce objects of a particular shape",
+     "zh": "注塑成型；注射模塑",
+     "ctx": "指传统制造业把加热的材料注入模具、冷却成型的工艺；本文说打印农场能在部分产品上取代它这种又贵又慢的工艺。",
+     "ex1": "Many plastic toys are manufactured using injection moulding. 许多塑料玩具都是通过注塑成型工艺制造的。",
+     "ex2": "Injection moulding is efficient for large production runs but requires expensive moulds. 注塑成型适合大批量生产，但需要昂贵的模具。"
+    }
+   ]
+  }
+ ],
+ "proper": [
+  {
+   "name": "3D printing / 3D 打印",
+   "def": "按数字三维模型逐层添加材料、最终做出实体物品的技术，学名“增材制造”（Additive Manufacturing）。与切削、钻孔那种“减材”制造相反，它靠一层层堆材料成形。工业上用于原型、零部件、医疗器械、航空航天。消费级设备多用塑料，工业级还能打金属、陶瓷。<br>本文中的意思：标题里那台 humble 3D printer 指的是消费级／桌面级这一支——本文讲的是普通人买回家打玩具的那种，不是车间里打钛合金零件的那种。"
+  },
+  {
+   "name": "Hobbyist 3D printer / 业余爱好者 3D 打印机",
+   "def": "面向个人、模型爱好者、学生和创作者的桌面级设备。早期要自己装、自己调、自己啃切片软件，因此长期只在技术圈里流行。近年自动校准、AI 建模和降价三件事一起来，普通人才开始用它打玩具、摆件、工具。<br>本文中的意思：全文的战场画在这个细分市场上——96% 的份额说的是它，而不是整个 3D 打印产业。"
+  },
+  {
+   "name": "Shenzhen / 深圳",
+   "def": "中国广东的经济特区，全球电子产品的研发与制造中心。元器件供应商、模具厂、设计公司、物流企业高度密集，形成一条完整的硬件产业链：上午改图、下午打样、一周内量产。大疆、华为以及四家消费级 3D 打印机企业都长在这条链上。<br>本文中的意思：解释“四小龙”为什么能同时出现——同一条街上互相挖人、互相抄作业，速度快到西方厂商跟不上。"
+  },
+  {
+   "name": "Four Little Dragons of Shenzhen / 深圳四小龙",
+   "def": "文章借“亚洲四小龙”的说法，指四家深圳 3D 打印机企业：创想三维（Creality）、纵维立方（Anycubic）、智能派（Elegoo）、拓竹科技（Bambu Lab）。产品覆盖熔融沉积（FDM）、光固化等路线，靠技术升级和价格战把 3D 打印机从小众设备推成大众消费品。<br>本文中的意思：它们合起来就是那个 96%——市场不是被一家吃掉的，是被一条产业链上一群打红了眼的对手一起啃下来的。"
+  },
+  {
+   "name": "Chuck Hull / 查克·赫尔",
+   "def": "美国工程师、发明家，现代 3D 打印的重要奠基人。1983 年开始研发用紫外光让液态树脂逐层固化的技术，即立体光刻（SLA）；1986 年获美国专利，并参与创办 3D Systems。这项技术的商业化，是增材制造产业的起点。<br>本文中的意思：文章用他给这项技术定了个“四十年前就有”的时间坐标——发明了四十年，却直到中国工厂接手才变成 500 美元的家用电器。"
+  },
+  {
+   "name": "Fused Deposition Modeling (FDM) / 熔融沉积成型",
+   "def": "消费级 3D 打印机最常见的技术：把塑料丝材加热到熔融，从喷嘴挤出，按数字模型逐层堆积成型。常用 PLA、PETG 等热塑性塑料。成本低、材料多，适合做玩具、模型和实用零件，代价是表面会留下明显层纹。<br>本文中的意思：对应正文那句 extruding molten plastic——本文讲的“便宜好用的打印机”，绝大多数就是 FDM 机器。"
+  },
+  {
+   "name": "Natural Language AI Design / 自然语言 AI 设计",
+   "def": "用 AI 把日常语言直接转成设计指令或三维模型。传统建模要学专业软件、手动设形状尺寸结构；AI 辅助只要一句话描述想要什么，建模门槛一下就塌了。生成结果仍需改尺寸、查结构、转成可打印文件。<br>本文中的意思：文章列出的第二个“门槛消失”——过去卡人的是会画图，现在卡人的只剩想象力。"
+  },
+  {
+   "name": "Bed Leveling / 打印平台调平",
+   "def": "打印前最烦的一步：让喷嘴与平台保持恰到好处的距离。平台不平，第一层就粘不牢，轻则模型变形，重则喷嘴刮花平台。老设备要用户手动拧四角螺丝，现代机器用传感器自动测多点高度并补偿。<br>本文中的意思：它就是那个 unspoken cost of entry 的具体化身——老玩家的“基本功”，在新机器上被一行代码接管了。"
+  },
+  {
+   "name": "DJI / 大疆创新",
+   "def": "总部在深圳的科技公司，全球消费级与专业级无人机龙头，在飞控、传感器融合、计算机视觉、智能硬件上积累极深。无人机的处境和 3D 打印机一模一样：机械电子都复杂，但消费产品必须让外行开机就能飞。<br>本文中的意思：拓竹的创始团队从这里出来——他们不是从打印机行业学的“易用”，是从无人机行业搬过来的。"
+  },
+  {
+   "name": "Bambu Lab / 拓竹科技",
+   "def": "2020 年成立的中国 3D 打印机企业，核心团队有智能硬件与机器人背景。以高速打印、自动校准、软硬件一体化为卖点，主打“少折腾”。在四小龙里最年轻，却是行业公认的领头羊。<br>本文中的意思：全文的主角样本——它证明了“把复杂留给自己、把简单留给用户”这条路，在中国制造业里也能跑通。"
+  },
+  {
+   "name": "Kickstarter / 众筹平台 Kickstarter",
+   "def": "2009 年上线的美国创意项目众筹平台。发起人展示原型、开发计划和交付时间，支持者出钱换产品或其他回报。与买现货不同，众筹要承担延期、跳票甚至失败的风险。<br>本文中的意思：拓竹 X1 在这里筹到约 5,500 万港元、5,575 名支持者——一款还没量产的中国打印机，先被海外极客用钱投票了。"
+  },
+  {
+   "name": "LiDAR / 激光雷达",
+   "def": "Light Detection and Ranging 的缩写，靠发射激光、分析反射信号来测距、识别形状、获取空间信息。广泛用于自动驾驶、机器人、测绘、工业检测。<br>本文中的意思：装在几百美元的桌面打印机上，用来每次打印前自动扫平台——这项技术刚从自动驾驶下放，就被中国厂商塞进了家电。"
+  },
+  {
+   "name": "Price War / 价格战",
+   "def": "企业为抢份额不断降价。短期刺激需求、消费者得利，长期压缩利润，弱的玩家被清出局。消费电子里的价格战往往伴随性能提升、效率提高、供应链成本下降。<br>本文中的意思：正文说价格战 eaten into the printer dragons’ profits——销量在涨、利润在掉，这四家是靠“先卷死别人”活下来的。"
+  },
+  {
+   "name": "Private Valuation and Market Capitalisation / 非上市估值与市值",
+   "def": "非上市公司没有股价，估值来自融资交易、发展前景与财务表现的综合判断；上市公司市值＝股价 × 已发行股数。两者都衡量企业价值，但计算依据和流动性不同，不能直接画等号。<br>本文中的意思：文章特意分开写——拓竹是 100 亿美元的 private valuation，创想是 120 亿港元的 market capitalisation，一个靠投资人给，一个靠市场给。"
+  },
+  {
+   "name": "Made in China 2025 / 中国制造 2025",
+   "def": "2015 年国务院发布的制造业战略，目标是从“制造大国”变“制造强国”，重点押注新一代信息技术、高端数控机床与机器人、航空航天装备、生物医药等。强调创新能力、产品质量与关键技术自主化。<br>本文中的意思：3D 打印被写进了这份规划——所以这不是一门生意，是一项被国家选中的能力，补贴、订单、科研院所采购都跟着来。"
+  },
+  {
+   "name": "Technological Self-Reliance / 技术自主自立",
+   "def": "一个国家或企业靠自己的研发、制造与供应链掌握关键技术、生产关键产品，减少对外部供应商的依赖。在航空航天、医疗设备、半导体、国防等领域，零部件能不能稳定到货是战略问题。<br>本文中的意思：正文点明中国在航空航天、医疗、军工零部件上常常 reliance on Western suppliers——3D 打印被当成摆脱这种依赖的工具。"
+  },
+  {
+   "name": "Open-Source Software / 开源软件",
+   "def": "源代码公开、允许他人在许可证范围内查看、修改、使用、传播的软件。开源让新公司不必从零造轮子，3D 打印行业的切片软件和社区协作几乎全靠它起步。但开源不等于没有法律约束，许可证与知识产权仍要遵守。<br>本文中的意思：竞争对手的指控就落在这里——你们是站在我们的开源软件上把我们的市场抢走的。"
+  },
+  {
+   "name": "Patent Infringement / 专利侵权",
+   "def": "未经专利权人许可，实施受有效专利保护的技术方案，且不属于法定例外，就可能构成侵权。专利给发明人一定期限内排他的权利。法院认定侵权后可判赔偿或禁止相关行为。<br>本文中的意思：正文那笔 2,760 万美元的判决——消费市场赢了，法律战场上还是挨了一记。"
+  },
+  {
+   "name": "Industrial 3D Printing / 工业级 3D 打印",
+   "def": "面向工业生产、工程研发与专业制造的增材制造。相比桌面机，精度更高、质量控制更严，能用工程塑料、金属粉末等特殊材料，服务航空航天、医疗器械、汽车与高端装备。因为设计文件可能涉及商业机密甚至国家安全，数据安全被高度重视。<br>本文中的意思：这就是中国厂商至今攻不下的那块——消费级 96%，工业级仍由美欧供货，一台能卖数百万美元。"
+  },
+  {
+   "name": "3D-Printing Farm / 3D 打印农场",
+   "def": "把成百上千台 3D 打印机集中起来、像工厂一样排产的生产设施。与传统流水线不同，每台机器可以各打各的，适合小批量、多品种、快速变化的订单，省掉专用模具和开模周期。产量极大、结构简单的标准件，注塑仍有单位成本优势。<br>本文中的意思：文章给的“下一步”——既然打印机便宜了，那就买 5,000 台一起打，用机器数量换规模，去抢注塑的饭碗。"
+  }
+ ],
+ "sources_note": "资料核对：以上背景依据文章内容，并参考 The Economist 原文、Context 市场情报公司（Chris Connery）的行业判断、LatePost 报道，以及创想三维、拓竹科技等公司的公开信息，数据截至 2026 年 10 月。",
+ "practice": {
+  "intro": "20261025 大疆之后，又来了“四小龙”：中国为什么连 3D 打印机也卷到全球第一？<br><br>请根据今天学习的外刊，用自己的英语简要复述中国 3D 打印机产业崛起的故事。要求：至少使用下方提示词中的 8 个，可以适当改变词形。尽量使用自己的语言，不要直接照抄原文。",
+  "items": [
+   "中国 3D 打印机的崛起：过去十年，中国在全球业余爱好者 3D 打印机市场的份额从 19% 增长到 96%，打破了西方企业长期以来的主导地位。（capture / market share / dominance）",
+   "深圳四小龙：深圳的四家 3D 打印机企业凭借激烈竞争、技术创新和较低的价格，在全球市场占据优势。（reign supreme / fierce competition / drive down）",
+   "从复杂设备到普通消费品：过去，3D 打印机价格昂贵、操作复杂，用户需要花大量时间调试。如今，人工智能和自动化技术让打印机更便宜、更容易使用。（calibration / automate / affordable）",
+   "拓竹科技的成功：拓竹科技由大疆前员工创立。它通过自动调平、智能传感器等技术，解决了传统 3D 打印机使用困难的问题。（founding team / sensor / troubleshooting）",
+   "未来的 3D 打印农场：中国企业正在建设拥有数千台打印机的“3D 打印农场”，能够快速、低成本地批量生产各种产品。（pioneer / mass-produce / in short order）"
+  ],
+  "critical_en": "Do you think 3D printers could become as common as smartphones in the future? Why or why not?",
+  "critical_zh": "你认为未来 3D 打印机会像智能手机一样普及吗？为什么？",
+  "answer": "1. Over the past decade, China has captured the global market for hobbyist 3D printers, increasing its market share from 19% to 96% and ending Western dominance.<br><br>2. Four Shenzhen companies now reign supreme. Through fierce competition, they have improved quality and driven down prices.<br><br>3. In the past, 3D printers were expensive and difficult to use. Today, AI helps automate complicated tasks, making them more affordable.<br><br>4. Bambu Lab, founded by former DJI engineers, uses smart sensors to reduce troubleshooting and make printing easier.<br><br>5. Chinese companies are also pioneering 3D-printing farms, where thousands of machines can mass-produce products in short order.<br><br>思考题参考答案（选做）<br>I think 3D printers could become common in many homes because they are getting cheaper and easier to use. People may use them to make toys, tools and everyday objects. However, they may not become as popular as smartphones because not everyone needs one.<br>我认为 3D 打印机未来可能在许多家庭中普及，因为它们正变得越来越便宜，也越来越容易使用。人们可以用它们制作玩具、工具和日常用品。不过，它们可能不会像智能手机那样普及，因为并不是每个人都需要一台 3D 打印机。"
+ },
+ "mindmap": {
+  "aria": "中国3D打印机屠榜全球文章思维导图",
+  "alt": "中国 3D 打印机从 19% 到 96%（手绘版）",
+  "svg": "<svg viewBox=\"0 0 960 720\" xmlns=\"http://www.w3.org/2000/svg\" role=\"img\" aria-label=\"中国3D打印机屠榜全球文章思维导图\" style=\"width:100%;height:auto;font-family:-apple-system,'PingFang SC','Hiragino Sans GB','Microsoft YaHei',sans-serif\">\n        <rect x=\"24\" y=\"306\" width=\"176\" height=\"88\" rx=\"14\" fill=\"#eae3d2\" stroke=\"#9a8f76\"/>\n        <text x=\"112\" y=\"342\" text-anchor=\"middle\" fill=\"#3d3a34\" font-size=\"17\" font-weight=\"700\">中国 3D 打印机</text>\n        <text x=\"112\" y=\"368\" text-anchor=\"middle\" fill=\"#5c5648\" font-size=\"12.5\">十年屠榜：19% → 96%</text>\n\n        <path d=\"M200,350 C232,350 232,88 260,88\"  stroke=\"#6b8f71\" stroke-width=\"2\" fill=\"none\"/>\n        <path d=\"M200,350 C232,350 232,238 260,238\"  stroke=\"#7d98ad\" stroke-width=\"2\" fill=\"none\"/>\n        <path d=\"M200,350 C232,350 232,433 260,433\"  stroke=\"#bd7a6d\" stroke-width=\"2\" fill=\"none\"/>\n        <path d=\"M200,350 C232,350 232,628 260,628\"  stroke=\"#9b86b3\" stroke-width=\"2\" fill=\"none\"/>\n\n        <g class=\"mm-branch\" data-target=\"bc1\">\n          <rect x=\"260\" y=\"71\" width=\"190\" height=\"34\" rx=\"8\" fill=\"#e6efe7\" stroke=\"#6b8f71\"/>\n          <text x=\"349\" y=\"93\" text-anchor=\"middle\" fill=\"#4c6b52\" font-size=\"15\" font-weight=\"700\">十年屠榜（¶1–2）</text>\n          <text class=\"mm-arrow\" data-for=\"bc1\" x=\"442\" y=\"93\" text-anchor=\"end\" fill=\"#4c6b52\">▾</text>\n        </g>\n        <g class=\"mm-children\" id=\"bc1\">\n          <path d=\"M450,88 C462,88 462,46 480,46\" stroke=\"#6b8f71\" stroke-width=\"1.5\" fill=\"none\"/>\n          <path d=\"M450,88 C462,88 462,88 480,88\" stroke=\"#6b8f71\" stroke-width=\"1.5\" fill=\"none\"/>\n          <path d=\"M450,88 C462,88 462,130 480,130\" stroke=\"#6b8f71\" stroke-width=\"1.5\" fill=\"none\"/>\n          <rect x=\"480\" y=\"30\" width=\"456\" height=\"32\" rx=\"8\" fill=\"#e6efe7\"/><text x=\"492\" y=\"51\" fill=\"#3d3a34\" font-size=\"14\">十年间全球份额从 19% 抬到 96%，西方巨头出局</text>\n          <rect x=\"480\" y=\"72\" width=\"456\" height=\"32\" rx=\"8\" fill=\"#e6efe7\"/><text x=\"492\" y=\"93\" fill=\"#3d3a34\" font-size=\"14\">个人市场被深圳“四小龙”瓜分：创想、纵维、智能派、拓竹</text>\n          <rect x=\"480\" y=\"114\" width=\"456\" height=\"32\" rx=\"8\" fill=\"#e6efe7\"/><text x=\"492\" y=\"135\" fill=\"#3d3a34\" font-size=\"14\">同一套打法：国内血战＋政府扶持 → 质量上去、价格下来</text>\n        </g>\n\n        <g class=\"mm-branch\" data-target=\"bc2\">\n          <rect x=\"260\" y=\"221\" width=\"190\" height=\"34\" rx=\"8\" fill=\"#e5edf4\" stroke=\"#7d98ad\"/>\n          <text x=\"349\" y=\"243\" text-anchor=\"middle\" fill=\"#3d5872\" font-size=\"15\" font-weight=\"700\">自动化降门槛（¶3–4）</text>\n          <text class=\"mm-arrow\" data-for=\"bc2\" x=\"442\" y=\"243\" text-anchor=\"end\" fill=\"#3d5872\">▾</text>\n        </g>\n        <g class=\"mm-children\" id=\"bc2\">\n          <path d=\"M450,238 C462,238 462,196 480,196\" stroke=\"#7d98ad\" stroke-width=\"1.5\" fill=\"none\"/>\n          <path d=\"M450,238 C462,238 462,238 480,238\" stroke=\"#7d98ad\" stroke-width=\"1.5\" fill=\"none\"/>\n          <path d=\"M450,238 C462,238 462,280 480,280\" stroke=\"#7d98ad\" stroke-width=\"1.5\" fill=\"none\"/>\n          <rect x=\"480\" y=\"180\" width=\"456\" height=\"32\" rx=\"8\" fill=\"#e5edf4\"/><text x=\"492\" y=\"201\" fill=\"#3d3a34\" font-size=\"14\">以前：贵、难用，调平台和反复试错是入门必修课</text>\n          <rect x=\"480\" y=\"222\" width=\"456\" height=\"32\" rx=\"8\" fill=\"#e5edf4\"/><text x=\"492\" y=\"243\" fill=\"#3d3a34\" font-size=\"14\">如今 500 美元出头，铝壳像苹果电脑，西方同类贵一倍</text>\n          <rect x=\"480\" y=\"264\" width=\"456\" height=\"32\" rx=\"8\" fill=\"#e5edf4\"/><text x=\"492\" y=\"285\" fill=\"#3d3a34\" font-size=\"14\">AI 一句话生成模型，无人机式的大规模低成本路径重演</text>\n        </g>\n\n        <g class=\"mm-branch\" data-target=\"bc3\">\n          <rect x=\"260\" y=\"416\" width=\"190\" height=\"34\" rx=\"8\" fill=\"#f4e7e4\" stroke=\"#bd7a6d\"/>\n          <text x=\"349\" y=\"438\" text-anchor=\"middle\" fill=\"#7c4a3e\" font-size=\"15\" font-weight=\"700\">拓竹的打法（¶5–7）</text>\n          <text class=\"mm-arrow\" data-for=\"bc3\" x=\"442\" y=\"438\" text-anchor=\"end\" fill=\"#7c4a3e\">▾</text>\n        </g>\n        <g class=\"mm-children\" id=\"bc3\">\n          <path d=\"M450,433 C462,433 462,391 480,391\" stroke=\"#bd7a6d\" stroke-width=\"1.5\" fill=\"none\"/>\n          <path d=\"M450,433 C462,433 462,433 480,433\" stroke=\"#bd7a6d\" stroke-width=\"1.5\" fill=\"none\"/>\n          <path d=\"M450,433 C462,433 462,475 480,475\" stroke=\"#bd7a6d\" stroke-width=\"1.5\" fill=\"none\"/>\n          <rect x=\"480\" y=\"375\" width=\"456\" height=\"32\" rx=\"8\" fill=\"#f4e7e4\"/><text x=\"492\" y=\"396\" fill=\"#3d3a34\" font-size=\"14\">拓竹＝大疆系创业：22 个月研发，X1 众筹 700 万美元</text>\n          <rect x=\"480\" y=\"417\" width=\"456\" height=\"32\" rx=\"8\" fill=\"#f4e7e4\"/><text x=\"492\" y=\"438\" fill=\"#3d3a34\" font-size=\"14\">摄像头＋激光雷达＋重力传感器，开机就自动调平校准</text>\n          <rect x=\"480\" y=\"459\" width=\"456\" height=\"32\" rx=\"8\" fill=\"#f4e7e4\"/><text x=\"492\" y=\"480\" fill=\"#3d3a34\" font-size=\"14\">有估值有上市：拓竹约 100 亿美元，创想港股 120 亿港元</text>\n        </g>\n\n        <g class=\"mm-branch\" data-target=\"bc4\">\n          <rect x=\"260\" y=\"611\" width=\"190\" height=\"34\" rx=\"8\" fill=\"#ece4f2\" stroke=\"#9b86b3\"/>\n          <text x=\"349\" y=\"633\" text-anchor=\"middle\" fill=\"#5a4670\" font-size=\"15\" font-weight=\"700\">隐忧与出路（¶8–9）</text>\n          <text class=\"mm-arrow\" data-for=\"bc4\" x=\"442\" y=\"633\" text-anchor=\"end\" fill=\"#5a4670\">▾</text>\n        </g>\n        <g class=\"mm-children\" id=\"bc4\">\n          <path d=\"M450,628 C462,628 462,586 480,586\" stroke=\"#9b86b3\" stroke-width=\"1.5\" fill=\"none\"/>\n          <path d=\"M450,628 C462,628 462,628 480,628\" stroke=\"#9b86b3\" stroke-width=\"1.5\" fill=\"none\"/>\n          <path d=\"M450,628 C462,628 462,670 480,670\" stroke=\"#9b86b3\" stroke-width=\"1.5\" fill=\"none\"/>\n          <rect x=\"480\" y=\"570\" width=\"456\" height=\"32\" rx=\"8\" fill=\"#ece4f2\"/><text x=\"492\" y=\"591\" fill=\"#3d3a34\" font-size=\"14\">隐忧：被判侵犯四项专利赔 2,760 万美元，工业级攻不下</text>\n          <rect x=\"480\" y=\"612\" width=\"456\" height=\"32\" rx=\"8\" fill=\"#ece4f2\"/><text x=\"492\" y=\"633\" fill=\"#3d3a34\" font-size=\"14\">海外客户怕敏感设计外泄，高端仍由美欧厂商供货</text>\n          <rect x=\"480\" y=\"654\" width=\"456\" height=\"32\" rx=\"8\" fill=\"#ece4f2\"/><text x=\"492\" y=\"675\" fill=\"#3d3a34\" font-size=\"14\">出路：3D 打印农场，5,000 台机器像工厂一样批量出货</text>\n        </g>\n\n      </svg>",
+  "img": ""
+ }
+}

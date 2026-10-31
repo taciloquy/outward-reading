@@ -1,0 +1,460 @@
+{
+ "paragraphs": [
+  {
+   "en_html": "In 1990, two men <mark class=\"voc\">disguised</mark> as police officers spent 81 minutes <mark class=\"voc\">crisscrossing</mark> Boston’s Isabella Stewart Gardner Museum to <mark class=\"voc\">cut out</mark> and <mark class=\"voc\">carry off</mark> <mark class=\"voc\">masterpieces</mark> by Vermeer and Rembrandt. This year’s heist at the Magnani Rocca took less than three minutes. Geoff Kelly, a former FBI agent, said thieves are breaking in, <mark class=\"voc\">grabbing</mark> what they can and fleeing the scene within minutes—before the police arrive.",
+   "zh": "1990年，两名男子伪装成警察，在波士顿的伊莎贝拉·斯图尔特·加德纳博物馆里来回穿梭了整整81分钟，将维米尔和伦勃朗等大师的杰作从画框中割下并带走。而今年发生在马尼亚尼·罗卡博物馆的盗窃案，整个过程却不到三分钟。前美国联邦调查局特工杰夫·凯利表示，如今的窃贼往往破门而入，能拿什么就拿什么，然后在短短几分钟内逃离现场——赶在警方抵达之前。",
+   "notes": [
+    {
+     "w": "disguise",
+     "ipa": "/dɪsˈɡaɪz/",
+     "pos": "v.",
+     "en": "to change someone's appearance in order to hide their identity or make them look like someone else",
+     "zh": "伪装；乔装；掩饰身份",
+     "ctx": "伪装成警察，是这类白日作案故事的经典开场，disguise 一出，后面的 81 分钟才成立。",
+     "ex1": "The criminal disguised himself as a delivery driver to enter the building. 犯罪分子伪装成快递司机进入了大楼。",
+     "ex2": "She disguised herself with a wig and sunglasses to avoid being recognized. 她戴上假发和墨镜乔装打扮，以免被人认出来。"
+    },
+    {
+     "w": "crisscross",
+     "ipa": "/ˈkrɪskrɔːs/",
+     "pos": "v.",
+     "en": "to move or travel back and forth across an area in different directions",
+     "zh": "来回穿梭；纵横交错地移动",
+     "ctx": "81 分钟在馆里来回穿梭：crisscross 画出的是路线图，而且不是逃跑路线，是慢慢挑的路线。",
+     "ex1": "Tourists crisscrossed the old city, exploring its narrow streets and hidden cafés. 游客们在老城区里来回穿梭，探索狭窄的街道和隐蔽的咖啡馆。",
+     "ex2": "The rescue teams crisscrossed the forest in search of the missing hikers. 救援队在森林中来回搜寻失踪的徒步者。"
+    },
+    {
+     "w": "cut out",
+     "ipa": "/kʌt aʊt/",
+     "pos": "phr. v.",
+     "en": "to remove something from a larger object by cutting around or through it",
+     "zh": "剪下；割下；切除",
+     "ctx": "从画框里割下来，cut out 精确到动作，和 1990 年那桩案子的从容相配。",
+     "ex1": "The children cut out pictures from old magazines to make a collage. 孩子们从旧杂志上剪下图片制作拼贴画。",
+     "ex2": "The thief cut out the painting from its frame and escaped through a side door. 窃贼将画作从画框中割下，然后从侧门逃走。"
+    },
+    {
+     "w": "carry off",
+     "ipa": "/ˈkæri ɔːf/",
+     "pos": "phr. v.",
+     "en": "to take something away, especially something valuable or stolen",
+     "zh": "拿走；带走；盗走",
+     "ctx": "与 haul off 同义而更轻，正好对应画作相对于青铜的分量。",
+     "ex1": "Burglars carried off several valuable antiques during the night. 窃贼在夜间盗走了几件珍贵古董。",
+     "ex2": "The robbers carried off bags of cash before the alarm sounded. 劫匪在警报响起之前带走了数袋现金。"
+    },
+    {
+     "w": "masterpiece",
+     "ipa": "/ˈmæstərpiːs/",
+     "pos": "n.",
+     "en": "a work of art, literature or music that is considered an artist's greatest or one of their finest achievements",
+     "zh": "杰作；代表作；艺术精品",
+     "ctx": "不是一幅画，是 masterpiece——不可复制，所以只能整幅带走，也所以只能整幅追回。",
+     "ex1": "Many critics consider the novel a masterpiece of modern literature. 许多评论家认为这部小说是现代文学的杰作。",
+     "ex2": "The exhibition brought together masterpieces from museums around the world. 这场展览汇集了来自世界各地博物馆的艺术杰作。"
+    },
+    {
+     "w": "grab",
+     "ipa": "/ɡræb/",
+     "pos": "v.",
+     "en": "to take hold of something suddenly, quickly or roughly",
+     "zh": "抓取；一把拿走；迅速夺取",
+     "ctx": "与 1990 年的 crisscross 对照：如今的贼是 grab，抓一把就跑，作案时间从 81 分钟压到 3 分钟。",
+     "ex1": "He grabbed his coat and rushed out of the house. 他一把抓起外套，冲出了家门。",
+     "ex2": "The thief grabbed a handbag from the counter and ran toward the exit. 小偷从柜台上一把抓起手提包，朝出口跑去。"
+    }
+   ]
+  },
+  {
+   "en_html": "In July, Paris’s Museum of Natural History suffered an <mark class=\"voc\">undetected</mark> <mark class=\"voc\">cyberattack</mark> that disabled its alarm and surveillance systems, police said. Two months later, robbers monitoring the digital <mark class=\"voc\">breakdown</mark> were able to <mark class=\"voc\">saw through</mark> an emergency exit door and use <mark class=\"voc\">blowtorches</mark> and other weapons to steal about 13 pounds of gold worth around $2 million. An earlier audit of the museum’s security <mark class=\"voc\">protocols</mark> found that the Louvre’s video surveillance and physical security systems relied on a weak password, “LOUVRE.” It was immediately changed, the museum said.",
+   "zh": "警方表示，今年7月，巴黎自然历史博物馆遭到了一次未被察觉的网络攻击，导致其报警系统和监控系统失效。两个月后，一直关注着这次数字系统故障情况的劫匪得以锯开一扇紧急出口的门，并使用喷灯和其他工具，盗走了约13磅（约5.9公斤）、价值约200万美元的黄金。此前，一项针对博物馆安全规程的审计发现，卢浮宫的视频监控系统和实体安保系统竟然依赖一个极其简单的密码——“LOUVRE”（卢浮宫）。博物馆表示，这个密码随后立即被更换。",
+   "notes": [
+    {
+     "w": "undetected",
+     "ipa": "/ˌʌndɪˈtektɪd/",
+     "pos": "adj.",
+     "en": "not noticed or discovered, especially when something is hidden or difficult to recognize",
+     "zh": "未被发现的；未被察觉的",
+     "ctx": "攻击没被察觉，undetected 比 unnoticed 更冷，更像一份技术报告的口吻。",
+     "ex1": "The computer virus remained undetected for several months. 这种计算机病毒连续几个月都未被发现。",
+     "ex2": "The security flaw went undetected until a researcher discovered it. 这个安全漏洞一直未被察觉，直到一名研究人员发现了它。"
+    },
+    {
+     "w": "cyberattack",
+     "ipa": "/ˈsaɪbərətæk/",
+     "pos": "n.",
+     "en": "an attempt to damage, disrupt or gain unauthorized access to computer systems or networks",
+     "zh": "网络攻击；针对计算机系统的恶意攻击",
+     "ctx": "第一次，盗贼的入口不是窗，是网络；cyberattack 一出，全文的威胁等级就变了。",
+     "ex1": "The hospital was forced to cancel appointments after a major cyberattack. 这家医院遭遇严重网络攻击后，被迫取消了预约。",
+     "ex2": "Governments are investing heavily in technology to defend against cyberattacks. 各国政府正在大力投资技术，以防范网络攻击。"
+    },
+    {
+     "w": "breakdown",
+     "ipa": "/ˈbreɪkdaʊn/",
+     "pos": "n.",
+     "en": "a failure of a machine, system or process to work properly",
+     "zh": "故障；失灵；系统瘫痪",
+     "ctx": "数字系统的一次 breakdown，成了两个月后那场盗窃的钥匙。",
+     "ex1": "A technical breakdown delayed hundreds of flights at the airport. 一次技术故障导致机场数百个航班延误。",
+     "ex2": "The breakdown of the communication system made rescue operations more difficult. 通信系统瘫痪使救援行动更加困难。"
+    },
+    {
+     "w": "saw through",
+     "ipa": "/sɔː θruː/",
+     "pos": "phr. v.",
+     "en": "to cut completely through something using a saw",
+     "zh": "用锯子锯穿；锯断",
+     "ctx": "锯开门是体力活，saw through 与 blowtorch 并置，粗野得很有画面。",
+     "ex1": "The workers sawed through the thick wooden beam to remove it. 工人们锯断了粗大的木梁，以便将其移走。",
+     "ex2": "Rescuers sawed through the metal fence to reach the trapped animals. 救援人员锯开金属围栏，以接近被困的动物。"
+    },
+    {
+     "w": "blowtorch",
+     "ipa": "/ˈbloʊtɔːrtʃ/",
+     "pos": "n.",
+     "en": "a tool that produces a very hot flame, used for heating, cutting or joining metal",
+     "zh": "喷灯；喷火焊枪；高温火焰切割工具",
+     "ctx": "不是撬棍，是能烧穿金属的火——工具升级，说明这行已经专业化。",
+     "ex1": "The mechanic used a blowtorch to loosen the rusted metal parts. 机械师使用喷灯加热，使生锈的金属零件松动。",
+     "ex2": "A blowtorch can generate enough heat to cut through certain types of metal. 喷灯能够产生足够高的温度，切割某些类型的金属。"
+    },
+    {
+     "w": "protocol",
+     "ipa": "/ˈproʊtəkɔːl/",
+     "pos": "n.",
+     "en": "a set of official rules or procedures that explain how something should be done",
+     "zh": "规程；规范；操作程序",
+     "ctx": "审计的对象是 security protocols（规程）而不是某个人：问题出在制度，不在一扇门。",
+     "ex1": "All employees must follow strict security protocols when handling confidential information. 所有员工在处理机密信息时都必须遵守严格的安全规程。",
+     "ex2": "The laboratory introduced new safety protocols after the accident. 事故发生后，实验室引入了新的安全操作规程。"
+    }
+   ]
+  },
+  {
+   "en_html": "Marinello said thieves are beginning to use artificial intelligence to identify museums with <mark class=\"voc\">hefty</mark> <mark class=\"voc\">holdings</mark> of gold or those <mark class=\"voc\">housed</mark> in smaller, historic buildings that might be easier to breach. It’s “something that should <mark class=\"voc\">scare the bejesus out of</mark> museum directors,” he said. As an experiment, Marinello asked an AI tool to help him steal a painting; the tool refused to participate in a possible crime but still assisted him in locating rope and <mark class=\"voc\">sledgehammers</mark> and other <mark class=\"voc\">gear</mark> from the nearest hardware stores. <mark class=\"voc\">The flip side</mark>: Museums say they’re using AI-assisted video surveillance to help guards <mark class=\"voc\">scour</mark> for potential bad actors by analyzing people’s behavior as they move through the galleries rather than recording <mark class=\"voc\">footage</mark> passively.",
+   "zh": "马里内洛表示，窃贼开始利用人工智能寻找潜在的作案目标，例如收藏了大量黄金的博物馆，或那些设在规模较小、可能更容易被突破安保防线的历史建筑中的博物馆。他说，这“应该把博物馆馆长们吓得魂飞魄散”。为了做一个实验，马里内洛曾要求一款人工智能工具帮助他偷走一幅画。虽然这款工具拒绝参与可能涉及犯罪的行为，但仍然协助他从附近的五金店寻找绳索、大锤和其他装备。另一方面，博物馆表示，它们也正在利用人工智能辅助视频监控系统，通过分析人们在展厅内走动时的行为，帮助安保人员仔细排查潜在的不法分子，而不再只是被动地录制监控画面。",
+   "notes": [
+    {
+     "w": "hefty",
+     "ipa": "/ˈhefti/",
+     "pos": "adj.",
+     "en": "large in amount, size or force, especially larger than usual or expected",
+     "zh": "大量的；可观的；沉重的",
+     "ctx": "用 hefty 形容藏金量，带一点口语的夸张：不是很多，是沉甸甸的一大堆。",
+     "ex1": "The company was forced to pay a hefty fine for violating environmental regulations. 这家公司因违反环保规定而被迫支付一笔巨额罚款。",
+     "ex2": "Buying a house in the city requires a hefty deposit. 在这座城市买房需要支付一笔数额可观的首付款。"
+    },
+    {
+     "w": "holdings",
+     "ipa": "/ˈhoʊldɪŋz/",
+     "pos": "n.",
+     "en": "property, assets or collections owned by a person or organization",
+     "zh": "持有资产；收藏品；馆藏",
+     "ctx": "holdings 既是藏品也是资产，用在黄金上，等于把博物馆写成了金库。",
+     "ex1": "The museum's holdings include thousands of rare manuscripts and ancient coins. 这家博物馆的馆藏包括数千份珍贵手稿和古代钱币。",
+     "ex2": "The investment firm increased its holdings of technology stocks last year. 这家投资公司去年增加了科技股的持仓。"
+    },
+    {
+     "w": "house",
+     "ipa": "/haʊz/",
+     "pos": "v.",
+     "en": "to provide a place for someone or something to live, stay or be kept",
+     "zh": "容纳；安置；收藏；为……提供场所",
+     "ctx": "动词 house：建筑装着博物馆；小、老、还装着金子，三条加起来就是好下手。",
+     "ex1": "The historic palace now houses a collection of modern paintings. 这座历史宫殿如今收藏着一批现代绘画作品。",
+     "ex2": "The old factory has been transformed into a building that houses several art galleries. 这座旧工厂已被改造成一栋容纳多家艺术画廊的建筑。"
+    },
+    {
+     "w": "scare the bejesus out of sb.",
+     "ipa": "/sker ðə bɪˈdʒiːzəs aʊt əv/",
+     "pos": "phr.",
+     "en": "to frighten someone extremely badly or make them feel terrified",
+     "zh": "把某人吓得魂飞魄散；吓得半死",
+     "ctx": "一句粗俗又生动的口语，作者照引原话，比任何形容词都狠——把馆长们吓得魂都飞了。",
+     "ex1": "The sudden explosion scared the bejesus out of everyone in the building. 突如其来的爆炸把楼里所有人都吓得魂飞魄散。",
+     "ex2": "That horror movie scared the bejesus out of me, and I couldn't sleep all night. 那部恐怖电影把我吓得半死，害得我整晚都睡不着。"
+    },
+    {
+     "w": "sledgehammer",
+     "ipa": "/ˈsledʒhæmər/",
+     "pos": "n.",
+     "en": "a large, heavy hammer with a long handle, used for breaking or striking hard objects",
+     "zh": "大锤；长柄重锤",
+     "ctx": "AI 帮人找的不是图纸，是大锤和绳子；这个细节本身就是全文最冷的讽刺。",
+     "ex1": "The construction workers used a sledgehammer to break apart the concrete wall. 建筑工人用大锤砸开了混凝土墙。",
+     "ex2": "He swung the sledgehammer several times before the old wooden door finally broke. 他挥动大锤砸了好几下，那扇旧木门才终于破裂。"
+    },
+    {
+     "w": "gear",
+     "ipa": "/ɡɪr/",
+     "pos": "n.",
+     "en": "equipment, tools or clothing needed for a particular activity",
+     "zh": "装备；工具；器材",
+     "ctx": "绳索、大锤最后都归入 gear，读起来像一张购物清单，越平常越吓人。",
+     "ex1": "The hikers checked their camping gear before setting off into the mountains. 徒步旅行者在出发进山前检查了露营装备。",
+     "ex2": "The rescue team arrived with specialized gear for working underwater. 救援队带着专门用于水下作业的装备赶到了现场。"
+    },
+    {
+     "w": "the flip side",
+     "ipa": "/ðə flɪp saɪd/",
+     "pos": "phr.",
+     "en": "the opposite or contrasting aspect of a situation",
+     "zh": "另一方面；事情的另一面；相反的一面",
+     "ctx": "转折词：AI 帮贼，也帮警察；flip side 一翻，文章从威胁翻到对策。",
+     "ex1": "Working from home saves commuting time, but the flip side is that people may feel isolated. 居家办公节省了通勤时间，但另一方面，人们可能会感到孤独。",
+     "ex2": "The new technology creates exciting opportunities. The flip side is the risk of losing personal privacy. 新技术创造了令人兴奋的机遇，但另一方面，也带来了个人隐私泄露的风险。"
+    },
+    {
+     "w": "scour",
+     "ipa": "/skaʊər/",
+     "pos": "v.",
+     "en": "to search a place or examine something very carefully and thoroughly",
+     "zh": "仔细搜寻；彻底搜索；全面排查",
+     "ctx": "不是 watch，是 scour——像梳子一样把画面梳一遍，AI 干的正是这种苦活。",
+     "ex1": "Police scoured the surrounding countryside for clues about the missing child. 警方仔细搜查了周边乡村，寻找失踪儿童的线索。",
+     "ex2": "She scoured the internet for affordable flights before booking her holiday. 预订假期之前，她在网上仔细搜寻价格实惠的机票。"
+    },
+    {
+     "w": "footage",
+     "ipa": "/ˈfʊtɪdʒ/",
+     "pos": "n.",
+     "en": "recorded film or video showing an event or activity",
+     "zh": "录像；视频画面；影像资料",
+     "ctx": "过去监控只是 passive footage，如今要被拿来分析，一个名词点出安防的转向。",
+     "ex1": "Security footage showed a suspicious vehicle leaving the parking lot. 监控录像显示，一辆可疑车辆驶离了停车场。",
+     "ex2": "The documentary includes rare footage of the city before the war. 这部纪录片收录了这座城市战前的珍贵影像资料。"
+    }
+   ]
+  },
+  {
+   "en_html": "<mark class=\"voc\">Victimized</mark> museums are often <mark class=\"voc\">compelled</mark> to <mark class=\"voc\">cope</mark> by closing <mark class=\"voc\">indefinitely</mark> or reopening with fewer treasures <mark class=\"voc\">on view</mark>. The Louvre has reopened its Apollo Gallery, but all the remaining jewelry in it has been removed, resulting in an empty, 17th-century <mark class=\"voc\">ceremonial</mark> gallery. At the Louvre, staff are still discussing when and how to put the theft’s lone survivor back on public view: Empress Eugenie’s 19th-century crown, which thieves dropped and <mark class=\"voc\">crumpled</mark> outside the museum during their <mark class=\"voc\">getaway</mark>. <mark class=\"voc\">Conservators</mark> say one of its eight golden eagles is missing and so are 10 of its 1,354 diamonds, but its 56 <mark class=\"voc\">emeralds</mark> and central globe survived. “It will be exhibited at the Louvre when we have found the ideal location to create a <mark class=\"voc\">dedicated</mark>, secure exhibition space,” the museum said, “but for now, not all conditions are <mark class=\"voc\">in place</mark>.”",
+   "zh": "遭遇盗窃的博物馆往往被迫通过无限期闭馆，或者重新开放但减少展出珍宝的方式来应对。卢浮宫已经重新开放了阿波罗画廊，但里面剩余的所有珠宝都已被移走，使这座建于17世纪、原本用于举行典礼的华丽展厅变得空空荡荡。在卢浮宫，工作人员仍在讨论何时以及如何让这场盗窃案中唯一幸存的珍宝重新与公众见面：那就是19世纪欧仁妮皇后的皇冠。窃贼在逃跑过程中将它掉落在博物馆外，导致皇冠被压坏、变形。文物修复专家表示，皇冠上原有的八只金鹰装饰中有一只不见了，1,354颗钻石中也有10颗遗失，但56颗祖母绿宝石和中央的球形装饰都幸存了下来。博物馆表示：“当我们找到理想的地点，能够打造一个专门、安全的展览空间时，这顶皇冠将在卢浮宫展出。但就目前而言，并非所有必要条件都已具备。”",
+   "notes": [
+    {
+     "w": "victimize",
+     "ipa": "/ˈvɪktɪmaɪz/",
+     "pos": "v.",
+     "en": "to make someone suffer unfairly or cause someone to become the victim of a crime or harmful action",
+     "zh": "使受害；使成为牺牲品；使遭受不公正对待",
+     "ctx": "被动语态 victimized museums：博物馆成了受害者，文章的同情立场开场就站好了。",
+     "ex1": "Elderly people are sometimes victimized by sophisticated online scams. 老年人有时会成为复杂网络诈骗的受害者。",
+     "ex2": "The new regulations aim to protect consumers who have been victimized by dishonest businesses. 新规定旨在保护那些受到不诚信企业侵害的消费者。"
+    },
+    {
+     "w": "compel",
+     "ipa": "/kəmˈpel/",
+     "pos": "v.",
+     "en": "to force someone to do something, especially because of a difficult situation or strong pressure",
+     "zh": "迫使；强迫；使不得不",
+     "ctx": "不是 choose，是 compelled——闭馆或减展，没有一样是自愿的。",
+     "ex1": "The severe storm compelled the organizers to cancel the outdoor concert. 严重的暴风雨迫使组织者取消了户外音乐会。",
+     "ex2": "Financial difficulties compelled the family to sell their old house. 经济困难迫使这家人卖掉了老房子。"
+    },
+    {
+     "w": "cope",
+     "ipa": "/koʊp/",
+     "pos": "v.",
+     "en": "to deal successfully with a difficult situation or problem",
+     "zh": "应对；处理；设法克服困难",
+     "ctx": "一个中性动词却透着勉强：cope 是撑住，不是解决。",
+     "ex1": "Many small businesses struggled to cope with rising operating costs. 许多小企业难以应对不断上涨的运营成本。",
+     "ex2": "She found it difficult to cope with the pressure of her new job. 她发现自己很难应对新工作的压力。"
+    },
+    {
+     "w": "indefinitely",
+     "ipa": "/ɪnˈdefɪnətli/",
+     "pos": "adv.",
+     "en": "for a period of time that has no fixed or known end",
+     "zh": "无限期地；没有明确期限地",
+     "ctx": "无限期比 for a long time 更绝望，因为它意味着看不到头。",
+     "ex1": "The railway service was suspended indefinitely because of serious safety concerns. 由于存在严重的安全隐患，铁路服务被无限期暂停。",
+     "ex2": "The company announced that the project would be delayed indefinitely. 公司宣布该项目将无限期推迟。"
+    },
+    {
+     "w": "on view",
+     "ipa": "/ɑːn vjuː/",
+     "pos": "phr.",
+     "en": "being displayed in a place where members of the public can see it",
+     "zh": "公开展出；供公众参观",
+     "ctx": "展出的东西少了，on view 说得轻描淡写，背后是没什么可看了。",
+     "ex1": "Several rare paintings will be on view at the museum until December. 几幅珍贵画作将在博物馆展出至12月。",
+     "ex2": "The ancient manuscript is rarely on view because it is extremely fragile. 这份古代手稿由于十分脆弱，很少公开展出。"
+    },
+    {
+     "w": "ceremonial",
+     "ipa": "/ˌserəˈmoʊniəl/",
+     "pos": "adj.",
+     "en": "relating to or used for formal ceremonies and important public occasions",
+     "zh": "仪式性的；典礼用的；礼仪性的",
+     "ctx": "17 世纪的典礼厅如今空空荡荡，ceremonial 把昔日的排场与今天的空叠在一起。",
+     "ex1": "The king wore ceremonial robes during the official celebration. 国王在官方庆典期间穿着礼仪长袍。",
+     "ex2": "The historic palace contains a magnificent ceremonial hall decorated with gold. 这座历史宫殿内有一座装饰着黄金的宏伟典礼大厅。"
+    },
+    {
+     "w": "crumple",
+     "ipa": "/ˈkrʌmpəl/",
+     "pos": "v.",
+     "en": "to crush or press something so that it becomes bent, wrinkled or damaged",
+     "zh": "压皱；压坏；使变形",
+     "ctx": "crumple 专用于揉皱纸张这类动作，用在一顶皇冠上，狼狈感顿生。",
+     "ex1": "He crumpled the letter in his hand and threw it into the bin. 他把信揉成一团，扔进了垃圾桶。",
+     "ex2": "The front of the car was badly crumpled after the collision. 汽车的前部在碰撞后严重变形。"
+    },
+    {
+     "w": "getaway",
+     "ipa": "/ˈɡetəweɪ/",
+     "pos": "n.",
+     "en": "an escape from a place, especially after committing a crime",
+     "zh": "逃跑；逃脱；犯罪后的逃离",
+     "ctx": "getaway 常与 car、route 搭配，这里说逃跑途中掉落，画面感极强。",
+     "ex1": "The robbers abandoned their getaway car several miles from the bank. 劫匪在距离银行几英里的地方丢弃了逃跑用的汽车。",
+     "ex2": "Police arrested two suspects while they were attempting to make their getaway. 两名嫌疑人在试图逃跑时被警方逮捕。"
+    },
+    {
+     "w": "conservator",
+     "ipa": "/kənˈsɜːrvətər/",
+     "pos": "n.",
+     "en": "a specialist who protects, preserves and repairs works of art or historically important objects",
+     "zh": "文物保护专家；艺术品修复师",
+     "ctx": "修复师叫 conservator，不是 curator（策展人）——一个词分清管展与管修。",
+     "ex1": "The museum hired an experienced conservator to restore the damaged painting. 博物馆聘请了一位经验丰富的修复师来修复受损画作。",
+     "ex2": "Conservators carefully examined the ancient sculpture before beginning restoration work. 文物修复专家在开始修复工作前，仔细检查了这尊古代雕塑。"
+    },
+    {
+     "w": "emerald",
+     "ipa": "/ˈemərəld/",
+     "pos": "n.",
+     "en": "a bright green precious stone, often used in expensive jewelry",
+     "zh": "祖母绿；绿宝石",
+     "ctx": "56 颗祖母绿完好，作者把数字与宝石名一一列出，是在替这顶皇冠点货。",
+     "ex1": "She wore a necklace decorated with diamonds and emeralds. 她佩戴着一条镶嵌钻石和祖母绿的项链。",
+     "ex2": "The jeweler carefully examined the emerald under a bright light. 珠宝商在强光下仔细检查了这颗祖母绿宝石。"
+    },
+    {
+     "w": "dedicated",
+     "ipa": "/ˈdedɪkeɪtɪd/",
+     "pos": "adj.",
+     "en": "designed, built or used for one particular purpose",
+     "zh": "专用的；专门设置的",
+     "ctx": "dedicated 强调为它单独辟出来，一顶皇冠要独占一间展室，足见其地位。",
+     "ex1": "The university opened a dedicated research center for artificial intelligence. 这所大学开设了一座专门研究人工智能的研究中心。",
+     "ex2": "The hospital has a dedicated department for treating children with serious illnesses. 这家医院设有专门治疗重症儿童的科室。"
+    },
+    {
+     "w": "in place",
+     "ipa": "/ɪn pleɪs/",
+     "pos": "phr.",
+     "en": "existing and ready to be used, or properly arranged for a particular purpose",
+     "zh": "已就位；已落实；已准备妥当",
+     "ctx": "条件是还没到位，in place 是公文腔，放在结尾冷静得近乎无奈。",
+     "ex1": "All safety measures must be in place before the factory can reopen. 工厂重新开放之前，所有安全措施都必须落实到位。",
+     "ex2": "The organizers confirmed that the necessary arrangements were finally in place. 组织者确认，所有必要的安排终于都已准备妥当。"
+    }
+   ]
+  }
+ ],
+ "proper": [
+  {
+   "name": "Louvre Museum / 卢浮宫博物馆",
+   "def": "巴黎市中心的艺术博物馆，前身是 12 世纪末的军事堡垒，后成为法国王室宫殿，1793 年法国大革命期间正式作为公共博物馆开放；藏品横跨古埃及、古希腊、古罗马与欧洲绘画，代表作有《蒙娜丽莎》《米洛的维纳斯》和《萨莫色雷斯的胜利女神》。<br>本文中的意思：全篇的起点——窃贼正是从这里砸窗闯入、劫走王室珠宝，才引出这一年的连环盗案。"
+  },
+  {
+   "name": "Crown Jewels of France / 法国王室珠宝",
+   "def": "法国历代君主与皇室使用或收藏的王冠、项链、胸针等饰品，多镶钻石、祖母绿与蓝宝石，既是贵重财物，也承载君主制与帝国的历史；1887 年第三共和国曾大批拍卖王室珠宝以削弱君主制象征，部分精品留存并进入卢浮宫等公共收藏。<br>本文中的意思：被盗的那批 19 世纪珠宝，价值至少 1.01 亿美元，是本案分量最重的失物。"
+  },
+  {
+   "name": "Smash-and-grab / 砸抢式盗窃",
+   "def": "以暴力破坏加快速逃离为特征的盗窃方式：砸碎玻璃、破坏门窗、冲破防护，在极短时间内拿走贵重物品就跑，常见于珠宝店与奢侈品店；与需要长期潜伏、精心隐藏行踪的传统艺术品盗窃不同，它拼的是速度，要在警方赶到前完成。<br>本文中的意思：2025 年初以来袭击欧洲 14 家以上博物馆的，正是这类 smash-and-grab criminals。"
+  },
+  {
+   "name": "Art Recovery International / 国际艺术品追索公司",
+   "def": "专做失窃艺术品追踪、调查与追回的私人机构，由艺术品追索专家 Christopher Marinello 创立，业务涵盖失窃绘画、雕塑、古董，与收藏家、律师、保险机构和执法部门合作，往往要结合艺术史知识、来源记录、国际法与犯罪调查。<br>本文中的意思：文中多处关键判断、以及那句你总不能把雷诺阿熔掉，都出自其首席执行官马里内洛之口。"
+  },
+  {
+   "name": "Black Market for Stolen Art / 被盗艺术品黑市",
+   "def": "通过非法渠道交易失窃、走私或来源不明艺术品的市场。与电影不同，世界名画极难在黑市直接出手——辨识度太高，买家一持有就面临法律风险；黄金和宝石却能熔化、重切，抹掉原有的身份特征。<br>本文中的意思：解释了第 2 段那个错误观念——偷来的画卖不出高价，这才是盗贼转向贵金属的真正原因。"
+  },
+  {
+   "name": "Apollo Gallery / 阿波罗画廊",
+   "def": "卢浮宫最著名的历史展厅之一。1661 年卢浮宫部分区域失火后，路易十四下令重建，以太阳神阿波罗为装饰主题——阿波罗象征太阳、光明与王权，正呼应“太阳王”本人；画廊以镀金装饰、天顶绘画与巴洛克风格闻名，后来成为陈列法国王室珠宝的地方。<br>本文中的意思：窃贼破窗而入之处，也是如今装上窗户护栏、撤空珠宝后空空荡荡的那间展厅。"
+  },
+  {
+   "name": "Museum Security / 博物馆安保体系",
+   "def": "大型博物馆的安保通常包括视频监控、入侵报警、门窗防护、出入口管理、安保巡逻与藏品保护设施。与银行金库不同，博物馆必须让大量游客接近展品，不能完全依赖封闭式防护；不少历史建筑还受文物保护规定限制，不能随意改造结构、加装大型设备。<br>本文中的意思：第 3 段那句“博物馆不是堡垒”，说的就是这个结构性两难。"
+  },
+  {
+   "name": "The Theft of the Mona Lisa / 《蒙娜丽莎》失窃案",
+   "def": "1911 年 8 月 21 日，曾在卢浮宫做玻璃安装工的意大利人文森佐·佩鲁贾把《蒙娜丽莎》从展位取下带出博物馆；失窃震惊世界，反而让这幅画名气更大，1913 年他试图在意大利出售时被发现，画作于 1914 年重返卢浮宫。<br>本文中的意思：第 4 段拿它作对照——一个世纪前贼偷的是名画，如今贼绕开名画去偷能熔能拆的金属与宝石。"
+  },
+  {
+   "name": "Precious Metals and Gemstones / 贵金属与宝石的变现价值",
+   "def": "黄金、白银的价值很大程度来自材料本身：熔了还是黄金；钻石等宝石重新切割后，原有的可辨识特征也可能消失。名画则相反，价值系于作者身份、真伪、历史意义与保存状态，一旦严重破损，市场价格可能大幅缩水。<br>本文中的意思：全篇的核心经济学——这正是宁愿偷黄金、也不愿偷名画的答案。"
+  },
+  {
+   "name": "Salvador Dalí / 萨尔瓦多·达利",
+   "def": "西班牙画家（1904—1989），20 世纪超现实主义艺术最具代表性的人物之一，以奇异梦境、精细笔法与充满象征意义的形象闻名，代表作《记忆的永恒》里那些柔软、仿佛正在融化的时钟；其创作还涉及雕塑、珠宝、电影与设计。<br>本文中的意思：第 5 段被盗的那件 330 磅青铜书封，正是他设计的——重、贵，却仍然搬得走。"
+  },
+  {
+   "name": "Surrealism / 超现实主义",
+   "def": "20 世纪 20 年代兴起于欧洲的艺术与文学运动，受精神分析学说与梦境研究影响；1924 年布勒东发表《超现实主义宣言》，成为运动的重要标志。艺术家试图摆脱日常理性与现世逻辑，用梦境、幻想与不合常理的组合呈现潜意识世界，达利是其中最著名的代表。<br>本文中的意思：给达利的身份定位，也解释了他为何会把黄金、宝石与贝壳装到一本书封上。"
+  },
+  {
+   "name": "Pierre-Auguste Renoir / 皮埃尔-奥古斯特·雷诺阿",
+   "def": "法国印象派绘画的重要代表（1841—1919），与莫奈、德加同时代，以明亮色彩、柔和光线与充满生活气息的人物场景著称，代表作有《煎饼磨坊的舞会》《船上的午宴》。<br>本文中的意思：马里内洛那句你总不能把一幅雷诺阿熔掉吧，用他代指一切不可熔、只能整幅带走的名画。"
+  },
+  {
+   "name": "Isabella Stewart Gardner Museum Heist / 加德纳博物馆盗窃案",
+   "def": "1990 年 3 月 18 日凌晨，两名男子假扮波士顿警察进入博物馆，制服两名保安后在馆内活动 81 分钟，盗走 13 件艺术品，包括维米尔的《音乐会》与伦勃朗的《加利利海上的风暴》，估值超过 5 亿美元，至今未破、未追回，馆内仍留着空画框。<br>本文中的意思：与今年的案子对照——1990 年是 81 分钟，今年马尼亚尼-罗卡只用了不到 3 分钟。"
+  },
+  {
+   "name": "Johannes Vermeer and Rembrandt / 维米尔与伦勃朗",
+   "def": "同为 17 世纪荷兰黄金时代最著名的画家：维米尔以宁静的室内场景、精妙的自然光与细腻的人物刻画闻名（《戴珍珠耳环的少女》），伦勃朗以强烈的明暗对比、富于情感的人物肖像与历史宗教画著称（《夜巡》）。<br>本文中的意思：1990 年失窃案里损失最重的两位画家，也是名画无法熔化的最佳例证。"
+  },
+  {
+   "name": "Magnani-Rocca Foundation / 马尼亚尼-罗卡基金会",
+   "def": "位于意大利北部帕尔马附近，由收藏家路易吉·马尼亚尼于 1977 年创立、1990 年向公众开放，藏品含雷诺阿、塞尚、马蒂斯等大师之作；2026 年 3 月，窃贼闯入基金会所在的别墅，不到三分钟盗走三幅画，同年 8 月被意大利警方追回。<br>本文中的意思：用来量化现在的盗窃有多快——三分钟，一栋别墅，三幅画。"
+  },
+  {
+   "name": "Museum of Natural History in Paris / 巴黎自然历史博物馆",
+   "def": "法国国家自然历史博物馆，历史可追溯至 17 世纪的法国王室药用植物园，既是研究机构也是公共教育机构，展出动植物、矿物与化石标本，研究生物多样性、进化与地球科学；与艺术馆不同，它的贵重藏品可能是矿物标本、天然黄金与珍稀化石。<br>本文中的意思：第 7 段那起案子的现场——报警与监控先被网络攻击弄哑，两个月后 13 磅黄金被锯门偷走。"
+  },
+  {
+   "name": "Cybersecurity and Museum Surveillance / 网络安全与博物馆监控系统",
+   "def": "现代博物馆的安防越来越依赖联网摄像头、电子门禁、入侵报警与远程监控；效率提高的同时风险也来了——密码太简单、系统长期不更新、设备之间缺乏安全隔离，都可能被攻击者利用，一旦系统被破坏，博物馆会暂时失去报警与监控能力。<br>本文中的意思：解释第 7 段的因果链——一次未被察觉的网络攻击，成了两个月后黄金失窃的前置条件。"
+  },
+  {
+   "name": "Artificial Intelligence in Museum Security / 人工智能在博物馆安保中的应用",
+   "def": "AI 视频分析可通过计算机视觉识别画面中的人物活动、物体移动与异常行为，例如有人进入限制区域、长时间滞留敏感位置，或举动与正常参观明显不同；它能自动分析海量画面并发出提醒，但也存在误报、隐私与算法判断不准的问题，替代不了专业安保人员。<br>本文中的意思：第 8 段的另一面——同样的 AI，馆方拿来巡查可疑行为，不再只是被动录像。"
+  },
+  {
+   "name": "Dual-use Technology / 技术的双重用途",
+   "def": "指同一种技术既能用于合法有益的目的，也可能被用于有害甚至违法活动。AI 是典型：博物馆用它分析监控、排查隐患，犯罪分子也可能用它搜集公开信息、筛选目标、寻找漏洞。<br>本文中的意思：马里内洛那个实验就是注脚——AI 拒绝帮他偷画，却照样告诉他最近的五金店哪有大锤和绳子。"
+  },
+  {
+   "name": "Empress Eugénie and Her Crown / 欧仁妮皇后与她的皇冠",
+   "def": "欧仁妮皇后（1826—1920），拿破仑三世之妻、法兰西第二帝国最后一位皇后，以优雅服饰、精美珠宝与对艺术时尚的影响力闻名；卢浮宫所藏皇冠制于 1855 年，由珠宝匠勒莫尼耶设计，原镶 1,354 颗钻石、56 颗祖母绿，并饰八只金鹰。<br>本文中的意思：本案唯一幸存的珍宝——窃贼逃跑时把它丢在馆外压坏，如今一只金鹰、10 颗钻石不知所踪。"
+  }
+ ],
+ "sources_note": "资料核对：以上背景依据文章内容，并参考《华尔街日报》报道、卢浮宫与加德纳博物馆公开资料及 Art Recovery International 截至 2026 年 10 月的公开信息。",
+ "practice": {
+  "intro": "请根据今天学习的外刊，把下面的中文句子翻译成英文。要求：尽量用上括号里的提示词，可以适当改变词形，但不要直接照抄原文。",
+  "items": [
+   "自从窃贼闯入卢浮宫、盗走价值至少 1.01 亿美元的王室珠宝以来，欧洲各地的艺术品盗窃案愈演愈烈。（break into / crown jewels / intensify / heist）",
+   "如今，窃贼越来越倾向于盗取黄金和珠宝，而不是名画，因为贵金属可以被熔化，宝石也可以被重新切割和转售。（bypass / melt down / retain）",
+   "犯罪分子的作案方式也发生了变化。他们通常迅速闯入博物馆，抓起贵重物品，并在警方抵达前逃离现场。（smash-and-grab / grab / break into）",
+   "更令人担忧的是，一些窃贼开始利用人工智能寻找安保薄弱的博物馆，甚至利用网络攻击造成的系统故障实施盗窃。（cyberattack / breach / scour）",
+   "为了应对威胁，博物馆正在加强安保措施，并利用人工智能监测可疑行为。但它们仍然面临一个难题：如何在保护珍宝的同时，继续向公众开放？（wake-up call / fortress / protocol）"
+  ],
+  "critical_en": "Do you think museums should prioritize security over public access? Why or why not?",
+  "critical_zh": "你认为博物馆应该优先保障藏品安全，还是让公众有机会欣赏这些珍宝？为什么？",
+  "answer": "1. Since thieves broke into the Louvre and stole valuable crown jewels, art heists across Europe have intensified.<br><br>2. Today, criminals often bypass paintings and target gold and jewels because these materials can be melted down or resold.<br><br>3. Their methods have also changed. Thieves grab valuable objects and flee the scene within minutes.<br><br>4. Some even use AI to identify vulnerable museums or take advantage of security systems disabled by cyberattacks.<br><br>5. In response, museums are improving security and using AI surveillance. However, they still face a difficult challenge: balancing the protection of their treasures with public access.<br><br>思考题：I believe museums should protect their treasures without becoming fortresses. Art belongs to everyone, not just a small group of people. If museums close their doors, they lose part of their purpose. Better technology and stronger security measures can help protect valuable collections while keeping them accessible to the public."
+ },
+ "mindmap": {
+  "aria": "欧洲博物馆连环盗窃案文章思维导图",
+  "alt": "欧洲博物馆连环盗窃案（手绘版）",
+  "svg": "<svg viewBox=\"0 0 960 720\" xmlns=\"http://www.w3.org/2000/svg\" role=\"img\" aria-label=\"欧洲博物馆连环盗窃案文章思维导图\" style=\"width:100%;height:auto;font-family:-apple-system,'PingFang SC','Hiragino Sans GB','Microsoft YaHei',sans-serif\">\n        <rect x=\"24\" y=\"306\" width=\"176\" height=\"88\" rx=\"14\" fill=\"#eae3d2\" stroke=\"#9a8f76\"/>\n        <text x=\"112\" y=\"342\" text-anchor=\"middle\" fill=\"#3d3a34\" font-size=\"17\" font-weight=\"700\">欧洲博物馆被盗潮</text>\n        <text x=\"112\" y=\"368\" text-anchor=\"middle\" fill=\"#5c5648\" font-size=\"12.5\">为什么偷金不偷画</text>\n\n        <path d=\"M200,350 C232,350 232,88 260,88\"  stroke=\"#6b8f71\" stroke-width=\"2\" fill=\"none\"/>\n        <path d=\"M200,350 C232,350 232,238 260,238\" stroke=\"#7d98ad\" stroke-width=\"2\" fill=\"none\"/>\n        <path d=\"M200,350 C232,350 232,433 260,433\" stroke=\"#bd7a6d\" stroke-width=\"2\" fill=\"none\"/>\n        <path d=\"M200,350 C232,350 232,628 260,628\" stroke=\"#9b86b3\" stroke-width=\"2\" fill=\"none\"/>\n\n        <g class=\"mm-branch\" data-target=\"bc1\">\n          <rect x=\"260\" y=\"71\" width=\"190\" height=\"34\" rx=\"8\" fill=\"#e6efe7\" stroke=\"#6b8f71\"/>\n          <text x=\"349\" y=\"93\" text-anchor=\"middle\" fill=\"#4c6b52\" font-size=\"15\" font-weight=\"700\">劫案接连不断（¶1–2）</text>\n          <text class=\"mm-arrow\" data-for=\"bc1\" x=\"442\" y=\"93\" text-anchor=\"end\" fill=\"#4c6b52\">▾</text>\n        </g>\n        <g class=\"mm-children\" id=\"bc1\">\n          <path d=\"M450,88 C462,88 462,46 480,46\" stroke=\"#6b8f71\" stroke-width=\"1.5\" fill=\"none\"/>\n          <path d=\"M450,88 C462,88 462,88 480,88\" stroke=\"#6b8f71\" stroke-width=\"1.5\" fill=\"none\"/>\n          <path d=\"M450,88 C462,88 462,130 480,130\" stroke=\"#6b8f71\" stroke-width=\"1.5\" fill=\"none\"/>\n          <rect x=\"480\" y=\"30\" width=\"456\" height=\"32\" rx=\"8\" fill=\"#e6efe7\"/><text x=\"492\" y=\"51\" fill=\"#3d3a34\" font-size=\"14\">卢浮宫被砸窗劫走 1.01 亿美元王室珠宝，一年间劫案不减反增</text>\n          <rect x=\"480\" y=\"72\" width=\"456\" height=\"32\" rx=\"8\" fill=\"#e6efe7\"/><text x=\"492\" y=\"93\" fill=\"#3d3a34\" font-size=\"14\">威尔士到西西里，14 家以上博物馆遭砸抢式盗窃，安保攻不破题</text>\n          <rect x=\"480\" y=\"114\" width=\"456\" height=\"32\" rx=\"8\" fill=\"#e6efe7\"/><text x=\"492\" y=\"135\" fill=\"#3d3a34\" font-size=\"14\">警方仍在追赃；卢浮宫这道口子成了全行业的不祥先例</text>\n        </g>\n\n        <g class=\"mm-branch\" data-target=\"bc2\">\n          <rect x=\"260\" y=\"221\" width=\"190\" height=\"34\" rx=\"8\" fill=\"#e5edf4\" stroke=\"#7d98ad\"/>\n          <text x=\"349\" y=\"243\" text-anchor=\"middle\" fill=\"#3d5872\" font-size=\"15\" font-weight=\"700\">偷金不偷画（¶3–4）</text>\n          <text class=\"mm-arrow\" data-for=\"bc2\" x=\"442\" y=\"243\" text-anchor=\"end\" fill=\"#3d5872\">▾</text>\n        </g>\n        <g class=\"mm-children\" id=\"bc2\">\n          <path d=\"M450,238 C462,238 462,196 480,196\" stroke=\"#7d98ad\" stroke-width=\"1.5\" fill=\"none\"/>\n          <path d=\"M450,238 C462,238 462,238 480,238\" stroke=\"#7d98ad\" stroke-width=\"1.5\" fill=\"none\"/>\n          <path d=\"M450,238 C462,238 462,280 480,280\" stroke=\"#7d98ad\" stroke-width=\"1.5\" fill=\"none\"/>\n          <rect x=\"480\" y=\"180\" width=\"456\" height=\"32\" rx=\"8\" fill=\"#e5edf4\"/><text x=\"492\" y=\"201\" fill=\"#3d3a34\" font-size=\"14\">卢浮宫补漏：新设安保协调员、防冲撞护栏、窗栏，仍要接待三万游客</text>\n          <rect x=\"480\" y=\"222\" width=\"456\" height=\"32\" rx=\"8\" fill=\"#e5edf4\"/><text x=\"492\" y=\"243\" fill=\"#3d3a34\" font-size=\"14\">贵金属能熔、宝石能重切，熔了就查不出来，材料本身保有价值</text>\n          <rect x=\"480\" y=\"264\" width=\"456\" height=\"32\" rx=\"8\" fill=\"#e5edf4\"/><text x=\"492\" y=\"285\" fill=\"#3d3a34\" font-size=\"14\">10 起案子绕开画作；一个世纪前偷《蒙娜丽莎》，如今掉头偷金属</text>\n        </g>\n\n        <g class=\"mm-branch\" data-target=\"bc3\">\n          <rect x=\"260\" y=\"416\" width=\"190\" height=\"34\" rx=\"8\" fill=\"#f4e7e4\" stroke=\"#bd7a6d\"/>\n          <text x=\"349\" y=\"438\" text-anchor=\"middle\" fill=\"#7c4a3e\" font-size=\"15\" font-weight=\"700\">手法越来越快（¶5–7）</text>\n          <text class=\"mm-arrow\" data-for=\"bc3\" x=\"442\" y=\"438\" text-anchor=\"end\" fill=\"#7c4a3e\">▾</text>\n        </g>\n        <g class=\"mm-children\" id=\"bc3\">\n          <path d=\"M450,433 C462,433 462,391 480,391\" stroke=\"#bd7a6d\" stroke-width=\"1.5\" fill=\"none\"/>\n          <path d=\"M450,433 C462,433 462,433 480,433\" stroke=\"#bd7a6d\" stroke-width=\"1.5\" fill=\"none\"/>\n          <path d=\"M450,433 C462,433 462,475 480,475\" stroke=\"#bd7a6d\" stroke-width=\"1.5\" fill=\"none\"/>\n          <rect x=\"480\" y=\"375\" width=\"456\" height=\"32\" rx=\"8\" fill=\"#f4e7e4\"/><text x=\"492\" y=\"396\" fill=\"#3d3a34\" font-size=\"14\">达利设计的 330 磅青铜书封被拖走；名画可辨认、必须完整才值钱</text>\n          <rect x=\"480\" y=\"417\" width=\"456\" height=\"32\" rx=\"8\" fill=\"#f4e7e4\"/><text x=\"492\" y=\"438\" fill=\"#3d3a34\" font-size=\"14\">1990 年是 81 分钟，如今闯进去抓一把就跑，赶在警察抵达之前</text>\n          <rect x=\"480\" y=\"459\" width=\"456\" height=\"32\" rx=\"8\" fill=\"#f4e7e4\"/><text x=\"492\" y=\"480\" fill=\"#3d3a34\" font-size=\"14\">先网络攻击弄哑报警，再锯门、喷灯偷走 13 磅黄金</text>\n        </g>\n\n        <g class=\"mm-branch\" data-target=\"bc4\">\n          <rect x=\"260\" y=\"611\" width=\"190\" height=\"34\" rx=\"8\" fill=\"#ece4f2\" stroke=\"#9b86b3\"/>\n          <text x=\"349\" y=\"633\" text-anchor=\"middle\" fill=\"#5a4670\" font-size=\"15\" font-weight=\"700\">AI 双刃与代价（¶8–9）</text>\n          <text class=\"mm-arrow\" data-for=\"bc4\" x=\"442\" y=\"633\" text-anchor=\"end\" fill=\"#5a4670\">▾</text>\n        </g>\n        <g class=\"mm-children\" id=\"bc4\">\n          <path d=\"M450,628 C462,628 462,586 480,586\" stroke=\"#9b86b3\" stroke-width=\"1.5\" fill=\"none\"/>\n          <path d=\"M450,628 C462,628 462,628 480,628\" stroke=\"#9b86b3\" stroke-width=\"1.5\" fill=\"none\"/>\n          <path d=\"M450,628 C462,628 462,670 480,670\" stroke=\"#9b86b3\" stroke-width=\"1.5\" fill=\"none\"/>\n          <rect x=\"480\" y=\"570\" width=\"456\" height=\"32\" rx=\"8\" fill=\"#ece4f2\"/><text x=\"492\" y=\"591\" fill=\"#3d3a34\" font-size=\"14\">AI 帮贼筛目标、找大锤绳子，也帮馆方巡查可疑行为</text>\n          <rect x=\"480\" y=\"612\" width=\"456\" height=\"32\" rx=\"8\" fill=\"#ece4f2\"/><text x=\"492\" y=\"633\" fill=\"#3d3a34\" font-size=\"14\">受害博物馆只能无限期闭馆或减展；阿波罗画廊撤空珠宝</text>\n          <rect x=\"480\" y=\"654\" width=\"456\" height=\"32\" rx=\"8\" fill=\"#ece4f2\"/><text x=\"492\" y=\"675\" fill=\"#3d3a34\" font-size=\"14\">唯一幸存的欧仁妮皇冠压坏了，缺一只金鹰、10 颗钻石</text>\n        </g>\n      </svg>",
+  "img": ""
+ }
+}

@@ -1,0 +1,487 @@
+{
+ "date": "2026-10-31",
+ "title_tag": "美国中期选举前夕：亚裔和拉美裔，为什么正在成为最有价值的选民？—— 英国《经济学人》外刊讲解第1214天",
+ "h1": "美国中期选举前夕：亚裔和拉美裔，为什么正在成为最有价值的选民？",
+ "source_label": "The Economist",
+ "category": "英国《经济学人》外刊讲解 第1214天",
+ "read_minutes": 20,
+ "nav_hint": "The Americans changing politics",
+ "headline": {
+  "en_html": "<span><mark class=\"voc\">The Americans</mark> changing politics <mark class=\"voc\">for the better</mark></span> — <span><mark class=\"voc\">Hispanics</mark> and Asians have become their country’s most <mark class=\"voc\">dynamic</mark> <mark class=\"voc\">swing voters</mark></span>",
+  "zh": "这些正在让美国政治变好的美国人——拉丁裔和亚裔，已经成了美国最有活力、也最摇摆的选民",
+  "notes": [
+   {
+    "w": "the Americans",
+    "ipa": "/ði əˈmerɪkənz/",
+    "pos": "n.（特指用法）",
+    "en": "the Americans (n.) means a particular, identified group of American people rather than Americans in general",
+    "zh": "（特指的）这群美国人",
+    "ctx": "the + 复数，特指某一群特定的美国人，而非泛指全体。标题先抛出一个模糊的大概念“美国人”，吊着读者往下看副标题揭晓“到底是谁”——这是制造悬念的标题写法。",
+    "ex1": "The Americans are becoming more diverse than ever. （这群）美国人正变得比以往更加多元。",
+    "ex2": "The Americans who built this country came from every corner of the world. 建立这个国家的美国人来自世界各地。"
+   },
+   {
+    "w": "for the better",
+    "ipa": "/fə ðə ˈbetə(r)/",
+    "pos": "固定搭配",
+    "en": "for the better means in a way that improves a situation, making it better than before",
+    "zh": "向好的方向（变）",
+    "ctx": "灵魂在 for：表达方向、趋势。changing 是中性的，加 for the better 锁死方向——是往好了改。反义 for the worse（变坏）。",
+    "ex1": "The situation took a turn for the worse. 情况急转直下、变糟了。",
+    "ex2": "It’s a change for the better. 这是往好了变，是件好事。"
+   },
+   {
+    "w": "Hispanics",
+    "ipa": "/hɪˈspænɪks/",
+    "pos": "n.",
+    "en": "Hispanics (n.) means people of Spanish or Latin American origin living in the US",
+    "zh": "拉丁裔，西班牙裔",
+    "ctx": "词根 Hispania 是古罗马对伊比利亚半岛的称呼。与 Latino（强调“来自拉丁美洲”的地理概念）区分：巴西人讲葡萄牙语，是 Latino 而不算 Hispanic；西班牙本土移民算 Hispanic 不算 Latino。",
+    "ex1": "Hispanics are the fastest-growing segment of the US electorate. 拉美裔是美国选民中增长最快的群体。",
+    "ex2": "Many Hispanics trace their roots to Mexico and the Caribbean. 许多拉美裔的根可以追溯到墨西哥和加勒比地区。"
+   },
+   {
+    "w": "dynamic",
+    "ipa": "/daɪˈnæmɪk/",
+    "pos": "adj.",
+    "en": "dynamic (adj.) means constantly changing, full of energy and new ideas",
+    "zh": "有活力的，灵活多变的，能搅动局面的",
+    "ctx": "不是干巴巴的“动态的”，而是“身上有股劲儿、有股能搅动局面的力量”，与标题 changing 呼应：他们是在使劲改变，不是站那儿等。",
+    "ex1": "She is one of the most dynamic figures in the industry. 她是这个行业里最有活力的人物之一。",
+    "ex2": "The region has one of the most dynamic economies in the world. 该地区拥有全球最具活力的经济体之一。"
+   },
+   {
+    "w": "swing voters",
+    "ipa": "/swɪŋ ˈvəʊtəz/",
+    "pos": "n.",
+    "en": "swing voters (n.) means people who are not loyal to one political party and may vote for different parties in different elections",
+    "zh": "摇摆选民",
+    "ctx": "全文最核心概念。swing 本义“荡”，如秋千：这次荡到蓝营、下次荡到红营。与“铁票”（base voter）相对——真正决定胜负的是这群能荡来荡去的人。",
+    "ex1": "Candidates spend most of their money chasing swing voters. 候选人把大部分钱都花在争取摇摆选民上。",
+    "ex2": "Swing voters often decide the outcome of close elections. 摇摆选民往往决定势均力敌选举的结果。"
+   }
+  ]
+ },
+ "paragraphs": [
+  {
+   "en_html": "Midterm elections are always a <mark class=\"voc\">referendum</mark> on the <mark class=\"voc\">sitting</mark> American president, but rarely has an <mark class=\"voc\">incumbent</mark> so <mark class=\"voc\">wilfully</mark> put himself in the <mark class=\"voc\">spotlight</mark> <mark class=\"voc\">in defiance of</mark> his own unpopularity. As the campaign ends, Donald Trump is <mark class=\"voc\">commandeering</mark> rallies in Republican <mark class=\"voc\">strongholds</mark>, a sign of his party’s <mark class=\"voc\">vulnerability</mark> and his <mark class=\"voc\">unwavering</mark> faith in his own <mark class=\"voc\">star power</mark>. Away from the spotlight, however, something more surprising—and more important—has been happening: Hispanics and Asians have emerged as America’s most valuable voters.",
+   "zh": "中期选举，向来是对现任总统的一场全民打分。可几乎没有哪一位在任者，会像他这般，明知道自己不受待见，还偏要迎着聚光灯往上站。随着选战收官，川总正在共和党的大本营里，强占一场又一场的集会——这既暴露了他所在政党的虚弱，也印证了他对自己明星光环的顽固迷信。然而，聚光灯照不到的地方，一件更令人意外、也更重要的变化，正在悄然发生：拉丁裔和亚裔，已经悄然崛起，成为美国当下最值钱的选民。",
+   "notes": [
+    {
+     "w": "referendum",
+     "ipa": "/ˌrefəˈrendəm/",
+     "pos": "n.",
+     "en": "referendum (n.) means a vote in which all the people in a country or area are asked to give their opinion about an important question",
+     "zh": "全民公投，全民公决",
+     "ctx": "词根拉丁语 referre“带回去、提交回去”，即把一件事交回给人民决定。此处是比喻：中期选举名义上选议员，实际是老百姓对总统满意与否的打分——美国宪法里并没有全国性公投，这个“其实不存在的公投”更添讽刺。",
+     "ex1": "The government decided to hold a referendum on the issue. 政府决定就这一问题举行全民公投。",
+     "ex2": "The country voted in a referendum on independence. 这个国家在全民公投中就独立问题进行了投票。"
+    },
+    {
+     "w": "sitting",
+     "ipa": "/ˈsɪtɪŋ/",
+     "pos": "adj.",
+     "en": "sitting (adj.) means currently holding a particular office",
+     "zh": "现任的，在位的",
+     "ctx": "sitting president 直译“正坐在（白宫）那把椅子上的人”，比 current president 更有画面感。同类：sitting member（现任议员）。",
+     "ex1": "The sitting governor is seeking re-election. 这位现任州长正在寻求连任。",
+     "ex2": "No sitting president has lost a primary challenge in modern times. 现代以来，还没有哪位在任总统在初选挑战中落败。"
+    },
+    {
+     "w": "incumbent",
+     "ipa": "/ɪnˈkʌmbənt/",
+     "pos": "n.",
+     "en": "incumbent (n.) means the person who currently holds a particular official position",
+     "zh": "现任者，在位者",
+     "ctx": "词根拉丁语 incumbere：in- 在……上 + cumbere 躺、靠，“正占着这把椅子、坐在上面的人”。前脚 sitting、后脚 incumbent，一个意思两个说法，用词讲究。",
+     "ex1": "The incumbent is seeking a second term. 这位现任者正在谋求连任。",
+     "ex2": "Incumbents usually have a big advantage in elections. 现任者通常在选举中拥有很大优势。"
+    },
+    {
+     "w": "wilfully",
+     "ipa": "/ˈwɪlfəli/",
+     "pos": "adv.",
+     "en": "wilfully (adv.) means deliberately, doing something on purpose, often something wrong",
+     "zh": "任性而故意地，明知故犯地",
+     "ctx": "不是“不小心”，是“明知故犯、偏偏要”——明知道自己不受欢迎，偏要往聚光灯下钻。",
+     "ex1": "He wilfully ignored the warnings. 他故意无视了那些警告。",
+     "ex2": "He wilfully broke the rules to make a point. 他故意违反规则来表达立场。"
+    },
+    {
+     "w": "spotlight",
+     "ipa": "/ˈspɒtlaɪt/",
+     "pos": "n.",
+     "en": "spotlight (n.) means a strong light used to light up a particular person or area on a stage",
+     "zh": "聚光灯；万众瞩目的中心",
+     "ctx": "全段首尾呼应的关键词：川总把自己塞进 spotlight，真正重要的却发生在 away from the spotlight。镜头由明到暗、由闹到静，是全文的点睛之笔。",
+     "ex1": "His little brother always steals the spotlight. 他弟弟老抢他风头。",
+     "ex2": "She has been in the spotlight since winning the election. 自从赢得选举以来，她一直处在聚光灯下。"
+    },
+    {
+     "w": "in defiance of",
+     "ipa": "/ɪn dɪˈfaɪəns əv/",
+     "pos": "介词短语",
+     "en": "in defiance of means openly refusing to obey, against",
+     "zh": "公然违抗，无视",
+     "ctx": "defiance：de- 分开、对抗 + fid 信任（同 faith），“不再信任、公然反抗”。in defiance of his own unpopularity＝明知道自己不受欢迎，却偏要跟这个事实对着干。",
+     "ex1": "She stayed in the job in defiance of her doctor’s advice. 她无视医生的建议，继续留在那个岗位上。",
+     "ex2": "He continued the speech in defiance of the protesters. 他不顾抗议者，继续演讲。"
+    },
+    {
+     "w": "commandeer",
+     "ipa": "/ˌkɒmənˈdɪə(r)/",
+     "pos": "v.",
+     "en": "commandeer (v.) means to officially take possession or control of something, especially for military purposes, or to seize something for your own use",
+     "zh": "强占，霸占，征用",
+     "ctx": "1881 年才进英语，来自南非荷兰语 kommanderen“下命令、征调”：当年英军直接把当地人的马、车、房子征用。作者用它说川总强占共和党大本营的集会——attend 是出席、hold 是举办、commandeer 是强占，动词选得毒。",
+     "ex1": "Soldiers commandeered vehicles to cross the river. 士兵们强征车辆渡河。",
+     "ex2": "The rebels commandeered the radio station. 叛乱分子强占了广播电台。"
+    },
+    {
+     "w": "stronghold",
+     "ipa": "/ˈstrɒŋhəʊld/",
+     "pos": "n.",
+     "en": "stronghold (n.) means an area where support for a particular party is very strong",
+     "zh": "堡垒，要塞；（政党的）大本营、铁票区",
+     "ctx": "strong 强 + hold 守住的地方。Republican strongholds＝共和党的铁票区。",
+     "ex1": "The south has long been a stronghold of the ruling party. 南方长期以来一直是执政党的铁票区。",
+     "ex2": "The city is a Democratic stronghold. 这座城市是民主党的堡垒。"
+    },
+    {
+     "w": "vulnerability",
+     "ipa": "/ˌvʌlnərəˈbɪləti/",
+     "pos": "n.",
+     "en": "vulnerability (n.) means the state of being easy to hurt or attack",
+     "zh": "脆弱性，易受伤害",
+     "ctx": "词根 vulner 来自拉丁语 vulnus“伤口”。川总跑回自己大本营拉票，说明这个党心里没底了，是“脆弱”的信号。",
+     "ex1": "The scandal exposed the candidate’s vulnerability. 这桩丑闻暴露了这位候选人的软肋。",
+     "ex2": "Small states worry about their economic vulnerability. 小国担心自身经济的脆弱性。"
+    },
+    {
+     "w": "unwavering",
+     "ipa": "/ʌnˈweɪvərɪŋ/",
+     "pos": "adj.",
+     "en": "unwavering (adj.) means not changing or becoming weaker",
+     "zh": "不动摇的，坚定的",
+     "ctx": "un- 不 + waver 摇晃、动摇（与 swing 同家族）。unwavering faith in his own star power＝对自己明星光环“铁了心”的深信不疑。",
+     "ex1": "She has shown unwavering support for the team. 她对这支队伍给予了坚定不移的支持。",
+     "ex2": "He gave his unwavering support to the project. 他对这个项目给予了坚定的支持。"
+    },
+    {
+     "w": "star power",
+     "ipa": "/stɑː ˈpaʊə(r)/",
+     "pos": "n.",
+     "en": "star power (n.) means the ability of a famous person to attract people",
+     "zh": "明星号召力，明星效应",
+     "ctx": "star 明星 + power 号召力。作者讽刺川总对自己“明星光环”的顽固迷信。",
+     "ex1": "The film relies heavily on its star power. 这部电影在很大程度上依赖明星号召力。",
+     "ex2": "Star power alone cannot win an election. 光靠明星光环是赢不了选举的。"
+    }
+   ]
+  },
+  {
+   "en_html": "The <mark class=\"voc\">curse</mark> of American politics is its <mark class=\"voc\">bitter</mark> <mark class=\"voc\">partisanship</mark>. As voters have <mark class=\"voc\">sorted</mark> themselves along racial, educational and geographical lines, the parties have spent less time trying to <mark class=\"voc\">win converts</mark> from the other side and more <mark class=\"voc\">whipping their own supporters into a permanent frenzy</mark>: 70% of Republicans are <mark class=\"voc\">hostile</mark> towards Democrats and more than 80% of Democrats <mark class=\"voc\">return the favour</mark>. The result is a style of politics that <mark class=\"voc\">tugs</mark> public life towards the extremes, punishes <mark class=\"voc\">compromise</mark> and <mark class=\"voc\">puts getting people angry above getting things done</mark>.",
+   "zh": "美国政治的痼疾，是那种你死我活的党派对立。随着选民按种族、学历与地域，各自抱团、分边而站，两党也变了味——它们越来越少地去争取对手阵营的倒戈者，却越来越多地把自家拥趸，煽动进一种持久的癫狂：七成共和党人对民主党满心敌意，八成以上的民主党人，则把这敌意原样奉还。其结果，是一种将公共生活拖向极端、对妥协施以惩罚、把“激怒民众”置于“办成实事”之上的政治。",
+   "notes": [
+    {
+     "w": "curse",
+     "ipa": "/kɜːs/",
+     "pos": "n.",
+     "en": "curse (n.) means a cause of harm or misery, something that brings great trouble or bad luck",
+     "zh": "诅咒；祸根",
+     "ctx": "作者不用 problem、trouble，偏用 curse：美国政治的病不是“能解决的问题”，而是“甩不掉的诅咒”，一个词立起“没救了、自己招来的”味道。",
+     "ex1": "Debt has been the curse of his life. 债务是他一生的祸根。",
+     "ex2": "Partisanship has become the curse of modern politics. 党派对立已成为现代政治的祸根。"
+    },
+    {
+     "w": "bitter",
+     "ipa": "/ˈbɪtə(r)/",
+     "pos": "adj.",
+     "en": "bitter (adj.) means angry and resentful, marked by strong hostility",
+     "zh": "怨恨的，咬牙切齿的",
+     "ctx": "从“苦味”引申出“怨恨、尖刻、你死我活”。bitter partisanship＝咬牙切齿的党派对立；对比 bitter enemy（死敌）、bitter quarrel（吵到翻脸的争吵）。",
+     "ex1": "The two sides are locked in a bitter dispute. 双方陷入了一场激烈的争吵。",
+     "ex2": "The two old friends became bitter enemies. 这两位老友成了死敌。"
+    },
+    {
+     "w": "partisanship",
+     "ipa": "/ˈpɑːtɪzənʃɪp/",
+     "pos": "n.",
+     "en": "partisanship (n.) means strong, often unreasonable support for one political party",
+     "zh": "党派性，党同伐异，强烈的党派偏见",
+     "ctx": "partisan 党徒 + -ship 状态。与 bipartisan（两党的、跨党派的）互为反义，如 bipartisan support（两党都支持）。",
+     "ex1": "Partisanship has made compromise nearly impossible. 党派对立让妥协几乎成了不可能。",
+     "ex2": "The bill passed only after bitter partisanship. 这项法案是在激烈的党派争斗之后才通过的。"
+    },
+    {
+     "w": "sort",
+     "ipa": "/sɔːt/",
+     "pos": "v.",
+     "en": "sort oneself into means to divide into groups according to shared characteristics",
+     "zh": "自我归类，分堆",
+     "ctx": "sorted themselves along...lines 即“沿着……这些线把自己分了类、归了堆”：按种族、学历、地域三条线分边站。背后是 The Big Sort（大分类）现象。",
+     "ex1": "Voters have sorted themselves into two hostile camps. 选民们已自行分成了两个敌对阵营。",
+     "ex2": "Online, people sort themselves into groups of like-minded users. 在网上，人们会把自己归入志同道合的群体。"
+    },
+    {
+     "w": "win converts",
+     "ipa": "/wɪn ˈkɒnvɜːts/",
+     "pos": "动词短语",
+     "en": "win converts means to persuade people to change their beliefs or allegiance",
+     "zh": "赢得皈依者，争取倒戈者",
+     "ctx": "convert 本是宗教用词（改信者）。作者用宗教的词说政治：政党的活儿本该像传教士一样去“传教”，把对方阵营的人争取过来“改信”。",
+     "ex1": "The party is trying to win converts among young people. 该党正努力在年轻人中争取新支持者。",
+     "ex2": "The movement is trying to win converts in rural areas. 这场运动正努力在农村地区争取支持者。"
+    },
+    {
+     "w": "whip ... into a frenzy",
+     "ipa": "/wɪp ... ˈɪntə ə ˈfrenzi/",
+     "pos": "动词短语",
+     "en": "whip someone into a frenzy means to excite or arouse people to a state of wild, uncontrolled excitement",
+     "zh": "把……煽动到癫狂",
+     "ctx": "whip 本义“鞭子”，英国议会里的“党鞭”典出打猎时拿鞭子把跑偏的猎狗赶回队里的 whipper-in。两党不出去“传教”，改拿鞭子抽自己人，把自家支持者往“永久癫狂”里赶。",
+     "ex1": "The tabloids whipped the public into a frenzy. 小报把公众煽动得群情激愤。",
+     "ex2": "The speaker whipped the crowd into a frenzy. 演讲者把人群煽动得热血沸腾。"
+    },
+    {
+     "w": "hostile",
+     "ipa": "/ˈhɒstaɪl/",
+     "pos": "adj.",
+     "en": "hostile (adj.) means very unfriendly, showing strong dislike or opposition",
+     "zh": "怀有敌意的",
+     "ctx": "来自拉丁语 hostis“敌人”，即“像对待敌人一样”。be hostile towards＝对……怀有敌意；七成共和党人对民主党怀有敌意。",
+     "ex1": "The crowd was openly hostile to the proposal. 人群对这项提议表现出明显的敌意。",
+     "ex2": "He is openly hostile to the new policy. 他对新政策公开持敌意。"
+    },
+    {
+     "w": "return the favour",
+     "ipa": "/rɪˈtɜːn ðə ˈfeɪvə/",
+     "pos": "动词短语",
+     "en": "return the favour means to do something for someone who has done something for you",
+     "zh": "还人情，回报恩惠（此处反讽：以牙还牙）",
+     "ctx": "作者故意用这个“感恩”的短语去说“还恨”：前面共和党恨民主党，后面民主党“回报”了那份恨。本应还恩，这里却还恨。",
+     "ex1": "She helped me, so I returned the favour. 她帮过我，所以我也回报了她。",
+     "ex2": "They supported us last time, so now we should return the favour. 上次他们支持了我们，所以现在我们应该回报他们。"
+    },
+    {
+     "w": "tug",
+     "ipa": "/tʌɡ/",
+     "pos": "v.",
+     "en": "tug (v.) means to pull something hard and quickly, especially with a sudden movement",
+     "zh": "用力拉，猛拽",
+     "ctx": "画面即 tug of war（拔河）。作者把政治写成拔河里的那只手——它抓住公共生活，使劲往“极端”方向拽，与后面 punish、put 并列，把“政治在主动使坏”写活了。",
+     "ex1": "The two sides are in a tug of war over the budget. 双方在预算问题上僵持不下。",
+     "ex2": "The child tugged at her mother’s sleeve. 孩子拽了拽妈妈的袖子。"
+    },
+    {
+     "w": "compromise",
+     "ipa": "/ˈkɒmprəmaɪz/",
+     "pos": "n.",
+     "en": "compromise (n.) means an agreement reached by each side giving up something they want in order to end a disagreement",
+     "zh": "妥协，各让一步",
+     "ctx": "com- 共同 + promittere 承诺，双方各让一步达成的协议。但作者说美国政治 punishes compromise——惩罚妥协：谁胆敢跟对面握手、各让一步，谁就被自己人收拾、被骂“叛徒”。",
+     "ex1": "Both sides refused to compromise on the issue. 双方都拒绝在这一问题上妥协。",
+     "ex2": "After hours of talks, they finally reached a compromise. 经过数小时谈判，他们终于达成了妥协。"
+    },
+    {
+     "w": "put A above B",
+     "ipa": "/pʊt ... əˈbʌv .../",
+     "pos": "句型",
+     "en": "put A above B means to treat A as more important than B",
+     "zh": "把 A 放在 B 之上，重 A 轻 B",
+     "ctx": "A 是 getting people angry（把人搞愤怒），B 是 getting things done（把事办成）——“让人愤怒”的优先级高于“把事办成”，两个动名词短语作宾语，结构工整。",
+     "ex1": "He puts profit above everything else. 他把利润看得比什么都重。",
+     "ex2": "Good leaders put the public interest above their own. 好的领导者把公共利益置于个人利益之上。"
+    }
+   ]
+  },
+  {
+   "en_html": "Hispanic and Asian-American voters offer the best hope of <mark class=\"voc\">arresting</mark> this <mark class=\"voc\">baleful</mark> trend. They have become America’s crucial swing voters, with an <mark class=\"voc\">outsize</mark> impact on races across the country. Compared with other <mark class=\"voc\">blocs</mark>, their numbers are growing faster, their ideology is more <mark class=\"voc\">fluid</mark> and their priorities are less <mark class=\"voc\">divisive</mark>. That means they are likely to be good for America not just in these midterms, but also for many elections to come.",
+   "zh": "拉美裔和亚裔选民，是遏制这股不祥趋势的最大希望。他们已然成为美国举足轻重的摇摆选民，对全国各地的选战，有着远超其人数规模的影响力。相较其他阵营，他们的人数增长更快，立场更流动、更不固化，最关切的议题也没那么撕裂。这意味着，他们很可能成为美国的福音——不仅在此次中期选举，更在此后一场又一场的选战里。",
+   "notes": [
+    {
+     "w": "arrest",
+     "ipa": "/əˈrest/",
+     "pos": "v.",
+     "en": "arrest (v.) means to stop or check the progress or development of something",
+     "zh": "阻止，遏制，使停止",
+     "ctx": "陷阱词，跟“逮捕”无关。arrest 的核心义永远是“停”：cardiac arrest 心脏骤停、arrested development 发育停滞、arrest the decline 遏制下滑。arresting this baleful trend＝让这股趋势停下来。",
+     "ex1": "The government moved to arrest the decline in manufacturing. 政府出手遏制制造业的下滑。",
+     "ex2": "Doctors could not arrest the spread of the disease. 医生们无法阻止这种疾病的蔓延。"
+    },
+    {
+     "w": "baleful",
+     "ipa": "/ˈbeɪlfl/",
+     "pos": "adj.",
+     "en": "baleful (adj.) means threatening harm, ominous, evil",
+     "zh": "不祥的，带来灾祸的",
+     "ctx": "古英语 bealu“灾祸、邪恶”，弥尔顿《失乐园》有 baleful eyes（邪恶之眼）。不说 bad trend，偏说 baleful trend，那股“带着邪气、会招来祸事”的味道全出来了，与第 2 段的 curse 同一语域。",
+     "ex1": "The baleful influence of extremism has spread. 极端主义那有害的影响已经蔓延开来。",
+     "ex2": "The policy has had a baleful effect on the economy. 这项政策对经济产生了有害的影响。"
+    },
+    {
+     "w": "outsize",
+     "ipa": "/ˈaʊtsaɪz/",
+     "pos": "adj.",
+     "en": "outsize (adj.) means larger than normal, disproportionately great",
+     "zh": "超出常规的，不成比例地大的",
+     "ctx": "out 超出 + size 尺寸。outsize impact＝影响力超出了它的人数规模——人不多，劲儿特别大，背后是“赢者通吃 + 摇摆州”机制。",
+     "ex1": "A few states have an outsize impact on the result. 少数几个州对选举结果有不成比例的影响。",
+     "ex2": "Big donors have an outsize voice in the party. 大额捐款人在党内拥有不成比例的话语权。"
+    },
+    {
+     "w": "bloc",
+     "ipa": "/blɒk/",
+     "pos": "n.",
+     "en": "bloc (n.) means a group of countries or people with shared interests who vote together",
+     "zh": "阵营，集团",
+     "ctx": "注意是 bloc，没有 k，别写成 block（街区、块）。other blocs＝其他选民阵营（白人、黑人、其他族裔等）。",
+     "ex1": "The youth bloc could decide this election. 青年阵营可能决定这场选举的走向。",
+     "ex2": "Women now form an important voting bloc. 女性如今构成一个重要的选民阵营。"
+    },
+    {
+     "w": "fluid",
+     "ipa": "/ˈfluːɪd/",
+     "pos": "adj.",
+     "en": "fluid (adj.) means likely to change, not fixed or settled",
+     "zh": "流动的，不固定的",
+     "ctx": "水没有固定形状，倒进圆的杯子就是圆的、倒进方的就是方的。their ideology is more fluid＝意识形态没定型，与别人“已经凝固成铁板”的立场形成对比，与标题 dynamic、swing 一条线。",
+     "ex1": "The political situation remains fluid. 政治局势依然变化不定。",
+     "ex2": "The candidate’s positions remain fluid on several issues. 这位候选人在几个问题上的立场仍不固定。"
+    },
+    {
+     "w": "divisive",
+     "ipa": "/dɪˈvaɪsɪv/",
+     "pos": "adj.",
+     "en": "divisive (adj.) means causing disagreement or hostility between people",
+     "zh": "制造对立的，撕裂性的",
+     "ctx": "divide 分裂 + -ive。less divisive＝没那么撕裂：他们最关心的事，不是那种一谈起来就让人翻脸、把人劈成两半的议题——言下之意，跟他们是可以坐下来谈的。",
+     "ex1": "Immigration is a deeply divisive issue. 移民是一个极具分裂性的议题。",
+     "ex2": "The leader avoided divisive topics during the campaign. 这位领导人在竞选期间避开了撕裂性的议题。"
+    }
+   ]
+  },
+  {
+   "en_html": "No group <mark class=\"voc\">captures the potential</mark> for opening up politics as much as Hispanics and Asian-Americans. One reason is <mark class=\"voc\">demography</mark>. They are a growing <mark class=\"voc\">fraction</mark> of the population—especially Hispanics, who are three times more numerous than Asian-Americans. Since 2006 their combined share of the <mark class=\"voc\">electorate</mark> has increased by nine percentage points, to reach 21%. They are also highly <mark class=\"voc\">diverse</mark>. The grandchildren of an immigrant from Ho Chi Minh City have a different outlook from a new arrival from Bangalore. Neither fits neatly into the familiar Democrat-Republican <mark class=\"voc\">template</mark>. And they are more likely to switch their votes. In 2012 Democrats thought they <mark class=\"voc\">had a lock on</mark> Latinos and Asians. In 2024 the story was how they were becoming <mark class=\"voc\">Trumpian</mark>. It has now become clear that they were swing voters <mark class=\"voc\">all along</mark>.",
+   "zh": "没有任何一个群体，能像拉美裔和亚裔这样，牢牢抓住“让政治重新打开”的潜力。原因之一是人口——他们在总人口中的占比不断攀升，尤其是拉美裔，人数是亚裔的三倍有余。自 2006 年以来，两者合计在选民中的占比已上升 9 个百分点，达到 21%。同时，他们也极为多元：一位胡志明市移民的孙辈，与一位刚从班加罗尔落脚的新移民，对世界的看法截然不同；而这两者，谁也无法被整齐地塞进那套熟悉的“民主党—共和党”模板。此外，他们也更可能改换选票。2012 年，民主党人还笃定自己已把拉美裔和亚裔牢牢攥在手里；到了 2024 年，故事却成了他们日渐“特朗普化”；而如今，真相已然明了——他们从头到尾，就是摇摆选民。",
+   "notes": [
+    {
+     "w": "capture the potential",
+     "ipa": "/ˈkæptʃə ðə pəˈtenʃl/",
+     "pos": "动词短语",
+     "en": "capture the potential means to succeed in realising or taking hold of a possibility",
+     "zh": "抓住潜力，把潜力兑现",
+     "ctx": "capture 本义捕捉、抓拍——一个瞬间按下快门把它“捕捉”下来。作者说这群人“抓住了让政治重新打开”的潜力，是本段的“纲”。",
+     "ex1": "The company failed to capture the potential of the new market. 这家公司未能抓住新市场的潜力。",
+     "ex2": "The photograph captures the energy of the moment. 这张照片捕捉到了那一刻的活力。"
+    },
+    {
+     "w": "demography",
+     "ipa": "/dɪˈmɒɡrəfi/",
+     "pos": "n.",
+     "en": "demography (n.) means the study of populations, their size, structure and distribution",
+     "zh": "人口学，人口结构",
+     "ctx": "demo- 来自希腊语 demos“人民”（与 democracy 同源）+ -graphy 写、记。作者给出的第一个理由：人口结构。",
+     "ex1": "Demography helps explain the country’s shifting politics. 人口学有助于解释这个国家政治格局的变化。",
+     "ex2": "Rapid demographic change is reshaping many cities. 快速的人口结构变化正在重塑许多城市。"
+    },
+    {
+     "w": "fraction",
+     "ipa": "/ˈfrækʃn/",
+     "pos": "n.",
+     "en": "fraction (n.) means a small part or proportion of something",
+     "zh": "一小块，一部分",
+     "ctx": "来自拉丁语 frangere 打碎，即“被掰下来的一块”。a growing fraction of the population＝总人口中占比越来越大的一部分。",
+     "ex1": "They represent a growing fraction of the electorate. 他们在选民中的占比越来越大。",
+     "ex2": "Only a fraction of voters turned out. 只有一小部分选民出来投票。"
+    },
+    {
+     "w": "electorate",
+     "ipa": "/ɪˈlektərət/",
+     "pos": "n.",
+     "en": "the electorate (n.) means all the people who are entitled to vote in an election",
+     "zh": "全体选民",
+     "ctx": "elect 选举 + -orate 群体。their combined share of the electorate＝两者合计在全体选民中的占比。",
+     "ex1": "The candidates spent months trying to win over the electorate. 候选人们花了几个月时间争取全体选民。",
+     "ex2": "The electorate has grown younger and more diverse. 选民群体变得更年轻、更多元。"
+    },
+    {
+     "w": "diverse",
+     "ipa": "/daɪˈvɜːs/",
+     "pos": "adj.",
+     "en": "diverse (adj.) means showing a great deal of variety, very different from each other",
+     "zh": "多元的，多样的",
+     "ctx": "di- 分开 + vers 转，即“朝不同方向转开”。作者说的“多元”不是“他们跟别人不一样”，而是“他们内部自己跟自己就不一样”。",
+     "ex1": "The team is highly diverse in terms of background. 这支队伍在背景上非常多元。",
+     "ex2": "A diverse society needs flexible politics. 多元的社会需要灵活的政治。"
+    },
+    {
+     "w": "template",
+     "ipa": "/ˈtempleɪt/",
+     "pos": "n.",
+     "en": "template (n.) means a pattern or model used as a guide for making things",
+     "zh": "模板，模子；固定的分类框架",
+     "ctx": "工厂里那个固定的模子，东西倒进去出来一个固定形状。the Democrat-Republican template＝非黑即白的党派分类框；fits neatly into 即“整整齐齐套进去”，这两人塞不进这个框。",
+     "ex1": "The report can serve as a template for future work. 这份报告可以作为今后工作的模板。",
+     "ex2": "These voters don’t fit into any simple template. 这些选民套不进任何简单的模板。"
+    },
+    {
+     "w": "have a lock on",
+     "ipa": "/hæv ə lɒk ɒn/",
+     "pos": "动词短语",
+     "en": "have a lock on something means to have complete control of something, to be sure of winning it",
+     "zh": "牢牢掌控，稳拿",
+     "ctx": "给某样东西上把锁。特别口语化的政治表达：2012 年民主党以为拉美裔和亚裔“锁死了、稳了、铁定投我们”，结果大错特错。",
+     "ex1": "The team seems to have a lock on the championship. 这支队伍似乎已经锁定了冠军。",
+     "ex2": "The party once thought it had a lock on the youth vote. 该党一度以为自己稳拿青年选票。"
+    },
+    {
+     "w": "Trumpian",
+     "ipa": "/ˈtrʌmpiən/",
+     "pos": "adj.",
+     "en": "Trumpian (adj.) means in the style of or characteristic of Donald Trump",
+     "zh": "特朗普式的，特朗普化的",
+     "ctx": "人名 + -ian 构成形容词，如 Orwellian 奥威尔式的、Shakespearean 莎士比亚式的——把一个“人”变成一种“风格”。they were becoming Trumpian＝他们正变得民粹、反建制、语不惊人死不休。",
+     "ex1": "The speech had a distinctly Trumpian tone. 那篇演讲带着明显的特朗普腔。",
+     "ex2": "His opponents called the policy dangerously Trumpian. 他的对手称这项政策是危险的特朗普式的。"
+    },
+    {
+     "w": "all along",
+     "ipa": "/ɔːl əˈlɒŋ/",
+     "pos": "adv.",
+     "en": "all along means from the very beginning, the whole time",
+     "zh": "一直，从头到尾",
+     "ctx": "全文情绪最猛的一句：他们不是“变心了”，是“本来就没固定过”。all along 把“从头到尾”这个真相狠狠砸在脸上——不是你今天才发现他们摇摆，是你今天才肯承认。",
+     "ex1": "I knew it all along. 我打一开始就知道。",
+     "ex2": "He had been right all along. 他一直都是对的。"
+    }
+   ]
+  },
+  {
+   "en_html": "White voters changed little between 2020 and 2024, while both Latinos and Asians <mark class=\"voc\">lurched</mark> hard to the right. They were then the fastest to turn against Mr Trump in early 2025. The <mark class=\"voc\">margin of support</mark> for Democrats has risen by 17 points among Latinos and 14 among Asians since 2024, compared with ten for whites and five for black voters.",
+   "zh": "从 2020 到 2024 年，白人选民几乎纹丝未动，拉美裔和亚裔却猛地向右栽去。而到了 2025 年初，他们又成了全美最快掉头、转而反对特朗普的群体。自 2024 年以来，民主党在拉美裔中的支持优势上升了 17 个点，在亚裔中上升了 14 个点；相形之下，白人仅上升 10 个点，黑人选民更是只有 5 个点。",
+   "notes": [
+    {
+     "w": "lurch",
+     "ipa": "/lɜːtʃ/",
+     "pos": "v.",
+     "en": "lurch (v.) means to move suddenly and unsteadily, especially to one side, to stagger",
+     "zh": "猛地栽向一边，踉跄",
+     "ctx": "1784 年才进英语的航海词：大浪里船突然往一边猛地一歪。lurch 跟 swing 完全不是一回事：swing 是秋千来回荡（荡过去还能荡回来），lurch 是栽（幅度大、猛、突然，甚至带“要翻车”的危险感）。lurched hard to the right＝狠狠地向右栽了过去。",
+     "ex1": "The car lurched to one side. 汽车猛地向一侧倾斜。",
+     "ex2": "The economy lurched from one crisis to another. 经济从一个危机踉跄跌入另一个危机。"
+    },
+    {
+     "w": "margin of support",
+     "ipa": "/ˈmɑːdʒɪn əv səˈpɔːt/",
+     "pos": "n.",
+     "en": "margin of support means the difference between the level of support for one side and the other, the lead",
+     "zh": "支持优势，领先幅度",
+     "ctx": "margin 本义边缘、页边空白，引申为“两个数之间的差”。数据新闻最容易搞混的词：margin 不是“支持率本身”，而是“支持民主党的比支持共和党的多多少”——那个领先的差额。",
+     "ex1": "The party won by a narrow margin. 该党以微弱优势获胜。",
+     "ex2": "The poll shows a razor-thin margin of support for the president. 民调显示总统的支持优势微乎其微。"
+    }
+   ]
+  }
+ ]
+}

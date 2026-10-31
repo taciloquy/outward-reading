@@ -1,0 +1,803 @@
+{
+ "date": "2026-10-23",
+ "title_tag": "让20万个AI去接诈骗电话：终于有人把AI用在了“正地方”—— 早安英文 MORNING ENGLISH 20261023",
+ "h1": "让20万个AI去接诈骗电话：终于有人把AI用在了“正地方”",
+ "source_label": "Morning English",
+ "category": "早安英文 MORNING ENGLISH 20261023",
+ "read_minutes": 18,
+ "nav_hint": "How a Sydney professor built an AI army to scam the scammers",
+ "headline": {
+  "en_html": "How a Sydney professor built an AI army to <mark class=\"voc\">scam</mark> the scammers",
+  "zh": "悉尼教授如何打造一支 AI 大军，反过来戏耍诈骗犯",
+  "notes": [
+   {
+    "w": "scam",
+    "ipa": "/skæm/",
+    "pos": "v.",
+    "en": "to trick someone into giving you money or information through dishonest or illegal methods",
+    "zh": "诈骗，欺骗，骗取钱财或信息",
+    "ctx": "标题里的 scam the scammers 是反讽：用 AI 反过来骗骗子，让骗子成了被算计的一方。",
+    "ex1": "The criminals tried to scam elderly residents by pretending to work for a major bank. 犯罪分子假冒大型银行工作人员，企图诈骗老年居民。",
+    "ex2": "She realized someone was trying to scam her when the caller demanded her banking password. 当来电者索要银行密码时，她意识到有人正试图诈骗她。"
+   }
+  ]
+ },
+ "paragraphs": [
+  {
+   "en_html": "The day that Dali Kaafar decided to start a company that <mark class=\"voc\">unleashes</mark> an <mark class=\"voc\">autonomous</mark> army of AI bots to <mark class=\"voc\">take on</mark> the <mark class=\"voc\">trillion-dollar</mark> global scam industry began like any other. It was a warm Saturday afternoon in spring. The Macquarie University professor of <mark class=\"voc\">cybersecurity</mark> was enjoying a picnic with his wife and two children at a Sydney park. At some point, his mobile rang. Kaafar could tell from the number that it was a scam call, and while he usually ignored them, on this particular day, Kaafar decided to have some fun with the <mark class=\"voc\">fraudsters</mark>. He picked up the call.",
+   "zh": "达利·卡法尔决定创办一家公司的那一天，起初与平常的日子并无两样。而这家公司将释放出一支能够自主行动的AI机器人大军，向规模高达万亿美元的全球诈骗产业发起挑战。那是春天一个温暖的星期六下午。这位麦考瑞大学的网络安全教授正和妻子及两个孩子在悉尼的一座公园里野餐。就在这时，他的手机响了。卡法尔一看号码就知道这是一通诈骗电话。虽然他平时总是直接忽略这类电话，但偏偏在这一天，他决定拿这些骗子找点乐子。于是，他接起了电话。",
+   "notes": [
+    {
+     "w": "unleash",
+     "ipa": "/ʌnˈliːʃ/",
+     "pos": "v.",
+     "en": "to suddenly release a powerful force, emotion or action",
+     "zh": "释放，发动，使爆发",
+     "ctx": "指放出一支能自主行动的 AI 机器人大军，把技术直接投到反诈一线。",
+     "ex1": "The announcement unleashed a wave of criticism across the country. 这项声明在全国引发了一波批评浪潮。",
+     "ex2": "The new technology could unleash enormous economic potential. 这项新技术可能释放巨大的经济潜力。"
+    },
+    {
+     "w": "autonomous",
+     "ipa": "/ɔːˈtɒnəməs/",
+     "pos": "adj.",
+     "en": "able to operate or make decisions independently without direct human control",
+     "zh": "自主的，自治的，独立运作的",
+     "ctx": "指机器人能自己跟骗子周旋，不必由人一步步操控。",
+     "ex1": "Autonomous vehicles could transform the way people travel in the future. 自动驾驶汽车可能改变未来人们的出行方式。",
+     "ex2": "The research team developed an autonomous system capable of identifying security threats. 研究团队开发了一套能够自主识别安全威胁的系统。"
+    },
+    {
+     "w": "take on",
+     "ipa": "/teɪk ɒn/",
+     "pos": "phr. v.",
+     "en": "to challenge, compete against or confront someone or something",
+     "zh": "挑战，对抗，与……较量",
+     "ctx": "指这支 AI 大军向万亿美元规模的全球诈骗产业正面叫板。",
+     "ex1": "The small technology company is preparing to take on some of the industry's biggest competitors. 这家小型科技公司正准备挑战行业内的一些最大竞争对手。",
+     "ex2": "Few politicians were willing to take on such a powerful organization. 很少有政治人物愿意挑战如此强大的组织。"
+    },
+    {
+     "w": "trillion-dollar",
+     "ipa": "/ˈtrɪljən ˈdɒlə(r)/",
+     "pos": "adj.",
+     "en": "involving, costing or having a value of one trillion dollars or more",
+     "zh": "万亿美元规模的，价值万亿美元的",
+     "ctx": "用来强调全球诈骗产业牵动的资金体量之巨。",
+     "ex1": "The global healthcare sector has grown into a trillion-dollar industry. 全球医疗保健行业已经发展成为一个万亿美元规模的产业。",
+     "ex2": "The report examines the economic consequences of the trillion-dollar technology market. 这份报告研究了万亿美元规模科技市场带来的经济影响。"
+    },
+    {
+     "w": "cybersecurity",
+     "ipa": "/ˌsaɪbə sɪˈkjʊərəti/",
+     "pos": "n.",
+     "en": "the practice of protecting computers, networks and digital information from attacks or unauthorized access",
+     "zh": "网络安全，信息安全",
+     "ctx": "卡法尔的老本行，也是这套反诈技术的知识底子。",
+     "ex1": "Many companies are increasing their investment in cybersecurity to protect customer information. 许多公司正在增加网络安全投资，以保护客户信息。",
+     "ex2": "Cybersecurity has become a major concern for governments and financial institutions. 网络安全已经成为政府和金融机构高度关注的问题。"
+    },
+    {
+     "w": "fraudster",
+     "ipa": "/ˈfrɔːdstə(r)/",
+     "pos": "n.",
+     "en": "a person who deliberately deceives others in order to obtain money or personal benefits",
+     "zh": "诈骗犯，骗子，欺诈者",
+     "ctx": "指在电话里编造话术、想套走受害者信息或钱财的骗子。",
+     "ex1": "The fraudster pretended to represent a well-known charity to gain people's trust. 这名诈骗犯假冒知名慈善机构的代表，以获取人们的信任。",
+     "ex2": "Police warned residents that fraudsters were increasingly using artificial intelligence to imitate familiar voices. 警方警告居民，诈骗犯正越来越多地利用人工智能模仿熟人的声音。"
+    }
+   ]
+  },
+  {
+   "en_html": "“The kids were a few years younger then, and for their entertainment, I pretended not to understand what the scammers <mark class=\"voc\">were after</mark>, or I would give them the wrong details,” he says. The scammers persisted, insisting that there was something wrong with Kaafar’s internet and they needed <mark class=\"voc\">remote access</mark> to his computer. Kaafar <mark class=\"voc\">feigned</mark> <mark class=\"voc\">incomprehension</mark> when they spoke about his <mark class=\"voc\">tepid</mark> upload and download speeds. He <mark class=\"voc\">distracted</mark> and <mark class=\"voc\">delayed</mark> them: what was this NBN they spoke of? “At one point, I think I was even trying to order a pizza,” he says.",
+   "zh": "“那时候孩子们还小几岁，为了逗他们开心，我就假装听不懂骗子到底想要什么，或者故意提供错误的信息。”他说。骗子们却不依不饶，坚持声称卡法尔的网络出了问题，他们需要远程访问他的电脑。当骗子提到他的上传和下载速度不太理想时，卡法尔又假装完全听不懂。他不断转移对方的注意力，拖延时间：他们说的这个NBN到底是什么东西？“有那么一会儿，我记得自己甚至还试着点了一份披萨。”他说。",
+   "notes": [
+    {
+     "w": "be after",
+     "ipa": "/bi ˈɑːftə(r)/",
+     "pos": "phr.",
+     "en": "to be trying to obtain, achieve or find something",
+     "zh": "想得到，企图获得，追求",
+     "ctx": "指骗子真正想从卡法尔那里套到的东西——信息、权限或好处。",
+     "ex1": "The journalist suspected that the anonymous caller was after confidential information. 记者怀疑那名匿名来电者想获取机密信息。",
+     "ex2": "It soon became clear that the thieves were after the valuable paintings rather than cash. 很快人们就发现，窃贼想要的是珍贵画作，而不是现金。"
+    },
+    {
+     "w": "remote access",
+     "ipa": "/rɪˈməʊt ˈækses/",
+     "pos": "n.",
+     "en": "the ability to connect to and control a computer or system from another location",
+     "zh": "远程访问，远程控制权限",
+     "ctx": "骗子想拿到卡法尔电脑的远程控制权，好接着往下骗。",
+     "ex1": "Employees were given secure remote access to company files while working from home. 员工居家办公期间获得了安全访问公司文件的远程权限。",
+     "ex2": "Security experts advise users never to grant remote access to unknown callers. 安全专家建议用户绝不要向陌生来电者授予远程访问权限。"
+    },
+    {
+     "w": "feign",
+     "ipa": "/feɪn/",
+     "pos": "v.",
+     "en": "to pretend to have a particular feeling, reaction or condition in order to deceive someone",
+     "zh": "假装，佯装，装出",
+     "ctx": "卡法尔故意装出完全听不懂骗子那套网络说辞的样子。",
+     "ex1": "The suspect feigned surprise when investigators presented the evidence. 调查人员出示证据时，嫌疑人假装十分惊讶。",
+     "ex2": "She feigned enthusiasm for the proposal although she strongly disagreed with it. 尽管她非常反对这个提议，却还是装出一副热情的样子。"
+    },
+    {
+     "w": "incomprehension",
+     "ipa": "/ˌɪnkɒmprɪˈhenʃn/",
+     "pos": "n.",
+     "en": "a state of being unable to understand something",
+     "zh": "不理解，困惑，茫然",
+     "ctx": "卡法尔摆出一副对网络术语一窍不通的样子，逼骗子一遍遍解释。",
+     "ex1": "The complicated legal explanation was met with complete incomprehension by the audience. 这段复杂的法律解释让听众完全摸不着头脑。",
+     "ex2": "He stared at the unfamiliar instructions in obvious incomprehension. 他望着陌生的操作说明，脸上明显写满了困惑。"
+    },
+    {
+     "w": "tepid",
+     "ipa": "/ˈtepɪd/",
+     "pos": "adj.",
+     "en": "slightly warm or lacking strength, enthusiasm or intensity",
+     "zh": "微温的，不冷不热的，平淡的，不够理想的",
+     "ctx": "本义“不冷不热”，这里形容网速平平、不快不慢。",
+     "ex1": "The government's latest economic proposal received a tepid response from investors. 政府最新的经济提案只得到了投资者冷淡的回应。",
+     "ex2": "The restaurant received tepid reviews despite its expensive renovation. 尽管餐厅花费巨资翻新，得到的评价却依然平平。"
+    },
+    {
+     "w": "distract",
+     "ipa": "/dɪˈstrækt/",
+     "pos": "v.",
+     "en": "to take someone's attention away from what they are trying to do or concentrate on",
+     "zh": "分散注意力，使分心，转移注意力",
+     "ctx": "卡法尔靠装傻、乱提问、故意跑题来分散骗子的注意力。",
+     "ex1": "Constant phone notifications can distract students from their studies. 不断弹出的手机通知会分散学生学习时的注意力。",
+     "ex2": "The unexpected question distracted the speaker from his prepared presentation. 这个意想不到的问题打乱了演讲者原本准备好的发言。"
+    },
+    {
+     "w": "delay",
+     "ipa": "/dɪˈleɪ/",
+     "pos": "v.",
+     "en": "to make something happen later than planned or to cause someone to wait",
+     "zh": "拖延，延迟，使耽搁",
+     "ctx": "卡法尔故意拖长通话，让骗子没法痛快推进诈骗流程。",
+     "ex1": "Technical difficulties delayed the launch of the new satellite by several hours. 技术故障使新卫星的发射推迟了几个小时。",
+     "ex2": "The lawyer deliberately delayed the meeting to give her team more time to prepare. 律师故意推迟会议，以便让团队有更多准备时间。"
+    }
+   ]
+  },
+  {
+   "en_html": "“As I <mark class=\"voc\">hung up</mark> that call I remember very clearly saying, ‘this was all great fun, but imagine what technology can do with these scammers <mark class=\"voc\">at scale</mark>’,” he says. While his children were <mark class=\"voc\">in hysterics</mark>, his wife was less <mark class=\"voc\">impressed</mark>. “My wife said, ‘those are 44 minutes of your own life that you will never get back. You ruined the whole picnic experience.’ I said, ‘That’s even more reason for technology to <mark class=\"voc\">jump in</mark> to do it better’.”",
+   "zh": "“挂断电话的时候，我清楚地记得自己说过，‘刚才确实很好玩，但想象一下，如果利用技术大规模地对付这些骗子，会发生什么？’”他说。孩子们已经笑得前仰后合，但他的妻子却没那么高兴。“我妻子说，‘那可是你人生中永远也拿不回来的44分钟。你把整个野餐都毁了。’我说，‘那就更说明应该让技术介入，把这件事做得更好。’”",
+   "notes": [
+    {
+     "w": "hang up",
+     "ipa": "/hæŋ ʌp/",
+     "pos": "phr. v.",
+     "en": "to end a telephone conversation by disconnecting the call",
+     "zh": "挂断电话，结束通话",
+     "ctx": "卡法尔挂断了那通跟骗子聊了 44 分钟的电话。",
+     "ex1": "The caller suddenly hung up when she asked for his identification number. 当她要求对方提供身份证明号码时，来电者突然挂断了电话。",
+     "ex2": "He hung up the phone and immediately contacted his bank to report the suspicious call. 他挂断电话后立即联系银行，报告了这通可疑来电。"
+    },
+    {
+     "w": "at scale",
+     "ipa": "/ət skeɪl/",
+     "pos": "phr.",
+     "en": "on a large scale or in a way that can operate effectively across many people, systems or situations",
+     "zh": "大规模地，规模化地",
+     "ctx": "卡法尔开始琢磨用技术批量对付骗子，而不是自己一通一通接。",
+     "ex1": "Artificial intelligence allows companies to analyze enormous amounts of information at scale. 人工智能使企业能够大规模分析海量信息。",
+     "ex2": "The challenge is not simply to develop the technology but to make it work reliably at scale. 挑战不仅在于开发技术，更在于让它能够大规模可靠运行。"
+    },
+    {
+     "w": "in hysterics",
+     "ipa": "/ɪn hɪˈsterɪks/",
+     "pos": "phr.",
+     "en": "laughing uncontrollably or experiencing extremely strong emotions",
+     "zh": "狂笑不止，笑得无法控制，情绪极度激动",
+     "ctx": "孩子们听父亲戏弄骗子，笑得停不下来。",
+     "ex1": "The comedian's unexpected imitation had the entire audience in hysterics. 喜剧演员出人意料的模仿让全场观众笑得前仰后合。",
+     "ex2": "The children were in hysterics when their father accidentally wore two different shoes. 父亲不小心穿了两只不同的鞋子，孩子们笑得停不下来。"
+    },
+    {
+     "w": "impressed",
+     "ipa": "/ɪmˈprest/",
+     "pos": "adj.",
+     "en": "feeling admiration or approval because something seems good, interesting or skillful",
+     "zh": "印象深刻的，赞赏的，佩服的",
+     "ctx": "与笑翻的孩子们相反，妻子并不买账他那 44 分钟的“表演”。",
+     "ex1": "The interviewers were impressed by her ability to explain complex ideas clearly. 面试官对她清晰解释复杂概念的能力印象深刻。",
+     "ex2": "His parents were not particularly impressed when he announced that he had quit his job without a plan. 当他宣布自己毫无计划地辞掉工作时，父母并没有感到多么高兴。"
+    },
+    {
+     "w": "jump in",
+     "ipa": "/dʒʌmp ɪn/",
+     "pos": "phr. v.",
+     "en": "to become involved in a situation quickly, especially to help, interrupt or take action",
+     "zh": "迅速介入，参与进来，插手",
+     "ctx": "卡法尔认为该让技术插进来，替人去跟骗子周旋。",
+     "ex1": "When the discussion became heated, the moderator jumped in to restore order. 讨论变得激烈时，主持人立即介入，恢复秩序。",
+     "ex2": "Several volunteers jumped in to help the organizers prepare for the charity event. 几名志愿者主动加入，帮助组织者筹备慈善活动。"
+    }
+   ]
+  },
+  {
+   "en_html": "The following Monday, Kaafar called together a <mark class=\"voc\">cohort</mark> of PhD students and a <mark class=\"voc\">postdoctoral</mark> researcher with <mark class=\"voc\">expertise</mark> in AI security and <mark class=\"voc\">natural-language processing</mark>. They would build voice bots to <mark class=\"voc\">ape</mark> the tech insecurities of the average caller: <mark class=\"voc\">umm-ing and ahh-ing</mark> their way through conversations with scammers and apologising for not being very good with technology or computers. “But then we all immediately realised that by keeping the scammers on the line we can also <mark class=\"voc\">extract</mark> and deliver this <mark class=\"voc\">real-time</mark> intelligence, <mark class=\"voc\">actionable</mark> intelligence, to <mark class=\"voc\">stay on top of</mark> what scammers are doing.” In 2024, Kaafar founded Apate.ai, named after the Greek goddess of <mark class=\"voc\">deception</mark> and fraud.",
+   "zh": "接下来的星期一，卡法尔召集了一批博士生和一名博士后研究人员，他们都拥有人工智能安全和自然语言处理方面的专业知识。他们计划开发语音机器人，模仿普通人在面对科技问题时那种不自信的样子：与骗子交谈时不停地“嗯……啊……”，吞吞吐吐，还会为自己不太懂技术或电脑而道歉。“但随后我们立刻意识到，只要让诈骗犯一直保持通话，我们就能从中提取并提供实时情报，而且是能够直接采取行动的情报，从而及时掌握诈骗犯的最新动向。”2024年，卡法尔创立了Apate.ai，公司以希腊神话中掌管欺骗与诈骗的女神阿帕忒命名。",
+   "notes": [
+    {
+     "w": "cohort",
+     "ipa": "/ˈkəʊhɔːt/",
+     "pos": "n.",
+     "en": "a group of people who share a particular characteristic, experience or period of study",
+     "zh": "一群人，一批人，同期群体",
+     "ctx": "卡法尔召来的那批有相关背景的博士生。",
+     "ex1": "A new cohort of medical students began their clinical training this autumn. 新一批医学生今年秋天开始了临床培训。",
+     "ex2": "Researchers followed a cohort of university graduates for ten years to study their career development. 研究人员对一批大学毕业生进行了十年的追踪，以研究他们的职业发展。"
+    },
+    {
+     "w": "postdoctoral",
+     "ipa": "/ˌpəʊstˈdɒktərəl/",
+     "pos": "adj.",
+     "en": "relating to advanced research or academic work undertaken after completing a doctoral degree",
+     "zh": "博士后的，博士学位取得后的",
+     "ctx": "指加入卡法尔项目的那位博士后研究员。",
+     "ex1": "She accepted a postdoctoral research position at a leading university in Switzerland. 她接受了瑞士一所顶尖大学的博士后研究职位。",
+     "ex2": "The laboratory provides postdoctoral researchers with opportunities to work on international projects. 这间实验室为博士后研究人员提供参与国际项目的机会。"
+    },
+    {
+     "w": "expertise",
+     "ipa": "/ˌekspɜːˈtiːz/",
+     "pos": "n.",
+     "en": "specialized knowledge, skills or experience in a particular field",
+     "zh": "专业知识，专业技能，专长",
+     "ctx": "指团队在 AI 安全与自然语言处理上的专业本事。",
+     "ex1": "The company hired an engineer with extensive expertise in renewable energy systems. 公司聘请了一位在可再生能源系统方面拥有丰富专业知识的工程师。",
+     "ex2": "Her expertise in international law made her an important member of the negotiating team. 她在国际法方面的专业知识使她成为谈判团队的重要成员。"
+    },
+    {
+     "w": "natural-language processing",
+     "ipa": "/ˌnætʃrəl ˈlæŋɡwɪdʒ ˈprəʊsesɪŋ/",
+     "pos": "n.",
+     "en": "a field of artificial intelligence that enables computers to understand, interpret and generate human language",
+     "zh": "自然语言处理",
+     "ctx": "让机器人听懂骗子的话、再像真人一样回话的关键技术。",
+     "ex1": "Natural-language processing allows digital assistants to respond to spoken questions. 自然语言处理使数字助手能够回应人们口头提出的问题。",
+     "ex2": "The researchers used natural-language processing to analyze thousands of customer complaints. 研究人员利用自然语言处理技术分析了数千条客户投诉。"
+    },
+    {
+     "w": "ape",
+     "ipa": "/eɪp/",
+     "pos": "v.",
+     "en": "to imitate someone's behaviour, appearance or manner of speaking, sometimes in an exaggerated way",
+     "zh": "模仿，学……的样子",
+     "ctx": "机器人模仿普通人不懂技术、说话发虚的样子。",
+     "ex1": "The young comedian loved to ape the distinctive voices of famous politicians. 这位年轻喜剧演员喜欢模仿著名政治人物独特的声音。",
+     "ex2": "Some new companies simply ape the strategies of successful competitors instead of developing original ideas. 一些新公司只是模仿成功竞争对手的策略，而不去发展原创想法。"
+    },
+    {
+     "w": "umm-ing and ahh-ing",
+     "ipa": "/ˈʌmɪŋ ənd ˈɑːɪŋ/",
+     "pos": "phr.",
+     "en": "making hesitation sounds such as “um” and “ah” while speaking, often because of uncertainty or difficulty deciding what to say",
+     "zh": "嗯嗯啊啊，吞吞吐吐，犹豫不决地说话",
+     "ctx": "机器人故意“嗯嗯啊啊”地吞吞吐吐，让骗子相信对面是真人。",
+     "ex1": "He spent several minutes umm-ing and ahh-ing before finally answering the difficult question. 面对这个难题，他吞吞吐吐了好几分钟才终于作答。",
+     "ex2": "Instead of umm-ing and ahh-ing during the interview, she gave a clear and confident response. 面试时，她没有吞吞吐吐，而是给出了清晰自信的回答。"
+    },
+    {
+     "w": "extract",
+     "ipa": "/ɪkˈstrækt/",
+     "pos": "v.",
+     "en": "to obtain or remove something from a larger source, especially information or useful material",
+     "zh": "提取，获取，抽取",
+     "ctx": "机器人从通话里把有价值的诈骗情报一点点抠出来。",
+     "ex1": "The software can extract useful information from thousands of documents within seconds. 这款软件能够在几秒钟内从数千份文件中提取有用信息。",
+     "ex2": "Investigators managed to extract important clues from the suspect's recorded conversations. 调查人员成功从嫌疑人的通话录音中提取了重要线索。"
+    },
+    {
+     "w": "real-time",
+     "ipa": "/ˈrɪəl taɪm/",
+     "pos": "adj.",
+     "en": "providing information or responding to events immediately as they happen",
+     "zh": "实时的，即时的",
+     "ctx": "机器人在通话当下就把情报即时收集、即时送出。",
+     "ex1": "The application provides real-time updates on traffic conditions across the city. 这款应用提供全市交通状况的实时更新。",
+     "ex2": "Doctors used real-time monitoring technology to track the patient's heart rate. 医生利用实时监测技术追踪患者的心率。"
+    },
+    {
+     "w": "actionable",
+     "ipa": "/ˈækʃənəbl/",
+     "pos": "adj.",
+     "en": "providing information that can be used to take practical and effective action",
+     "zh": "可付诸行动的，可操作的，能够直接采取措施的",
+     "ctx": "指收集来的不是泛泛信息，而是能让执法机构直接动手的情报。",
+     "ex1": "The security report provided actionable recommendations for preventing future cyberattacks. 这份安全报告提出了能够付诸实施的建议，以防止未来的网络攻击。",
+     "ex2": "Businesses need actionable insights rather than enormous amounts of unorganized data. 企业需要的是可付诸行动的洞察，而不是海量杂乱无章的数据。"
+    },
+    {
+     "w": "stay on top of",
+     "ipa": "/steɪ ɒn tɒp əv/",
+     "pos": "phr.",
+     "en": "to remain informed about or in control of a situation by paying continuous attention to it",
+     "zh": "及时掌握，持续了解，控制住局面",
+     "ctx": "指始终跟住骗子的新手法，不在反诈的赛跑里落后。",
+     "ex1": "Financial analysts must stay on top of changes in global markets. 金融分析师必须及时掌握全球市场的变化。",
+     "ex2": "She uses a digital calendar to stay on top of her deadlines and daily responsibilities. 她使用电子日历来及时掌握各项截止日期和日常任务。"
+    },
+    {
+     "w": "deception",
+     "ipa": "/dɪˈsepʃn/",
+     "pos": "n.",
+     "en": "the act of deliberately making someone believe something that is not true",
+     "zh": "欺骗，蒙骗，骗局",
+     "ctx": "希腊神话中阿帕忒所掌的欺瞒，也是公司名字的由来。",
+     "ex1": "The investigation uncovered an elaborate scheme of deception involving several senior executives. 调查揭露了一起涉及多名高级管理人员的精心策划的欺骗计划。",
+     "ex2": "Online deception has become increasingly difficult to detect as artificial intelligence improves. 随着人工智能技术的发展，网络欺骗变得越来越难以识别。"
+    }
+   ]
+  },
+  {
+   "en_html": "Apate.ai <mark class=\"voc\">deploys</mark> thousands of digital <mark class=\"voc\">decoy</mark> <mark class=\"voc\">identities</mark> across phone, email, messaging apps and social platforms, designed to be discovered directly by scammers searching for victims. “We are <mark class=\"voc\">flipping the script</mark> on the economics of fraud by <mark class=\"voc\">beating <mark class=\"voc\">these bad actors</mark> at their own game</mark>.”",
+   "zh": "Apate.ai在电话、电子邮件、即时通讯应用和社交平台上部署了数以千计的数字诱饵身份。这些虚拟身份经过专门设计，就是为了让正在寻找受害者的诈骗犯主动发现它们。“我们正在通过以其人之道还治其人之身的方式，彻底扭转诈骗行业的经济逻辑。”",
+   "notes": [
+    {
+     "w": "deploy",
+     "ipa": "/dɪˈplɔɪ/",
+     "pos": "v.",
+     "en": "to position or put people, equipment or resources into use for a particular purpose",
+     "zh": "部署，调配，投入使用",
+     "ctx": "Apate.ai 把大量虚拟身份铺到各个通信平台上，主动招骗子来上钩。",
+     "ex1": "The government deployed additional rescue teams to areas affected by the earthquake. 政府向地震灾区增派了救援队伍。",
+     "ex2": "The company deployed a new artificial intelligence system to detect suspicious financial transactions. 公司部署了一套新的人工智能系统，用于识别可疑金融交易。"
+    },
+    {
+     "w": "decoy",
+     "ipa": "/ˈdiːkɔɪ/",
+     "pos": "n.",
+     "en": "a person or object used to attract attention and trick someone into approaching or following it",
+     "zh": "诱饵，诱骗目标，诱敌之物",
+     "ctx": "这些 AI 虚拟身份是诱饵，让骗子以为撞上了一个好骗的人。",
+     "ex1": "Police used a decoy vehicle to identify criminals targeting parked cars. 警方使用一辆诱饵车辆来识别专门盗窃停放汽车的犯罪分子。",
+     "ex2": "The cybersecurity team created a decoy website to observe how hackers attempted to steal information. 网络安全团队建立了一个诱饵网站，以观察黑客如何试图窃取信息。"
+    },
+    {
+     "w": "identity",
+     "ipa": "/aɪˈdentəti/",
+     "pos": "n.",
+     "en": "the characteristics, details or information that distinguish a person from others",
+     "zh": "身份，身份信息，个人特征",
+     "ctx": "指机器人在网络与通信平台上顶着的那套虚拟人物身份。",
+     "ex1": "The platform introduced stricter procedures to verify users' identities. 该平台推出了更严格的程序来核实用户身份。",
+     "ex2": "Investigators discovered that the suspect had been operating under several false identities. 调查人员发现，嫌疑人一直使用多个虚假身份活动。"
+    },
+    {
+     "w": "flip the script",
+     "ipa": "/flɪp ðə skrɪpt/",
+     "pos": "phr.",
+     "en": "to completely reverse the usual situation, roles or expectations",
+     "zh": "扭转局面，反转剧本，颠覆原有模式",
+     "ctx": "原本是骗子骗人，如今换成 AI 主动去骗骗子，角色彻底颠倒。",
+     "ex1": "The young entrepreneur flipped the script by turning an industry problem into a profitable business opportunity. 这位年轻创业者扭转了局面，把行业难题变成了盈利的商业机会。",
+     "ex2": "Instead of waiting for employers to contact her, she flipped the script and approached companies directly. 她不再等待雇主联系自己，而是反过来主动接洽企业。"
+    },
+    {
+     "w": "beat someone at their own game",
+     "ipa": "/biːt ˈsʌmwʌn ət ðeə(r) əʊn ɡeɪm/",
+     "pos": "phr.",
+     "en": "to defeat someone by using the same methods or skills that they normally use successfully",
+     "zh": "以其人之道还治其人之身，用对方擅长的方法击败对方",
+     "ctx": "用骗子最擅长的欺骗与伪装，反过来收拾骗子。",
+     "ex1": "The small retailer beat its larger competitors at their own game by offering faster delivery and better service. 这家小零售商通过更快的配送和更好的服务，在竞争对手擅长的领域击败了他们。",
+     "ex2": "The detective beat the criminals at their own game by creating an elaborate false identity. 侦探通过精心设计的虚假身份，以其人之道还治其人之身，成功制服了犯罪分子。"
+    },
+    {
+     "w": "bad actor",
+     "ipa": "/ˌbæd ˈæktə(r)/",
+     "pos": "n.",
+     "en": "a person or organization that deliberately engages in harmful, dishonest or illegal activities",
+     "zh": "恶意行为者，不法分子，作恶者",
+     "ctx": "指靠行骗牟利的骗子及其背后的犯罪组织。",
+     "ex1": "Social media platforms are under pressure to prevent bad actors from spreading fraudulent advertisements. 社交媒体平台正面临压力，需要阻止恶意行为者传播欺诈广告。",
+     "ex2": "Stronger verification systems can make it harder for bad actors to exploit online services. 更严格的身份验证系统可以增加不法分子滥用在线服务的难度。"
+    }
+   ]
+  },
+  {
+   "en_html": "Crucial to the success of the <mark class=\"voc\">fleet</mark> of Apate.ai bots is their <mark class=\"voc\">believability</mark>: whether texting or talking, Apate.ai agents must <mark class=\"voc\">resemble</mark> an actual person – rather than a <mark class=\"voc\">minutely</mark> programmed chatbot – to keep scammers on the line. The agents have phone numbers and WhatsApp accounts; they have personalities, PayIDs and <mark class=\"voc\">pet peeves</mark>. Some have distinctive accents; others employ broad Australian <mark class=\"voc\">slang</mark> (“no worries”, they may say or “let me just get a <mark class=\"voc\">cuppa</mark>”). “We used to give them cute names, like Ricky and Pete, and we each had our favourite. But as we evolved to more than 200,000 bots, now they just have ID numbers,” says Kaafar.",
+   "zh": "Apate.ai机器人大军能否成功，关键就在于它们是否足够逼真：无论是发短信还是打电话，这些AI智能体都必须像真正的人一样，而不是那种每一步都经过精细编程的聊天机器人，才能让诈骗犯一直保持通话。这些智能体拥有电话号码和WhatsApp账号；它们有各自的性格、PayID支付标识，甚至还有各自特别讨厌的小事。有些机器人带着鲜明的口音，另一些则会使用非常地道的澳大利亚俚语，比如说“没事儿”，或者“让我先去喝杯茶”。“以前我们还会给它们起一些可爱的名字，比如Ricky和Pete，每个人都有自己最喜欢的机器人。但随着机器人数量增长到20多万个，现在它们只有编号了。”卡法尔说。",
+   "notes": [
+    {
+     "w": "fleet",
+     "ipa": "/fliːt/",
+     "pos": "n.",
+     "en": "a large group of vehicles, ships or other units operating together under one organization",
+     "zh": "舰队，车队，大规模协同运作的队伍",
+     "ctx": "指这支由大量 AI 机器人组成、能协同作战的数字化大军。",
+     "ex1": "The delivery company expanded its fleet of electric vehicles to reduce emissions. 这家配送公司扩大了电动车队规模，以减少排放。",
+     "ex2": "The research institute operates a fleet of underwater robots to explore the ocean floor. 这家研究机构运营着一支水下机器人队伍，用于探索海底。"
+    },
+    {
+     "w": "believability",
+     "ipa": "/bɪˌliːvəˈbɪləti/",
+     "pos": "n.",
+     "en": "the quality of seeming realistic, convincing or likely to be true",
+     "zh": "可信度，逼真程度，令人信服的程度",
+     "ctx": "指机器人在语言、性格、举止上够不够像真人，能不能骗过骗子。",
+     "ex1": "The actor's natural performance added greatly to the believability of the character. 演员自然的表演大大增强了角色的真实感。",
+     "ex2": "Small details in facial expressions can improve the believability of digital characters. 面部表情中的细微细节能够提升数字角色的逼真程度。"
+    },
+    {
+     "w": "resemble",
+     "ipa": "/rɪˈzembl/",
+     "pos": "v.",
+     "en": "to look like or be similar to someone or something",
+     "zh": "像，类似于，与……相似",
+     "ctx": "智能体在说话方式和行为举止上必须高度接近真人。",
+     "ex1": "The new building was designed to resemble the historic architecture of the surrounding neighbourhood. 这栋新建筑的设计旨在与周边街区的历史建筑风格相似。",
+     "ex2": "Her speaking style closely resembles that of her former teacher. 她的说话风格与以前的老师非常相似。"
+    },
+    {
+     "w": "minutely",
+     "ipa": "/maɪˈnjuːtli/",
+     "pos": "adv.",
+     "en": "in an extremely detailed or precise manner",
+     "zh": "极其细致地，精确入微地",
+     "ctx": "指老式聊天机器人每句回应都被预先精细编程，与能自然互动的智能体正相反。",
+     "ex1": "The investigators examined the security footage minutely for signs of suspicious activity. 调查人员极其仔细地检查监控录像，寻找可疑活动的迹象。",
+     "ex2": "Every stage of the manufacturing process was minutely documented to ensure quality control. 制造过程的每个阶段都被极其详细地记录下来，以确保质量控制。"
+    },
+    {
+     "w": "pet peeve",
+     "ipa": "/ˌpet ˈpiːv/",
+     "pos": "n.",
+     "en": "something that a particular person finds especially annoying, even if others consider it unimportant",
+     "zh": "特别令人讨厌的小事，个人特别反感的事情",
+     "ctx": "连“最烦的小事”都给机器人配了，只为让虚拟人更像活的。",
+     "ex1": "One of my biggest pet peeves is people who play loud videos on public transport. 我最讨厌的事情之一，就是有人在公共交通工具上外放视频。",
+     "ex2": "Her pet peeve is receiving work messages late at night when nothing is urgent. 她特别反感深夜收到那些根本不紧急的工作消息。"
+    },
+    {
+     "w": "slang",
+     "ipa": "/slæŋ/",
+     "pos": "n.",
+     "en": "very informal words and expressions used by particular groups of people or in particular regions",
+     "zh": "俚语，非正式口语表达",
+     "ctx": "机器人张口就是澳洲本地俚语，好让骗子相信对面真是澳洲人。",
+     "ex1": "Understanding local slang can help international students communicate more naturally with their classmates. 理解当地俚语可以帮助国际学生与同学交流得更加自然。",
+     "ex2": "The film uses a great deal of regional slang that may be unfamiliar to foreign audiences. 这部电影使用了大量外国观众可能不熟悉的地方俚语。"
+    },
+    {
+     "w": "cuppa",
+     "ipa": "/ˈkʌpə/",
+     "pos": "n.",
+     "en": "an informal British or Australian expression meaning a cup of tea",
+     "zh": "一杯茶，一杯热饮",
+     "ctx": "澳洲口语“一杯茶”，机器人随口一句“让我先去喝杯茶”。",
+     "ex1": "After a long morning of meetings, she decided to take a break and have a cuppa. 开了一上午的会后，她决定休息一下，喝杯茶。",
+     "ex2": "Come inside and have a cuppa while we wait for the rain to stop. 进来喝杯茶吧，我们等雨停了再说。"
+    }
+   ]
+  },
+  {
+   "en_html": "Each bot operates with a <mark class=\"voc\">defined</mark> mission, which may include keeping a scammer talking for as long as possible, extracting crucial intelligence about the scammers’ operations, or <mark class=\"voc\">manoeuvring</mark> the fraudster onto another platform where the interaction can continue. The mission may result in gathering details of scammer <mark class=\"voc\">impersonation</mark> <mark class=\"voc\">tactics</mark>, <mark class=\"voc\">phishing</mark> URLs, <mark class=\"voc\">mule bank accounts</mark> and <mark class=\"voc\">crypto wallets</mark> – crucial information to help authorities shut down these networks.",
+   "zh": "每个机器人都有一项明确的任务，可能是尽可能长时间地让诈骗犯保持通话，也可能是提取有关诈骗团伙运作方式的重要情报，或者巧妙地引导诈骗犯转移到另一个平台，让双方继续互动。执行任务的过程中，机器人可能收集到诈骗犯冒充他人的手法、网络钓鱼链接、用于转移赃款的银行账户以及加密货币钱包等详细信息。这些都是帮助执法机构摧毁诈骗网络的关键情报。",
+   "notes": [
+    {
+     "w": "defined",
+     "ipa": "/dɪˈfaɪnd/",
+     "pos": "adj.",
+     "en": "clearly described, established or determined",
+     "zh": "明确的，界定清楚的，规定好的",
+     "ctx": "每个机器人都带着事先定好的任务和目标上场。",
+     "ex1": "Every member of the project team was assigned a clearly defined responsibility. 项目团队的每位成员都被分配了明确的职责。",
+     "ex2": "The organization established defined procedures for responding to security incidents. 该组织制定了明确的安全事件应对程序。"
+    },
+    {
+     "w": "manoeuvre",
+     "ipa": "/məˈnuːvə(r)/",
+     "pos": "v.",
+     "en": "to skillfully guide, move or influence someone or something into a particular position or situation",
+     "zh": "巧妙引导，设法使进入某种局面，灵活操纵",
+     "ctx": "机器人靠话术把骗子一点点引到另一个平台继续聊。",
+     "ex1": "The negotiator carefully manoeuvred the discussion toward a compromise acceptable to both sides. 谈判代表巧妙地引导讨论，逐渐达成双方都能接受的妥协。",
+     "ex2": "The driver skilfully manoeuvred the large vehicle through the narrow street. 司机熟练地驾驶大型车辆穿过狭窄的街道。"
+    },
+    {
+     "w": "impersonation",
+     "ipa": "/ɪmˌpɜːsəˈneɪʃn/",
+     "pos": "n.",
+     "en": "the act of pretending to be another person, often in order to deceive others",
+     "zh": "冒充他人，假扮，身份伪装",
+     "ctx": "指骗子冒充银行、技术支持等可信身份行骗的手法。",
+     "ex1": "The police warned the public about a rise in impersonation scams involving fake government officials. 警方警告公众，冒充政府官员的诈骗案件正在增加。",
+     "ex2": "Voice cloning technology has made impersonation more convincing and difficult to detect. 声音克隆技术使冒充他人的行为更加逼真，也更难识别。"
+    },
+    {
+     "w": "tactic",
+     "ipa": "/ˈtæktɪk/",
+     "pos": "n.",
+     "en": "a particular method or strategy used to achieve a specific goal",
+     "zh": "策略，手段，战术",
+     "ctx": "指骗子为骗取信任和钱财使出的具体招数。",
+     "ex1": "The marketing team adopted a new tactic to attract younger customers. 营销团队采用了一种新策略来吸引年轻顾客。",
+     "ex2": "Creating a false sense of urgency is a common tactic used by online scammers. 制造虚假的紧迫感是网络诈骗犯常用的手段。"
+    },
+    {
+     "w": "phishing",
+     "ipa": "/ˈfɪʃɪŋ/",
+     "pos": "n.",
+     "en": "the practice of tricking people into revealing sensitive information through fraudulent emails, messages or websites",
+     "zh": "网络钓鱼，网络钓鱼诈骗",
+     "ctx": "指用假网站、假链接诱人交出密码和银行卡信息。",
+     "ex1": "The bank warned customers not to click on suspicious links in phishing emails. 银行提醒客户不要点击网络钓鱼邮件中的可疑链接。",
+     "ex2": "Employee training can reduce the risk of successful phishing attacks. 员工培训能够降低网络钓鱼攻击得逞的风险。"
+    },
+    {
+     "w": "mule bank account",
+     "ipa": "/mjuːl bæŋk əˈkaʊnt/",
+     "pos": "n.",
+     "en": "a bank account used to receive or transfer illegally obtained money on behalf of criminals",
+     "zh": "洗钱中转账户，犯罪资金转移账户",
+     "ctx": "诈骗团伙用来收款、转赃的银行账户。",
+     "ex1": "Investigators traced the stolen funds through several mule bank accounts before identifying the criminal network. 调查人员追踪了多个洗钱中转账户中的被盗资金，最终识别出犯罪网络。",
+     "ex2": "Criminal organizations sometimes recruit young people to open mule bank accounts in exchange for small payments. 犯罪组织有时会以少量报酬招募年轻人开设用于转移非法资金的银行账户。"
+    },
+    {
+     "w": "crypto wallet",
+     "ipa": "/ˈkrɪptəʊ ˈwɒlɪt/",
+     "pos": "n.",
+     "en": "a digital tool or service used to store and manage the keys needed to access and transfer cryptocurrency",
+     "zh": "加密货币钱包，数字货币钱包",
+     "ctx": "诈骗团伙用来收、藏、转加密货币的钱包。",
+     "ex1": "The investor transferred his digital assets to a secure crypto wallet. 这名投资者将数字资产转移到了一个安全的加密货币钱包中。",
+     "ex2": "Investigators discovered that the stolen cryptocurrency had passed through several crypto wallets. 调查人员发现，被盗加密货币曾经过多个数字货币钱包。"
+    }
+   ]
+  },
+  {
+   "en_html": "It’s not unusual for Apate.ai voice bots to <mark class=\"voc\">keep scammers on the line</mark> for more than two hours, with the record at two hours and 12 minutes at the time of our interview. “<mark class=\"voc\">Literally</mark> a scammer that is busy talking to a bot is a scammer that is not placing thousands of calls a minute to other potential victims,” says Kaafar. Occasionally, scammers end the call because they <mark class=\"voc\">cotton on</mark> that they are talking to a bot. The <mark class=\"voc\">realisation</mark> that a bot has been wasting the scammers’ time usually results in <mark class=\"voc\">a slew of</mark> <mark class=\"voc\">profanities</mark>. “I think we’re the only company around that has a <mark class=\"voc\">KPI</mark> linked to f-words,” he says.",
+   "zh": "Apate.ai的语音机器人让诈骗犯在电话里耗上两个多小时，并不是什么稀奇事。截至采访时，最长通话纪录已经达到2小时12分钟。卡法尔说：“说白了，一个忙着跟机器人聊天的诈骗犯，就不可能同时每分钟向其他潜在受害者拨打成千上万个电话。”偶尔，也会有诈骗犯突然挂断电话，因为他们终于意识到自己正在和一个机器人说话。而当骗子发现，自己竟然被机器人白白浪费了这么长时间时，通常就会爆出一连串脏话。“我想，我们可能是唯一一家把脏话数量和关键绩效指标挂钩的公司。”他说。",
+   "notes": [
+    {
+     "w": "keep someone on the line",
+     "ipa": "/kiːp ˈsʌmwʌn ɒn ðə laɪn/",
+     "pos": "phr.",
+     "en": "to make someone remain connected during a telephone conversation instead of ending the call",
+     "zh": "让某人保持通话，不让对方挂断电话",
+     "ctx": "机器人靠自然对话和各样拖延，把骗子长时间摁在线上。",
+     "ex1": "The customer service representative kept the caller on the line while checking the payment records. 客服人员在核查付款记录时，让来电者保持通话。",
+     "ex2": "The emergency operator kept the injured driver on the line until the ambulance arrived. 急救接线员让受伤司机一直保持通话，直到救护车抵达。"
+    },
+    {
+     "w": "literally",
+     "ipa": "/ˈlɪtərəli/",
+     "pos": "adv.",
+     "en": "used to emphasize that something is true in an exact or direct sense",
+     "zh": "确实地，简直，毫不夸张地说",
+     "ctx": "卡法尔强调：骗子忙着跟机器人聊，就腾不出手去打那成千上万个电话。",
+     "ex1": "The entire project was literally completed in less than twenty-four hours. 整个项目确实在不到24小时内就完成了。",
+     "ex2": "The new software literally saves our team several hours of repetitive work every day. 这款新软件确实每天都能为我们的团队节省数小时的重复劳动。"
+    },
+    {
+     "w": "cotton on",
+     "ipa": "/ˈkɒtn ɒn/",
+     "pos": "phr. v.",
+     "en": "to begin to understand or realize something, especially something that was previously hidden or confusing",
+     "zh": "逐渐明白，恍然大悟，察觉真相",
+     "ctx": "骗子终于反应过来，对面根本不是受害者。",
+     "ex1": "It took the audience several minutes to cotton on to the comedian's clever joke. 观众过了好几分钟才明白喜剧演员那个巧妙的笑话。",
+     "ex2": "The manager eventually cottoned on that the suspicious emails were part of a coordinated scam. 经理最终察觉到，那些可疑邮件其实是一场有组织诈骗的一部分。"
+    },
+    {
+     "w": "realisation",
+     "ipa": "/ˌrɪəlaɪˈzeɪʃn/",
+     "pos": "n.",
+     "en": "the moment or process of becoming aware of or understanding something",
+     "zh": "意识到，领悟，恍然大悟",
+     "ctx": "骗子猛然发现自己被机器人白耗了这么久。",
+     "ex1": "The realisation that she had sent the confidential document to the wrong person filled her with panic. 当她意识到自己把机密文件发错了人时，顿时陷入恐慌。",
+     "ex2": "His realisation that the business model was no longer sustainable led to a major change in strategy. 他意识到原有商业模式已经无法持续，于是决定对战略进行重大调整。"
+    },
+    {
+     "w": "a slew of",
+     "ipa": "/ə sluː əv/",
+     "pos": "phr.",
+     "en": "a large number or amount of things, often appearing together or in quick succession",
+     "zh": "大量的，一连串的，一大堆",
+     "ctx": "骗子发觉被耍后，往往一口气骂出一大串脏话。",
+     "ex1": "The new policy triggered a slew of complaints from small business owners. 新政策引发了小企业主的一连串投诉。",
+     "ex2": "The technology company announced a slew of new products at its annual conference. 这家科技公司在年度大会上发布了一大批新产品。"
+    },
+    {
+     "w": "profanity",
+     "ipa": "/prəˈfænəti/",
+     "pos": "n.",
+     "en": "offensive or rude language, especially words considered socially unacceptable",
+     "zh": "脏话，粗话，亵渎性语言",
+     "ctx": "指骗子发现被机器人戏弄后爆出的那些脏话。",
+     "ex1": "The television network removed several instances of profanity before broadcasting the interview. 电视台在播出采访前删除了其中几处粗俗语言。",
+     "ex2": "The frustrated passenger shouted a string of profanities at the airline employee. 这名沮丧的乘客冲着航空公司员工骂出了一连串脏话。"
+    },
+    {
+     "w": "KPI",
+     "ipa": "/ˌkeɪ piː ˈaɪ/",
+     "pos": "n.",
+     "en": "key performance indicator; a measurable value used to evaluate how successfully a person or organization achieves its objectives",
+     "zh": "关键绩效指标，业绩考核指标",
+     "ctx": "卡法尔打趣说，公司怕是唯一把“脏话次数”当成绩效指标的公司。",
+     "ex1": "Customer satisfaction has become an important KPI for the company's support team. 客户满意度已经成为公司客服团队的一项重要绩效指标。",
+     "ex2": "The management team introduced new KPIs to measure the effectiveness of its digital marketing campaigns. 管理团队引入了新的关键绩效指标，以衡量数字营销活动的效果。"
+    }
+   ]
+  },
+  {
+   "en_html": "Kaafar <mark class=\"voc\">is keen to</mark> emphasise that while delaying and <mark class=\"voc\">obfuscating</mark> scammers is deeply satisfying, it offers benefits beyond <mark class=\"voc\">merely</mark> blocking calls. “What we’re trying to do is distract them and <mark class=\"voc\">disrupt</mark> them by <mark class=\"voc\">presenting them with</mark> the perfect victim. Then we make it really painful for them where exactly it matters for them, which is how much money they’ll be making.” “We want to <mark class=\"voc\">put the foot on the gas</mark>,” he says.",
+   "zh": "卡法尔特别希望强调，虽然拖住诈骗犯、把他们弄得晕头转向确实让人非常解气，但这项技术带来的好处远不止拦截诈骗电话那么简单。“我们想做的，就是给他们送上一个看似完美的受害者，以此分散他们的注意力，打乱他们的诈骗行动。然后，我们要在他们最在乎的地方让他们真正感到痛苦，那就是他们到底还能赚到多少钱。”“我们想要继续踩下油门，加快行动。”他说。",
+   "notes": [
+    {
+     "w": "be keen to do sth.",
+     "ipa": "/bi kiːn tə duː/",
+     "pos": "phr.",
+     "en": "to be very eager or enthusiastic about doing something",
+     "zh": "非常希望做某事，热衷于做某事",
+     "ctx": "卡法尔急着要让外界明白，这套技术的意义远不止戏弄骗子。",
+     "ex1": "The research team is keen to explore how artificial intelligence can improve public healthcare. 研究团队非常希望探索人工智能如何改善公共医疗服务。",
+     "ex2": "Many young professionals are keen to develop skills that will remain valuable in the future job market. 许多年轻职场人士都渴望培养在未来就业市场中仍然有价值的技能。"
+    },
+    {
+     "w": "obfuscate",
+     "ipa": "/ˈɒbfəskeɪt/",
+     "pos": "v.",
+     "en": "to make something unclear, confusing or difficult to understand",
+     "zh": "使模糊，使困惑，故意搅乱",
+     "ctx": "机器人靠装傻、搅浑水、答非所问，让骗子推不动流程。",
+     "ex1": "The politician was accused of using complicated language to obfuscate the real reasons behind the decision. 这名政治人物被指责使用复杂语言来掩盖决策背后的真正原因。",
+     "ex2": "Some companies deliberately obfuscate their pricing structures to make hidden fees harder to identify. 一些公司故意把定价结构弄得复杂难懂，让隐藏费用更难被发现。"
+    },
+    {
+     "w": "merely",
+     "ipa": "/ˈmɪəli/",
+     "pos": "adv.",
+     "en": "only or simply, often used to emphasize that something is less important or extensive than it may appear",
+     "zh": "仅仅，只不过，只是",
+     "ctx": "强调这套系统的作用不止是“把电话挡掉”这么简单。",
+     "ex1": "The new policy is not merely a financial decision but also a reflection of changing social priorities. 这项新政策不仅仅是一项财务决定，也反映了社会优先事项的变化。",
+     "ex2": "Learning a language is not merely about remembering vocabulary and grammar rules. 学习一门语言不仅仅是记住词汇和语法规则。"
+    },
+    {
+     "w": "disrupt",
+     "ipa": "/dɪsˈrʌpt/",
+     "pos": "v.",
+     "en": "to interrupt or seriously interfere with the normal operation of a system, activity or process",
+     "zh": "扰乱，打乱，使中断，颠覆",
+     "ctx": "机器人占掉骗子的时间和资源，直接搅乱其诈骗流程与赚钱模式。",
+     "ex1": "The cyberattack disrupted essential services across several major hospitals. 网络攻击扰乱了多家大型医院的基本服务。",
+     "ex2": "New technologies have the potential to disrupt traditional business models. 新技术有可能颠覆传统商业模式。"
+    },
+    {
+     "w": "present someone with sth.",
+     "ipa": "/prɪˈzent ˈsʌmwʌn wɪð/",
+     "pos": "phr.",
+     "en": "to give, show or offer something to someone, often for their consideration or response",
+     "zh": "向某人提供，向某人呈现，使某人面对",
+     "ctx": "系统主动把“完美受害者”送到骗子面前。",
+     "ex1": "The investigation presented the authorities with new evidence of financial misconduct. 这项调查向有关部门提供了有关财务不当行为的新证据。",
+     "ex2": "The rapid growth of artificial intelligence has presented educators with both opportunities and challenges. 人工智能的迅速发展给教育工作者带来了机遇与挑战。"
+    },
+    {
+     "w": "put the foot on the gas",
+     "ipa": "/pʊt ðə fʊt ɒn ðə ɡæs/",
+     "pos": "phr.",
+     "en": "to increase speed, effort or intensity in order to make something progress more quickly",
+     "zh": "踩下油门，加快速度，加大力度",
+     "ctx": "卡法尔想踩下油门，把反诈技术推得更快、铺得更广。",
+     "ex1": "The company decided to put its foot on the gas and accelerate the development of its new electric vehicle. 公司决定加快步伐，加速研发新款电动汽车。",
+     "ex2": "With international demand growing rapidly, the manufacturer is putting its foot on the gas to expand production. 随着国际需求迅速增长，这家制造商正在加快扩大生产规模。"
+    }
+   ]
+  }
+ ],
+ "proper": [
+  {
+   "name": "Dali Kaafar / 达利·卡法尔",
+   "def": "澳大利亚麦考瑞大学网络安全教授、该校网络安全中心执行主任，Apate.ai 创始人兼首席执行官。研究覆盖网络安全、隐私保护与人工智能，早年曾在 CSIRO 旗下 Data61 组建信息安全与隐私研究团队。他的路子与传统安全研究不同：不是识别、拦截攻击，而是让 AI 主动与骗子交锋——他主导的系统能模拟真实受害者，与骗子长时间周旋并套取情报。<br>本文中的意思：全文主角，那个在野餐时接了诈骗电话、聊完 44 分钟就决定“让机器来干这件事”的教授。"
+  },
+  {
+   "name": "Macquarie University / 麦考瑞大学",
+   "def": "位于悉尼的公立研究型大学，1964 年建校，设有专门研究网络安全的团队，覆盖数字隐私、人工智能与网络犯罪防范。文中 Apate.ai 正是从该校的研究项目里长出来的公司，是“大学成果变成产品”的一个样本。<br>本文中的意思：卡法尔的身份坐标，也交代了这支 AI 大军的技术出身——实验室，而不是生意场。"
+  },
+  {
+   "name": "Global Scam Industry / 全球诈骗产业",
+   "def": "现代网络诈骗早已不是零散骗子随机拨号，而是跨国分工、批量触达、冒充可信机构、再经复杂渠道洗钱的产业。形式包括投资诈骗、情感诈骗、冒充客服与技术支持等。澳大利亚政府数据显示，仅 2024 年该国因诈骗损失就超过 20 亿澳元；文中“万亿美元规模”是量级说法，具体统计口径需另核。<br>本文中的意思：第 1 段 trillion-dollar 指的那个“产业”，也是 AI 大军要挑战的对手。"
+  },
+  {
+   "name": "NBN / 澳大利亚国家宽带网络",
+   "def": "National Broadband Network（NBN），澳大利亚的全国性高速宽带基础设施工程，与家家户户的上网体验直接相关。骗子常冒充技术人员，谎称用户网速异常、设备故障或连接即将中断。NBN 官方明确提醒：工作人员不会突然来电要求远程访问用户电脑。<br>本文中的意思：第 2 段骗子那套“你家网速有问题”的话术就借了 NBN 的名；卡法尔装傻反问“你们说的这个 NBN 是什么”，正是在拆这套剧本。"
+  },
+  {
+   "name": "Remote Access Scam / 远程访问诈骗",
+   "def": "常见的技术支持类骗局：先假冒电信公司、银行或技术服务机构，称用户电脑或网络有问题，再要求安装远程控制软件。一旦拿到设备权限，犯罪分子就能查看敏感信息、操控电脑、诱导转账。澳大利亚通信与媒体管理局曾专门发布警告。<br>本文中的意思：第 2 段骗子要的 remote access，就是这类骗局的命门。"
+  },
+  {
+   "name": "Scambaiting / 诈骗诱捕",
+   "def": "指故意与骗子周旋：假装上当、提供假信息、制造各种障碍，把骗子的时间耗掉。传统做法靠个人手动操作，能拖住的骗子数量有限；卡法尔的创新是把这件事自动化，让成千上万个机器人同时上线。<br>本文中的意思：卡法尔野餐时干的那件事的学名，也是 Apate 这套产品的原型。"
+  },
+  {
+   "name": "Natural-Language Processing / 自然语言处理（NLP）",
+   "def": "人工智能的重要分支，目标是让计算机理解、分析并生成自然语言。传统自动回复只能按预设规则回应有限问题，而现代对话式 AI 能结合上下文生成更灵活的回答。<br>本文中的意思：第 4 段团队的两项看家本领之一——让机器人听懂骗子说什么，再像真人一样接话。"
+  },
+  {
+   "name": "Conversational AI / 对话式人工智能",
+   "def": "能通过文字或语音与人持续交流的技术：既要识别对方说了什么，也要根据对话内容作出恰当回应。Apate 用它造出不同年龄、性格与语言风格的虚拟人物，让骗子相信自己在跟真人说话；麦考瑞大学的研究介绍称这些机器人可进行逼真的多语言交流。<br>本文中的意思：第 6 段“够不够像人”这件事的技术底子。"
+  },
+  {
+   "name": "Apate / 阿帕忒（希腊神话中的欺骗女神）",
+   "def": "希腊神话中象征欺骗、诡计与蒙骗的神祇。卡法尔把反诈系统命名为 Apate，反讽意味鲜明：靠谎言吃饭的骗子，如今被一套擅长伪装的人工智能反过来骗。<br>本文中的意思：第 4 段公司名的由来，也是全文主题的浓缩——用骗子自己的手段反制骗子。"
+  },
+  {
+   "name": "Apate.ai 的科研转化与银行合作",
+   "def": "Apate 最初只是大学里的研究技术，后逐步发展为面向真实反诈场景的产品。2024 年 8 月，麦考瑞大学宣布与澳大利亚联邦银行（Commonwealth Bank of Australia，简称 CommBank）合作试点，并获联邦政府资金支持；此后又与电信运营商 TPG 合作，把高风险来电直接转给 AI 接听。<br>本文中的意思：第 5 段“部署到电话、邮件、社交平台”的现实底色——这套系统已经接进真实的通信与金融管道。"
+  },
+  {
+   "name": "Digital Decoy Identity / 数字诱饵身份",
+   "def": "为吸引恶意行为者而设计的虚拟身份：有电话号码、社交账号，也有看似真实的个人信息。与传统安全系统“等案发再识别”不同，诱饵身份主动出现在骗子找目标的渠道里，让对方以为撞上了一个容易上当的人。<br>本文中的意思：第 5 段那“数以千计的数字诱饵身份”到底指什么。"
+  },
+  {
+   "name": "Proactive Cyber Defence / 主动式网络防御",
+   "def": "传统网络安全强调识别威胁、拦截攻击、保护用户；主动防御则进一步提前发现威胁、收集犯罪情报、干扰恶意活动。Apate 的思路正是如此：不是让诈骗电话打不通，而是主动与骗子互动，削弱其诈骗效率。<br>本文中的意思：第 9 段“让骗子在最在乎的地方疼”背后的安全理念。"
+  },
+  {
+   "name": "AI Agent / AI 智能体",
+   "def": "能根据目标与环境信息采取行动的人工智能系统。与只能回答单个问题的聊天机器人相比，具备一定自主性的智能体可围绕任务持续多轮互动。文中机器人各有性格、口音与身份，并随对话发展作出回应；但“自主”不等于有意识，只是能在设定好的任务范围内自动执行。<br>本文中的意思：第 6 段那些有名字、有脾气、有 PayID 的“虚拟受害者”。"
+  },
+  {
+   "name": "WhatsApp 与 PayID",
+   "def": "WhatsApp 是广泛使用的即时通讯应用，支持文字、语音与视频通话。PayID 是澳大利亚支付体系中的收款标识服务，可把手机号或邮箱与符合条件的银行账户关联，方便他人转账。机器人配齐这两样，说明它们不是“一把声音”，而是有完整数字生活痕迹的人。<br>本文中的意思：第 6 段 believability 的细节支撑——查得到、转得进，骗子才会信。"
+  },
+  {
+   "name": "Australian English / 澳大利亚英语与文化细节",
+   "def": "澳式英语有独特口音、词汇与日常表达：no worries 可表示“没关系”“不用担心”或“不客气”，cuppa 是 a cup of tea 的口语缩略。这些表达看似不起眼，却最容易让说话者显得真实。<br>本文中的意思：第 6 段机器人张口就是“no worries”“let me just get a cuppa”的用意——用本地味儿降低骗子的戒心。"
+  },
+  {
+   "name": "Phishing / 网络钓鱼",
+   "def": "犯罪分子冒充银行、政府机构或其他可信组织，通过假邮件、假短信、假网站诱骗用户泄露密码、银行卡等敏感资料。对反诈系统而言，收集钓鱼链接既能识别具体骗局，也能帮助相关机构调查、预警与封禁。<br>本文中的意思：第 7 段机器人任务清单里的 phishing URLs。"
+  },
+  {
+   "name": "Money Mule / Mule Bank Account / 资金骡子与洗钱中转账户",
+   "def": "money mule 直译“资金骡子”，指替犯罪分子接收或转移非法资金的人：有人明知故犯，也有人被假兼职、网恋骗着替人转账。mule bank account 就是这类资金转移用的账户。美国联邦调查局指出，这些中转环节会让资金来源与去向更难追。<br>本文中的意思：第 7 段机器人要套出的关键情报之一——掐住账户，就掐住了骗子的收款管道。"
+  },
+  {
+   "name": "Crypto Wallet / 加密货币钱包",
+   "def": "管理加密货币访问凭证与交易权限的数字工具。它通常并不直接“装币”，而是保管控制链上资产所需的密钥。骗子会要求受害者把资金转入指定地址，或经多个钱包层层转移，因此钱包地址往往成为追查资金流向的重要线索。<br>本文中的意思：第 7 段任务清单的最后一项——比银行账户更难追的那条资金链。"
+  },
+  {
+   "name": "KPI / 关键绩效指标",
+   "def": "Key Performance Indicator，企业与组织用来衡量工作成效的可量化指标，如销售额、客户满意度、任务完成率。文中卡法尔打趣说，他们可能是唯一把“骗子爆粗口的次数”挂上 KPI 的公司——骗子一旦发现被耍，往往破口大骂。<br>本文中的意思：第 8 段那句玩笑的落点——骂得越凶，说明机器人拖得越成功。"
+  },
+  {
+   "name": "Disrupting the Scam Business Model / 破坏诈骗商业模式",
+   "def": "诈骗的盈利依赖两件事：持续接触潜在受害者，并让其中一部分人上当。Apate 用大量机器人占用骗子的时间、精力与通信资源，使其无法把这些资源投向真人。与单纯拦截相比，这是从经济层面压低诈骗的效率与收益；实际效果仍取决于部署规模、识别准确率与骗子的应对。<br>本文中的意思：第 9 段“在最在乎的地方让他们疼”的完整逻辑——不是挡住电话，是让这门生意不赚钱。"
+  }
+ ],
+ "sources_note": "资料核对：以上背景依据文章内容，并参考麦考瑞大学、Apate.ai、澳大利亚联邦银行（CommBank）与澳大利亚竞争与消费者委员会（ACCC）截至 2026 年 10 月的公开资料。",
+ "practice": {
+  "intro": "请根据今天学习的外刊，用自己的英语简要复述悉尼教授如何利用 AI 机器人反过来对付诈骗犯的故事。",
+  "items": [
+   "故事的起因：一个春天的下午，悉尼的一位网络安全教授接到了一通诈骗电话。他没有挂断，而是决定假装听不懂，戏弄一下骗子。（scam call / fraudster / pretend / have fun with）",
+   "一个意外的发现：教授故意拖延了 44 分钟，孩子们笑得停不下来，但他的妻子认为他浪费了宝贵的家庭时间。这让他开始思考：为什么不利用技术大规模地对付诈骗犯呢？（delay / in hysterics / waste time / at scale）",
+   "AI 机器人大军的诞生：随后，他和研究团队开发了能够模仿真人的 AI 机器人。这些机器人拥有不同的性格、口音，甚至会假装不懂技术。（develop / autonomous / resemble / pretend）",
+   "AI 如何反击诈骗犯：这些机器人伪装成潜在受害者，吸引诈骗犯主动联系它们，并尽可能长时间地保持通话，同时收集有价值的诈骗情报。（decoy / potential victim / keep someone on the line / extract / intelligence）",
+   "这项技术的真正意义：有些诈骗犯甚至会被机器人拖住两个多小时。这项技术不仅浪费骗子的时间，还能扰乱他们的诈骗活动，减少他们从受害者身上赚取的钱财。（disrupt / go beyond / take on / beat someone at their own game）"
+  ],
+  "critical_en": "Do you think AI could become a powerful weapon against online scams? Why or why not?",
+  "critical_zh": "你认为人工智能能够成为打击网络诈骗的有力武器吗？为什么？",
+  "answer": "One afternoon, a cybersecurity professor in Sydney received a scam call. Instead of hanging up, he decided to pretend he knew nothing about technology. He managed to delay the fraudsters for 44 minutes. This experience inspired him to develop AI bots to take on scammers at scale.<br><br>These bots resemble real people and act as potential victims. They can keep scammers on the line for hours while collecting useful intelligence. By wasting scammers’ time and disrupting their operations, the technology helps protect people from fraud. It shows how AI can beat scammers at their own game.<br><br>思考题参考答案：Yes, I think AI could become a powerful weapon against online scams. Unlike humans, AI bots can talk to scammers for hours without getting tired. They can also collect useful information and help the police identify criminal networks. However, AI alone cannot stop every scam. We still need better laws, stronger security systems and greater public awareness."
+ },
+ "mindmap": {
+  "aria": "AI 机器人大军反诈文章思维导图",
+  "alt": "20 万个 AI 反诈大军（手绘版）",
+  "svg": "<svg viewBox=\"0 0 960 720\" xmlns=\"http://www.w3.org/2000/svg\" role=\"img\" aria-label=\"AI 机器人大军反诈文章思维导图\" style=\"width:100%;height:auto;font-family:-apple-system,'PingFang SC','Hiragino Sans GB','Microsoft YaHei',sans-serif\">\n        <rect x=\"24\" y=\"306\" width=\"176\" height=\"88\" rx=\"14\" fill=\"#eae3d2\" stroke=\"#9a8f76\"/>\n        <text x=\"112\" y=\"342\" text-anchor=\"middle\" fill=\"#3d3a34\" font-size=\"17\" font-weight=\"700\">20 万个 AI 接电话</text>\n        <text x=\"112\" y=\"368\" text-anchor=\"middle\" fill=\"#5c5648\" font-size=\"12.5\">反手把骗子聊到崩溃</text>\n\n        <path d=\"M200,350 C232,350 232,88 260,88\"  stroke=\"#6b8f71\" stroke-width=\"2\" fill=\"none\"/>\n        <path d=\"M200,350 C232,350 232,238 260,238\" stroke=\"#7d98ad\" stroke-width=\"2\" fill=\"none\"/>\n        <path d=\"M200,350 C232,350 232,433 260,433\" stroke=\"#bd7a6d\" stroke-width=\"2\" fill=\"none\"/>\n        <path d=\"M200,350 C232,350 232,628 260,628\" stroke=\"#9b86b3\" stroke-width=\"2\" fill=\"none\"/>\n\n        <g class=\"mm-branch\" data-target=\"bc1\">\n          <rect x=\"260\" y=\"71\" width=\"190\" height=\"34\" rx=\"8\" fill=\"#e6efe7\" stroke=\"#6b8f71\"/>\n          <text x=\"349\" y=\"93\" text-anchor=\"middle\" fill=\"#4c6b52\" font-size=\"15\" font-weight=\"700\">一通电话 44 分钟（¶1–3）</text>\n          <text class=\"mm-arrow\" data-for=\"bc1\" x=\"442\" y=\"93\" text-anchor=\"end\" fill=\"#4c6b52\">▾</text>\n        </g>\n        <g class=\"mm-children\" id=\"bc1\">\n          <path d=\"M450,88 C462,88 462,46 480,46\" stroke=\"#6b8f71\" stroke-width=\"1.5\" fill=\"none\"/>\n          <path d=\"M450,88 C462,88 462,88 480,88\" stroke=\"#6b8f71\" stroke-width=\"1.5\" fill=\"none\"/>\n          <path d=\"M450,88 C462,88 462,130 480,130\" stroke=\"#6b8f71\" stroke-width=\"1.5\" fill=\"none\"/>\n          <rect x=\"480\" y=\"30\" width=\"456\" height=\"32\" rx=\"8\" fill=\"#e6efe7\"/><text x=\"492\" y=\"51\" fill=\"#3d3a34\" font-size=\"14\">野餐里来了诈骗电话：一眼看穿，偏要接起来玩玩</text>\n          <rect x=\"480\" y=\"72\" width=\"456\" height=\"32\" rx=\"8\" fill=\"#e6efe7\"/><text x=\"492\" y=\"93\" fill=\"#3d3a34\" font-size=\"14\">装听不懂、给错信息、拖时间，一聊就是 44 分钟</text>\n          <rect x=\"480\" y=\"114\" width=\"456\" height=\"32\" rx=\"8\" fill=\"#e6efe7\"/><text x=\"492\" y=\"135\" fill=\"#3d3a34\" font-size=\"14\">孩子笑翻、妻子心疼：那就让技术规模化作案</text>\n        </g>\n\n        <g class=\"mm-branch\" data-target=\"bc2\">\n          <rect x=\"260\" y=\"221\" width=\"190\" height=\"34\" rx=\"8\" fill=\"#e5edf4\" stroke=\"#7d98ad\"/>\n          <text x=\"349\" y=\"243\" text-anchor=\"middle\" fill=\"#3d5872\" font-size=\"15\" font-weight=\"700\">实验室长出 Apate（¶4–5）</text>\n          <text class=\"mm-arrow\" data-for=\"bc2\" x=\"442\" y=\"243\" text-anchor=\"end\" fill=\"#3d5872\">▾</text>\n        </g>\n        <g class=\"mm-children\" id=\"bc2\">\n          <path d=\"M450,238 C462,238 462,196 480,196\" stroke=\"#7d98ad\" stroke-width=\"1.5\" fill=\"none\"/>\n          <path d=\"M450,238 C462,238 462,238 480,238\" stroke=\"#7d98ad\" stroke-width=\"1.5\" fill=\"none\"/>\n          <path d=\"M450,238 C462,238 462,280 480,280\" stroke=\"#7d98ad\" stroke-width=\"1.5\" fill=\"none\"/>\n          <rect x=\"480\" y=\"180\" width=\"456\" height=\"32\" rx=\"8\" fill=\"#e5edf4\"/><text x=\"492\" y=\"201\" fill=\"#3d3a34\" font-size=\"14\">周一召来博士生，做会“嗯嗯啊啊”的语音机器人</text>\n          <rect x=\"480\" y=\"222\" width=\"456\" height=\"32\" rx=\"8\" fill=\"#e5edf4\"/><text x=\"492\" y=\"243\" fill=\"#3d3a34\" font-size=\"14\">2024 年创立 Apate.ai，取名自希腊欺骗女神</text>\n          <rect x=\"480\" y=\"264\" width=\"456\" height=\"32\" rx=\"8\" fill=\"#e5edf4\"/><text x=\"492\" y=\"285\" fill=\"#3d3a34\" font-size=\"14\">数千个数字诱饵身份，铺进电话、邮件与社交平台</text>\n        </g>\n\n        <g class=\"mm-branch\" data-target=\"bc3\">\n          <rect x=\"260\" y=\"416\" width=\"190\" height=\"34\" rx=\"8\" fill=\"#f4e7e4\" stroke=\"#bd7a6d\"/>\n          <text x=\"349\" y=\"438\" text-anchor=\"middle\" fill=\"#7c4a3e\" font-size=\"15\" font-weight=\"700\">够像人才骗得过（¶6–7）</text>\n          <text class=\"mm-arrow\" data-for=\"bc3\" x=\"442\" y=\"438\" text-anchor=\"end\" fill=\"#7c4a3e\">▾</text>\n        </g>\n        <g class=\"mm-children\" id=\"bc3\">\n          <path d=\"M450,433 C462,433 462,391 480,391\" stroke=\"#bd7a6d\" stroke-width=\"1.5\" fill=\"none\"/>\n          <path d=\"M450,433 C462,433 462,433 480,433\" stroke=\"#bd7a6d\" stroke-width=\"1.5\" fill=\"none\"/>\n          <path d=\"M450,433 C462,433 462,475 480,475\" stroke=\"#bd7a6d\" stroke-width=\"1.5\" fill=\"none\"/>\n          <rect x=\"480\" y=\"375\" width=\"456\" height=\"32\" rx=\"8\" fill=\"#f4e7e4\"/><text x=\"492\" y=\"396\" fill=\"#3d3a34\" font-size=\"14\">有口音、有脾气、有 PayID，20 万机器人只剩编号</text>\n          <rect x=\"480\" y=\"417\" width=\"456\" height=\"32\" rx=\"8\" fill=\"#f4e7e4\"/><text x=\"492\" y=\"438\" fill=\"#3d3a34\" font-size=\"14\">任务是拖住、套情报、把骗子引到另一个平台接着聊</text>\n          <rect x=\"480\" y=\"459\" width=\"456\" height=\"32\" rx=\"8\" fill=\"#f4e7e4\"/><text x=\"492\" y=\"480\" fill=\"#3d3a34\" font-size=\"14\">钓出话术、钓鱼链接、洗钱账户与加密钱包</text>\n        </g>\n\n        <g class=\"mm-branch\" data-target=\"bc4\">\n          <rect x=\"260\" y=\"611\" width=\"190\" height=\"34\" rx=\"8\" fill=\"#ece4f2\" stroke=\"#9b86b3\"/>\n          <text x=\"349\" y=\"633\" text-anchor=\"middle\" fill=\"#5a4670\" font-size=\"15\" font-weight=\"700\">把骗子的生意做亏（¶8–9）</text>\n          <text class=\"mm-arrow\" data-for=\"bc4\" x=\"442\" y=\"633\" text-anchor=\"end\" fill=\"#5a4670\">▾</text>\n        </g>\n        <g class=\"mm-children\" id=\"bc4\">\n          <path d=\"M450,628 C462,628 462,586 480,586\" stroke=\"#9b86b3\" stroke-width=\"1.5\" fill=\"none\"/>\n          <path d=\"M450,628 C462,628 462,628 480,628\" stroke=\"#9b86b3\" stroke-width=\"1.5\" fill=\"none\"/>\n          <path d=\"M450,628 C462,628 462,670 480,670\" stroke=\"#9b86b3\" stroke-width=\"1.5\" fill=\"none\"/>\n          <rect x=\"480\" y=\"570\" width=\"456\" height=\"32\" rx=\"8\" fill=\"#ece4f2\"/><text x=\"492\" y=\"591\" fill=\"#3d3a34\" font-size=\"14\">一通电话能耗两小时，纪录停在 2 小时 12 分</text>\n          <rect x=\"480\" y=\"612\" width=\"456\" height=\"32\" rx=\"8\" fill=\"#ece4f2\"/><text x=\"492\" y=\"633\" fill=\"#3d3a34\" font-size=\"14\">骗子反应过来就爆粗口，粗口次数成了 KPI</text>\n          <rect x=\"480\" y=\"654\" width=\"456\" height=\"32\" rx=\"8\" fill=\"#ece4f2\"/><text x=\"492\" y=\"675\" fill=\"#3d3a34\" font-size=\"14\">踩下油门：占住时间与资源，让诈骗不再赚钱</text>\n        </g>\n      </svg>",
+  "img": "/tmp/mm23/mm23.jpg"
+ }
+}

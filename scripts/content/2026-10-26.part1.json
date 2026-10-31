@@ -1,0 +1,257 @@
+{
+ "date": "2026-10-26",
+ "title_tag": "马斯克的“星链”到底有什么用？为什么一打仗，全世界都在抢它？—— 英国路透社外刊讲解第1209天",
+ "h1": "马斯克的“星链”到底有什么用？为什么一打仗，全世界都在抢它？",
+ "source_label": "Reuters",
+ "category": "英国路透社外刊讲解第1209天",
+ "read_minutes": 18,
+ "nav_hint": "Starlink service, on and off",
+ "headline": {
+  "en_html": "US has for years asked Musk to <mark class=\"voc\">alter</mark> Starlink service in Ukraine, Middle East, sources say",
+  "zh": "消息人士称：多年来，美国政府一直要求马斯克调整星链在乌克兰及中东的服务",
+  "notes": [
+   {
+    "w": "alter",
+    "ipa": "/ˈɔːltər/",
+    "pos": "v.",
+    "en": "alter (v.) means to change something in some way, usually while leaving it recognisably the same thing",
+    "zh": "调整，改动，改一改",
+    "ctx": "全文的第一个关键选择：记者既没用 change（最普通），也没用 transform（彻底改变），更没用 restrict（限制）——alter 只说“改动了一下”，不谈方向、不谈程度、不谈对错。而这篇报道追问的恰恰是：这个“改一下”的权力，凭什么落在一家私人公司手里。",
+    "ex1": "Two days before the deal took effect, the company quietly altered the terms. 协议生效前两天，这家公司悄悄改动了条款。",
+    "ex2": "Satellite coverage can be altered from the ground without anyone touching the hardware. 卫星覆盖范围可以在地面上被改动，硬件一个地方都不用碰。"
+   }
+  ]
+ },
+ "paragraphs": [
+  {
+   "en_html": "Well before the <mark class=\"voc\">throttling</mark> this month of Ukraine’s military access to Elon Musk’s satellite communications system, the Biden and Trump administrations had several times asked SpaceX to turn its Starlink service on or off in various countries, according to six former senior US officials familiar with the matter. During the presidency of Joe Biden, the requests included <mark class=\"voc\">switching off</mark> the service to <mark class=\"voc\">prevent</mark> Iranian <mark class=\"voc\">proxy militias</mark> in Yemen and Lebanon from using Starlink to communicate, and activating the service to provide internet access inside Iran and in Ukraine to support its military.",
+   "zh": "早在本月乌克兰军方使用马斯克卫星通信系统的权限遭限速之前，拜登与川总两届政府就曾多次要求SpaceX 在多个国家开启或关闭星链服务——这是六位知情的前美国高级官员的说法。拜登任内，此类请求既包括关闭服务，以阻止伊朗的代理武装在也门和黎巴嫩利用星链联络；也包括开通服务，为伊朗境内及乌克兰提供网络接入，以支持乌军作战。",
+   "notes": [
+    {
+     "w": "throttle",
+     "ipa": "/ˈθrɒtl/",
+     "pos": "v.",
+     "en": "throttle (v.) means to deliberately restrict the flow, speed or volume of something; literally, to press on someone’s throat so they cannot breathe",
+     "zh": "掐慢，限流，节流",
+     "ctx": "本义“掐住咽喉使窒息”（throttle 出自 throat，本就是喉咙）。路透社不用 slow down 也不用 restrict，偏用 throttle——像掐脖子那样把速度往下压，一个词就把“有意为之”写进去了。",
+     "ex1": "The operator began throttling the connection for users who passed their monthly cap. 运营商开始对超过月度上限的用户限速。",
+     "ex2": "At full throttle the pump moves twice the volume it does at cruising speed. 满负荷时这台泵的流量是常速下的两倍。"
+    },
+    {
+     "w": "switch off / turn on",
+     "ipa": "/swɪtʃ ɒf/ /tɜːn ɒn/",
+     "pos": "动词短语",
+     "en": "switch something off means to stop a system or service from operating; turn something on means to start it operating",
+     "zh": "关闭、切断／开启、接通",
+     "ctx": "两个最日常的动作，被用在最不日常的东西上：一个国家的战场通信。全文的骨架其实就是这两个动作的反复——今天关、明天开，而开关握在谁手里，才是新闻。",
+     "ex1": "The transmitter was switched off at 6 a.m. without any prior notice. 发射机在早上六点被关闭，事前没有任何通知。",
+     "ex2": "Engineers turned the network back on after a twelve-hour outage. 中断十二小时后，工程师重新接通了网络。"
+    },
+    {
+     "w": "prevent sb from doing",
+     "ipa": "/prɪˈvent/",
+     "pos": "动词短语",
+     "en": "prevent someone from doing something means to stop them from doing it, usually by acting first",
+     "zh": "阻止，防范",
+     "ctx": "pre-（在前）＋ venire（来），走在前面把它挡下。政府要“关”，理由就落在这个短语上：不是事后追责，是提前掐断。“提前”两个字，正是这个动词自带的立场。",
+     "ex1": "The new rules are meant to prevent firms from routing payments through third countries. 新规意在阻止企业通过第三国转付资金。",
+     "ex2": "Nothing could prevent the footage from spreading once it was online. 那段影像一旦上网，就什么也挡不住它的传播了。"
+    },
+    {
+     "w": "proxy militias",
+     "ipa": "/ˈprɒksi mɪˈlɪʃəz/",
+     "pos": "名词短语",
+     "en": "proxy militias are armed groups that act on behalf of a state, which supports them rather than fighting directly",
+     "zh": "代理人武装，受某国支持的武装组织",
+     "ctx": "proxy（代管、受托）＋ militia（兵役、从军）。作者不写 Iran’s allies，偏写 proxy——既点出“背后有人”，又留了一层法律距离：是“代理”，不是“本人”。",
+     "ex1": "Analysts described the conflict as a proxy war between two regional powers. 分析人士将这场冲突形容为两个地区大国之间的代理人战争。",
+     "ex2": "The group has long been described as a proxy of a neighbouring state. 这个组织长期被描述为某个邻国的代理人武装。"
+    }
+   ]
+  },
+  {
+   "en_html": "Similarly, President Donald Trump’s administration asked Musk, who is CEO of SpaceX, to make the service available in Iran following US-Israeli strikes in 2025 and 2026, in hopes it would <mark class=\"voc\">bolster</mark> internet access and communications for anti-government protesters. The recent <mark class=\"voc\">blowup</mark> over restrictions to Ukraine’s use of SpaceX satellite services has raised questions about the ties between the US government and Musk, whose company owns systems <mark class=\"voc\">vital</mark> to the US military and to US allies.",
+   "zh": "无独有偶，川总政府也曾以同样的方式要求SpaceX 首席执行官马斯克，在2025年和2026年美以对伊朗实施军事打击之后，向伊朗开放星链服务，以期加强该国反政府抗议者的网络接入与通信能力。而近期围绕乌克兰使用SpaceX 卫星服务所受限制而引爆的那场风波，则让人不得不质疑美国政府与马斯克之间的关系——他旗下的公司，掌握着对美军及其盟友而言性命攸关的系统。",
+   "notes": [
+    {
+     "w": "bolster",
+     "ipa": "/ˈbəʊlstə/",
+     "pos": "v.",
+     "en": "bolster (v.) means to support or strengthen something that is already there but not strong enough",
+     "zh": "增强，巩固，撑一把",
+     "ctx": "名词 bolster 是那种圆柱形的长枕，动词化就是“垫上去、撑起来”。作者不说 help 或 improve，说 bolster——那种“本来就有、只是不够硬，需要垫一手”的意思全在里头。",
+     "ex1": "The grants are intended to bolster local newsrooms rather than replace them. 这些资助意在增强地方新闻机构，而不是取代它们。",
+     "ex2": "Both sides cited the report to bolster their own arguments. 双方都引用这份报告来支撑各自的论点。"
+    },
+    {
+     "w": "blowup",
+     "ipa": "/ˈbləʊʌp/",
+     "pos": "n.",
+     "en": "a blowup (n.) is a sudden violent outburst, usually an argument that becomes public",
+     "zh": "大吵一场，公开爆发",
+     "ctx": "blow＋up，炸开的那一下。作者不写 controversy 或 dispute，写 blowup：不是“有争议”，是“当着所有人的面炸了”。",
+     "ex1": "The blowup over the contract cost the minister his job two weeks later. 围绕这份合同的这场爆发，两周后让那位部长丢了职位。",
+     "ex2": "It began as a private disagreement and ended as a very public blowup. 它起初只是私下分歧，最后变成了一场尽人皆知的爆发。"
+    },
+    {
+     "w": "vital to",
+     "ipa": "/ˈvaɪtl tə/",
+     "pos": "形容词短语",
+     "en": "vital to something means absolutely necessary for it to work or survive",
+     "zh": "至关重要的，性命攸关的",
+     "ctx": "vita 是拉丁语的“生命”。这里不含夸张——紧接着第六段就说清了“至关重要”具体指什么：缺了它，前线的无人机就看不见东西。",
+     "ex1": "The port is vital to the island’s fuel supply. 这个港口对该岛的燃料供应至关重要。",
+     "ex2": "Early warning of engine failure proved vital to the crew’s survival. 发动机故障的早期预警最终证明对机组幸存至关重要。"
+    }
+   ]
+  },
+  {
+   "en_html": "The Biden-era and Trump requests to Musk show a close relationship in which US administrations rely to an <mark class=\"voc\">unprecedented</mark> degree on a private-sector company to help <mark class=\"voc\">implement</mark> foreign policy. The recent limits on Ukraine, despite being a US ally, have also <mark class=\"voc\">rattled</mark> officials in Europe, some of whom argue that Europe must develop its own military satellite communications capabilities because no <mark class=\"voc\">viable</mark> short-term <mark class=\"voc\">alternative</mark> currently exists.",
+   "zh": "拜登时代与川总向马斯克提出的这些请求，折射出一种密切关系：在这种关系之中，美国历届政府对一家私营企业的倚重，达到了前所未有的程度——倚重它来帮助落实外交政策。而尽管身为美国盟友，乌克兰近期所受到的限制，同样令欧洲官员阵脚大乱；其中一些人主张，欧洲必须发展自己的军用卫星通信能力，因为短期内并不存在任何可行的替代选项。",
+   "notes": [
+    {
+     "w": "unprecedented",
+     "ipa": "/ʌnˈpresɪdentɪd/",
+     "pos": "adj.",
+     "en": "unprecedented (adj.) means never having happened or existed before",
+     "zh": "前所未有的，史无前例的",
+     "ctx": "precedent 是“走在前面的那件事”，也就是先例；un- 一加，就成了“没有先例”。作者用这个词给“依赖程度”定性——不是“很深”，是“深到没有过”。",
+     "ex1": "The scale of the outage was unprecedented for a peacetime network. 这次中断的规模，在和平时期的网络中是前所未有的。",
+     "ex2": "Lawyers warned the ruling would set a precedent for future cases. 律师警告说，这一裁决将为今后的案件开创先例。"
+    },
+    {
+     "w": "implement",
+     "ipa": "/ˈɪmplɪment/",
+     "pos": "v.",
+     "en": "implement (v.) means to put a plan, decision or policy into effect",
+     "zh": "执行，落实，施行",
+     "ctx": "名词 implement 是农具、器具，动词化就是“用工具把事办成”。全篇的追问都落在这个词上：外交政策本该由政府落实，这里却要靠一家公司来“落地”。",
+     "ex1": "The rules were agreed in 2021 but never fully implemented. 这些规则2021 年就谈妥了，却从未全面落实。",
+     "ex2": "A private contractor was brought in to implement the tracking system. 一家私营承包商被引入来落实这套追踪系统。"
+    },
+    {
+     "w": "rattle",
+     "ipa": "/ˈrætl/",
+     "pos": "v.",
+     "en": "rattle (v.) means to make someone nervous or anxious, shaking their composure",
+     "zh": "使慌乱，使动摇",
+     "ctx": "拟声词，本义“发出咯咯的响声”：rattlesnake 响尾蛇是一声警告，baby rattle 拨浪鼓是逗婴儿，用到人身上，就是“盒里的东西被摇散了架”。作者写欧洲官员 rattled，不是“担心”，是“被晃得站不稳”。",
+     "ex1": "The abrupt announcement rattled officials who had heard nothing beforehand. 那则突然的公告让事先毫无风声的官员们慌了神。",
+     "ex2": "Investors were rattled less by the loss than by the silence that followed. 比起亏损，投资者更被随之而来的沉默搞慌了。"
+    },
+    {
+     "w": "viable",
+     "ipa": "/ˈvaɪəbl/",
+     "pos": "adj.",
+     "en": "viable (adj.) means capable of working successfully or of surviving on its own",
+     "zh": "可行的，能长期活下去的",
+     "ctx": "最早是医学词，指胎儿能否成活。用在方案上就是“不光能想，还得能活”。作者用它配 alternative，等于说：别的路不是不好走，是根本活不下来。",
+     "ex1": "There is no commercially viable substitute for this component at present. 目前这一部件没有商业上可行的替代品。",
+     "ex2": "The plan is technically feasible, though not financially viable. 这个方案技术上做得到，但资金上撑不下去。"
+    },
+    {
+     "w": "alternative",
+     "ipa": "/ɔːlˈtɜːnətɪv/",
+     "pos": "n. & adj.",
+     "en": "an alternative (n.) is something you can choose instead of something else",
+     "zh": "替代方案，备选",
+     "ctx": "与 alter 同源，都出自拉丁语 alter“两者中的另一个”。全文最冷也最狠的一句是 no viable short-term alternative：它不是说这台机器好用，是说——除了它，你此刻没有别的门可以走。",
+     "ex1": "There is currently no alternative to this supplier in the domestic market. 目前国内市场上没有这家供应商的替代品。",
+     "ex2": "The committee examined three alternatives before voting in June. 委员会在六月表决前审查了三套备选方案。"
+    }
+   ]
+  },
+  {
+   "en_html": "Ukrainian President Volodymyr Zelenskiy said last week that his country’s <mark class=\"voc\">access to</mark> Starshield, the military version of the Starlink system, had been intentionally limited, <mark class=\"voc\">interfering with</mark> the performance of the country’s military drones. He also said the speeds were reduced for Starlink, which Ukraine uses for some military activities including <mark class=\"voc\">defense against</mark> Russian missile attacks.",
+   "zh": "乌克兰总统泽连斯基上周表示，乌克兰对“星盾”的使用权限遭到有意限制——“星盾”即星链系统的军用版本——这一限制干扰了该国军用无人机的作战表现。他还表示，星链的速度同样遭到下调；而星链被乌方用于部分军事行动，其中包括拦截俄方导弹袭击的防御作战。",
+   "notes": [
+    {
+     "w": "access to",
+     "ipa": "/ˈækses tə/",
+     "pos": "名词短语",
+     "en": "access to something means the right or opportunity to use it or reach it",
+     "zh": "……的使用权，准入",
+     "ctx": "access 出自拉丁语 accessus“走近、抵达”。全文的权力关系就写在这一个词上：access 不是“有没有信号”，而是“谁能被允许用”——它天生是一张许可证。",
+     "ex1": "Access to the encrypted channel is restricted to a small number of operators. 这条加密信道的使用权限仅限于少数操作员。",
+     "ex2": "The governor’s office controls who gets access to the archive. 州长办公室掌管着谁能获得这批档案的准入权。"
+    },
+    {
+     "w": "interfere with",
+     "ipa": "/ˌɪntəˈfɪə wɪð/",
+     "pos": "动词短语",
+     "en": "interfere with something means to prevent it from working properly or from developing normally",
+     "zh": "干扰，妨碍",
+     "ctx": "inter-（在……之间）＋ ferire（击打），原义“打到中间去”。作者选它而不用 affect，是因为它自带“外力插进来”的画面——不是自然变差，是被搅坏。",
+     "ex1": "Encryption makes it harder for outsiders to interfere with the link. 加密让外部更难干扰这条链路。",
+     "ex2": "Ministers denied any attempt to interfere in the neighbouring country’s affairs. 部长们否认曾试图干涉邻国事务。"
+    },
+    {
+     "w": "defense against",
+     "ipa": "/dɪˈfens əˈɡenst/",
+     "pos": "名词短语",
+     "en": "defense against something means action taken to protect yourself from an attack",
+     "zh": "对……的防御，抵御",
+     "ctx": "de-（去除）＋ fendere（击打），即“挡开”。注意作者的分寸：星链被用于 defense against Russian missile attacks——是“防御”，不是“打击”。同一个系统，用在哪一环，性质完全不同。",
+     "ex1": "The network is used for air raid warnings and defense against missile attacks. 该网络被用于空袭警报以及对导弹袭击的防御。",
+     "ex2": "Defenses against cheap drones cost far more than the drones themselves. 对抗廉价无人机的防御成本远高于无人机本身。"
+    }
+   ]
+  },
+  {
+   "en_html": "The White House, <mark class=\"voc\">contacted for comment</mark>, <mark class=\"voc\">referred</mark> Reuters to Trump’s remarks on Friday, when he said he had not spoken with Musk about Starlink access issues for Ukraine and that “if there is a problem, I’ll get it <mark class=\"voc\">straightened out</mark>.” SpaceX did not respond to requests for comment, although Musk said in a social media post earlier this week: “Starshield systems are <mark class=\"voc\">owned and controlled by</mark> the US government. Any limits on speed or usage are decided by the US military and <mark class=\"voc\">ultimately</mark> (by the president of the United States).”",
+   "zh": "白宫在被请求置评时，将路透社引向了川总上周五的一番表态——当时他表示，自己并未就乌克兰使用星链受限一事与马斯克交谈，并称“如果有问题，我会把它理顺的”。SpaceX 未回应多次置评请求，不过马斯克本周早些时候在社交媒体上发帖称：“星盾系统由美国政府拥有并控制。任何关于速度或用途的限制均由美军决定，并最终（由美国总统）决定。”",
+   "notes": [
+    {
+     "w": "contacted for comment",
+     "ipa": "/ˈkɒntæktɪd fə ˈkɒment/",
+     "pos": "短语",
+     "en": "contacted for comment is a standard news formula meaning the reporter reached out so the organisation could give its side",
+     "zh": "记者前去询问对方是否愿意回应",
+     "ctx": "一整套职业动作的简称。它出现在新闻里，本身就是一条信息：记者履行了“给对方一个说话机会”的义务，接下来对方说什么、或者不说，都成了报道的一部分。",
+     "ex1": "The company did not respond to repeated requests for comment. 该公司没有回应多次置评请求。",
+     "ex2": "Two of the departments could not be reached for comment before publication. 其中两个部门在刊发前未能联系上。"
+    },
+    {
+     "w": "refer sb to sth",
+     "ipa": "/rɪˈfɜː/",
+     "pos": "动词短语",
+     "en": "to refer someone to something means to point them towards another source instead of answering directly",
+     "zh": "让某人去看，把问题踢给某份材料",
+     "ctx": "re-（回）＋ ferre（拿），原义“拿回去、使人回去找”。白宫的动作就是这个词：不回答，把你领到总统的一句旧话前面——话是别人说的，责任也就跟着挪走了。",
+     "ex1": "The ministry referred questions to the statement it had issued in March. 该部把问题踢给了它三月份发表的那份声明。",
+     "ex2": "He refused to comment directly and referred us to his lawyer. 他拒绝直接置评，而让我们去找他的律师。"
+    },
+    {
+     "w": "straighten out",
+     "ipa": "/ˈstreɪtn aʊt/",
+     "pos": "动词短语",
+     "en": "straighten something out means to resolve a problem or remove the confusion in it",
+     "zh": "摆平，理顺，处理掉",
+     "ctx": "把打结的东西捋直。这是总统的原话：if there is a problem, I’ll get it straightened out——一个“捋直”的动作，轻巧得像在说一根线，而线那头是战场。",
+     "ex1": "Give me an hour and I’ll get it straightened out. 给我一小时，我把这事摆平。",
+     "ex2": "It took two weeks to straighten out the paperwork. 把这堆文书理顺花了两周时间。"
+    },
+    {
+     "w": "be owned and controlled by",
+     "ipa": "/bi əʊnd ənd kənˈtrəʊld baɪ/",
+     "pos": "短语",
+     "en": "to be owned and controlled by someone means to belong to them and to be operated under their authority",
+     "zh": "归……所有并由……控制",
+     "ctx": "这是马斯克的出场台词，请和第九段那份正式文件对着读：出事了往外推（这是你家的东西），上公文往里贴（我们密切配合）。两份材料，两个方向。",
+     "ex1": "The network is owned and controlled by the defence ministry, not by the contractor. 该网络由国防部拥有并控制，而非承包商。",
+     "ex2": "A wholly owned subsidiary need not disclose the parent’s accounts. 全资子公司无需披露母公司的账目。"
+    },
+    {
+     "w": "ultimately",
+     "ipa": "/ˈʌltɪmətli/",
+     "pos": "adv.",
+     "en": "ultimately (adv.) means finally, after everything else has been considered",
+     "zh": "最终，归根结底",
+     "ctx": "ultimus 是拉丁语的“最后的”，同一词根还养出了 ultimatum（最后通牒）。马斯克把“谁决定”一路往上推，推到总统——一个副词，把责任推到最高处，也推得最远。",
+     "ex1": "Responsibility rests ultimately with the cabinet, not with the agencies. 责任最终落在内阁身上，而不在各机构。",
+     "ex2": "Every escalation has an ultimatum hidden somewhere inside it. 每一次升级，里面都藏着一份最后通牒。"
+    }
+   ]
+  }
+ ]
+}

@@ -1,0 +1,515 @@
+{
+ "paragraphs": [
+  {
+   "en_html": "Also, <mark class=\"voc\">it doesn’t seem as if</mark> Musk spent long hours <mark class=\"voc\">conferring with</mark> lawyers and accountants planning for this gift. Rather, the <mark class=\"voc\">timing</mark> and Musk’s <mark class=\"voc\">track record</mark> suggest he saw SpaceX’s AI <mark class=\"voc\">rival</mark>, Anthropic PBC, making its own <mark class=\"voc\">charitable pledge</mark> on Sunday and felt the urge to <mark class=\"voc\">one-up</mark> it. The maker of Claude vowed to donate 5% of its shares, <mark class=\"voc\">potentially</mark> worth $75 billion (if the company is worth $1.5 trillion), to a fund that will benefit the “<mark class=\"voc\">public good</mark>,” including AI’s <mark class=\"voc\">destruction</mark> of jobs that kids want.",
+   "zh": "再者，也看不出马斯克曾花上大把时间，与律师、会计细细磋商这份礼物该如何落地。恰恰相反——是这个时机，再加上马斯克一贯的做派，让人觉得：他是看见SpaceX 在AI 领域的对手Anthropic 于周日作出了自己的慈善承诺，这才心头一动，誓要压对方一头。那家Claude 的开发商誓言捐出公司5% 的股份，或值750 亿美元（倘若公司估值达1.5 万亿美元），投入一只旨在增进“公共利益”的基金——而这“公共利益”之中，竟还包括人工智能对孩子们心仪工作的摧毁。",
+   "notes": [
+    {
+     "w": "it doesn’t seem as if",
+     "ipa": "/ɪt dʌznt siːm əz ɪf/",
+     "pos": "句式",
+     "en": "it doesn’t seem as if... is a hedged way of saying “I don’t think...” based on appearances",
+     "zh": "看不出……、似乎并非……",
+     "ctx": "作者的安全刀——不说“他没有”，只说“看不出他有”；读外刊时，这类句式就是作者的免责声明。",
+     "ex1": "It doesn’t seem as if any lawyers were involved. 看不出有任何律师参与过。",
+     "ex2": "It doesn’t seem as if the details were ever worked out. 看不出细节曾被敲定过。"
+    },
+    {
+     "w": "confer with",
+     "ipa": "/kənˈfɜː wɪð/",
+     "pos": "v.",
+     "en": "confer with someone means to discuss something seriously and formally in order to get advice or make a decision",
+     "zh": "磋商、请教",
+     "ctx": "这个词一出现，就把“认真筹划”钉死了——说某人没跟律师 confer，等于说他根本没当回事。",
+     "ex1": "He does not appear to have conferred with lawyers or accountants. 他似乎没有与律师或会计师磋商过。",
+     "ex2": "The board conferred with outside advisers for three days. 董事会与外部顾问磋商了三天。"
+    },
+    {
+     "w": "timing",
+     "ipa": "/ˈtaɪmɪŋ/",
+     "pos": "n.",
+     "en": "timing is the choice of when something happens, especially when it is significant",
+     "zh": "时机、时间点",
+     "ctx": "把“什么时候说的”当证据用——人家周日宣布，他几小时后跟进，时间点本身就成了动机。",
+     "ex1": "The timing suggests he was reacting, not planning. 这个时间点说明他是在反应，不是在计划。",
+     "ex2": "The timing was not an accident. 时间点不是巧合。"
+    },
+    {
+     "w": "track record",
+     "ipa": "/ˈtræk ˌrekɔːd/",
+     "pos": "n.",
+     "en": "a track record is the past performance or achievements of a person or organization",
+     "zh": "过往记录、一贯表现",
+     "ctx": "源自赛马跑道（track 跑道＋record 记录），指有据可查的一贯表现；与第 7 段的 the odds 同出赛马场，串起来记。",
+     "ex1": "His track record on delivery dates is not reassuring. 他在交付时间上的过往记录不太让人放心。",
+     "ex2": "The company has a strong track record of meeting targets. 这家公司在达标方面一向表现良好。"
+    },
+    {
+     "w": "rival",
+     "ipa": "/ˈraɪvl/",
+     "pos": "n.",
+     "en": "a rival is a person, company or thing competing with another for the same thing",
+     "zh": "竞争对手",
+     "ctx": "SpaceX 的 AI 对手 Anthropic——注意 rival 还可作形容词（rival companies）和动词（rival sth 比得上）。",
+     "ex1": "He reacted within hours of his rival’s announcement. 对手宣布后不到几小时他就做出了回应。",
+     "ex2": "The two companies are rivals in almost every line of business. 这两家公司几乎在每条业务线上都是对手。"
+    },
+    {
+     "w": "charitable pledge",
+     "ipa": "/ˈtʃærətəbl pledʒ/",
+     "pos": "n.",
+     "en": "a charitable pledge is a formal commitment to give money or assets to charity",
+     "zh": "慈善承诺",
+     "ctx": "两家用同一个词，是并置而不是对比——读者自然会拿它们互相照。",
+     "ex1": "Both companies used the language of a charitable pledge. 两家公司都用了“慈善承诺”这套说法。",
+     "ex2": "A charitable pledge is not the same as a charitable payment. 慈善承诺不等于慈善付款。"
+    },
+    {
+     "w": "one-up",
+     "ipa": "/ˌwʌn ˈʌp/",
+     "pos": "v.",
+     "en": "to one-up someone means to do slightly better than them, or to outdo them in order to look superior",
+     "zh": "压某人一头、胜过一筹",
+     "ctx": "词源彩蛋——来自 1952 年英国作家 Stephen Potter 的书名《One-Upmanship》，核心一句 if you’re not one-up, you’re one-down。",
+     "ex1": "He was not giving; he was trying to one-up a rival. 他不是在给予，他是在试图压对手一头。",
+     "ex2": "Every announcement was an attempt to one-up the last one. 每一次发布都是想压过上一次。"
+    },
+    {
+     "w": "potentially",
+     "ipa": "/pəˈtenʃəli/",
+     "pos": "adv.",
+     "en": "potentially (adv.) means possibly in the future, or capable of becoming",
+     "zh": "潜在地、可能地",
+     "ctx": "数字前的保命副词——所有“值多少钱”的估算，前面都得挂一个 potentially。",
+     "ex1": "The shares are potentially worth $75 billion. 这些股份潜在价值可达750亿美元。",
+     "ex2": "It is a potentially costly mistake. 这可能是一个代价高昂的错误。"
+    },
+    {
+     "w": "“public good”",
+     "ipa": "/ˈpʌblɪk ɡʊd/",
+     "pos": "n.（带引号）",
+     "en": "the public good means the benefit or well-being of society as a whole",
+     "zh": "公共利益",
+     "ctx": "引号第四次——前三次打在一边（马斯克的话），这次打在另一边：只打一边的引号是站队，两边都打的才是评论。",
+     "ex1": "The fund is said to benefit the “public good”. 据说该基金将造福“公共利益”。",
+     "ex2": "A donation is not automatically the public good. 一笔捐赠并不自动等于公共利益。"
+    },
+    {
+     "w": "destruction",
+     "ipa": "/dɪˈstrʌkʃn/",
+     "pos": "n.",
+     "en": "destruction is the act of destroying something, or the state of being destroyed",
+     "zh": "摧毁、毁灭",
+     "ctx": "最狠的一刀藏在介词里——benefit... including... destruction of jobs：“造福”的宾语里，居然包含了一个“摧毁”。",
+     "ex1": "The same fund is meant to address the destruction of entry-level jobs. 同一个基金还要应对入门级岗位被摧毁的问题。",
+     "ex2": "They are profiting from the disruption and paying for the destruction. 他们从颠覆中获利，又为毁灭买单。"
+    }
+   ]
+  },
+  {
+   "en_html": "Musk replied to Anthropic’s X post making this announcement with a <mark class=\"voc\">curt</mark> “I recommend giving the shares directly to the public,” suggesting he’s just better at doing charity. His <mark class=\"voc\">detail-free</mark> promise of one share per child followed hours later. How will children receive these shares? Nobody knows, and <mark class=\"voc\">the odds are very good that</mark> nobody will ever have to <mark class=\"voc\">find out</mark>.",
+   "zh": "马斯克对Anthropic 那条宣布此事的X 帖子，回了一句简短而生硬的话：“我建议直接把股份交给公众。”——言下之意，他才是更懂慈善的那一个。他那句“每个孩子一股”、全无细节的承诺，几个小时之后便接踵而至。孩子们究竟要如何拿到这些股份？无人知晓；而且极有可能——永远也不会有人需要去弄明白。",
+   "notes": [
+    {
+     "w": "curt",
+     "ipa": "/kɜːt/",
+     "pos": "adj.",
+     "en": "curt (adj.) means using very few words in a way that seems rude or unfriendly",
+     "zh": "简短而生硬的",
+     "ctx": "词源是拉丁 curtus（被剪短的），与 short／share／skirt 同根；它 14 世纪进英文时还是褒义“简短精炼”，1831 年才长出这层贬义。",
+     "ex1": "He gave a curt reply and moved on. 他生硬地回了一句，就过去了。",
+     "ex2": "The statement was curt enough to sound like a dismissal. 那份声明短硬得像是在打发人。"
+    },
+    {
+     "w": "detail-free",
+     "ipa": "/ˈdiːteɪl friː/",
+     "pos": "adj.",
+     "en": "detail-free (adj.) means without any details; the suffix -free means “without”",
+     "zh": "没有细节的",
+     "ctx": "这是第 6 段“看不出他跟律师开过会”的物证——怀疑到证据，闭环。",
+     "ex1": "What followed was a detail-free promise. 接下来是一个毫无细节的承诺。",
+     "ex2": "The plan was detail-free, and everyone noticed. 方案一个细节都没有，所有人都看出来了。"
+    },
+    {
+     "w": "the odds are that...",
+     "ipa": "/ðə ɒdz ɑː/",
+     "pos": "句式",
+     "en": "the odds are that... means it is very likely that...",
+     "zh": "……的可能性很大",
+     "ctx": "来自赛马赔率（odds），与第 6 段的 track record 同出一源，比 It is likely that 地道得多。",
+     "ex1": "The odds are very good that nobody will ever find out. 可能性极大的是：永远没人需要弄清楚。",
+     "ex2": "The odds are that the plan will never be tested. 这个方案很可能永远用不上。"
+    },
+    {
+     "w": "find out",
+     "ipa": "/faɪnd aʊt/",
+     "pos": "短语v.",
+     "en": "find out means to discover a fact or learn what happened",
+     "zh": "查明、弄清楚",
+     "ctx": "全文最重要的扣子——第 7 段的 find out 是技术问题（股票怎么发），第 10 段的 finding out 是人生问题，作者把同一个动词从技术层面升级到了命运层面。",
+     "ex1": "How the children will receive the shares, nobody knows — and nobody may ever find out. 孩子们怎么拿到股票，无人知晓，也可能永远不必知晓。",
+     "ex2": "You will find out soon enough whether it was real. 它是不是真的，你很快就会弄清楚。"
+    }
+   ]
+  },
+  {
+   "en_html": "Anthropic’s <mark class=\"voc\">offer</mark> seems to be an <mark class=\"voc\">olive branch</mark> to AI’s large and growing <mark class=\"voc\">contingent</mark> of haters and skeptics, including most of the American public, <mark class=\"voc\">ahead of</mark> its IPO. Maybe it will also <mark class=\"voc\">deflect</mark> some of the pressure to <mark class=\"voc\">impose</mark> actual government regulation of the technology.",
+   "zh": "Anthropic 此番表示，看起来像是向人工智能那支人数众多、且仍在不断壮大的厌恶者与怀疑者队伍递上了一根橄榄枝——这队伍之中，包括了大部分美国公众——而这一举动，恰在它上市之前。或许，它还能拨开几分压力——那种要求对这项技术施加真正意义上政府监管的压力。",
+   "notes": [
+    {
+     "w": "offer",
+     "ipa": "/ˈɒfə(r)/",
+     "pos": "n.",
+     "en": "an offer is a statement that you are willing to give or do something; unlike a pledge, it carries no binding obligation",
+     "zh": "提议、表示",
+     "ctx": "从 pledge 降级到 offer，是作者最阴的一刀——全文“给东西”的说法排下来：pledged／vowing → charitable pledge → offer；pledge 要被追着要，offer 什么都不用负。",
+     "ex1": "He called it an offer, not a pledge. 他管这叫提议，不叫承诺。",
+     "ex2": "An offer can be withdrawn; a pledge cannot. 提议可以收回，承诺不行。"
+    },
+    {
+     "w": "olive branch",
+     "ipa": "/ˈɒlɪv brɑːntʃ/",
+     "pos": "n.",
+     "en": "an olive branch is a symbol of peace, or a gesture intended to end a conflict",
+     "zh": "橄榄枝",
+     "ctx": "关键不在“和平”，而在谁递——古罗马的规矩是战败一方举着橄榄枝去向胜利者求和；递橄榄枝从来不是善良，是算了一下发现打下去不划算。",
+     "ex1": "The donation looks less like charity than an olive branch. 这笔捐赠看起来与其说是慈善，不如说是一根橄榄枝。",
+     "ex2": "They held out an olive branch just before the hearings began. 就在听证会开始前，他们递出了橄榄枝。"
+    },
+    {
+     "w": "contingent",
+     "ipa": "/kənˈtɪndʒənt/",
+     "pos": "n.",
+     "en": "a contingent is a group of people sharing a particular view or characteristic; as an adjective it means dependent on something",
+     "zh": "分遣队、代表团；取决于……的",
+     "ctx": "军事词大词小用——把“不满 AI 的人”说成一支有编制、还在扩编的队伍。",
+     "ex1": "A large and growing contingent of skeptics is watching closely. 一支规模可观且不断扩大的怀疑者队伍正密切注视着。",
+     "ex2": "The deal is contingent on regulatory approval. 这笔交易取决于监管部门的批准。"
+    },
+    {
+     "w": "ahead of",
+     "ipa": "/əˈhed əv/",
+     "pos": "prep.",
+     "en": "ahead of means before an event or further advanced than someone",
+     "zh": "在……之前、领先于",
+     "ctx": "动作节奏由上市时间倒推——ahead of its IPO，整件事的时间点是被招股日倒着安排的。",
+     "ex1": "The pledge came just ahead of its listing. 这个承诺刚好出现在它上市之前。",
+     "ex2": "Companies often tidy up their image ahead of an IPO. 公司在上市前常常会收拾一下形象。"
+    },
+    {
+     "w": "deflect",
+     "ipa": "/dɪˈflekt/",
+     "pos": "v.",
+     "en": "deflect means to change the direction of something, or to redirect criticism or pressure away from yourself",
+     "zh": "挡开、拨到一边",
+     "ctx": "问题还在，只是没打中我——与 reduce／eliminate／address 相比，deflect 是唯一一个“不解决问题、只改变受力方向”的选项。",
+     "ex1": "The pledge may deflect some of the pressure to regulate. 这项承诺或许能分流一部分监管压力。",
+     "ex2": "He deflected every question about delivery dates. 他把每一个关于交付时间的问题都拨开了。"
+    },
+    {
+     "w": "impose",
+     "ipa": "/ɪmˈpəʊz/",
+     "pos": "v.",
+     "en": "impose means to officially force a rule, tax or punishment to be obeyed",
+     "zh": "强制推行、施加",
+     "ctx": "主语是有权力的一方——impose regulation／tax／sanctions；作者用 actual government regulation，潜台词是“现有的行业自律都不算数”。",
+     "ex1": "Governments may yet impose actual regulation. 各国政府仍有可能实施真正的监管。",
+     "ex2": "The regulator imposed a fine and new reporting duties. 监管机构处以罚款，并加了新的报告义务。"
+    }
+   ]
+  },
+  {
+   "en_html": "Musk <mark class=\"voc\">could use</mark> some good <mark class=\"voc\">publicity</mark>, too, and not just because SpaceX is a growing AI giant. He has <mark class=\"voc\">embraced</mark> White nationalism and let SpaceX’s Starlink service <mark class=\"voc\">undermine</mark> Ukraine’s effort to defend itself from Russia’s invasion. He <mark class=\"voc\">manned</mark> the Department of Government Efficiency that <mark class=\"voc\">slashed</mark> government jobs and offices <mark class=\"voc\">without care for</mark> the <mark class=\"voc\">repercussions</mark>, including the 700,000 people who have already died because of DOGE’s <mark class=\"voc\">assault</mark> on USAID.",
+   "zh": "马斯克同样用得着一些正面的名声，而这并不仅仅因为SpaceX 正成长为一家人工智能巨头。依作者之见，他主动拥抱了白人至上主义，并听任SpaceX 旗下“星链”服务削弱乌克兰抵御俄罗斯入侵的努力。他曾在“政府效率部”任职，该部门大幅裁撤政府岗位与机构，全然不计后果——其中包括那七十万条已经逝去的生命，作者认为这与该部门对美国国际开发署的冲击有关。",
+   "notes": [
+    {
+     "w": "could use",
+     "ipa": "/kʊd juːz/",
+     "pos": "情态短语",
+     "en": "could use sth means to need or want something, expressed mildly",
+     "zh": "用得着、需要",
+     "ctx": "最有教养的一种“我要”——不说“他需要洗白”，而说“他用得上一点好名声”，委婉里藏着讽刺。",
+     "ex1": "He could use some good publicity right now. 他眼下正用得上一些好名声。",
+     "ex2": "I could use a hand with these figures. 这些数字我需要人搭把手。"
+    },
+    {
+     "w": "publicity",
+     "ipa": "/pʌbˈlɪsəti/",
+     "pos": "n.",
+     "en": "publicity is attention that someone or something gets from the media and the public",
+     "zh": "公众关注、曝光度",
+     "ctx": "good publicity 是好名声，bad publicity 是负面曝光——作者用 good，等于说“他缺的是形象”。",
+     "ex1": "The timing was perfect for positive publicity. 这个时间点对正面曝光再合适不过。",
+     "ex2": "There is no such thing as bad publicity, the old showman said. “曝光没有坏的那种”，那位老艺人说过。"
+    },
+    {
+     "w": "embrace",
+     "ipa": "/ɪmˈbreɪs/",
+     "pos": "v.",
+     "en": "embrace (v.) means to accept or support something eagerly and publicly",
+     "zh": "拥抱；欣然接受、拥护",
+     "ctx": "张开双臂＝主动，强度远高于 accept／tolerate——这是五个动词重量线的起点：embrace → undermine → man → slash → assault。",
+     "ex1": "Critics say he has embraced ideas that alarm advertisers. 批评者称，他拥护了一些令广告主警惕的主张。",
+     "ex2": "The party embraced the policy it once rejected. 该党欣然接受了它曾经反对的政策。"
+    },
+    {
+     "w": "undermine",
+     "ipa": "/ˌʌndəˈmaɪn/",
+     "pos": "v.",
+     "en": "undermine means to weaken something gradually, or to make it less effective",
+     "zh": "从底下挖空、逐渐削弱",
+     "ctx": "不是正面打，是从地基把土一点点掏走；而作者用 let... undermine——不是“下令”，是“没拦”，一个 let 把“故意”降成“放任”，责任却留下了。",
+     "ex1": "Officials said the service restrictions undermined the defence effort. 官员称，这些服务限制削弱了防御行动。",
+     "ex2": "A single leak can undermine years of trust. 一次泄露就能掏空多年的信任。"
+    },
+    {
+     "w": "man",
+     "ipa": "/mæn/",
+     "pos": "v.",
+     "en": "man (v.) means to work at or operate a place, vehicle or position",
+     "zh": "在岗位工作、值守",
+     "ctx": "老派、硬邦邦——“一个人站上岗位”的画面；因带性别色彩，现代职场英语改用 staff／operate／run，但在军队、航天、新闻标题里还活着。",
+     "ex1": "He manned the office that cut thousands of jobs. 他主持了那个裁掉数千岗位的部门。",
+     "ex2": "The hotline is manned 24 hours a day. 这条热线全天有人值守。"
+    },
+    {
+     "w": "slash",
+     "ipa": "/slæʃ/",
+     "pos": "v.",
+     "en": "slash means to cut something drastically, or to cut with a sweeping stroke",
+     "zh": "猛砍、大幅削减",
+     "ctx": "回扣第 3 段 shave——同一篇文章、两个“减少”：shave 是刮胡子，掉的是胡茬不是肉；slash 是抡刀砍，重量差就是作者的态度差。",
+     "ex1": "The department slashed jobs without care for the consequences. 那个部门大举裁撤岗位，全然不顾后果。",
+     "ex2": "They slashed the budget by half in a single meeting. 他们一次会议就砍掉了一半预算。"
+    },
+    {
+     "w": "without care for",
+     "ipa": "/wɪˈðaʊt keə fɔː/",
+     "pos": "短语",
+     "en": "without care for means paying no attention to, or not worrying about",
+     "zh": "不顾及、不放在心上",
+     "ctx": "加在后果前，等于给行为定性“不计后果”——作者的判断不写在形容词里，写在这个介词短语里。",
+     "ex1": "They moved fast, without care for the repercussions. 他们推进得很快，全然不顾连锁后果。",
+     "ex2": "He acted without care for who would pay the price. 他行事完全不在乎谁来买单。"
+    },
+    {
+     "w": "repercussion",
+     "ipa": "/ˌriːpəˈkʌʃn/",
+     "pos": "n.（常复数）",
+     "en": "repercussions are the indirect and often unexpected consequences of an action",
+     "zh": "连锁反应、余波",
+     "ctx": "辨析：consequence 泛指后果／aftermath 多指灾难余波／ramification 分支化的复杂影响／repercussion 指间接、连锁、当初没想到的，常作复数。",
+     "ex1": "The cuts had repercussions nobody had predicted. 那些裁撤带来了谁也没料到的连锁后果。",
+     "ex2": "Any misstep now could have global repercussions. 如今任何一步失误都可能引发全球性余波。"
+    },
+    {
+     "w": "assault",
+     "ipa": "/əˈsɔːlt/",
+     "pos": "n.",
+     "en": "an assault is a strong attack, physical or figurative",
+     "zh": "攻击、冲击",
+     "ctx": "五个动词里最重的一个——embrace → undermine → man → slash → assault，重量一路上升，到此封顶。",
+     "ex1": "Critics described it as an assault on the agency. 批评者称那是对该机构的一次冲击。",
+     "ex2": "The industry has been under assault from regulators all year. 整个行业一整年都处在监管的冲击之下。"
+    }
+   ]
+  },
+  {
+   "en_html": "His behavior affects everyone <mark class=\"voc\">invested in</mark> his companies, <mark class=\"voc\">for better or worse</mark>, including those <mark class=\"voc\">theoretical</mark> 72 million children. For a long time, “worse” has been a <mark class=\"voc\">no-show</mark>; his fans have helped Tesla’s stock price <mark class=\"voc\">defy</mark> traditional market logic for years. How long can the <mark class=\"voc\">magic</mark> last? As tough as children <mark class=\"voc\">have it</mark> these days, with the climate <mark class=\"voc\">in chaos</mark>, war in Europe and the Middle East and AI threatening to take all of the jobs, do they really need the <mark class=\"voc\">headache</mark> of <mark class=\"voc\">finding out</mark>?",
+   "zh": "他的行为，牵动着每一个投身于他旗下公司的人——无论好坏——这其中包括那七千二百万个“仅存在于理论上”的孩子。长久以来，“坏的那一面”始终不曾露面；他的拥趸们，多年来一直托举着特斯拉的股价，使之违背了传统的市场逻辑。这魔法，还能撑多久？如今孩子们的日子本已足够艰难——气候陷入混沌，战火燃于欧洲与中东，人工智能还在威胁着要将所有饭碗一并夺走——他们当真还需要再多一件劳神的麻烦，去弄清这一切吗？",
+   "notes": [
+    {
+     "w": "invested in",
+     "ipa": "/ɪnˈvestɪd ɪn/",
+     "pos": "分词定语",
+     "en": "invested in means having put money into; also, having put emotion or effort into",
+     "zh": "投资的；投入（感情、精力）的",
+     "ctx": "双关——投了钱的人，也是投了心的人，everyone invested in his companies 里两个意思同时在场。",
+     "ex1": "Everyone invested in his companies is along for the ride. 所有投了他公司的人，都被绑在这趟车上。",
+     "ex2": "By then she was emotionally invested in the outcome. 到那时，她已经在情感上押注了这个结果。"
+    },
+    {
+     "w": "for better or worse",
+     "ipa": "/fɔː ˈbetə ɔː wɜːs/",
+     "pos": "短语",
+     "en": "for better or worse means whatever happens, whether the result is good or bad",
+     "zh": "无论好坏、风雨同舟",
+     "ctx": "出自 1662 年《公祷书》婚礼誓词——作者把一句“不管你变成什么样我都不走”的婚誓，安在了投资者身上：这不是投资，这是婚姻。",
+     "ex1": "Shareholders are in it for better or worse. 股东们是风雨同舟地绑在一起了。",
+     "ex2": "Marriage, like investing, is a promise made for better or worse. 婚姻和投资一样，是一个无论好坏都许下的承诺。"
+    },
+    {
+     "w": "theoretical",
+     "ipa": "/ˌθɪəˈretɪkl/",
+     "pos": "adj.",
+     "en": "theoretical means existing only in theory, not in practice or reality",
+     "zh": "理论上的、不实际的",
+     "ctx": "一个形容词给全篇定性——those theoretical 72 million children：他们只存在于纸面、存在于他的推文里。",
+     "ex1": "The 72 million children remain, for now, entirely theoretical. 那7200万孩子目前仍完全只存在于理论上。",
+     "ex2": "The benefit is theoretical; the cost is not. 收益是理论上的，成本不是。"
+    },
+    {
+     "w": "no-show",
+     "ipa": "/ˈnəʊ ʃəʊ/",
+     "pos": "n.",
+     "en": "a no-show is someone or something that fails to appear when expected",
+     "zh": "该来却没来的（人/事）",
+     "ctx": "源自酒店与航空业——订了房订了座却没出现，账仍照记；“worse”一直没出现，但作者暗示它迟早要来。",
+     "ex1": "The downside has been a no-show for years. 那个下行面已经缺席好几年了。",
+     "ex2": "Two of the speakers were no-shows. 有两位发言人根本没露面。"
+    },
+    {
+     "w": "defy",
+     "ipa": "/dɪˈfaɪ/",
+     "pos": "v.",
+     "en": "defy means to refuse to obey, or to be impossible to explain or account for",
+     "zh": "违抗、顶住",
+     "ctx": "defy market logic＝市场说该跌了，它不跌——它背离了所有人信奉的那套规矩（de- 背离＋fid 信仰）。",
+     "ex1": "The stock has defied market logic for years. 这只股票多年来一直顶着市场逻辑走。",
+     "ex2": "His popularity defies explanation by the usual measures. 他的受欢迎程度无法用常规指标解释。"
+    },
+    {
+     "w": "magic",
+     "ipa": "/ˈmædʒɪk/",
+     "pos": "n.",
+     "en": "magic is the power of apparently influencing events by supernatural means; figuratively, an inexplicable quality",
+     "zh": "魔法、魔力",
+     "ctx": "金融市场里没有这个词——那个领域说的是 fundamentals／valuation／cash flow；作者用 magic，就是把“投资者的信念”定性成“迷信”，而魔法是会失效的，还回扣第 5 段的 science fiction。",
+     "ex1": "How long can the magic last? 这魔法还能撑多久？",
+     "ex2": "When the magic fades, only the numbers remain. 魔法褪去时，剩下的只有数字。"
+    },
+    {
+     "w": "have it tough",
+     "ipa": "/hæv ɪt tʌf/",
+     "pos": "固定表达",
+     "en": "have it tough means to be in a difficult situation",
+     "zh": "日子不好过",
+     "ctx": "对应 have it easy（日子轻松）／have it good（过得不错）；这个 have it ＋形容词的结构很口语，很地道。",
+     "ex1": "Children have it tough enough already. 孩子们的日子已经够难了。",
+     "ex2": "You have it easy compared with the last generation. 比起上一代，你们的日子轻松多了。"
+    },
+    {
+     "w": "in chaos",
+     "ipa": "/ɪn ˈkeɪɒs/",
+     "pos": "短语",
+     "en": "in chaos means in a state of complete disorder",
+     "zh": "处于混乱中",
+     "ctx": "chaos 源自希腊语“鸿蒙、虚空”，本义比“乱”更原始；with the climate in chaos 是短—短—长累积式节奏的第一段。",
+     "ex1": "The country was in chaos within a week. 不出一周，该国就陷入混乱。",
+     "ex2": "With the climate in chaos, long-term planning is impossible. 气候一片混乱，长期规划无从谈起。"
+    },
+    {
+     "w": "headache",
+     "ipa": "/ˈhedeɪk/",
+     "pos": "n.",
+     "en": "a headache is a pain in the head; figuratively, something that causes worry or trouble",
+     "zh": "头痛；麻烦事",
+     "ctx": "往小了说＝understatement，回扣第 1 段的 a bit stagnant——作者不说“灾难”，说“头疼”，轻描淡写反而更冷。",
+     "ex1": "Do they really need the headache of finding out? 他们真的需要这份弄清楚之后才有的麻烦吗？",
+     "ex2": "The paperwork alone is a headache. 光是那些文书工作就够让人头疼了。"
+    },
+    {
+     "w": "find out",
+     "ipa": "/faɪnd aʊt/",
+     "pos": "短语v.",
+     "en": "find out here means to discover how something turns out",
+     "zh": "弄清楚、搞明白",
+     "ctx": "第 7 段扣子的兑现处——那里是技术问题（股票怎么发），这里是人生问题：发现他们持有的这支股票，要跟着这个人一起颠簸。",
+     "ex1": "The children would have to live with finding out. 孩子们将不得不面对“弄清楚”这件事本身。",
+     "ex2": "Some things you find out only when it is too late. 有些事等你弄清楚时，已经太迟了。"
+    }
+   ]
+  }
+ ],
+ "proper": [
+  {
+   "name": "SpaceX",
+   "def": "马斯克 2002 年创办的火箭与卫星公司，主要业务包括猎鹰系列火箭、星链卫星互联网与星舰。（据本文设定与公开报道）2026 年 6 月完成 IPO，成为史上规模最大的上市之一。<br>本文中的意思：被送出去的那“一股”的发行方；它既是承诺的标的，也是马斯克财富与权力的主要来源。文章提到它手握数十亿美元美国政府合同。"
+  },
+  {
+   "name": "Elon Musk / Tesla",
+   "def": "特斯拉 CEO、SpaceX CEO，2018 年因“资金已到位”推文被美国证券交易委员会起诉证券欺诈，最终和解：辞去董事长职务、三年内不得再任、公司与本人各罚 2000 万美元，并设立专门机制监督其对外发言。<br>本文中的意思：全文的靶子。文章要拆的不是他送了多少钱，而是他“说话”这件事本身。"
+  },
+  {
+   "name": "Henry Ford / 亨利·福特",
+   "def": "福特汽车创始人，流水线生产的推广者，被视为现代工业的象征；晚年通过自办报纸《迪尔伯恩独立报》连年散布反犹内容，发行量一度接近百万，1927 年被诉讼逼迫公开道歉（由律师代笔），1938 年接受纳粹德国授予的勋章。福特汽车的 B 类（超级投票权）股份结构设立于 1956 年。<br>本文中的意思：“从传奇滑向争议人物”的参照物。a modern-day Henry Ford, in the worst possible way——用的正是福特的下半场。"
+  },
+  {
+   "name": "Tony Stark / 钢铁侠",
+   "def": "漫威角色，亿万富翁发明家。据公开报道，小罗伯特·唐尼 2007 年曾专程参观 SpaceX 工厂为角色取经，并在 2010 年《钢铁侠 2》中客串；编剧后来证实马斯克是角色参考之一。2024 年唐尼曾公开回应马斯克“cosplay 钢铁侠”的说法。<br>本文中的意思：马斯克形象的起点。real-life Tony Stark → modern-day Henry Ford，是文章给这十年画的那条下坡线。"
+  },
+  {
+   "name": "X（formerly Twitter）",
+   "def": "原推特，2022 年被马斯克收购后更名 X。<br>本文中的意思：“承诺发布在哪儿”本身就是论据。作者指出这条承诺发在他自己的平台上——那里是他过往大量未兑现诺言的发布地。"
+  },
+  {
+   "name": "SEC（美国证券交易委员会）",
+   "def": "U.S. Securities and Exchange Commission，美国联邦证券监管机构，负责市场监管与信息披露执法。<br>本文中的意思：“承诺会有后果”的证明。2018 年那桩“资金已到位”案，正是 SEC 起诉并以和解收场的。"
+  },
+  {
+   "name": "Anthropic PBC / Claude",
+   "def": "开发 Claude 的 AI 公司（公益公司 PBC 架构）。据公开报道，它在本文所述时间前不久宣布将 5% 股份捐入一个面向公共利益的基金。<br>本文中的意思：全文的对照组。它的公告是马斯克那条承诺的直接触发器；作者把它与马斯克并置，两边都拆。（本笔记对其动机只作语言与逻辑层面的梳理，不作立场评价。）"
+  },
+  {
+   "name": "DOGE（政府效率部）",
+   "def": "Department of Government Efficiency 的缩写，马斯克曾主导的机构，大幅裁撤联邦机构与岗位。<br>本文中的意思：作者所列争议之一。文中关于其后果的数字属作者引用的外部估算，讲解与阅读时须保留“作者称”的归属。"
+  },
+  {
+   "name": "Starlink（星链）",
+   "def": "SpaceX 旗下的低轨卫星互联网服务。<br>本文中的意思：作者所列争议之一——文章称其服务限制曾在战场上产生影响（作者观点，保留归属）。"
+  },
+  {
+   "name": "USAID（美国国际开发署）",
+   "def": "美国联邦对外援助机构。<br>本文中的意思：文中提到的受裁撤影响的机构；相关数字为作者引用的外部估算，不是本笔记或讲解的结论。"
+  },
+  {
+   "name": "Bloomberg Opinion（彭博观点）",
+   "def": "彭博社的评论版块，刊登署名评论员文章，属 opinion 而非 news。<br>本文中的意思：决定读者该怎么读这篇文章——评论版允许作者直陈观点，所以文中的判断句都应理解为“作者认为”。"
+  },
+  {
+   "name": "dual-class shares（双层股权）",
+   "def": "同一家公司发行 A、B（甚至 C）类股票，投票权不同。Alphabet（2004）、Meta（2012）均采用；Snap 2017 年上市时向公众发行零投票权股票，同年标普宣布不再将多重股权公司纳入部分指数。<br>本文中的意思：42% 股份 → 82% 投票权的秘密。因为存在超级投票权股，捐出股份几乎不动控制权。"
+  },
+  {
+   "name": "UGMA / UTMA（未成年人托管账户）",
+   "def": "美国《未成年人统一赠与法》与《未成年人统一转移法》设立的托管账户制度。未成年人在多数州不能自行开户持股，须由成年代管人（负 fiduciary 受托责任）代持，需提供社安号，赠与不可撤销，成年移交年龄各州不同（多为 18 或 21 岁），并涉及“儿童税”规则。<br>本文中的意思：解释作者那句“孩子们怎么拿到股票”为什么是致命一问——开户、年度申报、成年过户的行政成本，可能超过一股本身的价值，再乘以 7200 万。"
+  },
+  {
+   "name": "The Incredible Journey（1963）",
+   "def": "迪士尼电影，改编自 Sheila Burnford 1961 年小说，讲三只宠物穿越加拿大荒野约 300 英里回家；1993 年重拍为《Homeward Bound》。<br>本文中的意思：作者拿来类比“车自己横穿大陆来找你”——把动物本能与自动驾驶放进同一句，明着告诉你这跟童话是一伙的。"
+  },
+  {
+   "name": "Olive Branch Petition（橄榄枝请愿书，1775）",
+   "def": "北美十三州尚未决定独立时向英王乔治三世递交的求和请愿书。英王未予理会，并宣布殖民地处于叛乱状态；一年后，《独立宣言》发表。<br>本文中的意思：“递橄榄枝的人是想停战的那一方”——这是理解第 8 段 olive branch 的关键历史注脚。"
+  },
+  {
+   "name": "Book of Common Prayer（公祷书，1662）",
+   "def": "英国国教会礼仪用书，其中的婚礼誓词是英文世界最著名的誓词文本：“for better for worse, for richer for poorer, in sickness and in health... till death us do part”。<br>本文中的意思：第 10 段 for better or worse 的出处。作者把一句婚誓安在了投资者身上。"
+  },
+  {
+   "name": "trillionaire（万亿富翁）",
+   "def": "trillionaire 一词据词典记录早在 19 世纪就已出现，但长期无人达标。据公开报道，2026 年 6 月 SpaceX 上市后，马斯克身家一度突破 1 万亿美元，成为首位万亿富翁，随后股价回落。<br>本文中的意思：near-trillionaire 中 near- 这五个字母的真实分量——他上去过，没守住。"
+  }
+ ],
+ "sources_note": "资料核对：以上背景依据文章内容与彭博观点（Bloomberg Opinion）原文，并参考 SpaceX、Anthropic、美国证券交易委员会（SEC）及 2018 年特斯拉私有化案和解文件的公开信息，截至 2026 年 10 月。",
+ "practice": {
+  "intro": "请将以下中文句子翻译为英文（参考答案见后）。要求：尽量用上本文的核心表达，可以适当改变词形，但不要直接照抄原文。",
+  "items": [
+   "过去十年左右，追踪商业新闻最大的乐趣之一、也是最大的折磨之一，就是乘坐“马斯克体验”这座不靠谱的过山车。",
+   "如果你今天早上才刚从另一个星球来到这里，那么你或许会把这看作一位准万亿富翁还算慷慨的表示。",
+   "这样一份礼物几乎不会动摇马斯克那庞大的财富与权力。它的成本约为105 亿美元，把他的净资产削到8895 亿美元。",
+   "买入马斯克的股票，与其说是一项投资，不如说是订阅了一项流媒体服务——播放的是越来越荒唐的科幻片。",
+   "这个时间点，再加上马斯克一贯的行事记录，说明他是看到SpaceX 的AI 对手Anthropic 在周日作出自己的慈善承诺之后，才产生了要压对方一头的冲动。",
+   "他那毫无细节的“每个孩子一股”的承诺，几小时后就跟了上来。孩子们将如何收到这些股票？无人知晓，而且极有可能，永远没有人需要弄清楚。"
+  ],
+  "critical_en": "If a promise costs the giver almost nothing and asks nothing of the receiver, is it still generosity — or just marketing with better grammar?",
+  "critical_zh": "当一份承诺对给出者几乎零成本、对接受者也毫无所求，它还算慷慨吗——还是只是语法更漂亮的营销？",
+  "answer": "1. One of the great joys, but also miseries, of following business news over the past decade or so has been riding the dodgy roller coaster of the Elon Musk experience.<br><br>2. If you had just this morning traveled here from another planet, then you might consider this a reasonably generous gesture from a near-trillionaire.<br><br>3. Such a gift would barely trouble Musk’s vast wealth and power. It would cost about $10.5 billion, shaving Musk’s net worth to $889.5 billion.<br><br>4. Buying stock in Musk is less an investment than it is subscribing to a streaming service for increasingly ridiculous science fiction.<br><br>5. The timing and Musk’s track record suggest he saw SpaceX’s AI rival, Anthropic PBC, making its own charitable pledge on Sunday and felt the urge to one-up it.<br><br>6. His detail-free promise of one share per child followed hours later. How will children receive these shares? Nobody knows, and the odds are very good that nobody will ever have to find out."
+ },
+ "mindmap": {
+  "aria": "马斯克送股承诺文章思维导图",
+  "alt": "马斯克送股承诺与拆解（手绘版）",
+  "svg": "<svg viewBox=\"0 0 960 720\" xmlns=\"http://www.w3.org/2000/svg\" role=\"img\" aria-label=\"马斯克送股承诺文章思维导图\" style=\"width:100%;height:auto;font-family:-apple-system,'PingFang SC','Hiragino Sans GB','Microsoft YaHei',sans-serif\">\n        <rect x=\"24\" y=\"306\" width=\"176\" height=\"88\" rx=\"14\" fill=\"#eae3d2\" stroke=\"#9a8f76\"/>\n        <text x=\"112\" y=\"342\" text-anchor=\"middle\" fill=\"#3d3a34\" font-size=\"17\" font-weight=\"700\">马斯克的送股承诺</text>\n        <text x=\"112\" y=\"368\" text-anchor=\"middle\" fill=\"#5c5648\" font-size=\"12.5\">名为馈赠，实非善礼</text>\n\n        <path d=\"M200,350 C232,350 232,88 260,88\" stroke=\"#6b8f71\" stroke-width=\"2\" fill=\"none\"/>\n        <path d=\"M200,350 C232,350 232,238 260,238\" stroke=\"#7d98ad\" stroke-width=\"2\" fill=\"none\"/>\n        <path d=\"M200,350 C232,350 232,433 260,433\" stroke=\"#bd7a6d\" stroke-width=\"2\" fill=\"none\"/>\n        <path d=\"M200,350 C232,350 232,628 260,628\" stroke=\"#9b86b3\" stroke-width=\"2\" fill=\"none\"/>\n        <g class=\"mm-branch\" data-target=\"bc1\">\n          <rect x=\"260\" y=\"71\" width=\"190\" height=\"34\" rx=\"8\" fill=\"#e6efe7\" stroke=\"#6b8f71\"/>\n          <text x=\"349\" y=\"93\" text-anchor=\"middle\" fill=\"#4c6b52\" font-size=\"15\" font-weight=\"700\">这不是礼物（¶1–3）</text>\n          <text class=\"mm-arrow\" data-for=\"bc1\" x=\"442\" y=\"93\" text-anchor=\"end\" fill=\"#4c6b52\">▾</text>\n        </g>\n        <g class=\"mm-children\" id=\"bc1\">\n          <path d=\"M450,88 C462,88 462,46 480,46\" stroke=\"#6b8f71\" stroke-width=\"1.5\" fill=\"none\"/>\n          <path d=\"M450,88 C462,88 462,88 480,88\" stroke=\"#6b8f71\" stroke-width=\"1.5\" fill=\"none\"/>\n          <path d=\"M450,88 C462,88 462,130 480,130\" stroke=\"#6b8f71\" stroke-width=\"1.5\" fill=\"none\"/>\n          <rect x=\"480\" y=\"30\" width=\"456\" height=\"32\" rx=\"8\" fill=\"#e6efe7\"/><text x=\"492\" y=\"51\" fill=\"#3d3a34\" font-size=\"14\">十年过山车：孩子是唯一没被带上车的人</text>\n          <rect x=\"480\" y=\"72\" width=\"456\" height=\"32\" rx=\"8\" fill=\"#e6efe7\"/><text x=\"492\" y=\"93\" fill=\"#3d3a34\" font-size=\"14\">每人一股，听着像准万亿富翁的慷慨</text>\n          <rect x=\"480\" y=\"114\" width=\"456\" height=\"32\" rx=\"8\" fill=\"#e6efe7\"/><text x=\"492\" y=\"135\" fill=\"#3d3a34\" font-size=\"14\">代价 105 亿美元：投票权只掉 0.1 个百分点</text>\n        </g>\n        <g class=\"mm-branch\" data-target=\"bc2\">\n          <rect x=\"260\" y=\"221\" width=\"190\" height=\"34\" rx=\"8\" fill=\"#e5edf4\" stroke=\"#7d98ad\"/>\n          <text x=\"349\" y=\"243\" text-anchor=\"middle\" fill=\"#3d5872\" font-size=\"15\" font-weight=\"700\">承诺记录（¶4–5）</text>\n          <text class=\"mm-arrow\" data-for=\"bc2\" x=\"442\" y=\"243\" text-anchor=\"end\" fill=\"#3d5872\">▾</text>\n        </g>\n        <g class=\"mm-children\" id=\"bc2\">\n          <path d=\"M450,238 C462,238 462,196 480,196\" stroke=\"#7d98ad\" stroke-width=\"1.5\" fill=\"none\"/>\n          <path d=\"M450,238 C462,238 462,238 480,238\" stroke=\"#7d98ad\" stroke-width=\"1.5\" fill=\"none\"/>\n          <path d=\"M450,238 C462,238 462,280 480,280\" stroke=\"#7d98ad\" stroke-width=\"1.5\" fill=\"none\"/>\n          <rect x=\"480\" y=\"180\" width=\"456\" height=\"32\" rx=\"8\" fill=\"#e5edf4\"/><text x=\"492\" y=\"201\" fill=\"#3d3a34\" font-size=\"14\">发在他自己的 X 上：承诺多，兑现的少</text>\n          <rect x=\"480\" y=\"222\" width=\"456\" height=\"32\" rx=\"8\" fill=\"#e5edf4\"/><text x=\"492\" y=\"243\" fill=\"#3d3a34\" font-size=\"14\">2018“资金已落实”私有化：惹上法律麻烦</text>\n          <rect x=\"480\" y=\"264\" width=\"456\" height=\"32\" rx=\"8\" fill=\"#e5edf4\"/><text x=\"492\" y=\"285\" fill=\"#3d3a34\" font-size=\"14\">跨州召唤、火箭通勤：像订了科幻流媒体</text>\n        </g>\n        <g class=\"mm-branch\" data-target=\"bc3\">\n          <rect x=\"260\" y=\"416\" width=\"190\" height=\"34\" rx=\"8\" fill=\"#f4e7e4\" stroke=\"#bd7a6d\"/>\n          <text x=\"349\" y=\"438\" text-anchor=\"middle\" fill=\"#7c4a3e\" font-size=\"15\" font-weight=\"700\">动机与细节（¶6–7）</text>\n          <text class=\"mm-arrow\" data-for=\"bc3\" x=\"442\" y=\"438\" text-anchor=\"end\" fill=\"#7c4a3e\">▾</text>\n        </g>\n        <g class=\"mm-children\" id=\"bc3\">\n          <path d=\"M450,433 C462,433 462,391 480,391\" stroke=\"#bd7a6d\" stroke-width=\"1.5\" fill=\"none\"/>\n          <path d=\"M450,433 C462,433 462,433 480,433\" stroke=\"#bd7a6d\" stroke-width=\"1.5\" fill=\"none\"/>\n          <path d=\"M450,433 C462,433 462,475 480,475\" stroke=\"#bd7a6d\" stroke-width=\"1.5\" fill=\"none\"/>\n          <rect x=\"480\" y=\"375\" width=\"456\" height=\"32\" rx=\"8\" fill=\"#f4e7e4\"/><text x=\"492\" y=\"396\" fill=\"#3d3a34\" font-size=\"14\">没和律师会计师开会：看不出认真筹划</text>\n          <rect x=\"480\" y=\"417\" width=\"456\" height=\"32\" rx=\"8\" fill=\"#f4e7e4\"/><text x=\"492\" y=\"438\" fill=\"#3d3a34\" font-size=\"14\">对手周日刚宣布慈善承诺，他几小时后跟进</text>\n          <rect x=\"480\" y=\"459\" width=\"456\" height=\"32\" rx=\"8\" fill=\"#f4e7e4\"/><text x=\"492\" y=\"480\" fill=\"#3d3a34\" font-size=\"14\">简短生硬一句＋零细节：股票怎么发没人知道</text>\n        </g>\n        <g class=\"mm-branch\" data-target=\"bc4\">\n          <rect x=\"260\" y=\"611\" width=\"190\" height=\"34\" rx=\"8\" fill=\"#ece4f2\" stroke=\"#9b86b3\"/>\n          <text x=\"349\" y=\"633\" text-anchor=\"middle\" fill=\"#5a4670\" font-size=\"15\" font-weight=\"700\">公关与代价（¶8–10）</text>\n          <text class=\"mm-arrow\" data-for=\"bc4\" x=\"442\" y=\"633\" text-anchor=\"end\" fill=\"#5a4670\">▾</text>\n        </g>\n        <g class=\"mm-children\" id=\"bc4\">\n          <path d=\"M450,628 C462,628 462,586 480,586\" stroke=\"#9b86b3\" stroke-width=\"1.5\" fill=\"none\"/>\n          <path d=\"M450,628 C462,628 462,628 480,628\" stroke=\"#9b86b3\" stroke-width=\"1.5\" fill=\"none\"/>\n          <path d=\"M450,628 C462,628 462,670 480,670\" stroke=\"#9b86b3\" stroke-width=\"1.5\" fill=\"none\"/>\n          <rect x=\"480\" y=\"570\" width=\"456\" height=\"32\" rx=\"8\" fill=\"#ece4f2\"/><text x=\"492\" y=\"591\" fill=\"#3d3a34\" font-size=\"14\">Anthropic：向 AI 怀疑者递橄榄枝、挡监管</text>\n          <rect x=\"480\" y=\"612\" width=\"456\" height=\"32\" rx=\"8\" fill=\"#ece4f2\"/><text x=\"492\" y=\"633\" fill=\"#3d3a34\" font-size=\"14\">马斯克也缺好名声：星链、DOGE、白人至上</text>\n          <rect x=\"480\" y=\"654\" width=\"456\" height=\"32\" rx=\"8\" fill=\"#ece4f2\"/><text x=\"492\" y=\"675\" fill=\"#3d3a34\" font-size=\"14\">“坏的那面”一直缺席，这魔法还能撑多久</text>\n        </g>\n      </svg>",
+  "img": ""
+ }
+}

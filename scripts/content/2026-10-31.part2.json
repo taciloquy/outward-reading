@@ -1,0 +1,492 @@
+{
+ "paragraphs": [
+  {
+   "en_html": "Part of the explanation for this is that these voters are the <mark class=\"voc\">epitome</mark> of <mark class=\"voc\">striving</mark> Americans who want to work hard and <mark class=\"voc\">get ahead</mark>. Higher prices for food and fuel <mark class=\"voc\">hit Hispanic voters particularly hard</mark>; housing costs affected Asian voters. Latinos are more than twice as likely to start businesses as white voters. Asians are likely to spend more time in education.",
+   "zh": "出现这种现象，部分原因在于：这些选民，正是“奋斗的美国人”的缩影——他们渴望辛勤工作、出人头地。食品与燃油的涨价，对拉美裔选民的打击尤重；住房成本，则沉甸甸地压在亚裔头上。拉美裔创业的可能性，是白人选民的两倍有余；而亚裔，则更倾向于把更多时间投进教育。",
+   "notes": [
+    {
+     "w": "epitome",
+     "ipa": "/ɪˈpɪtəmi/",
+     "pos": "n.",
+     "en": "epitome (n.) means a person or thing that is a perfect example of a particular quality or type",
+     "zh": "缩影，典型，典范",
+     "ctx": "希腊语 epitemnein“剪短、切下来”，与 anatomy 解剖、atom 原子同属“切”字根家族。读音陷阱：重音在第二个音节，末 e 读“me”。这些选民是“奋斗的美国人的缩影”——想了解典型美国奋斗者，看他们就行。",
+     "ex1": "She is the epitome of a hard worker. 她是勤奋者的典型代表。",
+     "ex2": "That neighbourhood is the epitome of the American dream. 那个社区就是美国梦的缩影。"
+    },
+    {
+     "w": "striving",
+     "ipa": "/ˈstraɪvɪŋ/",
+     "pos": "adj.",
+     "en": "striving (adj.) means making great efforts to achieve something",
+     "zh": "努力向上的，拼搏的",
+     "ctx": "动词 strive 努力、奋斗的现在分词作形容词。striving Americans＝正在努力往上爬的美国人。",
+     "ex1": "The city is full of striving young families. 这座城市满是努力打拼的年轻家庭。",
+     "ex2": "She grew up in a striving immigrant household. 她在一个努力奋斗的移民家庭长大。"
+    },
+    {
+     "w": "get ahead",
+     "ipa": "/ɡet əˈhed/",
+     "pos": "动词短语",
+     "en": "get ahead means to be successful in your career or life, to make progress",
+     "zh": "出人头地，混出头",
+     "ctx": "ahead 在前面，get ahead 即“跑到前面去”。特别口语化、特别“美国梦”的表达——努力工作，然后出人头地。",
+     "ex1": "He works hard to get ahead. 他努力工作以求上进。",
+     "ex2": "In this town, working hard is how you get ahead. 在这个镇上，努力工作是出人头地的途径。"
+    },
+    {
+     "w": "hit ... hard",
+     "ipa": "/hɪt ... hɑːd/",
+     "pos": "动词短语",
+     "en": "hit someone hard means to affect someone severely, to cause great difficulty",
+     "zh": "狠狠打击，重创",
+     "ctx": "本义“狠狠地打了某人一下”，用在物价、灾难上即“重创”。为什么拉美裔特别疼？食品和燃油全是“过日子”的刚需，物价一涨，他们的钱包最先疼。",
+     "ex1": "The recession hit small businesses hard. 经济衰退对小企业打击沉重。",
+     "ex2": "Rising rents have hit young families hard. 不断上涨的房租让年轻家庭苦不堪言。"
+    }
+   ]
+  },
+  {
+   "en_html": "Many are <mark class=\"voc\">recent arrivals</mark> or the children of immigrants, so their opinions have not yet <mark class=\"voc\">hardened</mark> along party lines. In contrast to the rest of the voting population, if Hispanics and Asians hold one <mark class=\"voc\">left-leaning</mark> position, they will not necessarily <mark class=\"voc\">endorse</mark> others. Likewise, wanting a secure southern border does not <mark class=\"voc\">equate to</mark> support for the <mark class=\"voc\">hardline</mark> enforcement that has frightened Hispanic employees into staying away from work.",
+   "zh": "他们中的许多人，是刚来不久的新移民，或移民的子女，其政治观点因而尚未在党派界限上固化。与其余选民群体不同，拉美裔与亚裔即便在某一议题上持偏左立场，也未必会连带支持其他偏左主张。同样地，“希望拥有一条安全的南部边境”，并不等同于“支持那种强硬执法”——正是这种执法，已把拉美裔员工吓得不敢出门上班。",
+   "notes": [
+    {
+     "w": "recent arrivals",
+     "ipa": "/ˈriːsnt əˈraɪvlz/",
+     "pos": "名词短语",
+     "en": "recent arrivals means people who have just arrived, newly arrived immigrants",
+     "zh": "新移民，刚来的人",
+     "ctx": "arrival 到达，此处指人——刚刚落脚的新移民。点出这群人的出身：他们要么自己刚来，要么爸妈刚来，都是“新美国人的头两代”。",
+     "ex1": "The school welcomes recent arrivals from many countries. 这所学校欢迎来自许多国家的新移民。",
+     "ex2": "Recent arrivals often start with low-paying jobs. 新移民往往从低收入工作做起。"
+    },
+    {
+     "w": "harden",
+     "ipa": "/ˈhɑːdn/",
+     "pos": "v.",
+     "en": "harden (v.) means to become or make something firm, solid or fixed",
+     "zh": "（观点）固化、定型；变硬",
+     "ctx": "hard 硬 + -en 使变……。观点“还没变硬”＝还像橡皮泥一样软、可塑。与第 3 段 fluid 一条线——软 vs 硬、流动 vs 僵化。党派认同靠父母传承，移民这一环“断档”，所以要好几代才慢慢“硬”起来。",
+     "ex1": "Opinions have hardened on both sides. 双方的态度都已变得强硬。",
+     "ex2": "As the campaign went on, their positions hardened. 随着竞选推进，他们的立场变得强硬起来。"
+    },
+    {
+     "w": "left-leaning",
+     "ipa": "/left ˈliːnɪŋ/",
+     "pos": "adj.",
+     "en": "left-leaning (adj.) means tending to support left-wing or progressive political views",
+     "zh": "偏左的",
+     "ctx": "left 左 + leaning 倾向。政治上“左”一般指支持进步、大政府、平等、多元；“右”指保守、小政府、传统。",
+     "ex1": "The newspaper is known for its left-leaning editorials. 这家报纸以左倾的社论闻名。",
+     "ex2": "He comes from a left-leaning family. 他出身于一个偏左的家庭。"
+    },
+    {
+     "w": "endorse",
+     "ipa": "/ɪnˈdɔːs/",
+     "pos": "v.",
+     "en": "endorse (v.) means to publicly say that you support or approve of someone or something",
+     "zh": "公开支持，背书，站台",
+     "ctx": "en- 在……上 + dorse 背（拉丁语 dorsum 背部），本指在支票背面签字即“背书”。这群人不会因为在一个点上偏左，就自动“背书”其他所有偏左的东西——立场是“散装”的，不是“打包”的。",
+     "ex1": "The newspaper endorsed the incumbent. 这家报纸为现任者背书。",
+     "ex2": "The union endorsed the governor for re-election. 工会为州长连任背书。"
+    },
+    {
+     "w": "equate to",
+     "ipa": "/ɪˈkweɪt tə/",
+     "pos": "v.",
+     "en": "equate to means to be equal to, to be the same as",
+     "zh": "等同于",
+     "ctx": "来自拉丁语 aequare“使相等”，与 equal 同族。does not equate to＝不等于、不能画等号：别把“要边境安全”和“支持强硬执法”两件事混为一谈。",
+     "ex1": "Higher spending does not always equate to better results. 更高的投入并不总等于更好的结果。",
+     "ex2": "Wanting border security does not equate to opposing immigration. 想要边境安全并不等于反对移民。"
+    },
+    {
+     "w": "hardline",
+     "ipa": "/ˌhɑːdˈlaɪn/",
+     "pos": "adj.",
+     "en": "hardline (adj.) means strict and uncompromising, refusing to change",
+     "zh": "强硬的，不妥协的",
+     "ctx": "hard 硬 + line 线，立场强硬、寸步不让。hardline enforcement＝强硬执法——那种雷厉风行、不留情面的打击。",
+     "ex1": "He has taken a hardline stance on crime. 他在犯罪问题上采取了强硬立场。",
+     "ex2": "Hardliners within the party oppose any compromise. 党内的强硬派反对任何妥协。"
+    }
+   ]
+  },
+  {
+   "en_html": "Instead, many are <mark class=\"voc\">moderate</mark>. They <mark class=\"voc\">have little truck with</mark> <mark class=\"voc\">culture wars</mark> or <mark class=\"voc\">polarisation</mark>. The economic policies they care about <mark class=\"voc\">diverge from</mark> the <mark class=\"voc\">tribal</mark> messages the parties use to <mark class=\"voc\">stir up</mark> their <mark class=\"voc\">bases</mark>. Whereas policies on abortion and trans rights are <mark class=\"voc\">set at the extremes</mark>, economic management is suited to the swing voter’s <mark class=\"voc\">pragmatic</mark> preference for <mark class=\"voc\">the common good</mark>.",
+   "zh": "恰恰相反，他们中的许多人，是温和派。他们对“文化战争”、对“极化”这类事，几乎不屑于沾边。他们真正关心的经济政策，与两党用来煽动各自基本盘的部落式口号，本就背道而驰。堕胎、跨性别权利等议题，天然被钉死在两个极端；而经济治理，才真正契合摇摆选民那种务实、且着眼于公共利益的偏好。",
+   "notes": [
+    {
+     "w": "moderate",
+     "ipa": "/ˈmɒdərət/",
+     "pos": "adj.",
+     "en": "moderate (adj.) means neither extreme nor excessive, keeping within reasonable limits",
+     "zh": "温和的，中间派的",
+     "ctx": "拉丁语 moderatus“有节制的”，词根 modus“尺度、分寸”（即 mode、model 里的 mod）。作者给这群人定调：他们不是“没立场”，是“不极端”。",
+     "ex1": "She holds moderate views on most issues. 她在大多数问题上持温和立场。",
+     "ex2": "Most voters want moderate, practical solutions. 大多数选民想要温和、务实的解决方案。"
+    },
+    {
+     "w": "have little truck with",
+     "ipa": "/hæv ˈlɪtl trʌk wɪð/",
+     "pos": "动词短语",
+     "en": "have no truck with someone or something means to refuse to have anything to do with them, to avoid dealing with them",
+     "zh": "与……不沾边，拒绝往来",
+     "ctx": "truck 不是卡车，是法语 troquer“以物易物、交易”；truck“交易”引申出“往来、打交道”。这个短语天生带着“我不跟你做这笔肮脏交易”的味儿。",
+     "ex1": "I’ll have no truck with that kind of behaviour. 我绝不跟那种行为沾边。",
+     "ex2": "I have little truck with people who spread rumours. 我不屑于跟散布谣言的人打交道。"
+    },
+    {
+     "w": "culture wars",
+     "ipa": "/ˈkʌltʃə wɔːz/",
+     "pos": "n.",
+     "en": "culture wars (n.) means conflicts between groups with different values, especially over social issues",
+     "zh": "文化战争",
+     "ctx": "从德语 Kulturkampf 借来，1992 年共和党人布坎南在党代会上喊火。不是打“钱怎么分”，是打“价值观谁说了算”——堕胎、跨性别、枪支这些“你信什么”的议题，与物价、工资这类“面包黄油议题”相对。",
+     "ex1": "The party is fighting a culture war over schools. 该党正围绕学校打一场文化战争。",
+     "ex2": "The country has been trapped in culture wars for years. 这个国家多年来一直深陷文化战争。"
+    },
+    {
+     "w": "polarisation",
+     "ipa": "/ˌpəʊləraɪˈzeɪʃn/",
+     "pos": "n.",
+     "en": "polarisation (n.) means the process of dividing into two sharply contrasting groups",
+     "zh": "两极分化",
+     "ctx": "polar 极 + -isation……化：整个社会往两个极端跑、中间空掉。英式拼写用 s，美式 polarization 用 z。",
+     "ex1": "Political polarisation makes governing harder. 政治两极分化让治理更加困难。",
+     "ex2": "The country has seen growing polarisation over the past decade. 过去十年，这个国家的两极分化不断加剧。"
+    },
+    {
+     "w": "diverge from",
+     "ipa": "/daɪˈvɜːdʒ frəm/",
+     "pos": "v.",
+     "en": "diverge from means to go in a different direction, to differ from",
+     "zh": "分岔，背离，与……不同",
+     "ctx": "di- 分开 + verge 转，“往两个方向岔开”；反义 converge 汇合。他们关心的经济政策，跟两党那个“部落化口号”是岔开的、不是一路的。",
+     "ex1": "Their interests diverge from those of the party. 他们的利益与该党背道而驰。",
+     "ex2": "His views diverge from those of his party. 他的观点与党内其他人不同。"
+    },
+    {
+     "w": "tribal",
+     "ipa": "/ˈtraɪbl/",
+     "pos": "adj.",
+     "en": "tribal (adj.) means relating to a tribe, showing strong loyalty to one’s own group",
+     "zh": "部落的；只忠于自己人的",
+     "ctx": "原始部落什么样？自己人抱团、外人全是敌人。tribal messages＝只喊给自家人听、把外人当敌人的口号，与第 2 段“两党只煽动自己人”呼应。",
+     "ex1": "The debate descended into tribal shouting. 辩论沦为部落式的叫骂。",
+     "ex2": "Tribal loyalties now drive most voting decisions. 如今大多数投票决定由圈子忠诚驱动。"
+    },
+    {
+     "w": "stir up",
+     "ipa": "/stɜːr ʌp/",
+     "pos": "v.",
+     "en": "stir up means to cause strong feelings, to excite or provoke",
+     "zh": "搅动，煽起",
+     "ctx": "stir 搅拌——搅一锅粥。stir up their bases＝把自家死忠粉的情绪搅起来，与第 2 段 whip into a frenzy 是同义的换着花样骂。",
+     "ex1": "The speech stirred up old resentments. 那番话挑起了旧日的怨恨。",
+     "ex2": "He tried to stir up anger among his supporters. 他试图煽动支持者的怒火。"
+    },
+    {
+     "w": "bases",
+     "ipa": "/ˈbeɪsɪz/",
+     "pos": "n.",
+     "en": "base (n.) means a group of people who reliably support a political party",
+     "zh": "基本盘，铁票",
+     "ctx": "base 基础，引申为“一个党最死忠的那群支持者”。stir up their bases＝煽动基本盘。",
+     "ex1": "The candidate focused on energising the party’s base. 这位候选人专注于动员基本盘。",
+     "ex2": "The party’s base is older and more conservative. 这个党的基本盘年纪更大、更保守。"
+    },
+    {
+     "w": "set at the extremes",
+     "ipa": "/set ət ði ɪkˈstriːmz/",
+     "pos": "短语",
+     "en": "set at the extremes means fixed at the two opposite ends of a range",
+     "zh": "被定死在两极",
+     "ctx": "堕胎、跨性别这种议题，天生“站两头”——你不可能“堕胎堕一半”，也不可能“跨性别跨一半”，一谈就炸、一碰就撕。",
+     "ex1": "On abortion, opinions are set at the extremes. 在堕胎问题上，观点往往极端对立。",
+     "ex2": "The two parties are set at opposite extremes on this issue. 在这个问题上，两党立场极端对立。"
+    },
+    {
+     "w": "pragmatic",
+     "ipa": "/præɡˈmætɪk/",
+     "pos": "adj.",
+     "en": "pragmatic (adj.) means dealing with problems in a practical way rather than by following fixed ideas or theories",
+     "zh": "务实的",
+     "ctx": "希腊语 pragma“事情、行动、实践”，核心是“看实际效果、别整虚的”。一个 pragmatic 的人，不问“这事符不符合我的理念”，只问“这事管不管用”。",
+     "ex1": "She takes a pragmatic approach to problems. 她处理问题讲究务实。",
+     "ex2": "We need a pragmatic solution that actually works. 我们需要一个真正管用的务实方案。"
+    },
+    {
+     "w": "the common good",
+     "ipa": "/ðə ˈkɒmən ɡʊd/",
+     "pos": "名词短语",
+     "en": "the common good means the benefit or interests of all people in society",
+     "zh": "公共利益，共同的福祉",
+     "ctx": "common 共同 + good 好处。点睛之笔：两党的部落化口号全是为“自己人”，而这群温和选民偏好的是 the common good——“大家共同的好”。",
+     "ex1": "Leaders should work for the common good. 领导者应当为公共利益服务。",
+     "ex2": "Sometimes individual interests must yield to the common good. 有时个人利益必须让位于公共利益。"
+    }
+   ]
+  },
+  {
+   "en_html": "Almost anything that gives the parties a reason to <mark class=\"voc\">appeal to</mark> the centre will benefit America, especially when it involves the <mark class=\"voc\">virtues</mark> of hard work and prosperity. Democrats will need a winning economic message and a <mark class=\"voc\">coherent</mark> plan for immigration. Republicans should <mark class=\"voc\">reject</mark> their <mark class=\"voc\">ferocious</mark> <mark class=\"voc\">deportations</mark> and the ugly <mark class=\"voc\">ultranationalism</mark> that <mark class=\"voc\">denigrates</mark> Hispanic and Asian citizens for not being “<mark class=\"voc\">heritage Americans</mark>”.",
+   "zh": "几乎任何能让两党有理由去争取中间选民的东西，都会让美国受益——尤其当它关乎“勤奋”与“繁荣”这些美德的时候。民主党，需要一套能打动人心的经济叙事，以及一个前后自洽的移民方案。共和党，则应当摒弃他们那凶残的驱逐，以及那丑恶的极端民族主义——正是这种民族主义，以“血统”为尺，诋毁拉美裔与亚裔公民，称他们不配做所谓的“血统美国人”。",
+   "notes": [
+    {
+     "w": "appeal to",
+     "ipa": "/əˈpiːl tə/",
+     "pos": "v.",
+     "en": "appeal to someone means to attract or interest them, to be pleasing to them",
+     "zh": "吸引，迎合，争取",
+     "ctx": "appeal 本义呼吁、恳求，appeal to sb 另有“吸引某人、迎合某人心意”的常用义。appeal to the centre＝去争取中间派，背后是“中间选民定理”：谁贴近中间谁就赢。",
+     "ex1": "This policy appeals to middle-class voters. 这项政策对中产阶级选民很有吸引力。",
+     "ex2": "The candidate is trying to appeal to working-class voters. 这位候选人正努力争取工薪阶层选民。"
+    },
+    {
+     "w": "virtues",
+     "ipa": "/ˈvɜːtʃuːz/",
+     "pos": "n.",
+     "en": "virtues (n.) means good qualities or moral standards",
+     "zh": "美德",
+     "ctx": "the virtues of hard work and prosperity＝勤奋与繁荣这些美德，呼应第 6 段“奋斗者”人设——争的是“把日子过好”，不是争“谁更配当美国人”。",
+     "ex1": "Hard work and honesty are old-fashioned virtues. 勤奋与诚实是老派的传统美德。",
+     "ex2": "The campaign celebrates the virtues of hard work. 这场竞选颂扬勤奋的美德。"
+    },
+    {
+     "w": "coherent",
+     "ipa": "/kəʊˈhɪərənt/",
+     "pos": "adj.",
+     "en": "coherent (adj.) means logical, well-organised, consistent",
+     "zh": "连贯的，前后一致的，逻辑自洽的",
+     "ctx": "co- 共同 + her 粘（拉丁语 haerere 粘住），即“粘在一起、没散架”。作者措辞很毒：潜台词是民主党现在的移民方案是 incoherent 的——乱的、自相矛盾的。",
+     "ex1": "They lack a coherent strategy. 他们缺乏一套连贯的战略。",
+     "ex2": "The party still lacks a coherent immigration plan. 该党仍缺乏一个前后一致的移民方案。"
+    },
+    {
+     "w": "reject",
+     "ipa": "/rɪˈdʒekt/",
+     "pos": "v.",
+     "en": "reject (v.) means to refuse to accept or support something",
+     "zh": "拒绝，摒弃",
+     "ctx": "re- 回 + ject 抛，即“抛回去、不接受”。Republicans should reject their ferocious deportations——共和党应该抛弃他们的凶残驱逐。",
+     "ex1": "The committee rejected the proposal. 委员会否决了这项提议。",
+     "ex2": "He rejected calls to step down. 他拒绝了要求他下台的呼声。"
+    },
+    {
+     "w": "ferocious",
+     "ipa": "/fəˈrəʊʃəs/",
+     "pos": "adj.",
+     "en": "ferocious (adj.) means fierce, violent and savage",
+     "zh": "凶猛的，残暴的",
+     "ctx": "词根拉丁语 ferox“野的、凶猛的”，用来形容野兽。作者不说 strict（严格）或 tough（强硬），偏说 ferocious——这一个词，立场全露出来了：他不只反对“驱逐”这个政策，是说这政策“残忍到没人性”。",
+     "ex1": "The storm was ferocious. 那场暴风雨来势凶猛。",
+     "ex2": "The two candidates engaged in a ferocious debate. 两位候选人展开了一场激烈的辩论。"
+    },
+    {
+     "w": "deportation",
+     "ipa": "/ˌdiːpɔːˈteɪʃn/",
+     "pos": "n.",
+     "en": "deportation (n.) means the act of forcing someone to leave a country, especially because they have no legal right to stay",
+     "zh": "驱逐出境",
+     "ctx": "de- 离开 + port 运送，即“把人送走”。特朗普第二任期的头号工程，作者用 ferocious（凶残）来形容它。",
+     "ex1": "Thousands of families now face deportation. 成千上万的家庭如今面临被驱逐出境。",
+     "ex2": "The policy calls for the mass deportation of undocumented immigrants. 这项政策要求大规模驱逐无证移民。"
+    },
+    {
+     "w": "ultranationalism",
+     "ipa": "/ˌʌltrəˈnæʃnəlɪzəm/",
+     "pos": "n.",
+     "en": "ultranationalism (n.) means extreme nationalism, the belief that one’s own nation is superior to all others",
+     "zh": "极端民族主义",
+     "ctx": "ultra- 极端的（如 ultraviolet 紫外线）+ nationalism 民族主义，即走火入魔的民族主义。作者用 ugly（丑恶的）修饰它——不只是“错误的”，更是“丑的、见不得人的”。",
+     "ex1": "Rising ultranationalism worries many observers. 日益高涨的极端民族主义令许多观察者担忧。",
+     "ex2": "The leader’s rhetoric slid into ultranationalism. 这位领导人的言论滑向了极端民族主义。"
+    },
+    {
+     "w": "denigrate",
+     "ipa": "/ˈdenɪɡreɪt/",
+     "pos": "v.",
+     "en": "denigrate (v.) means to criticise or say bad things about someone in a way that is unfair",
+     "zh": "诋毁，抹黑，贬损",
+     "ctx": "de- 向下 + nigr 黑（拉丁语 niger 黑色），字面即“把……涂黑”，与中文“抹黑”是同一个逻辑。想表达“污名化、泼脏水”，denigrate 比 criticise 高级多了。",
+     "ex1": "The campaign denigrated its opponents. 这场竞选抹黑了对手。",
+     "ex2": "He constantly denigrates his rivals. 他不断贬损自己的对手。"
+    },
+    {
+     "w": "heritage Americans",
+     "ipa": "/ˈherɪtɪdʒ əˈmerɪkənz/",
+     "pos": "术语（带引号）",
+     "en": "heritage Americans means, in nativist rhetoric, Americans whose ancestry can be traced back to the founding of the country",
+     "zh": "“血统美国人”",
+     "ctx": "heritage 血统、传承，即“祖辈能一路追溯到美国建国初期的人”，说白了就是早期盎格鲁-撒克逊白人移民的后代。右翼 MAGA 圈的新词，是“白人至上”的马甲；作者加引号是“撇清、讽刺”——引号有时就是作者在翻白眼。",
+     "ex1": "Some on the far right claim to speak for so-called ‘heritage Americans’. 极右翼的一些人自称代表所谓的“血统美国人”。",
+     "ex2": "The term ‘heritage Americans’ is a euphemism for racial exclusion. “血统美国人”这个说法是种族排外的委婉语。"
+    }
+   ]
+  },
+  {
+   "en_html": "All Americans should therefore welcome these new swing voters. <mark class=\"voc\">Thanks to</mark> them, fewer elections will be decided by <mark class=\"voc\">hard-core</mark> party members in <mark class=\"voc\">primaries</mark>, and more by the average voter in the <mark class=\"voc\">general election</mark>. If politicians <mark class=\"voc\">win more credit</mark> by accomplishing something in government, they will perhaps spend less of their time <mark class=\"voc\">demonising</mark> the other side. If the economy seems to matter more and culture wars less, America will be more <mark class=\"voc\">prosperous</mark> and better governed. Hispanic and Asian immigrants want the chance to <mark class=\"voc\">thrive</mark>. Their votes will help ensure America thrives with them.",
+   "zh": "因此，所有美国人都应当欢迎这些新的摇摆选民。多亏了他们，会有更少的选举由初选里的铁杆党员说了算，而更多的选举，交由大选中的普通选民来定夺。倘若政客能靠在政府里成就实事来赢得赞誉，他们兴许就会少花些时间去妖魔化对手。倘若经济变得更重要、文化战争变得次要，美国就将更繁荣，也治理得更好。拉美裔与亚裔移民，渴望的是一个能够“兴旺”的机会；而他们的选票，将有助于确保——美国，与他们一同兴旺。",
+   "notes": [
+    {
+     "w": "thanks to",
+     "ipa": "/ˈθæŋks tə/",
+     "pos": "prep.",
+     "en": "thanks to means because of, as a result of",
+     "zh": "多亏，由于",
+     "ctx": "可褒可贬：既可是“幸亏”，也可带反讽“拜……所赐”。Thanks to them＝多亏了他们。",
+     "ex1": "Thanks to their hard work, the project succeeded. 多亏他们的努力，项目成功了。",
+     "ex2": "Thanks to the new system, voting is now easier. 多亏了新系统，投票现在更容易了。"
+    },
+    {
+     "w": "hard-core",
+     "ipa": "/ˌhɑːd ˈkɔː/",
+     "pos": "adj.",
+     "en": "hard-core (adj.) means extremely committed, the most dedicated and uncompromising members",
+     "zh": "铁杆的，最死硬的",
+     "ctx": "本为地质学、建筑学词“硬核”，引申为最核心、最死忠、最狂热的那一小撮。hard-core party members＝把党派当信仰、死忠到底的人。",
+     "ex1": "The hard-core fans never miss a match. 铁杆球迷从不缺席比赛。",
+     "ex2": "Only hard-core party members turn out for the primaries. 只有铁杆党员才会参加初选。"
+    },
+    {
+     "w": "primaries",
+     "ipa": "/ˈpraɪməriz/",
+     "pos": "n.",
+     "en": "primaries (n.) means elections in which a party chooses its candidate for a main election",
+     "zh": "初选",
+     "ctx": "大选前各党在党内选“谁代表本党出战”的环节。美国政治的“暗门”：初选投票率极低（平均仅 15%–25%），参加者多是意识形态最极端、最狂热的铁杆，所以初选选出的候选人往往比中间选民极端得多。",
+     "ex1": "The primaries attracted only the most committed voters. 初选只吸引了最死忠的那批选民。",
+     "ex2": "Candidates must first win their party’s primary before the general election. 候选人必须先赢得本党初选，才能进入大选。"
+    },
+    {
+     "w": "general election",
+     "ipa": "/ˈdʒenrəl ɪˈlekʃn/",
+     "pos": "名词短语",
+     "en": "a general election means a national election in which voters choose their representatives",
+     "zh": "大选",
+     "ctx": "与初选 primary 相对的、全民参与的正式选举。作者的意思是：把“谁当政”的决定权，从那 20% 极端铁杆手里，交还给大多数普通老百姓。",
+     "ex1": "The general election will be held in November. 大选将于十一月举行。",
+     "ex2": "Turnout is much higher in the general election than in the primaries. 大选的投票率远高于初选。"
+    },
+    {
+     "w": "win credit for",
+     "ipa": "/wɪn ˈkredɪt fɔː(r)/",
+     "pos": "动词短语",
+     "en": "win credit for means to earn praise or recognition for doing something",
+     "zh": "因……赢得赞誉",
+     "ctx": "credit 此处指“功劳、赞誉、认可”。潜台词：政客现在不靠“做事”赢好评，靠“骂人”。",
+     "ex1": "She won credit for fixing the budget. 她因修复预算而赢得赞誉。",
+     "ex2": "Politicians should win credit for getting things done, not for attacking rivals. 政客应当靠做事赢得赞誉，而不是靠攻击对手。"
+    },
+    {
+     "w": "demonise",
+     "ipa": "/ˈdiːmənaɪz/",
+     "pos": "v.",
+     "en": "demonise (v.) means to describe someone or something as very bad or dangerous, often unfairly",
+     "zh": "妖魔化",
+     "ctx": "demon 恶魔 + -ise 使……化。政客发现骂人更省事：只要把对面党妖魔化成恶魔，告诉你“对面一上台你就完蛋”，你自然就投我了。英式拼写 demonise，美式 demonize。",
+     "ex1": "The media demonised the protesters. 媒体把抗议者妖魔化了。",
+     "ex2": "Each side tries to demonise the other during elections. 选举期间，各方都试图把对方妖魔化。"
+    },
+    {
+     "w": "prosperous",
+     "ipa": "/ˈprɒspərəs/",
+     "pos": "adj.",
+     "en": "prosperous (adj.) means successful and rich, thriving",
+     "zh": "繁荣的，富裕的",
+     "ctx": "与 prosperity 同根。more prosperous and better governed＝更繁荣、治理得更好。",
+     "ex1": "The city became more prosperous under the new policies. 在新政策下，这座城市变得更加繁荣。",
+     "ex2": "A prosperous country invests in its people. 繁荣的国家会投资于自己的人民。"
+    },
+    {
+     "w": "thrive",
+     "ipa": "/θraɪv/",
+     "pos": "v.",
+     "en": "thrive (v.) means to grow, develop and become successful, to flourish",
+     "zh": "兴旺，繁荣，茁壮成长",
+     "ctx": "词源古诺尔斯语 þrífask，本义“抓住、紧紧攥给自己”——兴旺不是被施舍，而是自己伸手抓住机会。全文点睛：immigrants thrive 升华到 America thrives，与标题 changing for the better 首尾呼应。",
+     "ex1": "The business thrived under her leadership. 这家企业在她领导下兴旺起来。",
+     "ex2": "Small businesses thrive when the economy is stable. 经济稳定时，小企业就能蓬勃发展。"
+    }
+   ]
+  }
+ ],
+ "proper": [
+  {
+   "name": "midterm elections / 中期选举",
+   "def": "美国政治制度的一部分：总统四年一选，但众议员两年一选、参议员六年一选，所以总统干满两年会撞上一场全国性的国会选举，俗称对总统的“期中考试”。2026 年这场：众议院 435 席全换、参议院改选 35 席；共和党虽“一手抓”（白宫＋两院），但全是险胜——众议院 218 对 214、参议院 53 对 47，民主党多赢几席即翻盘。另有一个“中期选举魔咒”：总统所在的党几乎次次丢国会席位（二战以来仅个别例外，如 2002 年小布什）。<br>本文中的意思：全文的时间坐标。作者说中期选举是“对总统的公投”，不是修辞——老百姓真把这场选举当成给总统打分的卷子。"
+  },
+  {
+   "name": "Electoral College / winner-take-all 选举人团与赢者通吃",
+   "def": "美国大选不直接数人头，而是“选举人团制”，且多数州实行“赢者通吃”：你在一个州比对手多一张票，这个州的全部选举人票就全归你——多一票和多一百万票结果一样。2016 年希拉里在全国普选票比特朗普多 200 多万张，却因特朗普在威斯康星（赢 2.2 万票）、密歇根（赢 1 万票）、宾夕法尼亚（赢 4.4 万票）几个关键摇摆州毫厘之差全拿，最终输掉大选。有学者估算，总统选举结果有时掌握在 15 万到 20 万个摇摆选民手里。<br>本文中的意思：解释了第 3 段 outsize impact 为什么成立——人不在多，在关键位置。拉美裔和亚裔是摇摆选民，一旦移动一点点，在势均力敌的州里就能翻转整个州、进而翻转整个国家。"
+  },
+  {
+   "name": "swing state / 摇摆州",
+   "def": "美国五十州大多“锁死”：加州、纽约铁投民主党，得州、阿拉巴马铁投共和党。真正拼刺刀的是五六个摇摆州——宾夕法尼亚、密歇根、威斯康星、亚利桑那等，今天可能投蓝、明天投红。选举年候选人天天往这几个州跑、撒广告。<br>本文中的意思：与 swing voter 是一套逻辑。作者说拉美裔和亚裔是 most dynamic swing voters，就是在说他们是美国政治里最像“摇摆州”的那个变量，最值得两党去抢。"
+  },
+  {
+   "name": "Pew Research Center / 皮尤研究中心",
+   "def": "美国权威民调机构。第 2 段那组“70% 共和党人敌视民主党、80% 以上民主党人回敬”的数据即出自它的测量。政治学给这种现象起名“情感极化”（affective polarization）：不是政策分歧（可以谈），而是情感对立（我恨你这个人、把你当敌人）。学者用“情感温度计”测：0 度冷到极点、100 度热到极点，两党选民给对方打的平均分只有二十几分。另有一个扎心数据：约四成美国人会因孩子嫁给“对面党派”的人而感到不舒服。<br>本文中的意思：作者第 2 段那组数字不是拍脑袋，是反复测量过的事实。"
+  },
+  {
+   "name": "The Big Sort / 《大分类》",
+   "def": "2008 年记者比尔·毕晓普（Bill Bishop）与统计学家合写的书。核心观点：过去几十年美国人正“用脚投票”，搬去跟自己观点一样的人住。书中用“压倒性县”（landslide county，一个党赢对手 20 个百分点以上的县）量化：1976 年约四分之一美国人住这种县，2004 年近一半（48%），2016 年冲到 62%。<br>本文中的意思：第 2 段 sorted themselves along lines 背后的学术出处——这个国家正在自己把自己切成两半。"
+  },
+  {
+   "name": "median voter theorem / 中间选民定理",
+   "def": "安东尼·唐斯（Anthony Downs）1957 年在《民主的经济理论》中提出：理性的政客为了赢选举，会自动往“中间选民”的位置靠，因为谁靠中间谁就赢。他还说过一句扎心的话：政客“是为了赢选举才去制定政策，而不是为了制定政策才去赢选举”。<br>本文中的意思：第 9 段 appeal to the centre 背后的政治学规律——只要两党有理由争取中间选民，政治就会自动往中间走，离撕裂远一步。"
+  },
+  {
+   "name": "Ho Chi Minh City / 胡志明市（越南）",
+   "def": "越南第一大城市，旧称西贡，1975 年越战结束、北越攻入后被改名。南越亲美人士当年纷纷乘小渔船逃亡，那场逃亡史称“投奔怒海”——船小人多、没水没粮，很多人死于海盗与风浪。逃到美国的这批人成了今天的 200 多万越南裔，因是被共产党政权赶出来的，历史上是亚裔里最保守、最亲共和党的一支（2020 年大选是唯一支持特朗普多于拜登的亚裔群体）。<br>本文中的意思：第 4 段用“胡志明市移民的孙辈”指代一群反共、保守、偏共和党的人的后代。"
+  },
+  {
+   "name": "Bangalore / 班加罗尔（印度）",
+   "def": "印度“硅谷”，亚洲最大软件外包中心。从那儿来美国的，大多是拿 H-1B 技术签证的工程师、程序员——高学历、高收入精英。印度裔现在是全美收入最高、学历最高的族群之一，家庭收入中位数超 15 万美元（约为全美平均两倍），谷歌、微软、IBM、Adobe 的 CEO 都是印度裔；历史上约 67% 印度裔认同民主党，认同共和党的只有 14%。<br>本文中的意思：第 4 段用两个地名（胡志明市 vs 班加罗尔）拆穿“亚裔根本不是一群人”的真相。"
+  },
+  {
+   "name": "heritage Americans / “血统美国人”",
+   "def": "美国右翼 MAGA 圈子这两年新炒起来的词，指“祖辈能一路追溯到美国建国初期的人”——说白了就是早期盎格鲁-撒克逊白人移民的后代。造这个词是因为直接说“白人至上”太难听，换个说法就“体面”了。有右翼播客自认：“heritage American 比 white 这个词更让公众接受。”JD Vance、Stephen Miller 等都在推这个词，甚至搞过“你是多纯正的美国人”打分表。<br>本文中的意思：第 9 段作者给它加引号，是“撇清、讽刺”——作者不承认“血统美国人”这个概念。"
+  },
+  {
+   "name": "ICE / 美国移民和海关执法局",
+   "def": "ICE（Immigration and Customs Enforcement）是美国移民和海关执法局。2025 年搞了一波“工作场所突袭”，最出名的一次在内布拉斯加州奥马哈市一家肉制品加工厂，一次抓走 76 人；第二天工厂只剩三分之一的人上班、产量掉 20%，整个南奥马哈的拉美裔社区面包店、发廊全关门。建筑业更惨：92% 的建筑公司招不到人，28% 的公司称被移民执法波及。<br>本文中的意思：第 7 段“吓得拉美裔员工不敢上班”的实锤——作者不是在夸张，是在白描新闻现场。"
+  },
+  {
+   "name": "UnidosUS / 拉美裔研究机构",
+   "def": "美国专门研究拉美裔的大机构。2024 年民调：71% 的拉美裔支持加强边境安全、支持更严格的庇护流程；但同时 80% 支持给长期无证移民一条入籍通道；而“修边境墙”和“驱逐所有无证移民”在拉美裔的优先级里排倒数第一、第二。<br>本文中的意思：第 7 段“想要边境安全≠支持强硬执法”的数据依据——拉美裔自己就是“既要边境安全、又反对把人赶尽杀绝”的。"
+  },
+  {
+   "name": "Stanford Latino Entrepreneurship Report / 斯坦福拉美裔创业报告（2024）",
+   "def": "斯坦福大学 2024 年《美国拉美裔创业报告》：过去五年（2018–2023）全美拉美裔企业数量暴涨 44%，同一时期白人企业反跌 3%；每 10 万拉美裔里有 600 人创业，白人只有 280 人（正好两倍多）；疫情期间全美企业数量几乎零增长，唯一还在增长的就是拉美裔企业。<br>本文中的意思：第 6 段“拉美裔创业率是白人的两倍多”的实锤，证明“他们是奋斗者”这个判断。"
+  },
+  {
+   "name": "primary vs. general election / 初选与大选",
+   "def": "初选是大选前各党在党内选“谁代表本党出战”的环节；大选是全民参与的正式选举。初选的死穴：投票率极低（平均 15%–25%），且参加者多是意识形态最极端、最狂热的铁杆，所以想赢初选只需讨好那 20% 铁杆，选出的候选人往往比中间选民极端。有研究：只要初选里多出 1% 的温和派投票，就足以让政治从极端往回摆。<br>本文中的意思：第 10 段的制度依据——摇摆选民增多，初选的“极端孵化器”效应就会被稀释。"
+  },
+  {
+   "name": "net approval rating / 净支持率",
+   "def": "支持率减去反对率得到的净值。作者说川总 his own unpopularity（不受欢迎）时没给数据，但默认读者知道：川总当时的净支持率约为负二十几，即不满意他的人比满意他的人多二十几个百分点。<br>本文中的意思：第 1 段“明知不受欢迎还硬上”的事实前提——他是在“顶着骂声”往聚光灯下钻。"
+  }
+ ],
+ "sources_note": "资料核对：以上背景依据文章内容，并参考 Pew Research Center、The Economist、Stanford Latino Entrepreneurship Initiative 及 UnidosUS 截至 2026 年 10 月的公开数据。",
+ "practice": {
+  "intro": "请根据今天学习的外刊，把下面的中文句子翻译成英文。要求：尽量用上本文的核心表达，可以适当改变词形，但不要直接照抄原文。",
+  "items": [
+   "中期选举永远是对在任美国总统的一次公投，却很少有哪位在任总统会如此故意地、明知自己不受欢迎，还硬要把自己塞进聚光灯下。（referendum / sitting / incumbent / wilfully / in defiance of）",
+   "然而，在聚光灯之外，一件更出人意料、也更重大的事一直在发生：拉美裔和亚裔，已经崛起为美国最有价值的选民。（away from the spotlight / emerge as）",
+   "美国政治的诅咒，就是它那种咬牙切齿的党派对立。（curse / bitter / partisanship）",
+   "随着选民们沿着种族、教育和地域的界线自我归类，两党花在争取对方阵营改换门庭上的时间越来越少，而花在把自己的支持者煽动进永久癫狂里的时间越来越多。（sort / win converts / whip ... into a frenzy）",
+   "拉美裔和亚裔选民，是遏制这股不祥趋势的最大希望。（arrest / baleful / trend）",
+   "自 2006 年以来，两者合计在全体选民中的占比上升了 9 个百分点，达到 21%。（combined share of the electorate / percentage point）"
+  ],
+  "critical_en": "If a group’s votes can decide who governs, does that make them more valuable as citizens — or merely more useful to politicians?",
+  "critical_zh": "如果一个群体的选票能决定谁来执政，那他们是“更有价值的公民”，还是仅仅“对政客更有用的工具”？",
+  "answer": "1. Midterm elections are always a referendum on the sitting American president, but rarely has an incumbent so wilfully put himself in the spotlight in defiance of his own unpopularity.<br><br>2. Away from the spotlight, however, something more surprising—and more important—has been happening: Hispanics and Asians have emerged as America’s most valuable voters.<br><br>3. The curse of American politics is its bitter partisanship.<br><br>4. As voters have sorted themselves along racial, educational and geographical lines, the parties have spent less time trying to win converts from the other side and more whipping their own supporters into a permanent frenzy.<br><br>5. Hispanic and Asian-American voters offer the best hope of arresting this baleful trend.<br><br>6. Since 2006 their combined share of the electorate has increased by nine percentage points, to reach 21%."
+ },
+ "mindmap": {
+  "aria": "美国中期选举与摇摆选民文章思维导图",
+  "alt": "亚裔与拉美裔成为摇摆选民（手绘版）",
+  "svg": "<svg viewBox=\"0 0 960 720\" xmlns=\"http://www.w3.org/2000/svg\" role=\"img\" aria-label=\"美国中期选举与摇摆选民文章思维导图\" style=\"width:100%;height:auto;font-family:-apple-system,'PingFang SC','Hiragino Sans GB','Microsoft YaHei',sans-serif\">\n        <rect x=\"24\" y=\"306\" width=\"176\" height=\"88\" rx=\"14\" fill=\"#eae3d2\" stroke=\"#9a8f76\"/>\n        <text x=\"112\" y=\"342\" text-anchor=\"middle\" fill=\"#3d3a34\" font-size=\"17\" font-weight=\"700\">拉美裔与亚裔</text>\n        <text x=\"112\" y=\"368\" text-anchor=\"middle\" fill=\"#5c5648\" font-size=\"12.5\">美国最值钱的摇摆选民</text>\n\n        <path d=\"M200,350 C232,350 232,88 260,88\"  stroke=\"#6b8f71\" stroke-width=\"2\" fill=\"none\"/>\n        <path d=\"M200,350 C232,350 232,238 260,238\" stroke=\"#7d98ad\" stroke-width=\"2\" fill=\"none\"/>\n        <path d=\"M200,350 C232,350 232,433 260,433\" stroke=\"#bd7a6d\" stroke-width=\"2\" fill=\"none\"/>\n        <path d=\"M200,350 C232,350 232,628 260,628\" stroke=\"#9b86b3\" stroke-width=\"2\" fill=\"none\"/>\n\n        <g class=\"mm-branch\" data-target=\"bc1\">\n          <rect x=\"260\" y=\"71\" width=\"190\" height=\"34\" rx=\"8\" fill=\"#e6efe7\" stroke=\"#6b8f71\"/>\n          <text x=\"349\" y=\"93\" text-anchor=\"middle\" fill=\"#4c6b52\" font-size=\"15\" font-weight=\"700\">中期选举＝一场公投（¶1–2）</text>\n          <text class=\"mm-arrow\" data-for=\"bc1\" x=\"442\" y=\"93\" text-anchor=\"end\" fill=\"#4c6b52\">▾</text>\n        </g>\n        <g class=\"mm-children\" id=\"bc1\">\n          <path d=\"M450,88 C462,88 462,46 480,46\" stroke=\"#6b8f71\" stroke-width=\"1.5\" fill=\"none\"/>\n          <path d=\"M450,88 C462,88 462,88 480,88\" stroke=\"#6b8f71\" stroke-width=\"1.5\" fill=\"none\"/>\n          <path d=\"M450,88 C462,88 462,130 480,130\" stroke=\"#6b8f71\" stroke-width=\"1.5\" fill=\"none\"/>\n          <rect x=\"480\" y=\"30\" width=\"456\" height=\"32\" rx=\"8\" fill=\"#e6efe7\"/><text x=\"492\" y=\"51\" fill=\"#3d3a34\" font-size=\"14\">中期选举向来是对在任总统的全民打分</text>\n          <rect x=\"480\" y=\"72\" width=\"456\" height=\"32\" rx=\"8\" fill=\"#e6efe7\"/><text x=\"492\" y=\"93\" fill=\"#3d3a34\" font-size=\"14\">川总反其道而行：明知不受欢迎，偏往聚光灯里站</text>\n          <rect x=\"480\" y=\"114\" width=\"456\" height=\"32\" rx=\"8\" fill=\"#e6efe7\"/><text x=\"492\" y=\"135\" fill=\"#3d3a34\" font-size=\"14\">两党不再争取对方，只把自家基本盘煽进永久癫狂</text>\n        </g>\n\n        <g class=\"mm-branch\" data-target=\"bc2\">\n          <rect x=\"260\" y=\"221\" width=\"190\" height=\"34\" rx=\"8\" fill=\"#e5edf4\" stroke=\"#7d98ad\"/>\n          <text x=\"349\" y=\"243\" text-anchor=\"middle\" fill=\"#3d5872\" font-size=\"15\" font-weight=\"700\">摇摆选民怎么崛起（¶3–5）</text>\n          <text class=\"mm-arrow\" data-for=\"bc2\" x=\"442\" y=\"243\" text-anchor=\"end\" fill=\"#3d5872\">▾</text>\n        </g>\n        <g class=\"mm-children\" id=\"bc2\">\n          <path d=\"M450,238 C462,238 462,196 480,196\" stroke=\"#7d98ad\" stroke-width=\"1.5\" fill=\"none\"/>\n          <path d=\"M450,238 C462,238 462,238 480,238\" stroke=\"#7d98ad\" stroke-width=\"1.5\" fill=\"none\"/>\n          <path d=\"M450,238 C462,238 462,280 480,280\" stroke=\"#7d98ad\" stroke-width=\"1.5\" fill=\"none\"/>\n          <rect x=\"480\" y=\"180\" width=\"456\" height=\"32\" rx=\"8\" fill=\"#e5edf4\"/><text x=\"492\" y=\"201\" fill=\"#3d3a34\" font-size=\"14\">人数在涨：合计占选民 21%，比 2006 年多 9 个点</text>\n          <rect x=\"480\" y=\"222\" width=\"456\" height=\"32\" rx=\"8\" fill=\"#e5edf4\"/><text x=\"492\" y=\"243\" fill=\"#3d3a34\" font-size=\"14\">影响力超出人口规模：赢者通吃＋摇摆州</text>\n          <rect x=\"480\" y=\"264\" width=\"456\" height=\"32\" rx=\"8\" fill=\"#e5edf4\"/><text x=\"492\" y=\"285\" fill=\"#3d3a34\" font-size=\"14\">2012 以为锁死 → 2024 说特朗普化 → 其实一直在摇摆</text>\n        </g>\n\n        <g class=\"mm-branch\" data-target=\"bc3\">\n          <rect x=\"260\" y=\"416\" width=\"190\" height=\"34\" rx=\"8\" fill=\"#f4e7e4\" stroke=\"#bd7a6d\"/>\n          <text x=\"349\" y=\"438\" text-anchor=\"middle\" fill=\"#7c4a3e\" font-size=\"15\" font-weight=\"700\">为什么偏偏是他们（¶6–8）</text>\n          <text class=\"mm-arrow\" data-for=\"bc3\" x=\"442\" y=\"438\" text-anchor=\"end\" fill=\"#7c4a3e\">▾</text>\n        </g>\n        <g class=\"mm-children\" id=\"bc3\">\n          <path d=\"M450,433 C462,433 462,391 480,391\" stroke=\"#bd7a6d\" stroke-width=\"1.5\" fill=\"none\"/>\n          <path d=\"M450,433 C462,433 462,433 480,433\" stroke=\"#bd7a6d\" stroke-width=\"1.5\" fill=\"none\"/>\n          <path d=\"M450,433 C462,433 462,475 480,475\" stroke=\"#bd7a6d\" stroke-width=\"1.5\" fill=\"none\"/>\n          <rect x=\"480\" y=\"375\" width=\"456\" height=\"32\" rx=\"8\" fill=\"#f4e7e4\"/><text x=\"492\" y=\"396\" fill=\"#3d3a34\" font-size=\"14\">新移民与移民子女：立场还没沿党派“变硬”</text>\n          <rect x=\"480\" y=\"417\" width=\"456\" height=\"32\" rx=\"8\" fill=\"#f4e7e4\"/><text x=\"492\" y=\"438\" fill=\"#3d3a34\" font-size=\"14\">奋斗者缩影：创业率是白人两倍多，愿把钱投教育</text>\n          <rect x=\"480\" y=\"459\" width=\"456\" height=\"32\" rx=\"8\" fill=\"#f4e7e4\"/><text x=\"492\" y=\"480\" fill=\"#3d3a34\" font-size=\"14\">多为温和派：对文化战争、极化不沾边，只看管不管用</text>\n        </g>\n\n        <g class=\"mm-branch\" data-target=\"bc4\">\n          <rect x=\"260\" y=\"611\" width=\"190\" height=\"34\" rx=\"8\" fill=\"#ece4f2\" stroke=\"#9b86b3\"/>\n          <text x=\"349\" y=\"633\" text-anchor=\"middle\" fill=\"#5a4670\" font-size=\"15\" font-weight=\"700\">出路：往中间走（¶9–10）</text>\n          <text class=\"mm-arrow\" data-for=\"bc4\" x=\"442\" y=\"633\" text-anchor=\"end\" fill=\"#5a4670\">▾</text>\n        </g>\n        <g class=\"mm-children\" id=\"bc4\">\n          <path d=\"M450,628 C462,628 462,586 480,586\" stroke=\"#9b86b3\" stroke-width=\"1.5\" fill=\"none\"/>\n          <path d=\"M450,628 C462,628 462,628 480,628\" stroke=\"#9b86b3\" stroke-width=\"1.5\" fill=\"none\"/>\n          <path d=\"M450,628 C462,628 462,670 480,670\" stroke=\"#9b86b3\" stroke-width=\"1.5\" fill=\"none\"/>\n          <rect x=\"480\" y=\"570\" width=\"456\" height=\"32\" rx=\"8\" fill=\"#ece4f2\"/><text x=\"492\" y=\"591\" fill=\"#3d3a34\" font-size=\"14\">民主党：要一套能打的经济叙事＋自洽的移民方案</text>\n          <rect x=\"480\" y=\"612\" width=\"456\" height=\"32\" rx=\"8\" fill=\"#ece4f2\"/><text x=\"492\" y=\"633\" fill=\"#3d3a34\" font-size=\"14\">共和党：该抛弃凶残驱逐与“血统美国人”式民族主义</text>\n          <rect x=\"480\" y=\"654\" width=\"456\" height=\"32\" rx=\"8\" fill=\"#ece4f2\"/><text x=\"492\" y=\"675\" fill=\"#3d3a34\" font-size=\"14\">经济压过文化战争 → 少骂人、多办事，美国更繁荣</text>\n        </g>\n      </svg>"
+ }
+}

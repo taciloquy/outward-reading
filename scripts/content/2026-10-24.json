@@ -1,0 +1,858 @@
+{
+ "date": "2026-10-24",
+ "title_tag": "新加坡追查涉事企业，剑指跨境“毒烟霾”—— 英国金融时报外刊讲解第1207天",
+ "h1": "新加坡追查涉事企业，剑指跨境“毒烟霾”",
+ "source_label": "Financial Times",
+ "category": "英国金融时报外刊讲解 第1207天",
+ "read_minutes": 20,
+ "nav_hint": "Singapore goes after companies over toxic haze",
+ "headline": {
+  "en_html": "<span>Singapore <mark class=\"voc\">goes after</mark> companies over <mark class=\"voc\">toxic</mark> <mark class=\"voc\">haze</mark></span> — <span><mark class=\"voc\">Smog-choked</mark> <mark class=\"voc\">city-state</mark> is <mark class=\"voc\">threatening</mark> groups behind <mark class=\"voc\">land burning</mark> in Indonesia</span>",
+  "zh": "新加坡追查涉事企业，剑指跨境“毒烟霾”——被烟霾呛得喘不过气的新加坡，正威胁对印尼境内烧荒的幕后企业出手。",
+  "notes": [
+   {
+    "w": "go after",
+    "ipa": "/ɡoʊ ˈɑːftər/",
+    "pos": "phrasal v.",
+    "en": "go after (phrasal v.) means to chase or pursue someone, especially in order to catch them or hold them responsible",
+    "zh": "追击，追责，找某人算账",
+    "ctx": "标题用它而不是 investigate——不是“调查”那么客气，是追着打、非揪出来不可。",
+    "ex1": "Instead of waiting for permission, he decided to go after what he really wanted. 他没有等着别人批准，而是直接去追自己真正想要的东西。",
+    "ex2": "Regulators are going after companies that misled investors about their earnings. 监管机构正对那些在盈利问题上误导投资者的企业穷追不舍。"
+   },
+   {
+    "w": "toxic",
+    "ipa": "/ˈtɒksɪk/",
+    "pos": "adj.",
+    "en": "toxic (adj.) means poisonous, or containing poison",
+    "zh": "有毒的，致命的",
+    "ctx": "词根是“涂在箭头上的药”，标题用 toxic 而非 bad，先把“毒”字按在烟霾上，立场就定了。",
+    "ex1": "The factory was fined for releasing toxic fumes into the air without treatment. 这家工厂因未经处理便排放有毒气体而被罚款。",
+    "ex2": "She finally walked away from what friends called a deeply toxic relationship. 她最终离开了那段被朋友们称作“毒性极深”的关系。"
+   },
+   {
+    "w": "haze",
+    "ipa": "/heɪz/",
+    "pos": "n.",
+    "en": "haze (n.) means a slight obscuration of the air caused by fine particles of smoke, dust or water vapour",
+    "zh": "烟霾，阴霾",
+    "ctx": "全文的钥匙词：不是水汽之雾，而是烧荒烧出来的“人祸”，整篇文章的愤怒都从这一个词出发。",
+    "ex1": "A thick haze hung over the city for days, and schools kept children indoors. 浓重的烟霾在城市上空盘桓数日，学校让孩子们留在室内。",
+    "ex2": "The haze that drifted in from neighbouring islands pushed air quality into the hazardous range. 从邻近岛屿飘来的烟霾把空气质量推入了危险区间。"
+   },
+   {
+    "w": "smog-choked",
+    "ipa": "/ˈsmɒɡ tʃoʊkt/",
+    "pos": "adj.",
+    "en": "smog-choked (adj.) means filled with smog to the point where breathing or living becomes difficult",
+    "zh": "烟雾弥漫的，被烟霾扼住咽喉的",
+    "ctx": "名词加过去分词拼出来的复合形容词，副标题用它给新加坡定性：一个连呼吸都被掐住的国家。",
+    "ex1": "The smog-choked capital recorded its worst air quality in more than a decade. 这座被烟雾呛住的首都录得了十多年来最差的空气质量。",
+    "ex2": "Residents of the smog-choked district were told to keep windows shut overnight. 那个烟雾弥漫的城区居民被告知夜间务必关窗。"
+   },
+   {
+    "w": "city-state",
+    "ipa": "/ˈsɪti steɪt/",
+    "pos": "n.",
+    "en": "city-state (n.) means a city that is also an independent country",
+    "zh": "城邦",
+    "ctx": "不用 Singapore 而用 city-state 是反讽——一个把高效治理刻进 DNA 的国家，竟管不了自己的空气。",
+    "ex1": "Singapore is arguably the most successful modern city-state in the world. 新加坡堪称世界上最成功的现代城邦。",
+    "ex2": "Ancient Greek city-states were independent, and frequently at war with one another. 古希腊的城邦各自独立，且常常互相开战。"
+   },
+   {
+    "w": "threaten",
+    "ipa": "/ˈθretn/",
+    "pos": "v.",
+    "en": "threaten (v.) means to tell someone that you will cause them harm or trouble if they do not do what you want",
+    "zh": "威胁，警告要动手",
+    "ctx": "是 threaten 不是 promise：先亮刀、后谈判，这是新加坡这次对企业摆出的姿态。",
+    "ex1": "The regulator threatened legal action against companies that failed to comply. 监管机构威胁要对不合规的企业采取法律行动。",
+    "ex2": "Heavy rain threatened to wash out the final day of the tournament. 大雨眼看就要让赛事最后一天泡汤。"
+   },
+   {
+    "w": "land burning",
+    "ipa": "/lænd ˈbɜːrnɪŋ/",
+    "pos": "n.",
+    "en": "land burning (n.) means the practice of clearing land by setting fire to vegetation",
+    "zh": "烧荒清地",
+    "ctx": "语序即意思：burning land 是“正在烧的地”，land burning 才是“烧地这个行为”，全文换了四种说法指同一件事。",
+    "ex1": "Land burning remains the cheapest way to clear a plantation, despite being banned. 尽管已被禁止，烧荒清地仍是开辟种植园最便宜的方式。",
+    "ex2": "Satellite images allowed investigators to link land burning to specific concessions. 卫星图像让调查人员得以把烧荒行为与具体的特许地块对应起来。"
+   }
+  ]
+ },
+ "paragraphs": [
+  {
+   "en_html": "Singapore is trying to <mark class=\"voc\">hold companies to account</mark> as it <mark class=\"voc\">grapples with</mark> its worst air pollution in a decade, but the smog-choked city-state is <mark class=\"voc\">running into</mark> the limits of <mark class=\"voc\">prosecuting</mark> cross-border environmental laws. The government has in recent days threatened <mark class=\"voc\">legal action</mark> against 10 businesses, several with deep <mark class=\"voc\">ties</mark> to Singapore, that it says are behind <mark class=\"voc\">wildfires</mark> in neighbouring Indonesia that have produced the haze. It has also <mark class=\"voc\">raised questions about</mark> whether other companies <mark class=\"voc\">listed</mark> on the local <mark class=\"voc\">bourse</mark> may be involved, and has threatened to target company profits, access to financing and <mark class=\"voc\">standing</mark> with investors.",
+   "zh": "新加坡一边与十年来最严重的空气污染缠斗，一边试图将涉事企业绳之以法；然而这座被烟霾呛住喉咙的城邦，在跨境环境违法的起诉之路上，正撞上一道无形的天花板。近日，新加坡政府已威胁对十家企业采取法律行动——其中数家与新加坡渊源颇深。政府称，正是这些企业酿成了邻国印尼的失控野火，进而“生产”出了这场烟霾。此外，政府还对本国交易所上市的其他企业是否牵涉其中提出质疑，并扬言要对这些公司的利润、融资渠道以及在投资者心目中的地位下手。",
+   "notes": [
+    {
+     "w": "hold sb to account",
+     "ipa": "/hoʊld ˈsʌmbədi tu əˈkaʊnt/",
+     "pos": "phrasal v.",
+     "en": "hold someone to account means to require someone to explain their actions and accept responsibility for them",
+     "zh": "追究责任，要求某人交代清楚",
+     "ctx": "本文指新加坡要烧荒企业给个交代——但只能“问责”，能不能办成是另一回事。",
+     "ex1": "Voters expect the media to hold elected officials to account between elections. 选民期待媒体在两次选举之间对民选官员进行问责。",
+     "ex2": "The company was held to account for the waste it had dumped into the river. 该公司因向河中倾倒废弃物而被追究责任。"
+    },
+    {
+     "w": "grapple with",
+     "ipa": "/ˈɡræpl wɪð/",
+     "pos": "phrasal v.",
+     "en": "grapple with (phrasal v.) means to struggle to deal with a difficult problem or situation",
+     "zh": "与……缠斗，费力应对",
+     "ctx": "原指海战抓钩钩住敌船接舷肉搏，本文写新加坡与十年来最严重的空气污染贴身缠斗，是被动挨打、挣不脱的那种斗。",
+     "ex1": "The country is still grappling with the economic aftermath of the pandemic. 该国仍在同疫情的经济后遗症缠斗。",
+     "ex2": "She has been grappling with the same dilemma for years. 同一个两难处境，她已经纠结了好几年。"
+    },
+    {
+     "w": "run into",
+     "ipa": "/rʌn ˈɪntə/",
+     "pos": "phrasal v.",
+     "en": "run into (phrasal v.) means to encounter a difficulty, obstacle or limit unexpectedly",
+     "zh": "迎面撞上，遭遇（困难、上限）",
+     "ctx": "本文说新加坡一头撞上跨境环境违法起诉的边界——不是不想追，是追到国境线就追不动了。",
+     "ex1": "The project ran into trouble when the main contractor pulled out. 总包方退出后，这个项目便遇到了麻烦。",
+     "ex2": "Any attempt to tax carbon will run into fierce political resistance. 任何征收碳税的尝试都会遭遇激烈的政治阻力。"
+    },
+    {
+     "w": "prosecute",
+     "ipa": "/ˈprɒsɪkjuːt/",
+     "pos": "v.",
+     "en": "prosecute (v.) means to officially charge someone with a crime and try to prove it in a court of law",
+     "zh": "刑事检控，起诉",
+     "ctx": "用 prosecute 而非 sue：sue 是要钱，prosecute 是国家出面办人，新加坡动的是国家机器。",
+     "ex1": "Under the new law, companies can be prosecuted for fires on land they own abroad. 依据新法，企业可因其境外自有土地上的火灾被刑事检控。",
+     "ex2": "No executive has ever been prosecuted under this provision. 迄今尚无一位高管依据该条款被起诉。"
+    },
+    {
+     "w": "legal action",
+     "ipa": "/ˈliːɡl ˈækʃn/",
+     "pos": "n.",
+     "en": "legal action (n.) means the use of the legal system to settle a dispute or stop someone doing something",
+     "zh": "法律行动，诉诸法律",
+     "ctx": "这是个故意模糊的大帽子：律师函、起诉、停止令都算，政府先把压力给足，具体手段留在后手。",
+     "ex1": "Residents threatened legal action against the plant after three nights of fumes. 连着三晚的刺鼻气味之后，居民威胁要对这家工厂采取法律行动。",
+     "ex2": "The company avoided legal action by settling out of court. 该公司通过庭外和解避免了法律诉讼。"
+    },
+    {
+     "w": "ties",
+     "ipa": "/taɪz/",
+     "pos": "n.",
+     "en": "ties (n.) means the connections or relationships that link people, companies or countries",
+     "zh": "纽带，联系",
+     "ctx": "deep ties to Singapore 指这些企业在新加坡有生意、有上市、有人脉——正因如此，新加坡才好下手。",
+     "ex1": "The two countries have deep economic ties that neither side wants to damage. 两国有很深的经济联系，双方都不想破坏。",
+     "ex2": "After the scandal, several partners cut ties with the firm. 丑闻之后，数家合作方与该事务所断绝了关系。"
+    },
+    {
+     "w": "wildfire",
+     "ipa": "/ˈwaɪldfaɪər/",
+     "pos": "n.",
+     "en": "wildfire (n.) means a large fire in the countryside that spreads quickly and is difficult to control",
+     "zh": "野火，失控的大火",
+     "ctx": "不用中性的 fires，用 wildfires，一上来就定性——这是失控的、蔓延的、本不该发生的火。",
+     "ex1": "The news spread like wildfire across the small town. 消息在这个小镇上像野火一样传开。",
+     "ex2": "Firefighters battled wildfires across three provinces for more than a week. 消防人员在三个省与野火搏斗了一个多星期。"
+    },
+    {
+     "w": "raise questions about",
+     "ipa": "/reɪz ˈkwestʃənz əˈbaʊt/",
+     "pos": "phrase",
+     "en": "raise questions about means to cause people to doubt or be suspicious about something",
+     "zh": "对……提出质疑",
+     "ctx": "新闻里的软刀子：不说“你们有问题”，只说“令人产生疑问”，把指控留给读者自己完成。",
+     "ex1": "The timing of the sale raised questions about the company’s motives. 出售的时机令人对这家公司的动机产生疑问。",
+     "ex2": "The report raises questions about whether the rules were ever enforced. 这份报告对这些规则是否曾被真正执行提出了质疑。"
+    },
+    {
+     "w": "listed",
+     "ipa": "/ˈlɪstɪd/",
+     "pos": "adj.",
+     "en": "listed (adj.) means officially included on a stock exchange so that shares can be traded",
+     "zh": "上市的",
+     "ctx": "listed on the local bourse 即在新加坡交易所挂牌，上市意味着受本地监管，这正是新加坡的抓手。",
+     "ex1": "Seven listed companies were asked about possible links to the fires. 七家上市公司被问及是否与这些火灾有关联。",
+     "ex2": "The group is listed in Singapore but operates plantations across the region. 该集团在新加坡上市，却在整个地区经营种植园。"
+    },
+    {
+     "w": "bourse",
+     "ipa": "/bʊəs/",
+     "pos": "n.",
+     "en": "bourse (n.) means a stock exchange, especially in a European or Asian city",
+     "zh": "证券交易所",
+     "ctx": "外刊偏爱用 bourse 代指交易所，比 stock exchange 更书面，这里指新加坡交易所 SGX。",
+     "ex1": "The local bourse asked listed firms to explain their exposure to the scandal. 本地交易所要求上市公司说明它们在这场丑闻中的风险敞口。",
+     "ex2": "Shares in the company fell sharply on the bourse the following morning. 次日早晨，该公司股票在交易所大幅下跌。"
+    },
+    {
+     "w": "standing",
+     "ipa": "/ˈstændɪŋ/",
+     "pos": "n.",
+     "en": "standing (n.) means a person’s or organisation’s reputation, rank or position in the opinion of others",
+     "zh": "地位，声望",
+     "ctx": "比 reputation 更具体：standing with investors 是“在投资人圈子里你还认不认账”，政府三刀里最狠的一刀。",
+     "ex1": "The scandal badly damaged the bank’s standing with institutional investors. 这场丑闻严重损害了该银行在机构投资者心目中的地位。",
+     "ex2": "Despite its size, the firm has never enjoyed much standing in the industry. 尽管规模不小，这家公司在行业内始终没有太高的声望。"
+    }
+   ]
+  },
+  {
+   "en_html": "“Singapore — which wants to continue being an international finance centre — gets a lot of business from these companies,” said Ivan Png at the National University of Singapore, who has <mark class=\"voc\">campaigned for</mark> anti-haze legislation. He added that the companies “depend on Singapore for <mark class=\"voc\">equity</mark> and financing — <mark class=\"voc\">you would think</mark> that would make them want to pay attention to what the government is saying”.",
+   "zh": "“新加坡——这个一心想保住国际金融中心地位的国家——从这些公司手里可是赚了不少生意。”新加坡国立大学的 Ivan Png 教授说。他长期为反烟霾立法奔走呼吁。他补充道，这些公司的股权融资和资金来源都仰仗新加坡，“按理说，这总该让他们更在乎政府在说些什么吧”。",
+   "notes": [
+    {
+     "w": "campaign for",
+     "ipa": "/kæmˈpeɪn fɔː/",
+     "pos": "v.",
+     "en": "campaign for means to take part in organised activities in order to achieve a political or social goal",
+     "zh": "为……奔走呼吁，发起运动",
+     "ctx": "这是教授的身份标签：他不只是评论者，是十几年推着反烟霾立法往前走的人。",
+     "ex1": "She has campaigned for stricter pollution laws for more than a decade. 十多年来，她一直在为更严格的污染治理立法奔走。",
+     "ex2": "The group is campaigning against the planned expansion of the airport. 该团体正在发起反对机场扩建计划的活动。"
+    },
+    {
+     "w": "equity",
+     "ipa": "/ˈekwəti/",
+     "pos": "n.",
+     "en": "equity (n.) means the value of a company’s shares; it can also mean fairness in the way people are treated",
+     "zh": "股权，权益；公平",
+     "ctx": "此处是金融义：这些公司靠新加坡发股、融资，钱袋子被人攥着，话却不肯听。",
+     "ex1": "The company raised money through equity rather than taking on more debt. 该公司通过股权而非增加负债来融资。",
+     "ex2": "Investors now hold roughly a third of the company’s equity. 投资者目前持有该公司约三分之一的股权。"
+    },
+    {
+     "w": "you would think",
+     "ipa": "/juː wʊd θɪŋk/",
+     "pos": "phrase",
+     "en": "you would think is used to say that something would seem likely or logical, often implying that it has not in fact happened",
+     "zh": "按理说（本该）……",
+     "ctx": "英语里最经济的一种批评：只说“按理说”，留白处就是“然而并没有”，教授的话到这儿才露出刺。",
+     "ex1": "You’d think he’d apologise after what he did, but he never did. 按理说他做了那种事总该道个歉吧，可他始终没有。",
+     "ex2": "You’d think the warnings would make them stop — they didn’t. 按理说那些警告总该让他们停手吧——并没有。"
+    }
+   ]
+  },
+  {
+   "en_html": "The issue has also threatened a <mark class=\"voc\">rift</mark> with Indonesia, where the fires are <mark class=\"voc\">blamed on</mark> <mark class=\"voc\">slash-and-burn</mark> practices by paper and palm oil producers. This year’s fires have been <mark class=\"voc\">exacerbated</mark> by a “super” El Niño, a natural weather phenomenon that has raised temperatures and reduced rainfall across Indonesia.",
+   "zh": "此事更令新加坡与印尼之间生出嫌隙之虞——在印尼，这些火灾被普遍归咎于造纸与棕榈油生产商“刀耕火种”的清地做法。而今年的火情，又因一场“超级厄尔尼诺”雪上加霜：这一自然气候现象推高了印尼全境的气温、削减了降水。",
+   "notes": [
+    {
+     "w": "rift",
+     "ipa": "/rɪft/",
+     "pos": "n.",
+     "en": "rift (n.) means a serious disagreement or break in a relationship between people, groups or countries",
+     "zh": "裂痕，嫌隙，破裂",
+     "ctx": "原文是 threatened a rift——不是已经翻脸，是“有翻脸之虞”，外交辞令的分寸就在这个词上。",
+     "ex1": "The dispute opened a rift between the two longtime allies. 这场争执在两个长期盟友之间撕开了一道裂痕。",
+     "ex2": "Both sides say they want to heal the rift before the summit. 双方都表示希望在此次峰会前弥合裂痕。"
+    },
+    {
+     "w": "blame sth on sb",
+     "ipa": "/bleɪm/",
+     "pos": "v. phrase",
+     "en": "blame something on someone means to say or believe that they are responsible for something bad",
+     "zh": "把……归咎于……",
+     "ctx": "被动语态 the fires are blamed on 很关键：这是印尼方面的说法，作者并没有替它背书。",
+     "ex1": "The fires were blamed on land-clearing by plantation operators. 这些火灾被归咎于种植园经营者的清地行为。",
+     "ex2": "Officials blamed the blackout on a combination of faults and human error. 官方把这次停电归咎于设备故障与人为失误的叠加。"
+    },
+    {
+     "w": "slash-and-burn",
+     "ipa": "/ˌslæʃ ənd ˈbɜːn/",
+     "pos": "adj. & n.",
+     "en": "slash-and-burn (adj./n.) means a farming method in which trees and plants are cut down and burnt to clear land for crops",
+     "zh": "刀耕火种，烧荒清地",
+     "ctx": "砍完就烧、烧完就种，它沿用至今不是因为野蛮，而是一把火的成本远低于机械清地。",
+     "ex1": "Slash-and-burn clearing remains widespread despite a ban stretching back decades. 尽管禁令已实施数十年，刀耕火种式的清地仍十分普遍。",
+     "ex2": "The smoke from slash-and-burn farming drifted into three neighbouring countries. 刀耕火种产生的烟飘进了三个邻国。"
+    },
+    {
+     "w": "exacerbate",
+     "ipa": "/ɪɡˈzæsəbeɪt/",
+     "pos": "v.",
+     "en": "exacerbate (v.) means to make a bad problem or situation worse",
+     "zh": "使恶化，使雪上加霜",
+     "ctx": "火是人烧的，天又添了一把油——作者把“人祸”与“天灾”并置，责任却一分没减。",
+     "ex1": "Dry weather exacerbated an already serious fire season. 干旱天气让本已严峻的火季雪上加霜。",
+     "ex2": "The dispute was exacerbated by a series of public statements on both sides. 双方一连串的公开表态使这场争端进一步恶化。"
+    }
+   ]
+  },
+  {
+   "en_html": "Singapore’s air quality has been classified by the government as “very unhealthy” this month, at times ranking the worst in the world, according to monitoring platform IQAir. Outdoor activities and sports events have been cancelled and hospital admissions for respiratory <mark class=\"voc\">complaints</mark> have <mark class=\"voc\">surged</mark>. The smog <mark class=\"voc\">cast a pall over</mark> this month’s Singapore Grand Prix. Public frustration is mounting with what has become a regular <mark class=\"voc\">nuisance</mark> in the city-state that generally <mark class=\"voc\">prides itself on</mark> effective governance.",
+   "zh": "本月，新加坡的空气质量被政府正式定为“非常不健康”级，按监测平台 IQAir 的数据，其污染程度一度位居全球之最。户外活动与体育赛事被迫取消，因呼吸道病症入院的人数急剧攀升。这场烟霾，为当月的新加坡大奖赛蒙上了一层挥之不去的阴云。在这个素以高效治理自矜的城邦，民众对这已成为常态的烦忧，怨气正越积越深。",
+   "notes": [
+    {
+     "w": "complaint",
+     "ipa": "/kəmˈpleɪnt/",
+     "pos": "n.",
+     "en": "complaint (n.) means an illness or medical condition, especially one that is not very serious; it also means a statement that something is unsatisfactory",
+     "zh": "病症，不适；投诉",
+     "ctx": "熟词僻义：日常是“投诉”，医学里是“病症”——respiratory complaints 即呼吸道病症。",
+     "ex1": "Hospital admissions for respiratory complaints surged during the haze. 烟霾期间，因呼吸道病症入院的人数激增。",
+     "ex2": "The most common complaint among patients was persistent fatigue. 患者中最常见的症状是持续的疲乏。"
+    },
+    {
+     "w": "surge",
+     "ipa": "/sɜːdʒ/",
+     "pos": "v.",
+     "en": "surge (v.) means to increase suddenly and powerfully",
+     "zh": "激增，暴涨",
+     "ctx": "数据词：不是 rise，是“涌”，医院被病人涌满了，画面感全在这个动词上。",
+     "ex1": "Hospital visits surged by forty per cent within a single week. 一周之内就诊人次激增了四成。",
+     "ex2": "A surge of public anger forced the ministry to reverse the decision. 公众愤怒的高涨迫使该部门收回了决定。"
+    },
+    {
+     "w": "cast a pall over",
+     "ipa": "/kɑːst ə pɔːl ˈoʊvə/",
+     "pos": "phrase",
+     "en": "cast a pall over means to make an event or occasion feel gloomy, spoiled or sad",
+     "zh": "给……蒙上阴影，使扫兴",
+     "ctx": "pall 是盖在棺柩上的黑布：一场速度与激情的赛车盛宴被写成了葬礼，一个字没骂，寒意已生。",
+     "ex1": "The accident cast a pall over what had been a joyful celebration. 那场事故给原本欢欣的庆典蒙上了一层阴影。",
+     "ex2": "A pall of smoke hung over the stadium throughout the final. 决赛全程，一层烟幕都笼罩在体育场上空。"
+    },
+    {
+     "w": "nuisance",
+     "ipa": "/ˈnjuːsns/",
+     "pos": "n.",
+     "en": "nuisance (n.) means something that is annoying or causes trouble; in law, it means an act that interferes with another’s use and enjoyment of property",
+     "zh": "令人厌烦之事；法律上的妨害",
+     "ctx": "a regular nuisance 是“年年准时来的麻烦”，正因为成了常态，民众的愤怒才格外重。",
+     "ex1": "What began as an occasional smell has become a regular nuisance. 起初只是偶尔的气味，如今已成反复出现的困扰。",
+     "ex2": "Under common law, a persistent smell can amount to a legal nuisance. 依据普通法，持续性的气味可构成法律上的妨害。"
+    },
+    {
+     "w": "pride oneself on",
+     "ipa": "/praɪd wʌnˈself ɒn/",
+     "pos": "v. phrase",
+     "en": "pride oneself on something means to feel proud of a particular quality, skill or achievement",
+     "zh": "以……为傲，把……当作招牌",
+     "ctx": "句子的刀子在这儿：它越以治理高效为傲，治不了烟霾就越难堪。",
+     "ex1": "The airline prides itself on punctuality and customer service. 这家航空公司以准点与客户服务为傲。",
+     "ex2": "She prides herself on never missing a deadline. 她对自己的从不误期感到自豪。"
+    }
+   ]
+  },
+  {
+   "en_html": "Singapore has taken steps to try to bring companies suspected of <mark class=\"voc\">field burning</mark> — which is also illegal in Indonesia — <mark class=\"voc\">to book</mark>. In 2014, it introduced a Transboundary Haze Pollution Act, which empowered the government to pursue criminal charges against companies found to have contributed to haze-producing fires and <mark class=\"voc\">levy</mark> fines as high as S$100,000 (US$78,000) a day, <mark class=\"voc\">capped</mark> at S$2mn (US$1.6mn) per <mark class=\"voc\">conviction</mark>. But initial attempts to <mark class=\"voc\">enforce</mark> the law <mark class=\"voc\">stalled</mark>, with the environment ministry complaining that its Indonesian <mark class=\"voc\">counterpart</mark> did not provide the necessary information to pursue charges. No company has been fined under the law.",
+   "zh": "新加坡已着手行动，试图将涉嫌田间焚烧的企业绳之以法——此类做法在印尼本土同样违法。2014 年，新加坡出台《跨境烟霾污染法》，授权政府对被查明曾酿成烟霾火灾的企业提起刑事指控，并课以每日最高 10 万新元（7.8 万美元）的罚款，每次定罪总额封顶 200 万新元（160 万美元）。然而，最初的执法尝试很快陷入停滞——环境部抱怨称，印尼对口部门始终未提供提起指控所必需的信息。至今，尚无一家企业依据该法被处以罚款。",
+   "notes": [
+    {
+     "w": "field burning",
+     "ipa": "/fiːld ˈbɜːrnɪŋ/",
+     "pos": "n.",
+     "en": "field burning (n.) means the burning of vegetation on farmland to clear it",
+     "zh": "田间焚烧，烧荒",
+     "ctx": "这是全文对同一件事的第二种说法，关键信息在后半句——这种做法在印尼本土同样违法，追责因此才站得住。",
+     "ex1": "Authorities identified companies suspected of field burning on their concessions. 当局认定了涉嫌在其特许地块上焚烧的企业。",
+     "ex2": "Field burning is banned in both countries, yet it continues every dry season. 两国都禁止田间焚烧，然而每个旱季它照旧发生。"
+    },
+    {
+     "w": "bring sb to book",
+     "ipa": "/brɪŋ ˈsʌmbədi tə bʊk/",
+     "pos": "phrase",
+     "en": "bring someone to book means to make someone answer for their actions and, usually, be punished for them",
+     "zh": "绳之以法，追责到底",
+     "ctx": "它和第 1 段 hold sb to account 是亲戚：前者偏“要你交代”，这个偏“要你付代价”，新加坡这次想办成事。",
+     "ex1": "Twelve years after the law passed, no one has been brought to book. 该法通过十二年后，仍无一人被绳之以法。",
+     "ex2": "Campaigners want the courts to bring polluters to book at last. 倡议者希望法院终于能将污染者绳之以法。"
+    },
+    {
+     "w": "levy",
+     "ipa": "/ˈlevi/",
+     "pos": "v.",
+     "en": "levy (v.) means to officially demand and collect a tax, fine or payment",
+     "zh": "征收，课以（罚款、税）",
+     "ctx": "征税征罚都用它，天生带“权力方强制拿”的味道：levy fines as high as S$100,000 a day。",
+     "ex1": "The city levies a fine on anyone caught burning waste in the open. 该市对任何被发现在露天焚烧垃圾的人处以罚款。",
+     "ex2": "A special tax was levied on imports of the raw material. 一项特别税被加征于该种原材料的进口。"
+    },
+    {
+     "w": "cap",
+     "ipa": "/kæp/",
+     "pos": "v.",
+     "en": "cap (v.) means to set an upper limit on the amount of something",
+     "zh": "封顶，设上限",
+     "ctx": "给罚款扣一顶帽子，封顶两百万新元，对年营收数十亿美元的集团可能只是几天利润，这正是罚不动人的原因。",
+     "ex1": "Fines under the act are capped at two million dollars per conviction. 该法规定每次定罪的罚款上限为两百万美元。",
+     "ex2": "The government lifted the cap on university places last year. 政府去年取消了大学招生名额的上限。"
+    },
+    {
+     "w": "conviction",
+     "ipa": "/kənˈvɪkʃn/",
+     "pos": "n.",
+     "en": "conviction (n.) means the act of finding someone guilty of a crime; it also means a strong opinion or belief",
+     "zh": "定罪；坚定的信念",
+     "ctx": "per conviction 即“每次定罪”，两义同源——一个是罪行被证明，一个是想法被确认。",
+     "ex1": "The maximum penalty is two million dollars per conviction. 每次定罪的处罚上限为两百万美元。",
+     "ex2": "He spoke with a conviction that silenced the room. 他说话时那种笃定的语气让全场安静下来。"
+    },
+    {
+     "w": "enforce",
+     "ipa": "/ɪnˈfɔːs/",
+     "pos": "v.",
+     "en": "enforce (v.) means to make sure that a law or rule is obeyed",
+     "zh": "执行，执法",
+     "ctx": "一部法的价值不在条文而在 enforcement，本文的控诉正是“有法不执行”。",
+     "ex1": "The ban is only meaningful if governments are willing to enforce it. 只有政府愿意执行，这项禁令才有意义。",
+     "ex2": "Enforcement has always been the weakest link in this legal framework. 执法始终是这一法律框架中最薄弱的一环。"
+    },
+    {
+     "w": "stall",
+     "ipa": "/stɔːl/",
+     "pos": "v.",
+     "en": "stall (v.) means to stop making progress, especially after having started",
+     "zh": "停滞，卡住，熄火",
+     "ctx": "比 stop 多一层：本该往前走，却动不了，而且不是自愿的——执法机器轰了两声就熄火。",
+     "ex1": "The investigation stalled for want of evidence from abroad. 由于缺乏境外证据，调查陷入了停滞。",
+     "ex2": "Negotiations stalled after the second round of talks broke down. 第二轮会谈破裂后，谈判便停滞了下来。"
+    },
+    {
+     "w": "counterpart",
+     "ipa": "/ˈkaʊntəpɑːt/",
+     "pos": "n.",
+     "en": "counterpart (n.) means a person or organisation that has the same job or position as another in a different place",
+     "zh": "对口方，对应机构",
+     "ctx": "its Indonesian counterpart 一个词省掉一整句“印尼的环境部门”，是外刊与商务英语的常青词。",
+     "ex1": "The minister met his French counterpart to discuss the dispute. 部长会见了法国对口部长以讨论这场争端。",
+     "ex2": "Our counterparts in Jakarta have not yet replied to the request. 我们在雅加达的对口部门尚未回复这一请求。"
+    }
+   ]
+  },
+  {
+   "en_html": "This year, Singapore has vowed to <mark class=\"voc\">toughen</mark> its stance. In recent days, the government has <mark class=\"voc\">served</mark> legal notices on 10 companies — identified using maps, <mark class=\"voc\">meteorological</mark> data and <mark class=\"voc\">satellite</mark> imagery — to demand they stop burning. Three of the businesses were served similar notices in 2015. “If companies refuse to co-operate, <mark class=\"voc\">regardless of</mark> whether they have a presence in Singapore . . . we will use every legal and regulatory <mark class=\"voc\">lever</mark> <mark class=\"voc\">at our disposal</mark> to <mark class=\"voc\">exert</mark> pressure where it matters.”",
+   "zh": "今年，新加坡已立誓采取更强硬的姿态。近日，政府向十家企业送达了法律通知——这些企业是借助地图、气象数据与卫星影像锁定的——勒令其即刻停止焚烧。其中三家企业，早在 2015 年便已收到过同样的通知。“倘若企业拒不配合，无论其在新加坡是否设有实体，我们都将动用手中一切法律与监管杠杆，在真正的要害之处施压。”",
+   "notes": [
+    {
+     "w": "toughen",
+     "ipa": "/ˈtʌfn/",
+     "pos": "v.",
+     "en": "toughen (v.) means to make something stricter, stronger or more severe",
+     "zh": "使更严厉，加严",
+     "ctx": "toughen its stance 是把架势摆硬，但“立誓强硬”与“真的办成”之间的距离，正是全文的悬念。",
+     "ex1": "Several governments have toughened penalties for environmental offences. 数国政府已加重了对环境违法行为的处罚。",
+     "ex2": "The regulator toughened disclosure rules after the scandal. 丑闻之后，监管机构加严了信息披露规则。"
+    },
+    {
+     "w": "serve",
+     "ipa": "/sɜːv/",
+     "pos": "v.",
+     "en": "serve (v.) in law means to formally deliver a legal document to someone",
+     "zh": "送达（法律文书）",
+     "ctx": "熟词僻义：不是“服务”是“送达”，serve a notice on sb 是法律程序的第一步。",
+     "ex1": "Legal notices were served on ten companies earlier this month. 本月早些时候，法律通知已被送达至十家企业。",
+     "ex2": "He was served with a summons while attending a conference abroad. 他在境外参会期间收到了送达的传票。"
+    },
+    {
+     "w": "meteorological",
+     "ipa": "/ˌmiːtiərəˈlɒdʒɪkl/",
+     "pos": "adj.",
+     "en": "meteorological (adj.) means relating to the study of weather and climate",
+     "zh": "气象的",
+     "ctx": "maps、meteorological data、satellite imagery 三件套，是新加坡自己取证、不必等印尼的关键。",
+     "ex1": "Investigators combined satellite imagery with meteorological data. 调查人员把卫星图像与气象数据结合了起来。",
+     "ex2": "The meteorological office warned of another dry week ahead. 气象部门警告未来一周仍将干旱。"
+    },
+    {
+     "w": "satellite",
+     "ipa": "/ˈsætəlaɪt/",
+     "pos": "n.",
+     "en": "satellite (n.) means an object that orbits a planet; in modern use, an artificial device sent into space",
+     "zh": "卫星",
+     "ctx": "本义是罗马将领身边的护卫，永远跟着主子跑，后来才成了天上的人造卫星，本文靠它锁定火点。",
+     "ex1": "Satellite imagery allowed investigators to pin down the fire hotspots. 卫星图像让调查人员得以锁定火点位置。",
+     "ex2": "Analysts used satellite data to trace the smoke back to its source. 分析人员利用卫星数据把烟尘追溯到源头。"
+    },
+    {
+     "w": "regardless of",
+     "ipa": "/rɪˈɡɑːdləs əv/",
+     "pos": "prep.",
+     "en": "regardless of means without being affected or influenced by something",
+     "zh": "不管，不顾",
+     "ctx": "regardless of whether they have a presence in Singapore——你哪怕连个办公室都没有，我照样治你，正面回应第 1 段的管辖权死结。",
+     "ex1": "The rule applies to all firms, regardless of where they are registered. 该规定适用于所有企业，不论其在何处注册。",
+     "ex2": "He went ahead with the plan regardless of the warnings. 他不顾那些警告，照样推进了计划。"
+    },
+    {
+     "w": "lever",
+     "ipa": "/ˈliːvə/",
+     "pos": "n.",
+     "en": "lever (n.) means a means of exerting pressure or influence to achieve a result",
+     "zh": "杠杆，手段",
+     "ctx": "阿基米德的支点：新加坡力气不大，但攥着你的钱、你的融资、你的名声，这就是它的支点。",
+     "ex1": "The government promised to use every legal lever at its disposal. 政府承诺动用手头一切法律手段。",
+     "ex2": "Regulators pulled every lever they had, and the burning still continued. 监管机构用尽了手上的每一根杠杆，焚烧却仍在继续。"
+    },
+    {
+     "w": "at one’s disposal",
+     "ipa": "/æt wʌnz dɪˈspəʊzl/",
+     "pos": "phrase",
+     "en": "at someone’s disposal means available for that person to use whenever and however they wish",
+     "zh": "供某人支配，任其调遣",
+     "ctx": "every lever at our disposal＝凡在我处置权之内的一切手段，这句话的狠，在于它把边界留白了。",
+     "ex1": "We will use every tool at our disposal to stop the burning. 我们将动用可支配的一切工具来制止焚烧。",
+     "ex2": "The team had a budget of two million dollars at its disposal. 该团队手头可支配的预算为两百万美元。"
+    },
+    {
+     "w": "exert",
+     "ipa": "/ɪɡˈzɜːt/",
+     "pos": "v.",
+     "en": "exert (v.) means to apply or bring to bear a force, influence or pressure",
+     "zh": "施加（压力、影响）",
+     "ctx": "exert pressure where it matters 即“哪儿疼戳哪儿”，比 apply pressure 更强调用力。",
+     "ex1": "Investors are exerting pressure on lenders to disclose their exposure. 投资者正对放贷方施压，要求其披露风险敞口。",
+     "ex2": "She exerted considerable influence over the final decision. 她对最终决定施加了相当大的影响。"
+    }
+   ]
+  },
+  {
+   "en_html": "At least four of the 10 companies are <mark class=\"voc\">suppliers to</mark> Asia Pulp and Paper, which is headquartered in Singapore and part of Indonesian <mark class=\"voc\">conglomerate</mark> Sinar Mas. Two others are run by permanent Singapore residents. Shanmugam said the government would investigate APP and several other companies listed in Singapore, where many Indonesian conglomerates <mark class=\"voc\">access</mark> global capital. “Some of the fires or smoke-source points seem to be <mark class=\"voc\">associated with</mark> Singapore-listed First Resources and Bumitama Agri, as well as First Borneo Plantations,” he said. “We will be asking more questions of these companies.” Shanmugam added that banks that <mark class=\"voc\">lent to</mark> the businesses had also questioned them, and the Monetary Authority of Singapore, the city-state’s financial regulator, would track lenders’ risk <mark class=\"voc\">exposure</mark>.",
+   "zh": "在这十家企业中，至少有四家是亚洲浆纸（APP）的供货商——APP 总部设于新加坡，隶属印尼金光集团旗下。另有两家企业则由新加坡永久居民经营。Shanmugam 表示，政府将对 APP 及数家在新加坡上市的企业展开调查——众多印尼财团正是借此地获取全球资本。“部分火点与烟源似乎与新加坡上市的 First Resources、Bumitama Agri 以及 First Borneo Plantations 存在关联，”他说，“我们将向这些企业提出更多质询。”他补充道，向这些企业放贷的银行也已对其提出问询；而作为本城邦金融监管机构的新加坡金融管理局，将追踪各放贷方的风险敞口。",
+   "notes": [
+    {
+     "w": "supplier to",
+     "ipa": "/səˈplaɪə tə/",
+     "pos": "n. phrase",
+     "en": "a supplier to a company is a business that provides goods or services to that company",
+     "zh": "向……供货的供应商",
+     "ctx": "介词分工要看清：supplier of 供的是什么货、supplier to 供货给谁——这四家不是小公司，是 APP 的供货商。",
+     "ex1": "At least four suppliers to the group were named in the notice. 通知中点名了至少四家向该集团供货的供应商。",
+     "ex2": "The firm is a major supplier of pulp to printers across Asia. 该公司是亚洲各地印刷厂的主要纸浆供应商。"
+    },
+    {
+     "w": "conglomerate",
+     "ipa": "/kənˈɡlɒmərət/",
+     "pos": "n.",
+     "en": "conglomerate (n.) means a large corporation made up of several companies operating in very different industries",
+     "zh": "跨行业大财团",
+     "ctx": "con- 一起 + glomus 线团：纸浆、棕榈油、银行、地产滚成一团，金光集团就是这个词的活标本。",
+     "ex1": "The conglomerate spans pulp, palm oil, banking and property. 这家财团横跨纸浆、棕榈油、银行与地产。",
+     "ex2": "Many of the region’s biggest conglomerates are still family-controlled. 该地区许多最大的财团至今仍由家族掌控。"
+    },
+    {
+     "w": "access",
+     "ipa": "/ˈækses/",
+     "pos": "v.",
+     "en": "access (v.) means to obtain or gain the use of something, such as money, data or a service",
+     "zh": "获取，接入，使用",
+     "ctx": "此处作动词而非名词：access global capital 即“拿到全球的钱”，这正是新加坡敢查的底气。",
+     "ex1": "Indonesian groups access global capital through listings in Singapore. 印尼财团通过在新加坡上市来获取全球资本。",
+     "ex2": "Smaller firms struggle to access the same pool of international investors. 规模较小的企业难以触达同一批国际投资者。"
+    },
+    {
+     "w": "be associated with",
+     "ipa": "/bi əˈsəʊsieɪtɪd wɪð/",
+     "pos": "v. phrase",
+     "en": "be associated with means to be linked or connected with someone or something",
+     "zh": "与……有关联，与……有牵连",
+     "ctx": "官员只说“似乎有关联”而不说“就是它们烧的”，既留了退路，也留了继续查的空间。",
+     "ex1": "The hotspots are associated with concessions held by several suppliers. 这些火点与数家供应商持有的特许地块存在关联。",
+     "ex2": "He has never been associated with any of the companies under investigation. 他从未与任何一家被调查的公司有过牵连。"
+    },
+    {
+     "w": "lender",
+     "ipa": "/ˈlendə/",
+     "pos": "n.",
+     "en": "a lender is a bank or other organisation that lends money to businesses or individuals",
+     "zh": "放贷方，贷款机构",
+     "ctx": "banks that lent to the businesses——银行也来问话了，说明压力已从监管传到了钱这一端。",
+     "ex1": "Banks that lent to the plantation companies have begun asking questions. 向这些种植园公司放贷的银行已开始提出质询。",
+     "ex2": "Lenders quietly reduced their exposure to the sector within weeks. 数周之内，各放贷方悄然削减了对该行业的敞口。"
+    },
+    {
+     "w": "exposure",
+     "ipa": "/ɪkˈspəʊʒə/",
+     "pos": "n.",
+     "en": "exposure (n.) in finance means the amount of money or assets at risk from a particular borrower, market or event",
+     "zh": "敞口，风险敞口",
+     "ctx": "熟词僻义：你借出去的一百万就是你的 exposure，MAS 要查的正是本地银行押了多少在烧荒企业身上。",
+     "ex1": "The regulator will track lenders’ exposure to companies linked to the fires. 监管机构将追踪放贷方对涉火企业的风险敞口。",
+     "ex2": "Investors cut their exposure to the region within a single trading week. 投资者在一个交易周内便削减了对该地区的敞口。"
+    }
+   ]
+  },
+  {
+   "en_html": "First Resources said it <mark class=\"voc\">welcomed</mark> the investigation, adding it was “confident that an <mark class=\"voc\">objective</mark> review of the available evidence will prove that it does not <mark class=\"voc\">engage in</mark> any land clearing by fire, whether directly or indirectly”. APP, Bumitama Agri and First Borneo Plantations did not respond to requests for comment. SGX, the local bourse, has separately asked seven listed companies — including Golden-Agri Resources, Wilmar and Kencana Agri — about possible links to the haze.",
+   "zh": "First Resources 表示欢迎此次调查，并称相信对现有证据的客观审查将证明，公司“不曾以焚烧方式清理任何土地，无论直接或间接”。APP、Bumitama Agri 与 First Borneo Plantations 则未回应置评请求。此外，本地交易所新交所已另行向七家上市公司——其中包括金光农业资源、丰益国际与 Kencana Agri——问询其是否与本次烟霾存在关联。",
+   "notes": [
+    {
+     "w": "welcome",
+     "ipa": "/ˈwelkəm/",
+     "pos": "v.",
+     "en": "welcome (v.) means to be pleased about and supportive of something that happens",
+     "zh": "欢迎，乐于接受",
+     "ctx": "企业公关里最聪明的一种防守：说反对等于承认心虚，说欢迎既显坦荡，又什么都不用承认。",
+     "ex1": "The company said it welcomed the investigation into its operations. 该公司表示欢迎对其经营活动展开调查。",
+     "ex2": "Investors welcomed the regulator’s decision to look into the matter. 投资者对监管机构介入调查此事表示欢迎。"
+    },
+    {
+     "w": "objective",
+     "ipa": "/əbˈdʒektɪv/",
+     "pos": "adj. & n.",
+     "en": "objective (adj.) means based on facts and not influenced by personal feelings; as a noun it means a goal",
+     "zh": "客观的；目标",
+     "ctx": "双义词：an objective review 是“客观审查”，our main objective 才是“主要目标”，别译成“客观的目标”。",
+     "ex1": "The company called for an objective review of the available evidence. 该公司呼吁对现有证据作一次客观审查。",
+     "ex2": "Our main objective is to reduce emissions without raising costs. 我们的主要目标是在不推高成本的前提下减少排放。"
+    },
+    {
+     "w": "engage in",
+     "ipa": "/ɪnˈɡeɪdʒ ɪn/",
+     "pos": "v. phrase",
+     "en": "engage in means to take part in or be involved in a particular activity",
+     "zh": "从事，参与",
+     "ctx": "它几乎总跟着不太好的事：公司否认 engage in land clearing by fire，否认的正是“烧”这个动作。",
+     "ex1": "The firm denies that it engages in any land clearing by fire. 该公司否认从事任何以火烧方式清理土地的行为。",
+     "ex2": "Investigators found that the subsidiary had engaged in prohibited practices. 调查人员发现这家子公司曾从事被禁止的做法。"
+    }
+   ]
+  },
+  {
+   "en_html": "Indonesia’s police chief said this week that authorities had <mark class=\"voc\">named</mark> 11 corporations, three of them foreign, as <mark class=\"voc\">suspects</mark> in connection with the fires. “Some countries are <mark class=\"voc\">mocking</mark>, <mark class=\"voc\">insulting</mark> us . . . when many of their companies [operating] here are responsible,” Indonesia’s President Prabowo Subianto said in a speech on Thursday, adding: “We will announce those names <mark class=\"voc\">when the time comes</mark>.” He did not identify the countries.",
+   "zh": "印尼警察总长本周表示，当局已就此次火灾将十一家企业列为嫌疑方，其中三家为外资企业。印尼总统普拉博沃·苏比安托周四在一场演讲中称：“有些国家在嘲讽我们、羞辱我们……可它们在本国经营的众多企业，才是真正的责任方。”他并补充道：“我们会在适当的时候公布这些名字。”但他并未指明是哪些国家。",
+   "notes": [
+    {
+     "w": "name",
+     "ipa": "/neɪm/",
+     "pos": "v.",
+     "en": "name (v.) means to identify someone publicly as having done something",
+     "zh": "点名，公开指认",
+     "ctx": "点名本身就是武器：还没定罪，名声先倒，named 11 corporations as suspects 就是这个动作。",
+     "ex1": "Authorities named eleven corporations as suspects in connection with the fires. 当局就这些火灾将十一家企业列为嫌疑方。",
+     "ex2": "He was named in the report but has not been charged. 他在报告中被点了名，但尚未被起诉。"
+    },
+    {
+     "w": "suspect",
+     "ipa": "/ˈsʌspekt/ n. & /səˈspekt/ v.",
+     "pos": "n. & v.",
+     "en": "suspect (n.) means a person or organisation believed to be responsible for a crime; as a verb it means to believe that something is true without proof",
+     "zh": "嫌疑人；怀疑",
+     "ctx": "名动异读：名词重音在前、动词重音在后，本文用的是名词 suspects（嫌疑方）。",
+     "ex1": "Eleven corporations were named as suspects in the investigation. 十一家企业在调查中被列为嫌疑方。",
+     "ex2": "Investigators suspect the firm of concealing data from regulators. 调查人员怀疑该公司向监管机构隐瞒了数据。"
+    },
+    {
+     "w": "mock",
+     "ipa": "/mɒk/",
+     "pos": "v.",
+     "en": "mock (v.) means to laugh at someone in an unkind way, often by imitating them",
+     "zh": "嘲笑，讥讽",
+     "ctx": "印尼总统的原话：有些国家在“嘲讽”我们，火气全压在这个动词上。",
+     "ex1": "The president accused some countries of mocking his government. 总统指责某些国家嘲笑他的政府。",
+     "ex2": "Critics say the fine makes a mockery of the whole enforcement system. 批评者称这笔罚款让整个执法体系成了笑话。"
+    },
+    {
+     "w": "insult",
+     "ipa": "/ɪnˈsʌlt/",
+     "pos": "v.",
+     "en": "insult (v.) means to say or do something rude and offensive to someone",
+     "zh": "侮辱，辱骂",
+     "ctx": "in- 在上 + saltare 跳：跳上去扑倒对方，动作本身就是最大的冒犯，与 mocking 并列，火气加倍。",
+     "ex1": "He accused foreign governments of insulting his country. 他指责外国政府侮辱他的国家。",
+     "ex2": "The proposal was an insult to everyone affected by the haze. 这项提议对每一位受烟霾影响的人都是一种侮辱。"
+    },
+    {
+     "w": "when the time comes",
+     "ipa": "/wen ðə taɪm kʌmz/",
+     "pos": "phrase",
+     "en": "when the time comes means at the appropriate or necessary moment in the future",
+     "zh": "时机成熟时，到时候",
+     "ctx": "外交语言里的“保留牌”：不说“我现在不告诉你”，说“到时候会公布”，威胁正来自那个不摊牌的悬念。",
+     "ex1": "We will announce those names when the time comes. 我们会在适当的时候公布那些名字。",
+     "ex2": "When the time comes, the regulator will not hesitate to act. 到时候，监管机构会毫不犹豫地采取行动。"
+    }
+   ]
+  },
+  {
+   "en_html": "Indonesia’s government communication agency said: “Indonesia and Singapore <mark class=\"voc\">maintain</mark> channels of engagement on environmental issues, including transboundary pollution.” It added that it <mark class=\"voc\">prioritises</mark> “the protection of affected communities, the <mark class=\"voc\">containment</mark> of fires, and effective enforcement of environmental regulations”. NUS professor Png <mark class=\"voc\">called for</mark> stronger laws to provide an <mark class=\"voc\">incentive</mark> to <mark class=\"voc\">whistleblowers</mark>, pointing to successful efforts in the US to <mark class=\"voc\">combat</mark> <mark class=\"voc\">bribery</mark> under the Foreign Corrupt Practices Act. “It is very hard to collect evidence,” he said. “But when you offer incentives, whistleblowers will <mark class=\"voc\">come out</mark>.”",
+   "zh": "印尼政府新闻机构表示：“印尼与新加坡在环境议题上——包括跨境污染问题——保持着沟通渠道。”该机构并补充称，其优先事项是“保护受影响社区、控制火势蔓延，以及有效执行环境法规”。新加坡国立大学的 Png 教授呼吁制定更为强硬的法律，为举报人设立激励机制，并援引美国依据《反海外腐败法》打击海外行贿的成效作为例证。“取证实在太难了，”他说，“但只要你肯给出激励，吹哨人就会站出来。”",
+   "notes": [
+    {
+     "w": "maintain",
+     "ipa": "/meɪnˈteɪn/",
+     "pos": "v.",
+     "en": "maintain (v.) means to keep something in existence or continue it without change",
+     "zh": "保持，维持",
+     "ctx": "maintain channels 是外交套话：渠道还在，别的都别谈，一句软话把责任推得干干净净。",
+     "ex1": "The two governments maintain channels of engagement on environmental issues. 两国政府在环境议题上保持着沟通渠道。",
+     "ex2": "The company maintains that its operations comply with all local rules. 该公司坚称其运营符合当地一切规定。"
+    },
+    {
+     "w": "prioritise",
+     "ipa": "/praɪˈɒrətaɪz/",
+     "pos": "v.",
+     "en": "prioritise (v.) means to treat something as more important than other things",
+     "zh": "优先处理，把……放在首位",
+     "ctx": "官方表态的第三个词：优先保护社区、控制火势、有效执法，偏偏没提“追责企业”。",
+     "ex1": "The agency said it prioritises the protection of affected communities. 该机构表示把保护受影响社区放在首位。",
+     "ex2": "Governments must prioritise enforcement over new legislation. 各国政府必须把执法置于立新法之前。"
+    },
+    {
+     "w": "containment",
+     "ipa": "/kənˈteɪnmənt/",
+     "pos": "n.",
+     "en": "containment (n.) means the action of keeping something harmful within limits and stopping it spreading",
+     "zh": "围堵，控制",
+     "ctx": "灾害与外交双关：既要控火，也要“控局”，把事情按住，别让它扩散成外交事件。",
+     "ex1": "Authorities said containment of the fires remained their priority. 官方表示控制火势蔓延仍是他们的首要任务。",
+     "ex2": "Crews focused on containment rather than putting the flames out entirely. 救援人员把重点放在围堵上，而非彻底扑灭火焰。"
+    },
+    {
+     "w": "call for",
+     "ipa": "/kɔːl fɔː/",
+     "pos": "phrasal v.",
+     "en": "call for means to publicly demand or recommend that something should happen",
+     "zh": "呼吁，要求",
+     "ctx": "不是“叫某人来”，是公开主张：教授 call for stronger laws，把矛头从企业转向立法本身。",
+     "ex1": "The professor called for stronger laws to protect whistleblowers. 这位教授呼吁制定更强有力的法律以保护举报人。",
+     "ex2": "Critics called for an independent inquiry into the delay. 批评者要求就这一延误展开独立调查。"
+    },
+    {
+     "w": "incentive",
+     "ipa": "/ɪnˈsentɪv/",
+     "pos": "n.",
+     "en": "incentive (n.) means something that encourages or motivates someone to do something",
+     "zh": "激励，奖励，刺激",
+     "ctx": "词根 canere 唱歌，指古罗马乐队里先起头定节奏的人，本文指给举报人的那点“起头的好处”。",
+     "ex1": "Offer incentives, and whistleblowers will come forward with evidence. 只要提供激励，举报人就会带着证据站出来。",
+     "ex2": "Tax incentives were introduced to encourage cleaner production methods. 政府推出了税收激励，以鼓励更清洁的生产方式。"
+    },
+    {
+     "w": "whistleblower",
+     "ipa": "/ˈwɪslbləʊə/",
+     "pos": "n.",
+     "en": "a whistleblower is a person who tells the public or authorities about illegal or dishonest activities within the organisation they work for",
+     "zh": "吹哨人，内部举报人",
+     "ctx": "球场上裁判吹哨叫停犯规，文中指掌握公司烧荒内情、却不敢开口的内部人。",
+     "ex1": "Whistleblowers often risk their careers to expose wrongdoing. 举报人常常要拿自己的职业生涯冒险去揭露不法行为。",
+     "ex2": "Without incentives, whistleblowers have little reason to come out. 没有激励，举报人就没有多少站出来的理由。"
+    },
+    {
+     "w": "combat",
+     "ipa": "/ˈkɒmbæt/",
+     "pos": "v.",
+     "en": "combat (v.) means to fight against or take action to stop something bad",
+     "zh": "打击，与……作斗争",
+     "ctx": "与 battle、debate 同根，本文用它说美国依 FCPA 打海外行贿，那是教授递过来的样板。",
+     "ex1": "America has had some success in combatting bribery abroad. 美国在打击海外行贿方面取得了一定成效。",
+     "ex2": "New tools were introduced to combat money laundering across borders. 有关部门引入了新工具以打击跨境洗钱。"
+    },
+    {
+     "w": "bribery",
+     "ipa": "/ˈbraɪbəri/",
+     "pos": "n.",
+     "en": "bribery (n.) means the act of offering money or gifts to persuade someone to do something dishonest",
+     "zh": "贿赂，行贿",
+     "ctx": "美国能管到境外行贿，靠的是“钱的路径”，这正是新加坡想学的思路。",
+     "ex1": "The company faced bribery allegations in three countries. 这家公司在三个国家面临行贿指控。",
+     "ex2": "Anti-bribery laws have teeth only when enforcement is credible. 反贿赂法只有在执法可信时才具有威慑力。"
+    },
+    {
+     "w": "come out",
+     "ipa": "/kʌm aʊt/",
+     "pos": "phrasal v.",
+     "en": "come out means to make something public by speaking or acting, especially after keeping it hidden",
+     "zh": "站出来，公开现身",
+     "ctx": "从暗处走出来：吹哨人带着证据 come out，全文的落点不在罚单，在人。",
+     "ex1": "When you offer incentives, whistleblowers will come out. 只要你肯给激励，举报人就会站出来。",
+     "ex2": "Two former managers came out publicly with documents. 两名前经理带着文件公开站了出来。"
+    }
+   ]
+  }
+ ],
+ "proper": [
+  {
+   "name": "haze / 东南亚跨境烟霾",
+   "def": "指印尼苏门答腊、加里曼丹等地因烧荒清地引发的森林与泥炭地火灾所产生的烟雾，每年旱季随季风飘至新加坡、马来西亚，形成区域性空气污染。最严重的一次是 1997–98 年，过火面积约 800 万公顷，东南亚两千多万人出现呼吸道感染；2013 年新加坡 PSI 一度冲到 401，创历史纪录；2015 年的烟霾持续数月，是新加坡首次公开点名责任企业的一轮。<br>本文中的意思：整篇文章的钥匙词与主线——它不是水汽之雾，而是人为烧荒造出来的“人祸”，理解这一层，才懂新加坡为何愤怒、又为何束手无策。"
+  },
+  {
+   "name": "Singapore / 新加坡",
+   "def": "东南亚城邦国家，国土面积约 735 平方公里（大致相当于北京五环以内），人口约六百万。1965 年被迫脱离马来西亚联邦独立，当时既无资源也无腹地，连淡水都需向马来西亚购买；此后在荷兰经济学家 Albert Winsemius 等人建议下走外向型经济路线，靠法治、廉洁与效率立国，成为全球最富裕的经济体之一。<br>本文中的意思：全文主角——一个把“高效治理”刻进 DNA 的国家，年年被邻国烧荒的烟灌满却拿不出一张罚单，它的骄傲恰恰是它最难堪的地方。"
+  },
+  {
+   "name": "Indonesia / 印度尼西亚",
+   "def": "世界最大群岛国家，人口约 2.8 亿，是全球最大的棕榈油生产国与重要的纸浆出口国。其森林与泥炭地的清地长期依赖焚烧，虽本国法律明令禁止，但执法力量有限、产业链层级复杂，年年旱季仍有大面积火点。<br>本文中的意思：烟霾的源头国，而且文中有两个印尼——一个是警方点名十一家嫌疑企业、总统公开反击的印尼，一个是官方机构打外交太极、只承诺“优先控制火情”的印尼。"
+  },
+  {
+   "name": "PSI / Pollutant Standards Index（污染物标准指数）",
+   "def": "新加坡采用的空气质量指数，以 PM2.5 等污染物浓度折算，分级为：0–50 良好、51–100 中等、101–200 不健康、201–300 非常不健康、301 以上危险。新加坡自 2014 年起改以 PM2.5 为主要指标，2013 年 6 月曾录得 401 的历史峰值。<br>本文中的意思：文中的 very unhealthy 是倒数第二档，意味着全民减少户外活动、老人与儿童尽量留在室内——这不是“空气有点差”，而是政府已启动正式预警程序的严重程度。"
+  },
+  {
+   "name": "IQAir / 空气质量监测平台",
+   "def": "瑞士空气质量技术公司，总部位于瑞士戈尔达赫，通过在世界各地布设的地面监测站收集 PM2.5 等数据，发布实时全球城市空气质量排名，被各国媒体广泛引用。<br>本文中的意思：第三方数据来源——写 according to IQAir 是在撇清，“全球最差”不是新加坡自述、也不是记者断言，而是独立监测机构的实测。"
+  },
+  {
+   "name": "Singapore Grand Prix / 新加坡大奖赛",
+   "def": "一级方程式（F1）新加坡站，2008 年首次举办，赛道为滨海湾一带的城市街道，是 F1 历史上第一场夜间比赛——上千盏探照灯把街道照如白昼，赛车从摩天大楼下呼啸而过，每年为新加坡带来数万境外游客与上亿旅游收入。<br>本文中的意思：烟霾最刺眼的受害者，作者用 cast a pall over（盖上一块棺布）形容它——一国最漂亮的那张名片，在全世界转播镜头前糊了一层灰。"
+  },
+  {
+   "name": "Transboundary Haze Pollution Act / THPA（《跨境烟霾污染法》）",
+   "def": "新加坡 2014 年通过并于同年生效的专门法律，是世界上第一部针对跨境烟霾、可追究境外实体责任的国内法。它规定：对造成新加坡烟霾污染者可处每日最高 10 万新元（约 7.8 万美元）的罚款，每次定罪总额封顶 200 万新元（约 160 万美元）；并授权政府发出“预防措施通知”，要求企业停止焚烧、扑灭火点。<br>本文中的意思：全文最扎心的证据——自该法生效至今，没有一家公司被罚过款，也没有人被起诉过。一部条文漂亮的法律，只要开不出第一张罚单，就只是一个姿态。"
+  },
+  {
+   "name": "Asian Dollar Market / 亚洲美元市场",
+   "def": "1968 年新加坡设立的离岸美元市场，允许银行在新加坡开设专门账户体系（亚洲货币单位），把境外美元集中到本地进行存放与拆借。这在当时的亚洲是首创，此后吸引了全球银行、基金与跨国企业区域总部陆续迁入。<br>本文中的意思：第 3 段“新加坡想继续当国际金融中心”的历史起点——金融业是它几十年的命根子，而被追责的恰恰是它的客户，这才是投鼠忌器的由来。"
+  },
+  {
+   "name": "El Niño / 厄尔尼诺",
+   "def": "太平洋赤道海域海水大范围异常升温的现象，会改变全球大气环流，使部分地区暴雨成灾、另一些地区高温少雨，学名 ENSO（厄尔尼诺—南方涛动）。名字来自西班牙语“圣婴”，因这股暖流总在圣诞节前后出现；历史上最强的一次是 1997–98 年。<br>本文中的意思：今年火情的“助燃剂”，与开场的 1997 年世纪大火遥相呼应——天气不是借口，但它是一把浇上去的油，也正因为它是“自然现象”，反成了所有相关方最好的免责声明。"
+  },
+  {
+   "name": "Sinar Mas / 金光集团",
+   "def": "印尼最大的企业集团之一，印尼语意为“金色的光芒”。创始人为印尼华人企业家黄奕聪（Eka Tjipta Widjaja），祖籍福建泉州，少年时赴印尼谋生，从小生意起步，逐步扩展到纸浆造纸、棕榈油、金融、地产等多个领域。<br>本文中的意思：追查链条的上端——被点名的四家供应商向它旗下的 APP 供货，新交所问询的七家中金光农业资源（GAR）也属它，一个集团、两条业务线同时被卷入，是 conglomerate 最生动的注脚。"
+  },
+  {
+   "name": "Asia Pulp and Paper / APP（亚洲浆纸）",
+   "def": "全球最大的浆纸企业之一，隶属印尼金光集团，总部设于新加坡，业务覆盖纸浆、造纸与包装，在印尼拥有大面积人工林与特许经营地。<br>本文中的意思：被点名企业的“买家”与母公司——至少四家收到法律通知的公司是它的供应商，政府明确表示将对其展开调查，而 APP 未回应置评请求。"
+  },
+  {
+   "name": "Golden Agri-Resources / GAR（金光农业资源）",
+   "def": "印尼最大的棕榈油企业之一，同样隶属金光集团，在新加坡交易所上市，在印尼拥有大面积油棕种植园。<br>本文中的意思：新交所单独问询的七家上市公司之一，它与 APP 同属金光集团，说明这场追查已经从“造纸”蔓延到“棕榈油”两条线。"
+  },
+  {
+   "name": "Wilmar International / 丰益国际",
+   "def": "总部位于新加坡的农业综合企业，全球最大的棕榈油加工与贸易商之一，业务涵盖油棕种植、食用油精炼、粮油加工与贸易。中国消费者熟悉的“金龙鱼”食用油，其品牌方益海嘉里的控股股东正是丰益国际。<br>本文中的意思：新交所问询的七家之一，也是全文与中国读者距离最近的名字——厨房灶台边那瓶油，可能就出自这条正在被追查的产业链。"
+  },
+  {
+   "name": "First Resources、Bumitama Agri、First Borneo Plantations（第一资源、布米塔玛农业、第一婆罗洲种植园）",
+   "def": "三家在新加坡交易所上市、主营印尼油棕种植与棕榈油生产的企业。新加坡内政部长表示，部分火点与烟源似乎与这三家公司存在关联。<br>本文中的意思：企业三种态度的样本——First Resources 主动回应、称“欢迎调查”并否认直接或间接以火烧地，另两家则未回应置评请求：沉默不是没有态度，沉默本身就是态度。"
+  },
+  {
+   "name": "SGX / Singapore Exchange（新加坡交易所）",
+   "def": "新加坡的证券交易所，1999 年由多家机构合并成立，是东南亚主要的融资平台之一，众多印尼企业集团在此上市以获取国际资本。<br>本文中的意思：追查的另一条线——它与政府分头行动（separately）：政府走行政调查，交易所走市场监管，已另行向包括 GAR、丰益国际、Kencana Agri 在内的七家上市公司发出问询。"
+  },
+  {
+   "name": "Monetary Authority of Singapore / MAS（新加坡金融管理局）",
+   "def": "成立于 1971 年，同时履行中央银行与金融监管职能，既管货币发行与汇率，也监管银行、证券与保险。新加坡并没有传统意义上独立的“中央银行”，MAS 承担的就是央行职责，只是名字里没有“银行”二字。<br>本文中的意思：追查的最高一层——它将追踪各放贷方对涉事企业的风险敞口，意味着此事已不只是环保问题，而被上升为金融稳定问题：环保部门管不了的事，交给金融中枢来管。"
+  },
+  {
+   "name": "Foreign Corrupt Practices Act / FCPA（《反海外腐败法》）",
+   "def": "美国 1977 年通过的联邦法律，禁止美国企业向外国官员行贿。出台背景是水门事件后美国证监会的调查——数百家美国公司承认曾在海外支付不当款项，其中洛克希德公司行贿案最为轰动。该法之所以能管到境外行为，关键在于其管辖逻辑：只要款项经过美国银行系统，或企业在美国上市，即可管辖。<br>本文中的意思：教授援引的样板，它证明了两件事——国内法可以通过“钱的路径”管到境外行为（这正是新加坡的思路），打击隐蔽违法行为要靠激励内部人。"
+  }
+ ],
+ "sources_note": "资料核对：以上背景依据文章内容，并参考 Financial Times 报道、《跨境烟霾污染法》条文、IQAir 及新加坡交易所与新加坡金融管理局截至 2026 年 10 月的公开资料。",
+ "practice": {
+  "intro": "请根据今天学习的外刊，把下面的中文句子翻译成英文。要求：尽量用上本文的核心表达，可以适当改变词形，但不要直接照抄原文。",
+  "items": [
+   "新加坡一边与十年来最严重的空气污染苦苦缠斗，一边试图追究相关企业的责任；然而这座被烟霾呛住的城市国家，在起诉跨境环境违法行为这件事上，正撞上一道看不见的天花板。",
+   "政府还对本国交易所上市的其他企业是否牵涉其中提出了质疑，并威胁要对这些公司的利润、融资渠道，以及它们在投资者心目中的地位下手。",
+   "新加坡——这个一心想保住国际金融中心地位的国家——从这些公司身上赚了不少生意；这些公司的股权融资和资金来源都仰仗新加坡，按理说，这总该让它们更在乎政府在说些什么吧。",
+   "2014 年，新加坡出台了《跨境烟霾污染法》，授权政府对被查明曾酿成烟霾火灾的企业提起刑事指控，并课以每日最高 10 万新元（合 7.8 万美元）的罚款，每次定罪的总额封顶 200 万新元。",
+   "倘若企业拒不配合，无论其在新加坡是否设有实体机构，我们都将动用手中一切可支配的法律与监管杠杆，在真正的要害之处施加压力。",
+   "取证实在太难了。但只要你肯给出激励，举报人就会站出来。"
+  ],
+  "critical_en": "If the fire burns in one country and the damage lands in another, who should be held responsible — the company that lit the match, or the state that failed to police it?",
+  "critical_zh": "火在一个国家烧，伤在另一个国家落：该被追责的是点火的企业，还是那个没能管住它的国家？",
+  "answer": "1. Singapore is trying to hold companies to account as it grapples with its worst air pollution in a decade, but the smog-choked city-state is running into the limits of prosecuting cross-border environmental laws.<br><br>2. It has also raised questions about whether other companies listed on the local bourse may be involved, and has threatened to target company profits, access to financing and standing with investors.<br><br>3. “Singapore — which wants to continue being an international finance centre — gets a lot of business from these companies…” [the companies] “depend on Singapore for equity and financing — you would think that would make them want to pay attention to what the government is saying.”<br><br>4. In 2014, it introduced a Transboundary Haze Pollution Act, which empowered the government to pursue criminal charges against companies found to have contributed to haze-producing fires and levy fines as high as S$100,000 (US$78,000) a day, capped at S$2mn (US$1.6mn) per conviction.<br><br>5. “If companies refuse to co-operate, regardless of whether they have a presence in Singapore . . . we will use every legal and regulatory lever at our disposal to exert pressure where it matters.”<br><br>6. “It is very hard to collect evidence. But when you offer incentives, whistleblowers will come out.”"
+ },
+ "mindmap": {
+  "aria": "新加坡追查跨境烟霾企业文章思维导图",
+  "alt": "新加坡追查涉事企业（手绘版）",
+  "svg": "<svg viewBox=\"0 0 960 720\" xmlns=\"http://www.w3.org/2000/svg\" role=\"img\" aria-label=\"新加坡追查跨境烟霾企业文章思维导图\" style=\"width:100%;height:auto;font-family:-apple-system,'PingFang SC','Hiragino Sans GB','Microsoft YaHei',sans-serif\">\n        <rect x=\"24\" y=\"306\" width=\"176\" height=\"88\" rx=\"14\" fill=\"#eae3d2\" stroke=\"#9a8f76\"/>\n        <text x=\"112\" y=\"342\" text-anchor=\"middle\" fill=\"#3d3a34\" font-size=\"17\" font-weight=\"700\">新加坡 vs 跨境烟霾</text>\n        <text x=\"112\" y=\"368\" text-anchor=\"middle\" fill=\"#5c5648\" font-size=\"12.5\">一场烧荒，一笔跨国经济账</text>\n\n        <path d=\"M200,350 C232,350 232,88 260,88\"  stroke=\"#6b8f71\" stroke-width=\"2\" fill=\"none\"/>\n        <path d=\"M200,350 C232,350 232,238 260,238\" stroke=\"#7d98ad\" stroke-width=\"2\" fill=\"none\"/>\n        <path d=\"M200,350 C232,350 232,433 260,433\" stroke=\"#bd7a6d\" stroke-width=\"2\" fill=\"none\"/>\n        <path d=\"M200,350 C232,350 232,628 260,628\" stroke=\"#9b86b3\" stroke-width=\"2\" fill=\"none\"/>\n\n        <g class=\"mm-branch\" data-target=\"bc1\">\n          <rect x=\"260\" y=\"71\" width=\"190\" height=\"34\" rx=\"8\" fill=\"#e6efe7\" stroke=\"#6b8f71\"/>\n          <text x=\"349\" y=\"93\" text-anchor=\"middle\" fill=\"#4c6b52\" font-size=\"15\" font-weight=\"700\">追责企业（¶1–3）</text>\n          <text class=\"mm-arrow\" data-for=\"bc1\" x=\"442\" y=\"93\" text-anchor=\"end\" fill=\"#4c6b52\">▾</text>\n        </g>\n        <g class=\"mm-children\" id=\"bc1\">\n          <path d=\"M450,88 C462,88 462,46 480,46\" stroke=\"#6b8f71\" stroke-width=\"1.5\" fill=\"none\"/>\n          <path d=\"M450,88 C462,88 462,88 480,88\" stroke=\"#6b8f71\" stroke-width=\"1.5\" fill=\"none\"/>\n          <path d=\"M450,88 C462,88 462,130 480,130\" stroke=\"#6b8f71\" stroke-width=\"1.5\" fill=\"none\"/>\n          <rect x=\"480\" y=\"30\" width=\"456\" height=\"32\" rx=\"8\" fill=\"#e6efe7\"/><text x=\"492\" y=\"51\" fill=\"#3d3a34\" font-size=\"14\">十家企业收法律通知：利润、融资、名声三刀齐下</text>\n          <rect x=\"480\" y=\"72\" width=\"456\" height=\"32\" rx=\"8\" fill=\"#e6efe7\"/><text x=\"492\" y=\"93\" fill=\"#3d3a34\" font-size=\"14\">学界：外资靠新加坡融资，按理该更在意政府说什么</text>\n          <rect x=\"480\" y=\"114\" width=\"456\" height=\"32\" rx=\"8\" fill=\"#e6efe7\"/><text x=\"492\" y=\"135\" fill=\"#3d3a34\" font-size=\"14\">与印尼生出嫌隙，超级厄尔尼诺又添一把火</text>\n        </g>\n\n        <g class=\"mm-branch\" data-target=\"bc2\">\n          <rect x=\"260\" y=\"221\" width=\"190\" height=\"34\" rx=\"8\" fill=\"#e5edf4\" stroke=\"#7d98ad\"/>\n          <text x=\"349\" y=\"243\" text-anchor=\"middle\" fill=\"#3d5872\" font-size=\"15\" font-weight=\"700\">烟霾之痛与旧法（¶4–5）</text>\n          <text class=\"mm-arrow\" data-for=\"bc2\" x=\"442\" y=\"243\" text-anchor=\"end\" fill=\"#3d5872\">▾</text>\n        </g>\n        <g class=\"mm-children\" id=\"bc2\">\n          <path d=\"M450,238 C462,238 462,196 480,196\" stroke=\"#7d98ad\" stroke-width=\"1.5\" fill=\"none\"/>\n          <path d=\"M450,238 C462,238 462,238 480,238\" stroke=\"#7d98ad\" stroke-width=\"1.5\" fill=\"none\"/>\n          <path d=\"M450,238 C462,238 462,280 480,280\" stroke=\"#7d98ad\" stroke-width=\"1.5\" fill=\"none\"/>\n          <rect x=\"480\" y=\"180\" width=\"456\" height=\"32\" rx=\"8\" fill=\"#e5edf4\"/><text x=\"492\" y=\"201\" fill=\"#3d3a34\" font-size=\"14\">空气定级“非常不健康”，呼吸道入院人数激增</text>\n          <rect x=\"480\" y=\"222\" width=\"456\" height=\"32\" rx=\"8\" fill=\"#e5edf4\"/><text x=\"492\" y=\"243\" fill=\"#3d3a34\" font-size=\"14\">大奖赛被蒙上阴影，民众怨气越积越深</text>\n          <rect x=\"480\" y=\"264\" width=\"456\" height=\"32\" rx=\"8\" fill=\"#e5edf4\"/><text x=\"492\" y=\"285\" fill=\"#3d3a34\" font-size=\"14\">2014 年立法，罚款封顶，十二年零罚单</text>\n        </g>\n\n        <g class=\"mm-branch\" data-target=\"bc3\">\n          <rect x=\"260\" y=\"416\" width=\"190\" height=\"34\" rx=\"8\" fill=\"#f4e7e4\" stroke=\"#bd7a6d\"/>\n          <text x=\"349\" y=\"438\" text-anchor=\"middle\" fill=\"#7c4a3e\" font-size=\"15\" font-weight=\"700\">这次动真格（¶6–8）</text>\n          <text class=\"mm-arrow\" data-for=\"bc3\" x=\"442\" y=\"438\" text-anchor=\"end\" fill=\"#7c4a3e\">▾</text>\n        </g>\n        <g class=\"mm-children\" id=\"bc3\">\n          <path d=\"M450,433 C462,433 462,391 480,391\" stroke=\"#bd7a6d\" stroke-width=\"1.5\" fill=\"none\"/>\n          <path d=\"M450,433 C462,433 462,433 480,433\" stroke=\"#bd7a6d\" stroke-width=\"1.5\" fill=\"none\"/>\n          <path d=\"M450,433 C462,433 462,475 480,475\" stroke=\"#bd7a6d\" stroke-width=\"1.5\" fill=\"none\"/>\n          <rect x=\"480\" y=\"375\" width=\"456\" height=\"32\" rx=\"8\" fill=\"#f4e7e4\"/><text x=\"492\" y=\"396\" fill=\"#3d3a34\" font-size=\"14\">卫星＋气象数据自证，法律通知直接送达</text>\n          <rect x=\"480\" y=\"417\" width=\"456\" height=\"32\" rx=\"8\" fill=\"#f4e7e4\"/><text x=\"492\" y=\"438\" fill=\"#3d3a34\" font-size=\"14\">从 APP 查到金光系：供应商、上市公司、银行</text>\n          <rect x=\"480\" y=\"459\" width=\"456\" height=\"32\" rx=\"8\" fill=\"#f4e7e4\"/><text x=\"492\" y=\"480\" fill=\"#3d3a34\" font-size=\"14\">新交所另问七家，金管局盯放贷方敞口</text>\n        </g>\n\n        <g class=\"mm-branch\" data-target=\"bc4\">\n          <rect x=\"260\" y=\"611\" width=\"190\" height=\"34\" rx=\"8\" fill=\"#ece4f2\" stroke=\"#9b86b3\"/>\n          <text x=\"349\" y=\"633\" text-anchor=\"middle\" fill=\"#5a4670\" font-size=\"15\" font-weight=\"700\">印尼反击与出路（¶9–10）</text>\n          <text class=\"mm-arrow\" data-for=\"bc4\" x=\"442\" y=\"633\" text-anchor=\"end\" fill=\"#5a4670\">▾</text>\n        </g>\n        <g class=\"mm-children\" id=\"bc4\">\n          <path d=\"M450,628 C462,628 462,586 480,586\" stroke=\"#9b86b3\" stroke-width=\"1.5\" fill=\"none\"/>\n          <path d=\"M450,628 C462,628 462,628 480,628\" stroke=\"#9b86b3\" stroke-width=\"1.5\" fill=\"none\"/>\n          <path d=\"M450,628 C462,628 462,670 480,670\" stroke=\"#9b86b3\" stroke-width=\"1.5\" fill=\"none\"/>\n          <rect x=\"480\" y=\"570\" width=\"456\" height=\"32\" rx=\"8\" fill=\"#ece4f2\"/><text x=\"492\" y=\"591\" fill=\"#3d3a34\" font-size=\"14\">印尼点名十一家嫌疑企业，总统公开反呛</text>\n          <rect x=\"480\" y=\"612\" width=\"456\" height=\"32\" rx=\"8\" fill=\"#ece4f2\"/><text x=\"492\" y=\"633\" fill=\"#3d3a34\" font-size=\"14\">官方打太极：优先控火、优先有效执法</text>\n          <rect x=\"480\" y=\"654\" width=\"456\" height=\"32\" rx=\"8\" fill=\"#ece4f2\"/><text x=\"492\" y=\"675\" fill=\"#3d3a34\" font-size=\"14\">教授：给举报人激励，学 FCPA 的打法</text>\n        </g>\n      </svg>",
+  "img": "/tmp/mm24/mm24.jpg"
+ }
+}
