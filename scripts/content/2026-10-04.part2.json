@@ -1,0 +1,321 @@
+{
+ "paragraphs": [
+  {
+   "en_html": "Optimists may hope that <mark class=\"voc\">superfast</mark> growth will make the maths easier to handle. Yet The Economist has looked at what would happen in rich countries if labour’s share of national income fell by ten points. By our calculations, Italy’s budget deficit would double as a share of GDP and Germany and France would not <mark class=\"voc\">fare</mark> much better. In addition, the capacity for <mark class=\"voc\">tax avoidance</mark> would no longer be limited by human <mark class=\"voc\">ingenuity</mark>. Point countless AI agents at Britain’s 23,000-page tax code and hundreds of new tax-avoidance strategies are likely to emerge—and don’t <mark class=\"voc\">bet on</mark> the Treasury to keep up.",
+   "zh": "乐观者或许希望，超高速增长会让数学题变得容易些。然而，《经济学人》研究了如果劳动收入占国民收入的比重下降10个百分点，富裕国家将会发生什么。根据我们的测算，意大利的预算赤字占GDP之比将翻倍，德国和法国也好不到哪里去。此外，避税的能力将不再受限于人类的聪明才智。将无数人工智能代理指向英国长达23,000页的税法，数百种新的避税策略便可能应运而生——别指望财政部能跟得上。",
+   "notes": [
+    {
+     "w": "superfast",
+     "ipa": "/ˌsuːpəˈfɑːst/",
+     "pos": "adj.",
+     "en": "extremely fast; faster than normal",
+     "zh": "超高速的",
+     "ctx": "乐观派押注的那种快到足以抵消一切的增长。",
+     "ex1": "The country built a superfast rail network connecting its major cities. 该国建成了连接主要城市的超高速铁路网。",
+     "ex2": "Superfast growth in the tech sector has masked deeper problems in the economy. 科技行业的超高速增长掩盖了经济中更深层次的问题。"
+    },
+    {
+     "w": "fare",
+     "ipa": "/feə/",
+     "pos": "v.",
+     "en": "to be in a particular situation or to have a particular outcome; to get along",
+     "zh": "进展，表现，结果（如何）",
+     "ctx": "fare much better——境况好得多，说的是各国财政在冲击下的表现。",
+     "ex1": "Small businesses fared worst during the recession. 小企业在经济衰退期间表现最差。",
+     "ex2": "How countries fare in the AI transition will depend largely on their tax policies. 各国在人工智能转型中的表现将在很大程度上取决于其税收政策。"
+    },
+    {
+     "w": "tax avoidance",
+     "ipa": "/tæks əˈvɔɪdəns/",
+     "pos": "n.",
+     "en": "the use of legal methods to minimize the amount of tax paid",
+     "zh": "避税（合法）",
+     "ctx": "合法避税，与 evasion（逃税）相对；AI 会让它不再受人类脑力限制。",
+     "ex1": "The company’s tax avoidance strategies saved it billions of dollars. 该公司的避税策略为其节省了数十亿美元。",
+     "ex2": "Closing loopholes is essential to reducing tax avoidance by multinational corporations. 堵塞漏洞对于减少跨国公司的避税行为至关重要。"
+    },
+    {
+     "w": "ingenuity",
+     "ipa": "/ˌɪndʒəˈnjuːəti/",
+     "pos": "n.",
+     "en": "the quality of being clever, original, and inventive",
+     "zh": "聪明才智，创造力",
+     "ctx": "人类的巧思一直是避税的天花板，而 AI 把这层天花板掀掉了。",
+     "ex1": "Human ingenuity has always found ways around even the most complex rules. 人类的聪明才智总能找到绕过最复杂规则的办法。",
+     "ex2": "The report praised the ingenuity of engineers who designed the system. 报告赞扬了设计该系统的工程师们的聪明才智。"
+    },
+    {
+     "w": "bet on",
+     "ipa": "/bet ɒn/",
+     "pos": "phr. v.",
+     "en": "to rely on something happening; to be confident about a particular outcome",
+     "zh": "押注于，指望",
+     "ctx": "don’t bet on——别把宝押在“财政部跟得上”这件事上。",
+     "ex1": "Don’t bet on interest rates falling anytime soon. 别指望利率会很快下降。",
+     "ex2": "Investors are betting on a swift recovery in consumer demand. 投资者正押注于消费者需求的快速复苏。"
+    }
+   ]
+  },
+  {
+   "en_html": "What to do? Given that AI is likely to <mark class=\"voc\">mint</mark> vast fortunes for a select few, countries may <mark class=\"voc\">be inclined to</mark> follow California’s proposal and introduce wealth taxes. Yet such taxes will probably <mark class=\"voc\">backfire</mark>, either because they are too difficult to administer or because they cause rich people to flee. Previous attempts have proved <mark class=\"voc\">unworkable</mark>. In 1990, 12 rich countries taxed fortunes; today just four do.",
+   "zh": "那该怎么办？鉴于人工智能很可能为少数人铸造巨额财富，各国或许会倾向于效仿加州的提案，开征财富税。然而，此类税收很可能适得其反，要么因为管理难度太大，要么因为导致富人外逃。此前的尝试已被证明行不通。1990年，有12个富裕国家征收财富税；如今只剩下4个。",
+   "notes": [
+    {
+     "w": "mint",
+     "ipa": "/mɪnt/",
+     "pos": "v.",
+     "en": "to produce a lot of money, especially by creating something new; to coin money",
+     "zh": "铸造（货币）；大量赚取",
+     "ctx": "像铸币一样“造”出巨额财富，少数人财富一夜暴涨。",
+     "ex1": "The company has minted a fortune from its cloud computing business. 该公司通过云计算业务赚取了巨额财富。",
+     "ex2": "Tech entrepreneurs have minted billions in wealth over the past decade. 过去十年，科技创业者们创造了数十亿财富。"
+    },
+    {
+     "w": "be inclined to",
+     "ipa": "/bi ɪnˈklaɪnd tuː/",
+     "pos": "phr.",
+     "en": "to be likely or willing to do something; to have a tendency toward something",
+     "zh": "倾向于，有意愿",
+     "ctx": "有压力就有倾向，各国很可能顺势走向财富税。",
+     "ex1": "Voters may be inclined to support higher taxes on the wealthy. 选民可能倾向于支持对富人征收更高税收。",
+     "ex2": "Governments under fiscal pressure are inclined to look for new revenue sources. 面临财政压力的政府倾向于寻找新的收入来源。"
+    },
+    {
+     "w": "backfire",
+     "ipa": "/ˌbækˈfaɪə/",
+     "pos": "v.",
+     "en": "to have the opposite effect to what was intended; to go wrong in a way that harms the person who initiated it",
+     "zh": "适得其反，产生反效果",
+     "ctx": "本想向富人收税，结果资本先跑，反过来伤了自己。",
+     "ex1": "The advertising campaign backfired and damaged the brand’s reputation. 广告宣传活动适得其反，损害了品牌声誉。",
+     "ex2": "Policies that punish success often backfire by driving talent abroad. 惩罚成功的政策往往适得其反，将人才驱往国外。"
+    },
+    {
+     "w": "unworkable",
+     "ipa": "/ʌnˈwɜːkəbl/",
+     "pos": "adj.",
+     "en": "not practical or possible to implement successfully",
+     "zh": "行不通的，不可行的",
+     "ctx": "不是没人试过，是试过之后发现根本执行不下去。",
+     "ex1": "The proposed solution was widely criticized as unworkable. 该提议的解决方案被广泛批评为行不通。",
+     "ex2": "Without international cooperation, a global wealth tax would be unworkable. 没有国际合作，全球财富税将无法实施。"
+    }
+   ]
+  },
+  {
+   "en_html": "A more fundamental <mark class=\"voc\">overhaul</mark> is needed. Wealth should be taxed more via <mark class=\"voc\">capital-gains</mark> taxes, which currently <mark class=\"voc\">overpenalise</mark> normal returns and undertax supernormal ones. A start would be to introduce a higher headline rate and allowances that exempt normal returns. At the same time, the burden on labour should lighten. That would be a <mark class=\"voc\">hedge against</mark> disruption from AI, and remove an <mark class=\"voc\">obstacle</mark> to employment in countries where labour taxes are crushing. In Belgium they <mark class=\"voc\">constitute</mark> 52% of the costs of employing a person.",
+   "zh": "需要的是更根本性的改革。应当通过资本利得税对财富加大征税力度——当前的资本利得税对正常回报惩罚过重，对超常回报征税又太轻。起步之举可以是引入更高的名义税率，同时对正常回报予以豁免。与此同时，劳动所得的税负应当减轻。这既是对人工智能冲击的缓冲，也能消除那些劳动税负沉重的国家的就业障碍。在比利时，劳动税占雇佣一名员工总成本的52%。",
+   "notes": [
+    {
+     "w": "overhaul",
+     "ipa": "/ˈəʊvəhɔːl/",
+     "pos": "n.",
+     "en": "a thorough examination and repair or modification of a system or organization",
+     "zh": "彻底改革，全面修订",
+     "ctx": "不是修补，是把整个系统拆开重装。",
+     "ex1": "The government announced a complete overhaul of the immigration system. 政府宣布对移民制度进行全面改革。",
+     "ex2": "Experts called for an overhaul of the tax code to make it simpler and fairer. 专家呼吁对税法进行全面改革，使其更简单、更公平。"
+    },
+    {
+     "w": "capital gains",
+     "ipa": "/ˈkæpɪtl ɡeɪnz/",
+     "pos": "n.",
+     "en": "profits from the sale of assets such as stocks, bonds, or property",
+     "zh": "资本利得，资本收益",
+     "ctx": "卖资产赚到的差价，本文建议给财富加税的主渠道。",
+     "ex1": "The investor realized substantial capital gains after selling her shares. 投资者在卖出股票后实现了可观的资本利得。",
+     "ex2": "Capital gains are often taxed at a lower rate than ordinary income. 资本利得通常以低于普通收入的税率征税。"
+    },
+    {
+     "w": "overpenalise",
+     "ipa": "/ˌəʊvəˈpiːnəlaɪz/",
+     "pos": "v.",
+     "en": "to punish or penalize something more heavily than is fair or appropriate",
+     "zh": "过度惩罚，惩罚过重",
+     "ctx": "对正常回报罚得太重、对超常回报反倒太轻，这是现行资本利得税的头号毛病。",
+     "ex1": "The current system overpenalises small savers while rewarding speculators. 当前制度过度惩罚小额储蓄者，却奖励投机者。",
+     "ex2": "Critics argue that the tax code overpenalises productive investment. 批评者认为税法对生产性投资惩罚过重。"
+    },
+    {
+     "w": "hedge against",
+     "ipa": "/hedʒ əˈɡenst/",
+     "pos": "phr.",
+     "en": "to protect oneself against a possible loss or risk",
+     "zh": "对冲，防范",
+     "ctx": "给自己留的后手，减轻劳动税负就是应对 AI 冲击的那道缓冲。",
+     "ex1": "Investors buy gold as a hedge against inflation. 投资者购买黄金以对冲通胀。",
+     "ex2": "Diversification is the best way to hedge against market volatility. 多元化是对冲市场波动的最佳方式。"
+    },
+    {
+     "w": "obstacle",
+     "ipa": "/ˈɒbstəkl/",
+     "pos": "n.",
+     "en": "something that blocks or hinders progress; a barrier",
+     "zh": "障碍，阻碍",
+     "ctx": "压在就业路上的石头，比利时的劳动税就是这块石头。",
+     "ex1": "High regulatory costs are a major obstacle to starting a business. 高监管成本是创业的主要障碍。",
+     "ex2": "The biggest obstacle to reform is political resistance from vested interests. 改革的最大障碍是既得利益者的政治抵制。"
+    },
+    {
+     "w": "constitute",
+     "ipa": "/ˈkɒnstɪtjuːt/",
+     "pos": "v.",
+     "en": "to be or form something; to amount to",
+     "zh": "构成，占",
+     "ctx": "占比、构成，这里指劳动税吃掉雇佣总成本的一半以上。",
+     "ex1": "Women constitute more than half of the workforce in the healthcare sector. 女性占医疗行业劳动力的半数以上。",
+     "ex2": "Labor taxes constitute a significant portion of employment costs in many European countries. 在许多欧洲国家，劳动税占雇佣成本的很大一部分。"
+    }
+   ]
+  },
+  {
+   "en_html": "Consumption should be taxed more heavily, with a focus on ending the <mark class=\"voc\">litany</mark> of exemptions. That would have the useful <mark class=\"voc\">side-effect</mark> of taxing the spending of the very rich. This might not curb the influence Elon Musk can buy, but it would ensure the state gets a bigger cut when Mr Musk buys another plane. Finally, <mark class=\"voc\">codes</mark> should be <mark class=\"voc\">radically</mark> simplified. None of this will be easy. The losers will <mark class=\"voc\">hiss</mark> more loudly than the winners will cheer. But change is coming, like it or not. The country that gets ahead of the hurricane will one day thank the politicians who had the <mark class=\"voc\">foresight</mark> to act.",
+   "zh": "消费税应当加重征收，重点在于终结一长串的豁免清单。这将带来一个有益的副作用：对巨富的消费征税。这或许无法遏制埃隆·马斯克能买到的影响力，但能确保当他再买一架飞机时，国家能分到更大的一杯羹。最后，税法应当大幅简化。这一切都不会容易。输家的嘶吼会比赢家的欢呼更响亮。但变革正在到来，无论你喜不喜欢。那些抢先于飓风行动的国家，终将感谢那些有远见采取行动的政治家。",
+   "notes": [
+    {
+     "w": "litany",
+     "ipa": "/ˈlɪtəni/",
+     "pos": "n.",
+     "en": "a long, repetitive list of things, especially complaints or problems",
+     "zh": "一长串，连篇（常含贬义，指冗长重复的清单）",
+     "ctx": "一长串念经式的清单，语气里带着不耐烦——说的就是那些豁免条款。",
+     "ex1": "The report listed a litany of failures in the company’s safety procedures. 报告列出了该公司安全程序中的一长串失误。",
+     "ex2": "Voters were tired of hearing the same litany of excuses from politicians. 选民厌倦了政客们千篇一律的借口。"
+    },
+    {
+     "w": "side-effect",
+     "ipa": "/ˈsaɪd ɪˌfekt/",
+     "pos": "n.",
+     "en": "an unintended consequence of an action or policy, especially a secondary one",
+     "zh": "副作用，意外效果",
+     "ctx": "主效果之外捎带的收获：顺带向富人的消费征税。",
+     "ex1": "One side-effect of the lockdown was a sharp drop in air pollution. 封锁的一个副作用是空气污染急剧下降。",
+     "ex2": "Higher consumption taxes would have the useful side-effect of taxing the spending of the wealthy. 提高消费税将带来一个有益的副作用：对富人的消费征税。"
+    },
+    {
+     "w": "codes",
+     "ipa": "/kəʊdz/",
+     "pos": "n.",
+     "en": "a system of laws or regulations; a set of rules",
+     "zh": "法典，法规",
+     "ctx": "这里指税法这部大法典，英国那部有 23,000 页。",
+     "ex1": "The tax code is so complex that even experts struggle to understand it. 税法如此复杂，连专家都难以理解。",
+     "ex2": "Simplifying the tax code would reduce compliance costs for businesses. 简化税法将降低企业的合规成本。"
+    },
+    {
+     "w": "radically",
+     "ipa": "/ˈrædɪkli/",
+     "pos": "adv.",
+     "en": "in a thorough, fundamental, or extreme way",
+     "zh": "彻底地，根本地",
+     "ctx": "不是微调，是从根上改。",
+     "ex1": "The company radically restructured its operations to cut costs. 公司彻底重组了运营以削减成本。",
+     "ex2": "Technology has radically changed the way we work and communicate. 技术彻底改变了我们工作和沟通的方式。"
+    },
+    {
+     "w": "hiss",
+     "ipa": "/hɪs/",
+     "pos": "v.",
+     "en": "to make a sharp sound like a long “s”, especially to show disapproval; to express contempt by making such a sound",
+     "zh": "发出嘘声，嘶嘶作响",
+     "ctx": "嘘声，输家表达不满的方式，比赢家的欢呼更响。",
+     "ex1": "The audience hissed at the referee’s decision. 观众对裁判的判罚发出嘘声。",
+     "ex2": "Those who lose out from reform will hiss louder than those who benefit will cheer. 改革的输家发出的嘘声会比赢家的欢呼更响亮。"
+    },
+    {
+     "w": "foresight",
+     "ipa": "/ˈfɔːsaɪt/",
+     "pos": "n.",
+     "en": "the ability to predict what will happen in the future and to plan accordingly",
+     "zh": "远见，先见之明",
+     "ctx": "在飓风上岸之前就动手的那种先见之明。",
+     "ex1": "The company’s success was due to its founder’s extraordinary foresight. 该公司的成功归功于创始人非凡的远见。",
+     "ex2": "Governments that act with foresight will be better prepared for the challenges ahead. 有远见采取行动的政府将能更好地应对未来挑战。"
+    }
+   ]
+  }
+ ],
+ "proper": [
+  {
+   "name": "Ten-year US Treasury yield / 美国十年期国债收益率",
+   "def": "美国十年期国债收益率是全球金融市场的核心基准利率，被视为“无风险利率”的标杆，直接影响全球资产定价、房贷利率和企业融资成本。2026年9月，该收益率一度触及4.98%，逼近5%的心理关口，反映出市场对美国财政赤字扩大、债务供给放量的担忧。美国联邦债务已突破40万亿美元，2026财年前11个月预算赤字达1.97万亿美元，净利息支出首次突破1万亿美元。<br>本文中的意思：开篇第一声警报。作者不说“财政有压力”，而是让读者先看见全球资产定价的那根锚已经在抖——收益率破 5%、利差回到欧债危机水平，飓风还没登陆，海面已经起了浪。"
+  },
+  {
+   "name": "French government bonds vs. German Bunds spread / 法德国债利差",
+   "def": "法国国债与德国国债的收益率之差（spread）是衡量市场对法国财政风险定价的关键指标。德国国债被视为欧元区最安全的资产，而法国国债收益率高于德国的部分，反映了投资者对法国财政可持续性的担忧。2026年10月，该利差突破150个基点，达到2011年底以来的最高水平。法国债务占GDP之比已达119%，2027年总统选举前的政治不确定性加剧了市场担忧。<br>本文中的意思：和国债收益率并置，构成“富国财政普遍吃紧”的横切面：不是某一个国家出了问题，而是整个富裕世界的借钱成本都在涨。"
+  },
+  {
+   "name": "Triple lock on state pensions / 国家养老金三重锁定机制",
+   "def": "英国国家养老金的年度增长机制，规定养老金涨幅取以下三者中的最高值：通货膨胀率、平均工资增长率、或2.5%。这一机制自2011年实施以来导致养老金支出持续“棘轮式”上升。2026年，英国首相宣布改革方案，取消2.5%的保底增幅，长期改为与平均工资增长挂钩，仅保留通胀保底。据测算，若新政策自2011年即已实施，本年度养老金支出将减少90亿英镑。<br>本文中的意思：给第 1 段的“打破禁忌的承诺”补上制度底稿——三重锁定让养老金支出只涨不降，想动它就得罪选民，这正是英国首相“计划有了、钱还是没有”的根源。"
+  },
+  {
+   "name": "OECD / 经济合作与发展组织",
+   "def": "由38个主要富裕国家组成的政府间经济组织，总部位于巴黎，成立于1961年。OECD为成员国提供经济政策分析、统计数据和政策建议，其发布的报告（如《消费税趋势》《就业展望》）是研究发达国家税收、劳动力市场和社会政策的重要参考来源。OECD国家的税收和福利政策常被作为比较研究的基准。<br>本文中的意思：文章后面几处关键数字（消费税收缴率 58%、劳动税占财政收入约一半、财富税国家的变迁）都出自这个俱乐部口径，它是全文数据比较的基准盘。"
+  },
+  {
+   "name": "VAT on oat milk vs. cow’s milk in Germany / 德国燕麦奶与牛奶的增值税差异",
+   "def": "德国税法对燕麦奶（植物奶）征收的标准增值税税率为19%，而牛奶作为“基本食品”享受7%的优惠税率。这种税率差异源于税法对“食品”分类的传统定义——植物奶未被归类为与牛奶同等的“基本生活必需品”。这导致消费者为燕麦奶支付的实际税负是牛奶的两倍多，反映了税法分类滞后于消费趋势变化的问题。<br>本文中的意思：全篇最刻薄的一个例子：燕麦奶和牛奶在税法里不是同一种“食品”，于是税率差了一倍多。作者用它证明税制的复杂性不是技术问题，而是有人受益的政治安排。"
+  },
+  {
+   "name": "Tax trap at £100,000 / 英国10万英镑税收陷阱",
+   "def": "英国税制中一个著名的“悬崖效应”（cliff edge）：当父母中任何一方的“调整后净收入”超过100,000英镑时，家庭将自动失去以下福利：（1）免税育儿（Tax-Free Childcare），每个孩子每年最高2,000英镑；（2）30小时免费育儿时间（英格兰地区）的大部分；（3）个人免税额度（Personal Allowance）开始逐步取消。这意味着收入从99,999英镑增至100,000英镑，实际损失可能超过数万英镑。部分高收入者因此选择减少工作时间或超额缴纳养老金以规避这一陷阱。<br>本文中的意思：第 4 段那个“多赚 1 英镑、丢掉几千镑福利”的场景，说的就是这道悬崖——税制的扭曲激励在这里有了具体价格。"
+  },
+  {
+   "name": "Median employee vs. self-employed tax burden / 英国雇员与自雇人士的税负差异",
+   "def": "英国税制中，受雇雇员和自雇人士的税负存在显著差异。雇员通过PAYE（工资预扣）系统缴纳所得税和国民保险（National Insurance），而自雇人士按年度申报纳税，国民保险税率通常更低，且可抵扣更多业务支出。据研究，英国中位数雇员的实际税负比同等收入的自雇人士高出约55%。这种差异引发了关于税收公平性的讨论。<br>本文中的意思：第 5 段“中位雇员比自雇者多缴 55% 的税”的依据，也是“税收不公”这层民怨最实在的落点。"
+  },
+  {
+   "name": "California billionaire tax proposal / 加州亿万富翁税提案",
+   "def": "2026年11月，加利福尼亚州选民将就第40号提案（Proposition 40）进行投票，该提案拟对净资产超过10亿美元的加州居民征收一次性5%的财富税，旨在抵消预计1000亿美元的联邦医疗资金削减。反对者已筹集1.87亿美元对抗该提案，支持者仅筹集3200万美元。加州州长纽森表示反对，而州民主党表示支持。民调显示45%选民支持、42%反对。<br>本文中的意思：第 5 段“加州要对 10 亿美元以上财富一次性征 5%”的原型，同时预告了第 7 段“各国可能效仿加州”的推演。"
+  },
+  {
+   "name": "Labor share of GDP / 劳动收入占GDP比重",
+   "def": "劳动收入占GDP的比重（labor share）衡量劳动者报酬在经济总产出中的份额。美国劳动收入份额从二战后的约65%下降至2026年的约53%，创下有记录以来的最低水平。高盛的研究指出，约40%的下降源于税收政策导致的收入分类变化（如企业主收入从工资重新归类为营业利润），而约60%是真实的、由自动化、企业加价能力上升和工会力量削弱所驱动的结构性下降。<br>本文中的意思：第 5 段“劳动收入占比缩水→税收减少、福利支出增加”这条链条的底数，也是第 6 段“跌 10 个点会怎样”测算的起点。"
+  },
+  {
+   "name": "AI displacement of workers / 人工智能对劳动者的替代",
+   "def": "人工智能对劳动力市场的影响正在加速。OECD 2026年就业展望指出，生成式AI的采用可能已开始自动化某些工作岗位，尽管目前数据尚不充分。研究发现，AI暴露度高的职业在ChatGPT发布后出现了工资和就业的恶化趋势。这一趋势可能进一步压低劳动收入份额，从而侵蚀以劳动所得税为主的税基。<br>本文中的意思：把 AI 从“提高效率的好东西”还原成“侵蚀税基的力量”：工资和就业一旦被压，依附于工资的所得税就跟着塌。"
+  },
+  {
+   "name": "Wealth taxes: historical record / 财富税的历史记录",
+   "def": "自1960年代以来，至少13个OECD国家曾实施净财富税，但大多数已废除。废除原因并非意识形态转变，而是政策制定者发现财富税导致了资本外逃、投资下降、经济增长受损，以及高昂的行政和合规成本，而筹集的收入却相对有限。截至2026年，仅有挪威、西班牙和瑞士三国仍在征收广泛的净财富税，其收入通常仅占GDP的0.2%至1%。法国、意大利、比利时和荷兰仅对特定资产征税，而非净财富总额。<br>本文中的意思：第 7 段“财富税行不通”的历史证据：1990 年 12 国征、如今只剩 4 国，退场原因是资本外逃与征管成本，而不是意识形态。"
+  },
+  {
+   "name": "Capital gains tax / 资本利得税",
+   "def": "资本利得税是对出售资产（股票、债券、房产等）所获利润征收的税种。多数国家的资本利得税率低于普通所得税率，且通常仅在实际出售时征税（而非持有期间）。批评者认为，现行制度对“正常回报”（如债券利息、常规股息）征税过重，而对“超常回报”（如超额资本增值）征税不足。PwC数据显示，各国资本利得税率差异显著，从零税率到超过30%不等。<br>本文中的意思：第 8 段给出的替代方案——不走财富税，改从资本利得端对财富加税，同时对正常回报豁免。"
+  },
+  {
+   "name": "Labor taxes as share of employment cost in Belgium / 比利时劳动税占雇佣成本的比例",
+   "def": "比利时是OECD国家中劳动税负最重的国家之一。劳动税（包括雇主和雇员缴纳的社会保障缴款及所得税）占雇佣一名员工总成本的比例高达52%。这意味着企业每支付100欧元的总雇佣成本，超过一半流向税收和社会缴款，仅不到一半到达员工手中。高劳动税负被认为抑制了就业创造，尤其对低技能劳动者影响显著。<br>本文中的意思：第 8 段结尾那个刺眼的数字：比利时雇一个人，一半以上成本进了税收和社保，劳动税成了就业的门槛。"
+  },
+  {
+   "name": "Consumption tax exemptions / 消费税豁免",
+   "def": "OECD国家的增值税（VAT）制度普遍存在大量豁免和优惠税率。2022年，OECD国家的VAT收入比率（VAT Revenue Ratio，VRR）平均仅为0.58，意味着约42%的理论潜在VAT收入因豁免、优惠税率、欺诈和不合规而未能征收。VAT平均占OECD国家总税收的20.8%，是最大的消费税类别。经济学家普遍认为，缩小豁免范围、扩大税基可以在不提高标准税率的情况下显著增加收入。<br>本文中的意思：第 9 段“终结一长串豁免”的量化背景：四成多的潜在增值税收不上来，堵漏比提税率更能增收。"
+  },
+  {
+   "name": "Tax code simplification / 税法简化",
+   "def": "税法复杂性是现代税制的普遍问题。英国税法长达约23,000页，其复杂程度被批评为制造了避税机会、增加了合规成本、并使普通纳税人难以理解自身义务。简化税法的倡导者认为，减少豁免和特殊条款可以降低合规成本、提高透明度，并减少税务规划（避税）的空间。然而，每一项豁免背后通常都有特定的政治受益者，使得简化在政治上极为困难。<br>本文中的意思：第 9 段“税法应当大幅简化”的注脚：23,000 页的税法既是合规负担，也是避税空间，而每一项豁免背后都站着一个政治受益者。"
+  }
+ ],
+ "sources_note": "资料核对：以上背景依据课件逐条整理，并参考 The Economist、OECD、PwC 及英国预算责任办公室截至 2026 年 10 月的公开数据。",
+ "practice": {
+  "intro": "请根据今天学习的外刊，把下面的中文句子翻译成英文。要求：尽量用上本文的核心表达，可以适当改变词形，但不要直接抄原文。",
+  "items": [
+   "一场猛烈的飓风即将袭击这座沿海城市。",
+   "该公司股价一举突破 500 美元大关。",
+   "消费者支出受到强劲工资增长的提振。",
+   "政府出台新措施以遏制房价上涨。",
+   "该公司在最大客户破产后陷入了困境。",
+   "决策者正试图诱使消费者重新消费。"
+  ],
+  "critical_en": "If AI shrinks the tax base that pays for the state, should governments tax what workers earn — or what capital owns?",
+  "critical_zh": "如果 AI 让支撑国家的税基不断缩水，政府究竟该向“劳动所得”征税，还是向“资本占有”征税？",
+  "answer": "1. A violent hurricane is about to hit this coastal city.<br><br>2. The company’s stock charged through the $500 mark.<br><br>3. Consumer spending was bolstered by strong wage growth.<br><br>4. The government introduced new measures to curb rising house prices.<br><br>5. The company found itself in a pickle after its biggest client went bankrupt.<br><br>6. Policymakers are trying to coax consumers back into spending."
+ },
+ "mindmap": {
+  "aria": "AI 冲击下的全球税收体系思维导图",
+  "alt": "飓风将至：全球税收体系面临大考（手绘版）",
+  "svg": "<svg viewBox=\"0 0 960 720\" xmlns=\"http://www.w3.org/2000/svg\" role=\"img\" aria-label=\"AI 冲击下的全球税收体系思维导图\" style=\"width:100%;height:auto;font-family:-apple-system,'PingFang SC','Hiragino Sans GB','Microsoft YaHei',sans-serif\">\n        <rect x=\"24\" y=\"306\" width=\"176\" height=\"88\" rx=\"14\" fill=\"#eae3d2\" stroke=\"#9a8f76\"/>\n        <text x=\"112\" y=\"342\" text-anchor=\"middle\" fill=\"#3d3a34\" font-size=\"17\" font-weight=\"700\">飓风将至</text>\n        <text x=\"112\" y=\"368\" text-anchor=\"middle\" fill=\"#5c5648\" font-size=\"12.5\">全球税收体系面临大考</text>\n\n        <path d=\"M200,350 C232,350 232,88 260,88\" stroke=\"#6b8f71\" stroke-width=\"2\" fill=\"none\"/>\n        <path d=\"M200,350 C232,350 232,238 260,238\" stroke=\"#7d98ad\" stroke-width=\"2\" fill=\"none\"/>\n        <path d=\"M200,350 C232,350 232,433 260,433\" stroke=\"#bd7a6d\" stroke-width=\"2\" fill=\"none\"/>\n        <path d=\"M200,350 C232,350 232,628 260,628\" stroke=\"#9b86b3\" stroke-width=\"2\" fill=\"none\"/>\n\n        <g class=\"mm-branch\" data-target=\"bc1\">\n          <rect x=\"260\" y=\"71\" width=\"190\" height=\"34\" rx=\"8\" fill=\"#e6efe7\" stroke=\"#6b8f71\"/>\n          <text x=\"349\" y=\"93\" text-anchor=\"middle\" fill=\"#4c6b52\" font-size=\"15\" font-weight=\"700\">飓风将至（¶1–2）</text>\n          <text class=\"mm-arrow\" data-for=\"bc1\" x=\"442\" y=\"93\" text-anchor=\"end\" fill=\"#4c6b52\">▾</text>\n        </g>\n        <g class=\"mm-children\" id=\"bc1\">\n          <path d=\"M450,88 C462,88 462,46 480,46\" stroke=\"#6b8f71\" stroke-width=\"1.5\" fill=\"none\"/>\n          <path d=\"M450,88 C462,88 462,88 480,88\" stroke=\"#6b8f71\" stroke-width=\"1.5\" fill=\"none\"/>\n          <path d=\"M450,88 C462,88 462,130 480,130\" stroke=\"#6b8f71\" stroke-width=\"1.5\" fill=\"none\"/>\n          <rect x=\"480\" y=\"30\" width=\"456\" height=\"32\" rx=\"8\" fill=\"#e6efe7\"/><text x=\"492\" y=\"51\" fill=\"#3d3a34\" font-size=\"14\">国债收益率破 5%，法德利差回到欧债危机水平</text>\n          <rect x=\"480\" y=\"72\" width=\"456\" height=\"32\" rx=\"8\" fill=\"#e6efe7\"/><text x=\"492\" y=\"93\" fill=\"#3d3a34\" font-size=\"14\">英国首相的支出计划被养老金承诺架空，仍陷泥潭</text>\n          <rect x=\"480\" y=\"114\" width=\"456\" height=\"32\" rx=\"8\" fill=\"#e6efe7\"/><text x=\"492\" y=\"135\" fill=\"#3d3a34\" font-size=\"14\">税基严重依赖劳动所得税，而 AI 可能把它掀翻</text>\n        </g>\n\n        <g class=\"mm-branch\" data-target=\"bc2\">\n          <rect x=\"260\" y=\"221\" width=\"190\" height=\"34\" rx=\"8\" fill=\"#e5edf4\" stroke=\"#7d98ad\"/>\n          <text x=\"349\" y=\"243\" text-anchor=\"middle\" fill=\"#3d5872\" font-size=\"15\" font-weight=\"700\">税制积弊（¶3–5）</text>\n          <text class=\"mm-arrow\" data-for=\"bc2\" x=\"442\" y=\"243\" text-anchor=\"end\" fill=\"#3d5872\">▾</text>\n        </g>\n        <g class=\"mm-children\" id=\"bc2\">\n          <path d=\"M450,238 C462,238 462,196 480,196\" stroke=\"#7d98ad\" stroke-width=\"1.5\" fill=\"none\"/>\n          <path d=\"M450,238 C462,238 462,238 480,238\" stroke=\"#7d98ad\" stroke-width=\"1.5\" fill=\"none\"/>\n          <path d=\"M450,238 C462,238 462,280 480,280\" stroke=\"#7d98ad\" stroke-width=\"1.5\" fill=\"none\"/>\n          <rect x=\"480\" y=\"180\" width=\"456\" height=\"32\" rx=\"8\" fill=\"#e5edf4\"/><text x=\"492\" y=\"201\" fill=\"#3d3a34\" font-size=\"14\">德国燕麦奶增值税是牛奶两倍多，复杂性毫无必要</text>\n          <rect x=\"480\" y=\"222\" width=\"456\" height=\"32\" rx=\"8\" fill=\"#e5edf4\"/><text x=\"492\" y=\"243\" fill=\"#3d3a34\" font-size=\"14\">经合组织消费税只收到潜在收入的 58%，还扭曲激励</text>\n          <rect x=\"480\" y=\"264\" width=\"456\" height=\"32\" rx=\"8\" fill=\"#e5edf4\"/><text x=\"492\" y=\"285\" fill=\"#3d3a34\" font-size=\"14\">10 万英镑悬崖：多赚一镑，丢掉数千镑育儿福利</text>\n        </g>\n\n        <g class=\"mm-branch\" data-target=\"bc3\">\n          <rect x=\"260\" y=\"416\" width=\"190\" height=\"34\" rx=\"8\" fill=\"#f4e7e4\" stroke=\"#bd7a6d\"/>\n          <text x=\"349\" y=\"438\" text-anchor=\"middle\" fill=\"#7c4a3e\" font-size=\"15\" font-weight=\"700\">财富税行不通（¶6–7）</text>\n          <text class=\"mm-arrow\" data-for=\"bc3\" x=\"442\" y=\"438\" text-anchor=\"end\" fill=\"#7c4a3e\">▾</text>\n        </g>\n        <g class=\"mm-children\" id=\"bc3\">\n          <path d=\"M450,433 C462,433 462,391 480,391\" stroke=\"#bd7a6d\" stroke-width=\"1.5\" fill=\"none\"/>\n          <path d=\"M450,433 C462,433 462,433 480,433\" stroke=\"#bd7a6d\" stroke-width=\"1.5\" fill=\"none\"/>\n          <path d=\"M450,433 C462,433 462,475 480,475\" stroke=\"#bd7a6d\" stroke-width=\"1.5\" fill=\"none\"/>\n          <rect x=\"480\" y=\"375\" width=\"456\" height=\"32\" rx=\"8\" fill=\"#f4e7e4\"/><text x=\"492\" y=\"396\" fill=\"#3d3a34\" font-size=\"14\">劳动收入占比跌 10 个点，意大利赤字就要翻倍</text>\n          <rect x=\"480\" y=\"417\" width=\"456\" height=\"32\" rx=\"8\" fill=\"#f4e7e4\"/><text x=\"492\" y=\"438\" fill=\"#3d3a34\" font-size=\"14\">AI 代理扫 23,000 页税法，避税策略批量生成</text>\n          <rect x=\"480\" y=\"459\" width=\"456\" height=\"32\" rx=\"8\" fill=\"#f4e7e4\"/><text x=\"492\" y=\"480\" fill=\"#3d3a34\" font-size=\"14\">1990 年 12 国征财富税，如今只剩 4 国</text>\n        </g>\n\n        <g class=\"mm-branch\" data-target=\"bc4\">\n          <rect x=\"260\" y=\"611\" width=\"190\" height=\"34\" rx=\"8\" fill=\"#ece4f2\" stroke=\"#9b86b3\"/>\n          <text x=\"349\" y=\"633\" text-anchor=\"middle\" fill=\"#5a4670\" font-size=\"15\" font-weight=\"700\">出路（¶8–9）</text>\n          <text class=\"mm-arrow\" data-for=\"bc4\" x=\"442\" y=\"633\" text-anchor=\"end\" fill=\"#5a4670\">▾</text>\n        </g>\n        <g class=\"mm-children\" id=\"bc4\">\n          <path d=\"M450,628 C462,628 462,586 480,586\" stroke=\"#9b86b3\" stroke-width=\"1.5\" fill=\"none\"/>\n          <path d=\"M450,628 C462,628 462,628 480,628\" stroke=\"#9b86b3\" stroke-width=\"1.5\" fill=\"none\"/>\n          <path d=\"M450,628 C462,628 462,670 480,670\" stroke=\"#9b86b3\" stroke-width=\"1.5\" fill=\"none\"/>\n          <rect x=\"480\" y=\"570\" width=\"456\" height=\"32\" rx=\"8\" fill=\"#ece4f2\"/><text x=\"492\" y=\"591\" fill=\"#3d3a34\" font-size=\"14\">靠资本利得税给财富加税，豁免正常回报</text>\n          <rect x=\"480\" y=\"612\" width=\"456\" height=\"32\" rx=\"8\" fill=\"#ece4f2\"/><text x=\"492\" y=\"633\" fill=\"#3d3a34\" font-size=\"14\">减轻劳动税负，对冲 AI 冲击、拆掉就业门槛</text>\n          <rect x=\"480\" y=\"654\" width=\"456\" height=\"32\" rx=\"8\" fill=\"#ece4f2\"/><text x=\"492\" y=\"675\" fill=\"#3d3a34\" font-size=\"14\">消费税堵豁免、税法典大改：输家嘶吼不会小</text>\n        </g>\n\n      </svg>",
+  "img": ""
+ }
+}

@@ -1,0 +1,497 @@
+{
+ "date": "2026-10-03",
+ "title_tag": "迪拜航空副驾驶刺伤机长，客机2分钟暴跌5200米：174人到底怎么活下来的？—— 美国《大西洋月刊》外刊讲解第1186天",
+ "h1": "迪拜航空副驾驶刺伤机长，客机 2 分钟暴跌 5200 米：174 人到底怎么活下来的？",
+ "source_label": "The Atlantic",
+ "category": "美国《大西洋月刊》外刊讲解 第1186天",
+ "read_minutes": 20,
+ "nav_hint": "A Near Disaster on Flydubai",
+ "headline": {
+  "en_html": "<span>A <mark class=\"voc\">Near</mark> Disaster on Flydubai</span> — <span>This unbelievable <mark class=\"voc\">sequence</mark> of events has huge <mark class=\"voc\">implications</mark></span>",
+  "zh": "迪拜航空，一场擦肩而过的空难——这串匪夷所思的连锁事件，后患无穷。",
+  "notes": [
+   {
+    "w": "near",
+    "ipa": "/nɪə(r)/",
+    "pos": "adj.",
+    "en": "near (adj.) means almost happening or almost being something, but not actually so",
+    "zh": "险些发生的，差一点酿成的",
+    "ctx": "标题里的 near 是全篇的定调：飞机已经俯冲 17,000 英尺、离坠毁只差几十秒，最终被制服迫降，所以是“险些”而非“真的”空难。",
+    "ex1": "The two jets passed within 300 feet of each other in what investigators later called a near miss. 两架飞机擦身而过时相距不到300英尺，调查人员后来把这起事件定性为“险些相撞”。",
+    "ex2": "The bank survived a near-collapse in 2008 and has been rebuilding its balance sheet ever since. 这家银行在2008年差一点倒闭，此后一直在修复自己的资产负债表。"
+   },
+   {
+    "w": "sequence",
+    "ipa": "/ˈsiːkwəns/",
+    "pos": "n.",
+    "en": "sequence (n.) means a set of related events or actions that follow one another in a particular order",
+    "zh": "一连串（事件），先后次序",
+    "ctx": "副标题用 sequence 框住整篇文章：行凶、俯冲、破门、迫降、外交否认，是一环扣一环的一串事。",
+    "ex1": "The report reconstructs the exact sequence of events that led to the factory shutdown. 这份报告还原了导致工厂停产的那一连串事件的确切先后。",
+    "ex2": "Investors are still trying to work out the sequence in which the three resignations were decided. 投资者仍在试图弄清这三份辞呈究竟是按什么先后顺序定下来的。"
+   },
+   {
+    "w": "implication",
+    "ipa": "/ˌɪmplɪˈkeɪʃn/",
+    "pos": "n.",
+    "en": "implication (n.) means a possible future effect or consequence that follows from an action or event, often one that is not immediately obvious",
+    "zh": "牵连出来的后果，影响",
+    "ctx": "作者在副标题、倒数第二句和最后一句连用三次 implication，暗示真正的问题不在这一架飞机，而在它牵出的地缘后果。",
+    "ex1": "A ruling against the company would have serious implications for the entire streaming industry. 一旦判决对该公司不利，整个流媒体行业都会受到严重波及。",
+    "ex2": "Economists are still debating the long-term implications of negative interest rates. 经济学家仍在争论负利率的长期后果究竟是什么。"
+   }
+  ]
+ },
+ "paragraphs": [
+  {
+   "en_html": "Today, somewhere over Saudi Arabia, the <mark class=\"voc\">co-pilot</mark> of an <mark class=\"voc\">Israel-bound</mark> Flydubai Boeing 737 <mark class=\"voc\">stabbed</mark> the other pilot and <mark class=\"voc\">pitched</mark> the nose of the plane toward the desert below. The jet <mark class=\"voc\">descended</mark> 17,000 feet in two minutes, at an <mark class=\"voc\">acceleration</mark> <mark class=\"voc\">violent</mark> enough to make your phone and in-flight snack jump off your tray and be <mark class=\"voc\">pinned</mark> to the ceiling. Other <mark class=\"voc\">crew</mark> members and at least one Israeli passenger <mark class=\"voc\">broke into</mark> the <mark class=\"voc\">cockpit</mark> and <mark class=\"voc\">subdued</mark> the <mark class=\"voc\">assailant</mark>. <mark class=\"voc\">Relief</mark> pilots then <mark class=\"voc\">took over</mark> and landed the plane in Tabuk, Saudi Arabia.",
+   "zh": "今天，在沙特阿拉伯上空的某处，一架飞往以色列的迪拜航空波音737客机上，副驾驶刺伤了另一名飞行员，并将机头狠狠压向下方的沙漠。两分钟之内，飞机骤降17,000英尺——那加速度之猛，足以让你的手机、你的飞机餐从小桌板上腾空而起，被死死按在天花板上。其他机组人员与至少一名以色列乘客破门闯入驾驶舱，制服了行凶者。随后，替班的飞行员接过操纵，将飞机降落在沙特的塔布克。",
+   "notes": [
+    {
+     "w": "co-pilot",
+     "ipa": "/ˈkəʊˌpaɪlət/",
+     "pos": "n.（正式航空术语为 first officer）",
+     "en": "co-pilot (n.) means the second pilot on an aircraft, who assists and can relieve the captain",
+     "zh": "副驾驶",
+     "ctx": "文中指 FZ1073 航班上刺伤机长的那名阿曼籍飞行员，第九段又换称 first officer 指同一人。",
+     "ex1": "The captain fell ill halfway through the flight, and the co-pilot landed the aircraft alone. 机长在飞行途中病倒，最后是副驾驶独自把飞机降落的。",
+     "ex2": "Airlines rotate captains and co-pilots so that no crew pairing flies together too often. 航空公司会轮换机长和副驾驶的搭配，避免同一组机组总是一起飞。"
+    },
+    {
+     "w": "-bound",
+     "ipa": "/baʊnd/",
+     "pos": "后缀（构成形容词）",
+     "en": "-bound (suffix) means travelling or heading towards the place named",
+     "zh": "开往……的",
+     "ctx": "Israel-bound 即“飞往以色列的”，这架航班从迪拜起飞、目的地是特拉维夫。",
+     "ex1": "All Beijing-bound passengers were asked to move to gate 42 after the last-minute change. 临时改签之后，所有飞往北京的旅客都被要求转到42号登机口。",
+     "ex2": "Outbound tourism rebounded sharply once visa restrictions were relaxed. 签证限制一放宽，出境游立刻强劲反弹。"
+    },
+    {
+     "w": "stab",
+     "ipa": "/stæb/",
+     "pos": "v.",
+     "en": "stab (v.) means to push a knife or other pointed object into someone’s body",
+     "zh": "捅，刺伤",
+     "ctx": "文中指副驾驶在驾驶舱内刺伤印度籍机长，机长大量失血仍撑着把舱门打开。",
+     "ex1": "A security guard was stabbed in the arm while trying to stop the intruder at the warehouse gate. 一名保安在仓库门口试图拦下闯入者时，手臂被刺伤。",
+     "ex2": "He trusted his business partner completely, which is exactly why being stabbed in the back hurt so much. 他对合伙人毫无保留地信任，所以被背后捅这一刀才格外疼。"
+    },
+    {
+     "w": "pitch",
+     "ipa": "/pɪtʃ/",
+     "pos": "v.",
+     "en": "pitch (v.) means to make something tilt sharply downward or upward, especially the nose of an aircraft or ship",
+     "zh": "使机头上下俯仰，把机头压下去",
+     "ctx": "文中指副驾驶推杆把机头压向下方沙漠，两分钟内掉了 17,000 英尺。",
+     "ex1": "Severe turbulence made the aircraft pitch forward so hard that unsecured carts rolled down the aisle. 剧烈颠簸让机身猛地前倾，没固定好的餐车一路滚到了过道尽头。",
+     "ex2": "The autopilot will pitch the nose up automatically if airspeed drops below a set threshold. 一旦空速低于设定值，自动驾驶会自动把机头拉起。"
+    },
+    {
+     "w": "descend",
+     "ipa": "/dɪˈsend/",
+     "pos": "v.",
+     "en": "descend (v.) means to move from a higher level or position to a lower one",
+     "zh": "下降；（局势）跌入某种状态",
+     "ctx": "文中指飞机两分钟下降 17,000 英尺（约 5,182 米），是正常下降率的四到五倍。",
+     "ex1": "The aircraft descended to 10,000 feet before the crew regained control of the system. 飞机一路降到10,000英尺，机组才重新控制住系统。",
+     "ex2": "What began as a peaceful protest descended into chaos within the space of an hour. 一场原本和平的抗议，不到一个小时就演变成一片混乱。"
+    },
+    {
+     "w": "acceleration",
+     "ipa": "/əkˌseləˈreɪʃn/",
+     "pos": "n.",
+     "en": "acceleration (n.) means the rate at which the speed of something increases",
+     "zh": "加速度；加速",
+     "ctx": "文中指下坠加速度超过重力加速度，机舱里的东西才会相对机舱“往上飞”。",
+     "ex1": "The acceleration of hiring in the second quarter caught most analysts off guard. 第二季度招聘节奏的陡然加快，让大多数分析师措手不及。",
+     "ex2": "Few saw the acceleration coming, but adoption doubled in just five months. 很少有人预料到这种加速，但采用率在短短五个月里翻了一倍。"
+    },
+    {
+     "w": "violent",
+     "ipa": "/ˈvaɪələnt/",
+     "pos": "adj.",
+     "en": "violent (adj.) means extremely forceful or intense in degree, not necessarily involving physical attack",
+     "zh": "猛烈的，剧烈的",
+     "ctx": "这里形容的是加速度的强度，不是“暴力”：猛到让手机和飞机餐被死死按在天花板上。",
+     "ex1": "A violent storm knocked out power to half the island for three days. 一场狂风暴雨让全岛一半地区停电三天。",
+     "ex2": "The currency saw a violent swing after the central bank’s surprise announcement. 央行出人意料地宣布消息之后，汇率出现了剧烈震荡。"
+    },
+    {
+     "w": "pin",
+     "ipa": "/pɪn/",
+     "pos": "v.",
+     "en": "pin (v.) means to hold something or someone firmly in one position so that it cannot move",
+     "zh": "把……牢牢按住、动弹不得",
+     "ctx": "文中指手机、飞机餐在负 G 状态下被顶到天花板，紧贴着下不来。",
+     "ex1": "Two workers were pinned under the collapsed scaffolding until rescuers arrived. 两名工人被倒塌的脚手架压住动弹不得，直到救援人员赶到。",
+     "ex2": "The company is pinning its hopes on a single product launch this autumn. 这家公司把全部指望都押在今年秋天的那一次产品发布上。"
+    },
+    {
+     "w": "crew",
+     "ipa": "/kruː/",
+     "pos": "n.",
+     "en": "crew (n., collective) means all the people who work together on a ship, aircraft, or train",
+     "zh": "全体机组人员",
+     "ctx": "文中指和以色列乘客一起冲进驾驶舱、制服行凶副驾驶的其他机组成员。",
+     "ex1": "Cabin crew were praised for evacuating all 180 passengers in under 90 seconds. 乘务组因在90秒内疏散全部180名乘客而受到称赞。",
+     "ex2": "Over the holidays the office runs on a skeleton crew of four people. 假期里办公室只留四个人值班，是最低限度的人手。"
+    },
+    {
+     "w": "break into",
+     "ipa": "",
+     "pos": "短语动词",
+     "en": "break into means to enter a place by force, or to suddenly begin a new state or activity",
+     "zh": "破门闯入；突然进入某种状态",
+     "ctx": "文中指乘客与机组强行打开并冲进了 9·11 之后被加固成防弹结构的驾驶舱。",
+     "ex1": "Thieves broke into the depot overnight but left without touching the safe. 窃贼半夜闯进了仓库，却没碰保险柜就走了。",
+     "ex2": "The brand took eight years to break into the North American market. 这个品牌花了八年才打进北美市场。"
+    },
+    {
+     "w": "cockpit",
+     "ipa": "/ˈkɒkpɪt/",
+     "pos": "n.",
+     "en": "cockpit (n.) means the enclosed space at the front of an aircraft where the pilots sit and control the plane",
+     "zh": "驾驶舱",
+     "ctx": "文中指那扇从内锁死的防弹舱门——它这次反而把威胁关在了里面，直到重伤的机长把它打开。",
+     "ex1": "The cockpit voice recorder was recovered intact and sent for analysis the same week. 驾驶舱话音记录器被完整找回，当周就送去做了分析。",
+     "ex2": "Reinforced cockpit doors became standard across the industry after 2001. 2001年以后，加固驾驶舱门成了整个行业的标准配置。"
+    },
+    {
+     "w": "subdue",
+     "ipa": "/səbˈdjuː/",
+     "pos": "v.",
+     "en": "subdue (v.) means to bring a person or situation under control, usually by force",
+     "zh": "制服、压制",
+     "ctx": "文中指乘客与机组合力把行凶的副驾驶按住，使他无法继续操纵飞机。",
+     "ex1": "Three passengers subdued the man before the aircraft had even reached the gate. 飞机还没滑到登机口，三名乘客就已经把那人制服了。",
+     "ex2": "Trading was subdued ahead of the holiday, with volumes well below average. 假期前交易清淡，成交量远低于平均水平。"
+    },
+    {
+     "w": "assailant",
+     "ipa": "/əˈseɪlənt/",
+     "pos": "n.",
+     "en": "assailant (n.) means a person who physically attacks another person",
+     "zh": "行凶者、袭击者",
+     "ctx": "作者第一段刻意用这个中性词称呼副驾驶，不预先定性，把“是恐袭还是谋杀”留到第三段讨论动机。",
+     "ex1": "Police have released a description of the assailant but have made no arrests. 警方已公布行凶者的体貌特征，但尚未实施抓捕。",
+     "ex2": "The victim could not identify her assailant because the corridor was unlit. 走廊里没有灯，受害者无法辨认袭击她的人。"
+    },
+    {
+     "w": "relief",
+     "ipa": "/rɪˈliːf/",
+     "pos": "n.（作定语）",
+     "en": "relief (n., attributive) means replacing or taking over from someone else for a period of time",
+     "zh": "替班的、接替的",
+     "ctx": "文中指机上两名当时并未值勤的飞行员，在副驾驶被制服后接手操纵。",
+     "ex1": "A relief driver took the wheel at the border so the truck could keep moving overnight. 到了边境换上替班司机，这辆卡车才能连夜继续跑。",
+     "ex2": "The hospital flew in a relief crew after staff had worked three consecutive shifts. 医护连上三班之后，医院空运来了一组接替人员。"
+    },
+    {
+     "w": "take over",
+     "ipa": "",
+     "pos": "短语动词",
+     "en": "take over means to assume control of something previously controlled by someone else",
+     "zh": "接管、接手",
+     "ctx": "文中指替班飞行员从失控的驾驶舱里接过操纵，恢复了对飞机的控制。",
+     "ex1": "She will take over as chief executive at the end of the quarter. 她将在本季度末接任首席执行官。",
+     "ex2": "A rival fund launched a hostile takeover just weeks after the merger talks collapsed. 并购谈判破裂才几周，一家对手基金就发起了恶意收购。"
+    }
+   ]
+  },
+  {
+   "en_html": "After a second Flydubai plane took the 174 passengers to Tel Aviv, one of the passengers who’d <mark class=\"voc\">stormed</mark> the cockpit told Israeli Prime Minister Benjamin Netanyahu that his actions had been effective <mark class=\"voc\">in part because</mark> he had watched the <mark class=\"voc\">disaster-porn</mark> documentary series Mayday, about aviation <mark class=\"voc\">catastrophes</mark>, and had known to pull back on the <mark class=\"voc\">yoke</mark>.",
+   "zh": "迪拜航空另派了一架飞机，把这174名乘客送抵特拉维夫。落地后，一位曾冲进驾驶舱的乘客对以色列总理内塔尼亚胡说：他之所以派上了用场，一部分要归功于他看过那部专拍空难的“灾难猎奇”纪录片《Mayday》——所以他知道，那一刻该做的事，是把操纵杆往回拉。",
+   "notes": [
+    {
+     "w": "storm",
+     "ipa": "/stɔːm/",
+     "pos": "v.",
+     "en": "storm (v.) means to attack or enter a place suddenly and with great force",
+     "zh": "强行冲入、猛攻",
+     "ctx": "文中指那位后来见到内塔尼亚胡的以色列乘客，和其他人一起冲进了驾驶舱。",
+     "ex1": "Police stormed the warehouse at dawn and freed all four hostages unharmed. 警方拂晓强攻仓库，四名人质全部安全获救。",
+     "ex2": "The debut album took the charts by storm and stayed at number one for nine weeks. 这张首专横扫排行榜，连续九周占据冠军位置。"
+    },
+    {
+     "w": "in part because",
+     "ipa": "",
+     "pos": "固定短语",
+     "en": "in part because means partly for the reason that, with other reasons also contributing",
+     "zh": "部分原因在于（不是唯一原因）",
+     "ctx": "那位乘客特意说“部分原因”，因为救下飞机的还有开门的机长、其他乘客和替班飞行员。",
+     "ex1": "The deal collapsed in part because neither side was willing to move on price. 这笔交易最终告吹，一部分原因是双方在价格上谁都不肯让步。",
+     "ex2": "Her promotion was due in part to the turnaround she led in the Asian division. 她的晋升，有一部分要归功于她主导的亚洲区扭亏为盈。"
+    },
+    {
+     "w": "disaster porn",
+     "ipa": "",
+     "pos": "复合名词（-porn 后缀）",
+     "en": "disaster porn means media content about catastrophes that is consumed mainly for sensational thrill rather than for information",
+     "zh": "灾难猎奇内容",
+     "ctx": "文中指那位乘客刷过的加拿大空难纪录片《Mayday》，作者用这个带自嘲意味的标签来形容它。",
+     "ex1": "Critics dismissed the series as disaster porn, though its technical reconstructions were praised. 批评者把这部剧斥为灾难猎奇片，不过它的技术还原倒是获得了好评。",
+     "ex2": "The channel built its audience on food porn: slow-motion cheese pulls and nothing else. 这个频道就是靠美食诱惑画面涨粉的——满屏慢动作拉丝奶酪，别的什么也没有。"
+    },
+    {
+     "w": "catastrophe",
+     "ipa": "/kəˈtæstrəfi/",
+     "pos": "n.",
+     "en": "catastrophe (n.) means a sudden event that causes very great destruction, suffering, or loss",
+     "zh": "毁灭级的大灾难",
+     "ctx": "文中指《Mayday》所还原的空难；第三段作者又把它用在迪拜航空的品牌处境上，比 disaster 重一级。",
+     "ex1": "Engineers warned that a catastrophic failure of the dam was no longer a remote possibility. 工程师警告说，这座水坝发生灾难性溃决已不再是什么小概率事件。",
+     "ex2": "Aid agencies say the drought has turned into a full humanitarian catastrophe. 救援机构表示，这场旱灾已经演变成一场彻底的人道主义灾难。"
+    },
+    {
+     "w": "yoke",
+     "ipa": "/jəʊk/",
+     "pos": "n.",
+     "en": "yoke (n.) means the control column of an aircraft, which the pilot pulls back or pushes forward to raise or lower the nose",
+     "zh": "操纵杆、驾驶盘",
+     "ctx": "文中指那位乘客因为看过空难纪录片，知道要把操纵杆往回拉而不是往前推，机头才抬得起来。",
+     "ex1": "The instructor told her to pull back gently on the yoke rather than yank it. 教官叫她轻轻把操纵杆往回带，而不是猛拽。",
+     "ex2": "For decades the region lived under the yoke of a single export commodity. 几十年来，这个地区一直被单一的出口商品套着脖子。"
+    }
+   ]
+  },
+  {
+   "en_html": "Whether today’s near-disaster was <mark class=\"voc\">terrorism</mark> or <mark class=\"voc\">merely</mark> <mark class=\"voc\">attempted</mark> mass murder depends on the attacker’s <mark class=\"voc\">motive</mark>. Either way, it is a public-relations catastrophe for Flydubai, the <mark class=\"voc\">budget</mark> <mark class=\"voc\">cousin</mark> of the airline Emirates. Since the United Arab Emirates <mark class=\"voc\">opened diplomatic relations</mark> with Israel in 2020, the airline has connected the two countries with few <mark class=\"voc\">interruptions</mark>, even for acts of war and terror. Keeping that air route open and safe has taken a great deal of effort.",
+   "zh": "今天这场险些酿成的灾难，究竟是恐怖主义，还是“不过”一次未遂的大规模谋杀，要看行凶者的动机。但无论是哪一种，对迪拜航空来说都是一场公关上的灭顶之灾——这家公司，是阿联酋航空那位“廉价版的表亲”。自2020年阿联酋与以色列建交以来，正是这家航司把两个国家连在了一起，几乎未曾中断，哪怕是在战火与恐袭的日子里。而要让那条航线一直开着、一直安全，背后费的力气，远超你的想象。",
+   "notes": [
+    {
+     "w": "terrorism",
+     "ipa": "/ˈterərɪzəm/",
+     "pos": "n.",
+     "en": "terrorism (n.) means the use of violence against civilians in order to achieve a political, religious, or ideological aim",
+     "zh": "恐怖主义",
+     "ctx": "文中指这起事件能否被定性为恐怖主义，取决于副驾驶是出于个人崩溃，还是为了某种政治或意识形态目的。",
+     "ex1": "Prosecutors must show intent before the attack can be charged as terrorism. 检方必须证明其意图，这起袭击才能按恐怖主义罪名起诉。",
+     "ex2": "The new unit focuses on counter-terrorism financing rather than on operations. 这个新成立的部门主攻反恐融资，而不是行动层面。"
+    },
+    {
+     "w": "merely",
+     "ipa": "/ˈmɪəli/",
+     "pos": "adv.",
+     "en": "merely (adv.) means only and nothing more, often used to make something sound smaller than it is",
+     "zh": "不过是（此处为冷幽默用法）",
+     "ctx": "作者把它放在“未遂的大规模谋杀”前面，让“只想杀光一飞机人”竟成了较轻的那个选项。",
+     "ex1": "The vote was merely a formality; the outcome had been agreed a week earlier. 这次投票不过走个过场，结果一周前就定好了。",
+     "ex2": "The change is not merely cosmetic — it rewrites how liability is assigned. 这次修改绝不只是表面功夫，它重写了责任的归属方式。"
+    },
+    {
+     "w": "attempted",
+     "ipa": "/əˈtemptɪd/",
+     "pos": "adj.",
+     "en": "attempted (adj.) means tried but not completed or successful, used before the name of a crime",
+     "zh": "未遂的",
+     "ctx": "文中指 attempted mass murder，飞机最终没有坠毁，所以是“未遂”。",
+     "ex1": "He was convicted of attempted murder and sentenced to eighteen years. 他被判谋杀未遂罪名成立，获刑十八年。",
+     "ex2": "The attempted coup collapsed within a day for lack of military backing. 那场政变未遂，因为没有军方支持，一天之内就垮了。"
+    },
+    {
+     "w": "motive",
+     "ipa": "/ˈməʊtɪv/",
+     "pos": "n.",
+     "en": "motive (n.) means the underlying reason that causes a person to act, especially in a criminal context",
+     "zh": "动机",
+     "ctx": "第三段说定性取决于动机，第九段说“有动机的人并不少”，前后呼应成一条暗线。",
+     "ex1": "Detectives have means and opportunity but still cannot establish a motive. 侦探们掌握了作案手段和时机，却仍然确立不了动机。",
+     "ex2": "He offered to help for free, which made everyone suspect an ulterior motive. 他主动提出免费帮忙，反倒让所有人怀疑他别有用心。"
+    },
+    {
+     "w": "budget",
+     "ipa": "/ˈbʌdʒɪt/",
+     "pos": "adj.",
+     "en": "budget (adj.) means cheap and offering a basic level of service, with extras charged separately",
+     "zh": "廉价的、经济型的",
+     "ctx": "文中指 Flydubai 是迪拜政府旗下的廉价航空，与同属迪拜的全服务豪华航司 Emirates 形成对照。",
+     "ex1": "Budget airlines now carry more passengers on short European routes than legacy carriers do. 在欧洲短途航线上，廉价航空的客运量如今已经超过了传统航司。",
+     "ex2": "She booked a budget hotel near the station and spent the savings on food. 她在车站附近订了家经济型酒店，省下的钱全花在吃上了。"
+    },
+    {
+     "w": "cousin",
+     "ipa": "/ˈkʌzn/",
+     "pos": "n.（比喻用法）",
+     "en": "cousin (n., figurative) means something belonging to the same family or category as another, but differing in status, scale, or quality",
+     "zh": "同一家族里档次不同的那一个",
+     "ctx": "文中指 Flydubai 与 Emirates 同属迪拜政府，一个走廉价、一个走豪华，是同门里档次不同的那一个。",
+     "ex1": "Freight rail has long been treated as the poor cousin of passenger services. 货运铁路长期以来一直被当成客运的“穷亲戚”。",
+     "ex2": "This model is a close cousin of the flagship, minus the premium materials. 这款是旗舰机型的近亲，只是少了那些高端材质。"
+    },
+    {
+     "w": "open diplomatic relations",
+     "ipa": "",
+     "pos": "固定短语",
+     "en": "open diplomatic relations means to formally establish official ties between two states, usually including embassies and ambassadors",
+     "zh": "建立外交关系、建交",
+     "ctx": "文中指 2020 年阿联酋与以色列建交，正是这件事让迪拜—特拉维夫这条航线得以存在。",
+     "ex1": "The two countries opened diplomatic relations in 1992 after decades of hostility. 经过几十年的敌对，两国终于在1992年建立了外交关系。",
+     "ex2": "Islamabad severed diplomatic relations with the neighbouring state after the border incident. 边境事件之后，伊斯兰堡与邻国断绝了外交关系。"
+    },
+    {
+     "w": "interruption",
+     "ipa": "/ˌɪntəˈrʌpʃn/",
+     "pos": "n.",
+     "en": "interruption (n.) means a break in the continuity of something that was otherwise going on",
+     "zh": "中断",
+     "ctx": "文中指 with few interruptions——2020 年以来，这条航线即便在战争和恐袭期间也几乎没有停过。",
+     "ex1": "Production ran for eleven months without interruption before the plant was retooled. 在工厂进行设备改造之前，生产线连续运转了十一个月没有中断。",
+     "ex2": "Customers were compensated for the two-day interruption to service. 服务中断两天，客户都获得了补偿。"
+    }
+   ]
+  },
+  {
+   "en_html": "Last year, I <mark class=\"voc\">witnessed</mark> clever security engineering at Dubai’s Terminal 1: placement of the check-in desk for El Al, the Israeli <mark class=\"voc\">carrier</mark>, <mark class=\"voc\">adjacent to</mark> the desk for Iran’s Mahan Air. Anyone <mark class=\"voc\">tempted</mark> to attack Israeli passengers would hit Iranian ones, and <mark class=\"voc\">vice versa</mark>. Checked baggage costs extra, but the experience of being a <mark class=\"voc\">human shield</mark> while waiting in line is <mark class=\"voc\">complimentary</mark>.",
+   "zh": "去年，我在迪拜机场一号航站楼，亲眼见识过一手极聪明的安保设计：以色列航空El Al 的值机柜台，被安排在伊朗马汉航空的柜台旁边，紧紧挨着。于是，任何起了念头要袭击以色列乘客的人，必定会同时伤到伊朗乘客——反过来也一样。在这里，托运行李是要另外收费的；但排队时充当人肉盾牌的这项体验，免费赠送。",
+   "notes": [
+    {
+     "w": "witness",
+     "ipa": "/ˈwɪtnəs/",
+     "pos": "v.",
+     "en": "witness (v.) means to see something important happen with your own eyes",
+     "zh": "亲眼目睹",
+     "ctx": "文中指作者本人去年在迪拜一号航站楼看到的柜台排布，是全文唯一一处第一人称叙述，用来交代消息来源。",
+     "ex1": "Only two people witnessed the exchange, and neither has agreed to speak publicly. 那次交谈只有两个人亲眼看到，而且两人都不愿公开发声。",
+     "ex2": "The building bore witness to a century of the city’s industrial history. 这栋楼见证了这座城市一个世纪的工业史。"
+    },
+    {
+     "w": "carrier",
+     "ipa": "/ˈkæriə(r)/",
+     "pos": "n.",
+     "en": "carrier (n.) means a company whose business is transporting passengers or goods, especially an airline",
+     "zh": "航空公司、承运人",
+     "ctx": "文中用 the Israeli carrier 作同位语，解释 El Al 是以色列的国家航空公司。",
+     "ex1": "The flag carrier posted its first annual profit since the pandemic. 这家国旗航司报出了疫情以来的首个年度盈利。",
+     "ex2": "Low-cost carriers now account for nearly half of all domestic seats. 廉价航司如今已占到国内航线座位数的将近一半。"
+    },
+    {
+     "w": "adjacent to",
+     "ipa": "/əˈdʒeɪsnt/",
+     "pos": "形容词短语",
+     "en": "adjacent to means directly next to and touching or very close to something, with nothing in between",
+     "zh": "紧邻、直接挨着",
+     "ctx": "文中指以色列航空 El Al 的值机柜台被安排在伊朗马汉航空柜台的正旁边，使两国旅客互为屏障。",
+     "ex1": "The new terminal sits adjacent to the existing cargo apron, sharing its access road. 新航站楼就挨着现有的货运机坪，共用一条进场路。",
+     "ex2": "The group is expanding into adjacent markets rather than chasing entirely new ones. 这家集团正在向相邻市场扩张，而不是去追逐全新的领域。"
+    },
+    {
+     "w": "be tempted to",
+     "ipa": "",
+     "pos": "固定结构",
+     "en": "be tempted to do something means to feel an urge to do it, especially something unwise or wrong",
+     "zh": "动了……的念头",
+     "ctx": "文中指任何起了袭击以色列乘客念头的人，都会同时伤到伊朗乘客。",
+     "ex1": "I was tempted to sell at the peak, and I have regretted not doing so ever since. 我当时动过在高点卖掉的念头，没卖这件事我后悔到现在。",
+     "ex2": "It is tempting to blame the software, but the process was flawed long before that. 把锅甩给软件很容易，但流程的问题远在那之前就存在了。"
+    },
+    {
+     "w": "vice versa",
+     "ipa": "/ˌvaɪs ˈvɜːsə/",
+     "pos": "拉丁语短语",
+     "en": "vice versa means that the reverse of what has just been said is also true",
+     "zh": "反之亦然",
+     "ctx": "文中指想袭击以色列乘客会打到伊朗乘客，想袭击伊朗乘客同样会打到以色列乘客，两个方向完全对称。",
+     "ex1": "Managers can move into engineering roles and vice versa, which keeps the ladder flexible. 管理岗可以转去做工程，反过来也行，这让晋升路径保持了弹性。",
+     "ex2": "What is cheap in one currency may be expensive in another, and vice versa. 用一种货币算便宜的东西，换一种货币可能就贵了，反过来也一样。"
+    },
+    {
+     "w": "human shield",
+     "ipa": "",
+     "pos": "复合名词",
+     "en": "human shield means a civilian placed, or finding themselves, near a potential target so that an attacker is deterred from striking it",
+     "zh": "人肉盾牌",
+     "ctx": "文中指在迪拜一号航站楼排队的普通旅客，在不知情的情况下客观上成了对方旅客的保护层。",
+     "ex1": "Aid groups accused both sides of using civilians as human shields during the siege. 救援组织指控围城期间双方都把平民当作了人肉盾牌。",
+     "ex2": "A row of parked trucks shielded the crowd from the wind. 一排停着的卡车替人群挡住了风。"
+    },
+    {
+     "w": "complimentary",
+     "ipa": "/ˌkɒmplɪˈmentri/",
+     "pos": "adj.",
+     "en": "complimentary (adj.) means given free of charge, especially as a courtesy by a hotel, airline, or shop",
+     "zh": "免费赠送的",
+     "ctx": "作者借用航司宣传话术：托运行李要加钱，而“排队时充当人肉盾牌”这项体验免费奉送，是全文最毒的一句反讽。",
+     "ex1": "All guests receive a complimentary breakfast and late checkout on weekends. 周末所有住客都享受免费早餐和延迟退房。",
+     "ex2": "The reviewer was unusually complimentary about an album she had panned a year earlier. 这位乐评人对一年前被她批得体无完肤的专辑，这次的评价罕见地溢美。"
+    }
+   ]
+  },
+  {
+   "en_html": "Mahan Air no longer flies into Dubai. U.S. <mark class=\"voc\">sanctions</mark> have <mark class=\"voc\">halted</mark> much of its operations, and Dubai had already <mark class=\"voc\">curtailed</mark> its flights, <mark class=\"voc\">on the grounds that</mark> Iran can fly either <mark class=\"voc\">missiles</mark> into Dubai or commercial flights, but not both. Israel, by contrast, has <mark class=\"voc\">emerged from</mark> the 2026 Iran war closer to the UAE, which has <mark class=\"voc\">absorbed</mark> more Iranian attacks than any other country.",
+   "zh": "马汉航空如今已不再飞迪拜。美国的制裁让它大半业务停摆，而迪拜此前就已经压缩了它的航班——理由很干脆：伊朗要么往迪拜扔导弹，要么往迪拜飞客机，二者只能择一。相比之下，以色列从2026年那场伊朗战争里走出来的时候，反倒离阿联酋更近了——而阿联酋，是那场战争里承受伊朗打击最多的国家，没有之一。",
+   "notes": [
+    {
+     "w": "sanction",
+     "ipa": "/ˈsæŋkʃn/",
+     "pos": "n.（复数 sanctions）/ v.",
+     "en": "sanctions (n., pl.) means official measures taken by one or more states to restrict trade or contact with another country as a penalty; as a verb, sanction can also mean to give official approval",
+     "zh": "制裁（动词另有“批准”义）",
+     "ctx": "文中指美国财政部对伊朗航空业的制裁：2011 年 10 月马汉航空首次被列名，2026 年 9 月 8 日美方一次性制裁了伊朗剩余的 27 家航空公司。",
+     "ex1": "Washington lifted sanctions on the shipping sector but kept them in place for banking. 华盛顿解除了对航运业的制裁，但对银行业的制裁仍然保留。",
+     "ex2": "Secondary sanctions mean that any foreign supplier doing business with the firm is also exposed. 次级制裁意味着，任何与这家公司做生意的外国供应商同样会受牵连。"
+    },
+    {
+     "w": "halt",
+     "ipa": "/hɔːlt/",
+     "pos": "v.",
+     "en": "halt (v.) means to stop an activity or process completely, often suddenly",
+     "zh": "彻底中止、使停摆",
+     "ctx": "文中指美国制裁让马汉航空的大部分运营停了下来；2026 年 9 月 24 日阿联酋民航总局更是暂停了所有伊朗航司的进出港航班。",
+     "ex1": "The factory halted production for six days while inspectors examined the line. 检查人员查验生产线期间，工厂停产了六天。",
+     "ex2": "Negotiations came to a grinding halt the moment the new tariffs were announced. 新关税一宣布，谈判立刻彻底陷入停顿。"
+    },
+    {
+     "w": "curtail",
+     "ipa": "/kɜːˈteɪl/",
+     "pos": "v.",
+     "en": "curtail (v.) means to reduce or restrict something, cutting it shorter than it would otherwise be",
+     "zh": "削减、压缩",
+     "ctx": "文中指在美国制裁生效之前，迪拜方面就已经主动压缩了马汉航空的航班数量。",
+     "ex1": "The council curtailed spending on new projects while it waited for the audit. 在等待审计结果期间，议会压缩了新项目的开支。",
+     "ex2": "Press freedoms were severely curtailed in the months following the emergency decree. 紧急法令颁布之后的几个月里，新闻自由受到了严重限制。"
+    },
+    {
+     "w": "on the grounds that",
+     "ipa": "",
+     "pos": "固定结构",
+     "en": "on the grounds that means for the stated reason or justification that",
+     "zh": "理由是……",
+     "ctx": "文中指迪拜压缩伊朗航班的官方理由——伊朗要么往迪拜发导弹，要么往迪拜飞客机，不能两样都来。",
+     "ex1": "The application was rejected on the grounds that the paperwork was incomplete. 申请被驳回，理由是材料不齐全。",
+     "ex2": "She resigned on the grounds of ill health, though colleagues suspected other reasons. 她以健康欠佳为由辞职，不过同事们怀疑另有隐情。"
+    },
+    {
+     "w": "missile",
+     "ipa": "/ˈmɪsaɪl/ (英) /ˈmɪsl/ (美)",
+     "pos": "n.",
+     "en": "missile (n.) means a self-propelled weapon that is launched through the air at a target and explodes on impact",
+     "zh": "导弹",
+     "ctx": "文中指 2026 年伊朗战争中伊朗向阿联酋发射的弹道导弹与巡航导弹，据阿联酋国防部数据合计约 550 枚。",
+     "ex1": "Two cruise missiles were intercepted over open water before reaching the coastline. 两枚巡航导弹在抵达海岸线之前就在公海上空被拦截。",
+     "ex2": "The country is upgrading its missile defense system with foreign-supplied radar. 该国正用外购雷达升级自己的导弹防御系统。"
+    },
+    {
+     "w": "emerge from",
+     "ipa": "",
+     "pos": "短语动词",
+     "en": "emerge from something means to come out of a difficult period or situation, often in a described state",
+     "zh": "从……中走出来（并呈现某种状态）",
+     "ctx": "文中指以色列走出 2026 年伊朗战争时，与阿联酋的关系反而更紧密了。",
+     "ex1": "The airline emerged from bankruptcy protection with half as many routes. 这家航司走出破产保护时，航线只剩下原来的一半。",
+     "ex2": "It later emerged that two of the three suppliers had never been audited. 后来才知道，三家供应商里有两家从没被审计过。"
+    },
+    {
+     "w": "absorb",
+     "ipa": "/əbˈzɔːb/",
+     "pos": "v.",
+     "en": "absorb (v.) means to take in and withstand the force, cost, or impact of something",
+     "zh": "承受、消化（打击或成本）",
+     "ctx": "文中指阿联酋在那场战争里承受的伊朗攻击比任何国家都多——截至 4 月 9 日拦截摧毁了 537 枚弹道导弹、2,256 次无人机攻击、26 枚巡航导弹。",
+     "ex1": "Suppliers were told to absorb the tariff rather than pass it on to customers. 供应商被要求自行消化关税，而不是转嫁给客户。",
+     "ex2": "The foam layer absorbs the impact that would otherwise reach the rider’s skull. 这层泡棉吸收了原本会直接传到骑手头骨上的冲击。"
+    }
+   ]
+  }
+ ]
+}

@@ -1,0 +1,335 @@
+{
+ "paragraphs": [
+  {
+   "en_html": "The evidence is not difficult to find or destroy. Behind the wall of green that marks the edge of the reserve, troops and environmental <mark class=\"voc\">prosecutors</mark> set <mark class=\"voc\">ablaze</mark> a network of well-supplied mining camps, built with <mark class=\"voc\">timber</mark> and blue <mark class=\"voc\">tarpaulins</mark> and stocked with food and beer. A lone <mark class=\"voc\">cockerel</mark> <mark class=\"voc\">crows</mark> as the abandoned camps go up in flames.",
+   "zh": "证据并不难找到，也不难销毁。在标记保护区边缘的那道绿色屏障之后，军人和环保检察官放火焚烧了一片补给充足的采矿营地。这些营地用木材和蓝色防水布搭建，囤积着食物和啤酒。当被遗弃的营地燃起熊熊大火时，一只孤零零的公鸡发出了啼鸣。",
+   "notes": [
+    {
+     "w": "prosecutor",
+     "ipa": "/ˈprɒsɪkjuːtə(r)/",
+     "pos": "n.",
+     "en": "a lawyer who represents the government in criminal cases",
+     "zh": "检察官，公诉人",
+     "ctx": "检察官（指随军行动、负责环境犯罪起诉的环保检察官）",
+     "ex1": "The prosecutor presented new evidence to the court. 检察官向法庭提交了新证据。",
+     "ex2": "The prosecutor decided to drop the charges due to lack of evidence. 由于证据不足，检察官决定撤销指控。"
+    },
+    {
+     "w": "ablaze",
+     "ipa": "/əˈbleɪz/",
+     "pos": "adj.",
+     "en": "burning strongly",
+     "zh": "燃烧的，着火的",
+     "ctx": "熊熊燃烧（指采矿营地在士兵点火后猛烈燃烧）",
+     "ex1": "The warehouse was ablaze before firefighters arrived. 消防员赶到时，仓库已燃起大火。",
+     "ex2": "Within minutes, the dry grassland was ablaze. 几分钟之内，干燥的草地就烧了起来。"
+    },
+    {
+     "w": "timber",
+     "ipa": "/ˈtɪmbə(r)/",
+     "pos": "n.",
+     "en": "wood used for building or construction",
+     "zh": "木材，木料",
+     "ctx": "木材（指搭建采矿营地所用的木料）",
+     "ex1": "The cabin was built from locally sourced timber. 小屋是用当地木材建造的。",
+     "ex2": "The old bridge was supported by massive timber beams. 这座老桥由巨大的木梁支撑。"
+    },
+    {
+     "w": "tarpaulin",
+     "ipa": "/tɑːˈpɔːlɪn/",
+     "pos": "n.",
+     "en": "a large sheet of heavy waterproof material used as a cover",
+     "zh": "防水布，油布",
+     "ctx": "防水布（指矿工用蓝色防水布搭盖营地）",
+     "ex1": "They covered the woodpile with a tarpaulin to keep it dry. 他们用防水布盖住木柴堆，以防受潮。",
+     "ex2": "The refugees slept under a makeshift tarpaulin shelter. 难民们睡在临时搭建的防水布棚下。"
+    },
+    {
+     "w": "cockerel",
+     "ipa": "/ˈkɒkərəl/",
+     "pos": "n.",
+     "en": "a young male chicken",
+     "zh": "小公鸡",
+     "ctx": "公鸡（一只被遗弃的公鸡在营地燃烧时啼叫，画面凄清）",
+     "ex1": "The cockerel crowed at dawn, waking the entire farm. 公鸡在黎明时啼叫，叫醒了整个农场。",
+     "ex2": "They kept a cockerel and several hens in the backyard. 他们在后院养了一只公鸡和几只母鸡。"
+    },
+    {
+     "w": "crow",
+     "ipa": "/krəʊ/",
+     "pos": "v.",
+     "en": "(of a rooster) to make a loud, high-pitched sound",
+     "zh": "（公鸡）啼叫",
+     "ctx": "啼鸣（那只没被带走的公鸡在燃烧的营地旁啼叫，与火光形成强烈对比）",
+     "ex1": "The rooster crows every morning at sunrise. 公鸡每天日出时啼叫。",
+     "ex2": "We were woken by a rooster crowing outside our window. 我们被窗外啼叫的公鸡吵醒了。"
+    }
+   ]
+  },
+  {
+   "en_html": "Two women had been left behind by the fleeing miners: Andrea, 30, <mark class=\"voc\">wept</mark> as she begged the officers not to arrest her, explaining she was a single mother who had been working as a cook and could find no other work to support a sick mother and two children. Liz Compi, 20, was found sitting on a boat with her one-year-old son. She said she had taken the job as a cook for $450 a month after being abandoned by her partner and <mark class=\"voc\">sacked</mark> from a previous job.",
+   "zh": "逃离的矿工留下了两名女性：30岁的安德烈娅泪流满面，恳求军官不要逮捕她，解释说自己是个单亲母亲，一直做厨娘，找不到其他工作来养活生病的母亲和两个孩子。20岁的莉兹·孔皮被发现在一艘船上，身旁坐着她一岁的儿子。她说，在被伴侣抛弃、又被上一份工作解雇后，她以每月450美元的报酬接受了这份厨娘的工作。",
+   "notes": [
+    {
+     "w": "weep",
+     "ipa": "/wiːp/",
+     "pos": "v.",
+     "en": "to cry tears, usually because of sadness or distress",
+     "zh": "哭泣，流泪",
+     "ctx": "哭泣（指安德烈娅哀求军官不要逮捕她时泪流满面）",
+     "ex1": "She wept with relief when she heard her son was safe. 听到儿子平安的消息，她如释重负地哭了。",
+     "ex2": "The mourners wept as the coffin was lowered into the ground. 灵柩下葬时，送葬者们失声痛哭。"
+    },
+    {
+     "w": "sack",
+     "ipa": "/sæk/",
+     "pos": "v.",
+     "en": "to dismiss someone from their job",
+     "zh": "解雇，开除",
+     "ctx": "被解雇（指莉兹在被伴侣抛弃后又被上一份工作辞退）",
+     "ex1": "He was sacked for repeatedly arriving late to work. 他因屡次上班迟到而被解雇。",
+     "ex2": "The manager was sacked after the company lost its biggest client. 公司失去最大客户后，经理被解雇了。"
+    }
+   ]
+  },
+  {
+   "en_html": "The dirty gold <mark class=\"voc\">departs</mark> Peru as <mark class=\"voc\">contraband</mark> to Bolivia and Brazil, but much of it is <mark class=\"voc\">laundered</mark> into the legal trade via a controversial registration system called Reinfo. The system, in theory, should bring informal miners into the legal economy, but critics say it allows them to continue working without environmental permits and laundering illegal gold through formal companies. The trade is so <mark class=\"voc\">lucrative</mark> that members of Congress have backed five repeated extensions of Reinfo, despite pushes to reform or eliminate the registry.",
+   "zh": "脏金以走私方式从秘鲁流向玻利维亚和巴西，但其中很大一部分通过一个有争议的登记制度——Reinfo——洗白进入合法贸易。该制度理论上应将非正规矿工纳入合法经济，但批评者指出，它允许矿工在没有环境许可的情况下继续作业，并通过正规公司将非法黄金洗白。这门生意利润太过丰厚，以至于尽管有改革或废除该登记制度的呼声，国会议员仍五次支持延长Reinfo。",
+   "notes": [
+    {
+     "w": "depart",
+     "ipa": "/dɪˈpɑːt/",
+     "pos": "v.",
+     "en": "to leave a place, especially to start a journey",
+     "zh": "离开，离去",
+     "ctx": "流出、离境（指脏金以走私方式从秘鲁流向玻利维亚和巴西）",
+     "ex1": "The train departs from platform three at 9 a.m. sharp. 列车于上午9点整从三号站台发车。",
+     "ex2": "She departed for Paris without saying goodbye to anyone. 她没有和任何人告别就动身去了巴黎。"
+    },
+    {
+     "w": "contraband",
+     "ipa": "/ˈkɒntrəbænd/",
+     "pos": "n.",
+     "en": "goods that are illegally imported or exported",
+     "zh": "走私品，违禁品",
+     "ctx": "走私品（指脏金作为走私货物从秘鲁运出）",
+     "ex1": "Customs officers seized contraband worth millions of dollars. 海关官员查获了价值数百万美元的走私品。",
+     "ex2": "The prisoners smuggled contraband into the jail hidden in food packages. 囚犯将违禁品藏在食品包装中偷运进监狱。"
+    },
+    {
+     "w": "launder",
+     "ipa": "/ˈlɔːndə(r)/",
+     "pos": "v.",
+     "en": "to move money obtained illegally through legal businesses to hide its origin",
+     "zh": "洗钱",
+     "ctx": "洗白（指非法黄金通过正规公司被洗白进入合法贸易）",
+     "ex1": "The gang used a chain of restaurants to launder their drug money. 该团伙利用连锁餐厅洗白贩毒所得。",
+     "ex2": "He was convicted of helping to launder millions of dollars through offshore accounts. 他因协助通过离岸账户洗白数百万美元而被定罪。"
+    },
+    {
+     "w": "lucrative",
+     "ipa": "/ˈluːkrətɪv/",
+     "pos": "adj.",
+     "en": "producing a great deal of profit",
+     "zh": "利润丰厚的，暴利的",
+     "ctx": "暴利的（指脏金贸易利润极其丰厚，以至于议员多次支持延长Reinfo制度）",
+     "ex1": "Consulting turned out to be a highly lucrative career for her. 事实证明，咨询业对她而言是一份收入极高的职业。",
+     "ex2": "The company signed a lucrative contract with a major retailer. 公司与一家大型零售商签订了一份利润丰厚的合同。"
+    }
+   ]
+  },
+  {
+   "en_html": "Since the beginning of Covid-19 pandemic, the price of gold has tripled. Tens of thousands of miners have <mark class=\"voc\">poured into</mark> protected Amazon parks and <mark class=\"voc\">Indigenous</mark> reserves, <mark class=\"voc\">stripping away</mark> vast tracts of rainforest and leaving behind a <mark class=\"voc\">denuded</mark>, <mark class=\"voc\">pocked</mark> terrain, stagnant pools and disrupted river courses. Mercury is the cheapest and easiest way to extract gold because it <mark class=\"voc\">binds with</mark> the particles in the river sediment. “The government’s response is moving very slowly,” said Flores after another day of relatively <mark class=\"voc\">fruitless</mark> jungle raids, destroying camps that are likely to <mark class=\"voc\">spring back</mark> up soon after. “Meanwhile, illegal mining operates 24 hours a day. The miners measure time in grams, not minutes, so we need to rethink how we investigate mining,” he said.",
+   "zh": "自新冠疫情暴发以来，金价已涨至原来的三倍。数以万计的矿工涌入亚马逊保护区和原住民保留地，大片雨林被剥除，留下的是一片光秃秃、坑坑洼洼的地表、死水潭和被改道的河流。汞是提取黄金最廉价、最简便的方法，因为它能与河底沉积物中的颗粒结合。“政府的反应非常缓慢，”弗洛雷斯在又一天收效甚微的丛林突袭后说道。他们捣毁的营地很可能不久后就会死灰复燃。“与此同时，非法采矿一天24小时不停运转。矿工用克来衡量时间，而不是用分钟，所以我们需要重新思考调查采矿的方式，”他说。",
+   "notes": [
+    {
+     "w": "pour into",
+     "ipa": "/pɔː(r) ˈɪntuː/",
+     "pos": "phr. v.",
+     "en": "to enter a place in large numbers or quantities",
+     "zh": "涌入",
+     "ctx": "涌入（指疫情以来数以万计的矿工涌入亚马逊保护区和原住民保留地）",
+     "ex1": "Thousands of fans poured into the stadium before the match. 比赛前，成千上万的球迷涌入体育场。",
+     "ex2": "Foreign investment poured into the country after the reforms. 改革后，外资涌入该国。"
+    },
+    {
+     "w": "indigenous",
+     "ipa": "/ɪnˈdɪdʒənəs/",
+     "pos": "adj.",
+     "en": "belonging naturally to a particular place; native",
+     "zh": "原住民的，本土的",
+     "ctx": "原住民的（指矿工侵入原住民保留地，破坏其家园）",
+     "ex1": "The museum is dedicated to preserving indigenous culture and traditions. 这座博物馆致力于保护原住民文化和传统。",
+     "ex2": "Indigenous communities have lived in these forests for thousands of years. 原住民社区在这些森林中生活了数千年。"
+    },
+    {
+     "w": "strip away",
+     "ipa": "/strɪp əˈweɪ/",
+     "pos": "phr. v.",
+     "en": "to remove something completely, especially a layer or covering",
+     "zh": "剥去，剥离",
+     "ctx": "剥除（指大片雨林被采矿活动彻底剥离破坏）",
+     "ex1": "The hurricane stripped away the roof tiles from dozens of houses. 飓风掀掉了数十栋房屋的屋顶瓦片。",
+     "ex2": "The new regulations strip away many of the protections previously enjoyed by workers. 新法规剥夺了工人此前享有的许多保障。"
+    },
+    {
+     "w": "denuded",
+     "ipa": "/dɪˈnjuːdɪd/",
+     "pos": "adj.",
+     "en": "stripped bare of covering; deprived of vegetation or resources",
+     "zh": "光秃秃的，被剥光的",
+     "ctx": "光秃秃的（指采矿后雨林被剥光，地表裸露）",
+     "ex1": "The hillsides were denuded of trees after years of logging. 经过多年的伐木，山坡上的树木已被砍伐殆尽。",
+     "ex2": "The land lay denuded and barren after the mining operation. 采矿作业后，土地变得光秃而贫瘠。"
+    },
+    {
+     "w": "pocked",
+     "ipa": "/pɒkt/",
+     "pos": "adj.",
+     "en": "marked with small holes or pits; covered with depressions",
+     "zh": "坑坑洼洼的，布满凹坑的",
+     "ctx": "坑坑洼洼的（指采矿后地表布满坑洞，满目疮痍）",
+     "ex1": "The surface of the moon is pocked with craters. 月球表面布满了陨石坑。",
+     "ex2": "The old road was pocked with potholes after the harsh winter. 严冬过后，这条老路坑坑洼洼，满是凹坑。"
+    },
+    {
+     "w": "bind with",
+     "ipa": "/baɪnd wɪð/",
+     "pos": "phr. v.",
+     "en": "to combine chemically with another substance",
+     "zh": "与……结合",
+     "ctx": "与……结合（指汞与河底沉积物中的金粒结合，从而提取黄金）",
+     "ex1": "The drug binds with specific receptors in the brain. 这种药物与大脑中的特定受体结合。",
+     "ex2": "Calcium binds with phosphate in the intestines, reducing its absorption. 钙在肠道中与磷酸盐结合，从而减少其吸收。"
+    },
+    {
+     "w": "fruitless",
+     "ipa": "/ˈfruːtləs/",
+     "pos": "adj.",
+     "en": "producing no useful results; unsuccessful",
+     "zh": "徒劳的，收效甚微的",
+     "ctx": "收效甚微的（指突袭行动成果有限，营地很快会死灰复燃）",
+     "ex1": "Their efforts to find the missing hiker proved fruitless. 他们寻找失踪徒步者的努力最终徒劳无功。",
+     "ex2": "After hours of fruitless negotiations, the talks were suspended. 经过数小时毫无成果的谈判后，会谈暂停了。"
+    },
+    {
+     "w": "spring back",
+     "ipa": "/sprɪŋ bæk/",
+     "pos": "phr. v.",
+     "en": "to return quickly to a previous position or state",
+     "zh": "弹回，迅速恢复",
+     "ctx": "死灰复燃（指被捣毁的采矿营地很快又会重新出现）",
+     "ex1": "The branch sprang back and hit him in the face. 树枝弹回来打在了他脸上。",
+     "ex2": "Small businesses tend to spring back quickly after a recession. 小企业往往在经济衰退后迅速恢复。"
+    }
+   ]
+  }
+ ],
+ "proper": [
+  {
+   "name": "Peruvian Navy Seal / 秘鲁海军海豹突击队",
+   "def": "秘鲁武装力量中的精锐特种作战单位，隶属秘鲁海军，训练参照美国海军海豹突击队模式，承担反恐、缉毒、打击有组织犯罪及保护国家战略资源等任务。亚马孙地区河网密布，海军的机动部署能力强于陆军，因而被派去打击非法采矿。<br>本文中的意思：第 1 段开头喝令“站住”、朝空中鸣枪示警的就是这类受过丛林作战训练的精锐，他们正在矿坑边追捕逃跑的矿工。"
+  },
+  {
+   "name": "Tambopata National Reserve / 坦博帕塔国家保护区",
+   "def": "位于秘鲁东南部马德雷德迪奥斯大区，面积约 27.4 万公顷，2000 年设立，记录有 600 多种鸟类、1200 种蝴蝶和大量濒危哺乳动物，是全球生物多样性最高的地区之一。保护区北界为马林诺夫斯基河，沿岸是生态旅游高端营地集中的区域。<br>本文中的意思：爆炸声打破的正是这片“秘鲁最珍贵的亚马孙公园之一”的宁静——非法采矿已经推进到保护区边缘。"
+  },
+  {
+   "name": "Diesel-fuelled suction pump / 柴油动力抽吸泵",
+   "def": "非法采金的核心设备：柴油发动机接上粗大塑料软管，从河床或矿坑里抽取含金沉积物，一台泵全天候运转，一天能处理大量泥沙。它也是打击行动的首要目标，摧毁发动机被军方视为切断矿工经济命脉的有效手段。<br>本文中的意思：第 2 段木筏上那台“燃柴油的抽吸泵”，正是海军陆战队要炸掉的东西。"
+  },
+  {
+   "name": "Mercury amalgamation / 汞齐化法",
+   "def": "从沉积物中提金最廉价、最简便的办法：汞与金粒结合成汞齐，再加热把汞蒸发掉，留下黄金。成本极低，是手工和小规模采金者的首选，但汞会污染水道、毒害野生动物，并沿食物链在人体内累积。<br>本文中的意思：第 9 段那句“汞是提取黄金最廉价、最简便的方法，因为它能与河底沉积物中的颗粒结合”，说的就是这套工艺。"
+  },
+  {
+   "name": "Madre de Dios / 马德雷德迪奥斯",
+   "def": "秘鲁东南部大区，位于亚马孙雨林腹地，面积约 8.5 万平方公里，93% 被热带森林覆盖，被称为“生物多样性之都”，也是秘鲁非法采金活动的绝对中心。<br>本文中的意思：全文的地理坐标——这里的采矿毁林超过 14 万公顷，占秘鲁亚马孙采矿毁林总量的 97.5%。"
+  },
+  {
+   "name": "97.5% deforestation ratio / 97.5% 毁林占比",
+   "def": "指马德雷德迪奥斯的采矿毁林面积占秘鲁亚马孙雨林采矿毁林总量的比例。原文称这个数字“触目惊心”，意味着秘鲁亚马孙因采矿损失的森林几乎全部集中在一个大区。<br>本文中的意思：用来说明非法采金不是零星事件，而是一场高度集中的生态灾难。"
+  },
+  {
+   "name": "Global gold price surge / 国际金价飙升",
+   "def": "原文提到，自新冠疫情暴发以来金价已涨至原来的三倍。金价越高，非法采金的利润越能覆盖被摧毁设备的成本，扩张就越快。<br>本文中的意思：科特里纳将军的解释——马达被炸，矿工第二天就换新的，因为“金价正处于巅峰”。"
+  },
+  {
+   "name": "Transnational organized crime / 跨国有组织犯罪",
+   "def": "指跨国运作的有组织犯罪集团。与毒品不同，黄金是可以合法交易的商品，非法来源更容易借正规贸易渠道洗白，因此对跨国犯罪集团格外有吸引力。<br>本文中的意思：金价飙升“壮大了当地黑帮的势力，也吸引了跨国有组织犯罪集团”。"
+  },
+  {
+   "name": "Dirty gold / “脏金”",
+   "def": "指通过非法手段开采、未经合法环境许可和纳税程序就进入市场的黄金。<br>本文中的意思：原文称“脏金”已成为秘鲁最暴利的非法产业，甚至超过了毒品走私。"
+  },
+  {
+   "name": "Peru as world's second-biggest cocaine producer / 秘鲁作为全球第二大可卡因生产国",
+   "def": "原文明确提到秘鲁是“全球第二大可卡因生产国，仅次于哥伦比亚”。<br>本文中的意思：这层背景让“黄金超过可卡因”更有分量——在一个以可卡因为非法经济支柱的国家，黄金竟取代了它。"
+  },
+  {
+   "name": "Coca plantation / 古柯种植园",
+   "def": "古柯是制造可卡因的原料植物，多种在隐蔽的丛林地块。打击古柯园需要情报渗透和秘密侦察。<br>本文中的意思：部队习惯了对付“隐蔽的古柯种植园”，而非法采金是完全不同性质的目标。"
+  },
+  {
+   "name": "Open-pit mining vs. covert drug trafficking / 露天采矿与隐蔽贩毒",
+   "def": "科特里纳点出的核心差别：贩毒必须依赖秘密物流和隐蔽行动，露天采金却可以公开作业，传统缉毒执法模式因此很难照搬。<br>本文中的意思：原文用一句话概括——“露天采矿不需要秘密行动，而贩毒则需要”。"
+  },
+  {
+   "name": "Environmental prosecutor / 环保检察官",
+   "def": "秘鲁公共部下设的专门检察官，负责调查和起诉非法伐木、非法采矿、野生动物贩运等环境犯罪。<br>本文中的意思：他们随军行动，参与烧毁采矿营地；文中出现的副检察官罗纳德·弗洛雷斯就是这类专业人员。"
+  },
+  {
+   "name": "Mining camp infrastructure / 采矿营地设施",
+   "def": "原文写非法采金营地“补给充足”，用“木材和蓝色防水布搭建”，里头“囤积着食物和啤酒”。<br>本文中的意思：营地的完备程度说明非法采金高度组织化、长期化——矿工不是打一枪就走，而是建起能撑数月甚至数年的据点。"
+  },
+  {
+   "name": "Informal mining labor / 非正规采矿劳动力",
+   "def": "非法采金吸纳大量边缘劳动力：单身母亲、被解雇的工人。文中两名女性——30 岁的安德烈娅和 20 岁的莉兹·孔皮——都在营地当厨娘，月薪约 450 美元。<br>本文中的意思：她们是采矿经济链条最底层、最脆弱的一环，也是执法现场最难处理的人。"
+  },
+  {
+   "name": "Reinfo / 矿业正规化综合登记制度",
+   "def": "全称“Registro Integral de Formalización Minera”。原文称它是“一个有争议的登记制度”：理论上应把非正规矿工纳入合法经济，批评者却说它让矿工在没有环境许可的情况下照旧作业，还能通过正规公司洗白非法黄金。该制度已被五次延长。<br>本文中的意思：脏金从走私品变成“合法”黄金的关键通道。"
+  },
+  {
+   "name": "Gold laundering mechanism / 黄金洗白机制",
+   "def": "逻辑很简单：矿工借正规公司出口黄金，来源就被掩盖了。<br>本文中的意思：原文说脏金“通过一个有争议的登记制度——Reinfo——洗白进入合法贸易”，由此进入全球市场。"
+  },
+  {
+   "name": "Indigenous reserves / 原住民保留地",
+   "def": "秘鲁亚马孙地区受法律保护的土著社区土地。<br>本文中的意思：疫情以来数以万计的矿工涌入“保护区与原住民保留地”，大片雨林被剥除。"
+  },
+  {
+   "name": "Mercury contamination and bioaccumulation / 汞污染与生物累积",
+   "def": "汞在环境中不会降解，排入水体后被细菌转化为甲基汞，沿食物链逐级富集，最终进入吃鱼的人体。原文没有展开后果，只点了一句提金用汞。<br>本文中的意思：这句轻描淡写背后，是非法采金最难逆转的环境代价。"
+  },
+  {
+   "name": "Denuded and pocked landscape / 裸露与坑洼地貌",
+   "def": "雨林被剥离后留下裸露土地，地表布满矿坑和积水潭，河道被改道。这样的地貌既丧失原有生态功能，又造出蚊虫滋生的死水潭。<br>本文中的意思：原文用“光秃秃、坑坑洼洼的地表、死水潭和被改道的河流”一句写完了这场破坏。"
+  },
+  {
+   "name": "Fruitless raids and rapid recovery / 徒劳的突袭与迅速恢复",
+   "def": "原文结尾，弗洛雷斯在又一天“收效甚微的丛林突袭”后说，政府反应很慢，而非法采矿 24 小时不停；被捣毁的营地“很可能不久后就会死灰复燃”。<br>本文中的意思：这就是打击非法采金的核心困境——执法零散而缓慢，采矿全天候运转。"
+  }
+ ],
+ "sources_note": "资料核对：以上背景依据文章内容，并参考《卫报》关于秘鲁非法采金的系列报道、秘鲁海军与 SERNANP 公开资料、Reinfo 制度相关公开信息及 Global Witness 截至 2026 年 10 月的公开数据。",
+ "practice": {
+  "intro": "请根据今天学习的外刊，把下面的中文句子翻译成英文。要求：尽量用上本文的核心表达，可以适当改变词形，但不要直接照抄原文。",
+  "items": [
+   "这家科技公司的年收入超过了所有竞争对手，成为行业第一。",
+   "孩子们手脚并用地爬上那棵大树，想摘到最高的果子。",
+   "地震后，灾民们用木板和塑料布搭了一个临时住所。",
+   "政府承诺加大对网络诈骗的打击力度，保护老百姓的钱袋子。",
+   "近年来，这座城市的房价飞涨，年轻人越来越买不起房。",
+   "尽管医生们努力抢救了整整一夜，但最终还是徒劳无功。"
+  ],
+  "critical_en": "If illegal mining poisons rivers and clears rainforest but feeds families with no other income, who should bear the cost of stopping it?",
+  "critical_zh": "如果非法采金毒害河流、毁掉雨林，却养活着一群别无生计的家庭，那么叫停它的代价该由谁来承担？",
+  "answer": "1. The tech company’s annual revenue surpassed all its competitors, making it the industry leader.<br><br>2. The children scrambled up the big tree, hoping to pick the fruit at the very top.<br><br>3. After the earthquake, the victims built a makeshift shelter out of wooden boards and plastic sheets.<br><br>4. The government pledged to intensify its crackdown on online fraud to protect people’s savings.<br><br>5. In recent years, housing prices in this city have skyrocketed, making it increasingly hard for young people to afford a home.<br><br>6. Although the doctors fought to save him all night, their efforts ultimately proved fruitless."
+ },
+ "mindmap": {
+  "aria": "秘鲁非法采金文章思维导图",
+  "alt": "黄金取代可卡因成为秘鲁最暴利犯罪产业（手绘版）",
+  "svg": "<svg viewBox=\"0 0 960 720\" xmlns=\"http://www.w3.org/2000/svg\" role=\"img\" aria-label=\"秘鲁非法采金文章思维导图\" style=\"width:100%;height:auto;font-family:-apple-system,'PingFang SC','Hiragino Sans GB','Microsoft YaHei',sans-serif\">\n        <rect x=\"24\" y=\"306\" width=\"176\" height=\"88\" rx=\"14\" fill=\"#eae3d2\" stroke=\"#9a8f76\"/>\n        <text x=\"112\" y=\"342\" text-anchor=\"middle\" fill=\"#3d3a34\" font-size=\"17\" font-weight=\"700\">亚马孙非法采金</text>\n        <text x=\"112\" y=\"368\" text-anchor=\"middle\" fill=\"#5c5648\" font-size=\"12.5\">黄金如何取代可卡因</text>\n\n        <path d=\"M200,350 C232,350 232,88 260,88\"  stroke=\"#6b8f71\" stroke-width=\"2\" fill=\"none\"/>\n        <path d=\"M200,350 C232,350 232,238 260,238\" stroke=\"#7d98ad\" stroke-width=\"2\" fill=\"none\"/>\n        <path d=\"M200,350 C232,350 232,433 260,433\" stroke=\"#bd7a6d\" stroke-width=\"2\" fill=\"none\"/>\n        <path d=\"M200,350 C232,350 232,628 260,628\" stroke=\"#9b86b3\" stroke-width=\"2\" fill=\"none\"/>\n\n        <g class=\"mm-branch\" data-target=\"bc1\">\n          <rect x=\"260\" y=\"71\" width=\"190\" height=\"34\" rx=\"8\" fill=\"#e6efe7\" stroke=\"#6b8f71\"/>\n          <text x=\"349\" y=\"93\" text-anchor=\"middle\" fill=\"#4c6b52\" font-size=\"15\" font-weight=\"700\">突袭矿坑现场（¶1–2）</text>\n          <text class=\"mm-arrow\" data-for=\"bc1\" x=\"442\" y=\"93\" text-anchor=\"end\" fill=\"#4c6b52\">▾</text>\n        </g>\n        <g class=\"mm-children\" id=\"bc1\">\n          <path d=\"M450,88 C462,88 462,46 480,46\" stroke=\"#6b8f71\" stroke-width=\"1.5\" fill=\"none\"/>\n          <path d=\"M450,88 C462,88 462,88 480,88\" stroke=\"#6b8f71\" stroke-width=\"1.5\" fill=\"none\"/>\n          <path d=\"M450,88 C462,88 462,130 480,130\" stroke=\"#6b8f71\" stroke-width=\"1.5\" fill=\"none\"/>\n          <rect x=\"480\" y=\"30\" width=\"456\" height=\"32\" rx=\"8\" fill=\"#e6efe7\"/><text x=\"492\" y=\"51\" fill=\"#3d3a34\" font-size=\"14\">海军陆战队鸣枪追人，随后在木筏上安放炸药</text>\n          <rect x=\"480\" y=\"72\" width=\"456\" height=\"32\" rx=\"8\" fill=\"#e6efe7\"/><text x=\"492\" y=\"93\" fill=\"#3d3a34\" font-size=\"14\">足球场大的矿坑＝一潭浑浊死水，漂着抽吸泵木筏</text>\n          <rect x=\"480\" y=\"114\" width=\"456\" height=\"32\" rx=\"8\" fill=\"#e6efe7\"/><text x=\"492\" y=\"135\" fill=\"#3d3a34\" font-size=\"14\">爆炸升起橙黑蘑菇云，坦博帕塔保护区不再安静</text>\n        </g>\n\n        <g class=\"mm-branch\" data-target=\"bc2\">\n          <rect x=\"260\" y=\"221\" width=\"190\" height=\"34\" rx=\"8\" fill=\"#e5edf4\" stroke=\"#7d98ad\"/>\n          <text x=\"349\" y=\"243\" text-anchor=\"middle\" fill=\"#3d5872\" font-size=\"15\" font-weight=\"700\">金价胜过可卡因（¶3–4）</text>\n          <text class=\"mm-arrow\" data-for=\"bc2\" x=\"442\" y=\"243\" text-anchor=\"end\" fill=\"#3d5872\">▾</text>\n        </g>\n        <g class=\"mm-children\" id=\"bc2\">\n          <path d=\"M450,238 C462,238 462,196 480,196\" stroke=\"#7d98ad\" stroke-width=\"1.5\" fill=\"none\"/>\n          <path d=\"M450,238 C462,238 462,238 480,238\" stroke=\"#7d98ad\" stroke-width=\"1.5\" fill=\"none\"/>\n          <path d=\"M450,238 C462,238 462,280 480,280\" stroke=\"#7d98ad\" stroke-width=\"1.5\" fill=\"none\"/>\n          <rect x=\"480\" y=\"180\" width=\"456\" height=\"32\" rx=\"8\" fill=\"#e5edf4\"/><text x=\"492\" y=\"201\" fill=\"#3d3a34\" font-size=\"14\">马德雷德迪奥斯：14 万公顷林地没了，占全国 97.5%</text>\n          <rect x=\"480\" y=\"222\" width=\"456\" height=\"32\" rx=\"8\" fill=\"#e5edf4\"/><text x=\"492\" y=\"243\" fill=\"#3d3a34\" font-size=\"14\">金价翻三倍，“脏金”利润反超毒品贩运</text>\n          <rect x=\"480\" y=\"264\" width=\"456\" height=\"32\" rx=\"8\" fill=\"#e5edf4\"/><text x=\"492\" y=\"285\" fill=\"#3d3a34\" font-size=\"14\">将军原话：马达炸了第二天就换，金价在顶峰</text>\n        </g>\n\n        <g class=\"mm-branch\" data-target=\"bc3\">\n          <rect x=\"260\" y=\"416\" width=\"190\" height=\"34\" rx=\"8\" fill=\"#f4e7e4\" stroke=\"#bd7a6d\"/>\n          <text x=\"349\" y=\"438\" text-anchor=\"middle\" fill=\"#7c4a3e\" font-size=\"15\" font-weight=\"700\">为什么这么难打（¶5–7）</text>\n          <text class=\"mm-arrow\" data-for=\"bc3\" x=\"442\" y=\"438\" text-anchor=\"end\" fill=\"#7c4a3e\">▾</text>\n        </g>\n        <g class=\"mm-children\" id=\"bc3\">\n          <path d=\"M450,433 C462,433 462,391 480,391\" stroke=\"#bd7a6d\" stroke-width=\"1.5\" fill=\"none\"/>\n          <path d=\"M450,433 C462,433 462,433 480,433\" stroke=\"#bd7a6d\" stroke-width=\"1.5\" fill=\"none\"/>\n          <path d=\"M450,433 C462,433 462,475 480,475\" stroke=\"#bd7a6d\" stroke-width=\"1.5\" fill=\"none\"/>\n          <rect x=\"480\" y=\"375\" width=\"456\" height=\"32\" rx=\"8\" fill=\"#f4e7e4\"/><text x=\"492\" y=\"396\" fill=\"#3d3a34\" font-size=\"14\">露天作业无需隐蔽，缉毒那套打法用不上了</text>\n          <rect x=\"480\" y=\"417\" width=\"456\" height=\"32\" rx=\"8\" fill=\"#f4e7e4\"/><text x=\"492\" y=\"438\" fill=\"#3d3a34\" font-size=\"14\">空中侦察＋全天候巡逻，仍被腐败和零散执法拖住</text>\n          <rect x=\"480\" y=\"459\" width=\"456\" height=\"32\" rx=\"8\" fill=\"#f4e7e4\"/><text x=\"492\" y=\"480\" fill=\"#3d3a34\" font-size=\"14\">营地烧尽，留下一只公鸡和两个当厨娘的单亲母亲</text>\n        </g>\n\n        <g class=\"mm-branch\" data-target=\"bc4\">\n          <rect x=\"260\" y=\"611\" width=\"190\" height=\"34\" rx=\"8\" fill=\"#ece4f2\" stroke=\"#9b86b3\"/>\n          <text x=\"349\" y=\"633\" text-anchor=\"middle\" fill=\"#5a4670\" font-size=\"15\" font-weight=\"700\">洗白与死循环（¶8–9）</text>\n          <text class=\"mm-arrow\" data-for=\"bc4\" x=\"442\" y=\"633\" text-anchor=\"end\" fill=\"#5a4670\">▾</text>\n        </g>\n        <g class=\"mm-children\" id=\"bc4\">\n          <path d=\"M450,628 C462,628 462,586 480,586\" stroke=\"#9b86b3\" stroke-width=\"1.5\" fill=\"none\"/>\n          <path d=\"M450,628 C462,628 462,628 480,628\" stroke=\"#9b86b3\" stroke-width=\"1.5\" fill=\"none\"/>\n          <path d=\"M450,628 C462,628 462,670 480,670\" stroke=\"#9b86b3\" stroke-width=\"1.5\" fill=\"none\"/>\n          <rect x=\"480\" y=\"570\" width=\"456\" height=\"32\" rx=\"8\" fill=\"#ece4f2\"/><text x=\"492\" y=\"591\" fill=\"#3d3a34\" font-size=\"14\">Reinfo 名义上扶正小矿工，实际给洗白开了口子</text>\n          <rect x=\"480\" y=\"612\" width=\"456\" height=\"32\" rx=\"8\" fill=\"#ece4f2\"/><text x=\"492\" y=\"633\" fill=\"#3d3a34\" font-size=\"14\">国会五次延长登记制度，因为这门生意太暴利</text>\n          <rect x=\"480\" y=\"654\" width=\"456\" height=\"32\" rx=\"8\" fill=\"#ece4f2\"/><text x=\"492\" y=\"675\" fill=\"#3d3a34\" font-size=\"14\">矿工用克算时间，执法却慢半拍：营地烧完就重建</text>\n        </g>\n      </svg>",
+  "img": ""
+ }
+}

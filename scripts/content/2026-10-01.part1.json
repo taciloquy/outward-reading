@@ -1,0 +1,427 @@
+{
+ "date": "2026-10-01",
+ "title_tag": "第14次发射，星舰终于进入地球轨道：马斯克离月球和火星还有多远？—— 美国《时代周刊》外刊讲解第1184天",
+ "h1": "第14次发射，星舰终于进入地球轨道：马斯克离月球和火星还有多远？",
+ "source_label": "Time",
+ "category": "美国《时代周刊》外刊讲解 第1184天",
+ "read_minutes": 18,
+ "nav_hint": "A SpaceX Starship Rocket Officially Reached Orbit",
+ "headline": {
+  "en_html": "<span>A SpaceX Starship Rocket <mark class=\"voc\">Officially</mark> Reached <mark class=\"voc\">Orbit</mark>.</span> — <span>Why That’s So Significant</span>",
+  "zh": "SpaceX 星舰正式入轨。这一步，为什么举足轻重。",
+  "notes": [
+   {
+    "w": "officially",
+    "ipa": "/əˈfɪʃəli/",
+    "pos": "adv.",
+    "en": "officially means in a formal or authoritative way, so that something is publicly recognized as true",
+    "zh": "正式地，官方地",
+    "ctx": "标题用 officially 一锤定音：前 13 次发射一直有“算不算进了太空”的争议，只有这一次才算正式入轨。",
+    "ex1": "The merger was officially completed on Friday, ending eight months of negotiation. 这桩并购于周五正式完成，八个月的谈判就此结束。",
+    "ex2": "He has been running the department for a year, though he was only officially appointed last week. 他实际主管这个部门已经一年了，不过上周才正式获得任命。"
+   },
+   {
+    "w": "orbit",
+    "ipa": "/ˈɔːrbɪt/",
+    "pos": "n. & v.",
+    "en": "orbit (n.) means the curved path of an object around a star, planet, or moon",
+    "zh": "轨道；绕轨飞行",
+    "ctx": "本义是绕行的那条曲线，本文专指“绕着地球飞、却不再掉下来”的稳定路径：时速约 17,500 英里、高 170 英里的圆形轨道。",
+    "ex1": "The satellite reached orbit eleven minutes after liftoff, right on schedule. 这颗卫星在升空十一分钟后准时入轨。",
+    "ex2": "Two of the company’s probes are still in orbit, quietly relaying weather data. 这家公司有两个探测器仍在轨运行，安静地回传气象数据。"
+   }
+  ]
+ },
+ "paragraphs": [
+  {
+   "en_html": "For three and a half years, ever since the spring of 2023, when SpaceX launched the first of its <mark class=\"voc\">massive</mark> Starship rockets, the company has been promising that <mark class=\"voc\">before too long</mark> the <mark class=\"voc\">towering</mark>, <mark class=\"voc\">stainless steel</mark> machine would get to orbit. This morning, on the 14th such launch, it <mark class=\"voc\">made good on</mark> that <mark class=\"voc\">boast</mark>.",
+   "zh": "三年半了。自2023年春天SpaceX送走第一枚巨型星舰起，这家公司就一直在放话：用不了多久，这个高耸的不锈钢大家伙就能飞上轨道。今天上午，第十四次发射，这句大话，终于兑现了。",
+   "notes": [
+    {
+     "w": "massive",
+     "ipa": "/ˈmæsɪv/",
+     "pos": "adj.",
+     "en": "massive means extremely large, heavy, and solid",
+     "zh": "巨大的，笨重的",
+     "ctx": "词根 mass 是“质量”，指又大又沉、块头惊人：2023 年首飞的那批星舰，箭体高达四百多英尺。",
+     "ex1": "The carrier announced massive layoffs just weeks after posting record profits. 这家航空公司在公布创纪录利润几周后就宣布了大规模裁员。",
+     "ex2": "Rebuilding the grid will require investment on a massive scale. 重建电网需要规模巨大的投资。"
+    },
+    {
+     "w": "before too long",
+     "ipa": "/bɪˌfɔːr tuː ˈlɔːŋ/",
+     "pos": "固定短语",
+     "en": "before too long means soon, after only a short period of time",
+     "zh": "要不了多久，很快就",
+     "ctx": "本义“在还没过太久之前”，正是 SpaceX 三年半来反复放出的那句话：用不了多久星舰就能入轨。",
+     "ex1": "Before too long, these chips will be sitting in every mid-range phone. 要不了多久，这些芯片就会出现在每一部中端手机里。",
+     "ex2": "She promised the backlog would clear before too long, and it did. 她保证积压的订单很快就能清完，后来也确实清完了。"
+    },
+    {
+     "w": "towering",
+     "ipa": "/ˈtaʊərɪŋ/",
+     "pos": "adj.",
+     "en": "towering means extremely tall, rising high above the surroundings",
+     "zh": "高耸的，巍然矗立的",
+     "ctx": "像塔一样立在发射台上、高得让人仰头，星舰整体高度超过 120 米。",
+     "ex1": "She remains a towering figure in twentieth-century economics. 她至今仍是二十世纪经济学界的泰斗级人物。",
+     "ex2": "The new headquarters is a towering glass structure visible from across the bay. 新总部是一栋高耸的玻璃建筑，隔着海湾都能看见。"
+    },
+    {
+     "w": "stainless steel",
+     "ipa": "/ˌsteɪnləs ˈstiːl/",
+     "pos": "名词短语",
+     "en": "stainless steel means a steel alloy that resists rust and staining",
+     "zh": "不锈钢",
+     "ctx": "stain 锈迹加 -less 没有：SpaceX 2018 年底弃用碳纤维改用它，每公斤约 3 美元，航天级碳纤维却要一百三十多美元。",
+     "ex1": "The tanks are made of stainless steel, chosen for cost rather than for looks. 这些储罐由不锈钢制成，选它是出于成本而非外观。",
+     "ex2": "Engineers argued the stainless steel hull would survive re-entry heat better than composites. 工程师认为，不锈钢箭体在再入高温下会比复合材料更扛得住。"
+    },
+    {
+     "w": "make good on",
+     "ipa": "/meɪk ɡʊd ɑːn/",
+     "pos": "固定短语",
+     "en": "make good on something means to do what you previously promised or threatened to do",
+     "zh": "兑现（承诺、威胁）",
+     "ctx": "本义“把说出去的话补齐”，本文指 SpaceX 承诺了三年半的那句“星舰能入轨”，在第 14 次发射时终于做到。",
+     "ex1": "Washington finally made good on its pledge to release the frozen funds. 华盛顿方面终于兑现了解冻这笔资金的承诺。",
+     "ex2": "If the union makes good on its threat, the plant will shut down by Monday. 如果工会把威胁付诸行动，这家工厂周一就得停工。"
+    },
+    {
+     "w": "boast",
+     "ipa": "/boʊst/",
+     "pos": "n. & v.",
+     "en": "boast (n.) means a statement in which you talk with excessive pride about what you have or can do",
+     "zh": "大话，吹嘘",
+     "ctx": "作者不用 promise 而用 boast，暗示 SpaceX 当年那句“很快入轨”更像吹牛，而不是承诺。",
+     "ex1": "It was no idle boast: the factory really did double output in a year. 这不是空口白话，这家工厂确实在一年内把产量翻了一番。",
+     "ex2": "The resort boasts three private beaches and its own desalination plant. 这家度假村拥有三片私人海滩和自己的海水淡化厂。"
+    }
+   ]
+  },
+  {
+   "en_html": "“Starship performs its <mark class=\"voc\">orbital insertion</mark> <mark class=\"voc\">burn</mark> and enters orbit of Earth for the first time,” SpaceX announced on X at 9:15 a.m. ET, along with a video of that engine <mark class=\"voc\">maneuver</mark>. It took just 25 minutes and 17 seconds for the spacecraft to travel from its <mark class=\"voc\">launch pad</mark> in Starbase, Texas, to its <mark class=\"voc\">circular</mark> orbit 170 miles high.",
+   "zh": "“星舰完成入轨点火，首次进入地球轨道。”美东时间上午9点15分，SpaceX在X上这样宣布，同时放出了那段发动机点火的视频。从德州星舰基地的发射台，到170英里高的圆形轨道，这艘飞船只用了25分17秒。",
+   "notes": [
+    {
+     "w": "orbital insertion",
+     "ipa": "/ˈɔːrbɪtl ɪnˈsɜːrʃn/",
+     "pos": "名词短语",
+     "en": "orbital insertion means the maneuver by which a spacecraft enters a stable orbit",
+     "zh": "入轨，轨道插入",
+     "ctx": "insert 是“插入”，指通过一次精确点火，把飞行器从弹道飞行改成一圈圈环绕飞行，也就是发射后 25 分 17 秒完成的那次动作。",
+     "ex1": "The orbital insertion lasted just under four minutes and went exactly as modeled. 入轨点火持续了不到四分钟，过程与模型完全吻合。",
+     "ex2": "A botched insertion would have left the probe on a path out of the solar system. 一次失败的入轨会让探测器沿着飞出太阳系的轨迹一去不返。"
+    },
+    {
+     "w": "burn",
+     "ipa": "/bɜːrn/",
+     "pos": "n.",
+     "en": "burn (n.) means a period during which a rocket engine is firing",
+     "zh": "点火，发动机工作段",
+     "ctx": "航天语境里指发动机的一次点火工作：这里是把星舰推入轨道的那次点火，第六段 failed to burn properly 则指一台发动机没能正常点火。",
+     "ex1": "A short deorbit burn slowed the capsule enough to drop it into the atmosphere. 一次短暂的离轨点火让返回舱减速，随后坠入大气层。",
+     "ex2": "Controllers aborted the second burn when pressure readings drifted out of range. 当压力读数超出范围时，控制人员中止了第二次点火。"
+    },
+    {
+     "w": "maneuver",
+     "ipa": "/məˈnuːvər/",
+     "pos": "n. & v.",
+     "en": "maneuver (n.) means a movement or series of movements requiring skill and careful control",
+     "zh": "机动动作，操控",
+     "ctx": "拉丁语 manu 手加 operari 做工，本义“用手做的活儿”，本文指 SpaceX 随推文放出的那段入轨点火动作的视频。",
+     "ex1": "With debt this high, the finance ministry has very little room to maneuver. 债务高到这个程度，财政部几乎没有回旋余地。",
+     "ex2": "The docking maneuver was rehearsed more than two hundred times in simulation. 对接动作在模拟器里演练了两百多次。"
+    },
+    {
+     "w": "launch pad",
+     "ipa": "/ˈlɔːntʃ pæd/",
+     "pos": "名词短语",
+     "en": "launch pad means the platform from which a rocket is launched",
+     "zh": "发射台",
+     "ctx": "本义“垫在火箭底下的那块台子”，本文指德州 Starbase 的那座发射台，星舰从这里到 170 英里高的轨道只用了 25 分 17 秒。",
+     "ex1": "The rocket stood on the launch pad for six hours while engineers chased a leak. 工程师排查泄漏的六个小时里，火箭一直立在发射台上。",
+     "ex2": "Debris from the first flight tore up the launch pad and delayed the second by months. 首飞的碎片把发射台掀得稀烂，让第二次发射推迟了好几个月。"
+    },
+    {
+     "w": "circular",
+     "ipa": "/ˈsɜːrkjələr/",
+     "pos": "adj.",
+     "en": "circular means shaped like or moving in a circle",
+     "zh": "圆形的",
+     "ctx": "轨道力学里指各点高度基本一致、运行最稳的那一种：星舰进的是 170 英里高的圆形轨道，不是椭圆轨道，说明它是真稳住了。",
+     "ex1": "Communications satellites are usually parked in a circular orbit far above the equator. 通信卫星通常停在赤道上空很高处的圆形轨道上。",
+     "ex2": "That is a circular argument: you are using the conclusion to prove itself. 这是个循环论证，你在拿结论证明结论本身。"
+    }
+   ]
+  },
+  {
+   "en_html": "There is no <mark class=\"voc\">overstating</mark> how important today’s success was to SpaceX’s—and NASA’s—long-term plans. Starship is <mark class=\"voc\">pivotal</mark> to getting human beings to the moon and Mars, and SpaceX sees it as an <mark class=\"voc\">ultimate</mark> replacement for its <mark class=\"voc\">workhorse</mark> Falcon 9 rocket, which <mark class=\"voc\">accounted for</mark> nearly 51% of the global total of commercial launches—including 85% of all satellites—in 2025. Starship’s far larger <mark class=\"voc\">payload</mark> bay can carry a cargo <mark class=\"voc\">equivalent</mark> of nearly five Falcon 9s, ultimately <mark class=\"voc\">consolidating</mark> launches and cutting costs.",
+   "zh": "这次成功对SpaceX——以及NASA——的长远布局有多重要，怎么讲都不为过。要把人送上月球和火星，星舰是那个关键支点；而在SpaceX自己的规划里，它最终是要顶替猎鹰9号的。猎鹰9号是什么分量？2025年全球商业发射，它一家占了将近一半，全球上天的卫星里，85%是它送的。可星舰的货舱大得多，一趟装的货，抵得上近五枚猎鹰9号——发射次数因此合并，成本因此压下来。",
+   "notes": [
+    {
+     "w": "overstate",
+     "ipa": "/ˌoʊvərˈsteɪt/",
+     "pos": "v.",
+     "en": "overstate means to describe something as greater or more important than it really is",
+     "zh": "夸大，把话说过了头",
+     "ctx": "over 过分加 state 陈述：作者用 There is no overstating 这个否定句式，表示这次成功的重要性怎么强调都不为过。",
+     "ex1": "Analysts may have overstated the risk, but the board was right to take it seriously. 分析师或许夸大了风险，但董事会认真对待是对的。",
+     "ex2": "There is no overstating how much the new rules changed hiring in the sector. 新规对这个行业招聘的改变有多大，怎么说都不为过。"
+    },
+    {
+     "w": "pivotal",
+     "ipa": "/ˈpɪvətl/",
+     "pos": "adj.",
+     "en": "pivotal means of crucial importance because other things depend on it",
+     "zh": "关键的，起支柱作用的",
+     "ctx": "pivot 是支点、枢轴：整个登月登火星的规划都架在星舰身上，缺它这一块就塌了。",
+     "ex1": "That summer proved to be a pivotal moment in the company’s turnaround. 事后看，那个夏天是这家公司扭亏为盈的关键节点。",
+     "ex2": "Cheap storage is pivotal to making renewable power reliable year-round. 廉价储能对于让可再生电力全年稳定供应至关重要。"
+    },
+    {
+     "w": "ultimate",
+     "ipa": "/ˈʌltɪmət/",
+     "pos": "adj.",
+     "en": "ultimate means happening at the end of a process, or being the best or most extreme of its kind",
+     "zh": "最终的，终极的",
+     "ctx": "本义“整条路线走到头时的那个结果”：在 SpaceX 的规划里，星舰是猎鹰 9 号的最终替代品，不是临时补充。",
+     "ex1": "The ultimate goal is not more launches but cheaper ones. 最终目标不是发射得更多，而是发射得更便宜。",
+     "ex2": "Re-entry remains the ultimate test of any reusable vehicle. 再入大气层仍是任何可重复使用飞行器的终极考验。"
+    },
+    {
+     "w": "workhorse",
+     "ipa": "/ˈwɜːrkhɔːrs/",
+     "pos": "n.",
+     "en": "workhorse means a person, machine, or animal that does a large amount of hard, steady, and dependable work",
+     "zh": "主力，顶梁柱（干重活的那一个）",
+     "ctx": "本义“干重活的役马”，对应用来比赛的 racehorse：猎鹰 9 号不一定最惊艳，却是 2025 年全球商业发射近 51% 的执行者，星舰的定位就是取代它。",
+     "ex1": "The old diesel is still the workhorse of the fleet, logging more miles than the new trucks. 那台老柴油车仍是车队的主力，跑的里程比新卡车还多。",
+     "ex2": "For two decades this modest algorithm was the workhorse of speech recognition. 二十年来，这个其貌不扬的算法一直是语音识别的主力。"
+    },
+    {
+     "w": "account for",
+     "ipa": "/əˈkaʊnt fɔːr/",
+     "pos": "固定短语",
+     "en": "account for something means to form a particular amount or proportion of a total; also, to explain it",
+     "zh": "占（比例）；解释",
+     "ctx": "本义“把账算清楚”，在数据语境里指在总量中占到多少：猎鹰 9 号占了 2025 年全球商业发射总量的近 51%。",
+     "ex1": "Exports to Asia account for roughly two-thirds of the group’s revenue. 对亚洲的出口约占该集团营收的三分之二。",
+     "ex2": "Weak demand alone cannot account for a drop this steep. 光靠需求疲软，解释不了这么陡的跌幅。"
+    },
+    {
+     "w": "payload",
+     "ipa": "/ˈpeɪloʊd/",
+     "pos": "n.",
+     "en": "payload means the cargo, passengers, or equipment that a vehicle carries and that generates revenue",
+     "zh": "有效载荷，运载货物",
+     "ctx": "pay 付费加 load 载荷：火箭上唯一能收钱的那部分货，不含燃料和结构自重；星舰货舱一趟能装下相当于近五枚猎鹰 9 号的货。",
+     "ex1": "The rocket’s payload capacity doubled once the upper stage was redesigned. 上面级重新设计之后，这枚火箭的运载能力翻了一番。",
+     "ex2": "Each flight delivers a payload of twenty-six satellites, released one by one. 每次飞行送上二十六颗卫星的载荷，一颗一颗释放出去。"
+    },
+    {
+     "w": "equivalent",
+     "ipa": "/ɪˈkwɪvələnt/",
+     "pos": "adj. & n.",
+     "en": "equivalent means equal in value, amount, function, or meaning",
+     "zh": "相当的，等量的",
+     "ctx": "equi 相等加 valent 价值：折算下来抵得上，星舰一趟的货量就抵得上近五枚猎鹰 9 号。",
+     "ex1": "The fine is equivalent to about three weeks of the company’s operating profit. 这笔罚款大致相当于该公司三周的营业利润。",
+     "ex2": "He burned through the equivalent of a year’s salary in four months. 他在四个月里烧掉了相当于一年薪水的钱。"
+    },
+    {
+     "w": "consolidate",
+     "ipa": "/kənˈsɑːlɪdeɪt/",
+     "pos": "v.",
+     "en": "consolidate means to combine several separate things into one more effective whole; also, to make a position stronger",
+     "zh": "合并，整合",
+     "ctx": "con 一起加 solid 坚固：把原本要分五次飞的东西并成一趟，发射次数降下来，成本也就压下来了。",
+     "ex1": "The airline consolidated three regional hubs into one to cut ground costs. 这家航司把三个区域枢纽合并成一个，以压缩地面成本。",
+     "ex2": "A strong second quarter let the challenger consolidate its position in the north. 强劲的第二季度让这家挑战者巩固了在北部市场的地位。"
+    }
+   ]
+  },
+  {
+   "en_html": "In 2021, NASA selected Starship as one of two spacecraft that will <mark class=\"voc\">land</mark> astronauts on the moon <mark class=\"voc\">as early as</mark> 2028. (Blue Origin, the <mark class=\"voc\">aerospace</mark> company founded by Amazon boss Jeff Bezos, will provide the other.) In 2027, NASA is planning a <mark class=\"voc\">crewed</mark> test of either or both <mark class=\"voc\">spacecraft</mark> in Earth orbit during the mission of Artemis III.",
+   "zh": "2021年，NASA选中星舰，作为最早于2028年送宇航员登月的两艘飞船之一。（另一艘由亚马逊老板贝索斯创办的蓝色起源提供。）而在2027年，NASA计划在阿尔忒弥斯三号任务中，让宇航员在地球轨道上试飞其中一艘，或者两艘一起试。",
+   "notes": [
+    {
+     "w": "land",
+     "ipa": "/lænd/",
+     "pos": "vt.",
+     "en": "land (vt.) means to bring something down onto a surface; informally, to succeed in getting something desirable",
+     "zh": "使……着陆；拿下",
+     "ctx": "本义“使某物落到地面上”，航天语境指把人安全送到某个天体表面：NASA 选中的两艘飞船最早 2028 年把宇航员送上月面。",
+     "ex1": "She landed a job at the agency three weeks after graduating. 她毕业三周后就拿下了这家机构的工作。",
+     "ex2": "The pilot landed the aircraft safely despite losing one engine. 尽管一台发动机失效，飞行员还是安全降落了飞机。"
+    },
+    {
+     "w": "as early as",
+     "ipa": "/əz ˈɜːrli əz/",
+     "pos": "固定短语",
+     "en": "as early as means at a time no later than the one mentioned, often implying it could be later",
+     "zh": "最早在……（就）",
+     "ctx": "给出最乐观的时间点，同时暗示还可能推迟：登月“最早 2028 年”，第九段 in as little as two years 是同一套路。",
+     "ex1": "Trials could begin as early as next spring, though the regulator has not signed off. 试验最早可能在明年春天启动，不过监管机构尚未批准。",
+     "ex2": "Deliveries may slip to as late as December if the port strike drags on. 如果港口罢工持续，交付可能拖到最晚十二月。"
+    },
+    {
+     "w": "aerospace",
+     "ipa": "/ˈeroʊspeɪs/",
+     "pos": "n. & adj.",
+     "en": "aerospace means the industry concerned with flight within and beyond the Earth’s atmosphere",
+     "zh": "航空航天（的）",
+     "ctx": "aero 空气加 space 太空，指大气层内外这一整块领域：贝索斯创办的蓝色起源，正是与 SpaceX 争登月着陆器合同的那家航天公司。",
+     "ex1": "Aerospace-grade alloys cost several times what automotive suppliers pay. 航空航天级合金的价格是汽车供应商所付价格的好几倍。",
+     "ex2": "The region has rebuilt itself around aerospace after the shipyards closed. 船厂关闭之后，这个地区靠航空航天业重新立了起来。"
+    },
+    {
+     "w": "crewed",
+     "ipa": "/kruːd/",
+     "pos": "adj.",
+     "en": "crewed means having human crew members on board",
+     "zh": "载人的，配有乘组的",
+     "ctx": "crew 是全体机组，crewed 就是船上有人的：2027 年阿尔忒弥斯三号那次由宇航员参与的地球轨道试飞，反义词 uncrewed 出现在第九段。",
+     "ex1": "The first crewed test flight has slipped from spring to late summer. 首次载人试飞已从春季推迟到夏末。",
+     "ex2": "Two uncrewed rehearsals must succeed before anyone climbs aboard. 必须先完成两次无人彩排成功，才会有人登船。"
+    },
+    {
+     "w": "spacecraft",
+     "ipa": "/ˈspeɪskræft/",
+     "pos": "n.（单复数同形）",
+     "en": "spacecraft means a vehicle designed to travel in outer space",
+     "zh": "航天器，飞船",
+     "ctx": "本义“在太空中航行的器具”，本文指 NASA 2021 年选中的两艘登月飞船，星舰是其中之一。",
+     "ex1": "Both spacecraft are scheduled to dock in low Earth orbit before the transfer begins. 两艘飞船计划在近地轨道完成对接，之后才开始转移。",
+     "ex2": "The spacecraft separated from its booster two and a half minutes after liftoff. 飞船在升空两分半钟后与助推器分离。"
+    }
+   ]
+  },
+  {
+   "en_html": "Early on, <mark class=\"voc\">routine</mark> was <mark class=\"voc\">not remotely</mark> how Starship launches were being described. Four minutes into the rocket’s <mark class=\"voc\">inaugural</mark> launch on April 20, 2023, it exploded <mark class=\"voc\">spectacularly</mark>. <mark class=\"voc\">Concrete</mark> and steel <mark class=\"voc\">debris</mark> <mark class=\"voc\">rained down</mark> in a near-400-acre <mark class=\"voc\">footprint</mark> in the <mark class=\"voc\">surrounding</mark> Boca Chica State Park, and a 3.85-acre fire burned south of the launch site. But the flights <mark class=\"voc\">proceeded</mark> <mark class=\"voc\">apace</mark> <mark class=\"voc\">at a rate of</mark> once every three months, none achieving stable orbit—until today.",
+   "zh": "可在早些年，“例行公事”这四个字跟星舰发射根本不沾边。2023年4月20日首飞，升空第四分钟，它炸了——炸得堪称壮观。混凝土和钢铁的碎片如雨点般砸下，覆盖了周边博卡奇卡州立公园近400英亩的范围，发射场南侧还烧起一片3.85英亩的大火。但发射照旧推进，三个月一次，从没有一次进入稳定轨道——直到今天。",
+   "notes": [
+    {
+     "w": "routine",
+     "ipa": "/ruːˈtiːn/",
+     "pos": "adj. & n.",
+     "en": "routine (adj.) means done or happening as a normal part of a regular process, and therefore unremarkable",
+     "zh": "例行的，稀松平常的",
+     "ctx": "作者把它提到句首作强调：早年间，没人会用“例行公事”来形容星舰发射。",
+     "ex1": "What used to be a headline event has become routine maintenance. 过去能上头条的事，如今成了例行维护。",
+     "ex2": "The inspection was routine until someone opened the wrong panel. 这次检查本来一切照旧，直到有人打开了错误的舱盖。"
+    },
+    {
+     "w": "not remotely",
+     "ipa": "/nɑːt rɪˈmoʊtli/",
+     "pos": "固定短语",
+     "en": "not remotely means not even slightly, not in any degree at all",
+     "zh": "完全不，一点也谈不上",
+     "ctx": "remotely 是“遥远地”，连远远沾边都算不上：早年间“例行公事”这四个字跟星舰发射毫不相干。",
+     "ex1": "The two proposals are not remotely similar, whatever the press release says. 不管新闻稿怎么写，这两份方案根本不像。",
+     "ex2": "He was not remotely interested in running the department. 他对管这个部门一点兴趣都没有。"
+    },
+    {
+     "w": "inaugural",
+     "ipa": "/ɪˈnɔːɡjərəl/",
+     "pos": "adj.",
+     "en": "inaugural means marking the first occasion of a series, or relating to the formal start of an office",
+     "zh": "首次的，揭幕的",
+     "ctx": "本义“开端的、就职的”，这里指 2023 年 4 月 20 日星舰的头一回飞行，升空四分钟就炸了。",
+     "ex1": "The inaugural flight carried no passengers, only sandbags and sensors. 首航没有载客，只装了沙袋和传感器。",
+     "ex2": "His inaugural address ran to just eleven minutes, the shortest in decades. 他的就职演说只讲了十一分钟，是几十年来最短的一次。"
+    },
+    {
+     "w": "spectacularly",
+     "ipa": "/spekˈtækjələrli/",
+     "pos": "adv.",
+     "en": "spectacularly means in a way that is dramatic and impressive to watch",
+     "zh": "壮观地，惊人地",
+     "ctx": "词根 spect 是“看”，这里反用作冷幽默：用褒义副词形容爆炸，不直接批评，态度却全出来了。",
+     "ex1": "The strategy failed spectacularly, and the chief executive resigned within a month. 这一策略惨败收场，首席执行官一个月内就辞职了。",
+     "ex2": "Their forecast turned out to be spectacularly wrong in both direction and scale. 他们的预测在方向和量级上都错得离谱。"
+    },
+    {
+     "w": "concrete",
+     "ipa": "/ˈkɑːnkriːt/",
+     "pos": "n. & adj.",
+     "en": "concrete (n.) means a hard building material made from cement, sand, gravel, and water",
+     "zh": "混凝土；具体的",
+     "ctx": "词根 cre 是“生长、凝结”，这里指首飞爆炸时从发射台掀飞、如雨点般砸落的混凝土碎块。",
+     "ex1": "Crews poured concrete for the new flame trench around the clock. 施工队日夜不停地为新的导流槽浇筑混凝土。",
+     "ex2": "Give me a concrete example rather than another abstract principle. 给我一个具体的例子，别再来一条抽象原则。"
+    },
+    {
+     "w": "debris",
+     "ipa": "/dəˈbriː/",
+     "pos": "n.（不可数，词尾 s 不发音）",
+     "en": "debris means scattered fragments left after something has been destroyed or broken apart",
+     "zh": "碎片，残骸",
+     "ctx": "源自法语，指打碎之后散落的残块：2023 年首飞爆炸后落满周边州立公园的混凝土与钢铁碎片。",
+     "ex1": "Space debris now poses a real threat to satellites in the busiest orbits. 太空垃圾如今对最拥挤轨道上的卫星构成了实实在在的威胁。",
+     "ex2": "Crews spent a week clearing debris before rebuilding could start. 施工队清理了一周残骸，重建才得以开始。"
+    },
+    {
+     "w": "rain down",
+     "ipa": "/reɪn daʊn/",
+     "pos": "短语动词",
+     "en": "rain down means to fall in large quantities, like rain",
+     "zh": "如雨点般砸落，纷纷落下",
+     "ctx": "本义“像下雨一样落下来”，本文指爆炸后碎片密密麻麻砸在近 400 英亩的范围内。",
+     "ex1": "Praise rained down on the team long after the match ended. 比赛结束很久之后，赞美仍然向这支球队纷至沓来。",
+     "ex2": "Criticism rained down on the agency from both parties. 两党的批评一起向这家机构砸了过来。"
+    },
+    {
+     "w": "footprint",
+     "ipa": "/ˈfʊtprɪnt/",
+     "pos": "n.",
+     "en": "footprint means the area of ground that something occupies or affects",
+     "zh": "覆盖范围，波及面积",
+     "ctx": "本义“脚踩在地上留下的那块印子”，这里指碎片覆盖了博卡奇卡州立公园将近 400 英亩的一片地面。",
+     "ex1": "The retailer is expanding its footprint into six new provinces this year. 这家零售商今年要把版图扩张到六个新省份。",
+     "ex2": "Switching to rail cut the firm’s carbon footprint by almost a third. 改走铁路让这家公司的碳足迹减少了将近三分之一。"
+    },
+    {
+     "w": "surrounding",
+     "ipa": "/səˈraʊndɪŋ/",
+     "pos": "adj.",
+     "en": "surrounding means lying all around a particular place",
+     "zh": "周边的，四周的",
+     "ctx": "指紧挨着发射场的那座博卡奇卡州立公园，碎片就砸在这里。",
+     "ex1": "Ash from the fire drifted over the surrounding farmland for two days. 大火的灰烬在周边农田上空飘了两天。",
+     "ex2": "The company promised to fund schools in the surrounding community. 这家公司承诺出资支持周边社区的学校。"
+    },
+    {
+     "w": "proceed",
+     "ipa": "/prəˈsiːd/",
+     "pos": "v.",
+     "en": "proceed means to continue or carry on with a course of action",
+     "zh": "继续进行，推进",
+     "ctx": "pro 向前加 ceed 走：尽管首飞炸了，发射仍照原定安排，以每三个月一次的节奏往前推。",
+     "ex1": "Despite the lawsuit, construction proceeded as scheduled. 尽管官司缠身，施工仍按计划推进。",
+     "ex2": "The board voted to proceed with the acquisition, but cautiously. 董事会投票决定推进这笔收购，但要谨慎行事。"
+    },
+    {
+     "w": "apace",
+     "ipa": "/əˈpeɪs/",
+     "pos": "adv.",
+     "en": "apace means quickly and steadily, without slowing down",
+     "zh": "快速地，势头不减地",
+     "ctx": "a- 加 pace 步伐，书面语里指照常快速推进：炸了也不耽误，发射仍以三个月一次的频率往前赶。",
+     "ex1": "Work on the second launch site continued apace through the winter. 第二座发射场的工程整个冬天都在照常快速推进。",
+     "ex2": "Demand for the service has grown apace since the price cut. 降价以来，这项服务的需求一直在快速增长。"
+    },
+    {
+     "w": "at a rate of",
+     "ipa": "/ət ə ˈreɪt əv/",
+     "pos": "固定短语",
+     "en": "at a rate of means at a specified speed or frequency",
+     "zh": "以……的速率／频率",
+     "ctx": "本义“按某个速率”，这里指星舰发射一直保持在每三个月一次的节奏。",
+     "ex1": "Inventories are shrinking at a rate of about 4% a quarter. 库存正以每季度约 4% 的速度缩减。",
+     "ex2": "At this rate, the fund will be empty before the new fiscal year. 照这个速度，这笔基金在新财年之前就会见底。"
+    }
+   ]
+  }
+ ]
+}

@@ -1,0 +1,373 @@
+{
+ "paragraphs": [
+  {
+   "en_html": "Although the Arab countries of the region have been <mark class=\"voc\">allied</mark> as the Gulf Cooperation Council since 1981, that alliance <mark class=\"voc\">proved</mark> useless <mark class=\"voc\">as soon as</mark> the missiles and <mark class=\"voc\">drones</mark> started flying. But Israel responded as an ally, by sending defense systems and advisers. At least one Iranian strike during the early phases of the war hit near the Israeli <mark class=\"voc\">consulate</mark> in Dubai. One possible political motive for the Flydubai incident would be to <mark class=\"voc\">strain</mark> and punish the relationship between the two countries.",
+   "zh": "虽然这一地区的阿拉伯国家早在1981年就以海湾合作委员会的名义结成了同盟，可导弹和无人机刚一升空，那个联盟就露了底——毫无用处。反倒是以色列，拿出了一个盟友该有的样子：防御系统送过去了，顾问也派过去了。而在战争初期，至少有一枚伊朗的炮火，落在了以色列驻迪拜领事馆的近旁。所以，这次迪拜航空事件背后一个可能的政治动机，或许就是要把这两个国家的关系拽紧、拽痛，让它们为这份亲近付出代价。",
+   "notes": [
+    {
+     "w": "ally / allied / alliance",
+     "ipa": "/ˈælaɪ/ (n.) /əˈlaɪ/ (v.) ; /ˈælaɪd/ ; /əˈlaɪəns/",
+     "pos": "n. / v. / adj. / n.",
+     "en": "an ally is a country or person that has agreed to support another, especially in war; an alliance is the formal arrangement that binds them",
+     "zh": "盟友／结盟／联盟",
+     "ctx": "文中指海湾六国自 1981 年起以海合会名义结盟，而条约上并非盟友的以色列，反倒像一个盟友那样出手。",
+     "ex1": "Canberra remains Washington’s closest ally in the region despite the trade dispute. 尽管存在贸易争端，堪培拉依然是华盛顿在这一地区最亲密的盟友。",
+     "ex2": "The two carmakers formed an alliance to share battery production rather than compete on it. 两家车企结成联盟共享电池产能，而不是在这一块互相拼杀。"
+    },
+    {
+     "w": "prove",
+     "ipa": "/pruːv/",
+     "pos": "link v.",
+     "en": "prove (link v.) means to turn out to be, or to be shown by events to be",
+     "zh": "结果被证明是",
+     "ctx": "文中指海合会这个联盟一经实战检验就被证明毫无用处，prove 后面直接跟形容词，不加 to be。",
+     "ex1": "The backup system proved useless the moment the main power failed. 主电源一断，备用系统立刻被证明毫无用处。",
+     "ex2": "Her early scepticism about the merger proved entirely justified. 她当初对这桩合并的怀疑，事后证明完全站得住脚。"
+    },
+    {
+     "w": "as soon as",
+     "ipa": "",
+     "pos": "连词短语",
+     "en": "as soon as means at the very moment that something happens, with no delay in between",
+     "zh": "一……就……（强调零时差）",
+     "ctx": "作者不用 when 而用 as soon as：不是打了一阵才发现联盟没用，而是导弹刚升空、联盟就已经归零。",
+     "ex1": "Share prices fell as soon as the guidance was published, before anyone had read the detail. 业绩指引一公布股价就跌了，根本还没人读到细节。",
+     "ex2": "The moment the ceasefire took effect, aid convoys began moving toward the border. 停火一生效，救援车队立刻开始向边境进发。"
+    },
+    {
+     "w": "drone",
+     "ipa": "/drəʊn/",
+     "pos": "n.",
+     "en": "drone (n.) means an aircraft that flies without a pilot on board and is controlled remotely or by onboard systems",
+     "zh": "无人机",
+     "ctx": "文中指伊朗在 2026 年战争中对阿联酋等国投放的无人机，数量超过 2,200 架。",
+     "ex1": "A single drone strike destroyed the fuel depot without a single aircraft entering the airspace. 一次无人机打击就摧毁了油库，而且没有一架有人飞机进入过那片领空。",
+     "ex2": "He droned on about process for forty minutes while the actual decision went unmade. 他就流程问题絮絮叨叨了四十分钟，真正该拍板的事反倒没定。"
+    },
+    {
+     "w": "consulate",
+     "ipa": "/ˈkɒnsjələt/",
+     "pos": "n.",
+     "en": "consulate (n.) means the office of a consul, a government’s representative in a foreign city other than the capital",
+     "zh": "领事馆",
+     "ctx": "文中指以色列驻迪拜领事馆，战争初期至少有一次伊朗打击落在它附近。",
+     "ex1": "The consulate suspended visa services for three weeks during the security alert. 安全警戒期间，该领事馆暂停了三周的签证服务。",
+     "ex2": "Unlike an embassy, a consulate is usually located outside the host country’s capital. 与大使馆不同，领事馆通常设在驻在国首都以外的城市。"
+    },
+    {
+     "w": "strain",
+     "ipa": "/streɪn/",
+     "pos": "v.",
+     "en": "strain (v.) means to put a relationship or system under so much tension that it becomes difficult to sustain, though not necessarily to the point of breaking",
+     "zh": "使（关系）紧绷、出现裂痕",
+     "ctx": "文中指这起袭击的一个可能政治动机，就是把以色列与阿联酋的关系拽紧、让它吃力，下一段的 snap 正与之对照。",
+     "ex1": "The dispute over fishing rights has strained relations between the two capitals for years. 围绕捕鱼权的争端，多年来一直让两国关系紧绷。",
+     "ex2": "Three consecutive hires in one quarter put a serious strain on the team’s budget. 一个季度连招三个人，给团队预算带来了不小的压力。"
+    }
+   ]
+  },
+  {
+   "en_html": "The relationship between Israel and the UAE is unlikely to <mark class=\"voc\">snap</mark> over a single attack. The relationship between the UAE and Netanyahu himself is more <mark class=\"voc\">delicate</mark>. In the past several weeks, the president of the UAE, Mohammed bin Zayed Al Nahyan, <mark class=\"voc\">was implicated in</mark> a report from Haaretz that severely damaged Netanyahu’s chances of <mark class=\"voc\">remaining in office</mark> after next month’s Israeli election. The report alleged that days before the massacre of October 7, 2023, MBZ had personally warned Netanyahu that an attack was <mark class=\"voc\">imminent</mark> but Netanyahu had done nothing to <mark class=\"voc\">act on</mark> the warning. The UAE government at first refused to comment on the story. On Sunday, however, Netanyahu visited Abu Dhabi, and the AP reported that he asked MBZ to deny that he’d warned of an attack.",
+   "zh": "以色列与阿联酋的关系，不会因为一次袭击就“啪”地断掉。但阿联酋与内塔尼亚胡本人之间的那根线，就要脆弱得多了。过去几周，阿联酋总统穆罕默德·本·扎耶德被卷进了《国土报》的一篇报道——那篇报道，重重打击了他在下月以色列大选后继续执政的指望。报道称：2023年10月7日那场屠杀发生前几天，MBZ 曾亲自致电警告内塔尼亚胡，一场袭击已迫在眉睫；而内塔尼亚胡，对这个警告没有采取任何行动。阿联酋政府起初闭口不谈。然而上周日，内塔尼亚胡去了一趟阿布扎比——据美联社报道，他请求MBZ 出面否认，否认自己曾经示警。",
+   "notes": [
+    {
+     "w": "snap",
+     "ipa": "/snæp/",
+     "pos": "v.",
+     "en": "snap (v.) means to break suddenly and completely, usually with a sharp sound",
+     "zh": "（关系）骤然断裂",
+     "ctx": "文中指作者判断以阿关系不会因一次袭击就“崩断”，与上一段的 strain 构成一根绳子的两端。",
+     "ex1": "The cable snapped under the load and the platform dropped two metres. 缆绳在重压下啪地绷断，平台掉下去两米。",
+     "ex2": "Tickets were snapped up within four minutes of going on sale. 票一开售，四分钟内就被抢光了。"
+    },
+    {
+     "w": "delicate",
+     "ipa": "/ˈdelɪkət/",
+     "pos": "adj.",
+     "en": "delicate (adj.) means requiring careful and sensitive handling because it could easily go wrong",
+     "zh": "微妙的、需小心拿捏的",
+     "ctx": "文中指阿联酋与内塔尼亚胡本人的关系——作者刻意把“国家对国家”和“国家对某位总理”切开，因为下月以色列就要大选。",
+     "ex1": "Succession at a family firm is always a delicate matter, however well it is planned. 家族企业的接班问题，无论规划得多好，永远都是件微妙的事。",
+     "ex2": "The agreement rests on a delicate balance that neither side wants to test. 这份协议建立在一种微妙的平衡之上，双方都不想去试探它。"
+    },
+    {
+     "w": "be implicated in",
+     "ipa": "",
+     "pos": "固定结构",
+     "en": "to be implicated in something means to be shown or suggested to be involved in it, usually in a matter that reflects badly on someone",
+     "zh": "被牵连进（某事）",
+     "ctx": "文中指阿联酋总统 MBZ 被卷进《国土报》那篇关于 10 月 7 日预警的报道，他本人并无过错，却因此被卷进以色列的政治漩涡。",
+     "ex1": "Two former executives were implicated in the accounting scandal but never charged. 两名前高管被牵连进这起会计丑闻，但从未被起诉。",
+     "ex2": "He refused to answer, fearing that any reply would implicate him further. 他拒绝回答，生怕任何一句话都会让自己陷得更深。"
+    },
+    {
+     "w": "remain in office",
+     "ipa": "",
+     "pos": "固定短语",
+     "en": "to remain in office means to continue holding an official public position, especially after an election or a challenge",
+     "zh": "继续执政、保住职位",
+     "ctx": "文中指那篇报道重创了内塔尼亚胡在下月以色列大选后继续担任总理的机会。",
+     "ex1": "He is unlikely to remain in office if the coalition loses its majority next month. 如果联盟下个月失去多数席位，他很难继续执政。",
+     "ex2": "She announced that she would not run for office again after two terms. 她宣布两届任期结束后不再竞选公职。"
+    },
+    {
+     "w": "imminent",
+     "ipa": "/ˈɪmɪnənt/",
+     "pos": "adj.",
+     "en": "imminent (adj.) means likely to happen at any moment and very soon",
+     "zh": "迫在眉睫的",
+     "ctx": "文中指据《国土报》报道，MBZ 在那通电话里警告内塔尼亚胡，一场袭击已迫在眉睫。",
+     "ex1": "Forecasters warned of an imminent storm surge and ordered the harbour cleared. 气象部门警告风暴潮迫在眉睫，下令清空港口。",
+     "ex2": "Staff were told that no layoffs were imminent, but few believed it. 员工被告知近期不会裁员，可没几个人信。"
+    },
+    {
+     "w": "act on",
+     "ipa": "",
+     "pos": "短语动词",
+     "en": "to act on something means to take practical action based on information, advice, or a warning you have received",
+     "zh": "把收到的信息变成行动",
+     "ctx": "文中指报道称内塔尼亚胡对警告没有采取任何行动——作者只陈述无法反驳的事实，不判断他的主观意图。",
+     "ex1": "Regulators acted on the whistleblower’s information within 48 hours. 监管部门在48小时内就依据举报人提供的信息采取了行动。",
+     "ex2": "He tends to act on impulse and apologise afterwards. 他习惯凭一时冲动行事，事后再道歉。"
+    }
+   ]
+  },
+  {
+   "en_html": "Yesterday, in New York, UAE Foreign Minister Abdullah bin Zayed did exactly that. “Sheikh Mohammed did not call Prime Minister Netanyahu and say there is going to be an attack on Israel,” Abdullah said in a meeting at the Council on Foreign Relations, calling his denial “<mark class=\"voc\">categorical</mark>.” He said that using a leader-to-leader call to <mark class=\"voc\">pass along</mark> secrets was “not our style,” and he <mark class=\"voc\">left open the possibility</mark> that a warning had been passed between governments, <mark class=\"voc\">if not</mark> between leaders. This denial releases some pressure on Netanyahu without <mark class=\"voc\">absolving</mark> his government of its failures.",
+   "zh": "而就在昨天，纽约，阿联酋外交部长阿卜杜拉·本·扎耶德，正是这么做了。“穆罕默德酋长并未致电内塔尼亚胡总理，告诉他以色列将遭袭击，”阿卜杜拉在美国外交关系委员会的一场会议上说，并称自己的否认是“斩钉截铁”的。他还说，用领导人之间的通话来递送机密，“不是我们的风格”——但他同时留了一个口子：那个警告，或许确实在两国政府之间传递过，只是没在两位领导人之间传递。这番否认，替内塔尼亚胡卸下了一部分压力，却丝毫没有免除他那届政府的失职之责。",
+   "notes": [
+    {
+     "w": "categorical",
+     "ipa": "/ˌkætəˈɡɒrɪkl/",
+     "pos": "adj.",
+     "en": "categorical (adj.) means stated with complete certainty and admitting no exception or qualification",
+     "zh": "斩钉截铁的、毫无保留的",
+     "ctx": "文中指阿联酋外长自称他的否认是 categorical，但作者加了引号，并紧接着写出他留下的那个口子，让读者自己对照。",
+     "ex1": "The minister categorically denied that any such list had ever existed. 这位部长斩钉截铁地否认曾经存在过任何这样一份名单。",
+     "ex2": "The board categorically ruled out a sale of the division before the end of the year. 董事会彻底排除了年底前出售该部门的可能。"
+    },
+    {
+     "w": "pass along",
+     "ipa": "",
+     "pos": "短语动词",
+     "en": "to pass something along means to transmit information or an item onward to another person or party",
+     "zh": "传递、转达",
+     "ctx": "文中指外长说用领导人之间的通话传递机密“不是我们的风格”，但他并没有否认消息本身被传到了以色列。",
+     "ex1": "Could you pass along my thanks to whoever stayed late to fix this? 麻烦你替我向那位留下来加班修好这个的人道声谢。",
+     "ex2": "She passed up a senior role abroad to stay close to family. 她放弃了一个海外高级职位，为的是离家人近一些。"
+    },
+    {
+     "w": "leave open the possibility",
+     "ipa": "",
+     "pos": "固定短语",
+     "en": "to leave open the possibility means to decline to exclude something, deliberately keeping it as a live option",
+     "zh": "保留……的可能性、不予排除",
+     "ctx": "文中指这是全文的解密钥匙：外长否认了“领导人通电话”，却没有否认“警告在两国政府之间传递过”。",
+     "ex1": "The chairman left open the possibility of a second round of funding later this year. 董事长没有排除今年晚些时候再融一轮的可能。",
+     "ex2": "Officials refused to rule out further restrictions if case numbers keep climbing. 官员们拒绝排除在病例持续攀升时进一步加码限制的可能。"
+    },
+    {
+     "w": "if not",
+     "ipa": "",
+     "pos": "固定结构",
+     "en": "the structure A, if not B means that A is true, even if the stronger or larger claim B is not",
+     "zh": "是 A，哪怕不是 B",
+     "ctx": "文中指 a warning had been passed between governments, if not between leaders——政府之间传过，哪怕领导人之间没传过。",
+     "ex1": "Most, if not all, of the delay can be traced to a single missing signature. 这次拖延即便不是全部、也有绝大部分都能追到一个漏签的名字上。",
+     "ex2": "Rewriting the system from scratch would be difficult, if not impossible, on this timeline. 按这个时间表从零重写整个系统，就算不是不可能，也极其困难。"
+    },
+    {
+     "w": "absolve",
+     "ipa": "/əbˈzɒlv/",
+     "pos": "v.",
+     "en": "to absolve someone of something means to declare officially that they are not guilty of it or not responsible for it",
+     "zh": "免除（罪责）、开脱",
+     "ctx": "文中指这次否认给内塔尼亚胡卸了一部分压力，却丝毫没有免除他那届政府在 10 月 7 日之前的失职。",
+     "ex1": "The inquiry absolved the engineers of blame and pointed instead at procurement rules. 调查结果免除了工程师的责任，转而把矛头指向了采购规定。",
+     "ex2": "Paying the fine does not absolve the company of its obligation to clean up the site. 缴纳罚款并不能免除这家公司清理场地的义务。"
+    }
+   ]
+  },
+  {
+   "en_html": "The New York Times and others have reported that the <mark class=\"voc\">first officer</mark> who allegedly tried to <mark class=\"voc\">bring down</mark> the plane is an Omani <mark class=\"voc\">national</mark>. Both are reportedly still in Saudi Arabia. The next part of the story will involve determining whether the pilot <mark class=\"voc\">acted alone</mark>—<mark class=\"voc\">not a good look</mark> for Flydubai, to have <mark class=\"voc\">suicidal</mark> or terrorist pilots—or <mark class=\"voc\">at someone’s behest</mark>. <mark class=\"voc\">The latter</mark> possibility could, if confirmed, have serious implications, depending on who directed the attack. Many have a motive: Sunni jihadists (al-Qaeda or the Islamic State), Hamas, and of course Iran and its <mark class=\"voc\">proxies</mark>. This Mayday moment will have huge implications if any of these groups are <mark class=\"voc\">involved</mark>.",
+   "zh": "《纽约时报》等媒体已经报道，那位涉嫌试图让飞机坠毁的副驾驶，是一名阿曼公民。据称两人目前仍滞留在沙特。故事接下来的篇章，将是查清这名飞行员究竟是单独行动——对迪拜航空来说，机队里出了想自杀的、或是搞恐怖袭击的飞行员，这实在是难看——还是受了什么人的指使。后一种可能若被证实，后果将十分严重，严重到什么地步，就看是谁在背后指挥了这场袭击。而有动机的人，并不少：逊尼派圣战分子（基地组织，或“伊斯兰国”）、哈马斯，当然，还有伊朗和它的那些代理势力。倘若这里头任何一方真的牵涉其中，这个“Mayday 时刻”，后患无穷。",
+   "notes": [
+    {
+     "w": "first officer",
+     "ipa": "",
+     "pos": "复合名词",
+     "en": "first officer means the second-in-command pilot on a commercial aircraft, ranking below the captain",
+     "zh": "副驾驶",
+     "ctx": "文中指与第一段 co-pilot 是同一个人，作者换词以避免重复；据报道他是阿曼公民，在迪拜航空工作约九个月。",
+     "ex1": "The first officer was flying the aircraft when the warning light came on. 警示灯亮起时，操纵飞机的是副驾驶。",
+     "ex2": "After 4,000 hours she was promoted from first officer to captain. 飞满4,000小时之后，她从副驾驶晋升为机长。"
+    },
+    {
+     "w": "bring down",
+     "ipa": "",
+     "pos": "短语动词",
+     "en": "to bring something down means to cause it to fall or to collapse, whether an aircraft, a government, or a price",
+     "zh": "使（飞机）坠毁；搞垮",
+     "ctx": "文中指那位涉嫌试图令飞机坠毁的副驾驶。",
+     "ex1": "A single leaked recording was enough to bring down the government. 仅仅一段泄露的录音，就足以让这届政府垮台。",
+     "ex2": "Her closing number brought the house down and the encore ran ten minutes. 她的压轴曲目赢得满堂彩，返场足足加演了十分钟。"
+    },
+    {
+     "w": "national",
+     "ipa": "/ˈnæʃnəl/",
+     "pos": "n.",
+     "en": "national (n.) means a person who holds the citizenship of a particular country",
+     "zh": "（某国）国民、公民",
+     "ctx": "文中指 an Omani national，阿曼公民；阿曼与以色列并无外交关系，所以这一点格外重磅，调查因此转向机组的审查流程。",
+     "ex1": "Two foreign nationals were detained at the airport and released without charge. 两名外国公民在机场被扣留，随后未经起诉即获释。",
+     "ex2": "Dual nationals may be required to enter the country on the local passport. 双重国籍者入境时可能被要求使用本国护照。"
+    },
+    {
+     "w": "act alone",
+     "ipa": "",
+     "pos": "固定短语",
+     "en": "to act alone means to carry out an act without accomplices, direction, or organisational backing",
+     "zh": "单独作案",
+     "ctx": "文中指整起事件接下来唯一重要的问题——他是单独行动，还是受人指使。",
+     "ex1": "Investigators now believe the suspect acted alone and had no outside support. 调查人员现在认为嫌疑人是单独作案，没有外部支持。",
+     "ex2": "Lone-wolf attacks are harder to detect precisely because there is no network to monitor. 独狼式袭击之所以更难发现，恰恰是因为根本没有网络可供监控。"
+    },
+    {
+     "w": "not a good look",
+     "ipa": "",
+     "pos": "口语固定表达",
+     "en": "not a good look means that something makes a person or organisation appear bad in the eyes of the public",
+     "zh": "这事儿不体面、很难看",
+     "ctx": "作者在破折号里插了句口语化的吐槽：机队里出了有自杀倾向或搞恐袭的飞行员，对迪拜航空实在难看。",
+     "ex1": "Raising executive pay in the same week as the layoffs is not a good look. 在宣布裁员的同一周给高管涨薪，这事儿实在难看。",
+     "ex2": "Whatever the legal position, the optics here are terrible. 不管法律上站不站得住，这事儿在观感上糟透了。"
+    },
+    {
+     "w": "suicidal",
+     "ipa": "/ˌsuːɪˈsaɪdl/",
+     "pos": "adj.",
+     "en": "suicidal (adj.) means having a wish to end one’s own life, or so dangerous as to amount to self-destruction",
+     "zh": "有自杀倾向的；等同自杀的",
+     "ctx": "作者把“自杀”与“恐袭”两种可能并列，因为航空史上这两类情形都真实发生过，如 1999 年埃及航空 990、2015 年德国之翼 9525。",
+     "ex1": "Cutting the only profitable line would be commercially suicidal. 砍掉唯一盈利的产品线，在商业上无异于自杀。",
+     "ex2": "Airlines now screen for suicidal ideation as part of routine medical assessment. 航空公司现已把自杀意念筛查纳入例行体检的一部分。"
+    },
+    {
+     "w": "at someone’s behest",
+     "ipa": "/bɪˈhest/",
+     "pos": "固定短语",
+     "en": "at someone’s behest means on that person’s instruction or order, done because they directed it",
+     "zh": "受某人指使",
+     "ctx": "文中指与 acted alone 相对的另一半：如果证实是受指使，后果取决于指使者是谁。",
+     "ex1": "The review was launched at the behest of the regulator, not the board. 这次审查是应监管机构之命启动的，而非董事会的意思。",
+     "ex2": "He signed the agreement on behalf of all three subsidiaries. 他代表三家子公司签署了这份协议。"
+    },
+    {
+     "w": "the latter / the former",
+     "ipa": "/ˈlætə/ ; /ˈfɔːmə/",
+     "pos": "固定说法",
+     "en": "the latter means the second of two things just mentioned; the former means the first",
+     "zh": "后者／前者（只能用于两者之间）",
+     "ctx": "文中 the latter possibility 指的是 at someone’s behest 这一种，而不是 acted alone。",
+     "ex1": "Growth came mainly in the latter half of the year, after the pricing change. 增长主要出现在下半年，也就是价格调整之后。",
+     "ex2": "We can expand or consolidate; the latter is cheaper but slower. 我们可以扩张，也可以收缩整合；后者更省钱，但也更慢。"
+    },
+    {
+     "w": "proxy",
+     "ipa": "/ˈprɒksi/",
+     "pos": "n.（复数 proxies）",
+     "en": "proxy (n.) means a person, group, or thing that acts for or stands in place of another",
+     "zh": "代理人、代理势力；替代指标",
+     "ctx": "文中指伊朗在地区内的代理武装，是作者列出的“有动机者”名单上的最后一项。",
+     "ex1": "What began as a border dispute has turned into a proxy war between two larger powers. 一场起初的边境争端，已经演变成两个大国之间的代理人战争。",
+     "ex2": "Researchers used nighttime light intensity as a proxy for local economic activity. 研究者用夜间灯光强度作为当地经济活动的替代指标。"
+    },
+    {
+     "w": "be involved in",
+     "ipa": "",
+     "pos": "固定结构",
+     "en": "to be involved in something means to take part in it or to be connected with it, often in a way that carries responsibility",
+     "zh": "卷入、牵涉其中",
+     "ctx": "文中指全文最后一句：如果那几个组织中的任何一个牵涉其中，这个“Mayday 时刻”将产生巨大影响。",
+     "ex1": "Three suppliers were involved in the recall, though only one has been named publicly. 有三家供应商牵涉进这次召回，不过公开点名的只有一家。",
+     "ex2": "Everyone involved in the project received a written acknowledgement. 参与这个项目的每一个人都收到了书面致谢。"
+    }
+   ]
+  }
+ ],
+ "proper": [
+  {
+   "name": "Flydubai / 迪拜航空",
+   "def": "迪拜政府旗下的廉价航空公司，2009 年开始运营，主飞中短程航线，机队以波音 737 系列为主。<br>本文中的意思：事发航班 FZ1073 的承运方；作者称它是 Emirates 的“廉价版表亲”，并指出这起事件对它构成公关上的灭顶之灾。"
+  },
+  {
+   "name": "Emirates / 阿联酋航空",
+   "def": "同样属于迪拜政府的全服务航空公司，是全球知名的豪华长途航司，以 A380 机队和高端客舱著称。<br>本文中的意思：作为对照系出现，用来说明 Flydubai 与它“同出一门、档次不同”的关系。"
+  },
+  {
+   "name": "El Al / 以色列航空",
+   "def": "以色列的国家航空公司，以全球最严格的旅客安检与问询流程著称，历史上长期是劫机与恐袭的首要目标。<br>本文中的意思：它在迪拜一号航站楼的值机柜台被刻意安排在伊朗马汉航空旁边，是作者所说“聪明的安保设计”的一半。"
+  },
+  {
+   "name": "Mahan Air / 马汉航空",
+   "def": "伊朗的大型航空公司。2011 年 10 月被美国财政部列入反恐制裁名单，理由是为伊朗革命卫队“圣城旅”提供支持。2026 年 9 月 8 日，美方进一步制裁了伊朗剩余的 27 家航空公司；9 月 24 日阿联酋民航总局暂停了所有伊朗航司的进出港航班。<br>本文中的意思：它曾是那套“人肉盾牌”柜台设计的另一半；而随着制裁落地，它已不再飞迪拜，那套设计也随之失效。"
+  },
+  {
+   "name": "Tabuk / 塔布克",
+   "def": "沙特西北部城市，靠近约旦边境与红海，其民用机场紧邻一处沙特空军基地。<br>本文中的意思：涉事航班的迫降地点，机长与副驾驶在此被送医，两人在文章写作时仍留在沙特。"
+  },
+  {
+   "name": "Mayday / 空难纪录片《空中浩劫》",
+   "def": "既是国际通用的无线电求救信号，也是一部加拿大制作的空难纪录片系列（中文多译作《空中浩劫》），每集还原一起真实空难。该求救信号源自法语“venez m’aider”（快来帮我）中“m’aider”的读音，由伦敦克罗伊登机场一名无线电管理员在 1920 年代提出。<br>本文中的意思：那位冲进驾驶舱的乘客因看过这部纪录片，知道该把操纵杆往回拉；作者在全文最后一句用“This Mayday moment”同时呼应纪录片与求救信号两层含义。"
+  },
+  {
+   "name": "the 2026 Iran war / 2026 年伊朗战争",
+   "def": "2026 年 2 月 28 日，美国与以色列对伊朗发动联合空袭，战争随即爆发；伊朗以导弹和无人机反击海湾多国，至 4 月 8 日达成停火。据阿联酋国防部数据，伊朗向阿联酋发射约 550 枚弹道导弹与巡航导弹、逾 2,200 架无人机，阿联酋承受的攻击多于任何其他国家。<br>本文中的意思：这场战争是以色列与阿联酋关系拉近的直接背景——以色列向阿联酋提供了防御系统与人员支持。"
+  },
+  {
+   "name": "Gulf Cooperation Council / GCC / 海湾合作委员会",
+   "def": "1981 年成立的区域组织，成员国为沙特阿拉伯、阿联酋、科威特、卡塔尔、巴林、阿曼，成立背景与 1979 年伊朗伊斯兰革命及 1980 年两伊战争密切相关。<br>本文中的意思：作者用它作反差——这个成立了四十余年的联盟，在导弹升空的那一刻被证明毫无用处；而成员国之一阿曼，正是第九段中副驾驶的国籍所在。"
+  },
+  {
+   "name": "Iron Dome / 铁穹",
+   "def": "以色列研制的短程防空拦截系统，主要用于拦截火箭弹与无人机。据多家媒体报道，2026 年伊朗战争期间以色列将一套铁穹系统连同操作人员部署至阿联酋，为该系统首次部署到以色列与美国以外的国家。<br>本文中的意思：这正是文中 sending defense systems and advisers（派出防御系统与顾问）所指的具体内容。"
+  },
+  {
+   "name": "Mohammed bin Zayed Al Nahyan / MBZ / 穆罕默德·本·扎耶德",
+   "def": "阿联酋总统、阿布扎比酋长，是阿联酋的实际掌权者。阿拉伯姓名中 bin / ibn 意为“……之子”，Al Nahyan 为家族名。<br>本文中的意思：据《国土报》报道，他在 2023 年 10 月 7 日前约十天致电内塔尼亚胡示警；该报道使他被卷入以色列的选举政治，也构成本文第七、八两段的核心。"
+  },
+  {
+   "name": "Abdullah bin Zayed / 阿卜杜拉·本·扎耶德",
+   "def": "阿联酋外交部长，与 MBZ 同为阿联酋开国总统扎耶德之子，二人是兄弟关系。<br>本文中的意思：他在纽约的美国外交关系委员会会议上，公开否认 MBZ 曾致电内塔尼亚胡示警，并自称这一否认是“斩钉截铁”的。"
+  },
+  {
+   "name": "Haaretz / 《国土报》",
+   "def": "以色列历史最悠久的报纸之一，1918 年创刊，立场偏自由派，以调查报道见长。该报于 2026 年 9 月 8 日刊出关于 10 月 7 日预警的调查报道；内塔尼亚胡否认并表示将提起诉讼，《纽约时报》随后以两名消息人士对该报道作了印证。<br>本文中的意思：它是整条“预警疑云”叙事的起点，也是本文第七段所有信息的来源。"
+  },
+  {
+   "name": "the Council on Foreign Relations / CFR / 美国外交关系委员会",
+   "def": "1921 年成立于纽约的美国顶级外交政策智库，出版《外交事务》杂志，其活动听众多为美国政策圈与主流媒体。<br>本文中的意思：阿联酋外长选择在此公开表态，说明这不是一次随口回应，而是一次面向美国政策界的精心安排。"
+  }
+ ],
+ "sources_note": "资料核对：以上背景依据文章内容，并参考 The Atlantic、《国土报》（Haaretz）、美联社及阿联酋国防部截至 2026 年 10 月的公开报道。",
+ "practice": {
+  "intro": "请将以下中文句子翻译为英文（参考答案见后）。要求：尽量用上本文的核心表达，可以适当改变词形，但不要直接照抄原文。",
+  "items": [
+   "今天，在沙特阿拉伯上空的某处，一架飞往以色列的迪拜航空波音737的副驾驶，刺伤了另一名飞行员，并把机头压向了下方的沙漠。",
+   "他说，自己之所以能派上用场，部分原因是他看过那部专拍空难的“灾难猎奇”纪录片《Mayday》，所以知道要把操纵杆往回拉。",
+   "今天这场险些酿成的灾难，究竟算恐怖主义，还是仅仅是一次未遂的大规模谋杀，取决于行凶者的动机。",
+   "托运行李要另外收费，但排队时充当人肉盾牌的这项体验，是免费赠送的。",
+   "虽然这一地区的阿拉伯国家自1981年起就以海湾合作委员会的名义结盟，可导弹和无人机一飞起来，那个联盟就被证明毫无用处。",
+   "这次否认为内塔尼亚胡卸掉了一些压力，却并没有免除他那届政府的失职之责。"
+  ],
+  "critical_en": "If a passenger can learn to save a plane from a disaster documentary, what does that say about how we prepare for emergencies — and about the line between information and entertainment?",
+  "critical_zh": "如果一个乘客能靠一部灾难纪录片学会救下一架飞机，那这说明我们平时是怎么为突发状况做准备的？又说明“信息”与“娱乐”之间的界线在哪里？",
+  "answer": "1. Today, somewhere over Saudi Arabia, the co-pilot of an Israel-bound Flydubai Boeing 737 stabbed the other pilot and pitched the nose of the plane toward the desert below.<br><br>2. His actions had been effective in part because he had watched the disaster-porn documentary series Mayday, about aviation catastrophes, and had known to pull back on the yoke.<br><br>3. Whether today’s near-disaster was terrorism or merely attempted mass murder depends on the attacker’s motive.<br><br>4. Checked baggage costs extra, but the experience of being a human shield while waiting in line is complimentary.<br><br>5. Although the Arab countries of the region have been allied as the Gulf Cooperation Council since 1981, that alliance proved useless as soon as the missiles and drones started flying.<br><br>6. This denial releases some pressure on Netanyahu without absolving his government of its failures."
+ },
+ "mindmap": {
+  "aria": "迪拜航空副驾驶刺伤机长事件思维导图",
+  "alt": "迪拜航空险情：174 人如何生还（矢量版）",
+  "svg": "<svg viewBox=\"0 0 960 720\" xmlns=\"http://www.w3.org/2000/svg\" role=\"img\" aria-label=\"迪拜航空副驾驶刺伤机长事件思维导图\" style=\"width:100%;height:auto;font-family:-apple-system,'PingFang SC','Hiragino Sans GB','Microsoft YaHei',sans-serif\">\n        <rect x=\"24\" y=\"306\" width=\"176\" height=\"88\" rx=\"14\" fill=\"#eae3d2\" stroke=\"#9a8f76\"/>\n        <text x=\"112\" y=\"342\" text-anchor=\"middle\" fill=\"#3d3a34\" font-size=\"17\" font-weight=\"700\">迪拜航空惊魂</text>\n        <text x=\"112\" y=\"368\" text-anchor=\"middle\" fill=\"#5c5648\" font-size=\"12.5\">一场险些成真的空难</text>\n\n        <path d=\"M200,350 C232,350 232,88 260,88\"  stroke=\"#6b8f71\" stroke-width=\"2\" fill=\"none\"/>\n        <path d=\"M200,350 C232,350 232,238 260,238\" stroke=\"#7d98ad\" stroke-width=\"2\" fill=\"none\"/>\n        <path d=\"M200,350 C232,350 232,433 260,433\" stroke=\"#bd7a6d\" stroke-width=\"2\" fill=\"none\"/>\n        <path d=\"M200,350 C232,350 232,628 260,628\" stroke=\"#9b86b3\" stroke-width=\"2\" fill=\"none\"/>\n\n        <g class=\"mm-branch\" data-target=\"bc1\">\n          <rect x=\"260\" y=\"71\" width=\"190\" height=\"34\" rx=\"8\" fill=\"#e6efe7\" stroke=\"#6b8f71\"/>\n          <text x=\"349\" y=\"93\" text-anchor=\"middle\" fill=\"#4c6b52\" font-size=\"15\" font-weight=\"700\">一人行凶，全机自救（¶1–2）</text>\n          <text class=\"mm-arrow\" data-for=\"bc1\" x=\"442\" y=\"93\" text-anchor=\"end\" fill=\"#4c6b52\">▾</text>\n        </g>\n        <g class=\"mm-children\" id=\"bc1\">\n          <path d=\"M450,88 C462,88 462,46 480,46\" stroke=\"#6b8f71\" stroke-width=\"1.5\" fill=\"none\"/>\n          <path d=\"M450,88 C462,88 462,88 480,88\" stroke=\"#6b8f71\" stroke-width=\"1.5\" fill=\"none\"/>\n          <path d=\"M450,88 C462,88 462,130 480,130\" stroke=\"#6b8f71\" stroke-width=\"1.5\" fill=\"none\"/>\n          <rect x=\"480\" y=\"30\" width=\"456\" height=\"32\" rx=\"8\" fill=\"#e6efe7\"/><text x=\"492\" y=\"51\" fill=\"#3d3a34\" font-size=\"14\">副驾驶刺伤机长，推杆把机头压向沙漠</text>\n          <rect x=\"480\" y=\"72\" width=\"456\" height=\"32\" rx=\"8\" fill=\"#e6efe7\"/><text x=\"492\" y=\"93\" fill=\"#3d3a34\" font-size=\"14\">两分钟骤降 17,000 英尺，手机与餐盘被按上天花板</text>\n          <rect x=\"480\" y=\"114\" width=\"456\" height=\"32\" rx=\"8\" fill=\"#e6efe7\"/><text x=\"492\" y=\"135\" fill=\"#3d3a34\" font-size=\"14\">乘客破门制服行凶者，替班飞行员迫降塔布克</text>\n        </g>\n\n        <g class=\"mm-branch\" data-target=\"bc2\">\n          <rect x=\"260\" y=\"221\" width=\"190\" height=\"34\" rx=\"8\" fill=\"#e5edf4\" stroke=\"#7d98ad\"/>\n          <text x=\"349\" y=\"243\" text-anchor=\"middle\" fill=\"#3d5872\" font-size=\"15\" font-weight=\"700\">公关灾难与脆弱航线（¶3–5）</text>\n          <text class=\"mm-arrow\" data-for=\"bc2\" x=\"442\" y=\"243\" text-anchor=\"end\" fill=\"#3d5872\">▾</text>\n        </g>\n        <g class=\"mm-children\" id=\"bc2\">\n          <path d=\"M450,238 C462,238 462,196 480,196\" stroke=\"#7d98ad\" stroke-width=\"1.5\" fill=\"none\"/>\n          <path d=\"M450,238 C462,238 462,238 480,238\" stroke=\"#7d98ad\" stroke-width=\"1.5\" fill=\"none\"/>\n          <path d=\"M450,238 C462,238 462,280 480,280\" stroke=\"#7d98ad\" stroke-width=\"1.5\" fill=\"none\"/>\n          <rect x=\"480\" y=\"180\" width=\"456\" height=\"32\" rx=\"8\" fill=\"#e5edf4\"/><text x=\"492\" y=\"201\" fill=\"#3d3a34\" font-size=\"14\">定性看动机：是恐袭，还是未遂的大规模谋杀</text>\n          <rect x=\"480\" y=\"222\" width=\"456\" height=\"32\" rx=\"8\" fill=\"#e5edf4\"/><text x=\"492\" y=\"243\" fill=\"#3d3a34\" font-size=\"14\">对迪拜航空是公关灭顶：Emirates 的廉价版表亲</text>\n          <rect x=\"480\" y=\"264\" width=\"456\" height=\"32\" rx=\"8\" fill=\"#e5edf4\"/><text x=\"492\" y=\"285\" fill=\"#3d3a34\" font-size=\"14\">El Al 与马汉柜台相邻，旅客互为“人肉盾牌”</text>\n        </g>\n\n        <g class=\"mm-branch\" data-target=\"bc3\">\n          <rect x=\"260\" y=\"416\" width=\"190\" height=\"34\" rx=\"8\" fill=\"#f4e7e4\" stroke=\"#bd7a6d\"/>\n          <text x=\"349\" y=\"438\" text-anchor=\"middle\" fill=\"#7c4a3e\" font-size=\"15\" font-weight=\"700\">盟友援手，预警疑云（¶6–8）</text>\n          <text class=\"mm-arrow\" data-for=\"bc3\" x=\"442\" y=\"438\" text-anchor=\"end\" fill=\"#7c4a3e\">▾</text>\n        </g>\n        <g class=\"mm-children\" id=\"bc3\">\n          <path d=\"M450,433 C462,433 462,391 480,391\" stroke=\"#bd7a6d\" stroke-width=\"1.5\" fill=\"none\"/>\n          <path d=\"M450,433 C462,433 462,433 480,433\" stroke=\"#bd7a6d\" stroke-width=\"1.5\" fill=\"none\"/>\n          <path d=\"M450,433 C462,433 462,475 480,475\" stroke=\"#bd7a6d\" stroke-width=\"1.5\" fill=\"none\"/>\n          <rect x=\"480\" y=\"375\" width=\"456\" height=\"32\" rx=\"8\" fill=\"#f4e7e4\"/><text x=\"492\" y=\"396\" fill=\"#3d3a34\" font-size=\"14\">海合会一遇导弹即失效，以色列反倒像盟友出手</text>\n          <rect x=\"480\" y=\"417\" width=\"456\" height=\"32\" rx=\"8\" fill=\"#f4e7e4\"/><text x=\"492\" y=\"438\" fill=\"#3d3a34\" font-size=\"14\">《国土报》称 MBZ 曾预警，重创内塔尼亚胡选情</text>\n          <rect x=\"480\" y=\"459\" width=\"456\" height=\"32\" rx=\"8\" fill=\"#f4e7e4\"/><text x=\"492\" y=\"480\" fill=\"#3d3a34\" font-size=\"14\">外长纽约“斩钉截铁”否认，却留了一道口子</text>\n        </g>\n\n        <g class=\"mm-branch\" data-target=\"bc4\">\n          <rect x=\"260\" y=\"611\" width=\"190\" height=\"34\" rx=\"8\" fill=\"#ece4f2\" stroke=\"#9b86b3\"/>\n          <text x=\"349\" y=\"633\" text-anchor=\"middle\" fill=\"#5a4670\" font-size=\"15\" font-weight=\"700\">动机迷雾与后患（¶9）</text>\n          <text class=\"mm-arrow\" data-for=\"bc4\" x=\"442\" y=\"633\" text-anchor=\"end\" fill=\"#5a4670\">▾</text>\n        </g>\n        <g class=\"mm-children\" id=\"bc4\">\n          <path d=\"M450,628 C462,628 462,586 480,586\" stroke=\"#9b86b3\" stroke-width=\"1.5\" fill=\"none\"/>\n          <path d=\"M450,628 C462,628 462,628 480,628\" stroke=\"#9b86b3\" stroke-width=\"1.5\" fill=\"none\"/>\n          <path d=\"M450,628 C462,628 462,670 480,670\" stroke=\"#9b86b3\" stroke-width=\"1.5\" fill=\"none\"/>\n          <rect x=\"480\" y=\"570\" width=\"456\" height=\"32\" rx=\"8\" fill=\"#ece4f2\"/><text x=\"492\" y=\"591\" fill=\"#3d3a34\" font-size=\"14\">副驾驶是阿曼公民，关键在他是否单独行动</text>\n          <rect x=\"480\" y=\"612\" width=\"456\" height=\"32\" rx=\"8\" fill=\"#ece4f2\"/><text x=\"492\" y=\"633\" fill=\"#3d3a34\" font-size=\"14\">有动机者不少：逊尼派圣战分子、哈马斯、伊朗</text>\n          <rect x=\"480\" y=\"654\" width=\"456\" height=\"32\" rx=\"8\" fill=\"#ece4f2\"/><text x=\"492\" y=\"675\" fill=\"#3d3a34\" font-size=\"14\">任一方牵涉其中，“Mayday 时刻”都将后患无穷</text>\n        </g>\n      </svg>",
+  "img": ""
+ }
+}

@@ -1,0 +1,347 @@
+{
+ "date": "2026-10-02",
+ "title_tag": "以前靠du品赚钱，现在靠黄金：犯罪集团为什么突然盯上了金矿？—— 英国《卫报》外刊讲解第1185天",
+ "h1": "以前靠du品赚钱，现在靠黄金：犯罪集团为什么突然盯上了金矿？",
+ "source_label": "The Guardian",
+ "category": "英国《卫报》外刊讲解 第1185天",
+ "read_minutes": 19,
+ "nav_hint": "How gold surpassed cocaine",
+ "headline": {
+  "en_html": "How gold <mark class=\"voc\">surpassed</mark> cocaine as Peru’s most profitable criminal industry",
+  "zh": "黄金如何超越可卡因，成为秘鲁最暴利的犯罪产业",
+  "notes": [
+   {
+    "w": "surpass",
+    "ipa": "/səˈpɑːs/",
+    "pos": "v.",
+    "en": "to be greater in amount, degree, or importance than something else",
+    "zh": "超过，超越",
+    "ctx": "在利润上超过、盖过（指黄金带来的非法收益已超越可卡因贩运，成为秘鲁最暴利的犯罪产业）",
+    "ex1": "The company's annual revenue surpassed $10 billion for the first time in its history. 该公司年收入首次突破100亿美元大关。",
+    "ex2": "Her performance in the final exam surpassed everyone's expectations. 她在期末考试中的表现超出了所有人的预期。"
+   }
+  ]
+ },
+ "paragraphs": [
+  {
+   "en_html": "“Halt, stop right there,” shouts a Peruvian Navy Seal, firing warning shots into the air. But the <mark class=\"voc\">fleeing</mark> man pays no attention, <mark class=\"voc\">scrambling up</mark> to the <mark class=\"voc\">rim</mark> of a <mark class=\"voc\">football pitch</mark>-sized <mark class=\"voc\">crater</mark> and disappearing into the dense rainforest as the <mark class=\"voc\">commandos</mark> <mark class=\"voc\">give chase</mark>, <mark class=\"voc\">swearing</mark> and shooting.",
+   "zh": "“站住，不许动！”一名秘鲁海军陆战队队员高声喝道，朝空中鸣枪示警。然而，那名逃窜的男子充耳不闻，手脚并用地爬上一个足球场大小的坑洞边缘，转瞬消失在茂密的雨林中。突击队员们骂骂咧咧，一边开枪一边紧追不舍。",
+   "notes": [
+    {
+     "w": "fleeing",
+     "ipa": "/ˈfliːɪŋ/",
+     "pos": "adj.",
+     "en": "running away from danger or a pursuer",
+     "zh": "逃跑的，逃离的",
+     "ctx": "正在逃窜的（描述那名不顾警告、拼命逃离抓捕的男子）",
+     "ex1": "Police finally caught the fleeing suspect after a three-hour chase. 经过三小时的追逐，警方终于抓住了那名逃窜的嫌疑人。",
+     "ex2": "Thousands of fleeing civilians crossed the border to seek refuge. 成千上万逃离的平民越过边境寻求避难。"
+    },
+    {
+     "w": "scramble up",
+     "ipa": "/ˈskræmbl ʌp/",
+     "pos": "phr. v.",
+     "en": "to climb or move up quickly and with difficulty, using both hands and feet",
+     "zh": "攀爬而上，手脚并用地爬上",
+     "ctx": "手脚并用地爬上坑洞边缘（形容逃窜者仓皇攀爬的狼狈姿态）",
+     "ex1": "The hikers scrambled up the rocky slope to reach the summit before sunset. 徒步者们手脚并用地爬上岩石斜坡，赶在日落前到达山顶。",
+     "ex2": "The children scrambled up the tree to get a better view of the parade. 孩子们手脚并用地爬上树，想更清楚地看游行。"
+    },
+    {
+     "w": "rim",
+     "ipa": "/rɪm/",
+     "pos": "n.",
+     "en": "the outer edge of a circular or curved object",
+     "zh": "边缘，边沿",
+     "ctx": "坑洞的边缘（指那个巨大矿坑的外沿）",
+     "ex1": "She stood at the rim of the Grand Canyon, speechless at the vastness before her. 她站在大峡谷的边缘，面对眼前的辽阔说不出话来。",
+     "ex2": "Coffee spilled over the rim of the cup onto the saucer. 咖啡从杯沿溢出，流到了碟子上。"
+    },
+    {
+     "w": "football pitch",
+     "ipa": "/ˈfʊtbɔːl pɪtʃ/",
+     "pos": "n.",
+     "en": "a field marked out for playing football; used as a unit of comparison for area",
+     "zh": "足球场",
+     "ctx": "足球场（作为面积参照，形容矿坑之大，约相当于一个足球场的面积）",
+     "ex1": "The new sports complex covers an area equivalent to three football pitches. 这座新体育中心的面积相当于三个足球场。",
+     "ex2": "A crowd of fans invaded the football pitch after the final whistle. 终场哨响后，一群球迷涌入了足球场。"
+    },
+    {
+     "w": "crater",
+     "ipa": "/ˈkreɪtə(r)/",
+     "pos": "n.",
+     "en": "a large bowl-shaped hole in the ground",
+     "zh": "坑洞，巨坑",
+     "ctx": "矿坑（指非法采矿留下的大型坑洞，积满死水）",
+     "ex1": "The meteor impact left a massive crater in the middle of the desert. 陨石撞击在沙漠中央留下了一个巨大的坑洞。",
+     "ex2": "The road was closed after a crater appeared following heavy rains. 暴雨过后路面出现了一个坑洞，道路随即封闭。"
+    },
+    {
+     "w": "commando",
+     "ipa": "/kəˈmɑːndəʊ/",
+     "pos": "n.",
+     "en": "a soldier specially trained for making quick, surprise attacks",
+     "zh": "突击队员，特种兵",
+     "ctx": "突击队员（指执行打击非法采矿任务的秘鲁海军陆战队特种兵）",
+     "ex1": "The commandos were dropped behind enemy lines under cover of darkness. 突击队员在夜色掩护下被空投到敌后。",
+     "ex2": "A team of commandos stormed the building and freed the hostages. 一队突击队员突袭了大楼，解救了人质。"
+    },
+    {
+     "w": "give chase",
+     "ipa": "/ɡɪv tʃeɪs/",
+     "pos": "phr.",
+     "en": "to run after someone or something in order to catch them",
+     "zh": "追赶，追击",
+     "ctx": "追捕（指突击队员对逃窜矿工的追击）",
+     "ex1": "The police gave chase on foot after the thief abandoned his car in the alley. 小偷在小巷里弃车而逃后，警察徒步追赶。",
+     "ex2": "The dog gave chase to the rabbit across the open field. 狗穿过开阔的田野追赶兔子。"
+    },
+    {
+     "w": "swear",
+     "ipa": "/sweə(r)/",
+     "pos": "v.",
+     "en": "to use offensive language, especially because of anger",
+     "zh": "咒骂，骂脏话",
+     "ctx": "骂骂咧咧（形容突击队员在追捕过程中因恼怒而口出脏话）",
+     "ex1": "He stubbed his toe on the door and swore loudly. 他的脚趾撞到了门上，大声骂了一句。",
+     "ex2": "The driver swore under his breath when the car broke down again. 车又抛锚了，司机低声咒骂了一句。"
+    }
+   ]
+  },
+  {
+   "en_html": "Meanwhile, other marines set <mark class=\"voc\">dynamite charges</mark> on a <mark class=\"voc\">makeshift</mark> wooden raft that floats in the crater, which is essentially an enormous <mark class=\"voc\">pit</mark> of <mark class=\"voc\">opaque</mark>, <mark class=\"voc\">stagnant</mark> water. The raft has a diesel-fuelled <mark class=\"voc\">suction pump</mark> motor with thick plastic tubing used to <mark class=\"voc\">suck up</mark> and <mark class=\"voc\">sift through</mark> river sediment for tiny particles of gold. Soon after, a mushroom of orange and black fumes <mark class=\"voc\">envelops</mark> the trees – and seconds later comes the sound of the explosion, <mark class=\"voc\">shattering the peace of</mark> the Tambopata National Reserve, one of Peru’s most prized Amazon parks.",
+   "zh": "与此同时，其他海军陆战队员在一个漂浮于坑洞中的简易木筏上安放了炸药。这个坑洞实质上是一个巨大的、蓄满浑浊死水的深坑。木筏上装着一台燃柴油的抽吸泵，拖着粗大的塑料软管，用来抽取河底沉积物并从中筛滤出细微的金粒。片刻之后，一团橙黑色的蘑菇云吞没了四周的树木——紧接着传来一声爆炸巨响，打破了坦博帕塔国家保护区的宁静。这里是秘鲁最珍贵的亚马逊公园之一。",
+   "notes": [
+    {
+     "w": "dynamite charge",
+     "ipa": "/ˈdaɪnəmaɪt tʃɑːdʒ/",
+     "pos": "n.",
+     "en": "an explosive device made with dynamite",
+     "zh": "炸药包，炸药装置",
+     "ctx": "炸药（指海军陆战队员安放在木筏上用于炸毁采矿设备的炸药）",
+     "ex1": "The construction crew used a dynamite charge to blast through the rock. 施工队用炸药炸开了岩石。",
+     "ex2": "Police discovered a dynamite charge hidden beneath the bridge. 警方发现桥下藏有一枚炸药装置。"
+    },
+    {
+     "w": "makeshift",
+     "ipa": "/ˈmeɪkʃɪft/",
+     "pos": "adj.",
+     "en": "made quickly and used temporarily because nothing better is available",
+     "zh": "临时凑合的，简易的",
+     "ctx": "简易的（指矿工用木头临时搭建的木筏，简陋而粗糙）",
+     "ex1": "The refugees built a makeshift shelter out of plastic sheets and branches. 难民们用塑料布和树枝搭了一个临时住所。",
+     "ex2": "The hospital set up a makeshift ward in the parking lot after the earthquake. 地震后，医院在停车场搭起了一个临时病房。"
+    },
+    {
+     "w": "pit",
+     "ipa": "/pɪt/",
+     "pos": "n.",
+     "en": "a large hole in the ground",
+     "zh": "深坑，大坑",
+     "ctx": "矿坑（指非法采矿挖出的巨大水坑）",
+     "ex1": "The workers dug a deep pit to dispose of the waste. 工人们挖了一个深坑来处理废物。",
+     "ex2": "The children were warned not to go near the abandoned pit. 孩子们被警告不要靠近那个废弃的深坑。"
+    },
+    {
+     "w": "opaque",
+     "ipa": "/əʊˈpeɪk/",
+     "pos": "adj.",
+     "en": "not able to be seen through; not transparent",
+     "zh": "不透明的，浑浊的",
+     "ctx": "浑浊的（形容矿坑中的水因泥沙混杂而完全不透明）",
+     "ex1": "The lake water was opaque with mud after the storm. 暴风雨过后，湖水因泥沙而变得浑浊不堪。",
+     "ex2": "The bathroom window is made of opaque glass to ensure privacy. 浴室的窗户用的是不透明玻璃，以保护隐私。"
+    },
+    {
+     "w": "stagnant",
+     "ipa": "/ˈstæɡnənt/",
+     "pos": "adj.",
+     "en": "(of water) not flowing or moving, often resulting in a bad smell",
+     "zh": "停滞的，不流动的",
+     "ctx": "死水般的（形容矿坑中积水不流动，成为一潭死水）",
+     "ex1": "Mosquitoes breed rapidly in stagnant water. 蚊子在死水中繁殖迅速。",
+     "ex2": "The stagnant pool behind the factory gave off a foul odor. 工厂后面的死水潭散发出恶臭。"
+    },
+    {
+     "w": "suction pump",
+     "ipa": "/ˈsʌkʃn pʌmp/",
+     "pos": "n.",
+     "en": "a pump that draws liquid or gas out of something by creating a vacuum",
+     "zh": "抽吸泵，真空泵",
+     "ctx": "抽吸泵（指矿工用于抽取河底沉积物的柴油动力泵）",
+     "ex1": "The firefighters used a suction pump to remove water from the flooded basement. 消防员用抽吸泵将地下室里的积水抽走。",
+     "ex2": "The suction pump failed, and the mine began to flood. 抽吸泵出了故障，矿井开始进水。"
+    },
+    {
+     "w": "suck up",
+     "ipa": "/sʌk ʌp/",
+     "pos": "phr. v.",
+     "en": "to draw liquid, gas, or other substance upward or inward",
+     "zh": "吸上来，抽取",
+     "ctx": "抽取（指用泵将河底含有金粒的沉积物吸上来）",
+     "ex1": "The vacuum cleaner sucks up dust and debris from the floor. 吸尘器将地板上的灰尘和碎屑吸走。",
+     "ex2": "The roots of the plant suck up water from deep in the soil. 植物的根系从土壤深处吸取水分。"
+    },
+    {
+     "w": "sift through",
+     "ipa": "/sɪft θruː/",
+     "pos": "phr. v.",
+     "en": "to examine something carefully in order to separate what is wanted from what is not",
+     "zh": "筛分，仔细筛选",
+     "ctx": "筛滤（指从河底沉积物中筛出细微的金粒）",
+     "ex1": "The archaeologists sifted through the soil for fragments of pottery. 考古学家在土壤中仔细筛找陶器碎片。",
+     "ex2": "She sifted through hundreds of applications to find the right candidate. 她仔细翻查了数百份申请，以找到合适的人选。"
+    },
+    {
+     "w": "envelop",
+     "ipa": "/ɪnˈveləp/",
+     "pos": "v.",
+     "en": "to cover or surround something completely",
+     "zh": "笼罩，包裹",
+     "ctx": "吞没、笼罩（指爆炸后的橙黑色浓烟将树木完全包裹）",
+     "ex1": "A thick fog enveloped the entire village at dawn. 黎明时分，浓雾笼罩了整个村庄。",
+     "ex2": "She was enveloped in a warm blanket by the fireplace. 她在壁炉旁被一条温暖的毯子裹着。"
+    },
+    {
+     "w": "shatter the peace of",
+     "ipa": "/ˈʃætə(r) ðə piːs ɒv/",
+     "pos": "phr.",
+     "en": "to violently break the quiet and calm of a place",
+     "zh": "打破……的宁静",
+     "ctx": "打破……的宁静（指爆炸声打破了坦博帕塔国家保护区的静谧）",
+     "ex1": "The sound of gunfire shattered the peace of the sleepy town. 枪声打破了这座宁静小镇的安宁。",
+     "ex2": "A sudden scream shattered the peace of the quiet library. 一声突如其来的尖叫打破了图书馆的宁静。"
+    }
+   ]
+  },
+  {
+   "en_html": "In total, more than 140,000 hectares have been lost to mining in Madre de Dios – a shocking 97.5% of the total <mark class=\"voc\">deforestation</mark> caused by mining in Peru’s Amazon rainforest, an area twice the size of the US state of California.",
+   "zh": "在马德雷德迪奥斯地区，因采矿而丧失的土地总面积已超过14万公顷——占秘鲁亚马逊雨林采矿毁林总量的97.5%，触目惊心。这片面积相当于美国加利福尼亚州的两倍。",
+   "notes": [
+    {
+     "w": "deforestation",
+     "ipa": "/ˌdiːˌfɒrɪˈsteɪʃn/",
+     "pos": "n.",
+     "en": "the cutting down or removal of forests over a large area",
+     "zh": "毁林，森林砍伐",
+     "ctx": "毁林（指非法采矿导致的大面积雨林被砍伐破坏）",
+     "ex1": "Deforestation in the Amazon has reached alarming levels in recent years. 近年来，亚马逊地区的毁林速度已达到令人震惊的程度。",
+     "ex2": "The government launched a campaign to combat illegal deforestation. 政府发起了一场打击非法毁林的运动。"
+    }
+   ]
+  },
+  {
+   "en_html": "Military <mark class=\"voc\">crackdowns</mark> on illegal mining in the Amazon are not new in Peru. But the <mark class=\"voc\">skyrocketing</mark> international price of gold has caused this destructive activity to spread, empowering local gangs and attracting transnational organised crime. “Dirty” gold has become the country’s most profitable <mark class=\"voc\">illicit</mark> industry, even surpassing drug <mark class=\"voc\">trafficking</mark> in the world’s second-biggest producer of cocaine after Colombia. “Gold prices have risen,” said Gen Víctor Cotrina, the military commander of Madre de Dios, who is leading the crackdown on illegal gold mining. “That’s why, if a miner’s motor is destroyed, he’ll replace it quickly because gold is at its peak price; the very next day he’s back to his mining activities. He’s back at work again.”",
+   "zh": "秘鲁在亚马逊地区对非法采矿实施军事打击，并非新鲜事。但国际金价的飙升使这一破坏性活动不断蔓延，壮大了当地黑帮的势力，也吸引了跨国有组织犯罪集团。“脏金”已成为该国最暴利的非法产业，甚至超过了毒品走私——而秘鲁是全球第二大可卡因生产国，仅次于哥伦比亚。“金价涨了，”马德雷德迪奥斯军区司令维克托·科特里纳将军说，他正领导打击非法采金的行动。“所以，如果一个矿工的机器被毁了，他会很快再买一台，因为金价正处于巅峰。第二天他就回去接着干了。他又开工了。”",
+   "notes": [
+    {
+     "w": "crackdown",
+     "ipa": "/ˈkrækdaʊn/",
+     "pos": "n.",
+     "en": "severe action taken to restrict or punish a particular activity",
+     "zh": "打击，镇压，严厉取缔",
+     "ctx": "打击行动（指秘鲁军方对非法采矿的军事打击）",
+     "ex1": "The government announced a crackdown on tax evasion. 政府宣布对逃税行为进行严厉打击。",
+     "ex2": "The police crackdown on illegal gambling led to dozens of arrests. 警方对非法赌博的打击导致数十人被捕。"
+    },
+    {
+     "w": "skyrocketing",
+     "ipa": "/ˈskaɪrɒkɪtɪŋ/",
+     "pos": "adj.",
+     "en": "rising very quickly to a very high level",
+     "zh": "飞涨的，飙升的",
+     "ctx": "飞涨的（形容国际金价急剧攀升，助长了非法采矿的蔓延）",
+     "ex1": "Skyrocketing housing prices have made it impossible for young people to buy homes. 飞涨的房价使年轻人无法购房。",
+     "ex2": "The skyrocketing cost of healthcare is a major concern for many families. 医疗费用的飙升是许多家庭的主要忧虑。"
+    },
+    {
+     "w": "illicit",
+     "ipa": "/ɪˈlɪsɪt/",
+     "pos": "adj.",
+     "en": "not allowed by law; illegal",
+     "zh": "非法的，违禁的",
+     "ctx": "非法的（指“脏金”已成为秘鲁最暴利的非法产业）",
+     "ex1": "The police seized a large quantity of illicit goods at the border. 警方在边境查获了大量非法货物。",
+     "ex2": "He was arrested for his involvement in illicit drug trade. 他因参与非法毒品交易而被捕。"
+    },
+    {
+     "w": "trafficking",
+     "ipa": "/ˈtræfɪkɪŋ/",
+     "pos": "n.",
+     "en": "the illegal buying and selling of goods, especially drugs or people",
+     "zh": "非法交易，贩运",
+     "ctx": "贩运（指毒品走私，黄金的非法利润已超过毒品贩运）",
+     "ex1": "International cooperation is essential to combat human trafficking. 打击人口贩运需要国际合作。",
+     "ex2": "The gang was involved in drug trafficking across several countries. 该团伙参与了跨多国的毒品贩运。"
+    }
+   ]
+  },
+  {
+   "en_html": "For troops used to <mark class=\"voc\">combating</mark> drug trafficking by targeting well-hidden <mark class=\"voc\">plantations</mark> of coca, which is used to make cocaine, the fight against illegal gold presents new challenges as the end product is not an illicit drug but a legally traded commodity, Cotrina said. “The difference is that an <mark class=\"voc\">open-pit</mark> mining operation doesn’t require <mark class=\"voc\">covert</mark> operations, whereas drug trafficking does.” He said previous anti-mining crackdowns had been ineffective due to corruption and <mark class=\"voc\">patchy</mark> enforcement. But now, with “<mark class=\"voc\">aerial</mark> surveillance and military personnel who are available 24/7 to conduct patrols, we are determined to eliminate mining in this region”.",
+   "zh": "科特里纳说，对于习惯以隐蔽的古柯种植园为打击目标来缉毒的部队而言，打击非法采金带来了全新的挑战，因为其最终产品不是违禁毒品，而是一种合法交易的商品。“区别在于，露天采矿不需要秘密行动，而贩毒则需要。”他说，此前的反采矿行动因腐败和执法不力而收效甚微。但现在，凭借“空中侦察和全天候待命执行巡逻的军事人员，我们决心彻底根除这一地区的采矿活动”。",
+   "notes": [
+    {
+     "w": "combat",
+     "ipa": "/ˈkɒmbæt/",
+     "pos": "v.",
+     "en": "to try to stop or prevent something bad from happening",
+     "zh": "打击，对抗",
+     "ctx": "打击（指部队习惯于通过打击古柯种植园来缉毒）",
+     "ex1": "The government has pledged more resources to combat climate change. 政府承诺投入更多资源应对气候变化。",
+     "ex2": "New measures were introduced to combat cybercrime. 出台了新措施以打击网络犯罪。"
+    },
+    {
+     "w": "plantation",
+     "ipa": "/plɑːnˈteɪʃn/",
+     "pos": "n.",
+     "en": "a large area of land where crops are grown, especially in tropical countries",
+     "zh": "种植园",
+     "ctx": "种植园（指用于制造可卡因的古柯种植园，通常隐蔽在丛林中）",
+     "ex1": "Thousands of workers were employed on the banana plantation. 数千名工人受雇于香蕉种植园。",
+     "ex2": "The coffee plantation stretches across the hillside. 咖啡种植园绵延整个山坡。"
+    },
+    {
+     "w": "open-pit",
+     "ipa": "/ˈəʊpən pɪt/",
+     "pos": "adj.",
+     "en": "relating to a type of mining in which the surface of the ground is excavated",
+     "zh": "露天开采的",
+     "ctx": "露天开采的（指非法采金为露天作业，无需像贩毒那样隐蔽）",
+     "ex1": "The open-pit mine has scarred the landscape for miles around. 露天矿在周围数英里的地貌上留下了疤痕。",
+     "ex2": "Open-pit mining is cheaper but far more damaging to the environment. 露天采矿成本更低，但对环境的破坏要大得多。"
+    },
+    {
+     "w": "covert",
+     "ipa": "/ˈkʌvət/",
+     "pos": "adj.",
+     "en": "not done openly; secret or hidden",
+     "zh": "隐蔽的，秘密的",
+     "ctx": "隐蔽的（指贩毒需要秘密进行，而露天采矿则不需要）",
+     "ex1": "The agency carried out a covert operation to gather intelligence. 该机构执行了一次秘密行动以收集情报。",
+     "ex2": "He was accused of making covert payments to government officials. 他被指控向政府官员秘密付款。"
+    },
+    {
+     "w": "patchy",
+     "ipa": "/ˈpætʃi/",
+     "pos": "adj.",
+     "en": "not complete or consistent; happening in some places but not others",
+     "zh": "零散的，不全面的",
+     "ctx": "时断时续的、不到位的（指执法不力，打击行动零散而不彻底）",
+     "ex1": "The rainfall has been patchy this season, with some areas receiving none at all. 这个季节降雨分布不均，有些地区完全没有降雨。",
+     "ex2": "Her attendance at school was patchy due to frequent illness. 由于经常生病，她上学的出勤时断时续。"
+    },
+    {
+     "w": "aerial",
+     "ipa": "/ˈeəriəl/",
+     "pos": "adj.",
+     "en": "relating to the air or done from the air",
+     "zh": "空中的，航空的",
+     "ctx": "空中的（指利用空中侦察来监控非法采矿活动）",
+     "ex1": "Aerial photographs revealed the extent of the flood damage. 航拍照片揭示了洪灾的破坏程度。",
+     "ex2": "The military conducted aerial surveillance along the border. 军方沿边境进行了空中侦察。"
+    }
+   ]
+  }
+ ]
+}

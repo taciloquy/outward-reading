@@ -1,0 +1,237 @@
+{
+ "date": "2026-10-04",
+ "title_tag": "AI抢走工作以后，更麻烦的问题来了：政府以后靠谁交税？—— 英国《经济学人》外刊讲解第1187天",
+ "h1": "AI抢走工作以后，更麻烦的问题来了：政府以后靠谁交税？",
+ "source_label": "The Economist",
+ "category": "英国《经济学人》外刊讲解 第1187天",
+ "read_minutes": 20,
+ "nav_hint": "A hurricane is coming to tax systems",
+ "headline": {
+  "en_html": "<span>A <mark class=\"voc\">hurricane</mark> is coming to tax systems</span>",
+  "zh": "飓风将至：全球税收体系面临大考",
+  "notes": [
+   {
+    "w": "hurricane",
+    "ipa": "/ˈhʌrɪkən/",
+    "pos": "n.",
+    "en": "a violent storm with extremely strong winds, used figuratively to describe a powerful and destructive force or crisis",
+    "zh": "飓风；（比喻）巨大冲击，灾难性力量",
+    "ctx": "飓风登陆的意象——猛烈、破坏性、迫在眉睫，用来形容 AI 与财政压力合流后砸向全球税收体系的这场冲击。",
+    "ex1": "The new regulations hit the tech industry like a hurricane, forcing companies to rethink their entire business models. 新法规如飓风般冲击科技行业，迫使企业重新思考整个商业模式。",
+    "ex2": "Economists warn that an aging population will be a demographic hurricane for public finances in the coming decades. 经济学家警告，人口老龄化将在未来几十年成为公共财政的人口飓风。"
+   }
+  ]
+ },
+ "paragraphs": [
+  {
+   "en_html": "THE YIELD on ten-year US Treasuries has <mark class=\"voc\">charged through</mark> the 5% barrier. The spread between French government bonds and German Bunds is at levels not seen since the euro-zone crisis in 2012. Britain’s newish prime minister has this week set out a plan for spending <mark class=\"voc\">bolstered</mark> by a <mark class=\"voc\">taboo-busting</mark> promise to <mark class=\"voc\">curb</mark> state-pension increases—and yet is still in a fiscal <mark class=\"voc\">pickle</mark>. Across the rich world, countries are struggling to <mark class=\"voc\">coax</mark> more growth out of their economies. And that’s not the worst of it. As we explain this week, the tax base in all countries, which depends heavily on taxing labour, may be upended by artificial intelligence.",
+   "zh": "美国十年期国债收益率已突破5%大关。法国国债与德国国债的利差，已攀升至2012年欧债危机以来的最高水平。英国新首相本周公布了一份支出计划，以打破禁忌的承诺——限制国家养老金增幅——为支撑，却依然深陷财政泥潭。放眼整个富裕世界，各国都在苦苦挣扎，试图从经济中挤出更多增长。然而，这还不是最糟糕的。正如本周我们所阐释的，所有国家的税基——严重依赖劳动所得税——可能将被人工智能彻底颠覆。",
+   "notes": [
+    {
+     "w": "charge through",
+     "ipa": "/tʃɑːdʒ θruː/",
+     "pos": "phr. v.",
+     "en": "to move through something rapidly and forcefully, breaking past a limit or barrier",
+     "zh": "冲破，突破，快速穿越",
+     "ctx": "不是慢慢爬，是硬生生冲破 5% 这道关口，charge 自带一股猛冲的劲儿。",
+     "ex1": "The company’s stock charged through the $500 mark after the earnings report. 财报发布后，该公司股价一举突破500美元大关。",
+     "ex2": "Inflation has charged through the central bank’s target, forcing policymakers to raise interest rates. 通胀已冲破央行目标，迫使决策者加息。"
+    },
+    {
+     "w": "bolstered",
+     "ipa": "/ˈbəʊlstəd/",
+     "pos": "v. (past participle)",
+     "en": "supported, strengthened, or reinforced",
+     "zh": "支撑，加强，提振",
+     "ctx": "支出计划背后唯一的支点，是“砍养老金涨幅”这个政治上很冒险的承诺。",
+     "ex1": "Consumer spending was bolstered by strong wage growth and low unemployment. 消费者支出受到强劲工资增长和低失业率的提振。",
+     "ex2": "The team’s confidence was bolstered by a series of early victories. 一系列早期胜利增强了团队的信心。"
+    },
+    {
+     "w": "taboo-busting",
+     "ipa": "/təˈbuː bʌstɪŋ/",
+     "pos": "adj.",
+     "en": "challenging or breaking long-standing social or political prohibitions",
+     "zh": "打破禁忌的，破除 taboo 的",
+     "ctx": "养老金涨幅在英国是碰不得的政治禁区，敢动它，就是打破禁忌。",
+     "ex1": "The chancellor’s taboo-busting decision to raise tuition fees sparked widespread protests. 财政大臣打破禁忌提高学费的决定引发了广泛抗议。",
+     "ex2": "It took a taboo-busting leader to finally reform the country’s generous pension system. 需要一位敢于打破禁忌的领导人才能最终改革该国慷慨的养老金制度。"
+    },
+    {
+     "w": "curb",
+     "ipa": "/kɜːb/",
+     "pos": "v.",
+     "en": "to restrain or keep something under control; to limit",
+     "zh": "遏制，限制，控制",
+     "ctx": "政府想给养老金支出的增速踩一脚刹车。",
+     "ex1": "The government introduced new measures to curb speculative buying in the housing market. 政府出台新措施以遏制房地产市场的投机性购买。",
+     "ex2": "Central banks worldwide are trying to curb inflation without triggering a recession. 全球央行正试图在不引发衰退的情况下遏制通胀。"
+    },
+    {
+     "w": "pickle",
+     "ipa": "/ˈpɪkl/",
+     "pos": "n.",
+     "en": "a difficult or unpleasant situation; a predicament",
+     "zh": "困境，窘境",
+     "ctx": "in a fiscal pickle——钱不够、又没退路的那种财政窘境。",
+     "ex1": "The company found itself in a pickle after its biggest client went bankrupt. 该公司在最大客户破产后陷入了困境。",
+     "ex2": "Rising debt and sluggish growth have left many governments in a fiscal pickle. 债务攀升和增长乏力使许多政府陷入财政困境。"
+    },
+    {
+     "w": "coax",
+     "ipa": "/kəʊks/",
+     "pos": "v.",
+     "en": "to persuade someone or something gradually and gently to do something; to obtain something with difficulty",
+     "zh": "劝诱，诱使；费力地获取",
+     "ctx": "coax out of 强调“哄”和“费劲”：增长不是等来的，是从经济里一点点挤出来的。",
+     "ex1": "Policymakers are trying to coax consumers back into spending after the crisis. 决策者正试图在危机后诱使消费者重新消费。",
+     "ex2": "The government has struggled to coax more productivity out of its aging workforce. 政府一直难以从其老龄化劳动力中挤出更多生产率。"
+    }
+   ]
+  },
+  {
+   "en_html": "Add these problems together, and it is as if a mighty hurricane were about to hit the rich world’s tax systems—which are hopelessly unprepared. The way the state raises money is wasteful, unfair and <mark class=\"voc\">perverse</mark>. You would have thought governments would be scrambling to strengthen the system before the hurricane makes <mark class=\"voc\">landfall</mark>, but as ever they are running away from tax reform instead.",
+   "zh": "将这些问题叠加在一起，就仿佛一场猛烈的飓风即将袭击富裕世界的税收体系——而这些体系却毫无准备，令人绝望。国家筹集资金的方式，既浪费，又不公，还扭曲。你或许以为各国政府会在飓风登陆前争先恐后地加固体系，但一如往常，他们非但不改革税制，反而避之唯恐不及。",
+   "notes": [
+    {
+     "w": "perverse",
+     "ipa": "/pəˈvɜːs/",
+     "pos": "adj.",
+     "en": "contrary to what is expected or desired; having an undesirable or harmful effect",
+     "zh": "有悖常理的，扭曲的，适得其反的",
+     "ctx": "本意是鼓励，结果却在惩罚本该被鼓励的行为——这就是扭曲的激励。",
+     "ex1": "The welfare system creates perverse incentives for people to remain unemployed. 福利制度制造了让人们保持失业的扭曲激励。",
+     "ex2": "It seems perverse that the hardest workers are penalized by the tax code. 最勤奋的劳动者反而受到税法的惩罚，这似乎有悖常理。"
+    },
+    {
+     "w": "landfall",
+     "ipa": "/ˈlændfɔːl/",
+     "pos": "n.",
+     "en": "the moment a storm reaches land after traveling over water",
+     "zh": "（飓风等）登陆",
+     "ctx": "飓风真正上岸的那一刻，比喻税收危机从预警变成现实。",
+     "ex1": "The hurricane made landfall on the coast early this morning, causing widespread damage. 飓风于今天清晨在海岸登陆，造成大面积破坏。",
+     "ex2": "By the time the crisis made landfall, it was already too late to prepare. 当危机正式袭来时，准备已经太晚了。"
+    }
+   ]
+  },
+  {
+   "en_html": "The accumulated flaws of modern tax systems are so <mark class=\"voc\">ubiquitous</mark> that they have become part of the economic <mark class=\"voc\">backdrop</mark>. Taxes are full of needless complexity. In Germany the rate of value-added tax (VAT) on oat milk is more than double that on cow’s milk, for example. Such widespread special treatment has ruinous fiscal consequences. Across the OECD, a club of mostly rich countries, consumption taxes raise only 58% of what they could if there were no <mark class=\"voc\">carve-outs</mark> and no <mark class=\"voc\">evasion</mark>.",
+   "zh": "现代税收体系的积弊无处不在，早已成为经济背景的一部分。税制充斥着无谓的复杂性。譬如在德国，燕麦奶的增值税税率是牛奶的两倍多。如此普遍的特殊待遇，带来了灾难性的财政后果。在经合组织——一个以富裕国家为主的俱乐部——中，消费税的收入仅为理论潜在收入的58%，而这还是在没有豁免、没有逃税的理想情况下。",
+   "notes": [
+    {
+     "w": "ubiquitous",
+     "ipa": "/juːˈbɪkwɪtəs/",
+     "pos": "adj.",
+     "en": "present or found everywhere; very common",
+     "zh": "无处不在的，普遍存在的",
+     "ctx": "到处都是、已经没人再拿它当问题，积弊彻底成了背景板。",
+     "ex1": "Smartphones have become ubiquitous in modern society. 智能手机在现代社会已无处不在。",
+     "ex2": "Corruption was so ubiquitous that it was seen as a normal part of doing business. 腐败无处不在，以至于被视为经商的正常组成部分。"
+    },
+    {
+     "w": "backdrop",
+     "ipa": "/ˈbækdrɒp/",
+     "pos": "n.",
+     "en": "the general situation or setting in which something happens",
+     "zh": "背景，大环境",
+     "ctx": "舞台后景，指这些缺陷已经构成经济运行中不被注意的底色。",
+     "ex1": "The talks took place against the backdrop of rising geopolitical tensions. 会谈在地缘政治紧张加剧的背景下举行。",
+     "ex2": "These problems have become part of the economic backdrop that policymakers no longer question. 这些问题已成为决策者不再质疑的经济背景的一部分。"
+    },
+    {
+     "w": "carve-out",
+     "ipa": "/ˈkɑːv aʊt/",
+     "pos": "n.",
+     "en": "an exception or special exemption from a general rule or policy",
+     "zh": "豁免，例外条款",
+     "ctx": "税法上一个个“挖走”税基的例外口子。",
+     "ex1": "The bill was criticized for containing too many carve-outs for special interests. 该法案因包含太多为特殊利益集团设置的豁免条款而受到批评。",
+     "ex2": "Every carve-out in the tax code narrows the base and forces higher rates on everyone else. 税法中的每一项豁免都缩小了税基，迫使其他人承担更高税率。"
+    },
+    {
+     "w": "evasion",
+     "ipa": "/ɪˈveɪʒn/",
+     "pos": "n.",
+     "en": "the act of avoiding something, especially paying taxes, in an illegal or deceptive way",
+     "zh": "逃避，逃税",
+     "ctx": "与 carve-out 并列：一个合法挖洞、一个非法逃漏，合力把消费税收入压到潜在水平的六成不到。",
+     "ex1": "The government launched a crackdown on tax evasion by wealthy individuals. 政府发起了对富人逃税的打击行动。",
+     "ex2": "Evasion remains difficult to measure because successful evaders are never caught. 逃税仍然难以衡量，因为成功的逃税者永远不会被抓住。"
+    }
+   ]
+  },
+  {
+   "en_html": "Tax systems also create perverse incentives. When a parent in Britain increases their net income from £99,999 ($131,500) to £100,000, they automatically lose free child care worth thousands of pounds. This can prompt some of Britain’s most productive workers to cut their hours or <mark class=\"voc\">overstuff</mark> their <mark class=\"voc\">pensions</mark>.",
+   "zh": "税收体系还制造了扭曲的激励。在英国，当一位家长将净收入从99,999英镑（约合131,500美元）提高到100,000英镑时，他会自动失去价值数千英镑的免费育儿福利。这可能促使英国一些最高产的劳动者减少工时，或过度缴纳养老金。",
+   "notes": [
+    {
+     "w": "overstuff",
+     "ipa": "/ˌəʊvəˈstʌf/",
+     "pos": "v.",
+     "en": "to fill something with more than it can comfortably hold; to put too much into something",
+     "zh": "过度填充，塞得过满",
+     "ctx": "把养老金账户塞到超出需要的程度，只为躲开 10 万英镑那道悬崖。",
+     "ex1": "He overstuffed his suitcase and couldn’t close it. 他把行李箱塞得太满，合不上了。",
+     "ex2": "Higher earners often overstuff their pension pots to avoid losing child benefit. 高收入者常常超额缴纳养老金，以避免失去儿童福利。"
+    },
+    {
+     "w": "pension",
+     "ipa": "/ˈpenʃn/",
+     "pos": "n.",
+     "en": "a regular payment made to a person after they retire, or the fund from which such payments are made",
+     "zh": "养老金，退休金",
+     "ctx": "本文里不是中性的“退休金”，而是高收入者用来合法避税的容器。",
+     "ex1": "Many workers are worried they won’t have enough pension savings to retire comfortably. 许多劳动者担心自己没有足够的养老金储蓄来舒适退休。",
+     "ex2": "The government offers tax relief on pension contributions to encourage saving for retirement. 政府为养老金缴款提供税收减免，以鼓励为退休储蓄。"
+    }
+   ]
+  },
+  {
+   "en_html": "And taxes are widely seen as unfair. In Britain the <mark class=\"voc\">median</mark> employee pays 55% more tax than their self-employed <mark class=\"voc\">counterparts</mark>. Many people feel the rich aren’t doing their bit. In California voters will decide in November whether to charge a <mark class=\"voc\">one-off</mark> 5% levy on residents with wealth of over $1bn. No one knows when the fiscal weather will turn. But rapid advances in AI could accelerate matters. Taxes on labour are the <mark class=\"voc\">workhorse</mark> of most tax systems worldwide, raising around half of all revenue in the OECD. In the coming years AI could well displace workers or cut their wages even as corporate profits rise, shrinking labour’s share of GDP. This in turn could reduce revenues and increase benefits payments, making deficits even harder to support.",
+   "zh": "此外，税收被普遍视为不公。在英国，普通雇员的纳税额比同等收入的自雇人士高出55%。许多人觉得富人们没有尽到自己的本分。今年11月，加利福尼亚州的选民将决定是否对财富超过10亿美元的居民征收一次性5%的税。没有人知道财政风暴何时来临。但人工智能的飞速发展可能加速这一切。劳动所得税是全球大多数税收体系的顶梁柱，在经合组织国家中贡献了约一半的财政收入。未来几年，人工智能很可能取代工人或压低其工资，即便企业利润上升，劳动收入占GDP的比重也将随之缩水。这反过来又会减少税收、增加福利支出，使赤字更加难以为继。",
+   "notes": [
+    {
+     "w": "median",
+     "ipa": "/ˈmiːdiən/",
+     "pos": "adj.",
+     "en": "relating to the middle value in a set of numbers when they are arranged in order; typical or average",
+     "zh": "中位数的，中等的",
+     "ctx": "取中位数而非平均数，说的是“典型的那一个”普通雇员。",
+     "ex1": "The median household income in the city rose by 3% last year. 该市家庭收入中位数去年上涨了3%。",
+     "ex2": "The median worker pays a higher effective tax rate than the richest billionaires. 中位数劳动者支付的有效税率高于最富有的亿万富翁。"
+    },
+    {
+     "w": "counterpart",
+     "ipa": "/ˈkaʊntəpɑːt/",
+     "pos": "n.",
+     "en": "a person or thing that has the same function or characteristics as another in a different place or situation",
+     "zh": "对应的人（或事物），同等身份者",
+     "ctx": "同等收入、身份对应的另一类人——这里是自雇人士。",
+     "ex1": "The British prime minister met with her French counterpart in Paris. 英国首相在巴黎会见了她的法国同行。",
+     "ex2": "Self-employed workers often pay less tax than their employed counterparts. 自雇人士通常比受雇的同行缴税更少。"
+    },
+    {
+     "w": "one-off",
+     "ipa": "/ˌwʌn ˈɒf/",
+     "pos": "adj.",
+     "en": "happening or done only once; not repeated",
+     "zh": "一次性的",
+     "ctx": "只收一次、不再重复，这正是加州那 5% 财富税的性质。",
+     "ex1": "The company reported a one-off charge related to the restructuring. 公司报告了一笔与重组相关的一次性费用。",
+     "ex2": "The government introduced a one-off levy on excessive profits. 政府推出了一项对超额利润的一次性征税。"
+    },
+    {
+     "w": "workhorse",
+     "ipa": "/ˈwɜːkhɔːs/",
+     "pos": "n.",
+     "en": "a person or thing that does a large amount of hard, routine work; the mainstay of something",
+     "zh": "主力，顶梁柱；吃苦耐劳的人（或物）",
+     "ctx": "干活最多、最吃苦的那头牲口，指劳动所得税撑起全球税收的半壁江山。",
+     "ex1": "The pickup truck is the workhorse of American agriculture. 皮卡是美国农业的主力军。",
+     "ex2": "Payroll taxes are the workhorse of the federal revenue system. 工资税是联邦税收体系的顶梁柱。"
+    }
+   ]
+  }
+ ]
+}

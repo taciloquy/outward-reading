@@ -1,0 +1,559 @@
+{
+ "paragraphs": [
+  {
+   "en_html": "The launch this morning was both <mark class=\"voc\">imperfect</mark> and <mark class=\"voc\">stripped down</mark> to its orbital <mark class=\"voc\">essentials</mark>. On the way up, one of the Starship’s six engines <mark class=\"voc\">failed to burn properly</mark>, requiring the other engines to <mark class=\"voc\">compensate for</mark> the missing <mark class=\"voc\">thrust</mark> to get the ship in orbit.",
+   "zh": "今天上午这次发射，既算不上完美，也被削减到了只保留入轨所必需的那些动作。上升途中，星舰六台发动机中的一台未能正常点火，只能由其余几台补上缺掉的推力，硬把飞船送进了轨道。",
+   "notes": [
+    {
+     "w": "imperfect",
+     "ipa": "/ɪmˈpɜːrfɪkt/",
+     "pos": "adj.",
+     "en": "imperfect means having faults or flaws, not complete or ideal",
+     "zh": "不完美的，有瑕疵的",
+     "ctx": "im- 表否定加 perfect：这次发射一台发动机没能正常工作，所以算不上完美，但仍算成功。",
+     "ex1": "It is an imperfect solution, but it buys the team another quarter. 这是个不完美的方案，但能为团队争取到又一个季度。",
+     "ex2": "Markets price assets under imperfect information all the time. 市场无时无刻不在信息不完全的条件下为资产定价。"
+    },
+    {
+     "w": "stripped down",
+     "ipa": "/strɪpt daʊn/",
+     "pos": "adj.",
+     "en": "stripped down means reduced to only the most basic and necessary parts",
+     "zh": "精简到最低限度的",
+     "ctx": "strip 是剥、脱，本义“把外层全扒掉”：这次任务砍掉了筷子回收等一切非必要动作，只保留“能入轨”一个目标。",
+     "ex1": "They shipped a stripped-down version first and added features later. 他们先发布了精简版，功能是后来才补上的。",
+     "ex2": "The proposal was stripped down to its essentials before it went to the board. 这份方案在提交董事会之前被精简到了只剩要点。"
+    },
+    {
+     "w": "essentials",
+     "ipa": "/ɪˈsenʃlz/",
+     "pos": "n.（复数）",
+     "en": "essentials means the most basic and necessary elements of something",
+     "zh": "基本要素，必需品",
+     "ctx": "essence 是本质，指少不了的底线部分：这次飞行只保留了“入轨”必需的那几个环节。",
+     "ex1": "Pack the bare essentials; the flight allows only one small bag. 只带最基本的必需品，这趟航班只允许带一个小包。",
+     "ex2": "Strip out the jargon and the essentials of the deal fit on one page. 把行话去掉，这笔交易的要点一页纸就写得下。"
+    },
+    {
+     "w": "fail to do",
+     "ipa": "/feɪl tə duː/",
+     "pos": "固定短语",
+     "en": "fail to do something means not to do it, whether through inability or omission",
+     "zh": "未能（做某事）",
+     "ctx": "中性叙述，只表示“没能做到”，不必然带“失败”的责备意味：六台发动机中有一台未能正常点火工作。",
+     "ex1": "The report fails to mention who signed off on the change. 这份报告没有提到是谁批准了这项改动。",
+     "ex2": "The rebound investors expected simply failed to materialize. 投资者期待的反弹根本没有出现。"
+    },
+    {
+     "w": "compensate for",
+     "ipa": "/ˈkɑːmpenseɪt fɔːr/",
+     "pos": "固定短语",
+     "en": "compensate for something means to provide something good to balance or make up for a loss or lack",
+     "zh": "弥补，补偿",
+     "ctx": "com 一起加 pensare 称重，本义“把天平两端配平”：一台发动机没点着火，其余几台加大输出，把缺的推力补回来（名词 compensation 见 compensation package、workers’ compensation）。",
+     "ex1": "Higher volumes more than compensated for the thinner margins. 销量上升带来的收益，绰绰有余地弥补了变薄的利润率。",
+     "ex2": "Passengers were compensated for the delay with vouchers rather than cash. 乘客因延误获得的补偿是代金券而非现金。"
+    },
+    {
+     "w": "thrust",
+     "ipa": "/θrʌst/",
+     "pos": "n.",
+     "en": "thrust (n.) means the forward force produced by an engine to push a vehicle",
+     "zh": "推力",
+     "ctx": "本义“猛推的那股力”，这里指一台发动机熄火后缺掉的那份推力。",
+     "ex1": "A brief loss of thrust on one side sent the vehicle into a slow roll. 一侧短暂失去推力，让飞行器进入了缓慢的滚转。",
+     "ex2": "The upgraded engines produce about 8% more thrust at sea level. 升级后的发动机在海平面上的推力提高了约 8%。"
+    }
+   ]
+  },
+  {
+   "en_html": "In addition, the return to Earth was <mark class=\"voc\">simplified</mark>. Starship’s first stage, meantime, performs what has become known as a <mark class=\"voc\">chopstick</mark> <mark class=\"voc\">recovery</mark>, with the booster <mark class=\"voc\">navigating</mark> its way back to the launch tower where two giant metal arms <mark class=\"voc\">pluck</mark> it from the sky. For the current mission, the chopstick recovery was <mark class=\"voc\">done away with</mark> to simplify the flight <mark class=\"voc\">objectives</mark>; instead the first stage made a soft, engine-assisted <mark class=\"voc\">splashdown</mark> in the Gulf of Mexico. The Starship spacecraft was planned for a six-orbit, 10-hour mission.",
+   "zh": "返回环节也做了简化。按常规，星舰的第一级执行的是如今人称“筷子回收”的动作：助推器自行飞回发射塔，塔上两条巨型机械臂在半空中把它一把接下。而这次任务为了简化目标，筷子回收被取消了，第一级改在墨西哥湾做了一次柔和的、发动机助降的溅落。至于上面那艘星舰飞船，原定要绕地六圈、飞行十小时。",
+   "notes": [
+    {
+     "w": "simplify",
+     "ipa": "/ˈsɪmplɪfaɪ/",
+     "pos": "v.",
+     "en": "simplify means to make something easier to do or understand by removing complexity",
+     "zh": "简化，删繁就简",
+     "ctx": "本义“把复杂的变简单”，这里指砍掉难度最高的筷子回收，只求把该做的动作做完。",
+     "ex1": "Merging the two forms simplified the process for every applicant. 把两张表合并，简化了每位申请人的流程。",
+     "ex2": "To simplify matters, the team tested one variable at a time. 为了把事情简化，团队一次只测试一个变量。"
+    },
+    {
+     "w": "chopstick",
+     "ipa": "/ˈtʃɑːpstɪk/",
+     "pos": "n.",
+     "en": "chopstick means one of a pair of thin sticks used for eating; here, a nickname for the tower’s catch arms",
+     "zh": "筷子；（本文）发射塔的夹臂",
+     "ctx": "本义是吃饭的筷子，航天语境指发射塔上那对像筷子一样张合、在半空夹住火箭的巨型机械臂，马斯克把整座塔叫作 Mechazilla。",
+     "ex1": "The chopstick arms closed around the booster while it was still hovering. 助推器还悬在空中时，那对机械臂就合拢把它夹住了。",
+     "ex2": "A chopstick recovery saves the weight of landing legs entirely. 用筷子回收可以把着陆腿的重量整个省掉。"
+    },
+    {
+     "w": "recovery",
+     "ipa": "/rɪˈkʌvəri/",
+     "pos": "n.",
+     "en": "recovery means the act of getting something back or retrieving it for reuse",
+     "zh": "回收，取回",
+     "ctx": "本义“把失去的东西重新拿回来”，这里指把火箭部件完整收回以便重复使用，这次任务把它取消了。",
+     "ex1": "Recovery operations were called off when the sea state worsened. 海况恶化后，回收作业被取消。",
+     "ex2": "Reliable booster recovery is what turned launch costs around. 可靠的助推器回收，正是发射成本被扭转的关键。"
+    },
+    {
+     "w": "navigate",
+     "ipa": "/ˈnævɪɡeɪt/",
+     "pos": "v.",
+     "en": "navigate means to plan and steer a course; figuratively, to find a way through something difficult",
+     "zh": "导航，找准路线飞行",
+     "ctx": "词根 navi 是“船”，本义驾船航行：常规回收中，助推器得自己算好路线飞回发射塔。",
+     "ex1": "Startups spend their first year learning to navigate the licensing system. 初创公司第一年都在学怎么在许可制度里周旋。",
+     "ex2": "The booster navigated its way back to the tower with barely a metre of error. 助推器自主飞回发射塔，误差不到一米。"
+    },
+    {
+     "w": "pluck",
+     "ipa": "/plʌk/",
+     "pos": "v. & n.",
+     "en": "pluck (v.) means to take hold of something and pull it away quickly and sharply",
+     "zh": "一把扯下，利落地取下",
+     "ctx": "本义“手指一捏、迅速一拉”：作者用 pluck 而非 catch，带出“轻巧得像夹一颗花生米”的味道。",
+     "ex1": "He finally plucked up the courage to ask for a transfer. 他终于鼓起勇气申请调岗。",
+     "ex2": "A single scout plucked her out of obscurity at a regional tournament. 一个球探在一场地区性比赛上把她从默默无闻中挖了出来。"
+    },
+    {
+     "w": "do away with",
+     "ipa": "/duː əˈweɪ wɪð/",
+     "pos": "短语动词",
+     "en": "do away with something means to get rid of it or abolish it",
+     "zh": "废除，取消",
+     "ctx": "本义“把它处理掉、不要了”：这次任务取消筷子回收以简化目标，注意被动式 was done away with 里介词不能丢。",
+     "ex1": "The board voted to do away with the annual bonus cap. 董事会投票废除了年度奖金上限。",
+     "ex2": "Paper receipts were done away with entirely in the new system. 在新系统里，纸质收据被彻底取消了。"
+    },
+    {
+     "w": "objective",
+     "ipa": "/əbˈdʒektɪv/",
+     "pos": "n. & adj.",
+     "en": "objective (n.) means a specific aim that a plan or operation is designed to achieve",
+     "zh": "目标；客观的",
+     "ctx": "本义“投向前方的目标”，这里指这次行动要达成的具体目标：取消筷子回收，只求入轨这一件事。",
+     "ex1": "The primary objective was data, not spectacle. 首要目标是拿到数据，不是做场面。",
+     "ex2": "An objective assessment would weigh the misses as well as the wins. 一份客观的评估，既要算成绩也要算失误。"
+    },
+    {
+     "w": "splashdown",
+     "ipa": "/ˈsplæʃdaʊn/",
+     "pos": "n.",
+     "en": "splashdown means the landing of a spacecraft in the sea",
+     "zh": "溅落（水上降落）",
+     "ctx": "splash 水花加 down：这次第一级改在墨西哥湾做了一次发动机助降的柔和溅落，与陆地降落的 touchdown 相对。",
+     "ex1": "The capsule made a controlled splashdown two hundred miles off the coast. 返回舱在距海岸两百英里处完成了一次受控溅落。",
+     "ex2": "Recovery teams reached the capsule eleven minutes after splashdown. 回收团队在溅落十一分钟后抵达返回舱。"
+    }
+   ]
+  },
+  {
+   "en_html": "Today’s launch was not just a test flight; it was also an <mark class=\"voc\">operational</mark> mission designed to deliver 26 Starlink satellites to orbit, adding to the <mark class=\"voc\">whopping</mark> 11,000 that already <mark class=\"voc\">comprise</mark> the Starlink <mark class=\"voc\">constellation</mark>—with an <mark class=\"voc\">eventual</mark> goal of 100,000. SpaceX released <mark class=\"voc\">footage</mark> of Starship <mark class=\"voc\">deploying</mark> the satellites with what it has <mark class=\"voc\">dubbed</mark> its Pez <mark class=\"voc\">dispenser</mark> system, because that’s exactly what the spacecraft <mark class=\"voc\">resembles</mark> as it releases its payload one satellite at a time. Ultimately, the spacecraft was brought down early, after just three orbits, since its satellites had all been deployed and the ship proved its <mark class=\"voc\">flight worthiness</mark> quickly.",
+   "zh": "今天这一飞，不只是试飞，更是一次实打实的任务：把26颗星链卫星送进轨道，加进那张已经由一万一千颗卫星织成的星链大网——而最终目标，是十万颗。SpaceX放出了星舰释放卫星的画面，用的是他们自己命名的“PEZ糖果机系统”——因为飞船一颗一颗往外送卫星的样子，跟那个糖盒简直一模一样。最终，飞船只绕了三圈就被提前带回：卫星已全部放完，这艘船也很快证明了自己经得起飞。",
+   "notes": [
+    {
+     "w": "operational",
+     "ipa": "/ˌɑːpəˈreɪʃənl/",
+     "pos": "adj.",
+     "en": "operational means in actual use and performing real work, rather than being tested",
+     "zh": "实际运营的，投入使用的",
+     "ctx": "本义“处于运转状态的”：这次不只是试飞，同时还是一次真干活的任务，真把 26 颗星链卫星送上了天。",
+     "ex1": "The plant becomes fully operational in March, two months behind schedule. 这座工厂将于三月全面投运，比原计划晚了两个月。",
+     "ex2": "Operational costs fell once the second line came online. 第二条生产线投产后，运营成本就降了下来。"
+    },
+    {
+     "w": "whopping",
+     "ipa": "/ˈwɑːpɪŋ/",
+     "pos": "adj.",
+     "en": "whopping means extremely large, used to express surprise at a figure",
+     "zh": "高得惊人的，多达",
+     "ctx": "重点在表达惊讶而非精确度量：星链已有 11,000 颗在轨卫星，这个数字本身就让人咋舌。",
+     "ex1": "The settlement came to a whopping $3.4 billion, the largest in the sector’s history. 这笔和解金高达三十四亿美元，是该行业历史上最大的一笔。",
+     "ex2": "Subscriptions jumped by a whopping 60% in a single quarter. 订阅量在一个季度内暴涨了惊人的六成。"
+    },
+    {
+     "w": "comprise",
+     "ipa": "/kəmˈpraɪz/",
+     "pos": "v.",
+     "en": "comprise means to consist of, or (in looser use) to make up a whole",
+     "zh": "构成，组成",
+     "ctx": "严格用法是“整体 comprise 部分”，本文属较宽松的反向用法，更稳妥的写法是 make up 或 consist of。",
+     "ex1": "The panel comprises seven scientists and two industry representatives. 该委员会由七名科学家和两名业界代表组成。",
+     "ex2": "Imported parts make up roughly half the finished vehicle’s value. 进口零部件约占整车价值的一半。"
+    },
+    {
+     "w": "constellation",
+     "ipa": "/ˌkɑːnstəˈleɪʃn/",
+     "pos": "n.",
+     "en": "constellation means a group of stars forming a pattern; in aerospace, a group of satellites working together as one system",
+     "zh": "星座；（卫星）星座",
+     "ctx": "con 一起加 stella 星：本文指由 11,000 颗卫星组成、目标扩张到 10 万颗的星链卫星网。",
+     "ex1": "The GPS constellation needs at least twenty-four healthy satellites to work worldwide. GPS 卫星星座需要至少二十四颗健康卫星才能全球可用。",
+     "ex2": "A constellation of small firms now supplies parts that one giant used to make. 过去由一家巨头生产的零件，如今由一批小公司分头供应。"
+    },
+    {
+     "w": "eventual",
+     "ipa": "/ɪˈventʃuəl/",
+     "pos": "adj.",
+     "en": "eventual means happening at the end of a process, after a period of time",
+     "zh": "最终的",
+     "ctx": "本义“事情最后落到的那个结果”：星链最终要把卫星总数扩到 10 万颗。",
+     "ex1": "The eventual goal is a network that needs no ground stations at all. 最终目标是一张完全不需要地面站的网络。",
+     "ex2": "Nobody predicted the eventual winner of that auction. 没人预料到那场拍卖最后的赢家是谁。"
+    },
+    {
+     "w": "footage",
+     "ipa": "/ˈfʊtɪdʒ/",
+     "pos": "n.（不可数）",
+     "en": "footage means a length of recorded film or video, especially unedited material",
+     "zh": "影像素材，录像画面",
+     "ctx": "早期电影胶片按英尺计量，故称 footage：这里指 SpaceX 放出的那段星舰释放卫星的视频。",
+     "ex1": "Security footage showed the truck leaving the yard just after midnight. 监控录像显示，那辆卡车在午夜刚过时驶离了场院。",
+     "ex2": "The documentary is built almost entirely from archival footage. 这部纪录片几乎完全由档案影像剪成。"
+    },
+    {
+     "w": "deploy",
+     "ipa": "/dɪˈplɔɪ/",
+     "pos": "v.",
+     "en": "deploy means to move something into position so that it can be used effectively",
+     "zh": "部署，释放到位",
+     "ctx": "本义“把折叠着的东西展开铺开”：星舰在轨把 26 颗星链卫星一颗一颗放到预定位置。",
+     "ex1": "The team deployed the new pricing system across all regions in one weekend. 团队用一个周末把新的定价系统在所有区域上线了。",
+     "ex2": "All twenty-six satellites were deployed within eleven minutes. 二十六颗卫星全部在十一分钟内释放完毕。"
+    },
+    {
+     "w": "dub",
+     "ipa": "/dʌb/",
+     "pos": "v.",
+     "en": "dub means to give something or someone a particular name or nickname",
+     "zh": "把……称作，命名",
+     "ctx": "本义“用剑轻拍肩膀册封骑士”，这里指 SpaceX 郑重又戏谑地把这套装置命名为“PEZ 糖果机系统”。",
+     "ex1": "The press quickly dubbed the plan “the moonshot budget.” 媒体很快把这份计划称作“登月预算”。",
+     "ex2": "What the company has dubbed a “pause” looks a lot like a retreat. 这家公司口中的“暂停”，看起来很像是撤退。"
+    },
+    {
+     "w": "dispenser",
+     "ipa": "/dɪˈspensər/",
+     "pos": "n.",
+     "en": "dispenser means a device that releases a set amount of something at a time",
+     "zh": "分配器，按份释放的装置",
+     "ctx": "dispense 是分发，指一次分出一份的装置：PEZ 糖盒一按弹出一块糖，星舰释放卫星的动作与之一模一样。",
+     "ex1": "Every floor has a water dispenser and exactly one working printer. 每层楼都有一台饮水机，和唯一一台能用的打印机。",
+     "ex2": "The satellite dispenser releases one unit every eleven seconds. 这套卫星释放装置每十一秒放出一颗。"
+    },
+    {
+     "w": "resemble",
+     "ipa": "/rɪˈzembl/",
+     "pos": "vt.（及物，后不加介词）",
+     "en": "resemble means to look like or be similar to someone or something",
+     "zh": "像，与……相似",
+     "ctx": "本义“看上去像是同一类”：星舰一颗一颗往外送卫星的样子，跟掰糖盒弹糖的动作如出一辙。",
+     "ex1": "The prototype closely resembles the production model, minus the interior. 这台原型车与量产版极为相似，只是没有内饰。",
+     "ex2": "Their business models resemble one another far more than either side admits. 两家的商业模式相似程度，远超双方各自承认的水平。"
+    },
+    {
+     "w": "flight worthiness",
+     "ipa": "/flaɪt ˈwɜːrðinəs/",
+     "pos": "名词短语",
+     "en": "flight worthiness means the condition of being fit and safe to fly",
+     "zh": "适航性",
+     "ctx": "-worthy 是“值得、够格”，指这架飞行器够不够格执行飞行任务：星舰很快证明了这一点，于是提前返回。",
+     "ex1": "The aircraft cannot be sold until it receives an airworthiness certificate. 这架飞机在拿到适航证之前不能出售。",
+     "ex2": "The prototype proved its flight worthiness on the second attempt. 原型机在第二次尝试中证明了自己的适航能力。"
+    }
+   ]
+  },
+  {
+   "en_html": "The launch of Starship 14 is in many ways only a very small—if <mark class=\"voc\">critical</mark>—step. Even the biggest SpaceX supporters don’t <mark class=\"voc\">pretend</mark> that Starship is <mark class=\"voc\">anywhere near</mark> ready to land astronauts on the moon in 2028. The spacecraft—which is now essentially a giant, flying, cargo truck—has to be <mark class=\"voc\">adapted</mark> to carry crew, with all of the environmental and <mark class=\"voc\">habitat</mark> <mark class=\"voc\">modifications</mark> that implies. It will also have to solve a <mark class=\"voc\">stubborn</mark> <mark class=\"voc\">refueling</mark> problem: before heading out for the moon, Starship will need to enter a <mark class=\"voc\">parking orbit</mark> around the Earth where <mark class=\"voc\">up to</mark> a dozen other Starship-sized <mark class=\"voc\">tankers</mark> will <mark class=\"voc\">top off</mark> its tanks. It will have to fly its Artemis III test flight in 2027, and later, an <mark class=\"voc\">uncrewed</mark> landing on—and <mark class=\"voc\">liftoff</mark> from—the moon before it will be trusted to carry astronauts in as little as two years’ time.",
+   "zh": "星舰14号这一飞，从很多角度看都只是很小的一步——虽然是关键的一步。哪怕是最铁杆的SpaceX拥趸，也不好意思说它已经接近能在2028年送人登月的水平。这艘飞船——如今说白了就是一辆巨大的会飞的货车——必须改造成能载人的样子，连带着所有环境与居住条件的改动，一样都不能少。它还得啃下一个难缠的加注难题：在奔月之前，星舰要先进入一条绕地球的停泊轨道，在那里由多达十几艘同等体量的加油船，把它的油箱一次次灌满。它得先飞完2027年阿尔忒弥斯三号的试飞，再完成一次无人登月与从月面起飞，之后才谈得上被信任去载人——而那，最快也是两年之后。",
+   "notes": [
+    {
+     "w": "critical",
+     "ipa": "/ˈkrɪtɪkl/",
+     "pos": "adj.",
+     "en": "critical means extremely important because a decisive outcome depends on it; also, expressing disapproval",
+     "zh": "关键的；批评的",
+     "ctx": "与 crisis 同源，本义“处在判定关口上”：if critical 是省略的让步结构，重心落在前面的 small 上——关键，但仍只是一小步。",
+     "ex1": "Timing is critical to the whole plan; a week’s slip undoes it. 时间对整个计划至关重要，晚一周就全白费。",
+     "ex2": "Several board members were openly critical of the new strategy. 好几位董事公开批评了这套新战略。"
+    },
+    {
+     "w": "pretend",
+     "ipa": "/prɪˈtend/",
+     "pos": "v.",
+     "en": "pretend means to claim or behave as if something is true when it is not",
+     "zh": "假装，硬说",
+     "ctx": "本义“装出个样子来”：连最铁杆的支持者都不好意思硬说星舰已接近能载人登月，“连……都不”的句式比直接否定更有杀伤力。",
+     "ex1": "Let’s not pretend the deadline was ever realistic. 咱们就别硬说那个截止日期曾经靠谱过了。",
+     "ex2": "Even his allies don’t pretend the numbers add up. 连他的盟友都不好意思说这些数字对得上。"
+    },
+    {
+     "w": "anywhere near",
+     "ipa": "/ˈeniwer nɪr/",
+     "pos": "固定短语",
+     "en": "anywhere near means approaching a particular standard or amount, almost always used in the negative",
+     "zh": "（离……）差得远",
+     "ctx": "本义“连靠近都算不上”，几乎只用于否定句：星舰离“能载人登月”的状态还差得远。",
+     "ex1": "The funding raised is nowhere near enough to finish the line. 筹到的资金远远不够把这条线修完。",
+     "ex2": "The new model is not anywhere near as efficient as the brochure claims. 新款的能效远不及宣传册上说的那样。"
+    },
+    {
+     "w": "adapt",
+     "ipa": "/əˈdæpt/",
+     "pos": "v.",
+     "en": "adapt means to change something so that it fits a new use or condition",
+     "zh": "改造，使适应",
+     "ctx": "ad 朝向加 apt 合适：把如今这辆“会飞的货车”改造成能载人的飞船，注意与 adopt 采纳、adept 熟练区分。",
+     "ex1": "The engine was adapted for use in marine vessels with very few changes. 这款发动机经过极少改动就被改用于船舶。",
+     "ex2": "Firms that adapt quickly to the new rules will take share from those that don’t. 能迅速适应新规的公司，会从不适应的公司手里抢走份额。"
+    },
+    {
+     "w": "habitat",
+     "ipa": "/ˈhæbɪtæt/",
+     "pos": "n.",
+     "en": "habitat means the natural environment in which a living thing lives; in spaceflight, the pressurized module where crew live",
+     "zh": "栖息地；（太空）居住舱",
+     "ctx": "habit 是居住，航天语境指供人在太空中生活的密封舱：氧气、温控、辐射屏蔽、生活空间一样都不能少。",
+     "ex1": "Habitat loss, not hunting, is now the main threat to the species. 如今威胁这一物种的主要是栖息地丧失，而非捕猎。",
+     "ex2": "A space habitat must manage air, water, waste and radiation all at once. 太空居住舱必须同时管住空气、水、废物和辐射。"
+    },
+    {
+     "w": "modification",
+     "ipa": "/ˌmɑːdɪfɪˈkeɪʃn/",
+     "pos": "n.",
+     "en": "modification means a change made to something in order to improve it or fit a new purpose",
+     "zh": "改造，改动",
+     "ctx": "modify 是修改，指为适应新要求做的改造：“载人”意味着的全部环境与居住条件改动，一样都省不掉。",
+     "ex1": "Only minor modifications to the airframe were needed for the longer range. 为了增加航程，机体只需做小幅改动。",
+     "ex2": "Genetically modified varieties now cover most of the country’s soy acreage. 转基因品种如今覆盖了这个国家大部分的大豆种植面积。"
+    },
+    {
+     "w": "stubborn",
+     "ipa": "/ˈstʌbərn/",
+     "pos": "adj.",
+     "en": "stubborn means difficult to remove, deal with, or change",
+     "zh": "顽固的，难缠的",
+     "ctx": "本义“倔得拽不动的”：在轨加注燃料就是这么一个怎么弄都弄不利索的难题。",
+     "ex1": "Core inflation has proved more stubborn than the central bank expected. 核心通胀被证明比央行预想的更顽固。",
+     "ex2": "Unemployment among young graduates remains stubbornly high. 年轻毕业生的失业率居高不下。"
+    },
+    {
+     "w": "refuel",
+     "ipa": "/ˌriːˈfjuːəl/",
+     "pos": "v.",
+     "en": "refuel means to fill a vehicle with fuel again",
+     "zh": "加注燃料，补加推进剂",
+     "ctx": "re 再 fuel 燃料：去月球之前，星舰必须在地球停泊轨道上被反复加满推进剂。",
+     "ex1": "The aircraft can refuel in mid-air, extending its range by half. 这架飞机可以空中加油，航程因此延长一半。",
+     "ex2": "Every refuelling flight has to dock perfectly or the propellant is wasted. 每一次加注飞行都必须精准对接，否则推进剂就浪费了。"
+    },
+    {
+     "w": "parking orbit",
+     "ipa": "/ˈpɑːrkɪŋ ˈɔːrbɪt/",
+     "pos": "名词短语",
+     "en": "parking orbit means a temporary orbit in which a spacecraft waits before continuing its journey",
+     "zh": "停泊轨道",
+     "ctx": "本义“暂时停一停的轨道”：星舰奔月前先进这条绕地轨道，等十几艘加油船把油箱灌满再出发。",
+     "ex1": "The upper stage waited ninety minutes in a parking orbit before the final burn. 上面级在停泊轨道上等了九十分钟才执行最后一次点火。",
+     "ex2": "Leaving the parking orbit at the wrong moment costs weeks of travel time. 在错误的时刻离开停泊轨道，会多花好几周的飞行时间。"
+    },
+    {
+     "w": "up to",
+     "ipa": "/ʌp tuː/",
+     "pos": "固定短语",
+     "en": "up to means as many as, indicating an upper limit",
+     "zh": "多达（上限）",
+     "ctx": "本义“最多达到”，给出上限、实际可能更少：这次要靠多达十几艘同等体量的加油船给星舰灌满油箱。",
+     "ex1": "The programme can support up to forty households per district. 该项目每个区最多可支持四十户家庭。",
+     "ex2": "Delivery takes up to three weeks during the holiday season. 节假日期间配送最长需要三周。"
+    },
+    {
+     "w": "tanker",
+     "ipa": "/ˈtæŋkər/",
+     "pos": "n.",
+     "en": "tanker means a vehicle, ship, or aircraft designed to carry large quantities of liquid",
+     "zh": "油轮，加油机／加油飞船",
+     "ctx": "tank 是罐子，指专门运送液体燃料的载具：这里指将来要在轨给星舰加注推进剂的那十几艘飞船。",
+     "ex1": "A single oil tanker can carry more crude than the port handles in a week. 一艘油轮的载油量，比这个港口一周的吞吐量还大。",
+     "ex2": "The air force is retiring its oldest tankers ahead of schedule. 空军正提前退役最老的一批加油机。"
+    },
+    {
+     "w": "top off",
+     "ipa": "/tɑːp ɔːf/",
+     "pos": "短语动词",
+     "en": "top off means to fill something completely to the top; also, to finish something in a fitting way",
+     "zh": "把……加满",
+     "ctx": "top 是顶，本义“加到顶、灌满”：十几艘加油船把星舰的推进剂贮箱一次次补到满，英式常说 top up。",
+     "ex1": "He topped off the tank before heading into the desert stretch. 他在进入沙漠路段之前把油箱加满了。",
+     "ex2": "They topped off the season with a win on the road. 他们以一场客场胜利为赛季画上了句号。"
+    },
+    {
+     "w": "uncrewed",
+     "ipa": "/ˌʌnˈkruːd/",
+     "pos": "adj.",
+     "en": "uncrewed means operating without any human crew on board",
+     "zh": "无人的",
+     "ctx": "un- 否定加 crewed 载人的：载人之前，必须先完成一次无人登月与从月面起飞的验证。",
+     "ex1": "The first landing will be uncrewed, with sensors in place of seats. 首次着陆将是无人的，座位的位置装的是传感器。",
+     "ex2": "Two uncrewed rehearsals are required before the agency signs off. 在该机构批准之前，必须完成两次无人彩排。"
+    },
+    {
+     "w": "liftoff",
+     "ipa": "/ˈlɪftɔːf/",
+     "pos": "n.",
+     "en": "liftoff means the moment a rocket leaves the ground and begins its ascent",
+     "zh": "升空，起飞",
+     "ctx": "lift 抬加 off 离开：这里指未来无人登月任务中从月面再次起飞这一关，比降落更难，因为月面没有发射塔和地面团队。",
+     "ex1": "“We have liftoff,” the announcer said, twelve seconds later than planned. “起飞了。”播报员说道，比预定时间晚了十二秒。",
+     "ex2": "Winds forced controllers to delay liftoff by a full orbit. 大风迫使控制人员把发射推迟了整整一圈轨道周期。"
+    }
+   ]
+  },
+  {
+   "en_html": "Still, SpaceX promises that an Earth-orbital launch that today is <mark class=\"voc\">headline-making</mark> could become almost as <mark class=\"voc\">commonplace</mark> as the takeoff of a commercial <mark class=\"voc\">airliner</mark>. Elon Musk, the company’s founder and CEO, has spoken openly about Starships launching as <mark class=\"voc\">frequently</mark> as once a day—or even once an hour. Maybe. For now the company is celebrating one launch on one day, on a mission that didn’t even last past east coast lunchtime. But spaceflight is <mark class=\"voc\">iterative</mark> and incremental. And today SpaceX moved one big <mark class=\"voc\">increment</mark> indeed.",
+   "zh": "不过SpaceX承诺：今天这种还能上头条的地球轨道发射，有朝一日会变得跟一班客机起飞一样稀松平常。公司创始人兼CEO马斯克更是公开说过，星舰可以做到一天一发——甚至一小时一发。也许吧。眼下，这家公司庆祝的，不过是某一天的某一次发射；而这趟任务，连美东的午饭时间都没撑过去。可话说回来，航天本来就是这么一次次迭代、一寸寸往前挪的。而今天，SpaceX确确实实往前挪了一大寸。",
+   "notes": [
+    {
+     "w": "headline-making",
+     "ipa": "/ˈhedlaɪn ˌmeɪkɪŋ/",
+     "pos": "adj.",
+     "en": "headline-making means newsworthy enough to appear as a main news story",
+     "zh": "能上头条的，轰动性的",
+     "ctx": "headline 头条加 making 造就：作者说今天这种还能上头条的入轨发射，将来可能变得像客机起飞一样平常。",
+     "ex1": "The lawsuit made headlines for a week and then disappeared entirely. 这场官司上了一周头条，然后彻底消失了。",
+     "ex2": "What was headline-making in 2015 is a routine software update today. 2015 年还能上头条的事，今天不过是一次常规软件更新。"
+    },
+    {
+     "w": "commonplace",
+     "ipa": "/ˈkɑːmənpleɪs/",
+     "pos": "adj. & n.",
+     "en": "commonplace means so ordinary and frequent that it attracts no attention",
+     "zh": "司空见惯的，稀松平常的",
+     "ctx": "common 常见加 place 地方，指到处都有、不再稀奇：SpaceX 承诺入轨发射终将像民航客机起飞那样平常。",
+     "ex1": "Remote hearings, once exceptional, have become commonplace in civil courts. 远程庭审曾是例外，如今在民事法庭已司空见惯。",
+     "ex2": "Delays of this length are unfortunately commonplace on that route. 这条线路上这种长度的延误，遗憾地说已是家常便饭。"
+    },
+    {
+     "w": "airliner",
+     "ipa": "/ˈerlaɪnər/",
+     "pos": "n.",
+     "en": "airliner means a large passenger aircraft operated on a scheduled route",
+     "zh": "客机，班机",
+     "ctx": "air 空中加 liner 定期班轮：作者拿客机起飞作参照，火箭发射有一天会平常到这个程度。",
+     "ex1": "A wide-body airliner burns more fuel taxiing than a small jet does in flight. 一架宽体客机滑行时烧的油，比小型公务机飞行时还多。",
+     "ex2": "The regional airliner seats seventy and turns around in twenty minutes. 这款支线客机可坐七十人，二十分钟就能完成一次周转。"
+    },
+    {
+     "w": "frequently",
+     "ipa": "/ˈfriːkwəntli/",
+     "pos": "adv.",
+     "en": "frequently means happening often, at short intervals",
+     "zh": "频繁地",
+     "ctx": "本义“隔不了多久就来一次”：马斯克说星舰能一天一发、甚至一小时一发，as frequently as 正是给出最乐观数字的句式。",
+     "ex1": "The dashboard is updated as frequently as every thirty seconds. 这个面板最快每三十秒更新一次。",
+     "ex2": "This is the most frequently cited paper in the entire field. 这是整个领域被引用最多的一篇论文。"
+    },
+    {
+     "w": "iterative",
+     "ipa": "/ˈɪtəreɪtɪv/",
+     "pos": "adj.",
+     "en": "iterative means involving repeating a process many times, improving a little with each round",
+     "zh": "迭代式的，反复试错的",
+     "ctx": "词根 iter 是“再一次”：这是作者给 SpaceX 的一句公道话——航天本来就是一次次炸、一次次改过来的。",
+     "ex1": "Hardware moves slowly precisely because the iterative loop is so expensive. 硬件推进得慢，正是因为每一轮迭代都太贵。",
+     "ex2": "She reiterated the point three times before anyone wrote it down. 她把这一点重复了三遍，才有人记下来。"
+    },
+    {
+     "w": "increment",
+     "ipa": "/ˈɪŋkrəmənt/",
+     "pos": "n.",
+     "en": "increment means a small amount by which something increases, one step in a gradual rise",
+     "zh": "增量，一小步",
+     "ctx": "in 向内加 crescere 生长：increment 本身含“小”，作者偏加 big 构成矛盾修辞——按这行的标准今天仍只是一次增量，但这一次是大的。",
+     "ex1": "Salaries rise in increments of roughly 3% a year under the new scale. 在新的薪级表下，薪资每年以约 3% 的幅度递增。",
+     "ex2": "Real progress here comes in increments, not in leaps. 这个领域真正的进展是一小步一小步来的，不是一跃而就。"
+    }
+   ]
+  }
+ ],
+ "proper": [
+  {
+   "name": "SpaceX（太空探索技术公司）",
+   "def": "马斯克 2002 年创办的美国民营航天公司，2026 年 6 月已公开上市，主营火箭发射与星链卫星互联网。<br>本文中的意思：本篇的主角，星舰的研制方，也是承诺了三年半“星舰会入轨”的那家公司。"
+  },
+  {
+   "name": "Starship（星舰）",
+   "def": "SpaceX 研制的两级式超重型可重复使用运载火箭，全箭高约 407 英尺，由下方的 Super Heavy 助推器和上方同名的 Starship 飞船组成。<br>本文中的意思：文章中“星舰”一词有时指整枚火箭，有时专指上面那截六台发动机的飞船——第六段“六台发动机”和第七段“第一级”分别对应这两截。"
+  },
+  {
+   "name": "Super Heavy（超级重型助推器）",
+   "def": "星舰的第一级，底部装有 33 台发动机，负责把整枚火箭从地面推起，随后分离返回。<br>本文中的意思：第七段“筷子回收”要夹的就是这一截；这次它改为在墨西哥湾溅落。"
+  },
+  {
+   "name": "Falcon 9（猎鹰 9 号）",
+   "def": "SpaceX 现役主力中型火箭，第一级可回收重复使用。名字取自《星球大战》中的飞船“千年隼号”（Millennium Falcon），“9”指第一级的九台发动机；所用发动机名为 Merlin，是一种小型猎隼（灰背隼）的名字。<br>本文中的意思：文中被称为 workhorse——2025 年占全球商业发射近 51%、全球卫星发射量的 85%，星舰的定位就是最终取代它。"
+  },
+  {
+   "name": "Starlink（星链）",
+   "def": "SpaceX 的低轨卫星互联网服务，靠在近地轨道布设大量卫星为全球提供宽带接入。<br>本文中的意思：这次任务实际送上去的 26 颗卫星属于星链；文中提到在轨已有 11,000 颗，最终目标是 100,000 颗。"
+  },
+  {
+   "name": "Starbase, Texas（星舰基地市，德克萨斯州）",
+   "def": "位于德州最南端、紧邻墨西哥边境的 SpaceX 发射与生产基地，原名 Boca Chica Village。2025 年 5 月经居民投票（212 票赞成对 6 票反对）正式建制为一座城市。<br>本文中的意思：星舰这次发射的出发地，也是第五段中碎片砸落的博卡奇卡州立公园所在区域。"
+  },
+  {
+   "name": "NASA（美国国家航空航天局）",
+   "def": "美国政府的民用航天机构，负责阿波罗计划及当前的阿尔忒弥斯登月计划。<br>本文中的意思：星舰的重要客户与合作方，其登月时间表直接取决于星舰的进展。"
+  },
+  {
+   "name": "Artemis III（阿尔忒弥斯三号）",
+   "def": "NASA 阿尔忒弥斯登月计划中的一次任务。Artemis 是希腊神话中的月亮女神，也是太阳神阿波罗的孪生妹妹——上世纪的登月计划正是以阿波罗命名。<br>本文中的意思：文中说 2027 年这次任务是在地球轨道上进行的载人测试，是一次对接彩排，并非登月本身。"
+  },
+  {
+   "name": "Blue Origin（蓝色起源）",
+   "def": "亚马逊创始人杰夫·贝索斯 2000 年创办的航天公司，正在研制名为 Blue Moon 的登月着陆器。<br>本文中的意思：NASA 选定的另一艘登月飞船的提供方，与星舰是竞争关系——谁先准备好就用谁的。"
+  },
+  {
+   "name": "Mechazilla / chopsticks（机械哥斯拉／筷子）",
+   "def": "SpaceX 发射塔上的一对巨型机械臂，工程师称之为“chopsticks”（筷子），马斯克把整座塔命名为“Mechazilla”（Mecha 机甲 + Godzilla 哥斯拉）。2024 年 10 月星舰第五次试飞时首次成功在半空中接住返回的助推器。<br>本文中的意思：第七段 chopstick recovery 指的就是这套回收方式，这次任务为简化目标被取消。"
+  },
+  {
+   "name": "PEZ（PEZ 糖／糖果分发盒）",
+   "def": "1927 年由奥地利人 Eduard Haas III 在维也纳发明的薄荷糖，最初是作为香烟的替代品推出。名字取自德语“薄荷”Pfefferminz 的首、中、尾三个字母。1949 年推出的糖盒仿照打火机造型，掰动顶部即弹出一块糖。<br>本文中的意思：SpaceX 把星舰一颗一颗释放卫星的装置命名为“Pez dispenser system”，因为那个动作和掰动糖盒弹糖一模一样。"
+  },
+  {
+   "name": "Gulf of Mexico（墨西哥湾）",
+   "def": "北美大陆与墨西哥、古巴之间的海湾，是美国南部重要的航运与能源区域。<br>本文中的意思：这次任务中，星舰第一级放弃筷子回收，改在此处完成发动机助降的柔和溅落。"
+  },
+  {
+   "name": "Elon Musk（埃隆·马斯克）",
+   "def": "SpaceX 创始人兼首席执行官，同时经营特斯拉等公司。<br>本文中的意思：文章末尾引用他的公开说法——星舰将来能做到一天发射一次甚至一小时一次，作者随后只回了一句“Maybe”。"
+  }
+ ],
+ "sources_note": "资料核对：以上背景依据文章内容，并参考 SpaceX、NASA、Blue Origin 及《时代》周刊截至 2026 年 10 月的公开资料。",
+ "practice": {
+  "intro": "请将以下中文句子翻译为英文（参考答案见后）。",
+  "items": [
+   "三年半了，自2023年春天第一枚巨型星舰升空起，这家公司就一直在放话：用不了多久，这个高耸的不锈钢大家伙就能飞上轨道。今天上午，第十四次发射，这句大话终于兑现。",
+   "从德州星舰基地的发射台到170英里高的圆形轨道，这艘飞船只用了25分17秒。",
+   "猎鹰9号是SpaceX的主力火箭，2025年全球商业发射它一家占了将近51%，其中包括全球卫星发射量的85%。",
+   "2023年4月20日首飞，升空第四分钟，火箭炸了，而且炸得堪称壮观；混凝土和钢铁的碎片如雨点般砸下，覆盖了近400英亩的范围。",
+   "上升途中，星舰六台发动机中的一台未能正常点火，只能由其余几台补上缺掉的推力，才把飞船送进轨道。",
+   "在奔月之前，星舰需要先进入一条绕地球的停泊轨道，在那里由多达十几艘同等体量的加油船，把它的贮箱一次次灌满。"
+  ],
+  "critical_en": "If a rocket that reaches orbit today is merely a “small step”, what exactly would count as a big one — and should we judge a launch by whether it worked, or by what it proved?",
+  "critical_zh": "如果今天这次入轨只能算“一小步”，那什么才算得上“一大步”？评价一次发射，该看它成没成，还是该看它证明了什么？",
+  "answer": "1. For three and a half years, ever since the spring of 2023, when SpaceX launched the first of its massive Starship rockets, the company has been promising that before too long the towering, stainless steel machine would get to orbit. This morning, on the 14th such launch, it made good on that boast.<br><br>2. It took just 25 minutes and 17 seconds for the spacecraft to travel from its launch pad in Starbase, Texas, to its circular orbit 170 miles high.<br><br>3. SpaceX sees it as an ultimate replacement for its workhorse Falcon 9 rocket, which accounted for nearly 51% of the global total of commercial launches—including 85% of all satellites—in 2025.<br><br>4. Four minutes into the rocket’s inaugural launch on April 20, 2023, it exploded spectacularly. Concrete and steel debris rained down in a near-400-acre footprint.<br><br>5. On the way up, one of the Starship’s six engines failed to burn properly, requiring the other engines to compensate for the missing thrust to get the ship in orbit.<br><br>6. Before heading out for the moon, Starship will need to enter a parking orbit around the Earth where up to a dozen other Starship-sized tankers will top off its tanks."
+ },
+ "mindmap": {
+  "aria": "星舰第14次发射首次入轨文章思维导图",
+  "alt": "星舰第14次发射入轨（手绘版）",
+  "svg": "<svg viewBox=\"0 0 960 720\" xmlns=\"http://www.w3.org/2000/svg\" role=\"img\" aria-label=\"星舰第14次发射入轨文章思维导图\" style=\"width:100%;height:auto;font-family:-apple-system,'PingFang SC','Hiragino Sans GB','Microsoft YaHei',sans-serif\">\n        <rect x=\"24\" y=\"306\" width=\"176\" height=\"88\" rx=\"14\" fill=\"#eae3d2\" stroke=\"#9a8f76\"/>\n        <text x=\"112\" y=\"342\" text-anchor=\"middle\" fill=\"#3d3a34\" font-size=\"17\" font-weight=\"700\">星舰终于入轨</text>\n        <text x=\"112\" y=\"368\" text-anchor=\"middle\" fill=\"#5c5648\" font-size=\"12.5\">首次入轨，火星还差几步</text>\n\n        <path d=\"M200,350 C232,350 232,88 260,88\"  stroke=\"#6b8f71\" stroke-width=\"2\" fill=\"none\"/>\n        <path d=\"M200,350 C232,350 232,238 260,238\" stroke=\"#7d98ad\" stroke-width=\"2\" fill=\"none\"/>\n        <path d=\"M200,350 C232,350 232,433 260,433\" stroke=\"#bd7a6d\" stroke-width=\"2\" fill=\"none\"/>\n        <path d=\"M200,350 C232,350 232,628 260,628\" stroke=\"#9b86b3\" stroke-width=\"2\" fill=\"none\"/>\n\n        <g class=\"mm-branch\" data-target=\"bc1\">\n          <rect x=\"260\" y=\"71\" width=\"190\" height=\"34\" rx=\"8\" fill=\"#e6efe7\" stroke=\"#6b8f71\"/>\n          <text x=\"349\" y=\"93\" text-anchor=\"middle\" fill=\"#4c6b52\" font-size=\"15\" font-weight=\"700\">终于入轨（¶1–2）</text>\n          <text class=\"mm-arrow\" data-for=\"bc1\" x=\"442\" y=\"93\" text-anchor=\"end\" fill=\"#4c6b52\">▾</text>\n        </g>\n        <g class=\"mm-children\" id=\"bc1\">\n          <path d=\"M450,88 C462,88 462,46 480,46\" stroke=\"#6b8f71\" stroke-width=\"1.5\" fill=\"none\"/>\n          <path d=\"M450,88 C462,88 462,88 480,88\" stroke=\"#6b8f71\" stroke-width=\"1.5\" fill=\"none\"/>\n          <path d=\"M450,88 C462,88 462,130 480,130\" stroke=\"#6b8f71\" stroke-width=\"1.5\" fill=\"none\"/>\n          <rect x=\"480\" y=\"30\" width=\"456\" height=\"32\" rx=\"8\" fill=\"#e6efe7\"/><text x=\"492\" y=\"51\" fill=\"#3d3a34\" font-size=\"14\">三年半的承诺，第14次终于兑现</text>\n          <rect x=\"480\" y=\"72\" width=\"456\" height=\"32\" rx=\"8\" fill=\"#e6efe7\"/><text x=\"492\" y=\"93\" fill=\"#3d3a34\" font-size=\"14\">25分17秒：从德州发射台到170英里高圆轨</text>\n          <rect x=\"480\" y=\"114\" width=\"456\" height=\"32\" rx=\"8\" fill=\"#e6efe7\"/><text x=\"492\" y=\"135\" fill=\"#3d3a34\" font-size=\"14\">靠一次入轨点火，把飞船真正稳在轨道上</text>\n        </g>\n\n        <g class=\"mm-branch\" data-target=\"bc2\">\n          <rect x=\"260\" y=\"221\" width=\"190\" height=\"34\" rx=\"8\" fill=\"#e5edf4\" stroke=\"#7d98ad\"/>\n          <text x=\"349\" y=\"243\" text-anchor=\"middle\" fill=\"#3d5872\" font-size=\"15\" font-weight=\"700\">为何举足轻重（¶3–4）</text>\n          <text class=\"mm-arrow\" data-for=\"bc2\" x=\"442\" y=\"243\" text-anchor=\"end\" fill=\"#3d5872\">▾</text>\n        </g>\n        <g class=\"mm-children\" id=\"bc2\">\n          <path d=\"M450,238 C462,238 462,196 480,196\" stroke=\"#7d98ad\" stroke-width=\"1.5\" fill=\"none\"/>\n          <path d=\"M450,238 C462,238 462,238 480,238\" stroke=\"#7d98ad\" stroke-width=\"1.5\" fill=\"none\"/>\n          <path d=\"M450,238 C462,238 462,280 480,280\" stroke=\"#7d98ad\" stroke-width=\"1.5\" fill=\"none\"/>\n          <rect x=\"480\" y=\"180\" width=\"456\" height=\"32\" rx=\"8\" fill=\"#e5edf4\"/><text x=\"492\" y=\"201\" fill=\"#3d3a34\" font-size=\"14\">登月登火星，星舰是那个关键支点</text>\n          <rect x=\"480\" y=\"222\" width=\"456\" height=\"32\" rx=\"8\" fill=\"#e5edf4\"/><text x=\"492\" y=\"243\" fill=\"#3d3a34\" font-size=\"14\">猎鹰9号占2025全球商业发射近51%</text>\n          <rect x=\"480\" y=\"264\" width=\"456\" height=\"32\" rx=\"8\" fill=\"#e5edf4\"/><text x=\"492\" y=\"285\" fill=\"#3d3a34\" font-size=\"14\">NASA选它当两艘登月飞船之一，2028最早</text>\n        </g>\n\n        <g class=\"mm-branch\" data-target=\"bc3\">\n          <rect x=\"260\" y=\"416\" width=\"190\" height=\"34\" rx=\"8\" fill=\"#f4e7e4\" stroke=\"#bd7a6d\"/>\n          <text x=\"349\" y=\"438\" text-anchor=\"middle\" fill=\"#7c4a3e\" font-size=\"15\" font-weight=\"700\">一路怎么过来（¶5–7）</text>\n          <text class=\"mm-arrow\" data-for=\"bc3\" x=\"442\" y=\"438\" text-anchor=\"end\" fill=\"#7c4a3e\">▾</text>\n        </g>\n        <g class=\"mm-children\" id=\"bc3\">\n          <path d=\"M450,433 C462,433 462,391 480,391\" stroke=\"#bd7a6d\" stroke-width=\"1.5\" fill=\"none\"/>\n          <path d=\"M450,433 C462,433 462,433 480,433\" stroke=\"#bd7a6d\" stroke-width=\"1.5\" fill=\"none\"/>\n          <path d=\"M450,433 C462,433 462,475 480,475\" stroke=\"#bd7a6d\" stroke-width=\"1.5\" fill=\"none\"/>\n          <rect x=\"480\" y=\"375\" width=\"456\" height=\"32\" rx=\"8\" fill=\"#f4e7e4\"/><text x=\"492\" y=\"396\" fill=\"#3d3a34\" font-size=\"14\">2023首飞四分钟炸开，碎片砸了近400英亩</text>\n          <rect x=\"480\" y=\"417\" width=\"456\" height=\"32\" rx=\"8\" fill=\"#f4e7e4\"/><text x=\"492\" y=\"438\" fill=\"#3d3a34\" font-size=\"14\">炸了也照样三月一发，14次才等来稳定轨道</text>\n          <rect x=\"480\" y=\"459\" width=\"456\" height=\"32\" rx=\"8\" fill=\"#f4e7e4\"/><text x=\"492\" y=\"480\" fill=\"#3d3a34\" font-size=\"14\">这次只保底线：坏一台发动机、砍掉筷子回收</text>\n        </g>\n\n        <g class=\"mm-branch\" data-target=\"bc4\">\n          <rect x=\"260\" y=\"611\" width=\"190\" height=\"34\" rx=\"8\" fill=\"#ece4f2\" stroke=\"#9b86b3\"/>\n          <text x=\"349\" y=\"633\" text-anchor=\"middle\" fill=\"#5a4670\" font-size=\"15\" font-weight=\"700\">真干了什么（¶8–10）</text>\n          <text class=\"mm-arrow\" data-for=\"bc4\" x=\"442\" y=\"633\" text-anchor=\"end\" fill=\"#5a4670\">▾</text>\n        </g>\n        <g class=\"mm-children\" id=\"bc4\">\n          <path d=\"M450,628 C462,628 462,586 480,586\" stroke=\"#9b86b3\" stroke-width=\"1.5\" fill=\"none\"/>\n          <path d=\"M450,628 C462,628 462,628 480,628\" stroke=\"#9b86b3\" stroke-width=\"1.5\" fill=\"none\"/>\n          <path d=\"M450,628 C462,628 462,670 480,670\" stroke=\"#9b86b3\" stroke-width=\"1.5\" fill=\"none\"/>\n          <rect x=\"480\" y=\"570\" width=\"456\" height=\"32\" rx=\"8\" fill=\"#ece4f2\"/><text x=\"492\" y=\"591\" fill=\"#3d3a34\" font-size=\"14\">真送货：26颗星链，总量冲十万颗</text>\n          <rect x=\"480\" y=\"612\" width=\"456\" height=\"32\" rx=\"8\" fill=\"#ece4f2\"/><text x=\"492\" y=\"633\" fill=\"#3d3a34\" font-size=\"14\">PEZ糖盒式一颗颗弹，三圈后提前返航</text>\n          <rect x=\"480\" y=\"654\" width=\"456\" height=\"32\" rx=\"8\" fill=\"#ece4f2\"/><text x=\"492\" y=\"675\" fill=\"#3d3a34\" font-size=\"14\">载人还差加注、无人登月、月面起飞三道关</text>\n        </g>\n      </svg>",
+  "img": ""
+ }
+}
