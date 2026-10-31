@@ -238,7 +238,7 @@ mark.voc:hover{background:#e0eabf;border-bottom-color:var(--accent)}
   .anchors{flex-wrap:nowrap;overflow-x:auto;gap:6px;padding-bottom:2px;-webkit-overflow-scrolling:touch}
   .anchors::-webkit-scrollbar{display:none}
   .anchors a{flex:none;font-size:12.5px;padding:4px 10px}
-  .print-btn{font-size:12.5px;padding:5px 10px;border-radius:999px}
+  .print-btn{font-size:15px;padding:5px 9px;border-radius:999px}
   .paragraph,.headline-block,#practice,#main-reading,.mindmap,#side-panel{scroll-margin-top:10px}
   .layout{padding-top:14px}
   .mindmap{padding:10px;margin-bottom:16px}
@@ -249,7 +249,7 @@ mark.voc:hover{background:#e0eabf;border-bottom-color:var(--accent)}
 .print-btn{
   flex:none;
   border:1px solid var(--line);background:var(--paper);color:var(--ink-light);
-  font-size:13px;border-radius:8px;padding:6px 14px;cursor:pointer;
+  font-size:15px;line-height:1;border-radius:8px;padding:6px 10px;cursor:pointer;
   font-family:inherit;white-space:nowrap;
 }
 .print-btn:hover{color:var(--accent);border-color:var(--accent)}
@@ -390,12 +390,12 @@ body.print-sheet .back-cal{display:none !important}
   </div>
   <div class="tool-row">
     <nav class="anchors">
-      <a href="#main-reading">双语正文</a>
-      <a href="#side-panel" onclick="showTab(1)">词汇总表</a>
-      <a href="#side-panel" onclick="showTab(2)">专有名词表</a>
-      <a href="#practice">翻译练习</a>
+      <a href="#main-reading">正文</a>
+      <a href="#side-panel" onclick="showTab(1)">词汇</a>
+      <a href="#side-panel" onclick="showTab(2)">专有名词</a>
+      <a href="#practice">练习</a>
     </nav>
-    <button class="print-btn" onclick="doPrint()" title="A4 打印：仅标题与英文正文">🖨 打印</button>
+    <button class="print-btn" onclick="doPrint()" title="A4 打印：仅标题与英文正文" aria-label="打印">🖨</button>
   </div>
 </header>
 
