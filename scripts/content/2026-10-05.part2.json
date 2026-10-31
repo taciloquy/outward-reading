@@ -1,0 +1,515 @@
+{
+ "paragraphs": [
+  {
+   "en_html": "Some parents fear that creating a large <mark class=\"voc\">trust fund</mark> will turn their <mark class=\"voc\">offspring</mark> into <mark class=\"voc\">layabouts</mark>. Andrew Carnegie, a 19th-century American steel <mark class=\"voc\">magnate</mark>, <mark class=\"voc\">gave away</mark> most of his wealth out of fear that it would <mark class=\"voc\">dull</mark> the <mark class=\"voc\">work ethic</mark> of his descendants. A more recent study of Norwegian inheritances between 2000 and 2004 found that those <mark class=\"voc\">bequeathed</mark> NKr300,000 (some $40,000 at the time) or more reduced their working hours by 7-10% in the six years that followed.",
+   "zh": "也有父母担心，给孩子留一大笔信托基金，会把后代养成游手好闲的废人。19世纪的美国钢铁大王安德鲁·卡内基，就是出于这份担忧——怕钱会磨钝子孙的奋斗心——把大半身家都捐了出去。一项更近的研究，考察了挪威2000至2004年间的遗产继承，结果发现：凡是继承到30万挪威克朗（当时约合4万美元）以上的人，在随后的六年里，工作时长减少了7%到10%。",
+   "notes": [
+    {
+     "w": "trust fund",
+     "ipa": "/trʌst fʌnd/",
+     "pos": "固定短语",
+     "en": "a trust fund means money or property held and managed by trustees on behalf of a beneficiary, under rules set by the person who created it",
+     "zh": "信托基金",
+     "ctx": "父母担心会把孩子养成废人的那笔大额财产安排；第 10 段又说“哪怕只是一笔不大的信托”也可能养懒。",
+     "ex1": "The estate was placed in a trust fund that pays out only after the heirs turn thirty. 这笔遗产被放进一个信托，继承人满三十岁才开始领取。",
+     "ex2": "“Trust-fund baby” is rarely meant as a compliment. “信托基金宝宝”这个说法，基本不是在夸人。"
+    },
+    {
+     "w": "offspring",
+     "ipa": "/ˈɒfsprɪŋ/",
+     "pos": "n.（单复数同形）",
+     "en": "offspring means a person’s children, or the young of an animal",
+     "zh": "子女，后代",
+     "ctx": "指父母担心会被巨额信托养成 layabout 的那些孩子。",
+     "ex1": "The pair raise two offspring a season and abandon the nest by August. 这对鸟一季养育两只幼崽，八月前就弃巢。",
+     "ex2": "The policy is the offspring of a compromise nobody much liked. 这项政策是一个谁都不太满意的妥协的产物。"
+    },
+    {
+     "w": "layabout",
+     "ipa": "/ˈleɪəbaʊt/",
+     "pos": "n.（英式非正式）",
+     "en": "a layabout means a lazy person who avoids work and does nothing useful",
+     "zh": "游手好闲的人，二流子",
+     "ctx": "父母最怕孩子因为继承财产变成的那种人，与第 1 段的 freeloader 遥相呼应。",
+     "ex1": "He was written off as a layabout until, at thirty-one, he founded the company. 他一直被当成游手好闲的废人，直到三十一岁创办了这家公司。",
+     "ex2": "The scheme was attacked for rewarding layabouts and punishing savers. 这个方案被批评为奖励懒人、惩罚储蓄者。"
+    },
+    {
+     "w": "magnate",
+     "ipa": "/ˈmæɡneɪt/",
+     "pos": "n.",
+     "en": "a magnate means a rich and powerful person who dominates a particular industry",
+     "zh": "巨头，大亨",
+     "ctx": "指 19 世纪的美国钢铁大王安德鲁·卡内基。",
+     "ex1": "A shipping magnate bought the yard in 1998 and never once visited it. 一位航运大亨1998年买下了这家船厂，之后一次都没去过。",
+     "ex2": "The media magnate’s retirement triggered a three-way succession fight. 这位传媒大亨退休，引发了三方争夺继承权的局面。"
+    },
+    {
+     "w": "give away",
+     "ipa": "/ɡɪv əˈweɪ/",
+     "pos": "短语动词",
+     "en": "give away means to hand something over for nothing, or to reveal something unintentionally",
+     "zh": "捐出，白送",
+     "ctx": "卡内基把大半身家捐了出去，为的是不让财富磨钝后代。",
+     "ex1": "He gave away almost the entire fortune before his seventieth birthday. 他在七十岁生日之前，几乎把全部财产都捐了出去。",
+     "ex2": "Her face was a dead giveaway the moment the number was read out. 数字一念出来，她的表情就全露馅了。"
+    },
+    {
+     "w": "dull",
+     "ipa": "/dʌl/",
+     "pos": "v.（形容词义之外的动词用法）",
+     "en": "dull means to make something less sharp, less strong or less keen",
+     "zh": "磨钝，削弱",
+     "ctx": "卡内基怕财富一点点磨掉子孙的奋斗劲儿——是渐进磨损，不是一次性摧毁。",
+     "ex1": "Two decades of easy profits dulled the firm’s appetite for risk. 二十年的轻松利润，磨掉了这家公司冒险的胃口。",
+     "ex2": "Nothing dulls a good idea faster than three rounds of committee review. 没有什么比三轮委员会评审更能磨掉一个好点子。"
+    },
+    {
+     "w": "work ethic",
+     "ipa": "/wɜːk ˈeθɪk/",
+     "pos": "固定短语",
+     "en": "work ethic means the belief that hard work is intrinsically valuable, and the habits that follow from it",
+     "zh": "奋斗精神，敬业勤勉",
+     "ctx": "卡内基怕遗产削弱的，正是子孙的这股劲儿。",
+     "ex1": "What the partners valued was less her CV than her work ethic. 合伙人看重的与其说是她的履历，不如说是她的拼劲。",
+     "ex2": "Nobody doubted his talent; plenty doubted his work ethic. 没人怀疑他的天赋，怀疑他勤奋程度的人倒不少。"
+    },
+    {
+     "w": "bequeath",
+     "ipa": "/bɪˈkwiːð/",
+     "pos": "v.（名词bequest）",
+     "en": "bequeath means to leave property or money to someone by means of a will",
+     "zh": "遗赠，传给后人",
+     "ctx": "指挪威研究里“被遗赠 30 万克朗及以上”的那批继承人；those bequeathed 是过去分词作后置定语。",
+     "ex1": "She bequeathed the entire archive to a university library she had never visited. 她把全部档案遗赠给了一所自己从没去过的大学图书馆。",
+     "ex2": "The bequest came with one condition: the collection must never be split up. 这笔遗赠附带一个条件：藏品永远不得拆分。"
+    }
+   ]
+  },
+  {
+   "en_html": "This makes investments in human capital more <mark class=\"voc\">appealing</mark>. In the 1970s and 1980s Gary Becker and Nigel Tomes, another pair of economists, <mark class=\"voc\">theorised</mark> that parents were <mark class=\"voc\">better off</mark> investing in education and skills <mark class=\"voc\">early on</mark>. For example, teaching a child to read is not hugely expensive, but opens up huge opportunities for future earnings. Investing in financial assets starts to <mark class=\"voc\">make sense</mark> later, once those human-capital investments encounter <mark class=\"voc\">diminishing returns</mark>. <mark class=\"voc\">A wealth of</mark> <mark class=\"voc\">empirical</mark> evidence has since <mark class=\"voc\">backed up</mark> the theory.",
+   "zh": "这么一来，投资人力资本就显得更有吸引力了。上世纪七八十年代，加里·贝克尔和奈杰尔·汤姆斯这另一对经济学家就从理论上论证过：父母趁早把钱投在教育和技能上，更划算。举个例子，教孩子认字花不了几个钱，却能为他将来的收入打开巨大的空间。至于往金融资产上投钱，那是后面的事——等人力资本的投入开始遭遇边际收益递减，再投也不迟。此后几十年间，大量实证研究都为这套理论提供了支撑。",
+   "notes": [
+    {
+     "w": "appealing",
+     "ipa": "/əˈpiːlɪŋ/",
+     "pos": "adj.",
+     "en": "appealing means attractive, interesting, or likely to win someone’s support",
+     "zh": "有吸引力的，让人心动的",
+     "ctx": "既然财富可能养废孩子，投资人力资本这条路就显得更划算。",
+     "ex1": "The offer was appealing right up until the lock-up clause appeared. 这个报价一直很诱人，直到锁定条款出现。",
+     "ex2": "The charity appealed for emergency funding within hours of the quake. 地震后几个小时内，这家慈善机构就发出了紧急募款呼吁。"
+    },
+    {
+     "w": "theorise",
+     "ipa": "/ˈθɪəraɪz/",
+     "pos": "v.（美式拼theorize）",
+     "en": "theorise means to put forward a formal theory or model to explain something",
+     "zh": "从理论上提出，建模论证",
+     "ctx": "贝克尔与汤姆斯在七八十年代提出的“先投教育、后投金融”的模型——用这个词而非 say，说明是有推演的。",
+     "ex1": "Researchers theorise that the collapse began decades before the first visible crack. 研究者推断，这场崩塌早在第一道可见裂缝出现之前几十年就已开始。",
+     "ex2": "It is easy to theorise about resilience and hard to build it. 谈论韧性很容易，造出韧性很难。"
+    },
+    {
+     "w": "be better off",
+     "ipa": "/bi ˈbetər ɒf/",
+     "pos": "固定短语",
+     "en": "to be better off means to be in a more favourable position, financially or otherwise",
+     "zh": "更划算，处境更好",
+     "ctx": "父母“早早投教育更划算”；第 9 段又用它比较钱放免税账户还是放父母的证券账户。",
+     "ex1": "Most households would be better off switching tariffs than haggling over the bill. 多数家庭与其跟账单较劲，不如换个资费套餐更划算。",
+     "ex2": "Ten years on, the bottom quintile is no better off in real terms. 十年过去，最低收入的那五分之一人群，按实际购买力算并没有变好。"
+    },
+    {
+     "w": "early on",
+     "ipa": "/ˈɜːli ɒn/",
+     "pos": "固定短语",
+     "en": "early on means at an early stage in a process or period, rather than merely at an early time",
+     "zh": "在早期阶段，一开始",
+     "ctx": "贝克尔理论的关键时点：教育和技能投入要趁早，不是等孩子大了再砸钱。",
+     "ex1": "We decided early on that we would not take outside money. 我们一开始就定了不拿外部投资。",
+     "ex2": "Problems that are caught early on cost a fraction of what they cost later. 早期发现的问题，成本只有后期的零头。"
+    },
+    {
+     "w": "make sense",
+     "ipa": "/meɪk sens/",
+     "pos": "固定短语",
+     "en": "make sense means to be reasonable, logical or financially sensible",
+     "zh": "说得通，划算",
+     "ctx": "金融资产投资“要到后面才开始变得划算”——作者在排先后顺序。",
+     "ex1": "Building a second plant only makes sense if demand holds through next year. 只有明年需求撑得住，建第二家工厂才划算。",
+     "ex2": "It took three readings to make sense of the footnotes. 那些脚注，读了三遍才看明白。"
+    },
+    {
+     "w": "diminishing returns",
+     "ipa": "/dɪˈmɪnɪʃɪŋ rɪˈtɜːnz/",
+     "pos": "固定短语",
+     "en": "diminishing returns means the point at which each additional unit of input produces a smaller gain than the one before",
+     "zh": "边际收益递减",
+     "ctx": "教孩子认字回报近乎无穷，第七个补习班的回报却很小；撞上这个拐点，才轮到金融资产。",
+     "ex1": "Past four engineers, the team hit diminishing returns almost immediately. 超过四个工程师之后，这个团队几乎立刻就撞上了边际收益递减。",
+     "ex2": "Advertising spend in that market has long since passed the point of diminishing returns. 那个市场的广告投放，早就过了边际收益递减的临界点。"
+    },
+    {
+     "w": "a wealth of",
+     "ipa": "/ə welθ əv/",
+     "pos": "固定短语（熟词僻义）",
+     "en": "a wealth of means a large amount or a rich supply of something",
+     "zh": "大量的，丰富的",
+     "ctx": "此后几十年支持贝克尔理论的大量实证证据；在一篇讲财富的文章里用这个词，本身是个小双关。",
+     "ex1": "She brings a wealth of experience from two decades in emerging markets. 她带来了在新兴市场二十年积累的丰富经验。",
+     "ex2": "The archive contains a wealth of detail nobody has yet catalogued. 这批档案里有大量尚未编目的细节。"
+    },
+    {
+     "w": "empirical",
+     "ipa": "/ɪmˈpɪrɪkl/",
+     "pos": "adj.",
+     "en": "empirical means based on observation, experiment or data rather than on theory alone",
+     "zh": "实证的，基于数据和观察的",
+     "ctx": "四十多年来验证贝克尔理论的那批研究；与前文 theorise 构成“理论—证据”的分工。",
+     "ex1": "The claim is plausible but still lacks empirical support. 这个说法看着合理，但仍然缺乏实证支持。",
+     "ex2": "Two decades of empirical work finally settled the argument. 二十年的实证研究，终于把这场争论了结了。"
+    },
+    {
+     "w": "back up",
+     "ipa": "/bæk ʌp/",
+     "pos": "短语动词",
+     "en": "back up means to provide evidence that supports a claim; also to make a copy of data, or to reverse a vehicle",
+     "zh": "佐证，支持",
+     "ctx": "大量实证证据“支撑了”贝克尔的理论。",
+     "ex1": "Every number in the deck is backed up by a source in the appendix. 这份材料里的每个数字，附录里都有出处。",
+     "ex2": "Back up the file before you touch the formatting. 动格式之前先把文件备份了。"
+    }
+   ]
+  },
+  {
+   "en_html": "Beyond basic skills, however, investing in human capital gets <mark class=\"voc\">fraught</mark>. Such investments are <mark class=\"voc\">sunk costs</mark> that cannot be <mark class=\"voc\">liquidated</mark>. They are also <mark class=\"voc\">infungible</mark>: <mark class=\"voc\">tutoring</mark> in advanced maths is not the same as Chinese lessons. Children react differently (and <mark class=\"voc\">unpredictably</mark>) to each. The extraordinarily long <mark class=\"voc\">timeframes</mark> that make investing for babies attractive also raise uncertainty. Perhaps the skills that are valuable today will be <mark class=\"voc\">obsolete</mark> in an AI future?",
+   "zh": "不过，一旦越过基础技能这条线，投资人力资本就开始变得棘手了。这类投入是沉没成本，收不回也变不了现。它们还彼此不可替换：补高阶数学，和上中文课，根本是两码事。而孩子对每一样的反应都不一样——还没法预测。更麻烦的是，正是那个让“给婴儿投资”显得诱人的超长时间跨度，同时也把不确定性一路推高。说不定今天还值钱的本事，到了AI主导的未来，早就作废了呢？",
+   "notes": [
+    {
+     "w": "fraught",
+     "ipa": "/frɔːt/",
+     "pos": "adj.",
+     "en": "fraught means filled with difficulties or tension; or, with “with”, loaded with something undesirable",
+     "zh": "棘手的，险象环生的",
+     "ctx": "一旦越过基础技能，人力资本投资就进入了“装得太满、随时要翻”的状态。",
+     "ex1": "Any attempt to reprice the contract now would be fraught with legal risk. 现在想给合同重新定价，法律风险极大。",
+     "ex2": "Negotiations resumed in a fraught atmosphere after the leak. 泄密之后，谈判在紧绷的气氛中重启。"
+    },
+    {
+     "w": "sunk cost",
+     "ipa": "/sʌŋk kɒst/",
+     "pos": "固定短语",
+     "en": "a sunk cost means money or effort already spent that cannot be recovered, and which therefore should not influence future decisions",
+     "zh": "沉没成本",
+     "ctx": "花在孩子教育上的钱和时间，收不回也变不了现——这是人力资本与金融资本最本质的区别。",
+     "ex1": "The research spend is a sunk cost; the only question is what to do next. 那笔研发支出已经沉没了，现在唯一的问题是下一步怎么办。",
+     "ex2": "Four years in, they kept funding it out of pure sunk-cost fallacy. 投入四年之后，他们继续砸钱纯粹是沉没成本谬误在作祟。"
+    },
+    {
+     "w": "liquidate",
+     "ipa": "/ˈlɪkwɪdeɪt/",
+     "pos": "v.（名词liquidity、liquidation）",
+     "en": "liquidate means to convert assets into cash; also, to close down a business and sell off what it owns",
+     "zh": "变现，清算",
+     "ctx": "教育投入“没法变现”：你能卖掉股票，卖不掉孩子学了十年的钢琴。",
+     "ex1": "The fund had to liquidate its most liquid holdings first, which made things worse. 基金不得不先卖掉流动性最好的持仓，结果反而加剧了问题。",
+     "ex2": "Property is a fine asset and a terribly illiquid one. 房产是个不错的资产，也是个极度难变现的资产。"
+    },
+    {
+     "w": "infungible",
+     "ipa": "/ɪnˈfʌndʒəbl/",
+     "pos": "adj.（词根形式fungible）",
+     "en": "infungible means not interchangeable with another item of the same kind, because each unit is distinct",
+     "zh": "不可替代的，不能互换的",
+     "ctx": "补高阶数学和上中文课不是一回事，而 100 块股票和 100 块债券却随时可以互换。",
+     "ex1": "Cash is perfectly fungible; a decade of someone’s childhood is not. 现金是完全可以互换的；一个人十年的童年不是。",
+     "ex2": "The whole premise of an NFT is that the asset is non-fungible. NFT 的全部前提就在于这项资产不可替代。"
+    },
+    {
+     "w": "tutoring",
+     "ipa": "/ˈtjuːtərɪŋ/",
+     "pos": "n.（动词／名词tutor）",
+     "en": "tutoring means private teaching given to one student or a very small group",
+     "zh": "（一对一或小班的）辅导",
+     "ctx": "作者用它举例，说明人力资本的各项投入彼此不可替换。",
+     "ex1": "Private tutoring has quietly become one of the city’s largest service industries. 私人辅导悄悄成了这座城市最大的服务业之一。",
+     "ex2": "Two hours of tutoring a week lifted her grade more than the summer camp did. 每周两小时的辅导，对她成绩的帮助比那个夏令营大。"
+    },
+    {
+     "w": "unpredictably",
+     "ipa": "/ˌʌnprɪˈdɪktəbli/",
+     "pos": "adv.（形容词unpredictable）",
+     "en": "unpredictably means in a way that cannot be foreseen or anticipated",
+     "zh": "不可预测地",
+     "ctx": "括号里那个真正的杀招：孩子对每一项投入的反应不仅各不相同，而且根本算不出来。",
+     "ex1": "Supply chains behave unpredictably once a single node goes offline. 只要一个节点掉线，供应链的表现就变得无法预测。",
+     "ex2": "His one consistent trait was that he was completely unpredictable. 他唯一稳定的特点就是完全不可预测。"
+    },
+    {
+     "w": "timeframe",
+     "ipa": "/ˈtaɪmfreɪm/",
+     "pos": "n.",
+     "en": "a timeframe means the period of time within which something happens or is planned to happen",
+     "zh": "时间跨度，时限",
+     "ctx": "那个“异乎寻常漫长”的跨度，既是最大优势，又是最大不确定性来源；标题里的 knotty 在这句兑现。",
+     "ex1": "Nobody will commit to a timeframe until the permits come through. 在批文下来之前，没人肯给出时间表。",
+     "ex2": "Over a long enough timeframe, almost every competitive advantage erodes. 只要时间拉得够长，几乎所有的竞争优势都会被磨掉。"
+    },
+    {
+     "w": "obsolete",
+     "ipa": "/ˈɒbsəliːt/",
+     "pos": "adj.（名词obsolescence）",
+     "en": "obsolete means no longer in use or useful because something newer has replaced it",
+     "zh": "过时的，被淘汰的",
+     "ctx": "今天还值钱的技能，到了 AI 主导的未来可能已经没人需要；它不等于 old，是世界不要它了。",
+     "ex1": "Cheap sensors rendered an entire category of instruments obsolete within five years. 廉价传感器在五年内让整整一类仪器彻底过时。",
+     "ex2": "Planned obsolescence keeps the replacement cycle short and the margins healthy. 计划性淘汰让换代周期保持短促，利润率保持健康。"
+    }
+   ]
+  },
+  {
+   "en_html": "So what is a new parent to do? The most obvious financial options involve accepting free money. The $1,000 in a Trump account is a <mark class=\"voc\">no-brainer</mark>. Even <mark class=\"voc\">rabid</mark> anti-Trumpers would be mad not to take it. All parents should also accept similar <mark class=\"voc\">grants</mark> from several American states. Those who expect to be <mark class=\"voc\">on the hook for</mark> university tuition would be wise to <mark class=\"voc\">take advantage of</mark> 529 accounts or similar <mark class=\"voc\">vehicles</mark> as early as possible, so that compounding can work its magic to the full. Any money that children are likely eventually to inherit is better off in <mark class=\"voc\">tax-friendly shelters</mark> than in their parents’ <mark class=\"voc\">brokerage accounts</mark>.",
+   "zh": "那么新手父母究竟该怎么做？最明摆着的几个金融选项，其实都是在“白捡钱”。特朗普账户里那1000美元，想都不用想就该拿——哪怕你恨特朗普恨得牙痒痒，不去领这笔钱也只能说是傻。美国几个州还有类似的补助，所有家长也都该领。那些预计要自己承担大学学费的父母，明智的做法是尽早用上529账户或类似的工具，好让复利把魔力发挥到极致。至于那些孩子迟早会继承的钱，与其搁在父母自己的证券账户里年年交税，不如早点挪进免税的“庇护所”。",
+   "notes": [
+    {
+     "w": "no-brainer",
+     "ipa": "/nəʊ ˈbreɪnə(r)/",
+     "pos": "n.（非正式）",
+     "en": "a no-brainer means a decision so obvious that it requires no thought at all",
+     "zh": "想都不用想的事，明摆着的选择",
+     "ctx": "特朗普账户里白送的那 1000 美元——不拿才是傻。",
+     "ex1": "At that price, upgrading the insulation was a no-brainer. 那个价钱，换保温层这事想都不用想。",
+     "ex2": "Everyone called it a no-brainer right up to the moment it failed. 所有人都说这事闭眼都能做——直到它砸了。"
+    },
+    {
+     "w": "rabid",
+     "ipa": "/ˈræbɪd/",
+     "pos": "adj.",
+     "en": "rabid means holding extreme opinions with an intensity that has passed beyond reason",
+     "zh": "狂热的，偏执到不讲理的",
+     "ctx": "指那些“恨特朗普恨到牙痒”的人——作者说他们不去领这笔钱也是傻。",
+     "ex1": "Even the company’s most rabid critics conceded the safety record had improved. 连公司最激烈的批评者也承认，安全记录确实改善了。",
+     "ex2": "Rabid speculation about the succession drowned out the actual results. 关于继任的疯狂猜测，把真正的财报数据都盖过去了。"
+    },
+    {
+     "w": "grant",
+     "ipa": "/ɡrɑːnt/",
+     "pos": "n./v.",
+     "en": "a grant means a sum of money given by a government or organisation for a specific purpose and not repayable",
+     "zh": "（不用还的）拨款，补助金",
+     "ctx": "美国几个州提供的类似婴儿补助，与需要偿还的 loan 是两回事。",
+     "ex1": "The scheme pays a one-off grant rather than a loan, which changes the incentives entirely. 这个方案发的是一次性补助而不是贷款，激励机制完全不同。",
+     "ex2": "Don’t take a stable currency for granted; plenty of countries can’t. 别把稳定的货币当成理所当然，很多国家没有这个条件。"
+    },
+    {
+     "w": "on the hook for",
+     "ipa": "/ɒn ðə hʊk fə(r)/",
+     "pos": "固定短语",
+     "en": "to be on the hook for something means to be the one responsible for paying or dealing with it, with no way out",
+     "zh": "要为……买单，脱不了身",
+     "ctx": "指那些预计要自掏腰包付大学学费的父母。",
+     "ex1": "If the subcontractor folds, the developer is on the hook for the whole bill. 如果分包商垮了，整笔账单都得开发商认。",
+     "ex2": "The settlement let both parties off the hook without either admitting anything. 那份和解协议让双方都脱了身，谁也没承认什么。"
+    },
+    {
+     "w": "take advantage of",
+     "ipa": "/teɪk ədˈvɑːntɪdʒ əv/",
+     "pos": "固定短语",
+     "en": "take advantage of means to make good use of an opportunity; or, negatively, to exploit a person or their goodwill",
+     "zh": "充分利用",
+     "ctx": "尽早把 529 账户这类工具用起来，好让复利充分发挥。",
+     "ex1": "Exporters took full advantage of the weaker currency while it lasted. 汇率走弱期间，出口商把这个窗口用足了。",
+     "ex2": "He took advantage of her willingness to cover every shift. 她什么班都肯顶，他就一直占这个便宜。"
+    },
+    {
+     "w": "vehicle",
+     "ipa": "/ˈviːəkl/",
+     "pos": "n.（金融熟词僻义）",
+     "en": "in finance, a vehicle means a structure or instrument used to hold and grow money",
+     "zh": "投资工具，载体",
+     "ctx": "529 账户“或类似的工具”——钱坐上这辆车，被带到未来去。",
+     "ex1": "The trust is simply a vehicle; the real question is what sits inside it. 信托只是个载体，真正的问题是里面装了什么。",
+     "ex2": "They set up a special purpose vehicle to ring-fence the project’s debt. 他们设立了一个特殊目的实体，把项目债务隔离开来。"
+    },
+    {
+     "w": "tax shelter",
+     "ipa": "/tæks ˈʃeltə(r)/",
+     "pos": "固定短语",
+     "en": "a tax shelter means a legal arrangement that reduces or defers the tax owed on income or gains",
+     "zh": "避税工具，税务庇护所",
+     "ctx": "孩子早晚要继承的钱，放进这里比留在父母的证券账户里年年交税更划算。",
+     "ex1": "Pension accounts are the most boring and most effective tax shelter most people will ever use. 养老金账户是多数人这辈子用得上的、最无聊也最有效的避税工具。",
+     "ex2": "Regulators spent a decade closing shelters that had been perfectly legal. 监管机构花了十年时间，关掉了那些曾经完全合法的避税安排。"
+    },
+    {
+     "w": "brokerage account",
+     "ipa": "/ˈbrəʊkərɪdʒ əˈkaʊnt/",
+     "pos": "固定短语",
+     "en": "a brokerage account means an account held with a securities firm through which an individual buys and sells investments",
+     "zh": "证券账户，券商账户",
+     "ctx": "父母自己名下那个要年年为收益交税的普通炒股账户，是作者建议的反面。",
+     "ex1": "Anything that does not fit in a retirement account ends up in a taxable brokerage account. 退休账户装不下的，最后都进了应税的证券账户。",
+     "ex2": "Zero-commission brokerage accounts changed who trades and how often. 零佣金的券商账户，改变了谁在交易、交易得多频繁。"
+    }
+   ]
+  },
+  {
+   "en_html": "Investments can <mark class=\"voc\">misfire</mark>: violin lessons may generate <mark class=\"voc\">little more than</mark> <mark class=\"voc\">screeching</mark> and even a <mark class=\"voc\">modest</mark> trust fund could encourage laziness. But with a bit of luck, investing in a child’s future and <mark class=\"voc\">on their behalf</mark> will <mark class=\"voc\">pay off</mark> <mark class=\"voc\">handsomely</mark>. Fortunate parents with the ability to do both should approach this like the rest of parenting: try different things and don’t <mark class=\"voc\">agonise</mark> too much over your decisions.",
+   "zh": "投资也会哑火：小提琴课最后换来的，可能只是一片刺耳的噪音；哪怕只是一笔不大的信托，也可能把人养懒。但只要运气不算太差，投在孩子身上的，和替孩子打理的，最终都会有相当可观的回报。那些有余力两头兼顾的幸运父母，不妨把这件事当成育儿的其余部分一样来对待：多试试不同的路子，别为自己的决定纠结太久。",
+   "notes": [
+    {
+     "w": "misfire",
+     "ipa": "/ˌmɪsˈfaɪə(r)/",
+     "pos": "v./n.",
+     "en": "misfire means to fail to produce the intended effect; of a gun, to fail to discharge when the trigger is pulled",
+     "zh": "哑火，事与愿违",
+     "ctx": "钱花了、课报了、琴买了，孩子就是不喜欢——该做的都做了，它就是不灵。",
+     "ex1": "The rebrand misfired so badly that the old logo was back within a year. 这次品牌重塑砸得太彻底，不到一年旧标志就回来了。",
+     "ex2": "His opening joke misfired and the room stayed silent for a long three seconds. 他开场的笑话冷了场，房间里沉默了漫长的三秒。"
+    },
+    {
+     "w": "little more than",
+     "ipa": "/ˈlɪtl mɔː ðən/",
+     "pos": "固定短语",
+     "en": "little more than means only, and disappointingly so — no better than the thing named",
+     "zh": "只不过是……罢了",
+     "ctx": "小提琴课产出的“也就是一片噪音罢了”，那个“罢了”正是这个短语的情绪。",
+     "ex1": "The committee’s report amounted to little more than a restatement of the problem. 委员会那份报告，也就是把问题重新说了一遍而已。",
+     "ex2": "What was billed as a strategy turned out to be little more than a slogan. 号称是战略的东西，结果只不过是一句口号。"
+    },
+    {
+     "w": "screech",
+     "ipa": "/skriːtʃ/",
+     "pos": "v./n.",
+     "en": "screech means to make a loud, harsh, high-pitched sound",
+     "zh": "发出刺耳的尖叫",
+     "ctx": "初学小提琴的孩子拉出来的噪音；作者选小提琴，正因为它在初学阶段最难听。",
+     "ex1": "The van screeched to a halt two feet from the barrier. 那辆面包车在离护栏两英尺的地方急刹停住。",
+     "ex2": "For the first six months, the practice room produced nothing but screeching. 头六个月，琴房里出来的只有刺耳的噪音。"
+    },
+    {
+     "w": "modest",
+     "ipa": "/ˈmɒdɪst/",
+     "pos": "adj.（熟词僻义）",
+     "en": "besides meaning humble, modest means not large in size, amount or degree",
+     "zh": "不大的，适度的",
+     "ctx": "“哪怕只是一笔不大的信托”也可能把人养懒——呼应挪威那个并不算巨款的 4 万美元门槛。",
+     "ex1": "A modest increase in headcount would not have solved a structural problem. 小幅增加人手，解决不了一个结构性问题。",
+     "ex2": "He remained strikingly modest about a career most people would boast about. 对于一段多数人会拿来炫耀的职业生涯，他谦逊得出奇。"
+    },
+    {
+     "w": "on sb's behalf",
+     "ipa": "/ɒn ˈsʌmbədiz bɪˈhɑːf/",
+     "pos": "固定短语",
+     "en": "on someone’s behalf means acting for them, in their interest or as their representative",
+     "zh": "代表某人，替某人（做事）",
+     "ctx": "全文的收束：invest in a child’s future 和 invest on their behalf 被一个 and 并在一起，答案是“两条路都走”。",
+     "ex1": "She signed the agreement on behalf of all three shareholders. 她代表三位股东签署了这份协议。",
+     "ex2": "The trustees invest on behalf of beneficiaries who may not be born yet. 受托人是在替一些可能还没出生的受益人做投资。"
+    },
+    {
+     "w": "pay off",
+     "ipa": "/peɪ ɒf/",
+     "pos": "短语动词",
+     "en": "pay off means to produce a worthwhile result after effort or investment; also, to repay a debt in full",
+     "zh": "得到回报，见效",
+     "ctx": "只要运气不算太差，投在孩子身上的和替孩子打理的，最终都会有相当可观的回报。",
+     "ex1": "Five years of unglamorous process work finally paid off this quarter. 五年枯燥的流程工作，这个季度终于见到了回报。",
+     "ex2": "They paid off the loan early and lost the interest deduction doing it. 他们提前还清了贷款，代价是丢了利息抵扣。"
+    },
+    {
+     "w": "handsomely",
+     "ipa": "/ˈhænsəmli/",
+     "pos": "adv.",
+     "en": "handsomely means generously or in a large and impressive amount",
+     "zh": "丰厚地，可观地",
+     "ctx": "两条路都走的父母“会得到相当丰厚的回报”。",
+     "ex1": "Early backers of the company were handsomely rewarded when it listed. 公司上市时，早期投资人得到了丰厚的回报。",
+     "ex2": "The restoration cost a handsome sum and was worth every penny. 那次修复花了一大笔钱，而且每一分都值。"
+    },
+    {
+     "w": "agonise",
+     "ipa": "/ˈæɡənaɪz/",
+     "pos": "v.（美式拼agonize；名词agony）",
+     "en": "agonise means to spend a long time worrying anxiously about a decision",
+     "zh": "苦苦纠结，反复煎熬",
+     "ctx": "全文最后一句建议：多试几条不同的路，别为自己的决定纠结太久。",
+     "ex1": "He agonised for three weeks over an offer he was always going to accept. 他为一份本来就一定会接受的offer，纠结了三个星期。",
+     "ex2": "The wait between the scan and the result was the most agonising part. 从做完扫描到出结果的那段等待，是最煎熬的。"
+    }
+   ]
+  }
+ ],
+ "proper": [
+  {
+   "name": "Trump account / 特朗普账户",
+   "def": "特朗普税改法案中设立的儿童储蓄账户：为符合条件的美国新生儿提供 1000 美元政府启动资金，资金锁定至 18 岁、只投低成本美股宽基指数基金，期间税款递延，满 18 岁后按传统个人退休账户（IRA）规则处理。法律已生效，账户尚未全面运作，首批政府出资预计 2026 年 7 月之后到位。<br>本文中的意思：作者列举的美国金融选项之一，也是第 9 段“白给的钱先拿”这条建议的具体对象。"
+  },
+  {
+   "name": "529 account / 529 账户",
+   "def": "美国的教育专项储蓄账户，名字来自《国内税收法典》第 529 条。税收优惠比特朗普账户更大，但资金只能用于法定的教育支出。<br>本文中的意思：作者用它和特朗普账户做对比，说明“优惠更大、限制也更多”这组取舍；第 9 段建议预计要付大学学费的父母尽早开户。"
+  },
+  {
+   "name": "Junior ISA / 英国少年个人储蓄账户",
+   "def": "全称 Junior Individual Savings Account，英国面向未成年人的免税储蓄投资账户，每年有法定缴存上限（文中为 9000 英镑）。<br>本文中的意思：作者用来收束第 4 段的“税收优惠阶梯”——三种账户里税上最划算的一档。"
+  },
+  {
+   "name": "mutual fund / index tracker 共同基金与指数基金",
+   "def": "共同基金是把众多投资者的钱集中起来、由基金经理运作的集合投资工具，多为主动管理；指数基金则被动复制某个市场指数的成分与权重，费率通常低得多。<br>本文中的意思：特朗普账户里那 1000 美元被允许投向的两类产品，对应“钱放进去之后具体怎么增值”这一步。"
+  },
+  {
+   "name": "UBS Global Investment Returns Yearbook / 瑞银《全球投资回报年鉴》",
+   "def": "瑞银联合剑桥大学 Elroy Dimson、伦敦商学院 Paul Marsh 与 Mike Staunton 编制的年度报告，追溯 1900 年以来全球数十个市场的长期真实回报。<br>本文中的意思：第 2 段括号里“过去 125 年全球股市平均”那个 5.2% 的实际年化回报，正出自该年鉴；同一报告显示，1900 年投入美股的 1 美元到 2024 年底名义上增长到十万七千多美元。"
+  },
+  {
+   "name": "Ian Ayres & Barry Nalebuff / 伊恩·艾尔斯与巴里·奈尔伯夫",
+   "def": "两位均为耶鲁大学教授——Ayres 身兼经济学家与法学教授，在耶鲁法学院与管理学院任职；Nalebuff 为耶鲁管理学院经济学与管理学讲席教授。两人 2010 年合著《Lifecycle Investing》，主张年轻人在二三十岁时用约 2:1 的杠杆持有股票，以实现“跨时间的分散”。该观点最早发表于《福布斯》时曾引来大量仇恨邮件；他们回溯 1871 年以来的股市数据，称这一策略的最终退休财富比传统生命周期基金高出约 90%。<br>本文中的意思：作者借他们的结论论证“时间越长越该担险”，再顺势推到婴儿身上——这套逻辑对二十来岁的人成立，对期限再长二三十年的婴儿就更成立。"
+  },
+  {
+   "name": "Andrew Carnegie / 安德鲁·卡内基（1835–1919）",
+   "def": "苏格兰裔美国实业家，卡内基钢铁公司创始人，19 世纪美国钢铁业的主导者，也是现代慈善事业的奠基人物。1889 年在《北美评论》发表《财富》一文（后世通称《财富的福音》），公开追问“人为什么要给孩子留下巨额财富”，并认为让孩子背上这样一笔财富通常并非好事；他还直言，驱使富人留下巨额遗产的往往不是为孩子着想，而是家族的虚荣心。名言包括“我宁愿留给儿子一个诅咒，也不愿留给他万能的美元”。他后半生大规模散财，最著名的是在全球资助兴建数以千计的公共图书馆。<br>本文中的意思：作者用他作为“怕钱养废后代”这一担忧的历史原型，领出下文的挪威实证研究。"
+  },
+  {
+   "name": "the Carnegie effect / 卡内基效应",
+   "def": "经济学中的正式术语，指“继承来的财富会削弱继承人的劳动积极性”这一现象，在关于代际财富转移是否应该征税的讨论中位置关键。<br>本文中的意思：文中那项挪威研究考察的正是这个效应——卡内基与挪威数据并非两件不相干的事，而是同一条线索的两端。"
+  },
+  {
+   "name": "the Norwegian inheritance study / 挪威遗产研究",
+   "def": "挪威统计局研究者（Bø、Halvorsen、Thoresen）基于覆盖全挪威人口的行政数据库所做的研究，后发表于《Journal of Human Resources》。结论是：获得大额遗产者在此后六年内劳动供给显著下降，幅度在 7% 至 10% 之间，且效应随遗产金额、继承人年龄、是否享有其他转移支付、家族中是否出现新继承人而明显不同。<br>本文中的意思：为卡内基一百多年前的直觉提供了硬数据支撑。需要注意两点：7%–10% 相当于每周少工作约四小时，是“松了一点”而非“不工作了”；且挪威是高福利、工时本就较短的社会，结论不宜直接外推。"
+  },
+  {
+   "name": "NKr / 挪威克朗",
+   "def": "挪威的法定货币，符号常写作 NKr 或 NOK（Norwegian krone）。<br>本文中的意思：文中的 30 万挪威克朗，作者已折算为“当时约合 4 万美元”，作为“大额遗产”的门槛值。"
+  },
+  {
+   "name": "Gary Becker / 加里·贝克尔（1930–2014）",
+   "def": "美国经济学家，芝加哥大学教授，1992 年诺贝尔经济学奖得主，获奖理由是把微观经济分析的领域扩展到了人类行为与互动的广阔范围，包括非市场行为。他用“人是会算账的”这一假设去解释结婚、生育、犯罪、歧视、教育选择等传统上不属于经济学的议题；诺奖委员会认为人力资本是他最重要的贡献。他还有一个以名字著称的概念叫“坏小孩定理”（rotten kid theorem）。<br>本文中的意思：他与汤姆斯提出的“先投教育技能、等边际收益递减后再投金融资产”，是全文对那道取舍题给出的核心解法。"
+  },
+  {
+   "name": "Nigel Tomes / 奈杰尔·汤姆斯",
+   "def": "经济学家，与贝克尔长期合作，两人在上世纪七八十年代合作的多篇论文（如 1976 年的“Child Endowments and the Quantity and Quality of Children”、1986 年的“Human Capital and the Rise and Fall of Families”）奠定了家庭内部人力资本投资与代际流动的分析框架。<br>本文中的意思：文中“另一对经济学家”里的第二位，与贝克尔共同提出第 7 段的核心理论。"
+  }
+ ],
+ "sources_note": "资料核对：以上背景依据文章内容，并参考瑞银《全球投资回报年鉴》、贝克尔与汤姆斯 1979 年发表于《政治经济学杂志》的论文、挪威统计局遗产继承研究（Bø、Halvorsen、Thoresen，后刊于《Journal of Human Resources》）以及卡内基 1889 年《财富》一文等公开资料，数据截至 2026 年 10 月。",
+ "practice": {
+  "intro": "请根据今天学习的外刊，把下面的中文句子翻译成英文。要求：尽量用上本文的核心表达，可以适当改变词形，但不要直接照抄原文。",
+  "items": [
+   "耐心、自律和节俭是投资者身上难得的好习惯，可这些美德在新生儿身上并不常见。",
+   "今天投进1000美元，按5.2%的实际年化回报计算（这是过去125年全球股市的平均水平），到孩子80岁那年，这笔钱将值58000美元。",
+   "花在孩子健康、教育和技能上的钱，回报率可能还要更高。",
+   "时间一拉长，波动就被熨平了，于是你反倒敢多担一些风险。",
+   "有些父母担心，设立一大笔信托基金，会把自己的后代变成游手好闲的废人。",
+   "正是那个让“给婴儿投资”显得诱人的超长时间跨度，同时也把不确定性一路推高。"
+  ],
+  "critical_en": "If money can buy a child a better future, which is the better gift — a fund that quietly compounds for eighty years, or ten years of lessons, tutors and chances to fail?",
+  "critical_zh": "如果钱能给孩子买一个更好的未来，那么哪一份礼物更好——一笔悄悄复利八十年的基金，还是十年的课程、补习和试错的机会？",
+  "answer": "1. Patience, consistency and frugality are fine habits for an investor. They are not, however, common virtues among newborn babies.<br><br>2. $1,000 invested today with a real annual return of 5.2% (the average for global stocks over the past 125 years) would be worth $58,000 by the time the child is 80.<br><br>3. Spending on a child’s health, education and skills can yield even higher returns.<br><br>4. Long horizons smooth out volatility, allowing for more risk.<br><br>5. Some parents fear that creating a large trust fund will turn their offspring into layabouts.<br><br>6. The extraordinarily long timeframes that make investing for babies attractive also raise uncertainty."
+ },
+ "mindmap": {
+  "aria": "给婴儿做投资：金融资本与人力资本的取舍思维导图",
+  "alt": "给婴儿做投资：金融资本与人力资本（手绘版）",
+  "svg": "<svg viewBox=\"0 0 960 720\" xmlns=\"http://www.w3.org/2000/svg\" role=\"img\" aria-label=\"给婴儿做投资：金融资本与人力资本的取舍思维导图\" style=\"width:100%;height:auto;font-family:-apple-system,'PingFang SC','Hiragino Sans GB','Microsoft YaHei',sans-serif\">\n        <rect x=\"24\" y=\"306\" width=\"176\" height=\"88\" rx=\"14\" fill=\"#eae3d2\" stroke=\"#9a8f76\"/>\n        <text x=\"112\" y=\"342\" text-anchor=\"middle\" fill=\"#3d3a34\" font-size=\"17\" font-weight=\"700\">留钱还是培养他</text>\n        <text x=\"112\" y=\"368\" text-anchor=\"middle\" fill=\"#5c5648\" font-size=\"12.5\">一道难解的取舍题</text>\n\n        <path d=\"M200,350 C232,350 232,88 260,88\" stroke=\"#6b8f71\" stroke-width=\"2\" fill=\"none\"/>\n        <path d=\"M200,350 C232,350 232,238 260,238\" stroke=\"#7d98ad\" stroke-width=\"2\" fill=\"none\"/>\n        <path d=\"M200,350 C232,350 232,433 260,433\" stroke=\"#bd7a6d\" stroke-width=\"2\" fill=\"none\"/>\n        <path d=\"M200,350 C232,350 232,628 260,628\" stroke=\"#9b86b3\" stroke-width=\"2\" fill=\"none\"/>\n\n        <g class=\"mm-branch\" data-target=\"bc1\">\n          <rect x=\"260\" y=\"71\" width=\"190\" height=\"34\" rx=\"8\" fill=\"#e6efe7\" stroke=\"#6b8f71\"/>\n          <text x=\"349\" y=\"93\" text-anchor=\"middle\" fill=\"#4c6b52\" font-size=\"15\" font-weight=\"700\">婴儿：复利好标的（¶1–2）</text>\n          <text class=\"mm-arrow\" data-for=\"bc1\" x=\"442\" y=\"93\" text-anchor=\"end\" fill=\"#4c6b52\">▾</text>\n        </g>\n        <g class=\"mm-children\" id=\"bc1\">\n          <path d=\"M450,88 C462,88 462,46 480,46\" stroke=\"#6b8f71\" stroke-width=\"1.5\" fill=\"none\"/>\n          <path d=\"M450,88 C462,88 462,88 480,88\" stroke=\"#6b8f71\" stroke-width=\"1.5\" fill=\"none\"/>\n          <path d=\"M450,88 C462,88 462,130 480,130\" stroke=\"#6b8f71\" stroke-width=\"1.5\" fill=\"none\"/>\n          <rect x=\"480\" y=\"30\" width=\"456\" height=\"32\" rx=\"8\" fill=\"#e6efe7\"/><text x=\"492\" y=\"51\" fill=\"#3d3a34\" font-size=\"14\">婴儿冲动、白吃白喝，根本不是合格投资者</text>\n          <rect x=\"480\" y=\"72\" width=\"456\" height=\"32\" rx=\"8\" fill=\"#e6efe7\"/><text x=\"492\" y=\"93\" fill=\"#3d3a34\" font-size=\"14\">复利够狠：1000 美元到 80 岁变成 5.8 万</text>\n          <rect x=\"480\" y=\"114\" width=\"456\" height=\"32\" rx=\"8\" fill=\"#e6efe7\"/><text x=\"492\" y=\"135\" fill=\"#3d3a34\" font-size=\"14\">期限越长越敢担险，比年轻人更该买股</text>\n        </g>\n\n        <g class=\"mm-branch\" data-target=\"bc2\">\n          <rect x=\"260\" y=\"221\" width=\"190\" height=\"34\" rx=\"8\" fill=\"#e5edf4\" stroke=\"#7d98ad\"/>\n          <text x=\"349\" y=\"243\" text-anchor=\"middle\" fill=\"#3d5872\" font-size=\"15\" font-weight=\"700\">金融资本用满优惠（¶3–5）</text>\n          <text class=\"mm-arrow\" data-for=\"bc2\" x=\"442\" y=\"243\" text-anchor=\"end\" fill=\"#3d5872\">▾</text>\n        </g>\n        <g class=\"mm-children\" id=\"bc2\">\n          <path d=\"M450,238 C462,238 462,196 480,196\" stroke=\"#7d98ad\" stroke-width=\"1.5\" fill=\"none\"/>\n          <path d=\"M450,238 C462,238 462,238 480,238\" stroke=\"#7d98ad\" stroke-width=\"1.5\" fill=\"none\"/>\n          <path d=\"M450,238 C462,238 462,280 480,280\" stroke=\"#7d98ad\" stroke-width=\"1.5\" fill=\"none\"/>\n          <rect x=\"480\" y=\"180\" width=\"456\" height=\"32\" rx=\"8\" fill=\"#e5edf4\"/><text x=\"492\" y=\"201\" fill=\"#3d3a34\" font-size=\"14\">特朗普账户、529、Junior ISA，优惠各有取舍</text>\n          <rect x=\"480\" y=\"222\" width=\"456\" height=\"32\" rx=\"8\" fill=\"#e5edf4\"/><text x=\"492\" y=\"243\" fill=\"#3d3a34\" font-size=\"14\">长期限熨平波动，多担风险才划算</text>\n          <rect x=\"480\" y=\"264\" width=\"456\" height=\"32\" rx=\"8\" fill=\"#e5edf4\"/><text x=\"492\" y=\"285\" fill=\"#3d3a34\" font-size=\"14\">钱先挪进免税的壳，别留在应税账户</text>\n        </g>\n\n        <g class=\"mm-branch\" data-target=\"bc3\">\n          <rect x=\"260\" y=\"416\" width=\"190\" height=\"34\" rx=\"8\" fill=\"#f4e7e4\" stroke=\"#bd7a6d\"/>\n          <text x=\"349\" y=\"438\" text-anchor=\"middle\" fill=\"#7c4a3e\" font-size=\"15\" font-weight=\"700\">人力资本先投教育（¶6–8）</text>\n          <text class=\"mm-arrow\" data-for=\"bc3\" x=\"442\" y=\"438\" text-anchor=\"end\" fill=\"#7c4a3e\">▾</text>\n        </g>\n        <g class=\"mm-children\" id=\"bc3\">\n          <path d=\"M450,433 C462,433 462,391 480,391\" stroke=\"#bd7a6d\" stroke-width=\"1.5\" fill=\"none\"/>\n          <path d=\"M450,433 C462,433 462,433 480,433\" stroke=\"#bd7a6d\" stroke-width=\"1.5\" fill=\"none\"/>\n          <path d=\"M450,433 C462,433 462,475 480,475\" stroke=\"#bd7a6d\" stroke-width=\"1.5\" fill=\"none\"/>\n          <rect x=\"480\" y=\"375\" width=\"456\" height=\"32\" rx=\"8\" fill=\"#f4e7e4\"/><text x=\"492\" y=\"396\" fill=\"#3d3a34\" font-size=\"14\">遗产养懒：卡内基散财，挪威工时降 7–10%</text>\n          <rect x=\"480\" y=\"417\" width=\"456\" height=\"32\" rx=\"8\" fill=\"#f4e7e4\"/><text x=\"492\" y=\"438\" fill=\"#3d3a34\" font-size=\"14\">贝克尔：先投教育技能，撞上递减再投金融</text>\n          <rect x=\"480\" y=\"459\" width=\"456\" height=\"32\" rx=\"8\" fill=\"#f4e7e4\"/><text x=\"492\" y=\"480\" fill=\"#3d3a34\" font-size=\"14\">教育钱沉没、不可互换，还可能被 AI 淘汰</text>\n        </g>\n\n        <g class=\"mm-branch\" data-target=\"bc4\">\n          <rect x=\"260\" y=\"611\" width=\"190\" height=\"34\" rx=\"8\" fill=\"#ece4f2\" stroke=\"#9b86b3\"/>\n          <text x=\"349\" y=\"633\" text-anchor=\"middle\" fill=\"#5a4670\" font-size=\"15\" font-weight=\"700\">两条腿走路（¶9–10）</text>\n          <text class=\"mm-arrow\" data-for=\"bc4\" x=\"442\" y=\"633\" text-anchor=\"end\" fill=\"#5a4670\">▾</text>\n        </g>\n        <g class=\"mm-children\" id=\"bc4\">\n          <path d=\"M450,628 C462,628 462,586 480,586\" stroke=\"#9b86b3\" stroke-width=\"1.5\" fill=\"none\"/>\n          <path d=\"M450,628 C462,628 462,628 480,628\" stroke=\"#9b86b3\" stroke-width=\"1.5\" fill=\"none\"/>\n          <path d=\"M450,628 C462,628 462,670 480,670\" stroke=\"#9b86b3\" stroke-width=\"1.5\" fill=\"none\"/>\n          <rect x=\"480\" y=\"570\" width=\"456\" height=\"32\" rx=\"8\" fill=\"#ece4f2\"/><text x=\"492\" y=\"591\" fill=\"#3d3a34\" font-size=\"14\">白给的钱先拿：1000 美元与各州补助</text>\n          <rect x=\"480\" y=\"612\" width=\"456\" height=\"32\" rx=\"8\" fill=\"#ece4f2\"/><text x=\"492\" y=\"633\" fill=\"#3d3a34\" font-size=\"14\">学费早备：529 尽早开，让复利跑满</text>\n          <rect x=\"480\" y=\"654\" width=\"456\" height=\"32\" rx=\"8\" fill=\"#ece4f2\"/><text x=\"492\" y=\"675\" fill=\"#3d3a34\" font-size=\"14\">别纠结：多试几条路，回报自然可观</text>\n        </g>\n\n      </svg>",
+  "img": ""
+ }
+}

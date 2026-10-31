@@ -1,0 +1,355 @@
+{
+ "paragraphs": [
+  {
+   "en_html": "A <mark class=\"voc\">handyman</mark>, hired to build <mark class=\"voc\">soundproof</mark> phone booths within a scam compound in a hotel owned by the Liu family, said he was interrupted by screams as he worked. He said he saw a supervisor beating three men, their hands tied behind their backs, with <mark class=\"voc\">lead</mark> pipes. A Taiwanese woman, who was trafficked into Laukkaing, told The Post she was <mark class=\"voc\">waterboarded</mark> when she tried to escape. A Chinese man, who was <mark class=\"voc\">forcibly</mark> brought into Kokang by knife-<mark class=\"voc\">wielding</mark> men after responding to an acting job online in China, said he saw others in his compound chained and beaten. At one point, four people were shot when they fought back during beatings and tried to seize guns from the guards, he added in an interview.",
+   "zh": "一名曾受雇在刘家旗下酒店内一处诈骗园区搭建隔音电话亭的杂工说，他干活时被尖叫声打断。他说，他看到一名主管用铅管殴打三名双手被反绑在身后的男子。一名被贩卖到老街的台湾女子告诉《华盛顿邮报》，她试图逃跑时遭到水刑。一名中国男子在中国网上看到一则演员招聘信息后应征，却被持刀男子强行带入果敢；他说，他在园区内看到其他人被锁链锁住并遭殴打。他还在一段采访中补充说，有一次，四个人在挨打时反抗并试图夺取保安的枪支，结果遭到枪击。",
+   "notes": [
+    {
+     "w": "handyman",
+     "ipa": "/ˈhændimæn/",
+     "pos": "n.",
+     "en": "a person who is skilled at a variety of repairs and small construction jobs",
+     "zh": "杂工，勤杂工，维修工",
+     "ctx": "杂工（被雇来搭隔音电话亭的工人，活干到一半成了暴行的目击者）。",
+     "ex1": "The handyman fixed the leaky faucet in under an hour. 杂工不到一小时就修好了漏水的水龙头。",
+     "ex2": "She hired a handyman to repaint the entire apartment. 她雇了一名杂工把整间公寓重新粉刷了一遍。"
+    },
+    {
+     "w": "soundproof",
+     "ipa": "/ˈsaʊndpruːf/",
+     "pos": "adj.",
+     "en": "designed to prevent sound from entering or escaping",
+     "zh": "隔音的",
+     "ctx": "隔音的（隔音亭一头给诈骗通话保密，一头盖住受害者的惨叫，一词两用）。",
+     "ex1": "The studio is completely soundproof, so no outside noise gets in. 这间录音室完全隔音，外界噪音一点也进不来。",
+     "ex2": "They installed soundproof windows to block the traffic noise. 他们安装了隔音窗以阻隔交通噪音。"
+    },
+    {
+     "w": "lead",
+     "ipa": "/led/",
+     "pos": "n.",
+     "en": "a heavy, soft, gray metal used in pipes, batteries, and weights",
+     "zh": "铅",
+     "ctx": "铅（lead pipes 铅管，重金属成了殴打受害者的凶器，读音还是 /led/）。",
+     "ex1": "Old pipes made of lead can contaminate drinking water. 老旧的铅制水管会污染饮用水。",
+     "ex2": "The workers wore protective gear to avoid lead poisoning. 工人们穿戴防护装备以避免铅中毒。"
+    },
+    {
+     "w": "waterboard",
+     "ipa": "/ˈwɔːtəbɔːd/",
+     "pos": "v.",
+     "en": "to torture someone by pouring water over their face while their head is tilted back, simulating drowning",
+     "zh": "对……施水刑",
+     "ctx": "施水刑（一名被贩卖到老街的台湾女子试图逃跑后遭到的折磨）。",
+     "ex1": "The detainees were reportedly waterboarded during interrogation. 据报，被拘留者在审讯期间遭到水刑。",
+     "ex2": "International law prohibits waterboarding as a form of torture. 国际法禁止将水刑作为一种酷刑。"
+    },
+    {
+     "w": "forcibly",
+     "ipa": "/ˈfɔːsəbli/",
+     "pos": "adv.",
+     "en": "using physical force; against someone's will",
+     "zh": "强行地，用武力地",
+     "ctx": "强行地（一名中国男子被持刀歹徒强行带进果敢，招聘幌子背后的真相）。",
+     "ex1": "The protesters were forcibly removed from the building. 抗议者被强行带离大楼。",
+     "ex2": "She was forcibly separated from her children at the border. 她在边境被强行与孩子分离。"
+    },
+    {
+     "w": "wield",
+     "ipa": "/wiːld/",
+     "pos": "v.",
+     "en": "to hold and use a weapon, tool, or power, especially with skill or authority",
+     "zh": "挥舞，手持，行使（权力）",
+     "ctx": "手持（knife-wielding men 持刀男子，暴力胁迫最具体的写法）。",
+     "ex1": "The knight wielded his sword with deadly precision. 那名骑士挥舞长剑，招招致命。",
+     "ex2": "The president wields enormous influence over the legislature. 总统对立法机构拥有巨大的影响力。"
+    }
+   ]
+  },
+  {
+   "en_html": "The Crouching Tiger Villa was among the most <mark class=\"voc\">brutally</mark> run compounds, witnesses said. There, caged lions, tigers and bears were used to threaten workers who <mark class=\"voc\">stepped out of line</mark>, according to a person who led a team of workers there. By 2023, Beijing was coming under growing domestic and international pressure to act against these operations. The United Nations estimated in a report last year that more than 120,000 people were being forced to work in Myanmar.",
+   "zh": "目击者称，“卧虎山庄”是管理最为残暴的园区之一。据一名曾在那里带领一队工人的人说，园区内关在笼中的狮子、老虎和熊被用来威胁不听话的工人。到2023年，北京在国内和国际上面临越来越大的压力，要求其对上述经营活动采取行动。联合国去年在一份报告中估计，超过12万人被迫在缅甸从事此类工作。",
+   "notes": [
+    {
+     "w": "brutally",
+     "ipa": "/ˈbruːtəli/",
+     "pos": "adv.",
+     "en": "in an extremely violent and cruel manner",
+     "zh": "残忍地，残暴地",
+     "ctx": "残暴地（“卧虎山庄”是管理最残暴的园区之一，副词先给全段定调）。",
+     "ex1": "The prisoners were brutally beaten for the slightest disobedience. 囚犯们因稍有不从便遭到残暴殴打。",
+     "ex2": "The regime brutally suppressed all forms of dissent. 该政权残暴镇压一切形式的异见。"
+    },
+    {
+     "w": "step out of line",
+     "ipa": "/step aʊt əv laɪn/",
+     "pos": "phrase",
+     "en": "to behave in a way that breaks the rules or is unacceptable",
+     "zh": "越轨，不守规矩，出格",
+     "ctx": "不守规矩、不听话（工人一越线，就拿笼中猛兽来吓）。",
+     "ex1": "Anyone who steps out of line will be severely punished. 任何不守规矩的人都将受到严惩。",
+     "ex2": "He was fired for stepping out of line during the meeting. 他因在会议上行为出格而被解雇。"
+    }
+   ]
+  },
+  {
+   "en_html": "Signs of official Chinese concern burst into the open in August when the Chinese ambassador warned Myanmar authorities to “<mark class=\"voc\">eradicate</mark> the cancer of <mark class=\"voc\">gambling</mark> and scams” that was “deeply <mark class=\"voc\">loathed</mark> by the Chinese people.” At the Crouching Tiger Villa on Oct. 20, guards opened fire when more than 100 people tried to leave. The Post could not verify how many died, but four <mark class=\"voc\">undercover</mark> Chinese police officers were among those killed.",
+   "zh": "中国官方对此关切的迹象在8月公开爆发，当时中国大使警告缅甸当局要“铲除赌博和诈骗的毒瘤”，称其“被中国人民深恶痛绝”。10月20日，在“卧虎山庄”，当100多人试图离开时，保安开枪射击。《华盛顿邮报》无法核实死亡人数，但死者中包括四名中国卧底警察。",
+   "notes": [
+    {
+     "w": "eradicate",
+     "ipa": "/ɪˈrædɪkeɪt/",
+     "pos": "v.",
+     "en": "to completely destroy or get rid of something, especially something harmful",
+     "zh": "根除，铲除，消灭",
+     "ctx": "铲除（中国大使要求缅方铲除赌博和诈骗这颗“毒瘤”，官方口径第一次公开）。",
+     "ex1": "The government launched a campaign to eradicate illiteracy. 政府发起了一场扫除文盲的运动。",
+     "ex2": "It will take decades to eradicate this disease worldwide. 要在全球根除这种疾病需要数十年时间。"
+    },
+    {
+     "w": "gamble",
+     "ipa": "/ˈɡæmbl/",
+     "pos": "v.",
+     "en": "to play games of chance for money; to take a risky action in the hope of a desired result",
+     "zh": "赌博；冒险",
+     "ctx": "赌博（大使口中的“赌博和诈骗的毒瘤”，名词形式是 gambling）。",
+     "ex1": "He gambled away his entire inheritance in a matter of months. 他在几个月内就把全部遗产输光了。",
+     "ex2": "They gambled on a risky investment and lost everything. 他们押注一项高风险投资，结果血本无归。"
+    },
+    {
+     "w": "loath",
+     "ipa": "/ləʊθ/",
+     "pos": "adj.",
+     "en": "unwilling or reluctant to do something",
+     "zh": "厌恶的，不情愿的",
+     "ctx": "深恶痛绝（deeply loathed 指中国民众对此厌恶到极点；loath 与 loathe 同源不同形）。",
+     "ex1": "She was loath to leave her hometown for a job in the city. 她不愿离开家乡去城里工作。",
+     "ex2": "He seemed loath to discuss the details of the incident. 他似乎不愿谈论事件的细节。"
+    },
+    {
+     "w": "undercover",
+     "ipa": "/ˌʌndəˈkʌvə/",
+     "pos": "adj.",
+     "en": "working secretly, especially by pretending to be someone else, in order to gather information",
+     "zh": "卧底的，秘密的",
+     "ctx": "卧底的（报道称四名中国卧底警察在这次枪击中身亡——这一说法后被中方否认）。",
+     "ex1": "An undercover agent infiltrated the drug cartel. 一名卧底特工打入了贩毒集团内部。",
+     "ex2": "The journalist went undercover to expose corruption in the police force. 那名记者卧底调查，揭露警队内部的腐败。"
+    }
+   ]
+  },
+  {
+   "en_html": "Confession videos <mark class=\"voc\">featuring</mark> Wei Qingtao and two others — individuals from the Liu family and the Ming family — began to appear on Chinese media. Two of the Mings were arrested in Myanmar by local police and handed over to China. In December, China issued arrest warrants for 10 more heads of the Bai, Wei and Liu families, and their children. On Jan. 6, Laukkaing, the capital of Kokang, <mark class=\"voc\">fell to</mark> the MNDAA, returning full control of the region to the <mark class=\"voc\">rebel</mark> group for the first time in 15 years. Since last July, 49,000 scam workers have been returned home to China, according to the Ministry of Public Security.",
+   "zh": "以魏清涛及另外两人——分别来自刘家和明家——为主角的认罪视频开始出现在中国媒体上。明家两人在缅甸被当地警方逮捕并移交给中国。12月，中国对白家、魏家和刘家的另外10名头目及其子女发出逮捕令。1月6日，果敢首府老街被缅甸民族民主同盟军攻占，该地区15年来首次完全回到这支反叛武装的控制之下。据公安部称，自去年7月以来，已有4.9万名诈骗从业人员被遣返回中国。",
+   "notes": [
+    {
+     "w": "feature",
+     "ipa": "/ˈfiːtʃə/",
+     "pos": "v.",
+     "en": "to include someone or something as an important part",
+     "zh": "以……为主角，重点展示，包含",
+     "ctx": "以……为主角（认罪视频以魏清涛等人为主角，开始在中国媒体播出）。",
+     "ex1": "The documentary features interviews with survivors of the disaster. 这部纪录片以灾难幸存者的采访为主要内容。",
+     "ex2": "Her latest album features collaborations with several top artists. 她的最新专辑收录了与多位顶尖艺术家的合作。"
+    },
+    {
+     "w": "fall to",
+     "ipa": "/fɔːl tə/",
+     "pos": "phrasal verb",
+     "en": "to be captured or taken by an opposing force",
+     "zh": "被攻占，落入（某方）之手",
+     "ctx": "被攻占（果敢首府老街落入 MNDAA 之手，15 年来头一回易主）。",
+     "ex1": "The fortress fell to the enemy after a long siege. 要塞在被长期围困后落入敌手。",
+     "ex2": "The city fell to the rebels in the early hours of the morning. 该城在凌晨被叛军攻占。"
+    },
+    {
+     "w": "rebel",
+     "ipa": "/ˈrebəl/",
+     "pos": "n.",
+     "en": "a person who fights against a government or authority",
+     "zh": "反叛者，叛军",
+     "ctx": "反叛武装（指缅甸民族民主同盟军 MNDAA）。",
+     "ex1": "The rebels controlled several towns along the border. 叛军控制了边境沿线的数个城镇。",
+     "ex2": "Government forces clashed with rebels in the northern mountains. 政府军与叛军在北部山区发生冲突。"
+    }
+   ]
+  },
+  {
+   "en_html": "The casinos and hotels owned by the Kokang crime families still stand, but have gone dark. Hanley <mark class=\"voc\">Interstellar</mark>, Wei’s club, is <mark class=\"voc\">deserted</mark>. So too is the Crouching Tiger Villa, its walls <mark class=\"voc\">crumbling</mark> and <mark class=\"voc\">pockmarked</mark> with bullet holes, verified videos show. But some of the <mark class=\"voc\">exotic</mark> animals — a tiger and five bears — survived the conflict. They still <mark class=\"voc\">roam</mark> their cages, depending on rebel soldiers to bring their daily meal of chicken.",
+   "zh": "果敢犯罪家族拥有的赌场和酒店依然矗立，但已人去楼空、漆黑一片。魏清涛的夜店“汉利星际”已荒废。“卧虎山庄”同样如此，经核实的视频显示，其墙壁坍塌，弹孔密布。但一些异国动物——一只老虎和五只熊——在冲突中幸存下来。它们仍在笼中徘徊，依靠反叛武装士兵每天送来鸡肉为食。",
+   "notes": [
+    {
+     "w": "interstellar",
+     "ipa": "/ˌɪntəˈstelə/",
+     "pos": "adj.",
+     "en": "relating to or occurring between stars",
+     "zh": "星际的",
+     "ctx": "星际（夜店名“Hanley Interstellar”即“汉利星际”，名字越炫，如今越荒凉）。",
+     "ex1": "Scientists are studying interstellar travel as a long-term possibility. 科学家正在研究星际旅行作为长期可能性。",
+     "ex2": "The probe sent back unprecedented data about interstellar space. 该探测器传回了关于星际空间的前所未有的数据。"
+    },
+    {
+     "w": "desert",
+     "ipa": "/dɪˈzɜːt/",
+     "pos": "v.",
+     "en": "to abandon a place or person; to leave without intending to return",
+     "zh": "抛弃，遗弃；变得空无一人",
+     "ctx": "荒废、人去楼空（作动词是“弃置”，魏清涛的夜店已经空无一人）。",
+     "ex1": "The villagers deserted their homes as the floodwaters rose. 洪水上涨时，村民们弃家而逃。",
+     "ex2": "The streets were deserted in the early hours of the morning. 凌晨时分，街道空无一人。"
+    },
+    {
+     "w": "crumble",
+     "ipa": "/ˈkrʌmbl/",
+     "pos": "v.",
+     "en": "to break or fall apart into small pieces, especially gradually; to collapse or deteriorate",
+     "zh": "崩塌，碎裂，瓦解",
+     "ctx": "坍塌（“卧虎山庄”的墙体已经开始塌，帝国与人一块儿碎）。",
+     "ex1": "The ancient walls have crumbled over centuries of neglect. 古老的城墙因数百年无人问津而坍塌。",
+     "ex2": "The empire began to crumble from within. 帝国开始从内部瓦解。"
+    },
+    {
+     "w": "pockmark",
+     "ipa": "/ˈpɒkmɑːk/",
+     "pos": "v.",
+     "en": "to cover a surface with small marks or holes, especially as a result of damage",
+     "zh": "使布满坑痕，使千疮百孔",
+     "ctx": "弹孔密布（墙上被子弹打得千疮百孔，这是 10·20 那一夜留下的账）。",
+     "ex1": "The facade of the building was pockmarked by shrapnel. 建筑物的外立面被弹片打得坑坑洼洼。",
+     "ex2": "The moon's surface is pockmarked with craters. 月球表面布满了陨石坑。"
+    },
+    {
+     "w": "exotic",
+     "ipa": "/ɪɡˈzɒtɪk/",
+     "pos": "adj.",
+     "en": "originating from a distant foreign country; unusual and striking in appearance",
+     "zh": "异国的，外来的，奇异的",
+     "ctx": "异国的（原本用来吓唬工人的老虎、熊，如今成了这场战争的幸存者）。",
+     "ex1": "The garden was filled with exotic plants from the tropics. 花园里种满了来自热带的异国植物。",
+     "ex2": "She developed a taste for exotic cuisine while traveling in Asia. 她在亚洲旅行时爱上了异国美食。"
+    },
+    {
+     "w": "roam",
+     "ipa": "/rəʊm/",
+     "pos": "v.",
+     "en": "to move about a place freely and without a fixed purpose",
+     "zh": "漫游，游荡，徘徊",
+     "ctx": "徘徊（幸存的动物还在笼里打转，等着士兵每天送鸡肉，凄凉又讽刺）。",
+     "ex1": "Wild horses roam freely across the plains. 野马在平原上自由驰骋。",
+     "ex2": "He spent his youth roaming the streets of the old city. 他年轻时在老城区的街头四处游荡。"
+    }
+   ]
+  }
+ ],
+ "proper": [
+  {
+   "name": "Kokang / 果敢",
+   "def": "缅甸掸邦北部的一个自治区，全称“缅甸掸邦果敢自治区”。果敢族是缅甸官方承认的少数民族之一，主要为汉族后裔。该地区长期处于高度自治状态，拥有自己的武装力量，中央政府控制力薄弱。2009年之后，以白所成、魏超仁、刘国玺、刘正祥为首的新势力崛起，号称“果敢四大家族”。在他们的运作下，老街从偏远贫困之地变成高楼耸立、赌场林立的区域。果敢是缅北电信诈骗、赌博、毒品等跨境犯罪的核心区域之一，高峰时期仅“卧虎山庄”一处园区涉诈人员就接近万人。<br>本文中的意思：全文的地理坐标——魏清涛撒钱的夜店、四大家族的园区都在这块缅甸掸邦的自治飞地里，北京要治的“境外”就是这里。"
+  },
+  {
+   "name": "cyberscam / 网络诈骗",
+   "def": "外刊中“cyberscam”泛指以互联网为媒介实施的诈骗活动，在缅北语境下特指针对中国公民的电信网络诈骗。诈骗形式包括虚假投资理财、刷单返利、冒充公检法、虚假征信等，其中“杀猪盘”（romance-investment scam）是最主要的模式之一。联合国人权高专办2023年报告指出，东南亚有数十万人被犯罪团伙强迫从事网络犯罪活动，缅甸全国可能至少有12万人被迫从事此类工作，这些诈骗中心每年攫取数十亿美元的收入。<br>本文中的意思：第 1、2 段反复出现的产业名词；魏清涛那句“赚的都是中国老百姓的养老钱”，就是对它最直白的注解。"
+  },
+  {
+   "name": "confession video / 忏悔视频",
+   "def": "外刊中“confession video”指魏清涛等被抓获的犯罪集团成员在中国警方控制下录制并公开发布的认罪视频。2023年10月1日凌晨，中国警方在云南临沧南伞口岸的一家酒店内，借“四大家族”重要成员魏青涛、刘正琦等人进入中国境内之机果断收网，整个过程仅持续十分钟。魏清涛随后于2023年10月和11月两次录制认罪视频，在中国官方媒体播出。视频中，他宣读认罪供词，承认诈骗所得“都是中国老百姓的养老钱”，并劝诫家族成员停止犯罪、移交涉诈人员。<br>本文中的意思：第 2 段“reading a scripted confession”和第 9 段“Confession videos featuring Wei Qingtao”说的是同一批视频，也是全文的转折点。"
+  },
+  {
+   "name": "Chinese custody / 中国羁押",
+   "def": "指魏清涛被中国警方依法拘留并处于羁押状态。2023年10月1日，中国警方在云南边境将魏清涛、刘正琦等“四大家族”重要成员抓获，随后对其采取强制措施。这一行动标志着中国警方对缅北电诈犯罪从“境外追逃”转向“境内抓捕”的关键转折。<br>本文中的意思：第 2 段“while in Chinese custody”——魏清涛不是被缅甸抓的，是落在中国警方手里，认罪视频的分量全在这四个字上。"
+  },
+  {
+   "name": "Kokang’s “Four Families” / 果敢“四大家族”",
+   "def": "指长期盘踞缅北果敢地区、控制当地政治军事经济命脉的四个犯罪家族：白所成家族、魏超仁家族、刘正祥家族和刘国玺家族（刘国玺于2020年去世后，明学昌逐渐蚕食其势力，成为新的“四大家族”成员之一）。这些家族成员兼任果敢自治区议员、民兵首领、地方行政官员等职。白所成曾任果敢自治区主席，其子白应能任果敢自治区常委、巩固发展党主席，白应苍掌控民兵大队；魏超仁曾任果敢同盟军参谋长，其子魏清涛为亨利集团总裁；刘正祥创立“福利来集团”，开发建设凯旋大楼、玫瑰庄园等电诈园区。他们以赌场、电诈园区、地下钱庄为经济支柱，实施针对中国公民的大规模电信诈骗，涉赌诈等资金达290余亿元，造成6名中国公民死亡。<br>本文中的意思：标题里“四大家族”的正解；第 3 段他们当议员、掌民兵，第 9 段他们的头目被发逮捕令，都是这四家的轮廓。"
+  },
+  {
+   "name": "Laukkaing / 老街",
+   "def": "果敢自治区的首府，缅北电诈产业的核心据点。老街聚集了大量赌场、电诈园区和娱乐场所，包括亨利集团旗下的新锦江赌场、星际娱乐会所，以及明家控制的“卧虎山庄”等。2023年10月27日，缅甸民族民主同盟军（MNDAA）发动“1027行动”，对缅北多地发起攻势。2024年1月，老街被MNDAA攻占，15年来首次完全控制果敢地区。<br>本文中的意思：第 3 段“the Kokang capital, Laukkaing”与第 9 段“Laukkaing … fell to the MNDAA”是同一个地方，从赌场不夜城到被攻占，一条线走完。"
+  },
+  {
+   "name": "Crouching Tiger Villa / 卧虎山庄",
+   "def": "位于果敢老街的臭名昭著的电诈园区，由明学昌家族直接掌控，在明家所有电诈园区中规模最大、非法收益最高。园区内分布着众多电诈窝点，对电诈人员实行严格管理，更藏有一个地下靶场，被称为底层电诈人员的“处决地”，墙上布满弹孔。2023年10月19日晚，明家得知园区将于次日被清查，便安排武装人员携带枪支，分批押运电诈人员从“卧虎山庄”转移至承德公馆（“红房子”）及“东湖山庄”等地点看押。20日凌晨，被看押的涉诈人员在逃跑过程中遭到武装人员开枪射击，造成中国籍涉诈人员4人死亡、4人受伤。<br>本文中的意思：第 4 段偷运人口的目的地、第 8 段开枪的地点、第 10 段弹孔密布的废墟，三处都是它。"
+  },
+  {
+   "name": "ethnic Chinese / 华裔/华人",
+   "def": "外刊中“ethnic Chinese”指具有中华民族血统但可能拥有他国国籍的人群。缅北电诈园区的被贩卖者多为中国公民或华裔。联合国报告指出，被诱拐参与网络诈骗活动的大多是男性，也有妇女和青少年，受害者大多不是贩运发生国的公民，许多人具有良好的教育背景，从事专业工作或拥有本科甚至硕士学位，精通计算机和多种语言。受害者来自东盟各国以及中国大陆、香港、台湾，甚至非洲和拉丁美洲。<br>本文中的意思：第 5 段“mostly Chinese nationals or ethnic Chinese”点明被买卖的“货”主要是中国人，这也是北京不得不出手的原因。"
+  },
+  {
+   "name": "Myanmar military / 缅甸军方",
+   "def": "缅甸国防军，在缅北地区与各民族地方武装存在长期冲突。外刊中“Myanmar military snipers on the rooftops”指缅甸军方狙击手出现在诈骗园区屋顶。缅北果敢地区的电诈产业长期受到当地国境警备部队的保护，部分收益甚至上供至军方。2023年10月27日MNDAA发动“1027行动”后，缅甸军方在掸邦北部节节败退，2024年1月老街陷落，8月掸邦北部最大城市腊戍也被攻占，这是缅甸内战中军方遭受的最大败绩之一。<br>本文中的意思：第 5 段“Myanmar military snipers on the rooftops”——园区屋顶上的枪口，指向军方与诈骗园之间那层说不清的关系。"
+  },
+  {
+   "name": "scam compound / 诈骗园区",
+   "def": "缅北电诈产业的物理载体，通常由酒店、赌场综合体改造或专门建造，园区四周设有高墙、铁栅窗户，由武装人员把守。明家犯罪集团自2015年起，利用家族影响力在缅北果敢地区开发建设了“卧虎山庄”“玉祥国际集团”等一批产业化、集团化的赌诈园区，招揽吸引“金主”入驻，通过收取租金、人头费、安保费、干股提成等方式牟利，高峰时期园区涉诈人员近万人。园区内的被贩卖者被强迫从事电信诈骗，未达业绩目标或试图逃跑者会遭受殴打、酷刑甚至杀害。<br>本文中的意思：第 5、6 段反复出现的 compounds，酒店改造的和专门新建的都算，是整条产业链的物理载体。"
+  },
+  {
+   "name": "waterboarding / 水刑",
+   "def": "一种被国际法禁止的酷刑手段，通过向受害者面部持续浇水模拟溺水感，造成极度的生理和心理痛苦。联合国报告确认，许多被贩运至东南亚诈骗园区的人遭受了酷刑和残忍、不人道或有辱人格的待遇或处罚，包括任意拘留、性暴力、强迫劳动和其他侵犯人权的行为。外刊中提到一名台湾女子在试图逃离诈骗园区后被施以水刑。<br>本文中的意思：第 6 段那名台湾女子试图逃跑后的遭遇，就是这个词的注脚。"
+  },
+  {
+   "name": "scam “piglets” / 电诈“猪仔”",
+   "def": "外刊中虽未直接使用“猪仔”一词，但“workers bought, sold and traded”所指的正是被贩卖至诈骗园区的人员。中文语境下，被骗至缅北从事电诈的人员被犯罪集团称为“猪仔”，可被反复转卖。一名受害者何某威2019年被熟人骗去缅北后，先后被不同的诈骗窝点转卖过6次，最后才被卖到明家犯罪集团旗下的“卧虎山庄”。他在接受采访时表示：“‘卧虎山庄’的管理手段特别残忍。我逃了很多次，都没有跑成，身上被打得青一块紫一块。”<br>本文中的意思：对应第 5 段“bought, sold and traded”的那些人，可以被反复转卖，中文语境里就叫“猪仔”。"
+  },
+  {
+   "name": "United Nations report / 联合国报告",
+   "def": "外刊提及联合国在2023年发布的报告估计超过12万人被迫在缅甸从事诈骗工作。该报告由联合国人权事务高级专员办事处（OHCHR）于2023年8月发布。报告指出，东南亚有数十万人被有组织的犯罪团伙强迫从事网络犯罪活动，包括恋爱投资陷阱、加密货币诈骗和非法赌博。受害者面临一系列严重的侵权和虐待行为，包括酷刑、任意拘留、性暴力、强迫劳动等。人权高专蒂尔克强调：“被胁迫参与这些诈骗活动的人在被迫实施犯罪的同时还要遭受非人道的待遇。他们是受害者，而不是罪犯。”<br>本文中的意思：第 7 段“more than 120,000 people were being forced to work in Myanmar”的数据来源，给北京的压力又添了一层国际背书。"
+  },
+  {
+   "name": "caged lions, tigers and bears / 笼中猛兽",
+   "def": "外刊中提到“卧虎山庄”用笼中的狮子、老虎和熊来威胁不听话的工人。这些动物与园区名称“卧虎”相呼应，是犯罪集团实施心理威慑和暴力控制的工具。据一名曾在园区内带领工人工作的人透露，园区内关在笼中的猛兽被用来威胁不听话的工人。<br>本文中的意思：第 7 段用来吓工人的狮子、老虎和熊；第 10 段幸存的一只老虎和五只熊，是同一座园区的余响。"
+  },
+  {
+   "name": "Chinese ambassador’s warning / 中国大使警告",
+   "def": "2023年7月25日，中国驻缅甸大使陈海在内比都会见缅甸外长丹穗，就中缅合力打击缅境内电诈网赌等犯罪活动进行专题协调。陈海指出，包括缅北在内缅甸边境地区电诈活动依然猖獗，严重损害中缅两国民众切身利益，“中国政府对此高度重视，中国民众对此深恶痛绝”。双方应进一步采取有力措施，全力铲除电诈窝点，解救被困中方人员，根除缅甸境内诈赌毒瘤，将犯罪势力及其组织人员绳之以法。<br>本文中的意思：第 8 段“eradicate the cancer of gambling and scams”的出处，官方态度从幕后走到了台前。"
+  },
+  {
+   "name": "“10·20” shooting incident / “10·20”枪击案",
+   "def": "2023年10月20日，果敢明家控制的“卧虎山庄”在转移涉诈人员过程中，武装人员开枪镇压试图逃跑者，导致中国籍涉诈人员4人死亡、4人受伤。此前网上流传“4名中国警察被杀害”“造成上百人伤亡”等说法，经专案查明均为不实信息，死伤的都是电诈园区里面的人员，不是公安民警。该案成为中国警方全面打击缅北电诈的转折点。2023年10月31日，时任缅甸国家管理委员会主席敏昂莱在内比都会见中国国务委员、公安部部长王小洪，双方就“10·20”枪击案进行交涉，推动成立中缅联合执法工作组开展调查。<br>本文中的意思：第 8 段“guards opened fire when more than 100 people tried to leave”即此案；报道称有卧底警察死亡，中方通报则明确否认。"
+  },
+  {
+   "name": "undercover Chinese police officers / 中国卧底警察",
+   "def": "外刊称四名中国卧底警察在“10·20”枪击案中殉职。但根据中国官方调查结论，这一说法为谣言。温州市公安局常务副局长王造明确回应：“‘10·20’案件确实造成了中国籍人员伤亡，共有4人死亡4人受伤，死伤的都是电诈园区里面的人员，不是公安民警。”“10·20”枪击案被中方定性为“严重挑战中方红线、底线”的恶性犯罪，中国警方随后获准进入缅北果敢电诈园区开展调查，这是中国警方第一次获准进入该地区执法。<br>本文中的意思：第 8 段末尾“four undercover Chinese police officers were among those killed”，是《华盛顿邮报》的说法，与中方调查结论相左，读时要留个心眼。"
+  },
+  {
+   "name": "Bai, Wei and Liu families / 白家、魏家、刘家",
+   "def": "“四大家族”中的三个核心家族。白所成家族：白所成曾任果敢自治区主席，是四大家族之首。其子白应能任果敢自治区常委、巩固发展党主席，百胜集团董事长；白应苍任民兵大队长，掌控苍胜科技园区。魏超仁家族：魏超仁曾任果敢同盟军参谋长，其子魏清涛为亨利集团总裁，魏榕掌管亨利集团。刘正祥家族：刘正祥创立“福利来集团”，开发建设凯旋大楼、玫瑰庄园等28个电诈园区。三大家族的二代联系紧密，白应苍与魏清涛同为果敢地区青年联合会副会长。2023年12月，中国对三大家族10名头目发出逮捕令。2024年1月30日，缅甸警方将白所成、白应苍、魏怀仁、刘正祥、刘正茂等移交我方。<br>本文中的意思：第 9 段“10 more heads of the Bai, Wei and Liu families”，三家的头目连同子女一起被发逮捕令。"
+  },
+  {
+   "name": "MNDAA / 缅甸民族民主同盟军",
+   "def": "全称Myanmar National Democratic Alliance Army，中文称“果敢同盟军”，是缅北重要的民族地方武装，由果敢族（华人）组成。2023年10月27日，MNDAA联合德昂民族解放军（TNLA）和若开军（AA）组成“兄弟同盟军”，发动“1027行动”。 MNDAA发言人李家文表示，作战目的包括：夺回2009年失去的土地、消灭网络诈骗、推翻军政府恢复民主化进程、建立真正的联邦制。2024年1月，MNDAA攻占老街，15年来首次完全控制果敢地区。中国对MNDAA的军事行动采取了默许态度，因为该行动有助于打击电诈产业。<br>本文中的意思：第 9 段“fell to the MNDAA”——攻下老街、终结四大家族的那支武装。"
+  },
+  {
+   "name": "Ministry of Public Security / 公安部",
+   "def": "中国公安部，主导打击缅北涉我犯罪专项工作。自2023年以来，公安部与缅甸执法部门不断加强国际警务合作，部署指挥云南公安机关与缅甸相关地方执法部门持续深化边境警务执法合作。截至2026年，已累计抓获并移交涉诈犯罪嫌疑人5.9万余名，缅北规模化电诈园区基本实现清零。2025年初，中缅泰建立联合打击电诈犯罪部级协调机制，对妙瓦底地区电诈犯罪开展集中清剿，先后开展10次联合遣返行动，妙瓦底 KK园区630余栋建筑物全部拆除。<br>本文中的意思：第 9 段“49,000 scam workers have been returned home to China”的数据出处。"
+  },
+  {
+   "name": "arrest warrants / 逮捕令",
+   "def": "2023年11月12日，中国警方对明学昌、明国平、明菊兰、明珍珍发出通缉令。2023年12月，中国警方对白所成、魏怀仁、刘正祥等“四大家族”头目公开悬赏通缉。2023年11月15日夜，缅方组织对明学昌进行抓捕，期间明学昌畏罪自杀身亡。11月16日，明国平、明菊兰、明珍珍3人被成功抓获并移交我方。2024年1月30日，缅甸警方将白所成、白应苍、魏怀仁、刘正祥、刘正茂等重要犯罪嫌疑人移交我方。截至目前，缅北果敢“四大家族”犯罪集团案已全部进入司法程序，其中明家、白家两大犯罪集团案已完成全部审理程序，16人被依法判处死刑立即执行。<br>本文中的意思：第 9 段“China issued arrest warrants for 10 more heads”，收网从舆论战转入法律程序。"
+  },
+  {
+   "name": "rebel group / 反叛武装",
+   "def": "外刊中“rebel group”指缅甸民族民主同盟军（MNDAA）。该武装以“打击电信诈骗”为旗号发动“1027行动”，在攻占果敢后成为该地区的实际控制力量。MNDAA的武器供应依赖于佤邦联合军经由中国的渠道，没有中国的默许，该行动难以达到如此规模。2023年12月7日至8日，中国在昆明斡旋缅甸军方与同盟军进行和平谈判。分析认为，中国可能乐见MNDAA成功控制果敢，因为北京对缅甸军政权和果敢国境警备部队在遏制电诈园区方面的不作为感到不满。<br>本文中的意思：第 9 段“the rebel group”、第 10 段“rebel soldiers”，都指 MNDAA。"
+  }
+ ],
+ "sources_note": "资料核对：以上背景依据文章内容，并参考联合国人权事务高级专员办事处（OHCHR）2023 年 8 月报告、中国公安部通报及《华盛顿邮报》截至 2026 年 10 月的公开报道。",
+ "practice": {
+  "intro": "请根据今天学习的外刊，把下面的中文句子翻译成英文。要求：尽量用上本文的核心表达，可以适当改变词形，但不要直接照抄原文。",
+  "items": [
+   "那个富家子弟又在网上炫耀他的新车了。",
+   "警察把小偷铐起来带走了。",
+   "这群人偷偷把货物运到了国外。",
+   "他住在一个有高墙的大院子里。",
+   "记者偷偷调查了半年，终于查出了真相。",
+   "公司倒闭了，办公室空无一人。"
+  ],
+  "critical_en": "If the state once helped these crime families grow, does its later crackdown count as justice — or merely as cleaning up its own mess?",
+  "critical_zh": "如果这些犯罪家族当初是在默许甚至扶植下坐大的，那后来的重拳收网算不算正义——还是只是在收拾自己留下的烂摊子？",
+  "answer": "1. The rich kid is flaunting his new car online again.<br><br>2. The police took the thief away in cuffs.<br><br>3. The group smuggled the goods out of the country.<br><br>4. He lives in a compound with high walls.<br><br>5. The journalist investigated undercover for six months and finally found out the truth.<br><br>6. The company crumbled, and the office was deserted."
+ },
+ "mindmap": {
+  "aria": "缅北电诈“四大家族”覆灭全纪录思维导图",
+  "alt": "缅北电诈“四大家族”覆灭（手绘版）",
+  "svg": "<svg viewBox=\"0 0 960 720\" xmlns=\"http://www.w3.org/2000/svg\" role=\"img\" aria-label=\"缅北电诈“四大家族”覆灭全纪录思维导图\" style=\"width:100%;height:auto;font-family:-apple-system,'PingFang SC','Hiragino Sans GB','Microsoft YaHei',sans-serif\">\n        <rect x=\"24\" y=\"306\" width=\"176\" height=\"88\" rx=\"14\" fill=\"#eae3d2\" stroke=\"#9a8f76\"/>\n        <text x=\"112\" y=\"342\" text-anchor=\"middle\" fill=\"#3d3a34\" font-size=\"17\" font-weight=\"700\">缅北“四大家族”</text>\n        <text x=\"112\" y=\"368\" text-anchor=\"middle\" fill=\"#5c5648\" font-size=\"12.5\">从炫富到覆灭的全纪录</text>\n\n        <path d=\"M200,350 C232,350 232,88 260,88\"  stroke=\"#6b8f71\" stroke-width=\"2\" fill=\"none\"/>\n        <path d=\"M200,350 C232,350 232,238 260,238\"  stroke=\"#7d98ad\" stroke-width=\"2\" fill=\"none\"/>\n        <path d=\"M200,350 C232,350 232,433 260,433\"  stroke=\"#bd7a6d\" stroke-width=\"2\" fill=\"none\"/>\n        <path d=\"M200,350 C232,350 232,628 260,628\"  stroke=\"#9b86b3\" stroke-width=\"2\" fill=\"none\"/>\n\n        <g class=\"mm-branch\" data-target=\"bc1\">\n          <rect x=\"260\" y=\"71\" width=\"190\" height=\"34\" rx=\"8\" fill=\"#e6efe7\" stroke=\"#6b8f71\"/>\n          <text x=\"349\" y=\"93\" text-anchor=\"middle\" fill=\"#4c6b52\" font-size=\"15\" font-weight=\"700\">魏清涛：炫富到认罪</text>\n          <text class=\"mm-arrow\" data-for=\"bc1\" x=\"442\" y=\"93\" text-anchor=\"end\" fill=\"#4c6b52\">▾</text>\n        </g>\n        <g class=\"mm-children\" id=\"bc1\">\n          <path d=\"M450,88 C462,88 462,46 480,46\" stroke=\"#6b8f71\" stroke-width=\"1.5\" fill=\"none\"/>\n          <path d=\"M450,88 C462,88 462,88 480,88\" stroke=\"#6b8f71\" stroke-width=\"1.5\" fill=\"none\"/>\n          <path d=\"M450,88 C462,88 462,130 480,130\" stroke=\"#6b8f71\" stroke-width=\"1.5\" fill=\"none\"/>\n          <rect x=\"480\" y=\"30\" width=\"456\" height=\"32\" rx=\"8\" fill=\"#e6efe7\"/><text x=\"492\" y=\"51\" fill=\"#3d3a34\" font-size=\"14\">抖音晒宾利、兰博基尼、雪茄、私人飞机，夜店撒钱</text>\n          <rect x=\"480\" y=\"72\" width=\"456\" height=\"32\" rx=\"8\" fill=\"#e6efe7\"/><text x=\"492\" y=\"93\" fill=\"#3d3a34\" font-size=\"14\">11 月好日子戛然而止，社交账号一夜消失</text>\n          <rect x=\"480\" y=\"114\" width=\"456\" height=\"32\" rx=\"8\" fill=\"#e6efe7\"/><text x=\"492\" y=\"135\" fill=\"#3d3a34\" font-size=\"14\">电视上照本宣科认罪：骗的是老百姓的养老钱</text>\n        </g>\n\n        <g class=\"mm-branch\" data-target=\"bc2\">\n          <rect x=\"260\" y=\"221\" width=\"190\" height=\"34\" rx=\"8\" fill=\"#e5edf4\" stroke=\"#7d98ad\"/>\n          <text x=\"349\" y=\"243\" text-anchor=\"middle\" fill=\"#3d5872\" font-size=\"15\" font-weight=\"700\">家族帝国与诈骗经济</text>\n          <text class=\"mm-arrow\" data-for=\"bc2\" x=\"442\" y=\"243\" text-anchor=\"end\" fill=\"#3d5872\">▾</text>\n        </g>\n        <g class=\"mm-children\" id=\"bc2\">\n          <path d=\"M450,238 C462,238 462,196 480,196\" stroke=\"#7d98ad\" stroke-width=\"1.5\" fill=\"none\"/>\n          <path d=\"M450,238 C462,238 462,238 480,238\" stroke=\"#7d98ad\" stroke-width=\"1.5\" fill=\"none\"/>\n          <path d=\"M450,238 C462,238 462,280 480,280\" stroke=\"#7d98ad\" stroke-width=\"1.5\" fill=\"none\"/>\n          <rect x=\"480\" y=\"180\" width=\"456\" height=\"32\" rx=\"8\" fill=\"#e5edf4\"/><text x=\"492\" y=\"201\" fill=\"#3d3a34\" font-size=\"14\">家族身兼议员、民兵首领、地方官与商人</text>\n          <rect x=\"480\" y=\"222\" width=\"456\" height=\"32\" rx=\"8\" fill=\"#e5edf4\"/><text x=\"492\" y=\"243\" fill=\"#3d3a34\" font-size=\"14\">帝国的底子是赌场、地下钱庄和洗钱</text>\n          <rect x=\"480\" y=\"264\" width=\"456\" height=\"32\" rx=\"8\" fill=\"#e5edf4\"/><text x=\"492\" y=\"285\" fill=\"#3d3a34\" font-size=\"14\">疫情封关掐断现金流，赌场转身做诈骗</text>\n        </g>\n\n        <g class=\"mm-branch\" data-target=\"bc3\">\n          <rect x=\"260\" y=\"416\" width=\"190\" height=\"34\" rx=\"8\" fill=\"#f4e7e4\" stroke=\"#bd7a6d\"/>\n          <text x=\"349\" y=\"438\" text-anchor=\"middle\" fill=\"#7c4a3e\" font-size=\"15\" font-weight=\"700\">园区内幕：奴役与暴行</text>\n          <text class=\"mm-arrow\" data-for=\"bc3\" x=\"442\" y=\"438\" text-anchor=\"end\" fill=\"#7c4a3e\">▾</text>\n        </g>\n        <g class=\"mm-children\" id=\"bc3\">\n          <path d=\"M450,433 C462,433 462,391 480,391\" stroke=\"#bd7a6d\" stroke-width=\"1.5\" fill=\"none\"/>\n          <path d=\"M450,433 C462,433 462,433 480,433\" stroke=\"#bd7a6d\" stroke-width=\"1.5\" fill=\"none\"/>\n          <path d=\"M450,433 C462,433 462,475 480,475\" stroke=\"#bd7a6d\" stroke-width=\"1.5\" fill=\"none\"/>\n          <rect x=\"480\" y=\"375\" width=\"456\" height=\"32\" rx=\"8\" fill=\"#f4e7e4\"/><text x=\"492\" y=\"396\" fill=\"#3d3a34\" font-size=\"14\">工人被买卖转手，不达标就遭殴打酷刑</text>\n          <rect x=\"480\" y=\"417\" width=\"456\" height=\"32\" rx=\"8\" fill=\"#f4e7e4\"/><text x=\"492\" y=\"438\" fill=\"#3d3a34\" font-size=\"14\">园区或藏在酒店里，或专建：铁窗高墙狙击手</text>\n          <rect x=\"480\" y=\"459\" width=\"456\" height=\"32\" rx=\"8\" fill=\"#f4e7e4\"/><text x=\"492\" y=\"480\" fill=\"#3d3a34\" font-size=\"14\">“卧虎山庄”最狠：笼中狮虎熊逼人听话</text>\n        </g>\n\n        <g class=\"mm-branch\" data-target=\"bc4\">\n          <rect x=\"260\" y=\"611\" width=\"190\" height=\"34\" rx=\"8\" fill=\"#ece4f2\" stroke=\"#9b86b3\"/>\n          <text x=\"349\" y=\"633\" text-anchor=\"middle\" fill=\"#5a4670\" font-size=\"15\" font-weight=\"700\">收网、攻占与废墟</text>\n          <text class=\"mm-arrow\" data-for=\"bc4\" x=\"442\" y=\"633\" text-anchor=\"end\" fill=\"#5a4670\">▾</text>\n        </g>\n        <g class=\"mm-children\" id=\"bc4\">\n          <path d=\"M450,628 C462,628 462,586 480,586\" stroke=\"#9b86b3\" stroke-width=\"1.5\" fill=\"none\"/>\n          <path d=\"M450,628 C462,628 462,628 480,628\" stroke=\"#9b86b3\" stroke-width=\"1.5\" fill=\"none\"/>\n          <path d=\"M450,628 C462,628 462,670 480,670\" stroke=\"#9b86b3\" stroke-width=\"1.5\" fill=\"none\"/>\n          <rect x=\"480\" y=\"570\" width=\"456\" height=\"32\" rx=\"8\" fill=\"#ece4f2\"/><text x=\"492\" y=\"591\" fill=\"#3d3a34\" font-size=\"14\">大使喊话铲除“毒瘤”，10·20 开枪</text>\n          <rect x=\"480\" y=\"612\" width=\"456\" height=\"32\" rx=\"8\" fill=\"#ece4f2\"/><text x=\"492\" y=\"633\" fill=\"#3d3a34\" font-size=\"14\">认罪视频上线、头目被悬赏，老街易主</text>\n          <rect x=\"480\" y=\"654\" width=\"456\" height=\"32\" rx=\"8\" fill=\"#ece4f2\"/><text x=\"492\" y=\"675\" fill=\"#3d3a34\" font-size=\"14\">4.9 万人遣返；赌场熄灯，动物仍在笼中</text>\n        </g>\n\n      </svg>",
+  "img": ""
+ }
+}

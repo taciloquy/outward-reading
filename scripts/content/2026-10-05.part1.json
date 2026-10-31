@@ -1,0 +1,417 @@
+{
+ "date": "2026-10-05",
+ "title_tag": "给孩子留100万，还是花100万培养他？哪一种回报更高？—— 英国《经济学人》外刊讲解第1188天",
+ "h1": "给孩子留100万，还是花100万培养他？哪一种回报更高？",
+ "source_label": "The Economist",
+ "category": "英国《经济学人》外刊讲解 第1188天",
+ "read_minutes": 19,
+ "nav_hint": "Investing for babies involves knotty trade-offs",
+ "headline": {
+  "en_html": "<span>Investing for babies involves <mark class=\"voc\">knotty</mark> <mark class=\"voc\">trade-offs</mark></span> — <span>Should new parents <mark class=\"voc\">favour</mark> financial capital, <mark class=\"voc\">human capital</mark> or something else?</span>",
+  "zh": "给婴儿做投资，是一道难解的取舍题——新手父母该押注金融资本、人力资本，还是别的什么？",
+  "notes": [
+   {
+    "w": "knotty",
+    "ipa": "/ˈnɒti/",
+    "pos": "adj.",
+    "en": "knotty means complicated and difficult to solve, like a tangle that cannot be pulled apart",
+    "zh": "棘手的，盘根错节的",
+    "ctx": "标题先定调：给婴儿做投资不是一道算数题，而是一团解不开的结。",
+    "ex1": "The merger raised a knotty question about which management team would survive. 这桩合并抛出了一个棘手的问题：两套管理层究竟留谁。",
+    "ex2": "Regulators are still untangling the knotty issue of who owns the training data. 监管机构仍在梳理“训练数据归谁所有”这个盘根错节的难题。"
+   },
+   {
+    "w": "trade-off",
+    "ipa": "/ˈtreɪd ɒf/",
+    "pos": "n.",
+    "en": "a trade-off means a situation in which you accept less of one thing in order to get more of another",
+    "zh": "取舍，此消彼长的权衡",
+    "ctx": "副标题把选择摊开：金融资本、人力资本，还是别的什么？父母手里的钱只有一份。",
+    "ex1": "Every chip designer faces a trade-off between raw speed and battery life. 每一个芯片设计者都要在纯性能和续航之间做取舍。",
+    "ex2": "There is an unavoidable trade-off between keeping prices low and paying workers more. 压低价格和给工人加薪之间，存在无法回避的取舍。"
+   },
+   {
+    "w": "favour",
+    "ipa": "/ˈfeɪvə(r)/",
+    "pos": "v.（美式拼favor）",
+    "en": "favour means to prefer or choose one option over the others available",
+    "zh": "倾向于，更看好",
+    "ctx": "副标题的动词：不是“给”，而是“押注在哪一边”。",
+    "ex1": "Younger investors increasingly favour index funds over actively managed products. 年轻投资者越来越倾向于指数基金，而不是主动管理型产品。",
+    "ex2": "The latest evidence favours the simpler explanation. 最新的证据更支持那个比较简单的解释。"
+   },
+   {
+    "w": "human capital",
+    "ipa": "/ˈhjuːmən ˈkæpɪtl/",
+    "pos": "固定短语",
+    "en": "human capital means the knowledge, skills and health that a person possesses and that can generate future income",
+    "zh": "人力资本",
+    "ctx": "与“金融资本”对举：花在孩子健康、教育和技能上的那部分投入。",
+    "ex1": "Singapore’s growth story is largely a story of relentless human-capital investment. 新加坡的增长故事，很大程度上就是一部持续投资人力资本的历史。",
+    "ex2": "When a factory closes, the loss of human capital often outlasts the loss of jobs. 工厂关门时，人力资本的流失往往比岗位的消失影响更久。"
+   }
+  ]
+ },
+ "paragraphs": [
+  {
+   "en_html": "Patience, consistency and <mark class=\"voc\">frugality</mark> are fine habits for an investor. They are not, however, common <mark class=\"voc\">virtues</mark> among newborn babies. The little <mark class=\"voc\">bundles of joy</mark> are <mark class=\"voc\">impulsive</mark> short-term thinkers. They are also some of nature’s biggest <mark class=\"voc\">freeloaders</mark>, <mark class=\"voc\">living entirely beyond their means</mark>.",
+   "zh": "耐心、自律、节俭，是投资者身上难得的好习惯。可惜啊，这些美德在新生儿身上基本见不着。这些被襁褓裹着的“小开心果”，是一群冲动的短期主义者。他们还是大自然里头号的白吃白喝党——花的钱，一分不是自己挣的。",
+   "notes": [
+    {
+     "w": "frugality",
+     "ipa": "/fruːˈɡæləti/",
+     "pos": "n.（形容词frugal /ˈfruːɡl/）",
+     "en": "frugality means the habit of being careful with money and avoiding waste",
+     "zh": "节俭，省吃俭用",
+     "ctx": "作者列出的投资者三大美德之一，专门用来和婴儿的挥霍形成反差。",
+     "ex1": "The founder’s frugality became company legend: he flew economy until the IPO. 这位创始人的节俭成了公司传奇——上市之前他一直坐经济舱。",
+     "ex2": "Years of frugality allowed the couple to retire a decade early. 多年省吃俭用，让这对夫妻提前十年退休。"
+    },
+    {
+     "w": "virtue",
+     "ipa": "/ˈvɜːtʃuː/",
+     "pos": "n.",
+     "en": "virtue means a good quality or moral strength in a person’s character",
+     "zh": "美德，优良品质",
+     "ctx": "指耐心、稳定、节俭这三样；作者说它们在新生儿身上基本见不着。",
+     "ex1": "She got the job by virtue of her years on the trading floor. 她能拿到这份工作，靠的是在交易大厅摸爬滚打的那些年。",
+     "ex2": "The design has the virtue of being almost impossible to break. 这个设计有一个好处：几乎弄不坏。"
+    },
+    {
+     "w": "bundle of joy",
+     "ipa": "/ˈbʌndl əv dʒɔɪ/",
+     "pos": "固定短语",
+     "en": "a bundle of joy means a newborn baby, seen as a source of happiness for the family",
+     "zh": "小宝贝，新生儿（昵称）",
+     "ctx": "用最甜腻的说法称呼婴儿，紧接着就调侃他们不会理财，先捧后摔。",
+     "ex1": "The couple posted a photo of their new bundle of joy at 3am. 这对夫妻凌晨三点晒出了他们刚出生的小宝贝的照片。",
+     "ex2": "Six weeks in, the bundle of joy was mostly a bundle of laundry. 孩子出生六周后，这个“开心小包裹”主要变成了一堆要洗的衣服。"
+    },
+    {
+     "w": "impulsive",
+     "ipa": "/ɪmˈpʌlsɪv/",
+     "pos": "adj.",
+     "en": "impulsive means acting suddenly on feeling, without stopping to think about the consequences",
+     "zh": "冲动的，不假思索的",
+     "ctx": "婴儿想哭就哭、想要就要，和投资者需要的耐心完全相反。",
+     "ex1": "Retailers put chocolate by the till precisely to trigger impulse buying. 零售商把巧克力摆在收银台旁边，就是为了诱发冲动消费。",
+     "ex2": "His impulsive resignation cost him a bonus worth six months’ pay. 他一冲动辞了职，代价是半年工资的奖金。"
+    },
+    {
+     "w": "freeloader",
+     "ipa": "/ˈfriːləʊdə(r)/",
+     "pos": "n.（动词freeload）",
+     "en": "a freeloader means someone who takes food, money or help from others without giving anything back",
+     "zh": "白吃白喝的人，爱占便宜的人",
+     "ctx": "婴儿吃穿住全靠父母、一分钱不挣，被作者封为“大自然里最大的白嫖党”。",
+     "ex1": "He spent his twenties freeloading off a succession of patient friends. 他二十多岁那几年，一直在一群好脾气的朋友家白吃白住。",
+     "ex2": "The subscription model finally made it hard for freeloaders to use the service. 订阅制终于让白嫖的人没那么容易用上这项服务了。"
+    },
+    {
+     "w": "live beyond one's means",
+     "ipa": "/liv bɪˈjɒnd wʌnz miːnz/",
+     "pos": "固定短语",
+     "en": "to live beyond one’s means is to spend more money than you earn or can afford",
+     "zh": "入不敷出，花得比挣得多",
+     "ctx": "婴儿收入为零，他花的每一分钱都在财力之外，entirely 把这个玩笑钉死。",
+     "ex1": "Half the households in the survey admitted living beyond their means last year. 调查中有一半家庭承认，去年是入不敷出的。",
+     "ex2": "His advice was unglamorous: live within your means and start early. 他的建议一点也不花哨——量入为出，尽早开始。"
+    }
+   ]
+  },
+  {
+   "en_html": "<mark class=\"voc\">All the same</mark>, for new parents with <mark class=\"voc\">a soft spot for</mark> the magic of <mark class=\"voc\">compounding</mark>, like your columnist, a baby <mark class=\"voc\">presents</mark> a <mark class=\"voc\">tantalising</mark> investment opportunity. Many decades of life and potential returns <mark class=\"voc\">stretch out</mark> into the future: $1,000 invested today with a real annual return of 5.2% (the average for global stocks over the past 125 years) would be worth $58,000 by the time the child is 80.",
+   "zh": "话说回来，对于那些对复利魔力毫无抵抗力的新手父母——比如本栏作者我——一个婴儿，简直就是一个馋得人抓心挠肝的投资机会。几十年的人生和潜在回报，就这么一路向未来铺展开去：今天投进1000美元，按5.2%的实际年化回报算（这是过去125年全球股市的平均水平），等孩子80岁那年，这笔钱将值58000美元。",
+   "notes": [
+    {
+     "w": "all the same",
+     "ipa": "/ɔːl ðə seɪm/",
+     "pos": "固定短语",
+     "en": "all the same means in spite of what has just been said; nevertheless",
+     "zh": "话虽如此，尽管如此",
+     "ctx": "先承认婴儿是白嫖党，再借这个短语转向“他仍然是个绝佳投资标的”。",
+     "ex1": "The deal looks risky; all the same, the board approved it unanimously. 这桩交易看着很冒险，尽管如此，董事会还是一致通过了。",
+     "ex2": "Cash or card — it’s all the same to me. 现金还是刷卡，对我来说都一样。"
+    },
+    {
+     "w": "a soft spot for",
+     "ipa": "/ə sɒft spɒt fə(r)/",
+     "pos": "固定短语",
+     "en": "to have a soft spot for something means to feel a special, slightly irrational fondness for it",
+     "zh": "对……特别偏爱，毫无抵抗力",
+     "ctx": "作者自嘲：就是那种“一听复利就心动”的新手爸爸。",
+     "ex1": "The chairman has a soft spot for loss-making bookshops, which explains the acquisition. 董事长对亏损的书店有种偏爱，这笔收购就说得通了。",
+     "ex2": "I have a soft spot for companies that still answer the phone. 我对那些还肯接电话的公司有好感。"
+    },
+    {
+     "w": "compounding",
+     "ipa": "/kəmˈpaʊndɪŋ/",
+     "pos": "n.（动词compound）",
+     "en": "compounding means the process in which investment returns are reinvested so that they themselves earn returns",
+     "zh": "复利，利滚利",
+     "ctx": "就是让 1000 美元在 80 年里变成 58000 美元的那股力量，第 9 段还会再回扣一次。",
+     "ex1": "Over thirty years, compounding does more work than stock-picking ever will. 三十年下来，复利干的活儿比选股多得多。",
+     "ex2": "Delaying the recall compounded an already serious reputational problem. 推迟召回，让本已严重的声誉问题雪上加霜。"
+    },
+    {
+     "w": "present",
+     "ipa": "/prɪˈzent/",
+     "pos": "v.",
+     "en": "present means to offer, provide or constitute something, such as an opportunity or a difficulty",
+     "zh": "构成，带来（机会或难题）",
+     "ctx": "一个婴儿“构成了”一个诱人的投资机会——不是 give，而是端到眼前。",
+     "ex1": "The slump in freight rates presents an opportunity for buyers with cash. 运价暴跌，给手握现金的买家带来了机会。",
+     "ex2": "Scaling the pilot nationwide presents a logistical challenge of a different order. 把试点推向全国，带来的是另一个量级的物流挑战。"
+    },
+    {
+     "w": "tantalising",
+     "ipa": "/ˈtæntəlaɪzɪŋ/",
+     "pos": "adj.（美式拼tantalizing；动词tantalise）",
+     "en": "tantalising means attractive and desirable but kept just out of reach",
+     "zh": "诱人却够不着的，让人心痒的",
+     "ctx": "那笔要到孩子 80 岁才兑现的收益，父母算得出，却大概率看不到。",
+     "ex1": "The trailer offered a tantalising glimpse of the new engine and nothing else. 预告片只给了新引擎惊鸿一瞥，别的什么也没透露。",
+     "ex2": "For years a cure remained tantalisingly close but never quite arrived. 多年来，治愈方案一直近在咫尺，却始终没有真正到来。"
+    },
+    {
+     "w": "stretch out",
+     "ipa": "/stretʃ aʊt/",
+     "pos": "短语动词",
+     "en": "stretch out means to extend over a long distance or a long period of time",
+     "zh": "（时间、空间）绵延铺展开",
+     "ctx": "婴儿面前那几十年人生和潜在收益，像一条望不到头的路向未来铺开。",
+     "ex1": "The salt flats stretched out before us for forty unbroken kilometres. 盐滩在我们面前一口气铺开了四十公里。",
+     "ex2": "Repayment stretches out over twenty-five years, which is the whole point. 还款期一直拖到二十五年——这正是关键所在。"
+    }
+   ]
+  },
+  {
+   "en_html": "Yet these <mark class=\"voc\">juicy</mark> financial returns must be considered <mark class=\"voc\">alongside</mark> another sort of investment: in the children themselves. Spending on a child’s health, education and skills can <mark class=\"voc\">yield</mark> even higher returns (<mark class=\"voc\">on top of</mark> helping them lead a <mark class=\"voc\">fulfilling</mark> life). So how should a new parent think about their <mark class=\"voc\">budding</mark> little <mark class=\"voc\">portfolio</mark>?",
+   "zh": "不过，这些肥美的金融回报，还得跟另一种投资摆在一起掂量——那就是投到孩子本身。花在孩子健康、教育和技能上的钱，回报率可能还要更高（顺带还能让他这辈子过得充实一点）。那么问题来了：新手爸妈该怎么看待自己手上这个刚刚发芽的小小“投资组合”呢？",
+   "notes": [
+    {
+     "w": "juicy",
+     "ipa": "/ˈdʒuːsi/",
+     "pos": "adj.",
+     "en": "juicy means full of juice; informally, rich, rewarding or full of interesting detail",
+     "zh": "（回报）丰厚的，油水大的",
+     "ctx": "指前两段算出来的那笔“肥美”的金融回报。",
+     "ex1": "The contract came with a juicy margin that rivals could not match. 这份合同的利润率高得对手跟不上。",
+     "ex2": "She had some genuinely juicy gossip about the board reshuffle. 关于董事会改组，她手里有些真正有料的八卦。"
+    },
+    {
+     "w": "alongside",
+     "ipa": "/əˌlɒŋˈsaɪd/",
+     "pos": "prep./adv.",
+     "en": "alongside means next to and at the same time as something else, often for comparison",
+     "zh": "与……并排（放在一起）",
+     "ctx": "金融回报必须和“投资孩子本身”这条路摆在一起掂量，不能只看一边。",
+     "ex1": "The new model will sit alongside the existing range rather than replace it. 新款将与现有产品线并存，而不是取代它。",
+     "ex2": "These costs must be read alongside the savings they generate. 这些成本必须和它们带来的节省放在一起看。"
+    },
+    {
+     "w": "yield",
+     "ipa": "/jiːld/",
+     "pos": "v./n.（熟词僻义）",
+     "en": "yield means to produce or generate a profit, result or crop; as a noun, the rate of return on an investment",
+     "zh": "产生，带来（收益）",
+     "ctx": "花在孩子健康、教育和技能上的钱“能产出更高的回报”——熟词僻义，本义是“交出”。",
+     "ex1": "The portfolio yielded just under 6% last year, net of fees. 这个组合去年扣费后的收益略低于6%。",
+     "ex2": "Falling bond yields pushed investors back towards equities. 债券收益率下行，把投资者又推回了股票。"
+    },
+    {
+     "w": "on top of",
+     "ipa": "/ɒn tɒp əv/",
+     "pos": "固定短语",
+     "en": "on top of means in addition to something that already exists",
+     "zh": "除……之外，还有",
+     "ctx": "教育投资不只回报更高，还额外帮孩子过上充实人生——作者故意把这层放进括号。",
+     "ex1": "On top of the tariff, importers now face a new licensing fee. 除了关税，进口商现在还要交一笔新的牌照费。",
+     "ex2": "On top of everything else, the server went down during the launch. 偏偏在发布的时候，服务器还宕机了。"
+    },
+    {
+     "w": "fulfilling",
+     "ipa": "/fʊlˈfɪlɪŋ/",
+     "pos": "adj.",
+     "en": "fulfilling means making you feel satisfied and that what you do has meaning",
+     "zh": "充实的，有成就感的",
+     "ctx": "教育投资那层“非经济”回报：让孩子这辈子过得有意义，而不只是赚得多。",
+     "ex1": "She left banking for a lower-paid but far more fulfilling job in teaching. 她离开了银行业，去做一份工资低得多、却充实得多的教师工作。",
+     "ex2": "Most people want work that is fulfilling, not merely tolerable. 大多数人想要的是有成就感的工作，而不只是能忍受的工作。"
+    },
+    {
+     "w": "budding",
+     "ipa": "/ˈbʌdɪŋ/",
+     "pos": "adj.",
+     "en": "budding means beginning to grow or develop and showing promise",
+     "zh": "刚萌芽的，初露头角的",
+     "ctx": "形容婴儿这个“小小投资组合”：组合刚起步，生命也刚冒头，一语双关。",
+     "ex1": "The programme is designed for budding founders who have yet to raise a round. 这个项目是为还没融过资的初创者设计的。",
+     "ex2": "Management nipped the rumour in the bud with a blunt internal memo. 管理层用一份措辞直白的内部通报，把谣言扼杀在了萌芽里。"
+    },
+    {
+     "w": "portfolio",
+     "ipa": "/pɔːtˈfəʊliəʊ/",
+     "pos": "n.",
+     "en": "a portfolio means the whole collection of investments held by a person or institution",
+     "zh": "投资组合",
+     "ctx": "作者把自己怀里的婴儿称作“刚发芽的小小投资组合”。",
+     "ex1": "A diversified portfolio would have ridden out the shock with far less damage. 一个分散的投资组合，本可以把这次冲击的损失降到低得多的水平。",
+     "ex2": "Her portfolio got her the interview; the interview got her the job. 她的作品集让她拿到了面试，面试让她拿到了工作。"
+    }
+   ]
+  },
+  {
+   "en_html": "Potential financial investments are <mark class=\"voc\">manifold</mark>. Many countries offer <mark class=\"voc\">tax-advantaged</mark> ways for parents to save for their children. American <mark class=\"voc\">tykes</mark> are now <mark class=\"voc\">eligible</mark> for Trump accounts, which start with a $1,000 <mark class=\"voc\">freebie</mark> from the federal government that can be put into mutual funds or index trackers until the child turns 18, while taxes are <mark class=\"voc\">deferred</mark>. Earlier options include the even more tax-friendly 529 accounts, but these may be used <mark class=\"voc\">solely</mark> for <mark class=\"voc\">specified</mark> educational purposes. In Britain, the Junior Individual Savings Account, into which up to £9,000 ($11,900) a year can be invested, is tax-friendlier still.",
+   "zh": "可选的金融工具五花八门。不少国家都给父母准备了带税收优惠的攒钱通道。美国的小娃娃现在够资格开“特朗普账户”了——开户联邦政府就白送1000美元，这笔钱可以投进共同基金或指数基金，一直放到孩子满18岁，期间税款递延。更早就有的选项里，还有税收优惠更大的529账户，但这笔钱只能花在规定好的教育用途上。而在英国，少年个人储蓄账户（Junior ISA）每年最多可以投进9000英镑（约合11900美元），税上还要更划算。",
+   "notes": [
+    {
+     "w": "manifold",
+     "ipa": "/ˈmænɪfəʊld/",
+     "pos": "adj.",
+     "en": "manifold means many and of several different kinds",
+     "zh": "多种多样的，名目繁多的",
+     "ctx": "可供父母选择的金融投资工具五花八门。",
+     "ex1": "The benefits of early screening are manifold and well documented. 早期筛查的好处多种多样，而且有充分记录。",
+     "ex2": "Her reasons for leaving were manifold, and money was the least of them. 她离职的理由有一大堆，钱是最次要的那个。"
+    },
+    {
+     "w": "tax-advantaged",
+     "ipa": "/tæks ədˈvɑːntɪdʒd/",
+     "pos": "adj.",
+     "en": "tax-advantaged describes an account or investment that receives favourable treatment under tax law",
+     "zh": "享有税收优惠的",
+     "ctx": "指各国为父母准备的儿童储蓄账户：特朗普账户、529、Junior ISA。",
+     "ex1": "Most of her retirement savings sit in tax-advantaged accounts she cannot touch until 60. 她的退休储蓄大多放在60岁前动不了的免税账户里。",
+     "ex2": "The budget quietly narrowed several long-standing tax breaks for landlords. 这份预算案悄悄收窄了几项针对房东的长期税收优惠。"
+    },
+    {
+     "w": "tyke",
+     "ipa": "/taɪk/",
+     "pos": "n.（非正式）",
+     "en": "a tyke means a small child, especially a cheeky or mischievous one",
+     "zh": "小鬼头，小家伙",
+     "ctx": "指美国的新生儿——一篇正经财经文章里，故意用个俏皮词。",
+     "ex1": "The little tyke had hidden the car keys in the dog’s bed. 这小鬼头把车钥匙藏在了狗窝里。",
+     "ex2": "Two tykes in matching raincoats were stamping in every puddle on the street. 两个穿着同款雨衣的小家伙，把街上每个水坑都踩了一遍。"
+    },
+    {
+     "w": "eligible",
+     "ipa": "/ˈelɪdʒəbl/",
+     "pos": "adj.",
+     "en": "eligible means having the right qualifications or meeting the conditions to do or receive something",
+     "zh": "有资格的，符合条件的",
+     "ctx": "美国新生儿现在够资格开设特朗普账户。",
+     "ex1": "Only households earning under the threshold are eligible for the rebate. 只有收入低于这条线的家庭才有资格拿到这笔返款。",
+     "ex2": "He became, in the language of old novels, a highly eligible bachelor. 用老派小说的说法，他成了一位极其抢手的黄金单身汉。"
+    },
+    {
+     "w": "freebie",
+     "ipa": "/ˈfriːbi/",
+     "pos": "n.（非正式）",
+     "en": "a freebie means something you are given without having to pay for it",
+     "zh": "免费赠品，白拿的东西",
+     "ctx": "联邦政府往特朗普账户里白送的那 1000 美元。",
+     "ex1": "The stand was mobbed the moment they started handing out freebies. 他们一开始发赠品，展台立刻就被围住了。",
+     "ex2": "Treat the first month as a freebie; the real cost starts in month two. 把第一个月当成白送的，真正的成本从第二个月才开始。"
+    },
+    {
+     "w": "defer",
+     "ipa": "/dɪˈfɜː(r)/",
+     "pos": "v.",
+     "en": "defer means to postpone something until a later time",
+     "zh": "推迟，递延",
+     "ctx": "账户里的收益现在不交税、以后再交，期间继续滚复利。",
+     "ex1": "The company deferred the dividend to preserve cash through the downturn. 公司推迟了分红，以便在低迷期保住现金。",
+     "ex2": "On technical questions, the board tends to defer to its chief engineer. 碰到技术问题，董事会一般听总工程师的。"
+    },
+    {
+     "w": "solely",
+     "ipa": "/ˈsəʊlli/",
+     "pos": "adv.",
+     "en": "solely means only, and not involving anything or anyone else",
+     "zh": "仅仅，唯独",
+     "ctx": "529 账户的钱只能花在规定好的教育用途上，不得挪作他用。",
+     "ex1": "The fund may be used solely for capital projects, not salaries. 这笔资金只能用于基建项目，不能发工资。",
+     "ex2": "She is solely responsible for everything that leaves this building. 从这栋楼里发出去的一切，都由她一个人负责。"
+    },
+    {
+     "w": "specified",
+     "ipa": "/ˈspesɪfaɪd/",
+     "pos": "adj.（动词specify，名词specification）",
+     "en": "specified means clearly and explicitly stated in advance",
+     "zh": "明确规定的，指定的",
+     "ctx": "指 529 账户白纸黑字写明的那些教育开支项目。",
+     "ex1": "Delivery must take place within the specified window or the order lapses. 必须在规定的时间窗口内交货，否则订单作废。",
+     "ex2": "Unless otherwise specified, all figures are in constant 2020 dollars. 除另有说明外，所有数字均以2020年不变美元计。"
+    }
+   ]
+  },
+  {
+   "en_html": "Investing for babies is a joy even without the tax <mark class=\"voc\">perks</mark>. Long <mark class=\"voc\">horizons</mark> <mark class=\"voc\">smooth out</mark> <mark class=\"voc\">volatility</mark>, allowing for more risk. Ian Ayres and Barry Nalebuff, two economists, propose that young workers should borrow to buy stocks, since the long-term returns to <mark class=\"voc\">equities</mark> are (hopefully) higher than the interest on borrowing. If the logic is true for <mark class=\"voc\">20-somethings</mark>, it is truer still for infants with a horizon a couple of decades longer.",
+   "zh": "就算没有那些税收优惠，给婴儿做投资本身也是件乐事。时间一拉长，波动就被熨平了，于是你反倒敢多担一点风险。经济学家伊恩·艾尔斯和巴里·奈尔伯夫就主张，年轻的上班族应该借钱买股票——理由是，股票的长期回报（但愿）会高过借钱的利息。要是这套逻辑对二十来岁的人站得住，那对投资期限还要再长上二三十年的婴儿来说，就更站得住了。",
+   "notes": [
+    {
+     "w": "perk",
+     "ipa": "/pɜːk/",
+     "pos": "n.（perquisite 的缩写）",
+     "en": "a perk means an extra benefit that comes with a job or a situation, beyond the main reward",
+     "zh": "额外福利，附加好处",
+     "ctx": "指那些儿童账户的税收优惠——作者说就算没有，给婴儿投资本身也值得做。",
+     "ex1": "Free childcare is the one perk that actually keeps staff from leaving. 免费托儿是唯一真正能留住员工的福利。",
+     "ex2": "A double espresso usually perks him up enough to finish the model. 一杯双份浓缩通常能让他提起精神把模型做完。"
+    },
+    {
+     "w": "horizon",
+     "ipa": "/həˈraɪzn/",
+     "pos": "n.",
+     "en": "a horizon is the line where land meets sky; in finance, the length of time over which an investment is held",
+     "zh": "（投资）期限，时间跨度",
+     "ctx": "婴儿拥有比成年人长几十年的投资期限，这是全文最核心的资源。",
+     "ex1": "With a thirty-year horizon, a bad quarter is simply noise. 在三十年的投资期限里，一个糟糕的季度不过是噪音。",
+     "ex2": "A merger of this size has been on the horizon for months. 这种量级的合并，几个月前就已经看得见苗头了。"
+    },
+    {
+     "w": "smooth out",
+     "ipa": "/smuːð aʊt/",
+     "pos": "短语动词",
+     "en": "smooth out means to remove irregularities so that something becomes even and steady",
+     "zh": "抹平，熨平",
+     "ctx": "足够长的期限会把短期剧烈波动熨平，于是你反倒敢多担风险。",
+     "ex1": "Hedging contracts smooth out the swings in fuel costs across the year. 对冲合约把全年燃料成本的起伏抹平了。",
+     "ex2": "A long chat over dinner smoothed out most of the differences. 一顿饭聊下来，大部分分歧都化解了。"
+    },
+    {
+     "w": "volatility",
+     "ipa": "/ˌvɒləˈtɪləti/",
+     "pos": "n.（形容词volatile /ˈvɒlətaɪl/）",
+     "en": "volatility means the tendency of a price or situation to change rapidly and unpredictably",
+     "zh": "波动性，大起大落",
+     "ctx": "指被长期限熨平的那种短期剧烈起伏。",
+     "ex1": "Traders made more money from the volatility than from the direction. 交易员从波动里赚的钱，比从方向里赚的还多。",
+     "ex2": "Lithium prices have been volatile enough to bankrupt two suppliers. 锂价波动之大，已经让两家供应商破了产。"
+    },
+    {
+     "w": "equity",
+     "ipa": "/ˈekwəti/",
+     "pos": "n.（金融常用复数equities）",
+     "en": "equity means ownership shares in a company; also the value of an asset after debts against it are deducted",
+     "zh": "股票，股权",
+     "ctx": "指两位经济学家所说“长期回报高于借款利息”的那类资产。",
+     "ex1": "The fund shifted a third of its bond holdings into equities last quarter. 该基金上季度把三分之一的债券仓位换成了股票。",
+     "ex2": "Rising prices quietly handed homeowners a great deal of extra home equity. 房价上涨，悄悄给房主增加了大量的房屋净值。"
+    },
+    {
+     "w": "20-something",
+     "ipa": "/ˈtwenti sʌmθɪŋ/",
+     "pos": "n./adj.（非正式）",
+     "en": "a 20-something means a person whose age is between twenty and twenty-nine",
+     "zh": "二十几岁的人",
+     "ctx": "Ayres 与 Nalebuff 建议“借钱买股票”的目标人群，作者接着把逻辑推到比他们还小二十年的婴儿身上。",
+     "ex1": "Most of the app’s users are 20-somethings who have never owned a chequebook. 这款应用的用户大多是二十几岁、从没用过支票本的人。",
+     "ex2": "The company is run almost entirely by thirty-somethings. 这家公司几乎完全由三十多岁的人在经营。"
+    }
+   ]
+  }
+ ]
+}

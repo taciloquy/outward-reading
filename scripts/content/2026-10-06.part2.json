@@ -1,0 +1,481 @@
+{
+ "paragraphs": [
+  {
+   "en_html": "<mark class=\"voc\">Initiatives</mark> to promote women in the tech industry have been ongoing for years, with <mark class=\"voc\">mixed results</mark>. Women now hold about <mark class=\"voc\">one-third</mark> of tech jobs in the US. But research has found that women leave the tech industry <mark class=\"voc\">at a much higher rate than</mark> their male <mark class=\"voc\">counterparts</mark>, citing factors like non-inclusive cultures and <mark class=\"voc\">barriers to advancement</mark>.",
+   "zh": "推动女性进入科技行业的各种倡议已经进行了多年，结果好坏参半。现在美国科技岗位中，女性占了大约三分之一。但研究发现，女性离开科技行业的速度远高于男性同行，给出的因素包括不包容的文化和晋升障碍。",
+   "notes": [
+    {
+     "w": "initiatives",
+     "ipa": "/ɪˈnɪʃətɪvz/",
+     "pos": "n.",
+     "en": "initiatives are new plans or actions to solve a problem.",
+     "zh": "倡议、举措",
+     "ctx": "指企业里各种“女性科技人才计划”之类的项目。作者先承认它们存在多年，紧接一句 mixed results 泼冷水。",
+     "ex1": "Initiatives to promote women in tech have been ongoing for years. 推动女性进入科技行业的倡议已进行多年。",
+     "ex2": "The government launched new initiatives to boost employment. 政府推出了促进就业的新举措。"
+    },
+    {
+     "w": "mixed results",
+     "ipa": "/mɪkst rɪˈzʌlts/",
+     "pos": "phr.",
+     "en": "mixed results means some good and some bad outcomes.",
+     "zh": "好坏参半的结果、成效不一",
+     "ctx": "四个字否掉十几年的努力：进门的人数上去了，人却还是留不住。",
+     "ex1": "The initiatives have had mixed results. 这些倡议结果好坏参半。",
+     "ex2": "The policy produced mixed results. 该政策产生了好坏参半的结果。"
+    },
+    {
+     "w": "one-third",
+     "ipa": "/wʌn θɜːd/",
+     "pos": "phr.",
+     "en": "one-third means one part of three equal parts.",
+     "zh": "三分之一",
+     "ctx": "用分数而不是百分比，好跟上一段的“四分之一”对照：整体三分之一，AI 新岗位只有四分之一——新领域反而更窄。",
+     "ex1": "Women now hold about one-third of tech jobs in the US. 现在美国科技岗位中女性约占三分之一。",
+     "ex2": "One-third of the students passed. 三分之一的学生通过了。"
+    },
+    {
+     "w": "at a higher rate than",
+     "ipa": "/æt ə ˈhaɪə reɪt ðæn/",
+     "pos": "phr.",
+     "en": "at a higher rate than means more frequently than.",
+     "zh": "以高于……的比率、比……更频繁",
+     "ctx": "rate 强调频率：不是“有人走”，是“走的比例系统性地更高”，这才叫结构问题。",
+     "ex1": "Women leave tech at a much higher rate than men. 女性离开科技行业的速度远高于男性。",
+     "ex2": "Accidents occur at a higher rate in this area. 该地区事故发生率更高。"
+    },
+    {
+     "w": "counterpart",
+     "ipa": "/ˈkaʊntəpɑːt/",
+     "pos": "n.",
+     "en": "counterpart means a person or thing with the same function in a different place.",
+     "zh": "对应的人、同行",
+     "ctx": "counter-（对应）+ part（角色）：说的是“同样位置上的另一个人”，不点明性别，你也听得懂是谁。",
+     "ex1": "Women leave tech at a higher rate than their male counterparts. 女性离开科技行业的速度高于男性同行。",
+     "ex2": "The minister met with his French counterpart. 部长会见了法国同行。"
+    },
+    {
+     "w": "barriers to advancement",
+     "ipa": "/ˈbæriəz tʊ ədˈvɑːnsmənt/",
+     "pos": "n. phr.",
+     "en": "barriers to advancement are things that prevent progress.",
+     "zh": "晋升障碍、阻碍职业发展的因素",
+     "ctx": "与标题里的 lower barriers 首尾呼应：门槛确实降了，可进门之后还有第二道坎。",
+     "ex1": "Factors include non-inclusive cultures and barriers to advancement. 因素包括不包容的文化和晋升障碍。",
+     "ex2": "The company removed barriers to advancement for women. 该公司消除了女性晋升的障碍。"
+    }
+   ]
+  },
+  {
+   "en_html": "Women working in AI may face even greater challenges. “AI moves extremely fast, and the pressure to keep up is <mark class=\"voc\">immense</mark>,” said Jayeeta Putatunda, an AI engineering lead at investment firm Turing. “I have seen throughout my career so many amazing women I know kind of <mark class=\"voc\">fall through the cracks</mark>.” Putatunda said it’s not uncommon to be the only female engineer on a team, and that when women are <mark class=\"voc\">outnumbered</mark>, they have to <mark class=\"voc\">speak up louder</mark> to make their ideas known. <mark class=\"voc\">Mentorship</mark> in the AI field, especially by other women, can be hard to <mark class=\"voc\">come by</mark>. And the <mark class=\"voc\">breakneck pace</mark> of AI advancements means anyone working in the field should expect to put in long hours in order to keep up.",
+   "zh": "在AI行业工作的女性，可能面临更大的挑战。“AI发展极快，跟上的压力是巨大的，”投资公司Turing的AI工程负责人Jayeeta Putatunda说。“在我的整个职业生涯中，我见过太多我认识的优秀女性，某种程度上被漏掉了。”Putatunda说，在一个团队里成为唯一的女工程师并不罕见，而且当女性在人数上处于劣势时，她们必须更大声地说话才能让自己的想法被知道。AI领域的导师指导，尤其是来自其他女性的指导，很难获得。而AI进步的那种危险的高速，意味着在这个领域工作的人都应该预期要投入长时间才能跟上。",
+   "notes": [
+    {
+     "w": "immense",
+     "ipa": "/ɪˈmens/",
+     "pos": "adj.",
+     "en": "immense means extremely large.",
+     "zh": "巨大的、压倒性的",
+     "ctx": "修饰 pressure：不是“有点累”，是压得人喘不过气的那种量级，与第 8 段的 overwhelming 前后接力。",
+     "ex1": "The pressure to keep up is immense. 跟上的压力是巨大的。",
+     "ex2": "She has immense talent. 她有巨大的天赋。"
+    },
+    {
+     "w": "fall through the cracks",
+     "ipa": "/fɔːl θruː ðə kræks/",
+     "pos": "phr.",
+     "en": "fall through the cracks means to be missed or not noticed.",
+     "zh": "被漏掉、被忽视",
+     "ctx": "画面全在“缝”字上：系统不是故意筛掉她们，是她们从制度的缝隙里掉了下去，无声无息。",
+     "ex1": "So many amazing women fall through the cracks. 太多优秀女性被漏掉了。",
+     "ex2": "Some students fall through the cracks in large classes. 在大班里有些学生会被忽视。"
+    },
+    {
+     "w": "outnumbered",
+     "ipa": "/ˌaʊtˈnʌmbəd/",
+     "pos": "adj.",
+     "en": "outnumbered means having fewer people than the other side.",
+     "zh": "人数上处于劣势",
+     "ctx": "out-（超过）+ number（数目）：当“数量”本身成了权力，一个人的声音天生就被稀释。",
+     "ex1": "When women are outnumbered, they have to speak up louder. 当女性人数处于劣势时，她们必须更大声说话。",
+     "ex2": "The team was outnumbered by their opponents. 这支队伍人数少于对手。"
+    },
+    {
+     "w": "speak up louder",
+     "ipa": "/spiːk ʌp ˈlaʊdə/",
+     "pos": "phr.",
+     "en": "speak up louder means to express opinions more loudly or forcefully.",
+     "zh": "更大声地说、更用力地表达意见",
+     "ctx": "说是音量，其实是双重标准：同样的观点，她要说得更用力才被听见。",
+     "ex1": "They have to speak up louder to make their ideas known. 她们必须更大声说话才能让想法被知道。",
+     "ex2": "If you disagree, speak up. 如果你不同意，就说出来。"
+    },
+    {
+     "w": "mentorship",
+     "ipa": "/ˈmentɔːʃɪp/",
+     "pos": "n.",
+     "en": "mentorship is the guidance given by a mentor.",
+     "zh": "导师指导",
+     "ctx": "-ship 后缀表“关系、身份”，mentorship 就是“有人带你”这件事本身；在 AI 这种新领域，它比学历更管用，却最难找。",
+     "ex1": "Mentorship in AI, especially by other women, is hard to come by. AI领域的导师指导，尤其是女性导师，很难获得。",
+     "ex2": "She credits her success to mentorship. 她把成功归功于导师指导。"
+    },
+    {
+     "w": "come by",
+     "ipa": "/kʌm baɪ/",
+     "pos": "phr.",
+     "en": "come by means to obtain or get something.",
+     "zh": "弄到、得到",
+     "ctx": "常与 hard 连用：hard to come by 是“求而不得”的固定说法，比 difficult to find 多一层“碰运气”的味道。",
+     "ex1": "Mentorship can be hard to come by. 导师指导很难获得。",
+     "ex2": "Jobs are hard to come by these days. 如今工作很难找。"
+    },
+    {
+     "w": "breakneck pace",
+     "ipa": "/ˈbreɪknek peɪs/",
+     "pos": "n. phr.",
+     "en": "breakneck pace means extremely fast speed.",
+     "zh": "危险的高速、极快的速度",
+     "ctx": "breakneck 字面是“会折断脖子的”，速度快到再快就要出事；用来形容 AI 迭代，暗含“跟不上就被甩下”。",
+     "ex1": "The breakneck pace of AI advancements means long hours. AI进步的危险高速意味着长时间工作。",
+     "ex2": "The company grew at breakneck pace. 公司以极快的速度增长。"
+    }
+   ]
+  },
+  {
+   "en_html": "Those kinds of work expectations can make it impossible for everyone to stay in the field. “I went on <mark class=\"voc\">maternity leave</mark> for four months, and by the time I came back, there were completely different <mark class=\"voc\">frameworks</mark> and levels of models,” Putatunda said. <mark class=\"voc\">Getting caught back up</mark> was <mark class=\"voc\">overwhelming</mark>. She said it was only possible with the help of supportive co-workers and a husband who <mark class=\"voc\">equitably</mark> <mark class=\"voc\">split childcare</mark>.",
+   "zh": "那种工作预期会让每个人都无法留在这个领域。“我休了四个月产假，等我回来的时候，框架和模型层级已经完全变了，”Putatunda说。追赶上进度让人不堪重负。她说，只有靠支持她的同事和一个公平分担育儿的丈夫，这（追赶上进度）才成为可能。",
+   "notes": [
+    {
+     "w": "maternity leave",
+     "ipa": "/məˈtɜːnəti liːv/",
+     "pos": "n. phr.",
+     "en": "maternity leave is time off work for a mother to have a baby.",
+     "zh": "产假",
+     "ctx": "全篇唯一“只有女性会遇到”的变量：休假四个月，回来时整个行业已经换代。",
+     "ex1": "I went on maternity leave for four months. 我休了四个月产假。",
+     "ex2": "She is on maternity leave until June. 她休产假到六月。"
+    },
+    {
+     "w": "framework",
+     "ipa": "/ˈfreɪmwɜːk/",
+     "pos": "n.",
+     "en": "framework is a basic structure or set of ideas.",
+     "zh": "框架、架构",
+     "ctx": "这里指技术框架：四个月不在，底层工具整套换掉——在 AI 行业，“经验”是会过期的。",
+     "ex1": "There were completely different frameworks and levels of models. 框架和模型层级已经完全变了。",
+     "ex2": "The company uses a new software framework. 该公司使用新的软件框架。"
+    },
+    {
+     "w": "get caught back up",
+     "ipa": "/ɡet kɔːt bæk ʌp/",
+     "pos": "phr.",
+     "en": "get caught back up means to reach the same level as others after falling behind.",
+     "zh": "追赶上来、补上进度",
+     "ctx": "catch up 是主动“追”，中间的 caught 是被动：不是她跑得快，是她被硬拽回队伍，代价极大。",
+     "ex1": "Getting caught back up was overwhelming. 追赶上进度让人不堪重负。",
+     "ex2": "She worked hard to get caught back up. 她努力工作以补上进度。"
+    },
+    {
+     "w": "overwhelming",
+     "ipa": "/ˌəʊvəˈwelmɪŋ/",
+     "pos": "adj.",
+     "en": "overwhelming means very great or too much to handle.",
+     "zh": "压倒性的、让人不堪重负的",
+     "ctx": "与第 7 段的 immense 是同一副重担的两端：外面压力巨大，回来补课量也巨大。",
+     "ex1": "Getting caught back up was overwhelming. 追赶上进度让人不堪重负。",
+     "ex2": "The support was overwhelming. 支持是压倒性的。"
+    },
+    {
+     "w": "equitably",
+     "ipa": "/ˈekwɪtəbli/",
+     "pos": "adv.",
+     "en": "equitably means fairly and equally.",
+     "zh": "公平地、平等地",
+     "ctx": "注意不是 equally（一人一半），而是 equitably（按需要分）：孩子的事没法五五开，公平比平均更现实。",
+     "ex1": "A husband who equitably split childcare. 一个公平分担育儿的丈夫。",
+     "ex2": "Resources should be distributed equitably. 资源应公平分配。"
+    },
+    {
+     "w": "split childcare",
+     "ipa": "/splɪt ˈtʃaɪldkeə/",
+     "pos": "phr.",
+     "en": "split childcare means to share the responsibility of raising children.",
+     "zh": "分担育儿",
+     "ctx": "split 是“劈开、分成几份”：育儿不是“帮忙带一下”，是把责任切开、一人一半。",
+     "ex1": "Her husband equitably split childcare. 她丈夫公平分担育儿。",
+     "ex2": "Couples should split childcare equally. 夫妻应平等分担育儿。"
+    }
+   ]
+  },
+  {
+   "en_html": "The AI industry is so new and fast-moving that it should <mark class=\"voc\">in theory</mark> be more <mark class=\"voc\">meritocratic</mark>. No one has a decade of experience working with a model developed one year ago, which should mean everyone has <mark class=\"voc\">a level playing field</mark>. But instead the field has <mark class=\"voc\">indexed more on</mark> <mark class=\"voc\">personal networks</mark> and other <mark class=\"voc\">loose signals</mark>, according to some women who work in AI.",
+   "zh": "AI行业如此之新、如此快速变化，以至于从理论上说，它应该更任人唯贤。没有人有十年经验去使用一个一年前才开发出来的模型，这应该意味着每个人都站在公平的起跑线上。但事实恰恰相反，根据一些在AI行业工作的女性的说法，这个领域更依赖于个人人脉和其他模糊信号。",
+   "notes": [
+    {
+     "w": "in theory",
+     "ipa": "/ɪn ˈθɪəri/",
+     "pos": "phr.",
+     "en": "in theory means according to ideas, but not necessarily in reality.",
+     "zh": "理论上、按道理说",
+     "ctx": "作者故意只说 in theory、不说 in practice，答案留给下一句的 But instead——一个短语就把整段变成“理想 vs 现实”。",
+     "ex1": "In theory, it should be more meritocratic. 理论上，它应该更任人唯贤。",
+     "ex2": "In theory, the plan should work. 理论上，这个计划应该可行。"
+    },
+    {
+     "w": "meritocratic",
+     "ipa": "/ˌmerɪtəˈkrætɪk/",
+     "pos": "adj.",
+     "en": "meritocratic means based on ability and talent rather than class or money.",
+     "zh": "任人唯贤的、凭本事说话的",
+     "ctx": "merit（功绩）+ -cracy（统治）：只看本事的系统，本该最偏爱新人——这正是本段反讽的起点。",
+     "ex1": "The AI industry should in theory be more meritocratic. AI行业理论上应更任人唯贤。",
+     "ex2": "The company claims to be meritocratic. 该公司声称任人唯贤。"
+    },
+    {
+     "w": "a level playing field",
+     "ipa": "/ə ˈlevl ˈpleɪɪŋ fiːld/",
+     "pos": "phr.",
+     "en": "a level playing field means a fair situation for everyone.",
+     "zh": "公平竞争环境",
+     "ctx": "与第 2 段 equalize the playing field 用的是同一个比喻，这次换成形容词 level：都在说“地要平”，可惜地从没平过。",
+     "ex1": "Everyone should have a level playing field. 每个人都应有公平竞争环境。",
+     "ex2": "The rules aim to create a level playing field. 规则旨在创造公平竞争环境。"
+    },
+    {
+     "w": "index on",
+     "ipa": "/ˈɪndeks ɒn/",
+     "pos": "phr.",
+     "en": "index on means to base or measure something on a particular thing.",
+     "zh": "以……为指标、更依赖",
+     "ctx": "金融里 index 是“挂钩、随某指数走”；说这个行业“挂在人脉上”，等于承认评判标准根本不在能力。",
+     "ex1": "The field has indexed more on personal networks. 这个领域更依赖个人人脉。",
+     "ex2": "Salaries are indexed on performance. 薪资以绩效为指标。"
+    },
+    {
+     "w": "personal networks",
+     "ipa": "/ˈpɜːsənl ˈnetwɜːks/",
+     "pos": "n. phr.",
+     "en": "personal networks are the people you know.",
+     "zh": "个人人脉、人际关系网",
+     "ctx": "与“公开标准”相对：谁认识谁，比谁会什么更重要，而人脉恰好是女性最容易缺的那一项。",
+     "ex1": "The field relies on personal networks and loose signals. 这个领域依赖个人人脉和模糊信号。",
+     "ex2": "Building personal networks is important. 建立个人人脉很重要。"
+    },
+    {
+     "w": "loose signals",
+     "ipa": "/luːs ˈsɪɡnəlz/",
+     "pos": "n. phr.",
+     "en": "loose signals are unclear or informal indicators.",
+     "zh": "模糊信号、不明确的判断依据",
+     "ctx": "signal 是招聘里的“信号”，loose 是“松的”：标准一松，偏见就有缝可钻。",
+     "ex1": "It relies on personal networks and other loose signals. 它依赖个人人脉和其他模糊信号。",
+     "ex2": "Hiring should not rely on loose signals. 招聘不应依赖模糊信号。"
+    }
+   ]
+  },
+  {
+   "en_html": "The <mark class=\"voc\">political climate</mark> has made it more challenging to get AI companies to support initiatives focused on women, said Felicia Newhouse, founder of AI Powered Women, an organization that promotes women’s participation and leadership in AI. Newhouse, a product marketer who has worked in technology companies for two decades, points to the <mark class=\"voc\">Department of Justice</mark> targeting corporations with <mark class=\"voc\">DEI programs</mark>, claiming the initiatives <mark class=\"voc\">violate</mark> <mark class=\"voc\">anti-discrimination laws</mark>.",
+   "zh": "政治气候使得让AI公司支持聚焦女性的倡议变得更加困难，AI Powered Women的创始人Felicia Newhouse说。该组织致力于推动女性在AI领域的参与和领导力。Newhouse，一个在科技公司工作了二十年的产品营销人，指出美国司法部正在针对那些设有DEI项目的公司，声称这些倡议违反了反歧视法。",
+   "notes": [
+    {
+     "w": "political climate",
+     "ipa": "/pəˈlɪtɪkl ˈklaɪmət/",
+     "pos": "n. phr.",
+     "en": "political climate is the general political atmosphere.",
+     "zh": "政治气候、政治风向",
+     "ctx": "用天气说政治：不是某一条法令，而是整片空气变了，企业连表态都要先看风向。",
+     "ex1": "The political climate has made it harder to support women. 政治气候使支持女性变得更难。",
+     "ex2": "The political climate is changing. 政治气候正在变化。"
+    },
+    {
+     "w": "Department of Justice (DOJ)",
+     "ipa": "/dɪˈpɑːtmənt əv ˈdʒʌstɪs/",
+     "pos": "n.",
+     "en": "the Department of Justice is the U.S. federal department responsible for law enforcement.",
+     "zh": "美国司法部",
+     "ctx": "出现在这里不是普法，是给“企业不敢支持女性”找一个具体施压者：来告你歧视的，正是反歧视的执法者。",
+     "ex1": "The DOJ is targeting corporations with DEI programs. 美国司法部正在针对设有DEI项目的公司。",
+     "ex2": "The DOJ announced new charges. 司法部宣布了新指控。"
+    },
+    {
+     "w": "DEI programs",
+     "ipa": "/ˌdiː iː ˈaɪ ˈprəʊɡræmz/",
+     "pos": "n. phr.",
+     "en": "DEI programs are policies for diversity, equity, and inclusion.",
+     "zh": "多元、公平、包容项目",
+     "ctx": "三个字母是 diversity / equity / inclusion 的首字母。这类项目本是纠偏工具，如今反被指为“逆向歧视”。",
+     "ex1": "The DOJ claims DEI programs violate anti-discrimination laws. 司法部声称DEI项目违反反歧视法。",
+     "ex2": "Many companies have DEI programs. 许多公司有DEI项目。"
+    },
+    {
+     "w": "violate",
+     "ipa": "/ˈvaɪəleɪt/",
+     "pos": "v.",
+     "en": "violate means to break a rule or law.",
+     "zh": "违反、触犯",
+     "ctx": "法律语境里的重词：一个动词，就把原本的“善意项目”定性成了“违法行为”。",
+     "ex1": "The initiatives violate anti-discrimination laws. 这些倡议违反反歧视法。",
+     "ex2": "The company violated safety rules. 该公司违反了安全规定。"
+    },
+    {
+     "w": "anti-discrimination laws",
+     "ipa": "/ˌænti dɪsˌkrɪmɪˈneɪʃn lɔːz/",
+     "pos": "n. phr.",
+     "en": "anti-discrimination laws are laws that prevent unfair treatment.",
+     "zh": "反歧视法",
+     "ctx": "同一个词被两方使用：支持者说 DEI 是落实反歧视法，司法部说 DEI 违反反歧视法——词没变，立场全反。",
+     "ex1": "The initiatives allegedly violate anti-discrimination laws. 这些倡议被指违反反歧视法。",
+     "ex2": "Anti-discrimination laws protect workers. 反歧视法保护工人。"
+    }
+   ]
+  },
+  {
+   "en_html": "Still, she said the risk that women are left behind in the AI workforce was something that <mark class=\"voc\">kept her up at night</mark>. “We’re talking about who <mark class=\"voc\">captures</mark> a major new source of <mark class=\"voc\">economic mobility</mark>,” she said. “The deepest risk is that a <mark class=\"voc\">participation gap</mark> becomes a <mark class=\"voc\">power gap</mark>.”",
+   "zh": "不过，她说，女性被落在AI劳动力之外的风险，是让她夜不能寐的事情。“我们在讨论的是谁将抓住一个重要的新经济流动来源，”她说。“最深层的风险是，参与差距会变成权力差距。”",
+   "notes": [
+    {
+     "w": "keep someone up at night",
+     "ipa": "/kiːp ˈsʌmwʌn ʌp ət naɪt/",
+     "pos": "phr.",
+     "en": "keep someone up at night means to make someone worry and unable to sleep.",
+     "zh": "让某人夜不能寐",
+     "ctx": "全篇唯一的私人情绪：前面都是数据与引述，到这里收束成一个人的失眠。",
+     "ex1": "The risk kept her up at night. 这个风险让她夜不能寐。",
+     "ex2": "The thought of losing his job keeps him up at night. 失业的念头让他夜不能寐。"
+    },
+    {
+     "w": "capture",
+     "ipa": "/ˈkæptʃə/",
+     "pos": "v.",
+     "en": "captures means to take or get something.",
+     "zh": "抓住、获取",
+     "ctx": "宾语是“经济流动的来源”，等于把机会当成猎物：谁抓到，谁就往上走。",
+     "ex1": "Who captures a major new source of economic mobility. 谁抓住了一个重要的新经济流动来源。",
+     "ex2": "The company captured a large share of the market. 该公司占据了很大的市场份额。"
+    },
+    {
+     "w": "economic mobility",
+     "ipa": "/ˌiːkəˈnɒmɪk məʊˈbɪləti/",
+     "pos": "n. phr.",
+     "en": "economic mobility means the ability to change one’s economic status.",
+     "zh": "经济流动、经济地位的变化",
+     "ctx": "与第 1 段的 upward mobility 前后扣合：AI 是新的上升电梯，问题在于女性究竟在不在电梯里。",
+     "ex1": "We’re talking about who captures a major new source of economic mobility. 我们在讨论谁抓住一个重要的新经济流动来源。",
+     "ex2": "Education can improve economic mobility. 教育可以改善经济流动。"
+    },
+    {
+     "w": "participation gap",
+     "ipa": "/pɑːˌtɪsɪˈpeɪʃn ɡæp/",
+     "pos": "n. phr.",
+     "en": "participation gap means the difference in who takes part.",
+     "zh": "参与差距",
+     "ctx": "不是能力差距，也不是兴趣差距，是“谁在里面、谁在外面”的差距——所以下一步才会滑向权力差距。",
+     "ex1": "The deepest risk is that a participation gap becomes a power gap. 最深层的风险是参与差距变成权力差距。",
+     "ex2": "The participation gap between men and women is widening. 男女参与差距正在扩大。"
+    },
+    {
+     "w": "power gap",
+     "ipa": "/ˈpaʊə ɡæp/",
+     "pos": "n. phr.",
+     "en": "power gap means the difference in power between groups.",
+     "zh": "权力差距",
+     "ctx": "收尾三个字：钱少只是表象，真正的问题是说话算不算数。与 participation gap 用同一句式接力。",
+     "ex1": "A participation gap becomes a power gap. 参与差距变成权力差距。",
+     "ex2": "The power gap between the rich and poor is growing. 贫富权力差距正在扩大。"
+    }
+   ]
+  }
+ ],
+ "proper": [
+  {
+   "name": "Silicon Valley / 硅谷",
+   "def": "美国加州旧金山湾区南部，苹果、谷歌、OpenAI 等科技公司与 AI 高薪岗位最密集的地带，也是全球风险投资的大本营。<br>本文中的意思：文章用“硅谷职场人的共同恐惧”开场——要么抢到高薪 AI 岗，要么掉进永久底层，恐惧的发源地就在这里。"
+  },
+  {
+   "name": "Prioriwise",
+   "def": "一家为 IT 服务提供商提供 AI 平台的公司，帮助企业通过 AI 发现数据价值。<br>本文中的意思：其联合创始人 Urvashi Batra 用融资时的亲身遭遇，说明“AI 让女性更公平”的说法站不住脚。"
+  },
+  {
+   "name": "Urvashi Batra",
+   "def": "Prioriwise 的联合创始人兼 CEO，AI 行业女性创业者。<br>本文中的意思：她以自身经历说明，作为 AI 公司的女性创始人，她不如男联合创始人被认真对待，融资路演时需由男性出面更易成功。"
+  },
+  {
+   "name": "LinkedIn / 领英",
+   "def": "全球最大的职业社交平台，同时也发布招聘与劳动力市场研究报告。<br>本文中的意思：文中第 3 段的数据来源——AI 新岗位中女性仅占约四分之一，高管层只剩 13%。"
+  },
+  {
+   "name": "World Economic Forum / 世界经济论坛",
+   "def": "总部位于日内瓦的国际组织，每年发布《全球性别差距报告》。<br>本文中的意思：其 2026 年报告指出，AI 公司高管层女性仅占 13.3%，非 AI 岗位女性占 45.1%，为文中的落差提供了另一组坐标。"
+  },
+  {
+   "name": "data annotators / 数据标注员",
+   "def": "给 AI 训练数据打标签的工人，门槛低、重复性高、工资低，是 AI 行业最底层的岗位之一。<br>本文中的意思：女性在 AI 行业不成比例地集中在数据标注等低薪岗位，进一步加剧了性别薪酬差距。"
+  },
+  {
+   "name": "AnitaB.org",
+   "def": "由计算机科学家 Anita Borg 于 1987 年创立的非营利组织，致力于推动女性在科技领域的平等。<br>本文中的意思：其主席在文中把当前趋势定性为 a sort of backsliding（一种倒退）。"
+  },
+  {
+   "name": "Brenda Darden Wilkerson",
+   "def": "AnitaB.org 的主席兼 CEO，芝加哥公立学校“全民计算机科学”项目的创始人。<br>本文中的意思：她那句“我们正在目睹一种倒退”，是全篇的定调之语。"
+  },
+  {
+   "name": "Jayeeta Putatunda",
+   "def": "投资公司 Turing 的 AI 工程负责人，北美排名前 1% 的导师。<br>本文中的意思：她讲的三件事——团队里唯一的女工程师、导师难找、产假归来要重新追赶——撑起了第 7、8 两段的全部细节。"
+  },
+  {
+   "name": "Turing",
+   "def": "美国 AI 公司，2018 年成立，2025 年估值达 22 亿美元，主营 AI 模型训练与企业 AI 系统。<br>本文中的意思：Putatunda 就职于此，她的经历代表了 AI 行业女性面对的普遍压力。"
+  },
+  {
+   "name": "Felicia Newhouse",
+   "def": "AI Powered Women 的创始人，在科技公司工作二十年的产品营销人。<br>本文中的意思：她指出政治气候使 AI 公司更难支持聚焦女性的倡议，并点名司法部针对 DEI 项目的行动。"
+  },
+  {
+   "name": "AI Powered Women",
+   "def": "致力于推动女性在 AI 领域参与度与领导力的组织。<br>本文中的意思：其创始人的判断解释了第 10 段的核心——不是企业不想做，是现在做有法律风险。"
+  },
+  {
+   "name": "DEI (Diversity, Equity, and Inclusion)",
+   "def": "多元、公平、包容，美国企业与机构推行的政策组合，旨在提升少数族裔、女性等群体的代表性。<br>本文中的意思：这类项目本是纠偏工具，如今被司法部指为违反反歧视法，AI 公司因此不敢再资助女性倡议。"
+  },
+  {
+   "name": "Department of Justice (DOJ) / 美国司法部",
+   "def": "美国联邦司法部，负责执法与司法行政。<br>本文中的意思：文中提到它盯上设有 DEI 项目的公司，声称这些项目违反反歧视法，给企业支持女性倡议带来政治压力。"
+  },
+  {
+   "name": "IBM / 德勤（Deloitte）",
+   "def": "两家美国大型企业，因 DEI 项目与司法部达成和解：IBM 支付约 1700 万美元，德勤支付 2150 万美元。<br>本文中的意思：这两笔和解金就是“支持女性项目变得政治敏感”的价码，也是企业退缩的直接原因。"
+  },
+  {
+   "name": "Todd Blanche / Stanley Woodward",
+   "def": "美国司法部长与副司法部长。<br>本文中的意思：他们公开表示，DEI 项目不能因冠以 DEI 之名而合法，晋升应看功绩而非种族或性别——这正是第 10 段引述的政策逻辑。"
+  },
+  {
+   "name": "Civil Rights Fraud Initiative / 民权欺诈倡议",
+   "def": "2025 年 5 月美国司法部启动的项目，旨在调查 DEI 项目是否违反反歧视法。<br>本文中的意思：该倡议导致 IBM、德勤等公司被调查并和解，进一步抬高了 AI 公司支持女性倡议的政治成本。"
+  }
+ ],
+ "sources_note": "资料核对：以上背景依据课件原文与正文内容整理，并参考 LinkedIn 2025 年 AI 岗位性别构成报告、世界经济论坛《全球性别差距报告》以及美国司法部 2025 年民权欺诈倡议相关公开信息。",
+ "practice": {
+  "intro": "请将以下中文句子翻译为英文（参考答案见后）。",
+  "items": [
+   "硅谷人害怕被困在“永久底层”，而对科技行业的女性来说，这已经开始变成现实。",
+   "女性AI创始人发现，如果由男联合创始人去做路演，他们更容易拿到投资。",
+   "女性只占AI新岗位的四分之一和高管职位的13%，却更多从事容易被AI替代的工作。",
+   "AI岗位工资是非AI岗位的两倍多，但女性更多集中在数据标注这类低薪工作上。",
+   "AI行业理论上应该任人唯贤，但实际上更依赖人脉和模糊信号。",
+   "最深层的风险是，女性在AI领域的参与差距会变成权力差距。"
+  ],
+  "critical_en": "If AI rewards speed and networks rather than credentials, it should be the fairest industry ever built — so why is it reproducing the oldest gender gap of all?",
+  "critical_zh": "如果 AI 行业拼的是速度和应变、而不是资历，它本该是史上最公平的行业——那它为什么反而复制了最古老的那道性别鸿沟？",
+  "answer": "1. Silicon Valley workers fear getting trapped in the “permanent underclass”, and for women in tech, it’s starting to look like the present.<br><br>2. Female AI founders have learned that they are more likely to get investment if their male co-founder does the pitching.<br><br>3. Women make up only a quarter of new AI hires and 13% of executives, but are more likely to work in roles with high exposure to AI disruption.<br><br>4. AI jobs pay more than twice as much as non-AI roles, but women are disproportionately concentrated in low-paying roles like data annotators.<br><br>5. The AI industry should in theory be meritocratic, but it relies more on personal networks and other loose signals.<br><br>6. The deepest risk is that a participation gap becomes a power gap."
+ },
+ "mindmap": {
+  "aria": "AI 红利与女性就业思维导图",
+  "alt": "AI 红利与女性就业（手绘版）",
+  "svg": "<svg viewBox=\"0 0 960 720\" xmlns=\"http://www.w3.org/2000/svg\" role=\"img\" aria-label=\"AI 红利与女性就业思维导图\" style=\"width:100%;height:auto;font-family:-apple-system,'PingFang SC','Hiragino Sans GB','Microsoft YaHei',sans-serif\">\n        <rect x=\"24\" y=\"306\" width=\"176\" height=\"88\" rx=\"14\" fill=\"#eae3d2\" stroke=\"#9a8f76\"/>\n        <text x=\"112\" y=\"342\" text-anchor=\"middle\" fill=\"#3d3a34\" font-size=\"17\" font-weight=\"700\">AI 红利下的女性</text>\n        <text x=\"112\" y=\"368\" text-anchor=\"middle\" fill=\"#5c5648\" font-size=\"12.5\">进不去，也留不住</text>\n\n        <path d=\"M200,350 C232,350 232,88 260,88\"  stroke=\"#6b8f71\" stroke-width=\"2\" fill=\"none\"/>\n        <path d=\"M200,350 C232,350 232,238 260,238\" stroke=\"#7d98ad\" stroke-width=\"2\" fill=\"none\"/>\n        <path d=\"M200,350 C232,350 232,433 260,433\" stroke=\"#bd7a6d\" stroke-width=\"2\" fill=\"none\"/>\n        <path d=\"M200,350 C232,350 232,628 260,628\" stroke=\"#9b86b3\" stroke-width=\"2\" fill=\"none\"/>\n\n        <g class=\"mm-branch\" data-target=\"bc1\">\n          <rect x=\"260\" y=\"71\" width=\"190\" height=\"34\" rx=\"8\" fill=\"#e6efe7\" stroke=\"#6b8f71\"/>\n          <text x=\"349\" y=\"93\" text-anchor=\"middle\" fill=\"#4c6b52\" font-size=\"15\" font-weight=\"700\">红利来了，谁被甩下（¶1–2）</text>\n          <text class=\"mm-arrow\" data-for=\"bc1\" x=\"442\" y=\"93\" text-anchor=\"end\" fill=\"#4c6b52\">▾</text>\n        </g>\n        <g class=\"mm-children\" id=\"bc1\">\n          <path d=\"M450,88 C462,88 462,46 480,46\" stroke=\"#6b8f71\" stroke-width=\"1.5\" fill=\"none\"/>\n          <path d=\"M450,88 C462,88 462,88 480,88\" stroke=\"#6b8f71\" stroke-width=\"1.5\" fill=\"none\"/>\n          <path d=\"M450,88 C462,88 462,130 480,130\" stroke=\"#6b8f71\" stroke-width=\"1.5\" fill=\"none\"/>\n          <rect x=\"480\" y=\"30\" width=\"456\" height=\"32\" rx=\"8\" fill=\"#e6efe7\"/><text x=\"492\" y=\"51\" fill=\"#3d3a34\" font-size=\"14\">硅谷的恐惧：要么抢到高薪 AI 岗，要么掉进永久底层</text>\n          <rect x=\"480\" y=\"72\" width=\"456\" height=\"32\" rx=\"8\" fill=\"#e6efe7\"/><text x=\"492\" y=\"93\" fill=\"#3d3a34\" font-size=\"14\">“AI 降低门槛、拉平赛场”——女创始人说恰恰相反</text>\n          <rect x=\"480\" y=\"114\" width=\"456\" height=\"32\" rx=\"8\" fill=\"#e6efe7\"/><text x=\"492\" y=\"135\" fill=\"#3d3a34\" font-size=\"14\">同一份商业计划，男联创去路演才更容易拿到钱</text>\n        </g>\n\n        <g class=\"mm-branch\" data-target=\"bc2\">\n          <rect x=\"260\" y=\"221\" width=\"190\" height=\"34\" rx=\"8\" fill=\"#e5edf4\" stroke=\"#7d98ad\"/>\n          <text x=\"349\" y=\"243\" text-anchor=\"middle\" fill=\"#3d5872\" font-size=\"15\" font-weight=\"700\">数字上的两头吃亏（¶3–5）</text>\n          <text class=\"mm-arrow\" data-for=\"bc2\" x=\"442\" y=\"243\" text-anchor=\"end\" fill=\"#3d5872\">▾</text>\n        </g>\n        <g class=\"mm-children\" id=\"bc2\">\n          <path d=\"M450,238 C462,238 462,196 480,196\" stroke=\"#7d98ad\" stroke-width=\"1.5\" fill=\"none\"/>\n          <path d=\"M450,238 C462,238 462,238 480,238\" stroke=\"#7d98ad\" stroke-width=\"1.5\" fill=\"none\"/>\n          <path d=\"M450,238 C462,238 462,280 480,280\" stroke=\"#7d98ad\" stroke-width=\"1.5\" fill=\"none\"/>\n          <rect x=\"480\" y=\"180\" width=\"456\" height=\"32\" rx=\"8\" fill=\"#e5edf4\"/><text x=\"492\" y=\"201\" fill=\"#3d3a34\" font-size=\"14\">AI 新岗位女性只占四分之一，高管层只剩 13%</text>\n          <rect x=\"480\" y=\"222\" width=\"456\" height=\"32\" rx=\"8\" fill=\"#e5edf4\"/><text x=\"492\" y=\"243\" fill=\"#3d3a34\" font-size=\"14\">AI 岗薪资是两倍多，女性却挤在数据标注这类低薪岗</text>\n          <rect x=\"480\" y=\"264\" width=\"456\" height=\"32\" rx=\"8\" fill=\"#e5edf4\"/><text x=\"492\" y=\"285\" fill=\"#3d3a34\" font-size=\"14\">中位数差 4.5 万美元，或成几代人最大的薪酬差距</text>\n        </g>\n\n        <g class=\"mm-branch\" data-target=\"bc3\">\n          <rect x=\"260\" y=\"416\" width=\"190\" height=\"34\" rx=\"8\" fill=\"#f4e7e4\" stroke=\"#bd7a6d\"/>\n          <text x=\"349\" y=\"438\" text-anchor=\"middle\" fill=\"#7c4a3e\" font-size=\"15\" font-weight=\"700\">留不住，也跟不上（¶6–8）</text>\n          <text class=\"mm-arrow\" data-for=\"bc3\" x=\"442\" y=\"438\" text-anchor=\"end\" fill=\"#7c4a3e\">▾</text>\n        </g>\n        <g class=\"mm-children\" id=\"bc3\">\n          <path d=\"M450,433 C462,433 462,391 480,391\" stroke=\"#bd7a6d\" stroke-width=\"1.5\" fill=\"none\"/>\n          <path d=\"M450,433 C462,433 462,433 480,433\" stroke=\"#bd7a6d\" stroke-width=\"1.5\" fill=\"none\"/>\n          <path d=\"M450,433 C462,433 462,475 480,475\" stroke=\"#bd7a6d\" stroke-width=\"1.5\" fill=\"none\"/>\n          <rect x=\"480\" y=\"375\" width=\"456\" height=\"32\" rx=\"8\" fill=\"#f4e7e4\"/><text x=\"492\" y=\"396\" fill=\"#3d3a34\" font-size=\"14\">倡议搞了多年，结果好坏参半：整体三分之一，AI 岗仅四分之一</text>\n          <rect x=\"480\" y=\"417\" width=\"456\" height=\"32\" rx=\"8\" fill=\"#f4e7e4\"/><text x=\"492\" y=\"438\" fill=\"#3d3a34\" font-size=\"14\">唯一的女工程师：要更用力发声，导师难找，迭代快得跟不上</text>\n          <rect x=\"480\" y=\"459\" width=\"456\" height=\"32\" rx=\"8\" fill=\"#f4e7e4\"/><text x=\"492\" y=\"480\" fill=\"#3d3a34\" font-size=\"14\">休四个月产假回来框架全换，靠同事与分担育儿的丈夫才追上</text>\n        </g>\n\n        <g class=\"mm-branch\" data-target=\"bc4\">\n          <rect x=\"260\" y=\"611\" width=\"190\" height=\"34\" rx=\"8\" fill=\"#ece4f2\" stroke=\"#9b86b3\"/>\n          <text x=\"349\" y=\"633\" text-anchor=\"middle\" fill=\"#5a4670\" font-size=\"15\" font-weight=\"700\">人脉、政治与权力（¶9–11）</text>\n          <text class=\"mm-arrow\" data-for=\"bc4\" x=\"442\" y=\"633\" text-anchor=\"end\" fill=\"#5a4670\">▾</text>\n        </g>\n        <g class=\"mm-children\" id=\"bc4\">\n          <path d=\"M450,628 C462,628 462,586 480,586\" stroke=\"#9b86b3\" stroke-width=\"1.5\" fill=\"none\"/>\n          <path d=\"M450,628 C462,628 462,628 480,628\" stroke=\"#9b86b3\" stroke-width=\"1.5\" fill=\"none\"/>\n          <path d=\"M450,628 C462,628 462,670 480,670\" stroke=\"#9b86b3\" stroke-width=\"1.5\" fill=\"none\"/>\n          <rect x=\"480\" y=\"570\" width=\"456\" height=\"32\" rx=\"8\" fill=\"#ece4f2\"/><text x=\"492\" y=\"591\" fill=\"#3d3a34\" font-size=\"14\">理论上该任人唯贤，实际更看人脉和模糊信号</text>\n          <rect x=\"480\" y=\"612\" width=\"456\" height=\"32\" rx=\"8\" fill=\"#ece4f2\"/><text x=\"492\" y=\"633\" fill=\"#3d3a34\" font-size=\"14\">政治风向转冷：司法部盯上 DEI，企业不敢再资助女性项目</text>\n          <rect x=\"480\" y=\"654\" width=\"456\" height=\"32\" rx=\"8\" fill=\"#ece4f2\"/><text x=\"492\" y=\"675\" fill=\"#3d3a34\" font-size=\"14\">最深的恐惧：参与差距会变成权力差距</text>\n        </g>\n      </svg>",
+  "img": ""
+ }
+}

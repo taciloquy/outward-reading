@@ -1,0 +1,347 @@
+{
+ "date": "2026-10-06",
+ "title_tag": "AI红利爆发，女性却“两头吃亏”：为什么她们既更难进高薪岗位，又更容易被替代？—— 英国《卫报》外刊讲解第1189天",
+ "h1": "AI红利爆发，女性却“两头吃亏”：为什么她们既更难进高薪岗位，又更容易被替代？",
+ "source_label": "The Guardian",
+ "category": "英国《卫报》外刊讲解 第1189天",
+ "read_minutes": 18,
+ "nav_hint": "Women are getting left behind",
+ "headline": {
+  "en_html": "<span>The AI industry is <mark class=\"voc\">booming</mark>. Women are <mark class=\"voc\">getting left behind</mark></span> — <span>Women hold just <mark class=\"voc\">a fraction of</mark> new AI jobs but are <mark class=\"voc\">overrepresented</mark> in roles with high risk of AI disruption</span>",
+  "zh": "AI行业正在飞速发展，女性却被甩在后面——她们只占新增AI岗位的极小一部分，却在容易被AI冲击的岗位上占比过高。",
+  "notes": [
+   {
+    "w": "booming",
+    "ipa": "/ˈbuːmɪŋ/",
+    "pos": "adj.",
+    "en": "booming means growing or developing rapidly.",
+    "zh": "蓬勃发展的、飞速增长的",
+    "ctx": "标题第一个词就定下基调：这是“红利爆发”的行业——正因为它疯长，被落下的那部分人才格外刺眼。",
+    "ex1": "The AI industry is booming, but not everyone is benefiting. AI行业正在蓬勃发展，但并非人人受益。",
+    "ex2": "Tech hubs are booming across Asia. 亚洲各地的科技中心正在蓬勃发展。"
+   },
+   {
+    "w": "get left behind",
+    "ipa": "/ɡet left bɪˈhaɪnd/",
+    "pos": "phr.",
+    "en": "to be left behind means to be left in a position behind others, especially when they move forward.",
+    "zh": "被甩在后面、被淘汰",
+    "ctx": "被动语态是关键：不是女性自己不走，是别人往前跑的时候，她们被留在了原地。",
+    "ex1": "Workers who don't adapt will get left behind. 不适应变化的工人会被淘汰。",
+    "ex2": "Women are getting left behind in the AI boom. 女性正在AI热潮中被甩在后面。"
+   },
+   {
+    "w": "a fraction of",
+    "ipa": "/ə ˈfrækʃn əv/",
+    "pos": "phr.",
+    "en": "a fraction of means a very small part of something.",
+    "zh": "极小一部分、微乎其微的比例",
+    "ctx": "fraction 是数学里的“分数”，用在人数上就是“零头”：新岗位一大把，女性只分到一撮。",
+    "ex1": "Women hold just a fraction of new AI jobs. 女性只占AI新岗位的极小一部分。",
+    "ex2": "The company spends only a fraction of its budget on training. 这家公司只把预算的极小一部分花在培训上。"
+   },
+   {
+    "w": "overrepresented",
+    "ipa": "/ˌəʊvəˌreprɪˈzentɪd/",
+    "pos": "adj.",
+    "en": "overrepresented means present in a group in a proportion higher than is usual or expected.",
+    "zh": "占比过高的",
+    "ctx": "与前半句的 a fraction of 正好对照：好岗位里少得可怜，危险岗位里却多得异常——标题的“两头吃亏”就藏在这一对词里。",
+    "ex1": "Women are overrepresented in roles with high risk of AI disruption. 女性在容易被AI冲击的岗位上占比过高。",
+    "ex2": "The group is overrepresented in low-paying jobs. 该群体在低薪岗位中占比过高。"
+   }
+  ]
+ },
+ "paragraphs": [
+  {
+   "en_html": "There’s a common fear among people who work in Silicon Valley: <mark class=\"voc\">snag</mark> one of the fast-growing, high-paying jobs in artificial intelligence, or get trapped in the “<mark class=\"voc\">permanent underclass</mark>”, a phrase describing the fate of those who won’t have <mark class=\"voc\">upward mobility</mark> in the age of AI. The phrase usually describes a future in which AI <mark class=\"voc\">automates</mark> human jobs. But for women in tech, <mark class=\"voc\">it’s starting to look like the present</mark>.",
+   "zh": "硅谷的职场人有一个共同的恐惧：要么抢到AI领域那些快速增长的高薪岗位，要么被困在“永久底层”——这个词描述的是在AI时代无法向上流动的那群人的命运。它通常被用来描述一个AI取代人类工作的未来。但对科技行业的女性来说，它开始看起来像是现在。",
+   "notes": [
+    {
+     "w": "snag",
+     "ipa": "/snæɡ/",
+     "pos": "v.",
+     "en": "snag means to get or obtain something, often quickly or by chance.",
+     "zh": "抢到、弄到手",
+     "ctx": "本义是“钩住、绊住”，用在求职上就成了“眼疾手快抢下来”：机会不是排队等来的，是从别人手里钩走的。",
+     "ex1": "She snagged one of the few AI jobs available. 她抢到了为数不多的AI岗位之一。",
+     "ex2": "He snagged a great deal on a used car. 他抢到了一辆二手车的划算买卖。"
+    },
+    {
+     "w": "permanent underclass",
+     "ipa": "/ˈpɜːmənənt ˈʌndəklɑːs/",
+     "pos": "n.",
+     "en": "permanent underclass means a group of people at the bottom of society who are unable to move up.",
+     "zh": "永久底层阶级",
+     "ctx": "permanent 是判决书上的词：不是暂时掉队，是这一辈子都上不去。文中指 AI 时代被卡在底层、再无上升通道的那群人。",
+     "ex1": "The phrase describes a future in which AI creates a permanent underclass. 这个词描述了一个AI制造出永久底层的未来。",
+     "ex2": "For women in tech, it’s starting to look like the present. 对科技女性来说，这开始像是现在。"
+    },
+    {
+     "w": "upward mobility",
+     "ipa": "/ˈʌpwəd məʊˈbɪləti/",
+     "pos": "n.",
+     "en": "upward mobility means the ability to move to a higher social or economic class.",
+     "zh": "向上流动、阶层上升",
+     "ctx": "全文的价值尺度：一份工作值不值钱，看它能不能让人往上走，而不只看眼前那张工资条。",
+     "ex1": "AI could destroy upward mobility for many workers. AI可能摧毁许多工人的向上流动机会。",
+     "ex2": "Education is a key driver of upward mobility. 教育是向上流动的关键驱动力。"
+    },
+    {
+     "w": "automate",
+     "ipa": "/ˈɔːtəmeɪt/",
+     "pos": "v.",
+     "en": "automate means to make a process or job work by machines rather than people.",
+     "zh": "使自动化、用机器取代人力",
+     "ctx": "这里的主语是 AI、宾语是 human jobs——不是“帮人干活”，是“把整份活端走”，于是才有了下一句“谁被替代”的焦虑。",
+     "ex1": "AI is automating many human jobs. AI正在自动化许多人类工作。",
+     "ex2": "The factory has automated most of its production. 这家工厂已实现大部分生产自动化。"
+    },
+    {
+     "w": "it's starting to look like the present",
+     "ipa": "/ɪts ˈstɑːtɪŋ tə lʊk laɪk ðə ˈpreznt/",
+     "pos": "phr.",
+     "en": "it’s starting to look like the present means something that was expected in the future is now happening.",
+     "zh": "开始看起来像现在、未来已来",
+     "ctx": "全篇的第一次转折：本该属于“未来”的最坏设想，对科技行业的女性来说已经是“现在”，一句话把时态压平。",
+     "ex1": "For women in tech, the future of AI underclass is starting to look like the present. 对科技女性来说，AI底层的未来开始像现在。",
+     "ex2": ""
+    }
+   ]
+  },
+  {
+   "en_html": "“A lot of people say: ‘Oh, AI is <mark class=\"voc\">lowering barriers</mark>, it’s <mark class=\"voc\">equalizing the playing field</mark> for women,’” said Urvashi Batra, co-founder and CEO of Prioriwise, an AI platform for IT service providers. “I actually think it’s <mark class=\"voc\">the opposite</mark>.” Batra said people <mark class=\"voc\">take her less seriously</mark> as the founder of an AI company than her male co-founder. When <mark class=\"voc\">pitching investors</mark>, she and her co-founder have learned that they are more likely to get an investment if he does the pitching.",
+   "zh": "“很多人说：‘哦，AI在降低门槛，它在为女性创造公平的竞争环境。’”IT服务商的AI平台Prioriwise的联合创始人兼CEO Urvashi Batra说。“我恰恰认为，情况是相反的。”Batra说，作为AI公司的创始人，人们不如对待她的男联合创始人那样认真对待她。在向投资人路演时，她和她的联合创始人已经摸出一个规律：如果由他来路演，拿到投资的概率更大。",
+   "notes": [
+    {
+     "w": "lower barriers",
+     "ipa": "/ˈləʊə ˈbæriəz/",
+     "pos": "phr.",
+     "en": "lower barriers means to reduce the things that make it difficult to enter or succeed.",
+     "zh": "降低门槛",
+     "ctx": "这是“AI对女性友好”论的全部依据：门槛低了，谁都能进。下文作者要用亲身经历推翻的，正是这一句。",
+     "ex1": "AI is said to lower barriers for women. 据说AI降低了女性的门槛。",
+     "ex2": "The policy aims to lower barriers to tech careers. 该政策旨在降低科技职业门槛。"
+    },
+    {
+     "w": "equalize the playing field",
+     "ipa": "/ˈiːkwəlaɪz ðə ˈpleɪɪŋ fiːld/",
+     "pos": "phr.",
+     "en": "equalize the playing field means to make conditions fair for everyone.",
+     "zh": "创造公平的竞争环境",
+     "ctx": "原义是“把球场铲平”，指把先天条件拉齐。注意它与第 9 段的 a level playing field 是同一个比喻的两种说法。",
+     "ex1": "Many believe AI will equalize the playing field for women. 许多人认为AI会为女性创造公平竞争环境。",
+     "ex2": "The new law aims to equalize the playing field for small businesses. 新法律旨在为小企业创造公平竞争环境。"
+    },
+    {
+     "w": "the opposite",
+     "ipa": "/ði ˈɒpəzɪt/",
+     "pos": "n. phr.",
+     "en": "the opposite means the completely different thing.",
+     "zh": "恰恰相反的事物",
+     "ctx": "三个词顶掉前面一整套乐观论调：I actually think it’s the opposite——短、硬，还带一个 actually 表示“你们都想错了”。",
+     "ex1": "I actually think it’s the opposite. 我恰恰认为情况相反。",
+     "ex2": "The result was the opposite of what we expected. 结果与我们预期的恰恰相反。"
+    },
+    {
+     "w": "take someone seriously",
+     "ipa": "/teɪk ˈsʌmwʌn ˈsɪəriəsli/",
+     "pos": "phr.",
+     "en": "take someone seriously means to treat someone as important or worthy of attention.",
+     "zh": "把某人当回事、重视某人",
+     "ctx": "不是“没礼貌”，是专业判断被降级：同一个头衔，男联创被认真听，她被打折。",
+     "ex1": "People take her less seriously than her male co-founder. 人们不如对待她的男联合创始人那样认真对待她。",
+     "ex2": "We take all complaints seriously. 我们认真对待所有投诉。"
+    },
+    {
+     "w": "pitching investors",
+     "ipa": "/ˈpɪtʃɪŋ ˈɪnvɛstəz/",
+     "pos": "phr.",
+     "en": "pitching investors means presenting a business idea to investors to get funding.",
+     "zh": "向投资人路演、融资推介",
+     "ctx": "pitch 原指“投掷、摆摊叫卖”，融资场上就是拿着方案上台讲。“由他来讲更容易拿到钱”，一句话把性别折扣量化了。",
+     "ex1": "They learned they are more likely to get investment if he does the pitching. 他们发现如果由他来路演，更可能拿到投资。",
+     "ex2": "She pitched investors for two hours. 她向投资人路演了两个小时。"
+    }
+   ]
+  },
+  {
+   "en_html": "Women <mark class=\"voc\">made up</mark> only about <mark class=\"voc\">a quarter</mark> of new hires in AI roles in the last year, compared to 50% of new hires in non-AI roles, according to a recent report from LinkedIn. In <mark class=\"voc\">executive roles</mark>, that number drops to just 13%. At the same time, LinkedIn’s research shows that women are more likely to work in roles with <mark class=\"voc\">high exposure to AI disruption</mark>, like customer service, meaning they are also <mark class=\"voc\">at higher risk for</mark> job loss due to AI.",
+   "zh": "根据LinkedIn最近的一份报告，过去一年AI岗位的新员工中，女性只占大约四分之一，而非AI岗位的新员工中，女性占了50%。在高管职位中，这个数字骤降到只有13%。与此同时，LinkedIn的研究显示，女性更可能从事那些高度暴露于AI冲击的岗位，比如客服，这意味着她们因AI而失业的风险也更高。",
+   "notes": [
+    {
+     "w": "make up",
+     "ipa": "/meɪk ʌp/",
+     "pos": "phr.",
+     "en": "make up means to form or constitute a part of something.",
+     "zh": "构成、占（比例）",
+     "ctx": "数据段的动词，后面接的都是比例：make up 后面跟数，问的就是“这块蛋糕里你占多少”。",
+     "ex1": "Women made up only about a quarter of new hires in AI roles. 女性只占AI新岗位的约四分之一。",
+     "ex2": "Immigrants make up a large part of the workforce. 移民占劳动力的很大一部分。"
+    },
+    {
+     "w": "a quarter",
+     "ipa": "/ə ˈkwɔːtə/",
+     "pos": "phr.",
+     "en": "a quarter means one fourth.",
+     "zh": "四分之一",
+     "ctx": "不写 25% 而写 a quarter，把冷数据说成“切走四分之一块”，紧接着的 50% 就形成了成倍的落差。",
+     "ex1": "Women made up about a quarter of AI new hires. 女性约占AI新员工的四分之一。",
+     "ex2": "A quarter of the students failed the exam. 四分之一的学生考试不及格。"
+    },
+    {
+     "w": "executive roles",
+     "ipa": "/ɪɡˈzekjətɪv rəʊlz/",
+     "pos": "n. phr.",
+     "en": "executive roles means positions at a senior management level.",
+     "zh": "高管职位、高层管理岗位",
+     "ctx": "从 25% 掉到 13% 的那一层：越往上走人越少，这就是“天花板”被量化后的样子。",
+     "ex1": "In executive roles, the number drops to just 13%. 在高管职位中，这个数字降到只有13%。",
+     "ex2": "She has held several executive roles. 她担任过多个高管职位。"
+    },
+    {
+     "w": "high exposure to AI disruption",
+     "ipa": "/haɪ ɪkˈspəʊʒə tʊ ˌeɪ ˈaɪ dɪsˈrʌpʃn/",
+     "pos": "n. phr.",
+     "en": "high exposure to AI disruption means being very likely to be affected by AI changes.",
+     "zh": "高度暴露于AI冲击",
+     "ctx": "exposure 是金融里的“敞口”：仓位越重，风一吹亏得越多。这里是“这份工作有多大比例真会被 AI 吃掉”。",
+     "ex1": "Women are more likely to work in roles with high exposure to AI disruption. 女性更可能从事高度暴露于AI冲击的岗位。",
+     "ex2": "Customer service has high exposure to AI disruption. 客服岗位高度暴露于AI冲击。"
+    },
+    {
+     "w": "at higher risk for",
+     "ipa": "/æt ˈhaɪə rɪsk fə/",
+     "pos": "phr.",
+     "en": "at higher risk for means more likely to experience something bad.",
+     "zh": "面临更高风险、更容易遭遇",
+     "ctx": "紧接 exposure 的落点：不是抽象的“受影响”，是具体的丢工作——风险从统计学变成了饭碗。",
+     "ex1": "They are at higher risk for job loss due to AI. 她们因AI而失业的风险更高。",
+     "ex2": "Smokers are at higher risk for lung cancer. 吸烟者患肺癌的风险更高。"
+    }
+   ]
+  },
+  {
+   "en_html": "AI jobs, whose postings have doubled since 2023, come with a <mark class=\"voc\">salary premium</mark>, on average paying more than <mark class=\"voc\">twice as much as</mark> roles that don’t involve working with AI. But women who do have jobs in AI are <mark class=\"voc\">disproportionately</mark> concentrated in low-paying roles, like <mark class=\"voc\">data annotators</mark>. Across all AI occupations, men have $45,000 higher <mark class=\"voc\">median pay</mark> than women, <mark class=\"voc\">partly due to</mark> the types of jobs they are likelier to have.",
+   "zh": "AI岗位的招聘信息自2023年以来翻了一倍，而且带有薪资溢价，平均薪酬是不涉及AI的岗位的两倍多。但那些确实在AI行业工作的女性，却不成比例地集中在低薪岗位上，比如数据标注员。在所有AI职业中，男性的中位数薪酬比女性高45,000美元，部分原因在于他们更可能从事的那些岗位类型。",
+   "notes": [
+    {
+     "w": "salary premium",
+     "ipa": "/ˈsæləri ˈpriːmiəm/",
+     "pos": "n. phr.",
+     "en": "salary premium means extra pay above the normal rate.",
+     "zh": "薪资溢价",
+     "ctx": "premium 本是保险里的“保费”，本质是“为稀缺多付的钱”：AI 岗位贵，不是因为更辛苦，是因为会的人太少。",
+     "ex1": "AI jobs come with a salary premium. AI岗位带有薪资溢价。",
+     "ex2": "Workers with AI skills command a salary premium. 有AI技能的工人能获得薪资溢价。"
+    },
+    {
+     "w": "twice as much as",
+     "ipa": "/twaɪs əz mʌtʃ əz/",
+     "pos": "phr.",
+     "en": "twice as much as means two times the amount.",
+     "zh": "是……的两倍",
+     "ctx": "先亮出溢价倍数，下一句才更扎心：同在一个两倍薪的行业里，女性却挤在最低薪的那一档。",
+     "ex1": "AI jobs pay more than twice as much as non-AI roles. AI岗位薪酬是非AI岗位的两倍多。",
+     "ex2": "She earns twice as much as her husband. 她挣的是她丈夫的两倍。"
+    },
+    {
+     "w": "disproportionately",
+     "ipa": "/ˌdɪsprəˈpɔːʃənətli/",
+     "pos": "adv.",
+     "en": "disproportionately means in a way that is too large or too small compared to what is normal.",
+     "zh": "不成比例地、占比过高（或过低）地",
+     "ctx": "一个副词点破结构性偏差：不是“几个女性碰巧在低薪岗”，而是系统性地被挤在那里。",
+     "ex1": "Women are disproportionately concentrated in low-paying AI roles. 女性不成比例地集中在低薪AI岗位上。",
+     "ex2": "Minorities are disproportionately affected by the policy. 少数族裔受该政策影响不成比例地大。"
+    },
+    {
+     "w": "data annotators",
+     "ipa": "/ˈdeɪtə ˈænəʊteɪtəz/",
+     "pos": "n.",
+     "en": "data annotators are people who label data to train AI.",
+     "zh": "数据标注员",
+     "ctx": "AI 行业最底层的工种：框猫、打标签、判断一句话是好是坏——教 AI 认世界的人，拿的却是最低的工资。",
+     "ex1": "Women are concentrated in roles like data annotators. 女性集中在数据标注员等岗位上。",
+     "ex2": "Data annotators are essential for training AI models. 数据标注员对训练AI模型至关重要。"
+    },
+    {
+     "w": "median pay",
+     "ipa": "/ˈmiːdiən peɪ/",
+     "pos": "n. phr.",
+     "en": "median pay is the middle value of all salaries.",
+     "zh": "中位数薪酬",
+     "ctx": "用中位数而不是平均数，是为了排掉少数天价高管把均值拉高的干扰：4.5 万美元的差距，是“队伍正中间那个人”的差距。",
+     "ex1": "Men have $45,000 higher median pay than women in AI. 在AI行业，男性中位数薪酬比女性高4.5万美元。",
+     "ex2": "The median pay for the company is $60,000. 该公司中位数薪酬为6万美元。"
+    },
+    {
+     "w": "partly due to",
+     "ipa": "/ˈpɑːtli djuː tə/",
+     "pos": "phr.",
+     "en": "partly due to means partly because of.",
+     "zh": "部分由于、部分原因在于",
+     "ctx": "作者给自己留了余地：差距“部分”来自岗位类型——言下之意，还有一部分来自同岗不同酬。",
+     "ex1": "The gap is partly due to the types of jobs they have. 差距部分原因在于他们从事的岗位类型。",
+     "ex2": "The delay was partly due to bad weather. 延误部分是由于天气不好。"
+    }
+   ]
+  },
+  {
+   "en_html": "The <mark class=\"voc\">ongoing</mark> trend could produce the greatest <mark class=\"voc\">gender pay gap</mark> <mark class=\"voc\">in generations</mark> and <mark class=\"voc\">leave women out of</mark> building a technology that shaped the economy. “What we’re witnessing is a sort of <mark class=\"voc\">backsliding</mark>,” said Brenda Darden Wilkerson, president of AnitaB.org, a non-profit devoted to advancing women in tech jobs.",
+   "zh": "这一持续的趋势可能造成几代人以来最大的性别薪酬差距，并让女性被排除在构建一种塑造了经济的技术之外。“我们正在目睹的，是一种倒退，”致力于推动女性从事科技工作的非营利组织AnitaB.org的主席Brenda Darden Wilkerson说。",
+   "notes": [
+    {
+     "w": "ongoing",
+     "ipa": "/ˈɒnɡəʊɪŋ/",
+     "pos": "adj.",
+     "en": "ongoing means continuing to happen.",
+     "zh": "持续的、仍在进行的",
+     "ctx": "强调这不是一次性事故，而是一条还在往前走的曲线——所以后果还可以更大。",
+     "ex1": "The ongoing trend could produce the greatest gender pay gap. 这一持续趋势可能造成最大的性别薪酬差距。",
+     "ex2": "The investigation is ongoing. 调查正在进行中。"
+    },
+    {
+     "w": "gender pay gap",
+     "ipa": "/ˈdʒendə peɪ ɡæp/",
+     "pos": "n. phr.",
+     "en": "gender pay gap means the difference in pay between men and women.",
+     "zh": "性别薪酬差距",
+     "ctx": "用 gap（缝隙）而不是 difference，暗示这是一道裂开的口子，需要被 close——第 6 段的倡议就是来补这道缝的。",
+     "ex1": "The trend could produce the greatest gender pay gap in generations. 该趋势可能造成几代人以来最大的性别薪酬差距。",
+     "ex2": "The company is working to close the gender pay gap. 该公司正在努力缩小性别薪酬差距。"
+    },
+    {
+     "w": "in generations",
+     "ipa": "/ɪn ˌdʒenəˈreɪʃnz/",
+     "pos": "phr.",
+     "en": "in generations means for many generations.",
+     "zh": "几代人以来",
+     "ctx": "这个短语是最高级的放大器：不是“这几年最糟”，是“好几辈人里最糟”。",
+     "ex1": "It could be the greatest gender pay gap in generations. 这可能是几代人以来最大的性别薪酬差距。",
+     "ex2": "This is the worst economic crisis in generations. 这是几代人以来最严重的经济危机。"
+    },
+    {
+     "w": "leave someone out of",
+     "ipa": "/liːv ˈsʌmwʌn aʊt əv/",
+     "pos": "phr.",
+     "en": "leave someone out of means to not include someone in something.",
+     "zh": "把某人排除在外、让某人无法参与",
+     "ctx": "与“明文禁止”不同，leave out 是“人就被漏在外面”：没人拦你，但就是没你的位置。",
+     "ex1": "It could leave women out of building a technology that shaped the economy. 这可能让女性被排除在构建一种塑造了经济的技术之外。",
+     "ex2": "She felt left out of the decision. 她觉得自己被排除在决策之外。"
+    },
+    {
+     "w": "backsliding",
+     "ipa": "/ˈbækslaɪdɪŋ/",
+     "pos": "n.",
+     "en": "backsliding means a return to bad habits or a worse situation.",
+     "zh": "倒退、故态复萌",
+     "ctx": "原指“戒了又犯”，用在社会议题上就是“好不容易往前走的路又滑回去”，比 setback 更有画面感。",
+     "ex1": "What we’re witnessing is a sort of backsliding. 我们正在目睹的是一种倒退。",
+     "ex2": "The country is backsliding on human rights. 该国在人权方面正在倒退。"
+    }
+   ]
+  }
+ ]
+}
