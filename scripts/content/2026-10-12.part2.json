@@ -1,0 +1,397 @@
+{
+ "paragraphs": [
+  {
+   "en_html": "When the apartheid government <mark class=\"voc\">locked up</mark> her husband, Gaby Pillay, who was also a lawyer, for political activities and cut off his access to the outside world, Ms. Pillay used his <mark class=\"voc\">power of attorney</mark> to file an action <mark class=\"voc\">on his behalf</mark>, Ms. Neuwirth said. She ended up winning <mark class=\"voc\">an order</mark> prohibiting his <mark class=\"voc\">torture</mark>.",
+   "zh": "据纽沃斯讲述：种族隔离政府以“政治活动”为由，将皮莱的丈夫加比·皮莱——同为律师——投入狱中，并切断他与外界的一切联系。皮莱拿出丈夫早已签好的授权委托书，以丈夫本人的名义提起诉讼，最终赢得了一道法院命令：禁止对他施以酷刑。",
+   "notes": [
+    {
+     "w": "lock up",
+     "ipa": "/lɒk ʌp/",
+     "pos": "phr.",
+     "en": "To lock someone up means to put them in prison.",
+     "zh": "关押，锁起来",
+     "ctx": "比 imprison 口语化，画面感强；她丈夫是因“政治活动”被关进去的，切断了与外界的一切联系。",
+     "ex1": "The government locked up her husband for political activities. 政府因政治活动关押了她的丈夫。",
+     "ex2": "He was locked up for five years. 他被关押了五年。"
+    },
+    {
+     "w": "power of attorney",
+     "ipa": "/əˈtɜːni/",
+     "pos": "n.",
+     "en": "Power of attorney is a legal document giving someone the authority to act for another person.",
+     "zh": "授权委托书",
+     "ctx": "本人无法出面时，授权他人代行法律权利；丈夫早已签好的这份文件，成了她上法庭的通行证。",
+     "ex1": "She used his power of attorney to file an action. 她用他的授权委托书提起了诉讼。",
+     "ex2": "He signed a power of attorney before leaving the country. 他出国前签了授权委托书。"
+    },
+    {
+     "w": "on one's behalf",
+     "ipa": "/bɪˈhɑːf/",
+     "pos": "phr.",
+     "en": "On one's behalf means for someone, as their representative.",
+     "zh": "代表某人，以某人的名义",
+     "ctx": "on his behalf 就是以丈夫的名义；它与上一张 power of attorney 是一套组合拳：有授权，才能代他出面。",
+     "ex1": "She filed the action on his behalf. 她以他的名义提起了诉讼。",
+     "ex2": "I’m writing on behalf of the committee. 我谨代表委员会致函。"
+    },
+    {
+     "w": "court order",
+     "ipa": "/ɔːdə/",
+     "pos": "n.",
+     "en": "A court order is an official instruction given by a judge or court.",
+     "zh": "法院命令",
+     "ctx": "原文只说 an order，法律语境里就是法院命令；赢下这道命令，等于给狱中的丈夫加了一层法律护栏。",
+     "ex1": "She won a court order prohibiting his torture. 她赢得了一道禁止对其施用酷刑的法院命令。",
+     "ex2": "The judge issued an emergency order. 法官发出了紧急命令。"
+    },
+    {
+     "w": "torture",
+     "ipa": "/ˈtɔːtʃə/",
+     "pos": "n./v.",
+     "en": "Torture is the act of causing great physical or mental pain to punish or force someone to talk.",
+     "zh": "酷刑，刑讯",
+     "ctx": "拉丁语 torquere 意为“拧、扭”，把人拧起来逼供；同根词 distort 歪曲、contort 扭曲。",
+     "ex1": "He was freed after winning the order against torture. 赢得禁止酷刑的命令后他获释了。",
+     "ex2": "The report documented widespread torture. 报告记录了大规模酷刑。"
+    }
+   ]
+  },
+  {
+   "en_html": "Ms. Pillay’s struggle to <mark class=\"voc\">maneuver</mark> within a racist system applying unjust laws in some ways helped her develop the <mark class=\"voc\">persistence</mark> she needed, she has said in interviews. She said in a podcast interview last year that she would keep filing legal <mark class=\"voc\">motions</mark> even if they had little chance of succeeding because she believed that was the only weapon she had to fight the system. “It was clear to me the only thing I can do is keep going, <mark class=\"voc\">seeking</mark> justice,” she said.",
+   "zh": "皮莱在采访中说，在一个施行不义之法的种族主义体制内周旋求存，某种程度上炼就了她所需要的那种坚持。她在去年的一档播客中讲道：即使那些法律动议胜算渺茫，她也会继续一份一份地递交——因为她相信，那是她与整个体制抗争的唯一武器。“我心里清楚得很，我唯一能做的，就是走下去，追索正义。”她说。",
+   "notes": [
+    {
+     "w": "maneuver",
+     "ipa": "/məˈnuːvə/",
+     "pos": "v./n.",
+     "en": "To maneuver means to move skillfully in a difficult situation, or to use clever methods to gain an advantage.",
+     "zh": "在限制中巧妙腾挪、周旋",
+     "ctx": "法语 mani-（手）加 ouvrer（工作），本义是军队调动；画面是狭窄车位一把方向揉进去，她的每场诉讼都是体制夹缝里的一次腾挪。",
+     "ex1": "She maneuvered within a racist system. 她在种族主义体制内辗转腾挪。",
+     "ex2": "The company has little room to maneuver. 这家公司几乎没有回旋余地。"
+    },
+    {
+     "w": "persistence",
+     "ipa": "/pəˈsɪstəns/",
+     "pos": "n.",
+     "en": "Persistence is the quality of continuing to do something despite difficulties.",
+     "zh": "坚韧，坚持",
+     "ctx": "per-（贯穿到底）加 sist（站立），一直站着不倒下；这份韧劲，是那个种族主义体制亲手替她练出来的。",
+     "ex1": "Her persistence finally paid off. 她的坚持终于有了回报。",
+     "ex2": "Success took years of persistence. 成功花了多年坚持不懈。"
+    },
+    {
+     "w": "motion",
+     "ipa": "/ˈməʊʃn/",
+     "pos": "n.",
+     "en": "In law, a motion is a formal request to a court or judge to make a decision about something.",
+     "zh": "（法律）动议，申请",
+     "ctx": "熟词僻义：本义是“运动”，法律里是提请法庭“动一动”的正式请求；她一份接一份地递，递成了唯一的武器。",
+     "ex1": "She kept filing motions with little chance of success. 她不断提交几乎毫无胜算的动议。",
+     "ex2": "The judge denied the defense motion. 法官驳回了辩方的动议。"
+    },
+    {
+     "w": "seek",
+     "ipa": "/siːk/",
+     "pos": "v.",
+     "en": "To seek means to try to find or obtain something.",
+     "zh": "寻求，追索",
+     "ctx": "过去式和过去分词都是 sought；seek justice 是她所有行动的注脚，也是全文最后一句引语的落点。",
+     "ex1": "She kept going, seeking justice. 她不断前行，寻求正义。",
+     "ex2": "He sought refuge in the mountains. 他在山里寻求庇护。"
+    }
+   ]
+  },
+  {
+   "en_html": "She rose to international <mark class=\"voc\">prominence</mark> shortly after apartheid ended in the 1990s, as a judge on the <mark class=\"voc\">tribunal</mark> on the Rwanda genocide, which <mark class=\"voc\">broke new ground</mark> in prosecuting the crime of genocide and treating mass rape as a form of genocide. Ms. Pillay later served as a judge on the International Criminal Court, the U.N. High Commissioner for Human Rights, and a <mark class=\"voc\">substitute</mark> judge of the International Court of Justice.",
+   "zh": "上世纪九十年代种族隔离终结后不久，皮莱即跻身国际显要之列——出任卢旺达种族灭绝问题特别法庭法官。该法庭首开先河：既将种族灭绝罪真正诉诸审判，亦首次把大规模强奸（mass rape）认定为种族灭绝的一种形式。此后，她先后出任国际刑事法院法官、联合国人权事务高级专员，以及国际法院特任法官。",
+   "notes": [
+    {
+     "w": "prominence",
+     "ipa": "/ˈprɒmɪnəns/",
+     "pos": "n.",
+     "en": "Prominence is the state of being important and well known.",
+     "zh": "显赫，声望",
+     "ctx": "pro-（向前）加 min（突出，同 mountain），像山峰一样凸出来；rise to prominence 就是声名鹊起。",
+     "ex1": "She rose to international prominence in the 1990s. 九十年代她声名鹊起于国际舞台。",
+     "ex2": "He is a prominent human rights lawyer. 他是知名的人权律师。"
+    },
+    {
+     "w": "tribunal",
+     "ipa": "/traɪˈbjuːnl/",
+     "pos": "n.",
+     "en": "A tribunal is a special court set up to judge a particular matter.",
+     "zh": "（特设）法庭，裁判庭",
+     "ctx": "tri-（三）加 bun（凳子），古罗马裁判官的三脚凳；与常规 court 不同，它是为特定事项专门搭起来的。",
+     "ex1": "She was a judge on the Rwanda genocide tribunal. 她是卢旺达种族灭绝问题国际法庭的法官。",
+     "ex2": "The case went to an employment tribunal. 该案提交给了劳资法庭。"
+    },
+    {
+     "w": "break new ground",
+     "ipa": "/ɡraʊnd/",
+     "pos": "idiom",
+     "en": "To break new ground means to do something that has never been done before.",
+     "zh": "开创新局面，首开先河",
+     "ctx": "ground 既是土地也是立足点，在认知版图上第一个动土就是首创；这里指的是把大规模强奸认定为种族灭绝手段。",
+     "ex1": "The tribunal broke new ground in prosecuting genocide. 该法庭在追诉种族灭绝罪上开创了先河。",
+     "ex2": "The study breaks new ground in cancer treatment. 这项研究在癌症治疗上开辟了新天地。"
+    },
+    {
+     "w": "substitute",
+     "ipa": "/ˈsʌbstɪtjuːt/",
+     "pos": "n./v.",
+     "en": "A substitute is a person or thing that takes the place of another.",
+     "zh": "替代者，替补",
+     "ctx": "sub-（下面、替代）加 stitute（站立），站到别人的位置顶上；她后来在国际法院做的就是代理法官。",
+     "ex1": "She served as a substitute judge of the ICJ. 她担任国际法院的代理法官。",
+     "ex2": "There is no substitute for hard work. 没有什么能替代努力。"
+    }
+   ]
+  },
+  {
+   "en_html": "The Nobel Prize could bring new <mark class=\"voc\">scrutiny</mark> to Ms. Pillay in part because of the bold <mark class=\"voc\">stance</mark> she has taken on the <mark class=\"voc\">plight</mark> of Palestinians. She <mark class=\"voc\">chaired</mark> a U.N. commission last year that concluded that Israel had committed genocide in Gaza. Her <mark class=\"voc\">receipt</mark> of the Nobel drew a strong <mark class=\"voc\">rebuke</mark> from Israel’s prime minister, Benjamin Netanyahu. But given where she came from, Ms. Pillay is unlikely to be <mark class=\"voc\">deterred</mark> by critics, Mr. Cooper said. During apartheid, Ms. Pillay had “a complete understanding of the dangers,” he said. “But also the practical ways to overcome those dangers.”",
+   "zh": "诺贝尔奖可能令皮莱面临新一轮的审视，部分源于她就巴勒斯坦人处境所持的鲜明立场：她去年主持的联合国调查委员会曾得出以色列在加沙地区实施种族大屠杀的结论，而她获奖一事也引来了以色列总理本雅明·内塔尼亚胡的强烈斥责。但一位了解她的受访者表示，考虑到皮莱的出身来历，批评吓不退她——在种族隔离时期，她对危险有着透彻的认知，也深知应对危险的实际办法。",
+   "notes": [
+    {
+     "w": "scrutiny",
+     "ipa": "/ˈskruːtəni/",
+     "pos": "n.",
+     "en": "Scrutiny is careful and thorough examination of someone or something.",
+     "zh": "严密审视，细查",
+     "ctx": "拉丁语 scrutari 意为“翻检”，把你的一切翻个底朝天；诺奖一到手，她的每句表态都会被逐条检视。",
+     "ex1": "The prize brought her new scrutiny. 这个奖让她面临新的审视。",
+     "ex2": "His accounts will not stand up to scrutiny. 他的账目经不起细查。"
+    },
+    {
+     "w": "stance",
+     "ipa": "/stɑːns/",
+     "pos": "n.",
+     "en": "A stance is a publicly stated opinion about something; also the way you stand.",
+     "zh": "（公开）立场",
+     "ctx": "本义是“站姿”，你怎么站就是你怎么立；动词搭配用 take，不用 have。",
+     "ex1": "She took a bold stance on the issue. 她在此事上采取了大胆立场。",
+     "ex2": "What is your stance on this policy? 你在这项政策上持什么立场？"
+    },
+    {
+     "w": "plight",
+     "ipa": "/plaɪt/",
+     "pos": "n.",
+     "en": "A plight is a difficult and sad situation that deserves sympathy.",
+     "zh": "（令人同情的）困境",
+     "ctx": "自带悲情滤镜，比 situation 多一层“值得被看见”的恳求；作者的态度就藏在 the plight of 这个词组里。",
+     "ex1": "She spoke about the plight of Palestinians. 她谈到了巴勒斯坦人的困境。",
+     "ex2": "The film shows the plight of migrant workers. 这部电影展现了农民工的困境。"
+    },
+    {
+     "w": "chair",
+     "ipa": "/tʃeə/",
+     "pos": "v.",
+     "en": "To chair a meeting or committee means to be in charge of it.",
+     "zh": "主持（会议、委员会）",
+     "ctx": "熟词僻义：会议室里唯一的那把椅子是主位，坐上去的人主持；她主持的正是联合国加沙调查委员会。",
+     "ex1": "She chaired a U.N. commission. 她主持了一个联合国委员会。",
+     "ex2": "Who will chair tomorrow’s meeting? 明天的会由谁主持？"
+    },
+    {
+     "w": "receipt",
+     "ipa": "/rɪˈsiːt/",
+     "pos": "n.",
+     "en": "Receipt means the act of receiving something (formal); also a printed record of payment.",
+     "zh": "收到，获得；（另义）收据",
+     "ctx": "熟词僻义：the receipt of the Nobel 是“获得诺奖这件事”，不是收据；词根 cept 是“拿”。",
+     "ex1": "Her receipt of the Nobel drew a rebuke. 她获得诺奖一事招致了抨击。",
+     "ex2": "We will act on receipt of your payment. 收到付款后我们即行处理。"
+    },
+    {
+     "w": "rebuke",
+     "ipa": "/rɪˈbjuːk/",
+     "pos": "n./v.",
+     "en": "To rebuke means to speak angrily to someone for doing something wrong; a sharp criticism.",
+     "zh": "严厉斥责，训斥",
+     "ctx": "re-（强烈地）加 buke（军号），冲着人吹号角；criticize 可以就事论事，rebuke 带着上位者的怒气。",
+     "ex1": "Her award drew a strong rebuke from the prime minister. 她获奖一事招致总理的强烈抨击。",
+     "ex2": "He was rebuked for his carelessness. 他因粗心受到训斥。"
+    },
+    {
+     "w": "deter",
+     "ipa": "/dɪˈtɜː/",
+     "pos": "v.",
+     "en": "To deter means to stop someone from doing something by making it seem difficult or frightening.",
+     "zh": "威慑，使却步",
+     "ctx": "de-（离开）加 ter（吓，同 terror），把人吓跑；discourage 让人泄气，deter 让人不敢。",
+     "ex1": "Critics are unlikely to deter her. 批评者不太可能让她却步。",
+     "ex2": "High prices deter many buyers. 高价让许多买家望而却步。"
+    }
+   ]
+  },
+  {
+   "en_html": "The prize, however, was not welcomed everywhere. Speaking at a <mark class=\"voc\">rally</mark> in Syracuse, New York, on Friday evening, President Trump spent about 10 minutes attacking the decision, describing Ms. Pillay as a “mystery person” he had never heard of and warning Norway that he would not forget it. On social media, he said he <mark class=\"voc\">deserved</mark> eight Nobel Peace Prizes for the wars he claims to have <mark class=\"voc\">settled</mark>, though some of those conflicts continue and others were ended largely by other parties. The chairman of the Norwegian Nobel Committee replied calmly, saying the <mark class=\"voc\">panel</mark> is <mark class=\"voc\">independent of</mark> the government and bound only by the <mark class=\"voc\">will</mark> of Alfred Nobel. Ms. Pillay, <mark class=\"voc\">for her part</mark>, had already joked to an <mark class=\"voc\">applauding</mark> crowd in Nuremberg that if they kept clapping, she might share the prize with Mr. Trump.",
+   "zh": "然而，这个奖项并非处处受欢迎。周五晚，川总在纽约州锡拉丘兹的一场集会上，用了约十分钟抨击这一决定，称皮莱是他从未听说过的“神秘人物”，并警告挪威他不会善罢甘休。他在社交媒体上自称理应获得八次诺贝尔和平奖，以表彰他声称已经平息的那些战争——尽管其中一些冲突仍在继续，另一些则主要由其他当事方终结。挪威诺贝尔委员会主席平静回应：委员会独立于政府，唯受阿尔弗雷德·诺贝尔遗嘱之约束。而皮莱这边，早已在纽伦堡对欢呼的人群开玩笑说——你们再这样鼓掌，我恐怕就得把这个奖与川分享了。",
+   "notes": [
+    {
+     "w": "rally",
+     "ipa": "/ˈræli/",
+     "pos": "n.",
+     "en": "A rally is a large public meeting, especially to support a political cause.",
+     "zh": "（政治）集会",
+     "ctx": "川总在纽约州锡拉丘兹的集会上讲了十分钟，主题不是国事，而是攻击这个奖。",
+     "ex1": "He spoke at a rally in Syracuse. 他在雪城的集会上发表讲话。",
+     "ex2": "Thousands attended the campaign rally. 数千人参加了竞选集会。"
+    },
+    {
+     "w": "deserve",
+     "ipa": "/dɪˈzɜːv/",
+     "pos": "v.",
+     "en": "To deserve means to have earned something by one's actions, good or bad.",
+     "zh": "值得，应得",
+     "ctx": "You deserve it 褒贬两通，可以是“你应得的”，也可以是“活该”；他说自己应得八个诺奖，作者用 claims 悄悄存了疑。",
+     "ex1": "He claimed he deserved eight Nobel Prizes. 他声称自己理应获得八个诺贝尔奖。",
+     "ex2": "She deserved the award after years of work. 多年耕耘后，这个奖是她应得的。"
+    },
+    {
+     "w": "settle",
+     "ipa": "/ˈsetl/",
+     "pos": "v.",
+     "en": "To settle means to end an argument or conflict and reach agreement.",
+     "zh": "平息，解决（争端）",
+     "ctx": "本义是“安顿、落定”；他说这些战争都是他平息的，可有的仍在打，有的其实是别人收的场。",
+     "ex1": "Some of the conflicts he claims to have settled still continue. 他声称已平息的一些冲突仍在继续。",
+     "ex2": "The two sides settled the dispute peacefully. 双方和平解决了争端。"
+    },
+    {
+     "w": "panel",
+     "ipa": "/ˈpænl/",
+     "pos": "n.",
+     "en": "A panel is a small group of people chosen to judge, discuss or decide something; originally a wooden board.",
+     "zh": "评审委员会，专家小组",
+     "ctx": "熟词僻义：本义是“木板”，中世纪把裁判名单写在木板上；这里指的是挪威诺贝尔委员会。",
+     "ex1": "The Nobel panel is independent of the government. 诺贝尔评审委员会独立于政府。",
+     "ex2": "The interview panel asked tough questions. 面试小组提了尖锐的问题。"
+    },
+    {
+     "w": "be independent of",
+     "ipa": "/ˌɪndɪˈpendənt/",
+     "pos": "phr.",
+     "en": "Be independent of means not influenced or controlled by something else.",
+     "zh": "独立于……，不受……支配",
+     "ctx": "介词是 of 而不是 from；委员会独立于挪威政府，只对一份百年前的遗嘱负责。",
+     "ex1": "The committee is independent of the government. 该委员会独立于政府。",
+     "ex2": "The study was independent of any company. 这项研究独立于任何公司进行。"
+    },
+    {
+     "w": "will",
+     "ipa": "/wɪl/",
+     "pos": "n.",
+     "en": "A will is a legal document saying who gets your property after you die.",
+     "zh": "遗嘱",
+     "ctx": "熟词僻义：bound only by the will of Alfred Nobel 只受诺贝尔遗嘱约束——这个奖对遗嘱负责，不对总统负责。",
+     "ex1": "The committee is bound only by Nobel’s will. 该委员会只受诺贝尔遗嘱约束。",
+     "ex2": "She left everything to charity in her will. 她在遗嘱中把一切留给慈善。"
+    },
+    {
+     "w": "for one's part",
+     "ipa": "/pɑːt/",
+     "pos": "phr.",
+     "en": "For one's part means as far as that person is concerned; used to switch to another person's reaction.",
+     "zh": "至于某人（本人）",
+     "ctx": "新闻里切换叙述对象的连接词：这边总统在发火，镜头一转，那边皮莱在开玩笑。",
+     "ex1": "For her part, Pillay had already joked about it. 而皮莱本人早已笑着回应过。",
+     "ex2": "For my part, I have no objection. 就我而言，我没有异议。"
+    },
+    {
+     "w": "applaud",
+     "ipa": "/əˈplɔːd/",
+     "pos": "v.",
+     "en": "To applaud means to clap to show approval; figuratively, to praise.",
+     "zh": "鼓掌；（引申）称赞",
+     "ctx": "名词是 applause；纽伦堡全场起立鼓掌，她笑着说再鼓下去，就分川总一个。",
+     "ex1": "She joked to an applauding crowd in Nuremberg. 她在纽伦堡对掌声雷动的观众开玩笑。",
+     "ex2": "We applaud her courage. 我们为她的勇气喝彩。"
+    }
+   ]
+  }
+ ],
+ "proper": [
+  {
+   "name": "Navi Pillay（纳维·皮莱）",
+   "def": "南非印度裔法学家、法官，1941 年生于德班的贫苦印度裔家庭。因种族隔离只能上夜校，1967 年成为纳塔尔省首位开办律师事务所的女性；丈夫被政治关押期间代夫诉讼并胜诉。此后历任卢旺达问题国际刑事法庭法官（庭里唯一女性法官）、国际刑事法院法官、联合国人权事务高级专员（2008–2012，第五任），2026 年获诺贝尔和平奖，是第五位获奖的南非人。<br>本文中的意思：全文主人公；标题“被种族隔离斗争锻造的国际生涯”说的就是她——从不能去海滩的女孩到国际正义的旗手。"
+  },
+  {
+   "name": "Durban（德班）",
+   "def": "南非东部滨海城市，夸祖鲁-纳塔尔省最大城市，拥有南非最大的印度裔社区——19 世纪 60 年代起印度契约劳工在此定居繁衍。<br>本文中的意思：皮莱的出生地与童年度过之处；第二段“社区家长凑钱供她上大学”就发生在这里的印度裔社区。"
+  },
+  {
+   "name": "Slegs Blankes / Whites Only（仅限白人告示）",
+   "def": "种族隔离时期南非公共场所的法定告示牌：白人区入口用南非语写 Slegs Blankes、英语写 Whites Only；海滩、长椅、邮局窗口、公交车均按肤色法定分隔。<br>本文中的意思：开场用来让听众直观感受“一块牌子、一片海、一整个童年”；也是第一段“肤色禁止她踏上海滩”的制度背景。"
+  },
+  {
+   "name": "Honorary white（荣誉白人）",
+   "def": "种族隔离时期南非当局的一种行政归类：出于外交或经济考量，把特定族裔（如日本、后来部分时期的华人）“提升”为待遇接近白人的类别，归类可被行政机关随时调整。<br>本文中的意思：讲解 apartheid 时补充的冷知识：你的“人种”可以被政府随手改判——制度的荒谬体现为它能随意定义你是谁。"
+  },
+  {
+   "name": "Gaby Pillay（加比·皮莱）",
+   "def": "皮莱的丈夫，同为律师，反种族隔离活动人士。20 世纪 70 年代初被种族隔离政府以政治活动为由关押多年，关押期间被切断与外界的联系。<br>本文中的意思：第六段“代夫诉讼”案的当事人；他签给皮莱的 power of attorney，成了整场成名之战的起点。"
+  },
+  {
+   "name": "Terrorism Act / Steve Biko（《恐怖主义法》与史蒂夫·比科）",
+   "def": "南非 1967 年《恐怖主义法》允许政府不经审判拘押政治犯，初为最长 180 天、后可无限期续，单独监禁、不许会见律师家属；1977 年反种族隔离活动家史蒂夫·比科死于拘留所，官方结论长期是“殴斗受伤”之类说法。<br>本文中的意思：第六段背景补充：解释“切断与外界联系”为什么是生死倒计时——外界看不见你，你随时可以“被消失”。"
+  },
+  {
+   "name": "Raphael Lemkin and the Genocide Convention（莱姆金与《防止及惩治灭绝种族罪公约》）",
+   "def": "波兰犹太法学家拉斐尔·莱姆金，全家 49 位亲属中仅 6 人幸存。他于 1944 年创造 genocide 一词，随后孤身在联合国游说四年，推动 1948 年《防止及惩治灭绝种族罪公约》通过，让“种族灭绝”正式成为法律罪名。<br>本文中的意思：第三段 genocide 词条的背景故事：皮莱的诺奖表彰是“确保这个罪被追究”——她接过的正是莱姆金递来的那支笔。"
+  },
+  {
+   "name": "Nelson Mandela and Desmond Tutu（曼德拉与图图大主教）",
+   "def": "纳尔逊·曼德拉：反种族隔离精神图腾、南非首位黑人总统、1993 年诺贝尔和平奖得主。德斯蒙德·图图：开普敦大主教、真相与和解委员会主席、1984 年和平奖得主。加上 1960 年的卢图利酋长与 1993 年的德克勒克，南非共产生五位和平奖得主。<br>本文中的意思：第三段“第五位南非得主”的座次表：皮莱跻身的就是这个国家最受尊崇的行列。"
+  },
+  {
+   "name": "The Nuremberg trials and Robert Jackson（纽伦堡审判与罗伯特·杰克逊）",
+   "def": "1945–1946 年盟军在德国纽伦堡审判纳粹战犯，首次系统确立战争罪、反人类罪等罪名，是现代国际刑法的起点。美国首席检察官罗伯特·杰克逊的名言：“我们审判被告所依据的记录，历史终将用它来审判我们自己”——国际正义必须是对所有人（包括胜利者）都适用的规则。<br>本文中的意思：第五段与结尾的关键暗线：少女皮莱在图书馆读到它，八十四岁她在纽伦堡接受欢呼——全文埋得最深的首尾呼应；她一生办理的案件用的正是纽伦堡确立的那套法理。"
+  },
+  {
+   "name": "The 1994 Rwanda genocide and the ICTR（1994 年卢旺达大屠杀与卢旺达问题国际刑事法庭）",
+   "def": "1994 年 4 至 7 月，胡图族极端分子在约一百天内屠杀约八十万图西族人，平均每天近八千，国际社会基本坐视。联合国随后设立卢旺达问题国际刑事法庭（ICTR）追责。<br>本文中的意思：第八段背景：皮莱任该法庭法官，是她国际声望的起点；数字（约 80 万、约 100 天）是理解“开创先河”分量的前提。"
+  },
+  {
+   "name": "The Akayesu case (1998)（阿卡耶苏案）",
+   "def": "1998 年卢旺达法庭对前镇长阿卡耶苏的判决：首次在国际法上认定大规模性暴力构成种族灭绝罪的手段，因为它系统性地摧毁一个族群的生育与家庭结构。皮莱是庭中唯一女性法官，坚持把该法律问题提上议程，并推动受害者匿名作证、闭庭作证。<br>本文中的意思：第八段“treating mass rape as a form of genocide”背后的具体案件；此前联合国官员甚至称“战争中的强奸像下雨，没法起诉”。"
+  },
+  {
+   "name": "ICC / ICJ / High Commissioner（三个国际机构对比）",
+   "def": "国际刑事法院（ICC，海牙，2002 年成立）：审判个人的战争罪、反人类罪、种族灭绝罪。国际法院（ICJ，海牙，联合国主要司法机关）：处理国家之间的争端。联合国人权事务高级专员：联合国人权系统的最高官员（皮莱为 2008–2012 年第五任）。<br>本文中的意思：第八段三个头衔的速记口诀：ICC 管个人，ICJ 管国家，High Commissioner 管人权事务。"
+  },
+  {
+   "name": "Alfred Nobel and the “merchant of death” obituary（诺贝尔与“死亡贩子”讣告）",
+   "def": "炸药发明人阿尔弗雷德·诺贝尔 1888 年因报纸误发讣告（把去世的哥哥当成他）被冠以“死亡贩子”恶名，据称深受震动，遂立遗嘱捐出巨额遗产设立五项大奖；1896 年遗嘱公开后亲属兴讼反对未果。颁奖机构挪威诺贝尔委员会独立于挪威政府。<br>本文中的意思：第十段 panel is “bound only by the will of Alfred Nobel” 的全部潜台词：这份奖只对遗嘱负责、不对任何总统负责；“毁灭力量的发明者，其遗产最终奖励约束毁灭的人”。"
+  },
+  {
+   "name": "The U.N. commission on Gaza（联合国加沙调查委员会）",
+   "def": "皮莱主持的联合国调查委员会（原文表述：去年认定以色列在加沙犯下 genocide，原文如此），其结论引发以色列总理内塔尼亚胡对皮莱获奖的强烈抨击。<br>本文中的意思：第九段争议的由来；直播间按原文客观转述、不站队，只讲语言与事实。"
+  },
+  {
+   "name": "President Trump in Syracuse（川总与雪城集会）",
+   "def": "按直播间惯例称“川总”。文章记录：他于周五晚在纽约州雪城集会上用约十分钟抨击诺奖决定，称皮莱是“从未听说过的神秘人物”，并警告挪威“不会忘记”；在社交媒体称自己应得八个诺贝尔和平奖。作者在从句中用 claims（现在时）传递存疑，并注明部分冲突仍在继续、另一些主要由其他方结束。<br>本文中的意思：第十段的“对照者”：一边把诺奖拿来许愿（要八个），一边皮莱拿来开玩笑（分他一个）——高下立判，全文褒贬在此收口。"
+  }
+ ],
+ "sources_note": "资料核对：以上背景依据文章内容，并参考 The New York Times、诺贝尔奖官网、联合国人权事务高级专员办事处及卢旺达问题国际刑事法庭（ICTR）截至 2026 年 10 月的公开资料。",
+ "practice": {
+  "intro": "请将以下中文句子翻译为英文，尽量用上括号里的提示词（参考答案见后）。",
+  "items": [
+   "一段被种族隔离的斗争所锻造的国际生涯。（提示：forge）",
+   "那次机会开启了一段不断破壁的职业生涯，把她一路带到了诺贝尔和平奖的高度。（提示：barrier-breaking, lead sb. to becoming）",
+   "她在确保战争罪、反人类罪和种族灭绝罪得到追究方面功不可没。（提示：instrumental, ensure, prosecute）",
+   "当种族隔离政府逮捕了她的丈夫并切断了他与外界的一切联系时，她用他的授权委托书以他的名义提起了诉讼。（提示：lock up, cut off, access, power of attorney, on his behalf）",
+   "她会不断提交法律动议，哪怕几乎毫无胜算——因为她相信，那是她对抗这个体制仅有的武器。（提示：keep filing motions, even if, little chance）",
+   "她获奖一事招致了以色列总理的强烈抨击，但鉴于她的来路，批评者几乎不可能让她却步。（提示：receipt, draw a strong rebuke, given, deter）"
+  ],
+  "critical_en": "If a childhood of exclusion can still produce a lifelong defender of the rule of law, what does that say about the system that did the excluding?",
+  "critical_zh": "如果被排斥的童年，仍能长出一个终身守护法治的人——那当初排斥她的那套制度，究竟证明了什么？",
+  "answer": "1. An International Career Forged by the Struggles of Apartheid<br><br>2. That opportunity began a barrier-breaking career that led Ms. Pillay to becoming a Nobel Peace Prize laureate.<br><br>3. Ms. Pillay had been “instrumental in ensuring that war crimes, crimes against humanity and genocide are prosecuted.”<br><br>4. When the apartheid government locked up her husband and cut off his access to the outside world, Ms. Pillay used his power of attorney to file an action on his behalf.<br><br>5. She would keep filing legal motions even if they had little chance of succeeding because she believed that was the only weapon she had to fight the system.<br><br>6. Her receipt of the Nobel drew a strong rebuke from Israel’s prime minister. But given where she came from, Ms. Pillay is unlikely to be deterred by critics."
+ },
+ "mindmap": {
+  "aria": "纳维·皮莱从贫民窟女孩到诺贝尔和平奖文章思维导图",
+  "alt": "纳维·皮莱：从贫民窟女孩到诺贝尔和平奖（手绘版）",
+  "svg": "<svg viewBox=\"0 0 960 720\" xmlns=\"http://www.w3.org/2000/svg\" role=\"img\" aria-label=\"纳维·皮莱从贫民窟女孩到诺贝尔和平奖文章思维导图\" style=\"width:100%;height:auto;font-family:-apple-system,'PingFang SC','Hiragino Sans GB','Microsoft YaHei',sans-serif\">\n        <rect x=\"24\" y=\"306\" width=\"176\" height=\"88\" rx=\"14\" fill=\"#eae3d2\" stroke=\"#9a8f76\"/>\n        <text x=\"112\" y=\"342\" text-anchor=\"middle\" fill=\"#3d3a34\" font-size=\"17\" font-weight=\"700\">纳维·皮莱</text>\n        <text x=\"112\" y=\"368\" text-anchor=\"middle\" fill=\"#5c5648\" font-size=\"12.5\">从贫民窟到诺贝尔和平奖</text>\n\n        <path d=\"M200,350 C232,350 232,88 260,88\" stroke=\"#6b8f71\" stroke-width=\"2\" fill=\"none\"/>\n        <path d=\"M200,350 C232,350 232,238 260,238\" stroke=\"#7d98ad\" stroke-width=\"2\" fill=\"none\"/>\n        <path d=\"M200,350 C232,350 232,433 260,433\" stroke=\"#bd7a6d\" stroke-width=\"2\" fill=\"none\"/>\n        <path d=\"M200,350 C232,350 232,628 260,628\" stroke=\"#9b86b3\" stroke-width=\"2\" fill=\"none\"/>\n\n        <g class=\"mm-branch\" data-target=\"bc1\">\n          <rect x=\"260\" y=\"71\" width=\"190\" height=\"34\" rx=\"8\" fill=\"#e6efe7\" stroke=\"#6b8f71\"/>\n          <text x=\"349\" y=\"93\" text-anchor=\"middle\" fill=\"#4c6b52\" font-size=\"15\" font-weight=\"700\">起点：贫民窟社区（¶1–2）</text>\n          <text class=\"mm-arrow\" data-for=\"bc1\" x=\"442\" y=\"93\" text-anchor=\"end\" fill=\"#4c6b52\">▾</text>\n        </g>\n        <g class=\"mm-children\" id=\"bc1\">\n          <path d=\"M450,88 C462,88 462,46 480,46\" stroke=\"#6b8f71\" stroke-width=\"1.5\" fill=\"none\"/>\n          <path d=\"M450,88 C462,88 462,88 480,88\" stroke=\"#6b8f71\" stroke-width=\"1.5\" fill=\"none\"/>\n          <path d=\"M450,88 C462,88 462,130 480,130\" stroke=\"#6b8f71\" stroke-width=\"1.5\" fill=\"none\"/>\n          <rect x=\"480\" y=\"30\" width=\"456\" height=\"32\" rx=\"8\" fill=\"#e6efe7\"/><text x=\"492\" y=\"51\" fill=\"#3d3a34\" font-size=\"14\">没有下水道与自来水，学费靠社区凑</text>\n          <rect x=\"480\" y=\"72\" width=\"456\" height=\"32\" rx=\"8\" fill=\"#e6efe7\"/><text x=\"492\" y=\"93\" fill=\"#3d3a34\" font-size=\"14\">校长一句“有潜力”，家长凑钱送她上大学</text>\n          <rect x=\"480\" y=\"114\" width=\"456\" height=\"32\" rx=\"8\" fill=\"#e6efe7\"/><text x=\"492\" y=\"135\" fill=\"#3d3a34\" font-size=\"14\">从律师到国际法庭：一路破壁的职业生涯</text>\n        </g>\n\n        <g class=\"mm-branch\" data-target=\"bc2\">\n          <rect x=\"260\" y=\"221\" width=\"190\" height=\"34\" rx=\"8\" fill=\"#e5edf4\" stroke=\"#7d98ad\"/>\n          <text x=\"349\" y=\"243\" text-anchor=\"middle\" fill=\"#3d5872\" font-size=\"15\" font-weight=\"700\">第五位南非得主（¶3–4）</text>\n          <text class=\"mm-arrow\" data-for=\"bc2\" x=\"442\" y=\"243\" text-anchor=\"end\" fill=\"#3d5872\">▾</text>\n        </g>\n        <g class=\"mm-children\" id=\"bc2\">\n          <path d=\"M450,238 C462,238 462,196 480,196\" stroke=\"#7d98ad\" stroke-width=\"1.5\" fill=\"none\"/>\n          <path d=\"M450,238 C462,238 462,238 480,238\" stroke=\"#7d98ad\" stroke-width=\"1.5\" fill=\"none\"/>\n          <path d=\"M450,238 C462,238 462,280 480,280\" stroke=\"#7d98ad\" stroke-width=\"1.5\" fill=\"none\"/>\n          <rect x=\"480\" y=\"180\" width=\"456\" height=\"32\" rx=\"8\" fill=\"#e5edf4\"/><text x=\"492\" y=\"201\" fill=\"#3d3a34\" font-size=\"14\">诺委会：她让战争罪与种族灭绝罪被追诉</text>\n          <rect x=\"480\" y=\"222\" width=\"456\" height=\"32\" rx=\"8\" fill=\"#e5edf4\"/><text x=\"492\" y=\"243\" fill=\"#3d3a34\" font-size=\"14\">第五位南非得主，与曼德拉、图图并列</text>\n          <rect x=\"480\" y=\"264\" width=\"456\" height=\"32\" rx=\"8\" fill=\"#e5edf4\"/><text x=\"492\" y=\"285\" fill=\"#3d3a34\" font-size=\"14\">她把这个奖看作“世界多数人的声音”</text>\n        </g>\n\n        <g class=\"mm-branch\" data-target=\"bc3\">\n          <rect x=\"260\" y=\"416\" width=\"190\" height=\"34\" rx=\"8\" fill=\"#f4e7e4\" stroke=\"#bd7a6d\"/>\n          <text x=\"349\" y=\"438\" text-anchor=\"middle\" fill=\"#7c4a3e\" font-size=\"15\" font-weight=\"700\">法庭里练出的韧劲（¶5–7）</text>\n          <text class=\"mm-arrow\" data-for=\"bc3\" x=\"442\" y=\"438\" text-anchor=\"end\" fill=\"#7c4a3e\">▾</text>\n        </g>\n        <g class=\"mm-children\" id=\"bc3\">\n          <path d=\"M450,433 C462,433 462,391 480,391\" stroke=\"#bd7a6d\" stroke-width=\"1.5\" fill=\"none\"/>\n          <path d=\"M450,433 C462,433 462,433 480,433\" stroke=\"#bd7a6d\" stroke-width=\"1.5\" fill=\"none\"/>\n          <path d=\"M450,433 C462,433 462,475 480,475\" stroke=\"#bd7a6d\" stroke-width=\"1.5\" fill=\"none\"/>\n          <rect x=\"480\" y=\"375\" width=\"456\" height=\"32\" rx=\"8\" fill=\"#f4e7e4\"/><text x=\"492\" y=\"396\" fill=\"#3d3a34\" font-size=\"14\">隔离学校只能夜晚上课，白天泡图书馆</text>\n          <rect x=\"480\" y=\"417\" width=\"456\" height=\"32\" rx=\"8\" fill=\"#f4e7e4\"/><text x=\"492\" y=\"438\" fill=\"#3d3a34\" font-size=\"14\">读到纽伦堡审判，种下对国际正义的痴迷</text>\n          <rect x=\"480\" y=\"459\" width=\"456\" height=\"32\" rx=\"8\" fill=\"#f4e7e4\"/><text x=\"492\" y=\"480\" fill=\"#3d3a34\" font-size=\"14\">代夫诉讼赢下禁刑令：动议一份份递交</text>\n        </g>\n\n        <g class=\"mm-branch\" data-target=\"bc4\">\n          <rect x=\"260\" y=\"611\" width=\"190\" height=\"34\" rx=\"8\" fill=\"#ece4f2\" stroke=\"#9b86b3\"/>\n          <text x=\"349\" y=\"633\" text-anchor=\"middle\" fill=\"#5a4670\" font-size=\"15\" font-weight=\"700\">世界舞台与争议（¶8–10）</text>\n          <text class=\"mm-arrow\" data-for=\"bc4\" x=\"442\" y=\"633\" text-anchor=\"end\" fill=\"#5a4670\">▾</text>\n        </g>\n        <g class=\"mm-children\" id=\"bc4\">\n          <path d=\"M450,628 C462,628 462,586 480,586\" stroke=\"#9b86b3\" stroke-width=\"1.5\" fill=\"none\"/>\n          <path d=\"M450,628 C462,628 462,628 480,628\" stroke=\"#9b86b3\" stroke-width=\"1.5\" fill=\"none\"/>\n          <path d=\"M450,628 C462,628 462,670 480,670\" stroke=\"#9b86b3\" stroke-width=\"1.5\" fill=\"none\"/>\n          <rect x=\"480\" y=\"570\" width=\"456\" height=\"32\" rx=\"8\" fill=\"#ece4f2\"/><text x=\"492\" y=\"591\" fill=\"#3d3a34\" font-size=\"14\">卢旺达法庭：把大规模强奸定为种族灭绝</text>\n          <rect x=\"480\" y=\"612\" width=\"456\" height=\"32\" rx=\"8\" fill=\"#ece4f2\"/><text x=\"492\" y=\"633\" fill=\"#3d3a34\" font-size=\"14\">ICC 法官、人权高专、ICJ 代理法官</text>\n          <rect x=\"480\" y=\"654\" width=\"456\" height=\"32\" rx=\"8\" fill=\"#ece4f2\"/><text x=\"492\" y=\"675\" fill=\"#3d3a34\" font-size=\"14\">加沙立场招致斥责，川总扬言“不会忘”</text>\n        </g>\n\n      </svg>",
+  "img": ""
+ }
+}

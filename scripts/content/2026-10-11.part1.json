@@ -1,0 +1,317 @@
+{
+ "date": "2026-10-11",
+ "title_tag": "马斯克、奥特曼、黄仁勋都在上：播客为什么突然成了硅谷最值钱的流量入口？—— 英国《经济学人》外刊讲解第1194天",
+ "h1": "马斯克、奥特曼、黄仁勋都在上：播客为什么突然成了硅谷最值钱的流量入口？",
+ "source_label": "The Economist",
+ "category": "英国《经济学人》外刊讲解 第1194天",
+ "read_minutes": 18,
+ "nav_hint": "Superstar podcasts are Silicon Valley’s way of talking to itself",
+ "headline": {
+  "en_html": "<span>Superstar podcasts are Silicon Valley’s way of <mark class=\"voc\">talking to itself</mark></span> — <span>But to much of the world, the sound is <mark class=\"voc\">jarring</mark></span>",
+  "zh": "超级明星播客：硅谷的自说自话——但对世界大多数地方而言，这声音刺耳得很",
+  "notes": [
+   {
+    "w": "talk to oneself",
+    "ipa": "/tɔːk tuː wʌnˈself/",
+    "pos": "动词短语",
+    "en": "to speak to oneself, especially when one’s words are not heard or understood by others",
+    "zh": "自说自话，自言自语",
+    "ctx": "硅谷精英只在自己圈子里对话，外面的人根本听不进去——作者用这个词先给播客圈定了个“自恋”的基调。",
+    "ex1": "The committee spent hours talking to itself while the public waited in vain for action. 委员会花了几个小时自说自话，公众却迟迟等不到任何行动。",
+    "ex2": "If the industry keeps talking to itself, it will never understand what customers actually want. 如果这个行业一直自说自话，就永远无法理解客户真正想要什么。"
+   },
+   {
+    "w": "jarring",
+    "ipa": "/ˈdʒɑːrɪŋ/",
+    "pos": "adj.",
+    "en": "unpleasant or shocking because it is different from what is expected or does not fit the surroundings",
+    "zh": "刺耳的，不和谐的",
+    "ctx": "在硅谷听来悦耳，在圈外人耳里却刺耳、不和谐，这层反差正是全文的张力所在。",
+    "ex1": "The jarring contrast between the luxury hotel and the slum next door shocked the visitors. 豪华酒店与隔壁贫民窟之间刺眼的对比令参观者震惊。",
+    "ex2": "His jarring remarks at the dinner table made everyone uncomfortable. 他在餐桌上那些不和谐的言论让所有人都不自在。"
+   }
+  ]
+ },
+ "paragraphs": [
+  {
+   "en_html": "EACH WEEKDAY morning Jordi Hays and John Coogan, two entrepreneurs-turned-podcasters, enter a <mark class=\"voc\">sauna</mark> in Los Angeles with copies of the Wall Street Journal. They come out with jackets, ties and hot <mark class=\"voc\">takes</mark> on the tech news of the day. Then they <mark class=\"voc\">go on air</mark> as hosts of the “Technology Business Programming Network” (“TBPN”) podcast, <mark class=\"voc\">riffing with</mark> guests, <mark class=\"voc\">banging gongs</mark> and blowing <mark class=\"voc\">airhorns</mark>. Silicon Valley <mark class=\"voc\">laps it up</mark>. It is not uncommon to see “TBPN”, rather than CNBC, streaming on the TV screens in tech firms’ offices.",
+   "zh": "每个工作日的清晨，乔迪·海斯和约翰·库根——两位从创业者转型而来的播客主——带着几份《华尔街日报》走进洛杉矶的一间桑拿房。出来时，他们已穿戴好西装领带，对当天的科技新闻也有了一肚子热辣点评。随后，他们以“科技商业节目网”（简称“TBPN”）播客主持人的身份开播，与嘉宾你来我往、敲锣鸣笛、好不热闹。硅谷对此趋之若鹜。在科技公司办公室的电视屏幕上，播放“TBPN”而非CNBC，已屡见不鲜。",
+   "notes": [
+    {
+     "w": "sauna",
+     "ipa": "/ˈsɔːnə/",
+     "pos": "n.",
+     "en": "a room or building heated to a high temperature, used for relaxation or health purposes",
+     "zh": "桑拿房",
+     "ctx": "两位主播每个工作日早晨带着报纸进桑拿房，既是精英生活方式，也是这档节目精心设计的仪式感开场。",
+     "ex1": "After the long hike, they relaxed in the hotel sauna for an hour. 长途徒步之后，他们在酒店桑拿房里放松了一个小时。",
+     "ex2": "Finnish sauna culture is an integral part of daily life in Finland. 芬兰桑拿文化是芬兰日常生活中不可或缺的一部分。"
+    },
+    {
+     "w": "take",
+     "ipa": "/teɪk/",
+     "pos": "n.",
+     "en": "a particular opinion or interpretation of something",
+     "zh": "观点，解读",
+     "ctx": "口语里 take 就是“你的看法”，hot takes 即对当天科技新闻的一肚子热辣点评。",
+     "ex1": "What’s your take on the new policy? 你对新政策怎么看？",
+     "ex2": "Her take on the film was far more nuanced than the reviews suggested. 她对这部电影的解读比那些影评细腻得多。"
+    },
+    {
+     "w": "go on air",
+     "ipa": "/ɡəʊ ɒn eə(r)/",
+     "pos": "动词短语",
+     "en": "to begin broadcasting on radio or television",
+     "zh": "开播，上节目",
+     "ctx": "走出桑拿房就“开麦”，指节目正式开始播出。",
+     "ex1": "The radio host goes on air every morning at six sharp. 这位电台主持人每天早上六点整准时开播。",
+     "ex2": "She was nervous the first time she went on air live. 第一次上直播节目时她很紧张。"
+    },
+    {
+     "w": "riff with",
+     "ipa": "/rɪf wɪð/",
+     "pos": "动词短语",
+     "en": "to have a casual and lively conversation with someone, building on each other’s ideas",
+     "zh": "与……即兴互动",
+     "ctx": "riff 本是爵士乐里的即兴演奏，用到谈话节目上，就是与嘉宾你来我往、不照稿子聊。",
+     "ex1": "The two comedians riffed with each other for an hour without any script. 两位喜剧演员毫无剧本地即兴互动了一个小时。",
+     "ex2": "He loves to riff with his guests about everything from politics to pop culture. 他喜欢和嘉宾天南地北地即兴聊，从政治到流行文化无所不谈。"
+    },
+    {
+     "w": "bang the gong",
+     "ipa": "/bæŋ ðə ɡɒŋ/",
+     "pos": "动词短语",
+     "en": "to hit a large metal disc to produce a loud resonant sound, often as a signal or for dramatic effect",
+     "zh": "敲锣",
+     "ctx": "敲锣是这档节目的标志音效，一敲就代表访谈收尾，娱乐化风格全在这个动作里。",
+     "ex1": "The host banged the gong to signal the end of the round. 主持人敲锣示意这一轮结束。",
+     "ex2": "In the game show, contestants bang the gong when they know the answer. 在游戏节目中，选手知道答案时就敲锣。"
+    },
+    {
+     "w": "airhorn",
+     "ipa": "/ˈeəhɔːn/",
+     "pos": "n.",
+     "en": "a device that produces a very loud honking sound, typically powered by compressed air",
+     "zh": "气喇叭",
+     "ctx": "气喇叭同样是节目的音效道具，与敲锣一起，把一档科技新闻节目做成了综艺现场。",
+     "ex1": "The fans set off an airhorn every time their team scored. 每次球队得分，球迷们就吹响气喇叭。",
+     "ex2": "The referee used an airhorn to stop the match. 裁判用气喇叭中止了比赛。"
+    },
+    {
+     "w": "lap sth. up",
+     "ipa": "/læp ʌp/",
+     "pos": "动词短语",
+     "en": "to enjoy something very much and accept it eagerly",
+     "zh": "照单全收，趋之若鹜",
+     "ctx": "lap 本义“舔食”，像猫把盘子舔得干干净净——硅谷对这档节目正是这种照单全收的追捧。",
+     "ex1": "The audience lapped up every word of his speech. 观众对他演讲的每一句话都照单全收。",
+     "ex2": "She lapped up the praise from her colleagues. 她对同事们的赞美欣然受之。"
+    }
+   ]
+  },
+  {
+   "en_html": "Podcasts are the latest example of a power law in Silicon Valley. Only a few become <mark class=\"voc\">big hitters</mark>. Those that do attract the <mark class=\"voc\">demigods</mark> of tech as guests, making them even more influential. “TBPN” has interviewed Sam Altman of OpenAI and Mark Zuckerberg of Meta. The “All-In” Podcast, hosted by four <mark class=\"voc\">plutocrats</mark> who <mark class=\"voc\">straddle</mark> tech and MAGA politics, held a summit in Los Angeles in September attended by Elon Musk and Jensen Huang. (When Donald Trump phoned Nvidia’s boss on stage during the summit, Mr Huang put the president on speakerphone.)",
+   "zh": "播客是硅谷“幂律法则”的最新注脚。唯有极少数能脱颖而出，而一旦跻身头部，便能请来科技界的半神级人物做嘉宾，从而更具影响力。“TBPN”曾采访过OpenAI的萨姆·奥尔特曼和Meta的马克·扎克伯格。由四位横跨科技圈与MAGA政治的巨富主持的“All-In”播客，九月在洛杉矶举办了一场峰会，埃隆·马斯克和黄仁勋均到场出席。（当唐纳德·特朗普在峰会现场致电英伟达老板时，黄仁勋直接开了免提。）",
+   "notes": [
+    {
+     "w": "hitter",
+     "ipa": "/ˈhɪtə(r)/",
+     "pos": "n.",
+     "en": "a person or thing that is very successful or popular",
+     "zh": "成功者，佼佼者",
+     "ctx": "big hitter 指某个领域里打得响、站得住的成功者；这里说只有极少数播客能成为翘楚。",
+     "ex1": "Only a few startups become big hitters in the fiercely competitive market. 在竞争激烈的市场中，只有少数初创公司能成为翘楚。",
+     "ex2": "She is one of the biggest hitters in the publishing industry. 她是出版界最炙手可热的人物之一。"
+    },
+    {
+     "w": "demigod",
+     "ipa": "/ˈdemiɡɒd/",
+     "pos": "n.",
+     "en": "a person who is highly admired or revered, as if they were partly divine",
+     "zh": "半神，被神化的人物",
+     "ctx": "demi- 半 + god 神，即“半神”：科技大佬在圈内被奉若神明的地位。",
+     "ex1": "In the world of finance, he is treated as a demigod whose every move is scrutinized. 在金融界，他被奉为半神，一举一动都备受关注。",
+     "ex2": "Fans treat the pop star like a demigod, flocking to every concert. 粉丝们把这位流行巨星奉若神明，每场演唱会都蜂拥而至。"
+    },
+    {
+     "w": "plutocrat",
+     "ipa": "/ˈpluːtəkræt/",
+     "pos": "n.",
+     "en": "a person who has power because of their great wealth",
+     "zh": "财阀，富豪统治者",
+     "ctx": "pluto- 财富（希腊语 ploutos）+ -crat 统治者，带贬义：有钱就有权的那批人。",
+     "ex1": "The plutocrats of the Gilded Age built fortunes that dwarfed those of ordinary citizens. 镀金时代的财阀们积累的财富令普通民众望尘莫及。",
+     "ex2": "Critics argue that the country is run by plutocrats rather than elected officials. 批评者认为这个国家是由财阀而非民选官员掌管的。"
+    },
+    {
+     "w": "straddle",
+     "ipa": "/ˈstrædl/",
+     "pos": "v.",
+     "en": "to span or extend across different areas, groups, or domains",
+     "zh": "横跨，兼涉",
+     "ctx": "原义“两腿跨坐”，引申为同时脚踏两个领域——这四位主持人一头科技、一头 MAGA 政治。",
+     "ex1": "The company straddles both the software and hardware industries. 这家公司横跨软件和硬件两大行业。",
+     "ex2": "As a commentator, he straddles the worlds of journalism and academia. 作为评论员，他横跨新闻界和学术界。"
+    }
+   ]
+  },
+  {
+   "en_html": "All share an <mark class=\"voc\">in-crowd</mark> <mark class=\"voc\">mystique</mark> bordering on <mark class=\"voc\">incestuousness</mark>. In April OpenAI reportedly spent $100m-200m to buy then-18-month-old TBPN (though there was no mention of the <mark class=\"voc\">affiliation</mark> during Mr Altman’s interview). The “All-In” hosts are self-described “besties” with many of their billionaire interviewees. They are also an <mark class=\"voc\">echo chamber</mark>, with a <mark class=\"voc\">tin ear</mark> at times to the concerns of the rest of America.",
+   "zh": "这些播客无一不带着一种近乎“近亲繁殖”的圈内秘辛气息。据报道，四月间OpenAI斥资1亿至2亿美元收购了当时仅成立18个月的TBPN（不过在奥尔特曼接受采访时，双方均未提及这层关系）。“All-In”的主持人们自称与许多亿万富翁受访者是“死党”。他们同时也是一个回音壁，对美国其余民众的关切时常充耳不闻。",
+   "notes": [
+    {
+     "w": "in-crowd",
+     "ipa": "/ˈɪn kraʊd/",
+     "pos": "n.",
+     "en": "a small group of people who are popular, influential, or considered part of an exclusive circle",
+     "zh": "圈内人，内部小圈子",
+     "ctx": "the in-crowd 就是“圈内那伙人”，自带排他性：进得去的是自己人，进不去的连门都摸不到。",
+     "ex1": "He desperately wanted to be part of the in-crowd at school. 他拼命想成为学校里那个核心圈子的一员。",
+     "ex2": "The in-crowd at the office always seemed to know about decisions before anyone else. 办公室里的圈内人似乎总是比别人先知道决策。"
+    },
+    {
+     "w": "mystique",
+     "ipa": "/mɪˈstiːk/",
+     "pos": "n.",
+     "en": "a quality of mystery, glamour, or power that surrounds someone or something",
+     "zh": "神秘感，神秘魅力",
+     "ctx": "mystique 是笼罩在人身上的神秘魅力，此处带刺：这种魅力近乎“近亲繁殖”。",
+     "ex1": "The old cathedral has a mystique that draws visitors from around the world. 这座古老的大教堂有一种吸引世界各地游客的神秘魅力。",
+     "ex2": "The company cultivated a mystique around its founder that bordered on legend. 公司围绕其创始人营造了一种近乎传奇的神秘感。"
+    },
+    {
+     "w": "incestuousness",
+     "ipa": "/ɪnˈsestʃuəsnəs/",
+     "pos": "n.",
+     "en": "the quality of being excessively close, exclusive, and self-referential within a group",
+     "zh": "近亲繁殖般的封闭性",
+     "ctx": "incest 乱伦 + -uousness，用来骂一个圈子只跟自己人打交道、自我循环、排外到病态。",
+     "ex1": "The incestuousness of the literary scene made it hard for new voices to break through. 文学圈的封闭性让新声音很难突围。",
+     "ex2": "Critics complained about the incestuousness of the political media, where the same pundits appear everywhere. 批评者抱怨政治媒体的圈子化，总是那同一批评论员到处露面。"
+    },
+    {
+     "w": "affiliation",
+     "ipa": "/əˌfɪliˈeɪʃn/",
+     "pos": "n.",
+     "en": "a connection or association with an organization or group",
+     "zh": "隶属关系，关联",
+     "ctx": "affiliation 是“隶属、关联”，此处指 OpenAI 收购 TBPN 后两者的关系，采访里却只字未提。",
+     "ex1": "He denied any affiliation with the controversial organization. 他否认与该争议组织有任何关联。",
+     "ex2": "The university has affiliations with research centers around the world. 这所大学与世界各地的研究中心有合作关系。"
+    },
+    {
+     "w": "echo chamber",
+     "ipa": "/ˈekəʊ tʃeɪmbə(r)/",
+     "pos": "n.",
+     "en": "an environment in which people only encounter opinions and information that reinforce their own beliefs",
+     "zh": "回音壁，信息茧房",
+     "ctx": "回音壁里只有自己的声音来回撞——圈内观点高度同质，听不见外面的意见。",
+     "ex1": "Social media can become an echo chamber where users never see opposing views. 社交媒体可能变成回音壁，用户永远看不到对立观点。",
+     "ex2": "The meeting felt like an echo chamber, with everyone agreeing with the boss. 那场会议就像回音壁，所有人都附和老板的意见。"
+    },
+    {
+     "w": "tin ear",
+     "ipa": "/tɪn ɪə(r)/",
+     "pos": "n.",
+     "en": "an inability to understand or appreciate something, especially the concerns or feelings of others",
+     "zh": "听觉迟钝，充耳不闻",
+     "ctx": "tin ear 字面“锡做的耳朵”，指对声音、对别人的情绪一概听不出来，即充耳不闻。",
+     "ex1": "The government showed a tin ear to the complaints of ordinary workers. 政府对普通工人的抱怨充耳不闻。",
+     "ex2": "His tin ear for social cues often got him into awkward situations. 他对社交暗示的迟钝常常让他陷入尴尬境地。"
+    }
+   ]
+  },
+  {
+   "en_html": "This new podcasting elite reflects a big change in Silicon Valley’s relationship with the media. During the last great investment boom, the <mark class=\"voc\">dotcom</mark> era of the 1990s, publications like Wired were tech-industry <mark class=\"voc\">gospels</mark>. They covered the internet like Rolling Stone wrote about rock’n’roll, says John Battelle, a founding editor of Wired: “We thought we were covering the <mark class=\"voc\">counterculture</mark>.” But the rise of social media and the growing power and wealth of big tech generated a <mark class=\"voc\">rift</mark> between Silicon Valley and news outlets. Podcasters, who share their guests’ techno-optimism, provide a friendlier platform.",
+   "zh": "这批新兴播客精英折射出硅谷与媒体关系的巨大变迁。在上一个投资狂潮——1990年代的互联网时代——《连线》等刊物曾是科技行业的福音书。正如《连线》创始编辑约翰·巴特尔所言，他们报道互联网，就像《滚石》报道摇滚乐：“我们觉得自己在报道一场反文化运动。”然而，社交媒体的崛起以及科技巨头日益膨胀的权力与财富，在硅谷与新闻媒体之间划出了一道裂痕。播客与嘉宾共享技术乐观主义，提供了一个更为友善的平台。",
+   "notes": [
+    {
+     "w": "dotcom",
+     "ipa": "/ˈdɒtkɒm/",
+     "pos": "n.",
+     "en": "a company that operates primarily on the internet, especially one founded during the late 1990s boom",
+     "zh": "互联网公司",
+     "ctx": "dotcom 指互联网公司，dotcom era 就是 1990 年代那轮互联网泡沫式的投资狂潮。",
+     "ex1": "Many dotcoms collapsed when the bubble burst in 2000. 2000年泡沫破裂时，许多互联网公司纷纷倒闭。",
+     "ex2": "He made his fortune during the dotcom boom and lost it just as quickly. 他在互联网热潮中发了财，又同样迅速地失去了财富。"
+    },
+    {
+     "w": "gospel",
+     "ipa": "/ˈɡɒspl/",
+     "pos": "n.",
+     "en": "something that is regarded as absolutely true and authoritative",
+     "zh": "福音，金科玉律",
+     "ctx": "gospel 原指《福音书》，引申为不容置疑的权威；《连线》当年就是科技圈的金科玉律。",
+     "ex1": "His words were treated as gospel by his followers. 他的话被追随者奉为金科玉律。",
+     "ex2": "The report was once considered gospel on climate science. 这份报告曾被视为气候科学领域的金科玉律。"
+    },
+    {
+     "w": "counterculture",
+     "ipa": "/ˈkaʊntəkʌltʃə(r)/",
+     "pos": "n.",
+     "en": "a way of life and set of attitudes opposed to the prevailing social norms",
+     "zh": "反文化，反主流文化",
+     "ctx": "counter- 反 + culture 文化：早期科技媒体自认在报道一场对抗主流的运动。",
+     "ex1": "The hippie movement of the 1960s was a classic counterculture. 1960年代的嬉皮士运动是典型的反文化现象。",
+     "ex2": "What began as a counterculture eventually became mainstream. 最初的反文化最终变成了主流。"
+    },
+    {
+     "w": "rift",
+     "ipa": "/rɪft/",
+     "pos": "n.",
+     "en": "a serious break in friendly relations between people or groups",
+     "zh": "裂痕，分歧",
+     "ctx": "rift 是地层上的裂口，用到人际关系上就是翻脸、裂痕——硅谷与媒体之间那道缝。",
+     "ex1": "The disagreement caused a deep rift within the party. 这场分歧在党内造成了深深的裂痕。",
+     "ex2": "There has been a growing rift between the tech industry and regulators. 科技行业与监管机构之间的裂痕日益加深。"
+    }
+   ]
+  },
+  {
+   "en_html": "The <mark class=\"voc\">watershed</mark> came during the 2024 presidential race. Led by Mr Trump, politicians saw the medium as a less <mark class=\"voc\">filtered</mark> way of getting their message out than the press or broadcast TV. Two of its billionaire co-hosts, David Sacks and Chamath Palihapitiya, threw a <mark class=\"voc\">fundraiser</mark> in San Francisco for Mr Trump. Shortly afterwards he appeared on their show. That helped raise the <mark class=\"voc\">profile</mark> of the hosts, as well as of tech podcasting in general.",
+   "zh": "转折点出现在2024年总统大选期间。以特朗普为首，政客们发现这一媒介比报刊或电视广播更能绕过过滤、直抵人心。“All-In”的两位亿万富翁联合主持人大卫·萨克斯和查马斯·帕里哈皮蒂亚在旧金山为特朗普举办了一场筹款活动。不久之后，特朗普便做客他们的节目。这既提升了主持人的知名度，也推动了科技播客的整体崛起。",
+   "notes": [
+    {
+     "w": "watershed",
+     "ipa": "/ˈwɔːtəʃed/",
+     "pos": "n.",
+     "en": "an event or period that marks a turning point and causes important changes",
+     "zh": "分水岭，转折点",
+     "ctx": "watershed 本义分水岭：水在这里一分为二，事件在这里一分前后——2024 年大选就是那个点。",
+     "ex1": "The invention of the smartphone was a watershed in modern communication. 智能手机的发明是现代通信史上的分水岭。",
+     "ex2": "The court ruling proved a watershed for civil rights in the country. 这项法院裁决成为该国民权运动的分水岭。"
+    },
+    {
+     "w": "filter",
+     "ipa": "/ˈfɪltə(r)/",
+     "pos": "n.",
+     "en": "a process or device that removes or obscures certain elements, especially in communication",
+     "zh": "过滤，筛选",
+     "ctx": "filter 是过滤网，传统媒体就是那道网；播客把网撤了，政客的话不经剪裁直接进耳朵。",
+     "ex1": "Social media allows politicians to speak to voters without the filter of traditional news outlets. 社交媒体让政客无需经过传统新闻机构的过滤就能直接对选民讲话。",
+     "ex2": "The interview was edited, so what we saw was a filtered version of events. 采访经过了剪辑，所以我们看到的只是被过滤过的事件版本。"
+    },
+    {
+     "w": "fundraiser",
+     "ipa": "/ˈfʌndreɪzə(r)/",
+     "pos": "n.",
+     "en": "an event or activity organized to raise money for a cause or campaign",
+     "zh": "筹款活动",
+     "ctx": "fundraiser 即筹款活动，科技富豪替政客筹钱，钱与权就此勾连。",
+     "ex1": "The charity held a fundraiser to support children’s education. 该慈善机构举办了一场筹款活动来支持儿童教育。",
+     "ex2": "She attended a fundraiser for the senator’s re-election campaign. 她参加了为参议员连任竞选举办的筹款活动。"
+    },
+    {
+     "w": "profile",
+     "ipa": "/ˈprəʊfaɪl/",
+     "pos": "n.",
+     "en": "the amount of attention someone or something receives from the public",
+     "zh": "知名度，关注度",
+     "ctx": "profile 此处不是“简介”，而是公众关注度；raise the profile 即把知名度抬上去。",
+     "ex1": "The scandal raised the profile of the little-known senator overnight. 这桩丑闻一夜之间提升了那位鲜为人知的参议员的知名度。",
+     "ex2": "The award helped raise the profile of the young director. 这个奖项帮助提升了这位年轻导演的知名度。"
+    }
+   ]
+  }
+ ]
+}

@@ -1,0 +1,317 @@
+{
+ "date": "2026-10-12",
+ "title_tag": "从贫民窟女孩到诺贝尔和平奖！今年诺贝尔和平奖得主到底是什么来头？—— 美国纽约时报外刊讲解第1195天",
+ "h1": "从贫民窟女孩到诺贝尔和平奖！今年诺贝尔和平奖得主到底是什么来头？",
+ "source_label": "The New York Times",
+ "category": "美国纽约时报外刊讲解 第1195天",
+ "read_minutes": 18,
+ "nav_hint": "An International Career Forged by the Struggles of Apartheid",
+ "headline": {
+  "en_html": "<span>An International <mark class=\"voc\">Career</mark> <mark class=\"voc\">Forged</mark> by the Struggles of <mark class=\"voc\">Apartheid</mark></span> — <span>Navi Pillay, who won this year’s Nobel Peace Prize, fought <mark class=\"voc\">racism</mark> in South Africa, shaping her international career as a judge and <mark class=\"voc\">advocate</mark> for <mark class=\"voc\">justice</mark> and human rights.</span>",
+  "zh": "一段国际职业生涯，由种族隔离的斗争锻造而成——纳维·皮莱，今年的诺贝尔和平奖得主；她曾在南非与种族主义抗争，正是这段经历，塑造了她作为法官、作为正义与人权倡导者的国际生涯。",
+  "notes": [
+   {
+    "w": "career",
+    "ipa": "/kəˈrɪə/",
+    "pos": "n.",
+    "en": "A career is a job or profession that someone does for a long time.",
+    "zh": "职业，事业（一整条职业轨道）",
+    "ctx": "标题里她的生涯不是“找到”的，而是一整条被锤打出来的职业轨道，与 job 的临时性正相反。",
+    "ex1": "She has had a distinguished career in international law. 她在国际法领域拥有辉煌的职业生涯。",
+    "ex2": "He switched careers at the age of forty. 他四十岁那年转换了职业轨道。"
+   },
+   {
+    "w": "forge",
+    "ipa": "/fɔːdʒ/",
+    "pos": "v.",
+    "en": "To forge means to make an object from metal by heating and hammering it; figuratively, to create something strong and lasting with great effort.",
+    "zh": "锻造；（引申）千锤百炼地打造",
+    "ctx": "标题的灵魂动词：本义铁匠铺里烧红锤打，本文指被苦难反复敲打出来的东西，比 build 多了烈火与痛感。",
+    "ex1": "Their friendship was forged during years of hardship. 他们的友谊是在多年的患难中锻造出来的。",
+    "ex2": "The two countries forged a trade agreement. 两国缔结了一项贸易协定。"
+   },
+   {
+    "w": "apartheid",
+    "ipa": "/əˈpɑːtheɪt/",
+    "pos": "n.",
+    "en": "Apartheid was a political system in which people of different races were separated and treated unequally.",
+    "zh": "种族隔离制度",
+    "ctx": "南非 1948 至 1994 年的法定制度，按肤色划分居住、就学与公共设施，是全文所有苦难的总背景。",
+    "ex1": "She grew up under apartheid. 她在种族隔离制度下长大。",
+    "ex2": "Apartheid ended in 1994. 种族隔离制度于 1994 年终结。"
+   },
+   {
+    "w": "racism",
+    "ipa": "/ˈreɪsɪzəm/",
+    "pos": "n.",
+    "en": "Racism is the belief that people of different races have different qualities, and unfair treatment of people based on race.",
+    "zh": "种族主义，种族歧视",
+    "ctx": "副标题用 racism 而不用 apartheid：制度可以废除，观念却未必随之消失，这是她斗了一辈子的东西。",
+    "ex1": "She fought racism her whole life. 她一生都在与种族主义抗争。",
+    "ex2": "The report exposed institutional racism. 报告揭露了制度性种族歧视。"
+   },
+   {
+    "w": "advocate",
+    "ipa": "/ˈædvəkət/ (n.) /ˈædvəkeɪt/ (v.)",
+    "pos": "n./v.",
+    "en": "An advocate is a person who publicly supports a cause or policy; as a verb, to publicly support an idea.",
+    "zh": "倡导者，拥护者；公开倡导",
+    "ctx": "词根 voc 是“喊”：她不只是坐在法庭上的法官，还是站在前头替正义大声疾呼的人。",
+    "ex1": "She is a lifelong advocate for justice. 她是一生为正义奔走呼吁的人。",
+    "ex2": "The group advocates peaceful protest. 该组织倡导和平抗议。"
+   },
+   {
+    "w": "justice",
+    "ipa": "/ˈdʒʌstɪs/",
+    "pos": "n.",
+    "en": "Justice is fairness in the way people are treated, and the legal system of a country.",
+    "zh": "正义；司法，审判",
+    "ctx": "全文的题眼：judge 是她的职业，justice 是她一生追的东西，结尾那句 keep going, seeking justice 正是落点。",
+    "ex1": "She spent her life seeking justice. 她一生都在寻求正义。",
+    "ex2": "The criminals were finally brought to justice. 罪犯终于被绳之以法。"
+   }
+  ]
+ },
+ "paragraphs": [
+  {
+   "en_html": "She lived her childhood in a <mark class=\"voc\">slum</mark> without <mark class=\"voc\">sewage</mark> or water, attended a school for only children of Indian <mark class=\"voc\">descent</mark>, and knew that her skin color <mark class=\"voc\">prohibited</mark> her from going to the beach her father would drive past during the Christmas season.",
+   "zh": "她的童年，安放在一个没有下水道、没有自来水的贫民窟里；她就读的，是一所只向印度裔孩子开放的学校；而她打小就知道，自己的肤色是一道禁令——父亲每年圣诞节驱车经过的那片海滩，永远不许她踏足。",
+   "notes": [
+    {
+     "w": "slum",
+     "ipa": "/slʌm/",
+     "pos": "n.",
+     "en": "A slum is an area of a city where many people live in very bad housing conditions with extreme poverty.",
+     "zh": "贫民窟，棚户区",
+     "ctx": "开篇第一个名词就把她放在最底层；slum 重“穷”，ghetto 重“特定族群被强制圈居”，两者不可混用。",
+     "ex1": "She spent her childhood in a slum. 她的童年在贫民窟度过。",
+     "ex2": "Millions of slum dwellers lack clean water. 数百万贫民窟居民用不上洁净水。"
+    },
+    {
+     "w": "sewage",
+     "ipa": "/ˈsuːɪdʒ/",
+     "pos": "n.",
+     "en": "Sewage is the mixture of waste and used water carried away from buildings by pipes.",
+     "zh": "污水，下水道污物",
+     "ctx": "without sewage or water 两个名词写尽制度性贫困，作者不写“她很穷”，只甩细节，让读者自己得出结论。",
+     "ex1": "The slum had no sewage system. 贫民窟没有排污系统。",
+     "ex2": "Raw sewage flowed into the river. 未经处理的污水直接排入河中。"
+    },
+    {
+     "w": "descent",
+     "ipa": "/dɪˈsent/",
+     "pos": "n.",
+     "en": "Descent means a person's family origin or background; also the action of going down.",
+     "zh": "血统，出身；（本义）下降",
+     "ctx": "熟词僻义：of Indian descent 是有印度血统，比 Indians living abroad 更简洁；本义“下降”在本文不出现。",
+     "ex1": "She is of Indian descent. 她有印度血统。",
+     "ex2": "The plane began its descent. 飞机开始下降。"
+    },
+    {
+     "w": "prohibit",
+     "ipa": "/prəˈhɪbɪt/",
+     "pos": "v.",
+     "en": "To prohibit means to forbid by law or rule; to prevent someone from doing something.",
+     "zh": "（法律、制度）明文禁止",
+     "ctx": "prohibited her from going to the beach：不是她不想去，是法律不许她去，一个词写尽制度之恶。",
+     "ex1": "The law prohibits discrimination. 法律禁止歧视。",
+     "ex2": "Smoking is prohibited in public places. 公共场所禁止吸烟。"
+    }
+   ]
+  },
+  {
+   "en_html": "But she also described a pivotal moment that helped her rise from <mark class=\"voc\">under the thumb of</mark> racism: Parents in her community in the coastal city of Durban <mark class=\"voc\">pooled</mark> their money to send her to university, after her high school principal said she had potential. That opportunity began a <mark class=\"voc\">barrier-breaking</mark> career that led Ms. Pillay to becoming a lawyer, a judge on multiple international courts, the human rights chief of the United Nations and, on Friday, a Nobel Peace Prize <mark class=\"voc\">laureate</mark>.",
+   "zh": "但她也说起过自己命运的支点——那一刻，她得以从种族主义的压制之下起身：只因高中校长一句“这孩子有潜力”，德班这座滨海城市里，社区的家长们便你一份我一份地凑出钱来，送她进了大学。正是这个机会，开启了她一路破壁的职业生涯：律师、多个国际法庭的法官、联合国人权事务负责人，直到上周五——诺贝尔和平奖桂冠加身。",
+   "notes": [
+    {
+     "w": "under the thumb of",
+     "ipa": "/ˈθʌm/",
+     "pos": "phr.",
+     "en": "Under the thumb of someone means completely controlled by them and unable to act freely.",
+     "zh": "受制于人，被攥在手心",
+     "ctx": "画面是大拇指把人摁在底下；它与后半句的 rise from 正好对照——被摁住的和不肯停下的，是同一个人。",
+     "ex1": "For years she lived under the thumb of the system. 多年来她活在这个体制的压制之下。",
+     "ex2": "He refused to stay under the thumb of his boss. 他不肯再受老板的摆布。"
+    },
+    {
+     "w": "pool",
+     "ipa": "/puːl/",
+     "pos": "v.",
+     "en": "To pool money or resources means to combine them so they can be used more effectively.",
+     "zh": "集中（资金、资源），凑（钱）",
+     "ctx": "熟词僻义：本义是“共同的水塘”，大家把钱倒进一个池子，谁需要谁取用——社区的家长就是这样凑出她的学费。",
+     "ex1": "The parents pooled their money to hire a teacher. 家长们凑钱请了一位老师。",
+     "ex2": "We pooled our ideas to solve the problem. 我们集思广益解决这个问题。"
+    },
+    {
+     "w": "barrier-breaking",
+     "ipa": "/ˈbæriə ˌbreɪkɪŋ/",
+     "pos": "adj.",
+     "en": "Barrier-breaking describes something that breaks down barriers and removes obstacles.",
+     "zh": "破壁的，打破壁垒的",
+     "ctx": "barrier（壁垒）加 breaking（打破）的连字符合成词，一句话概括她从律师到联合国的一路破壁。",
+     "ex1": "That opportunity began a barrier-breaking career. 那次机会开启了一段破壁的职业生涯。",
+     "ex2": "She made barrier-breaking achievements in law. 她在法律界取得了破冰式的成就。"
+    },
+    {
+     "w": "laureate",
+     "ipa": "/ˈlɒriət/",
+     "pos": "n.",
+     "en": "A laureate is a person who has been given a high official honor, especially the Nobel Prize.",
+     "zh": "桂冠得主",
+     "ctx": "拉丁语 laurus 是月桂树，古希腊给优胜者戴月桂花环；Nobel Peace Prize laureate 就是诺奖得主。",
+     "ex1": "She became a Nobel Peace Prize laureate. 她成为了诺贝尔和平奖得主。",
+     "ex2": "The laureate gave a moving speech. 桂冠得主发表了动人的演讲。"
+    }
+   ]
+  },
+  {
+   "en_html": "In announcing the prize, the Nobel committee said that Ms. Pillay had been “<mark class=\"voc\">instrumental</mark> in ensuring that war crimes, crimes against humanity and <mark class=\"voc\">genocide</mark> are <mark class=\"voc\">prosecuted</mark>.” She becomes the fifth South African to win the award, joining the ranks of the country’s most <mark class=\"voc\">vaunted</mark> figures including Nelson Mandela and Archbishop Desmond Tutu.",
+   "zh": "宣布奖项时，诺贝尔委员会表示，皮莱“在确保战争罪、危害人类罪与种族灭绝罪得到追诉方面，发挥了关键作用”。她由此成为第五位获此殊荣的南非人，与纳尔逊·曼德拉、德斯蒙德·图图大主教等这个国家最受敬仰的名字，站进了同一列。",
+   "notes": [
+    {
+     "w": "instrumental",
+     "ipa": "/ˌɪnstrəˈmentl/",
+     "pos": "adj.",
+     "en": "Instrumental means important in making something happen; playing a key part.",
+     "zh": "起关键作用的，功不可没的",
+     "ctx": "instrument 本义是“工具”，她成了推动这件事最关键的那枚齿轮；比 important 多一层不可替代的功劳。",
+     "ex1": "She was instrumental in ensuring accountability. 她在确保问责上功不可没。",
+     "ex2": "His support was instrumental in the project’s success. 他的支持是项目成功的关键。"
+    },
+    {
+     "w": "genocide",
+     "ipa": "/ˈdʒenəsaɪd/",
+     "pos": "n.",
+     "en": "Genocide is the deliberate killing of a whole race or nation of people.",
+     "zh": "种族灭绝",
+     "ctx": "geno-（希腊语 genos，种族）加 -cide（拉丁语 caedere，杀）；这个词 1944 年由莱姆金创造，他全家死于纳粹之手。",
+     "ex1": "The tribunal prosecuted crimes of genocide. 该法庭追诉种族灭绝罪。",
+     "ex2": "Genocide was made a crime after World War Two. 二战后种族灭绝被定为罪行。"
+    },
+    {
+     "w": "prosecute",
+     "ipa": "/ˈprɒsɪkjuːt/",
+     "pos": "v.",
+     "en": "To prosecute means to officially charge someone with a crime and bring them to court.",
+     "zh": "依法起诉，追诉",
+     "ctx": "pro-（向前）加 secut（跟随），一路追到底；形近词 persecute 是迫害，只差一个字母，意思天壤之别。",
+     "ex1": "War criminals were prosecuted after the war. 战犯在战后受到起诉。",
+     "ex2": "The state decided to prosecute him for fraud. 检方决定以欺诈罪起诉他。"
+    },
+    {
+     "w": "vaunted",
+     "ipa": "/ˈvɔːntɪd/",
+     "pos": "adj.",
+     "en": "Vaunted means praised highly, often publicly.",
+     "zh": "被盛赞的，备受推崇的",
+     "ctx": "本文取中性偏褒义：南非最受尊崇的名字；只有 much-vaunted 那种说法里才常带“号称厉害其实未必”的讽刺。",
+     "ex1": "She joined the ranks of the most vaunted figures. 她跻身最受尊崇的人物之列。",
+     "ex2": "The much-vaunted reform never happened. 那项被吹上天的改革从未兑现。"
+    }
+   ]
+  },
+  {
+   "en_html": "While much of Ms. Pillay’s global <mark class=\"voc\">recognition</mark> comes from human rights work she has done abroad, her experiences in South Africa have <mark class=\"voc\">indelibly</mark> shaped her life, and she has remained deeply <mark class=\"voc\">invested</mark> in her home country’s sometimes-<mark class=\"voc\">fragile</mark> democracy. “I see this award as the voice of the majority of the world,” Ms. Pillay said in an interview with the South African state broadcaster on Friday. She added that a majority of South Africans “want <mark class=\"voc\">the rule of law</mark>, they want the independent <mark class=\"voc\">judiciary</mark> to be respected.”",
+   "zh": "尽管皮莱享誉全球，多半凭借的是她在海外的人权事业，但真正不可磨灭地塑造了她一生的，是南非这片土地上的经历；而她始终深深牵挂着祖国那尚显稚嫩的民主。“我将这个奖，看作世界多数人的声音，”皮莱周五接受南非国家电视台采访时说。她补充道，大多数南非人“要的是法治，要的是独立的司法体系受到尊重”。",
+   "notes": [
+    {
+     "w": "recognition",
+     "ipa": "/ˌrekəɡˈnɪʃn/",
+     "pos": "n.",
+     "en": "Recognition means public praise and reward for someone's work or achievements; also knowing someone or something when you see them.",
+     "zh": "认可，声誉",
+     "ctx": "本义是“认出来”，引申为社会认出你的价值；她的这份声誉，大半来自南非之外的人权工作。",
+     "ex1": "Her work gained international recognition. 她的工作获得了国际认可。",
+     "ex2": "He was given an award in recognition of his service. 他因贡献卓著获颁奖章。"
+    },
+    {
+     "w": "indelibly",
+     "ipa": "/ɪnˈdeləbli/",
+     "pos": "adv.",
+     "en": "Indelibly means in a way that cannot be erased or removed.",
+     "zh": "不可磨灭地",
+     "ctx": "in-（否定）加 del（涂抹，编辑批注里的 del. 至今还在用）加 -ible；indelible ink 就是投票后三天洗不掉的墨水。",
+     "ex1": "Her childhood indelibly shaped her life. 她的童年不可磨灭地塑造了她的一生。",
+     "ex2": "The trip left an indelible impression. 那次旅行留下了不可磨灭的印象。"
+    },
+    {
+     "w": "invested",
+     "ipa": "/ɪnˈvestɪd/",
+     "pos": "adj.",
+     "en": "Be deeply invested in something means to care a lot about it and be personally committed to it.",
+     "zh": "深度投入的，深切在乎的",
+     "ctx": "熟词僻义：不是“投资”，是情感与心力的持续投入——她对祖国那套时好时坏的民主，一直放不下。",
+     "ex1": "She remained deeply invested in her home country. 她对祖国始终保持深度关切。",
+     "ex2": "Parents are heavily invested in their children’s education. 家长们在子女教育上倾注极深。"
+    },
+    {
+     "w": "fragile",
+     "ipa": "/ˈfrædʒaɪl/",
+     "pos": "adj.",
+     "en": "Fragile means easily broken or damaged; weak and uncertain.",
+     "zh": "脆弱的，不稳固的",
+     "ctx": "词根 frag- 是打碎（fragment 碎片、fracture 骨折）；sometimes-fragile 说明这民主不是一直脆弱，而是时好时坏。",
+     "ex1": "The country’s democracy remains fragile. 这个国家的民主仍然脆弱。",
+     "ex2": "Be careful with that fragile vase. 小心那只易碎的花瓶。"
+    },
+    {
+     "w": "the rule of law",
+     "ipa": "/ruːl ɒv lɔː/",
+     "pos": "phr.",
+     "en": "The rule of law is the principle that everyone and every institution is equally subject to the law.",
+     "zh": "法治",
+     "ctx": "法律至上、任何人和机构都受其约束；与 rule by law（把法律当治理工具）完全不是一回事。",
+     "ex1": "Citizens want the rule of law to be respected. 公民希望法治受到尊重。",
+     "ex2": "The country is rebuilding the rule of law. 这个国家正在重建法治。"
+    },
+    {
+     "w": "judiciary",
+     "ipa": "/dʒuˈdɪʃəri/",
+     "pos": "n.",
+     "en": "The judiciary is the branch of government that runs the courts and judges.",
+     "zh": "司法系统，司法机关",
+     "ctx": "judge 到 judicial（司法的）再到 judiciary（司法机关）；她要的是这套系统不被政治拿捏。",
+     "ex1": "They demand an independent judiciary. 他们要求司法独立。",
+     "ex2": "The judiciary must remain free of politics. 司法必须远离政治。"
+    }
+   ]
+  },
+  {
+   "en_html": "She studied law at what is now the University of KwaZulu-Natal. Because it was <mark class=\"voc\">segregated</mark>, Black students had to attend classes at night, said Jessica Neuwirth, a human-rights lawyer and activist who has known Ms. Pillay for four decades. During the day, Ms. Pillay would go to the library, where she found books about the <mark class=\"voc\">Nuremberg trials</mark>, helping inspire her <mark class=\"voc\">fascination</mark> with international justice, Ms. Neuwirth said.",
+   "zh": "她攻读法律的地方，是如今名为夸祖鲁-纳塔尔大学的学府。据相识皮莱四十载的人权律师、活动家杰西卡·纽沃斯回忆：彼时学校实行种族隔离，非白人学生只能入夜上课。于是白天，皮莱便整日泡在图书馆——正是在那里，她读到了纽伦堡审判的卷宗，也正是这些书，点燃了她对国际正义毕生的着迷。",
+   "notes": [
+    {
+     "w": "segregate",
+     "ipa": "/ˈseɡrɪɡeɪt/",
+     "pos": "v.",
+     "en": "To segregate means to separate one group of people from others, especially by race.",
+     "zh": "（按种族）隔离，分开",
+     "ctx": "se-（分开）加 greg（群）；学校被隔离，黑人学生只能夜里上课，白天反而空出一整段时间给她读书。",
+     "ex1": "Black students had to attend segregated schools. 黑人学生只能上被隔离的学校。",
+     "ex2": "The city once segregated its beaches by race. 这座城市曾按种族隔离海滩。"
+    },
+    {
+     "w": "Nuremberg trials",
+     "ipa": "/ˈnjʊərəmbɜːɡ/",
+     "pos": "n.",
+     "en": "The Nuremberg trials were the military tribunals held after World War Two to prosecute Nazi war crimes.",
+     "zh": "纽伦堡审判",
+     "ctx": "1945 至 1946 年对纳粹战犯的国际审判，首次确立战争罪与反人类罪，是现代国际刑法的起点，也是全文埋得最深的伏笔。",
+     "ex1": "The Nuremberg trials created the crime of crimes against humanity. 纽伦堡审判确立了反人类罪。",
+     "ex2": "She read about the Nuremberg trials as a student. 学生时代她读到了纽伦堡审判。"
+    },
+    {
+     "w": "fascination",
+     "ipa": "/ˌfæsɪˈneɪʃn/",
+     "pos": "n.",
+     "en": "Fascination is a very strong interest in something that holds your attention completely.",
+     "zh": "着迷，痴迷",
+     "ctx": "词源拉丁语 fascinum 意为“巫术、邪眼”，被看住就挪不开眼；她对国际司法的痴迷，始于图书馆的一个白天。",
+     "ex1": "Her fascination with international justice began in a library. 她对国际司法的痴迷始于图书馆。",
+     "ex2": "The sea holds a lifelong fascination for him. 大海让他着迷了一辈子。"
+    }
+   ]
+  }
+ ]
+}

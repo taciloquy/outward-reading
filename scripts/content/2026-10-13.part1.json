@@ -1,0 +1,397 @@
+{
+ "date": "2026-10-13",
+ "title_tag": "胡塞一周三袭沙特首都机场，致12死300多人伤！沙特这么有钱、武器这么强，为什么却拿胡塞没办法？—— 美国《纽约时报》外刊讲解第1196天",
+ "h1": "胡塞一周三袭沙特首都机场，致12死300多人伤！沙特这么有钱、武器这么强，为什么却拿胡塞没办法？",
+ "source_label": "The New York Times",
+ "category": "美国《纽约时报》外刊讲解 第1196天",
+ "read_minutes": 18,
+ "nav_hint": "Saudi Arabia Has Few Options as Houthis Aim at Heart of Its Ambitions",
+ "headline": {
+  "en_html": "<span>Saudi Arabia Has <mark class=\"voc\">Few Options</mark> as <mark class=\"voc\">Houthis</mark> <mark class=\"voc\">Aim at Heart of Its Ambitions</mark></span> — <span>Three <mark class=\"voc\">deadly</mark> attacks by the <mark class=\"voc\">Iran-backed</mark> Houthis in Yemen on an airport in the Saudi capital <mark class=\"voc\">underscored</mark> the <mark class=\"voc\">asymmetrical</mark> nature of their conflict with the kingdom.</span>",
+  "zh": "沙特进退维谷：胡塞武装直指其宏图要害——胡塞武装对沙特首都机场发动的三次致命袭击，凸显了这场冲突的不对称本质。",
+  "notes": [
+   {
+    "w": "few options",
+    "ipa": "/fjuː ˈɒpʃnz/",
+    "pos": "短语",
+    "en": "Few options means only a small number of choices are available, suggesting that someone is constrained and has very limited ways to act.",
+    "zh": "几乎没有选择余地",
+    "ctx": "标题用它点出沙特的处境：不是无路可走，而是每条路都难走。",
+    "ex1": "With the deadline approaching, we have few options left. 期限将至，我们几乎已没有选择余地。",
+    "ex2": "The government has few options but to raise taxes. 政府除了加税几乎没有别的办法。"
+   },
+   {
+    "w": "Houthis",
+    "ipa": "/ˈhuːθiz/",
+    "pos": "n.（专有名词）",
+    "en": "The Houthis are a political and military movement based in northern Yemen, backed by Iran, who seized the capital Sanaa in 2014.",
+    "zh": "胡塞武装",
+    "ctx": "标题里的对手方，作者只用这个中性的组织名，不给任何修饰。",
+    "ex1": "The Houthis control much of northern Yemen, including the capital. 胡塞武装控制着也门北部大部分地区，包括首都。",
+    "ex2": "Houthi strikes have disrupted shipping in the Red Sea. 胡塞的袭击扰乱了红海航运。"
+   },
+   {
+    "w": "aim at the heart of",
+    "ipa": "/eɪm æt ðə hɑːt əv/",
+    "pos": "短语",
+    "en": "To aim at the heart of something means to target its most important or most vulnerable core, rather than its surface.",
+    "zh": "直取……的要害",
+    "ctx": "标题说胡塞瞄准的是沙特抱负的要害而非边角，与正文“击中王储宏图核心”前后咬合。",
+    "ex1": "The scandal struck at the heart of the government's credibility. 这起丑闻直击政府公信力的要害。",
+    "ex2": "The new policy targets the heart of the housing crisis. 新政策剑指住房危机的核心。"
+   },
+   {
+    "w": "deadly",
+    "ipa": "/ˈdedli/",
+    "pos": "adj.",
+    "en": "Deadly means able to cause death, or causing a great number of deaths.",
+    "zh": "致命的",
+    "ctx": "副题用“致命”给三次袭击定性，与后文 12 死、300 余人伤呼应。",
+    "ex1": "It was the deadliest attack on the city in a decade. 这是该市十年来最致命的一次袭击。",
+    "ex2": "The storm proved deadly for those caught outdoors. 这场风暴对滞留在户外的人来说是致命的。"
+   },
+   {
+    "w": "Iran-backed",
+    "ipa": "/ɪˈrɑːn bækt/",
+    "pos": "adj.",
+    "en": "Iran-backed describes a group or entity that is supported, funded or armed by Iran.",
+    "zh": "伊朗支持的",
+    "ctx": "副题一上来就给胡塞贴上“伊朗支持”的标签，把冲突框进代理人叙事。",
+    "ex1": "Iran-backed groups have expanded their influence across the region. 伊朗支持的势力已将影响力扩展到整个地区。",
+    "ex2": "The U.S.-backed coalition launched a fresh offensive. 美国支持的联军发动了新一轮攻势。"
+   },
+   {
+    "w": "underscore",
+    "ipa": "/ˌʌndəˈskɔː(r)/",
+    "pos": "v.",
+    "en": "To underscore something means to emphasize it or show that it is important.",
+    "zh": "凸显，强调",
+    "ctx": "副题说这次袭击“凸显”了冲突本质：把抽象判断落到一个具体事件上。",
+    "ex1": "The report underscores the urgent need for reform. 这份报告凸显了进行改革的迫切必要性。",
+    "ex2": "These attacks underscore the fragility of the truce. 这些袭击凸显了停火的脆弱。"
+   },
+   {
+    "w": "asymmetrical",
+    "ipa": "/ˌeɪsɪˈmetrɪkl/",
+    "pos": "adj.",
+    "en": "Asymmetrical means lacking symmetry — in this context, describing a conflict in which the two sides are unequal in strength, tactics and stakes.",
+    "zh": "不对称的",
+    "ctx": "全文题眼：双方的手段与代价根本不在同一套规则里。",
+    "ex1": "The rebels rely on asymmetrical tactics such as drones and ambushes. 叛军依靠无人机、伏击等不对称战术。",
+    "ex2": "Negotiations stalled because of the asymmetrical power balance. 由于力量对比不对称，谈判陷入僵局。"
+   }
+  ]
+ },
+ "paragraphs": [
+  {
+   "en_html": "After the <mark class=\"voc\">deadliest</mark> attack in Saudi Arabia in more than a decade, <mark class=\"voc\">Crown Prince</mark> Mohammed bin Salman faces growing pressure to find a way to stop the Iran-backed Houthi <mark class=\"voc\">militia</mark> in Yemen from firing missiles and drones at his country. Yet the prince, Saudi Arabia’s <mark class=\"voc\">de facto ruler</mark>, has few options as he confronts an asymmetrical conflict with an <mark class=\"voc\">adversary</mark> that has become stronger since he led a <mark class=\"voc\">disastrous</mark> war against it a decade ago, analysts say.",
+   "zh": "十多年来最致命的袭击发生之后，穆罕默德王储面临越来越大的压力，必须设法阻止伊朗支持的也门胡塞武装继续向沙特发射导弹和无人机。然而，这位沙特事实上的统治者几乎没有选择余地——分析人士指出，他面对的是一场不对称冲突，而对手自十年前他发动那场灾难性战争以来，反而变得更加强大。",
+   "notes": [
+    {
+     "w": "deadliest",
+     "ipa": "/ˈdedliest/",
+     "pos": "adj.（最高级）",
+     "en": "Deadliest is the superlative of deadly, meaning causing the most deaths.",
+     "zh": "最致命的",
+     "ctx": "“十多年来最致命”以时间坐标给事件定级，暗示严重性。",
+     "ex1": "It was the deadliest earthquake in the region's history. 这是该地区历史上最致命的一次地震。",
+     "ex2": "This is the deadliest year for journalists on record. 这是有记录以来记者遇害最多的一年。"
+    },
+    {
+     "w": "Crown Prince",
+     "ipa": "/kraʊn prɪns/",
+     "pos": "n.",
+     "en": "A crown prince is the male heir apparent to a throne.",
+     "zh": "王储",
+     "ctx": "作者用“王储”称呼他，避开“实际国王”的敏感，紧接着又用 de facto ruler 点破真相。",
+     "ex1": "The crown prince has overseen sweeping economic reforms. 这位王储主导了大规模经济改革。",
+     "ex2": "The crown prince is seen as the country's de facto leader. 这位王储被视为该国实际上的领导人。"
+    },
+    {
+     "w": "militia",
+     "ipa": "/məˈlɪʃə/",
+     "pos": "n.",
+     "en": "A militia is an armed group that is not part of a country's official army, often formed by civilians or a political movement.",
+     "zh": "民兵武装，非正规武装",
+     "ctx": "用“民兵”代指胡塞，暗含非正规、非国家军队的贬抑。",
+     "ex1": "The militia seized control of the town overnight. 这支民兵一夜之间控制了该城镇。",
+     "ex2": "Government forces clashed with militias in the north. 政府军在北部与民兵发生冲突。"
+    },
+    {
+     "w": "de facto ruler",
+     "ipa": "/deɪ ˈfæktəʊ ˈruːlə(r)/",
+     "pos": "短语",
+     "en": "A de facto ruler is someone who holds real power, even if they do not hold the official title.",
+     "zh": "事实上的统治者",
+     "ctx": "国王是老萨勒曼，真正掌权的是王储——一个词说破沙特权力结构。",
+     "ex1": "He is the de facto leader of the party. 他是该党实际上的领导人。",
+     "ex2": "English is the de facto language of business here. 英语是此地事实上的商务语言。"
+    },
+    {
+     "w": "adversary",
+     "ipa": "/ˈædvəsəri/",
+     "pos": "n.",
+     "en": "An adversary is an opponent or enemy in a conflict or competition.",
+     "zh": "对手，敌手",
+     "ctx": "不用 enemy 而用“对手”，语气中性，把战争写成力量对比而非正义讨伐。",
+     "ex1": "She defeated a formidable adversary in the final. 她在决赛中战胜了一位强劲的对手。",
+     "ex2": "The two countries have been adversaries for decades. 这两个国家几十年来一直是对手。"
+    },
+    {
+     "w": "disastrous",
+     "ipa": "/dɪˈzɑːstrəs/",
+     "pos": "adj.",
+     "en": "Disastrous means extremely bad or causing great harm and failure.",
+     "zh": "灾难性的",
+     "ctx": "给十年前的也门战争定性：不但没赢，还帮对手练了级。",
+     "ex1": "The decision proved disastrous for the whole region. 这一决定对整个地区而言被证明是灾难性的。",
+     "ex2": "Poor planning led to a disastrous outcome. 糟糕的规划导致了灾难性的结果。"
+    }
+   ]
+  },
+  {
+   "en_html": "The Houthis have <mark class=\"voc\">carried out</mark> three fatal attacks on an international airport in the Saudi capital, Riyadh, over the past week. Those included a strike on a passenger terminal on Saturday that killed at least 12 people and injured more than 300, many of them <mark class=\"voc\">critically</mark>, according to the Saudi authorities. They have also hit at the heart of Prince Mohammed’s ambitions to <mark class=\"voc\">transform</mark> Saudi Arabia from an <mark class=\"voc\">insular</mark>, <mark class=\"voc\">oil-dependent</mark> nation into a global <mark class=\"voc\">hub</mark> for business and tourism.",
+   "zh": "过去一周，胡塞武装对沙特首都利雅得的一座国际机场发动了三次致命袭击，其中周六针对航站楼的袭击造成至少12人死亡、300多人受伤，许多人伤势危重——数字来自沙特当局。这些袭击也击中了穆罕默德王储宏图的核心：他要把沙特从一个封闭、依赖石油的国家，变成全球商业和旅游的枢纽。",
+   "notes": [
+    {
+     "w": "carry out",
+     "ipa": "/ˈkæri aʊt/",
+     "pos": "短语",
+     "en": "To carry out something means to perform or complete a task or action.",
+     "zh": "实施，执行",
+     "ctx": "用“实施”而非 attack，暗示三次袭击是有预谋、有组织的行动。",
+     "ex1": "The group carried out a series of coordinated attacks. 该组织实施了一系列协同袭击。",
+     "ex2": "The team carried out tests over six months. 团队在六个月内开展了测试。"
+    },
+    {
+     "w": "critically",
+     "ipa": "/ˈkrɪtɪkli/",
+     "pos": "adv.",
+     "en": "Critically, in a medical context, means in a very serious or life-threatening condition.",
+     "zh": "（伤情）危重地",
+     "ctx": "五个词很轻，信息很重：伤者危重，意味着死亡数字还可能上升。",
+     "ex1": "Ten passengers remain critically injured. 已有十名乘客仍伤势危重。",
+     "ex2": "She was critically ill but has since recovered. 她一度病危，但后来康复了。"
+    },
+    {
+     "w": "transform... into...",
+     "ipa": "/trænsˈfɔːm ˈɪntuː/",
+     "pos": "结构",
+     "en": "To transform something into something else means to change it completely, often improving it.",
+     "zh": "把……变成……",
+     "ctx": "一句话说完“2030 愿景”的野心：从石油国家转向商业与旅游枢纽。",
+     "ex1": "The city has transformed itself into a financial hub. 这座城市已将自己转型为金融中心。",
+     "ex2": "Technology has transformed the way we work. 科技已彻底改变了我们的工作方式。"
+    },
+    {
+     "w": "insular",
+     "ipa": "/ˈɪnsjələ(r)/",
+     "pos": "adj.",
+     "en": "Insular means narrow-minded or isolated, uninterested in outside ideas.",
+     "zh": "封闭的，与世隔绝的",
+     "ctx": "给改革前的沙特画像：只靠石油、不与外界来往。",
+     "ex1": "The village remained insular for generations. 这个村子几代人都与外界隔绝。",
+     "ex2": "Critics say the industry is too insular. 批评者称这个行业过于封闭。"
+    },
+    {
+     "w": "oil-dependent",
+     "ipa": "/ɔɪl dɪˈpendənt/",
+     "pos": "adj.",
+     "en": "Oil-dependent describes an economy that relies heavily on oil revenues.",
+     "zh": "依赖石油的",
+     "ctx": "与 insular 并列，精准概括旧经济结构，也暗示转型的紧迫。",
+     "ex1": "The oil-dependent economy is vulnerable to price swings. 依赖石油的经济对价格波动十分脆弱。",
+     "ex2": "The government wants to move away from an oil-dependent model. 政府希望摆脱依赖石油的模式。"
+    },
+    {
+     "w": "hub",
+     "ipa": "/hʌb/",
+     "pos": "n.",
+     "en": "A hub is the central or most important point of an activity, network or region.",
+     "zh": "枢纽，中心",
+     "ctx": "用“枢纽”而非 center，强调汇聚与辐射的功能。",
+     "ex1": "Dubai has become a global hub for trade. 迪拜已成为全球贸易枢纽。",
+     "ex2": "The airport is a major hub for connecting flights. 该机场是重要的中转枢纽。"
+    }
+   ]
+  },
+  {
+   "en_html": "But there is <mark class=\"voc\">no easy way</mark> for the crown prince to <mark class=\"voc\">halt</mark> the Houthis’ attacks. A political resolution with the militia has become increasingly difficult to reach as its confidence and demands grow, and attempting to <mark class=\"voc\">defeat</mark> the Houthis <mark class=\"voc\">militarily</mark> is unlikely to work either, analysts say. The group has <mark class=\"voc\">little to lose</mark>, and has become increasingly <mark class=\"voc\">battle-hardened</mark> after repeated confrontations with powerful, wealthier enemies.",
+   "zh": "但王储想叫停胡塞的袭击，并没有轻松的办法。随着这支武装的信心与诉求水涨船高，与之达成政治解决愈发困难；而试图在军事上击败它，同样不太可能奏效——分析人士如是说。这个组织没什么可失去的，又在与更强大、更富有的对手的一次次交手中，被磨炼得越发身经百战。",
+   "notes": [
+    {
+     "w": "no easy way",
+     "ipa": "/nəʊ ˈiːzi weɪ/",
+     "pos": "短语",
+     "en": "No easy way means there is no simple or painless solution.",
+     "zh": "没有轻松的办法",
+     "ctx": "不是没有办法，而是办法都不轻松——全文“死局”的第一次明说。",
+     "ex1": "There is no easy way to solve this problem. 这个问题没有轻松的解法。",
+     "ex2": "Taking the shortcut offers no easy way forward. 走捷径并不是轻松的前行之路。"
+    },
+    {
+     "w": "halt",
+     "ipa": "/hɔːlt/",
+     "pos": "v.",
+     "en": "To halt something means to stop it, especially something that is already moving or ongoing.",
+     "zh": "叫停，使停止",
+     "ctx": "比 stop 更正式，暗示这本该是要调动国家力量才能完成的动作。",
+     "ex1": "The government halted all new construction. 政府叫停了所有新开工项目。",
+     "ex2": "The train came to a halt at the station. 火车在车站停了下来。"
+    },
+    {
+     "w": "defeat",
+     "ipa": "/dɪˈfiːt/",
+     "pos": "v.",
+     "en": "To defeat someone means to win against them in a battle, war or contest.",
+     "zh": "击败",
+     "ctx": "提出“军事上击败”这条方案，随即被 unlikely to work 否定。",
+     "ex1": "They tried to defeat the rebels by force. 他们试图以武力击败叛军。",
+     "ex2": "The bill was defeated in parliament. 该法案在议会遭否决。"
+    },
+    {
+     "w": "militarily",
+     "ipa": "/ˌmɪləˈterəli/",
+     "pos": "adv.",
+     "en": "Militarily means by means of armed force or in military terms.",
+     "zh": "在军事上",
+     "ctx": "把军事手段单独拎出来评判，与政治途径形成双线对比。",
+     "ex1": "The conflict cannot be solved militarily. 这场冲突无法靠军事手段解决。",
+     "ex2": "The country is militarily stronger but politically isolated. 该国军事上更强，政治上却更孤立。"
+    },
+    {
+     "w": "little to lose",
+     "ipa": "/ˈlɪtl tuː luːz/",
+     "pos": "短语",
+     "en": "To have little to lose means to be in a position where you have almost nothing left that can be damaged, so you are not afraid of further risk.",
+     "zh": "没什么可失去的",
+     "ctx": "全文钥匙句：胡塞控制区已被打烂，所以任何威胁都失效。",
+     "ex1": "With nothing to lose, they decided to fight on. 他们已经无所顾忌，决定继续战斗。",
+     "ex2": "He felt he had little to lose by speaking out. 他觉得直言不讳也没什么可失去的。"
+    },
+    {
+     "w": "battle-hardened",
+     "ipa": "/ˈbætl ˈhɑːdnd/",
+     "pos": "adj.",
+     "en": "Battle-hardened describes troops who have become tough and skilful through repeated combat.",
+     "zh": "久经沙场的",
+     "ctx": "沙特每升级一次打击，反而给对手加了一层经验值。",
+     "ex1": "The battle-hardened unit was sent to the front line. 这支久经沙场的部队被派往前线。",
+     "ex2": "Years of conflict had hardened the fighters. 多年冲突把这些战士磨砺得更加坚韧。"
+    }
+   ]
+  },
+  {
+   "en_html": "“The only <mark class=\"voc\">realistic</mark> solution for the Saudis is <mark class=\"voc\">an end to</mark> the Iranian-American war, in which the U.S. <mark class=\"voc\">gets</mark> the Iranians to <mark class=\"voc\">commit the Houthis to</mark> <mark class=\"voc\">an end of hostilities</mark> as part of the overall deal,” said F. Gregory Gause, a Saudi specialist at the Middle East Institute. “Unfortunately for the Saudis, it is not clear how much President Trump <mark class=\"voc\">listens</mark> to them on this.”",
+   "zh": "中东研究所的沙特问题专家F. 格雷戈里·高斯说：“对沙特而言，唯一现实的出路，是结束伊朗和美国之间的这场战争——由美国出面，让伊朗约束胡塞，使其承诺停止敌对行动，作为整体协议的一部分。”他接着说：“对沙特不利的是，在这件事上，特朗普总统究竟听他们几分，并不明朗。”",
+   "notes": [
+    {
+     "w": "realistic",
+     "ipa": "/ˌriːəˈlɪstɪk/",
+     "pos": "adj.",
+     "en": "Realistic means achievable and sensible given the actual situation.",
+     "zh": "现实的，切实可行的",
+     "ctx": "“唯一现实”等于说其他方案不是不可能，而是根本行不通。",
+     "ex1": "We need a realistic plan, not a wish list. 我们需要一份现实的方案，而不是一厢情愿的清单。",
+     "ex2": "It is not realistic to expect instant results. 指望立竿见影是不现实的。"
+    },
+    {
+     "w": "an end to",
+     "ipa": "/ən end tuː/",
+     "pos": "短语",
+     "en": "An end to something means the termination or stopping of it.",
+     "zh": "……的终结",
+     "ctx": "专家把胡塞问题的钥匙，直接放到了华盛顿与德黑兰之间。",
+     "ex1": "Everyone hopes for an end to the fighting. 人人都希望战事结束。",
+     "ex2": "The deal brought an end to years of dispute. 这份协议结束了多年的争端。"
+    },
+    {
+     "w": "get sb to do sth",
+     "ipa": "/ɡet tuː duː/",
+     "pos": "结构",
+     "en": "To get someone to do something means to persuade or arrange for them to do it.",
+     "zh": "让某人做某事",
+     "ctx": "“美国让伊朗去约束胡塞”——一个“我着你，你看他”的三级传导结构。",
+     "ex1": "She got him to fix the leak. 她让他去修好了漏水。",
+     "ex2": "Can you get the team to deliver on time? 你能让团队按时交付吗？"
+    },
+    {
+     "w": "commit sb to sth",
+     "ipa": "/kəˈmɪt tuː/",
+     "pos": "结构",
+     "en": "To commit someone to something means to make them formally promise or obligate themselves to it.",
+     "zh": "使某人承诺（受约束于）某事",
+     "ctx": "用承诺把对方捆住，比单纯“要求”更有约束力。",
+     "ex1": "The company committed itself to cutting emissions by half. 该公司承诺将排放量减半。",
+     "ex2": "He refused to commit to a date. 他拒绝承诺具体日期。"
+    },
+    {
+     "w": "an end of hostilities",
+     "ipa": "/ən end əv hɒˈstɪlətiz/",
+     "pos": "短语",
+     "en": "An end of hostilities means the cessation of armed conflict.",
+     "zh": "敌对行动的结束",
+     "ctx": "用“结束敌对”而非“停火”，要的不是喘口气，而是彻底了结。",
+     "ex1": "Both sides agreed to a cessation of hostilities. 双方同意停止敌对行动。",
+     "ex2": "Hostilities resumed after the truce collapsed. 停火破裂后，敌对行动重新开始。"
+    },
+    {
+     "w": "listen to sb on sth",
+     "ipa": "/ˈlɪsn tuː/",
+     "pos": "结构",
+     "en": "To listen to someone on something means to take their views seriously regarding that matter.",
+     "zh": "在某事上听取某人意见",
+     "ctx": "一个平常词组，写出盟友之间的“分量焦虑”：沙特说的话还有几分重量。",
+     "ex1": "The president rarely listens to his advisers on trade. 总统在贸易问题上很少听取顾问的意见。",
+     "ex2": "She felt she was not being listened to. 她觉得没人听她的。"
+    }
+   ]
+  },
+  {
+   "en_html": "In two weeks, Prince Mohammed is planning to host his <mark class=\"voc\">flagship</mark> annual investment summit, during which world leaders, billionaires and executives were expected to <mark class=\"voc\">descend upon</mark> the city to <mark class=\"voc\">hobnob with</mark> Saudi officials and fund managers. “The problem for the Saudis is that they experience more damage from Houthi strikes on their infrastructure <mark class=\"voc\">than the other way around</mark>,” Mr. Gause said. “A strike on Riyadh Airport could lead someone thinking about investing in the country to reconsider.”",
+   "zh": "两周后，穆罕默德王储本将主办他的旗舰年度投资峰会，届时各国政要、亿万富翁和企业高管预计会涌入这座城市，与沙特官员和基金经理推杯换盏。高斯说：“沙特的问题是，胡塞打击其基础设施给它造成的损失，要比反过来大得多。一次对利雅得机场的袭击，就可能让那些正在考虑投资这个国家的人重新掂量。”",
+   "notes": [
+    {
+     "w": "flagship",
+     "ipa": "/ˈflæɡʃɪp/",
+     "pos": "n./adj.",
+     "en": "Flagship describes the most important or representative thing of its kind.",
+     "zh": "旗舰级的，招牌的",
+     "ctx": "强调这不是普通会议，而是王储压箱底的门面。",
+     "ex1": "The new phone is the company's flagship product. 这款新手机是公司的旗舰产品。",
+     "ex2": "Their flagship store opened in the city center. 他们的旗舰店在市中心开业。"
+    },
+    {
+     "w": "descend upon",
+     "ipa": "/dɪˈsend əˈpɒn/",
+     "pos": "短语",
+     "en": "To descend upon a place means to arrive in large numbers and with a sense of occasion.",
+     "zh": "蜂拥而至",
+     "ctx": "把政要富豪写成“浩浩荡荡杀过来”，语气略带调侃。",
+     "ex1": "Reporters descended upon the small town. 记者们蜂拥而至这座小镇。",
+     "ex2": "Tourists descend on the island every summer. 每年夏天游客涌入这座岛。"
+    },
+    {
+     "w": "hobnob with",
+     "ipa": "/ˈhɒbnɒb wɪð/",
+     "pos": "短语",
+     "en": "To hobnob with someone means to socialize with wealthy or powerful people in a familiar, informal way.",
+     "zh": "与……套近乎、应酬",
+     "ctx": "全篇最松弛、最“损”的一处：不是共商大计，而是扎堆 social。",
+     "ex1": "He spent the evening hobnobbing with investors. 他整晚都在和投资人套近乎。",
+     "ex2": "She dislikes hobnobbing with the rich. 她不喜欢和有钱人应酬。"
+    },
+    {
+     "w": "than the other way around",
+     "ipa": "/ðən ði ˈʌðə weɪ əˈraʊnd/",
+     "pos": "短语",
+     "en": "Than the other way around means 'than the reverse' — comparing one direction of an exchange with its opposite.",
+     "zh": "而不是反过来",
+     "ctx": "一句话点出真正的不对称：沙特有值钱的东西可打，胡塞没有。",
+     "ex1": "I thought you worked for her, not the other way around. 我以为你为她工作，而不是反过来。",
+     "ex2": "It is the students who teach the teacher, not the other way around. 是学生在教老师，而不是反过来。"
+    }
+   ]
+  }
+ ]
+}
