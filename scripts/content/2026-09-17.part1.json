@@ -1,0 +1,437 @@
+{
+  "date": "2026-09-17",
+  "title_tag": "美国有40%的年轻人在啃老！算完一笔账崩溃了：养大一个孩子超30万美元，可能还要养一辈子—— 美国彭博社外刊讲解第1170天",
+  "h1": "美国有40%的年轻人在啃老！算完一笔账崩溃了：养大一个孩子超30万美元，可能还要养一辈子",
+  "source_label": "Bloomberg",
+  "category": "美国彭博社外刊讲解 第1170天",
+  "read_minutes": 18,
+  "nav_hint": "Boomers Sacrifice Retirement Savings",
+  "headline": {
+    "en_html": "<span>Boomers Are <mark class=\"voc\">Sacrificing</mark> <mark class=\"voc\">Retirement Savings</mark> to <mark class=\"voc\">Support</mark> Their Grandkids</span>",
+    "zh": "婴儿潮一代，正掏空养老钱补贴孙辈。",
+    "notes": [
+      {
+        "w": "sacrifice",
+        "ipa": "/ˈsækrɪfaɪs/",
+        "pos": "v. & n.",
+        "en": "sacrifice (v.) means to give up something valuable in order to help someone or to get something more important",
+        "zh": "本义为“献祭”（sacri- 神圣的+ -fic 做= 为神而做），代际资助语境核心义为“主动舍弃自己的重要利益去成全他人”",
+        "ctx": "本文特指：婴儿潮一代自愿掏出本属于自己晚年的退休储蓄，用于补贴子女与孙辈的日常开销、住房与托育。",
+        "ex1": "Founders often sacrifice short-term profit for a bigger share of the market. 创业者常常牺牲短期利润，来换取更大的市场份额。",
+        "ex2": "She made real sacrifices to keep the family business running through the downturn. 为了让家族生意熬过这轮衰退，她做出了实实在在的牺牲。"
+      },
+      {
+        "w": "retirement savings",
+        "ipa": "/rɪˈtaɪərmənt ˈseɪvɪŋz/",
+        "pos": "短语",
+        "en": "retirement savings means the money a person has put aside to live on after they stop working",
+        "zh": "本义为“退休后赖以生活的积蓄”（retire：re- 往回+ tire 拉= 撤回），个人理财语境核心义为“养老本金”",
+        "ctx": "本文特指：祖辈们原本用于旅行、医疗、护理的那笔钱，如今被挪去支付孙辈的尿布、汽油、车险与房贷差额。",
+        "ex1": "Analysts warn that early withdrawals can wipe out decades of retirement savings. 分析师警告，提前支取可能会抹掉几十年积累的养老储蓄。",
+        "ex2": "He moved his retirement savings into bonds after the market turned volatile. 市场转向动荡后，他把养老储蓄转投了债券。"
+      },
+      {
+        "w": "support",
+        "ipa": "/səˈpɔːrt/",
+        "pos": "v. & n.（熟词僻义）",
+        "en": "support (v.) means to provide someone with money for the things they need",
+        "zh": "本义为“从下方托住、支撑”，家庭经济语境核心义为“（出钱）供养、养活”，不是“支持某人的观点”",
+        "ctx": "本文特指：祖辈用现金、住房与无偿照护，实际承担孙辈乃至成年子女的生活费用。",
+        "ex1": "After the layoffs, he took a second job to support his two children. 裁员之后，他又找了一份工作来养活两个孩子。",
+        "ex2": "The startup could no longer support its staff without another round of funding. 没有新一轮融资，这家初创公司已经养不起自己的员工了。"
+      }
+    ]
+  },
+  "paragraphs": [
+    {
+      "en_html": "The <mark class=\"voc\">Bank of Mom and Dad</mark> is <mark class=\"voc\">staying open</mark> for the grandkids as the cost of <mark class=\"voc\">raising</mark> a child in the US <mark class=\"voc\">tops</mark> $300,000 for the first time this year — and that doesn’t include college tuition. Nearly two in five parents of young children expect to receive financial help — or ask for it — from their own parents or grandparents in the next year. Among them, 47% said they will receive cash for <mark class=\"voc\">day-to-day</mark> <mark class=\"voc\">basics</mark> from <mark class=\"voc\">relatives</mark>, according to the BMO Real Financial Progress Index survey. A quarter said they expect relatives to <mark class=\"voc\">contribute to</mark> their children’s 529 or other savings accounts.",
+      "zh": "“爸妈银行”的窗口，为了孙辈迟迟没有关闭——今年，美国养大一个孩子的成本首次突破30万美元，这还没算上大学学费。将近五分之二的幼儿家长预计，未来一年里他们会接受、或者不得不开口向自己的父母、祖父母求助。BMO“真实财务进展指数”调查显示，这些人当中，47%会从亲戚手里拿到现金，用于柴米油盐的日常开销；还有四分之一的人指望着亲戚往孩子的529教育账户或其他储蓄账户里添一笔。",
+      "notes": [
+        {
+          "w": "the Bank of Mom and Dad",
+          "ipa": "/ðə bæŋk əv mɑːm ənd dæd/",
+          "pos": "固定短语",
+          "en": "the Bank of Mom and Dad means parents treated as a source of money that never has to be repaid",
+          "zh": "本义为“爸妈银行”（把父母比作一家银行），代际财务语境核心义为“无息、无期限、不催还的父母资助”",
+          "ctx": "本文特指：文章开篇的题眼——本该“打烊”的父母财源，因孙辈开销而继续营业。",
+          "ex1": "Roughly half of first-time buyers in the city borrowed from the Bank of Mom and Dad. 这座城市里大约一半的首次购房者，都向“爸妈银行”借了钱。",
+          "ex2": "Economists joke that the Bank of Mom and Dad is now a major mortgage lender. 经济学家开玩笑说，“爸妈银行”如今已是一家主要的房贷机构。"
+        },
+        {
+          "w": "stay open",
+          "ipa": "/steɪ ˈoʊpən/",
+          "pos": "短语",
+          "en": "stay open means to continue to be available or in business",
+          "zh": "本义为“保持营业状态”（stay + 形容词= 维持某状态），比喻语境核心义为“（资助渠道）迟迟没有关闭”",
+          "ctx": "本文特指：祖辈本应随退休而终止的经济输出，因孙辈需求而持续开放。",
+          "ex1": "The store will stay open through the holidays to capture late shoppers. 这家店整个假期都会营业，以抓住那些临时才来的顾客。",
+          "ex2": "Regulators asked the bank to stay open an extra hour during the payment outage. 支付系统故障期间，监管方要求该银行延长一小时营业。"
+        },
+        {
+          "w": "raise",
+          "ipa": "/reɪz/",
+          "pos": "v.",
+          "en": "raise (v.) means to care for a child until he or she is fully grown",
+          "zh": "本义为“举起、使升高”，育儿语境核心义为“抚养、养育”",
+          "ctx": "本文特指：把一个孩子从出生带到18岁的全过程及其累计成本。",
+          "ex1": "The couple raised three children on a single income in a high-cost city. 这对夫妻在一座高消费城市里，靠一份收入养大了三个孩子。",
+          "ex2": "He was raised by his grandparents while his parents worked abroad. 父母在国外工作期间，他是由祖父母带大的。"
+        },
+        {
+          "w": "top",
+          "ipa": "/tɑːp/",
+          "pos": "v.（熟词僻义·精讲）",
+          "en": "top (v.) means to be greater than a particular amount or number",
+          "zh": "本义为“到达顶端并越过”，财经数据语境核心义为“（数额）突破、超过某个大关”",
+          "ctx": "本文特指：美国养育一个孩子至18岁的成本，今年首次冲破30万美元这道关口。",
+          "ex1": "Quarterly revenue topped $2 billion for the first time since the spin-off. 自分拆以来，季度营收首次突破20亿美元。",
+          "ex2": "Shipments topped last year's record by a wide margin. 出货量大幅超过了去年的纪录。"
+        },
+        {
+          "w": "day-to-day",
+          "ipa": "/ˌdeɪ tə ˈdeɪ/",
+          "pos": "adj.",
+          "en": "day-to-day means happening every day as part of ordinary life",
+          "zh": "本义为“一天接一天的”，生活开销语境核心义为“日常的、每天都要发生的”",
+          "ctx": "本文特指：47%受访者从亲戚处拿到现金所要应付的那些开销——柴米油盐一类。",
+          "ex1": "The founder stepped back from day-to-day operations after the merger. 合并之后，创始人退出了日常运营。",
+          "ex2": "Inflation is felt most in day-to-day expenses like food and fuel. 通胀在食品、燃料这类日常开销上感受最明显。"
+        },
+        {
+          "w": "basics",
+          "ipa": "/ˈbeɪsɪks/",
+          "pos": "n.（常用复数）",
+          "en": "basics means the most essential things that people need in order to live",
+          "zh": "本义为“基础、根本”，民生语境核心义为“生活必需品”",
+          "ctx": "本文特指：与“投资”“储蓄”相对的那一端——吃、穿、用等最底层的开销。",
+          "ex1": "The charity provides basics like food, diapers and bus fare. 这家慈善机构提供食品、尿布和公交费这类基本必需品。",
+          "ex2": "After the layoffs, the household budget was cut back to the bare basics. 裁员之后，这个家的预算被砍到只剩最基本的开销。"
+        },
+        {
+          "w": "relative",
+          "ipa": "/ˈrelətɪv/",
+          "pos": "n.",
+          "en": "relative (n.) means a member of your family",
+          "zh": "本义为“有关联的人”（relate 关联），家庭语境核心义为“亲戚、亲属”",
+          "ctx": "本文特指：向年轻父母提供现金与账户注资的那些长辈，主要是祖父母与姻亲。",
+          "ex1": "She moved in with relatives while she looked for permanent housing. 在找到长期住处之前，她搬去和亲戚同住。",
+          "ex2": "Only a distant relative came forward to claim the estate. 只有一位远房亲戚出面认领了这笔遗产。"
+        },
+        {
+          "w": "contribute to",
+          "ipa": "/kənˈtrɪbjuːt tuː/",
+          "pos": "固定短语",
+          "en": "contribute to means to give money or help to something, or to be one of the causes of something",
+          "zh": "本义为“共同给予”（con- 共同+ tribute 给予），资金语境核心义为“向……注资、出一份钱”；引申义“导致”",
+          "ctx": "本文特指：亲戚往孙辈的529教育账户或其他储蓄账户里打钱；此词在第9、10段再度出现，资金流向却已调转。",
+          "ex1": "Several partners contributed to the seed round before the product launched. 产品上线之前，就有几位合伙人参与了种子轮出资。",
+          "ex2": "Weak overseas demand contributed to the drop in quarterly shipments. 海外需求疲软是季度出货量下滑的原因之一。"
+        }
+      ]
+    },
+    {
+      "en_html": "“Families trying to <mark class=\"voc\">figure out</mark> how they’re going to <mark class=\"voc\">solve for</mark> these increased costs are really trying to <mark class=\"voc\">lean on</mark> their <mark class=\"voc\">extended families</mark>,” said Robin Growley, BMO’s US head of consumer products. Parents with family support said they <mark class=\"voc\">saved $1,915 a year on</mark> <mark class=\"voc\">childcare</mark> and <mark class=\"voc\">babysitting</mark>, and $1,443 on <mark class=\"voc\">groceries</mark>.",
+      "zh": "“那些为上涨的开销翻来覆去算账的家庭，是真的在把身子往大家庭那边倚了，”BMO美国区消费产品负责人罗宾·格劳利说。有家里帮衬的父母算过一笔账：一年下来，托儿和临时看娃省下1,915美元，买菜省下1,443美元。",
+      "notes": [
+        {
+          "w": "figure out",
+          "ipa": "/ˈfɪɡjər aʊt/",
+          "pos": "固定短语",
+          "en": "figure out means to finally understand something or find the answer to a problem",
+          "zh": "本义为“盘算到底、算出结果”，日常口语语境核心义为“想明白、琢磨出办法”",
+          "ctx": "本文特指：那些家庭反复盘算却依旧算不平的育儿账单。",
+          "ex1": "The team is still trying to figure out why churn spiked in March. 团队还在琢磨，三月份的用户流失率为什么会突然飙升。",
+          "ex2": "Don't worry about the budget tonight—we'll figure it out tomorrow. 今晚别为预算发愁了，明天我们会想出办法的。"
+        },
+        {
+          "w": "solve for",
+          "ipa": "/sɑːlv fɔːr/",
+          "pos": "短语",
+          "en": "solve for means to work out an answer to a problem, as if it were a mathematical equation",
+          "zh": "本义为数学上的“解出（未知数）”（solve for x），美式口语语境核心义为“（像解方程一样）设法算平、解决”",
+          "ctx": "本文特指：BMO高管口中那些家庭面对暴涨开销时反复演算的状态。",
+          "ex1": "The finance team is trying to solve for a shortfall of about $40 million. 财务团队正设法解决大约4000万美元的资金缺口。",
+          "ex2": "You can't solve for growth and margin at the same time in year one. 第一年里，你没法同时把增长和利润率都算平。"
+        },
+        {
+          "w": "lean on",
+          "ipa": "/liːn ɑːn/",
+          "pos": "固定短语（精讲）",
+          "en": "lean on means to depend on someone for support, especially during a difficult time",
+          "zh": "本义为“身子一歪，靠在某物上”，家庭支持语境核心义为“（站不住了才去）依靠、指望某人”，带有“原本能自立”的转折意味",
+          "ctx": "本文特指：美国年轻家庭从“核心家庭独立”退回到向大家庭求援的姿态转变。",
+          "ex1": "Small exporters have leaned on state credit lines to survive the tariff shock. 小型出口商靠着国家信贷额度，才熬过了这轮关税冲击。",
+          "ex2": "He leaned on his former colleagues when the company suddenly folded. 公司突然倒闭时，他向老同事们求助了。"
+        },
+        {
+          "w": "extended family",
+          "ipa": "/ɪkˈstendɪd ˈfæməli/",
+          "pos": "固定短语（文化概念）",
+          "en": "extended family means a family group that includes grandparents, aunts, uncles and cousins as well as parents and children",
+          "zh": "本义为“被扩展开的家庭”，社会学语境核心义为“大家庭”，与nuclear family（核心家庭：父母+未成年子女）相对",
+          "ctx": "本文特指：美国家庭正在退回去依靠的那个更大的亲属网络，意味着战后“核心家庭独立”模式的松动。",
+          "ex1": "In many economies, the extended family still acts as the real safety net. 在许多经济体里，大家庭仍然充当着真正的安全网。",
+          "ex2": "Rising rents have pushed more young couples into multigenerational households. 房租上涨把更多年轻夫妻推进了几代同堂的家庭。"
+        },
+        {
+          "w": "save on",
+          "ipa": "/seɪv ɑːn/",
+          "pos": "短语",
+          "en": "save on means to spend less money on a particular thing than you otherwise would",
+          "zh": "本义为“在某项上省下”，家庭开支语境核心义为“在……方面节省（开销）”，介词固定为on",
+          "ctx": "本文特指：有长辈帮衬的父母一年在托育上省1,915美元、在买菜上省1,443美元。",
+          "ex1": "Switching suppliers helped the chain save on logistics by about 12%. 更换供应商帮这家连锁企业把物流成本省下了约12%。",
+          "ex2": "Families are trying to save on groceries by buying store brands. 各家正试着靠买自有品牌来省下买菜钱。"
+        },
+        {
+          "w": "childcare",
+          "ipa": "/ˈtʃaɪldker/",
+          "pos": "n.",
+          "en": "childcare means the professional or paid care of children while their parents work",
+          "zh": "本义为“对儿童的照护”，育儿经济语境核心义为“（机构化、付费的）托育服务”，与临时性的babysitting 相区别",
+          "ctx": "本文特指：美国家庭最沉重的开销项之一，也是祖辈帮衬能省下最大一笔钱的地方。",
+          "ex1": "Childcare costs now exceed rent for many households in big cities. 在许多大城市家庭里，托育费用如今已经超过了房租。",
+          "ex2": "The bill would expand subsidies for affordable childcare. 该法案将扩大对平价托育服务的补贴。"
+        },
+        {
+          "w": "babysitting",
+          "ipa": "/ˈbeɪbisɪtɪŋ/",
+          "pos": "n.",
+          "en": "babysitting means looking after a child for a short time while the parents are out",
+          "zh": "本义为“（临时）坐在孩子身边看着”，家庭照护语境核心义为“临时看孩子”，通常按小时计酬",
+          "ctx": "本文特指：马利后来从半退休治疗师变成的那个“常驻”角色，也是祖辈无偿承担的主要劳动形式。",
+          "ex1": "Teenagers in the neighborhood charge about $20 an hour for babysitting. 这一带的青少年看孩子的收费大约是每小时20美元。",
+          "ex2": "Free babysitting from relatives is worth thousands of dollars a year. 亲戚免费帮着看孩子，一年下来值好几千美元。"
+        },
+        {
+          "w": "groceries",
+          "ipa": "/ˈɡroʊsəriz/",
+          "pos": "n.（常用复数）",
+          "en": "groceries means the food and other goods bought regularly at a supermarket",
+          "zh": "本义为“杂货商出售的货品”，家庭开销语境核心义为“日常采买的食品与日用品”，即中文口语的“买菜”",
+          "ctx": "本文特指：有长辈帮衬的父母一年省下1,443美元的那一项。",
+          "ex1": "Household grocery bills rose faster than wages for a third straight year. 家庭买菜的开支连续第三年跑赢了工资涨幅。",
+          "ex2": "He stops for groceries on the way home from the office. 他下班回家路上顺道买趟菜。"
+        }
+      ]
+    },
+    {
+      "en_html": "Gisele Ayora, a 36-year-old marketing professional and mother of three, said the biggest financial <mark class=\"voc\">boosts</mark> she got from her <mark class=\"voc\">in-laws</mark> were housing and childcare. They bought her family a $600,000, six-bedroom home in Manahawkin, New Jersey. They asked the couple to pay about $1,700 a month — roughly what they had been paying to rent a two-bedroom apartment — about half of what a <mark class=\"voc\">mortgage</mark> would’ve cost them. Her mother-in-law also <mark class=\"voc\">stepped in</mark> to <mark class=\"voc\">watch</mark> the kids when Ayora had to work late or travel for her job.",
+      "zh": "吉赛尔·阿约拉，36岁，做市场营销，三个孩子的母亲。她说，公婆给她最大的两笔托举，是房子和带娃。他们在新泽西州马纳霍金给她家买下一套60万美元的六居室，只让小两口每月交1,700美元左右——这差不多就是他们从前租一套两居室的开销，只相当于自己贷款买房月供的一半。每逢阿约拉加班或出差，婆婆还会顶上来，把孩子接过去带。",
+      "notes": [
+        {
+          "w": "boost",
+          "ipa": "/buːst/",
+          "pos": "n. & v.（精讲）",
+          "en": "boost (n.) means a push or increase that helps someone or something improve",
+          "zh": "本义为“从下往上托举一把”，经济援助语境核心义为“（把人送到其自身够不到的高度的）助推、提振”，力度重于help",
+          "ctx": "本文特指：阿约拉从公婆处获得的两项最大助力——一套六居室住房与无偿的托育支持。",
+          "ex1": "The tax credit gave a much-needed boost to first-time homebuyers. 这项税收抵免给首次购房者带来了一剂及时的助力。",
+          "ex2": "New export orders boosted quarterly profits by nearly a fifth. 新增出口订单把季度利润拉高了将近五分之一。"
+        },
+        {
+          "w": "in-laws",
+          "ipa": "/ˈɪn lɔːz/",
+          "pos": "n.（复数·文化概念）",
+          "en": "in-laws means the parents and other relatives of your husband or wife",
+          "zh": "本义为“法律上的亲属”（通过婚姻而非血缘产生），亲属称谓语境核心义为“公婆／岳父母；配偶那边的家人”——英语不区分夫方与妻方，与汉语精细的宗族称谓体系形成鲜明对照",
+          "ctx": "本文特指：出资为阿约拉一家购房、并承担临时照护的丈夫父母。",
+          "ex1": "They spent the first two years of marriage living with his in-laws to save on rent. 为了省房租，他们婚后头两年一直和公婆同住。",
+          "ex2": "Her mother-in-law covers the school run three days a week. 她婆婆一周有三天负责接送孩子上下学。"
+        },
+        {
+          "w": "mortgage",
+          "ipa": "/ˈmɔːrɡɪdʒ/",
+          "pos": "n. & v.（注意t 不发音·精讲）",
+          "en": "mortgage (n.) means a loan taken out to buy property, with the property itself used as security",
+          "zh": "本义为“死契”（mort- 死+ -gage 抵押承诺：债清则契约作废，债不清则权利消亡，两头皆“死”），房产金融语境核心义为“房屋抵押贷款”",
+          "ctx": "本文特指：阿约拉夫妇每月付给公婆的1,700美元，仅相当于自行贷款购房月供的一半。",
+          "ex1": "Rising rates pushed the average 30-year mortgage payment to a record high. 利率上行把30年期房贷的平均月供推上了历史新高。",
+          "ex2": "They paid off the mortgage nine years early by making extra payments. 靠着额外还款，他们提前九年还清了房贷。"
+        },
+        {
+          "w": "step in",
+          "ipa": "/step ɪn/",
+          "pos": "固定短语",
+          "en": "step in means to become involved in a difficult situation in order to help",
+          "zh": "本义为“往前迈一步、走进圈内”，援助语境核心义为“（在出现困难的关键时刻）介入、出手相助”，强调时机而非常态",
+          "ctx": "本文特指：阿约拉加班或出差时，婆婆临时顶上照看孩子——与第5段马利成为“regular babysitter”的常态化照护形成对比。",
+          "ex1": "The central bank stepped in after two regional lenders failed in a week. 一周内两家地区性银行倒闭后，央行出手干预。",
+          "ex2": "A colleague stepped in to run the meeting when she was called away. 她被临时叫走时，一位同事顶上主持了会议。"
+        },
+        {
+          "w": "watch",
+          "ipa": "/wɑːtʃ/",
+          "pos": "v.（熟词僻义）",
+          "en": "watch (v.) means to take care of someone or something for a short period of time",
+          "zh": "本义为“注视、守望”，日常照护语境核心义为“（临时）照看、看管”，不是“观看”",
+          "ctx": "本文特指：婆婆在阿约拉工作脱不开身时替她看孩子。",
+          "ex1": "Could you watch my laptop while I grab a coffee? 我去买杯咖啡，你能帮我看下电脑吗？",
+          "ex2": "Her neighbor watches the kids on the two evenings she works late. 她加班的那两个晚上，是邻居帮着看孩子。"
+        }
+      ]
+    },
+    {
+      "en_html": "For some young families, the help can <mark class=\"voc\">feel like</mark> getting part of an <mark class=\"voc\">inheritance</mark> early, when they need it most, said Lindsey Stanberry, founder of the personal finance website The Purse. Baby Boomers are <mark class=\"voc\">sitting on</mark> a lot of wealth, while their <mark class=\"voc\">adult children</mark> are facing <mark class=\"voc\">steep</mark> housing and childcare costs. But for grandparents without as much to <mark class=\"voc\">spare</mark>, that support can <mark class=\"voc\">eat into</mark> their own retirement plans.",
+      "zh": "对一些年轻家庭来说，这笔钱更像是在最缺钱的年纪，提前分到了一部分遗产——个人理财网站The Purse 的创始人林赛·斯坦伯里这样说。婴儿潮一代坐拥着大笔财富，他们的成年子女却在硬扛陡得吓人的房价和育儿账单。可是，对那些本就匀不出多少余钱的祖父母而言，这份资助，是在一口一口啃掉他们自己的晚年。",
+      "notes": [
+        {
+          "w": "feel like",
+          "ipa": "/fiːl laɪk/",
+          "pos": "固定短语",
+          "en": "feel like means to seem similar to something; it can also mean to want to do something",
+          "zh": "本义为“感觉如同”，主观感受语境核心义为“感觉像是……”（后接名词或动名词）；另一高频义为“想做某事”",
+          "ctx": "本文特指：年轻家庭把长辈的资助体验成“提前领到的一份遗产”。",
+          "ex1": "After three rounds of layoffs, every Monday feels like a countdown. 经过三轮裁员，每个周一都像是在倒计时。",
+          "ex2": "I don't feel like arguing about the budget again tonight. 今晚我不想再为预算争论了。"
+        },
+        {
+          "w": "inheritance",
+          "ipa": "/ɪnˈherɪtəns/",
+          "pos": "n.（精讲）",
+          "en": "inheritance means money or property that you receive from someone after they die",
+          "zh": "本义为“继承所得”（in- 进入+ herit 继承人），家庭财富语境核心义为“（具体的）遗产、继承财产”，与偏抽象文化传承的heritage 相区别",
+          "ctx": "本文特指：理财网站创始人Stanberry 的判断——长辈现在给的钱，实质是“提前支付的遗产”，恰好落在子女最缺钱的年纪。",
+          "ex1": "He used a small inheritance from his aunt as the deposit on a first flat. 他用姑妈留下的一小笔遗产，付了第一套公寓的首付。",
+          "ex2": "Several countries have raised inheritance tax as wealth transfers accelerate. 随着财富转移加速，多个国家上调了遗产税。"
+        },
+        {
+          "w": "sit on",
+          "ipa": "/sɪt ɑːn/",
+          "pos": "固定短语（熟词僻义·精讲）",
+          "en": "sit on means to own or control a large amount of something, especially money, without using it",
+          "zh": "本义为“坐在……上面”，财富语境核心义为“坐拥却不动用”，隐含“为何不拿出来用”的意味；另有“把事情压着不办”之义",
+          "ctx": "本文特指：婴儿潮一代手中沉淀的巨额财富——约占全美家庭财富51%、逾85万亿美元。",
+          "ex1": "The group is sitting on more than $30 billion in cash while rivals expand. 在对手扩张之际，这家集团却守着超过300亿美元的现金按兵不动。",
+          "ex2": "Management sat on the report for months before releasing it. 管理层把这份报告压了好几个月才发布。"
+        },
+        {
+          "w": "adult children",
+          "ipa": "/əˈdʌlt ˈtʃɪldrən/",
+          "pos": "固定短语（社会学概念）",
+          "en": "adult children means grown-up sons and daughters, especially ones who still depend on their parents financially",
+          "zh": "本义为“已成年的子女”（一个刻意矛盾的搭配），家庭社会学语境核心义为“成年却仍在经济上依附父母的子女”",
+          "ctx": "本文特指：Lorie Jones 客户所资助的对象，以及第9段书名《Stop Raising Adult-Children》所针对的群体。",
+          "ex1": "A growing share of adult children now live at home well past thirty. 如今有越来越多的成年子女，过了三十岁仍住在家里。",
+          "ex2": "Advisers see more clients funding adult children and aging parents at once. 顾问们看到越来越多客户同时供养着成年子女和年迈父母。"
+        },
+        {
+          "w": "steep",
+          "ipa": "/stiːp/",
+          "pos": "adj.（熟词僻义·精讲）",
+          "en": "steep (adj.) means unreasonably high in price, or rising and falling very sharply",
+          "zh": "本义为“陡峭的”，价格语境核心义为“（价格）高得离谱的；（涨跌）急剧的”——形容的是曲线的斜率，涨跌皆可用",
+          "ctx": "本文特指：年轻一代所面对的住房与托育成本，陡得如同一面爬不上去的坡。",
+          "ex1": "Buyers walked away after a steep rise in closing costs. 交易成本急剧上升后，买家们纷纷退出。",
+          "ex2": "Forty dollars for a taxi to the airport? That's a bit steep. 去机场的出租车要四十美元？这也太贵了点。"
+        },
+        {
+          "w": "spare",
+          "ipa": "/sper/",
+          "pos": "v.（熟词僻义·精讲）",
+          "en": "spare (v.) means to have enough of something so that you can give some of it to someone else",
+          "zh": "本义为“节省下来、留出”，资源分配语境核心义为“匀得出、拿得出（多余的钱或时间）”——前提是自身先有富余",
+          "ctx": "本文特指：那些本就没有多少余钱、却仍在往外掏的祖父母，与前句“坐拥巨富”者形成分层。",
+          "ex1": "They finished the build with two weeks to spare before the deadline. 他们在截止期前两周就完成了工程，还有富余。",
+          "ex2": "The department can't spare anyone until the audit is over. 审计结束之前，这个部门一个人都抽不出来。"
+        },
+        {
+          "w": "eat into",
+          "ipa": "/iːt ˈɪntuː/",
+          "pos": "固定短语（精讲）",
+          "en": "eat into means to gradually use up or reduce something valuable, especially money or time",
+          "zh": "本义为“一口一口啃进去”，财务损耗语境核心义为“逐渐蚕食、不知不觉侵蚀”——强调渐进、无感、事后才发现",
+          "ctx": "本文特指：对余钱有限的祖辈而言，这份资助正一点点啃掉他们自己的养老计划；第7段的put a dent in 是其结果显形。",
+          "ex1": "Higher freight costs are eating into margins across the whole sector. 运费上涨正在蚕食整个行业的利润率。",
+          "ex2": "Long commutes eat into the time she would rather spend with her kids. 漫长的通勤，啃掉了她本想留给孩子的时间。"
+        }
+      ]
+    },
+    {
+      "en_html": "Haron Marlee estimates she spent $24,000 in one year <mark class=\"voc\">covering</mark> <mark class=\"voc\">everything from diapers to gas to car insurance</mark> for her 36-year-old daughter, Melissa, and grandchildren. She <mark class=\"voc\">went from</mark> a <mark class=\"voc\">semi-retired</mark> therapist to a regular babysitter and even <mark class=\"voc\">picked up bartending shifts</mark> to help support them. “Those burdens fundamentally changed my <mark class=\"voc\">finances</mark>, my retirement plans,” said Marlee, a 59-year-old who now lives in Ocean County, New Jersey. Her daughter, a law school graduate, said she was initially embarrassed by the situation. But when her marriage ended, she <mark class=\"voc\">struggled to find a job</mark> and it was the best option to <mark class=\"voc\">stay afloat</mark>.",
+      "zh": "哈伦·马利估算，仅一年之间，她就为36岁的女儿梅丽莎和几个外孙掏了2.4万美元——从尿不湿到汽油，再到车险，样样是她付。她从一个半退休的心理治疗师，变成了常驻的保姆，甚至还去酒吧接起了调酒的班次，只为贴补他们。“那些担子，从根上改掉了我的财务，也改掉了我的退休计划，”马利说。她今年59岁，现住在新泽西州海洋县。她的女儿是法学院毕业生，说自己起初实在觉得难堪。可婚姻散了以后，工作又迟迟找不到，这已经是她能抓住的、最不坏的一根浮木。",
+      "notes": [
+        {
+          "w": "cover",
+          "ipa": "/ˈkʌvər/",
+          "pos": "v.（熟词僻义·精讲）",
+          "en": "cover (v.) means to be enough money to pay for something",
+          "zh": "本义为“覆盖、铺满”（钱如一块布，把账单盖住），费用语境核心义为“支付、承担（费用）；（保险）赔付”",
+          "ctx": "本文特指：马利为女儿一家承担的全部开销——从尿布到汽油到车险；第6段理财顾问客户的covering expenses 与之呼应。",
+          "ex1": "Will fifty dollars cover the delivery fee and tip? 五十美元够付配送费和小费吗？",
+          "ex2": "The policy doesn't cover damage caused by flooding. 这份保单不赔付洪水造成的损失。"
+        },
+        {
+          "w": "everything from A to B",
+          "ipa": "/ˈevriθɪŋ frəm/",
+          "pos": "句式结构",
+          "en": "everything from A to B is used to show the full range of things included, by naming the extremes",
+          "zh": "本义为“从A到B之间的一切”，修辞语境核心义为“以两端跨度代替逐项罗列，暗示‘样样都算在内’”",
+          "ctx": "本文特指：从几十美元的尿布，到数百美元的汽油，再到上千美元的车险——由最琐碎到最大宗，全由马利支付。",
+          "ex1": "The store sells everything from screwdrivers to industrial generators. 这家店什么都卖，从螺丝刀到工业发电机。",
+          "ex2": "Their portfolio ranges from early-stage startups to listed manufacturers. 他们的投资组合，从早期初创公司一直到上市制造企业都有。"
+        },
+        {
+          "w": "go from A to B",
+          "ipa": "/ɡoʊ frəm/",
+          "pos": "句式结构",
+          "en": "go from A to B means to change from one state or role into another",
+          "zh": "本义为“从A走到B”，身份转变语境核心义为“从……变成……”，并置前后身份以凸显落差",
+          "ctx": "本文特指：马利从“半退休的心理治疗师”降为“常驻保姆”——从有薪专业人士到无薪照护者。",
+          "ex1": "The firm went from market leader to takeover target in under two years. 不到两年，这家公司就从市场领头羊沦为被收购的目标。",
+          "ex2": "Conditions on the ground went from bad to worse after the storm. 风暴过后，当地情况每况愈下。"
+        },
+        {
+          "w": "semi-retired",
+          "ipa": "/ˌsemi rɪˈtaɪərd/",
+          "pos": "adj.",
+          "en": "semi-retired means having stopped full-time work but still doing some paid work",
+          "zh": "本义为“半退休的”（semi- 半），职业状态语境核心义为“已退出全职工作、仍保留部分工作”",
+          "ctx": "本文特指：马利原本的理想状态——半退休、兼职工作、打网球，后被彻底改写。",
+          "ex1": "A semi-retired accountant still takes on a handful of clients each spring. 一位半退休的会计师，每年春天仍会接几个客户。",
+          "ex2": "Chip demand rebounded as semiconductor inventories finally cleared. 随着半导体库存终于消化完毕，芯片需求回暖。"
+        },
+        {
+          "w": "pick up shifts",
+          "ipa": "/pɪk ʌp ʃɪfts/",
+          "pos": "固定短语",
+          "en": "pick up shifts means to take on extra work periods, usually to earn more money",
+          "zh": "本义为“顺手捡起（排班表上的）班次”，劳动经济语境核心义为“额外多接班”——英美报道中标志家庭现金紧张的典型信号",
+          "ctx": "本文特指：马利在白天带孙之外，晚上还去酒吧接调酒班次以贴补女儿一家。",
+          "ex1": "Nurses have been picking up extra shifts to cover chronic staffing gaps. 护士们一直在多接班次，以填补长期的人手缺口。",
+          "ex2": "He picked up a second job at a warehouse after his hours were cut. 工时被削减后，他又在仓库找了第二份工作。"
+        },
+        {
+          "w": "finances",
+          "ipa": "/ˈfaɪnænsɪz/",
+          "pos": "n.（复数形式）",
+          "en": "finances means the money that a person or organization has and the way it is managed",
+          "zh": "本义为“财务事宜”，个人理财语境核心义为“（某人或某机构的）财务状况、财力”——须与不可数的finance（金融、财政）区分",
+          "ctx": "本文特指：马利被“那些担子”改写的个人财务全局。",
+          "ex1": "She spent the summer getting her finances in order before quitting. 辞职之前，她用整个夏天把自己的财务理顺了。",
+          "ex2": "Strained public finances forced the city to delay the transit project. 财政吃紧迫使该市推迟了这个交通项目。"
+        },
+        {
+          "w": "struggle to do",
+          "ipa": "/ˈstrʌɡl/",
+          "pos": "v.",
+          "en": "struggle (v.) means to try very hard to do something that you find difficult",
+          "zh": "本义为“搏斗、挣扎”（自带身体用力的画面），困境语境核心义为“吃力地、艰难地做某事”",
+          "ctx": "本文特指：梅丽莎婚姻结束后迟迟找不到工作的处境，与下文stay afloat 构成同一组“水中挣扎”意象。",
+          "ex1": "Independent bookstores are struggling to compete on price. 独立书店在价格上苦苦支撑，难以竞争。",
+          "ex2": "Many graduates struggle to make ends meet in their first year of work. 许多毕业生在工作头一年都勉强收支相抵。"
+        },
+        {
+          "w": "stay afloat",
+          "ipa": "/steɪ əˈfloʊt/",
+          "pos": "固定短语（全文王牌词·伏笔）",
+          "en": "stay afloat means to have just enough money or strength to survive and avoid sinking or failing",
+          "zh": "本义为“保持漂浮、不沉下去”（a- 处于……状态+ float 漂浮），生存语境核心义为“勉强维持、不至于垮掉”——不是“好起来”，只是“还没沉”",
+          "ctx": "本文特指：梅丽莎婚姻破裂、失业之后仅能维持生计的状态；此词与第6段keep sb afloat、第10段riptide 构成贯穿全文的“水”隐喻链。",
+          "ex1": "Two rounds of emergency lending kept the airline afloat through the winter. 两轮紧急贷款让这家航空公司撑过了冬天。",
+          "ex2": "Freelancers often take on low-paying work simply to stay afloat between projects. 自由职业者常常接一些低价活儿，只为在项目之间撑住不垮。"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,590 @@
+{
+ "date": "2026-09-18",
+ "title_tag": "中国人，到底要不要学英语？中国现在那么牛，为啥还要学英语？—— 经济学人外刊讲解第1171天",
+ "h1": "中国人，到底要不要学英语？中国现在那么牛，为啥还要学英语？",
+ "source_label": "The Economist",
+ "category": "经济学人外刊讲解 第1171天",
+ "read_minutes": 18,
+ "nav_hint": "Is this the end for English in China?",
+ "headline": {
+  "en_html": "<span>Is this the end for China's love of the English language?</span>",
+  "zh": "中国人对英语的热爱，就此终结了吗？",
+  "notes": []
+ },
+ "paragraphs": [
+  {
+   "en_html": "Half a century ago, learning English went almost <mark class=\"voc\">overnight</mark> from being discouraged to a national obsession. Throughout the 1980s and beyond, young and old <mark class=\"voc\">alike</mark> would gather in parks, at what became known as “English corners”, to practise with each other. The language became a <mark class=\"voc\">core</mark> part of the national <mark class=\"voc\">curriculum</mark>, <mark class=\"voc\">on a par with</mark> maths and Chinese, <mark class=\"voc\">right up to</mark> the gaokao, or university entrance exam.",
+   "zh": "半个世纪前，学英语几乎在一夜之间，从一件受冷落的事变成了一种举国上下的痴迷。整个二十世纪八十年代乃至其后，男女老少齐聚公园，在后来被称为“英语角”的地方彼此练习。英语成为国家课程的核心部分，与数学、语文并驾齐驱，一路贯穿至高考。",
+   "notes": [
+    {
+     "w": "overnight",
+     "ipa": "/ˌəʊvəˈnaɪt/",
+     "pos": "adv.",
+     "en": "suddenly and unexpectedly; in a very short period of time",
+     "zh": "一夜之间，骤然",
+     "ctx": "指学英语从被冷落到举国痴迷的转变来得极快，几乎不需要过渡期。",
+     "ex1": "The small startup became a household name overnight after its app went viral. 那家初创公司在其应用走红后一夜之间家喻户晓。",
+     "ex2": "You can't expect to master a new language overnight; it takes years of consistent practice. 你不能指望一夜之间掌握一门新语言，那需要多年持之以恒的练习。"
+    },
+    {
+     "w": "alike",
+     "ipa": "/əˈlaɪk/",
+     "pos": "adv.",
+     "en": "in the same way; equally",
+     "zh": "同样地，一视同仁地",
+     "ctx": "young and old alike 指男女老少不分年龄，都涌向公园练口语。",
+     "ex1": "The new policy affects small and large businesses alike. 新政策对大小企业一视同仁。",
+     "ex2": "The teacher treats all her students alike, regardless of their backgrounds. 这位老师对所有学生一视同仁，不论其背景如何。"
+    },
+    {
+     "w": "core",
+     "ipa": "/kɔː(r)/",
+     "pos": "adj.",
+     "en": "central; most important or fundamental",
+     "zh": "核心的，根本的",
+     "ctx": "core part 指英语在国家课程里处于最核心、不可替代的位置。",
+     "ex1": "Critical thinking is a core skill that every university graduate should possess. 批判性思维是每位大学毕业生都应具备的核心技能。",
+     "ex2": "The company's core values have remained unchanged for over three decades. 这家公司的核心价值观三十多年来始终未变。"
+    },
+    {
+     "w": "curriculum",
+     "ipa": "/kəˈrɪkjələm/",
+     "pos": "n.",
+     "en": "the subjects comprising a course of study in a school or college",
+     "zh": "课程，课程体系",
+     "ctx": "national curriculum 指全国统一规定的课程体系，英语被直接写进其中。",
+     "ex1": "The school has revised its curriculum to include more practical coding classes. 该校修订了课程体系，加入了更多实用的编程课。",
+     "ex2": "Environmental education should be integrated into the curriculum at every grade level. 环境教育应融入各个年级的课程之中。"
+    },
+    {
+     "w": "on a par with",
+     "ipa": "/ɒn ə pɑː(r) wɪð/",
+     "pos": "phr.",
+     "en": "equal to; of the same importance or standard",
+     "zh": "与……不相上下，与……同等重要",
+     "ctx": "指英语被放在与数学、语文完全同一档的位置上。",
+     "ex1": "Her latest novel is on a par with the best literary works of our time. 她的新小说不亚于当代最优秀的文学作品。",
+     "ex2": "In this company, customer service is on a par with product innovation in terms of strategic priority. 在这家公司，客户服务与产品创新在战略优先级上同等重要。"
+    },
+    {
+     "w": "right up to",
+     "ipa": "/raɪt ʌp tuː/",
+     "pos": "phr.",
+     "en": "all the way until; extending as far as",
+     "zh": "一直到，直至",
+     "ctx": "指英语的核心地位一路延续到高考，整个基础教育阶段从未中断。",
+     "ex1": "The museum is open every day right up to the end of December. 博物馆每天开放，一直到十二月底。",
+     "ex2": "She worked on the project right up to the moment she gave birth. 她一直工作到分娩那一刻。"
+    }
+   ]
+  },
+  {
+   "en_html": "Now a <mark class=\"voc\">prominent</mark> teacher and education blogger has <mark class=\"voc\">reignited</mark> a national debate by questioning whether learning English is necessary at all. “Our children <mark class=\"voc\">desperately</mark> begin learning English even before they have properly mastered their native language,” Tang Jiafeng wrote. “Yet we are a <mark class=\"voc\">civilisation</mark> that <mark class=\"voc\">dates back</mark> thousands of years. English is just a tool. It’s enough to be able to use it.”",
+   "zh": "如今，一位知名教师兼教育博主再度点燃了一场全国性辩论——他质疑学英语到底有没有必要。“我们的孩子连母语都还没真正掌握，就拼命开始学英语，”汤家凤写道，“可我们是拥有数千年历史的文明。英语不过是个工具，会用就够了。”",
+   "notes": [
+    {
+     "w": "prominent",
+     "ipa": "/ˈprɒmɪnənt/",
+     "pos": "adj.",
+     "en": "important, famous, or easily noticed",
+     "zh": "知名的，杰出的，显眼的",
+     "ctx": "a prominent teacher 指在公众视野里知名度高、说话有分量的老师。",
+     "ex1": "She is a prominent figure in the field of artificial intelligence research. 她是人工智能研究领域的知名人物。",
+     "ex2": "The prominent clock tower can be seen from every corner of the town. 那座显眼的钟楼从镇上的每个角落都能看到。"
+    },
+    {
+     "w": "reignite",
+     "ipa": "/ˌriːɪɡˈnaɪt/",
+     "pos": "v.",
+     "en": "to start again or make something start again; to revive",
+     "zh": "重新点燃，再度引发",
+     "ctx": "指这场“要不要学英语”的争论本来已存在，被他一番话重新点着。",
+     "ex1": "The controversial film reignited the debate about freedom of speech. 这部争议影片重新点燃了关于言论自由的辩论。",
+     "ex2": "His speech reignited her passion for environmental activism. 他的演讲重新点燃了她对环保运动的热情。"
+    },
+    {
+     "w": "desperately",
+     "ipa": "/ˈdespərətli/",
+     "pos": "adv.",
+     "en": "in a way that shows extreme urgency or a strong need",
+     "zh": "拼命地，急切地",
+     "ctx": "形容孩子带着近乎绝望的劲头去学英语，暗含对这种过度的批评。",
+     "ex1": "He desperately wanted to finish the marathon despite his injury. 尽管受伤，他还是拼命想跑完马拉松。",
+     "ex2": "The refugees desperately needed food and medical supplies. 难民们迫切需要食物和医疗物资。"
+    },
+    {
+     "w": "civilisation",
+     "ipa": "/ˌsɪvəlaɪˈzeɪʃn/",
+     "pos": "n.",
+     "en": "a society with its own culture, history, and way of life",
+     "zh": "文明",
+     "ctx": "指中国是有着数千年积淀的文明，用来自证不必这么急着学外语。",
+     "ex1": "Ancient Egyptian civilisation flourished along the banks of the Nile for thousands of years. 古埃及文明在尼罗河沿岸繁荣了数千年。",
+     "ex2": "The invention of writing marked a turning point in human civilisation. 文字的发明标志着人类文明的一个转折点。"
+    },
+    {
+     "w": "date back",
+     "ipa": "/deɪt bæk/",
+     "pos": "phr.",
+     "en": "to have existed since a particular time in the past",
+     "zh": "追溯到，始于",
+     "ctx": "指中华文明的历史可以上溯数千年，强调的是时间纵深。",
+     "ex1": "This temple dates back to the Tang Dynasty. 这座寺庙可追溯到唐代。",
+     "ex2": "Their family's tradition of making handmade noodles dates back over two hundred years. 他们家制作手工面条的传统可追溯至两百多年前。"
+    }
+   ]
+  },
+  {
+   "en_html": "The debate touches on questions of whether children are over-pressured by schools and parents and the <mark class=\"voc\">suitability</mark> of traditional <mark class=\"voc\">rote-learning</mark> techniques. It has also acquired a new <mark class=\"voc\">dimension</mark> as artificial-intelligence translation tools improve. With technology increasingly capable of translating languages almost instantly, some young people are asking whether years of intensive English study will remain as valuable as it once was. At the same time, uncertainty about graduate employment has <mark class=\"voc\">prompted</mark> a wider discussion about which skills students will actually need when they enter the <mark class=\"voc\">workforce</mark>.",
+   "zh": "这场辩论触及了诸多问题：孩子是否被学校和家长施压过重，传统死记硬背式教学法是否合宜。随着人工智能翻译工具日益精进，辩论又多了一个新维度。当技术越来越能近乎即时地翻译语言，一些年轻人开始发问：多年苦学英语，是否还会像从前那样值钱？与此同时，毕业生就业前景的不确定性，也引发了更广泛的讨论——学生步入职场后，究竟需要哪些技能？",
+   "notes": [
+    {
+     "w": "suitability",
+     "ipa": "/ˌsuːtəˈbɪləti/",
+     "pos": "n.",
+     "en": "the quality of being right or appropriate for a particular purpose",
+     "zh": "适宜性，合适程度",
+     "ctx": "指传统死记硬背那套方法到底还合不合适、是否匹配今天的教育需求。",
+     "ex1": "Parents often question the suitability of screen-based learning for young children. 家长常常质疑屏幕学习对幼儿的适宜性。",
+     "ex2": "The committee assessed the suitability of the candidate for the leadership role. 委员会评估了该候选人担任领导职务的合适程度。"
+    },
+    {
+     "w": "rote-learning",
+     "ipa": "/ˈrəʊt lɜːnɪŋ/",
+     "pos": "n.",
+     "en": "learning by repetition and memory without necessarily understanding",
+     "zh": "死记硬背式学习",
+     "ctx": "指以反复背诵、机械记忆为主、不重理解的教学方式，是这场争论的焦点之一。",
+     "ex1": "Rote-learning may help students pass exams, but it rarely fosters deep understanding. 死记硬背或许能帮学生通过考试，却很难培养深度理解。",
+     "ex2": "Many educators argue that rote-learning stifles creativity in young learners. 许多教育工作者认为死记硬背会扼杀年幼学习者的创造力。"
+    },
+    {
+     "w": "dimension",
+     "ipa": "/daɪˈmenʃn/",
+     "pos": "n.",
+     "en": "an aspect or feature of a situation",
+     "zh": "方面，维度",
+     "ctx": "指 AI 翻译的进步给这场辩论添了一个此前没有的观察角度。",
+     "ex1": "The discovery added a new dimension to our understanding of the universe. 这一发现为我们理解宇宙增添了新的维度。",
+     "ex2": "The debate has a moral dimension that cannot be ignored. 这场辩论有一个不容忽视的道德层面。"
+    },
+    {
+     "w": "prompt",
+     "ipa": "/prɒmpt/",
+     "pos": "v.",
+     "en": "to cause or encourage something to happen",
+     "zh": "促使，引发",
+     "ctx": "指就业前景不明朗这一点，成了那场更广泛讨论的导火索。",
+     "ex1": "The rising cost of living prompted many families to cut back on non-essential spending. 生活成本上涨促使许多家庭削减非必要开支。",
+     "ex2": "Her question prompted a lively discussion among the panel members. 她的提问引发了嘉宾之间的热烈讨论。"
+    },
+    {
+     "w": "workforce",
+     "ipa": "/ˈwɜːkfɔːs/",
+     "pos": "n.",
+     "en": "the people who work for a company or country, considered as a group",
+     "zh": "劳动力，劳动大军",
+     "ctx": "enter the workforce 指学生毕业进入职场，成为劳动人口的一部分。",
+     "ex1": "The company plans to expand its workforce by hiring 500 new employees. 公司计划通过招聘500名新员工来扩大劳动力。",
+     "ex2": "As more women enter the workforce, childcare services have become increasingly important. 随着更多女性进入职场，托儿服务变得越来越重要。"
+    }
+   ]
+  },
+  {
+   "en_html": "Tang, who has a PhD in mathematics and offers <mark class=\"voc\">tuition</mark> for <mark class=\"voc\">postgraduate</mark> entrance exams, has <mark class=\"voc\">established himself as</mark> a popular voice in the competitive world of online advice for students. His most recent post was a reaction to announcements by <mark class=\"voc\">provincial</mark> education authorities that they were <mark class=\"voc\">downgrading</mark> <mark class=\"voc\">noncore</mark> subjects like biology, geography and history for high-school entrance exams to reduce the pressure on teenagers. Liaoning province, for example, recently removed history, biology and geography from its middle-school entry test as part of efforts to reduce students’ <mark class=\"voc\">workload</mark>.",
+   "zh": "汤家凤拥有数学博士学位，从事考研辅导，在竞争激烈的线上升学咨询领域已确立起颇受欢迎的声音。他最近这篇发文，是对多省教育部门宣布下调生物、地理、历史等非核心科目在中考中权重的回应——此举意在减轻青少年压力。例如，辽宁省最近将历史、生物、地理移出中考，作为减负努力的一部分。",
+   "notes": [
+    {
+     "w": "tuition",
+     "ipa": "/tjuˈɪʃn/",
+     "pos": "n.",
+     "en": "teaching or instruction, especially for a small group or individual; also the fee for this",
+     "zh": "辅导，教学；（美式）学费",
+     "ctx": "offers tuition 指他靠课外辅导吃饭，这里是“辅导”而不是“学费”。",
+     "ex1": "He earns extra money by giving private tuition in mathematics. 他通过私下辅导数学来赚外快。",
+     "ex2": "The tuition for this language course includes all learning materials. 这门语言课程的辅导费用包含所有学习材料。"
+    },
+    {
+     "w": "postgraduate",
+     "ipa": "/ˌpəʊstˈɡrædʒuət/",
+     "pos": "n.",
+     "en": "a student who has already obtained a first degree and is studying for a higher one",
+     "zh": "研究生",
+     "ctx": "postgraduate entrance exams 指研究生入学考试，也就是中国俗称的“考研”。",
+     "ex1": "She decided to pursue postgraduate studies in economics at a top university. 她决定在一所顶尖大学攻读经济学研究生。",
+     "ex2": "Postgraduate students often face pressure to publish their research. 研究生常常面临发表研究成果的压力。"
+    },
+    {
+     "w": "establish A as B",
+     "ipa": "/ɪˈstæblɪʃ ... æz .../",
+     "pos": "phr.",
+     "en": "to make something or someone be recognized or accepted as something",
+     "zh": "确立A为B，使A成为B",
+     "ctx": "指他在竞争激烈的升学说号里挣得了“颇受欢迎的声音”这一身份。",
+     "ex1": "The company has established itself as a leader in renewable energy technology. 该公司已确立自身在可再生能源技术领域的领先地位。",
+     "ex2": "Her debut novel established her as one of the most promising young writers of her generation. 她的处女作使她成为同代人中最有前途的年轻作家之一。"
+    },
+    {
+     "w": "provincial",
+     "ipa": "/prəˈvɪnʃl/",
+     "pos": "adj.",
+     "en": "relating to a province or the provinces of a country",
+     "zh": "省级的，地方的",
+     "ctx": "provincial education authorities 指省一级的教育行政部门，是这次调整考试科目的政策主体。",
+     "ex1": "Provincial governments have been given more autonomy in economic decision-making. 省级政府在经济决策方面获得了更多自主权。",
+     "ex2": "The provincial museum houses a remarkable collection of ancient ceramics. 这家省级博物馆收藏了大量精美的古代陶瓷。"
+    },
+    {
+     "w": "downgrade",
+     "ipa": "/ˌdaʊnˈɡreɪd/",
+     "pos": "v.",
+     "en": "to reduce the importance, status, or value of something",
+     "zh": "降级，下调",
+     "ctx": "指把生物、地理、历史这些科目在中考里的分量往下压。",
+     "ex1": "An airline downgraded his ticket from business class to economy due to overbooking. 由于超售，航空公司将他的机票从商务舱降为经济舱。",
+     "ex2": "Analysts downgraded the stock after the company reported disappointing earnings. 在公司公布令人失望的财报后，分析师下调了该股票的评级。"
+    },
+    {
+     "w": "noncore",
+     "ipa": "/ˌnɒnˈkɔː(r)/",
+     "pos": "adj.",
+     "en": "not belonging to the central or most important part of something",
+     "zh": "非核心的",
+     "ctx": "指不属于语数外那类核心科目的学科，比如生物、地理、历史。",
+     "ex1": "The company decided to sell off its noncore assets to focus on its main business. 公司决定出售非核心资产以专注于主营业务。",
+     "ex2": "Noncore courses are often the first to be cut when school budgets shrink. 当学校预算缩减时，非核心课程往往最先被削减。"
+    },
+    {
+     "w": "workload",
+     "ipa": "/ˈwɜːkləʊd/",
+     "pos": "n.",
+     "en": "the amount of work that a person or organization has to do",
+     "zh": "工作量，课业负担",
+     "ctx": "reduce students’ workload 指给学生减负，压缩的是课业总量。",
+     "ex1": "Teachers are complaining about an excessive workload and insufficient pay. 教师们抱怨工作量过大而薪酬不足。",
+     "ex2": "The new software is designed to help doctors manage their daily workload more efficiently. 这款新软件旨在帮助医生更高效地管理日常工作量。"
+    }
+   ]
+  },
+  {
+   "en_html": "Tang claimed that this was <mark class=\"voc\">effectively</mark> <mark class=\"voc\">prioritising</mark> a subject, English, that would be “completely irrelevant to the majority of people in their future professional lives”. English remains a compulsory subject in China’s basic education system alongside Chinese and mathematics. Under the traditional 750-point gaokao structure, each of those three subjects is worth 150 points, even as the weighting and assessment of other subjects have <mark class=\"voc\">undergone</mark> reforms.",
+   "zh": "汤家凤称，这实际上是在优先照顾一门对“大多数人未来职业生涯完全无关”的科目——英语。在中国基础教育体系中，英语仍与语文、数学并列为必修科目。在传统的高考750分结构中，这三门各占150分，即便其他科目的权重与考核方式已历经改革。",
+   "notes": [
+    {
+     "w": "effectively",
+     "ipa": "/ɪˈfektɪvli/",
+     "pos": "adv.",
+     "en": "in practice; in effect, even if not officially stated",
+     "zh": "实际上，事实上",
+     "ctx": "指名义上在减负，实际效果却等于把英语摆到了更优先的位置。",
+     "ex1": "By raising taxes, the government effectively reduced people's disposable income. 通过加税，政府实际上减少了人们的可支配收入。",
+     "ex2": "The new regulation effectively bans smoking in all public spaces. 新规实际上禁止了在所有公共场所吸烟。"
+    },
+    {
+     "w": "prioritise",
+     "ipa": "/praɪˈɒrətaɪz/",
+     "pos": "v.",
+     "en": "to treat something as more important than other things",
+     "zh": "优先考虑，优先处理",
+     "ctx": "指在科目排序上把英语往前挪，暗示资源与重视程度并不对等。",
+     "ex1": "The government should prioritise education over military spending. 政府应优先考虑教育而非军费开支。",
+     "ex2": "When time is limited, you must learn to prioritise the most urgent tasks. 时间有限时，你必须学会优先处理最紧急的任务。"
+    },
+    {
+     "w": "undergo",
+     "ipa": "/ˌʌndəˈɡəʊ/",
+     "pos": "v.",
+     "en": "to experience or be subjected to something",
+     "zh": "经历，经受",
+     "ctx": "指其他科目的权重和考核方式已经历过多轮改动。",
+     "ex1": "The city has undergone dramatic changes over the past decade. 过去十年间，这座城市经历了翻天覆地的变化。",
+     "ex2": "Patients who undergo this surgery usually recover within two weeks. 接受这种手术的病人通常在两周内康复。"
+    }
+   ]
+  },
+  {
+   "en_html": "The most prominent immediate response came from Hu Xijin, a former editor of the English-language <mark class=\"voc\">tabloid</mark> Global Times. He accused Tang of being “<mark class=\"voc\">biased</mark> and <mark class=\"voc\">narrow-minded</mark>” and <mark class=\"voc\">urged</mark> education departments to ignore him. One argument <mark class=\"voc\">favoured by</mark> critics of English is that when native English speakers are so poor at learning Chinese — a fairly <mark class=\"voc\">indisputable</mark> claim — why should Chinese people learn their language?",
+   "zh": "最引人注目的即时回应来自胡锡进，英文小报《环球时报》前总编辑。他指责汤家凤“偏执而狭隘”，并呼吁教育部门不要理会他。英语批评者偏爱的一个论点是：既然以英语为母语的人学中文如此糟糕——这一说法几乎无可辩驳——那中国人凭什么要学他们的语言？",
+   "notes": [
+    {
+     "w": "tabloid",
+     "ipa": "/ˈtæblɔɪd/",
+     "pos": "n.",
+     "en": "a newspaper with small pages, often focusing on sensational stories",
+     "zh": "小报，通俗报纸",
+     "ctx": "指《环球时报》这类小开本、风格偏通俗的报纸，原文用词本身带评价色彩。",
+     "ex1": "The tabloids were full of stories about the celebrity's divorce. 各家小报满是那位名人离婚的报道。",
+     "ex2": "He refuses to believe what he reads in the tabloids. 他拒绝相信小报上读到的东西。"
+    },
+    {
+     "w": "biased",
+     "ipa": "/ˈbaɪəst/",
+     "pos": "adj.",
+     "en": "unfairly preferring one person or group over another",
+     "zh": "有偏见的，偏袒的",
+     "ctx": "指胡锡进批评汤家凤的观点带有明显倾向、不够客观。",
+     "ex1": "The report was criticized for being biased against small businesses. 该报道因对小企业有偏见而受到批评。",
+     "ex2": "A good judge must remain unbiased and fair at all times. 优秀的法官必须始终保持公正无私。"
+    },
+    {
+     "w": "narrow-minded",
+     "ipa": "/ˌnærəʊ ˈmaɪndɪd/",
+     "pos": "adj.",
+     "en": "unwilling to accept or consider different ideas or opinions",
+     "zh": "狭隘的，心胸狭窄的",
+     "ctx": "指批评汤家凤视野不够开阔，看不到英语更大的价值。",
+     "ex1": "It is narrow-minded to judge people solely by their appearance. 仅凭外表评判人是狭隘的。",
+     "ex2": "Her narrow-minded attitude prevented her from appreciating other cultures. 她狭隘的态度使她无法欣赏其他文化。"
+    },
+    {
+     "w": "urge",
+     "ipa": "/ɜːdʒ/",
+     "pos": "v.",
+     "en": "to strongly advise or try to persuade someone to do something",
+     "zh": "敦促，力劝",
+     "ctx": "指胡锡进强烈呼吁教育部门别去理会汤家凤。",
+     "ex1": "Doctors urge patients to exercise regularly and maintain a healthy diet. 医生敦促患者定期锻炼并保持健康饮食。",
+     "ex2": "The teacher urged her students to think critically rather than memorize facts. 老师敦促学生们批判性思考，而非死记硬背。"
+    },
+    {
+     "w": "favoured by",
+     "ipa": "/ˈfeɪvəd baɪ/",
+     "pos": "phr.",
+     "en": "preferred or supported by someone",
+     "zh": "受到……青睐的，被……所偏爱的",
+     "ctx": "指这个论点是英语批评者偏爱、反复使用的那一套说辞。",
+     "ex1": "This approach is favoured by many experienced teachers. 这种方法受到许多经验丰富的教师青睐。",
+     "ex2": "The proposal was favoured by a majority of committee members. 该提案得到了委员会多数成员的支持。"
+    },
+    {
+     "w": "indisputable",
+     "ipa": "/ˌɪndɪˈspjuːtəbl/",
+     "pos": "adj.",
+     "en": "unable to be questioned or denied; certainly true",
+     "zh": "无可争辩的，不容置疑的",
+     "ctx": "指“母语者学不好中文”这一说法表面上难以反驳，作者暗示它只是看似成立。",
+     "ex1": "The evidence against the defendant was indisputable. 对被告不利的证据无可辩驳。",
+     "ex2": "It is indisputable that climate change poses a serious threat to global food security. 气候变化对全球粮食安全构成严重威胁，这一点毋庸置疑。"
+    }
+   ]
+  },
+  {
+   "en_html": "That ignored the fact that, like it or not, English was the world’s <mark class=\"voc\">lingua franca</mark>, Hu said. “More than 90 per cent of international scientific <mark class=\"voc\">academic papers</mark> are produced in English,” he wrote. “If a person wants to advance to a higher level, being familiar with and mastering English is one of the most important educational preparations.” The debate has also raised questions about access to international knowledge and opportunities, particularly for students who may later work or study across <mark class=\"voc\">borders</mark>.",
+   "zh": "胡锡进说，这种论调忽视了一个事实：不管你喜欢与否，英语都是世界通用语。“超过90%的国际科学学术论文是用英语写成的，”他写道，“一个人要想更上一层楼，熟悉并掌握英语是最重要的教育准备之一。”这场辩论还引发了关于获取国际知识与机会的追问，尤其是对那些日后可能跨境工作或求学的学生而言。",
+   "notes": [
+    {
+     "w": "lingua franca",
+     "ipa": "/ˌlɪŋɡwə ˈfræŋkə/",
+     "pos": "n.",
+     "en": "a language used for communication between people who speak different native languages",
+     "zh": "通用语，共同语言",
+     "ctx": "指英语是不同母语者之间交流时默认共用的那门语言。",
+     "ex1": "English has become the lingua franca of international business and science. 英语已成为国际商业与科学的通用语。",
+     "ex2": "In many African countries, French serves as a lingua franca among diverse ethnic groups. 在许多非洲国家，法语是不同族群之间的通用语。"
+    },
+    {
+     "w": "academic paper",
+     "ipa": "/ˌækəˈdemɪk ˈpeɪpə(r)/",
+     "pos": "n.",
+     "en": "a formal written work presenting original research, published in a scholarly journal",
+     "zh": "学术论文",
+     "ctx": "指经过同行评审、发表在学术期刊上的正式研究文献，九成以上用英语写成。",
+     "ex1": "She spent three years conducting research before publishing her academic paper. 她花了三年时间做研究，之后才发表学术论文。",
+     "ex2": "The academic paper was rejected by two journals before finally being accepted. 这篇学术论文被两家期刊拒绝后才最终被接受。"
+    },
+    {
+     "w": "border",
+     "ipa": "/ˈbɔːdə(r)/",
+     "pos": "n.",
+     "en": "a line separating two countries or regions",
+     "zh": "国界，边境",
+     "ctx": "across borders 指跨境，即到国界之外去工作或求学。",
+     "ex1": "The river forms a natural border between the two countries. 这条河构成了两国之间的天然边界。",
+     "ex2": "Many students dream of studying across borders to experience different cultures. 许多学生梦想跨境求学，体验不同文化。"
+    }
+   ]
+  },
+  {
+   "en_html": "Another argument against English is that it is a sign of <mark class=\"voc\">elitism</mark>; in practice, only the upper <mark class=\"voc\">middle classes</mark> can afford to send their children to universities in the West, or travel there. Hu argued that downgrading English would make elitism worse, since the upper classes would find new ways to pay for their children to learn English anyway. Critics of weakening English in public education have similarly argued that wealthier families could simply buy private tuition, while students from less <mark class=\"voc\">privileged</mark> backgrounds would have fewer opportunities to acquire the same skills.",
+   "zh": "另一种反对英语的论点是：它是精英主义的标志；现实中，只有中上阶层才负担得起送孩子去西方大学，或去西方游历。胡锡进反驳说，弱化英语只会让精英主义更严重，因为上层阶级无论如何都会找到新办法花钱让孩子学英语。批评在公共教育中削弱英语的人同样主张，富裕家庭大可以直接购买私人辅导，而出身较弱势的学生获得同等技能的机会将更少。",
+   "notes": [
+    {
+     "w": "elitism",
+     "ipa": "/eɪˈliːtɪzəm/",
+     "pos": "n.",
+     "en": "the belief that a society should be led by a small group of privileged people; the dominance of an elite",
+     "zh": "精英主义",
+     "ctx": "指英语被当成只有上层才玩得起的东西，暗含对资源分配不公的批评。",
+     "ex1": "Critics say the admissions system perpetuates elitism in higher education. 批评者称这套招生制度使高等教育中的精英主义长期存在。",
+     "ex2": "The club was accused of elitism for excluding members from working-class backgrounds. 该俱乐部因排斥工人阶级出身的成员而被指责搞精英主义。"
+    },
+    {
+     "w": "middle class",
+     "ipa": "/ˌmɪdl ˈklɑːs/",
+     "pos": "n.",
+     "en": "the social group between the upper and working classes, often including professionals and business people",
+     "zh": "中产阶级",
+     "ctx": "the upper middle classes 指有钱送孩子出国读书、游历的中上阶层。",
+     "ex1": "The rising cost of housing has put home ownership out of reach for many middle-class families. 房价上涨使许多中产家庭无力购房。",
+     "ex2": "She grew up in a comfortable middle-class household where education was highly valued. 她在一个重视教育、生活优渥的中产家庭长大。"
+    },
+    {
+     "w": "privileged",
+     "ipa": "/ˈprɪvəlɪdʒd/",
+     "pos": "adj.",
+     "en": "having special advantages or opportunities not available to everyone",
+     "zh": "享有特权的，条件优越的",
+     "ctx": "students from less privileged backgrounds 指家庭条件差、资源少的学生。",
+     "ex1": "Only the most privileged students can afford to study abroad without a scholarship. 只有最优越的学生才能在没有奖学金的情况下负担得起出国留学。",
+     "ex2": "The program aims to give less privileged children access to quality education. 该项目旨在为条件较差的儿童提供优质教育的机会。"
+    }
+   ]
+  },
+  {
+   "en_html": "Another <mark class=\"voc\">intervention</mark>, <mark class=\"voc\">admittedly</mark> from a professor with a <mark class=\"voc\">vested interest</mark>, was more <mark class=\"voc\">blunt</mark>. “Let me ask: is maths useful in everyday life?” wrote Cao Wen, who teaches at Beijing Foreign Studies University, a <mark class=\"voc\">breeding</mark> ground for <mark class=\"voc\">diplomats</mark>. “Ordinary people go to work, buy <mark class=\"voc\">groceries</mark>, watch movies. Do we really need to use functions or calculate <mark class=\"voc\">square roots</mark> every day? Yet we still expect children to learn maths. If you judge whether a subject is necessary simply by whether people will use it in their daily lives, can you really call yourself an educator?”",
+   "zh": "还有一次介入——诚然来自一位有既得利益的教授——则更为直白。“我问一句：数学在日常生活中用得上吗？”北京外国语大学教授曹文写道，那里是外交官的摇篮。“普通人上班、买菜、看电影。我们真的需要每天用函数、算平方根吗？可我们仍然指望孩子学数学。如果你仅仅以人们日常生活中会不会用来判断一门科目是否必要，你还真称得上教育者吗？”",
+   "notes": [
+    {
+     "w": "intervention",
+     "ipa": "/ˌɪntəˈvenʃn/",
+     "pos": "n.",
+     "en": "the act of becoming involved in a situation to change or influence it",
+     "zh": "介入，干预",
+     "ctx": "指又一位学者插进这场公共讨论，公开表态。",
+     "ex1": "The government's intervention in the housing market was widely debated. 政府对房地产市场的干预引发了广泛讨论。",
+     "ex2": "Early intervention is crucial for children with learning difficulties. 对学习困难的儿童来说，早期干预至关重要。"
+    },
+    {
+     "w": "admittedly",
+     "ipa": "/ədˈmɪtɪdli/",
+     "pos": "adv.",
+     "en": "used to acknowledge that something is true, often before adding a qualification",
+     "zh": "诚然，无可否认",
+     "ctx": "作者先让一步，承认这位教授的立场本身就带着利益关联。",
+     "ex1": "Admittedly, the project was more expensive than we had anticipated. 诚然，这个项目比我们预期的要贵。",
+     "ex2": "He is admittedly talented, but he lacks discipline. 无可否认他很有天赋，但缺乏自律。"
+    },
+    {
+     "w": "vested interest",
+     "ipa": "/ˌvestɪd ˈɪntrəst/",
+     "pos": "n.",
+     "en": "a personal stake or involvement in a situation, especially one that brings advantage",
+     "zh": "既得利益，利害关系",
+     "ctx": "指曹文所在的外国语大学与英语教学利益相关，立场可能不够中立。",
+     "ex1": "Critics say the senator has a vested interest in protecting the oil industry. 批评者称这位参议员在保护石油产业方面有既得利益。",
+     "ex2": "As a landlord, he has a vested interest in keeping rents high. 作为房东，他自然希望租金维持高位。"
+    },
+    {
+     "w": "blunt",
+     "ipa": "/blʌnt/",
+     "pos": "adj.",
+     "en": "direct and straightforward, sometimes to the point of being rude",
+     "zh": "直率的，直截了当的",
+     "ctx": "指她的表态不加修饰、话说得很直，甚至有点冲。",
+     "ex1": "To be blunt, your proposal is unrealistic and underfunded. 直说吧，你的提案不切实际且资金不足。",
+     "ex2": "She was blunt about her dislike of the new policy. 她直言不讳地表达了对新政策的不满。"
+    },
+    {
+     "w": "breeding",
+     "ipa": "/ˈbriːdɪŋ/",
+     "pos": "n.",
+     "en": "the process of producing or raising something; also the training or upbringing of a person",
+     "zh": "培育，繁殖；教养",
+     "ctx": "breeding ground 指北外是外交人才的培养基地，此处取褒义。",
+     "ex1": "The city is a breeding ground for tech startups. 这座城市是科技初创企业的摇篮。",
+     "ex2": "Stagnant water is a breeding ground for mosquitoes. 死水是蚊虫滋生的温床。"
+    },
+    {
+     "w": "diplomat",
+     "ipa": "/ˈdɪpləmæt/",
+     "pos": "n.",
+     "en": "a person whose job is to represent their country abroad and manage international relations",
+     "zh": "外交官",
+     "ctx": "指北外培养出的驻外使节那一类外交人员。",
+     "ex1": "The diplomat spent years negotiating trade agreements between the two nations. 这位外交官花了数年时间谈判两国间的贸易协定。",
+     "ex2": "She dreamed of becoming a diplomat and working in embassies around the world. 她梦想成为一名外交官，在世界各地的使馆工作。"
+    },
+    {
+     "w": "groceries",
+     "ipa": "/ˈɡrəʊsəriz/",
+     "pos": "n.",
+     "en": "food and other household goods sold in a grocery store",
+     "zh": "食品杂货，生活用品",
+     "ctx": "buy groceries 指日常买菜，是普通人生活的典型场景。",
+     "ex1": "I need to stop by the supermarket to buy some groceries for dinner. 我得去超市买些做晚饭的食材。",
+     "ex2": "With online delivery services, ordering groceries has become extremely convenient. 有了在线配送服务，订购食品杂货变得极其方便。"
+    },
+    {
+     "w": "square root",
+     "ipa": "/skweə(r) ruːt/",
+     "pos": "n.",
+     "en": "a number that, when multiplied by itself, gives a specified number",
+     "zh": "平方根",
+     "ctx": "calculate square roots 指算平方根，被拿来类比日常根本用不上的抽象知识。",
+     "ex1": "The square root of 144 is 12. 144的平方根是12。",
+     "ex2": "Students learn how to calculate square roots in middle school mathematics. 学生在初中数学中学习如何计算平方根。"
+    }
+   ]
+  }
+ ],
+ "proper": [
+  {
+   "name": "English corners / 英语角",
+   "def": "1978 年前后出现在上海的民间口语练习活动，参与者不分年龄职业，在公园、广场自愿聚集用英语交谈；1980 年代风靡全国，1992 年上海人民公园的英语角最多时有两三百人。<br>本文中的意思：它是当年“英语热”的民间象征，用来说明学英语曾是全民自发参与的盛况。"
+  },
+  {
+   "name": "Gaokao / 高考",
+   "def": "全称“普通高等学校招生全国统一考试”，中国最重要的标准化考试。1977 年恢复时英语并非人人必考，1983 年起外语成绩按 100% 计入总分，1999 年“3+X”改革后语数英各 150 分。<br>本文中的意思：英语核心地位的终点站，作者说英语的地位“一路贯穿至高考”，以此衡量它在教育里的分量。"
+  },
+  {
+   "name": "National curriculum / 国家课程",
+   "def": "国家教育主管部门统一制定的课程体系。1986 年大学英语四级开始试行，1990 年代英语推进到小学，2001 年教育部要求城市和县城学校普遍开设英语课。<br>本文中的意思：说明英语不是可有可无的兴趣课，而是被写进国家课程、与数学语文并列的必修内容。"
+  },
+  {
+   "name": "Tang Jiafeng / 汤家凤",
+   "def": "考研数学辅导教师，拥有数学博士学位，长期从事考研数学教学，近年以教育博主身份就公共教育议题公开发声。<br>本文中的意思：他在 2026 年 9 月发文质疑英语作为主科的必要性，一句话点着了这场全国性辩论，全文争论由他而起。"
+  },
+  {
+   "name": "AI translation tools / 人工智能翻译工具",
+   "def": "以神经网络翻译和大语言模型为代表的机器翻译技术，2020 年代能力跃升，可近乎即时地在多种语言间互译，日常与商务场景的质量已接近甚至部分超过普通人工水平。<br>本文中的意思：这场辩论的新变量——技术越强，“还要不要苦学多年英语”的疑问就越响。"
+  },
+  {
+   "name": "Postgraduate entrance exams / 研究生入学考试（考研）",
+   "def": "中国硕士研究生招生考试，俗称“考研”。初试一般设政治（100 分）、外语（100 分）、业务课一（150 分）、业务课二（150 分），总分 500 分，英语分英语一与英语二。<br>本文中的意思：交代汤家凤的职业身份——他靠辅导这门考试谋生，也因此对考试科目的调整格外敏感。"
+  },
+  {
+   "name": "Provincial education authorities / 省级教育部门",
+   "def": "各省、自治区、直辖市的教育行政管理部门，负责本地区基础教育的课程设置与考试政策。辽宁 2026 年 8 月宣布，自秋季学期八年级起把生物、地理、历史改为考查科目，不计入中考总分。<br>本文中的意思：它们的减负新政，是汤家凤发文的直接导火索。"
+  },
+  {
+   "name": "Compulsory subject / 必修科目",
+   "def": "中国基础教育体系中，英语与语文、数学并列的三大必修主科。传统高考 750 分制下三科各 150 分、合计 450 分；中考分值各省不同，如重庆 150 分、丽水与江西 120 分。<br>本文中的意思：用来说明英语的地位并未真正动摇——别的科目都在改，英语始终是必修主科。"
+  },
+  {
+   "name": "Hu Xijin / 胡锡进",
+   "def": "《环球时报》前总编辑。在这场辩论中公开撰文批评汤家凤“偏执而狭隘”，呼吁教育部门不要理会他，并主张英语是中国学生获取国际知识与机会的重要工具。<br>本文中的意思：他是全文最主要的反方，用“英语是世界通用语”把辩论从情绪拉回现实需求。"
+  },
+  {
+   "name": "Cao Wen / 曹文",
+   "def": "北京外国语大学教授，英国诺丁汉大学课程设计博士，曾任北外网络教育学院院长，2010 年起主导创办“E PLUS 北外壹佳教育”等品牌，专注青少年英语教育。<br>本文中的意思：她用“数学日常也用不上”作类比，反问教育者不该只用使用频率判断一门科目该不该学。"
+  }
+ ],
+ "sources_note": "本文选自 The Economist 2026 年 9 月文章《Is this the end for China's love of the English language?》，由《早安英文》讲解；背景数据参考文中所述及公开资料。",
+ "practice": {
+  "intro": "把下面三句翻译成英文，注意划线表达。",
+  "items": [
+   "这家初创公司凭借一款爆红的应用，几乎在一夜之间就成了家喻户晓的名字。（overnight）",
+   "不论贫富，这项新政策对所有家庭一视同仁。（alike）",
+   "在这家公司，客户服务与产品创新同等重要。（on a par with）"
+  ],
+  "critical_en": "Critics of weakening English in public education have similarly argued that wealthier families could simply buy private tuition, while students from less privileged backgrounds would have fewer opportunities to acquire the same skills.",
+  "critical_zh": "批评在公共教育中削弱英语的人同样主张，富裕家庭大可以直接购买私人辅导，而出身较弱势的学生获得同等技能的机会将更少。",
+  "answer": "1. The startup became a household name almost overnight thanks to a viral app.<br><br>2. The new policy treats all families alike, rich or poor.<br><br>3. In this company, customer service is on a par with product innovation.<br><br>三句都落在本文的核心搭配上：overnight 作副词表示“一夜之间”，alike 后置表示“一视同仁”，on a par with 表示“与……同等重要”。（参考英文出自本课翻译作业答案）"
+ },
+ "mindmap": {
+  "aria": "中国人还要不要学英语思维导图",
+  "alt": "中国人还要不要学英语（手绘版）",
+  "svg": "<svg viewBox=\"0 0 960 720\" xmlns=\"http://www.w3.org/2000/svg\" role=\"img\" aria-label=\"中国人还要不要学英语思维导图\" style=\"width:100%;height:auto;font-family:-apple-system,'PingFang SC','Hiragino Sans GB','Microsoft YaHei',sans-serif\">\n        <rect x=\"24\" y=\"306\" width=\"176\" height=\"88\" rx=\"14\" fill=\"#eae3d2\" stroke=\"#9a8f76\"/>\n        <text x=\"112\" y=\"342\" text-anchor=\"middle\" fill=\"#3d3a34\" font-size=\"17\" font-weight=\"700\">中国人还要学英语吗</text>\n        <text x=\"112\" y=\"368\" text-anchor=\"middle\" fill=\"#5c5648\" font-size=\"12.5\">一场关于英语主科的辩论</text>\n\n        <path d=\"M200,350 C232,350 232,88 260,88\"  stroke=\"#6b8f71\" stroke-width=\"2\" fill=\"none\"/>\n        <path d=\"M200,350 C232,350 232,238 260,238\" stroke=\"#7d98ad\" stroke-width=\"2\" fill=\"none\"/>\n        <path d=\"M200,350 C232,350 232,433 260,433\" stroke=\"#bd7a6d\" stroke-width=\"2\" fill=\"none\"/>\n        <path d=\"M200,350 C232,350 232,628 260,628\" stroke=\"#9b86b3\" stroke-width=\"2\" fill=\"none\"/>\n\n        <g class=\"mm-branch\" data-target=\"bc1\">\n          <rect x=\"260\" y=\"71\" width=\"190\" height=\"34\" rx=\"8\" fill=\"#e6efe7\" stroke=\"#6b8f71\"/>\n          <text x=\"349\" y=\"93\" text-anchor=\"middle\" fill=\"#4c6b52\" font-size=\"15\" font-weight=\"700\">争议缘起（¶1–3）</text>\n          <text class=\"mm-arrow\" data-for=\"bc1\" x=\"442\" y=\"93\" text-anchor=\"end\" fill=\"#4c6b52\">▾</text>\n        </g>\n        <g class=\"mm-children\" id=\"bc1\">\n          <path d=\"M450,88 C462,88 462,46 480,46\" stroke=\"#6b8f71\" stroke-width=\"1.5\" fill=\"none\"/>\n          <path d=\"M450,88 C462,88 462,88 480,88\" stroke=\"#6b8f71\" stroke-width=\"1.5\" fill=\"none\"/>\n          <path d=\"M450,88 C462,88 462,130 480,130\" stroke=\"#6b8f71\" stroke-width=\"1.5\" fill=\"none\"/>\n          <rect x=\"480\" y=\"30\" width=\"456\" height=\"32\" rx=\"8\" fill=\"#e6efe7\"/><text x=\"492\" y=\"51\" fill=\"#3d3a34\" font-size=\"14\">半个世纪前，学英语从被冷落变成举国痴迷</text>\n          <rect x=\"480\" y=\"72\" width=\"456\" height=\"32\" rx=\"8\" fill=\"#e6efe7\"/><text x=\"492\" y=\"93\" fill=\"#3d3a34\" font-size=\"14\">英语角挤满男女老少，英语与数学语文并列</text>\n          <rect x=\"480\" y=\"114\" width=\"456\" height=\"32\" rx=\"8\" fill=\"#e6efe7\"/><text x=\"492\" y=\"135\" fill=\"#3d3a34\" font-size=\"14\">汤家凤发文：孩子母语没学好就拼命学英语</text>\n        </g>\n\n        <g class=\"mm-branch\" data-target=\"bc2\">\n          <rect x=\"260\" y=\"221\" width=\"190\" height=\"34\" rx=\"8\" fill=\"#e5edf4\" stroke=\"#7d98ad\"/>\n          <text x=\"349\" y=\"243\" text-anchor=\"middle\" fill=\"#3d5872\" font-size=\"15\" font-weight=\"700\">汤家凤的指控（¶4–5）</text>\n          <text class=\"mm-arrow\" data-for=\"bc2\" x=\"442\" y=\"243\" text-anchor=\"end\" fill=\"#3d5872\">▾</text>\n        </g>\n        <g class=\"mm-children\" id=\"bc2\">\n          <path d=\"M450,238 C462,238 462,196 480,196\" stroke=\"#7d98ad\" stroke-width=\"1.5\" fill=\"none\"/>\n          <path d=\"M450,238 C462,238 462,238 480,238\" stroke=\"#7d98ad\" stroke-width=\"1.5\" fill=\"none\"/>\n          <path d=\"M450,238 C462,238 462,280 480,280\" stroke=\"#7d98ad\" stroke-width=\"1.5\" fill=\"none\"/>\n          <rect x=\"480\" y=\"180\" width=\"456\" height=\"32\" rx=\"8\" fill=\"#e5edf4\"/><text x=\"492\" y=\"201\" fill=\"#3d3a34\" font-size=\"14\">他有数学博士，靠考研辅导在线上攒出声望</text>\n          <rect x=\"480\" y=\"222\" width=\"456\" height=\"32\" rx=\"8\" fill=\"#e5edf4\"/><text x=\"492\" y=\"243\" fill=\"#3d3a34\" font-size=\"14\">起因是多省把生物、地理、历史移出中考</text>\n          <rect x=\"480\" y=\"264\" width=\"456\" height=\"32\" rx=\"8\" fill=\"#e5edf4\"/><text x=\"492\" y=\"285\" fill=\"#3d3a34\" font-size=\"14\">他称这是变相优待一门对多数人无用的科目</text>\n        </g>\n\n        <g class=\"mm-branch\" data-target=\"bc3\">\n          <rect x=\"260\" y=\"416\" width=\"190\" height=\"34\" rx=\"8\" fill=\"#f4e7e4\" stroke=\"#bd7a6d\"/>\n          <text x=\"349\" y=\"438\" text-anchor=\"middle\" fill=\"#7c4a3e\" font-size=\"15\" font-weight=\"700\">胡锡进的反驳（¶6–8）</text>\n          <text class=\"mm-arrow\" data-for=\"bc3\" x=\"442\" y=\"438\" text-anchor=\"end\" fill=\"#7c4a3e\">▾</text>\n        </g>\n        <g class=\"mm-children\" id=\"bc3\">\n          <path d=\"M450,433 C462,433 462,391 480,391\" stroke=\"#bd7a6d\" stroke-width=\"1.5\" fill=\"none\"/>\n          <path d=\"M450,433 C462,433 462,433 480,433\" stroke=\"#bd7a6d\" stroke-width=\"1.5\" fill=\"none\"/>\n          <path d=\"M450,433 C462,433 462,475 480,475\" stroke=\"#bd7a6d\" stroke-width=\"1.5\" fill=\"none\"/>\n          <rect x=\"480\" y=\"375\" width=\"456\" height=\"32\" rx=\"8\" fill=\"#f4e7e4\"/><text x=\"492\" y=\"396\" fill=\"#3d3a34\" font-size=\"14\">他骂汤家凤偏执狭隘，劝教育部门别理会</text>\n          <rect x=\"480\" y=\"417\" width=\"456\" height=\"32\" rx=\"8\" fill=\"#f4e7e4\"/><text x=\"492\" y=\"438\" fill=\"#3d3a34\" font-size=\"14\">英语是世界通用语，九成以上论文用英语写</text>\n          <rect x=\"480\" y=\"459\" width=\"456\" height=\"32\" rx=\"8\" fill=\"#f4e7e4\"/><text x=\"492\" y=\"480\" fill=\"#3d3a34\" font-size=\"14\">削弱英语只会让精英主义更严重</text>\n        </g>\n\n        <g class=\"mm-branch\" data-target=\"bc4\">\n          <rect x=\"260\" y=\"611\" width=\"190\" height=\"34\" rx=\"8\" fill=\"#ece4f2\" stroke=\"#9b86b3\"/>\n          <text x=\"349\" y=\"633\" text-anchor=\"middle\" fill=\"#5a4670\" font-size=\"15\" font-weight=\"700\">数学式反问（¶9）</text>\n          <text class=\"mm-arrow\" data-for=\"bc4\" x=\"442\" y=\"633\" text-anchor=\"end\" fill=\"#5a4670\">▾</text>\n        </g>\n        <g class=\"mm-children\" id=\"bc4\">\n          <path d=\"M450,628 C462,628 462,586 480,586\" stroke=\"#9b86b3\" stroke-width=\"1.5\" fill=\"none\"/>\n          <path d=\"M450,628 C462,628 462,628 480,628\" stroke=\"#9b86b3\" stroke-width=\"1.5\" fill=\"none\"/>\n          <path d=\"M450,628 C462,628 462,670 480,670\" stroke=\"#9b86b3\" stroke-width=\"1.5\" fill=\"none\"/>\n          <rect x=\"480\" y=\"570\" width=\"456\" height=\"32\" rx=\"8\" fill=\"#ece4f2\"/><text x=\"492\" y=\"591\" fill=\"#3d3a34\" font-size=\"14\">曹文承认自己站在有既得利益的位置上</text>\n          <rect x=\"480\" y=\"612\" width=\"456\" height=\"32\" rx=\"8\" fill=\"#ece4f2\"/><text x=\"492\" y=\"633\" fill=\"#3d3a34\" font-size=\"14\">普通人上班买菜看电影，用得上函数吗</text>\n          <rect x=\"480\" y=\"654\" width=\"456\" height=\"32\" rx=\"8\" fill=\"#ece4f2\"/><text x=\"492\" y=\"675\" fill=\"#3d3a34\" font-size=\"14\">只按日常有没有用来判科目，还叫教育者吗</text>\n        </g>\n      </svg>",
+  "img": "/Users/malen/outward-reading-site-prod/scripts/content/img/2026-09-18.jpg"
+ }
+}

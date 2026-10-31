@@ -1,0 +1,517 @@
+{
+ "date": "2026-09-14",
+ "title_tag": "赢下选举就发钱？川承诺每人5000美元，这笔账到底谁来买单？—— The Washington Post外刊讲解第1167天",
+ "h1": "赢下选举就发钱？川承诺每人5000美元，这笔账到底谁来买单？",
+ "source_label": "The Washington Post",
+ "category": "美国华盛顿邮报外刊讲解 第1167天",
+ "read_minutes": 18,
+ "nav_hint": "Trump's budget-busting dividend gimmick",
+ "headline": {
+  "en_html": "No one is <mark class=\"voc\">falling for</mark> Trump's <mark class=\"voc\">budget-busting</mark> '<mark class=\"voc\">dividend</mark>' check <mark class=\"voc\">gimmick</mark> — The president's message at the Republican midterm convention <mark class=\"voc\">underscores</mark> why so many Americans who care about <mark class=\"voc\">fiscal</mark> <mark class=\"voc\">sanity</mark> feel <mark class=\"voc\">politically homeless</mark>.",
+  "zh": "没人吃特朗普这套：所谓的\"分红\"支票，就是个撑爆预算的噱头。——总统在共和党中期选举大会上的这番话，恰恰说明了：为什么这么多在乎财政理智的美国人，如今在政治上感觉无处安身。",
+  "notes": [
+   {
+    "w": "fall for",
+    "ipa": "/fɔːl fɔː(r)/",
+    "pos": "固定短语",
+    "en": "fall for something means to be tricked into believing something that is not true or to be deceived by a trick or lie",
+    "zh": "本义为\"朝某物栽下去、一头扎进去\"，舆论与政治评论语境核心义为\"上当、信以为真、被说辞骗住\"",
+    "ctx": "面对特朗普\"发5000美元\"的承诺，美国公众并没有信这套说辞；标题用现在进行时 is falling for，强调消息一出就没人信。",
+    "ex1": "Investors who fell for the promise of guaranteed returns lost everything within a year. 那些信了\"保本高收益\"承诺的投资者，一年之内血本无归。",
+    "ex2": "Don't fall for the claim that tariffs are paid by foreign exporters. 别信\"关税是外国出口商在付\"这种说法。"
+   },
+   {
+    "w": "budget-busting",
+    "ipa": "/ˈbʌdʒɪt ˌbʌstɪŋ/",
+    "pos": "adj.（复合形容词）",
+    "en": "budget-busting means causing spending to rise far beyond the limits of a planned budget",
+    "zh": "本义为\"把预算撑破的\"（bust 本义是\"打破、砸烂\"），财政与公共支出语境核心义为\"严重超支的、把预算搞崩的\"",
+    "ctx": "指这项发5000美元的提案预计耗资1.2万亿美元，远超联邦财政承受范围，形容词直接修饰 gimmick。",
+    "ex1": "The new defense package is a budget-busting commitment that lawmakers quietly approved last month. 这份新的国防支出方案是一项严重超支的承诺，议员们上个月悄悄通过了它。",
+    "ex2": "Economists warned the plan was budget-busting long before the first check was printed. 早在第一张支票印出来之前，经济学家就警告过这个计划会把预算搞崩。"
+   },
+   {
+    "w": "dividend",
+    "ipa": "/ˈdɪvɪdend/",
+    "pos": "n.",
+    "en": "a dividend is a share of a company's profit that is paid regularly to the people who own shares in it",
+    "zh": "本义为\"要被分掉的东西\"（源自拉丁语 dividendum，词根 divid- = 分），公司财务与股东回报语境核心义为\"股息、分红\"",
+    "ctx": "特朗普把这笔5000美元的政府支出称作\"Trump Dividend\"，作者全篇加引号：真正的分红以盈利为前提，而美国政府背着40万亿国债，根本无利可分。",
+    "ex1": "The board voted to suspend the dividend after three consecutive quarters of losses. 在连续三个季度亏损之后，董事会投票决定暂停派息。",
+    "ex2": "Shareholders expect a dividend only when the company is genuinely profitable. 只有公司真正盈利时，股东才会指望拿到分红。"
+   },
+   {
+    "w": "gimmick",
+    "ipa": "/ˈɡɪmɪk/",
+    "pos": "n.",
+    "en": "a gimmick is a trick or unusual device intended to attract attention rather than to serve any real or lasting purpose",
+    "zh": "本义为\"用来吸引注意的小花招\"，营销与政治宣传语境核心义为\"噱头、博眼球的把戏\"",
+    "ctx": "作者对整个5000美元提案的定性——目的是在中期选举前吸引选票，而不是解决任何真实的财政问题。",
+    "ex1": "The free upgrade turned out to be a marketing gimmick that expired after thirty days. 所谓的免费升级，结果是个三十天就到期的营销噱头。",
+    "ex2": "Critics called the announcement a gimmick designed to distract from weak earnings. 批评者称这项公告只是个噱头，用来转移人们对疲软业绩的注意力。"
+   },
+   {
+    "w": "underscore",
+    "ipa": "/ˌʌndəˈskɔː(r)/",
+    "pos": "v.",
+    "en": "to underscore something means to emphasize it or to show clearly that it is important",
+    "zh": "本义为\"在下面划线\"（under 在下面+ score 划痕），新闻评论与论证语境核心义为\"凸显、印证、使某件事更加明显\"",
+    "ctx": "特朗普在达拉斯的这番讲话，本身就成了\"财政保守派在政治上无处安身\"这一现象的证据；注意主语是 speech 而非人。",
+    "ex1": "The sudden collapse of the fund underscores how fragile investor confidence has become. 这只基金的突然崩盘，凸显出投资者信心已经何等脆弱。",
+    "ex2": "Her resignation underscored the depth of the disagreement inside the company. 她的辞职印证了公司内部分歧之深。"
+   },
+   {
+    "w": "fiscal",
+    "ipa": "/ˈfɪskl/",
+    "pos": "adj.",
+    "en": "fiscal means relating to government money, especially public spending, taxation and national budgets",
+    "zh": "本义为\"与国库有关的\"（源自拉丁语 fiscus，意为\"钱袋、国库\"），政府财政与公共预算语境核心义为\"财政的\"，特指国家层面的收支",
+    "ctx": "与 fiscal sanity、fiscal crisis 连用，指向美国联邦政府的税收、举债与赤字问题；注意与 financial 区分，后者泛指一切金融财务。",
+    "ex1": "The central bank insists that monetary tools alone cannot offset years of fiscal excess. 央行坚称，仅靠货币工具无法抵消多年来的财政过度扩张。",
+    "ex2": "Both parties claim to support fiscal discipline until an election year arrives. 两党都声称支持财政纪律——直到选举年到来。"
+   },
+   {
+    "w": "sanity",
+    "ipa": "/ˈsænəti/",
+    "pos": "n.",
+    "en": "sanity is the state of being mentally healthy and able to think and behave in a reasonable way",
+    "zh": "本义为\"神志清醒、精神健全\"（sane 的名词形式，反义为 insanity），政策评论语境核心义为\"理智、清醒的判断力\"",
+    "ctx": "fiscal sanity 这个搭配本身带有强烈态度——作者不说 fiscal responsibility 而说 sanity，暗示当前的财政状况已经不是\"负不负责\"的问题，而是\"清不清醒\"的问题。",
+    "ex1": "After months of speculation, the market finally showed some sanity. 在数月的投机狂热之后，市场终于恢复了一点理智。",
+    "ex2": "He was the only voice of sanity in a room full of enthusiasts. 在满屋子的狂热者当中，他是唯一一个清醒的声音。"
+   },
+   {
+    "w": "politically homeless",
+    "ipa": "/pəˈlɪtɪkli ˈhəʊmləs/",
+    "pos": "固定短语",
+    "en": "to be politically homeless means to find that no existing political party represents your views, leaving you with no side to support",
+    "zh": "本义为\"在政治上没有归属的家\"，两党政治语境核心义为\"政治上无家可归、两边都投不下去\"",
+    "ctx": "指既反对共和党大手笔发钱与直接入股企业、又不认同民主党左翼加税管制主张的选民，在11月中期选举中找不到可投的一方；这是全文核心论点，副标题提出、第9段揭晓。",
+    "ex1": "Moderates in both parties increasingly describe themselves as politically homeless. 两党内部的温和派越来越多地自称在政治上无家可归。",
+    "ex2": "The debate left him politically homeless for the first time in forty years. 这场辩论让他四十年来第一次感到政治上无处安身。"
+   }
+  ]
+ },
+ "paragraphs": [
+  {
+   "en_html": "<mark class=\"voc\">Socialism</mark> will not be stopped with more socialism. President Donald Trump's <mark class=\"voc\">proposal</mark> to pay every adult citizen $5,000 if the GOP <mark class=\"voc\">holds</mark> the House and Senate this fall is a <mark class=\"voc\">desperate</mark> gimmick that <mark class=\"voc\">betrays</mark> a <mark class=\"voc\">profound</mark> lack of seriousness about the <mark class=\"voc\">looming</mark> fiscal crisis. \"If the Republicans win, you win with us, and you get $5,000,\" Trump said Wednesday night at the party's midterm convention in Dallas. He <mark class=\"voc\">dubbed</mark> the <mark class=\"voc\">payout</mark> the \"Trump Dividend\" and said recipients would have to spend the money inside the United States — but offered no details on how, or whether, Congress would even be asked to <mark class=\"voc\">authorize</mark> it.",
+   "zh": "社会主义，是没法靠更多社会主义来阻止的。特朗普总统提议：只要共和党今秋守住参众两院，就给每个成年公民发放5000美元——这是一个孤注一掷的噱头，暴露出他对迫在眉睫的财政危机毫无严肃可言。\"共和党赢了，你们就跟我们一起赢，你们就能拿到5000美元，\"周三晚上，特朗普在达拉斯的共和党中期选举大会上如是说。他给这笔钱取名\"特朗普分红\"，并称领款人必须把钱花在美国境内——但对于这钱该怎么发，甚至国会要不要被请来批一下，他一个字也没提。",
+   "notes": [
+    {
+     "w": "socialism",
+     "ipa": "/ˈsəʊʃəlɪzəm/",
+     "pos": "n.",
+     "en": "socialism is a political and economic system in which the government plays a large role in owning or regulating the economy and redistributing wealth",
+     "zh": "本义为\"以社会整体而非个人为本位的制度主张\"，美国国内政治标签语境核心义为特指美国政治光谱最左端的一套主张",
+     "ctx": "指后文 DSA（美国民主社会主义者组织）代表的政策取向，包括房租管制、向高收入者加税、扩大公共医保等；作者首句的讽刺在于：用\"全民发现金\"去对抗这套主张，本身就是同一种做法。",
+     "ex1": "The mayor rejected the label, saying his housing plan was practical rather than ideological. 这位市长拒绝接受这个标签，称他的住房方案是务实之举，而非意识形态产物。",
+     "ex2": "Critics argue that broad cash handouts blur the line both parties claim to defend. 批评者认为，大规模现金发放模糊了两党都声称要捍卫的那条界线。"
+    },
+    {
+     "w": "proposal",
+     "ipa": "/prəˈpəʊzl/",
+     "pos": "n.",
+     "en": "a proposal is a formal plan or suggestion that is put forward for other people to consider",
+     "zh": "本义为\"被摆到前面供人考虑的方案\"（pro- 向前+ pose 放置），政策与立法语境核心义为\"提案、提议\"",
+     "ctx": "指特朗普在达拉斯提出的\"共和党若守住两院就给每个成年公民发5000美元\"这一构想；注意其后固定接不定式 to do。",
+     "ex1": "The company put forward a proposal to buy out its smaller rival by year end. 该公司提出了一项提议，计划在年底前收购规模较小的竞争对手。",
+     "ex2": "Lawmakers rejected the proposal to suspend import duties for six months. 议员们否决了暂停征收六个月进口税的提议。"
+    },
+    {
+     "w": "hold",
+     "ipa": "/həʊld/",
+     "pos": "v.",
+     "en": "to hold something here means to keep control of a position and not lose it to an opponent",
+     "zh": "本义为\"握住、抓牢\"，选举与席位争夺语境核心义为\"守住、保住（控制权/席位）\"",
+     "ctx": "指共和党在11月中期选举中保住对参议院和众议院的控制，这是特朗普承诺发钱的前提条件。",
+     "ex1": "The party is expected to hold its majority in the upper chamber despite heavy losses elsewhere. 尽管在其他地方损失惨重，该党预计仍能守住上院的多数席位。",
+     "ex2": "She held the seat by fewer than three hundred votes. 她以不到三百票的优势守住了这个席位。"
+    },
+    {
+     "w": "desperate",
+     "ipa": "/ˈdespərət/",
+     "pos": "adj.",
+     "en": "desperate means willing to do anything to change a very bad situation, because you have almost no hope left and few options remaining",
+     "zh": "本义为\"希望已经耗尽的\"（de- 失去、去除+ sper- 希望，与 prosper\"兴旺\"互为反义词根：pro-向前+sper希望=前方有希望→繁荣；de-+sper=希望被拿走→绝望），政治评论与危机应对语境核心义为\"孤注一掷的、走投无路的\"",
+     "ctx": "作者用这个词定性整个5000美元提案：这不是一个从容的政策选择，而是没有别的招数可用时的最后一搏，也顺带点出共和党在中期选举中的被动处境。",
+     "ex1": "The airline made a desperate attempt to raise cash by selling off half its fleet. 这家航空公司卖掉了一半机队，孤注一掷地想筹到现金。",
+     "ex2": "Investors read the emergency rate cut as a desperate measure rather than a sign of confidence. 投资者把这次紧急降息解读为走投无路之举，而不是信心的表现。"
+    },
+    {
+     "w": "betray",
+     "ipa": "/bɪˈtreɪ/",
+     "pos": "v.",
+     "en": "to betray a feeling or quality means to reveal it involuntarily, especially one that a person is trying to hide or is not aware of showing",
+     "zh": "本义为\"背叛、出卖\"，此处为熟词僻义，性格与心理描写语境核心义为\"（无意中）暴露、流露出\"，强调\"并非故意告诉别人，而是没能藏住\"",
+     "ctx": "a gimmick that betrays a profound lack of seriousness——这个噱头本身，把提出者对财政危机有多不当回事，不打自招地露了出来；这是作者\"让对方自证\"这一贯穿全文手法的第一次出现。",
+     "ex1": "His hesitation on stage betrayed a lack of preparation that the rehearsal had not shown. 他在台上的迟疑，暴露出彩排时没能看出来的准备不足。",
+     "ex2": "The report's cautious wording betrayed just how uncertain the forecasters actually were. 报告里那种谨慎的措辞，流露出预测人员心里到底有多没底。"
+    },
+    {
+     "w": "profound",
+     "ipa": "/prəˈfaʊnd/",
+     "pos": "adj.",
+     "en": "profound means very great, deep or intense in degree or effect",
+     "zh": "本义为\"深到底部的\"（pro- 向下+ found 底部，与 foundation、fund 同源），程度描述语境核心义为\"深刻的、极度的\"",
+     "ctx": "a profound lack of seriousness——用通常修饰\"影响\"\"变革\"这类庄重名词的形容词去修饰\"不严肃\"，本身带有反讽意味，凸显这种不当回事的程度之深。",
+     "ex1": "The ruling is expected to have a profound impact on how the industry prices risk. 这项裁决预计将对该行业如何为风险定价产生深远影响。",
+     "ex2": "A profound silence followed the announcement, broken only after several minutes. 公告发布之后是一片深沉的寂静，过了好几分钟才有人开口。"
+    },
+    {
+     "w": "looming",
+     "ipa": "/ˈluːmɪŋ/",
+     "pos": "adj.（现在分词作定语，源自动词 loom）",
+     "en": "looming describes a large, threatening problem or event that is about to happen and is causing increasing worry",
+     "zh": "本义为\"（庞然大物）隐隐现出形状、逼近\"（loom 本义为\"织布机\"——中世纪作坊里高大沉重的木制织布机，在昏暗光线中先以模糊黑影的形态出现在人面前），风险预警语境核心义为\"迫近的、逼近的\"，几乎只用于负面情境",
+     "ctx": "the looming fiscal crisis——已经隐约成形、正在逼近的财政危机，而不是遥远、可能发生的假设性风险。",
+     "ex1": "A payment deadline was looming, and the company still had no plan to meet it. 还款的截止日期步步逼近，而公司仍然没有应对方案。",
+     "ex2": "Concerns over the currency loomed large throughout the earnings call. 整场财报电话会议中，对该货币的担忧始终挥之不去。"
+    },
+    {
+     "w": "dub",
+     "ipa": "/dʌb/",
+     "pos": "v.",
+     "en": "to dub someone or something means to give them a particular name or nickname, especially one that is descriptive, humorous or not officially deserved",
+     "zh": "本义为\"用剑轻拍肩膀册封骑士、赐予名号\"（中世纪授勋仪式用语），媒体命名与政治宣传语境核心义为\"给……起名、冠以某个称号\"，常带\"自封、外界戏称\"的色彩",
+     "ctx": "特朗普给这笔5000美元的支出自行命名为\"Trump Dividend\"；作者选用 dub 而非中性的 call，暗示这个名号是他自己贴上去的。",
+     "ex1": "Traders quickly dubbed the new index \"the fear gauge\" after its first volatile week. 在首个剧烈波动的星期过后，交易员很快给这个新指数起了个外号，叫\"恐慌指标\"。",
+     "ex2": "The startup was dubbed the most overvalued company of the decade by two rival analysts. 两位竞争对手的分析师把这家初创公司称为\"十年来估值最离谱的公司\"。"
+    },
+    {
+     "w": "payout",
+     "ipa": "/ˈpeɪaʊt/",
+     "pos": "n.",
+     "en": "a payout is a large sum of money that is paid to someone, especially by a company, a government or an insurer",
+     "zh": "本义为\"支付出去的那笔钱\"（由动词短语 pay out 转化而来），保险与财政发放语境核心义为\"支付款、赔付款、发放金额\"",
+     "ctx": "指每位成年公民可领取的那5000美元。",
+     "ex1": "The insurer faces a record payout after last month's storms swept the coast. 上个月风暴横扫海岸之后，这家保险公司面临创纪录的赔付。",
+     "ex2": "Employees received a one-off payout instead of the promised annual bonus. 员工拿到的是一笔一次性补偿，而不是原先承诺的年度奖金。"
+    },
+    {
+     "w": "authorize",
+     "ipa": "/ˈɔːθəraɪz/",
+     "pos": "v.",
+     "en": "to authorize something means to give official permission for it to happen",
+     "zh": "本义为\"赋予权威、使之获得正当授权\"（author 本义为\"创始者、权威来源\"），立法与拨款语境核心义为\"（正式）批准、授权\"",
+     "ctx": "按美国宪法，联邦支出必须由国会批准；作者指出特朗普连\"是否会请国会批准\"都未提及，意味着这个承诺在程序上是空的。",
+     "ex1": "Congress must authorize any spending of this size before a single check goes out. 在任何一张支票寄出之前，这种规模的支出都必须先经国会批准。",
+     "ex2": "The board authorized an emergency loan to keep the plant running. 董事会批准了一笔紧急贷款，以维持工厂运转。"
+    }
+   ]
+  },
+  {
+   "en_html": "This would cost an estimated $1.2 trillion next year, according to the Committee for a Responsible Federal Budget — roughly $5,000 times some 245 million adult citizens. The money would need to be borrowed <mark class=\"voc\">on top of</mark> the $40 trillion national debt — and paid back with <mark class=\"voc\">interest</mark>. Even the <mark class=\"voc\">administration</mark> can't agree on where the money is supposed to come from.",
+   "zh": "据无党派机构\"联邦预算责任委员会\"测算，这项提案明年将耗资约1.2万亿美元——粗算下来，就是5000美元乘以约2.45亿成年公民。而这笔钱只能靠借，还是要在已经高达40万亿美元的国债之上再借一笔——将来连本带利，一分都得还。更要命的是，就连政府内部，都还没能就\"这钱究竟从哪儿来\"说出个一致的答案。",
+   "notes": [
+    {
+     "w": "on top of",
+     "ipa": "/ɒn tɒp əv/",
+     "pos": "固定短语",
+     "en": "on top of something means in addition to something that already exists, often something that is already burdensome",
+     "zh": "本义为\"在……的上面\"，债务与负担叠加语境核心义为\"在已有的基础上再加、雪上加霜地叠加\"",
+     "ctx": "这1.2万亿美元必须在已有的40万亿国债之上再借，凸显债务叠加。",
+     "ex1": "The new levy comes on top of a fuel surcharge that was introduced in March. 这项新征收是加在三月已开征的燃油附加费之上的。",
+     "ex2": "On top of everything else, the company must now refund two years of overcharges. 除此之外，公司现在还必须退还两年的超收款项。"
+    },
+    {
+     "w": "interest",
+     "ipa": "/ˈɪntrəst/",
+     "pos": "n.",
+     "en": "interest is the extra money that you pay back when you borrow money, or that you earn when you lend or deposit it",
+     "zh": "本义为\"与我有利害关系的东西\"（源自拉丁语 interesse，字面\"处于其间\"，\"兴趣\"与\"利息\"同源于此），借贷与债务语境核心义为\"利息\"",
+     "ctx": "借来发钱的这1.2万亿美元不仅要偿还本金，还要支付利息，利息本身又会转化为新的赤字。",
+     "ex1": "The loan must be repaid with interest within five years of the closing date. 这笔贷款必须在交割日后五年内连本带利偿清。",
+     "ex2": "Rising interest payments now consume a growing share of the federal budget. 不断上升的利息支出，如今正吞噬着联邦预算中越来越大的一块。"
+    },
+    {
+     "w": "administration",
+     "ipa": "/ədˌmɪnɪˈstreɪʃn/",
+     "pos": "n.",
+     "en": "in American usage, the administration refers to the president and the senior officials who run the executive branch during a particular presidency",
+     "zh": "本义为\"管理、行政管理工作\"，美国政治语境核心义为\"（某总统任内的）本届政府、行政当局\"",
+     "ctx": "指特朗普政府的白宫及各行政部门；作者用\"就连政府自己都说不清钱从哪来\"完成一次自证式论证。",
+     "ex1": "A senior administration official confirmed that no funding mechanism had been agreed. 一位政府高级官员证实，资金来源尚未达成一致。",
+     "ex2": "The incoming administration inherited a deficit larger than any in peacetime history. 新上任的政府接手了一个和平时期历史上最大的赤字。"
+    }
+   ]
+  },
+  {
+   "en_html": "Trump said <mark class=\"voc\">revenue</mark> from tariffs would cover what he <mark class=\"voc\">branded</mark> as a \"dividend,\" telling Fox News's Laura Ingraham that \"we're <mark class=\"voc\">taking in</mark> $21 trillion\" from tariffs. The Treasury's own numbers <mark class=\"voc\">put</mark> <mark class=\"voc\">net</mark> tariff revenue this fiscal year at about $154 billion. Overall tariff and excise collections since the start of last year total just under $500 billion — but more than $100 billion of that has already been <mark class=\"voc\">refunded</mark> after the Supreme Court <mark class=\"voc\">struck down</mark> many of the administration's tariffs, meaning the government refunded more money in some months than it collected. The taxes on imports that <mark class=\"voc\">remain in effect</mark> are expected to generate less than $200 billion this year, a sum already <mark class=\"voc\">baked into</mark> this year's <mark class=\"voc\">deficit</mark> of more than $2 trillion. The president previously said he'd <mark class=\"voc\">earmark</mark> this same <mark class=\"voc\">pot</mark> of tariff revenue to cover nearly $6 trillion in other costs. It cannot pay for everything twice.",
+   "zh": "特朗普说，关税收入足以覆盖这笔被他冠名为\"分红\"的钱。他对福克斯新闻的劳拉·英格拉汉姆宣称，我们靠关税\"进账21万亿美元\"。可财政部自己的账本上写着：本财年关税净收入约为1540亿。去年年初至今，关税与消费税的征收总额接近5000亿美元——但其中一千多亿已经退了回去，因为最高法院推翻了这届政府的大批关税；这意味着在某些月份，政府退出去的钱比收进来的还多。至于那些仍然有效的进口税，今年预计带来不到2000亿美元，而这笔钱早已被算进今年两万亿有余的赤字里。更何况，总统此前还说过，要把同一笔关税收入专门划出来，去填另外将近6万亿美元的开支。一笔钱，花不了两遍。",
+   "notes": [
+    {
+     "w": "revenue",
+     "ipa": "/ˈrevənjuː/",
+     "pos": "n.",
+     "en": "revenue is the total amount of money that a government or a company receives regularly, before any costs are deducted",
+     "zh": "本义为\"回流进来的东西\"（源自法语 revenir，\"返回\"），政府财政收入语境核心义为\"财政收入\"，特指税收等进项",
+     "ctx": "tariff revenue 即关税收入，是特朗普声称用来支付\"分红\"的资金来源；注意与 profit 区分，revenue 是收进来的总额，未扣成本。",
+     "ex1": "A sharp fall in import volumes has produced an unexpected revenue shortfall this quarter. 进口量大幅下滑，导致本季度出现了意料之外的收入缺口。",
+     "ex2": "The city relies on property taxes for nearly half of its annual revenue. 这座城市近一半的年度收入依赖房产税。"
+    },
+    {
+     "w": "brand",
+     "ipa": "/brænd/",
+     "pos": "v.",
+     "en": "to brand someone or something means to label them as a particular type, usually in a way that is unfair, negative or hard to escape",
+     "zh": "本义为\"用烧红的烙铁在牲畜或罪犯身上烙下印记\"，媒体定性与政治话语语境核心义为\"给……贴标签、把……说成是\"，隐含\"强行贴上、不容辩解\"的意味",
+     "ctx": "what he branded as a \"dividend\"——作者拒绝直接称其为分红，只说\"被他烙上分红二字的那个东西\"，与标题的引号、第1段的 dub 构成同一条讽刺链。",
+     "ex1": "Rivals branded the merger a desperate move by a company running out of options. 竞争对手把这桩合并说成是一家走投无路的公司的孤注一掷。",
+     "ex2": "He was branded a troublemaker after a single memo leaked to the press. 仅仅因为一份备忘录泄露给媒体，他就被扣上了\"麻烦制造者\"的帽子。"
+    },
+    {
+     "w": "take in",
+     "ipa": "/teɪk ɪn/",
+     "pos": "固定短语",
+     "en": "to take in money means to receive or earn it as income over a period of time",
+     "zh": "本义为\"把……收进来\"，收入与营收语境核心义为\"进账、收入（多少钱）\"",
+     "ctx": "特朗普声称关税\"take in $21 trillion\"——这个数字与财政部公布的1540亿净收入相差约136倍。",
+     "ex1": "The museum takes in more from its gift shop than from ticket sales. 这家博物馆从礼品店的进账比门票收入还多。",
+     "ex2": "Thousands of small investors were taken in by the scheme before regulators stepped in. 在监管部门介入之前，数以千计的小投资者被这个骗局骗了。"
+    },
+    {
+     "w": "put A at B",
+     "ipa": "/pʊt/",
+     "pos": "固定搭配",
+     "en": "to put a figure at a certain number means to state or estimate that the amount is that number",
+     "zh": "本义为\"把某个数值放在某个位置上\"，数据报道语境核心义为\"（官方/机构）认定或估计某数值为……\"",
+     "ctx": "财政部的数据将本财年关税净收入认定为约1540亿美元。",
+     "ex1": "Officials put the total damage at just over two billion dollars. 官方将损失总额认定为略高于二十亿美元。",
+     "ex2": "Analysts put the refund exposure at somewhere near $175 billion. 分析师估计需要退还的金额接近1750亿美元。"
+    },
+    {
+     "w": "net",
+     "ipa": "/net/",
+     "pos": "adj.",
+     "en": "net means remaining after all deductions, refunds or expenses have been subtracted",
+     "zh": "本义为\"扣除之后剩下的\"，会计与财务语境核心义为\"净的\"，与 gross（毛的、总的）相对",
+     "ctx": "1540亿是\"净\"关税收入——因为最高法院判决后政府正在大额退还此前征收的关税，一边收一边退，某些月份退出去的甚至超过收进来的。",
+     "ex1": "Net income fell sharply once the refund liabilities were recognized on the balance sheet. 一旦把退款负债计入资产负债表，净收入就大幅下滑。",
+     "ex2": "Gross sales looked healthy, but net margins told a very different story. 毛销售额看上去不错，但净利润率讲的完全是另一个故事。"
+    },
+    {
+     "w": "refund",
+     "ipa": "/ˈriːfʌnd/ (n.) /ˌriːˈfʌnd/ (v.)",
+     "pos": "n./v.",
+     "en": "to refund money means to give back money that someone has paid, usually because it was collected wrongly or the goods were returned",
+     "zh": "本义为\"把钱送回去\"（re- 回+ fund 资金），退税与消费者权益语境核心义为\"退款、退还\"",
+     "ctx": "最高法院判定相关关税无效后，政府已向进口商退还超过1000亿美元。",
+     "ex1": "The government has agreed to refund the duties with interest once the ruling becomes final. 一旦裁决成为终局，政府已同意连本带息退还这些税款。",
+     "ex2": "Customers who bought before the recall are entitled to a full refund. 在召回之前购买的顾客有权获得全额退款。"
+    },
+    {
+     "w": "strike down",
+     "ipa": "/straɪk daʊn/",
+     "pos": "固定短语",
+     "en": "when a court strikes down a law or policy, it declares it invalid and cancels its legal effect",
+     "zh": "本义为\"击倒、打落\"，司法审查语境核心义为\"（法院）判定……无效、推翻、撤销\"",
+     "ctx": "2026年2月20日，美国最高法院以6比3判定《国际紧急经济权力法》不授权总统加征关税，导致大批关税被认定自始无效。",
+     "ex1": "The court struck down the rule on the grounds that the agency had exceeded its authority. 法院以该机构越权为由撤销了这项规定。",
+     "ex2": "If the measure is struck down, billions in collected duties may have to be returned. 如果这项措施被判无效，已征收的数十亿美元税款可能都得退回。"
+    },
+    {
+     "w": "remain in effect",
+     "ipa": "/rɪˈmeɪn ɪn ɪˈfekt/",
+     "pos": "固定短语",
+     "en": "if a rule or measure remains in effect, it continues to be legally valid and enforced",
+     "zh": "本义为\"继续处于生效状态\"，法律与政策语境核心义为\"仍然有效、继续施行\"",
+     "ctx": "指那些未被最高法院推翻、依然合法征收的进口税，预计今年带来不到2000亿美元。",
+     "ex1": "The export controls remain in effect while the appeal is pending. 在上诉期间，出口管制继续有效。",
+     "ex2": "The older rate schedule took effect in January and remains in effect today. 旧的税率表一月开始施行，至今仍然有效。"
+    },
+    {
+     "w": "baked into",
+     "ipa": "/beɪkt ˈɪntuː/",
+     "pos": "固定短语",
+     "en": "if something is baked into a figure or a plan, it is already included in it as an inseparable part and cannot be counted again",
+     "zh": "本义为\"被烤进（蛋糕）里去了\"，财经预期与预算语境核心义为\"已计入、已包含在内、无法再单独抽出\"",
+     "ctx": "那不到2000亿的关税收入早已被算进今年超过2万亿的赤字测算中，不是一笔可以另作他用的闲钱。",
+     "ex1": "Two rate cuts are already baked into current valuations, which leaves little room for surprise. 当前估值里已经计入了两次降息，因此留给意外的空间不大。",
+     "ex2": "That risk was baked into the deal from the day it was signed. 这个风险从签约那天起就已包含在这笔交易之中。"
+    },
+    {
+     "w": "deficit",
+     "ipa": "/ˈdefɪsɪt/",
+     "pos": "n.",
+     "en": "a deficit is the amount by which money spent exceeds money received during a particular period",
+     "zh": "本义为\"欠缺、不足之数\"，公共财政语境核心义为\"（年度）赤字\"，与 debt（累积债务总额）区分：赤字是流量，债务是存量",
+     "ctx": "指美国今年超过2万亿美元的联邦财政赤字，关税收入已被计入其中。",
+     "ex1": "The deficit widened again despite record tax collections last quarter. 尽管上季度税收创下纪录，赤字仍再度扩大。",
+     "ex2": "Every annual deficit eventually becomes part of the national debt. 每一年的赤字，最终都会变成国债的一部分。"
+    },
+    {
+     "w": "earmark",
+     "ipa": "/ˈɪəmɑːk/",
+     "pos": "v.",
+     "en": "to earmark money means to set it aside for one specific purpose so that it cannot be used for anything else",
+     "zh": "本义为\"在牲畜耳朵上剪出记号以标明归属\"（ear 耳朵+ mark 记号，源自牧场标记法），财政拨款语境核心义为\"专款专用、把某笔钱指定用于某一用途\"",
+     "ctx": "特朗普此前已宣称要把同一笔关税收入专门划拨去填补近6万亿美元的其他开支，如今又说要用它发放\"分红\"——作者借这个词\"专用、不得挪作他用\"的本义，直接拆穿这个承诺。",
+     "ex1": "The bill earmarks nine billion dollars for rural broadband over the next decade. 该法案划拨九十亿美元，专用于未来十年的农村宽带建设。",
+     "ex2": "Those proceeds were earmarked for debt reduction long before the new plan surfaced. 早在这个新计划出现之前，那笔收益就已被指定用于削减债务。"
+    },
+    {
+     "w": "pot",
+     "ipa": "/pɒt/",
+     "pos": "n.",
+     "en": "a pot of money is a single fixed sum of money available to be spent on something",
+     "zh": "本义为\"锅、罐\"，财政拨款语境核心义为\"一笔（总额固定的）钱\"，强调其\"就这么一锅、用完为止\"的有限性",
+     "ctx": "this same pot of tariff revenue——同一笔关税收入被承诺了两次用途，凸显承诺之间彼此冲突。",
+     "ex1": "Both programs are drawing from the same pot, and the money runs out in March. 两个项目都在从同一笔钱里支取，而这笔钱三月就会用完。",
+     "ex2": "Ministers cannot promise new spending without saying which pot it comes from. 大臣们不能在不说明资金出处的情况下承诺新的支出。"
+    }
+   ]
+  },
+  {
+   "en_html": "<mark class=\"voc\">Flooding</mark> the economy with money would only <mark class=\"voc\">worsen</mark> <mark class=\"voc\">inflation</mark>, since it would mean more dollars <mark class=\"voc\">chasing</mark> the same amount of goods. That would raise the prices of basic <mark class=\"voc\">staples</mark>, as Americans experienced following the two rounds of <mark class=\"voc\">stimulus</mark> checks during the pandemic.",
+   "zh": "往经济里灌进这么多钱，只会让通胀雪上加霜——因为那意味着，更多的钱去追逐同样多的商品。米面油盐这些最基本的开销就会跟着涨，正如疫情期间两轮补贴支票发下去之后，美国人亲身领教过的那样。",
+   "notes": [
+    {
+     "w": "flood",
+     "ipa": "/flʌd/",
+     "pos": "v.",
+     "en": "to flood something with a substance means to fill or supply it with far more than it can absorb",
+     "zh": "本义为\"洪水泛滥、淹没\"，货币与市场语境核心义为\"大量涌入、灌满\"，带有明显的负面态度",
+     "ctx": "作者不写 inject 或 boost，而选 flood，暗示这不是\"注入\"而是\"泛滥成灾\"。",
+     "ex1": "Cheap imports flooded the market and wiped out three domestic producers in two years. 廉价进口品涌入市场，两年内挤垮了三家本土生产商。",
+     "ex2": "The helpline was flooded with calls within an hour of the announcement. 公告发布一小时内，热线电话就被打爆了。"
+    },
+    {
+     "w": "worsen",
+     "ipa": "/ˈwɜːsn/",
+     "pos": "v.",
+     "en": "to worsen means to become worse or to make something become worse",
+     "zh": "本义为\"使更糟\"（worse + -en 动词后缀），经济状况语境核心义为\"恶化、加剧\"",
+     "ctx": "大规模发放现金会加剧本已存在的通胀压力。",
+     "ex1": "Supply bottlenecks worsened just as demand began to recover. 就在需求开始回升的时候，供应瓶颈反而恶化了。",
+     "ex2": "Analysts warn the measure could worsen the very problem it claims to solve. 分析师警告说，这项措施可能会加剧它声称要解决的那个问题。"
+    },
+    {
+     "w": "inflation",
+     "ipa": "/ɪnˈfleɪʃn/",
+     "pos": "n.",
+     "en": "inflation is a general rise in prices over time, which reduces the purchasing power of money",
+     "zh": "本义为\"充气、膨胀\"（in- 进入+ flat- 吹气，与 inflate\"吹气球\"同源），宏观经济语境核心义为\"通货膨胀\"",
+     "ctx": "发放1.2万亿现金将导致\"更多的钱追逐同样多的商品\"，推高生活必需品价格。",
+     "ex1": "Runaway inflation erased most of the gains households had made in the previous two years. 失控的通胀，抹掉了家庭在此前两年里获得的大部分收益。",
+     "ex2": "The bank raised rates three times in an attempt to curb inflation. 央行三次加息，试图遏制通胀。"
+    },
+    {
+     "w": "chase",
+     "ipa": "/tʃeɪs/",
+     "pos": "v.",
+     "en": "to chase something means to pursue it quickly in order to catch or obtain it",
+     "zh": "本义为\"追赶、追逐\"，货币与价格语境核心义为\"（资金）追逐（有限的商品或资产）\"",
+     "ctx": "more dollars chasing the same amount of goods 是描述通胀成因的经典表述——商品数量不变而货币增加，价格必然被抬高。",
+     "ex1": "Too much capital chasing too few assets is how bubbles begin. 太多资金追逐太少资产，泡沫就是这样开始的。",
+     "ex2": "The whole investigation turned out to be a wild goose chase. 整场调查最后证明是白费力气。"
+    },
+    {
+     "w": "staple",
+     "ipa": "/ˈsteɪpl/",
+     "pos": "n.",
+     "en": "a staple is a basic food or product that people buy and use regularly as part of everyday life",
+     "zh": "本义为\"固定物、被官方指定固定交易的大宗商品集散地\"（与\"订书钉\"同源，核心都是\"固定\"），民生与物价语境核心义为\"生活必需品、主食\"",
+     "ctx": "basic staples 指米面油等基本生活开销，作者用具体的菜篮子替代抽象的\"物价\"，让通胀变得可感。",
+     "ex1": "Prices of basic staples rose faster than wages for three consecutive years. 基本生活必需品的价格连续三年涨得比工资快。",
+     "ex2": "Rice remains the staple food for more than half the world's population. 大米仍然是全球一半以上人口的主食。"
+    },
+    {
+     "w": "stimulus",
+     "ipa": "/ˈstɪmjələs/",
+     "pos": "n.（复数 stimuli）",
+     "en": "stimulus refers to action taken by a government, especially spending or tax cuts, to encourage economic growth",
+     "zh": "本义为\"刺激物、驱赶牲口用的尖棒\"，宏观政策语境核心义为\"（经济）刺激措施\"",
+     "ctx": "指疫情期间美国联邦政府直接向个人发放的补贴支票，共三轮，每人合计可达3200美元。",
+     "ex1": "The stimulus package pushed cash into households faster than supply chains could respond. 这套刺激方案把现金推进家庭的速度，快过了供应链的反应速度。",
+     "ex2": "Withdrawing stimulus too quickly risks stalling a fragile recovery. 过快撤出刺激措施，有可能让脆弱的复苏停滞。"
+    }
+   ]
+  },
+  {
+   "en_html": "But don't <mark class=\"voc\">count on</mark> checks in the mail. This is at least the fourth time in this term Trump has promised Americans a payout that <mark class=\"voc\">failed to arrive</mark>. First it was Elon Musk's \"DOGE dividend,\" <mark class=\"voc\">floated</mark> in February 2025 as $5,000 checks funded by savings the U.S. DOGE Service <mark class=\"voc\">was supposed to</mark> identify; Musk left Washington a few months later having found <mark class=\"voc\">nowhere near</mark> that amount, and the idea was quietly <mark class=\"voc\">shelved</mark>. Then, last November, Trump promised $2,000 tariff <mark class=\"voc\">rebate</mark> checks by the middle of 2026 — timing that would have <mark class=\"voc\">landed</mark> the money in voters' pockets just before the midterms. That check never went out either.",
+   "zh": "不过，别指望支票真会寄到你手上。这至少是他本届任期内第四次承诺给美国人发钱、最后却不了了之。第一次是马斯克的\"DOGE分红\"：2025年2月放出风声，说要发5000美元，钱从\"政府效率部\"本该挖出来的那些节省里出。几个月后，马斯克离开华盛顿，找到的钱与那个数字相去甚远，这个想法就被悄悄束之高阁。第二次是去年11月，特朗普承诺2026年年中之前发放2000美元关税返还支票——这个时间点，恰好能让钱在中期选举前夕落进选民的口袋。那张支票，同样没有发出去。",
+   "notes": [
+    {
+     "w": "count on",
+     "ipa": "/kaʊnt ɒn/",
+     "pos": "固定短语",
+     "en": "to count on something means to rely on it happening or to depend on someone to do something",
+     "zh": "本义为\"把数目算在……身上\"，日常与政治承诺语境核心义为\"指望、指靠\"",
+     "ctx": "don't count on checks in the mail——别指望这支票真能寄到你手上，是全段的定性句。",
+     "ex1": "Don't count on the refund arriving before the end of the fiscal year. 别指望退款能在财年结束前到账。",
+     "ex2": "Small suppliers counted on the exemption and were left exposed when it lapsed. 小型供应商本来指望着这项豁免，等它失效时便毫无防备。"
+    },
+    {
+     "w": "fail to do",
+     "ipa": "/feɪl/",
+     "pos": "固定结构",
+     "en": "to fail to do something means not to do it, especially when it was expected or required",
+     "zh": "本义为\"未能做成\"，中性偏批评语境核心义为\"没能做到、未能实现\"，隐含\"本该如此却没有\"",
+     "ctx": "a payout that failed to arrive——一笔本该到账却始终没到的钱。",
+     "ex1": "The payment failed to arrive, and no one from the agency offered an explanation. 这笔款项始终没有到账，而该机构没有任何人给出解释。",
+     "ex2": "The results failed to meet even the most cautious expectations. 业绩甚至没有达到最保守的预期。"
+    },
+    {
+     "w": "float",
+     "ipa": "/fləʊt/",
+     "pos": "v.",
+     "en": "to float an idea means to suggest it publicly in a tentative way in order to see how people react before committing to it",
+     "zh": "本义为\"漂浮、浮在水面上不落地\"，政治与商业试探语境核心义为\"抛出（想法）试水、放风\"",
+     "ctx": "\"DOGE分红\"在2025年2月被抛出来的方式——从未形成正式方案，只是放出风声看反应，因此作者不用 propose 或 announce。",
+     "ex1": "Executives floated the idea of a spin-off months before any board discussion took place. 在董事会讨论之前几个月，高管们就放出了分拆的风声。",
+     "ex2": "The name was floated internally but never appeared on any official list. 这个人选曾在内部被提及，但从未出现在任何正式名单上。"
+    },
+    {
+     "w": "be supposed to",
+     "ipa": "/səˈpəʊzd/",
+     "pos": "固定结构",
+     "en": "to be supposed to do something means to be expected or required to do it, often with the implication that it did not actually happen",
+     "zh": "本义为\"被认为应当……\"，承诺与预期语境核心义为\"本应、按理该\"，言外之意通常是\"但并没有\"",
+     "ctx": "savings the DOGE Service was supposed to identify——政府效率部本该找出来的那些节省，实际上远未达成。",
+     "ex1": "The savings were supposed to fund the entire program, and they never materialized. 这些节省本该资助整个项目，结果从未兑现。",
+     "ex2": "The new system was supposed to cut processing time in half. 这套新系统本该把处理时间缩短一半。"
+    },
+    {
+     "w": "nowhere near",
+     "ipa": "/ˈnəʊweə nɪə/",
+     "pos": "固定短语",
+     "en": "nowhere near means far from being, not remotely close to a particular standard or amount",
+     "zh": "本义为\"离得一点都不近\"，程度比较语境核心义为\"差得远、远远不够\"，语气强于 not enough",
+     "ctx": "指马斯克找到的节省金额，与承诺的规模相差极远。",
+     "ex1": "The figure was nowhere near the two trillion that had been promised on the campaign trail. 这个数字，跟竞选时承诺的两万亿差得太远了。",
+     "ex2": "Production is nowhere near ready to meet the deadline set last spring. 生产进度离去年春天定下的截止期限差得很远。"
+    },
+    {
+     "w": "shelve",
+     "ipa": "/ʃelv/",
+     "pos": "v.",
+     "en": "to shelve a plan means to decide not to continue with it, either temporarily or permanently, usually without any formal announcement",
+     "zh": "本义为\"把东西放上架子\"（shelf 的动词形式），项目与政策语境核心义为\"搁置、束之高阁\"",
+     "ctx": "DOGE分红这个构想在马斯克离任后被 quietly shelved——没有宣布取消、没有解释，只是悄无声息地不再提起；这个副词 quietly 是作者的刀尖。",
+     "ex1": "The merger was quietly shelved after regulators raised concerns in a closed-door session. 在监管机构于一场闭门会议上提出疑虑之后，这桩合并被悄悄搁置了。",
+     "ex2": "Three of the five proposals have been shelved indefinitely. 五项提案中有三项已被无限期搁置。"
+    },
+    {
+     "w": "rebate",
+     "ipa": "/ˈriːbeɪt/",
+     "pos": "n.",
+     "en": "a rebate is an amount of money that is returned to you, usually because you have paid too much or as an official incentive",
+     "zh": "本义为\"回扣、返还的一部分\"，税务与消费返利语境核心义为\"返还款、退税\"，与 refund 的细微差别在于：refund 多因付错或退货，rebate 多为事后返还一部分",
+     "ctx": "指去年11月承诺、最终未发出的2000美元关税返还支票。",
+     "ex1": "The state offers a rebate of up to nine hundred dollars for energy-efficient appliances. 该州为节能家电提供最高九百美元的返款。",
+     "ex2": "Buyers were promised a rebate that quietly disappeared from the final contract. 买家被承诺会有一笔返款，而它悄悄地从最终合同里消失了。"
+    },
+    {
+     "w": "land",
+     "ipa": "/lænd/",
+     "pos": "v.",
+     "en": "to land something somewhere means to cause it to arrive or end up in a particular place, often used figuratively",
+     "zh": "本义为\"（飞机）着陆、降落\"，此处为及物引申用法，政治与利益输送语境核心义为\"让某物落到某处\"",
+     "ctx": "would have landed the money in voters' pockets——把钱\"降落\"进选民口袋，用虚拟语气 would have done 表示\"本来会但并没有\"。",
+     "ex1": "The timing would have landed the payment in accounts just as early voting began. 按那个时间点，这笔钱本会在提前投票开始时正好进入账户。",
+     "ex2": "She landed the contract three days before the quarter closed. 她在季度结束前三天拿下了这份合同。"
+    }
+   ]
+  }
+ ]
+}

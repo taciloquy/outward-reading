@@ -1,0 +1,480 @@
+{
+ "paragraphs": [
+  {
+   "en_html": "Now the same election-season logic is back: Trump told Ingraham the $5,000 dividend would wait until after the midterms because Democrats \"can't\" pass it now, <mark class=\"voc\">even though</mark> Republicans currently control both <mark class=\"voc\">chambers</mark> of Congress. (On Thursday, Trump <mark class=\"voc\">separately</mark> announced that nearly a million Americans will receive $500 rebate checks before the election after being <mark class=\"voc\">overcharged</mark> for their Obamacare plans.)",
+   "zh": "如今，同一套选举季的逻辑又回来了：特朗普告诉英格拉汉姆，这5000美元的分红要等到中期选举之后，因为民主党现在\"通不过\"——尽管共和党眼下同时掌控着国会两院。（周四，他还另外宣布：近百万美国人将在选举之前收到500美元的返款支票，因为他们此前购买奥巴马医保计划时被多收了钱。）",
+   "notes": [
+    {
+     "w": "even though",
+     "ipa": "/ˈiːvn ðəʊ/",
+     "pos": "连词（引导让步状语从句）",
+     "en": "even though introduces a fact that contrasts with the main clause, emphasizing that the fact is true and real",
+     "zh": "本义为\"即使、尽管\"，论证与反驳语境核心义为\"尽管（后接确凿事实）\"，与 even if（后接假设或不确定情况）形成对照",
+     "ctx": "特朗普称\"民主党通不过\"，作者用 even though 引出板上钉钉的事实——共和党目前已同时控制国会两院，从而使这个借口自行崩塌。",
+     "ex1": "The rule was never enforced, even though it had been on the books for a decade. 这项规定从未被执行过，尽管它已经在法典上摆了十年。",
+     "ex2": "She turned down the offer even though it was the highest bid on the table. 她拒绝了这份报价，尽管它是桌面上出价最高的一份。"
+    },
+    {
+     "w": "chamber",
+     "ipa": "/ˈtʃeɪmbə(r)/",
+     "pos": "n.",
+     "en": "a chamber is one of the two houses that make up a legislature, such as a senate or a house of representatives",
+     "zh": "本义为\"房间、厅室\"（与 chamber music\"室内乐\"同源，核心是\"在一个屋子里\"），立法机构语境核心义为\"议院\"",
+     "ctx": "both chambers of Congress 指美国国会的众议院与参议院；共和党目前同时控制这两院，是拆穿\"民主党通不过\"这一说法的关键事实。",
+     "ex1": "The bill cleared the lower chamber easily but stalled for months in the upper one. 这项法案在下院轻松通过，却在上院搁置了好几个月。",
+     "ex2": "No party has controlled both chambers and the presidency at once since that election. 自那次选举以来，还没有哪个政党同时掌握过两院与总统职位。"
+    },
+    {
+     "w": "separately",
+     "ipa": "/ˈseprətli/",
+     "pos": "adv.",
+     "en": "separately means as a distinct matter, not connected with what has just been mentioned",
+     "zh": "本义为\"分开地、各自地\"，新闻叙事语境核心义为\"另外、另行（宣布/处理）\"",
+     "ctx": "Trump separately announced——这是与5000美元提案无关的另一项宣布，作者把它放进括号里，是为了让\"大额支票选后发、小额支票选前发\"这个时间对比自己说话。",
+     "ex1": "The company separately disclosed a second round of layoffs later the same week. 该公司在同一周稍晚另行披露了第二轮裁员。",
+     "ex2": "The two claims will be assessed separately by different panels. 这两项申请将由不同的评审组分别评估。"
+    },
+    {
+     "w": "overcharge",
+     "ipa": "/ˌəʊvəˈtʃɑːdʒ/",
+     "pos": "v.",
+     "en": "to overcharge someone means to charge them more money than the correct or fair amount",
+     "zh": "本义为\"收费超出应收数额\"（over- 过度+ charge 收费），消费者权益与账务纠纷语境核心义为\"多收费、超额收取\"",
+     "ctx": "近百万美国人在购买奥巴马医保计划时被多收了钱，因而将在选举前收到500美元的返款支票。",
+     "ex1": "Nearly a million households were overcharged for coverage they never used. 近百万户家庭为他们从未使用过的保障多付了钱。",
+     "ex2": "The utility admitted it had overcharged customers by an average of forty dollars a year. 这家公用事业公司承认，平均每年多收了顾客四十美元。"
+    }
+   ]
+  },
+  {
+   "en_html": "Joe Lonsdale, co-founder of Palantir and a Trump <mark class=\"voc\">donor</mark>, tweeted from the convention: \"I am <mark class=\"voc\">hugely</mark> <mark class=\"voc\">in favor of</mark> winning the midterms, and love much about this admin, but am strongly against bread and circus <mark class=\"voc\">bribes</mark>.\"",
+   "zh": "Palantir的联合创始人、特朗普的捐款人乔·朗斯代尔，在大会现场发了一条推特：\"我非常希望我们能赢下中期选举，这届政府身上我也有很多欣赏的地方——但我坚决反对这种'面包与马戏'式的收买。\"",
+   "notes": [
+    {
+     "w": "donor",
+     "ipa": "/ˈdəʊnə(r)/",
+     "pos": "n.",
+     "en": "a donor is a person who gives money or support to an organization, a political campaign or a cause",
+     "zh": "本义为\"赠予者\"（donate 的施动形式），政治献金语境核心义为\"捐款人、政治金主\"",
+     "ctx": "Joe Lonsdale 是特朗普的捐款人，正因为这一\"自己人\"身份，他的公开反对才格外有分量；美国法律要求政治捐款公开申报。",
+     "ex1": "A major donor publicly broke with the campaign three weeks before the vote. 一位大金主在投票前三周公开与竞选团队决裂。",
+     "ex2": "The party's donor base has narrowed sharply since the last cycle. 自上一轮选举周期以来，该党的捐款人基础大幅收窄。"
+    },
+    {
+     "w": "hugely",
+     "ipa": "/ˈhjuːdʒli/",
+     "pos": "adv.",
+     "en": "hugely means to a very great degree, much more strongly than \"very\"",
+     "zh": "本义为\"巨大地\"，程度表达语境核心义为\"极其、非常\"",
+     "ctx": "Lonsdale 先用最强的程度副词表达支持，再用 but 转折，构成\"先扬后抑\"的表态结构。",
+     "ex1": "The product was hugely popular abroad long before anyone noticed it at home. 这款产品在国外大受欢迎，很久之后国内才有人注意到它。",
+     "ex2": "His early essays proved hugely influential among a generation of economists. 他早期的那些文章，在一代经济学家中产生了巨大影响。"
+    },
+    {
+     "w": "be in favor of",
+     "ipa": "/ɪn ˈfeɪvə(r) əv/",
+     "pos": "固定短语",
+     "en": "to be in favor of something means to support or approve of it",
+     "zh": "本义为\"站在……这一边、给予偏爱\"，表态与投票语境核心义为\"赞成、支持\"，其反义结构为 be against",
+     "ctx": "Lonsdale 用 in favor of…but against… 这组对仗，把\"支持本党赢选举\"与\"反对这种收买方式\"清楚切割开。",
+     "ex1": "Board members voted eight to three in favor of delaying the listing. 董事会以八比三投票赞成推迟上市。",
+     "ex2": "She came out in favor of the reform only after the data was published. 直到数据公布之后，她才公开表态支持这项改革。"
+    },
+    {
+     "w": "bribe",
+     "ipa": "/braɪb/",
+     "pos": "n./v.",
+     "en": "a bribe is money or a gift given to someone in order to persuade them to act dishonestly or in your favor",
+     "zh": "本义为\"给出去换取好处的东西\"，法律与廉政语境核心义为\"贿赂\"，属法律用语而非情绪用语",
+     "ctx": "Lonsdale 用 bribes 一词，实质上是在给这件事定性——美国联邦法律规定，为影响他人投票而给付钱财本身即构成犯罪。",
+     "ex1": "Two officials were charged after accepting bribes from a contractor seeking exemptions. 两名官员因收受一家寻求豁免的承包商的贿赂而被起诉。",
+     "ex2": "Offering anything of value in exchange for a vote is treated as a federal crime. 以任何有价物换取选票，都被视为联邦罪行。"
+    }
+   ]
+  },
+  {
+   "en_html": "After Trump's speech, Fox News <mark class=\"voc\">anchor</mark> Bret Baier asked Vice President JD Vance to respond to critics <mark class=\"voc\">describing</mark> the checks as bribery that would <mark class=\"voc\">bankrupt</mark> the country. Vance replied that tariffs are creating \"<mark class=\"voc\">incredible</mark> wealth\" and have \"helped us <mark class=\"voc\">pay down</mark> debt.\" That wealth might be real for <mark class=\"voc\">lobbyists</mark> and lawyers who <mark class=\"voc\">specialize in</mark> seeking <mark class=\"voc\">exemptions</mark> for their clients, but they're raising prices for everyone else.",
+   "zh": "特朗普演讲结束后，福克斯新闻主播布雷特·拜尔请副总统JD·万斯回应那些批评的声音——有人说这些支票就是贿选，会把国家拖垮。万斯的回答是：关税正在创造\"难以置信的财富\"，还\"帮我们还了债\"。这份财富，对那些专门替客户申请关税豁免的说客和律师而言，或许确实是真的——可对其他所有人来说，它只意味着物价在涨。",
+   "notes": [
+    {
+     "w": "anchor",
+     "ipa": "/ˈæŋkə(r)/",
+     "pos": "n./v.",
+     "en": "an anchor is the person who presents a news programme and holds it together, linking reports from other journalists",
+     "zh": "本义为\"船锚\"，新闻播报语境核心义为\"新闻主播\"——一档节目中记者外出、嘉宾轮换、画面不断切换，唯有主播自始至终坐镇，如同稳住整条船的锚",
+     "ctx": "指福克斯新闻主播布雷特·拜尔，他在演讲后向副总统万斯提问。",
+     "ex1": "She has anchored the evening news through four presidential elections. 她主持晚间新闻，经历了四届总统大选。",
+     "ex2": "The network brought in a veteran anchor to steady its falling ratings. 该电视网请来一位资深主播，以稳住持续下滑的收视率。"
+    },
+    {
+     "w": "describe A as B",
+     "ipa": "/dɪˈskraɪb/",
+     "pos": "固定结构",
+     "en": "to describe something as something else means to characterize or label it in a particular way",
+     "zh": "本义为\"把……描述成……\"，媒体转述语境核心义为\"把A形容为B、把A称作B\"，介词 as 不可省",
+     "ctx": "critics describing the checks as bribery——批评者把这些支票称作贿选，这是拜尔向万斯转述的批评内容。",
+     "ex1": "Regulators described the arrangement as a disguised form of subsidy. 监管机构把这一安排称为变相补贴。",
+     "ex2": "The deal was widely described as the most aggressive of the year. 这笔交易被普遍形容为今年最激进的一桩。"
+    },
+    {
+     "w": "bankrupt",
+     "ipa": "/ˈbæŋkrʌpt/",
+     "pos": "v./adj.",
+     "en": "to bankrupt someone or something means to make them unable to pay their debts",
+     "zh": "本义为\"长凳被砸断\"（源自意大利语 banca rotta——中世纪钱商在集市上摆长凳营业，banca 即 bank\"银行\"的词源；生意垮掉时，人们会当众砸断他的长凳），债务与破产语境核心义为\"使破产、把……拖垮\"",
+     "ctx": "指批评者认为这批支票会把国家财政拖垮。",
+     "ex1": "A single adverse ruling could bankrupt a firm of this size within months. 一项不利裁决，就足以在数月之内把这种规模的公司拖垮。",
+     "ex2": "Two of the three suppliers went bankrupt before the contracts were reassigned. 在合同重新分配之前，三家供应商中已有两家破产。"
+    },
+    {
+     "w": "incredible",
+     "ipa": "/ɪnˈkredəbl/",
+     "pos": "adj.",
+     "en": "incredible means impossible or very difficult to believe, though it is often used loosely to mean extremely good",
+     "zh": "本义为\"不可相信的\"（in- 不+ cred 相信+ -ible 可……的），评价与夸张表述语境核心义为\"惊人的、难以置信的\"",
+     "ctx": "万斯称关税创造了\"incredible wealth\"，作者原话加引号引用——这个词本身就带着\"难以置信\"的字面含义，与前文1540亿的真实数据形成反讽。",
+     "ex1": "The company reported incredible growth in a quarter when the whole sector shrank. 在整个行业萎缩的那个季度，这家公司却报出了惊人的增长。",
+     "ex2": "Auditors found the projections incredible and refused to sign off. 审计师认为这些预测难以置信，拒绝签字确认。"
+    },
+    {
+     "w": "pay down",
+     "ipa": "/peɪ daʊn/",
+     "pos": "固定短语",
+     "en": "to pay down a debt means to reduce it by making payments, without necessarily clearing it completely",
+     "zh": "本义为\"把（债务余额）往下压\"，债务管理语境核心义为\"偿还部分债务、降低债务余额\"，与 pay off（彻底还清）区分",
+     "ctx": "万斯称关税收入\"帮我们还了债\"——作者留着这句话不加评论，因为它与\"这笔钱要拿去发5000美元\"直接冲突。",
+     "ex1": "The firm used the windfall to pay down borrowings rather than raise its dividend. 该公司用这笔意外收入偿还借款，而不是提高派息。",
+     "ex2": "You cannot pay down debt and hand out cash with the same dollar. 同一块钱，不可能既拿去还债又拿去发现金。"
+    },
+    {
+     "w": "lobbyist",
+     "ipa": "/ˈlɒbiɪst/",
+     "pos": "n.",
+     "en": "a lobbyist is someone who is paid to try to influence politicians or officials on behalf of a particular company, industry or interest group",
+     "zh": "本义为\"守在议事厅门厅（lobby）里的人\"——因外人不得入内，游说者便守在走廊与大堂，趁议员进出的几分钟上前陈情，该词于19世纪美国流行开来，游说与政商关系语境核心义为\"说客、游说者\"",
+     "ctx": "指那些专门替客户申请关税豁免的说客，他们是关税政策的真正受益者。",
+     "ex1": "The industry hired a dozen lobbyists within weeks of the tariff announcement. 关税公布后短短几周内，该行业就雇了十来名说客。",
+     "ex2": "Registered lobbyists must disclose their clients and fees under federal law. 按联邦法律，注册说客必须披露其客户与收费。"
+    },
+    {
+     "w": "specialize in",
+     "ipa": "/ˈspeʃəlaɪz ɪn/",
+     "pos": "固定短语",
+     "en": "to specialize in something means to concentrate your work or study on one particular area",
+     "zh": "本义为\"专门从事某一细分领域\"，职业与业务语境核心义为\"专攻、专门做（某项业务）\"，介词固定为 in",
+     "ctx": "lawyers who specialize in seeking exemptions——专门做关税豁免申请这门生意的律师。",
+     "ex1": "The firm specializes in trade disputes and has doubled its headcount since last spring. 这家事务所专攻贸易争端，去年春天以来人手翻了一倍。",
+     "ex2": "He specializes in restructuring companies that everyone else has written off. 他专门做那些别人都已放弃的公司的重组。"
+    },
+    {
+     "w": "exemption",
+     "ipa": "/ɪɡˈzempʃn/",
+     "pos": "n.",
+     "en": "an exemption is official permission not to do something or not to pay something that others are required to do or pay",
+     "zh": "本义为\"被取出来、被免除在外\"（ex- 出+ empt 取），税务与合规语境核心义为\"豁免、免除\"",
+     "ctx": "关税豁免——大企业可通过专业律师与说客申请免征，而无力承担这笔服务费的中小企业与普通消费者只能承担涨价。",
+     "ex1": "Only firms with specialist counsel managed to secure an exemption in the first round. 第一轮里，只有聘请了专业律师的公司才成功拿到豁免。",
+     "ex2": "The exemption was granted quietly and never appeared in the published register. 这项豁免是悄悄批下来的，从未出现在公开的登记名录上。"
+    }
+   ]
+  },
+  {
+   "en_html": "Trump's speech underscored why so many Americans who care about fiscal sanity feel politically homeless. As Trump <mark class=\"voc\">bragged</mark> in Texas about the government <mark class=\"voc\">taking stakes in</mark> chipmaker Intel and Venezuelan oil fields, 27-year-old state Rep. David Morales — a Bernie Sanders-<mark class=\"voc\">endorsed</mark> democratic socialist <mark class=\"voc\">running on</mark> <mark class=\"voc\">rent control</mark> — beat <mark class=\"voc\">incumbent</mark> Democratic Mayor Brett Smiley in Providence, Rhode Island's <mark class=\"voc\">primary</mark>. A Quinnipiac poll released the same week found that 59 percent of Democrats now consider themselves supporters of the Democratic Socialists of America, <mark class=\"voc\">versus</mark> 26 percent of voters overall.",
+   "zh": "特朗普的这番讲话，正好说明了为什么这么多在意财政理智的美国人，如今在政治上无处安身。就在他于得州吹嘘政府入股芯片厂商英特尔、入股委内瑞拉油田的同时，在罗德岛的普罗维登斯，27岁的州众议员大卫·莫拉莱斯——一位获桑德斯背书、打着\"房租管制\"旗号参选的民主社会主义者，击败了现任民主党市长布雷特·斯迈利。同一周发布的昆尼皮亚克民调显示：59%的民主党人如今自认是\"美国民主社会主义者组织\"的支持者，而这个数字在全体选民中是26%。",
+   "notes": [
+    {
+     "w": "brag",
+     "ipa": "/bræɡ/",
+     "pos": "v.",
+     "en": "to brag means to talk too proudly about what you have done, own or achieved",
+     "zh": "本义为\"大声吹嘘\"，贬义色彩明确，公开表态语境核心义为\"吹嘘、自夸\"",
+     "ctx": "特朗普在得州的大会上炫耀政府入股英特尔与委内瑞拉油田；作者选用 brag 而非中性的 said 或 announced，态度藏在动词里。",
+     "ex1": "He bragged about the deal for weeks before the terms were finally disclosed. 在条款最终披露之前，他把这笔交易吹了好几个星期。",
+     "ex2": "There is not much to brag about in a quarter like this one. 这样一个季度，实在没什么可炫耀的。"
+    },
+    {
+     "w": "take a stake in",
+     "ipa": "/steɪk/",
+     "pos": "固定短语",
+     "en": "to take a stake in a company means to acquire part ownership of it by buying shares",
+     "zh": "本义为\"打下界桩以标示所有权\"（stake 本义为\"木桩\"，早期拓荒者以木桩圈定地界），股权与投资语境核心义为\"入股、持有（某公司）股份\"",
+     "ctx": "美国政府买下英特尔约9.9%的股份——一个共和党政府直接持有企业股权，与该党传统的\"小政府、自由市场\"主张形成张力，这正是作者并置这一事实的用意。",
+     "ex1": "The fund acquired a minority stake and immediately pushed for two board seats. 该基金收购了少数股权，并立即要求获得两个董事席位。",
+     "ex2": "He sold his entire stake three months before the listing. 他在上市前三个月出清了全部持股。"
+    },
+    {
+     "w": "endorse",
+     "ipa": "/ɪnˈdɔːs/",
+     "pos": "v.",
+     "en": "to endorse someone means to publicly declare your support for them, putting your own reputation behind them",
+     "zh": "本义为\"在（票据）背面签字\"（en- 使+ dorse 背，与 dorsal\"背部的\"同源；持票人须在支票背面签名方可兑现），政治支持与商业代言语境核心义为\"公开背书、表态支持\"",
+     "ctx": "Bernie Sanders-endorsed——获参议员桑德斯背书的民主社会主义者，这一背书为年轻挑战者带来了全国性的关注与资源。",
+     "ex1": "Two national figures endorsed the challenger in the final week, and turnout jumped. 两位全国性人物在最后一周为挑战者背书，投票率随之跳升。",
+     "ex2": "The athlete refused to endorse any product she had not used herself. 这位运动员拒绝代言任何她自己没用过的产品。"
+    },
+    {
+     "w": "run on",
+     "ipa": "/rʌn ɒn/",
+     "pos": "固定短语",
+     "en": "to run on a particular issue means to campaign for election with that issue as your main platform",
+     "zh": "本义为\"以……为依托参选\"，竞选语境核心义为\"以……为竞选纲领\"，注意与 run for（竞选某职位）区分",
+     "ctx": "running on rent control——以\"房租管制\"为核心纲领参选，这正是挑战者击败现任市长的主打议题。",
+     "ex1": "He ran on a platform of rent stabilization and won neighborhoods his party had lost for years. 他以稳定房租为纲领参选，拿下了本党多年来一直失守的街区。",
+     "ex2": "She is expected to run for governor rather than seek another term in the legislature. 外界预计她将竞选州长，而不是谋求州议会的又一个任期。"
+    },
+    {
+     "w": "rent control",
+     "ipa": "/rent kənˈtrəʊl/",
+     "pos": "固定短语",
+     "en": "rent control refers to laws that limit how much landlords can charge or how much they can raise rents each year",
+     "zh": "本义为\"对租金的管制\"，住房政策语境核心义为\"房租管制\"",
+     "ctx": "这是挑战者的核心竞选主张，也是美国大城市长期争论的政策议题之一。",
+     "ex1": "The city capped annual rent increases at three percent starting in January. 该市自一月起将年度租金涨幅上限定为百分之三。",
+     "ex2": "Economists remain divided over whether rent control helps or hurts supply. 关于房租管制究竟有助于还是有害于住房供给，经济学家至今意见分歧。"
+    },
+    {
+     "w": "incumbent",
+     "ipa": "/ɪnˈkʌmbənt/",
+     "pos": "adj./n.",
+     "en": "the incumbent is the person who currently holds an official position, especially one who is seeking re-election",
+     "zh": "本义为\"当前倚靠在职位上的人\"，选举语境核心义为\"现任的、现任者\"",
+     "ctx": "指普罗维登斯现任民主党市长布雷特·斯迈利；美国选举中现任者通常占据知名度与资源优势，因此\"现任者初选落败\"本身就是一条值得报道的新闻。",
+     "ex1": "Unseating an incumbent in a primary remains rare in a city of this size. 在这种规模的城市里，初选中把现任者拉下马依然罕见。",
+     "ex2": "The incumbent led every poll until the final week of the campaign. 直到竞选的最后一周之前，现任者在每一项民调中都处于领先。"
+    },
+    {
+     "w": "primary",
+     "ipa": "/ˈpraɪməri/",
+     "pos": "n.",
+     "en": "a primary is a preliminary election in which a party's voters choose the candidate who will represent that party in the general election",
+     "zh": "本义为\"首要的、最初的\"，美国选举语境核心义为\"党内初选\"，与 general election（大选）相对",
+     "ctx": "指普罗维登斯的民主党市长初选；由于该市是民主党稳固票仓，赢下初选基本等同于赢下市长职位。",
+     "ex1": "A primary challenger beat the sitting mayor by five points on a housing platform. 一位初选挑战者以住房纲领，以五个百分点击败了在任市长。",
+     "ex2": "In a one-party city, the primary is effectively the real election. 在一党独大的城市里，初选实际上就是真正的选举。"
+    },
+    {
+     "w": "versus",
+     "ipa": "/ˈvɜːsəs/",
+     "pos": "prep.（缩写 vs.）",
+     "en": "versus is used to compare two contrasting figures, options or sides",
+     "zh": "本义为\"朝向、对抗\"（源自拉丁语 vertere，\"转向\"），数据对比与竞争语境核心义为\"对比、相对于\"",
+     "ctx": "59 percent versus 26 percent——民主党内部与全体选民之间相差33个百分点的落差，这个对比才是这组数据的重点。",
+     "ex1": "The gap is best seen as party opinion versus national opinion, not one number alone. 这个差距最好理解为\"党内民意对比全国民意\"，而不是单看某一个数字。",
+     "ex2": "The debate came down to short-term relief versus long-term solvency. 这场辩论最终归结为：短期纾困，还是长期偿付能力。"
+    }
+   ]
+  },
+  {
+   "en_html": "<mark class=\"voc\">Pandering</mark> politicians <mark class=\"voc\">routinely</mark> promote expensive ideas in the months before elections. Usually they're offering new programs, more <mark class=\"voc\">subsidies</mark> or tax cuts that won't be <mark class=\"voc\">paid for</mark>. The <mark class=\"voc\">electorate</mark> has become <mark class=\"voc\">habituated to</mark> promises of \"free\" buses, \"free\" child care and \"free\" medical coverage, as well as student loan debt <mark class=\"voc\">cancellation</mark>. Trump's checks-for-votes <mark class=\"voc\">scheme</mark> is just more <mark class=\"voc\">explicit</mark>.",
+   "zh": "一味逢迎的政客，总在大选前几个月抛出各种昂贵的主意。通常是新项目、新补贴，或者根本没有财源的减税。选民对这些\"免费\"的承诺早已习以为常——免费公交、免费托儿、免费医保，再加上免除学生贷款。特朗普这套\"支票换选票\"，不过是把话说得更直白罢了。",
+   "notes": [
+    {
+     "w": "pander",
+     "ipa": "/ˈpændə(r)/",
+     "pos": "v.",
+     "en": "to pander to someone means to give them exactly what they want in order to please them, even when it is unwise, dishonest or harmful",
+     "zh": "本义源自中世纪文学人物 Pandarus（潘达洛斯）——在《特洛伊罗斯与克瑞西达》的故事中（薄伽丘、乔叟、莎士比亚均写过），他是促成男女主角结合的牵线人；其名字后来直接演变为英文单词，词义由\"撮合、拉皮条\"泛化为\"一味迎合他人欲望\"，选举与舆论语境核心义为\"逢迎、投其所好\"，贬义明确",
+     "ctx": "pandering politicians——那些\"你想听什么我就说什么\"的政客，作者用这个词把批评从特朗普一人扩大到整个政治阶层；注意介词固定为 to。",
+     "ex1": "Both candidates pandered to voters in the final month and neither explained how to pay for it. 最后一个月里两位候选人都在迎合选民，却没有一个人说清楚这钱从哪来。",
+     "ex2": "He accused the network of pandering to its audience rather than informing it. 他指责该电视网只顾迎合观众，而不是给观众提供信息。"
+    },
+    {
+     "w": "routinely",
+     "ipa": "/ruːˈtiːnli/",
+     "pos": "adv.",
+     "en": "routinely means regularly and as a normal part of a pattern, rather than as an exception",
+     "zh": "本义为\"按常规地\"，行为模式描述语境核心义为\"一贯地、家常便饭地\"",
+     "ctx": "这个副词的作用是把\"选举前画饼\"从个案降级为惯例——不是这一次，而是每一次。",
+     "ex1": "Such warnings are routinely ignored until a crisis forces everyone's attention. 这类警告一贯被无视，直到一场危机迫使所有人正视它。",
+     "ex2": "Firms routinely exceed the deadline because the penalty is smaller than the cost of compliance. 企业惯常超过截止期限，因为罚款比合规成本还低。"
+    },
+    {
+     "w": "subsidy",
+     "ipa": "/ˈsʌbsədi/",
+     "pos": "n.",
+     "en": "a subsidy is money paid by a government to help an industry, service or group keep prices low or stay financially viable",
+     "zh": "本义为\"在下面托住的支撑\"（sub- 在下面+ sid- 坐，与 sit 同源），公共财政语境核心义为\"（政府）补贴\"",
+     "ctx": "作者把\"新项目、更多补贴、无财源的减税\"并列，指出它们本质相同——都是现在让选民高兴，账单留给以后。",
+     "ex1": "Cutting fuel subsidies proved politically impossible in three consecutive administrations. 削减燃油补贴在连续三届政府手里都被证明是政治上办不到的事。",
+     "ex2": "The programme subsidizes premiums for households below a set income threshold. 该计划为收入低于特定门槛的家庭补贴保费。"
+    },
+    {
+     "w": "be paid for",
+     "ipa": "/peɪd fɔː(r)/",
+     "pos": "固定结构（被动语态，介词后置）",
+     "en": "if something is paid for, the money to cover its cost has actually been provided from somewhere",
+     "zh": "本义为\"（其费用）已被支付\"，注意主动结构为 pay for sth，变为被动时介词 for 须保留在句末（英语中称为\"介词悬垂\"），财政论证语境核心义为\"有财源的、有钱来支付的\"",
+     "ctx": "tax cuts that won't be paid for——那些不打算补上窟窿的减税，与发钱、补贴同属一类：现在花，以后再说。",
+     "ex1": "The expansion was never paid for; it simply widened the deficit year after year. 这项扩张从来就没有财源，它只是年复一年地扩大着赤字。",
+     "ex2": "Officials insist the programme is fully paid for by existing revenue. 官员坚称该项目完全由现有收入支付。"
+    },
+    {
+     "w": "electorate",
+     "ipa": "/ɪˈlektərət/",
+     "pos": "n.",
+     "en": "the electorate is all the people in a country or area who are entitled to vote, considered as a group",
+     "zh": "本义为\"有选举权者的总体\"（集合名词，指整体而非个体，个体用 voters），选举与民意语境核心义为\"全体选民\"",
+     "ctx": "the electorate has become habituated to…——全体选民已对各种\"免费\"承诺习以为常，作者以此说明问题不只在政客一方。",
+     "ex1": "A divided electorate rewards whoever promises the most and asks the fewest questions. 一个分裂的选民群体，会奖励那个承诺最多、问题问得最少的人。",
+     "ex2": "The party failed to appeal to the wider electorate beyond its own base. 该党未能争取到自身基本盘之外更广泛的选民。"
+    },
+    {
+     "w": "be habituated to",
+     "ipa": "/həˈbɪtʃueɪtɪd/",
+     "pos": "固定结构",
+     "en": "to be habituated to something means to have become so used to it that it no longer seems unusual",
+     "zh": "本义为\"被养成了习惯\"（habit 的动词化形式），社会心理与舆论语境核心义为\"对……习以为常、见怪不怪\"，语气比 be used to 更强调\"被逐渐养成\"",
+     "ctx": "选民已对\"免费公交、免费托儿、免费医保\"这类承诺麻木；注意 to 是介词，其后接名词或动名词。",
+     "ex1": "Consumers have become habituated to discounts and now refuse to buy at full price. 消费者已经习惯了打折，如今拒绝按原价购买。",
+     "ex2": "Voters are so accustomed to unfunded promises that they no longer ask where the money comes from. 选民对没有财源的承诺已经习以为常，以至于不再追问钱从哪里来。"
+    },
+    {
+     "w": "cancellation",
+     "ipa": "/ˌkænsəˈleɪʃn/",
+     "pos": "n.",
+     "en": "cancellation is the act of officially ending or wiping out something, such as a debt, an order or an arrangement",
+     "zh": "本义为\"划掉、注销\"，债务与政策语境核心义为\"免除、取消\"",
+     "ctx": "student loan debt cancellation——免除学生贷款债务，是美国选举中长期具有号召力的承诺之一，因美国大学学费高昂，许多人毕业时背负十余万美元债务。",
+     "ex1": "Debt cancellation shifts the cost rather than eliminating it. 免除债务只是转移了成本，而不是消除了它。",
+     "ex2": "The cancellation was announced hours before the scheduled vote. 取消的消息是在预定投票前几小时宣布的。"
+    },
+    {
+     "w": "scheme",
+     "ipa": "/skiːm/",
+     "pos": "n.",
+     "en": "in American usage a scheme is a plan that is clever but usually dishonest or self-serving; in British usage it can simply mean an official plan or programme",
+     "zh": "本义为\"设计好的方案、图式\"，美式英语语境核心义为\"路数、图谋、算计\"，带明确贬义；需注意英式英语中该词可为中性（a pension scheme 养老金计划）",
+     "ctx": "checks-for-votes scheme——\"支票换选票\"的这套路数，作者用这个词完成全文最后的定性。",
+     "ex1": "Regulators shut down the operation after identifying it as a pyramid scheme. 监管机构在认定其为传销之后，关停了这项业务。",
+     "ex2": "What he called a savings plan was, in the end, a scheme to move money offshore. 他口中的储蓄计划，说到底是一套把钱转移到境外的路数。"
+    },
+    {
+     "w": "explicit",
+     "ipa": "/ɪkˈsplɪsɪt/",
+     "pos": "adj.",
+     "en": "explicit means stated clearly and directly, leaving no room for doubt or interpretation",
+     "zh": "本义为\"被展开、被摊平的\"（ex- 向外+ plic- 折叠，与 fold 同源），其反义词 implicit 即\"折在里面的、隐含的\"，表述方式语境核心义为\"直白的、明确的\"",
+     "ctx": "Trump's checks-for-votes scheme is just more explicit——作者没有说他\"更坏\"，而是说他\"更直白\"：免费公交、免费医保同样是拿好处换选票，只是中间隔了几层包装，而这一次连包装都省了。",
+     "ex1": "The contract is explicit about who bears the cost if the ruling is reversed. 合同明确写清了裁决被推翻时由谁承担成本。",
+     "ex2": "He made it explicit that no further funding would be available after March. 他把话说得很明白：三月之后不会再有任何资金。"
+    }
+   ]
+  }
+ ],
+ "proper": [
+  {
+   "name": "the GOP / 共和党",
+   "def": "GOP 是 Grand Old Party 的缩写，是美国共和党的官方绰号与通用简称，源自1870年代的报纸，最初带有褒扬其在南北战争中\"拯救联邦\"的意味，后固定为官方简称，连共和党自己的官网也在使用。<br>本文中的意思：指特朗普所属的共和党；\"if the GOP holds the House and Senate\"即\"如果共和党守住参众两院\"，是发放5000美元的前提条件。"
+  },
+  {
+   "name": "the House and Senate / 众议院与参议院",
+   "def": "美国国会由两院组成——众议院（the House of Representatives，共435席）和参议院（the Senate，共100席），两院都通过法案才能送交总统签署。<br>本文中的意思：\"守住两院\"指在11月中期选举后继续掌握两院多数；后文作者指出共和党目前已同时控制两院，从而拆穿\"民主党通不过\"这个借口。"
+  },
+  {
+   "name": "midterm convention / the midterms / 中期选举大会·中期选举",
+   "def": "美国总统任期四年，任期过半那一年举行国会中期选举，改选全部众议院席位和约三分之一参议院席位。共和党这次在达拉斯举办的中期选举大会，是该党首次为中期选举单独召开的全国性大会。<br>本文中的意思：特朗普宣布5000美元\"分红\"的场合，也是本文批评\"选举季许愿\"的具体背景。"
+  },
+  {
+   "name": "Committee for a Responsible Federal Budget (CRFB) / 联邦预算责任委员会",
+   "def": "成立于1981年的美国无党派非营利研究机构，专门测算各项政策提案的财政成本、资金来源及其对国债的影响，是美国财经媒体最常引用的独立预算分析来源之一。<br>本文中的意思：1.2万亿美元这一成本数字的出处；作者引用它而非任何党派机构，是为了让这个数字难以被贴上\"党派攻击\"的标签。"
+  },
+  {
+   "name": "national debt / 国债",
+   "def": "指联邦政府历年累积尚未偿还的债务总额，与\"赤字\"（deficit，单一年度的收支缺口）是两个概念：每年的赤字都会累加进国债。<br>本文中的意思：文中40万亿美元的国债已超过美国一年约30万亿美元的GDP总量；正是在这个基数之上，再借1.2万亿去发放\"分红\"。"
+  },
+  {
+   "name": "Fox News / Laura Ingraham / 福克斯新闻·劳拉·英格拉汉姆",
+   "def": "福克斯新闻是美国收视率最高的有线新闻频道之一，政治立场偏向保守派；劳拉·英格拉汉姆是该台资深主持人，拥有自己的黄金时段节目。<br>本文中的意思：特朗普\"关税收进21万亿\"这句话是接受英格拉汉姆采访时说的；作者原话引用并加引号，让这个数字与下一句财政部的真实数据形成直接对撞。"
+  },
+  {
+   "name": "the Treasury / 美国财政部",
+   "def": "全称 the Department of the Treasury，美国联邦政府主管财政的部门，负责税收征管、国债发行与政府收支统计，其公布的数据是官方口径。<br>本文中的意思：作者特意写 the Treasury's own numbers（财政部自己的数据），强调这不是媒体或反对党的数字，而是特朗普自己政府部门的账本，构成一次自证式反驳。"
+  },
+  {
+   "name": "the Supreme Court / 美国最高法院",
+   "def": "美国联邦司法体系的最高审级，共九名大法官，有权判定法律或行政行为违宪无效。2026年2月20日，最高法院以6比3作出判决（首席大法官罗伯茨主笔），认定《国际紧急经济权力法》（IEEPA）并未授权总统加征关税。<br>本文中的意思：这项判决使一大批关税被认定自始无效，政府因此必须向进口商退款，这正是\"某些月份退出去的钱比收进来的还多\"的直接原因，也解释了本段为何强调 net（净额）。"
+  },
+  {
+   "name": "fiscal year / 财年",
+   "def": "美国联邦政府的财政年度并非自然年，而是从上一年10月1日起至当年9月30日止。<br>本文中的意思：文中\"本财年关税净收入约1540亿美元\"，统计区间即按这一口径计算。"
+  },
+  {
+   "name": "DOGE / the U.S. DOGE Service / 政府效率部",
+   "def": "全称 Department of Government Efficiency，2025年初设立、由马斯克牵头的机构，任务是找出并削减联邦浪费性开支，缩写与马斯克力挺的加密货币\"狗狗币\"同名。节省目标一路缩水：竞选期间称2万亿美元，2025年3月改为1万亿，同年4月降至1500亿；马斯克以\"特别政府雇员\"身份任职，2025年5月前后离任。<br>本文中的意思：\"DOGE分红\"以这些本应找出的节省为资金来源、承诺每人发放5000美元；随着马斯克离任、节省远未兑现，该构想被悄然搁置，成为作者所列\"四次画饼\"的第一次。"
+  },
+  {
+   "name": "Elon Musk / 埃隆·马斯克",
+   "def": "特斯拉、SpaceX 创始人，2025年初受邀牵头 DOGE，数月后离任。<br>本文中的意思：DOGE分红构想的提出者，其离任与节省目标的大幅缩水，是这笔钱最终没有发出的直接原因。"
+  },
+  {
+   "name": "Obamacare / the Affordable Care Act (ACA) / 奥巴马医保·平价医疗法案",
+   "def": "2010年奥巴马总统任内通过的医保改革法案。美国没有全民公费医保，未被雇主覆盖的人需自行在市场上购买且费用高昂；该法案建立了官方保险交易市场，并按收入水平向投保人发放补贴，收入越低补贴越多。<br>本文中的意思：近百万美国人将收到的500美元支票，源于购买该计划时被多收了保费，严格说是退还本就属于投保人的钱而非新福利——但它会在选举之前以\"支票\"形式寄到邮箱，作者把这个细节放进括号，意在提醒读者留意其时间点。"
+  },
+  {
+   "name": "Joe Lonsdale / 乔·朗斯代尔",
+   "def": "美国企业家与风险投资人，斯坦福大学计算机专业出身，2003至2004年间与彼得·蒂尔等人共同创办数据分析公司 Palantir，后创办投资机构8VC，长期作为共和党捐款人与筹款人活跃于政界。<br>本文中的意思：他在共和党中期选举大会现场发推公开反对5000美元提案；作者引用他而非任何反对党人士，正是因为他是特朗普的捐款人——\"自己人的反对\"比外部批评更难被驳回。"
+  },
+  {
+   "name": "Palantir Technologies / 帕兰提尔科技",
+   "def": "2003至2004年创办于硅谷的大数据分析公司，创始团队包括彼得·蒂尔与乔·朗斯代尔等，主要客户为美国政府、军方与情报机构，2020年上市；公司名取自《指环王》中的\"真知晶石\"，寓意\"看见原本看不见之物\"。<br>本文中的意思：作为 Lonsdale 身份说明的一部分，用以确立其在科技与政治圈的分量。"
+  },
+  {
+   "name": "bread and circuses (panem et circenses) / 面包与马戏",
+   "def": "出自古罗马讽刺诗人尤维纳利斯约公元100年所作《讽刺诗》第十首：罗马公民曾手握决定执政官人选的政治权力，如今却只在意政府免费发放的谷物和免费开放的竞技表演。后世将其固定为成语，指统治者用低成本的物质满足与娱乐消解民众的政治警觉。<br>本文中的意思：Lonsdale 用\"bread and circus bribes\"形容这项提案——5000美元现金对应\"面包\"，达拉斯的万人大会对应\"马戏\"，把整件事放进\"帝国衰落\"的历史框架里，是全文文化含量最高的一处表达。"
+  },
+  {
+   "name": "Bret Baier / 布雷特·拜尔",
+   "def": "福克斯新闻资深主播，主持该台政治新闻节目，长期担任重大政治事件的现场直播主持。<br>本文中的意思：在特朗普演讲结束后向副总统万斯提问，把\"这些支票是贿选、会拖垮国家\"这一批评直接摆到官方面前，构成本段的提问方。"
+  },
+  {
+   "name": "JD Vance / JD·万斯",
+   "def": "美国现任副总统，此前为俄亥俄州联邦参议员。<br>本文中的意思：面对贿选质疑时回应称关税正在创造\"难以置信的财富\"、并\"帮我们还了债\"；作者原话引用并加引号，是为了让它与文中真实数据以及\"同一笔钱不能花两遍\"这一事实自行对撞。"
+  },
+  {
+   "name": "Intel / 英特尔",
+   "def": "美国半导体公司，是目前唯一一家在美国本土进行尖端逻辑芯片研发与制造的美国企业。2025年8月22日，美国政府宣布将《芯片法案》中尚未发放给英特尔的补贴转为股权，以每股20.47美元、共89亿美元买下4.333亿股，占比约9.9%，为无投票权的被动持股；卡在9.9%是为了避开10%这条触发额外审查与披露义务的监管门槛线。<br>本文中的意思：作者以此为例，说明这届共和党政府正在直接下场持有企业股权。"
+  },
+  {
+   "name": "David Morales / 大卫·莫拉莱斯",
+   "def": "罗德岛州众议员，27岁，自认民主社会主义者，获参议员伯尼·桑德斯背书，以房租管制、扩大可负担住房为核心纲领；2026年9月9日在普罗维登斯民主党市长初选中以52.5%对47.5%击败现任市长，若11月胜出将成为该市历史上最年轻的市长。<br>本文中的意思：作者用这一结果作为\"民主党一侧正在左移\"的具体证据，与\"政府入股企业\"并置，共同构成\"财政保守派两边都投不下去\"的论证。"
+  },
+  {
+   "name": "Brett Smiley / 布雷特·斯迈利",
+   "def": "普罗维登斯现任市长，民主党人，47岁，2023年就任，此次谋求连任；任内政绩包括住房建设推进、犯罪率下降、以及该市收回了此前由州政府代管的学校管理权。<br>本文中的意思：作为落败的现任者，他的失利说明选民更换方向的意愿之强——这正是这条新闻被作者选作论据的原因。"
+  },
+  {
+   "name": "Bernie Sanders / 伯尼·桑德斯",
+   "def": "美国联邦参议员（佛蒙特州，无党派身份但长期与民主党共同活动），美国左翼政治的代表性人物，曾两度参加民主党总统初选。<br>本文中的意思：他的背书是 Morales 胜选的重要助力，也是作者判断\"民主党一侧正在左移\"的依据之一。"
+  },
+  {
+   "name": "Quinnipiac poll / 昆尼皮亚克民调",
+   "def": "康涅狄格州昆尼皮亚克大学民调中心发布的全国性民意调查，以独立性著称，是全美被引用最多的民调来源之一；本次调查于9月3日至6日进行，样本为970名自认已登记选民，含设计效应的抽样误差约正负3.9个百分点。<br>本文中的意思：提供\"59%的民主党人自认是DSA支持者、全体选民中为26%\"这组数据；作者引用它与第2段引用CRFB是同一思路——选择立场中立、两边都认可的数据来源。"
+  },
+  {
+   "name": "Democratic Socialists of America (DSA) / 美国民主社会主义者组织",
+   "def": "成立于1982年的美国左翼政治组织，是美国历史上规模最大的社会主义组织，2026年成员超过12万人；主要主张包括房租管制、向高收入者与大企业加税、扩大公共医疗保障、支持工会组织等。<br>本文中的意思：这是一个美国国内的政治标签，用于标识美国政治光谱最左端的一套具体政策主张，与中文语境的\"社会主义\"并非同一概念；民调数据以它为衡量对象，说明民主党内部的政策取向正在位移。"
+  },
+  {
+   "name": "student loan debt cancellation / 免除学生贷款债务",
+   "def": "指由政府免除部分或全部联邦学生贷款余额的政策主张。美国大学学费高昂，许多毕业生背负数万乃至十余万美元贷款，因此该主张在选举中长期具有号召力，同时也长期存在\"成本由谁承担\"的争议。<br>本文中的意思：作者将它与\"免费公交、免费托儿、免费医保\"并列，作为选民早已习以为常的\"昂贵承诺\"之一；这几项主张均偏政治光谱左侧，而全文批评的是共和党一方——收尾处两边一并纳入，呼应首句\"社会主义无法用更多社会主义来阻止\"，构成\"政治上无家可归\"的完整闭环。"
+  }
+ ],
+ "sources_note": "本文选自 The Washington Post（《华盛顿邮报》）2026 年 9 月 14 日社论文章，由《早安英文》讲解。",
+ "practice": {
+  "intro": "把下面三句翻译成英文，注意划线表达。",
+  "items": [
+   "社会主义，是没法靠更多社会主义来阻止的。特朗普总统提议：只要共和党今秋守住参众两院，就给每个成年公民发放5000美元——这是一个孤注一掷的噱头，暴露出他对迫在眉睫的财政危机毫无严肃可言。",
+   "特朗普说，关税收入足以覆盖这笔被他冠名为\"分红\"的钱。可财政部自己的数据显示，本财年的关税净收入大约只有1540亿美元。",
+   "往经济里灌进这么多钱只会让通胀更严重，因为那意味着更多的钱去追逐同样多的商品。这会推高基本生活必需品的价格，正如疫情期间两轮补贴支票发下去之后，美国人亲身经历过的那样。"
+  ],
+  "critical_en": "As Trump bragged in Texas about the government taking stakes in chipmaker Intel and Venezuelan oil fields, 27-year-old state Rep. David Morales — a Bernie Sanders-endorsed democratic socialist running on rent control — beat incumbent Democratic Mayor Brett Smiley in Providence, Rhode Island's primary.",
+  "critical_zh": "就在他于得州吹嘘政府入股芯片厂商英特尔、入股委内瑞拉油田的同时，在罗德岛的普罗维登斯，27岁的州众议员大卫·莫拉莱斯——一位获桑德斯背书、打着\"房租管制\"旗号参选的民主社会主义者，击败了现任民主党市长布雷特·斯迈利。",
+  "answer": "1. Socialism will not be stopped with more socialism. President Donald Trump's proposal to pay every adult citizen $5,000 if the GOP holds the House and Senate this fall is a desperate gimmick that betrays a profound lack of seriousness about the looming fiscal crisis.<br><br>2. Trump said revenue from tariffs would cover what he branded as a \"dividend.\" The Treasury's own numbers put net tariff revenue this fiscal year at about $154 billion.<br><br>3. Flooding the economy with money would only worsen inflation, since it would mean more dollars chasing the same amount of goods. That would raise the prices of basic staples, as Americans experienced following the two rounds of stimulus checks during the pandemic.<br><br>一句话总结：这三句分别练\"定性\"（desperate gimmick）、\"给数据\"（put ... at）、\"讲因果\"（more dollars chasing the same amount of goods），翻译时先搭骨架、再填数字。"
+ },
+ "mindmap": {
+  "aria": "5000美元发钱提案思维导图",
+  "alt": "发钱换选票提案拆解（手绘版）",
+  "svg": "<svg viewBox=\"0 0 960 720\" xmlns=\"http://www.w3.org/2000/svg\" role=\"img\" aria-label=\"5000美元发钱提案思维导图\" style=\"width:100%;height:auto;font-family:-apple-system,'PingFang SC','Hiragino Sans GB','Microsoft YaHei',sans-serif\">\n        <rect x=\"24\" y=\"306\" width=\"176\" height=\"88\" rx=\"14\" fill=\"#eae3d2\" stroke=\"#9a8f76\"/>\n        <text x=\"112\" y=\"342\" text-anchor=\"middle\" fill=\"#3d3a34\" font-size=\"17\" font-weight=\"700\">5000美元换选票</text>\n        <text x=\"112\" y=\"368\" text-anchor=\"middle\" fill=\"#5c5648\" font-size=\"12.5\">没人信，也发不出来</text>\n\n        <path d=\"M200,350 C232,350 232,88 260,88\"  stroke=\"#6b8f71\" stroke-width=\"2\" fill=\"none\"/>\n        <path d=\"M200,350 C232,350 232,238 260,238\" stroke=\"#7d98ad\" stroke-width=\"2\" fill=\"none\"/>\n        <path d=\"M200,350 C232,350 232,433 260,433\" stroke=\"#bd7a6d\" stroke-width=\"2\" fill=\"none\"/>\n        <path d=\"M200,350 C232,350 232,628 260,628\" stroke=\"#9b86b3\" stroke-width=\"2\" fill=\"none\"/>\n\n        <g class=\"mm-branch\" data-target=\"bc1\">\n          <rect x=\"260\" y=\"71\" width=\"190\" height=\"34\" rx=\"8\" fill=\"#e6efe7\" stroke=\"#6b8f71\"/>\n          <text x=\"349\" y=\"93\" text-anchor=\"middle\" fill=\"#4c6b52\" font-size=\"15\" font-weight=\"700\">提案与账本（¶1–2）</text>\n          <text class=\"mm-arrow\" data-for=\"bc1\" x=\"442\" y=\"93\" text-anchor=\"end\" fill=\"#4c6b52\">▾</text>\n        </g>\n        <g class=\"mm-children\" id=\"bc1\">\n          <path d=\"M450,88 C462,88 462,46 480,46\" stroke=\"#6b8f71\" stroke-width=\"1.5\" fill=\"none\"/>\n          <path d=\"M450,88 C462,88 462,88 480,88\" stroke=\"#6b8f71\" stroke-width=\"1.5\" fill=\"none\"/>\n          <path d=\"M450,88 C462,88 462,130 480,130\" stroke=\"#6b8f71\" stroke-width=\"1.5\" fill=\"none\"/>\n          <rect x=\"480\" y=\"30\" width=\"456\" height=\"32\" rx=\"8\" fill=\"#e6efe7\"/><text x=\"492\" y=\"51\" fill=\"#3d3a34\" font-size=\"14\">共和党守住参众两院，就给每个成年公民发5000美元</text>\n          <rect x=\"480\" y=\"72\" width=\"456\" height=\"32\" rx=\"8\" fill=\"#e6efe7\"/><text x=\"492\" y=\"93\" fill=\"#3d3a34\" font-size=\"14\">成本约1.2万亿美元，需在40万亿国债上再借</text>\n          <rect x=\"480\" y=\"114\" width=\"456\" height=\"32\" rx=\"8\" fill=\"#e6efe7\"/><text x=\"492\" y=\"135\" fill=\"#3d3a34\" font-size=\"14\">连本届政府自己都说不出钱从哪来</text>\n        </g>\n\n        <g class=\"mm-branch\" data-target=\"bc2\">\n          <rect x=\"260\" y=\"221\" width=\"190\" height=\"34\" rx=\"8\" fill=\"#e5edf4\" stroke=\"#7d98ad\"/>\n          <text x=\"349\" y=\"243\" text-anchor=\"middle\" fill=\"#3d5872\" font-size=\"15\" font-weight=\"700\">关税不够花（¶3–4）</text>\n          <text class=\"mm-arrow\" data-for=\"bc2\" x=\"442\" y=\"243\" text-anchor=\"end\" fill=\"#3d5872\">▾</text>\n        </g>\n        <g class=\"mm-children\" id=\"bc2\">\n          <path d=\"M450,238 C462,238 462,196 480,196\" stroke=\"#7d98ad\" stroke-width=\"1.5\" fill=\"none\"/>\n          <path d=\"M450,238 C462,238 462,238 480,238\" stroke=\"#7d98ad\" stroke-width=\"1.5\" fill=\"none\"/>\n          <path d=\"M450,238 C462,238 462,280 480,280\" stroke=\"#7d98ad\" stroke-width=\"1.5\" fill=\"none\"/>\n          <rect x=\"480\" y=\"180\" width=\"456\" height=\"32\" rx=\"8\" fill=\"#e5edf4\"/><text x=\"492\" y=\"201\" fill=\"#3d3a34\" font-size=\"14\">特朗普称关税进账21万亿，财政部数据是1540亿</text>\n          <rect x=\"480\" y=\"222\" width=\"456\" height=\"32\" rx=\"8\" fill=\"#e5edf4\"/><text x=\"492\" y=\"243\" fill=\"#3d3a34\" font-size=\"14\">最高法院推翻大批关税，退款比征收还多</text>\n          <rect x=\"480\" y=\"264\" width=\"456\" height=\"32\" rx=\"8\" fill=\"#e5edf4\"/><text x=\"492\" y=\"285\" fill=\"#3d3a34\" font-size=\"14\">同一笔关税收入，已被承诺给近6万亿开支</text>\n        </g>\n\n        <g class=\"mm-branch\" data-target=\"bc3\">\n          <rect x=\"260\" y=\"416\" width=\"190\" height=\"34\" rx=\"8\" fill=\"#f4e7e4\" stroke=\"#bd7a6d\"/>\n          <text x=\"349\" y=\"438\" text-anchor=\"middle\" fill=\"#7c4a3e\" font-size=\"15\" font-weight=\"700\">通胀加跳票（¶5–6）</text>\n          <text class=\"mm-arrow\" data-for=\"bc3\" x=\"442\" y=\"438\" text-anchor=\"end\" fill=\"#7c4a3e\">▾</text>\n        </g>\n        <g class=\"mm-children\" id=\"bc3\">\n          <path d=\"M450,433 C462,433 462,391 480,391\" stroke=\"#bd7a6d\" stroke-width=\"1.5\" fill=\"none\"/>\n          <path d=\"M450,433 C462,433 462,433 480,433\" stroke=\"#bd7a6d\" stroke-width=\"1.5\" fill=\"none\"/>\n          <path d=\"M450,433 C462,433 462,475 480,475\" stroke=\"#bd7a6d\" stroke-width=\"1.5\" fill=\"none\"/>\n          <rect x=\"480\" y=\"375\" width=\"456\" height=\"32\" rx=\"8\" fill=\"#f4e7e4\"/><text x=\"492\" y=\"396\" fill=\"#3d3a34\" font-size=\"14\">发钱只会让更多美元追逐同样多的商品</text>\n          <rect x=\"480\" y=\"417\" width=\"456\" height=\"32\" rx=\"8\" fill=\"#f4e7e4\"/><text x=\"492\" y=\"438\" fill=\"#3d3a34\" font-size=\"14\">疫情两轮补贴支票，已让美国人领教过通胀</text>\n          <rect x=\"480\" y=\"459\" width=\"456\" height=\"32\" rx=\"8\" fill=\"#f4e7e4\"/><text x=\"492\" y=\"480\" fill=\"#3d3a34\" font-size=\"14\">DOGE分红、2000美元退税，前几次都没兑现</text>\n        </g>\n\n        <g class=\"mm-branch\" data-target=\"bc4\">\n          <rect x=\"260\" y=\"611\" width=\"190\" height=\"34\" rx=\"8\" fill=\"#ece4f2\" stroke=\"#9b86b3\"/>\n          <text x=\"349\" y=\"633\" text-anchor=\"middle\" fill=\"#5a4670\" font-size=\"15\" font-weight=\"700\">两边都投不下（¶7–10）</text>\n          <text class=\"mm-arrow\" data-for=\"bc4\" x=\"442\" y=\"633\" text-anchor=\"end\" fill=\"#5a4670\">▾</text>\n        </g>\n        <g class=\"mm-children\" id=\"bc4\">\n          <path d=\"M450,628 C462,628 462,586 480,586\" stroke=\"#9b86b3\" stroke-width=\"1.5\" fill=\"none\"/>\n          <path d=\"M450,628 C462,628 462,628 480,628\" stroke=\"#9b86b3\" stroke-width=\"1.5\" fill=\"none\"/>\n          <path d=\"M450,628 C462,628 462,670 480,670\" stroke=\"#9b86b3\" stroke-width=\"1.5\" fill=\"none\"/>\n          <rect x=\"480\" y=\"570\" width=\"456\" height=\"32\" rx=\"8\" fill=\"#ece4f2\"/><text x=\"492\" y=\"591\" fill=\"#3d3a34\" font-size=\"14\">特朗普的金主朗斯代尔公开骂这是收买</text>\n          <rect x=\"480\" y=\"612\" width=\"456\" height=\"32\" rx=\"8\" fill=\"#ece4f2\"/><text x=\"492\" y=\"633\" fill=\"#3d3a34\" font-size=\"14\">万斯辩称关税创造财富，受益者只是说客律师</text>\n          <rect x=\"480\" y=\"654\" width=\"456\" height=\"32\" rx=\"8\" fill=\"#ece4f2\"/><text x=\"492\" y=\"675\" fill=\"#3d3a34\" font-size=\"14\">民主党一侧左移，财政保守派两边都投不下</text>\n        </g>\n      </svg>",
+  "img": ""
+ }
+}
