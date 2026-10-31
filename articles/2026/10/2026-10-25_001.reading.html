@@ -373,6 +373,38 @@ h1,.headline-block{break-after:avoid !important;page-break-after:avoid !importan
 .back-cal:active{opacity:.55}
 @media print{.back-cal{display:none !important}}
 body.print-sheet .back-cal{display:none !important}
+
+/* ===== print-hardened-v1：WebKit / Safari 打印分页加固，勿删 ===== */
+@media print{
+  html,body{height:auto !important;min-height:0 !important;overflow:visible !important}
+  /* 非正文块彻底移出流：固定定位 / 视口高元素是 Safari 空白页的头号来源 */
+  .side,.mindmap,.mm-switch,.mm-legend,.practice,.anchors,.tool-row,.meta,
+  .zh-block,.notes-toggle,.notes-group,.print-tip,.pg-mask,.back-cal,.print-btn{
+    display:none !important;position:static !important;
+    height:0 !important;min-height:0 !important;max-height:0 !important;
+    margin:0 !important;padding:0 !important;border:0 !important;
+    overflow:hidden !important;
+  }
+  /* flex 容器分页在 WebKit 上不可靠，一律摊成块级文档流 */
+  .layout,.main,main,.paragraph,.headline-block,header,section,.en-block{
+    display:block !important;float:none !important;
+    width:auto !important;max-width:none !important;
+  }
+  header{
+    position:static !important;
+    -webkit-backdrop-filter:none !important;backdrop-filter:none !important;
+  }
+  /* 分页控制：只留低风险的 avoid，高块不 avoid */
+  h1{break-after:avoid !important;page-break-after:avoid !important}
+  .headline-block{break-after:auto !important;page-break-after:auto !important;
+                   break-inside:auto !important;page-break-inside:auto !important}
+  .paragraph,.en-block{break-inside:auto !important;page-break-inside:auto !important}
+  .p-label{break-after:avoid !important;page-break-after:avoid !important}
+  p{orphans:2 !important;widows:2 !important}
+}
+body.print-sheet header{position:static !important;
+  -webkit-backdrop-filter:none !important;backdrop-filter:none !important}
+body.print-sheet .layout,body.print-sheet .main{display:block !important}
 </style>
 </head>
 <body>
@@ -972,12 +1004,16 @@ function doPrint(){
         primaryLabel: '打开分享菜单',
         primaryAction: function(){
           document.body.classList.add('print-sheet');   /* beforeprint 之外的冗余保险 */
-          var cleanup = function(){ document.body.classList.remove('print-sheet'); };
+          var sheetDone = false;
+          var cleanup = function(){ if(sheetDone) return; sheetDone = true; document.body.classList.remove('print-sheet'); };
           try{ window.addEventListener('afterprint', cleanup, {once:true}); }catch(e){}
           try{
             var pr = navigator.share({ title: document.title, url: location.href });
-            if(pr && pr.then){ pr.then(cleanup, cleanup); }
-            else{ setTimeout(cleanup, 90000); }
+            /* share-cleanup-safe-v1：分享面板一关就撤样式，Safari 会在排版打印预览时回流，
+               分页错位、多出一张空白页。改成 afterprint 或 120s 后再恢复。 */
+            var later = function(){ setTimeout(cleanup, 120000); };
+            if(pr && pr.then){ pr.then(later, later); }
+            else{ setTimeout(cleanup, 120000); }
           }catch(e){ cleanup(); }
         }
       });
