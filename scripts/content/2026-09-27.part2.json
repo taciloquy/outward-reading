@@ -1,0 +1,337 @@
+{
+ "paragraphs": [
+  {
+   "en_html": "Three months after surgery, the human tissue had <mark class=\"voc\">hooked up</mark> to the mouse’s blood supply and almost entirely filled the <mark class=\"voc\">cavity</mark>, <mark class=\"voc\">taking up</mark> about half the size of the rodent’s brain. Some of the human neurons formed connections with mouse brain cells and <mark class=\"voc\">spinal cord</mark>. The human neurons were not structured or <mark class=\"voc\">wired up</mark> in the same way as in people, and the brain tissue was immature, <mark class=\"voc\">equivalent</mark> to that found halfway through human <mark class=\"voc\">pregnancy</mark>. Tests on the “xenocortical” mice showed the animals were not enhanced by the transplants, but their <mark class=\"voc\">shaky</mark> <mark class=\"voc\">gait</mark> and <mark class=\"voc\">cognitive</mark> problems did improve a little.",
+   "zh": "手术后三个月，人类组织已接入小鼠的血液供应，几乎完全填满了空腔，约占啮齿动物大脑体积的一半。部分人类神经元与小鼠脑细胞及脊髓建立了连接。这些人类神经元的结构与连接方式，与人体内并不相同，脑组织也尚未成熟，相当于人类妊娠中期的水平。对“异种皮层”小鼠的测试表明，这些动物并未因移植而获得增强，但它们蹒跚的步态和认知问题，确实略有改善。",
+   "notes": [
+    {
+     "w": "hook up",
+     "ipa": "/hʊk ʌp/",
+     "pos": "phr.",
+     "en": "to connect something to a device or system",
+     "zh": "连接上，接通",
+     "ctx": "本义“用钩子挂上”，引申为接通设备或管线；文中说人类组织已经接上了小鼠的血管。",
+     "ex1": "The technician hooked up the monitor to the patient's chest. 技术人员将监护仪连接到患者胸部。",
+     "ex2": "We hooked up the new printer to the office network. 我们把新打印机接入了办公室网络。"
+    },
+    {
+     "w": "cavity",
+     "ipa": "/ˈkævəti/",
+     "pos": "n.",
+     "en": "a hole or empty space inside something solid",
+     "zh": "腔，空洞",
+     "ctx": "拉丁语 cavus“空的”，指实体内部的空洞；此处是鼠脑缺了自身组织后留下的那块空腔。",
+     "ex1": "The dentist filled the cavity in my molar. 牙医补了我臼齿上的蛀洞。",
+     "ex2": "The body has several cavities, including the chest and abdominal cavities. 人体有几个腔，包括胸腔和腹腔。"
+    },
+    {
+     "w": "take up",
+     "ipa": "/teɪk ʌp/",
+     "pos": "phr.",
+     "en": "to fill or occupy a particular amount of space or time",
+     "zh": "占据，占去",
+     "ctx": "“占去”空间或时间；taking up about half the size 即占了鼠脑体积的一半。",
+     "ex1": "The new sofa takes up too much space in the living room. 新沙发在客厅里占了太多空间。",
+     "ex2": "This project will take up most of my weekend. 这个项目会占去我大半个周末。"
+    },
+    {
+     "w": "spinal cord",
+     "ipa": "/ˈspaɪnl kɔːd/",
+     "pos": "n.",
+     "en": "the thick bundle of nerves that runs down the back and connects the brain to the rest of the body",
+     "zh": "脊髓",
+     "ctx": "spinal 脊柱的 + cord 索带，脊髓是脑向下延伸的神经主干，文中人类神经元一路接到了这里。",
+     "ex1": "Damage to the spinal cord can cause permanent paralysis. 脊髓损伤可能导致永久性瘫痪。",
+     "ex2": "The surgeon operated on a tumour pressing against the spinal cord. 外科医生切除了一个压迫脊髓的肿瘤。"
+    },
+    {
+     "w": "wire up",
+     "ipa": "/ˈwaɪə ʌp/",
+     "pos": "phr.",
+     "en": "to connect something to a system or network, especially electrical or neural",
+     "zh": "连接，接通",
+     "ctx": "本义“布线”，用在神经上就是“接线”：人类神经元并没有按人脑的方式接成回路。",
+     "ex1": "The building was wired up with fibre-optic cables. 这栋楼铺设了光纤电缆。",
+     "ex2": "It takes weeks for the brain to wire up new neural pathways after a stroke. 中风后，大脑需要数周才能建立新的神经通路。"
+    },
+    {
+     "w": "equivalent",
+     "ipa": "/ɪˈkwɪvələnt/",
+     "pos": "adj.",
+     "en": "equal in value, amount, meaning or importance",
+     "zh": "等同的，相当的",
+     "ctx": "equi- 相等 + val 价值，“价值相当”，指发育阶段的对等，而不是尺寸相同。",
+     "ex1": "One pound is roughly equivalent to 1.2 euros. 一英镑大约相当于1.2欧元。",
+     "ex2": "His silence was equivalent to an admission of guilt. 他的沉默等同于认罪。"
+    },
+    {
+     "w": "pregnancy",
+     "ipa": "/ˈpreɡnənsi/",
+     "pos": "n.",
+     "en": "the condition or period of being pregnant",
+     "zh": "妊娠，怀孕",
+     "ctx": "妊娠；halfway through human pregnancy 是给这块组织的成熟度找一个人类参照系。",
+     "ex1": "She had a healthy pregnancy and gave birth to twins. 她孕期健康，生下了一对双胞胎。",
+     "ex2": "Smoking during pregnancy increases the risk of complications. 孕期吸烟会增加并发症的风险。"
+    },
+    {
+     "w": "shaky",
+     "ipa": "/ˈʃeɪki/",
+     "pos": "adj.",
+     "en": "not stable or steady; trembling",
+     "zh": "摇晃的，不稳的",
+     "ctx": "shake 摇 + -y，站不稳、发抖；文中形容小鼠术后走路的样子。",
+     "ex1": "The old man's hands were shaky from years of manual labour. 老人的双手因多年体力劳动而颤抖。",
+     "ex2": "The table was shaky because one leg was shorter than the others. 桌子因为一条腿比其他的短而摇晃不稳。"
+    },
+    {
+     "w": "gait",
+     "ipa": "/ɡeɪt/",
+     "pos": "n.",
+     "en": "a person's or animal's manner of walking",
+     "zh": "步态，步法",
+     "ctx": "专指“走路的姿态与方式”，在医学里是判断神经功能的一项硬指标。",
+     "ex1": "His gait was unsteady after the accident. 事故后他的步态不稳。",
+     "ex2": "The physiotherapist analysed the patient's gait to identify muscle weakness. 理疗师分析了患者的步态，以判断肌肉无力的情况。"
+    },
+    {
+     "w": "cognitive",
+     "ipa": "/ˈkɒɡnətɪv/",
+     "pos": "adj.",
+     "en": "relating to the process of knowing, understanding and learning",
+     "zh": "认知的",
+     "ctx": "来自拉丁语 cognoscere“认识”，管的是学习、记忆、判断这些高级脑功能。",
+     "ex1": "Cognitive decline is a common symptom of Alzheimer's disease. 认知衰退是阿尔茨海默病的常见症状。",
+     "ex2": "The study found that regular exercise improves cognitive function in older adults. 研究发现，规律运动能改善老年人的认知功能。"
+    }
+   ]
+  },
+  {
+   "en_html": "To demonstrate how the mice could <mark class=\"voc\">shed light on</mark> human brain disorders, the researchers exposed some of the animals to five hours of low oxygen. This showed how vulnerable human nerve cells are to oxygen <mark class=\"voc\">deprivation</mark>, which in pregnancy and birth can cause cerebral palsy. The researchers found that human brain tissue in the mice contained rare cells known as von Economo neurons, which have only been seen in <mark class=\"voc\">postmortem</mark> examinations. The cells are among the first to die in frontotemporal dementia, a rare form of the disease, which Paşca now hopes to study in xenocortical mice.",
+   "zh": "为展示这些小鼠如何有助于揭示人类脑部疾病，研究人员将部分动物置于低氧环境中长达五小时。结果清晰显示，人类神经细胞对缺氧何其脆弱——而缺氧在妊娠和分娩过程中，正是脑瘫的诱因之一。研究人员发现，小鼠体内的人类脑组织中含有一种名为“冯·埃科诺莫神经元”的稀有细胞，此前仅在尸检中得见。这类细胞是额颞叶痴呆（一种罕见型痴呆）中最先死亡的细胞之一，帕什卡如今希望能在异种皮层小鼠身上对其展开研究。",
+   "notes": [
+    {
+     "w": "shed light on",
+     "ipa": "/ʃed laɪt ɒn/",
+     "pos": "phr.",
+     "en": "to make something easier to understand by providing new information",
+     "zh": "揭示，阐明，为……提供线索",
+     "ctx": "把光打在暗处，即“揭示、为了解某事提供线索”，是学术写作里的高频比喻。",
+     "ex1": "The discovery sheds light on how cancer cells evade the immune system. 这一发现揭示了癌细胞如何逃避免疫系统。",
+     "ex2": "Her diary sheds light on what life was like during the war. 她的日记为了解战时生活提供了线索。"
+    },
+    {
+     "w": "deprivation",
+     "ipa": "/ˌdeprɪˈveɪʃn/",
+     "pos": "n.",
+     "en": "the state of not having something that you need, especially a basic necessity",
+     "zh": "剥夺，缺乏",
+     "ctx": "de- 拿走 + priv 私有的，“把本该有的夺走”，oxygen deprivation 就是缺氧。",
+     "ex1": "Sleep deprivation can impair judgment and reaction time. 睡眠不足会损害判断力和反应时间。",
+     "ex2": "The charity works to alleviate food deprivation in rural areas. 该慈善机构致力于缓解农村地区的食物匮乏。"
+    },
+    {
+     "w": "postmortem",
+     "ipa": "/ˌpəʊstˈmɔːtəm/",
+     "pos": "adj./n.",
+     "en": "relating to an examination of a dead body to determine the cause of death; an autopsy",
+     "zh": "死后的，尸检",
+     "ctx": "post 之后 + mortem 死亡，即“死后、尸检”；这种细胞此前只能在遗体上才看得到。",
+     "ex1": "The postmortem revealed that the patient had suffered a massive stroke. 尸检显示患者曾遭受大面积中风。",
+     "ex2": "Postmortem studies of brain tissue have been crucial to understanding neurodegenerative diseases. 脑组织的尸检研究对理解神经退行性疾病至关重要。"
+    }
+   ]
+  },
+  {
+   "en_html": "Prof Madeline Lancaster, group leader at the MRC Laboratory of <mark class=\"voc\">Molecular</mark> Biology in Cambridge, said the approach was best <mark class=\"voc\">suited to</mark> questions about disorders and treatments where a whole animal was needed. “It’s less clear to me how this will inform our understanding of human brain development since it is rather artificial, and not at all like how the brain develops naturally,” she said.",
+   "zh": "剑桥MRC分子生物学实验室研究组组长马德琳·兰卡斯特教授表示，这一方法最适合用于那些需要完整动物模型才能回答的疾病与治疗问题。“但要说这将如何增进我们对人脑发育的理解，我就不太确定了，因为它相当人工化，与人脑自然发育的方式完全不可同日而语。”她说。",
+   "notes": [
+    {
+     "w": "molecular",
+     "ipa": "/məˈlekjələ(r)/",
+     "pos": "adj.",
+     "en": "relating to molecules or the smallest units of a substance",
+     "zh": "分子的",
+     "ctx": "molecule 分子 + -ar，分子层面的；MRC 分子生物学实验室是剑桥的老牌重镇。",
+     "ex1": "Molecular biology has revolutionised our understanding of genetics. 分子生物学彻底改变了我们对遗传学的理解。",
+     "ex2": "The drug works at the molecular level to block tumour growth. 该药物在分子层面阻断肿瘤生长。"
+    },
+    {
+     "w": "suited to",
+     "ipa": "/ˈsuːtɪd tuː/",
+     "pos": "adj.",
+     "en": "right or appropriate for a particular purpose or situation",
+     "zh": "适合于，适宜于",
+     "ctx": "suit 本义“相配”，be suited to 即“与……相配、适合”，暗含方法的适用范围有限。",
+     "ex1": "The climate here is well suited to growing grapes. 这里的气候非常适合种植葡萄。",
+     "ex2": "He is not suited to a career in sales because he dislikes confrontation. 他不适合从事销售工作，因为他不喜欢与人冲突。"
+    }
+   ]
+  },
+  {
+   "en_html": "Many researchers working on brain organoids are growing them <mark class=\"voc\">in vitro</mark>, or in <mark class=\"voc\">dishes</mark>. The hope is they help to reduce the number of animals used in research. “It’s obviously ethically sensitive and there needs to be a very good reason to do this type of animal experimentation, which most scientific <mark class=\"voc\">avenues</mark> do not require,” Lancaster added. “The field is still <mark class=\"voc\">aiming for</mark> fully in vitro solutions, but this work can also inform on what may be needed to improve those in vitro models to reach more mature stages.”",
+   "zh": "许多研究脑类器官的科研人员，正在体外——也就是培养皿中——培育它们。人们希望这能有助于减少研究中使用的动物数量。“这显然在伦理上极为敏感，必须有极其充分的理由，才能进行这类动物实验，而大多数科学路径并不需要如此。”兰卡斯特补充道，“该领域仍在朝着完全体外解决方案的方向努力，但这项工作同样可以告诉我们，要改进那些体外模型、使其达到更成熟的阶段，可能还需要些什么。”",
+   "notes": [
+    {
+     "w": "in vitro",
+     "ipa": "/ɪn ˈviːtrəʊ/",
+     "pos": "adv./adj.",
+     "en": "outside a living body, in an artificial environment such as a test tube or culture dish",
+     "zh": "体外地/的",
+     "ctx": "拉丁语“在玻璃里”，指试管、培养皿中的人工环境，与 in vivo“在活体内”相对。",
+     "ex1": "The fertilisation was performed in vitro before the embryo was implanted. 受精在体外完成，之后胚胎被植入。",
+     "ex2": "In vitro studies suggest the compound may inhibit viral replication. 体外研究表明该化合物可能抑制病毒复制。"
+    },
+    {
+     "w": "dish",
+     "ipa": "/dɪʃ/",
+     "pos": "n.",
+     "en": "a shallow container used in laboratories for culturing cells or microorganisms",
+     "zh": "培养皿",
+     "ctx": "实验室里的浅盘即培养皿；in dishes 是 in vitro 的大白话说法。",
+     "ex1": "The bacteria were grown in a Petri dish overnight. 细菌在培养皿中过夜培养。",
+     "ex2": "Each dish contained a different concentration of the drug. 每个培养皿中含有不同浓度的药物。"
+    },
+    {
+     "w": "avenue",
+     "ipa": "/ˈævənjuː/",
+     "pos": "n.",
+     "en": "a possible way of achieving something or dealing with a problem",
+     "zh": "途径，渠道，方法",
+     "ctx": "本义“林荫大道”，引申为“途径、路子”；scientific avenues 就是一条条研究路线。",
+     "ex1": "The company is exploring new avenues for reducing costs. 公司正在探索降低成本的新途径。",
+     "ex2": "Diplomacy remains the best avenue for resolving the conflict. 外交仍是解决冲突的最佳途径。"
+    },
+    {
+     "w": "aim for",
+     "ipa": "/eɪm fɔː(r)/",
+     "pos": "phr.",
+     "en": "to try to achieve a particular goal",
+     "zh": "力求，致力于，以……为目标",
+     "ctx": "瞄准某个目标；The field is still aiming for... 说的是整个领域正朝哪儿走。",
+     "ex1": "The team is aiming for a spot in the finals. 这支队伍正力争进入决赛。",
+     "ex2": "We should aim for a 30% reduction in waste by next year. 我们应致力于在明年之前将废弃物减少30%。"
+    }
+   ]
+  }
+ ],
+ "proper": [
+  {
+   "name": "schizophrenia / 精神分裂症",
+   "def": "一种严重的精神疾病，属于精神病性障碍，核心特征是现实检验能力受损。患者常出现阳性症状（幻觉、妄想、思维紊乱）、阴性症状（情感淡漠、意志减退、社交退缩）和认知症状（注意力、工作记忆、执行功能受损）。该病通常在青少年晚期或成年早期发病，男性首次发作多在20岁出头，女性多在20岁中后期，且女性常有一个较晚的发病高峰。遗传因素影响显著，一级亲属患病风险是普通人群的5至11倍，同卵双胞胎共病率约40%至50%，但并非100%，说明环境因素同样重要。全球疾病负担研究显示，全球精神分裂症患病率从1990年的约1362万上升至2021年的约2318万，增幅超过70%，部分原因是人口增长和诊断能力提升。现有抗精神病药主要阻断多巴胺D2受体，对阳性症状有效，但对阴性症状和认知症状效果有限，且约三分之一患者对治疗反应不佳，还可能带来体重增加、代谢紊乱、锥体外系反应等副作用。因此，学界急需更接近人脑真实环境的模型来研究机制和筛选新药。<br>本文中的意思：第 1 段点名的第一种目标疾病：现有药只能压住幻觉妄想，对阴性症状与认知损害几乎无解，正需要人脑组织模型来试药。"
+  },
+  {
+   "name": "epilepsy / 癫痫",
+   "def": "一种由大脑神经元异常同步放电引起的慢性神经系统疾病，表现为反复癫痫发作，可伴意识丧失、抽搐、感觉异常、自动症或行为中断。病因包括遗传、脑损伤、感染、肿瘤、卒中、代谢异常等。全球约有5000万癫痫患者，其中约30%为药物难治性癫痫，即使用两种以上抗癫痫药仍不能有效控制发作。难治性癫痫患者面临意外死亡、认知退化、心理障碍和社交歧视等多重风险。现有抗癫痫药主要作用于钠通道、钙通道、GABA受体或谷氨酸受体，但只能控制约三分之二患者的发作。文中将其列为需要新疗法的脑部疾病之一，正是因为人脑组织模型可能帮助理解癫痫如何在人类神经元网络中发生。<br>本文中的意思：第 1 段列出的第二种病：约三成患者对现有药无效，作者借它说明为什么必须在“人类神经元网络”这一层做模型。"
+  },
+  {
+   "name": "cerebral palsy / 脑瘫",
+   "def": "全称大脑性麻痹，是一组由发育中的胎儿或婴幼儿大脑受损引起的运动和姿势障碍综合征，常伴痉挛、步态异常、认知或语言障碍。缺氧、早产、产伤、感染、新生儿黄疸是重要诱因。全球每1000名活产婴儿中约有2至3例脑瘫，早产儿和低出生体重儿风险显著更高。脑瘫不是单一疾病，而是一组异质性综合征，运动障碍类型包括痉挛型、运动障碍型、共济失调型和混合型。文中第7段提到低氧可导致脑瘫，正是为了说明人脑组织对缺氧的脆弱性，并展示异种皮层小鼠如何用于研究这一过程。<br>本文中的意思：第 1 段列病之一，第 7 段的低氧实验又把它变成具体场景——人脑组织对缺氧的脆弱，正是脑瘫的起点。"
+  },
+  {
+   "name": "cortex/hippocampus / 大脑皮层/海马体",
+   "def": "大脑皮层是大脑表面最外层、高度折叠的灰质，厚度约2至4毫米，负责感觉整合、运动控制、语言、决策、意识和高级认知。人类大脑皮层约有160亿至200亿神经元，其高度发达是人与其他动物认知差异的关键。海马体位于颞叶深部，形似海马，对记忆形成、空间导航和情绪调节至关重要，海马损伤会导致无法形成新的长期记忆。文中实验小鼠被基因工程改造为天生缺失皮层或海马体，以便为人类脑组织腾出颅腔空间。这一设计是该研究能形成“半人脑小鼠”的关键前提，因为小鼠自身脑组织缺失后，人类脑类器官才有空间生长并接入宿主神经环路。<br>本文中的意思：整个实验的前提：小鼠被改成天生没有皮层与海马，才腾出颅腔给人类组织生长，否则“半人脑小鼠”无从谈起。"
+  },
+  {
+   "name": "brain disorders / 脑部疾病",
+   "def": "泛指影响大脑结构和功能的疾病，包括精神疾病（如精神分裂症、抑郁症、双相障碍）、神经退行性疾病（如阿尔茨海默病、帕金森病、额颞叶痴呆）、发育障碍（如智力障碍、自闭症）、癫痫、脑损伤、脑瘫等。文中强调这类疾病在精神病学和神经病学中治疗手段远少于其他医学分支，原因之一是人脑难以直接研究。这一困境推动了人源脑组织小鼠模型的开发，因为科学家可以从患者身上取细胞，在实验室培育成脑组织，再移植到动物体内观察疾病如何发生。<br>本文中的意思：第 2 段 brain disorders 的所指：这一整类病，正是“取患者细胞—体外养组织—植入动物”这条路径要攻的目标。"
+  },
+  {
+   "name": "drug development / 药物研发",
+   "def": "涉及药物研发的核心逻辑：先在动物模型中观察疾病如何发生、药物如何干预，再推进到人体试验。传统药物研发流程包括靶点发现、先导化合物筛选、临床前研究、I期至III期临床试验。人源脑组织小鼠模型的价值，就在于让药物筛选更接近人类脑组织真实反应，因为人类神经元与小鼠神经元在基因表达、电生理特性、药物反应上存在显著差异。文中说科学家可以研究“药物能否治疗这些疾病”，指的就是这一转化医学路径，即用携带人类脑组织的动物模型来测试药物是否对真正的人类神经元有效。<br>本文中的意思：第 2 段 how drugs might treat the conditions 背后的逻辑：先在带人类脑组织的动物身上试，再谈人体试验。"
+  },
+  {
+   "name": "psychiatry / 精神病学",
+   "def": "医学分支，专门诊断、治疗和预防精神障碍，如抑郁症、精神分裂症、双相障碍、焦虑障碍、强迫症等。精神病学与神经病学常被并列，但前者侧重精神与行为，后者侧重神经系统器质性病变。精神病学治疗手段包括药物治疗、心理治疗、电休克治疗、重复经颅磁刺激等，但许多精神疾病的确切机制仍不清楚，药物研发长期依赖血清素、多巴胺、去甲肾上腺素等单胺类假说，突破性进展有限。文中帕什卡指出精神病学在治疗手段上落后于其他医学分支，正是这一困境的写照。<br>本文中的意思：第 3 段帕什卡自陈落后的领域之一，他用的词是 left behind——不是落后一点，是被整个医学甩开。"
+  },
+  {
+   "name": "neurology / 神经病学",
+   "def": "医学分支，研究神经系统（脑、脊髓、周围神经、肌肉）的疾病，如中风、癫痫、帕金森病、多发性硬化、肌萎缩侧索硬化、周围神经病等。神经病学诊断依赖影像学、电生理、脑脊液检查等，治疗手段包括药物、手术、康复等。文中说精神病学和神经病学“被每一个医学分支甩在身后”，指这两个领域缺乏有效疗法的困境。以额颞叶痴呆为例，目前尚无疾病修饰疗法，只能对症治疗，这正是帕什卡希望用异种皮层小鼠研究的疾病之一。<br>本文中的意思：与 psychiatry 并列，第 3 段那句“被每一个医学分支甩在身后”，说的就是这两个领域。"
+  },
+  {
+   "name": "therapeutics / 治疗手段",
+   "def": "指用于治疗疾病的药物、手术、生物制剂、心理干预、基因治疗、细胞治疗等。文中说这两个领域“治疗手段比每一个医学分支都少”，强调的是可用疗法匮乏，而非理论不重要。以精神分裂症为例，过去五十年主要依赖多巴胺受体阻断剂，直到近年才出现毒蕈碱受体激动剂等新机制药物。以额颞叶痴呆为例，目前尚无获批的疾病修饰药物。这一判断是帕什卡团队开展该研究的核心动机之一。<br>本文中的意思：第 3 段 fewer therapeutics 的分量所在：不是理论不够，而是真正能用的疗法太少。"
+  },
+  {
+   "name": "Sergiu Pașca / 塞尔久·帕什卡",
+   "def": "斯坦福大学精神病学教授，脑类器官和组装体领域的国际领军人物。他的团队率先将人类脑类器官移植到动物体内，并推动“人源化脑模型”用于精神疾病研究。帕什卡团队此前已成功培育出人脑类器官、组装体（assembloids），并证明人类脑类器官可以在小鼠脑内生长、接入血管、与小鼠神经元形成突触连接。文中他是该研究的负责人，研究发表在《自然》杂志上。他的长期目标是让人脑发育和功能的各个方面变得可供研究，从而为精神病学和神经病学开发新疗法。<br>本文中的意思：第 3 段发声、第 5 段在《自然》上描述实验的人，这项研究的负责人。"
+  },
+  {
+   "name": "organoids / 类器官",
+   "def": "由干细胞在体外自组织形成的微型、简化版器官结构，能部分模拟真实器官的细胞组成、结构和功能。类器官可由多能干细胞或成体干细胞培育而成，包括脑、肠、肾、肝、视网膜等多种类型。脑类器官可模拟早期人脑发育，如皮层分层、神经元放电、胶质细胞分化、突触形成等，用于疾病建模和药物筛选。文中人类脑类器官被注射到小鼠脑内，形成人鼠嵌合脑组织。类器官的局限在于缺乏血管、免疫细胞和完整感觉输入，因此不如真实器官成熟，但比二维细胞培养更接近体内环境。<br>本文中的意思：第 4 段伦理争议的对象、第 5 段被注射进鼠脑的东西，是全文的技术核心。"
+  },
+  {
+   "name": "ethical concerns / 伦理忧虑",
+   "def": "指这类研究引发的道德争议，包括人类细胞与动物嵌合、意识可能性、动物福利、知情同意、捐赠细胞使用边界、人类尊严等。文中强调伦理审查必须持续。帕什卡表示该工作自始至终受到严格伦理审查。争议焦点之一是：如果人类脑组织在小鼠脑中形成某种意识或痛觉，动物实验的伦理门槛将大幅提高。另一个焦点是：人类细胞与动物嵌合是否模糊了物种边界，是否可能产生“半人半兽”的实体。目前科学界普遍认为这类脑组织远未形成完整意识，但必须密切监测。<br>本文中的意思：第 4 段的整段主题：组织团块会不会有意识、会不会疼，被植入的动物又该怎么保障。"
+  },
+  {
+   "name": "conscious/feel pain / 有意识的/感受疼痛",
+   "def": "意识指能感知自身和外界、有主观体验的状态；疼痛不仅是生理反应，也涉及主观感受和情绪体验。伦理争议的核心之一是：人源脑组织在小鼠脑中是否会形成某种意识或痛觉。若可能，则动物实验的伦理门槛将大幅提高。目前科学界认为这类脑组织远未形成完整意识或疼痛通路，因为意识需要丘脑-皮层环路、广泛皮层网络和成熟神经调质系统的协同，而移植的人脑组织仍处于相当于人类妊娠中期的未成熟阶段。但必须密切监测动物行为，以评估移植对其健康的影响。<br>本文中的意思：第 4 段 not least around whether... 的具体内容，也是伦理争论里最尖锐的那一问。"
+  },
+  {
+   "name": "Nuffield Council on Bioethics / 纳菲尔德生物伦理委员会",
+   "def": "英国著名独立生物伦理机构，专门研究生物医学研究中的伦理问题，发布权威报告影响政策。该委员会成立于1991年，关注基因编辑、神经科学、动物实验、公共卫生等领域的伦理问题。文中提到其近期关于神经类器官的报告，主席为伦敦政治经济学院法学教授艾米莉·杰克逊。杰克逊强调动物福利是至关重要的关切，必须密切监测被植入类器官的动物，以评估移植对它们造成的影响。该报告为神经类器官研究的伦理监管提供了重要框架。<br>本文中的意思：第 4 段艾米莉·杰克逊身份的一半：她主持的正是该委员会关于神经类器官的那份报告。"
+  },
+  {
+   "name": "donated skin cells / 捐赠的皮肤细胞",
+   "def": "文中指从患者或捐赠者身上获取的皮肤细胞，通过重编程转化为诱导多能干细胞，再培育成脑类器官。这种方法可保留患者遗传背景，用于个性化疾病建模。具体操作是：取一小块皮肤活检组织，分离成纤维细胞，引入Oct4、Sox2、Klf4、c-Myc等转录因子，使其逆转为诱导多能干细胞，再在特定培养基中诱导分化为脑类器官。皮肤细胞来源方便、伦理争议较小，且可来自特定患者，因此成为类器官研究的常用起点。<br>本文中的意思：第 5 段 reprogramming donated skin cells 的起点：整片人类脑组织，最初只是一小片捐赠的皮肤。"
+  },
+  {
+   "name": "reprogramming / 重编程",
+   "def": "指通过引入特定转录因子，将已分化的成体细胞（如皮肤细胞）逆转为类似胚胎干细胞的多能状态，即诱导多能干细胞。这是类器官和再生医学的核心技术，由山中伸弥开创，获2012年诺贝尔生理学或医学奖。重编程技术避免了使用胚胎干细胞带来的伦理争议，同时可实现患者特异性细胞治疗和疾病建模。文中人类脑类器官正是通过重编程捐赠皮肤细胞而创造的。重编程效率、基因组稳定性、表观遗传记忆等仍是当前研究热点。<br>本文中的意思：第 5 段的第二步：把皮肤细胞“倒带”回干细胞状态，才谈得上让它长成脑组织。"
+  },
+  {
+   "name": "human brain organoids / 人类脑类器官",
+   "def": "由人类多能干细胞培育出的三维脑组织，能模拟人脑早期发育的某些方面，如皮层分层、神经元放电、胶质细胞分化等。文中将其注射到缺失脑组织的小鼠脑内，每次注射约含10万个人类脑细胞，最终形成约400万个人类脑细胞、占小鼠大脑体积约一半的嵌合脑。具体操作是：新生小鼠接受数次注射，每次约10万个人类脑细胞，注入其自身脑组织缺失的空间。这些小鼠缺失约1400万个小鼠脑细胞，最终拥有约400万个人类脑细胞。人类脑类器官在小鼠脑内可存活、生长、接入血管，并与小鼠神经元形成连接。<br>本文中的意思：第 5 段被注射进去的东西：每次约十万个细胞，最终长成约四百万个。"
+  },
+  {
+   "name": "blood supply / 血液供应",
+   "def": "指组织获得氧气和营养、排出废物的血管系统。移植的人脑组织若不能接入宿主血管，就会坏死。文中三个月后人类组织已接入小鼠血液供应，几乎完全填满空腔，说明移植成功存活并生长。血管化是类器官移植成功的关键步骤，因为类器官本身缺乏血管，只能靠扩散获得营养，尺寸受限。接入宿主血管后，类器官可获得持续血液供应，继续生长并成熟。这一过程涉及血管新生、血管通透性、血脑屏障形成等复杂机制。<br>本文中的意思：第 6 段 hooked up to the mouse’s blood supply：移植能不能活，先看能不能接上血管。"
+  },
+  {
+   "name": "neurons/spinal cord / 神经元/脊髓",
+   "def": "神经元是神经系统的基本功能细胞，负责接收、整合和传递电信号，由胞体、树突、轴突和突触组成。脊髓是连接脑和身体各部分的神经束，负责感觉上传和运动下达，也参与反射。文中人类神经元与小鼠脑细胞和脊髓形成连接，说明跨物种神经回路可以建立。但人类神经元的结构和连接方式与人脑并不相同，脑组织仍处于未成熟阶段，相当于人类妊娠中期水平。这意味着移植的人脑组织尚未形成完整的人脑环路，但已具备一定的电生理功能和突触连接能力。<br>本文中的意思：第 6 段“接了线”的具体所指：人类神经元与小鼠脑细胞、脊髓建立了连接。"
+  },
+  {
+   "name": "xenocortical mice / 异种皮层小鼠",
+   "def": "xeno-意为“外来的、异种的”，cortical指“皮层的”。文中指植入了人类皮层类器官、形成人鼠嵌合皮层的小鼠。这是该研究创造的新模型名称，用于研究人类脑疾病。测试表明这些小鼠并未因移植而获得增强，但蹒跚步态和认知问题略有改善。这一结果表明，移植的人脑组织在一定程度上可以补偿小鼠缺失的脑功能，但并未让小鼠变得“更聪明”或“更接近人类”。该模型为研究人类脑疾病提供了新工具，但也引发伦理争议。<br>本文中的意思：第 6 段加引号的那个词，也是第 7 段帕什卡想继续用来研究额颞叶痴呆的模型。"
+  },
+  {
+   "name": "von Economo neurons / 冯·埃科诺莫神经元",
+   "def": "一种大型、纺锤形神经元，主要分布在前岛叶和前扣带回，与社交认知、情绪调节、快速直觉判断和共情有关。人类和大象、鲸、海豚等少数动物拥有。这类细胞此前仅在尸检中得见，而该研究首次在小鼠体内的人类脑组织中观察到。它们是额颞叶痴呆中最先死亡的细胞之一，因此成为研究该病的重要靶点。von Economo神经元由奥地利神经学家康斯坦丁·冯·埃科诺莫于1925年首次描述，其功能仍不完全清楚，但被认为与快速、直觉性的社会情绪处理有关。<br>本文中的意思：第 7 段的意外收获：这种此前只能在尸检中看到的细胞，第一次出现在活体小鼠的人脑组织里。"
+  },
+  {
+   "name": "frontotemporal dementia / 额颞叶痴呆",
+   "def": "一种罕见型痴呆，主要累及额叶和颞叶，导致人格改变、行为异常、语言障碍和执行功能下降，多在45至65岁起病，是早发性痴呆的常见原因之一。von Economo神经元是额颞叶痴呆中最先死亡的细胞之一。帕什卡希望用异种皮层小鼠研究该病。文中还提到低氧实验显示人类神经细胞对缺氧极其脆弱，而缺氧在妊娠和分娩中可导致脑瘫。这一实验展示了异种皮层小鼠如何用于研究环境因素对特定人类神经元的影响。额颞叶痴呆目前尚无疾病修饰疗法，只能对症治疗，因此亟需新模型和新靶点。<br>本文中的意思：第 1 段 rare forms of dementia、第 7 段“最先死亡的细胞”都指向它，也是下一步的研究目标。"
+  },
+  {
+   "name": "Madeline Lancaster/MRC Laboratory of Molecular Biology / 马德琳·兰卡斯特/英国医学研究理事会分子生物学实验室",
+   "def": "兰卡斯特是脑类器官领域的先驱，2013年首次培养出脑类器官，证明人类多能干细胞可以在体外自组织形成三维脑组织。MRC分子生物学实验室位于剑桥，是世界顶尖分子生物学研究机构，曾诞生DNA双螺旋结构、蛋白质结构解析等多项诺贝尔奖成果。她指出该方法“相当人工化”，更适合研究疾病和治疗，而非人脑自然发育。她认为需要完整动物模型的问题才适合用这种方法。她的评论提醒学界，异种皮层小鼠模型虽然强大，但不能完全替代对人脑自然发育的研究。<br>本文中的意思：第 8、9 段的评论者：肯定这套方法对“需要整体动物”的问题有用，却质疑它对“人脑自然发育”能说明什么。"
+  },
+  {
+   "name": "in vitro/in vivo / 体外/体内",
+   "def": "in vitro指在活体外的人工环境（如培养皿）中进行；in vivo指在活体内进行。许多脑类器官研究正努力实现完全体外解决方案，以减少动物实验。但文中兰卡斯特指出，这项工作也能帮助改进体外模型，使其达到更成熟阶段。她还强调，这类动物实验伦理敏感，必须有极好理由才可进行，而大多数科学路径并不需要如此。这一观点反映了神经科学界在动物实验与体外模型之间的张力：一方面，动物模型能提供完整生理环境；另一方面，体外模型可减少动物使用，但成熟度和复杂度仍有限。未来方向可能是将两者结合，用动物模型验证体外模型，再用体外模型替代部分动物实验。<br>本文中的意思：第 9 段的坐标：整个领域想走向完全体外，这项研究展示的则是“体内”这一端的现状。"
+  }
+ ],
+ "sources_note": "资料核对：以上背景依据文章内容，并参考《自然》原论文、纳菲尔德生物伦理委员会报告及斯坦福大学相关公开信息整理。",
+ "practice": {
+  "intro": "请根据今天学习的外刊，把下面的中文句子翻译成英文。要求：尽量用上本文的核心表达，可以适当改变词形，但不要直接照抄原文。",
+  "items": [
+   "为了赶上最后一班地铁，她一路跑到了车站。",
+   "这家公司专攻人工智能，尤其关注语音识别领域。",
+   "他把新买的打印机接入了办公室网络。",
+   "睡眠不足会损害记忆力，尤其是学习新知识的能力。",
+   "这项政策可能改变整个行业，但争议同样不容忽视。",
+   "该团队力求在年底前完成项目，以减少不必要的开支。"
+  ],
+  "critical_en": "If a mouse can carry half a human brain, where should the line be drawn between curing disease and crossing a species boundary?",
+  "critical_zh": "如果一只老鼠能承载半个“人脑”，在“治病”与“跨过物种边界”之间，这条线该划在哪里？",
+  "answer": "1. In an effort to catch the last subway, she ran all the way to the station.<br><br>2. This company specialises in artificial intelligence, with a particular focus on speech recognition.<br><br>3. He hooked up the new printer to the office network.<br><br>4. Sleep deprivation can impair memory, not least the ability to learn new things.<br><br>5. The policy could be transformative for the whole industry, but the controversy is hard to ignore.<br><br>6. The team is aiming to finish the project by the end of the year, to cut down on unnecessary spending."
+ },
+ "mindmap": {
+  "aria": "半人脑小鼠研究文章思维导图",
+  "alt": "科学家造出半人脑小鼠（手绘版）",
+  "svg": "<svg viewBox=\"0 0 960 720\" xmlns=\"http://www.w3.org/2000/svg\" role=\"img\" aria-label=\"半人脑小鼠研究文章思维导图\" style=\"width:100%;height:auto;font-family:-apple-system,'PingFang SC','Hiragino Sans GB','Microsoft YaHei',sans-serif\">\n        <rect x=\"24\" y=\"306\" width=\"176\" height=\"88\" rx=\"14\" fill=\"#eae3d2\" stroke=\"#9a8f76\"/>\n        <text x=\"112\" y=\"342\" text-anchor=\"middle\" fill=\"#3d3a34\" font-size=\"17\" font-weight=\"700\">人脑老鼠</text>\n        <text x=\"112\" y=\"368\" text-anchor=\"middle\" fill=\"#5c5648\" font-size=\"12.5\">半个脑子来自人类</text>\n\n        <path d=\"M200,350 C232,350 232,88 260,88\" stroke=\"#6b8f71\" stroke-width=\"2\" fill=\"none\"/>\n        <path d=\"M200,350 C232,350 232,238 260,238\" stroke=\"#7d98ad\" stroke-width=\"2\" fill=\"none\"/>\n        <path d=\"M200,350 C232,350 232,433 260,433\" stroke=\"#bd7a6d\" stroke-width=\"2\" fill=\"none\"/>\n        <path d=\"M200,350 C232,350 232,628 260,628\" stroke=\"#9b86b3\" stroke-width=\"2\" fill=\"none\"/>\n\n        <g class=\"mm-branch\" data-target=\"bc1\">\n          <rect x=\"260\" y=\"71\" width=\"190\" height=\"34\" rx=\"8\" fill=\"#e6efe7\" stroke=\"#6b8f71\"/>\n          <text x=\"349\" y=\"93\" text-anchor=\"middle\" fill=\"#4c6b52\" font-size=\"15\" font-weight=\"700\">造半人脑小鼠（¶1–2）</text>\n          <text class=\"mm-arrow\" data-for=\"bc1\" x=\"442\" y=\"93\" text-anchor=\"end\" fill=\"#4c6b52\">▾</text>\n        </g>\n        <g class=\"mm-children\" id=\"bc1\">\n          <path d=\"M450,88 C462,88 462,46 480,46\" stroke=\"#6b8f71\" stroke-width=\"1.5\" fill=\"none\"/>\n          <path d=\"M450,88 C462,88 462,88 480,88\" stroke=\"#6b8f71\" stroke-width=\"1.5\" fill=\"none\"/>\n          <path d=\"M450,88 C462,88 462,130 480,130\" stroke=\"#6b8f71\" stroke-width=\"1.5\" fill=\"none\"/>\n          <rect x=\"480\" y=\"30\" width=\"456\" height=\"32\" rx=\"8\" fill=\"#e6efe7\"/><text x=\"492\" y=\"51\" fill=\"#3d3a34\" font-size=\"14\">人类脑细胞被种进天生缺皮层、海马的鼠脑</text>\n          <rect x=\"480\" y=\"72\" width=\"456\" height=\"32\" rx=\"8\" fill=\"#e6efe7\"/><text x=\"492\" y=\"93\" fill=\"#3d3a34\" font-size=\"14\">缺失腾出的空腔，成了人类组织的生长空间</text>\n          <rect x=\"480\" y=\"114\" width=\"456\" height=\"32\" rx=\"8\" fill=\"#e6efe7\"/><text x=\"492\" y=\"135\" fill=\"#3d3a34\" font-size=\"14\">取患者细胞 → 体外养成组织 → 植入活鼠</text>\n        </g>\n\n        <g class=\"mm-branch\" data-target=\"bc2\">\n          <rect x=\"260\" y=\"221\" width=\"190\" height=\"34\" rx=\"8\" fill=\"#e5edf4\" stroke=\"#7d98ad\"/>\n          <text x=\"349\" y=\"243\" text-anchor=\"middle\" fill=\"#3d5872\" font-size=\"15\" font-weight=\"700\">脑医学为何落后（¶3）</text>\n          <text class=\"mm-arrow\" data-for=\"bc2\" x=\"442\" y=\"243\" text-anchor=\"end\" fill=\"#3d5872\">▾</text>\n        </g>\n        <g class=\"mm-children\" id=\"bc2\">\n          <path d=\"M450,238 C462,238 462,196 480,196\" stroke=\"#7d98ad\" stroke-width=\"1.5\" fill=\"none\"/>\n          <path d=\"M450,238 C462,238 462,238 480,238\" stroke=\"#7d98ad\" stroke-width=\"1.5\" fill=\"none\"/>\n          <path d=\"M450,238 C462,238 462,280 480,280\" stroke=\"#7d98ad\" stroke-width=\"1.5\" fill=\"none\"/>\n          <rect x=\"480\" y=\"180\" width=\"456\" height=\"32\" rx=\"8\" fill=\"#e5edf4\"/><text x=\"492\" y=\"201\" fill=\"#3d3a34\" font-size=\"14\">精神病学与神经病学落后于每个医学分支</text>\n          <rect x=\"480\" y=\"222\" width=\"456\" height=\"32\" rx=\"8\" fill=\"#e5edf4\"/><text x=\"492\" y=\"243\" fill=\"#3d3a34\" font-size=\"14\">能用的治疗手段，比任何科室都少</text>\n          <rect x=\"480\" y=\"264\" width=\"456\" height=\"32\" rx=\"8\" fill=\"#e5edf4\"/><text x=\"492\" y=\"285\" fill=\"#3d3a34\" font-size=\"14\">病根：人脑太复杂，也太难触及</text>\n        </g>\n\n        <g class=\"mm-branch\" data-target=\"bc3\">\n          <rect x=\"260\" y=\"416\" width=\"190\" height=\"34\" rx=\"8\" fill=\"#f4e7e4\" stroke=\"#bd7a6d\"/>\n          <text x=\"349\" y=\"438\" text-anchor=\"middle\" fill=\"#7c4a3e\" font-size=\"15\" font-weight=\"700\">伦理争议（¶4）</text>\n          <text class=\"mm-arrow\" data-for=\"bc3\" x=\"442\" y=\"438\" text-anchor=\"end\" fill=\"#7c4a3e\">▾</text>\n        </g>\n        <g class=\"mm-children\" id=\"bc3\">\n          <path d=\"M450,433 C462,433 462,391 480,391\" stroke=\"#bd7a6d\" stroke-width=\"1.5\" fill=\"none\"/>\n          <path d=\"M450,433 C462,433 462,433 480,433\" stroke=\"#bd7a6d\" stroke-width=\"1.5\" fill=\"none\"/>\n          <path d=\"M450,433 C462,433 462,475 480,475\" stroke=\"#bd7a6d\" stroke-width=\"1.5\" fill=\"none\"/>\n          <rect x=\"480\" y=\"375\" width=\"456\" height=\"32\" rx=\"8\" fill=\"#f4e7e4\"/><text x=\"492\" y=\"396\" fill=\"#3d3a34\" font-size=\"14\">组织团块会不会有意识、会不会疼</text>\n          <rect x=\"480\" y=\"417\" width=\"456\" height=\"32\" rx=\"8\" fill=\"#f4e7e4\"/><text x=\"492\" y=\"438\" fill=\"#3d3a34\" font-size=\"14\">被植入类器官的动物，福利如何保障</text>\n          <rect x=\"480\" y=\"459\" width=\"456\" height=\"32\" rx=\"8\" fill=\"#f4e7e4\"/><text x=\"492\" y=\"480\" fill=\"#3d3a34\" font-size=\"14\">帕什卡：审查从一开始就有，且须持续</text>\n        </g>\n\n        <g class=\"mm-branch\" data-target=\"bc4\">\n          <rect x=\"260\" y=\"611\" width=\"190\" height=\"34\" rx=\"8\" fill=\"#ece4f2\" stroke=\"#9b86b3\"/>\n          <text x=\"349\" y=\"633\" text-anchor=\"middle\" fill=\"#5a4670\" font-size=\"15\" font-weight=\"700\">结果与评价（¶5–9）</text>\n          <text class=\"mm-arrow\" data-for=\"bc4\" x=\"442\" y=\"633\" text-anchor=\"end\" fill=\"#5a4670\">▾</text>\n        </g>\n        <g class=\"mm-children\" id=\"bc4\">\n          <path d=\"M450,628 C462,628 462,586 480,586\" stroke=\"#9b86b3\" stroke-width=\"1.5\" fill=\"none\"/>\n          <path d=\"M450,628 C462,628 462,628 480,628\" stroke=\"#9b86b3\" stroke-width=\"1.5\" fill=\"none\"/>\n          <path d=\"M450,628 C462,628 462,670 480,670\" stroke=\"#9b86b3\" stroke-width=\"1.5\" fill=\"none\"/>\n          <rect x=\"480\" y=\"570\" width=\"456\" height=\"32\" rx=\"8\" fill=\"#ece4f2\"/><text x=\"492\" y=\"591\" fill=\"#3d3a34\" font-size=\"14\">三个月接上血管，占去鼠脑约一半</text>\n          <rect x=\"480\" y=\"612\" width=\"456\" height=\"32\" rx=\"8\" fill=\"#ece4f2\"/><text x=\"492\" y=\"633\" fill=\"#3d3a34\" font-size=\"14\">缺氧五小时验脑瘫，首见 von Economo 神经元</text>\n          <rect x=\"480\" y=\"654\" width=\"456\" height=\"32\" rx=\"8\" fill=\"#ece4f2\"/><text x=\"492\" y=\"675\" fill=\"#3d3a34\" font-size=\"14\">兰卡斯特：对疾病有用，对“自然发育”存疑</text>\n        </g>\n\n      </svg>",
+  "img": ""
+ }
+}

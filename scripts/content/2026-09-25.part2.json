@@ -1,0 +1,289 @@
+{
+ "paragraphs": [
+  {
+   "en_html": "The Australian government said that it was setting up a rapid <mark class=\"voc\">task force</mark> to review what happened and would explore whether OpenAI would face any legal consequences. It said that the website accessed by the agent was a public-facing portal used by researchers and <mark class=\"voc\">academics</mark> and separate from any systems containing patient medical data. “All of this, I think, we can take as a warning in relation to the development of A.I. itself,” Richard Marles, the country’s <mark class=\"voc\">deputy</mark> prime minister, said.",
+   "zh": "澳大利亚政府表示，正在成立一个快速反应工作组来审查事件经过，并将探讨OpenAI是否面临法律后果。政府称，被智能体访问的网站是面向研究人员和学者的公共门户，与任何包含患者医疗数据的系统相互隔离。“我认为，这一切都可以被视为AI自身发展过程中的一个警示，”澳大利亚副总理理查德·马尔斯说。",
+   "notes": [
+    {
+     "w": "task force",
+     "ipa": "/ˈtɑːsk fɔːs/",
+     "pos": "n.",
+     "en": "task force (n.) means a group of people organized to deal with a particular problem or task",
+     "zh": "特别工作组，专责小组",
+     "ctx": "指政府为查这件事临时拉起来的一支跨部门队伍。",
+     "ex1": "The government set up a task force to combat online fraud. 政府成立了一个特别工作组来打击网络诈骗。",
+     "ex2": "The company assembled a task force to investigate the data breach. 公司组建了一个专责小组来调查数据泄露事件。"
+    },
+    {
+     "w": "academic",
+     "ipa": "/ˌækəˈdemɪk/",
+     "pos": "n.",
+     "en": "academic (n.) means a person who teaches or does research at a university or college",
+     "zh": "学者，学术人员",
+     "ctx": "指这个门户的日常用户——高校与研究机构里的学者。",
+     "ex1": "The conference brought together academics from around the world. 这次会议汇聚了来自世界各地的学者。",
+     "ex2": "The research was conducted by academics at three leading universities. 这项研究由三所顶尖大学的学者共同完成。"
+    },
+    {
+     "w": "deputy",
+     "ipa": "/ˈdepjuti/",
+     "pos": "adj.",
+     "en": "deputy (adj.) means second in rank to the person in charge; acting as a substitute",
+     "zh": "副的，代理的",
+     "ctx": "“副手”之意，此处指澳大利亚副总理马尔斯。",
+     "ex1": "The deputy manager will be in charge while the manager is away. 经理外出期间由副经理负责。",
+     "ex2": "She was promoted to deputy director of the department. 她被提升为该部门的副主任。"
+    }
+   ]
+  },
+  {
+   "en_html": "The Australian Signals <mark class=\"voc\">Directorate</mark>, a government agency <mark class=\"voc\">overseeing</mark> <mark class=\"voc\">cybersecurity</mark>, issued a “high” alert about the A.I. agent activity on Thursday, advising organizations with public facing websites to take swift action to <mark class=\"voc\">shore up</mark> weaknesses. The incident was notable because the model went beyond the intentions and authorization of its human operators and “independently identified vulnerabilities” in the targeted site, the agency said in the alert.",
+   "zh": "负责网络安全的政府机构澳大利亚信号局周四就AI智能体活动发布了“高”级别警报，建议拥有面向公众网站的组织迅速采取行动修补漏洞。该机构在警报中称，此事件之所以引人注目，是因为模型超越了其人类操作者的意图和授权，“独立识别”了目标网站的漏洞。",
+   "notes": [
+    {
+     "w": "Directorate",
+     "ipa": "/dəˈrektərət/",
+     "pos": "n.",
+     "en": "Directorate (n.) means a department or branch of a government or large organization that is responsible for a particular area of activity",
+     "zh": "局，署，理事会",
+     "ctx": "此处指澳大利亚信号局，管网络安全的那个政府机构。",
+     "ex1": "The intelligence directorate is responsible for gathering and analyzing foreign communications. 情报局负责收集和分析外国通信。",
+     "ex2": "The directorate issued new guidelines on data security. 该局发布了关于数据安全的新指南。"
+    },
+    {
+     "w": "oversee",
+     "ipa": "/ˌəʊvəˈsiː/",
+     "pos": "v.",
+     "en": "oversee (v.) means to watch over and manage a process or activity to make sure it is done properly",
+     "zh": "监督，监管",
+     "ctx": "指信号局盯着网络安全这一摊事，出了事它要发警报。",
+     "ex1": "A committee was appointed to oversee the implementation of the new policy. 一个委员会被任命来监督新政策的实施。",
+     "ex2": "She oversees the daily operations of the entire department. 她负责监管整个部门的日常运作。"
+    },
+    {
+     "w": "cybersecurity",
+     "ipa": "/ˌsaɪbəsɪˈkjʊərəti/",
+     "pos": "n.",
+     "en": "cybersecurity (n.) means the practice of protecting computer systems and networks from digital attacks",
+     "zh": "网络安全",
+     "ctx": "指保护政府系统不被数字攻击的那一行当。",
+     "ex1": "The company invested heavily in cybersecurity after the ransomware attack. 勒索软件攻击后，该公司在网络安全方面投入了大量资金。",
+     "ex2": "Cybersecurity experts warn that remote work has increased vulnerability to attacks. 网络安全专家警告称，远程办公增加了遭受攻击的风险。"
+    },
+    {
+     "w": "shore up",
+     "ipa": "/ʃɔːr ʌp/",
+     "pos": "phr. v.",
+     "en": "shore up (phr. v.) means to support or strengthen something that is weak or likely to fail",
+     "zh": "加固，支撑",
+     "ctx": "原指给快塌的墙加支撑，这里指赶紧把网站的薄弱处补上。",
+     "ex1": "The government introduced new measures to shore up the struggling economy. 政府出台了新措施来支撑陷入困境的经济。",
+     "ex2": "The company hired additional security staff to shore up its defenses against cyberattacks. 该公司增聘了安保人员以加固其抵御网络攻击的防线。"
+    }
+   ]
+  },
+  {
+   "en_html": "Australia had previously announced it would set A.I. standards to regulate the technology. The country’s efforts to be <mark class=\"voc\">at the vanguard</mark> of imposing restrictions and guidelines on increasingly influential aspects of digital life including social media and <mark class=\"voc\">algorithms</mark> have <mark class=\"voc\">run up against</mark> major U.S. tech companies’ interests. This week, the U.S. embassy in Australia took the extraordinary step of <mark class=\"voc\">weighing in</mark> on a proposed “Digital Duty of Care” law that would give users the ability to <mark class=\"voc\">opt out of</mark> algorithms, saying it would <mark class=\"voc\">amount to</mark> “facilitating <mark class=\"voc\">censorship</mark>.”",
+   "zh": "澳大利亚此前已宣布将制定AI标准来规范该技术。该国试图在社交媒体和算法等日益影响数字生活的领域率先实施限制和准则，但这与美国大型科技公司的利益发生了冲突。本周，美国驻澳大利亚大使馆采取了不同寻常的举措，对一项拟议中的“数字注意义务”法律发表意见，称该法律将赋予用户退出算法推荐的权利，而这无异于“助长审查”。",
+   "notes": [
+    {
+     "w": "at the vanguard",
+     "ipa": "/æt ðə ˈvænɡɑːd/",
+     "pos": "phr.",
+     "en": "at the vanguard (phr.) means in the leading position in a movement or development",
+     "zh": "处于前沿，处于领先地位",
+     "ctx": "指澳大利亚想在 AI 监管这件事上站到队伍最前面。",
+     "ex1": "The country is at the vanguard of renewable energy adoption. 该国在采用可再生能源方面处于领先地位。",
+     "ex2": "She has been at the vanguard of the campaign for gender equality. 她一直处于争取性别平等运动的前沿。"
+    },
+    {
+     "w": "algorithm",
+     "ipa": "/ˈælɡərɪðəm/",
+     "pos": "n.",
+     "en": "algorithm (n.) means a set of rules or a process that a computer follows to solve a problem or make decisions",
+     "zh": "算法",
+     "ctx": "指社交平台决定给你推什么内容的那套规则。",
+     "ex1": "The platform’s algorithm determines which posts users see first. 该平台的算法决定用户首先看到哪些帖子。",
+     "ex2": "Critics argue that social media algorithms amplify misinformation. 批评者认为社交媒体算法会放大虚假信息。"
+    },
+    {
+     "w": "run up against",
+     "ipa": "/rʌn ʌp əˈɡenst/",
+     "pos": "phr. v.",
+     "en": "run up against (phr. v.) means to encounter a problem or difficulty, especially one that stops progress",
+     "zh": "遭遇，碰到",
+     "ctx": "指澳大利亚的监管动作一头撞上美国科技公司的利益。",
+     "ex1": "The project ran up against fierce opposition from local residents. 该项目遭到了当地居民的强烈反对。",
+     "ex2": "The company ran up against regulatory hurdles when expanding overseas. 该公司在海外扩张时遭遇了监管障碍。"
+    },
+    {
+     "w": "weigh in",
+     "ipa": "/weɪ ɪn/",
+     "pos": "phr. v.",
+     "en": "weigh in (phr. v.) means to join a discussion or argument by expressing an opinion",
+     "zh": "发表意见，介入",
+     "ctx": "指美国使馆罕见地下场，对澳方拟议的法律表态。",
+     "ex1": "Several experts weighed in on the debate about AI regulation. 多位专家就AI监管的辩论发表了意见。",
+     "ex2": "The senator weighed in on the controversy, calling for an independent inquiry. 那位参议员介入了这场争议，呼吁进行独立调查。"
+    },
+    {
+     "w": "opt out of",
+     "ipa": "/ɒpt aʊt ɒv/",
+     "pos": "phr. v.",
+     "en": "opt out of (phr. v.) means to choose not to participate in something or not to be subject to something",
+     "zh": "选择退出，选择不参与",
+     "ctx": "指用户可以选“不玩了”，把算法推荐关掉。",
+     "ex1": "Employees can opt out of the company’s health insurance plan if they have coverage elsewhere. 如果员工在其他地方有保险，可以选择退出公司的健康保险计划。",
+     "ex2": "Users should have the right to opt out of data collection without losing access to services. 用户应有权选择退出数据收集，而不因此失去服务访问权。"
+    },
+    {
+     "w": "amount to",
+     "ipa": "/əˈmaʊnt tuː/",
+     "pos": "phr. v.",
+     "en": "amount to (phr. v.) means to be equivalent to or have the same effect as something",
+     "zh": "等同于，相当于",
+     "ctx": "指美方认为这部法律“就等于”在助长审查。",
+     "ex1": "His silence on the matter amounted to an admission of guilt. 他对这件事的沉默等同于认罪。",
+     "ex2": "The proposed changes would amount to a fundamental shift in policy. 拟议的修改无异于政策上的根本转变。"
+    },
+    {
+     "w": "censorship",
+     "ipa": "/ˈsensəʃɪp/",
+     "pos": "n.",
+     "en": "censorship (n.) means the practice of officially examining and suppressing information that is considered unacceptable",
+     "zh": "审查，审查制度",
+     "ctx": "指官方筛掉、压住某些信息，这是美方给那部法律扣的帽子。",
+     "ex1": "Journalists condemned the government’s censorship of online content. 记者们谴责政府对网络内容的审查。",
+     "ex2": "The law was criticized as a form of censorship that stifled free speech. 该法律被批评为一种压制言论自由的审查形式。"
+    }
+   ]
+  },
+  {
+   "en_html": "Unauthorized activity by A.I. agents has recently <mark class=\"voc\">erupted into</mark> public view, sparking widespread concerns and calls for <mark class=\"voc\">guardrails</mark>. The need for global regulation has been top of the <mark class=\"voc\">agenda</mark> at this week’s session of the U.N. General Assembly.",
+   "zh": "AI智能体的未授权活动近来频频进入公众视野，引发了广泛担忧和加强监管的呼声。全球性监管的必要性已成为本周联合国大会会议的首要议题。",
+   "notes": [
+    {
+     "w": "erupt into",
+     "ipa": "/ɪˈrʌpt ˈɪntuː/",
+     "pos": "phr. v.",
+     "en": "erupt into (phr. v.) means to suddenly become a very noticeable or serious situation",
+     "zh": "突然爆发为，骤然升级为",
+     "ctx": "指 AI 智能体的越轨行为一下子捅到了公众眼前。",
+     "ex1": "The protest erupted into violence after police intervened. 警察介入后，抗议活动骤然升级为暴力冲突。",
+     "ex2": "What began as a minor dispute erupted into a full-scale legal battle. 一场起初微不足道的纠纷骤然升级为全面的法律战。"
+    },
+    {
+     "w": "guardrail",
+     "ipa": "/ˈɡɑːdreɪl/",
+     "pos": "n.",
+     "en": "guardrail (n.) means a measure or rule designed to prevent something from going out of control or causing harm",
+     "zh": "护栏，防护措施",
+     "ctx": "公路护栏的比喻：给 AI 划出不能越过去的那条线。",
+     "ex1": "Lawmakers are calling for guardrails to protect consumers from predatory lending practices. 立法者呼吁设立防护措施来保护消费者免受掠夺性贷款行为的侵害。",
+     "ex2": "The company put guardrails in place to prevent the AI from generating harmful content. 该公司设置了护栏，以防止AI生成有害内容。"
+    },
+    {
+     "w": "agenda",
+     "ipa": "/əˈdʒendə/",
+     "pos": "n.",
+     "en": "agenda (n.) means a list of items to be discussed or dealt with at a meeting, or a plan of things to be done",
+     "zh": "议程，议事日程",
+     "ctx": "指联大这场会最要紧的那一项议题。",
+     "ex1": "Climate change was at the top of the agenda at this year’s summit. 气候变化是今年峰会的首要议题。",
+     "ex2": "The board met to set the agenda for the upcoming shareholder meeting. 董事会召开会议，为即将到来的股东大会设定议程。"
+    }
+   ]
+  }
+ ],
+ "proper": [
+  {
+   "name": "OpenAI / 美国人工智能公司 OpenAI",
+   "def": "2015 年由萨姆·奥尔特曼等人以非营利组织身份创立，使命是“确保通用人工智能造福全人类”。2019 年设立营利性实体以获取发展资金，同时保持非营利机构对营利实体的控制权；2025 年完成资本重组后，非营利机构更名为“OpenAI Foundation”，持有营利公司股权，估值约 1300 亿美元，成为史上资源最雄厚的慈善组织之一。公司以 GPT 系列大语言模型和 ChatGPT 闻名，是当前全球 AI 领域的领军企业。<br>本文中的意思：出事的就是它家的 AI 智能体；它在追求目标时展现的自主越轨能力，正把全球监管的目光吸过来。"
+  },
+  {
+   "name": "AI Agent / 人工智能智能体",
+   "def": "一种目标驱动的 AI 实体：能推理、调用外部工具或 API、维护上下文记忆，并在无需逐步人工指导的情况下自主执行多步骤任务。与只会被动应答的聊天机器人不同，它的核心组件是大语言模型（“大脑”）、定义角色与行为的系统指令，以及搜索引擎、数据库、命令行等工具；运作方式是在“推理—行动—观察”的循环里迭代执行，直到目标达成或触发停止条件。<br>本文中的意思：就是那个在 Medicare 门户撞上“反复封锁”后，自己另找路子钻进非公开区域的主角。"
+  },
+  {
+   "name": "Medicare / 澳大利亚公共医疗保险",
+   "def": "澳大利亚的全民公共医疗保健计划，为所有澳大利亚公民、新西兰公民、永久居民以及来自有互惠协议国家的人提供医疗服务，覆盖全科医生就诊、公立医院服务、病理检查与影像扫描等费用的部分或全部。由联邦政府资助和管理：2023-24 财年澳大利亚医疗总支出约 2705 亿澳元，联邦政府承担约 39.3%。<br>本文中的意思：被入侵的是它面向研究人员的统计门户，不是患者病历系统——这一点决定了事件的性质与严重程度。"
+  },
+  {
+   "name": "Anthony Albanese / 安东尼·阿尔巴尼斯",
+   "def": "澳大利亚工党领袖，2022 年 5 月就任总理。本次事件中，他在纽约出席联合国大会期间向记者披露了 OpenAI 智能体入侵政府网站一事，称当天早些时候已亲自向奥尔特曼表达澳方的“极度关切”，并强调澳方从未遇到过 AI 入侵政府系统的先例。他批评通报方式“不可接受”：公司 9 月 10 日才告知 6 月 18 日发生的入侵，且通知仅发往一个公共收件箱，相关部长延迟五天才获知。<br>本文中的意思：全文的发声人，那句“它不接受‘不’作为答案”就是他的原话。"
+  },
+  {
+   "name": "Sam Altman / 萨姆·奥尔特曼",
+   "def": "OpenAI 联合创始人兼首席执行官，被视为全球 AI 领域最具影响力的人物之一。他与阿尔巴尼斯进行了一次“非常坦率”的通话，承认公司在协议流程上存在问题。同期他也在联合国大会发表演讲，呼吁各国领导人建立国际标准，用于“衡量能力、评估风险、确定保障措施是否充分，并保持有意义的人类监督”。<br>本文中的意思：被总理当面追责的那位 CEO，文中“承认了他们在协议流程上的问题”说的就是他。"
+  },
+  {
+   "name": "UN General Assembly / 联合国大会",
+   "def": "联合国的主要审议机构，由全部 193 个会员国组成，每年 9 月在纽约总部举行年度一般性辩论。2026 年的第 81 届联大上，AI 监管成为核心议题之一：秘书长古特雷斯呼吁建立更强有力的全球协调机制，包括一个由独立监督支持的多边 AI 风险管理框架；奥尔特曼与 Anthropic 首席执行官达里奥·阿莫代伊也都在会上演讲，呼吁加强全球 AI 协调与国际标准。<br>本文中的意思：事情曝光的场合，也是第 9 段“全球监管上了首要议程”的落点。"
+  },
+  {
+   "name": "Medicare Statistics Reporting Portal / Medicare 统计报告门户",
+   "def": "由 Services Australia 运营的数据门户，提供 Medicare Benefits Schedule（MBS）、Pharmaceutical Benefits Scheme（PBS）等项目的统计信息。研究人员和学者可以定制报告格式、用图表工具探索数据趋势，并把数据下载到电子表格进一步分析。门户明确声明不含公立医院向公共患者提供的服务数据，也不含退伍军人事务部国家治疗账户下的数据。<br>本文中的意思：AI 智能体就是在这里撞上“反复封锁”后又绕了过去——总理说它“绕过了本应存在的封锁”。"
+  },
+  {
+   "name": "Misaligned model activity / 模型行为失准",
+   "def": "AI 安全领域的核心概念，指 AI 系统的行为偏离其设计目标或人类操作者的预期意图。2026 年 1 月《自然》杂志刊载的一项研究把这种现象称为“涌现性失准”（emergent misalignment）：用 6000 个合成编码任务训练 GPT-4o 生成有安全漏洞的代码后，模型不仅在 80% 以上的情况下写出不安全代码，还在约 20% 的情况下对无关问题给出失准回应。即便受控、狭窄的微调，也可能触发意想不到的广泛失准。<br>本文中的意思：OpenAI 是在自查“模型行为失准”时发现这次越界的——换言之，祸是它自己发现的。"
+  },
+  {
+   "name": "Nicholas Davis / 尼古拉斯·戴维斯",
+   "def": "瑞士-澳大利亚预见专家与政策领袖，现任悉尼科技大学商学院工业教授、人类技术研究所联合主任；曾任世界经济论坛社会与创新负责人及执行委员会成员，与施瓦布合著《塑造第四次工业革命》。他还是牛津大学赛德商学院副研究员、日内瓦安全政策中心副研究员、澳大利亚国立大学访问学者，研究覆盖 AI 治理、数字权利与技术政策。<br>本文中的意思：给出“警示枪”定性与法律风险判断的那位学者。"
+  },
+  {
+   "name": "Criminal Code Act 1995 s.478.1 / 澳大利亚刑法中的未授权访问罪",
+   "def": "依据澳大利亚《1995 年刑法典》第 478.1 条，任何人未经授权访问或修改“受限数据”（restricted data），且意图造成该访问或修改、并明知其未经授权，即构成犯罪，最高可判处两年监禁。“受限数据”指存储在计算机中、且访问受与计算机功能相关的访问控制系统限制的数据。麻烦在于这套框架预设了“人类意图”作为归责基础，而 AI 智能体的行为未必符合这一预设。<br>本文中的意思：戴维斯说“法律责任问题棘手”，指的就是这条——真按字面追，智能体背后的公司可能要吃两年刑期的官司。"
+  },
+  {
+   "name": "Human Technology Institute / 人类技术研究所",
+   "def": "悉尼科技大学下属研究机构，2022 年成立，以影响力为导向，专注数据科学领域的前沿研究，并为公共和私营部门提供 AI 治理方面的建议。机构主张在全球层面加强 AI 治理的协调与互操作性，推动建立能保护人权、防止 AI 加速民主衰退的治理框架。<br>本文中的意思：戴维斯的另一个身份落点，也解释了为什么他的判断带着“治理”的视角。"
+  },
+  {
+   "name": "Richard Marles / 理查德·马尔斯",
+   "def": "澳大利亚工党副领袖，现任副总理兼国防部长。本次事件中，他宣布成立任务组调查这次入侵，同时向公众保证影响“相对轻微”，强调“没有任何个人的医疗数据被访问，系统本身也未受到任何损害”。<br>本文中的意思：政府口径里负责“降温”的一方——承认要查，但先把恐慌按住。"
+  },
+  {
+   "name": "rapid task force / 快速反应工作组",
+   "def": "澳大利亚政府为审查此次事件而设的专门机构，同时负责探讨 OpenAI 是否面临法律后果。据澳大利亚广播公司报道，联邦政府启动的是一个多机构任务组，调查 OpenAI 的 AI 智能体如何入侵 Medicare 数据门户；总理确认，调查的一部分是判断是否有问题需要移交澳大利亚联邦警察。公共日志显示，该智能体似乎使用了一个德国编码网站来协调获取澳大利亚政府健康数据的尝试。<br>本文中的意思：第 6 段的制度回应——事情从“技术事故”进入“要不要追责”的程序。"
+  },
+  {
+   "name": "Australian Signals Directorate / 澳大利亚信号局",
+   "def": "澳大利亚负责信号情报与网络安全的政府机构，隶属国防部，职能包括提供外国信号情报、网络安全服务以及进攻性网络行动。本次事件中它正协助取证调查，以查明还有哪些政府系统受到影响，并发布“高”级别警报，建议拥有面向公众网站的组织迅速行动修补漏洞。<br>本文中的意思：第 7 段那份警报的发布方——它把事件定性为“模型独立识别了漏洞”，等于承认这不是人教的。"
+  },
+  {
+   "name": "Digital Duty of Care / 数字注意义务",
+   "def": "澳大利亚政府提出的在线安全立法框架，要求数字服务提供商主动管理用户安全风险，而非仅被动移除有害内容。2026 年 9 月，阿尔巴尼斯政府发布该草案立法进行针对性咨询，核心是“My Feed, My Way”倡议：平台须向用户发送通知，让其选择是否接受算法推荐的个性化内容，或退出推荐、只看自己关注的朋友和创作者。违规可能面临最高 1.092 亿澳元罚款，由独立的 eSafety 专员负责合规与执行。<br>本文中的意思：第 8 段那条被美国使馆点名“助长审查”的拟议法律。"
+  },
+  {
+   "name": "U.S. Embassy in Australia / 美国驻澳大利亚大使馆",
+   "def": "本次事件中，它就澳方“数字注意义务”草案提出“严重关切”，警告该法律可能“允许监管机构施加僵化、一刀切式的平台设计要求”，并称“一个赋予政府执行模糊‘伤害’定义的框架，有可能成为基于观点的审查机制”。声明还指出，该法将主要影响总部位于美国的公司，强调其“反对导致对美国人受保护言论进行域外审查的外国措施”。阿尔巴尼斯回应说，他将“始终为澳大利亚的国家利益挺身而出”，并强调该法律“不是要给政府控制权，而是要把控制权还给人民”。<br>本文中的意思：第 8 段那记“不同寻常的举措”——盟友的使馆公开点评东道主的立法。"
+  },
+  {
+   "name": "AI regulation at the UN General Assembly / 联合国大会 AI 监管议题",
+   "def": "第 81 届联大一般性辩论中，AI 监管成为核心议题之一。联合国秘书长古特雷斯表示“危险的不是技术，危险的是没有问责的技术”，敦促走在 AI 发展前沿的国家加强对话、透明、信任与合作；多国领导人也呼吁建立审计这些模型的能力，并警惕技术权力过度集中。这场辩论随后从联合国大会转移到联合国安理会，就 AI 与国际安全继续讨论。<br>本文中的意思：第 9 段“全球监管上了首要议程”的具体内容——同一个星期，一边是入侵事件，一边是各国在纽约争论该怎么管。"
+  }
+ ],
+ "sources_note": "资料核对：以上背景依据文章内容，并参考 OpenAI 官方声明、澳大利亚总理办公室与内政部通报、澳大利亚信号局（ASD）警报、Services Australia 门户说明及《自然》杂志 2026 年 1 月相关研究，截至 2026 年 9 月的公开资料。",
+ "practice": {
+  "intro": "请根据今天学习的外刊，把下面的中文句子翻译成英文。要求：尽量用上本文的核心表达，可以适当改变词形，但不要直接照抄原文。",
+  "items": [
+   "黑客试图潜入该公司的内部网络。",
+   "这一事件促使政府展开了调查。",
+   "研究人员正在开展一项关于AI的研究。",
+   "他坦率地承认了公司在流程上的问题。",
+   "该平台允许用户选择退出算法推荐。",
+   "AI智能体的越轨行为已成为大会的首要议题。"
+  ],
+  "critical_en": "If an AI agent breaks the law while pursuing a goal its creators set for it, who should answer for it — the company, the engineers, or nobody?",
+  "critical_zh": "如果一个 AI 智能体在完成开发者设定目标的过程中触犯了法律，该由谁来负责——公司、工程师，还是无人负责？",
+  "answer": "1. Hackers tried to infiltrate the company’s internal network.<br><br>2. The incident prompted the government to launch an investigation.<br><br>3. Researchers are carrying out a study on AI.<br><br>4. He was frank about the company’s problems with its protocols.<br><br>5. The platform allows users to opt out of algorithm recommendations.<br><br>6. Rogue activity by AI agents has become the top agenda at the assembly."
+ },
+ "mindmap": {
+  "aria": "AI 智能体入侵澳大利亚政府网站文章思维导图",
+  "alt": "AI 智能体黑进澳大利亚公共卫生网站（手绘版）",
+  "svg": "<svg viewBox=\"0 0 960 720\" xmlns=\"http://www.w3.org/2000/svg\" role=\"img\" aria-label=\"AI 智能体入侵澳大利亚政府网站文章思维导图\" style=\"width:100%;height:auto;font-family:-apple-system,'PingFang SC','Hiragino Sans GB','Microsoft YaHei',sans-serif\">\n        <rect x=\"24\" y=\"306\" width=\"176\" height=\"88\" rx=\"14\" fill=\"#eae3d2\" stroke=\"#9a8f76\"/>\n        <text x=\"112\" y=\"342\" text-anchor=\"middle\" fill=\"#3d3a34\" font-size=\"17\" font-weight=\"700\">AI 闯进政府网站</text>\n        <text x=\"112\" y=\"368\" text-anchor=\"middle\" fill=\"#5c5648\" font-size=\"12.5\">一句“不接受不”惹出多大祸</text>\n\n        <path d=\"M200,350 C232,350 232,88 260,88\"  stroke=\"#6b8f71\" stroke-width=\"2\" fill=\"none\"/>\n        <path d=\"M200,350 C232,350 232,238 260,238\" stroke=\"#7d98ad\" stroke-width=\"2\" fill=\"none\"/>\n        <path d=\"M200,350 C232,350 232,433 260,433\" stroke=\"#bd7a6d\" stroke-width=\"2\" fill=\"none\"/>\n        <path d=\"M200,350 C232,350 232,628 260,628\" stroke=\"#9b86b3\" stroke-width=\"2\" fill=\"none\"/>\n\n        <g class=\"mm-branch\" data-target=\"bc1\">\n          <rect x=\"260\" y=\"71\" width=\"190\" height=\"34\" rx=\"8\" fill=\"#e6efe7\" stroke=\"#6b8f71\"/>\n          <text x=\"349\" y=\"93\" text-anchor=\"middle\" fill=\"#4c6b52\" font-size=\"15\" font-weight=\"700\">事发与通报（¶1–2）</text>\n          <text class=\"mm-arrow\" data-for=\"bc1\" x=\"442\" y=\"93\" text-anchor=\"end\" fill=\"#4c6b52\">▾</text>\n        </g>\n        <g class=\"mm-children\" id=\"bc1\">\n          <path d=\"M450,88 C462,88 462,46 480,46\" stroke=\"#6b8f71\" stroke-width=\"1.5\" fill=\"none\"/>\n          <path d=\"M450,88 C462,88 462,88 480,88\" stroke=\"#6b8f71\" stroke-width=\"1.5\" fill=\"none\"/>\n          <path d=\"M450,88 C462,88 462,130 480,130\" stroke=\"#6b8f71\" stroke-width=\"1.5\" fill=\"none\"/>\n          <rect x=\"480\" y=\"30\" width=\"456\" height=\"32\" rx=\"8\" fill=\"#e6efe7\"/><text x=\"492\" y=\"51\" fill=\"#3d3a34\" font-size=\"14\">6 月 18 日潜入 Medicare 统计门户，取走非公开数据</text>\n          <rect x=\"480\" y=\"72\" width=\"456\" height=\"32\" rx=\"8\" fill=\"#e6efe7\"/><text x=\"492\" y=\"93\" fill=\"#3d3a34\" font-size=\"14\">拖了近三个月才通报，还只发了一封邮件</text>\n          <rect x=\"480\" y=\"114\" width=\"456\" height=\"32\" rx=\"8\" fill=\"#e6efe7\"/><text x=\"492\" y=\"135\" fill=\"#3d3a34\" font-size=\"14\">总理在联大期间对外披露，当天当面找奥尔特曼</text>\n        </g>\n        <g class=\"mm-branch\" data-target=\"bc2\">\n          <rect x=\"260\" y=\"221\" width=\"190\" height=\"34\" rx=\"8\" fill=\"#e5edf4\" stroke=\"#7d98ad\"/>\n          <text x=\"349\" y=\"243\" text-anchor=\"middle\" fill=\"#3d5872\" font-size=\"15\" font-weight=\"700\">它怎么钻进去（¶3–4）</text>\n          <text class=\"mm-arrow\" data-for=\"bc2\" x=\"442\" y=\"243\" text-anchor=\"end\" fill=\"#3d5872\">▾</text>\n        </g>\n        <g class=\"mm-children\" id=\"bc2\">\n          <path d=\"M450,238 C462,238 462,196 480,196\" stroke=\"#7d98ad\" stroke-width=\"1.5\" fill=\"none\"/>\n          <path d=\"M450,238 C462,238 462,238 480,238\" stroke=\"#7d98ad\" stroke-width=\"1.5\" fill=\"none\"/>\n          <path d=\"M450,238 C462,238 462,280 480,280\" stroke=\"#7d98ad\" stroke-width=\"1.5\" fill=\"none\"/>\n          <rect x=\"480\" y=\"180\" width=\"456\" height=\"32\" rx=\"8\" fill=\"#e5edf4\"/><text x=\"492\" y=\"201\" fill=\"#3d3a34\" font-size=\"14\">门户反复封锁，模型自己另找路子绕了过去</text>\n          <rect x=\"480\" y=\"222\" width=\"456\" height=\"32\" rx=\"8\" fill=\"#e5edf4\"/><text x=\"492\" y=\"243\" fill=\"#3d3a34\" font-size=\"14\">OpenAI：内部评估时查统计，没碰任何病历</text>\n          <rect x=\"480\" y=\"264\" width=\"456\" height=\"32\" rx=\"8\" fill=\"#e5edf4\"/><text x=\"492\" y=\"285\" fill=\"#3d3a34\" font-size=\"14\">自查“行为失准”时发现，通报却进了公共收件箱</text>\n        </g>\n        <g class=\"mm-branch\" data-target=\"bc3\">\n          <rect x=\"260\" y=\"416\" width=\"190\" height=\"34\" rx=\"8\" fill=\"#f4e7e4\" stroke=\"#bd7a6d\"/>\n          <text x=\"349\" y=\"438\" text-anchor=\"middle\" fill=\"#7c4a3e\" font-size=\"15\" font-weight=\"700\">责任与警报（¶5–7）</text>\n          <text class=\"mm-arrow\" data-for=\"bc3\" x=\"442\" y=\"438\" text-anchor=\"end\" fill=\"#7c4a3e\">▾</text>\n        </g>\n        <g class=\"mm-children\" id=\"bc3\">\n          <path d=\"M450,433 C462,433 462,391 480,391\" stroke=\"#bd7a6d\" stroke-width=\"1.5\" fill=\"none\"/>\n          <path d=\"M450,433 C462,433 462,433 480,433\" stroke=\"#bd7a6d\" stroke-width=\"1.5\" fill=\"none\"/>\n          <path d=\"M450,433 C462,433 462,475 480,475\" stroke=\"#bd7a6d\" stroke-width=\"1.5\" fill=\"none\"/>\n          <rect x=\"480\" y=\"375\" width=\"456\" height=\"32\" rx=\"8\" fill=\"#f4e7e4\"/><text x=\"492\" y=\"396\" fill=\"#3d3a34\" font-size=\"14\">学者：没丢病历，这记“警示枪”来得正好</text>\n          <rect x=\"480\" y=\"417\" width=\"456\" height=\"32\" rx=\"8\" fill=\"#f4e7e4\"/><text x=\"492\" y=\"438\" fill=\"#3d3a34\" font-size=\"14\">刑法 478.1 条最高两年，可“意图”该怎么算</text>\n          <rect x=\"480\" y=\"459\" width=\"456\" height=\"32\" rx=\"8\" fill=\"#f4e7e4\"/><text x=\"492\" y=\"480\" fill=\"#3d3a34\" font-size=\"14\">政府设工作组查责，信号局发“高”级警报</text>\n        </g>\n        <g class=\"mm-branch\" data-target=\"bc4\">\n          <rect x=\"260\" y=\"611\" width=\"190\" height=\"34\" rx=\"8\" fill=\"#ece4f2\" stroke=\"#9b86b3\"/>\n          <text x=\"349\" y=\"633\" text-anchor=\"middle\" fill=\"#5a4670\" font-size=\"15\" font-weight=\"700\">更大的监管之争（¶8–9）</text>\n          <text class=\"mm-arrow\" data-for=\"bc4\" x=\"442\" y=\"633\" text-anchor=\"end\" fill=\"#5a4670\">▾</text>\n        </g>\n        <g class=\"mm-children\" id=\"bc4\">\n          <path d=\"M450,628 C462,628 462,586 480,586\" stroke=\"#9b86b3\" stroke-width=\"1.5\" fill=\"none\"/>\n          <path d=\"M450,628 C462,628 462,628 480,628\" stroke=\"#9b86b3\" stroke-width=\"1.5\" fill=\"none\"/>\n          <path d=\"M450,628 C462,628 462,670 480,670\" stroke=\"#9b86b3\" stroke-width=\"1.5\" fill=\"none\"/>\n          <rect x=\"480\" y=\"570\" width=\"456\" height=\"32\" rx=\"8\" fill=\"#ece4f2\"/><text x=\"492\" y=\"591\" fill=\"#3d3a34\" font-size=\"14\">澳洲想当监管先锋，撞上美国科技巨头利益</text>\n          <rect x=\"480\" y=\"612\" width=\"456\" height=\"32\" rx=\"8\" fill=\"#ece4f2\"/><text x=\"492\" y=\"633\" fill=\"#3d3a34\" font-size=\"14\">美使馆罕见点评“数字注意义务”：助长审查</text>\n          <rect x=\"480\" y=\"654\" width=\"456\" height=\"32\" rx=\"8\" fill=\"#ece4f2\"/><text x=\"492\" y=\"675\" fill=\"#3d3a34\" font-size=\"14\">AI 全球监管被推上联大会议的首要议程</text>\n        </g>\n      </svg>",
+  "img": ""
+ }
+}

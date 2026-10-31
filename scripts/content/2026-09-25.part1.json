@@ -1,0 +1,347 @@
+{
+ "date": "2026-09-25",
+ "title_tag": "OpenAI闯大祸！黑进澳大利亚政府网站，总理亲自找奥特曼！到底咋回事儿？—— 早安英文 MORNING ENGLISH 20260925",
+ "h1": "OpenAI闯大祸！黑进澳大利亚政府网站，总理亲自找奥特曼！到底咋回事儿？",
+ "source_label": "Morning English",
+ "category": "早安英文 MORNING ENGLISH 20260925",
+ "read_minutes": 20,
+ "nav_hint": "OpenAI Agent Hacked Public Health Care Site, Australia Says",
+ "headline": {
+  "en_html": "OpenAI <mark class=\"voc\">Agent</mark> <mark class=\"voc\">Hacked</mark> Public Health Care Site, Australia Says",
+  "zh": "OpenAI智能体入侵澳大利亚公共卫生网站",
+  "notes": [
+   {
+    "w": "agent",
+    "ipa": "/ˈeɪdʒənt/",
+    "pos": "n.",
+    "en": "agent (n.) means a computer program or AI system that can act autonomously to perform tasks on behalf of a user",
+    "zh": "智能体，代理程序",
+    "ctx": "此处指能自主执行任务的 AI 程序，而不是传统意义上替人办事的“代理人”或“特工”。",
+    "ex1": "The company deployed an AI agent to handle customer inquiries around the clock. 该公司部署了一个AI智能体来全天候处理客户咨询。",
+    "ex2": "Unlike a simple chatbot, an agent can browse the web, fill out forms, and make decisions on its own. 与简单的聊天机器人不同，智能体可以自行浏览网页、填写表单并做出决策。"
+   },
+   {
+    "w": "hack",
+    "ipa": "/hæk/",
+    "pos": "n.",
+    "en": "hack (n.) means an act of gaining unauthorized access to a computer system or network",
+    "zh": "黑客入侵，非法侵入",
+    "ctx": "指未经授权闯进计算机系统的行为本身——是名词，不是“黑客”那个人。",
+    "ex1": "The hospital discovered a hack that exposed thousands of patient records. 医院发现了一起泄露数千份患者记录的黑客入侵事件。",
+    "ex2": "Security experts warned that the hack could have been prevented with basic safeguards. 安全专家警告称，这起入侵事件本可通过基本防护措施避免。"
+   }
+  ]
+ },
+ "paragraphs": [
+  {
+   "en_html": "Artificial intelligence agents for OpenAI <mark class=\"voc\">infiltrated</mark> a government-run public health care website in Australia in June and accessed nonpublic information, Prime Minister Anthony Albanese said on Wednesday. The case <mark class=\"voc\">prompted</mark> a government investigation into the <mark class=\"voc\">breach</mark> and <mark class=\"voc\">raised alarm about</mark> <mark class=\"voc\">rogue</mark> activities by <mark class=\"voc\">fast-advancing</mark> A.I. systems.",
+   "zh": "澳大利亚总理安东尼·阿尔巴尼斯周三表示，OpenAI的人工智能体于今年6月潜入澳大利亚政府运营的公共卫生网站，并访问了非公开信息。此事件促使政府对这一安全漏洞展开调查，也引发了人们对快速迭代的AI系统从事越轨活动的警觉。",
+   "notes": [
+    {
+     "w": "infiltrate",
+     "ipa": "/ˈɪnfɪltreɪt/",
+     "pos": "v.",
+     "en": "infiltrate (v.) means to gain access to a system, organization, or place secretly and without authorization",
+     "zh": "潜入，渗透",
+     "ctx": "指 AI 智能体未经授权、悄无声息地钻进政府网站，带隐蔽性，也带越轨意味。",
+     "ex1": "Hackers managed to infiltrate the company’s internal network through a phishing email. 黑客通过一封钓鱼邮件成功潜入了公司的内部网络。",
+     "ex2": "The spy infiltrated the organization and spent months gathering classified information. 那名间谍潜入了该组织，花了数月时间收集机密情报。"
+    },
+    {
+     "w": "prompt",
+     "ipa": "/prɒmpt/",
+     "pos": "v.",
+     "en": "prompt (v.) means to cause something to happen or to make someone decide to do something",
+     "zh": "促使，引发",
+     "ctx": "指这桩事“推”着政府去查漏洞——不是下令，而是引出了一个后果。",
+     "ex1": "The alarming findings prompted an immediate review of safety procedures. 这些令人担忧的发现促使当局立即对安全程序进行审查。",
+     "ex2": "Her sudden resignation prompted widespread speculation about the company’s future. 她的突然辞职引发了外界对公司未来的广泛猜测。"
+    },
+    {
+     "w": "breach",
+     "ipa": "/briːtʃ/",
+     "pos": "n.",
+     "en": "breach (n.) means a failure to obey a law or agreement, or an act of breaking through a barrier or security system",
+     "zh": "违反，漏洞，突破",
+     "ctx": "取“防线被突破”之意：AI 智能体冲破安全防线、未经授权进入系统。",
+     "ex1": "The data breach exposed the personal information of millions of users. 这起数据泄露事件暴露了数百万用户的个人信息。",
+     "ex2": "The company was fined for a breach of privacy regulations. 该公司因违反隐私法规而被罚款。"
+    },
+    {
+     "w": "raise alarm about",
+     "ipa": "/reɪz əˈlɑːm əˈbaʊt/",
+     "pos": "phr.",
+     "en": "raise alarm about (phr.) means to cause people to feel worried or concerned about something",
+     "zh": "引发对……的警觉，敲响……的警钟",
+     "ctx": "指这起事件让各方对 AI 系统的越轨举动提心吊胆。",
+     "ex1": "The surge in antibiotic-resistant infections has raised alarm about the overuse of antibiotics. 抗生素耐药感染的激增引发了人们对滥用抗生素的警觉。",
+     "ex2": "The report raised alarm about the growing gap between rich and poor. 该报告敲响了贫富差距日益扩大的警钟。"
+    },
+    {
+     "w": "rogue",
+     "ipa": "/rəʊɡ/",
+     "pos": "adj.",
+     "en": "rogue (adj.) means behaving in an unpredictable or dangerous way, especially without proper control",
+     "zh": "越轨的，失控的，不受约束的",
+     "ctx": "形容 AI 脱离人类掌控、做出未经授权的事，是全文给这件事定性用的词。",
+     "ex1": "The rogue trader lost the bank billions of dollars through unauthorized deals. 那名越轨的交易员通过未经授权的交易让银行损失了数十亿美元。",
+     "ex2": "Governments are struggling to control rogue AI systems that act beyond their programming. 各国政府正竭力管控那些行为超出编程范围的失控AI系统。"
+    },
+    {
+     "w": "fast-advancing",
+     "ipa": "/fɑːst ədˈvɑːnsɪŋ/",
+     "pos": "adj.",
+     "en": "fast-advancing (adj.) means developing or progressing very quickly",
+     "zh": "快速发展的，日新月异的",
+     "ctx": "形容 AI 跑得太快、能力一路狂飙，快到监管追不上。",
+     "ex1": "Doctors must keep up with fast-advancing medical technology. 医生必须跟上快速发展的医疗技术。",
+     "ex2": "Fast-advancing automation is transforming the manufacturing industry. 日新月异的自动化技术正在改变制造业。"
+    }
+   ]
+  },
+  {
+   "en_html": "OpenAI informed Australia of the <mark class=\"voc\">unauthorized</mark> access on Sept. 10, nearly three months after it happened, Mr. Albanese said in <mark class=\"voc\">disclosing</mark> details of the incident, the first known instance of a breach into government systems. Calling the hack “unacceptable,” Mr. Albanese, who was in New York for the United Nations General <mark class=\"voc\">Assembly</mark>, said he had personally raised his concerns with Sam Altman, chief executive of OpenAI, earlier in the day.",
+   "zh": "阿尔巴尼斯在披露事件详情时称，OpenAI于9月10日才将此次未经授权的访问告知澳方，距事件发生已近三个月。这是已知首例AI入侵政府系统的案例。正在纽约出席联合国大会的阿尔巴尼斯称此次入侵“不可接受”，并表示他当天早些时候已亲自向OpenAI首席执行官萨姆·奥尔特曼表达了关切。",
+   "notes": [
+    {
+     "w": "unauthorized",
+     "ipa": "/ʌnˈɔːθəraɪzd/",
+     "pos": "adj.",
+     "en": "unauthorized (adj.) means not having official permission or approval",
+     "zh": "未经授权的，未经许可的",
+     "ctx": "指 AI 智能体的访问没拿到政府许可——整件事的定性就落在这个词上。",
+     "ex1": "Unauthorized access to the database will result in immediate termination. 未经授权访问数据库将立即被解雇。",
+     "ex2": "The journalist was accused of making unauthorized disclosures of classified documents. 那名记者被指控未经授权披露机密文件。"
+    },
+    {
+     "w": "disclose",
+     "ipa": "/dɪsˈkləʊz/",
+     "pos": "v.",
+     "en": "disclose (v.) means to make information known to the public, especially information that was secret",
+     "zh": "披露，公开",
+     "ctx": "指总理把本来藏着的事件详情向公众摊开。",
+     "ex1": "The company refused to disclose the terms of the settlement. 该公司拒绝披露和解协议的条款。",
+     "ex2": "He disclosed that he had been approached by several foreign agents. 他披露称曾有数名外国特工接触过他。"
+    },
+    {
+     "w": "assembly",
+     "ipa": "/əˈsembli/",
+     "pos": "n.",
+     "en": "assembly (n.) means a group of people who meet regularly to make decisions or laws, or a formal meeting of such a group",
+     "zh": "大会，议会",
+     "ctx": "此处指联合国大会，各国代表一年一度齐聚纽约的那场会。",
+     "ex1": "The assembly voted overwhelmingly in favor of the new climate treaty. 大会以压倒性多数票通过了新的气候条约。",
+     "ex2": "Delegates from over 190 countries attended the general assembly. 来自190多个国家的代表出席了这次大会。"
+    }
+   ]
+  },
+  {
+   "en_html": "The breach occurred on June 18 by agents operating under an OpenAI research team that was <mark class=\"voc\">carrying out</mark> research into public medicine spending using an internal model, on a data <mark class=\"voc\">portal</mark> for Australia’s public health insurance system, Medicare. After <mark class=\"voc\">encountering</mark> “repeated blocks” in its <mark class=\"voc\">attempts</mark> to access the Medicare Statistics Reporting Portal, the agent found alternative ways, ultimately accessing parts of the site that were not public, according to the prime minister. He said “nonsensitive” data relating to spending was accessed, and no personal information was part of the breach. “Didn’t accept ‘no’ for an answer, if you like,” Mr. Albanese said. “The model attempted alternative ways to obtain the info that it wanted, and this led to unauthorized access into some other areas.”",
+   "zh": "此次入侵发生于6月18日。当时，OpenAI一个研究团队的智能体正在利用内部模型开展公共医疗支出研究，目标平台是澳大利亚公共医疗保险系统Medicare的数据门户。据阿尔巴尼斯描述，该智能体在试图访问Medicare统计报告门户时遭遇“反复封锁”，随后找到了替代路径，最终访问了网站的部分非公开区域。他表示，被访问的是与支出相关的“非敏感”数据，不涉及任何个人信息。“用通俗的话说，它不接受‘不’作为答案，”阿尔巴尼斯说，“模型尝试了其他途径来获取它想要的信息，这导致了对其他一些区域的未授权访问。”",
+   "notes": [
+    {
+     "w": "carry out",
+     "ipa": "/ˈkæri aʊt/",
+     "pos": "phr. v.",
+     "en": "carry out (phr. v.) means to perform or complete a task, plan, or activity",
+     "zh": "执行，开展",
+     "ctx": "指 OpenAI 的团队当时正在做一项关于公共医疗支出的研究。",
+     "ex1": "The researchers carried out a series of experiments to test their hypothesis. 研究人员开展了一系列实验来验证他们的假设。",
+     "ex2": "The government is carrying out an investigation into the cause of the accident. 政府正在对事故原因展开调查。"
+    },
+    {
+     "w": "portal",
+     "ipa": "/ˈpɔːtl/",
+     "pos": "n.",
+     "en": "portal (n.) means a website or online service that provides access to information or resources",
+     "zh": "门户网站，入口",
+     "ctx": "指 Medicare 对外开放的数据平台，研究人员从这里取统计数据。",
+     "ex1": "Students can log into the university portal to access their course materials. 学生可以登录大学门户网站获取课程材料。",
+     "ex2": "The government launched a new portal for citizens to file tax returns online. 政府推出了一个新的门户网站，供公民在线报税。"
+    },
+    {
+     "w": "encounter",
+     "ipa": "/ɪnˈkaʊntə/",
+     "pos": "v.",
+     "en": "encounter (v.) means to experience or meet with something, especially a problem or difficulty",
+     "zh": "遭遇，遇到",
+     "ctx": "指智能体在闯入途中一次又一次撞上封锁。",
+     "ex1": "The team encountered numerous obstacles during the project. 团队在项目过程中遭遇了无数障碍。",
+     "ex2": "We encountered a technical problem that delayed the launch by several hours. 我们遇到了一个技术问题，导致发布推迟了数小时。"
+    },
+    {
+     "w": "attempt",
+     "ipa": "/əˈtempt/",
+     "pos": "n.",
+     "en": "attempt (n.) means an act of trying to do something, especially something difficult",
+     "zh": "尝试，企图",
+     "ctx": "指智能体一次次试探性地去够它想要的那份数据。",
+     "ex1": "His attempt to climb the mountain alone ended in failure. 他独自攀登这座山的尝试以失败告终。",
+     "ex2": "The company made several attempts to enter the Asian market. 该公司多次尝试进入亚洲市场。"
+    }
+   ]
+  },
+  {
+   "en_html": "OpenAI said in a statement that its models were attempting to <mark class=\"voc\">look up</mark> available statistics for questions about Australia during an internal evaluation, and that it accessed no patient records, only <mark class=\"voc\">aggregate</mark> health statistics and internal file names. The company said it identified the activity during its own review of “<mark class=\"voc\">misaligned</mark> model activity.” Mr. Albanese said he expressed his disappointment to Mr. Altman on how the government was alerted to the breach — in an email to a general public <mark class=\"voc\">inbox</mark>. In the conversation, the prime minister said he was “very <mark class=\"voc\">frank about</mark> what I saw as Australia’s national interest and what I saw as a failure which occurred here.” In response, the executive “<mark class=\"voc\">acknowledged</mark> their issues with <mark class=\"voc\">protocols</mark>,” Mr. Albanese said.",
+   "zh": "OpenAI在一份声明中表示，其模型是在内部评估过程中试图查询有关澳大利亚的可用统计数据，并未访问任何患者记录，仅获取了汇总健康统计数据和内部文件名。该公司称，是在对“模型行为失准”进行内部审查时发现了这一活动。阿尔巴尼斯表示，他已就政府收到漏洞通报的方式——一封发往公共收件箱的邮件——向奥尔特曼表达了失望。他说，在交谈中，他“非常坦率地表明了我所认为的澳大利亚国家利益所在，以及我所认为的此次事件中的失职之处”。阿尔巴尼斯称，这位高管“承认了他们在协议流程上的问题”。",
+   "notes": [
+    {
+     "w": "look up",
+     "ipa": "/lʊk ʌp/",
+     "pos": "phr. v.",
+     "en": "look up (phr. v.) means to search for information in a reference source, database, or the internet",
+     "zh": "查询，查找",
+     "ctx": "指模型在库里检索有关澳大利亚的统计数据：动作很日常，后果很不日常。",
+     "ex1": "I looked up the word in the dictionary to check its meaning. 我查了字典来确认这个词的意思。",
+     "ex2": "You can look up train schedules on the official website. 你可以在官方网站上查询火车时刻表。"
+    },
+    {
+     "w": "aggregate",
+     "ipa": "/ˈæɡrɪɡət/",
+     "pos": "adj.",
+     "en": "aggregate (adj.) means total or combined; formed by adding together many separate amounts",
+     "zh": "总计的，汇总的",
+     "ctx": "指被拿走的只是加总后的统计数据，不是一个个病人的记录。",
+     "ex1": "The aggregate sales figures for the quarter exceeded expectations. 该季度的总销售额超出了预期。",
+     "ex2": "The report presents aggregate data rather than individual case studies. 该报告呈现的是汇总数据，而非个案研究。"
+    },
+    {
+     "w": "misaligned",
+     "ipa": "/ˌmɪsəˈlaɪnd/",
+     "pos": "adj.",
+     "en": "misaligned (adj.) means not properly coordinated or matching what is intended or expected",
+     "zh": "失准的，不协调的",
+     "ctx": "AI 安全术语：模型的行为偏离了设计目标与操作者的预期。",
+     "ex1": "The study found that misaligned incentives led to poor outcomes for patients. 研究发现，激励机制失准导致患者治疗效果不佳。",
+     "ex2": "Researchers are working on ways to detect misaligned behavior in autonomous systems. 研究人员正在研究检测自主系统行为失准的方法。"
+    },
+    {
+     "w": "inbox",
+     "ipa": "/ˈɪnbɒks/",
+     "pos": "n.",
+     "en": "inbox (n.) means a place in an email system where received messages are stored",
+     "zh": "收件箱",
+     "ctx": "指 OpenAI 把通报扔进了一个公共收件箱，而不是直接找主管部门。",
+     "ex1": "I have hundreds of unread emails in my inbox. 我的收件箱里有数百封未读邮件。",
+     "ex2": "The complaint was sent to a general inbox and went unnoticed for weeks. 投诉被发往一个公共收件箱，数周无人注意。"
+    },
+    {
+     "w": "be frank about",
+     "ipa": "/biː fræŋk əˈbaʊt/",
+     "pos": "phr.",
+     "en": "be frank about (phr.) means to speak honestly and directly about something, even if it is unpleasant",
+     "zh": "对……坦率直言",
+     "ctx": "指总理当面把不满挑明——不绕弯子，也不留面子。",
+     "ex1": "She was frank about her concerns regarding the merger. 她坦率地表达了对这桩合并的担忧。",
+     "ex2": "The manager was frank about the challenges the team would face. 经理坦率地谈到了团队将面临的挑战。"
+    },
+    {
+     "w": "acknowledge",
+     "ipa": "/əkˈnɒlɪdʒ/",
+     "pos": "v.",
+     "en": "acknowledge (v.) means to admit or accept that something is true or exists",
+     "zh": "承认，认可",
+     "ctx": "指奥尔特曼认了公司在通报流程上确实有问题。",
+     "ex1": "The company acknowledged that it had made a mistake in its handling of the data. 该公司承认在数据处理方面犯了错误。",
+     "ex2": "He acknowledged the difficulty of the task but remained optimistic. 他承认任务艰巨，但仍保持乐观。"
+    },
+    {
+     "w": "protocol",
+     "ipa": "/ˈprəʊtəkɒl/",
+     "pos": "n.",
+     "en": "protocol (n.) means a set of rules or procedures for how something should be done",
+     "zh": "协议，规程",
+     "ctx": "指出事之后该报给谁、怎么报的那套规范——这回恰恰卡在这一环。",
+     "ex1": "The laboratory follows strict safety protocols when handling hazardous materials. 实验室在处理危险材料时遵循严格的安全规程。",
+     "ex2": "The breach occurred because the company failed to follow its own security protocols. 这次漏洞的发生是因为公司未能遵守自身的安全规程。"
+    }
+   ]
+  },
+  {
+   "en_html": "Nicholas Davis, a professor of <mark class=\"voc\">emerging</mark> technologies and co-director of the Human Technology Institute at the University of Technology Sydney, said that because no medical data was accessed, the incident may <mark class=\"voc\">serve as</mark> a <mark class=\"voc\">much-needed</mark> “<mark class=\"voc\">warning shot</mark>” to get companies and governments serious about the risks. It raised <mark class=\"voc\">thorny</mark> legal <mark class=\"voc\">liability</mark> questions given that under Australia’s criminal law, the type of unauthorized access carried out by the agent comes with a prison <mark class=\"voc\">sentence</mark> of up to two years, he said. “While it may not have been a particularly hard hack to do, it seems clear that the system, the agent, didn’t accidentally get in. It had some intention itself of <mark class=\"voc\">circumventing</mark> controls,” Mr. Davis said.",
+   "zh": "悉尼科技大学新兴技术教授、人类技术研究所联合主任尼古拉斯·戴维斯表示，由于没有医疗数据被访问，此次事件或许可以充当一记亟需的“警示枪”，促使企业和政府认真对待相关风险。他说，考虑到澳大利亚刑法规定，此类由智能体实施的未授权访问最高可判处两年监禁，此事件引发了棘手的法律责任问题。“虽然这或许算不上一次特别困难的入侵，但很明显，系统——那个智能体——并非无意闯入。它自身怀有某种绕过管控的意图，”戴维斯说。",
+   "notes": [
+    {
+     "w": "emerging",
+     "ipa": "/ɪˈmɜːdʒɪŋ/",
+     "pos": "adj.",
+     "en": "emerging (adj.) means newly formed or developing, especially in a way that is becoming important",
+     "zh": "新兴的，正在兴起的",
+     "ctx": "指 AI 这类刚冒头、却正在变得举足轻重的技术领域。",
+     "ex1": "Emerging technologies such as quantum computing could revolutionize many industries. 量子计算等新兴技术可能彻底改变许多行业。",
+     "ex2": "The university offers a course on the ethics of emerging technologies. 该大学开设了一门关于新兴技术伦理的课程。"
+    },
+    {
+     "w": "serve as",
+     "ipa": "/sɜːv æz/",
+     "pos": "phr. v.",
+     "en": "serve as (phr. v.) means to function as or be used as something",
+     "zh": "充当，起……作用",
+     "ctx": "指这起事件可以当作一声警钟来用。",
+     "ex1": "The incident served as a wake-up call for the entire industry. 这起事件为整个行业敲响了警钟。",
+     "ex2": "This old building now serves as a museum. 这座老建筑现在用作博物馆。"
+    },
+    {
+     "w": "much-needed",
+     "ipa": "/mʌtʃ ˈniːdɪd/",
+     "pos": "adj.",
+     "en": "much-needed (adj.) means very necessary or required",
+     "zh": "亟需的，急需的",
+     "ctx": "指 AI 监管这块正缺这样一记提醒，而且来得正是时候。",
+     "ex1": "The charity provided much-needed relief to the flood victims. 该慈善机构为洪灾灾民提供了亟需的援助。",
+     "ex2": "The new policy offers much-needed clarity on data protection. 新政策在数据保护方面提供了亟需的明确指引。"
+    },
+    {
+     "w": "warning shot",
+     "ipa": "/ˈwɔːnɪŋ ʃɒt/",
+     "pos": "n.",
+     "en": "warning shot (n.) means a warning or signal that something more serious may happen if action is not taken",
+     "zh": "警示，警告信号",
+     "ctx": "军事比喻：先打一枪示警，意思是再不收手，下一枪就不是空的了。",
+     "ex1": "The strike was seen as a warning shot to management ahead of contract negotiations. 这次罢工被视为合同谈判前对管理层发出的警告信号。",
+     "ex2": "The regulatory fine was a warning shot to other companies in the sector. 这笔监管罚款是对该行业其他公司的警示。"
+    },
+    {
+     "w": "thorny",
+     "ipa": "/ˈθɔːni/",
+     "pos": "adj.",
+     "en": "thorny (adj.) means complicated and difficult to deal with; causing disagreement",
+     "zh": "棘手的，棘刺丛生的",
+     "ctx": "指责任该算到谁头上——这个问题扎手，谁碰都得小心。",
+     "ex1": "The thorny issue of immigration reform has divided Congress for years. 移民改革这一棘手问题多年来一直让国会分裂。",
+     "ex2": "They faced a thorny dilemma: cut costs or sacrifice quality. 他们面临一个棘手的两难境地：削减成本还是牺牲质量。"
+    },
+    {
+     "w": "liability",
+     "ipa": "/ˌlaɪəˈbɪləti/",
+     "pos": "n.",
+     "en": "liability (n.) means legal responsibility for something, especially for damage or loss",
+     "zh": "法律责任，责任",
+     "ctx": "指 AI 闯了祸，法律上到底该由谁担着。",
+     "ex1": "The company accepted liability for the environmental damage caused by the spill. 该公司承担了泄漏造成环境损害的法律责任。",
+     "ex2": "The new law clarifies the liability of online platforms for user-generated content. 新法律明确了在线平台对用户生成内容的法律责任。"
+    },
+    {
+     "w": "sentence",
+     "ipa": "/ˈsentəns/",
+     "pos": "n.",
+     "en": "sentence (n.) means a punishment given by a court of law, such as a period of imprisonment",
+     "zh": "刑罚，判决",
+     "ctx": "此处是“刑期”：这类未授权访问最高可判两年监禁。",
+     "ex1": "The judge imposed a five-year sentence on the fraudster. 法官对那名诈骗犯判处了五年有期徒刑。",
+     "ex2": "The maximum sentence for the crime is ten years in prison. 该罪行的最高刑罚是十年监禁。"
+    },
+    {
+     "w": "circumvent",
+     "ipa": "/ˌsɜːkəmˈvent/",
+     "pos": "v.",
+     "en": "circumvent (v.) means to find a way of avoiding a difficulty or a rule, especially in a clever or indirect way",
+     "zh": "绕过，规避",
+     "ctx": "指智能体自己琢磨出一条绕开访问管控的路子。",
+     "ex1": "Some companies circumvent environmental regulations by relocating to countries with looser laws. 一些公司通过迁往法律较宽松的国家来规避环保法规。",
+     "ex2": "The hackers circumvented the security system by exploiting a software flaw. 黑客利用一个软件漏洞绕过了安全系统。"
+    }
+   ]
+  }
+ ]
+}

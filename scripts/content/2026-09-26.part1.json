@@ -1,0 +1,437 @@
+{
+  "date": "2026-09-26",
+  "title_tag": "8个月进口超1000吨黄金，中国花掉超1万亿元：金价这么贵，为什么还在买？—— 英国《金融时报》外刊讲解第1179天",
+  "h1": "8个月进口超1000吨黄金，中国花掉超1万亿元：金价这么贵，为什么还在买？",
+  "source_label": "Financial Times",
+  "category": "英国《金融时报》外刊讲解 第1179天",
+  "read_minutes": 18,
+  "nav_hint": "Record gold imports, still buying",
+  "headline": {
+    "en_html": "<span>China spends <mark class=\"voc\">record</mark> amount importing over 1,000 <mark class=\"voc\">tonnes</mark> of gold this year</span> — <span>World’s second-largest economy <mark class=\"voc\">shelled out</mark> almost $160bn on <mark class=\"voc\">bullion</mark> in eight months to August</span>",
+    "zh": "中国今年黄金进口量突破千吨，创下历史纪录——截至8月的八个月内，世界第二大经济体已为黄金掏出近1600亿美元。",
+    "notes": [
+      {
+        "w": "record",
+        "ipa": "/ˈrekɔːd/",
+        "pos": "adj.（名词作定语）",
+        "en": "record means the highest, best, or most extreme ever achieved",
+        "zh": "创纪录的，史上最高的",
+        "ctx": "标题里 a record amount 指的是中国今年黄金进口支出 1588 亿美元——超过 2025 年全年的 965 亿美元，是海关有可比记录以来的最高值。",
+        "ex1": "Nvidia posted record quarterly revenue of $57bn, beating every analyst forecast on the street. 英伟达公布了570亿美元的创纪录季度营收，超出了市场上所有分析师的预期。",
+        "ex2": "Gold hit a record high in January before giving up most of its gains by summer. 金价1月创下历史新高，到夏季时已回吐大部分涨幅。"
+      },
+      {
+        "w": "tonne",
+        "ipa": "/tʌn/",
+        "pos": "n.",
+        "en": "tonne means a metric unit of weight equal to 1,000 kilograms",
+        "zh": "公吨（1000 公斤）",
+        "ctx": "文中指中国前八个月进口的 1000 多吨黄金，以及去年全年的 886 吨；公吨不同于美吨 ton（907 公斤）和英制长吨（1016 公斤）。",
+        "ex1": "Chile exports more than five million tonnes of copper concentrate a year. 智利每年出口超过五百万公吨的铜精矿。",
+        "ex2": "The refinery processes about 300 tonnes of ore an hour. 这家冶炼厂每小时处理约300公吨矿石。"
+      },
+      {
+        "w": "shell out",
+        "ipa": "/ʃel aʊt/",
+        "pos": "短语动词",
+        "en": "shell out means to pay a lot of money for something, especially when you would rather not",
+        "zh": "（不情愿地）掏钱，砸钱",
+        "ctx": "副题用它写中国为进口黄金付了近 1600 亿美元——一个“剥壳掏果仁”的动作，把这笔开销之巨和记者“心疼”的语气一并带出来。",
+        "ex1": "Subscribers are being asked to shell out another $5 a month for features they never requested. 订阅用户被要求每月再多掏5美元，买的却是他们从没要求过的功能。",
+        "ex2": "The airline had to shell out £30m in compensation after the system outage. 系统宕机之后，这家航空公司不得不掏出3000万英镑作为赔偿。"
+      },
+      {
+        "w": "bullion",
+        "ipa": "/ˈbʊliən/",
+        "pos": "n.",
+        "en": "bullion means gold or silver in bulk form, such as bars or ingots, before it is made into coins or jewellery",
+        "zh": "金条，大块未加工的贵金属",
+        "ctx": "副题点出中国买的到底是什么——实物金条，而非纸面黄金；这个词全篇出现三次，是贯穿性关键词。",
+        "ex1": "Swiss refiners melt scrap jewellery back into bullion bars stamped with a purity mark. 瑞士的精炼厂把废旧首饰重新熔成打有纯度印记的金条。",
+        "ex2": "Demand from the bullion market now rivals demand from jewellery makers. 现货金条市场的需求，如今已能与首饰制造商的需求相抗衡。"
+      }
+    ]
+  },
+  "paragraphs": [
+    {
+      "en_html": "China has spent a record <mark class=\"voc\">sum</mark> importing more than 1,000 tonnes of gold this year as the central bank and local investors <mark class=\"voc\">pour cash into</mark> bullion amid rising geopolitical tensions abroad and poor <mark class=\"voc\">returns</mark> on local <mark class=\"voc\">assets</mark>.",
+      "zh": "中国今年已砸下创纪录的一笔资金，进口黄金逾千吨。买盘来自两头——央行与国内投资者同时涌入金市：一头是海外地缘政治的持续升温，另一头是国内资产的回报低迷。",
+      "notes": [
+        {
+          "w": "sum",
+          "ipa": "/sʌm/",
+          "pos": "n.",
+          "en": "sum means an amount of money",
+          "zh": "一笔钱，款项",
+          "ctx": "a record sum 是标题 record amount 的同义替换，指创纪录的 1588 亿美元进口支出。",
+          "ex1": "The founders walked away with a lump sum of $80m when the acquisition closed. 收购完成时，几位创始人一次性拿到了8000万美元。",
+          "ex2": "She paid a considerable sum for a stake in the private fund. 她花了相当大一笔钱买下这只私募基金的一部分份额。"
+        },
+        {
+          "w": "pour cash into",
+          "ipa": "",
+          "pos": "固定短语",
+          "en": "pour money into something means to invest a very large amount of money in it, often continuously",
+          "zh": "大量、持续地往里投钱",
+          "ctx": "央行与国内投资者同时把大笔资金灌进黄金，这是本文解释进口暴增的第一层原因。",
+          "ex1": "Sovereign funds are pouring money into data centres at a pace that worries even the operators. 主权基金正以连运营商都感到不安的速度往数据中心里砸钱。",
+          "ex2": "The chairman poured cold water on talk of an early listing. 董事长给提前上市的说法泼了冷水。"
+        },
+        {
+          "w": "returns",
+          "ipa": "/rɪˈtɜːnz/",
+          "pos": "n.（常用复数）",
+          "en": "returns means the profit or income that an investment produces",
+          "zh": "投资回报，收益",
+          "ctx": "poor returns on local assets——国内房产、股票、债券回报低迷，这是民间资金转向黄金的内部推力。",
+          "ex1": "Pension funds are chasing returns in private credit because bond yields no longer cover their liabilities. 养老基金正在私募信贷里追逐回报，因为债券收益率已经覆盖不了它们的负债。",
+          "ex2": "The fund promised double-digit returns and delivered four per cent. 这只基金承诺两位数回报，实际只做到了4%。"
+        },
+        {
+          "w": "assets",
+          "ipa": "/ˈæsets/",
+          "pos": "n.",
+          "en": "assets means property or items of value owned by a person or company",
+          "zh": "资产",
+          "ctx": "local assets 指中国国内可以持有的资产类别；第 4 段的 diversify their assets 是同一个词的复用。",
+          "ex1": "The family office shifted a third of its assets out of equities and into infrastructure. 这家家族办公室把三分之一的资产从股票转移到了基础设施上。",
+          "ex2": "He is a real asset to any negotiating team. 他在任何谈判团队里都是一笔宝贵的资产。"
+        }
+      ]
+    },
+    {
+      "en_html": "The world’s second-largest economy spent $158.8bn on gold in the first eight months of the year. That <mark class=\"voc\">compared with</mark> spending of $96.5bn for all of 2025 on 886 tonnes of gold. The <mark class=\"voc\">volume</mark> was the highest for the period since <mark class=\"voc\">comparable</mark> <mark class=\"voc\">customs</mark> records began in 2017. The jump comes after China <mark class=\"voc\">reined in</mark> gold purchases last year during an intense <mark class=\"voc\">rally</mark> that sent bullion prices <mark class=\"voc\">soaring</mark> from about $2,625 <mark class=\"voc\">a troy ounce</mark> at the start of 2025 to a <mark class=\"voc\">peak</mark> of $5,595 in January.",
+      "zh": "今年前八个月，这个全球第二大经济体已为黄金掏出1588亿美元；而2025年全年，它的账单是965亿美元、886吨。这一进口量，创下2017年海关数据可比以来的同期新高。而这波暴增的前脚，中国刚刚勒紧了缰绳——2025年那轮凶猛的涨势中，金价自年初每金衡盎司约2625美元一路飙至1月的5595美元高点，中国反而收手了。",
+      "notes": [
+        {
+          "w": "compared with",
+          "ipa": "",
+          "pos": "固定短语",
+          "en": "compared with is used to introduce the thing that something is being measured against",
+          "zh": "与……相比",
+          "ctx": "把今年的 1588 亿美元与去年全年的 965 亿美元摆在一起，差额自己说话。",
+          "ex1": "Margins narrowed to 18 per cent, compared with 24 per cent a year earlier. 利润率收窄至18%，去年同期为24%。",
+          "ex2": "The fine is trivial compared with the revenue the practice generated. 与这项做法带来的营收相比，这笔罚款微不足道。"
+        },
+        {
+          "w": "volume",
+          "ipa": "/ˈvɒljuːm/",
+          "pos": "n.",
+          "en": "volume means the total amount or quantity of something, especially of goods traded",
+          "zh": "数量，交易量",
+          "ctx": "the volume 指按吨数算的进口量——它创下 2017 年海关可比记录以来的同期最高。",
+          "ex1": "Trading volume doubled on the day the index was rebalanced. 指数调整成分股那天，成交量翻了一倍。",
+          "ex2": "Jewellery demand fell in volume terms even as spending rose. 尽管支出在增加，首饰需求按数量计算却下降了。"
+        },
+        {
+          "w": "comparable",
+          "ipa": "/ˈkɒmpərəbl/",
+          "pos": "adj.",
+          "en": "comparable means able to be compared because measured in the same way",
+          "zh": "口径一致、可直接比较的",
+          "ctx": "记者加这个词是在提示：更早的数据算法不同，不能直接拿来比。",
+          "ex1": "On a comparable basis, store sales grew just one per cent. 按可比口径计算，门店销售仅增长1%。",
+          "ex2": "There is no comparable data for the years before the reporting rules changed. 报告规则变更之前的年份没有可比数据。"
+        },
+        {
+          "w": "customs",
+          "ipa": "/ˈkʌstəmz/",
+          "pos": "n.（必须复数）",
+          "en": "customs means the government department that collects duties on imported goods, or the process of clearing goods at a border",
+          "zh": "海关",
+          "ctx": "中国海关总署的进口统计数据，是本文所有进口数字的来源；单数 custom 是“习俗”，加 s 意思全变。",
+          "ex1": "Customs data showed a 40 per cent jump in semiconductor equipment imports. 海关数据显示半导体设备进口激增40%。",
+          "ex2": "The shipment sat at the port for three weeks waiting to clear customs. 这批货在港口滞留了三周等待清关。（同类“加s变义”词：good 好的→ goods 货物｜arm 手臂→ arms 武器｜damage 损害→ damages 赔偿金）"
+        },
+        {
+          "w": "rein in",
+          "ipa": "/reɪn ɪn/",
+          "pos": "短语动词",
+          "en": "rein in means to bring something under control or to slow it down",
+          "zh": "控制住，收紧，踩刹车",
+          "ctx": "2025 年金价从 2625 美元飙到 5595 美元的过程中，中国主动减少购金——没有追高。",
+          "ex1": "Regulators moved to rein in lending to property developers before the bubble grew further. 在泡沫进一步膨胀之前，监管机构出手收紧了对房地产开发商的贷款。",
+          "ex2": "The new chief executive was given free rein to shut down whatever was not working. 新任首席执行官获准放手关掉任何运转不良的业务。"
+        },
+        {
+          "w": "rally",
+          "ipa": "/ˈræli/",
+          "pos": "n. & v.",
+          "en": "rally means a period during which prices rise steadily after a fall",
+          "zh": "上涨行情，反弹",
+          "ctx": "那轮 intense rally 把金价从 2625 美元一路推到 5595 美元，是本段所有数字的背景。",
+          "ex1": "Equities staged a relief rally once the central bank ruled out further tightening. 央行排除进一步紧缩的可能后，股市出现了一轮松口气式的反弹。",
+          "ex2": "The rally ran out of steam at the 200-day moving average. 这轮涨势在200日均线处后继无力。（辨析：rally 从低处回升｜soar 涨得高｜surge 来势猛｜climb 稳步爬升｜rebound 弹回来）"
+        },
+        {
+          "w": "soar",
+          "ipa": "/sɔː/",
+          "pos": "v.",
+          "en": "soar means to rise very quickly to a high level",
+          "zh": "飙升",
+          "ctx": "像老鹰不扇翅膀往上滑——金价“又高又轻松”地飞到 5595 美元。",
+          "ex1": "Soaring insurance costs are quietly reshaping where developers are willing to build. 保险成本飙升，正在悄悄改变开发商愿意在哪里建房。",
+          "ex2": "Freight rates soared to a record after the canal closed. 运河关闭后，运费飙升至历史最高。"
+        },
+        {
+          "w": "peak",
+          "ipa": "/piːk/",
+          "pos": "n. & v.",
+          "en": "peak means the highest point or level that something reaches",
+          "zh": "最高点；见顶",
+          "ctx": "a peak of $5,595 in January 是这轮行情的顶；第 4 段的 the peak of more than $1.3tn 是另一种峰值。",
+          "ex1": "Demand for office space is still 20 per cent below its pre-2020 peak. 写字楼需求仍比2020年前的峰值低20%。",
+          "ex2": "Analysts think shipments peaked in the second quarter. 分析师认为出货量在第二季度已经见顶。"
+        },
+        {
+          "w": "troy ounce",
+          "ipa": "/trɔɪ aʊns/",
+          "pos": "n.",
+          "en": "a troy ounce is the standard unit used to weigh precious metals, equal to 31.103 grams",
+          "zh": "金衡盎司（31.1 克）",
+          "ctx": "文中 2625、5595、4293 这些金价报价，用的都是这个单位——比普通盎司（28.35 克）重约 10%。",
+          "ex1": "Silver briefly traded above $70 a troy ounce before profit-taking set in. 白银一度涨破每金衡盎司70美元，随后获利盘涌出。",
+          "ex2": "One tonne of gold contains about 32,150 troy ounces. 一公吨黄金约合32,150金衡盎司。"
+        }
+      ]
+    },
+    {
+      "en_html": "Rather than <mark class=\"voc\">deterring</mark> buyers, this year’s <mark class=\"voc\">swings</mark> have <mark class=\"voc\">drawn them in</mark>. Gold <mark class=\"voc\">slid</mark> below $4,000 by late June before <mark class=\"voc\">clawing back</mark> most of that <mark class=\"voc\">ground</mark>, <mark class=\"voc\">settling at</mark> about $4,293 on Wednesday. Chinese buying has <mark class=\"voc\">picked up</mark> <mark class=\"voc\">on the dips</mark>: imports <mark class=\"voc\">topped</mark> 150 tonnes a month through the spring, and June’s <mark class=\"voc\">haul</mark> was the largest since March 2024. First-half imports reached 764 tonnes, up 138 per cent <mark class=\"voc\">year on year</mark>.",
+      "zh": "今年的价格震荡并没有吓退买家，反倒把他们吸了进来。金价6月底一度跌破4000美元，随后又把大半失地一寸寸抠了回来，周三收于约4293美元。中国的买盘正是逢跌加码：整个春天的月度进口量都在150吨以上，6月那一票更是2024年3月以来最大的一笔。上半年进口累计764吨，同比增长138%。",
+      "notes": [
+        {
+          "w": "deter / deterrent",
+          "ipa": "/dɪˈtɜː/ /dɪˈterənt/",
+          "pos": "v. / n.",
+          "en": "deter means to make someone decide not to do something, usually by making them afraid of the consequences",
+          "zh": "吓退，遏止；威慑力量",
+          "ctx": "价格剧烈波动本该吓退买家，结果正好相反——这是全段的反转起点。",
+          "ex1": "High entry costs deter smaller miners from bidding for the licence. 高昂的准入成本让规模较小的矿商不敢竞标这张许可证。",
+          "ex2": "The fines are too small to act as a deterrent. 这些罚款金额太小，起不到威慑作用。"
+        },
+        {
+          "w": "swings",
+          "ipa": "/swɪŋz/",
+          "pos": "n.",
+          "en": "swings means large and rapid changes in a price, value, or level",
+          "zh": "大幅震荡，上下剧烈波动",
+          "ctx": "指今年金价 1 月冲上 5595、6 月跌破 4000、9 月回到 4293 这一连串起落。",
+          "ex1": "Wild swings in the power price are making it impossible for factories to plan output. 电价的剧烈震荡让工厂根本无法安排产量。",
+          "ex2": "A single data release produced the biggest one-day swing in the bond market this year. 一份数据的发布，造成了债市今年最大的单日波动。"
+        },
+        {
+          "w": "draw sb in",
+          "ipa": "",
+          "pos": "短语动词",
+          "en": "draw someone in means to attract or involve someone in something",
+          "zh": "把（人）吸引进来",
+          "ctx": "震荡不但没把人劝退，反而把买家拉进了黄金市场。",
+          "ex1": "Cheap valuations drew in bargain hunters who had sat out the whole rally. 低廉的估值把那些整轮涨势都在场外观望的抄底者吸引了进来。",
+          "ex2": "The dispute drew in regulators from three countries. 这场纠纷把三个国家的监管机构都卷了进来。"
+        },
+        {
+          "w": "slide",
+          "ipa": "/slaɪd/",
+          "pos": "v.",
+          "en": "slide means to move down or become lower gradually and smoothly",
+          "zh": "下滑",
+          "ctx": "金价到 6 月底滑落至 4000 美元以下——比 fall 多一层“顺着往下滑”的过程感。",
+          "ex1": "The currency slid below 150 to the dollar for the first time since 2022. 该货币自2022年以来首次滑落至1美元兑150以下。",
+          "ex2": "Margins have been sliding for six straight quarters. 利润率已经连续六个季度下滑。"
+        },
+        {
+          "w": "claw back",
+          "ipa": "/klɔː bæk/",
+          "pos": "短语动词",
+          "en": "claw back means to get back something that you have lost, but only with great difficulty",
+          "zh": "艰难地、一点一点夺回",
+          "ctx": "跌破 4000 美元后，金价又费劲地把大部分跌幅收复回来。",
+          "ex1": "The airline clawed back half its market share only after two years of price cuts. 这家航空公司靠两年的降价，才艰难夺回一半市场份额。",
+          "ex2": "The contract lets the board claw back bonuses if results are later restated. 合同允许董事会在业绩事后重述的情况下追回已发奖金。"
+        },
+        {
+          "w": "ground",
+          "ipa": "/ɡraʊnd/",
+          "pos": "n.",
+          "en": "ground means an area of advantage, position, or progress that can be won or lost",
+          "zh": "（争夺中的）地盘、阵地",
+          "ctx": "claw back most of that ground——收复金价跌掉的“失地”，一个军事比喻。",
+          "ex1": "Electric vehicles are gaining ground in markets where charging is no longer a worry. 在充电已不成问题的市场，电动车正在扩大地盘。",
+          "ex2": "Neither side was willing to give ground on the pricing clause. 双方在定价条款上都不愿让步。"
+        },
+        {
+          "w": "settle at",
+          "ipa": "/ˈsetl/",
+          "pos": "v.",
+          "en": "settle at means to finish a trading session at a particular price",
+          "zh": "收于、稳定在（某价位）",
+          "ctx": "金价周三收于约 4293 美元，为这段剧烈起落画了个句号。",
+          "ex1": "Brent settled at $71 a barrel, its lowest close in four months. 布伦特原油收于每桶71美元，为四个月来最低收盘价。",
+          "ex2": "The two firms settled out of court for an undisclosed sum. 两家公司以未披露的金额达成庭外和解。"
+        },
+        {
+          "w": "pick up",
+          "ipa": "",
+          "pos": "短语动词",
+          "en": "pick up means to increase, improve, or gather pace",
+          "zh": "回升，加速",
+          "ctx": "Chinese buying has picked up on the dips——中国买盘在每次下跌时反而加速。",
+          "ex1": "Hiring picked up in the autumn after a flat first half. 上半年持平之后，招聘在秋季有所回升。",
+          "ex2": "Orders are finally picking up in the industrial segment. 工业板块的订单终于开始回升。"
+        },
+        {
+          "w": "on the dips",
+          "ipa": "",
+          "pos": "固定短语",
+          "en": "on the dips means at each moment when the price falls temporarily",
+          "zh": "在每次（价格）回落的时候",
+          "ctx": "中国不是随时都买，而是专挑价格回落的时候加码——这里的 on 表示“一……就……”的时机。",
+          "ex1": "Retail investors have been trained to buy the dip, and so far it has worked. 散户已经被训练成逢跌就买，而且到目前为止这招还有效。",
+          "ex2": "A brief dip below $4,000 triggered a wave of physical buying in Asia. 金价短暂跌破4000美元，触发了亚洲的一波实物买盘。"
+        },
+        {
+          "w": "top",
+          "ipa": "/tɒp/",
+          "pos": "v.",
+          "en": "top means to be greater than a particular amount or number",
+          "zh": "超过，突破",
+          "ctx": "月度进口量突破 150 吨；作动词直接接数字，比 exceed 更简洁有力。",
+          "ex1": "Quarterly bookings topped $3bn for the first time in the company’s history. 季度订单额有史以来首次突破30亿美元。",
+          "ex2": "Temperatures topped 45°C for four consecutive days. 气温连续四天突破45度。"
+        },
+        {
+          "w": "haul",
+          "ipa": "/hɔːl/",
+          "pos": "n.",
+          "en": "haul means the total amount of something obtained or collected at one time",
+          "zh": "一趟运来的量，一笔进账",
+          "ctx": "June’s haul 指 6 月那一笔创 2024 年 3 月以来新高的进口量，语感上有“这一大票货”的味道。",
+          "ex1": "Police seized a haul of counterfeit components worth £4m. 警方缴获了价值400万英镑的假冒零部件。",
+          "ex2": "The team came home with a record haul of nine gold medals. 这支队伍带着创纪录的九块金牌回国。"
+        },
+        {
+          "w": "year on year",
+          "ipa": "",
+          "pos": "固定短语",
+          "en": "year on year means compared with the same period in the previous year",
+          "zh": "同比",
+          "ctx": "上半年进口 764 吨，同比增长 138%——跟去年同一时期比，以排除季节性影响。",
+          "ex1": "Revenue grew 22 per cent year on year but fell three per cent month on month. 营收同比增长22%，但环比下降3%。",
+          "ex2": "Year-on-year comparisons flatter the numbers because last year’s base was unusually weak. 同比数据把这些数字修饰得好看了，因为去年的基数异常疲弱。"
+        }
+      ]
+    },
+    {
+      "en_html": "China is also the world’s biggest <mark class=\"voc\">producer of</mark> bullion, with the total for last year <mark class=\"voc\">standing at</mark> 384 tonnes, according to the World Gold Council. There are signs that Chinese investors are increasing gold purchases as part of <mark class=\"voc\">broader efforts</mark> to <mark class=\"voc\">diversify</mark> their assets. Chinese <mark class=\"voc\">holdings</mark> of US <mark class=\"voc\">Treasuries</mark> fell to $618bn in July — the lowest level since August 2008, and less than half the peak of more than $1.3tn reached in 2013.",
+      "zh": "中国本身就是全球最大的产金国——据世界黄金协会，去年产量为384吨。有迹象显示，中国投资者正在加码黄金，这是其资产多元化布局中的一环。与此同时，中国持有的美国国债7月降至6180亿美元，为2008年8月以来最低，不到2013年逾1.3万亿美元峰值的一半。",
+      "notes": [
+        {
+          "w": "producer of",
+          "ipa": "/prəˈdjuːsə/",
+          "pos": "n.",
+          "en": "a producer is a country, company, or person that makes or grows a particular product",
+          "zh": "生产国，生产商",
+          "ctx": "中国也是全球最大的黄金生产国，去年产量 384 吨——买金的同时自己也产金。",
+          "ex1": "Indonesia has become the dominant producer of refined nickel in less than a decade. 不到十年时间，印尼已成为精炼镍最主要的生产国。",
+          "ex2": "Low-cost producers are the only ones still profitable at these prices. 在这样的价格下，只有低成本生产商还能盈利。"
+        },
+        {
+          "w": "stand at",
+          "ipa": "/stænd/",
+          "pos": "v.",
+          "en": "stand at means to be at a particular level or amount",
+          "zh": "（数字）为、达到",
+          "ctx": "the total for last year standing at 384 tonnes——画面是数字“站”在某个位置上。",
+          "ex1": "Official reserves stand at $3.2tn, little changed from a year ago. 官方储备为3.2万亿美元，与一年前几乎持平。",
+          "ex2": "The vacancy rate now stands at its highest level since 2010. 空置率目前处于2010年以来的最高水平。"
+        },
+        {
+          "w": "broader efforts",
+          "ipa": "",
+          "pos": "固定搭配",
+          "en": "broader efforts means a larger, more general set of actions of which this is one part",
+          "zh": "更大范围的努力",
+          "ctx": "as part of broader efforts to... 提示读者别把买金单独看，它背后是资产多元化的大布局。",
+          "ex1": "The plant closure is part of broader efforts to cut capacity across Europe. 关厂是在欧洲全面削减产能这一更大行动中的一环。",
+          "ex2": "The move reflects a broader shift away from just-in-time inventory. 这一举动反映出摆脱零库存模式的更广泛转向。"
+        },
+        {
+          "w": "diversify",
+          "ipa": "/daɪˈvɜːsɪfaɪ/",
+          "pos": "v.",
+          "en": "diversify means to spread money or activity across a wider range of different types, so as to reduce risk",
+          "zh": "分散投资，多元化",
+          "ctx": "买金只是中国资产多元化这个大动作里的一环；第 9 段的 diversifier 是它的名词形式。",
+          "ex1": "Gulf states are racing to diversify away from oil before demand peaks. 海湾国家正在需求见顶之前争相摆脱对石油的依赖、实现多元化。",
+          "ex2": "The fund diversified into infrastructure after three bad years in equities. 在股票市场经历三个糟糕年份后，这只基金转向了基础设施。"
+        },
+        {
+          "w": "holdings",
+          "ipa": "/ˈhəʊldɪŋz/",
+          "pos": "n.",
+          "en": "holdings means the amount of shares, bonds, or other assets that someone owns",
+          "zh": "持有量，持仓",
+          "ctx": "Chinese holdings of US Treasuries 指中国持有的美国国债规模；第 6 段的 reported holdings 是央行公布的黄金持有量。",
+          "ex1": "The fund cut its holdings in the sector by a third before the results came out. 在业绩公布之前，这只基金把该板块的持仓削减了三分之一。",
+          "ex2": "Foreign holdings of local bonds hit a record in August. 8月，外资持有的本币债券规模创下纪录。"
+        },
+        {
+          "w": "Treasuries",
+          "ipa": "/ˈtreʒəriz/",
+          "pos": "n.（大写、复数）",
+          "en": "Treasuries means bonds and other debt securities issued by the US Treasury",
+          "zh": "美国国债",
+          "ctx": "中国持有的美债 7 月降至 6180 亿美元，不到 2013 年 1.3 万亿美元峰值的一半——“减美债”与“买黄金”是同一个动作的两面。",
+          "ex1": "A jump in 10-year Treasury yields repriced everything from mortgages to tech stocks. 十年期美债收益率的跳升，重新定价了从房贷到科技股的一切。",
+          "ex2": "Foreign central banks have been net sellers of Treasuries for three years. 外国央行已连续三年净卖出美国国债。"
+        }
+      ]
+    },
+    {
+      "en_html": "“<mark class=\"voc\">Both the central bank and private investors</mark> are diversifying their <mark class=\"voc\">reserves</mark> and savings towards an asset with no <mark class=\"voc\">counterparty risk</mark>, as part of a broader long-term wealth <mark class=\"voc\">preservation</mark> strategy,” said Lisa Liu, managing director at Gold Mountains Asset Management, part of Zijin Mining Group — China’s largest gold miner.",
+      "zh": "“央行与私人投资者都在把储备和积蓄转向一种没有对手方风险的资产，这是长期财富保值大战略中的一环，”紫金矿业旗下金山资产管理董事总经理Lisa Liu 表示——紫金矿业是中国最大的黄金矿企。",
+      "notes": [
+        {
+          "w": "both A and B",
+          "ipa": "",
+          "pos": "固定结构",
+          "en": "both...and... is used to emphasise that the statement applies to two things equally",
+          "zh": "A 和 B 都……",
+          "ctx": "央行与私人投资者两方并提——这组“官方 vs 民间”的对照在全文出现四次，是文章骨架。",
+          "ex1": "The rule applies to both domestic and foreign issuers. 该规则对本国和外国发行人同样适用。",
+          "ex2": "Costs rose both in absolute terms and as a share of revenue. 成本无论按绝对值算，还是按占营收比例算，都在上升。"
+        },
+        {
+          "w": "reserves",
+          "ipa": "/rɪˈzɜːvz/",
+          "pos": "n.",
+          "en": "reserves means a supply of something valuable kept for future use, especially assets held by a central bank",
+          "zh": "储备",
+          "ctx": "指央行的黄金与外汇储备，与后面私人投资者的 savings 储蓄形成平行对应。",
+          "ex1": "The central bank drew down $40bn of reserves defending the currency. 央行动用了400亿美元储备来护盘本国货币。",
+          "ex2": "Proven oil reserves in the basin were revised sharply lower. 该盆地的石油探明储量被大幅下调。"
+        },
+        {
+          "w": "counterparty risk",
+          "ipa": "/ˈkaʊntəpɑːti rɪsk/",
+          "pos": "名词短语",
+          "en": "counterparty risk means the risk that the other party in a financial contract will fail to meet its obligations",
+          "zh": "对手方风险",
+          "ctx": "存款要靠银行不倒、国债要靠政府还钱，而黄金在你手上就是你的——这是官方与民间同时买金最核心的动机。",
+          "ex1": "Clearing houses exist precisely to take counterparty risk out of the equation. 清算所的存在，正是为了把对手方风险从这个等式里剔除出去。",
+          "ex2": "After the freeze, several central banks began treating custody location as a counterparty risk. 那次冻结之后，有几家央行开始把托管地点本身视为一种对手方风险。"
+        },
+        {
+          "w": "preservation",
+          "ipa": "/ˌprezəˈveɪʃn/",
+          "pos": "n.",
+          "en": "preservation means the act of keeping something in its existing state so that it is not lost or damaged",
+          "zh": "保值，保全",
+          "ctx": "wealth preservation 求的是“别亏”，与 wealth creation 求“更多”是两种完全不同的心态。",
+          "ex1": "After two bad years, the mandate shifted from growth to capital preservation. 经历两个糟糕年份后，投资授权从追求增长转向了保住本金。",
+          "ex2": "Gold has never been a growth asset; it is a preservation asset. 黄金从来不是增长型资产，它是保值型资产。"
+        }
+      ]
+    }
+  ]
+}

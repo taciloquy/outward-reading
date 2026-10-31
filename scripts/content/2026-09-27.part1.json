@@ -1,0 +1,296 @@
+{
+ "date": "2026-09-27",
+ "title_tag": "科学家造出“人脑老鼠”：超过90%的大脑皮层组织来自人类，它还是一只普通老鼠吗？—— 早安英文 MORNING ENGLISH 20260927",
+ "h1": "科学家造出“人脑老鼠”：超过90%的大脑皮层组织来自人类，它还是一只普通老鼠吗？",
+ "source_label": "Morning English",
+ "category": "早安英文 MORNING ENGLISH 20260927",
+ "read_minutes": 19,
+ "nav_hint": "Scientists create mice with part-human brains",
+ "headline": {
+  "en_html": "Scientists create mice with part-human brains",
+  "zh": "科学家培育出半人脑小鼠",
+  "notes": []
+ },
+ "paragraphs": [
+  {
+   "en_html": "Researchers have created mice with half-human brains <mark class=\"voc\">in an effort to</mark> understand and develop new treatments for <mark class=\"voc\">disorders</mark> such as schizophrenia, epilepsy, <mark class=\"voc\">cerebral</mark> palsy, intellectual disability and rare forms of <mark class=\"voc\">dementia</mark>. The scientists <mark class=\"voc\">transplanted</mark> lab-grown human brain cells into animals that were engineered to be born without a cortex or hippocampus. This made space for the human <mark class=\"voc\">tissue</mark> to grow inside the <mark class=\"voc\">rodents’</mark> skulls.",
+   "zh": "研究人员培育出了半人脑小鼠，试图借此理解精神分裂症、癫痫、脑瘫、智力障碍及罕见型痴呆等疾病，并为其开发新疗法。科学家将实验室培育的人类脑细胞，移植到经基因工程改造、天生缺失大脑皮层或海马体的动物体内。如此一来，人类组织便得以在啮齿动物的颅腔内扎根生长。",
+   "notes": [
+    {
+     "w": "in an effort to",
+     "ipa": "/ɪn ən ˈefət tuː/",
+     "pos": "phr.",
+     "en": "with the aim or purpose of achieving something",
+     "zh": "为了，力图，旨在",
+     "ctx": "“为了、力图”，比单用 to 多一层“费了力气”的意味：作者用它说明科学家不是顺手而为，而是专门为此下的功夫。",
+     "ex1": "The government tightened emissions standards in an effort to combat air pollution. 政府收紧了排放标准，力图治理空气污染。",
+     "ex2": "She began meditating daily in an effort to reduce her anxiety. 她开始每天冥想，试图缓解焦虑。"
+    },
+    {
+     "w": "disorder",
+     "ipa": "/dɪsˈɔːdə(r)/",
+     "pos": "n.",
+     "en": "a medical condition in which the body or mind does not function normally",
+     "zh": "失调，紊乱，疾病",
+     "ctx": "医学里的“失调”：dis- 失 + order 秩序，身体或心智的秩序乱了，比 disease 更强调功能紊乱而非器质性病变。",
+     "ex1": "Bipolar disorder can be managed effectively with medication and therapy. 双相情感障碍可以通过药物和心理治疗得到有效控制。",
+     "ex2": "The clinic specialises in treating eating disorders among teenagers. 这家诊所专攻青少年进食障碍的治疗。"
+    },
+    {
+     "w": "cerebral",
+     "ipa": "/səˈriːbrəl/",
+     "pos": "adj.",
+     "en": "relating to the brain, especially the cerebrum",
+     "zh": "大脑的，脑的",
+     "ctx": "词根 cerebrum 即大脑，cerebral palsy 是“大脑性麻痹”——坏的不是肌肉，是大脑受损后失去了对运动的控制。",
+     "ex1": "Cerebral haemorrhage is a life-threatening emergency that requires immediate surgery. 脑出血是一种危及生命的急症，需要立即手术。",
+     "ex2": "The athlete suffered a mild cerebral concussion after the collision. 那名运动员在碰撞后遭受了轻度脑震荡。"
+    },
+    {
+     "w": "dementia",
+     "ipa": "/dɪˈmenʃə/",
+     "pos": "n.",
+     "en": "a serious mental condition caused by brain disease or damage, affecting memory, thinking and behaviour",
+     "zh": "痴呆，失智症",
+     "ctx": "de- 去除 + mens 心智（同 mental），字面就是“把心智拿走”，是涵盖多种病因的认知退化统称。",
+     "ex1": "Her grandmother was diagnosed with early-onset dementia at the age of fifty-eight. 她祖母五十八岁时被诊断出早发性痴呆。",
+     "ex2": "Researchers are investigating whether sleep deprivation accelerates the onset of dementia. 研究人员正在调查睡眠不足是否会加速痴呆的发病。"
+    },
+    {
+     "w": "transplant",
+     "ipa": "/trænsˈplɑːnt/",
+     "pos": "v.",
+     "en": "to move an organ, tissue or cells from one body to another, or from one place to another",
+     "zh": "移植，移种",
+     "ctx": "trans- 转移 + plant 种植，把器官、组织或细胞“挪个地方种下去”；文中是把人类脑细胞种进鼠颅。",
+     "ex1": "The surgeons successfully transplanted a kidney from a living donor. 外科医生成功移植了一颗来自活体捐赠者的肾脏。",
+     "ex2": "The seedlings were transplanted into larger pots to give their roots more room. 幼苗被移栽到更大的花盆里，好让根系有更多空间。"
+    },
+    {
+     "w": "tissue",
+     "ipa": "/ˈtɪʃuː/",
+     "pos": "n.",
+     "en": "a group of cells in an animal or plant that work together to perform a particular function",
+     "zh": "组织（生物学用语）",
+     "ctx": "生物学里的“组织”，由同类细胞协作完成某项功能；日常义是“纸巾”，读到时先看语境再定。",
+     "ex1": "The biopsy revealed abnormal tissue growth in the patient's lung. 活检显示患者肺部有异常组织增生。",
+     "ex2": "Stem cells can develop into many different types of tissue. 干细胞可以发育成许多不同种类的组织。"
+    },
+    {
+     "w": "rodent",
+     "ipa": "/ˈrəʊdnt/",
+     "pos": "n.",
+     "en": "a small mammal with sharp front teeth, such as a mouse, rat or squirrel",
+     "zh": "啮齿动物",
+     "ctx": "啮齿动物，词源 rodere 意为“啃咬”；学术写作里比 mouse 更正式，也更带分类学色彩。",
+     "ex1": "Rodents are widely used in biomedical research because of their genetic similarity to humans. 啮齿动物因与人类基因相似而被广泛用于生物医学研究。",
+     "ex2": "The warehouse was infested with rodents, forcing the owner to call an exterminator. 仓库里鼠患成灾，业主不得不请来灭鼠公司。"
+    }
+   ]
+  },
+  {
+   "en_html": "The <mark class=\"voc\">procedure</mark> means scientists can now take cells from patients with brain disorders, turn them into brain tissue in the laboratory, and grow that tissue in living animals. The animals can then be studied to see how the disorder <mark class=\"voc\">takes hold in</mark> human brain tissue, and how drugs might treat the conditions.",
+   "zh": "这一技术路径意味着，科学家如今可以从脑部疾病患者身上提取细胞，在实验室中将其转化为脑组织，再让这片组织在活体动物体内继续发育。随后，通过研究这些动物，便可观察疾病如何在人类脑组织中悄然扎根，以及药物能否将其制伏。",
+   "notes": [
+    {
+     "w": "procedure",
+     "ipa": "/prəˈsiːdʒə(r)/",
+     "pos": "n.",
+     "en": "a medical operation or a set of actions performed in a particular way",
+     "zh": "手术，程序，步骤",
+     "ctx": "pro- 向前 + cedere 走，本义“往前走的步骤”，医学里指一整套操作流程，此处泛指整个移植手术。",
+     "ex1": "The procedure takes about forty minutes and requires only local anaesthesia. 该手术大约需要四十分钟，只需局部麻醉。",
+     "ex2": "The company has a strict procedure for handling customer complaints. 该公司有一套严格处理客户投诉的程序。"
+    },
+    {
+     "w": "take hold in",
+     "ipa": "/teɪk həʊld ɪn/",
+     "pos": "phr.",
+     "en": "to begin to have a strong effect or become established in a place",
+     "zh": "扎根，蔓延，开始控制",
+     "ctx": "火“抓住”了阁楼、绝望“抓住”了社区：take hold 就是某种力量由萌发到占据主导，文中说疾病在脑组织里扎下了根。",
+     "ex1": "The fire took hold in the attic before anyone noticed the smoke. 火势在阁楼里蔓延开来，才有人注意到浓烟。",
+     "ex2": "Despair took hold in the community after the factory closed down. 工厂倒闭后，绝望情绪在社区中蔓延开来。"
+    }
+   ]
+  },
+  {
+   "en_html": "“We’ve been trying really hard as a community to find <mark class=\"voc\">therapeutic</mark> solutions for these conditions, but the reality is that in <mark class=\"voc\">psychiatry</mark> and <mark class=\"voc\">neurology</mark> we’ve been left behind [by] every single <mark class=\"voc\">branch</mark> of medicine and we have fewer therapeutics than, again, every single branch of medicine,” said Sergiu Pașca, a professor of psychiatry who led the research at Stanford University. “That could be because the human brain is very complex, but it’s also because the human brain is <mark class=\"voc\">inaccessible</mark>,” he added. “To a large extent, our goal has been to make aspects of human brain development and function accessible for investigation.”",
+   "zh": "“整个学界一直在拼尽全力，为这些疾病寻找治疗方案。但现实是，在精神病学和神经病学领域，我们被医学的每一个分支远远甩在了身后，我们的治疗手段，同样比医学的每一个分支都要匮乏。”斯坦福大学精神病学教授、该研究的负责人塞尔久·帕什卡说道。“这或许是因为人脑极其复杂，但也因为人脑难以触及。”他补充道，“在很大程度上，我们的目标，就是让人脑发育与功能的诸多面向变得可供研究。”",
+   "notes": [
+    {
+     "w": "therapeutic",
+     "ipa": "/ˌθerəˈpjuːtɪk/",
+     "pos": "adj.",
+     "en": "relating to the treatment or cure of disease",
+     "zh": "治疗的，疗法的",
+     "ctx": "来自希腊语 therapeia“照料、医治”，therapeutic solutions 即“有疗效的解法”，不是空谈理论。",
+     "ex1": "Therapeutic massage can relieve chronic back pain. 治疗性按摩可以缓解慢性背痛。",
+     "ex2": "The drug has both therapeutic and side effects. 这种药物既有治疗作用，也有副作用。"
+    },
+    {
+     "w": "psychiatry",
+     "ipa": "/saɪˈkaɪətri/",
+     "pos": "n.",
+     "en": "the branch of medicine concerned with the diagnosis and treatment of mental illness",
+     "zh": "精神病学",
+     "ctx": "psyche 心灵 + iatry 医术，“医心”的学科；与 neurology 一个管精神行为，一个管神经系统器质病变。",
+     "ex1": "She decided to specialise in child psychiatry after working in a paediatric ward. 在儿科病房工作后，她决定专攻儿童精神病学。",
+     "ex2": "Advances in psychiatry have reduced the stigma surrounding mental illness. 精神病学的进步减少了围绕精神疾病的污名。"
+    },
+    {
+     "w": "neurology",
+     "ipa": "/njʊəˈrɒlədʒi/",
+     "pos": "n.",
+     "en": "the branch of medicine concerned with the nervous system and its disorders",
+     "zh": "神经病学",
+     "ctx": "neuron 神经 + -logy 学科，管脑、脊髓、周围神经与肌肉的疾病，文中与 psychiatry 并列，正是帕什卡自陈落后的两块阵地。",
+     "ex1": "He was referred to neurology after suffering unexplained seizures. 在出现不明原因的癫痫发作后，他被转诊至神经科。",
+     "ex2": "Neurology has benefited enormously from advances in brain imaging. 神经病学从脑成像技术的进步中获益良多。"
+    },
+    {
+     "w": "branch",
+     "ipa": "/brɑːntʃ/",
+     "pos": "n.",
+     "en": "a division or subdivision of a larger organisation or field of knowledge",
+     "zh": "分支，部门，学科",
+     "ctx": "本义“树枝”，引申为学科、机构的分支；every branch of medicine 就是“医学的每一个专科”。",
+     "ex1": "Oncology is one of the fastest-growing branches of medicine. 肿瘤学是医学中发展最快的分支之一。",
+     "ex2": "The bank opened a new branch in the city centre. 银行在市中心开设了一家新分行。"
+    },
+    {
+     "w": "inaccessible",
+     "ipa": "/ˌɪnəkˈsesəbl/",
+     "pos": "adj.",
+     "en": "difficult or impossible to reach, approach or obtain",
+     "zh": "难以触及的，不可及的",
+     "ctx": "in- 不 + access 到达 + -ible 可……的：活体人脑没法打开来看，这正是脑科学绕不过去的根本困境。",
+     "ex1": "The village is inaccessible by road during the rainy season. 雨季时，这个村庄无法通过公路抵达。",
+     "ex2": "The data remains inaccessible to researchers without special permission. 未经特别许可，研究人员无法获取这些数据。"
+    }
+   ]
+  },
+  {
+   "en_html": "While potentially <mark class=\"voc\">transformative</mark> for brain medicine, <mark class=\"voc\">organoids</mark> have sparked a wave of <mark class=\"voc\">ethical</mark> concerns, <mark class=\"voc\">not least</mark> around whether the <mark class=\"voc\">clumps of</mark> tissue could become <mark class=\"voc\">conscious</mark> or feel pain, and the welfare of animals <mark class=\"voc\">implanted</mark> with organoids. Pașca said the work had received extensive ethical <mark class=\"voc\">oversight</mark> from the start. Experts said this would need to continue. Emily Jackson, professor of law at London School of Economics and chair of a recent report on neural organoids for the Nuffield Council on Bioethics, said: “Animal welfare is a really important concern, and it will be necessary to closely monitor these animals in order to evaluate the impact on them.”",
+   "zh": "类器官虽有望为脑医学带来翻天覆地的变革，却也掀起了一波伦理忧虑的浪潮——尤其是这些组织团块是否会生出意识、感受痛楚，以及被植入类器官的动物的福祉问题。帕什卡表示，这项工作自始至终都受到了严格的伦理审查。专家指出，这种审查必须持续下去。伦敦政治经济学院法学教授、纳菲尔德生物伦理委员会近期一份神经类器官报告的主席艾米莉·杰克逊表示：“动物福利是一个至关重要的关切，必须对这些动物进行密切监测，以评估移植对它们造成的影响。”",
+   "notes": [
+    {
+     "w": "transformative",
+     "ipa": "/trænsˈfɔːmətɪv/",
+     "pos": "adj.",
+     "en": "causing a complete or major change in someone or something",
+     "zh": "变革性的，颠覆性的",
+     "ctx": "transform 彻底改变 + -ive，语气远重于 important——不是“有点用”，而是“改变整个格局”。",
+     "ex1": "The internet has had a transformative effect on how we communicate. 互联网对我们的沟通方式产生了变革性影响。",
+     "ex2": "Her year abroad was a transformative experience that reshaped her worldview. 她在国外的一年是一次改变人生的经历，重塑了她的世界观。"
+    },
+    {
+     "w": "organoid",
+     "ipa": "/ˈɔːɡənɔɪd/",
+     "pos": "n.",
+     "en": "a miniature, simplified version of an organ produced in vitro from stem cells",
+     "zh": "类器官",
+     "ctx": "organ 器官 + -oid 像……的，干细胞自组织出的微型器官模型，是全文的技术主角。",
+     "ex1": "Scientists grew a liver organoid that could secrete bile within weeks. 科学家培育出了一个能在数周内分泌胆汁的肝脏类器官。",
+     "ex2": "Brain organoids offer a window into early neural development. 脑类器官为了解早期神经发育打开了一扇窗。"
+    },
+    {
+     "w": "ethical",
+     "ipa": "/ˈeθɪkl/",
+     "pos": "adj.",
+     "en": "relating to moral principles or the branch of knowledge dealing with these",
+     "zh": "伦理的，道德的",
+     "ctx": "来自希腊语 ethos“风俗、品性”，问的是这件事在道德上站不站得住脚。",
+     "ex1": "The trial was halted due to ethical concerns about informed consent. 由于对知情同意的伦理担忧，试验被叫停。",
+     "ex2": "It is not ethical to test cosmetics on animals when alternatives exist. 在存在替代方案的情况下，用动物测试化妆品是不道德的。"
+    },
+    {
+     "w": "not least",
+     "ipa": "/nɒt liːst/",
+     "pos": "phr.",
+     "en": "especially, in particular (used to emphasise an important example)",
+     "zh": "尤其是，特别是",
+     "ctx": "字面“并非最不重要”，实际是“尤其是”：后面举的这个例子，恰恰是最要紧的那个。",
+     "ex1": "The project faced many obstacles, not least a shortage of funding. 该项目面临诸多障碍，尤其是资金短缺。",
+     "ex2": "Climate change affects everyone, not least those living in coastal areas. 气候变化影响所有人，尤其是沿海地区的居民。"
+    },
+    {
+     "w": "clump of",
+     "ipa": "/klʌmp ɒv/",
+     "pos": "n.",
+     "en": "a small group of things of the same type that are close together",
+     "zh": "一团，一簇，一堆",
+     "ctx": "一簇、一团，指同类东西挤在一处；文中那个“组织团块”听着无害，伦理追问却正由此而来。",
+     "ex1": "A clump of wild mushrooms grew at the base of the oak tree. 橡树根部生长着一簇野蘑菇。",
+     "ex2": "The path was blocked by a clump of fallen branches. 小路被一堆掉落的树枝挡住了。"
+    },
+    {
+     "w": "conscious",
+     "ipa": "/ˈkɒnʃəs/",
+     "pos": "adj.",
+     "en": "aware of and able to think about one's own existence, sensations and surroundings",
+     "zh": "有意识的，有知觉的",
+     "ctx": "con- 共同 + scire 知道，“与自己一同知道”，即对自身存在和周围环境有知觉。",
+     "ex1": "The patient remained conscious throughout the procedure. 整个手术过程中患者始终保持清醒。",
+     "ex2": "Humans are conscious of their own mortality in a way that most animals are not. 人类能以大多数动物不具备的方式意识到自身终将死亡。"
+    },
+    {
+     "w": "implant",
+     "ipa": "/ɪmˈplɑːnt/",
+     "pos": "v.",
+     "en": "to put something into someone's body by surgery",
+     "zh": "植入，移植",
+     "ctx": "im- 进入 + plant 种植，外科把东西放进体内；animals implanted with organoids 即被植入类器官的动物。",
+     "ex1": "The device is implanted under the skin to monitor blood sugar levels. 该设备被植入皮下以监测血糖水平。",
+     "ex2": "Doctors implanted a pacemaker to regulate his heartbeat. 医生植入了一个心脏起搏器来调节他的心跳。"
+    },
+    {
+     "w": "oversight",
+     "ipa": "/ˈəʊvəsaɪt/",
+     "pos": "n.",
+     "en": "the act of watching a person or activity to make sure everything is done correctly",
+     "zh": "监管，监督",
+     "ctx": "over 在上 + sight 看，从上方盯着看就是“监管”；注意它与“疏忽”那个 oversight 同形，只能靠语境分辨。",
+     "ex1": "The new regulations require independent oversight of all clinical trials. 新法规要求所有临床试验都接受独立监督。",
+     "ex2": "The committee provides oversight of how public funds are spent. 该委员会对公共资金的使用进行监督。"
+    }
+   ]
+  },
+  {
+   "en_html": "Writing in Nature, Paşca describes how the mice were <mark class=\"voc\">injected</mark> with human brain organoids that were themselves created by <mark class=\"voc\">reprogramming</mark> donated skin cells. The newborn mice received several injections, each containing about 100,000 human brain cells, into the space where their own brain tissue was missing. In total, the rodents lacked about 14m mouse brain cells and ended up with about 4m human ones – half the brain by <mark class=\"voc\">volume</mark>.",
+   "zh": "帕什卡在《自然》杂志上描述了实验过程：小鼠被注射了人类脑类器官，而这些类器官本身，是通过对捐赠皮肤细胞进行重编程而创造的。新生小鼠接受了数次注射，每次约含十万个人类脑细胞，注射位置正是它们自身脑组织缺失之处。总体而言，这些啮齿动物缺失了约一千四百万个小鼠脑细胞，最终拥有了约四百万个人类脑细胞——按体积计算，占据了大脑的一半。",
+   "notes": [
+    {
+     "w": "inject",
+     "ipa": "/ɪnˈdʒekt/",
+     "pos": "v.",
+     "en": "to put a drug or other substance into a person's or animal's body using a syringe",
+     "zh": "注射",
+     "ctx": "in- 进入 + ject 投掷，“把东西投进去”；文中是每次约十万个细胞被注进鼠脑的空缺处。",
+     "ex1": "The nurse injected the vaccine into his upper arm. 护士将疫苗注射进他的上臂。",
+     "ex2": "The government injected billions into the struggling economy. 政府向陷入困境的经济注入了数十亿资金。"
+    },
+    {
+     "w": "reprogram",
+     "ipa": "/ˌriːˈprəʊɡræm/",
+     "pos": "v.",
+     "en": "to change the instructions that control how a cell or organism develops",
+     "zh": "重编程",
+     "ctx": "re- 再 + program 编程，把已分化的皮肤细胞“重写程序”退回干细胞状态，是培育类器官的关键一步。",
+     "ex1": "Scientists reprogrammed the patient's skin cells into stem cells. 科学家将患者的皮肤细胞重编程为干细胞。",
+     "ex2": "The software can be reprogrammed to perform different tasks. 该软件可以通过重新编程来执行不同任务。"
+    },
+    {
+     "w": "volume",
+     "ipa": "/ˈvɒljuːm/",
+     "pos": "n.",
+     "en": "the amount of space that an object or substance occupies",
+     "zh": "体积，容量",
+     "ctx": "本义“卷、册”，也指体积容量；by volume 是“按体积算”，与按重量、按个数区分。",
+     "ex1": "The volume of water in the reservoir drops sharply in summer. 夏季水库的水量急剧下降。",
+     "ex2": "The two containers are equal in volume but different in shape. 这两个容器体积相同，但形状不同。"
+    }
+   ]
+  }
+ ]
+}
