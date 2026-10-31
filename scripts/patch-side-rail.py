@@ -1,8 +1,8 @@
 #!/usr/bin/env python3
 # -*- coding: utf-8 -*-
 """
-打印/阅读体验补丁（幂等）：右侧查询面板在宽屏（电脑 / iPad）默认收成右侧竖条，
-把宽度让给正文与矢量导图；点击竖条展开，正文左缩并排显示。
+阅读体验补丁（幂等）：右侧查询面板在宽屏默认收成右侧竖条，把宽度让给正文与矢量导图；
+点击竖条展开——电脑上与正文并排（正文左缩），平板（≤1080px）上是右侧抽屉浮层，不挤压正文。
 
 用法：
   python3 scripts/patch-side-rail.py            # 全站 articles/**/*.reading.html
@@ -14,8 +14,18 @@ REPO = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
 MARK = "side-rail-v1"
 
 CSS = """/* ========== 右侧查询面板：宽屏默认收成竖条，点击展开（side-rail-v1） ========== */
+/* 平板（768–1080）：展开态是右侧抽屉浮层，正文宽度不变、不重排，只盖住右侧一小条 */
 @media (min-width:768px) and (max-width:1080px){
-  .side{flex:0 0 clamp(258px,33vw,300px)}
+  body:not(.side-collapsed) .side{
+    position:fixed;z-index:70;right:12px;
+    top:calc(var(--header-h) + 12px);
+    width:min(360px,64vw);height:calc(100vh - var(--header-h) - 24px);
+    flex:none;min-width:0;
+  }
+  body:not(.side-collapsed) .side-inner{
+    box-shadow:0 16px 40px rgba(24,25,28,.22),0 2px 8px rgba(24,25,28,.10);
+  }
+  body:not(.side-collapsed) .side-collapse{font-size:12.5px;padding:4px 8px}
 }
 @media (min-width:768px){
   body.side-collapsed .layout{gap:14px}
