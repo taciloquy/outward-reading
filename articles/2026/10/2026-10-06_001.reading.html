@@ -60,7 +60,7 @@ h1{font-size:22px;font-weight:700}
 .main{flex:7;min-width:0}
 /* 右侧面板：固定悬浮，高度不超一屏 */
 .side{
-  flex:3;min-width:0;
+  flex:0 0 clamp(288px,30%,404px);min-width:0;
   position:sticky; top:calc(var(--header-h) + 12px);
   height:calc(100vh - var(--header-h) - 24px);
   display:flex;
@@ -215,7 +215,7 @@ mark.voc:hover{background:#e0eabf;border-bottom-color:var(--accent)}
 .fold-head .arrow{color:var(--ink-light);font-size:12px;transition:transform .2s}
 
 /* ========== 移动端自适应 ========== */
-@media (max-width:1024px){
+@media (max-width:767px){
   .layout{flex-direction:column}
   .main{flex:none;width:100%}
   /* 窄屏：面板下沉页面底部，不再固定高度 */
@@ -405,6 +405,28 @@ body.print-sheet .back-cal{display:none !important}
 body.print-sheet header{position:static !important;
   -webkit-backdrop-filter:none !important;backdrop-filter:none !important}
 body.print-sheet .layout,body.print-sheet .main{display:block !important}
+/* ========== 右侧查询面板：宽屏默认收成竖条，点击展开（side-rail-v1） ========== */
+@media (min-width:768px) and (max-width:1080px){
+  .side{flex:0 0 clamp(258px,33vw,300px)}
+}
+@media (min-width:768px){
+  body.side-collapsed .layout{gap:14px}
+  body.side-collapsed .side{flex:0 0 60px;width:60px;min-width:0;height:auto}
+  body.side-collapsed .side-inner{
+    background:transparent;border:0;padding:0;height:auto;display:block;overflow:visible;
+  }
+  body.side-collapsed .side-head{margin:0;padding:0;display:block}
+  body.side-collapsed .side-head h2{display:none}
+  body.side-collapsed .side-collapse{
+    writing-mode:vertical-rl;-webkit-writing-mode:vertical-rl;
+    display:block;margin:0 auto;width:38px;height:auto;padding:18px 0;
+    border-radius:999px;border:1px solid var(--line);
+    background:var(--accent-light);color:var(--accent);
+    font-size:13px;letter-spacing:.2em;line-height:1;
+  }
+  body.side-collapsed .side-collapse:hover{border-color:var(--accent);filter:brightness(.98)}
+  body.side-collapsed .side-body{display:none}
+}
 </style>
 </head>
 <body>
@@ -1074,7 +1096,7 @@ function showTab(n, btn){
   }
   /* 若面板处于收起状态，切换分页时自动展开 */
   var body = document.getElementById('side-body');
-  if(body && body.classList.contains('hidden')) toggleSide();
+  if(body && body.classList.contains('hidden')) setSide(true, false);
   var panes = document.querySelector('.tab-panes');
   if(panes && !btn) panes.scrollTop = 0;
 }
@@ -1130,12 +1152,44 @@ document.querySelectorAll('.mm-branch').forEach(function(g){
   g.addEventListener('click', function(){ toggleBranch(g.getAttribute('data-target')); });
 });
 
-function toggleSide(){
-  var body = document.getElementById('side-body');
-  body.classList.toggle('hidden');
-  var btn = document.querySelector('.side-collapse');
-  btn.textContent = body.classList.contains('hidden') ? '展开面板' : '收起面板';
+/* ========== 右侧面板开合：宽屏默认收成竖条，点击展开；偏好记入 localStorage ========== */
+var SIDE_PREF = 'outward-side-open-v1';
+function sideWide(){ return window.matchMedia('(min-width:768px)').matches; }
+function sideHidden(){
+  var b = document.getElementById('side-body');
+  return !!b && b.classList.contains('hidden');
 }
+function syncSideBtn(){
+  var btn = document.querySelector('.side-collapse');
+  if(!btn) return;
+  if(sideWide() && sideHidden()){
+    btn.textContent = '展开查询面板';
+    btn.title = '点击展开查询面板，与正文并排显示';
+  }else{
+    btn.textContent = sideHidden() ? '展开面板' : '收起面板';
+    btn.title = '';
+  }
+}
+function setSide(open, remember){
+  var body = document.getElementById('side-body');
+  if(!body) return;
+  body.classList.toggle('hidden', !open);
+  document.body.classList.toggle('side-collapsed', !open);
+  if(remember){ try{ localStorage.setItem(SIDE_PREF, open ? '1' : '0'); }catch(e){} }
+  syncSideBtn();
+  if(typeof syncHeaderHeight === 'function') syncHeaderHeight();
+}
+function toggleSide(){
+  setSide(sideHidden(), true);   /* 收起状态点一下就展开 */
+}
+(function initSide(){
+  var saved = null;
+  try{ saved = localStorage.getItem(SIDE_PREF); }catch(e){}
+  /* 手机保持展开（面板在页面底部）；电脑 / iPad 首次访问默认收起，之后按用户上次的选择 */
+  var open = sideWide() ? (saved === '1') : true;
+  setSide(open, false);
+  window.addEventListener('resize', syncSideBtn);
+})();
 
 /* 实时搜索：高亮全文英文块 + 标记表格命中行 + 列出跳转链接 */
 var lastMarks = [];
