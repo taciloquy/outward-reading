@@ -1,0 +1,596 @@
+{
+ "date": "2026-09-20",
+ "title_tag": "美国三年来首次加息！上任不到4个月，川川亲手选的美联储主席就“翻脸”了？—— 早安英文 MORNING ENGLISH 20260920",
+ "h1": "美国三年来首次加息！上任不到4个月，川川亲手选的美联储主席就“翻脸”了？",
+ "source_label": "Morning English",
+ "category": "早安英文 MORNING ENGLISH 20260920",
+ "read_minutes": 20,
+ "nav_hint": "Donald Trump fails to bend the Federal Reserve to his will",
+ "headline": {
+  "en_html": "Donald Trump fails to <mark class=\"voc\">bend the Federal Reserve to his will</mark>",
+  "zh": "唐纳德·特朗普未能令美联储俯首听命",
+  "notes": [
+   {
+    "w": "bend sb. to one's will",
+    "ipa": "/ˈbend ˈsʌmbədi tə wʌnz wɪl/",
+    "pos": "phr.",
+    "en": "to force someone to do what you want, especially someone who is unwilling",
+    "zh": "使某人屈从于自己的意志，让某人听命于自己",
+    "ctx": "bend 本义“使弯曲”，引申为“使屈服”；标题先给出结论——特朗普想让美联储按他的意思降息，却没能把央行攥进自己手里。",
+    "ex1": "The new CEO tried to bend the board to his will, but the directors resisted. 新任首席执行官试图让董事会屈从于他的意志，但董事们抵制了。",
+    "ex2": "No president should be able to bend the central bank to his will. 任何总统都不应能让央行听命于自己。"
+   }
+  ]
+ },
+ "paragraphs": [
+  {
+   "en_html": "Kevin Warsh has <mark class=\"voc\">rebuffed</mark> Donald Trump’s demands for low borrowing costs, as the president’s <mark class=\"voc\">pick</mark> to run the Federal Reserve led it to the first rate rise since 2023 less than four months into the job. The central bank chair on Wednesday offered the strongest evidence yet that he is prepared to <mark class=\"voc\">disregard</mark> Trump when he <mark class=\"voc\">corralled</mark> all 12 rate setters on the Federal Open Market Committee into <mark class=\"voc\">backing</mark> a quarter-point rate rise. “The <mark class=\"voc\">plain</mark> fact is that inflation is too high and has been for too long,” Warsh said, as he repeatedly told journalists that he would be “hard pressed” to describe current interest rates as so high that they would slow the economy.",
+   "zh": "凯文·沃什顶住了唐纳德·特朗普要求压低借贷成本的压力——这位总统钦点的美联储掌舵人，上任不到四个月，便推动央行完成了自2023年以来的首次加息。周三，这位美联储主席拿出了迄今为止最有力的证据，表明他准备不理会特朗普：他成功说服联邦公开市场委员会全部12名利率决策者，一致支持加息25个基点。“明摆着的事实是，通胀太高了，而且高得太久了，”沃什说道，并反复向记者表示，他很难将当前的利率水平形容为高到会拖慢经济。",
+   "notes": [
+    {
+     "w": "rebuff",
+     "ipa": "/rɪˈbʌf/",
+     "pos": "v.",
+     "en": "to reject someone or something in a blunt or abrupt manner",
+     "zh": "断然拒绝，回绝",
+     "ctx": "沃什把特朗普压低借贷成本的要求干脆挡了回去，比 refuse 更强调“直接、不给面子”。",
+     "ex1": "She rebuffed his offer of help with a curt shake of her head. 她干脆地摇了摇头，回绝了他的帮忙。",
+     "ex2": "The company rebuffed the takeover bid, calling it undervalued. 该公司断然拒绝了收购要约，称其估值过低。"
+    },
+    {
+     "w": "pick",
+     "ipa": "/pɪk/",
+     "pos": "n.",
+     "en": "a person who has been chosen for a particular role or position",
+     "zh": "选中的人，钦点的人选",
+     "ctx": "这里是名词“钦点的人选”，指特朗普亲自挑中、寄予期待的美联储掌舵人，不是动词“挑选”。",
+     "ex1": "She was the coach's pick for team captain. 她是教练钦点的队长人选。",
+     "ex2": "The senator was the president's pick to lead the Treasury. 这位参议员是总统钦点的财政部长人选。"
+    },
+    {
+     "w": "disregard",
+     "ipa": "/ˌdɪsrɪˈɡɑːd/",
+     "pos": "v.",
+     "en": "to pay no attention to someone or something, especially when you should",
+     "zh": "无视，不理睬，不顾",
+     "ctx": "沃什准备好不理会特朗普——比 ignore 正式，强调“明知该听却不当回事”的故意。",
+     "ex1": "He disregarded the doctor's advice and kept working late. 他无视医生的建议，继续加班到深夜。",
+     "ex2": "The committee disregarded the objections of local residents. 委员会对当地居民的反对置之不理。"
+    },
+    {
+     "w": "corral",
+     "ipa": "/kəˈrɑːl/",
+     "pos": "v.",
+     "en": "to gather people or things together, especially those who are difficult to control",
+     "zh": "把……集中起来，拢住，召集",
+     "ctx": "本义“把牲畜赶进围栏”，此处指沃什把 12 名利率决策者全都拢到加息这一边，一个反对票都没落下。",
+     "ex1": "The manager corralled the whole team into the meeting room. 经理把整个团队都召集到了会议室。",
+     "ex2": "She managed to corral enough votes to pass the bill. 她设法凑齐了足够的票数让法案通过。"
+    },
+    {
+     "w": "back",
+     "ipa": "/bæk/",
+     "pos": "v.",
+     "en": "to support someone or something, especially with money, votes, or influence",
+     "zh": "支持，力挺",
+     "ctx": "12 名决策者一致“力挺”加息 25 个基点；比 support 口语化，常见于政治、金融语境。",
+     "ex1": "Several major investors backed the startup in its early days. 几家大投资人在早期力挺这家初创公司。",
+     "ex2": "The union backed the strike by an overwhelming majority. 工会以压倒性多数支持罢工。"
+    },
+    {
+     "w": "plain",
+     "ipa": "/pleɪn/",
+     "pos": "adj.",
+     "en": "used to emphasize that something is simple, obvious, and undeniable",
+     "zh": "明摆着的，显而易见的",
+     "ctx": "plain fact 是固定搭配，强调事实简单直接、无可辩驳；此处不是“朴素的”，而是“不容否认的”。",
+     "ex1": "The plain fact is that we cannot afford another delay. 明摆着的事实是，我们经不起再拖了。",
+     "ex2": "For all the spin, the plain truth is that the project failed. 不管怎么粉饰，明摆着的事实是这个项目失败了。"
+    }
+   ]
+  },
+  {
+   "en_html": "Warsh’s signal to Wall Street — just weeks before <mark class=\"voc\">pivotal</mark> midterm elections — that he is ready to take further measures to <mark class=\"voc\">tame</mark> the inflation <mark class=\"voc\">pulsing</mark> across the US economy <mark class=\"voc\">contrasts sharply with</mark> the president’s understanding that he was choosing a Fed boss who “certainly wants to cut rates”.",
+   "zh": "沃什向华尔街释放的信号——恰在关键的中期选举前数周——是他准备采取进一步措施，驯服席卷美国经济的通胀。这与总统的认知形成鲜明反差：特朗普以为自己挑选的是一位“当然想降息”的美联储主席。",
+   "notes": [
+    {
+     "w": "pivotal",
+     "ipa": "/ˈpɪvətl/",
+     "pos": "adj.",
+     "en": "extremely important because it has a decisive effect on the future",
+     "zh": "关键的，举足轻重的",
+     "ctx": "比 important 更狠，强调“能左右走向”——这场中期选举就是那个转轴。",
+     "ex1": "She played a pivotal role in the negotiations. 她在谈判中发挥了关键作用。",
+     "ex2": "This was a pivotal moment in the company's history. 这是公司历史上一个决定性的时刻。"
+    },
+    {
+     "w": "tame",
+     "ipa": "/teɪm/",
+     "pos": "v.",
+     "en": "to bring something under control, especially something harmful or disorderly",
+     "zh": "驯服，控制住，遏制",
+     "ctx": "本义“驯服野兽”，此处指把通胀这头失控的野兽压下去，常用于通胀、危机语境。",
+     "ex1": "The government is struggling to tame rising food prices. 政府正努力遏制食品价格上涨。",
+     "ex2": "It took years to tame the inflation that followed the war. 战后通胀花了数年才被控制住。"
+    },
+    {
+     "w": "pulse",
+     "ipa": "/pʌls/",
+     "pos": "v.",
+     "en": "to move or flow with a strong, regular rhythm; to be full of intense activity",
+     "zh": "涌动，跳动，澎湃",
+     "ctx": "脉搏跳动的画面——通胀像心跳一样持续有力地冲击整个美国经济，带动态、蔓延的画面感。",
+     "ex1": "Excitement pulsed through the crowd as the results came in. 结果揭晓时，兴奋在人群中涌动。",
+     "ex2": "Anger pulsed through the city after the verdict. 判决之后，愤怒在这座城市里涌动。"
+    },
+    {
+     "w": "contrast sharply with",
+     "ipa": "/kənˈtrɑːst ˈʃɑːpli wɪð/",
+     "pos": "phr.",
+     "en": "to be very different from something in a way that is striking or obvious",
+     "zh": "与……形成鲜明对比",
+     "ctx": "沃什放出的加息信号，撞上特朗普“我选了个想降息的人”的认知；sharply 让这道反差更刺眼。",
+     "ex1": "Her calm tone contrasted sharply with his angry outburst. 她平静的语气与他的暴怒形成鲜明对比。",
+     "ex2": "The company's soaring profits contrast sharply with the struggles of its rivals. 该公司飙升的利润与竞争对手的困境形成鲜明对比。"
+    }
+   ]
+  },
+  {
+   "en_html": "Trump was quick to hit out at the Fed on Wednesday, saying on his Truth Social platform that “Interest Rates in the United States should be 1%, or less, because we are the Best Credit in the World — BY FAR”. Trump later said he had confidence in Warsh, with whom he has a longstanding personal relationship, and deflected blame on to the Fed board, which includes former chair Jay Powell, whom the president has previously called a “<mark class=\"voc\">moron</mark>” for not lowering rates. It also includes <mark class=\"voc\">governor</mark> Lisa Cook, whom Trump tried to <mark class=\"voc\">sack</mark> before he was stopped by the Supreme Court. “I told Kevin, I said, you might as well vote with the board because it’s just not going to matter. The board is very <mark class=\"voc\">hostile</mark>,” Trump told reporters.",
+   "zh": "特朗普周三迅速对美联储开火，在其“真相社交”平台上发文称：“美国的利率应该是1%，或者更低，因为我们是全世界最好的信用——遥遥领先。”特朗普随后表示，他对沃什仍有信心，两人私交甚笃；同时他把矛头转向美联储理事会，其中包括前主席杰伊·鲍威尔——总统此前曾因他不降息而骂他是“白痴”。理事会中还有理事莉萨·库克，特朗普曾试图将她解职，但被最高法院拦下。“我跟凯文说了，我说，你干脆跟理事会一起投票算了，反正也没用。理事会敌意很重，”特朗普对记者说。",
+   "notes": [
+    {
+     "w": "moron",
+     "ipa": "/ˈmɔːrɒn/",
+     "pos": "n.",
+     "en": "a stupid person (informal, offensive)",
+     "zh": "白痴，蠢货",
+     "ctx": "特朗普骂不降息的鲍威尔用的词，粗鲁带侮辱；新闻直接引用，正是他攻击对手的用词风格。",
+     "ex1": "He called his opponent a moron during the debate. 他在辩论中称对手是白痴。",
+     "ex2": "Only a moron would ignore such obvious warnings. 只有白痴才会无视如此明显的警告。"
+    },
+    {
+     "w": "governor",
+     "ipa": "/ˈɡʌvənə(r)/",
+     "pos": "n.",
+     "en": "a member of the board of a central bank, especially the US Federal Reserve",
+     "zh": "理事（央行理事会成员）",
+     "ctx": "央行语境里不是“州长”，而是美联储理事会成员——莉萨·库克就是这个身份。",
+     "ex1": "The governor voted against the rate cut. 这位美联储理事投票反对降息。",
+     "ex2": "She was appointed as a governor of the central bank last year. 她去年被任命为央行理事。"
+    },
+    {
+     "w": "sack",
+     "ipa": "/sæk/",
+     "pos": "v.",
+     "en": "to dismiss someone from their job (informal, British)",
+     "zh": "解雇，炒鱿鱼",
+     "ctx": "比 dismiss 随意得多，一股“炒掉”的味道——特朗普想炒库克，被最高法院拦住。",
+     "ex1": "He was sacked for repeatedly missing deadlines. 他因屡次错过截止日期被解雇。",
+     "ex2": "The manager threatened to sack anyone who leaked the memo. 经理威胁要炒掉任何泄露备忘录的人。"
+    },
+    {
+     "w": "hostile",
+     "ipa": "/ˈhɒstaɪl/",
+     "pos": "adj.",
+     "en": "unfriendly and opposed to someone or something",
+     "zh": "敌意的，敌对的",
+     "ctx": "特朗普说“理事会敌意很重”——不友好、处处作对，带着对抗的火气。",
+     "ex1": "The proposal met with a hostile reception from shareholders. 该提案遭到股东的敌意对待。",
+     "ex2": "He faced a hostile audience at the town hall meeting. 他在市政厅会议上面对一群充满敌意的听众。"
+    }
+   ]
+  },
+  {
+   "en_html": "Trump’s apparent <mark class=\"voc\">concession</mark> that he is unable to bend the Fed to his will comes as his tariffs and the Middle East conflict have <mark class=\"voc\">conspired</mark> to <mark class=\"voc\">inflame</mark> an affordability crisis that he has <mark class=\"voc\">dismissed</mark> as a “<mark class=\"voc\">hoax</mark>”. “There’s a lot of very clear evidence that the policies of the White House — tariffs and the conflict in the Middle East — have pushed up inflation,” said Claudia Sahm, a former Fed official who is now chief economist at New Century Advisors.",
+   "zh": "特朗普显然承认自己无法令美联储屈从于他的意志。与此同时，他的关税政策和中东冲突共同加剧了一场“负担能力危机”，而他却将其斥为“骗局”。“有大量非常明确的证据表明，白宫的政策——关税和中东冲突——推高了通胀，”前美联储官员、现新世纪顾问公司首席经济学家克劳迪娅·萨姆表示。",
+   "notes": [
+    {
+     "w": "concession",
+     "ipa": "/kənˈseʃn/",
+     "pos": "n.",
+     "en": "a statement or act that admits something is true, often unwillingly",
+     "zh": "承认，让步",
+     "ctx": "不情愿地承认——特朗普等于默认自己动不了美联储，常见搭配 make a concession。",
+     "ex1": "His silence was seen as a concession that he had been wrong. 他的沉默被视为承认自己错了。",
+     "ex2": "The government made no concession on the key issue. 政府在关键问题上没有让步。"
+    },
+    {
+     "w": "conspire",
+     "ipa": "/kənˈspaɪə(r)/",
+     "pos": "v.",
+     "en": "to combine or work together to produce a particular result, often a bad one",
+     "zh": "共同导致，凑在一起酿成",
+     "ctx": "不是“阴谋”，而是几股力量合力办成一件坏事：关税与中东冲突一起把危机烧得更旺。",
+     "ex1": "Bad weather and poor planning conspired to ruin the event. 恶劣天气和糟糕的策划共同毁掉了这场活动。",
+     "ex2": "Several factors conspired to bring about the financial crisis. 多重因素合力酿成了这场金融危机。"
+    },
+    {
+     "w": "inflame",
+     "ipa": "/ɪnˈfleɪm/",
+     "pos": "v.",
+     "en": "to make a situation, feeling, or problem worse or more intense",
+     "zh": "加剧，激化，煽动",
+     "ctx": "本义“使燃烧”，此处是往火里浇油——让危机更烈，常用于矛盾、危机语境。",
+     "ex1": "His remarks only inflamed the tensions between the two sides. 他的言论只是加剧了双方的紧张关系。",
+     "ex2": "Rising prices have inflamed public anger. 物价上涨激化了公众的愤怒。"
+    },
+    {
+     "w": "dismiss",
+     "ipa": "/dɪsˈmɪs/",
+     "pos": "v.",
+     "en": "to decide that something is not important and not worth considering",
+     "zh": "不予理会，斥为，对……不屑一顾",
+     "ctx": "不是“解雇”，而是居高临下地打发了事——他把危机一口斥为“骗局”。",
+     "ex1": "She dismissed the criticism as irrelevant. 她斥之为无关紧要的批评。",
+     "ex2": "The company dismissed the rumors as pure speculation. 该公司称这些传言纯属猜测，不予理会。"
+    },
+    {
+     "w": "hoax",
+     "ipa": "/həʊks/",
+     "pos": "n.",
+     "en": "a trick or lie intended to deceive people",
+     "zh": "骗局，谎言",
+     "ctx": "特朗普给“负担能力危机”贴的标签：编出来的假问题，是对手炮制的议题。",
+     "ex1": "The bomb threat turned out to be a hoax. 炸弹威胁最终被证明是一场骗局。",
+     "ex2": "He insisted the whole scandal was a hoax. 他坚称整个丑闻是一场骗局。"
+    }
+   ]
+  },
+  {
+   "en_html": "Since Warsh’s <mark class=\"voc\">nomination</mark> in January, the big inflation driver has been a rise in petrol and <mark class=\"voc\">diesel</mark> prices — an increase that has cost American <mark class=\"voc\">households</mark> an extra $108bn since the <mark class=\"voc\">outbreak</mark> of the president’s war with Iran, according to a Brown University tracker. “Trump’s tariffs and the war in Iran are driving prices up,” said Jeff Colgan, professor at Brown University. “To a large extent, the inflation that the Fed is fighting is a problem of President Trump’s own making.”",
+   "zh": "自沃什1月获得提名以来，通胀的主要推手是汽油和柴油价格上涨。据布朗大学的一项追踪数据，自总统对伊朗开战以来，这一涨幅已让美国家庭多支出1080亿美元。“特朗普的关税和伊朗战争正在推高物价，”布朗大学教授杰夫·科尔根说。“美联储正在对抗的通胀，在很大程度上是特朗普总统自己造成的问题。”",
+   "notes": [
+    {
+     "w": "nomination",
+     "ipa": "/ˌnɒmɪˈneɪʃn/",
+     "pos": "n.",
+     "en": "the act of officially suggesting someone for a position or job",
+     "zh": "提名，任命",
+     "ctx": "指特朗普 1 月正式提名沃什出任美联储主席那一刻，也是这轮通胀叙事的起点。",
+     "ex1": "Her nomination to the Supreme Court was confirmed last month. 她对最高法院的提名上月获得确认。",
+     "ex2": "The nomination process dragged on for weeks. 提名过程拖了数周。"
+    },
+    {
+     "w": "diesel",
+     "ipa": "/ˈdiːzl/",
+     "pos": "n.",
+     "en": "a type of heavy fuel used in engines, or a vehicle that uses it",
+     "zh": "柴油",
+     "ctx": "与 petrol 汽油并列，是能源涨价里的另一半——柴油一贵，运输物流全跟着贵。",
+     "ex1": "Diesel prices have risen sharply this year. 今年柴油价格大幅上涨。",
+     "ex2": "The truck runs on diesel. 这辆卡车烧柴油。"
+    },
+    {
+     "w": "household",
+     "ipa": "/ˈhaʊshəʊld/",
+     "pos": "n.",
+     "en": "all the people living together in one house",
+     "zh": "家庭，住户",
+     "ctx": "经济报道的常用计量单位——不是按“人”，是按“一户”来摊这 1080 亿美元。",
+     "ex1": "The average household spends a quarter of its income on housing. 普通家庭把四分之一的收入花在住房上。",
+     "ex2": "Rising energy bills are squeezing household budgets. 能源账单上涨正在挤压家庭预算。"
+    },
+    {
+     "w": "outbreak",
+     "ipa": "/ˈaʊtbreɪk/",
+     "pos": "n.",
+     "en": "the sudden start of something unpleasant, especially war or disease",
+     "zh": "爆发，发生",
+     "ctx": "the outbreak of the war 是固定搭配“战争爆发”——多花的钱就从这一刻开始算。",
+     "ex1": "The outbreak of war sent oil prices soaring. 战争爆发导致油价飙升。",
+     "ex2": "Since the outbreak of the pandemic, remote work has become common. 自疫情爆发以来，远程办公已变得普遍。"
+    }
+   ]
+  },
+  {
+   "en_html": "Kush Desai, Trump’s spokesperson on economic matters, described the Fed’s move as “<mark class=\"voc\">unfortunate</mark>”, claiming it would “punish businesses who are trying to expand and grow” “To the extent that we still <mark class=\"voc\">do</mark> have inflation, as the president and others have noted, it’s entirely driven by an energy supply shock, by what’s going on with oil prices in the Middle East,” Desai told Fox News.",
+   "zh": "特朗普的经济事务发言人库什·德赛将美联储此举形容为“不幸”，声称这将“惩罚那些想要扩张和发展的企业”。德赛对福克斯新闻表示：“正如总统和其他人所指出的，如果我们确实仍有通胀，那完全是由能源供应冲击、由中东油价局势所驱动的。”",
+   "notes": [
+    {
+     "w": "unfortunate",
+     "ipa": "/ʌnˈfɔːtʃənət/",
+     "pos": "adj.",
+     "en": "regrettable or unsuitable; used to describe something you wish had not happened",
+     "zh": "不幸的，令人遗憾的",
+     "ctx": "表面客气、实则批评的委婉否定——发言人说“不幸”，就是在骂这个决定。",
+     "ex1": "It was unfortunate that the meeting was cancelled at the last minute. 会议在最后一刻取消，实在令人遗憾。",
+     "ex2": "He described the decision as unfortunate but necessary. 他称这一决定令人遗憾，但实属必要。"
+    },
+    {
+     "w": "do + v.",
+     "ipa": "/duː/",
+     "pos": "phr.",
+     "en": "used to emphasize the main verb in affirmative sentences",
+     "zh": "用于强调谓语动词",
+     "ctx": "we still do have inflation 里的 do 是强调——“我们确实还有通胀”，语气一下硬了。",
+     "ex1": "I do believe she is telling the truth. 我确实相信她说的是真话。",
+     "ex2": "He does work hard, even if he complains a lot. 他确实很努力，尽管他抱怨很多。"
+    }
+   ]
+  },
+  {
+   "en_html": "While another rate rise at the next Fed vote — set for late October, days before the midterms — is seen by some as unlikely, markets are pricing in at least one more increase before the end of the year. Short-term US Treasury <mark class=\"voc\">yields</mark>, which reflect <mark class=\"voc\">monetary</mark> policy expectations, rose sharply in response to Wednesday’s decision as traders <mark class=\"voc\">interpreted</mark> Warsh’s remarks as <mark class=\"voc\">hawkish</mark>.",
+   "zh": "虽然一些人认为美联储下次投票——定于10月下旬，中期选举前几天——再次加息的可能性不大，但市场已定价至少还有一次加息会在年底前到来。反映货币政策预期的美国短期国债收益率周三应声大幅上升，因交易员将沃什的言论解读为鹰派。",
+   "notes": [
+    {
+     "w": "yield",
+     "ipa": "/jiːld/",
+     "pos": "n.",
+     "en": "the amount of profit or income produced by an investment",
+     "zh": "收益率",
+     "ctx": "指国债的回报率，是市场判断货币政策预期最灵敏的仪表盘。",
+     "ex1": "Bond yields rose after the central bank's hawkish statement. 央行发表鹰派声明后，债券收益率上升。",
+     "ex2": "Investors are chasing higher yields in emerging markets. 投资者在新兴市场追逐更高的收益率。"
+    },
+    {
+     "w": "monetary",
+     "ipa": "/ˈmʌnɪtri/",
+     "pos": "adj.",
+     "en": "relating to money or the money supply of a country",
+     "zh": "货币的，金融的",
+     "ctx": "monetary policy 是固定搭配“货币政策”，即央行调控利率与货币供给的那套工具。",
+     "ex1": "The central bank tightened monetary policy to fight inflation. 央行收紧货币政策以对抗通胀。",
+     "ex2": "Monetary policy has a lagged effect on the economy. 货币政策对经济的影响存在滞后。"
+    },
+    {
+     "w": "interpret",
+     "ipa": "/ɪnˈtɜːprɪt/",
+     "pos": "v.",
+     "en": "to understand or explain the meaning of something in a particular way",
+     "zh": "解读，理解",
+     "ctx": "交易员把沃什的话“读”成了鹰派——常与 as 连用。",
+     "ex1": "Investors interpreted the remarks as a signal of tighter policy. 投资者将这些言论解读为收紧政策的信号。",
+     "ex2": "Her silence was interpreted as agreement. 她的沉默被理解为同意。"
+    },
+    {
+     "w": "hawkish",
+     "ipa": "/ˈhɔːkɪʃ/",
+     "pos": "adj.",
+     "en": "favoring higher interest rates and a tougher stance on inflation",
+     "zh": "鹰派的",
+     "ctx": "央行语境的核心术语，与 dovish 鸽派相对——鹰派倾向加息、对通胀强硬。",
+     "ex1": "The hawkish tone of the statement pushed bond yields higher. 声明的鹰派基调推高了债券收益率。",
+     "ex2": "Markets fear a hawkish shift at the central bank. 市场担心央行转向鹰派。"
+    }
+   ]
+  },
+  {
+   "en_html": "But many said Wednesday’s increase had helped <mark class=\"voc\">allay</mark> those concerns. “Fed credibility is already <mark class=\"voc\">on the line</mark> because we’ve had more than five years of high inflation — the longest <mark class=\"voc\">bout</mark> of inflation since the late 1970s, early 1980s, and it has <mark class=\"voc\">compounded</mark>,” said Diane Swonk, chief economist at KPMG US. “Nobody necessarily wants to be <mark class=\"voc\">at the helm</mark> at a pivotal moment, but Kevin Warsh is there. And he did his job.”",
+   "zh": "但许多人表示，周三的加息有助于缓解这些担忧。“美联储的信誉已经岌岌可危，因为我们已经经历了五年多的高通胀——这是自1970年代末、1980年代初以来最长的一轮通胀，而且已经积重难返，”毕马威美国首席经济学家黛安·斯旺克说。“未必有人愿意在关键时刻掌舵，但凯文·沃什就在那个位置上。而他尽职了。”",
+   "notes": [
+    {
+     "w": "allay",
+     "ipa": "/əˈleɪ/",
+     "pos": "v.",
+     "en": "to make a feeling such as fear or worry less intense",
+     "zh": "缓解，平息，减轻",
+     "ctx": "allay concerns/fears 是固定搭配，指“打消疑虑”——这次加息反倒把疑虑按下去了。",
+     "ex1": "The chairman's statement helped allay investors' fears. 董事长的声明有助于缓解投资者的担忧。",
+     "ex2": "The government tried to allay public concerns about safety. 政府试图缓解公众对安全的担忧。"
+    },
+    {
+     "w": "on the line",
+     "ipa": "/ɒn ðə laɪn/",
+     "pos": "phr.",
+     "en": "at risk of being lost or harmed",
+     "zh": "岌岌可危，面临风险",
+     "ctx": "固定搭配，指“悬在线上、随时可能不保”——这里悬着的是美联储的信誉。",
+     "ex1": "His reputation is on the line if the deal falls through. 如果交易失败，他的名声就岌岌可危了。",
+     "ex2": "Thousands of jobs are on the line. 数千个工作岗位面临风险。"
+    },
+    {
+     "w": "bout",
+     "ipa": "/baʊt/",
+     "pos": "n.",
+     "en": "a short period of intense activity, especially something unpleasant",
+     "zh": "一阵，一轮，一段",
+     "ctx": "a bout of inflation＝“一轮通胀”，强调来势猛、拖得久。",
+     "ex1": "The country suffered a prolonged bout of inflation. 该国经历了一轮旷日持久的通胀。",
+     "ex2": "He's recovering from a bout of flu. 他正从一场流感中恢复。"
+    },
+    {
+     "w": "compound",
+     "ipa": "/kəmˈpaʊnd/",
+     "pos": "v.",
+     "en": "to make a problem or difficult situation worse",
+     "zh": "加剧，使恶化",
+     "ctx": "比 worsen 多一层“层层叠加、越滚越大”——通胀是这么累积起来的。",
+     "ex1": "The delay compounded the company's financial troubles. 延期加剧了公司的财务困境。",
+     "ex2": "Poor communication compounded the crisis. 沟通不畅加剧了危机。"
+    },
+    {
+     "w": "at the helm",
+     "ipa": "/æt ðə helm/",
+     "pos": "phr.",
+     "en": "in charge of an organization or situation",
+     "zh": "掌舵，掌权，主事",
+     "ctx": "本义“站在船舵旁”，引申为掌管大局——关键时刻谁在掌舵。",
+     "ex1": "She took over at the helm of the company during a difficult period. 她在困难时期接手执掌公司。",
+     "ex2": "The new CEO is now at the helm. 新任首席执行官现已掌舵。"
+    }
+   ]
+  },
+  {
+   "en_html": "When <mark class=\"voc\">quizzed</mark> about the president’s likely response to the decision earlier in the day, Warsh offered only a <mark class=\"voc\">wry</mark> smile. “What the president does and doesn’t like is his <mark class=\"voc\">prerogative</mark>,” said Joe LaVorgna, a former economic <mark class=\"voc\">counsellor</mark> to US Treasury secretary Scott Bessent who is now chief economist for the Americas at SMBC Nikko Securities. “But his views aren’t going to persuade the committee if they’re <mark class=\"voc\">inconsistent</mark> with the <mark class=\"voc\">fundamentals</mark>.”",
+   "zh": "当天早些时候，当被问及总统可能如何回应这一决定时，沃什只是苦笑了一下。“总统喜欢什么、不喜欢什么，是他的特权，”前美国财政部长斯科特·贝森特的经济顾问、现SMBC日兴证券美洲首席经济学家乔·拉沃尼亚说。“但如果他的观点与基本面不符，那就说服不了委员会。”",
+   "notes": [
+    {
+     "w": "quiz",
+     "ipa": "/kwɪz/",
+     "pos": "v.",
+     "en": "to ask someone questions, especially to test their knowledge or get information",
+     "zh": "追问，盘问，询问",
+     "ctx": "比 ask 多了“连番追问、把人问住”的意味——记者围上来的那一刻。",
+     "ex1": "Reporters quizzed the minister about the budget cuts. 记者追问部长有关预算削减的问题。",
+     "ex2": "She was quizzed by police for hours. 她被警方盘问了几个小时。"
+    },
+    {
+     "w": "wry",
+     "ipa": "/raɪ/",
+     "pos": "adj.",
+     "en": "showing dry humor, especially about a difficult situation",
+     "zh": "苦笑的，揶揄的，带点自嘲的",
+     "ctx": "a wry smile 就是苦笑——无奈、自嘲、克制，一个字都不多说。",
+     "ex1": "He gave a wry smile when asked about his failed bid. 被问及失败的竞标时，他苦笑了一下。",
+     "ex2": "She has a wry sense of humor. 她有一种揶揄式的幽默感。"
+    },
+    {
+     "w": "prerogative",
+     "ipa": "/prɪˈrɒɡətɪv/",
+     "pos": "n.",
+     "en": "a right or privilege that a particular person or group has",
+     "zh": "特权，权限，分内之权",
+     "ctx": "某人有权自行决定的事——总统喜欢谁、不喜欢谁是自由，但这自由到不了利率上。",
+     "ex1": "It's your prerogative to change your mind. 改变主意是你的权利。",
+     "ex2": "The choice of successor is the chairman's prerogative. 选择继任者是董事长的特权。"
+    },
+    {
+     "w": "counsellor",
+     "ipa": "/ˈkaʊnsələ(r)/",
+     "pos": "n.",
+     "en": "an adviser, especially one attached to a government or embassy",
+     "zh": "顾问",
+     "ctx": "美式拼作 counselor，指政府或机构的顾问，比 adviser 更正式。",
+     "ex1": "He served as economic counsellor to the prime minister. 他曾担任首相的经济顾问。",
+     "ex2": "The embassy's counsellor handled the negotiations. 大使馆的顾问负责了谈判。"
+    },
+    {
+     "w": "inconsistent",
+     "ipa": "/ˌɪnkənˈsɪstənt/",
+     "pos": "adj.",
+     "en": "not in agreement with something; not staying the same",
+     "zh": "不一致的，相矛盾的",
+     "ctx": "be inconsistent with 是固定搭配“与……不符”——观点对不上现实，就说服不了人。",
+     "ex1": "His actions are inconsistent with his words. 他的行动与言辞不一致。",
+     "ex2": "The data is inconsistent with earlier findings. 这些数据与早先的发现相矛盾。"
+    },
+    {
+     "w": "fundamental",
+     "ipa": "/ˌfʌndəˈmentl/",
+     "pos": "n.",
+     "en": "a basic principle or fact that is essential to understanding a situation",
+     "zh": "基本面，基本原理",
+     "ctx": "金融语境里 fundamentals 指“基本面”，即决定经济与资产价值的根本因素——此处就是经济现实。",
+     "ex1": "The stock's price is out of line with its fundamentals. 该股股价与其基本面不符。",
+     "ex2": "Investors are focused on the fundamentals of the economy. 投资者关注的是经济基本面。"
+    }
+   ]
+  }
+ ],
+ "proper": [
+  {
+   "name": "Federal Reserve / 美联储",
+   "def": "美国的中央银行，全称美国联邦储备系统，成立于 1913 年，由位于华盛顿的理事会和分布在全美各地的 12 家地区储备银行组成。核心职能包括制定货币政策、调控市场利率、稳定物价、促进充分就业、监管银行体系、维护金融稳定。最常用的政策工具是调整联邦基金利率，即银行之间隔夜拆借资金的利率，这个利率会层层传导到房贷、车贷、信用卡、企业贷款等各类借贷成本上。美联储历来强调“独立性”：利率决策应基于经济数据和长期目标，而不是听命于总统或短期政治需要，以防政客为选举前的短期繁荣而滥发货币、压低利率，最终酿成恶性通胀。<br>本文中的意思：全文冲突的舞台。特朗普要它降息刺激经济，主席沃什却推动加息压通胀，等于公开宣布自己不打算屈从于总统的意志。"
+  },
+  {
+   "name": "Kevin Warsh / 凯文·沃什",
+   "def": "文中现任美联储主席，由特朗普提名出任。他并非货币政策的“鸽派”，并不天然倾向低利率。上任不到四个月，他就推动美联储完成了自 2023 年以来的首次加息，并说服联邦公开市场委员会全部 12 名委员一致支持。这一点极具象征意义：他本是特朗普亲自挑选的人，特朗普期待他降息，他却用行动证明自己按经济形势、而非总统意愿行事。沃什与特朗普有长期私人关系，这让他的“不听话”更显戏剧性——不是敌人反目，而是自己人抗命。文中他面对记者追问时只是“苦笑”，这种克制也强化了他技术官僚而非政治附庸的形象。<br>本文中的意思：整篇报道的主角，一个“被自己人挑中、又当场翻脸”的央行行长。"
+  },
+  {
+   "name": "Federal Open Market Committee / 联邦公开市场委员会",
+   "def": "简称 FOMC，是美联储体系内真正决定利率的机构，堪称美国货币政策的“决策中枢”。由 12 名拥有投票权的成员组成：美联储理事会 7 名理事、纽约联储主席，以及其余 11 家地区联储主席中轮流担任的 4 位。通常每年召开 8 次会议，评估经济形势并投票决定利率，市场高度关注它的每一次会议，因为利率决定会立即影响全球股债汇市。<br>本文中的意思：那个“12 人全员赞成”的投票现场——没有一张分歧票，说明沃什不仅自己强硬，还把整个委员会拢到了一起。"
+  },
+  {
+   "name": "quarter-point rate rise / 加息 25 个基点",
+   "def": "“基点”是金融领域的标准计量单位，1 个基点等于 0.01 个百分点，25 个基点就是 0.25 个百分点。央行调整利率时通常以 25 个基点为一个常规步幅，偶尔也有 50 个基点的大幅调整。加息意味着借贷成本上升：房贷、企业贷款、信用卡利息都随之变贵，从而抑制消费和投资、给过热的经济降温，最终目的是压制通胀。<br>本文中的意思：这次加息的幅度，也是“三年首次”的分量所在——美联储在观望或降息周期之后，重新转向紧缩。"
+  },
+  {
+   "name": "midterm elections / 中期选举",
+   "def": "指美国总统大选之间举行的国会选举，通常在总统任期的第二年 11 月举行。届时众议院全部席位和参议院约三分之一席位改选，部分州长和州议会也同时改选。中期选举常被视为对在任总统的“期中考试”：如果经济不好、物价高企，执政党往往在选举中失利。正因如此，选举前的经济动作格外敏感。<br>本文中的意思：全文的时间坐标。加息距离关键的中期选举只有数周，时间点极其微妙——偏偏美联储还是加了。"
+  },
+  {
+   "name": "Truth Social / “真相社交”",
+   "def": "特朗普在 2021 年国会山骚乱后被推特、脸书等主流社交平台封禁，随后于 2022 年创立了自己的社交平台“真相社交”，作为发布政治声明、攻击对手、动员支持者的主要阵地。由于发言不受主流平台内容审核约束，他的帖文往往措辞直接、情绪强烈。<br>本文中的意思：那句“美国利率应该是 1%，或者更低”的发布地——典型的夸张、口号式表达。"
+  },
+  {
+   "name": "Fed board / 美联储理事会",
+   "def": "美联储体系的核心治理机构，位于华盛顿，由 7 名理事组成，包括主席、副主席各一名。理事由总统提名、参议院确认，任期长达 14 年，且任期交错安排，目的是让理事会不受某一届政府或短期政治周期左右。理事会与 12 家地区联储银行共同组成联邦公开市场委员会，对利率决策拥有投票权。<br>本文中的意思：特朗普甩锅的对象。他称“理事会敌意很重”，言下之意是：即便沃什愿意配合，其他人也会拦着——既为沃什开脱，也为自己动不了货币政策找台阶。"
+  },
+  {
+   "name": "Jay Powell / 杰伊·鲍威尔",
+   "def": "美联储前主席，2018 年起担任主席，此前由特朗普提名，但后来与特朗普关系恶化。特朗普多次公开批评他不降息，甚至骂他是“白痴”和“更大的敌人”。鲍威尔在任期间强调美联储独立性，顶住了来自白宫的巨大政治压力。<br>本文中的意思：一个“骂归骂、还在投票”的旧账——他如今仍是理事会成员，依然握着利率决策的票，这让特朗普的恼火更添一层。"
+  },
+  {
+   "name": "Lisa Cook / 莉萨·库克",
+   "def": "美联储理事，也是美联储历史上首位非裔女性理事。她由拜登提名进入理事会，在货币政策上通常被视为偏向关注就业和包容性增长。特朗普曾试图将她解职，但被最高法院拦下。这一事件的重要性在于它触及美联储独立性的底线：如果总统可以随意撤换理事，美联储就可能沦为政治工具。<br>本文中的意思：特朗普与理事会紧张关系从“口头批评”升级为“人事清洗、又被司法拦阻”的活证据。"
+  },
+  {
+   "name": "Supreme Court / 最高法院",
+   "def": "美国联邦司法系统的最高审级，由 9 名大法官组成，拥有对宪法和联邦法律的最终解释权，其裁决对美国政治、经济、社会具有深远影响。<br>本文中的意思：那道拦住特朗普的闸门——它挡住了对库克的解职，说明理事的任免受法律保护，总统不能随意撤换。"
+  },
+  {
+   "name": "tariffs / 关税",
+   "def": "政府对进口商品征收的税，由进口商缴纳，通常会被部分或全部转嫁给消费者，从而推高物价。特朗普在任内大幅提高对多国商品的关税，声称这是为了保护美国制造业、缩小贸易逆差、迫使贸易伙伴让步。但主流经济学界普遍认为，关税会抬高进口成本，最终加重美国企业和消费者的负担，并可能推高整体通胀。<br>本文中的意思：被点名的通胀推手之一——白宫自己的政策，正是要压通胀的美联储在收拾的那个摊子。"
+  },
+  {
+   "name": "affordability crisis / 负担能力危机",
+   "def": "指普通民众越来越难以负担住房、食品、能源、医疗等基本生活开支的状况。不是说商品消失了，而是价格涨得太快、工资跟不上，让人感到“买不起”。在美国政治语境中，“负担能力”是选民最关心的经济议题之一，在大选和中期选举中极具杀伤力。<br>本文中的意思：特朗普斥之为“骗局”的那场危机；而经济学家指出，关税和军事冲突确实在推高物价，危机真实存在。"
+  },
+  {
+   "name": "Claudia Sahm / 克劳迪娅·萨姆",
+   "def": "前美联储官员，现为新世纪顾问公司首席经济学家。她以提出“萨姆规则”而闻名，该规则用于判断美国经济是否已进入衰退。作为前美联储内部人士，她的观点在市场和媒体中颇具分量。<br>本文中的意思：她直言白宫的政策——关税和中东冲突——推高了通胀，等于把矛头指向特朗普本人。"
+  },
+  {
+   "name": "Brown University / 布朗大学",
+   "def": "美国常春藤盟校之一，位于罗德岛州普罗维登斯，以学术自由和跨学科研究著称。<br>本文中的意思：那组“每户多掏 1080 亿美元”数据的出处——引用大学追踪数据，是新闻写作中增强说服力与客观性的常见做法。"
+  },
+  {
+   "name": "Iran / 伊朗",
+   "def": "中东地区重要国家，拥有丰富石油资源，长期与美国关系紧张。<br>本文中的意思：那场“总统的战争”的另一方——战事推高油价、威胁能源供应，再传导为美国国内的通胀压力，把物价问题与海外军事冲突直接挂钩。"
+  },
+  {
+   "name": "Jeff Colgan / 杰夫·科尔根",
+   "def": "布朗大学教授，研究领域涉及国际关系和能源政治。<br>本文中的意思：他说出了全篇最尖锐的一句——美联储正在对抗的通胀，很大程度上是特朗普总统自己造成的问题；矛盾由此从“政策分歧”升级为“白宫制造问题、美联储收拾残局”。"
+  },
+  {
+   "name": "Kush Desai / 库什·德赛",
+   "def": "特朗普在经济事务上的发言人，负责在媒体上为白宫经济政策辩护。<br>本文中的意思：他把加息说成“不幸”、说成“惩罚想扩张的企业”，并把通胀全推给外部——白宫标准话术的现场示范。"
+  },
+  {
+   "name": "energy supply shock / 能源供应冲击",
+   "def": "指能源供应因战争、制裁、自然灾害或政治冲突而突然中断或减少，导致油价、天然气价格急剧上涨的现象。能源是几乎所有生产和运输环节的基础成本，能源价格飙升会迅速传导到食品、交通、制造等各领域，形成全面通胀。<br>本文中的意思：德赛给通胀找的“外部替罪羊”——把责任推给中东局势，而不是特朗普的关税或军事行动。"
+  },
+  {
+   "name": "US Treasury yields / 美国国债收益率",
+   "def": "美国国债是美国政府发行的债券，被视为全球最安全的资产之一。国债收益率就是投资者持有国债所能获得的回报率，与债券价格反向变动。收益率上升通常意味着市场预期利率更高、通胀更强，或对财政状况的担忧加剧。短期国债收益率尤其敏感，因为它直接反映市场对美联储近期利率路径的预期。<br>本文中的意思：市场听懂了沃什的鹰派信号——加息决定一出，短期美债收益率应声大涨，等于替交易员投了一张“还会再加”的票。"
+  },
+  {
+   "name": "hawkish / 鹰派的",
+   "def": "央行语境中的核心术语，源自“鹰”这种猛禽，象征强硬、主动出击。鹰派立场指倾向于加息、收紧货币、优先压制通胀；与之相对的“鸽派”（dovish）则倾向降息、宽松货币、优先保增长和就业。<br>本文中的意思：交易员对沃什讲话的定性——市场认为他还会继续加息或维持高利率，而不是很快转向降息。"
+  },
+  {
+   "name": "Diane Swonk / 黛安·斯旺克",
+   "def": "毕马威美国首席经济学家，长期跟踪美联储政策和宏观经济，在业界有较高知名度。<br>本文中的意思：她说美联储信誉已岌岌可危（五年多的高通胀、积重难返），同时肯定沃什“尽职了”——既批评美联储，也认可这位新主席。"
+  },
+  {
+   "name": "late 1970s, early 1980s / 1970 年代末、1980 年代初",
+   "def": "指美国历史上最严重的一段通胀时期。当时通胀率一度高达两位数，时任美联储主席保罗·沃尔克为压制通胀，不惜把利率加到 20% 左右，引发严重衰退，但最终成功把通胀压了下去。这段历史在美联储内部被视为“信誉来之不易”的教训：央行必须敢于在政治压力下坚持紧缩，否则通胀预期一旦失控，后果极其严重。<br>本文中的意思：斯旺克用来做标尺的那段历史——当前这轮通胀的长度，已经追平了那个年代。"
+  },
+  {
+   "name": "Joe LaVorgna / 乔·拉沃尼亚",
+   "def": "前美国财政部长斯科特·贝森特的经济顾问，现为 SMBC 日兴证券美洲首席经济学家。他出身政府经济团队，又转投市场机构，既懂政策又懂市场，其评论常被媒体引用。<br>本文中的意思：他点破了整篇的核心逻辑——总统有表达偏好的特权，但货币政策最终由经济现实和委员会投票决定。"
+  }
+ ],
+ "sources_note": "资料核对：以上背景依据文章内容，并参考美联储与联邦公开市场委员会公开资料、布朗大学追踪数据、毕马威美国与 SMBC 日兴证券的公开评论，以及《金融时报》2026 年 9 月相关报道，截至 2026 年 9 月的公开信息。",
+ "practice": {
+  "intro": "请把下面的中文句子翻译成英文。这六句都出自今天的词汇卡例句，译完可对照参考答案检查词形与搭配。",
+  "items": [
+   "新任首席执行官试图让董事会屈从于他的意志，但董事们拒绝了。",
+   "她干脆地摇了摇头，回绝了他的帮忙。",
+   "他无视医生的建议，继续加班到深夜。",
+   "经理把整个团队召集到了会议室。",
+   "几家大投资人在早期力挺这家初创公司。",
+   "她平静的语气与他的暴怒形成鲜明对比。"
+  ],
+  "critical_en": "A central bank is independent precisely so that elected politicians cannot bend it. But if its decisions raise the cost of living weeks before an election, who should answer to the voters?",
+  "critical_zh": "央行之所以独立，正是为了让民选政客掰不动它。可当它的决定在选举前几周抬高了生活成本，又该由谁来向选民交代？",
+  "answer": "1. The new CEO tried to bend the board to his will, but the directors refused.<br><br>2. She rebuffed his offer of help with a curt shake of her head.<br><br>3. He disregarded the doctor’s advice and kept working late.<br><br>4. The manager corralled the whole team into the meeting room.<br><br>5. Several major investors backed the startup in its early days.<br><br>6. Her calm tone contrasted sharply with his angry outburst."
+ },
+ "mindmap": {
+  "aria": "特朗普与美联储加息文章思维导图",
+  "alt": "沃什顶住特朗普、美联储三年首次加息（手绘版）",
+  "img": "/Users/malen/outward-reading-site-prod/scripts/content/img/2026-09-20.jpg",
+  "svg": "<svg viewBox=\"0 0 960 720\" xmlns=\"http://www.w3.org/2000/svg\" role=\"img\" aria-label=\"特朗普与美联储加息文章思维导图\" style=\"width:100%;height:auto;font-family:-apple-system,'PingFang SC','Hiragino Sans GB','Microsoft YaHei',sans-serif\">\n        <rect x=\"24\" y=\"306\" width=\"176\" height=\"88\" rx=\"14\" fill=\"#eae3d2\" stroke=\"#9a8f76\"/>\n        <text x=\"112\" y=\"342\" text-anchor=\"middle\" fill=\"#3d3a34\" font-size=\"17\" font-weight=\"700\">三年来首次加息</text>\n        <text x=\"112\" y=\"368\" text-anchor=\"middle\" fill=\"#5c5648\" font-size=\"12.5\">川普钦点的主席翻了脸</text>\n\n        <path d=\"M200,350 C232,350 232,88 260,88\"  stroke=\"#6b8f71\" stroke-width=\"2\" fill=\"none\"/>\n        <path d=\"M200,350 C232,350 232,238 260,238\" stroke=\"#7d98ad\" stroke-width=\"2\" fill=\"none\"/>\n        <path d=\"M200,350 C232,350 232,433 260,433\" stroke=\"#bd7a6d\" stroke-width=\"2\" fill=\"none\"/>\n        <path d=\"M200,350 C232,350 232,628 260,628\" stroke=\"#9b86b3\" stroke-width=\"2\" fill=\"none\"/>\n\n        <g class=\"mm-branch\" data-target=\"bc1\">\n          <rect x=\"260\" y=\"71\" width=\"190\" height=\"34\" rx=\"8\" fill=\"#e6efe7\" stroke=\"#6b8f71\"/>\n          <text x=\"349\" y=\"93\" text-anchor=\"middle\" fill=\"#4c6b52\" font-size=\"15\" font-weight=\"700\">顶住总统（¶1–2）</text>\n          <text class=\"mm-arrow\" data-for=\"bc1\" x=\"442\" y=\"93\" text-anchor=\"end\" fill=\"#4c6b52\">▾</text>\n        </g>\n        <g class=\"mm-children\" id=\"bc1\">\n          <path d=\"M450,88 C462,88 462,46 480,46\" stroke=\"#6b8f71\" stroke-width=\"1.5\" fill=\"none\"/>\n          <path d=\"M450,88 C462,88 462,88 480,88\" stroke=\"#6b8f71\" stroke-width=\"1.5\" fill=\"none\"/>\n          <path d=\"M450,88 C462,88 462,130 480,130\" stroke=\"#6b8f71\" stroke-width=\"1.5\" fill=\"none\"/>\n          <rect x=\"480\" y=\"30\" width=\"456\" height=\"32\" rx=\"8\" fill=\"#e6efe7\"/><text x=\"492\" y=\"51\" fill=\"#3d3a34\" font-size=\"14\">沃什回绝了特朗普压低借贷成本的要求</text>\n          <rect x=\"480\" y=\"72\" width=\"456\" height=\"32\" rx=\"8\" fill=\"#e6efe7\"/><text x=\"492\" y=\"93\" fill=\"#3d3a34\" font-size=\"14\">12 名利率决策者全票支持加息 25 个基点</text>\n          <rect x=\"480\" y=\"114\" width=\"456\" height=\"32\" rx=\"8\" fill=\"#e6efe7\"/><text x=\"492\" y=\"135\" fill=\"#3d3a34\" font-size=\"14\">通胀太高、太久——懒得给总统留面子</text>\n        </g>\n\n        <g class=\"mm-branch\" data-target=\"bc2\">\n          <rect x=\"260\" y=\"221\" width=\"190\" height=\"34\" rx=\"8\" fill=\"#e5edf4\" stroke=\"#7d98ad\"/>\n          <text x=\"349\" y=\"243\" text-anchor=\"middle\" fill=\"#3d5872\" font-size=\"15\" font-weight=\"700\">白宫开火（¶3–4）</text>\n          <text class=\"mm-arrow\" data-for=\"bc2\" x=\"442\" y=\"243\" text-anchor=\"end\" fill=\"#3d5872\">▾</text>\n        </g>\n        <g class=\"mm-children\" id=\"bc2\">\n          <path d=\"M450,238 C462,238 462,196 480,196\" stroke=\"#7d98ad\" stroke-width=\"1.5\" fill=\"none\"/>\n          <path d=\"M450,238 C462,238 462,238 480,238\" stroke=\"#7d98ad\" stroke-width=\"1.5\" fill=\"none\"/>\n          <path d=\"M450,238 C462,238 462,280 480,280\" stroke=\"#7d98ad\" stroke-width=\"1.5\" fill=\"none\"/>\n          <rect x=\"480\" y=\"180\" width=\"456\" height=\"32\" rx=\"8\" fill=\"#e5edf4\"/><text x=\"492\" y=\"201\" fill=\"#3d3a34\" font-size=\"14\">真相社交发帖：利率该是 1% 或更低</text>\n          <rect x=\"480\" y=\"222\" width=\"456\" height=\"32\" rx=\"8\" fill=\"#e5edf4\"/><text x=\"492\" y=\"243\" fill=\"#3d3a34\" font-size=\"14\">转头把责任推给美联储理事会</text>\n          <rect x=\"480\" y=\"264\" width=\"456\" height=\"32\" rx=\"8\" fill=\"#e5edf4\"/><text x=\"492\" y=\"285\" fill=\"#3d3a34\" font-size=\"14\">骂鲍威尔白痴，还想炒掉理事库克</text>\n        </g>\n\n        <g class=\"mm-branch\" data-target=\"bc3\">\n          <rect x=\"260\" y=\"416\" width=\"190\" height=\"34\" rx=\"8\" fill=\"#f4e7e4\" stroke=\"#bd7a6d\"/>\n          <text x=\"349\" y=\"438\" text-anchor=\"middle\" fill=\"#7c4a3e\" font-size=\"15\" font-weight=\"700\">通胀谁之过（¶5–6）</text>\n          <text class=\"mm-arrow\" data-for=\"bc3\" x=\"442\" y=\"438\" text-anchor=\"end\" fill=\"#7c4a3e\">▾</text>\n        </g>\n        <g class=\"mm-children\" id=\"bc3\">\n          <path d=\"M450,433 C462,433 462,391 480,391\" stroke=\"#bd7a6d\" stroke-width=\"1.5\" fill=\"none\"/>\n          <path d=\"M450,433 C462,433 462,433 480,433\" stroke=\"#bd7a6d\" stroke-width=\"1.5\" fill=\"none\"/>\n          <path d=\"M450,433 C462,433 462,475 480,475\" stroke=\"#bd7a6d\" stroke-width=\"1.5\" fill=\"none\"/>\n          <rect x=\"480\" y=\"375\" width=\"456\" height=\"32\" rx=\"8\" fill=\"#f4e7e4\"/><text x=\"492\" y=\"396\" fill=\"#3d3a34\" font-size=\"14\">汽油柴油涨价，每户多掏 1080 亿美元</text>\n          <rect x=\"480\" y=\"417\" width=\"456\" height=\"32\" rx=\"8\" fill=\"#f4e7e4\"/><text x=\"492\" y=\"438\" fill=\"#3d3a34\" font-size=\"14\">萨姆与科尔根：这是白宫自己造的</text>\n          <rect x=\"480\" y=\"459\" width=\"456\" height=\"32\" rx=\"8\" fill=\"#f4e7e4\"/><text x=\"492\" y=\"480\" fill=\"#3d3a34\" font-size=\"14\">发言人德赛：不过是能源供应冲击</text>\n        </g>\n\n        <g class=\"mm-branch\" data-target=\"bc4\">\n          <rect x=\"260\" y=\"611\" width=\"190\" height=\"34\" rx=\"8\" fill=\"#ece4f2\" stroke=\"#9b86b3\"/>\n          <text x=\"349\" y=\"633\" text-anchor=\"middle\" fill=\"#5a4670\" font-size=\"15\" font-weight=\"700\">市场与定论（¶7–9）</text>\n          <text class=\"mm-arrow\" data-for=\"bc4\" x=\"442\" y=\"633\" text-anchor=\"end\" fill=\"#5a4670\">▾</text>\n        </g>\n        <g class=\"mm-children\" id=\"bc4\">\n          <path d=\"M450,628 C462,628 462,586 480,586\" stroke=\"#9b86b3\" stroke-width=\"1.5\" fill=\"none\"/>\n          <path d=\"M450,628 C462,628 462,628 480,628\" stroke=\"#9b86b3\" stroke-width=\"1.5\" fill=\"none\"/>\n          <path d=\"M450,628 C462,628 462,670 480,670\" stroke=\"#9b86b3\" stroke-width=\"1.5\" fill=\"none\"/>\n          <rect x=\"480\" y=\"570\" width=\"456\" height=\"32\" rx=\"8\" fill=\"#ece4f2\"/><text x=\"492\" y=\"591\" fill=\"#3d3a34\" font-size=\"14\">交易员把沃什的话读成了鹰派</text>\n          <rect x=\"480\" y=\"612\" width=\"456\" height=\"32\" rx=\"8\" fill=\"#ece4f2\"/><text x=\"492\" y=\"633\" fill=\"#3d3a34\" font-size=\"14\">短期美债收益率应声大涨</text>\n          <rect x=\"480\" y=\"654\" width=\"456\" height=\"32\" rx=\"8\" fill=\"#ece4f2\"/><text x=\"492\" y=\"675\" fill=\"#3d3a34\" font-size=\"14\">斯旺克：他尽职了；基本面说了算</text>\n        </g>\n      </svg>"
+ }
+}

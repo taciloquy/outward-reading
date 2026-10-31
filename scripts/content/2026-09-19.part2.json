@@ -1,0 +1,441 @@
+{
+ "paragraphs": [
+  {
+   "en_html": "The canal aims to give China’s <mark class=\"voc\">less-prosperous</mark> inland regions quicker and easier access to global sea lanes, <mark class=\"voc\">boosting</mark> local industry and strengthening trade with the Association of Southeast Asian Nations (Asean), China’s largest trading partner as a <mark class=\"voc\">bloc</mark>. That ambition is already <mark class=\"voc\">taking shape</mark>. Last Thursday, a <mark class=\"voc\">multimodal</mark> <mark class=\"voc\">freight</mark> train carrying more than 370 tonnes of construction machinery and other products arrived in Guangxi, after <mark class=\"voc\">departing from</mark> Hunan province, with the cargo <mark class=\"voc\">scheduled for</mark> export following the canal’s opening.",
+   "zh": "这条运河的用意，是让中国那些不那么富庶的内陆地区，能更快、更便捷地接上全球海运航道，既拉动本地产业，也加深与东盟的贸易往来——作为一个整体，东盟是中国最大的贸易伙伴。而这份雄心，早已不只是纸面文章：上周四，一列多式联运班列自湖南启程抵达广西，载着370多吨工程机械与其他货物，只待运河开航，便可出口。",
+   "notes": [
+    {
+     "w": "prosperous",
+     "ipa": "/ˈprɒspərəs/",
+     "pos": "adj.",
+     "en": "prosperous means successful in economic terms, especially by having money and good business",
+     "zh": "富裕的，繁荣的",
+     "ctx": "前加 less 是一种克制的委婉——不说 poor，只说“没那么富”；文中指因出海不便而发展受限的西南内陆。",
+     "ex1": "Coastal provinces remain far more prosperous than inland ones. 沿海省份仍比内陆省份富裕得多。",
+     "ex2": "Cheaper transport could bring new prosperity to the interior. 更廉价的运输可能为内陆带来新的繁荣。"
+    },
+    {
+     "w": "boost",
+     "ipa": "/buːst/",
+     "pos": "v. / n.",
+     "en": "boost means to increase, improve or encourage something, as if pushing it upwards from below",
+     "zh": "拉动，提振",
+     "ctx": "本义“从下往上托举”（booster 是助推器）；与第 8 段 spur（马刺，从后面催）正好是一前一后的两种“推”。",
+     "ex1": "Cheaper logistics should boost exports from the interior. 更低的物流成本应能拉动内陆出口。",
+     "ex2": "The new terminal gave the port a much-needed boost. 新码头给这座港口带来了一次急需的提振。"
+    },
+    {
+     "w": "bloc",
+     "ipa": "/blɒk/",
+     "pos": "n.",
+     "en": "a bloc is a group of countries that act together as a single unit for political or economic purposes",
+     "zh": "集团，阵营",
+     "ctx": "没有 k，别写成 block；文中 as a bloc 是关键限定——单看某一国未必最大，东盟十国合起来才是中国第一大贸易伙伴。",
+     "ex1": "Negotiating as a bloc gives smaller economies far more leverage. 以集团身份谈判让小经济体拥有大得多的筹码。",
+     "ex2": "The two blocs signed an upgraded free-trade agreement. 两大集团签署了升级版自贸协定。"
+    },
+    {
+     "w": "take shape",
+     "ipa": "/teɪk ʃeɪp/",
+     "pos": "固定短语",
+     "en": "to take shape means to begin to develop into a clear and recognisable form",
+     "zh": "成形，初具规模",
+     "ctx": "像陶土在转盘上慢慢显出器形；文中指“雄心”已经落成看得见的事实——班列已到广西等着开航。",
+     "ex1": "The trade corridor is finally taking shape after years of planning. 经过多年规划，这条贸易通道终于成形。",
+     "ex2": "Her career took shape only after she moved abroad. 她的事业是在出国之后才真正成形的。"
+    },
+    {
+     "w": "multimodal",
+     "ipa": "/ˌmʌltiˈməʊdl/",
+     "pos": "adj.",
+     "en": "multimodal means using more than one method of transport for the same shipment",
+     "zh": "多式联运的",
+     "ctx": "multi-（多）+ modal（方式）；同一批货由铁路、公路、水运接力运输，中途不重新装箱。",
+     "ex1": "Multimodal transport lets cargo switch from rail to ship without repacking. 多式联运让货物从铁路换到轮船时无需重新装箱。",
+     "ex2": "The new hub was designed to handle multimodal shipments. 这个新枢纽是为处理多式联运货物而设计的。"
+    },
+    {
+     "w": "freight",
+     "ipa": "/freɪt/",
+     "pos": "n.",
+     "en": "freight means goods transported in bulk, or the business of transporting such goods",
+     "zh": "货运；货物",
+     "ctx": "gh 不发音；比 cargo 更侧重“运输这件事”本身，陆运也适用，freight train 即货运列车。",
+     "ex1": "Rail freight volumes rose sharply ahead of the canal's opening. 运河通航前，铁路货运量大幅上升。",
+     "ex2": "Air freight is fast but far more expensive than sea freight. 空运快，但比海运贵得多。"
+    },
+    {
+     "w": "depart from",
+     "ipa": "/dɪˈpɑːt frəm/",
+     "pos": "固定搭配",
+     "en": "to depart from a place means to leave it, especially at the start of a journey",
+     "zh": "从……出发，启运",
+     "ctx": "运输语境里指从某地发车、发船；文中指那列班列自湖南启运、两天后抵达广西。",
+     "ex1": "The train departed from Hunan and reached Guangxi in two days. 这列火车自湖南发出，两天后抵达广西。",
+     "ex2": "All services departed on schedule despite the weather. 尽管天气不佳，所有班次仍按时发出。"
+    },
+    {
+     "w": "be scheduled for",
+     "ipa": "/ˈʃedjuːld fɔː(r)/",
+     "pos": "固定搭配",
+     "en": "to be scheduled for something means to be arranged or planned to happen at a particular time",
+     "zh": "已排定，定于",
+     "ctx": "指日程已排好、只待条件具备即执行；文中那批机械先到、运河后通，说明企业提前押了这张时间表。",
+     "ex1": "The shipment is scheduled for export as soon as clearance is granted. 这批货已排定，一旦放行即可出口。",
+     "ex2": "Construction finished three months ahead of schedule. 工程比原计划提前三个月完工。"
+    }
+   ]
+  },
+  {
+   "en_html": "The project is also part of a broader push to expand China’s inland waterways, with several other provinces, including Jiangxi, Hubei, Hunan and Henan, planning or <mark class=\"voc\">advancing</mark> <mark class=\"voc\">ambitious</mark> <mark class=\"voc\">multibillion-dollar</mark> waterway <mark class=\"voc\">expansions</mark> to boost local economic growth. By using the canal, provinces including Yunnan, Guizhou, Hunan and Sichuan, as well as the <mark class=\"voc\">metropolis</mark> of Chongqing, could <mark class=\"voc\">see their logistics costs</mark> <mark class=\"voc\">reduced by</mark> around 18 per cent to 30 per cent, making it “the shortest, most <mark class=\"voc\">economical</mark> and most convenient route to the sea in the western region”, according to an August 13 report by Yunnan authorities.",
+   "zh": "这项工程同时也是中国拓展内河航道这一更大布局中的一环。江西、湖北、湖南、河南等多个省份，都在规划或推进耗资数十亿美元的航道扩建，以此拉动地方经济增长。据云南方面8月13日的一份报告，借助这条运河，云南、贵州、湖南、四川等省以及重庆市的物流成本有望下降约18%至30%，使其成为“西部地区最短、最经济、最便捷的出海通道”。",
+   "notes": [
+    {
+     "w": "advance",
+     "ipa": "/ədˈvɑːns/",
+     "pos": "v. / n.",
+     "en": "advance means to move forward, or to make progress with a plan or project",
+     "zh": "推进；前进",
+     "ctx": "项目管理语境里指“把工程从规划推向落地”；文中指江西、湖北等省各自在推进航道扩建，进度不一。",
+     "ex1": "Several provinces are advancing waterway projects of their own. 多个省份正在推进各自的航道工程。",
+     "ex2": "Payment must be made two weeks in advance. 款项须提前两周支付。"
+    },
+    {
+     "w": "ambitious",
+     "ipa": "/æmˈbɪʃəs/",
+     "pos": "adj.",
+     "en": "ambitious means showing a strong desire to achieve something big, and often requiring great effort",
+     "zh": "宏大的，野心勃勃的",
+     "ctx": "褒贬随语境走：说计划是“目标高远”，也常暗含“难度不小、有点过头”的意思。",
+     "ex1": "The province unveiled an ambitious plan to double its waterway capacity. 该省公布了一项宏大计划，要把航道运力翻一番。",
+     "ex2": "Analysts said the timeline looked overly ambitious. 分析人士认为这个时间表过于激进。"
+    },
+    {
+     "w": "multibillion-dollar",
+     "ipa": "/ˌmʌltibɪljən ˈdɒlə(r)/",
+     "pos": "adj.",
+     "en": "multibillion-dollar means costing or worth several billion dollars",
+     "zh": "数十亿美元的",
+     "ctx": "复合形容词，单位不加 s；文中指各省航道扩建的投资量级，不是精确数字。",
+     "ex1": "The group announced a multibillion-dollar investment in port facilities. 该集团宣布对港口设施进行数十亿美元的投资。",
+     "ex2": "They signed a five-year, multimillion-dollar supply contract. 双方签署了一份为期五年、金额达数百万美元的供货合同。"
+    },
+    {
+     "w": "expansion",
+     "ipa": "/ɪkˈspænʃn/",
+     "pos": "n.",
+     "en": "expansion means the process of becoming larger in size, number or scope",
+     "zh": "扩建，扩张",
+     "ctx": "ex-（向外）+ pand（张开）；文中指内河航道的扩建工程——运河是一条，各省的航道网才是那张更大的网。",
+     "ex1": "The waterway expansion will allow larger barges upstream. 航道扩建将允许更大的驳船上行。",
+     "ex2": "The firm funded its expansion into Southeast Asia with new debt. 该公司通过举债为其东南亚扩张提供资金。"
+    },
+    {
+     "w": "metropolis",
+     "ipa": "/məˈtrɒpəlɪs/",
+     "pos": "n.",
+     "en": "a metropolis is a very large and important city, often the main city of a region",
+     "zh": "大都市，中心城市",
+     "ctx": "metro（母）+ polis（城邦），原指古希腊向外殖民时的母城；文中特意不称重庆为 province，因为它是直辖市。",
+     "ex1": "Chongqing has grown into one of the country's largest inland metropolises. 重庆已发展为中国最大的内陆都市之一。",
+     "ex2": "The metropolitan area alone accounts for a fifth of regional output. 仅这一个都市圈就占区域产值的五分之一。"
+    },
+    {
+     "w": "see something done",
+     "ipa": "/siː ... dʌn/",
+     "pos": "固定句式",
+     "en": "if a place, a period of time or an organisation sees something happen, that thing happens during it or to it",
+     "zh": "（某地/某时期）经历……被……",
+     "ctx": "主语并非真在“看”，而是被推到见证者的位置上；用 see 把省份摆到句首，比“成本下降了”更生动。",
+     "ex1": "The past decade has seen freight costs cut almost in half. 过去十年间，货运成本几乎减半。",
+     "ex2": "2026 saw record trade volumes between the two markets. 2026年两个市场之间的贸易额创下纪录。"
+    },
+    {
+     "w": "reduce by",
+     "ipa": "/rɪˈdjuːst baɪ/",
+     "pos": "固定搭配",
+     "en": "reduce by shows the amount of the decrease; reduce to shows the level that remains after the decrease",
+     "zh": "下降了（幅度）",
+     "ctx": "by 是“降了多少”，to 是“降到剩多少”；文中 18%–30% 是降幅，不是降到只剩这么多——一字之差，天差地别。",
+     "ex1": "Fuel use was reduced by a quarter after the route was shortened. 航线缩短后，燃油消耗减少了四分之一。",
+     "ex2": "Staff numbers were reduced to 200 following the restructuring. 重组后员工人数减至200人。"
+    },
+    {
+     "w": "economical",
+     "ipa": "/ˌiːkəˈnɒmɪkl/",
+     "pos": "adj.",
+     "en": "economical means giving good value in relation to the money, time or resources used",
+     "zh": "划算的，省钱的",
+     "ctx": "与 economic（经济的、与经济有关的）分工明确；文中“最经济”指最省钱，不是“最具经济学意义”。",
+     "ex1": "Sea transport remains the most economical way to move bulk goods. 海运仍是运输大宗货物最划算的方式。",
+     "ex2": "The new engine is far more economical on long routes. 新发动机在长途线路上省油得多。"
+    }
+   ]
+  },
+  {
+   "en_html": "The canal’s construction has also <mark class=\"voc\">spurred</mark> a broader <mark class=\"voc\">build-out</mark> of supporting infrastructure and transport links. At Nanning Port’s Liujing operations area, <mark class=\"voc\">berths</mark> have been <mark class=\"voc\">upgraded</mark> to handle vessels of up to 5,000 tonnes. The Beibu Gulf Port is also seeking to attract cargo from Chongqing, Sichuan and Yunnan, while <mark class=\"voc\">cross-border</mark> railways such as the China-Laos Railway are expected to <mark class=\"voc\">feed into</mark> the network, according to state media reports.",
+   "zh": "运河的建设，还催生了更大范围的配套基建与交通联结。南宁港六景作业区的泊位已完成升级，可停靠5000吨级船舶；北部湾港也在争取重庆、四川、云南的货源。据官方媒体报道，与此同时，中老铁路等跨境铁路预计也将汇入这张运输网。",
+   "notes": [
+    {
+     "w": "spur",
+     "ipa": "/spɜː(r)/",
+     "pos": "v. / n.",
+     "en": "spur means to encourage or cause something to happen more quickly",
+     "zh": "刺激，催动",
+     "ctx": "本义“马刺”，骑手用靴跟上的尖轮催马前冲；与 boost（从下面托）不同，spur 是从后面催着往前跑。",
+     "ex1": "Cheaper freight has spurred investment in riverside industrial parks. 更低的运费带动了沿江工业园区的投资。",
+     "ex2": "He bought the ticket on the spur of the moment. 他一时冲动买下了那张票。"
+    },
+    {
+     "w": "build-out",
+     "ipa": "/ˈbɪld aʊt/",
+     "pos": "n.",
+     "en": "a build-out is the process of constructing or expanding facilities and networks on a large scale",
+     "zh": "（配套的）大规模建设",
+     "ctx": "build out 的名词化，指设施成片铺开；文中指码头升级、港口揽货、铁路对接这一整轮配套建设。",
+     "ex1": "The canal triggered a rapid build-out of warehouses along its banks. 运河带动了沿岸仓储设施的快速铺开。",
+     "ex2": "The network build-out will take at least three more years. 这张网络的铺设还需至少三年。"
+    },
+    {
+     "w": "berth",
+     "ipa": "/bɜːθ/",
+     "pos": "n.",
+     "en": "a berth is a place in a port where a ship can be tied up and loaded or unloaded",
+     "zh": "泊位；卧铺",
+     "ctx": "本义“给船留出的那个专属位置”；泊位的吨位等级决定港口能接多大的船，所以要跟着运河一起升到 5000 吨级。",
+     "ex1": "Two deep-water berths were added to handle larger vessels. 新增两个深水泊位以接纳更大船舶。",
+     "ex2": "Local traders give that supplier a wide berth after the dispute. 那次纠纷之后，当地商户都对这家供应商敬而远之。"
+    },
+    {
+     "w": "upgrade",
+     "ipa": "/ˌʌpˈɡreɪd/",
+     "pos": "v. / n.",
+     "en": "upgrade means to improve something so that it reaches a higher standard or capacity",
+     "zh": "升级，改造提升",
+     "ctx": "up（向上）+ grade（等级），把承载规格往上提一档；文中指泊位改造到与运河通航标准对齐。",
+     "ex1": "Berths were upgraded to match the canal's 5,000-tonne standard. 泊位经升级，与运河5000吨级的标准相匹配。",
+     "ex2": "The rating agency downgraded the operator's credit outlook. 评级机构下调了该运营方的信用展望。"
+    },
+    {
+     "w": "cross-border",
+     "ipa": "/ˌkrɒs ˈbɔːdə(r)/",
+     "pos": "adj.",
+     "en": "cross-border means involving movement or activity between two countries",
+     "zh": "跨境的",
+     "ctx": "指跨国境开展的运输、贸易、支付；文中指中老铁路这类把中国与东南亚连起来的铁路线。",
+     "ex1": "Cross-border rail links now carry a growing share of regional freight. 跨境铁路承运的区域货运比重正不断上升。",
+     "ex2": "Cross-border payments still take two days to settle. 跨境支付结算仍需两天。"
+    },
+    {
+     "w": "feed into",
+     "ipa": "/fiːd ˈɪntə/",
+     "pos": "固定短语",
+     "en": "to feed into something means to flow into it and become part of it, adding to a larger system",
+     "zh": "汇入，并入",
+     "ctx": "本义“喂进去”，像支流汇入干流；文中指跨境铁路把货源“喂”进以运河为水运主干的这张网。",
+     "ex1": "Regional rail lines feed into the main container corridor. 区域铁路线汇入集装箱运输主通道。",
+     "ex2": "All survey results feed into the final assessment. 所有调查结果都汇入最终评估。"
+    }
+   ]
+  },
+  {
+   "en_html": "The opening comes as China’s trade with Asean continues to grow. Beijing has <mark class=\"voc\">increasingly</mark> sought to strengthen <mark class=\"voc\">supply chains</mark> and economic <mark class=\"voc\">ties</mark> with the region as <mark class=\"voc\">tensions</mark> with the West <mark class=\"voc\">persist</mark> over trade and technology. Total trade between China and Asean reached US$862.75 billion in the first eight months of this year, up 25.6 per cent from a year earlier, <mark class=\"voc\">customs</mark> data showed. China’s exports to Asean stood at US$546 billion, up 25.8 per cent. In contrast, exports to the US <mark class=\"voc\">rose</mark> 6.2 per cent <mark class=\"voc\">in dollar terms</mark> over the same period.",
+   "zh": "运河通航之时，中国与东盟的贸易仍在持续攀升。在与西方在贸易和技术领域的紧张关系延续的背景下，中国不断加力巩固与这一地区的供应链和经济纽带。海关数据显示，今年前八个月，中国与东盟贸易总额达8627.5亿美元，同比增长25.6%；其中对东盟出口5460亿美元，增长25.8%。相比之下，同期以美元计的对美出口增长6.2%。",
+   "notes": [
+    {
+     "w": "increasingly",
+     "ipa": "/ɪnˈkriːsɪŋli/",
+     "pos": "adv.",
+     "en": "increasingly means more and more as time passes",
+     "zh": "越来越，日益",
+     "ctx": "描述的是程度持续加深的趋势，不是一次性变化；文中指中国对东南亚的经济加码是长期的、在往上走的。",
+     "ex1": "Regional trade has become increasingly important to both sides. 区域贸易对双方都日益重要。",
+     "ex2": "Buyers are increasingly sourcing from nearby markets. 买家越来越多地从邻近市场采购。"
+    },
+    {
+     "w": "supply chain",
+     "ipa": "/səˈplaɪ tʃeɪnz/",
+     "pos": "固定搭配",
+     "en": "a supply chain is the whole sequence of processes and suppliers involved in producing a product and delivering it to the buyer",
+     "zh": "供应链",
+     "ctx": "从原料到成品再到买家手里的整条路径，任何一环卡住则全线受阻；运河就是缩短这条链的物理手段之一。",
+     "ex1": "Firms are shortening supply chains to reduce delivery risk. 企业正在缩短供应链以降低交付风险。",
+     "ex2": "The shortage exposed how fragile the supply chain had become. 这次短缺暴露出供应链已变得多么脆弱。"
+    },
+    {
+     "w": "ties",
+     "ipa": "/taɪz/",
+     "pos": "n.",
+     "en": "ties means the connections or relationships that link two people, groups or countries",
+     "zh": "联系，纽带",
+     "ctx": "本义“系上的绳结”（领带 tie 即因系而得名），引申为国与国之间绑在一起的往来；标题里的 trade ties 同此用法。",
+     "ex1": "The two sides moved to deepen economic ties after the summit. 峰会后双方着手深化经济联系。",
+     "ex2": "Decades of trade have created close ties between the regions. 数十年的贸易让两地建立起紧密联系。"
+    },
+    {
+     "w": "tension",
+     "ipa": "/ˈtenʃn/",
+     "pos": "n.",
+     "en": "tension means a state of strained relations between people, groups or countries",
+     "zh": "紧张（局势）",
+     "ctx": "本义“拉紧的状态”；文中指中西方在贸易与技术上的关系一直绷着——这是交代背景，不是本文的主张。",
+     "ex1": "Trade tensions have pushed firms to diversify their markets. 贸易紧张促使企业分散市场。",
+     "ex2": "Both sides said they hoped to ease tensions over technology rules. 双方均表示希望缓和在技术规则上的紧张关系。"
+    },
+    {
+     "w": "persist",
+     "ipa": "/pəˈsɪst/",
+     "pos": "v.",
+     "en": "persist means to continue to exist or happen over a period of time",
+     "zh": "持续，延续",
+     "ctx": "per-（贯穿始终）+ sist（站立），一直站着不走；文中指那层紧张始终没有消退。",
+     "ex1": "Shortages persisted well into the second half of the year. 短缺一直延续到下半年。",
+     "ex2": "She persisted in asking until she got a clear answer. 她一直追问，直到得到明确答复。"
+    },
+    {
+     "w": "customs",
+     "ipa": "/ˈkʌstəmz/",
+     "pos": "n.",
+     "en": "customs means the government department that collects duties on imports and checks goods entering a country",
+     "zh": "海关（复数形式）",
+     "ctx": "因税项繁多而用复数，注意与 custom（习俗）、customer（顾客）区分；海关数据是全文证据强度最高的一处引用。",
+     "ex1": "Customs data showed exports rising for a fifth consecutive month. 海关数据显示出口连续第五个月增长。",
+     "ex2": "Goods were held up at customs for additional checks. 货物因需补充查验而滞留海关。"
+    },
+    {
+     "w": "rise",
+     "ipa": "/rəʊz/",
+     "pos": "v.",
+     "en": "rise (v., intransitive) means to go up by itself; raise (v., transitive) means to move or push something upward",
+     "zh": "上升（不及物）",
+     "ctx": "rise 自己涨、不带宾语，raise 必须有人把它抬上去；文中 exports rose 是出口自身上升，故用不及物的 rose。",
+     "ex1": "Freight rates rose sharply during the peak season. 旺季期间运价大幅上涨。",
+     "ex2": "The operator raised fees for oversized containers. 运营方上调了超大集装箱的收费。"
+    },
+    {
+     "w": "in dollar terms",
+     "ipa": "/ɪn ˈdɒlə(r) tɜːmz/",
+     "pos": "固定搭配",
+     "en": "in dollar terms means when the amount is measured or calculated in US dollars",
+     "zh": "以美元计",
+     "ctx": "标明计价口径——同一批货，换一种货币算，增速会不一样；文中对美出口 6.2% 是美元口径下的结果。",
+     "ex1": "Exports rose in dollar terms but fell slightly in volume. 以美元计出口上升，但按量计略有下降。",
+     "ex2": "Wages grew only marginally in real terms last year. 去年实际工资仅略有增长。"
+    }
+   ]
+  },
+  {
+   "en_html": "The opening <mark class=\"voc\">came just ahead of</mark> this year’s China-Asean Expo in Nanning, an annual trade and investment <mark class=\"voc\">fair</mark> showcasing products ranging from <mark class=\"voc\">agricultural</mark> goods and food to machinery and <mark class=\"voc\">hi-tech</mark> equipment.",
+   "zh": "运河通航，恰好赶在今年南宁中国—东盟博览会开幕之前——这场一年一度的经贸投资盛会，展品从农产品、食品，一路排到机械与高科技装备。",
+   "notes": [
+    {
+     "w": "come ahead of",
+     "ipa": "/kʌm əˈhed əv/",
+     "pos": "固定搭配",
+     "en": "to come ahead of something means to happen shortly before it, often deliberately timed",
+     "zh": "赶在……之前",
+     "ctx": "just 一词点出“卡点”的意味：9 月 16 日通航、17 日东博会开幕，相隔仅一天，显然是有意安排。",
+     "ex1": "The announcement came just ahead of the annual industry summit. 这项宣布恰好赶在年度行业峰会之前。",
+     "ex2": "The line opened three months ahead of schedule. 这条线路比原计划提前三个月开通。"
+    },
+    {
+     "w": "fair",
+     "ipa": "/feə(r)/",
+     "pos": "n.",
+     "en": "a fair is a large public event where companies show and sell their products",
+     "zh": "展会，博览会",
+     "ctx": "本义“集市”，商贸语境里指买卖双方集中展示、洽谈的场子；文中即中国—东盟博览会。",
+     "ex1": "Dozens of new suppliers signed contracts at the trade fair. 数十家新供应商在这场贸易展会上签下合同。",
+     "ex2": "The job fair attracted more than five thousand applicants. 这场招聘会吸引了五千多名求职者。"
+    },
+    {
+     "w": "agricultural",
+     "ipa": "/ˌæɡrɪˈkʌltʃərəl/",
+     "pos": "adj.",
+     "en": "agricultural means connected with farming and the growing of crops",
+     "zh": "农业的，农产品的",
+     "ctx": "agri-（田地）+ culture（耕作）；文中指东博会展品序列的起点——农产品与食品。",
+     "ex1": "Agricultural goods still make up a large share of the region's exports. 农产品仍占该地区出口的很大比重。",
+     "ex2": "Faster shipping helps keep agricultural exports fresh on arrival. 更快的运输有助于让农产品到岸时保持新鲜。"
+    },
+    {
+     "w": "hi-tech",
+     "ipa": "/high-tech/",
+     "pos": "adj.",
+     "en": "hi-tech means using the most advanced technology available",
+     "zh": "高科技的",
+     "ctx": "文中指展品序列的另一端——机械与高科技装备，与农产品一起构成“从土地到实验室”的完整跨度。",
+     "ex1": "The expo added a dedicated zone for hi-tech equipment this year. 今年展会新设了高科技装备专区。",
+     "ex2": "The company positions itself at the cutting edge of port automation. 该公司自我定位为港口自动化的最前沿。"
+    }
+   ]
+  }
+ ],
+ "proper": [
+  {
+   "name": "Gulf of Tonkin / 北部湾（东京湾）",
+   "def": "中国与越南之间的半封闭海湾，中国称“北部湾”，国际上通称 Gulf of Tonkin。Tonkin 源自汉字“東京”（越南语 Đông Kinh，意为“东边的京城”，是古代河内的旧称），与日本首都 Tokyo 同源。<br>本文中的意思：平陆运河的入海口所在，货船由此进入海域、南下东南亚，是这条运河“通江达海”的那个“海”。"
+  },
+  {
+   "name": "Pinglu Canal / 平陆运河",
+   "def": "位于广西境内的人工运河，全长 134.2 公里，2022 年 8 月开工，2026 年 9 月 16 日正式通航，可通行 5000 吨级船舶。“平陆”二字取自起点南宁横州平塘江口的“平”与终点钦州灵山县陆屋镇的“陆”。<br>本文中的意思：全文报道的主角，新中国成立以来第一条连接江河与海洋的人工水道。"
+  },
+  {
+   "name": "Xinhua News Agency / 新华社",
+   "def": "中国国家通讯社，为国内外媒体提供新闻稿件，是中国官方信息的主要发布渠道之一。<br>本文中的意思：文章中“1949 年以来第一条连接江河与海洋的人工水道”这一说法的信息来源。"
+  },
+  {
+   "name": "the Beijing-Hangzhou Grand Canal / 京杭大运河",
+   "def": "中国古代最大的水利工程，北起北京、南至杭州，全长近 1800 公里，最早可追溯至春秋时期，隋代大规模贯通，是世界上里程最长的古代人工运河。<br>本文中的意思：观察人士用来衡量平陆运河分量的历史参照系——把一条刚通航的新运河与它并列，是极高的评价。"
+  },
+  {
+   "name": "the New International Land-Sea Trade Corridor / 西部陆海新通道",
+   "def": "由中国西部省份与广西、云南等沿海沿边地区共建的物流与贸易通道，目标是把中国西部与东南亚及全球市场连接起来，以铁路、公路、海运多式联运为主要形式。<br>本文中的意思：平陆运河被定位为这条通道中的“关键一环”——它补上了这条通道此前最缺的那段水路。"
+  },
+  {
+   "name": "Asean / 东盟（东南亚国家联盟）",
+   "def": "由印尼、泰国、越南、马来西亚、新加坡、菲律宾、缅甸、柬埔寨、老挝、文莱十国组成的区域组织，人口逾六亿。自 2020 年起连年为中国第一大贸易伙伴，2025 年中国与东盟双边贸易额首次突破一万亿美元。<br>本文中的意思：平陆运河缩短出海距离后最直接受益的贸易对象，也是全文经济逻辑的落点——运河的价值，很大程度上取决于南边这个市场有多大。"
+  },
+  {
+   "name": "the China-Laos Railway / 中老铁路",
+   "def": "连接中国云南昆明与老挝首都万象的跨境铁路，2021 年底建成通车。老挝是内陆国，此前铁路基础极为薄弱，这条线路是其对外货运的主要通道之一。<br>本文中的意思：文中所举的跨境铁路实例——它把东南亚方向的货源向北输送，预计将与平陆运河所在的水运干线衔接，构成“铁路管陆上、运河管水上”的联运网络。"
+  },
+  {
+   "name": "Beibu Gulf Port / 北部湾港",
+   "def": "广西沿海港口群的统称，主要包括钦州港、防城港、北海港，是西部陆海新通道的海上门户。<br>本文中的意思：平陆运河的出海承接方——运河把货运到海边，具体由这个港口群装船出海；文中提到它正积极争取重庆、四川、云南的货源。"
+  },
+  {
+   "name": "Nanning Port’s Liujing operations area / 南宁港六景作业区",
+   "def": "南宁港下辖的作业区之一，位于郁江沿线，是运河内河段的重要装卸节点。<br>本文中的意思：配套升级的具体例证——泊位改造后可停靠 5000 吨级船舶，与运河的通航等级相匹配，避免出现“河能过、港靠不了”的短板。"
+  },
+  {
+   "name": "the China-Asean Expo / 中国—东盟博览会",
+   "def": "自 2004 年起每年在广西南宁举办的大型经贸展会，由中国商务部与东盟各国经贸主管部门、东盟秘书处共同主办。2026 年为第 23 届，于 9 月 17 日至 21 日举行，展览总面积约 17 万平方米。<br>本文中的意思：运河通航时间点的参照物——运河 9 月 16 日通航，博览会 9 月 17 日开幕，相隔一天；本届展会还专门设有平陆运河展区，把这条刚通航的运河直接摆到全球客商面前。"
+  },
+  {
+   "name": "the West / 西方",
+   "def": "国际新闻中对欧美等发达经济体的统称，首字母大写时为专有用法，区别于小写的 west（方位词“西方、西边”）。<br>本文中的意思：文中作为背景交代出现——中国与西方在贸易和技术领域的紧张关系持续存在，这是中国加强与东南亚经贸联系的宏观背景之一。本文仅作事实陈述，未作立场判断。"
+  }
+ ],
+ "sources_note": "资料核对：以上背景依据文章内容与南华早报报道，并参考新华社、中国海关总署及广西、云南有关部门的公开数据。",
+ "practice": {
+  "intro": "请将以下中文句子翻译为英文（参考答案见后）。要求：尽量用上本文的核心表达，可以适当改变词形，但不要直接照抄原文。",
+  "items": [
+   "中国于周三正式让其标志性工程平陆运河通航，为这个国家的西南腹地开辟出一个新的出海门户。",
+   "这条水道让内陆省份的货物不必经广州绕行约560公里就能抵达大海，运输时间和物流成本双双下降。",
+   "该项目计划投资727亿元人民币（108亿美元），设计上可通行最高5000吨级的船舶，每年可节省超过50亿元的总体运输成本。",
+   "这条运河是自1949年中华人民共和国成立以来，建成的第一条连接江河与海洋的人工水道。",
+   "在青年枢纽，工程师们修建了一条480多米长、包含120个水池的专用鱼道，帮助水生物种跨越近10米的水位落差。",
+   "借助这条运河，云南、贵州、湖南、四川等省份以及重庆市的物流成本可能下降约18%到30%，使其成为“西部地区最短、最经济、最便捷的出海通道”。"
+  ],
+  "critical_en": "A canal can shorten a route by 560 kilometres. Can it also shorten the distance between a country and its neighbours?",
+  "critical_zh": "一条运河能把航程缩短 560 公里。但它是否也能缩短一个国家与周边国家之间的距离？",
+  "answer": "1. China officially opened its landmark Pinglu Canal to navigation on Wednesday, creating a new maritime gateway for the country’s southwestern hinterland.<br><br>2. The waterway allows cargo from inland provinces to reach the sea without taking a roughly 560km detour via Guangzhou, cutting both transit times and logistics costs.<br><br>3. With a planned investment of 72.7 billion yuan (US$10.8 billion), the project is designed to accommodate vessels of up to 5,000 tonnes and save more than 5 billion yuan in overall transportation costs each year.<br><br>4. The canal is the first man-made waterway connecting a river to the sea to be built since the founding of the People’s Republic of China in 1949.<br><br>5. At the Qingnian navigation hub, engineers built a dedicated fish passage of more than 480 metres, containing 120 pools, to help aquatic species navigate a water-level difference of nearly 10 metres.<br><br>6. By using the canal, provinces including Yunnan, Guizhou, Hunan and Sichuan, as well as the metropolis of Chongqing, could see their logistics costs reduced by around 18 per cent to 30 per cent, making it “the shortest, most economical and most convenient route to the sea in the western region”."
+ },
+ "mindmap": {
+  "aria": "平陆运河通航文章思维导图",
+  "alt": "平陆运河通航与水运格局（手绘版）",
+  "svg": "<svg viewBox=\"0 0 960 720\" xmlns=\"http://www.w3.org/2000/svg\" role=\"img\" aria-label=\"平陆运河文章思维导图\" style=\"width:100%;height:auto;font-family:-apple-system,'PingFang SC','Hiragino Sans GB','Microsoft YaHei',sans-serif\">\n        <rect x=\"24\" y=\"306\" width=\"176\" height=\"88\" rx=\"14\" fill=\"#eae3d2\" stroke=\"#9a8f76\"/>\n        <text x=\"112\" y=\"342\" text-anchor=\"middle\" fill=\"#3d3a34\" font-size=\"17\" font-weight=\"700\">平陆运河</text>\n        <text x=\"112\" y=\"368\" text-anchor=\"middle\" fill=\"#5c5648\" font-size=\"12.5\">1949 年以来首条江海运河</text>\n\n        <path d=\"M200,350 C232,350 232,88 260,88\"  stroke=\"#6b8f71\" stroke-width=\"2\" fill=\"none\"/>\n        <path d=\"M200,350 C232,350 232,238 260,238\" stroke=\"#7d98ad\" stroke-width=\"2\" fill=\"none\"/>\n        <path d=\"M200,350 C232,350 232,433 260,433\" stroke=\"#bd7a6d\" stroke-width=\"2\" fill=\"none\"/>\n        <path d=\"M200,350 C232,350 232,628 260,628\" stroke=\"#9b86b3\" stroke-width=\"2\" fill=\"none\"/>\n\n        <g class=\"mm-branch\" data-target=\"bc1\">\n          <rect x=\"260\" y=\"71\" width=\"190\" height=\"34\" rx=\"8\" fill=\"#e6efe7\" stroke=\"#6b8f71\"/>\n          <text x=\"349\" y=\"93\" text-anchor=\"middle\" fill=\"#4c6b52\" font-size=\"15\" font-weight=\"700\">运河：一条，两个数字（¶1–2）</text>\n          <text class=\"mm-arrow\" data-for=\"bc1\" x=\"442\" y=\"93\" text-anchor=\"end\" fill=\"#4c6b52\">▾</text>\n        </g>\n        <g class=\"mm-children\" id=\"bc1\">\n          <path d=\"M450,88 C462,88 462,46 480,46\" stroke=\"#6b8f71\" stroke-width=\"1.5\" fill=\"none\"/>\n          <path d=\"M450,88 C462,88 462,88 480,88\" stroke=\"#6b8f71\" stroke-width=\"1.5\" fill=\"none\"/>\n          <path d=\"M450,88 C462,88 462,130 480,130\" stroke=\"#6b8f71\" stroke-width=\"1.5\" fill=\"none\"/>\n          <rect x=\"480\" y=\"30\" width=\"456\" height=\"32\" rx=\"8\" fill=\"#e6efe7\"/><text x=\"492\" y=\"51\" fill=\"#3d3a34\" font-size=\"14\">周三正式通航，西南腹地多了一道出海门户</text>\n          <rect x=\"480\" y=\"72\" width=\"456\" height=\"32\" rx=\"8\" fill=\"#e6efe7\"/><text x=\"492\" y=\"93\" fill=\"#3d3a34\" font-size=\"14\">134.2 公里：南宁直抵北部湾，省掉 560 公里</text>\n          <rect x=\"480\" y=\"114\" width=\"456\" height=\"32\" rx=\"8\" fill=\"#e6efe7\"/><text x=\"492\" y=\"135\" fill=\"#3d3a34\" font-size=\"14\">投资 727 亿元，可过 5000 吨级船，年省 50 亿</text>\n        </g>\n\n        <g class=\"mm-branch\" data-target=\"bc2\">\n          <rect x=\"260\" y=\"221\" width=\"190\" height=\"34\" rx=\"8\" fill=\"#e5edf4\" stroke=\"#7d98ad\"/>\n          <text x=\"349\" y=\"243\" text-anchor=\"middle\" fill=\"#3d5872\" font-size=\"15\" font-weight=\"700\">通航：凭什么说第一（¶3–4）</text>\n          <text class=\"mm-arrow\" data-for=\"bc2\" x=\"442\" y=\"243\" text-anchor=\"end\" fill=\"#3d5872\">▾</text>\n        </g>\n        <g class=\"mm-children\" id=\"bc2\">\n          <path d=\"M450,238 C462,238 462,196 480,196\" stroke=\"#7d98ad\" stroke-width=\"1.5\" fill=\"none\"/>\n          <path d=\"M450,238 C462,238 462,238 480,238\" stroke=\"#7d98ad\" stroke-width=\"1.5\" fill=\"none\"/>\n          <path d=\"M450,238 C462,238 462,280 480,280\" stroke=\"#7d98ad\" stroke-width=\"1.5\" fill=\"none\"/>\n          <rect x=\"480\" y=\"180\" width=\"456\" height=\"32\" rx=\"8\" fill=\"#e5edf4\"/><text x=\"492\" y=\"201\" fill=\"#3d3a34\" font-size=\"14\">1949 年以来第一条连江通海的人工水道</text>\n          <rect x=\"480\" y=\"222\" width=\"456\" height=\"32\" rx=\"8\" fill=\"#e5edf4\"/><text x=\"492\" y=\"243\" fill=\"#3d3a34\" font-size=\"14\">观察人士把它摆到京杭大运河旁边</text>\n          <rect x=\"480\" y=\"264\" width=\"456\" height=\"32\" rx=\"8\" fill=\"#e5edf4\"/><text x=\"492\" y=\"285\" fill=\"#3d3a34\" font-size=\"14\">四艘商船分段试航，巡逻船跑完全线</text>\n        </g>\n\n        <g class=\"mm-branch\" data-target=\"bc3\">\n          <rect x=\"260\" y=\"416\" width=\"190\" height=\"34\" rx=\"8\" fill=\"#f4e7e4\" stroke=\"#bd7a6d\"/>\n          <text x=\"349\" y=\"438\" text-anchor=\"middle\" fill=\"#7c4a3e\" font-size=\"15\" font-weight=\"700\">鱼道、红树与生意（¶5–7）</text>\n          <text class=\"mm-arrow\" data-for=\"bc3\" x=\"442\" y=\"438\" text-anchor=\"end\" fill=\"#7c4a3e\">▾</text>\n        </g>\n        <g class=\"mm-children\" id=\"bc3\">\n          <path d=\"M450,433 C462,433 462,391 480,391\" stroke=\"#bd7a6d\" stroke-width=\"1.5\" fill=\"none\"/>\n          <path d=\"M450,433 C462,433 462,433 480,433\" stroke=\"#bd7a6d\" stroke-width=\"1.5\" fill=\"none\"/>\n          <path d=\"M450,433 C462,433 462,475 480,475\" stroke=\"#bd7a6d\" stroke-width=\"1.5\" fill=\"none\"/>\n          <rect x=\"480\" y=\"375\" width=\"456\" height=\"32\" rx=\"8\" fill=\"#f4e7e4\"/><text x=\"492\" y=\"396\" fill=\"#3d3a34\" font-size=\"14\">480 米鱼道 120 级水池，另给鳗鱼开一条</text>\n          <rect x=\"480\" y=\"417\" width=\"456\" height=\"32\" rx=\"8\" fill=\"#f4e7e4\"/><text x=\"492\" y=\"438\" fill=\"#3d3a34\" font-size=\"14\">9572 株红树搬家，补种数十万棵抵扰动</text>\n          <rect x=\"480\" y=\"459\" width=\"456\" height=\"32\" rx=\"8\" fill=\"#f4e7e4\"/><text x=\"492\" y=\"480\" fill=\"#3d3a34\" font-size=\"14\">东盟是最大贸易伙伴，湖南货已到广西</text>\n        </g>\n\n        <g class=\"mm-branch\" data-target=\"bc4\">\n          <rect x=\"260\" y=\"611\" width=\"190\" height=\"34\" rx=\"8\" fill=\"#ece4f2\" stroke=\"#9b86b3\"/>\n          <text x=\"349\" y=\"633\" text-anchor=\"middle\" fill=\"#5a4670\" font-size=\"15\" font-weight=\"700\">落点：向东盟（¶8–10）</text>\n          <text class=\"mm-arrow\" data-for=\"bc4\" x=\"442\" y=\"633\" text-anchor=\"end\" fill=\"#5a4670\">▾</text>\n        </g>\n        <g class=\"mm-children\" id=\"bc4\">\n          <path d=\"M450,628 C462,628 462,586 480,586\" stroke=\"#9b86b3\" stroke-width=\"1.5\" fill=\"none\"/>\n          <path d=\"M450,628 C462,628 462,628 480,628\" stroke=\"#9b86b3\" stroke-width=\"1.5\" fill=\"none\"/>\n          <path d=\"M450,628 C462,628 462,670 480,670\" stroke=\"#9b86b3\" stroke-width=\"1.5\" fill=\"none\"/>\n          <rect x=\"480\" y=\"570\" width=\"456\" height=\"32\" rx=\"8\" fill=\"#ece4f2\"/><text x=\"492\" y=\"591\" fill=\"#3d3a34\" font-size=\"14\">泊位升到 5000 吨级，中老铁路往北喂货</text>\n          <rect x=\"480\" y=\"612\" width=\"456\" height=\"32\" rx=\"8\" fill=\"#ece4f2\"/><text x=\"492\" y=\"633\" fill=\"#3d3a34\" font-size=\"14\">前八月对东盟 8627.5 亿美元，增 25.6%</text>\n          <rect x=\"480\" y=\"654\" width=\"456\" height=\"32\" rx=\"8\" fill=\"#ece4f2\"/><text x=\"492\" y=\"675\" fill=\"#3d3a34\" font-size=\"14\">赶在东博会前一天通航，卡点卡得很准</text>\n        </g>\n      </svg>",
+  "img": ""
+ }
+}

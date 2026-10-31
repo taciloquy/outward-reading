@@ -1,0 +1,607 @@
+{
+ "date": "2026-09-19",
+ "title_tag": "平陆运河终于通了：中国等了 100 年，为什么这条运河“非挖不可”？—— 香港《南华早报》外刊讲解第1172天",
+ "h1": "平陆运河终于通了：中国等了 100 年，为什么这条运河“非挖不可”？",
+ "source_label": "South China Morning Post",
+ "category": "香港《南华早报》外刊讲解 第1172天",
+ "read_minutes": 18,
+ "nav_hint": "China launches new canal, first of its kind since 1949",
+ "headline": {
+  "en_html": "<span>China <mark class=\"voc\">launches</mark> new canal, <mark class=\"voc\">first of its kind</mark> since 1949, giving inland access to <mark class=\"voc\">sea lanes</mark></span> — <span>Newly opened Pinglu Canal will allow cargo from inland provinces to reach the Gulf of Tonkin, avoiding a 560km <mark class=\"voc\">detour</mark>, deepening trade ties</span>",
+  "zh": "中国启用新运河，为 1949 年以来首条，内陆自此直通海上航道——新通航的平陆运河将使内陆省份货物直抵北部湾，免去 560 公里绕行，进一步密切贸易往来",
+  "notes": [
+   {
+    "w": "launch",
+    "ipa": "/lɔːntʃ/",
+    "pos": "v. / n.",
+    "en": "launch (v.) means to start something new, or to set something in motion for the first time",
+    "zh": "正式启用，使（工程、项目）开始运行；推出",
+    "ctx": "本义是“把长矛猛力掷出”，用在这条运河上指 9 月 16 日正式启用、第一次投入实际通航——不是“开工”，也不是“建成”，而是“开始跑船”。",
+    "ex1": "The carmaker will launch three electric models in Southeast Asia next quarter. 这家车企将于下季度在东南亚推出三款电动车型。",
+    "ex2": "The shipyard launched its largest container vessel after two years of construction. 经过两年建造，这家船厂让其最大的集装箱船下水。"
+   },
+   {
+    "w": "first of its kind",
+    "ipa": "/fɜːst əv ɪts kaɪnd/",
+    "pos": "固定短语",
+    "en": "first of its kind means the first example ever of a particular type of thing",
+    "zh": "同类中的第一个，首例",
+    "ctx": "标题里紧跟 since 1949，说的是 1949 年以来第一条连江通海的人工水道——“首例”是七十余年的时间跨度撑起来的，不是修辞。",
+    "ex1": "The deal is the first of its kind between a Chinese chipmaker and a European carmaker. 这笔交易是中国芯片厂商与欧洲车企之间的首例合作。",
+    "ex2": "Regulators approved a first-of-its-kind licence for autonomous cargo ships. 监管机构批准了一张针对无人货船的首例牌照。"
+   },
+   {
+    "w": "sea lane",
+    "ipa": "/siː leɪn/",
+    "pos": "n.",
+    "en": "a sea lane is a route regularly used by ships crossing the ocean",
+    "zh": "海上航道，远洋航线",
+    "ctx": "lane 是“车道”，sea lane 就是海上的车道；此处指内陆货船经运河接入的、通往东南亚与全球市场的远洋干线。",
+    "ex1": "Nearly a third of global trade passes through a handful of busy sea lanes. 全球近三分之一的贸易要经由少数几条繁忙的海上航道。",
+    "ex2": "Insurance costs rise sharply whenever a key sea lane becomes unsafe. 只要一条关键航道变得不安全，保险成本就会急剧上升。"
+   },
+   {
+    "w": "detour",
+    "ipa": "/ˈdiːtʊər/",
+    "pos": "n. / v.",
+    "en": "a detour is a longer route taken in order to avoid something or to reach a place indirectly",
+    "zh": "绕行，绕道；弯路",
+    "ctx": "de-（离开）+ tour（转），指绕开正路多转一圈；文中指通航前西南货物必须经广州出海、白走约 560 公里的那段冤枉路。",
+    "ex1": "Drivers took a two-hour detour after the bridge was closed for repairs. 大桥封闭维修后，司机们绕行了两个小时。",
+    "ex2": "Shipping firms want to avoid the costly detour around the southern cape. 航运公司希望避开绕行南端海角那段代价高昂的路线。"
+   }
+  ]
+ },
+ "paragraphs": [
+  {
+   "en_html": "China officially opened its <mark class=\"voc\">landmark</mark> Pinglu Canal to <mark class=\"voc\">navigation</mark> on Wednesday, creating a new <mark class=\"voc\">maritime</mark> gateway for the country’s southwestern <mark class=\"voc\">hinterland</mark> and providing a shorter route to Southeast Asia as Beijing <mark class=\"voc\">seeks to</mark> deepen trade with the region. The 134.2km (83.4 mile) <mark class=\"voc\">waterway</mark> links Nanning, the capital of the southern region of Guangxi, to the Gulf of Tonkin, known as the Beibu Gulf in China, allowing <mark class=\"voc\">cargo</mark> from inland provinces to reach the sea without taking a roughly 560km detour <mark class=\"voc\">via</mark> Guangzhou, cutting both <mark class=\"voc\">transit</mark> times and <mark class=\"voc\">logistics</mark> costs.",
+   "zh": "中国于周三正式宣告平陆运河通航。这项标志性工程为中国西南腹地开辟出一道全新的出海门户，也为通往东南亚铺就了一条更短的路径——而此时，中国正着力深化与该地区的经贸往来。这条全长134.2公里（83.4英里）的水道，将广西首府南宁与北部湾（国际上称东京湾）连为一体。自此，内陆省份的货物不必再取道广州、平白绕行约560公里，便可直抵大海，运输时间与物流成本由此双双下降。",
+   "notes": [
+    {
+     "w": "landmark",
+     "ipa": "/ˈlændmɑːk/",
+     "pos": "n. / adj.",
+     "en": "landmark (adj.) means marking an important stage or turning point in something's development",
+     "zh": "里程碑式的，标志性的；地标",
+     "ctx": "land（陆地）+ mark（标记），原指辨认方位的显著建筑；文中形容这条运河是中国内河航运史上一道分界线式的工程。",
+     "ex1": "The court issued a landmark ruling on cross-border data transfers. 法院就跨境数据传输作出了一项里程碑式的裁定。",
+     "ex2": "Investors called the merger a landmark deal for the semiconductor industry. 投资者称这次合并是半导体行业的一桩标志性交易。"
+    },
+    {
+     "w": "navigation",
+     "ipa": "/ˌnævɪˈɡeɪʃn/",
+     "pos": "n.",
+     "en": "navigation means the movement of ships or other vessels through water, or the process of directing their course",
+     "zh": "通航，航行；导航",
+     "ctx": "词根 navi-（船），open to navigation 即“开放通航”——水道从此具备让船舶正常往来的条件，此前只做过试航。",
+     "ex1": "The river reopened to navigation once the water level stabilised. 水位稳定后，这条河重新开放通航。",
+     "ex2": "Poor visibility forced the port to suspend navigation for two days. 能见度太差，港口被迫停航两天。"
+    },
+    {
+     "w": "maritime",
+     "ipa": "/ˈmærɪtaɪm/",
+     "pos": "adj.",
+     "en": "maritime means connected with the sea, especially in relation to shipping, trade or navigation",
+     "zh": "海上的，海运的",
+     "ctx": "词根 mar-（海），与 marine、submarine 同源；文中指运河为西南腹地开出的那个“出海门户”，即让内陆第一次直接接上海运体系。",
+     "ex1": "The city has grown into a maritime hub linking three continents. 这座城市已发展成连接三大洲的海运枢纽。",
+     "ex2": "New maritime rules require cleaner fuel on all coastal routes. 新的海事规定要求所有沿海航线使用更清洁的燃料。"
+    },
+    {
+     "w": "hinterland",
+     "ipa": "/ˈhɪntəlænd/",
+     "pos": "n.",
+     "en": "hinterland means the inland area lying behind a coast or a port, which the port serves",
+     "zh": "腹地，内陆纵深",
+     "ctx": "德语 hinter（后面）+ land（地），指港口背后那片不临海、却要靠它出海的内陆；文中即云贵川渝等省。",
+     "ex1": "The port owes much of its growth to a booming industrial hinterland. 这座港口的增长很大程度上得益于蓬勃发展的工业腹地。",
+     "ex2": "Rail links were built to pull cargo from the western hinterland. 修建铁路是为了把西部腹地的货源吸引过来。"
+    },
+    {
+     "w": "seek to do",
+     "ipa": "/siːk tə duː/",
+     "pos": "固定短语",
+     "en": "seek to do something means to make an effort or attempt to achieve it",
+     "zh": "力图，着力（做某事）",
+     "ctx": "本义“寻找”，用在政策语境是“着力谋求”：北京正力图深化与东南亚的贸易，这条运河就是这份努力的一部分。",
+     "ex1": "The company is seeking to expand its footprint across Southeast Asia. 该公司正谋求扩大其在东南亚的布局。",
+     "ex2": "Regulators are seeking to reduce the cost of cross-border payments. 监管机构正力图降低跨境支付成本。"
+    },
+    {
+     "w": "waterway",
+     "ipa": "/ˈwɔːtəweɪ/",
+     "pos": "n.",
+     "en": "a waterway is a river, canal or other channel of water that ships can travel along",
+     "zh": "水道，航道",
+     "ctx": "water（水）+ way（路），即水上的路；文中指全长 134.2 公里的运河本身，也统称各省在扩建的内河航道网。",
+     "ex1": "China is investing heavily in upgrading its inland waterways. 中国正大举投资升级内河航道。",
+     "ex2": "The waterway can handle barges of up to 3,000 tonnes. 这条水道可通行3000吨级的驳船。"
+    },
+    {
+     "w": "cargo",
+     "ipa": "/ˈkɑːɡəʊ/",
+     "pos": "n.",
+     "en": "cargo means the goods carried by a ship, aircraft or other vehicle",
+     "zh": "货物，船货",
+     "ctx": "本义“装载之物”，指运输途中的大宗货物；文中指内陆省份原本要绕道广州才能出海的那批货。",
+     "ex1": "The vessel was carrying a cargo of machinery bound for Vietnam. 这艘船装载着一批运往越南的机械设备。",
+     "ex2": "Delays at the port left thousands of tonnes of cargo waiting to be cleared. 港口延误导致数千吨货物滞留待清关。"
+    },
+    {
+     "w": "via",
+     "ipa": "/ˈvaɪə/",
+     "pos": "prep.",
+     "en": "via means by way of a particular place, or by means of a particular method",
+     "zh": "经由，取道",
+     "ctx": "拉丁语 via 就是“路”，作介词表示经由某地中转；文中指通航前那条绕不开的路线——广州。",
+     "ex1": "Most of the cargo used to reach the sea via ports in Guangdong. 过去大部分货物都要经广东的港口出海。",
+     "ex2": "Payments are now settled via a digital clearing platform. 如今款项通过数字清算平台结算。"
+    },
+    {
+     "w": "transit",
+     "ipa": "/ˈtrænzɪt/",
+     "pos": "n.",
+     "en": "transit means the process of being moved or transported from one place to another",
+     "zh": "运输，过境，在途",
+     "ctx": "trans-（跨越）+ it（走），指货物在路上的那段运输与中转过程；cutting transit times 即压缩在途时间。",
+     "ex1": "Cutting transit time by two days gives exporters a real advantage. 把在途时间缩短两天，给出口商带来了实实在在的优势。",
+     "ex2": "The goods were damaged in transit and had to be replaced. 货物在运输途中受损，只得重新发货。"
+    },
+    {
+     "w": "logistics",
+     "ipa": "/ləˈdʒɪstɪks/",
+     "pos": "n.",
+     "en": "logistics means the detailed organisation of moving goods, people or supplies from one place to another",
+     "zh": "物流",
+     "ctx": "原是军事术语“后勤”，指把粮草弹药准确送到前线；用到商业上，就是货物流转的整套组织与成本体系。",
+     "ex1": "Rising fuel prices have pushed logistics costs to a five-year high. 燃油价格上涨把物流成本推到了五年来的高点。",
+     "ex2": "The company built a regional logistics hub to serve Southeast Asia. 该公司建了一个区域物流枢纽，服务东南亚市场。"
+    }
+   ]
+  },
+  {
+   "en_html": "With a planned investment of 72.7 billion yuan (US$10.8 billion), the project, which began construction in August 2022, is designed to <mark class=\"voc\">accommodate</mark> <mark class=\"voc\">vessels</mark> of up to 5,000 <mark class=\"voc\">tonnes</mark> and save more than 5 billion yuan in <mark class=\"voc\">overall</mark> transportation costs each year.",
+   "zh": "该工程计划投资727亿元人民币（约合108亿美元），自2022年8月动工，按设计可通行5000吨级船舶，每年可节省各类运输成本逾50亿元。",
+   "notes": [
+    {
+     "w": "accommodate",
+     "ipa": "/əˈkɒmədeɪt/",
+     "pos": "v.",
+     "en": "accommodate means to provide enough space for someone or something, or to adapt to someone's needs",
+     "zh": "容纳，接纳；（规格上）承接得住",
+     "ctx": "ac-（使）+ commodus（合适），本义“容得下”；文中指运河按设计可通行最大 5000 吨级船舶——是规格上真的装得下，不是“大概能过”。",
+     "ex1": "The upgraded terminal can accommodate ships twice the previous size. 升级后的码头可停靠体量翻倍的船舶。",
+     "ex2": "We will try to accommodate your delivery schedule. 我们会尽量配合你们的交付时间安排。"
+    },
+    {
+     "w": "vessel",
+     "ipa": "/ˈvesl/",
+     "pos": "n.",
+     "en": "a vessel is a ship or large boat; it can also mean a container, or a tube carrying blood in the body",
+     "zh": "船舶（正式用语）；容器；血管",
+     "ctx": "本义“容器”——船就是漂在水上的大容器；在航运文本里比 ship 正式，多用于规格、法规与统计场合。",
+     "ex1": "Only vessels meeting the new safety standard may enter the channel. 只有符合新安全标准的船舶才可驶入航道。",
+     "ex2": "Three vessels were held at anchor pending customs clearance. 三艘船在锚地待命，等待清关。"
+    },
+    {
+     "w": "tonne",
+     "ipa": "/tʌn/",
+     "pos": "n.",
+     "en": "a tonne is a metric unit of weight equal to 1,000 kilograms",
+     "zh": "公吨（1000 公斤）",
+     "ctx": "与美制 ton（短吨，约 907 公斤）不是一回事；文中“5000 吨级”是衡量船舶载重与货运量的标准单位。",
+     "ex1": "The port handled 180 million tonnes of cargo last year. 这座港口去年吞吐货物1.8亿吨。",
+     "ex2": "A 5,000-tonne vessel can carry the load of about 250 heavy trucks. 一艘5000吨级船舶的载货量约相当于250辆重型卡车。"
+    },
+    {
+     "w": "overall",
+     "ipa": "/ˌəʊvərˈɔːl/",
+     "pos": "adj. / adv.",
+     "en": "overall means taking everything into account; total rather than partial",
+     "zh": "总体的，全部的",
+     "ctx": "over（覆盖）+ all（全部），指各项加总之后的总数；文中那 50 亿元是各类运输成本合计后的节省额。",
+     "ex1": "Overall costs fell even though fuel prices rose. 尽管油价上涨，总成本仍然下降了。",
+     "ex2": "Overall, the quarter was stronger than analysts expected. 总的来说，这个季度好于分析师预期。"
+    }
+   ]
+  },
+  {
+   "en_html": "The canal is the first <mark class=\"voc\">man-made</mark> waterway connecting a river to the sea to be built since the founding of the People’s Republic of China in 1949, <mark class=\"voc\">state-run</mark> Xinhua News Agency reported. Some <mark class=\"voc\">observers</mark> have <mark class=\"voc\">described it as</mark> the country’s most significant canal <mark class=\"voc\">undertaking</mark> since the Beijing-Hangzhou Grand Canal, and it forms a key link in the New International Land-Sea Trade <mark class=\"voc\">Corridor</mark>. It is <mark class=\"voc\">equipped with</mark> a <mark class=\"voc\">tiered</mark> navigation zone system to <mark class=\"voc\">facilitate</mark> the movement of <mark class=\"voc\">inland</mark> vessels, allowing <mark class=\"voc\">qualified</mark> vessels to travel through the canal and into the sea without <mark class=\"voc\">transferring</mark> cargo to another ship.",
+   "zh": "据官方媒体新华社报道，这是1949年新中国成立以来，中国建成的第一条连江通海的人工水道。一些观察人士称之为继京杭大运河之后中国最重大的运河工程，它也构成了西部陆海新通道中的关键一环。运河配备梯级通航系统，便利内河船舶通行——达标船舶可一路穿越运河、直驶入海，全程无需换船转货。",
+   "notes": [
+    {
+     "w": "man-made",
+     "ipa": "/ˌmænˈmeɪd/",
+     "pos": "adj.",
+     "en": "man-made means created by people rather than occurring in nature",
+     "zh": "人造的，人工开凿的",
+     "ctx": "与天然河道相对；文中强调运河不是现成的河，而是硬挖出来的——“1949 年以来第一条”的分量，正落在这三个字上。",
+     "ex1": "The reservoir is a man-made lake built for flood control. 这座水库是为防洪修建的人工湖。",
+     "ex2": "Engineers dug a man-made channel through the ridge. 工程师们在山脊上开凿出一条人工水道。"
+    },
+    {
+     "w": "state-run",
+     "ipa": "/ˌsteɪt ˈrʌn/",
+     "pos": "adj.",
+     "en": "state-run means owned and operated by the government rather than by private owners",
+     "zh": "官办的，国家经营的",
+     "ctx": "run 在此是“经营、运作”；这是按国际新闻惯例标注信息来源的官方属性——新华社是国家通讯社，中性标签，不带褒贬。",
+     "ex1": "The report was first carried by state-run television. 这则报道最先由官方电视台播出。",
+     "ex2": "Several state-run firms have joined the port expansion. 多家国有企业参与了港口扩建。"
+    },
+    {
+     "w": "observer",
+     "ipa": "/əbˈzɜːvə(r)/",
+     "pos": "n.",
+     "en": "an observer is a person who watches and comments on a particular situation or field",
+     "zh": "观察人士，评论者",
+     "ctx": "新闻里用来引述一种普遍看法、却不指明具体机构的角色；证据强度弱于海关数据这类硬统计，读时要打个折扣。",
+     "ex1": "Some observers doubt the target can be met on time. 一些观察人士怀疑这一目标能否按时实现。",
+     "ex2": "Industry observers expect freight rates to fall next year. 业内观察人士预计明年运价会下降。"
+    },
+    {
+     "w": "describe A as B",
+     "ipa": "/dɪˈskraɪb ... æz .../",
+     "pos": "固定搭配",
+     "en": "to describe something as something means to say what you think it is or what it is like",
+     "zh": "把 A 称为/描述为 B",
+     "ctx": "表达的是说话人的判断，不是事实认定；文中“观察人士称其为京杭之后最重大”，是评价而非官方定论。",
+     "ex1": "Analysts described the deal as a turning point for the sector. 分析人士称这笔交易是该行业的转折点。",
+     "ex2": "The canal has been described as the country's boldest waterway project in decades. 这条运河被称为中国数十年来最大胆的水道工程。"
+    },
+    {
+     "w": "undertaking",
+     "ipa": "/ˌʌndəˈteɪkɪŋ/",
+     "pos": "n.",
+     "en": "an undertaking is a task or project, especially a large, difficult or ambitious one",
+     "zh": "工程，事业；承担",
+     "ctx": "under（在下）+ take（拿），即“扛到自己肩上的事”；文中指耗资 727 亿元、要凿穿分水岭的这项浩大工程。",
+     "ex1": "Rebuilding the delta's flood defences is a costly undertaking. 重建三角洲的防洪体系是一项耗资巨大的工程。",
+     "ex2": "The two firms treated the expansion as a joint undertaking. 两家公司把这次扩建当作一项共同事业来推进。"
+    },
+    {
+     "w": "corridor",
+     "ipa": "/ˈkɒrɪdɔː(r)/",
+     "pos": "n.",
+     "en": "a corridor is a long passage connecting places; in trade it means a strip of territory used as a route",
+     "zh": "走廊，通道",
+     "ctx": "本义“供人跑动的长通道”，区域经济里指把多个地区串起来的运输走廊；文中指西部陆海新通道。",
+     "ex1": "The rail line forms part of a wider economic corridor. 这条铁路是更大范围经济走廊的一部分。",
+     "ex2": "Planners left a green corridor for animals to cross the highway. 规划者留出了一条绿色廊道，供动物穿越高速公路。"
+    },
+    {
+     "w": "be equipped with",
+     "ipa": "/bɪ ɪˈkwaɪpt wɪð/",
+     "pos": "固定搭配",
+     "en": "to be equipped with something means to be provided with the tools, systems or facilities needed",
+     "zh": "配备有",
+     "ctx": "equip 原指为船只配齐装备；文中指运河沿线设有马道、企石、青年三处梯级枢纽构成的通航系统。",
+     "ex1": "Each lock is equipped with an automatic water-level control system. 每座船闸都配有自动水位控制系统。",
+     "ex2": "The vessel is equipped with satellite navigation and sonar. 这艘船配备了卫星导航和声呐设备。"
+    },
+    {
+     "w": "tiered",
+     "ipa": "/tɪəd/",
+     "pos": "adj.",
+     "en": "tiered means arranged in a series of levels or stages, one above another",
+     "zh": "梯级的，分层的",
+     "ctx": "tier 是“一层、一级”；文中指用三处枢纽的船闸把船一级一级抬过分水岭（最高处海拔约 65 米），再逐级放回海平面。",
+     "ex1": "The company introduced tiered pricing for different cargo volumes. 该公司针对不同货量推出了分级定价。",
+     "ex2": "A tiered lock system lifts vessels over the ridge in stages. 梯级船闸系统分段把船舶抬过山脊。"
+    },
+    {
+     "w": "facilitate",
+     "ipa": "/fəˈsɪlɪteɪt/",
+     "pos": "v.",
+     "en": "facilitate means to make an action or process easier or smoother",
+     "zh": "便利，使顺畅",
+     "ctx": "词根 facil-（容易），即“让流程少些磕绊”；文中指梯级系统让内河船不必中途卸货就能过落差段。",
+     "ex1": "The agreement is designed to facilitate trade between the two blocs. 该协议旨在便利两大集团之间的贸易。",
+     "ex2": "Digital paperwork facilitates faster customs clearance. 电子单证使清关速度更快。"
+    },
+    {
+     "w": "inland",
+     "ipa": "/ˈɪnlənd/",
+     "pos": "adj. / adv.",
+     "en": "inland means situated in the interior of a country, away from the coast",
+     "zh": "内陆的",
+     "ctx": "in（在内）+ land（陆地），指不临海、出海必须借道的地区；文中指云贵川渝湘等省，也指跑在这些河段上的船。",
+     "ex1": "Inland provinces have long paid more to reach export markets. 内陆省份长期以来出口成本更高。",
+     "ex2": "An inland port allows customs procedures to be done before goods reach the coast. 内陆港让货物到海边之前就能完成通关手续。"
+    },
+    {
+     "w": "qualified",
+     "ipa": "/ˈkwɒlɪfaɪd/",
+     "pos": "adj.",
+     "en": "qualified means having met the necessary conditions, standards or requirements",
+     "zh": "达标的，具备资格的",
+     "ctx": "出自 quality（标准），工程准入语境里指吨位、尺寸达到通航规格；达标的船一路穿河入海，不达标的只能另想办法。",
+     "ex1": "Only qualified vessels may pass through without unloading. 只有达标船舶才可不卸货直接通过。",
+     "ex2": "Applicants must be qualified under the new licensing rules. 申请者必须符合新的牌照规定。"
+    },
+    {
+     "w": "transfer",
+     "ipa": "/trænsˈfɜː(r)/",
+     "pos": "v. / n.",
+     "en": "transfer means to move someone or something from one place, vehicle or account to another",
+     "zh": "转运，换装；转移",
+     "ctx": "trans-（跨越）+ fer（带），指把货从一条船倒到另一条船；江海直达之后这道换装工序被取消，省时省钱正在这里。",
+     "ex1": "Goods no longer need to be transferred to a second ship at the port. 货物不必再在港口转装到第二条船上。",
+     "ex2": "Each transfer adds cost, delay and the risk of damage. 每一次换装都会增加成本、延误和货损风险。"
+    }
+   ]
+  },
+  {
+   "en_html": "The canal’s opening <mark class=\"voc\">comes after</mark> <mark class=\"voc\">a series of</mark> navigation tests. In mid-August, four <mark class=\"voc\">merchant</mark> vessels <mark class=\"voc\">ranging from</mark> 1,000 to 5,000 tonnes conducted <mark class=\"voc\">phased</mark> trials along the canal’s main <mark class=\"voc\">channel</mark>, testing the safety and reliability of the waterway, <mark class=\"voc\">locks</mark>, <mark class=\"voc\">anchorages</mark> and service areas, state media reported. Earlier that month, a maritime <mark class=\"voc\">patrol</mark> vessel completed the first full-route transit test along the waterway, according to the canal’s <mark class=\"voc\">operator</mark>. Late in August, the canal’s first command and management vessel was delivered to <mark class=\"voc\">oversee</mark> navigation and handle <mark class=\"voc\">emergency responses</mark> along the waterway.",
+   "zh": "运河的通航，是在一连串试航测试之后才最终实现的。据官方媒体报道，八月中旬，四艘1000吨至5000吨不等的商船沿主航道分阶段试航，检验了航道、船闸、锚地与服务区的安全性与可靠性。运河运营方表示，当月早些时候，一艘海事巡逻船已完成首次全线通航测试。八月下旬，运河首艘指挥管理船交付，负责统筹沿线通航调度与应急处置。",
+   "notes": [
+    {
+     "w": "come after / come as / come ahead of",
+     "ipa": "/kʌm ˈɑːftə(r)/",
+     "pos": "固定搭配",
+     "en": "to come after/as/ahead of something means to happen following, during, or just before that thing",
+     "zh": "在……之后／正当……之际／赶在……之前",
+     "ctx": "新闻里把事件钉在时间轴上的三个介词搭配；文中 come after 指通航是“一连串试航之后”才最终实现的。",
+     "ex1": "The announcement came after months of quiet negotiation. 这项宣布是在数月低调谈判之后作出的。",
+     "ex2": "The launch came just ahead of the industry's biggest trade fair. 此次发布恰好赶在业内最大展会开幕之前。"
+    },
+    {
+     "w": "a series of",
+     "ipa": "/ə ˈsɪəriːz əv/",
+     "pos": "固定短语",
+     "en": "a series of means a number of similar events or things coming one after another",
+     "zh": "一连串，一系列",
+     "ctx": "series 单复数同形；文中指巡逻船跑完全线、四艘商船分段试航、指挥船交付这一连串动作。",
+     "ex1": "A series of trials confirmed the channel was safe for loaded vessels. 一系列试航确认航道可安全通行重载船舶。",
+     "ex2": "The port suffered a series of delays during the typhoon season. 台风季期间，这座港口接连遭遇延误。"
+    },
+    {
+     "w": "merchant",
+     "ipa": "/ˈmɜːtʃənt/",
+     "pos": "n. / adj.",
+     "en": "a merchant is a person or company that buys and sells goods, especially in large quantities",
+     "zh": "商用的；商人",
+     "ctx": "词根 merc-（货物），与 commerce、merchandise 同源；merchant vessel 即商船，区别于军用、公务用船。",
+     "ex1": "Four merchant ships were chosen to test the new channel. 四艘商船被选中试航这条新航道。",
+     "ex2": "The merchant fleet has expanded rapidly over the past decade. 过去十年间商船队伍迅速扩大。"
+    },
+    {
+     "w": "range from A to B",
+     "ipa": "/reɪndʒ frəm ... tə .../",
+     "pos": "固定搭配",
+     "en": "to range from one thing to another means to vary between two stated limits",
+     "zh": "从 A 到 B 不等",
+     "ctx": "指在一个区间内分布、涵盖中间各档；文中四艘试航船的吨位从 1000 吨到 5000 吨不等。",
+     "ex1": "Container fees range from fifty to three hundred dollars per box. 每个集装箱的费用从五十美元到三百美元不等。",
+     "ex2": "The firm sells products ranging from packaging film to medical devices. 该公司产品从包装膜一直做到医疗器械。"
+    },
+    {
+     "w": "phased",
+     "ipa": "/feɪzd/",
+     "pos": "adj.",
+     "en": "phased means carried out in separate stages rather than all at once",
+     "zh": "分阶段的",
+     "ctx": "phase 是“阶段”；文中强调试航不是一次跑完全程，而是沿主航道分段分批推进，好逐段核验安全。",
+     "ex1": "The upgrade will be introduced in a phased rollout over two years. 此次升级将在两年内分阶段推出。",
+     "ex2": "The country plans to phase out older diesel trucks by 2030. 该国计划到2030年逐步淘汰老旧柴油卡车。"
+    },
+    {
+     "w": "channel",
+     "ipa": "/ˈtʃænl/",
+     "pos": "n.",
+     "en": "a channel is a passage along which water, signals, goods or information can flow",
+     "zh": "航道，水道；渠道",
+     "ctx": "本义“让东西流过去的通道”；main channel 即主航道，是水中划定给船舶行驶的那条路径。",
+     "ex1": "Dredging kept the main channel deep enough for loaded ships. 疏浚工程使主航道保持足够深度以通行重载船。",
+     "ex2": "The brand sells through three separate distribution channels. 该品牌通过三条不同的分销渠道销售。"
+    },
+    {
+     "w": "lock",
+     "ipa": "/lɒk/",
+     "pos": "n.",
+     "en": "a lock is a section of a canal or river, closed off by gates at both ends, used to raise or lower boats between different water levels",
+     "zh": "船闸（熟词僻义）；锁",
+     "ctx": "船进闸室、前后闸门关闭，被“锁”在里面等水位升降——用“锁”这个熟词指“水上台阶”，是本文最该留意的僻义。",
+     "ex1": "Vessels wait in the lock while the water level slowly rises. 船舶在闸室中等待，水位缓缓升高。",
+     "ex2": "A double-line lock allows two ships to pass at the same time. 双线船闸可让两艘船同时通过。"
+    },
+    {
+     "w": "anchorage",
+     "ipa": "/ˈæŋkərɪdʒ/",
+     "pos": "n.",
+     "en": "an anchorage is an area of water where ships can safely drop anchor and wait",
+     "zh": "锚地，停泊处",
+     "ctx": "anchor（锚）+-age（场所），指供船待闸、待泊的专用水域；与“锚”有关，但说的是地方，不是动作。",
+     "ex1": "Ships waiting to enter the lock queue at a nearby anchorage. 等待过闸的船舶在附近锚地排队。",
+     "ex2": "Storms forced a dozen vessels to remain at anchorage overnight. 风暴迫使十余艘船在锚地滞留一夜。"
+    },
+    {
+     "w": "patrol",
+     "ipa": "/pəˈtrəʊl/",
+     "pos": "n. / v.",
+     "en": "a patrol is a journey made by a person or vehicle around an area in order to watch over it",
+     "zh": "巡逻；巡逻船（队）",
+     "ctx": "本义“来回巡查”；文中指八月上旬跑完首次全线通航测试的那艘海事巡逻船。",
+     "ex1": "A patrol vessel made the first full run along the waterway. 一艘巡逻船完成了沿该水道的首次全程航行。",
+     "ex2": "Coast guard boats patrol the estuary around the clock. 海警船全天候在入海口巡逻。"
+    },
+    {
+     "w": "operator",
+     "ipa": "/ˈɒpəreɪtə(r)/",
+     "pos": "n.",
+     "en": "an operator is a company or person that runs a business, service or piece of equipment",
+     "zh": "运营方，经营商",
+     "ctx": "指实际经营管理设施的公司，区别于出资方 investor 与施工方 contractor；文中即运河的运营单位。",
+     "ex1": "The canal's operator confirmed that trials had been completed. 运河运营方确认试航已全部完成。",
+     "ex2": "The port operator plans to add two deep-water berths next year. 港口运营方计划明年新增两个深水泊位。"
+    },
+    {
+     "w": "oversee",
+     "ipa": "/ˌəʊvəˈsiː/",
+     "pos": "v.",
+     "en": "oversee means to watch over and be responsible for work or an operation",
+     "zh": "统筹，监管",
+     "ctx": "over（在上）+ see（看），从上方盯着；注意与 overlook（忽略）意思相反——一个是盯着，一个是看漏了。",
+     "ex1": "A new team was set up to oversee daily traffic along the canal. 新组建的团队负责统筹运河的日常通航调度。",
+     "ex2": "She oversees logistics for the group's twelve regional warehouses. 她负责监管集团十二个区域仓库的物流。"
+    },
+    {
+     "w": "emergency response",
+     "ipa": "/ɪˈmɜːdʒənsi rɪˈspɒns/",
+     "pos": "固定搭配",
+     "en": "emergency response means the actions taken to deal quickly with a dangerous or unexpected situation",
+     "zh": "应急处置，应急响应",
+     "ctx": "指突发事故的现场处置机制；文中指指挥管理船除调度外，还要管船舶故障、货物落水这类急事。",
+     "ex1": "The vessel handles emergency response along the entire route. 这艘船负责全线的应急处置。",
+     "ex2": "Faster emergency response cut accident losses by a third. 更快的应急响应使事故损失减少了三分之一。"
+    }
+   ]
+  },
+  {
+   "en_html": "<mark class=\"voc\">Beyond</mark> the engineering work, the project has also involved efforts to limit its <mark class=\"voc\">environmental impact</mark>. At the Qingnian navigation <mark class=\"voc\">hub</mark>, engineers built a <mark class=\"voc\">dedicated</mark> fish <mark class=\"voc\">passage</mark> of more than 480 metres, containing 120 pools, to help <mark class=\"voc\">aquatic</mark> <mark class=\"voc\">species</mark> <mark class=\"voc\">navigate</mark> a water-level difference of nearly 10 metres, with a separate route designed for <mark class=\"voc\">eels</mark> and other climbing species. Builders also <mark class=\"voc\">relocated</mark> thousands of mature <mark class=\"voc\">mangrove</mark> trees along the route and have since planted hundreds of thousands of new ones to <mark class=\"voc\">offset</mark> the <mark class=\"voc\">disruption</mark> to local <mark class=\"voc\">ecosystems</mark>.",
+   "zh": "除工程建设本身之外，这一项目还投入了大量心力，以尽可能减小它对环境的扰动。在青年枢纽，工程师专门修筑了一条480余米、含120级水池的鱼道，帮助水生生物翻越近10米的水位落差；另辟一条通道，专为鳗鱼等善于攀爬的物种而设。施工方还沿线迁移了数千棵成年红树，此后补种新树数十万棵，以弥补工程对当地生态系统造成的扰动。",
+   "notes": [
+    {
+     "w": "beyond",
+     "ipa": "/bɪˈjɒnd/",
+     "pos": "prep. / adv.",
+     "en": "beyond means further than; in addition to something already mentioned",
+     "zh": "除……之外；在……那一边",
+     "ctx": "行文上的转身信号：从“工程本身”转向“工程之外”的生态保护，全文视角在这里换了一口气。",
+     "ex1": "Beyond the cost savings, the project brings new jobs to the region. 除了省下的成本，这个项目还给该地区带来了新岗位。",
+     "ex2": "The damage to the older locks was beyond repair. 老旧船闸的损坏已无法修复。"
+    },
+    {
+     "w": "environmental impact",
+     "ipa": "/ɪnˌvaɪrənˈmentl ˈɪmpækt/",
+     "pos": "固定搭配",
+     "en": "environmental impact means the effect that a project or activity has on the natural surroundings",
+     "zh": "环境影响",
+     "ctx": "工程审批语境里对应中文“环评”；文中指运河开工前先做完评价，施工中再用鱼道、移树把影响压下来。",
+     "ex1": "The project could not start until the environmental impact assessment was approved. 环评通过之后，项目才得以开工。",
+     "ex2": "Planners redesigned the route to limit its environmental impact. 规划者重新设计了路线，以减小环境影响。"
+    },
+    {
+     "w": "hub",
+     "ipa": "/hʌb/",
+     "pos": "n.",
+     "en": "a hub is a central point from which many things radiate outwards, such as a centre of activity or transport",
+     "zh": "枢纽，中心节点",
+     "ctx": "本义“轮毂”，所有辐条由此向外伸展；文中指青年枢纽，三大梯级枢纽之一，鱼道就修在这里。",
+     "ex1": "The city has grown into a logistics hub for the whole region. 这座城市已成为整个区域的物流枢纽。",
+     "ex2": "Each navigation hub includes locks, a spillway and a power station. 每个通航枢纽都包含船闸、泄洪闸和电站。"
+    },
+    {
+     "w": "dedicated",
+     "ipa": "/ˈdedɪkeɪtɪd/",
+     "pos": "adj.",
+     "en": "dedicated means designed for one particular purpose only; it can also mean devoted and hard-working",
+     "zh": "专用的；敬业的",
+     "ctx": "本义“完全奉献给一件事”；文中指那条只为鱼修建的鱼道——不承担通航，也不承担泄洪，只让鱼通过。",
+     "ex1": "A dedicated lane was reserved for container trucks only. 一条专用车道只留给集装箱卡车通行。",
+     "ex2": "She is a dedicated engineer who has spent twelve years on the project. 她是一位敬业的工程师，在这个项目上投入了十二年。"
+    },
+    {
+     "w": "passage",
+     "ipa": "/ˈpæsɪdʒ/",
+     "pos": "n.",
+     "en": "a passage is a long narrow way that allows movement from one place to another",
+     "zh": "通道；段落",
+     "ctx": "来自 pass（通过）；文中指 480 多米长、含 120 级水池的鱼道，另有一条专给鳗鱼的通道。",
+     "ex1": "The fish passage reconnected waters that had been cut off for decades. 这条鱼道重新接通了中断数十年的水域。",
+     "ex2": "Workers cleared a narrow passage through the reeds. 工人们在芦苇丛中清出一条狭窄通道。"
+    },
+    {
+     "w": "aquatic",
+     "ipa": "/əˈkwætɪk/",
+     "pos": "adj.",
+     "en": "aquatic means living or growing in water, or connected with water",
+     "zh": "水生的",
+     "ctx": "词根 aqua（水），与 aquarium、aqueduct 同源；文中指要翻越近 10 米落差的那些鱼与其他水生物种。",
+     "ex1": "Dams often block the routes that aquatic species depend on. 水坝常常阻断水生物种赖以生存的通道。",
+     "ex2": "Monitoring showed more than ten aquatic species using the passage. 监测显示有十多种水生生物使用了这条通道。"
+    },
+    {
+     "w": "species",
+     "ipa": "/ˈspiːʃiːz/",
+     "pos": "n.",
+     "en": "a species is a group of living organisms that can breed with one another",
+     "zh": "物种（单复数同形）",
+     "ctx": "one species、ten species 拼写不变；文中指走鱼道的十余种鱼，以及需要单独通道的攀爬型物种。",
+     "ex1": "More than ten species were recorded moving through the passage. 有十多个物种被记录通过了这条通道。",
+     "ex2": "The wetland supports several endangered bird species. 这片湿地养育着数种濒危鸟类。"
+    },
+    {
+     "w": "navigate",
+     "ipa": "/ˈnævɪɡeɪt/",
+     "pos": "v.",
+     "en": "navigate means to find a way through a difficult route, place or situation",
+     "zh": "穿越，找路通过；航行",
+     "ctx": "本义“驾船”，引申为“费力穿过某段难走的路”；文中指鱼要借分级水池一级一级越过近 10 米落差。",
+     "ex1": "Small firms struggle to navigate the new customs rules. 小企业难以应付新的海关规定。",
+     "ex2": "The pools let fish navigate the drop in short, easy steps. 这些水池让鱼可以分成一小级一小级地越过落差。"
+    },
+    {
+     "w": "eel",
+     "ipa": "/iːl/",
+     "pos": "n.",
+     "en": "an eel is a long, snake-like fish that can move over wet surfaces as well as swim",
+     "zh": "鳗鱼",
+     "ctx": "幼鳗靠贴着湿滑表面往上爬，跳级式台阶对它无效——所以青年枢纽在主鱼道之外，另建了一条鳗鱼道。",
+     "ex1": "Young eels climb damp surfaces rather than leaping between pools. 幼鳗靠贴着潮湿表面攀爬，而不是在水池间跳跃。",
+     "ex2": "A separate eel pass was built beside the main fish ladder. 在主鱼道旁另建了一条鳗鱼通道。"
+    },
+    {
+     "w": "relocate",
+     "ipa": "/ˌriːləʊˈkeɪt/",
+     "pos": "v.",
+     "en": "relocate means to move a person, business or object to a new place",
+     "zh": "迁移，异地安置",
+     "ctx": "re-（重新）+ locate（定位）；文中指把工程红线内保不住的 9572 株原生红树就近移植到新的适生环境。",
+     "ex1": "Nearly ten thousand mature trees were relocated rather than cut down. 近万棵成年树被移植而非砍伐。",
+     "ex2": "The firm relocated its regional office closer to the port. 该公司把区域办公室搬到了离港口更近的地方。"
+    },
+    {
+     "w": "mangrove",
+     "ipa": "/ˈmæŋɡrəʊv/",
+     "pos": "n.",
+     "en": "a mangrove is a tree that grows in salty coastal water, with roots that rise above the mud",
+     "zh": "红树，红树林",
+     "ctx": "长在潮间带咸水里的护岸林，能消浪护堤、又是幼鱼育婴房，极难恢复；文中 9572 株被迁走，另按三倍面积补种 27.5 万株。",
+     "ex1": "Mangrove forests absorb much of a storm surge before it reaches the shore. 红树林在风暴潮到岸前就消解了大部分能量。",
+     "ex2": "The team restored thirty hectares of mangrove wetland nearby. 团队在附近修复了三十公顷红树林湿地。"
+    },
+    {
+     "w": "offset",
+     "ipa": "/ˌɒfˈset/",
+     "pos": "v.",
+     "en": "offset means to balance one effect against an opposite one so that the overall result is more even",
+     "zh": "抵消，弥补",
+     "ctx": "off（离开）+ set（放置），把一边放到另一边去求平衡；文中指用补种的数十万棵树，抵掉施工对生态的扰动。",
+     "ex1": "New plantings are meant to offset the damage done during construction. 新种的树林用以抵消施工期间造成的损害。",
+     "ex2": "Higher volumes helped offset the fall in unit prices. 销量上升有助于抵消单价下滑的影响。"
+    },
+    {
+     "w": "disruption",
+     "ipa": "/dɪsˈrʌpʃn/",
+     "pos": "n.",
+     "en": "disruption means an interruption that stops something from continuing in its normal way",
+     "zh": "扰动，中断",
+     "ctx": "dis-（分开）+ rupt（断裂），与 interrupt、erupt 同源；文中指施工对当地生态系统的那阵搅扰。",
+     "ex1": "The works caused temporary disruption to local fishing grounds. 施工对当地渔场造成了暂时的扰动。",
+     "ex2": "Supply chain disruption pushed delivery times out by three weeks. 供应链中断使交货时间延后了三周。"
+    },
+    {
+     "w": "ecosystem",
+     "ipa": "/ˈiːkəʊsɪstəm/",
+     "pos": "n.",
+     "en": "an ecosystem is all the living things in an area together with their physical environment, considered as one connected system",
+     "zh": "生态系统",
+     "ctx": "eco-（居所、生态）+ system（系统）；指彼此依赖、牵一发而动全身的那一整套生物与环境。",
+     "ex1": "Even a small change in water flow can upset a fragile ecosystem. 水流的微小变化都可能扰乱脆弱的生态系统。",
+     "ex2": "The group is building a business ecosystem around its logistics platform. 该集团正围绕其物流平台打造商业生态。"
+    }
+   ]
+  }
+ ]
+}

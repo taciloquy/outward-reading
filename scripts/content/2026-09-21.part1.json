@@ -1,0 +1,427 @@
+{
+  "date": "2026-09-21",
+  "title_tag": "格陵兰还是丹麦的，美国却拿到「永久安全控制权」这到底是什么意思？—— 美国彭博社外刊讲解第1174天",
+  "h1": "格陵兰还是丹麦的，美国却拿到「永久安全控制权」这到底是什么意思？",
+  "source_label": "Bloomberg",
+  "category": "美国彭博社外刊讲解 第1174天",
+  "read_minutes": 18,
+  "nav_hint": "US Strikes Deal Over Greenland",
+  "headline": {
+    "en_html": "<span>US <mark class=\"voc\">Strikes</mark> Deal Over Greenland to End <mark class=\"voc\">Row</mark> That <mark class=\"voc\">Threatened</mark> NATO</span> — <span>The US, Denmark and Greenland struck a security deal that expands Washington’s role on the <mark class=\"voc\">Arctic</mark> island, ending for now a <mark class=\"voc\">long-running</mark> diplomatic <mark class=\"voc\">spat</mark> without <mark class=\"voc\">ceding</mark> land to the US.</span>",
+    "zh": "美国就格陵兰问题达成协议，一场曾动摇北约的争端就此落幕——美国、丹麦与格陵兰三方达成一项安全协议，美方在这座北极岛屿上的介入随之加深；这场旷日持久的外交争端暂告一段落，而丹麦一寸土地也没有让出去。",
+    "notes": [
+      {
+        "w": "strike",
+        "ipa": "/straɪk/",
+        "pos": "v.（strike-struck-struck）",
+        "en": "strike (v.) means to reach or agree on something, especially a deal or an arrangement, often after negotiation",
+        "zh": "达成、谈成（协议/交易）",
+        "ctx": "三方就格陵兰安全问题谈成一份协议，结束了近两年的僵持。",
+        "ex1": "After eight months of talks, the two carmakers finally struck a deal on battery supply. 经过八个月谈判，这两家车企终于就电池供应达成了协议。",
+        "ex2": "Regulators are trying to strike a balance between encouraging innovation and protecting consumers. 监管机构正试图在鼓励创新和保护消费者之间取得平衡。"
+      },
+      {
+        "w": "row",
+        "ipa": "/raʊ/",
+        "pos": "n.（注意：与“一排”的row /rəʊ/ 同形不同音）",
+        "en": "row (n.) means a noisy, serious and often public quarrel or dispute, especially a political or diplomatic one",
+        "zh": "公开的激烈争端、风波",
+        "ctx": "特朗普索要格陵兰、丹麦坚决拒绝所引发、一度威胁北约团结的外交风波。",
+        "ex1": "The minister resigned amid a bitter row over the handling of public funds. 在一场围绕公共资金处理方式的激烈争执中，这位部长辞职了。",
+        "ex2": "A row over data privacy has erupted between the two tech giants. 两家科技巨头之间爆发了一场围绕数据隐私的争端。"
+      },
+      {
+        "w": "threaten",
+        "ipa": "/ˈθretn/",
+        "pos": "v.",
+        "en": "threaten (v.) means to put something at risk of harm, damage or collapse; also, to state one's intention to cause harm",
+        "zh": "危及、动摇（某种秩序）",
+        "ctx": "这场争端一度危及已存在七十多年的北约的内部信任。",
+        "ex1": "Rising sea levels threaten the survival of several low-lying island nations. 海平面上升正危及数个低洼岛国的生存。",
+        "ex2": "The union threatened to strike unless wages were raised by the end of the quarter. 工会威胁说，除非本季度末加薪，否则就罢工。"
+      },
+      {
+        "w": "Arctic",
+        "ipa": "/ˈɑːktɪk/",
+        "pos": "adj./n.（注意中间的c 要发音）",
+        "en": "Arctic (adj.) means relating to the region around the North Pole",
+        "zh": "北极的",
+        "ctx": "格陵兰是北极岛屿，三分之二以上面积在北极圈内，这是美国执意介入的地理根源。",
+        "ex1": "Melting ice has opened new Arctic shipping routes that were impassable a generation ago. 冰层融化打开了新的北极航道，而一代人之前这些航道还无法通行。",
+        "ex2": "Five nations have overlapping territorial claims in the Arctic seabed. 五个国家在北极海床上存在重叠的领土主张。"
+      },
+      {
+        "w": "long-running",
+        "ipa": "/ˌlɒŋ ˈrʌnɪŋ/",
+        "pos": "adj.（复合形容词：形容词+现在分词）",
+        "en": "long-running (adj.) means having continued for a long period of time without being resolved or ended",
+        "zh": "旷日持久的、久拖未决的",
+        "ctx": "美丹格三方的外交争端已经持续了将近两年。",
+        "ex1": "The long-running patent dispute between the two firms was finally settled out of court. 两家公司之间旷日持久的专利纠纷最终庭外和解。",
+        "ex2": "A long-running debate over remote work has split the management team. 一场关于远程办公的长期争论把管理层分成了两派。"
+      },
+      {
+        "w": "spat",
+        "ipa": "/spæt/",
+        "pos": "n.",
+        "en": "spat (n.) means a short, petty or trivial quarrel, often implying the dispute was not worth having",
+        "zh": "争执、口水战（带贬义）",
+        "ctx": "用 spat 而非 dispute，暗含“两个北约盟友为一座岛吵两年实在不值当”的评价。",
+        "ex1": "A trade spat over steel tariffs soured relations between the two allies for months. 一场围绕钢铁关税的贸易口角，让两个盟友的关系僵了好几个月。",
+        "ex2": "What began as a minor spat between executives escalated into a boardroom crisis. 高管之间一场本来不起眼的口角，最后升级成了一场董事会危机。"
+      },
+      {
+        "w": "cede",
+        "ipa": "/siːd/",
+        "pos": "v.",
+        "en": "cede (v.) means to give up territory, rights or power to another party, usually formally and often under pressure",
+        "zh": "割让（领土/主权）",
+        "ctx": "协议的核心判定标准——丹麦没向美国割让任何土地，特朗普只拿到安全事务的权限。",
+        "ex1": "The company refused to cede control of its research division to the new investors. 该公司拒绝把研发部门的控制权交给新投资方。",
+        "ex2": "Under the treaty, the empire ceded a strip of coastline in exchange for trading rights. 根据该条约，该帝国割让了一段海岸线，换取通商权。"
+      }
+    ]
+  },
+  "paragraphs": [
+    {
+      "en_html": "President Donald Trump said Friday that his administration had reached an agreement <mark class=\"voc\">handing</mark> the US “<mark class=\"voc\">permanent</mark> <mark class=\"voc\">control over</mark> security” in Greenland. Leaders of Denmark and Greenland confirmed that an <mark class=\"voc\">accord</mark> is expected to be signed next week at the United Nations General Assembly in New York.",
+      "zh": "特朗普总统周五宣称，本届政府已谈成一项协议，赋予美国在格陵兰“永久的安全控制权”。丹麦与格陵兰方面证实，该协定预计将于下周在纽约联合国大会期间正式签署。",
+      "notes": [
+        {
+          "w": "hand",
+          "ipa": "/hænd/",
+          "pos": "v.",
+          "en": "hand (v.) means to give or transfer something to someone, especially formally or officially",
+          "zh": "（正式地）交予、授予",
+          "ctx": "特朗普称这份协议把格陵兰的“永久安全控制权”交到了美国手上。",
+          "ex1": "The outgoing CEO will hand over day-to-day control at the end of the quarter. 即将卸任的首席执行官将在本季度末移交日常管理权。",
+          "ex2": "The court handed down a ruling that forced the platform to disclose its algorithm. 法院作出裁决，迫使该平台公开其算法。"
+        },
+        {
+          "w": "permanent",
+          "ipa": "/ˈpɜːmənənt/",
+          "pos": "adj.",
+          "en": "permanent (adj.) means lasting or intended to last indefinitely, without a fixed end date",
+          "zh": "永久性的、无期限的",
+          "ctx": "新安排不设期限、不随北约存废而失效，是与 1951 年旧协议最关键的差别。",
+          "ex1": "The visa grants permanent residency after five years of continuous employment. 该签证在连续就业五年后可获得永久居留权。",
+          "ex2": "Engineers warned that prolonged flooding could cause permanent damage to the foundations. 工程师警告说，长时间浸水可能对地基造成永久性损害。"
+        },
+        {
+          "w": "control over",
+          "ipa": "/kənˈtrəʊl ˈəʊvə(r)/",
+          "pos": "固定搭配",
+          "en": "control over sth means the power to direct, decide or restrict what happens to something",
+          "zh": "对……的控制权",
+          "ctx": "特朗普宣称拿到的是“对安全事务”的控制权，范围限于安全，不涉主权或所有权。",
+          "ex1": "Founders often resist giving up control over product decisions even after selling a majority stake. 创始人即便卖掉了多数股权，也常常不愿交出产品决策权。",
+          "ex2": "Regulators are seeking tighter control over how personal data is sold to third parties. 监管机构正寻求加强对个人数据向第三方出售的管控。"
+        },
+        {
+          "w": "accord",
+          "ipa": "/əˈkɔːd/",
+          "pos": "n.",
+          "en": "accord (n.) means a formal agreement reached between countries, organisations or parties, especially one of historical or diplomatic significance",
+          "zh": "（正式的、有分量的）协定",
+          "ctx": "预计下周在纽约联合国大会期间由三方正式签署的那份格陵兰安全协定。",
+          "ex1": "The two sides reached an accord on fishing quotas after three rounds of talks. 双方经过三轮谈判，就捕捞配额达成了一项协定。",
+          "ex2": "She left the company of her own accord, despite an offer to stay on as an adviser. 尽管公司提出让她留任顾问，她还是主动离开了。"
+        }
+      ]
+    },
+    {
+      "en_html": "Full details <mark class=\"voc\">have yet to</mark> be <mark class=\"voc\">released</mark>. Denmark’s Prime Minister Mette Frederiksen said the <mark class=\"voc\">pact</mark> “<mark class=\"voc\">recognizes</mark> the <mark class=\"voc\">sovereignty</mark> and <mark class=\"voc\">territorial integrity</mark>” of the Danish kingdom and the Greenlandic people’s right to <mark class=\"voc\">self-determination</mark>, <mark class=\"voc\">indicating</mark> that Trump gains no ownership or sovereignty over the island.",
+      "zh": "协议全文尚未公布。丹麦首相梅特·弗雷泽里克森表示，这份协定“承认丹麦王国的主权与领土完整”，同时承认格陵兰人民拥有自决权——言下之意很清楚：特朗普既没拿到这座岛的所有权，也没拿到主权。",
+      "notes": [
+        {
+          "w": "have yet to",
+          "ipa": "/hæv jet tə/",
+          "pos": "固定结构",
+          "en": "have yet to do sth means still not to have done it, with the implication that it is expected to happen",
+          "zh": "迄今尚未",
+          "ctx": "协议全文至今没有公布，全文的分析都只能“基于现有披露”。",
+          "ex1": "The company has yet to explain why the outage lasted more than nine hours. 该公司至今没有解释为何这次故障持续了九个多小时。",
+          "ex2": "Two of the five defendants have yet to enter a plea. 五名被告中有两人尚未作出答辩。"
+        },
+        {
+          "w": "release",
+          "ipa": "/rɪˈliːs/",
+          "pos": "v.",
+          "en": "release (v.) means to make information, a document or a product officially available to the public",
+          "zh": "公布、发布（文件/数据）",
+          "ctx": "协议完整文本尚未对外公布，各方说法无从核对。",
+          "ex1": "The agency will release the full accident report once the investigation concludes. 调查结束后，该机构将公布完整的事故报告。",
+          "ex2": "The studio released a statement denying that production had been halted. 该制片公司发表声明，否认制作已经停止。"
+        },
+        {
+          "w": "pact",
+          "ipa": "/pækt/",
+          "pos": "n.",
+          "en": "pact (n.) means a formal agreement between two or more parties, especially one involving mutual commitment or alliance",
+          "zh": "（带结盟性质的）条约、协定",
+          "ctx": "丹麦首相口中这份三方安全协定，她强调它承认丹麦主权与格陵兰自决权。",
+          "ex1": "The three countries signed a defence pact aimed at deterring incursions in disputed waters. 三国签署了一项防务条约，旨在震慑争议水域的越界行为。",
+          "ex2": "A non-aggression pact between the rival firms ended a decade of litigation. 两家对手公司之间的互不侵犯约定，结束了长达十年的诉讼。"
+        },
+        {
+          "w": "recognize",
+          "ipa": "/ˈrekəɡnaɪz/",
+          "pos": "v.（英式拼写recognise）",
+          "en": "recognize (v.) means to officially acknowledge the existence, validity or legal status of something",
+          "zh": "（正式地）承认（主权/地位/权利）",
+          "ctx": "协议文本承认丹麦王国的主权与领土完整，以及格陵兰人民的自决权。",
+          "ex1": "Only a handful of states formally recognize the breakaway region as independent. 只有少数几个国家正式承认这个分离地区的独立地位。",
+          "ex2": "The certification is widely recognized as the industry benchmark for data security. 该认证被公认为数据安全领域的行业标杆。"
+        },
+        {
+          "w": "sovereignty",
+          "ipa": "/ˈsɒvrənti/",
+          "pos": "n.",
+          "en": "sovereignty (n.) means the supreme and independent authority of a state to govern its own territory without external interference",
+          "zh": "主权",
+          "ctx": "丹麦两年来寸步不让的核心——安全可以谈、驻军可以谈，主权归属不容触碰。",
+          "ex1": "The dispute is less about fishing rights than about who exercises sovereignty over the reef. 这场争端与其说是关于捕鱼权，不如说是关于谁对这片礁石行使主权。",
+          "ex2": "Investors grew nervous as the country's sovereign debt approached ninety percent of GDP. 随着该国主权债务逼近GDP的90%，投资者变得紧张起来。"
+        },
+        {
+          "w": "territorial integrity",
+          "ipa": "/ˌterəˈtɔːriəl ɪnˈteɡrəti/",
+          "pos": "固定短语",
+          "en": "territorial integrity means the principle that a state's existing borders are inviolable and must not be altered by force",
+          "zh": "领土完整",
+          "ctx": "与“主权”并列提出，等于明确否定任何形式的割地或吞并。",
+          "ex1": "The resolution reaffirmed respect for the territorial integrity of all member states. 该决议重申尊重所有成员国的领土完整。",
+          "ex2": "Any redrawing of borders by force would violate the principle of territorial integrity. 以武力重划边界的任何做法，都将违反领土完整原则。"
+        },
+        {
+          "w": "self-determination",
+          "ipa": "/ˌself dɪˌtɜːmɪˈneɪʃn/",
+          "pos": "n.",
+          "en": "self-determination means the right of a people to freely decide their own political status and pursue their own development",
+          "zh": "民族自决权",
+          "ctx": "丹麦首相主动强调格陵兰人民享有自决权，等于把选择权交回给格陵兰人。",
+          "ex1": "The territory's leaders insist that any change in status must follow a vote on self-determination. 该领地的领导人坚持认为，任何地位变更都必须先经过自决公投。",
+          "ex2": "The charter enshrines the right to self-determination for all peoples. 该宪章把所有民族的自决权载入了条文。"
+        },
+        {
+          "w": "indicate",
+          "ipa": "/ˈɪndɪkeɪt/",
+          "pos": "v.",
+          "en": "indicate (v.) means to show, suggest or point to something, often without stating it explicitly",
+          "zh": "表明、说明",
+          "ctx": "记者用它把首相的外交辞令翻成大白话：特朗普没拿到所有权，也没拿到主权。",
+          "ex1": "Preliminary data indicates that consumer spending held up better than economists feared. 初步数据表明，消费者支出的韧性好于经济学家的担忧。",
+          "ex2": "The chairman indicated a willingness to reopen talks, but set no timetable. 董事长表示愿意重启谈判，但没有给出时间表。"
+        }
+      ]
+    },
+    {
+      "en_html": "That <mark class=\"voc\">marks</mark> a significant <mark class=\"voc\">pullback</mark> from Trump’s earlier push to control Greenland or make it part of the US. His repeated demands to <mark class=\"voc\">acquire</mark> the territory had <mark class=\"voc\">fueled</mark> <mark class=\"voc\">distrust</mark> between Washington and its European <mark class=\"voc\">allies</mark>, <mark class=\"voc\">presenting</mark> one of the most serious <mark class=\"voc\">strains</mark> on the North Atlantic Treaty Organization in decades.",
+      "zh": "这意味着特朗普大幅收手了——比起他此前又要控制格陵兰、又想把它并进美国版图的那股劲头，这份协议差得远。而他一次次索要这片土地，早已把华盛顿与欧洲盟友之间的猜忌点燃，成了北约数十年来最严重的裂痕之一。",
+      "notes": [
+        {
+          "w": "mark",
+          "ipa": "/mɑːk/",
+          "pos": "v.",
+          "en": "mark (v.) means to be a clear sign of an important change, stage or event",
+          "zh": "标志着（某个重要转变）",
+          "ctx": "给这份协议定性——标志着特朗普从“吞并格陵兰”的立场上大幅后撤。",
+          "ex1": "The ruling marks a turning point in how courts treat algorithmic decision-making. 这项裁决标志着法院在对待算法决策问题上的一个转折点。",
+          "ex2": "The launch marked the company's first move beyond hardware into services. 这次发布标志着该公司首次从硬件跨入服务领域。"
+        },
+        {
+          "w": "pullback",
+          "ipa": "/ˈpʊlbæk/",
+          "pos": "n.",
+          "en": "pullback (n.) means a withdrawal or retreat from a previously held position, demand or level",
+          "zh": "（立场/规模上的）后撤、回落",
+          "ctx": "相比“买下格陵兰并把它并入美国”的原目标，只谈安全权限的协议是一次重大退让。",
+          "ex1": "A sharp pullback in consumer spending forced retailers to cut their holiday forecasts. 消费支出大幅回落，迫使零售商下调了假日季预期。",
+          "ex2": "The fund treated the correction as a healthy pullback rather than the start of a bear market. 该基金把这次回调视为健康的回落，而非熊市的开端。"
+        },
+        {
+          "w": "acquire",
+          "ipa": "/əˈkwaɪə/",
+          "pos": "v.",
+          "en": "acquire (v.) means to come to possess something, whether by purchase, effort or transfer",
+          "zh": "（正式地）获取、收购",
+          "ctx": "特朗普反复提出要“获取”格陵兰这块领土，用词刻意保留了“交易”的味道。",
+          "ex1": "The group acquired three regional brewers in a single year to expand its distribution network. 该集团一年内收购了三家区域啤酒厂，以扩大分销网络。",
+          "ex2": "It took him months to acquire a taste for the local coffee. 他花了好几个月才喝惯当地的咖啡。"
+        },
+        {
+          "w": "fuel",
+          "ipa": "/ˈfjuːəl/",
+          "pos": "v.",
+          "en": "fuel (v.) means to make something, typically something negative, grow stronger or worse",
+          "zh": "加剧、助长、火上浇油",
+          "ctx": "一次次索要格陵兰，不断加深美国与欧洲盟友之间的互不信任。",
+          "ex1": "The chairman's unexplained absence fuelled speculation about a boardroom split. 董事长莫名缺席，引发了关于董事会分裂的种种猜测。",
+          "ex2": "Cheap credit fuelled a property boom that regulators are now struggling to contain. 廉价信贷助推了一轮楼市繁荣，而监管机构如今正疲于应对。"
+        },
+        {
+          "w": "distrust",
+          "ipa": "/dɪsˈtrʌst/",
+          "pos": "n./v.",
+          "en": "distrust (n.) means a lack of confidence in the honesty, reliability or intentions of another party",
+          "zh": "（盟友之间的）猜忌、互不信任",
+          "ctx": "本应互为盟友的华盛顿与欧洲各国之间，因格陵兰问题积累起的严重互信缺失。",
+          "ex1": "Years of failed negotiations have bred deep distrust on both sides of the table. 多年谈判无果，在谈判桌两侧都滋生了深深的不信任。",
+          "ex2": "A climate of distrust makes even routine information-sharing difficult. 互不信任的氛围使得连例行的信息共享都变得困难。"
+        },
+        {
+          "w": "ally / allies",
+          "ipa": "/ˈælaɪ/",
+          "pos": "n.（动词读/əˈlaɪ/）",
+          "en": "ally (n.) means a country, organisation or person that is formally joined with another for mutual support, especially in defence",
+          "zh": "盟友、盟国",
+          "ctx": "丹麦是美国的北约盟友——记者刻意把“盟友”与“不信任”并置，讽刺意味极强。",
+          "ex1": "The prime minister described the visit as a chance to reassure a nervous ally. 首相称这次访问是安抚一个不安盟友的机会。",
+          "ex2": "The startup allied itself with a larger rival rather than face a costly patent fight. 这家初创公司选择与更大的竞争对手结盟，而不是打一场昂贵的专利战。"
+        },
+        {
+          "w": "present",
+          "ipa": "/prɪˈzent/",
+          "pos": "v.",
+          "en": "present (v.) means to constitute or give rise to something, especially a problem, risk or challenge",
+          "zh": "构成、造成（问题/压力）",
+          "ctx": "这场争端构成了北约数十年来最严重的内部裂痕之一。",
+          "ex1": "The new regulation presents a serious challenge for small exporters with thin margins. 这项新规对利润微薄的小型出口商构成了严峻挑战。",
+          "ex2": "The outage presented an opportunity for rivals to poach frustrated customers. 这次服务中断给竞争对手提供了挖走不满客户的机会。"
+        },
+        {
+          "w": "strain",
+          "ipa": "/streɪn/",
+          "pos": "n.",
+          "en": "strain (n.) means severe tension or pressure that damages or threatens to break a relationship, system or structure",
+          "zh": "（关系或体系的）紧张、裂痕",
+          "ctx": "格陵兰争端给北约造成几十年未见的内部张力——绷得很紧，但还没断。",
+          "ex1": "Rapid expansion has put an enormous strain on the company's supply chain. 快速扩张给公司的供应链带来了巨大压力。",
+          "ex2": "After three months of overtime, the whole team was visibly under strain. 连续加班三个月后，整个团队明显处于高压状态。"
+        }
+      ]
+    },
+    {
+      "en_html": "For Denmark and Greenland, the agreement is significant because it appears to <mark class=\"voc\">bring an end to</mark> a nearly two-year <mark class=\"voc\">standoff</mark> without ceding land to the US, Marc Jacobsen, associate professor at the Institute for Strategy and War Studies at the Royal Danish Defence College. “Donald Trump needs to <mark class=\"voc\">be seen as</mark> a winner,” he said in an interview. “So a new agreement was necessary, allowing him to say: look, my pressure worked.” But when it comes to Trump’s ambition to acquire or politically control Greenland, “he did not <mark class=\"voc\">get his way</mark> on this,” Jacobsen said.",
+      "zh": "对丹麦和格陵兰而言，这份协议分量不轻——它看上去为一场持续近两年的对峙画上了句号，而且一寸地都没让出去。丹麦皇家国防学院战略与战争研究所副教授马克·雅各布森在采访中一语道破：“特朗普需要被人看成赢家。所以新协议是必须的，这样他才能开口说：你看，我施的压，管用了。”但要论特朗普真正的野心——把格陵兰弄到手、或者在政治上控制它——雅各布森说得很干脆：“这一点，他没能如愿。”",
+      "notes": [
+        {
+          "w": "bring an end to",
+          "ipa": "/brɪŋ ən end tə/",
+          "pos": "固定短语",
+          "en": "bring an end to sth means to cause something to stop or be concluded",
+          "zh": "终结、了结（争端/僵局）",
+          "ctx": "这份协议让持续近两年的美丹格对峙告一段落。",
+          "ex1": "The settlement put an end to speculation that the founder would be forced out. 和解协议终结了关于创始人将被赶走的种种猜测。",
+          "ex2": "A decade-long partnership came to an end with a two-line press release. 一段长达十年的合作关系，以一份两行字的新闻稿告终。"
+        },
+        {
+          "w": "standoff",
+          "ipa": "/ˈstændɒf/",
+          "pos": "n.",
+          "en": "standoff (n.) means a situation in which neither side in a dispute can win or is willing to back down, resulting in deadlock",
+          "zh": "僵持、对峙",
+          "ctx": "美丹之间持续近两年、调动了军队却始终没有开火的紧张僵局。",
+          "ex1": "A tense standoff over port access has delayed shipments for nearly three weeks. 围绕港口准入的紧张僵局已经让货运延误了将近三周。",
+          "ex2": "The armed standoff ended peacefully after eleven hours of negotiation. 经过十一小时谈判，这场武装对峙和平结束。"
+        },
+        {
+          "w": "be seen as",
+          "ipa": "/bi siːn əz/",
+          "pos": "固定结构",
+          "en": "be seen as sth means to be regarded or perceived in a particular way by others, regardless of whether it is true",
+          "zh": "被视为（强调外界观感）",
+          "ctx": "特朗普真正需要的不是“成为赢家”，而是“被看成赢家”。",
+          "ex1": "The policy is widely seen as an attempt to win back younger voters. 该政策被普遍视为争取年轻选民回流的举措。",
+          "ex2": "What was once seen as a niche hobby is now a multibillion-dollar industry. 曾被看作小众爱好的东西，如今已是一个数十亿美元的产业。"
+        },
+        {
+          "w": "get one's way",
+          "ipa": "/ɡet wʌnz weɪ/",
+          "pos": "固定短语",
+          "en": "get one's way means to obtain what one wants, especially despite resistance from others",
+          "zh": "如愿以偿、闹赢了",
+          "ctx": "在“拿下格陵兰”这件事上特朗普没能如愿，措辞略带孩子气的讽刺。",
+          "ex1": "He usually gets his way in budget meetings simply by outlasting everyone else. 他在预算会上通常都能如愿，办法很简单——熬到别人都撑不住。",
+          "ex2": "If she always has her own way, the partnership will not survive the first crisis. 要是事事都由着她，这段合伙关系撑不过第一次危机。"
+        }
+      ]
+    },
+    {
+      "en_html": "Trump announced the <mark class=\"voc\">arrangement</mark> on social media on Friday, saying it would give Washington the power to <mark class=\"voc\">block</mark> US <mark class=\"voc\">adversaries</mark> from establishing bases or a military presence in Greenland, as well as from making <mark class=\"voc\">sensitive</mark> investments there. Trump also said the US would immediately begin expanding its military <mark class=\"voc\">footprint</mark> on the island and work with Greenlanders on developing and building the <mark class=\"voc\">facilities</mark>, all at “<mark class=\"voc\">NO COST</mark> to the United States.”",
+      "zh": "特朗普周五在社交媒体上宣布了这项安排，称它将赋予美国一项权力：阻止美国的对手在格陵兰建立基地、部署军事力量，也不许他们在那里做敏感投资。他还说，美国将立即着手扩大在岛上的军事摊子，并与格陵兰人合作开发建设相关设施——而这一切，“美国一分钱都不用出”。",
+      "notes": [
+        {
+          "w": "arrangement",
+          "ipa": "/əˈreɪndʒmənt/",
+          "pos": "n.",
+          "en": "arrangement (n.) means a plan or understanding about how something will be done, which may be less formal than a signed treaty",
+          "zh": "（未必有正式文本的）安排、约定",
+          "ctx": "记者用最“松”的词指称特朗普在社媒宣布的这套说法，因为它还不是签署的文书。",
+          "ex1": "The two firms have a working arrangement that has never been put in writing. 两家公司有一套一直没落到纸面上的工作默契。",
+          "ex2": "Travel arrangements for the delegation were finalised only hours before departure. 代表团的行程安排直到出发前几小时才敲定。"
+        },
+        {
+          "w": "block sb from doing",
+          "ipa": "/blɒk ... frəm ˈduːɪŋ/",
+          "pos": "固定结构",
+          "en": "block sb from doing sth means to prevent someone from taking a particular action by creating an obstacle",
+          "zh": "阻止（某方做某事）",
+          "ctx": "协议赋予美国阻止对手在格陵兰建基地、驻军或做敏感投资的权力。",
+          "ex1": "Regulators moved to block the merger on competition grounds. 监管机构以竞争问题为由，出手阻止了这项合并。",
+          "ex2": "The firewall blocks employees from accessing external file-sharing sites. 防火墙阻止员工访问外部文件共享网站。"
+        },
+        {
+          "w": "adversary",
+          "ipa": "/ˈædvəsəri/",
+          "pos": "n.",
+          "en": "adversary (n.) means an opponent whose interests are opposed to one's own, without necessarily being in open conflict",
+          "zh": "（战略）对手",
+          "ctx": "协议中未点名的“美国的对手”，外界普遍理解为俄罗斯与中国。",
+          "ex1": "The strategy document names no country but refers repeatedly to “near-peer adversaries”. 这份战略文件没有点名任何国家，却反复提到“实力接近的对手”。",
+          "ex2": "In court, the two lawyers had been adversaries for nearly twenty years. 在法庭上，这两位律师已经做了将近二十年的对手。"
+        },
+        {
+          "w": "sensitive",
+          "ipa": "/ˈsensətɪv/",
+          "pos": "adj.",
+          "en": "sensitive (adj.) means involving national security, confidentiality or strategic interests, and therefore subject to restriction",
+          "zh": "涉及国家安全的、受管制的",
+          "ctx": "敏感投资——外资进入港口、矿产、通信等关键领域，被协议明确限制。",
+          "ex1": "The contract was withheld on the grounds that it contained commercially sensitive terms. 该合同以含有商业敏感条款为由未予公开。",
+          "ex2": "Export controls now cover a widening range of sensitive technologies. 出口管制如今覆盖的敏感技术范围正在扩大。"
+        },
+        {
+          "w": "footprint",
+          "ipa": "/ˈfʊtprɪnt/",
+          "pos": "n.",
+          "en": "footprint (n.) means the size, extent or coverage of a physical or operational presence in a place",
+          "zh": "（存在的）规模、覆盖范围",
+          "ctx": "特朗普称美国将立即着手扩大在格陵兰的军事规模，包括新建设施。",
+          "ex1": "The retailer plans to shrink its store footprint while doubling online capacity. 这家零售商计划缩减门店规模，同时把线上能力翻一番。",
+          "ex2": "Employers increasingly check a candidate's digital footprint before making an offer. 雇主在发出录用通知前，越来越多地会查看候选人的网络痕迹。"
+        },
+        {
+          "w": "facility",
+          "ipa": "/fəˈsɪləti/",
+          "pos": "n.",
+          "en": "facility (n.) means a building, installation or set of equipment provided for a particular purpose",
+          "zh": "设施、基地、场所",
+          "ctx": "美国拟在格陵兰新建的军事设施——建在哪里、规模多大，文章明说尚无答案。",
+          "ex1": "The company opened a research facility in Helsinki to be closer to its academic partners. 该公司在赫尔辛基设立了一处研究机构，以便更靠近其学术合作方。",
+          "ex2": "Local residents objected to the storage facility on environmental grounds. 当地居民以环保理由反对建设这座仓储设施。"
+        },
+        {
+          "w": "at no cost / at all costs",
+          "ipa": "/ət nəʊ kɒst/ ... /ət ɔːl kɒsts/",
+          "pos": "固定短语",
+          "en": "at no cost means without any expense to the party concerned; at all costs means regardless of the price or sacrifice required",
+          "zh": "零成本 / 不惜一切代价",
+          "ctx": "特朗普用全大写“NO COST”强调美国一分钱不出，这个大写暴露了他真正的关切。",
+          "ex1": "The upgrade is offered to existing subscribers at no cost until the end of March. 三月底之前，现有订户可免费升级。",
+          "ex2": "The board was determined to avoid a public proxy fight at all costs. 董事会决意不惜一切代价避免一场公开的委托书争夺战。"
+        }
+      ]
+    }
+  ]
+}
