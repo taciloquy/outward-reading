@@ -1,0 +1,389 @@
+{
+ "paragraphs_rest": [
+  {
+   "en_html": "Ukrainian President Volodymyr Zelenskyy posted on social media that Ukraine had used domestically produced drones and <mark class=\"voc\">cruise</mark> <mark class=\"voc\">missiles</mark> to target facilities he said earned “billions of dollars that support the war machine”. Zelenskyy said a plan to <mark class=\"voc\">de-escalate</mark> the strikes on energy and food export infrastructure was “<mark class=\"voc\">on the table</mark>” but required “political will”.",
+   "zh": "乌克兰总统弗拉基米尔·泽连斯基在社交媒体上发文称，乌克兰使用国产无人机和巡航导弹打击了他所称的“赚取数十亿美元以支撑战争机器”的设施。泽连斯基表示，一项缓和针对能源和粮食出口基础设施袭击的计划“已在桌面上”，但需要“政治意愿”。",
+   "notes": [
+    {
+     "w": "cruise",
+     "ipa": "/kruːz/",
+     "pos": "adj.",
+     "en": "(of a missile) designed to fly at a low altitude and be guided to its target over a long distance",
+     "zh": "巡航（导弹）",
+     "ctx": "指乌克兰使用国产巡航导弹打击目标。",
+     "ex1": "The military tested a new cruise missile capable of evading radar detection. 军方测试了一种能够规避雷达探测的新型巡航导弹。",
+     "ex2": "Cruise missiles can fly at low altitudes to avoid enemy air defences. 巡航导弹可以低空飞行以避开敌方防空系统。"
+    },
+    {
+     "w": "missile",
+     "ipa": "/ˈmɪsaɪl/",
+     "pos": "n.",
+     "en": "a weapon that is thrown or fired at a target, especially a rocket-propelled weapon",
+     "zh": "导弹",
+     "ctx": "与cruise连用，指巡航导弹。",
+     "ex1": "The defense system successfully intercepted the incoming ballistic missile. 防御系统成功拦截了来袭的弹道导弹。",
+     "ex2": "The country test-fired a long-range missile over the Pacific Ocean. 该国在太平洋上空试射了一枚远程导弹。"
+    },
+    {
+     "w": "de-escalate",
+     "ipa": "/diː ˈeskəleɪt/",
+     "pos": "v.",
+     "en": "to reduce the intensity or severity of a conflict or situation",
+     "zh": "缓和，降级",
+     "ctx": "指缓和针对能源和粮食出口基础设施的袭击。",
+     "ex1": "Both sides agreed to de-escalate tensions along the border. 双方同意缓和边境紧张局势。",
+     "ex2": "The mediator urged the parties to de-escalate the conflict before it spiraled out of control. 调解人敦促各方在冲突失控之前缓和局势。"
+    },
+    {
+     "w": "on the table",
+     "ipa": "/ɒn ðə ˈteɪbl/",
+     "pos": "phr.",
+     "en": "offered or proposed for discussion or consideration",
+     "zh": "在桌面上，可供讨论的",
+     "ctx": "指缓和袭击的计划已被提出，等待讨论。",
+     "ex1": "The company put a generous severance package on the table during the negotiations. 公司在谈判中提出了一份优厚的遣散方案。",
+     "ex2": "All options remain on the table, including a complete withdrawal. 所有方案都仍在讨论之中，包括全面撤出。"
+    }
+   ]
+  },
+  {
+   "en_html": "The damage has added <mark class=\"voc\">urgency</mark> to <mark class=\"voc\">diplomatic</mark> efforts to halt attacks on energy infrastructure. Zelenskyy <mark class=\"voc\">is due to</mark> meet Trump at the United Nations, where an energy <mark class=\"voc\">truce</mark> with Russia is expected to be discussed. Ukraine says it is prepared to take matching steps if Russia stops targeting its energy sector, critical infrastructure and food exports. Russia has significantly <mark class=\"voc\">ramped up</mark> the use of <mark class=\"voc\">jet</mark>-powered drones to attack Ukraine in recent months and in July fired the largest number of <mark class=\"voc\">ballistic</mark> missiles at Ukraine in a single month since the start of the war. The latter is a huge problem for Ukraine as they can only be <mark class=\"voc\">intercepted</mark> by <mark class=\"voc\">Patriot</mark> air defence missiles that are in short supply. Kyiv also fears Moscow could intensify attacks on heating and power facilities this winter and is seeking additional US-made Patriot air-defence missiles.",
+   "zh": "这些破坏令旨在停止能源基础设施袭击的外交努力更显紧迫。泽连斯基将在联合国与特朗普会面，预计双方将讨论与俄罗斯达成能源休战。乌克兰表示，如果俄罗斯停止打击其能源部门、关键基础设施和粮食出口，乌方准备采取对等措施。近几个月来，俄罗斯大幅加大了对乌克兰使用喷气动力无人机的袭击力度，并在7月向乌克兰发射了自战争爆发以来单月数量最多的弹道导弹。后者对乌克兰而言是个巨大难题，因为此类导弹只能由“爱国者”防空导弹拦截，而后者供应短缺。基辅还担心莫斯科可能在今年冬季加大对供暖和电力设施的袭击，并正在寻求更多美制“爱国者”防空导弹。",
+   "notes": [
+    {
+     "w": "urgency",
+     "ipa": "/ˈɜːdʒənsi/",
+     "pos": "n.",
+     "en": "the quality of requiring immediate attention or action",
+     "zh": "紧迫性，紧急",
+     "ctx": "指破坏事件令外交努力更显紧迫。",
+     "ex1": "The doctor stressed the urgency of getting the patient to surgery immediately. 医生强调了立即将患者送去做手术的紧迫性。",
+     "ex2": "There is a growing sense of urgency about the need to address climate change. 关于应对气候变化的必要性，人们日益感到紧迫。"
+    },
+    {
+     "w": "diplomatic",
+     "ipa": "/ˌdɪpləˈmætɪk/",
+     "pos": "adj.",
+     "en": "relating to the management of relations between countries",
+     "zh": "外交的",
+     "ctx": "指旨在停止能源基础设施袭击的外交努力。",
+     "ex1": "The two countries severed diplomatic relations after the border incident. 边境事件发生后，两国断绝了外交关系。",
+     "ex2": "A diplomatic solution to the crisis remains the preferred option. 通过外交途径解决危机仍是首选方案。"
+    },
+    {
+     "w": "is due to",
+     "ipa": "/ɪz djuː tuː/",
+     "pos": "phr.",
+     "en": "is expected or scheduled to happen",
+     "zh": "定于，预计将",
+     "ctx": "指泽连斯基将在联合国与特朗普会面。",
+     "ex1": "The prime minister is due to visit Washington next month for trade talks. 首相定于下月访问华盛顿进行贸易谈判。",
+     "ex2": "The report is due to be published at the end of the quarter. 该报告定于本季度末发布。"
+    },
+    {
+     "w": "truce",
+     "ipa": "/truːs/",
+     "pos": "n.",
+     "en": "an agreement between enemies to stop fighting for a certain period of time",
+     "zh": "休战，停战",
+     "ctx": "指预计将讨论与俄罗斯达成能源休战。",
+     "ex1": "The two sides agreed to a temporary truce to allow humanitarian aid into the region. 双方同意临时休战，以便人道主义援助进入该地区。",
+     "ex2": "The truce collapsed after just three days of relative calm. 休战在仅三天的相对平静后便宣告破裂。"
+    },
+    {
+     "w": "ramp up",
+     "ipa": "/ræmp ʌp/",
+     "pos": "phr. v.",
+     "en": "to increase the level or amount of something significantly",
+     "zh": "加大，提升",
+     "ctx": "指俄罗斯近几个月大幅加大了对乌克兰使用喷气动力无人机的袭击力度。",
+     "ex1": "The factory ramped up production to meet the surge in demand. 工厂加大生产以满足激增的需求。",
+     "ex2": "The government plans to ramp up investment in renewable energy over the next decade. 政府计划在未来十年加大对可再生能源的投资。"
+    },
+    {
+     "w": "jet",
+     "ipa": "/dʒet/",
+     "pos": "n.",
+     "en": "a fast aircraft powered by jet engines; (attributive) powered by jet propulsion",
+     "zh": "喷气式（的）",
+     "ctx": "指俄罗斯使用喷气动力无人机，速度更快、威胁更大。",
+     "ex1": "The company unveiled a new jet engine that consumes 20 per cent less fuel. 该公司推出了一款油耗降低20%的新型喷气发动机。",
+     "ex2": "Jet-powered drones can travel much faster than propeller-driven ones. 喷气动力无人机的飞行速度远超螺旋桨无人机。"
+    },
+    {
+     "w": "ballistic",
+     "ipa": "/bəˈlɪstɪk/",
+     "pos": "adj.",
+     "en": "(of a missile) flying in a high arc before falling on its target, typically long-range",
+     "zh": "弹道的",
+     "ctx": "指俄罗斯向乌克兰发射的弹道导弹，拦截难度极高。",
+     "ex1": "The test involved launching a ballistic missile from a submarine. 此次试验涉及从潜艇发射一枚弹道导弹。",
+     "ex2": "Ballistic missiles follow a predictable trajectory but travel at extreme speeds. 弹道导弹的飞行轨迹可以预测，但速度极快。"
+    },
+    {
+     "w": "intercept",
+     "ipa": "/ˌɪntəˈsept/",
+     "pos": "v.",
+     "en": "to stop or catch something before it reaches its destination",
+     "zh": "拦截，截获",
+     "ctx": "指弹道导弹只能由“爱国者”防空导弹拦截。",
+     "ex1": "The air force intercepted two enemy aircraft approaching the border. 空军拦截了两架逼近边境的敌机。",
+     "ex2": "Intelligence agencies intercepted a series of encrypted communications between the suspects. 情报机构截获了嫌疑人之间的一系列加密通信。"
+    },
+    {
+     "w": "patriot",
+     "ipa": "/ˈpeɪtriət/",
+     "pos": "n.",
+     "en": "(in this context) a type of US-made surface-to-air missile system; literally, a person who loves and is willing to defend their country",
+     "zh": "“爱国者”（防空导弹系统）；爱国者",
+     "ctx": "指美制“爱国者”防空导弹，乌方急需该装备拦截弹道导弹。",
+     "ex1": "The country requested additional Patriot systems to strengthen its air defences. 该国请求增派“爱国者”系统以加强防空能力。",
+     "ex2": "He was hailed as a patriot for his decades of service to the nation. 他因数十年为国效力而被誉为爱国者。"
+    }
+   ]
+  },
+  {
+   "en_html": "Russia has rejected <mark class=\"voc\">calls</mark> for a <mark class=\"voc\">ceasefire</mark> of attacks on energy and other infrastructure ahead of what is expected to be a major <mark class=\"voc\">campaign</mark> of air strikes against Ukraine this winter. Russian President Vladimir Putin expects the strikes to strengthen Moscow’s position and help <mark class=\"voc\">extract</mark> <mark class=\"voc\">concessions</mark> from Ukraine, according to people <mark class=\"voc\">familiar with</mark> his thinking.",
+   "zh": "在预计今冬将对乌克兰发动大规模空袭之前，俄罗斯已拒绝停止对能源及其他基础设施袭击的呼吁。据了解俄罗斯总统弗拉基米尔·普京想法的人士称，普京期望这些打击能增强莫斯科的谈判地位，并有助于从乌克兰榨取让步。",
+   "notes": [
+    {
+     "w": "call",
+     "ipa": "/kɔːl/",
+     "pos": "n.",
+     "en": "a request or demand for something to happen",
+     "zh": "呼吁，要求",
+     "ctx": "指俄罗斯拒绝了停止袭击能源及其他基础设施的呼吁。",
+     "ex1": "There were widespread calls for an independent investigation into the incident. 各方普遍呼吁对事件进行独立调查。",
+     "ex2": "The union rejected the management's call for a pay freeze. 工会拒绝了管理层冻结工资的呼吁。"
+    },
+    {
+     "w": "ceasefire",
+     "ipa": "/ˈsiːsfaɪə(r)/",
+     "pos": "n.",
+     "en": "an agreement to stop fighting, especially in a war",
+     "zh": "停火",
+     "ctx": "指俄罗斯拒绝在预计今冬发动大规模空袭前停止对能源设施的袭击。",
+     "ex1": "The UN brokered a ceasefire between the two warring parties. 联合国斡旋促成了交战双方的停火。",
+     "ex2": "Violations of the ceasefire were reported within hours of it taking effect. 停火生效后数小时内就有违反停火的报道。"
+    },
+    {
+     "w": "campaign",
+     "ipa": "/kæmˈpeɪn/",
+     "pos": "n.",
+     "en": "a series of planned military operations with a particular objective",
+     "zh": "战役，行动",
+     "ctx": "指预计俄罗斯今冬将对乌克兰发动的大规模空袭行动。",
+     "ex1": "The general outlined the plan for a sustained bombing campaign against enemy supply lines. 将军概述了对敌方补给线进行持续轰炸的战役计划。",
+     "ex2": "The air campaign lasted six weeks before ground troops moved in. 空袭战役持续了六周，之后地面部队才进入。"
+    },
+    {
+     "w": "extract",
+     "ipa": "/ɪkˈstrækt/",
+     "pos": "v.",
+     "en": "to obtain something from someone, often by force or pressure",
+     "zh": "榨取，索取",
+     "ctx": "指普京期望通过打击从乌克兰榨取让步。",
+     "ex1": "The regime used threats and imprisonment to extract confessions from dissidents. 该政权通过威胁和监禁从异见人士那里逼取口供。",
+     "ex2": "Negotiators tried to extract further concessions from the other side. 谈判代表试图从对方那里索取更多让步。"
+    },
+    {
+     "w": "concession",
+     "ipa": "/kənˈseʃn/",
+     "pos": "n.",
+     "en": "something granted or yielded, often reluctantly, in response to demands",
+     "zh": "让步，妥协",
+     "ctx": "指俄罗斯期望从乌克兰获得的妥协。",
+     "ex1": "The company made several concessions to the union in order to end the strike. 公司为结束罢工向工会做出了多项让步。",
+     "ex2": "Both sides refused to make any further concessions on the disputed territory. 双方都拒绝在有争议领土问题上做出进一步让步。"
+    },
+    {
+     "w": "be familiar with",
+     "ipa": "/biː fəˈmɪliə wɪð/",
+     "pos": "phr.",
+     "en": "to have knowledge or understanding of something",
+     "zh": "熟悉，了解",
+     "ctx": "指消息人士了解普京的想法。",
+     "ex1": "She is thoroughly familiar with the legal framework governing international trade. 她对规范国际贸易的法律框架了如指掌。",
+     "ex2": "Are you familiar with the company's safety procedures? 你熟悉公司的安全规程吗？"
+    }
+   ]
+  },
+  {
+   "en_html": "Polls in the three-day parliamentary elections in Russia, the first since Putin ordered the <mark class=\"voc\">invasion</mark> of Ukraine in 2022, <mark class=\"voc\">were set to</mark> close on Sunday evening. Turnout at noon local time on Sunday was 48 per cent, according to the central election commission. The vote has <mark class=\"voc\">proceeded</mark> without drama even by Russian standards as an <mark class=\"voc\">array of</mark> Kremlin-run, pro-war parties compete for seats in parliament. Russia’s supreme court removed Yabloko, the only party that had expressed even <mark class=\"voc\">mild</mark> opposition to the war, from the <mark class=\"voc\">ballot</mark> last month.",
+   "zh": "俄罗斯为期三天的议会选举投票定于周日晚间结束，这是自普京2022年下令入侵乌克兰以来的首次选举。据中央选举委员会称，当地时间周日中午的投票率为48%。即便按俄罗斯的标准衡量，此次投票也进展得波澜不惊，一系列克里姆林宫掌控的挺战政党争夺议会席位。俄罗斯最高法院上月将“亚博卢”党从选票中剔除，这是唯一曾表达过哪怕温和反战立场的政党。",
+   "notes": [
+    {
+     "w": "invasion",
+     "ipa": "/ɪnˈveɪʒn/",
+     "pos": "n.",
+     "en": "an instance of invading a country or region with an armed force",
+     "zh": "入侵，侵略",
+     "ctx": "指普京2022年下令入侵乌克兰。",
+     "ex1": "The invasion triggered a massive refugee crisis across the region. 入侵引发了整个地区的大规模难民危机。",
+     "ex2": "The history books describe the invasion as a turning point in the war. 历史书将这次入侵描述为战争的转折点。"
+    },
+    {
+     "w": "be set to",
+     "ipa": "/biː set tuː/",
+     "pos": "phr.",
+     "en": "be ready or likely to do something; be scheduled to",
+     "zh": "即将，定于",
+     "ctx": "指俄罗斯议会选举投票定于周日晚间结束。",
+     "ex1": "The new regulations are set to take effect on January 1. 新规将于1月1日生效。",
+     "ex2": "Interest rates are set to rise again next quarter, according to analysts. 据分析师称，利率将在下季度再次上升。"
+    },
+    {
+     "w": "proceed",
+     "ipa": "/prəˈsiːd/",
+     "pos": "v.",
+     "en": "to continue or go ahead as planned",
+     "zh": "继续进行，推进",
+     "ctx": "指选举投票按部就班地进行，毫无波澜。",
+     "ex1": "The ceremony proceeded smoothly despite the earlier technical glitch. 尽管早些时候出现了技术故障，仪式仍顺利进行。",
+     "ex2": "The construction work will proceed as scheduled once the permits are approved. 一旦许可证获批，施工将按计划推进。"
+    },
+    {
+     "w": "array of",
+     "ipa": "/əˈreɪ əv/",
+     "pos": "phr.",
+     "en": "a large or impressive collection or range of things",
+     "zh": "一系列，一大批",
+     "ctx": "指克里姆林宫掌控的一大批挺战政党争夺议会席位。",
+     "ex1": "The museum houses an impressive array of ancient artifacts. 博物馆收藏了一大批令人惊叹的古代文物。",
+     "ex2": "The company offers a bewildering array of options to its customers. 该公司为客户提供了令人眼花缭乱的一系列选择。"
+    },
+    {
+     "w": "mild",
+     "ipa": "/maɪld/",
+     "pos": "adj.",
+     "en": "not severe or strong; moderate in degree",
+     "zh": "温和的，轻微的",
+     "ctx": "指“亚博卢”党是唯一曾表达过哪怕是温和反战立场的政党。",
+     "ex1": "He expressed mild disapproval of the plan but did not actively oppose it. 他对该计划表示了温和的反对，但并未积极抵制。",
+     "ex2": "The region experienced mild temperatures throughout the winter. 该地区整个冬季气温都比较温和。"
+    },
+    {
+     "w": "ballot",
+     "ipa": "/ˈbælət/",
+     "pos": "n.",
+     "en": "the system or process of voting, especially in secret; the list of candidates in an election",
+     "zh": "选票；投票",
+     "ctx": "指俄罗斯最高法院将“亚博卢”党从选票中剔除。",
+     "ex1": "Voters cast their ballots in secret to avoid intimidation. 选民以无记名方式投票，以免受到恐吓。",
+     "ex2": "The candidate's name was removed from the ballot just days before the election. 候选人的名字在选举前几天被从选票中删除。"
+    }
+   ]
+  }
+ ],
+ "proper": [
+  {
+   "name": "Ukraine（乌克兰）",
+   "def": "东欧国家，1991年苏联解体后独立。2022年2月俄罗斯对其发动全面入侵，此后两国持续交战。此次乌克兰对莫斯科发动了地方当局所称的史上最大规模无人机袭击。乌克兰在2022年战争爆发后，逐步发展了远程无人机打击能力，将战火引向俄罗斯本土纵深目标。<br>本文中的意思：本文的袭击发起方：用创纪录规模的无人机把战火烧到俄罗斯首都。"
+  },
+  {
+   "name": "Moscow（莫斯科）",
+   "def": "俄罗斯首都及最大城市，也是俄罗斯的政治、经济、文化中心。莫斯科同时是俄罗斯的一个联邦主体（联邦直辖市），行政上独立于周边的莫斯科州。此次袭击中，莫斯科成为乌克兰无人机打击的目标，当地一座大型炼油厂起火，至少两人丧生。<br>本文中的意思：本文的袭击目标：炼油厂起火、机场停飞，市长连夜通报战况。"
+  },
+  {
+   "name": "Russia's stage-managed parliamentary elections（俄罗斯精心操控的议会选举）",
+   "def": "指俄罗斯第九届国家杜马（议会下院）选举，投票于2026年9月18日至20日举行，这是俄罗斯自2022年对乌克兰开展特别军事行动以来首次举行全国性议会选举。所谓“stage-managed”，意指选举过程由克里姆林宫幕后操控，缺乏真正的政治竞争与公正性。统一俄罗斯党、俄罗斯联邦共产党、俄罗斯自由民主党、公正俄罗斯党、新人党等10个政党参与本届选举。初步计票结果显示，执政党统一俄罗斯党得票率为57.83%，获得355个议会席位。选举期间，俄罗斯领土最东端的堪察加边疆区、楚科奇自治区等地率先开始投票，投票时间为18日至20日，20日为全俄统一投票日。<br>本文中的意思：第1段和第9段的时间背景：袭击发生在投票最后一天，索比亚宁声称袭击就是为扰乱选举而来。"
+  },
+  {
+   "name": "Sergei Sobyanin（谢尔盖·索比亚宁）",
+   "def": "莫斯科市长。他于2010年被任命为莫斯科市长，2013年通过直接选举当选，2018年连任。他在此次无人机袭击事件后发表声明，称防空系统在无人机逼近首都时击落了450架，并将此次袭击称为“前所未有”。他还声称袭击“显然意在扰乱选举”，但“敌人没有得逞”。<br>本文中的意思：第2段的信息来源：莫斯科市长，负责通报首都遇袭与防空情况。"
+  },
+  {
+   "name": "Moscow Refinery（莫斯科炼油厂）",
+   "def": "位于莫斯科南部的一座大型炼油厂，由俄罗斯天然气工业石油公司（Gazprom Neft）与Sibir Energy合资运营，Sibir Energy持有51%的表决权股份。该厂是俄罗斯最大的炼油厂之一，2024年加工原油1160万吨，生产汽油290万吨、柴油320万吨。近年来该厂进行了大规模现代化改造，设备更新率超过80%，并采用了闭环水循环系统以减少环境影响。该厂拥有两套主要原油蒸馏装置，其中一套占产能的53%，另一套占47%。该炼油厂对莫斯科及周边地区的燃料供应具有重要战略意义，因此成为乌克兰无人机袭击的重点目标。<br>本文中的意思：第2–4段的核心目标：遇袭起火、两套蒸馏装置受损后停止原油加工，维修或需数周。"
+  },
+  {
+   "name": "Andrei Vorobyov（安德烈·沃罗比约夫）",
+   "def": "莫斯科州州长。他于2012年被普京任命为莫斯科州代理州长，2013年通过选举正式当选，2018年以62.52%的得票率连任。他公布了此次袭击造成的伤亡情况：两人死亡，另有20人受伤，其中包括三名儿童。<br>本文中的意思：第3段的信息来源：莫斯科州州长，公布两人死亡、20人受伤的伤亡数字。"
+  },
+  {
+   "name": "Moscow region（莫斯科州）",
+   "def": "俄罗斯的一个联邦主体，环绕莫斯科市但行政上独立于该市。莫斯科州人口超过850万（2021年数据），是俄罗斯人口密度最高的地区之一。该州拥有大量科学研究和军事工业机构，包括茹科夫斯基的航空工程中心、列乌托夫的导弹工程中心、科罗廖夫的航天技术中心等。此次袭击中，莫斯科州下辖的至少11个郊区城镇也遭到无人机袭击，造成人员伤亡。<br>本文中的意思：第3段：州内至少11个郊区城镇同时遇袭，说明打击面不止莫斯科市区。"
+  },
+  {
+   "name": "Crude distillation units（原油蒸馏装置）",
+   "def": "炼油厂的核心设备，用于将原油加热分馏为汽油、柴油、航空煤油等不同产品。莫斯科炼油厂拥有两套主要原油蒸馏装置，在此次袭击中均受损，导致该厂停止原油加工。其中一套占该炼油厂产能的53%，另一套占剩余的47%。<br>本文中的意思：第4段：两套装置均受损，是炼油厂停产原油加工的直接原因。"
+  },
+  {
+   "name": "Crude oil（原油）",
+   "def": "未经提炼的天然石油，是炼油厂加工的原料。莫斯科炼油厂在2024年加工了1160万吨原油，生产出290万吨汽油和320万吨柴油。原油经过蒸馏、裂化、重整等工艺后，被转化为各类成品油和化工原料。<br>本文中的意思：第4段：该厂2024年加工原油1160万吨等产量数字的出处。"
+  },
+  {
+   "name": "Donald Trump（唐纳德·特朗普）",
+   "def": "美国总统。他在周一声称交战双方已同意停止对能源基础设施的袭击，并将全球柴油价格飙升归咎于此类袭击。然而，俄罗斯和乌克兰在他发表声明后数小时内便继续发动了袭击。特朗普尚未对这些袭击置评。泽连斯基定于在联合国与特朗普会面，预计双方将讨论与俄罗斯达成能源休战。<br>本文中的意思：第5段：他声称双方已同意停止袭击能源设施，但声明后数小时袭击照旧。"
+  },
+  {
+   "name": "Kyiv（基辅）",
+   "def": "乌克兰首都及最大城市。在此次冲突中，基辅是乌克兰的政治和军事决策中心，也是俄罗斯空袭的主要目标之一。2026年7月，俄罗斯曾对基辅发动战争中最大规模的弹道导弹袭击之一，发射了约40至41枚各型导弹，其中大部分针对首都。文中提到基辅和莫斯科本周持续打击彼此的能源基础设施。<br>本文中的意思：第5段：与莫斯科互打能源基础设施的另一方，也是俄军弹道导弹袭击的重点目标。"
+  },
+  {
+   "name": "Volodymyr Zelenskyy（弗拉基米尔·泽连斯基）",
+   "def": "乌克兰总统。他在社交媒体上发文称，乌克兰使用国产无人机和巡航导弹打击了“赚取数十亿美元以支撑战争机器”的设施。他表示，一项缓和针对能源和粮食出口基础设施袭击的计划“已在桌面上”，但需要“政治意愿”。他还定于在联合国与特朗普会面，讨论能源休战事宜。<br>本文中的意思：第6–7段：宣布打击俄方“战争机器”的钱袋子，并把能源缓和计划摆上桌面。"
+  },
+  {
+   "name": "Cruise missiles（巡航导弹）",
+   "def": "一种以低空飞行、远距离精确打击为特点的导弹。巡航导弹在大气层内飞行，可沿预定航线规避雷达探测，与弹道导弹的高弧线飞行轨迹形成对比。乌克兰在此次袭击中使用了国产巡航导弹，与无人机配合打击俄罗斯境内目标。<br>本文中的意思：第6段：乌克兰此次打击所用的国产武器之一。"
+  },
+  {
+   "name": "United Nations（联合国）",
+   "def": "最具代表性的国际组织，总部位于美国纽约。泽连斯基定于在联合国与特朗普会面，预计双方将讨论与俄罗斯达成能源休战。这一会面凸显了联合国作为外交斡旋平台的作用。<br>本文中的意思：第7段：泽连斯基与特朗普会面、讨论能源休战的外交场合。"
+  },
+  {
+   "name": "Energy truce（能源休战）",
+   "def": "指交战双方就能源基础设施达成的停火安排。泽连斯基表示，一项缓和针对能源和粮食出口基础设施袭击的计划“已在桌面上”，但需要“政治意愿”。乌克兰表示，如果俄罗斯停止打击其能源部门、关键基础设施和粮食出口，乌方准备采取对等措施。<br>本文中的意思：第7段：全文的外交主线——乌克兰愿对等停手，前提是俄罗斯停止打击其能源与粮食出口。"
+  },
+  {
+   "name": "Patriot air defence missiles（“爱国者”防空导弹）",
+   "def": "美国制造的MIM-104“爱国者”防空导弹系统，是目前乌克兰拦截俄罗斯弹道导弹的唯一手段。该系统在俄乌战争中表现出色，曾成功拦截“匕首”高超音速导弹等俄军先进武器。然而，“爱国者”拦截弹单价高达数百万美元，且生产速度远不及俄罗斯制造用于饱和攻击的导弹。由于供应短缺，这对乌克兰而言是一个巨大难题。目前有18个国家运营“爱国者”系统，洛克希德·马丁公司正努力将PAC-3 MSE拦截弹的年产量从500枚提升至2027年的650枚。基辅担心莫斯科可能在今年冬季加大对供暖和电力设施的袭击，因此正在寻求更多美制“爱国者”防空导弹。<br>本文中的意思：第7段：乌克兰拦截弹道导弹的唯一手段，但供应短缺，构成巨大难题。"
+  },
+  {
+   "name": "Ballistic missiles（弹道导弹）",
+   "def": "俄罗斯在2026年7月向乌克兰发射了战争以来单月数量最多的弹道导弹，约40至50枚，主要针对基辅及周边地区。弹道导弹以高弧线飞行后落向目标，可在大气层外飞行，再入大气层时速度可达数倍音速，拦截难度极高。俄罗斯主要使用“伊斯坎德尔-M”战术弹道导弹，部分袭击中还使用了“锆石”高超音速巡航导弹。乌克兰只能依靠“爱国者”防空导弹拦截此类导弹，而后者供应短缺。有西方官员评估，“爱国者”对“伊斯坎德尔-M”和“匕首”导弹的拦截有效率仅为6%。<br>本文中的意思：第7段：俄罗斯7月创下单月发射纪录，是令乌克兰最头疼的威胁。"
+  },
+  {
+   "name": "Jet-powered drones（喷气动力无人机）",
+   "def": "俄罗斯近几个月大幅加大了使用喷气动力无人机袭击乌克兰的力度。俄罗斯的“天竺葵-4”（Geran-4）和“天竺葵-5”（Geran-5）是喷气动力远程打击无人机，其设计和性能已更接近巡航导弹而非传统无人机。俄罗斯从2023年12月伊朗公开展示喷气动力的“沙赫德-238”开始，经过约两年半的研发和试验，于2026年初实现大规模量产。到2026年8月，俄罗斯每月生产约3000架“天竺葵-4”和“天竺葵-5”。与螺旋桨驱动的无人机相比，喷气动力无人机飞行速度更快（巡航速度约280至330公里/小时甚至更高），威胁更大。<br>本文中的意思：第7段：俄军袭击手段升级的方向——速度更快、更接近巡航导弹。"
+  },
+  {
+   "name": "Vladimir Putin（弗拉基米尔·普京）",
+   "def": "俄罗斯总统。他于2022年下令入侵乌克兰。据了解其想法的人士称，普京期望今冬对乌克兰的大规模空袭能增强莫斯科的谈判地位，并有助于从乌克兰榨取让步。俄罗斯已拒绝停止对能源及其他基础设施袭击的呼吁。<br>本文中的意思：第8段：拒绝停火呼吁，指望今冬大规模空袭换来谈判筹码。"
+  },
+  {
+   "name": "Yabloko（“亚博卢”党）",
+   "def": "俄罗斯的一个社会自由主义政党，全称“俄罗斯统一民主党‘亚博卢’”，由格里戈里·亚夫林斯基领导。该党是俄罗斯唯一曾表达过哪怕温和反战立场的政党，在2005年莫斯科市杜马选举中曾获得11.11%的选票，赢得3个席位。俄罗斯最高法院上月将其从选票中剔除，使其无法参加此次议会选举。这一举措进一步凸显了此次选举缺乏真正的政治竞争。<br>本文中的意思：第9段：唯一温和反战的政党被剔出选票，选举“波澜不惊”由此而来。"
+  },
+  {
+   "name": "Russia's supreme court（俄罗斯最高法院）",
+   "def": "俄罗斯的最高司法机构。在此次议会选举中，该法院将“亚博卢”党从选票中剔除，这是该党被排除在选举之外的直接原因。<br>本文中的意思：第9段：把“亚博卢”党从选票中剔除的司法机构。"
+  },
+  {
+   "name": "Central election commission（中央选举委员会）",
+   "def": "俄罗斯负责组织和管理选举的官方机构，由埃拉·帕姆菲洛娃担任主席。据该委员会称，此次议会选举投票中，当地时间周日中午的投票率为48%。帕姆菲洛娃在选举后表示，初步计票结果显示统一俄罗斯党得票率为57.83%，最终计票结果将于9月25日公布。<br>本文中的意思：第9段：公布48%投票率的官方机构。"
+  }
+ ],
+ "sources_note": "资料核对：以上背景依据文章内容，并参考英国《金融时报》原文报道及俄罗斯中央选举委员会等公开信息，截至 2026 年 9 月。",
+ "practice": {
+  "intro": "请根据今天学习的外刊，把下面的中文句子翻译成英文。要求：尽量用上本文的核心表达，可以适当改变词形，但不要直接照抄原文。",
+  "items": [
+   "这家炼油厂昨夜起火，消防员花了几个小时才控制住火势。",
+   "市长说，这是该市多年来遭遇的最严重袭击，但他呼吁市民保持冷静。",
+   "仓库里存放着大量货物，火灾造成的损失估计高达数百万美元。",
+   "由于双方仍未达成停火协议，边境地区的居民正在陆续撤离。",
+   "她定于下周与客户会面，届时将讨论合同的最后细节。",
+   "他对当地情况非常熟悉，因此被选为这次项目的负责人。"
+  ],
+  "critical_en": "If record-breaking drone attacks cannot decide the battlefield but can shut refineries, ground airports and disrupt elections, what is each side actually trying to achieve — and can an energy truce hold without broader peace talks?",
+  "critical_zh": "如果创纪录的无人机袭击改变不了战场，却能瘫痪炼油厂、迫使机场停飞、搅乱选举，那么双方到底想通过这类袭击得到什么？在缺乏更广泛和谈的情况下，能源休战能维持得住吗？",
+  "answer": "1. The refinery caught fire last night, and it took firefighters several hours to bring the blaze under control.<br><br>2. The mayor said it was the worst attack the city had seen in years, but he urged residents to remain calm.<br><br>3. The warehouse stored a large quantity of goods, and the damage caused by the fire was estimated at several million dollars.<br><br>4. As the two sides have still not reached a ceasefire agreement, residents in the border area are gradually being evacuated.<br><br>5. She is due to meet the client next week, when the final details of the contract will be discussed.<br><br>6. He is very familiar with the local situation, so he was chosen as the person in charge of this project."
+ },
+ "mindmap": {
+  "aria": "无人机空袭莫斯科文章思维导图",
+  "alt": "无人机空袭莫斯科：乌克兰为何打这么狠（矢量版）",
+  "svg": "<svg viewBox=\"0 0 960 720\" xmlns=\"http://www.w3.org/2000/svg\" role=\"img\" aria-label=\"无人机空袭莫斯科文章思维导图\" style=\"width:100%;height:auto;font-family:-apple-system,'PingFang SC','Hiragino Sans GB','Microsoft YaHei',sans-serif\">\n        <rect x=\"24\" y=\"306\" width=\"176\" height=\"88\" rx=\"14\" fill=\"#eae3d2\" stroke=\"#9a8f76\"/>\n        <text x=\"112\" y=\"342\" text-anchor=\"middle\" fill=\"#3d3a34\" font-size=\"17\" font-weight=\"700\">无人机空袭莫斯科</text>\n        <text x=\"112\" y=\"368\" text-anchor=\"middle\" fill=\"#5c5648\" font-size=\"12.5\">乌克兰为何打这么狠</text>\n\n        <path d=\"M200,350 C232,350 232,88 260,88\"  stroke=\"#6b8f71\" stroke-width=\"2\" fill=\"none\"/>\n        <path d=\"M200,350 C232,350 232,238 260,238\" stroke=\"#7d98ad\" stroke-width=\"2\" fill=\"none\"/>\n        <path d=\"M200,350 C232,350 232,433 260,433\" stroke=\"#bd7a6d\" stroke-width=\"2\" fill=\"none\"/>\n        <path d=\"M200,350 C232,350 232,628 260,628\" stroke=\"#9b86b3\" stroke-width=\"2\" fill=\"none\"/>\n\n        <g class=\"mm-branch\" data-target=\"bc1\">\n          <rect x=\"260\" y=\"71\" width=\"190\" height=\"34\" rx=\"8\" fill=\"#e6efe7\" stroke=\"#6b8f71\"/>\n          <text x=\"349\" y=\"93\" text-anchor=\"middle\" fill=\"#4c6b52\" font-size=\"15\" font-weight=\"700\">最大空袭之夜（¶1–3）</text>\n          <text class=\"mm-arrow\" data-for=\"bc1\" x=\"442\" y=\"93\" text-anchor=\"end\" fill=\"#4c6b52\">▾</text>\n        </g>\n        <g class=\"mm-children\" id=\"bc1\">\n          <path d=\"M450,88 C462,88 462,46 480,46\" stroke=\"#6b8f71\" stroke-width=\"1.5\" fill=\"none\"/>\n          <path d=\"M450,88 C462,88 462,88 480,88\" stroke=\"#6b8f71\" stroke-width=\"1.5\" fill=\"none\"/>\n          <path d=\"M450,88 C462,88 462,130 480,130\" stroke=\"#6b8f71\" stroke-width=\"1.5\" fill=\"none\"/>\n          <rect x=\"480\" y=\"30\" width=\"456\" height=\"32\" rx=\"8\" fill=\"#e6efe7\"/><text x=\"492\" y=\"51\" fill=\"#3d3a34\" font-size=\"14\">史上最大规模：俄全国一夜击落1110架无人机</text>\n          <rect x=\"480\" y=\"72\" width=\"456\" height=\"32\" rx=\"8\" fill=\"#e6efe7\"/><text x=\"492\" y=\"93\" fill=\"#3d3a34\" font-size=\"14\">莫斯科炼油厂起火，滚滚黑烟遮蔽日出</text>\n          <rect x=\"480\" y=\"114\" width=\"456\" height=\"32\" rx=\"8\" fill=\"#e6efe7\"/><text x=\"492\" y=\"135\" fill=\"#3d3a34\" font-size=\"14\">2人死亡20人伤，11个郊区城镇同遭打击</text>\n        </g>\n\n        <g class=\"mm-branch\" data-target=\"bc2\">\n          <rect x=\"260\" y=\"221\" width=\"190\" height=\"34\" rx=\"8\" fill=\"#e5edf4\" stroke=\"#7d98ad\"/>\n          <text x=\"349\" y=\"243\" text-anchor=\"middle\" fill=\"#3d5872\" font-size=\"15\" font-weight=\"700\">能源战与停飞（¶4–5）</text>\n          <text class=\"mm-arrow\" data-for=\"bc2\" x=\"442\" y=\"243\" text-anchor=\"end\" fill=\"#3d5872\">▾</text>\n        </g>\n        <g class=\"mm-children\" id=\"bc2\">\n          <path d=\"M450,238 C462,238 462,196 480,196\" stroke=\"#7d98ad\" stroke-width=\"1.5\" fill=\"none\"/>\n          <path d=\"M450,238 C462,238 462,238 480,238\" stroke=\"#7d98ad\" stroke-width=\"1.5\" fill=\"none\"/>\n          <path d=\"M450,238 C462,238 462,280 480,280\" stroke=\"#7d98ad\" stroke-width=\"1.5\" fill=\"none\"/>\n          <rect x=\"480\" y=\"180\" width=\"456\" height=\"32\" rx=\"8\" fill=\"#e5edf4\"/><text x=\"492\" y=\"201\" fill=\"#3d3a34\" font-size=\"14\">两套蒸馏装置受损停产，维修或需数周</text>\n          <rect x=\"480\" y=\"222\" width=\"456\" height=\"32\" rx=\"8\" fill=\"#e5edf4\"/><text x=\"492\" y=\"243\" fill=\"#3d3a34\" font-size=\"14\">三大机场停飞；特朗普喊停后数小时袭击照旧</text>\n          <rect x=\"480\" y=\"264\" width=\"456\" height=\"32\" rx=\"8\" fill=\"#e5edf4\"/><text x=\"492\" y=\"285\" fill=\"#3d3a34\" font-size=\"14\">双方持续互袭能源设施，推高全球柴油价格</text>\n        </g>\n\n        <g class=\"mm-branch\" data-target=\"bc3\">\n          <rect x=\"260\" y=\"416\" width=\"190\" height=\"34\" rx=\"8\" fill=\"#f4e7e4\" stroke=\"#bd7a6d\"/>\n          <text x=\"349\" y=\"438\" text-anchor=\"middle\" fill=\"#7c4a3e\" font-size=\"15\" font-weight=\"700\">外交努力与筹码（¶6–7）</text>\n          <text class=\"mm-arrow\" data-for=\"bc3\" x=\"442\" y=\"438\" text-anchor=\"end\" fill=\"#7c4a3e\">▾</text>\n        </g>\n        <g class=\"mm-children\" id=\"bc3\">\n          <path d=\"M450,433 C462,433 462,391 480,391\" stroke=\"#bd7a6d\" stroke-width=\"1.5\" fill=\"none\"/>\n          <path d=\"M450,433 C462,433 462,433 480,433\" stroke=\"#bd7a6d\" stroke-width=\"1.5\" fill=\"none\"/>\n          <path d=\"M450,433 C462,433 462,475 480,475\" stroke=\"#bd7a6d\" stroke-width=\"1.5\" fill=\"none\"/>\n          <rect x=\"480\" y=\"375\" width=\"456\" height=\"32\" rx=\"8\" fill=\"#f4e7e4\"/><text x=\"492\" y=\"396\" fill=\"#3d3a34\" font-size=\"14\">泽连斯基：打击“支撑战争机器”的赚钱设施</text>\n          <rect x=\"480\" y=\"417\" width=\"456\" height=\"32\" rx=\"8\" fill=\"#f4e7e4\"/><text x=\"492\" y=\"438\" fill=\"#3d3a34\" font-size=\"14\">联合国会晤特朗普，能源休战“已在桌面上”</text>\n          <rect x=\"480\" y=\"459\" width=\"456\" height=\"32\" rx=\"8\" fill=\"#f4e7e4\"/><text x=\"492\" y=\"480\" fill=\"#3d3a34\" font-size=\"14\">俄喷气无人机与弹道导弹升级，“爱国者”短缺</text>\n        </g>\n\n        <g class=\"mm-branch\" data-target=\"bc4\">\n          <rect x=\"260\" y=\"611\" width=\"190\" height=\"34\" rx=\"8\" fill=\"#ece4f2\" stroke=\"#9b86b3\"/>\n          <text x=\"349\" y=\"633\" text-anchor=\"middle\" fill=\"#5a4670\" font-size=\"15\" font-weight=\"700\">拒绝停火与选举（¶8–9）</text>\n          <text class=\"mm-arrow\" data-for=\"bc4\" x=\"442\" y=\"633\" text-anchor=\"end\" fill=\"#5a4670\">▾</text>\n        </g>\n        <g class=\"mm-children\" id=\"bc4\">\n          <path d=\"M450,628 C462,628 462,586 480,586\" stroke=\"#9b86b3\" stroke-width=\"1.5\" fill=\"none\"/>\n          <path d=\"M450,628 C462,628 462,628 480,628\" stroke=\"#9b86b3\" stroke-width=\"1.5\" fill=\"none\"/>\n          <path d=\"M450,628 C462,628 462,670 480,670\" stroke=\"#9b86b3\" stroke-width=\"1.5\" fill=\"none\"/>\n          <rect x=\"480\" y=\"570\" width=\"456\" height=\"32\" rx=\"8\" fill=\"#ece4f2\"/><text x=\"492\" y=\"591\" fill=\"#3d3a34\" font-size=\"14\">普京拒绝停火，指望今冬空袭榨取让步</text>\n          <rect x=\"480\" y=\"612\" width=\"456\" height=\"32\" rx=\"8\" fill=\"#ece4f2\"/><text x=\"492\" y=\"633\" fill=\"#3d3a34\" font-size=\"14\">议会选举波澜不惊：挺战政党争夺席位</text>\n          <rect x=\"480\" y=\"654\" width=\"456\" height=\"32\" rx=\"8\" fill=\"#ece4f2\"/><text x=\"492\" y=\"675\" fill=\"#3d3a34\" font-size=\"14\">唯一温和反战的“亚博卢”党被剔出选票</text>\n        </g>\n      </svg>",
+  "img": ""
+ }
+}

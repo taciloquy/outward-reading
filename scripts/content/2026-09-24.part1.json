@@ -1,0 +1,427 @@
+{
+ "date": "2026-09-24",
+ "title_tag": "上线12天，下载速度超过当年的ChatGPT：Meta这个新AI，让华尔街彻底兴奋了—— 英国路透社外刊讲解第1177天",
+ "h1": "上线12天，下载速度超过当年的ChatGPT：Meta这个新AI，让华尔街彻底兴奋了",
+ "source_label": "Reuters",
+ "category": "英国路透社外刊讲解 第1177天",
+ "read_minutes": 20,
+ "nav_hint": "Wall Street bets on Meta's AI agent Muse",
+ "headline": {
+  "en_html": "Wall Street <mark class=\"voc\">expects</mark> Meta’s <mark class=\"voc\">AI agent</mark> to <mark class=\"voc\">shape into</mark> a new <mark class=\"voc\">revenue</mark> <mark class=\"voc\">engine</mark>",
+  "zh": "华尔街押注：Meta 的AI 智能体，正在长成一台全新的印钞机。",
+  "notes": [
+   {
+    "w": "expect sb/sth to do",
+    "ipa": "/ɪkˈspekt/",
+    "pos": "短语",
+    "en": "expect sb/sth to do (短语) means to believe that something will happen or that someone will do something",
+    "zh": "预计，预期（会……）",
+    "ctx": "证券语境里这是最常用的“市场预期”句式，标题把它用在开头：华尔街预计Meta 的AI 智能体“会长成”一项新业务，至于长成什么样，留给副题。",
+    "ex1": "Analysts expect the chipmaker to report record profits for the third quarter. 分析师预计这家芯片制造商第三季度利润将创历史新高。",
+    "ex2": "Few investors expected the startup to survive its first year, let alone go public. 当初很少有投资者认为这家初创公司能撑过第一年，更别提上市了。"
+   },
+   {
+    "w": "agent",
+    "ipa": "/ˈeɪdʒənt/",
+    "pos": "n.",
+    "en": "agent (n.) means a person or computer program that acts on behalf of someone else, performing tasks for them",
+    "zh": "代理人；AI 智能体",
+    "ctx": "从“替人办事的代理人”长成“替人办事的程序”，本文专指Muse 这种能自主跑完多步骤任务的AI，而不是只会一问一答的聊天机器人。",
+    "ex1": "The airline now lets an AI agent rebook passengers automatically when flights are cancelled. 这家航空公司现在允许AI智能体在航班取消时自动为乘客改签。",
+    "ex2": "She hired an estate agent to sell her flat before moving abroad. 出国前，她请了一位房产中介帮她卖掉公寓。"
+   },
+   {
+    "w": "shape into",
+    "ipa": "/ʃeɪp ˈɪntuː/",
+    "pos": "短语",
+    "en": "shape into (短语) means to gradually develop into a particular form or state",
+    "zh": "逐渐发展成为",
+    "ctx": "不是“被做成”，而是“自己慢慢长成”——华尔街看中的正是Muse 从一款免费应用长成收入业务的可能性。",
+    "ex1": "The side project quickly shaped into a profitable business with thousands of paying customers. 这个副业项目很快发展成一门拥有数千付费客户的赚钱生意。",
+    "ex2": "Plans for the new headquarters are finally beginning to take shape. 新总部的规划终于开始成形了。"
+   },
+   {
+    "w": "revenue",
+    "ipa": "/ˈrevənjuː/",
+    "pos": "n.",
+    "en": "revenue (n.) means the income that a company or government receives, especially from selling goods or services",
+    "zh": "营收，收入",
+    "ctx": "企业真正收回来的钱，本文特指Meta 想靠Muse 的订阅费挣到的那笔、广告之外的新收入。",
+    "ex1": "The streaming service's revenue jumped 15% after it raised subscription prices. 提高订阅价格后，这家流媒体平台的营收大涨15%。",
+    "ex2": "Online sales now generate more than half of the retailer's revenue. 线上销售目前贡献了这家零售商一半以上的营收。"
+   },
+   {
+    "w": "engine",
+    "ipa": "/ˈendʒɪn/",
+    "pos": "n.",
+    "en": "engine (n.) means a thing that provides the power or drive for something to grow or develop",
+    "zh": "引擎；驱动力、增长来源",
+    "ctx": "不是机器零件，而是“拉着整家公司往前跑的那台发动机”，标题用它把Muse 说成Meta 的新增长点。",
+    "ex1": "Cloud computing has become the main growth engine for the software giant. 云计算已成为这家软件巨头的主要增长引擎。",
+    "ex2": "Small businesses are often described as the engine of the local economy. 小企业常被称为地方经济的发动机。"
+   }
+  ]
+ },
+ "paragraphs": [
+  {
+   "en_html": "Wall Street has turned <mark class=\"voc\">bullish</mark> on Meta Platforms, betting that its new AI agent Muse could open a new <mark class=\"voc\">revenue stream</mark> for the social media giant and <mark class=\"voc\">reshape</mark> the company’s AI <mark class=\"voc\">monetization</mark> prospects.",
+   "zh": "华尔街已经翻多Meta。这一次，他们押的是那款新上线的AI 智能体Muse——赌它能为这家社交巨头凿开一条全新的收入渠道，把Meta 在AI 变现上的想象空间彻底改写。",
+   "notes": [
+    {
+     "w": "bullish",
+     "ipa": "/ˈbʊlɪʃ/",
+     "pos": "adj.",
+     "en": "bullish (adj.) means feeling confident that prices will rise or that a situation will develop in a positive way",
+     "zh": "看涨的，看好的",
+     "ctx": "公牛顶角向上的意象，本文指华尔街对Meta 的态度由怀疑翻成看好，turn bullish on 就是“翻多”。",
+     "ex1": "Many fund managers turned bullish on gold after the central bank signalled rate cuts. 央行释放降息信号后，许多基金经理转而看好黄金。",
+     "ex2": "Despite the recent slump, she remains bullish about the electric car maker's long-term future. 尽管近期股价大跌，她依然看好这家电动车企业的长期前景。"
+    },
+    {
+     "w": "revenue stream",
+     "ipa": "/ˈrevənjuː striːm/",
+     "pos": "固定短语",
+     "en": "revenue stream (固定短语) means a source from which a business regularly earns money",
+     "zh": "收入来源，收入渠道",
+     "ctx": "把收入比成水流，一条stream 就是一条稳定进账的活水，本文指Muse 的订阅费有望成为广告之外的新水道。",
+     "ex1": "The museum created a new revenue stream by renting out its hall for weddings. 这家博物馆通过出租大厅举办婚礼，开辟了一条新收入来源。",
+     "ex2": "Freelancers are advised to build multiple revenue streams to survive slow months. 自由职业者最好建立多条收入渠道，以撑过淡季。"
+    },
+    {
+     "w": "reshape",
+     "ipa": "/ˌriːˈʃeɪp/",
+     "pos": "v.",
+     "en": "reshape (v.) means to change the form, structure or nature of something",
+     "zh": "重塑，彻底改变",
+     "ctx": "re- 再 + shape 塑形，本文指把市场对“Meta 到底能不能靠AI 赚钱”的判断整个重做一遍。",
+     "ex1": "Remote work has reshaped the way companies think about office space. 远程办公改变了企业对办公空间的看法。",
+     "ex2": "The merger could reshape the competitive landscape of the airline industry. 这次合并可能重塑航空业的竞争格局。"
+    },
+    {
+     "w": "monetization",
+     "ipa": "/ˌmʌnɪtaɪˈzeɪʃn/",
+     "pos": "n.",
+     "en": "monetization (n.) means the process of earning money from a product, service or asset",
+     "zh": "变现，商业化",
+     "ctx": "把用户、流量、技术换成钱的过程，本文指Meta 在AI 上砸了巨资却一直没找到直接收钱的口子，Muse 的订阅制被看作突破口。",
+     "ex1": "The video platform is testing new monetization tools that let creators sell memberships. 这家视频平台正在测试新的变现工具，让创作者可以出售会员。",
+     "ex2": "Investors are growing impatient with the company's slow monetization of its huge user base. 投资者对这家公司迟迟无法把庞大用户群变现越来越没有耐心。"
+    }
+   ]
+  },
+  {
+   "en_html": "Muse, launched on September 8, is an AI assistant that can send emails, book travel and complete <mark class=\"voc\">transactions</mark> such as selling a car <mark class=\"voc\">on behalf of</mark> a user. Internally <mark class=\"voc\">code-named</mark> <mark class=\"voc\">Hatch</mark>, the agent is built on the <mark class=\"voc\">open-source</mark> framework OpenClaw and is designed to <mark class=\"voc\">plug into</mark> a person’s apps across categories including email, calendar, payments, health, shopping and the smart home. Meta has said users choose which apps to connect and can <mark class=\"voc\">revoke</mark> that access at any time, and each agent runs on its own cloud-based <mark class=\"voc\">virtual machine</mark> so it can keep working on tasks even when the user isn’t actively engaged with the app. The basic version is free, with <mark class=\"voc\">subscriptions</mark> priced at $20 and $100 a month for heavier use.",
+   "zh": "Muse 于9 月8 日上线，是一款能替用户收发邮件、预订行程、乃至完成“卖掉一辆车”这类交易的AI 助手。它在Meta 内部的代号叫Hatch——“孵化”，基于开源框架OpenClaw 打造，设计目标是接管一个人散落在各处的应用：邮件、日历、支付、健康、购物、智能家居。Meta 强调，连接哪些应用由用户自己决定，授权也可以随时收回。每一个智能体都运行在专属的云端虚拟机上——换句话说，你关掉手机之后，它还在那头替你干活。基础版免费；每月20 美元和100 美元两档订阅，留给用得更凶的人。",
+   "notes": [
+    {
+     "w": "transaction",
+     "ipa": "/trænˈzækʃn/",
+     "pos": "n.",
+     "en": "transaction (n.) means an act of buying or selling something, or a piece of business done between people",
+     "zh": "交易，一笔买卖",
+     "ctx": "指涉及钱款往来的完整动作，本文强调Muse 能替你把一辆车卖掉，而不只是帮你写封信。",
+     "ex1": "The bank charges a small fee for each international transaction. 银行对每笔跨境交易收取少量手续费。",
+     "ex2": "Most transactions at the market are now made by mobile payment. 这个市场里现在大部分交易都用手机支付完成。"
+    },
+    {
+     "w": "on behalf of",
+     "ipa": "/ɒn bɪˈhɑːf əv/",
+     "pos": "固定短语",
+     "en": "on behalf of (固定短语) means as the representative of someone, or instead of them",
+     "zh": "代表某人，替某人",
+     "ctx": "本义“站在某人这一边”，本文指AI 代替本人发邮件、订行程、卖车——动作是它做的，名义是你的。",
+     "ex1": "The lawyer signed the contract on behalf of her client. 律师代表她的客户签署了合同。",
+     "ex2": "I'd like to thank you on behalf of the whole team. 我代表整个团队向你表示感谢。"
+    },
+    {
+     "w": "code-named",
+     "ipa": "/ˈkəʊd neɪmd/",
+     "pos": "adj.",
+     "en": "code-named (adj.) means given a secret name that is used to refer to a project or product before it is made public",
+     "zh": "代号为……的",
+     "ctx": "产品发布前不能叫真名，内部先挂一个代号，本文指Muse 在Meta 内部被叫作Hatch。",
+     "ex1": "The phone, code-named “Falcon”, is expected to reach stores next year. 这款代号“猎鹰”的手机预计明年上市。",
+     "ex2": "Engineers worked on the chip under the code name “Blue Lake” for two years. 工程师们以“蓝湖”为代号研发这款芯片长达两年。"
+    },
+    {
+     "w": "hatch",
+     "ipa": "/hætʃ/",
+     "pos": "v./n.",
+     "en": "hatch (v./n.) means to come out of an egg; also, to develop a plan or idea, often secretly",
+     "zh": "孵化；孕育、策划",
+     "ctx": "蛋壳裂开、幼崽钻出来，引申为“憋出一个点子”，本文用Hatch 做代号，暗含“孵出新产品”的意思。",
+     "ex1": "The two founders hatched the idea for the company over coffee in a college library. 两位创始人在大学图书馆喝咖啡时萌生了创办公司的点子。",
+     "ex2": "The turtle eggs are expected to hatch within the next few days. 这些海龟蛋预计几天内就会孵化。"
+    },
+    {
+     "w": "open-source",
+     "ipa": "/ˌəʊpən ˈsɔːs/",
+     "pos": "adj.",
+     "en": "open-source (adj.) means describing software whose original code is freely available for anyone to use, study and change",
+     "zh": "开源的",
+     "ctx": "源代码公开、谁都能看能改，本文指Muse 站在公开的OpenClaw 代码上，而不是Meta 从零自研。",
+     "ex1": "The startup made its AI model open-source so developers could improve it. 这家初创公司把AI模型开源，好让开发者帮忙改进。",
+     "ex2": "Many banks now rely on open-source tools to manage their data. 如今很多银行依靠开源工具来管理数据。"
+    },
+    {
+     "w": "plug into",
+     "ipa": "/plʌɡ ˈɪntuː/",
+     "pos": "短语",
+     "en": "plug into (短语) means to connect to a system or source so that you can use it",
+     "zh": "接入，连接",
+     "ctx": "插头插进插座的动作，本文指Muse 一个口子接进你手机上的邮件、日历、支付、健康等应用。",
+     "ex1": "The new payment tool plugs into most online shopping platforms. 这款新支付工具可以接入大多数网购平台。",
+     "ex2": "Solar farms are being plugged into the national grid at record speed. 太阳能电站正以创纪录的速度接入国家电网。"
+    },
+    {
+     "w": "revoke",
+     "ipa": "/rɪˈvəʊk/",
+     "pos": "v.",
+     "en": "revoke (v.) means to officially cancel a right, permission or law so that it is no longer valid",
+     "zh": "撤销，收回",
+     "ctx": "词根voc 是“叫”，re- 往回，把已经给出的授权叫回来，本文指用户可以随时收回Muse 的访问权限。",
+     "ex1": "The city revoked the restaurant's licence after repeated safety violations. 由于屡次违反安全规定，市政府吊销了这家餐厅的营业执照。",
+     "ex2": "Users can revoke an app's access to their location at any time in settings. 用户可以随时在设置中撤销应用获取位置的权限。"
+    },
+    {
+     "w": "virtual machine",
+     "ipa": "/ˌvɜːtʃuəl məˈʃiːn/",
+     "pos": "n.",
+     "en": "virtual machine (n.) means a software-based computer that runs on a physical server and works like a separate computer",
+     "zh": "虚拟机",
+     "ctx": "一台真服务器里切出来的“假电脑”，每个用户独占一台，本文指你关掉手机，云端那台还在替你干活。",
+     "ex1": "The company moved all its software onto virtual machines to cut hardware costs. 这家公司把所有软件迁移到虚拟机上以降低硬件成本。",
+     "ex2": "Each student gets a virtual machine to practise coding safely. 每个学生都会分到一台虚拟机，可以安全地练习编程。"
+    },
+    {
+     "w": "subscription",
+     "ipa": "/səbˈskrɪpʃn/",
+     "pos": "n.",
+     "en": "subscription (n.) means an amount of money paid regularly to receive a product or service",
+     "zh": "订阅，订阅费",
+     "ctx": "sub- 在下 + scrib 写，原指在文件末尾签名认账，本文指每月20 美元和100 美元这两档付费。",
+     "ex1": "The newspaper lost thousands of readers after it doubled its subscription fee. 报纸把订阅费翻倍后流失了数千名读者。",
+     "ex2": "Many people forget to cancel free trials that turn into paid subscriptions. 很多人忘了取消免费试用，结果自动转成了付费订阅。"
+    }
+   ]
+  },
+  {
+   "en_html": "Meta executives have said the product was originally <mark class=\"voc\">slated</mark> for an April release but was <mark class=\"voc\">held back</mark> for additional months of security work before the company <mark class=\"voc\">judged</mark> it ready to launch. The <mark class=\"voc\">rollout</mark> is currently limited to the US and Canada, available through a <mark class=\"voc\">standalone</mark> app, on iOS and Android, and through WhatsApp, with Meta saying it plans to bring the agent to its Ray-Ban smart glasses in the future.",
+   "zh": "Meta 高管透露，这款产品原本排在四月发布，却被硬生生压了好几个月——这几个月全部用来补安全，直到公司自己认为它可以见人了，才放出来。目前铺开的范围只有美国和加拿大：一个独立App，iOS 和安卓双端，另外还能直接在WhatsApp 里用。Meta 说，未来还要把这个智能体装进自家的雷朋智能眼镜里。",
+   "notes": [
+    {
+     "w": "be slated for / be slated to do",
+     "ipa": "/ˈsleɪtɪd/",
+     "pos": "短语",
+     "en": "be slated for / be slated to do (短语) means to be planned or expected to happen at a particular time, or to be chosen for a particular role",
+     "zh": "定于，计划在",
+     "ctx": "slate 是石板，日程写上去就等于定死，本文指Muse 原定4 月发布，后来拖到了9 月8 日。",
+     "ex1": "The new airport terminal is slated to open in 2028. 新航站楼计划于2028年启用。",
+     "ex2": "The sequel, originally slated for summer, has been pushed back to December. 这部续集原定夏天上映，现已推迟到12月。"
+    },
+    {
+     "w": "hold back",
+     "ipa": "/həʊld bæk/",
+     "pos": "短语",
+     "en": "hold back (短语) means to delay something, or to prevent something from developing or moving forward",
+     "zh": "推迟，暂缓；抑制",
+     "ctx": "往后拉住不让走，本文指为了补安全，Meta 把发布硬生生压了约5 个月。",
+     "ex1": "Supply shortages held back the release of the new console. 供应短缺拖延了新款游戏机的上市。",
+     "ex2": "High borrowing costs are holding back investment in small businesses. 高昂的借贷成本正在抑制对小企业的投资。"
+    },
+    {
+     "w": "judge sth + adj.",
+     "ipa": "/dʒʌdʒ/",
+     "pos": "短语",
+     "en": "judge sth + adj. (短语) means to form an opinion that something has a particular quality after considering it",
+     "zh": "判定，认为",
+     "ctx": "法官敲槌式的“裁定”，本文指Meta 自己判定Muse 在安全上过关了，才放它出门。",
+     "ex1": "Engineers judged the bridge safe to reopen after a week of tests. 经过一周测试，工程师判定这座桥可以重新通行。",
+     "ex2": "The campaign was judged a success after sales rose 30%. 销量增长30%之后，这次营销活动被认为是成功的。"
+    },
+    {
+     "w": "rollout",
+     "ipa": "/ˈrəʊlaʊt/",
+     "pos": "n.",
+     "en": "rollout (n.) means the process of introducing a new product or service to the public, often in stages",
+     "zh": "推出，分阶段上线",
+     "ctx": "把地毯一路铺开，指新品一批批推向市场，本文指目前只铺到美国和加拿大。",
+     "ex1": "The bank plans a gradual rollout of the new app, starting with younger customers. 这家银行计划逐步推出新应用，先从年轻客户开始。",
+     "ex2": "The city rolled out the red carpet for the returning Olympic team. 这座城市隆重迎接凯旋的奥运代表队。"
+    },
+    {
+     "w": "standalone",
+     "ipa": "/ˈstændəˌləʊn/",
+     "pos": "adj.",
+     "en": "standalone (adj.) means able to operate independently without needing other parts or products",
+     "zh": "独立的",
+     "ctx": "能自己站着、不靠别的东西，本文指Muse 有单独的App，而不是嵌在Instagram 里的一个按钮。",
+     "ex1": "The messaging feature will be spun off into a standalone app next year. 这个聊天功能明年将拆分成一款独立应用。",
+     "ex2": "The watch can work as a standalone device without a phone. 这款手表不连手机也能独立使用。"
+    }
+   ]
+  },
+  {
+   "en_html": "Since its launch, shares of Meta Platforms have <mark class=\"voc\">surged</mark> more than 20%, <mark class=\"voc\">outpacing</mark> the “Magnificent 7” group of US tech companies during the period. Shares have added over $200 billion in <mark class=\"voc\">market capitalization</mark> to touch their highest level in more than seven months <mark class=\"voc\">as of</mark> last close. Shares were up 1% by noon on Tuesday, after surging more than 11% in the previous <mark class=\"voc\">session</mark>. “While it is still early, we believe that Muse has the potential to become the most widely used <mark class=\"voc\">consumer AI</mark> application since ChatGPT,” J.P. Morgan analysts said in a note, <mark class=\"voc\">crediting</mark> the app’s early <mark class=\"voc\">traction</mark> to strong <mark class=\"voc\">product-market fit</mark>, Meta’s <mark class=\"voc\">distribution reach</mark> and a free <mark class=\"voc\">tier</mark> that <mark class=\"voc\">lowers the barrier to</mark> trial and repeat use.",
+   "zh": "自上线以来，Meta 股价已飙升逾20%，同期把“美股七巨头”的其余成员全甩在了身后。市值增加超过2000 亿美元，截至上一交易日收盘，触及七个多月以来的最高位。周二午盘,股价小涨1%——而在前一个交易日，它刚刚暴拉了11% 以上。“现在下判断还早，但我们相信，Muse 有潜力成为ChatGPT 之后使用最广的一款消费级AI 应用，”摩根大通的分析师在研报中写道。他们把这款应用的早期势头归结为三点：扎实的产品市场契合度、Meta 自带的分发触达能力，以及那个把“试一试”和“再回来”两道门槛同时压低的免费档。",
+   "notes": [
+    {
+     "w": "surge",
+     "ipa": "/sɜːdʒ/",
+     "pos": "v.",
+     "en": "surge (v.) means to increase suddenly and by a large amount",
+     "zh": "猛涨，飙升",
+     "ctx": "本义是海浪涌起，用在股价上就是“一下子冲上去”，本文指Meta 股价累计涨逾20%，单日暴拉11%。",
+     "ex1": "Shares of the drugmaker surged after regulators approved its new weight-loss pill. 监管机构批准新款减肥药后，这家药企股价飙升。",
+     "ex2": "Airlines are adding flights to meet a surge in holiday travel demand. 为应对假期出行需求激增，各航空公司纷纷加开航班。"
+    },
+    {
+     "w": "outpace",
+     "ipa": "/ˌaʊtˈpeɪs/",
+     "pos": "v.",
+     "en": "outpace (v.) means to go, grow or develop faster than someone or something else",
+     "zh": "跑赢，增速超过",
+     "ctx": "out- 超过 + pace 步速，本文指Meta 的涨幅把“美股七巨头”其余成员全甩在后面。",
+     "ex1": "Wage growth has failed to outpace inflation for three years in a row. 工资增速已连续三年跑不赢通胀。",
+     "ex2": "Online sales continue to outpace growth at the chain's physical stores. 这家连锁店的线上销售增速持续超过实体门店。"
+    },
+    {
+     "w": "market capitalization",
+     "ipa": "/ˈmɑːkɪt ˌkæpɪtəlaɪˈzeɪʃn/",
+     "pos": "n.",
+     "en": "market capitalization (n.) means the total value of a company's shares, calculated by multiplying the share price by the number of shares",
+     "zh": "市值",
+     "ctx": "股价乘股数得出的整家公司标价，本文指Meta 市值一口气多出2000 多亿美元。",
+     "ex1": "The chipmaker became the world's most valuable company by market capitalization. 按市值计算，这家芯片公司成为全球最值钱的企业。",
+     "ex2": "The bank lost $30 billion in market capitalization in a single day. 这家银行一天之内市值蒸发300亿美元。"
+    },
+    {
+     "w": "as of",
+     "ipa": "/æz əv/",
+     "pos": "固定短语",
+     "en": "as of (固定短语) means used to show the time at which a fact or figure is correct",
+     "zh": "截至",
+     "ctx": "给数据盖一个时间戳，本文指“截至上一交易日收盘”Meta 股价处在七个多月来的最高位。",
+     "ex1": "As of Friday's close, the index had gained 12% this year. 截至周五收盘，该指数今年累计上涨12%。",
+     "ex2": "As of now, no one has claimed responsibility for the outage. 截至目前，尚无人对此次断网事故负责。"
+    },
+    {
+     "w": "session",
+     "ipa": "/ˈseʃn/",
+     "pos": "n.",
+     "en": "session (n.) means a period of time during which a stock market is open for trading",
+     "zh": "交易日，交易时段",
+     "ctx": "原指一段集中的活动时间，在股市里就是一个交易日，本文指前一个交易日Meta 单日暴涨逾11%。",
+     "ex1": "The stock fell 4% in the previous session before recovering on Friday. 该股在前一个交易日下跌4%，周五才回升。",
+     "ex2": "Trading was heavy during the morning session as investors reacted to the jobs report. 投资者消化就业报告，早盘交易十分活跃。"
+    },
+    {
+     "w": "consumer AI",
+     "ipa": "/kənˈsjuːmə ˌeɪ ˈaɪ/",
+     "pos": "短语",
+     "en": "consumer AI (短语) means artificial intelligence products made for ordinary people rather than for businesses",
+     "zh": "消费级AI",
+     "ctx": "卖给普通人的AI，而不是卖给公司的服务，本文强调Muse 面向个人用户，这正是市场兴奋的原因。",
+     "ex1": "The startup is shifting from business software to consumer AI products. 这家初创公司正从企业软件转向消费级AI产品。",
+     "ex2": "Competition in the consumer AI market is heating up as phone makers add assistants. 随着手机厂商纷纷加入AI助手，消费级AI市场竞争日趋激烈。"
+    },
+    {
+     "w": "credit A to B",
+     "ipa": "/ˈkredɪt/",
+     "pos": "短语",
+     "en": "credit A to B (短语) means to say that something is the result of a particular cause or someone's effort",
+     "zh": "把A归功于B",
+     "ctx": "原义“相信、认可”，把成绩记在谁头上，本文指摩根大通把Muse 的早期势头记在产品契合度、分发能力和免费档这三笔账上。",
+     "ex1": "The CEO credited the strong quarter to demand for its cloud services. 首席执行官将季度业绩强劲归功于云服务需求。",
+     "ex2": "She is widely credited with turning the struggling brand around. 人们普遍认为是她让这个陷入困境的品牌起死回生。"
+    },
+    {
+     "w": "traction",
+     "ipa": "/ˈtrækʃn/",
+     "pos": "n.",
+     "en": "traction (n.) means the degree to which a new product, idea or company becomes popular or makes progress",
+     "zh": "增长势头，市场认可",
+     "ctx": "轮胎的抓地力，抓得住路才跑得起来，本文指Muse 上线初期迅速攒下用户的这股劲。",
+     "ex1": "The idea of a four-day workweek is gaining traction among tech firms. 四天工作制的理念在科技公司中越来越受认可。",
+     "ex2": "The app struggled to get traction outside its home market. 这款应用在本土市场以外很难打开局面。"
+    },
+    {
+     "w": "product-market fit",
+     "ipa": "/ˌprɒdʌkt ˈmɑːkɪt fɪt/",
+     "pos": "固定短语",
+     "en": "product-market fit (固定短语) means the degree to which a product meets strong demand from a particular market",
+     "zh": "产品市场契合度",
+     "ctx": "产品刚好戳中市场真需求的状态，本文指摩根大通认为Muse 是靠好用，而不是靠营销硬推起来的。",
+     "ex1": "The startup spent two years searching for product-market fit before sales finally took off. 这家初创公司花了两年寻找产品市场契合点，销量才终于起飞。",
+     "ex2": "Investors are reluctant to fund companies that have not yet proven product-market fit. 投资者不愿投资尚未证明产品市场契合度的公司。"
+    },
+    {
+     "w": "distribution reach",
+     "ipa": "/ˌdɪstrɪˈbjuːʃn riːtʃ/",
+     "pos": "短语",
+     "en": "distribution reach (短语) means the number of people a company can deliver its products or services to",
+     "zh": "分发覆盖面，渠道优势",
+     "ctx": "能把东西递到多少人手里，本文指Meta 靠着Facebook、Instagram、WhatsApp 现成的几十亿用户。",
+     "ex1": "The partnership gives the small drinks brand the distribution reach of a global retailer. 这次合作让这个小饮料品牌获得了全球零售商的渠道覆盖。",
+     "ex2": "Streaming services with wide distribution reach can launch new shows to millions overnight. 渠道覆盖广的流媒体平台一夜之间就能把新剧推给数百万观众。"
+    },
+    {
+     "w": "tier",
+     "ipa": "/tɪə(r)/",
+     "pos": "n.",
+     "en": "tier (n.) means one of several levels in a system or pricing structure",
+     "zh": "档位，层级",
+     "ctx": "剧院里一层层往上的座位，用在定价上就是档位，本文指免费档加20 美元、100 美元两档付费。",
+     "ex1": "The music app added a cheaper tier with ads for price-sensitive users. 这款音乐应用为价格敏感用户新增了一档带广告的便宜套餐。",
+     "ex2": "Only customers on the premium tier get access to the new features. 只有高级套餐用户才能使用新功能。"
+    },
+    {
+     "w": "lower the barrier to",
+     "ipa": "/ˈləʊə ðə ˈbæriə tuː/",
+     "pos": "短语",
+     "en": "lower the barrier to (短语) means to make it easier for people to start doing or using something",
+     "zh": "降低……的门槛",
+     "ctx": "把门口的栏杆放低，人才进得来，本文指免费档同时压低了“试一试”和“再回来”这两道门槛。",
+     "ex1": "Cheap cloud tools have lowered the barrier to entry for new software companies. 便宜的云工具降低了新软件公司的入行门槛。",
+     "ex2": "The bank lowered the barrier to investing by removing minimum deposits. 这家银行取消了最低存款要求，降低了投资门槛。"
+    }
+   ]
+  },
+  {
+   "en_html": "If compared on similar <mark class=\"voc\">metrics</mark> to the first 12 days of OpenAI’s ChatGPT, Muse has 1.8 million downloads versus 1.3 million for ChatGPT. The app <mark class=\"voc\">briefly</mark> <mark class=\"voc\">overtook</mark> ChatGPT as the top free app on Apple’s App Store.",
+   "zh": "如果换算成同一套指标，拿它跟OpenAI 当年ChatGPT 的头12 天去比：Muse 的下载量是180 万，ChatGPT 是130 万。在苹果应用商店的免费榜上，这款应用还一度把ChatGPT 挤了下去，坐上过第一的位置——只是没坐稳。",
+   "notes": [
+    {
+     "w": "metrics",
+     "ipa": "/ˈmetrɪks/",
+     "pos": "n.（复数）",
+     "en": "metrics (n.（复数）) means standards or measurements used to judge performance or progress",
+     "zh": "衡量指标，统计口径",
+     "ctx": "拿同一把尺子量两个东西才算公平，本文指用同样的“头12 天”口径比Muse 和ChatGPT 的下载量。",
+     "ex1": "The company tracks daily active users as its most important metric. 这家公司把日活用户作为最重要的衡量指标。",
+     "ex2": "By most metrics, the new store is the chain's best performer. 按大多数指标衡量，这家新店都是连锁品牌里表现最好的。"
+    },
+    {
+     "w": "briefly",
+     "ipa": "/ˈbriːfli/",
+     "pos": "adv.",
+     "en": "briefly (adv.) means for a short time",
+     "zh": "短暂地，一度",
+     "ctx": "brief 是“短的”，本文用它强调Muse 只是“坐上过”免费榜第一、没坐稳，一个词就把话说留了余地。",
+     "ex1": "Bitcoin briefly topped $100,000 before falling back. 比特币一度突破10万美元，随后回落。",
+     "ex2": "The minister briefly mentioned the plan but gave no details. 部长简单提及这项计划，但没有透露细节。"
+    },
+    {
+     "w": "overtake",
+     "ipa": "/ˌəʊvəˈteɪk/",
+     "pos": "v.",
+     "en": "overtake (v.) means to become greater in number, amount or importance than something else, or to go past it by moving faster",
+     "zh": "超越",
+     "ctx": "本义是超车，本文指Muse 在苹果免费榜上把ChatGPT 挤到身后，短暂登顶。",
+     "ex1": "Electric cars could overtake petrol cars in new sales within a decade. 十年内电动车的新车销量可能超过燃油车。",
+     "ex2": "The city overtook London as the world's most visited destination last year. 去年这座城市超过伦敦，成为全球游客最多的目的地。"
+    }
+   ]
+  }
+ ]
+}

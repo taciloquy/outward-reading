@@ -1,0 +1,587 @@
+{
+ "paragraphs": [
+  {
+   "en_html": "Early reviews suggest “<mark class=\"voc\">functionality</mark> is <mark class=\"voc\">resonating with</mark> users, particularly agent’s ability to <mark class=\"voc\">execute</mark> multi-step tasks and <mark class=\"voc\">workflows</mark> with limited user <mark class=\"voc\">intervention</mark>,” BofA Global Research analysts said. A New York Times reporter who spent two weeks testing Muse described the agent successfully <mark class=\"voc\">navigating</mark> a call with a dental insurer, <mark class=\"voc\">flagging</mark> and canceling <mark class=\"voc\">duplicate</mark> subscriptions after being linked to a bank account, and <mark class=\"voc\">negotiating down</mark> the price of ceramics on Facebook Marketplace — though it <mark class=\"voc\">struggled with</mark> tasks like signing into some third-party <mark class=\"voc\">loyalty accounts</mark>.",
+   "zh": "早期测评显示，“这些功能正在戳中用户，尤其是这个智能体在几乎不需要人插手的情况下，把多步骤任务和整条工作流跑完的能力”，美银全球研究部的分析师如此表示。一位《纽约时报》记者花了整整两周实测Muse，他记录下的场景包括：它成功跟一家牙科保险公司在电话里周旋到底；在接上银行账户之后，把那些重复扣费的订阅一笔笔揪出来、取消掉；还在Facebook 二手市场上，把一批陶瓷的价格生生砍了下来——不过，碰上登录某些第三方会员账户这类活儿，它也会卡壳。",
+   "notes": [
+    {
+     "w": "functionality",
+     "ipa": "/ˌfʌŋkʃəˈnæləti/",
+     "pos": "n.",
+     "en": "functionality (n.) means the range of functions that a product or system can perform, and how well it performs them",
+     "zh": "功能（集合）",
+     "ctx": "不是单个function，而是“这一堆功能加起来好不好用”，本文指Muse 替人办事的实际本事戳中了用户。",
+     "ex1": "The update adds new functionality for sharing files between devices. 这次更新新增了跨设备分享文件的功能。",
+     "ex2": "The free version offers only limited functionality. 免费版只提供有限的功能。"
+    },
+    {
+     "w": "resonate with",
+     "ipa": "/ˈrezəneɪt wɪð/",
+     "pos": "短语",
+     "en": "resonate with (短语) means to be meaningful to someone and produce a strong positive reaction in them",
+     "zh": "引起共鸣，受……欢迎",
+     "ctx": "声音撞到东西会共振，观点撞到人心也会，本文指Muse 的能力让用户觉得“这正是我要的”。",
+     "ex1": "The ad campaign resonated with young parents who were short on time. 这次广告活动打动了时间紧张的年轻父母。",
+     "ex2": "The new design failed to resonate with longtime fans. 新设计没能获得老粉丝的认可。"
+    },
+    {
+     "w": "execute",
+     "ipa": "/ˈeksɪkjuːt/",
+     "pos": "v.",
+     "en": "execute (v.) means to carry out or perform a plan, task or instruction",
+     "zh": "执行（任务）",
+     "ctx": "把计划真正做出来，而不是停在纸面，本文指Muse 能把多步骤任务一件件跑完。",
+     "ex1": "The software can execute thousands of trades in less than a second. 这款软件能在一秒内执行数千笔交易。",
+     "ex2": "The new management team struggled to execute its turnaround plan. 新管理层难以落实扭亏计划。"
+    },
+    {
+     "w": "workflow",
+     "ipa": "/ˈwɜːkfləʊ/",
+     "pos": "n.",
+     "en": "workflow (n.) means the series of steps through which a piece of work passes from start to finish",
+     "zh": "工作流程",
+     "ctx": "一项工作从头到尾流经的一串环节，本文指Muse 能把这些环节串起来自动走完，而不是只做一步。",
+     "ex1": "The hospital used AI to automate its billing workflow. 这家医院用AI实现了账单流程的自动化。",
+     "ex2": "The new tool fits easily into designers' daily workflow. 这款新工具能轻松融入设计师的日常工作流程。"
+    },
+    {
+     "w": "intervention",
+     "ipa": "/ˌɪntəˈvenʃn/",
+     "pos": "n.",
+     "en": "intervention (n.) means the act of becoming involved in a situation in order to change or control what happens",
+     "zh": "人工干预，介入",
+     "ctx": "ven 是“来”，inter- 是到中间来，指人插进去动手，本文指Muse 干活时几乎不需要人插手。",
+     "ex1": "The factory's robots can run for days without human intervention. 这家工厂的机器人可以连续运转数天而无需人工干预。",
+     "ex2": "Early intervention can greatly improve outcomes for children with reading difficulties. 及早干预能大大改善阅读困难儿童的状况。"
+    },
+    {
+     "w": "navigate",
+     "ipa": "/ˈnævɪɡeɪt/",
+     "pos": "v.",
+     "en": "navigate (v.) means to deal successfully with a difficult or complicated situation",
+     "zh": "成功应对，周旋",
+     "ctx": "本义是驾船避开暗礁，本文指Muse 跟牙科保险公司打电话，验身份、排队、转人工，一路走通。",
+     "ex1": "The app helps immigrants navigate the visa application process. 这款应用帮助移民搞定签证申请流程。",
+     "ex2": "Small firms are struggling to navigate rising costs and weak demand. 小企业正艰难应对成本上涨和需求疲软。"
+    },
+    {
+     "w": "flag",
+     "ipa": "/flæɡ/",
+     "pos": "v.",
+     "en": "flag (v.) means to mark or point out something so that people notice it",
+     "zh": "标记，找出",
+     "ctx": "插一面旗子让人看见，本文指Muse 从银行流水中把那两笔重复扣费的订阅揪了出来。",
+     "ex1": "The bank's system flagged the payment as possible fraud. 银行系统将这笔付款标记为疑似欺诈。",
+     "ex2": "Auditors flagged several problems in the company's accounts. 审计师指出了公司账目中的若干问题。"
+    },
+    {
+     "w": "duplicate",
+     "ipa": "/ˈdjuːplɪkət/",
+     "pos": "adj.",
+     "en": "duplicate (adj.) means exactly the same as something else; existing twice when only one is needed",
+     "zh": "重复的",
+     "ctx": "du- 是“双份”，本该只有一份却交了两份钱，本文指记者同时付费的两个订阅。",
+     "ex1": "Customers who were hit with duplicate charges will receive automatic refunds. 被重复扣费的顾客将获得自动退款。",
+     "ex2": "The software removes duplicate records from the database. 这款软件能删除数据库里的重复记录。"
+    },
+    {
+     "w": "negotiate down",
+     "ipa": "/nɪˈɡəʊʃieɪt daʊn/",
+     "pos": "短语",
+     "en": "negotiate down (短语) means to reduce a price or amount by discussing it with someone",
+     "zh": "砍价，压价",
+     "ctx": "谈着谈着把数字往下拽，本文指Muse 在Facebook 二手市场替记者把陶瓷的价格砍了下来。",
+     "ex1": "She negotiated down her rent by agreeing to a two-year lease. 她同意签两年租约，把房租砍了下来。",
+     "ex2": "The union negotiated a better deal for night-shift workers. 工会为夜班工人谈下了更好的待遇。"
+    },
+    {
+     "w": "struggle with",
+     "ipa": "/ˈstrʌɡl wɪð/",
+     "pos": "短语",
+     "en": "struggle with (短语) means to have difficulty doing or dealing with something",
+     "zh": "在……上吃力，难以完成",
+     "ctx": "跟某件事摔跤、使不上劲，本文指Muse 碰上登录第三方会员账户这类活儿就卡壳。",
+     "ex1": "Many voice assistants still struggle with strong regional accents. 很多语音助手在识别浓重口音时依然吃力。",
+     "ex2": "The airline has struggled with staff shortages all summer. 整个夏天，这家航空公司都饱受人手短缺之苦。"
+    },
+    {
+     "w": "loyalty account",
+     "ipa": "/ˈlɔɪəlti əˈkaʊnt/",
+     "pos": "短语",
+     "en": "loyalty account (短语) means a customer account in a reward program that gives points or benefits for repeated purchases",
+     "zh": "会员积分账户",
+     "ctx": "loyalty 是“忠诚”，商家用积分奖励回头客，本文指电影院那类第三方会员账户，Muse 登不进去。",
+     "ex1": "Members can use points in their loyalty account to get free coffee. 会员可以用积分账户里的积分兑换免费咖啡。",
+     "ex2": "The hotel group revamped its loyalty program to win back business travelers. 这家酒店集团改造了会员计划，以重新吸引商务旅客。"
+    }
+   ]
+  },
+  {
+   "en_html": "Enthusiasm around Muse <mark class=\"voc\">sparked</mark> a Wall Street tech <mark class=\"voc\">rally</mark> on Monday, <mark class=\"voc\">lifting</mark> Meta shares more than 11% and <mark class=\"voc\">boosting</mark> <mark class=\"voc\">chipmakers</mark>, including AMD and Intel, with AMD crossing the $1 trillion <mark class=\"voc\">valuation</mark> mark for the first time. “The market has <mark class=\"voc\">interpreted Muse as</mark> a <mark class=\"voc\">boon</mark> for the already significantly <mark class=\"voc\">bottlenecked</mark> CPU market,” said Michael O’Rourke, chief market strategist at JonesTrading.",
+   "zh": "围绕Muse 的这股热情，在周一点燃了华尔街的一轮科技股行情：Meta 股价被拉高逾11%，连带把芯片厂商也一并抬了起来——AMD 和英特尔都在其中，AMD 更是史上第一次跨过了1 万亿美元的估值大关。“市场把Muse 解读成了一个利好，而且是给那个本来就严重卡死的CPU 市场的利好，”JonesTrading 首席市场策略师Michael O’Rourke 这样说。",
+   "notes": [
+    {
+     "w": "spark",
+     "ipa": "/spɑːk/",
+     "pos": "v.",
+     "en": "spark (v.) means to cause something to start or develop, especially suddenly",
+     "zh": "引发，触发",
+     "ctx": "迸出一颗火花就点着了，本文指围绕Muse 的热情点着了周一华尔街的科技股行情。",
+     "ex1": "The central bank's surprise rate cut sparked a rally in property stocks. 央行意外降息引发地产股大涨。",
+     "ex2": "The CEO's comments sparked concern among investors about slowing growth. 首席执行官的言论引发了投资者对增长放缓的担忧。"
+    },
+    {
+     "w": "rally",
+     "ipa": "/ˈræli/",
+     "pos": "n.",
+     "en": "rally (n.) means a period when share prices rise quickly after falling or staying level",
+     "zh": "大涨，反弹",
+     "ctx": "原义是“重新集结”，市场里就是跌完或横盘之后集体往上冲，本文指周一的科技股行情。",
+     "ex1": "A strong jobs report fuelled a broad rally on Wall Street. 强劲的就业报告推动华尔街股市全面上涨。",
+     "ex2": "The rally in bank stocks faded by the afternoon. 银行股的涨势到下午逐渐消退。"
+    },
+    {
+     "w": "lift",
+     "ipa": "/lɪft/",
+     "pos": "v.",
+     "en": "lift (v.) means to make something increase in level or amount",
+     "zh": "推高，提升",
+     "ctx": "用手往上托，用在数字上就是抬上去，本文指这波行情把Meta 股价抬高了逾11%。",
+     "ex1": "Strong holiday sales lifted the retailer's shares to a record high. 强劲的节日销售把这家零售商的股价推至历史新高。",
+     "ex2": "Lower fuel costs lifted the airline's profits in the third quarter. 燃油成本下降提升了这家航空公司第三季度的利润。"
+    },
+    {
+     "w": "boost",
+     "ipa": "/buːst/",
+     "pos": "v.",
+     "en": "boost (v.) means to help something increase, improve or become more successful",
+     "zh": "提振，推动",
+     "ctx": "从后面推一把，本文指Muse 热潮顺带把AMD、英特尔这些芯片股也推了上去。",
+     "ex1": "The new subsidy is expected to boost sales of heat pumps. 新补贴有望提振热泵的销量。",
+     "ex2": "Better-than-expected earnings boosted investor confidence in the sector. 好于预期的财报增强了投资者对该行业的信心。"
+    },
+    {
+     "w": "chipmaker",
+     "ipa": "/ˈtʃɪpmeɪkə(r)/",
+     "pos": "n.",
+     "en": "chipmaker (n.) means a company that designs or manufactures computer chips",
+     "zh": "芯片制造商",
+     "ctx": "本文指被Muse 热潮带起来的AMD 和英特尔——AI 智能体在前面干活，最后忙起来的是CPU。",
+     "ex1": "The chipmaker plans to build a new factory in Arizona. 这家芯片制造商计划在亚利桑那州新建一座工厂。",
+     "ex2": "Chipmaker shares fell after the government announced new export limits. 政府宣布新的出口限制后，芯片股纷纷下跌。"
+    },
+    {
+     "w": "valuation",
+     "ipa": "/ˌvæljuˈeɪʃn/",
+     "pos": "n.",
+     "en": "valuation (n.) means an estimate of how much money a company or asset is worth",
+     "zh": "估值，市值",
+     "ctx": "给一家公司算个价，本文指AMD 史上第一次跨过1 万亿美元这道坎。",
+     "ex1": "The startup reached a valuation of $5 billion in its latest funding round. 这家初创公司在最新一轮融资中估值达到50亿美元。",
+     "ex2": "Some analysts warn that AI stocks are trading at very high valuations. 一些分析师警告，AI股的估值已经非常高。"
+    },
+    {
+     "w": "interpret A as B",
+     "ipa": "/ɪnˈtɜːprɪt/",
+     "pos": "短语",
+     "en": "interpret A as B (短语) means to understand or explain something in a particular way",
+     "zh": "把A理解为B",
+     "ctx": "interpret 本是“口译”，把一种语言翻成另一种，本文指市场把Muse 翻译成了“CPU 市场的利好”。",
+     "ex1": "Investors interpreted the CEO's silence as a sign of trouble. 投资者把首席执行官的沉默解读为出问题的信号。",
+     "ex2": "The rate decision was widely interpreted as a warning to the housing market. 这次利率决定被普遍解读为对楼市的警告。"
+    },
+    {
+     "w": "boon",
+     "ipa": "/buːn/",
+     "pos": "n.",
+     "en": "boon (n.) means something that is very helpful and brings benefits",
+     "zh": "利好，福音",
+     "ctx": "白送上门的好处，本文指市场认为Muse 对本来就供不应求的CPU 市场是件大好事。",
+     "ex1": "Cheaper flights have been a boon for small tourist towns. 廉价航班对小型旅游城镇来说是一大福音。",
+     "ex2": "The heat wave proved a boon to air-conditioner makers. 这波热浪成了空调制造商的利好。"
+    },
+    {
+     "w": "bottleneck",
+     "ipa": "/ˈbɒtlnek/",
+     "pos": "n./v.",
+     "en": "bottleneck (n./v.) means a point where progress is slowed down because demand is greater than supply or capacity",
+     "zh": "瓶颈，供不应求",
+     "ctx": "瓶口窄、倒不快，本文指CPU 本来就供应紧张，AI 智能体一火，卡得更死。",
+     "ex1": "A shortage of skilled workers has become the biggest bottleneck for the industry. 技术工人短缺已成为这个行业最大的瓶颈。",
+     "ex2": "New factories should help ease bottlenecks in battery supply. 新工厂应能缓解电池供应的瓶颈。"
+    }
+   ]
+  },
+  {
+   "en_html": "<mark class=\"voc\">Brokerage</mark> Jefferies estimated that if Muse could see 1 billion users by end of 2027 and at least 3% <mark class=\"voc\">transition to</mark> a paid version, it could <mark class=\"voc\">result in</mark> $10.8 billion in <mark class=\"voc\">annualized</mark> revenue, as the brokerage raised its <mark class=\"voc\">price target</mark> on Meta’s stock to $875. UBS Global Wealth Management analysts said in a note Meta’s Muse provides “early evidence that consumer AI agents could achieve broad adoption, offering new AI monetization opportunities beyond <mark class=\"voc\">enterprise application</mark>.”",
+   "zh": "券商杰富瑞测算：如果Muse 能在2027 年底之前迎来10 亿用户，并且其中至少3% 转为付费，那么它可以带来108 亿美元的年化收入；与此同时，这家券商把Meta 的目标价上调到了875 美元。瑞银全球财富管理的分析师则在研报中写道，Meta 的Muse 提供了“一个早期证据——消费级AI 智能体是可以做到大范围普及的，这意味着在企业级应用之外，AI 变现又多了一条路”。",
+   "notes": [
+    {
+     "w": "brokerage",
+     "ipa": "/ˈbrəʊkərɪdʒ/",
+     "pos": "n.",
+     "en": "brokerage (n.) means a company that buys and sells shares for clients and often publishes research on companies",
+     "zh": "券商，证券经纪公司",
+     "ctx": "替客户买卖股票、顺带出研报的机构，本文指算这笔账的杰富瑞和覆盖Meta 的64 家券商。",
+     "ex1": "Several major brokerages cut their forecasts after the weak earnings report. 财报疲软后，几家大券商下调了预期。",
+     "ex2": "Young investors often open brokerage accounts through their phones. 年轻投资者通常用手机开设证券账户。"
+    },
+    {
+     "w": "transition to",
+     "ipa": "/trænˈzɪʃn tuː/",
+     "pos": "短语",
+     "en": "transition to (短语) means to change from one state, system or form to another",
+     "zh": "转为，过渡到",
+     "ctx": "从一个状态挪到另一个状态，本文指免费用户里至少3% 转成付费订阅——整个测算的命门。",
+     "ex1": "The company plans to transition to fully electric vans by 2030. 这家公司计划在2030年前全面改用电动货车。",
+     "ex2": "About 5% of free users transition to a paid plan within a year. 大约5%的免费用户会在一年内转为付费套餐。"
+    },
+    {
+     "w": "result in",
+     "ipa": "/rɪˈzʌlt ɪn/",
+     "pos": "短语",
+     "en": "result in (短语) means to cause a particular situation or outcome to happen",
+     "zh": "带来，导致",
+     "ctx": "in 表示落到某个结果里，方向与result from（由……造成）正好相反，本文指10 亿用户加3% 付费能带来108 亿美元。",
+     "ex1": "The merger could result in thousands of job cuts. 这次合并可能导致数千人被裁员。",
+     "ex2": "Most of the delays resulted from bad weather rather than staff shortages. 大部分延误是由恶劣天气而非人手不足造成的。"
+    },
+    {
+     "w": "annualized",
+     "ipa": "/ˈænjuəlaɪzd/",
+     "pos": "adj.",
+     "en": "annualized (adj.) means calculated as if a rate or amount applied over a full year",
+     "zh": "年化的，按全年折算的",
+     "ctx": "把一个月的数乘成一年来算，方便横向比，本文指杰富瑞算出的108 亿美元年化收入。",
+     "ex1": "The fund delivered an annualized return of 8% over the past decade. 过去十年，这只基金的年化回报率为8%。",
+     "ex2": "The startup's annualized revenue has passed $500 million. 这家初创公司的年化收入已超过5亿美元。"
+    },
+    {
+     "w": "price target",
+     "ipa": "/praɪs ˈtɑːɡɪt/",
+     "pos": "n.",
+     "en": "price target (n.) means the price that an analyst expects a company's shares to reach within a certain period",
+     "zh": "目标价",
+     "ctx": "分析师给股票定的“该到哪儿”的价，本文指杰富瑞把Meta 的目标价抬到875 美元。",
+     "ex1": "The analyst raised her price target on the carmaker to $300. 这位分析师把这家车企的目标价上调到300美元。",
+     "ex2": "Several banks cut their price targets after the company lowered guidance. 公司下调业绩指引后，几家银行下调了目标价。"
+    },
+    {
+     "w": "enterprise application",
+     "ipa": "/ˈentəpraɪz ˌæplɪˈkeɪʃn/",
+     "pos": "n.",
+     "en": "enterprise application (n.) means software or services designed for use by businesses and organizations",
+     "zh": "企业级应用",
+     "ctx": "卖给公司用的软件，跟卖给个人的相对，本文指AI 变现过去只走企业这条路，Muse 开出了另一条。",
+     "ex1": "Most of the AI startup's revenue still comes from enterprise customers. 这家AI初创公司大部分收入仍来自企业客户。",
+     "ex2": "The company is shifting its focus from consumer apps to enterprise software. 这家公司正把重心从消费级应用转向企业软件。"
+    }
+   ]
+  },
+  {
+   "en_html": "Of the 64 brokerages that <mark class=\"voc\">cover</mark> Meta’s stock, 57 <mark class=\"voc\">rate</mark> it “buy” or higher with a <mark class=\"voc\">median</mark> price target of $760, according to data <mark class=\"voc\">compiled</mark> by LSEG. “<mark class=\"voc\">Prior to</mark> Muse, investors had completely <mark class=\"voc\">dismissed</mark> the idea that Meta would be able to release a <mark class=\"voc\">personalized</mark> consumer AI agent, favoring (Alphabet) instead,” Jefferies analysts <mark class=\"voc\">led by</mark> Brent Thill said.",
+   "zh": "在覆盖Meta 这只股票的64 家机构里，有57 家给出了“买入”或更高的评级，中位目标价为760 美元——数据来自LSEG 的汇编。“在Muse 出来之前，投资者压根就没把‘Meta 能做出一个个性化消费级AI 智能体’这件事当回事，他们看好的是谷歌，”由Brent Thill 领衔的杰富瑞分析师团队如是说。",
+   "notes": [
+    {
+     "w": "cover",
+     "ipa": "/ˈkʌvə(r)/",
+     "pos": "v.",
+     "en": "cover (v.) means to regularly study a company and publish research and ratings on its shares",
+     "zh": "跟踪研究（某只股票）",
+     "ctx": "分析师“盖”住几只股票长期盯着，本文指有64 家券商在跟踪Meta。",
+     "ex1": "Only three analysts cover the small mining company. 只有三位分析师跟踪研究这家小型矿业公司。",
+     "ex2": "The bank initiated coverage of the carmaker with a “buy” rating. 这家银行首次覆盖该车企，给予“买入”评级。"
+    },
+    {
+     "w": "rate",
+     "ipa": "/reɪt/",
+     "pos": "v.",
+     "en": "rate (v.) means to give a stock a particular rating, such as buy, hold or sell",
+     "zh": "给予……评级",
+     "ctx": "给股票打分、挂上等级，本文指64 家券商里有57 家给了“买入”或更高。",
+     "ex1": "Most analysts rate the stock “hold” because of its high valuation. 由于估值偏高，大多数分析师给予该股“持有”评级。",
+     "ex2": "The hotel is rated as one of the best in the city. 这家酒店被评为城里最好的酒店之一。"
+    },
+    {
+     "w": "median",
+     "ipa": "/ˈmiːdiən/",
+     "pos": "adj./n.",
+     "en": "median (adj./n.) means being the middle value in a set of numbers arranged in order",
+     "zh": "中位数（的）",
+     "ctx": "把数字排好队、站在最中间的那个，比平均数更抗极端值，本文指券商目标价的中位数是760 美元。",
+     "ex1": "The median home price in the city rose to $450,000 last year. 去年该市房价中位数升至45万美元。",
+     "ex2": "Median income is often more useful than average income for measuring living standards. 衡量生活水平时，收入中位数往往比平均收入更有参考价值。"
+    },
+    {
+     "w": "compile",
+     "ipa": "/kəmˈpaɪl/",
+     "pos": "v.",
+     "en": "compile (v.) means to collect information from different sources and arrange it in one place",
+     "zh": "汇总，整理",
+     "ctx": "把散在各处的东西收拢成一份，本文指这些评级和目标价数据由LSEG 汇总。",
+     "ex1": "The ranking was compiled using data from over 500 universities. 该排名基于500多所大学的数据汇总而成。",
+     "ex2": "Researchers compiled a list of the most common online scams. 研究人员整理了一份最常见网络诈骗的清单。"
+    },
+    {
+     "w": "prior to",
+     "ipa": "/ˈpraɪə tuː/",
+     "pos": "短语",
+     "en": "prior to (短语) means before a particular time or event",
+     "zh": "在……之前",
+     "ctx": "比before 更书面的说法，多用于正式叙述，本文指Muse 出来之前投资者根本不看好Meta。",
+     "ex1": "Passengers must check in at least two hours prior to departure. 乘客须在起飞前至少两小时办理登机手续。",
+     "ex2": "Prior to joining the bank, she worked as a journalist. 加入这家银行之前，她是一名记者。"
+    },
+    {
+     "w": "dismiss",
+     "ipa": "/dɪsˈmɪs/",
+     "pos": "v.",
+     "en": "dismiss (v.) means to decide that something is not important, possible or worth considering",
+     "zh": "不予理会，否定",
+     "ctx": "把人“打发走”，想法也一样打发掉，本文指投资者压根不信Meta 能做个性化消费级智能体。",
+     "ex1": "The minister dismissed fears that prices would keep rising. 部长否认了物价会持续上涨的担忧。",
+     "ex2": "Critics once dismissed online shopping as a passing trend. 批评者曾认为网购只是昙花一现。"
+    },
+    {
+     "w": "personalized",
+     "ipa": "/ˈpɜːsənəlaɪzd/",
+     "pos": "adj.",
+     "en": "personalized (adj.) means designed or changed to meet the needs of a particular person",
+     "zh": "个性化的",
+     "ctx": "按你一个人的账号和习惯量身定做，本文指这正是投资者认为Meta 做不出来的东西。",
+     "ex1": "The app offers personalized workout plans based on your fitness level. 这款应用根据你的体能水平提供个性化健身计划。",
+     "ex2": "Shoppers are more likely to buy when they see personalized recommendations. 看到个性化推荐时，顾客更有可能下单。"
+    },
+    {
+     "w": "led by",
+     "ipa": "/led baɪ/",
+     "pos": "短语",
+     "en": "led by (短语) means directed or guided by a particular person",
+     "zh": "以……为首的",
+     "ctx": "一个团队挂在谁名下，本文指这份研报出自Brent Thill 领衔的杰富瑞团队。",
+     "ex1": "A team led by two young engineers built the prototype in six months. 一支由两名年轻工程师带领的团队用六个月造出了原型机。",
+     "ex2": "The rally was led by tech and energy stocks. 这轮上涨由科技股和能源股领涨。"
+    }
+   ]
+  },
+  {
+   "en_html": "Muse’s rise hasn’t <mark class=\"voc\">gone unchallenged</mark>. Amazon has <mark class=\"voc\">blocked the agent from accessing</mark> its online store, arguing that unauthorized AI agents <mark class=\"voc\">violate</mark> the terms customers agree to, and Meta <mark class=\"voc\">separately</mark> announced a Shopify partnership to cover some of Muse’s shopping functions instead. The <mark class=\"voc\">standoff</mark> <mark class=\"voc\">echoes</mark> a similar fight Amazon <mark class=\"voc\">waged</mark> last year against Perplexity’s Comet browser agent, a case in which a federal appeals court <mark class=\"voc\">sided against</mark> Amazon’s attempt to block <mark class=\"voc\">bot-driven</mark> purchases. Meta’s Muse follows a series of <mark class=\"voc\">setbacks</mark> with its Llama 4 models last year, including criticism over the <mark class=\"voc\">benchmark</mark> results reported for early versions.",
+   "zh": "Muse 的崛起，并非一路无人阻拦。亚马逊已经把这个智能体挡在了自家商城门外，理由是：未经授权的AI 代理，违反了客户签下的那份用户协议。Meta 则另起一手，宣布与Shopify 达成合作，把Muse 的一部分购物功能挪到这条路上来。这场对峙几乎是去年那一幕的回声——去年，亚马逊对Perplexity 的Comet 浏览器智能体发动过一场一模一样的仗，而那一次，联邦上诉法院并没有站在亚马逊这边，它封杀“机器人下单”的企图落了空。至于Muse 自己，它是接在去年Llama 4 那一连串挫折之后出场的——那当中，就包括外界对早期版本所公布的跑分成绩提出的种种质疑。",
+   "notes": [
+    {
+     "w": "go unchallenged",
+     "ipa": "/ɡəʊ ʌnˈtʃælɪndʒd/",
+     "pos": "短语",
+     "en": "go unchallenged (短语) means to happen or exist without being questioned or opposed",
+     "zh": "没有遭到挑战，一帆风顺",
+     "ctx": "没人上来叫板，本文用否定式hasn’t gone unchallenged，一句话就把“但也有人拦”摆上台面。",
+     "ex1": "The company's dominance of the market did not go unchallenged for long. 这家公司对市场的主导地位没过多久就遭到了挑战。",
+     "ex2": "Many small acts of kindness go unnoticed. 很多小小的善举都没有被注意到。"
+    },
+    {
+     "w": "block sb from doing",
+     "ipa": "/blɒk/",
+     "pos": "短语",
+     "en": "block sb from doing (短语) means to stop someone from doing something or getting access to something",
+     "zh": "阻止某人做某事",
+     "ctx": "横一块石头把路堵死，本文指亚马逊不让Muse 进自家商城。",
+     "ex1": "The regulator blocked the two airlines from merging. 监管机构阻止了两家航空公司的合并。",
+     "ex2": "Some countries have blocked access to the social media app. 一些国家已屏蔽这款社交应用。"
+    },
+    {
+     "w": "violate",
+     "ipa": "/ˈvaɪəleɪt/",
+     "pos": "v.",
+     "en": "violate (v.) means to break a law, rule or agreement",
+     "zh": "违反",
+     "ctx": "越过划好的界线，本文指亚马逊认为未经授权的AI 智能体违反了用户条款。",
+     "ex1": "The company was fined for violating data protection laws. 这家公司因违反数据保护法被罚款。",
+     "ex2": "Sharing your account with others may violate the terms of service. 与他人共享账号可能违反服务条款。"
+    },
+    {
+     "w": "separately",
+     "ipa": "/ˈseprətli/",
+     "pos": "adv.",
+     "en": "separately (adv.) means in a way that is not connected with something else just mentioned",
+     "zh": "另外，另行",
+     "ctx": "新闻里的“另起一头”，跟前面那件事不挨着，本文指Meta 另外宣布了跟Shopify 的合作。",
+     "ex1": "The company separately said it would cut 500 jobs. 这家公司另外还表示将裁员500人。",
+     "ex2": "Batteries are sold separately. 电池需另行购买。"
+    },
+    {
+     "w": "standoff",
+     "ipa": "/ˈstændɒf/",
+     "pos": "n.",
+     "en": "standoff (n.) means a situation in which two sides disagree and neither is willing to give way",
+     "zh": "对峙，僵局",
+     "ctx": "两边站着，谁也不肯退，本文指亚马逊和Meta 围绕Muse 访问权的僵持。",
+     "ex1": "The standoff between the union and management lasted three weeks. 工会与管理层的对峙持续了三周。",
+     "ex2": "Both sides are looking for a way to end the trade standoff. 双方都在寻找结束贸易僵局的办法。"
+    },
+    {
+     "w": "echo",
+     "ipa": "/ˈekəʊ/",
+     "pos": "v.",
+     "en": "echo (v.) means to be very similar to something that happened or was said before",
+     "zh": "呼应，重演",
+     "ctx": "声音撞回来，本文指这场对峙几乎是去年亚马逊打Perplexity 那一幕的回声。",
+     "ex1": "The crisis echoes the banking collapse of 2008. 这场危机与2008年的银行业崩溃如出一辙。",
+     "ex2": "Other economists echoed her warning about rising debt. 其他经济学家也附和了她关于债务上升的警告。"
+    },
+    {
+     "w": "wage",
+     "ipa": "/weɪdʒ/",
+     "pos": "v.",
+     "en": "wage (v.) means to begin and continue a war, fight or campaign",
+     "zh": "发动，进行（斗争）",
+     "ctx": "名词是“工资”，动词是“打一场仗”，本文指亚马逊去年对Perplexity 发动的那场官司。",
+     "ex1": "The city is waging a campaign against illegal parking. 这座城市正在开展一场整治违章停车的运动。",
+     "ex2": "The two companies waged a long legal battle over the patent. 两家公司围绕这项专利打了一场漫长的官司。"
+    },
+    {
+     "w": "side against",
+     "ipa": "/saɪd əˈɡenst/",
+     "pos": "短语",
+     "en": "side against (短语) means to support the opposing position to someone in an argument or dispute",
+     "zh": "作出不利于……的裁决",
+     "ctx": "side 是“站队”，against 是“对着”，站到对面去，本文指联邦上诉法院没站在亚马逊这边。",
+     "ex1": "The court sided against the landlord in the rent dispute. 在这起租金纠纷中，法院判房东败诉。",
+     "ex2": "Most shareholders sided with the board and rejected the offer. 大多数股东站在董事会一边，拒绝了收购要约。"
+    },
+    {
+     "w": "bot-driven",
+     "ipa": "/ˈbɒt drɪvn/",
+     "pos": "adj.",
+     "en": "bot-driven (adj.) means carried out automatically by software programs rather than by people",
+     "zh": "机器人代为完成的",
+     "ctx": "driven 是“驱动的”，bot-driven 就是由程序而不是人点出来的，本文指机器人代客下单。",
+     "ex1": "Ticket sellers are trying to stop bot-driven purchases of concert tickets. 票务平台正设法阻止机器人抢购演唱会门票。",
+     "ex2": "Much of the website's traffic turned out to be bot-driven. 该网站的大量访问流量原来是机器人刷出来的。"
+    },
+    {
+     "w": "setback",
+     "ipa": "/ˈsetbæk/",
+     "pos": "n.",
+     "en": "setback (n.) means a problem that delays progress or makes a situation worse",
+     "zh": "挫折，倒退",
+     "ctx": "被往回拨一格，本文指Meta 去年在Llama 4 上接连栽的跟头。",
+     "ex1": "The recall was a major setback for the carmaker's electric plans. 这次召回对该车企的电动化计划是一次重大挫折。",
+     "ex2": "The team recovered quickly from an early setback. 这支球队很快从早期的挫折中恢复过来。"
+    },
+    {
+     "w": "benchmark",
+     "ipa": "/ˈbentʃmɑːk/",
+     "pos": "n.",
+     "en": "benchmark (n.) means a standard test or point of reference used to measure and compare performance",
+     "zh": "基准测试，跑分",
+     "ctx": "木工台上刻的标准刻度，拿来比长短，本文指Llama 4 早期版本公布的跑分遭到质疑。",
+     "ex1": "The new chip beat its rivals on most benchmark tests. 这款新芯片在大多数基准测试中都胜过对手。",
+     "ex2": "The fund failed to beat its benchmark for the third year in a row. 这只基金连续第三年跑输基准。"
+    }
+   ]
+  }
+ ],
+ "proper": [
+  {
+   "name": "Wall Street / 华尔街",
+   "def": "位于纽约曼哈顿南端的一条街道，纽约证券交易所所在地，名字源于17世纪荷兰殖民者修建的一道防御木墙。<br>本文中的意思：借代美国金融界，指投资者、分析师和券商等市场参与者对Meta的整体判断。"
+  },
+  {
+   "name": "Meta Platforms / Meta公司",
+   "def": "Facebook、Instagram、WhatsApp等应用的母公司，2021年由Facebook更名为Meta，首席执行官为马克·扎克伯格。<br>本文中的意思：发布AI智能体Muse的公司，其股价因Muse受到热捧而大涨。"
+  },
+  {
+   "name": "Muse / 缪斯",
+   "def": "希腊神话中掌管文艺与科学的九位女神，引申为“灵感来源”；museum、music、amuse均与其同源。<br>本文中的意思：Meta于2026年9月8日推出的AI智能体产品名，底层使用Meta的Muse Spark模型。"
+  },
+  {
+   "name": "OpenClaw / 开源AI智能体框架",
+   "def": "奥地利程序员Peter Steinberger于2025年11月发布的开源AI智能体，曾名Clawdbot、Moltbot，因名称与Anthropic的Claude相近而改名；2026年2月其创始人加入OpenAI，项目转由独立基金会维护。<br>本文中的意思：Muse所采用的底层开源框架。"
+  },
+  {
+   "name": "WhatsApp / WhatsApp即时通讯软件",
+   "def": "Meta旗下的全球性即时通讯应用，2014年被Facebook收购，全球用户超过20亿。<br>本文中的意思：Muse的使用入口之一，用户可直接在聊天软件中调用智能体。"
+  },
+  {
+   "name": "Ray-Ban smart glasses / 雷朋智能眼镜",
+   "def": "Meta与雷朋母公司依视路陆逊梯卡合作推出的智能眼镜，可拍照、播放音乐并与AI语音交互。<br>本文中的意思：Meta计划未来接入Muse的硬件设备，体现其把AI智能体带到可穿戴设备上的布局。"
+  },
+  {
+   "name": "Magnificent 7 / 美股科技七巨头",
+   "def": "指苹果、微软、Alphabet、亚马逊、Meta、英伟达、特斯拉七家美国科技巨头，2023年由美国银行分析师命名，取自1960年西部片《豪勇七蛟龙》。<br>本文中的意思：作为衡量Meta股价表现的参照组，Meta同期涨幅跑赢这七家公司。"
+  },
+  {
+   "name": "J.P. Morgan / 摩根大通",
+   "def": "美国资产规模最大的银行之一，旗下投资银行与研究部门发布的研报对市场影响很大。<br>本文中的意思：发布研报看好Muse，认为其有望成为继ChatGPT后用户最广泛的消费级AI应用。"
+  },
+  {
+   "name": "OpenAI / ChatGPT",
+   "def": "OpenAI是美国人工智能公司，2022年11月底推出聊天机器人ChatGPT，两个月月活过亿，其手机App于2023年5月上线。<br>本文中的意思：作为Muse的比较标杆，Muse同口径下载量及App Store排名均一度超过ChatGPT。"
+  },
+  {
+   "name": "Facebook Marketplace / Facebook二手交易平台",
+   "def": "Facebook内置的个人交易平台，用户可在上面买卖二手物品，功能类似国内的闲鱼。<br>本文中的意思：Muse替记者寻找并议价购买陶瓷器皿的平台。"
+  },
+  {
+   "name": "AMD / 超威半导体",
+   "def": "美国芯片公司，主要生产CPU和GPU，2014年起由苏姿丰（Lisa Su）担任CEO，带领公司从濒临困境走向复兴。<br>本文中的意思：受Muse热潮提振，市值首次突破1万亿美元。"
+  },
+  {
+   "name": "Intel / 英特尔",
+   "def": "美国老牌芯片公司，长期是全球最主要的电脑和服务器CPU供应商之一。<br>本文中的意思：与AMD一样因市场预期CPU需求上升而股价上涨。"
+  },
+  {
+   "name": "Jefferies / 杰富瑞",
+   "def": "美国投资银行和证券公司，提供投行、股票研究等业务。<br>本文中的意思：测算Muse潜在年化收入可达108亿美元，并将Meta目标价上调至875美元。"
+  },
+  {
+   "name": "UBS Global Wealth Management / 瑞银全球财富管理",
+   "def": "瑞士银行集团瑞银旗下的财富管理部门，为高净值客户提供投资建议。<br>本文中的意思：认为Muse提供了消费级AI智能体可以被广泛采用的早期证据。"
+  },
+  {
+   "name": "LSEG / 伦敦证券交易所集团",
+   "def": "London Stock Exchange Group，除运营交易所外，还拥有庞大的金融数据业务。<br>本文中的意思：本文券商评级与目标价数据的来源。"
+  },
+  {
+   "name": "Alphabet / Alphabet公司",
+   "def": "谷歌的母公司，旗下有Gmail、谷歌地图、Chrome浏览器、安卓系统及AI模型Gemini等。<br>本文中的意思：Muse推出前，投资者认为它比Meta更有可能做出消费级AI智能体。"
+  },
+  {
+   "name": "Amazon / 亚马逊",
+   "def": "美国最大的电商平台之一，同时拥有庞大的广告和云计算业务，自己也在开发购物智能体Buy for Me。<br>本文中的意思：以违反用户条款为由封锁Muse访问其网上商城。"
+  },
+  {
+   "name": "Shopify / Shopify电商平台",
+   "def": "加拿大电商公司，为全球数以百万计的独立商家提供开网店、收款等服务。<br>本文中的意思：Meta与其合作，以承接Muse的部分购物功能，绕开亚马逊的封锁。"
+  },
+  {
+   "name": "Perplexity / Comet",
+   "def": "Perplexity是美国AI搜索公司，Comet是其推出的AI浏览器，内置可代用户网购的智能体；亚马逊2025年11月起诉Perplexity，2026年3月获一审临时禁令，8月被第九巡回上诉法院推翻，诉讼仍在继续。<br>本文中的意思：作为亚马逊与AI智能体冲突的先例，与Muse被封一事相呼应。"
+  },
+  {
+   "name": "Llama 4 / Meta大语言模型Llama 4",
+   "def": "Meta于2025年4月发布的开源大模型，因提交排行榜的版本与公开版本不一致而引发跑分争议，之后Meta重组AI团队、成立超级智能实验室，并于2026年4月推出闭源模型Muse Spark。<br>本文中的意思：Muse成功之前Meta在AI领域遭遇的挫折，衬托出这次翻身的分量。"
+  }
+ ],
+ "sources_note": "资料核对：以上背景依据文章内容，并参考 Reuters 报道、Meta 官方发布信息、J.P. Morgan 与 Jefferies 研报及 LSEG 截至 2026 年 9 月的公开数据。",
+ "practice": {
+  "intro": "请根据今天学习的外刊，把下面的中文句子翻译成英文。要求：尽量用上本文的核心表达，可以适当改变词形，但不要直接照抄原文。",
+  "items": [
+   "华尔街已转而看好Meta，押注其新推出的AI智能体Muse能为这家社交媒体巨头开辟新的收入来源。",
+   "这款产品原定于4月发布，但为了额外几个月的安全工作而被推迟。",
+   "分析师将这款应用早期的强劲势头归功于产品与市场的高度契合。",
+   "早期评价显示，这款智能体能在极少用户干预的情况下执行多步骤任务。",
+   "在Muse推出之前，投资者完全不相信Meta能推出个性化的消费级AI智能体。",
+   "Muse的崛起并非一帆风顺：亚马逊已禁止该智能体访问其网上商城。"
+  ],
+  "critical_en": "If an AI agent can book, buy and bargain on your behalf, which of those actions should it take without asking you first — and who should be held responsible when it gets them wrong?",
+  "critical_zh": "如果一个AI智能体可以替你订票、替你买东西、替你砍价，那哪些事它该先问你一句、哪些可以直接动手？它办砸了的时候，责任又该算谁的？",
+  "answer": "1. Wall Street has turned bullish on Meta Platforms, betting that its new AI agent Muse could open a new revenue stream for the social media giant.<br><br>2. The product was originally slated for an April release but was held back for additional months of security work.<br><br>3. Analysts credited the app’s early traction to strong product-market fit.<br><br>4. Early reviews suggest the agent can execute multi-step tasks and workflows with limited user intervention.<br><br>5. Prior to Muse, investors had completely dismissed the idea that Meta would be able to release a personalized consumer AI agent.<br><br>6. Muse’s rise hasn’t gone unchallenged: Amazon has blocked the agent from accessing its online store."
+ },
+ "mindmap": {
+  "aria": "Meta的AI智能体Muse与华尔街热潮思维导图",
+  "alt": "Meta 的 Muse 搅动华尔街（矢量版）",
+  "svg": "<svg viewBox=\"0 0 960 720\" xmlns=\"http://www.w3.org/2000/svg\" role=\"img\" aria-label=\"Meta的AI智能体Muse与华尔街热潮思维导图\" style=\"width:100%;height:auto;font-family:-apple-system,'PingFang SC','Hiragino Sans GB','Microsoft YaHei',sans-serif\">\n        <rect x=\"24\" y=\"306\" width=\"176\" height=\"88\" rx=\"14\" fill=\"#eae3d2\" stroke=\"#9a8f76\"/>\n        <text x=\"112\" y=\"342\" text-anchor=\"middle\" fill=\"#3d3a34\" font-size=\"17\" font-weight=\"700\">Meta 的 Muse</text>\n        <text x=\"112\" y=\"368\" text-anchor=\"middle\" fill=\"#5c5648\" font-size=\"12.5\">12天搅动华尔街</text>\n\n        <path d=\"M200,350 C232,350 232,88 260,88\"  stroke=\"#6b8f71\" stroke-width=\"2\" fill=\"none\"/>\n        <path d=\"M200,350 C232,350 232,238 260,238\" stroke=\"#7d98ad\" stroke-width=\"2\" fill=\"none\"/>\n        <path d=\"M200,350 C232,350 232,433 260,433\" stroke=\"#bd7a6d\" stroke-width=\"2\" fill=\"none\"/>\n        <path d=\"M200,350 C232,350 232,628 260,628\" stroke=\"#9b86b3\" stroke-width=\"2\" fill=\"none\"/>\n\n        <g class=\"mm-branch\" data-target=\"bc1\">\n          <rect x=\"260\" y=\"71\" width=\"190\" height=\"34\" rx=\"8\" fill=\"#e6efe7\" stroke=\"#6b8f71\"/>\n          <text x=\"349\" y=\"93\" text-anchor=\"middle\" fill=\"#4c6b52\" font-size=\"15\" font-weight=\"700\">华尔街翻多（¶1–2）</text>\n          <text class=\"mm-arrow\" data-for=\"bc1\" x=\"442\" y=\"93\" text-anchor=\"end\" fill=\"#4c6b52\">▾</text>\n        </g>\n        <g class=\"mm-children\" id=\"bc1\">\n          <path d=\"M450,88 C462,88 462,46 480,46\" stroke=\"#6b8f71\" stroke-width=\"1.5\" fill=\"none\"/>\n          <path d=\"M450,88 C462,88 462,88 480,88\" stroke=\"#6b8f71\" stroke-width=\"1.5\" fill=\"none\"/>\n          <path d=\"M450,88 C462,88 462,130 480,130\" stroke=\"#6b8f71\" stroke-width=\"1.5\" fill=\"none\"/>\n          <rect x=\"480\" y=\"30\" width=\"456\" height=\"32\" rx=\"8\" fill=\"#e6efe7\"/><text x=\"492\" y=\"51\" fill=\"#3d3a34\" font-size=\"14\">由怀疑转为看多，押注一条新收入渠道</text>\n          <rect x=\"480\" y=\"72\" width=\"456\" height=\"32\" rx=\"8\" fill=\"#e6efe7\"/><text x=\"492\" y=\"93\" fill=\"#3d3a34\" font-size=\"14\">能代发邮件、订行程，甚至替人卖车</text>\n          <rect x=\"480\" y=\"114\" width=\"456\" height=\"32\" rx=\"8\" fill=\"#e6efe7\"/><text x=\"492\" y=\"135\" fill=\"#3d3a34\" font-size=\"14\">内部代号 Hatch，架在开源框架 OpenClaw 上</text>\n        </g>\n\n        <g class=\"mm-branch\" data-target=\"bc2\">\n          <rect x=\"260\" y=\"221\" width=\"190\" height=\"34\" rx=\"8\" fill=\"#e5edf4\" stroke=\"#7d98ad\"/>\n          <text x=\"349\" y=\"243\" text-anchor=\"middle\" fill=\"#3d5872\" font-size=\"15\" font-weight=\"700\">发布与首战（¶3–5）</text>\n          <text class=\"mm-arrow\" data-for=\"bc2\" x=\"442\" y=\"243\" text-anchor=\"end\" fill=\"#3d5872\">▾</text>\n        </g>\n        <g class=\"mm-children\" id=\"bc2\">\n          <path d=\"M450,238 C462,238 462,196 480,196\" stroke=\"#7d98ad\" stroke-width=\"1.5\" fill=\"none\"/>\n          <path d=\"M450,238 C462,238 462,238 480,238\" stroke=\"#7d98ad\" stroke-width=\"1.5\" fill=\"none\"/>\n          <path d=\"M450,238 C462,238 462,280 480,280\" stroke=\"#7d98ad\" stroke-width=\"1.5\" fill=\"none\"/>\n          <rect x=\"480\" y=\"180\" width=\"456\" height=\"32\" rx=\"8\" fill=\"#e5edf4\"/><text x=\"492\" y=\"201\" fill=\"#3d3a34\" font-size=\"14\">原定 4 月发布，为补安全压了约 5 个月</text>\n          <rect x=\"480\" y=\"222\" width=\"456\" height=\"32\" rx=\"8\" fill=\"#e5edf4\"/><text x=\"492\" y=\"243\" fill=\"#3d3a34\" font-size=\"14\">只开美加两地：独立 App＋WhatsApp</text>\n          <rect x=\"480\" y=\"264\" width=\"456\" height=\"32\" rx=\"8\" fill=\"#e5edf4\"/><text x=\"492\" y=\"285\" fill=\"#3d3a34\" font-size=\"14\">12 天下载 180 万，压过 ChatGPT 的 130 万</text>\n        </g>\n\n        <g class=\"mm-branch\" data-target=\"bc3\">\n          <rect x=\"260\" y=\"416\" width=\"190\" height=\"34\" rx=\"8\" fill=\"#f4e7e4\" stroke=\"#bd7a6d\"/>\n          <text x=\"349\" y=\"438\" text-anchor=\"middle\" fill=\"#7c4a3e\" font-size=\"15\" font-weight=\"700\">实测与行情（¶6–7）</text>\n          <text class=\"mm-arrow\" data-for=\"bc3\" x=\"442\" y=\"438\" text-anchor=\"end\" fill=\"#7c4a3e\">▾</text>\n        </g>\n        <g class=\"mm-children\" id=\"bc3\">\n          <path d=\"M450,433 C462,433 462,391 480,391\" stroke=\"#bd7a6d\" stroke-width=\"1.5\" fill=\"none\"/>\n          <path d=\"M450,433 C462,433 462,433 480,433\" stroke=\"#bd7a6d\" stroke-width=\"1.5\" fill=\"none\"/>\n          <path d=\"M450,433 C462,433 462,475 480,475\" stroke=\"#bd7a6d\" stroke-width=\"1.5\" fill=\"none\"/>\n          <rect x=\"480\" y=\"375\" width=\"456\" height=\"32\" rx=\"8\" fill=\"#f4e7e4\"/><text x=\"492\" y=\"396\" fill=\"#3d3a34\" font-size=\"14\">多步骤任务跑得通，登第三方账户会卡壳</text>\n          <rect x=\"480\" y=\"417\" width=\"456\" height=\"32\" rx=\"8\" fill=\"#f4e7e4\"/><text x=\"492\" y=\"438\" fill=\"#3d3a34\" font-size=\"14\">股价累涨逾 20%，一个交易日暴拉 11%</text>\n          <rect x=\"480\" y=\"459\" width=\"456\" height=\"32\" rx=\"8\" fill=\"#f4e7e4\"/><text x=\"492\" y=\"480\" fill=\"#3d3a34\" font-size=\"14\">AMD 首破 1 万亿美元，芯片股跟着涨</text>\n        </g>\n\n        <g class=\"mm-branch\" data-target=\"bc4\">\n          <rect x=\"260\" y=\"611\" width=\"190\" height=\"34\" rx=\"8\" fill=\"#ece4f2\" stroke=\"#9b86b3\"/>\n          <text x=\"349\" y=\"633\" text-anchor=\"middle\" fill=\"#5a4670\" font-size=\"15\" font-weight=\"700\">测算与阻力（¶8–10）</text>\n          <text class=\"mm-arrow\" data-for=\"bc4\" x=\"442\" y=\"633\" text-anchor=\"end\" fill=\"#5a4670\">▾</text>\n        </g>\n        <g class=\"mm-children\" id=\"bc4\">\n          <path d=\"M450,628 C462,628 462,586 480,586\" stroke=\"#9b86b3\" stroke-width=\"1.5\" fill=\"none\"/>\n          <path d=\"M450,628 C462,628 462,628 480,628\" stroke=\"#9b86b3\" stroke-width=\"1.5\" fill=\"none\"/>\n          <path d=\"M450,628 C462,628 462,670 480,670\" stroke=\"#9b86b3\" stroke-width=\"1.5\" fill=\"none\"/>\n          <rect x=\"480\" y=\"570\" width=\"456\" height=\"32\" rx=\"8\" fill=\"#ece4f2\"/><text x=\"492\" y=\"591\" fill=\"#3d3a34\" font-size=\"14\">杰富瑞：10 亿用户＋3% 付费＝108 亿美元</text>\n          <rect x=\"480\" y=\"612\" width=\"456\" height=\"32\" rx=\"8\" fill=\"#ece4f2\"/><text x=\"492\" y=\"633\" fill=\"#3d3a34\" font-size=\"14\">64 家券商 57 家买入，中位目标价 760</text>\n          <rect x=\"480\" y=\"654\" width=\"456\" height=\"32\" rx=\"8\" fill=\"#ece4f2\"/><text x=\"492\" y=\"675\" fill=\"#3d3a34\" font-size=\"14\">亚马逊封杀在前，Llama 4 旧账未清</text>\n        </g>\n      </svg>",
+  "img": ""
+ }
+}
