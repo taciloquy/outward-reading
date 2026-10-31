@@ -1,0 +1,575 @@
+{
+ "date": "2026-10-09",
+ "title_tag": "诺贝尔文学奖即将揭晓：村上春树年年被提，残雪再次成热门，今年到底会是谁？—— 英国《金融时报》外刊讲解第1192天",
+ "h1": "诺贝尔文学奖即将揭晓：村上春树年年被提，残雪再次成热门，今年到底会是谁？",
+ "source_label": "Financial Times",
+ "category": "英国《金融时报》外刊讲解 第1192天",
+ "read_minutes": 20,
+ "nav_hint": "Inside the Nobel Prize in literature",
+ "headline": {
+  "en_html": "Inside the Nobel Prize in literature",
+  "zh": "诺贝尔文学奖内幕",
+  "notes": []
+ },
+ "paragraphs": [
+  {
+   "en_html": "Alfred Nobel was a <mark class=\"voc\">keen</mark> but <mark class=\"voc\">mediocre</mark> writer. The Swedish dynamite tycoon wrote unpublished poems and a play featuring a 40-minute torture scene. <mark class=\"voc\">To the dismay of</mark> relatives keen to <mark class=\"voc\">inherit</mark> his fortune, his handwritten will of 1895 <mark class=\"voc\">endowed</mark> five awards, including a prize for literature. Nobel instructed “the Academy in Stockholm” to give it to the writer of “the most outstanding work in an ideal [idealisk] direction”. The Swedish Academy spent decades <mark class=\"voc\">puzzling over</mark> what “ideal” meant, before quietly dropping the criterion.",
+   "zh": "阿尔弗雷德·诺贝尔本人是一位热衷写作却才情平平的文人。这位瑞典炸药大亨写过未发表的诗作，还写过一部戏，其中有一幕长达四十分钟的酷刑场景。令那些盼着继承遗产的亲属们大失所望的是，他1895年的手写遗嘱设立了五个奖项，其中包括文学奖。诺贝尔嘱咐“斯德哥尔摩的学院”将其颁给“在理想[idealisk]方向上创作出最杰出作品”的作家。瑞典学院花了数十年琢磨“理想”究竟何所指，最终悄然将这一标准弃之不用。",
+   "notes": [
+    {
+     "w": "keen",
+     "ipa": "/kiːn/",
+     "pos": "adj.",
+     "en": "very interested in and enthusiastic about something; eager to do something",
+     "zh": "热衷的，热切的；敏锐的",
+     "ctx": "文中指诺贝尔对写作热情有余、才华不足，与 mediocre 一暖一冷，暗含惋惜与讽刺。",
+     "ex1": "She was a keen amateur photographer who spent every weekend chasing the perfect light. 她是一位热衷摄影的业余爱好者，每个周末都在追逐完美的光线。",
+     "ex2": "He remained a keen student of history long after he retired from teaching. 他从教职退休很久之后，仍是一位热切的历史学习者。"
+    },
+    {
+     "w": "mediocre",
+     "ipa": "/ˌmiːdiˈəʊkə(r)/",
+     "pos": "adj.",
+     "en": "not very good; of only average quality",
+     "zh": "平庸的，二流的",
+     "ctx": "开篇就给诺贝尔的文学才华定调：有热情、无天赋，是书评里那种“客气的差评”。",
+     "ex1": "The restaurant's food was mediocre and overpriced, but the view was spectacular. 这家餐厅的食物平庸且昂贵，但景色壮观。",
+     "ex2": "Critics dismissed the film as a mediocre effort from a director capable of far more. 影评人将这部电影斥为一位本可大有作为的导演的平庸之作。"
+    },
+    {
+     "w": "to the dismay of",
+     "ipa": "/tə ðə dɪsˈmeɪ əv/",
+     "pos": "短语",
+     "en": "causing someone to feel distress, shock, or disappointment",
+     "zh": "令……沮丧（震惊、失望）的是",
+     "ctx": "诺贝尔把遗产拿来设奖而不是留给亲属，让盼着继承的人失望甚至震惊。",
+     "ex1": "To the dismay of his fans, the singer announced his retirement at the height of his career. 令歌迷们大失所望的是，这位歌手在事业巅峰期宣布退役。",
+     "ex2": "To the dismay of environmentalists, the government approved the drilling project. 令环保人士沮丧的是，政府批准了该钻探项目。"
+    },
+    {
+     "w": "inherit",
+     "ipa": "/ɪnˈherɪt/",
+     "pos": "v.",
+     "en": "to receive money, property, or a title from someone after they have died",
+     "zh": "继承（财产、头衔等）",
+     "ctx": "亲属们急切盼着的是诺贝尔的巨额遗产，这份算计与他把财富捐出去形成道德对照。",
+     "ex1": "She inherited a small fortune from her grandmother and used it to open a bookshop. 她从祖母那里继承了一笔不小的财产，并用它开了一家书店。",
+     "ex2": "Under the will, the eldest son inherits the family estate. 根据遗嘱，长子继承家族产业。"
+    },
+    {
+     "w": "endow",
+     "ipa": "/ɪnˈdaʊ/",
+     "pos": "v.",
+     "en": "to give a large sum of money to a school, hospital, etc. to provide it with a permanent income",
+     "zh": "捐资设立，资助；赋予",
+     "ctx": "一纸 1895 年的手写遗嘱，一次出资设立五个奖项，让奖金有了永久来源。",
+     "ex1": "The billionaire endowed a scholarship fund for students from rural areas. 这位亿万富翁捐资设立了一项面向农村学生的奖学金基金。",
+     "ex2": "The university was endowed with a generous bequest from an anonymous donor. 这所大学获得了一位匿名捐赠者的慷慨遗赠。"
+    },
+    {
+     "w": "puzzle over",
+     "ipa": "/ˈpʌzl ˈəʊvə(r)/",
+     "pos": "动词短语",
+     "en": "to think hard about something for a long time because it is difficult to understand",
+     "zh": "苦苦思索，绞尽脑汁琢磨",
+     "ctx": "瑞典学院为遗嘱里 ideal 一词琢磨了几十年，最后索性把这条标准悄悄丢掉。",
+     "ex1": "Historians still puzzle over why the empire collapsed so suddenly. 历史学家至今仍在苦苦思索这个帝国为何会如此突然地崩溃。",
+     "ex2": "She puzzled over the cryptic message for hours before realizing it was a joke. 她对着那条隐晦的信息琢磨了几个小时，才意识到那是个玩笑。"
+    }
+   ]
+  },
+  {
+   "en_html": "Next Thursday, a door will open in a <mark class=\"voc\">gilded</mark> hall in Stockholm and the Academy’s formally dressed permanent secretary will step forward to announce, in Swedish and English, the winner of this year’s literature Nobel. Now prediction markets favour Indian writer Amitav Ghosh, the Chinese <mark class=\"voc\">avant-garde</mark> author Can Xue or the American novelist Thomas Pynchon to win the SKr12mn (£910,000) in prize money — though nobody really knows, as today’s Academy is less <mark class=\"voc\">leaky</mark> than it was before a #MeToo <mark class=\"voc\">scandal</mark> prompted a sweeping overhaul. And the <mark class=\"voc\">pundits</mark> usually guess wrong.",
+   "zh": "下周四，斯德哥尔摩一座金碧辉煌的大厅里将有一扇门开启，学院身着正装的常务秘书将走上前来，用瑞典语和英语宣布今年诺贝尔文学奖得主。目前预测市场看好印度作家阿米塔夫·高希、中国先锋派作家残雪或美国小说家托马斯·品钦摘得1200万瑞典克朗（约合91万英镑）的奖金——不过无人真正知晓，因为如今的学院比#MeToo丑闻引发全面改革之前守口如瓶得多。而评论家们的猜测通常都是错的。",
+   "notes": [
+    {
+     "w": "gilded",
+     "ipa": "/ˈɡɪldɪd/",
+     "pos": "adj.",
+     "en": "covered with a thin layer of gold or gold paint; (figurative) wealthy and privileged",
+     "zh": "镀金的；富丽堂皇的",
+     "ctx": "颁奖大厅金碧辉煌，这层“镀金”同时暗示奖项的尊贵与封闭。",
+     "ex1": "The gilded ceiling of the opera house took three years to restore. 歌剧院那镀金的天花板花了三年才修复。",
+     "ex2": "Behind the gilded façade of the corporation lay a culture of fear. 在那家公司金碧辉煌的外表之下，隐藏着一种恐惧文化。"
+    },
+    {
+     "w": "avant-garde",
+     "ipa": "/ˌævɒ̃ ˈɡɑːd/",
+     "pos": "adj.",
+     "en": "favouring or introducing new and experimental ideas and methods in art, music, or literature",
+     "zh": "先锋派的，前卫的",
+     "ctx": "残雪被称作中国的先锋派作家，词里暗含“实验性强、不易读”之意。",
+     "ex1": "The gallery devoted its upper floor to avant-garde installations from the 1960s. 画廊将顶层专门用于展出20世纪60年代的先锋派装置艺术。",
+     "ex2": "Her avant-garde prose style alienated some readers but inspired a generation of writers. 她的先锋派散文风格让一些读者望而却步，却启发了一代作家。"
+    },
+    {
+     "w": "leaky",
+     "ipa": "/ˈliːki/",
+     "pos": "adj.",
+     "en": "tending to disclose confidential information; (of a container) allowing liquid to escape",
+     "zh": "爱泄密的；漏水的",
+     "ctx": "如今的学院比 #MeToo 之前守口如瓶得多，预测市场再难探到风声。",
+     "ex1": "The committee was notoriously leaky, with details appearing in the press within hours. 该委员会以守不住秘密著称，细节几小时内就出现在报纸上。",
+     "ex2": "A leaky pipeline of internal memos kept the scandal alive for months. 内部备忘录不断外泄，使这桩丑闻持续发酵数月。"
+    },
+    {
+     "w": "scandal",
+     "ipa": "/ˈskændl/",
+     "pos": "n.",
+     "en": "an action or event regarded as morally or legally wrong and causing public outrage",
+     "zh": "丑闻，丑事",
+     "ctx": "2017 年院士丈夫被控性侵的 #MeToo 丑闻，直接逼出学院全面改革。",
+     "ex1": "The financial scandal forced the chief executive to resign within a week. 这桩财务丑闻迫使首席执行官在一周内辞职。",
+     "ex2": "The scandal shattered the institution's reputation for integrity. 这桩丑闻摧毁了该机构诚信的声誉。"
+    },
+    {
+     "w": "pundit",
+     "ipa": "/ˈpʌndɪt/",
+     "pos": "n.",
+     "en": "an expert in a particular subject who frequently gives opinions in the media",
+     "zh": "权威评论员，专家",
+     "ctx": "那些年年在媒体上预测得主的评论家，猜错的次数并不比普通人少。",
+     "ex1": "Political pundits predicted a landslide, but the result was too close to call. 政治评论员预测会一边倒，但结果却难分伯仲。",
+     "ex2": "Sports pundits were left red-faced after their pre-match forecasts proved wildly wrong. 赛前预测大错特错，体育评论员们颜面尽失。"
+    }
+   ]
+  },
+  {
+   "en_html": "The prize is <mark class=\"voc\">ritually</mark> <mark class=\"voc\">mocked</mark>. The Nigerian poet Chinweizu Ibekwe once <mark class=\"voc\">marvelled</mark> at “the <mark class=\"voc\">conceit</mark> that <mark class=\"voc\">a gaggle of</mark> Swedes . . . should pronounce on intellectual excellence for the whole wide world”. And yet, says Daniel Medin, professor of comparative literature at the American University of Paris: “The Nobel is the big one for international fiction. There is no comparison.” The Nobel shapes the global <mark class=\"voc\">canon</mark> — even if the globe can push back.",
+   "zh": "这个奖项历来被人揶揄。尼日利亚诗人钦韦祖·伊贝奎曾惊叹于“这样一种自负：一帮瑞典人……竟要对全世界的智识卓越发号施令”。然而，巴黎美国大学比较文学教授丹尼尔·梅丁说：“诺贝尔奖是国际小说界的头等大事。无可比拟。”诺贝尔奖塑造着全球经典——即便全球也能反推回去。",
+   "notes": [
+    {
+     "w": "ritually",
+     "ipa": "/ˈrɪtʃuəli/",
+     "pos": "adv.",
+     "en": "as part of a regular, repeated ceremony or habit",
+     "zh": "仪式般地，例行公事地",
+     "ctx": "每逢颁奖必被嘲讽，年年如此，已经成了一种固定仪式。",
+     "ex1": "Every year the budget is ritually condemned by the opposition before being passed unchanged. 每年预算都照例遭到反对党谴责，随后原封不动地通过。",
+     "ex2": "He ritually checked his watch every few minutes during the interview. 面试中他每隔几分钟就习惯性地看一眼手表。"
+    },
+    {
+     "w": "mock",
+     "ipa": "/mɒk/",
+     "pos": "v.",
+     "en": "to laugh at someone or something in an unkind way; to make fun of",
+     "zh": "嘲笑，讥讽",
+     "ctx": "诺奖的评选标准与评委资格，年年被外界当笑话讲。",
+     "ex1": "The proposal was mocked by economists as naive and unworkable. 该提议被经济学家嘲笑为天真且不可行。",
+     "ex2": "She mocked his accent so cruelly that he stopped speaking in class. 她残忍地嘲笑他的口音，以至于他不再在课堂上发言。"
+    },
+    {
+     "w": "marvel",
+     "ipa": "/ˈmɑːvl/",
+     "pos": "v.",
+     "en": "to be filled with wonder or astonishment",
+     "zh": "惊叹，感到惊奇",
+     "ctx": "尼日利亚诗人对“一小群瑞典人评判全世界”这件事，发出带刺的惊叹。",
+     "ex1": "Visitors marvelled at the precision of the ancient clockwork mechanism. 参观者惊叹于这座古代机械装置的精密。",
+     "ex2": "I marvel at how she manages to stay so calm under pressure. 我惊叹于她在压力之下竟能如此镇定。"
+    },
+    {
+     "w": "conceit",
+     "ipa": "/kənˈsiːt/",
+     "pos": "n.",
+     "en": "excessive pride in oneself; an elaborate or fanciful idea",
+     "zh": "自负，自大；（巧妙的）构想",
+     "ctx": "诗人讥讽的是那种自负：一帮瑞典人自认有资格给全世界的智识打分。",
+     "ex1": "It was sheer conceit to assume that his readers would follow such a convoluted argument. 认为读者能跟上如此迂回的论证，纯属自负。",
+     "ex2": "The novel's central conceit is that time runs backwards. 这部小说的核心构想是时间倒流。"
+    },
+    {
+     "w": "a gaggle of",
+     "ipa": "/ə ˈɡæɡl əv/",
+     "pos": "短语",
+     "en": "a disorderly group of people; (originally) a flock of geese",
+     "zh": "一群（喧闹的）；一帮",
+     "ctx": "用鹅群的意象说学院院士，吵闹、自以为是，语气轻蔑。",
+     "ex1": "A gaggle of tourists blocked the entrance, all taking photos at once. 一群游客堵住了入口，全都在同时拍照。",
+     "ex2": "A gaggle of reporters followed the actress through the airport. 一帮记者跟着那位女演员穿过机场。"
+    },
+    {
+     "w": "canon",
+     "ipa": "/ˈkænən/",
+     "pos": "n.",
+     "en": "the works of a writer, artist, etc. that are accepted as being of the highest quality; a general rule or principle",
+     "zh": "经典正典；（教会）教规",
+     "ctx": "诺奖塑造的是全球文学经典的形成，即谁被公认为权威、必读。",
+     "ex1": "Her novels have quietly entered the canon of twentieth-century American literature. 她的小说已悄然跻身二十世纪美国文学经典之列。",
+     "ex2": "Feminist critics challenged the male-dominated canon taught in universities. 女性主义批评家挑战了大学里以男性为主导的经典体系。"
+    }
+   ]
+  },
+  {
+   "en_html": "There has always been a <mark class=\"voc\">comic</mark> <mark class=\"voc\">discrepancy</mark> between the weight of the prize and the <mark class=\"voc\">parochialism</mark> of the judges. The Academy’s 18 life members — known as “The Eighteen” — are Swedish writers, literary historians, <mark class=\"voc\">linguists</mark> and a <mark class=\"voc\">jurist</mark>, some of them <mark class=\"voc\">obscure</mark> even in Sweden. There were barely any female members until this century. The very first award, in 1901, made international news. Somehow nobody nominated Leo Tolstoy, whereas 17 members of the Académie Française endorsed the French poet Sully Prudhomme, and he won.",
+   "zh": "奖项的分量与评委的狭隘之间，始终存在着一种滑稽的落差。学院的18位终身院士——人称“十八人”——是瑞典作家、文学史家、语言学家和一位法学家，其中有些人即便在瑞典也鲜为人知。直到本世纪，女性院士都寥寥无几。1901年首次颁奖便成为国际新闻。不知何故，无人提名列夫·托尔斯泰，而法兰西学院17位院士联名推举法国诗人苏利·普吕多姆，于是他得了奖。",
+   "notes": [
+    {
+     "w": "comic",
+     "ipa": "/ˈkɒmɪk/",
+     "pos": "adj.",
+     "en": "funny; relating to comedy; (of a situation) causing amusement",
+     "zh": "滑稽的，可笑的；喜剧的",
+     "ctx": "奖的分量那么重、评委的眼界那么窄，这个不匹配荒唐得可笑。",
+     "ex1": "There was something comic about the CEO arriving at the protest in a chauffeur-driven limousine. CEO坐着专职司机开的豪车来到抗议现场，这一幕颇为滑稽。",
+     "ex2": "The comic timing of his interruption made the whole room laugh. 他插话的喜剧时机恰到好处，逗得满堂大笑。"
+    },
+    {
+     "w": "discrepancy",
+     "ipa": "/dɪsˈkrepənsi/",
+     "pos": "n.",
+     "en": "an illogical or surprising lack of compatibility or similarity between two or more facts",
+     "zh": "差异，不一致，出入",
+     "ctx": "两种本该匹配的东西之间，出现了令人意外甚至荒谬的落差。",
+     "ex1": "Auditors found a discrepancy between the reported profits and the actual bank balance. 审计人员发现报告利润与实际银行余额之间存在出入。",
+     "ex2": "There is a glaring discrepancy between the government's promises and its actions. 政府的承诺与行动之间存在明显落差。"
+    },
+    {
+     "w": "parochialism",
+     "ipa": "/pəˈrəʊkiəlɪzəm/",
+     "pos": "n.",
+     "en": "a limited or narrow outlook, especially one focused on a local area rather than a wider world",
+     "zh": "狭隘，地方主义",
+     "ctx": "评委只看本国或西方传统，视野局限在一隅，缺乏全球眼光。",
+     "ex1": "The newspaper's parochialism meant that international news was relegated to the back pages. 这家报纸的地方主义意味着国际新闻被挤到了末版。",
+     "ex2": "Critics accused the museum of parochialism for ignoring non-Western art. 批评者指责该博物馆狭隘，忽视非西方艺术。"
+    },
+    {
+     "w": "linguist",
+     "ipa": "/ˈlɪŋɡwɪst/",
+     "pos": "n.",
+     "en": "a person who studies languages or speaks several languages",
+     "zh": "语言学家；通晓多种语言的人",
+     "ctx": "院士里有语言学家，说明这个评选班子是学术与文化精英的混合体。",
+     "ex1": "As a linguist, she could identify regional accents within a few sentences. 作为一名语言学家，她几句话就能听出对方的地域口音。",
+     "ex2": "The team included historians, linguists, and archaeologists. 团队中包括历史学家、语言学家和考古学家。"
+    },
+    {
+     "w": "jurist",
+     "ipa": "/ˈdʒʊərɪst/",
+     "pos": "n.",
+     "en": "an expert in law; a judge",
+     "zh": "法学家，法律专家",
+     "ctx": "十八人里还坐着一位法学家：机构以文学为名，构成却远不止文学。",
+     "ex1": "The panel was chaired by a distinguished jurist known for her constitutional expertise. 该小组由一位以宪法专长著称的杰出法学家主持。",
+     "ex2": "Jurists debated whether the new statute violated international law. 法学家们就新法规是否违反国际法展开辩论。"
+    },
+    {
+     "w": "obscure",
+     "ipa": "/əbˈskjʊə(r)/",
+     "pos": "adj.",
+     "en": "not well known; difficult to understand",
+     "zh": "默默无闻的；晦涩难懂的",
+     "ctx": "有些院士在瑞典本国都没什么名气，却握有世界文坛的最高评判权。",
+     "ex1": "He spent his life studying an obscure dialect spoken by fewer than a hundred people. 他毕生研究一种只有不到一百人使用的冷僻方言。",
+     "ex2": "The company was founded by an obscure engineer who never gave interviews. 这家公司由一位从不接受采访的默默无闻的工程师创立。"
+    }
+   ]
+  },
+  {
+   "en_html": "The literature prize has never been as controversial as the <mark class=\"voc\">frankly</mark> political Peace Prize; but because greatness in literature is more <mark class=\"voc\">subjective</mark> than in the sciences, the Academy’s choice reliably angers critics. They <mark class=\"voc\">delight in</mark> <mark class=\"voc\">drawing up</mark> lists of overlooked greats — James Joyce, Franz Kafka, Virginia Woolf, Marcel Proust, Constantine Cavafy, et cetera — though some of these achieved renown only after death.",
+   "zh": "文学奖从未像坦率政治化的和平奖那样引发争议；但由于文学上的伟大比科学上更具主观性，学院的选择总能可靠地激怒批评家。他们乐此不疲地罗列被忽视的大师名单——詹姆斯·乔伊斯、弗朗茨·卡夫卡、弗吉尼亚·伍尔夫、马塞尔·普鲁斯特、康斯坦丁·卡瓦菲斯等等——尽管其中有些人是在身后才声名鹊起。",
+   "notes": [
+    {
+     "w": "frankly",
+     "ipa": "/ˈfræŋkli/",
+     "pos": "adv.",
+     "en": "in an open, honest, and direct manner; used to introduce a blunt statement",
+     "zh": "坦率地说；直率地",
+     "ctx": "和平奖的政治性从不遮掩，与文学奖的含蓄恰成对照。",
+     "ex1": "Frankly, I don't think the plan will work. 坦率地说，我认为这个计划行不通。",
+     "ex2": "She spoke frankly about the difficulties she had faced as a woman in engineering. 她坦率地谈到了自己作为女性在工程领域所面临的困难。"
+    },
+    {
+     "w": "subjective",
+     "ipa": "/səbˈdʒektɪv/",
+     "pos": "adj.",
+     "en": "based on personal feelings, tastes, or opinions rather than external facts",
+     "zh": "主观的",
+     "ctx": "文学上的伟大没法像科学那样量化，评奖因此注定要挨骂。",
+     "ex1": "Taste in music is highly subjective, so there is no point arguing about it. 音乐品味极其主观，争论毫无意义。",
+     "ex2": "The reviewer admitted that her judgment was subjective and reflected her own preferences. 评论者承认她的判断是主观的，反映了她个人的偏好。"
+    },
+    {
+     "w": "delight in doing sth.",
+     "ipa": "/dɪˈlaɪt ɪn ˈduːɪŋ/",
+     "pos": "短语",
+     "en": "to take great pleasure in doing something, especially something that annoys others",
+     "zh": "以做某事为乐；热衷于做某事",
+     "ctx": "批评家们乐此不疲地开列遗珠名单，借此嘲弄学院。",
+     "ex1": "He delights in pointing out the flaws in his colleagues' arguments. 他热衷于指出同事论证中的漏洞。",
+     "ex2": "She delights in surprising her students with unusual questions. 她喜欢用不寻常的问题给学生惊喜。"
+    },
+    {
+     "w": "draw up",
+     "ipa": "/drɔː ʌp/",
+     "pos": "动词短语",
+     "en": "to prepare and write something such as a document or list",
+     "zh": "起草，拟定；列清单",
+     "ctx": "draw up 本是起草正式文件，用在“名单”上，显得煞有介事。",
+     "ex1": "The lawyer drew up a contract that protected both parties. 律师起草了一份保护双方的合同。",
+     "ex2": "The magazine drew up a list of the decade's most influential books. 该杂志列出了十年来最具影响力的书籍名单。"
+    }
+   ]
+  },
+  {
+   "en_html": "The prize was at its most politicised during the cold war, when the Academy chose the unreliable Soviet writer Boris Pasternak (1958) and <mark class=\"voc\">dissidents</mark> Aleksandr Solzhenitsyn (1970) and Joseph Brodsky (1987). Pasternak initially accepted the nobelevka, as the award is popularly known in Russia — but then, under pressure from the regime, rejected “this undeserved prize which has been presented to me”. Jean-Paul Sartre, who refused the Nobel in 1964, noted among his reasons that the prize was “<mark class=\"voc\">reserved for</mark> the writers of the West or the rebels of the East.”",
+   "zh": "冷战期间，该奖政治色彩最为浓烈，学院先后选中了难以归类的苏联作家鲍里斯·帕斯捷尔纳克（1958年）以及异见者亚历山大·索尔仁尼琴（1970年）和约瑟夫·布罗茨基（1987年）。帕斯捷尔纳克起初接受了“诺贝尔奖”（俄语俗称nobelevka）——但随后在政权压力下，拒绝了“这一授予我的不应得的奖”。1964年拒领诺贝尔奖的让-保罗·萨特，在其理由中指出该奖“专为西方作家或东方叛逆者而设”。",
+   "notes": [
+    {
+     "w": "dissident",
+     "ipa": "/ˈdɪsɪdənt/",
+     "pos": "n.",
+     "en": "a person who opposes official policy, especially in an authoritarian state",
+     "zh": "异见者，持不同政见者",
+     "ctx": "冷战语境里的异见者：索尔仁尼琴与布罗茨基，公开反对苏联政权。",
+     "ex1": "The dissident spent years under house arrest for criticizing the regime. 这位异见者因批评政权而被软禁多年。",
+     "ex2": "Exiled dissidents continued to publish their work abroad. 流亡的异见者继续在国外发表作品。"
+    },
+    {
+     "w": "reserved for",
+     "ipa": "/rɪˈzɜːvd fɔː(r)/",
+     "pos": "短语",
+     "en": "kept or set apart for a particular person or purpose",
+     "zh": "专为……保留的，专供……的",
+     "ctx": "萨特认为这个奖只留给西方作家或东方叛逆者，是一种排他性的意识形态分配。",
+     "ex1": "The front rows were reserved for family members of the graduates. 前排座位专为毕业生的家属保留。",
+     "ex2": "Such privileges are reserved for a tiny elite. 这类特权专为极少数精英保留。"
+    }
+   ]
+  },
+  {
+   "en_html": "By the 1980s, the Academy — earlier than most of the western literary establishment — began looking beyond the west. A “Nobel Committee” of four or five <mark class=\"voc\">academicians</mark> <mark class=\"voc\">whittles down</mark> the nominations to a shortlist of five, which the Eighteen spend the summer reading. They decide in early October. Translation has become central to the award.",
+   "zh": "到了1980年代，学院——比大多数西方文学建制更早——开始将目光投向西方之外。由四五位院士组成的“诺贝尔委员会”将提名筛选至五人短名单，十八位院士用整个夏天阅读。他们在十月初做出决定。翻译已成为评奖的核心环节。",
+   "notes": [
+    {
+     "w": "academician",
+     "ipa": "/əˌkædəˈmɪʃn/",
+     "pos": "n.",
+     "en": "a member of an academy, especially a learned society or national academy",
+     "zh": "院士",
+     "ctx": "指瑞典学院的终身院士，比 member 更正式，也更显封闭与精英。",
+     "ex1": "The academician delivered a lecture on the history of the Swedish language. 这位院士做了一场关于瑞典语历史的讲座。",
+     "ex2": "She was elected academician at the age of forty, the youngest in the society's history. 她四十岁当选院士，是该学会历史上最年轻的一位。"
+    },
+    {
+     "w": "whittle down",
+     "ipa": "/ˈwɪtl daʊn/",
+     "pos": "动词短语",
+     "en": "to gradually reduce the number of something until only the essential remain",
+     "zh": "逐步削减，层层筛选",
+     "ctx": "诺贝尔委员会把提名一层层削到五人短名单，像用刀削木头。",
+     "ex1": "The judges whittled the two hundred entries down to a shortlist of six. 评委们将两百份参赛作品层层筛选至六份入围名单。",
+     "ex2": "Management whittled down the proposals to three viable options. 管理层将提案削减至三个可行方案。"
+    }
+   ]
+  },
+  {
+   "en_html": "The Nobel has helped make the international canon more inclusive. After going global, the prize has recently become gender-equal. This followed a #MeToo scandal in 2017, when 18 women accused the French husband of Academician Katarina Frostenson of <mark class=\"voc\">sexual assault</mark> and rape. He was later jailed. Several members quit — although the body’s rules <mark class=\"voc\">forbid</mark> resignation — and the post-scandal “Eighteen” included many more women. They awarded the 2018 prize, a year late, to Polish writer Olga Tokarczuk, and there have been three female <mark class=\"voc\">laureates</mark> since 2018. In fact, notes Kaj Schueler, author of a Swedish book on the prize, there’s been a precise <mark class=\"voc\">pattern</mark>: male and female victories alternate. If that continues, then after Krasznahorkai’s win in 2025, this year’s laureate would be a woman, perhaps it will be Xue’s year?",
+   "zh": "诺贝尔奖助推国际经典变得更加包容。走向全球之后，该奖近年来又实现了性别均衡。这缘于2017年的#MeToo丑闻，当时18名女性指控院士卡塔琳娜·弗罗斯滕松的法国丈夫性侵和强奸。他后来入狱。数名院士辞职——尽管学院章程禁止辞职——丑闻后的“十八人”中女性大增。他们将2018年奖项迟延一年颁给波兰作家奥尔加·托卡尔丘克，而自2018年以来已有三位女性得主。事实上，瑞典一本关于该奖的著作的作者卡伊·许勒指出，存在一个精确的规律：男女得主交替获奖。若此规律延续，那么在克拉斯诺霍尔卡伊2025年获奖之后，今年的得主将是一位女性，或许今年该轮到残雪了？",
+   "notes": [
+    {
+     "w": "sexual assault",
+     "ipa": "/ˈsekʃuəl əˈsɔːlt/",
+     "pos": "n.",
+     "en": "illegal sexual contact that usually involves force or the threat of force",
+     "zh": "性侵犯",
+     "ctx": "2017 年 18 名女性对院士丈夫的性侵指控，把学院拖进危机。",
+     "ex1": "The university introduced new procedures for reporting sexual assault on campus. 该大学出台了举报校园性侵犯的新程序。",
+     "ex2": "Survivors of sexual assault often face barriers to seeking justice. 性侵犯的幸存者往往在寻求正义时面临重重障碍。"
+    },
+    {
+     "w": "forbid",
+     "ipa": "/fəˈbɪd/",
+     "pos": "v.",
+     "en": "to order that something must not be done; to prohibit",
+     "zh": "禁止",
+     "ctx": "学院章程明文禁止辞职，丑闻后辞职的院士在制度上属于违规。",
+     "ex1": "The regulations forbid smoking anywhere inside the building. 规章禁止在楼内任何地方吸烟。",
+     "ex2": "Her parents forbade her to see him again. 她父母禁止她再与他见面。"
+    },
+    {
+     "w": "laureate",
+     "ipa": "/ˈlɒriət/",
+     "pos": "n.",
+     "en": "a person who has been awarded a prize or honour, especially the Nobel Prize",
+     "zh": "获奖者，桂冠诗人",
+     "ctx": "2018 年以来已有三位女性得主；laureate 源自“月桂冠”，专配诺奖。",
+     "ex1": "The poet laureate composed a verse for the coronation. 桂冠诗人为加冕典礼创作了一首诗。",
+     "ex2": "This year's laureate in medicine is a pioneer of gene therapy. 今年的医学奖得主是基因疗法的先驱。"
+    },
+    {
+     "w": "pattern",
+     "ipa": "/ˈpætn/",
+     "pos": "n.",
+     "en": "a regular and repeated way in which something happens or is done",
+     "zh": "模式，规律",
+     "ctx": "作者半开玩笑地说，男女得主交替获奖是一个精确的规律。",
+     "ex1": "Scientists detected a pattern in the migration of the birds. 科学家在鸟类迁徙中发现了一种规律。",
+     "ex2": "The data revealed a clear pattern of discrimination against older applicants. 数据显示出针对年长申请者的明显歧视模式。"
+    }
+   ]
+  },
+  {
+   "en_html": "The winners’ reactions are part of the award’s <mark class=\"voc\">lore</mark>. John Steinbeck in 1962, when asked whether he deserved the Nobel, replied, “Frankly, no”. (Many critics agreed.) Samuel Beckett (1969) was on holiday in Tunisia with his wife Suzanne when a telegram from his French publisher arrived: “<mark class=\"voc\">In spite of</mark> everything, they have given you the Nobel Prize. I advise you to go into hiding.” Suzanne, when told the news, <mark class=\"voc\">exclaimed</mark>, “Quelle catastrophe.” Beckett dubbed December 10, the annual date of the award ceremony, “Nobloodybeldamday”. Bob Dylan, winner in 2016, ignored the Academy’s phone calls and didn’t acknowledge the prize for over a <mark class=\"voc\">fortnight</mark>.",
+   "zh": "获奖者的反应也是这个奖项传奇的一部分。1962年，约翰·斯坦贝克被问及是否配得上诺贝尔奖时答道：“坦白说，不配。”（许多批评家深表赞同。）1969年，塞缪尔·贝克特正与妻子苏珊娜在突尼斯度假，其法国出版商发来一封电报：“尽管发生了这一切，他们还是把诺贝尔奖给了你。我建议你躲起来。”苏珊娜得知消息后惊呼：“真是灾难。”贝克特将12月10日——颁奖典礼的固定日期——戏称为“诺贝尔倒霉日”。2016年得主鲍勃·迪伦无视学院的多次来电，超过两周未对获奖作出回应。",
+   "notes": [
+    {
+     "w": "lore",
+     "ipa": "/lɔː(r)/",
+     "pos": "n.",
+     "en": "traditional knowledge or stories about a particular subject or group",
+     "zh": "传说，掌故；传统知识",
+     "ctx": "得主们的种种反应，早已成了诺贝尔奖传说的一部分。",
+     "ex1": "The lore of the ancient guild was passed down orally for centuries. 这个古代行会的传说口耳相传了数百年。",
+     "ex2": "Baseball lore is full of tales of improbable comebacks. 棒球掌故中充满了不可思议的逆转故事。"
+    },
+    {
+     "w": "in spite of",
+     "ipa": "/ɪn ˈspaɪt əv/",
+     "pos": "短语",
+     "en": "without being affected by; despite",
+     "zh": "尽管，不顾",
+     "ctx": "出版商的电报说：尽管如此，他们还是把奖给了你。",
+     "ex1": "In spite of the heavy rain, the marathon went ahead as planned. 尽管大雨倾盆，马拉松仍按计划举行。",
+     "ex2": "She finished the race in spite of her injury. 尽管受伤，她还是完成了比赛。"
+    },
+    {
+     "w": "exclaim",
+     "ipa": "/ɪkˈskleɪm/",
+     "pos": "v.",
+     "en": "to say something suddenly and loudly, especially because of strong emotion",
+     "zh": "惊呼，大声说",
+     "ctx": "苏珊娜听到消息脱口而出“真是灾难”，比 say 更有戏剧张力。",
+     "ex1": "“What a beautiful view!” she exclaimed. “多美的景色啊！”她惊呼道。",
+     "ex2": "He exclaimed in surprise when he saw the final bill. 看到最终账单时，他惊讶地叫了出来。"
+    },
+    {
+     "w": "fortnight",
+     "ipa": "/ˈfɔːtnaɪt/",
+     "pos": "n.",
+     "en": "a period of two weeks",
+     "zh": "两周",
+     "ctx": "鲍勃·迪伦两个多星期没搭理学院，英式说法 fortnight 更显文雅。",
+     "ex1": "They spent a fortnight touring the Scottish Highlands. 他们花了两周时间游览苏格兰高地。",
+     "ex2": "The report will be published in a fortnight. 报告将在两周后发布。"
+    }
+   ]
+  }
+ ],
+ "proper": [
+  {
+   "name": "Alfred Nobel / 阿尔弗雷德·诺贝尔（1833–1896）",
+   "def": "瑞典化学家、工程师、发明家与实业家，1833 年 10 月 21 日生于斯德哥尔摩，1896 年 12 月 10 日在意大利圣雷莫去世。1867 年发明达纳炸药并获专利，此后又研制出多种更强的爆炸物，一生拥有 355 项专利。他凭炸药专利积累巨额财富，本人却是和平主义者，对炸药被用于战争深感不安。终身未婚、没有子女，热爱文学，曾尝试写诗与戏剧，但才华平庸，剧作《复仇的死神》（Nemesis）含长达 40 分钟的酷刑场景。1895 年 11 月 27 日在巴黎签署最后一份遗嘱，把约 3122 万瑞典克朗的遗产用于设立五个诺贝尔奖项。<br>本文中的意思：第 1 段写的正是他。作者先交代他“热衷却平庸”的文学梦，是为后文那句“奖是十八个瑞典人评的”埋线——这个奖本来就是一个人的遗嘱造出来的。"
+  },
+  {
+   "name": "idealisk / 遗嘱里的“理想方向”标准",
+   "def": "诺贝尔 1895 年遗嘱规定，文学奖授予“在文学领域创作出具有理想倾向（idealisk）的最杰出作品之人”。瑞典学院最初几十年努力按这一标准评选，但 idealisk 的确切含义始终模糊。诺贝尔研究专家 Torgny Segerstedt 指出，诺贝尔是“激进的伦理理想主义者”，希望文学奖鼓励作家写出“使理想变得生动而有吸引力”的作品。随着时间推移，学院逐渐放弃对“理想方向”的严格审查，转以文学品质本身为核心标准。<br>本文中的意思：第 1 段“spent decades puzzling over what ‘ideal’ meant, before quietly dropping the criterion”说的就是这段公案：标准太模糊，最后被悄悄丢掉。"
+  },
+  {
+   "name": "Swedish Academy / 瑞典学院",
+   "def": "1786 年 3 月 20 日由国王古斯塔夫三世仿照法兰西学院（l’Académie française）创立，宗旨是维护瑞典语的“纯洁、力量和庄严”。诺贝尔遗嘱中“斯德哥尔摩的学院”被解读为瑞典学院；1900 年诺贝尔基金会正式决定由其评选和颁发文学奖，1901 年首次颁奖。除诺奖外，学院还负责编纂瑞典语词典、保护已故作家作品。<br>本文中的意思：全文那个“关起门来定夺世界文学最高荣誉”的评委班子，就是它。"
+  },
+  {
+   "name": "SKr 12mn / 1200 万瑞典克朗奖金",
+   "def": "2025 年诺贝尔文学奖奖金为 1200 万瑞典克朗，约合 91 万英镑。奖金来自诺贝尔遗产基金的投资收益，而非政府拨款；诺贝尔基金会每年按基金收益调整金额，近年通常维持在 1000 万至 1200 万克朗之间。获奖者通常 10 月接到通知，12 月 10 日（诺贝尔逝世纪念日）在斯德哥尔摩正式领奖。<br>本文中的意思：第 2 段括号里的“SKr12mn（£910,000）”就是这笔钱的数目。"
+  },
+  {
+   "name": "#MeToo scandal / 瑞典学院丑闻（2017–2018）",
+   "def": "2017 年 11 月，瑞典《每日新闻报》（Dagens Nyheter）刊出调查报道，18 名女性匿名指控让-克洛德·阿尔诺（Jean-Claude Arnault）在数十年间对她们实施性骚扰和性侵犯。阿尔诺是瑞典文化界重要人物，经营文化俱乐部“论坛”（Forum），长期接受学院资助，也是时任院士卡塔琳娜·弗罗斯滕松的丈夫。丑闻引发学院内部严重分裂：2018 年 4 月，常任秘书萨拉·达尼乌斯被迫辞职，随后多名院士退出工作；5 月，学院宣布推迟颁发 2018 年文学奖，为 1943 年以来首次停颁。阿尔诺后被判处强奸罪入狱。2019 年，2018 年与 2019 年两届文学奖同时颁发。<br>本文中的意思：第 2 段“less leaky than it was before a #MeToo scandal”与第 8 段整段，都指向这场危机。"
+  },
+  {
+   "name": "sweeping overhaul / 2017 年后的学院改革",
+   "def": "丑闻后学院做了结构性调整。原章程规定院士终身制且无辞职权利，瑞典国王卡尔十六世·古斯塔夫（作为学院赞助人）批准新规，允许院士正式辞职，并规定对两年不活跃的院士可予除名。院士构成也显著变化，女性院士数量大幅增加；评选过程保密性加强，外界更难预测结果。<br>本文中的意思：第 2 段的“a sweeping overhaul”（全面改革）与第 8 段的“post-scandal ‘Eighteen’ included many more women”，说的都是这一轮改革。"
+  },
+  {
+   "name": "ritually mocked / 诺贝尔奖的“仪式性嘲讽”传统",
+   "def": "外刊指出诺奖被“仪式性地嘲笑”，这反映了国际文学界对瑞典学院评选资格的长期质疑。尼日利亚诗人钦韦祖·伊贝奎（Chinweizu Ibekwe）的批评，代表了后殖民时代对西方文化霸权的典型批判。这种质疑并非孤立声音：从冷战时期的政治化争议，到 #MeToo 丑闻后的信任危机，诺贝尔文学奖始终处在“被仰慕”与“被揶揄”的双重张力之中。<br>本文中的意思：第 3 段开头“The prize is ritually mocked”就是这一传统的一句浓缩。"
+  },
+  {
+   "name": "global canon / 全球文学经典",
+   "def": "巴黎美国大学比较文学教授丹尼尔·梅丁（Daniel Medin）指出，诺奖是国际小说界“无可比拟”的大事。获奖往往带来作品的全球翻译、出版与阅读浪潮，使原本边缘的作家进入国际视野，例如 2024 年韩国作家韩江获奖后作品全球销量大幅增长。但“全球也能反推回去”（the globe can push back），意味着各地区也会以自身标准重新审视诺奖的选择，并非所有获奖者在所有地区都获得同等认可。<br>本文中的意思：第 3 段末句“shapes the global canon — even if the globe can push back”即此意。"
+  },
+  {
+   "name": "The Eighteen / 瑞典学院“十八人”",
+   "def": "学院设 18 名终身院士，被称为“十八人”（de aderton），由瑞典作家、文学史家、语言学家、历史学家和法学家组成，历史上仅男性可当选。1914 年，塞尔玛·拉格洛夫（Selma Lagerlöf，1909 年诺贝尔文学奖得主）成为首位女性院士。院士席位传统上终身制，2018 年后允许辞职；新院士选举需至少 12 名院士投票赞成。日常工作机构是诺贝尔委员会，由院士中选举产生，任期三年。<br>本文中的意思：第 4 段“The Academy’s 18 life members — known as ‘The Eighteen’”与第 7 段“the Eighteen”，指的正是这 18 个人。"
+  },
+  {
+   "name": "Sully Prudhomme / 苏利·普吕多姆与 1901 年首奖",
+   "def": "1901 年首届诺贝尔文学奖授予法国诗人苏利·普吕多姆，而非列夫·托尔斯泰。这一结果由法兰西学院 17 位院士联名推举促成。托尔斯泰虽被广泛认为是当时最伟大的作家，却未被提名，成为诺奖历史上最著名的“遗珠”之一。普吕多姆是帕尔纳斯派诗人，代表作包括《孤独》（Solitudes）和《徒然的柔情》（Les Vaines Tendresses）。<br>本文中的意思：第 4 段末句“17 members of the Académie Française endorsed the French poet Sully Prudhomme, and he won”的注脚。"
+  },
+  {
+   "name": "Académie Française / 法兰西学院",
+   "def": "法国最高学术机构之一，1635 年由黎塞留创立，负责规范法语。瑞典学院在 1786 年创立时即仿照法兰西学院模式。法兰西学院院士同样为终身制，被称为“不朽者”（les immortels），编制 40 人。1901 年法兰西学院 17 位院士联名支持苏利·普吕多姆，显示了其在国际文学界的巨大影响力。<br>本文中的意思：第 4 段中“17 位院士联名推举”的那家机构。"
+  },
+  {
+   "name": "overlooked greats / 被诺奖忽视的文学巨匠",
+   "def": "外刊列举了詹姆斯·乔伊斯、弗朗茨·卡夫卡、弗吉尼亚·伍尔夫、马塞尔·普鲁斯特、康斯坦丁·卡瓦菲斯等从未获奖的作家。其中卡夫卡、普鲁斯特等人在世时知名度有限，死后才获得世界性声誉。这一现象被批评者反复用来质疑诺奖评选的滞后性与保守性——托尔斯泰、易卜生、契诃夫、博尔赫斯、纳博科夫等大师均未获奖。<br>本文中的意思：第 5 段“lists of overlooked greats”后面那串人名，就是这份名单。"
+  },
+  {
+   "name": "cold war politicisation / 冷战时期的政治化",
+   "def": "冷战期间，学院的选择明显带有政治色彩：1958 年授予苏联作家鲍里斯·帕斯捷尔纳克，1970 年授予异见者亚历山大·索尔仁尼琴，1987 年授予约瑟夫·布罗茨基。帕斯捷尔纳克起初接受奖项，后因苏联政权压力被迫拒绝；索尔仁尼琴被剥夺国籍流亡美国，布罗茨基被驱逐出境后加入美国国籍。这些选择被广泛解读为西方对苏联的文化政治姿态。<br>本文中的意思：第 6 段整段即此。"
+  },
+  {
+   "name": "Boris Pasternak / 鲍里斯·帕斯捷尔纳克（1958）",
+   "def": "苏联作家，1890 年生于莫斯科，代表作《日瓦戈医生》。1958 年获诺贝尔文学奖，获奖理由是“在当代抒情诗和伟大的俄罗斯史诗传统领域的重要成就”。在苏联政权压力下，他被迫拒绝领奖，并致电瑞典学院：“鉴于这一奖项在我所属的社会中被赋予的意义，我必须拒绝它”。直到 1960 年去世，他始终未能领取奖章；1989 年，其子叶夫根尼·帕斯捷尔纳克代父领取了奖章。<br>本文中的意思：第 6 段“the unreliable Soviet writer Boris Pasternak (1958)”与被逼拒奖的那段经过。"
+  },
+  {
+   "name": "Jean-Paul Sartre / 让-保罗·萨特（1964 拒领）",
+   "def": "法国存在主义哲学家、作家，1905 年生于巴黎，1980 年去世。1964 年诺贝尔文学奖授予萨特，理由是“他的作品充满思想、自由精神和真理追求，对我们时代产生了深远影响”。萨特主动拒绝领奖，理由是他“一贯拒绝一切官方荣誉”，且认为诺奖“专为西方作家或东方叛逆者而设”。他是诺奖历史上唯一主动拒绝的得主（帕斯捷尔纳克是被迫的），其拒领行为引发了关于奖项政治性和作家独立性的持续讨论。<br>本文中的意思：第 6 段末尾萨特那句“reserved for the writers of the West or the rebels of the East”的出处。"
+  },
+  {
+   "name": "Nobel Committee / 诺贝尔委员会与评选流程",
+   "def": "18 名院士中有 5 人组成诺贝尔文学奖初选委员会，任期三年，由学院内部选举产生。每年 2 月至 5 月，委员会从全球约 200 位被提名作家中筛选出约 20 人，再选出 5 人决选名单。提名来源包括前获奖者、各国文学评论家、语言学家、文学史家等。18 名院士在夏季阅读决选作品，9 月开会讨论，10 月投票产生最终结果。评选过程严格保密，提名名单和讨论记录在 50 年后才解密。<br>本文中的意思：第 7 段“A ‘Nobel Committee’ of four or five academicians whittles down the nominations to a shortlist of five”就是这套流程。"
+  },
+  {
+   "name": "Olga Tokarczuk / 奥尔加·托卡尔丘克（2018）",
+   "def": "波兰作家，1962 年生于苏莱胡夫，代表作《云游》（Flights）、《白天的房子，夜晚的房子》、《太古和其他的时间》。2018 年诺贝尔文学奖授予托卡尔丘克，因丑闻推迟至 2019 年颁发，获奖理由是“以叙事想象力，带着百科全书式的热情，呈现了作为一种生活形式的跨越边界的叙事”。她的获奖被视为瑞典学院丑闻后改革的重要标志。<br>本文中的意思：第 8 段“awarded the 2018 prize, a year late, to Polish writer Olga Tokarczuk”。"
+  },
+  {
+   "name": "female laureates / 2018 年后的女性得主",
+   "def": "自 2018 年托卡尔丘克获奖以来，女性诺贝尔文学奖得主包括：2018 年托卡尔丘克（波兰）、2020 年露易丝·格丽克（美国）、2022 年安妮·埃尔诺（法国）、2024 年韩江（韩国）。截至 2024 年，121 位文学奖得主中仅 18 位为女性；2018 年之前女性得主占比约 14%，而 2018 至 2024 的七年间，女性得主占了 4 位，比例大幅提升。<br>本文中的意思：第 8 段“three female laureates since 2018”的数据背景。"
+  },
+  {
+   "name": "alternating pattern / 男女交替获奖的“规律”",
+   "def": "瑞典作家卡伊·许勒（Kaj Schueler）观察到，近年诺贝尔文学奖呈现男女得主交替的精确规律：2018 女（托卡尔丘克）、2019 男（彼得·汉德克）、2020 女（格丽克）、2021 男（古尔纳）、2022 女（埃尔诺）、2023 男（约恩·福瑟）、2024 女（韩江）、2025 男（克拉斯诺霍尔卡伊）。这一规律若延续，2026 年得主应为女性。该观察带有半调侃性质，并非官方规则。<br>本文中的意思：第 8 段“male and female victories alternate … perhaps it will be Xue’s year?”的由来。"
+  },
+  {
+   "name": "Can Xue / 残雪与中国先锋文学",
+   "def": "残雪，本名邓小华，1953 年 5 月 30 日生于湖南长沙，原名邓则梅。她是中国当代先锋派文学代表人物，作品以晦涩难懂著称，被瑞典学院院士马悦然称为“中国的卡夫卡”。她自学英语，深受卡夫卡、博尔赫斯和但丁影响，并著有关于这三位作家的文学评论。作品已被译为多种语言，西班牙语译本包括《暗夜呼唤》（La oscura llamada，2016）、《边境》（La frontera，2021）等。她是作品在国外被翻译出版最多的中国女作家之一，多次成为诺奖博彩赔率榜热门人选，2023 年曾位居榜首，2025 年再度成为热门候选，但最终奖项授予了匈牙利作家克拉斯诺霍尔卡伊·拉斯洛。<br>本文中的意思：第 2 段预测市场里的“the Chinese avant-garde author Can Xue”，以及第 8 段“perhaps it will be Xue’s year?”所指的人。"
+  },
+  {
+   "name": "John Steinbeck / 约翰·斯坦贝克（1962）",
+   "def": "美国作家，1902 年生于加利福尼亚州萨利纳斯，1968 年去世，代表作《愤怒的葡萄》、《人鼠之间》、《伊甸之东》。1962 年获诺贝尔文学奖，获奖理由是“他的现实主义和富有想象力的创作，结合了富有同情的幽默和敏锐的社会洞察力”。获奖后被问及是否配得上该奖，斯坦贝克回答“坦白说，不配”（Frankly, no）。这一回应成为诺奖历史上最著名的自嘲之一，许多批评家对此表示赞同。<br>本文中的意思：第 9 段开头那句“Frankly, no”的当事人。"
+  },
+  {
+   "name": "Samuel Beckett / 塞缪尔·贝克特（1969）",
+   "def": "爱尔兰作家，1906 年生于都柏林，1989 年去世，代表作《等待戈多》、《终局》、《马龙之死》。1969 年获诺贝尔文学奖，获奖理由是“他的写作在新形式的小说和戏剧中，从现代人的贫困中获得了升华”。获奖时贝克特正在突尼斯度假，其法国出版商发来电报：“尽管发生了这一切，他们还是把诺贝尔奖给了你。我建议你躲起来。”妻子苏珊娜得知消息后惊呼“Quelle catastrophe”（真是灾难）。贝克特将 12 月 10 日颁奖日戏称为“Nobloodybeldamday”（诺贝尔倒霉日）。<br>本文中的意思：第 9 段那封电报与“Quelle catastrophe”的出处。"
+  },
+  {
+   "name": "Bob Dylan / 鲍勃·迪伦（2016）",
+   "def": "美国音乐人、诗人，1941 年生于明尼苏达州德卢斯，原名罗伯特·艾伦·齐默曼。2016 年获诺贝尔文学奖，获奖理由是“在美国歌曲传统中创造了新的诗意表达”。迪伦是首位获诺贝尔文学奖的音乐人。获奖后他无视瑞典学院的多次来电，超过两周未作出任何回应，引发全球媒体关注。他最终未出席颁奖典礼，但提交了获奖感言，由美国驻瑞典大使代读。迪伦后来在 2017 年领取了奖章，并在斯德哥尔摩举办了两场音乐会。<br>本文中的意思：第 9 段末尾“ignored the Academy’s phone calls … for over a fortnight”的主角。"
+  }
+ ],
+ "sources_note": "资料核对：以上背景依据课件所附背景资料，并参考瑞典学院官网、NobelPrize.org、Financial Times 及公开报道整理。",
+ "practice": {
+  "intro": "请根据今天学习的外刊，把下面的中文句子翻译成英文。要求：尽量用上本文的核心表达，可以适当改变词形，但不要直接照抄原文。",
+  "items": [
+   "令同事们大失所望的是，这位新经理最终表现得十分平庸。",
+   "尽管大雨倾盆，孩子们还是跑出去玩了。",
+   "这位鲜为人知的教授花了整整两周写一份报告。",
+   "她热衷于嘲笑别人的口音，却忽视了自己的问题。",
+   "评论员指出，广告宣传与实际产品之间存在明显落差。",
+   "得知航班取消时，她惊呼这简直是灾难。"
+  ],
+  "critical_en": "A prize awarded by eighteen Swedes is mocked every year, and yet it still reshapes what the world reads. Which matters more — who does the judging, or what the prize does to a writer’s afterlife?",
+  "critical_zh": "一个由十八位瑞典人评出的奖，年年被嘲讽，却仍在重塑全世界的阅读清单。究竟是“谁来评”更重要，还是“这个奖把一个作家推向怎样的身后声名”更重要？",
+  "answer": "1. To the dismay of his colleagues, the new manager turned out to be thoroughly mediocre.<br><br>2. In spite of the heavy rain, the children still ran outside to play.<br><br>3. The obscure professor spent a full fortnight writing a report.<br><br>4. She delights in mocking others’ accents, yet overlooks her own faults.<br><br>5. Pundits noted a glaring discrepancy between the advertising and the actual product.<br><br>6. When told the flight was cancelled, she exclaimed that it was a catastrophe."
+ },
+ "mindmap": {
+  "aria": "诺贝尔文学奖的内幕与争议思维导图",
+  "alt": "诺贝尔文学奖：评委、遗珠与残雪（手绘版）",
+  "svg": "<svg viewBox=\"0 0 960 720\" xmlns=\"http://www.w3.org/2000/svg\" role=\"img\" aria-label=\"诺贝尔文学奖的内幕与争议思维导图\" style=\"width:100%;height:auto;font-family:-apple-system,'PingFang SC','Hiragino Sans GB','Microsoft YaHei',sans-serif\">\n        <rect x=\"24\" y=\"306\" width=\"176\" height=\"88\" rx=\"14\" fill=\"#eae3d2\" stroke=\"#9a8f76\"/>\n        <text x=\"112\" y=\"342\" text-anchor=\"middle\" fill=\"#3d3a34\" font-size=\"17\" font-weight=\"700\">诺贝尔文学奖</text>\n        <text x=\"112\" y=\"368\" text-anchor=\"middle\" fill=\"#5c5648\" font-size=\"12.5\">评委、遗珠与残雪</text>\n\n        <path d=\"M200,350 C232,350 232,88 260,88\"  stroke=\"#6b8f71\" stroke-width=\"2\" fill=\"none\"/>\n        <path d=\"M200,350 C232,350 232,238 260,238\"  stroke=\"#7d98ad\" stroke-width=\"2\" fill=\"none\"/>\n        <path d=\"M200,350 C232,350 232,433 260,433\"  stroke=\"#bd7a6d\" stroke-width=\"2\" fill=\"none\"/>\n        <path d=\"M200,350 C232,350 232,628 260,628\"  stroke=\"#9b86b3\" stroke-width=\"2\" fill=\"none\"/>\n\n        <g class=\"mm-branch\" data-target=\"bc1\">\n          <rect x=\"260\" y=\"71\" width=\"190\" height=\"34\" rx=\"8\" fill=\"#e6efe7\" stroke=\"#6b8f71\"/>\n          <text x=\"349\" y=\"93\" text-anchor=\"middle\" fill=\"#4c6b52\" font-size=\"15\" font-weight=\"700\">来历与揭晓（¶1–2）</text>\n          <text class=\"mm-arrow\" data-for=\"bc1\" x=\"442\" y=\"93\" text-anchor=\"end\" fill=\"#4c6b52\">▾</text>\n        </g>\n        <g class=\"mm-children\" id=\"bc1\">\n          <path d=\"M450,88 C462,88 462,46 480,46\" stroke=\"#6b8f71\" stroke-width=\"1.5\" fill=\"none\"/>\n          <path d=\"M450,88 C462,88 462,88 480,88\" stroke=\"#6b8f71\" stroke-width=\"1.5\" fill=\"none\"/>\n          <path d=\"M450,88 C462,88 462,130 480,130\" stroke=\"#6b8f71\" stroke-width=\"1.5\" fill=\"none\"/>\n          <rect x=\"480\" y=\"30\" width=\"456\" height=\"32\" rx=\"8\" fill=\"#e6efe7\"/><text x=\"492\" y=\"51\" fill=\"#3d3a34\" font-size=\"14\">奖来自诺贝尔 1895 年的遗嘱：五个奖项之一</text>\n          <rect x=\"480\" y=\"72\" width=\"456\" height=\"32\" rx=\"8\" fill=\"#e6efe7\"/><text x=\"492\" y=\"93\" fill=\"#3d3a34\" font-size=\"14\">“理想方向”含义模糊，学院最后悄悄放弃</text>\n          <rect x=\"480\" y=\"114\" width=\"456\" height=\"32\" rx=\"8\" fill=\"#e6efe7\"/><text x=\"492\" y=\"135\" fill=\"#3d3a34\" font-size=\"14\">下周四揭晓：预测市场看好高希、残雪、品钦</text>\n        </g>\n\n        <g class=\"mm-branch\" data-target=\"bc2\">\n          <rect x=\"260\" y=\"221\" width=\"190\" height=\"34\" rx=\"8\" fill=\"#e5edf4\" stroke=\"#7d98ad\"/>\n          <text x=\"349\" y=\"243\" text-anchor=\"middle\" fill=\"#3d5872\" font-size=\"15\" font-weight=\"700\">嘲讽与偏见（¶3–4）</text>\n          <text class=\"mm-arrow\" data-for=\"bc2\" x=\"442\" y=\"243\" text-anchor=\"end\" fill=\"#3d5872\">▾</text>\n        </g>\n        <g class=\"mm-children\" id=\"bc2\">\n          <path d=\"M450,238 C462,238 462,196 480,196\" stroke=\"#7d98ad\" stroke-width=\"1.5\" fill=\"none\"/>\n          <path d=\"M450,238 C462,238 462,238 480,238\" stroke=\"#7d98ad\" stroke-width=\"1.5\" fill=\"none\"/>\n          <path d=\"M450,238 C462,238 462,280 480,280\" stroke=\"#7d98ad\" stroke-width=\"1.5\" fill=\"none\"/>\n          <rect x=\"480\" y=\"180\" width=\"456\" height=\"32\" rx=\"8\" fill=\"#e5edf4\"/><text x=\"492\" y=\"201\" fill=\"#3d3a34\" font-size=\"14\">诺奖照例被嘲：一帮瑞典人凭什么评判世界</text>\n          <rect x=\"480\" y=\"222\" width=\"456\" height=\"32\" rx=\"8\" fill=\"#e5edf4\"/><text x=\"492\" y=\"243\" fill=\"#3d3a34\" font-size=\"14\">奖的分量与评委的狭隘，构成滑稽的落差</text>\n          <rect x=\"480\" y=\"264\" width=\"456\" height=\"32\" rx=\"8\" fill=\"#e5edf4\"/><text x=\"492\" y=\"285\" fill=\"#3d3a34\" font-size=\"14\">1901 年首奖给了普吕多姆，托尔斯泰没人提名</text>\n        </g>\n\n        <g class=\"mm-branch\" data-target=\"bc3\">\n          <rect x=\"260\" y=\"416\" width=\"190\" height=\"34\" rx=\"8\" fill=\"#f4e7e4\" stroke=\"#bd7a6d\"/>\n          <text x=\"349\" y=\"438\" text-anchor=\"middle\" fill=\"#7c4a3e\" font-size=\"15\" font-weight=\"700\">争议与转向（¶5–7）</text>\n          <text class=\"mm-arrow\" data-for=\"bc3\" x=\"442\" y=\"438\" text-anchor=\"end\" fill=\"#7c4a3e\">▾</text>\n        </g>\n        <g class=\"mm-children\" id=\"bc3\">\n          <path d=\"M450,433 C462,433 462,391 480,391\" stroke=\"#bd7a6d\" stroke-width=\"1.5\" fill=\"none\"/>\n          <path d=\"M450,433 C462,433 462,433 480,433\" stroke=\"#bd7a6d\" stroke-width=\"1.5\" fill=\"none\"/>\n          <path d=\"M450,433 C462,433 462,475 480,475\" stroke=\"#bd7a6d\" stroke-width=\"1.5\" fill=\"none\"/>\n          <rect x=\"480\" y=\"375\" width=\"456\" height=\"32\" rx=\"8\" fill=\"#f4e7e4\"/><text x=\"492\" y=\"396\" fill=\"#3d3a34\" font-size=\"14\">文学之伟难以量化，遗珠名单年年被翻出来</text>\n          <rect x=\"480\" y=\"417\" width=\"456\" height=\"32\" rx=\"8\" fill=\"#f4e7e4\"/><text x=\"492\" y=\"438\" fill=\"#3d3a34\" font-size=\"14\">冷战最政治化：帕斯捷尔纳克、索尔仁尼琴</text>\n          <rect x=\"480\" y=\"459\" width=\"456\" height=\"32\" rx=\"8\" fill=\"#f4e7e4\"/><text x=\"492\" y=\"480\" fill=\"#3d3a34\" font-size=\"14\">1980 年代望向西方之外，四五人削出短名单</text>\n        </g>\n\n        <g class=\"mm-branch\" data-target=\"bc4\">\n          <rect x=\"260\" y=\"611\" width=\"190\" height=\"34\" rx=\"8\" fill=\"#ece4f2\" stroke=\"#9b86b3\"/>\n          <text x=\"349\" y=\"633\" text-anchor=\"middle\" fill=\"#5a4670\" font-size=\"15\" font-weight=\"700\">性别与掌故（¶8–9）</text>\n          <text class=\"mm-arrow\" data-for=\"bc4\" x=\"442\" y=\"633\" text-anchor=\"end\" fill=\"#5a4670\">▾</text>\n        </g>\n        <g class=\"mm-children\" id=\"bc4\">\n          <path d=\"M450,628 C462,628 462,586 480,586\" stroke=\"#9b86b3\" stroke-width=\"1.5\" fill=\"none\"/>\n          <path d=\"M450,628 C462,628 462,628 480,628\" stroke=\"#9b86b3\" stroke-width=\"1.5\" fill=\"none\"/>\n          <path d=\"M450,628 C462,628 462,670 480,670\" stroke=\"#9b86b3\" stroke-width=\"1.5\" fill=\"none\"/>\n          <rect x=\"480\" y=\"570\" width=\"456\" height=\"32\" rx=\"8\" fill=\"#ece4f2\"/><text x=\"492\" y=\"591\" fill=\"#3d3a34\" font-size=\"14\">#MeToo 之后性别均衡：三位女性得主</text>\n          <rect x=\"480\" y=\"612\" width=\"456\" height=\"32\" rx=\"8\" fill=\"#ece4f2\"/><text x=\"492\" y=\"633\" fill=\"#3d3a34\" font-size=\"14\">男女交替的“规律”：今年也许轮到残雪</text>\n          <rect x=\"480\" y=\"654\" width=\"456\" height=\"32\" rx=\"8\" fill=\"#ece4f2\"/><text x=\"492\" y=\"675\" fill=\"#3d3a34\" font-size=\"14\">得主反应成了传奇：斯坦贝克、贝克特、迪伦</text>\n        </g>\n\n      </svg>\n",
+  "img": "/Users/malen/outward-reading-site-prod/scripts/content/img/2026-10-09.jpg"
+ }
+}

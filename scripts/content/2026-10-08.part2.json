@@ -1,0 +1,463 @@
+{
+ "paragraphs": [
+  {
+   "en_html": "A second reason the Nobel <mark class=\"voc\">prevailed over</mark> prizes of similar <mark class=\"voc\">ambition</mark> was that Sweden turned it into a <mark class=\"voc\">nationalist project</mark>. Nobel himself did not mention anything about Swedish interests, but the government and the press <mark class=\"voc\">interpreted</mark> his <mark class=\"voc\">bequest</mark> as <mark class=\"voc\">a call to action</mark> for the nation as a whole. “The Swedish scientific society <mark class=\"voc\">could not have been</mark> <mark class=\"voc\">invested with</mark> a more glorious task,” a newspaper <mark class=\"voc\">editorial</mark> declared. The effort <mark class=\"voc\">turned out to be</mark> <mark class=\"voc\">well timed</mark>. In the early 1900s, a new prize in Sweden <mark class=\"voc\">might have seemed</mark> unlikely to <mark class=\"voc\">compete in prestige</mark> with one given by the French Academy of Sciences or the Royal Society in London. But when World War I <mark class=\"voc\">struck</mark>, <mark class=\"voc\">neutral</mark> little Sweden had <mark class=\"voc\">a claim to objectivity</mark> that the great powers didn’t.",
+   "zh": "诺贝尔奖之所以能胜过那些格局相当的奖项，第二个原因在于：瑞典把它办成了一项举国事业。诺贝尔本人对瑞典的利益未置一词，但政府和媒体却把他的遗赠解读为对整个国家的号召。一家报纸的社论宣称：“再没有比这更光荣的使命，可以托付给瑞典科学界了。”这番努力，后来的结果证明时机恰到好处。20世纪初，瑞典新设的这个奖项，看上去根本不可能在声望上与法国科学院或伦敦皇家学会颁发的奖项一争高下。但第一次世界大战爆发后，中立的、小小的瑞典，却拥有了一种列强所不具备的“客观公正”的资格。",
+   "notes": [
+    {
+     "w": "prevail over",
+     "ipa": "/prɪˈveɪl/",
+     "pos": "phr. v.",
+     "en": "to prevail over something means to win against it or to be more powerful and accepted in the end",
+     "zh": "胜过，占上风",
+     "ctx": "比 win 更像“熬到最后、站住脚跟”；作者承认当年赛道上不止诺奖一家，庞蒂就是一个对手。",
+     "ex1": "Common sense prevailed over panic in the end. 最后，常识压倒了恐慌。",
+     "ex2": "Their argument eventually prevailed in court. 他们的主张最终在法庭上占了上风。"
+    },
+    {
+     "w": "ambition",
+     "ipa": "/æmˈbɪʃn/",
+     "pos": "n.",
+     "en": "ambition means a strong desire to achieve something, or the goal that this desire is aimed at",
+     "zh": "志向，抱负，野心",
+     "ctx": "此处不是贬义，指这些奖“想做世界级大奖”的格局——想做这件事的人，当年不止诺贝尔一个。",
+     "ex1": "Her ambition was to run her own lab one day. 她的志向是有朝一日拥有自己的实验室。",
+     "ex2": "He had no ambition beyond a quiet life. 除了安稳度日，他别无抱负。"
+    },
+    {
+     "w": "nationalist project",
+     "ipa": "/ˈnæʃnəlɪst ˈprɒdʒekt/",
+     "pos": "n. phr.",
+     "en": "a nationalist project means a collective effort framed around national identity, pride, and interest",
+     "zh": "举国事业，国家工程",
+     "ctx": "作者对第二个成功因素的定性：诺奖不只是基金会的项目，它被整个国家认领了。",
+     "ex1": "Building the rail network became a nationalist project. 修建铁路网成了一项举国工程。",
+     "ex2": "The space program was sold to the public as a national project. 该航天计划被作为一项国家工程向公众推广。"
+    },
+    {
+     "w": "interpret A as B",
+     "ipa": "/ɪnˈtɜːprɪt/",
+     "pos": "phr.",
+     "en": "to interpret something as something else means to understand it in a particular way, or to explain its meaning as X",
+     "zh": "把 A 解读为 B",
+     "ctx": "用 interpret 而非 understand，暗示这只是“一种理解”，带有主观加工。",
+     "ex1": "Investors interpreted the speech as a signal of rate cuts. 投资者把这次讲话解读为降息信号。",
+     "ex2": "His remark was interpreted as a criticism of the board. 他的话被理解为对董事会的批评。"
+    },
+    {
+     "w": "bequest",
+     "ipa": "/bɪˈkwest/",
+     "pos": "n.",
+     "en": "a bequest is money or property that you leave to someone in your will",
+     "zh": "遗赠（物）",
+     "ctx": "就是后来变成诺贝尔基金的那笔钱；全段都在讲它“怎么被用、谁想抢、谁保住了”。",
+     "ex1": "The library was built with a bequest from a local merchant. 这座图书馆是用一位本地商人的遗赠建成的。",
+     "ex2": "She received a small bequest from her godmother. 她从教母那里得到了一笔不多的遗赠。"
+    },
+    {
+     "w": "call to action",
+     "ipa": "/kɔːl tə ˈækʃn/",
+     "pos": "n. phr.",
+     "en": "a call to action means a strongly worded request urging people to do something, especially in marketing — it is the technical term for the “Buy now” type prompt",
+     "zh": "行动号召（营销术语 CTA）",
+     "ctx": "用营销术语描述政府行为，等于明说“这是一次营销”；与标题的 branding exercise 首尾呼应。",
+     "ex1": "The report ends with a call to action for policymakers. 报告以向决策者发出的行动呼吁收尾。",
+     "ex2": "Every landing page needs a clear call to action. 每个落地页都需要一个清晰的行动指令。"
+    },
+    {
+     "w": "could not have been + 比较级",
+     "ipa": "/kʊd nɒt hæv biːn/",
+     "pos": "句式",
+     "en": "the pattern “could not have been + comparative” expresses the highest possible degree, meaning “it could not be more X than it is”",
+     "zh": "否定＋比较级＝最高级：不可能比这更……了",
+     "ctx": "用这个句式而非 the most glorious，因为后者是陈述，前者是感慨、是叹服。",
+     "ex1": "I couldn’t agree more with your assessment. 我非常同意你的判断。",
+     "ex2": "She could not have been more pleased with the result. 她对结果满意得不能再满意了。"
+    },
+    {
+     "w": "invest with",
+     "ipa": "/ɪnˈvest/",
+     "pos": "phr. v.",
+     "en": "to invest someone or something with a quality or power means to formally give it to them",
+     "zh": "赋予，授予",
+     "ctx": "熟词僻义（不是“投资”）；用 invest with 而非 give，是给“举国工程”的叙事配上庄重的语气。",
+     "ex1": "The role is invested with considerable responsibility. 这个职位被赋予了相当大的责任。",
+     "ex2": "The ceremony invested him with the authority of the office. 典礼授予了他该职位的权力。"
+    },
+    {
+     "w": "editorial",
+     "ipa": "/ˌedɪˈtɔːriəl/",
+     "pos": "n.",
+     "en": "an editorial is an article in a newspaper that expresses the opinion of the editor or publisher, not a news report",
+     "zh": "社论",
+     "ctx": "特意标明这句“再光荣不过”的话来自社论，是在提示读者：这是表态和宣传，不是客观事实。",
+     "ex1": "The paper ran an editorial calling for reform. 该报发表社论呼吁改革。",
+     "ex2": "Editorials reflect the paper’s institutional view. 社论反映的是报纸的机构立场。"
+    },
+    {
+     "w": "turn out to be",
+     "ipa": "/tɜːn aʊt/",
+     "pos": "phr. v.",
+     "en": "to turn out to be something means to be discovered to be that thing in the end, especially when this was not expected",
+     "zh": "结果是，后来证明是",
+     "ctx": "自带“回头看”的视角，为下文“一战爆发”这个意外变量铺好了台阶。",
+     "ex1": "The investment turned out to be a mistake. 这笔投资结果是个错误。",
+     "ex2": "As it turned out, nobody had told her. 结果，根本没人告诉过她。"
+    },
+    {
+     "w": "well timed",
+     "ipa": "/ˌwel ˈtaɪmd/",
+     "pos": "adj.",
+     "en": "well timed means happening at exactly the right moment",
+     "zh": "时机恰到好处的",
+     "ctx": "早几十年品牌不响，晚几十年则错过一战这个窗口——“时机红利”叙事的关键。",
+     "ex1": "Her intervention was well timed. 她的介入时机恰到好处。",
+     "ex2": "The announcement was perfectly timed to steal the headlines. 这份公告的时机拿捏得刚好，抢尽了头条。"
+    },
+    {
+     "w": "might have seemed",
+     "ipa": "/maɪt hæv siːmd/",
+     "pos": "句式",
+     "en": "the pattern “might have seemed” expresses a past possibility or an impression that existed at the time",
+     "zh": "当时看起来本可能……",
+     "ctx": "这个“当年不可能”的表述，是为了让下一句“一战带来转机”的反转更有冲击力。",
+     "ex1": "It might have seemed like a small decision at the time. 在当时看，那似乎只是个小小的决定。",
+     "ex2": "Going public might have seemed risky back then. 那时上市看起来或许风险不小。"
+    },
+    {
+     "w": "compete in prestige",
+     "ipa": "/kəmˈpiːt/",
+     "pos": "phr.",
+     "en": "to compete in prestige means to rival someone or something in terms of respect and status rather than money or power",
+     "zh": "在声望上一较高下",
+     "ctx": "比较的是 prestige 而非 prize money——这恰恰是全文的主题：诺奖赢的不是钱，是声誉。",
+     "ex1": "The two cities compete in prestige more than in commerce. 这两座城市争的是声望，而非商业。",
+     "ex2": "Local firms cannot compete with global brands in marketing budgets. 本地企业在营销预算上拼不过国际品牌。"
+    },
+    {
+     "w": "strike",
+     "ipa": "/straɪk/",
+     "pos": "v.",
+     "en": "when something such as a disaster, disease, or war strikes, it happens suddenly and has a serious effect",
+     "zh": "（灾难、战争）突然袭来",
+     "ctx": "不是“发生”，是“砸下来”；一个动词写出灾难的突然性，也为“中立小国捡到机会”定下天时。",
+     "ex1": "The earthquake struck without warning. 地震毫无预警地袭来。",
+     "ex2": "Tragedy struck the family twice in one year. 灾难一年之内两次降临这个家庭。"
+    },
+    {
+     "w": "neutral",
+     "ipa": "/ˈnjuːtrəl/",
+     "pos": "adj.",
+     "en": "neutral means not supporting either side in a disagreement or war",
+     "zh": "中立的",
+     "ctx": "第二个成功因素的核心变量：当交战国互相敌视、科学界各自为阵，唯一不站队的一方反获“公正裁判”的资格。",
+     "ex1": "Switzerland remained neutral through both world wars. 瑞士在两次世界大战中都保持中立。",
+     "ex2": "The mediator tried to stay neutral throughout. 调解人始终尽力保持中立。"
+    },
+    {
+     "w": "a claim to objectivity",
+     "ipa": "/ə kleɪm tə ˌɒbdʒekˈtɪvəti/",
+     "pos": "n. phr.",
+     "en": "a claim to something means a right or reason to say that you have a particular quality",
+     "zh": "有资格声称（客观）",
+     "ctx": "措辞极谨慎：“有资格声称”不等于“真的客观”——作者的褒扬留了余地。",
+     "ex1": "The paper has some claim to being the first of its kind. 这篇论文有资格被称为同类中的首创。",
+     "ex2": "His only claim to fame is one lucky goal. 他唯一的成名之处，是打进了一个幸运球。"
+    }
+   ]
+  },
+  {
+   "en_html": "Finally, both Nobel and the executors of his will designed the rules wisely. Most prestigious prizes at the time were international <mark class=\"voc\">only in theory</mark>; judges tended to favor their countrymen. Nobel <mark class=\"voc\">requested that each award be given</mark> to the “worthiest person, whether or not they’re Scandinavian.” The Nobel Prize committee became the first to systematically <mark class=\"voc\">solicit nominations</mark> from institutions abroad, turning the award into a sort of contest among nations. And one of the executors of the will had the idea of rewarding achievements no matter when they had been made, rather than just the work or discoveries of the previous year. This was a clever move, not just because some discoveries can take time to reveal their worth, but also because it turned winning the Nobel into a more <mark class=\"voc\">sweeping</mark> victory.",
+   "zh": "最后，无论是诺贝尔本人，还是他遗嘱的执行人，都把规则设计得相当精明。当时大多数有声望的奖项，其“国际性”仅停留在纸面：评委往往偏袒本国同胞。而诺贝尔要求，每个奖项都应颁给“最配得上它的那个人——无论他是不是斯堪的纳维亚人”。诺贝尔奖委员会成为第一个系统性地向海外机构征集提名的奖项，由此把评奖变成了某种国家之间的角逐。此外，遗嘱执行人之一想出了这样的办法：奖励那些成就时，无论其完成于何时，而不是仅限于前一年的工作或发现。这是一步高招——不仅因为有些发现需要时间才能彰显价值，也因为它使“赢得诺贝尔奖”成为一场更为彻底的胜利。",
+   "notes": [
+    {
+     "w": "only in theory",
+     "ipa": "/ˈθɪəri/",
+     "pos": "phr.",
+     "en": "in theory means in principle or according to what should happen, often implying that reality is different",
+     "zh": "只在理论上",
+     "ctx": "潜台词永远是“实际上并不是”：名义上全世界都能得奖，桌子底下坐的都是自己人。",
+     "ex1": "In theory, the process is open to everyone; in practice, it is not. 理论上这套流程对所有人开放，实际上并非如此。",
+     "ex2": "That works in theory, but not in real life. 那理论上行得通，现实中不行。"
+    },
+    {
+     "w": "request that... be given",
+     "ipa": "/rɪˈkwest/",
+     "pos": "句式",
+     "en": "the pattern “request / demand / suggest / insist + that + subject + (should) + base verb” uses the subjunctive mood",
+     "zh": "虚拟语气：request that ＋主语＋(should)＋动词原形",
+     "ctx": "从句里用的是 be，不是 is、也不是 was——全篇最重要的语法点之一，四六级、考研、雅思的常客。",
+     "ex1": "The committee requested that the report be submitted by Friday. 委员会要求报告在周五前提交。",
+     "ex2": "They insisted that he stay for dinner. 他们坚持让他留下吃饭。"
+    },
+    {
+     "w": "solicit nominations",
+     "ipa": "/səˈlɪsɪt ˌnɒmɪˈneɪʃnz/",
+     "pos": "phr.",
+     "en": "to solicit nominations means to formally and systematically ask institutions to propose candidates",
+     "zh": "正式征集提名",
+     "ctx": "比 ask / request 更有制度感；这一招把评奖变成“国家间的角逐”，让全世界替它做宣传。",
+     "ex1": "The academy solicits nominations from universities worldwide. 该科学院向全球大学征集提名。",
+     "ex2": "They solicited feedback from every department before deciding. 做决定前他们向每个部门征求了意见。"
+    },
+    {
+     "w": "sweeping",
+     "ipa": "/ˈswiːpɪŋ/",
+     "pos": "adj.",
+     "en": "sweeping means having a wide range or effect, and often being very general or far-reaching without attention to detail",
+     "zh": "压倒性的，横扫式的",
+     "ctx": "不限定“只奖当年成果”，于是一个人可凭一生积攒的成就获奖，胜得就更“扫荡性”——胜利范围越大，品牌溢价越高。",
+     "ex1": "The party won a sweeping victory in the election. 该党在这次选举中取得了压倒性胜利。",
+     "ex2": "The new law brought sweeping changes to the industry. 新法给这个行业带来了翻天覆地的变化。"
+    }
+   ]
+  },
+  {
+   "en_html": "<mark class=\"voc\">Fortified</mark> with its elegant design choices, the Nobel quickly established a <mark class=\"voc\">first-mover advantage</mark>. The Scottish economist Angus Deaton told me that <mark class=\"voc\">nothing comes close to</mark> the Nobel ceremony. On the night after he found out he won, Deaton couldn’t <mark class=\"voc\">keep the news to himself</mark>. He told his Uber driver on the way home from dinner in Princeton and watched him become <mark class=\"voc\">ecstatically happy</mark>. The driver at first <mark class=\"voc\">assumed</mark> that Deaton had won the peace prize; when he learned it was for economics, his enthusiasm <mark class=\"voc\">dimmed</mark>, but only slightly. A Nobel is a Nobel.",
+   "zh": "有了这些精妙设计的加持，诺贝尔奖迅速确立起先发优势。苏格兰经济学家安格斯·迪顿对我说，没有什么能比得上诺贝尔颁奖典礼。在得知自己获奖后的第二天晚上，迪顿实在无法把这个消息憋在心里。在普林斯顿吃完晚餐回家的路上，他告诉了载他的优步司机，然后眼看着对方变得欣喜若狂。司机起初以为他得的是和平奖；当听说得的是经济学奖时，他的热情暗了一下——但也只是暗了一点点。诺贝尔就是诺贝尔。",
+   "notes": [
+    {
+     "w": "fortify",
+     "ipa": "/ˈfɔːtɪfaɪ/",
+     "pos": "v.",
+     "en": "to fortify something means to make it stronger, especially against attack or criticism",
+     "zh": "加固，使变强",
+     "ctx": "把抽象的设计说成铠甲——诺奖“被那些精妙的设计武装起来”了。",
+     "ex1": "The report fortified the case for reform. 这份报告使改革的理由更加坚实。",
+     "ex2": "He fortified himself with a strong coffee before the interview. 面试前他灌了杯浓咖啡给自己壮胆。"
+    },
+    {
+     "w": "first-mover advantage",
+     "ipa": "/ˌfɜːst ˈmuːvə(r) ədˈvɑːntɪdʒ/",
+     "pos": "n. phr.",
+     "en": "a first-mover advantage is the benefit a company or organization gains by being the first to enter a market or establish a position",
+     "zh": "先发优势",
+     "ctx": "诺奖1901年首颁，比普利策奖、菲尔兹奖、布克奖都早几十年；后来者奖金再高也撼不动它。",
+     "ex1": "Being first to market gave them a lasting first-mover advantage. 抢先入市，让他们获得了持久的先发优势。",
+     "ex2": "The first-mover advantage can evaporate if you stop innovating. 一旦停止创新，先发优势也会消失。"
+    },
+    {
+     "w": "nothing comes close to sth",
+     "ipa": "/ˈnʌθɪŋ kʌmz kləʊz/",
+     "pos": "phr.",
+     "en": "nothing comes close to something means that thing is far better or greater than all the alternatives",
+     "zh": "什么都比不上，无可比拟",
+     "ctx": "一位诺奖得主的亲口证言，用来佐证“诺奖的仪式感无可替代”。",
+     "ex1": "For him, nothing comes close to playing live on stage. 对他来说，没有什么能比得上现场演出。",
+     "ex2": "No rival product comes close in quality. 在质量上，没有哪个竞品能与它相比。"
+    },
+    {
+     "w": "keep sth to oneself",
+     "ipa": "/kiːp tə wʌnˈself/",
+     "pos": "phr.",
+     "en": "to keep something to oneself means to not tell anyone else about it",
+     "zh": "把某事藏在心里，不外传",
+     "ctx": "一个大学者拿了最高荣誉，第一个想告诉的人居然是优步司机——全场情绪的转折开关。",
+     "ex1": "She kept her plans to herself until the last minute. 她把计划藏到最后一刻才说。",
+     "ex2": "He could hardly keep his excitement to himself. 他几乎藏不住自己的兴奋。"
+    },
+    {
+     "w": "ecstatic",
+     "ipa": "/ɪkˈstætɪk/",
+     "pos": "adj.",
+     "en": "ecstatic means extremely happy, excited, and full of emotion",
+     "zh": "狂喜的，欣喜若狂的",
+     "ctx": "不是 very happy，是“高兴到灵魂出窍”的那种程度，画面感极强。",
+     "ex1": "She was ecstatic when she got the offer. 拿到录用通知时，她欣喜若狂。",
+     "ex2": "The crowd gave the band an ecstatic reception. 观众给了乐队极为狂热的欢迎。"
+    },
+    {
+     "w": "assume",
+     "ipa": "/əˈsjuːm/",
+     "pos": "v.",
+     "en": "to assume something means to think it is true without having proof",
+     "zh": "想当然地认为，假定",
+     "ctx": "强调“没根据就认定”，正好写出普通人只熟悉和平奖的认知局限。",
+     "ex1": "I assumed you two had already met. 我以为你们俩已经见过了。",
+     "ex2": "Never assume your audience knows the background. 千万别想当然地认为听众了解背景。"
+    },
+    {
+     "w": "dim",
+     "ipa": "/dɪm/",
+     "pos": "v. / adj.",
+     "en": "to dim means to become or make something less bright; as an adjective, dim means not bright",
+     "zh": "（灯光）变暗；使减弱",
+     "ctx": "比喻极精准：不是熄灭，是调暗半格；而“只暗了一点点”，正是全文对诺奖品牌最有力的证明。",
+     "ex1": "His enthusiasm for the project dimmed after the first setback. 第一次受挫之后，他对这个项目的热情就淡了。",
+     "ex2": "The room dimmed as the sun went down. 太阳西沉，房间暗了下来。"
+    }
+   ]
+  },
+  {
+   "en_html": "Prizes aren’t all great. The main <mark class=\"voc\">ideology</mark> the Nobel Foundation appears to <mark class=\"voc\">be committed to</mark>, however, is the importance of <mark class=\"voc\">preserving</mark> the <mark class=\"voc\">prestige</mark> of the Nobel Prize—and <mark class=\"voc\">in this it has succeeded</mark>. <mark class=\"voc\">If there were</mark> <mark class=\"voc\">a prize for prizes</mark>, the Nobel would win every year.",
+   "zh": "奖项本身未必都是好事。然而，诺贝尔基金会似乎所信奉的唯一“信条”，就是守护诺贝尔奖声望之重要——而在这一点上，它成功了。倘若真有一个“授予奖项的奖项”，那么诺贝尔奖每年都会拔得头筹。",
+   "notes": [
+    {
+     "w": "ideology",
+     "ipa": "/ˌaɪdiˈɒlədʒi/",
+     "pos": "n.",
+     "en": "an ideology is a set of beliefs or principles held by a person, group, or institution",
+     "zh": "意识形态，一套信条",
+     "ctx": "用“意识形态”说一个颁奖机构是很损的一笔：它信的不是崇高理想，而是“保住自己的名声”。",
+     "ex1": "The party’s ideology shaped every policy it made. 该党的意识形态塑造了它制定的每一项政策。",
+     "ex2": "His ideology was simple: never lose sight of the customer. 他的信条很简单：永远别忘记客户。"
+    },
+    {
+     "w": "be committed to",
+     "ipa": "/bi kəˈmɪtɪd/",
+     "pos": "phr.",
+     "en": "to be committed to something means to be firmly dedicated to it and willing to give it your effort",
+     "zh": "致力于，信奉，坚守",
+     "ctx": "appears 这个“似乎”很讲究：记者不下断言，留了余地。",
+     "ex1": "The firm is committed to cutting its emissions by half. 该公司承诺将排放量减半。",
+     "ex2": "She remains committed to the cause after thirty years. 三十年后，她依然坚守这份事业。"
+    },
+    {
+     "w": "preserve",
+     "ipa": "/prɪˈzɜːv/",
+     "pos": "v.",
+     "en": "to preserve something means to keep it as it is, especially to protect it from harm or change",
+     "zh": "保护，保存，维持",
+     "ctx": "全文的最后一层：一百多年累积下来的最大资产，不是奖金、不是奖章，是“声望”本身。",
+     "ex1": "The trust exists to preserve the building for future generations. 这个信托基金的使命是为后代保护这座建筑。",
+     "ex2": "Fame is easy to win and hard to preserve. 名声易得，难在守住。"
+    },
+    {
+     "w": "prestige",
+     "ipa": "/preˈstiːʒ/",
+     "pos": "n.",
+     "en": "prestige means the respect and admiration that someone or something gets because of their success, achievement, or important position",
+     "zh": "声望，威望",
+     "ctx": "全文的题眼词：词源本是“江湖骗子的障眼法”，所以“保住声望”这句话意味深长——光环可以被制造，也可以被戳破。",
+     "ex1": "The award carries enormous prestige in the scientific community. 该奖项在科学界享有极高的声望。",
+     "ex2": "The school charges more for the prestige of its name. 这所学校凭“名头”的声望收取更高的学费。"
+    },
+    {
+     "w": "in this it has succeeded",
+     "ipa": "/ɪn ðɪs/",
+     "pos": "phr.",
+     "en": "this means “in this respect” — it highlights one particular area where the subject has achieved its goal",
+     "zh": "在这一点上，它成功了",
+     "ctx": "in this 前置到句首是书面语的强调；表面是夸，但想起 prestige 的词源，这句读来意味深长。",
+     "ex1": "In this, the report is unusually honest. 在这一点上，这份报告诚实得不同寻常。",
+     "ex2": "He failed in business but succeeded in this: he kept his friends. 他生意失败了，但在这一点上他成功了：他留住了朋友。"
+    },
+    {
+     "w": "If there were... , ... would...",
+     "ipa": "/ɪf ðeə wɜː/",
+     "pos": "句式",
+     "en": "this is the second conditional in the subjunctive mood, used to talk about an imaginary or unreal situation",
+     "zh": "虚拟语气第二条件句（与现在事实相反）",
+     "ctx": "这个虚拟语气不是语法负担，是幽默装置：现实里没有这个奖，作者才能理直气壮地说“要是有，那永远都是它”。",
+     "ex1": "If there were a prize for patience, she would win it. 要是有个“耐心奖”，那非她莫属。",
+     "ex2": "If I were you, I’d take the offer. 如果我是你，我就接下这个 offer。"
+    },
+    {
+     "w": "a prize for prizes",
+     "ipa": "/ə praɪz fə ˈpraɪzɪz/",
+     "pos": "n. phr.",
+     "en": "a “prize for prizes” is an imaginary award given to whichever award is the very best of its kind",
+     "zh": "奖项中的奖项",
+     "ctx": "与开头“荣誉中的荣誉”同属“X above all Xs / X for Xs”的修辞模板；绕了整整九段，最后回到同一句式，只是这次是笑着说的。",
+     "ex1": "He is, quite simply, the best of the best. 说白了，他就是强者中的强者。",
+     "ex2": "The film is a drama about dramas — a film for films. 这部片子是一部关于戏剧的戏剧——电影中的电影。"
+    }
+   ]
+  }
+ ],
+ "proper": [
+  {
+   "name": "Martin Chalfie（马丁·查尔菲）",
+   "def": "1947年生于美国芝加哥，哥伦比亚大学生物学教授，2008年诺贝尔化学奖得主之一。他与下村修（Osamu Shimomura）、钱永健（Roger Y. Tsien）共享该奖，理由是“发现并发展了绿色荧光蛋白（GFP）”。他一生最广为人知的轶事，是当年睡过了诺贝尔委员会的报喜电话——早上起床后他打开诺奖官网，本想看看“哪个倒霉蛋中了奖”，结果发现自己就是那个人。<br>本文中的意思：文章的开场人物。作者借他“深夜等奖、被妻子泼冷水、结果当晚就获奖”的故事，用一个反讽的笑点把读者拽进文章，同时用他“拿了诺奖照样被拒经费”的现实，反衬诺奖的“名”与“实”之间的落差。"
+  },
+  {
+   "name": "Green Fluorescent Protein / GFP（绿色荧光蛋白）",
+   "def": "最初从一种美国西海岸的深海水母体内发现，在激发下会发出绿光。上世纪六十年代，科学家为研究它，甚至要出海手工捞取上万只水母才提取出这种蛋白。它的革命性在于：让科学家能够“实时看见”活细胞内部的过程——而在此之前，研究细胞只能靠杀死、固定、切片的“照片”式观察。相关论文已超过两万篇。<br>本文中的意思：第一段的技术锚点。作者用它交代查尔菲“在等什么”——一个用得极广的工具，配不配得上一座诺贝尔奖？这正是他深夜失眠的全部原因。"
+  },
+  {
+   "name": "Tulle Hazelrigg（图勒·黑兹尔里格）",
+   "def": "哥伦比亚大学遗传学家，马丁·查尔菲的妻子。她是果蝇研究专家，并且完成了全世界最早的GFP蛋白融合实验——这一事实由2008年同届诺奖得主罗杰·钱永健亲口证实。<br>本文中的意思：第一段的“隐藏彩蛋”。劝查尔菲“别等了，这工具永远拿不了诺奖”的这位女士，恰恰就是让GFP真正好用起来的关键人物。她给“荧光笔”配上了笔帽，却劝他别抱期待——这个反差是第一段最妙的暗线。"
+  },
+  {
+   "name": "Alfred Nobel（阿尔弗雷德·诺贝尔）",
+   "def": "1833年生于瑞典斯德哥尔摩，化学家与发明家，一生拥有355项专利。1867年他发现硝化甘油可被多孔硅藻土吸收，制成可安全运输的固体炸药“达纳炸药”（dynamite），由此积累巨额财富，也重塑了采矿、隧道与战争。1895年11月27日他在巴黎签署最后一份遗嘱，将约3100万瑞典克朗设立基金。1896年12月10日逝于意大利圣雷莫。<br>本文中的意思：全文的起点。作者刻意强调他“卖炸药的商人”身份——一个靠“死亡”发财的人，成了“人类最高荣誉”的冠名人。这个反差点破了全文主题：光环是被造出来的，不是天生的。"
+  },
+  {
+   "name": "Douglas Prasher（道格拉斯·普拉舍）",
+   "def": "美国分子生物学家。他是第一个克隆出GFP基因的人，此后把基因免费分享给查尔菲与钱永健。但他自己的科研经费接连被拒，1990年代末退出科研，2008年诺奖揭晓时正在阿拉巴马州一家丰田汽车经销店开摆渡车，时薪8.50美元。他的同事对NPR形容这是“a staggering waste of talent”（对天赋的惊人浪费）。2010年他重返科研岗位。<br>本文中的意思：全文最沉重的注脚。全文反复出现“recognized（被认可）”——查尔菲熬到了，普拉舍没熬到。诺奖的光环是真的，它的残酷也是真的。"
+  },
+  {
+   "name": "dynamite（达纳炸药）",
+   "def": "诺贝尔1867年发明的炸药。其突破在于：把极不稳定的硝化甘油吸进一种叫硅藻土（kieselguhr）的多孔土里，变成可以捏成条、安全运输的固体。它让采矿、修隧道、开山造路效率大增，也让诺贝尔成为巨富。<br>本文中的意思：作者用“selling dynamite and explosives”交代诺贝尔的财富来源，为下文的“价值反转”蓄力。"
+  },
+  {
+   "name": "“the merchant of death”（死亡商人）",
+   "def": "1888年诺贝尔的哥哥路德维希去世，一家法国报纸搞错对象，误发了一篇题为“Le marchand de la mort est mort”（“死亡商人死了”）的讣告，谴责诺贝尔靠发明杀人武器发财。据传此事促使他决心留下“造福人类”的遗产。需注意：这一轶事流传甚广，但具体细节在史料上并不确凿，历史学者通常谨慎对待。<br>本文中的意思：作者以“诺贝尔并非显而易见的人选”一句，轻轻带过这层巨大反差——不说破，反而更锋利。"
+  },
+  {
+   "name": "Jerôme Ponti（杰罗姆·庞蒂）",
+   "def": "19世纪意大利商人。1874年他把财产捐给总部设在伦敦、巴黎和维也纳的几家国家级科学院，构想与诺贝尔相似。但他去世后，在世的亲属得知此事，其中一伙人提起诉讼并成功使遗嘱作废。<br>本文中的意思：第五段的反面教材。同一件事——“把钱捐给人类而不是亲戚”——他输了诉讼，诺贝尔家赢了。作者用这个对比告诉我们：差别不在愿景，在执行。"
+  },
+  {
+   "name": "Ragnar Sohlman（拉格纳·索尔曼）",
+   "def": "1870年生，瑞典化学工程师，曾在诺贝尔于意大利圣雷莫的实验室工作。1895年遗嘱指定他（时年仅26岁）与其助手Rudolf Liljequist为遗嘱执行人。他花了数年时间清算诺贝尔散布在多国的资产，并促成遗嘱被家族接受。1900年诺贝尔基金会成立，1901年首次颁奖。俄国人管“遗嘱执行人”叫“灵魂的信使”。<br>本文中的意思：第五段中“更加聪明一点”的那群执行人的代表人物——诺贝尔奖能活下来，靠的是他“先下手为强”。"
+  },
+  {
+   "name": "the Nobel Foundation（诺贝尔基金会）",
+   "def": "1900年6月29日成立，负责管理诺贝尔遗产、投资运营并组织颁奖。它是诺奖百年不衰的财务与制度基础——用本金投资生息、用利息发奖。<br>本文中的意思：第九段所说的那个“信奉保住声望”的机构。作者用 ideology 一词形容它“唯一坚守的信条”，话里带一丝调侃。"
+  },
+  {
+   "name": "World War I（第一次世界大战）",
+   "def": "1914—1918年，欧洲列强相互交战。战争期间，交战国的学术机构彼此敌视、各自为本国站台，国际科学交流几近中断。事实上，一战期间诺贝尔奖也曾大面积停颁：和平奖于1914、1915、1916、1918年未颁，医学奖于1915—1918年连续四年空缺，化学奖于1916、1917年停颁。<br>本文中的意思：本文“第二个成功因素”的天时。当列强沦为场上的球员时，中立的瑞典反而拥有了唯一“裁判”资格。但请注意——作者用的措辞是 had a claim to objectivity（“有资格声称客观”），而非“客观”。她的褒扬留有余地。"
+  },
+  {
+   "name": "Scandinavian（斯堪的纳维亚的）",
+   "def": "指北欧的斯堪的纳维亚地区，通常包括瑞典、挪威、丹麦，广义也含冰岛与芬兰。诺贝尔遗嘱原文写明：“the worthiest person, whether or not they’re Scandinavian”（最配得上的人，无论是不是斯堪的纳维亚人）。<br>本文中的意思：第七段“第一板斧”的原文引用。一个瑞典人出钱办的奖，明确不优先照顾北欧同胞——这是把“短处”当招牌来打，也是诺奖公信力的起点。"
+  },
+  {
+   "name": "the French Academy of Sciences（法国科学院）",
+   "def": "成立于1666年，是欧洲历史最悠久的科学院之一，坐拥拉普拉斯、居里夫人等大家。其颁发的奖项在19世纪享有极高声望。<br>本文中的意思：第六段里与伦敦皇家学会并列的“老字号”。作者用它来强调：20世纪初的瑞典新奖，在声望上根本还排不上号。"
+  },
+  {
+   "name": "the Royal Society（伦敦皇家学会）",
+   "def": "成立于1660年，是世界上历史最悠久的科学学会之一，牛顿、达尔文、爱因斯坦都曾是会员。<br>本文中的意思：与法国科学院同为“老牌权威”的代表，用以反衬瑞典新奖当年的“不可能”。"
+  },
+  {
+   "name": "Olympus / Olympian（奥林匹斯山 / 奥林匹斯诸神）",
+   "def": "希腊神话中众神居住的山，宙斯、雅典娜、阿波罗等十二主神在此。Olympian 作形容词即“神一般的、高高在上的”。<br>本文中的意思：第二段中“a new crop of Olympian figures”用神话写诺奖得主——作者先立神像，后文再一寸一寸地把底座抽给你看。"
+  },
+  {
+   "name": "Angus Deaton（安格斯·迪顿）",
+   "def": "1945年生于苏格兰爱丁堡，经济学家，2015年诺贝尔经济学奖得主，普林斯顿大学荣休教授，长期研究消费、贫困与福祉。文章作者对其进行了采访。<br>本文中的意思：第八段的证言人。他讲述自己获奖当晚在Uber上告诉司机的经历，用一个陌生人的反应，为全文“品牌渗透大众心智”的论点做了最有说服力的注脚。"
+  },
+  {
+   "name": "the Nobel Prize in Economic Sciences（诺贝尔经济学奖）",
+   "def": "严格来说并非诺贝尔遗嘱中的原始奖项。它由瑞典央行（Sveriges Riksbank）于1968年为纪念诺贝尔而设立，1969年首次颁发。纯正主义者至今坚持它“不是诺贝尔奖”。<br>本文中的意思：第八段里那个“司机得知不是和平奖而是经济学奖，热情只暗了一点点”的关键设定——连一个“半个诺奖”都能让人狂喜，足见品牌之强。"
+  },
+  {
+   "name": "the class of 2024（2024届诺奖得主）",
+   "def": "文章写于2024年10月，正值2024年度诺奖陆续揭晓。作者用“a new crop of”（一茬）与“the 2024 Nobel class”（2024届）说这批人，这个“毕业届”的说法本身带着调侃的味道。<br>本文中的意思：第二段的转场句。作者用“这一届”把时间从2008年轻轻拨到2024年，完成从“查尔菲那一夜”到“今年这一周”的切换。"
+  }
+ ],
+ "sources_note": "资料核对：以上背景依据文章内容，并参考诺贝尔奖官网、诺贝尔基金会及《大西洋月刊》2024年10月公开资料。",
+ "practice": {
+  "intro": "请将下面的中文句子翻译为英文。要求：尽量用上括号里的提示表达，可以适当改变词形，但不要直接照抄原文。",
+  "items": [
+   "一个多世纪以前，瑞典人完成了一次史上最成功的品牌操盘。（pull off / branding exercise / the Swedes）",
+   "『这工具确实出色，用的人也多。可说句实话，它永远拿不了诺贝尔奖。』（recall sb doing sth / to tell you the truth）",
+   "设立一个奖项很容易，难的是让人在乎。（动名词作主语 / The hard part is...）",
+   "当富人把全部家产遗赠给继承人以外的事物时，这些本该继承遗产的人往往会奋起反抗。（bequeath / something other than / would-be / tend to do）",
+   "诺贝尔奖之所以能胜过那些格局相当的奖项，第二个原因在于：瑞典把它办成了一项举国事业。（prevail over / The reason... was that... / prizes of similar ambition / nationalist project）",
+   "一家报纸的社论宣称：“再没有比这更光荣的使命，可以托付给瑞典科学界了。”（could not have been + 比较级 / invest with / editorial）"
+  ],
+  "critical_en": "If a prize’s power comes from prestige rather than money, who should be trusted to guard that prestige — and what happens when guarding it becomes the goal itself?",
+  "critical_zh": "如果一个奖的力量来自声望而不是奖金，那这份声望该由谁来守护？而当“守护声望”本身变成目的时，又会发生什么？",
+  "answer": "1. More than a century ago, the Swedes pulled off one of the greatest branding exercises in history.（考点：pull off 把难事办成；“悬”过；branding exercise 一次品牌操盘；the Swedes＝the＋国籍复数，指全体国民）<br><br>2. “It’s a wonderful tool, and lots of people use it,” he recalls her saying. “But, to tell you the truth, it will never win the Nobel.”（考点：recall sb doing sth 记得某人做过某事；to tell you the truth 口语插入语；注意 will never 是站在当时对将来下判断）<br><br>3. Establishing a prize is easy. The hard part is getting anyone to care.（考点：动名词作主语；一轻一重的对比句式；anyone 在否定／疑问语境下的强调作用）<br><br>4. When rich individuals bequeath all their wealth to something other than their would-be heirs, their would-be heirs tend to resist.（考点：bequeath 遗赠，正式法律词；something other than 以外的某物；would-be 自带落空感；tend to do 往往）<br><br>5. A second reason the Nobel prevailed over prizes of similar ambition was that Sweden turned it into a nationalist project.（考点：prevail over 胜过、占上风；The reason... was that... 表语从句；prizes of similar ambition 格局相当的奖项；nationalist project 举国工程）<br><br>6. “The Swedish scientific society could not have been invested with a more glorious task,” a newspaper editorial declared.（考点：could not have been＋比较级＝最高级；invest with 熟词僻义“赋予、授予”；editorial 社论；翻译时要有那种宣告感）"
+ },
+ "mindmap": {
+  "aria": "诺贝尔奖如何把自己做成神话文章思维导图",
+  "alt": "诺贝尔奖如何把自己做成神话（手绘版）",
+  "img": "",
+  "svg": "<svg viewBox=\"0 0 960 720\" xmlns=\"http://www.w3.org/2000/svg\" role=\"img\" aria-label=\"诺贝尔奖如何把自己做成神话文章思维导图\" style=\"width:100%;height:auto;font-family:-apple-system,'PingFang SC','Hiragino Sans GB','Microsoft YaHei',sans-serif\">\n        <rect x=\"24\" y=\"306\" width=\"176\" height=\"88\" rx=\"14\" fill=\"#eae3d2\" stroke=\"#9a8f76\"/>\n        <text x=\"112\" y=\"342\" text-anchor=\"middle\" fill=\"#3d3a34\" font-size=\"17\" font-weight=\"700\">诺贝尔奖的神话</text>\n        <text x=\"112\" y=\"368\" text-anchor=\"middle\" fill=\"#5c5648\" font-size=\"12.5\">一个百年品牌的造神史</text>\n\n        <path d=\"M200,350 C232,350 232,88 260,88\"  stroke=\"#6b8f71\" stroke-width=\"2\" fill=\"none\"/>\n        <path d=\"M200,350 C232,350 232,238 260,238\" stroke=\"#7d98ad\" stroke-width=\"2\" fill=\"none\"/>\n        <path d=\"M200,350 C232,350 232,433 260,433\" stroke=\"#bd7a6d\" stroke-width=\"2\" fill=\"none\"/>\n        <path d=\"M200,350 C232,350 232,628 260,628\" stroke=\"#9b86b3\" stroke-width=\"2\" fill=\"none\"/>\n\n        <g class=\"mm-branch\" data-target=\"bc1\">\n          <rect x=\"260\" y=\"71\" width=\"190\" height=\"34\" rx=\"8\" fill=\"#e6efe7\" stroke=\"#6b8f71\"/>\n          <text x=\"349\" y=\"93\" text-anchor=\"middle\" fill=\"#4c6b52\" font-size=\"15\" font-weight=\"700\">开场：睡着的获奖者（¶1–2）</text>\n          <text class=\"mm-arrow\" data-for=\"bc1\" x=\"442\" y=\"93\" text-anchor=\"end\" fill=\"#4c6b52\">▾</text>\n        </g>\n        <g class=\"mm-children\" id=\"bc1\">\n          <path d=\"M450,88 C462,88 462,46 480,46\" stroke=\"#6b8f71\" stroke-width=\"1.5\" fill=\"none\"/>\n          <path d=\"M450,88 C462,88 462,88 480,88\" stroke=\"#6b8f71\" stroke-width=\"1.5\" fill=\"none\"/>\n          <path d=\"M450,88 C462,88 462,130 480,130\" stroke=\"#6b8f71\" stroke-width=\"1.5\" fill=\"none\"/>\n          <rect x=\"480\" y=\"30\" width=\"456\" height=\"32\" rx=\"8\" fill=\"#e6efe7\"/><text x=\"492\" y=\"51\" fill=\"#3d3a34\" font-size=\"14\">妻子断言这奖永远拿不到，他听完就睡着了</text>\n          <rect x=\"480\" y=\"72\" width=\"456\" height=\"32\" rx=\"8\" fill=\"#e6efe7\"/><text x=\"492\" y=\"93\" fill=\"#3d3a34\" font-size=\"14\">瑞典来电时他正睡得香：开篇的反讽</text>\n          <rect x=\"480\" y=\"114\" width=\"456\" height=\"32\" rx=\"8\" fill=\"#e6efe7\"/><text x=\"492\" y=\"135\" fill=\"#3d3a34\" font-size=\"14\">2024届新神登场；奖章不戴，也在胸前发亮</text>\n        </g>\n\n        <g class=\"mm-branch\" data-target=\"bc2\">\n          <rect x=\"260\" y=\"221\" width=\"190\" height=\"34\" rx=\"8\" fill=\"#e5edf4\" stroke=\"#7d98ad\"/>\n          <text x=\"349\" y=\"243\" text-anchor=\"middle\" fill=\"#3d5872\" font-size=\"15\" font-weight=\"700\">立奖容易，在乎难（¶3–4）</text>\n          <text class=\"mm-arrow\" data-for=\"bc2\" x=\"442\" y=\"243\" text-anchor=\"end\" fill=\"#3d5872\">▾</text>\n        </g>\n        <g class=\"mm-children\" id=\"bc2\">\n          <path d=\"M450,238 C462,238 462,196 480,196\" stroke=\"#7d98ad\" stroke-width=\"1.5\" fill=\"none\"/>\n          <path d=\"M450,238 C462,238 462,238 480,238\" stroke=\"#7d98ad\" stroke-width=\"1.5\" fill=\"none\"/>\n          <path d=\"M450,238 C462,238 462,280 480,280\" stroke=\"#7d98ad\" stroke-width=\"1.5\" fill=\"none\"/>\n          <rect x=\"480\" y=\"180\" width=\"456\" height=\"32\" rx=\"8\" fill=\"#e5edf4\"/><text x=\"492\" y=\"201\" fill=\"#3d3a34\" font-size=\"14\">诺奖是荣誉之上的荣誉，口号喊到“人类最大福祉”</text>\n          <rect x=\"480\" y=\"222\" width=\"456\" height=\"32\" rx=\"8\" fill=\"#e5edf4\"/><text x=\"492\" y=\"243\" fill=\"#3d3a34\" font-size=\"14\">小国的一枚奖，怎么成了世界公认的最高荣誉</text>\n          <rect x=\"480\" y=\"264\" width=\"456\" height=\"32\" rx=\"8\" fill=\"#e5edf4\"/><text x=\"492\" y=\"285\" fill=\"#3d3a34\" font-size=\"14\">难的是让人在乎：冠名人本是卖炸药的商人</text>\n        </g>\n\n        <g class=\"mm-branch\" data-target=\"bc3\">\n          <rect x=\"260\" y=\"416\" width=\"190\" height=\"34\" rx=\"8\" fill=\"#f4e7e4\" stroke=\"#bd7a6d\"/>\n          <text x=\"349\" y=\"438\" text-anchor=\"middle\" fill=\"#7c4a3e\" font-size=\"15\" font-weight=\"700\">保住遗嘱与举国操盘（¶5–6）</text>\n          <text class=\"mm-arrow\" data-for=\"bc3\" x=\"442\" y=\"438\" text-anchor=\"end\" fill=\"#7c4a3e\">▾</text>\n        </g>\n        <g class=\"mm-children\" id=\"bc3\">\n          <path d=\"M450,433 C462,433 462,391 480,391\" stroke=\"#bd7a6d\" stroke-width=\"1.5\" fill=\"none\"/>\n          <path d=\"M450,433 C462,433 462,433 480,433\" stroke=\"#bd7a6d\" stroke-width=\"1.5\" fill=\"none\"/>\n          <path d=\"M450,433 C462,433 462,475 480,475\" stroke=\"#bd7a6d\" stroke-width=\"1.5\" fill=\"none\"/>\n          <rect x=\"480\" y=\"375\" width=\"456\" height=\"32\" rx=\"8\" fill=\"#f4e7e4\"/><text x=\"492\" y=\"396\" fill=\"#3d3a34\" font-size=\"14\">庞蒂把钱捐给科学院，被亲属告翻了遗嘱</text>\n          <rect x=\"480\" y=\"417\" width=\"456\" height=\"32\" rx=\"8\" fill=\"#f4e7e4\"/><text x=\"492\" y=\"438\" fill=\"#3d3a34\" font-size=\"14\">执行人抢先安抚两位外甥，把遗产保了下来</text>\n          <rect x=\"480\" y=\"459\" width=\"456\" height=\"32\" rx=\"8\" fill=\"#f4e7e4\"/><text x=\"492\" y=\"480\" fill=\"#3d3a34\" font-size=\"14\">瑞典办成举国事业；一战送来“中立”的天时</text>\n        </g>\n\n        <g class=\"mm-branch\" data-target=\"bc4\">\n          <rect x=\"260\" y=\"611\" width=\"190\" height=\"34\" rx=\"8\" fill=\"#ece4f2\" stroke=\"#9b86b3\"/>\n          <text x=\"349\" y=\"633\" text-anchor=\"middle\" fill=\"#5a4670\" font-size=\"15\" font-weight=\"700\">规则、先发与守声望（¶7–9）</text>\n          <text class=\"mm-arrow\" data-for=\"bc4\" x=\"442\" y=\"633\" text-anchor=\"end\" fill=\"#5a4670\">▾</text>\n        </g>\n        <g class=\"mm-children\" id=\"bc4\">\n          <path d=\"M450,628 C462,628 462,586 480,586\" stroke=\"#9b86b3\" stroke-width=\"1.5\" fill=\"none\"/>\n          <path d=\"M450,628 C462,628 462,628 480,628\" stroke=\"#9b86b3\" stroke-width=\"1.5\" fill=\"none\"/>\n          <path d=\"M450,628 C462,628 462,670 480,670\" stroke=\"#9b86b3\" stroke-width=\"1.5\" fill=\"none\"/>\n          <rect x=\"480\" y=\"570\" width=\"456\" height=\"32\" rx=\"8\" fill=\"#ece4f2\"/><text x=\"492\" y=\"591\" fill=\"#3d3a34\" font-size=\"14\">规则三招：不论国籍、不只奖当年、全球征提名</text>\n          <rect x=\"480\" y=\"612\" width=\"456\" height=\"32\" rx=\"8\" fill=\"#ece4f2\"/><text x=\"492\" y=\"633\" fill=\"#3d3a34\" font-size=\"14\">先发优势成形：迪顿在优步车上告诉司机</text>\n          <rect x=\"480\" y=\"654\" width=\"456\" height=\"32\" rx=\"8\" fill=\"#ece4f2\"/><text x=\"492\" y=\"675\" fill=\"#3d3a34\" font-size=\"14\">基金会唯一信条：守住声望；有奖上奖，年年它赢</text>\n        </g>\n      </svg>"
+ }
+}

@@ -1,0 +1,387 @@
+{
+ "date": "2026-10-08",
+ "title_tag": "为什么拿到诺贝尔奖，一辈子都不一样了？这个奖是怎么把自己做成神话的？—— 美国《大西洋月刊》外刊讲解第1191天",
+ "h1": "为什么拿到诺贝尔奖，一辈子都不一样了？这个奖是怎么把自己做成神话的？",
+ "source_label": "The Atlantic",
+ "category": "美国《大西洋月刊》外刊讲解 第1191天",
+ "read_minutes": 20,
+ "nav_hint": "Why Does Anyone Care About the Nobel Prize",
+ "headline": {
+  "en_html": "<span>Why Does Anyone Care About the Nobel Prize?</span> — <span>More than a century ago, <mark class=\"voc\">the Swedes</mark> <mark class=\"voc\">pulled off</mark> one of the greatest <mark class=\"voc\">branding exercises</mark> in history.</span>",
+  "zh": "为什么有人会在乎诺贝尔奖？—— 一个多世纪以前，瑞典人完成了一次史上最成功的品牌操盘。",
+  "notes": [
+   {
+    "w": "the Swedes",
+    "ipa": "/ðə swiːdz/",
+    "pos": "n.",
+    "en": "the Swedes means the people of Sweden as a whole, considered collectively",
+    "zh": "瑞典人（全体国民）",
+    "ctx": "“the + 国籍词复数”指一整个民族；作者把“办好诺奖”说成一个民族的集体成就，为下文“举国工程”埋线。",
+    "ex1": "The Swedes are famously reserved in public but warm in private. 瑞典人出了名地公开场合内敛、私下里热络。",
+    "ex2": "The British tend to queue; the Italians tend not to. 英国人习惯排队，意大利人通常不。"
+   },
+   {
+    "w": "pull off",
+    "ipa": "/pʊl ɒf/",
+    "pos": "phr. v.",
+    "en": "pull off means to succeed in doing something difficult, and often something that other people did not expect you to succeed at",
+    "zh": "（在难事上）成功做成、拿下",
+    "ctx": "不写 succeed 而写 pull off，因为后者自带“这事本来会黄、别人不看好、最后硬是扛住了”的那层“悬”。",
+    "ex1": "The underdogs pulled off one of the biggest upsets in the tournament’s history. 那支弱旅完成了这项赛事历史上最大的冷门之一。",
+    "ex2": "Nobody thought the startup could survive the crisis, but somehow they pulled it off. 没人相信这家创业公司能挺过危机，可他们硬是做成了。"
+   },
+   {
+    "w": "branding exercise",
+    "ipa": "/ˈbrændɪŋ ˈeksəsaɪz/",
+    "pos": "n. phr.",
+    "en": "a branding exercise means a deliberate, organized effort to build or shape how people perceive a brand or a name",
+    "zh": "一次品牌操盘、品牌运作",
+    "ctx": "exercise 在此是熟词僻义“一次有目的、有章法的运作”；作者用这四个字把诺奖放进商业案例库来拆解。",
+    "ex1": "The rebranding was less a design decision than a pure branding exercise. 这次改版与其说是设计决策，不如说是一次纯粹的品牌操盘。",
+    "ex2": "Rolling out the red carpet for visiting journalists was a branding exercise with a clear target. 为来访记者铺红毯，是一场目的明确的品牌运作。"
+   }
+  ]
+ },
+ "paragraphs": [
+  {
+   "en_html": "“Just go to sleep,” Martin Chalfie’s wife told him late one October night in 2008. Chalfie, a Columbia University chemist, had <mark class=\"voc\">co-authored</mark> an <mark class=\"voc\">influential</mark> paper describing a new method for studying cells with <mark class=\"voc\">green fluorescent protein</mark>, and he was <mark class=\"voc\">anxiously</mark> waiting to see <mark class=\"voc\">whether it would be</mark> <mark class=\"voc\">recognized</mark>. His wife, a <mark class=\"voc\">fellow academic</mark>, <mark class=\"voc\">tempered</mark> his expectations. “It’s a wonderful tool, and lots of people use it,” he <mark class=\"voc\">recalls her saying</mark>. “But, <mark class=\"voc\">to tell you the truth</mark>, it will never win the Nobel.” So when the call from Sweden came in, Chalfie was asleep.",
+   "zh": "『早点睡吧。』2008年10月的一个深夜，马丁·查尔菲的妻子这样劝他。查尔菲是哥伦比亚大学的化学家，曾与人合著一篇影响深远的论文，开创了用绿色荧光蛋白研究细胞的新方法；此刻，他正坐立难安地等着这项成果能否获得认可的分晓。同为学者的妻子替他降了降预期：『这工具确实出色，用的人也多。可说句实话，它永远拿不了诺贝尔奖。』所以瑞典的电话打来时，查尔菲已经睡着了。",
+   "notes": [
+    {
+     "w": "co-author",
+     "ipa": "/kəʊ ˈɔːθə(r)/",
+     "pos": "v. / n.",
+     "en": "to co-author means to write a book, paper, or report together with one or more other people",
+     "zh": "合著，联合署名；合著者",
+     "ctx": "用来交代查尔菲的学术分量，但“合著”二字同时为后文“他不在诺奖三人名单的完整故事里”留了伏笔。",
+     "ex1": "She co-authored the study with two colleagues from the same lab. 她与同一实验室的两位同事共同完成了这项研究。",
+     "ex2": "The paper was co-authored by twelve researchers across six countries. 这篇论文由六个国家的十二位研究者联合署名。"
+    },
+    {
+     "w": "influential",
+     "ipa": "/ˌɪnfluˈenʃl/",
+     "pos": "adj.",
+     "en": "influential means having a lot of influence on people, events, or the way things develop",
+     "zh": "有影响力的",
+     "ctx": "不用 important，因为 influential 说的是“它改变了后来人的做法”——在学术评价里，后者才是硬指标。",
+     "ex1": "Her early work was enormously influential in shaping modern genetics. 她的早期研究对塑造现代遗传学影响巨大。",
+     "ex2": "He is one of the most influential economists of his generation. 他是同代经济学家中最具影响力的人物之一。"
+    },
+    {
+     "w": "green fluorescent protein (GFP)",
+     "ipa": "/ɡriːn flʊəˈresnt ˈprəʊtiːn/",
+     "pos": "n.",
+     "en": "green fluorescent protein means a protein that glows bright green under blue or ultraviolet light, widely used as a tag to track proteins inside living cells",
+     "zh": "绿色荧光蛋白",
+     "ctx": "全段的技术锚点；作者不展开原理，只强调它“用得广”——这才是他深夜失眠的全部原因。",
+     "ex1": "Researchers used GFP to watch the virus move between cells in real time. 研究者用绿色荧光蛋白实时观察病毒在细胞间移动。",
+     "ex2": "GFP lets scientists follow a single protein in a living organism. 绿色荧光蛋白让科学家能追踪活体生物体内的单个蛋白。"
+    },
+    {
+     "w": "anxiously",
+     "ipa": "/ˈæŋkʃəsli/",
+     "pos": "adv.",
+     "en": "anxiously means in a way that shows you are worried and also excited about something that is going to happen",
+     "zh": "焦急地，坐立难安地",
+     "ctx": "不是纯粹的焦虑，是“担心＋期待搅在一起”；一个副词就写出一个人来回踱步的画面。",
+     "ex1": "Parents wait anxiously outside the operating room. 父母们在手术室外焦急地等候。",
+     "ex2": "She scanned the list anxiously, hoping her name was on it. 她忐忑地扫着名单，盼着上面有她的名字。"
+    },
+    {
+     "w": "whether it would be recognized",
+     "ipa": "/ˈweðə(r)/",
+     "pos": "conj.",
+     "en": "whether introduces a clause expressing a choice between two possibilities, especially “if or not”",
+     "zh": "是否（引导宾语从句）",
+     "ctx": "他等的“不是奖”，是“这项成果能否被认可”；这个从句把等待的对象从“结果”转向“认可”。",
+     "ex1": "We’re still waiting to see whether the deal goes through. 我们还在等着看这笔交易能否谈成。",
+     "ex2": "Whether it works or not, we should try. 不管成不成，我们都该试一次。"
+    },
+    {
+     "w": "recognize",
+     "ipa": "/ˈrekəɡnaɪz/",
+     "pos": "v.",
+     "en": "to recognize something means to accept and acknowledge that it is real, valid, or deserves attention",
+     "zh": "承认，认可",
+     "ctx": "被动语态撑起整段情绪：科研的底层逻辑就是求 recognition，而这条路的尽头有一根天花板，叫诺贝尔奖。",
+     "ex1": "Her talent was recognized early by her teachers. 她的天分很早就得到老师们的认可。",
+     "ex2": "The technique is now recognized as a milestone in the field. 这项技术如今被公认为该领域的里程碑。"
+    },
+    {
+     "w": "fellow academic",
+     "ipa": "/ˈfeləʊ ˌækəˈdemɪk/",
+     "pos": "n. phr.",
+     "en": "a fellow academic means another person who also works in the academic world, especially a researcher or teacher",
+     "zh": "学术同行",
+     "ctx": "交代妻子也是学术圈的人：那句“永远拿不了诺奖”不是外行的安慰，而是内行的判断，含金量极高。",
+     "ex1": "She felt instantly at ease among her fellow academics. 置身学术同行之间，她立刻放松下来。",
+     "ex2": "He was praised by his fellow researchers for his generosity with data. 他因乐于分享数据而受到同行的称赞。"
+    },
+    {
+     "w": "temper",
+     "ipa": "/ˈtempə(r)/",
+     "pos": "v.",
+     "en": "to temper something means to make it less extreme or less severe, so that it becomes more balanced",
+     "zh": "使缓和，给……降温",
+     "ctx": "词源是冶金里的“回火”：不是削弱，是“调到刚刚好”——外行泼冷水叫打击，行家校准预期叫 temper。",
+     "ex1": "The central bank moved early to temper market expectations. 央行早早出手，为市场预期降温。",
+     "ex2": "His mentor tempered his youthful enthusiasm with hard data. 导师用扎实的数据给他的年少热情降了降温。"
+    },
+    {
+     "w": "recall sb doing sth",
+     "ipa": "/rɪˈkɔːl/",
+     "pos": "v. phr.",
+     "en": "to recall someone doing something means to remember that they did it",
+     "zh": "记得某人做过某事",
+     "ctx": "把叙述从“正在发生”切到“事后回想”，暗示这是当事人多年后的追述，为整段加了一层时间滤镜。",
+     "ex1": "I clearly recall him saying he would never leave. 我清楚地记得他说过永远不会离开。",
+     "ex2": "She couldn’t recall ever meeting him before. 她记不起自己以前见过他。"
+    },
+    {
+     "w": "to tell you the truth",
+     "ipa": "/tə tel juː ðə truːθ/",
+     "pos": "phr.",
+     "en": "to tell you the truth is used to introduce an honest opinion, especially one that the listener may not want to hear",
+     "zh": "说句实话（口语插入语）",
+     "ctx": "自带“接下来不好听”的信号——先把架势摆出来，再给一刀，是英语里最典型的先礼后兵。",
+     "ex1": "To tell you the truth, I never liked that plan. 说句实话，我从没喜欢过那个方案。",
+     "ex2": "To be honest, the ending disappointed me. 老实说，那个结局让我挺失望的。"
+    }
+   ]
+  },
+  {
+   "en_html": "This past week, the 2024 Nobel class was introduced to the world, creating <mark class=\"voc\">a new crop of</mark> Olympian figures. Chalfie might tell you that the award hasn’t changed his day-to-day life all that much, that his grant applications still sometimes get denied. But the medal <mark class=\"voc\">radiates</mark> from his chest even when he’s not wearing it.",
+   "zh": "就在刚刚过去的一周，2024届诺贝尔奖得主向全世界亮相，又一批奥林匹斯神般的人物就此诞生。查尔菲大概会告诉你，这个奖并没有给他的日常生活带来多大改变——他申请科研经费，至今仍时不时被拒。但那枚奖章，即便他没戴在身上，也依然在他胸前熠熠生辉。",
+   "notes": [
+    {
+     "w": "a new crop of",
+     "ipa": "/kruːp/",
+     "pos": "n. phr.",
+     "en": "a new crop of something means a fresh group of people or things that appear at the same time",
+     "zh": "一批（新秀、新物）",
+     "ctx": "crop 是“庄稼、收成”，用庄稼的词说人，暗含“每年十月一茬一茬出炉”的调侃。",
+     "ex1": "A new crop of young writers is reshaping the genre. 一批年轻作家正在重塑这一文类。",
+     "ex2": "This year’s crop of applicants is unusually strong. 今年的申请者这一批格外强。"
+    },
+    {
+     "w": "radiate",
+     "ipa": "/ˈreɪdieɪt/",
+     "pos": "v.",
+     "en": "to radiate a quality or feeling means to show it strongly, so that other people can clearly see it in you",
+     "zh": "散发（气质、光芒）",
+     "ctx": "全篇最漂亮的隐喻：荣誉这种看不见的东西被一枚“隐形奖章”视觉化了，它已不挂在衣服上，而是长进身体里。",
+     "ex1": "She radiated confidence the moment she walked in. 她一进门就浑身散发着自信。",
+     "ex2": "The old house radiates warmth and history. 这座老宅透着暖意与历史感。"
+    }
+   ]
+  },
+  {
+   "en_html": "The Nobel is <mark class=\"voc\">the honor above all honors</mark>. The achievements it rewards—in science, literature, and peace—<mark class=\"voc\">contribute</mark> “to the greatest benefit of mankind,” a tagline any other respectable award committee would be too shy to claim. How did a single award from the small nation of Sweden become the undisputed highest honor in the world?",
+   "zh": "诺贝尔奖，是荣誉之上的荣誉。它所褒奖的成就——无论出自科学、文学还是和平事业——都“为人类带来了最大的福祉”；而这句宣传语，换作任何一家体面的评奖机构，怕都不好意思说出口。小小瑞典的一枚奖，究竟是如何成为世界公认的最高荣誉的？",
+   "notes": [
+    {
+     "w": "the honor above all honors",
+     "ipa": "/ˈɒnə(r)/",
+     "pos": "n. phr.",
+     "en": "the phrase “X above all Xs” means the very best or most important one of its kind, one that stands above every other member of the same category",
+     "zh": "荣誉之上的荣誉",
+     "ctx": "作者说 honor 而不说 award 或 prize：honor 强调的是“被敬重”这种态度，一个词的层级就选对了。",
+     "ex1": "For many scientists, the Nobel is the honor above all honors. 对许多科学家来说，诺贝尔奖是荣誉之上的荣誉。",
+     "ex2": "He regarded the medal as the recognition above all recognitions. 他把这枚奖章视为认可之中的最高认可。"
+    },
+    {
+     "w": "contribute to",
+     "ipa": "/kənˈtrɪbjuːt/",
+     "pos": "phr. v.",
+     "en": "to contribute to something means to give money, help, or ideas to it, so that it becomes more successful",
+     "zh": "为……作出贡献，促成",
+     "ctx": "这个搭配自带正向色彩；别和 attribute A to B 混——后者是“把 A 归因于 B”，方向刚好相反。",
+     "ex1": "Her work contributed greatly to our understanding of the disease. 她的研究极大地促进了我们对这种疾病的理解。",
+     "ex2": "Every member contributed to the final report. 每位成员都为最终报告出了力。"
+    }
+   ]
+  },
+  {
+   "en_html": "<mark class=\"voc\">Establishing</mark> a prize is easy. The hard part is getting anyone to care. Alfred Nobel, a businessman who made his fortune selling dynamite and explosives in the 19th century, was not an obvious <mark class=\"voc\">candidate</mark> to become the <mark class=\"voc\">namesake</mark> of the most prestigious <mark class=\"voc\">distinction</mark> in the world.",
+   "zh": "设立一个奖项很容易，难的是让人在乎。阿尔弗雷德·诺贝尔是19世纪靠贩卖达纳炸药与炸药发家致富的商人——怎么看，他都不像会成为这个世界上最负盛名的殊荣的冠名人。",
+   "notes": [
+    {
+     "w": "establish",
+     "ipa": "/ɪˈstæblɪʃ/",
+     "pos": "v.",
+     "en": "to establish something means to start it and make it firm, so that it will last",
+     "zh": "设立，确立",
+     "ctx": "强调“设立”这个动作的轻巧，与后半句“让人在乎很难”形成一轻一重的对撞。",
+     "ex1": "The university established the award in 1901. 该大学于1901年设立了这个奖项。",
+     "ex2": "She quickly established herself as a leading voice in the field. 她很快确立了自己在该领域的领军地位。"
+    },
+    {
+     "w": "candidate",
+     "ipa": "/ˈkændɪdət/",
+     "pos": "n.",
+     "en": "a candidate is a person or thing that is seen as suitable for a particular role, position, or fate",
+     "zh": "人选，候选者",
+     "ctx": "作者把“谁能当最高荣誉的代言人”写成了“一场候选资格的审评”：一个卖炸药的人，本来连参选资格都不该有。",
+     "ex1": "He was not an obvious candidate for the Nobel Peace Prize. 他并不是诺贝尔和平奖显而易见的人选。",
+     "ex2": "She quickly emerged as the strongest candidate for the post. 她很快成为这个职位最有力的人选。"
+    },
+    {
+     "w": "namesake",
+     "ipa": "/ˈneɪmseɪk/",
+     "pos": "n.",
+     "en": "a namesake is a person or thing that has the same name as another person or thing, especially one named after them",
+     "zh": "同名者，冠名人",
+     "ctx": "全文的一根暗桩：奖以他的名字命名，于是“人”被“奖”反噬——他卖炸药的一生被这四个字彻底改写。",
+     "ex1": "He is the namesake of the world’s most famous physics prize. 世界上最著名的物理学奖就是以他的名字命名的。",
+     "ex2": "The company took its name from its founder, and his namesake still runs it today. 公司以创始人的名字命名，如今由他的同名后人经营。"
+    },
+    {
+     "w": "distinction",
+     "ipa": "/dɪˈstɪŋkʃn/",
+     "pos": "n.",
+     "en": "a distinction is a special honour, award, or quality that makes someone or something noticeably better or different",
+     "zh": "殊荣，卓越之处",
+     "ctx": "作者后文反复换用 honor / award / distinction / prize 指同一个奖，越换越郑重，本身就是品牌话术的一部分。",
+     "ex1": "She graduated with the highest distinction in her class. 她以全班最高荣誉毕业。",
+     "ex2": "Winning the prize remains the greatest distinction a scientist can achieve. 拿下这个奖，仍是科学家所能获得的最高殊荣。"
+    }
+   ]
+  },
+  {
+   "en_html": "For the Nobel to become the Nobel, a few people had to <mark class=\"voc\">get a few things really right</mark>. When rich individuals <mark class=\"voc\">bequeath</mark> all their wealth to something other than their <mark class=\"voc\">would-be</mark> <mark class=\"voc\">heirs</mark>, their would-be heirs tend to resist. The Italian businessman Jerôme Ponti, for example, had more or less the same vision as Nobel. But after his surviving relatives learned that he had donated his fortune to national academies headquartered in London, Paris, and Vienna in 1874, a group of them successfully <mark class=\"voc\">litigated</mark> to <mark class=\"voc\">void</mark> <mark class=\"voc\">the will</mark>. In the 1890s, the <mark class=\"voc\">executors</mark> of Nobel’s <mark class=\"voc\">estate</mark> had to be a bit more clever. They <mark class=\"voc\">preemptively</mark> reached an agreement with Nobel’s two living nephews, one of whom was particularly <mark class=\"voc\">gracious</mark> and persuaded the rest of the family to <mark class=\"voc\">honor</mark> <mark class=\"voc\">the late</mark> Nobel’s wishes.",
+   "zh": "诺贝尔奖之所以能成为今天的诺贝尔奖，是因为有那么几个人，把那么几件事真正做对了。当富人把全部家产遗赠给继承人以外的事物时，这些本该继承遗产的人往往会奋起反抗。意大利商人杰罗姆·庞蒂便是如此——他与诺贝尔的构想大体相同。然而1874年，他在世的亲属得知他已将财产捐给总部设于伦敦、巴黎和维也纳的几家国家级科学院后，其中一伙人打起官司，并成功让遗嘱归于无效。到了19世纪90年代，诺贝尔遗产的执行人们不得不更加高明一些。他们抢先与诺贝尔在世的两位外甥达成协议，其中一位格外宽厚，说服了其余家人尊重这位已故长辈的遗愿。",
+   "notes": [
+    {
+     "w": "get sth right",
+     "ipa": "/ɡet raɪt/",
+     "pos": "phr.",
+     "en": "to get something right means to do it correctly or to handle it in exactly the right way",
+     "zh": "把某事做对、拿捏得当",
+     "ctx": "全篇的路标句：把诺奖的成功从“天注定”改写成“有人做对了选择”。",
+     "ex1": "Getting the tone right is harder than getting the grammar right. 把语气拿捏对，比把语法写对更难。",
+     "ex2": "They got almost everything right except the price. 除了价格，他们几乎每个环节都做对了。"
+    },
+    {
+     "w": "bequeath",
+     "ipa": "/bɪˈkwiːð/",
+     "pos": "v.",
+     "en": "to bequeath something means to officially arrange, in a will, to give your money or property to someone after you die",
+     "zh": "遗赠",
+     "ctx": "正式法律词，日常用 leave；这个词一出现，文章就从“讲故事”切换到“法律戏”。",
+     "ex1": "She bequeathed her entire library to the local college. 她把整座藏书遗赠给了当地学院。",
+     "ex2": "He bequeathed his shares to a charitable trust. 他把自己的股份遗赠给了一家慈善信托。"
+    },
+    {
+     "w": "would-be",
+     "ipa": "/ˈwʊd bi/",
+     "pos": "adj.",
+     "en": "would-be describes someone who wants to be a particular kind of person or hopes to have something, but has not achieved it",
+     "zh": "本该成为……的，想成为……的",
+     "ctx": "比 potential 多一层“眼巴巴却没得到”的味道，正是这群争产亲戚的写照。",
+     "ex1": "The would-be investors pulled out at the last minute. 那些意向投资者在最后一刻撤了。",
+     "ex2": "Every would-be novelist dreams of a bestseller. 每个想做小说家的人，都梦想着一本畅销书。"
+    },
+    {
+     "w": "heir",
+     "ipa": "/eə(r)/",
+     "pos": "n.",
+     "en": "an heir is a person who has the legal right to receive someone’s money or property after they die",
+     "zh": "继承人",
+     "ctx": "h 不发音，所以是 an heir；作者用这个词而不是 family，是在强调“法律关系”而非“亲情”。",
+     "ex1": "He is the sole heir to a vast fortune. 他是一笔巨额财产的唯一继承人。",
+     "ex2": "The heirs contested the will in court. 继承人们向法院对遗嘱提出了异议。"
+    },
+    {
+     "w": "litigate",
+     "ipa": "/ˈlɪtɪɡeɪt/",
+     "pos": "v.",
+     "en": "to litigate means to take a legal case to a court of law and argue it there",
+     "zh": "打官司，提起诉讼",
+     "ctx": "本段“反面案例”的爆点：同一件事，诺贝尔家保住了遗产，庞蒂家被告翻了遗嘱。",
+     "ex1": "The two firms spent a decade litigating over the patent. 两家公司为这项专利打了十年官司。",
+     "ex2": "Companies increasingly prefer to settle rather than litigate. 企业越来越倾向于和解，而不是打官司。"
+    },
+    {
+     "w": "void",
+     "ipa": "/vɔɪd/",
+     "pos": "v.",
+     "en": "to void something means to make it legally invalid, so that it no longer has any effect",
+     "zh": "使无效，作废",
+     "ctx": "专属于法律文书：遗嘱、合同、条款；一个词就把“官司打赢了”的结果说尽。",
+     "ex1": "The court voided the agreement on procedural grounds. 法院以程序理由使该协议归于无效。",
+     "ex2": "The clause was ruled null and void. 该条款被裁定完全无效。"
+    },
+    {
+     "w": "the will",
+     "ipa": "/ðə wɪl/",
+     "pos": "n.",
+     "en": "a will is a legal document in which you state what should be done with your money and property after you die",
+     "zh": "遗嘱",
+     "ctx": "全篇最重要的熟词僻义：void the will、executors of the will 全靠它撑起整场法律戏。",
+     "ex1": "She made a new will just weeks before she died. 她去世前几周刚立了一份新遗嘱。",
+     "ex2": "Anyone can contest a will if they believe it is invalid. 只要认为遗嘱无效，任何人都可以对它提出异议。"
+    },
+    {
+     "w": "executor",
+     "ipa": "/ɪɡˈzekjətə(r)/",
+     "pos": "n.",
+     "en": "an executor is the person named in a will who is responsible for making sure its instructions are carried out",
+     "zh": "遗嘱执行人",
+     "ctx": "与 executioner（刽子手）拼写相近、含义天差地别；史料里挑大梁的是年仅26岁的索尔曼。",
+     "ex1": "She was named executor of her father’s estate. 她被指定为父亲遗产的执行人。",
+     "ex2": "The executor distributed the assets according to the will. 执行人按遗嘱分配了资产。"
+    },
+    {
+     "w": "estate",
+     "ipa": "/ɪˈsteɪt/",
+     "pos": "n.",
+     "en": "an estate is everything that a person owns, especially all the money and property they leave behind when they die",
+     "zh": "遗产，财产",
+     "ctx": "涵盖房产、证券、专利、现金的全部资产，是个法律概念，所以不用 money。",
+     "ex1": "The estate was valued at over ten million dollars. 这笔遗产估值超过一千万美元。",
+     "ex2": "He left no will, so the estate went to his children by default. 他没留遗嘱，遗产便依法归了他的子女。"
+    },
+    {
+     "w": "preemptively",
+     "ipa": "/prɪˈemptɪvli/",
+     "pos": "adv.",
+     "en": "preemptively means acting before someone else does, in order to stop them from doing something first",
+     "zh": "抢先一步地，先发制人地",
+     "ctx": "诺奖得以保住的关键一招：他们没等亲戚来告，先下手把亲戚安抚住了，与庞蒂“被动挨告”形成鲜明对比。",
+     "ex1": "The company preemptively bought the rival’s key patents. 公司抢先买下了对手的关键专利。",
+     "ex2": "He preemptively apologized before anyone could complain. 还没等人抱怨，他就先道歉了。"
+    },
+    {
+     "w": "gracious",
+     "ipa": "/ˈɡreɪʃəs/",
+     "pos": "adj.",
+     "en": "gracious means behaving in a kind, polite, and generous way, especially towards someone you need not be generous to",
+     "zh": "宽厚的，有风度的",
+     "ctx": "关键不是“善良”，而是“本可以争、却选择不争”的体面——所以他劝住了全家。",
+     "ex1": "She was gracious about losing, and congratulated the winner warmly. 她输了却很有风度，热情地祝贺了获胜者。",
+     "ex2": "He was gracious enough to credit his rivals publicly. 他很有风度，公开感谢了自己的对手。"
+    },
+    {
+     "w": "honor one’s wishes",
+     "ipa": "/ˈɒnə(r)/",
+     "pos": "phr.",
+     "en": "to honor someone’s wishes means to respect and carry out what they wanted, especially in a formal or serious matter",
+     "zh": "尊重某人的意愿",
+     "ctx": "honor 此处作动词＝尊重、兑现；一句“尊重遗愿”，把一场可能重演庞蒂悲剧的争产风波化解掉。",
+     "ex1": "The family honored his wish to be buried quietly. 家人尊重了他希望安静下葬的意愿。",
+     "ex2": "The company honored the terms of the original deal. 公司履行了原始协议的条款。"
+    },
+    {
+     "w": "the late",
+     "ipa": "/ðə leɪt/",
+     "pos": "adj.",
+     "en": "the late is used before a name or a person’s title to mean that they have recently died",
+     "zh": "已故的",
+     "ctx": "把说话人（外甥）的时间点与诺贝尔的时间点区分开，还带出一层敬意。",
+     "ex1": "The award was named after the late professor. 该奖项以这位已故教授的名字命名。",
+     "ex2": "She dedicated the book to her late father. 她把这本书献给了已故的父亲。"
+    }
+   ]
+  }
+ ]
+}

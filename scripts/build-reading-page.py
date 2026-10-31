@@ -55,14 +55,14 @@ def build_section(sec_id, p_label, toggle_text, en_html, zh, notes, prefix, head
         f'        <div class="note-item" id="n-{prefix}-{i+1}">{note_html(n)}</div>'
         for i, n in enumerate(notes))
     ng = f'\n      <div class="notes-group">\n{note_divs}\n      </div>' if notes else ""
+    # 没有注释就不出折叠按钮：否则按钮找不到兄弟节点，点击会报 JS 错
+    btn = f'\n      <button class="notes-toggle" onclick="toggleNotes(this)">{toggle_text}</button>' if notes else ""
     sec_cls = "paragraph headline-block" if headline else "paragraph"
     en_cls = "headline-en" if headline else "en-block en"
     return f'''    <section class="{sec_cls}" id="{sec_id}">
       <div class="p-label">{p_label}</div>
       <div class="{en_cls}">{marks}</div>
-      <div class="zh-block">{zh}</div>
-
-      <button class="notes-toggle" onclick="toggleNotes(this)">{toggle_text}</button>{ng}
+      <div class="zh-block">{zh}</div>{btn}{ng}
     </section>'''
 
 

@@ -1,0 +1,316 @@
+{
+ "date": "2026-10-09",
+ "title_tag": "诺贝尔文学奖即将揭晓：村上春树年年被提，残雪再次成热门，今年到底会是谁？—— 英国《金融时报》外刊讲解第1192天",
+ "h1": "诺贝尔文学奖即将揭晓：村上春树年年被提，残雪再次成热门，今年到底会是谁？",
+ "source_label": "Financial Times",
+ "category": "英国《金融时报》外刊讲解 第1192天",
+ "read_minutes": 20,
+ "nav_hint": "Inside the Nobel Prize in literature",
+ "headline": {
+  "en_html": "Inside the Nobel Prize in literature",
+  "zh": "诺贝尔文学奖内幕",
+  "notes": []
+ },
+ "paragraphs": [
+  {
+   "en_html": "Alfred Nobel was a <mark class=\"voc\">keen</mark> but <mark class=\"voc\">mediocre</mark> writer. The Swedish dynamite tycoon wrote unpublished poems and a play featuring a 40-minute torture scene. <mark class=\"voc\">To the dismay of</mark> relatives keen to <mark class=\"voc\">inherit</mark> his fortune, his handwritten will of 1895 <mark class=\"voc\">endowed</mark> five awards, including a prize for literature. Nobel instructed “the Academy in Stockholm” to give it to the writer of “the most outstanding work in an ideal [idealisk] direction”. The Swedish Academy spent decades <mark class=\"voc\">puzzling over</mark> what “ideal” meant, before quietly dropping the criterion.",
+   "zh": "阿尔弗雷德·诺贝尔本人是一位热衷写作却才情平平的文人。这位瑞典炸药大亨写过未发表的诗作，还写过一部戏，其中有一幕长达四十分钟的酷刑场景。令那些盼着继承遗产的亲属们大失所望的是，他1895年的手写遗嘱设立了五个奖项，其中包括文学奖。诺贝尔嘱咐“斯德哥尔摩的学院”将其颁给“在理想[idealisk]方向上创作出最杰出作品”的作家。瑞典学院花了数十年琢磨“理想”究竟何所指，最终悄然将这一标准弃之不用。",
+   "notes": [
+    {
+     "w": "keen",
+     "ipa": "/kiːn/",
+     "pos": "adj.",
+     "en": "very interested in and enthusiastic about something; eager to do something",
+     "zh": "热衷的，热切的；敏锐的",
+     "ctx": "文中指诺贝尔对写作热情有余、才华不足，与 mediocre 一暖一冷，暗含惋惜与讽刺。",
+     "ex1": "She was a keen amateur photographer who spent every weekend chasing the perfect light. 她是一位热衷摄影的业余爱好者，每个周末都在追逐完美的光线。",
+     "ex2": "He remained a keen student of history long after he retired from teaching. 他从教职退休很久之后，仍是一位热切的历史学习者。"
+    },
+    {
+     "w": "mediocre",
+     "ipa": "/ˌmiːdiˈəʊkə(r)/",
+     "pos": "adj.",
+     "en": "not very good; of only average quality",
+     "zh": "平庸的，二流的",
+     "ctx": "开篇就给诺贝尔的文学才华定调：有热情、无天赋，是书评里那种“客气的差评”。",
+     "ex1": "The restaurant's food was mediocre and overpriced, but the view was spectacular. 这家餐厅的食物平庸且昂贵，但景色壮观。",
+     "ex2": "Critics dismissed the film as a mediocre effort from a director capable of far more. 影评人将这部电影斥为一位本可大有作为的导演的平庸之作。"
+    },
+    {
+     "w": "to the dismay of",
+     "ipa": "/tə ðə dɪsˈmeɪ əv/",
+     "pos": "短语",
+     "en": "causing someone to feel distress, shock, or disappointment",
+     "zh": "令……沮丧（震惊、失望）的是",
+     "ctx": "诺贝尔把遗产拿来设奖而不是留给亲属，让盼着继承的人失望甚至震惊。",
+     "ex1": "To the dismay of his fans, the singer announced his retirement at the height of his career. 令歌迷们大失所望的是，这位歌手在事业巅峰期宣布退役。",
+     "ex2": "To the dismay of environmentalists, the government approved the drilling project. 令环保人士沮丧的是，政府批准了该钻探项目。"
+    },
+    {
+     "w": "inherit",
+     "ipa": "/ɪnˈherɪt/",
+     "pos": "v.",
+     "en": "to receive money, property, or a title from someone after they have died",
+     "zh": "继承（财产、头衔等）",
+     "ctx": "亲属们急切盼着的是诺贝尔的巨额遗产，这份算计与他把财富捐出去形成道德对照。",
+     "ex1": "She inherited a small fortune from her grandmother and used it to open a bookshop. 她从祖母那里继承了一笔不小的财产，并用它开了一家书店。",
+     "ex2": "Under the will, the eldest son inherits the family estate. 根据遗嘱，长子继承家族产业。"
+    },
+    {
+     "w": "endow",
+     "ipa": "/ɪnˈdaʊ/",
+     "pos": "v.",
+     "en": "to give a large sum of money to a school, hospital, etc. to provide it with a permanent income",
+     "zh": "捐资设立，资助；赋予",
+     "ctx": "一纸 1895 年的手写遗嘱，一次出资设立五个奖项，让奖金有了永久来源。",
+     "ex1": "The billionaire endowed a scholarship fund for students from rural areas. 这位亿万富翁捐资设立了一项面向农村学生的奖学金基金。",
+     "ex2": "The university was endowed with a generous bequest from an anonymous donor. 这所大学获得了一位匿名捐赠者的慷慨遗赠。"
+    },
+    {
+     "w": "puzzle over",
+     "ipa": "/ˈpʌzl ˈəʊvə(r)/",
+     "pos": "动词短语",
+     "en": "to think hard about something for a long time because it is difficult to understand",
+     "zh": "苦苦思索，绞尽脑汁琢磨",
+     "ctx": "瑞典学院为遗嘱里 ideal 一词琢磨了几十年，最后索性把这条标准悄悄丢掉。",
+     "ex1": "Historians still puzzle over why the empire collapsed so suddenly. 历史学家至今仍在苦苦思索这个帝国为何会如此突然地崩溃。",
+     "ex2": "She puzzled over the cryptic message for hours before realizing it was a joke. 她对着那条隐晦的信息琢磨了几个小时，才意识到那是个玩笑。"
+    }
+   ]
+  },
+  {
+   "en_html": "Next Thursday, a door will open in a <mark class=\"voc\">gilded</mark> hall in Stockholm and the Academy’s formally dressed permanent secretary will step forward to announce, in Swedish and English, the winner of this year’s literature Nobel. Now prediction markets favour Indian writer Amitav Ghosh, the Chinese <mark class=\"voc\">avant-garde</mark> author Can Xue or the American novelist Thomas Pynchon to win the SKr12mn (£910,000) in prize money — though nobody really knows, as today’s Academy is less <mark class=\"voc\">leaky</mark> than it was before a #MeToo <mark class=\"voc\">scandal</mark> prompted a sweeping overhaul. And the <mark class=\"voc\">pundits</mark> usually guess wrong.",
+   "zh": "下周四，斯德哥尔摩一座金碧辉煌的大厅里将有一扇门开启，学院身着正装的常务秘书将走上前来，用瑞典语和英语宣布今年诺贝尔文学奖得主。目前预测市场看好印度作家阿米塔夫·高希、中国先锋派作家残雪或美国小说家托马斯·品钦摘得1200万瑞典克朗（约合91万英镑）的奖金——不过无人真正知晓，因为如今的学院比#MeToo丑闻引发全面改革之前守口如瓶得多。而评论家们的猜测通常都是错的。",
+   "notes": [
+    {
+     "w": "gilded",
+     "ipa": "/ˈɡɪldɪd/",
+     "pos": "adj.",
+     "en": "covered with a thin layer of gold or gold paint; (figurative) wealthy and privileged",
+     "zh": "镀金的；富丽堂皇的",
+     "ctx": "颁奖大厅金碧辉煌，这层“镀金”同时暗示奖项的尊贵与封闭。",
+     "ex1": "The gilded ceiling of the opera house took three years to restore. 歌剧院那镀金的天花板花了三年才修复。",
+     "ex2": "Behind the gilded façade of the corporation lay a culture of fear. 在那家公司金碧辉煌的外表之下，隐藏着一种恐惧文化。"
+    },
+    {
+     "w": "avant-garde",
+     "ipa": "/ˌævɒ̃ ˈɡɑːd/",
+     "pos": "adj.",
+     "en": "favouring or introducing new and experimental ideas and methods in art, music, or literature",
+     "zh": "先锋派的，前卫的",
+     "ctx": "残雪被称作中国的先锋派作家，词里暗含“实验性强、不易读”之意。",
+     "ex1": "The gallery devoted its upper floor to avant-garde installations from the 1960s. 画廊将顶层专门用于展出20世纪60年代的先锋派装置艺术。",
+     "ex2": "Her avant-garde prose style alienated some readers but inspired a generation of writers. 她的先锋派散文风格让一些读者望而却步，却启发了一代作家。"
+    },
+    {
+     "w": "leaky",
+     "ipa": "/ˈliːki/",
+     "pos": "adj.",
+     "en": "tending to disclose confidential information; (of a container) allowing liquid to escape",
+     "zh": "爱泄密的；漏水的",
+     "ctx": "如今的学院比 #MeToo 之前守口如瓶得多，预测市场再难探到风声。",
+     "ex1": "The committee was notoriously leaky, with details appearing in the press within hours. 该委员会以守不住秘密著称，细节几小时内就出现在报纸上。",
+     "ex2": "A leaky pipeline of internal memos kept the scandal alive for months. 内部备忘录不断外泄，使这桩丑闻持续发酵数月。"
+    },
+    {
+     "w": "scandal",
+     "ipa": "/ˈskændl/",
+     "pos": "n.",
+     "en": "an action or event regarded as morally or legally wrong and causing public outrage",
+     "zh": "丑闻，丑事",
+     "ctx": "2017 年院士丈夫被控性侵的 #MeToo 丑闻，直接逼出学院全面改革。",
+     "ex1": "The financial scandal forced the chief executive to resign within a week. 这桩财务丑闻迫使首席执行官在一周内辞职。",
+     "ex2": "The scandal shattered the institution's reputation for integrity. 这桩丑闻摧毁了该机构诚信的声誉。"
+    },
+    {
+     "w": "pundit",
+     "ipa": "/ˈpʌndɪt/",
+     "pos": "n.",
+     "en": "an expert in a particular subject who frequently gives opinions in the media",
+     "zh": "权威评论员，专家",
+     "ctx": "那些年年在媒体上预测得主的评论家，猜错的次数并不比普通人少。",
+     "ex1": "Political pundits predicted a landslide, but the result was too close to call. 政治评论员预测会一边倒，但结果却难分伯仲。",
+     "ex2": "Sports pundits were left red-faced after their pre-match forecasts proved wildly wrong. 赛前预测大错特错，体育评论员们颜面尽失。"
+    }
+   ]
+  },
+  {
+   "en_html": "The prize is <mark class=\"voc\">ritually</mark> <mark class=\"voc\">mocked</mark>. The Nigerian poet Chinweizu Ibekwe once <mark class=\"voc\">marvelled</mark> at “the <mark class=\"voc\">conceit</mark> that <mark class=\"voc\">a gaggle of</mark> Swedes . . . should pronounce on intellectual excellence for the whole wide world”. And yet, says Daniel Medin, professor of comparative literature at the American University of Paris: “The Nobel is the big one for international fiction. There is no comparison.” The Nobel shapes the global <mark class=\"voc\">canon</mark> — even if the globe can push back.",
+   "zh": "这个奖项历来被人揶揄。尼日利亚诗人钦韦祖·伊贝奎曾惊叹于“这样一种自负：一帮瑞典人……竟要对全世界的智识卓越发号施令”。然而，巴黎美国大学比较文学教授丹尼尔·梅丁说：“诺贝尔奖是国际小说界的头等大事。无可比拟。”诺贝尔奖塑造着全球经典——即便全球也能反推回去。",
+   "notes": [
+    {
+     "w": "ritually",
+     "ipa": "/ˈrɪtʃuəli/",
+     "pos": "adv.",
+     "en": "as part of a regular, repeated ceremony or habit",
+     "zh": "仪式般地，例行公事地",
+     "ctx": "每逢颁奖必被嘲讽，年年如此，已经成了一种固定仪式。",
+     "ex1": "Every year the budget is ritually condemned by the opposition before being passed unchanged. 每年预算都照例遭到反对党谴责，随后原封不动地通过。",
+     "ex2": "He ritually checked his watch every few minutes during the interview. 面试中他每隔几分钟就习惯性地看一眼手表。"
+    },
+    {
+     "w": "mock",
+     "ipa": "/mɒk/",
+     "pos": "v.",
+     "en": "to laugh at someone or something in an unkind way; to make fun of",
+     "zh": "嘲笑，讥讽",
+     "ctx": "诺奖的评选标准与评委资格，年年被外界当笑话讲。",
+     "ex1": "The proposal was mocked by economists as naive and unworkable. 该提议被经济学家嘲笑为天真且不可行。",
+     "ex2": "She mocked his accent so cruelly that he stopped speaking in class. 她残忍地嘲笑他的口音，以至于他不再在课堂上发言。"
+    },
+    {
+     "w": "marvel",
+     "ipa": "/ˈmɑːvl/",
+     "pos": "v.",
+     "en": "to be filled with wonder or astonishment",
+     "zh": "惊叹，感到惊奇",
+     "ctx": "尼日利亚诗人对“一小群瑞典人评判全世界”这件事，发出带刺的惊叹。",
+     "ex1": "Visitors marvelled at the precision of the ancient clockwork mechanism. 参观者惊叹于这座古代机械装置的精密。",
+     "ex2": "I marvel at how she manages to stay so calm under pressure. 我惊叹于她在压力之下竟能如此镇定。"
+    },
+    {
+     "w": "conceit",
+     "ipa": "/kənˈsiːt/",
+     "pos": "n.",
+     "en": "excessive pride in oneself; an elaborate or fanciful idea",
+     "zh": "自负，自大；（巧妙的）构想",
+     "ctx": "诗人讥讽的是那种自负：一帮瑞典人自认有资格给全世界的智识打分。",
+     "ex1": "It was sheer conceit to assume that his readers would follow such a convoluted argument. 认为读者能跟上如此迂回的论证，纯属自负。",
+     "ex2": "The novel's central conceit is that time runs backwards. 这部小说的核心构想是时间倒流。"
+    },
+    {
+     "w": "a gaggle of",
+     "ipa": "/ə ˈɡæɡl əv/",
+     "pos": "短语",
+     "en": "a disorderly group of people; (originally) a flock of geese",
+     "zh": "一群（喧闹的）；一帮",
+     "ctx": "用鹅群的意象说学院院士，吵闹、自以为是，语气轻蔑。",
+     "ex1": "A gaggle of tourists blocked the entrance, all taking photos at once. 一群游客堵住了入口，全都在同时拍照。",
+     "ex2": "A gaggle of reporters followed the actress through the airport. 一帮记者跟着那位女演员穿过机场。"
+    },
+    {
+     "w": "canon",
+     "ipa": "/ˈkænən/",
+     "pos": "n.",
+     "en": "the works of a writer, artist, etc. that are accepted as being of the highest quality; a general rule or principle",
+     "zh": "经典正典；（教会）教规",
+     "ctx": "诺奖塑造的是全球文学经典的形成，即谁被公认为权威、必读。",
+     "ex1": "Her novels have quietly entered the canon of twentieth-century American literature. 她的小说已悄然跻身二十世纪美国文学经典之列。",
+     "ex2": "Feminist critics challenged the male-dominated canon taught in universities. 女性主义批评家挑战了大学里以男性为主导的经典体系。"
+    }
+   ]
+  },
+  {
+   "en_html": "There has always been a <mark class=\"voc\">comic</mark> <mark class=\"voc\">discrepancy</mark> between the weight of the prize and the <mark class=\"voc\">parochialism</mark> of the judges. The Academy’s 18 life members — known as “The Eighteen” — are Swedish writers, literary historians, <mark class=\"voc\">linguists</mark> and a <mark class=\"voc\">jurist</mark>, some of them <mark class=\"voc\">obscure</mark> even in Sweden. There were barely any female members until this century. The very first award, in 1901, made international news. Somehow nobody nominated Leo Tolstoy, whereas 17 members of the Académie Française endorsed the French poet Sully Prudhomme, and he won.",
+   "zh": "奖项的分量与评委的狭隘之间，始终存在着一种滑稽的落差。学院的18位终身院士——人称“十八人”——是瑞典作家、文学史家、语言学家和一位法学家，其中有些人即便在瑞典也鲜为人知。直到本世纪，女性院士都寥寥无几。1901年首次颁奖便成为国际新闻。不知何故，无人提名列夫·托尔斯泰，而法兰西学院17位院士联名推举法国诗人苏利·普吕多姆，于是他得了奖。",
+   "notes": [
+    {
+     "w": "comic",
+     "ipa": "/ˈkɒmɪk/",
+     "pos": "adj.",
+     "en": "funny; relating to comedy; (of a situation) causing amusement",
+     "zh": "滑稽的，可笑的；喜剧的",
+     "ctx": "奖的分量那么重、评委的眼界那么窄，这个不匹配荒唐得可笑。",
+     "ex1": "There was something comic about the CEO arriving at the protest in a chauffeur-driven limousine. CEO坐着专职司机开的豪车来到抗议现场，这一幕颇为滑稽。",
+     "ex2": "The comic timing of his interruption made the whole room laugh. 他插话的喜剧时机恰到好处，逗得满堂大笑。"
+    },
+    {
+     "w": "discrepancy",
+     "ipa": "/dɪsˈkrepənsi/",
+     "pos": "n.",
+     "en": "an illogical or surprising lack of compatibility or similarity between two or more facts",
+     "zh": "差异，不一致，出入",
+     "ctx": "两种本该匹配的东西之间，出现了令人意外甚至荒谬的落差。",
+     "ex1": "Auditors found a discrepancy between the reported profits and the actual bank balance. 审计人员发现报告利润与实际银行余额之间存在出入。",
+     "ex2": "There is a glaring discrepancy between the government's promises and its actions. 政府的承诺与行动之间存在明显落差。"
+    },
+    {
+     "w": "parochialism",
+     "ipa": "/pəˈrəʊkiəlɪzəm/",
+     "pos": "n.",
+     "en": "a limited or narrow outlook, especially one focused on a local area rather than a wider world",
+     "zh": "狭隘，地方主义",
+     "ctx": "评委只看本国或西方传统，视野局限在一隅，缺乏全球眼光。",
+     "ex1": "The newspaper's parochialism meant that international news was relegated to the back pages. 这家报纸的地方主义意味着国际新闻被挤到了末版。",
+     "ex2": "Critics accused the museum of parochialism for ignoring non-Western art. 批评者指责该博物馆狭隘，忽视非西方艺术。"
+    },
+    {
+     "w": "linguist",
+     "ipa": "/ˈlɪŋɡwɪst/",
+     "pos": "n.",
+     "en": "a person who studies languages or speaks several languages",
+     "zh": "语言学家；通晓多种语言的人",
+     "ctx": "院士里有语言学家，说明这个评选班子是学术与文化精英的混合体。",
+     "ex1": "As a linguist, she could identify regional accents within a few sentences. 作为一名语言学家，她几句话就能听出对方的地域口音。",
+     "ex2": "The team included historians, linguists, and archaeologists. 团队中包括历史学家、语言学家和考古学家。"
+    },
+    {
+     "w": "jurist",
+     "ipa": "/ˈdʒʊərɪst/",
+     "pos": "n.",
+     "en": "an expert in law; a judge",
+     "zh": "法学家，法律专家",
+     "ctx": "十八人里还坐着一位法学家：机构以文学为名，构成却远不止文学。",
+     "ex1": "The panel was chaired by a distinguished jurist known for her constitutional expertise. 该小组由一位以宪法专长著称的杰出法学家主持。",
+     "ex2": "Jurists debated whether the new statute violated international law. 法学家们就新法规是否违反国际法展开辩论。"
+    },
+    {
+     "w": "obscure",
+     "ipa": "/əbˈskjʊə(r)/",
+     "pos": "adj.",
+     "en": "not well known; difficult to understand",
+     "zh": "默默无闻的；晦涩难懂的",
+     "ctx": "有些院士在瑞典本国都没什么名气，却握有世界文坛的最高评判权。",
+     "ex1": "He spent his life studying an obscure dialect spoken by fewer than a hundred people. 他毕生研究一种只有不到一百人使用的冷僻方言。",
+     "ex2": "The company was founded by an obscure engineer who never gave interviews. 这家公司由一位从不接受采访的默默无闻的工程师创立。"
+    }
+   ]
+  },
+  {
+   "en_html": "The literature prize has never been as controversial as the <mark class=\"voc\">frankly</mark> political Peace Prize; but because greatness in literature is more <mark class=\"voc\">subjective</mark> than in the sciences, the Academy’s choice reliably angers critics. They <mark class=\"voc\">delight in</mark> <mark class=\"voc\">drawing up</mark> lists of overlooked greats — James Joyce, Franz Kafka, Virginia Woolf, Marcel Proust, Constantine Cavafy, et cetera — though some of these achieved renown only after death.",
+   "zh": "文学奖从未像坦率政治化的和平奖那样引发争议；但由于文学上的伟大比科学上更具主观性，学院的选择总能可靠地激怒批评家。他们乐此不疲地罗列被忽视的大师名单——詹姆斯·乔伊斯、弗朗茨·卡夫卡、弗吉尼亚·伍尔夫、马塞尔·普鲁斯特、康斯坦丁·卡瓦菲斯等等——尽管其中有些人是在身后才声名鹊起。",
+   "notes": [
+    {
+     "w": "frankly",
+     "ipa": "/ˈfræŋkli/",
+     "pos": "adv.",
+     "en": "in an open, honest, and direct manner; used to introduce a blunt statement",
+     "zh": "坦率地说；直率地",
+     "ctx": "和平奖的政治性从不遮掩，与文学奖的含蓄恰成对照。",
+     "ex1": "Frankly, I don't think the plan will work. 坦率地说，我认为这个计划行不通。",
+     "ex2": "She spoke frankly about the difficulties she had faced as a woman in engineering. 她坦率地谈到了自己作为女性在工程领域所面临的困难。"
+    },
+    {
+     "w": "subjective",
+     "ipa": "/səbˈdʒektɪv/",
+     "pos": "adj.",
+     "en": "based on personal feelings, tastes, or opinions rather than external facts",
+     "zh": "主观的",
+     "ctx": "文学上的伟大没法像科学那样量化，评奖因此注定要挨骂。",
+     "ex1": "Taste in music is highly subjective, so there is no point arguing about it. 音乐品味极其主观，争论毫无意义。",
+     "ex2": "The reviewer admitted that her judgment was subjective and reflected her own preferences. 评论者承认她的判断是主观的，反映了她个人的偏好。"
+    },
+    {
+     "w": "delight in doing sth.",
+     "ipa": "/dɪˈlaɪt ɪn ˈduːɪŋ/",
+     "pos": "短语",
+     "en": "to take great pleasure in doing something, especially something that annoys others",
+     "zh": "以做某事为乐；热衷于做某事",
+     "ctx": "批评家们乐此不疲地开列遗珠名单，借此嘲弄学院。",
+     "ex1": "He delights in pointing out the flaws in his colleagues' arguments. 他热衷于指出同事论证中的漏洞。",
+     "ex2": "She delights in surprising her students with unusual questions. 她喜欢用不寻常的问题给学生惊喜。"
+    },
+    {
+     "w": "draw up",
+     "ipa": "/drɔː ʌp/",
+     "pos": "动词短语",
+     "en": "to prepare and write something such as a document or list",
+     "zh": "起草，拟定；列清单",
+     "ctx": "draw up 本是起草正式文件，用在“名单”上，显得煞有介事。",
+     "ex1": "The lawyer drew up a contract that protected both parties. 律师起草了一份保护双方的合同。",
+     "ex2": "The magazine drew up a list of the decade's most influential books. 该杂志列出了十年来最具影响力的书籍名单。"
+    }
+   ]
+  }
+ ]
+}

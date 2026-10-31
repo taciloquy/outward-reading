@@ -1,0 +1,377 @@
+{
+ "date": "2026-10-10",
+ "title_tag": "俄罗斯暴发鼠疫？究竟发生了什么？对中国有影响吗？—— 美国纽约时报外刊讲解第1193天",
+ "h1": "俄罗斯暴发鼠疫？究竟发生了什么？对中国有影响吗？",
+ "source_label": "The New York Times",
+ "category": "美国纽约时报外刊讲解 第1193天",
+ "read_minutes": 18,
+ "nav_hint": "What experts want to know",
+ "headline": {
+  "en_html": "<span>What Experts Want to Know About the Russia <mark class=\"voc\">Plague</mark> <mark class=\"voc\">Scare</mark></span> — <span>Missing details about the death of a lab worker, including the cause, are worrying scientists.</span>",
+  "zh": "关于俄罗斯的鼠疫风波，专家们想知道些什么——一名实验室工作人员之死的细节（包括死因）至今缺失，这让科学家们忧心忡忡。",
+  "notes": [
+   {
+    "w": "plague",
+    "ipa": "/pleɪɡ/",
+    "pos": "n. & v.",
+    "en": "Plague means a serious disease that spreads quickly and kills a large number of people. In medical use, “the plague” refers specifically to the disease caused by the bacterium Yersinia pestis. As a verb, to plague means to cause continual trouble or distress to someone.",
+    "zh": "鼠疫；（作动词）反复折磨、困扰",
+    "ctx": "标题里的 plague 是特指鼠疫，不是泛指瘟疫——一个词就把最吓人的那个具体病点出来，前面再配 scare（虚惊），张力全在“最凶的病＋未必坐实的恐慌”之间。",
+    "ex1": "I’ve been avoiding him like the plague since that meeting. 自从那次会议之后，我一直像躲瘟疫一样躲着他。",
+    "ex2": "The project was plagued by delays and budget problems from the start. 这个项目从一开始就被延误和预算问题反复困扰。"
+   },
+   {
+    "w": "scare",
+    "ipa": "/skeə(r)/",
+    "pos": "n. & v.",
+    "en": "A scare means a situation in which many people are frightened or worried, often because they think there is a danger, although the danger may not be real.",
+    "zh": "恐慌，虚惊；（作动词）吓唬",
+    "ctx": "作者不说 outbreak（暴发）而说 scare，是在保持距离——“我不认定这是鼠疫，但我认定这里有一场集体焦虑”，这是记者的态度词。",
+    "ex1": "The bomb scare at the station turned out to be a hoax. 车站的炸弹虚惊最后被证明是一场恶作剧。",
+    "ex2": "Food scares can damage an industry far more than the actual risk does. 食品恐慌对行业的伤害，往往远大于风险本身。"
+   }
+  ]
+ },
+ "paragraphs": [
+  {
+   "en_html": "A 28-year-old worker at a research laboratory in Siberia recently <mark class=\"voc\">died of</mark> <mark class=\"voc\">pneumonia</mark>. <mark class=\"voc\">The facility</mark> studies plague, among other <mark class=\"voc\">pathogens</mark>, raising fears that she had been <mark class=\"voc\">exposed</mark> at the laboratory. But Russian health officials so far have not <mark class=\"voc\">linked the death of the worker, Darya Shipilova, to</mark> <mark class=\"voc\">infection with</mark> Yersinia pestis, the bacterium that causes plague. And despite early reports that dozens had been <mark class=\"voc\">quarantined</mark> near the research facility, health officials said that there was no risk of an <mark class=\"voc\">epidemic</mark>.",
+   "zh": "西伯利亚一家研究实验室的一名28 岁工作人员，近日死于肺炎。这家机构的研究对象包括鼠疫，以及其他多种病原体——这让人不由得担心：她是否在实验室里接触了病原体。但俄罗斯卫生官员迄今尚未将这名工作人员——达里娅·希皮洛娃——的死亡，与鼠疫耶尔森菌（即引发鼠疫的细菌）的感染联系起来。而尽管早期有报道称，该研究机构附近已有数十人被隔离，卫生官员仍表示，不存在流行病风险。",
+   "notes": [
+    {
+     "w": "die of",
+     "ipa": "/daɪ əv/",
+     "pos": "短语",
+     "en": "To die of something means to die because of it. It is used mainly when the cause is a disease, illness, or a condition inside the body (e.g. die of cancer, die of pneumonia, die of hunger). “Die from” is also correct and is more often used when the cause is an external event such as an injury, accident, or wound.",
+     "zh": "因（某种疾病、饥饿等）而死",
+     "ctx": "作者用 of 而不是 from，强调死因来自身体内部（一种病），为后文“到底是普通肺炎还是鼠疫”的悬念铺路。",
+     "ex1": "Her father died of cancer three years ago. 她父亲三年前死于癌症。",
+     "ex2": "In fairy tales, people often die of a broken heart. 童话里，人们常常因为心碎而死。"
+    },
+    {
+     "w": "pneumonia",
+     "ipa": "/njuːˈməʊniə/",
+     "pos": "n.",
+     "en": "Pneumonia is a serious illness of the lungs in which the air sacs fill with fluid, making it hard to breathe.",
+     "zh": "肺炎",
+     "ctx": "医生口中的“普通肺炎”与专家眼中的“可疑死因”，全文的张力都从这两个字长出来；注意 p 不发音。",
+     "ex1": "The patient was admitted with severe pneumonia and put on a ventilator. 该患者因重症肺炎入院，上了呼吸机。",
+     "ex2": "Pneumonia is especially dangerous for the elderly and the very young. 肺炎对老人和幼儿尤其危险。"
+    },
+    {
+     "w": "facility",
+     "ipa": "/fəˈsɪləti/",
+     "pos": "n.",
+     "en": "A facility is a place, usually including buildings and equipment, that is built or used for a particular purpose.",
+     "zh": "设施；机构、场所（熟词僻义）",
+     "ctx": "the facility 在这里不是“设施”，而是“那家研究所”——一个冷冰冰的机构，被写成了一个出事的具体现场。",
+     "ex1": "The facility studies some of the world’s most dangerous pathogens. 该机构研究着世界上一些最危险的病原体。",
+     "ex2": "The company opened a new research facility outside the city. 该公司在城郊开设了一处新的研究机构。"
+    },
+    {
+     "w": "pathogen",
+     "ipa": "/ˈpæθədʒən/",
+     "pos": "n.",
+     "en": "A pathogen is a bacterium, virus, or other microorganism that can cause disease.",
+     "zh": "病原体",
+     "ctx": "patho-（疾病）+ -gen（产生者），产生疾病的东西。studies plague, among other pathogens 一句的言外之意是“它什么都研究”，把不安的范围一下放大了。",
+     "ex1": "The lab is equipped to handle dangerous airborne pathogens. 该实验室具备处理危险空气传播病原体的条件。",
+     "ex2": "Climate change may help new pathogens spread to previously unaffected regions. 气候变化可能促使新病原体扩散到此前未受影响的地区。"
+    },
+    {
+     "w": "exposure / expose",
+     "ipa": "/ɪkˈspəʊʒə(r)/, /ɪkˈspəʊz/",
+     "pos": "n. & v.",
+     "en": "To be exposed to something means to be put in a situation where you are affected by something harmful, or where you are likely to be harmed by it.",
+     "zh": "暴露；（接触有害物的）接触",
+     "ctx": "死因未查清前，记者只说“接触过”（exposed），不说“被感染”——一个词的取舍，守住了事实的边界。",
+     "ex1": "Workers may have been exposed to the bacterium in the lab. 工作人员可能已在实验室中接触到这种细菌。",
+     "ex2": "Exposure to the pathogen does not always lead to infection. 接触病原体并不总会导致感染。"
+    },
+    {
+     "w": "link A to B",
+     "ipa": "/lɪŋk ə tə biː/",
+     "pos": "短语动词",
+     "en": "To link one thing to another means to connect them or to show that they are related.",
+     "zh": "把 A 与 B 关联起来",
+     "ctx": "官方语境里“不 link”等于“不承认、不证实”，不是“没连上”；so far 两个字更是在说：门留着。",
+     "ex1": "Officials have not linked the death to the plague bacterium. 官员尚未把这起死亡与鼠疫杆菌联系起来。",
+     "ex2": "Smoking is strongly linked to lung cancer. 吸烟与肺癌有很强的关联。"
+    },
+    {
+     "w": "infection with",
+     "ipa": "/ɪnˈfekʃn wɪð/",
+     "pos": "名词短语",
+     "en": "Infection means the act or process of catching a disease, especially through bacteria or viruses; “infection with” names the organism that caused it.",
+     "zh": "（感染了）某种病原体",
+     "ctx": "动词是 infect sb with sth，名词化后介词只能是 with——infection with Yersinia pestis，不是 of、也不是 by。",
+     "ex1": "The worker died without any confirmed infection with Y. pestis. 该工作人员去世时，并未确诊感染鼠疫耶尔森菌。",
+     "ex2": "The risk of infection with the virus is low. 感染该病毒的风险很低。"
+    },
+    {
+     "w": "quarantine",
+     "ipa": "/ˈkwɒrəntiːn/",
+     "pos": "n. & v.",
+     "en": "Quarantine means keeping a person or animal away from others for a period of time, because they may have a disease that could spread.",
+     "zh": "隔离，检疫",
+     "ctx": "来自意大利语 quaranta giorni（四十天）——黑死病时期威尼斯规定疫船在港外停四十天。官方一边说“没有风险”，一边隔离了两百人，这是全文第一个“对不上”。",
+     "ex1": "Passengers arriving from the affected area were placed in quarantine for two weeks. 来自疫区的旅客被隔离了两周。",
+     "ex2": "The city eased quarantine rules after case numbers began to fall. 随着病例数开始下降，该市放宽了隔离规定。"
+    },
+    {
+     "w": "epidemic",
+     "ipa": "/ˌepɪˈdemɪk/",
+     "pos": "n.",
+     "en": "An epidemic is a large number of cases of a disease in a particular area or country.",
+     "zh": "流行病，疫情",
+     "ctx": "分级是 sporadic（零星）< outbreak（暴发）< epidemic（流行）< pandemic（大流行）。官方把这事按在最低档说成“无风险”，专家却觉得对不上。",
+     "ex1": "Health officials raced to contain an epidemic of dengue fever. 卫生官员争分夺秒地遏制登革热疫情。",
+     "ex2": "The country is facing an obesity epidemic among children. 这个国家正面临儿童肥胖的流行。"
+    }
+   ]
+  },
+  {
+   "en_html": "Still, the death has <mark class=\"voc\">prompted</mark> concerns around the world, <mark class=\"voc\">in part</mark> because of the Soviet Union’s long history of advanced bioweapons research, which <mark class=\"voc\">led to</mark> <mark class=\"voc\">outbreaks</mark> of anthrax and smallpox. After <mark class=\"voc\">unconfirmed</mark> reports of a second unusual case of pneumonia in the region, the World Health Organization <mark class=\"voc\">sought</mark> additional information from Russian officials. President Trump said he planned to speak to President Vladimir V. Putin of Russia “very soon” about the death.",
+   "zh": "尽管如此，这起死亡仍引发了全世界的担忧——部分原因在于，苏联在先进生物武器研究领域有着长期的历史，这段历史曾导致炭疽与天花的暴发。在该地区出现第二例异常肺炎的未经证实报道之后，世界卫生组织已向俄罗斯官员索要更多信息。川总表示，他计划“很快”就这起死亡与俄罗斯总统普京通话。",
+   "notes": [
+    {
+     "w": "prompt",
+     "ipa": "/prɒmpt/",
+     "pos": "v. & adj.",
+     "en": "To prompt something means to cause it to happen or to make someone do something.",
+     "zh": "促使，激起；及时的",
+     "ctx": "力度比 cause 轻：cause 是把责任坐实，prompt 只是把话头挑起来。手里没有证据，记者绝不敢用 cause。",
+     "ex1": "The scandal prompted calls for an independent investigation. 这起丑闻引发了要求独立调查的呼声。",
+     "ex2": "What prompted you to change your mind? 是什么促使你改变了想法？"
+    },
+    {
+     "w": "in part",
+     "ipa": "/ɪn ˈpɑːt/",
+     "pos": "短语",
+     "en": "“In part” means partly, or to some degree but not completely.",
+     "zh": "部分地，在一定程度上",
+     "ctx": "一根“保险绳”：只说“部分原因”，既点出苏联历史这个重磅背景，又不把话说满，是典型的新闻克制。",
+     "ex1": "The concern is due in part to the country’s history. 这种担忧部分源于该国的历史。",
+     "ex2": "The delay was in large part caused by poor communication. 延误在很大程度上是由沟通不畅造成的。"
+    },
+    {
+     "w": "lead to",
+     "ipa": "/liːd tə/",
+     "pos": "短语动词",
+     "en": "To lead to something means to cause it to happen, or to result in it.",
+     "zh": "导致，引发",
+     "ctx": "lead（引导）+ to（到）＝“引向”。用 lead to 而不是 cause，暗示的是一条因果链：研究在前，暴发在后。",
+     "ex1": "The research eventually led to outbreaks of anthrax and smallpox. 这些研究最终导致了炭疽与天花的暴发。",
+     "ex2": "Poor decisions can lead to serious consequences. 糟糕的决定可能导致严重后果。"
+    },
+    {
+     "w": "outbreak",
+     "ipa": "/ˈaʊtbreɪk/",
+     "pos": "n.",
+     "en": "An outbreak is a sudden start or occurrence of something unpleasant, especially a disease or something that spreads quickly.",
+     "zh": "（疾病、战争等的）暴发",
+     "ctx": "out（出来）+ break（破开）＝破壳而出。强调“突然”和“成片”：不是零星几例，而是猛地冒出来一片。",
+     "ex1": "Officials moved quickly to contain the outbreak before it spread further. 官员们迅速行动，在疫情进一步扩散前控制住它。",
+     "ex2": "The outbreak of war in 1939 changed the world forever. 1939 年战争的爆发，永远改变了世界。"
+    },
+    {
+     "w": "unconfirmed",
+     "ipa": "/ˌʌnkənˈfɜːmd/",
+     "pos": "adj.",
+     "en": "Unconfirmed means not yet proved to be true, because no official or reliable source has verified it.",
+     "zh": "未经证实的",
+     "ctx": "这是新闻学的信源分级：我告诉你有第二例这个说法，但我不为它背书。",
+     "ex1": "Police said the report of a second victim remained unconfirmed. 警方称有关第二名人质的报道仍未得到证实。",
+     "ex2": "The claim circulated widely online, but stayed unconfirmed for days. 该说法在网上广为流传，但数日来一直未获证实。"
+    },
+    {
+     "w": "sought",
+     "ipa": "/sɔːt/",
+     "pos": "v.（seek 的过去式与过去分词）",
+     "en": "If you seek something, you try to obtain it or ask for it.",
+     "zh": "寻求，索要",
+     "ctx": "用 sought 而非 asked，暗含“这是正式的、有分量的索要”。WHO 一开口要信息，本身就是“觉得不对劲”的信号。",
+     "ex1": "The agency sought clarification from the ministry about the new rules. 该机构就新规向该部寻求澄清。",
+     "ex2": "This is one of the most sought-after jobs in the country. 这是全国最抢手的工作之一。"
+    }
+   ]
+  },
+  {
+   "en_html": "Early reports cited local officials saying that Ms. Shipilova was exposed to <mark class=\"voc\">Y. pestis</mark> during her work at the Irkutsk Anti-Plague Research Institute of Siberia and the Far East. Y. pestis <mark class=\"voc\">was responsible for</mark> two of history’s <mark class=\"voc\">deadliest</mark> pandemics: the Black Death and the Plague of Justinian. As a lung infection, plague is <mark class=\"voc\">contagious</mark>, although not as <mark class=\"voc\">infectious</mark> as some other respiratory infections. (The bacterium also infects the bloodstream and <mark class=\"voc\">lymph nodes</mark>.) In its early stages, plague can be successfully treated with <mark class=\"voc\">antibiotics</mark>. There are hundreds of cases each year, mostly in Africa, according to the W.H.O.",
+   "zh": "早期报道援引当地官员的说法称，希皮洛娃女士在伊尔库茨克“西伯利亚与远东抗鼠疫研究所”工作期间接触过鼠疫杆菌。鼠疫杆菌是历史上最致命的两次大流行——黑死病与查士丁尼瘟疫——的元凶。作为一种肺部感染，鼠疫具有接触传染性，但其传染力不及某些其他呼吸道感染。（这种细菌还会感染血液与淋巴结。）在发病早期，鼠疫可以通过抗生素成功治愈。据世界卫生组织统计，每年仍有数百例病例，主要出现在非洲。",
+   "notes": [
+    {
+     "w": "Yersinia pestis",
+     "ipa": "/jɜːˈsɪniə ˈpestɪs/",
+     "pos": "拉丁学名",
+     "en": "Yersinia pestis is the bacterium that causes plague, one of the deadliest diseases in human history.",
+     "zh": "鼠疫耶尔森菌",
+     "ctx": "全文的“嫌疑人”：既是被研究的对象，也是被怀疑的死因。1894 年在中国香港分离出该菌的法国医生耶尔森给了它名字的前半截。",
+     "ex1": "Y. pestis caused the Black Death and the Plague of Justinian. 鼠疫杆菌引发了黑死病与查士丁尼瘟疫。",
+     "ex2": "Tests found no trace of Y. pestis in the samples. 检测未在样本中发现鼠疫杆菌的痕迹。"
+    },
+    {
+     "w": "be responsible for",
+     "ipa": "/bi rɪˈspɒnsəbl fə/",
+     "pos": "短语",
+     "en": "If someone or something is responsible for something, they are the cause of it, or it is their duty to deal with it.",
+     "zh": "是……的原因；对……负责",
+     "ctx": "这里取的是“起因”义而不是“负责”义：这细菌，是那两次大瘟疫的元凶——别被“负责”骗了。",
+     "ex1": "The bacterium was responsible for two of history’s deadliest pandemics. 这种细菌是历史上最致命的两次大流行的元凶。",
+     "ex2": "Who is responsible for this decision? 这个决定该由谁负责？"
+    },
+    {
+     "w": "deadly",
+     "ipa": "/ˈdedli/",
+     "pos": "adj. & adv.",
+     "en": "If something is deadly, it is likely or able to cause death.",
+     "zh": "致命的；极度地（作副词）",
+     "ctx": "文中用最高级 deadliest，措辞极硬：不是“一种严重的病”，而是“人类历史上最致命的两次，都是它干的”。",
+     "ex1": "It is one of the deadliest viruses known to science. 这是科学已知最致命的病毒之一。",
+     "ex2": "He was deadly serious when he made that threat. 他发出那个威胁时是极其认真的。"
+    },
+    {
+     "w": "contagious",
+     "ipa": "/kənˈteɪdʒəs/",
+     "pos": "adj.",
+     "en": "A contagious disease spreads by direct or close contact between people.",
+     "zh": "接触传染的，（人）带传染性的",
+     "ctx": "来自 contact（接触），特指“能人传人”，比 infectious 更窄也更让人紧张。记者既不吓你也不哄你：确实能传，但传染力有限。",
+     "ex1": "Chickenpox is highly contagious and spreads quickly in schools. 水痘传染性极强，在学校里传播很快。",
+     "ex2": "Her enthusiasm was contagious and lifted the whole team. 她的热情很有感染力，带动了整个团队。"
+    },
+    {
+     "w": "infectious",
+     "ipa": "/ɪnˈfekʃəs/",
+     "pos": "adj.",
+     "en": "An infectious disease can be passed from one person to another, or from an organism to a person.",
+     "zh": "有传染性的",
+     "ctx": "与 contagious 对照出现：infectious 是“能感染人”的总称，不管通过水、食物、蚊虫还是空气。破伤风是 infectious，但不是 contagious。",
+     "ex1": "COVID-19 is an infectious disease caused by a coronavirus. 新冠是一种由冠状病毒引起的传染病。",
+     "ex2": "The virus proved far more infectious than initially thought. 事实证明，该病毒的传染性远超最初判断。"
+    },
+    {
+     "w": "lymph node",
+     "ipa": "/lɪmf nəʊd/",
+     "pos": "n.",
+     "en": "Lymph nodes are small organs in the body that filter harmful substances and help fight infection.",
+     "zh": "淋巴结",
+     "ctx": "相当于身体里的“安检站”。这句看着是补充说明，其实是给后文“肺鼠疫／气溶胶”埋的伏笔，也解释了腺鼠疫的 bubo 从哪来。",
+     "ex1": "The doctor found swollen lymph nodes in his neck. 医生发现他颈部淋巴结肿大。",
+     "ex2": "The cancer had already spread to nearby lymph nodes. 癌症已经扩散到附近的淋巴结。"
+    },
+    {
+     "w": "antibiotics",
+     "ipa": "/ˌæntibaɪˈɒtɪks/",
+     "pos": "n.",
+     "en": "Antibiotics are medicines, such as penicillin, that are used to treat infections caused by bacteria by killing the bacteria or stopping them from growing.",
+     "zh": "抗生素",
+     "ctx": "anti-（对抗）+ bio（生命）＝对抗细菌的东西。全文最“安抚人心”的一句：鼠疫听着像中世纪死神，但它是细菌，而细菌有克星。",
+     "ex1": "In its early stages, plague can be successfully treated with antibiotics. 在发病早期，鼠疫可以通过抗生素成功治愈。",
+     "ex2": "You must finish the whole course of antibiotics, even if you feel better. 你必须把整个疗程的抗生素吃完，哪怕已经感觉好多了。"
+    }
+   ]
+  },
+  {
+   "en_html": "Russian health officials said that Ms. Shipilova had died of pneumonia of unknown <mark class=\"voc\">cause</mark>. While plague can lead to pneumonia, the filling of the lung’s air sacs with fluid, it can have many other causes, including <mark class=\"voc\">seasonal flu</mark>. “Unfortunately, young people can die from pneumonia, so that <mark class=\"voc\">development</mark> alone wouldn’t be enough to <mark class=\"voc\">raise concern</mark>,” said Dr. Tom Inglesby, an epidemiologist at Johns Hopkins Center for Health Security. “What I do think is concerning is the Russian reaction so far.”",
+   "zh": "俄罗斯卫生官员称，希皮洛娃女士死于原因不明的肺炎。虽然鼠疫可导致肺炎——即肺泡被液体充盈——但肺炎还有许多其他成因，包括季节性流感。“遗憾的是，年轻人也会死于肺炎，因此，仅凭这一情况并不足以令人担忧，”约翰斯·霍普金斯健康安全中心的流行病学家汤姆·英格尔斯比博士表示。“我确实认为令人担忧的，是俄罗斯迄今为止的反应。”",
+   "notes": [
+    {
+     "w": "cause",
+     "ipa": "/kɔːz/",
+     "pos": "n. & v.",
+     "en": "As a noun, a cause is the person or thing that makes something happen. As a verb, to cause means to make something, especially something bad, happen.",
+     "zh": "原因；导致",
+     "ctx": "pneumonia of unknown cause 是警察式的语言：官方不说“我们不确定”，而说“原因不明”，把不确定性写进了正式措辞。",
+     "ex1": "The cause of the fire is still unknown. 这场火灾的起火原因仍不明。",
+     "ex2": "Officials said there was no cause for concern about the outbreak. 官员称，此次疫情无需担心。"
+    },
+    {
+     "w": "seasonal flu",
+     "ipa": "/ˈsiːzənl fluː/",
+     "pos": "n.",
+     "en": "Seasonal flu is the type of influenza that regularly occurs at particular times of the year, especially in winter, and spreads from person to person.",
+     "zh": "季节性流感",
+     "ctx": "每年冬春规律流行、见怪不怪的那一种。专家把它抬出来，是为了说明肺炎的成因五花八门，不必一见肺炎就想到鼠疫。",
+     "ex1": "Most cases of pneumonia in winter are linked to seasonal flu. 冬季大多数肺炎病例都与季节性流感有关。",
+     "ex2": "Health officials recommend a seasonal flu vaccine every autumn. 卫生官员建议每年秋天接种季节性流感疫苗。"
+    },
+    {
+     "w": "development",
+     "ipa": "/dɪˈveləpmənt/",
+     "pos": "n.",
+     "en": "A development is a recent event that changes a situation or that is a new stage in it.",
+     "zh": "事态，新情况（熟词僻义）",
+     "ctx": "指“一个年轻人死于肺炎”这件事本身。注意 alone（仅仅）：光凭这一点不够，暗示还有别的点，下一句他就把“别的点”摆出来了。",
+     "ex1": "Police are investigating a new development in the case. 警方正在调查此案的新进展。",
+     "ex2": "This is a worrying development for the whole industry. 这对整个行业来说是个令人担忧的事态。"
+    },
+    {
+     "w": "raise concern",
+     "ipa": "/reɪz kənˈsɜːn/",
+     "pos": "短语",
+     "en": "To raise concern means to cause people to feel worried or to make a problem seem worthy of attention.",
+     "zh": "引发担忧",
+     "ctx": "raise（把某物抬起来）+ concern（担忧）：担忧本来在地平线以下，你把它举起来，大家就都看见了。",
+     "ex1": "The findings raise concerns about the safety of the lab. 这些发现引发了人们对实验室安全的担忧。",
+     "ex2": "The decision has raised serious concerns among health experts. 这一决定已在卫生专家中引发严重担忧。"
+    }
+   ]
+  },
+  {
+   "en_html": "More than 200 people who had been in contact with <mark class=\"voc\">the deceased</mark> were quarantined in local hospitals, and Russian officials have not explained why, Dr. Inglesby said. Nor have they announced the cause of death, if not plague. Lab accidents <mark class=\"voc\">can and do</mark> happen, even when researchers are following safety <mark class=\"voc\">protocols</mark>. But the lack of <mark class=\"voc\">transparency</mark> surrounding the death and the number of people <mark class=\"voc\">potentially</mark> exposed is unusual, other experts said.",
+   "zh": "英格尔斯比博士表示，与死者有过接触的200 余人被隔离在当地医院，而俄罗斯官员并未说明原因。他们也没有公布死因——如果不是鼠疫的话。实验室事故确实会发生，即便研究人员遵循了安全规程。但其他专家表示，围绕这起死亡的透明度缺失，以及可能暴露的人数之多，都非同寻常。",
+   "notes": [
+    {
+     "w": "deceased",
+     "ipa": "/dɪˈsiːst/",
+     "pos": "n. & adj.",
+     "en": "The deceased means the person who has died, especially recently.",
+     "zh": "死者，已故的人；已故的",
+     "ctx": "de-（离开）+ cease（停止）的过去分词。记者不用 the dead 而用 the deceased，因为后者更庄重体面——死的是一个28 岁的姑娘。",
+     "ex1": "The deceased was identified as a 28-year-old researcher. 死者被确认是一名28 岁的研究人员。",
+     "ex2": "Police are still trying to contact the deceased’s relatives. 警方仍在设法联系死者的亲属。"
+    },
+    {
+     "w": "can and do",
+     "ipa": "/kæn ənd duː/",
+     "pos": "并列动词",
+     "en": "“Can and do” means something is possible and in fact happens regularly — it combines possibility with reality.",
+     "zh": "（既可能，又真的会）发生",
+     "ctx": "英文里最有力的“重复”之一：不只说“可能”，还拍上“真的会”。这一句承认事故有其客观性，把矛头从“操作失误”转向“信息不透明”。",
+     "ex1": "Lab accidents can and do happen, even with good protocols. 即便有良好的规程，实验室事故也确实会发生。",
+     "ex2": "Such things can and do occur more often than we think. 这类事情比我们以为的更常发生。"
+    },
+    {
+     "w": "protocol",
+     "ipa": "/ˈprəʊtəkɒl/",
+     "pos": "n.",
+     "en": "A protocol is a set of rules or a fixed plan for how something should be done, especially in science, medicine, or official situations.",
+     "zh": "规程，协议，操作规程",
+     "ctx": "源自希腊语“卷轴最前面那一页”，上面写的就是规矩与格式。一前一后出现两次，成了全文“制度”这条线的关键词。",
+     "ex1": "Researchers were following all the standard safety protocols when the accident happened. 事故发生当时，研究人员遵循的是所有标准安全规程。",
+     "ex2": "Strict protocols govern how dangerous pathogens are handled in the lab. 严格的操作规程规范着实验室里危险病原体的处理方式。"
+    },
+    {
+     "w": "transparency",
+     "ipa": "/trænsˈpærənsi/",
+     "pos": "n.",
+     "en": "Transparency is the quality of being open and honest, so that people can see what is being done and how decisions are made. (Literally, it also means the quality of allowing light to pass through.)",
+     "zh": "透明度，公开性",
+     "ctx": "trans-（穿过）+ par（显现）：看得穿→看得清→没有隐瞒。专家质疑的不是俄方“会不会处理”，而是“说没说”。",
+     "ex1": "Critics blamed the lack of transparency for fuelling public anxiety. 批评者指责透明度缺失加剧了公众焦虑。",
+     "ex2": "The agency promised greater transparency in how it handles such cases. 该机构承诺在处理此类案件时提高透明度。"
+    },
+    {
+     "w": "potentially",
+     "ipa": "/pəˈtenʃəli/",
+     "pos": "adv.",
+     "en": "Potentially means possibly, when something may happen or may be true but is not certain.",
+     "zh": "潜在地，可能地",
+     "ctx": "官方嘴上说“没风险”，行动上却按“可能暴露”的标准隔离了两百人——行动与表态再次对不上。",
+     "ex1": "The substance is potentially harmful to humans. 该物质可能对人体有害。",
+     "ex2": "Hundreds of workers were potentially exposed to the chemical. 数百名工人可能接触了这种化学品。"
+    }
+   ]
+  }
+ ]
+}

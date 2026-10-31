@@ -1,0 +1,469 @@
+{
+ "paragraphs": [
+  {
+   "en_html": "“Something <mark class=\"voc\">is not adding up</mark> about this situation,” said Jennifer Nuzzo, an epidemiologist at Brown University. “You don’t quarantine 200 people for one plague case,” she added. “You don’t close multiple hospital <mark class=\"voc\">units</mark> <mark class=\"voc\">in response to</mark> one infection.”",
+   "zh": "“这件事有点对不上号，”布朗大学的流行病学家珍妮弗·努佐说。“你不会为了一个鼠疫病例去隔离200 个人，”她补充道。“你也不会为了应对一起感染，就关掉好几个医院病区。”",
+   "notes": [
+    {
+     "w": "not add up",
+     "ipa": "/nɒt æd ʌp/",
+     "pos": "习语",
+     "en": "If a situation or a set of facts does not add up, it does not seem reasonable, consistent, or likely to be true.",
+     "zh": "对不上号，讲不通",
+     "ctx": "add up 本是“把数字加起来”；一列数加不出该有的结果，说明中间有错。这句话是全文从“客观报道”转向“集体质疑”的开关。",
+     "ex1": "He says he was at home, but the timeline just doesn’t add up. 他说自己当时在家，但时间线根本对不上。",
+     "ex2": "Something doesn’t add up about the official explanation of the death. 官方对这起死亡的解释，有什么地方说不通。"
+    },
+    {
+     "w": "unit",
+     "ipa": "/ˈjuːnɪt/",
+     "pos": "n.",
+     "en": "As used here, a unit is a part of a hospital that is organized for a particular type of care or treatment (e.g. an intensive care unit). More generally, a unit is a single thing, group, or part that is complete in itself or forms part of a larger whole.",
+     "zh": "病区，科室；单位",
+     "ctx": "典型熟词僻义：日常义是“单位、装置”，医院语境里特指“病区、病房”。读到 hospital units 别误以为是“医院单位”。",
+     "ex1": "The hospital closed two entire units after the infection was confirmed. 感染确诊后，医院关掉了整整两个病区。",
+     "ex2": "She works in the intensive care unit of a large teaching hospital. 她在一所大型教学医院的重症监护室工作。"
+    },
+    {
+     "w": "in response to",
+     "ipa": "/ɪn rɪˈspɒns tə/",
+     "pos": "短语",
+     "en": "“In response to” means as a reaction to something.",
+     "zh": "作为对……的回应，为应对……",
+     "ctx": "标准的“刺激—反应”搭配：前面是反应，后面是刺激。把“一起感染”和“关几个病区”并置，量级不匹配，荒谬感就出来了。",
+     "ex1": "You don’t close multiple hospital units in response to one infection. 你不会为了应对一起感染，就关掉好几个医院病区。",
+     "ex2": "The company issued a statement in response to the criticism. 该公司针对批评发表了一份声明。"
+    }
+   ]
+  },
+  {
+   "en_html": "After an unusual infection like this, health officials often provide the <mark class=\"voc\">genome</mark> <mark class=\"voc\">sequence</mark> of the virus or bacterium <mark class=\"voc\">involved</mark>. This helps researchers <mark class=\"voc\">pinpoint</mark> exactly which pathogen <mark class=\"voc\">is to blame</mark> and how to fight it. Public health experts <mark class=\"voc\">suspect</mark> that Russian officials have already sequenced the pathogen involved in Ms. Shipilova’s death, and they <mark class=\"voc\">wonder</mark> why that information has <mark class=\"voc\">not been made public</mark>. “Without that, the risk is <mark class=\"voc\">uncertain</mark>, and I think we should be <mark class=\"voc\">putting pressure on</mark> Russia to share the genome sequence,” said Dr. Raj Panjabi, a physician and former White House biosecurity official.",
+   "zh": "在发生这样一起异常感染之后，卫生官员通常会公布所涉病毒或细菌的基因组序列。这有助于研究者精确锁定究竟是哪种病原体该为此负责，以及该如何应对。公共卫生专家怀疑，俄方官员已经对希皮洛娃之死所涉的病原体完成了测序，他们不解的是，这些信息为何始终未被公开。“没有这些信息，风险就是不确定的，我认为我们应当向俄罗斯施压，要求其共享基因组序列，”拉杰·潘贾比博士表示。他是一名医生，曾任白宫生物安全官员。",
+   "notes": [
+    {
+     "w": "genome",
+     "ipa": "/ˈdʒiːnəʊm/",
+     "pos": "n.",
+     "en": "A genome is the complete set of genes in a living thing.",
+     "zh": "基因组",
+     "ctx": "gene（基因）+ -ome（整体）＝全部基因的总和。它是病原体的“身份证”：能查出它是谁、有多毒、从哪儿来、怕什么药。",
+     "ex1": "Scientists sequenced the genome of the new virus within days. 科学家们几天内就完成了新病毒的基因组测序。",
+     "ex2": "The genome revealed several mutations linked to drug resistance. 基因组显示出若干与耐药性相关的突变。"
+    },
+    {
+     "w": "sequence",
+     "ipa": "/ˈsiːkwəns/",
+     "pos": "n. & v.",
+     "en": "A sequence is the order in which things happen or are arranged; to sequence means to determine the order of the parts of a DNA or RNA molecule.",
+     "zh": "序列；测序",
+     "ctx": "一个词名动通吃：genome sequence 是“基因组序列”，have already sequenced 是“已经测了序”——英语经济性设计的典型。",
+     "ex1": "They sequenced the virus to trace where it came from. 他们对病毒测序，以追溯其来源。",
+     "ex2": "Investigators are trying to establish the sequence of events. 调查人员正试图还原事件发生的顺序。"
+    },
+    {
+     "w": "involved",
+     "ipa": "/ɪnˈvɒlvd/",
+     "pos": "adj.",
+     "en": "“Involved” here means connected with or taking part in something. It can also mean complicated.",
+     "zh": "牵涉其中的；复杂的",
+     "ctx": "involve 的过去分词作形容词，后置定语把“那一株、那一支”病原体点出来，指向明确。",
+     "ex1": "Experts want to know the exact pathogen involved. 专家想知道牵涉其中的确切病原体。",
+     "ex2": "Several agencies were involved in the investigation. 多个机构参与了这项调查。"
+    },
+    {
+     "w": "pinpoint",
+     "ipa": "/ˈpɪnpɔɪnt/",
+     "pos": "v.",
+     "en": "To pinpoint something means to find or identify it exactly and precisely.",
+     "zh": "精确定位，准确锁定",
+     "ctx": "pin（针）+ point（尖）：用针尖点出来。不是“大概知道”，是“一针点中”。",
+     "ex1": "Sequencing helps researchers pinpoint which pathogen is to blame. 测序有助于研究者精确锁定是哪种病原体该为此负责。",
+     "ex2": "We still cannot pinpoint the exact source of the leak. 我们仍无法精确定位泄漏的确切源头。"
+    },
+    {
+     "w": "to blame",
+     "ipa": "/tə bleɪm/",
+     "pos": "习语",
+     "en": "If someone or something is to blame, they are responsible for something bad that has happened.",
+     "zh": "该负责的，应被归咎的",
+     "ctx": "坑在语态：主动形式表被动意义——不是“去责备”，而是“（该）被怪罪的”。",
+     "ex1": "Experts want to know which pathogen is to blame. 专家想知道是哪种病原体该为此负责。",
+     "ex2": "Who is to blame for the accident? 这起事故该由谁负责？"
+    },
+    {
+     "w": "suspect",
+     "ipa": "/səˈspekt/",
+     "pos": "v. & n.",
+     "en": "If you suspect something, you think it is probably true, especially because of what you know.",
+     "zh": "怀疑（认为很可能属实）；嫌疑人",
+     "ctx": "与 doubt 方向相反：suspect 是“我倾向于相信它是真的”，不是“我不信”。这是中国学生的经典误区。",
+     "ex1": "I suspect he knows more than he is telling us. 我怀疑他知道的比他告诉我们的多。",
+     "ex2": "The police suspect the fire was started deliberately. 警方怀疑这场火是故意放的。"
+    },
+    {
+     "w": "wonder",
+     "ipa": "/ˈwʌndə(r)/",
+     "pos": "v. & n.",
+     "en": "If you wonder about something, you think about it and want to know more, often because you are puzzled.",
+     "zh": "纳闷，想不通；奇迹",
+     "ctx": "不是“好奇”，是“纳闷：为什么这些信息不公开？”——这个“纳闷”就是质疑的另一种说法。",
+     "ex1": "I wonder if you could help me for a moment. 不知您能不能帮我一下。",
+     "ex2": "No wonder he was so tired — he had barely slept. 难怪他那么累——他几乎没睡。"
+    },
+    {
+     "w": "make...public",
+     "ipa": "/meɪk ˈpʌblɪk/",
+     "pos": "短语",
+     "en": "To make something public means to tell the public about it or release it so that anyone can see it.",
+     "zh": "公开，公布",
+     "ctx": "常用被动 has not been made public：不是“没人公开”，而是“没被（俄方）公开”——动作的责任人呼之欲出。",
+     "ex1": "Why has the information not been made public? 这些信息为何没有被公开？",
+     "ex2": "The findings were finally made public last week. 这些发现上周终于公之于众。"
+    },
+    {
+     "w": "uncertain",
+     "ipa": "/ʌnˈsɜːtn/",
+     "pos": "adj.",
+     "en": "If something is uncertain, you do not know it for sure, or it is not clearly decided or known.",
+     "zh": "不确定的",
+     "ctx": "潘贾比把“不确定”和“风险”绑在一起：不确定的不是“有没有危险”，而是“危险有多大”——后者恰恰最让人恐慌。",
+     "ex1": "Without the sequence, the risk remains uncertain. 没有序列，风险就无法确定。",
+     "ex2": "She was uncertain about what to do next. 她不确定接下来该做什么。"
+    },
+    {
+     "w": "put pressure on",
+     "ipa": "/pʊt ˈpreʃə ɒn/",
+     "pos": "短语",
+     "en": "To put pressure on someone means to try to persuade or force them to do something, especially by using influence or argument.",
+     "zh": "向……施压",
+     "ctx": "力度三级：urge（呼吁）< press（催促）< put pressure on（施压）。这里已经升级到外交层面，把数据问题变成了国际议题。",
+     "ex1": "We should be putting pressure on Russia to share the data. 我们应当向俄罗斯施压，要求其共享数据。",
+     "ex2": "The campaign put pressure on the government to act. 这场运动向政府施压，要求其采取行动。"
+    }
+   ]
+  },
+  {
+   "en_html": "“If Y. pestis is confirmed and the <mark class=\"voc\">presentation</mark> was pneumonia, the <mark class=\"voc\">likely</mark> <mark class=\"voc\">route</mark> is <mark class=\"voc\">inhalation</mark> of an infectious <mark class=\"voc\">aerosol</mark> during laboratory work,” said Dr. Tom Frieden, a physician and former director of the Centers for Disease Control and Prevention. But until more information is <mark class=\"voc\">released</mark>, he added, “anyone claiming to know more is guessing.”",
+   "zh": "“如果鼠疫杆菌得到确认，且其临床表现是肺炎，那么最可能的感染途径，就是在实验室工作中吸入感染性气溶胶，”汤姆·弗里登博士说。他是一名医生，曾任美国疾病控制与预防中心主任。但他补充说，在更多信息公布之前，“任何声称了解更多的人，都只是在猜测。”",
+   "notes": [
+    {
+     "w": "presentation",
+     "ipa": "/ˌpriːzenˈteɪʃn/",
+     "pos": "n.",
+     "en": "In medicine, “presentation” means the way a disease or condition shows itself in a patient — the symptoms and signs that appear.",
+     "zh": "临床表现；（日常义）演讲、呈现",
+     "ctx": "全文最“坑”的一个词：按日常义译成“演讲是肺炎”就崩了。医学里 present with fever 是“表现为发热”，名词化就是“临床表现”。",
+     "ex1": "The patient presented with fever and cough. 该患者表现出发热与咳嗽。",
+     "ex2": "The presentation was pneumonia, according to the doctors. 据医生所说，其临床表现是肺炎。"
+    },
+    {
+     "w": "likely",
+     "ipa": "/ˈlaɪkli/",
+     "pos": "adj. & adv.",
+     "en": "If something is likely, it will probably happen or is probably true.",
+     "zh": "很可能的，多半的",
+     "ctx": "给的是一个概率尺度，不是绝对的“会”。弗里登用 likely 而非 is，给自己留了余地：这是概率最高的推断，不是定论。",
+     "ex1": "The likely route of infection is inhalation. 最可能的感染途径是吸入。",
+     "ex2": "Experts say a second case is unlikely but possible. 专家称出现第二例的可能性不大，但不能排除。"
+    },
+    {
+     "w": "route",
+     "ipa": "/ruːt/",
+     "pos": "n.",
+     "en": "A route is a way of getting from one place to another; here, it means the way a disease enters the body.",
+     "zh": "途径，路径",
+     "ctx": "医学语境里指“（感染的）入口”。用 route 把感染写成一个有明确入口的过程：病原体不会凭空进来，它一定沿某条路进来。",
+     "ex1": "Inhalation is the likely route of infection. 吸入是最可能的感染途径。",
+     "ex2": "The disease can spread by several routes. 这种疾病可通过多种途径传播。"
+    },
+    {
+     "w": "inhalation",
+     "ipa": "/ˌɪnhəˈleɪʃn/",
+     "pos": "n.",
+     "en": "Inhalation is the act of breathing something in, such as air, smoke, or infectious particles.",
+     "zh": "吸入",
+     "ctx": "in-（向内）+ hal（呼吸，同 exhale 呼出）：一拆就通。它点出了鼠疫最凶险的形态——肺鼠疫，也是实验室事故最典型的感染方式。",
+     "ex1": "Inhalation of infectious aerosols is the main concern in the lab. 吸入感染性气溶胶是实验室中最主要的隐患。",
+     "ex2": "Smoke inhalation can be fatal. 吸入浓烟可能致命。"
+    },
+    {
+     "w": "aerosol",
+     "ipa": "/ˈeərəsɒl/",
+     "pos": "n.",
+     "en": "An aerosol is a cloud of very small particles of liquid or solid suspended in the air, which can be breathed in.",
+     "zh": "气溶胶",
+     "ctx": "aero-（空气）+ sol（溶液）：悬浮在空气中的微小颗粒。无色无味、肉眼看不见——所以只能“提前防”，不能“事后躲”。",
+     "ex1": "The pathogen may spread through infectious aerosols. 病原体可能通过感染性气溶胶传播。",
+     "ex2": "Aerosols are invisible, which makes them especially dangerous. 气溶胶是肉眼看不见的，因此尤其危险。"
+    },
+    {
+     "w": "release",
+     "ipa": "/rɪˈliːs/",
+     "pos": "v. & n.",
+     "en": "To release something means to let it go free or to make it available to the public.",
+     "zh": "公布，发布；释放",
+     "ctx": "re-（回）+ lease（松开）：由此两义——释放（物体/人）、发布（信息），本文用的是后者。被动 is released 强调信息处于“待公布”状态。",
+     "ex1": "Until more information is released, anyone claiming to know more is guessing. 在更多信息公布之前，任何声称了解更多的人，都只是在猜测。",
+     "ex2": "The government released the report on Monday. 政府于周一公布了这份报告。"
+    }
+   ]
+  },
+  {
+   "en_html": "<mark class=\"voc\">Thanks to</mark> safety protocols and modern <mark class=\"voc\">personal protective equipment</mark>, exposures to pathogens in labs are not common. Y. pestis is a particular concern, Dr. Frieden noted. It requires that laboratories maintain a certain airflow, HEPA <mark class=\"voc\">filtration</mark>, respiratory protection, <mark class=\"voc\">precautions</mark> against aerosols, trained staff members and health <mark class=\"voc\">monitoring</mark>. “Done right, it’s safe,” Dr. Frieden said. “The problem is that ‘done right’ is <mark class=\"voc\">not verifiable</mark>, and it’s not easy.”",
+   "zh": "得益于安全规程和现代个人防护装备，实验室中的病原体暴露并不常见。弗里登博士指出，鼠疫杆菌尤其令人担忧。它要求实验室维持特定的气流、HEPA 过滤、呼吸防护、防气溶胶措施、受过训练的工作人员以及健康监测。“如果做对了，它是安全的，”弗里登博士说。“问题在于，‘做对了’这件事无法被验证，而且它并不容易。”",
+   "notes": [
+    {
+     "w": "thanks to",
+     "ipa": "/ˈθæŋks tə/",
+     "pos": "短语",
+     "en": "“Thanks to” means because of, or as a result of — usually for something good, but sometimes ironically for something bad.",
+     "zh": "多亏，得益于",
+     "ctx": "这里是真的“归功于”：先肯定制度有效，再转折到“但做对了无法验证”。也可反讽地用，如 Thanks to the delay, we missed the train.",
+     "ex1": "Thanks to safety protocols, lab exposures are not common. 得益于安全规程，实验室暴露并不常见。",
+     "ex2": "Thanks to her help, we finished on time. 多亏她帮忙，我们按时完成了。"
+    },
+    {
+     "w": "personal protective equipment",
+     "ipa": "/ˈpɜːsənl prəˈtektɪv ɪˈkwɪpmənt/",
+     "pos": "n.（缩写 PPE）",
+     "en": "Personal protective equipment (PPE) is special clothing or equipment worn to protect the wearer from injury or infection.",
+     "zh": "个人防护装备",
+     "ctx": "医护和实验室人员的“最后一道物理屏障”。与 protocol 并列出现，说明安全靠的是“规矩＋硬件”两条腿。",
+     "ex1": "Thanks to modern PPE, exposures to pathogens are rare. 得益于现代个人防护装备，病原体暴露并不常见。",
+     "ex2": "Hospitals reported a shortage of PPE during the outbreak. 疫情期间医院报告个人防护装备短缺。"
+    },
+    {
+     "w": "filtration",
+     "ipa": "/fɪlˈtreɪʃn/",
+     "pos": "n.",
+     "en": "Filtration is the process of passing a liquid or gas through a filter to remove unwanted substances.",
+     "zh": "过滤",
+     "ctx": "六道防线里的第二道：HEPA 过滤能拦住极微小颗粒，是“气溶胶出不去”的关键保障。",
+     "ex1": "The lab relies on HEPA filtration to remove airborne particles. 该实验室依靠HEPA 过滤去除空气中的微粒。",
+     "ex2": "A good filtration system can trap most bacteria and viruses. 良好的过滤系统能拦截大多数细菌和病毒。"
+    },
+    {
+     "w": "precaution",
+     "ipa": "/prɪˈkɔːʃn/",
+     "pos": "n.",
+     "en": "A precaution is an action taken to prevent something bad from happening.",
+     "zh": "预防措施",
+     "ctx": "pre-（预先）+ caut-（小心）：预先小心。precautions against aerosols 里的 against 表明“针对某种威胁的防范”。",
+     "ex1": "Staff take strict precautions against aerosol exposure. 员工采取严格的防气溶胶措施。",
+     "ex2": "As a precaution, all contacts were monitored for two weeks. 为保险起见，所有接触者都被观察了两周。"
+    },
+    {
+     "w": "monitoring",
+     "ipa": "/ˈmɒnɪtərɪŋ/",
+     "pos": "n.",
+     "en": "Monitoring is the act of regularly checking and observing something over a period of time.",
+     "zh": "监测",
+     "ctx": "六道防线里的最后一道：万一前面五道都失守，健康监测能让感染早发现早治疗，正好回扣第3 段“早治疗能治愈”。",
+     "ex1": "Workers undergo regular health monitoring. 工作人员要接受定期的健康监测。",
+     "ex2": "The agency is monitoring the situation closely. 该机构正密切关注事态。"
+    },
+    {
+     "w": "verifiable",
+     "ipa": "/ˈverɪfaɪəbl/",
+     "pos": "adj.",
+     "en": "Something that is verifiable can be checked or proved to be true.",
+     "zh": "可验证的",
+     "ctx": "全文的词眼：你可以做对，但没法向外面证明你做对了，因为安全发生在关起门之后——这一句把前面八个疑点全解释清楚了。",
+     "ex1": "Claims about safety are only meaningful if they are verifiable. 安全方面的说法只有在可验证时才有意义。",
+     "ex2": "The problem is that the process is not verifiable from the outside. 问题在于，这个过程从外部无法验证。"
+    }
+   ]
+  },
+  {
+   "en_html": "The last time a <mark class=\"voc\">fatal</mark> exposure to Y. pestis occurred in a laboratory environment was in 2009, when Malcolm Casadaban, a biologist at the University of Chicago, died after contact with a <mark class=\"voc\">weakened</mark> form of the bacterium. When accidents do happen, Dr. Panjabi said, it’s important to have a system <mark class=\"voc\">in place</mark> to <mark class=\"voc\">characterize</mark> the outbreak, including how fast the threat is moving, who is <mark class=\"voc\">at risk</mark> and what options are available to <mark class=\"voc\">mitigate</mark> that threat. “The larger issue of <mark class=\"voc\">maintaining</mark> biosafety in <mark class=\"voc\">high consequence</mark> in labs that study dangerous pathogens is a <mark class=\"voc\">national security</mark> issue in every country,” Dr. Panjabi said. “And it needs more attention.”",
+   "zh": "实验室环境中上一次发生致命的鼠疫杆菌暴露，是在2009 年——当时，芝加哥大学的生物学家马尔科姆·卡萨达班在接触了一种减毒形式的该细菌后死亡。潘贾比博士表示，当事故真的发生时，重要的是要有一套到位的系统，用以刻画这次暴发的特征，包括威胁扩散的速度、谁处于风险之中，以及有哪些可用手段能够减轻这一威胁。“在研究危险病原体的高后果实验室中维持生物安全，这个更大的问题，在每个国家都是国家安全问题，”潘贾比博士说。“而且它需要得到更多关注。”",
+   "notes": [
+    {
+     "w": "fatal",
+     "ipa": "/ˈfeɪtl/",
+     "pos": "adj.",
+     "en": "A fatal accident or illness causes someone’s death.",
+     "zh": "致命的，致死的",
+     "ctx": "与 deadly 有别：deadly 强调“这东西本身能致死”，fatal 强调“已经造成了死亡的结果”——这里用的是后者，分量更重。",
+     "ex1": "The crash was fatal for both drivers. 这次撞车对两名司机都是致命的。",
+     "ex2": "Trusting him was a fatal mistake. 信任他是个致命的错误。"
+    },
+    {
+     "w": "weakened",
+     "ipa": "/ˈwiːkənd/",
+     "pos": "adj.",
+     "en": "Weakened means made less strong or less able to cause harm.",
+     "zh": "减毒的，被削弱的",
+     "ctx": "用来做疫苗的“安全版”。可这位科学家接触的正是减毒株，他还是死了——连“削弱版”都能要人命，这是全段最冷的一处反讽。",
+     "ex1": "He died after contact with a weakened strain of the bacterium. 他在接触该细菌的一种减毒株后死亡。",
+     "ex2": "Patients with a weakened immune system are at greater risk. 免疫系统较弱的患者风险更大。"
+    },
+    {
+     "w": "in place",
+     "ipa": "/ɪn pleɪs/",
+     "pos": "短语",
+     "en": "If something is in place, it exists and is ready to be used, or it is in its correct position.",
+     "zh": "（制度、措施）已到位",
+     "ctx": "不只是有，而且是“在位、能随时启动”，比 have 更硬。应急体系的价值在于平时就装好，出事那刻能立刻拉开。",
+     "ex1": "It is important to have a system in place to track outbreaks. 有一套到位的疫情追踪系统很重要。",
+     "ex2": "Safety measures must be put in place before work begins. 开工前必须落实安全措施。"
+    },
+    {
+     "w": "characterize",
+     "ipa": "/ˈkærəktəraɪz/",
+     "pos": "v.",
+     "en": "To characterize something means to describe its typical features or qualities.",
+     "zh": "刻画，描述……的特征",
+     "ctx": "character（特征）+ -ize：描出特征。公共卫生里“刻画”一次暴发，就是摸清它传多快、波及谁、能怎么控。",
+     "ex1": "A good system can characterize the outbreak quickly. 一套好的系统能迅速刻画这次暴发的特征。",
+     "ex2": "The era is characterized by rapid change. 这个时代的特征是变化迅速。"
+    },
+    {
+     "w": "at risk",
+     "ipa": "/ət rɪsk/",
+     "pos": "短语",
+     "en": "If someone is at risk, they are in a situation where they could be harmed or harmed more than others.",
+     "zh": "处于风险之中",
+     "ctx": "把它列进“刻画暴发”的清单，说明应急的核心不只是“控病”，更是“找到最脆弱的人”。",
+     "ex1": "One key question is who is at risk. 一个关键问题是，谁处于风险之中。",
+     "ex2": "Elderly people are especially at risk. 老年人尤其处于风险之中。"
+    },
+    {
+     "w": "mitigate",
+     "ipa": "/ˈmɪtɪɡeɪt/",
+     "pos": "v.",
+     "en": "To mitigate something means to make it less serious, harmful, or severe.",
+     "zh": "减轻，缓解",
+     "ctx": "层次很关键：不是 eliminate（消除），而是“让后果没那么重”——这才是应急响应的真实目标。",
+     "ex1": "What options are available to mitigate the threat? 有哪些可用手段能够减轻这一威胁？",
+     "ex2": "Planting trees can help mitigate climate change. 种树有助于缓解气候变化。"
+    },
+    {
+     "w": "maintain",
+     "ipa": "/meɪnˈteɪn/",
+     "pos": "v.",
+     "en": "To maintain something means to keep it at the same level or in good condition, over time.",
+     "zh": "维持，保持",
+     "ctx": "main（手）+ tain（握持）：用手一直握着。用 maintain 而不是 keep，凸显“维持”要日日坚持、代价高昂。",
+     "ex1": "Maintaining biosafety in such labs is a constant challenge. 在此类实验室中维持生物安全是一项持续的挑战。",
+     "ex2": "It costs a lot to maintain this equipment. 维护这套设备花费不菲。"
+    },
+    {
+     "w": "high-consequence",
+     "ipa": "/haɪ ˈkɒnsɪkwəns/",
+     "pos": "adj.",
+     "en": "High-consequence describes something whose failure would have very serious results.",
+     "zh": "高后果的（一旦出事后果极严重）",
+     "ctx": "指研究“泄漏即造成严重后果”的病原体的高等级实验室——文中原文作 high consequence in labs，属转录时的脱字，正确应为 high-consequence labs。",
+     "ex1": "High-consequence labs require the strictest safety standards. 高后果实验室需要最严格的安全标准。",
+     "ex2": "Regulators focus on high-consequence risks first. 监管者优先关注高后果风险。"
+    },
+    {
+     "w": "national security",
+     "ipa": "/ˈnæʃnəl sɪˈkjʊərəti/",
+     "pos": "n.",
+     "en": "National security means the protection of a country’s safety, including its people, territory, and institutions.",
+     "zh": "国家安全",
+     "ctx": "全文最后的“锚”：把实验室生物安全从一个“操作问题”一举升格为“每个国家的国家安全问题”，文章在这里落定。",
+     "ex1": "Biosafety in high-consequence labs is a national security issue. 高后果实验室的生物安全是一个国家安全问题。",
+     "ex2": "The leak was treated as a national security threat. 这次泄漏被当作国家安全威胁来处理。"
+    }
+   ]
+  }
+ ],
+ "proper": [
+  {
+   "name": "Yersinia pestis / 鼠疫耶尔森菌",
+   "def": "鼠疫的病原体。1894 年中国香港暴发鼠疫时，瑞士裔法国医生亚历山大·耶尔森（Alexandre Yersin）在临时实验室里分离出这种细菌，学名以其姓氏命名（Yersin + -ia），pestis 为拉丁语“瘟疫”。它是人类历史上最致命的病原体之一，引发了黑死病与查士丁尼瘟疫。<br>本文中的意思：全文的“嫌疑人”——既是被研究的对象，也是被怀疑的死因；理解了名字的来历，才明白一个 1894 年在香港鉴定的细菌，为什么会出现在西伯利亚的一份死亡通报里。"
+  },
+  {
+   "name": "the Black Death / 黑死病",
+   "def": "1347 至 1351 年横扫欧洲的大瘟疫，一般被认为由鼠疫杆菌引起，经跳蚤传播。四年内夺走欧洲约三分之一至二分之一的人口（主流估算 2500 万至 5000 万人）。“黑”一般认为来自患者身上的黑色肿块与皮肤坏死，也有人说来自当时人心中的“黑色恐怖”。<br>本文中的意思：证明“鼠疫曾经有多可怕”的第一个历史坐标——它不是“一种严重的病”，而是“人类历史上最致命的大流行之一”。"
+  },
+  {
+   "name": "the Plague of Justinian / 查士丁尼瘟疫",
+   "def": "公元 541 年起始于拜占庭帝国（东罗马帝国）的大瘟疫，因在位皇帝查士丁尼一世而得名。查士丁尼本人也感染了鼠疫但活了下来。这场瘟疫在地中海世界反复流行两百多年，许多历史学家认为它是拜占庭帝国由盛转衰的关键原因之一。<br>本文中的意思：第二个历史坐标——它把“一场病”和“一个帝国的兴衰”连在一起，为全文最后一句“公共卫生是每个国家的国家安全问题”埋下伏笔。"
+  },
+  {
+   "name": "Irkutsk Anti-Plague Research Institute / 伊尔库茨克抗鼠疫研究所",
+   "def": "全称 Irkutsk Anti-Plague Research Institute of Siberia and the Far East，位于俄罗斯西伯利亚东部伊尔库茨克地区（邻近贝加尔湖）。“抗鼠疫研究所”是苏联时期建立的、专门研究鼠疫等“特别危险传染病”的防疫研究网络的一部分，历史可追溯到沙皇时期与苏联早期防疫体系。<br>本文中的意思：事件发生地。“Anti-Plague”这几个字本身就在提示：这里研究的是可能被武器化的病原体，与第 2 段的苏联生物武器史严丝合缝。"
+  },
+  {
+   "name": "Siberia / 西伯利亚",
+   "def": "俄罗斯亚洲部分，面积占俄罗斯国土的大半，地广人稀、气候严寒。在西方叙事中长期与“偏远、神秘、严酷”联系在一起。<br>本文中的意思：文章反复用 in Siberia 来定位——除了地理事实，这个词还自带一种“遥远而陌生”的氛围，强化了“那里的消息很难被核实”的感觉。"
+  },
+  {
+   "name": "the Soviet Union / 苏联",
+   "def": "1922 至 1991 年存在的社会主义国家联盟，冷战时期与美国并列为超级大国。在生物武器领域，苏联曾运营过一个规模庞大的秘密计划。<br>本文中的意思：全文所有“紧张”的来源——记者专门提苏联“long history of advanced bioweapons research”，不是翻旧账，而是解释“为什么一个实验室的死亡能让全球紧张”。"
+  },
+  {
+   "name": "Biopreparat / 苏联生物武器计划",
+   "def": "1973 年成立的苏联秘密生物武器研发体系，名义上是“民用生物技术研究”。鼎盛时期涉及数万名科学家、分布在几十个研究机构，研究对象包括武器化的天花、炭疽、鼠疫、埃博拉、马堡病毒。它把军事研究伪装成“疫苗厂”“农业研究所”。<br>本文中的意思：记者没写出来的那层信息——全世界怕的不是一个实验室出事，而是这个实验室可能是从“一整套秘密生物武器计划”里长出来的。"
+  },
+  {
+   "name": "Sverdlovsk anthrax leak / 斯维尔德洛夫斯克炭疽泄漏",
+   "def": "1979 年 4 月 2 日，苏联斯维尔德洛夫斯克（今叶卡捷琳堡）一家军事设施因未更换炭疽芽孢过滤器，芽孢随风飘出厂区，下风向居民出现吸入性炭疽，至少 66 人死亡。苏联官方当时谎称是“变质肉类”引起的肠胃型炭疽，直到 1992 年叶利钦才正式承认这是军事设施泄漏。<br>本文中的意思：理解“全球为什么不信任俄罗斯”的关键——一个国家在生物安全问题上撒过谎、瞒了十几年，会永久性降低它后来所有声明的可信度。"
+  },
+  {
+   "name": "anthrax / 炭疽",
+   "def": "由炭疽杆菌引起的传染病，可通过皮肤、消化道、呼吸道感染。吸入性炭疽最凶险，也正因此成为生物武器的经典研究对象。<br>本文中的意思：文章用“苏联历史导致炭疽和天花的暴发”来支撑“全球担忧的合理性”。"
+  },
+  {
+   "name": "smallpox / 天花",
+   "def": "由天花病毒引起的烈性传染病。1980 年世界卫生组织宣布天花在全球被消灭，这是人类医学史上最伟大的成就之一。但苏联在此之后仍继续研究武器化天花。<br>本文中的意思：全文最有冲击力的历史细节之一——“全世界刚刚庆祝完天花消失，某个超级大国的实验室里，天花还活着”。"
+  },
+  {
+   "name": "World Health Organization (W.H.O.) / 世界卫生组织",
+   "def": "联合国下属的国际公共卫生机构，成立于 1948 年，总部在日内瓦，负责全球疾病监测、公共卫生应急与国际卫生规则的执行。根据《国际卫生条例》，成员国发生特定公共卫生事件时有义务向 WHO 通报信息。<br>本文中的意思：它向俄方“索要信息”这个动作本身就是信号——WHO 平时说话极其克制，一开口要信息，说明它觉得不对劲。"
+  },
+  {
+   "name": "Johns Hopkins Center for Health Security / 约翰斯·霍普金斯健康安全中心",
+   "def": "约翰斯·霍普金斯大学（位于美国马里兰州巴尔的摩）是公共卫生领域的全球顶尖学府，其健康安全中心专注生物安全、流行病防范与公共卫生应急研究。新冠期间被广泛引用的全球疫情地图即由该校制作。<br>本文中的意思：专家英格尔斯比（Tom Inglesby）的所属机构；新闻里点出专家所在机构，是为了给他的话“加分量”，这是信源分级的一部分。"
+  },
+  {
+   "name": "Brown University / 布朗大学",
+   "def": "美国常春藤盟校之一，位于罗德岛州普罗维登斯，以本科教育和跨学科研究著称。<br>本文中的意思：专家努佐（Jennifer Nuzzo）的所属机构。她说的那句 Something is not adding up 是全文的情绪引爆点。"
+  },
+  {
+   "name": "Tom Frieden / 汤姆·弗里登",
+   "def": "美国医生、公共卫生专家，曾任美国疾病控制与预防中心（CDC）主任（2014 至 2017 年），任内处理过埃博拉、寨卡等重大疫情。注意文章写的是 former director（前主任）——former 是“前任”，不是“已故”。<br>本文中的意思：文章请出的“分量最重”的专家：他给出技术推断（吸入气溶胶），随后补上一句最克制的话——“谁声称知道更多，谁就是在猜”。"
+  },
+  {
+   "name": "Centers for Disease Control and Prevention (CDC) / 美国疾病控制与预防中心",
+   "def": "美国联邦政府负责传染病防控与公共卫生应急的核心机构，总部在亚特兰大，掌握全美传染病监测网络、实验室体系与疫苗分发，其主任有权在疫情暴发时向全国发出警报。<br>本文中的意思：它不是学术头衔，是“权力位置”——文章让“前 CDC 主任”来做技术判断，是在给这个推断做最权威的背书。"
+  },
+  {
+   "name": "Raj Panjabi / 拉杰·潘贾比",
+   "def": "美国医生，曾任白宫生物安全与全球卫生安全高级官员，长期从事全球卫生与疫情应对工作。<br>本文中的意思：文章最后一位发言的专家，也是“落点”的提出者——他要求俄方共享基因序列，并把问题上升到“每个国家的国家安全”。"
+  },
+  {
+   "name": "genome sequence / 基因组序列",
+   "def": "一个生物体全部基因的排列顺序。测定病原体的基因组序列，能确定它是什么、有多强的致病性、来自哪里、对哪些药物敏感。现代基因测序成本极低、速度快，已成为不明感染事件的标准操作。<br>本文中的意思：全文的“麦高芬”（关键证据）——专家怀疑俄方已经测序却不公布。它就是病原体的“身份证”：没有它只能猜，有了它才能定案。"
+  },
+  {
+   "name": "HEPA / 高效空气过滤器",
+   "def": "HEPA = High-Efficiency Particulate Air（filter），能过滤掉 0.3 微米颗粒的 99.97% 以上，医院隔离病房、实验室、空气净化器都用它。<br>本文中的意思：实验室安全六道防线中的第二道——它是“气溶胶出不去”的关键保障，也是文中列举的防护措施里最“技术”的一个。"
+  }
+ ],
+ "sources_note": "资料核对：以上背景依据文章内容，并参考 The New York Times、世界卫生组织（WHO）、美国疾病控制与预防中心（CDC）、约翰斯·霍普金斯健康安全中心及 Biopreparat 相关公开史料。",
+ "practice": {
+  "intro": "请根据今天学习的外刊，把下面的中文句子翻译成英文。要求：尽量用上本文的核心表达，可以适当改变词形，但不要直接照抄原文。",
+  "items": [
+   "在西伯利亚一家研究实验室，一名28 岁的工作人员近日死于肺炎。这家机构的研究对象包括鼠疫，以及其他多种病原体。",
+   "但是，俄罗斯卫生官员迄今为止尚未将这名工作人员的死亡，与鼠疫耶尔森菌（即引发鼠疫的细菌）的感染联系起来。",
+   "作为一种肺部感染，鼠疫具有接触传染性，但其传染力不及某些其他呼吸道感染。在发病早期，鼠疫可以通过抗生素成功治愈。",
+   "“遗憾的是，年轻人也会死于肺炎，因此，仅凭这一情况并不足以令人担忧，”约翰斯·霍普金斯健康安全中心的流行病学家汤姆·英格尔斯比博士表示。“我确实认为令人担忧的，是俄罗斯迄今为止的反应。”",
+   "“这件事有点对不上号，”布朗大学的流行病学家珍妮弗·努佐说。“你不会为了一个鼠疫病例去隔离200 个人，”她补充道。“你也不会为了应对一起感染，就关掉好几个医院病区。”",
+   "“如果鼠疫杆菌得到确认，且其临床表现是肺炎，那么最可能的感染途径，就是在实验室工作中吸入感染性气溶胶，”汤姆·弗里登博士说。“问题在于，‘做对了’这件事无法被验证，而且它并不容易。”"
+  ],
+  "critical_en": "If a country will not share the genome sequence of a pathogen, should the world treat that silence as a public-health threat, or as a sovereign right?",
+  "critical_zh": "如果一个国家拒绝共享病原体的基因组序列，外界该把这种沉默当成公共卫生威胁，还是当成它的主权权利？",
+  "answer": "1. A 28-year-old worker at a research laboratory in Siberia recently died of pneumonia. The facility studies plague, among other pathogens.<br><br>2. But Russian health officials so far have not linked the death of the worker, Darya Shipilova, to infection with Yersinia pestis, the bacterium that causes plague.<br><br>3. As a lung infection, plague is contagious, although not as infectious as some other respiratory infections. In its early stages, plague can be successfully treated with antibiotics.<br><br>4. “Unfortunately, young people can die from pneumonia, so that development alone wouldn’t be enough to raise concern,” said Dr. Tom Inglesby, an epidemiologist at Johns Hopkins Center for Health Security. “What I do think is concerning is the Russian reaction so far.”<br><br>5. “Something is not adding up about this situation,” said Jennifer Nuzzo, an epidemiologist at Brown University. “You don’t quarantine 200 people for one plague case,” she added. “You don’t close multiple hospital units in response to one infection.”<br><br>6. “If Y. pestis is confirmed and the presentation was pneumonia, the likely route is inhalation of an infectious aerosol during laboratory work,” said Dr. Tom Frieden, a physician and former director of the Centers for Disease Control and Prevention. “The problem is that ‘done right’ is not verifiable, and it’s not easy.”"
+ },
+ "mindmap": {
+  "aria": "俄罗斯鼠疫风波与专家疑问文章思维导图",
+  "alt": "俄罗斯鼠疫风波（手绘版）",
+  "svg": "<svg viewBox=\"0 0 960 720\" xmlns=\"http://www.w3.org/2000/svg\" role=\"img\" aria-label=\"俄罗斯鼠疫风波与专家疑问文章思维导图\" style=\"width:100%;height:auto;font-family:-apple-system,'PingFang SC','Hiragino Sans GB','Microsoft YaHei',sans-serif\">\n        <rect x=\"24\" y=\"306\" width=\"176\" height=\"88\" rx=\"14\" fill=\"#eae3d2\" stroke=\"#9a8f76\"/>\n        <text x=\"112\" y=\"342\" text-anchor=\"middle\" fill=\"#3d3a34\" font-size=\"17\" font-weight=\"700\">俄罗斯鼠疫风波</text>\n        <text x=\"112\" y=\"368\" text-anchor=\"middle\" fill=\"#5c5648\" font-size=\"12.5\">专家到底想知道什么</text>\n\n        <path d=\"M200,350 C232,350 232,88 260,88\"  stroke=\"#6b8f71\" stroke-width=\"2\" fill=\"none\"/>\n        <path d=\"M200,350 C232,350 232,238 260,238\" stroke=\"#7d98ad\" stroke-width=\"2\" fill=\"none\"/>\n        <path d=\"M200,350 C232,350 232,433 260,433\" stroke=\"#bd7a6d\" stroke-width=\"2\" fill=\"none\"/>\n        <path d=\"M200,350 C232,350 232,628 260,628\" stroke=\"#9b86b3\" stroke-width=\"2\" fill=\"none\"/>\n\n        <g class=\"mm-branch\" data-target=\"bc1\">\n          <rect x=\"260\" y=\"71\" width=\"190\" height=\"34\" rx=\"8\" fill=\"#e6efe7\" stroke=\"#6b8f71\"/>\n          <text x=\"349\" y=\"93\" text-anchor=\"middle\" fill=\"#4c6b52\" font-size=\"15\" font-weight=\"700\">死亡与苏联阴影（¶1–2）</text>\n          <text class=\"mm-arrow\" data-for=\"bc1\" x=\"442\" y=\"93\" text-anchor=\"end\" fill=\"#4c6b52\">▾</text>\n        </g>\n        <g class=\"mm-children\" id=\"bc1\">\n          <path d=\"M450,88 C462,88 462,46 480,46\" stroke=\"#6b8f71\" stroke-width=\"1.5\" fill=\"none\"/>\n          <path d=\"M450,88 C462,88 462,88 480,88\" stroke=\"#6b8f71\" stroke-width=\"1.5\" fill=\"none\"/>\n          <path d=\"M450,88 C462,88 462,130 480,130\" stroke=\"#6b8f71\" stroke-width=\"1.5\" fill=\"none\"/>\n          <rect x=\"480\" y=\"30\" width=\"456\" height=\"32\" rx=\"8\" fill=\"#e6efe7\"/><text x=\"492\" y=\"51\" fill=\"#3d3a34\" font-size=\"14\">28 岁研究人员死于肺炎，死因尚未认定</text>\n          <rect x=\"480\" y=\"72\" width=\"456\" height=\"32\" rx=\"8\" fill=\"#e6efe7\"/><text x=\"492\" y=\"93\" fill=\"#3d3a34\" font-size=\"14\">苏联生物武器史曾导致炭疽与天花暴发</text>\n          <rect x=\"480\" y=\"114\" width=\"456\" height=\"32\" rx=\"8\" fill=\"#e6efe7\"/><text x=\"492\" y=\"135\" fill=\"#3d3a34\" font-size=\"14\">WHO 索要信息，川总要与普京通话</text>\n        </g>\n\n        <g class=\"mm-branch\" data-target=\"bc2\">\n          <rect x=\"260\" y=\"221\" width=\"190\" height=\"34\" rx=\"8\" fill=\"#e5edf4\" stroke=\"#7d98ad\"/>\n          <text x=\"349\" y=\"243\" text-anchor=\"middle\" fill=\"#3d5872\" font-size=\"15\" font-weight=\"700\">鼠疫是什么（¶3–4）</text>\n          <text class=\"mm-arrow\" data-for=\"bc2\" x=\"442\" y=\"243\" text-anchor=\"end\" fill=\"#3d5872\">▾</text>\n        </g>\n        <g class=\"mm-children\" id=\"bc2\">\n          <path d=\"M450,238 C462,238 462,196 480,196\" stroke=\"#7d98ad\" stroke-width=\"1.5\" fill=\"none\"/>\n          <path d=\"M450,238 C462,238 462,238 480,238\" stroke=\"#7d98ad\" stroke-width=\"1.5\" fill=\"none\"/>\n          <path d=\"M450,238 C462,238 462,280 480,280\" stroke=\"#7d98ad\" stroke-width=\"1.5\" fill=\"none\"/>\n          <rect x=\"480\" y=\"180\" width=\"456\" height=\"32\" rx=\"8\" fill=\"#e5edf4\"/><text x=\"492\" y=\"201\" fill=\"#3d3a34\" font-size=\"14\">两次最致命大流行：黑死病、查士丁尼瘟疫</text>\n          <rect x=\"480\" y=\"222\" width=\"456\" height=\"32\" rx=\"8\" fill=\"#e5edf4\"/><text x=\"492\" y=\"243\" fill=\"#3d3a34\" font-size=\"14\">接触传染，但传染力不及其他呼吸道感染</text>\n          <rect x=\"480\" y=\"264\" width=\"456\" height=\"32\" rx=\"8\" fill=\"#e5edf4\"/><text x=\"492\" y=\"285\" fill=\"#3d3a34\" font-size=\"14\">早用抗生素可治愈，单凭肺炎不足以担忧</text>\n        </g>\n\n        <g class=\"mm-branch\" data-target=\"bc3\">\n          <rect x=\"260\" y=\"416\" width=\"190\" height=\"34\" rx=\"8\" fill=\"#f4e7e4\" stroke=\"#bd7a6d\"/>\n          <text x=\"349\" y=\"438\" text-anchor=\"middle\" fill=\"#7c4a3e\" font-size=\"15\" font-weight=\"700\">三处对不上（¶5–7）</text>\n          <text class=\"mm-arrow\" data-for=\"bc3\" x=\"442\" y=\"438\" text-anchor=\"end\" fill=\"#7c4a3e\">▾</text>\n        </g>\n        <g class=\"mm-children\" id=\"bc3\">\n          <path d=\"M450,433 C462,433 462,391 480,391\" stroke=\"#bd7a6d\" stroke-width=\"1.5\" fill=\"none\"/>\n          <path d=\"M450,433 C462,433 462,433 480,433\" stroke=\"#bd7a6d\" stroke-width=\"1.5\" fill=\"none\"/>\n          <path d=\"M450,433 C462,433 462,475 480,475\" stroke=\"#bd7a6d\" stroke-width=\"1.5\" fill=\"none\"/>\n          <rect x=\"480\" y=\"375\" width=\"456\" height=\"32\" rx=\"8\" fill=\"#f4e7e4\"/><text x=\"492\" y=\"396\" fill=\"#3d3a34\" font-size=\"14\">隔离 200 余人、关多个病区，却不公布死因</text>\n          <rect x=\"480\" y=\"417\" width=\"456\" height=\"32\" rx=\"8\" fill=\"#f4e7e4\"/><text x=\"492\" y=\"438\" fill=\"#3d3a34\" font-size=\"14\">专家：不会为一个病例做到这个地步</text>\n          <rect x=\"480\" y=\"459\" width=\"456\" height=\"32\" rx=\"8\" fill=\"#f4e7e4\"/><text x=\"492\" y=\"480\" fill=\"#3d3a34\" font-size=\"14\">要基因组序列：没有它，风险就是不确定</text>\n        </g>\n\n        <g class=\"mm-branch\" data-target=\"bc4\">\n          <rect x=\"260\" y=\"611\" width=\"190\" height=\"34\" rx=\"8\" fill=\"#ece4f2\" stroke=\"#9b86b3\"/>\n          <text x=\"349\" y=\"633\" text-anchor=\"middle\" fill=\"#5a4670\" font-size=\"15\" font-weight=\"700\">途径与国安（¶8–10）</text>\n          <text class=\"mm-arrow\" data-for=\"bc4\" x=\"442\" y=\"633\" text-anchor=\"end\" fill=\"#5a4670\">▾</text>\n        </g>\n        <g class=\"mm-children\" id=\"bc4\">\n          <path d=\"M450,628 C462,628 462,586 480,586\" stroke=\"#9b86b3\" stroke-width=\"1.5\" fill=\"none\"/>\n          <path d=\"M450,628 C462,628 462,628 480,628\" stroke=\"#9b86b3\" stroke-width=\"1.5\" fill=\"none\"/>\n          <path d=\"M450,628 C462,628 462,670 480,670\" stroke=\"#9b86b3\" stroke-width=\"1.5\" fill=\"none\"/>\n          <rect x=\"480\" y=\"570\" width=\"456\" height=\"32\" rx=\"8\" fill=\"#ece4f2\"/><text x=\"492\" y=\"591\" fill=\"#3d3a34\" font-size=\"14\">最可能：实验室工作中吸入感染性气溶胶</text>\n          <rect x=\"480\" y=\"612\" width=\"456\" height=\"32\" rx=\"8\" fill=\"#ece4f2\"/><text x=\"492\" y=\"633\" fill=\"#3d3a34\" font-size=\"14\">六道防线：气流、HEPA、呼吸防护、监测</text>\n          <rect x=\"480\" y=\"654\" width=\"456\" height=\"32\" rx=\"8\" fill=\"#ece4f2\"/><text x=\"492\" y=\"675\" fill=\"#3d3a34\" font-size=\"14\">做对了也难验证 → 生物安全即国家安全</text>\n        </g>\n      </svg>",
+  "img": ""
+ }
+}
