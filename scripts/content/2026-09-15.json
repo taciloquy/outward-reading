@@ -1,0 +1,829 @@
+{
+ "date": "2026-09-15",
+ "title_tag": "科技新贵正被\"暴富综合症\"折磨—— 美国彭博社外刊讲解第1168天",
+ "h1": "科技新贵正被\"暴富综合症\"折磨",
+ "source_label": "Bloomberg",
+ "category": "美国彭博社外刊讲解 第1168天",
+ "read_minutes": 18,
+ "nav_hint": "Tech’s New Rich and Sudden Wealth",
+ "headline": {
+  "en_html": "<span>Tech’s New <mark class=\"voc\">Rich</mark> Are <mark class=\"voc\">Suffering From</mark> ‘Sudden Wealth <mark class=\"voc\">Syndrome</mark>’</span> — <span>A growing <mark class=\"voc\">post-</mark><mark class=\"voc\">exit</mark> ecosystem is helping founders deal with the unexpected difficulties of becoming extremely wealthy.</span>",
+  "zh": "科技新贵正被\"暴富综合症\"折磨——一个日渐成熟的\"退出后\"生态正在兴起，帮这些创始人应对突然暴富带来的、他们从没想过的麻烦。",
+  "notes": [
+   {
+    "w": "rich",
+    "ipa": "/rɪtʃ/",
+    "pos": "n.（the + adj. 表一类人）",
+    "en": "the rich means people who have a lot of money or assets, considered as a group",
+    "zh": "本义为\"富有的\"（形容词），英语语法语境核心义为\"the + 形容词构成名词性短语，指代某一类人，作主语时谓语用复数\"",
+    "ctx": "Tech’s New Rich 指科技行业里新近暴富的一批创业者和早期员工，是一个群体概念。",
+    "ex1": "The rich are increasingly choosing to give away their fortunes while still alive. 富人越来越倾向于在生前就把财富捐出去。",
+    "ex2": "Policies that only help the wealthy tend to widen the gap with the working poor. 只帮助富人的政策往往会拉大他们与在职穷人之间的差距。"
+   },
+   {
+    "w": "suffer from",
+    "ipa": "/ˈsʌfə frəm/",
+    "pos": "固定短语",
+    "en": "suffer from means to be badly affected by an illness, a condition or a long-term problem",
+    "zh": "本义为\"承受、遭受\"，医疗与心理健康语境核心义为\"患有（某种疾病或综合症）、长期受某种状况折磨\"",
+    "ctx": "作者把“暴富”框定为一种病症，与后文 syndrome 呼应，制造“有钱居然是种病”的反讽。",
+    "ex1": "Nearly a third of founders in the survey admitted they suffer from chronic anxiety. 调查中有近三分之一的创始人承认自己长期受焦虑困扰。",
+    "ex2": "The region's factories suffer from a persistent shortage of skilled labor. 该地区的工厂长期受制于熟练工人短缺。"
+   },
+   {
+    "w": "syndrome",
+    "ipa": "/ˈsɪndrəʊm/",
+    "pos": "n.",
+    "en": "syndrome means a group of symptoms or behaviours that consistently occur together and characterize a particular condition",
+    "zh": "本义为\"一组同时出现的症状\"（syn-「一起」+ -drome「跑」，字面即\"一群症状一起跑出来\"），心理学与社会现象语境核心义为\"综合症，即一整套固定同时出现的反应模式\"",
+    "ctx": "sudden wealth syndrome 指创始人短时间内巨额致富后出现的焦虑、身份混乱、空虚、人际疏离等一整套反应。",
+    "ex1": "Impostor syndrome is remarkably common among first-time chief executives.\" 冒充者综合症\"在首次担任CEO的人当中极为常见。",
+    "ex2": "Analysts describe the sell-off as a classic syndrome of late-cycle market euphoria. 分析师形容这轮抛售是周期末段市场狂热的典型症候。"
+   },
+   {
+    "w": "post-",
+    "ipa": "/pəʊst/",
+    "pos": "前缀",
+    "en": "post- means after, later than",
+    "zh": "本义为\"在……之后\"（拉丁语post），时间与阶段划分语境核心义为\"某一阶段结束之后的\"",
+    "ctx": "post-exit 指“卖掉公司之后”的人生阶段，post-economic 则指不必再为钱工作的状态。",
+    "ex1": "The post-merger integration turned out to be far messier than either side expected. 并购之后的整合，比双方预想的都要混乱得多。",
+    "ex2": "A whole industry of coaches has sprung up to serve post-exit entrepreneurs. 围绕\"退出后\"创业者，已经冒出了一整个教练行业。"
+   },
+   {
+    "w": "exit",
+    "ipa": "/ˈeksɪt/",
+    "pos": "n.",
+    "en": "exit means the sale of a company or its flotation on a stock market, through which founders and investors convert their shares into cash",
+    "zh": "本义为\"出口、离开\"，创业投资与并购语境核心义为\"退出、套现离场，即通过被收购或上市把股权变成现金的那个时刻\"",
+    "ctx": "贯穿全文的核心概念：把公司卖掉、一次性拿到巨额现金的那场交易。",
+    "ex1": "After a decade of building, the team finally secured an all-cash exit to a strategic buyer. 苦干十年之后，团队终于向一家战略买家实现了全现金退出。",
+    "ex2": "Most investors want to see a credible exit strategy before writing a check. 大多数投资人在掏钱之前，都想先看到一条可信的退出路径。"
+   }
+  ]
+ },
+ "paragraphs": [
+  {
+   "en_html": "It was the kind of exit every entrepreneur dreams about. Anastasia Koroleva and her husband sold for <mark class=\"voc\">nine figures</mark>: 100% cash on Day 1, zero <mark class=\"voc\">earnouts</mark>, <mark class=\"voc\">no strings attached</mark>. But what followed <mark class=\"voc\">blindsided</mark> the founder. Instead of the <mark class=\"voc\">soft life</mark> she’d expected, Koroleva found herself dealing with years of <mark class=\"voc\">unease</mark> and a painful divorce.",
+   "zh": "那是每个创业者做梦都想要的退出：Anastasia Koroleva 和丈夫把公司卖了个九位数——第一天全款现金到账，没有一分钱对赌尾款，不附带任何条件。可接下来发生的一切，却从她完全没设防的那一侧撞了过来。她等来的不是想象中那种松弛人生，而是长达数年的心神不宁，和一场痛苦的离婚。",
+   "notes": [
+    {
+     "w": "nine figures",
+     "ipa": "/naɪn ˈfɪɡəz/",
+     "pos": "固定短语",
+     "en": "nine figures means an amount of money containing nine digits, that is, at least one hundred million",
+     "zh": "本义为\"九个数字位\"，财富量级描述语境核心义为\"九位数，即一亿（美元）以上的金额\"",
+     "ctx": "Koroleva 夫妇把公司卖出一亿美元以上，且全部为现金。",
+     "ex1": "She turned down a seven-figure offer because the buyer insisted on a three-year lock-up. 她拒绝了一份七位数的报价，因为买方坚持要她锁定三年。",
+     "ex2": "Top AI researchers are now commanding eight-figure pay packages. 顶尖AI研究员如今的薪酬方案已经开到了八位数。"
+    },
+    {
+     "w": "earnout",
+     "ipa": "/ˈɜːnaʊt/",
+     "pos": "n.",
+     "en": "earnout means a portion of an acquisition price that is paid only if the acquired business meets agreed performance targets after the deal closes",
+     "zh": "本义为\"要再挣一次才能兑现出来的钱\"，并购交易结构语境核心义为\"对赌尾款，即买方押后支付、以未来业绩为条件的那部分收购价\"",
+     "ctx": "zero earnouts 意味着一分钱都没被押后，她不必留在公司熬业绩，是并购里极罕见的优厚条件。",
+     "ex1": "Half the purchase price was structured as an earnout tied to three years of revenue growth. 收购价的一半被设计成对赌尾款，与未来三年的营收增长挂钩。",
+     "ex2": "Founders often underestimate how painful a long earnout period can be. 创始人常常低估漫长的对赌期有多难熬。"
+    },
+    {
+     "w": "no strings attached",
+     "ipa": "/nəʊ strɪŋz əˈtætʃt/",
+     "pos": "固定短语",
+     "en": "no strings attached means without any special conditions, obligations or hidden restrictions",
+     "zh": "本义为\"没有绳子牵着\"（源自提线木偶的意象），交易与人际关系语境核心义为\"无任何附加条件、不受任何牵制\"",
+     "ctx": "这笔交易不附带任何后续义务，签完字即可彻底抽身。",
+     "ex1": "The grant comes with no strings attached, which is rare for government funding. 这笔拨款不附带任何条件，这在政府资金里很少见。",
+     "ex2": "He learned the hard way that family loans always come with strings attached. 他吃了亏才明白，家里借的钱从来都是有条件的。"
+    },
+    {
+     "w": "blindside",
+     "ipa": "/ˈblaɪndsaɪd/",
+     "pos": "v.（过去式/过去分词blindsided）",
+     "en": "blindside means to strike or surprise someone from a direction they are not watching, leaving them no chance to prepare",
+     "zh": "本义为\"从对方视线盲区的一侧撞击\"（源自橄榄球中四分卫背后无法看见的那一侧），突发打击与心理冲击语境核心义为\"打得人措手不及、从完全没设防的地方击中\"",
+     "ctx": "她的准备全在“如何成功卖掉公司”上，崩塌却来自她从未设防的方向。",
+     "ex1": "Investors were blindsided by the sudden resignation of the chief financial officer. 首席财务官突然辞职，把投资人打了个措手不及。",
+     "ex2": "The regulator's decision blindsided an industry that had assumed approval was routine. 监管机构的这一决定，让原本以为审批只是走过场的整个行业措手不及。"
+    },
+    {
+     "w": "soft life",
+     "ipa": "/sɒft laɪf/",
+     "pos": "固定短语（当代流行语）",
+     "en": "soft life means a way of living that is deliberately free from struggle, pressure and financial strain",
+     "zh": "本义为\"柔软的生活\"，生活方式与社交媒体语境核心义为\"松弛人生，即不必拼命、不必为钱发愁、刻意远离内耗的生活状态\"",
+     "ctx": "她卖公司前设想的松弛退休生活，与实际的数年不安形成反差。",
+     "ex1": "After fifteen years of eighty-hour weeks, she said she had earned a soft life. 在每周工作八十小时熬了十五年之后，她说自己有资格过松弛的日子了。",
+     "ex2": "The soft life he imagined lasted about four months. 他想象中的那种松弛人生，大约持续了四个月。"
+    },
+    {
+     "w": "unease",
+     "ipa": "/ʌnˈiːz/",
+     "pos": "n.",
+     "en": "unease means a feeling of anxiety or discomfort that is persistent but hard to name",
+     "zh": "本义为\"不自在、不安\"（un- 否定+ ease 轻松自在），心理状态语境核心义为\"说不清来由、却持续存在的心神不宁\"",
+     "ctx": "交易完成后长达数年、说不清来由的持续心神不宁。",
+     "ex1": "There is growing unease among staff about how quickly the merger is being pushed through. 员工对并购推进得如此之快，正感到越来越不安。",
+     "ex2": "She felt a vague unease that she could not put into words. 她感到一种说不清道不明的不安。"
+    }
+   ]
+  },
+  {
+   "en_html": "Today, Koroleva explores what happens when <mark class=\"voc\">net worth</mark> removes the need to work on Exit Paradox. Her interviews with the extraordinary wealthy have uncovered a <mark class=\"voc\">recurring</mark> theme: For many, the exit does not feel like a <mark class=\"voc\">crowning achievement</mark> — or, at least, not for long. It can feel more like an existential <mark class=\"voc\">rupture</mark>. Guests describe becoming <mark class=\"voc\">staggeringly</mark> rich using the language of trauma: “<mark class=\"voc\">recovering from</mark> a $500 million sale,” “<mark class=\"voc\">thrashing about</mark> for a decade” or drifting in a state of aimless <mark class=\"voc\">ennui</mark>.",
+   "zh": "如今，Koroleva 在自己的播客《退出悖论》里探讨的正是这件事：当身家已经让你不必再工作，人会变成什么样。她采访了大量极度富有的人，挖出一个反复出现的共同主题——对很多人而言，那场退出并不像一次加冕，或者说，那种感觉至少没撑多久。它更像是一场存在意义上的断裂。节目嘉宾们谈起自己如何变得富可敌国时，用的竟是创伤的语言：有人说自己\"正在从一笔五亿美元的出售中康复\"，有人说自己\"扑腾挣扎了整整十年\"，还有人说自己就漂在一种漫无目的的倦怠里。",
+   "notes": [
+    {
+     "w": "net worth",
+     "ipa": "/net wɜːθ/",
+     "pos": "固定短语",
+     "en": "net worth means the total value of a person's assets minus all of their liabilities",
+     "zh": "本义为\"扣除掉之后剩下的价值\"（net 本义为「网」，引申为\"漏掉杂质后留下的\"），个人财富与财务评估语境核心义为\"净资产、身家\"",
+     "ctx": "当身家大到足以让工作变成可选项时，人生会发生什么——这是播客的核心问题。",
+     "ex1": "The bank's private division only takes clients with a net worth above ten million dollars. 这家银行的私人业务部门只接待净资产在一千万美元以上的客户。",
+     "ex2": "Her net worth doubled in a single year after the company went public. 公司上市之后，她的身家在一年之内翻了一倍。"
+    },
+    {
+     "w": "recurring",
+     "ipa": "/rɪˈkɜːrɪŋ/",
+     "pos": "adj.",
+     "en": "recurring means happening again and again, often in the same form",
+     "zh": "本义为\"再跑一遍\"（re- 再+ cur「跑」），模式与规律识别语境核心义为\"反复出现的、一再重现的\"",
+     "ctx": "采访中反复出现的同一个模式：退出后的空虚并非个例。",
+     "ex1": "Investors love software companies because of their predictable recurring revenue. 投资人偏爱软件公司，就是因为它们的经常性收入可预测。",
+     "ex2": "Staff turnover has become a recurring problem for the firm's overseas offices. 人员流失已经成了这家公司海外办公室的老毛病。"
+    },
+    {
+     "w": "crowning achievement",
+     "ipa": "/ˈkraʊnɪŋ əˈtʃiːvmənt/",
+     "pos": "固定短语",
+     "en": "crowning achievement means the greatest and most defining accomplishment of a person's career or life",
+     "zh": "本义为\"加冕之作\"（crown 王冠、加冕），成就评价语境核心义为\"巅峰成就、封顶之作\"",
+     "ctx": "创始人原以为卖公司是职业生涯的加冕时刻，实际感受却远非如此。",
+     "ex1": "The bridge is widely regarded as the crowning achievement of her engineering career. 这座桥被普遍视为她工程生涯的巅峰之作。",
+     "ex2": "That acquisition was meant to be the crown jewel of the group's portfolio. 那笔收购原本应当成为集团版图上的明珠。"
+    },
+    {
+     "w": "rupture",
+     "ipa": "/ˈrʌptʃə/",
+     "pos": "n.",
+     "en": "rupture means a sudden break, burst or breaking apart of something that was previously whole",
+     "zh": "本义为\"破裂、断裂\"（词根rupt = break），身份认同与心理结构语境核心义为\"（支撑性结构的）断裂、崩解\"",
+     "ctx": "existential rupture 指支撑人生意义的结构本身断裂，而非普通的情绪低落。",
+     "ex1": "The scandal caused a lasting rupture between the two founding families. 这桩丑闻在两大创始家族之间造成了长久的决裂。",
+     "ex2": "A rupture in the supply chain left dealers without parts for months. 供应链的断裂让经销商几个月都拿不到零件。"
+    },
+    {
+     "w": "staggeringly",
+     "ipa": "/ˈstæɡərɪŋli/",
+     "pos": "adv.",
+     "en": "staggeringly means to a degree that is shocking enough to make one lose one's balance",
+     "zh": "本义为\"踉跄地\"（stagger 本义为「摇晃着走、站不稳」），数量与程度强调语境核心义为\"惊人地、令人瞠目地\"",
+     "ctx": "staggeringly rich 强调富有程度已超出常人想象的尺度。",
+     "ex1": "The startup burned through a staggering amount of cash in its first eighteen months. 这家初创公司在头十八个月里烧掉了惊人数量的现金。",
+     "ex2": "Margins in the luxury sector remain staggeringly high. 奢侈品行业的利润率依然高得惊人。"
+    },
+    {
+     "w": "recover from",
+     "ipa": "/rɪˈkʌvə frəm/",
+     "pos": "固定短语",
+     "en": "recover from means to return to a normal state of health, strength or mind after an illness, injury or shock",
+     "zh": "本义为\"重新取回（原本的状态）\"（re- 再 + cover「取得、覆盖」），医疗与创伤康复语境核心义为\"从（疾病、手术、打击）中康复、缓过来\"",
+     "ctx": "嘉宾说“正在从一笔五亿美元的出售中康复”，把商业成功套进了医学词汇。",
+     "ex1": "It took the business two years to recover from losing its largest client. 失去最大客户之后，这家公司花了两年才缓过来。",
+     "ex2": "He is still recovering from a deal that everyone else called a triumph. 所有人都说那是场大胜，他却还在从中康复。"
+    },
+    {
+     "w": "thrash about",
+     "ipa": "/θræʃ əˈbaʊt/",
+     "pos": "固定短语",
+     "en": "thrash about means to move one's limbs violently and without control, as a person does when drowning",
+     "zh": "本义为\"（溺水或挣扎时）四肢乱扑腾\"，人生状态比喻语境核心义为\"漫无章法地挣扎、乱撞而找不到方向\"",
+     "ctx": "受访者用“扑腾了十年”形容退出之后那段找不到方向的岁月。",
+     "ex1": "He spent two years thrashing about for a new project before finally settling on one. 他花了两年到处乱撞找新项目，最后才定下来一个。",
+     "ex2": "The two sides thrashed out an agreement after eleven hours of talks. 经过十一个小时的谈判，双方终于敲定了协议。"
+    },
+    {
+     "w": "ennui",
+     "ipa": "/ɑːnˈwiː/",
+     "pos": "n.（法语借词）",
+     "en": "ennui means a lasting feeling of weariness and dissatisfaction that comes from having nothing that feels worth doing",
+     "zh": "本义为\"倦怠、厌烦\"（直接借自法语），存在主义与精神状态语境核心义为\"百无聊赖的空虚感，一种做什么都提不起劲的、无对象的无聊\"",
+     "ctx": "既无痛苦事件也无具体烦恼，只是长期漂在什么都不想做的倦怠里。",
+     "ex1": "After the product finally shipped, the whole team sank into a strange ennui. 产品终于上线之后，整个团队陷入了一种奇怪的倦怠。",
+     "ex2": "Endless scrolling relieves the ennui for about ten minutes. 无止境地刷手机，能缓解大概十分钟的空虚。"
+    }
+   ]
+  },
+  {
+   "en_html": "Financial <mark class=\"voc\">hardship</mark> defined Michia Rohrssen’s earliest memories. At age 4, he remembers watching his mother cry over a <mark class=\"voc\">failing</mark> car they had no money to fix. Money was “this <mark class=\"voc\">constant</mark> source of pain in our lives,” he recalls. Rohrssen moved to San Francisco in his 20s and <mark class=\"voc\">went into</mark> startups, co-founding <mark class=\"voc\">automotive</mark> software firm Prodigy in 2015. Then, in 2021, when Rohrssen was 31, Prodigy <mark class=\"voc\">sold for</mark> $110 million.",
+   "zh": "Michia Rohrssen 最早的记忆，是被穷定义的。四岁那年，他记得自己看着母亲对着一辆坏掉的车掉眼泪——那车他们没钱修。\"钱，就是我们生活里一个没完没了的痛苦来源，\"他回忆道。二十多岁时，他搬到旧金山，一头扎进创业圈，并在2015年联合创办了汽车软件公司Prodigy。然后是2021年，31岁那年，Prodigy 卖了一亿一千万美元。",
+   "notes": [
+    {
+     "w": "hardship",
+     "ipa": "/ˈhɑːdʃɪp/",
+     "pos": "n.",
+     "en": "hardship means a condition of serious suffering or deprivation, especially one caused by lack of money",
+     "zh": "本义为\"艰难处境\"，生存与经济困境语境核心义为\"（尤指经济上的）困苦、日子过不下去的艰难\"",
+     "ctx": "Rohrssen 童年时家里连修车、吃饭、交房租的钱都没有的长期贫困。",
+     "ex1": "The company set up a hardship fund for employees hit by the plant closure. 公司为受工厂关停影响的员工设立了一笔困难补助金。",
+     "ex2": "Years of financial hardship shaped how he thinks about risk today. 多年的经济困顿，塑造了他今天对风险的看法。"
+    },
+    {
+     "w": "failing",
+     "ipa": "/ˈfeɪlɪŋ/",
+     "pos": "adj.（现在分词作定语，熟词僻义）",
+     "en": "failing means no longer working properly and gradually breaking down",
+     "zh": "本义为\"正在失效的\"，机械与身体状况语境核心义为\"（机器）快报废的、老出故障的；（健康、视力）日渐衰退的\"——注意此处fail 不是\"失败\"，而是\"出故障、不中用\"",
+     "ctx": "a failing car 指家里那辆频繁出毛病、却始终没钱修的旧车。",
+     "ex1": "His failing eyesight forced him to give up night driving. 视力日渐衰退，逼得他放弃了夜间开车。",
+     "ex2": "They kept the failing machine running with parts scavenged from three others. 他们靠从另外三台机器上拆下来的零件，硬是让那台快报废的机器继续转。"
+    },
+    {
+     "w": "constant",
+     "ipa": "/ˈkɒnstənt/",
+     "pos": "adj.",
+     "en": "constant means continuing without pause or interruption, or remaining the same over time",
+     "zh": "本义为\"站着不动的\"（con- 完全+ st「站」），持续状态描述语境核心义为\"持续不断的、没完没了的\"",
+     "ctx": "钱在他童年不是偶发的烦恼，而是每天都在、从不间断的痛苦来源。",
+     "ex1": "The unfinished building outside his window was a constant reminder of the crash. 窗外那栋烂尾楼，时刻提醒着他那场崩盘。",
+     "ex2": "Margins remained roughly constant despite the surge in volume. 尽管销量激增，利润率却基本保持不变。"
+    },
+    {
+     "w": "go into",
+     "ipa": "/ɡəʊ ˈɪntuː/",
+     "pos": "固定短语",
+     "en": "go into means to begin working in a particular profession or field",
+     "zh": "本义为\"走进去\"，职业选择语境核心义为\"进入某一行、从事某个领域\"",
+     "ctx": "他搬到旧金山之后一头扎进创业圈这个行当。",
+     "ex1": "Both of her children went into medicine, much to her surprise. 她两个孩子都学了医，这让她很意外。",
+     "ex2": "I won't go into detail here, but the numbers did not add up. 我这里就不展开细说了，反正账是对不上的。"
+    },
+    {
+     "w": "automotive",
+     "ipa": "/ˌɔːtəˈməʊtɪv/",
+     "pos": "adj.",
+     "en": "automotive means relating to motor vehicles and the industry that produces them",
+     "zh": "本义为\"自己会动的\"（auto「自身」+ motive「推动的」，同源automobile、automatic、autonomy），汽车产业语境核心义为\"汽车的、汽车行业的\"",
+     "ctx": "automotive software firm 指 Prodigy 所处的赛道：为汽车经销商提供线上售车软件。",
+     "ex1": "Nearly every automotive supplier in the region has retooled for electric drivetrains. 这一带几乎每家汽车供应商都为电驱系统做了产线改造。",
+     "ex2": "Automotive retail has been one of the slowest sectors to move online. 汽车零售是最晚搬到线上去的行业之一。"
+    },
+    {
+     "w": "sell for",
+     "ipa": "/sel fɔː/",
+     "pos": "固定短语（主动形式表被动）",
+     "en": "sell for means to be bought at a particular price, with the item itself as the grammatical subject",
+     "zh": "本义为\"以……价格成交\"，交易结果陈述语境核心义为\"（某物）卖了多少钱，主语是被卖的东西，但动词用主动形式\"",
+     "ctx": "Prodigy sold for $110 million，公司本身作主语，陈述这笔交易的成交金额。",
+     "ex1": "The painting sold for nearly triple its estimate. 这幅画的成交价接近估价的三倍。",
+     "ex2": "Their debut album sold surprisingly well in overseas markets. 他们的首张专辑在海外市场卖得出奇地好。"
+    }
+   ]
+  },
+  {
+   "en_html": "All his money problems were solved. Rohrssen was <mark class=\"voc\">elated</mark> — and although he never thought money could replace inner work, the existential <mark class=\"voc\">dread</mark> that slowly <mark class=\"voc\">set in</mark> turned out to be darker than the poverty he’d survived. “It’s really bad,” he says. “When you’re <mark class=\"voc\">broke</mark> and things are hard, you have this belief that, well, one day when I sell the company then things can get better. It’s actually much harder when you’ve achieved those financial outcomes and you still feel just as broken. You feel just as <mark class=\"voc\">inadequate</mark>, and you’re like, ‘But I did the thing?’” He traveled around a bit but had little purpose day-to-day <mark class=\"voc\">beyond</mark> waking up to see his wife. “I just died,” he says.",
+   "zh": "他所有关于钱的难题，一夜之间全解决了。Rohrssen 当时是飘着的——他倒也从没天真到以为钱能替人做完内心那些功课，可那种慢慢渗上来的存在性恐惧，最后竟比他熬过的贫穷还要黑。\"那感觉真的很糟，\"他说。\"你穷的时候、日子难过的时候，心里总还揣着一个信念：等哪天我把公司卖了，一切就好了。可真等你拿到了那些钱，却发现自己还是一样地碎——那才是真的难。你还是觉得自己不够格，然后你就懵了：'可是我不是做到了吗？'\"后来他到处走了走，日子却一天天空着，除了醒来能看见妻子，再没有别的意义。\"我就是死了，\"他说。",
+   "notes": [
+    {
+     "w": "elated",
+     "ipa": "/iˈleɪtɪd/",
+     "pos": "adj.",
+     "en": "elated means feeling very happy and excited, especially because of a success or a piece of good news",
+     "zh": "本义为\"被向上抬起来的\"（e- 向外/向上+ lat「搬、抬」），情绪状态语境核心义为\"欣喜若狂的、飘飘然脚不沾地的\"",
+     "ctx": "1.1 亿美元到账那一刻的短暂狂喜，作者用这个“被托举”的词为随后的坠落做铺垫。",
+     "ex1": "The whole team was elated by the news that the deal had finally closed. 交易终于落定的消息传来，整个团队欣喜若狂。",
+     "ex2": "She was elated at first, then oddly flat within a week. 她起初高兴得不行，一周之内却奇怪地平淡了下来。"
+    },
+    {
+     "w": "dread",
+     "ipa": "/dred/",
+     "pos": "n.",
+     "en": "dread means a strong feeling of fear about something that is going to happen, often without a clearly identifiable cause",
+     "zh": "本义为\"惧怕\"，存在主义与心理状态语境核心义为\"（常无具体对象的）深层恐惧、一睁眼就发怵的那种怕\"",
+     "ctx": "existential dread 指对“这样活着到底有什么意义”本身的恐惧，与第二段的 rupture 呼应。",
+     "ex1": "Sunday evenings filled him with a low, familiar dread. 每到周日傍晚，一种低低的、熟悉的恐惧就涌上来。",
+     "ex2": "I dread telling her the funding fell through. 我怕极了要告诉她融资黄了。"
+    },
+    {
+     "w": "set in",
+     "ipa": "/set ɪn/",
+     "pos": "固定短语",
+     "en": "set in means (of something unpleasant) to begin and show every sign of continuing",
+     "zh": "本义为\"落定下来、住下不走\"，负面状态起始语境核心义为\"（坏天气、坏情绪、腐坏等）开始并持续下去\"，只用于不好的事物",
+     "ctx": "那种恐惧不是骤然袭来，而是交易完成后一点点渗进来、并长期赖着不走。",
+     "ex1": "Once the rot set in, the company lost three senior engineers in a month. 局面一旦开始烂下去，公司一个月内走了三名资深工程师。",
+     "ex2": "Panic set in when the exchange halted withdrawals. 交易所暂停提现时，恐慌蔓延开来。20"
+    },
+    {
+     "w": "broke",
+     "ipa": "/brəʊk/",
+     "pos": "adj.（与broken 区分）",
+     "en": "broke means having no money at all, usually temporarily",
+     "zh": "本义为\"（钱上）断掉的\"，个人财务状况语境核心义为\"身无分文的、手头一分钱没有的\"（多指暂时性缺钱，区别于长期贫困的poor）",
+     "ctx": "他用 broke 描述创业前的自己，作者随后用 broken 形容暴富后的他。",
+     "ex1": "Half the team was flat broke by the time the first customer paid. 等到第一个客户付款时，团队里一半人已经身无分文。",
+     "ex2": "He went broke twice before the third company worked. 在第三家公司做成之前，他破产过两次。21"
+    },
+    {
+     "w": "inadequate",
+     "ipa": "/ɪnˈædɪkwət/",
+     "pos": "adj.",
+     "en": "inadequate means not good enough in quality or quantity, or feeling that one is not good enough as a person",
+     "zh": "本义为\"达不到相等的那条线\"（in- 不+ ad- 朝+ equ「相等」），自我评价语境核心义为\"（人）觉得自己不够格、配不上的；（物）不足的、不够用的\"",
+     "ctx": "拿到 1.1 亿美元之后，他的自我评价依旧是“我不够好”。",
+     "ex1": "Even after the promotion, she kept feeling inadequate in every meeting. 就算升了职，她在每场会上还是觉得自己不够格。",
+     "ex2": "The safety measures were found to be wholly inadequate. 这些安全措施被认定为完全不足。"
+    },
+    {
+     "w": "beyond",
+     "ipa": "/bɪˈjɒnd/",
+     "pos": "prep.",
+     "en": "beyond means apart from or in addition to, used especially in negative statements to mean \"and nothing else\"",
+     "zh": "本义为\"在……那一边、越过\"，否定性限定语境核心义为\"除……之外再无、超出……的范围\"，常与little/nothing/no 连用",
+     "ctx": "little purpose beyond waking up to see his wife：每天起床的全部理由只剩一个。",
+     "ex1": "The report offers little beyond what was already public. 这份报告除了已经公开的内容之外，几乎没有别的东西。",
+     "ex2": "The damage to the brand was beyond repair. 品牌受到的损害已经无法修复。22"
+    }
+   ]
+  },
+  {
+   "en_html": "There’s a term for this phenomenon — “sudden wealth syndrome” — says licensed psychotherapist Annie Wright. One reason is <mark class=\"voc\">velocity</mark>. The time between starting a company and hitting a <mark class=\"voc\">liquidity</mark> event has <mark class=\"voc\">compressed</mark> dramatically since the crypto boom, leaving founders less time to <mark class=\"voc\">mature</mark> alongside their wealth. Wright says another factor gets the least attention but can <mark class=\"voc\">exact</mark> a heavier <mark class=\"voc\">toll</mark>: the moral weight of how the wealth was made.",
+   "zh": "持证心理治疗师Annie Wright 说，这种现象是有名字的——\"暴富综合症\"。原因之一在于速度：从创办公司到迎来变现时刻，这中间的时间自加密货币热潮以来被大幅压缩，创始人已经没有足够的时间，跟着自己的财富一同长大。Wright 说，还有一个因素最少被人提起，却可能收走更沉的代价——这笔财富究竟是怎么挣来的，它自带的道德分量。",
+   "notes": [
+    {
+     "w": "velocity",
+     "ipa": "/vəˈlɒsəti/",
+     "pos": "n.",
+     "en": "velocity means the speed of something moving in a particular direction, often used technically",
+     "zh": "本义为\"（带方向的）速度\"（物理学术语，中文称\"矢量速度\"），趋势与节奏描述语境核心义为\"（事物推进的）速度、节奏快慢\"，比speed 更冷峻、更具技术权威感",
+     "ctx": "从创业到变现的时间被压缩，这种“暴富速度”是暴富综合症的成因之一。",
+     "ex1": "The velocity of capital moving into AI startups has caught regulators off guard. 资金涌入AI初创公司的速度，让监管机构措手不及。",
+     "ex2": "Few companies ever reach escape velocity in their first two years. 极少有公司能在头两年就达到\"逃逸速度\"。"
+    },
+    {
+     "w": "liquidity",
+     "ipa": "/lɪˈkwɪdəti/",
+     "pos": "n.",
+     "en": "liquidity means the degree to which an asset can be quickly converted into cash without losing value",
+     "zh": "本义为\"液态、能流动的性质\"（liquid 液体），金融资产语境核心义为\"流动性，即一项资产变现的难易程度\"",
+     "ctx": "a liquidity event 指公司被收购或上市、股权一次性变成现金的时刻，与 exit 是同一件事。",
+     "ex1": "The fund collapsed not because it lacked assets but because it lacked liquidity. 这只基金倒掉，不是因为没有资产，而是因为没有流动性。",
+     "ex2": "Property is the least liquid asset most families will ever own. 房产是大多数家庭所拥有的资产里，变现最难的一种。24"
+    },
+    {
+     "w": "compress",
+     "ipa": "/kəmˈpres/",
+     "pos": "v.",
+     "en": "compress means to press or squeeze something into a smaller space or a shorter period of time",
+     "zh": "本义为\"压到一起\"（com- 一起+ press 压，同源pressure、express、impress、depress、suppress），时间与空间压缩语境核心义为\"（把时间、周期）压缩、缩短\"",
+     "ctx": "从创办公司到迎来变现时刻之间的时间跨度被大幅压缩。",
+     "ex1": "The whole approval process was compressed into a single week. 整个审批流程被压缩进了一周之内。",
+     "ex2": "Training that used to take three years is now compressed into nine months. 过去要三年的培训，现在被压缩到了九个月。"
+    },
+    {
+     "w": "mature",
+     "ipa": "/məˈtʃʊə/",
+     "pos": "v.",
+     "en": "mature means to develop fully in mind and character, or for a financial instrument to reach the end of its term",
+     "zh": "本义为\"成熟\"，心智成长语境核心义为\"（人）成长、心智变得成熟\"；在本文的搭配 mature alongside 中，意为\"与……并肩一同长大\"",
+     "ctx": "财富增长快过心理成长，创始人来不及“跟自己的钱一起长大”。",
+     "ex1": "The founders never had time to mature alongside the money. 这些创始人从来没有时间，跟着自己的钱一起长大。",
+     "ex2": "A once-frantic startup has matured into a fairly dull, profitable business. 一家当年疯狂的初创公司，已经长成了一门相当无趣但赚钱的生意。26"
+    },
+    {
+     "w": "exact",
+     "ipa": "/ɪɡˈzækt/",
+     "pos": "v.（熟词僻义，动词）",
+     "en": "exact means to demand and obtain something from someone, especially payment, revenge or a cost",
+     "zh": "本义为\"把东西从人身上驱赶出来\"（ex- 向外+ act 驱使），代价与损失语境核心义为\"（使人）付出代价、索取、强行讨要\"",
+     "ctx": "exact a heavier toll 指财富的道德来源日后会向当事人索取更沉的心理代价。",
+     "ex1": "Years of relentless travel exacted a heavy price on his marriage. 多年无休止的出差，让他的婚姻付出了沉重代价。",
+     "ex2": "The regulator exacted major concessions before approving the merger. 监管机构在批准并购前，逼出了重大让步。"
+    },
+    {
+     "w": "toll",
+     "ipa": "/təʊl/",
+     "pos": "n.",
+     "en": "toll means the amount of damage, suffering or loss caused by something, or a fee paid to use a road or bridge",
+     "zh": "本义为\"过路费、通行费\"，损害与代价语境核心义为\"（长期累积造成的）损害、代价；伤亡人数\"",
+     "ctx": "a heavier toll 指财富来源的道德负担造成的心理损耗，比“速度”这一因素更重。",
+     "ex1": "The night shifts are starting to take a toll on her health. 夜班开始损害她的健康了。",
+     "ex2": "The death toll from the storm rose to thirty-one. 这场风暴的死亡人数升至三十一人。25"
+    }
+   ]
+  },
+  {
+   "en_html": "Unlike lottery winnings, a founder’s <mark class=\"voc\">fortune</mark> is deeply <mark class=\"voc\">intertwined</mark> with their identity. That makes the success feel earned — but any <mark class=\"voc\">subsequent</mark> dissatisfaction feels painfully personal. Many <mark class=\"voc\">fall prey to</mark> the <mark class=\"voc\">arrival fallacy</mark>: the assumption that reaching the number, the milestone they’d <mark class=\"voc\">organized their lives around</mark>, would deliver lasting peace. When it doesn’t, some jump straight into their next venture — less from inspiration than a need to prove the first success wasn’t a <mark class=\"voc\">fluke</mark>.",
+   "zh": "与中彩票不同，创始人的财富，是和他\"我是谁\"这件事拧成一股绳的。这让成功尝起来像是挣来的——可后来但凡有一丝不满，也就疼得格外私人。很多人于是栽进了\"抵达谬误\"：他们笃信，只要够到那个数字——那个他们把整个人生都围着它转的里程碑——持久的平静就会如期送达。而当它迟迟不来，有些人转身就扎进了下一个项目：与其说是被什么召唤，不如说是急着要证明，第一次的成功不是瞎蒙的。",
+   "notes": [
+    {
+     "w": "fortune",
+     "ipa": "/ˈfɔːtʃuːn/",
+     "pos": "n.",
+     "en": "fortune means a very large amount of money, or chance seen as a force that affects human affairs",
+     "zh": "本义为\"命运、运气\"（罗马命运女神Fortuna），财富语境核心义为\"巨额财富、身家\"（同时保留\"运气\"一义）",
+     "ctx": "a founder’s fortune 指卖公司所得的巨额财富，与彩票所得形成对照。",
+     "ex1": "He made a fortune supplying parts nobody else wanted to make. 他靠供应别人都不愿做的零件发了大财。",
+     "ex2": "That car must have cost a small fortune. 那辆车肯定花了好大一笔钱。"
+    },
+    {
+     "w": "intertwine",
+     "ipa": "/ˌɪntəˈtwaɪn/",
+     "pos": "v.",
+     "en": "intertwine means to twist two or more things together so closely that they cannot easily be separated",
+     "zh": "本义为\"相互缠绕成一股\"（inter- 相互+ twine 缠绕，与twin、twist 同源），身份与财富关系语境核心义为\"与……密不可分、盘根错节地绑在一起\"",
+     "ctx": "创始人的财富与自我认同深度捆绑，失落会直接击中“我是谁”这一层。",
+     "ex1": "The company's fate is inextricably intertwined with that of its largest customer. 这家公司的命运与它最大客户的命运密不可分。",
+     "ex2": "Their careers have been intertwined since graduate school. 从研究生时期起，他们的职业生涯就交织在一起。29"
+    },
+    {
+     "w": "subsequent",
+     "ipa": "/ˈsʌbsɪkwənt/",
+     "pos": "adj.",
+     "en": "subsequent means coming after something else in time",
+     "zh": "本义为\"跟在后面的\"（sub- 在下/随后+ sequ「跟随」，同源sequence、consequence、sequel、consecutive），时间顺序语境核心义为\"随后的、后续的\"",
+     "ctx": "any subsequent dissatisfaction 指成功之后陆续浮现的所有不满情绪。",
+     "ex1": "Subsequent funding rounds were raised at a fraction of that valuation. 后续几轮融资的估值，只有当初的零头。",
+     "ex2": "The first report was cautious; every subsequent one was worse. 第一份报告还算谨慎，之后的每一份都更糟。32"
+    },
+    {
+     "w": "fall prey to",
+     "ipa": "/fɔːl preɪ tuː/",
+     "pos": "固定短语",
+     "en": "fall prey to means to be harmed, deceived or taken advantage of by something",
+     "zh": "本义为\"沦为猎物\"（prey 猎物，与predator 捕食者相对），受害与上当语境核心义为\"栽在……手里、成为……的牺牲品\"",
+     "ctx": "许多创始人被“抵达谬误”这个认知陷阱捕获，如同猎物落入伏击。",
+     "ex1": "First-time investors often fall prey to stories rather than numbers. 新手投资者常常栽在故事上，而不是数字上。",
+     "ex2": "Isolated elderly people are easy prey for telephone fraud. 独居老人很容易成为电话诈骗的目标。"
+    },
+    {
+     "w": "arrival fallacy",
+     "ipa": "/əˈraɪvl ˈfæləsi/",
+     "pos": "固定短语（心理学概念）",
+     "en": "arrival fallacy means the mistaken belief that reaching a particular goal will bring lasting happiness",
+     "zh": "本义为\"关于'抵达'的谬误\"（fallacy 词根fall- = 欺骗，同源false、fault、fail、infallible），积极心理学语境核心义为\"抵达谬误，即误以为达成某个目标就能获得持久幸福的认知错误\"",
+     "ctx": "创始人把“卖掉公司拿到那个数字”当成人生的终点线，笃信抵达即安宁。",
+     "ex1": "Athletes are especially vulnerable to the arrival fallacy after an Olympic final. 运动员在奥运决赛之后，尤其容易掉进抵达谬误。",
+     "ex2": "Treating the promotion as a finish line is a textbook arrival fallacy. 把升职当成终点线，是教科书式的抵达谬误。30"
+    },
+    {
+     "w": "organize one's life around",
+     "ipa": "/ˈɔːɡənaɪz wʌnz laɪf əˈraʊnd/",
+     "pos": "固定短语",
+     "en": "to organize one's life around something means to arrange all of one's time, choices and priorities so that they serve a single goal",
+     "zh": "本义为\"围绕某物来编排\"，人生规划语境核心义为\"把整个人生都围着某件事安排、一切以它为中心\"",
+     "ctx": "那个数字不是普通目标，而是当事人多年来安排全部生活所围绕的唯一中心。",
+     "ex1": "For a decade he organized his life around a single number on a spreadsheet. 整整十年，他把人生围着表格里的一个数字来安排。",
+     "ex2": "Their whole calendar is organized around the school run. 他们整张日程表都是围着接送孩子转的。31"
+    },
+    {
+     "w": "fluke",
+     "ipa": "/fluːk/",
+     "pos": "n.",
+     "en": "fluke means a surprising piece of good luck that happens by chance rather than through skill",
+     "zh": "本义为\"（台球中）歪打正着进袋的一杆\"，成就归因语境核心义为\"侥幸、瞎蒙对的一次，非实力所致的走运\"",
+     "ctx": "有些人急着再创一次业，是要向自己证明第一次的成功不是撞大运。",
+     "ex1": "Their first hit was dismissed as a fluke until the second one landed. 他们的第一支爆款一直被说成是运气，直到第二支也火了。",
+     "ex2": "Surviving that quarter was no fluke; the hedge was deliberate. 熬过那个季度绝非侥幸，那套对冲是有意为之。"
+    }
+   ]
+  },
+  {
+   "en_html": "Parr founded The Hustle, a digital business newsletter bought by HubSpot in 2021. These days his focus is Hampton, where he <mark class=\"voc\">dissects</mark> what he calls “<mark class=\"voc\">champagne problems</mark>” — problems <mark class=\"voc\">nonetheless</mark>. His best advice? Don’t do anything <mark class=\"voc\">irreversible</mark> for at least a year after exit.",
+   "zh": "Parr 创办过The Hustle——一份数字商业通讯，2021年被HubSpot 买下。如今他的心思都在Hampton 上。在那里，他把他口中所谓的\"香槟难题\"一样样摊开来解剖——可那终究也是难题。他最好的一条忠告是什么？退出之后的头一年，什么不可逆的事都别做。",
+   "notes": [
+    {
+     "w": "dissect",
+     "ipa": "/dɪˈsekt/",
+     "pos": "v.",
+     "en": "dissect means to cut something apart in order to study it, or to analyse something in great detail",
+     "zh": "本义为\"切开来看\"（dis- 分开+ sect「切」，同源section、insect、sector、intersection），深度剖析语境核心义为\"逐条解剖、把问题摊开一刀刀拆解\"",
+     "ctx": "Parr 在 Hampton 社群里把富人的各类烦恼逐一拆解分析，而非泛泛聊天。",
+     "ex1": "Analysts spent the weekend dissecting every line of the earnings call. 分析师们整个周末都在逐句解剖那场财报电话会。",
+     "ex2": "He dissects failed launches the way a coroner works a case. 他剖析失败的产品发布，像法医查案一样。"
+    },
+    {
+     "w": "champagne problems",
+     "ipa": "/ʃæmˈpeɪn ˈprɒbləmz/",
+     "pos": "固定短语",
+     "en": "champagne problems means difficulties that only wealthy or privileged people could possibly have",
+     "zh": "本义为\"端着香槟时才会有的烦恼\"，阶层与处境对照语境核心义为\"有钱人的烦恼、奢侈的难题\"，中文语感近似\"凡尔赛式烦恼\"",
+     "ctx": "Parr 自嘲式的说法，作者随即补上 problems nonetheless，提醒读者这些困扰依然真实。",
+     "ex1": "Choosing between two job offers is a champagne problem, but it still keeps you up at night. 在两份offer之间纠结算是甜蜜的烦恼，可它照样让你睡不着。",
+     "ex2": "He has champagne taste on a beer budget. 他拿着啤酒的预算，养着香槟的品味。34"
+    },
+    {
+     "w": "nonetheless",
+     "ipa": "/ˌnʌnðəˈles/",
+     "pos": "adv.",
+     "en": "nonetheless means in spite of what has just been said, the following remains true",
+     "zh": "本义为\"尽管如此也不少一分\"（none「一点也不」+ the less「因此更少」，字面即\"并不因此而减损\"），让步转折语境核心义为\"尽管如此、但仍然\"，与nevertheless 完全同义，多用于书面语，可置于句首、句中或句末",
+     "ctx": "用破折号接上 problems nonetheless，在允许读者发笑的同时声明这些烦恼并不因此虚假。",
+     "ex1": "The findings are preliminary; they are nonetheless the best evidence we have. 这些发现只是初步的，但仍是我们目前最好的证据。",
+     "ex2": "She disagreed with the strategy and nonetheless executed it flawlessly. 她并不认同这套策略，却依然把它执行得无可挑剔。Sam Parr / The Hustle / Hampton 简要介绍：Sam Parr 早年曾在街头摆摊卖热狗，后创办商业邮件通讯The Hustle，以口语化、带梗的风格报道商业新闻，订阅量逾百万。2021年2月被美国营销软件上市公司 HubSpot 收购，外界报道交易额约2700万美元；谈判期间Parr 主动向买方列出自家公司的全部缺点，反而加速了成交。他于2022年创办Hampton，一个面向高增长公司创始人的付费私密社群。本文中的意思：文中\"退出后生态\"的活样本。他把富人的困扰称为champagne problems 并逐条解剖，而他\"退出后一年内不做任何不可逆决定\"的忠告，正来自他本人买下过一座过于庞大的牧场的亲身教训。36"
+    },
+    {
+     "w": "irreversible",
+     "ipa": "/ˌɪrɪˈvɜːsəbl/",
+     "pos": "adj.",
+     "en": "irreversible means impossible to change back to a previous state or to undo",
+     "zh": "本义为\"无法转回去的\"（ir- 不+ re- 回+ vers「转」，同源reverse、convert、divert、version、universe、anniversary），决策风险语境核心义为\"不可逆的、做了就收不回的\"",
+     "ctx": "Parr 建议退出后第一年不做任何无法撤销的决定，因为此时判断力仍在失真状态。",
+     "ex1": "A badly timed acquisition can do irreversible damage to a brand. 一笔时机错误的收购，可能对品牌造成不可逆的伤害。",
+     "ex2": "Treat hiring as reversible and equity as irreversible. 把招人当成可逆的事，把股权当成不可逆的事。35"
+    }
+   ]
+  },
+  {
+   "en_html": "The money, at a certain size, also stops feeling real. “Up to about $20 million, you’re still thinking about, ‘How do I use this resource well?’” says Walling, the psychologist. “You kind of watch it and pay attention and make good investments. And then there’s a number beyond that where it’s kind of like Monopoly money. That can have this <mark class=\"voc\">delusional</mark> effect on someone’s psychology. They are <mark class=\"voc\">unmoored</mark> and <mark class=\"voc\">unanchored</mark> to the value of anything.”",
+   "zh": "钱到了某个体量，也就不再有真实感了。\"到大概两千万美元为止，你想的还是'我怎么把这笔资源用好'，\"心理学家Walling 说，\"你会盯着它、上着心，认认真真做点投资。可再往上还有一个数，过了那个数，钱就有点像大富翁游戏里的纸钞了。那会在一个人的心理上产生近乎妄想的效果——他们对任何东西的价值，都脱了缆、失了锚。\"",
+   "notes": [
+    {
+     "w": "delusional",
+     "ipa": "/dɪˈluːʒənl/",
+     "pos": "adj.",
+     "en": "delusional means holding a belief that is clearly false while being completely convinced that it is true",
+     "zh": "本义为\"被耍偏了的\"（de- 偏离+ lud/lus「玩、耍」，同源illusion、allude、ludicrous、prelude），临床心理与认知扭曲语境核心义为\"妄想的、坚信虚假事物为真的\"（区别于illusion 明知是假的幻觉）",
+     "ctx": "金钱超出某一量级后，当事人对价值的判断已脱离现实，却并不自知。",
+     "ex1": "The board was delusional about how fast the product could scale. 董事会对产品能多快铺开，抱着完全不切实际的判断。",
+     "ex2": "He suffers from delusions of grandeur that no amount of data will shake. 他有一种夸大妄想，多少数据都撼动不了。"
+    },
+    {
+     "w": "unmoored",
+     "ipa": "/ʌnˈmʊəd/",
+     "pos": "adj.",
+     "en": "unmoored means no longer tied to a fixed point, and therefore drifting freely",
+     "zh": "本义为\"缆绳被解开的、未系泊的\"（moor 意为用缆绳把船拴在码头或岸上；unmoored 即缆绳断开、船身脱岸漂走），心理与价值判断语境核心义为\"失去牵系的、无所依凭而随波漂流的\"",
+     "ctx": "与 unanchored 并列，构成“缆绳断了、锚也没了”的完整意象。",
+     "ex1": "Six months after the acquisition, the founding team felt completely unmoored from the company they had built. 收购完成半年后，创始团队对自己一手建起的公司已经彻底失去了牵系。",
+     "ex2": "Without a clear benchmark, the debate quickly became unmoored from any actual data. 缺了明确的基准，这场辩论很快就脱离了任何真实数据。40"
+    },
+    {
+     "w": "unanchored",
+     "ipa": "/ʌnˈæŋkəd/",
+     "pos": "adj.",
+     "en": "unanchored means not fixed or held in place, having lost the thing that kept it stable",
+     "zh": "本义为\"没有下锚的\"（anchor 锚），价值判断与心理稳定语境核心义为\"失去锚定、没有参照基准的\"",
+     "ctx": "与 unmoored 并用，形容当事人对任何事物的价值都失去了衡量基准。",
+     "ex1": "Without a benchmark, the whole valuation exercise becomes unanchored. 没有基准，整个估值过程就失去了锚点。",
+     "ex2": "She has been the anchor of that team through three reorganisations. 三次重组下来，她一直是那个团队的定心骨。39"
+    }
+   ]
+  },
+  {
+   "en_html": "Finding that <mark class=\"voc\">equilibrium</mark> can take years. Of roughly 1,200 post-exit stories Koroleva has studied, she estimates that a decade after reaching “post-economic” status, 15% are “<mark class=\"voc\">in a pretty sad place</mark>”; 70% are comfortable but feel some emptiness; and just 15% are <mark class=\"voc\">thriving</mark>.",
+   "zh": "找到那个平衡点，往往要花上数年。在Koroleva 研究过的约一千二百个\"退出之后\"的故事里，她估算：在抵达所谓\"后经济\"状态十年之后，有15%的人\"过得相当糟\"，70%的人衣食无忧、心里却空着一块，而真正活得蓬勃的，只有15%。",
+   "notes": [
+    {
+     "w": "equilibrium",
+     "ipa": "/ˌiːkwɪˈlɪbriəm/",
+     "pos": "n.",
+     "en": "equilibrium means a state in which opposing forces are balanced so that the system remains stable",
+     "zh": "本义为\"天平两边等重\"（equi「相等」+ libr「天平」，同源equal、equator、Libra 天秤座），心理与系统稳定语境核心义为\"平衡态，即不需再费力维持的稳定状态\"（区别于需要主动维持的balance）",
+     "ctx": "退出之后重新找到内心稳定状态的过程，往往需要数年。",
+     "ex1": "Prices took eighteen months to return to some sort of equilibrium. 价格花了十八个月才回到某种均衡状态。",
+     "ex2": "He lost his emotional equilibrium for the better part of a year. 他有大半年时间都处在情绪失衡的状态里。"
+    },
+    {
+     "w": "in a sad place",
+     "ipa": "/ɪn ə sæd pleɪs/",
+     "pos": "固定短语",
+     "en": "to be in a sad/bad/good place means to be in a particular emotional or psychological state",
+     "zh": "本义为\"处在某个位置上\"（place 在此指心理位置而非地理位置），情绪状态描述语境核心义为\"状态很糟/很好，日子过得难受/舒心\"，是英语口语中把心境空间化的高频表达",
+     "ctx": "Koroleva 用这个温和的日常说法，而非临床词汇，描述那 15% 过得相当艰难的人。",
+     "ex1": "He was in a pretty dark place after the second company folded. 第二家公司倒掉之后，他有很长一段时间状态极差。",
+     "ex2": "A year of therapy got her to a much better place. 一年的心理治疗让她的状态好了很多。"
+    },
+    {
+     "w": "thriving",
+     "ipa": "/ˈθraɪvɪŋ/",
+     "pos": "adj.",
+     "en": "thriving means growing, developing or succeeding vigorously",
+     "zh": "本义为\"茁壮生长的\"（原用于描述植物与动物的旺盛生长），生命状态评价语境核心义为\"活得蓬勃有劲的、仍在向上生长的\"，与静态的comfortable 构成关键对照",
+     "ctx": "约 1200 个案例里仅 15% 达到这一状态，说明钱能保证舒适，却保证不了蓬勃。",
+     "ex1": "A thriving repair economy has grown up around second-hand phones. 围绕二手手机，已经长出了一个兴旺的维修经济。",
+     "ex2": "Some people genuinely thrive on deadlines. 有些人确实是靠截止日期活得最带劲。"
+    }
+   ]
+  },
+  {
+   "en_html": "Walling says the people who handle a <mark class=\"voc\">windfall</mark> best tend to hold two ideas at once: “I worked really hard, and I got really lucky.” Reward without <mark class=\"voc\">inflated</mark> <mark class=\"voc\">self-regard</mark>. Those who struggle most tend to be the ones for whom the company was everything — no healthy relationships, no hobbies, no sense of meaning outside the exit. “That’s where you <mark class=\"voc\">tie</mark> your whole <mark class=\"voc\">self-worth</mark> and your individual sense of well-being to this event,” Walling says. No amount of money is “going to be enough to <mark class=\"voc\">sustain</mark> that for you.” <mark class=\"voc\">For now</mark>, these are problems for the very few and the very rich. But some thinkers believe AI could make the <mark class=\"voc\">scenario</mark> <mark class=\"voc\">universal</mark>.",
+   "zh": "Walling 说，最能扛得住一笔横财的人，通常能同时握住两个念头：\"我真的很拼，而且我真的很走运。\"——收下回报，但不让自我跟着膨胀。而最难熬的那批人，往往是把公司当成了全部的人：没有健康的人际关系，没有爱好，在\"退出\"之外找不到任何意义感。\"问题就出在这儿——你把全部的自我价值、把你整个人的幸福感，统统绑在了这一件事上，\"Walling 说。到那时，再多的钱，也托不住它。就目前而言，这些还只是极少数极富之人的烦恼。但也有思想者相信，AI 可能会让这一幕成为所有人的现实。",
+   "notes": [
+    {
+     "w": "windfall",
+     "ipa": "/ˈwɪndfɔːl/",
+     "pos": "n.",
+     "en": "windfall means a large sum of money that comes unexpectedly, without having been planned or directly worked for",
+     "zh": "本义为\"被风吹落的果实或树枝\"（中世纪英格兰平民不得砍伐领主林木，唯有大风刮落在地的木材可以自由捡拾），意外财富语境核心义为\"横财、意外之财\"",
+     "ctx": "心理学家把卖公司所得归入 windfall：一次性、突然、远超当事人既往认知。",
+     "ex1": "The government imposed a windfall tax on energy firms after the price spike. 价格暴涨之后，政府对能源企业开征了暴利税。",
+     "ex2": "A small inheritance was the first real windfall her family had ever seen. 一笔不大的遗产，是她家有史以来第一笔真正的意外之财。"
+    },
+    {
+     "w": "inflated",
+     "ipa": "/ɪnˈfleɪtɪd/",
+     "pos": "adj.",
+     "en": "inflated means made larger than is justified or real, as if filled with air",
+     "zh": "本义为\"被吹进气的\"（in 进+ flat 吹，同源inflation 通货膨胀、deflate 放气），自我认知与估值语境核心义为\"（自我评价、价格）虚高的、膨胀的\"",
+     "ctx": "inflated self-regard 指随财富一同膨胀的自我评价。",
+     "ex1": "Years of easy funding left the sector with badly inflated valuations. 多年的宽松融资，让这个行业的估值虚高得厉害。",
+     "ex2": "Nothing deflates an inflated ego faster than a failed launch. 没有什么比一次失败的发布更能戳破膨胀的自我。"
+    },
+    {
+     "w": "self-regard",
+     "ipa": "/self rɪˈɡɑːd/",
+     "pos": "n.",
+     "en": "self-regard means the opinion and esteem a person holds of themselves",
+     "zh": "本义为\"对自我的看待\"（regard 作名词意为看重、尊重），自我认知语境核心义为\"自我评价、自我看重程度\"",
+     "ctx": "扛得住横财的人收下回报，却不让自我跟着被吹胀。",
+     "ex1": "Success at that scale tends to inflate self-regard faster than it builds judgement. 那种量级的成功，膨胀自我的速度往往快过增长判断力的速度。",
+     "ex2": "She is held in high regard by people who have worked against her. 连跟她对过阵的人都很敬重她。"
+    },
+    {
+     "w": "tie A to B",
+     "ipa": "/taɪ/",
+     "pos": "固定短语",
+     "en": "to tie one thing to another means to make the first thing dependent on or bound to the second",
+     "zh": "本义为\"用绳子把A绑在B上\"（tie 名词即\"领带\"，因其为系上之物），依存关系语境核心义为\"把……与……绑定、挂钩\"",
+     "ctx": "把全部的自我价值与幸福感，统统绑定在“退出”这一个事件上。",
+     "ex1": "Tying bonuses to a single metric is how you get people to game it. 把奖金绑在单一指标上，就是在教人钻空子。",
+     "ex2": "They tied the knot quietly at the end of the year. 他们在年底悄悄结了婚。"
+    },
+    {
+     "w": "self-worth",
+     "ipa": "/self wɜːθ/",
+     "pos": "n.",
+     "en": "self-worth means the value a person places on themselves as a human being, independent of external achievements",
+     "zh": "本义为\"自我的价值\"，身份认同与心理健康语境核心义为\"自我价值感\"，与文中前部的net worth（净资产）构成刻意的同词根呼应",
+     "ctx": "最难熬的那批人把全部自我价值绑在“退出”这一件事上，事件结束，自我随之塌陷。",
+     "ex1": "He derives almost all of his self-worth from his job title. 他几乎全部的自我价值感都来自那个职位头衔。",
+     "ex2": "Tying self-worth to quarterly numbers is a fast route to burnout. 把自我价值绑在季度数字上，是通向倦怠的捷径。"
+    },
+    {
+     "w": "sustain",
+     "ipa": "/səˈsteɪn/",
+     "pos": "v.",
+     "en": "sustain means to support something from below so that it can continue over a period of time",
+     "zh": "本义为\"从下面托住\"（sus-=sub 从下+ tain「拿、持」，同源maintain、contain、retain、obtain、sustainable），支撑与维系语境核心义为\"（长期地）支撑住、维持下去\"",
+     "ctx": "再多的钱也无法长期托住一个把全部自我价值押在单一事件上的人。",
+     "ex1": "Neither company could sustain that level of spending for another year. 两家公司都撑不起再多一年这样的开支。",
+     "ex2": "The rally proved impossible to sustain once rates moved. 利率一动，这轮涨势就撑不住了。"
+    },
+    {
+     "w": "for now",
+     "ipa": "/fə naʊ/",
+     "pos": "固定短语",
+     "en": "for now means for the present moment, with the implication that the situation may change later",
+     "zh": "本义为\"就当下而言\"，时效限定语境核心义为\"目前、暂时\"，其言外之意是\"以后未必如此\"",
+     "ctx": "一段里出现两次：一次说富人的烦恼眼下还罕见，一次给 Rohrssen 的判断留余地。",
+     "ex1": "The arrangement holds for now, but nobody expects it to survive the election. 这个安排目前还成立，但没人指望它能挺过选举。",
+     "ex2": "We'll park that question for now and come back to it. 这个问题我们先放一放，回头再说。"
+    },
+    {
+     "w": "scenario",
+     "ipa": "/səˈnɑːriəʊ/",
+     "pos": "n.",
+     "en": "scenario means a description of a possible situation or a sequence of events that might happen",
+     "zh": "本义为\"戏剧的分场提纲\"（借自意大利语，与scene 同源），预测与情景推演语境核心义为\"设想的情景、可能出现的局面\"",
+     "ctx": "AI 可能使“不必工作却不知如何自处”从极少数富人扩展为普遍现实。",
+     "ex1": "Their scenario planning never accounted for a supplier disappearing overnight. 他们的情景推演里，从没算过供应商一夜消失这一种。",
+     "ex2": "In the worst-case scenario, the fund halts redemptions entirely. 最坏的情况下，这只基金会彻底暂停赎回。"
+    },
+    {
+     "w": "universal",
+     "ipa": "/ˌjuːnɪˈvɜːsl/",
+     "pos": "adj.",
+     "en": "universal means affecting or applying to all members of a group or all people",
+     "zh": "本义为\"合而为一地转动的\"（uni「一」+ vers「转」，同源universe、version、reverse、anniversary），普遍性语境核心义为\"普遍适用的、涵盖全体的\"",
+     "ctx": "AI 可能让“不必工作却不知如何自处”成为全人类的普遍处境。",
+     "ex1": "Universal basic income has moved from fringe idea to mainstream policy debate. 全民基本收入已经从边缘设想，走进了主流政策辩论。",
+     "ex2": "The complaint was near-universal among first-year users. 这个抱怨在第一年的用户里几乎是普遍的。"
+    }
+   ]
+  },
+  {
+   "en_html": "A harder view is that there is no lasting <mark class=\"voc\">fix</mark>. Staying dissatisfied is how our species has survived, why yesterday’s luxury <mark class=\"voc\">reliably</mark> becomes tomorrow’s basic need. That’s the way Rohrssen <mark class=\"voc\">leans</mark>, at least for now. “There’s probably something in the <mark class=\"voc\">human condition</mark> that’s hard to <mark class=\"voc\">root out</mark>,” he says. “Maybe you’re just fighting against <mark class=\"voc\">gravity</mark>.”",
+   "zh": "还有一种更冷硬的看法：这事儿根本就没有一劳永逸的解法。\"一直不满足\"，恰恰是我们这个物种活下来的方式，也正因如此，昨天的奢侈品，一定会变成明天的必需品。Rohrssen 眼下就倾向于这个答案。\"人的底层设定里，大概有某种东西，很难连根拔掉，\"他说。\"也许你只是在跟重力较劲。\"",
+   "notes": [
+    {
+     "w": "fix",
+     "ipa": "/fɪks/",
+     "pos": "n.（名词用法）",
+     "en": "fix means a solution to a problem, especially one that resolves it",
+     "zh": "本义为\"固定、修好\"，问题解决语境核心义为\"解决办法\"，常与quick（治标）、lasting（治本）搭配构成价值判断",
+     "ctx": "a lasting fix 指一劳永逸解决“人永不满足”的办法，作者认为并不存在。",
+     "ex1": "There is no quick fix for a culture problem. 文化上的问题，没有速效药。",
+     "ex2": "Everyone wanted a technical fix to what was really a management failure. 所有人都想给一个本质上是管理失败的问题，找一个技术解法。"
+    },
+    {
+     "w": "reliably",
+     "ipa": "/rɪˈlaɪəbli/",
+     "pos": "adv.",
+     "en": "reliably means in a way that can be depended on to happen consistently every time",
+     "zh": "本义为\"可依赖地\"，规律性强调语境核心义为\"一定会、无一例外地\"——语气强于often、usually，接近于\"跟钟表一样准\"",
+     "ctx": "昨天的奢侈品一定会变成明天的必需品，这不是偶发趋势，而是可预期的定律。",
+     "ex1": "Cheap credit reliably produces expensive mistakes. 廉价的信贷，一定会催生昂贵的错误。",
+     "ex2": "No model yet reliably predicts which of these drugs will fail in phase three. 目前还没有模型能可靠预测，这些药里哪一种会在三期折戟。"
+    },
+    {
+     "w": "lean",
+     "ipa": "/liːn/",
+     "pos": "v.",
+     "en": "lean means to incline towards a particular opinion, position or preference without fully committing",
+     "zh": "本义为\"身体向某一侧倾斜、倚靠\"，观点立场语境核心义为\"倾向于（某种看法）\"，语气比believe 更松、更诚实，承认自己并不确定",
+     "ctx": "Rohrssen 目前倾向于“根本无解”这一冷硬判断，作者又用 for now 留了余地。",
+     "ex1": "Most of the committee leans toward delaying the launch. 委员会多数人倾向于推迟发布。",
+     "ex2": "When things got bad, she had two people she could lean on. 情况糟糕的时候，她有两个可以依靠的人。"
+    },
+    {
+     "w": "the human condition",
+     "ipa": "/ðə ˈhjuːmən kənˈdɪʃn/",
+     "pos": "固定短语（哲学术语）",
+     "en": "the human condition means the set of fundamental experiences and limitations that define what it is to be human, such as mortality, longing and dissatisfaction",
+     "zh": "本义为\"人的处境\"，哲学与文学语境核心义为\"人类境况，即作为人注定要面对的根本处境——会死、会孤独、会渴望、会永不满足\"",
+     "ctx": "Rohrssen 用这个带哲学分量的说法收束全文，把不满足归因于物种的底层设定。",
+     "ex1": "Great novels rarely solve anything; they just describe the human condition more precisely. 伟大的小说很少解决什么问题，它们只是把人的境况描述得更准确。",
+     "ex2": "Restlessness may simply be part of the human condition. 不安分，也许本就是人之为人的一部分。"
+    },
+    {
+     "w": "root out",
+     "ipa": "/ruːt aʊt/",
+     "pos": "固定短语",
+     "en": "root out means to find and remove something completely, including its source, so that it cannot return",
+     "zh": "本义为\"把植物连根刨出来\"，彻底清除语境核心义为\"根除、连根拔掉\"，强调仅清除表面无用，必须处理根源",
+     "ctx": "他认为“永不满足”扎根于人类的底层设定，很难被彻底清除。",
+     "ex1": "The new chief was hired to root out a decade of procurement fraud. 新任主管被请来，就是为了根除十年来的采购舞弊。",
+     "ex2": "Treating symptoms never gets to the root of the problem. 只治症状，永远触不到问题的根子。"
+    },
+    {
+     "w": "gravity",
+     "ipa": "/ˈɡrævəti/",
+     "pos": "n.",
+     "en": "gravity means the natural force that pulls objects towards the earth, or the serious nature of a situation",
+     "zh": "本义为\"重量、沉重\"（词根grav = heavy，同源grave 严重的、aggravate 加重、gravitate 被吸引），全文收束比喻语境核心义为\"重力\"——一种永远在场、可以短暂对抗却无法战胜、同时也正是使人站得稳的力量",
+     "ctx": "“跟重力较劲”为全文收尾，与 unmoored/unanchored、elated 构成意象闭环。",
+     "ex1": "No one seemed to grasp the gravity of the situation until the auditors arrived. 直到审计进场，似乎才有人意识到事态的严重性。",
+     "ex2": "Readers naturally gravitate toward stories with a clear villain. 读者天然会被有明确反派的故事吸引。"
+    }
+   ]
+  }
+ ],
+ "proper": [
+  {
+   "name": "Prodigy / 普罗迪吉",
+   "def": "2015 年由 Michia Rohrssen 与合伙人共同创办的汽车零售软件公司，让消费者在线完成选车、贷款、签约的整个购车流程，客户是各大汽车经销商集团；2021 年 3 月被美国 AI 信贷上市公司 Upstart 收购，年营收约 330 万美元、成交价 1.1 亿美元，约合 65 倍营收。<br>本文中的意思：Rohrssen 的财富来源，也是他从贫穷童年一步跨进“九位数”阶层的那个转折点。"
+  },
+  {
+   "name": "Exit Paradox /《退出悖论》",
+   "def": "Anastasia Koroleva 创办并主持的播客，专门访谈那些已经成功卖掉公司的创业者，探讨“退出之后”的人生。她本人是连续创业者，早年在纽约做并购律师，第一家公司即实现九位数全现金退出。<br>本文中的意思：全文素材的主要来源，嘉宾“用创伤语言描述暴富”这一观察、以及后文 1200 个退出案例的统计，都出自她在这档节目和相关研究中的积累。"
+  },
+  {
+   "name": "psychiatrist / psychologist / psychotherapist（精神科医生／心理学家／心理治疗师）",
+   "def": "英文中三个极易混淆的心理健康从业者称谓：psychiatrist 为医学院毕业的执业医师，可诊断并开药；psychologist 为心理学背景，做研究、评估与咨询，通常无处方权；psychotherapist 以谈话治疗为主，同样不开药。licensed 一词强调其为持证执业。<br>本文中的意思：第 5 段引述的 Annie Wright 是 psychotherapist，第 8、10 段的 Walling 是 psychologist，两人视角不同。"
+  },
+  {
+   "name": "Sam Parr / The Hustle / Hampton",
+   "def": "Sam Parr 早年曾在街头摆摊卖热狗，后创办商业邮件通讯 The Hustle，订阅量逾百万，2021 年 2 月被营销软件上市公司 HubSpot 收购，外界报道交易额约 2700 万美元；2022 年创办面向高增长公司创始人的付费私密社群 Hampton。<br>本文中的意思：文中“退出后生态”的活样本——他把富人困扰称作 champagne problems 逐条解剖，而“退出后一年内不做不可逆决定”的忠告来自他本人的亲身教训。"
+  },
+  {
+   "name": "Sudden Wealth Syndrome / 暴富综合症",
+   "def": "1990 年代由加州两位临床心理学家 Stephen Goldbart 与 Joan DiFuria 提出，源自互联网泡沫时期大批因期权和 IPO 一夜暴富的硅谷从业者出现焦虑、孤立、决策困难等高度一致的症状，且与财富来源无关；至今不是 DSM 正式诊断，而是财富心理咨询业的描述性术语。<br>本文中的意思：Annie Wright 用它为 Rohrssen、Koroleva 等人的共同经历正式命名，把散落的个人痛苦收拢成一个可被讨论的模式。"
+  },
+  {
+   "name": "Tal Ben-Shahar / 塔尔·本-沙哈尔",
+   "def": "哈佛大学心理学讲师，积极心理学领域代表人物，其在哈佛开设的幸福课曾创下该校选课人数纪录；2007 年在《Happier》中提出并命名 arrival fallacy（抵达谬误），概念源自他作为职业壁球选手夺冠当晚发现空虚原样返回的经历。<br>本文中的意思：“抵达谬误”的出处，用来解释创始人为何在达成毕生目标后反而崩塌，且往往只怪自己“跑得还不够远”。"
+  },
+  {
+   "name": "Monopoly /《大富翁》（《地产大亨》）",
+   "def": "1935 年由美国 Parker Brothers 正式发行的经典桌游，全球销量逾两亿套，玩法为掷骰行进、购置地产、收取租金直至对手破产；配有大量色彩鲜艳的仿制纸钞，面额动辄上千却毫无真实购买力。<br>本文中的意思：Walling 用“Monopoly money”比喻财富超过某一量级后的心理状态——大脑已无法把数字换算成真实之物，于是对一切价值失去基准。"
+  },
+  {
+   "name": "Walling / 沃林",
+   "def": "文中引述的心理学家（psychologist），与持证心理治疗师 Annie Wright 分属不同工种：前者侧重研究与评估，后者侧重谈话治疗，二者通常均不具备处方权。<br>本文中的意思：后半部分的核心观点提供者，贡献了“两千万美元”这条心理分界线、“大富翁游戏币”的比喻，以及全文唯一的解法。"
+  },
+  {
+   "name": "post-economic /“后经济”状态",
+   "def": "并非标准英语词汇，而是退出后创业者圈层内部使用的说法，原文带引号出现，指个人财富已足以使工作彻底成为可选项、经济问题从此退出人生议程的状态。<br>本文中的意思：Koroleva 统计的时间基准点——从抵达这一状态起算十年之后，15% 过得相当糟、70% 舒适却空虚、仅 15% 真正蓬勃。"
+  }
+ ],
+ "sources_note": "本文选自 Bloomberg 2026 年 9 月 15 日文章《Tech’s New Rich Are Suffering From ‘Sudden Wealth Syndrome’》，由《早安英文》讲解。",
+ "practice": {
+  "intro": "把下面三句翻译成英文，注意划线表达。",
+  "items": [
+   "那是每个创业者做梦都想要的那种退出：第一天百分之百现金到账，没有任何对赌尾款，不附带任何条件。",
+   "很多人栽进了\"抵达谬误\"——他们笃信，只要够到那个他们把整个人生都围着它转的里程碑，持久的平静就会如期送达。",
+   "到大概两千万美元为止，你想的还是\"我怎么把这笔资源用好\"；可再往上还有一个数，过了那个数，钱就有点像大富翁游戏里的纸钞了。"
+  ],
+  "critical_en": "When you’re broke and things are hard, you have this belief that, well, one day when I sell the company then things can get better. It’s actually much harder when you’ve achieved those financial outcomes and you still feel just as broken.",
+  "critical_zh": "你穷的时候、日子难过的时候，心里总还揣着一个信念：等哪天我把公司卖了，一切就好了。可真等你拿到了那些钱，却发现自己还是一样地碎——那才是真的难。",
+  "answer": "1. It was the kind of exit every entrepreneur dreams about: 100% cash on Day 1, zero earnouts, no strings attached.<br><br>2. Many fall prey to the arrival fallacy: the assumption that reaching the number, the milestone they'd organized their lives around, would deliver lasting peace.<br><br>3. \"Up to about $20 million, you're still thinking about, 'How do I use this resource well?' And then there's a number beyond that where it's kind of like Monopoly money.\"<br><br>三句正好卡住全文的三层：退出的条件、抵达谬误的机制、以及金钱失效的那条分界线。"
+ },
+ "mindmap": {
+  "aria": "暴富综合症与退出之后的崩塌思维导图",
+  "alt": "暴富综合症与退出之后（手绘版）",
+  "svg": "<svg viewBox=\"0 0 960 720\" xmlns=\"http://www.w3.org/2000/svg\" role=\"img\" aria-label=\"暴富综合症与退出之后的崩塌思维导图\" style=\"width:100%;height:auto;font-family:-apple-system,'PingFang SC','Hiragino Sans GB','Microsoft YaHei',sans-serif\">\n        <rect x=\"24\" y=\"306\" width=\"176\" height=\"88\" rx=\"14\" fill=\"#eae3d2\" stroke=\"#9a8f76\"/>\n        <text x=\"112\" y=\"342\" text-anchor=\"middle\" fill=\"#3d3a34\" font-size=\"17\" font-weight=\"700\">暴富之后</text>\n        <text x=\"112\" y=\"368\" text-anchor=\"middle\" fill=\"#5c5648\" font-size=\"12.5\">钱解决了问题，人没有</text>\n\n        <path d=\"M200,350 C232,350 232,88 260,88\"  stroke=\"#6b8f71\" stroke-width=\"2\" fill=\"none\"/>\n        <path d=\"M200,350 C232,350 232,238 260,238\" stroke=\"#7d98ad\" stroke-width=\"2\" fill=\"none\"/>\n        <path d=\"M200,350 C232,350 232,433 260,433\" stroke=\"#bd7a6d\" stroke-width=\"2\" fill=\"none\"/>\n        <path d=\"M200,350 C232,350 232,628 260,628\" stroke=\"#9b86b3\" stroke-width=\"2\" fill=\"none\"/>\n\n        <g class=\"mm-branch\" data-target=\"bc1\">\n          <rect x=\"260\" y=\"71\" width=\"190\" height=\"34\" rx=\"8\" fill=\"#e6efe7\" stroke=\"#6b8f71\"/>\n          <text x=\"349\" y=\"93\" text-anchor=\"middle\" fill=\"#4c6b52\" font-size=\"15\" font-weight=\"700\">退出之后（¶1–2）</text>\n          <text class=\"mm-arrow\" data-for=\"bc1\" x=\"442\" y=\"93\" text-anchor=\"end\" fill=\"#4c6b52\">▾</text>\n        </g>\n        <g class=\"mm-children\" id=\"bc1\">\n          <path d=\"M450,88 C462,88 462,46 480,46\" stroke=\"#6b8f71\" stroke-width=\"1.5\" fill=\"none\"/>\n          <path d=\"M450,88 C462,88 462,88 480,88\" stroke=\"#6b8f71\" stroke-width=\"1.5\" fill=\"none\"/>\n          <path d=\"M450,88 C462,88 462,130 480,130\" stroke=\"#6b8f71\" stroke-width=\"1.5\" fill=\"none\"/>\n          <rect x=\"480\" y=\"30\" width=\"456\" height=\"32\" rx=\"8\" fill=\"#e6efe7\"/><text x=\"492\" y=\"51\" fill=\"#3d3a34\" font-size=\"14\">卖掉公司拿到九位数，换来多年不安与离婚</text>\n          <rect x=\"480\" y=\"72\" width=\"456\" height=\"32\" rx=\"8\" fill=\"#e6efe7\"/><text x=\"492\" y=\"93\" fill=\"#3d3a34\" font-size=\"14\">《退出悖论》里，嘉宾用创伤语言谈暴富</text>\n          <rect x=\"480\" y=\"114\" width=\"456\" height=\"32\" rx=\"8\" fill=\"#e6efe7\"/><text x=\"492\" y=\"135\" fill=\"#3d3a34\" font-size=\"14\">退出不像加冕，更像存在意义上的断裂</text>\n        </g>\n\n        <g class=\"mm-branch\" data-target=\"bc2\">\n          <rect x=\"260\" y=\"221\" width=\"190\" height=\"34\" rx=\"8\" fill=\"#e5edf4\" stroke=\"#7d98ad\"/>\n          <text x=\"349\" y=\"243\" text-anchor=\"middle\" fill=\"#3d5872\" font-size=\"15\" font-weight=\"700\">从穷到富（¶3–4）</text>\n          <text class=\"mm-arrow\" data-for=\"bc2\" x=\"442\" y=\"243\" text-anchor=\"end\" fill=\"#3d5872\">▾</text>\n        </g>\n        <g class=\"mm-children\" id=\"bc2\">\n          <path d=\"M450,238 C462,238 462,196 480,196\" stroke=\"#7d98ad\" stroke-width=\"1.5\" fill=\"none\"/>\n          <path d=\"M450,238 C462,238 462,238 480,238\" stroke=\"#7d98ad\" stroke-width=\"1.5\" fill=\"none\"/>\n          <path d=\"M450,238 C462,238 462,280 480,280\" stroke=\"#7d98ad\" stroke-width=\"1.5\" fill=\"none\"/>\n          <rect x=\"480\" y=\"180\" width=\"456\" height=\"32\" rx=\"8\" fill=\"#e5edf4\"/><text x=\"492\" y=\"201\" fill=\"#3d3a34\" font-size=\"14\">四岁看母亲对着坏车哭，钱是持续的痛</text>\n          <rect x=\"480\" y=\"222\" width=\"456\" height=\"32\" rx=\"8\" fill=\"#e5edf4\"/><text x=\"492\" y=\"243\" fill=\"#3d3a34\" font-size=\"14\">31 岁那年，Prodigy 卖出一亿一千万美元</text>\n          <rect x=\"480\" y=\"264\" width=\"456\" height=\"32\" rx=\"8\" fill=\"#e5edf4\"/><text x=\"492\" y=\"285\" fill=\"#3d3a34\" font-size=\"14\">钱到账后仍是碎的，他说自己已经死了</text>\n        </g>\n\n        <g class=\"mm-branch\" data-target=\"bc3\">\n          <rect x=\"260\" y=\"416\" width=\"190\" height=\"34\" rx=\"8\" fill=\"#f4e7e4\" stroke=\"#bd7a6d\"/>\n          <text x=\"349\" y=\"438\" text-anchor=\"middle\" fill=\"#7c4a3e\" font-size=\"15\" font-weight=\"700\">为何会这样（¶5–7）</text>\n          <text class=\"mm-arrow\" data-for=\"bc3\" x=\"442\" y=\"438\" text-anchor=\"end\" fill=\"#7c4a3e\">▾</text>\n        </g>\n        <g class=\"mm-children\" id=\"bc3\">\n          <path d=\"M450,433 C462,433 462,391 480,391\" stroke=\"#bd7a6d\" stroke-width=\"1.5\" fill=\"none\"/>\n          <path d=\"M450,433 C462,433 462,433 480,433\" stroke=\"#bd7a6d\" stroke-width=\"1.5\" fill=\"none\"/>\n          <path d=\"M450,433 C462,433 462,475 480,475\" stroke=\"#bd7a6d\" stroke-width=\"1.5\" fill=\"none\"/>\n          <rect x=\"480\" y=\"375\" width=\"456\" height=\"32\" rx=\"8\" fill=\"#f4e7e4\"/><text x=\"492\" y=\"396\" fill=\"#3d3a34\" font-size=\"14\">速度太快：财富跑赢了人的成长</text>\n          <rect x=\"480\" y=\"417\" width=\"456\" height=\"32\" rx=\"8\" fill=\"#f4e7e4\"/><text x=\"492\" y=\"438\" fill=\"#3d3a34\" font-size=\"14\">抵达谬误：够到数字，平静却没来</text>\n          <rect x=\"480\" y=\"459\" width=\"456\" height=\"32\" rx=\"8\" fill=\"#f4e7e4\"/><text x=\"492\" y=\"480\" fill=\"#3d3a34\" font-size=\"14\">Parr 劝：退出后一年别做不可逆的事</text>\n        </g>\n\n        <g class=\"mm-branch\" data-target=\"bc4\">\n          <rect x=\"260\" y=\"611\" width=\"190\" height=\"34\" rx=\"8\" fill=\"#ece4f2\" stroke=\"#9b86b3\"/>\n          <text x=\"349\" y=\"633\" text-anchor=\"middle\" fill=\"#5a4670\" font-size=\"15\" font-weight=\"700\">钱买不到（¶8–11）</text>\n          <text class=\"mm-arrow\" data-for=\"bc4\" x=\"442\" y=\"633\" text-anchor=\"end\" fill=\"#5a4670\">▾</text>\n        </g>\n        <g class=\"mm-children\" id=\"bc4\">\n          <path d=\"M450,628 C462,628 462,586 480,586\" stroke=\"#9b86b3\" stroke-width=\"1.5\" fill=\"none\"/>\n          <path d=\"M450,628 C462,628 462,628 480,628\" stroke=\"#9b86b3\" stroke-width=\"1.5\" fill=\"none\"/>\n          <path d=\"M450,628 C462,628 462,670 480,670\" stroke=\"#9b86b3\" stroke-width=\"1.5\" fill=\"none\"/>\n          <rect x=\"480\" y=\"570\" width=\"456\" height=\"32\" rx=\"8\" fill=\"#ece4f2\"/><text x=\"492\" y=\"591\" fill=\"#3d3a34\" font-size=\"14\">过了两千万，钱就像大富翁纸钞</text>\n          <rect x=\"480\" y=\"612\" width=\"456\" height=\"32\" rx=\"8\" fill=\"#ece4f2\"/><text x=\"492\" y=\"633\" fill=\"#3d3a34\" font-size=\"14\">十年后仅 15% 蓬勃，70% 舒适却空</text>\n          <rect x=\"480\" y=\"654\" width=\"456\" height=\"32\" rx=\"8\" fill=\"#ece4f2\"/><text x=\"492\" y=\"675\" fill=\"#3d3a34\" font-size=\"14\">不满足本就是人的底层设定，无解</text>\n        </g>\n      </svg>",
+  "img": "/Users/malen/outward-reading-site-prod/scripts/content/img/2026-09-15.jpg"
+ }
+}
