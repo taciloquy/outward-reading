@@ -1,0 +1,387 @@
+{
+ "date": "2026-10-16",
+ "title_tag": "全球12亿台摄像头，正在变成免费“战争眼睛”！普通人的摄像头，怎么成了现代战争的新目标？—— 美国《华尔街日报》外刊讲解第1199天",
+ "h1": "全球12亿台摄像头，正在变成免费“战争眼睛”！普通人的摄像头，怎么成了现代战争的新目标？",
+ "source_label": "The Wall Street Journal",
+ "category": "美国《华尔街日报》外刊讲解 第1199天",
+ "read_minutes": 18,
+ "nav_hint": "Video Cameras Are Everywhere",
+ "headline": {
+  "en_html": "<span><mark class=\"voc\">Video Cameras</mark> Are Everywhere—and Now They Are Being <mark class=\"voc\">Hacked</mark> for War</span>",
+  "zh": "摄像头无处不在——如今，它们正被黑客入侵，沦为战争工具",
+  "notes": [
+   {
+    "w": "video camera",
+    "ipa": "/ˈvɪdiəʊ ˌkæmərə/",
+    "pos": "n.",
+    "en": "a camera used to record moving images, sometimes connected to the internet for remote monitoring",
+    "zh": "摄像机，视频摄像头",
+    "ctx": "指遍布日常的各类摄像设备，从家用监控、门铃到婴儿监视器，本文特指其中能联网、可被远程访问的那一批。",
+    "ex1": "Video cameras are widely used to monitor homes and public spaces. 摄像头被广泛用于监控家庭和公共场所。",
+    "ex2": "Internet-connected video cameras can become targets for hackers. 联网摄像头可能成为黑客攻击的目标。"
+   },
+   {
+    "w": "hack",
+    "ipa": "/hæk/",
+    "pos": "v.",
+    "en": "to gain unauthorized access to a computer system, device or network",
+    "zh": "非法入侵（计算机系统）；黑入；破解",
+    "ctx": "指黑客未经授权侵入联网摄像头，夺取画面甚至控制设备，让民用安防设备沦为军事情报工具；标题的 are being hacked 是现在进行时被动，强调正持续遭到入侵。",
+    "ex1": "Hackers managed to hack into the company’s security system. 黑客成功入侵了公司的安全系统。",
+    "ex2": "The family discovered that their baby monitor had been hacked. 这家人发现，他们的婴儿监视器遭到了黑客入侵。"
+   }
+  ]
+ },
+ "paragraphs": [
+  {
+   "en_html": "As U.S. and Israeli forces bombed Iran early this year, a <mark class=\"voc\">poultry</mark> farmer in northern Israel decided to check on his chickens. When he <mark class=\"voc\">launched</mark> the app on his phone for the webcam outside his <mark class=\"voc\">coop</mark>, he was alarmed to see that its language had been switched to Arabic. He contacted Israel’s National Cyber Directorate, which found that hackers had <mark class=\"voc\">taken control of</mark> the Chinese-made camera. They weren’t interested in chickens. The camera’s <mark class=\"voc\">orientation</mark> on the coop offered it a <mark class=\"voc\">line of sight</mark> to the movements of Israeli security forces along the nearby border with Lebanon. The cyber directorate said it helped the farmer <mark class=\"voc\">harden</mark> the camera’s security and adjust its viewing angle to stop capturing military operations.",
+   "zh": "今年早些时候，当美国和以色列军队轰炸伊朗时，以色列北部的一名家禽养殖户决定查看一下自己的鸡群。他打开手机上的应用程序，想查看鸡舍外的网络摄像头，却惊恐地发现，摄像头的操作语言竟然被切换成了阿拉伯语。他随即联系了以色列国家网络安全局。调查发现，黑客已经控制了这台中国制造的摄像头。然而，他们感兴趣的并不是鸡。由于摄像头安装在鸡舍上的朝向，它恰好能够拍摄到附近黎巴嫩边境一带以色列安全部队的活动。以色列国家网络安全局表示，他们帮助这名农户加强了摄像头的安全防护，并调整了拍摄角度，以防止其继续捕捉军事行动的画面。",
+   "notes": [
+    {
+     "w": "poultry",
+     "ipa": "/ˈpəʊltri/",
+     "pos": "n.",
+     "en": "domestic birds, such as chickens, ducks and turkeys, raised for their meat or eggs",
+     "zh": "家禽",
+     "ctx": "此处特指农户养的那群鸡；poultry farmer 即家禽养殖户，一个最不可能与战争沾边的身份。",
+     "ex1": "The farmer raises poultry on a small piece of land outside the village. 这名农户在村外的一小块土地上饲养家禽。",
+     "ex2": "Rising feed prices have increased the cost of poultry production. 饲料价格上涨推高了家禽养殖成本。"
+    },
+    {
+     "w": "launch",
+     "ipa": "/lɔːntʃ/",
+     "pos": "v.",
+     "en": "to start or open a computer program or application",
+     "zh": "启动，打开；发射；推出",
+     "ctx": "这里指打开手机应用程序；launch 的核心是让某事物开始运行，火箭发射、产品发布、软件启动用的都是它。",
+     "ex1": "She launched the app to check the security cameras at home. 她打开应用程序，查看家中的安防摄像头。",
+     "ex2": "The company plans to launch a new streaming service next month. 该公司计划下个月推出一项新的流媒体服务。"
+    },
+    {
+     "w": "coop",
+     "ipa": "/kuːp/",
+     "pos": "n.",
+     "en": "a small building or enclosed space where chickens or other poultry are kept",
+     "zh": "鸡舍，禽舍",
+     "ctx": "指农户装摄像头的地方——镜头本是对着鸡的，却顺带把附近的军事活动也框了进去。",
+     "ex1": "The farmer installed a camera outside the chicken coop. 农户在鸡舍外安装了一台摄像头。",
+     "ex2": "The chickens returned to their coop before sunset. 日落前，鸡群回到了鸡舍。"
+    },
+    {
+     "w": "take control of",
+     "ipa": "/teɪk kənˈtrəʊl əv/",
+     "pos": "phr.",
+     "en": "to gain the power to operate, direct or manage something",
+     "zh": "控制，取得……的控制权",
+     "ctx": "指黑客通过网络入侵夺得摄像头控制权，既能操纵设备，也能拿到它拍到的画面。",
+     "ex1": "Hackers took control of several security cameras in the building. 黑客控制了大楼里的数台安防摄像头。",
+     "ex2": "The new management team took control of the company after the acquisition. 收购完成后，新的管理团队接管了公司。"
+    },
+    {
+     "w": "orientation",
+     "ipa": "/ˌɔːriənˈteɪʃn/",
+     "pos": "n.",
+     "en": "the direction in which something is positioned or facing",
+     "zh": "朝向，方位；方向",
+     "ctx": "指摄像头的安装朝向——正因镜头恰好对准边境军事活动区，一台看鸡的设备才成了情报工具。",
+     "ex1": "The orientation of the camera determines which areas it can capture. 摄像头的朝向决定了它能够拍摄哪些区域。",
+     "ex2": "The orientation of the building allows more sunlight to enter the rooms. 建筑物的朝向使更多阳光能够照进房间。"
+    },
+    {
+     "w": "line of sight",
+     "ipa": "/ˌlaɪn əv ˈsaɪt/",
+     "pos": "n. phr.",
+     "en": "a clear, unobstructed view between an observer and an object",
+     "zh": "视线，视野范围；直视路径",
+     "ctx": "指摄像头能直接望见以色列安全部队活动的那条视野，正因无遮挡，才具备军事情报价值。",
+     "ex1": "The camera had a clear line of sight to the entrance of the military base. 摄像头能够清楚地拍摄到军事基地的入口。",
+     "ex2": "Tall buildings blocked our line of sight to the sea. 高楼挡住了我们望向大海的视线。"
+    },
+    {
+     "w": "harden",
+     "ipa": "/ˈhɑːdn/",
+     "pos": "v.",
+     "en": "to make something stronger or more resistant to damage or attack",
+     "zh": "加固，加强防护；使变硬",
+     "ctx": "此处是网络安全意义上的系统加固，不是物理变硬——让摄像头更难被攻破。",
+     "ex1": "The company hardened its network security after a series of cyberattacks. 在遭遇一系列网络攻击后，该公司加强了网络安全防护。",
+     "ex2": "Organizations should harden their devices against unauthorized access. 各机构应加强设备防护，防止未经授权的访问。"
+    }
+   ]
+  },
+  {
+   "en_html": "The farmer’s webcam was one of an estimated 1.2 billion internet-connected cameras worldwide, according to cybersecurity consultants S-RM. The devices have become a background <mark class=\"voc\">fixture</mark> of daily life in the form of security systems, doorbells, traffic controls and even baby monitors—and potentially any of them are <mark class=\"voc\">vulnerable</mark> to <mark class=\"voc\">snooping</mark>, say cybersecurity experts and hackers. “We are now seeing the <mark class=\"voc\">conversion</mark> of civilian <mark class=\"voc\">surveillance</mark> into wartime intelligence collection,” said Alexander Leslie, a national-security expert at threat-intelligence consultants Recorded Future, who sees a global “<mark class=\"voc\">soft underbelly</mark>” in <mark class=\"voc\">omnipresent</mark> digital eyeballs.",
+   "zh": "据网络安全咨询公司S-RM估计，全球约有12亿台联网摄像头，而这名农户的网络摄像头只是其中之一。这些设备早已以安防系统、门铃、交通监控设备，甚至婴儿监视器等形式，成为日常生活中几乎不被察觉的固定存在。然而，网络安全专家和黑客指出，其中任何一台设备都可能遭到窥探。威胁情报咨询公司Recorded Future的国家安全专家亚历山大·莱斯利表示：“我们如今正在目睹民用监控向战时情报收集工具的转变。”在他看来，这些无处不在的“数字眼睛”，正在全球范围内形成一处脆弱的软肋。",
+   "notes": [
+    {
+     "w": "fixture",
+     "ipa": "/ˈfɪkstʃə/",
+     "pos": "n.",
+     "en": "something that is permanently or regularly present in a particular place or situation",
+     "zh": "固定设施；长期存在的事物",
+     "ctx": "指习以为常、几乎不再引人注意的存在；background fixture 强调摄像头早已悄然融进生活的背景。",
+     "ex1": "Smartphones have become a fixture of modern life. 智能手机已经成为现代生活中不可或缺的一部分。",
+     "ex2": "The old bookstore has been a fixture of the neighborhood for decades. 这家老书店几十年来一直是社区里熟悉的存在。"
+    },
+    {
+     "w": "vulnerable",
+     "ipa": "/ˈvʌlnərəbl/",
+     "pos": "adj.",
+     "en": "easily harmed, attacked or affected by something dangerous",
+     "zh": "脆弱的，易受攻击的",
+     "ctx": "指联网摄像头在防护不足时容易被人入侵、被人窥探，是本文的关键定性词。",
+     "ex1": "Poorly protected devices are particularly vulnerable to cyberattacks. 安全防护薄弱的设备尤其容易遭受网络攻击。",
+     "ex2": "Children are more vulnerable to certain online risks. 儿童更容易受到某些网络风险的影响。"
+    },
+    {
+     "w": "snoop",
+     "ipa": "/snuːp/",
+     "pos": "v.",
+     "en": "to secretly look at or investigate someone’s private activities or information",
+     "zh": "窥探，刺探，偷偷打听",
+     "ctx": "指未经允许借摄像头偷看他人的生活、活动或敏感信息；snooping 即网络环境下的非法窥探。",
+     "ex1": "Hackers used the camera to snoop on the family’s private life. 黑客利用摄像头窥探这家人的私人生活。",
+     "ex2": "She suspected that someone had been snooping through her emails. 她怀疑有人一直在偷看她的电子邮件。"
+    },
+    {
+     "w": "conversion",
+     "ipa": "/kənˈvɜːʃn/",
+     "pos": "n.",
+     "en": "the process of changing something from one form, purpose or use to another",
+     "zh": "转变，转换，改造",
+     "ctx": "指民用监控设备被改造成战时情报收集工具，强调同一项技术用途的整体翻转。",
+     "ex1": "The conversion of civilian technology into military tools raises serious concerns. 将民用技术转变为军事工具引发了严重担忧。",
+     "ex2": "The factory underwent a conversion from car production to battery manufacturing. 这家工厂从汽车生产转向了电池制造。"
+    },
+    {
+     "w": "surveillance",
+     "ipa": "/səˈveɪləns/",
+     "pos": "n.",
+     "en": "the careful and continuous observation of people, places or activities",
+     "zh": "监视，监控",
+     "ctx": "指借摄像设备持续观察人员与环境；civilian surveillance 是民用监控，wartime intelligence collection 是战时情报收集。",
+     "ex1": "The authorities increased surveillance around sensitive facilities. 当局加强了对敏感设施周边的监控。",
+     "ex2": "Mass surveillance has raised concerns about personal privacy. 大规模监控引发了人们对个人隐私的担忧。"
+    },
+    {
+     "w": "soft underbelly",
+     "ipa": "/ˌsɒft ˈʌndəbeli/",
+     "pos": "n. phr.",
+     "en": "the weakest or most vulnerable part of a system, organization or situation",
+     "zh": "软肋，薄弱环节，易受攻击之处",
+     "ctx": "指全球铺开的联网摄像头构成的网络安全软肋；underbelly 原指动物柔软的腹部，比喻看似强大的数字设施最经不起打的地方。",
+     "ex1": "Outdated software has become the soft underbelly of many organizations’ cybersecurity systems. 过时的软件已经成为许多机构网络安全体系的软肋。",
+     "ex2": "The crisis exposed the soft underbelly of the country’s economy. 这场危机暴露了该国经济的薄弱环节。"
+    },
+    {
+     "w": "omnipresent",
+     "ipa": "/ˌɒmnɪˈpreznt/",
+     "pos": "adj.",
+     "en": "present or found everywhere at the same time",
+     "zh": "无处不在的，遍布各处的",
+     "ctx": "形容摄像头遍布现代社会的每个角落；omnipresent digital eyeballs 就是把摄像头写成无处不在的数字眼睛。",
+     "ex1": "Security cameras have become almost omnipresent in major cities. 安防摄像头在大城市中几乎无处不在。",
+     "ex2": "Social media is an omnipresent influence in the lives of young people. 社交媒体对年轻人的生活产生着无处不在的影响。"
+    }
+   ]
+  },
+  {
+   "en_html": "Intelligence agencies <mark class=\"voc\">scour</mark> the internet for vulnerable cameras and robotically <mark class=\"voc\">tap into</mark> them by testing millions of passwords. Now, AI has made it even easier to hack into them and analyze their data <mark class=\"voc\">at scale</mark>, transforming cameras that were designed to boost safety into tools for <mark class=\"voc\">combatants</mark> to track, surveil and attack the enemy—often <mark class=\"voc\">surpassing</mark> the abilities of human intelligence analysts. Algorithms digest endless <mark class=\"voc\">reams</mark> of footage to find <mark class=\"voc\">hidden gems</mark> and patterns for agents to monitor.",
+   "zh": "情报机构在互联网上四处搜寻存在安全漏洞的摄像头，并通过自动化程序测试数百万个密码，尝试接入这些设备。如今，人工智能使入侵摄像头以及大规模分析其数据变得更加容易。那些原本旨在提高安全性的摄像头，正被改造成交战方追踪、监视和攻击敌人的工具，其能力甚至常常超越人类情报分析员。算法能够处理海量、源源不断的视频画面，从中发现值得情报人员关注的隐藏线索和规律。",
+   "notes": [
+    {
+     "w": "scour",
+     "ipa": "/ˈskaʊə/",
+     "pos": "v.",
+     "en": "to search a place or collection of information very thoroughly",
+     "zh": "彻底搜寻，仔细搜索",
+     "ctx": "指情报机构在网上大范围、细致地搜罗有漏洞的摄像头，比 search 更强调搜得全、搜得透。",
+     "ex1": "Investigators scoured the internet for evidence of the cyberattack. 调查人员在互联网上仔细搜寻网络攻击的证据。",
+     "ex2": "Rescue teams scoured the forest for the missing hikers. 救援队彻底搜查了森林，寻找失踪的徒步者。"
+    },
+    {
+     "w": "tap into",
+     "ipa": "/tæp ˈɪntuː/",
+     "pos": "phr. v.",
+     "en": "to gain access to or make use of a source of information, power or resources",
+     "zh": "接入，利用，获取",
+     "ctx": "指通过撞库测试密码等方式接进摄像头，拿走画面与数据，重点在“未经授权”地进入设备。",
+     "ex1": "Hackers attempted to tap into the building’s security cameras. 黑客试图接入大楼的安防摄像头。",
+     "ex2": "The company hopes to tap into new markets in Southeast Asia. 该公司希望开拓东南亚的新市场。"
+    },
+    {
+     "w": "at scale",
+     "ipa": "/æt skeɪl/",
+     "pos": "phr.",
+     "en": "on a large scale, involving large amounts of data, people or activity",
+     "zh": "大规模地，规模化地",
+     "ctx": "指借 AI 对海量摄像头及其视频做规模化分析，不再靠人一台一台地看。",
+     "ex1": "AI can analyze enormous amounts of video footage at scale. 人工智能能够大规模分析海量视频画面。",
+     "ex2": "The company struggled to deliver its services at scale. 该公司难以大规模提供服务。"
+    },
+    {
+     "w": "combatant",
+     "ipa": "/ˈkɒmbətənt/",
+     "pos": "n.",
+     "en": "a person, group or country that takes part in armed conflict",
+     "zh": "战斗人员，交战方",
+     "ctx": "指参与战争或武装冲突的一方，这里指利用被入侵摄像头获取军事情报的交战势力。",
+     "ex1": "Both combatants relied heavily on digital intelligence during the conflict. 冲突双方都高度依赖数字情报。",
+     "ex2": "International law distinguishes between combatants and civilians. 国际法对战斗人员和平民作出了区分。"
+    },
+    {
+     "w": "surpass",
+     "ipa": "/səˈpɑːs/",
+     "pos": "v.",
+     "en": "to do or be better than someone or something; to exceed a particular level",
+     "zh": "超越，超过，胜过",
+     "ctx": "指 AI 分析海量监控数据的能力，在某些方面已经压过人类情报分析员。",
+     "ex1": "AI systems can surpass humans in certain data-processing tasks. 人工智能系统在某些数据处理任务上能够超越人类。",
+     "ex2": "The company’s profits surpassed expectations this year. 该公司今年的利润超过了预期。"
+    },
+    {
+     "w": "ream",
+     "ipa": "/riːm/",
+     "pos": "n.",
+     "en": "a large quantity of something, especially information or written material",
+     "zh": "大量，大批；令（纸张计量单位）",
+     "ctx": "reams of footage 指海量视频素材；ream 原是纸张计量单位，后引申为大量文件、数据或信息。",
+     "ex1": "Analysts examined reams of data to identify suspicious activity. 分析人员检查了海量数据，以识别可疑活动。",
+     "ex2": "The investigation produced reams of documents and reports. 这项调查产生了大量文件和报告。"
+    },
+    {
+     "w": "hidden gem",
+     "ipa": "/ˌhɪdn ˈdʒem/",
+     "pos": "n. phr.",
+     "en": "something valuable or useful that is not immediately obvious or easily noticed",
+     "zh": "隐藏的宝藏，不易察觉的珍贵事物",
+     "ctx": "比喻藏在海量监控画面里、不容易被发现却极有价值的情报线索，并非真的宝石。",
+     "ex1": "The algorithm uncovered hidden gems in millions of security recordings. 算法从数百万段安防录像中发现了隐藏的重要线索。",
+     "ex2": "The small bookstore is a hidden gem in the heart of the city. 这家小书店是市中心一处鲜为人知的宝藏。"
+    }
+   ]
+  },
+  {
+   "en_html": "Russia and Ukraine have <mark class=\"voc\">ramped up</mark> camera-hacking in their war, aiming to spy on each other, find new targets and assess damage from their attacks. Israel, long a master of digital <mark class=\"voc\">spycraft</mark>, hacked into Iranian traffic cameras to help forces collect intelligence used in the <mark class=\"voc\">assassination</mark> of Iranian Supreme Leader Ali Khamenei earlier this year. Iran and its <mark class=\"voc\">proxies</mark> have <mark class=\"voc\">struck back</mark> by breaking into hundreds of Israeli webcams and security cameras that Israeli officials consider sensitive to national security, like the one on the chicken coop.",
+   "zh": "俄罗斯和乌克兰在战争中都加大了入侵摄像头的力度，试图借此相互刺探情报、寻找新的攻击目标，并评估袭击造成的损失。以色列长期以来精通数字间谍技术，今年早些时候曾入侵伊朗的交通摄像头，协助军方收集情报，这些情报随后被用于刺杀伊朗最高领袖阿里·哈梅内伊。伊朗及其代理势力则展开反击，侵入了数百台以色列网络摄像头和安防摄像头，其中包括鸡舍上的那一台。这些设备被以色列官员视为可能涉及国家安全的敏感设施。",
+   "notes": [
+    {
+     "w": "ramp up",
+     "ipa": "/ræmp ʌp/",
+     "pos": "phr. v.",
+     "en": "to increase the amount, level or intensity of an activity",
+     "zh": "加大，加强，提高",
+     "ctx": "指俄乌双方都在加码摄像头黑客攻击，让网络入侵成了战争情报的常规手段。",
+     "ex1": "Both sides ramped up cyber operations during the conflict. 冲突期间，双方都加大了网络行动的力度。",
+     "ex2": "The government ramped up security measures after the attack. 袭击发生后，政府加强了安全措施。"
+    },
+    {
+     "w": "spycraft",
+     "ipa": "/ˈspaɪkrɑːft/",
+     "pos": "n.",
+     "en": "the skills, methods and techniques used in espionage",
+     "zh": "间谍技术，情报活动技巧",
+     "ctx": "digital spycraft 指用数字技术搞间谍活动、监视与情报收集，突出以色列在网络情报上的老到。",
+     "ex1": "Modern spycraft increasingly relies on digital surveillance and cyber operations. 现代间谍技术越来越依赖数字监控和网络行动。",
+     "ex2": "The novel offers a fascinating glimpse into the world of Cold War spycraft. 这部小说让读者得以一窥冷战时期的间谍世界。"
+    },
+    {
+     "w": "assassination",
+     "ipa": "/əˌsæsɪˈneɪʃn/",
+     "pos": "n.",
+     "en": "the deliberate killing of an important or well-known person, especially for political reasons",
+     "zh": "暗杀，刺杀",
+     "ctx": "指针对伊朗最高领袖的定点刺杀，一句话把“偷看摄像头”与“炸到人头上去”连了起来。",
+     "ex1": "The assassination of the political leader shocked the nation. 这位政治领袖遭到暗杀，震惊了全国。",
+     "ex2": "Intelligence agencies uncovered a plot to carry out an assassination. 情报机构发现了一起暗杀阴谋。"
+    },
+    {
+     "w": "proxy",
+     "ipa": "/ˈprɒksi/",
+     "pos": "n.",
+     "en": "a person or group acting on behalf of another person, organization or country",
+     "zh": "代理人，代理势力",
+     "ctx": "指与伊朗有关联、代其利益出手的其他组织或势力；proxies 是复数形式。",
+     "ex1": "The country relied on regional proxies to extend its influence. 该国依靠地区代理势力扩大自身影响力。",
+     "ex2": "The conflict increasingly involved armed groups acting as proxies for larger powers. 这场冲突越来越多地涉及充当大国代理人的武装组织。"
+    },
+    {
+     "w": "strike back",
+     "ipa": "/straɪk bæk/",
+     "pos": "phr. v.",
+     "en": "to respond to an attack or harmful action by attacking in return",
+     "zh": "反击，回击，报复",
+     "ctx": "指伊朗及其代理势力反向入侵数百台以色列摄像头，以此前的网络与军事行动还以颜色。",
+     "ex1": "The hackers struck back by targeting government websites. 黑客通过攻击政府网站展开反击。",
+     "ex2": "The company struck back against its competitors with a cheaper product. 该公司推出价格更低的产品，反击竞争对手。"
+    }
+   ]
+  },
+  {
+   "en_html": "In 2024, Russian hackers <mark class=\"voc\">commandeered</mark> residential webcams in Kyiv, including one installed by a <mark class=\"voc\">condominium</mark> association to monitor the neighborhood. Ukraine’s security service, the SBU, said that Russia intended to use the hacked <mark class=\"voc\">video feeds</mark> to find targets in the capital and “to adjust missile attacks on Ukraine,” <mark class=\"voc\">refining</mark> their aim for <mark class=\"voc\">subsequent</mark> strikes. The SBU said it has identified and secured, reoriented or blocked roughly 40,000 video cameras that <mark class=\"voc\">posed</mark> potential security risks since Russia’s 2022 invasion.",
+   "zh": "2024年，俄罗斯黑客夺取了乌克兰首都基辅多台住宅网络摄像头的控制权，其中包括一台由公寓业主协会安装、原本用于监控周边社区的摄像头。乌克兰国家安全局（SBU）表示，俄罗斯打算利用这些被入侵的摄像头所传输的视频画面，在首都寻找攻击目标，并“调整对乌克兰的导弹袭击”，从而提高后续打击的精确度。乌克兰国家安全局还表示，自2022年俄罗斯发动入侵以来，该机构已识别出约4万台存在潜在安全风险的摄像头，并对其采取安全加固、调整朝向或封锁等措施。",
+   "notes": [
+    {
+     "w": "commandeer",
+     "ipa": "/ˌkɒmənˈdɪə/",
+     "pos": "v.",
+     "en": "to take control or possession of something, often by force or without permission",
+     "zh": "强行征用，夺取控制权",
+     "ctx": "指俄黑客不经许可夺走民用摄像头用于军事侦察，比 use 多了“强行占有”的意味。",
+     "ex1": "Hackers commandeered several webcams to monitor movements near the border. 黑客夺取了数台网络摄像头的控制权，以监视边境附近的活动。",
+     "ex2": "During the emergency, the military commandeered civilian vehicles. 紧急情况下，军方征用了民用车辆。"
+    },
+    {
+     "w": "condominium",
+     "ipa": "/ˌkɒndəˈmɪniəm/",
+     "pos": "n.",
+     "en": "a building containing individually owned apartments with shared common areas",
+     "zh": "共有产权公寓，产权式公寓",
+     "ctx": "指业主各持单元、共同管理公共区域的住宅；condominium association 即公寓业主协会，装摄像头只是为了看小区。",
+     "ex1": "The condominium association installed cameras to improve neighborhood security. 公寓业主协会安装了摄像头，以改善社区安全。",
+     "ex2": "She purchased a condominium near the city center. 她在市中心附近买了一套产权公寓。"
+    },
+    {
+     "w": "video feed",
+     "ipa": "/ˈvɪdiəʊ fiːd/",
+     "pos": "n. phr.",
+     "en": "a continuous stream of video images transmitted from a camera or another source",
+     "zh": "视频流，实时视频画面",
+     "ctx": "指被入侵摄像头源源不断传出的画面，黑客靠它盯目标区域，再给导弹打击提供依据。",
+     "ex1": "The security team monitored live video feeds from cameras across the building. 安保团队监看着大楼各处摄像头传来的实时视频画面。",
+     "ex2": "Hackers gained access to the video feed from a residential webcam. 黑客获取了一台住宅网络摄像头的视频流。"
+    },
+    {
+     "w": "refine",
+     "ipa": "/rɪˈfaɪn/",
+     "pos": "v.",
+     "en": "to improve something by making small changes or adjustments",
+     "zh": "改进，完善，使更精确",
+     "ctx": "指依据摄像头情报修正后续导弹袭击的瞄准，refining their aim 强调一点点把准头校出来。",
+     "ex1": "The military used surveillance data to refine its targeting methods. 军方利用监控数据改进目标瞄准方法。",
+     "ex2": "Scientists continued to refine the model as new data became available. 随着新数据不断出现，科学家持续完善模型。"
+    },
+    {
+     "w": "subsequent",
+     "ipa": "/ˈsʌbsɪkwənt/",
+     "pos": "adj.",
+     "en": "happening or coming after something else",
+     "zh": "随后的，后续的",
+     "ctx": "指在先前的袭击与情报分析之后打的下一轮，强调这次的情报是为了下一次的打击。",
+     "ex1": "The information was used to plan subsequent military operations. 这些信息被用于规划后续军事行动。",
+     "ex2": "The initial mistake caused serious problems in subsequent stages of the project. 最初的错误给项目后续阶段带来了严重问题。"
+    },
+    {
+     "w": "pose",
+     "ipa": "/pəʊz/",
+     "pos": "v.",
+     "en": "to cause or present a problem, danger or threat",
+     "zh": "造成，构成（威胁、风险或问题）",
+     "ctx": "pose potential security risks 指摄像头可能对国家安全构成潜在风险；这里的 pose 是“构成”，不是“摆姿势”。",
+     "ex1": "Unsecured cameras may pose serious risks to national security. 缺乏安全防护的摄像头可能对国家安全构成严重风险。",
+     "ex2": "Climate change poses a major threat to coastal communities. 气候变化对沿海社区构成重大威胁。"
+    }
+   ]
+  }
+ ]
+}

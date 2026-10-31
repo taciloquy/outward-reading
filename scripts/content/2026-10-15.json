@@ -1,0 +1,730 @@
+{
+ "date": "2026-10-15",
+ "title_tag": "全球都在抢矿，中国却开始抢“垃圾”：一块废电池，为什么成了战略资源？—— 英国《经济学人》外刊讲解第1198天",
+ "h1": "全球都在抢矿，中国却开始抢“垃圾”：一块废电池，为什么成了战略资源？",
+ "source_label": "The Economist",
+ "category": "英国《经济学人》外刊讲解 第1198天",
+ "read_minutes": 18,
+ "nav_hint": "Turning trash into treasure",
+ "headline": {
+  "en_html": "China is turning <mark class=\"voc\">trash</mark> into <mark class=\"voc\">treasure</mark> on a <mark class=\"voc\">vast</mark> scale — EV batteries, especially, will help it secure supplies of <mark class=\"voc\">critical</mark> <mark class=\"voc\">minerals</mark>",
+  "zh": "中国正以惊人的规模，把垃圾变成宝物——尤其是电动车电池，它将帮助中国把关键矿产的供应牢牢锁定在自己手里。",
+  "notes": [
+   {
+    "w": "trash",
+    "ipa": "/træʃ/",
+    "pos": "n.",
+    "en": "Trash means things that are no longer wanted or useful, especially household waste.",
+    "zh": "垃圾，破烂",
+    "ctx": "标题用 trash 不用 waste，要的是“破烂”的粗粝感——变废为宝说的就是最不起眼的东西也能翻身。",
+    "ex1": "Don't just throw it away as trash. 别把它当垃圾扔了。",
+    "ex2": "One man's trash is another man's treasure. 一个人的垃圾，是另一个人的宝贝。"
+   },
+   {
+    "w": "treasure",
+    "ipa": "/ˈtreʒə(r)/",
+    "pos": "n./v.",
+    "en": "Treasure means a collection of valuable things such as gold or jewels; as a verb, to value something highly.",
+    "zh": "宝物；珍视",
+    "ctx": "与 trash 押头韵，凑成“变废为宝”的英文对句，暗指废电池就是埋在城里的宝藏。",
+    "ex1": "We treasure these memories. 我们珍视这些记忆。",
+    "ex2": "The city is digging treasure out of its own rubbish. 这座城市正在从自己的垃圾里挖宝。"
+   },
+   {
+    "w": "vast",
+    "ipa": "/vɑːst/",
+    "pos": "adj.",
+    "en": "Vast means extremely large in size, amount, or degree.",
+    "zh": "巨大的，广袤的",
+    "ctx": "on a vast scale＝大规模地，作者借它写出国家级体量，而不是几家工厂的生意。",
+    "ex1": "China is turning trash into treasure on a vast scale. 中国正在大规模地变废为宝。",
+    "ex2": "The scheme operates on a vast scale. 这个计划规模空前。"
+   },
+   {
+    "w": "critical",
+    "ipa": "/ˈkrɪtɪkl/",
+    "pos": "adj.",
+    "en": "Critical means extremely important, or at a point of crisis; it can also mean judging or analytical.",
+    "zh": "关键的；危急的；批判性的",
+    "ctx": "critical minerals＝关键矿产，标题用它点出废电池里那点金属何以成了战略资源。",
+    "ex1": "Lithium and cobalt are critical minerals. 锂和钴是关键矿产。",
+    "ex2": ""
+   },
+   {
+    "w": "mineral",
+    "ipa": "/ˈmɪnərəl/",
+    "pos": "n.",
+    "en": "A mineral is a natural substance in the earth, such as coal, salt, or metal ore.",
+    "zh": "矿物，矿产",
+    "ctx": "与第六段的 ore 是“成品对原料”：中国精炼 minerals，却进口 ores，这一对词是全文暗线。",
+    "ex1": "The country lacks mineral resources. 该国矿产资源匮乏。",
+    "ex2": ""
+   }
+  ]
+ },
+ "paragraphs": [
+  {
+   "en_html": "A fast-growing number of EVs will soon be <mark class=\"voc\">scrapped</mark> and replaced. Shredding their batteries <mark class=\"voc\">yields</mark> “<mark class=\"voc\">black mass</mark>”, a powder from which valuable metals such as lithium, cobalt and nickel can be recovered and reused. From next month the EU will make it harder to export this waste. The aim is to encourage more processing of black mass close to home (at the moment most is shipped to Asia). In August America, which has <mark class=\"voc\">banned</mark> Chinese EVs but still imports lots of Chinese batteries, blocked all black-mass exports.",
+   "zh": "越来越多的电动车，很快就会报废、被换掉。把这些车的电池撕碎，就能产出“黑粉”——一种粉末，从中可以回收并再利用锂、钴、镍这些贵重的金属。从下个月起，欧盟会让这种废物的出口变得更难，目的是鼓励更多黑粉在本地加工（而目前，绝大部分都被运去了亚洲）。8月，美国封锁了所有黑粉的出口——有意思的是，这个国家禁掉了中国的电动车，却还在大量进口中国的电池。",
+   "notes": [
+    {
+     "w": "scrap",
+     "ipa": "/skræp/",
+     "pos": "v./n.",
+     "en": "To scrap something means to get rid of it because it is no longer useful; as a noun, it is waste material, especially metal, that can be reused.",
+     "zh": "报废，废弃；废料",
+     "ctx": "第一段作动词“报废”，第九段作名词“废铜废铝”，一个词两副面孔。",
+     "ex1": "A growing number of EVs will soon be scrapped. 越来越多的电动车很快就要报废。",
+     "ex2": "The plant imports scrap copper and aluminium. 这家工厂进口废铜和废铝。"
+    },
+    {
+     "w": "yield",
+     "ipa": "/jiːld/",
+     "pos": "v./n.",
+     "en": "If something yields a result or a substance, it produces it; to yield can also mean to give way to pressure.",
+     "zh": "产出，出产；屈服",
+     "ctx": "宾语决定词义：yield black mass 是“产出”，作者借此把处理垃圾悄悄写成了开采矿山。",
+     "ex1": "Shredding their batteries yields “black mass”. 粉碎这些电池会产出“黑粉”。",
+     "ex2": "The mine yields 10 tonnes of copper a day. 这座矿每天产出10吨铜。"
+    },
+    {
+     "w": "black mass",
+     "ipa": "/ˌblæk ˈmæs/",
+     "pos": "n.",
+     "en": "Black mass is the powder left after lithium-ion batteries are shredded, containing valuable metals such as lithium, cobalt and nickel.",
+     "zh": "黑粉（电池粉碎后的黑色粉末）",
+     "ctx": "全文主角：电池撕碎后的黑粉，富含锂钴镍，等于“城市里的矿”。",
+     "ex1": "Black mass might make up 20-30% of global demand for battery metals by 2050. 到2050年，黑粉可能占全球电池金属需求的20%至30%。",
+     "ex2": ""
+    },
+    {
+     "w": "ban / block",
+     "ipa": "/bæn/ /blɒk/",
+     "pos": "v.",
+     "en": "To ban means to officially forbid something; to block means to stop something from moving or happening.",
+     "zh": "禁止；封锁，拦下",
+     "ctx": "ban 是立法层面的“禁”，block 是动作层面的“拦”：禁了中国的车，却照样买中国的电池。",
+     "ex1": "America has banned Chinese EVs but still imports lots of Chinese batteries. 美国禁了中国的电动车，却仍在大量进口中国的电池。",
+     "ex2": ""
+    }
+   ]
+  },
+  {
+   "en_html": "China, however, is unlikely to suffer. Black mass might make up 20-30% of global demand for battery metals by 2050, says the International Energy Agency, a forecaster. So China is <mark class=\"voc\">supercharging</mark> its recycling industries: not just to <mark class=\"voc\">shore up</mark> supplies of battery metals, but also <mark class=\"voc\">rare-earths</mark> and much else. The goal is to make its economy less “<mark class=\"voc\">linear</mark>” (where raw materials are made into products which are then thrown away) and more “circular” (closing the loop so recycled waste <mark class=\"voc\">replaces</mark> raw materials).",
+   "zh": "不过，中国不太可能吃亏。国际能源署——一家预测机构——认为，到2050年，黑粉可能占到全球电池金属需求的二到三成。所以，中国正在给自己的回收产业猛踩油门：目标不只是稳住电池金属的供应，还有稀土，以及其他很多东西。它的目标，是让本国经济少一点“线性”（原材料被制成产品，随后被丢弃），多一点“循环”（闭合回路，让回收来的废物顶替原材料）。",
+   "notes": [
+    {
+     "w": "supercharge",
+     "ipa": "/ˈsuːpətʃɑːdʒ/",
+     "pos": "v.",
+     "en": "To supercharge something means to give it much more power or energy than usual.",
+     "zh": "给……增压；使猛增",
+     "ctx": "不是“发展”，是“踩油门”，一个动词把国家意志的力度写了出来。",
+     "ex1": "China is supercharging its recycling industries. 中国正在给它的回收产业猛踩油门。",
+     "ex2": ""
+    },
+    {
+     "w": "shore up",
+     "ipa": "/ʃɔː(r)/",
+     "pos": "phr. v.",
+     "en": "To shore up something means to support or strengthen it, especially when it is weak.",
+     "zh": "支撑，巩固",
+     "ctx": "shore up supplies＝把电池金属的供应“顶住”，暗示这份供应本来有垮塌风险。",
+     "ex1": "The move aims to shore up supplies of battery metals. 此举意在巩固电池金属的供应。",
+     "ex2": ""
+    },
+    {
+     "w": "rare earth",
+     "ipa": "/ˌreə ˈɜːθ/",
+     "pos": "n.",
+     "en": "Rare earths are a group of 17 chemical elements used in magnets, batteries and electronics.",
+     "zh": "稀土",
+     "ctx": "稀土其实不“稀”，难的是把 17 个化学性质相近的元素分开，中国的优势正在分离环节。",
+     "ex1": "China supercharges recycling of rare earths too. 中国也在加码稀土回收。",
+     "ex2": ""
+    },
+    {
+     "w": "linear / circular",
+     "ipa": "/ˈlɪniə(r)/ /ˈsɜːkjələ(r)/",
+     "pos": "adj.",
+     "en": "A linear economy takes raw materials, makes products, and throws them away; a circular one closes the loop so recycled waste replaces raw materials.",
+     "zh": "线性的；循环的",
+     "ctx": "全文骨架：linear 是拿料—造—扔，circular 是让回收料顶替原料。",
+     "ex1": "The goal is to make its economy less linear and more circular. 目标是让经济更少“线性”、更多“循环”。",
+     "ex2": ""
+    },
+    {
+     "w": "replace A with B",
+     "ipa": "/rɪˈpleɪs/",
+     "pos": "phr.",
+     "en": "To replace A with B means to put B in the place of A; to substitute A for B means to use A in place of B.",
+     "zh": "用 B 替换 A",
+     "ctx": "closing the loop so recycled waste replaces raw materials——用再生废料顶替原材料，正是“循环”的定义。",
+     "ex1": "Recycled waste replaces raw materials. 再生废料顶替了原材料。",
+     "ex2": ""
+    }
+   ]
+  },
+  {
+   "en_html": "Once recycling efforts were <mark class=\"voc\">driven</mark> by concerns about pollution. Now, amid a global <mark class=\"voc\">scramble</mark> for the materials needed to build a high-tech economy, security has become a <mark class=\"voc\">primary</mark> <mark class=\"voc\">motive</mark>.",
+   "zh": "曾经，回收这件事是由“对污染的担忧”推动的。而现在，在一场为打造高科技经济所需的原材料而展开的全球争夺中，安全已经成为首要的动机。",
+   "notes": [
+    {
+     "w": "drive",
+     "ipa": "/draɪv/",
+     "pos": "v.",
+     "en": "To drive something means to cause it to happen or to force it in a particular direction.",
+     "zh": "驱动，促使；驱使",
+     "ctx": "efforts were driven by concerns——被动语态暗示回收是被外部推着走的。",
+     "ex1": "Once recycling efforts were driven by concerns about pollution. 过去，回收的努力是由对污染的担忧推动的。",
+     "ex2": ""
+    },
+    {
+     "w": "scramble",
+     "ipa": "/ˈskræmbl/",
+     "pos": "n./v.",
+     "en": "A scramble is a hurried and competitive struggle to get something; to scramble means to climb or move quickly using hands and feet.",
+     "zh": "争抢，抢夺",
+     "ctx": "不用 competition 而用 scramble，作者要说的是：这不是比赛，是抢。",
+     "ex1": "There is a global scramble for these materials. 全世界都在抢这些材料。",
+     "ex2": ""
+    },
+    {
+     "w": "primary",
+     "ipa": "/ˈpraɪməri/",
+     "pos": "adj.",
+     "en": "Primary means main, most important, or happening first.",
+     "zh": "首要的，主要的",
+     "ctx": "a primary motive＝首要动机，比 main 更有书面语的正式感。",
+     "ex1": "Security has become a primary motive. 安全已成为首要动机。",
+     "ex2": ""
+    },
+    {
+     "w": "motive",
+     "ipa": "/ˈməʊtɪv/",
+     "pos": "n.",
+     "en": "A motive is a reason for doing something, especially one that is hidden.",
+     "zh": "动机",
+     "ctx": "用 motive 不用 reason，暗含“真正推动事情的那只手未必明说”。",
+     "ex1": "Security has become a primary motive. 安全已成为首要动机。",
+     "ex2": ""
+    }
+   ]
+  },
+  {
+   "en_html": "In the 1980s China started to import waste, taking the <mark class=\"voc\">hardware</mark>, paper and plastic that richer countries did not want. A <mark class=\"voc\">sprawling</mark> informal recycling-sector emerged, led by <mark class=\"voc\">scavengers</mark> picking through rubbish piles. Much ended up in <mark class=\"voc\">landfills</mark> or burnt in the open air, <mark class=\"voc\">leaching</mark> toxic chemicals and creating poisonous <mark class=\"voc\">smog</mark>.",
+   "zh": "20 世纪80 年代，中国开始进口废物，接收那些富裕国家不要的金属器件、纸张和塑料。一个杂乱蔓延的非正规回收行业应运而生，主角是在垃圾堆里翻捡的拾荒者。这些废物中的大部分，最终进了填埋场，或者索性被露天焚烧，渗出有毒的化学物质，制造出有毒的烟雾。",
+   "notes": [
+    {
+     "w": "hardware",
+     "ipa": "/ˈhɑːdweə(r)/",
+     "pos": "n.",
+     "en": "Hardware means tools and equipment made of metal; in computing, it means the physical parts of a computer.",
+     "zh": "五金器具；（电脑）硬件",
+     "ctx": "熟词僻义：这里指一船一船的金属器件，不是电脑硬件。",
+     "ex1": "They took the hardware, paper and plastic that richer countries did not want. 他们把富国不要的五金件、纸张和塑料拉了回来。",
+     "ex2": ""
+    },
+    {
+     "w": "sprawling",
+     "ipa": "/ˈsprɔːlɪŋ/",
+     "pos": "adj.",
+     "en": "Sprawling means spreading out over a large area in an untidy or irregular way.",
+     "zh": "杂乱蔓延的，无序扩张的",
+     "ctx": "不是普通的“大”，是“大得没规矩、东一块西一块”。",
+     "ex1": "A sprawling informal recycling sector emerged. 一个杂乱蔓延的非正规回收业冒了出来。",
+     "ex2": ""
+    },
+    {
+     "w": "scavenger",
+     "ipa": "/ˈskævɪndʒə(r)/",
+     "pos": "n.",
+     "en": "A scavenger is a person or animal that collects things that have been discarded, or feeds on dead animals.",
+     "zh": "拾荒者；食腐动物",
+     "ctx": "不用 worker、不用 recycler，一个词写尽这条链上“我们翻剩下的”位置。",
+     "ex1": "… led by scavengers picking through rubbish piles. ……带头的是在垃圾堆里翻找的拾荒者。",
+     "ex2": ""
+    },
+    {
+     "w": "landfill",
+     "ipa": "/ˈlændfɪl/",
+     "pos": "n.",
+     "en": "A landfill is a large place where waste is buried under the ground.",
+     "zh": "垃圾填埋场",
+     "ctx": "全文“三种去向”之一：填埋、焚烧、回收，后面每段都会回指一次。",
+     "ex1": "Much of it ended up in landfills. 其中大部分进了填埋场。",
+     "ex2": ""
+    },
+    {
+     "w": "leach",
+     "ipa": "/liːtʃ/",
+     "pos": "v.",
+     "en": "If a liquid leaches, it slowly passes through soil or waste, carrying chemicals with it.",
+     "zh": "沥滤，渗滤",
+     "ctx": "现在分词作结果状语：一埋一烧，结果就是渗毒、冒烟。",
+     "ex1": "… leaching toxic chemicals and creating poisonous smog. ……沥滤出有毒化学品，制造出有毒的烟雾。",
+     "ex2": ""
+    },
+    {
+     "w": "smog",
+     "ipa": "/smɒɡ/",
+     "pos": "n.",
+     "en": "Smog is a form of air pollution that looks like thick smoke mixed with fog.",
+     "zh": "雾霾，烟雾",
+     "ctx": "smoke+fog 的混成词，把八十年代遮天蔽日的画面直接压在读者眼前。",
+     "ex1": "Rubbish burnt in the open air created poisonous smog. 露天焚烧垃圾制造出有毒的烟雾。",
+     "ex2": ""
+    }
+   ]
+  },
+  {
+   "en_html": "China is still <mark class=\"voc\">well behind</mark> <mark class=\"voc\">squeaky-clean</mark> European countries when it comes to waste management (though it is hard to say how far, as it does not publish detailed national data for recycling). Its poorer rural areas are still often <mark class=\"voc\">strewn with</mark> rubbish. But officials have made China’s big cities, at least, cleaner and more pleasant to live in. Now their focus is shifting to the use of recycling <mark class=\"voc\">for the sake of</mark> security. In July China released a plan for the development of the circular economy until 2030. “The importance of resource security has become increasingly <mark class=\"voc\">prominent</mark>, while geopolitical dynamics…have grown complex and severe,” the plan noted.",
+   "zh": "在废物管理这件事上，中国仍然远远落后于那些一尘不染的欧洲国家（不过到底落后多少，很难说清，因为中国并不公布关于回收的详细全国数据）。它较为贫困的农村地区，至今仍常常垃圾遍地。但至少，官员们让中国的大城市变得更干净、也更宜居了。而现在，他们的重心正在转移——为了安全而利用回收。今年 7 月，中国发布了一份面向2030 年的循环经济发展规划。该规划指出：“资源安全的重要性日益凸显，而地缘政治的……已经变得复杂而严峻。”",
+   "notes": [
+    {
+     "w": "well behind",
+     "ipa": "/wel bɪˈhaɪnd/",
+     "pos": "phr.",
+     "en": "Well behind means much further back than something — here “well” is a degree adverb meaning much.",
+     "zh": "远远落后于",
+     "ctx": "well 这里是程度副词＝much，不是“好”；同一串还有 well ahead、well above。",
+     "ex1": "China is still well behind European countries. 中国仍然远远落后于欧洲国家。",
+     "ex2": ""
+    },
+    {
+     "w": "squeaky-clean",
+     "ipa": "/ˌskwiːki ˈkliːn/",
+     "pos": "adj.",
+     "en": "Squeaky-clean means very clean; it can also mean having a spotless reputation.",
+     "zh": "干净得发亮的；名声清白的",
+     "ctx": "与 well behind 形成反差：中国远远落后于“擦得吱吱响”的欧洲。",
+     "ex1": "… behind squeaky-clean European countries. ……落后于干净得吱吱响的欧洲国家。",
+     "ex2": ""
+    },
+    {
+     "w": "strew / strewn with",
+     "ipa": "/struː/",
+     "pos": "v./adj.",
+     "en": "To strew means to scatter things over a surface; strewn with means covered with things scattered around.",
+     "zh": "散落，撒满",
+     "ctx": "作者写的不是“脏”，是“乱”——东西东一堆西一摊地撒在那里。",
+     "ex1": "Rural areas are still strewn with rubbish. 农村地区仍然散落着垃圾。",
+     "ex2": ""
+    },
+    {
+     "w": "for the sake of",
+     "ipa": "/seɪk/",
+     "pos": "phr.",
+     "en": "For the sake of means for the purpose of, or for the benefit of, something.",
+     "zh": "为了……的缘故",
+     "ctx": "for the sake of security——回收的目的被改写成“安全”，这是全文的转折。",
+     "ex1": "Their focus is shifting to the use of recycling for the sake of security. 它们的重心正转向为了安全而使用回收。",
+     "ex2": ""
+    },
+    {
+     "w": "prominent",
+     "ipa": "/ˈprɒmɪnənt/",
+     "pos": "adj.",
+     "en": "Prominent means important, well-known, or easily noticed.",
+     "zh": "突出的，显著的；知名的",
+     "ctx": "官方文件里 resource security has become increasingly prominent，标准的公文腔，原样引进。",
+     "ex1": "The importance of resource security has become increasingly prominent. 资源安全的重要性日益凸显。",
+     "ex2": ""
+    }
+   ]
+  },
+  {
+   "en_html": "That judgment <mark class=\"voc\">rests on</mark> two considerations. First, China wants to dominate high-tech manufacturing in everything from robotics to wind turbines. And second, to achieve this, it must secure supplies of raw materials, connect more power lines and build more data-centres. Massive amounts of aluminium, copper, battery metals and rare earths are needed. While China controls <mark class=\"voc\">the bulk of</mark> the global <mark class=\"voc\">refining</mark> capacity for these materials, it relies on imports for most of the <mark class=\"voc\">ores</mark>. Meanwhile many Western countries want to reduce reliance on China’s factories. Officials worry they might try to <mark class=\"voc\">squeeze</mark> its supplies. Last year a researcher at a state-owned research facility said that without recycling China would “keep facing <mark class=\"voc\">strangleholds</mark> in the future”.",
+   "zh": "这个判断建立在两个考量之上。第一，中国想要主导高科技制造业——从机器人技术到风力发电机，无所不包。第二，为了实现这一点，它必须确保原材料的供应、接入更多电力线路、并建造更多数据中心；而这需要大量的铝、铜、电池金属和稀土。中国虽然掌控着这些材料全球精炼产能的大部分，但它的矿石却大部分依赖进口。与此同时，许多西方国家想要减少对中国工厂的依赖。官员们担心，他们可能会设法挤压中国的供应。去年，一家国有研究机构的一位研究者说，如果没有回收，中国未来将“持续被卡脖子”。",
+   "notes": [
+    {
+     "w": "rest on",
+     "ipa": "/rest ɒn/",
+     "pos": "phr. v.",
+     "en": "To rest on something means to depend on or be based on it.",
+     "zh": "建立在……之上，取决于",
+     "ctx": "熟词僻义，不是“躺在……上”；这句被删，后面的 First 就悬空了。",
+     "ex1": "That judgment rests on two considerations. 这个判断建立在两点考虑之上。",
+     "ex2": ""
+    },
+    {
+     "w": "the bulk of",
+     "ipa": "/bʌlk/",
+     "pos": "phr.",
+     "en": "The bulk of something is the largest part of it.",
+     "zh": "大部分，绝大部分",
+     "ctx": "熟词僻义：bulk 本义“大块”，the bulk of 就是“大头”。",
+     "ex1": "China controls the bulk of the global refining capacity. 中国掌控着全球绝大部分的精炼产能。",
+     "ex2": ""
+    },
+    {
+     "w": "refine",
+     "ipa": "/rɪˈfaɪn/",
+     "pos": "v.",
+     "en": "To refine a substance means to make it pure by removing unwanted parts; more generally, to improve something.",
+     "zh": "精炼，提炼",
+     "ctx": "refining capacity＝精炼产能：矿是别人挖的，炉子在我这儿。",
+     "ex1": "China controls the bulk of the global refining capacity. 中国掌控着全球大部分精炼产能。",
+     "ex2": ""
+    },
+    {
+     "w": "ore",
+     "ipa": "/ɔː(r)/",
+     "pos": "n.",
+     "en": "Ore is rock containing metal or mineral from which the metal can be extracted.",
+     "zh": "矿石",
+     "ctx": "与第一段的 mineral 收口：中间强、两头靠外，这就是“卡脖子”的结构性由来。",
+     "ex1": "It relies on imports for most of the ores. 它的矿石大部分依赖进口。",
+     "ex2": ""
+    },
+    {
+     "w": "squeeze",
+     "ipa": "/skwiːz/",
+     "pos": "v.",
+     "en": "To squeeze means to press something firmly from two sides; to squeeze supplies means to tighten them gradually.",
+     "zh": "挤压，压榨",
+     "ctx": "不是“切断”，是“从两边一点点挤”——渐进收紧的压力感。",
+     "ex1": "Officials worry they might try to squeeze its supplies. 官员们担心它们会试图挤压供应。",
+     "ex2": ""
+    },
+    {
+     "w": "stranglehold",
+     "ipa": "/ˈstræŋɡlhəʊld/",
+     "pos": "n.",
+     "en": "A stranglehold is a strong grip on someone's neck; figuratively, complete control over something.",
+     "zh": "扼制，卡脖子式的控制",
+     "ctx": "全文情绪最高点：没有回收，中国将继续 facing strangleholds——中文三个字就是“卡脖子”。",
+     "ex1": "China would “keep facing strangleholds in the future”. 中国将“在未来不断面临被卡脖子的局面”。",
+     "ex2": ""
+    }
+   ]
+  },
+  {
+   "en_html": "That China already makes vast quantities of these goods should make recycling simpler to do. Factories can <mark class=\"voc\">tweak</mark> designs so that products are easier to <mark class=\"voc\">dismantle</mark> later. And many battery-producing techniques (such as using acids and heat to <mark class=\"voc\">isolate</mark> valuable metals) are also used in recycling them. Take CATL, for example, the world’s largest battery-maker. Most of the Chinese firm’s sales are domestic, and will end up being processed by a CATL <mark class=\"voc\">subsidiary</mark> called Brunp, which is the world’s biggest battery-recycler. Such <mark class=\"voc\">arrangements</mark> have helped China build 85% of global battery-recycling <mark class=\"voc\">capacity</mark>.",
+   "zh": "中国已经在大量生产这类产品——这一点，本应让回收变得更容易操作。工厂可以对设计稍作调整，好让产品在日后更容易拆解。而且，许多制造电池的技术（比如用酸和高温把有价值的金属分离出来），同样被用于回收电池。以宁德时代为例——它是全世界最大的电池制造商。这家中国公司的销售大部分在国内，而这些电池最终会被一家名叫邦普的宁德时代子公司处理，邦普是全球最大的电池回收商。正是这样的安排，帮助中国建起了全球85% 的电池回收产能。",
+   "notes": [
+    {
+     "w": "tweak",
+     "ipa": "/twiːk/",
+     "pos": "v.",
+     "en": "To tweak something means to make a small change to it in order to improve it or make it work better.",
+     "zh": "微调，稍稍改动",
+     "ctx": "小＋精准，与 change、modify、overhaul 构成一组“改”的梯度。",
+     "ex1": "Factories can tweak designs so that products are easier to dismantle later. 工厂可以对设计稍作调整，好让产品在日后更容易拆解。",
+     "ex2": ""
+    },
+    {
+     "w": "dismantle",
+     "ipa": "/dɪsˈmæntl/",
+     "pos": "v.",
+     "en": "To dismantle something means to take it apart, especially so that it can be moved, repaired, or dealt with in parts.",
+     "zh": "拆解；废除",
+     "ctx": "从“拆机器”到“拆制度”，逻辑一样：把结构一块块拿掉。",
+     "ex1": "Products become easier to dismantle later. 产品日后更容易被拆解。",
+     "ex2": ""
+    },
+    {
+     "w": "isolate",
+     "ipa": "/ˈaɪsəleɪt/",
+     "pos": "v.",
+     "en": "To isolate something means to separate it from other things, so that it is alone or apart.",
+     "zh": "分离，隔离",
+     "ctx": "用酸和高温把有价值的金属“分离”出来——电池制造与回收共用同一套技术。",
+     "ex1": "Techniques such as using acids and heat to isolate valuable metals. 比如用酸和高温把有价值的金属分离出来这类技术。",
+     "ex2": ""
+    },
+    {
+     "w": "subsidiary",
+     "ipa": "/səbˈsɪdiəri/",
+     "pos": "n.",
+     "en": "A subsidiary is a company that is owned or controlled by a larger company.",
+     "zh": "子公司",
+     "ctx": "最大的造（宁德时代）与最大的拆（邦普）是一家人，闭环的形状就这样出来。",
+     "ex1": "The batteries will be processed by a CATL subsidiary called Brunp. 这些电池将由一家名叫邦普的宁德时代子公司处理。",
+     "ex2": ""
+    },
+    {
+     "w": "arrangement",
+     "ipa": "/əˈreɪndʒmənt/",
+     "pos": "n.",
+     "en": "An arrangement is a plan or agreement about how something will be done.",
+     "zh": "安排，布局",
+     "ctx": "注意是复数：不是一件事，是一整套自产、自销、自收、自用的配套。",
+     "ex1": "Such arrangements have helped China build its capacity. 正是这样的安排帮中国建起了产能。",
+     "ex2": ""
+    },
+    {
+     "w": "capacity",
+     "ipa": "/kəˈpæsəti/",
+     "pos": "n.",
+     "en": "Capacity is the amount that something can produce or contain, or the ability to do something.",
+     "zh": "产能；能力",
+     "ctx": "这里的 capacity 是“客观能生产多少”，85% of global capacity 一句话说尽底气。",
+     "ex1": "Such arrangements helped China build 85% of global battery-recycling capacity. 正是这样的安排，帮中国建起了全球85%的电池回收产能。",
+     "ex2": ""
+    }
+   ]
+  },
+  {
+   "en_html": "China is trying to make the recycling of rare earths (which it claims now supplies 10% of them) more efficient. At present it is far more costly than <mark class=\"voc\">extracting</mark> them from <mark class=\"voc\">raw materials</mark>. Still, Chinese rare-earth companies, which are almost all <mark class=\"voc\">state-owned</mark>, “do not rely on economic <mark class=\"voc\">viability</mark> in all cases”, notes Corby Anderson.",
+   "zh": "中国正试图让稀土回收变得更高效——它声称，目前已有10% 的稀土供应来自回收。目前，稀土回收的成本远高于从原材料中提取稀土。不过，中国的稀土企业几乎全都是国有企业，它们“并非在所有情况下都依赖经济可行性”——科里·安德森如此指出。",
+   "notes": [
+    {
+     "w": "extract",
+     "ipa": "/ɪkˈstrækt/",
+     "pos": "v.",
+     "en": "To extract something means to take or pull it out, especially with effort or using a method.",
+     "zh": "提取，开采",
+     "ctx": "far more costly than extracting them from raw materials——回收站到了开矿的对立面。",
+     "ex1": "Recycling is far more costly than extracting them from raw materials. 回收远比从原材料中提取更贵。",
+     "ex2": ""
+    },
+    {
+     "w": "raw material",
+     "ipa": "/rɔː/",
+     "pos": "n.",
+     "en": "Raw materials are the basic substances from which products are made, in their natural or unprocessed state.",
+     "zh": "原材料",
+     "ctx": "第一段 linear 的定义里就出现过，这里站到回收的对立面：回收 vs 开矿。",
+     "ex1": "It is far more costly than extracting them from raw materials. 这远比从原材料中提取更贵。",
+     "ex2": ""
+    },
+    {
+     "w": "state-owned",
+     "ipa": "/ˌsteɪt ˈəʊnd/",
+     "pos": "adj.",
+     "en": "State-owned means owned by the government.",
+     "zh": "国有的",
+     "ctx": "合成形容词（名词+过去分词）；作者说 almost all 而非 all，是分寸。",
+     "ex1": "Chinese rare-earth companies are almost all state-owned. 中国的稀土企业几乎全是国有企业。",
+     "ex2": ""
+    },
+    {
+     "w": "viability",
+     "ipa": "/ˌvaɪəˈbɪləti/",
+     "pos": "n.",
+     "en": "Viability is the ability to work successfully or to survive.",
+     "zh": "可行性，生存能力",
+     "ctx": "economic viability＝这生意赚不赚钱；不看账也做，就是“国家队”的完整说明书。",
+     "ex1": "They “do not rely on economic viability in all cases”. 它们“并非在所有情况下都依赖经济可行性”。",
+     "ex2": ""
+    }
+   ]
+  },
+  {
+   "en_html": "And to make sure its recycling plants are <mark class=\"voc\">fed</mark>, China is also quietly <mark class=\"voc\">reassuming</mark> its old role in the waste trade. It is <mark class=\"voc\">selectively</mark> <mark class=\"voc\">rolling back</mark> import restrictions on some foreign waste. In 2024 it eased <mark class=\"voc\">curbs</mark> on imports of some scrap copper and aluminium. Last year it started allowing imports of black mass. In January it <mark class=\"voc\">slashed</mark> import tariffs on the stuff from 6.5% to 3%. Officials have <mark class=\"voc\">pledged</mark> to continue to increase imports of “high-quality” recycled materials over the next five years.",
+   "zh": "而且，为了确保它的回收厂有料可吃，中国还悄悄地重新扮演起了它在废物贸易中的老角色。它正有选择地放宽对某些外国废料的进口限制。2024 年，它放松了对部分废铜、废铝进口的管控；去年，它开始允许进口黑粉；今年1 月，它又把这玩意儿的进口关税从6.5% 猛砍到3%。官员们已承诺，未来五年将继续增加“高品质”再生材料的进口。",
+   "notes": [
+    {
+     "w": "feed",
+     "ipa": "/fiːd/",
+     "pos": "v.",
+     "en": "To feed means to give food to a person or animal; it also means to supply something with material.",
+     "zh": "喂养；给……供料",
+     "ctx": "不用 supplied 用“被喂”，把回收厂写成等料的嘴——饮食比喻的起点。",
+     "ex1": "… to make sure its recycling plants are fed. ……为了确保它的回收厂有料可吃。",
+     "ex2": ""
+    },
+    {
+     "w": "assume / reassume",
+     "ipa": "/əˈsjuːm/ /ˌriːəˈsjuːm/",
+     "pos": "v.",
+     "en": "To assume means to take on a responsibility, to suppose something is true, or to take on an appearance; to reassume means to take it again.",
+     "zh": "承担；假定；重新担任",
+     "ctx": "re- 点出“再次”——它以前干过这行，所以叫重拾老角色。",
+     "ex1": "China is quietly reassuming its old role in the waste trade. 中国正在悄悄重拾它在废物贸易中的老角色。",
+     "ex2": ""
+    },
+    {
+     "w": "selectively",
+     "ipa": "/sɪˈlektɪvli/",
+     "pos": "adv.",
+     "en": "Selectively means in a way that involves choosing carefully only some things.",
+     "zh": "有选择地",
+     "ctx": "不是 fully 放开（等于打脸），是“我挑着买，我不傻”。",
+     "ex1": "It is selectively rolling back import restrictions. 它正有选择地放宽进口限制。",
+     "ex2": ""
+    },
+    {
+     "w": "roll back",
+     "ipa": "/rəʊl bæk/",
+     "pos": "phr. v.",
+     "en": "To roll back something means to reduce or reverse a policy, price, or change gradually.",
+     "zh": "逐步撤销，回撤",
+     "ctx": "roll（滚动）+back（向后）——像往回卷地毯，是“逐步收”，不是一刀切。",
+     "ex1": "It is selectively rolling back import restrictions on some foreign waste. 它正有选择地放宽对某些外国废料的进口限制。",
+     "ex2": ""
+    },
+    {
+     "w": "curb",
+     "ipa": "/kɜːb/",
+     "pos": "n./v.",
+     "en": "A curb is a restraint on something; as a verb, to curb means to control or limit it.",
+     "zh": "管控，抑制；约束",
+     "ctx": "restriction 是“规则”，curb 是“缰绳”；这一次，是松缰绳。",
+     "ex1": "It eased curbs on imports of scrap copper and aluminium. 它放松了对废铜废铝进口的管控。",
+     "ex2": ""
+    },
+    {
+     "w": "slash",
+     "ipa": "/slæʃ/",
+     "pos": "v.",
+     "en": "To slash something means to cut it by a large amount, in a sudden and forceful way.",
+     "zh": "大幅削减，猛砍",
+     "ctx": "6.5%→3% 是腰斩，非 slash（又急又狠）不可。",
+     "ex1": "In January it slashed import tariffs on the stuff from 6.5% to 3%. 今年1月，它把这东西的进口关税从6.5%猛砍到3%。",
+     "ex2": ""
+    },
+    {
+     "w": "pledge",
+     "ipa": "/pledʒ/",
+     "pos": "v./n.",
+     "en": "To pledge means to make a serious or formal promise.",
+     "zh": "承诺，保证",
+     "ctx": "比 promise 重得多：带公开性、仪式感，甚至约束力。",
+     "ex1": "Officials have pledged to continue to increase imports over the next five years. 官员们已承诺未来五年继续增加进口。",
+     "ex2": ""
+    }
+   ]
+  },
+  {
+   "en_html": "Still, <mark class=\"voc\">now that</mark> America and Europe want to keep their valuable waste, could they <mark class=\"voc\">eat into</mark> China’s recycling <mark class=\"voc\">dominance</mark>? Zhang Yuping, the <mark class=\"voc\">deputy</mark> general manager of GEM, a big Shenzhen-listed battery-recycler, thinks not. “From the perspective of national security, they might have some <mark class=\"voc\">justification</mark>,” he says. But the cost of recycling outside China would be high and scaling up difficult. Europe, at least, “can’t <mark class=\"voc\">digest</mark>” such a challenge, <mark class=\"voc\">reckons</mark> Mr Zhang. “They would pay a heavy cost.” ■",
+   "zh": "不过，既然美国和欧洲现在都想留住自己手里的宝贵废料，那它们能否蚕食中国在回收领域的主导地位？深圳上市公司、大型电池回收企业格林美的副总经理张宇平认为不会。他说：“从国家安全的角度看，它们这么做或许有些道理。”但在中国境外做回收，成本会很高，而且扩大规模会很困难。张先生认为，至少欧洲是“消化不了”这样的挑战的。“它们将付出沉重的代价。”",
+   "notes": [
+    {
+     "w": "now that",
+     "ipa": "/naʊ ðæt/",
+     "pos": "conj.",
+     "en": "Now that means since, or because something has now happened.",
+     "zh": "既然，既然现在",
+     "ctx": "引出已经成立的前提：不是 if（如果），是“既然已经发生”。",
+     "ex1": "Now that America and Europe want to keep their waste, could they eat into China's lead? 既然美欧想留住废料，它们能蚕食中国的领先地位吗？",
+     "ex2": ""
+    },
+    {
+     "w": "eat into",
+     "ipa": "/iːt ˈɪntuː/",
+     "pos": "phr. v.",
+     "en": "To eat into something means to gradually use up or reduce it.",
+     "zh": "蚕食，逐渐消耗",
+     "ctx": "不是 destroy，不是 overtake，是一点点啃掉一块。",
+     "ex1": "Could they eat into China's recycling dominance? 它们能蚕食中国在回收上的主导地位吗？",
+     "ex2": ""
+    },
+    {
+     "w": "dominance",
+     "ipa": "/ˈdɒmɪnəns/",
+     "pos": "n.",
+     "en": "Dominance is the state of being more powerful or important than others.",
+     "zh": "主导地位",
+     "ctx": "与第六段的 dominate 收口：一次是野心，一次是事实。",
+     "ex1": "Could they eat into China's recycling dominance? 它们能蚕食中国在回收上的主导地位吗？",
+     "ex2": ""
+    },
+    {
+     "w": "deputy",
+     "ipa": "/ˈdepjuti/",
+     "pos": "adj./n.",
+     "en": "A deputy is someone who is second in command and acts for a leader when needed; as a modifier, it means “vice-”.",
+     "zh": "副的；副手",
+     "ctx": "deputy general manager＝副总经理；英文的“副”在最前，中文的“副”紧跟“总”之后。",
+     "ex1": "Zhang Yuping, the deputy general manager of GEM… 格林美副总经理张宇平……",
+     "ex2": ""
+    },
+    {
+     "w": "justification",
+     "ipa": "/ˌdʒʌstɪfɪˈkeɪʃn/",
+     "pos": "n.",
+     "en": "A justification is a good reason or explanation for something.",
+     "zh": "正当理由，辩解",
+     "ctx": "先承认对方动机正当，再说“但你做不到”——先立后破，杀伤力更大。",
+     "ex1": "They might have some justification. 它们这么做或许有些道理。",
+     "ex2": ""
+    },
+    {
+     "w": "digest",
+     "ipa": "/daɪˈdʒest/",
+     "pos": "v.",
+     "en": "To digest means to break down food in the body; it also means to absorb and understand information.",
+     "zh": "消化；理解，承受",
+     "ctx": "全文的回旋镖：中国把料 fed 进厂，欧洲 can’t digest——同一套“吃”的比喻。",
+     "ex1": "Europe, at least, “can't digest” such a challenge. 至少在张先生看来，欧洲“消化不了”这样的挑战。",
+     "ex2": ""
+    },
+    {
+     "w": "reckon",
+     "ipa": "/ˈrekən/",
+     "pos": "v.",
+     "en": "To reckon means to think or have an opinion; it can also mean to calculate.",
+     "zh": "认为，估计",
+     "ctx": "比 think 更口语、更带主观判断；这里还用了倒装和现在时。",
+     "ex1": "Europe “can't digest” such a challenge, reckons Mr Zhang. 张先生认为，欧洲“消化不了”这样的挑战。",
+     "ex2": ""
+    }
+   ]
+  }
+ ],
+ "proper": [
+  {
+   "name": "black mass / 黑粉",
+   "def": "电池粉碎后得到的黑色粉末，富集锂、钴、镍等金属，被称为“城市矿山”；现被欧盟列为危险废物（代码 19 14 02），这一重身份正是欧美限制其出口的由来。<br>本文中的意思：全文的核心术语，也是全文的“主角”——所有争夺都围着这堆黑粉转。"
+  },
+  {
+   "name": "CATL / 宁德时代",
+   "def": "全球最大的动力电池制造商，总部福建宁德，2011 年成立。<br>本文中的意思：全球最大的“造电池的”，中国电池产能的底座。"
+  },
+  {
+   "name": "Brunp / 邦普循环",
+   "def": "宁德时代子公司，全球最大的电池回收商，2005 年由李长东创立于佛山，“定向循环”技术开创者。<br>本文中的意思：全球最大的“拆电池的”——最大的造与最大的拆是一家人，闭环的形状由此成形。"
+  },
+  {
+   "name": "GEM / 格林美",
+   "def": "深交所上市公司（002340），2001 年前后由许开华创立，“城市矿山”概念的开创者；镍钴锰回收率 99.6%、锂回收率超 95%。<br>本文中的意思：结尾出来判断形势的那家中国回收企业，张宇平即其副总经理。"
+  },
+  {
+   "name": "IEA / 国际能源署",
+   "def": "International Energy Agency，1974 年石油危机后成立，总部巴黎。<br>本文中的意思：本文“到 2050 年黑粉或占电池金属需求两三成”这一预测的出处。"
+  },
+  {
+   "name": "Operation National Sword / 国门利剑",
+   "def": "2017 年中国启动的打击“洋垃圾”行动，此后逐步禁绝固体废物进口（2021 年 1 月 1 日全面禁止）。<br>本文中的意思：第九段“重新进口废料”之所以叫悄悄重拾老角色，正因为当年亲手关上这扇门的就是它。"
+  },
+  {
+   "name": "EU Batteries Regulation / 欧盟《电池和废电池法规》",
+   "def": "2023 年生效：2027 年起便携电池须可自行拆卸、强制“电池护照”；2031 年起新电池再生钴≥16%、锂≥6%、镍≥6%。<br>本文中的意思：第一段“从下个月起欧盟让这种废物更难出口”的制度背景。"
+  },
+  {
+   "name": "the circular economy plan / 《循环经济发展“十五五”规划》",
+   "def": "2026 年 7 月 3 日发改委印发，明确“推进海外优质再生原料进口利用”。<br>本文中的意思：第五段“7 月发布面向 2030 年的循环经济规划”，也是第九段重新进口的官方出处。"
+  },
+  {
+   "name": "Zhang Yuping / 张宇平",
+   "def": "格林美副总经理、动力电池回收业务负责人。<br>本文中的意思：结尾的判断者——欧美想蚕食中国的主导地位，成本高、扩产难，做不到。"
+  },
+  {
+   "name": "Corby Anderson / 科里·安德森",
+   "def": "美国科罗拉多矿业学院提取冶金学教授、Kroll 提取冶金研究所主任。<br>本文中的意思：第八段那句“并非在所有情况下都依赖经济可行性”的出处。"
+  }
+ ],
+ "sources_note": "资料核对：以上背景依据文章内容，并参考国际能源署（IEA）、欧盟《电池和废电池法规》、中国《循环经济发展“十五五”规划》及宁德时代、格林美公开资料，截至 2026 年 10 月。",
+ "practice": {
+  "intro": "请将以下中文句子翻译为英文（参考答案见后）。要求：尽量用上本文的核心表达，可以适当改变词形，但不要直接照抄原文。",
+  "items": [
+   "中国正在给它的回收产业猛踩油门：不只是为了巩固电池金属的供应，也是为了稀土和更多其他材料。",
+   "粉碎这些电池会产出“黑粉”——一种可以从中回收并再利用锂、钴、镍等有价值金属的粉末。",
+   "一家国有研究机构的研究者说，如果没有回收，中国将“在未来不断面临被卡脖子的局面”。",
+   "如今，在全球争抢建设高科技经济所需材料之际，安全已成为首要动机。",
+   "今年 1 月，它把这种东西的进口关税从 6.5% 猛砍到了 3%。",
+   "不过，既然美国和欧洲现在都想留住自己手里宝贵的废料，那它们能蚕食中国在回收领域的主导地位吗？"
+  ],
+  "critical_en": "If recycling can turn rubbish into a strategic reserve, is a country’s real advantage the mine it owns — or the factory that can digest anything?",
+  "critical_zh": "如果回收能把垃圾变成战略储备，那么一个国家真正的优势，是它拥有的矿，还是那套什么都能“吃”下去的工厂？",
+  "answer": "1. So China is supercharging its recycling industries: not just to shore up supplies of battery metals, but also rare-earths and much else.<br><br>2. Shredding their batteries yields “black mass”, a powder from which valuable metals such as lithium, cobalt and nickel can be recovered and reused.<br><br>3. … a researcher at a state-owned research facility said that without recycling China would “keep facing strangleholds in the future”.<br><br>4. Now, amid a global scramble for the materials needed to build a high-tech economy, security has become a primary motive.<br><br>5. In January it slashed import tariffs on the stuff from 6.5% to 3%.<br><br>6. Still, now that America and Europe want to keep their valuable waste, could they eat into China's recycling dominance?"
+ },
+ "mindmap": {
+  "aria": "废电池变战略资源文章思维导图",
+  "alt": "废电池＝城市矿山（手绘版）",
+  "svg": "<svg viewBox=\"0 0 960 720\" xmlns=\"http://www.w3.org/2000/svg\" role=\"img\" aria-label=\"废电池变战略资源文章思维导图\" style=\"width:100%;height:auto;font-family:-apple-system,'PingFang SC','Hiragino Sans GB','Microsoft YaHei',sans-serif\">\n        <rect x=\"24\" y=\"306\" width=\"176\" height=\"88\" rx=\"14\" fill=\"#eae3d2\" stroke=\"#9a8f76\"/>\n        <text x=\"112\" y=\"342\" text-anchor=\"middle\" fill=\"#3d3a34\" font-size=\"17\" font-weight=\"700\">垃圾变矿</text>\n        <text x=\"112\" y=\"368\" text-anchor=\"middle\" fill=\"#5c5648\" font-size=\"12.5\">中国抢的是城市矿山</text>\n\n        <path d=\"M200,350 C232,350 232,88 260,88\"  stroke=\"#6b8f71\" stroke-width=\"2\" fill=\"none\"/>\n        <path d=\"M200,350 C232,350 232,238 260,238\" stroke=\"#7d98ad\" stroke-width=\"2\" fill=\"none\"/>\n        <path d=\"M200,350 C232,350 232,433 260,433\" stroke=\"#bd7a6d\" stroke-width=\"2\" fill=\"none\"/>\n        <path d=\"M200,350 C232,350 232,628 260,628\" stroke=\"#9b86b3\" stroke-width=\"2\" fill=\"none\"/>\n\n        <g class=\"mm-branch\" data-target=\"bc1\">\n          <rect x=\"260\" y=\"71\" width=\"190\" height=\"34\" rx=\"8\" fill=\"#e6efe7\" stroke=\"#6b8f71\"/>\n          <text x=\"349\" y=\"93\" text-anchor=\"middle\" fill=\"#4c6b52\" font-size=\"15\" font-weight=\"700\">黑粉＝城市矿山（¶1–2）</text>\n          <text class=\"mm-arrow\" data-for=\"bc1\" x=\"442\" y=\"93\" text-anchor=\"end\" fill=\"#4c6b52\">▾</text>\n        </g>\n        <g class=\"mm-children\" id=\"bc1\">\n          <path d=\"M450,88 C462,88 462,46 480,46\" stroke=\"#6b8f71\" stroke-width=\"1.5\" fill=\"none\"/>\n          <path d=\"M450,88 C462,88 462,88 480,88\" stroke=\"#6b8f71\" stroke-width=\"1.5\" fill=\"none\"/>\n          <path d=\"M450,88 C462,88 462,130 480,130\" stroke=\"#6b8f71\" stroke-width=\"1.5\" fill=\"none\"/>\n          <rect x=\"480\" y=\"30\" width=\"456\" height=\"32\" rx=\"8\" fill=\"#e6efe7\"/><text x=\"492\" y=\"51\" fill=\"#3d3a34\" font-size=\"14\">欧美先动手：欧盟限出口，美国全禁黑粉</text>\n          <rect x=\"480\" y=\"72\" width=\"456\" height=\"32\" rx=\"8\" fill=\"#e6efe7\"/><text x=\"492\" y=\"93\" fill=\"#3d3a34\" font-size=\"14\">IEA：2050 年黑粉或占电池金属需求两三成</text>\n          <rect x=\"480\" y=\"114\" width=\"456\" height=\"32\" rx=\"8\" fill=\"#e6efe7\"/><text x=\"492\" y=\"135\" fill=\"#3d3a34\" font-size=\"14\">中国踩油门：稳电池金属，也稳稀土</text>\n        </g>\n\n        <g class=\"mm-branch\" data-target=\"bc2\">\n          <rect x=\"260\" y=\"221\" width=\"190\" height=\"34\" rx=\"8\" fill=\"#e5edf4\" stroke=\"#7d98ad\"/>\n          <text x=\"349\" y=\"243\" text-anchor=\"middle\" fill=\"#3d5872\" font-size=\"15\" font-weight=\"700\">怕污染→怕断供（¶3–5）</text>\n          <text class=\"mm-arrow\" data-for=\"bc2\" x=\"442\" y=\"243\" text-anchor=\"end\" fill=\"#3d5872\">▾</text>\n        </g>\n        <g class=\"mm-children\" id=\"bc2\">\n          <path d=\"M450,238 C462,238 462,196 480,196\" stroke=\"#7d98ad\" stroke-width=\"1.5\" fill=\"none\"/>\n          <path d=\"M450,238 C462,238 462,238 480,238\" stroke=\"#7d98ad\" stroke-width=\"1.5\" fill=\"none\"/>\n          <path d=\"M450,238 C462,238 462,280 480,280\" stroke=\"#7d98ad\" stroke-width=\"1.5\" fill=\"none\"/>\n          <rect x=\"480\" y=\"180\" width=\"456\" height=\"32\" rx=\"8\" fill=\"#e5edf4\"/><text x=\"492\" y=\"201\" fill=\"#3d3a34\" font-size=\"14\">八十年代收废：五金、纸、塑料，拾荒者翻捡</text>\n          <rect x=\"480\" y=\"222\" width=\"456\" height=\"32\" rx=\"8\" fill=\"#e5edf4\"/><text x=\"492\" y=\"243\" fill=\"#3d3a34\" font-size=\"14\">一埋一烧，渗毒冒烟；城里干净了，农村还乱</text>\n          <rect x=\"480\" y=\"264\" width=\"456\" height=\"32\" rx=\"8\" fill=\"#e5edf4\"/><text x=\"492\" y=\"285\" fill=\"#3d3a34\" font-size=\"14\">2026 年 7 月规划：资源安全日益凸显</text>\n        </g>\n\n        <g class=\"mm-branch\" data-target=\"bc3\">\n          <rect x=\"260\" y=\"416\" width=\"190\" height=\"34\" rx=\"8\" fill=\"#f4e7e4\" stroke=\"#bd7a6d\"/>\n          <text x=\"349\" y=\"438\" text-anchor=\"middle\" fill=\"#7c4a3e\" font-size=\"15\" font-weight=\"700\">中间强两头靠外（¶6–8）</text>\n          <text class=\"mm-arrow\" data-for=\"bc3\" x=\"442\" y=\"438\" text-anchor=\"end\" fill=\"#7c4a3e\">▾</text>\n        </g>\n        <g class=\"mm-children\" id=\"bc3\">\n          <path d=\"M450,433 C462,433 462,391 480,391\" stroke=\"#bd7a6d\" stroke-width=\"1.5\" fill=\"none\"/>\n          <path d=\"M450,433 C462,433 462,433 480,433\" stroke=\"#bd7a6d\" stroke-width=\"1.5\" fill=\"none\"/>\n          <path d=\"M450,433 C462,433 462,475 480,475\" stroke=\"#bd7a6d\" stroke-width=\"1.5\" fill=\"none\"/>\n          <rect x=\"480\" y=\"375\" width=\"456\" height=\"32\" rx=\"8\" fill=\"#f4e7e4\"/><text x=\"492\" y=\"396\" fill=\"#3d3a34\" font-size=\"14\">要造机器人、风机、数据中心，金属却靠进口矿</text>\n          <rect x=\"480\" y=\"417\" width=\"456\" height=\"32\" rx=\"8\" fill=\"#f4e7e4\"/><text x=\"492\" y=\"438\" fill=\"#3d3a34\" font-size=\"14\">精炼产能在手，矿石靠买：卡脖子就卡在这</text>\n          <rect x=\"480\" y=\"459\" width=\"456\" height=\"32\" rx=\"8\" fill=\"#f4e7e4\"/><text x=\"492\" y=\"480\" fill=\"#3d3a34\" font-size=\"14\">稀土回收贵过开矿，国企不看账也照做</text>\n        </g>\n\n        <g class=\"mm-branch\" data-target=\"bc4\">\n          <rect x=\"260\" y=\"611\" width=\"190\" height=\"34\" rx=\"8\" fill=\"#ece4f2\" stroke=\"#9b86b3\"/>\n          <text x=\"349\" y=\"633\" text-anchor=\"middle\" fill=\"#5a4670\" font-size=\"15\" font-weight=\"700\">回头收废料喂厂（¶9–10）</text>\n          <text class=\"mm-arrow\" data-for=\"bc4\" x=\"442\" y=\"633\" text-anchor=\"end\" fill=\"#5a4670\">▾</text>\n        </g>\n        <g class=\"mm-children\" id=\"bc4\">\n          <path d=\"M450,628 C462,628 462,586 480,586\" stroke=\"#9b86b3\" stroke-width=\"1.5\" fill=\"none\"/>\n          <path d=\"M450,628 C462,628 462,628 480,628\" stroke=\"#9b86b3\" stroke-width=\"1.5\" fill=\"none\"/>\n          <path d=\"M450,628 C462,628 462,670 480,670\" stroke=\"#9b86b3\" stroke-width=\"1.5\" fill=\"none\"/>\n          <rect x=\"480\" y=\"570\" width=\"456\" height=\"32\" rx=\"8\" fill=\"#ece4f2\"/><text x=\"492\" y=\"591\" fill=\"#3d3a34\" font-size=\"14\">黑粉、废铜废铝重新开口，关税 6.5%→3%</text>\n          <rect x=\"480\" y=\"612\" width=\"456\" height=\"32\" rx=\"8\" fill=\"#ece4f2\"/><text x=\"492\" y=\"633\" fill=\"#3d3a34\" font-size=\"14\">张宇平：欧美成本高、扩产难，蚕食不了</text>\n          <rect x=\"480\" y=\"654\" width=\"456\" height=\"32\" rx=\"8\" fill=\"#ece4f2\"/><text x=\"492\" y=\"675\" fill=\"#3d3a34\" font-size=\"14\">欧洲“消化不了”：有料，没有那副肠胃</text>\n        </g>\n      </svg>",
+  "img": "/Users/malen/outward-reading-site-prod/scripts/content/img/2026-10-15.jpg"
+ }
+}

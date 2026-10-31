@@ -1,0 +1,381 @@
+{
+ "paragraphs": [
+  {
+   "en_html": "Hacked cameras are <mark class=\"voc\">taking over</mark> roles in targeting, damage assessments and other combat intelligence-gathering that were previously supplied by <mark class=\"voc\">aerial reconnaissance</mark> or on-the-ground spies. <mark class=\"voc\">Penetrating</mark> a well-placed camera can get analysts closer to targets and carries less risk than <mark class=\"voc\">infiltrating</mark> even the <mark class=\"voc\">canniest</mark> secret agent. Video cameras operate silently, often in <mark class=\"voc\">restricted</mark> areas.",
+   "zh": "被黑客入侵的摄像头，正逐渐接替过去由空中侦察或地面间谍承担的任务，包括目标定位、损害评估以及其他作战情报收集工作。入侵一台位置恰当的摄像头，可以让情报分析人员更接近目标，而且相比派遣哪怕最精明的秘密特工潜入敌方，其风险也更低。摄像头能够悄无声息地运作，而且往往就安装在出入受限的区域。",
+   "notes": [
+    {
+     "w": "take over",
+     "ipa": "/teɪk ˈəʊvə/",
+     "pos": "phr. v.",
+     "en": "to begin performing a role or task previously carried out by someone or something else",
+     "zh": "接替，取代；接管",
+     "ctx": "指被入侵的摄像头开始接手过去由侦察机或地面间谍干的活，一句话点出战争情报方式的换代。",
+     "ex1": "Automated systems are taking over tasks once performed by human analysts. 自动化系统正在接替过去由人类分析员完成的任务。",
+     "ex2": "She took over the management of the company after her father’s retirement. 父亲退休后，她接管了公司的管理工作。"
+    },
+    {
+     "w": "aerial reconnaissance",
+     "ipa": "/ˈeəriəl rɪˈkɒnɪsns/",
+     "pos": "n. phr.",
+     "en": "the gathering of information about an area or enemy through observation from the air",
+     "zh": "空中侦察",
+     "ctx": "传统情报手段之一，靠飞机、无人机等空中平台观察地面目标，文中拿它和地面上被入侵的固定摄像头作对照。",
+     "ex1": "Aerial reconnaissance helped the military identify enemy positions. 空中侦察帮助军方识别了敌方阵地。",
+     "ex2": "Drones are increasingly used for aerial reconnaissance in modern warfare. 无人机在现代战争中越来越多地被用于空中侦察。"
+    },
+    {
+     "w": "penetrate",
+     "ipa": "/ˈpenɪtreɪt/",
+     "pos": "v.",
+     "en": "to enter or gain access to a place, system or organization, especially one that is protected",
+     "zh": "渗透，侵入，穿透",
+     "ctx": "指突破摄像头防护进入其系统，拿走有价值的画面；网络安全语境里常指攻破防御。",
+     "ex1": "The attackers managed to penetrate the company’s internal network. 攻击者成功侵入了公司的内部网络。",
+     "ex2": "Sunlight could barely penetrate the thick forest canopy. 阳光几乎无法穿透茂密的森林树冠。"
+    },
+    {
+     "w": "infiltrate",
+     "ipa": "/ˈɪnfɪltreɪt/",
+     "pos": "v.",
+     "en": "to secretly enter a place or organization in order to obtain information or influence its activities",
+     "zh": "潜入，渗透，秘密打入",
+     "ctx": "指特工秘密潜入目标区域或组织偷情报；作者拿这种传统高危的人力行动，反衬远程入侵摄像头有多省事。",
+     "ex1": "The agent attempted to infiltrate the criminal organization. 这名特工试图潜入犯罪组织。",
+     "ex2": "Hackers infiltrated the network without triggering any security alerts. 黑客在没有触发任何安全警报的情况下渗透进了网络。"
+    },
+    {
+     "w": "canny",
+     "ipa": "/ˈkæni/",
+     "pos": "adj.",
+     "en": "clever, careful and good at making practical judgments",
+     "zh": "精明的，机警的，老练的",
+     "ctx": "形容特工机敏谨慎；even the canniest secret agent 是让步，强调再精明的特工潜进去，风险仍高于黑一台摄像头。",
+     "ex1": "The canny negotiator knew exactly when to make a concession. 这位精明的谈判者准确地知道何时该作出让步。",
+     "ex2": "Even the canniest investors cannot predict every market movement. 即使最精明的投资者也无法预测市场的每一次波动。"
+    },
+    {
+     "w": "restricted",
+     "ipa": "/rɪˈstrɪktɪd/",
+     "pos": "adj.",
+     "en": "limited or controlled, especially in terms of who is allowed to enter or use something",
+     "zh": "受限制的，禁止随意进入的",
+     "ctx": "restricted areas 指出入受严格管制的区域；摄像头往往早就装在里面了，等于白送一个特工进不去的机位。",
+     "ex1": "Unauthorized personnel are not allowed to enter restricted areas. 未经授权的人员不得进入限制区域。",
+     "ex2": "The documents contain restricted information about national security. 这些文件包含涉及国家安全的受限信息。"
+    }
+   ]
+  },
+  {
+   "en_html": "While private individuals and enterprise-network managers are increasingly <mark class=\"voc\">attuned to</mark> cybersecurity, web-connected devices like cameras may have fewer <mark class=\"voc\">built-in</mark> protections and not be <mark class=\"voc\">consistently</mark> monitored, <mark class=\"voc\">patched</mark> or updated, said Xu Zou, senior vice president for cloud security services at cybersecurity company Palo Alto Networks. Information-security specialists inside companies and governments often aren’t aware of connected cameras, which are frequently installed and operated by <mark class=\"voc\">facilities managers</mark> or other non-IT teams, he said.",
+   "zh": "网络安全公司Palo Alto Networks负责云安全服务的高级副总裁徐邹表示，虽然个人用户和企业网络管理人员越来越重视网络安全，但摄像头等联网设备可能缺乏足够的内置安全防护，也未必能够得到持续监控、漏洞修补或系统更新。他指出，企业和政府机构内部的信息安全专家往往甚至不知道某些联网摄像头的存在，因为这些设备通常由设施管理人员或其他非信息技术部门负责安装和操作。",
+   "notes": [
+    {
+     "w": "attuned to",
+     "ipa": "/əˈtjuːnd tuː/",
+     "pos": "adj. phr.",
+     "en": "aware of and sensitive to something, especially changes, problems or needs",
+     "zh": "对……敏感，关注……，能够察觉……",
+     "ctx": "指个人与企业管理者越来越意识到网络安全的重要，对网络风险更警觉；但警觉的对象，偏偏不包括摄像头。",
+     "ex1": "Companies are becoming more attuned to the risks of cyberattacks. 企业正越来越关注网络攻击带来的风险。",
+     "ex2": "Good teachers are attuned to the emotional needs of their students. 优秀的教师能够敏锐察觉学生的情感需求。"
+    },
+    {
+     "w": "built-in",
+     "ipa": "/ˌbɪlt ˈɪn/",
+     "pos": "adj.",
+     "en": "included as a permanent or original part of something",
+     "zh": "内置的，自带的",
+     "ctx": "built-in protections 指出厂就带的防护；文章说许多联网摄像头恰恰缺这一层。",
+     "ex1": "The device comes with built-in security features. 这款设备自带安全防护功能。",
+     "ex2": "Modern smartphones have built-in cameras and navigation systems. 现代智能手机内置摄像头和导航系统。"
+    },
+    {
+     "w": "consistently",
+     "ipa": "/kənˈsɪstəntli/",
+     "pos": "adv.",
+     "en": "in a regular and continuous way, without significant interruption or variation",
+     "zh": "持续地，一贯地，始终如一地",
+     "ctx": "指摄像头能否得到持续定期的监控、打补丁与更新；作者强调的正是这种长期维护的缺席。",
+     "ex1": "Security systems must be consistently monitored and updated. 安全系统必须得到持续监控和更新。",
+     "ex2": "The team has consistently performed well throughout the season. 这支队伍整个赛季的表现一直十分出色。"
+    },
+    {
+     "w": "patch",
+     "ipa": "/pætʃ/",
+     "pos": "v.",
+     "en": "to fix a weakness or problem in computer software by making changes to it",
+     "zh": "修补（软件漏洞），打补丁",
+     "ctx": "指修复摄像头软件或固件里的漏洞，堵住黑客可钻的口子；名词 patch 就是补丁。",
+     "ex1": "The company released an update to patch a serious security vulnerability. 该公司发布了一项更新，以修补严重的安全漏洞。",
+     "ex2": "Many devices remain exposed because their software has never been patched. 许多设备因为软件从未得到漏洞修补，仍然面临安全风险。"
+    },
+    {
+     "w": "facilities manager",
+     "ipa": "/fəˈsɪlətiz ˈmænɪdʒə/",
+     "pos": "n. phr.",
+     "en": "a person responsible for managing and maintaining buildings, equipment and physical facilities",
+     "zh": "设施管理人员，物业设施经理",
+     "ctx": "指负责安装维护楼宇设施的人；摄像头多由这些非 IT 员工经手，信息安全团队压根不知道它们存在。",
+     "ex1": "The facilities manager arranged for new security cameras to be installed. 设施经理安排安装了新的安防摄像头。",
+     "ex2": "Facilities managers are responsible for maintaining the building’s equipment. 设施管理人员负责维护建筑物内的设备。"
+    }
+   ]
+  },
+  {
+   "en_html": "Ondrej Svoboda in Prague was reading to his young children one evening in 2023 when the baby monitor in their room started <mark class=\"voc\">emitting</mark> strange sounds of people talking and background music, as if from a bar. At first he thought his wife was using the <mark class=\"voc\">two-way</mark> function but quickly realized that hackers had gotten into his system. “I didn’t think this was something that could happen to me,” <mark class=\"voc\">recalled</mark> Svoboda, who worked at a cybersecurity company. “I was really scared-my <mark class=\"voc\">heart was racing</mark>.” Trying to avoid frightening his children, he silently stared into the camera to show the hackers he knew about them and then <mark class=\"voc\">unplugged</mark> the camera. For days he suffered <mark class=\"voc\">nightmares</mark> as he struggled to understand how he got hacked. Eventually he remembered he had tried connecting his webcams to another app, which likely was insecure.",
+   "zh": "2023年的一个晚上，身在布拉格的翁德热·斯沃博达正在给年幼的孩子们读书，房间里的婴儿监视器突然传出了奇怪的声音：有人说话，还有背景音乐，听起来就像是从酒吧传来的。起初，他以为是妻子在使用设备的双向通话功能，但很快便意识到，黑客已经入侵了他的系统。“我从没想过这种事情会发生在自己身上。”在一家网络安全公司工作的斯沃博达回忆道，“我真的吓坏了，心脏怦怦直跳。”为了不吓到孩子，他一声不吭地盯着摄像头，向黑客表明自己已经发现了他们，随后拔掉了摄像头的电源。接连几天，他都饱受噩梦困扰，努力弄清自己究竟是如何遭到入侵的。最终，他想起自己曾尝试将网络摄像头连接到另一款应用程序，而那款应用很可能并不安全。",
+   "notes": [
+    {
+     "w": "emit",
+     "ipa": "/ɪˈmɪt/",
+     "pos": "v.",
+     "en": "to produce or send out something such as sound, light, heat or gas",
+     "zh": "发出，释放，散发",
+     "ctx": "指婴儿监视器突然冒出陌生人的说话声和背景音乐，这一声就是设备已被别人接管的信号。",
+     "ex1": "The baby monitor suddenly began emitting strange noises. 婴儿监视器突然开始发出奇怪的声音。",
+     "ex2": "The machine emits a warning sound when it detects danger. 机器检测到危险时会发出警报声。"
+    },
+    {
+     "w": "two-way",
+     "ipa": "/ˌtuː ˈweɪ/",
+     "pos": "adj.",
+     "en": "allowing communication or movement in both directions",
+     "zh": "双向的，可双向交流的",
+     "ctx": "two-way function 指婴儿监视器的双向通话功能，父母既能听孩子，也能对孩子说话——所以声音起初并不显得可疑。",
+     "ex1": "The baby monitor has a two-way audio function. 这款婴儿监视器具有双向语音功能。",
+     "ex2": "Effective communication should be a two-way process. 有效的沟通应该是一个双向过程。"
+    },
+    {
+     "w": "recall",
+     "ipa": "/rɪˈkɔːl/",
+     "pos": "v.",
+     "en": "to remember something and describe it, especially an event from the past",
+     "zh": "回忆，回想起",
+     "ctx": "指斯沃博达回想发现被入侵那一刻的恐惧；新闻报道常用 recalled 把话头交给受访者自己讲。",
+     "ex1": "She recalled the moment she realized someone had entered her home. 她回忆起自己意识到有人闯入家中的那一刻。",
+     "ex2": "He could still recall every detail of that frightening night. 他仍然能够回忆起那个可怕夜晚的每一个细节。"
+    },
+    {
+     "w": "heart racing",
+     "ipa": "/hɑːt ˈreɪsɪŋ/",
+     "pos": "phr.",
+     "en": "the feeling of one’s heart beating very quickly, often because of fear, excitement or anxiety",
+     "zh": "心跳加速，心脏怦怦直跳",
+     "ctx": "形容他发现可能有人正透过监视器看自己孩子时，那种恐惧带来的生理反应。",
+     "ex1": "Her heart was racing when she heard footsteps outside the door. 听到门外的脚步声时，她的心脏怦怦直跳。",
+     "ex2": "My heart started racing as I waited for the exam results. 等待考试成绩时，我的心跳开始加速。"
+    },
+    {
+     "w": "unplug",
+     "ipa": "/ʌnˈplʌɡ/",
+     "pos": "v.",
+     "en": "to disconnect an electrical device by removing its plug from a socket",
+     "zh": "拔掉电源插头，断开电源",
+     "ctx": "指他直接拔掉监视器电源，用最原始的办法切断黑客的窥视。",
+     "ex1": "He immediately unplugged the camera after discovering the security breach. 发现安全漏洞后，他立即拔掉了摄像头的电源。",
+     "ex2": "Remember to unplug electrical appliances before leaving home. 离家前记得拔掉电器的电源插头。"
+    },
+    {
+     "w": "nightmare",
+     "ipa": "/ˈnaɪtmeə/",
+     "pos": "n.",
+     "en": "a frightening or unpleasant dream; an extremely distressing experience",
+     "zh": "噩梦；可怕的经历",
+     "ctx": "指被入侵后接连几天的噩梦，说明这类事件留下的不是数据损失，而是实实在在的心理恐惧。",
+     "ex1": "She suffered nightmares for weeks after the frightening incident. 那次可怕的事件发生后，她连续几个星期都被噩梦困扰。",
+     "ex2": "Losing all his personal data became a cybersecurity nightmare. 丢失全部个人数据成了一场网络安全噩梦。"
+    }
+   ]
+  },
+  {
+   "en_html": "Vulnerable accessories linked into a network are among hackers’ <mark class=\"voc\">prime</mark> targets, expanding what technicians call the <mark class=\"voc\">attack surface</mark>. Often, cameras aren’t the target, but serve as the <mark class=\"voc\">weak link</mark> in a larger hacking attempt. <mark class=\"voc\">Ransomware</mark> group Akira tapped an unprotected webcam to <mark class=\"voc\">get around</mark> one organization’s network-security systems and <mark class=\"voc\">extort</mark> it, S-RM reported last year. Once hackers are inside a local network, they can usually <mark class=\"voc\">probe</mark> stored files, email accounts and other devices, including cameras. “The <mark class=\"voc\">Internet of Things</mark> is such a wild area that everything-whether you realize it or not—is an extension of your attack surface,” said Paul Caron, S-RM head of cyber for the Americas.",
+   "zh": "连接到网络的各类存在安全漏洞的外围设备，是黑客最主要的攻击目标之一，它们扩大了技术人员所说的“攻击面”。很多时候，摄像头本身并不是黑客的最终目标，而是更大规模网络攻击中的薄弱环节。据S-RM去年报道，勒索软件组织Akira曾利用一台缺乏安全防护的网络摄像头，绕过某机构的网络安全系统，并对其实施勒索。一旦黑客进入局域网，通常就可以进一步探查存储的文件、电子邮件账户以及包括摄像头在内的其他设备。S-RM美洲地区网络安全负责人保罗·卡隆表示：“物联网是一个如此难以管控的领域，以至于所有设备——无论你是否意识到——都在扩大你的攻击面。”",
+   "notes": [
+    {
+     "w": "prime",
+     "ipa": "/praɪm/",
+     "pos": "adj.",
+     "en": "most important, main or particularly suitable for a particular purpose",
+     "zh": "主要的，首要的，最重要的",
+     "ctx": "prime targets 指黑客优先下手的对象；联网配件防护普遍偏弱，自然排在最前面。",
+     "ex1": "Poorly secured webcams are prime targets for cybercriminals. 安全防护薄弱的网络摄像头是网络犯罪分子的主要攻击目标。",
+     "ex2": "The company became a prime candidate for acquisition. 这家公司成为最有可能被收购的对象之一。"
+    },
+    {
+     "w": "attack surface",
+     "ipa": "/əˈtæk ˌsɜːfɪs/",
+     "pos": "n. phr.",
+     "en": "the total number of possible points through which an attacker could gain unauthorized access to a system or network",
+     "zh": "攻击面",
+     "ctx": "指黑客可能利用的全部入口与薄弱点；每多一台联网设备，就多一条能摸进来的路。",
+     "ex1": "Every new connected device can increase a company’s attack surface. 每增加一台联网设备，都可能扩大公司的攻击面。",
+     "ex2": "Organizations should reduce their attack surface by removing unnecessary network connections. 各机构应通过移除不必要的网络连接来缩小攻击面。"
+    },
+    {
+     "w": "weak link",
+     "ipa": "/ˌwiːk ˈlɪŋk/",
+     "pos": "n. phr.",
+     "en": "the least reliable or most vulnerable part of a system or group",
+     "zh": "薄弱环节，软肋",
+     "ctx": "指摄像头本身未必是目标，却可能成为撬开整个内网的那一环；weak link 把安全比作一条锁链，断在最弱的一节。",
+     "ex1": "An outdated webcam became the weak link in the company’s security system. 一台过时的网络摄像头成了公司安全系统中的薄弱环节。",
+     "ex2": "Human error is often the weakest link in cybersecurity. 人为失误往往是网络安全中最薄弱的一环。"
+    },
+    {
+     "w": "ransomware",
+     "ipa": "/ˈrænsəmweə/",
+     "pos": "n.",
+     "en": "malicious software that blocks access to files or systems and demands payment to restore access",
+     "zh": "勒索软件",
+     "ctx": "指加密文件、锁死系统以索要赎金的恶意软件；文中 Akira 就是借一台没设防的摄像头绕过防护。",
+     "ex1": "The hospital’s computer systems were disabled by a ransomware attack. 医院的计算机系统因勒索软件攻击而瘫痪。",
+     "ex2": "Ransomware criminals often demand payment in cryptocurrency. 勒索软件犯罪分子通常要求以加密货币支付赎金。"
+    },
+    {
+     "w": "get around",
+     "ipa": "/ɡet əˈraʊnd/",
+     "pos": "phr. v.",
+     "en": "to find a way to avoid or overcome a rule, restriction or obstacle",
+     "zh": "绕过，规避，设法克服",
+     "ctx": "指黑客不走正门，借缺乏防护的摄像头绕过机构原有安全系统，直接进内网。",
+     "ex1": "Hackers found a way to get around the company’s security controls. 黑客找到了绕过公司安全控制措施的方法。",
+     "ex2": "The company developed a new strategy to get around the restrictions. 该公司制定了一项新策略，以绕过这些限制。"
+    },
+    {
+     "w": "extort",
+     "ipa": "/ɪkˈstɔːt/",
+     "pos": "v.",
+     "en": "to obtain money or something valuable from someone through threats or force",
+     "zh": "敲诈，勒索",
+     "ctx": "指勒索组织靠入侵攒下的威胁能力，回头向受害机构要钱；与 extort 同源的 extortion 即敲诈勒索罪。",
+     "ex1": "The criminals threatened to publish stolen data to extort money from the company. 犯罪分子威胁公布窃取的数据，以此向公司勒索钱财。",
+     "ex2": "The gang was accused of extorting payments from local businesses. 这个犯罪团伙被指控向当地企业敲诈钱财。"
+    },
+    {
+     "w": "probe",
+     "ipa": "/prəʊb/",
+     "pos": "v.",
+     "en": "to examine or investigate something carefully in order to discover information",
+     "zh": "探查，调查，深入检查",
+     "ctx": "指进了内网之后再翻存储的文件、邮箱账户和其他设备，找更值钱的东西。",
+     "ex1": "The attackers probed the network for additional security weaknesses. 攻击者进一步探查网络，寻找其他安全漏洞。",
+     "ex2": "Investigators are probing the cause of the security breach. 调查人员正在深入调查这起安全漏洞事件的原因。"
+    },
+    {
+     "w": "Internet of Things",
+     "ipa": "/ˌɪntənet əv ˈθɪŋz/",
+     "pos": "n.",
+     "en": "a network of physical devices connected to the internet that can collect and exchange data",
+     "zh": "物联网",
+     "ctx": "指摄像头、智能门铃、婴儿监视器等能联网交换数据的实体设备构成的网络；设备多、牌子杂、没人统管，每个都是新入口。",
+     "ex1": "The Internet of Things connects everyday devices such as cameras, appliances and sensors. 物联网将摄像头、家用电器和传感器等日常设备连接起来。",
+     "ex2": "The rapid expansion of the Internet of Things has created new cybersecurity challenges. 物联网的迅速扩张带来了新的网络安全挑战。"
+    }
+   ]
+  }
+ ],
+ "proper": [
+  {
+   "name": "Israel National Cyber Directorate（INCD） / 以色列国家网络安全局",
+   "def": "以色列负责国家层面网络防御的政府机构，主管民用网络空间的安全保护、威胁监测、事件响应与安全指导，职责既覆盖政府和关键基础设施，也覆盖企业和普通民众面临的网络风险。<br>本文中的意思：鸡舍摄像头被入侵后，正是这家机构出面调查，并帮农户加固设备、调整拍摄角度——一台民用设备的安全问题，可以一路捅到国家安全层面。"
+  },
+  {
+   "name": "Israel–Lebanon border / 以色列与黎巴嫩边境",
+   "def": "以色列北部与黎巴嫩接壤，两国边境长期处于安全紧张状态。黎巴嫩真主党（Hezbollah）是当地重要的政治与武装组织，与以色列之间曾多次发生军事冲突，因此边境的道路、车辆活动与部队部署都可能具有情报价值。<br>本文中的意思：黑客真正想要的从来不是鸡，而是这台摄像头恰好能拍到的那段边境上，安全部队的动向。"
+  },
+  {
+   "name": "S-RM / S-RM 风险咨询公司",
+   "def": "一家提供企业风险管理、情报分析、网络安全与危机应对服务的国际咨询公司，通过研究网络威胁、企业风险与安全事件，为企业和其他组织提供专业分析。<br>本文中的意思：全文那个“12 亿台联网摄像头”的估算，以及 Akira 借一台摄像头实施勒索的案例，都出自 S-RM。"
+  },
+  {
+   "name": "Recorded Future / 网络威胁情报公司",
+   "def": "一家专门从事网络威胁情报的公司，通过分析网络信息、安全事件与潜在攻击者的活动，帮客户提前识别网络风险。2024 年，万事达卡宣布以约 26.5 亿美元收购该公司，并于同年完成交易。<br>本文中的意思：其国家安全专家亚历山大·莱斯利给出了全文的核心判断——民用监控正在被转换成战时情报收集，无处不在的“数字眼睛”构成了全球性的软肋。"
+  },
+  {
+   "name": "Computer Vision / 计算机视觉",
+   "def": "人工智能的重要研究领域，研究如何让计算机从图片和视频中识别物体、人物、动作及其他视觉信息，相关技术已广泛用于自动驾驶、医学影像、工业检测和视频监控。<br>本文中的意思：正是它让情报机构不必人工逐段看录像，而能在海量监控画面里自动筛出特定车辆、人员活动或异常变化。"
+  },
+  {
+   "name": "Pattern Recognition / 模式识别",
+   "def": "指从大量数据中发现重复出现的特征、结构或规律。单独一辆汽车经过某条道路可能没有特殊意义，但如果大量画面显示某类车辆在相近时间反复出现，分析者就可能顺着这条线继续研究。<br>本文中的意思：它就是文中算法替情报人员找出的 patterns——模式识别本身不能证明某项军事行动正在发生，却能把值得调查的线索从海量日常画面里挑出来。"
+  },
+  {
+   "name": "Cyberwarfare / 网络战",
+   "def": "指在军事冲突或国家安全对抗中，通过数字网络开展侦察、攻击、干扰或其他行动。俄乌战争表明，现代军事冲突不仅发生在传统战场，也涉及通信网络、数字基础设施和信息系统。<br>本文中的意思：摄像头入侵就是网络战里一条具体战线——同一批设备，既可以被用来偷情报，也可以被用来校正导弹。"
+  },
+  {
+   "name": "Ali Khamenei / 阿里·哈梅内伊",
+   "def": "伊朗长期担任最高领袖的政治与宗教人物，自 1989 年起担任这一职务。伊朗最高领袖在国家政治、军事及安全事务中拥有广泛权力，因此与其有关的安全事件往往具有重要的地区政治影响。<br>本文中的意思：文中称以色列黑进伊朗交通摄像头收集的情报，被用于今年早些时候针对他的刺杀行动——监控设备就此与最高层的安全直接挂上了钩。"
+  },
+  {
+   "name": "Proxy / 代理力量",
+   "def": "在国际政治与军事报道中，proxy 常指受到外部国家支持、并在某种程度上代表其利益行动的组织或力量。支持形式可能包括资金、武器、训练或情报合作，但这并不意味着支持国直接指挥该组织的每一次行动。<br>本文中的意思：伊朗的 proxies 就是反击以色列摄像头的那批势力——不是伊朗自己出手，而是它扶植的力量代其出手。"
+  },
+  {
+   "name": "Security Service of Ukraine（SBU） / 乌克兰国家安全局",
+   "def": "乌克兰负责反间谍、反恐、国家安全及相关网络安全事务的重要机构，通常简称 SBU。它不同于负责常规作战的乌克兰武装部队，但在战时情报搜集和安全防护方面发挥重要作用。<br>本文中的意思：基辅住宅摄像头被夺一事由 SBU 披露；它还表示自 2022 年以来，已识别并加固、调向或封锁约 4 万台存在潜在安全风险的摄像头。"
+  },
+  {
+   "name": "Kyiv / 基辅",
+   "def": "乌克兰首都，也是国家政治、行政和交通的重要中心。2024 年，乌方披露俄罗斯黑客入侵了基辅的民用监控摄像头，其中包括住宅区安装的设备。<br>本文中的意思：攻击者想借这些画面在首都寻找目标、校正后续导弹袭击——小区里那台看院子的摄像头，就这样被算进了打击链条。"
+  },
+  {
+   "name": "Aerial Reconnaissance / 空中侦察",
+   "def": "利用飞机、无人机或其他空中平台观察地面目标、获取军事情报的活动，能帮助掌握对方部署、交通状况与目标变化，但受天气、飞行距离及防空力量等因素限制。<br>本文中的意思：它正是被入侵摄像头抢走饭碗的一方——固定摄像头能对某一地点持续供片，可以补空中侦察的空白；但两者信息范围不同，谁也替代不了谁。"
+  },
+  {
+   "name": "Human Intelligence（HUMINT） / 人力情报",
+   "def": "通常简称 HUMINT，指通过人员接触、实地观察、访谈或秘密情报活动等方式获取的信息。传统情报人员往往需要亲自进入目标地区，承担身份暴露或被捕的风险。<br>本文中的意思：文中说侵入一台位置恰当的摄像头，比派哪怕最精明的特工潜入风险更低；但摄像头只给画面，判断不了动机与决策，所以仍取代不了人力情报。"
+  },
+  {
+   "name": "Palo Alto Networks / 派拓网络",
+   "def": "一家总部位于美国加利福尼亚州的网络安全公司，主要提供网络防护、云安全、威胁检测及安全运营等产品和服务，其研究的风险不只涉及电脑和服务器，也包括摄像头、录像设备等联网终端。<br>本文中的意思：该公司云安全服务高级副总裁徐邹指出，许多摄像头由设施管理人员安装，负责网络安全的 IT 团队未必知道这些设备的存在。"
+  },
+  {
+   "name": "Facilities Management vs IT / 设施管理与 IT 的分工",
+   "def": "大型企业通常把信息技术管理与建筑设施管理交给不同部门：IT 部门负责计算机、服务器、软件和企业网络，设施管理部门则可能负责监控摄像头、门禁系统、照明和空调等设备。<br>本文中的意思：设施部门装了联网摄像头，却没把它纳入统一的安全管理体系，设备就可能长期无人监测、无人更新——这种部门间的信息脱节，正是企业物联网安全的大坑。"
+  },
+  {
+   "name": "Prague / 布拉格",
+   "def": "捷克共和国的首都，位于欧洲中部，以保存完好的历史城区、布拉格城堡和查理大桥等建筑闻名。<br>本文中的意思：文中那位父亲翁德热·斯沃博达就住在布拉格；2023 年的一个晚上，他给孩子读故事时，听见婴儿监视器传出了陌生人的说话声和背景音乐。"
+  },
+  {
+   "name": "Baby Monitor / 婴儿监视器",
+   "def": "一种帮家长远程观察或收听婴幼儿活动的设备，通常具有声音传输功能，部分型号还配备摄像头、夜视和双向通话。智能款可通过家庭网络和手机应用传画面，便利的同时也把安全系于网络连接、用户账户和应用程序。<br>本文中的意思：斯沃博达起初以为声音来自妻子用的双向通话功能，随后才意识到设备被陌生人入侵——家里最柔软的那件设备，也会成为别人的入口。"
+  },
+  {
+   "name": "Internet of Things（IoT） / 物联网",
+   "def": "指通过互联网或其他网络连接、能够收集和交换数据的实体设备，包括智能门铃、监控摄像头、家用电器、工业传感器和医疗设备等。与电脑不同，它们主要负责感知环境或控制现实世界中的某种功能，品牌繁多、更新周期不一、常常缺乏统一管理。<br>本文中的意思：文中称它是一个“难以管控的领域”——设备越多越杂，可供攻击者找漏洞的地方就越多，每一台都可能成为新的风险入口。"
+  },
+  {
+   "name": "Akira / Akira 勒索软件组织",
+   "def": "一个与多起勒索软件攻击有关的网络犯罪组织。勒索软件通常通过加密文件或窃取敏感数据等方式，迫使受害者支付赎金。<br>本文中的意思：S-RM 披露，Akira 曾利用某机构网络里一台缺乏保护的摄像头绕过部分安全防护，再实施勒索——摄像头不是终点，而是进门的那把钥匙。"
+  },
+  {
+   "name": "Attack Surface / 攻击面",
+   "def": "网络安全领域的重要概念，指攻击者可能用来接触、进入或破坏某个系统的全部潜在入口和暴露点，包括联网设备、用户账户、应用程序和网络服务等。攻击面并不等于已经存在的漏洞，而是描述系统可能受到攻击的范围。<br>本文中的意思：文章用它来收尾——任何接入网络的设备，哪怕再不起眼，都在扩大你的攻击面。"
+  }
+ ],
+ "sources_note": "资料核对：以上背景依据文章内容，并参考 The Wall Street Journal、S-RM、Recorded Future 与 Palo Alto Networks 截至 2026 年 10 月的公开资料。",
+ "practice": {
+  "intro": "请根据今天学习的外刊，把下面的中文句子翻译成英文。要求：尽量用上括号里的表达，可以适当改变词形，但不要直接照抄原文。",
+  "items": [
+   "如今，监控摄像头（surveillance cameras）在我们的生活中无处不在(omnipresent)，但许多设备很容易受到网络攻击（vulnerable to cyberattacks）。",
+   "在现代战争中，黑客可能入侵（hack into）普通的民用摄像头，利用监控画面（video footage）收集军事情报（military intelligence）。",
+   "人工智能使黑客能够大规模地（at scale）分析视频资料，从中发现隐藏的信息（hidden information）和规律（patterns）。",
+   "与此同时，许多联网摄像头没有得到及时的安全更新（security updates），可能成为整个网络中的薄弱环节（a weak link），甚至扩大系统的攻击面（attack surface）。",
+   "这些安全风险不仅可能影响军事行动，也可能侵犯普通家庭的隐私（privacy）。",
+   "这篇文章提醒我们，随着越来越多的设备接入互联网（connect to the internet），我们必须更加重视网络安全（cybersecurity）。"
+  ],
+  "critical_en": "If a cheap baby monitor can be turned into military intelligence, who should be held responsible for securing it — the manufacturer, the owner, or the state?",
+  "critical_zh": "如果一台廉价的婴儿监视器都能被变成军事情报，那它的安全该由谁负责——厂商、用户，还是国家？",
+  "answer": "1. Today, surveillance cameras are omnipresent, but many of them are vulnerable to cyberattacks.<br><br>2. During wars, hackers can hack into ordinary cameras and use video footage to collect military intelligence.<br><br>3. With the help of AI, they can analyze videos at scale and discover hidden information and patterns.<br><br>4. However, many cameras do not receive regular security updates. They may become a weak link in a larger network and increase its attack surface.<br><br>5. These risks can also threaten the privacy of ordinary families.<br><br>6. The article reminds us that as more devices connect to the internet, cybersecurity is becoming increasingly important."
+ },
+ "mindmap": {
+  "aria": "全球摄像头被入侵成战争情报工具思维导图",
+  "alt": "12亿台摄像头如何变成战争之眼（手绘版）",
+  "svg": "<svg viewBox=\"0 0 960 720\" xmlns=\"http://www.w3.org/2000/svg\" role=\"img\" aria-label=\"全球摄像头被入侵成战争情报工具思维导图\" style=\"width:100%;height:auto;font-family:-apple-system,'PingFang SC','Hiragino Sans GB','Microsoft YaHei',sans-serif\">\n        <rect x=\"24\" y=\"306\" width=\"176\" height=\"88\" rx=\"14\" fill=\"#eae3d2\" stroke=\"#9a8f76\"/>\n        <text x=\"112\" y=\"342\" text-anchor=\"middle\" fill=\"#3d3a34\" font-size=\"17\" font-weight=\"700\">12亿台摄像头</text>\n        <text x=\"112\" y=\"368\" text-anchor=\"middle\" fill=\"#5c5648\" font-size=\"12.5\">怎样变成战争之眼</text>\n\n        <path d=\"M200,350 C232,350 232,88 260,88\"  stroke=\"#6b8f71\" stroke-width=\"2\" fill=\"none\"/>\n        <path d=\"M200,350 C232,350 232,238 260,238\" stroke=\"#7d98ad\" stroke-width=\"2\" fill=\"none\"/>\n        <path d=\"M200,350 C232,350 232,433 260,433\" stroke=\"#bd7a6d\" stroke-width=\"2\" fill=\"none\"/>\n        <path d=\"M200,350 C232,350 232,628 260,628\" stroke=\"#9b86b3\" stroke-width=\"2\" fill=\"none\"/>\n\n        <g class=\"mm-branch\" data-target=\"bc1\">\n          <rect x=\"260\" y=\"71\" width=\"190\" height=\"34\" rx=\"8\" fill=\"#e6efe7\" stroke=\"#6b8f71\"/>\n          <text x=\"349\" y=\"93\" text-anchor=\"middle\" fill=\"#4c6b52\" font-size=\"15\" font-weight=\"700\">民用摄像头成战场（¶1–2）</text>\n          <text class=\"mm-arrow\" data-for=\"bc1\" x=\"442\" y=\"93\" text-anchor=\"end\" fill=\"#4c6b52\">▾</text>\n        </g>\n        <g class=\"mm-children\" id=\"bc1\">\n          <path d=\"M450,88 C462,88 462,46 480,46\" stroke=\"#6b8f71\" stroke-width=\"1.5\" fill=\"none\"/>\n          <path d=\"M450,88 C462,88 462,88 480,88\" stroke=\"#6b8f71\" stroke-width=\"1.5\" fill=\"none\"/>\n          <path d=\"M450,88 C462,88 462,130 480,130\" stroke=\"#6b8f71\" stroke-width=\"1.5\" fill=\"none\"/>\n          <rect x=\"480\" y=\"30\" width=\"456\" height=\"32\" rx=\"8\" fill=\"#e6efe7\"/><text x=\"492\" y=\"51\" fill=\"#3d3a34\" font-size=\"14\">鸡舍摄像头被黑：界面语言被切成阿拉伯语</text>\n          <rect x=\"480\" y=\"72\" width=\"456\" height=\"32\" rx=\"8\" fill=\"#e6efe7\"/><text x=\"492\" y=\"93\" fill=\"#3d3a34\" font-size=\"14\">全球约 12 亿台联网摄像头，它只是其中一台</text>\n          <rect x=\"480\" y=\"114\" width=\"456\" height=\"32\" rx=\"8\" fill=\"#e6efe7\"/><text x=\"492\" y=\"135\" fill=\"#3d3a34\" font-size=\"14\">民用监控正被转换成战时情报收集</text>\n        </g>\n\n        <g class=\"mm-branch\" data-target=\"bc2\">\n          <rect x=\"260\" y=\"221\" width=\"190\" height=\"34\" rx=\"8\" fill=\"#e5edf4\" stroke=\"#7d98ad\"/>\n          <text x=\"349\" y=\"243\" text-anchor=\"middle\" fill=\"#3d5872\" font-size=\"15\" font-weight=\"700\">谁在入侵、怎么用（¶3–5）</text>\n          <text class=\"mm-arrow\" data-for=\"bc2\" x=\"442\" y=\"243\" text-anchor=\"end\" fill=\"#3d5872\">▾</text>\n        </g>\n        <g class=\"mm-children\" id=\"bc2\">\n          <path d=\"M450,238 C462,238 462,196 480,196\" stroke=\"#7d98ad\" stroke-width=\"1.5\" fill=\"none\"/>\n          <path d=\"M450,238 C462,238 462,238 480,238\" stroke=\"#7d98ad\" stroke-width=\"1.5\" fill=\"none\"/>\n          <path d=\"M450,238 C462,238 462,280 480,280\" stroke=\"#7d98ad\" stroke-width=\"1.5\" fill=\"none\"/>\n          <rect x=\"480\" y=\"180\" width=\"456\" height=\"32\" rx=\"8\" fill=\"#e5edf4\"/><text x=\"492\" y=\"201\" fill=\"#3d3a34\" font-size=\"14\">情报机构撞库接入，AI 规模化分析画面</text>\n          <rect x=\"480\" y=\"222\" width=\"456\" height=\"32\" rx=\"8\" fill=\"#e5edf4\"/><text x=\"492\" y=\"243\" fill=\"#3d3a34\" font-size=\"14\">俄乌互黑摄像头，以方黑进伊朗交通监控</text>\n          <rect x=\"480\" y=\"264\" width=\"456\" height=\"32\" rx=\"8\" fill=\"#e5edf4\"/><text x=\"492\" y=\"285\" fill=\"#3d3a34\" font-size=\"14\">基辅住宅摄像头被夺，乌方处置约 4 万台</text>\n        </g>\n\n        <g class=\"mm-branch\" data-target=\"bc3\">\n          <rect x=\"260\" y=\"416\" width=\"190\" height=\"34\" rx=\"8\" fill=\"#f4e7e4\" stroke=\"#bd7a6d\"/>\n          <text x=\"349\" y=\"438\" text-anchor=\"middle\" fill=\"#7c4a3e\" font-size=\"15\" font-weight=\"700\">为什么这么好用（¶6–8）</text>\n          <text class=\"mm-arrow\" data-for=\"bc3\" x=\"442\" y=\"438\" text-anchor=\"end\" fill=\"#7c4a3e\">▾</text>\n        </g>\n        <g class=\"mm-children\" id=\"bc3\">\n          <path d=\"M450,433 C462,433 462,391 480,391\" stroke=\"#bd7a6d\" stroke-width=\"1.5\" fill=\"none\"/>\n          <path d=\"M450,433 C462,433 462,433 480,433\" stroke=\"#bd7a6d\" stroke-width=\"1.5\" fill=\"none\"/>\n          <path d=\"M450,433 C462,433 462,475 480,475\" stroke=\"#bd7a6d\" stroke-width=\"1.5\" fill=\"none\"/>\n          <rect x=\"480\" y=\"375\" width=\"456\" height=\"32\" rx=\"8\" fill=\"#f4e7e4\"/><text x=\"492\" y=\"396\" fill=\"#3d3a34\" font-size=\"14\">顶替空中侦察与地面间谍，风险还更低</text>\n          <rect x=\"480\" y=\"417\" width=\"456\" height=\"32\" rx=\"8\" fill=\"#f4e7e4\"/><text x=\"492\" y=\"438\" fill=\"#3d3a34\" font-size=\"14\">设施部门装、IT 不知情，设备长期没人管</text>\n          <rect x=\"480\" y=\"459\" width=\"456\" height=\"32\" rx=\"8\" fill=\"#f4e7e4\"/><text x=\"492\" y=\"480\" fill=\"#3d3a34\" font-size=\"14\">家庭婴儿监视器被入侵，父亲拔掉电源</text>\n        </g>\n\n        <g class=\"mm-branch\" data-target=\"bc4\">\n          <rect x=\"260\" y=\"611\" width=\"190\" height=\"34\" rx=\"8\" fill=\"#ece4f2\" stroke=\"#9b86b3\"/>\n          <text x=\"349\" y=\"633\" text-anchor=\"middle\" fill=\"#5a4670\" font-size=\"15\" font-weight=\"700\">你的设备也是入口（¶9）</text>\n          <text class=\"mm-arrow\" data-for=\"bc4\" x=\"442\" y=\"633\" text-anchor=\"end\" fill=\"#5a4670\">▾</text>\n        </g>\n        <g class=\"mm-children\" id=\"bc4\">\n          <path d=\"M450,628 C462,628 462,586 480,586\" stroke=\"#9b86b3\" stroke-width=\"1.5\" fill=\"none\"/>\n          <path d=\"M450,628 C462,628 462,628 480,628\" stroke=\"#9b86b3\" stroke-width=\"1.5\" fill=\"none\"/>\n          <path d=\"M450,628 C462,628 462,670 480,670\" stroke=\"#9b86b3\" stroke-width=\"1.5\" fill=\"none\"/>\n          <rect x=\"480\" y=\"570\" width=\"456\" height=\"32\" rx=\"8\" fill=\"#ece4f2\"/><text x=\"492\" y=\"591\" fill=\"#3d3a34\" font-size=\"14\">联网配件是首要目标，攻击面被越撑越大</text>\n          <rect x=\"480\" y=\"612\" width=\"456\" height=\"32\" rx=\"8\" fill=\"#ece4f2\"/><text x=\"492\" y=\"633\" fill=\"#3d3a34\" font-size=\"14\">摄像头常非终点，而是攻进内网的薄弱环节</text>\n          <rect x=\"480\" y=\"654\" width=\"456\" height=\"32\" rx=\"8\" fill=\"#ece4f2\"/><text x=\"492\" y=\"675\" fill=\"#3d3a34\" font-size=\"14\">Akira 借一台摄像头绕过防护并实施勒索</text>\n        </g>\n      </svg>",
+  "img": ""
+ }
+}

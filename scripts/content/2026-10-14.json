@@ -1,0 +1,650 @@
+{
+ "date": "2026-10-14",
+ "title_tag": "中国短剧杀进好莱坞：一集60秒、一年赚15亿美元，美国都急了！—— 美国《纽约时报》外刊讲解第1197天",
+ "h1": "中国短剧杀进好莱坞：一集60秒、一年赚15亿美元，美国都急了！",
+ "source_label": "The New York Times",
+ "category": "美国《纽约时报》外刊讲解 第1197天",
+ "read_minutes": 20,
+ "nav_hint": "60-second microdramas and Hollywood",
+ "headline": {
+  "en_html": "Are 60-Second <mark class=\"voc\">Microdramas</mark> the Future of Hollywood, or the End?",
+  "zh": "60秒微短剧：好莱坞的未来，还是终结？",
+  "notes": [
+   {
+    "w": "microdrama",
+    "ipa": "/ˈmaɪkrəʊˌdrɑːmə/",
+    "pos": "n.",
+    "en": "a short-form dramatic series designed for mobile viewing, typically with episodes under two minutes",
+    "zh": "微短剧",
+    "ctx": "专为手机竖屏而生的短剧，单集不到两分钟；标题把它摆进“好莱坞的未来还是终结”这个二选一里，全文要回答的正是这道题。",
+    "ex1": "Microdramas have become a guilty pleasure for commuters who need a quick narrative fix. 微短剧已成为通勤族的心头好，他们需要快速获得叙事快感。",
+    "ex2": "The rise of microdramas has forced traditional studios to rethink their distribution strategies. 微短剧的崛起迫使传统制片厂重新思考发行策略。"
+   }
+  ]
+ },
+ "paragraphs": [
+  {
+   "en_html": "In 2020, the entertainment <mark class=\"voc\">mogul</mark> Jeffrey Katzenberg <mark class=\"voc\">brought to life</mark> an idea that must have seemed — <mark class=\"voc\">in the flash of</mark> its <mark class=\"voc\">conception</mark> — <mark class=\"voc\">foolproof</mark>: Netflix, but for people addicted to their phones. He called it Quibi: short for “quick bites.” It collapsed after eight months in a total <mark class=\"voc\">void</mark> of public interest. And yet, the joke may very well be on us. Because, just six years later, short-form, mobile-first narrative entertainment is the fastest-growing form of streaming worldwide, per Bloomberg.",
+   "zh": "2020年，娱乐大亨杰弗里·卡岑伯格推出了一个在当时看来堪称万无一失的创意——简而言之，就是为手机成瘾者量身打造的Netflix。他将其命名为Quibi，取“quick bites”（快咬一口）之意。然而，这款产品上线仅八个月便黯然关停，公众兴趣几近于零。可讽刺的是，笑到最后的或许并不是我们。因为据彭博社报道，仅仅六年之后，短格式、移动优先的叙事娱乐已成为全球流媒体增长最快的品类。",
+   "notes": [
+    {
+     "w": "mogul",
+     "ipa": "/ˈməʊɡl/",
+     "pos": "n.",
+     "en": "a powerful and influential person in a particular industry",
+     "zh": "大亨，巨头",
+     "ctx": "娱乐业巨头，指在某一行业握有巨大权力与影响力的人物；作者一开篇先立起卡岑伯格的分量，才好让后面的崩塌更有落差。",
+     "ex1": "The media mogul owned newspapers, television stations, and a film studio. 这位媒体大亨拥有报纸、电视台和一家电影制片厂。",
+     "ex2": "Tech moguls gathered at the summit to discuss the future of artificial intelligence. 科技巨头们齐聚峰会，讨论人工智能的未来。"
+    },
+    {
+     "w": "bring to life",
+     "ipa": "/brɪŋ tuː laɪf/",
+     "pos": "phr.",
+     "en": "to make something real or active; to give form to an idea",
+     "zh": "使成真，实现；赋予生命",
+     "ctx": "把想法付诸实践、变成现实；这里指他真的把“给手机成瘾者的Netflix”做了出来，而不只是想想。",
+     "ex1": "The director brought the novelist’s vision to life on the big screen. 导演将小说家的构想在银幕上变为现实。",
+     "ex2": "It took years of fundraising to bring the community center project to life. 经过多年的筹款，社区中心项目终于得以实现。"
+    },
+    {
+     "w": "in the flash of",
+     "ipa": "/ɪn ðə flæʃ ɒv/",
+     "pos": "phr.",
+     "en": "in an instant; at the very moment of",
+     "zh": "在一瞬间",
+     "ctx": "在灵光一闪的瞬间；强调这主意诞生得又快又自信，与八个月后的关停形成对照。",
+     "ex1": "In the flash of a moment, the deal was sealed. 在一瞬间，交易就敲定了。",
+     "ex2": "The idea came to him in the flash of inspiration. 这个想法在灵光一闪间出现在他脑海中。"
+    },
+    {
+     "w": "conception",
+     "ipa": "/kənˈsepʃn/",
+     "pos": "n.",
+     "en": "the forming of an idea or plan in the mind",
+     "zh": "构想，构思",
+     "ctx": "创意在脑中酝酿、成形的阶段；in the flash of its conception 即“在它刚被构思出来的那一刻”。",
+     "ex1": "The project was flawed from its very conception. 这个项目从构想之初就存在缺陷。",
+     "ex2": "Since its conception, the initiative has undergone several major revisions. 自构想以来，该倡议经历了数次重大修改。"
+    },
+    {
+     "w": "foolproof",
+     "ipa": "/ˈfuːlpruːf/",
+     "pos": "adj.",
+     "en": "so simple and well-designed that it cannot fail or go wrong",
+     "zh": "万无一失的，绝对可靠的",
+     "ctx": "连傻子都不会出错；作者用它反讽——越是自称“万无一失”的点子，摔得越难看。",
+     "ex1": "The engineers designed a foolproof safety mechanism for the reactor. 工程师为反应堆设计了一套万无一失的安全机制。",
+     "ex2": "There is no foolproof way to predict the stock market. 没有任何万无一失的方法能预测股市。"
+    },
+    {
+     "w": "void",
+     "ipa": "/vɔɪd/",
+     "pos": "n.",
+     "en": "a completely empty space; an absence of something",
+     "zh": "空白，空虚；真空",
+     "ctx": "真空、一片空白；in a total void of public interest 指公众兴趣几近于零，产品在无人关心中死掉。",
+     "ex1": "After his retirement, he felt a void in his life. 退休后，他感到生活中有一片空白。",
+     "ex2": "The company filled a void in the market for affordable electric vehicles. 该公司填补了平价电动汽车市场的空白。"
+    }
+   ]
+  },
+  {
+   "en_html": "Microdramas, sometimes called “<mark class=\"voc\">verticals</mark>,” are TV shows for your phone. They are typically described as <mark class=\"voc\">soap operas</mark> for Gen Z: <mark class=\"voc\">hypersexual</mark>, over the top and — most important — short, with <mark class=\"voc\">episodes</mark> rarely exceeding two minutes in length. The format was born around 2018 in China, where its revenue now exceeds that of the conventional film industry. As I write this, the form is <mark class=\"voc\">on track to</mark> take in $1.5 billion in revenue in the United States by the end of the year.",
+   "zh": "微短剧，有时被称为“竖屏剧”，是专为手机而生的电视剧。人们通常将其描述为Z世代的肥皂剧：尺度大胆、情节夸张，而最关键的是——短，单集时长鲜有超过两分钟的。这一形式约于2018年诞生于中国，如今其营收已超过传统电影产业。在我撰写本文之际，这一形态预计到今年年底将在美国斩获15亿美元的收入。",
+   "notes": [
+    {
+     "w": "vertical",
+     "ipa": "/ˈvɜːtɪkl/",
+     "pos": "n.",
+     "en": "a short-form video format designed for vertical phone screens",
+     "zh": "竖屏剧",
+     "ctx": "竖屏剧，专为手机竖屏比例拍摄的剧集，与传统横屏影视相对；名字直接来自画幅方向。",
+     "ex1": "Verticals have exploded in popularity among younger audiences. 竖屏剧在年轻观众中人气暴涨。",
+     "ex2": "Producers are investing heavily in verticals because they cost less to make. 制片人正大举投资竖屏剧，因为制作成本更低。"
+    },
+    {
+     "w": "soap opera",
+     "ipa": "/ˈsəʊp ˌɒprə/",
+     "pos": "n.",
+     "en": "a serial drama characterized by melodramatic storylines and emotional excess",
+     "zh": "肥皂剧",
+     "ctx": "肥皂剧，情节夸张、情感浓烈的连续剧；作者用它给微短剧定性——这就是“给Z世代看的肥皂剧”。",
+     "ex1": "She watched her favorite soap opera every evening after dinner. 她每天晚饭后都看最喜欢的肥皂剧。",
+     "ex2": "The show was dismissed by critics as a glorified soap opera. 该剧被评论家贬为一部美其名曰的肥皂剧。"
+    },
+    {
+     "w": "hyper-",
+     "ipa": "/ˈhaɪpə/",
+     "pos": "prefix",
+     "en": "excessively; beyond the normal",
+     "zh": "过度，超",
+     "ctx": "前缀“过度、超”；hypersexual 即尺度远超常规，是“Z世代肥皂剧”三条特征里的第一条。",
+     "ex1": "The marketing campaign was hyper-aggressive and turned off many customers. 这场营销活动过于激进，令许多顾客反感。",
+     "ex2": "Children today are exposed to a hyper-connected world from an early age. 如今的孩子从小就置身于一个高度互联的世界。"
+    },
+    {
+     "w": "episode",
+     "ipa": "/ˈepɪsəʊd/",
+     "pos": "n.",
+     "en": "one installment of a serialized show",
+     "zh": "一集，一集剧",
+     "ctx": "一集；单集鲜有超过两分钟——这个“短”才是微短剧区别于一切旧形式的根本。",
+     "ex1": "The season finale episode drew record-breaking viewership. 季终集吸引了破纪录的收视率。",
+     "ex2": "Each episode ends with a cliffhanger to keep viewers coming back. 每一集都以悬念收尾，让观众欲罢不能。"
+    },
+    {
+     "w": "on track to",
+     "ipa": "/ɒn træk tuː/",
+     "pos": "phr.",
+     "en": "progressing toward a particular result or goal",
+     "zh": "有望，正在朝着……发展",
+     "ctx": "按当前趋势正朝着某个结果走、有望达成；15亿美元是预测，不是已经到手的账。",
+     "ex1": "The company is on track to double its revenue this year. 该公司有望在今年实现营收翻倍。",
+     "ex2": "She is on track to graduate with honors. 她有望以优异成绩毕业。"
+    }
+   ]
+  },
+  {
+   "en_html": "Each short episode opens with a <mark class=\"voc\">hook</mark> and ends with a twist, dragging viewers, like <mark class=\"voc\">recalcitrant</mark> pets, through entire seasons roughly the length of a <mark class=\"voc\">feature film</mark>. In the first years of this decade, a number of Chinese companies began to export the form abroad, creating countless U.S. microdrama apps and coordinating U.S.-based microdrama shoots in order to supply those apps with content. These companies still <mark class=\"voc\">retain</mark> a near <mark class=\"voc\">monopoly</mark> on U.S. production, but that is quickly changing. Hollywood executives — noticing these apps <mark class=\"voc\">outranking</mark> their own streamers on the charts — have started to <mark class=\"voc\">spin up</mark> microdrama platforms of their own.",
+   "zh": "每集短剧以悬念开场，以反转收尾，像拽着不情愿的宠物一样，拖着观众看完整季——而整季时长大约只相当于一部院线电影。本世纪二十年代初，多家中国公司开始将这一形式输出海外，催生了无数美国微短剧应用，并协调在美国本土拍摄微短剧以供给这些平台。这些公司至今仍近乎垄断着美国的微短剧制作，但这格局正在迅速改变。好莱坞高管们——注意到这些应用在下载排行榜上压过了自家的流媒体平台——已开始纷纷搭建自己的微短剧平台。",
+   "notes": [
+    {
+     "w": "hook",
+     "ipa": "/hʊk/",
+     "pos": "n.",
+     "en": "a compelling opening device that grabs the audience’s attention",
+     "zh": "钩子，悬念开场",
+     "ctx": "钩子、抓人的开场；每集开头必须在几秒内勾住观众，这是微短剧的第一条工业标准。",
+     "ex1": "The first chapter has a strong hook that makes it impossible to put down. 第一章有一个强有力的钩子，让人无法释卷。",
+     "ex2": "Screenwriters are trained to write a hook in the first five pages. 编剧受训要在前五页写出一个抓人的钩子。"
+    },
+    {
+     "w": "recalcitrant",
+     "ipa": "/rɪˈkælsɪtrənt/",
+     "pos": "adj.",
+     "en": "stubbornly resistant to authority or control",
+     "zh": "倔强的，不服从的",
+     "ctx": "倔强、不服从管束的；把观众比作被硬拖着走的不情愿的宠物，写尽了“被剧情绑架”的观看体验。",
+     "ex1": "The recalcitrant student refused to follow any of the classroom rules. 那个倔强的学生拒绝遵守任何课堂规则。",
+     "ex2": "Negotiators struggled to bring the recalcitrant faction to the table. 谈判代表费尽力气才让那个不服从的派系坐到谈判桌前。"
+    },
+    {
+     "w": "feature film",
+     "ipa": "/ˈfiːtʃə fɪlm/",
+     "pos": "n.",
+     "en": "a full-length film, typically over 90 minutes, shown in cinemas",
+     "zh": "院线电影，故事长片",
+     "ctx": "院线电影、标准长片；整季微短剧的总长度约等于一部院线片，却能让人一口气刷完。",
+     "ex1": "The director spent three years working on his first feature film. 这位导演花了三年时间拍摄他的第一部院线电影。",
+     "ex2": "Feature films are increasingly competing with short-form content for audience attention. 院线电影正日益与短格式内容争夺观众注意力。"
+    },
+    {
+     "w": "retain",
+     "ipa": "/rɪˈteɪn/",
+     "pos": "v.",
+     "en": "to continue to have or hold something",
+     "zh": "保留，保持",
+     "ctx": "继续保持、仍然握有；这些中国公司至今仍近乎垄断美国的微短剧制作。",
+     "ex1": "The company retained its dominant position in the market despite new competitors. 尽管有新竞争者出现，该公司仍保持着市场主导地位。",
+     "ex2": "She retained control of the business after the merger. 合并后她仍保留着对企业的控制权。"
+    },
+    {
+     "w": "monopoly",
+     "ipa": "/məˈnɒpəli/",
+     "pos": "n.",
+     "en": "exclusive control of a commodity or service in a particular market",
+     "zh": "垄断，独占",
+     "ctx": "垄断、独占；near monopoly 即近乎垄断，但作者下一句立刻说——这格局正在被打破。",
+     "ex1": "The tech giant faced accusations of holding a monopoly over online search. 这家科技巨头被指控垄断在线搜索市场。",
+     "ex2": "New regulations were introduced to break up the monopoly. 新法规出台以打破垄断。"
+    },
+    {
+     "w": "outrank",
+     "ipa": "/ˌaʊtˈræŋk/",
+     "pos": "v.",
+     "en": "to rank higher than someone or something else",
+     "zh": "排名高于，地位超过",
+     "ctx": "在排行榜上压过；微短剧应用压过好莱坞自家的流媒体，这才是高管们坐不住的原因。",
+     "ex1": "The newcomer outranked all established brands in customer satisfaction. 这个新品牌在客户满意度上超过了所有老牌企业。",
+     "ex2": "Safety concerns should always outrank cost considerations. 安全考量应始终优先于成本考量。"
+    },
+    {
+     "w": "spin up",
+     "ipa": "/spɪn ʌp/",
+     "pos": "phr. v.",
+     "en": "to create or establish something quickly, especially a business or system",
+     "zh": "快速搭建，迅速创建",
+     "ctx": "快速搭起来；好莱坞的反击不是改良旧平台，而是从零另起一个自己的微短剧平台。",
+     "ex1": "The startup spun up a new team in just two weeks. 这家初创公司在短短两周内就组建了一个新团队。",
+     "ex2": "During the crisis, the government spun up emergency shelters across the region. 危机期间，政府在该地区迅速搭建了紧急避难所。"
+    }
+   ]
+  },
+  {
+   "en_html": "I’d managed to <mark class=\"voc\">wrangle</mark> three days of set visits on a show called “Bound by Love,” a production of ReelShort. Culturally, ReelShort is an interesting case: the <mark class=\"voc\">flagship</mark> brand of an American company originally financed — and still partly owned — by a Chinese digital content group. The 9:16 format that fills a vertical phone screen leaves little room to <mark class=\"voc\">maneuver</mark>, requiring actors to stand unnaturally close together. “Bound by Love,” which in its finished form would run more than two and a half hours, was to be shot at a variety of locations over the course of just 11 days.",
+   "zh": "我设法争取到了三天探班机会，对象是一部名为《缚爱》（Bound by Love）的剧集，由ReelShort出品。从文化角度看，ReelShort是一个有趣的案例：它是一家美国公司的旗舰品牌，最初由中国数字内容集团出资——且至今仍部分持股。9：16的竖屏格式填满手机屏幕，几乎没有调度余地，迫使演员以极不自然的近距离站在一起。《缚爱》成片时长将超过两个半小时，却要在短短11天内辗转多个场景完成拍摄。",
+   "notes": [
+    {
+     "w": "wrangle",
+     "ipa": "/ˈræŋɡl/",
+     "pos": "v.",
+     "en": "to obtain or manage something through effort or negotiation",
+     "zh": "设法获得，费力争取",
+     "ctx": "费一番功夫才争取到；作者能进剧组本身是“求”来的，暗示这个行业对外相当封闭。",
+     "ex1": "He managed to wrangle an invitation to the exclusive event. 他设法弄到了那场独家活动的邀请函。",
+     "ex2": "She wrangled a better deal from the supplier. 她从供应商那里争取到了更优惠的条件。"
+    },
+    {
+     "w": "flagship",
+     "ipa": "/ˈflæɡʃɪp/",
+     "pos": "n.",
+     "en": "the most important or leading product or brand of a company",
+     "zh": "旗舰，旗舰品牌",
+     "ctx": "旗舰品牌；ReelShort 是美国公司的旗舰，钱却来自中国——这句是全文的题眼。",
+     "ex1": "The smartphone is the company’s flagship product. 这款智能手机是该公司的旗舰产品。",
+     "ex2": "The flagship store in Tokyo attracts thousands of visitors daily. 东京的旗舰店每天吸引数千名顾客。"
+    },
+    {
+     "w": "maneuver",
+     "ipa": "/məˈnuːvə/",
+     "pos": "n.",
+     "en": "room for movement or action; a skillful movement",
+     "zh": "回旋余地，调度空间",
+     "ctx": "回旋、调度的余地；9:16 竖屏几乎不留调度空间，只能把演员往镜头前怼。",
+     "ex1": "The tight budget left little maneuver for additional spending. 预算紧张，几乎没有额外支出的余地。",
+     "ex2": "The narrow streets gave the driver no room to maneuver. 狭窄的街道让司机没有回旋的余地。"
+    }
+   ]
+  },
+  {
+   "en_html": "The key <mark class=\"voc\">grip</mark> had an explanation for this: The scenes they were shooting that day were for an early episode, one that would appear before the viewer hit the <mark class=\"voc\">paywall</mark>. As at least a dozen people would subsequently inform me, the platforms are not overly invested in the quality of the episodes that come after — <mark class=\"voc\">i.e.</mark>, the episodes a viewer has actually paid to see. The goal is to keep them up, which is <mark class=\"voc\">distinct</mark> from telling a good or even <mark class=\"voc\">coherent</mark> story.",
+   "zh": "首席置景师对此有一番解释：当天拍摄的场景属于早期集数，也就是观众还没碰到付费墙之前能看到的内容。正如随后至少十几个人告诉我的那样，平台对于付费之后——即观众真正花钱看的那些集数——的质量并不过分上心。目标只是让观众继续看下去，这与讲一个好故事、甚至一个连贯的故事，是两回事。",
+   "notes": [
+    {
+     "w": "grip",
+     "ipa": "/ɡrɪp/",
+     "pos": "n.",
+     "en": "a technician responsible for lighting equipment and rigging on a film set",
+     "zh": "置景师，灯光器材技师",
+     "ctx": "置景师、灯光器材技师；让这个技术岗位的人来说出“拍的是付费墙之前的集数”，最见行业真相。",
+     "ex1": "The grip adjusted the lights to create a softer shadow. 置景师调整灯光以营造更柔和的阴影。",
+     "ex2": "Experienced grips are essential to any professional film production. 经验丰富的置景师对任何专业影视制作都不可或缺。"
+    },
+    {
+     "w": "paywall",
+     "ipa": "/ˈpeɪwɔːl/",
+     "pos": "n.",
+     "en": "a system that restricts access to content until a user pays",
+     "zh": "付费墙",
+     "ctx": "付费墙；观众看到关键处被拦下掏钱，墙前认真、墙后敷衍，这就是这门生意的核心结构。",
+     "ex1": "Many news sites have erected paywalls to boost subscription revenue. 许多新闻网站设立了付费墙以提高订阅收入。",
+     "ex2": "Readers hit a paywall after three free articles. 读者在免费阅读三篇文章后会碰到付费墙。"
+    },
+    {
+     "w": "i.e.",
+     "ipa": "/ˌaɪˈiː/",
+     "pos": "abbr.",
+     "en": "that is; in other words (from Latin id est)",
+     "zh": "即，也就是说",
+     "ctx": "即、也就是说；作者用它把“后面的集数”当场点破为“观众真正花钱看的那些”。",
+     "ex1": "The fee covers basic services, i.e., water and electricity. 该费用涵盖基本服务，即水和电。",
+     "ex2": "The company targets young consumers, i.e., those under thirty. 该公司瞄准年轻消费者，即三十岁以下的人群。"
+    },
+    {
+     "w": "distinct",
+     "ipa": "/dɪˈstɪŋkt/",
+     "pos": "adj.",
+     "en": "clearly different or separate",
+     "zh": "截然不同的，有区别的",
+     "ctx": "截然不同的两回事；让观众看下去 ≠ 讲一个（哪怕只是连贯的）故事，这是全段最锋利的一句。",
+     "ex1": "The two species are distinct in both appearance and behavior. 这两个物种在外观和行为上截然不同。",
+     "ex2": "There is a distinct difference between confidence and arrogance. 自信与傲慢之间有着明显的区别。"
+    },
+    {
+     "w": "coherent",
+     "ipa": "/kəʊˈhɪərənt/",
+     "pos": "adj.",
+     "en": "logical and consistent; easy to understand",
+     "zh": "连贯的，条理清晰的",
+     "ctx": "连贯、逻辑自洽；平台连“故事说不说得通”都不在乎，只要你不划走。",
+     "ex1": "The professor gave a coherent explanation of the theory. 教授对该理论作了条理清晰的解释。",
+     "ex2": "The novel’s plot is barely coherent after the halfway point. 这部小说过了中场之后情节几乎谈不上连贯。"
+    }
+   ]
+  },
+  {
+   "en_html": "What is clear with <mark class=\"voc\">hindsight</mark> is that Quibi failed primarily because it was TV — regular old TV — that happened to be on your phone. The <mark class=\"voc\">intervening</mark> years have taught us that what tends to succeed on phones is phone stuff. This is the <mark class=\"voc\">terrain</mark> that ReelShort and its peers have precision-engineered their content to compete on. Fox Entertainment has made an equity investment in the microdrama platform Holywater. Disney+ has begun to produce microdramas of its own, and Paramount+ has a <mark class=\"voc\">slate</mark> scheduled for the fall.",
+   "zh": "事后回看，Quibi失败的原因显而易见：它本质上是电视——传统的老式电视——只不过恰好在你的手机上播放。此后的几年教会我们，在手机上容易成功的，是手机原生内容。这正是ReelShort及其同行精准打磨内容、全力竞争的赛道。福克斯娱乐已对微短剧平台Holywater进行了股权投资。Disney+已开始制作自己的微短剧，Paramount+也排定了秋季片单。",
+   "notes": [
+    {
+     "w": "hindsight",
+     "ipa": "/ˈhaɪndsaɪt/",
+     "pos": "n.",
+     "en": "understanding of a situation only after it has happened",
+     "zh": "事后聪明，事后回顾",
+     "ctx": "事后才看明白；What is clear with hindsight 一句，把话题从“它怎么死的”拉到“它为什么必然死”。",
+     "ex1": "In hindsight, we should have invested in that stock years ago. 事后看来，我们几年前就该投资那只股票。",
+     "ex2": "Hindsight is always twenty-twenty. 事后聪明总是百分之百准确。"
+    },
+    {
+     "w": "intervening",
+     "ipa": "/ˌɪntəˈviːnɪŋ/",
+     "pos": "adj.",
+     "en": "occurring between two events or points in time",
+     "zh": "中间的，其间发生的",
+     "ctx": "其间的、此后的；指 Quibi 崩盘到今天的这几年，行业正是用这几年学会了“手机逻辑”。",
+     "ex1": "In the intervening years, the city has changed beyond recognition. 在这几年间，这座城市已变得面目全非。",
+     "ex2": "Nothing noteworthy happened during the intervening period. 在此期间没有发生什么值得注意的事。"
+    },
+    {
+     "w": "terrain",
+     "ipa": "/təˈreɪn/",
+     "pos": "n.",
+     "en": "an area of land or a field of activity",
+     "zh": "地形；领域，阵地",
+     "ctx": "地形，引申为赛道、战场；ReelShort 们把内容打磨到只在这块地形上作战。",
+     "ex1": "The company is entering unfamiliar terrain with its new product line. 该公司正凭借新产品线进入一个陌生的领域。",
+     "ex2": "Negotiators found themselves on dangerous terrain. 谈判代表发现自己身处危险的境地。"
+    },
+    {
+     "w": "slate",
+     "ipa": "/sleɪt/",
+     "pos": "n.",
+     "en": "a list or schedule of planned projects, especially films or shows",
+     "zh": "片单，节目排期",
+     "ctx": "片单、节目排期；Paramount+ 排了秋季片单，说明入局已是排产，而不是试水。",
+     "ex1": "The studio announced a slate of ten new films for next year. 该制片厂公布了明年十部新片的片单。",
+     "ex2": "Her slate of projects includes both comedies and dramas. 她的项目片单包括喜剧和正剧。"
+    }
+   ]
+  },
+  {
+   "en_html": "Today microdramas are — as more than one person put it to me — the only game in town. “I was fighting it for a long time, but Old Hollywood is dead.” Microdramas, she went on, are commercialized, <mark class=\"voc\">rule-bound</mark>, <mark class=\"voc\">utterly</mark> <mark class=\"voc\">devoid of</mark> <mark class=\"voc\">artistry</mark>. “And this can’t be the end of it for me, so I’m joining the <mark class=\"voc\">bandwagon</mark>.” The <mark class=\"voc\">male leads</mark> I spoke to, specifically, seemed uniformly <mark class=\"voc\">thrilled by</mark> this professional windfall. It’s different for the women.",
+   "zh": "如今，微短剧——不止一个人对我这么说——是镇上唯一的游戏。“我抗拒了很久，但旧好莱坞已经死了。”她接着说，微短剧商业化、套路化，毫无艺术性可言。“而这对我来说不可能是终点，所以我选择随波逐流。”与我交谈的男主角们，尤其是他们，似乎无一例外地对这份职业横财欣喜若狂。但对女性而言，情况截然不同。",
+   "notes": [
+    {
+     "w": "rule-bound",
+     "ipa": "/ˈruːl baʊnd/",
+     "pos": "adj.",
+     "en": "constrained by strict rules or conventions",
+     "zh": "受规则束缚的，循规蹈矩的",
+     "ctx": "被规则捆死的、套路化的；受访者用它给微短剧定性——商业化、套路化、谈不上艺术。",
+     "ex1": "The bureaucracy was too rule-bound to respond quickly to the crisis. 官僚体制过于循规蹈矩，无法迅速应对危机。",
+     "ex2": "Artists often feel stifled in rule-bound institutions. 艺术家在受规则束缚的机构中常感到窒息。"
+    },
+    {
+     "w": "utterly",
+     "ipa": "/ˈʌtəli/",
+     "pos": "adv.",
+     "en": "completely; totally",
+     "zh": "完全地，彻底地",
+     "ctx": "完全地、彻底地；utterly devoid of artistry 把“毫无艺术性”说到没有半点余地。",
+     "ex1": "The plan was utterly impractical from the start. 这个计划从一开始就完全不切实际。",
+     "ex2": "She was utterly exhausted after the marathon. 马拉松之后她筋疲力尽。"
+    },
+    {
+     "w": "devoid of",
+     "ipa": "/dɪˈvɔɪd ɒv/",
+     "pos": "phr.",
+     "en": "completely lacking in something",
+     "zh": "毫无，缺乏",
+     "ctx": "毫无、完全缺乏；与 utterly 连用，是全文对微短剧最重的一句贬词。",
+     "ex1": "His speech was devoid of any real emotion. 他的演讲毫无真情实感。",
+     "ex2": "The desert is almost devoid of vegetation. 这片沙漠几乎寸草不生。"
+    },
+    {
+     "w": "artistry",
+     "ipa": "/ˈɑːtɪstri/",
+     "pos": "n.",
+     "en": "creative skill or artistic quality",
+     "zh": "艺术性，艺术才华",
+     "ctx": "艺术性、艺术才华；这是旧好莱坞从业者最舍不得的东西，如今被明码标价地放弃。",
+     "ex1": "The film is praised for its visual artistry. 这部电影因其视觉艺术性而备受赞誉。",
+     "ex2": "Her performance displayed remarkable artistry and restraint. 她的表演展现出非凡的艺术才华与克制力。"
+    },
+    {
+     "w": "bandwagon",
+     "ipa": "/ˈbændwæɡən/",
+     "pos": "n.",
+     "en": "a popular trend that people join in order to be part of something successful",
+     "zh": "潮流，浪潮",
+     "ctx": "潮流、浪潮；jump on the bandwagon 指跟风入局，她半自嘲地说“我选择随波逐流”。",
+     "ex1": "Many investors jumped on the bandwagon after the stock soared. 股价飙升后，许多投资者纷纷跟风入场。",
+     "ex2": "He never follows the bandwagon; he makes his own choices. 他从不随大流，总是自己做选择。"
+    },
+    {
+     "w": "male lead",
+     "ipa": "/meɪl liːd/",
+     "pos": "n.",
+     "en": "the main male actor or character in a film or show",
+     "zh": "男主角",
+     "ctx": "男主角；男演员在这波浪潮里分到的是“职业横财”，所以欣喜若狂。",
+     "ex1": "The male lead delivered a powerful performance in the final scene. 男主角在最后一场戏中奉献了极具感染力的表演。",
+     "ex2": "Casting the right male lead can make or break a romantic drama. 选对男主角可以成就也能毁掉一部爱情剧。"
+    },
+    {
+     "w": "be thrilled by",
+     "ipa": "/biː θrɪld baɪ/",
+     "pos": "phr.",
+     "en": "to be extremely excited or pleased by something",
+     "zh": "对……感到兴奋不已",
+     "ctx": "对……欣喜若狂；主语只限男主角们，下一句立刻转折——女性这边，情况不一样。",
+     "ex1": "The audience was thrilled by the spectacular finale. 观众对精彩绝伦的终场表演兴奋不已。",
+     "ex2": "She was thrilled by the news of her promotion. 听到升职的消息，她欣喜若狂。"
+    }
+   ]
+  },
+  {
+   "en_html": "Apparently, China’s short-form video platforms had recently seen a milestone: more than $12 million spent in one day on advertisements for A.I.-generated microdramas. The country’s microdrama production <mark class=\"voc\">hubs</mark>, meanwhile — sites of industrial-scale production only months earlier — were <mark class=\"voc\">emptying out</mark>. Actors who were in demand last year, stars of the form, were doing food delivery just to survive. Gelb was seeing the <mark class=\"voc\">writing on the wall</mark>: “Experience shows that, in the microdrama world, what happens in China does not stay in China. It’s a <mark class=\"voc\">preview</mark> for what’s to come for the rest of the world.”",
+   "zh": "显然，中国的短视频平台最近见证了一个里程碑：一天之内，AI生成的微短剧广告投放额超过1200万美元。与此同时，这个国家的微短剧制作中心——几个月前还是工业化规模生产的所在地——正在人去楼空。去年还炙手可热的演员、这一形式的明星们，如今靠送外卖勉强度日。格尔布看到了不祥之兆：“经验表明，在微短剧的世界里，中国发生的事不会只留在中国。它是世界其他地区未来的预演。”",
+   "notes": [
+    {
+     "w": "hub",
+     "ipa": "/hʌb/",
+     "pos": "n.",
+     "en": "a central point of activity or a center of a particular industry",
+     "zh": "中心，枢纽",
+     "ctx": "中心、枢纽；制作中心几个月前还是工业化量产的现场，如今人去楼空。",
+     "ex1": "Silicon Valley remains the world’s leading tech hub. 硅谷仍然是全球领先的科技中心。",
+     "ex2": "The city is a hub for international trade. 这座城市是国际贸易的枢纽。"
+    },
+    {
+     "w": "empty out",
+     "ipa": "/ˈempti aʊt/",
+     "pos": "phr. v.",
+     "en": "to become empty; for people to leave a place",
+     "zh": "空掉，人去楼空",
+     "ctx": "空掉、人去楼空；一天 1200 万美元的 AI 广告费与空掉的厂房并置，是全篇最刺眼的一组对比。",
+     "ex1": "The stadium emptied out within minutes of the final whistle. 终场哨响后几分钟内体育场就空了。",
+     "ex2": "The office emptied out as employees left for the holidays. 员工们放假离开后，办公室空了下来。"
+    },
+    {
+     "w": "writing on the wall",
+     "ipa": "/ˈraɪtɪŋ ɒn ðə wɔːl/",
+     "pos": "n. phr.",
+     "en": "a clear sign that something is going to fail or come to an end",
+     "zh": "不祥之兆，败象已现",
+     "ctx": "墙上的字、不祥之兆；典出《圣经》伯沙撒王的宴会，此处指格尔布已看出这行要变天。",
+     "ex1": "When sales dropped for the fifth quarter in a row, the writing was on the wall. 当销售额连续第五个季度下滑时，败象已经显现。",
+     "ex2": "She saw the writing on the wall and started looking for a new job. 她看到了不祥之兆，于是开始寻找新工作。"
+    },
+    {
+     "w": "preview",
+     "ipa": "/ˈpriːvjuː/",
+     "pos": "n.",
+     "en": "an advance indication or sample of what is to come",
+     "zh": "预演，预示",
+     "ctx": "预演、预告片；中国发生的事是世界其他地区的“预告”，这是全文最锋利的一句判断。",
+     "ex1": "The latest protests are a preview of what may come next year. 最近的抗议活动预示着明年可能发生的事情。",
+     "ex2": "The demo serves as a preview of the full product. 这个演示是完整产品的一次预演。"
+    }
+   ]
+  },
+  {
+   "en_html": "Soon after I returned, <mark class=\"voc\">it emerged that</mark> an average of 470 A.I.-generated microdramas were released on Chinese platforms each day this past January. In the same period, COL Group — a part-owner of ReelShort’s parent company — said that it planned to replace 75 percent of its actors with A.I. for titles released in China. I spoke to an executive at COL, a man named Timothy Oh. He seemed amused, if <mark class=\"voc\">puzzled</mark>, by the continued American resistance to A.I.-generated content. “The reality is, content is content,” he told me. “People are already watching A.I. <mark class=\"voc\">slop</mark> on Instagram.” As I write this, A.I. microdramas are all over the ReelShort homepage, and <mark class=\"voc\">make up</mark> a large percentage of their most-watched charts.",
+   "zh": "我回来后不久，有消息显示，今年1月，中国各平台平均每天上线470部AI生成的微短剧。同一时期，COL集团——ReelShort母公司的股东之一——表示计划在中国发行的作品中用AI替换75%的演员。我与COL的一位高管蒂莫西·吴交谈过。他对美国人对AI生成内容的持续抵制似乎觉得好笑，又有些不解。“现实就是，内容就是内容，”他告诉我，“人们已经在Instagram上看AI垃圾了。”在我撰写本文之际，AI微短剧充斥着ReelShort的主页，并在其最受欢迎排行榜中占据很大比例。",
+   "notes": [
+    {
+     "w": "it emerged that",
+     "ipa": "/ɪt ɪˈmɜːdʒd ðæt/",
+     "pos": "phr.",
+     "en": "it became known or revealed that...",
+     "zh": "据披露……，有消息显示……",
+     "ctx": "据披露、有消息显示；用这个句式把镜头从好莱坞一把切回中国的产量表。",
+     "ex1": "It emerged that the company had been hiding losses for years. 据披露，该公司多年来一直在隐瞒亏损。",
+     "ex2": "It emerged that the two leaders had met in secret. 有消息显示，两位领导人曾秘密会面。"
+    },
+    {
+     "w": "puzzled",
+     "ipa": "/ˈpʌzld/",
+     "pos": "adj.",
+     "en": "confused or perplexed; unable to understand something",
+     "zh": "困惑的，不解的",
+     "ctx": "困惑不解；这位高管对美国的“抵制”既觉得好笑，又实在想不通。",
+     "ex1": "She looked puzzled by the sudden change in plans. 她对计划的突然改变显得困惑不解。",
+     "ex2": "Researchers were puzzled by the unexpected results. 研究人员对意外结果感到困惑。"
+    },
+    {
+     "w": "slop",
+     "ipa": "/slɒp/",
+     "pos": "n.",
+     "en": "low-quality, mass-produced content, especially AI-generated material",
+     "zh": "垃圾内容，低劣内容",
+     "ctx": "泔水、垃圾内容；指粗制滥造、批量生成的 AI 内容，一个词就把 AI 内容钉在了贬义上。",
+     "ex1": "Social media feeds are increasingly flooded with AI slop. 社交媒体信息流中充斥着越来越多的AI垃圾。",
+     "ex2": "Critics dismissed the film as sentimental slop. 评论家将这部电影斥为煽情的垃圾。"
+    },
+    {
+     "w": "make up",
+     "ipa": "/meɪk ʌp/",
+     "pos": "phr. v.",
+     "en": "to constitute or form a portion of something",
+     "zh": "构成，占",
+     "ctx": "构成、占；AI 微短剧已占据最受欢迎榜单的很大比例——转型不是将要发生，是已经完成。",
+     "ex1": "Women make up more than half of the company’s workforce. 女性占该公司员工总数的一半以上。",
+     "ex2": "Online sales make up a significant portion of total revenue. 线上销售占总营收的很大一部分。"
+    }
+   ]
+  }
+ ],
+ "proper": [
+  {
+   "name": "Jeffrey Katzenberg / 杰弗里·卡岑伯格",
+   "def": "好莱坞最具影响力的制片人之一。曾在派拉蒙影业担任制作总裁，后任迪士尼工作室主席，主导了迪士尼 1990 年代的动画复兴。1994 年与斯皮尔伯格、大卫·格芬共同创立梦工厂，2016 年将梦工厂动画以 38 亿美元出售给 NBC 环球。在好莱坞影响力横跨数十年，被视为“好莱坞和美国政界之间的非正式协调人”。正是他的个人号召力，让 Quibi 在产品尚未面世时就获得了迪士尼、华纳、阿里巴巴等巨头的 17.5 亿美元融资。<br>本文中的意思：第 1 段用他开篇，立的是一个“最不可能失手的人”的靶子——连他都栽了，才显出这门生意的凶险。"
+  },
+  {
+   "name": "Quibi",
+   "def": "2020 年 4 月上线的美国短视频流媒体平台，名称取自 Quick Bites（快咬一口），定位为“为手机成瘾者打造的 Netflix”。由卡岑伯格和惠普前 CEO 梅格·惠特曼联合创立，主打 5 至 10 分钟的付费短剧。上线首周下载量 170 万，但付费转化率极低，截至 7 月仅 7.2 万付费用户。2020 年 10 月 21 日，上线仅 199 天便宣布关闭，成为好莱坞流媒体热潮中最大的失败案例之一。<br>本文中的意思：全文的反面教材。作者用它证明：把电视搬到手机上不算手机内容，真正的手机内容得另造一套语法。"
+  },
+  {
+   "name": "Bloomberg / 彭博社",
+   "def": "全球最大的财经资讯公司之一，由迈克尔·布隆伯格于 1981 年创立，以提供实时金融数据、新闻和分析闻名，其报道在金融界具有极高权威性。<br>本文中的意思：第 1 段末尾“短格式、移动优先的叙事娱乐已是全球流媒体增长最快的品类”这个判断，出处就是彭博社——作者借财经媒体的口径，替一个娱乐话题定了性。"
+  },
+  {
+   "name": "微短剧在中国超过传统电影产业",
+   "def": "微短剧形式约于 2018 年在中国诞生，随后迅速产业化。到 2024 至 2025 年，中国微短剧市场的营收规模已超过传统电影票房收入。背景是：中国拥有全球最大的短视频用户基数，抖音、快手等平台培养了用户对竖屏内容的消费习惯，微短剧作为介于短视频和传统剧集之间的“中间形态”，精准填补了市场空白。<br>本文中的意思：第 2 段“its revenue now exceeds that of the conventional film industry”的事实依据，也解释了这门生意为什么必然从中国出海。"
+  },
+  {
+   "name": "Z 世代 / Gen Z",
+   "def": "通常指 1997 至 2012 年间出生的一代人，是伴随互联网和智能手机成长起来的“数字原住民”。其媒体消费习惯与前代差异显著：偏好短内容、竖屏格式、多任务并行，对传统电视的依赖极低。<br>本文中的意思：微短剧被称作“Z 世代的肥皂剧”，正因为其形式高度契合这一代人的媒介使用习惯——不是内容降级，是媒介换了。"
+  },
+  {
+   "name": "ReelShort",
+   "def": "微短剧出海的代表性平台，由加州公司 Crazy Maple Studio（枫叶互动）于 2022 年 8 月推出，背后有中国数字出版集团中文在线（COL Group）的资金支持。专注于英语原创微短剧，主要在美国洛杉矶拍摄，目标市场为美国、英国、澳大利亚等英语国家。截至 2025 年，ReelShort 下载量超过 1 亿次，月活跃用户 4500 万，其中半数位于美国；2025 年全年收入达 12 亿美元，同比增长 119%。<br>本文中的意思：第 4 段作者探班的就是它的剧组。它是“美国公司的壳、中国资本的钱、好莱坞的人”三合一的样本，也是全文唯一的观察窗口。"
+  },
+  {
+   "name": "9:16 竖屏格式",
+   "def": "微短剧的核心技术特征之一。传统影视内容采用 16:9 横屏比例，微短剧专为手机竖屏设计，画面比例为 9:16。这意味着画面信息密度极低，人物必须占据画面中心，镜头调度空间被大幅压缩，演员站位不得不“极不自然”地贴近。从制作角度看，竖屏格式降低了场景复杂度和美术要求，从而压缩了制作成本，但也限制了叙事表达的丰富性。<br>本文中的意思：第 4 段“leaves little room to maneuver”的技术根源——不是导演不会调度，是这块画幅根本不给你调度的地方。"
+  },
+  {
+   "name": "《Bound by Love》",
+   "def": "ReelShort 出品的一部微短剧，作者探班的对象。该剧成片时长超过两个半小时，但仅用 11 天完成拍摄。<br>本文中的意思：它集中体现了微短剧行业的核心生产逻辑——极短的拍摄周期、极低的制作成本、以“钩子”而非“故事”驱动观众留存。"
+  },
+  {
+   "name": "付费墙 / Paywall",
+   "def": "数字内容行业的一种变现机制，指用户在免费消费一定量内容后，必须付费才能继续访问。在微短剧语境中，平台通常免费放出前几集，在剧情关键转折处设置付费点，利用观众的好奇心驱动冲动消费。<br>本文中的意思：第 5 段的核心结构。“墙前”的集数认真拍，“墙后”的集数敷衍了事——因为钱已经收到了。"
+  },
+  {
+   "name": "首席置景师 / Key Grip",
+   "def": "影视制作中的技术工种，负责片场的灯光器材架设、摄影机支撑设备以及相关器械的搭建与维护。Grip 部门在传统好莱坞制片体系中地位重要，但在微短剧这种极简制作模式中，其职能被大幅压缩。<br>本文中的意思：第 5 段由他之口解释“今天为什么拍得认真”——因为这场戏在付费墙之前。一个技术人员的一句话，掀开了整门生意的底牌。"
+  },
+  {
+   "name": "福克斯娱乐投资 Holywater",
+   "def": "福克斯娱乐（Fox Entertainment）是好莱坞主要制片厂之一，Holywater 是其投资的微短剧平台。<br>本文中的意思：第 6 段的一个信号——传统好莱坞资本开始正视微短剧的商业潜力，不再把它当成边缘产物。"
+  },
+  {
+   "name": "Disney+ 制作微短剧",
+   "def": "迪士尼的流媒体平台 Disney+ 已开始涉足微短剧制作。<br>本文中的意思：作为全球最大的娱乐公司之一，迪士尼的入局意味着微短剧从“新兴赛道”进入“主流视野”——传统制片厂不再观望，而是直接参与竞争。"
+  },
+  {
+   "name": "Paramount+ 秋季微短剧片单",
+   "def": "派拉蒙的流媒体平台 Paramount+ 已排定秋季微短剧片单。<br>本文中的意思：与 Disney+ 一起构成“好莱坞集体转身”的证据。注意作者用的是 slate（片单）——这已经是排产，不是试水。"
+  },
+  {
+   "name": "Quibi 失败的真正原因",
+   "def": "事后分析显示，Quibi 的核心问题在于它本质上是“传统电视，只不过碰巧在手机上播放”。其单集长度为 10 分钟，制作规格对标传统电视，观看场景却是手机。与此同时，TikTok、YouTube 等平台已经证明，手机上的成功内容需要遵循“手机原生逻辑”——更短、更即时、更符合碎片化消费习惯。Quibi 的失败因此被概括为“用电视思维做手机内容”的典型案例。<br>本文中的意思：第 6 段的论点。作者由此推出一条行业定律：在手机上能成功的，是“手机的东西”。"
+  },
+  {
+   "name": "“手机上成功的往往是手机原生内容”",
+   "def": "这一判断是微短剧行业的底层逻辑。TikTok、Instagram Reels 等平台培养的用户行为表明：手机用户对内容的耐心极低，前几秒就决定是否继续观看；内容需要在极短时间内提供情绪价值；付费意愿取决于即时满足而非长期投入。<br>本文中的意思：微短剧“每集两分钟、悬念开场、反转收尾”的结构，正是对这一逻辑的精准回应。"
+  },
+  {
+   "name": "旧好莱坞已死 / “Old Hollywood is dead”",
+   "def": "这是受访业内人士的直白判断，反映了微短剧从业者对传统影视工业体系的根本性质疑。在传统好莱坞模式中，一部剧集的开发周期以年计，制作成本以千万美元计，发行依赖院线或有线电视。而微短剧以 7 至 8 天完成一部剧、15 万至 25 万美元的制作成本、手机端直接触达用户，彻底绕开了传统体系的每一个环节。<br>本文中的意思：第 7 段的潜台词——效率逻辑正在取代艺术逻辑，成为行业的主导力量。"
+  },
+  {
+   "name": "AI 微短剧广告单日花费超 1200 万美元",
+   "def": "这一数据来自中国短视频平台，标志着 AI 生成内容在微短剧营销中的规模化应用。AI 不仅用于内容生成，还用于广告素材的批量制作和投放优化。<br>本文中的意思：1200 万美元的单日广告支出意味着，平台正在用极低的边际成本测试海量内容变体，以数据驱动的方式筛选“爆款”。"
+  },
+  {
+   "name": "中国微短剧制作中心人去楼空",
+   "def": "2024 至 2025 年间，中国微短剧行业经历了剧烈洗牌。AI 生成内容的成本优势（一部 AI 微短剧的制作成本可能仅为实拍剧的零头）导致大量真人制作团队被淘汰；曾经繁忙的制作基地迅速清空，去年还炙手可热的微短剧演员被迫转行。<br>本文中的意思：第 8 段最刺眼的一幕——AI 对内容生产链的第一波实质性冲击，先砸在了中国。"
+  },
+  {
+   "name": "“中国发生的事不会只留在中国”",
+   "def": "这是受访者格尔布的判断，揭示了全球内容产业的传导规律：中国作为微短剧的诞生地和最大实验场，其行业变化往往预示全球趋势。这一规律已在多个领域被验证——移动支付、短视频、直播电商均遵循“中国先行、全球跟进”的路径。<br>本文中的意思：第 8 段的收束句，也是全文的判断——微短剧的 AI 化转型，是世界其他地区未来的预演。"
+  },
+  {
+   "name": "COL 集团 / 中文在线",
+   "def": "全称 COL Group Co., Ltd.，中国 A 股上市公司，前身为中文在线，成立于 2000 年，最初从事数字出版业务。COL 拥有 25 年的网文 IP 储备、超过 1000 部微短剧版权，通过 ReelShort 等自有平台向全球 170 多个国家和地区分发内容。COL 与 ReelShort 的关系较为复杂：它是 ReelShort 母公司 Crazy Maple Studio 的第一大股东（持股约 49%），但同时也在自研竞品平台 FlareFlow，由此引发了双方之间的法律纠纷。<br>本文中的意思：第 9 段那个“部分持股”的股东——它既是 ReelShort 的金主，也是它最直接的对手。"
+  },
+  {
+   "name": "Timothy Oh",
+   "def": "COL 集团国际业务总经理，在微短剧行业的全球化战略中扮演关键角色。他主导了 COL 从网文出版向微短剧的转型，推动 AI 技术在内容生产中的应用。<br>本文中的意思：第 9 段那句“content is content”（内容就是内容）就出自他口——在他眼里，美国人的抵制只是态度，行为早就接受了。"
+  },
+  {
+   "name": "470 部 AI 微短剧 / 日",
+   "def": "2025 年 1 月的数据显示，中国平台平均每天上线 470 部 AI 生成的微短剧。这一数字的规模意味着 AI 微短剧已进入工业化量产阶段，单日产量超过许多传统影视公司一年的作品数量。AI 生成技术的核心优势在于：角色生成无需演员、场景无需实拍、剧本可基于数据快速迭代，边际成本趋近于零。<br>本文中的意思：第 9 段开篇的数字，把“AI 冲击”从一句趋势判断，变成了产量表上的事实。"
+  },
+  {
+   "name": "“AI slop” / AI 垃圾内容",
+   "def": "slop 原指猪食或泔水，在数字内容语境中演变为贬义词，指批量生成、质量低劣、缺乏原创性的内容，尤其是 AI 生成的内容。<br>本文中的意思：Timothy Oh 用这个词指 Instagram 上泛滥的 AI 生成内容，意在说明用户早已习惯消费低质量 AI 内容，所谓“抵制”只是表面态度。"
+  },
+  {
+   "name": "AI 微短剧在 ReelShort 首页的普及",
+   "def": "截至文章写作时，AI 微短剧已经充斥 ReelShort 首页，并在其最受欢迎排行榜中占据很大比例。这一现象标志着微短剧行业的 AI 转型已完成从“实验”到“主流”的跨越。<br>本文中的意思：对 ReelShort 这样的头部平台而言，内容供给逻辑已发生根本变化——不再依赖演员、导演、实拍场景，而是依赖算法和数据。"
+  }
+ ],
+ "sources_note": "资料核对：以上背景依据文章内容，并参考 The New York Times、Bloomberg、COL Group（中文在线）、ReelShort / Crazy Maple Studio 及福克斯娱乐截至 2026 年 10 月的公开资料。",
+ "practice": {
+  "intro": "请根据今天学习的外刊 Are 60-Second Microdramas the Future of Hollywood, or the End?，把下面的中文句子翻译成英文。要求：尽量用上本文的核心表达，可以适当改变词形，但不要直接照抄原文。",
+  "items": [
+   "这位科技大亨花了五年时间才将自己的构想变为现实。",
+   "这份计划看似万无一失，却在公众的冷漠中彻底失败了。",
+   "新来的选手在排行榜上压过了所有老牌选手。",
+   "事后回看，我们早就该看到不祥之兆。",
+   "她完全缺乏经验，却对这份工作充满热情。",
+   "据披露，女性占该公司员工总数的一半以上。"
+  ],
+  "critical_en": "When a machine can turn out 470 episodes a day, is a story still worth telling — or does “content” only need to keep us watching?",
+  "critical_zh": "当机器一天就能产出 470 部短剧，故事还值不值得讲——还是说，“内容”只需要让人不划走就够了？",
+  "answer": "1. It took the tech mogul five years to bring his conception to life.<br><br>2. The plan seemed foolproof, yet it collapsed in a total void of public interest.<br><br>3. The newcomer outranked all the established players on the leaderboard.<br><br>4. In hindsight, we should have seen the writing on the wall much earlier.<br><br>5. She is utterly devoid of experience, yet she is thrilled by the job.<br><br>6. It emerged that women make up more than half of the company’s workforce."
+ },
+ "mindmap": {
+  "aria": "中国微短剧杀进好莱坞文章思维导图",
+  "alt": "中国微短剧出海与 AI 冲击（手绘版）",
+  "svg": "<svg viewBox=\"0 0 960 720\" xmlns=\"http://www.w3.org/2000/svg\" role=\"img\" aria-label=\"中国微短剧杀进好莱坞文章思维导图\" style=\"width:100%;height:auto;font-family:-apple-system,'PingFang SC','Hiragino Sans GB','Microsoft YaHei',sans-serif\">\n        <rect x=\"24\" y=\"306\" width=\"176\" height=\"88\" rx=\"14\" fill=\"#eae3d2\" stroke=\"#9a8f76\"/>\n        <text x=\"112\" y=\"342\" text-anchor=\"middle\" fill=\"#3d3a34\" font-size=\"17\" font-weight=\"700\">中国微短剧</text>\n        <text x=\"112\" y=\"368\" text-anchor=\"middle\" fill=\"#5c5648\" font-size=\"12.5\">60 秒一集，杀进好莱坞</text>\n\n        <path d=\"M200,350 C232,350 232,88 260,88\"  stroke=\"#6b8f71\" stroke-width=\"2\" fill=\"none\"/>\n        <path d=\"M200,350 C232,350 232,238 260,238\" stroke=\"#7d98ad\" stroke-width=\"2\" fill=\"none\"/>\n        <path d=\"M200,350 C232,350 232,433 260,433\" stroke=\"#bd7a6d\" stroke-width=\"2\" fill=\"none\"/>\n        <path d=\"M200,350 C232,350 232,628 260,628\" stroke=\"#9b86b3\" stroke-width=\"2\" fill=\"none\"/>\n\n        <g class=\"mm-branch\" data-target=\"bc1\">\n          <rect x=\"260\" y=\"71\" width=\"190\" height=\"34\" rx=\"8\" fill=\"#e6efe7\" stroke=\"#6b8f71\"/>\n          <text x=\"349\" y=\"93\" text-anchor=\"middle\" fill=\"#4c6b52\" font-size=\"15\" font-weight=\"700\">起源与规模（¶1–2）</text>\n          <text class=\"mm-arrow\" data-for=\"bc1\" x=\"442\" y=\"93\" text-anchor=\"end\" fill=\"#4c6b52\">▾</text>\n        </g>\n        <g class=\"mm-children\" id=\"bc1\">\n          <path d=\"M450,88 C462,88 462,46 480,46\" stroke=\"#6b8f71\" stroke-width=\"1.5\" fill=\"none\"/>\n          <path d=\"M450,88 C462,88 462,88 480,88\" stroke=\"#6b8f71\" stroke-width=\"1.5\" fill=\"none\"/>\n          <path d=\"M450,88 C462,88 462,130 480,130\" stroke=\"#6b8f71\" stroke-width=\"1.5\" fill=\"none\"/>\n          <rect x=\"480\" y=\"30\" width=\"456\" height=\"32\" rx=\"8\" fill=\"#e6efe7\"/><text x=\"492\" y=\"51\" fill=\"#3d3a34\" font-size=\"14\">Quibi：给手机成瘾者的 Netflix，八个月就垮</text>\n          <rect x=\"480\" y=\"72\" width=\"456\" height=\"32\" rx=\"8\" fill=\"#e6efe7\"/><text x=\"492\" y=\"93\" fill=\"#3d3a34\" font-size=\"14\">微短剧＝Z 世代的肥皂剧，两分钟一集</text>\n          <rect x=\"480\" y=\"114\" width=\"456\" height=\"32\" rx=\"8\" fill=\"#e6efe7\"/><text x=\"492\" y=\"135\" fill=\"#3d3a34\" font-size=\"14\">2018 年生于中国，美国年底将收 15 亿美元</text>\n        </g>\n\n        <g class=\"mm-branch\" data-target=\"bc2\">\n          <rect x=\"260\" y=\"221\" width=\"190\" height=\"34\" rx=\"8\" fill=\"#e5edf4\" stroke=\"#7d98ad\"/>\n          <text x=\"349\" y=\"243\" text-anchor=\"middle\" fill=\"#3d5872\" font-size=\"15\" font-weight=\"700\">出海与流水线（¶3–5）</text>\n          <text class=\"mm-arrow\" data-for=\"bc2\" x=\"442\" y=\"243\" text-anchor=\"end\" fill=\"#3d5872\">▾</text>\n        </g>\n        <g class=\"mm-children\" id=\"bc2\">\n          <path d=\"M450,238 C462,238 462,196 480,196\" stroke=\"#7d98ad\" stroke-width=\"1.5\" fill=\"none\"/>\n          <path d=\"M450,238 C462,238 462,238 480,238\" stroke=\"#7d98ad\" stroke-width=\"1.5\" fill=\"none\"/>\n          <path d=\"M450,238 C462,238 462,280 480,280\" stroke=\"#7d98ad\" stroke-width=\"1.5\" fill=\"none\"/>\n          <rect x=\"480\" y=\"180\" width=\"456\" height=\"32\" rx=\"8\" fill=\"#e5edf4\"/><text x=\"492\" y=\"201\" fill=\"#3d3a34\" font-size=\"14\">中国公司出海：做出无数美国 App，仍近乎垄断制作</text>\n          <rect x=\"480\" y=\"222\" width=\"456\" height=\"32\" rx=\"8\" fill=\"#e5edf4\"/><text x=\"492\" y=\"243\" fill=\"#3d3a34\" font-size=\"14\">11 天拍完两个半小时：9:16 逼得演员贴脸站</text>\n          <rect x=\"480\" y=\"264\" width=\"456\" height=\"32\" rx=\"8\" fill=\"#e5edf4\"/><text x=\"492\" y=\"285\" fill=\"#3d3a34\" font-size=\"14\">墙前认真拍、墙后敷衍：只要你看下去，不要故事</text>\n        </g>\n\n        <g class=\"mm-branch\" data-target=\"bc3\">\n          <rect x=\"260\" y=\"416\" width=\"190\" height=\"34\" rx=\"8\" fill=\"#f4e7e4\" stroke=\"#bd7a6d\"/>\n          <text x=\"349\" y=\"438\" text-anchor=\"middle\" fill=\"#7c4a3e\" font-size=\"15\" font-weight=\"700\">好莱坞急转身（¶6–7）</text>\n          <text class=\"mm-arrow\" data-for=\"bc3\" x=\"442\" y=\"438\" text-anchor=\"end\" fill=\"#7c4a3e\">▾</text>\n        </g>\n        <g class=\"mm-children\" id=\"bc3\">\n          <path d=\"M450,433 C462,433 462,391 480,391\" stroke=\"#bd7a6d\" stroke-width=\"1.5\" fill=\"none\"/>\n          <path d=\"M450,433 C462,433 462,433 480,433\" stroke=\"#bd7a6d\" stroke-width=\"1.5\" fill=\"none\"/>\n          <path d=\"M450,433 C462,433 462,475 480,475\" stroke=\"#bd7a6d\" stroke-width=\"1.5\" fill=\"none\"/>\n          <rect x=\"480\" y=\"375\" width=\"456\" height=\"32\" rx=\"8\" fill=\"#f4e7e4\"/><text x=\"492\" y=\"396\" fill=\"#3d3a34\" font-size=\"14\">Quibi 死于“电视思维”：手机上要手机的内容</text>\n          <rect x=\"480\" y=\"417\" width=\"456\" height=\"32\" rx=\"8\" fill=\"#f4e7e4\"/><text x=\"492\" y=\"438\" fill=\"#3d3a34\" font-size=\"14\">Fox 投 Holywater，Disney+、Paramount+ 下场</text>\n          <rect x=\"480\" y=\"459\" width=\"456\" height=\"32\" rx=\"8\" fill=\"#f4e7e4\"/><text x=\"492\" y=\"480\" fill=\"#3d3a34\" font-size=\"14\">旧好莱坞已死：男演员收横财，女演员另说</text>\n        </g>\n\n        <g class=\"mm-branch\" data-target=\"bc4\">\n          <rect x=\"260\" y=\"611\" width=\"190\" height=\"34\" rx=\"8\" fill=\"#ece4f2\" stroke=\"#9b86b3\"/>\n          <text x=\"349\" y=\"633\" text-anchor=\"middle\" fill=\"#5a4670\" font-size=\"15\" font-weight=\"700\">AI 冲击（¶8–9）</text>\n          <text class=\"mm-arrow\" data-for=\"bc4\" x=\"442\" y=\"633\" text-anchor=\"end\" fill=\"#5a4670\">▾</text>\n        </g>\n        <g class=\"mm-children\" id=\"bc4\">\n          <path d=\"M450,628 C462,628 462,586 480,586\" stroke=\"#9b86b3\" stroke-width=\"1.5\" fill=\"none\"/>\n          <path d=\"M450,628 C462,628 462,628 480,628\" stroke=\"#9b86b3\" stroke-width=\"1.5\" fill=\"none\"/>\n          <path d=\"M450,628 C462,628 462,670 480,670\" stroke=\"#9b86b3\" stroke-width=\"1.5\" fill=\"none\"/>\n          <rect x=\"480\" y=\"570\" width=\"456\" height=\"32\" rx=\"8\" fill=\"#ece4f2\"/><text x=\"492\" y=\"591\" fill=\"#3d3a34\" font-size=\"14\">一天 470 部 AI 短剧，制作中心人去楼空</text>\n          <rect x=\"480\" y=\"612\" width=\"456\" height=\"32\" rx=\"8\" fill=\"#ece4f2\"/><text x=\"492\" y=\"633\" fill=\"#3d3a34\" font-size=\"14\">COL 要用 AI 换掉 75% 演员：内容就是内容</text>\n          <rect x=\"480\" y=\"654\" width=\"456\" height=\"32\" rx=\"8\" fill=\"#ece4f2\"/><text x=\"492\" y=\"675\" fill=\"#3d3a34\" font-size=\"14\">这事不会只留在中国：全球的预演</text>\n        </g>\n      </svg>",
+  "img": "/Users/malen/outward-reading-site-prod/scripts/content/img/2026-10-14.jpg"
+ }
+}

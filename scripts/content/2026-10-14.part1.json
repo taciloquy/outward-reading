@@ -1,0 +1,317 @@
+{
+ "date": "2026-10-14",
+ "title_tag": "中国短剧杀进好莱坞：一集60秒、一年赚15亿美元，美国都急了！—— 美国《纽约时报》外刊讲解第1197天",
+ "h1": "中国短剧杀进好莱坞：一集60秒、一年赚15亿美元，美国都急了！",
+ "source_label": "The New York Times",
+ "category": "美国《纽约时报》外刊讲解 第1197天",
+ "read_minutes": 20,
+ "nav_hint": "60-second microdramas and Hollywood",
+ "headline": {
+  "en_html": "Are 60-Second <mark class=\"voc\">Microdramas</mark> the Future of Hollywood, or the End?",
+  "zh": "60秒微短剧：好莱坞的未来，还是终结？",
+  "notes": [
+   {
+    "w": "microdrama",
+    "ipa": "/ˈmaɪkrəʊˌdrɑːmə/",
+    "pos": "n.",
+    "en": "a short-form dramatic series designed for mobile viewing, typically with episodes under two minutes",
+    "zh": "微短剧",
+    "ctx": "专为手机竖屏而生的短剧，单集不到两分钟；标题把它摆进“好莱坞的未来还是终结”这个二选一里，全文要回答的正是这道题。",
+    "ex1": "Microdramas have become a guilty pleasure for commuters who need a quick narrative fix. 微短剧已成为通勤族的心头好，他们需要快速获得叙事快感。",
+    "ex2": "The rise of microdramas has forced traditional studios to rethink their distribution strategies. 微短剧的崛起迫使传统制片厂重新思考发行策略。"
+   }
+  ]
+ },
+ "paragraphs": [
+  {
+   "en_html": "In 2020, the entertainment <mark class=\"voc\">mogul</mark> Jeffrey Katzenberg <mark class=\"voc\">brought to life</mark> an idea that must have seemed — <mark class=\"voc\">in the flash of</mark> its <mark class=\"voc\">conception</mark> — <mark class=\"voc\">foolproof</mark>: Netflix, but for people addicted to their phones. He called it Quibi: short for “quick bites.” It collapsed after eight months in a total <mark class=\"voc\">void</mark> of public interest. And yet, the joke may very well be on us. Because, just six years later, short-form, mobile-first narrative entertainment is the fastest-growing form of streaming worldwide, per Bloomberg.",
+   "zh": "2020年，娱乐大亨杰弗里·卡岑伯格推出了一个在当时看来堪称万无一失的创意——简而言之，就是为手机成瘾者量身打造的Netflix。他将其命名为Quibi，取“quick bites”（快咬一口）之意。然而，这款产品上线仅八个月便黯然关停，公众兴趣几近于零。可讽刺的是，笑到最后的或许并不是我们。因为据彭博社报道，仅仅六年之后，短格式、移动优先的叙事娱乐已成为全球流媒体增长最快的品类。",
+   "notes": [
+    {
+     "w": "mogul",
+     "ipa": "/ˈməʊɡl/",
+     "pos": "n.",
+     "en": "a powerful and influential person in a particular industry",
+     "zh": "大亨，巨头",
+     "ctx": "娱乐业巨头，指在某一行业握有巨大权力与影响力的人物；作者一开篇先立起卡岑伯格的分量，才好让后面的崩塌更有落差。",
+     "ex1": "The media mogul owned newspapers, television stations, and a film studio. 这位媒体大亨拥有报纸、电视台和一家电影制片厂。",
+     "ex2": "Tech moguls gathered at the summit to discuss the future of artificial intelligence. 科技巨头们齐聚峰会，讨论人工智能的未来。"
+    },
+    {
+     "w": "bring to life",
+     "ipa": "/brɪŋ tuː laɪf/",
+     "pos": "phr.",
+     "en": "to make something real or active; to give form to an idea",
+     "zh": "使成真，实现；赋予生命",
+     "ctx": "把想法付诸实践、变成现实；这里指他真的把“给手机成瘾者的Netflix”做了出来，而不只是想想。",
+     "ex1": "The director brought the novelist’s vision to life on the big screen. 导演将小说家的构想在银幕上变为现实。",
+     "ex2": "It took years of fundraising to bring the community center project to life. 经过多年的筹款，社区中心项目终于得以实现。"
+    },
+    {
+     "w": "in the flash of",
+     "ipa": "/ɪn ðə flæʃ ɒv/",
+     "pos": "phr.",
+     "en": "in an instant; at the very moment of",
+     "zh": "在一瞬间",
+     "ctx": "在灵光一闪的瞬间；强调这主意诞生得又快又自信，与八个月后的关停形成对照。",
+     "ex1": "In the flash of a moment, the deal was sealed. 在一瞬间，交易就敲定了。",
+     "ex2": "The idea came to him in the flash of inspiration. 这个想法在灵光一闪间出现在他脑海中。"
+    },
+    {
+     "w": "conception",
+     "ipa": "/kənˈsepʃn/",
+     "pos": "n.",
+     "en": "the forming of an idea or plan in the mind",
+     "zh": "构想，构思",
+     "ctx": "创意在脑中酝酿、成形的阶段；in the flash of its conception 即“在它刚被构思出来的那一刻”。",
+     "ex1": "The project was flawed from its very conception. 这个项目从构想之初就存在缺陷。",
+     "ex2": "Since its conception, the initiative has undergone several major revisions. 自构想以来，该倡议经历了数次重大修改。"
+    },
+    {
+     "w": "foolproof",
+     "ipa": "/ˈfuːlpruːf/",
+     "pos": "adj.",
+     "en": "so simple and well-designed that it cannot fail or go wrong",
+     "zh": "万无一失的，绝对可靠的",
+     "ctx": "连傻子都不会出错；作者用它反讽——越是自称“万无一失”的点子，摔得越难看。",
+     "ex1": "The engineers designed a foolproof safety mechanism for the reactor. 工程师为反应堆设计了一套万无一失的安全机制。",
+     "ex2": "There is no foolproof way to predict the stock market. 没有任何万无一失的方法能预测股市。"
+    },
+    {
+     "w": "void",
+     "ipa": "/vɔɪd/",
+     "pos": "n.",
+     "en": "a completely empty space; an absence of something",
+     "zh": "空白，空虚；真空",
+     "ctx": "真空、一片空白；in a total void of public interest 指公众兴趣几近于零，产品在无人关心中死掉。",
+     "ex1": "After his retirement, he felt a void in his life. 退休后，他感到生活中有一片空白。",
+     "ex2": "The company filled a void in the market for affordable electric vehicles. 该公司填补了平价电动汽车市场的空白。"
+    }
+   ]
+  },
+  {
+   "en_html": "Microdramas, sometimes called “<mark class=\"voc\">verticals</mark>,” are TV shows for your phone. They are typically described as <mark class=\"voc\">soap operas</mark> for Gen Z: <mark class=\"voc\">hypersexual</mark>, over the top and — most important — short, with <mark class=\"voc\">episodes</mark> rarely exceeding two minutes in length. The format was born around 2018 in China, where its revenue now exceeds that of the conventional film industry. As I write this, the form is <mark class=\"voc\">on track to</mark> take in $1.5 billion in revenue in the United States by the end of the year.",
+   "zh": "微短剧，有时被称为“竖屏剧”，是专为手机而生的电视剧。人们通常将其描述为Z世代的肥皂剧：尺度大胆、情节夸张，而最关键的是——短，单集时长鲜有超过两分钟的。这一形式约于2018年诞生于中国，如今其营收已超过传统电影产业。在我撰写本文之际，这一形态预计到今年年底将在美国斩获15亿美元的收入。",
+   "notes": [
+    {
+     "w": "vertical",
+     "ipa": "/ˈvɜːtɪkl/",
+     "pos": "n.",
+     "en": "a short-form video format designed for vertical phone screens",
+     "zh": "竖屏剧",
+     "ctx": "竖屏剧，专为手机竖屏比例拍摄的剧集，与传统横屏影视相对；名字直接来自画幅方向。",
+     "ex1": "Verticals have exploded in popularity among younger audiences. 竖屏剧在年轻观众中人气暴涨。",
+     "ex2": "Producers are investing heavily in verticals because they cost less to make. 制片人正大举投资竖屏剧，因为制作成本更低。"
+    },
+    {
+     "w": "soap opera",
+     "ipa": "/ˈsəʊp ˌɒprə/",
+     "pos": "n.",
+     "en": "a serial drama characterized by melodramatic storylines and emotional excess",
+     "zh": "肥皂剧",
+     "ctx": "肥皂剧，情节夸张、情感浓烈的连续剧；作者用它给微短剧定性——这就是“给Z世代看的肥皂剧”。",
+     "ex1": "She watched her favorite soap opera every evening after dinner. 她每天晚饭后都看最喜欢的肥皂剧。",
+     "ex2": "The show was dismissed by critics as a glorified soap opera. 该剧被评论家贬为一部美其名曰的肥皂剧。"
+    },
+    {
+     "w": "hyper-",
+     "ipa": "/ˈhaɪpə/",
+     "pos": "prefix",
+     "en": "excessively; beyond the normal",
+     "zh": "过度，超",
+     "ctx": "前缀“过度、超”；hypersexual 即尺度远超常规，是“Z世代肥皂剧”三条特征里的第一条。",
+     "ex1": "The marketing campaign was hyper-aggressive and turned off many customers. 这场营销活动过于激进，令许多顾客反感。",
+     "ex2": "Children today are exposed to a hyper-connected world from an early age. 如今的孩子从小就置身于一个高度互联的世界。"
+    },
+    {
+     "w": "episode",
+     "ipa": "/ˈepɪsəʊd/",
+     "pos": "n.",
+     "en": "one installment of a serialized show",
+     "zh": "一集，一集剧",
+     "ctx": "一集；单集鲜有超过两分钟——这个“短”才是微短剧区别于一切旧形式的根本。",
+     "ex1": "The season finale episode drew record-breaking viewership. 季终集吸引了破纪录的收视率。",
+     "ex2": "Each episode ends with a cliffhanger to keep viewers coming back. 每一集都以悬念收尾，让观众欲罢不能。"
+    },
+    {
+     "w": "on track to",
+     "ipa": "/ɒn træk tuː/",
+     "pos": "phr.",
+     "en": "progressing toward a particular result or goal",
+     "zh": "有望，正在朝着……发展",
+     "ctx": "按当前趋势正朝着某个结果走、有望达成；15亿美元是预测，不是已经到手的账。",
+     "ex1": "The company is on track to double its revenue this year. 该公司有望在今年实现营收翻倍。",
+     "ex2": "She is on track to graduate with honors. 她有望以优异成绩毕业。"
+    }
+   ]
+  },
+  {
+   "en_html": "Each short episode opens with a <mark class=\"voc\">hook</mark> and ends with a twist, dragging viewers, like <mark class=\"voc\">recalcitrant</mark> pets, through entire seasons roughly the length of a <mark class=\"voc\">feature film</mark>. In the first years of this decade, a number of Chinese companies began to export the form abroad, creating countless U.S. microdrama apps and coordinating U.S.-based microdrama shoots in order to supply those apps with content. These companies still <mark class=\"voc\">retain</mark> a near <mark class=\"voc\">monopoly</mark> on U.S. production, but that is quickly changing. Hollywood executives — noticing these apps <mark class=\"voc\">outranking</mark> their own streamers on the charts — have started to <mark class=\"voc\">spin up</mark> microdrama platforms of their own.",
+   "zh": "每集短剧以悬念开场，以反转收尾，像拽着不情愿的宠物一样，拖着观众看完整季——而整季时长大约只相当于一部院线电影。本世纪二十年代初，多家中国公司开始将这一形式输出海外，催生了无数美国微短剧应用，并协调在美国本土拍摄微短剧以供给这些平台。这些公司至今仍近乎垄断着美国的微短剧制作，但这格局正在迅速改变。好莱坞高管们——注意到这些应用在下载排行榜上压过了自家的流媒体平台——已开始纷纷搭建自己的微短剧平台。",
+   "notes": [
+    {
+     "w": "hook",
+     "ipa": "/hʊk/",
+     "pos": "n.",
+     "en": "a compelling opening device that grabs the audience’s attention",
+     "zh": "钩子，悬念开场",
+     "ctx": "钩子、抓人的开场；每集开头必须在几秒内勾住观众，这是微短剧的第一条工业标准。",
+     "ex1": "The first chapter has a strong hook that makes it impossible to put down. 第一章有一个强有力的钩子，让人无法释卷。",
+     "ex2": "Screenwriters are trained to write a hook in the first five pages. 编剧受训要在前五页写出一个抓人的钩子。"
+    },
+    {
+     "w": "recalcitrant",
+     "ipa": "/rɪˈkælsɪtrənt/",
+     "pos": "adj.",
+     "en": "stubbornly resistant to authority or control",
+     "zh": "倔强的，不服从的",
+     "ctx": "倔强、不服从管束的；把观众比作被硬拖着走的不情愿的宠物，写尽了“被剧情绑架”的观看体验。",
+     "ex1": "The recalcitrant student refused to follow any of the classroom rules. 那个倔强的学生拒绝遵守任何课堂规则。",
+     "ex2": "Negotiators struggled to bring the recalcitrant faction to the table. 谈判代表费尽力气才让那个不服从的派系坐到谈判桌前。"
+    },
+    {
+     "w": "feature film",
+     "ipa": "/ˈfiːtʃə fɪlm/",
+     "pos": "n.",
+     "en": "a full-length film, typically over 90 minutes, shown in cinemas",
+     "zh": "院线电影，故事长片",
+     "ctx": "院线电影、标准长片；整季微短剧的总长度约等于一部院线片，却能让人一口气刷完。",
+     "ex1": "The director spent three years working on his first feature film. 这位导演花了三年时间拍摄他的第一部院线电影。",
+     "ex2": "Feature films are increasingly competing with short-form content for audience attention. 院线电影正日益与短格式内容争夺观众注意力。"
+    },
+    {
+     "w": "retain",
+     "ipa": "/rɪˈteɪn/",
+     "pos": "v.",
+     "en": "to continue to have or hold something",
+     "zh": "保留，保持",
+     "ctx": "继续保持、仍然握有；这些中国公司至今仍近乎垄断美国的微短剧制作。",
+     "ex1": "The company retained its dominant position in the market despite new competitors. 尽管有新竞争者出现，该公司仍保持着市场主导地位。",
+     "ex2": "She retained control of the business after the merger. 合并后她仍保留着对企业的控制权。"
+    },
+    {
+     "w": "monopoly",
+     "ipa": "/məˈnɒpəli/",
+     "pos": "n.",
+     "en": "exclusive control of a commodity or service in a particular market",
+     "zh": "垄断，独占",
+     "ctx": "垄断、独占；near monopoly 即近乎垄断，但作者下一句立刻说——这格局正在被打破。",
+     "ex1": "The tech giant faced accusations of holding a monopoly over online search. 这家科技巨头被指控垄断在线搜索市场。",
+     "ex2": "New regulations were introduced to break up the monopoly. 新法规出台以打破垄断。"
+    },
+    {
+     "w": "outrank",
+     "ipa": "/ˌaʊtˈræŋk/",
+     "pos": "v.",
+     "en": "to rank higher than someone or something else",
+     "zh": "排名高于，地位超过",
+     "ctx": "在排行榜上压过；微短剧应用压过好莱坞自家的流媒体，这才是高管们坐不住的原因。",
+     "ex1": "The newcomer outranked all established brands in customer satisfaction. 这个新品牌在客户满意度上超过了所有老牌企业。",
+     "ex2": "Safety concerns should always outrank cost considerations. 安全考量应始终优先于成本考量。"
+    },
+    {
+     "w": "spin up",
+     "ipa": "/spɪn ʌp/",
+     "pos": "phr. v.",
+     "en": "to create or establish something quickly, especially a business or system",
+     "zh": "快速搭建，迅速创建",
+     "ctx": "快速搭起来；好莱坞的反击不是改良旧平台，而是从零另起一个自己的微短剧平台。",
+     "ex1": "The startup spun up a new team in just two weeks. 这家初创公司在短短两周内就组建了一个新团队。",
+     "ex2": "During the crisis, the government spun up emergency shelters across the region. 危机期间，政府在该地区迅速搭建了紧急避难所。"
+    }
+   ]
+  },
+  {
+   "en_html": "I’d managed to <mark class=\"voc\">wrangle</mark> three days of set visits on a show called “Bound by Love,” a production of ReelShort. Culturally, ReelShort is an interesting case: the <mark class=\"voc\">flagship</mark> brand of an American company originally financed — and still partly owned — by a Chinese digital content group. The 9:16 format that fills a vertical phone screen leaves little room to <mark class=\"voc\">maneuver</mark>, requiring actors to stand unnaturally close together. “Bound by Love,” which in its finished form would run more than two and a half hours, was to be shot at a variety of locations over the course of just 11 days.",
+   "zh": "我设法争取到了三天探班机会，对象是一部名为《缚爱》（Bound by Love）的剧集，由ReelShort出品。从文化角度看，ReelShort是一个有趣的案例：它是一家美国公司的旗舰品牌，最初由中国数字内容集团出资——且至今仍部分持股。9：16的竖屏格式填满手机屏幕，几乎没有调度余地，迫使演员以极不自然的近距离站在一起。《缚爱》成片时长将超过两个半小时，却要在短短11天内辗转多个场景完成拍摄。",
+   "notes": [
+    {
+     "w": "wrangle",
+     "ipa": "/ˈræŋɡl/",
+     "pos": "v.",
+     "en": "to obtain or manage something through effort or negotiation",
+     "zh": "设法获得，费力争取",
+     "ctx": "费一番功夫才争取到；作者能进剧组本身是“求”来的，暗示这个行业对外相当封闭。",
+     "ex1": "He managed to wrangle an invitation to the exclusive event. 他设法弄到了那场独家活动的邀请函。",
+     "ex2": "She wrangled a better deal from the supplier. 她从供应商那里争取到了更优惠的条件。"
+    },
+    {
+     "w": "flagship",
+     "ipa": "/ˈflæɡʃɪp/",
+     "pos": "n.",
+     "en": "the most important or leading product or brand of a company",
+     "zh": "旗舰，旗舰品牌",
+     "ctx": "旗舰品牌；ReelShort 是美国公司的旗舰，钱却来自中国——这句是全文的题眼。",
+     "ex1": "The smartphone is the company’s flagship product. 这款智能手机是该公司的旗舰产品。",
+     "ex2": "The flagship store in Tokyo attracts thousands of visitors daily. 东京的旗舰店每天吸引数千名顾客。"
+    },
+    {
+     "w": "maneuver",
+     "ipa": "/məˈnuːvə/",
+     "pos": "n.",
+     "en": "room for movement or action; a skillful movement",
+     "zh": "回旋余地，调度空间",
+     "ctx": "回旋、调度的余地；9:16 竖屏几乎不留调度空间，只能把演员往镜头前怼。",
+     "ex1": "The tight budget left little maneuver for additional spending. 预算紧张，几乎没有额外支出的余地。",
+     "ex2": "The narrow streets gave the driver no room to maneuver. 狭窄的街道让司机没有回旋的余地。"
+    }
+   ]
+  },
+  {
+   "en_html": "The key <mark class=\"voc\">grip</mark> had an explanation for this: The scenes they were shooting that day were for an early episode, one that would appear before the viewer hit the <mark class=\"voc\">paywall</mark>. As at least a dozen people would subsequently inform me, the platforms are not overly invested in the quality of the episodes that come after — <mark class=\"voc\">i.e.</mark>, the episodes a viewer has actually paid to see. The goal is to keep them up, which is <mark class=\"voc\">distinct</mark> from telling a good or even <mark class=\"voc\">coherent</mark> story.",
+   "zh": "首席置景师对此有一番解释：当天拍摄的场景属于早期集数，也就是观众还没碰到付费墙之前能看到的内容。正如随后至少十几个人告诉我的那样，平台对于付费之后——即观众真正花钱看的那些集数——的质量并不过分上心。目标只是让观众继续看下去，这与讲一个好故事、甚至一个连贯的故事，是两回事。",
+   "notes": [
+    {
+     "w": "grip",
+     "ipa": "/ɡrɪp/",
+     "pos": "n.",
+     "en": "a technician responsible for lighting equipment and rigging on a film set",
+     "zh": "置景师，灯光器材技师",
+     "ctx": "置景师、灯光器材技师；让这个技术岗位的人来说出“拍的是付费墙之前的集数”，最见行业真相。",
+     "ex1": "The grip adjusted the lights to create a softer shadow. 置景师调整灯光以营造更柔和的阴影。",
+     "ex2": "Experienced grips are essential to any professional film production. 经验丰富的置景师对任何专业影视制作都不可或缺。"
+    },
+    {
+     "w": "paywall",
+     "ipa": "/ˈpeɪwɔːl/",
+     "pos": "n.",
+     "en": "a system that restricts access to content until a user pays",
+     "zh": "付费墙",
+     "ctx": "付费墙；观众看到关键处被拦下掏钱，墙前认真、墙后敷衍，这就是这门生意的核心结构。",
+     "ex1": "Many news sites have erected paywalls to boost subscription revenue. 许多新闻网站设立了付费墙以提高订阅收入。",
+     "ex2": "Readers hit a paywall after three free articles. 读者在免费阅读三篇文章后会碰到付费墙。"
+    },
+    {
+     "w": "i.e.",
+     "ipa": "/ˌaɪˈiː/",
+     "pos": "abbr.",
+     "en": "that is; in other words (from Latin id est)",
+     "zh": "即，也就是说",
+     "ctx": "即、也就是说；作者用它把“后面的集数”当场点破为“观众真正花钱看的那些”。",
+     "ex1": "The fee covers basic services, i.e., water and electricity. 该费用涵盖基本服务，即水和电。",
+     "ex2": "The company targets young consumers, i.e., those under thirty. 该公司瞄准年轻消费者，即三十岁以下的人群。"
+    },
+    {
+     "w": "distinct",
+     "ipa": "/dɪˈstɪŋkt/",
+     "pos": "adj.",
+     "en": "clearly different or separate",
+     "zh": "截然不同的，有区别的",
+     "ctx": "截然不同的两回事；让观众看下去 ≠ 讲一个（哪怕只是连贯的）故事，这是全段最锋利的一句。",
+     "ex1": "The two species are distinct in both appearance and behavior. 这两个物种在外观和行为上截然不同。",
+     "ex2": "There is a distinct difference between confidence and arrogance. 自信与傲慢之间有着明显的区别。"
+    },
+    {
+     "w": "coherent",
+     "ipa": "/kəʊˈhɪərənt/",
+     "pos": "adj.",
+     "en": "logical and consistent; easy to understand",
+     "zh": "连贯的，条理清晰的",
+     "ctx": "连贯、逻辑自洽；平台连“故事说不说得通”都不在乎，只要你不划走。",
+     "ex1": "The professor gave a coherent explanation of the theory. 教授对该理论作了条理清晰的解释。",
+     "ex2": "The novel’s plot is barely coherent after the halfway point. 这部小说过了中场之后情节几乎谈不上连贯。"
+    }
+   ]
+  }
+ ]
+}
