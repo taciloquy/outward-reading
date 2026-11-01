@@ -1,0 +1,407 @@
+{
+  "date": "2026-09-12",
+  "title_tag": "AI十年内会杀死全人类？Anthropic研究员发出最严重警报！1.5亿人围观—— 大西洋月刊外刊讲解第1165天",
+  "h1": "AI十年内会杀死全人类？Anthropic研究员发出最严重警报！1.5亿人围观",
+  "source_label": "The Atlantic",
+  "category": "大西洋月刊外刊讲解 第1165天",
+  "read_minutes": 18,
+  "nav_hint": "Everybody Wants AI to Destroy the World",
+  "headline": {
+    "en_html": "<span>Everybody Wants AI to Destroy the World</span> — <span>An Anthropic researcher <mark class=\"voc\">quit</mark> his job because he believes it will. His story is going <mark class=\"voc\">viral</mark> because you want to believe too.</span>",
+    "zh": "所有人都巴不得AI毁灭世界——一位Anthropic研究员辞职，因为他真信这一天会来。而他的故事之所以刷屏，是因为你也想信。",
+    "notes": [
+      {
+        "w": "quit",
+        "ipa": "/kwɪt/",
+        "pos": "v.（过去式/过去分词同形quit）",
+        "en": "quit means to leave a job, school, or other position permanently",
+        "zh": "本义为\"停止、放弃、离开\"，职场与离职语境核心义为\"主动辞去职务、不再继续\"",
+        "ctx": "指AI研究员Jacob Coxon主动从Anthropic离职，且是在个人股权归属期尚差两个月时放弃权益离开。",
+        "ex1": "After eight years at the investment bank, she quit her job to launch a climate-tech startup. 在那家投行干了八年之后，她辞职去创办了一家气候科技公司。",
+        "ex2": "Two senior engineers quit within a week of the merger being announced. 合并消息公布不到一周，两名资深工程师就相继辞职。"
+      },
+      {
+        "w": "viral",
+        "ipa": "/ˈvaɪrəl/",
+        "pos": "adj.",
+        "en": "viral means caused by a virus; or (of online content) spreading very quickly and widely among internet users",
+        "zh": "本义为\"病毒的、病毒引起的\"，互联网传播语境核心义为\"像传染病一样在网上呈指数级扩散的\"",
+        "ctx": "指Coxon的辞职帖在极短时间内被观看超过1.5亿次；作者刻意选用这个源自流行病学的词，为第8段\"信息如疾病般传播\"的论点埋线。",
+        "ex1": "The CEO's off-hand remark about layoffs went viral before the company's PR team could respond. 这位CEO随口一句关于裁员的话，还没等公关团队反应过来就已经全网疯传。",
+        "ex2": "Viral marketing costs almost nothing upfront but is notoriously hard to engineer on purpose. 病毒式营销前期几乎零成本，但众所周知，想刻意制造出来极难。"
+      }
+    ]
+  },
+  "paragraphs": [
+    {
+      "en_html": "The sky <mark class=\"voc\">streaked</mark> orange and red as my mother drove us home to Albuquerque through the Tijeras <mark class=\"voc\">Pass</mark>, which <mark class=\"voc\">separates</mark> the Sandia Mountains to the north from the Manzano to the south. “<mark class=\"voc\">Look out for</mark> <mark class=\"voc\">mushroom clouds</mark>,” my father said to her. “If you see them, turn around.”",
+      "zh": "天边烧成一片橙红。母亲开车载着我们回阿尔伯克基，穿过蒂赫拉斯山口——那道山口把北边的桑迪亚山和南边的曼萨诺山劈成两半。\"留神看有没有蘑菇云，\"父亲对她说，\"要是看见了，掉头就走。",
+      "notes": [
+        {
+          "w": "streak",
+          "ipa": "/striːk/",
+          "pos": "v.（此处为动词过去式streaked）",
+          "en": "streak means to mark or cover sth. with long, thin lines or bands of a different colour",
+          "zh": "本义为\"（在某物表面）留下长条痕迹、划出道道\"，自然景物描写语境核心义为\"（天空、云层）被染成一条条不同颜色\"",
+          "ctx": "本文指新墨西哥州傍晚的晚霞把天空染成一道道橙红，这一视觉细节与核爆火光形成潜在联想，直接引出父亲那句关于蘑菇云的话。",
+          "ex1": "The dawn sky over the data centre was streaked with pink and violet as the night shift finally clocked out. 夜班工人终于下班时，数据中心上空的晨曦被染上了一道道粉色与紫色。",
+          "ex2": "A five-game winning streak turned the club from relegation candidates into playoff contenders. 一波五连胜，让这家俱乐部从保级边缘变成了季后赛的有力争夺者。"
+        },
+        {
+          "w": "pass",
+          "ipa": "/pɑːs/",
+          "pos": "n.",
+          "en": "pass means a narrow route or gap through or over a range of mountains",
+          "zh": "本义为\"通过、经过\"（动词核心义），地理与地形语境核心义为\"山口、隘口，即山脉之间可供通行的低处缺口\"",
+          "ctx": "文中指 Tijeras Pass（蒂赫拉斯山口），分隔桑迪亚山脉与曼萨诺山脉、连接阿尔伯克基与外界的交通要道。",
+          "ex1": "Freight traffic through the mountain pass grinds to a halt for weeks every winter. 每年冬天，穿越这道山口的货运都会停滞数周。",
+          "ex2": "The startup handed out press passes to a hundred tech bloggers, hoping coverage would follow. 这家初创公司给上百名科技博主发了媒体证，指望着能换来报道。"
+        },
+        {
+          "w": "separate...from...",
+          "ipa": "/ˈsepəreɪt/",
+          "pos": "固定短语",
+          "en": "separate A from B means to keep A apart from B, or to form a division between them",
+          "zh": "本义为\"把A与B分开\"，地理描述语境核心义为\"（山脉、河流等）成为分界线，把两侧隔开\"",
+          "ctx": "文中指这道山口把北侧的桑迪亚山脉与南侧的曼萨诺山脉隔开，顺带点出故事发生在新墨西哥州核工业腹地。",
+          "ex1": "Regulators are struggling to separate genuine AI breakthroughs from well-funded marketing. 监管者正艰难地想把真正的AI突破和资金雄厚的营销话术区分开。",
+          "ex2": "A single glass wall separates the trading floor from the executive offices. 一面玻璃墙把交易大厅和高管办公区隔了开来。"
+        },
+        {
+          "w": "look out for",
+          "ipa": "",
+          "pos": "固定短语",
+          "en": "look out for sth. means to pay attention in order to notice sth., especially sth. dangerous or important",
+          "zh": "本义为\"向外看、警戒地张望\"，风险警戒语境核心义为\"留神、当心，带着'它可能出现且出现即有危险'的心态去留意\"",
+          "ctx": "父亲让母亲在开车途中留意天边是否出现蘑菇云，反映出核阴影下当地居民近乎条件反射式的日常警觉。",
+          "ex1": "Investors are told to look out for companies that describe every product as \"AI-powered.\" 有人提醒投资者，要当心那些把每个产品都说成\"AI驱动\"的公司。",
+          "ex2": "The two junior analysts agreed to look out for each other during the restructuring. 两个初级分析师约好了，重组期间互相照应着点。"
+        },
+        {
+          "w": "mushroom cloud",
+          "ipa": "/ˈmʌʃruːm klaʊd/",
+          "pos": "复合名词",
+          "en": "a mushroom cloud means the tall, mushroom-shaped cloud of smoke and debris produced by a nuclear explosion",
+          "zh": "本义为\"形状像蘑菇的云\"，核武器与冷战语境核心义为\"核爆炸后升腾而起的蘑菇状烟云，是二十世纪最具辨识度的末日视觉符号\"",
+          "ctx": "父亲要母亲留意的对象，也是全文\"末日幻想\"这一主题的第一个具象化意象。",
+          "ex1": "For an entire generation, the mushroom cloud was less a photograph than a permanent mental backdrop. 对整整一代人来说，蘑菇云与其说是一张照片，不如说是一块挥之不去的心理背景板。",
+          "ex2": "The museum's final room contains nothing but a single wall-sized mushroom cloud and total silence. 博物馆的最后一间展厅里什么都没有，只有一整面墙那么大的蘑菇云图像，和一片死寂。"
+        }
+      ]
+    },
+    {
+      "en_html": "I was already <mark class=\"voc\">pondering</mark> these <mark class=\"voc\">worn</mark> fantasies this week, as the 25th anniversary of 9/11 loomed, when Jacob Coxon wrote a social-media post about quitting his job at Anthropic because AI technology would, in his estimation, “kill us all by the end of the decade.” The sentiment takes up <mark class=\"voc\">unfinished business</mark>; <mark class=\"voc\">ruination</mark> has been <mark class=\"voc\">building up</mark> in contemporary culture.",
+      "zh": "这个星期，我本来就在琢磨这些老掉牙的幻想——9·11二十五周年正一天天逼近。偏偏这时候，雅各布·考克森发了条社交媒体帖子，说他从Anthropic辞职了，因为在他看来，AI技术\"会在这个十年结束之前把我们全都弄死\"。这股情绪接的是一桩早就没了结的旧账：毁灭感，一直在当代文化里一层层堆积着，从未停过。",
+      "notes": [
+        {
+          "w": "ponder",
+          "ipa": "/ˈpɒndə(r)/",
+          "pos": "v.",
+          "en": "ponder means to think about sth. carefully and for a considerable length of time, especially before making a decision",
+          "zh": "本义为\"掂量、称重\"（源自拉丁语pondus，重量），思辨与内省语境核心义为\"把一件事在心里反复掂量、来回琢磨\"",
+          "ctx": "作者本周持续思索\"世界末日\"这类由来已久的文化幻想，为随后Coxon事件的登场做心理铺垫。",
+          "ex1": "Board members spent the weekend pondering whether to accept a bid that valued the firm at $40 billion. 董事们花了整个周末掂量，要不要接受这份把公司估值定在400亿美元的收购要约。",
+          "ex2": "He pondered the offer for three days and then turned it down without explanation. 他把这份聘约琢磨了三天，然后一声不吭地拒绝了。"
+        },
+        {
+          "w": "worn",
+          "ipa": "/wɔːn/",
+          "pos": "adj.",
+          "en": "worn means damaged, thin, or shabby as a result of long use; (of an idea or phrase) no longer fresh because it has been used too often",
+          "zh": "本义为\"（因长期使用而）磨损的、用旧的\"，文化批评语境核心义为\"（说法、幻想、套路）被反复使用到失去新鲜感的，即中文所谓'老掉牙的'\"",
+          "ctx": "作者用 worn fantasies 给\"末日恐慌\"定调：不是新鲜事，而是一件被人类穿了八十年、袖口磨白的旧衣服。",
+          "ex1": "The minister fell back on a well-worn line about \"putting people first,\" and nobody in the room reacted. 这位大臣又搬出了那句\"以人为本\"的老掉牙台词，在场没一个人有反应。",
+          "ex2": "The stone steps had been worn smooth by four centuries of pilgrims. 这些石阶被四个世纪的朝圣者踩得光滑无痕。"
+        },
+        {
+          "w": "unfinished business",
+          "ipa": "/ʌnˈfɪnɪʃt ˈbɪznəs/",
+          "pos": "固定短语",
+          "en": "unfinished business means a matter that has not yet been dealt with, settled or brought to a conclusion",
+          "zh": "本义为\"尚未办完的事务\"，情绪与历史遗留语境核心义为\"一桩悬而未决、总也过不去的旧账\"",
+          "ctx": "指AI末日恐慌并非全新情绪，而是接续冷战核恐惧这桩从未真正了结的心理旧账，把第1段的蘑菇云与第2段的AI帖子扣在一起。",
+          "ex1": "For many veterans of the dot-com crash, the current AI boom feels like unfinished business. 对许多经历过互联网泡沫破裂的老兵来说，眼下这轮AI热潮像是一桩没算完的旧账。",
+          "ex2": "He came out of retirement at sixty-three, saying he still had unfinished business with the company. 他六十三岁重新出山，说自己跟这家公司还有笔账没了。"
+        },
+        {
+          "w": "ruination",
+          "ipa": "/ˌruːɪˈneɪʃn/",
+          "pos": "n.",
+          "en": "ruination means the act of ruining sth. or the state of being completely destroyed or spoiled",
+          "zh": "本义为\"毁坏、破败\"，文化心理语境核心义为\"弥漫在时代情绪中的'一切都会崩塌'的毁灭感\"",
+          "ctx": "指这种毁灭感在当代文化中长期累积、从未消散，正是Coxon帖子能够一触即爆的土壤。",
+          "ex1": "A single failed drug trial brought financial ruination to the biotech and wiped out its retail shareholders. 一次临床试验失败就让这家生物科技公司走向财务崩塌，散户股东血本无归。",
+          "ex2": "Critics warned that deregulation would mean the ruination of the industry's safety record. 批评者警告说，放松监管将意味着这个行业安全纪录的彻底崩坏。"
+        },
+        {
+          "w": "build up",
+          "ipa": "",
+          "pos": "固定短语",
+          "en": "build up means to increase gradually in amount, size or intensity over a period of time",
+          "zh": "本义为\"逐渐堆积、累积增大\"，情绪与趋势语境核心义为\"（某种情绪、压力、力量）长期一层层积攒，尚未爆发\"",
+          "ctx": "指毁灭感在当代文化中持续累积的过程；原文用现在完成进行时 has been building up，强调这一累积从过去延续至今且仍在进行。",
+          "ex1": "Pressure has been building up inside the lab for months over how quickly models are shipped. 关于模型上线速度的问题，这家实验室内部的压力已经积压了好几个月。",
+          "ex2": "It took her a decade to build up a client list that competitors now try to poach. 她花了十年才攒下这份客户名单，如今竞争对手都想来挖。"
+        }
+      ]
+    },
+    {
+      "en_html": "This fantasy—of the end of the world, and of being <mark class=\"voc\">present for</mark> it—is among the most powerful <mark class=\"voc\">emblems</mark> of the 20th century. The atomic bomb <mark class=\"voc\">inaugurated</mark> it, and nuclear <mark class=\"voc\">armaments</mark> remain the reference technology for <mark class=\"voc\">apocalyptic</mark> threat and <mark class=\"voc\">reverie</mark>. We believe in the fantasy, and <mark class=\"voc\">pine for</mark> it, because nothing feels better than the belief that you might witness the <mark class=\"voc\">conclusion</mark> of humankind.",
+      "zh": "这个幻想——世界终结，而你恰好在场——是二十世纪最有分量的象征之一。原子弹为它揭了幕，而核武器至今仍是衡量一切末日恐惧与末日遐想的那把尺子。我们信奉这个幻想，甚至害着它的相思。因为再没有什么感觉能胜过这一个念头：你或许能亲眼看见人类的结局。",
+      "notes": [
+        {
+          "w": "be present for",
+          "ipa": "",
+          "pos": "固定短语",
+          "en": "be present for sth. means to be physically there when sth. happens; to witness it in person",
+          "zh": "本义为\"在场、出席\"，见证与体验语境核心义为\"一件事发生时人就在现场、亲身经历了它\"",
+          "ctx": "作者点明这个末日幻想真正诱人的并非\"世界终结\"本身，而是\"终结发生时我在场\"，这是全文论点的核心转折。",
+          "ex1": "Only three of the twelve founders were present for the signing that ended the company's independence. 十二位创始人里只有三位出席了那场终结公司独立地位的签约仪式。",
+          "ex2": "She insisted on being present for every interview, even the routine ones. 她坚持每一场面试都要到场，哪怕是最例行公事的那种。"
+        },
+        {
+          "w": "emblem",
+          "ipa": "/ˈembləm/",
+          "pos": "n.",
+          "en": "emblem means an object, image or symbol that represents a particular idea, quality, group or period",
+          "zh": "本义为\"徽记、标志图案\"，文化象征语境核心义为\"一看到它就能唤起一整套观念的时代符号\"",
+          "ctx": "作者把\"世界终结且我在场\"这一幻想抬到与国徽、旗帜同级的文化符号地位。",
+          "ex1": "The abandoned factory has become an emblem of the region's industrial decline. 那座废弃工厂已成为这一地区工业衰败的象征。",
+          "ex2": "For a while the hoodie was the emblem of Silicon Valley's contempt for corporate dress codes. 有那么一阵子，连帽衫是硅谷对企业着装规范不屑一顾的标志。"
+        },
+        {
+          "w": "inaugurate",
+          "ipa": "/ɪˈnɔːɡjureɪt/",
+          "pos": "v.",
+          "en": "inaugurate means to mark the formal beginning of sth., or to admit sb. formally to office with a ceremony",
+          "zh": "本义源自拉丁语inaugurare，字面为\"经占卜官（augur）观察飞鸟取得吉兆后正式开始\"，历史与时代划分语境核心义为\"以近乎仪式的分量正式开启某个时代或某种现象\"",
+          "ctx": "指原子弹为\"末日幻想\"这一二十世纪文化母题揭幕；用 inaugurate 而非 start，赋予这一开端庄重甚至典礼般的分量。",
+          "ex1": "The launch of the first commercial reactor inaugurated an era of almost religious faith in atomic power. 第一座商用反应堆的启用，开启了一个近乎宗教般笃信原子能的时代。",
+          "ex2": "The airline's inaugural flight to the new hub was delayed by six hours. 这家航空公司飞往新枢纽的首航延误了六个小时。"
+        },
+        {
+          "w": "armament",
+          "ipa": "/ˈɑːməmənt/",
+          "pos": "n.（文中为复数armaments）",
+          "en": "armament means the weapons and military equipment possessed by a country or force",
+          "zh": "本义为\"武装、配备武器\"，军事与国际安全语境核心义为\"一国所拥有的武器装备总体，尤指战略级武器\"",
+          "ctx": "nuclear armaments 指核武库；作者指出它至今仍是人类衡量一切\"技术性末日威胁\"的默认参照物。",
+          "ex1": "Three decades of treaties cut strategic armaments faster than anyone had predicted. 三十年的一系列条约削减战略武器的速度，超出了所有人的预料。",
+          "ex2": "The armaments industry has quietly become one of the largest buyers of advanced chips. 军工产业已悄然成为高端芯片最大的买家之一。"
+        },
+        {
+          "w": "apocalyptic",
+          "ipa": "/əˌpɒkəˈlɪptɪk/",
+          "pos": "adj.",
+          "en": "apocalyptic means relating to or describing the total and final destruction of the world",
+          "zh": "本义源自希腊语apokalypsis\"揭示\"，即《圣经·启示录》所描绘的世界终结，末日叙事语境核心义为\"世界末日式的、带有宏大审判色彩的\"",
+          "ctx": "apocalyptic threat 与后面的 reverie 并置，构成\"既恐惧又向往\"的核心矛盾。",
+          "ex1": "Investors have learned to discount the apocalyptic rhetoric that accompanies every technology cycle. 投资者已经学会对每一轮技术周期里必然出现的末日式言辞打个折扣。",
+          "ex2": "Post-apocalyptic fiction sells best, oddly enough, in the most comfortable decades. 说来也怪，后末日题材小说卖得最好的时候，往往是日子最太平的年代。"
+        },
+        {
+          "w": "reverie",
+          "ipa": "/ˈrevəri/",
+          "pos": "n.",
+          "en": "reverie means a state of pleasant, dreamy thought in which one is absorbed in agreeable imaginings",
+          "zh": "本义为\"出神、白日梦\"，心理与文化分析语境核心义为\"令人愉悦、甚至带有享受感的遐想\"",
+          "ctx": "作者把 reverie 与 threat 并列——\"末日的威胁与末日的遐想\"，一个词点破全文核心矛盾：末日既让人恐惧，又让人隐秘地享受。",
+          "ex1": "The chime of the trading bell broke his reverie about an early retirement. 交易铃一响，把他关于提前退休的遐想打断了。",
+          "ex2": "She was lost in reverie for most of the flight, sketching product ideas she would never build. 整段航程她大半时间都在出神，画着一些她永远不会真去做的产品构想。"
+        },
+        {
+          "w": "pine for",
+          "ipa": "/paɪn/",
+          "pos": "固定短语",
+          "en": "pine for sth./sb. means to long for sth. intensely, especially sth. that is absent or unattainable, to the point of suffering",
+          "zh": "本义为\"因痛苦而憔悴、消瘦\"（动词pine 的古义），情感渴望语境核心义为\"苦苦渴望到近乎害相思、茶饭不思的程度\"",
+          "ctx": "人们不只是相信末日幻想，还 pine for it——渴望它到害相思的地步，这是全文讽刺意味最浓的用词之一。",
+          "ex1": "A decade into the boom, some engineers still pine for the days when a product could ship quietly. 繁荣已经持续十年，有些工程师仍旧怀念那个产品可以悄悄上线的年代。",
+          "ex2": "The dog pined for weeks after its owner moved abroad. 主人出国之后，那条狗蔫了好几个星期。"
+        },
+        {
+          "w": "conclusion",
+          "ipa": "/kənˈkluːʒn/",
+          "pos": "n.",
+          "en": "conclusion means the end or final part of sth.; also, a judgement reached by reasoning",
+          "zh": "本义为\"关闭、结束\"（源自拉丁语concludere，完全关闭），存在与终结语境核心义为\"一个过程或存在的最终结束，而非常见的'结论'义\"",
+          "ctx": "the conclusion of humankind 指人类的终结、人类故事的最后一页——此处若误译为\"人类的结论\"，整句核心论点即告崩塌。",
+          "ex1": "The acquisition brought a messy three-year battle to a quiet conclusion. 这桩收购让一场拖了三年的乱仗悄然收场。",
+          "ex2": "By March the outcome of the vote was a foregone conclusion. 到三月份，投票结果已是板上钉钉。"
+        }
+      ]
+    },
+    {
+      "en_html": "The threat of <mark class=\"voc\">annihilation</mark> from nuclear weapons is simple and easy to explain. For one part, a single <mark class=\"voc\">warhead</mark> can <mark class=\"voc\">level</mark> an entire city. For another, the <mark class=\"voc\">mere</mark> launch of a single missile all but assures the release of all of them. Likewise, the AI superintelligence of the Terminator films is both straightforward and obviously threatening. <mark class=\"voc\">Skeleton-like</mark> metal robots want only to destroy humanity. Real AI is not so straightforward. I used it on the morning of Coxon’s post to help me <mark class=\"voc\">nail down</mark> the quantity of various sugars I would use in a gelato recipe. By the afternoon, it had undergone a <mark class=\"voc\">costume change</mark>, into the angel of death.",
+      "zh": "核武器带来的毁灭威胁，简单，好解释。一来，一枚弹头就能把整座城市抹平；二来，只要一枚导弹升空，剩下的几乎注定倾巢而出。同样，《终结者》里的AI超级智能也是直白得一目了然的威胁——骷髅一样的金属机器人，脑子里只装着一件事：灭掉人类。可现实中的AI没这么直白。考克森发帖那天上午，我还在用它帮我敲定一份意式冰淇淋配方里几种糖该放多少；到了下午，它换了身行头，摇身一变成了死神。",
+      "notes": [
+        {
+          "w": "annihilation",
+          "ipa": "/əˌnaɪəˈleɪʃn/",
+          "pos": "n.",
+          "en": "annihilation means complete and utter destruction, leaving nothing behind",
+          "zh": "本义源自拉丁语ad-（至）+ nihil（虚无），字面即\"化为乌有\"，核战争与生存风险语境核心义为\"彻底到不留残余的毁灭，程度重于destroy 与devastate\"",
+          "ctx": "指核武器所带来的灭顶威胁；作者以其\"简单、好解释\"的特点，反衬出AI威胁的模糊与间接。",
+          "ex1": "Cold War planners spoke of mutual annihilation in the flat tone of men discussing logistics. 冷战时期的战略规划者谈起同归于尽，语气平淡得像在讨论后勤调度。",
+          "ex2": "The smaller carrier faced annihilation the moment the two giants announced a price war. 两家巨头一宣布打价格战，这家小航司就面临灭顶之灾。"
+        },
+        {
+          "w": "warhead",
+          "ipa": "/ˈwɔːhed/",
+          "pos": "n.",
+          "en": "warhead means the explosive front section of a missile, bomb or torpedo",
+          "zh": "本义为\"武器的头部装药部分\"，核武器语境核心义为\"导弹前端装载爆炸物（尤指核装药）的部分\"",
+          "ctx": "文中以\"一枚弹头即可夷平整座城市\"来说明核威胁的直观与好懂。",
+          "ex1": "The treaty required both sides to dismantle several hundred deployed warheads within five years. 条约要求双方在五年内拆除数百枚已部署的弹头。",
+          "ex2": "Analysts spent a week debating the likely yield of a single warhead. 分析人士花了一周争论单枚弹头的当量究竟有多大。"
+        },
+        {
+          "w": "level",
+          "ipa": "/ˈlevl/",
+          "pos": "v.",
+          "en": "level means to destroy a building, town or area completely so that nothing is left standing",
+          "zh": "本义为\"使平坦、弄成水平\"，破坏与灾难语境核心义为\"把建筑或城市彻底摧毁至与地面齐平，即夷为平地\"",
+          "ctx": "a single warhead can level an entire city——原本高低错落的天际线被推成一条水平线，画面感极强，也点出核威胁的直观。",
+          "ex1": "The blast leveled four blocks of warehouses and was felt twenty miles away. 爆炸把四个街区的仓库夷为平地，二十英里外都能感觉到震动。",
+          "ex2": "New disclosure rules are meant to level the playing field between retail and institutional investors. 新的信息披露规则意在拉平散户与机构投资者之间的竞争环境。"
+        },
+        {
+          "w": "mere",
+          "ipa": "/mɪə(r)/",
+          "pos": "adj.",
+          "en": "mere means nothing more than what is stated; used to emphasise how small or unimportant sth. is",
+          "zh": "本义为\"纯粹的、仅仅的\"，强调语境核心义为\"区区、不过是，用以凸显某事物之微小，从而反衬后果之巨大\"",
+          "ctx": "the mere launch of a single missile——仅仅发射一枚导弹这么小的动作，就几乎必然引发全部核武器倾巢而出，因果反差正由 mere 制造。",
+          "ex1": "A mere rumour of a funding round was enough to double the startup's secondary-market valuation. 仅仅一则融资传闻，就让这家初创公司在二级市场的估值翻了一倍。",
+          "ex2": "The fine amounted to a mere fraction of the profits the practice had generated. 这笔罚款只相当于该做法所带来利润的九牛一毛。"
+        },
+        {
+          "w": "skeleton",
+          "ipa": "/ˈskelɪtn/",
+          "pos": "n.（文中构成复合形容词skeleton-like）",
+          "en": "skeleton means the framework of bones supporting a body; the bare structure of sth.",
+          "zh": "本义为\"骨骼、骨架\"，视觉描写语境核心义为\"只剩骨架、没有血肉的形象，带有死亡与非人的联想\"",
+          "ctx": "skeleton-like metal robots 指《终结者》中那些金属骨架造型的机器人杀手，这一形象是流行文化为大众预装的\"AI杀人\"默认画面。",
+          "ex1": "The plant now runs on a skeleton crew of fewer than thirty people. 这家工厂现在只靠不到三十人的最低限度班底在运转。",
+          "ex2": "Every founder has at least one skeleton in the closet; due diligence exists to find it. 每个创始人都有那么一两件不愿提的旧事，尽职调查的存在就是为了把它挖出来。"
+        },
+        {
+          "w": "nail down",
+          "ipa": "",
+          "pos": "固定短语",
+          "en": "nail sth. down means to reach a firm and final decision or agreement about sth.; to establish sth. precisely",
+          "zh": "本义为\"用钉子把某物钉牢固定\"，决策与细节确认语境核心义为\"把原本悬而未决、飘忽不定的事情确定下来、敲死\"",
+          "ctx": "作者当天上午还在用AI敲定意式冰淇淋配方中几种糖的精确用量——琐碎到近乎滑稽的用途，与下午AI\"变身死神\"形成全文最有力的反讽对照。",
+          "ex1": "It took four calls to nail down exactly what the client meant by \"flexible pricing.\" 打了四通电话，才把客户所谓的\"灵活定价\"到底指什么给敲定下来。",
+          "ex2": "We can nail down the launch date once legal signs off on the disclosures. 等法务把披露文件签掉，我们就能把发布日期定下来。"
+        },
+        {
+          "w": "costume change",
+          "ipa": "/ˈkɒstjuːm tʃeɪndʒ/",
+          "pos": "固定短语",
+          "en": "a costume change means a change of outfit made by a performer between scenes or roles in a production",
+          "zh": "本义为\"演员在演出中途更换戏服\"，修辞与讽刺语境核心义为\"只更换外在装扮、本体并未改变的形象切换\"",
+          "ctx": "AI在半天之内从厨房助手变成死神，技术本身没有任何变化，变的只是公众的注视方式，而促成这一变化的不过是一条推文。",
+          "ex1": "The singer managed four costume changes in a ninety-minute set without missing a beat. 这位歌手在九十分钟的演出里换了四套服装，一个节拍都没落下。",
+          "ex2": "The rebrand was little more than a costume change: same product, same pricing, new logo. 这次品牌重塑不过是换了身行头：产品没变，定价没变，只换了个标志。"
+        }
+      ]
+    },
+    {
+      "en_html": "The <mark class=\"voc\">nature of</mark> AI’s <mark class=\"voc\">extinction</mark> threat is unclear and <mark class=\"voc\">second-order</mark>. In an interview with Wired, Coxon struggled to say exactly how AI might <mark class=\"voc\">bring about</mark> the end of civilization. “The classic example is, like, <mark class=\"voc\">synthesizing</mark> a new virus or <mark class=\"voc\">taking down</mark> critical infrastructure by doing some sort of hacking <mark class=\"voc\">spree</mark>,” Coxon said, before admitting that “<mark class=\"voc\">the latter</mark> might be less likely to kill <mark class=\"voc\">literally</mark> everyone.”",
+      "zh": "AI的灭绝威胁，性质模糊，而且是拐了好几道弯的间接威胁。在接受《连线》采访时，考克森费了半天劲，也没能说清楚AI究竟会怎样终结文明。\"最经典的例子就是，那个，合成一种新病毒，或者搞一通黑客攻击、把关键基础设施打瘫。\"他说。随后又补了一句：后面那条路，\"恐怕没那么容易真的把所有人都弄死。\"",
+      "notes": [
+        {
+          "w": "the nature of",
+          "ipa": "/ˈneɪtʃə(r)/",
+          "pos": "固定短语",
+          "en": "the nature of sth. means the basic or inherent qualities, character or essential features of sth.",
+          "zh": "本义为\"本性、天性\"，学理分析语境核心义为\"某事物的根本性质、内在属性，区别于不带冠词的nature'大自然'\"",
+          "ctx": "作者开门见山指出AI灭绝威胁的\"性质\"是模糊而间接的，这一判断构成整段对Coxon说法的拆解基础。",
+          "ex1": "Regulators still disagree about the nature of the risk posed by open-weight models. 关于开放权重模型所构成风险的性质，监管者至今没有共识。",
+          "ex2": "By nature he is cautious, which made his public warning all the more startling. 他天性谨慎，这让他公开发出的警告显得格外惊人。"
+        },
+        {
+          "w": "extinction",
+          "ipa": "/ɪkˈstɪŋkʃn/",
+          "pos": "n.",
+          "en": "extinction means the state or process of a species, family or larger group ceasing to exist entirely",
+          "zh": "本义为\"（火焰）被扑灭\"（动词extinguish 即灭火），生存风险语境核心义为\"一个物种彻底断绝、不复存在\"",
+          "ctx": "AI extinction threat 是当前AI安全讨论中的固定术语，指AI可能导致人类整体灭绝的风险。",
+          "ex1": "Three of the region's five rhino populations are now on the brink of extinction. 该地区五个犀牛种群中，已有三个濒临灭绝。",
+          "ex2": "\"Extinction risk\" has gone from a fringe phrase to a line item in corporate safety reports. \"灭绝风险\"这个说法，已经从边缘词汇变成了企业安全报告里的一个条目。"
+        },
+        {
+          "w": "second-order",
+          "ipa": "/ˌsekənd ˈɔːdə(r)/",
+          "pos": "adj.",
+          "en": "second-order means indirect; arising from a chain of subsequent consequences rather than from an immediate, direct cause",
+          "zh": "本义为\"第二阶的、次级的\"（与first-order 直接、一阶相对），风险分析语境核心义为\"不是直接造成后果，而是通过一连串中间环节才可能导致后果的\"",
+          "ctx": "点破AI威胁与核威胁的根本差异：核弹爆炸即死人，属一阶；AI要经过\"变强→做某事→引发某事→致死\"的多重环节，因而难以说清，也难以令人本能恐惧。",
+          "ex1": "Most investors price in the first-order impact of a rate cut and ignore the second-order effects entirely. 多数投资者只会计入降息的直接影响，对连锁后果则完全视而不见。",
+          "ex2": "Good strategy is largely second-order thinking: asking what happens after what happens. 好的战略基本上就是二阶思维——追问\"那件事发生之后又会发生什么\"。"
+        },
+        {
+          "w": "bring about",
+          "ipa": "",
+          "pos": "固定短语",
+          "en": "bring about sth. means to cause sth. to happen or to come into existence",
+          "zh": "本义为\"使转向、促成\"，因果语境核心义为\"导致、促成某一结果发生\"",
+          "ctx": "how AI might bring about the end of civilization——AI究竟以何种方式导致文明终结，正是Coxon答不上来的那个问题。",
+          "ex1": "A single leaked memo brought about the resignation of two board members. 一份泄露的备忘录直接导致两名董事辞职。",
+          "ex2": "Nobody can quite explain what brought about the sudden reversal in sentiment. 没人说得清，是什么导致市场情绪突然掉头。"
+        },
+        {
+          "w": "synthesize",
+          "ipa": "/ˈsɪnθəsaɪz/",
+          "pos": "v.",
+          "en": "synthesize means to make a substance by combining simpler substances through a chemical or biological process",
+          "zh": "本义源自希腊语syn-（一起）+ thesis（放置），字面为\"把若干部分放到一起\"，生物化学语境核心义为\"人工合成出自然界原本不存在或不易获得的物质\"",
+          "ctx": "synthesizing a new virus——Coxon所举的AI致人类灭绝的第一条路径，即AI协助合成全新病毒。",
+          "ex1": "Researchers can now synthesize the compound in days rather than the months it once required. 研究人员现在只需几天就能合成这种化合物，而过去要花上几个月。",
+          "ex2": "Training increasingly relies on synthetic data generated by other models. 训练正越来越依赖由其他模型生成的合成数据。"
+        },
+        {
+          "w": "take down",
+          "ipa": "",
+          "pos": "固定短语",
+          "en": "take sth. down means to cause a system, network or organization to stop functioning; also, to remove sth. from a wall or record sth. in writing",
+          "zh": "本义为\"把某物取下来\"，网络安全语境核心义为\"使系统、网站或基础设施瘫痪、下线\"",
+          "ctx": "taking down critical infrastructure 指通过黑客手段令电网、供水、通信等社会底层系统停摆。",
+          "ex1": "A single misconfigured update took down payment systems across four countries. 一次配置错误的更新，就让四个国家的支付系统全部瘫痪。",
+          "ex2": "Please take down my number in case the line drops. 把我号码记一下吧，万一断线了好联系。"
+        },
+        {
+          "w": "spree",
+          "ipa": "/spriː/",
+          "pos": "n.",
+          "en": "a spree means a short period of unrestrained indulgence in a particular activity, especially spending, drinking or criminal behaviour",
+          "zh": "本义为\"一阵放纵的狂欢\"，行为描述语境核心义为\"短时间内不受控制、停不下来地连续做某事，重点在'失控'而非行为内容本身\"",
+          "ctx": "a hacking spree 指一连串不管不顾的黑客攻击；该词天然带有的狂欢、轻佻气质，与\"人类灭绝\"这一后果形成微妙的不协调感。",
+          "ex1": "Flush with fresh capital, the group went on an acquisition spree that unsettled its own investors. 手握新融资，这家集团展开了一轮令自家投资者都不安的并购狂潮。",
+          "ex2": "Black Friday shopping sprees now start a full week before the day itself. 如今黑五的购物狂欢，提前整整一周就开始了。"
+        },
+        {
+          "w": "the former / the latter",
+          "ipa": "/ˈfɔːmə(r)/ /ˈlætə(r)/",
+          "pos": "固定搭配",
+          "en": "the former means the first of two things mentioned; the latter means the second of two things mentioned",
+          "zh": "本义为\"较早的/ 较晚的\"，行文指代语境核心义为\"在已提及的两项事物中分别回指第一项与第二项，避免重复\"",
+          "ctx": "Coxon先后提出\"合成病毒\"与\"黑客攻击基础设施\"两条路径，the latter 回指后者；他紧接着承认后者未必能杀死所有人，等于自行削弱了自己的论断。",
+          "ex1": "The company can cut prices or cut costs; the latter is slower but far more durable. 公司要么降价，要么降本；后者见效慢，却牢靠得多。",
+          "ex2": "Growth slowed sharply in the latter half of the year. 下半年增长急剧放缓。"
+        },
+        {
+          "w": "literally",
+          "ipa": "/ˈlɪtərəli/",
+          "pos": "adv.",
+          "en": "literally means in a literal, exact sense, without exaggeration or metaphor",
+          "zh": "本义为\"照字面地\"，强调语境核心义为\"我说的不是比喻，而是字面意义上的真实情况\"",
+          "ctx": "kill literally everyone——字面意义上的\"每一个人\"，一个不剩；正是这个极端限定词，让Coxon随后的退让显得格外刺眼。",
+          "ex1": "Valuations in the sector doubled literally overnight after the announcement. 公告一出，这个行业的估值真的是一夜之间翻了一番。",
+          "ex2": "Don't take the forecast too literally; it is a scenario, not a prediction. 别太较真这份预测，它是个情景推演，不是预言。"
+        }
+      ]
+    }
+  ]
+}

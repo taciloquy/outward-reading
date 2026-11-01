@@ -1,0 +1,442 @@
+{
+  "paragraphs": [
+    {
+      "en_html": "Coxon is <mark class=\"voc\">less a</mark> <mark class=\"voc\">whistleblower</mark> than a poster; he posted a fairly common sentiment that just happened to <mark class=\"voc\">catch wind</mark>. It’s the anniversary of 9/11. OpenAI just claimed to have solved an <mark class=\"voc\">intractable</mark> problem in mathematics. That company and Anthropic, where Coxon worked, are racing to <mark class=\"voc\">multitrillion-dollar IPOs</mark>. An ongoing cultural battle about the moral and <mark class=\"voc\">aesthetic</mark> <mark class=\"voc\">vice</mark> of AI recently <mark class=\"voc\">turned in on itself</mark>, when the journalist Kelsey Piper <mark class=\"voc\">accused</mark> writers who mistrust Pangram, an AI-detection tool, of essentially trying to hide their own <mark class=\"voc\">clandestine</mark> uses of AI. As I write this, Coxon’s post has been seen more than 150 million times, a number equal to roughly 2 percent of the global population.",
+      "zh": "与其说考克森是个吹哨人，不如说他只是个发帖的——他说出的是一个相当常见的看法，只不过碰巧赶上了风。这周是9·11的周年；OpenAI刚刚宣称拿下了一道数学界的世纪难题；那家公司和考克森待过的Anthropic，正赛跑着奔向估值数万亿美元的上市；而一场围绕AI在道德与审美上如何败坏的文化论战，最近掉头咬住了自己的尾巴——记者凯尔西·派珀指控说，那些质疑AI检测工具Pangram的作家，说白了不过是想遮掩自己偷偷用AI的事实。写下这行字的此刻，考克森那条帖子已被看了超过一亿五千万次——大约相当于全球人口的百分之二。",
+      "notes": [
+        {
+          "w": "less A than B",
+          "ipa": "",
+          "pos": "固定句式",
+          "en": "less A than B means not so much A as B; used to correct or refine a description by asserting that B is the more accurate characterization",
+          "zh": "本义为\"相较于B而言更少地是A\"，论断语境核心义为\"与其说是A，不如说是B——重心落在than 之后的B上\"",
+          "ctx": "作者以一句话重新定义整个事件的性质：这不是一次内部揭发，而是一次网络爆款。",
+          "ex1": "The restructuring was less a strategy than an admission that the old plan had failed. 这次重组与其说是一项战略，不如说是承认旧计划已经失败。",
+          "ex2": "Their dispute is less about pricing than about who controls the customer relationship. 他们的分歧与其说在定价，不如说在于谁掌控客户关系。"
+        },
+        {
+          "w": "whistleblower",
+          "ipa": "/ˈwɪslbləʊə(r)/",
+          "pos": "n.",
+          "en": "a whistleblower means a person who exposes wrongdoing within an organization from a position of inside knowledge, often at personal risk",
+          "zh": "本义为\"吹响哨子的人\"（源自裁判鸣哨叫停或旧时警察吹哨示警），揭发与问责语境核心义为\"掌握外界不知情的内幕、冒风险将其公之于众的内部人\"",
+          "ctx": "作者认为Coxon并不符合这一身份——他并未披露任何外界不知道的内幕，因此\"吹哨人\"这顶帽子对他并不成立。",
+          "ex1": "New rules give whistleblowers a share of any penalty the regulator eventually collects. 新规让举报人能从监管机构最终收取的罚款中分得一部分。",
+          "ex2": "She blew the whistle on the accounting scheme and did not work in the industry again. 她揭发了那套做账手法，此后再没能在这个行业里找到工作。"
+        },
+        {
+          "w": "catch wind",
+          "ipa": "",
+          "pos": "固定短语",
+          "en": "catch wind means to begin spreading rapidly or to gain sudden momentum, as a sail fills with wind",
+          "zh": "本义为\"（帆）兜住风\"，传播语境核心义为\"一件事突然获得推力、迅速扩散开来，强调推力来自外部时机而非事物本身\"",
+          "ctx": "作者用这个航海比喻给整起事件定性：帖子本身（帆）并无特别之处，变的是这一周恰好起了风。",
+          "ex1": "The campaign caught wind only after an unrelated celebrity mentioned it in passing. 这场活动是在一位毫不相干的名人顺口提了一句之后才火起来的。",
+          "ex2": "Rivals got wind of the deal days before it was announced. 这桩交易公布前好几天，竞争对手就听到了风声。"
+        },
+        {
+          "w": "intractable",
+          "ipa": "/ɪnˈtræktəbl/",
+          "pos": "adj.",
+          "en": "intractable means extremely difficult to solve, manage or deal with; resistant to all attempted solutions",
+          "zh": "本义源自in-（不）+ tract（拉）+ -able，字面为\"拉不动的、拽不走的\"，学术与政策语境核心义为\"长期抵抗一切解决尝试、被公认为极难攻克的\"",
+          "ctx": "an intractable problem in mathematics 指纳维-斯托克斯问题——千禧年七大难题之一，两百年悬而未决，OpenAI宣称其内部模型在88小时内攻克。",
+          "ex1": "Homelessness has proved intractable in precisely the cities with the most money to spend on it. 偏偏是在最有钱解决这个问题的那些城市，无家可归问题始终无解。",
+          "ex2": "What looked like a technical bug turned out to be an intractable design flaw. 看上去像是个技术漏洞的问题，最后被证明是个无解的设计缺陷。"
+        },
+        {
+          "w": "IPO / multitrillion-dollar",
+          "ipa": "",
+          "pos": "固定表达",
+          "en": "IPO (Initial Public Offering) means the first sale of a company's shares to the public; multitrillion-dollar means valued at several trillion dollars",
+          "zh": "本义为\"首次公开募股\"，资本市场语境核心义为\"公司从私有转为公开上市、向公众发行股票的过程，通常伴随巨额估值\"",
+          "ctx": "OpenAI与Anthropic正赛跑着奔向数万亿美元级别的上市——这一商业背景正是下一段\"公司有动机把技术说得很危险\"的现实基础。",
+          "ex1": "The company filed for an IPO three weeks after posting its first profitable quarter. 公司在公布首个盈利季度三周后就提交了上市申请。",
+          "ex2": "Analysts now describe the sector as a multitrillion-dollar buildout with no obvious ceiling. 分析师如今把这个行业形容为一场看不到明显天花板的万亿美元级建设浪潮。"
+        },
+        {
+          "w": "aesthetic",
+          "ipa": "/iːsˈθetɪk/",
+          "pos": "adj.",
+          "en": "aesthetic means concerned with beauty, taste or the appreciation of artistic quality",
+          "zh": "本义为\"感觉的、感知的\"（源自希腊语aisthētikos），文化批评语境核心义为\"关于美与品味的、审美层面的\"",
+          "ctx": "the moral and aesthetic vice of AI——对AI的批评分两条线，道德上指抢夺工作与侵占创作，审美上指AI文本的同质化与\"塑料感\"。",
+          "ex1": "The redesign was defended on aesthetic grounds long after users had stopped complaining about looks. 早在用户不再抱怨外观之后很久，这次改版仍在以审美理由被辩护。",
+          "ex2": "Her whole product line follows a single stripped-back aesthetic. 她整条产品线都遵循同一种极简审美。"
+        },
+        {
+          "w": "vice",
+          "ipa": "/vaɪs/",
+          "pos": "n.",
+          "en": "vice means immoral, wicked or degrading behaviour; a habitual character flaw",
+          "zh": "本义为\"缺陷、瑕疵\"，道德评价语境核心义为\"恶行、道德上的败坏，与virtue（美德）构成对立\"",
+          "ctx": "指AI在道德与审美两个层面被指认的\"恶\"，是这场文化论战的核心指控；注意与作前缀的vice-\"副职的\"截然不同。",
+          "ex1": "Every era assigns its vices to whatever technology is newest. 每个时代都会把自己的罪过算到最新的那项技术头上。",
+          "ex2": "Impatience is his only real vice, and in this business it is nearly a virtue. 急躁是他唯一真正的毛病，而在这行里，这几乎算优点。"
+        },
+        {
+          "w": "turn in on itself",
+          "ipa": "",
+          "pos": "固定短语",
+          "en": "turn in on itself means to become directed inward against its own members or premises, rather than outward against an external target",
+          "zh": "本义为\"向内折返、掉头朝向自身\"，冲突演变语境核心义为\"一场原本一致对外的斗争转为内部互相攻讦\"",
+          "ctx": "反AI的文化论战从\"人类阵营对抗AI\"，演变为作家之间互相指认谁在偷偷使用AI——阵营瓦解，矛头转向内部。",
+          "ex1": "The movement turned in on itself within a year, spending more energy on purges than on its original cause. 这场运动不到一年就掉头向内，花在内部清算上的力气超过了本来的目标。",
+          "ex2": "Under pressure, the team turned on one another instead of on the problem. 压力之下，这个团队不是去对付问题，而是开始互相攻击。"
+        },
+        {
+          "w": "accuse sb. of sth.",
+          "ipa": "/əˈkjuːz/",
+          "pos": "固定搭配",
+          "en": "accuse sb. of sth. means to charge or claim that someone has done sth. wrong or illegal",
+          "zh": "本义为\"控告、指责\"，指控语境核心义为\"明确指出某人犯有某种过错，介词固定为of，不可换用for 或with\"",
+          "ctx": "记者Kelsey Piper指控质疑Pangram的作家实为掩饰自身的隐秘AI使用——这是一项当事人难以自证清白的指控，正因如此才使论战彻底转向内部。",
+          "ex1": "Two rival labs accused each other of quietly training on the same scraped dataset. 两家竞争实验室互相指责对方偷偷用了同一批抓取来的数据训练模型。",
+          "ex2": "He stands accused of overstating results that no outside team has been able to reproduce. 他被指夸大了外部团队始终无法复现的实验结果。"
+        },
+        {
+          "w": "clandestine",
+          "ipa": "/klænˈdestɪn/",
+          "pos": "adj.",
+          "en": "clandestine means kept secret or done secretively, especially because it would not be approved of",
+          "zh": "本义为\"隐蔽的、暗中的\"，隐瞒语境核心义为\"因见不得光而刻意隐瞒的，较secret 多一层'不正当'的暗示\"",
+          "ctx": "clandestine uses of AI 指作家们私下使用AI却不予披露的行为——正是这种\"不可言说\"的属性，使得相关指控格外难以澄清。",
+          "ex1": "The two firms held clandestine talks for months before either board was informed. 在双方董事会知情之前，这两家公司已秘密谈了好几个月。",
+          "ex2": "Regulators are less worried about open experimentation than about clandestine deployment. 监管者担心的不是公开的试验，而是暗中的部署。"
+        }
+      ]
+    },
+    {
+      "en_html": "The situation might feel <mark class=\"voc\">unsettling</mark>, <mark class=\"voc\">validating</mark>, <mark class=\"voc\">preposterous</mark>, or even stupid, depending on your perspective. AI companies and <mark class=\"voc\">proponents</mark> have an <mark class=\"voc\">incentive</mark> to make the technology seem powerful, even threatening, because power <mark class=\"voc\">gives rise to</mark> profit. AI <mark class=\"voc\">detractors</mark> have reason to take the AI extinction threat seriously as evidence that those in charge are irresponsible and <mark class=\"voc\">reprobate</mark>. During the Cold War, <mark class=\"voc\">cloak-and-dagger</mark> <mark class=\"voc\">paranoia</mark> was spread by spies, agents of statecraft, <mark class=\"voc\">confidants</mark>, whistleblowers, and journalists—either as truth to power or as <mark class=\"voc\">crackpot</mark> <mark class=\"voc\">conspiracy theories</mark>. But today, in the internet age, conspiracy theories are everyone’s primary method of exchange.",
+      "zh": "这件事让你觉得不安、觉得被印证、觉得荒唐、还是干脆觉得愚蠢，全看你站在哪一边。AI公司和它的拥护者有充分的动机，把这项技术说得强大、甚至骇人——因为强大是会生出利润来的。而AI的批评者同样有理由把灭绝威胁当真：它正好可以拿来当证据，证明掌舵的那帮人既不负责任，又无可救药。冷战年代，那种斗篷与匕首式的疑神疑鬼，是由间谍、国家谋士、心腹、吹哨人和记者散播出去的——它们要么被奉为向权力说出的真话，要么被斥为疯子的阴谋论。可到了今天，在互联网时代，阴谋论已经成了所有人最主要的交流方式。",
+      "notes": [
+        {
+          "w": "unsettling",
+          "ipa": "/ʌnˈsetlɪŋ/",
+          "pos": "adj.",
+          "en": "unsettling means causing anxiety, unease or a loss of one's sense of stability",
+          "zh": "本义为un-（不）+ settle（沉降、安定），字面为\"使沉不下来的\"，心理感受语境核心义为\"把本已平静的心绪重新搅动起来、令人隐隐不安的\"",
+          "ctx": "作者列出的四种可能反应之首，对应那些真的被这条帖子惊动了的读者。",
+          "ex1": "There is something unsettling about a warning that its author cannot fully explain. 一则连发出者自己都解释不清的警告，总让人心里发毛。",
+          "ex2": "The quarter's numbers were fine; the tone of the call was what investors found unsettling. 这个季度的数字没问题，让投资者不安的是电话会议的语气。"
+        },
+        {
+          "w": "validating",
+          "ipa": "/ˈvælɪdeɪtɪŋ/",
+          "pos": "adj.（动词validate）",
+          "en": "validate means to confirm or corroborate that sth. is true, accurate or justified; validating means producing that sense of confirmation",
+          "zh": "本义为\"使有效、证实\"（源自valid 有效的），心理与舆论语境核心义为\"让某人原有的判断得到确认，从而产生'我早就说过'的满足感\"",
+          "ctx": "作者指出部分读者的反应并非恐惧，而是被印证的快感——这一细腻区分为后文\"两派都需要威胁成立\"的论断埋下伏笔。",
+          "ex1": "For critics who had warned about the sector for years, the collapse felt validating rather than frightening. 对那些多年来一直警告这个行业的人来说，这场崩盘与其说吓人，不如说是种印证。",
+          "ex2": "Independent testing later validated almost none of the company's headline claims. 后来的独立测试几乎没能证实该公司那些醒目的宣称。"
+        },
+        {
+          "w": "preposterous",
+          "ipa": "/prɪˈpɒstərəs/",
+          "pos": "adj.",
+          "en": "preposterous means utterly contrary to reason or common sense; absurd to the point of being laughable",
+          "zh": "本义源自拉丁语pre-（前）+ poster-（后），字面即\"前后颠倒、本末倒置\"，评价语境核心义为\"荒谬到违背基本常识的程度\"",
+          "ctx": "作者列出的第三种反应，对应那些认为\"AI十年灭世\"纯属无稽之谈的读者。",
+          "ex1": "What sounded preposterous in January was corporate strategy by December. 一月份听着还荒唐透顶的说法，到十二月已经成了公司战略。",
+          "ex2": "He dismissed the valuation as preposterous, then quietly bought in two quarters later. 他先是斥这个估值荒谬至极，两个季度后又悄悄买了进去。"
+        },
+        {
+          "w": "proponent",
+          "ipa": "/prəˈpəʊnənt/",
+          "pos": "n.",
+          "en": "a proponent means a person who advocates for or argues in favour of a particular theory, proposal or course of action",
+          "zh": "本义为pro-（向前）+ pon（放置），字面为\"把主张摆到前面的人\"，论辩语境核心义为\"某一立场的公开支持者与鼓吹者\"",
+          "ctx": "AI companies and proponents 指AI产业及其拥护阵营，与下一句的 detractors 构成全段的正反双方。",
+          "ex1": "She was an early proponent of open weights, long before the position became fashionable. 早在这种立场流行起来之前很久，她就是开放权重的支持者。",
+          "ex2": "Proponents argue that the technology pays for itself within three years. 支持者主张，这项技术三年之内就能收回成本。"
+        },
+        {
+          "w": "incentive",
+          "ipa": "/ɪnˈsentɪv/",
+          "pos": "n.",
+          "en": "an incentive means an external factor, typically involving reward or advantage, that motivates a person or organization to act in a particular way",
+          "zh": "本义为\"激发、鼓动\"（源自拉丁语incantare，字面\"唱起来以鼓舞\"），经济与行为分析语境核心义为\"由外部利益驱动的行为动机，区别于内生的motivation\"",
+          "ctx": "作者指出AI公司有把技术说得越危险越好的动机——因为\"强大\"直接转化为估值与利润；这是全文最冷静、也最有分量的一处判断。",
+          "ex1": "Bonus structures created a perverse incentive to book revenue that had not yet been earned. 奖金制度制造出一种扭曲的激励，促使人们把尚未实现的收入提前入账。",
+          "ex2": "Nobody in the debate has an incentive to argue that the risk is merely moderate. 在这场争论里，没有任何一方有动机去主张\"风险不过是中等\"。"
+        },
+        {
+          "w": "give rise to",
+          "ipa": "",
+          "pos": "固定短语",
+          "en": "give rise to sth. means to cause sth. to happen, appear or come into existence",
+          "zh": "本义为\"使……升起\"，因果论述语境核心义为\"引发、催生某种结果或现象，语体较cause 更为书面\"",
+          "ctx": "power gives rise to profit——强大会生出利润，这七个字是理解AI公司叙事动机的关键钥匙。",
+          "ex1": "The vague wording gave rise to three separate interpretations within a week. 含糊的措辞在一周内催生出三种不同解读。",
+          "ex2": "Cheap capital gave rise to an entire industry that could not survive without it. 廉价资本催生出一整个离开它就活不下去的行业。"
+        },
+        {
+          "w": "detractor",
+          "ipa": "/dɪˈtræktə(r)/",
+          "pos": "n.",
+          "en": "a detractor means a person who disparages sth. or seeks to diminish its reputation or value",
+          "zh": "本义为de-（向下）+ tract（拉），字面为\"往下拉的人\"，舆论语境核心义为\"某事物的批评者、贬低者、唱衰者，与proponent 正好相对\"",
+          "ctx": "作者指出批评阵营同样有动机让\"灭绝威胁\"成立——因为威胁越大，越能证明掌权者不负责任；两派因此在\"AI很危险\"这一点上达成隐秘共识。",
+          "ex1": "Two consecutive record quarters silenced most of his detractors, if not all. 连续两个创纪录的季度，让他的批评者大多闭了嘴，虽然不是全部。",
+          "ex2": "Detractors point to the same chart that supporters cite, and read it the other way round. 批评者拿出的正是支持者引用的那张图，只不过读法恰好相反。"
+        },
+        {
+          "w": "reprobate",
+          "ipa": "/ˈreprəbeɪt/",
+          "pos": "adj./n.",
+          "en": "reprobate means morally depraved and beyond hope of reform; a person of such character",
+          "zh": "本义源自re-（反）+ prob（检验、证明），字面为\"未通过检验的、被弃绝的\"，带有强烈的神学色彩，道德审判语境核心义为\"堕落到无可救药、不可救赎的\"",
+          "ctx": "作者刻意模仿批评阵营的道德审判口吻——在他们眼中，AI掌舵者不只是决策失误，而是从根上就坏了。",
+          "ex1": "The board treated him as a reprobate right up until the quarter he saved the company. 董事会一直把他当成无可救药的人，直到他挽救公司的那个季度为止。",
+          "ex2": "The language of the campaign was less political than theological: opponents were not wrong, they were reprobate. 这场运动的措辞与其说是政治的，不如说是神学的——对手不是错了，是坏透了。"
+        },
+        {
+          "w": "cloak-and-dagger",
+          "ipa": "/ˌkləʊk ən ˈdæɡə(r)/",
+          "pos": "adj.",
+          "en": "cloak-and-dagger means involving secrecy, intrigue and espionage, in the manner of a spy story",
+          "zh": "本义为\"斗篷与匕首\"（源自十七、十八世纪西班牙\"斗篷与剑\"戏剧，剧情多涉密谋、决斗与易容），氛围描写语境核心义为\"充满谍战气息的、神秘兮兮而鬼祟的\"",
+          "ctx": "指冷战时期那种由专业人士垄断传播的疑神疑鬼氛围，与今天人人皆可参与的阴谋论文化形成鲜明对照。",
+          "ex1": "The acquisition was handled with cloak-and-dagger secrecy, right down to code names for both companies. 这桩收购办得神神秘秘，连两家公司都各有代号。",
+          "ex2": "There was nothing cloak-and-dagger about the leak; someone simply forwarded the wrong email. 这次泄密一点也不神秘，不过是有人转错了封邮件。"
+        },
+        {
+          "w": "paranoia",
+          "ipa": "/ˌpærəˈnɔɪə/",
+          "pos": "n.",
+          "en": "paranoia means an unjustified or excessive suspicion and mistrust of others' motives",
+          "zh": "本义源自希腊语para-（偏离）+ nous（心智），字面即\"心智偏离常轨\"，社会心理语境核心义为\"疑神疑鬼、认定他人心怀恶意的普遍性猜疑\"",
+          "ctx": "指冷战年代那种由专业渠道散布的猜疑氛围；作者随后指出，这种氛围如今已经普及为所有人的日常思维方式。",
+          "ex1": "A climate of paranoia settled over the newsroom once the detection tool came into use. 检测工具一投入使用，整个编辑部就笼罩在一片猜疑的气氛里。",
+          "ex2": "Some paranoia is simply pattern recognition with the volume turned up. 有些疑神疑鬼，不过是把模式识别的音量调得太大了而已。"
+        },
+        {
+          "w": "confidant",
+          "ipa": "/ˈkɒnfɪdænt/",
+          "pos": "n.",
+          "en": "a confidant means a person to whom one entrusts private matters and secrets",
+          "zh": "本义源自confide（吐露秘密），信任关系语境核心义为\"可以托付私密之事的心腹知交\"",
+          "ctx": "冷战时期传播内幕猜疑的渠道之一；注意与confident\"自信的\"仅一字母之差，词义与词性均完全不同。",
+          "ex1": "For two decades he was the founder's closest confidant and held no formal title at all. 二十年间他都是创始人最亲近的心腹，却从没担任过任何正式职务。",
+          "ex2": "She had nobody to confide in during the investigation, which was arguably the point. 调查期间她没有一个能说心里话的人——这大概正是对方想要的效果。"
+        },
+        {
+          "w": "crackpot",
+          "ipa": "/ˈkrækpɒt/",
+          "pos": "adj./n.",
+          "en": "crackpot means eccentric, foolish or insane; a person with such absurd ideas",
+          "zh": "本义为crack（裂缝）+ pot（罐子），字面即\"裂了缝的罐子\"（装不住东西、会漏），评价语境核心义为\"脑子不太正常的、异想天开到不值一驳的\"",
+          "ctx": "crackpot conspiracy theories——冷战年代同样的内幕说法，要么被奉为向权力说出的真话，要么被斥为疯子的胡言，二者之间没有中间地带。",
+          "ex1": "Half the crackpot theories of the last decade turned out to be press releases in disguise. 过去十年里有一半所谓的疯狂理论，最后发现其实是伪装过的新闻稿。",
+          "ex2": "What was dismissed as a crackpot scheme in 2010 is now the industry standard. 2010年被当成异想天开的方案，如今已是行业标准。"
+        },
+        {
+          "w": "conspiracy theory",
+          "ipa": "/kənˈspɪrəsi/",
+          "pos": "固定短语",
+          "en": "a conspiracy theory means a belief that an event or situation is the result of a secret plot by powerful actors, typically without adequate evidence",
+          "zh": "本义中conspiracy 源自con-（一起）+ spir（呼吸），字面为\"凑得极近、共同呼吸地密谋\"，社会传播语境核心义为\"认定重大事件背后必有权势者密谋操纵的解释框架\"",
+          "ctx": "全段的落点：这种曾属边缘的思维方式，如今已成为互联网时代所有人默认的交流语法——我们不再问\"这是真的吗\"，而是直接问\"他为什么这时候说这个\"。",
+          "ex1": "Every delay in the investigation fuelled three new conspiracy theories. 调查每拖延一次，就会催生出三种新的阴谋论。",
+          "ex2": "The firm's refusal to comment achieved precisely what silence usually achieves. 这家公司拒绝置评，达成的效果恰恰是沉默通常会达成的那种。"
+        }
+      ]
+    },
+    {
+      "en_html": "Information’s <mark class=\"voc\">tendency</mark> to spread harmfully, like disease—the original meaning of media “<mark class=\"voc\">virality</mark>” facilitates further spread. Whether the threat Coxon has in mind is likely or even lucid is not important. Instead, the threat’s enticement has proved so <mark class=\"voc\">lurid</mark> that people feel <mark class=\"voc\">compelled</mark> to embrace it.",
+      "zh": "信息本就有一种像疾病那样、以有害方式扩散的倾向——这正是媒体口中\"病毒式传播\"的本义——而这种特性本身，又反过来推着它传得更远。考克森心里那个威胁究竟有多大可能、甚至究竟清不清楚，都不重要。重要的是，这个威胁的诱惑实在太刺眼、太勾人，勾得人们非把它一把抱住不可。",
+      "notes": [
+        {
+          "w": "tendency",
+          "ipa": "/ˈtendənsi/",
+          "pos": "n.",
+          "en": "a tendency means an inclination or a natural disposition to behave or develop in a particular way",
+          "zh": "本义为\"趋向、倾向\"（源自拉丁语tendere，伸展、朝向），行为与规律描述语境核心义为\"某事物固有的、反复表现出来的发展倾向\"",
+          "ctx": "Information's tendency to spread harmfully——信息本身就带有以有害方式扩散的内在倾向，这是作者将传播与传染病类比的立足点。",
+          "ex1": "Markets have a tendency to price certainty long before certainty actually arrives. 市场总有一种倾向：早在确定性真正到来之前，就先把它计入价格。",
+          "ex2": "He has a tendency to answer the question he wishes he had been asked. 他有个毛病，总是回答他希望别人问的那个问题。"
+        },
+        {
+          "w": "virality",
+          "ipa": "/vaɪˈræləti/",
+          "pos": "n.",
+          "en": "virality means the quality of spreading rapidly and widely from person to person, especially online",
+          "zh": "本义源自virus（病毒），字面即\"病毒性、传染性\"，媒介传播语境核心义为\"内容像传染病一样在人群中指数级扩散的属性\"",
+          "ctx": "我们用来赞美内容爆红的这个词，本是流行病学术语，其本义描述的是社会大面积感染；这一回扣也与副标题中的 going viral 首尾相接。",
+          "ex1": "Platforms optimise for virality, then express surprise at what turns out to be most viral. 平台以传播力为优化目标，然后又对什么东西最容易传开表示惊讶。",
+          "ex2": "Engineered virality almost always looks engineered, which is why it usually fails. 刻意制造的爆款，往往一眼就看得出是刻意的，所以多半也就失败了。"
+        },
+        {
+          "w": "lurid",
+          "ipa": "/ˈlʊərɪd/",
+          "pos": "adj.",
+          "en": "lurid means shockingly vivid or sensational, often involving violence or scandal; also, unpleasantly bright or garish in colour",
+          "zh": "本义为\"（颜色）惨白刺目、病态地亮\"，内容与媒介语境核心义为\"耸人听闻、血腥猎奇到令人不适却又移不开眼的\"",
+          "ctx": "末日威胁的诱惑之所以难以抗拒，正因为它同时具备\"刺激\"与\"令人不适\"两种属性，而这恰是最容易被大规模传播的内容特征。",
+          "ex1": "The report was accurate, but the lurid details were what travelled. 那篇报道属实，可真正传开的是里头那些骇人的细节。",
+          "ex2": "Beneath the lurid headline sat a rather ordinary regulatory filing. 在那个耸动的标题底下，其实只是一份平平无奇的监管申报文件。"
+        },
+        {
+          "w": "feel compelled to do sth.",
+          "ipa": "/kəmˈpeld/",
+          "pos": "固定短语",
+          "en": "feel compelled to do sth. means to feel that one has no choice but to do sth., as if driven by an irresistible force",
+          "zh": "本义中compel 源自com-（一起）+ pel（推），字面为\"推着走\"，心理驱动语境核心义为\"感到被某种外在力量推着、不得不做某事\"",
+          "ctx": "people feel compelled to embrace it——人们并非理性地接受这个威胁，而是被它的诱惑推着、忍不住去拥抱它。",
+          "ex1": "Two board members felt compelled to resign, though neither had done anything wrong. 两名董事觉得自己不得不辞职，尽管他们谁也没做错什么。",
+          "ex2": "The evidence was compelling enough that the opposing side stopped arguing about facts. 证据有力到对方不再就事实争辩。"
+        }
+      ]
+    },
+    {
+      "en_html": "That is different from saying that there is no threat. For example, the author Annie Jacobsen noted that the “superhuman system that can hack anything” that Coxon described could, in theory, hack the labs that store dangerous biological <mark class=\"voc\">agents</mark>. If “what’s inside gets released,” Jacobsen wrote, “it’s goodbye humans.”",
+      "zh": "这跟说\"根本不存在威胁\"，完全是两码事。举个例子：作家安妮·雅各布森就指出，考克森所描述的那种\"能黑穿一切的超人系统\"，理论上是有可能侵入那些存放着危险生物制剂的实验室的。\"里头的东西一旦跑了出来，\"她写道，\"人类就再见了。\"",
+      "notes": [
+        {
+          "w": "agent",
+          "ipa": "/ˈeɪdʒənt/",
+          "pos": "n.",
+          "en": "agent means a substance that produces a particular chemical or biological effect; also, a person who acts on behalf of another, or a program that acts autonomously",
+          "zh": "本义源自拉丁语ag-（to do，行动），字面为\"发挥作用者\"，科技与生化语境核心义为\"能产生特定作用的物质、制剂\"",
+          "ctx": "dangerous biological agents 指存放于实验室中的危险生物制剂；同一个词在本文另一处指\"智能体\"——同词多义，共享\"那个起作用的东西\"这一内核。",
+          "ex1": "The compound works as a bonding agent at temperatures where conventional adhesives fail. 在传统黏合剂失效的温度下，这种化合物仍能起到黏合剂的作用。",
+          "ex2": "Whether an AI agent counts as a tool or an actor is now a live legal question. AI智能体究竟算工具还是算行为主体，如今已是一个真实的法律问题。"
+        }
+      ]
+    },
+    {
+      "en_html": "Thinking of AI as a dangerous superintelligence capable of eradicating civilization is much more fulfilling than pondering the threat of a cluster of <mark class=\"voc\">haphazard</mark> computer programs. We will probably never reclaim, if that is the right word for it, the <mark class=\"voc\">lucidity</mark> of threat we felt at the Cold War’s climax. We do seem to <mark class=\"voc\">long for</mark> that clarity, and the yearning for it has inspired us to <mark class=\"voc\">patch back together</mark> some of its structure. The most satisfying dream of humankind is to be alive to witness its end. “I caused it” and “I prevented it” and “I tried to warn you” <mark class=\"voc\">amount to</mark> equally appealing versions of that fantasy. <mark class=\"voc\">Even “I posted about it” feels pretty good.</mark>",
+      "zh": "把AI想象成一个足以铲平文明的危险超级智能，远比琢磨\"一堆胡乱拼凑的电脑程序能有什么风险\"来得过瘾。冷战最紧张那些年里，我们曾对威胁有过一种清清楚楚的感觉——那种清晰，我们大概再也找不回来了，如果\"找回\"这个词用得还算贴切的话。可我们确实在思念它；而正是这份思念，驱使我们把那套结构一块一块地又拼补了回来。人类最令人满足的那个梦，从来都是：活着，亲眼看着人类走到尽头。\"是我造成的\"、\"是我阻止的\"、\"我早就警告过你们\"——说到底，不过是同一个幻想同样诱人的三个版本。甚至连\"我为这事发过帖\"，感觉都还挺不错。",
+      "notes": [
+        {
+          "w": "haphazard",
+          "ipa": "/hæpˈhæzəd/",
+          "pos": "adj.",
+          "en": "haphazard means lacking any obvious order, plan or system; done or assembled at random",
+          "zh": "本义为hap（运气、偶然）+ hazard（机遇、风险）两个\"偶然\"义词的叠加，字面即\"全凭碰巧的\"，评价语境核心义为\"毫无章法、随意拼凑、没有统一设计的\"",
+          "ctx": "a cluster of haphazard computer programs——作者给出的\"不令人满足的那个版本\"：AI不过是一堆胡乱拼凑的程序，这个版本或许更接近事实，却因为里面没有人类的角色而无人愿意相信。",
+          "ex1": "Decades of haphazard expansion left the network with four incompatible ticketing systems. 几十年杂乱无章的扩张，让这个网络留下了四套互不兼容的售票系统。",
+          "ex2": "What looks like strategy from outside is often haphazard improvisation from inside. 从外面看像是战略的东西，从里面看往往只是随机应变。"
+        },
+        {
+          "w": "lucidity",
+          "ipa": "/luːˈsɪdəti/",
+          "pos": "n.",
+          "en": "lucidity means clarity of expression or thought; the quality of being easy to understand",
+          "zh": "本义源自luc（光），字面为\"明亮、通透\"，认知语境核心义为\"对事物有清晰明确的把握，知道它是什么、会怎样发生\"",
+          "ctx": "the lucidity of threat we felt at the Cold War's climax——我们怀念的从来不是那个年代的安全，而是那种\"知道自己会怎么死\"的清楚，而这正是AI威胁无法提供的。",
+          "ex1": "He explained the collapse with a lucidity that his own regulators had never managed. 他把那场崩盘解释得清清楚楚，连他自己的监管者都从没做到过。",
+          "ex2": ""
+        },
+        {
+          "w": "long for",
+          "ipa": "/lɒŋ/",
+          "pos": "固定短语",
+          "en": "long for sth. means to have a strong, persistent desire for sth., especially something absent or unattainable",
+          "zh": "本义中long 作动词意为\"渴望、企盼\"（与形容词\"长的\"同形异义），情感语境核心义为\"持久而强烈地思念一件得不到的东西\"",
+          "ctx": "We do seem to long for that clarity——同一句里连用 long for 与 yearning 两个\"渴望\"，刻意加重；此处与第3段的 pine for 遥相呼应。",
+          "ex1": "Traders who complained endlessly about volatility now long for it. 那些当初没完没了抱怨波动的交易员，如今反倒开始想念波动了。",
+          "ex2": "She longed to be told the plan had always been this chaotic. 她多希望有人告诉她，这套计划从一开始就这么乱。"
+        },
+        {
+          "w": "patch back together",
+          "ipa": "/pætʃ/",
+          "pos": "固定短语",
+          "en": "patch sth. back together means to repair or reassemble sth. broken in a makeshift, imperfect way, using whatever is available",
+          "zh": "本义为\"打补丁、用布块缝补\"，修复语境核心义为\"以拼凑、勉强的方式把已经破碎的东西重新接合起来，明显区别于rebuild（重建）或restore（复原）\"",
+          "ctx": "我们并非遭遇了一个全新的威胁，而是把冷战那套旧的恐惧结构拆下来、以AI为材料勉强重新粘合了一个，与第2段的 worn fantasies 首尾呼应。",
+          "ex1": "Negotiators patched together a deal at four in the morning that nobody expected to survive the summer. 谈判者在凌晨四点拼凑出一份协议，谁都没指望它能撑过这个夏天。",
+          "ex2": ""
+        },
+        {
+          "w": "amount to",
+          "ipa": "",
+          "pos": "固定短语",
+          "en": "amount to sth. means to be equivalent to sth. in effect or substance; to add up to a total",
+          "zh": "本义为\"总计达到\"，论断语境核心义为\"表面上是不同的东西，实质上等同于同一件事\"",
+          "ctx": "三句看似对立的宣言——\"是我造成的\"\"是我阻止的\"\"我早就警告过你们\"——实质上只是同一个幻想的三个版本：我在场，而且我很重要。",
+          "ex1": "Their three-page response amounts to a refusal without ever using the word. 他们那份三页纸的回复，通篇没用过\"拒绝\"二字，实际上就是拒绝。",
+          "ex2": "The various proposals amount to the same thing, dressed in four different vocabularies. 这几份提案说到底是同一个东西，只是换了四套说法。"
+        },
+        {
+          "w": "Even \"I posted about it\" feels pretty good.",
+          "ipa": "",
+          "pos": "全文落句",
+          "en": "a deliberately colloquial closing line, in which the register drops sharply from grand declarations to casual understatement",
+          "zh": "作者在三句分量极重的排比（\"我造成的\"\"我阻止的\"\"我警告过\"）之后，以一句近乎懒散的口语收尾——pretty good（还挺不错）。语域的急剧下坠制造出落差与反讽：从\"我参与了人类的命运\"一路滑到\"我在手机上打了几行字\"。",
+          "ctx": "全文的落锤，其锋芒并不指向Coxon，而指向那一亿五千万次点击中的每一个人——指向每一个在转发的瞬间，隐隐感到自己\"参与了历史\"的读者。",
+          "ex1": "",
+          "ex2": ""
+        }
+      ]
+    }
+  ],
+  "proper": [
+    {
+      "name": "Anthropic / 安思罗匹克（常直接称 Anthropic）",
+      "def": "美国人工智能公司，核心产品为AI助手Claude，与OpenAI同属前沿大模型赛道的直接竞争对手，业内长期以\"最重视AI安全\"著称。<br>本文中的意思：Jacob Coxon辞职前所在的公司；它\"安全优先\"的公众形象与\"内部研究员公开指责其在拿人类的命赌博\"，构成本文的核心反讽之一。"
+    },
+    {
+      "name": "Albuquerque / New Mexico（阿尔伯克基 / 新墨西哥州）",
+      "def": "阿尔伯克基是美国新墨西哥州最大城市。新墨西哥州是美国核武器工业的发源地与核心区：1945年人类首次核试验\"三位一体\"在该州沙漠进行，曼哈顿工程的核心基地洛斯阿拉莫斯国家实验室位于此，核武器研发重镇桑迪亚国家实验室（得名于文中提到的桑迪亚山脉）就在阿尔伯克基。<br>本文中的意思：交代了父亲那句\"留神蘑菇云\"并非胡思乱想，而是核工业腹地居民的日常心理底色。"
+    },
+    {
+      "name": "Jacob Coxon（雅各布·考克森）",
+      "def": "27岁的英国数学家与AI研究员，剑桥大学出身，过去三年先后在OpenAI与Anthropic从事模型预训练研究。2026年9月9日在社交平台X上宣布从Anthropic辞职，称两家公司\"都在直奔自我改进的超级智能狂奔，拿我们所有人的命赌博\"。<br>本文中的意思：全文的引子人物与分析对象；作者不评价他说得对不对，而是追问\"为什么偏偏是他这条帖子火了\"。"
+    },
+    {
+      "name": "9/11（9·11事件）",
+      "def": "2001年9月11日美国发生的系列恐怖袭击事件，是二十世纪末以来最具标志性的集体创伤记忆之一。<br>本文中的意思：仅作为时间坐标与情绪背景使用——其二十五周年恰在本周临近（2001+25=2026），为作者当时的\"末日思绪\"提供了现实语境，也与第6段\"为什么这条帖子偏偏此刻引爆\"的分析相呼应。"
+    },
+    {
+      "name": "the Terminator films（《终结者》系列电影）",
+      "def": "始于1984年的好莱坞科幻电影系列。核心设定为：名为\"天网\"（Skynet）的人工智能系统产生自我意识后判定人类为威胁，发动核战争并派遣金属骨架的机器人杀手追杀人类。<br>本文中的意思：作者以它为例说明，大众心中\"AI毁灭人类\"的默认画面其实是流行文化在数十年前预先安装好的——动机单一、形象具体、威胁一目了然，而这恰与现实AI风险的模糊、间接形成鲜明反差。"
+    },
+    {
+      "name": "gelato（意式冰淇淋）",
+      "def": "源自意大利的冷冻甜点，与普通冰淇淋相比脂肪含量更低、搅打入的空气更少，因此质地更绵密，通常在略高的温度下供应，对糖的配比要求也更为讲究。<br>本文中的意思：作者当天上午让AI协助计算配方中各种糖的用量——一个琐碎、家常、与末日毫不相干的用途，正是靠这个具体到\"几克糖\"的细节，作者才在下午\"AI变成死神\"的说法上完成了最辛辣的一击。"
+    },
+    {
+      "name": "Wired（《连线》杂志）",
+      "def": "美国知名科技媒体，创刊于1993年，长期聚焦技术如何改变文化、经济与政治，在科技报道领域具有高度影响力。<br>本文中的意思：Coxon接受深度专访的媒体。作者引用这次采访，正是为了呈现一个关键细节——面对专业记者的追问，他无法说清AI究竟将如何终结文明。"
+    },
+    {
+      "name": "Pangram（AI文本检测工具）",
+      "def": "由美国一家公司开发的AI写作检测工具，用于判定一段文本是否由大语言模型生成。近两年在英文出版与写作界引发大量争议：曾有获奖短篇小说被判定为AI生成，导致主办方回溯检测历届获奖作品；亦有研究者用它扫描逾一万四千部自出版小说，发现近两成存在明显AI痕迹。<br>本文中的意思：这场\"文化论战掉头咬住自己\"的具体导火索——围绕它的争吵，把一场本应是\"人类对抗AI\"的战争变成了写作者彼此指认的内部清算。"
+    },
+    {
+      "name": "Kelsey Piper（凯尔西·派珀）",
+      "def": "美国记者、评论作者，长期关注人工智能、有效利他主义等议题。她曾撰文为Pangram辩护，并提出一个极具争议的论点：那些最激烈反对AI检测工具的人，往往正是最有可能自己在隐秘使用AI的人。<br>本文中的意思：作者将她的这一指控列为引爆Coxon帖子的\"四阵风\"之一——它营造出的猜疑氛围，使整个文化圈在那一周处于\"AI已渗透进我们中间\"的高度警觉状态。"
+    },
+    {
+      "name": "the Navier-Stokes problem / Millennium Prize Problems（纳维-斯托克斯问题 / 千禧年七大难题）",
+      "def": "千禧年七大难题是克雷数学研究所于2000年公布的七个数学难题，每题悬赏一百万美元，至今仅有庞加莱猜想一题被解决。纳维-斯托克斯问题涉及描述流体运动的方程组，悬置约两百年。2026年9月8日，OpenAI宣称其内部模型在约88小时内完成求解。<br>本文中的意思：Coxon发帖前一天发生的重大事件，是\"四阵风\"中最关键的一阵——前一天公众刚被\"AI强得离谱\"震动，次日就有内部人士警告\"它会杀死你\"。"
+    },
+    {
+      "name": "the Cold War（冷战）",
+      "def": "指第二次世界大战结束后至1991年间，以美国和苏联为首的两大阵营长期对峙的国际格局。双方始终未爆发直接大规模军事冲突，故称\"冷\"战，但在军备竞赛、情报战与意识形态宣传等领域激烈角力。<br>本文中的意思：作者以之作为传播方式的历史参照——在那个年代，内幕与猜疑由间谍、外交官、心腹、吹哨人与记者这一小撮拥有渠道的人垄断传播；而今天同样的猜疑人人可传，这正是那条帖子能触达全球百分之二人口的结构性原因。"
+    },
+    {
+      "name": "Annie Jacobsen（安妮·雅各布森）",
+      "def": "美国纪实作家、调查记者，长期专注于核战争、国防机密项目与情报机构题材，代表作之一以\"逐分钟推演一场核战争全过程\"的写法引发广泛讨论。她并非人工智能领域从业者。<br>本文中的意思：作者刻意引入的圈外第三方——她既不持有AI公司的利益，也不以批评AI为业，因此她那条\"AI无需自行制造什么、只需入侵某些地方即可\"的论证路径，才具备前文各方都不具备的可信度。"
+    }
+  ],
+  "sources_note": "本文选自 The Atlantic 2026 年 9 月 12 日文章《Everybody Wants AI to Destroy the World》，由《早安英文》讲解。",
+  "practice": {
+    "intro": "把下面三句翻译成英文，注意划线表达。",
+    "items": [
+      "核武器带来的毁灭威胁简单而好解释：一枚弹头就能把整座城市夷为平地。",
+      "与其说考克森是个吹哨人，不如说他只是个发帖的；他说出的是一个相当常见的看法，只不过碰巧赶上了风。",
+      "AI公司和它的拥护者有充分的动机，把这项技术说得强大、甚至骇人，因为强大会生出利润来。"
+    ],
+    "critical_en": "We will probably never reclaim, if that is the right word for it, the lucidity of threat we felt at the Cold War’s climax.",
+    "critical_zh": "冷战最紧张那些年里，我们曾对威胁有过一种清清楚楚的感觉——那种清晰，我们大概再也找不回来了，如果\"找回\"这个词用得还算贴切的话。",
+    "answer": "1. The threat of annihilation from nuclear weapons is simple and easy to explain. For one part, a single warhead can level an entire city.<br><br>2. Coxon is less a whistleblower than a poster; he posted a fairly common sentiment that just happened to catch wind.<br><br>3. AI companies and proponents have an incentive to make the technology seem powerful, even threatening, because power gives rise to profit.<br><br>三句共用同一套骨架：把威胁说成直观、常见、有利可图的东西——越直观越可信，越可信越好传。"
+  },
+  "mindmap": {
+    "aria": "人人都想AI毁灭世界思维导图",
+    "alt": "人人巴不得AI毁灭世界（手绘版）",
+    "svg": "<svg viewBox=\"0 0 960 720\" xmlns=\"http://www.w3.org/2000/svg\" role=\"img\" aria-label=\"人人都想AI毁灭世界思维导图\" style=\"width:100%;height:auto;font-family:-apple-system,'PingFang SC','Hiragino Sans GB','Microsoft YaHei',sans-serif\">\n        <rect x=\"24\" y=\"306\" width=\"176\" height=\"88\" rx=\"14\" fill=\"#eae3d2\" stroke=\"#9a8f76\"/>\n        <text x=\"112\" y=\"342\" text-anchor=\"middle\" fill=\"#3d3a34\" font-size=\"17\" font-weight=\"700\">人人都想AI灭世</text>\n        <text x=\"112\" y=\"368\" text-anchor=\"middle\" fill=\"#5c5648\" font-size=\"12.5\">末日幻想为何刷屏</text>\n\n        <path d=\"M200,350 C232,350 232,88 260,88\"  stroke=\"#6b8f71\" stroke-width=\"2\" fill=\"none\"/>\n        <path d=\"M200,350 C232,350 232,238 260,238\" stroke=\"#7d98ad\" stroke-width=\"2\" fill=\"none\"/>\n        <path d=\"M200,350 C232,350 232,433 260,433\" stroke=\"#bd7a6d\" stroke-width=\"2\" fill=\"none\"/>\n        <path d=\"M200,350 C232,350 232,628 260,628\" stroke=\"#9b86b3\" stroke-width=\"2\" fill=\"none\"/>\n\n        <g class=\"mm-branch\" data-target=\"bc1\">\n          <rect x=\"260\" y=\"71\" width=\"190\" height=\"34\" rx=\"8\" fill=\"#e6efe7\" stroke=\"#6b8f71\"/>\n          <text x=\"349\" y=\"93\" text-anchor=\"middle\" fill=\"#4c6b52\" font-size=\"15\" font-weight=\"700\">末日旧梦（¶1–3）</text>\n          <text class=\"mm-arrow\" data-for=\"bc1\" x=\"442\" y=\"93\" text-anchor=\"end\" fill=\"#4c6b52\">▾</text>\n        </g>\n        <g class=\"mm-children\" id=\"bc1\">\n          <path d=\"M450,88 C462,88 462,46 480,46\" stroke=\"#6b8f71\" stroke-width=\"1.5\" fill=\"none\"/>\n          <path d=\"M450,88 C462,88 462,88 480,88\" stroke=\"#6b8f71\" stroke-width=\"1.5\" fill=\"none\"/>\n          <path d=\"M450,88 C462,88 462,130 480,130\" stroke=\"#6b8f71\" stroke-width=\"1.5\" fill=\"none\"/>\n          <rect x=\"480\" y=\"30\" width=\"456\" height=\"32\" rx=\"8\" fill=\"#e6efe7\"/><text x=\"492\" y=\"51\" fill=\"#3d3a34\" font-size=\"14\">父亲开车过山口，叮嘱母亲留意蘑菇云</text>\n          <rect x=\"480\" y=\"72\" width=\"456\" height=\"32\" rx=\"8\" fill=\"#e6efe7\"/><text x=\"492\" y=\"93\" fill=\"#3d3a34\" font-size=\"14\">Coxon辞职：AI可能十年内杀死所有人</text>\n          <rect x=\"480\" y=\"114\" width=\"456\" height=\"32\" rx=\"8\" fill=\"#e6efe7\"/><text x=\"492\" y=\"135\" fill=\"#3d3a34\" font-size=\"14\">末日幻想是二十世纪最有分量的象征之一</text>\n        </g>\n\n        <g class=\"mm-branch\" data-target=\"bc2\">\n          <rect x=\"260\" y=\"221\" width=\"190\" height=\"34\" rx=\"8\" fill=\"#e5edf4\" stroke=\"#7d98ad\"/>\n          <text x=\"349\" y=\"243\" text-anchor=\"middle\" fill=\"#3d5872\" font-size=\"15\" font-weight=\"700\">威胁之辨（¶4–5）</text>\n          <text class=\"mm-arrow\" data-for=\"bc2\" x=\"442\" y=\"243\" text-anchor=\"end\" fill=\"#3d5872\">▾</text>\n        </g>\n        <g class=\"mm-children\" id=\"bc2\">\n          <path d=\"M450,238 C462,238 462,196 480,196\" stroke=\"#7d98ad\" stroke-width=\"1.5\" fill=\"none\"/>\n          <path d=\"M450,238 C462,238 462,238 480,238\" stroke=\"#7d98ad\" stroke-width=\"1.5\" fill=\"none\"/>\n          <path d=\"M450,238 C462,238 462,280 480,280\" stroke=\"#7d98ad\" stroke-width=\"1.5\" fill=\"none\"/>\n          <rect x=\"480\" y=\"180\" width=\"456\" height=\"32\" rx=\"8\" fill=\"#e5edf4\"/><text x=\"492\" y=\"201\" fill=\"#3d3a34\" font-size=\"14\">核威胁直观：一枚弹头就能夷平整座城市</text>\n          <rect x=\"480\" y=\"222\" width=\"456\" height=\"32\" rx=\"8\" fill=\"#e5edf4\"/><text x=\"492\" y=\"243\" fill=\"#3d3a34\" font-size=\"14\">AI威胁朦胧：连他都说不清究竟怎么杀人</text>\n          <rect x=\"480\" y=\"264\" width=\"456\" height=\"32\" rx=\"8\" fill=\"#e5edf4\"/><text x=\"492\" y=\"285\" fill=\"#3d3a34\" font-size=\"14\">上午还在算冰淇淋配方，下午就成了死神</text>\n        </g>\n\n        <g class=\"mm-branch\" data-target=\"bc3\">\n          <rect x=\"260\" y=\"416\" width=\"190\" height=\"34\" rx=\"8\" fill=\"#f4e7e4\" stroke=\"#bd7a6d\"/>\n          <text x=\"349\" y=\"438\" text-anchor=\"middle\" fill=\"#7c4a3e\" font-size=\"15\" font-weight=\"700\">为何爆火（¶6–7）</text>\n          <text class=\"mm-arrow\" data-for=\"bc3\" x=\"442\" y=\"438\" text-anchor=\"end\" fill=\"#7c4a3e\">▾</text>\n        </g>\n        <g class=\"mm-children\" id=\"bc3\">\n          <path d=\"M450,433 C462,433 462,391 480,391\" stroke=\"#bd7a6d\" stroke-width=\"1.5\" fill=\"none\"/>\n          <path d=\"M450,433 C462,433 462,433 480,433\" stroke=\"#bd7a6d\" stroke-width=\"1.5\" fill=\"none\"/>\n          <path d=\"M450,433 C462,433 462,475 480,475\" stroke=\"#bd7a6d\" stroke-width=\"1.5\" fill=\"none\"/>\n          <rect x=\"480\" y=\"375\" width=\"456\" height=\"32\" rx=\"8\" fill=\"#f4e7e4\"/><text x=\"492\" y=\"396\" fill=\"#3d3a34\" font-size=\"14\">他不是吹哨人，只是赶上了风口的发帖人</text>\n          <rect x=\"480\" y=\"417\" width=\"456\" height=\"32\" rx=\"8\" fill=\"#f4e7e4\"/><text x=\"492\" y=\"438\" fill=\"#3d3a34\" font-size=\"14\">公司要把技术说得强，因为强才生出利润</text>\n          <rect x=\"480\" y=\"459\" width=\"456\" height=\"32\" rx=\"8\" fill=\"#f4e7e4\"/><text x=\"492\" y=\"480\" fill=\"#3d3a34\" font-size=\"14\">批评者也要威胁成立，好证明掌权者失职</text>\n        </g>\n\n        <g class=\"mm-branch\" data-target=\"bc4\">\n          <rect x=\"260\" y=\"611\" width=\"190\" height=\"34\" rx=\"8\" fill=\"#ece4f2\" stroke=\"#9b86b3\"/>\n          <text x=\"349\" y=\"633\" text-anchor=\"middle\" fill=\"#5a4670\" font-size=\"15\" font-weight=\"700\">渴望在场（¶8–10）</text>\n          <text class=\"mm-arrow\" data-for=\"bc4\" x=\"442\" y=\"633\" text-anchor=\"end\" fill=\"#5a4670\">▾</text>\n        </g>\n        <g class=\"mm-children\" id=\"bc4\">\n          <path d=\"M450,628 C462,628 462,586 480,586\" stroke=\"#9b86b3\" stroke-width=\"1.5\" fill=\"none\"/>\n          <path d=\"M450,628 C462,628 462,628 480,628\" stroke=\"#9b86b3\" stroke-width=\"1.5\" fill=\"none\"/>\n          <path d=\"M450,628 C462,628 462,670 480,670\" stroke=\"#9b86b3\" stroke-width=\"1.5\" fill=\"none\"/>\n          <rect x=\"480\" y=\"570\" width=\"456\" height=\"32\" rx=\"8\" fill=\"#ece4f2\"/><text x=\"492\" y=\"591\" fill=\"#3d3a34\" font-size=\"14\">信息像疾病扩散，病毒式传播又推它一把</text>\n          <rect x=\"480\" y=\"612\" width=\"456\" height=\"32\" rx=\"8\" fill=\"#ece4f2\"/><text x=\"492\" y=\"633\" fill=\"#3d3a34\" font-size=\"14\">实验室里的生物制剂，才是真正的软肋</text>\n          <rect x=\"480\" y=\"654\" width=\"456\" height=\"32\" rx=\"8\" fill=\"#ece4f2\"/><text x=\"492\" y=\"675\" fill=\"#3d3a34\" font-size=\"14\">最满足的梦，是活着亲眼看见人类终结</text>\n        </g>\n      </svg>",
+    "img": ""
+  }
+}

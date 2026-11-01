@@ -1,0 +1,367 @@
+{
+  "date": "2026-09-13",
+  "title_tag": "“9·11”25周年：改变美国的一天！如何催生了特朗普的“帝王式总统制”？—— 英国《经济学人》外刊讲解第1166天",
+  "h1": "“9·11”25周年：改变美国的一天！如何催生了特朗普的“帝王式总统制”？",
+  "source_label": "The Economist",
+  "category": "经济学人外刊讲解 第1166天",
+  "read_minutes": 18,
+  "nav_hint": "How counterterrorism empowered Trump",
+  "headline": {
+    "en_html": "<span>How <mark class=\"voc\">counterterrorism</mark> has empowered Donald Trump's <mark class=\"voc\">imperial</mark> presidency</span>",
+    "zh": "反恐如何成就了特朗普的帝王式总统权力",
+    "notes": [
+      {
+        "w": "counterterrorism",
+        "ipa": "/ˌkaʊntəˈterərɪzəm/",
+        "pos": "n.",
+        "en": "political or military actions taken to prevent or fight terrorism",
+        "zh": "反恐，反恐怖主义",
+        "ctx": "指美国自九一一事件后建立的一整套反恐体系与行动（包括战争授权、监控、情报机构等），文中强调这套体系至今仍在运作并被特朗普挪作他用",
+        "ex1": "The government allocated billions of dollars to counterterrorism after the bombing. 爆炸事件后，政府拨款数十亿美元用于反恐。",
+        "ex2": "She spent a decade working in counterterrorism for the intelligence agency. 她在情报机构从事反恐工作长达十年。"
+      },
+      {
+        "w": "imperial",
+        "ipa": "/ɪmˈpɪəriəl/",
+        "pos": "adj.",
+        "en": "relating to an empire or its ruler; (of power) exercised in a domineering, unrestricted manner",
+        "zh": "帝国的；帝王般的，专横的",
+        "ctx": "形容总统权力膨胀如帝王般不受约束（“imperial presidency”指总统权力凌驾于立法和司法之上的现象，此处暗讽特朗普借反恐权力扩张行政权）",
+        "ex1": "Critics argued that the president's imperial style undermined the checks and balances of government. 批评者认为总统帝王般的作风削弱了政府的制衡机制。",
+        "ex2": "The company's CEO ran the business with an imperial disregard for his board's opinions. 这家公司的首席执行官以帝王般的姿态经营企业，全然不顾董事会的意见。"
+      }
+    ]
+  },
+  "paragraphs": [
+    {
+      "en_html": "Twenty-five years after 9/11, the share of people with no direct <mark class=\"voc\">recollection</mark> of the attacks is rising; just over 100m Americans, roughly a third of the population, were not alive at the time. Yet the counter-terror <mark class=\"voc\">apparatus</mark> that President George W. Bush and Congress enacted in response—<mark class=\"voc\">hastily</mark> drafted legal authorities to <mark class=\"voc\">wage</mark> war, surveillance powers, permissive CIA operations and new <mark class=\"voc\">bureaucracies</mark>—remains largely in place, even as the threat of jihadist violence has <mark class=\"voc\">receded</mark>.",
+      "zh": "九一一事件过去二十五年后，对其毫无直接记忆的人群比例正不断攀升；约一亿出头美国人——差不多占总人口三分之一——在事发时尚未出生。然而，乔治·W·布什总统与国会当年为应对恐袭而仓促搭建的反恐机器——草草拟就的战争授权、监控权、中情局宽松的行动权限，以及新设的官僚机构——至今大体原封未动，尽管圣战暴力的威胁已然消退。",
+      "notes": [
+        {
+          "w": "recollection",
+          "ipa": "/ˌrekəˈlekʃn/",
+          "pos": "n.",
+          "en": "the act of remembering something; a memory of something",
+          "zh": "记忆，回忆",
+          "ctx": "指对九一一事件的直接记忆（“people with no direct recollection”即对那次袭击毫无亲身记忆的人）",
+          "ex1": "Her recollection of that summer had faded with the passing years. 随着岁月流逝，她对那个夏天的记忆已经模糊了。",
+          "ex2": "He has no recollection of the accident after the crash. 撞车之后的事情他完全没有记忆。"
+        },
+        {
+          "w": "apparatus",
+          "ipa": "/ˌæpəˈreɪtəs/",
+          "pos": "n.",
+          "en": "a complex system of organizations, equipment, or people organized for a particular purpose",
+          "zh": "机构，体系，机器",
+          "ctx": "指美国为反恐建立的整套法律授权、监控权力和官僚机构（“the counter-terror apparatus”即反恐机器/反恐体系）",
+          "ex1": "The country built an elaborate surveillance apparatus to monitor its citizens. 该国建立了一套精密的监控体系来监视公民。",
+          "ex2": "Reforming the state's bureaucratic apparatus proved far harder than expected. 改革这个国家的官僚体系远比预想的困难。"
+        },
+        {
+          "w": "hastily",
+          "ipa": "/ˈheɪstɪli/",
+          "pos": "adv.",
+          "en": "quickly, often too quickly and without enough thought",
+          "zh": "仓促地，草率地",
+          "ctx": "修饰“drafted”，指九一一后国会仓促起草法律授权，暗含批评——这些权力是在恐慌中未经深思熟虑就通过的",
+          "ex1": "The report was hastily written and full of errors. 这份报告写得仓促，错误百出。",
+          "ex2": "They hastily arranged the meeting without consulting all the stakeholders. 他们没有咨询所有利益相关方就匆忙安排了会议。"
+        },
+        {
+          "w": "wage",
+          "ipa": "/weɪdʒ/",
+          "pos": "v.",
+          "en": "to carry on, engage in (a war, campaign, etc.)",
+          "zh": "发动，进行（战争、运动等）",
+          "ctx": "指发动战争（“to wage war”即发动战争，文中指国会授予总统发动战争的权力）",
+          "ex1": "The rebels waged a long guerrilla campaign against the government. 叛军对政府发动了长期的游击战。",
+          "ex2": "The charity has waged a tireless campaign against child poverty. 该慈善机构为消除儿童贫困开展了不懈的斗争。"
+        },
+        {
+          "w": "bureaucracy",
+          "ipa": "/bjʊəˈrɒkrəsi/",
+          "pos": "n.",
+          "en": "a system of government in which decisions are made by officials rather than elected representatives; the officials themselves",
+          "zh": "官僚机构，官僚体制",
+          "ctx": "指九一一后新建的政府机构（如国土安全部等），文中带有“机构臃肿、权力扩张”的意味",
+          "ex1": "Small businesses often struggle with the sheer volume of government bureaucracy. 小企业常常被繁重的政府官僚程序搞得焦头烂额。",
+          "ex2": "The new administration promised to cut unnecessary bureaucracy. 新政府承诺削减不必要的官僚机构。"
+        },
+        {
+          "w": "recede",
+          "ipa": "/rɪˈsiːd/",
+          "pos": "v.",
+          "en": "to gradually decrease, weaken, or move away",
+          "zh": "消退，减弱，远去",
+          "ctx": "指圣战暴力威胁已经逐渐消退（“the threat of jihadist violence has receded”），但反恐体制却纹丝未动",
+          "ex1": "As the floodwaters receded, residents began to assess the damage. 洪水退去后，居民们开始评估损失。",
+          "ex2": "The pain in his back slowly receded over the following weeks. 接下来几周，他背部的疼痛慢慢消退了。"
+        }
+      ]
+    },
+    {
+      "en_html": "Donald Trump’s <mark class=\"voc\">adaptation</mark> of these powers may at last be <mark class=\"voc\">seeding</mark> a debate about correcting the <mark class=\"voc\">overreach</mark>. According to a new YouGov poll, 48% of Americans believe the <mark class=\"voc\">expeditionary</mark> wars and surveillance that followed 9/11 have been worth the cost. But only 37% of Democrats agree, compared with 71% of Republicans. Talk of reform is growing in some Democratic circles. “We have an opportunity to <mark class=\"voc\">rein in</mark> some of these authorities and remake agencies that have been abused,” says Dan Herman of the Centre for America Progress, a Democrat-aligned think-tank.",
+      "zh": "特朗普对这些权力的挪用，或许终于催生了一场关于纠正权力越界的辩论。YouGov最新民调显示，48%的美国人认为九一一之后的远征战争与监控措施代价尚值。但民主党人中仅37%持此看法，共和党人则高达71%。在一些民主党圈子里，改革之声渐起。“我们有机会约束其中一些权力，并重塑那些已被滥用的机构，”民主党倾向的智库美国进步中心的丹·赫尔曼说道。",
+      "notes": [
+        {
+          "w": "adaptation",
+          "ipa": "/ˌædæpˈteɪʃn/",
+          "pos": "n.",
+          "en": "the act of changing something to make it suitable for a new purpose or situation",
+          "zh": "改造，改编，挪用",
+          "ctx": "指特朗普对反恐权力的“改造挪用”（暗含讽刺——他不是改革这些权力，而是把它们转而用于其他目的）",
+          "ex1": "The film is an adaptation of a popular novel. 这部电影改编自一部畅销小说。",
+          "ex2": "The adaptation of traditional farming methods to modern conditions has been challenging. 将传统耕作方法改造以适应现代条件一直颇具挑战。"
+        },
+        {
+          "w": "seed",
+          "ipa": "/siːd/",
+          "pos": "v.",
+          "en": "to cause something to begin to develop or grow",
+          "zh": "播下……的种子，催生",
+          "ctx": "指特朗普对这些权力的挪用“可能终于催生”了一场关于纠正越界的辩论（“may at last be seeding a debate”）",
+          "ex1": "The protest seeded a broader movement for political reform. 这场抗议催生了一场更广泛的政治改革运动。",
+          "ex2": "Her early research seeded the development of a new cancer treatment. 她早期的研究催生了一种新癌症疗法的开发。"
+        },
+        {
+          "w": "overreach",
+          "ipa": "/ˌəʊvəˈriːtʃ/",
+          "pos": "n.",
+          "en": "the act of trying to do more than one is capable of, or of exceeding one's authority",
+          "zh": "越权，过度扩张",
+          "ctx": "指政府在反恐中超越权限、过度扩张权力（“correcting the overreach”即纠正这种权力越界）",
+          "ex1": "The court ruled that the agency's action was a clear overreach of its legal authority. 法院裁定该机构的行为明显超越了其法定权限。",
+          "ex2": "Historians view the war as a classic case of imperial overreach. 历史学家将这场战争视为帝国过度扩张的典型例子。"
+        },
+        {
+          "w": "expeditionary",
+          "ipa": "/ˌekspəˈdɪʃənri/",
+          "pos": "adj.",
+          "en": "relating to a military expedition, especially one sent to fight in a foreign country",
+          "zh": "远征的，远征军的",
+          "ctx": "指九一一后美国发动的海外远征战争（“expeditionary wars”即阿富汗、伊拉克等远征战争）",
+          "ex1": "The expeditionary force was deployed to the region within weeks. 远征部队在数周内部署到该地区。",
+          "ex2": "Maintaining an expeditionary army across the ocean is enormously expensive. 在海外维持一支远征军耗资巨大。"
+        },
+        {
+          "w": "rein in",
+          "ipa": "/reɪn ɪn/",
+          "pos": "phr. v.",
+          "en": "to control or limit something that is becoming too powerful or extreme",
+          "zh": "约束，控制，管束",
+          "ctx": "指约束反恐权力、限制行政部门的越权行为（“rein in some of these authorities”）",
+          "ex1": "The central bank raised interest rates to rein in inflation. 央行加息以遏制通货膨胀。",
+          "ex2": "Lawmakers are pushing for new rules to rein in the tech giants. 议员们正在推动新规以约束科技巨头。"
+        }
+      ]
+    },
+    {
+      "en_html": "America’s counter-terror <mark class=\"voc\">regime</mark> <mark class=\"voc\">arose</mark> initially with <mark class=\"voc\">overwhelming</mark> support from Democrats and Republicans alike. When the <mark class=\"voc\">hijacked</mark> planes hit the World Trade Centre and Pentagon, the nation <mark class=\"voc\">braced</mark> for further <mark class=\"voc\">onslaughts</mark>. <mark class=\"voc\">Spooks</mark> <mark class=\"voc\">fretted</mark> that al-Qaeda might use chemical, biological or even nuclear weapons. Terrorism became the primary concern of voters.",
+      "zh": "美国的反恐体制起初赢得了民主、共和两党的压倒性支持。当被劫持的飞机撞向世贸中心和五角大楼，举国上下都在为后续袭击做准备。情报人员忧心忡忡，担心基地组织可能动用化学、生物甚至核武器。恐怖主义一跃成为选民的头号关切。",
+      "notes": [
+        {
+          "w": "regime",
+          "ipa": "/reɪˈʒiːm/",
+          "pos": "n.",
+          "en": "a system or method of government or rule; an organized system or set of rules",
+          "zh": "体制，制度，政权",
+          "ctx": "指美国的反恐体制（“America's counter-terror regime”），是一个中性的“制度体系”用法，非指“政权”",
+          "ex1": "The new tax regime will take effect in January. 新的税收制度将于一月生效。",
+          "ex2": "The country suffered under a brutal authoritarian regime for decades. 该国在残暴的专制政权下苦难了数十年。"
+        },
+        {
+          "w": "arise with",
+          "ipa": "/əˈraɪz wɪð/",
+          "pos": "phr.",
+          "en": "to come into being together with or as a result of something",
+          "zh": "伴随……而产生，与……一同出现",
+          "ctx": "指反恐体制最初是伴随着两党的压倒性支持而诞生的（“arose initially with overwhelming support”）",
+          "ex1": "New social problems arise with rapid urbanisation. 新的社会问题伴随着快速城市化而出现。",
+          "ex2": "Opportunities arise with every challenge. 每一次挑战都伴随着机遇。"
+        },
+        {
+          "w": "overwhelming",
+          "ipa": "/ˌəʊvəˈwelmɪŋ/",
+          "pos": "adj.",
+          "en": "very great in amount or degree; too strong to resist",
+          "zh": "压倒性的，巨大的",
+          "ctx": "形容两党对反恐体制的支持是压倒性的（“overwhelming support from Democrats and Republicans alike”）",
+          "ex1": "The proposal was passed by an overwhelming majority. 该提案以压倒性多数获得通过。",
+          "ex2": "She felt an overwhelming sense of relief when the exam was over. 考试结束后，她感到一种铺天盖地的解脱感。"
+        },
+        {
+          "w": "hijacked",
+          "ipa": "/ˈhaɪdʒækt/",
+          "pos": "adj./v. (past participle)",
+          "en": "(of a vehicle, aircraft, etc.) illegally seized by force; (of a situation) taken over and controlled",
+          "zh": "被劫持的；被劫持利用的",
+          "ctx": "指被劫持的飞机（“the hijacked planes”即九一一中被劫持的客机）",
+          "ex1": "The hijacked plane was forced to land at a remote airfield. 被劫持的飞机被迫在一个偏远机场降落。",
+          "ex2": "Critics say the movement has been hijacked by extremists. 批评者称这场运动已被极端分子劫持利用。"
+        },
+        {
+          "w": "brace for",
+          "ipa": "/breɪs fɔː(r)/",
+          "pos": "phr. v.",
+          "en": "to prepare for something difficult or unpleasant",
+          "zh": "准备迎接，做好准备应对（困难或不快之事）",
+          "ctx": "指九一一后全美上下准备迎接更多袭击（“the nation braced for further onslaughts”）",
+          "ex1": "Coastal residents are bracing for the hurricane's arrival. 沿海居民正在为飓风的到来做准备。",
+          "ex2": "The company is bracing for a sharp drop in sales. 该公司正准备迎接销售额的急剧下滑。"
+        },
+        {
+          "w": "onslaught",
+          "ipa": "/ˈɒnslɔːt/",
+          "pos": "n.",
+          "en": "a fierce and violent attack",
+          "zh": "猛攻，猛烈袭击",
+          "ctx": "指美国预想中可能接踵而至的恐怖袭击（“further onslaughts”）",
+          "ex1": "The village withstood repeated onslaughts from the invading army. 这个村庄抵御了入侵军队的多次猛攻。",
+          "ex2": "The company faced an onslaught of criticism after the scandal broke. 丑闻曝光后，该公司面临铺天盖地的批评。"
+        },
+        {
+          "w": "spook",
+          "ipa": "/spuːk/",
+          "pos": "n.",
+          "en": "(informal) a spy or intelligence agent",
+          "zh": "间谍，情报人员（非正式用语）",
+          "ctx": "指美国情报人员（“Spooks fretted...”及“allowed spooks to snoop”），文中多次用这个词指代情报机构人员",
+          "ex1": "The novel features a retired spook who can't leave his old life behind. 这部小说的主角是一位无法告别旧日生活的退休间谍。",
+          "ex2": "Spooks warned that the network had been compromised. 情报人员警告说该网络已被渗透。"
+        },
+        {
+          "w": "fret",
+          "ipa": "/fret/",
+          "pos": "v.",
+          "en": "to worry or be anxious about something",
+          "zh": "担忧，焦虑，发愁",
+          "ctx": "指情报人员担心基地组织可能使用化生核武器（“Spooks fretted that...”）",
+          "ex1": "She fretted constantly about her son's safety overseas. 她无时无刻不在担心儿子在海外的安全。",
+          "ex2": "Don't fret over things you can't control. 别为你无法控制的事情发愁。"
+        }
+      ]
+    },
+    {
+      "en_html": "But the <mark class=\"voc\">dreaded</mark> wave of follow-up attacks never came. America launched expeditionary wars that ultimately cost $8trn, killed an estimated 900,000 people and may have <mark class=\"voc\">provoked</mark> more terrorism than they prevented. Yet the initial counterattack in Afghanistan, followed by focused efforts against al-Qaeda, proved remarkably successful. Since 9/11 al-Qaeda has <mark class=\"voc\">mustered</mark> just one <mark class=\"voc\">fatal</mark> attack inside America, when a Saudi air-force officer killed three Americans at a naval base in 2019.",
+      "zh": "但令人生畏的后续袭击潮始终未曾到来。美国发动了一场场远征战争，最终耗资八万亿美元，估计造成九十万人死亡，而其所激发的恐怖主义或许比所阻止的还要多。然而，最初对阿富汗的反击，加上此后对基地组织的精准打击，成效却极为显著。九一一以来，基地组织在美国本土仅得手过一次致命袭击——2019年，一名沙特空军军官在海军基地枪杀三名美国人。",
+      "notes": [
+        {
+          "w": "dreaded",
+          "ipa": "/ˈdredɪd/",
+          "pos": "adj.",
+          "en": "feared greatly; causing great fear or anxiety",
+          "zh": "令人恐惧的， dreaded 所修饰的事往往是人们最怕发生的",
+          "ctx": "指人们最害怕的那波后续袭击（“the dreaded wave of follow-up attacks”），带有“怕什么偏来什么”的反讽意味——结果它根本没来",
+          "ex1": "The dreaded exam results were finally posted online. 令人恐惧的考试成绩终于在网上公布了。",
+          "ex2": "Winter brought the dreaded flu season once again. 冬天再次带来了令人闻之色变的流感季。"
+        },
+        {
+          "w": "provoke",
+          "ipa": "/prəˈvəʊk/",
+          "pos": "v.",
+          "en": "to cause a particular reaction or feeling, especially a strong or negative one",
+          "zh": "激起，引发，招惹",
+          "ctx": "指美国的远征战争可能激起的恐怖主义比阻止的还多（“may have provoked more terrorism than they prevented”）",
+          "ex1": "His remarks provoked an angry response from the audience. 他的言论激起了观众的愤怒回应。",
+          "ex2": "The new policy provoked widespread protests across the country. 新政策在全国引发了广泛抗议。"
+        },
+        {
+          "w": "muster",
+          "ipa": "/ˈmʌstə(r)/",
+          "pos": "v.",
+          "en": "to gather or summon something (such as support, courage, or forces)",
+          "zh": "召集，集结，鼓起",
+          "ctx": "指基地组织自九一一以来在美国本土仅“拼凑出/得手”一次致命袭击（“has mustered just one fatal attack”），强调其能力已大不如前",
+          "ex1": "She finally mustered the courage to speak in public. 她终于鼓起勇气当众发言。",
+          "ex2": "The general mustered his troops for the final assault. 将军集结部队准备发动最后攻击。"
+        },
+        {
+          "w": "fatal",
+          "ipa": "/ˈfeɪtl/",
+          "pos": "adj.",
+          "en": "causing death; resulting in failure or disaster",
+          "zh": "致命的；灾难性的",
+          "ctx": "指造成人员死亡的袭击（“one fatal attack”即一次致命袭击）",
+          "ex1": "The driver made a fatal mistake at the intersection. 司机在十字路口犯了一个致命错误。",
+          "ex2": "The mountain climb proved fatal for two experienced hikers. 这次登山对两名经验丰富的徒步者来说是致命的。"
+        }
+      ]
+    },
+    {
+      "en_html": "The vast resources America injected into its counter-terror apparatus played a part. Congress created the Department of Homeland Security (DHS) to “secure the United States from terrorist threats or attacks”. The number of FBI joint terrorism task-forces—which fuse intelligence across federal and local agencies—<mark class=\"voc\">ballooned</mark> from 35 to over 200 today. Better intelligence detection and sharing <mark class=\"voc\">snuffed out</mark> countless <mark class=\"voc\">plots</mark>. Surveillance was a factor, such as Section 702, allowed spooks to <mark class=\"voc\">snoop on</mark> foreign suspects abroad without a warrant, sweeping up Americans’ communications in their <mark class=\"voc\">dragnet</mark>. Other <mark class=\"voc\">statutes</mark> broadened the scope of the Foreign Terrorist Organisation (FTO) designation and <mark class=\"voc\">bolstered</mark> the powers of the Treasury to go after the networks financing terrorist groups.",
+      "zh": "美国为其反恐机器注入的庞大资源功不可没。国会创设国土安全部，以“保卫美国免遭恐怖威胁或袭击”。联邦调查局的联合反恐工作组——负责整合联邦与地方各机构的情报——从35个猛增至如今的200多个。更精准的情报侦测与共享，掐灭了无数阴谋。监控亦是其中一环，比如第702条款，允许情报人员在无搜查令的情况下监听海外外国嫌疑人，其拖网式搜集难免裹挟美国人的通信。其他法规还扩大了“外国恐怖组织”认定的范围，并强化了财政部追查恐怖组织融资网络的权力。",
+      "notes": [
+        {
+          "w": "balloon",
+          "ipa": "/bəˈluːn/",
+          "pos": "v.",
+          "en": "to increase rapidly in size, amount, or number",
+          "zh": "激增，急剧膨胀",
+          "ctx": "指联邦调查局联合反恐工作组的数量从35个猛增至200多个（“ballooned from 35 to over 200”）",
+          "ex1": "The company's debt ballooned to over $5 billion in just two years. 该公司的债务在短短两年内激增至50多亿美元。",
+          "ex2": "Housing costs have ballooned beyond what most young families can afford. 住房成本已飞涨到大多数年轻家庭无力承担的地步。"
+        },
+        {
+          "w": "snuff out",
+          "ipa": "/snʌf aʊt/",
+          "pos": "phr. v.",
+          "en": "to extinguish or put an end to something completely",
+          "zh": "扑灭，扼杀，消灭",
+          "ctx": "指更精准的情报侦测与共享“掐灭了无数阴谋”（“snuffed out countless plots”），即及时挫败了恐怖图谋",
+          "ex1": "The new surveillance system helped snuff out several smuggling operations. 新的监控系统帮助捣毁了多个走私行动。",
+          "ex2": "The regime snuffed out all forms of political dissent. 该政权扼杀了一切形式的政治异见。"
+        },
+        {
+          "w": "plot",
+          "ipa": "/plɒt/",
+          "pos": "n.",
+          "en": "a secret plan to do something harmful or illegal",
+          "zh": "阴谋，密谋",
+          "ctx": "指被挫败的恐怖阴谋（“countless plots”）",
+          "ex1": "Police uncovered a plot to assassinate the prime minister. 警方破获了一起暗杀首相的阴谋。",
+          "ex2": "The group was arrested for plotting to bomb a public building. 该团伙因密谋炸毁一座公共建筑而被捕。"
+        },
+        {
+          "w": "snoop on",
+          "ipa": "/snuːp ɒn/",
+          "pos": "phr. v.",
+          "en": "to secretly watch or investigate someone's private affairs",
+          "zh": "窥探，暗中监视",
+          "ctx": "指情报人员在没有搜查令的情况下监听海外外国嫌疑人（“snoop on foreign suspects abroad without a warrant”）",
+          "ex1": "She caught her neighbour snooping on her through the window. 她发现邻居在透过窗户窥探她。",
+          "ex2": "Employees complained that managers were snooping on their private messages. 员工抱怨经理在偷看他们的私人信息。"
+        },
+        {
+          "w": "dragnet",
+          "ipa": "/ˈdrægnet/",
+          "pos": "n.",
+          "en": "a systematic and often wide-ranging search or surveillance operation, especially by police",
+          "zh": "拖网式搜捕，天罗地网",
+          "ctx": "指第702条款的监控范围如拖网一般，在搜捕外国目标时把美国人的通信也一并捞了进去（“sweeping up Americans' communications in their dragnet”）",
+          "ex1": "The police cast a wide dragnet across the city to catch the fugitive. 警方在全市布下天罗地网追捕逃犯。",
+          "ex2": "Critics said the data collection amounted to a digital dragnet. 批评者称这种数据收集无异于一张数字天罗地网。"
+        },
+        {
+          "w": "statute",
+          "ipa": "/ˈstætʃuːt/",
+          "pos": "n.",
+          "en": "a law passed by a legislative body",
+          "zh": "法规，成文法",
+          "ctx": "指其他扩大反恐权力的法律条文（“Other statutes broadened the scope...”）",
+          "ex1": "The new statute requires companies to disclose their carbon emissions. 新法规要求公司披露碳排放量。",
+          "ex2": "The lawyer argued that the statute did not apply to his client's case. 律师辩称该法规不适用于他当事人的案件。"
+        },
+        {
+          "w": "bolster",
+          "ipa": "/ˈbəʊlstə(r)/",
+          "pos": "v.",
+          "en": "to support, strengthen, or improve something",
+          "zh": "加强，巩固，提振",
+          "ctx": "指强化财政部追查恐怖融资网络的权力（“bolstered the powers of the Treasury”）",
+          "ex1": "The government introduced new measures to bolster the economy. 政府出台了新措施以提振经济。",
+          "ex2": "His encouraging words bolstered her confidence before the interview. 他鼓励的话语增强了她在面试前的信心。"
+        }
+      ]
+    }
+  ]
+}

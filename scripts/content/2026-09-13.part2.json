@@ -1,0 +1,364 @@
+{
+ "paragraphs": [
+  {
+   "en_html": "Since returning to office, Mr Trump has <mark class=\"voc\">cynically</mark> repurposed these tools. The president has dramatically broadened the definition of terrorism. His administration has branded a range of Latin American drug gangs as FTOs. His air campaign against suspected drug-<mark class=\"voc\">smuggling</mark> boats in the Caribbean and Pacific has killed at least 277 people so far. Narco-terrorists are “the ISIS and al-Qaeda of the western <mark class=\"voc\">hemisphere</mark>”, Pete Hegseth, the secretary of war, said recently, “and they should be treated <mark class=\"voc\">as such</mark>”.",
+   "zh": "重返白宫以来，特朗普先生对这些工具进行了玩世不恭的改造。总统大幅拓宽了恐怖主义的定义。其政府将一系列拉美贩毒团伙列为外国恐怖组织。他对加勒比海和太平洋上疑似运毒的船只发动空袭，迄今已造成至少277人死亡。贩毒恐怖分子是“西半球的伊斯兰国和基地组织”，战争部长皮特·赫格塞思近日放言，“他们就该被这样对待”。",
+   "notes": [
+    {
+     "w": "cynically",
+     "ipa": "/ˈsɪnɪkli/",
+     "pos": "adv.",
+     "en": "in a way that shows a belief that people are motivated purely by self-interest; in a way that disregards accepted moral standards",
+     "zh": "玩世不恭地，愤世嫉俗地；自私自利地",
+     "ctx": "指特朗普对这些反恐工具的“挪用”是玩世不恭的、毫无道义底线的（“cynically repurposed these tools”），暗含作者强烈批评",
+     "ex1": "He cynically exploited the tragedy to advance his own career. 他玩世不恭地利用这场悲剧来推进自己的事业。",
+     "ex2": "The company cynically raised prices during the shortage. 该公司在短缺期间自私地抬高价格。"
+    },
+    {
+     "w": "smuggle",
+     "ipa": "/ˈsmʌɡl/",
+     "pos": "v.",
+     "en": "to move goods or people illegally and secretly",
+     "zh": "走私，偷运",
+     "ctx": "指疑似运毒的船只（“drug-smuggling boats”即运毒船）",
+     "ex1": "They were arrested for trying to smuggle diamonds across the border. 他们因试图越境走私钻石而被捕。",
+     "ex2": "The gang smuggled migrants into the country in lorries. 该团伙用卡车将移民偷运入境。"
+    },
+    {
+     "w": "hemisphere",
+     "ipa": "/ˈhemɪsfɪə(r)/",
+     "pos": "n.",
+     "en": "one half of the earth, especially (in this context) the Western Hemisphere",
+     "zh": "半球",
+     "ctx": "指西半球（“the western hemisphere”），赫格塞思将贩毒恐怖分子称为“西半球的伊斯兰国和基地组织”",
+     "ex1": "The species is found only in the southern hemisphere. 该物种仅见于南半球。",
+     "ex2": "Trade between the two hemispheres has grown steadily. 两个半球之间的贸易稳步增长。"
+    },
+    {
+     "w": "as such",
+     "ipa": "/æz sʌtʃ/",
+     "pos": "phr.",
+     "en": "in the exact sense of the word; in that capacity",
+     "zh": "就其本身而言；据此，因此",
+     "ctx": "指“就该被这样对待”（“they should be treated as such”），即贩毒恐怖分子理应被当作伊斯兰国和基地组织一样对待",
+     "ex1": "He is a teacher, and should be treated as such. 他是一名教师，就应该得到教师应有的对待。",
+     "ex2": "The document is not a contract as such, but it has legal force. 这份文件本身并非合同，但具有法律效力。"
+    }
+   ]
+  },
+  {
+   "en_html": "The administration has used the 9/11 <mark class=\"voc\">toolkit</mark> to advance its domestic <mark class=\"voc\">agenda</mark>, too. DHS has become the engine of Mr Trump’s <mark class=\"voc\">deportation</mark> campaign, with thousands of its agents, some of whom worked in counterterrorism, reassigned to immigration enforcement. A presidential <mark class=\"voc\">directive</mark> signed in September 2025 orders the FBI’s terrorism task-forces to track loose, left-wing movements like Antifa, which the administration has labelled “domestic terrorists”. The State Department has designated Antifa’s overseas <mark class=\"voc\">offshoots</mark> as FTOs and pressed allies to <mark class=\"voc\">follow suit</mark>.",
+   "zh": "本届政府同样动用九一一时代的工具箱来推进其国内议程。国土安全部已成为特朗普驱逐出境行动的主力引擎，数千名探员——其中一些本就从事反恐工作——被重新调配至移民执法。2025年9月签署的一项总统指令，命令联邦调查局的反恐工作组追踪像“反法西斯”这类松散左翼运动，政府已将其标签为“国内恐怖分子”。国务院已将“反法西斯”的海外分支列为外国恐怖组织，并施压盟友效仿。",
+   "notes": [
+    {
+     "w": "toolkit",
+     "ipa": "/ˈtuːlkɪt/",
+     "pos": "n.",
+     "en": "a set of tools or resources used for a particular purpose",
+     "zh": "工具箱，一整套工具/手段",
+     "ctx": "指九一一时代留下的那套反恐法律与政策工具（“the 9/11 toolkit”）",
+     "ex1": "The government has a wide toolkit of measures to tackle inflation. 政府拥有一整套广泛的手段来应对通胀。",
+     "ex2": "Teachers were given a digital toolkit for remote learning. 教师们获得了一套用于远程教学的数字工具包。"
+    },
+    {
+     "w": "agenda",
+     "ipa": "/əˈdʒendə/",
+     "pos": "n.",
+     "en": "a plan or list of things to be done; a set of aims or goals",
+     "zh": "议程，目标，打算",
+     "ctx": "指特朗普的国内政治议程（“its domestic agenda”），即他借反恐工具推进的国内政策目标",
+     "ex1": "The president's agenda includes tax reform and infrastructure spending. 总统的议程包括税改和基础设施支出。",
+     "ex2": "Environmentalists accused the government of pursuing a hidden agenda. 环保人士指责政府在推行不可告人的议程。"
+    },
+    {
+     "w": "deportation",
+     "ipa": "/ˌdiːpɔːˈteɪʃn/",
+     "pos": "n.",
+     "en": "the act of forcing a foreigner to leave a country",
+     "zh": "驱逐出境，遣返",
+     "ctx": "指特朗普的大规模驱逐出境行动（“Mr Trump's deportation campaign”）",
+     "ex1": "The new law could lead to the deportation of thousands of families. 新法律可能导致数千个家庭被驱逐出境。",
+     "ex2": "He faced deportation after his visa expired. 签证过期后，他面临被驱逐出境。"
+    },
+    {
+     "w": "directive",
+     "ipa": "/dəˈrektɪv/",
+     "pos": "n.",
+     "en": "an official instruction or order",
+     "zh": "指令，指示",
+     "ctx": "指2025年9月签署的一项总统指令（“A presidential directive signed in September 2025”）",
+     "ex1": "The EU issued a directive on data protection. 欧盟发布了一项关于数据保护的指令。",
+     "ex2": "The manager gave clear directives about the new safety procedures. 经理就新的安全程序给出了明确指示。"
+    },
+    {
+     "w": "offshoot",
+     "ipa": "/ˈɒfʃuːt/",
+     "pos": "n.",
+     "en": "a branch or derivative of a larger organization or movement",
+     "zh": "分支，衍生组织",
+     "ctx": "指“反法西斯”运动的海外分支（“Antifa's overseas offshoots”）",
+     "ex1": "The research centre began as an offshoot of the university. 该研究中心最初是这所大学的一个分支。",
+     "ex2": "The militant group is an offshoot of a larger political movement. 这个激进组织是一场更大政治运动的分支。"
+    },
+    {
+     "w": "follow suit",
+     "ipa": "/ˈfɒləʊ suːt/",
+     "pos": "phr. v.",
+     "en": "to do the same thing as someone else has just done",
+     "zh": "效仿，跟着做",
+     "ctx": "指美国施压盟友效仿其将“反法西斯”海外分支列为外国恐怖组织（“pressed allies to follow suit”）",
+     "ex1": "When one airline cut its prices, the others quickly followed suit. 一家航空公司降价后，其他公司纷纷效仿。",
+     "ex2": "She started volunteering at the shelter, and her friends followed suit. 她开始在这家收容所做志愿者，她的朋友们也纷纷效仿。"
+    }
+   ]
+  },
+  {
+   "en_html": "The administration is also pulling powerful financial counter-terror levers. In Minneapolis, for example, federal agents used authorities created by the <mark class=\"voc\">Patriot</mark> Act of 2001 to seize financial records from labour unions and progressive groups without warrants. In Texas, eight anti-ICE protesters were <mark class=\"voc\">sentenced</mark> in June on <mark class=\"voc\">spurious</mark> charges of “providing material” support to terrorists, a statute designed for al-Qaeda and ISIS financiers.",
+   "zh": "本届政府还在拉动反恐金融领域的强力杠杆。例如在明尼阿波利斯，联邦探员援引2001年《爱国者法案》赋予的权力，在无搜查令的情况下从工会和进步团体调取财务记录。在得克萨斯，八名反移民执法抗议者于六月因莫须有的“向恐怖分子提供物质支持”罪名获刑——而该法条本是为基地组织和伊斯兰国的金主量身定做的。",
+   "notes": [
+    {
+     "w": "patriot",
+     "ipa": "/ˈpeɪtriət/",
+     "pos": "n.",
+     "en": "a person who loves and is willing to defend their country",
+     "zh": "爱国者",
+     "ctx": "指2001年的《爱国者法案》（“the Patriot Act”），该法案大幅扩展了执法机构的监控和搜查权力",
+     "ex1": "He considered himself a patriot for serving in the military. 他认为自己参军报国是个爱国者。",
+     "ex2": "The law, named after the patriot spirit, was later criticised for violating civil liberties. 这部以爱国精神命名的法律后来因侵犯公民自由而受到批评。"
+    },
+    {
+     "w": "sentence",
+     "ipa": "/ˈsentəns/",
+     "pos": "v.",
+     "en": "to officially state the punishment given to someone by a court",
+     "zh": "判处，宣判",
+     "ctx": "指八名抗议者被判处刑罚（“eight anti-ICE protesters were sentenced in June”）",
+     "ex1": "He was sentenced to five years in prison for fraud. 他因欺诈被判处五年监禁。",
+     "ex2": "The judge sentenced the defendant to community service. 法官判处被告社区服务。"
+    },
+    {
+     "w": "spurious",
+     "ipa": "/ˈspjʊəriəs/",
+     "pos": "adj.",
+     "en": "false or based on false reasoning; not genuine",
+     "zh": "虚假的，站不住脚的，伪造的",
+     "ctx": "指对八名抗议者的指控是“莫须有的”（“spurious charges”），作者以此批评政府滥用反恐法条",
+     "ex1": "The court dismissed the claim as spurious. 法院驳回了这项站不住脚的诉求。",
+     "ex2": "He was accused of making spurious arguments to delay the process. 他被指提出虚假论点以拖延程序。"
+    }
+   ]
+  },
+  {
+   "en_html": "Attempts at reform have so far been <mark class=\"voc\">embryonic</mark>. Congress let Section 702 lapse in June, in part over concerns that Mr Trump is <mark class=\"voc\">politicising</mark> the intelligence apparatus, though the authority will run until early 2027. What happens then will test the reform <mark class=\"voc\">caucus</mark> in Congress. Democrats would like stronger safeguards, but have been unable to break through from their minority position in the <mark class=\"voc\">legislature</mark>.",
+   "zh": "改革尝试迄今仍处萌芽。国会在六月任由第702条款失效，部分原因正是担忧特朗普正将情报机构政治化，尽管该授权将持续至2027年初。届时如何收场，将考验国会中的改革派。民主党人希望有更强的保障措施，却苦于在立法机构中身居少数，始终无法突破。",
+   "notes": [
+    {
+     "w": "embryonic",
+     "ipa": "/ˌembriˈɒnɪk/",
+     "pos": "adj.",
+     "en": "in an early stage of development; not yet fully formed",
+     "zh": "萌芽阶段的，初期的",
+     "ctx": "指改革尝试仍处于萌芽阶段（“Attempts at reform have so far been embryonic”），即尚不成熟、远未成形",
+     "ex1": "The project is still at an embryonic stage. 该项目仍处于萌芽阶段。",
+     "ex2": "Her political career was embryonic when the scandal broke. 丑闻曝光时，她的政治生涯才刚刚起步。"
+    },
+    {
+     "w": "politicise",
+     "ipa": "/pəˈlɪtɪsaɪz/",
+     "pos": "v.",
+     "en": "to make something political; to cause something to become a matter of political debate or manipulation",
+     "zh": "使政治化，使带有政治色彩",
+     "ctx": "指特朗普正在将情报机构政治化（“Mr Trump is politicising the intelligence apparatus”），即把情报工作当作政治工具",
+     "ex1": "Critics say the government is trying to politicise the judiciary. 批评者称政府正试图将司法政治化。",
+     "ex2": "The pandemic became politicised, hindering a unified response. 疫情被政治化，阻碍了统一应对。"
+    },
+    {
+     "w": "caucus",
+     "ipa": "/ˈkɔːkəs/",
+     "pos": "n.",
+     "en": "a group of people within a larger organization who share a common purpose or interest; a meeting of such a group",
+     "zh": "党团会议；（国会中的）派系，核心小组",
+     "ctx": "指国会中的改革派议员团体（“the reform caucus in Congress”）",
+     "ex1": "The congressional caucus on climate change met to discuss new legislation. 国会气候变化核心小组开会讨论新立法。",
+     "ex2": "She was elected chair of the women's caucus. 她当选为女性核心小组的主席。"
+    },
+    {
+     "w": "legislature",
+     "ipa": "/ˈledʒɪsleɪtʃə(r)/",
+     "pos": "n.",
+     "en": "the group of people who have the power to make laws in a country or state",
+     "zh": "立法机构，议会",
+     "ctx": "指美国国会（“their minority position in the legislature”），民主党在立法机构中处于少数地位",
+     "ex1": "The state legislature passed a bill to raise the minimum wage. 州议会通过了一项提高最低工资的法案。",
+     "ex2": "The legislature is expected to vote on the budget next week. 立法机构预计下周就预算进行投票。"
+    }
+   ]
+  },
+  {
+   "en_html": "Tim Kaine, a Democratic senator from Virginia, has called on Congress to <mark class=\"voc\">repeal</mark> the 2001 AUMF, but has struggled to <mark class=\"voc\">garner</mark> support. Perhaps it will take a younger congressional intake, for whom 9/11 is a <mark class=\"voc\">hazier</mark> memory, to move things along. Americans who <mark class=\"voc\">came of age</mark> during the past 25 years, notes Mr Herman, “are eager to push back against the abuses that we’re all seeing.”",
+   "zh": "弗吉尼亚州民主党参议员蒂姆·凯恩呼吁国会废除2001年的军事力量使用授权，但一直难以争取到足够支持。或许要等到更年轻的一批议员进入国会——对他们而言，九一一只是一段模糊的记忆——事情才能有所推进。赫尔曼指出，在过去二十五年间成年的美国人，“迫切想要反击我们眼下有目共睹的种种滥权”。",
+   "notes": [
+    {
+     "w": "repeal",
+     "ipa": "/rɪˈpiːl/",
+     "pos": "v.",
+     "en": "to officially end or remove a law",
+     "zh": "废除，撤销",
+     "ctx": "指废除2001年的军事力量使用授权（“repeal the 2001 AUMF”）",
+     "ex1": "Congress voted to repeal the outdated law. 国会投票废除了这项过时的法律。",
+     "ex2": "Activists have long campaigned to repeal the controversial act. 活动人士长期以来一直在争取废除这项有争议的法案。"
+    },
+    {
+     "w": "garner",
+     "ipa": "/ˈɡɑːnə(r)/",
+     "pos": "v.",
+     "en": "to collect or gather something, especially support, information, or attention",
+     "zh": "获得，收集，争取到",
+     "ctx": "指凯恩参议员难以争取到足够支持（“struggled to garner support”）",
+     "ex1": "The proposal garnered widespread support from both parties. 该提案获得了两党的广泛支持。",
+     "ex2": "Her performance garnered rave reviews from critics. 她的表演赢得了评论家的如潮好评。"
+    },
+    {
+     "w": "hazy",
+     "ipa": "/ˈheɪzi/",
+     "pos": "adj.",
+     "en": "unclear, vague, or indistinct; (of memory) not precise",
+     "zh": "模糊的，朦胧的",
+     "ctx": "指对九一一的记忆已经模糊（“9/11 is a hazier memory”），暗示新一代议员没有亲身经历，态度可能不同",
+     "ex1": "My memories of that period are hazy. 我对那段时期的记忆很模糊。",
+     "ex2": "The details of the agreement remain hazy. 协议的细节仍然模糊不清。"
+    },
+    {
+     "w": "come of age",
+     "ipa": "/kʌm əv eɪdʒ/",
+     "pos": "phr.",
+     "en": "to reach adulthood; to become fully developed",
+     "zh": "成年，长大成人；成熟",
+     "ctx": "指在过去二十五年间长大成人的美国人（“Americans who came of age during the past 25 years”），他们没有九一一的直接记忆，对改革态度更积极",
+     "ex1": "She came of age during a period of great social change. 她在一个社会剧变的时期长大成人。",
+     "ex2": "The technology has finally come of age. 这项技术终于成熟了。"
+    }
+   ]
+  }
+ ],
+ "proper": [
+  {
+   "name": "9/11 / 九一一恐怖袭击事件",
+   "def": "2001 年 9 月 11 日，基地组织劫持四架美国民航客机，两架撞毁纽约世贸中心双塔，一架撞击五角大楼，一架在宾夕法尼亚州坠毁，造成 2,977 人死亡，是美国本土史上最严重的恐怖袭击。<br>本文中的意思：全文的时间原点——作者用它算出“约三分之一美国人当时尚未出生”，从而论证反恐体制已与其最初要防的威胁脱节。"
+  },
+  {
+   "name": "counter-terror apparatus / 反恐体系（反恐机器）",
+   "def": "指九一一后美国搭起的一整套反恐机构、法律授权与行动能力：2001 年《军事力量使用授权》在袭击后四天获国会通过，此后被多任总统援引，用于中东、非洲、南亚的军事行动。<br>本文中的意思：全文批判的核心对象——威胁已经消退，这套机器却大体原封未动，还被特朗普挪作他用。"
+  },
+  {
+   "name": "jihadist violence / 圣战暴力",
+   "def": "“Jihadist”在当代反恐话语中特指基地组织、伊斯兰国等伊斯兰极端组织的成员；jihad 本义为“奋斗”，把它等同于“神圣战争”是西方语境里的简化。九一一以来，这类组织在美国本土仅得手过一次致命袭击。<br>本文中的意思：作者拿它作对照——最该防的暴力已经消退，反恐体制却毫无收缩。"
+  },
+  {
+   "name": "YouGov poll / YouGov 民意调查",
+   "def": "YouGov 是国际知名的在线民调机构。2026 年 9 月的调查显示，48% 的美国人认为九一一后的远征战争与监控“代价尚值”，但民主党人中仅 37% 认同，共和党人高达 71%。<br>本文中的意思：用党派落差说明反恐共识已经破裂，为后文“改革辩论正在形成”提供数据。"
+  },
+  {
+   "name": "Centre for America Progress / 美国进步中心",
+   "def": "美国民主党倾向的智库。文中受访的丹·赫尔曼（Dan Herman）任该智库“国家安全、问责与改革”项目高级主任，曾在奥巴马政府白宫负责国家安全部门的政治任命。<br>本文中的意思：改革派的代表性声音，他的判断是“有机会约束这些权力、重塑被滥用的机构”。"
+  },
+  {
+   "name": "World Trade Centre and Pentagon / 世贸中心与五角大楼",
+   "def": "世贸中心双塔是纽约地标，五角大楼是美国国防部所在地。2001 年 9 月 11 日，被劫持的客机分别撞击这两处目标，造成近 3,000 人死亡。<br>本文中的意思：还原反恐体制诞生的现场，交代“举国备战”的心理起点。"
+  },
+  {
+   "name": "hijacked planes / 被劫持的飞机",
+   "def": "指九一一当天被基地组织劫持的四架民航客机：两架撞毁世贸中心，一架撞击五角大楼，一架在宾夕法尼亚州坠毁。<br>本文中的意思：作者用它引出“全国都在准备下一波袭击”的集体恐慌，而那波袭击从未到来。"
+  },
+  {
+   "name": "al-Qaeda / 基地组织",
+   "def": "由本·拉登领导的跨国伊斯兰极端组织，九一一袭击的实施者。美国为此发动阿富汗战争，本·拉登于 2011 年被击毙。<br>本文中的意思：衡量反恐成效的标尺——它自九一一以来在美国本土只制造过一次致命袭击。"
+  },
+  {
+   "name": "2019 Pensacola naval base shooting / 2019 年彭萨科拉海军基地枪击案",
+   "def": "2019 年 12 月，一名在美受训的沙特空军军官在佛罗里达州彭萨科拉海军航空站开枪，造成 3 名美国人死亡。<br>本文中的意思：作者把它界定为九一一以来基地组织在美国本土唯一得手的致命袭击，用来证明威胁已被压到极低。"
+  },
+  {
+   "name": "Department of Homeland Security (DHS) / 国土安全部",
+   "def": "美国联邦内阁级部门，九一一后依《国土安全法》设立，是 1940 年代以来最大规模国家安全重组的一部分，下辖移民和海关执法局（ICE）、运输安全管理局（TSA）等。<br>本文中的意思：它先被用来“保卫美国免遭恐怖威胁”，如今成了特朗普驱逐出境行动的主力引擎。"
+  },
+  {
+   "name": "FBI joint terrorism task-forces / 联邦调查局联合反恐工作组",
+   "def": "负责把联邦与地方各机构的情报整合到一起的工作组，数量从九一一后的 35 个增至如今的 200 多个。<br>本文中的意思：反恐权力制度化的样本——机构留着、人留着，任务却可以随时改换。"
+  },
+  {
+   "name": "Section 702 / 第 702 条款",
+   "def": "《外国情报监视法》第 702 条款，允许情报机构在无搜查令的情况下监听海外外国嫌疑人。参议院司法委员会 2026 年 6 月指出，其“拖网式”搜集会裹挟大量美国人的通信，存入可检索数据库。<br>本文中的意思：例证反恐授权如何顺带覆盖本国公民，也是后文“国会任由其失效”的争点。"
+  },
+  {
+   "name": "Foreign Terrorist Organisation (FTO) / 外国恐怖组织认定",
+   "def": "由美国国务院依《移民与国籍法》作出的认定，被列名的组织将面临资产冻结、成员入境禁令等制裁；该标签原本只用于以政治目的使用暴力的组织。<br>本文中的意思：特朗普把 21 个拉美犯罪团伙列入其中，这个标签由此被改造成对内对外的通用工具。"
+  },
+  {
+   "name": "Latin American drug gangs / 拉美贩毒团伙",
+   "def": "特朗普政府将一系列拉美贩毒团伙列为外国恐怖组织，其中墨西哥有 8 个，包括锡那罗亚卡特尔与哈利斯科新一代卡特尔，另有萨尔瓦多 MS-13、哥伦比亚 Clan del Golfo 等。<br>本文中的意思：恐怖主义定义被拓宽的直接证据——以营利为目的的犯罪集团也被装进了反恐框架。"
+  },
+  {
+   "name": "Caribbean and Pacific air campaign / 加勒比海与太平洋空袭行动",
+   "def": "美军自 2025 年 9 月起对疑似运毒船只发动空袭，据报已造成两百多人死亡。前国务院律师指出，这些打击并不发生在武装冲突背景下，缺乏可信的法律依据。<br>本文中的意思：反恐话术转化为致命武力的后果，文中给出的数字是至少 277 人死亡。"
+  },
+  {
+   "name": "Pete Hegseth / 皮特·赫格塞思",
+   "def": "美国战争部长。文中引述他的话，称贩毒恐怖分子是“西半球的伊斯兰国和基地组织”，“就该被这样对待”。<br>本文中的意思：代表把反恐修辞直接套用到拉美贩毒组织上的官方立场，也是全文最刺眼的一句引语。"
+  },
+  {
+   "name": "deportation campaign / 驱逐出境行动",
+   "def": "特朗普政府的大规模移民执法行动。国土安全部成为其主力，数千名探员被重新调配至移民执法，其中一些人原本从事反恐。<br>本文中的意思：说明九一一工具箱被转用于国内议程，反恐机构的人员与权限直接改道。"
+  },
+  {
+   "name": "Antifa / “反法西斯”运动",
+   "def": "Antifa 是 anti-fascist 的缩写，并非统一组织，而是一系列左翼激进观点的松散集合。2025 年 7 月得州普雷里兰移民拘留中心外的抗议中发生枪击，一名警察受伤。<br>本文中的意思：被政府标签为“国内恐怖分子”的对象，反恐工作组因此获令追踪这类松散左翼运动。"
+  },
+  {
+   "name": "domestic terrorists / 国内恐怖分子",
+   "def": "美国法律有“国内恐怖主义”的定义，却没有对应的刑事处罚条款，也没有认定“国内恐怖组织”的法律机制。民权倡导者担心这会波及抗议者与第一修正案保障的言论自由。<br>本文中的意思：一个没有法律抓手却极具杀伤力的标签，被行政指令直接贴在左翼运动身上。"
+  },
+  {
+   "name": "Patriot Act / 《爱国者法案》",
+   "def": "2001 年 10 月 26 日签署成法，大幅扩展执法机构的监控与搜查权力；其中第 215 条款被批评者称为“图书馆条款”，曾被用于调取电话、租赁、驾照与财务记录。<br>本文中的意思：联邦探员援引它，在无搜查令的情况下从工会与进步团体调取财务记录。"
+  },
+  {
+   "name": "Section 314(a) / 第 314(a) 条款",
+   "def": "该条款允许执法机构向财政部提交搜索词，由财政部通知全国金融机构排查匹配的账户与交易，无需搜查令、大陪审团传票或法院命令，即可获得全国范围的金融线索。<br>本文中的意思：反恐金融工具被用来调查明尼阿波利斯的工会与气候组织。"
+  },
+  {
+   "name": "providing material support to terrorists / “向恐怖分子提供物质支持”罪",
+   "def": "该法条最初为起诉基地组织与伊斯兰国的金主而设。得州普雷里兰案中，八名被告于 2026 年 6 月被判处共计 450 年监禁，辩护律师称并无预谋伏击，携枪只为自卫。<br>本文中的意思：作者称这些指控“莫须有”，指责政府把为境外恐怖金主量身定做的法条套在抗议者身上。"
+  },
+  {
+   "name": "Section 702 lapse / 第 702 条款失效",
+   "def": "2026 年 6 月国会任由第 702 条款失效，部分原因正是担忧特朗普将情报机构政治化；但 FISA 法院的年度认证把授权续到 2027 年 3 月，情报收集仍在继续。<br>本文中的意思：改革唯一看得见的动作，却连“失效”都名不副实。"
+  },
+  {
+   "name": "Tim Kaine / 蒂姆·凯恩",
+   "def": "弗吉尼亚州民主党参议员。他曾与共和党参议员托德·扬合作四年，推动废除 1991 年与 2002 年伊拉克战争授权，最终在参议院以 66 票对 30 票通过。<br>本文中的意思：呼吁废除 2001 年 AUMF 却凑不齐支持的人，说明改革卡在票数上。"
+  },
+  {
+   "name": "2001 AUMF / 2001 年军事力量使用授权",
+   "def": "九一一后仅四天即获国会通过（9 月 14 日通过、18 日签署），授权总统对“策划、授权、实施或协助”袭击的国家、组织或个人使用武力，无地理限制、无到期日，至少 22 个国家受其援引的行动影响。<br>本文中的意思：整套反恐体制的法律地基，也是凯恩想废除却动不了的那一条。"
+  }
+ ],
+ "sources_note": "本文选自 The Economist 2026 年 9 月 13 日文章《How counterterrorism has empowered Donald Trump's imperial presidency》，由《早安英文》讲解。",
+ "practice": {
+  "intro": "把下面三句翻译成英文，注意划线表达。",
+  "items": [
+   "爆炸发生后，政府很快建立了一套新的安全体系。",
+   "随着时间流逝，我对那件事的记忆越来越模糊。",
+   "参议员呼吁废除这项法律，但很难获得足够的支持。"
+  ],
+  "critical_en": "Yet the counter-terror apparatus that President George W. Bush and Congress enacted in response—hastily drafted legal authorities to wage war, surveillance powers, permissive CIA operations and new bureaucracies—remains largely in place, even as the threat of jihadist violence has receded.",
+  "critical_zh": "然而，乔治·W·布什总统与国会当年为应对恐袭而仓促搭建的反恐机器——草草拟就的战争授权、监控权、中情局宽松的行动权限，以及新设的官僚机构——至今大体原封未动，尽管圣战暴力的威胁已然消退。",
+  "answer": "1. After the bombing, the government quickly built a new security apparatus.<br><br>2. As time passed, my recollection of that event grew hazier and hazier.<br><br>3. The senator called for repealing the law, but struggled to garner enough support.<br><br>三句练的正是本文的核心词：apparatus（体系）、recollection（记忆）、repeal 与 garner（废除、争取支持）——注意 apparatus 的可数与不可数用法，以及 call for doing 的搭配。"
+ },
+ "mindmap": {
+  "aria": "反恐权力与帝王总统思维导图",
+  "alt": "反恐如何养出帝王总统（手绘版）",
+  "svg": "<svg viewBox=\"0 0 960 720\" xmlns=\"http://www.w3.org/2000/svg\" role=\"img\" aria-label=\"反恐权力与帝王总统思维导图\" style=\"width:100%;height:auto;font-family:-apple-system,'PingFang SC','Hiragino Sans GB','Microsoft YaHei',sans-serif\">\n        <rect x=\"24\" y=\"306\" width=\"176\" height=\"88\" rx=\"14\" fill=\"#eae3d2\" stroke=\"#9a8f76\"/>\n        <text x=\"112\" y=\"342\" text-anchor=\"middle\" fill=\"#3d3a34\" font-size=\"17\" font-weight=\"700\">反恐造就帝王总统</text>\n        <text x=\"112\" y=\"368\" text-anchor=\"middle\" fill=\"#5c5648\" font-size=\"12.5\">九一一二十五年后</text>\n\n        <path d=\"M200,350 C232,350 232,88 260,88\"  stroke=\"#6b8f71\" stroke-width=\"2\" fill=\"none\"/>\n        <path d=\"M200,350 C232,350 232,238 260,238\" stroke=\"#7d98ad\" stroke-width=\"2\" fill=\"none\"/>\n        <path d=\"M200,350 C232,350 232,433 260,433\" stroke=\"#bd7a6d\" stroke-width=\"2\" fill=\"none\"/>\n        <path d=\"M200,350 C232,350 232,628 260,628\" stroke=\"#9b86b3\" stroke-width=\"2\" fill=\"none\"/>\n\n        <g class=\"mm-branch\" data-target=\"bc1\">\n          <rect x=\"260\" y=\"71\" width=\"190\" height=\"34\" rx=\"8\" fill=\"#e6efe7\" stroke=\"#6b8f71\"/>\n          <text x=\"349\" y=\"93\" text-anchor=\"middle\" fill=\"#4c6b52\" font-size=\"15\" font-weight=\"700\">旧体制还在（¶1–2）</text>\n          <text class=\"mm-arrow\" data-for=\"bc1\" x=\"442\" y=\"93\" text-anchor=\"end\" fill=\"#4c6b52\">▾</text>\n        </g>\n        <g class=\"mm-children\" id=\"bc1\">\n          <path d=\"M450,88 C462,88 462,46 480,46\" stroke=\"#6b8f71\" stroke-width=\"1.5\" fill=\"none\"/>\n          <path d=\"M450,88 C462,88 462,88 480,88\" stroke=\"#6b8f71\" stroke-width=\"1.5\" fill=\"none\"/>\n          <path d=\"M450,88 C462,88 462,130 480,130\" stroke=\"#6b8f71\" stroke-width=\"1.5\" fill=\"none\"/>\n          <rect x=\"480\" y=\"30\" width=\"456\" height=\"32\" rx=\"8\" fill=\"#e6efe7\"/><text x=\"492\" y=\"51\" fill=\"#3d3a34\" font-size=\"14\">四分之一世纪后，三成美国人毫无记忆</text>\n          <rect x=\"480\" y=\"72\" width=\"456\" height=\"32\" rx=\"8\" fill=\"#e6efe7\"/><text x=\"492\" y=\"93\" fill=\"#3d3a34\" font-size=\"14\">战争授权与监控体系仓促搭起，至今未拆</text>\n          <rect x=\"480\" y=\"114\" width=\"456\" height=\"32\" rx=\"8\" fill=\"#e6efe7\"/><text x=\"492\" y=\"135\" fill=\"#3d3a34\" font-size=\"14\">特朗普挪用这套权力，反而催生改革辩论</text>\n        </g>\n\n        <g class=\"mm-branch\" data-target=\"bc2\">\n          <rect x=\"260\" y=\"221\" width=\"190\" height=\"34\" rx=\"8\" fill=\"#e5edf4\" stroke=\"#7d98ad\"/>\n          <text x=\"349\" y=\"243\" text-anchor=\"middle\" fill=\"#3d5872\" font-size=\"15\" font-weight=\"700\">反恐机器遗产（¶3–5）</text>\n          <text class=\"mm-arrow\" data-for=\"bc2\" x=\"442\" y=\"243\" text-anchor=\"end\" fill=\"#3d5872\">▾</text>\n        </g>\n        <g class=\"mm-children\" id=\"bc2\">\n          <path d=\"M450,238 C462,238 462,196 480,196\" stroke=\"#7d98ad\" stroke-width=\"1.5\" fill=\"none\"/>\n          <path d=\"M450,238 C462,238 462,238 480,238\" stroke=\"#7d98ad\" stroke-width=\"1.5\" fill=\"none\"/>\n          <path d=\"M450,238 C462,238 462,280 480,280\" stroke=\"#7d98ad\" stroke-width=\"1.5\" fill=\"none\"/>\n          <rect x=\"480\" y=\"180\" width=\"456\" height=\"32\" rx=\"8\" fill=\"#e5edf4\"/><text x=\"492\" y=\"201\" fill=\"#3d3a34\" font-size=\"14\">两党一度压倒性支持，怕的是后续袭击潮</text>\n          <rect x=\"480\" y=\"222\" width=\"456\" height=\"32\" rx=\"8\" fill=\"#e5edf4\"/><text x=\"492\" y=\"243\" fill=\"#3d3a34\" font-size=\"14\">远征战争花八万亿，本土只漏过一次</text>\n          <rect x=\"480\" y=\"264\" width=\"456\" height=\"32\" rx=\"8\" fill=\"#e5edf4\"/><text x=\"492\" y=\"285\" fill=\"#3d3a34\" font-size=\"14\">七百零二条款与反恐工作组把权力制度化</text>\n        </g>\n\n        <g class=\"mm-branch\" data-target=\"bc3\">\n          <rect x=\"260\" y=\"416\" width=\"190\" height=\"34\" rx=\"8\" fill=\"#f4e7e4\" stroke=\"#bd7a6d\"/>\n          <text x=\"349\" y=\"438\" text-anchor=\"middle\" fill=\"#7c4a3e\" font-size=\"15\" font-weight=\"700\">权力被挪用（¶6–8）</text>\n          <text class=\"mm-arrow\" data-for=\"bc3\" x=\"442\" y=\"438\" text-anchor=\"end\" fill=\"#7c4a3e\">▾</text>\n        </g>\n        <g class=\"mm-children\" id=\"bc3\">\n          <path d=\"M450,433 C462,433 462,391 480,391\" stroke=\"#bd7a6d\" stroke-width=\"1.5\" fill=\"none\"/>\n          <path d=\"M450,433 C462,433 462,433 480,433\" stroke=\"#bd7a6d\" stroke-width=\"1.5\" fill=\"none\"/>\n          <path d=\"M450,433 C462,433 462,475 480,475\" stroke=\"#bd7a6d\" stroke-width=\"1.5\" fill=\"none\"/>\n          <rect x=\"480\" y=\"375\" width=\"456\" height=\"32\" rx=\"8\" fill=\"#f4e7e4\"/><text x=\"492\" y=\"396\" fill=\"#3d3a34\" font-size=\"14\">拉美贩毒团伙被打成外国恐怖组织</text>\n          <rect x=\"480\" y=\"417\" width=\"456\" height=\"32\" rx=\"8\" fill=\"#f4e7e4\"/><text x=\"492\" y=\"438\" fill=\"#3d3a34\" font-size=\"14\">国土安全部转去抓移民，反恐探员改行</text>\n          <rect x=\"480\" y=\"459\" width=\"456\" height=\"32\" rx=\"8\" fill=\"#f4e7e4\"/><text x=\"492\" y=\"480\" fill=\"#3d3a34\" font-size=\"14\">爱国者法案被用来查工会与进步团体账目</text>\n        </g>\n\n        <g class=\"mm-branch\" data-target=\"bc4\">\n          <rect x=\"260\" y=\"611\" width=\"190\" height=\"34\" rx=\"8\" fill=\"#ece4f2\" stroke=\"#9b86b3\"/>\n          <text x=\"349\" y=\"633\" text-anchor=\"middle\" fill=\"#5a4670\" font-size=\"15\" font-weight=\"700\">改革刚起步（¶9–10）</text>\n          <text class=\"mm-arrow\" data-for=\"bc4\" x=\"442\" y=\"633\" text-anchor=\"end\" fill=\"#5a4670\">▾</text>\n        </g>\n        <g class=\"mm-children\" id=\"bc4\">\n          <path d=\"M450,628 C462,628 462,586 480,586\" stroke=\"#9b86b3\" stroke-width=\"1.5\" fill=\"none\"/>\n          <path d=\"M450,628 C462,628 462,628 480,628\" stroke=\"#9b86b3\" stroke-width=\"1.5\" fill=\"none\"/>\n          <path d=\"M450,628 C462,628 462,670 480,670\" stroke=\"#9b86b3\" stroke-width=\"1.5\" fill=\"none\"/>\n          <rect x=\"480\" y=\"570\" width=\"456\" height=\"32\" rx=\"8\" fill=\"#ece4f2\"/><text x=\"492\" y=\"591\" fill=\"#3d3a34\" font-size=\"14\">国会六月放行七百零二条款失效</text>\n          <rect x=\"480\" y=\"612\" width=\"456\" height=\"32\" rx=\"8\" fill=\"#ece4f2\"/><text x=\"492\" y=\"633\" fill=\"#3d3a34\" font-size=\"14\">凯恩想废除〇一年战争授权，凑不齐票</text>\n          <rect x=\"480\" y=\"654\" width=\"456\" height=\"32\" rx=\"8\" fill=\"#ece4f2\"/><text x=\"492\" y=\"675\" fill=\"#3d3a34\" font-size=\"14\">等记不清九一一的一代人进国会再说</text>\n        </g>\n      </svg>",
+  "img": ""
+ }
+}
