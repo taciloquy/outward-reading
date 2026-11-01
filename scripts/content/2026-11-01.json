@@ -1,0 +1,1021 @@
+{
+ "date": "2026-11-01",
+ "title_tag": "特朗普重返白宫背后，藏着一个你可能从没听过的男人！中期选举还能复制奇迹吗？—— 英国《卫报》外刊讲解第1215天",
+ "h1": "特朗普重返白宫背后，藏着一个你可能从没听过的男人！中期选举还能复制奇迹吗？",
+ "source_label": "The Guardian",
+ "category": "卫报外刊讲解 第1215天",
+ "read_minutes": 18,
+ "nav_hint": "Brilliant James and Trump's midterms",
+ "headline": {
+  "en_html": "<span>'<mark class=\"voc\">Brilliant</mark> James' helped return Trump to the White House.</span> <span>Can he <mark class=\"voc\">conquer</mark> the <mark class=\"voc\">midterms</mark>?</span>",
+  "zh": "“天才詹姆斯”助特朗普重返白宫，他能再次拿下中期选举吗？",
+  "notes": [
+   {
+    "w": "brilliant",
+    "ipa": "/ˈbrɪliənt/",
+    "pos": "adj.",
+    "en": "extremely intelligent or skilled; exceptionally good",
+    "zh": "才华横溢的；极其聪明的；出色的",
+    "ctx": "标题里指特朗普给布莱尔起的绰号“天才詹姆斯”，夸的是他的政治才能。",
+    "ex1": "She came up with a brilliant solution to a problem that had troubled the team for months. 她想出了一个绝妙的解决方案，解决了困扰团队数月的问题。",
+    "ex2": "He is a brilliant strategist, but he sometimes struggles to work with others. 他是一位才华出众的战略家，但有时很难与他人合作。"
+   },
+   {
+    "w": "conquer",
+    "ipa": "/ˈkɒŋkə(r)/",
+    "pos": "v.",
+    "en": "to defeat someone or something; to succeed in gaining control of something",
+    "zh": "征服；战胜；攻克；成功掌控",
+    "ctx": "标题里指布莱尔能否再赢一次，帮共和党拿下中期选举。",
+    "ex1": "The young athlete was determined to conquer her fear of failure. 这位年轻运动员决心战胜自己对失败的恐惧。",
+    "ex2": "The company hopes to conquer new markets across Europe. 这家公司希望成功开拓欧洲各地的新市场。"
+   },
+   {
+    "w": "midterms",
+    "ipa": "/ˈmɪdtɜːmz/",
+    "pos": "n.",
+    "en": "elections held in the middle of a president's term of office",
+    "zh": "（美国）中期选举",
+    "ctx": "指2026年中期选举，改选众议院全部席位和参议院部分席位。",
+    "ex1": "The president's party often faces a difficult challenge in the midterms. 总统所属的政党在中期选举中往往面临严峻挑战。",
+    "ex2": "Economic concerns are expected to play a major role in the upcoming midterms. 经济问题预计将在即将到来的中期选举中发挥重要作用。"
+   }
+  ]
+ },
+ "paragraphs": [
+  {
+   "en_html": "They are both young, bald and fathers of four. They are also <mark class=\"voc\">the brains behind</mark> Donald Trump. But while Stephen Miller is <mark class=\"voc\">infamous</mark> as the US president’s <mark class=\"voc\">ideological</mark> <mark class=\"voc\">enforcer</mark>, James Blair could, in the words of Time magazine, “be the most important person in Donald Trump’s Washington you’ve never heard of”. Blair has <mark class=\"voc\">sufficiently</mark> impressed Trump to <mark class=\"voc\">earn the nickname</mark> “Brilliant James”. And a <mark class=\"voc\">well-positioned</mark> source told the Guardian: “I would say that James is probably twice, five times, 10 times more effective than Stephen Miller.”",
+   "zh": "他们都很年轻，都是光头，而且都是四个孩子的父亲。他们也都是唐纳德·特朗普背后的智囊。然而，斯蒂芬·米勒作为美国总统的意识形态执行者声名狼藉，而用《时代》杂志的话来说，詹姆斯·布莱尔可能是“特朗普治下的华盛顿最重要、但你从未听说过的人物”。布莱尔给特朗普留下了足够深刻的印象，因此赢得了“天才詹姆斯”的绰号。一位消息灵通的知情人士告诉《卫报》：“我会说，詹姆斯的办事效率可能是斯蒂芬·米勒的两倍、五倍，甚至十倍。”",
+   "notes": [
+    {
+     "w": "the brains behind",
+     "ipa": "/ðə breɪnz bɪˈhaɪnd/",
+     "pos": "固定搭配",
+     "en": "the person or people who plan, organize or develop something successful",
+     "zh": "幕后的策划者；幕后智囊；真正出谋划策的人",
+     "ctx": "指米勒和布莱尔都是特朗普背后负责制定策略、提供政治建议的核心人物。",
+     "ex1": "Although the CEO gets most of the attention, her younger brother is the brains behind the company's success. 尽管首席执行官吸引了大部分关注，但她的弟弟才是公司成功背后的真正智囊。",
+     "ex2": "Few people know that a group of university students were the brains behind the entire project. 很少有人知道，整个项目背后的策划者其实是一群大学生。"
+    },
+    {
+     "w": "infamous",
+     "ipa": "/ˈɪnfəməs/",
+     "pos": "adj.",
+     "en": "well known for something bad or unpleasant",
+     "zh": "臭名昭著的；声名狼藉的",
+     "ctx": "形容米勒因强硬的政策执行方式广为人知，并带有明显的负面评价。",
+     "ex1": "The businessman became infamous for treating his employees unfairly. 这名商人因不公平地对待员工而臭名昭著。",
+     "ex2": "The prison was infamous for its harsh conditions and cruel treatment of prisoners. 这座监狱因恶劣的环境和对囚犯的残酷待遇而声名狼藉。"
+    },
+    {
+     "w": "ideological",
+     "ipa": "/ˌaɪdiəˈlɒdʒɪkl/",
+     "pos": "adj.",
+     "en": "relating to a set of political, social or religious beliefs and ideas",
+     "zh": "意识形态的；思想观念上的",
+     "ctx": "强调米勒在特朗普政府中负责推动和维护总统的政治理念及政策立场。",
+     "ex1": "The disagreement between the two leaders was ideological rather than personal. 两位领导人之间的分歧是意识形态上的，而非私人恩怨。",
+     "ex2": "The newspaper has been criticised for allowing ideological differences to influence its reporting. 这家报纸因让意识形态分歧影响新闻报道而受到批评。"
+    },
+    {
+     "w": "enforcer",
+     "ipa": "/ɪnˈfɔːsə(r)/",
+     "pos": "n.",
+     "en": "a person who makes sure that rules, laws or decisions are obeyed",
+     "zh": "执行者；强制实施者；负责确保命令得到执行的人",
+     "ctx": "指米勒是特朗普政治理念的强硬执行者，负责确保相关政策得到贯彻。",
+     "ex1": "The new manager quickly gained a reputation as a strict enforcer of company rules. 这位新经理很快就以严格执行公司规章制度而闻名。",
+     "ex2": "He acted as the president's chief enforcer, making sure that every department followed the new policy. 他充当总统的首席执行者，确保每个部门都遵守新政策。"
+    },
+    {
+     "w": "sufficiently",
+     "ipa": "/səˈfɪʃntli/",
+     "pos": "adv.",
+     "en": "to a degree that is enough for a particular purpose",
+     "zh": "充分地；足够地；达到所需程度地",
+     "ctx": "指布莱尔的表现已经足够出色，给特朗普留下深刻印象，以至于获得特殊绰号。",
+     "ex1": "The young lawyer performed sufficiently well to earn the trust of her senior colleagues. 这位年轻律师表现得足够出色，赢得了资深同事的信任。",
+     "ex2": "The evidence was sufficiently convincing to change the judge's mind. 这些证据足够有说服力，使法官改变了看法。"
+    },
+    {
+     "w": "earn the nickname",
+     "ipa": "/ɜːn ðə ˈnɪkneɪm/",
+     "pos": "固定搭配",
+     "en": "to become known by a particular informal name because of one's behaviour, achievements or characteristics",
+     "zh": "赢得某个绰号；因某种特点而被称为",
+     "ctx": "布莱尔凭借政治能力和工作表现，被特朗普称为“天才詹姆斯”。",
+     "ex1": "Because of his extraordinary memory, he earned the nickname \"the Walking Encyclopedia\". 因为记忆力惊人，他赢得了“行走的百科全书”这一绰号。",
+     "ex2": "The football player earned the nickname \"the Machine\" for his remarkable consistency. 这名足球运动员因为表现始终稳定出色，而赢得了“机器”这个绰号。"
+    },
+    {
+     "w": "well-positioned",
+     "ipa": "/ˌwel pəˈzɪʃnd/",
+     "pos": "adj.",
+     "en": "having a favourable position, especially one that provides access to useful information or opportunities",
+     "zh": "处于有利地位的；掌握内部消息的；消息灵通的",
+     "ctx": "形容这位知情人士在政治圈内有人脉、有地位，因此能拿到可靠的内部信息。",
+     "ex1": "A well-positioned source revealed that the company was preparing for a major restructuring. 一位消息灵通的知情人士透露，该公司正准备进行重大重组。",
+     "ex2": "With years of experience in the industry, she is well-positioned to understand the challenges facing the company. 凭借多年的行业经验，她处于有利位置，能够充分理解公司面临的挑战。"
+    }
+   ]
+  },
+  {
+   "en_html": "Blair, 37, is a <mark class=\"voc\">data-driven</mark> political <mark class=\"voc\">operative</mark> who played a key role in Trump’s historic <mark class=\"voc\">comeback</mark> to win the 2024 presidential election. Now he faces his <mark class=\"voc\">stiffest</mark> challenge yet: helping Republicans <mark class=\"voc\">hold</mark> the House of Representatives and Senate in the next month’s midterm elections. Blair <mark class=\"voc\">cut his political teeth</mark> in the <mark class=\"voc\">partisan</mark> <mark class=\"voc\">pressure cooker</mark> of Florida politics. At 22, he was interviewed for a position under Richard Corcoran, then a <mark class=\"voc\">powerbroker</mark> and future <mark class=\"voc\">speaker</mark> of the Florida house of representatives.",
+   "zh": "37岁的布莱尔是一名以数据为导向的政治操盘手，他在特朗普历史性地东山再起、赢得2024年总统大选的过程中发挥了关键作用。如今，他正面临迄今为止最严峻的挑战：帮助共和党在下个月的中期选举中保住众议院和参议院的控制权。布莱尔是在佛罗里达州党派斗争激烈的政治环境中崭露头角、磨炼政治本领的。22岁时，他曾参加一场面试，应聘理查德·科科伦手下的一个职位。科科伦当时是佛罗里达州政坛的一位实权人物，后来成为该州众议院议长。",
+   "notes": [
+    {
+     "w": "data-driven",
+     "ipa": "/ˈdeɪtə ˌdrɪvn/",
+     "pos": "adj.",
+     "en": "based on information and facts collected through data rather than personal opinions or guesses",
+     "zh": "数据驱动的；以数据为依据的",
+     "ctx": "形容布莱尔依靠选民数据、统计分析和实际信息制定竞选策略，而非凭直觉。",
+     "ex1": "The company adopted a data-driven approach to understand what its customers really wanted. 这家公司采用数据驱动的方法，了解顾客真正想要什么。",
+     "ex2": "Data-driven decisions are often more reliable than those based purely on intuition. 以数据为依据的决策通常比完全依靠直觉的决策更可靠。"
+    },
+    {
+     "w": "operative",
+     "ipa": "/ˈɒpərətɪv/",
+     "pos": "n.",
+     "en": "a person who works secretly or actively for a political organization, government or other group",
+     "zh": "政治活动人员；特工；执行人员",
+     "ctx": "political operative 指政治操盘手，负责竞选策略、组织协调及选举活动。",
+     "ex1": "The party hired several experienced political operatives to manage its election campaign. 该政党聘请了几名经验丰富的政治操盘手来管理竞选活动。",
+     "ex2": "Behind every successful candidate is often a team of skilled political operatives. 每位成功的候选人背后，往往都有一支能力出众的政治运作团队。"
+    },
+    {
+     "w": "comeback",
+     "ipa": "/ˈkʌmbæk/",
+     "pos": "n.",
+     "en": "a return to success or popularity after a period of failure or difficulty",
+     "zh": "东山再起；卷土重来；重新走红",
+     "ctx": "指特朗普2020年败选之后，于2024年重新赢得总统大选。",
+     "ex1": "After years of disappointing performances, the singer made a spectacular comeback with her new album. 在多年表现不尽如人意之后，这位歌手凭借新专辑实现了惊艳的回归。",
+     "ex2": "Few people believed the struggling company could make such an impressive comeback. 很少有人相信这家陷入困境的公司能够如此成功地东山再起。"
+    },
+    {
+     "w": "stiff",
+     "ipa": "/stɪf/",
+     "pos": "adj.",
+     "en": "strong, severe or difficult to deal with, especially when describing competition or challenges",
+     "zh": "严峻的；激烈的；艰难的；僵硬的",
+     "ctx": "stiffest challenge 指最严峻、最艰巨的挑战，强调这次政治考验比以往更难。",
+     "ex1": "The young entrepreneur faced stiff competition from several well-established companies. 这位年轻企业家面临着来自几家老牌公司的激烈竞争。",
+     "ex2": "Winning the championship will be the stiffest challenge of her career. 赢得冠军将是她职业生涯中最严峻的挑战。"
+    },
+    {
+     "w": "hold",
+     "ipa": "/həʊld/",
+     "pos": "v.",
+     "en": "to keep control or possession of something",
+     "zh": "保持；守住；继续控制",
+     "ctx": "指共和党在中期选举中继续保持对众议院和参议院的控制权。",
+     "ex1": "The ruling party is struggling to hold its majority in parliament. 执政党正努力保住其在议会中的多数席位。",
+     "ex2": "Despite growing public dissatisfaction, the government managed to hold power. 尽管公众的不满情绪不断上升，政府还是设法保住了权力。"
+    },
+    {
+     "w": "cut one's teeth",
+     "ipa": "/kʌt wʌnz tiːθ/",
+     "pos": "固定搭配",
+     "en": "to get your first experience of doing something, especially in a particular job or profession",
+     "zh": "初出茅庐；开始积累经验；初步磨炼本领",
+     "ctx": "cut his political teeth 指布莱尔在佛罗里达州政坛起步，在激烈斗争中积累经验。",
+     "ex1": "She cut her teeth as a journalist at a small local newspaper before joining a national broadcaster. 她最初在一家地方小报当记者，积累经验后才加入全国性广播机构。",
+     "ex2": "Many successful entrepreneurs cut their teeth by running small businesses in their twenties. 许多成功的企业家都是在二十多岁时通过经营小生意来磨炼本领的。"
+    },
+    {
+     "w": "partisan",
+     "ipa": "/ˈpɑːtɪzæn/",
+     "pos": "adj.",
+     "en": "strongly supporting a particular political party, group or cause, often without considering other opinions",
+     "zh": "党派性的；具有强烈党派立场的；偏袒一方的",
+     "ctx": "形容佛罗里达州政治中两党立场鲜明、竞争激烈，政治斗争带有强烈党派色彩。",
+     "ex1": "The debate quickly turned into a partisan argument, with neither side willing to compromise. 这场辩论很快演变成党派争执，双方都不愿妥协。",
+     "ex2": "The journalist was criticised for allowing partisan views to influence his reporting. 这名记者因让党派立场影响新闻报道而受到批评。"
+    },
+    {
+     "w": "pressure cooker",
+     "ipa": "/ˈpreʃə ˌkʊkə(r)/",
+     "pos": "n.",
+     "en": "a situation in which people experience a great deal of stress, tension or pressure",
+     "zh": "高压环境；紧张激烈的局面；压力锅",
+     "ctx": "partisan pressure cooker 比喻佛州政坛像一口压力锅，党派竞争激烈、压力巨大。",
+     "ex1": "The final weeks before the election turned the campaign headquarters into a pressure cooker. 选举前的最后几周，竞选总部变成了一个高度紧张的高压环境。",
+     "ex2": "Working in a busy emergency department can feel like living in a pressure cooker. 在繁忙的急诊科工作，有时就像生活在高压锅里一样。"
+    },
+    {
+     "w": "powerbroker",
+     "ipa": "/ˈpaʊəˌbrəʊkə(r)/",
+     "pos": "n.",
+     "en": "a person who has great influence over political or business decisions, especially behind the scenes",
+     "zh": "权势人物；政治掮客；幕后实权人物",
+     "ctx": "指科科伦当时已在佛州政坛有很大影响力，能左右政治决策和人事安排。",
+     "ex1": "Although he never ran for office, the wealthy businessman became a powerful political powerbroker. 尽管这位富商从未竞选公职，他却成了一名颇具影响力的政治幕后人物。",
+     "ex2": "Several influential powerbrokers gathered privately to discuss the party's future leadership. 几位颇具影响力的实权人物私下聚集，讨论该党未来的领导层人选。"
+    },
+    {
+     "w": "speaker",
+     "ipa": "/ˈspiːkə(r)/",
+     "pos": "n.",
+     "en": "the person who officially leads meetings and debates in a legislative assembly",
+     "zh": "（议会的）议长；主持议会会议的人",
+     "ctx": "speaker of the Florida house of representatives 指佛罗里达州众议院议长。",
+     "ex1": "The speaker called for order after a heated argument broke out in parliament. 议会爆发激烈争论后，议长要求恢复秩序。",
+     "ex2": "After years of political experience, she was elected speaker of the state assembly. 经过多年的政治历练，她当选为州议会议长。"
+    }
+   ]
+  },
+  {
+   "en_html": "By 2018, Blair was serving as senior adviser to the <mark class=\"voc\">gubernatorial</mark> campaign of Republican Ron DeSantis and joined his administration as <mark class=\"voc\">deputy chief of staff</mark>, where he <mark class=\"voc\">forged</mark> his <mark class=\"voc\">defining</mark> <mark class=\"voc\">alliance</mark> with political <mark class=\"voc\">strategist</mark> Susie Wiles, now Trump’s chief of staff. Wiles hired Blair again for Trump’s <mark class=\"voc\">improbable</mark> <mark class=\"voc\">bid</mark> to <mark class=\"voc\">regain</mark> the White House. In March 2024, Blair became political director of Trump’s presidential campaign, helping shape its <mark class=\"voc\">voter-targeting</mark> strategy.",
+   "zh": "到2018年，布莱尔已经担任共和党人罗恩·德桑蒂斯竞选州长期间的高级顾问，随后加入德桑蒂斯的州政府，担任副幕僚长。在那里，他与政治策略师苏西·怀尔斯建立了对其职业生涯具有决定性意义的合作关系。怀尔斯如今是特朗普的白宫幕僚长。后来，怀尔斯再次聘请布莱尔，参与特朗普那场看似胜算渺茫、旨在重返白宫的竞选。2024年3月，布莱尔成为特朗普总统竞选团队的政治总监，协助制定针对特定选民群体的竞选策略。",
+   "notes": [
+    {
+     "w": "gubernatorial",
+     "ipa": "/ˌɡuːbənəˈtɔːriəl/",
+     "pos": "adj.",
+     "en": "relating to the position or election of a governor",
+     "zh": "州长的；州长选举的",
+     "ctx": "gubernatorial campaign 指德桑蒂斯竞选佛罗里达州州长的活动。",
+     "ex1": "The gubernatorial race attracted national attention because of its unusually close results. 这场州长选举因结果异常接近而引起全国关注。",
+     "ex2": "Several candidates announced their plans to enter the upcoming gubernatorial election. 几名候选人宣布计划参加即将举行的州长选举。"
+    },
+    {
+     "w": "deputy chief of staff",
+     "ipa": "/ˈdepjuti tʃiːf əv stɑːf/",
+     "pos": "固定搭配",
+     "en": "a senior official who assists the chief of staff in managing an organization's operations and advising its leader",
+     "zh": "副幕僚长；副办公室主任",
+     "ctx": "指布莱尔在德桑蒂斯州政府及白宫担任的高级职务，协助幕僚长协调事务。",
+     "ex1": "The deputy chief of staff was responsible for coordinating meetings between senior government officials. 副幕僚长负责协调政府高级官员之间的会议。",
+     "ex2": "After several years as a political adviser, he was promoted to deputy chief of staff. 在担任政治顾问数年后，他被提拔为副幕僚长。"
+    },
+    {
+     "w": "forge",
+     "ipa": "/fɔːdʒ/",
+     "pos": "v.",
+     "en": "to create or develop a strong relationship, agreement or connection through effort",
+     "zh": "建立；缔造；锻造；形成牢固的关系",
+     "ctx": "forged his defining alliance 指布莱尔与怀尔斯建立起对其政治生涯有决定性影响的合作。",
+     "ex1": "The two entrepreneurs forged a strong partnership while working on a difficult project. 两位企业家在合作完成一个艰难项目的过程中建立了牢固的伙伴关系。",
+     "ex2": "Shared experiences during the crisis helped forge a lasting friendship between them. 危机期间共同经历的事情帮助他们建立了持久的友谊。"
+    },
+    {
+     "w": "defining",
+     "ipa": "/dɪˈfaɪnɪŋ/",
+     "pos": "adj.",
+     "en": "having a major influence on the character, development or future of someone or something",
+     "zh": "决定性的；具有重大影响的；起关键作用的",
+     "ctx": "强调这段政治联盟成为布莱尔职业生涯的转折点，对他进入特朗普核心团队起关键作用。",
+     "ex1": "Winning the international competition was a defining moment in the young musician's career. 赢得国际比赛是这位年轻音乐家职业生涯中的决定性时刻。",
+     "ex2": "Her decision to leave a secure job and start her own business became a defining choice in her life. 她辞去稳定工作、自己创业的决定，成为她人生中一个具有决定性意义的选择。"
+    },
+    {
+     "w": "alliance",
+     "ipa": "/əˈlaɪəns/",
+     "pos": "n.",
+     "en": "an agreement or relationship between people, groups or countries to work together for a shared purpose",
+     "zh": "联盟；同盟；合作关系",
+     "ctx": "指布莱尔与怀尔斯之间形成的重要政治合作关系，两人因共同目标走到一起。",
+     "ex1": "The two political parties formed an alliance to strengthen their influence in parliament. 两个政党结成联盟，以增强它们在议会中的影响力。",
+     "ex2": "The alliance between the technology companies allowed them to develop new products more quickly. 这些科技公司之间的合作联盟使它们能够更快地开发新产品。"
+    },
+    {
+     "w": "strategist",
+     "ipa": "/ˈstrætədʒɪst/",
+     "pos": "n.",
+     "en": "a person who is skilled at planning actions designed to achieve a particular goal",
+     "zh": "战略家；策略师；善于制定计划的人",
+     "ctx": "political strategist 指政治策略师，负责为候选人制定竞选路线、政治传播及选举策略。",
+     "ex1": "The company hired an experienced strategist to help it enter the Asian market. 公司聘请了一位经验丰富的战略顾问，帮助其进入亚洲市场。",
+     "ex2": "A successful political strategist must understand both public opinion and voter behaviour. 一位成功的政治策略师必须同时了解公众舆论和选民行为。"
+    },
+    {
+     "w": "improbable",
+     "ipa": "/ɪmˈprɒbəbl/",
+     "pos": "adj.",
+     "en": "not likely to happen or be true",
+     "zh": "不大可能的；看似不可能的；胜算渺茫的",
+     "ctx": "形容特朗普重返白宫的计划在当时看来成功可能性很低。",
+     "ex1": "Against all expectations, the small football club achieved an improbable victory over the national champions. 出乎所有人的意料，这家小足球俱乐部竟然战胜了全国冠军，取得了一场不可思议的胜利。",
+     "ex2": "What began as an improbable dream eventually became one of the country's greatest business success stories. 一个起初看似不可能实现的梦想，最终成为这个国家最成功的商业故事之一。"
+    },
+    {
+     "w": "bid",
+     "ipa": "/bɪd/",
+     "pos": "n.",
+     "en": "an attempt to achieve, obtain or win something, especially a position of power",
+     "zh": "努力争取；尝试；竞选；争夺",
+     "ctx": "Trump's improbable bid to regain the White House 指特朗普那场希望渺茫的重返白宫之争。",
+     "ex1": "The former minister announced a new bid for the party leadership. 这位前部长宣布再次竞选党魁。",
+     "ex2": "The company launched an ambitious bid to become the world's largest electric vehicle manufacturer. 这家公司发起了一项雄心勃勃的计划，力争成为全球最大的电动汽车制造商。"
+    },
+    {
+     "w": "regain",
+     "ipa": "/rɪˈɡeɪn/",
+     "pos": "v.",
+     "en": "to get back something that you have lost or no longer possess",
+     "zh": "重新获得；夺回；恢复",
+     "ctx": "regain the White House 指特朗普失去总统职位后，试图重新赢回白宫。",
+     "ex1": "After several difficult years, the company finally regained the trust of its customers. 经历了数年的困难之后，这家公司终于重新赢得了顾客的信任。",
+     "ex2": "The athlete worked tirelessly to regain her confidence after a serious injury. 这名运动员在严重受伤后不懈努力，以重新找回自信。"
+    },
+    {
+     "w": "voter-targeting",
+     "ipa": "/ˈvəʊtə ˌtɑːɡɪtɪŋ/",
+     "pos": "adj.",
+     "en": "relating to the use of information to identify and reach particular groups of voters during an election campaign",
+     "zh": "针对特定选民的；选民精准定位的",
+     "ctx": "voter-targeting strategy 指用选民数据识别关键群体，再有针对性地宣传和动员。",
+     "ex1": "The campaign developed a voter-targeting strategy to reach young people who rarely participated in elections. 竞选团队制定了一项选民精准定位策略，以接触那些很少参与选举的年轻人。",
+     "ex2": "Modern voter-targeting techniques allow political parties to deliver different messages to different communities. 现代选民精准定位技术使政党能够向不同群体传递不同的信息。"
+    }
+   ]
+  },
+  {
+   "en_html": "Blair’s <mark class=\"voc\">core</mark> contribution to the 2024 campaign was his <mark class=\"voc\">radical</mark> willingness to <mark class=\"voc\">discard</mark> Washington’s <mark class=\"voc\">conventional wisdom</mark>. While traditional operations rely on costly <mark class=\"voc\">brick-and-mortar</mark> <mark class=\"voc\">field offices</mark> and heavy television advertising, Blair argued that broadcast television was losing influence to <mark class=\"voc\">digital-first</mark> strategies, taking the bold step of both closing field offices and <mark class=\"voc\">outsourcing</mark> <mark class=\"voc\">get-out-the-vote</mark> operations to independent super <mark class=\"voc\">political action committees</mark> (Pacs). “He <mark class=\"voc\">took a lot of abuse</mark>, but the president’s <mark class=\"voc\">comfortable</mark> win was read as a confirmation of Blair’s data-driven approach.”",
+   "zh": "布莱尔对2024年竞选活动最核心的贡献，在于他敢于彻底抛弃华盛顿政坛奉为圭臬的传统观念。传统竞选活动依赖成本高昂的实体地方竞选办公室和大规模电视广告投放，而布莱尔认为，广播电视的影响力正在逐渐让位于数字优先的竞选策略。因此，他大胆采取了两项举措：关闭地方竞选办公室，并将动员选民投票的工作外包给独立的超级政治行动委员会（Pacs）。“他因此遭受了大量抨击，但总统最终以明显优势获胜，被视为对布莱尔数据驱动策略的肯定。”",
+   "notes": [
+    {
+     "w": "core",
+     "ipa": "/kɔː(r)/",
+     "pos": "adj.",
+     "en": "most important or central to something",
+     "zh": "核心的；最重要的；根本的",
+     "ctx": "core contribution 指布莱尔在2024年竞选中作出的最核心、最关键的贡献。",
+     "ex1": "Trust is a core element of any successful relationship. 信任是任何成功关系中的核心要素。",
+     "ex2": "The company's core problem was not a lack of customers but poor management. 这家公司的核心问题不是缺少顾客，而是管理不善。"
+    },
+    {
+     "w": "radical",
+     "ipa": "/ˈrædɪkl/",
+     "pos": "adj.",
+     "en": "very different from the usual or traditional way of doing something",
+     "zh": "激进的；彻底的；根本性的；突破传统的",
+     "ctx": "形容布莱尔敢彻底改变传统竞选模式，采取与华盛顿惯例截然不同的打法。",
+     "ex1": "The new CEO introduced radical changes to the company's management structure. 新任首席执行官对公司的管理架构进行了彻底改革。",
+     "ex2": "What seemed like a radical idea ten years ago has now become common practice. 十年前看似激进的想法，如今已经成为普遍做法。"
+    },
+    {
+     "w": "discard",
+     "ipa": "/dɪˈskɑːd/",
+     "pos": "v.",
+     "en": "to get rid of something that is no longer wanted, needed or considered useful",
+     "zh": "丢弃；抛弃；摒弃",
+     "ctx": "discard Washington's conventional wisdom 指布莱尔抛弃华盛顿政坛长期奉行的传统竞选理念。",
+     "ex1": "The company decided to discard its outdated business model and focus on online sales. 公司决定摒弃过时的商业模式，转而专注线上销售。",
+     "ex2": "We should not discard a good idea simply because it challenges tradition. 我们不应该仅仅因为一个好主意挑战了传统，就将其抛弃。"
+    },
+    {
+     "w": "conventional wisdom",
+     "ipa": "/kənˌvenʃənl ˈwɪzdəm/",
+     "pos": "固定搭配",
+     "en": "the generally accepted beliefs or opinions about what is true or the best way to do something",
+     "zh": "传统观念；普遍接受的看法；约定俗成的智慧",
+     "ctx": "Washington's conventional wisdom 指华盛顿政治圈长期形成、被广泛接受的竞选经验。",
+     "ex1": "Conventional wisdom suggests that working longer hours leads to greater success, but research tells a different story. 传统观念认为工作时间越长就越容易成功，但研究却给出了不同的答案。",
+     "ex2": "The young scientist challenged conventional wisdom and developed an entirely new theory. 这位年轻科学家挑战了传统观念，并提出了一套全新的理论。"
+    },
+    {
+     "w": "brick-and-mortar",
+     "ipa": "/ˌbrɪk ən ˈmɔːtə(r)/",
+     "pos": "adj.",
+     "en": "operating from a physical building rather than only through the internet",
+     "zh": "实体的；有实际经营场所的；非纯线上的",
+     "ctx": "brick-and-mortar field offices 指传统竞选团队在各地设立的实体办公室，与线上方式形成对比。",
+     "ex1": "Many brick-and-mortar stores are struggling to compete with online retailers. 许多实体商店正艰难地与线上零售商竞争。",
+     "ex2": "Instead of opening a brick-and-mortar shop, she decided to sell her handmade products online. 她决定在线上销售自己的手工艺品，而不是开一家实体店。"
+    },
+    {
+     "w": "field office",
+     "ipa": "/ˈfiːld ˌɒfɪs/",
+     "pos": "n.",
+     "en": "a local office established by an organization to manage activities in a particular area",
+     "zh": "地方办事处；基层办公室；地方竞选办公室",
+     "ctx": "指竞选团队在不同地区设立的实体办公室，负责组织志愿者、联系选民。",
+     "ex1": "The charity opened several field offices to coordinate relief efforts in rural communities. 这家慈善机构设立了多个地方办事处，以协调农村社区的救援工作。",
+     "ex2": "Volunteers gathered at the local field office before visiting voters in nearby neighbourhoods. 志愿者们在当地竞选办公室集合，然后前往附近社区拜访选民。"
+    },
+    {
+     "w": "digital-first",
+     "ipa": "/ˌdɪdʒɪtl ˈfɜːst/",
+     "pos": "adj.",
+     "en": "giving priority to digital technology and online platforms rather than traditional methods",
+     "zh": "数字优先的；优先采用数字化渠道的",
+     "ctx": "digital-first strategies 指优先用互联网、社交媒体和数字平台做宣传与动员。",
+     "ex1": "The newspaper adopted a digital-first strategy to attract younger readers. 这家报纸采用数字优先战略，以吸引年轻读者。",
+     "ex2": "A digital-first approach allows small businesses to reach customers without opening expensive physical stores. 数字优先的经营方式让小企业无需开设昂贵的实体店，也能接触到顾客。"
+    },
+    {
+     "w": "outsource",
+     "ipa": "/ˈaʊtsɔːs/",
+     "pos": "v.",
+     "en": "to arrange for work to be done by another company or organization rather than by your own employees",
+     "zh": "外包；将工作委托给外部机构",
+     "ctx": "指布莱尔不再让竞选团队自己扛下全部催票工作，而把它交给独立的超级政治行动委员会。",
+     "ex1": "The technology company decided to outsource its customer service operations to reduce costs. 这家科技公司决定将客户服务业务外包，以降低成本。",
+     "ex2": "Small businesses often outsource accounting tasks instead of hiring full-time accountants. 小企业经常将会计工作外包，而不是聘请全职会计。"
+    },
+    {
+     "w": "get-out-the-vote",
+     "ipa": "/ˌɡet aʊt ðə ˈvəʊt/",
+     "pos": "固定搭配",
+     "en": "relating to organized efforts to encourage people to vote in an election",
+     "zh": "动员选民投票的；催票的；促进投票参与的",
+     "ctx": "get-out-the-vote operations 指通过联系、提醒和组织选民来提高支持者实际投票率的活动。",
+     "ex1": "The campaign launched a get-out-the-vote effort aimed at first-time voters. 竞选团队发起了一项针对首次投票选民的投票动员活动。",
+     "ex2": "Hundreds of volunteers participated in get-out-the-vote operations during the final weekend before the election. 选举前的最后一个周末，数百名志愿者参与了选民投票动员工作。"
+    },
+    {
+     "w": "political action committee",
+     "ipa": "/pəˈlɪtɪkl ˈækʃn kəˌmɪti/",
+     "pos": "n.",
+     "en": "an organization that raises and spends money to influence elections or political decisions",
+     "zh": "政治行动委员会",
+     "ctx": "super political action committees 指超级政治行动委员会，可独立筹款与支出助选，但不得与竞选团队协调。",
+     "ex1": "The political action committee raised millions of dollars to support candidates who shared its policy goals. 这个政治行动委员会筹集了数百万美元，用于支持与其政策目标一致的候选人。",
+     "ex2": "Political action committees play an important role in financing election-related activities in the United States. 政治行动委员会在美国选举相关活动的资金筹集方面发挥着重要作用。"
+    },
+    {
+     "w": "take abuse",
+     "ipa": "/teɪk əˈbjuːs/",
+     "pos": "固定搭配",
+     "en": "to experience harsh criticism, insults or unfair treatment from others",
+     "zh": "遭受辱骂；受到猛烈批评；承受攻击",
+     "ctx": "He took a lot of abuse 指布莱尔因采取激进竞选策略而遭受大量批评和攻击。",
+     "ex1": "The young politician took a lot of abuse after proposing changes to the education system. 这位年轻政治家在提出教育制度改革后遭受了大量抨击。",
+     "ex2": "Public figures often have to take abuse on social media when they express unpopular opinions. 公众人物表达不受欢迎的观点时，往往不得不承受社交媒体上的辱骂。"
+    },
+    {
+     "w": "comfortable",
+     "ipa": "/ˈkʌmftəbl/",
+     "pos": "adj.",
+     "en": "large enough to make a victory or advantage clear and secure",
+     "zh": "优势明显的；稳操胜券的；宽裕的；舒适的",
+     "ctx": "comfortable win 指特朗普以较为明显的优势赢下大选，而不是勉强险胜。",
+     "ex1": "The home team secured a comfortable victory with a three-goal lead. 主队以三球优势轻松取胜。",
+     "ex2": "Despite early predictions of a close race, the candidate achieved a comfortable win. 尽管早期预测选情胶着，这位候选人最终还是以明显优势获胜。"
+    }
+   ]
+  },
+  {
+   "en_html": "After Trump’s second <mark class=\"voc\">inauguration</mark>, Blair entered the White House as a deputy chief of staff, bringing political <mark class=\"voc\">affairs</mark>, <mark class=\"voc\">intergovernmental</mark> affairs and <mark class=\"voc\">legislative</mark> affairs under his control, giving him an unusually broad <mark class=\"voc\">portfolio</mark>. The president told a holiday <mark class=\"voc\">reception</mark> last year: “I’d hear from other people he’s a total political <mark class=\"voc\">genius</mark>, but I didn’t see it. And you know what? He’s not quiet. He’s incredible – the job you’ve done, thank you, James.”",
+   "zh": "特朗普第二次就职后，布莱尔以副幕僚长的身份进入白宫，将政治事务、政府间事务和立法事务都纳入自己的管辖范围，使他拥有了异常广泛的职权。去年，特朗普总统在一场节日招待会上说：“我以前总听别人说他是个彻头彻尾的政治天才，但我当时没看出来。不过你们知道吗？他可不是个默默无闻、不声不响的人。他太了不起了——詹姆斯，你做得太出色了，谢谢你。”",
+   "notes": [
+    {
+     "w": "inauguration",
+     "ipa": "/ɪˌnɔːɡjəˈreɪʃn/",
+     "pos": "n.",
+     "en": "a formal ceremony at which someone officially begins an important job or position",
+     "zh": "就职典礼；就职仪式；正式就任",
+     "ctx": "Trump's second inauguration 指特朗普第二次宣誓就任美国总统的就职典礼。",
+     "ex1": "Thousands of people gathered outside the parliament building to watch the president's inauguration. 数千人聚集在议会大楼外，观看总统的就职典礼。",
+     "ex2": "The new leader promised major economic reforms during her inauguration speech. 新领导人在就职演讲中承诺推行重大经济改革。"
+    },
+    {
+     "w": "affairs",
+     "ipa": "/əˈfeəz/",
+     "pos": "n.",
+     "en": "matters or activities connected with a particular subject, organization or area of responsibility",
+     "zh": "事务；事宜；活动",
+     "ctx": "political affairs、intergovernmental affairs 和 legislative affairs 分别指政治、政府间和立法事务。",
+     "ex1": "The minister is responsible for managing the country's foreign affairs. 这位部长负责管理国家的外交事务。",
+     "ex2": "She spent most of her career working in public affairs and government relations. 她职业生涯的大部分时间都从事公共事务和政府关系方面的工作。"
+    },
+    {
+     "w": "intergovernmental",
+     "ipa": "/ˌɪntəˌɡʌvənˈmentl/",
+     "pos": "adj.",
+     "en": "involving or relating to two or more governments or different levels of government",
+     "zh": "政府间的；不同层级政府之间的",
+     "ctx": "intergovernmental affairs 指白宫与州、地方政府及其他机构之间的沟通协调事务。",
+     "ex1": "Intergovernmental cooperation is essential when dealing with environmental problems that cross national borders. 在处理跨越国界的环境问题时，政府间合作至关重要。",
+     "ex2": "The new policy requires stronger intergovernmental coordination between federal and state authorities. 这项新政策要求联邦与州政府部门之间加强协调。"
+    },
+    {
+     "w": "legislative",
+     "ipa": "/ˈledʒɪslətɪv/",
+     "pos": "adj.",
+     "en": "relating to the process of making or changing laws",
+     "zh": "立法的；与法律制定有关的",
+     "ctx": "legislative affairs 指白宫与国会之间围绕法案制定、审议和通过的协调工作。",
+     "ex1": "The government introduced a series of legislative reforms to strengthen consumer protection. 政府推出了一系列立法改革，以加强消费者保护。",
+     "ex2": "The proposal cannot become law without legislative approval. 这项提案未经立法机构批准就不能成为法律。"
+    },
+    {
+     "w": "portfolio",
+     "ipa": "/pɔːtˈfəʊliəʊ/",
+     "pos": "n.",
+     "en": "the range of responsibilities or duties assigned to a particular official or professional",
+     "zh": "职责范围；职务分工；投资组合；作品集",
+     "ctx": "an unusually broad portfolio 指布莱尔同时负责政治、政府间协调和立法等多个领域，职权异常之广。",
+     "ex1": "The newly appointed minister was given a broad portfolio covering education, culture and scientific research. 新任部长被赋予了广泛的职责，涵盖教育、文化和科学研究。",
+     "ex2": "As the company expanded, her portfolio grew to include international operations and strategic planning. 随着公司扩张，她的职责范围扩大到了国际业务和战略规划。"
+    },
+    {
+     "w": "reception",
+     "ipa": "/rɪˈsepʃn/",
+     "pos": "n.",
+     "en": "a formal social event held to welcome people or celebrate a special occasion",
+     "zh": "招待会；欢迎会；接待活动",
+     "ctx": "holiday reception 指白宫举办的节日招待会，特朗普在这一场合公开称赞布莱尔的工作表现。",
+     "ex1": "The ambassador hosted a reception to celebrate the country's national day. 大使举办了一场招待会，庆祝该国国庆日。",
+     "ex2": "Several senior officials attended the reception following the international conference. 几位高级官员出席了国际会议结束后的招待会。"
+    },
+    {
+     "w": "genius",
+     "ipa": "/ˈdʒiːniəs/",
+     "pos": "n.",
+     "en": "a person who has exceptional intelligence, creativity or ability in a particular field",
+     "zh": "天才；具有非凡才能的人",
+     "ctx": "a total political genius 指不折不扣的政治天才，强调布莱尔在政治策略上的非凡才能。",
+     "ex1": "Many people consider her a financial genius because of her ability to predict market trends. 许多人认为她是金融天才，因为她能够预测市场趋势。",
+     "ex2": "He may be a genius at solving technical problems, but he finds ordinary social situations difficult. 他或许是解决技术问题的天才，但面对普通社交场合却感到困难。"
+    }
+   ]
+  },
+  {
+   "en_html": "As the 2026 midterms approached, Blair <mark class=\"voc\">stepped away from</mark> the White House to <mark class=\"voc\">take charge of</mark> the political action committee Maga Inc, taking the lead in the effort to preserve Republican control of Congress. By the end of August, it had $415m in the bank. But Blair is aware of the economic <mark class=\"voc\">headwinds</mark> facing the party. Whipple recalls a conversation with Blair in December regarding the midterm <mark class=\"voc\">outlook</mark>. “Blair said essentially that it doesn’t matter what we do about Jeffrey Epstein or any of the other problems we have. If we don’t do something about <mark class=\"voc\">affordability</mark>, we are <mark class=\"voc\">fucked</mark>. <mark class=\"voc\">And so here we are</mark>.”",
+   "zh": "随着2026年中期选举临近，布莱尔离开白宫，接手政治行动委员会Maga Inc，主导共和党保住国会控制权的努力。截至8月底，该委员会的银行账户中已有4.15亿美元。然而，布莱尔也清楚共和党正面临经济方面的不利因素。惠普尔回忆起去年12月与布莱尔就中期选举前景进行的一次谈话。“布莱尔当时的意思基本上是，不管我们如何处理杰弗里·爱泼斯坦的问题，或者我们面临的其他任何问题，都无关紧要。如果我们不采取措施解决民众的生活负担问题，我们就彻底完蛋了。现在，我们果然走到了这一步。”",
+   "notes": [
+    {
+     "w": "step away from",
+     "ipa": "/step əˈweɪ frəm/",
+     "pos": "固定搭配",
+     "en": "to leave a job, position or responsibility, especially to focus on something else",
+     "zh": "离开；退出；暂时放下某项职务或责任",
+     "ctx": "指布莱尔离开白宫的工作岗位，转而负责共和党的中期选举运作。",
+     "ex1": "After ten years as CEO, she decided to step away from the company and spend more time with her family. 担任首席执行官十年后，她决定离开公司，花更多时间陪伴家人。",
+     "ex2": "The politician stepped away from his government position to lead the national election campaign. 这位政治人物离开政府职位，转而领导全国竞选活动。"
+    },
+    {
+     "w": "take charge of",
+     "ipa": "/teɪk tʃɑːdʒ əv/",
+     "pos": "固定搭配",
+     "en": "to take responsibility for managing or controlling something",
+     "zh": "接管；负责；掌管",
+     "ctx": "指布莱尔接手 Maga Inc 这个政治行动委员会，负责其整体运作及选举事务。",
+     "ex1": "When the manager resigned, her deputy immediately took charge of the department. 经理辞职后，她的副手立即接管了部门。",
+     "ex2": "He was asked to take charge of the company's international expansion project. 他被要求负责公司的国际扩张项目。"
+    },
+    {
+     "w": "headwind",
+     "ipa": "/ˈhedwɪnd/",
+     "pos": "n.",
+     "en": "a force or situation that makes progress or success more difficult",
+     "zh": "逆风；阻力；不利因素",
+     "ctx": "economic headwinds 指生活成本压力、民众对经济状况的不满等可能影响选情的因素。",
+     "ex1": "Rising interest rates have created serious headwinds for the housing market. 利率上升给房地产市场带来了严重阻力。",
+     "ex2": "Despite strong economic headwinds, the company managed to increase its profits. 尽管面临强劲的经济逆风，这家公司仍设法提高了利润。"
+    },
+    {
+     "w": "outlook",
+     "ipa": "/ˈaʊtlʊk/",
+     "pos": "n.",
+     "en": "the expected future situation or the possibility of success in a particular area",
+     "zh": "前景；展望；未来形势",
+     "ctx": "midterm outlook 指共和党在2026年中期选举中的预期表现和胜选前景。",
+     "ex1": "The economic outlook remains uncertain because of rising energy prices. 由于能源价格上涨，经济前景仍然充满不确定性。",
+     "ex2": "Recent opinion polls suggest a more positive election outlook for the opposition party. 最近的民意调查显示，反对党的选举前景更加乐观。"
+    },
+    {
+     "w": "affordability",
+     "ipa": "/əˌfɔːdəˈbɪləti/",
+     "pos": "n.",
+     "en": "the degree to which something is cheap enough for people to buy or pay for",
+     "zh": "可负担性；价格承受能力；负担得起的程度",
+     "ctx": "指美国民众能否负担住房、食品、能源等日常开支，是布莱尔眼中影响选情的核心经济问题。",
+     "ex1": "Housing affordability has become one of the biggest concerns for young families in major cities. 住房负担能力已经成为大城市年轻家庭最关心的问题之一。",
+     "ex2": "The government promised to improve healthcare affordability for low-income households. 政府承诺提高低收入家庭对医疗费用的负担能力。"
+    },
+    {
+     "w": "be fucked",
+     "ipa": "/bi fʌkt/",
+     "pos": "固定搭配",
+     "en": "an offensive informal expression meaning to be in serious trouble or in a situation with little hope of success",
+     "zh": "彻底完蛋；陷入严重困境；处境极其糟糕（粗俗表达）",
+     "ctx": "we are fucked 是极粗的口语表达，强调解决不了生活成本问题就可能在中期选举中惨败。",
+     "ex1": "If we miss the final deadline, we're fucked because the entire project could be cancelled. 如果我们错过最后期限，那就彻底完蛋了，因为整个项目可能被取消。",
+     "ex2": "Without enough funding to keep the business running, the founders knew they were fucked. 没有足够的资金维持公司运营，创始人们知道自己彻底陷入了困境。"
+    },
+    {
+     "w": "And so here we are.",
+     "ipa": "/ənd səʊ hɪə wi ɑː(r)/",
+     "pos": "固定句式",
+     "en": "used to describe the present situation as the result of previous events, decisions or warnings",
+     "zh": "所以我们如今就落到了这步田地；结果现在果然如此",
+     "ctx": "惠普尔用这句话收尾，带无奈和讽刺，暗示当初担忧的经济问题如今仍然困住共和党。",
+     "ex1": "We ignored the warning signs for months, and so here we are, facing a financial crisis. 我们几个月来一直忽视警告信号，所以如今果然陷入了金融危机。",
+     "ex2": "Everyone knew the old system needed reform, but nobody wanted to act. And so here we are. 所有人都知道旧制度需要改革，但没人愿意采取行动。结果我们如今就落到了这步田地。"
+    }
+   ]
+  },
+  {
+   "en_html": "As election day approaches, Blair’s data models have <mark class=\"voc\">run headlong into</mark> the realities of midterm politics. Trump is not <mark class=\"voc\">on the ballot</mark>, making voters who are less likely to <mark class=\"voc\">turn out</mark> in midterm elections <mark class=\"voc\">notoriously</mark> difficult to <mark class=\"voc\">mobilise</mark> compared with a <mark class=\"voc\">presidential cycle</mark>. Blair’s political <mark class=\"voc\">headaches</mark> grew earlier this month when it was revealed that he and LaCivita travelled to Republika Srpska, a <mark class=\"voc\">self-governing</mark> region of Bosnia and Herzegovina. The New York Times reported that <mark class=\"voc\">the pair</mark> received payments to advise the regional government before local elections.",
+   "zh": "随着选举日临近，布莱尔的数据模型迎头撞上了中期选举的残酷现实。特朗普本人并不在此次选举的候选人名单上，这使得那些本来就不太可能在中期选举中投票的选民，相比总统大选期间更加难以动员。本月早些时候，有消息披露，布莱尔和拉奇维塔曾前往波斯尼亚和黑塞哥维那的一个自治地区——塞族共和国，这让布莱尔在政治上面临的麻烦进一步加剧。《纽约时报》报道称，两人在当地选举前曾收取报酬，为该地区政府提供咨询服务。",
+   "notes": [
+    {
+     "w": "run headlong into",
+     "ipa": "/rʌn ˈhedlɒŋ ˈɪntuː/",
+     "pos": "固定搭配",
+     "en": "to suddenly encounter a serious problem or difficulty, often in a forceful or unexpected way",
+     "zh": "迎头撞上；突然遭遇；与困难正面碰撞",
+     "ctx": "形容布莱尔原本倚重的数据模型，如今正面撞上中期选举复杂而严峻的现实。",
+     "ex1": "The company's ambitious expansion plans ran headlong into a global economic slowdown. 这家公司雄心勃勃的扩张计划迎头撞上了全球经济放缓。",
+     "ex2": "Her idealistic vision of leadership soon ran headlong into the realities of office politics. 她对领导工作的理想化想象，很快就迎头撞上了办公室政治的现实。"
+    },
+    {
+     "w": "on the ballot",
+     "ipa": "/ɒn ðə ˈbælət/",
+     "pos": "固定搭配",
+     "en": "officially listed as a candidate or an option that voters can choose in an election",
+     "zh": "列在选票上；作为候选人参加选举",
+     "ctx": "Trump is not on the ballot 指特朗普本人不参加此次中期选举，共和党没法直接借他拉票。",
+     "ex1": "Although the former mayor was popular, his name was not on the ballot in the latest election. 尽管前市长很受欢迎，但他的名字并未出现在最近一次选举的选票上。",
+     "ex2": "Several independent candidates will be on the ballot in next month's local election. 几名独立候选人将出现在下个月地方选举的选票上。"
+    },
+    {
+     "w": "turn out",
+     "ipa": "/tɜːn aʊt/",
+     "pos": "phr. v.",
+     "en": "to go somewhere or attend an event, especially to vote in an election",
+     "zh": "出席；到场；参加投票",
+     "ctx": "指选民真正去投票，而不只是在民调里表达支持。",
+     "ex1": "Thousands of young voters turned out to support the independent candidate. 数千名年轻选民出来投票，支持这位独立候选人。",
+     "ex2": "Political parties often struggle to persuade people to turn out during local elections. 政党往往很难说服民众在地方选举中出来投票。"
+    },
+    {
+     "w": "notoriously",
+     "ipa": "/nəʊˈtɔːriəsli/",
+     "pos": "adv.",
+     "en": "used to emphasize that something is widely known for being bad, difficult or unpleasant",
+     "zh": "出了名地；众所周知地；声名狼藉地",
+     "ctx": "notoriously difficult to mobilise 强调这批选民出了名地难动员，是竞选中的普遍难题。",
+     "ex1": "The entrance examination is notoriously difficult, and only a small percentage of applicants pass. 这场入学考试出了名地难，只有少数申请者能够通过。",
+     "ex2": "The city's housing market is notoriously expensive, making it difficult for young people to buy homes. 这座城市的房地产市场出了名地昂贵，让年轻人很难买房。"
+    },
+    {
+     "w": "mobilise",
+     "ipa": "/ˈməʊbəlaɪz/",
+     "pos": "v.",
+     "en": "to organize and encourage people to take action in support of a particular goal",
+     "zh": "动员；组织；调动",
+     "ctx": "指竞选团队通过宣传、联系和组织，鼓励支持共和党的选民真的去投票。",
+     "ex1": "The environmental organization mobilised thousands of volunteers to clean up the coastline. 这家环保组织动员了数千名志愿者清理海岸线。",
+     "ex2": "The opposition party struggled to mobilise younger voters despite its strong online presence. 尽管反对党在网络上拥有很强的影响力，却仍然难以动员年轻选民。"
+    },
+    {
+     "w": "presidential cycle",
+     "ipa": "/ˌprezɪˈdenʃl ˈsaɪkl/",
+     "pos": "固定搭配",
+     "en": "the period and process surrounding a presidential election, especially the recurring election cycle",
+     "zh": "总统选举周期；总统大选周期",
+     "ctx": "与中期选举对比，指总统亲自参选、关注度和投票率通常更高的那个周期。",
+     "ex1": "Voter participation is generally higher during a presidential cycle than in many local elections. 总统大选周期的选民参与率通常高于许多地方选举。",
+     "ex2": "Campaign spending tends to increase significantly during a presidential election cycle. 在总统大选周期，竞选支出往往会显著增加。"
+    },
+    {
+     "w": "headache",
+     "ipa": "/ˈhedeɪk/",
+     "pos": "n.",
+     "en": "a problem or situation that causes difficulty, worry or inconvenience",
+     "zh": "令人头疼的问题；麻烦；棘手的事情",
+     "ctx": "Blair's political headaches grew 指他的政治麻烦进一步增加，除了选举困难，又添了新争议。",
+     "ex1": "Rising production costs have become a major headache for small manufacturers. 不断上涨的生产成本已经成为小型制造商的一大难题。",
+     "ex2": "The unexpected resignation of two senior officials created another headache for the prime minister. 两名高级官员意外辞职，给首相又添了一桩麻烦。"
+    },
+    {
+     "w": "self-governing",
+     "ipa": "/ˌself ˈɡʌvənɪŋ/",
+     "pos": "adj.",
+     "en": "having the power to govern or manage its own affairs",
+     "zh": "自治的；实行自我管理的",
+     "ctx": "形容塞族共和国在波斯尼亚和黑塞哥维那的国家框架内拥有一定程度的自治权。",
+     "ex1": "The island became a self-governing territory after decades of political negotiations. 经过数十年的政治谈判，这座岛屿成为了一个自治领地。",
+     "ex2": "The community established a self-governing council to manage local education and public services. 该社区成立了自治委员会，负责管理当地教育和公共服务。"
+    },
+    {
+     "w": "the pair",
+     "ipa": "/ðə peə(r)/",
+     "pos": "固定搭配",
+     "en": "the two people who have just been mentioned",
+     "zh": "这两个人；两人",
+     "ctx": "指前文提到的布莱尔和拉奇维塔，避免重复名字，是新闻报道中常见的指代方式。",
+     "ex1": "The two researchers met at university, and the pair later founded a successful technology company. 这两位研究人员在大学相识，后来两人共同创办了一家成功的科技公司。",
+     "ex2": "The actors worked together on several films, and the pair eventually became close friends. 这两位演员合作出演了多部电影，最终成为了亲密的朋友。"
+    }
+   ]
+  },
+  {
+   "en_html": "Trump <mark class=\"voc\">distanced himself from</mark> both men, describing them as “outside consultants” in a 7 October Truth Social post and warning that if he found a conflict of interest, he would “<mark class=\"voc\">terminate</mark> them, immediately!”. Blair responded defensively to the criticism, issuing a rare public statement. “All of this <mark class=\"voc\">mudslinging</mark> is <mark class=\"voc\">ridiculous</mark>, and <mark class=\"voc\">counterproductive</mark>,” he insisted. The <mark class=\"voc\">setback</mark> came as little surprise to those who believe Blair had been <mark class=\"voc\">riding for a fall</mark>. One source who worked closely with Blair for many years said: “He’s an <mark class=\"voc\">arrogant</mark> <mark class=\"voc\">asshole</mark> who always thinks he’s the smartest guy in the room. His arrogance will result in the worst Republican election result for 20 years.” That view is rejected by Blair. “I work for candidates whose <mark class=\"voc\">cause</mark> I believe in. I work intensely hard, and I don’t apologise for that.”",
+   "zh": "特朗普与这两人撇清了关系。他在10月7日发布的一则Truth Social帖子中称他们为“外部顾问”，并警告说，如果发现存在利益冲突，他就会“立即终止与他们的合作！”。面对批评，布莱尔采取了防御性的回应方式，罕见地发表了一份公开声明。他坚称：“所有这些恶意中伤都荒谬至极，而且只会适得其反。”对于那些认为布莱尔早晚会因自己的行为而栽跟头的人来说，这次挫折并不令人意外。一位与布莱尔密切共事多年的知情人士说：“他就是个傲慢的混蛋，总觉得自己是屋子里最聪明的人。他的傲慢会让共和党遭遇20年来最惨重的选举失利。”布莱尔则否认了这种评价。“我为那些我认同其政治理念的候选人工作。我工作极其努力，而且我不会为此道歉。”",
+   "notes": [
+    {
+     "w": "distance oneself from",
+     "ipa": "/ˈdɪstəns wʌnˈself frəm/",
+     "pos": "固定搭配",
+     "en": "to show that you are not connected with or do not support someone or something",
+     "zh": "与……保持距离；撇清关系；划清界限",
+     "ctx": "指特朗普在两人卷入争议后，公开强调他们只是外部顾问，试图划清界限。",
+     "ex1": "The company quickly distanced itself from the employee's controversial remarks. 这家公司迅速与该员工引发争议的言论划清了界限。",
+     "ex2": "Several politicians tried to distance themselves from the scandal before the election. 几名政治人物试图在选举前与这起丑闻撇清关系。"
+    },
+    {
+     "w": "terminate",
+     "ipa": "/ˈtɜːmɪneɪt/",
+     "pos": "v.",
+     "en": "to bring something to an end, especially a contract, agreement or employment",
+     "zh": "终止；结束；解除雇佣关系",
+     "ctx": "特朗普威胁称，若发现利益冲突，就立即终止与布莱尔和拉奇维塔的合作。",
+     "ex1": "The company decided to terminate the contract after repeated violations of its terms. 由于对方多次违反合同条款，公司决定终止合同。",
+     "ex2": "The director warned that employees who leaked confidential information could have their employment terminated. 主管警告说，泄露机密信息的员工可能会被解雇。"
+    },
+    {
+     "w": "mudslinging",
+     "ipa": "/ˈmʌdslɪŋɪŋ/",
+     "pos": "n.",
+     "en": "the act of making insulting or damaging accusations about someone, especially in politics",
+     "zh": "恶意中伤；抹黑；相互攻击",
+     "ctx": "布莱尔用这个词形容外界针对他的批评，认为这些攻击是在恶意损害他的声誉。",
+     "ex1": "The election campaign became increasingly unpleasant as both sides engaged in political mudslinging. 随着双方不断进行政治抹黑，这场竞选变得越来越不堪。",
+     "ex2": "Voters are tired of personal mudslinging and want politicians to focus on real problems. 选民已经厌倦了人身攻击，希望政治人物把注意力放在实际问题上。"
+    },
+    {
+     "w": "ridiculous",
+     "ipa": "/rɪˈdɪkjələs/",
+     "pos": "adj.",
+     "en": "very silly or unreasonable and deserving to be laughed at",
+     "zh": "荒谬的；可笑的；不合理的",
+     "ctx": "布莱尔认为外界针对他的指责荒唐可笑，完全没有道理。",
+     "ex1": "It is ridiculous to blame one employee for the failure of an entire organization. 把整个组织的失败归咎于一名员工，实在荒谬。",
+     "ex2": "The idea sounded ridiculous at first, but it eventually became a successful business. 这个想法起初听起来很荒唐，但最终却发展成了一门成功的生意。"
+    },
+    {
+     "w": "counterproductive",
+     "ipa": "/ˌkaʊntəprəˈdʌktɪv/",
+     "pos": "adj.",
+     "en": "having the opposite effect to the one that was intended",
+     "zh": "适得其反的；产生反效果的",
+     "ctx": "布莱尔认为这些政治攻击不仅没帮忙，反而会损害共和党的整体利益。",
+     "ex1": "Putting too much pressure on employees can be counterproductive because it reduces motivation. 给员工施加过多压力可能适得其反，因为这会降低他们的积极性。",
+     "ex2": "Constantly criticising children for small mistakes is often counterproductive. 因为小错误而不断批评孩子，往往会产生反效果。"
+    },
+    {
+     "w": "setback",
+     "ipa": "/ˈsetbæk/",
+     "pos": "n.",
+     "en": "a problem or difficulty that delays progress or makes success harder to achieve",
+     "zh": "挫折；阻碍；倒退",
+     "ctx": "指布莱尔因海外政治咨询争议而遭遇的政治挫折，对声誉和选举工作都不利。",
+     "ex1": "The unexpected loss was a major setback for the team's championship ambitions. 这场意外失利对球队争夺冠军的雄心造成了重大打击。",
+     "ex2": "Despite several financial setbacks, the young entrepreneur refused to give up. 尽管遭遇了几次财务挫折，这位年轻企业家仍拒绝放弃。"
+    },
+    {
+     "w": "ride for a fall",
+     "ipa": "/raɪd fər ə fɔːl/",
+     "pos": "固定搭配",
+     "en": "to behave in a way that is likely to lead to failure, trouble or humiliation",
+     "zh": "自找麻烦；迟早栽跟头；注定要遭遇失败",
+     "ctx": "形容一些熟悉布莱尔的人认为，他长期的傲慢和行事方式迟早会让他陷入困境。",
+     "ex1": "If he continues to ignore everyone's advice and take unnecessary risks, he's riding for a fall. 如果他继续无视所有人的建议、冒不必要的风险，那他迟早要栽跟头。",
+     "ex2": "The young executive was riding for a fall because he believed he could never make a mistake. 这位年轻高管总认为自己永远不会犯错，因此迟早会遭遇失败。"
+    },
+    {
+     "w": "arrogant",
+     "ipa": "/ˈærəɡənt/",
+     "pos": "adj.",
+     "en": "behaving as if you are more important or know more than other people",
+     "zh": "傲慢的；自大的；目中无人的",
+     "ctx": "知情人士用这个词批评布莱尔过于自负，总认为自己的判断比别人高明。",
+     "ex1": "His arrogant attitude made it difficult for him to build strong relationships with his colleagues. 他傲慢的态度让他很难与同事建立良好的关系。",
+     "ex2": "Confidence can be attractive, but it becomes a weakness when it turns into arrogant behaviour. 自信可以很有魅力，但当它变成傲慢时，就会成为一种弱点。"
+    },
+    {
+     "w": "asshole",
+     "ipa": "/ˈæshəʊl/",
+     "pos": "n.",
+     "en": "an offensive word for a person who behaves in an unpleasant, selfish or stupid way",
+     "zh": "混蛋；讨厌鬼；令人厌恶的人（粗俗用语）",
+     "ctx": "知情人士用 arrogant asshole 辱骂布莱尔，表达对其傲慢性格的强烈反感，语气非常粗鲁。",
+     "ex1": "He acted like a complete asshole during the meeting, interrupting everyone and refusing to listen. 他在会议上表现得像个十足的混蛋，不断打断别人，拒绝听取意见。",
+     "ex2": "You don't have to be an asshole to be a successful leader. 想成为一名成功的领导者，并不意味着你必须做个混蛋。"
+    },
+    {
+     "w": "cause",
+     "ipa": "/kɔːz/",
+     "pos": "n.",
+     "en": "an aim, principle or belief that people support and work to achieve",
+     "zh": "事业；理想；信念；奋斗目标",
+     "ctx": "whose cause I believe in 指布莱尔只愿意为政治理念得到自己认同的候选人工作。",
+     "ex1": "She devoted her entire career to the cause of equal educational opportunities. 她将整个职业生涯都奉献给了争取平等教育机会的事业。",
+     "ex2": "Thousands of volunteers joined the campaign because they believed deeply in its cause. 数千名志愿者加入这场运动，因为他们深深认同其所追求的目标。"
+    }
+   ]
+  },
+  {
+   "en_html": "<mark class=\"voc\">In the meantime</mark>, on 3 November voters will <mark class=\"voc\">determine</mark> whether Blair can <mark class=\"voc\">defy the odds</mark> again. If the results are as <mark class=\"voc\">catastrophic</mark> for Republicans as opinion polls suggest, he could face the <mark class=\"voc\">wrath</mark> of a <mark class=\"voc\">capricious</mark> president, looking for a <mark class=\"voc\">scapegoat</mark>. “Brilliant James” could find himself with a less <mark class=\"voc\">desirable</mark> nickname. “James Blair can be a <mark class=\"voc\">raging</mark> political genius, and it’s not going to change that Donald Trump is an <mark class=\"voc\">insane</mark> person.”",
+   "zh": "与此同时，11月3日，选民将决定布莱尔能否再次创造奇迹、打破不利的胜算。如果选举结果真的像民意调查所暗示的那样，给共和党带来灾难性的失败，那么他可能不得不面对一位反复无常、急于寻找替罪羊的总统的怒火。“天才詹姆斯”或许会发现，自己被冠上了一个远不如从前好听的绰号。“詹姆斯·布莱尔就算是个厉害到极点的政治天才，也改变不了唐纳德·特朗普是个疯子这一点。”",
+   "notes": [
+    {
+     "w": "in the meantime",
+     "ipa": "/ɪn ðə ˈmiːntaɪm/",
+     "pos": "固定搭配",
+     "en": "during the period of time before something happens or while something else is happening",
+     "zh": "与此同时；在此期间；在那之前",
+     "ctx": "用于把前文关于布莱尔的政治争议，转向11月3日的投票及其可能的后果。",
+     "ex1": "The company is developing a new product. In the meantime, it will continue selling its existing models. 公司正在开发一款新产品。与此同时，它将继续销售现有型号。",
+     "ex2": "The investigation may take several months. In the meantime, the official has agreed to step aside. 调查可能需要几个月时间。在此期间，这名官员已同意暂时离职。"
+    },
+    {
+     "w": "determine",
+     "ipa": "/dɪˈtɜːmɪn/",
+     "pos": "v.",
+     "en": "to decide or control what will happen, or to establish something after considering the facts",
+     "zh": "决定；确定；查明",
+     "ctx": "指11月3日的选举结果将决定布莱尔能否再次取得政治胜利。",
+     "ex1": "The final round of voting will determine who becomes the next party leader. 最后一轮投票将决定谁成为下一任党魁。",
+     "ex2": "A single mistake should not determine the direction of your entire life. 一次错误不应该决定你整个人生的方向。"
+    },
+    {
+     "w": "defy the odds",
+     "ipa": "/dɪˈfaɪ ði ɒdz/",
+     "pos": "固定搭配",
+     "en": "to succeed despite having very little chance of doing so",
+     "zh": "逆势成功；克服重重困难；打破不利的胜算",
+     "ctx": "指布莱尔能否像2024年那样，再次在不利形势下帮共和党赢出人意料的结果。",
+     "ex1": "Despite growing up in extreme poverty, she defied the odds and became a successful scientist. 尽管在极度贫困的环境中长大，她仍然逆势成功，成为了一名出色的科学家。",
+     "ex2": "The small football club defied the odds by defeating the defending champions. 这家小足球俱乐部出人意料地击败了卫冕冠军，创造了奇迹。"
+    },
+    {
+     "w": "catastrophic",
+     "ipa": "/ˌkætəˈstrɒfɪk/",
+     "pos": "adj.",
+     "en": "causing or involving extremely serious damage, failure or suffering",
+     "zh": "灾难性的；毁灭性的；极其严重的",
+     "ctx": "形容共和党可能在中期选举中遭遇极其严重的失败，甚至丢掉国会控制权。",
+     "ex1": "The government's failure to respond quickly to the crisis had catastrophic consequences. 政府未能迅速应对危机，造成了灾难性的后果。",
+     "ex2": "A catastrophic defeat in the election forced the party to reconsider its political strategy. 选举中的惨败迫使该党重新审视自己的政治策略。"
+    },
+    {
+     "w": "wrath",
+     "ipa": "/rɒθ/",
+     "pos": "n.",
+     "en": "extreme anger, especially when directed at someone who is believed to have done something wrong",
+     "zh": "盛怒；愤怒；雷霆之怒",
+     "ctx": "face the wrath of a capricious president 指选举失败后布莱尔可能成为特朗普迁怒的对象。",
+     "ex1": "The minister faced the wrath of the public after the corruption scandal was exposed. 腐败丑闻曝光后，这位部长遭到了公众的强烈愤怒与谴责。",
+     "ex2": "The company's executives feared the wrath of investors following another disappointing financial report. 在又一份令人失望的财报发布后，公司高管担心会遭到投资者的猛烈抨击。"
+    },
+    {
+     "w": "capricious",
+     "ipa": "/kəˈprɪʃəs/",
+     "pos": "adj.",
+     "en": "changing your mood, decisions or behaviour suddenly and unexpectedly",
+     "zh": "反复无常的；任性的；变化莫测的",
+     "ctx": "形容特朗普的态度和决定难以预测，可能因为选举结果不理想而突然改变对布莱尔的评价。",
+     "ex1": "Working for a capricious boss can be exhausting because the rules seem to change every day. 为一个反复无常的老板工作可能令人筋疲力尽，因为规矩似乎每天都在变。",
+     "ex2": "Investors became nervous about the leader's capricious decisions on economic policy. 投资者对这位领导人在经济政策上反复无常的决定感到不安。"
+    },
+    {
+     "w": "scapegoat",
+     "ipa": "/ˈskeɪpɡəʊt/",
+     "pos": "n.",
+     "en": "a person who is unfairly blamed for something bad that has happened, especially when others are also responsible",
+     "zh": "替罪羊；代人受过者",
+     "ctx": "暗示如果中期选举失利，特朗普可能把失败归咎于布莱尔，让他承担主要责任。",
+     "ex1": "The junior employee became a scapegoat for mistakes made by the entire management team. 这名初级员工成了整个管理团队所犯错误的替罪羊。",
+     "ex2": "Instead of admitting their own failures, the politicians searched for a scapegoat to blame. 这些政治人物没有承认自己的失败，而是寻找一个可以推卸责任的替罪羊。"
+    },
+    {
+     "w": "desirable",
+     "ipa": "/dɪˈzaɪərəbl/",
+     "pos": "adj.",
+     "en": "worth having or wanting; attractive or likely to bring advantages",
+     "zh": "令人向往的；值得拥有的；称心的",
+     "ctx": "less desirable nickname 指他可能失去“天才詹姆斯”的美誉，转而得到带负面意味的绰号。",
+     "ex1": "Flexible working hours have become one of the most desirable benefits for young employees. 弹性工作时间已经成为年轻员工最向往的福利之一。",
+     "ex2": "The apartment's central location makes it highly desirable despite its high price. 尽管价格昂贵，这套公寓优越的中心地段仍使它非常抢手。"
+    },
+    {
+     "w": "raging",
+     "ipa": "/ˈreɪdʒɪŋ/",
+     "pos": "adj.",
+     "en": "used to emphasize that something is extremely strong, intense or obvious",
+     "zh": "极其强烈的；猛烈的；十足的",
+     "ctx": "a raging political genius 是夸张说法，强调即使是极其出色的政治天才，也改不了特朗普的性格。",
+     "ex1": "The writer described his rival as a raging genius whose talent was impossible to ignore. 这位作家称自己的对手是个才华惊人的天才，其天赋令人无法忽视。",
+     "ex2": "Even a raging optimist would struggle to find something positive in such a disastrous situation. 即使是一个极度乐观的人，也很难在如此糟糕的局面中找到积极的一面。"
+    },
+    {
+     "w": "insane",
+     "ipa": "/ɪnˈseɪn/",
+     "pos": "adj.",
+     "en": "extremely unreasonable, shocking or foolish; also used to describe serious mental illness in older or informal usage",
+     "zh": "疯狂的；荒唐的；失去理智的",
+     "ctx": "引语中的 insane person 是对特朗普带有强烈贬义的主观评价，并非医学诊断。",
+     "ex1": "It would be insane to invest all your savings in a business without understanding the risks. 在不了解风险的情况下，把所有积蓄都投进一门生意，简直太疯狂了。",
+     "ex2": "The manager's decision to cancel the project just one day before completion seemed completely insane to the team. 经理决定在项目完成前一天将其取消，这让整个团队觉得简直荒唐至极。"
+    }
+   ]
+  }
+ ],
+ "proper": [
+  {
+   "name": "Stephen Miller / 斯蒂芬·米勒",
+   "def": "美国共和党政治顾问，特朗普长期信任的核心幕僚，以强硬的移民政策和鲜明的保守主义意识形态著称，两届政府均任要职。<br>本文中的意思：作为与布莱尔对照的“意识形态执行者”，说明前者负责推行理念，后者负责竞选技术与数据。"
+  },
+  {
+   "name": "Time Magazine / 《时代》杂志",
+   "def": "美国创刊于1923年的新闻杂志，以政治、经济与国际人物报道著称，每年评选“年度人物”。<br>本文中的意思：文章借它对布莱尔的评价——“特朗普治下的华盛顿最重要、你却从未听说过的人”——为全文主角定调。"
+  },
+  {
+   "name": "2024 US Presidential Election / 2024年美国总统大选",
+   "def": "2024年11月5日举行，共和党候选人特朗普击败民主党候选人哈里斯，赢得312张选举人票，哈里斯获226张。<br>本文中的意思：布莱尔政治生涯的代表作，也是他拿到“天才詹姆斯”绰号和白宫职位的资本。"
+  },
+  {
+   "name": "US Midterm Elections / 美国中期选举",
+   "def": "每四年一次，在总统四年任期的中间举行。2026年中期选举定于11月3日，众议院435个席位全部改选，参议院约三分之一改选。<br>本文中的意思：全文的悬念所在——布莱尔能否替共和党守住国会两院。"
+  },
+  {
+   "name": "Richard Corcoran / 理查德·科科伦",
+   "def": "美国共和党政治人物，长期活跃于佛罗里达州政坛，2016至2018年任佛州众议院议长，后任该州教育专员。<br>本文中的意思：文章称他为 powerbroker；布莱尔22岁时去他手下求职，那是后者政治生涯的起点。"
+  },
+  {
+   "name": "Ron DeSantis / 罗恩·德桑蒂斯",
+   "def": "美国共和党人，2018年当选佛罗里达州州长，2019年就职，以保守派立场著称；2023年争取党内总统提名，2024年1月退选。<br>本文中的意思：布莱尔先做他竞选州长的高级顾问，再进他的州政府，由此从地方政治走上全国舞台。"
+  },
+  {
+   "name": "Susie Wiles / 苏西·怀尔斯",
+   "def": "美国共和党资深政治策略师，美国历史上首位女性白宫幕僚长，长期活跃于佛罗里达州政坛。<br>本文中的意思：布莱尔“具有决定性意义”的盟友，正是她把他再次拉进特朗普的竞选团队。"
+  },
+  {
+   "name": "Data-driven Campaign / 数据驱动型竞选",
+   "def": "指用选民登记资料、历史投票记录、民调与数字传播效果等数据判断选民倾向和投票可能性，再决定竞选资源怎么分配。<br>本文中的意思：布莱尔的方法论标签，也是他敢关掉实体办公室、改打线上的底气。"
+  },
+  {
+   "name": "Super PAC / 超级政治行动委员会",
+   "def": "美国一种可接受个人、企业、工会无上限捐款的独立支出委员会，能独立助选或反对候选人，但不得与竞选团队协调。<br>本文中的意思：布莱尔把催票工作外包给这类组织，正是他备受争议的一步。"
+  },
+  {
+   "name": "Presidential Inauguration / 美国总统就职典礼",
+   "def": "通常于大选次年1月20日举行，标志新一届任期开始；特朗普第二次就职在2025年1月20日，成为美国第47任总统。<br>本文中的意思：就职之后布莱尔进入白宫任副幕僚长，职权范围随之大幅扩张。"
+  },
+  {
+   "name": "White House Chief of Staff / 白宫幕僚长",
+   "def": "美国总统最重要的高级助手之一，负责协调白宫人员、安排总统议程、管理信息流动，无需参议院确认但实权很大。<br>本文中的意思：用来反衬布莱尔——他不是幕僚长，却同时管着政治、政府间、立法三块要务。"
+  },
+  {
+   "name": "MAGA Inc. / 让美国再次伟大政治行动委员会",
+   "def": "MAGA 是 Make America Great Again 的缩写，特朗普政治运动最具代表性的口号；MAGA Inc. 是支持他与盟友的超级政治行动委员会。<br>本文中的意思：布莱尔离开白宫后接手它，账上约4.15亿美元，是他打中期选举的弹药库。"
+  },
+  {
+   "name": "Affordability Crisis / 生活负担能力危机",
+   "def": "指普通民众能否负担住房、食品、医疗、交通、保险等基本开支，与通胀相关但不等同：通胀放缓只意味着涨价变慢，价格并未回落。<br>本文中的意思：布莱尔认定的胜负手——解决不了它，其他政治议题都白搭。"
+  },
+  {
+   "name": "Jeffrey Epstein / 杰弗里·爱泼斯坦",
+   "def": "美国已故金融家、被定罪的性犯罪者，2019年被联邦检方起诉后在羁押期间死亡，官方认定为自杀；因生前与政商名流往来而长期受关注。<br>本文中的意思：作为“别的政治争议”的例子，用来衬托生活成本问题更直接影响选票。"
+  },
+  {
+   "name": "Voter Turnout / 选民投票率与选民动员",
+   "def": "指合格或登记选民中实际投票的比例，中期选举通常低于总统大选；竞选团队常用电话、短信、志愿者上门等方式催票。<br>本文中的意思：2026年特朗普不在选票上，布莱尔最难的一关就是把支持者拉去投票。"
+  },
+  {
+   "name": "Republika Srpska / 塞族共和国",
+   "def": "波斯尼亚和黑塞哥维那内部高度自治的政治实体，并非独立主权国家；1995年《代顿和平协议》结束了波黑战争并确立其复杂架构。<br>本文中的意思：布莱尔与拉奇维塔被曝在此有偿提供选前咨询，成为他新的政治麻烦。"
+  },
+  {
+   "name": "Chris LaCivita / 克里斯·拉奇维塔",
+   "def": "美国共和党资深政治顾问，长期负责竞选组织与政治广告，曾与怀尔斯共同领导特朗普2024年的总统竞选。<br>本文中的意思：与布莱尔一同赴塞族共和国的那位“同伴”，两人一起卷入利益冲突争议。"
+  },
+  {
+   "name": "Truth Social / 真相社交平台",
+   "def": "特朗普媒体与科技集团2022年推出的社交平台，在主流平台限制其账号后，成为特朗普主要的公开发声渠道。<br>本文中的意思：特朗普正是在这里发帖，把两人称作“外部顾问”，并威胁终止合作。"
+  },
+  {
+   "name": "Conflict of Interest / 利益冲突",
+   "def": "指私人利益、经济关系或其他职责可能影响公职或专业判断的情形；潜在冲突不等于违法，也不等于已证明存在不当行为。<br>本文中的意思：布莱尔一边操盘美国选举、一边收外国地区政府的钱，特朗普据此公开划线。"
+  },
+  {
+   "name": "Scapegoat / 替罪羊",
+   "def": "源自《圣经·利未记》赎罪日仪式中象征承担群体罪孽、被送往旷野的山羊，后指为他人或集体失败背责的人。<br>本文中的意思：文章结尾的推测——若中期选举惨败，布莱尔可能从“天才”变成背锅的人。"
+  }
+ ],
+ "sources_note": "本文选自 The Guardian 2026 年 11 月 1 日文章，由《早安英文》讲解。",
+ "practice": {
+  "intro": "把下面三句翻译成英文，注意划线表达。",
+  "items": [
+   "詹姆斯·布莱尔是一位以数据为导向的政治操盘手，他在特朗普2024年重返白宫的过程中发挥了关键作用。",
+   "他敢于打破传统竞选模式，关闭实体竞选办公室，并将选民动员工作外包给独立的政治行动委员会。",
+   "特朗普赢得选举后，布莱尔获得了“天才詹姆斯”的绰号，并进入白宫担任副幕僚长。"
+  ],
+  "critical_en": "Trump is not on the ballot, making voters who are less likely to turn out in midterm elections notoriously difficult to mobilise compared with a presidential cycle.",
+  "critical_zh": "特朗普本人并不在此次选举的候选人名单上，这使得那些本来就不太可能在中期选举中投票的选民，相比总统大选期间更加难以动员。",
+  "answer": "1. James Blair is a data-driven political operative who played a key role in Trump’s return to the White House in 2024.<br><br>2. He dared to discard conventional wisdom, closing brick-and-mortar campaign offices and outsourcing voter mobilisation to independent political action committees.<br><br>3. After Trump won the election, Blair earned the nickname “Brilliant James” and entered the White House as deputy chief of staff.<br><br>一句总结：三句连起来就是布莱尔的上升路线——靠数据起家，靠打破常规赢下2024，再凭战功拿到绰号和职位。"
+ },
+ "mindmap": {
+  "aria": "“天才詹姆斯”布莱尔与中期选举思维导图",
+  "alt": "布莱尔助特朗普重返白宫与中期选举挑战（手绘版）",
+  "svg": "<svg viewBox=\"0 0 960 720\" xmlns=\"http://www.w3.org/2000/svg\" role=\"img\" aria-label=\"“天才詹姆斯”布莱尔与中期选举思维导图\" style=\"width:100%;height:auto;font-family:-apple-system,'PingFang SC','Hiragino Sans GB','Microsoft YaHei',sans-serif\">\n        <rect x=\"24\" y=\"306\" width=\"176\" height=\"88\" rx=\"14\" fill=\"#eae3d2\" stroke=\"#9a8f76\"/>\n        <text x=\"112\" y=\"342\" text-anchor=\"middle\" fill=\"#3d3a34\" font-size=\"17\" font-weight=\"700\">天才詹姆斯</text>\n        <text x=\"112\" y=\"368\" text-anchor=\"middle\" fill=\"#5c5648\" font-size=\"12.5\">助特朗普赢下白宫</text>\n\n        <path d=\"M200,350 C232,350 232,88 260,88\"  stroke=\"#6b8f71\" stroke-width=\"2\" fill=\"none\"/>\n        <path d=\"M200,350 C232,350 232,238 260,238\" stroke=\"#7d98ad\" stroke-width=\"2\" fill=\"none\"/>\n        <path d=\"M200,350 C232,350 232,433 260,433\" stroke=\"#bd7a6d\" stroke-width=\"2\" fill=\"none\"/>\n        <path d=\"M200,350 C232,350 232,628 260,628\" stroke=\"#9b86b3\" stroke-width=\"2\" fill=\"none\"/>\n\n        <g class=\"mm-branch\" data-target=\"bc1\">\n          <rect x=\"260\" y=\"71\" width=\"190\" height=\"34\" rx=\"8\" fill=\"#e6efe7\" stroke=\"#6b8f71\"/>\n          <text x=\"349\" y=\"93\" text-anchor=\"middle\" fill=\"#4c6b52\" font-size=\"15\" font-weight=\"700\">他到底是谁（¶1–2）</text>\n          <text class=\"mm-arrow\" data-for=\"bc1\" x=\"442\" y=\"93\" text-anchor=\"end\" fill=\"#4c6b52\">▾</text>\n        </g>\n        <g class=\"mm-children\" id=\"bc1\">\n          <path d=\"M450,88 C462,88 462,46 480,46\" stroke=\"#6b8f71\" stroke-width=\"1.5\" fill=\"none\"/>\n          <path d=\"M450,88 C462,88 462,88 480,88\" stroke=\"#6b8f71\" stroke-width=\"1.5\" fill=\"none\"/>\n          <path d=\"M450,88 C462,88 462,130 480,130\" stroke=\"#6b8f71\" stroke-width=\"1.5\" fill=\"none\"/>\n          <rect x=\"480\" y=\"30\" width=\"456\" height=\"32\" rx=\"8\" fill=\"#e6efe7\"/><text x=\"492\" y=\"51\" fill=\"#3d3a34\" font-size=\"14\">37岁光头、四孩父亲，与米勒同为特朗普智囊</text>\n          <rect x=\"480\" y=\"72\" width=\"456\" height=\"32\" rx=\"8\" fill=\"#e6efe7\"/><text x=\"492\" y=\"93\" fill=\"#3d3a34\" font-size=\"14\">《时代》称他是华盛顿最重要、却没人听过的人</text>\n          <rect x=\"480\" y=\"114\" width=\"456\" height=\"32\" rx=\"8\" fill=\"#e6efe7\"/><text x=\"492\" y=\"135\" fill=\"#3d3a34\" font-size=\"14\">靠数据起家，22岁在佛州政坛磨出政治本领</text>\n        </g>\n\n        <g class=\"mm-branch\" data-target=\"bc2\">\n          <rect x=\"260\" y=\"221\" width=\"190\" height=\"34\" rx=\"8\" fill=\"#e5edf4\" stroke=\"#7d98ad\"/>\n          <text x=\"349\" y=\"243\" text-anchor=\"middle\" fill=\"#3d5872\" font-size=\"15\" font-weight=\"700\">他怎么打赢（¶3–4）</text>\n          <text class=\"mm-arrow\" data-for=\"bc2\" x=\"442\" y=\"243\" text-anchor=\"end\" fill=\"#3d5872\">▾</text>\n        </g>\n        <g class=\"mm-children\" id=\"bc2\">\n          <path d=\"M450,238 C462,238 462,196 480,196\" stroke=\"#7d98ad\" stroke-width=\"1.5\" fill=\"none\"/>\n          <path d=\"M450,238 C462,238 462,238 480,238\" stroke=\"#7d98ad\" stroke-width=\"1.5\" fill=\"none\"/>\n          <path d=\"M450,238 C462,238 462,280 480,280\" stroke=\"#7d98ad\" stroke-width=\"1.5\" fill=\"none\"/>\n          <rect x=\"480\" y=\"180\" width=\"456\" height=\"32\" rx=\"8\" fill=\"#e5edf4\"/><text x=\"492\" y=\"201\" fill=\"#3d3a34\" font-size=\"14\">先跟德桑蒂斯，再与怀尔斯结成关键同盟</text>\n          <rect x=\"480\" y=\"222\" width=\"456\" height=\"32\" rx=\"8\" fill=\"#e5edf4\"/><text x=\"492\" y=\"243\" fill=\"#3d3a34\" font-size=\"14\">认定电视已过气，关掉实体办公室改打线上</text>\n          <rect x=\"480\" y=\"264\" width=\"456\" height=\"32\" rx=\"8\" fill=\"#e5edf4\"/><text x=\"492\" y=\"285\" fill=\"#3d3a34\" font-size=\"14\">把催票外包给超级政治行动委员会，挨了不少骂</text>\n        </g>\n\n        <g class=\"mm-branch\" data-target=\"bc3\">\n          <rect x=\"260\" y=\"416\" width=\"190\" height=\"34\" rx=\"8\" fill=\"#f4e7e4\" stroke=\"#bd7a6d\"/>\n          <text x=\"349\" y=\"438\" text-anchor=\"middle\" fill=\"#7c4a3e\" font-size=\"15\" font-weight=\"700\">白宫与钱袋（¶5–6）</text>\n          <text class=\"mm-arrow\" data-for=\"bc3\" x=\"442\" y=\"438\" text-anchor=\"end\" fill=\"#7c4a3e\">▾</text>\n        </g>\n        <g class=\"mm-children\" id=\"bc3\">\n          <path d=\"M450,433 C462,433 462,391 480,391\" stroke=\"#bd7a6d\" stroke-width=\"1.5\" fill=\"none\"/>\n          <path d=\"M450,433 C462,433 462,433 480,433\" stroke=\"#bd7a6d\" stroke-width=\"1.5\" fill=\"none\"/>\n          <path d=\"M450,433 C462,433 462,475 480,475\" stroke=\"#bd7a6d\" stroke-width=\"1.5\" fill=\"none\"/>\n          <rect x=\"480\" y=\"375\" width=\"456\" height=\"32\" rx=\"8\" fill=\"#f4e7e4\"/><text x=\"492\" y=\"396\" fill=\"#3d3a34\" font-size=\"14\">进白宫当副幕僚长，一口气管三块事务</text>\n          <rect x=\"480\" y=\"417\" width=\"456\" height=\"32\" rx=\"8\" fill=\"#f4e7e4\"/><text x=\"492\" y=\"438\" fill=\"#3d3a34\" font-size=\"14\">特朗普在节日招待会上亲口夸他是政治天才</text>\n          <rect x=\"480\" y=\"459\" width=\"456\" height=\"32\" rx=\"8\" fill=\"#f4e7e4\"/><text x=\"492\" y=\"480\" fill=\"#3d3a34\" font-size=\"14\">接手 MAGA Inc，账上4.15亿美元</text>\n        </g>\n\n        <g class=\"mm-branch\" data-target=\"bc4\">\n          <rect x=\"260\" y=\"611\" width=\"190\" height=\"34\" rx=\"8\" fill=\"#ece4f2\" stroke=\"#9b86b3\"/>\n          <text x=\"349\" y=\"633\" text-anchor=\"middle\" fill=\"#5a4670\" font-size=\"15\" font-weight=\"700\">眼下的麻烦（¶7–9）</text>\n          <text class=\"mm-arrow\" data-for=\"bc4\" x=\"442\" y=\"633\" text-anchor=\"end\" fill=\"#5a4670\">▾</text>\n        </g>\n        <g class=\"mm-children\" id=\"bc4\">\n          <path d=\"M450,628 C462,628 462,586 480,586\" stroke=\"#9b86b3\" stroke-width=\"1.5\" fill=\"none\"/>\n          <path d=\"M450,628 C462,628 462,628 480,628\" stroke=\"#9b86b3\" stroke-width=\"1.5\" fill=\"none\"/>\n          <path d=\"M450,628 C462,628 462,670 480,670\" stroke=\"#9b86b3\" stroke-width=\"1.5\" fill=\"none\"/>\n          <rect x=\"480\" y=\"570\" width=\"456\" height=\"32\" rx=\"8\" fill=\"#ece4f2\"/><text x=\"492\" y=\"591\" fill=\"#3d3a34\" font-size=\"14\">特朗普不在选票上，这批人本来就懒得投票</text>\n          <rect x=\"480\" y=\"612\" width=\"456\" height=\"32\" rx=\"8\" fill=\"#ece4f2\"/><text x=\"492\" y=\"633\" fill=\"#3d3a34\" font-size=\"14\">去塞族共和国收钱做顾问，被曝出后挨批</text>\n          <rect x=\"480\" y=\"654\" width=\"456\" height=\"32\" rx=\"8\" fill=\"#ece4f2\"/><text x=\"492\" y=\"675\" fill=\"#3d3a34\" font-size=\"14\">生活成本压不住，惨败就得当替罪羊</text>\n        </g>\n      </svg>",
+  "img": "/Users/malen/outward-reading-site-prod/scripts/content/img/2026-11-01.jpg"
+ }
+}
