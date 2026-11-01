@@ -1,0 +1,393 @@
+{
+ "paragraphs": [
+  {
+   "en_html": "That helps explain why investors remained cautious even after Shein’s huge valuation <mark class=\"voc\">reset</mark>. At around 15 times forward earnings, the company came to market at more than twice PDD’s multiple despite weaker growth visibility and significant regulatory and trade risks. A heavily <mark class=\"voc\">discounted</mark> valuation, analysts warned, is not necessarily the same thing as a cheap stock. The market is increasingly treating Shein less like a disruptive high-growth technology platform and more like a <mark class=\"voc\">retailer</mark> facing <mark class=\"voc\">margin</mark> and <mark class=\"voc\">execution</mark> pressures.",
+   "zh": "这也有助于解释，为什么即使 Shein 的估值已经经历了大幅重估，投资者依然保持谨 慎。按照约15倍的预期市盈率计算，Shein上市时的估值倍数是拼多多的两倍以上，尽 管其增长前景更加不明朗，同时还面临显著的监管和贸易风险。分析师警告说，估值 被大幅压低，并不一定意味着这只股票真的便宜。 市场越来越不再把 Shein 看作一个 具有颠覆性的高增长科技平台，而是将其视为一家面临利润率和执行压力的零售企业。",
+   "notes": [
+    {
+     "w": "reset",
+     "ipa": "/ˈriːset/",
+     "pos": "n.",
+     "en": "reset (n.) means the act of adjusting something back to a previous or lower level",
+     "zh": "重新调整，重估",
+     "ctx": "Shein估值经历的大幅重估",
+     "ex1": "The stock market crash forced a painful reset in tech company valuations. 股市暴跌迫使科技公司估值经历痛苦的重新调整。",
+     "ex2": "The economic downturn triggered a reset in consumer spending habits. 经济低迷引发了消费者支出习惯的重置。"
+    },
+    {
+     "w": "discounted",
+     "ipa": "/dɪsˈkaʊntɪd/",
+     "pos": "adj.",
+     "en": "discounted (adj.) means reduced in price or value; marked down",
+     "zh": "折价的，大幅降低的",
+     "ctx": "Shein估值被大幅压低，以折价状态进入市场",
+     "ex1": "Investors were cautious about buying even heavily discounted shares in the struggling retailer. 即使这家陷入困境的零售商股价已大幅折价，投资者仍对买入持谨慎态度。",
+     "ex2": "The discounted valuation reflects the market's concerns about future profitability. 折价估值反映了市场对未来盈利能力的担忧。"
+    },
+    {
+     "w": "retailer",
+     "ipa": "/ˈriːteɪlə(r)/",
+     "pos": "n.",
+     "en": "retailer (n.) means a person or business that sells goods directly to consumers",
+     "zh": "零售商",
+     "ctx": "在线快时尚零售商Shein，直接面向消费者销售商品的企业",
+     "ex1": "The electronics retailer announced plans to close 50 underperforming stores nationwide. 这家电子产品零售商宣布计划在全国范围内关闭50家业绩不佳的门店。",
+     "ex2": "Online retailers have forced traditional brick-and-mortar shops to rethink their business models. 在线零售商迫使传统实体店重新思考其商业模式。"
+    },
+    {
+     "w": "margin",
+     "ipa": "/ˈmɑːdʒɪn/",
+     "pos": "n.",
+     "en": "margin (n.) means the difference between the cost of producing or buying something and the price at which it is sold",
+     "zh": "利润率，利润空间",
+     "ctx": "Shein面临的利润率压力",
+     "ex1": "Rising shipping costs have squeezed profit margins across the e-commerce industry. 不断上涨的运输成本挤压了整个电商行业的利润率。",
+     "ex2": "The company is shifting toward higher-margin products to offset declining sales volume. 该公司正转向利润率更高的产品，以抵消销量下滑的影响。"
+    },
+    {
+     "w": "execution",
+     "ipa": "/ˌeksɪˈkjuːʃn/",
+     "pos": "n.",
+     "en": "execution (n.) means the act of carrying out or implementing a plan or strategy effectively",
+     "zh": "执行，落实",
+     "ctx": "Shein在运营执行层面面临的压力",
+     "ex1": "The strategy was sound, but poor execution led to disappointing results. 战略本身没有问题，但执行不力导致了令人失望的结果。",
+     "ex2": "Investors are concerned about the company's execution capabilities in new markets. 投资者对该公司在新市场的执行能力感到担忧。"
+    }
+   ]
+  },
+  {
+   "en_html": "Shein is trying to change that story. One potentially important shift is its gradual transformation from a <mark class=\"voc\">pure</mark> <mark class=\"voc\">retailer</mark> into a retailer-plus-platform. <mark class=\"voc\">Third-party</mark> brands increasingly sell through Shein, allowing the company to generate service revenue and <mark class=\"voc\">monetise</mark> its infrastructure beyond its own inventory. It is also becoming less dependent on <mark class=\"voc\">apparel</mark>, expanding into categories such as home and living. The goal is to turn Shein’s supply-chain and customer-<mark class=\"voc\">acquisition</mark> capabilities into a broader lifestyle commerce platform.",
+   "zh": "Shein正在努力改变这一局面。一个可能具有重要意义的转变，是它正在逐渐从一家纯 粹的零售商，转型为“零售商+平台”的模式。越来越多的第三方品牌开始通过 Shein 销售商品，这使公司能够获得服务收入，并在自有库存之外进一步将其基础设施转化为 收益。与此同时，Shein也在降低对服装业务的依赖，向家居和生活用品等品类扩张。 其目标，是将 Shein 在供应链和获客方面的能力，转化为一个覆盖范围更加广泛的生活 方式电商平台。",
+   "notes": [
+    {
+     "w": "pure",
+     "ipa": "/pjʊə(r)/",
+     "pos": "adj.",
+     "en": "pure (adj.) means complete and total; not mixed with anything else",
+     "zh": "纯粹的，不掺杂其他的",
+     "ctx": "Shein正从一家纯粹的零售商转型",
+     "ex1": "The company was once a pure hardware manufacturer before expanding into software. 该公司在扩展到软件领域之前曾是一家纯粹的硬件制造商。",
+     "ex2": "Few pure online retailers remain as most have adopted hybrid offline strategies. 纯粹的在线零售商已经很少，因为大多数都采取了线上线下混合策略。"
+    },
+    {
+     "w": "retailer",
+     "ipa": "/ˈriːteɪlə(r)/",
+     "pos": "n.",
+     "en": "retailer (n.) means a person or business that sells goods directly to consumers",
+     "zh": "零售商",
+     "ctx": "在线快时尚零售商Shein，直接面向消费者销售商品的企业",
+     "ex1": "The electronics retailer announced plans to close 50 underperforming stores nationwide. 这家电子产品零售商宣布计划在全国范围内关闭50家业绩不佳的门店。",
+     "ex2": "Online retailers have forced traditional brick-and-mortar shops to rethink their business models. 在线零售商迫使传统实体店重新思考其商业模式。"
+    },
+    {
+     "w": "third-party",
+     "ipa": "/ˌθɜːd ˈpɑːti/",
+     "pos": "adj.",
+     "en": "third-party (adj.) means belonging to or involving an entity other than the two main parties involved",
+     "zh": "第三方的",
+     "ctx": "第三方品牌通过Shein平台销售商品",
+     "ex1": "The platform allows third-party sellers to list products alongside its own inventory. 该平台允许第三方卖家在自有库存之外上架产品。",
+     "ex2": "Third-party logistics providers handle delivery for many small online retailers. 第三方物流供应商为许多小型在线零售商处理配送业务。"
+    },
+    {
+     "w": "monetise",
+     "ipa": "/ˈmʌnɪtaɪz/",
+     "pos": "v.",
+     "en": "monetise (v.) means to convert something into a source of income or profit",
+     "zh": "变现，通过……获利",
+     "ctx": "Shein将自身基础设施转化为收益来源",
+     "ex1": "The app monetises its large user base through advertising and premium subscriptions. 这款应用通过广告和付费订阅将其庞大的用户基础变现。",
+     "ex2": "The company is looking for new ways to monetise the data it has collected. 该公司正在寻找将所收集数据变现的新途径。"
+    },
+    {
+     "w": "apparel",
+     "ipa": "/əˈpærəl/",
+     "pos": "n.",
+     "en": "apparel (n.) means clothing, especially in the context of the fashion industry",
+     "zh": "服装，服饰",
+     "ctx": "Shein正在降低对服装业务的依赖",
+     "ex1": "The brand is best known for its affordable athletic apparel. 该品牌以其价格实惠的运动服装而闻名。",
+     "ex2": "The apparel industry faces growing pressure to adopt more sustainable practices. 服装行业在采用更可持续的生产方式方面面临越来越大的压力。"
+    },
+    {
+     "w": "acquisition",
+     "ipa": "/ˌækwɪˈzɪʃn/",
+     "pos": "n.",
+     "en": "acquisition (n.) means the act of obtaining or gaining something, especially in business contexts such as customers or companies",
+     "zh": "获取，获得",
+     "ctx": "获取新客户",
+     "ex1": "Customer acquisition costs have risen sharply across the online retail sector. 整个在线零售行业的获客成本都大幅上升。",
+     "ex2": "The company's growth strategy relies heavily on the acquisition of smaller rivals. 该公司的增长战略在很大程度上依赖于对较小竞争对手的收购。"
+    }
+   ]
+  },
+  {
+   "en_html": "Yet <mark class=\"voc\">diversification</mark> brings risks <mark class=\"voc\">of its own</mark>. <mark class=\"voc\">Hosting</mark> <mark class=\"voc\">third-party</mark> <mark class=\"voc\">merchants</mark> creates additional compliance and reputational challenges at a time when Shein is already under intense regulatory <mark class=\"voc\">scrutiny</mark>. Its weak trading <mark class=\"voc\">debut</mark> also <mark class=\"voc\">stands in contrast with</mark> the extraordinary investor <mark class=\"voc\">appetite</mark> surrounding Chinese companies in artificial intelligence, robotics and memory chips. Those are the sectors where investors currently see structural growth and where demand for new listings has been strongest.",
+   "zh": "然而，多元化本身也会带来新的风险。在 Shein 已经面临严格监管审查之际，引入第三 方商家又会带来额外的合规与声誉挑战。与此同时，Shein上市首日的疲软表现，也与 投资者对中国人工智能、机器人和存储芯片企业表现出的强烈热情形成鲜明对比。目前， 投资者正是在这些行业中看到了结构性增长，而市场对于这些行业新股上市的需求也最 为旺盛。",
+   "notes": [
+    {
+     "w": "diversification",
+     "ipa": "/daɪˌvɜːsɪfɪˈkeɪʃn/",
+     "pos": "n.",
+     "en": "diversification (n.) means the process of expanding into new products, markets, or business areas to reduce risk",
+     "zh": "多元化，多样化",
+     "ctx": "Shein向平台模式和家居等新品类扩张的多元化战略",
+     "ex1": "The company's diversification into financial services has helped stabilise its revenue. 该公司向金融服务的多元化发展帮助稳定了其收入。",
+     "ex2": "Diversification across multiple product lines can cushion a firm against market downturns. 跨多个产品线的多元化可以缓冲企业面临的市场低迷。"
+    },
+    {
+     "w": "of one's own",
+     "ipa": "/əv wʌnz əʊn/",
+     "pos": "phr.",
+     "en": "of one's own (phr.) means belonging to or characteristic of oneself",
+     "zh": "自己的，自身的",
+     "ctx": "多元化本身也会带来其自身的风险",
+     "ex1": "Every investment strategy has risks of its own that must be carefully weighed. 每一种投资策略都有其自身的风险，必须仔细权衡。",
+     "ex2": "The new approach brings advantages, but it also has challenges of its own. 新方法带来了优势，但也有其自身的挑战。"
+    },
+    {
+     "w": "host",
+     "ipa": "/həʊst/",
+     "pos": "v.",
+     "en": "host (v.) means to provide the space, infrastructure, or platform for something or someone",
+     "zh": "为……提供平台，容纳，托管",
+     "ctx": "Shein为第三方商家提供销售平台",
+     "ex1": "The website hosts thousands of independent sellers from around the world. 该网站为来自世界各地的数千家独立卖家提供平台。",
+     "ex2": "The marketplace hosts both established brands and small independent merchants. 该市场平台既容纳知名品牌，也容纳小型独立商家。"
+    },
+    {
+     "w": "third-party",
+     "ipa": "/ˌθɜːd ˈpɑːti/",
+     "pos": "adj.",
+     "en": "third-party (adj.) means belonging to or involving an entity other than the two main parties involved",
+     "zh": "第三方的",
+     "ctx": "第三方品牌通过Shein平台销售商品",
+     "ex1": "The platform allows third-party sellers to list products alongside its own inventory. 该平台允许第三方卖家在自有库存之外上架产品。",
+     "ex2": "Third-party logistics providers handle delivery for many small online retailers. 第三方物流供应商为许多小型在线零售商处理配送业务。"
+    },
+    {
+     "w": "merchant",
+     "ipa": "/ˈmɜːtʃənt/",
+     "pos": "n.",
+     "en": "merchant (n.) means a person or business that buys and sells goods, especially in large quantities or through a particular platform",
+     "zh": "商家，商户",
+     "ctx": "在Shein平台上销售商品的第三方商家",
+     "ex1": "Small merchants on the platform often struggle with rising commission fees. 该平台上的小商户常常因佣金上涨而苦苦挣扎。",
+     "ex2": "The e-commerce giant has attracted millions of merchants from across the country. 这家电商巨头吸引了来自全国各地的数百万商家。"
+    },
+    {
+     "w": "scrutiny",
+     "ipa": "/ˈskruːtəni/",
+     "pos": "n.",
+     "en": "scrutiny (n.) means close and critical examination or inspection",
+     "zh": "严格审查，密切审视",
+     "ctx": "西方对Shein商业行为的严格审视",
+     "ex1": "The company's labour practices came under intense scrutiny from human rights groups. 该公司的劳工行为受到了人权组织的严密审查。",
+     "ex2": "Public spending on infrastructure projects faces growing scrutiny as budget pressures mount. 随着预算压力加大，基础设施项目的公共支出面临越来越多的审查。"
+    },
+    {
+     "w": "debut",
+     "ipa": "/ˈdeɪbjuː/",
+     "pos": "n.",
+     "en": "debut (n.) means the first public appearance or launch of something, such as a company on the stock market",
+     "zh": "首次亮相，首秀",
+     "ctx": "Shein在香港交易所的上市首日，首次公开交易",
+     "ex1": "The band's debut album topped the charts within a week of its release. 这支乐队的首张专辑在发行一周内就登上了排行榜榜首。",
+     "ex2": "Her debut on the New York stage was met with enthusiastic reviews from critics. 她在纽约舞台的首次亮相获得了评论家的热烈好评。"
+    },
+    {
+     "w": "stand in contrast with",
+     "ipa": "/stænd ɪn ˈkɒntrɑːst wɪð/",
+     "pos": "phr.",
+     "en": "stand in contrast with (phr.) means to be noticeably different from something else, especially in a way that highlights the difference",
+     "zh": "与……形成鲜明对比",
+     "ctx": "Shein首日疲软表现与投资者对中国AI等企业的热情形成鲜明对比",
+     "ex1": "The company's sluggish growth stands in sharp contrast with the rapid expansion of its rivals. 该公司的缓慢增长与其竞争对手的快速扩张形成鲜明对比。",
+     "ex2": "The cautious mood in the retail sector stands in contrast with the optimism in technology markets. 零售行业的谨慎情绪与科技市场的乐观氛围形成鲜明对比。"
+    },
+    {
+     "w": "appetite",
+     "ipa": "/ˈæpɪtaɪt/",
+     "pos": "n.",
+     "en": "appetite (n.) means a strong desire or willingness to have, buy, or invest in something",
+     "zh": "强烈的兴趣，投资热情，需求",
+     "ctx": "投资者对中国AI、机器人和存储芯片企业的强烈投资热情",
+     "ex1": "Investor appetite for new energy stocks has cooled since the market correction. 市场回调以来，投资者对新能源股票的热情有所降温。",
+     "ex2": "There is strong appetite among global funds for high-growth technology listings. 全球基金对高增长科技公司上市存在强烈的投资需求。"
+    }
+   ]
+  },
+  {
+   "en_html": "Shein’s Hong Kong <mark class=\"voc\">debut</mark> therefore marks a striking <mark class=\"voc\">reversal</mark> from the optimism surrounding the company four years ago. In 2022, it was a nearly $100 billion private company, celebrated as one of China’s most successful global consumer brands. Today it is worth roughly a quarter of that peak and faces slower growth, tougher trade rules, <mark class=\"voc\">fierce</mark> competition and persistent regulatory <mark class=\"voc\">scrutiny</mark>. Shein spent a decade proving how many consumers would buy a $5 dress. Its first day in Hong Kong showed that shoppers and <mark class=\"voc\">shareholders</mark> may be buying two very different things.",
+   "zh": "因此，Shein此次香港上市，标志着市场情绪与四年前围绕这家公司形成的乐观氛围相 比，出现了一次令人瞩目的逆转。2022年，它还是一家估值接近1000亿美元的非上市公 司，被誉为中国最成功的全球消费品牌之一。如今，它的估值仅约为巅峰时期的四分之 一，同时还面临增长放缓、贸易规则趋严、激烈竞争以及持续不断的监管审查。Shein 用了十年时间证明，究竟有多少消费者愿意购买一条5美元的连衣裙。而香港上市首日 的表现则表明：消费者愿意买的东西，与股东愿意买的东西，或许完全是两回事。",
+   "notes": [
+    {
+     "w": "debut",
+     "ipa": "/ˈdeɪbjuː/",
+     "pos": "n.",
+     "en": "debut (n.) means the first public appearance or launch of something, such as a company on the stock market",
+     "zh": "首次亮相，首秀",
+     "ctx": "Shein在香港交易所的上市首日，首次公开交易",
+     "ex1": "The band's debut album topped the charts within a week of its release. 这支乐队的首张专辑在发行一周内就登上了排行榜榜首。",
+     "ex2": "Her debut on the New York stage was met with enthusiastic reviews from critics. 她在纽约舞台的首次亮相获得了评论家的热烈好评。"
+    },
+    {
+     "w": "reversal",
+     "ipa": "/rɪˈvɜːsl/",
+     "pos": "n.",
+     "en": "reversal (n.) means a complete change in a situation, direction, or trend to the opposite",
+     "zh": "逆转，彻底反转",
+     "ctx": "Shein上市首日表现与四年前乐观氛围相比出现的惊人逆转",
+     "ex1": "The company's declining sales marked a sharp reversal from its years of rapid expansion. 该公司销售额的下滑标志着其多年来快速扩张的急剧逆转。",
+     "ex2": "The policy change represents a major reversal in the government's approach to foreign investment. 这一政策变化代表着政府对待外资方式的重大转变。"
+    },
+    {
+     "w": "fierce",
+     "ipa": "/fɪəs/",
+     "pos": "adj.",
+     "en": "fierce (adj.) means very strong, intense, or aggressive",
+     "zh": "激烈的，强劲的",
+     "ctx": "Shein面临的来自Temu和AliExpress等的激烈竞争",
+     "ex1": "The smartphone market is characterised by fierce competition among a handful of major brands. 智能手机市场的特点在于少数几大品牌之间竞争激烈。",
+     "ex2": "Fierce price wars have eroded profits across the discount retail sector. 激烈的价格战侵蚀了整个折扣零售行业的利润。"
+    },
+    {
+     "w": "scrutiny",
+     "ipa": "/ˈskruːtəni/",
+     "pos": "n.",
+     "en": "scrutiny (n.) means close and critical examination or inspection",
+     "zh": "严格审查，密切审视",
+     "ctx": "西方对Shein商业行为的严格审视",
+     "ex1": "The company's labour practices came under intense scrutiny from human rights groups. 该公司的劳工行为受到了人权组织的严密审查。",
+     "ex2": "Public spending on infrastructure projects faces growing scrutiny as budget pressures mount. 随着预算压力加大，基础设施项目的公共支出面临越来越多的审查。"
+    },
+    {
+     "w": "shareholder",
+     "ipa": "/ˈʃeəhəʊldə(r)/",
+     "pos": "n.",
+     "en": "shareholder (n.) means a person or organisation that owns shares in a company",
+     "zh": "股东，持股人",
+     "ctx": "股东愿意买的东西与消费者愿意买的东西是两回事",
+     "ex1": "Shareholders voted overwhelmingly in favour of the proposed merger. 股东以压倒性多数投票支持拟议的合并。",
+     "ex2": "The company's decision to cut dividends angered many long-term shareholders. 该公司削减股息的决定激怒了许多长期股东。"
+    }
+   ]
+  }
+ ],
+ "proper": [
+  {
+   "name": "Shein / 希音",
+   "def": "成立于中国、总部后迁新加坡的在线快时尚零售平台，以5美元上衣、10美元连衣裙的极低价格、极快上新速度和强大的中国供应链著称，依托广州番禺服装集群实现“小单快反”，每天上新数千款。<br>本文中的意思：全文主角，正处在上市首日破发、估值大幅缩水的转折点。"
+  },
+  {
+   "name": "Hong Kong debut / 港股首秀",
+   "def": "指Shein股票首次在香港交易所公开挂牌交易。港交所是全球主要证券市场之一，对中国背景公司而言是连接国际资本的重要桥梁，上市须满足财务披露、公司治理、市值等多项条件。<br>本文中的意思：Shein在纽约、伦敦尝试受阻后的最终上市地，首日即告下跌。"
+  },
+  {
+   "name": "IPO / 首次公开募股",
+   "def": "即Initial Public Offering，指私人公司首次向公众投资者发行新股并在交易所挂牌上市，既为募集资金，也为早期投资者提供退出通道，流程包括选聘投行、尽职调查、监管审核、路演定价等。<br>本文中的意思：Shein通过此次IPO筹集了约17亿美元。"
+  },
+  {
+   "name": "Valuation / 估值",
+   "def": "市场或机构对公司整体经济价值的评估：上市公司最直接的指标是市值（股价×总股本），未上市公司则由融资轮次中的投资方出价决定。<br>本文中的意思：Shein本次IPO估值约265亿美元，较2022年私募融资时近1000亿美元的峰值缩水约四分之三。"
+  },
+  {
+   "name": "New York listing / 纽约上市",
+   "def": "指在纽交所或纳斯达克挂牌上市。纽约是全球资本市场核心枢纽，能带来极高的国际曝光度与充裕流动性，但SEC信息披露要求极严，近年对中概股的审计底稿、数据安全审查日趋收紧。<br>本文中的意思：Shein最初的上市首选，因西方对其商业行为的严格审视而未能如愿。"
+  },
+  {
+   "name": "London listing / 伦敦上市",
+   "def": "指在伦交所主板或AIM挂牌上市。伦敦是欧洲最大的股票交易市场和重要国际金融中心，监管相对灵活，但仍须满足英国金融行为监管局（FCA）的上市规则与持续披露义务。<br>本文中的意思：Shein转战的第二站，因供应链劳工、关税待遇等密集审查最终未能成行。"
+  },
+  {
+   "name": "Social-media influencers / 社交媒体网红",
+   "def": "在Instagram、TikTok、YouTube等平台持续输出内容、积累大量粉丝的个人创作者，能对粉丝的消费决策产生实质性影响，“种草”营销是当代数字营销的核心手段。<br>本文中的意思：Shein早期大量与中腰部网红合作、免费寄品换曝光，以极低获客成本实现病毒式传播的关键推手。"
+  },
+  {
+   "name": "Shein haul / Shein开箱购物视频",
+   "def": "“Haul”本意“大量购买”，在社交媒体语境下特指博主一次性展示从某品牌购买的大量商品并逐件试穿评价的视频，2020年前后是YouTube和TikTok上的火爆内容类别。<br>本文中的意思：这些几乎免费的用户生成内容为Shein带来巨大流量，推动其在欧美年轻女性中走红。"
+  },
+  {
+   "name": "Pandemic e-commerce boom / 疫情期间电商繁荣",
+   "def": "2020—2022年疫情期间，封锁与社交距离限制使线下零售遭受重创，线上购物需求井喷，服装等品类渗透率急剧上升。<br>本文中的意思：Shein黄金期的起点——消费者被迫线上买衣服且更偏好低价，其销售额与用户数倍增，2022年估值冲上近1000亿美元。"
+  },
+  {
+   "name": "Supply chain / 供应链",
+   "def": "从原材料采购、加工、质检、仓储到跨境配送的完整商品流通链条。Shein以广州番禺数千家中小工厂为核心，用自研系统实时对接订单与产能，设计到上架仅需7—14天，远快于ZARA的3—4周。<br>本文中的意思：Shein成功的基石，也是被关税政策削弱的那种竞争优势所在。"
+  },
+  {
+   "name": "De minimis exemption / 小额免税政策",
+   "def": "“De minimis”为拉丁语“关于微小事物”，指对低价值进口包裹免征关税的规则。美国此前允许800美元以下包裹免税入境，欧盟门槛为22欧元，Shein、Temu借此直邮低价商品、规避关税。<br>本文中的意思：2025年前后美欧相继取消或收紧该政策，直接推高Shein的物流与税费成本。"
+  },
+  {
+   "name": "Cross-border shipping / 跨境直邮",
+   "def": "商品从中国经国际快递或邮政渠道直接送达海外消费者的物流方式，省去海外仓备货环节，适合小批量多批次订单，库存集中、资金占用少。<br>本文中的意思：Shein早期赖以扩张的模式，但对运费和关税政策极为敏感，免税收紧后成本劣势日益凸显。"
+  },
+  {
+   "name": "Revenue growth / 营收增长率",
+   "def": "（本期营收−上期营收）÷上期营收×100%，衡量公司业务扩张速度的核心财务指标，反映销售拓展能力与产品吸引力。<br>本文中的意思：Shein营收增速从21%放缓至8%，说明高速扩张期已过，直接引发投资者对其盈利前景的重估与估值下调。"
+  },
+  {
+   "name": "Marketing expenses / 营销费用",
+   "def": "公司为获取新用户、维护老用户和推广品牌投入的开支，包括广告投放、网红合作、关键词竞价、促销折扣等，获客成本（CAC）是衡量营销效率的关键指标。<br>本文中的意思：2025年Shein营销费用增速超过营收增速，意味着每单位新增收入所需付出的营销成本越来越高。"
+  },
+  {
+   "name": "Net loss / net profit / 净亏损与净利润",
+   "def": "净利润是总收入扣除全部成本、费用、税收和利息后的最终盈利，是最综合的经营成果指标；收入不抵支出则为净亏损。<br>本文中的意思：Shein 2026年一季度净亏损9900万美元，而上年同期盈利3.95亿美元，一正一负说明盈利能力严重恶化。"
+  },
+  {
+   "name": "Temu / 特木",
+   "def": "拼多多母公司PDD Holdings于2022年9月在美国推出的跨境电商平台，主打极致低价，靠“全托管模式”（商家只管发货，平台包办定价、物流、售后）和大规模社媒投放迅速扩张。<br>本文中的意思：与Shein目标用户、品类和价格带高度重叠的最直接竞争对手。"
+  },
+  {
+   "name": "AliExpress / 全球速卖通",
+   "def": "阿里巴巴2010年推出的面向国际消费者的跨境电商零售平台，常被称为“国际版淘宝”，覆盖服装、电子、家居等全品类，在俄罗斯、欧洲、巴西用户基础深厚，物流依托菜鸟网络。<br>本文中的意思：与Shein、Temu形成直接竞争关系的又一对手。"
+  },
+  {
+   "name": "Daily active users / 日活跃用户数（DAU）",
+   "def": "一天内至少有一次主动访问或使用行为的独立用户数量，是衡量互联网平台用户规模与粘性的核心运营指标。<br>本文中的意思：欧盟取消小额包裹免税后Shein售价上涨，其欧洲DAU下降约45%，消费者购买意愿显著减弱。"
+  },
+  {
+   "name": "EU scrapped its duty exemption / 欧盟取消小额包裹关税豁免",
+   "def": "欧盟此前对从非欧盟国家进口的22欧元以下小包裹免征关税和增值税，极大便利了Shein、Temu对欧直邮。<br>本文中的意思：欧盟逐步收紧并于2025年前后正式取消免税门槛，所有包裹须报关缴税，直接导致Shein欧洲售价上升、用户流失。"
+  },
+  {
+   "name": "End of an era for cheap cross-border shipping / 廉价跨境直邮时代终结",
+   "def": "分析师对行业趋势的概括：依赖美欧小额免税红利、以极低物流税费成本直销全球的商业模式已走到尽头，行业将被迫向海外仓备货、品牌化升级等更重资产方向转型。<br>本文中的意思：说明Shein的困境不是个案，而是整个低价跨境电商赛道的大环境变了。"
+  },
+  {
+   "name": "Forward P/E ratio / 前瞻市盈率",
+   "def": "当前股价除以未来12个月的预期每股收益（EPS），反映市场对公司未来盈利能力的预期定价，比静态市盈率更侧重增长前景。<br>本文中的意思：Shein上市时约15倍，是拼多多（约7倍）的两倍以上——增长更差、风险更大却更贵，分析师因此提醒“估值打折不等于股票便宜”。"
+  },
+  {
+   "name": "Retailer-plus-platform / 零售商+平台模式",
+   "def": "从纯自营零售转向“自营+第三方商家入驻”的混合商业模式：零售赚商品差价，平台则收取佣金、广告费、物流服务费等，边际利润率通常更高、资产更轻。<br>本文中的意思：Shein正开放第三方品牌入驻，目标是升级为覆盖多品类的生活方式电商平台。"
+  },
+  {
+   "name": "AI / robotics / memory chips / 人工智能、机器人与存储芯片",
+   "def": "当前全球科技投资最热门的三大赛道：AI涵盖机器学习与大语言模型，机器人包括工业与服务机器人，存储芯片（DRAM、NAND Flash）是半导体核心品类，均受益于结构性增长动力。<br>本文中的意思：与Shein首日冷清形成鲜明对比——投资者更青睐硬核科技资产，港股A股相关IPO需求极为旺盛。"
+  }
+ ],
+ "sources_note": "资料核对：原文与数据依据路透社2026年9月1日报道《Shein shares slide in Hong Kong debut on worries about trade and regulatory risks》（作者 Yantoultra Ngui、Selena Li、Kane Wu），背景知识参考港交所《上市规则》及美国SEC、欧盟委员会公开政策文件。",
+ "practice": {
+  "intro": "把下面几句翻译成英文，注意用上本课学过的表达。",
+  "items": [
+   "由于持续降雨，气温大幅下降，许多游客纷纷穿上外套。",
+   "缺乏经验可能会削弱团队在比赛中的竞争优势。",
+   "学校取消了原定于周五举行的户外活动。",
+   "这家餐厅凭借超低的价格标签吸引了大量年轻顾客。",
+   "引入新的合作伙伴固然能带来资源，但也伴随着自身的问题。",
+   "她对这份工作的热情与他消极的态度形成了鲜明对比。"
+  ],
+  "critical_en": "Shein spent a decade proving how many consumers would buy a $5 dress. Its first day in Hong Kong showed that shoppers and shareholders may be buying two very different things.",
+  "critical_zh": "Shein用了十年时间证明，究竟有多少消费者愿意购买一条5美元的连衣裙。而香港上市首日的表现则表明：消费者愿意买的东西，与股东愿意买的东西，或许完全是两回事。",
+  "answer": "1. As the rain continued, temperatures slid sharply and many tourists put on their coats.<br><br>2. A lack of experience can undermine a team's competitive advantage in the match.<br><br>3. The school scrapped the outdoor event originally scheduled for Friday.<br><br>4. The restaurant attracted a large number of young customers with its ultra-low price tags.<br><br>5. Bringing in a new partner can provide resources, but it also comes with problems of its own.<br><br>6. Her enthusiasm for the job stands in sharp contrast with his indifferent attitude."
+ },
+ "mindmap": {
+  "aria": "Shein港股上市破发思维导图",
+  "alt": "Shein港股上市破发（手绘版）",
+  "svg": "<svg viewBox=\"0 0 960 720\" xmlns=\"http://www.w3.org/2000/svg\" role=\"img\" aria-label=\"Shein港股上市破发思维导图\" style=\"width:100%;height:auto;font-family:-apple-system,'PingFang SC','Hiragino Sans GB','Microsoft YaHei',sans-serif\">\n        <rect x=\"24\" y=\"306\" width=\"176\" height=\"88\" rx=\"14\" fill=\"#eae3d2\" stroke=\"#9a8f76\"/>\n        <text x=\"112\" y=\"342\" text-anchor=\"middle\" fill=\"#3d3a34\" font-size=\"17\" font-weight=\"700\">上市即破发</text>\n        <text x=\"112\" y=\"368\" text-anchor=\"middle\" fill=\"#5c5648\" font-size=\"12.5\">低价神话遇冷</text>\n\n        <path d=\"M200,350 C232,350 232,88 260,88\"  stroke=\"#6b8f71\" stroke-width=\"2\" fill=\"none\"/>\n        <path d=\"M200,350 C232,350 232,238 260,238\" stroke=\"#7d98ad\" stroke-width=\"2\" fill=\"none\"/>\n        <path d=\"M200,350 C232,350 232,433 260,433\" stroke=\"#bd7a6d\" stroke-width=\"2\" fill=\"none\"/>\n        <path d=\"M200,350 C232,350 232,628 260,628\" stroke=\"#9b86b3\" stroke-width=\"2\" fill=\"none\"/>\n\n        <g class=\"mm-branch\" data-target=\"bc1\">\n          <rect x=\"260\" y=\"71\" width=\"190\" height=\"34\" rx=\"8\" fill=\"#e6efe7\" stroke=\"#6b8f71\"/>\n          <text x=\"349\" y=\"93\" text-anchor=\"middle\" fill=\"#4c6b52\" font-size=\"15\" font-weight=\"700\">首日破发（¶1–2）</text>\n          <text class=\"mm-arrow\" data-for=\"bc1\" x=\"442\" y=\"93\" text-anchor=\"end\" fill=\"#4c6b52\">▾</text>\n        </g>\n        <g class=\"mm-children\" id=\"bc1\">\n          <path d=\"M450,88 C462,88 462,46 480,46\" stroke=\"#6b8f71\" stroke-width=\"1.5\" fill=\"none\"/>\n          <path d=\"M450,88 C462,88 462,88 480,88\" stroke=\"#6b8f71\" stroke-width=\"1.5\" fill=\"none\"/>\n          <path d=\"M450,88 C462,88 462,130 480,130\" stroke=\"#6b8f71\" stroke-width=\"1.5\" fill=\"none\"/>\n          <rect x=\"480\" y=\"30\" width=\"456\" height=\"32\" rx=\"8\" fill=\"#e6efe7\"/><text x=\"492\" y=\"51\" fill=\"#3d3a34\" font-size=\"14\">首日跌8%，盘中一度跌10%</text>\n          <rect x=\"480\" y=\"72\" width=\"456\" height=\"32\" rx=\"8\" fill=\"#e6efe7\"/><text x=\"492\" y=\"93\" fill=\"#3d3a34\" font-size=\"14\">仅6.6%股本流通，募资约17亿美元</text>\n          <rect x=\"480\" y=\"114\" width=\"456\" height=\"32\" rx=\"8\" fill=\"#e6efe7\"/><text x=\"492\" y=\"135\" fill=\"#3d3a34\" font-size=\"14\">估值约265亿美元，远低于2022年峰值</text>\n        </g>\n\n        <g class=\"mm-branch\" data-target=\"bc2\">\n          <rect x=\"260\" y=\"221\" width=\"190\" height=\"34\" rx=\"8\" fill=\"#e5edf4\" stroke=\"#7d98ad\"/>\n          <text x=\"349\" y=\"243\" text-anchor=\"middle\" fill=\"#3d5872\" font-size=\"15\" font-weight=\"700\">增长失速（¶3–5）</text>\n          <text class=\"mm-arrow\" data-for=\"bc2\" x=\"442\" y=\"243\" text-anchor=\"end\" fill=\"#3d5872\">▾</text>\n        </g>\n        <g class=\"mm-children\" id=\"bc2\">\n          <path d=\"M450,238 C462,238 462,196 480,196\" stroke=\"#7d98ad\" stroke-width=\"1.5\" fill=\"none\"/>\n          <path d=\"M450,238 C462,238 462,238 480,238\" stroke=\"#7d98ad\" stroke-width=\"1.5\" fill=\"none\"/>\n          <path d=\"M450,238 C462,238 462,280 480,280\" stroke=\"#7d98ad\" stroke-width=\"1.5\" fill=\"none\"/>\n          <rect x=\"480\" y=\"180\" width=\"456\" height=\"32\" rx=\"8\" fill=\"#e5edf4\"/><text x=\"492\" y=\"201\" fill=\"#3d3a34\" font-size=\"14\">美欧取消小额免税，直邮成本上升</text>\n          <rect x=\"480\" y=\"222\" width=\"456\" height=\"32\" rx=\"8\" fill=\"#e5edf4\"/><text x=\"492\" y=\"243\" fill=\"#3d3a34\" font-size=\"14\">营收增速21%放缓至8%，一季度转亏</text>\n          <rect x=\"480\" y=\"264\" width=\"456\" height=\"32\" rx=\"8\" fill=\"#e5edf4\"/><text x=\"492\" y=\"285\" fill=\"#3d3a34\" font-size=\"14\">欧洲日活降约45%，忠诚只属于低价</text>\n        </g>\n\n        <g class=\"mm-branch\" data-target=\"bc3\">\n          <rect x=\"260\" y=\"416\" width=\"190\" height=\"34\" rx=\"8\" fill=\"#f4e7e4\" stroke=\"#bd7a6d\"/>\n          <text x=\"349\" y=\"438\" text-anchor=\"middle\" fill=\"#7c4a3e\" font-size=\"15\" font-weight=\"700\">估值之辩（¶6–8）</text>\n          <text class=\"mm-arrow\" data-for=\"bc3\" x=\"442\" y=\"438\" text-anchor=\"end\" fill=\"#7c4a3e\">▾</text>\n        </g>\n        <g class=\"mm-children\" id=\"bc3\">\n          <path d=\"M450,433 C462,433 462,391 480,391\" stroke=\"#bd7a6d\" stroke-width=\"1.5\" fill=\"none\"/>\n          <path d=\"M450,433 C462,433 462,433 480,433\" stroke=\"#bd7a6d\" stroke-width=\"1.5\" fill=\"none\"/>\n          <path d=\"M450,433 C462,433 462,475 480,475\" stroke=\"#bd7a6d\" stroke-width=\"1.5\" fill=\"none\"/>\n          <rect x=\"480\" y=\"375\" width=\"456\" height=\"32\" rx=\"8\" fill=\"#f4e7e4\"/><text x=\"492\" y=\"396\" fill=\"#3d3a34\" font-size=\"14\">15倍前瞻市盈率，是拼多多两倍多</text>\n          <rect x=\"480\" y=\"417\" width=\"456\" height=\"32\" rx=\"8\" fill=\"#f4e7e4\"/><text x=\"492\" y=\"438\" fill=\"#3d3a34\" font-size=\"14\">分析师：估值打折不等于股票便宜</text>\n          <rect x=\"480\" y=\"459\" width=\"456\" height=\"32\" rx=\"8\" fill=\"#f4e7e4\"/><text x=\"492\" y=\"480\" fill=\"#3d3a34\" font-size=\"14\">转型零售+平台，多元化添新风险</text>\n        </g>\n\n        <g class=\"mm-branch\" data-target=\"bc4\">\n          <rect x=\"260\" y=\"611\" width=\"190\" height=\"34\" rx=\"8\" fill=\"#ece4f2\" stroke=\"#9b86b3\"/>\n          <text x=\"349\" y=\"633\" text-anchor=\"middle\" fill=\"#5a4670\" font-size=\"15\" font-weight=\"700\">逆转之后（¶9）</text>\n          <text class=\"mm-arrow\" data-for=\"bc4\" x=\"442\" y=\"633\" text-anchor=\"end\" fill=\"#5a4670\">▾</text>\n        </g>\n        <g class=\"mm-children\" id=\"bc4\">\n          <path d=\"M450,628 C462,628 462,586 480,586\" stroke=\"#9b86b3\" stroke-width=\"1.5\" fill=\"none\"/>\n          <path d=\"M450,628 C462,628 462,628 480,628\" stroke=\"#9b86b3\" stroke-width=\"1.5\" fill=\"none\"/>\n          <path d=\"M450,628 C462,628 462,670 480,670\" stroke=\"#9b86b3\" stroke-width=\"1.5\" fill=\"none\"/>\n          <rect x=\"480\" y=\"570\" width=\"456\" height=\"32\" rx=\"8\" fill=\"#ece4f2\"/><text x=\"492\" y=\"591\" fill=\"#3d3a34\" font-size=\"14\">从近千亿独角兽缩水至约四分之一</text>\n          <rect x=\"480\" y=\"612\" width=\"456\" height=\"32\" rx=\"8\" fill=\"#ece4f2\"/><text x=\"492\" y=\"633\" fill=\"#3d3a34\" font-size=\"14\">增长放缓、竞争激烈、监管加码</text>\n          <rect x=\"480\" y=\"654\" width=\"456\" height=\"32\" rx=\"8\" fill=\"#ece4f2\"/><text x=\"492\" y=\"675\" fill=\"#3d3a34\" font-size=\"14\">消费者买的与股东买的或是两回事</text>\n        </g>\n      </svg>",
+  "img": ""
+ }
+}

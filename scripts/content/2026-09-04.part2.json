@@ -1,0 +1,361 @@
+{
+  "paragraphs": [
+    {
+      "en_html": "The <mark class=\"voc\">hype</mark> is partly explained by <mark class=\"voc\">a boom in</mark> gym culture: men and women are <mark class=\"voc\">pumping iron</mark> more than they used to. Across America, Britain and Europe, fitness-club memberships have reached <mark class=\"voc\">a record high</mark>. Isabella Helm, a 25-year-old trainee accountant, loves Hyrox and trains six days a week in London: \"You <mark class=\"voc\">get addicted to</mark> feeling <mark class=\"voc\">fitter</mark> and stronger.\"",
+      "zh": "这股热度，一部分要归因于健身房文化的兴起：如今的男男女女，比过去更热衷于举铁。在美国、英国乃至整个欧洲，健身俱乐部的会员人数都创下了历史新高。25岁的实习会计伊莎贝拉·赫尔姆就是Hyrox 的拥趸，她在伦敦每周训练六天：\"你会对那种越来越壮、越来越强的感觉上瘾。\"",
+      "notes": [
+        {
+          "w": "hype",
+          "ipa": "/haɪp/",
+          "pos": "n.",
+          "en": "hype (n.) means intense publicity and excitement around something, often implying that it is exaggerated",
+          "zh": "本义为\"大肆宣传、炒作\"，舆论热度评价语境核心义为\"被吹起来的热度（暗含水分）\"",
+          "ctx": "The hype is partly explained by...——作者用hype 而非popularity，延续了全篇craze / claim / acolyte 一路下来的保留态度，暗示这股热度里有营销成分",
+          "ex1": "The launch generated enormous hype but disappointing first-week sales. 这次发布造出了巨大声势，首周销量却令人失望。",
+          "ex2": "Two years on, the technology has yet to live up to the hype. 两年过去了，这项技术仍未兑现当初的那些吹捧。"
+        },
+        {
+          "w": "a boom in",
+          "ipa": "",
+          "pos": "名词短语",
+          "en": "a boom means a period of rapid growth or sudden increase in activity, popularity or economic prosperity",
+          "zh": "本义为\"（爆炸般的）轰鸣\"，经济与社会趋势语境核心义为\"（某领域的）迅猛兴起、繁荣期\"",
+          "ctx": "a boom in gym culture——把Hyrox 的爆红放回更大的社会背景里：不是Hyrox 创造了健身热，而是它踩在了一个已经沸腾的健身社会上",
+          "ex1": "A boom in domestic travel followed the reopening of the border. 边境重新开放后，国内旅游迎来了一波爆发式增长。",
+          "ex2": "Every boom in this sector has so far been followed by a bust. 迄今为止，这个行业的每一次繁荣之后都跟着一次萧条。"
+        },
+        {
+          "w": "pump iron",
+          "ipa": "",
+          "pos": "固定短语",
+          "en": "pump iron means to lift weights as a form of exercise, especially for building muscle",
+          "zh": "本义为\"像泵一样抽送铁块\"（形容举哑铃时手臂反复上下的动作），健身文化语境核心义为\"举铁、练器械\"",
+          "ctx": "men and women are pumping iron more than they used to——说明健身热的重心已经从有氧转向力量训练，这正是Hyrox 这种\"跑+力量\"混合赛制能被广泛接受的前提；该说法因1977年施瓦辛格主演的纪录片《Pumping Iron》而进入日常英语",
+          "ex1": "He pumps iron four evenings a week and runs on the other three. 他一周有四个晚上练器械，另外三天跑步。",
+          "ex2": "Strength training, once a niche pursuit, is now what most gym-goers come for. 力量训练曾是小众爱好，如今却成了多数健身房用户的主要目的。"
+        },
+        {
+          "w": "a record high",
+          "ipa": "",
+          "pos": "名词短语",
+          "en": "a record high means the highest level ever recorded for a particular measurement",
+          "zh": "本义为\"创纪录的高点\"，数据与统计语境核心义为\"历史新高\"",
+          "ctx": "欧美健身俱乐部会员数集体创下新高，为Hyrox 的爆发提供了社会背景板——美国2025年约8100万人持有健身会员资格，英国约1220万人，欧洲整体约7550万人",
+          "ex1": "Household savings hit a record high in the second quarter. 家庭储蓄在第二季度创下历史新高。",
+          "ex2": "Unemployment fell to a record low before edging back up. 失业率降至历史最低点，随后又略有回升。"
+        },
+        {
+          "w": "get addicted to",
+          "ipa": "",
+          "pos": "固定短语",
+          "en": "get addicted to something means to become unable to stop doing or wanting something because of the pleasure or satisfaction it gives",
+          "zh": "本义为\"上瘾、成瘾\"（addict 源自拉丁语\"被判归属于\"），行为心理语境核心义为\"对……欲罢不能\"",
+          "ctx": "You get addicted to feeling fitter and stronger——这句引语点破了整件事的心理机制：人们成瘾的不是运动本身，而是\"感觉自己在变强\"这种可测量、可累积的即时反馈，这也正是私募基金看中的高留存率来源。注意to 是介词，后接动名词",
+          "ex1": "Users get addicted to the small reward that arrives with every notification. 用户会对每条通知带来的那一点小奖励上瘾。",
+          "ex2": "She is addicted to checking her split times after every run. 她每跑完一次都忍不住要查配速，已经成了瘾。"
+        },
+        {
+          "w": "fit",
+          "ipa": "/fɪt/",
+          "pos": "adj.",
+          "en": "fit (adj.) means in good physical condition as a result of regular exercise",
+          "zh": "本义为\"合适的、相配的\"，健康与体能语境核心义为\"体能好的、身体健康的\"",
+          "ctx": "feeling fitter and stronger——此处fit 取英式高频义\"身体好\"，与strong 并列，指有氧能力与力量水平的同步提升，正好对应Hyrox 这项混合赛事的两个维度",
+          "ex1": "At sixty he is fitter than most people half his age. 他六十岁了，比很多小他一半年纪的人身体还要好。",
+          "ex2": "The report concluded that the old system was no longer fit for purpose. 报告认定，这套旧系统已经不再适用了。"
+        }
+      ]
+    },
+    {
+      "en_html": "Hyrox adds a social element to what is generally a <mark class=\"voc\">solitary</mark> pursuit. There is also the <mark class=\"voc\">adrenalin rush</mark> that comes with competition. Leaderboards <mark class=\"voc\">foster</mark> friendly <mark class=\"voc\">rivalry</mark>. Athletes can race solo, in pairs or teams; friends can pay to watch on in comfort from the stands.",
+      "zh": "健身本是一件独自进行的事，而Hyrox 给它加上了社交属性。此外还有竞技带来的那股肾上腺素冲劲。排行榜催生出良性的较劲。选手可以单人上阵，也可以两人搭档或组队参赛；亲友则能买票，舒舒服服地坐在看台上观战。",
+      "notes": [
+        {
+          "w": "solitary",
+          "ipa": "/ˈsɒlɪtri/",
+          "pos": "adj.",
+          "en": "solitary (adj.) means done alone, or preferring to be alone rather than with other people",
+          "zh": "本义为\"单独的、独自一人的\"（词根sol- 单独，同源词solo、solitude、sole），行为方式描写语境核心义为\"一个人进行的、无人作伴的\"",
+          "ctx": "健身在通常情况下是一件独自完成的事——戴上耳机、各练各的，正因如此，Hyrox 加进来的社交属性才构成它的核心竞争力",
+          "ex1": "Long-distance running had always been a solitary habit for him, never a social one. 长跑对他而言一直是个人的习惯，从来不是社交活动。",
+          "ex2": "She spent a solitary evening going over the accounts. 她独自度过了一个晚上，翻查那些账目。"
+        },
+        {
+          "w": "adrenalin rush",
+          "ipa": "",
+          "pos": "名词短语",
+          "en": "an adrenalin rush is a sudden surge of excitement and energy caused by the release of adrenalin, typically in situations of risk or competition",
+          "zh": "本义为\"肾上腺素的一阵涌出\"，生理与心理体验语境核心义为\"肾上腺素飙升带来的亢奋感\"",
+          "ctx": "竞技本身带来的即时快感，是Hyrox 区别于日常健身的第二个吸引力来源——第一个是社交",
+          "ex1": "Skydivers describe the first three seconds as the purest adrenalin rush there is. 跳伞者形容最初那三秒是世上最纯粹的肾上腺素快感。",
+          "ex2": "The trading floor runs on caffeine and the occasional adrenalin rush. 交易大厅靠的是咖啡因，外加时不时来一阵肾上腺素。"
+        },
+        {
+          "w": "foster",
+          "ipa": "/ˈfɒstə/",
+          "pos": "v.",
+          "en": "foster (v.) means to encourage the growth or development of something, especially something positive",
+          "zh": "本义为\"养育、抚养\"（foster parents 养父母，foster care 寄养），社群与组织发展语境核心义为\"培育、促进、助长\"",
+          "ctx": "leaderboards foster friendly rivalry——排行榜把私人训练变成公开可比的成绩，从而\"养出\"了良性竞争；foster 强调的是缓慢培育而非强行推动",
+          "ex1": "The programme was designed to foster collaboration between rival research teams. 这个项目旨在促进相互竞争的研究团队之间的合作。",
+          "ex2": "Open-plan offices were supposed to foster creativity; the evidence is mixed. 开放式办公室本该激发创造力，但证据莫衷一是。"
+        },
+        {
+          "w": "rivalry",
+          "ipa": "/ˈraɪvlri/",
+          "pos": "n.",
+          "en": "rivalry means competition or antagonism between people or groups pursuing the same objective",
+          "zh": "本义为\"对手关系\"（rival = 竞争对手），竞争关系语境核心义为\"竞争、较劲\"",
+          "ctx": "friendly rivalry，指排行榜催生的\"下次我要超过你\"式的良性攀比，而非敌对；这种可量化的攀比正是用户持续训练的动力",
+          "ex1": "The sibling rivalry between the two founders eventually split the company in half. 两位创始人之间的手足之争最终把公司一劈为二。",
+          "ex2": "A friendly rivalry between the two departments raised output in both. 两个部门之间的良性竞争把双方的产出都拉了上去。"
+        }
+      ]
+    },
+    {
+      "en_html": "Participants often turn races into mini-holidays. As the format spreads, there is <mark class=\"voc\">no shortage of</mark> new destinations to visit. Danny and Zoe Rae are British <mark class=\"voc\">influencers</mark> who, like a number of couples, combine races with <mark class=\"voc\">recreation</mark> and doing \"something nice\". \"It's a great way to travel,\" Mr Rae <mark class=\"voc\">avers</mark>.",
+      "zh": "参赛者常把一场比赛过成一次小型度假。随着这套赛制在全球铺开，可去的新目的地要多少有多少。丹尼和佐伊·雷是一对英国网红，和不少情侣一样，他们把比赛与休闲、与\"做点开心事\"揉在了一起。\"这是种绝佳的旅行方式，\"雷先生如是断言。",
+      "notes": [
+        {
+          "w": "there is no shortage of",
+          "ipa": "",
+          "pos": "固定句式",
+          "en": "there is no shortage of something means there is plenty of it; it is available in abundance",
+          "zh": "本义为\"不存在……的短缺\"，资源与供给评价语境核心义为\"……多得是、一点都不缺\"",
+          "ctx": "随着赛事在全球铺开，参赛者永远有新目的地可去——这一句把\"办赛城市多\"这个事实，转写成了参赛者视角的\"旅行选择丰富\"",
+          "ex1": "There is no shortage of capital chasing consumer brands right now. 眼下追着消费品牌跑的资本多得是。",
+          "ex2": "A shortage of qualified coaches is the main brake on the sport's expansion. 合格教练的短缺是这项运动扩张的主要阻力。"
+        },
+        {
+          "w": "influencer",
+          "ipa": "/ˈɪnfluənsə/",
+          "pos": "n.",
+          "en": "an influencer is a person who has built a following on social media and can affect the purchasing decisions or opinions of that audience",
+          "zh": "本义为\"施加影响的人\"（influence 源自占星术，in-\"进入\"+ flu-\"流动\"，指星辰流下来左右人命运的神秘力量），社交媒体与营销语境核心义为\"网红、带货博主\"",
+          "ctx": "Danny 与Zoe Rae 这对英国网红夫妇，他们把参赛与旅行结合的做法，是Hyrox\"赛事即内容\"这一属性的现实写照",
+          "ex1": "Brands now spend more on influencer marketing than on print advertising. 如今品牌在网红营销上的投入已经超过了纸媒广告。",
+          "ex2": "A single influencer post sent the product out of stock within hours. 一条网红帖子几小时内就让这款产品断了货。"
+        },
+        {
+          "w": "recreation",
+          "ipa": "/ˌrekriˈeɪʃn/",
+          "pos": "n.",
+          "en": "recreation means activities done for enjoyment and relaxation when one is not working",
+          "zh": "本义为\"重新创造\"（re- 重新+ creation 创造，即把消耗掉的自己重新造出来），休闲与生活方式语境核心义为\"娱乐、休闲活动\"",
+          "ctx": "combine races with recreation——参赛者把比赛和度假揉在一起，说明Hyrox 已经嵌进了消费者的旅行与休闲预算，而不只是健身预算",
+          "ex1": "The city has doubled its spending on parks and public recreation. 这座城市把公园与公共休闲设施的支出翻了一番。",
+          "ex2": "He plays chess purely for recreation, never competitively. 他下棋纯粹是消遣，从不参加比赛。"
+        },
+        {
+          "w": "aver",
+          "ipa": "/əˈvɜː/",
+          "pos": "v.",
+          "en": "aver (v.) means to state or assert something firmly and formally, often as a declaration in a legal context",
+          "zh": "本义为\"郑重宣称、坚称\"（源自法律文书中的正式陈述），引语与叙述语气语境核心义为\"断言、如是说\"",
+          "ctx": "作者用这个古雅正式的法律用词去引述一句\"这是种很棒的旅行方式\"的日常感慨，形成庄重词语与平淡内容之间的反差幽默，与第③段的proclaim 属同一手法",
+          "ex1": "Counsel for the defence averred that no such agreement had ever existed. 辩方律师断言，这样一份协议从未存在过。",
+          "ex2": "He averred, with the confidence of a man who had never tried it, that the recipe was foolproof. 他以一种从没试过的人特有的自信断言，这道菜谱绝不会出错。"
+        }
+      ]
+    },
+    {
+      "en_html": "The sport attracts racers of all ages. The average age of participants is 36, but the oldest at those championships was 75. Laura Hitt trains several older people at her gym in Exeter, in south-west England. She says that \"it's one of the most <mark class=\"voc\">accessible</mark> sports I've been part of.\" Hyrox is kinder on the body than other fitness races—such as CrossFit, which <mark class=\"voc\">peaked</mark> in popularity in the 2010s—because it does not require complex weightlifting. This may explain why it <mark class=\"voc\">appeals to</mark> retired athletes as well as <mark class=\"voc\">hobbyists</mark>.",
+      "zh": "这项运动吸引着各个年龄段的选手。参赛者的平均年龄是36岁，但那届世锦赛上年纪最长的一位已经75岁。劳拉·希特在英格兰西南部埃克塞特的健身房里带着几位上了年纪的学员，她说：\"这是我参与过的门槛最低的运动之一。\"相比其他健身竞赛——比如在2010年代盛极一时的CrossFit——Hyrox 对身体更为友好，因为它不要求复杂的举重技术。这大概也解释了它为何既能吸引退役运动员，也能吸引纯粹的业余爱好者。",
+      "notes": [
+        {
+          "w": "accessible",
+          "ipa": "/əkˈsesəbl/",
+          "pos": "adj.",
+          "en": "accessible (adj.) means easy to take part in, reach or understand, without requiring special skill, training or background",
+          "zh": "本义为\"可接近的、可到达的\"（access = 通道、进入），参与门槛与理解难度语境核心义为\"门槛低的、谁都能上手的\"",
+          "ctx": "教练Laura Hitt 口中\"我参与过的最accessible 的运动之一\"——指Hyrox 不要求复杂技术、不挑天赋，这正是它能覆盖从退役运动员到75岁老人的根本原因，是全段的钥匙词",
+          "ex1": "The book is a rare thing: a serious account of monetary policy that stays accessible to non-economists. 这本书难得之处在于，它认真讲货币政策，却始终让非经济学专业的人读得懂。",
+          "ex2": "Cutting the entry fee made the sport accessible to a far wider group. 降低报名费让这项运动对更广泛的人群敞开了大门。"
+        },
+        {
+          "w": "peak",
+          "ipa": "/piːk/",
+          "pos": "v.",
+          "en": "peak (v.) means to reach the highest point or level, typically before beginning to decline",
+          "zh": "本义为\"山峰、顶点\"，趋势与周期分析语境核心义为\"见顶、达到最高点（此后走下坡）\"",
+          "ctx": "CrossFit, which peaked in popularity in the 2010s——一个peaked 就把CrossFit 的兴衰讲完了：该体系加盟馆数量曾在2018年前后达到一万五千余家，随后持续收缩，到2025年前后已跌至不足一万家；作者用这个词，实际是在暗示一次健身潮流的王朝更替",
+          "ex1": "Subscriber numbers peaked in 2021 and have drifted lower ever since. 订阅用户数在2021年见顶，此后一路走低。",
+          "ex2": ""
+        },
+        {
+          "w": "appeal to",
+          "ipa": "",
+          "pos": "固定短语",
+          "en": "appeal to somebody means to be attractive or interesting to a particular group of people",
+          "zh": "本义为\"呼吁、求助\"（法律义为\"上诉\"），市场与受众分析语境核心义为\"对……有吸引力\"",
+          "ctx": "it appeals to retired athletes as well as hobbyists——同一套赛制同时吸引职业退役选手和纯业余爱好者，这种\"顶尖与普通同场\"的设计是Hyrox 最独特之处",
+          "ex1": "The rebrand was meant to appeal to shoppers under thirty without alienating older ones. 这次品牌重塑意在吸引三十岁以下的顾客，同时又不疏远年长客群。",
+          "ex2": "The club appealed against the two-match ban. 俱乐部就两场禁赛的处罚提出了申诉。"
+        },
+        {
+          "w": "hobbyist",
+          "ipa": "/ˈhɒbiɪst/",
+          "pos": "n.",
+          "en": "a hobbyist is someone who does an activity for pleasure in their spare time rather than professionally",
+          "zh": "本义为\"从事业余爱好的人\"（hobby + -ist 表人后缀），人群分类语境核心义为\"业余爱好者、玩票的人\"",
+          "ctx": "与retired athletes 并列，共同说明Hyrox 参与者的构成跨度之大——从奥运级别的退役选手到纯粹的周末玩家，跑的是完全相同的赛道",
+          "ex1": "The market is split between professional crews and well-funded hobbyists. 这个市场分成两拨人：职业团队，和不差钱的业余玩家。",
+          "ex2": "What began as a hobbyist forum now advises three government agencies. 起初只是个业余爱好者论坛，如今却在为三个政府部门提供咨询。"
+        }
+      ]
+    },
+    {
+      "en_html": "Will Hyrox <mark class=\"voc\">run out of breath</mark>? Some <mark class=\"voc\">grumble</mark> that tickets are <mark class=\"voc\">scarce</mark> and cost <mark class=\"voc\">upwards of</mark> £150—even without <mark class=\"voc\">accounting for</mark> travel, hotels and months of gym fees. But Moritz Fürste, the co-founder of Hyrox (and an Olympic-medal-winning hockey player), believes the format has room to grow, and hopes it will be included in the Olympics in 2032. He <mark class=\"voc\">concedes</mark> that it is expensive, but that demand is still far exceeding supply. \"It's like tennis and golf,\" he observes: \"Once it becomes your sport, you'll keep coming back.\" ■",
+      "zh": "Hyrox 会跑到力竭吗？有人嘀咕说门票难抢，一张要150英镑往上——这还没算路费、住宿和好几个月的健身房开销。但Hyrox 的联合创始人莫里茨·菲尔斯特（他本人还是位拿过奥运奖牌的曲棍球运动员）相信这套赛制仍有生长空间，并寄望它能进入2032年奥运会。他承认这项运动确实花钱，但需求依旧远远跑在供给前面。\"它就像网球和高尔夫，\"他评论道，\"一旦它成了你的运动，你就会一次又一次地回来。\"",
+      "notes": [
+        {
+          "w": "run out of breath",
+          "ipa": "",
+          "pos": "固定短语",
+          "en": "run out of breath means to become unable to breathe easily after exertion; figuratively, to lose momentum or energy",
+          "zh": "本义为\"跑到气都不够用了\"，趋势与生命力评价语境核心义为\"后劲不足、势头耗尽\"",
+          "ctx": "全文第三次跑步双关——标题的runs and runs、第③段的set pulses racing、此处的run out of breath，三次都借\"跑\"来谈这股热潮的生命力，构成一个完整的贯穿性隐喻",
+          "ex1": "The rally ran out of steam once the earnings season began. 财报季一开始，这波涨势就没了后劲。",
+          "ex2": "Two years in, the reform programme is running out of political breath. 推行两年之后，这套改革方案的政治动能正在耗尽。"
+        },
+        {
+          "w": "grumble",
+          "ipa": "/ˈɡrʌmbl/",
+          "pos": "v.",
+          "en": "grumble (v.) means to complain quietly and persistently in a low voice, usually without expecting anything to change",
+          "zh": "本义为\"低声咕哝\"，抱怨程度语境核心义为\"发牢骚、嘀咕着抱怨\"",
+          "ctx": "Some grumble that tickets are scarce——作者选grumble 而非complain，是在称量这些批评的分量：人们一边嫌贵，一边照旧抢票，抱怨并未转化为行动",
+          "ex1": "Season-ticket holders grumble about the prices every year and renew every year. 季票持有者年年抱怨票价，也年年续订。",
+          "ex2": "He handed over the paperwork without grumbling, which was itself unusual. 他毫无怨言地交出了那堆文件，这本身就不太寻常。"
+        },
+        {
+          "w": "scarce",
+          "ipa": "/skeəs/",
+          "pos": "adj.",
+          "en": "scarce (adj.) means available only in small quantities relative to demand",
+          "zh": "本义为\"稀少的\"，供需关系语境核心义为\"稀缺的、供不应求的\"",
+          "ctx": "tickets are scarce——门票供不应求，正好为下文创始人那句\"需求远超供给\"提供了铺垫，也解释了为何抱怨归抱怨、价格仍居高不下",
+          "ex1": "Skilled welders are scarce, and wages have risen accordingly. 熟练焊工稀缺，工资也随之上涨。",
+          "ex2": "Water became scarce enough that the city introduced rationing. 水资源紧张到该市不得不实行限量供应。"
+        },
+        {
+          "w": "upwards of",
+          "ipa": "",
+          "pos": "固定短语",
+          "en": "upwards of means more than a specified amount, with the implication that the true figure may be considerably higher",
+          "zh": "本义为\"向上超过\"，数量表述语境核心义为\"……以上、……起步\"",
+          "ctx": "cost upwards of £150——门票150英镑起，往上不封顶；这个表达比more than 更能传达\"这只是起步价\"的意味，为下一句\"这还没算路费住宿\"的成本铺陈做准备",
+          "ex1": "The refit will take upwards of eighteen months and cost far more than budgeted. 这次改造要花十八个月以上，成本远超预算。",
+          "ex2": "Upwards of forty thousand people ran the course over the weekend. 周末有四万多人跑完了这条赛道。"
+        },
+        {
+          "w": "account for",
+          "ipa": "",
+          "pos": "固定短语（三义高频）",
+          "en": "account for means (1) to take something into consideration in a calculation, (2) to explain the cause of something, or (3) to constitute a specified proportion of a total",
+          "zh": "本义为\"为……结算、交代\"，财经与数据分析语境核心义为\"把……计算在内／解释／占比\"",
+          "ctx": "even without accounting for travel, hotels and months of gym fees——取第一义\"计入\"，作者借此把参赛的真实总成本摊开，提示门票只是这项爱好开销的一小部分",
+          "ex1": "Renewables now account for nearly half of the country's electricity generation. 可再生能源如今占该国发电量的近一半。",
+          "ex2": "Falling freight rates largely account for the improvement in margins. 运费下跌在很大程度上解释了利润率的改善。"
+        },
+        {
+          "w": "concede",
+          "ipa": "/kənˈsiːd/",
+          "pos": "v.",
+          "en": "concede (v.) means to admit that something is true or valid, often reluctantly and after initially resisting",
+          "zh": "本义为\"让步、退让\"（con- 完全+ cede 让出），辩论与表态语境核心义为\"（勉强地）承认\"",
+          "ctx": "He concedes that it is expensive, but...——创始人先认下\"贵\"这个批评，再立刻用but 把结论推回\"需求仍远超供给\"，是典型的\"退一步进两步\"辩论结构，可直接用于议论文让步段",
+          "ex1": "The chief executive conceded that the rollout had been mishandled, then defended the strategy behind it. 这位首席执行官承认此次推广执行不当，随即为背后的战略做了辩护。",
+          "ex2": ""
+        }
+      ]
+    }
+  ],
+  "proper": [
+    {
+      "name": "Strawberry Arena / 草莓竞技场",
+      "def": "瑞典国家体育场，位于斯德哥尔摩市郊索尔纳，2012年启用，可容纳约五万人，是斯堪的纳维亚地区最大的体育场，配有可开合屋顶。它最初的冠名权由瑞典银行Swedbank 购得，但该行将冠名权转赠给了反校园霸凌公益组织Friends，因此场馆多年名为Friends Arena；2024年冠名权易主，买家是挪威连锁酒店集团Strawberry，场馆遂改为现名。<br>本文中的意思：第①段的场景发生地，也是Hyrox 世界锦标赛的举办场馆。它的名字直接支撑了下一句\"A few are the colour of the fruit\"（有些人脸红得像那种水果）这个双关笑话——不知道场馆叫\"草莓\"，这个梗就完全读不懂。"
+    },
+    {
+      "name": "Hyrox",
+      "def": "2017年创立于德国汉堡的室内混合健身赛事品牌，赛制固定为八段一公里跑步，每段跑步后接一个功能性训练项目（滑雪机、推拉雪橇、波比跳、划船、农夫行走、弓步蹲、药球抛掷等）。全球各站规则完全统一，因而成绩具备可比性。<br>本文中的意思：全文的主角，作者要论证的核心对象——它如何在八年内从650人的小众活动变成两百万人参与的全球生意。"
+    },
+    {
+      "name": "Royal H. Burpee / 罗亚尔·H·波比",
+      "def": "美国生理学家，1939年在哥伦比亚大学教育学院攻读应用生理学博士期间设计出\"波比跳\"这套动作，最初仅作为快速评估普通人心肺功能的体能测试，规定只做四个。1942年美军将其纳入新兵体测，动作强度被大幅提高，后经CrossFit 等高强度训练体系推广，演变为今天的形态。<br>本文中的意思：解释第①段burpees 一词的由来——这个折磨全球健身者的动作，名字其实来自发明人的姓氏，而发明人本人从没打算让人做那么多。"
+    },
+    {
+      "name": "Peloton / 派乐腾",
+      "def": "美国居家健身设备与内容公司，主打带屏幕的联网动感单车与跑步机，用户在家训练时可参与线上直播课程。公司名peloton 是法语词，指自行车公路赛中抱团骑行的主车群——车手挤在一起可减少风阻、节省最多四成体力；英语中的platoon（排、一队人）也源自该词。<br>本文中的意思：第③段用它作为\"外部品牌主动接入Hyrox 生态\"的第一个证据——连做居家健身的公司都开设了Hyrox 训练课，说明这项赛事的影响力已经外溢出赛场本身。"
+    },
+    {
+      "name": "HIIT / 高强度间歇训练",
+      "def": "high-intensity interval training 的缩写，指在短时间高强度运动与短暂休息之间反复交替的训练方式，以在较短时间内高效提升心肺功能著称。<br>本文中的意思：第②段用\"接力赛× HIIT\"这个组合，向不了解Hyrox 的读者快速解释这项运动的结构本质。"
+    },
+    {
+      "name": "Puma / 彪马",
+      "def": "德国运动品牌，1948年由Rudolf Dassler 创立，总部位于巴伐利亚小镇Herzogenaurach。该品牌与Adidas 系同胞兄弟分家而来：达斯勒兄弟原在母亲的洗衣房合伙经营鞋厂，1948年决裂后，弟弟Adi Dassler 取名字与姓氏首字母创立Adidas，哥哥Rudolf 则创立了Puma。两家公司分踞小镇的河两岸，镇民长期依品牌划分社交圈，因见面必先低头看对方鞋子而使该镇得名\"the town of bent necks\"（弯脖子镇）；两兄弟去世后葬于同一墓园的两端，两家公司直到2009年才通过一场友谊足球赛正式和解。<br>本文中的意思：Hyrox 现有赞助商之一。它的加入意味着Hyrox 已获得百年运动品牌体系的正式认可，而不只是一个网络热度现象。"
+    },
+    {
+      "name": "Amazfit / 华米／跃我",
+      "def": "智能可穿戴设备品牌，隶属Zepp Health，产品线涵盖智能手表、智能手环与智能戒指。2024年起与Hyrox 建立区域合作，2026年4月升级为为期三年的全球独家可穿戴合作。<br>本文中的意思：第④段中\"独家合作\"的具体案例，说明品牌方买的是排他性授权——竞品即便技术上支持Hyrox 训练模式，也无权使用其品牌标识。"
+    },
+    {
+      "name": "L Catterton",
+      "def": "全球规模最大的消费品领域私募股权公司，总部位于美国康涅狄格州格林尼治，2016年由老牌消费投资机构Catterton 与LVMH 及Groupe Arnault 联合组建，管理资产规模三百多亿美元。代表性投资包括德国鞋履品牌Birkenstock、高端连锁健身房Equinox、蕾哈娜的内衣品牌Savage x Fenty，以及居家健身公司Peloton。<br>本文中的意思：本次Hyrox 控股权的买方。值得注意的是它此前已投过Peloton——即第③段中开设Hyrox 训练课的那家公司，说明这不是一次孤立的下注，而是同一套\"投资健身身份认同\"逻辑在同一赛道上的延续。"
+    },
+    {
+      "name": "LVMH / 路威酩轩集团",
+      "def": "法国跨国奢侈品集团，全球规模最大的奢侈品企业，旗下拥有路易威登、迪奥、轩尼诗、宝格丽、蒂芙尼等数十个品牌，掌门人为Bernard Arnault。<br>本文中的意思：L Catterton 的出资方之一，用来说明这家私募基金的出身与资源背景——它能给被投品牌提供的不只是资金，还有奢侈品体系的品牌运作与分销经验。"
+    },
+    {
+      "name": "Infront Sports & Media",
+      "def": "总部位于瑞士楚格的国际体育营销与媒体版权公司，业务涵盖赛事运营、转播权销售与赞助招商，控股股东为中国的万达集团。该公司于2019年首次投资Hyrox，2022年取得控股权。<br>本文中的意思：本次交易的卖方。它自2022年起掌控Hyrox，此番将控股权出售给L Catterton，标志Hyrox 的实际控制方发生更替。"
+    },
+    {
+      "name": "Premier League / 英格兰足球超级联赛",
+      "def": "英格兰足球顶级联赛，是全球商业价值最高的足球联赛，头部俱乐部年营收可达数亿英镑。<br>本文中的意思：作者用它作为参照系来衡量Hyrox 的1.4亿欧元营收——以这把尺子量，Hyrox 的体量显得\"不算什么\"，从而衬托出后半句\"但已足以说明它是一门生意\"的转折力度。"
+    },
+    {
+      "name": "《Pumping Iron》 / 《铁人》（1977）",
+      "def": "1977年上映的美国纪录片，记录健美比赛的备赛与角逐过程，主角是当时尚未成名的阿诺·施瓦辛格。该片让健美这项此前相当小众的运动首次进入美国主流视野，也让pump iron（举铁）这一说法进入日常英语。<br>本文中的意思：解释第⑥段pumping iron 这个短语的来历——它不是普通的动词搭配，而是一段健身文化史留在语言里的印记。"
+    },
+    {
+      "name": "CrossFit / 克罗斯健身（混合健身）",
+      "def": "2000年创立于美国的高强度综合体能训练体系，融合举重、体操与有氧动作，通过加盟制训练馆（业内称box）迅速扩张。全球加盟馆数量曾在2018年前后达到一万五千余家，一度超过美国的麦当劳门店数；此后持续收缩，到2025年前后已降至不足一万家，其年度全球公开赛报名人数亦从2024年的约34万人降至2025年的约23万人。<br>本文中的意思：第⑨段用作对照组。作者用一个peaked 点明它已过巅峰，实际是在暗示一次健身潮流的更替——上一代靠复杂举重技术立身的体系正在退潮，而不要求技术门槛的Hyrox 正接手它腾出的空间。"
+    },
+    {
+      "name": "Moritz Fürste / 莫里茨·菲尔斯特",
+      "def": "德国男子曲棍球运动员，先后在2008年北京奥运会与2012年伦敦奥运会随德国队夺得金牌；退役后与Christian Toetzke 于2017年共同创办Hyrox，现任该公司联合创始人兼首席营销官。<br>本文中的意思：第⑩段的发言人。文中特意用括号补出他\"奥运奖牌得主\"的身份，是为了给他\"希望Hyrox 进入2032年奥运会\"这一表态提供分量——说这话的不是一个门外汉商人，而是从奥运赛场上下来、熟悉其准入流程的内行人。"
+    },
+    {
+      "name": "World Triathlon / 世界铁人三项联盟（与 Hyathlon）",
+      "def": "国际铁人三项运动的单项体育联合会。2026年，该组织以\"Hyathlon\"之名批准了Hyrox 的赛事形式。由于奥运项目须挂靠在某个获国际奥委会承认的单项体育联合会之下，这一步是任何新兴项目申请入奥的必要前提。<br>本文中的意思：为第⑩段\"希望进入2032年奥运会\"这句话提供现实依据——它并非纯粹的空谈，制度层面的第一道门槛已经跨过；不过赛事方自己也承认2028年为时过早，目标定在2032年与2036年。"
+    },
+    {
+      "name": "Exeter / 埃克塞特",
+      "def": "英格兰西南部德文郡的郡治，人口约十三万的中型城市。<br>本文中的意思：教练Laura Hitt 所在的健身房所在地。作者特意选一个非伦敦、非一线的中型城市作例，是为了支撑\"这项运动的参与门槛低、已下沉到普通城镇\"这一论点——与第⑥段挑选\"25岁实习会计\"作为受访者，属于同一种举例策略。"
+    }
+  ],
+  "sources_note": "资料核对：以上背景依据文章内容，并参考英国《经济学人》原文 \"Hyrox, the fitness craze that runs and runs\"（A gruelling mix of running and strength-training has people working up a sweat），20260904 课件。",
+  "practice": {
+    "intro": "请将以下中文句子翻译为英文（参考答案见后）。",
+    "items": [
+      "2017年在汉堡举办首场比赛时，参赛者约有650人；上个赛季，已有超过150万名选手在35个国家的105场赛事中站上起跑线。",
+      "大品牌们已经会过意来了。今年八月，亚马逊缔结了一项覆盖面极广的全球合作，成为Hyrox 伦敦站的冠名赞助商。",
+      "今年六月，由LVMH 出资支持的私募股权公司L Catterton 同意从Infront 手中收购Hyrox 的控股权。",
+      "以英超足球俱乐部的标准衡量，这个数字并不起眼，但已足以证明：这如今是一门生意，而不再只是一项爱好。",
+      "相比其他健身竞赛——比如在2010年代盛极一时的CrossFit——Hyrox 对身体更为友好，因为它不要求复杂的举重技术。",
+      "他承认这项运动确实花钱，但需求依旧远远超过供给。\"它就像网球和高尔夫，\"他评论道，\"一旦它成了你的运动，你就会一次又一次地回来。\""
+    ],
+    "critical_en": "In August Amazon went further, striking a wide-ranging global partnership that makes it title sponsor of Hyrox's London event this December and gives it dedicated storefronts—selling supplements, sleds and recovery gear—in six European countries.",
+    "critical_zh": "到了八月，亚马逊走得更远，缔结了一项覆盖面极广的全球合作：它由此成为今年十二月Hyrox 伦敦站的冠名赞助商，并在六个欧洲国家开设了专属店铺，售卖补剂、雪橇和恢复装备。",
+    "answer": "1. At the first race, in Hamburg in 2017, some 650 people took part. Last season more than 1.5m athletes lined up across 105 events in 35 countries.<br><br>2. Big brands have taken the hint. In August Amazon struck a wide-ranging global partnership that makes it title sponsor of Hyrox's London event.<br><br>3. In June L Catterton, an LVMH-backed private-equity firm, agreed to buy a majority stake in Hyrox from Infront.<br><br>4. Modest by the standards of a Premier League football club, but proof enough that this is now a business, not just a hobby.<br><br>5. Hyrox is kinder on the body than other fitness races—such as CrossFit, which peaked in popularity in the 2010s—because it does not require complex weightlifting.<br><br>6. He concedes that it is expensive, but that demand is still far exceeding supply. \"It's like tennis and golf,\" he observes: \"Once it becomes your sport, you'll keep coming back.\""
+  },
+  "mindmap": {
+    "aria": "Hyrox健身热思维导图",
+    "alt": "Hyrox健身热潮全景（手绘版）",
+    "svg": "<svg viewBox=\"0 0 960 720\" xmlns=\"http://www.w3.org/2000/svg\" role=\"img\" aria-label=\"Hyrox健身热思维导图\" style=\"width:100%;height:auto;font-family:-apple-system,'PingFang SC','Hiragino Sans GB','Microsoft YaHei',sans-serif\">\n        <rect x=\"24\" y=\"306\" width=\"176\" height=\"88\" rx=\"14\" fill=\"#eae3d2\" stroke=\"#9a8f76\"/>\n        <text x=\"112\" y=\"342\" text-anchor=\"middle\" fill=\"#3d3a34\" font-size=\"17\" font-weight=\"700\">Hyrox健身热</text>\n        <text x=\"112\" y=\"368\" text-anchor=\"middle\" fill=\"#5c5648\" font-size=\"12.5\">一年150万人参赛</text>\n\n        <path d=\"M200,350 C232,350 232,88 260,88\"  stroke=\"#6b8f71\" stroke-width=\"2\" fill=\"none\"/>\n        <path d=\"M200,350 C232,350 232,238 260,238\" stroke=\"#7d98ad\" stroke-width=\"2\" fill=\"none\"/>\n        <path d=\"M200,350 C232,350 232,433 260,433\" stroke=\"#bd7a6d\" stroke-width=\"2\" fill=\"none\"/>\n        <path d=\"M200,350 C232,350 232,628 260,628\" stroke=\"#9b86b3\" stroke-width=\"2\" fill=\"none\"/>\n\n        <g class=\"mm-branch\" data-target=\"bc1\">\n          <rect x=\"260\" y=\"71\" width=\"190\" height=\"34\" rx=\"8\" fill=\"#e6efe7\" stroke=\"#6b8f71\"/>\n          <text x=\"349\" y=\"93\" text-anchor=\"middle\" fill=\"#4c6b52\" font-size=\"15\" font-weight=\"700\">赛制与命名（¶1–3）</text>\n          <text class=\"mm-arrow\" data-for=\"bc1\" x=\"442\" y=\"93\" text-anchor=\"end\" fill=\"#4c6b52\">▾</text>\n        </g>\n        <g class=\"mm-children\" id=\"bc1\">\n          <path d=\"M450,88 C462,88 462,46 480,46\" stroke=\"#6b8f71\" stroke-width=\"1.5\" fill=\"none\"/>\n          <path d=\"M450,88 C462,88 462,88 480,88\" stroke=\"#6b8f71\" stroke-width=\"1.5\" fill=\"none\"/>\n          <path d=\"M450,88 C462,88 462,130 480,130\" stroke=\"#6b8f71\" stroke-width=\"1.5\" fill=\"none\"/>\n          <rect x=\"480\" y=\"30\" width=\"456\" height=\"32\" rx=\"8\" fill=\"#e6efe7\"/><text x=\"492\" y=\"51\" fill=\"#3d3a34\" font-size=\"14\">跑一公里接一项力量：雪橇、壶铃、药球</text>\n          <rect x=\"480\" y=\"72\" width=\"456\" height=\"32\" rx=\"8\" fill=\"#e6efe7\"/><text x=\"492\" y=\"93\" fill=\"#3d3a34\" font-size=\"14\">名字是hybrid与rock star的混成词</text>\n          <rect x=\"480\" y=\"114\" width=\"456\" height=\"32\" rx=\"8\" fill=\"#e6efe7\"/><text x=\"492\" y=\"135\" fill=\"#3d3a34\" font-size=\"14\">社媒5亿次观看，海上邮轮舱房2200英镑</text>\n        </g>\n\n        <g class=\"mm-branch\" data-target=\"bc2\">\n          <rect x=\"260\" y=\"221\" width=\"190\" height=\"34\" rx=\"8\" fill=\"#e5edf4\" stroke=\"#7d98ad\"/>\n          <text x=\"349\" y=\"243\" text-anchor=\"middle\" fill=\"#3d5872\" font-size=\"15\" font-weight=\"700\">品牌与资本（¶4–5）</text>\n          <text class=\"mm-arrow\" data-for=\"bc2\" x=\"442\" y=\"243\" text-anchor=\"end\" fill=\"#3d5872\">▾</text>\n        </g>\n        <g class=\"mm-children\" id=\"bc2\">\n          <path d=\"M450,238 C462,238 462,196 480,196\" stroke=\"#7d98ad\" stroke-width=\"1.5\" fill=\"none\"/>\n          <path d=\"M450,238 C462,238 462,238 480,238\" stroke=\"#7d98ad\" stroke-width=\"1.5\" fill=\"none\"/>\n          <path d=\"M450,238 C462,238 462,280 480,280\" stroke=\"#7d98ad\" stroke-width=\"1.5\" fill=\"none\"/>\n          <rect x=\"480\" y=\"180\" width=\"456\" height=\"32\" rx=\"8\" fill=\"#e5edf4\"/><text x=\"492\" y=\"201\" fill=\"#3d3a34\" font-size=\"14\">Amazfit签三年全球独家可穿戴合作</text>\n          <rect x=\"480\" y=\"222\" width=\"456\" height=\"32\" rx=\"8\" fill=\"#e5edf4\"/><text x=\"492\" y=\"243\" fill=\"#3d3a34\" font-size=\"14\">亚马逊冠名伦敦站，六国开专属店铺</text>\n          <rect x=\"480\" y=\"264\" width=\"456\" height=\"32\" rx=\"8\" fill=\"#e5edf4\"/><text x=\"492\" y=\"285\" fill=\"#3d3a34\" font-size=\"14\">L Catterton收购控股权，年营收1.4亿欧</text>\n        </g>\n\n        <g class=\"mm-branch\" data-target=\"bc3\">\n          <rect x=\"260\" y=\"416\" width=\"190\" height=\"34\" rx=\"8\" fill=\"#f4e7e4\" stroke=\"#bd7a6d\"/>\n          <text x=\"349\" y=\"438\" text-anchor=\"middle\" fill=\"#7c4a3e\" font-size=\"15\" font-weight=\"700\">为何这么火（¶6–9）</text>\n          <text class=\"mm-arrow\" data-for=\"bc3\" x=\"442\" y=\"438\" text-anchor=\"end\" fill=\"#7c4a3e\">▾</text>\n        </g>\n        <g class=\"mm-children\" id=\"bc3\">\n          <path d=\"M450,433 C462,433 462,391 480,391\" stroke=\"#bd7a6d\" stroke-width=\"1.5\" fill=\"none\"/>\n          <path d=\"M450,433 C462,433 462,433 480,433\" stroke=\"#bd7a6d\" stroke-width=\"1.5\" fill=\"none\"/>\n          <path d=\"M450,433 C462,433 462,475 480,475\" stroke=\"#bd7a6d\" stroke-width=\"1.5\" fill=\"none\"/>\n          <rect x=\"480\" y=\"375\" width=\"456\" height=\"32\" rx=\"8\" fill=\"#f4e7e4\"/><text x=\"492\" y=\"396\" fill=\"#3d3a34\" font-size=\"14\">健身房文化兴起，欧美会员数创新高</text>\n          <rect x=\"480\" y=\"417\" width=\"456\" height=\"32\" rx=\"8\" fill=\"#f4e7e4\"/><text x=\"492\" y=\"438\" fill=\"#3d3a34\" font-size=\"14\">社交加竞技，排行榜催生良性较劲</text>\n          <rect x=\"480\" y=\"459\" width=\"456\" height=\"32\" rx=\"8\" fill=\"#f4e7e4\"/><text x=\"492\" y=\"480\" fill=\"#3d3a34\" font-size=\"14\">门槛低不挑天赋，75岁老人也能完赛</text>\n        </g>\n\n        <g class=\"mm-branch\" data-target=\"bc4\">\n          <rect x=\"260\" y=\"611\" width=\"190\" height=\"34\" rx=\"8\" fill=\"#ece4f2\" stroke=\"#9b86b3\"/>\n          <text x=\"349\" y=\"633\" text-anchor=\"middle\" fill=\"#5a4670\" font-size=\"15\" font-weight=\"700\">能火多久（¶10）</text>\n          <text class=\"mm-arrow\" data-for=\"bc4\" x=\"442\" y=\"633\" text-anchor=\"end\" fill=\"#5a4670\">▾</text>\n        </g>\n        <g class=\"mm-children\" id=\"bc4\">\n          <path d=\"M450,628 C462,628 462,586 480,586\" stroke=\"#9b86b3\" stroke-width=\"1.5\" fill=\"none\"/>\n          <path d=\"M450,628 C462,628 462,628 480,628\" stroke=\"#9b86b3\" stroke-width=\"1.5\" fill=\"none\"/>\n          <path d=\"M450,628 C462,628 462,670 480,670\" stroke=\"#9b86b3\" stroke-width=\"1.5\" fill=\"none\"/>\n          <rect x=\"480\" y=\"570\" width=\"456\" height=\"32\" rx=\"8\" fill=\"#ece4f2\"/><text x=\"492\" y=\"591\" fill=\"#3d3a34\" font-size=\"14\">门票150英镑起，未算路费住宿 gym 费</text>\n          <rect x=\"480\" y=\"612\" width=\"456\" height=\"32\" rx=\"8\" fill=\"#ece4f2\"/><text x=\"492\" y=\"633\" fill=\"#3d3a34\" font-size=\"14\">创始人承认贵，但需求仍远超供给</text>\n          <rect x=\"480\" y=\"654\" width=\"456\" height=\"32\" rx=\"8\" fill=\"#ece4f2\"/><text x=\"492\" y=\"675\" fill=\"#3d3a34\" font-size=\"14\">铁三联盟已批准赛制，盼入2032奥运</text>\n        </g>\n      </svg>",
+    "img": ""
+  }
+}

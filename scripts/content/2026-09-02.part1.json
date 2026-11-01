@@ -1,0 +1,423 @@
+{
+ "date": "2026-09-02",
+ "title_tag": "曾发誓“绝不把石油交给美国”，如今委内瑞拉签下百年大单：川普拿走了什么？—— 美国《华盛顿邮报》外刊讲解第1154天",
+ "h1": "曾发誓“绝不把石油交给美国”，如今委内瑞拉签下百年大单：川普拿走了什么？",
+ "source_label": "The Washington Post",
+ "category": "美国《华盛顿邮报》外刊讲解 第1154天",
+ "read_minutes": 18,
+ "nav_hint": "Venezuela vowed not to hand over its oil",
+ "headline": {
+  "en_html": "<span>Venezuela <mark class=\"voc\">vowed</mark> not to ‘<mark class=\"voc\">hand over</mark>’ its oil. Trump aims to <mark class=\"voc\">grab</mark> a <mark class=\"voc\">windfall</mark>.</span> — <span>The deal <mark class=\"voc\">cements</mark> the United States’ long-term dominance over Venezuela, which has become a <mark class=\"voc\">neo-colony</mark> since the U.S. military’s <mark class=\"voc\">capture</mark> of then-President Nicolás Maduro in January.</span>",
+  "zh": "委内瑞拉曾发誓绝不“交出”本国石油，特朗普却想一把抓走这笔意外之财——这份协议把美国对委内瑞拉的长期主导地位浇筑成了定局；自今年1月美军擒获时任总统马杜罗以来，这个国家已经沦为一个新殖民地。",
+  "notes": [
+   {
+    "w": "vow",
+    "ipa": "/vaʊ/",
+    "pos": "v. & n.",
+    "en": "vow (v.) means to make a serious and formal promise to do something or to behave in a particular way",
+    "zh": "郑重宣誓、公开立誓",
+    "ctx": "本文特指：委内瑞拉方面曾以极其强硬的姿态公开宣告，绝不会把本国石油资源的控制权让渡给美国——标题用vow 而非promise，正是要把\"曾经发过誓\"的道德分量压出来，为下文的立场逆转做铺垫。",
+    "ex1": "The chairman vowed to restore profitability within two years, staking his reputation on the promise. 董事长立誓要在两年内恢复盈利，把自己的声誉都押在了这个承诺上。",
+    "ex2": "Having vowed never to return to the industry, she surprised everyone by launching a rival firm. 她曾发誓再不涉足这一行，却出人意料地创办了一家竞争公司。"
+   },
+   {
+    "w": "hand over",
+    "ipa": "/hænd ˈəʊvə(r)/",
+    "pos": "短语动词",
+    "en": "hand over means to give something or someone to another person, especially when you are forced to do so or when you are giving up control of it",
+    "zh": "交出、移交",
+    "ctx": "本文特指：贯穿全篇的核心动词短语——2024年罗德里格斯指责对手要把石油、天然气、黄金\"交出去\"，而两年后她本人成为把近四分之一石油储量长期控股权让与美国的签约者；同一短语在第9段又以hand over power\"移交权力\"的形式出现，把\"资源\"和\"权力\"两条主线缝在一起。",
+    "ex1": "Regulators ordered the bank to hand over all internal communications relating to the failed merger. 监管机构要求该银行交出与这桩失败并购相关的全部内部通信记录。",
+    "ex2": ""
+   },
+   {
+    "w": "grab",
+    "ipa": "/ɡræb/",
+    "pos": "v.",
+    "en": "grab (v.) means to take hold of something suddenly and roughly, often without permission",
+    "zh": "攫取、一把拿走",
+    "ctx": "本文特指：标题写Trump aims to grab a windfall，用grab 而非中性的take 或secure，把\"伸手去抢\"的动作感放了进去，与前半句委内瑞拉\"发誓绝不交出\"形成正面冲撞。",
+    "ex1": "Two rival startups are racing to grab market share before the incumbent updates its pricing. 两家竞争的初创公司正抢在行业老大调价之前争夺市场份额。",
+    "ex2": "The announcement grabbed headlines across Asia, though analysts questioned how much of it was substance. 这则公告在整个亚洲抢占了头条，不过分析师质疑其中有多少实质内容。"
+   },
+   {
+    "w": "windfall",
+    "ipa": "/ˈwɪndfɔːl/",
+    "pos": "n.",
+    "en": "windfall (n.) means an amount of money that you get unexpectedly and without having worked for it",
+    "zh": "意外之财、天降横财",
+    "ctx": "本文特指：标题以windfall 形容美方在这笔石油协议中可能获得的巨额收益，暗示这笔好处来得几乎不费力气；但第5段随即以\"前期投入巨大、要花美国纳税人多少钱\"的追问，对这个\"横财\"的定性打上了问号。",
+    "ex1": "The energy giant reported a windfall of nearly two billion dollars after gas prices tripled last winter. 去年冬天天然气价格暴涨两倍后，这家能源巨头报告了近20亿美元的意外之财。",
+    "ex2": "Several European governments imposed a windfall tax on oil producers, arguing the profits owed more to the market than to management. 数个欧洲国家政府对石油生产商开征暴利税，理由是这些利润更多归功于市场行情而非经营能力。"
+   },
+   {
+    "w": "cement",
+    "ipa": "/sɪˈment/",
+    "pos": "v.",
+    "en": "cement (v.) means to make an agreement, relationship, or position of power stronger and more permanent, making it hard to change",
+    "zh": "巩固、使不可逆",
+    "ctx": "本文特指：The deal cements the United States’ long-term dominance over Venezuela——这份协议把美国对委内瑞拉原本还有变数的主导地位，浇筑成了定局。",
+    "ex1": "The victory cemented her reputation as the most formidable negotiator in the industry. 这场胜利坐实了她在业内最难缠谈判者的名声。",
+    "ex2": ""
+   },
+   {
+    "w": "neo-colony",
+    "ipa": "/ˌniːəʊ ˈkɒləni/",
+    "pos": "n.",
+    "en": "a neo-colony is a country that is officially independent but is in fact economically and politically controlled by another, more powerful country, in a way that resembles the old colonial relationship",
+    "zh": "名义独立、实际受外部力量深度支配的国家",
+    "ctx": "本文特指：出现在副标题中——Venezuela, which has become a neo-colony since the U.S. military’s capture of then-President Nicolás Maduro——委内瑞拉自马杜罗被美方擒获后已被视为一个新殖民地；需要注意的是，这个判断是编辑部在副标题中直接给出的，没有引号、没有出处标注，与正文里记者处处使用what he called、alleged、the Trump administration said 这类留有分寸的表述形成鲜明对比，是全篇语言分寸最松的一句话。",
+    "ex1": "Critics accused the agreement of reducing the smaller nation to little more than a neo-colony, dependent on its larger neighbor for both capital and security. 批评者指责这项协议把这个小国降格成了一个新殖民地，在资金和安全上都仰赖这个更强大的邻国。",
+    "ex2": "The term neo-colonialism gained currency in the mid-20th century to describe economic domination that persisted after formal independence. \"新殖民主义\"这个词在20世纪中叶开始流行，用来形容一国在正式获得独立后，依然存在的那种经济支配关系。"
+   },
+   {
+    "w": "capture",
+    "ipa": "/ˈkæptʃə(r)/",
+    "pos": "n. & v.",
+    "en": "capture (v./n.) means the act of catching and taking control of a person, place, or thing, especially by force",
+    "zh": "（军事行动中的）抓获",
+    "ctx": "本文特指：since the U.S. military’s capture of then-President Nicolás Maduro in January——自今年1月美方将时任总统马杜罗擒获以来；这里capture 是名词，作since 的宾语，标注的是副标题那句判断的时间起点。",
+    "ex1": "The capture of the fugitive financier ended a five-year international manhunt. 这名潜逃金融家被擒获，结束了一场持续五年的国际追捕。",
+    "ex2": ""
+   }
+  ]
+ },
+ "paragraphs": [
+  {
+   "en_html": "As Nicolás Maduro’s vice president in Venezuela, Delcy Rodríguez once <mark class=\"voc\">accused</mark> her political rival of planning to hand over the country’s <mark class=\"voc\">riches</mark> — its vast oil <mark class=\"voc\">reserves</mark> — to the United States. “They are her owners,” Rodriguez said in 2024 of María Corina Machado, then the <mark class=\"voc\">U.S.-backed</mark> opposition leader. “Her <mark class=\"voc\">master</mark> gives her orders to do what? To hand over the oil, the gas, the gold … to hand over and <mark class=\"voc\">trample on</mark> our historical dignity.”",
+   "zh": "彼时身为委内瑞拉马杜罗的副总统，德尔西·罗德里格斯曾抨击她的政治对手，指其意欲将国家的财富——那片庞大的石油储量——拱手让与美国。\"他们才是她的主子，\"2024年，罗德里格斯这样评价当时受美国支持的反对派领袖玛丽亚·科里娜·马查多，\"她的主子命她做什么？命她交出石油、交出天然气、交出黄金……交出去，再把我们的历史尊严踩在脚下。\"",
+   "notes": [
+    {
+     "w": "accuse sb of sth",
+     "ipa": "/əˈkjuːz/",
+     "pos": "固定搭配",
+     "en": "accuse someone of something means to say that you believe someone has done something wrong or committed a crime",
+     "zh": "指责某人做了某事",
+     "ctx": "本文特指：2024年罗德里格斯指责其政治对手马查多\"打算把国家财富交给美国\"——accused her rival of planning to hand over，of 后接动名词planning，是这一搭配最典型的用法。",
+     "ex1": "Shareholders accused the board of concealing the scale of the losses for more than a year. 股东指责董事会隐瞒亏损规模长达一年多。",
+     "ex2": "He was accused of leaking confidential documents, a charge his lawyers flatly denied. 他被控泄露机密文件，其律师对这一指控予以断然否认。"
+    },
+    {
+     "w": "riches",
+     "ipa": "/ˈrɪtʃɪz/",
+     "pos": "n.（复数形式，无单数）",
+     "en": "riches (n., plural) means a large amount of money and valuable possessions; things of great material value",
+     "zh": "（国家的）财富、资源宝藏",
+     "ctx": "本文特指：the country’s riches——委内瑞拉的国家财富，紧接着用破折号同位语点明就是它庞大的石油储量，即全球排名第一、约3030亿桶的探明原油储量。",
+     "ex1": "The rags-to-riches story of the company’s founder has been retold in three separate documentaries. 这位公司创始人白手起家的故事已被三部不同的纪录片反复讲述。",
+     "ex2": "For a century the region’s mineral riches attracted foreign capital and foreign quarrels in equal measure. 一个世纪以来，该地区的矿产财富既引来了外国资本，也引来了同样多的外部纷争。"
+    },
+    {
+     "w": "reserves",
+     "ipa": "/rɪˈzɜːvz/",
+     "pos": "n.（复数）",
+     "en": "reserves (n.) means a supply of a natural resource such as oil or gas that has been discovered but not yet used",
+     "zh": "（已探明的）储量",
+     "ctx": "本文特指：委内瑞拉的vast oil reserves——全球储量第一，但绝大部分是奥里诺科重油带的超重质原油，开采需加热、稀释、专门升级装置，成本高、技术门槛高，因此\"账面第一\"与\"实际产能\"之间存在巨大落差。",
+     "ex1": "The company revised its proven reserves downward after an independent audit questioned earlier estimates. 在独立审计对早前的估算提出质疑后，该公司下调了探明储量数据。",
+     "ex2": "Falling prices pushed several heavy-oil projects below the threshold at which they could be booked as reserves. 价格下跌使数个重油项目跌破了可计入储量的门槛。"
+    },
+    {
+     "w": "U.S.-backed",
+     "ipa": "/bækt/",
+     "pos": "adj.（复合形容词）",
+     "en": "back (v.) means to give support to a person, organization or plan, especially with money or political influence",
+     "zh": "由……支持的、有……在背后撑腰的",
+     "ctx": "本文特指：then the U.S.-backed opposition leader——马查多当时是受美国支持的反对派领袖，这一身份正是罗德里格斯当年攻击她\"有主子\"的由头。",
+     "ex1": "The state-backed lender extended credit on terms no commercial bank would have accepted. 这家国家背景的贷款机构提供的信贷条件，是任何商业银行都不会接受的。",
+     "ex2": "A venture-backed rival entered the market with pricing designed to lose money for three years. 一家风投支持的竞争对手带着注定三年亏损的定价杀入市场。"
+    },
+    {
+     "w": "master",
+     "ipa": "/ˈmɑːstə(r)/",
+     "pos": "n.",
+     "en": "master (n.) means a person who has control or authority over someone else, especially a servant or an animal",
+     "zh": "主子",
+     "ctx": "本文特指：罗德里格斯连用owners 和master 两个词形容马查多与美国的关系——\"他们才是她的主子\"\"她的主子命她做什么\"，在政治场合是极重的人身指控。",
+     "ex1": "The company insisted it served customers, not shareholders, though the quarterly targets suggested otherwise. 公司坚称自己服务的是客户而非股东，但季度指标却透露出别样信息。",
+     "ex2": "No executive can serve two masters when the board and the founder want opposite things. 当董事会和创始人想要的东西背道而驰时，没有哪个高管能同时侍奉两个主子。"
+    },
+    {
+     "w": "trample on",
+     "ipa": "/ˈtræmpl/",
+     "pos": "短语动词",
+     "en": "trample on something means to step heavily on something and crush it; (figurative) to treat someone’s rights or feelings with contempt",
+     "zh": "（对权利、尊严的）践踏、蔑视",
+     "ctx": "本文特指：罗德里格斯当年指控对手要\"交出石油、天然气、黄金……并践踏我们的历史尊严\"——她刻意不用damage 这类文雅词，而用\"用脚踩\"这个动作，把情绪推到顶点。",
+     "ex1": "Union leaders accused the company of trampling on agreements it had signed only months earlier. 工会领袖指责公司践踏了几个月前才签署的协议。",
+     "ex2": "Critics argued the emergency measure trampled on protections that had stood for decades. 批评者认为，这项紧急措施践踏了已存续数十年的保护条款。"
+    }
+   ]
+  },
+  {
+   "en_html": "Now, Rodríguez is the country’s <mark class=\"voc\">interim</mark> leader, <mark class=\"voc\">thanks to</mark> President Donald Trump. And on Friday, Trump announced what he called the “biggest oil deal in world history” — a <mark class=\"voc\">pact</mark> that would give the U.S. a long-term controlling <mark class=\"voc\">stake</mark> in nearly a quarter of Venezuela’s <mark class=\"voc\">untapped</mark> oil reserves.",
+   "zh": "如今，罗德里格斯成了这个国家的临时领导人——这还得\"归功于\"唐纳德·特朗普总统。上周五，特朗普宣布达成了一项被他称为\"世界历史上最大石油协议\"的交易：根据这份协定，美国将长期控股委内瑞拉近四分之一尚未开采的石油储量。",
+   "notes": [
+    {
+     "w": "interim",
+     "ipa": "/ˈɪntərɪm/",
+     "pos": "adj. & n.",
+     "en": "interim (adj.) means intended to be used or to last only until something more permanent is arranged",
+     "zh": "临时的、过渡性的",
+     "ctx": "本文特指：Rodríguez 出任的是interim leader\"临时领导人\"——这个词在第2段是身份说明，到第9段却变成了隐患：帕尔米耶里担心，这份长期协议会给临时政府\"推迟选举、继续掌权\"的动机，让\"临时\"一直临时下去。",
+     "ex1": "The board named an interim chief executive while the search for a permanent replacement continued. 董事会任命了一位临时首席执行官，同时继续物色正式人选。",
+     "ex2": "The interim report offered no conclusions, promising only that a fuller account would follow. 这份中期报告没有给出任何结论，只承诺后续会有更完整的说明。"
+    },
+    {
+     "w": "thanks to",
+     "ipa": "",
+     "pos": "固定短语",
+     "en": "thanks to someone or something means because of someone or something; owing to (often used ironically about a bad outcome)",
+     "zh": "多亏了、归功于（常被反讽使用）",
+     "ctx": "本文特指：Now, Rodríguez is the country’s interim leader, thanks to President Donald Trump——记者不加任何评论性形容词，仅靠这个短语，就让上一段\"美国是主子\"的控诉与这一段\"多亏了美国总统\"形成尖锐反差，讽刺意味由读者自行完成。",
+     "ex1": "Thanks to a last-minute buyer, the auction closed above the reserve price. 多亏了一位最后时刻出手的买家，这场拍卖以高于保留价成交。",
+     "ex2": "The delay was entirely avoidable — and no thanks to the supplier who withheld the parts. 这次延误本可完全避免，扣留零件的那家供应商可谓\"功不可没\"。"
+    },
+    {
+     "w": "pact",
+     "ipa": "/pækt/",
+     "pos": "n.",
+     "en": "pact (n.) means a formal agreement between two or more people, groups or countries",
+     "zh": "协定、条约",
+     "ctx": "本文特指：记者在转述特朗普的\"biggest oil deal\"时用deal，落到自己的叙述时改用pact——一个词的替换，就把这件事从\"一笔生意\"抬到了\"一份协定\"的分量。",
+     "ex1": "The two carriers signed a code-sharing pact that will take effect at the start of the winter schedule. 两家航空公司签署了代码共享协定，将于冬季航班计划启用时生效。",
+     "ex2": "What began as an informal understanding hardened into a formal pact within eighteen months. 最初只是一项非正式默契，十八个月内便固化为一份正式协定。"
+    },
+    {
+     "w": "stake",
+     "ipa": "/steɪk/",
+     "pos": "n.",
+     "en": "stake (n.) means a share or financial interest that someone has in a business, or a personal interest in the outcome of something",
+     "zh": "股份、权益",
+     "ctx": "本文特指：a long-term controlling stake in nearly a quarter of Venezuela’s untapped oil reserves——美国将获得委内瑞拉近四分之一未开采石油储量的长期控股权，controlling stake 指持股比例高到足以主导决策。",
+     "ex1": "The fund acquired a twelve percent stake, enough to demand a seat on the board. 该基金收购了12%的股份，足以要求获得一个董事席位。",
+     "ex2": "With thousands of jobs at stake, both sides agreed to return to the negotiating table. 数千个工作岗位危在旦夕，双方同意重回谈判桌。"
+    },
+    {
+     "w": "untapped",
+     "ipa": "/ˌʌnˈtæpt/",
+     "pos": "adj.",
+     "en": "untapped (adj.) means not yet used or exploited, although available and potentially valuable",
+     "zh": "未开发的、尚未动用的",
+     "ctx": "本文特指：untapped oil reserves——委内瑞拉尚未开采的石油储量，美国拟取得其中近四分之一的长期控股权。",
+     "ex1": "Management insists there is untapped potential in the domestic market that competitors have overlooked. 管理层坚称国内市场仍有竞争对手忽视的未开发潜力。",
+     "ex2": "Vast reserves remain untapped simply because extracting them costs more than the oil is worth. 大量储量至今未被开采，原因很简单：把它们采出来比油本身还贵。"
+    }
+   ]
+  },
+  {
+   "en_html": "The deal <mark class=\"voc\">calls for</mark> the U.S. to enter a <mark class=\"voc\">joint venture</mark> with a private company, creating a new oil giant that the Trump administration said will hold 100-year contracts at the Venezuelan oil fields. It would become the second-largest private oil company <mark class=\"voc\">by reserves</mark> in the world, after Saudi Aramco.",
+   "zh": "按照协议安排，美国将与一家私营公司组建合资企业，由此催生出一家新的石油巨头；特朗普政府称，这家公司将握有委内瑞拉各大油田为期百年的合同。届时，按储量计，它将跃居全球第二大私营石油公司，仅次于沙特阿美。",
+   "notes": [
+    {
+     "w": "call for",
+     "ipa": "",
+     "pos": "短语动词",
+     "en": "call for something means (of a plan, agreement or situation) to require or specify that something should happen; also, to publicly demand something",
+     "zh": "（协议/计划）规定、要求",
+     "ctx": "本文特指：The deal calls for the U.S. to enter a joint venture with a private company——这份协议规定美国与一家私营公司组建合资企业；注意这里不能译成\"呼吁\"。",
+     "ex1": "The restructuring plan calls for the closure of four plants and the sale of two overseas units. 重组方案规定关闭四家工厂并出售两家海外子公司。",
+     "ex2": "Opposition lawmakers called for an independent inquiry into how the contract was awarded. 反对派议员要求就该合同的授予过程展开独立调查。"
+    },
+    {
+     "w": "joint venture",
+     "ipa": "/ˌdʒɔɪnt ˈventʃə(r)/",
+     "pos": "n.（固定短语，缩写JV）",
+     "en": "a joint venture is a business activity or company that two or more separate companies set up and invest in together",
+     "zh": "合资企业",
+     "ctx": "本文特指：美国政府将与一家私营公司组建合资企业，据称将持有委内瑞拉油田百年合同，按储量计跃居全球第二大私营石油公司，仅次于沙特阿美。",
+     "ex1": "The two carmakers formed a joint venture to share the cost of developing a new battery platform. 两家车企组建合资公司，共同分担开发新电池平台的成本。",
+     "ex2": "The joint venture collapsed after the partners disagreed over who controlled the technology. 在双方就技术归属产生分歧后，这家合资企业宣告解体。"
+    },
+    {
+     "w": "by reserves",
+     "ipa": "",
+     "pos": "结构（by + 衡量维度）",
+     "en": "by (prep.) here means according to a particular measure or standard used for ranking",
+     "zh": "按……计、以……衡量",
+     "ctx": "本文特指：the second-largest private oil company by reserves in the world——按\"储量\"这个口径排名全球第二；这个限定词至关重要，因为委内瑞拉的油大多是难以开采的超重质原油，按储量排第二，并不等于按产量或盈利能力排第二。",
+     "ex1": "It is the third-largest bank by assets but only the ninth by profitability. 它按资产规模排第三，但按盈利能力只排第九。",
+     "ex2": "Ranked by daily output rather than reserves, the picture looks entirely different. 若按日产量而非储量排名，情形则完全是另一回事。"
+    }
+   ]
+  },
+  {
+   "en_html": "The agreement appears to <mark class=\"voc\">contradict</mark> much of what Venezuela’s government has <mark class=\"voc\">stood for</mark> since <mark class=\"voc\">then-President</mark> Hugo Chávez <mark class=\"voc\">proclaimed</mark> it a socialist state. For Venezuelans, it also creates a sense of history repeating itself, <mark class=\"voc\">with a twist</mark>: A government long criticized for its <mark class=\"voc\">opaque</mark> oil deals, and widespread corruption, is now entering a <mark class=\"voc\">murky</mark>, long-term <mark class=\"voc\">arrangement</mark> with a new protector, the United States.",
+   "zh": "这份协议，似乎与委内瑞拉政府自时任总统乌戈·查韦斯宣布国家走社会主义道路以来所秉持的诸多立场相悖。而在委内瑞拉人看来，历史仿佛正在重演，只是多了一层反转：一个长期被诟病石油交易不透明、腐败横行的政府，如今却与一位新的\"保护者\"——美国——签下了一纸含混不清的长期安排。",
+   "notes": [
+    {
+     "w": "contradict",
+     "ipa": "/ˌkɒntrəˈdɪkt/",
+     "pos": "v.",
+     "en": "contradict (v.) means to be in conflict with something, or to say the opposite of what someone else has said",
+     "zh": "与……相矛盾、驳斥",
+     "ctx": "本文特指：这个词在文中出现两次，一次比一次贴身——第4段是协议与委内瑞拉长期立场\"相矛盾\"；第6段是罗德里格斯在协议年限等细节上与特朗普及美国官员\"说法相左\"，她说25年，美方说100年。",
+     "ex1": "The witness contradicted himself twice within a single afternoon of questioning. 这名证人在一个下午的讯问中两次自相矛盾。",
+     "ex2": "The latest figures flatly contradict the optimistic forecast issued only weeks ago. 最新数据与几周前发布的乐观预测完全相悖。"
+    },
+    {
+     "w": "stand for",
+     "ipa": "",
+     "pos": "短语动词",
+     "en": "stand for something means to support and represent a particular set of ideas, values or principles",
+     "zh": "秉持、主张、代表",
+     "ctx": "本文特指：much of what Venezuela’s government has stood for since Chávez proclaimed it a socialist state——协议与该国政府自查韦斯宣布走社会主义道路以来长期秉持的诸多立场相悖，而其中最核心的一条，正是石油资源不容外国控制。",
+     "ex1": "Voters are increasingly unsure what the party actually stands for beyond opposing its rivals. 选民越来越搞不清这个党除了反对对手之外究竟主张什么。",
+     "ex2": "The company says it stands for transparency, a claim its own disclosure record does not support. 公司声称自己秉持透明原则，但其信息披露记录并不支持这一说法。"
+    },
+    {
+     "w": "then-",
+     "ipa": "",
+     "pos": "前缀用法（连字符复合）",
+     "en": "then- (used before a job title) means holding that position at the time being described, but not now",
+     "zh": "时任",
+     "ctx": "本文特指：then-President Hugo Chávez——时任总统查韦斯，提示读者他早已不在任；同类信息在文中还以then the U.S.-backed opposition leader 的形式出现，交代马查多当时的身份。",
+     "ex1": "The agreement was signed by then-Chief Executive Sarah Lin, who left the company six months later. 这份协议由时任首席执行官萨拉·林签署，她在六个月后离开了公司。",
+     "ex2": "A memo written by the then-finance director surfaced during the investigation. 调查过程中，一份由时任财务总监撰写的备忘录浮出水面。"
+    },
+    {
+     "w": "proclaim",
+     "ipa": "/prəˈkleɪm/",
+     "pos": "v.",
+     "en": "proclaim (v.) means to announce something publicly and officially, often with ceremony",
+     "zh": "昭告、正式宣布",
+     "ctx": "本文特指：then-President Hugo Chávez proclaimed it a socialist state——时任总统查韦斯宣布委内瑞拉为社会主义国家；语法上是\"动词+宾语+宾语补足语\"结构，中间省略to be，且不加as。",
+     "ex1": "The founder proclaimed the new model a breakthrough, though early reviewers were unconvinced. 创始人宣称新款是一次突破，尽管早期评测者并不买账。",
+     "ex2": "A self-proclaimed expert in the field, he had in fact never published a paper on it. 他自称是该领域的专家，实际上从未就此发表过论文。"
+    },
+    {
+     "w": "with a twist",
+     "ipa": "",
+     "pos": "固定短语",
+     "en": "with a twist means with an unexpected change or an unusual variation added to something familiar",
+     "zh": "带一个意外的转折",
+     "ctx": "本文特指：For Venezuelans, it creates a sense of history repeating itself, with a twist——历史仿佛重演，但多了一层反转：过去被诟病石油交易不透明的政府，如今自己与新的\"保护者\"签下了同样含混的长期安排。",
+     "ex1": "It is the classic turnaround story, with a twist: this time the buyer is the company’s own former supplier. 这是一个经典的扭亏故事，只是多了个转折——这次的买家是公司自己的前供应商。",
+     "ex2": "The negotiations took an unexpected twist when the smaller party walked away first. 谈判出现了意想不到的转折：先离席的竟是实力较弱的一方。"
+    },
+    {
+     "w": "opaque",
+     "ipa": "/əʊˈpeɪk/",
+     "pos": "adj.",
+     "en": "opaque (adj.) means (of a process, statement or organization) hard to understand or not open to public view; (literally) not able to be seen through",
+     "zh": "（流程/账目）不透明的、外界看不见的",
+     "ctx": "本文特指：a government long criticized for its opaque oil deals——一个长期因石油交易不透明而受批评的政府；这个词与后文的murky、lack of transparency 构成全篇的核心主题线。",
+     "ex1": "The fund’s fee structure is so opaque that even institutional investors struggle to calculate their true costs. 该基金的费用结构极不透明，连机构投资者都难以算清自己的真实成本。",
+     "ex2": "Regulators warned that opaque ownership chains make it nearly impossible to trace ultimate control. 监管机构警告称，不透明的股权链条几乎让人无法追溯最终控制人。"
+    },
+    {
+     "w": "murky",
+     "ipa": "/ˈmɜːki/",
+     "pos": "adj.",
+     "en": "murky (adj.) means (of water) dark and dirty; (of a situation) not clearly explained and possibly involving dishonest behaviour",
+     "zh": "不清不楚的、疑似有猫腻的",
+     "ctx": "本文特指：is now entering a murky, long-term arrangement with a new protector——记者刻意从描述旧政府的opaque 升级到描述新安排的murky，形容词的贬义档位提高了一级，这正是with a twist 里的那个twist。",
+     "ex1": "The deal was struck in the murky space between lobbying and outright influence-peddling. 这笔交易达成于游说与赤裸裸的权钱交易之间那片灰色地带。",
+     "ex2": "We’re getting into murky waters here, and I’d rather have legal counsel in the room. 这事儿越来越说不清了，我宁可让法务也在场。"
+    },
+    {
+     "w": "arrangement",
+     "ipa": "/əˈreɪndʒmənt/",
+     "pos": "n.",
+     "en": "arrangement (n.) means a plan or agreement about how something will be done, especially one that is informal or not fully documented",
+     "zh": "（双方谈定的）安排、约定关系",
+     "ctx": "本文特指：a murky, long-term arrangement with a new protector, the United States——记者不用agreement 而用arrangement，本身就在暗示这份关系的细节可能并不成文，与全文\"细节几乎未公开\"的主线呼应。",
+     "ex1": "The two sides came to an arrangement that neither was willing to describe in detail. 双方达成了某种安排，但谁都不愿细说。",
+     "ex2": "Under the new arrangement, the supplier bears the inventory risk in exchange for a higher margin. 按照新的安排，供应商承担库存风险，换取更高的毛利。"
+    }
+   ]
+  },
+  {
+   "en_html": "It remains unclear how much Venezuela will earn from the deal; how much it will cost U.S. taxpayers, given the need for expensive <mark class=\"voc\">front-end investment</mark>; and how much will simply <mark class=\"voc\">end up</mark> <mark class=\"voc\">enriching</mark> the private company — and the controversial businessman, Alejandro Betancourt — at the center of it all.",
+   "zh": "许多关键问题至今悬而未决：委内瑞拉究竟能从这笔交易中赚到多少？考虑到前期那笔昂贵的启动投资，它又要让美国纳税人掏出多少？还有多少，最终不过是肥了那家私营公司——以及站在这一切中心、争议缠身的商人亚历杭德罗·贝当古？",
+   "notes": [
+    {
+     "w": "front-end investment",
+     "ipa": "",
+     "pos": "固定短语",
+     "en": "front-end (adj.) means relating to the beginning or start-up stage of a project, especially the money that must be spent before any return is earned",
+     "zh": "前期投入",
+     "ctx": "本文特指：委内瑞拉的石油多为超重质原油，需加热、稀释与专门升级装置，加之基础设施长期失修，重启产能必须先投入巨额资金且需数年才见成效——这正是\"这笔交易要花美国纳税人多少钱\"这一问的由来。",
+     "ex1": "The project requires heavy front-end investment, with no meaningful cash flow expected before year four. 该项目需要巨额前期投入，预计第四年之前不会有实质性现金流。",
+     "ex2": "Investors balked at the front-end costs, however attractive the long-run economics looked. 无论长期效益看上去多诱人，投资者还是对前期成本望而却步。"
+    },
+    {
+     "w": "end up doing",
+     "ipa": "",
+     "pos": "固定短语",
+     "en": "end up doing something means to finally be in a particular situation or state, especially one that was not planned or intended",
+     "zh": "最终落得、结果变成",
+     "ctx": "本文特指：how much will simply end up enriching the private company——最终究竟有多少钱不过是肥了那家私营公司；simply 与end up 叠加，讽刺意味明显。",
+     "ex1": "What began as a cost-cutting exercise ended up gutting the company’s research capability. 一场原本的削减开支行动，最后掏空了公司的研发能力。",
+     "ex2": "Many of these subsidies end up in the hands of the very firms they were meant to discipline. 这些补贴中有不少最终落到了它们本该约束的那些企业手里。"
+    },
+    {
+     "w": "enrich",
+     "ipa": "/ɪnˈrɪtʃ/",
+     "pos": "v.",
+     "en": "enrich (v.) means to make someone or something richer, or to improve the quality of something",
+     "zh": "使……发财",
+     "ctx": "本文特指：how much will simply end up enriching the private company — and the controversial businessman, Alejandro Betancourt — at the center of it all，指这笔交易可能最终主要肥了处在核心位置的私营公司与那位争议商人。",
+     "ex1": "The scheme did little for depositors but enriched a small circle of intermediaries handsomely. 这套方案对储户没什么好处，却让一小圈中间人赚得盆满钵满。",
+     "ex2": "Officials were accused of enriching themselves at public expense over more than a decade. 这些官员被指控在十余年间以公帑肥私。"
+    }
+   ]
+  },
+  {
+   "en_html": "But she <mark class=\"voc\">added to</mark> the confusion over the deal by contradicting Trump and other U.S. officials on some of its details. She said the project was signed for a term of 25 years, not 100 years, with a production target of more than 1.5 million barrels per day. She estimated the country’s revenue would reach $209 billion for the Venezuelan state, or $19 per barrel. She added, “There is something that must be absolutely clear: Venezuela retains ownership of and <mark class=\"voc\">sovereignty</mark> over its resources, while it uses capital, technology, and operating capacity to <mark class=\"voc\">leverage</mark> the recovery of a strategic industry <mark class=\"voc\">hard hit by</mark> <mark class=\"voc\">sanctions</mark>.”",
+   "zh": "但她随即让这笔交易变得更加扑朔迷离——在若干细节上，她的说法与特朗普及其他美国官员相左。她表示，该项目签订的期限是25年，而非100年，日产目标定在150万桶以上。据她估算，这将为委内瑞拉国家带来2090亿美元的收入，折合每桶19美元。她还补充道：\"有一点必须绝对清楚：委内瑞拉对本国资源的所有权与主权丝毫未变，我们只是借助资本、技术与运营能力，撬动这个被制裁重创的战略产业重新站起来。\"",
+   "notes": [
+    {
+     "w": "add to",
+     "ipa": "",
+     "pos": "短语动词",
+     "en": "add to something means to increase the amount, number or degree of something that already exists",
+     "zh": "加剧、进一步增加",
+     "ctx": "本文特指：she added to the confusion over the deal by contradicting Trump and other U.S. officials——她的表态非但没有澄清，反而因与美方说法不一而让这笔交易更加扑朔迷离；记者把这句话作为全段的定性总起句，然后才列出四条证据。",
+     "ex1": "The regulator’s silence only added to the uncertainty already weighing on the sector. 监管方的沉默，只是让本已笼罩该行业的不确定性雪上加霜。",
+     "ex2": "Rising freight rates have added to the cost of every unit shipped this quarter. 运费上涨推高了本季度每一件出货商品的成本。"
+    },
+    {
+     "w": "sovereignty",
+     "ipa": "/ˈsɒvrənti/",
+     "pos": "n.",
+     "en": "sovereignty (n.) means the complete power and authority of a country to govern itself and control its own affairs and resources",
+     "zh": "主权",
+     "ctx": "本文特指：Venezuela retains ownership of and sovereignty over its resources——罗德里格斯强调委内瑞拉对本国资源的所有权与主权丝毫未变；这句辩护与她两年前指控对手\"践踏历史尊严\"的话构成全篇最强的呼应。",
+     "ex1": "The dispute centres less on money than on which government exercises sovereignty over the seabed. 这场争端与其说是钱的问题，不如说是哪国政府对海床行使主权的问题。",
+     "ex2": "Rising sovereign debt has narrowed the room for fiscal stimulus in several emerging economies. 主权债务上升，压缩了数个新兴经济体的财政刺激空间。"
+    },
+    {
+     "w": "leverage",
+     "ipa": "/ˈliːvərɪdʒ, ˈlevərɪdʒ/",
+     "pos": "v. & n.",
+     "en": "leverage (v.) means to use something you already have — resources, assets or relationships — in order to achieve something bigger or better",
+     "zh": "撬动、以小博大地借力",
+     "ctx": "本文特指：it uses capital, technology, and operating capacity to leverage the recovery of a strategic industry hard hit by sanctions——委内瑞拉方面称，其借助外部资本、技术与运营能力，撬动一个被制裁重创的战略产业实现复苏；这是一句设计精巧的公关表述，把\"依赖外力\"说成了\"运用外力\"。",
+     "ex1": "Management hopes to leverage its distribution network to sell products it does not manufacture. 管理层希望借助自身的分销网络，去销售并非自己生产的产品。",
+     "ex2": "Years of cheap credit encouraged firms to leverage aggressively, a habit the rate rise has punished. 多年的廉价信贷鼓励企业大举加杠杆，而这一习惯已被加息狠狠惩罚。"
+    },
+    {
+     "w": "hard hit by",
+     "ipa": "",
+     "pos": "固定短语",
+     "en": "hard hit (adj. phrase) means severely damaged or badly affected by something",
+     "zh": "遭受重创的",
+     "ctx": "本文特指：a strategic industry hard hit by sanctions——一个被制裁重创的战略产业，即委内瑞拉的石油业；结构上等同于a strategic industry which was hard hit by sanctions。",
+     "ex1": "Coastal manufacturers were hardest hit by the export restrictions announced last spring. 去年春天宣布的出口限制，对沿海制造商打击最重。",
+     "ex2": "An industry hard hit by a decade of underinvestment cannot be revived in a single quarter. 一个被十年投资不足重创的产业，不可能在一个季度内复苏。"
+    },
+    {
+     "w": "sanctions",
+     "ipa": "/ˈsæŋkʃnz/",
+     "pos": "n.（复数）",
+     "en": "sanctions (n., plural) means official measures taken by one or more countries to restrict trade with, or financial dealings with, another country in order to force a change in its behaviour",
+     "zh": "制裁",
+     "ctx": "本文特指：a strategic industry hard hit by sanctions——委内瑞拉石油业长期在制裁下运转，产量与基础设施严重受损；第11段中，制裁又被提及为第一届特朗普政府论证该政权腐败的手段之一。",
+     "ex1": "Washington lifted sanctions on three shipping firms while keeping restrictions on the parent group. 华盛顿解除了对三家航运公司的制裁，但保留了对母公司的限制。",
+     "ex2": "The board sanctioned the plan unanimously, despite reservations voiced in earlier sessions. 尽管此前几次会议上有人提出保留意见，董事会仍一致批准了这项方案。"
+    }
+   ]
+  }
+ ]
+}
