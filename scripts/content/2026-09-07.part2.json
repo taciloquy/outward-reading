@@ -1,0 +1,310 @@
+{
+ "paragraphs": [
+  {
+   "en_html": "U.S. military leaders increasingly argue that space must be treated as a potential battlefield. U.S. Space Command head General Stephen Whiting has warned that <mark class=\"voc\">adversaries</mark> could target American space assets early in a conflict and said the United States must adopt a more active <mark class=\"voc\">warfighting</mark> posture. That means protecting American systems while also being prepared to threaten or strike <mark class=\"voc\">hostile</mark> assets. “We must be well-prepared for conflict in space. And if <mark class=\"voc\">deterrence</mark> fails, we will fight and win,” he said in April.",
+   "zh": "美国军方领导人越来越明确地认为，太空必须被视为一个潜在战场。美国太空司令部司令斯蒂芬·怀廷上将警告称，一旦发生冲突，对手可能会在战争初期就攻击美国的太空资产，因此美国必须采取更加积极主动的作战姿态。这意味着，美国既要保护自己的太空系统，同时也必须做好威胁甚至打击敌方太空资产的准备。“我们必须为太空冲突做好充分准备。如果威慑失败，我们就会投入战斗，并赢得胜利。”他今年4月表示。",
+   "notes": [
+    {
+     "w": "adversary",
+     "ipa": "/ˈædvəsəri/",
+     "pos": "n.",
+     "en": "an enemy or opponent in a conflict or contest",
+     "zh": "对手，敌方，敌人",
+     "ctx": "可能在冲突初期瞄准美国太空资产的敌方力量",
+     "ex1": "The military must be prepared to respond to attacks from any adversary. 军队必须做好应对任何敌方攻击的准备。",
+     "ex2": "Cyber warfare allows an adversary to strike without crossing physical borders. 网络战使对手无需跨越实体边界就能发动攻击。"
+    },
+    {
+     "w": "warfighting",
+     "ipa": "/ˈwɔːfaɪtɪŋ/",
+     "pos": "n.",
+     "en": "the activity of conducting combat operations; fighting a war",
+     "zh": "作战，战争行动",
+     "ctx": "美国太空司令部主张采取更主动的太空作战姿态，而非仅停留在防御层面",
+     "ex1": "The new doctrine emphasizes rapid response and offensive warfighting capabilities. 新作战学说强调快速反应和进攻性作战能力。",
+     "ex2": "Space warfighting requires entirely new tactics and training methods. 太空作战需要全新的战术和训练方法。"
+    },
+    {
+     "w": "hostile",
+     "ipa": "/ˈhɒstaɪl/",
+     "pos": "adj.",
+     "en": "belonging to or associated with an enemy; showing strong opposition or aggression",
+     "zh": "敌方的，敌对的，怀有敌意的",
+     "ctx": "美国在保护己方太空系统的同时，也准备威胁或打击敌方的太空资产",
+     "ex1": "The navy detected hostile submarines approaching the fleet. 海军探测到敌方潜艇正在接近舰队。",
+     "ex2": "The satellite was designed to disable hostile spacecraft with a high-powered laser. 该卫星被设计用于用高功率激光使敌方航天器失能。"
+    },
+    {
+     "w": "deterrence",
+     "ipa": "/dɪˈterəns/",
+     "pos": "n.",
+     "en": "the act of preventing an enemy from attacking by demonstrating the ability and willingness to retaliate",
+     "zh": "威慑，遏制",
+     "ctx": "美国希望通过展示太空作战能力阻止对手发动攻击，若威慑失败则准备应战",
+     "ex1": "Nuclear deterrence has prevented major conflicts between superpowers for decades. 核威慑数十年来防止了大国之间的重大冲突。",
+     "ex2": "The military buildup is intended to strengthen deterrence against potential aggression. 军事建设旨在加强对潜在侵略的威慑。"
+    }
+   ]
+  },
+  {
+   "en_html": "Western officials warn of threats including ground-based lasers, electronic jammers, <mark class=\"voc\">cyberattacks</mark> and anti-satellite missiles. In orbit, the United States, China and Russia all operate <mark class=\"voc\">maneuverable</mark> satellites capable of approaching and inspecting other spacecraft. Such systems could potentially carry weapons, including lasers or <mark class=\"voc\">projectiles</mark>. Some specialists note that disrupting satellites remains easier from Earth than through spacecraft-on-spacecraft attacks. In June, the U.S. Space Force disclosed an <mark class=\"voc\">earthbound</mark> <mark class=\"voc\">electromagnetic</mark> weapon designed to disrupt adversary satellites.",
+   "zh": "西方官员警告称，目前的威胁包括陆基激光武器、电子干扰设备、网络攻击以及反卫星导弹。在轨道上，美国、中国和俄罗斯都运行着具备机动能力的卫星，可以接近并检查其他航天器。这类系统未来可能携带武器，包括激光装置或发射物。不过，一些专家指出，与航天器之间直接在太空发动攻击相比，从地面干扰卫星仍然更加容易。今年6月，美国太空军披露了一款部署在地面的电磁武器，其设计用途就是干扰对手的卫星。",
+   "notes": [
+    {
+     "w": "cyberattack",
+     "ipa": "/ˈsaɪbərəˌtæk/",
+     "pos": "n.",
+     "en": "an attempt to damage, disrupt, or gain unauthorized access to computer systems or networks",
+     "zh": "网络攻击",
+     "ctx": "针对卫星地面控制系统或数据传输网络的攻击，是太空战的重要手段之一",
+     "ex1": "The power grid was temporarily shut down after a massive cyberattack. 一次大规模网络攻击后，电网被暂时关闭。",
+     "ex2": "Military satellites are increasingly vulnerable to cyberattacks on their ground stations. 军用卫星越来越容易受到对其地面站的网络攻击。"
+    },
+    {
+     "w": "maneuverable",
+     "ipa": "/məˈnuːvərəbl/",
+     "pos": "adj.",
+     "en": "able to move quickly and change direction easily",
+     "zh": "机动性强的，灵活的",
+     "ctx": "美中俄都拥有能够接近并检查其他航天器的可机动卫星",
+     "ex1": "The new fighter jet is highly maneuverable and can outturn most enemy aircraft. 新型战斗机机动性极强，能胜过大多数敌机的转弯能力。",
+     "ex2": "These maneuverable satellites can change orbit to approach other spacecraft. 这些机动卫星可以改变轨道接近其他航天器。"
+    },
+    {
+     "w": "projectile",
+     "ipa": "/prəˈdʒektaɪl/",
+     "pos": "n.",
+     "en": "an object that is thrown or fired, especially as a weapon",
+     "zh": "射弹，抛射物",
+     "ctx": "卫星可能搭载的动能武器，通过发射实体弹丸摧毁目标",
+     "ex1": "The tank's armor was designed to withstand high-speed projectiles. 坦克装甲被设计用于抵御高速射弹。",
+     "ex2": "Space-based weapons could fire projectiles at enemy satellites in orbit. 天基武器可以向轨道上的敌方卫星发射射弹。"
+    },
+    {
+     "w": "earthbound",
+     "ipa": "/ˈɜːθbaʊnd/",
+     "pos": "adj.",
+     "en": "located on or restricted to the Earth rather than in space",
+     "zh": "地面的，在地球上的",
+     "ctx": "部署在地面而非太空的电磁武器，用于干扰敌方卫星",
+     "ex1": "Earthbound telescopes can still observe distant galaxies with remarkable clarity. 地面望远镜仍能以惊人的清晰度观测遥远的星系。",
+     "ex2": "The earthbound laser system can target satellites passing overhead. 地面激光系统可以瞄准从上方经过的卫星。"
+    },
+    {
+     "w": "electromagnetic",
+     "ipa": "/ɪˌlektrəʊmæɡˈnetɪk/",
+     "pos": "adj.",
+     "en": "relating to the combined electric and magnetic fields produced by electric currents",
+     "zh": "电磁的",
+     "ctx": "利用电磁脉冲或电磁波干扰和破坏敌方卫星电子设备的武器",
+     "ex1": "Electromagnetic radiation from the sun can interfere with satellite communications. 太阳发出的电磁辐射会干扰卫星通信。",
+     "ex2": "The military tested an electromagnetic weapon designed to fry enemy electronics. 军方测试了一种旨在烧毁敌方电子设备的电磁武器。"
+    }
+   ]
+  },
+  {
+   "en_html": "Although the United States remains the world’s leading space power, China is rapidly expanding both the number of satellites it operates and the complexity of its missions. Chinese satellites have demonstrated what U.S. officials describe as orbital “<mark class=\"voc\">dogfighting</mark>,” involving multiple satellites moving in a <mark class=\"voc\">synchronized</mark> way in proximity. Chinese spacecraft have also shown the ability to capture a <mark class=\"voc\">defunct</mark> satellite and move it into a different orbit. Last year, China conducted what was likely an on-orbit refueling attempt, according to a U.S. Space Force official.",
+   "zh": "尽管美国目前仍然是全球领先的太空强国，但中国正在迅速扩大其卫星数量，同时不断提高太空任务的复杂程度。中国卫星已经展示了美国官员所称的轨道“缠斗”能力，即多颗卫星在近距离范围内以同步方式进行机动。中国航天器还展示过捕获一颗已经失效的卫星，并将其移动到另一条轨道的能力。据一名美国太空军官员称，中国去年还进行了一次很可能属于在轨加油的尝试。",
+   "notes": [
+    {
+     "w": "dogfighting",
+     "ipa": "/ˈdɒɡfaɪtɪŋ/",
+     "pos": "n.",
+     "en": "close-quarters combat between military aircraft or spacecraft involving rapid, dynamic maneuvers",
+     "zh": "近距离缠斗，空战格斗",
+     "ctx": "美国官员用以形容中国卫星在轨道上进行同步机动和近距离追逐的行为",
+     "ex1": "The pilots trained extensively in aerial dogfighting tactics. 飞行员在空战缠斗战术方面进行了大量训练。",
+     "ex2": "Orbital dogfighting would require satellites with extraordinary maneuverability. 轨道缠斗需要具有非凡机动能力的卫星。"
+    },
+    {
+     "w": "synchronized",
+     "ipa": "/ˈsɪŋkrənaɪzd/",
+     "pos": "adj.",
+     "en": "occurring or moving at the same time and in a coordinated way",
+     "zh": "同步的，协调一致的",
+     "ctx": "多颗中国卫星在近距离内同步运动，展示高度协调的轨道控制能力",
+     "ex1": "The drones flew in synchronized formation above the parade ground. 无人机在阅兵场上空以同步编队飞行。",
+     "ex2": "Synchronized satellite maneuvers demonstrate precise orbital control capabilities. 同步卫星机动展示了精确的轨道控制能力。"
+    },
+    {
+     "w": "defunct",
+     "ipa": "/dɪˈfʌŋkt/",
+     "pos": "adj.",
+     "en": "no longer functioning or in use; dead or inactive",
+     "zh": "已报废的，失效的，不再运行的",
+     "ctx": "中国航天器捕获了一颗已报废的卫星并将其移到不同轨道，展示在轨操控能力",
+     "ex1": "The defunct satellite was removed from orbit to reduce space debris. 这颗报废卫星被移出轨道以减少太空碎片。",
+     "ex2": "Engineers are developing methods to repair or dispose of defunct spacecraft. 工程师正在开发修复或处置报废航天器的方法。"
+    }
+   ]
+  },
+  {
+   "en_html": "Refueling could be a major breakthrough because satellites are normally constrained by the fuel they launch with; <mark class=\"voc\">replenishing</mark> it could determine whether a spacecraft remains a hunter or becomes <mark class=\"voc\">the hunted</mark>. Chinese institutions are pursuing technologies that allow satellites to calculate fuel-efficient <mark class=\"voc\">maneuvers</mark> while pursuing other spacecraft, manage hundreds of satellites <mark class=\"voc\">simultaneously</mark>, and even use multiple spacecraft with nets to capture targets. Such technologies can have non-military uses, but China’s PLA Daily said controlling space was essential for <mark class=\"voc\">safeguarding</mark> national security, seizing the strategic initiative and achieving victory in war.",
+   "zh": "在轨加油可能成为一项重大突破，因为卫星通常会受到发射时所携带燃料数量的限制；如果能够在太空中补充燃料，就可能决定一艘航天器究竟能够继续充当“猎手”，还是最终沦为“猎物”。中国相关机构正在研发多种技术，使卫星能够在追踪其他航天器的同时计算最节省燃料的机动方案，同时管理数百颗卫星，甚至利用多艘航天器协同张网捕获目标。这些技术也可以用于非军事用途，但中国《解放军报》表示，掌控太空对于维护国家安全、夺取战略主动权以及赢得战争胜利至关重要。",
+   "notes": [
+    {
+     "w": "replenish",
+     "ipa": "/rɪˈplenɪʃ/",
+     "pos": "vt.",
+     "en": "to fill something up again or restore it to its previous level",
+     "zh": "补充，补给，重新装满",
+     "ctx": "在轨燃料补给可能决定卫星能否持续执行追踪任务，是太空战的关键技术",
+     "ex1": "The tanker ship was sent to replenish the fleet's fuel supplies. 补给船被派去补充舰队的燃料储备。",
+     "ex2": "On-orbit refueling could replenish a satellite's propellant and extend its mission life. 在轨加注可以补充卫星推进剂并延长其任务寿命。"
+    },
+    {
+     "w": "the hunted",
+     "ipa": "/ðə ˈhʌntɪd/",
+     "pos": "n.",
+     "en": "the one being pursued or targeted by a hunter",
+     "zh": "被追捕者，被猎杀者",
+     "ctx": "燃料是否充足可能决定一颗卫星是继续充当猎手还是沦为被追踪的目标",
+     "ex1": "Without refueling capabilities, the hunter satellite could quickly become the hunted. 没有燃料补给能力，猎手卫星可能很快沦为被猎杀者。",
+     "ex2": "In submarine warfare, a vessel that runs out of power becomes the hunted. 在潜艇战中，耗尽动力的潜艇就会沦为被猎杀的目标。"
+    },
+    {
+     "w": "maneuver",
+     "ipa": "/məˈnuːvə(r)/",
+     "pos": "n.",
+     "en": "a carefully planned movement or series of movements requiring skill and precision",
+     "zh": "机动动作，策略性移动",
+     "ctx": "卫星在追踪其他航天器时需要进行的精确变轨和位置调整",
+     "ex1": "The spacecraft performed a complex maneuver to enter orbit around the planet. 航天器执行了一次复杂的机动以进入行星轨道。",
+     "ex2": "Fuel-efficient maneuvers are essential for satellites pursuing moving targets in space. 对在太空追踪移动目标的卫星来说，省油的机动动作至关重要。"
+    },
+    {
+     "w": "simultaneously",
+     "ipa": "/ˌsɪmlˈteɪniəsli/",
+     "pos": "adv.",
+     "en": "at the same time; concurrently",
+     "zh": "同时地，同步地",
+     "ctx": "中国研究的技术能够同时管理数百颗卫星，展示大规模太空作战的指挥控制能力",
+     "ex1": "The new system can track multiple enemy targets simultaneously. 新系统可以同时追踪多个敌方目标。",
+     "ex2": "Managing hundreds of satellites simultaneously requires advanced automation. 同时管理数百颗卫星需要先进的自动化能力。"
+    },
+    {
+     "w": "safeguard",
+     "ipa": "/ˈseɪfɡɑːd/",
+     "pos": "vt.",
+     "en": "to protect something from harm, damage, or loss",
+     "zh": "维护，保护，捍卫",
+     "ctx": "中国军方媒体称控制太空对于维护国家安全、夺取战略主动权和赢得战争至关重要",
+     "ex1": "The new defense system is designed to safeguard the country's borders. 新防御系统旨在保卫国家边境。",
+     "ex2": "Protecting communication satellites is essential to safeguard national security interests. 保护通信卫星对于维护国家安全利益至关重要。"
+    }
+   ]
+  }
+ ],
+ "proper": [
+  {
+   "name": "Spaceplane / 太空飞机",
+   "def": "可重复使用的航天运载工具，外形像飞机，靠火箭垂直发射入轨，任务完成后水平滑翔着陆；通常在轨停留数月甚至数年、多次变轨，返回后可快速检修再飞。<br>本文中的意思：中美都在秘密运营的同一类平台，开篇那架中国无人航天飞机释放小卫星、绕飞另一颗卫星，正是它的典型动作。"
+  },
+  {
+   "name": "LeoLabs / 美国商业空间监测公司",
+   "def": "2015 年成立于美国加州硅谷的商业航天监测公司，自建全球相控阵雷达站，专门跟踪 200 至 2000 公里的低轨物体，可探测直径约 2 厘米的目标，提供轨道数据、碰撞预警和变轨检测。<br>本文中的意思：中国航天飞机放星、绕飞的全过程是它记录并公布的，这也是“卫星互相追逐”说法的数据来源。"
+  },
+  {
+   "name": "U.S. Space Force / 美国太空军",
+   "def": "美国国防部下设的第六个独立军种，2019 年 12 月成立，隶属空军部但拥有独立作战指挥链，负责组织训练太空部队、运行军用卫星、空间态势感知与太空攻防。<br>本文中的意思：文中多个关键表态出自它，其司令萨尔茨曼称中国正在快速研发可干扰、摧毁目标的地基与天基武器。"
+  },
+  {
+   "name": "Ground- and space-based weapons / 地基与天基武器",
+   "def": "反太空武器的两大类：地基武器部署在地面或舰艇，含反卫星导弹、高能激光、电子干扰机和网络攻击手段；天基武器部署在轨道，含武装卫星、可抓取目标的“捕手卫星”和动能撞击器。<br>本文中的意思：萨尔茨曼点名中国发展的正是这两类，它们让太空从支援领域变成直接交战的领域。"
+  },
+  {
+   "name": "Reuters review / 路透社文件审查",
+   "def": "路透社记者系统查阅与中国军方有关联的研究机构公开发表的论文、专利、招标文件和试验报告，再据技术指标、应用场景和资助方信息推断其军事用途的开源情报方法。<br>本文中的意思：文章关于“追踪甚至捕获卫星”“延长燃料供应”的所有技术判断，出处就是这套文件审查。"
+  },
+  {
+   "name": "Satellites in modern warfare / 现代战争中的卫星",
+   "def": "卫星自 20 世纪 60 年代起成为现代军事体系的支柱，承担通信、导航、情报监视侦察三大功能；传统上入轨后沿固定轨道运行、很少主动变轨，因为推进剂有限。<br>本文中的意思：正因它支撑从监视到导弹防御的整条链条，才既值得攻击，也才会被改造成“主动武器平台”。"
+  },
+  {
+   "name": "Jamming and laser dazzling / 电子干扰与激光致盲",
+   "def": "两种非动能反卫星手段：干扰是在卫星上行或下行频率上发大功率噪声，使其收不到指令、传不回数据；致盲是用激光照射卫星光学传感器，使其过曝、饱和甚至永久损坏。<br>本文中的意思：文章把它们写成军方眼中的“软杀伤”选项——不必炸掉卫星，也能让它失效，且证据少、可否认。"
+  },
+  {
+   "name": "Starlink / 星链",
+   "def": "SpaceX 主导建设的低轨宽带互联网星座，截至 2026 年已部署约 11,000 颗在轨卫星，是人类历史上规模最大的卫星星座，在俄乌冲突中显示出巨大的军事辅助价值。<br>本文中的意思：作者用它说明近地轨道已经拥挤到什么程度，这正是太空竞争加剧的背景之一。"
+  },
+  {
+   "name": "Golden Dome / 金穹导弹防御计划",
+   "def": "特朗普提出的新一代导弹防御构想，名称取自以色列“铁穹”，核心是在太空部署大量天基拦截器，从卫星平台发射动能弹头，在弹道导弹飞行中段实施碰撞式拦截。<br>本文中的意思：文中既是轨道军事化的推手，也被中国外交部当作美国挑动太空军备竞赛的例证。"
+  },
+  {
+   "name": "Shiyan 12-01 / 试验十二号01星",
+   "def": "中国公开表述中用于空间环境探测与技术试验的卫星，西方情报机构则认为它具备对地侦察或对其他航天器抵近监视的能力。<br>本文中的意思：美英那次联合行动发生时它正从下方经过，美方被指有意借此向北京发出战略信号。"
+  },
+  {
+   "name": "U.S. Space Command / 美国太空司令部",
+   "def": "美国国防部下属联合作战司令部，1985 年设立、2002 年解散并入战略司令部、2019 年重新组建，负责实战中统一指挥各军种的太空作战力量，执行导弹预警、卫星防御与太空进攻。<br>本文中的意思：与负责建设训练部队的太空军分工不同，它是真正“打仗”的那一端，其司令怀廷主张太空是战场。"
+  },
+  {
+   "name": "Warfighting posture / 作战姿态",
+   "def": "军事术语，指军队在和平或冲突时期的整体部署方式、准备程度与作战思维。以作战为导向的姿态，意味着不把太空只当通信导航的支援领域，而视其为可能直接交火的战场。<br>本文中的意思：怀廷要求美军转向这种姿态——既保护己方系统，也做好威胁、打击敌方太空资产的准备。"
+  },
+  {
+   "name": "Ground-based lasers / 地基激光武器",
+   "def": "部署在地面的高能激光系统，靠化学物质或电能产生高功率光束，经大气聚焦后照射卫星：弱功率可致盲光学传感器，强功率可烧蚀外壳、破坏太阳能板。优点是光速攻击、单发成本低，缺点是受大气与云层影响，只能打过顶目标。<br>本文中的意思：西方官员所列威胁清单里的头一项。"
+  },
+  {
+   "name": "Electronic jammers / 电子干扰机",
+   "def": "专门发射特定频率电磁波以压制卫星通信或导航信号的设备，可架在地面、装在军舰上或由飞机携带；对通信卫星攻击 C、Ku、Ka 波段，对导航卫星则攻击 L1/L2 频段。<br>本文中的意思：廉价、易部署，是弱国对抗强国的常用手段，在文章的威胁清单里排在第二项。"
+  },
+  {
+   "name": "Cyberattacks / 网络攻击",
+   "def": "通过入侵卫星地面控制系统或卫星自身操作系统，篡改指令、关闭姿态控制、发送错误导航信号甚至直接接管卫星。相比物理攻击，它隐蔽性强、可否认性高、成本低。<br>本文中的意思：与激光、干扰机、反卫星导弹并列的第四类威胁，打的往往是地面站这个薄弱环节。"
+  },
+  {
+   "name": "Anti-satellite missiles / 反卫星导弹",
+   "def": "从地面、舰艇或飞机发射的导弹，携带动能杀伤器飞至目标高度后释放，用红外导引头追踪并以约每秒 10 公里的相对速度直接撞击摧毁卫星。<br>本文中的意思：威胁清单里的硬杀伤手段；2007 年中国反卫星试验产生的数千块碎片至今仍在轨威胁其他航天器。"
+  },
+  {
+   "name": "Maneuverable satellites / 机动式卫星",
+   "def": "装有化学或电推进系统，能在轨主动改变高度、倾角或相位的卫星，可执行抵近侦察，即接近、绕飞或伴随另一颗卫星。美国 GSSAP 与中国“实践”系列都被认为具备这类能力。<br>本文中的意思：正因为能机动，卫星才从固定轨道上的工具，变成可追逐、可攻击的作战平台。"
+  },
+  {
+   "name": "Electromagnetic weapon / 电磁武器",
+   "def": "利用高功率微波或射频能量攻击卫星内部电路与芯片的武器：极短时间内释放强电磁脉冲，经天线或接缝耦合进入星体，烧毁元器件使其永久失能。<br>本文中的意思：2025 年 6 月美国太空军公开披露的正是这类地基系统，被外界视为对中俄的公开威慑信号。"
+  },
+  {
+   "name": "Orbital dogfighting / 轨道“缠斗”",
+   "def": "借空战术语 dogfight 描述在轨卫星之间的近距离协同机动：多颗卫星以同步、编队或环绕方式在数公里甚至数百米内移动，需要精密自主导航、实时通信与碰撞规避算法。<br>本文中的意思：美国官员用它形容中国卫星的动作，意在强调对方已具备在轨攻防的实战化技术储备。"
+  },
+  {
+   "name": "Capture of defunct satellite / 捕获报废卫星",
+   "def": "用服务型航天器对失效卫星实施物理抓取，再拖拽至坟墓轨道或销毁轨道，原本用于太空碎片清理和在轨维修。<br>本文中的意思：同一套装置也可用来“劫持”敌方正常卫星并带离战场；中国已展示过把报废卫星移到另一条轨道的能力。"
+  },
+  {
+   "name": "On-orbit refueling attempt / 在轨加油尝试",
+   "def": "由专用服务飞行器把推进剂转移给目标卫星以延长其寿命。卫星的机动次数与生存能力完全受限于发射时携带的燃料，常态化加油可让一颗卫星反复变轨、遇险规避而不怕耗尽。<br>本文中的意思：美方官员称中国去年做过一次疑似在轨加注试验，文章把它视为可能改写攻守关系的突破。"
+  },
+  {
+   "name": "Fuel as a strategic constraint / 燃料作为战略限制",
+   "def": "卫星入轨后只能靠自带推进剂维持轨道和变轨，燃料一旦耗尽便无法再调整位置，即使设备完好也只能报废，或在漂移中成为“僵尸卫星”。<br>本文中的意思：所以燃料充沛者可主动追逐、规避，燃料不足者只能被动挨打——这正是“猎手还是猎物”那句比喻的由来。"
+  },
+  {
+   "name": "PLA Daily / 解放军报",
+   "def": "中央军委机关报，1956 年创刊，是中国军队最高层级的新闻媒体，其言论与署名文章通常反映军方的官方立场和战略思想。<br>本文中的意思：它称控制太空对维护国家安全、夺取战略主动权和赢得战争至关重要，被作者用来佐证中方的战略认知。"
+  }
+ ],
+ "sources_note": "资料核对：原文为路透社 2026 年 9 月 2 日刊发的《US, China arm for space warfare: hunter satellites and orbital weapons》，作者 Cassell Bryan-Low、Joey Roulette、Eduardo Baptista；课件日期 2026-09-07，英国《路透社》外刊讲解第 1159 天。",
+ "practice": {
+  "intro": "把下面三句翻译成英文，注意划线表达。",
+  "items": [
+   "现代战争越来越依赖卫星提供的通信和导航服务。",
+   "这家公司对其新产品的研发计划守口如瓶。",
+   "保护关键基础设施对于维护国家安全至关重要。"
+  ],
+  "critical_en": "Refueling could be a major breakthrough because satellites are normally constrained by the fuel they launch with; replenishing it could determine whether a spacecraft remains a hunter or becomes the hunted.",
+  "critical_zh": "在轨加油可能成为一项重大突破，因为卫星通常会受到发射时所携带燃料数量的限制；如果能够在太空中补充燃料，就可能决定一艘航天器究竟能够继续充当“猎手”，还是最终沦为“猎物”。",
+  "answer": "1. Modern warfare increasingly relies on satellite-based communications and navigation services.<br><br>2. The company remained secretive about the development plans for its new product.<br><br>3. Safeguarding critical infrastructure is essential for maintaining national security.<br><br>三句各扣一个表达：rely on 接名词化宾语，remain secretive about 用 remain 保持状态，动名词 Safeguarding 作主语。"
+ },
+ "mindmap": {
+  "aria": "中美太空战与猎手卫星思维导图",
+  "alt": "中美太空战：猎手卫星与轨道武器（手绘版）",
+  "svg": "<svg viewBox=\"0 0 960 720\" xmlns=\"http://www.w3.org/2000/svg\" role=\"img\" aria-label=\"中美太空战与猎手卫星思维导图\" style=\"width:100%;height:auto;font-family:-apple-system,'PingFang SC','Hiragino Sans GB','Microsoft YaHei',sans-serif\">\n        <rect x=\"24\" y=\"306\" width=\"176\" height=\"88\" rx=\"14\" fill=\"#eae3d2\" stroke=\"#9a8f76\"/>\n        <text x=\"112\" y=\"342\" text-anchor=\"middle\" fill=\"#3d3a34\" font-size=\"17\" font-weight=\"700\">中美太空战</text>\n        <text x=\"112\" y=\"368\" text-anchor=\"middle\" fill=\"#5c5648\" font-size=\"12.5\">猎手卫星与轨道武器</text>\n\n        <path d=\"M200,350 C232,350 232,88 260,88\"  stroke=\"#6b8f71\" stroke-width=\"2\" fill=\"none\"/>\n        <path d=\"M200,350 C232,350 232,238 260,238\" stroke=\"#7d98ad\" stroke-width=\"2\" fill=\"none\"/>\n        <path d=\"M200,350 C232,350 232,433 260,433\" stroke=\"#bd7a6d\" stroke-width=\"2\" fill=\"none\"/>\n        <path d=\"M200,350 C232,350 232,628 260,628\" stroke=\"#9b86b3\" stroke-width=\"2\" fill=\"none\"/>\n\n        <g class=\"mm-branch\" data-target=\"bc1\">\n          <rect x=\"260\" y=\"71\" width=\"190\" height=\"34\" rx=\"8\" fill=\"#e6efe7\" stroke=\"#6b8f71\"/>\n          <text x=\"349\" y=\"93\" text-anchor=\"middle\" fill=\"#4c6b52\" font-size=\"15\" font-weight=\"700\">卫星开始追逐（¶1–2）</text>\n          <text class=\"mm-arrow\" data-for=\"bc1\" x=\"442\" y=\"93\" text-anchor=\"end\" fill=\"#4c6b52\">▾</text>\n        </g>\n        <g class=\"mm-children\" id=\"bc1\">\n          <path d=\"M450,88 C462,88 462,46 480,46\" stroke=\"#6b8f71\" stroke-width=\"1.5\" fill=\"none\"/>\n          <path d=\"M450,88 C462,88 462,88 480,88\" stroke=\"#6b8f71\" stroke-width=\"1.5\" fill=\"none\"/>\n          <path d=\"M450,88 C462,88 462,130 480,130\" stroke=\"#6b8f71\" stroke-width=\"1.5\" fill=\"none\"/>\n          <rect x=\"480\" y=\"30\" width=\"456\" height=\"32\" rx=\"8\" fill=\"#e6efe7\"/><text x=\"492\" y=\"51\" fill=\"#3d3a34\" font-size=\"14\">中国空天飞机释放小卫星，绕飞另一颗卫星</text>\n          <rect x=\"480\" y=\"72\" width=\"456\" height=\"32\" rx=\"8\" fill=\"#e6efe7\"/><text x=\"492\" y=\"93\" fill=\"#3d3a34\" font-size=\"14\">路透查阅文件：卫星能追踪甚至抓走航天器</text>\n          <rect x=\"480\" y=\"114\" width=\"456\" height=\"32\" rx=\"8\" fill=\"#e6efe7\"/><text x=\"492\" y=\"135\" fill=\"#3d3a34\" font-size=\"14\">美英首次太空联合行动，掠过疑似中国卫星</text>\n        </g>\n\n        <g class=\"mm-branch\" data-target=\"bc2\">\n          <rect x=\"260\" y=\"221\" width=\"190\" height=\"34\" rx=\"8\" fill=\"#e5edf4\" stroke=\"#7d98ad\"/>\n          <text x=\"349\" y=\"243\" text-anchor=\"middle\" fill=\"#3d5872\" font-size=\"15\" font-weight=\"700\">轨道变成战场（¶3–4）</text>\n          <text class=\"mm-arrow\" data-for=\"bc2\" x=\"442\" y=\"243\" text-anchor=\"end\" fill=\"#3d5872\">▾</text>\n        </g>\n        <g class=\"mm-children\" id=\"bc2\">\n          <path d=\"M450,238 C462,238 462,196 480,196\" stroke=\"#7d98ad\" stroke-width=\"1.5\" fill=\"none\"/>\n          <path d=\"M450,238 C462,238 462,238 480,238\" stroke=\"#7d98ad\" stroke-width=\"1.5\" fill=\"none\"/>\n          <path d=\"M450,238 C462,238 462,280 480,280\" stroke=\"#7d98ad\" stroke-width=\"1.5\" fill=\"none\"/>\n          <rect x=\"480\" y=\"180\" width=\"456\" height=\"32\" rx=\"8\" fill=\"#e5edf4\"/><text x=\"492\" y=\"201\" fill=\"#3d3a34\" font-size=\"14\">卫星不再是固定轨道上的通信工具</text>\n          <rect x=\"480\" y=\"222\" width=\"456\" height=\"32\" rx=\"8\" fill=\"#e5edf4\"/><text x=\"492\" y=\"243\" fill=\"#3d3a34\" font-size=\"14\">星链一万一千颗，轨道日益拥挤</text>\n          <rect x=\"480\" y=\"264\" width=\"456\" height=\"32\" rx=\"8\" fill=\"#e5edf4\"/><text x=\"492\" y=\"285\" fill=\"#3d3a34\" font-size=\"14\">金穹计划设想天基拦截器，特朗普推动</text>\n        </g>\n\n        <g class=\"mm-branch\" data-target=\"bc3\">\n          <rect x=\"260\" y=\"416\" width=\"190\" height=\"34\" rx=\"8\" fill=\"#f4e7e4\" stroke=\"#bd7a6d\"/>\n          <text x=\"349\" y=\"438\" text-anchor=\"middle\" fill=\"#7c4a3e\" font-size=\"15\" font-weight=\"700\">双方互相喊话（¶5–6）</text>\n          <text class=\"mm-arrow\" data-for=\"bc3\" x=\"442\" y=\"438\" text-anchor=\"end\" fill=\"#7c4a3e\">▾</text>\n        </g>\n        <g class=\"mm-children\" id=\"bc3\">\n          <path d=\"M450,433 C462,433 462,391 480,391\" stroke=\"#bd7a6d\" stroke-width=\"1.5\" fill=\"none\"/>\n          <path d=\"M450,433 C462,433 462,433 480,433\" stroke=\"#bd7a6d\" stroke-width=\"1.5\" fill=\"none\"/>\n          <path d=\"M450,433 C462,433 462,475 480,475\" stroke=\"#bd7a6d\" stroke-width=\"1.5\" fill=\"none\"/>\n          <rect x=\"480\" y=\"375\" width=\"456\" height=\"32\" rx=\"8\" fill=\"#f4e7e4\"/><text x=\"492\" y=\"396\" fill=\"#3d3a34\" font-size=\"14\">美英没说自己贴近过中国航天器</text>\n          <rect x=\"480\" y=\"417\" width=\"456\" height=\"32\" rx=\"8\" fill=\"#f4e7e4\"/><text x=\"492\" y=\"438\" fill=\"#3d3a34\" font-size=\"14\">中国外交部：反对太空武器化，指美方挑动竞赛</text>\n          <rect x=\"480\" y=\"459\" width=\"456\" height=\"32\" rx=\"8\" fill=\"#f4e7e4\"/><text x=\"492\" y=\"480\" fill=\"#3d3a34\" font-size=\"14\">美太空司令部：太空是战场，威慑失败就开打</text>\n        </g>\n\n        <g class=\"mm-branch\" data-target=\"bc4\">\n          <rect x=\"260\" y=\"611\" width=\"190\" height=\"34\" rx=\"8\" fill=\"#ece4f2\" stroke=\"#9b86b3\"/>\n          <text x=\"349\" y=\"633\" text-anchor=\"middle\" fill=\"#5a4670\" font-size=\"15\" font-weight=\"700\">攻防手段与燃料（¶7–9）</text>\n          <text class=\"mm-arrow\" data-for=\"bc4\" x=\"442\" y=\"633\" text-anchor=\"end\" fill=\"#5a4670\">▾</text>\n        </g>\n        <g class=\"mm-children\" id=\"bc4\">\n          <path d=\"M450,628 C462,628 462,586 480,586\" stroke=\"#9b86b3\" stroke-width=\"1.5\" fill=\"none\"/>\n          <path d=\"M450,628 C462,628 462,628 480,628\" stroke=\"#9b86b3\" stroke-width=\"1.5\" fill=\"none\"/>\n          <path d=\"M450,628 C462,628 462,670 480,670\" stroke=\"#9b86b3\" stroke-width=\"1.5\" fill=\"none\"/>\n          <rect x=\"480\" y=\"570\" width=\"456\" height=\"32\" rx=\"8\" fill=\"#ece4f2\"/><text x=\"492\" y=\"591\" fill=\"#3d3a34\" font-size=\"14\">激光、干扰、网络攻击、反卫星导弹四类威胁</text>\n          <rect x=\"480\" y=\"612\" width=\"456\" height=\"32\" rx=\"8\" fill=\"#ece4f2\"/><text x=\"492\" y=\"633\" fill=\"#3d3a34\" font-size=\"14\">中国展示狗斗、抓报废卫星、在轨加油</text>\n          <rect x=\"480\" y=\"654\" width=\"456\" height=\"32\" rx=\"8\" fill=\"#ece4f2\"/><text x=\"492\" y=\"675\" fill=\"#3d3a34\" font-size=\"14\">燃料决定谁是猎手，谁成猎物</text>\n        </g>\n      </svg>",
+  "img": ""
+ }
+}

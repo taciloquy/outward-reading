@@ -1,0 +1,309 @@
+{
+ "paragraphs": [
+  {
+   "en_html": "In the first eight months of this year, American counties considered 409 <mark class=\"voc\">moratoriums</mark> or similar measures, nearly seven times last year’s total. Some <mark class=\"voc\">proponents</mark> have blamed foreign powers. Mr Trump observed that “China could not be happier”, while OpenAI said a Chinese firm had produced images designed to undermine American support for data centres. Yet OpenAI itself concluded that the campaign generated “little or no observable <mark class=\"voc\">engagement</mark>”. The real cause of the <mark class=\"voc\">outrage</mark> appears much closer to home.",
+   "zh": "今年前八个月，美国各县共审议了409项暂停建设令或类似限制措施，数量接近去年全年的七倍。一些数据中心的支持者将这股反对浪潮归咎于外国势力。特朗普称，“中国恐怕高兴得不得了”；OpenAI则表示，一家中国公司曾制作相关图片，意在削弱美国公众对数据中心的支持。然而，OpenAI自己最终也承认，这场行动几乎“没有产生可观察到的互动或影响”。真正引发这场愤怒的原因，似乎离美国人的家门口要近得多。",
+   "notes": [
+    {
+     "w": "moratorium",
+     "ipa": "/ˌmɒrəˈtɔːriəm/",
+     "pos": "n.",
+     "en": "a temporary prohibition or suspension of an activity",
+     "zh": "暂停，中止；（尤指官方命令的）暂缓进行",
+     "ctx": "指美国各县考虑了大量针对数据中心的暂停建设令或类似限制措施",
+     "ex1": "The city council imposed a moratorium on new construction in the historic district. 市议会下令暂停在历史街区的新建设项目。",
+     "ex2": "Environmental groups called for a moratorium on offshore drilling. 环保组织呼吁暂停近海钻探。"
+    },
+    {
+     "w": "proponent",
+     "ipa": "/prəˈpəʊnənt/",
+     "pos": "n.",
+     "en": "a person who advocates or supports a theory, proposal, or course of action",
+     "zh": "支持者，倡导者；拥护者",
+     "ctx": "指数据中心的支持者将反对声归咎于外国势力",
+     "ex1": "Proponents of the new highway argue that it will reduce traffic congestion. 新高速公路的支持者认为它将缓解交通拥堵。",
+     "ex2": "She is a leading proponent of renewable energy policies. 她是可再生能源政策的主要倡导者。"
+    },
+    {
+     "w": "engagement",
+     "ipa": "/ɪnˈɡeɪdʒmənt/",
+     "pos": "n.",
+     "en": "the level of attention, interaction, or involvement that something receives",
+     "zh": "参与度，互动量；关注度",
+     "ctx": "指OpenAI自己得出结论，认为中国公司的宣传攻势“几乎没有产生可观察到的参与度”，即几乎没有人真正关注或互动",
+     "ex1": "The campaign generated high levels of engagement on social media. 这场活动在社交媒体上产生了很高的参与度。",
+     "ex2": "Despite the marketing push, the app saw little user engagement in its first month. 尽管进行了营销推广，这款应用在第一个月的用户参与度仍然很低。"
+    },
+    {
+     "w": "outrage",
+     "ipa": "/ˈaʊtreɪdʒ/",
+     "pos": "n.",
+     "en": "an intense feeling of anger and shock",
+     "zh": "愤怒，愤慨；激起公愤的事",
+     "ctx": "指公众对数据中心的愤怒情绪的根源其实近在眼前，而非来自外部势力",
+     "ex1": "The decision to close the hospital sparked outrage among local residents. 关闭医院的决定激起了当地居民的愤怒。",
+     "ex2": "Public outrage over the scandal forced the minister to resign. 公众对这一丑闻的愤慨迫使该部长辞职。"
+    }
+   ]
+  },
+  {
+   "en_html": "Americans are <mark class=\"voc\">sceptical</mark> of AI, distrust the firms building it and fear job losses. But polls suggest that what worries them most about data centres is their local impact. A Fox News poll found 75% cited concerns such as energy use, water bills and traffic as the main reason for opposing a data centre nearby; just 11% pointed to AI itself. Some fears, particularly around water consumption, may be <mark class=\"voc\">overblown</mark>. Crop irrigation still consumes <mark class=\"voc\">vastly</mark> more water than data centres.",
+   "zh": "美国人本就对人工智能心存怀疑，不信任开发AI的科技公司，也担心因此失去工作。但民调显示，真正让他们对数据中心感到担忧的，主要还是这些设施对当地社区造成的影响。福克斯新闻的一项民调发现，在反对自家附近建设数据中心的人中，75%的人将能源消耗、水费和交通等问题列为主要原因；相比之下，只有11%的人指出AI本身才是他们反对的理由。当然，其中一些担忧——尤其是围绕耗水量的担忧——可能被夸大了，毕竟农作物灌溉所消耗的水量，依然远远超过数据中心。",
+   "notes": [
+    {
+     "w": "sceptical",
+     "ipa": "/ˈskeptɪkəl/",
+     "pos": "adj.",
+     "en": "having doubts or reservations about something",
+     "zh": "持怀疑态度的，不相信的",
+     "ctx": "指美国人对AI持怀疑态度，不信任开发AI的公司，并担心失业",
+     "ex1": "Many voters remain sceptical about the government's ability to tackle climate change. 许多选民对政府应对气候变化的能力仍持怀疑态度。",
+     "ex2": "Investors are sceptical of the company's ambitious growth projections. 投资者对该公司雄心勃勃的增长预测持怀疑态度。"
+    },
+    {
+     "w": "overblown",
+     "ipa": "/ˌəʊvəˈbləʊn/",
+     "pos": "adj.",
+     "en": "made to seem more important, impressive, or serious than it really is",
+     "zh": "夸大的，言过其实的；被过度渲染的",
+     "ctx": "指公众对数据中心耗水的担忧可能被夸大了，因为农业灌溉的耗水量远超数据中心",
+     "ex1": "Critics argue that fears about the new technology are overblown. 批评者认为对这项新技术的恐惧被夸大了。",
+     "ex2": "The media's portrayal of the crisis was dismissed as overblown by officials. 官员们认为媒体对这场危机的描述言过其实。"
+    },
+    {
+     "w": "vastly",
+     "ipa": "/ˈvɑːstli/",
+     "pos": "adv.",
+     "en": "to a very great extent; by a large amount",
+     "zh": "极大地，非常；远远地",
+     "ctx": "指农业灌溉消耗的水量远超数据中心",
+     "ex1": "The new software is vastly superior to the previous version. 新软件远比旧版本优秀。",
+     "ex2": "Living costs in the capital are vastly higher than in rural areas. 首都的生活成本远高于农村地区。"
+    }
+   ]
+  },
+  {
+   "en_html": "Electricity is a more serious question. Lawrence Berkeley National Laboratory estimates that data centres consumed 4.4% of America’s electricity in 2023 and could account for 9.5-15.3% by 2030. <mark class=\"voc\">Wholesale</mark> electricity prices are being pushed up, which could eventually affect households. Yet the Electric Power Research Institute estimates that data-centre growth actually reduced average electricity prices by 6% between 2019 and 2024 by spreading the grid’s fixed costs. Thirty states have also approved or proposed special tariffs to ensure large customers pay for infrastructure <mark class=\"voc\">upgrades</mark>.",
+   "zh": "电力问题则要严肃得多。劳伦斯伯克利国家实验室估计，2023年，数据中心已经消耗了美国全部电力的4.4%；到2030年，这一比例可能升至9.5%—15.3%。批发电价正因此承受上涨压力，而这种压力最终可能传导至普通家庭。不过，事情并没有表面看起来那么简单。美国电力研究院估计，2019年至2024年间，数据中心的增长实际上使平均电价下降了6%，因为大量新增用电需求帮助整个电网分摊了原本固定的基础设施成本。与此同时，已有30个州批准或提出了针对大型用电客户的特殊电价机制，以确保这些客户为基础设施升级承担相应费用。",
+   "notes": [
+    {
+     "w": "wholesale",
+     "ipa": "/ˈhəʊlseɪl/",
+     "pos": "adj.",
+     "en": "relating to the selling of goods in large quantities at low prices to be retailed by others",
+     "zh": "批发的，大宗买卖的",
+     "ctx": "指数据中心的用电需求正在推高批发电价，这种成本最终可能传导到家庭用户",
+     "ex1": "Wholesale electricity prices fell sharply due to the mild winter. 由于暖冬，批发电价大幅下跌。",
+     "ex2": "The wholesale price of natural gas has a direct impact on household energy bills. 天然气的批发价格对家庭能源账单有直接影响。"
+    },
+    {
+     "w": "upgrade",
+     "ipa": "/ˈʌpɡreɪd/",
+     "pos": "n.",
+     "en": "an improvement or enhancement of a system, facility, or piece of equipment",
+     "zh": "升级，改进；基础设施的更新改造",
+     "ctx": "指三十个州已批准或提议设立特殊电价，确保大客户为电网基础设施的升级买单",
+     "ex1": "The city approved a major upgrade of its aging water treatment facilities. 该市批准了对老化的水处理设施进行大规模升级改造。",
+     "ex2": "The power plant requires a costly upgrade to meet new environmental standards. 这座发电厂需要进行昂贵的升级才能达到新的环保标准。"
+    }
+   ]
+  },
+  {
+   "en_html": "The question is whether public opinion can still be changed. An Echelon Insights poll found that opposition could be <mark class=\"voc\">reversed</mark> if <mark class=\"voc\">respondents</mark> were told about just one potential benefit, such as lower property taxes or more spending on schools. Another poll found that most Americans would accept several thousand dollars to support a local data centre, with a <mark class=\"voc\">median</mark> acceptable payment of $10,000. Tech firms are already showering gifts on communities. Trade unions also remain enthusiastic supporters because data centres bring investment and well-paid construction jobs.",
+   "zh": "真正的问题是，公众的态度还能不能被扭转。Echelon Insights的一项民调发现，只要告诉受访者数据中心可能带来一项好处，比如降低房产税或增加学校经费，原本的反对态度就可能发生逆转。另一项民调发现，大多数美国人愿意接受数千美元的补偿，以换取他们支持在当地建设数据中心，而受访者能够接受的补偿金额中位数为1万美元。科技公司已经开始向社区大送“礼物”。工会也依然是数据中心的热情支持者，因为这些项目能够带来投资以及薪资优厚的建筑业岗位。",
+   "notes": [
+    {
+     "w": "reverse",
+     "ipa": "/rɪˈvɜːs/",
+     "pos": "v.",
+     "en": "to change something to its opposite direction, state, or condition",
+     "zh": "逆转，彻底改变；推翻",
+     "ctx": "指如果受访者被告知哪怕一个潜在好处，反对态度就可能被逆转",
+     "ex1": "The company hopes that new marketing strategies will reverse the decline in sales. 公司希望新的营销策略能扭转销售下滑的局面。",
+     "ex2": "It is difficult to reverse public opinion once it has hardened. 公众舆论一旦固化，就很难逆转。"
+    },
+    {
+     "w": "respondent",
+     "ipa": "/rɪˈspɒndənt/",
+     "pos": "n.",
+     "en": "a person who answers questions in a survey or questionnaire",
+     "zh": "受访者，问卷调查对象",
+     "ctx": "指参与民意调查的受访者",
+     "ex1": "The majority of respondents said they were satisfied with the quality of local schools. 大多数受访者表示他们对当地学校的质量感到满意。",
+     "ex2": "Respondents were asked to rate their level of trust in public institutions. 受访者被要求对公共机构的信任程度进行评分。"
+    },
+    {
+     "w": "median",
+     "ipa": "/ˈmiːdiən/",
+     "pos": "adj.",
+     "en": "relating to the middle value in a series of numbers arranged from lowest to highest",
+     "zh": "中位数的，中间值的",
+     "ctx": "指受访者愿意接受的中位数补偿金额为一万美元",
+     "ex1": "The median household income in the region has risen steadily over the past decade. 该地区的家庭收入中位数在过去十年中稳步上升。",
+     "ex2": "The median price of a home in the city now exceeds half a million dollars. 该市的房价中位数现已超过五十万美元。"
+    }
+   ]
+  },
+  {
+   "en_html": "Still, the backlash shows few signs of <mark class=\"voc\">abating</mark>. Tax exemptions have been paused or made conditional in several states, while satisfying local demands will <mark class=\"voc\">inevitably</mark> raise construction costs. Yet investment may simply flow to more <mark class=\"voc\">permissive</mark> states. Texas alone has more data centres under construction than Georgia, Arizona and Pennsylvania combined. Enough projects, analysts argue, will find communities willing to accept them in return for tax revenue, jobs and other benefits. As Mr Trump put it: “Let Data <mark class=\"voc\">Reign</mark>.”",
+   "zh": "尽管如此，这股抵制浪潮仍然鲜有消退的迹象。一些州已经暂停数据中心的税收减免，或为这些优惠附加更多条件，而满足地方社区提出的要求也必然会推高建设成本。不过，投资或许只会流向政策更加宽松的州。仅得克萨斯州一州，目前在建的数据中心就比佐治亚州、亚利桑那州和宾夕法尼亚州三州加起来还要多。分析人士认为，只要项目足够多，最终总能找到愿意接受它们的社区，以换取税收、就业和其他利益。正如特朗普所说：“让数据称王。”",
+   "notes": [
+    {
+     "w": "abate",
+     "ipa": "/əˈbeɪt/",
+     "pos": "v.",
+     "en": "to become less intense or widespread; to diminish",
+     "zh": "减弱，减轻；消退",
+     "ctx": "指反对数据中心的浪潮几乎没有减弱的迹象",
+     "ex1": "The storm showed no signs of abating as night fell. 夜幕降临，暴风雨丝毫没有减弱的迹象。",
+     "ex2": "Public anger over the scandal has yet to abate. 公众对这一丑闻的愤怒尚未消退。"
+    },
+    {
+     "w": "inevitably",
+     "ipa": "/ɪnˈevɪtəbli/",
+     "pos": "adv.",
+     "en": "as is certain to happen; unavoidably",
+     "zh": "不可避免地，必然地",
+     "ctx": "指满足当地社区的要求将不可避免地推高数据中心的建设成本",
+     "ex1": "Rising demand will inevitably lead to higher prices. 需求的上升将不可避免地导致价格上涨。",
+     "ex2": "The decision will inevitably spark controversy among the affected communities. 这一决定将不可避免地引发受影响社区的争议。"
+    },
+    {
+     "w": "permissive",
+     "ipa": "/pəˈmɪsɪv/",
+     "pos": "adj.",
+     "en": "allowing or characterized by great freedom of behaviour; not strict",
+     "zh": "宽松的，放任的；管得不严的",
+     "ctx": "指投资可能流向法规更宽松、对数据中心更友好的州",
+     "ex1": "The state has some of the most permissive gun laws in the country. 该州拥有全美最宽松的枪支法律之一。",
+     "ex2": "Investors are drawn to countries with permissive regulatory environments. 投资者被监管环境宽松的国家所吸引。"
+    },
+    {
+     "w": "reign",
+     "ipa": "/reɪn/",
+     "pos": "v.",
+     "en": "to rule as a monarch; to be dominant or prevalent",
+     "zh": "统治，主宰；盛行，占主导地位",
+     "ctx": "特朗普用“Let Data Reign”（让数据主宰）来结束他的表态，化用“Long may he reign”的君主式说法，语气张扬",
+     "ex1": "Chaos reigned in the streets after the controversial verdict was announced. 有争议的判决宣布后，街头一片混乱。",
+     "ex2": "For decades, the company reigned supreme in the personal computer market. 几十年来，这家公司在个人电脑市场独占鳌头。"
+    }
+   ]
+  }
+ ],
+ "proper": [
+  {
+   "name": "Spectre / 幽灵／萦绕的阴影",
+   "def": "化用马克思、恩格斯《共产党宣言》（1848）开篇名句“A spectre is haunting Europe—the spectre of Communism”，以典喻今。<br>本文中的意思：把数据中心比作当代美国政治中无处不在、令人不安的“幽灵”——它虽无形却渗透各行各业，其带来的电价上涨、水耗与环境负担正成为选民挥之不去的焦虑，强调议题的颠覆性与不可回避性。"
+  },
+  {
+   "name": "Golden Goose / 金鹅",
+   "def": "源自伊索寓言：农夫夫妇因贪心杀掉每天产金蛋的鹅，想一次取尽金子，结果一无所有，在英语文化中成为“不可杀鸡取卵”的代名词。<br>本文中的意思：特朗普借喻数据中心项目，警告地方反对者若逼走项目、宰杀“金鹅”，最终只会“落后又贫穷”，失去税收、就业和科技产业集聚效应。"
+  },
+  {
+   "name": "Red tape / 繁文缛节／行政壁垒",
+   "def": "一词源于16世纪西班牙王室用红色带子捆扎优先处理的官方文件，后经英国行政体系沿用，专指过度繁琐的审批流程、许可要求和公开听证等官僚程序，带强烈贬义。<br>本文中的意思：wrap them in red tape 形容各州县正通过立法和行政手段给数据中心建设层层加码（如增设用水审查、噪音监测等），以拖延甚至扼杀新项目。"
+  },
+  {
+   "name": "Bipartisan law / 跨党派法案",
+   "def": "在美国政治语境中，指同时获得民主、共和两党多数议员支持的法案，在当今高度极化的政治生态中较为罕见，多见于争议小、地方利益明显的议题。<br>本文中的意思：伊利诺伊州州长普利兹克2019年签署的数据中心激励法案以压倒性两党票数通过，含销售税豁免、最长20年电费退税等优惠，说明数据中心当年被视为“数字时代的粮仓”，具有跨党派吸引力。"
+  },
+  {
+   "name": "Epicentre / 中心／震中",
+   "def": "原为地质学术语，指地表上距震源最近、破坏力最大的垂直投影点，后引申为某一活动、趋势或产业最集中、最具影响力的核心区域。<br>本文中的意思：得州州长阿博特宣称该州是“AI发展的震中”——得州确有全美最多的数据中心集群（尤其在达拉斯-沃斯堡），得益于廉价用地、丰富风光资源与无州级企业所得税；此语既是招商口号，也有与加州、弗州争夺AI产业头把交椅的宣示意味。"
+  },
+  {
+   "name": "Governor / 州长",
+   "def": "美国50个州的最高行政首长，由本州选民直接普选产生，任期多为4年，拥有签署或否决州法案、发布行政命令、任命州政府官员、指挥州国民警卫队等广泛权力。<br>本文中的意思：文中三位州长——普利兹克（伊利诺伊，民主党）、夏皮罗（宾夕法尼亚，民主党）、阿博特（得克萨斯，共和党）——最初都热情拥抱数据中心，后随民意转向而收紧政策，说明该议题原本具有跨党派吸引力。"
+  },
+  {
+   "name": "Tax credits / 税收抵免",
+   "def": "美国常用的定向产业激励工具：企业可直接从应纳税额中扣除规定金额（而非仅从应税收入中扣除），效果等同政府直接补贴。伊利诺伊2019年法案允许达标数据中心享最长20年销售税豁免。<br>本文中的意思：普利兹克2026年8月暂停受理新申请，理由是州财政预算压力增大，且公众质疑这些优惠是否真正转化为本地就业，标志着该州政策的重大转向。"
+  },
+  {
+   "name": "Audit (utility audit) / 用电审计",
+   "def": "在美国公用事业监管框架下，指由州公共事业委员会或第三方机构对大型用电户的实际用电负荷、备用电源配置、节能措施等进行全面核查。<br>本文中的意思：阿博特下令对申请新接入的数据中心进行强制性用电审计，评估是否造成变电所过载或频率波动；得州电网独立（ERCOT），极端天气下更易停电，是该措施的深层背景。"
+  },
+  {
+   "name": "Grid reliability / 电网可靠性",
+   "def": "指电力系统在负荷激增、机组停机或极端天气条件下持续稳定供电的能力。美国电网分东部、西部互联电网与得州ERCOT三大独立系统。<br>本文中的意思：数据中心7×24小时高负荷运行，单个超大规模设施用电可匹敌一座小城市，集中建设会显著抬高峰值负荷；阿博特的警告呼应了2021年得州冬季风暴大停电、246人死亡的惨痛教训，使电网可靠性成为高度敏感的政治议题。"
+  },
+  {
+   "name": "Veto / 否决权",
+   "def": "在美国城市规划法中，地方否决权通常通过“特别使用许可”或“地块重新区划”听证会程序实现，居民代表可在听证会上投票反对。<br>本文中的意思：夏皮罗把实质性的项目否决权下放给县议会、市镇规划委员会等地方政府，可独立阻止数据中心在本地落地，本质上是将政治责任从州级转移至基层，以缓解自身选票压力。"
+  },
+  {
+   "name": "Gallup poll / 盖洛普民意调查",
+   "def": "盖洛普公司成立于1935年，是美国历史最悠久、最具公信力的民调机构之一，以随机电话拨号和全国代表性样本进行调查，误差范围一般在±3%左右。<br>本文中的意思：2026年3月的调查显示71%受访者反对本地建设数据中心，成为政策转向的关键舆论证据；盖洛普同时追踪到约六成受访者把“电费上涨”列为首要担忧。"
+  },
+  {
+   "name": "Economist/YouGov poll / 《经济学人》/YouGov联合民调",
+   "def": "YouGov是总部位于英国的跨国民调与数据分析公司，以在线调查为主要方法，样本量大、能快速追踪舆论变动，与《经济学人》周刊长期合作进行每周政治情绪追踪。<br>本文中的意思：2026年8月底的联合民调显示63%反对率，与盖洛普趋势一致而略低（或源于问题措辞差异）；两项权威民调交叉验证，大幅增强了公众反对数据中心这一结论的可信度。"
+  },
+  {
+   "name": "Moratorium / 暂停令",
+   "def": "在美国地方行政法中，指县或市议会通过正式决议，在规定期限内（通常6个月至2年）全面停止受理某类建设项目的土地申请、建筑许可或环评，是地方政府最常用的“拖延战术”。<br>本文中的意思：2026年前8个月全美各县共审议409项暂停令或类似措施，约为去年全年总数的7倍，说明数据中心抵制运动正快速蔓延，多集中于弗吉尼亚“数据中心走廊”、得州奥斯汀郊区和芝加哥远郊。"
+  },
+  {
+   "name": "OpenAI / 开放人工智能公司",
+   "def": "全球最具影响力的人工智能研究企业，2015年成立，最初为非营利组织，后转型为“上限利润”公司，以ChatGPT和GPT系列大语言模型闻名。<br>本文中的意思：OpenAI调查发现一家中国公司制作了旨在削弱美国公众对数据中心支持的图像，但随后承认这些内容“几乎没有产生可观察到的互动”——暗示真正的反对浪潮根源在美国本土社会矛盾，而非外国虚假信息操作。"
+  },
+  {
+   "name": "Fox News poll / 福克斯新闻民调",
+   "def": "福克斯新闻是美国最大的保守派有线新闻网络，其民调委托专业民调公司进行，虽带媒体品牌，但方法论通常被视为可靠，误差范围多在±3%。<br>本文中的意思：75%的反对者将能源使用、水费账单和交通列为主要关切，仅11%指向AI本身——说明抵制者大多不是技术恐惧者，而是基于切身经济利益和社区环境感受作出反应。"
+  },
+  {
+   "name": "Crop irrigation / 农业灌溉",
+   "def": "美国中西部的大规模农业灌溉依赖奥加拉拉含水层和科罗拉多河等水系统，每年农业用水约占全美淡水取水总量的80%以上；数据中心用水主要用于蒸发冷却系统和加湿。<br>本文中的意思：作者以“农业灌溉耗水远超数据中心”说明公众对耗水的担忧可能被放大、比例失衡——但因数据中心集中在局部城镇、视觉冲击力强，才成为抗议焦点。"
+  },
+  {
+   "name": "Lawrence Berkeley National Laboratory / 劳伦斯伯克利国家实验室",
+   "def": "隶属美国能源部的顶尖国家级实验室，位于加州伯克利，以能源科学、计算科学和高性能计算研究著称，其数据中心能耗估算报告在政策制定者和学术界中高度权威。<br>本文中的意思：其估算2023年数据中心耗电占全美4.4%、2030年或达9.5%–15.3%，被白宫和国会用作评估AI基础设施投资的关键依据；15.3%的上限预测极具政策警示意义。"
+  },
+  {
+   "name": "Wholesale electricity prices / 电力批发价格",
+   "def": "美国电力市场分批发电价（发电商向售电商或大型工业用户售电的价格，在区域市场中每小时波动）和零售电价（居民最终支付的电价），批发价上升不必然立即传导至居民账单。<br>本文中的意思：数据中心在高峰时段巨量竞价购电，直接拉高局部节点的批发电价；长期来看持续上涨会推高零售端费用，这是经济学家最担心的潜在通胀效应。"
+  },
+  {
+   "name": "Electric Power Research Institute (EPRI) / 美国电力研究院",
+   "def": "一家非营利性、行业资助的能源研究组织，总部位于加州帕洛阿尔托，汇集全美主要公用事业公司共同出资进行研究。<br>本文中的意思：其分析提出反直觉结论——数据中心通常签署长期固定负荷协议，为电网提供稳定的基础负荷，使固定成本摊薄到更多售电度数上，反而让2019–2024年平均电价下降了6%；该论点常被科技行业游说集团引用对抗公众恐慌。"
+  },
+  {
+   "name": "Special tariffs / 专项电价",
+   "def": "在美国公用事业监管中，指州公共事业委员会批准的大型用户专项电价协议，通常附加条件（如承诺最小购电量、允许公用事业公司在高峰时段远程削减其用电负荷）。<br>本文中的意思：30个州已批准或提议此类专项电价，目的是让数据中心等超大型用户为电网扩容升级（如新建变电站、输电线路）支付额外前期费用，减少对普通居民和商业用户的成本转嫁。"
+  },
+  {
+   "name": "Echelon Insights / 艾施隆洞察",
+   "def": "一家美国政治与公共事务民调咨询公司，常为共和党阵营和商业协会提供服务，调查方法包括在线面板和短信抽样。<br>本文中的意思：其实验性民调发现，只要告知受访者一项潜在好处（如降低房产税、增加学校经费），反对率即可从60%以上逆转至48%以下，凸显公众态度的“信息可塑性”，科技公司因此加大社区公关投入。"
+  },
+  {
+   "name": "Median acceptable payment / 中位数可接受补偿",
+   "def": "统计学中的“中位数”指将所有数值从低到高排列后处于正中间的值，比平均值更不易受极端值影响。<br>本文中的意思：民调显示一半美国人愿意为本地数据中心项目接受至少1万美元的补偿（如支票退税、物业费减免或社区基金），为科技公司提供了直接向附近居民支付“社区影响补偿金”的社会许可路径。"
+  },
+  {
+   "name": "Tax exemptions / 税收豁免",
+   "def": "不同于“抵免”，指企业根本无需缴纳某类税款（如销售税、财产税或企业所得税），而非先缴后扣；多个州曾对数据中心服务器设备给予全额销售税豁免，以吸引超大规模运营商。<br>本文中的意思：随着公众反弹，部分州已暂停豁免或附加条件；但投资可能只是从严格州流入宽松州——得州在建数据中心数量已超佐治亚、亚利桑那和宾州总和，显示区域竞争格局正在重塑，而非全行业衰落。"
+  }
+ ],
+ "sources_note": "资料核对：本页内容整理自早安英文 2026-09-05 课件，原文为英国《经济学人》（The Economist）2026 年 9 月 3 日文章 “How data centres became one of America’s hottest political issues”（United States | Not in my backyard）。",
+ "practice": {
+  "intro": "把下面几句翻译成英文，注意划线表达。",
+  "items": [
+   "失业的阴影笼罩着这座依赖单一产业的小镇。",
+   "政府承诺削减繁文缛节，以加快新医院的审批流程。",
+   "这项有争议的法案在国会中罕见地赢得了两党支持。",
+   "前总统在社交媒体上强势介入这场关于能源政策的争论。",
+   "这座老化的电网在持续高温期间难以满足居民的用电需求。",
+   "愤怒的居民挤满了市政厅会议，抗议拟议的垃圾填埋场项目。"
+  ],
+  "critical_en": "Yet the Electric Power Research Institute estimates that data-centre growth actually reduced average electricity prices by 6% between 2019 and 2024 by spreading the grid’s fixed costs.",
+  "critical_zh": "美国电力研究院估计，2019年至2024年间，数据中心的增长实际上使平均电价下降了6%，因为大量新增用电需求帮助整个电网分摊了原本固定的基础设施成本。",
+  "answer": "1. The spectre of unemployment loomed over the small town that depended on a single industry.<br><br>2. The government promised to cut red tape to speed up the approval process for the new hospital.<br><br>3. The controversial bill won rare bipartisan support in Congress.<br><br>4. The former president weighed into the debate over energy policy on social media.<br><br>5. The aging power grid struggled to meet residents' demand for electricity during the prolonged heat wave.<br><br>6. Angry residents packed the town hall meeting to protest the proposed landfill project."
+ },
+ "mindmap": {
+  "aria": "数据中心抵制浪潮思维导图",
+  "alt": "数据中心抵制浪潮（手绘版）",
+  "svg": "<svg viewBox=\"0 0 960 720\" xmlns=\"http://www.w3.org/2000/svg\" role=\"img\" aria-label=\"数据中心抵制浪潮思维导图\" style=\"width:100%;height:auto;font-family:-apple-system,'PingFang SC','Hiragino Sans GB','Microsoft YaHei',sans-serif\">\n        <rect x=\"24\" y=\"306\" width=\"176\" height=\"88\" rx=\"14\" fill=\"#eae3d2\" stroke=\"#9a8f76\"/>\n        <text x=\"112\" y=\"342\" text-anchor=\"middle\" fill=\"#3d3a34\" font-size=\"17\" font-weight=\"700\">抵制数据中心</text>\n        <text x=\"112\" y=\"368\" text-anchor=\"middle\" fill=\"#5c5648\" font-size=\"12.5\">理由不是怕失业</text>\n\n        <path d=\"M200,350 C232,350 232,88 260,88\"  stroke=\"#6b8f71\" stroke-width=\"2\" fill=\"none\"/>\n        <path d=\"M200,350 C232,350 232,238 260,238\" stroke=\"#7d98ad\" stroke-width=\"2\" fill=\"none\"/>\n        <path d=\"M200,350 C232,350 232,433 260,433\" stroke=\"#bd7a6d\" stroke-width=\"2\" fill=\"none\"/>\n        <path d=\"M200,350 C232,350 232,628 260,628\" stroke=\"#9b86b3\" stroke-width=\"2\" fill=\"none\"/>\n\n        <g class=\"mm-branch\" data-target=\"bc1\">\n          <rect x=\"260\" y=\"71\" width=\"190\" height=\"34\" rx=\"8\" fill=\"#e6efe7\" stroke=\"#6b8f71\"/>\n          <text x=\"349\" y=\"93\" text-anchor=\"middle\" fill=\"#4c6b52\" font-size=\"15\" font-weight=\"700\">抵制的规模（¶1–3）</text>\n          <text class=\"mm-arrow\" data-for=\"bc1\" x=\"442\" y=\"93\" text-anchor=\"end\" fill=\"#4c6b52\">▾</text>\n        </g>\n        <g class=\"mm-children\" id=\"bc1\">\n          <path d=\"M450,88 C462,88 462,46 480,46\" stroke=\"#6b8f71\" stroke-width=\"1.5\" fill=\"none\"/>\n          <path d=\"M450,88 C462,88 462,88 480,88\" stroke=\"#6b8f71\" stroke-width=\"1.5\" fill=\"none\"/>\n          <path d=\"M450,88 C462,88 462,130 480,130\" stroke=\"#6b8f71\" stroke-width=\"1.5\" fill=\"none\"/>\n          <rect x=\"480\" y=\"30\" width=\"456\" height=\"32\" rx=\"8\" fill=\"#e6efe7\"/><text x=\"492\" y=\"51\" fill=\"#3d3a34\" font-size=\"14\">数据中心比核电站还不受欢迎</text>\n          <rect x=\"480\" y=\"72\" width=\"456\" height=\"32\" rx=\"8\" fill=\"#e6efe7\"/><text x=\"492\" y=\"93\" fill=\"#3d3a34\" font-size=\"14\">各县州争相限建，甚至直接禁建</text>\n          <rect x=\"480\" y=\"114\" width=\"456\" height=\"32\" rx=\"8\" fill=\"#e6efe7\"/><text x=\"492\" y=\"135\" fill=\"#3d3a34\" font-size=\"14\">特朗普警告：杀“金鹅”只会又穷又落后</text>\n        </g>\n\n        <g class=\"mm-branch\" data-target=\"bc2\">\n          <rect x=\"260\" y=\"221\" width=\"190\" height=\"34\" rx=\"8\" fill=\"#e5edf4\" stroke=\"#7d98ad\"/>\n          <text x=\"349\" y=\"243\" text-anchor=\"middle\" fill=\"#3d5872\" font-size=\"15\" font-weight=\"700\">州长们的转向（¶4–6）</text>\n          <text class=\"mm-arrow\" data-for=\"bc2\" x=\"442\" y=\"243\" text-anchor=\"end\" fill=\"#3d5872\">▾</text>\n        </g>\n        <g class=\"mm-children\" id=\"bc2\">\n          <path d=\"M450,238 C462,238 462,196 480,196\" stroke=\"#7d98ad\" stroke-width=\"1.5\" fill=\"none\"/>\n          <path d=\"M450,238 C462,238 462,238 480,238\" stroke=\"#7d98ad\" stroke-width=\"1.5\" fill=\"none\"/>\n          <path d=\"M450,238 C462,238 462,280 480,280\" stroke=\"#7d98ad\" stroke-width=\"1.5\" fill=\"none\"/>\n          <rect x=\"480\" y=\"180\" width=\"456\" height=\"32\" rx=\"8\" fill=\"#e5edf4\"/><text x=\"492\" y=\"201\" fill=\"#3d3a34\" font-size=\"14\">三州州长曾热情拥抱数据中心项目</text>\n          <rect x=\"480\" y=\"222\" width=\"456\" height=\"32\" rx=\"8\" fill=\"#e5edf4\"/><text x=\"492\" y=\"243\" fill=\"#3d3a34\" font-size=\"14\">如今收紧规则、暂停税收抵免申请</text>\n          <rect x=\"480\" y=\"264\" width=\"456\" height=\"32\" rx=\"8\" fill=\"#e5edf4\"/><text x=\"492\" y=\"285\" fill=\"#3d3a34\" font-size=\"14\">“支持数据中心”成了政治骂名</text>\n        </g>\n\n        <g class=\"mm-branch\" data-target=\"bc3\">\n          <rect x=\"260\" y=\"416\" width=\"190\" height=\"34\" rx=\"8\" fill=\"#f4e7e4\" stroke=\"#bd7a6d\"/>\n          <text x=\"349\" y=\"438\" text-anchor=\"middle\" fill=\"#7c4a3e\" font-size=\"15\" font-weight=\"700\">民意的剧变（¶7–8）</text>\n          <text class=\"mm-arrow\" data-for=\"bc3\" x=\"442\" y=\"438\" text-anchor=\"end\" fill=\"#7c4a3e\">▾</text>\n        </g>\n        <g class=\"mm-children\" id=\"bc3\">\n          <path d=\"M450,433 C462,433 462,391 480,391\" stroke=\"#bd7a6d\" stroke-width=\"1.5\" fill=\"none\"/>\n          <path d=\"M450,433 C462,433 462,433 480,433\" stroke=\"#bd7a6d\" stroke-width=\"1.5\" fill=\"none\"/>\n          <path d=\"M450,433 C462,433 462,475 480,475\" stroke=\"#bd7a6d\" stroke-width=\"1.5\" fill=\"none\"/>\n          <rect x=\"480\" y=\"375\" width=\"456\" height=\"32\" rx=\"8\" fill=\"#f4e7e4\"/><text x=\"492\" y=\"396\" fill=\"#3d3a34\" font-size=\"14\">盖洛普民调：71%受访者反对建设</text>\n          <rect x=\"480\" y=\"417\" width=\"456\" height=\"32\" rx=\"8\" fill=\"#f4e7e4\"/><text x=\"492\" y=\"438\" fill=\"#3d3a34\" font-size=\"14\">前八个月各县审议409项暂停令</text>\n          <rect x=\"480\" y=\"459\" width=\"456\" height=\"32\" rx=\"8\" fill=\"#f4e7e4\"/><text x=\"492\" y=\"480\" fill=\"#3d3a34\" font-size=\"14\">甩锅中国宣传，OpenAI承认并无实效</text>\n        </g>\n\n        <g class=\"mm-branch\" data-target=\"bc4\">\n          <rect x=\"260\" y=\"611\" width=\"190\" height=\"34\" rx=\"8\" fill=\"#ece4f2\" stroke=\"#9b86b3\"/>\n          <text x=\"349\" y=\"633\" text-anchor=\"middle\" fill=\"#5a4670\" font-size=\"15\" font-weight=\"700\">真实的顾虑（¶9）</text>\n          <text class=\"mm-arrow\" data-for=\"bc4\" x=\"442\" y=\"633\" text-anchor=\"end\" fill=\"#5a4670\">▾</text>\n        </g>\n        <g class=\"mm-children\" id=\"bc4\">\n          <path d=\"M450,628 C462,628 462,586 480,586\" stroke=\"#9b86b3\" stroke-width=\"1.5\" fill=\"none\"/>\n          <path d=\"M450,628 C462,628 462,628 480,628\" stroke=\"#9b86b3\" stroke-width=\"1.5\" fill=\"none\"/>\n          <path d=\"M450,628 C462,628 462,670 480,670\" stroke=\"#9b86b3\" stroke-width=\"1.5\" fill=\"none\"/>\n          <rect x=\"480\" y=\"570\" width=\"456\" height=\"32\" rx=\"8\" fill=\"#ece4f2\"/><text x=\"492\" y=\"591\" fill=\"#3d3a34\" font-size=\"14\">75%担心电费、水费和交通问题</text>\n          <rect x=\"480\" y=\"612\" width=\"456\" height=\"32\" rx=\"8\" fill=\"#ece4f2\"/><text x=\"492\" y=\"633\" fill=\"#3d3a34\" font-size=\"14\">担忧集中于本地影响，而非AI本身</text>\n          <rect x=\"480\" y=\"654\" width=\"456\" height=\"32\" rx=\"8\" fill=\"#ece4f2\"/><text x=\"492\" y=\"675\" fill=\"#3d3a34\" font-size=\"14\">耗水恐惧或被夸大，耗电占比恐大增</text>\n        </g>\n      </svg>",
+  "img": ""
+ }
+}

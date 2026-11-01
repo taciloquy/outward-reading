@@ -1,0 +1,493 @@
+{
+ "date": "2026-09-06",
+ "title_tag": "英伟达到底有多恐怖？一家公司的价值，已经超过很多国家一年的经济总量—— 英国经济学人外刊讲解第1158天",
+ "h1": "英伟达到底有多恐怖？一家公司的价值，已经超过很多国家一年的经济总量",
+ "source_label": "The Economist",
+ "category": "英国经济学人外刊讲解 第1158天",
+ "read_minutes": 18,
+ "nav_hint": "Nvidia is driving the AI boom",
+ "headline": {
+  "en_html": "<span>Nvidia is <mark class=\"voc\">driving</mark> the AI <mark class=\"voc\">boom</mark>. Good</span> — <span>The chipmaker’s enormous <mark class=\"voc\">bets</mark> are how capitalism is supposed to work</span>",
+  "zh": "英伟达驱动AI狂潮——这是好事。这家芯片巨头押下的重注，正是资本主义应有的运作方式",
+  "notes": [
+   {
+    "w": "drive",
+    "ipa": "/draɪv/",
+    "pos": "v.",
+    "en": "drive (v.) means to provide the power or energy that makes something happen or continue",
+    "zh": "本义为\"驾驶、驱赶\"，宏观经济与产业语境核心义为\"驱动、拉动（某种增长或趋势）\"",
+    "ctx": "本文特指：英伟达的GPU为整个AI产业提供算力底座，是这一轮AI热潮得以持续的动力源，标题因此说它在driving the AI boom",
+    "ex1": "Cheap batteries are driving the rapid adoption of electric vehicles across Southeast Asia. 廉价电池正在拉动电动车在东南亚的快速普及。",
+    "ex2": "What drove the stock's 30% rally was not earnings but a single supply deal. 推动这只股票上涨三成的并非财报，而是一纸供货协议。"
+   },
+   {
+    "w": "boom",
+    "ipa": "/buːm/",
+    "pos": "n.",
+    "en": "boom (n.) means a period of rapid economic growth or sharply increased activity",
+    "zh": "本义为拟声词\"轰隆一声\"，经济周期语境核心义为\"（爆发式的）繁荣期、热潮\"",
+    "ctx": "本文特指：2022年底ChatGPT发布后席卷全球的这一轮AI投资与建设热潮，英伟达是其核心受益者",
+    "ex1": "The shale boom turned a sleepy Texas county into one of the fastest-growing places in America. 页岩油热潮把德州一个沉寂的县变成了全美增长最快的地方之一。",
+    "ex2": "Every boom feels permanent while you are inside it. 身处繁荣之中时，你总觉得它会一直持续下去。"
+   },
+   {
+    "w": "bet",
+    "ipa": "/bet/",
+    "pos": "n.",
+    "en": "bet (n.) means an amount of money or resources risked on an uncertain outcome",
+    "zh": "本义为\"赌注、下注\"，企业战略与投资语境核心义为\"押注、（结果不确定的）重大投入\"",
+    "ctx": "本文特指：全文的灵魂词，出现五次以上——英伟达把公司命运完全押在AI需求持续爆发这一件事上，包括副标题的enormous bets、第2段的a bet on AI、第10段的concentrated bets",
+    "ex1": "Betting the entire company on one product line is either genius or negligence, and you rarely know which until later. 把整家公司押在一条产品线上，不是天才就是失职，而你往往事后才知道是哪一种。",
+    "ex2": "Investors treat the stock as a pure bet on data-centre construction. 投资者把这只股票当成对数据中心建设的纯粹押注。"
+   }
+  ]
+ },
+ "paragraphs": [
+  {
+   "en_html": "NVIDIA was <mark class=\"voc\">named</mark> in 1993 after the Latin word for <mark class=\"voc\">envy</mark>. <mark class=\"voc\">Sure enough</mark>, the American <mark class=\"voc\">colossus</mark> <mark class=\"voc\">inspires</mark> plenty of it. <mark class=\"voc\">Insatiable</mark> global demand for its graphics-processing units (GPUs), the chips that power artificial intelligence, has made Nvidia the world’s most valuable company, worth $5.4trn. Next year it may also become the most profitable, generating $370bn in <mark class=\"voc\">net income</mark>. By 2029 its sales could hit $1trn.",
+   "zh": "英伟达的名字，1993年取自拉丁语中的\"嫉妒\"一词。果不其然，这头美国巨兽如今招来的嫉妒可谓不少。全球对其图形处理器——也就是驱动人工智能的那种芯片——的需求永难餍足，这已将英伟达推上全球市值之巅，坐拥5.4万亿美元。明年，它或许还将成为全球最赚钱的公司，净利润高达3700亿美元。到2029年，其营收有望突破一万亿美元。",
+   "notes": [
+    {
+     "w": "name after",
+     "ipa": "/neɪm ˈæftər/",
+     "pos": "短语",
+     "en": "to name A after B means to give A the same name as B, in reference or tribute to it",
+     "zh": "本义为\"依照B给A起名\"，命名与渊源语境核心义为\"以……命名、名字取自……\"",
+     "ctx": "本文特指：英伟达1993年的公司名取自拉丁语invidia，即\"嫉妒\"",
+     "ex1": "The building is named after the alumna who funded its construction. 这栋楼以出资兴建它的那位校友命名。",
+     "ex2": "Half the streets in the old quarter are named after long-forgotten generals. 老城区一半的街道都以早已被人遗忘的将军命名。"
+    },
+    {
+     "w": "envy",
+     "ipa": "/ˈenvi/",
+     "pos": "n.",
+     "en": "envy (n.) means a feeling of discontent aroused by someone else's possessions, qualities or success",
+     "zh": "本义为\"嫉妒、羡慕\"，源自拉丁语invidia（in- 朝着+ videre 看，即\"盯着看\"），品牌与竞争语境核心义为\"引人艳羡的对象\"",
+     "ctx": "本文特指：开篇的双关——公司名字字面意思就是\"嫉妒\"，而它如今确实招来了全行业的嫉妒；其绿色logo亦呼应英文习语green with envy",
+     "ex1": "Its 75% margins have made the firm the envy of every hardware maker in the industry. 七成半的毛利率，让这家公司成了业内所有硬件厂商羡慕的对象。",
+     "ex2": "She looked at his corner office with undisguised envy. 她毫不掩饰地盯着他那间转角办公室，满眼羡慕。"
+    },
+    {
+     "w": "sure enough",
+     "ipa": "/ʃʊr ɪˈnʌf/",
+     "pos": "固定短语",
+     "en": "sure enough means as was expected or predicted; just as one had said it would be",
+     "zh": "本义为\"果然如此\"，叙事与论证语境核心义为\"果不其然（用于印证前文的说法）\"",
+     "ctx": "本文特指：承接上一句\"公司名叫嫉妒\"，这一句sure enough顺势印证——它果然招来了大量嫉妒，衔接俏皮",
+     "ex1": "Analysts warned that margins would compress, and sure enough, they fell four points in a single quarter. 分析师警告说利润率会被压缩，果不其然，一个季度就掉了四个百分点。",
+     "ex2": "He said the deal would leak before Friday, and sure enough, it was on the front page Thursday morning. 他说这笔交易周五前一定会走漏风声，果然，周四早上就上了头版。"
+    },
+    {
+     "w": "colossus",
+     "ipa": "/kəˈlɑːsəs/",
+     "pos": "n.",
+     "en": "colossus (n.) means a person or organisation of enormous size, power or influence",
+     "zh": "本义为\"巨像\"，源自古代世界七大奇迹之一的罗德岛太阳神巨像（the Colossus of Rhodes，立了54年后毁于地震），规模与行业地位语境核心义为\"庞然大物、巨头\"",
+     "ctx": "本文特指：形容英伟达这个体量惊人的美国公司；作者选用此词而非giant，隐隐带上了\"巨像终会倾覆\"的历史尾音",
+     "ex1": "For thirty years the state-owned oil colossus dictated prices across the entire region. 三十年来，这家国有石油巨头一直主导着整个地区的定价。",
+     "ex2": "The retail colossus now accounts for one in every four grocery dollars spent nationwide. 如今全国每四块钱的食品杂货支出中，就有一块流向这家零售巨头。"
+    },
+    {
+     "w": "inspire",
+     "ipa": "/ɪnˈspaɪər/",
+     "pos": "v.",
+     "en": "inspire (v.) means to give rise to a particular feeling or reaction in someone",
+     "zh": "本义为\"吸入气息、注入灵感\"（in- 进入+ spirare 呼吸），情绪引发语境核心义为\"引发、招致（某种情绪，中性词，好坏由后接名词决定）\"",
+     "ctx": "本文特指：熟词僻义考点——inspires plenty of it 中的it指envy，意为\"招来大量嫉妒\"，绝非\"激励\"",
+     "ex1": "The chief executive's calm handling of the recall inspired confidence among rattled investors. 首席执行官从容处理这次召回，让惊魂未定的投资者重拾信心。",
+     "ex2": "Aggressive pricing inspired resentment among the very partners the firm needed most. 激进的定价招来了怨恨，而怨恨的正是这家公司最需要的那批合作伙伴。"
+    },
+    {
+     "w": "insatiable",
+     "ipa": "/ɪnˈseɪʃəbl/",
+     "pos": "adj.",
+     "en": "insatiable (adj.) means impossible to satisfy, however much is supplied",
+     "zh": "本义为\"无法被喂饱的\"（in- 否定+ satiare 使满足，与satisfy、saturated同源），需求描述语境核心义为\"永难餍足的、填不满的\"",
+     "ctx": "本文特指：全球对英伟达GPU的需求——作者不用strong或huge，而用insatiable，画面是全世界排队抢卡、给多少都不够",
+     "ex1": "The region's insatiable appetite for electricity has forced three retired coal plants back online. 该地区对电力永无止境的胃口，已经逼得三座退役燃煤电厂重新并网。",
+     "ex2": "Streaming platforms discovered that viewer demand for true crime was essentially insatiable. 流媒体平台发现，观众对真实罪案题材的需求基本上是填不满的。"
+    },
+    {
+     "w": "net income",
+     "ipa": "/net ˈɪnkʌm/",
+     "pos": "固定短语",
+     "en": "net income means the profit remaining after all costs, expenses, interest and taxes have been deducted from revenue",
+     "zh": "本义为\"网中剩下的（net本义为渔网，漏掉的都漏掉，网里剩下的才是你的）\"，公司财务报表语境核心义为\"净利润\"",
+     "ctx": "本文特指：预测英伟达明年净利润将达3700亿美元，从而成为全球最赚钱的公司",
+     "ex1": "The carmaker posted net income of $4.2bn, its best result since the pandemic. 这家汽车厂商公布净利润42亿美元，是疫情以来最好的成绩。",
+     "ex2": "Rising interest costs ate into net income even as revenue climbed. 尽管营收在涨，攀升的利息成本还是侵蚀了净利润。"
+    }
+   ]
+  },
+  {
+   "en_html": "Jensen Huang, Nvidia’s boss, is truly the <mark class=\"voc\">magician</mark> <mark class=\"voc\">at the heart of</mark> the AI boom. His firm’s share price is 14 times what it was on ChatGPT’s release in late 2022. The ten biggest public companies <mark class=\"voc\">championing</mark> AI <mark class=\"voc\">make up</mark> 40% of the value of the S&P 500 index. Nvidia alone <mark class=\"voc\">accounts for</mark> 8% and unlike, say, Apple or Tesla, which make smartphones and cars, it is almost <mark class=\"voc\">solely</mark> a bet on AI. The company has produced about 15 cents of every dollar the American stock market has <mark class=\"voc\">returned</mark> since 2023.",
+   "zh": "英伟达掌门人黄仁勋，堪称这轮AI狂潮正中央的那位魔术师。他公司的股价，如今已是2022年底ChatGPT问世时的十四倍。押注AI的十家最大上市公司，合计撑起了标普500指数四成的市值；单是英伟达一家便占去8%——而且它不像苹果或特斯拉那样还有手机和汽车可倚仗，它几乎就是一场纯粹押在AI身上的豪赌。自2023年以来，美股每为投资者赚回一美元，其中约十五美分出自英伟达之手。",
+   "notes": [
+    {
+     "w": "magician",
+     "ipa": "/məˈdʒɪʃn/",
+     "pos": "n.",
+     "en": "magician (n.) means a person who performs magic, either genuine magic or entertaining tricks",
+     "zh": "本义为\"魔法师、魔术师\"，人物评价语境核心义为\"（褒）神乎其技的高手／（贬）玩戏法的人\"",
+     "ctx": "本文特指：全篇暗线——第2段用它褒扬黄仁勋是AI热潮核心的\"魔术师\"，第3段立刻反转为illusionist，同一个词从\"神\"滑向\"骗\"，是本文最精妙的修辞设计",
+     "ex1": "Her predecessor was a magician with distressed assets, buying wrecks and selling them whole. 她的前任是处理不良资产的高手，专收残局，整个卖出。",
+     "ex2": "Every boom produces a magician whom nobody wants to examine too closely. 每一轮繁荣都会造出一个魔术师，而没人愿意凑太近去看。"
+    },
+    {
+     "w": "at the heart of",
+     "ipa": "/æt ðə hɑːrt əv/",
+     "pos": "固定短语",
+     "en": "at the heart of something means at its most central, essential or important part",
+     "zh": "本义为\"在……的心脏部位\"，论述与定位语境核心义为\"处于……的核心、是……的要害所在\"",
+     "ctx": "本文特指：黄仁勋处于整场AI热潮的正中央，比in the centre of更带\"命脉、要害\"的感情色彩",
+     "ex1": "Trust lies at the heart of every clearing system, which is why a single default is so corrosive. 信任是每一个清算体系的核心，正因如此，一次违约的腐蚀性才如此之强。",
+     "ex2": "At the heart of the dispute is a single ambiguous clause about renewal rights. 这场争议的核心，是关于续约权的一个含混条款。"
+    },
+    {
+     "w": "champion",
+     "ipa": "/ˈtʃæmpiən/",
+     "pos": "v.",
+     "en": "champion (v.) means to publicly support, defend or fight for a cause, idea or group",
+     "zh": "本义为\"决斗场上代人出战的斗士\"（中世纪司法决斗中替一方出战者，即champion的原义，\"冠军\"是后起义），立场与倡导语境核心义为\"支持、拥护、力挺\"",
+     "ctx": "本文特指：熟词僻义考点——companies championing AI 指\"押注并力推AI的那些公司\"，championing为现在分词作后置定语",
+     "ex1": "For a decade she championed disclosure rules that the industry spent millions trying to bury. 十年来，她一直力推信息披露规则，而业界砸了数百万试图把它埋掉。",
+     "ex2": "The bank has quietly championed a technology its own traders refuse to use. 这家银行一直在暗中力推一项技术，而它自己的交易员拒绝使用。"
+    },
+    {
+     "w": "make up",
+     "ipa": "/meɪk ʌp/",
+     "pos": "短语",
+     "en": "make up means to combine to form a whole; to constitute a specified proportion of something",
+     "zh": "本义为\"构成、拼成\"，比例与构成语境核心义为\"占（比例）、构成\"",
+     "ctx": "本文特指：十大AI概念股make up标普500指数四成的市值",
+     "ex1": "Contract workers now make up nearly a third of the company's total headcount. 合同工如今占到公司总人数的将近三分之一。",
+     "ex2": "Four product lines make up more than 80% of group revenue. 四条产品线贡献了集团逾八成的营收。"
+    },
+    {
+     "w": "account for",
+     "ipa": "/əˈkaʊnt fɔːr/",
+     "pos": "短语",
+     "en": "account for means (1) to constitute a specified amount or proportion; (2) to explain or give the reason for something",
+     "zh": "本义为\"给出说明、交代清楚\"，比例统计语境核心义为\"占（比例）\"，另一常用义为\"解释、说明原因\"",
+     "ctx": "本文特指：Nvidia alone accounts for 8%，指英伟达一家占标普500总市值的8%；本文第7段再次出现，用于非英伟达芯片的38%份额",
+     "ex1": "Exports to a single customer account for nearly half of the plant's output. 对单一客户的出口占了这家工厂产量的将近一半。",
+     "ex2": "Nobody has yet accounted for the missing eleven days in the maintenance log. 维修日志上缺失的那十一天，至今没人能解释清楚。"
+    },
+    {
+     "w": "solely",
+     "ipa": "/ˈsoʊlli/",
+     "pos": "adv.",
+     "en": "solely (adv.) means only and not involving anything or anyone else",
+     "zh": "本义为\"单独地\"（sole 单一的），排他性语境核心义为\"完全地、仅仅\"",
+     "ctx": "本文特指：almost solely a bet on AI——与苹果、特斯拉不同，英伟达几乎完全就是一场押在AI上的赌注，没有其他业务托底",
+     "ex1": "The fund's returns depend solely on whether a single drug clears its final trial. 这只基金的回报完全取决于一款药能否通过最后一期试验。",
+     "ex2": "He was held solely responsible for a failure that had at least four authors. 一场至少有四个始作俑者的失败，最后由他一人承担全部责任。"
+    },
+    {
+     "w": "return",
+     "ipa": "/rɪˈtɜːrn/",
+     "pos": "v./n.",
+     "en": "return (v./n.) means to yield or produce a profit for an investor; the profit so produced",
+     "zh": "本义为\"返回、归还\"，投资收益语境核心义为\"（投资）产生回报；收益率\"",
+     "ctx": "本文特指：熟词僻义考点——every dollar the American stock market has returned since 2023，指美股自2023年以来为投资者创造的每一美元回报，其中约15美分来自英伟达",
+     "ex1": "The fund returned 14% last year, comfortably ahead of its benchmark. 该基金去年回报率14%，轻松跑赢了基准指数。",
+     "ex2": "Chasing higher returns in illiquid assets is how pension funds get into trouble. 在流动性差的资产里追逐高回报，正是养老基金出事的老路。"
+    }
+   ]
+  },
+  {
+   "en_html": "Yet many also see Mr Huang as a magician in a more worrying sense, fearing that he is an <mark class=\"voc\">illusionist</mark> <mark class=\"voc\">inflating</mark> a dangerous bubble. Through $1trn-worth of deals, Nvidia provides data-centre <mark class=\"voc\">landlords</mark> and AI labs with cash or <mark class=\"voc\">guarantees</mark> so that they can buy its GPUs. Some call it the “bank of AI”. <mark class=\"voc\">At the very least</mark>, Nvidia’s critics say, its financial engineering <mark class=\"voc\">smacks of</mark> the “<mark class=\"voc\">vendor financing</mark>” which <mark class=\"voc\">pumped up</mark> the revenues of networking-gear makers like Cisco in the dotcom <mark class=\"voc\">mania</mark> of 2000-01, whose collapse <mark class=\"voc\">brought about</mark> a <mark class=\"voc\">recession</mark>.",
+   "zh": "然而在另一层更令人不安的意义上，也有许多人把黄仁勋看作\"魔术师\"——他们担心，他其实是个玩障眼法的幻术师，正把一个危险的泡沫越吹越大。通过总额一万亿美元的交易，英伟达向数据中心业主和AI实验室提供现金或担保，好让他们买得起自己的GPU。有人因此称它为\"AI银行\"。批评者说，往最轻了讲，英伟达这套财务操作也透着一股\"供应商融资\"的味道——正是这套玩法，在2000至2001年的互联网狂热中吹起了思科等网络设备商的营收，而那场狂热的崩塌，最终引来了一场经济衰退。",
+   "notes": [
+    {
+     "w": "illusionist",
+     "ipa": "/ɪˈluːʒənɪst/",
+     "pos": "n.",
+     "en": "illusionist (n.) means a performer who creates deceptive appearances; someone who makes people believe they see what is not really there",
+     "zh": "本义为\"制造幻觉的人\"（illusion 幻觉+ -ist 人），修辞与人物评价语境核心义为\"幻术师、玩障眼法的人\"",
+     "ctx": "本文特指：与magician的关键分野——magician可能真有本事，illusionist一定是假的；作者一句之内从magician滑到illusionist，把\"神话\"改写成了\"骗局\"",
+     "ex1": "Strip away the accounting and the founder looks less like a visionary than an illusionist. 把会计手法剥掉，这位创始人与其说是远见者，不如说是个玩障眼法的人。",
+     "ex2": "The rally was the work of an illusionist: volume was thin and the buyers were the sellers. 这波上涨是障眼法的产物——成交清淡，买方就是卖方。"
+    },
+    {
+     "w": "inflate",
+     "ipa": "/ɪnˈfleɪt/",
+     "pos": "v.",
+     "en": "inflate (v.) means to fill something with air so that it expands; to increase something artificially beyond its true value",
+     "zh": "本义为\"吹气使膨胀\"（词根-flat- 吹气，同族inflation 通货膨胀、deflate 泄气），泡沫与估值语境核心义为\"吹大、人为抬高\"",
+     "ctx": "本文特指：fearing that he is an illusionist inflating a dangerous bubble——批评者担心黄仁勋正在把一个危险的泡沫越吹越大",
+     "ex1": "Round-tripping deals inflate reported revenue without adding a cent of real demand. 循环交易能把账面营收吹起来，却没有增加一分钱的真实需求。",
+     "ex2": "Executives were accused of inflating subscriber numbers ahead of the listing. 高管被指控在上市前虚增订阅用户数。"
+    },
+    {
+     "w": "landlord",
+     "ipa": "/ˈlændlɔːrd/",
+     "pos": "n.",
+     "en": "landlord (n.) means a person or company that owns property and rents it out to others",
+     "zh": "本义为\"地主、房东\"，基础设施租赁语境核心义为\"（把资产租出去的）业主、出租方\"",
+     "ctx": "本文特指：data-centre landlords 指那些自建大型机房、采购服务器、再把算力租给他人的公司——商业模式与房东一致：我建、我不用、我收租；业内俗称neoclouds，代表企业如CoreWeave",
+     "ex1": "The tower's landlord is now a pension fund three continents away. 这栋楼的业主如今是远在三大洲之外的一家养老基金。",
+     "ex2": "Data-centre landlords have discovered that power, not floor space, is the binding constraint. 数据中心的业主们发现，真正卡脖子的不是场地，而是电力。"
+    },
+    {
+     "w": "guarantee",
+     "ipa": "/ˌɡærənˈtiː/",
+     "pos": "n.",
+     "en": "guarantee (n.) means a formal promise to take responsibility for another party's debt or obligation if that party fails to pay",
+     "zh": "本义为\"担保、保证\"，信贷与融资语境核心义为\"（第三方）担保、兜底承诺\"",
+     "ctx": "本文特指：本文最关键的机制之一——英伟达为客户的借款提供担保，自己一分钱不掏，但客户一旦违约，责任落到英伟达头上；第6段的call in the guarantees正是这一伏笔的引爆",
+     "ex1": "The parent company's guarantee was the only reason the subsidiary could borrow at all. 母公司的担保，是这家子公司还能借到钱的唯一原因。",
+     "ex2": "A guarantee costs nothing today and everything on the day it is called. 担保今天一分钱不花，被要求兑现的那天，可能就是全部身家。"
+    },
+    {
+     "w": "at the very least",
+     "ipa": "/æt ðə ˈveri liːst/",
+     "pos": "固定短语",
+     "en": "at the very least means at minimum; even taking the most cautious or generous view",
+     "zh": "本义为\"至少\"，论证与措辞语境核心义为\"往轻了说、退一万步讲\"",
+     "ctx": "本文特指：批评者的措辞策略——不敢断言这是骗局，但\"往最轻了说\"，它至少带着vendor financing的味道；这是英文议论中典型的降调铺垫",
+     "ex1": "At the very least, the board should have disclosed the related-party transaction before the vote. 退一万步讲，董事会至少该在表决前披露这笔关联交易。",
+     "ex2": "The delay will cost two quarters at the very least, and possibly the whole product cycle. 这次延误至少要付出两个季度的代价，弄不好是整个产品周期。"
+    },
+    {
+     "w": "smack of",
+     "ipa": "/smæk əv/",
+     "pos": "固定短语",
+     "en": "smack of something means to have a slight but noticeable suggestion or trace of something undesirable",
+     "zh": "本义为\"有……的气味／滋味\"，评价与指控语境核心义为\"透着一股……的味儿（几乎恒为贬义）\"",
+     "ctx": "本文特指：its financial engineering smacks of the \"vendor financing\"——批评者说英伟达这套财技\"透着当年供应商融资的味道\"，措辞留有余地却明确带贬",
+     "ex1": "The timing of the share sale smacks of desperation rather than strategy. 这次减持的时点，透着的是绝望而非策略。",
+     "ex2": "Awarding the contract to a former colleague smacks of favouritism, whatever the paperwork says. 把合同判给昔日同事，不管文件怎么写，都透着任人唯亲的味儿。"
+    },
+    {
+     "w": "vendor financing",
+     "ipa": "/ˈvendər ˈfaɪnænsɪŋ/",
+     "pos": "固定短语",
+     "en": "vendor financing means an arrangement in which the seller lends money to, or guarantees borrowing by, its own customers so that they can afford to buy the seller's products",
+     "zh": "本义为\"卖方提供的融资\"，收入质量与泡沫争议语境核心义为\"供应商融资——卖家出钱／担保，让买家买自己的东西\"",
+     "ctx": "本文特指：全篇争议核心。英伟达通过一万亿美元的交易给客户提供现金或担保，客户回过头来买它的GPU；批评者认为这使得账面营收无法反映真实需求，与思科在2000年前后的做法同构。相关的更严厉说法是circular financing 循环融资",
+     "ex1": "Roughly a tenth of the group's reported sales were vendor-financed, a fact buried in the footnotes. 该集团约十分之一的账面销售来自供应商融资，这一事实被埋在附注里。",
+     "ex2": "Vendor financing flatters revenue in the good years and doubles the damage in the bad ones. 供应商融资在好年景里美化营收，在坏年景里让损失翻倍。"
+    },
+    {
+     "w": "pump up",
+     "ipa": "/pʌmp ʌp/",
+     "pos": "短语",
+     "en": "pump up means to inflate something, or to increase a figure artificially",
+     "zh": "本义为\"用打气筒打气\"，数据与业绩语境核心义为\"把（数字、营收）人为地做大\"",
+     "ctx": "本文特指：the vendor financing which pumped up the revenues of ... Cisco——正是这套融资玩法把思科的营收吹了起来；与前文inflate同属\"吹气\"意象群",
+     "ex1": "Channel stuffing pumps up this quarter's sales by borrowing from the next one. 向渠道压货，是靠透支下个季度来把本季度的销售额做大。",
+     "ex2": "Cheap credit pumped up valuations across the entire private market. 廉价信贷把整个私募市场的估值都吹了起来。"
+    },
+    {
+     "w": "mania",
+     "ipa": "/ˈmeɪniə/",
+     "pos": "n.",
+     "en": "mania (n.) means an excessive, collective enthusiasm bordering on irrationality",
+     "zh": "本义为医学上的\"躁狂症\"（同族maniac 疯子），金融泡沫史语境核心义为\"（群体性的）狂热、癫狂\"",
+     "ctx": "本文特指：the dotcom mania of 2000-01；作者不用中性的boom而用mania，明确带出\"当时人们已经不理智了\"的判断",
+     "ex1": "Every speculative mania is obvious in hindsight and invisible from inside. 每一场投机狂热，事后看都一目了然，身处其中却全然不觉。",
+     "ex2": "The mania for collectibles collapsed almost overnight when interest rates turned. 利率一转向，收藏品热几乎一夜之间就崩了。"
+    },
+    {
+     "w": "bring about",
+     "ipa": "/brɪŋ əˈbaʊt/",
+     "pos": "短语",
+     "en": "bring about means to cause something to happen",
+     "zh": "本义为\"使转过来\"（航海用语，指使船改变方向），因果关系语境核心义为\"引起、导致、促成\"",
+     "ctx": "本文特指：whose collapse brought about a recession——互联网狂热的崩塌引发了一场经济衰退",
+     "ex1": "A single downgrade brought about the funding freeze that finished the company off. 一次评级下调，引发了那场最终葬送公司的融资冻结。",
+     "ex2": "Nothing brings about consensus faster than a shared and immediate threat. 没有什么比一个共同的、迫在眉睫的威胁更能迅速促成共识。"
+    },
+    {
+     "w": "recession",
+     "ipa": "/rɪˈseʃn/",
+     "pos": "n.",
+     "en": "recession (n.) means a period of temporary economic decline, technically defined as two consecutive quarters of falling GDP",
+     "zh": "本义为\"往回走\"（re- 回+ cedere 走，同族proceed、process），宏观经济周期语境核心义为\"经济衰退\"",
+     "ctx": "本文特指：2000-01年互联网泡沫破裂后引发的那场美国经济衰退——作者以此强调这不只是股民亏钱，而是拖垮了整个经济",
+     "ex1": "Two consecutive quarters of contraction put the economy formally in recession. 连续两个季度萎缩，使该经济体正式进入衰退。",
+     "ex2": "Recession-proof is a phrase that survives every recession and describes almost nothing. \"抗衰退\"这个说法能挺过每一次衰退，却几乎什么都描述不了。"
+    }
+   ]
+  },
+  {
+   "en_html": "Look more closely, however, and the worries are mostly <mark class=\"voc\">unjustified</mark>. If Nvidia’s bets on AI <mark class=\"voc\">come good</mark>, they could accelerate the technology’s adoption, boosting productivity and living standards. If they <mark class=\"voc\">misfire</mark>, the cost will <mark class=\"voc\">fall</mark> chiefly on Nvidia’s shareholders. That is how capitalism is supposed to work.",
+   "zh": "然而，若凑近细看，这些忧虑大多站不住脚。倘若英伟达押在AI上的这些赌注最终赌对了，它们将加速这项技术的普及，从而拉动生产率与生活水平的提升；倘若赌砸了，代价则主要由英伟达自己的股东承担。而这，正是资本主义本该有的运作方式。",
+   "notes": [
+    {
+     "w": "unjustified",
+     "ipa": "/ʌnˈdʒʌstɪfaɪd/",
+     "pos": "adj.",
+     "en": "unjustified (adj.) means not supported by good reasons or evidence",
+     "zh": "本义为\"未被证明为正当的\"（un- 否定+ justify 证明合理），论证与评价语境核心义为\"站不住脚的、缺乏根据的\"",
+     "ctx": "本文特指：the worries are mostly unjustified——作者的核心反驳；注意mostly这个限定词，他没把话说死",
+     "ex1": "The panic proved unjustified, but by the time anyone checked, the damage was done. 事后证明这场恐慌毫无根据，可等到有人去核实时，损失已经造成。",
+     "ex2": "He called the downgrade unjustified and produced three years of cashflow data to say why. 他称此次评级下调毫无道理，并拿出三年的现金流数据来说明理由。"
+    },
+    {
+     "w": "come good",
+     "ipa": "/kʌm ɡʊd/",
+     "pos": "固定短语",
+     "en": "come good means to succeed or turn out well in the end, especially after a period of doubt or difficulty",
+     "zh": "本义为\"最终变好\"，投资与结果评判语境核心义为\"赌对了、修成正果、最终成了\"",
+     "ctx": "本文特指：If Nvidia's bets on AI come good——如果英伟达押在AI上的赌注最终应验；该短语自带\"此前不被看好\"的前情，英式英语和体育解说中尤为常见",
+     "ex1": "After four years of losses the strategy finally came good, and everyone who had doubted it stayed quiet. 熬了四年亏损，这套策略终于奏效了，当初唱衰的人都不吭声了。",
+     "ex2": "If the trial comes good, the company is worth ten times today's price; if not, nothing. 临床试验要是成了，这家公司值今天股价的十倍；不成，就是零。"
+    },
+    {
+     "w": "misfire",
+     "ipa": "/ˌmɪsˈfaɪər/",
+     "pos": "v.",
+     "en": "misfire (v.) means (of a plan, joke or action) to fail to produce the intended result",
+     "zh": "本义为\"（枪）哑火、（引擎）点火失败\"（mis- 错误+ fire 开火），计划与决策语境核心义为\"落空、砸了、没奏效\"",
+     "ctx": "本文特指：If they misfire——与上一句的come good构成刻意的反义对照，一个\"赌对了\"，一个\"哑火了\"",
+     "ex1": "The rebrand misfired so badly that the old logo was back within a year. 这次品牌重塑砸得太彻底，不到一年旧标志就回来了。",
+     "ex2": "An attempt at humour misfired in front of an audience that had just been laid off. 面对一群刚被裁员的听众，那点幽默彻底冷了场。"
+    },
+    {
+     "w": "fall on",
+     "ipa": "/fɔːl ɑːn/",
+     "pos": "短语",
+     "en": "if a cost or burden falls on someone, they are the ones who have to bear it",
+     "zh": "本义为\"落在……上面\"，责任与成本分担语境核心义为\"（代价、负担）由……承担\"",
+     "ctx": "本文特指：the cost will fall chiefly on Nvidia's shareholders——这是全文论点的核心，赌输了赔的是股东的钱，不是纳税人的钱；第11段的it is their money on the line与之首尾呼应",
+     "ex1": "When a bank fails, the losses eventually fall on someone; the only question is who. 银行倒闭时，损失终究要落到某个人头上，问题只在于是谁。",
+     "ex2": "The cleanup bill fell on a municipality with no realistic means of paying it. 清理费用落到了一个根本无力支付的市政当局头上。"
+    }
+   ]
+  },
+  {
+   "en_html": "True, the dotcom and AI booms share <mark class=\"voc\">unnerving</mark> similarities: an exciting new technology, an epic <mark class=\"voc\">bull run</mark>, <mark class=\"voc\">hubristic</mark> tech bosses. Nvidia’s rise from seller of chips to video-gamers and cryptocurrency miners to <mark class=\"voc\">linchpin</mark> of the economy has been so rapid that many people have yet to learn how to say its name (“en-vidia”, not “nuh-vidia”). Just as Cisco’s sales of routers and switches <mark class=\"voc\">presupposed</mark> <mark class=\"voc\">exponential</mark> growth in web traffic, Nvidia’s GPU revenues <mark class=\"voc\">assume</mark> endless demand for AI tokens.",
+   "zh": "诚然，互联网泡沫与AI热潮之间，有些相似之处着实令人心里发毛：一项激动人心的新技术、一轮史诗级的牛市、一群狂妄自大的科技巨头。英伟达从当年给游戏玩家和加密矿工卖芯片的公司，一路蹿升为整个经济的命脉，速度之快，以至于许多人至今还没学会它的名字该怎么念（是\"en-vidia\"，不是\"nuh-vidia\"）。正如当年思科的路由器与交换机生意，其前提是网络流量将呈指数级增长；今天英伟达的GPU营收，同样假定了世人对AI token的需求永无止境。",
+   "notes": [
+    {
+     "w": "unnerving",
+     "ipa": "/ʌnˈnɜːrvɪŋ/",
+     "pos": "adj.",
+     "en": "unnerving (adj.) means causing someone to feel uneasy, anxious or slightly frightened",
+     "zh": "本义为\"卸掉某人的胆量\"（un- 去除+ nerve 神经／胆量），氛围与心理感受语境核心义为\"令人心里发毛的、瘆得慌的\"",
+     "ctx": "本文特指：unnerving similarities——不是明确的恐惧，而是\"哪里说不上来的不对劲\"，正是作者要传达的那种感觉",
+     "ex1": "There was an unnerving calm in the trading room, the kind that precedes a very bad morning. 交易室里弥漫着一种让人发毛的平静，那种预示着糟糕清晨的平静。",
+     "ex2": "The model's predictions were unnervingly accurate, which made everyone trust it more than they should have. 这个模型的预测准得让人发毛，结果所有人都比应该的更加信任它。"
+    },
+    {
+     "w": "bull run / bear market",
+     "ipa": "/bʊl rʌn/",
+     "pos": "固定短语",
+     "en": "a bull run means a sustained period of rising asset prices; a bear market means a sustained period of falling prices",
+     "zh": "本义源自动物攻击姿态——牛用角向上挑，熊用掌向下拍，证券市场语境核心义为\"牛市／熊市\"",
+     "ctx": "本文特指：an epic bull run，作者列举的互联网泡沫与AI热潮的第二个共同点",
+     "ex1": "The bull run has lasted long enough that a whole cohort of traders has never seen a drawdown. 这轮牛市持续得够久，以至于整整一代交易员从没见过回撤。",
+     "ex2": "Analysts turned bearish only after the index had already fallen a fifth. 直到指数已经跌了两成，分析师们才转为看空。"
+    },
+    {
+     "w": "hubris",
+     "ipa": "/ˈhjuːbrɪs/",
+     "pos": "n.",
+     "en": "hubris (n.) means excessive pride or self-confidence, especially the kind that invites downfall",
+     "zh": "本义源自古希腊语，指凡人狂妄到僭越神明的界限——在希腊悲剧中，hubris必然招来复仇女神Nemesis的惩罚（而罗马人正是把Nemesis称作Invidia，即Nvidia一名的来源），人物评价与商业失败复盘语境核心义为\"狂妄自大\"",
+     "ctx": "本文特指：hubristic tech bosses，作者列举的第三个共同点——两轮泡沫中都有一批自负到没边的科技老板",
+     "ex1": "The acquisition is now taught in business schools as a case study in hubris. 这笔收购如今被商学院当作狂妄自大的经典案例来讲。",
+     "ex2": "What began as confidence curdled into hubris somewhere around the third record quarter. 最初的自信，大约在第三个创纪录的季度前后，变质成了狂妄。"
+    },
+    {
+     "w": "linchpin",
+     "ipa": "/ˈlɪntʃpɪn/",
+     "pos": "n.",
+     "en": "linchpin (n.) means the single most essential part of a system, on which everything else depends",
+     "zh": "本义为古代马车轴端的那根小销子——不起眼，但一拔掉整个车轮就会飞出去，体系与依赖关系语境核心义为\"命脉、关键支点\"",
+     "ctx": "本文特指：linchpin of the economy——英伟达已从游戏显卡供应商变成整个经济的命脉；该词自带\"就靠这一根\"的脆弱含义",
+     "ex1": "One fabrication plant in Taiwan is the linchpin of an industry worth six hundred billion dollars. 台湾的一座晶圆厂，是一个六千亿美元产业的命脉所在。",
+     "ex2": "She was the linchpin of the team, which nobody appreciated until she left. 她是这支队伍的主心骨——这一点直到她走了才有人体会到。"
+    },
+    {
+     "w": "presuppose",
+     "ipa": "/ˌpriːsəˈpoʊz/",
+     "pos": "v.",
+     "en": "presuppose (v.) means to require something as a necessary prior condition; to assume beforehand that something is true",
+     "zh": "本义为\"事先假定\"（pre- 提前+ suppose 假定），逻辑前提语境核心义为\"以……为前提（不是主观认为，而是逻辑上必须成立）\"",
+     "ctx": "本文特指：Cisco's sales presupposed exponential growth in web traffic——思科的整个商业模式，地基就架在\"网络流量将指数级增长\"这个前提上；与下句的assume形成精细区分",
+     "ex1": "The entire business plan presupposes that regulators will not intervene for at least five years. 整份商业计划的前提是，监管机构至少五年内不会介入。",
+     "ex2": "The question presupposes a failure that has not been established. 这个问题本身就预设了一个尚未被证实的失误。"
+    },
+    {
+     "w": "exponential",
+     "ipa": "/ˌekspəˈnenʃl/",
+     "pos": "adj.",
+     "en": "exponential (adj.) means increasing at an ever-accelerating rate",
+     "zh": "本义源自数学的\"指数\"（exponent），增长曲线语境核心义为\"指数级的、越涨越快的\"",
+     "ctx": "本文特指：exponential growth in web traffic——正是这个假设支撑了思科当年的估值；每一轮科技泡沫的核心信念，都是某样东西会指数级涨下去且永不停止",
+     "ex1": "Nothing grows exponentially forever, but plenty of valuations are priced as though it will. 没有什么能永远指数级增长，但不少估值就是照着\"会\"来定价的。",
+     "ex2": "What looks exponential over three years often turns out to be an S-curve over ten. 三年里看着像指数曲线的东西，放到十年往往就是一条S形曲线。"
+    },
+    {
+     "w": "assume",
+     "ipa": "/əˈsuːm/",
+     "pos": "v.",
+     "en": "assume (v.) means to accept something as true without proof",
+     "zh": "本义为\"取来、承担\"，判断与推理语境核心义为\"（主观地）假定、想当然认为\"",
+     "ctx": "本文特指：Nvidia's GPU revenues assume endless demand for AI tokens——英伟达的营收假定了对AI token的需求永无止境；与presuppose的区别在于assume是\"我认为\"，presuppose是\"逻辑上必须\"",
+     "ex1": "Never assume the buyer has read the same footnotes you have. 永远别想当然地以为买家读过你读的那些附注。",
+     "ex2": "The forecast assumes no supply disruption, which in this industry is a heroic assumption. 这份预测假定供应不会中断，而在这个行业里，这是个极其大胆的假设。"
+    }
+   ]
+  },
+  {
+   "en_html": "Today it is the <mark class=\"voc\">pace</mark> of AI adoption that is hard to <mark class=\"voc\">forecast</mark>. If it does not soon <mark class=\"voc\">soar</mark>, Nvidia’s customers may <mark class=\"voc\">call in</mark> the guarantees just as the chipmaker’s own sales <mark class=\"voc\">nosedive</mark>.",
+   "zh": "而今真正难以预判的，恰恰是AI普及的节奏。这个节奏若不能尽快提速，英伟达的客户便可能上门要求兑现担保——而与此同时，这家芯片巨头自己的销售额，正一头栽下去。",
+   "notes": [
+    {
+     "w": "pace",
+     "ipa": "/peɪs/",
+     "pos": "n.",
+     "en": "pace (n.) means the speed at which something happens, develops or is done",
+     "zh": "本义为\"步伐、一步的距离\"，发展节奏语境核心义为\"速度、节奏\"",
+     "ctx": "本文特指：the pace of AI adoption is hard to forecast——这是全文的关键变量。作者的精确切割在于：思科当年对需求方向的判断是对的，错的是节奏，而在生意场上早三年和晚三年是生死之别",
+     "ex1": "Wages have not kept pace with rents in any of the twelve cities surveyed. 在受访的十二个城市中，没有一个城市的工资跟上了房租。",
+     "ex2": "The pace of approvals, not the science, is what determines who reaches the market first. 决定谁先上市的不是科学，而是审批的节奏。"
+    },
+    {
+     "w": "forecast",
+     "ipa": "/ˈfɔːrkæst/",
+     "pos": "v./n.",
+     "en": "forecast (v./n.) means to predict a future event on the basis of present data and models",
+     "zh": "本义为\"提前投掷\"（fore- 提前+ cast 投），预测与建模语境核心义为\"（基于数据的）预测\"",
+     "ctx": "本文特指：the pace of AI adoption that is hard to forecast；与predict的差别在于forecast更强调有数据模型作依据，故天气预报为weather forecast",
+     "ex1": "The company cut its full-year forecast twice in six weeks, which told investors more than any statement could. 这家公司六周内两次下调全年预测，这比任何声明都更能说明问题。",
+     "ex2": "Forecasting demand is easy; forecasting the date on which it arrives is the hard part. 预测需求不难，难的是预测它哪一天到来。"
+    },
+    {
+     "w": "soar",
+     "ipa": "/sɔːr/",
+     "pos": "v.",
+     "en": "soar (v.) means to rise very quickly to a high level",
+     "zh": "本义为鸟类展翅盘旋上升（不扇动翅膀的滑翔攀升），数值与价格语境核心义为\"飙升、直线上冲\"",
+     "ctx": "本文特指：If it does not soon soar——如果AI普及的速度不能很快飙升；与本段末尾的nosedive构成一升一坠的飞行意象对仗",
+     "ex1": "Power prices soared the moment three data centres came online in the same county. 三座数据中心在同一个县同时投运，电价应声飙升。",
+     "ex2": "Soaring insurance costs have quietly become the largest line item on the balance sheet. 飞涨的保险成本，已经悄然成为资产负债表上最大的一个科目。"
+    },
+    {
+     "w": "call in",
+     "ipa": "/kɔːl ɪn/",
+     "pos": "短语",
+     "en": "to call in a loan or guarantee means to formally demand repayment or require the guarantor to pay",
+     "zh": "本义为\"叫进来、召回\"，信贷与担保语境核心义为\"要求兑现（担保）、提前收回（贷款）\"",
+     "ctx": "本文特指：Nvidia's customers may call in the guarantees——如果AI需求不能及时爆发，客户还不上钱，债权方就会要求英伟达履行担保义务，这意味着英伟达要真金白银往外掏钱；这是第3段guarantee伏笔的引爆点",
+     "ex1": "The moment the covenant was breached, the lenders called in the loan. 契约条款一被违反，贷款方立刻要求提前收回贷款。",
+     "ex2": "A guarantee that is never called in costs nothing; the trouble is you cannot know in advance which kind you signed. 永远不被要求兑现的担保一分钱不花，麻烦在于你事先无从知道自己签的是哪一种。"
+    },
+    {
+     "w": "nosedive",
+     "ipa": "/ˈnoʊzdaɪv/",
+     "pos": "v./n.",
+     "en": "nosedive (v./n.) means to fall suddenly and steeply",
+     "zh": "本义为飞机机头朝下的俯冲（nose 机头+ dive 俯冲），业绩与价格语境核心义为\"暴跌、一头栽下去\"",
+     "ctx": "本文特指：the chipmaker's own sales nosedive——在客户要求兑现担保的同时，英伟达自己的销售额也在断崖式下跌；作者刻意让soar与nosedive在同一段落对仗",
+     "ex1": "Bookings nosedived the week the export licence was suspended. 出口许可被暂停的那一周，订单量一头栽了下去。",
+     "ex2": "Consumer confidence took a nosedive that no amount of advertising could arrest. 消费者信心急转直下，砸多少广告都拉不住。"
+    }
+   ]
+  }
+ ]
+}

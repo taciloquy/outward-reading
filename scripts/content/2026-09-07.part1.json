@@ -1,0 +1,307 @@
+{
+ "date": "2026-09-07",
+ "title_tag": "中美“太空战”已经不是科幻片了：卫星开始互相追逐，甚至能直接抓走对方—— 英国《路透社》外刊讲解第1159天",
+ "h1": "中美“太空战”已经不是科幻片了：卫星开始互相追逐，甚至能直接抓走对方",
+ "source_label": "Reuters",
+ "category": "英国路透社外刊讲解 第1159天",
+ "read_minutes": 18,
+ "nav_hint": "US, China arm for space warfare",
+ "headline": {
+  "en_html": "<span>US, China arm for space <mark class=\"voc\">warfare</mark></span> — <span><mark class=\"voc\">hunter</mark> satellites and <mark class=\"voc\">orbital</mark> weapons</span>",
+  "zh": "美中为太空战争武装——猎杀卫星与轨道武器",
+  "notes": [
+   {
+    "w": "warfare",
+    "ipa": "/ˈwɔːrfeə(r)/",
+    "pos": "n.",
+    "en": "the activity of fighting a war or preparing for war, especially involving particular methods or settings",
+    "zh": "战争，作战，战争形态",
+    "ctx": "太空战争这一新型作战形态，强调国家间在空间领域展开的武装对抗与军事竞争",
+    "ex1": "Modern naval warfare relies heavily on satellite navigation and missile defense systems. 现代海战高度依赖卫星导航和导弹防御系统。",
+    "ex2": "The development of artificial intelligence is set to transform the nature of future warfare. 人工智能的发展将改变未来战争的性质。"
+   },
+   {
+    "w": "hunter",
+    "ipa": "/ˈhʌntə(r)/",
+    "pos": "n.",
+    "en": "a person, animal, or vehicle designed to pursue and capture or destroy a target",
+    "zh": "猎手，猎杀者，追踪者",
+    "ctx": "指专门设计用于追踪、接近甚至捕获或摧毁敌方航天器的“猎手卫星”",
+    "ex1": "The navy deployed a new submarine hunter to track enemy vessels in the Pacific. 海军部署了一艘新型猎潜舰在太平洋追踪敌方舰艇。",
+    "ex2": "These hunter drones are programmed to identify and follow hostile aircraft automatically. 这些猎手无人机被编程为自动识别并跟踪敌方飞行器。"
+   },
+   {
+    "w": "orbital",
+    "ipa": "/ˈɔːbɪtl/",
+    "pos": "adj.",
+    "en": "relating to an orbit or the movement of objects around a planet or star",
+    "zh": "轨道的，与轨道相关的",
+    "ctx": "部署在太空轨道上、能够在轨道环境中执行作战任务的武器系统",
+    "ex1": "The company plans to launch a new orbital laboratory for scientific experiments. 该公司计划发射一个新的轨道实验室用于科学实验。",
+    "ex2": "Orbital debris poses a growing threat to manned space missions. 轨道碎片对载人航天任务构成日益严重的威胁。"
+   }
+  ]
+ },
+ "paragraphs": [
+  {
+   "en_html": "In June, a <mark class=\"voc\">secretive</mark> <mark class=\"voc\">unmanned</mark> Chinese spaceplane monitored by U.S. military analysts released a small satellite hundreds of miles above Earth. The object then <mark class=\"voc\">looped around</mark> another Chinese satellite before returning towards the spaceplane, according to U.S. space-tracking firm LeoLabs. <mark class=\"voc\">Little is known about</mark> the satellite or the mission. But the U.S. military operates a similarly secretive <mark class=\"voc\">uncrewed</mark> spaceplane. Both programs reflect the rapidly evolving field of military space operations as Beijing and Washington prepare for the possibility of conflict extending into space.",
+   "zh": "今年6月，一架受到美国军事分析人员监测、行踪神秘的中国无人航天飞机，在距离地球数百英里的高空释放了一颗小型卫星。据美国太空追踪公司LeoLabs称，这个物体随后绕着另一颗中国卫星飞行了一圈，之后又返回航天飞机附近。关于这颗卫星以及此次任务，目前外界所知甚少。不过，美国军方同样运行着一款高度保密的无人航天飞机。随着北京和华盛顿为冲突可能延伸至太空的局面做准备，这两个项目都折射出军事太空行动这一领域正在迅速演变。",
+   "notes": [
+    {
+     "w": "secretive",
+     "ipa": "/ˈsiːkrətɪv/",
+     "pos": "adj.",
+     "en": "deliberately not telling people things or keeping activities hidden from public view",
+     "zh": "神秘的，守口如瓶的，行事隐秘的",
+     "ctx": "形容中国的无人空天飞机项目高度保密，外界对其任务细节知之甚少",
+     "ex1": "The government agency is notoriously secretive about its intelligence operations. 该政府机构对其情报行动守口如瓶是出了名的。",
+     "ex2": "The company remained secretive about the purpose of its new research facility. 该公司对其新研究设施的用途保持隐秘。"
+    },
+    {
+     "w": "unmanned",
+     "ipa": "/ˌʌnˈmænd/",
+     "pos": "adj.",
+     "en": "operating without a human crew on board; controlled remotely or autonomously",
+     "zh": "无人的，无人驾驶的，无人操控的",
+     "ctx": "不搭载飞行员的空天飞机，通过远程操控或自主程序执行任务",
+     "ex1": "The military uses unmanned aircraft for reconnaissance missions in dangerous areas. 军方使用无人飞行器在危险区域执行侦察任务。",
+     "ex2": "An unmanned cargo ship successfully docked with the space station last month. 一艘无人货运飞船上月成功与空间站对接。"
+    },
+    {
+     "w": "loop around",
+     "ipa": "/luːp əˈraʊnd/",
+     "pos": "phr.",
+     "en": "to move in a curved path around something and return near the starting point",
+     "zh": "绕圈飞行，环绕运动",
+     "ctx": "卫星以绕行方式接近并环绕另一颗航天器飞行，展示机动变轨能力",
+     "ex1": "The reconnaissance drone looped around the enemy base before returning to its launch site. 侦察无人机绕敌方基地盘旋一圈后返回发射点。",
+     "ex2": "The spacecraft looped around the moon to gain speed for its journey to Mars. 航天器绕月球飞行以获取前往火星所需的速度。"
+    },
+    {
+     "w": "little is known about...",
+     "ipa": "/ˈlɪtl ɪz nəʊn əˈbaʊt/",
+     "pos": "phr.",
+     "en": "there is very little information or understanding available about something",
+     "zh": "对……知之甚少，关于……的信息很少",
+     "ctx": "外界对这颗中国卫星及其任务几乎一无所知，强调其保密性",
+     "ex1": "Little is known about the long-term effects of this new chemical on human health. 人们对这种新化学品对人体健康的长期影响知之甚少。",
+     "ex2": "Although the civilization flourished for centuries, little is known about its language and customs. 尽管这一文明繁盛了数个世纪，人们对其语言和习俗却知之甚少。"
+    },
+    {
+     "w": "uncrewed",
+     "ipa": "/ʌnˈkruːd/",
+     "pos": "adj.",
+     "en": "operating without a crew on board; not carrying human operators",
+     "zh": "无人的，无人操控的",
+     "ctx": "与unmanned同义，指美国军方运营的同样不载人的秘密空天飞机",
+     "ex1": "The space agency launched an uncrewed mission to test the new rocket system. 航天局发射了一次无人任务来测试新火箭系统。",
+     "ex2": "Uncrewed cargo vessels regularly deliver supplies to the international space station. 无人货船定期向国际空间站运送补给。"
+    }
+   ]
+  },
+  {
+   "en_html": "Chinese researchers linked to the military are developing technologies <mark class=\"voc\">ranging from</mark> satellites designed to pursue and even <mark class=\"voc\">capture</mark> other spacecraft to systems that could extend fuel supplies while doing so, according to documents reviewed by Reuters. The United States and Britain have also <mark class=\"voc\">conducted</mark> their first <mark class=\"voc\">joint</mark> military operation in space in the path of a suspected Chinese spy satellite. U.S. Space Force chief General Chance Saltzman said China was rapidly developing ground- and space-based weapons designed to <mark class=\"voc\">interfere with</mark> or destroy targets.",
+   "zh": "据路透社查阅的文件显示，与中国军方有关联的研究人员正在开发一系列技术，从能够追踪、甚至捕获其他航天器的卫星，到能够在执行此类任务时延长燃料供应的系统。与此同时，美国和英国也已经开展了两国首次太空联合军事行动，而行动轨迹恰好经过一颗疑似中国间谍卫星附近。美国太空军司令钱斯·萨尔茨曼上将表示，中国正在迅速发展陆基和天基武器，其设计目的就是干扰甚至摧毁目标。",
+   "notes": [
+    {
+     "w": "range from...to...",
+     "ipa": "/reɪndʒ frɒm...tuː/",
+     "pos": "phr.",
+     "en": "to include a variety of different things or possibilities within specified limits",
+     "zh": "范围从……到……，涵盖……到……",
+     "ctx": "中国军方相关研究人员开发的技术种类广泛，从追踪卫星到捕获航天器不一而足",
+     "ex1": "The course covers topics ranging from basic programming to advanced artificial intelligence. 该课程涵盖从基础编程到高级人工智能的各类主题。",
+     "ex2": "The company's products range from consumer electronics to industrial machinery. 该公司的产品范围从消费电子产品到工业机械。"
+    },
+    {
+     "w": "capture",
+     "ipa": "/ˈkæptʃə(r)/",
+     "pos": "vt.",
+     "en": "to take control of or seize something, often by force",
+     "zh": "捕获，夺取，控制",
+     "ctx": "指卫星通过机械臂、网兜等手段抓住并控制其他航天器",
+     "ex1": "The navy's new system is designed to capture enemy drones mid-flight. 海军的新系统旨在飞行途中捕获敌方无人机。",
+     "ex2": "Scientists used a robotic arm to capture the damaged satellite for repairs. 科学家使用机械臂捕获受损卫星进行维修。"
+    },
+    {
+     "w": "conduct",
+     "ipa": "/kənˈdʌkt/",
+     "pos": "vt.",
+     "en": "to organize and carry out a particular activity or operation",
+     "zh": "实施，进行，执行",
+     "ctx": "美英两国在太空实施了首次联合军事行动",
+     "ex1": "The military conducted a series of exercises in the South China Sea last month. 军方上月在南中国海进行了一系列演习。",
+     "ex2": "The research team conducted extensive experiments to verify the new theory. 研究团队进行了大量实验来验证这一新理论。"
+    },
+    {
+     "w": "joint",
+     "ipa": "/dʒɔɪnt/",
+     "pos": "adj.",
+     "en": "involving two or more parties working together",
+     "zh": "联合的，共同的",
+     "ctx": "美英两国共同参与的太空军事行动，展示盟友间的协调与配合",
+     "ex1": "The two countries launched a joint military exercise near the border. 两国在边境附近举行了一次联合军事演习。",
+     "ex2": "The joint research project between the two universities received government funding. 两所大学之间的联合研究项目获得了政府资助。"
+    },
+    {
+     "w": "interfere with",
+     "ipa": "/ˌɪntəˈfɪə(r) wɪð/",
+     "pos": "phr.",
+     "en": "to prevent something from working effectively or from developing normally; to disrupt or damage",
+     "zh": "干扰，妨碍，破坏",
+     "ctx": "中国正在研发的地面和太空武器旨在干扰甚至摧毁美国太空目标",
+     "ex1": "The storm interfered with radio communications across the region. 暴风雨干扰了整个地区的无线电通信。",
+     "ex2": "Strong electromagnetic signals can interfere with aircraft navigation systems. 强烈的电磁信号会干扰飞机导航系统。"
+    }
+   ]
+  },
+  {
+   "en_html": "Satellites have become <mark class=\"voc\">indispensable</mark> to modern warfare. For decades they have provided communications, navigation and intelligence services to armed forces on Earth and typically remained on fixed paths once in orbit. Increasingly, however, militaries view them as active weapons platforms capable of launching attacks by disrupting another satellite through <mark class=\"voc\">jamming</mark> or <mark class=\"voc\">laser</mark> <mark class=\"voc\">dazzling</mark>, or even capturing enemy spacecraft. Disruption of U.S. space capabilities could affect everything from <mark class=\"voc\">surveillance</mark> to missile defense.",
+   "zh": "卫星已经成为现代战争中不可或缺的一部分。几十年来，卫星一直为地面部队提供通信、导航和情报服务，而且一旦进入轨道，通常都会沿着固定路径运行。然而，各国军方正越来越多地将卫星视为主动型武器平台：它们可以通过干扰信号或使用激光致盲的方式破坏另一颗卫星的运行，甚至直接捕获敌方航天器。美国的太空能力一旦遭到破坏，受到影响的领域可能从监视侦察一直延伸到导弹防御。",
+   "notes": [
+    {
+     "w": "indispensable",
+     "ipa": "/ˌɪndɪˈspensəbl/",
+     "pos": "adj.",
+     "en": "absolutely necessary; essential and cannot be done without",
+     "zh": "不可或缺的，必不可少的",
+     "ctx": "卫星已成为现代战争不可或缺的组成部分，军队对其依赖程度极高",
+     "ex1": "Satellite navigation has become indispensable to global shipping and logistics. 卫星导航已成为全球航运和物流不可或缺的一部分。",
+     "ex2": "Reliable communication systems are indispensable for coordinating disaster relief efforts. 可靠的通信系统对于协调救灾工作必不可少。"
+    },
+    {
+     "w": "jamming",
+     "ipa": "/ˈdʒæmɪŋ/",
+     "pos": "n.",
+     "en": "the act of interfering with radio or electronic signals to prevent them from being received clearly",
+     "zh": "电子干扰，信号干扰",
+     "ctx": "通过发射干扰信号阻断或破坏敌方卫星通信和导航能力的一种攻击手段",
+     "ex1": "The military deployed jamming equipment to disrupt enemy drone operations. 军方部署了干扰设备来破坏敌方无人机行动。",
+     "ex2": "GPS jamming has become a growing concern for commercial aviation safety. GPS信号干扰已成为商业航空安全日益令人担忧的问题。"
+    },
+    {
+     "w": "laser",
+     "ipa": "/ˈleɪzə(r)/",
+     "pos": "n.",
+     "en": "a device that produces an intense, highly focused beam of light, used in cutting, targeting, or blinding equipment",
+     "zh": "激光，激光器",
+     "ctx": "用于干扰或致盲敌方卫星光学传感器的定向能武器",
+     "ex1": "The new defense system uses lasers to intercept incoming missiles. 新防御系统使用激光拦截来袭导弹。",
+     "ex2": "Powerful lasers can permanently damage the optical sensors on spy satellites. 高功率激光可以永久损坏间谍卫星上的光学传感器。"
+    },
+    {
+     "w": "dazzling",
+     "ipa": "/ˈdæzlɪŋ/",
+     "pos": "n.",
+     "en": "the act of overwhelming or temporarily blinding a sensor or optical device with intense light",
+     "zh": "致盲，眩目干扰",
+     "ctx": "用强光照射卫星传感器使其暂时失灵，属于非破坏性的“软杀伤”手段",
+     "ex1": "The warship used laser dazzling to disable the approaching boat's navigation equipment. 军舰使用激光致盲手段使靠近的小艇导航设备失灵。",
+     "ex2": "Sensor dazzling can temporarily blind enemy satellites without destroying them completely. 传感器致盲可以暂时使敌方卫星失明而不将其完全摧毁。"
+    },
+    {
+     "w": "surveillance",
+     "ipa": "/sɜːˈveɪləns/",
+     "pos": "n.",
+     "en": "the careful watching of a person, place, or area, especially by military or police organizations",
+     "zh": "监视，监控，侦察",
+     "ctx": "卫星为军队提供的对地侦察和监视能力，是美国太空能力的重要组成部分",
+     "ex1": "The spy plane conducted surveillance over the disputed territory for several hours. 间谍飞机在争议领土上空进行了数小时的侦察监视。",
+     "ex2": "Satellite surveillance allows militaries to track troop movements from space. 卫星监视使军队能够从太空追踪部队调动。"
+    }
+   ]
+  },
+  {
+   "en_html": "The competition comes as Earth’s orbit becomes increasingly crowded. SpaceX operates about 11,000 Starlink satellites, China is building rival networks, and U.S. President Donald Trump’s Golden <mark class=\"voc\">Dome</mark> missile defense program <mark class=\"voc\">envisions</mark> space-based <mark class=\"voc\">interceptors</mark>. In a joint U.S.-British operation last year, U.S. space forces directed a military satellite to <mark class=\"voc\">swoop</mark> close to a UK one as China’s Shiyan 12-01 satellite passed beneath them. Experts told Reuters the operation appeared <mark class=\"voc\">intended as</mark> a strategic signal to Beijing, demonstrating allied unity and capability.",
+   "zh": "这场竞争发生之际，地球轨道正变得越来越拥挤。SpaceX运营着大约1.1万颗星链卫星，中国正在建设与之竞争的卫星网络，而美国总统唐纳德·特朗普提出的“金穹”导弹防御计划则设想部署天基拦截器。在去年美英两国的一次联合行动中，当中国“试验十二号01星”从下方经过时，美国太空部队指挥一颗军用卫星迅速靠近一颗英国卫星。专家向路透社表示，这次行动似乎意在向北京释放战略信号，展示美英盟友之间的团结以及双方所具备的太空行动能力。",
+   "notes": [
+    {
+     "w": "dome",
+     "ipa": "/dəʊm/",
+     "pos": "n.",
+     "en": "a rounded roof or protective covering shaped like half a sphere",
+     "zh": "穹顶，圆顶",
+     "ctx": "特朗普提出的“金穹”导弹防御计划，暗示覆盖全美的保护罩式防御体系",
+     "ex1": "The cathedral's golden dome can be seen from miles away. 大教堂的金色穹顶数英里外都能看到。",
+     "ex2": "The proposed missile shield would create a protective dome over the entire country. 拟议中的导弹防护罩将在全国上空形成保护穹顶。"
+    },
+    {
+     "w": "envision",
+     "ipa": "/ɪnˈvɪʒn/",
+     "pos": "vt.",
+     "en": "to imagine or picture something as a possibility for the future",
+     "zh": "设想，构想，展望",
+     "ctx": "金穹计划设想在太空部署拦截器，以构建天基导弹防御系统",
+     "ex1": "The company envisions a future where all cars are fully autonomous. 该公司设想的未来是所有汽车都完全自动驾驶。",
+     "ex2": "Military planners envision a network of satellites that can respond to threats in real time. 军事规划人员构想了一个能实时应对威胁的卫星网络。"
+    },
+    {
+     "w": "interceptor",
+     "ipa": "/ˌɪntəˈseptə(r)/",
+     "pos": "n.",
+     "en": "a weapon or vehicle designed to stop or destroy enemy aircraft, missiles, or other threats before they reach their target",
+     "zh": "拦截器，拦截弹，截击机",
+     "ctx": "计划部署在太空轨道上用于拦截来袭导弹的天基武器系统",
+     "ex1": "The air force scrambled interceptor jets to confront the unidentified aircraft. 空军紧急起飞拦截战斗机应对不明飞机。",
+     "ex2": "The new missile interceptor successfully destroyed its target in a test flight. 新型导弹拦截器在试飞中成功摧毁了目标。"
+    },
+    {
+     "w": "swoop",
+     "ipa": "/swuːp/",
+     "pos": "vi.",
+     "en": "to move quickly and suddenly downwards or towards something, often in a curved path",
+     "zh": "俯冲，猛扑，快速接近",
+     "ctx": "美军卫星以突然而迅速的方式靠近英国卫星，展示太空机动能力",
+     "ex1": "The hawk swooped down to catch its prey in the field. 鹰俯冲而下抓捕田野中的猎物。",
+     "ex2": "The fighter jet swooped low over the enemy radar station. 战斗机低空掠过敌方雷达站。"
+    },
+    {
+     "w": "intended as",
+     "ipa": "/ɪnˈtendɪd æz/",
+     "pos": "phr.",
+     "en": "designed or meant to serve a particular purpose or send a particular message",
+     "zh": "意在作为，旨在成为",
+     "ctx": "这次联合行动意在向北京发出战略信号，展示盟友团结与太空作战能力",
+     "ex1": "The ambassador's visit was intended as a gesture of goodwill between the two nations. 大使的访问意在作为两国间善意的表示。",
+     "ex2": "The military drill was intended as a warning to potential aggressors. 这次军事演习意在警告潜在侵略者。"
+    }
+   ]
+  },
+  {
+   "en_html": "The U.S. and Britain publicly announced the operation but did not <mark class=\"voc\">disclose</mark> its <mark class=\"voc\">proximity</mark> to a Chinese spacecraft. China’s foreign ministry said it was not familiar with the specific details, but said Beijing opposes the weaponization of space and supports its peaceful use, while accusing Washington of <mark class=\"voc\">stoking</mark> an arms race through efforts including Golden Dome and potential space-based weapons. Chinese state media has described Shiyan 12-01 as conducting space environment surveys.",
+   "zh": "美国和英国公开宣布了这次行动，但并未透露行动实际上曾接近一颗中国航天器。中国外交部表示不了解此次行动的具体情况，但同时称中方反对太空武器化，支持和平利用太空，并指责华盛顿通过“金穹”计划以及潜在的天基武器等项目煽动太空军备竞赛。中国官方媒体则称，“试验十二号01星”的任务是开展空间环境探测。",
+   "notes": [
+    {
+     "w": "disclose",
+     "ipa": "/dɪsˈkləʊz/",
+     "pos": "vt.",
+     "en": "to make something known publicly that was previously secret or hidden",
+     "zh": "披露，公开，透露",
+     "ctx": "美英公开宣布了这次太空行动，但没有透露其与中国航天器的近距离接触",
+     "ex1": "The company refused to disclose the details of its new defense contract. 该公司拒绝披露新国防合同的细节。",
+     "ex2": "Government officials disclosed that the satellite had suffered a major malfunction. 政府官员透露该卫星发生了严重故障。"
+    },
+    {
+     "w": "proximity",
+     "ipa": "/prɒkˈsɪməti/",
+     "pos": "n.",
+     "en": "the state of being near or close to something in distance or time",
+     "zh": "接近，邻近，近距离",
+     "ctx": "美军卫星与中国航天器在太空中的近距离接触，构成潜在的战略信号",
+     "ex1": "The two fighter jets flew in close proximity to each other during the exercise. 两架战斗机在演习中近距离飞行。",
+     "ex2": "The spy satellite passed in dangerously close proximity to a commercial spacecraft. 间谍卫星危险地近距离经过一艘商业航天器。"
+    },
+    {
+     "w": "stoke",
+     "ipa": "/stəʊk/",
+     "pos": "vt.",
+     "en": "to encourage or fuel something such as fear, anger, or an arms race",
+     "zh": "煽动，激起，加剧",
+     "ctx": "中国指责华盛顿通过金穹计划和潜在天基武器加剧太空军备竞赛",
+     "ex1": "The politician was accused of stoking racial tensions for electoral gain. 这位政客被指控为选举利益煽动种族紧张。",
+     "ex2": "The rapid buildup of naval forces has stoked fears of a regional arms race. 海军力量的迅速扩充加剧了人们对地区军备竞赛的担忧。"
+    }
+   ]
+  }
+ ]
+}

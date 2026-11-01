@@ -1,0 +1,420 @@
+{
+ "paragraphs": [
+  {
+   "en_html": "Nvidia’s financial <mark class=\"voc\">wizardry</mark> is partly <mark class=\"voc\">defensive</mark>. Its latest GPUs no longer <mark class=\"voc\">have the market to themselves</mark>. Roughly half Nvidia’s revenue comes <mark class=\"voc\">courtesy of</mark> America’s cloud-computing “hyperscalers”, chiefly Amazon, Google, Meta and Microsoft, which are designing their own <mark class=\"voc\">silicon</mark>. Non-Nvidia AI chips account for 38% of the market, up from 26% in 2023. To stay ahead, Nvidia used to spend over a fifth of sales on research and development. Now it spends less than a tenth.",
+   "zh": "英伟达的这套财技，有一部分其实是防守。它最新的GPU早已不再是市面上的独一份。约莫一半的营收，还得仰仗美国那几家云计算\"超大规模厂商\"——主要是亚马逊、谷歌、Meta与微软——而这四家，正各自埋头设计自家的芯片。非英伟达阵营的AI芯片如今已占去38%的市场，两年前这个数字还只有26%。为了守住领先，英伟达过去肯把两成以上的销售额砸进研发；而如今，这个比例不到一成。",
+   "notes": [
+    {
+     "w": "wizardry",
+     "ipa": "/ˈwɪzərdri/",
+     "pos": "n.",
+     "en": "wizardry (n.) means remarkable skill in a particular field, especially of a kind that seems almost magical",
+     "zh": "本义为\"巫术、法术\"（wizard 巫师+ -ry 技艺），专业技艺语境核心义为\"神乎其技的手法、（财务上的）财技\"",
+     "ctx": "本文特指：Nvidia's financial wizardry——指英伟达那套给客户提供现金与担保的复杂融资安排；这是全篇\"魔法词族\"的第三个词，前有magician、illusionist，作者以此维持\"看不透、玄乎\"的情绪基调",
+     "ex1": "The rescue depended less on capital than on accounting wizardry nobody wanted to describe out loud. 这场救援靠的与其说是资本，不如说是一套没人愿意说出口的会计手法。",
+     "ex2": "Behind the technical wizardry sits a supply chain that has not changed in twenty years. 在这套令人叫绝的技术背后，是一条二十年没变过的供应链。"
+    },
+    {
+     "w": "defensive",
+     "ipa": "/dɪˈfensɪv/",
+     "pos": "adj.",
+     "en": "defensive (adj.) means intended to protect oneself against attack, criticism or competitive threat",
+     "zh": "本义为\"防御的\"，企业战略语境核心义为\"防守性的、自保的\"",
+     "ctx": "本文特指：本段的钥匙词——Nvidia's financial wizardry is partly defensive。它把整篇文章的因果关系重排了一遍：英伟达不是因为膨胀才去撒钱，而是因为感到威胁才去撒钱",
+     "ex1": "The merger was defensive: neither party wanted it, and both feared what would happen without it. 这场合并是防守性的——双方都不想要，但都害怕不合并的后果。",
+     "ex2": "In a downturn investors rotate into defensive stocks such as utilities and staples. 经济下行时，投资者会转向公用事业、必需消费品这类防御性股票。"
+    },
+    {
+     "w": "have something to oneself",
+     "ipa": "/hæv ... tuː wʌnˈself/",
+     "pos": "固定短语",
+     "en": "to have something to oneself means to have exclusive use or possession of it, with nobody else sharing",
+     "zh": "本义为\"独自占有\"，市场地位语境核心义为\"独占、独一份\"",
+     "ctx": "本文特指：Its latest GPUs no longer have the market to themselves——英伟达最新的GPU已不再是市面上的唯一选择，这是它护城河被填平的直接表述",
+     "ex1": "For a decade the firm had the high-end segment entirely to itself, and priced accordingly. 十年间，高端市场完全是这家公司的独家天下，定价也就随它的意。",
+     "ex2": ""
+    },
+    {
+     "w": "courtesy of",
+     "ipa": "/ˈkɜːrtəsi əv/",
+     "pos": "固定短语",
+     "en": "courtesy of someone means provided by or thanks to them, sometimes with an ironic undertone",
+     "zh": "本义为\"承蒙……的好意\"（courtesy 礼貌、恩惠），来源与归功语境核心义为\"多亏了……、承蒙……所赐（常带反讽）\"",
+     "ctx": "本文特指：half Nvidia's revenue comes courtesy of America's hyperscalers——一半营收\"仰仗\"那四家云巨头；结合下一句\"而这四家正在自研芯片\"，这里的\"承蒙\"读起来颇有几分苦涩",
+     "ex1": "The entire quarter's growth came courtesy of one customer that has just announced it is building in-house. 整个季度的增长都仰仗一个客户，而这个客户刚刚宣布要自建产能。",
+     "ex2": "A record harvest, courtesy of weather no forecaster saw coming. 一场创纪录的丰收——承蒙了没有任何预报员预见到的天气。"
+    },
+    {
+     "w": "silicon",
+     "ipa": "/ˈsɪlɪkən/",
+     "pos": "n.",
+     "en": "silicon (n.) means the chemical element from which computer chips are made, and is commonly used to refer to the chips themselves",
+     "zh": "本义为化学元素\"硅\"，半导体产业语境核心义为\"芯片、半导体（借代用法）\"",
+     "ctx": "本文特指：hyperscalers ... are designing their own silicon——亚马逊、谷歌、Meta、微软正在自研芯片，分别是Trainium/Inferentia、TPU、MTIA、Maia。注意silicon与silicone（硅胶）拼写不同，不可混淆",
+     "ex1": "Designing custom silicon costs a fortune and takes four years, which is precisely why so few try. 自研定制芯片要花巨资、耗时四年，这正是尝试者寥寥的原因。",
+     "ex2": "Every hyperscaler now has a silicon team it did not have a decade ago. 如今每家超大规模云厂商都有一支芯片团队，十年前它们一支都没有。"
+    }
+   ]
+  },
+  {
+   "en_html": "Yet the differences from the dotcom boom are more important than the similarities. Nvidia’s <mark class=\"voc\">balance-sheet</mark> is extraordinarily <mark class=\"voc\">robust</mark>. The company has $99bn of cash and is <mark class=\"voc\">churning out</mark> more. In each of the past three years annual sales have roughly doubled. <mark class=\"voc\">Gross margins</mark> have <mark class=\"voc\">fattened</mark> from less than 60% to 75%.",
+   "zh": "然而，AI热潮与当年互联网泡沫之间的差异，远比那些相似之处更值得看重。英伟达的资产负债表稳健得惊人：账上躺着990亿美元现金，且仍在源源不断地生出更多；过去三年，年销售额几乎年年翻番；毛利率则从不足六成，一路养到了七成半。",
+   "notes": [
+    {
+     "w": "balance sheet",
+     "ipa": "/ˈbæləns ʃiːt/",
+     "pos": "固定短语",
+     "en": "balance sheet means a financial statement showing what a company owns, what it owes, and what belongs to its shareholders at a given moment",
+     "zh": "本义为\"平衡表\"（资产恒等于负债加所有者权益，故称balance），公司财务分析语境核心义为\"资产负债表\"",
+     "ctx": "本文特指：Nvidia's balance-sheet is extraordinarily robust——注意作者调用的是资产负债表而非利润表：利润表看\"跑得多快\"，资产负债表看\"摔一跤能不能爬起来\"，而本文谈的正是抗摔能力",
+     "ex1": "A pristine balance sheet is worth nothing in a boom and everything in a bust. 干净的资产负债表在繁荣期一文不值，在崩盘时价值连城。",
+     "ex2": "Half the group's obligations sat off balance sheet until the new rules forced them into view. 该集团一半的义务此前都在表外，直到新规把它们逼到了明面上。"
+    },
+    {
+     "w": "robust",
+     "ipa": "/roʊˈbʌst/",
+     "pos": "adj.",
+     "en": "robust (adj.) means strong and able to withstand difficult conditions without failing",
+     "zh": "本义为\"（橡树般）强壮的\"（源自拉丁语robur，橡木），稳健性评估语境核心义为\"稳健的、扛得住的\"",
+     "ctx": "本文特指：与strong的区别在于——strong强调力量大，robust强调经得起折腾、不容易垮，正对应本段\"最坏情况下能否扛住\"的论证目的",
+     "ex1": "The system is robust in the sense that it fails slowly and visibly rather than all at once. 说这个系统稳健，是指它出问题时是缓慢而可见的，不会一下子全崩。",
+     "ex2": "Demand proved more robust than anyone at the January board meeting had dared assume. 需求的韧性，超出了一月董事会上任何人敢于设想的程度。"
+    },
+    {
+     "w": "churn out",
+     "ipa": "/tʃɜːrn aʊt/",
+     "pos": "短语",
+     "en": "churn out means to produce something continuously and in large quantities, often in a mechanical way",
+     "zh": "本义为\"用搅乳器不停搅动\"（churn 是古时做黄油的搅拌桶），产出与生成语境核心义为\"源源不断地大量产出\"",
+     "ctx": "本文特指：The company has $99bn of cash and is churning out more——注意现在进行时，不是\"曾经攒下\"，而是\"此刻还在往外冒\"，活水与死水之别；该词通常略带\"量大而不精\"之意，但用于\"产出现金\"时纯为褒义",
+     "ex1": "The mine churns out cash at current prices and would still break even at half of them. 按现价这座矿源源不断地产出现金，就算价格腰斩它也还能保本。",
+     "ex2": "A studio that churns out four films a year cannot be surprised when two of them are forgettable. 一家一年产出四部片子的制片厂，其中两部平庸，这没什么好意外的。"
+    },
+    {
+     "w": "gross margin",
+     "ipa": "/ɡroʊs ˈmɑːrdʒɪn/",
+     "pos": "固定短语",
+     "en": "gross margin means the percentage of revenue left after deducting the direct cost of producing the goods sold",
+     "zh": "本义为\"毛的利润空间\"（与第1段的net income构成gross/net词对），盈利能力与定价权语境核心义为\"毛利率\"",
+     "ctx": "本文特指：Gross margins have fattened from less than 60% to 75%。作为参照：超市零售通常20-30%，汽车制造15-25%，一般硬件30-40%——英伟达做硬件却做出了软件公司的毛利率，意味着绝对的定价权",
+     "ex1": "Gross margins of 70% invite competition the way an open window invites weather. 七成的毛利率招来竞争，就像开着的窗户招来风雨。",
+     "ex2": ""
+    },
+    {
+     "w": "fatten",
+     "ipa": "/ˈfætn/",
+     "pos": "v.",
+     "en": "fatten (v.) means to make or become fat; to increase substantially in size or amount",
+     "zh": "本义为\"把牲口喂肥\"（fat 肥+ -en 使变得），利润与数值增长语境核心义为\"（利润率）养肥、丰厚起来\"",
+     "ctx": "本文特指：作者放着rise、grow、increase一堆中性词不用，偏用fatten——这个词通常用于牲畜育肥，带着富态、油光水滑、甚至招人眼红的画面，与全篇开篇envy的母题一脉相承",
+     "ex1": "Two years of falling input costs quietly fattened margins across the whole sector. 两年的原料成本下行，悄悄把整个行业的利润率养肥了。",
+     "ex2": "The bonus pool fattened even as the share price went sideways, which the annual meeting noticed. 股价原地踏步，奖金池却越养越肥——这一点年度股东大会上没人漏看。"
+    }
+   ]
+  },
+  {
+   "en_html": "This means that, whereas Cisco used debt, Nvidia can use cash to <mark class=\"voc\">backstop</mark> its deals with buyers of its GPUs. Even if its commitments <mark class=\"voc\">came due</mark> and its cashflows <mark class=\"voc\">levelled off</mark> starting next year, by 2028 it would still be less <mark class=\"voc\">leveraged</mark> than <mark class=\"voc\">all but</mark> 39 non-financial firms in the S&P 500 are today. Profits would need to drop by 60% from that <mark class=\"voc\">plateau</mark> for Nvidia to <mark class=\"voc\">forsake</mark> its investment-grade credit rating.",
+   "zh": "这意味着：当年思科靠的是举债，而英伟达可以直接拿现金，去为它与GPU买家之间的交易兜底。哪怕它所有的承诺同时到期、现金流从明年起便再无增长，到2028年，它的负债水平依然低于标普500中除三十九家之外的所有非金融企业今日的水平。而从那个平台期算起，利润还需再跌去六成，英伟达才会丢掉它的投资级信用评级。",
+   "notes": [
+    {
+     "w": "backstop",
+     "ipa": "/ˈbækstɑːp/",
+     "pos": "v./n.",
+     "en": "backstop (v./n.) means to provide financial support as a last resort if something else fails; the arrangement that provides it",
+     "zh": "本义为棒球场上接球手身后的那面挡网——平时毫无用处，只在\"球没接住\"时才起作用，金融兜底语境核心义为\"兜底、最后担保\"",
+     "ctx": "本文特指：Nvidia can use cash to backstop its deals with buyers of its GPUs——这正是第4段那个伏笔的答案：作者必须证明英伟达是拿自己的钱在赌，而非借来的钱",
+     "ex1": "The central bank agreed to backstop the market, and the mere announcement was enough to stop the selling. 央行同意为市场兜底，仅仅宣布这一点，抛售就停了。",
+     "ex2": "A backstop that everyone believes in rarely has to be used. 一个人人都相信的兜底安排，很少真的需要动用。"
+    },
+    {
+     "w": "come due",
+     "ipa": "/kʌm duː/",
+     "pos": "固定短语",
+     "en": "come due means to reach the date on which payment or fulfilment is required",
+     "zh": "本义为\"到了应付之时\"（due 到期的、应付的），债务与义务语境核心义为\"到期、到了该兑现的时候\"",
+     "ctx": "本文特指：Even if its commitments came due——假设英伟达所有的担保承诺同时到期要兑现，这是作者压力测试的第一层假设，也是第6段call in the guarantees的另一种表述",
+     "ex1": "Nearly $9bn of debt comes due in the same eighteen-month window, which is the number that keeps the treasurer awake. 将近九十亿美元的债务集中在同一个十八个月的窗口到期，这就是让财务主管睡不着的那个数字。",
+     "ex2": ""
+    },
+    {
+     "w": "level off",
+     "ipa": "/ˈlevl ɔːf/",
+     "pos": "短语",
+     "en": "level off means to stop rising or falling and remain steady",
+     "zh": "本义为\"变平\"（level 平的+ off 脱离原状态），趋势与曲线语境核心义为\"趋于平稳、不再增长\"",
+     "ctx": "本文特指：its cashflows levelled off starting next year——假设英伟达现金流从明年起一分不涨，这是压力测试的第二层假设。注意level off不是下跌，是\"不涨了\"，对一家三年每年翻番的公司而言已属极端假设",
+     "ex1": "Subscriber growth levelled off two quarters before management admitted it had. 订阅用户增长在管理层承认之前两个季度就已经走平了。",
+     "ex2": "Inflation levelled off but never returned to where it started. 通胀企稳了，却再也没回到起点。"
+    },
+    {
+     "w": "leverage / leveraged",
+     "ipa": "/ˈlevərɪdʒ/",
+     "pos": "n./adj.",
+     "en": "leverage (n.) means the use of borrowed money to increase potential returns; leveraged (adj.) describes how much debt an entity carries relative to its own capital",
+     "zh": "本义为\"杠杆作用\"（阿基米德式的以小撬大），资本结构与风险语境核心义为\"杠杆率、负债程度\"",
+     "ctx": "本文特指：it would still be less leveraged than ...——杠杆放大收益也放大亏损，杠杆率越低意味着借得越少、越经得起摔；less leveraged即负债更少、更安全",
+     "ex1": "The fund was so leveraged that a 4% move against it was fatal. 这只基金杠杆高到，行情反向波动4%就足以致命。",
+     "ex2": "Deleveraging is painful precisely when it is most necessary. 去杠杆最痛苦的时候，恰恰是最需要去杠杆的时候。"
+    },
+    {
+     "w": "all but",
+     "ipa": "/ɔːl bʌt/",
+     "pos": "固定短语",
+     "en": "all but has two distinct uses — (1) before a number or noun: all except; (2) before an adjective or verb: almost, very nearly",
+     "zh": "本义为\"全部，除了……\"，比较与程度语境核心义为\"① 除……之外的全部 ② 几乎\"",
+     "ctx": "本文特指：全篇最难的一句——less leveraged than all but 39 non-financial firms in the S&P 500，此处后接数字，取第一义：\"比标普500中除39家之外的所有非金融企业负债都低\"，即在四百多家里排进前40名的低负债行列。判别法：后接数字/名词取义①，后接形容词/动词取义②",
+     "ex1": "All but two of the eleven bidders withdrew once the reserve price was published. 底价一公布，十一家竞标者中除两家外全部退出。",
+     "ex2": "By Thursday the deal was all but dead, though nobody would say so on the record. 到周四这笔交易基本上是黄了，只是没人肯公开这么说。"
+    },
+    {
+     "w": "plateau",
+     "ipa": "/plæˈtoʊ/",
+     "pos": "n.",
+     "en": "plateau (n.) means a state of little or no change following a period of growth or increase",
+     "zh": "本义为地理上的\"高原\"——攀升之后的一大片平地，增长曲线语境核心义为\"平台期、停滞期\"",
+     "ctx": "本文特指：drop by 60% from that plateau——指上一句假设的\"现金流走平\"之后的那个水平；注意发音为法语来源，重音在后",
+     "ex1": "Users hit a plateau at eleven million and stayed there for two years. 用户数在一千一百万上触顶，然后原地停了两年。",
+     "ex2": "After the initial gains, most training programmes reach a plateau within four months. 在最初的进步之后，多数训练计划四个月内就会进入平台期。"
+    },
+    {
+     "w": "forsake",
+     "ipa": "/fərˈseɪk/",
+     "pos": "v.",
+     "en": "forsake (v.) means to abandon or give up something, especially something valued",
+     "zh": "本义为\"放弃、离弃\"（古英语，带文学与庄重色彩），得失与割舍语境核心义为\"失去、不得不放弃\"",
+     "ctx": "本文特指：for Nvidia to forsake its investment-grade credit rating——利润要再跌六成，英伟达才会丢掉投资级评级；作者选用这个偏文学的词，比lose更有分量",
+     "ex1": "He forsook a partnership track for a company that did not yet have a product. 他放弃了合伙人的晋升通道，去了一家还没有产品的公司。",
+     "ex2": "Firms rarely forsake a rating voluntarily; they lose it and then explain why it never mattered. 公司很少主动放弃评级，它们是先丢掉，然后再解释评级为什么无关紧要。"
+    }
+   ]
+  },
+  {
+   "en_html": "Mr Huang thinks that the biggest <mark class=\"voc\">obstacle</mark> to the AI revolution is not lack of demand for AI but <mark class=\"voc\">inadequate</mark> infrastructure. The markets will not provide capital on the scale that is necessary, so Nvidia is offering financing itself. Nvidia has an advantage in understanding the balance of risks and rewards. Although this bet is big enough to affect the economy, it is an <mark class=\"voc\">entrepreneurial</mark> one. Every company that reinvests cash rather than <mark class=\"voc\">returning it to shareholders</mark> also <mark class=\"voc\">gambles</mark> that it can <mark class=\"voc\">beat the market</mark>. Companies exist to make such <mark class=\"voc\">concentrated</mark> bets. If investors want to <mark class=\"voc\">diversify</mark>, they can do so themselves.",
+   "zh": "在黄仁勋看来，AI革命最大的拦路虎并非需求不足，而是基础设施跟不上。市场拿不出所需规模的资本，于是英伟达索性自己下场提供融资。在权衡风险与回报这件事上，它本就比旁人更有优势。这一注虽大到足以撼动整个经济，本质上却仍是一次企业家式的冒险——任何一家把现金留下来再投资、而非还给股东的公司，同样是在赌自己能跑赢大盘。公司之所以存在，为的就是下这种集中的重注；至于分散风险，投资者大可自己去做。",
+   "notes": [
+    {
+     "w": "obstacle",
+     "ipa": "/ˈɑːbstəkl/",
+     "pos": "n.",
+     "en": "obstacle (n.) means something that blocks the way or prevents progress",
+     "zh": "本义为\"挡在前面的东西\"（ob- 对着+ stare 站立），阻力与瓶颈语境核心义为\"障碍、拦路虎\"",
+     "ctx": "本文特指：the biggest obstacle to the AI revolution；注意固定介词为to",
+     "ex1": "The main obstacle to expansion is not demand but the twelve-month wait for transformers. 扩张的主要障碍不是需求，而是变压器长达十二个月的交期。",
+     "ex2": "Each obstacle removed reveals the next one, which was always there. 每清除一个障碍，就会露出下一个——它一直都在那儿。"
+    },
+    {
+     "w": "inadequate",
+     "ipa": "/ɪnˈædɪkwət/",
+     "pos": "adj.",
+     "en": "inadequate (adj.) means not sufficient in quantity or not good enough in quality for a particular purpose",
+     "zh": "本义为\"不足够的\"（in- 否定+ adequate 足够的），供给与能力评估语境核心义为\"不足的、跟不上的\"",
+     "ctx": "本文特指：inadequate infrastructure——黄仁勋认为AI革命的真正瓶颈是数据中心、电力、算力这些基础设施跟不上",
+     "ex1": "Grid capacity is woefully inadequate for the load these facilities will draw by 2028. 面对这些设施到2028年的用电负荷，电网容量严重不足。",
+     "ex2": "The safeguards were adequate for the volumes of 2019 and hopelessly inadequate for today's. 这些防护措施应付2019年的量还够用，放到今天则完全不够看。"
+    },
+    {
+     "w": "entrepreneurial",
+     "ipa": "/ˌɑːntrəprəˈnɜːriəl/",
+     "pos": "adj.",
+     "en": "entrepreneurial (adj.) means characterised by the willingness to take financial risks in order to build or grow a business",
+     "zh": "本义为\"承担者的\"（源自法语entreprendre，着手去做），创业与商业决策语境核心义为\"企业家精神的、敢于承担不确定性的\"",
+     "ctx": "本文特指：this bet ... is an entrepreneurial one，句尾one替代前文的bet；作者以此把英伟达的行为定性为正常的企业冒险，而非投机",
+     "ex1": "The bank keeps saying it wants an entrepreneurial culture and keeps promoting people who avoid risk. 这家银行口口声声要企业家文化，提拔的却总是规避风险的人。",
+     "ex2": "Entrepreneurial risk is the only kind that regulators are supposed to leave alone. 企业家式的风险，是监管本该放手不管的那一类风险。"
+    },
+    {
+     "w": "return capital to shareholders",
+     "ipa": "/rɪˈtɜːrn ˈkæpɪtl/",
+     "pos": "固定短语",
+     "en": "to return capital to shareholders means to give profits back to owners, typically through dividends or share buybacks",
+     "zh": "本义为\"把资本还给股东\"（注意用return归还而非give给予——在公司法逻辑中这笔钱本就属于股东，留下不还才需要理由），公司资本配置语境核心义为\"分红或回购\"",
+     "ctx": "本文特指：reinvests cash rather than returning it to shareholders，是理解本段论证的关键背景",
+     "ex1": "The board chose a buyback over a dividend, which tells you what it thinks the shares are worth. 董事会选了回购而非分红，这就告诉了你它认为股价值多少。",
+     "ex2": "Returning capital is an admission that you have run out of ideas, which is sometimes the honest thing to admit. 把资本还给股东，等于承认自己没主意了——而有时候，这恰恰是该承认的诚实。"
+    },
+    {
+     "w": "gamble",
+     "ipa": "/ˈɡæmbl/",
+     "pos": "v./n.",
+     "en": "gamble (v./n.) means to take a risky action in the hope of a desired outcome; the risk so taken",
+     "zh": "本义为\"赌博\"，商业决策语境核心义为\"冒险、押注\"",
+     "ctx": "本文特指：作者在此以gamble替换全篇高频的bet，属刻意的同义替换以避免重复——外刊写作的基本功",
+     "ex1": "It was a calculated gamble, which is what people call a gamble that worked. 那是一次有把握的冒险——人们对赌赢了的冒险都是这么称呼的。",
+     "ex2": "They gambled on interest rates staying low for another three years, and lost by eighteen months. 他们赌利率还能再低三年，结果输了十八个月。"
+    },
+    {
+     "w": "beat the market",
+     "ipa": "/biːt ðə ˈmɑːrkɪt/",
+     "pos": "固定短语",
+     "en": "to beat the market means to achieve a return higher than that of the overall market or a benchmark index",
+     "zh": "本义为\"跑赢大盘\"，投资绩效语境核心义为\"取得高于市场平均的回报\"",
+     "ctx": "本文特指：Every company that reinvests cash ... gambles that it can beat the market——本段最锋利的一句：任何一家不分红、把现金留下再投资的公司，都在赌自己能把这笔钱投得比股东自己投更好。这一论证把\"赌博\"从道德问题降级为规模问题",
+     "ex1": "Most active funds fail to beat the market over ten years, a fact the industry markets around rather than addresses. 多数主动型基金在十年周期里跑不赢大盘——这个事实，行业选择绕开而非面对。",
+     "ex2": ""
+    },
+    {
+     "w": "concentrated",
+     "ipa": "/ˈkɑːnsntreɪtɪd/",
+     "pos": "adj.",
+     "en": "concentrated (adj.) means focused or gathered into one place rather than spread out",
+     "zh": "本义为\"向中心聚拢\"（con- 一起+ centr 中心），投资组合语境核心义为\"集中的、不分散的\"",
+     "ctx": "本文特指：Companies exist to make such concentrated bets——与下一句的diversify构成全段最漂亮的对仗：公司负责集中，投资者负责分散",
+     "ex1": "Concentrated positions build fortunes and destroy them, usually in that order. 集中持仓造就财富，也毁掉财富，通常是按这个顺序。",
+     "ex2": "Ownership is so concentrated that three shareholders can decide anything. 股权集中到三个股东就能决定一切的程度。"
+    },
+    {
+     "w": "diversify",
+     "ipa": "/daɪˈvɜːrsɪfaɪ/",
+     "pos": "v.",
+     "en": "diversify (v.) means to spread investments or activities across different areas in order to reduce risk",
+     "zh": "本义为\"转向不同方向\"（di- 分开+ verse 转），投资组合管理语境核心义为\"分散投资、多元化\"",
+     "ctx": "本文特指：If investors want to diversify, they can do so themselves——作者划出的界线：分散是投资者自己的活儿，别要求公司代劳；对应的英文谚语是Don't put all your eggs in one basket",
+     "ex1": "Investors can diversify in an afternoon; companies need a decade and usually get it wrong. 投资者一个下午就能完成分散配置；公司需要十年，而且通常做砸。",
+     "ex2": "The group diversified into four unrelated industries and became worse at all of them. 该集团多元化进入四个不相关的行业，然后在每一个上面都变得更差了。"
+    }
+   ]
+  },
+  {
+   "en_html": "And Mr Huang is <mark class=\"voc\">hardly</mark> alone. The hyperscalers, the world’s most successful companies before Nvidia <mark class=\"voc\">came along</mark>, are making the same bet. So are some <mark class=\"voc\">big names</mark> on Wall Street. Last month Goldman Sachs, BlackRock, Blackstone and others joined Nvidia in a $500bn data-centre <mark class=\"voc\">initiative</mark>. And so are Mr Huang’s shareholders, who haven’t yet <mark class=\"voc\">rushed for the exit</mark>. If they are all wrong, it is their money <mark class=\"voc\">on the line</mark>. And if they are right, the AI era may arrive a bit sooner. ■",
+   "zh": "而黄仁勋绝非孤身一人。那些超大规模云厂商——在英伟达出现之前，它们才是全世界最成功的公司——正下着同样的注。华尔街的一众大牌亦然：上个月，高盛、贝莱德、黑石等机构携手英伟达，启动了一项五千亿美元的数据中心计划。黄仁勋的股东们同样如此，他们至今尚未夺路而逃。倘若他们全都错了，押在线上的是他们自己的钱；而倘若他们是对的，AI时代或许会来得早那么一点。■",
+   "notes": [
+    {
+     "w": "hardly",
+     "ipa": "/ˈhɑːrdli/",
+     "pos": "adv.",
+     "en": "hardly (adv.) means almost not at all; scarcely",
+     "zh": "本义为\"几乎不\"，否定表达语境核心义为\"几乎不、根本不（否定副词，非hard的副词形式）\"",
+     "ctx": "本文特指：And Mr Huang is hardly alone——黄仁勋\"绝非\"孤身一人。此词是高频陷阱：它一出现，句意即转为否定；另有倒装句式Hardly had I ... when ...，意为\"一……就……\"",
+     "ex1": "It is hardly surprising that the auditor resigned two weeks before the filing deadline. 审计师在申报截止前两周辞职，这一点也不令人意外。",
+     "ex2": "Hardly had the announcement gone out when three rivals matched the price. 公告刚一发出，三家对手就跟进了同样的价格。"
+    },
+    {
+     "w": "come along",
+     "ipa": "/kʌm əˈlɔːŋ/",
+     "pos": "短语",
+     "en": "come along means to appear or arrive on the scene, often unexpectedly",
+     "zh": "本义为\"沿路走来\"，时机与出现语境核心义为\"出现、来到\"",
+     "ctx": "本文特指：the world's most successful companies before Nvidia came along——\"在英伟达出现之前\"，短短一句话把苹果、微软、谷歌、亚马逊统治科技界的二十年划为了一个已经结束的时代",
+     "ex1": "Wait for the right buyer and one comes along; wait for the perfect one and you wait forever. 等一个合适的买家，总会等到；等一个完美的买家，就是无限期等下去。",
+     "ex2": "The technology had existed for years before an interface came along that anyone could use. 这项技术存在多年，直到出现了一个人人都会用的界面。"
+    },
+    {
+     "w": "big names",
+     "ipa": "/bɪɡ neɪmz/",
+     "pos": "短语",
+     "en": "big names means well-known and influential people or organisations in a particular field",
+     "zh": "本义为\"响亮的名号\"，行业地位语境核心义为\"大牌、知名机构\"",
+     "ctx": "本文特指：some big names on Wall Street——高盛、贝莱德、黑石等华尔街顶级机构",
+     "ex1": "Two big names pulled out a week before signing, and the round never recovered. 两家大牌在签约前一周退出，这轮融资再没缓过来。",
+     "ex2": "Big-name backers buy credibility, which is not the same as buying diligence. 大牌背书买来的是信誉，而信誉不等于尽职调查。"
+    },
+    {
+     "w": "initiative",
+     "ipa": "/ɪˈnɪʃətɪv/",
+     "pos": "n.",
+     "en": "initiative (n.) means (1) a new plan or programme designed to solve a problem or achieve a goal; (2) the ability to act independently without being told",
+     "zh": "本义为\"开端、启动\"（initiate 发起），项目与政策语境核心义为\"倡议、计划、专项行动\"",
+     "ctx": "本文特指：a $500bn data-centre initiative——熟词僻义考点，此处为\"计划\"而非\"主动性\"。据公开信息，该计划实际参与方为六家：Apollo、BlackRock、Blackstone、Brookfield、Goldman Sachs、KKR",
+     "ex1": "The initiative was announced with six logos on the slide and no signed contracts behind it. 这项计划宣布时，幻灯片上挂了六个标志，背后却没有一份已签署的合同。",
+     "ex2": "Nobody took the initiative because nobody had been told they were allowed to. 没人主动出手，因为没人被告知自己可以这么做。"
+    },
+    {
+     "w": "rush for the exit",
+     "ipa": "/rʌʃ fɔːr ði ˈeksɪt/",
+     "pos": "固定短语",
+     "en": "to rush for the exit means to sell off holdings quickly and simultaneously out of panic",
+     "zh": "本义为\"往出口冲\"（如剧场失火时众人涌向安全出口），市场恐慌语境核心义为\"（投资者）夺路而逃、恐慌性抛售\"",
+     "ctx": "本文特指：Mr Huang's shareholders, who haven't yet rushed for the exit——注意yet一词，作者留了余味：是\"至今尚未\"，不是\"永远不会\"",
+     "ex1": "Liquidity looks abundant right up to the moment everyone rushes for the exit at once. 流动性看着很充裕——直到所有人同时夺路而逃的那一刻。",
+     "ex2": "The fund gated redemptions precisely because it could not survive a rush for the exit. 该基金冻结赎回，恰恰是因为它扛不住一场夺门而出的挤兑。"
+    },
+    {
+     "w": "on the line",
+     "ipa": "/ɑːn ðə laɪn/",
+     "pos": "固定短语",
+     "en": "if something is on the line, it is at risk of being lost",
+     "zh": "本义为\"悬在线上\"（一步即坠），风险与代价语境核心义为\"押上去了、悬于一线、面临失去的风险\"",
+     "ctx": "本文特指：it is their money on the line——全文论点的收束句，与第4段the cost will fall chiefly on Nvidia's shareholders首尾呼应：赌输了，赔的是他们自己的钱",
+     "ex1": "When your own capital is on the line, the diligence tends to improve considerably. 当押上去的是自己的本金时，尽职调查的质量往往会大幅提升。",
+     "ex2": "Two careers and about $400m were on the line in a meeting that lasted twenty minutes. 一场只开了二十分钟的会，赌上的是两个人的职业生涯和大约四亿美元。"
+    }
+   ]
+  }
+ ],
+ "proper": [
+  {
+   "name": "NVIDIA / 英伟达",
+   "def": "1993年4月由黄仁勋、Chris Malachowsky、Curtis Priem三人创办于加州圣何塞的芯片公司，最初做游戏显卡，如今是全球AI算力芯片的绝对主导者。公司名来自拉丁语invidia（嫉妒），三人早期用NV（Next Version）给文件命名，注册时翻词典找带n、v的词而定名。<br>本文中的意思：本文的主角，全球市值最高的公司（5.4万亿美元），全文围绕\"它给客户垫钱买自己芯片\"这一做法是否构成泡沫展开。"
+  },
+  {
+   "name": "GPU（graphics-processing unit）/ 图形处理器",
+   "def": "原本为处理游戏画面而设计的芯片，特点是能同时进行大量并行计算。这一特性恰好契合AI模型的训练与推理需求，使其成为AI时代的核心算力硬件。<br>本文中的意思：英伟达的主力产品，全文所有交易、担保、营收争议都围绕它展开。"
+  },
+  {
+   "name": "Jensen Huang / 黄仁勋",
+   "def": "英伟达联合创始人兼首席执行官，1963年生于台湾，幼年移居美国，1993年与两位工程师在圣何塞一家Denny's快餐店里创办英伟达，以常年穿黑色皮衣的形象为人熟知。<br>本文中的意思：全文的核心人物，被作者称为\"AI热潮正中央的魔术师\"，第10段集中呈现了他\"缺的不是需求而是基础设施\"这一判断。"
+  },
+  {
+   "name": "S&P 500 / 标准普尔500指数",
+   "def": "由美国最大的500家上市公司构成的股票指数，是衡量美股整体表现最通用的基准，媒体所说的\"美股涨跌\"通常指的就是它。<br>本文中的意思：本文用来衡量AI概念股集中度的标尺——十大AI公司占其市值40%，英伟达一家占8%；第9段又用它作为比较负债水平的参照系。"
+  },
+  {
+   "name": "ChatGPT / OpenAI对话式AI产品",
+   "def": "OpenAI于2022年11月底发布的对话式AI产品，其爆发式普及被普遍视为本轮AI热潮的起点。<br>本文中的意思：作为时间锚点出现——英伟达股价是ChatGPT发布当日的14倍。"
+  },
+  {
+   "name": "Cisco / 思科",
+   "def": "美国网络设备制造商，主营路由器和交换机，被称为互联网的\"水管工\"。1995至2000年股价从约2美元涨至79美元；2000年3月27日超越微软成为全球市值最高的公司，市值逾5000亿美元。当时它大量采用供应商融资，到2000年约200亿美元营收中有一成左右靠此支撑。泡沫破裂后，2001年4月一次性冲销22亿美元库存、计提近9亿美元坏账，单季亏损26.9亿美元，为11年来首次亏损，股价一度跌至13美元左右，裁员8500人。其股价直到2025年12月才重新回到2000年的高点。<br>本文中的意思：全文的历史对照组。批评者用它论证\"英伟达在重演旧剧本\"；作者则在第8、9段用它反证——思科靠举债兜底，英伟达靠现金兜底，这才是关键差异。"
+  },
+  {
+   "name": "dotcom mania / dotcom bubble（互联网泡沫） / 互联网泡沫",
+   "def": "1995-2000年间围绕互联网公司的投机狂潮，大量无盈利模式的公司仅凭.com后缀即获得高估值。2000年3月见顶后崩盘，纳斯达克指数到2002年10月跌去约八成，并引发经济衰退。<br>本文中的意思：全文的核心类比对象，作者第5段承认相似、第8段论证差异，整篇文章的论证结构都建立在这一对照"
+  },
+  {
+   "name": "AI token / AI词元",
+   "def": "AI模型处理文本的最小信息单位，大致相当于一个英文单词或一两个汉字。模型每处理一个token都要消耗算力，因此token消耗量是衡量AI使用规模的核心指标。<br>本文中的意思：构成英伟达营收逻辑链的终端——用AI的人越多、token越多、需要的算力越多、买的GPU越多；作者刻意让它与思科的\"流量→路由器\"链条并排呈现，以凸显结构的雷同。"
+  },
+  {
+   "name": "R&D（research and development）/ 研发",
+   "def": "企业投入于新技术、新产品开发的支出。研发支出占营收的比例，通常被视为科技公司竞争力与\"求生欲\"的核心指标。<br>本文中的意思：作者用\"从超过1/5降到不足1/10\"这一变化，暗示英伟达的战略重心正从\"做出最好的芯片\"转向\"帮客户凑钱买芯片\"。需注意：这一比例下降也可能源于营收（分母）三年翻数倍，故不宜简单读作\"不再投入\"。"
+  },
+  {
+   "name": "hyperscalers / 超大规模云计算厂商",
+   "def": "指亚马逊（AWS）、微软（Azure）、谷歌（Google Cloud）、Meta等提供全球规模云计算服务的科技巨头，是全球数据中心与AI芯片最大的采购方。<br>本文中的意思：双重身份是理解本文的关键——它们既贡献了英伟达约一半的营收，又在自研芯片以求摆脱依赖（第7段）；同时它们也在下与英伟达相同的AI赌注（第11段）。分歧在于\"谁提供算力\"，共识在于\"算力必被需要\"。"
+  },
+  {
+   "name": "investment-grade credit rating / 投资级信用评级",
+   "def": "由标普、穆迪、惠誉等评级机构对借款方偿债能力所作的评定。等级由高至低为AAA、AA、A、BBB、BB、B、CCC等，其中BBB-（穆迪为Baa3）及以上称为投资级（investment grade），以下称为垃圾级（junk）或高收益级（high-yield）。跌破这条线有两重后果：一是融资成本立即抬升；二是许多养老金、保险资金依规定只能持有投资级债券，被迫抛售，往往引发连锁反应。<br>本文中的意思：作者压力测试的终点。三层灾难叠加——所有担保同时到期、现金流从明年起零增长、利润在此基础上再跌60%——英伟达才会跌出这条线，以此论证其财务缓冲之厚。"
+  },
+  {
+   "name": "Goldman Sachs / 高盛",
+   "def": "美国老牌投资银行，全球最具影响力的投行之一，业务涵盖并购顾问、证券承销、资产管理与交易。<br>本文中的意思：作为\"华尔街也在下同一个注\"的证据之一，参与英伟达五千亿美元数据中心融资计划。"
+  },
+  {
+   "name": "BlackRock / 贝莱德",
+   "def": "全球规模最大的资产管理公司，管理资产逾十万亿美元，全球大量养老金、退休金由其打理。注意与黑石（Blackstone）区分——贝莱德最初由黑石内部团队分立而出，是两家独立公司。<br>本文中的意思：同为该融资计划的参与方；其身份意味着这场AI赌注已经间接与普通人的养老金相连。"
+  },
+  {
+   "name": "Blackstone / 黑石",
+   "def": "全球最大的另类资产管理机构之一，以私募股权和不动产投资见长。<br>本文中的意思：该五千亿美元数据中心计划的参与方之一。"
+  }
+ ],
+ "sources_note": "原文标题：Nvidia is driving the AI boom. Good—The chipmaker’s enormous bets are how capitalism is supposed to work，刊于英国《经济学人》（The Economist）2026年9月5日刊；课件日期 2026-09-06，封面标注：英国经济学人外刊讲解第1158天。",
+ "practice": {
+  "intro": "把下面三句翻译成英文，注意划线表达。",
+  "items": [
+   "倘若英伟达押在AI上的赌注最终赌对了，它们将加速这项技术的普及，从而拉动生产率与生活水平；倘若赌砸了，代价将主要由英伟达自己的股东承担。",
+   "这意味着，当年思科靠的是举债，而英伟达可以拿现金去为它与GPU买家之间的交易兜底。",
+   "倘若他们全都错了，押上去的是他们自己的钱；而倘若他们是对的，AI时代或许会来得早那么一点。"
+  ],
+  "critical_en": "Even if its commitments came due and its cashflows levelled off starting next year, by 2028 it would still be less leveraged than all but 39 non-financial firms in the S&P 500 are today.",
+  "critical_zh": "哪怕它所有的承诺同时到期、现金流从明年起便再无增长，到2028年，它的负债水平依然低于标普500中除三十九家之外的所有非金融企业今日的水平。",
+  "answer": "1. If Nvidia’s bets on AI come good, they could accelerate the technology’s adoption, boosting productivity and living standards. If they misfire, the cost will fall chiefly on Nvidia’s shareholders.<br><br>2. This means that, whereas Cisco used debt, Nvidia can use cash to backstop its deals with buyers of its GPUs.<br><br>3. If they are all wrong, it is their money on the line. And if they are right, the AI era may arrive a bit sooner.<br><br>In short, the bets are enormous, but it is Nvidia’s shareholders’ own money on the line — and that is how capitalism is supposed to work."
+ },
+ "mindmap": {
+  "aria": "英伟达豪赌与泡沫之辩思维导图",
+  "alt": "英伟达的万亿豪赌：泡沫还是现金兜底（手绘版）",
+  "svg": "<svg viewBox=\"0 0 960 720\" xmlns=\"http://www.w3.org/2000/svg\" role=\"img\" aria-label=\"英伟达豪赌与泡沫之辩思维导图\" style=\"width:100%;height:auto;font-family:-apple-system,'PingFang SC','Hiragino Sans GB','Microsoft YaHei',sans-serif\">\n        <rect x=\"24\" y=\"306\" width=\"176\" height=\"88\" rx=\"14\" fill=\"#eae3d2\" stroke=\"#9a8f76\"/>\n        <text x=\"112\" y=\"342\" text-anchor=\"middle\" fill=\"#3d3a34\" font-size=\"17\" font-weight=\"700\">英伟达的万亿豪赌</text>\n        <text x=\"112\" y=\"368\" text-anchor=\"middle\" fill=\"#5c5648\" font-size=\"12.5\">是泡沫还是现金兜底</text>\n\n        <path d=\"M200,350 C232,350 232,88 260,88\"  stroke=\"#6b8f71\" stroke-width=\"2\" fill=\"none\"/>\n        <path d=\"M200,350 C232,350 232,238 260,238\" stroke=\"#7d98ad\" stroke-width=\"2\" fill=\"none\"/>\n        <path d=\"M200,350 C232,350 232,433 260,433\" stroke=\"#bd7a6d\" stroke-width=\"2\" fill=\"none\"/>\n        <path d=\"M200,350 C232,350 232,628 260,628\" stroke=\"#9b86b3\" stroke-width=\"2\" fill=\"none\"/>\n\n        <g class=\"mm-branch\" data-target=\"bc1\">\n          <rect x=\"260\" y=\"71\" width=\"190\" height=\"34\" rx=\"8\" fill=\"#e6efe7\" stroke=\"#6b8f71\"/>\n          <text x=\"349\" y=\"93\" text-anchor=\"middle\" fill=\"#4c6b52\" font-size=\"15\" font-weight=\"700\">驱动AI的巨兽（¶1–3）</text>\n          <text class=\"mm-arrow\" data-for=\"bc1\" x=\"442\" y=\"93\" text-anchor=\"end\" fill=\"#4c6b52\">▾</text>\n        </g>\n        <g class=\"mm-children\" id=\"bc1\">\n          <path d=\"M450,88 C462,88 462,46 480,46\" stroke=\"#6b8f71\" stroke-width=\"1.5\" fill=\"none\"/>\n          <path d=\"M450,88 C462,88 462,88 480,88\" stroke=\"#6b8f71\" stroke-width=\"1.5\" fill=\"none\"/>\n          <path d=\"M450,88 C462,88 462,130 480,130\" stroke=\"#6b8f71\" stroke-width=\"1.5\" fill=\"none\"/>\n          <rect x=\"480\" y=\"30\" width=\"456\" height=\"32\" rx=\"8\" fill=\"#e6efe7\"/><text x=\"492\" y=\"51\" fill=\"#3d3a34\" font-size=\"14\">市值5.4万亿美元，明年或成全球最赚钱公司</text>\n          <rect x=\"480\" y=\"72\" width=\"456\" height=\"32\" rx=\"8\" fill=\"#e6efe7\"/><text x=\"492\" y=\"93\" fill=\"#3d3a34\" font-size=\"14\">一万亿美元交易为客户垫钱、担保买自家GPU</text>\n          <rect x=\"480\" y=\"114\" width=\"456\" height=\"32\" rx=\"8\" fill=\"#e6efe7\"/><text x=\"492\" y=\"135\" fill=\"#3d3a34\" font-size=\"14\">批评者：像极了思科当年的供应商融资泡沫</text>\n        </g>\n\n        <g class=\"mm-branch\" data-target=\"bc2\">\n          <rect x=\"260\" y=\"221\" width=\"190\" height=\"34\" rx=\"8\" fill=\"#e5edf4\" stroke=\"#7d98ad\"/>\n          <text x=\"349\" y=\"243\" text-anchor=\"middle\" fill=\"#3d5872\" font-size=\"15\" font-weight=\"700\">担忧有无根据（¶4–6）</text>\n          <text class=\"mm-arrow\" data-for=\"bc2\" x=\"442\" y=\"243\" text-anchor=\"end\" fill=\"#3d5872\">▾</text>\n        </g>\n        <g class=\"mm-children\" id=\"bc2\">\n          <path d=\"M450,238 C462,238 462,196 480,196\" stroke=\"#7d98ad\" stroke-width=\"1.5\" fill=\"none\"/>\n          <path d=\"M450,238 C462,238 462,238 480,238\" stroke=\"#7d98ad\" stroke-width=\"1.5\" fill=\"none\"/>\n          <path d=\"M450,238 C462,238 462,280 480,280\" stroke=\"#7d98ad\" stroke-width=\"1.5\" fill=\"none\"/>\n          <rect x=\"480\" y=\"180\" width=\"456\" height=\"32\" rx=\"8\" fill=\"#e5edf4\"/><text x=\"492\" y=\"201\" fill=\"#3d3a34\" font-size=\"14\">赌对加速AI普及，赌砸由股东自担损失</text>\n          <rect x=\"480\" y=\"222\" width=\"456\" height=\"32\" rx=\"8\" fill=\"#e5edf4\"/><text x=\"492\" y=\"243\" fill=\"#3d3a34\" font-size=\"14\">相似：新技术、史诗牛市与狂妄的科技老板</text>\n          <rect x=\"480\" y=\"264\" width=\"456\" height=\"32\" rx=\"8\" fill=\"#e5edf4\"/><text x=\"492\" y=\"285\" fill=\"#3d3a34\" font-size=\"14\">真正难料的是普及节奏，而非需求方向</text>\n        </g>\n\n        <g class=\"mm-branch\" data-target=\"bc3\">\n          <rect x=\"260\" y=\"416\" width=\"190\" height=\"34\" rx=\"8\" fill=\"#f4e7e4\" stroke=\"#bd7a6d\"/>\n          <text x=\"349\" y=\"438\" text-anchor=\"middle\" fill=\"#7c4a3e\" font-size=\"15\" font-weight=\"700\">财务底气何在（¶7–9）</text>\n          <text class=\"mm-arrow\" data-for=\"bc3\" x=\"442\" y=\"438\" text-anchor=\"end\" fill=\"#7c4a3e\">▾</text>\n        </g>\n        <g class=\"mm-children\" id=\"bc3\">\n          <path d=\"M450,433 C462,433 462,391 480,391\" stroke=\"#bd7a6d\" stroke-width=\"1.5\" fill=\"none\"/>\n          <path d=\"M450,433 C462,433 462,433 480,433\" stroke=\"#bd7a6d\" stroke-width=\"1.5\" fill=\"none\"/>\n          <path d=\"M450,433 C462,433 462,475 480,475\" stroke=\"#bd7a6d\" stroke-width=\"1.5\" fill=\"none\"/>\n          <rect x=\"480\" y=\"375\" width=\"456\" height=\"32\" rx=\"8\" fill=\"#f4e7e4\"/><text x=\"492\" y=\"396\" fill=\"#3d3a34\" font-size=\"14\">约一半营收靠四大云厂商，而它们在自研芯片</text>\n          <rect x=\"480\" y=\"417\" width=\"456\" height=\"32\" rx=\"8\" fill=\"#f4e7e4\"/><text x=\"492\" y=\"438\" fill=\"#3d3a34\" font-size=\"14\">账上990亿美元现金，毛利率从60%养到75%</text>\n          <rect x=\"480\" y=\"459\" width=\"456\" height=\"32\" rx=\"8\" fill=\"#f4e7e4\"/><text x=\"492\" y=\"480\" fill=\"#3d3a34\" font-size=\"14\">利润再跌六成才会丢掉投资级信用评级</text>\n        </g>\n\n        <g class=\"mm-branch\" data-target=\"bc4\">\n          <rect x=\"260\" y=\"611\" width=\"190\" height=\"34\" rx=\"8\" fill=\"#ece4f2\" stroke=\"#9b86b3\"/>\n          <text x=\"349\" y=\"633\" text-anchor=\"middle\" fill=\"#5a4670\" font-size=\"15\" font-weight=\"700\">豪赌为何正当（¶10–11）</text>\n          <text class=\"mm-arrow\" data-for=\"bc4\" x=\"442\" y=\"633\" text-anchor=\"end\" fill=\"#5a4670\">▾</text>\n        </g>\n        <g class=\"mm-children\" id=\"bc4\">\n          <path d=\"M450,628 C462,628 462,586 480,586\" stroke=\"#9b86b3\" stroke-width=\"1.5\" fill=\"none\"/>\n          <path d=\"M450,628 C462,628 462,628 480,628\" stroke=\"#9b86b3\" stroke-width=\"1.5\" fill=\"none\"/>\n          <path d=\"M450,628 C462,628 462,670 480,670\" stroke=\"#9b86b3\" stroke-width=\"1.5\" fill=\"none\"/>\n          <rect x=\"480\" y=\"570\" width=\"456\" height=\"32\" rx=\"8\" fill=\"#ece4f2\"/><text x=\"492\" y=\"591\" fill=\"#3d3a34\" font-size=\"14\">黄仁勋：瓶颈不是需求，是基础设施跟不上</text>\n          <rect x=\"480\" y=\"612\" width=\"456\" height=\"32\" rx=\"8\" fill=\"#ece4f2\"/><text x=\"492\" y=\"633\" fill=\"#3d3a34\" font-size=\"14\">高盛、贝莱德、黑石共启五千亿美元计划</text>\n          <rect x=\"480\" y=\"654\" width=\"456\" height=\"32\" rx=\"8\" fill=\"#ece4f2\"/><text x=\"492\" y=\"675\" fill=\"#3d3a34\" font-size=\"14\">错了赔的是自己的钱，对了AI时代更早到来</text>\n        </g>\n      </svg>",
+  "img": ""
+ }
+}

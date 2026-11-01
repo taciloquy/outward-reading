@@ -1,0 +1,250 @@
+{
+ "date": "2026-09-05",
+ "title_tag": "美国人开始抵制AI，原因却不是怕失业：居然是怕......—— 英国《经济学人》外刊讲解第1157天",
+ "h1": "美国人开始抵制AI，原因却不是怕失业：居然是怕......",
+ "source_label": "The Economist",
+ "category": "英国《经济学人》外刊讲解 第1157天",
+ "read_minutes": 18,
+ "nav_hint": "US Data Centres Become a Political Issue",
+ "headline": {
+  "en_html": "<span>United States | Not in my backyard</span> — <span>How data centres became one of America’s hottest political issues. Growing hatred of the facilities is reshaping the midterm elections.</span>",
+  "zh": "美国 | 别建在我家后院——数据中心如何成为美国最炙手可热的政治议题之一：对这类设施的日益反感，正在重塑即将到来的中期选举。",
+  "notes": []
+ },
+ "paragraphs": [
+  {
+   "en_html": "A <mark class=\"voc\">spectre</mark> is haunting America—the spectre of data centres. The computer-filled <mark class=\"voc\">warehouses</mark> powering America’s boom in artificial intelligence have become less popular than almost every other kind of infrastructure—even nuclear-power plants. Counties and states are rushing to wrap them in <mark class=\"voc\">red tape</mark> or ban them altogether. On August 31st Donald Trump <mark class=\"voc\">weighed into</mark> the <mark class=\"voc\">fractious</mark> debate, warning that local opponents would “end up being backwards and poor” if they killed the “Golden Goose”. The <mark class=\"voc\">backlash</mark> is <mark class=\"voc\">scrambling</mark> traditional political alignments, reshaping the coming elections and <mark class=\"voc\">unnerving</mark> tech firms and investors.",
+   "zh": "一个幽灵正在美国徘徊——数据中心的幽灵。这些塞满计算机的巨型仓库正为美国的人工智能热潮提供动力，但如今，它们却比几乎任何其他类型的基础设施都更不受欢迎——甚至连核电站都比它们更讨喜。美国各地的县和州正争相出台限制措施，甚至直接禁止建设数据中心。8月31日，唐纳德·特朗普也加入了这场激烈的争论，他警告说，如果地方上的反对者真的扼杀了这只“下金蛋的鹅”，他们最终只会“落后又贫穷”。这股抵制浪潮正在打乱美国传统的政治阵营，重塑即将到来的选举格局，也让科技公司和投资者愈发不安。",
+   "notes": [
+    {
+     "w": "spectre",
+     "ipa": "/ˈspektə(r)/",
+     "pos": "n.",
+     "en": "something frightening that people are worried about, especially something that may happen in the future",
+     "zh": "幽灵，恐惧之源；令人忧虑的事物",
+     "ctx": "指数据中心像幽灵一样困扰着美国，令人恐惧、挥之不去（源自《共产党宣言》开篇“一个幽灵在欧洲游荡”的经典句式）",
+     "ex1": "The spectre of mass unemployment loomed over the declining industrial town. 大规模失业的阴影笼罩着这座衰落的工业城镇。",
+     "ex2": "As inflation kept rising, the spectre of another recession began to haunt investors. 随着通胀持续攀升，又一次经济衰退的幽灵开始困扰着投资者。"
+    },
+    {
+     "w": "warehouse",
+     "ipa": "/ˈweəhaʊs/",
+     "pos": "n.",
+     "en": "a large building for storing goods before they are sold or distributed",
+     "zh": "仓库，货仓",
+     "ctx": "指数据中心本质上就是“装满计算机的仓库”（computer-filled warehouses），用“仓库”一词突出其体量巨大但外观单调的特点",
+     "ex1": "The company leased an enormous warehouse on the outskirts of the city to store its inventory. 公司在市郊租了一个巨大的仓库来存放库存。",
+     "ex2": "The old factory was converted into a warehouse for agricultural equipment. 那座旧工厂被改造成了存放农业设备的仓库。"
+    },
+    {
+     "w": "red tape",
+     "ipa": "/ˌred ˈteɪp/",
+     "pos": "n.",
+     "en": "official rules and procedures that seem unnecessary and cause delays",
+     "zh": "繁文缛节，官僚程序；官样文章",
+     "ctx": "各州县正急于用繁琐的审批程序和法规来限制数据中心建设（wrap them in red tape 意为“用官僚程序将其层层包裹”）",
+     "ex1": "Small business owners often complain that excessive red tape makes it hard to expand. 小企业主常常抱怨过多的官僚程序让他们难以扩张。",
+     "ex2": "The government promised to cut red tape to speed up the approval of new housing projects. 政府承诺削减繁文缛节以加快新住房项目的审批。"
+    },
+    {
+     "w": "weigh into",
+     "ipa": "/ˌweɪ ˈɪntuː/",
+     "pos": "phr.v.",
+     "en": "to enter a discussion or argument forcefully or with strong opinions",
+     "zh": "强硬介入，积极加入（争论）；发表有力意见",
+     "ctx": "指特朗普高调介入这场激烈的争论，并发表了强硬看法",
+     "ex1": "The former president weighed into the debate over education reform, criticizing the proposed curriculum changes. 前总统介入教育改革的辩论，批评了拟议的课程调整方案。",
+     "ex2": "Celebrities and politicians alike weighed into the controversy surrounding the new immigration policy. 名人和政客纷纷加入围绕新移民政策的争论。"
+    },
+    {
+     "w": "fractious",
+     "ipa": "/ˈfrækʃəs/",
+     "pos": "adj.",
+     "en": "easily irritated or quarrelsome; difficult to control",
+     "zh": "易怒的，暴躁的；充满争执的，难以驾驭的",
+     "ctx": "形容围绕数据中心的辩论充满火药味、各方争执不下",
+     "ex1": "The fractious meeting ended without any agreement on the budget proposal. 这场争吵不休的会议结束时，各方仍未就预算提案达成任何协议。",
+     "ex2": "The coalition government became increasingly fractious as the election approached. 随着选举临近，联合政府内部变得越来越难以驾驭。"
+    },
+    {
+     "w": "backlash",
+     "ipa": "/ˈbæklæʃ/",
+     "pos": "n.",
+     "en": "a strong negative reaction by a large number of people to a social or political development",
+     "zh": "强烈反对，反弹；抵制情绪",
+     "ctx": "指公众对数据中心建设形成的强烈反对浪潮",
+     "ex1": "The company faced a severe backlash from customers after raising its subscription fees without notice. 该公司在未通知的情况下提高订阅费后，遭到了顾客的强烈抵制。",
+     "ex2": "The new environmental regulations triggered a backlash from the farming community. 新的环保法规引发了农业群体的强烈反弹。"
+    },
+    {
+     "w": "scramble",
+     "ipa": "/ˈskræmbl/",
+     "pos": "v.",
+     "en": "to move or act quickly and urgently, often in a disorganized way",
+     "zh": "仓促行动，慌忙应对；打乱",
+     "ctx": "指数据中心的抵制浪潮正在打乱传统的政治阵营划分，让各方不得不匆忙调整立场",
+     "ex1": "Political parties scrambled to revise their campaign strategies after the shocking poll results were released. 令人震惊的民调结果公布后，各政党慌忙修改竞选策略。",
+     "ex2": "The sudden resignation of the CEO scrambled the company's succession plans. 首席执行官的突然辞职打乱了公司的继任计划。"
+    },
+    {
+     "w": "unnerving",
+     "ipa": "/ˌʌnˈnɜːvɪŋ/",
+     "pos": "adj.",
+     "en": "causing feelings of anxiety, fear, or loss of confidence",
+     "zh": "令人不安的，令人紧张的；使人失去信心的",
+     "ctx": "指数据中心遭遇的抵制浪潮让科技公司和投资者感到焦虑不安",
+     "ex1": "The unnerving silence from headquarters made employees fear that layoffs were imminent. 总部的沉默令人不安，员工们担心裁员即将来临。",
+     "ex2": "Investors found the sudden drop in consumer spending deeply unnerving. 投资者对消费支出的突然下滑深感不安。"
+    }
+   ]
+  },
+  {
+   "en_html": "<mark class=\"voc\">For a sense of</mark> how quickly the politics has changed, consider Texas, Illinois and Pennsylvania. In 2019 J.B. Pritzker, Illinois’s governor, signed a <mark class=\"voc\">bipartisan</mark> law creating <mark class=\"voc\">incentives</mark> for data-centre construction, calling them as critical as roads, trains and schools. Greg Abbott, Texas’s governor, <mark class=\"voc\">boasted</mark> last year that his state was “the <mark class=\"voc\">epicentre</mark> of AI development”. Josh Shapiro, Pennsylvania’s governor, was similarly enthusiastic. Yet all three have since become more cautious as public opposition has grown.",
+   "zh": "要想知道围绕数据中心的政治风向转变得有多快，不妨看看得克萨斯州、伊利诺伊州和宾夕法尼亚州。2019年，伊利诺伊州州长J.B.普利兹克签署了一项得到两党支持的法案，为建设数据中心提供优惠政策，并称这些设施与公路、铁路和学校一样至关重要。就在去年，得克萨斯州州长格雷格·阿博特还曾夸口说，自己的州是“人工智能发展的中心地带”。宾夕法尼亚州州长乔希·夏皮罗同样热情高涨。然而随着公众反对声浪不断扩大，如今三位州长的态度都已经变得谨慎许多。",
+   "notes": [
+    {
+     "w": "for a sense of",
+     "ipa": "/fər ə sens əv/",
+     "pos": "phr.",
+     "en": "in order to understand or appreciate the nature or scale of something",
+     "zh": "为了了解，为了感受；以便对……有一个认识",
+     "ctx": "为了直观感受政治氛围变化的速度，可以看看得州、伊利诺伊州和宾州的例子",
+     "ex1": "For a sense of how much the city has changed, look no further than its transformed waterfront district. 要想了解这座城市变化有多大，看看它焕然一新的滨水区就够了。",
+     "ex2": "For a sense of the crisis facing the industry, consider that three major airlines have filed for bankruptcy this year alone. 要了解该行业面临的危机，想想仅今年一年就有三家大型航空公司申请破产。"
+    },
+    {
+     "w": "bipartisan",
+     "ipa": "/ˌbaɪˈpɑːtɪzæn/",
+     "pos": "adj.",
+     "en": "involving the agreement or cooperation of two political parties that usually oppose each other",
+     "zh": "两党的，跨党派的；两党共同支持的",
+     "ctx": "指伊利诺伊州州长签署了一项获得民主、共和两党共同支持的法律，为数据中心建设提供激励",
+     "ex1": "The infrastructure bill won rare bipartisan support in a deeply divided Congress. 这项基础设施法案在严重分裂的国会中赢得了罕见的两党支持。",
+     "ex2": "Lawmakers reached a bipartisan agreement on funding for veterans' healthcare. 议员们就退伍军人医疗保健的资金问题达成了两党协议。"
+    },
+    {
+     "w": "incentive",
+     "ipa": "/ɪnˈsentɪv/",
+     "pos": "n.",
+     "en": "something that motivates or encourages someone to do something",
+     "zh": "激励，奖励；刺激措施",
+     "ctx": "指为鼓励数据中心建设而设立的税收优惠等激励政策",
+     "ex1": "The government offers tax incentives to companies that invest in renewable energy. 政府为投资可再生能源的企业提供税收优惠。",
+     "ex2": "Without financial incentives, few developers are willing to build in economically depressed areas. 没有财政激励，很少有开发商愿意在经济萧条地区建设项目。"
+    },
+    {
+     "w": "boast",
+     "ipa": "/bəʊst/",
+     "pos": "v.",
+     "en": "to talk with excessive pride about one's achievements or possessions",
+     "zh": "夸耀，自夸；以拥有……而自豪",
+     "ctx": "指得州州长去年曾自豪地宣称该州是“AI发展的中心”",
+     "ex1": "The city boasts one of the lowest crime rates in the country. 这座城市以拥有全美最低的犯罪率之一而自豪。",
+     "ex2": "The tech CEO boasted that his company's new chip would revolutionize the industry. 这位科技公司首席执行官夸耀说，他们公司的新芯片将彻底改变整个行业。"
+    },
+    {
+     "w": "epicentre",
+     "ipa": "/ˈepɪsentə(r)/",
+     "pos": "n.",
+     "en": "the central point of an activity or event, especially one with significant impact",
+     "zh": "中心，焦点；震中",
+     "ctx": "指得州被其州长称为“AI发展的中心/核心地带”",
+     "ex1": "Silicon Valley remains the epicentre of global technological innovation. 硅谷仍然是全球技术创新的中心。",
+     "ex2": "The city became the epicentre of the protest movement that swept the nation. 这座城市成了席卷全国的抗议运动的中心。"
+    }
+   ]
+  },
+  {
+   "en_html": "In August Mr Pritzker warned that data centres risked “higher electric rates, higher water rates, or…environmentally <mark class=\"voc\">unsound</mark> practices”, after pausing applications for tax credits introduced in 2019. Mr Abbott ordered Texas utilities to <mark class=\"voc\">audit</mark> data centres seeking electricity, warning that they could endanger the reliability of the <mark class=\"voc\">grid</mark>. Mr Shapiro has also tightened rules, giving communities more power to veto projects while attacking his opponent as pro-data centre—increasingly, a political <mark class=\"voc\">term of abuse</mark>.",
+   "zh": "今年8月，在暂停受理2019年推出的数据中心税收抵免申请后，普利兹克警告说，数据中心可能带来“更高的电费、更高的水费，或者……不利于环境的做法”。阿博特则要求得州公用事业部门对申请用电的数据中心展开审查，并警告称，这些设施可能危及电网的可靠性。夏皮罗也收紧了相关规定，赋予地方社区更大的项目否决权，同时还攻击自己的政治对手支持数据中心——如今，“支持数据中心”俨然已经成了一句政治骂名。",
+   "notes": [
+    {
+     "w": "unsound",
+     "ipa": "/ˌʌnˈsaʊnd/",
+     "pos": "adj.",
+     "en": "not based on sound reasoning or evidence; unreliable or potentially harmful",
+     "zh": "不合理的，不可靠的；有害的",
+     "ctx": "指普利兹克警告数据中心可能带来“对环境不健全的做法”，即可能造成环境损害的行为",
+     "ex1": "The committee rejected the proposal on the grounds that it was financially unsound. 委员会以财务上不可靠为由否决了这项提案。",
+     "ex2": "Building on unstable soil is an environmentally unsound practice that could lead to long-term damage. 在不稳定的土壤上建造是一种对环境有害的做法，可能导致长期损害。"
+    },
+    {
+     "w": "audit",
+     "ipa": "/ˈɔːdɪt/",
+     "pos": "v.",
+     "en": "to conduct an official examination or review of records, accounts, or operations",
+     "zh": "审计，审查；核查",
+     "ctx": "指得州州长命令电力公司对申请用电的数据中心进行审查，以评估其对电网的影响",
+     "ex1": "The regulator ordered an audit of the utility company's safety procedures after the incident. 事故发生后，监管机构下令对该公用事业公司的安全程序进行审查。",
+     "ex2": "Government agencies are required to audit their cybersecurity measures every year. 政府机构被要求每年对其网络安全措施进行审查。"
+    },
+    {
+     "w": "grid",
+     "ipa": "/ɡrɪd/",
+     "pos": "n.",
+     "en": "a network of power lines and stations that distributes electricity across a region",
+     "zh": "电网；（电力）输送网络",
+     "ctx": "指数据中心的大量用电可能危及得州电网的可靠性",
+     "ex1": "The aging power grid struggled to meet demand during the summer heat wave. 老化的电网在夏季热浪期间难以满足用电需求。",
+     "ex2": "Renewable energy sources are being integrated into the national grid at an accelerating pace. 可再生能源正以越来越快的速度并入国家电网。"
+    },
+    {
+     "w": "term of abuse",
+     "ipa": "/ˌtɜːm əv əˈbjuːs/",
+     "pos": "n.",
+     "en": "a word or phrase used to insult or criticize someone",
+     "zh": "骂人的话，贬损用语；带有侮辱性的称呼",
+     "ctx": "指“支持数据中心”这个说法在政治上越来越像一个骂人的标签，被用来攻击对手",
+     "ex1": "In some circles, the word “capitalist” has become a term of abuse. 在某些圈子里，“资本家”这个词已经成了一种骂人的称呼。",
+     "ex2": "During the election, “career politician” was used as a term of abuse by both sides. 选举期间，“职业政客”被双方当作贬损用语来使用。"
+    }
+   ]
+  },
+  {
+   "en_html": "Public opinion has shifted dramatically. A little over a year ago some <mark class=\"voc\">polls</mark> showed majority support for local data-centre construction. By March, a Gallup poll found 71% opposed. An Economist/YouGov poll at the end of August put opposition at 63%. Chicago illustrates the change. Long before the AI boom, the city and its <mark class=\"voc\">suburbs</mark> hosted scores of data centres with little <mark class=\"voc\">controversy</mark>. Now residents are <mark class=\"voc\">packing</mark> public meetings to stop new developments.",
+   "zh": "公众态度同样发生了剧烈转变。一年多以前，一些民调还显示，大多数人支持在当地建设数据中心；到了今年3月，盖洛普的一项民调却发现，71%的受访者表示反对。8月底，《经济学人》与YouGov联合进行的民调则显示，反对比例为63%。芝加哥正是这种变化的缩影：早在人工智能热潮兴起之前，这座城市及其郊区就已经拥有数十座数据中心，却几乎没有引发什么争议；如今，居民们却纷纷涌入公共听证会，试图阻止新的数据中心项目落地。",
+   "notes": [
+    {
+     "w": "poll",
+     "ipa": "/pəʊl/",
+     "pos": "n.",
+     "en": "a survey in which people are asked their opinions about a particular subject",
+     "zh": "民意调查，民意测验",
+     "ctx": "指关于数据中心建设的公众舆论调查",
+     "ex1": "The latest poll shows that support for the new policy has dropped sharply. 最新民调显示，对新政策的支持率大幅下降。",
+     "ex2": "According to a recent poll, most voters are concerned about rising housing costs. 根据最近的一项民调，大多数选民担心住房成本上涨。"
+    },
+    {
+     "w": "suburb",
+     "ipa": "/ˈsʌbɜːb/",
+     "pos": "n.",
+     "en": "a residential area on the edge of a city or large town",
+     "zh": "郊区，近郊住宅区",
+     "ctx": "指芝加哥及其郊区长期以来容纳了大量数据中心，几乎没有引发争议",
+     "ex1": "The family moved to the suburbs in search of better schools and more space. 这家人搬到了郊区，以寻求更好的学校和更大的空间。",
+     "ex2": "The company relocated its headquarters from downtown to a quiet suburb. 公司把总部从市中心搬到了一个安静的郊区。"
+    },
+    {
+     "w": "controversy",
+     "ipa": "/ˈkɒntrəvɜːsi/",
+     "pos": "n.",
+     "en": "prolonged public disagreement or heated discussion",
+     "zh": "争议，争论；激烈的公开辩论",
+     "ctx": "指数据中心在芝加哥曾长期存在却几乎没有引起公众争论",
+     "ex1": "The proposal to build a new airport sparked fierce controversy among local residents. 修建新机场的提议在当地居民中引发了激烈争议。",
+     "ex2": "The controversial policy has been at the center of public debate for months. 这项有争议的政策数月来一直是公众辩论的焦点。"
+    },
+    {
+     "w": "pack",
+     "ipa": "/pæk/",
+     "pos": "v.",
+     "en": "to fill a place completely, especially with people",
+     "zh": "挤满，塞满；使（场所）座无虚席",
+     "ctx": "指居民挤满公众会议，以阻止新的数据中心开发项目",
+     "ex1": "Angry residents packed the town hall meeting to protest the proposed landfill site. 愤怒的居民挤满了市政厅会议，抗议拟议的垃圾填埋场。",
+     "ex2": "Fans packed the stadium for the championship game. 球迷挤满了体育场观看冠军赛。"
+    }
+   ]
+  }
+ ]
+}
