@@ -1,0 +1,367 @@
+{
+ "date": "2026-09-10",
+ "title_tag": "全世界的孩子都越学越差？这一代到底怎么了？全球教育出了什么问题？—— 英国经济学人外刊讲解第1163天",
+ "h1": "全世界的孩子都越学越差？这一代到底怎么了？全球教育出了什么问题？",
+ "source_label": "The Economist",
+ "category": "经济学人外刊讲解 第1163天",
+ "read_minutes": 18,
+ "nav_hint": "Are teenagers growing dimmer?",
+ "headline": {
+  "en_html": "<span>Are teenagers growing <mark class=\"voc\">dimmer</mark>?</span> — <span>The latest global school tests <mark class=\"voc\">reveal</mark> shocking new declines</span>",
+  "zh": "青少年正在变笨吗？—— 最新全球学生测评，揭开一轮令人心惊的新滑坡。",
+  "notes": [
+   {
+    "w": "dim",
+    "ipa": "/dɪm/",
+    "pos": "adj.",
+    "en": "dim (adj.) means not intelligent or slow to understand; also, giving or having little light",
+    "zh": "笨的、脑子不灵光的；昏暗的",
+    "ctx": "标题用“灯光变暗”比喻智力下降，问的是当今15岁青少年的认知能力是否一年不如一年。",
+    "ex1": "Investors were not dim enough to miss the warning signs buried in the footnotes. 投资者还没笨到看不出财报附注里埋着的警告信号。",
+    "ex2": "The corridor was so dim that she had to feel her way along the wall. 走廊光线太暗，她只能扶着墙摸索前行。"
+   },
+   {
+    "w": "reveal",
+    "ipa": "/rɪˈviːl/",
+    "pos": "v.",
+    "en": "reveal (v.) means to make known something that was previously secret or unknown",
+    "zh": "揭示、披露",
+    "ctx": "副标题中指PISA最新数据把此前不为人知的成绩滑坡程度公之于众。",
+    "ex1": "The audit revealed that nearly a third of the invoices had been filed twice. 审计揭露，近三分之一的发票被重复入账了。",
+    "ex2": "Court documents revealed the size of the settlement for the first time. 法庭文件首次披露了这笔和解金的规模。"
+   }
+  ]
+ },
+ "paragraphs": [
+  {
+   "en_html": "Every three years the OECD, a club of mostly rich countries, releases the results of international school tests <mark class=\"voc\">sat</mark> by 15-year-olds all across the world. There were reasons to hope that the latest data, published on September 8th, would bring positive news. <mark class=\"voc\">Marks</mark> in mathematics, reading and science had <mark class=\"voc\">collapsed</mark> in the previous round of testing, which was <mark class=\"voc\">carried out</mark> just after the pandemic. Policymakers <mark class=\"voc\">dared</mark> hope that, with the <mark class=\"voc\">calamity</mark> well in the past, grades might start to <mark class=\"voc\">rebound</mark>.",
+   "zh": "每隔三年，由发达国家组成的经济合作与发展组织（OECD）都会公布一次全球15岁学生参加的国际学业测评结果。人们原本有理由期待，9月8日发布的这份最新数据能带来些好消息：上一轮测评恰逢疫情刚刚过去，数学、阅读、科学三科成绩全线崩塌；如今大难已远，决策者们不免暗自盼望，分数总该触底反弹了吧。",
+   "notes": [
+    {
+     "w": "sit",
+     "ipa": "/sɪt/",
+     "pos": "v.",
+     "en": "sit (v.) means to take an examination",
+     "zh": "参加（考试）、应考",
+     "ctx": "tests sat by 15-year-olds 中 sat 为过去分词作后置定语，指由全球15岁学生参加的那些测试。",
+     "ex1": "She is sitting her final accountancy exams in November. 她将于十一月参加会计资格的结业考试。",
+     "ex2": "Thousands of candidates sat the entrance test under tightened security. 数千名考生在加强安保的条件下参加了入学考试。"
+    },
+    {
+     "w": "mark",
+     "ipa": "/mɑːk/",
+     "pos": "n.",
+     "en": "mark (n.) means a number or letter given to show the quality of a student's work or performance in an exam",
+     "zh": "分数、成绩",
+     "ctx": "Marks in mathematics, reading and science had collapsed 指上一轮PISA中三门学科的得分全线崩塌。",
+     "ex1": "He scraped a pass mark in chemistry but topped the class in physics. 他化学勉强及格，物理却考了全班第一。",
+     "ex2": "Examiners deducted marks for answers that ignored the word limit. 阅卷人对超出字数限制的答案予以扣分。"
+    },
+    {
+     "w": "collapse",
+     "ipa": "/kəˈlæps/",
+     "pos": "v.",
+     "en": "collapse (v.) means to fall down suddenly; to fail or decline very suddenly and completely",
+     "zh": "崩盘、断崖式暴跌",
+     "ctx": "指2022年那轮PISA中，OECD国家数学、阅读、科学三科成绩出现历史性大幅下滑，作者用“塌方”而非“下降”来形容其剧烈程度。",
+     "ex1": "Ticket sales collapsed within days of the safety scandal breaking. 安全丑闻曝光几天之内，票务销售就崩了。",
+     "ex2": "Merger talks collapsed after the two sides failed to agree on valuation. 双方在估值上谈不拢，并购谈判随之破裂。"
+    },
+    {
+     "w": "carry out",
+     "ipa": "/ˈkæri aʊt/",
+     "pos": "固定短语",
+     "en": "carry out (phr. v.) means to perform or complete a task, plan, experiment or investigation",
+     "zh": "实施、开展、进行",
+     "ctx": "which was carried out just after the pandemic 指上一轮PISA测试恰好是在疫情刚结束时组织实施的。",
+     "ex1": "The agency carried out surprise inspections at twelve processing plants. 该机构对十二家加工厂进行了突击检查。",
+     "ex2": "Engineers carried out repairs overnight to reopen the line by Monday. 工程师连夜抢修，赶在周一前恢复通车。"
+    },
+    {
+     "w": "dare",
+     "ipa": "/deə(r)/",
+     "pos": "v.",
+     "en": "dare (v.) means to be brave enough or confident enough to do something",
+     "zh": "敢于（抱有某种想法）",
+     "ctx": "Policymakers dared hope 写出各国决策者当时“心里其实没底、却还是想赌一把”的谨慎期待。",
+     "ex1": "Few economists dared predict a rebound so soon after the crash. 崩盘之后这么快就反弹，几乎没有经济学家敢做此预测。",
+     "ex2": "I dare say the figures will be revised once the audit is complete. 我敢说，审计一结束这些数字就得修订。"
+    },
+    {
+     "w": "calamity",
+     "ipa": "/kəˈlæməti/",
+     "pos": "n.",
+     "en": "calamity (n.) means an event that causes great damage, suffering or distress to many people",
+     "zh": "灾难（比disaster更书面、更重）",
+     "ctx": "with the calamity well in the past 中的 calamity 指新冠疫情，作者用这个词强调其对教育造成的破坏是全局性、灾难级的。",
+     "ex1": "The drought was the worst calamity to strike the region in half a century. 这场旱灾是半个世纪以来袭击该地区的最严重灾难。",
+     "ex2": "Regulators moved quickly to avert a calamity in the bond market. 监管机构迅速出手，避免了债市的一场灾难。"
+    },
+    {
+     "w": "rebound",
+     "ipa": "/rɪˈbaʊnd/",
+     "pos": "v.",
+     "en": "rebound (v.) means to increase in value or improve in condition again after a fall or decline",
+     "zh": "反弹、回升",
+     "ctx": "grades might start to rebound 指决策者原本期待疫情后PISA分数能触底回升——但事实证明并没有。",
+     "ex1": "Retail sales rebounded strongly once the lockdown restrictions were lifted. 封控措施一取消，零售额便强劲反弹。",
+     "ex2": "Shares rebounded from a three-year low after the buyback was announced. 回购计划宣布后，股价从三年低点反弹。"
+    }
+   ]
+  },
+  {
+   "en_html": "That is not what happened. On the contrary, in rich countries—the primary focus of the tests—scores in all three <mark class=\"voc\">disciplines</mark> have fallen further. In <mark class=\"voc\">literacy</mark>, the decline is actually speeding up. These data suggest that there are <mark class=\"voc\">long-running</mark> factors pushing down achievement in schools, and that without <mark class=\"voc\">swift</mark> correction, pupils’ abilities could yet <mark class=\"voc\">plumb</mark> further depths. Anyone who cares about the young of today—and the economies of tomorrow—ought to be <mark class=\"voc\">alarmed</mark>.",
+   "zh": "然而事与愿违。恰恰相反，在这场测评最为关注的发达国家，三门学科的分数继续下滑；阅读一项，跌势甚至还在加快。数据显示，有一些由来已久的因素正在拖累校内学业表现——若不迅速纠偏，学生的能力还将探至更深的谷底。凡是关心今日之少年、以及明日之经济的人，都该警醒了。",
+   "notes": [
+    {
+     "w": "discipline",
+     "ipa": "/ˈdɪsəplɪn/",
+     "pos": "n.",
+     "en": "discipline (n.) means a particular area of study or branch of knowledge, especially an academic subject",
+     "zh": "学科、科目",
+     "ctx": "scores in all three disciplines 指PISA所测的阅读、数学、科学三门学科，是“学科”义而非“纪律”义。",
+     "ex1": "Machine learning now draws on statistics, neuroscience and half a dozen other disciplines. 机器学习如今借力于统计学、神经科学以及其他六七门学科。",
+     "ex2": "The prize is awarded annually to a young researcher in any scientific discipline. 该奖项每年授予任一科学学科中的青年研究者。"
+    },
+    {
+     "w": "literacy",
+     "ipa": "/ˈlɪtərəsi/",
+     "pos": "n.",
+     "en": "literacy (n.) means the ability to read and write; by extension, competence in a specified area",
+     "zh": "读写能力；某领域的基本素养",
+     "ctx": "In literacy, the decline is actually speeding up 指PISA阅读一项的分数不仅在跌，跌势还在加快，是全文最受关注的一科。",
+     "ex1": "The charity runs evening classes aimed at raising adult literacy in rural districts. 该慈善机构开设夜校，旨在提升农村地区的成人识字率。",
+     "ex2": "Schools are being urged to treat financial literacy as a core skill, not an add-on. 学校被敦促把财商素养视作核心技能，而非附加课程。"
+    },
+    {
+     "w": "long-running",
+     "ipa": "/ˌlɒŋ ˈrʌnɪŋ/",
+     "pos": "adj.",
+     "en": "long-running (adj.) means having continued for a long period of time",
+     "zh": "由来已久的、长期存在的",
+     "ctx": "long-running factors pushing down achievement 指那些在疫情之前早已存在、持续压低学业表现的深层因素。",
+     "ex1": "The two firms finally settled a long-running dispute over patent royalties. 两家公司终于了结了一场旷日持久的专利使用费纠纷。",
+     "ex2": "Her resignation reopened a long-running debate about board independence. 她的辞职重新点燃了关于董事会独立性的长期争论。"
+    },
+    {
+     "w": "swift",
+     "ipa": "/swɪft/",
+     "pos": "adj.",
+     "en": "swift (adj.) means happening quickly or without delay",
+     "zh": "迅速的、及时的",
+     "ctx": "without swift correction 指若不及时纠正教育政策的偏差，学生能力还将继续下探。",
+     "ex1": "Regulators promised swift action against firms that mislead retail investors. 监管方承诺，对误导散户的公司将迅速采取行动。",
+     "ex2": "The company's swift recall of the product limited the damage to its brand. 公司迅速召回产品，把品牌损失控制在了最小范围。"
+    },
+    {
+     "w": "plumb",
+     "ipa": "/plʌm/",
+     "pos": "v.",
+     "en": "plumb (v.) means to measure the depth of water; to reach or explore the lowest point of something",
+     "zh": "探至最深处、跌到谷底",
+     "ctx": "pupils' abilities could yet plumb further depths 指学生能力可能跌到比现在更低的水平——铅锤已经落底一次，绳子还在往下放。",
+     "ex1": "Consumer confidence plumbed new depths in the third quarter. 第三季度，消费者信心跌至新低。",
+     "ex2": "The novel plumbs the depths of a marriage falling quietly apart. 这部小说深掘了一段悄然瓦解的婚姻。"
+    },
+    {
+     "w": "alarmed",
+     "ipa": "/əˈlɑːmd/",
+     "pos": "adj.",
+     "en": "alarmed (adj.) means frightened or anxious that something dangerous or unpleasant may happen",
+     "zh": "警觉的、心生警惕的",
+     "ctx": "Anyone who cares... ought to be alarmed 指凡关心青少年与未来经济的人，都该对这组数据拉响心里的警报。",
+     "ex1": "Officials grew alarmed by how quickly the deficit was widening. 赤字扩大之快，令官员们警觉起来。",
+     "ex2": "An alarming share of graduates now take jobs unrelated to their degrees. 如今有相当高比例的毕业生从事与专业无关的工作，这一数字令人担忧。"
+    }
+   ]
+  },
+  {
+   "en_html": "The OECD’s project, known as PISA, takes a measure of young people’s <mark class=\"voc\">aptitudes</mark> as they approach the end of their <mark class=\"voc\">compulsory</mark> school days. The results are used to create an international <mark class=\"voc\">league table</mark> <mark class=\"voc\">of sorts</mark>. This year, as in almost every round since 2000, Asian school systems <mark class=\"voc\">rule the roost</mark>. Children in China—taking part for the first time since 2018—have <mark class=\"voc\">wiped the floor with</mark> almost everyone else (though scores there are <mark class=\"voc\">skewed</mark> because the tests are sat in only four rich provinces). In science they score 100 points above the average for OECD countries.",
+   "zh": "OECD的这一项目，通称PISA，衡量的是年轻人在义务教育行将结束之际所具备的能力素养，其结果则被用来排出一张国际名次表——姑且算是名次表吧。今年，一如2000年以来的几乎每一轮，亚洲的教育体系依旧独占鳌头。中国自2018年后首次参评，几乎将所有对手碾于足下（尽管其分数存在偏差，因为考试仅在四个富庶省份进行）。仅科学一科，他们就高出OECD国家均分整整100分。",
+   "notes": [
+    {
+     "w": "aptitude",
+     "ipa": "/ˈæptɪtjuːd/",
+     "pos": "n.",
+     "en": "aptitude (n.) means a natural ability or talent that makes it easy for someone to learn or do something well",
+     "zh": "资质、能力倾向（偏天赋而非后天所学）",
+     "ctx": "takes a measure of young people's aptitudes 指PISA衡量的是15岁学生在义务教育收尾时所具备的综合能力素养。",
+     "ex1": "Recruiters use a short aptitude test to screen hundreds of applicants each spring. 招聘方每年春天用一套简短的能力测试筛选数百名申请者。",
+     "ex2": "She showed an unusual aptitude for pattern recognition from an early age. 她自幼便在模式识别上展现出过人的天赋。"
+    },
+    {
+     "w": "compulsory",
+     "ipa": "/kəmˈpʌlsəri/",
+     "pos": "adj.",
+     "en": "compulsory (adj.) means required by law or by a rule; that must be done",
+     "zh": "强制的、义务的",
+     "ctx": "the end of their compulsory school days 指15岁正是多数国家义务教育行将结束的节点，PISA刻意选在这个时点测量“义务教育的最终成果”。",
+     "ex1": "Helmet use became compulsory for all riders under the new road rules. 新交规规定，所有骑行者必须戴头盔。",
+     "ex2": "Several districts have made a second language compulsory from the age of six. 若干学区已规定，儿童从六岁起必须修读第二语言。"
+    },
+    {
+     "w": "league table",
+     "ipa": "/ˈliːɡ ˌteɪbl/",
+     "pos": "短语",
+     "en": "league table (n.) means a list showing schools, companies or teams ranked in order of performance",
+     "zh": "排行榜、名次表",
+     "ctx": "an international league table of sorts 指PISA结果被用来排出各国教育体系的国际名次表。",
+     "ex1": "The hospital climbed nine places in this year's national league table. 在今年的全国排名榜上，这家医院上升了九位。",
+     "ex2": "Critics say university league tables reward reputation more than teaching. 批评者称，大学排行榜奖励的是名气而非教学。"
+    },
+    {
+     "w": "of sorts",
+     "ipa": "—",
+     "pos": "固定短语",
+     "en": "of sorts is used after a noun to show that something is of a poor or doubtful quality, or only just deserves the name",
+     "zh": "勉强算是……、姑且称之为……（含轻微保留或不以为然）",
+     "ctx": "作者借这三个词暗示PISA排名“也就勉强算个排行榜”，不宜被过度当真。",
+     "ex1": "He offered an apology of sorts, though he never admitted he was wrong. 他算是道了个歉，却始终没承认自己有错。",
+     "ex2": "They cobbled together a business plan of sorts over a single weekend. 他们用一个周末拼凑出了一份勉强算是商业计划的东西。"
+    },
+    {
+     "w": "rule the roost",
+     "ipa": "—",
+     "pos": "固定短语",
+     "en": "rule the roost (idiom) means to be the person or group with the most power and control in a place",
+     "zh": "称王称霸、说了算、独占鳌头",
+     "ctx": "Asian school systems rule the roost 指2000年以来几乎每一届PISA，亚洲教育体系都稳居榜首。",
+     "ex1": "Chinese manufacturers now rule the roost in battery production. 中国制造商如今在电池生产领域稳坐头把交椅。",
+     "ex2": "In that kitchen, it is the pastry chef who rules the roost. 在那个厨房里，说了算的是甜点师傅。"
+    },
+    {
+     "w": "wipe the floor with sb",
+     "ipa": "—",
+     "pos": "固定短语",
+     "en": "wipe the floor with someone (idiom) means to defeat someone completely and easily in a contest or argument",
+     "zh": "彻底碾压、吊打",
+     "ctx": "Children in China have wiped the floor with almost everyone else 指中国参测的四省市学生成绩把几乎所有其他地区远远甩开，科学一科高出OECD均分100分。",
+     "ex1": "Their debate team wiped the floor with every school in the region. 他们的辩论队把全区各校打得毫无还手之力。",
+     "ex2": "The low-cost carrier wiped the floor with legacy airlines on short-haul routes. 在短途航线上，这家廉航把传统航司碾得片甲不留。"
+    },
+    {
+     "w": "skewed",
+     "ipa": "/skjuːd/",
+     "pos": "adj.",
+     "en": "skewed (adj.) means not accurate or fair because the information or sample it is based on is not representative",
+     "zh": "（数据）失真的、有偏的",
+     "ctx": "scores there are skewed 指中国的高分存在样本偏差，因为参测的只有北京、上海、江苏、浙江四个富裕省市，不能代表全国水平。",
+     "ex1": "The survey was heavily skewed towards households that already own a car. 这份调查严重偏向了已经拥有汽车的家庭。",
+     "ex2": "Averages give a skewed picture when a handful of firms earn most of the profits. 当利润集中在少数几家公司手里时，平均数会给出一幅失真的图景。"
+    }
+   ]
+  },
+  {
+   "en_html": "Yet <mark class=\"voc\">zoom out</mark>, and the dominant story is of long-term decline. The average scores in the 23 OECD-member countries that have <mark class=\"voc\">taken part in</mark> every <mark class=\"voc\">edition</mark> of PISA reached a <mark class=\"voc\">peak</mark> around 2012 and have been falling <mark class=\"voc\">ever since</mark>. In both maths and reading, their 15-year-olds are now <mark class=\"voc\">testing</mark> at levels that might have been achieved by 14-year olds a decade ago.",
+   "zh": "可若把镜头拉远，主旋律便是一条长长的下坡路。在那23个每届PISA从未缺席的OECD成员国中，平均分在2012年前后见顶，此后一路走低。数学与阅读两科，如今15岁少年考出的水平，不过是十年前14岁孩子就能达到的高度。",
+   "notes": [
+    {
+     "w": "zoom out",
+     "ipa": "/zuːm aʊt/",
+     "pos": "短语动词",
+     "en": "zoom out (phr. v.) means to make a picture or view wider so that a bigger area can be seen; to consider the wider context",
+     "zh": "放眼全局、拉远视角看长期",
+     "ctx": "Yet zoom out 是全文的一次视角切换——上一段镜头对准亚洲的高分，这一句把画面拉远，露出的是一条持续十余年的下坡线。",
+     "ex1": "Zoom out from the quarterly numbers and the company's decade-long slide is obvious. 把视线从季度数字上移开放眼全局，这家公司十年来的滑坡一目了然。",
+     "ex2": "Let's zoom in on the two months when subscriptions actually grew. 我们把镜头推近，看看订阅量真正增长的那两个月。"
+    },
+    {
+     "w": "edition",
+     "ipa": "/ɪˈdɪʃn/",
+     "pos": "n.",
+     "en": "edition (n.) means one of a series of regularly repeated events, or a particular version of a publication",
+     "zh": "（定期举办活动的）届、期",
+     "ctx": "every edition of PISA 指自2000年首考以来的每一届PISA测试；作者强调只统计“每届都参加的23个国家”，以保证跨25年的数据可比性。",
+     "ex1": "This is the fortieth edition of the festival, and the largest so far. 这是该音乐节的第四十届，也是迄今规模最大的一届。",
+     "ex2": "A revised edition of the textbook adds two chapters on machine learning. 教科书修订版新增了两章机器学习内容。"
+    },
+    {
+     "w": "take part in",
+     "ipa": "—",
+     "pos": "固定短语",
+     "en": "take part in something means to be involved in an activity together with other people",
+     "zh": "参加、参与",
+     "ctx": "the 23 OECD-member countries that have taken part in every edition 指那23个从2000年起一届未落的成员国，是全文长期趋势分析的样本基础。",
+     "ex1": "More than sixty schools took part in the pilot programme last autumn. 去年秋天，六十多所学校参与了这项试点计划。",
+     "ex2": "She took an active part in drafting the new safety guidelines. 她积极参与了新安全准则的起草工作。"
+    },
+    {
+     "w": "peak",
+     "ipa": "/piːk/",
+     "pos": "n. & v.",
+     "en": "peak (n./v.) means the highest point or level that something reaches, or to reach that highest point",
+     "zh": "（数据的）峰值；见顶",
+     "ctx": "reached a peak around 2012 指OECD成员国的PISA平均分在2012年前后触及历史最高点，此后一路下行，2012年因此成为全文的关键转折年份。",
+     "ex1": "Subscriber numbers peaked in 2019 and have drifted lower ever since. 订阅用户数在2019年见顶，此后一路走低。",
+     "ex2": "Fares are noticeably cheaper if you travel off-peak. 错峰出行的话，票价会便宜不少。"
+    },
+    {
+     "w": "ever since",
+     "ipa": "—",
+     "pos": "固定短语",
+     "en": "ever since means continuously from a particular time in the past until now",
+     "zh": "从那以后一直（常配现在完成时/完成进行时）",
+     "ctx": "have been falling ever since 用完成进行时强调分数从2012年跌到今天，且跌势仍在持续，并未止住。",
+     "ex1": "He left the firm in 2015 and has been consulting ever since. 他2015年离开公司，此后一直做咨询。",
+     "ex2": "The bridge closed for repairs in March and has been shut ever since. 这座桥三月起封闭维修，至今仍未开放。"
+    },
+    {
+     "w": "test",
+     "ipa": "/test/",
+     "pos": "v.",
+     "en": "test (v.) means to show a particular level, result or condition when measured or examined",
+     "zh": "（在测试中）表现出……的水平、测出来是……",
+     "ctx": "their 15-year-olds are now testing at levels that might have been achieved by 14-year-olds a decade ago 指今天15岁孩子测出来的水平，只相当于十年前14岁孩子的水平——十年倒退一个年级。",
+     "ex1": "Nearly a third of incoming freshmen test below grade level in mathematics. 近三分之一的新生数学水平测出来低于所在年级标准。",
+     "ex2": "Two of the samples tested positive for contamination. 其中两份样本的污染检测呈阳性。"
+    }
+   ]
+  },
+  {
+   "en_html": "Children who were already among the poorest <mark class=\"voc\">performers</mark> are <mark class=\"voc\">falling even further behind</mark>. Across education systems, the gap between low- and high-performing students is now the largest ever recorded by PISA, in all the disciplines it tests. Some 29% of 15-year-olds in OECD countries are considered low performers in all three of reading, mathematics and science—<mark class=\"voc\">up from</mark> 25% when the tests were <mark class=\"voc\">run</mark> four years ago.",
+   "zh": "本就垫底的那批孩子，正被甩得更远。放眼各国教育体系，成绩最差与最好的学生之间的差距，如今已是PISA有史以来记录到的最大值——而且三门皆然。OECD国家中，约有29%的15岁少年在阅读、数学、科学三科上同时被判为低水平者；四年前的上一轮测试，这个数字还是25%。",
+   "notes": [
+    {
+     "w": "performer",
+     "ipa": "/pəˈfɔːmə(r)/",
+     "pos": "n.",
+     "en": "performer (n.) means a person who achieves a particular standard of results in tests, study or work",
+     "zh": "（成绩上的）表现者",
+     "ctx": "the poorest performers / low performers 分别指成绩最差的那批学生、以及三门均达不到基本水平的学生。",
+     "ex1": "The fund has been a strong performer in every year but one. 除去一年，这只基金年年表现强劲。",
+     "ex2": "Low performers were offered extra tutoring rather than being held back a year. 成绩落后的学生获得了额外辅导，而不是被要求留级。"
+    },
+    {
+     "w": "fall behind",
+     "ipa": "—",
+     "pos": "短语动词",
+     "en": "fall behind (phr. v.) means to fail to keep up with others in progress, speed or standard",
+     "zh": "落后、掉队",
+     "ctx": "Children who were already among the poorest performers are falling even further behind 指本就垫底的那批学生正被甩得更远，是本段“差距扩大”论点的开场。",
+     "ex1": "Two of the plants have fallen badly behind schedule. 其中两家工厂的进度严重滞后。",
+     "ex2": "Without extra support, struggling readers fall further behind every year. 若无额外支持，阅读吃力的孩子每年都会落后得更多。"
+    },
+    {
+     "w": "up from",
+     "ipa": "—",
+     "pos": "固定结构",
+     "en": "up from is used to show that a current figure has risen compared with an earlier one",
+     "zh": "较……上升（把两个时点的数据压进一句话）",
+     "ctx": "29%—up from 25% when the tests were run four years ago 指低水平学生的比例从四年前的25%升至如今的29%。",
+     "ex1": "Revenue reached $3.4bn, up from $2.9bn a year earlier. 营收达到34亿美元，高于一年前的29亿美元。",
+     "ex2": "Only 37% now read for pleasure, down from nearly 60% in the 1990s. 如今仅有37%的人会因喜爱而阅读，低于上世纪90年代的近六成。"
+    },
+    {
+     "w": "run",
+     "ipa": "/rʌn/",
+     "pos": "v.",
+     "en": "run (v.) means to organise, operate or conduct something such as a test, course or business",
+     "zh": "开展、进行、运作",
+     "ctx": "when the tests were run four years ago 指上一轮PISA测试组织实施的时候，即2022年那一届。",
+     "ex1": "The lab runs the same experiment three times before publishing any result. 该实验室在发表任何结果前，都会把同一实验做三遍。",
+     "ex2": "She runs a small consultancy advising family-owned firms. 她经营着一家小型咨询公司，为家族企业提供顾问服务。"
+    }
+   ]
+  }
+ ]
+}

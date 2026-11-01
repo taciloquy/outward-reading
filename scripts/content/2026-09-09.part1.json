@@ -1,0 +1,327 @@
+{
+ "date": "2026-09-09",
+ "title_tag": "中国汽车出海杀疯了：5年出口暴涨7倍，现在开始把工厂开到全世界！欧洲人都看傻了—— 英国《经济学人》外刊讲解第1162天",
+ "h1": "中国汽车出海杀疯了：5年出口暴涨7倍，现在开始把工厂开到全世界！欧洲人都看傻了",
+ "source_label": "The Economist",
+ "category": "经济学人外刊讲解 第1162天",
+ "read_minutes": 18,
+ "nav_hint": "Carmakers Bring Factories to the World",
+ "headline": {
+  "en_html": "<span>Chinese carmakers are bringing their factories to the world</span> — <span><mark class=\"voc\">Incumbents</mark> will need to hit the accelerator to compete</span>",
+  "zh": "中国汽车制造商正把工厂开向全世界 —— 传统车企若想与之竞争，就必须踩下“加速踏板”",
+  "notes": [
+   {
+    "w": "incumbent",
+    "ipa": "/ɪnˈkʌmbənt/",
+    "pos": "n.",
+    "en": "a company or person that currently holds a dominant position in a market or industry",
+    "zh": "现有企业，在位者",
+    "ctx": "指已在市场中占据主导地位的传统汽车制造商（与新兴的中国车企相对，暗示这些老牌企业面临被挑战的压力）",
+    "ex1": "The incumbents in the telecommunications industry are struggling to adapt to the rise of internet-based calling services. 电信行业的现有企业正在艰难适应基于互联网的通话服务的兴起。",
+    "ex2": "As an incumbent in the software market, the company enjoyed customer loyalty but faced pressure from agile startups. 作为软件市场的现有企业，该公司享有客户忠诚度，但也面临来自灵活初创公司的压力。"
+   }
+  ]
+ },
+ "paragraphs": [
+  {
+   "en_html": "When Ford opened the industry’s first large-scale overseas <mark class=\"voc\">outpost</mark>, in Manchester in 1911, it set the route by which ambitious carmakers went from dominating at home to <mark class=\"voc\">spanning</mark> the globe. Over a century later, with Ford <mark class=\"voc\">in retreat</mark>, exports of China’s cheap but technologically advanced cars are <mark class=\"voc\">roaring</mark>, and its firms are taking the next step to becoming global giants. When localising production, Chinese carmakers will not be able to bring all of their competitive advantages with them. But many will travel—to the <mark class=\"voc\">dismay</mark> of foreign rivals.",
+   "zh": "1911年，福特在曼彻斯特建立了汽车行业首个大规模海外生产基地，也由此开辟了一条后来雄心勃勃的汽车制造商们从称霸本土市场走向全球扩张的道路。一个多世纪后的今天，福特正在收缩战线，而中国价格低廉、技术先进的汽车出口却一路高歌猛进，中国车企也正迈出成为全球汽车巨头的下一步。在推进生产本地化的过程中，中国汽车制造商不可能把自己所有的竞争优势原封不动地带到海外。但其中许多优势依然会随它们一同出海——这无疑会令外国竞争对手感到不安。",
+   "notes": [
+    {
+     "w": "outpost",
+     "ipa": "/ˈaʊtpəʊst/",
+     "pos": "n.",
+     "en": "a remote settlement or branch established by an organization in a new territory",
+     "zh": "前哨，海外据点",
+     "ctx": "指福特在曼彻斯特开设的业内首家大型海外工厂，比喻车企在海外设立的生产据点",
+     "ex1": "The tech company established an outpost in Singapore to serve the Asian market. 这家科技公司在新加坡设立了据点以服务亚洲市场。",
+     "ex2": "The bank's London office began as a small outpost but grew into its European headquarters. 这家银行的伦敦办事处最初只是一个小型前哨，后来发展成了其欧洲总部。"
+    },
+    {
+     "w": "span",
+     "ipa": "/spæn/",
+     "pos": "v.",
+     "en": "to extend across or cover a particular range, area, or period",
+     "zh": "跨越，遍及",
+     "ctx": "指从称霸本土扩展到遍布全球的过程",
+     "ex1": "The company's supply chain spans more than 30 countries across five continents. 该公司的供应链横跨五大洲的30多个国家。",
+     "ex2": "Her career in journalism spanned four decades and covered everything from local news to international affairs. 她的新闻职业生涯跨越了四十年，报道内容从本地新闻到国际事务无所不包。"
+    },
+    {
+     "w": "in retreat",
+     "ipa": "/ɪn rɪˈtriːt/",
+     "pos": "phr.",
+     "en": "withdrawing from a position or losing ground to competitors",
+     "zh": "节节败退，处于退却之中",
+     "ctx": "指福特等传统车企在全球市场不断收缩、失去竞争优势的状态",
+     "ex1": "With sales falling for the fifth consecutive year, the once-dominant brand is clearly in retreat. 随着销量连续第五年下滑，这个曾经占主导地位的品牌显然正在节节败退。",
+     "ex2": "Traditional cable television is in retreat as streaming services continue to gain subscribers. 随着流媒体服务不断获得订阅用户，传统有线电视正在退却。"
+    },
+    {
+     "w": "roar",
+     "ipa": "/rɔːr/",
+     "pos": "v.",
+     "en": "to move forward or develop with great speed, energy, and force",
+     "zh": "飞速发展，势如破竹",
+     "ctx": "形容中国汽车出口增长迅猛、势头强劲",
+     "ex1": "The e-commerce sector continues to roar ahead despite the broader economic slowdown. 尽管整体经济放缓，电子商务行业仍在飞速前进。",
+     "ex2": "The new energy vehicle market is roaring, with sales doubling year after year. 新能源汽车市场正势如破竹，销量逐年翻倍。"
+    },
+    {
+     "w": "dismay",
+     "ipa": "/dɪsˈmeɪ/",
+     "pos": "n.",
+     "en": "a feeling of distress, worry, or disappointment caused by something unexpected",
+     "zh": "沮丧，惊愕，忧虑",
+     "ctx": "指中国车企将竞争优势带到海外，令外国竞争对手感到忧虑和不安",
+     "ex1": "To the dismay of local retailers, the online giant opened three distribution centres in the region. 令当地零售商感到沮丧的是，这家电商巨头在该地区开设了三个配送中心。",
+     "ex2": "The sudden resignation of the CEO was met with dismay by investors. 首席执行官的突然辞职令投资者感到惊愕。"
+    }
+   ]
+  },
+  {
+   "en_html": "China’s <mark class=\"voc\">mighty</mark> carmakers, which <mark class=\"voc\">pump out</mark> around a quarter of the world’s cars, have competitors <mark class=\"voc\">on the run</mark> everywhere. <mark class=\"voc\">Vicious</mark> competition for a domestic market forecast to shrink by 10% this year has <mark class=\"voc\">intensified</mark> a price war and encouraged overseas sales. In five years foreigners’ share of the local market has roughly <mark class=\"voc\">halved</mark>, while exports have risen seven-fold. In 2026 exports could hit 10m vehicles, over 40% more than last year, according to AlixPartners.",
+   "zh": "中国实力雄厚的汽车制造商生产着全球约四分之一的汽车，如今正让世界各地的竞争对手疲于招架。中国国内汽车市场预计今年将萎缩10%，围绕这一市场展开的激烈竞争进一步加剧了价格战，也推动车企扩大海外销售。过去五年间，外国品牌在中国本土市场的份额大约缩水了一半，与此同时，中国汽车出口量却增长到了原来的七倍。咨询公司AlixPartners预计，到2026年，中国汽车出口量可能达到1000万辆，较去年增长40%以上。",
+   "notes": [
+    {
+     "w": "mighty",
+     "ipa": "/ˈmaɪti/",
+     "pos": "adj.",
+     "en": "very large, powerful, or impressive in size or strength",
+     "zh": "强大的，巨大的",
+     "ctx": "形容中国汽车制造商规模庞大、实力雄厚",
+     "ex1": "The mighty tech corporation controls nearly half of the global smartphone market. 这家强大的科技公司控制着全球近一半的智能手机市场。",
+     "ex2": "Even mighty financial institutions were shaken by the sudden market crash. 即便是强大的金融机构也被突如其来的市场崩盘所震动。"
+    },
+    {
+     "w": "pump out",
+     "ipa": "/pʌmp aʊt/",
+     "pos": "v.",
+     "en": "to produce or supply something in large quantities, often continuously",
+     "zh": "大量生产，源源不断地产出",
+     "ctx": "指中国车企以惊人规模持续生产汽车（约占全球四分之一）",
+     "ex1": "The factory pumps out over 5,000 smartphones every hour to meet global demand. 这家工厂每小时生产5000多部智能手机以满足全球需求。",
+     "ex2": "Content creators are pumping out new videos daily to keep their audiences engaged. 内容创作者每天都在大量产出新视频以保持观众的参与度。"
+    },
+    {
+     "w": "on the run",
+     "ipa": "/ɒn ðə rʌn/",
+     "pos": "phr.",
+     "en": "in retreat or being forced to withdraw under pressure from a competitor",
+     "zh": "节节败退，被迫退却",
+     "ctx": "指竞争对手在中国车企的攻势下不断失去市场份额",
+     "ex1": "The once-popular brand is on the run, losing market share to cheaper and more innovative rivals. 这个曾经广受欢迎的品牌正在节节败退，把市场份额输给了更便宜、更具创新性的竞争对手。",
+     "ex2": "Traditional taxi companies are on the run as ride-hailing apps dominate urban transport. 随着叫车应用主导城市交通，传统出租车公司正在节节败退。"
+    },
+    {
+     "w": "vicious",
+     "ipa": "/ˈvɪʃəs/",
+     "pos": "adj.",
+     "en": "extremely intense, fierce, or brutal",
+     "zh": "激烈的，残酷的",
+     "ctx": "形容中国国内汽车市场竞争之惨烈（价格战白热化）",
+     "ex1": "The two airlines are locked in a vicious price war that has driven ticket prices to historic lows. 两家航空公司陷入了一场激烈的价格战，机票价格被压到了历史低位。",
+     "ex2": "Competition for top talent in the tech industry has become increasingly vicious. 科技行业对顶尖人才的竞争变得越来越残酷。"
+    },
+    {
+     "w": "intensify",
+     "ipa": "/ɪnˈtensɪfaɪ/",
+     "pos": "v.",
+     "en": "to become or make something stronger, more extreme, or more severe",
+     "zh": "加剧，强化",
+     "ctx": "指激烈的国内竞争进一步加剧了价格战",
+     "ex1": "The drought intensified concerns about food shortages across the region. 干旱加剧了该地区对粮食短缺的担忧。",
+     "ex2": "The company plans to intensify its marketing efforts ahead of the holiday season. 该公司计划在假日季来临前加大营销力度。"
+    },
+    {
+     "w": "halve",
+     "ipa": "/hɑːv/",
+     "pos": "v.",
+     "en": "to reduce something by half, or to be reduced by half",
+     "zh": "减半，腰斩",
+     "ctx": "指五年间外资品牌在中国本土市场的份额大约减少了一半",
+     "ex1": "The company halved its advertising budget in response to declining revenues. 面对收入下滑，公司将广告预算削减了一半。",
+     "ex2": "Smartphone prices have halved over the past three years due to intense competition. 由于竞争激烈，智能手机价格在过去三年里下降了一半。"
+    }
+   ]
+  },
+  {
+   "en_html": "There are plenty of reasons to manufacture closer to foreign customers. Carmakers want to <mark class=\"voc\">eliminate</mark> the expense of shipping entire vehicles and avoid tariffs. A presence on the ground also helps with <mark class=\"voc\">adapting</mark> cars to local tastes and regulations. China’s firms are already <mark class=\"voc\">assembling</mark> cars, or plan to do so, across much of the developing world, including Indonesia, Kazakhstan, South Africa, Egypt, Brazil and Mexico. But it is the vast European market they <mark class=\"voc\">regard as</mark> their biggest prize.",
+   "zh": "对汽车制造商而言，把生产基地搬到离海外消费者更近的地方，有着充分的理由。车企既希望省去整车长途运输的成本，也希望避开关税。在当地建立生产基地，还有助于根据当地消费者的偏好和监管要求调整车型。如今，中国车企已经在发展中国家的许多地区组装汽车，或计划在那里开展生产，包括印度尼西亚、哈萨克斯坦、南非、埃及、巴西和墨西哥。但在它们眼中，真正最大的目标，还是规模庞大的欧洲市场。",
+   "notes": [
+    {
+     "w": "eliminate",
+     "ipa": "/ɪˈlɪmɪneɪt/",
+     "pos": "v.",
+     "en": "to remove or get rid of something completely",
+     "zh": "消除，省去",
+     "ctx": "指车企通过在海外建厂来省去整车运输的费用",
+     "ex1": "Moving production closer to customers helped the company eliminate expensive shipping costs. 将生产转移到离客户更近的地方帮助公司省去了昂贵的运输费用。",
+     "ex2": "The new software eliminates the need for manual data entry. 这款新软件省去了人工录入数据的需要。"
+    },
+    {
+     "w": "adapt A to B",
+     "ipa": "/əˈdæpt/",
+     "pos": "v.",
+     "en": "to change or adjust something so that it suits a new purpose or situation",
+     "zh": "使A适应B，根据B调整A",
+     "ctx": "指在海外设厂有助于根据当地品味和法规调整车型",
+     "ex1": "The company adapted its menu to local tastes when it entered the Southeast Asian market. 该公司进入东南亚市场时根据当地口味调整了菜单。",
+     "ex2": "International publishers often adapt textbooks to the educational standards of each country. 国际出版商经常根据各国的教育标准调整教科书。"
+    },
+    {
+     "w": "assemble",
+     "ipa": "/əˈsembəl/",
+     "pos": "v.",
+     "en": "to fit together the parts of a product in a factory",
+     "zh": "组装，装配",
+     "ctx": "指中国车企在海外设厂组装汽车",
+     "ex1": "The company assembles its vehicles in three plants across Southeast Asia. 该公司在东南亚的三家工厂组装汽车。",
+     "ex2": "The smartphones are designed in California but assembled in Vietnam. 这些智能手机在加州设计，但在越南组装。"
+    },
+    {
+     "w": "regard as",
+     "ipa": "/rɪˈɡɑːd æz/",
+     "pos": "v.",
+     "en": "to consider or think of something in a particular way",
+     "zh": "将……视为，把……看作",
+     "ctx": "指中国车企将广阔的欧洲市场视为最大的奖赏",
+     "ex1": "Many analysts regard the Indian market as the next major growth opportunity. 许多分析师将印度市场视为下一个重大增长机遇。",
+     "ex2": "The CEO regards employee wellbeing as essential to the company's long-term success. 这位首席执行官将员工福祉视为公司长期成功的关键。"
+    }
+   ]
+  },
+  {
+   "en_html": "If tariffs imposed by the EU in 2024 have hurt Chinese vehicle imports, it hardly shows. In the second quarter of this year Chinese carmakers captured 11% of sales in western Europe, <mark class=\"voc\">overtaking</mark> Japanese rivals. But tougher <mark class=\"voc\">deterrents</mark> are in the works. The EU’s <mark class=\"voc\">proposed</mark> Industrial Accelerator Act would tie purchase <mark class=\"voc\">subsidies</mark> and tax breaks for corporate <mark class=\"voc\">fleets</mark> to vehicles meeting certain local-content <mark class=\"voc\">thresholds</mark>, alongside other measures favouring production within the region.",
+   "zh": "如果说欧盟2024年对中国汽车加征的关税确实打击了中国汽车进口，那么从目前的数据来看，这种影响几乎看不出来。今年第二季度，中国汽车制造商已经拿下西欧11%的汽车销量，超过了日本竞争对手。然而，更严厉的限制措施正在酝酿之中。欧盟拟议中的《工业加速法案》计划把购车补贴以及企业车队的税收优惠，与汽车是否达到一定的本地化生产比例挂钩，同时还将出台其他措施，进一步向在欧洲地区内部生产的汽车倾斜。",
+   "notes": [
+    {
+     "w": "overtake",
+     "ipa": "/ˌəʊvəˈteɪk/",
+     "pos": "v.",
+     "en": "to go past or surpass someone or something in amount, level, or importance",
+     "zh": "超过，超越",
+     "ctx": "指中国车企在西欧的销量份额超过了日本竞争对手",
+     "ex1": "The company overtook its main rival to become the market leader in electric vehicles. 该公司超越了主要竞争对手，成为电动汽车市场的领导者。",
+     "ex2": "Online advertising has overtaken television advertising in total spending. 网络广告的总支出已经超过了电视广告。"
+    },
+    {
+     "w": "deterrent",
+     "ipa": "/dɪˈterənt/",
+     "pos": "n.",
+     "en": "something that discourages or prevents a particular action or behaviour",
+     "zh": "威慑因素，遏制手段",
+     "ctx": "指欧盟正在酝酿的更严厉的贸易限制措施（如本地含量要求）",
+     "ex1": "High import tariffs act as a deterrent to foreign companies seeking to enter the market. 高额进口关税对寻求进入该市场的外国公司起到了威慑作用。",
+     "ex2": "The threat of heavy fines serves as a deterrent against environmental violations. 高额罚款的威胁对破坏环境的行为起到了遏制作用。"
+    },
+    {
+     "w": "proposed",
+     "ipa": "/prəˈpəʊzd/",
+     "pos": "adj.",
+     "en": "suggested or put forward for consideration, often formally",
+     "zh": "拟议的，提议的",
+     "ctx": "指欧盟拟议中的《工业加速器法案》",
+     "ex1": "The proposed legislation would require all large companies to disclose their carbon emissions. 拟议的立法将要求所有大公司披露其碳排放量。",
+     "ex2": "Under the proposed rules, foreign firms would need to meet local content requirements. 根据拟议的规定，外国公司将需要满足本地含量要求。"
+    },
+    {
+     "w": "subsidy",
+     "ipa": "/ˈsʌbsədi/",
+     "pos": "n.",
+     "en": "money given by a government to help reduce the cost of a product or service",
+     "zh": "补贴，补助金",
+     "ctx": "指欧盟将把购车补贴与本地含量门槛挂钩",
+     "ex1": "The government offers subsidies to encourage consumers to buy electric vehicles. 政府提供补贴以鼓励消费者购买电动汽车。",
+     "ex2": "Agricultural subsidies have long been a source of tension in international trade negotiations. 农业补贴长期以来一直是国际贸易谈判中的紧张来源。"
+    },
+    {
+     "w": "fleet",
+     "ipa": "/fliːt/",
+     "pos": "n.",
+     "en": "a group of vehicles owned or operated by a company or organisation",
+     "zh": "车队，企业用车",
+     "ctx": "指欧盟拟将企业车队的税收减免与本地含量要求挂钩",
+     "ex1": "The delivery company recently replaced its entire fleet with electric vans. 这家快递公司最近将全部车队换成了电动货车。",
+     "ex2": "Corporate fleets account for a significant share of new car purchases in Europe. 企业车队占欧洲新车采购的很大份额。"
+    },
+    {
+     "w": "threshold",
+     "ipa": "/ˈθreʃhəʊld/",
+     "pos": "n.",
+     "en": "a level or point at which something starts to happen or a rule takes effect",
+     "zh": "门槛，阈值",
+     "ctx": "指欧盟拟设定的本地含量门槛（达到门槛才能享受补贴和税收优惠）",
+     "ex1": "Companies must meet a minimum local content threshold to qualify for the tax break. 公司必须达到最低本地含量门槛才有资格享受税收减免。",
+     "ex2": "The new policy sets a threshold of 40% renewable energy usage for eligible businesses. 新政策为符合条件的企业设定了40%可再生能源使用率的门槛。"
+    }
+   ]
+  },
+  {
+   "en_html": "Chinese carmakers are <mark class=\"voc\">hurriedly</mark> updating their plans. BYD is close to opening a plant in Hungary that could eventually <mark class=\"voc\">churn out</mark> 300,000 cars a year. It has <mark class=\"voc\">put on hold</mark> another new factory in Turkey as it searches for a pre-existing site in Spain or France. A brand new factory takes around three years to get up and running; <mark class=\"voc\">acquiring</mark> and <mark class=\"voc\">retrofitting</mark> an existing plant is quicker and cheaper. Volkswagen, meanwhile, plans to <mark class=\"voc\">phase out</mark> production at four sites in Germany.",
+   "zh": "中国汽车制造商正在迅速调整自己的布局。比亚迪位于匈牙利的一座工厂即将投产，未来年产能可能达到30万辆。与此同时，比亚迪暂时搁置了在土耳其建设另一座新工厂的计划，转而在西班牙或法国寻找现成的生产基地。从零开始建设一座全新工厂，通常需要大约三年才能投入运营；相比之下，收购并改造一座现有工厂不仅速度更快，成本也更低。与此同时，大众汽车正计划逐步停止其在德国四个生产基地的汽车生产。",
+   "notes": [
+    {
+     "w": "hurriedly",
+     "ipa": "/ˈhʌrɪdli/",
+     "pos": "adv.",
+     "en": "in a rush, often because there is not much time",
+     "zh": "匆忙地，紧急地",
+     "ctx": "指中国车企在欧盟政策压力下紧急调整在欧建厂计划",
+     "ex1": "The company hurriedly revised its expansion plans after the new regulations were announced. 新规公布后，该公司匆忙修改了扩张计划。",
+     "ex2": "Investors hurriedly sold their shares as the stock price began to fall. 随着股价开始下跌，投资者匆忙抛售股票。"
+    },
+    {
+     "w": "churn out",
+     "ipa": "/tʃɜːn aʊt/",
+     "pos": "v.",
+     "en": "to produce large quantities of something, often quickly and mechanically",
+     "zh": "大量生产，批量产出",
+     "ctx": "指比亚迪匈牙利工厂最终可能年产30万辆汽车",
+     "ex1": "The factory churns out thousands of identical parts every day. 这家工厂每天大量生产数千个相同的零件。",
+     "ex2": "The studio churned out hit after hit during its golden years. 这家电影公司在其黄金岁月里接连不断地推出热门作品。"
+    },
+    {
+     "w": "put on hold",
+     "ipa": "/pʊt ɒn həʊld/",
+     "pos": "v.",
+     "en": "to postpone or suspend something temporarily",
+     "zh": "暂停，搁置",
+     "ctx": "指比亚迪暂停了在土耳其新建工厂的计划",
+     "ex1": "The company put its IPO plans on hold due to unstable market conditions. 由于市场环境不稳定，公司暂停了上市计划。",
+     "ex2": "Construction of the new plant was put on hold pending an environmental review. 新工厂的建设在环境审查期间被搁置。"
+    },
+    {
+     "w": "acquire",
+     "ipa": "/əˈkwaɪə/",
+     "pos": "v.",
+     "en": "to buy or obtain a company, property, or asset",
+     "zh": "收购，获得",
+     "ctx": "指收购现有工厂比新建更快更便宜",
+     "ex1": "The tech giant acquired a small startup to gain access to its artificial intelligence technology. 这家科技巨头收购了一家小型初创公司以获取其人工智能技术。",
+     "ex2": "The retailer acquired several prime locations from a bankrupt competitor. 这家零售商从一家破产的竞争对手手中收购了几处黄金地段。"
+    },
+    {
+     "w": "retrofit",
+     "ipa": "/ˈretrəʊfɪt/",
+     "pos": "v.",
+     "en": "to add new parts, equipment, or technology to an existing machine or building",
+     "zh": "改造，翻新改装",
+     "ctx": "指对现有工厂进行改造以生产新车（比新建更快捷）",
+     "ex1": "The old factory was retrofitted with robotic assembly lines to produce electric vehicles. 这家老工厂加装了机器人装配线以生产电动汽车。",
+     "ex2": "The airline retrofitted its older planes with more fuel-efficient engines. 这家航空公司为老旧飞机改装了更省油的发动机。"
+    },
+    {
+     "w": "phase out",
+     "ipa": "/feɪz aʊt/",
+     "pos": "v.",
+     "en": "to gradually stop using, producing, or providing something",
+     "zh": "逐步淘汰，逐步停止",
+     "ctx": "指大众计划逐步关停德国四个工厂的生产",
+     "ex1": "The government plans to phase out coal-fired power plants over the next decade. 政府计划在未来十年内逐步淘汰燃煤电厂。",
+     "ex2": "The company is phasing out its older models to focus on electric vehicles. 该公司正在逐步淘汰旧款车型，专注于电动汽车。"
+    }
+   ]
+  }
+ ]
+}

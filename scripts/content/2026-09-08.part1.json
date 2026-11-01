@@ -1,0 +1,331 @@
+{
+ "date": "2026-09-08",
+ "title_tag": "全球多国物价再次上涨，央行又开始加息：新一轮“涨价潮”要来了吗？—— 英国经济学人外刊讲解第1161天",
+ "h1": "全球多国物价再次上涨，央行又开始加息：新一轮“涨价潮”要来了吗？",
+ "source_label": "The Economist",
+ "category": "经济学人外刊讲解 第1161天",
+ "read_minutes": 18,
+ "nav_hint": "Inflation Is Back Around the World",
+ "headline": {
+  "en_html": "Inflation is <mark class=\"voc\">back</mark> around the world—<mark class=\"voc\">as is</mark> the <mark class=\"voc\">fight</mark> against it — Central banks are <mark class=\"voc\">raising interest rates</mark> again",
+  "zh": "全球通胀卷土重来——抗通胀之战，亦重启战端；各国央行再度加息。",
+  "notes": [
+   {
+    "w": "be back",
+    "ipa": "/biː bæk/",
+    "pos": "固定短语",
+    "en": "be back means to have returned to a place or state, with emphasis on present presence rather than the act of returning",
+    "zh": "本义为\"回来了、已在此处\"，状态描述语境核心义为强调\"人/事物此刻已经处在这里\"，而非\"正在返回的过程中\"",
+    "ctx": "本文特指：标题Inflation is back around the world 用be back 而非return，传递的是\"通胀已经站在门口\"的即时紧迫感，不是\"正在回来的路上\"",
+    "ex1": "After two quiet quarters, price pressure is back across the euro zone. 在平静了两个季度之后，物价压力重新笼罩整个欧元区。",
+    "ex2": "The chipmaker is back in profit for the first time since 2023. 这家芯片制造商自2023年以来首次重回盈利。"
+   },
+   {
+    "w": "as + 助动词 + 主语",
+    "ipa": "",
+    "pos": "倒装结构",
+    "en": "this inverted \"as\" clause means \"and the same is true of\", used to attach a parallel statement to the preceding clause",
+    "zh": "本义为\"……也是如此\"，书面比较语境核心义为在前句陈述之后，用as 加助动词加主语的倒装形式，表示另一事物情况相同",
+    "ctx": "本文特指：标题Inflation is back around the world—as is the fight against it，还原为the fight against it is back，即\"抗通胀之战也一并回来了\"",
+    "ex1": "Energy costs have doubled, as have shipping rates on the main Asian routes. 能源成本翻了一番，亚洲主干航线的运费也是如此。",
+    "ex2": "The central bank favours caution, as does its counterpart in Seoul. 该央行倾向于谨慎行事，首尔方面的同行亦然。"
+   },
+   {
+    "w": "fight",
+    "ipa": "/faɪt/",
+    "pos": "n.",
+    "en": "fight (n.) means a sustained effort to stop, defeat or overcome something harmful",
+    "zh": "本义为\"打斗、搏斗\"，政策与社会议题语境核心义为针对某种有害事物展开的、持续性的对抗努力",
+    "ctx": "本文特指：the fight against inflation，即各国央行自2022年以来针对高通胀持续进行的政策对抗，标题、第1段、第9段三次出现，构成全文首尾闭环",
+    "ex1": "Brussels says the fight against energy poverty will define this winter's agenda. 布鲁塞尔方面表示，抗击能源贫困将是今冬议程的核心。",
+    "ex2": "After a decade-long fight against counterfeiting, the luxury group finally saw results. 在与假货缠斗十年之后，这家奢侈品集团终于看到了成效。"
+   },
+   {
+    "w": "raise interest rates",
+    "ipa": "/reɪz ˈɪntrəst reɪts/",
+    "pos": "固定短语",
+    "en": "to raise interest rates means for a central bank to increase its benchmark policy rate in order to make borrowing more expensive",
+    "zh": "本义为\"提高利率\"，货币政策语境核心义为央行上调基准政策利率，使借贷成本上升、市场资金收紧，从而压制物价上涨",
+    "ctx": "本文特指：副标题Central banks are raising interest rates again，其中again 一词点出本轮加息是在降息周期之后的\"回头路\"，构成全文核心张力",
+    "ex1": "The Bank of Korea raised interest rates twice in the space of two months. 韩国央行在两个月内两度加息。",
+    "ex2": "Traders now price in a quarter-point rate hike before Christmas. 交易员目前预计圣诞节前会有一次25个基点的加息。"
+   }
+  ]
+ },
+ "paragraphs": [
+  {
+   "en_html": "Who remembers the “<mark class=\"voc\">soft landing</mark>”? In 2022-23 central bankers <mark class=\"voc\">dreamed</mark> of <mark class=\"voc\">bringing high inflation down</mark> without <mark class=\"voc\">triggering</mark> a <mark class=\"voc\">recession</mark>. Some countries came <mark class=\"voc\">awfully</mark> <mark class=\"voc\">close to</mark> achieving it. But with victory <mark class=\"voc\">tantalisingly</mark> close, a growing number of central banks are now <mark class=\"voc\">redoubling</mark> their fight against inflation. Price pressure is building. The world is <mark class=\"voc\">a long way from</mark> the pain of four years ago, but the <mark class=\"voc\">diagnosis</mark> is not <mark class=\"voc\">promising</mark>.",
+   "zh": "还有谁记得\"软着陆\"？2022至2023年间，各国央行行长曾梦想在不触发衰退的前提下压低高通胀。有几个国家一度无限接近成功。然而就在胜利撩人地近在咫尺之时，越来越多的央行却重新加大了抗击通胀的力度。物价压力正在积聚。眼下的世界距四年前那般切肤之痛尚远，但诊断结果并不乐观。",
+   "notes": [
+    {
+     "w": "soft landing",
+     "ipa": "/sɒft ˈlændɪŋ/",
+     "pos": "固定短语",
+     "en": "a soft landing means slowing an economy enough to bring inflation down without pushing it into recession",
+     "zh": "本义为\"（航天器/飞机）平稳着陆，不受损伤\"，宏观经济语境核心义为央行通过加息给经济降温、压住通胀，同时避免经济陷入衰退的理想结局",
+     "ctx": "本文特指：文章开篇Who remembers the \"soft landing\"? 以反问点出2022-23年各国央行曾追求却最终未能兑现的目标，加引号表明作者对这一流行说法保持距离",
+     "ex1": "Few economists now believe the Fed can engineer a soft landing this cycle. 如今几乎没有经济学家相信美联储能在本轮周期中实现软着陆。",
+     "ex2": "What looked like a soft landing in the spring turned into a sharp contraction by autumn. 春天看上去还像是软着陆，到了秋天却演变成急剧萎缩。"
+    },
+    {
+     "w": "dream of",
+     "ipa": "/driːm ɒv/",
+     "pos": "固定短语",
+     "en": "to dream of doing something means to hope for or aspire to it, often with a hint that it may not come true",
+     "zh": "本义为\"梦见、梦想\"，目标与愿景语境核心义为怀有某种美好但未必能实现的期望，用词本身带有\"最终可能落空\"的暗示",
+     "ctx": "本文特指：central bankers dreamed of bringing high inflation down，作者用dream 而非aim/plan，提前埋下\"这个愿望没能实现\"的伏笔",
+     "ex1": "For years the group dreamed of listing in New York; the paperwork never got filed. 多年来该集团一直梦想在纽约上市，材料却始终没有递交。",
+     "ex2": "She dreamed of running her own studio long before she could afford the rent. 早在付得起租金之前，她就梦想着开一家自己的工作室。"
+    },
+    {
+     "w": "bring down",
+     "ipa": "/brɪŋ daʊn/",
+     "pos": "短语动词",
+     "en": "to bring something down means to reduce a level, figure or cost, usually deliberately",
+     "zh": "本义为\"把……拿下来、使落下\"，经济与政策语境核心义为通过主动干预把某个数值压低",
+     "ctx": "本文特指：bringing high inflation down，指央行通过加息等手段将2022年的高通胀压回目标水平",
+     "ex1": "The new subsidy is meant to bring down household energy bills by a fifth. 这项新补贴意在把家庭能源账单压低五分之一。",
+     "ex2": "Automation has brought down unit costs faster than anyone expected. 自动化把单位成本压下来的速度超出了所有人的预期。"
+    },
+    {
+     "w": "trigger",
+     "ipa": "/ˈtrɪɡə(r)/",
+     "pos": "v.",
+     "en": "trigger (v.) means to cause something, especially something bad, to happen suddenly",
+     "zh": "本义为\"扣动扳机\"，因果分析语境核心义为一个动作瞬间引爆一个（通常是负面的）后果，强调突发性而非渐进性",
+     "ctx": "本文特指：without triggering a recession，指央行担心加息力度过猛会直接引爆经济衰退，这正是\"软着陆\"要规避的失败结局",
+     "ex1": "A single downgrade triggered a sell-off across emerging-market bonds. 仅仅一次评级下调，就引爆了新兴市场债券的全面抛售。",
+     "ex2": "The court ruling could trigger a wave of similar claims across the industry. 这项法院裁决可能会在全行业引发一波类似的索赔。"
+    },
+    {
+     "w": "recession",
+     "ipa": "/rɪˈseʃn/",
+     "pos": "n.",
+     "en": "recession (n.) means a period during which economic activity shrinks for a sustained stretch, conventionally two consecutive quarters of negative growth",
+     "zh": "本义为\"后退、退回\"（re- 往回+ cess 走），宏观经济语境核心义为经济活动持续萎缩的时期，通常伴随裁员、投资停滞与消费收缩",
+     "ctx": "本文特指：作为\"软着陆\"的失败结局出现，是2022-23年央行加息时最想避免的代价",
+     "ex1": "Germany slipped into recession for the second time in three years. 德国三年内第二次陷入衰退。",
+     "ex2": "Recession fears have pushed investors back into government bonds. 对衰退的担忧把投资者重新推回到国债市场。"
+    },
+    {
+     "w": "awfully",
+     "ipa": "/ˈɔːfli/",
+     "pos": "adv.",
+     "en": "awfully (adv.) means very or extremely, functioning as an intensifier rather than carrying its literal sense of \"dreadfully\"",
+     "zh": "本义为\"可怕地、糟糕地\"，口语化强调语境核心义为用作程度副词，相当于very，但通常残留一丝惋惜或感慨的情绪色彩",
+     "ctx": "本文特指：came awfully close，字面是\"非常接近\"，但配合后文的转折，暗含\"就差那么一点、可惜没成\"的遗憾",
+     "ex1": "It was awfully close, but the bid fell short by less than a percentage point. 差距小得惊人，但这份报价还是差了不到一个百分点。",
+     "ex2": "The office has been awfully quiet since the layoffs were announced. 自从裁员消息公布，办公室里安静得吓人。"
+    },
+    {
+     "w": "come close to",
+     "ipa": "/kʌm kləʊs tuː/",
+     "pos": "固定短语",
+     "en": "to come close to doing something means to almost achieve or almost reach it without quite doing so",
+     "zh": "本义为\"靠近、接近\"，成败评价语境核心义为差一点点就达成某事，但最终没有做到",
+     "ctx": "本文特指：Some countries came awfully close to achieving it，指少数国家一度极其接近实现软着陆",
+     "ex1": "The airline came close to breaking even before fuel costs spiked again. 在燃油成本再度飙升之前，这家航空公司一度接近盈亏平衡。",
+     "ex2": "Talks came close to collapse over a single clause on data transfers. 谈判因为一条关于数据跨境的条款而几近破裂。"
+    },
+    {
+     "w": "tantalising",
+     "ipa": "/ˈtæntəlaɪzɪŋ/",
+     "pos": "adj.（英式拼写；美式tantalizing）",
+     "en": "tantalising (adj.) means desirable and apparently within reach, yet impossible to attain",
+     "zh": "本义为\"（如坦塔罗斯所受之刑般）近在眼前却永远够不着的\"，希望与挫败语境核心义为某个目标看得见、摸得着，却总在最后一刻溜走，带着强烈的撩拨与折磨感",
+     "ctx": "本文特指：with victory tantalisingly close，形容2023年前后各国央行眼看抗通胀就要成功、胜利悬在鼻尖，最终却功亏一篑",
+     "ex1": "A profitable quarter remains tantalisingly out of reach for the delivery startup. 对这家配送初创公司而言，实现单季盈利依旧近在咫尺却遥不可及。",
+     "ex2": "The prototype offered a tantalising glimpse of what mass production might look like. 这台原型机让人惊鸿一瞥地看到了量产之后的模样。"
+    },
+    {
+     "w": "redouble",
+     "ipa": "/ˌriːˈdʌbl/",
+     "pos": "v.",
+     "en": "redouble (v.) means to greatly increase the intensity of an effort, where \"re-\" functions as an intensifier rather than meaning \"again\"",
+     "zh": "本义为\"再度加倍\"（但实际不表示数学上的乘以四），努力与投入语境核心义为大幅加强某项努力的力度，几乎只与efforts、fight、pressure 等少数名词搭配",
+     "ctx": "本文特指：redoubling their fight against inflation，指央行重新加大抗通胀的政策力度，直接呼应标题中的the fight against it",
+     "ex1": "Regulators have redoubled their efforts to police cross-border payments. 监管机构已加倍投入力量来监管跨境支付。",
+     "ex2": "After the recall, the carmaker redoubled its quality checks on imported parts. 召回事件之后，这家车企对进口零件的质检力度大幅加强。"
+    },
+    {
+     "w": "be a long way from",
+     "ipa": "/biː ə lɒŋ weɪ frɒm/",
+     "pos": "固定短语",
+     "en": "to be a long way from something means to be far from reaching a state, standard or outcome",
+     "zh": "本义为\"离某地路途遥远\"，程度比较语境核心义为在程度或状态上距离某个情形还差得很远",
+     "ctx": "本文特指：The world is a long way from the pain of four years ago，作者以此给读者打预防针——现状远没有2022年那么惨，从而让后半句的转折更有力",
+     "ex1": "The sector is still a long way from the margins it enjoyed before the pandemic. 该行业距离疫情前的利润率水平，依旧相去甚远。",
+     "ex2": "We are a long way from agreeing on how the costs should be split. 在成本如何分摊的问题上，我们离达成一致还远得很。"
+    },
+    {
+     "w": "diagnosis",
+     "ipa": "/ˌdaɪəɡˈnəʊsɪs/",
+     "pos": "n.（复数diagnoses /-siːz/）",
+     "en": "diagnosis (n.) means the identification of the nature or cause of a problem, originally of an illness",
+     "zh": "本义为\"（医学上的）诊断、诊断结果\"（dia- 穿透+ gnosis 知），隐喻性经济分析语境核心义为对一个系统性问题的性质与成因所作的判断，作者借医学词把经济写成一位病人",
+     "ctx": "本文特指：the diagnosis is not promising，与全文的医学隐喻链culprit、puzzling、spook 呼应，暗示全球经济这位\"病人\"的病情判断并不乐观",
+     "ex1": "The consultant's diagnosis was blunt: the problem was governance, not technology. 这位顾问的判断很直白：问题出在治理，不在技术。",
+     "ex2": "An early diagnosis of the funding gap could have saved the project. 如果早点看清资金缺口所在，这个项目本可以保住。"
+    },
+    {
+     "w": "promising",
+     "ipa": "/ˈprɒmɪsɪŋ/",
+     "pos": "adj.",
+     "en": "promising (adj.) means showing signs of future success or improvement",
+     "zh": "本义为\"有承诺意味的、许下希望的\"，评价与前景语境核心义为前景看好的；否定形式not promising 是典型的英式含蓄陈述，表面说\"不太乐观\"，实际暗示情况已相当糟",
+     "ctx": "本文特指：the diagnosis is not promising，作者不直说bad，用not promising 留出余地，是经济学人惯用的低调否定",
+     "ex1": "Early trial results looked promising enough to justify a second round of funding. 早期试验结果足够乐观，值得启动第二轮融资。",
+     "ex2": "The order book for next quarter is, to put it mildly, not promising. 下个季度的订单情况，说得客气些，并不乐观。"
+    }
+   ]
+  },
+  {
+   "en_html": "On September 2nd New Zealand’s central bank raised rates. <mark class=\"voc\">Rate-setters</mark> on the other side of the Tasman sea have already increased <mark class=\"voc\">borrowing costs</mark> three times this year. The Bank of Japan did so in June and the Bank of Korea in July and August. On September 10th the European Central Bank (ECB) is expected to raise its <mark class=\"voc\">deposit rate</mark> to 2.5%. Many traders expect that, <mark class=\"voc\">before long</mark>, the Federal Reserve will follow.",
+   "zh": "9月2日，新西兰央行宣布加息。塔斯曼海对岸的澳大利亚，其利率决策者今年已三度上调借贷成本。日本央行于6月跟进，韩国央行则在7月和8月两度出手。9月10日，欧洲央行预计将把存款利率上调至2.5%。众多交易员相信，美联储用不了多久也会加入这一行列。",
+   "notes": [
+    {
+     "w": "rate-setter",
+     "ipa": "/reɪt ˈsetə(r)/",
+     "pos": "n.",
+     "en": "a rate-setter is an official who takes part in deciding a central bank's policy interest rate",
+     "zh": "本义为\"设定利率的人\"，货币政策语境核心义为央行内部负责利率决策的官员，与central banker、policymaker 构成同义替换",
+     "ctx": "本文特指：全文四次换用同一群人的称呼——central bankers（第1段）、rate-setters（第2、8段）、policymakers（第3、7、8段），是外刊避免重复用词的典型操作",
+     "ex1": "Rate-setters remain split over how much of the energy shock will prove permanent. 在能源冲击有多少会长期化的问题上，利率决策者们依旧意见分裂。",
+     "ex2": "Two of the nine rate-setters voted for a larger increase. 九位利率决策者中有两位投票支持更大幅度的加息。"
+    },
+    {
+     "w": "borrowing costs",
+     "ipa": "/ˈbɒrəʊɪŋ kɒsts/",
+     "pos": "固定短语",
+     "en": "borrowing costs means the price paid to borrow money, functioning in economic writing as a plain-language substitute for interest rates",
+     "zh": "本义为\"借钱所需付出的成本\"，利率报道语境核心义为利率的通俗替换说法，比interest rates 更贴近企业与家庭的实际感受",
+     "ctx": "本文特指：increased borrowing costs three times this year，指澳大利亚央行今年三次加息；作者用此词而非rates，是为了避免与上一句raised rates 重复",
+     "ex1": "Higher borrowing costs have already cooled the housing market in three big cities. 借贷成本上升已经让三座大城市的楼市降温。",
+     "ex2": "Small firms feel rising borrowing costs long before the data show it. 小企业感受到借贷成本上升，远早于数据显示出来的时间。"
+    },
+    {
+     "w": "deposit rate",
+     "ipa": "/dɪˈpɒzɪt reɪt/",
+     "pos": "固定短语",
+     "en": "the deposit rate is the interest a central bank pays commercial banks on funds parked with it overnight",
+     "zh": "本义为\"存款利率\"，欧元区货币政策语境核心义为欧洲央行三大政策利率中最关键的一个，直接决定商业银行把资金放在央行的收益，从而影响其放贷意愿",
+     "ctx": "本文特指：raise its deposit rate to 2.5%，指欧洲央行9月10日预计上调至2.5%的具体政策工具",
+     "ex1": "A higher deposit rate makes it more attractive for banks to sit on cash. 存款利率走高会让银行更愿意把现金留在手里。",
+     "ex2": "The deposit rate has not been this high since the euro's early years. 存款利率上一次达到这个水平，还是在欧元诞生之初。"
+    },
+    {
+     "w": "before long",
+     "ipa": "/bɪˈfɔː(r) lɒŋ/",
+     "pos": "固定短语",
+     "en": "before long means soon, referring to the near future",
+     "zh": "本义为\"在很长时间过去之前\"，时间表达语境核心义为很快、不久之后，指向未来；与long before（很久以前，指向过去）方向完全相反",
+     "ctx": "本文特指：before long, the Federal Reserve will follow，指交易员预期美联储不久也会跟进加息",
+     "ex1": "Before long, the same pressure will show up in service prices. 用不了多久，同样的压力就会显现在服务价格上。",
+     "ex2": "She had left the firm long before the scandal broke. 早在丑闻曝光之前很久，她就已经离开了公司。"
+    }
+   ]
+  },
+  {
+   "en_html": "Policymakers are responding to growing evidence of rising price pressure. Average annual inflation across rich countries has stopped falling towards 2%, the target in most of them, and has instead <mark class=\"voc\">edged up</mark> in recent months. In August annual inflation in the <mark class=\"voc\">euro zone</mark> reached 3.3%, the highest in three years. Switzerland has inflation of just 0.8% a year, reflecting economic policy that is one of the wonders of the modern world. But even that is a two-year high. And in some places prices are <mark class=\"voc\">evoking</mark> the sad memories of the “cost-of-living crisis”. Inflation is close to 6% in Lithuania, for instance, up from 3.1% in January.",
+   "zh": "决策者们之所以出手，是因为物价上行的证据正越来越多（见图表1）。发达国家的平均年通胀率已不再向2%这一多数国家设定的目标靠拢，反而在最近数月里悄然回升。8月，欧元区年通胀率升至3.3%，创三年新高。瑞士的年通胀率仅为0.8%，其经济治理堪称当代奇观——但即便这个数字，也已是两年来的最高点。而在某些国家，物价正重新唤起人们对\"生活成本危机\"的惨痛记忆：以立陶宛为例，其通胀率已逼近6%，而1月时还只有3.1%。",
+   "notes": [
+    {
+     "w": "edge up",
+     "ipa": "/edʒ ʌp/",
+     "pos": "短语动词",
+     "en": "to edge up means to increase slowly and by a small amount, moving little by little",
+     "zh": "本义为\"侧着身子一点一点挪动\"（edge 名词为\"边缘、刃\"，侧身移动时以身体的边缘前进），数据变化语境核心义为小幅、缓慢地爬升，强调幅度不大但方向确实向上，比rise 精确得多",
+     "ctx": "本文特指：inflation has instead edged up in recent months，与第8段形容2022年那轮的surging 形成鲜明对照——一个是\"蹭\"，一个是\"涌\"",
+     "ex1": "Unemployment edged up to 4.3%, the first increase since January. 失业率小幅升至4.3%，为1月以来首次上升。",
+     "ex2": "The challenger edged out the incumbent by fewer than two hundred votes. 挑战者以不到两百票的优势险胜现任者。"
+    },
+    {
+     "w": "the euro zone",
+     "ipa": "/ðə ˈjʊərəʊ zəʊn/",
+     "pos": "专有名词短语",
+     "en": "the euro zone means the group of European Union countries that have adopted the euro as their currency",
+     "zh": "本义为\"欧元区域\"，欧洲经济语境核心义为使用欧元的二十个国家所构成的货币联盟，与\"欧盟\"不是同一个范围（波兰、瑞典、丹麦等欧盟国家不用欧元）",
+     "ctx": "本文特指：8月欧元区年通胀率达3.3%，创三年新高，是本段最核心的一组数据",
+     "ex1": "Euro-zone inflation has now run above target for four consecutive months. 欧元区通胀已连续四个月高于目标水平。",
+     "ex2": "Three EU members remain outside the euro zone by choice. 有三个欧盟成员国出于自身选择，仍未加入欧元区。"
+    },
+    {
+     "w": "evoke",
+     "ipa": "/ɪˈvəʊk/",
+     "pos": "v.",
+     "en": "evoke (v.) means to bring a memory, feeling or image into someone's mind",
+     "zh": "本义为\"向外呼喊出来\"（e- 向外+ voc 喊），情感与记忆语境核心义为唤起心里的东西——记忆、情绪、画面、共鸣，不用于具体的物理动作",
+     "ctx": "本文特指：prices are evoking the sad memories of the \"cost-of-living crisis\"，指当前物价重新勾起人们对2021-23年生活成本危机的痛苦记忆，其杀伤力在于调动的是创伤而非数据",
+     "ex1": "The bare shelves evoked memories of the first pandemic winter. 空荡的货架唤起了人们对疫情第一个冬天的记忆。",
+     "ex2": "The restructuring plan evoked an immediate backlash from the unions. 这份重组方案立刻招致了工会的强烈反弹。"
+    }
+   ]
+  },
+  {
+   "en_html": "Energy is the main <mark class=\"voc\">culprit</mark>, but not the only one. War in the Middle East has caused the price of oil and natural gas to rise. In Europe, natural-gas prices are more than twice as high as before the Iran war. They could go further as <mark class=\"voc\">the continent’s</mark> storage tanks are refilled <mark class=\"voc\">ahead of</mark> the winter. Already euro-zone energy inflation is <mark class=\"voc\">easily</mark> in <mark class=\"voc\">double-digits</mark>. The typical American, meanwhile, is paying just over $4 for a <mark class=\"voc\">gallon</mark> of petrol, up from less than $3 at the beginning of the year.",
+   "zh": "能源是首要元凶，却并非唯一。中东战火已推高了石油与天然气的价格。在欧洲，天然气价格已是伊朗战争前的两倍有余；而随着欧陆各国赶在入冬前重新灌满储气库，价格仍可能继续攀升。眼下欧元区的能源通胀早已轻松突破两位数。与此同时，一个普通美国人加满一加仑汽油要付四美元出头——而年初时，还不到三美元。",
+   "notes": [
+    {
+     "w": "culprit",
+     "ipa": "/ˈkʌlprɪt/",
+     "pos": "n.",
+     "en": "culprit (n.) means the person or thing responsible for causing a problem or harm",
+     "zh": "本义为\"被告、罪犯\"（源自中世纪英国法庭的法律法语缩写cul. prit，书记员连写后被后人误解为\"被告\"一词），归因分析语境核心义为导致某个问题的元凶，可指人，也可指某个因素、原因或物品，带有\"抓到你了\"的指认口吻",
+     "ctx": "本文特指：Energy is the main culprit, but not the only one，指能源价格是本轮通胀的首要成因，但作者随即留下钩子——还有别的嫌疑人，为第5、6段的核心通胀与AI埋下伏笔",
+     "ex1": "Sugar, not fat, turned out to be the main culprit in the new dietary study. 在这项新的膳食研究中，真凶原来是糖，而不是脂肪。",
+     "ex2": "Supply-chain delays are the usual culprits whenever margins slip. 每当利润率下滑，供应链延误总是那几个老原因。"
+    },
+    {
+     "w": "the continent",
+     "ipa": "/ðə ˈkɒntɪnənt/",
+     "pos": "专有名词化用法",
+     "en": "in British usage, \"the Continent\" refers specifically to mainland Europe, excluding the British Isles",
+     "zh": "本义为\"大陆、洲\"，英式媒体语境核心义为加定冠词后特指\"欧洲大陆\"，且不包括英国本身——英国是岛，因此把海峡对岸那一片称为the Continent",
+     "ctx": "本文特指：the continent's storage tanks are refilled ahead of the winter，指欧洲大陆各国赶在入冬前重新灌满地下储气库",
+     "ex1": "Travellers from the Continent now outnumber domestic visitors at the museum. 如今来自欧洲大陆的游客数量已超过该博物馆的本国访客。",
+     "ex2": "The hotel serves only a continental breakfast, which surprised the British guests. 酒店只提供欧陆式早餐，这让英国客人有些意外。"
+    },
+    {
+     "w": "ahead of",
+     "ipa": "/əˈhed ɒv/",
+     "pos": "介词短语",
+     "en": "ahead of means before a specified point in time, often implying preparation for what is coming",
+     "zh": "本义为\"在……前方\"，时间安排语境核心义为在某事发生之前，且通常暗含\"为之做准备\"的意味，比单纯的before 更有目的性",
+     "ctx": "本文特指：refilled ahead of the winter，指欧洲赶在冬季用气高峰到来前抢先储气——而这恰恰意味着买家被迫在高价位入场，是价格\"还可能进一步上涨\"的原因",
+     "ex1": "Firms rushed to stockpile components ahead of the new tariffs. 企业赶在新关税生效前抢囤零部件。",
+     "ex2": "The project was delivered three weeks ahead of schedule. 该项目比计划提前三周交付。"
+    },
+    {
+     "w": "easily",
+     "ipa": "/ˈiːzəli/",
+     "pos": "adv.",
+     "en": "easily (adv.), when placed before a figure, comparative or superlative, means comfortably or by a clear margin",
+     "zh": "本义为\"容易地、不费力地\"，程度强调语境核心义为置于数字或最高级之前时，意为\"轻松超过、绰绰有余地\"，强调该水平是稳稳达到而非勉强触及，同时透露说话人的态度",
+     "ctx": "本文特指：euro-zone energy inflation is easily in double-digits，作者用easily 而非中性陈述，暗示这个数字高得离谱",
+     "ex1": "The unit is easily the most profitable in the group. 这个部门毫无疑问是集团里最赚钱的。",
+     "ex2": "Energy bills easily outstripped wage growth for a second year. 能源账单连续第二年轻松跑赢工资涨幅。"
+    },
+    {
+     "w": "double digits",
+     "ipa": "/ˈdʌbl ˈdɪdʒɪts/",
+     "pos": "固定短语",
+     "en": "double digits means a number of two figures, that is between 10 and 99",
+     "zh": "本义为\"两位数\"，通胀报道语境核心义为通胀进入两位数是一条心理红线，意味着物价年涨超过10%、货币购买力肉眼可见地缩水",
+     "ctx": "本文特指：euro-zone energy inflation is easily in double-digits，指欧元区能源通胀已远超10%",
+     "ex1": "The division posted double-digit growth for the fourth consecutive quarter. 该部门连续第四个季度实现两位数增长。",
+     "ex2": "Once inflation enters double digits, wage demands follow quickly. 通胀一旦进入两位数，涨薪要求很快就会跟上。"
+    },
+    {
+     "w": "gallon",
+     "ipa": "/ˈɡælən/",
+     "pos": "n.",
+     "en": "a gallon is a unit of volume; the US gallon equals about 3.785 litres, the imperial gallon about 4.546 litres",
+     "zh": "本义为\"加仑（容积单位）\"，美国油价报道语境核心义为美国零售汽油的标准计价单位，1美制加仑约合3.785升；$4/加仑约合1.06美元/升",
+     "ctx": "本文特指：just over $4 for a gallon of petrol, up from less than $3，指美国油价年内上涨逾三分之一——关键不在绝对价格，而在涨速",
+     "ex1": "At 28 miles per gallon, the older fleet is proving expensive to run. 这批老车每加仑仅跑28英里，运营成本正变得高昂。",
+     "ex2": "A dollar-a-gallon increase costs the average household about $600 a year. 每加仑上涨一美元，普通家庭一年要多支出约600美元。"
+    }
+   ]
+  }
+ ]
+}

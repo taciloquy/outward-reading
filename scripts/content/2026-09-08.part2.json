@@ -1,0 +1,450 @@
+{
+ "paragraphs": [
+  {
+   "en_html": "The problem, however, may be bigger than fuels. The Economist estimates that across the rich world, average annual “<mark class=\"voc\">core</mark>” inflation, which <mark class=\"voc\">strips out</mark> energy and food, has increased from 2.7% in early 2026 to 2.9% today. To examine countries’ <mark class=\"voc\">underlying</mark> inflationary pressure in more detail, we found <mark class=\"voc\">comparable</mark> figures for 23 rich countries on services prices, which are largely determined by the price of labour (rather than more <mark class=\"voc\">volatile</mark> <mark class=\"voc\">commodities</mark>). Services inflation is rising in two-thirds of our sample. This is despite the fact that in many countries measures of wage growth continue to decline. (One explanation for this <mark class=\"voc\">puzzling</mark> result is that wages are not well measured; another is that falling productivity growth in services makes it harder for firms to <mark class=\"voc\">absorb</mark> <mark class=\"voc\">pay rises</mark>.)",
+   "zh": "然而，问题恐怕比燃料本身更深。本刊测算，在整个发达世界，剔除能源与食品后的平均年度\"核心\"通胀率，已由2026年初的2.7%升至今日的2.9%。为更细致地考察各国潜藏的通胀压力，我们采集了23个发达国家在服务价格上的可比数据——服务价格的涨落，主要取决于人力成本，而非那些起伏无常的大宗商品。结果显示，样本中有三分之二的国家服务通胀正在上行。而这一切，恰恰发生在许多国家工资增长的各项指标持续走弱之际。（对这一悖论，一种解释是工资本身就未被准确测量；另一种则是，服务业生产率增速的滑落，令企业愈发难以自行消化涨薪的成本。）",
+   "notes": [
+    {
+     "w": "core inflation",
+     "ipa": "/kɔː(r) ɪnˈfleɪʃn/",
+     "pos": "固定短语",
+     "en": "core inflation means the rate of price growth calculated after excluding the most volatile components, conventionally energy and food",
+     "zh": "本义为\"核心的通胀\"（core 此处非\"最重要\"，而指\"剥去外层后剩下的内核\"），货币政策语境核心义为衡量的不是\"物价涨了多少\"，而是\"涨价的势头有多顽固\"——因为能源与食品价格由战争、天气等央行无法控制的因素驱动，剔除后才能看清经济体内部的真实压力",
+     "ctx": "本文特指：average annual \"core\" inflation has increased from 2.7% in early 2026 to 2.9% today；这一概念本身诞生于1973年石油危机，如今在又一次中东冲突中反而自己在上涨，意味着\"这次不能只怪油价\"",
+     "ex1": "Headline inflation fell, but core inflation refused to budge. 整体通胀回落了，核心通胀却纹丝不动。",
+     "ex2": "Policymakers watch core PCE far more closely than the headline number. 决策者对核心PCE的关注远甚于整体数字。"
+    },
+    {
+     "w": "strip out",
+     "ipa": "/strɪp aʊt/",
+     "pos": "短语动词",
+     "en": "to strip something out means to remove a component completely from a set of figures or a total",
+     "zh": "本义为\"剥去、脱掉\"，数据处理语境核心义为把某一类干扰项从统计口径中彻底剔除，以便看清底层趋势",
+     "ctx": "本文特指：core inflation, which strips out energy and food，即把波动最剧烈的能源与食品从通胀篮子里剥离出去",
+     "ex1": "Once you strip out one-off legal costs, profits actually rose. 一旦剔除一次性的法律费用，利润其实是上升的。",
+     "ex2": "The analyst stripped away the accounting noise to get at cash generation. 这位分析师剥去会计层面的噪音，直取现金创造能力。"
+    },
+    {
+     "w": "underlying",
+     "ipa": "/ˌʌndəˈlaɪɪŋ/",
+     "pos": "adj.",
+     "en": "underlying (adj.) means existing beneath the surface and not immediately obvious, yet fundamental to the situation",
+     "zh": "本义为\"躺在下面的\"（under + lying），分析与诊断语境核心义为区分\"表面现象\"与\"底下真正起作用的东西\"，画面如冰山水面下的部分",
+     "ctx": "本文特指：countries' underlying inflationary pressure，与上一句的core inflation 构成同义替换——这是外刊避免重复的又一次操作",
+     "ex1": "The underlying cause was not the outage itself but years of deferred maintenance. 根本原因并非这次断电本身，而是多年积压的检修欠账。",
+     "ex2": "Strip out the seasonal swing and the underlying trend is clearly downward. 剔除季节性波动，底层趋势明显向下。"
+    },
+    {
+     "w": "comparable",
+     "ipa": "/ˈkɒmpərəbl/",
+     "pos": "adj.",
+     "en": "comparable (adj.) means measured on the same basis, so that a fair like-for-like comparison is possible",
+     "zh": "本义为\"可比较的\"，统计方法语境核心义为口径一致、可以横向对比的；强调各国统计标准不同，直接对比原始数字并不严谨",
+     "ctx": "本文特指：we found comparable figures for 23 rich countries，作者特意点出数据的可比性，是在交代研究方法的严谨度",
+     "ex1": "On a comparable basis, revenue grew 6%, not the 14% the headline suggests. 按可比口径计算，营收增长6%，而非标题所显示的14%。",
+     "ex2": "Few emerging markets publish figures comparable with OECD standards. 鲜有新兴市场发布符合经合组织口径的可比数据。"
+    },
+    {
+     "w": "volatile",
+     "ipa": "/ˈvɒlətaɪl/",
+     "pos": "adj.",
+     "en": "volatile (adj.) means liable to change suddenly and unpredictably",
+     "zh": "本义为\"会飞的、易挥发的\"（拉丁语volare = 飞），市场与价格语境核心义为剧烈波动、难以预测的；用于金融指市场动荡，用于化学指易挥发，用于人指喜怒无常",
+     "ctx": "本文特指：rather than more volatile commodities，指服务价格由人力成本决定，不像大宗商品那样一场战争就能翻倍",
+     "ex1": "Lithium remains one of the most volatile commodities in the index. 锂依旧是该指数中价格波动最剧烈的大宗商品之一。",
+     "ex2": "Implied volatility spiked the morning the survey was published. 调查发布当天上午，隐含波动率急剧飙升。"
+    },
+    {
+     "w": "commodities",
+     "ipa": "/kəˈmɒdətiz/",
+     "pos": "n.（复数）",
+     "en": "commodities (n.) means raw materials or primary agricultural products that are traded in bulk on exchanges, priced globally by grade rather than by brand",
+     "zh": "本义为\"商品、货物\"，财经语境核心义为大宗商品——原油、天然气、铜、铁矿石、小麦、大豆等；特点是全球统一定价、价格受天气与地缘政治直接冲击、波动极大",
+     "ctx": "本文特指：more volatile commodities，与\"由人力成本决定的服务价格\"形成对照，是本段分析框架的关键一半",
+     "ex1": "Commodity prices have swung more in six months than in the previous five years. 大宗商品价格在半年内的波动，超过了此前五年的总和。",
+     "ex2": "The country's budget still lives or dies by commodity exports. 这个国家的财政依旧完全系于大宗商品出口。"
+    },
+    {
+     "w": "puzzling",
+     "ipa": "/ˈpʌzlɪŋ/",
+     "pos": "adj.",
+     "en": "puzzling (adj.) means difficult to understand or explain; describing the thing, not the person",
+     "zh": "本义为\"令人费解的\"，分析语境核心义为-ing 形式描述事物的性质（令人困惑的），-ed 形式描述人的感受（感到困惑的）",
+     "ctx": "本文特指：this puzzling result，指\"工资增速下滑、服务价格却在上涨\"这一说不通的结果，是全段的悬念所在",
+     "ex1": "The gap between reported wages and observed prices remains puzzling. 上报工资与观察到的价格之间的落差，依旧令人费解。",
+     "ex2": "Investors were puzzled by the decision to cut the dividend in a record year. 投资者对在创纪录的一年里削减分红感到困惑。"
+    },
+    {
+     "w": "absorb",
+     "ipa": "/əbˈzɔːb/",
+     "pos": "v.",
+     "en": "absorb (v.), in a commercial sense, means to bear an increase in cost internally instead of passing it on to customers",
+     "zh": "本义为\"吸收（液体、光、声音）\"，企业经营语境核心义为自行承担成本上涨而不转嫁给消费者；画面是企业像海绵一样把泼来的成本吸掉，不溅到客户身上",
+     "ctx": "本文特指：makes it harder for firms to absorb pay rises，指企业越来越难以自行消化涨薪，只能选择涨价",
+     "ex1": "Retailers absorbed the first round of tariffs; the second will reach the shelf. 零售商消化了第一轮关税，第二轮则会传导到货架上。",
+     "ex2": "Smaller suppliers simply cannot absorb a 12% jump in freight. 规模较小的供应商根本无力消化运费12%的涨幅。"
+    },
+    {
+     "w": "pay rise",
+     "ipa": "/peɪ raɪz/",
+     "pos": "固定短语（英式；美式pay raise / wage increase）",
+     "en": "a pay rise means an increase in the money an employee is paid",
+     "zh": "本义为\"工资上涨、加薪\"，劳资语境核心义为员工薪酬的提升；英式说pay rise，美式说pay raise，是本文英式用词的又一处标记",
+     "ctx": "本文特指：absorb pay rises，指企业需要消化的涨薪成本",
+     "ex1": "Nurses secured an above-inflation pay rise after a nine-month dispute. 经过九个月的争议，护士群体拿到了高于通胀的加薪。",
+     "ex2": "A pay freeze in year one bought the company time it did not use well. 第一年的薪酬冻结为公司争取了时间，但这段时间并没有被用好。"
+    }
+   ]
+  },
+  {
+   "en_html": "There is a third <mark class=\"voc\">suspect</mark>: artificial intelligence. <mark class=\"voc\">Subdued</mark> productivity growth has been the norm across rich economies for years, with America the main exception. But even there, economists worry that AI's disruptive effect on <mark class=\"voc\">white-collar</mark> and professional-service jobs could eventually <mark class=\"voc\">crimp</mark> wage growth just as its productivity gains <mark class=\"voc\">show up</mark>—a <mark class=\"voc\">trade-off</mark> that complicates the usual assumption that faster wage growth alone explains <mark class=\"voc\">sticky</mark> services inflation.",
+   "zh": "还有第三个嫌疑人：人工智能。多年以来，生产率增长乏力一直是发达经济体的常态，美国是其中主要的例外。但即便在美国，经济学家也担心：人工智能对白领与专业服务类岗位的颠覆性冲击，最终可能会压住工资的增长——而这恰恰发生在它的生产率红利刚刚开始显现之时。这种此消彼长的权衡，令\"服务通胀居高不下仅仅源于工资加速上涨\"这一惯常假设，变得不再那么站得住脚。",
+   "notes": [
+    {
+     "w": "suspect",
+     "ipa": "/ˈsʌspekt/",
+     "pos": "n.（名词重音在前；动词/səˈspekt/ 重音在后）",
+     "en": "suspect (n.) means a person or thing believed to be responsible for something bad",
+     "zh": "本义为\"从下往上打量的对象\"（sus- = sub 下+ spect 看），归因语境核心义为嫌疑人、嫌疑对象；可指人，也可指一个被怀疑的成因",
+     "ctx": "本文特指：There is a third suspect: artificial intelligence，与第1段的diagnosis、第4段的culprit 共同构成全文\"查案+看病\"的隐喻暗线；用a third 而非the third，暗示嫌疑人可能还不止三个",
+     "ex1": "The prime suspect in the margin squeeze turned out to be freight, not labour. 利润率遭挤压的头号嫌疑，最终查明是运费而非人力。",
+     "ex2": "Regulators named three suspects behind the sudden liquidity drain. 监管机构点出了这次流动性骤然枯竭背后的三个疑因。"
+    },
+    {
+     "w": "subdued",
+     "ipa": "/səbˈdjuːd/",
+     "pos": "adj.",
+     "en": "subdued (adj.) means quieter, weaker or less active than usual, as if held down",
+     "zh": "本义为\"被制服的、被压下去的\"（sub 下+ due 引导→ 把……带到下面去），经济数据语境核心义为低迷、乏力；带有\"本该更强、却被什么按住了\"的委屈感，比low 或weak 更有情绪",
+     "ctx": "本文特指：Subdued productivity growth has been the norm across rich economies for years，指发达经济体生产率增长长期低迷这一困扰经济学界数十年的谜团",
+     "ex1": "Demand has stayed subdued despite three rounds of price cuts. 尽管经历了三轮降价，需求依旧低迷。",
+     "ex2": "The mood at the annual meeting was noticeably subdued this year. 今年年会上的气氛明显低落。"
+    },
+    {
+     "w": "white-collar",
+     "ipa": "/ˌwaɪt ˈkɒlə(r)/",
+     "pos": "adj.",
+     "en": "white-collar (adj.) describes office-based or professional work, as opposed to manual labour",
+     "zh": "本义为\"白色衣领的\"（办公室工作不易弄脏领子），劳动力市场语境核心义为从事脑力、办公室工作的；与blue-collar（蓝领，体力劳动）相对",
+     "ctx": "本文特指：AI's disruptive effect on white-collar and professional-service jobs，作者点名这两类岗位，因为它们恰是AI冲击最直接的领域——文案、表格、初级代码、法律检索、财报整理",
+     "ex1": "White-collar hiring has slowed even as factory vacancies climb. 即便工厂职位空缺在上升，白领招聘却在放缓。",
+     "ex2": "The prosecution specialises in white-collar crime rather than violent offences. 该检察部门专攻白领犯罪，而非暴力犯罪。"
+    },
+    {
+     "w": "crimp",
+     "ipa": "/krɪmp/",
+     "pos": "v.",
+     "en": "crimp (v.) means to restrict, hold back or reduce something",
+     "zh": "本义为\"夹紧、压出褶皱\"（如卷发棒夹住头发），财经语境核心义为抑制、压住某个数字，画面是\"掐一下\"，比reduce 更生动",
+     "ctx": "本文特指：could eventually crimp wage growth，指AI对白领岗位的冲击最终可能压住工资增长",
+     "ex1": "Higher input costs will crimp margins well into next year. 投入成本上升将压制利润率，直到明年很长一段时间。",
+     "ex2": "Tighter visa rules put a crimp in the sector's hiring plans. 更严格的签证规定给该行业的招聘计划添了堵。"
+    },
+    {
+     "w": "show up",
+     "ipa": "/ʃəʊ ʌp/",
+     "pos": "短语动词",
+     "en": "to show up means to become visible or apparent, especially in data",
+     "zh": "本义为\"露面、到场\"，数据语境核心义为（效果、影响）显现在数据里、冒出头来；此为熟词僻义",
+     "ctx": "本文特指：just as its productivity gains show up，指AI的生产率红利开始体现在统计数据中",
+     "ex1": "Tariff costs are only now beginning to show up in retail prices. 关税成本直到现在才开始显现在零售价格上。",
+     "ex2": "The productivity gains show up in output long before they show up in pay. 生产率的提升体现在产出上，远早于体现在薪酬上。"
+    },
+    {
+     "w": "trade-off",
+     "ipa": "/ˈtreɪd ɒf/",
+     "pos": "n.",
+     "en": "a trade-off means a situation in which gaining one desirable thing requires giving up another",
+     "zh": "本义为\"交换掉\"（trade 换+ off 掉），决策分析语境核心义为两样好东西不可兼得，必须牺牲一个换取另一个",
+     "ctx": "本文特指：a trade-off that complicates the usual assumption，指AI同时改变了生产率与工资两个变量，把\"服务通胀由工资推动\"这一因果关系搅浑了",
+     "ex1": "Every board faces the same trade-off between speed and resilience. 每一个董事会都面临同样的速度与韧性之间的取舍。",
+     "ex2": "There is a real trade-off between coverage and cost in this design. 在这套设计里，覆盖面与成本之间存在实实在在的取舍。"
+    },
+    {
+     "w": "sticky",
+     "ipa": "/ˈstɪki/",
+     "pos": "adj.",
+     "en": "sticky (adj.), in economics, describes prices or wages that adjust only slowly to changes in supply and demand",
+     "zh": "本义为\"黏的、有黏性的\"，宏观经济语境核心义为黏性的——价格不会随供需即时调整，而是\"黏\"在原地一段时间；因为改菜单要重印、房租一签一年、工资一年一调",
+     "ctx": "本文特指：sticky services inflation，指服务通胀降不下来、黏在高位，画面如口香糖粘在鞋底甩不掉",
+     "ex1": "Services inflation has proved far stickier than the goods component. 服务通胀被证明远比商品部分更具黏性。",
+     "ex2": "Wages are sticky downwards: they rise easily and fall almost never. 工资具有向下刚性——涨起来容易，几乎从不回落。"
+    }
+   ]
+  },
+  {
+   "en_html": "So far there is little evidence that people are <mark class=\"voc\">revising up</mark> the price rises they anticipate in the future—the thing that would really <mark class=\"voc\">spook</mark> policymakers. Most market-based measures of inflation expectations have not moved meaningfully in recent weeks. A recent survey by the ECB suggests that consumers expect lower inflation over the next year than they did a few months ago. <mark class=\"voc\">Fancy</mark> <mark class=\"voc\">leading indicators</mark> of inflation—including from Alternative Macro Signals, a consultancy, which analyses millions of news articles—do point to strengthening global inflationary pressures. But these tools’ predictive record is <mark class=\"voc\">patchy</mark>.",
+   "zh": "迄今为止，几乎没有证据显示人们正在上调对未来物价涨幅的预期——而那，才是真正会让决策者悚然一惊的事。多数基于市场的通胀预期指标，近几周并未出现实质性变动；欧洲央行近期的一项调查甚至表明，消费者对未来一年的通胀预期，比几个月前还要低。诚然，一些花哨的通胀领先指标——包括咨询机构Alternative Macro Signals的指标，该机构会分析数以百万计的新闻报道——确实指向全球通胀压力正在增强。只不过，这类工具的预测往绩，向来时准时不准。",
+   "notes": [
+    {
+     "w": "revise up / revise down",
+     "ipa": "",
+     "pos": "短语动词",
+     "en": "to revise a figure up or down means to adjust a previously published estimate or expectation to a higher or lower level",
+     "zh": "本义为\"修订、修改\"，预测与统计语境核心义为上调或下调已有的数字或预期；强调\"改已有的估计\"，而非首次给出",
+     "ctx": "本文特指：people are revising up the price rises they anticipate，指公众是否在上调对未来物价涨幅的预期——这正是央行最怕的那件事",
+     "ex1": "The statistics office revised down last quarter's growth by half a point. 统计部门将上季度增长下修了半个百分点。",
+     "ex2": "Three banks revised up their year-end inflation forecasts within a week. 一周之内，三家银行上调了年末通胀预测。"
+    },
+    {
+     "w": "spook",
+     "ipa": "/spuːk/",
+     "pos": "v.",
+     "en": "spook (v.) means to frighten someone or something suddenly, causing an abrupt reaction",
+     "zh": "本义为\"鬼、幽灵\"（名词），市场心理语境核心义为猝然惊吓；专门用来描述市场或决策者被某个消息瞬间惊到，强调\"一激灵\"而非长期恐惧",
+     "ctx": "本文特指：the thing that would really spook policymakers，指\"公众上调通胀预期\"这件事才是真正会让央行行长悚然一惊的——因为那意味着自我实现的循环启动了",
+     "ex1": "The revision spooked bond markets far more than the headline number did. 这次数据修订对债市的惊吓，远甚于头条数字本身。",
+     "ex2": "Investors were spooked by a single line buried in the footnotes. 投资者被藏在附注里的一句话吓到了。"
+    },
+    {
+     "w": "fancy",
+     "ipa": "/ˈfænsi/",
+     "pos": "adj.",
+     "en": "fancy (adj.) means elaborate, sophisticated or showy, often with a hint of scepticism about whether the elaboration is warranted",
+     "zh": "本义为\"花哨的、精致的\"，评价语境核心义为表面是\"高级的\"，语气上常带一丝调侃——\"搞得很唬人的\"",
+     "ctx": "本文特指：Fancy leading indicators of inflation，作者先用fancy 抬一下，最后一句predictive record is patchy 又拍下去，是典型的英式先扬后抑",
+     "ex1": "Nothing fancy: the model is a weighted average with two adjustments. 不搞花哨的：这个模型就是一个带两项调整的加权平均。",
+     "ex2": "For all its fancy dashboards, the system still misses the obvious signals. 尽管仪表盘做得花哨，这套系统依旧漏掉了最明显的信号。"
+    },
+    {
+     "w": "leading indicator",
+     "ipa": "/ˈliːdɪŋ ˈɪndɪkeɪtə(r)/",
+     "pos": "固定短语",
+     "en": "a leading indicator is a measurable variable that tends to change before the wider economy does, and is therefore used to forecast turning points",
+     "zh": "本义为\"走在前面的指标\"，经济预测语境核心义为领先指标，用于预测未来；与同步指标（coincident）、滞后指标（lagging）构成三分体系——领先指标是天气预报，同步指标是窗外的雨，滞后指标是湿掉的衣服",
+     "ctx": "本文特指：Fancy leading indicators of inflation... do point to strengthening global inflationary pressures，指那些高级的通胀领先指标确实在报警，只是准确率参差",
+     "ex1": "New orders remain the most reliable leading indicator for this sector. 新订单依旧是该行业最可靠的领先指标。",
+     "ex2": "Unemployment is a lagging indicator; it confirms rather than predicts. 失业率是滞后指标——它确认趋势，而非预测趋势。"
+    },
+    {
+     "w": "patchy",
+     "ipa": "/ˈpætʃi/",
+     "pos": "adj.",
+     "en": "patchy (adj.) means good in some parts but poor in others; inconsistent rather than uniformly bad",
+     "zh": "本义为\"打满补丁的\"（一块新一块旧，深浅不一），评价语境核心义为参差不齐、时好时坏；关键在于它不是全盘否定，而是\"靠不住\"——有时准有时不准，所以不能全信也不能全不信",
+     "ctx": "本文特指：these tools' predictive record is patchy，作者对领先指标的态度既不轻信也不否定，是本段\"自我降温\"姿态的落点",
+     "ex1": "Enforcement has been patchy at best across the twenty member states. 在二十个成员国之间，执法情况充其量只能说是参差不齐。",
+     "ex2": "Coverage in rural areas remains patchy despite three rounds of investment. 尽管经历了三轮投资，农村地区的覆盖依旧时有时无。"
+    }
+   ]
+  },
+  {
+   "en_html": "Whatever the future holds, many central banks are <mark class=\"voc\">in no mood to</mark> <mark class=\"voc\">take chances</mark>. Critics have argued that in 2021-22 policymakers <mark class=\"voc\">dawdled</mark> in responding to surging inflation: rate-setters do not want to <mark class=\"voc\">make the same mistake twice</mark>. They “shouldn’t wait” for inflation to become <mark class=\"voc\">entrenched</mark> before responding, Slovenia’s central-bank governor has <mark class=\"voc\">counseled</mark>. Isabel Schnabel, who <mark class=\"voc\">sits on</mark> the ECB’s board, recently warned that waiting until energy costs <mark class=\"voc\">pass through to</mark> pay could once again leave policymakers <mark class=\"voc\">behind the curve</mark>.",
+   "zh": "无论未来如何，许多央行如今都无意再赌一把。批评者指出，2021至2022年间，决策者面对飙升的通胀曾一味拖沓——这一次，利率的制定者们不愿在同一处跌倒两回。斯洛文尼亚央行行长便曾进言：不该\"坐等\"通胀扎下根来，才动手应对。欧洲央行执行董事会成员伊莎贝尔·施纳贝尔近日亦警告称，若非要等到能源成本传导至薪酬，恐怕会让决策者再一次落于形势之后。",
+   "notes": [
+    {
+     "w": "be in no mood to",
+     "ipa": "/biː ɪn nəʊ muːd tuː/",
+     "pos": "固定短语",
+     "en": "to be in no mood to do something means to be firmly unwilling to do it, with an implication of impatience",
+     "zh": "本义为\"没有做某事的心情\"，态度表达语境核心义为语气远强于don't want，带着\"就是不干、别劝我\"的坚决",
+     "ctx": "本文特指：many central banks are in no mood to take chances，指央行此刻的心态是绝不再赌",
+     "ex1": "Shareholders were in no mood to approve another special dividend. 股东们完全无意再批准一次特别分红。",
+     "ex2": "The committee is in no mood for gradualism after last year's misjudgement. 经历了去年的误判之后，委员会毫无渐进主义的心情。"
+    },
+    {
+     "w": "take chances",
+     "ipa": "/teɪk ˈtʃɑːnsɪz/",
+     "pos": "固定短语",
+     "en": "to take chances means to accept risk in the hope that things will turn out well",
+     "zh": "本义为\"抓取机会\"，风险语境核心义为冒险、碰运气；此处chance 意为\"风险、运气\"而非\"机会\"；须与take the chance（抓住某个具体机会）区分",
+     "ctx": "本文特指：are in no mood to take chances，指央行不愿再把结果交给运气去赌",
+     "ex1": "After the recall, the firm is taking no chances with supplier audits. 召回事件之后，这家公司在供应商审计上不敢有丝毫冒险。",
+     "ex2": "She took a chance on an unproven team and it paid off. 她赌了一支未经检验的团队，结果押对了。"
+    },
+    {
+     "w": "dawdle",
+     "ipa": "/ˈdɔːdl/",
+     "pos": "v.",
+     "en": "dawdle (v.) means to move or act more slowly than one should, wasting time in the process",
+     "zh": "本义为\"磨蹭、慢吞吞\"，批评语境核心义为带责备意味的\"拖拉\"，画面是放学路上东张西望的小孩；不是中性的\"慢\"，而是\"你本可以快，是你自己在浪费时间\"",
+     "ctx": "本文特指：policymakers dawdled in responding to surging inflation，作者借\"批评者\"之口，用最狠的一个词形容2021-22年央行的迟缓——这是媒体\"想说重话就借别人的嘴说\"的经典手法",
+     "ex1": "Regulators dawdled for two years while the loophole widened. 监管机构拖了两年，而这个漏洞越开越大。",
+     "ex2": "There is no time to dawdle if the deadline is to be met. 若要赶上截止期限，就没有磨蹭的余地。"
+    },
+    {
+     "w": "make the same mistake twice",
+     "ipa": "",
+     "pos": "固定表达",
+     "en": "the collocation is \"make a mistake\", never \"do a mistake\"",
+     "zh": "本义为\"同一个错误犯两次\"，教训语境核心义为动词固定用make；此为中国学生高频错点",
+     "ctx": "本文特指：rate-setters do not want to make the same mistake twice，此处的\"同一个错误\"，具体指2021年美联储等央行误判通胀为transitory 而迟迟不加息",
+     "ex1": "The board is determined not to make the same mistake twice. 董事会决心不在同一处栽两次跟头。",
+     "ex2": "Making a mistake is forgivable; concealing it is not. 犯错可以原谅，隐瞒错误则不然。"
+    },
+    {
+     "w": "entrenched",
+     "ipa": "/ɪnˈtrentʃt/",
+     "pos": "adj.",
+     "en": "entrenched (adj.) means firmly established and extremely difficult to change or dislodge",
+     "zh": "本义为\"挖进战壕里的\"（en- 使进入+ trench 战壕，源自一战堑壕战——双方挖沟据守，一守数年，谁也推不动谁），社会与经济语境核心义为根深蒂固、难以撼动",
+     "ctx": "本文特指：shouldn't wait for inflation to become entrenched，指通胀一旦扎进工资合同与定价惯例，就不再是外部冲击而成为经济体的一部分；此词与标题the fight、第1段redoubling their fight 构成全文的战争隐喻链——敌人已构筑好工事，再打就是堑壕消耗战",
+     "ex1": "Once expectations become entrenched, no amount of tightening works quickly. 预期一旦扎下根，再大的紧缩力度也难以速见成效。",
+     "ex2": ""
+    },
+    {
+     "w": "counsel",
+     "ipa": "/ˈkaʊnsl/",
+     "pos": "v.",
+     "en": "counsel (v.) means to give considered advice, more formal and weightier than \"advise\"",
+     "zh": "本义为\"商议、建议\"，正式表态语境核心义为（资深人士）郑重进言；须与council（委员会）、consul（领事）在拼写上严格区分",
+     "ctx": "本文特指：Slovenia's central-bank governor has counseled，指斯洛文尼亚央行行长的公开进言——注意英文新闻习惯把说话人置于引语之后，中译时通常需前移",
+     "ex1": "Two board members counselled caution; the rest voted to move now. 两位董事会成员主张谨慎，其余则投票支持即刻行动。",
+     "ex2": "Her lawyers counselled against making any public statement. 她的律师建议不要发表任何公开声明。"
+    },
+    {
+     "w": "sit on the board",
+     "ipa": "/sɪt ɒn ðə bɔːd/",
+     "pos": "固定短语",
+     "en": "to sit on a board means to serve as one of its members",
+     "zh": "本义为\"坐在董事会里\"，机构任职语境核心义为担任董事会/委员会成员",
+     "ctx": "本文特指：Isabel Schnabel, who sits on the ECB's board，用非限制性定语从句为人物标注身份，是外刊\"提到人物必给身份说明\"这一铁律的第三次体现，另两次为Alternative Macro Signals, a consultancy 与UBS, a Swiss bank",
+     "ex1": "She has sat on the board since the group's first funding round. 自集团首轮融资以来，她就一直是董事会成员。",
+     "ex2": "Two independent directors resigned their seats on the board this month. 本月有两位独立董事辞去了董事会席位。"
+    },
+    {
+     "w": "pass through to",
+     "ipa": "/pɑːs θruː tuː/",
+     "pos": "短语动词",
+     "en": "to pass through to something means for a cost increase to be transmitted onward to the next stage in the chain",
+     "zh": "本义为\"穿过、传递过去\"，成本传导语境核心义为成本从一个环节传导至下一个环节；能源成本传导到工资是关键的一步，因为油价可以跌回去，工资却几乎不会降——工资具有\"向下刚性\"，因此这一步一旦走完，通胀就永久化了",
+     "ctx": "本文特指：waiting until energy costs pass through to pay，施纳贝尔警告不能等到这一步再行动",
+     "ex1": "Only about half the tariff has passed through to shelf prices so far. 迄今为止，只有大约一半的关税传导到了货架价格上。",
+     "ex2": "The pass-through from wholesale gas to household bills takes about six months. 从批发气价传导到家庭账单，大约需要六个月。"
+    },
+    {
+     "w": "behind the curve",
+     "ipa": "/bɪˈhaɪnd ðə kɜːv/",
+     "pos": "固定短语",
+     "en": "to be behind the curve means to be failing to act quickly enough to keep pace with unfolding events",
+     "zh": "本义为\"落在曲线后面\"（指央行的实际动作落后于理论上应有的利率路径），货币政策语境核心义为反应太慢、跟不上形势；形势跑到前面，你还在后面追",
+     "ctx": "本文特指：could once again leave policymakers behind the curve，其中once again 三个字把整句钉死在2021年那次翻车上——与dawdled、the same mistake twice 一道，构成全段层层加码的三重指向",
+     "ex1": "Waiting for confirmation is exactly how a central bank falls behind the curve. 非要等到确认信号，恰恰就是央行落后于形势的方式。",
+     "ex2": ""
+    }
+   ]
+  },
+  {
+   "en_html": "A new <mark class=\"voc\">tightening cycle</mark> may, then, just be getting started. UBS, a Swiss bank, <mark class=\"voc\">reckons</mark> that many of the central banks which have not yet started tightening will do so soon. Candidates include Sweden’s, and even Switzerland’s. <mark class=\"voc\">For all</mark> the <mark class=\"voc\">appearance</mark> of a soft landing, the fight against inflation never really ended. ■",
+   "zh": "如此看来，新一轮紧缩周期，恐怕才刚刚拉开序幕。瑞士银行瑞银估计，那些尚未启动紧缩的央行，多半也将很快跟进——候选名单上有瑞典，甚至还有瑞士。纵使表面上看去像是一场软着陆，这场与通胀的战争，其实从未真正落幕。",
+   "notes": [
+    {
+     "w": "tightening cycle",
+     "ipa": "/ˈtaɪtnɪŋ ˈsaɪkl/",
+     "pos": "固定短语",
+     "en": "a tightening cycle means a sequence of successive interest-rate increases by a central bank, aimed at reducing the money supply and cooling prices",
+     "zh": "本义为\"收紧的周期\"，货币政策语境核心义为紧缩周期；央行加息从不只加一次，而是连续加到通胀回落为止，画面如拧螺丝——一圈一圈拧到紧为止；与easing cycle（宽松周期）相对",
+     "ctx": "本文特指：A new tightening cycle may, then, just be getting started，作者用进行时be getting started 而非完成时，强调\"这才刚起头，后面还长\"",
+     "ex1": "This is the third tightening cycle in a decade, and the shortest gap between them. 这是十年内的第三轮紧缩周期，也是间隔最短的一次。",
+     "ex2": "Markets had priced in an easing cycle that never arrived. 市场此前已计入一轮宽松周期，而它始终没有到来。"
+    },
+    {
+     "w": "reckon",
+     "ipa": "/ˈrekən/",
+     "pos": "v.",
+     "en": "reckon (v.) means to think, believe or estimate; markedly more common in British than American usage",
+     "zh": "本义为\"计算、清点\"，英式表达语境核心义为认为、估计；正式度介于think 与believe 之间，是英媒的常用词",
+     "ctx": "本文特指：UBS, a Swiss bank, reckons that many of the central banks... will do so soon，指瑞银的判断——尚未紧缩的央行多半也将很快跟进",
+     "ex1": "Analysts reckon the pass-through will be complete by the second quarter. 分析人士估计，传导过程将在第二季度前完成。",
+     "ex2": ""
+    },
+    {
+     "w": "for all",
+     "ipa": "/fɔː(r) ɔːl/",
+     "pos": "介词短语",
+     "en": "for all means despite or in spite of, introducing a concession",
+     "zh": "本义为\"就所有的……而言\"，让步表达语境核心义为\"尽管\"；极易被误读为\"为了\"，是外刊阅读的常见陷阱",
+     "ctx": "本文特指：For all the appearance of a soft landing, the fight against inflation never really ended——尽管表面上像是软着陆，这场仗其实从未真正结束",
+     "ex1": "For all the talk of restructuring, the cost base has barely moved. 重组说了半天，成本结构几乎纹丝未动。",
+     "ex2": "For all its flaws, the index remains the best single gauge available. 尽管存在种种缺陷，这一指数依旧是现有最好的单一衡量工具。"
+    },
+    {
+     "w": "appearance",
+     "ipa": "/əˈpɪərəns/",
+     "pos": "n.",
+     "en": "appearance (n.) means the way something looks or seems, as distinct from how it actually is",
+     "zh": "本义为\"出现、外观\"，表象与实质语境核心义为\"看上去的样子\"，与真实情况相对",
+     "ctx": "本文特指：the appearance of a soft landing，作者用appearance 一词提前告诉读者：软着陆只是\"看上去\"如此，为最后半句的推翻做好铺垫",
+     "ex1": "To all appearances the transition was smooth; internally it was anything but. 从各方面看来，这次交接都很平稳，而内部则完全不是这么回事。",
+     "ex2": "The board wanted to avoid even the appearance of a conflict of interest. 董事会连利益冲突的表象都想避免。"
+    }
+   ]
+  }
+ ],
+ "proper": [
+  {
+   "name": "Reserve Bank of New Zealand / 新西兰储备银行",
+   "def": "新西兰的中央银行。1989年通过《储备银行法》，成为全球第一个正式采用通胀目标制的央行，其0%-2%目标区间后被加拿大、英国、欧洲央行、美联储等相继效仿。<br>本文中的意思：文章第一个点名的加息主体（9月2日加息），既是本轮全球紧缩潮的开端，也在制度上是“通胀目标制”这套游戏规则的发明者。"
+  },
+  {
+   "name": "Bank of Japan / 日本央行",
+   "def": "日本的中央银行，简称BOJ，尽管名为“银行”，实为货币政策决策机构。长期实行超宽松政策，2024年起逐步退出负利率。<br>本文中的意思：作为6月加息的主体出现，是本轮全球紧缩潮中亚洲地区的重要一环。"
+  },
+  {
+   "name": "Bank of Korea / 韩国央行",
+   "def": "韩国的中央银行，简称BOK，负责制定韩元货币政策。<br>本文中的意思：文中提到其在7月和8月连续两次加息，是本段“加息密度”最高的一家央行。"
+  },
+  {
+   "name": "European Central Bank / 欧洲央行",
+   "def": "欧元区的中央银行，简称ECB，负责为使用欧元的二十个国家统一制定货币政策。最高决策机构为管理委员会，由执行董事会成员加上所有欧元区成员国央行行长组成——这意味着斯洛文尼亚这样的小国行长同样握有一票。<br>本文中的意思：全文出现三次——第2段预计9月10日加息至2.5%；第7段其消费者调查显示通胀预期反而下降；第8段其执行董事会成员施纳贝尔发出警告。"
+  },
+  {
+   "name": "the Federal Reserve / 美联储",
+   "def": "美国的中央银行体系，简称the Fed，因美元的全球储备货币地位，其利率决策对全球金融市场具有溢出效应。<br>本文中的意思：第2段作为压轴出现——它尚未行动，但市场普遍预期它将跟进；第8段的2021年“transitory”误判，正是本文所指央行集体心理阴影的源头。"
+  },
+  {
+   "name": "cost-of-living crisis / 生活成本危机",
+   "def": "指2021至2023年欧美国家经历的物价全面上涨时期——电费、燃气费、房租与食品价格大幅攀升，而工资涨幅远远落后，家庭实际购买力被显著侵蚀。英国媒体当时创造了“heat or eat”（取暖还是吃饭）的说法，食物银行领取人数创下纪录；该词条被柯林斯词典选为2022年度词汇。<br>本文中的意思：作为“痛苦记忆”的具体所指出现，是第1段the pain of four years ago 的完整展开，也是第8段央行“不敢再犯同样错误”的代价所在。"
+  },
+  {
+   "name": "Lithuania / 立陶宛",
+   "def": "波罗的海三国之一，欧元区成员国，人口不足三百万的小型开放经济体，对进口能源和食品依赖度极高，缺乏吸收外部价格冲击的产业纵深。<br>本文中的意思：作为本段通胀最高的极端案例出现——通胀逼近6%，而1月还只有3.1%，与瑞士的0.8%构成同一欧洲内部七倍以上的差距光谱。"
+  },
+  {
+   "name": "Alternative Macro Signals / 一家宏观信号分析咨询公司",
+   "def": "一家咨询机构，通过分析数以百万计的新闻报道文本，从中提取通胀信号并构建领先指标。这类“文本挖掘预测经济”的做法近十年才兴起，其思路是：传统通胀数据由统计部门按月发布、天然滞后，而新闻每天都在产生，若“涨价”“成本上升”“供应短缺”这类表述突然增多，可能预示通胀压力正在积聚。<br>本文中的意思：作为“高级领先指标”的代表出现，其结论（全球通胀压力在增强）与市场指标、消费者调查的结论相反；作者随即以predictive record is patchy 一句提醒读者不可尽信。"
+  },
+  {
+   "name": "self-fulfilling prophecy / 自我实现的预言",
+   "def": "指某种预期因为被广泛相信，进而改变人们的行为，最终使该预期成为现实。在通胀语境中的机制是：企业主预期物价将涨→提前定价上调→员工发现购买力下降→要求涨薪→人力成本上升→再次涨价→全社会循环往复。上世纪七十年代西方长达十年的高通胀，被普遍认为正是这一机制的产物。<br>本文中的意思：文章未直接使用这个术语，但第7段the thing that would really spook policymakers 所指的正是它——央行真正恐惧的不是当下的通胀数字，而是通胀预期一旦扎进人心，加息也很难拧回来。"
+  },
+  {
+   "name": "Isabel Schnabel / 伊莎贝尔·施纳贝尔",
+   "def": "德国经济学家，欧洲央行执行董事会成员，在欧元区货币政策辩论中以立场偏鹰派著称，长期主张对通胀风险早做反应。<br>本文中的意思：作为第8段的第二个权威声音出现——她警告说，若等到能源成本传导至工资才行动，恐怕会让决策者“再一次”落后于形势，其中once again 直指2021年的集体误判。"
+  },
+  {
+   "name": "Slovenia / 斯洛文尼亚",
+   "def": "中欧小国，人口约两百万，欧元区成员国。欧洲央行的最高决策机构“管理委员会”由执行董事会成员加上全部欧元区成员国央行行长组成——这意味着无论德国还是斯洛文尼亚，其央行行长都握有同等的一票。<br>本文中的意思：解释了作者为何引用一个小国行长的表态——这并非小国自言自语，而是欧洲央行决策圈内部的一票，其“不该坐等通胀扎根”的进言，代表了鹰派阵营的立场。"
+  },
+  {
+   "name": "UBS / 瑞银集团",
+   "def": "瑞士两大银行之一，全球规模最大的财富管理机构之一。2023年收购瑞士信贷后，成为瑞士唯一的全球性系统重要银行。<br>本文中的意思：作为文章最后一个权威预判来源出现——瑞银估计尚未启动紧缩的央行很快也会跟进，候选名单包括瑞典甚至瑞士。作者仅用a Swiss bank 三词标注身份，分寸恰好。"
+  },
+  {
+   "name": "Sweden / 瑞典",
+   "def": "北欧国家，欧盟成员国但未加入欧元区，保留自身货币克朗，央行为瑞典央行（Riksbank），是世界上历史最悠久的中央银行。<br>本文中的意思：被列为下一批可能启动加息的候选者之一。"
+  },
+  {
+   "name": "Switzerland / 瑞士",
+   "def": "非欧盟国家，通胀长期处于全球最低水平，很大程度上得益于瑞士法郎的避险货币地位——全球市场一有动荡，资金涌入推高法郎，而法郎升值又使瑞士的进口能源与商品以本币计价变得更便宜，等于由全球市场替瑞士分担了通胀。<br>本文中的意思：全文出现两次，且两次都被用作“连它也不例外”的极端例证——第3段其0.8%的超低通胀被作者称为“现代世界奇迹之一”，却也是两年新高；第9段它甚至出现在了可能加息的候选名单上。"
+  }
+ ],
+ "sources_note": "资料核对：以上背景依据 2026 年 9 月 8 日《经济学人》Finance & economics 栏目文章 “Inflation is back around the world—as is the fight against it”（副标题：Central banks are raising interest rates again，Sep 8th 2026）的内容整理，并参考欧洲央行、美联储及各央行截至当月的公开信息。",
+ "practice": {
+  "intro": "把下面三句翻译成英文，注意划线表达。",
+  "items": [
+   "2022至2023年间，各国央行行长曾梦想在不触发衰退的前提下，把高通胀压下来。",
+   "发达国家的平均年通胀率已不再向2%——多数国家设定的目标——靠拢，反而在最近数月里小幅回升。",
+   "纵使表面上看去像是一场软着陆，这场与通胀的战争，其实从未真正落幕。"
+  ],
+  "critical_en": "But even there, economists worry that AI's disruptive effect on white-collar and professional-service jobs could eventually crimp wage growth just as its productivity gains show up—a trade-off that complicates the usual assumption that faster wage growth alone explains sticky services inflation.",
+  "critical_zh": "但即便在美国，经济学家也担心：人工智能对白领与专业服务类岗位的颠覆性冲击，最终可能会压住工资的增长——而这恰恰发生在它的生产率红利刚刚开始显现之时。这种此消彼长的权衡，令“服务通胀居高不下仅仅源于工资加速上涨”这一惯常假设，变得不再那么站得住脚。",
+  "answer": "1. In 2022-23 central bankers dreamed of bringing high inflation down without triggering a recession.<br><br>2. Average annual inflation across rich countries has stopped falling towards 2%, the target in most of them, and has instead edged up in recent months.<br><br>3. For all the appearance of a soft landing, the fight against inflation never really ended.<br><br>一句话总结：Central banks are raising interest rates again, because inflation is back around the world—and so is the fight against it."
+ },
+ "mindmap": {
+  "aria": "全球通胀与央行加息思维导图",
+  "alt": "全球通胀与央行加息（手绘版）",
+  "svg": "<svg viewBox=\"0 0 960 720\" xmlns=\"http://www.w3.org/2000/svg\" role=\"img\" aria-label=\"全球通胀与央行加息思维导图\" style=\"width:100%;height:auto;font-family:-apple-system,'PingFang SC','Hiragino Sans GB','Microsoft YaHei',sans-serif\">\n        <rect x=\"24\" y=\"306\" width=\"176\" height=\"88\" rx=\"14\" fill=\"#eae3d2\" stroke=\"#9a8f76\"/>\n        <text x=\"112\" y=\"342\" text-anchor=\"middle\" fill=\"#3d3a34\" font-size=\"17\" font-weight=\"700\">通胀卷土重来</text>\n        <text x=\"112\" y=\"368\" text-anchor=\"middle\" fill=\"#5c5648\" font-size=\"12.5\">各国央行重新加息</text>\n\n        <path d=\"M200,350 C232,350 232,88 260,88\"  stroke=\"#6b8f71\" stroke-width=\"2\" fill=\"none\"/>\n        <path d=\"M200,350 C232,350 232,238 260,238\" stroke=\"#7d98ad\" stroke-width=\"2\" fill=\"none\"/>\n        <path d=\"M200,350 C232,350 232,433 260,433\" stroke=\"#bd7a6d\" stroke-width=\"2\" fill=\"none\"/>\n        <path d=\"M200,350 C232,350 232,628 260,628\" stroke=\"#9b86b3\" stroke-width=\"2\" fill=\"none\"/>\n\n        <g class=\"mm-branch\" data-target=\"bc1\">\n          <rect x=\"260\" y=\"71\" width=\"190\" height=\"34\" rx=\"8\" fill=\"#e6efe7\" stroke=\"#6b8f71\"/>\n          <text x=\"349\" y=\"93\" text-anchor=\"middle\" fill=\"#4c6b52\" font-size=\"15\" font-weight=\"700\">全球加息潮（¶1–2）</text>\n          <text class=\"mm-arrow\" data-for=\"bc1\" x=\"442\" y=\"93\" text-anchor=\"end\" fill=\"#4c6b52\">▾</text>\n        </g>\n        <g class=\"mm-children\" id=\"bc1\">\n          <path d=\"M450,88 C462,88 462,46 480,46\" stroke=\"#6b8f71\" stroke-width=\"1.5\" fill=\"none\"/>\n          <path d=\"M450,88 C462,88 462,88 480,88\" stroke=\"#6b8f71\" stroke-width=\"1.5\" fill=\"none\"/>\n          <path d=\"M450,88 C462,88 462,130 480,130\" stroke=\"#6b8f71\" stroke-width=\"1.5\" fill=\"none\"/>\n          <rect x=\"480\" y=\"30\" width=\"456\" height=\"32\" rx=\"8\" fill=\"#e6efe7\"/><text x=\"492\" y=\"51\" fill=\"#3d3a34\" font-size=\"14\">新西兰9月2日率先加息，澳洲三度跟进</text>\n          <rect x=\"480\" y=\"72\" width=\"456\" height=\"32\" rx=\"8\" fill=\"#e6efe7\"/><text x=\"492\" y=\"93\" fill=\"#3d3a34\" font-size=\"14\">日本央行6月、韩国7月和8月出手</text>\n          <rect x=\"480\" y=\"114\" width=\"456\" height=\"32\" rx=\"8\" fill=\"#e6efe7\"/><text x=\"492\" y=\"135\" fill=\"#3d3a34\" font-size=\"14\">欧洲央行料将存款利率上调至2.5%</text>\n        </g>\n\n        <g class=\"mm-branch\" data-target=\"bc2\">\n          <rect x=\"260\" y=\"221\" width=\"190\" height=\"34\" rx=\"8\" fill=\"#e5edf4\" stroke=\"#7d98ad\"/>\n          <text x=\"349\" y=\"243\" text-anchor=\"middle\" fill=\"#3d5872\" font-size=\"15\" font-weight=\"700\">通胀元凶（¶3–5）</text>\n          <text class=\"mm-arrow\" data-for=\"bc2\" x=\"442\" y=\"243\" text-anchor=\"end\" fill=\"#3d5872\">▾</text>\n        </g>\n        <g class=\"mm-children\" id=\"bc2\">\n          <path d=\"M450,238 C462,238 462,196 480,196\" stroke=\"#7d98ad\" stroke-width=\"1.5\" fill=\"none\"/>\n          <path d=\"M450,238 C462,238 462,238 480,238\" stroke=\"#7d98ad\" stroke-width=\"1.5\" fill=\"none\"/>\n          <path d=\"M450,238 C462,238 462,280 480,280\" stroke=\"#7d98ad\" stroke-width=\"1.5\" fill=\"none\"/>\n          <rect x=\"480\" y=\"180\" width=\"456\" height=\"32\" rx=\"8\" fill=\"#e5edf4\"/><text x=\"492\" y=\"201\" fill=\"#3d3a34\" font-size=\"14\">欧元区通胀3.3%，创三年新高</text>\n          <rect x=\"480\" y=\"222\" width=\"456\" height=\"32\" rx=\"8\" fill=\"#e5edf4\"/><text x=\"492\" y=\"243\" fill=\"#3d3a34\" font-size=\"14\">核心通胀从2.7%升到2.9%</text>\n          <rect x=\"480\" y=\"264\" width=\"456\" height=\"32\" rx=\"8\" fill=\"#e5edf4\"/><text x=\"492\" y=\"285\" fill=\"#3d3a34\" font-size=\"14\">服务通胀在三分之二样本国上行</text>\n        </g>\n\n        <g class=\"mm-branch\" data-target=\"bc3\">\n          <rect x=\"260\" y=\"416\" width=\"190\" height=\"34\" rx=\"8\" fill=\"#f4e7e4\" stroke=\"#bd7a6d\"/>\n          <text x=\"349\" y=\"438\" text-anchor=\"middle\" fill=\"#7c4a3e\" font-size=\"15\" font-weight=\"700\">另两个嫌疑人（¶6–7）</text>\n          <text class=\"mm-arrow\" data-for=\"bc3\" x=\"442\" y=\"438\" text-anchor=\"end\" fill=\"#7c4a3e\">▾</text>\n        </g>\n        <g class=\"mm-children\" id=\"bc3\">\n          <path d=\"M450,433 C462,433 462,391 480,391\" stroke=\"#bd7a6d\" stroke-width=\"1.5\" fill=\"none\"/>\n          <path d=\"M450,433 C462,433 462,433 480,433\" stroke=\"#bd7a6d\" stroke-width=\"1.5\" fill=\"none\"/>\n          <path d=\"M450,433 C462,433 462,475 480,475\" stroke=\"#bd7a6d\" stroke-width=\"1.5\" fill=\"none\"/>\n          <rect x=\"480\" y=\"375\" width=\"456\" height=\"32\" rx=\"8\" fill=\"#f4e7e4\"/><text x=\"492\" y=\"396\" fill=\"#3d3a34\" font-size=\"14\">AI冲击白领岗位，或压低工资</text>\n          <rect x=\"480\" y=\"417\" width=\"456\" height=\"32\" rx=\"8\" fill=\"#f4e7e4\"/><text x=\"492\" y=\"438\" fill=\"#3d3a34\" font-size=\"14\">通胀预期暂未出现实质上调</text>\n          <rect x=\"480\" y=\"459\" width=\"456\" height=\"32\" rx=\"8\" fill=\"#f4e7e4\"/><text x=\"492\" y=\"480\" fill=\"#3d3a34\" font-size=\"14\">领先指标报警，但往绩时准时不准</text>\n        </g>\n\n        <g class=\"mm-branch\" data-target=\"bc4\">\n          <rect x=\"260\" y=\"611\" width=\"190\" height=\"34\" rx=\"8\" fill=\"#ece4f2\" stroke=\"#9b86b3\"/>\n          <text x=\"349\" y=\"633\" text-anchor=\"middle\" fill=\"#5a4670\" font-size=\"15\" font-weight=\"700\">央行不能再赌（¶8–9）</text>\n          <text class=\"mm-arrow\" data-for=\"bc4\" x=\"442\" y=\"633\" text-anchor=\"end\" fill=\"#5a4670\">▾</text>\n        </g>\n        <g class=\"mm-children\" id=\"bc4\">\n          <path d=\"M450,628 C462,628 462,586 480,586\" stroke=\"#9b86b3\" stroke-width=\"1.5\" fill=\"none\"/>\n          <path d=\"M450,628 C462,628 462,628 480,628\" stroke=\"#9b86b3\" stroke-width=\"1.5\" fill=\"none\"/>\n          <path d=\"M450,628 C462,628 462,670 480,670\" stroke=\"#9b86b3\" stroke-width=\"1.5\" fill=\"none\"/>\n          <rect x=\"480\" y=\"570\" width=\"456\" height=\"32\" rx=\"8\" fill=\"#ece4f2\"/><text x=\"492\" y=\"591\" fill=\"#3d3a34\" font-size=\"14\">不愿重蹈2021年拖沓误判的覆辙</text>\n          <rect x=\"480\" y=\"612\" width=\"456\" height=\"32\" rx=\"8\" fill=\"#ece4f2\"/><text x=\"492\" y=\"633\" fill=\"#3d3a34\" font-size=\"14\">施纳贝尔警告勿等成本传导到工资</text>\n          <rect x=\"480\" y=\"654\" width=\"456\" height=\"32\" rx=\"8\" fill=\"#ece4f2\"/><text x=\"492\" y=\"675\" fill=\"#3d3a34\" font-size=\"14\">瑞银料未加息的央行很快跟进</text>\n        </g>\n      </svg>",
+  "img": ""
+ }
+}

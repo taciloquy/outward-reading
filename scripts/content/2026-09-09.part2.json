@@ -1,0 +1,282 @@
+{
+ "paragraphs": [
+  {
+   "en_html": "An even <mark class=\"voc\">swifter</mark> approach is to take over part of an <mark class=\"voc\">underutilised</mark> factory. AlixPartners <mark class=\"voc\">reckons</mark> there is <mark class=\"voc\">spare</mark> capacity to make 2.5m cars a year across European factories. Chery signed a deal in June with Nissan to borrow part of its Sunderland factory in Britain, and a similar agreement in July allows Geely to build EVs at a Ford plant in Valencia. Such deals may speed market entry, but the next stage will be independent production. SAIC has confirmed plans for a new factory in Spain, while Xpeng is searching for a <mark class=\"voc\">permanent</mark> European base.",
+   "zh": "还有一种速度更快的办法，那就是直接接手利用率不足的现有工厂的一部分。AlixPartners估计，目前欧洲各地的汽车工厂拥有每年约250万辆汽车的闲置产能。今年6月，奇瑞与日产达成协议，将使用后者位于英国桑德兰工厂的部分产能；7月达成的另一项类似协议，则允许吉利在福特位于西班牙瓦伦西亚的工厂生产电动汽车。这类合作虽然能够帮助中国车企更快进入市场，但下一阶段仍将是建立独立生产能力。上汽已经确认计划在西班牙建设一座新工厂，而小鹏也正在寻找一个永久性的欧洲生产基地。",
+   "notes": [
+    {
+     "w": "swift",
+     "ipa": "/swɪft/",
+     "pos": "adj.",
+     "en": "happening or done quickly and promptly",
+     "zh": "迅速的，快捷的",
+     "ctx": "指接管部分闲置工厂是比新建更快的进入市场方式",
+     "ex1": "The company made a swift decision to exit the underperforming market. 该公司迅速做出决定，退出了表现不佳的市场。",
+     "ex2": "A swift response to customer complaints helped the brand maintain its reputation. 对客户投诉的迅速回应帮助该品牌维护了声誉。"
+    },
+    {
+     "w": "underutilised",
+     "ipa": "/ˌʌndəˈjuːtɪlaɪzd/",
+     "pos": "adj.",
+     "en": "not used as much or as effectively as possible",
+     "zh": "未充分利用的，产能闲置的",
+     "ctx": "指欧洲工厂存在大量闲置产能",
+     "ex1": "The airport remains underutilised, handling only a fraction of its designed capacity. 这座机场仍未得到充分利用，实际吞吐量仅为设计容量的一小部分。",
+     "ex2": "The company has several underutilised warehouses that could be converted into distribution hubs. 该公司有几个未充分利用的仓库，可以改造成配送中心。"
+    },
+    {
+     "w": "reckon",
+     "ipa": "/ˈrekən/",
+     "pos": "v.",
+     "en": "to think, estimate, or calculate something",
+     "zh": "估计，认为",
+     "ctx": "指艾睿铂估计欧洲工厂有年产250万辆的闲置产能",
+     "ex1": "Analysts reckon the new policy could boost domestic production by 15%. 分析师估计新政策可能推动国内生产增长15%。",
+     "ex2": "Industry experts reckon the market will recover by the end of next year. 行业专家认为市场将在明年年底前复苏。"
+    },
+    {
+     "w": "spare",
+     "ipa": "/speə/",
+     "pos": "adj.",
+     "en": "available to use because it is not currently being used",
+     "zh": "闲置的，备用的",
+     "ctx": "指欧洲工厂的闲置产能",
+     "ex1": "The factory has spare capacity to produce an additional 100,000 units per year. 这家工厂有年产额外10万台的闲置产能。",
+     "ex2": "The airline uses its spare aircraft to operate charter flights during the off-season. 这家航空公司在淡季用闲置飞机运营包机航班。"
+    },
+    {
+     "w": "permanent",
+     "ipa": "/ˈpɜːmənənt/",
+     "pos": "adj.",
+     "en": "lasting or intended to last for a long time without change",
+     "zh": "永久的，长期的",
+     "ctx": "指小鹏汽车正在寻找欧洲的永久生产基地",
+     "ex1": "The company is looking for a permanent headquarters in the region after years of renting temporary offices. 在租用临时办公室多年后，该公司正在该地区寻找永久总部。",
+     "ex2": "The automaker established a permanent presence in Europe with a new research centre and assembly plant. 这家汽车制造商通过新建研发中心和组装厂在欧洲建立了永久存在。"
+    }
+   ]
+  },
+  {
+   "en_html": "European car bosses may hope that the cost advantage of around 30% their Chinese rivals currently enjoy will be <mark class=\"voc\">eroded</mark> by localised production. If so, they are <mark class=\"voc\">bound to</mark> be disappointed. China’s edge comes from <mark class=\"voc\">lean</mark> corporate structures, <mark class=\"voc\">streamlined</mark> manufacturing and a high degree of <mark class=\"voc\">vertical integration</mark>. Chinese cars typically contain around 1,000-2,000 different parts, whereas European competitors are still <mark class=\"voc\">wrangling</mark> 3,000-10,000. China has also mastered the “software-defined vehicle”, developed around a centralised computer rather than dozens of separate micro-controllers.",
+   "zh": "欧洲汽车业的管理者们或许希望，中国竞争对手目前大约30%的成本优势会随着生产本地化而逐渐被削弱。如果他们真这么想，恐怕注定要失望。中国车企的优势来自精简的企业架构、高度优化的生产制造流程，以及极高程度的垂直整合。一辆中国汽车通常只包含大约1000至2000种不同的零部件，而欧洲竞争对手仍要应付3000至10000种零部件。中国车企还掌握了所谓的“软件定义汽车”：这种汽车围绕一个中央计算机系统进行开发，而不是依赖几十个彼此独立的微控制器。",
+   "notes": [
+    {
+     "w": "erode",
+     "ipa": "/ɪˈrəʊd/",
+     "pos": "v.",
+     "en": "to gradually reduce, weaken, or destroy something",
+     "zh": "侵蚀，削弱",
+     "ctx": "指欧洲车企老板寄希望于本地化生产能削弱中国对手的成本优势",
+     "ex1": "Rising labour costs have steadily eroded the country's manufacturing competitiveness. 不断上涨的劳动力成本持续侵蚀着该国的制造业竞争力。",
+     "ex2": "The brand's market share was eroded by a wave of cheaper imports. 该品牌的市场份额被一波更便宜的进口产品所侵蚀。"
+    },
+    {
+     "w": "be bound to",
+     "ipa": "/bi baʊnd tuː/",
+     "pos": "phr.",
+     "en": "to be certain or very likely to happen or do something",
+     "zh": "注定，必然会",
+     "ctx": "指欧洲车企如果指望中国成本优势消失，注定会失望",
+     "ex1": "With such a flawed business model, the venture was bound to fail. 商业模式存在如此严重的缺陷，这个项目注定会失败。",
+     "ex2": "Consumers are bound to notice the difference in quality between the two products. 消费者必然会注意到这两种产品在质量上的差异。"
+    },
+    {
+     "w": "lean",
+     "ipa": "/liːn/",
+     "pos": "adj.",
+     "en": "efficient, streamlined, and without waste or excess",
+     "zh": "精简的，高效的",
+     "ctx": "指中国车企精简的企业架构是其成本优势的来源之一",
+     "ex1": "The company's lean management structure allows it to make decisions quickly. 该公司精简的管理结构使其能够迅速做出决策。",
+     "ex2": "Lean manufacturing techniques helped the factory cut waste and reduce costs. 精益生产技术帮助这家工厂减少了浪费并降低了成本。"
+    },
+    {
+     "w": "streamlined",
+     "ipa": "/ˈstriːmlaɪnd/",
+     "pos": "adj.",
+     "en": "made more efficient and effective by removing unnecessary steps or components",
+     "zh": "精简的，流水线化的",
+     "ctx": "指中国车企流水线化的制造流程",
+     "ex1": "The streamlined production process reduced assembly time from three days to one. 精简后的生产流程将组装时间从三天缩短到了一天。",
+     "ex2": "The company adopted a streamlined approval process to speed up product launches. 该公司采用了精简的审批流程以加快产品上市速度。"
+    },
+    {
+     "w": "vertical integration",
+     "ipa": "/ˈvɜːtɪkəl ˌɪntɪˈɡreɪʃən/",
+     "pos": "n.",
+     "en": "a business strategy in which a company controls multiple stages of its supply chain, from raw materials to finished products",
+     "zh": "垂直整合",
+     "ctx": "指中国车企高度垂直整合，自己掌控供应链多个环节",
+     "ex1": "Vertical integration allows the company to control quality and reduce dependence on outside suppliers. 垂直整合使该公司能够控制质量并减少对外部供应商的依赖。",
+     "ex2": "The electric vehicle maker's vertical integration extends from battery production to software development. 这家电动汽车制造商的垂直整合从电池生产延伸到软件开发。"
+    },
+    {
+     "w": "wrangle",
+     "ipa": "/ˈræŋɡəl/",
+     "pos": "v.",
+     "en": "to argue or struggle with something difficult or complicated over a long period",
+     "zh": "苦苦应对，费力周旋",
+     "ctx": "指欧洲车企仍在费力应对3000到10000种零部件带来的复杂性",
+     "ex1": "The company is still wrangling with legacy IT systems that slow down its operations. 该公司仍在费力应对拖慢运营的遗留IT系统。",
+     "ex2": "Regulators and tech firms continue to wrangle over data privacy rules. 监管机构和科技公司继续在数据隐私规则上费力周旋。"
+    }
+   ]
+  },
+  {
+   "en_html": "All this lowers costs and makes Chinese carmakers much quicker at developing new vehicles, which typically takes around two years, compared with at least double that for foreign competitors—a <mark class=\"voc\">trait</mark> the industry calls “China speed”. Much of the advantage will persist as production moves abroad. Research and development will remain in China, and manufacturing methods perfected at home will be <mark class=\"voc\">replicated</mark> globally. Chinese firms will face higher supplier, labour and energy costs, but they can choose cheaper manufacturing locations such as Hungary or Slovakia.",
+   "zh": "所有这些优势不仅降低了成本，也让中国汽车制造商开发新车型的速度快得多。中国车企开发一款新车通常只需要大约两年，而外国竞争对手至少需要两倍的时间——汽车行业把这种特质称为“China speed（中国速度）”。随着生产向海外转移，这些优势中的很大一部分仍将继续存在。研发工作仍会留在中国，而那些已经在国内反复打磨成熟的制造方法，则会被复制到世界各地。当然，中国车企在海外也将面对更高的供应商成本、劳动力成本和能源成本，但它们可以选择匈牙利或斯洛伐克等生产成本相对较低的地区进行制造。",
+   "notes": [
+    {
+     "w": "trait",
+     "ipa": "/treɪt/",
+     "pos": "n.",
+     "en": "a particular quality or characteristic that distinguishes someone or something",
+     "zh": "特征，特质",
+     "ctx": "指“中国速度”这一行业特质（中国车企开发新车仅需约两年）",
+     "ex1": "Speed and flexibility are defining traits of successful startups. 速度和灵活性是成功初创企业的标志性特质。",
+     "ex2": "Attention to detail is a trait shared by all great engineers. 注重细节是所有优秀工程师的共同特质。"
+    },
+    {
+     "w": "replicate",
+     "ipa": "/ˈreplɪkeɪt/",
+     "pos": "v.",
+     "en": "to copy or reproduce something, especially a successful method or process",
+     "zh": "复制，复刻",
+     "ctx": "指在本土打磨成熟的制造方法将在全球复制",
+     "ex1": "The company hopes to replicate its domestic success in overseas markets. 该公司希望在海外市场复制其在国内的成功。",
+     "ex2": "The franchise model allows the restaurant chain to replicate its operations in new cities. 特许经营模式使这家连锁餐厅能够在新城市复制其运营模式。"
+    }
+   ]
+  },
+  {
+   "en_html": "Local labour costs may soon matter less. In China carmakers are working on “dark factories”, so automated that <mark class=\"voc\">the absence of</mark> human workers means lighting is not required. Once a dark factory is ready, the Chinese will “just <mark class=\"voc\">pack</mark> it, ship it over and unpack it,” reckons Daniel Hirsch of Oliver Wyman. AlixPartners estimates Chinese carmakers will have capacity to make 3.4m cars overseas by 2030, up from 1.2m last year; others put the figure as high as 6m. What is certain is that China speed will not slow soon.",
+   "zh": "不过，当地的劳动力成本或许很快就不会那么重要了。在中国，汽车制造商正在探索所谓的“黑灯工厂（dark factories）”——这类工厂的自动化程度极高，以至于因为几乎没有人类工人，甚至连照明都不再需要。咨询公司Oliver Wyman的Daniel Hirsch认为，一旦这种黑灯工厂的模式成熟，中国企业便可以“直接把它打包、运到海外，再在那里拆包部署”。AlixPartners预计，到2030年，中国汽车制造商在海外的汽车年产能将达到340万辆，高于去年的120万辆；另一些机构甚至认为这一数字可能高达600万辆。有一点可以确定：“中国速度”短期内绝不会慢下来。",
+   "notes": [
+    {
+     "w": "the absence of",
+     "ipa": "/ði ˈæbsəns ɒv/",
+     "pos": "phr.",
+     "en": "the state of something not being present or not existing",
+     "zh": "缺乏，没有……的情况",
+     "ctx": "指“黑灯工厂”因高度自动化，无需照明即无人工作业",
+     "ex1": "The absence of human workers means the factory can operate in complete darkness. 没有人工作业意味着工厂可以在完全黑暗中运转。",
+     "ex2": "In the absence of clear regulations, companies have been slow to adopt the new technology. 由于缺乏明确的法规，企业在采用这项新技术方面进展缓慢。"
+    },
+    {
+     "w": "pack",
+     "ipa": "/pæk/",
+     "pos": "v.",
+     "en": "to put things into containers or boxes, especially for transport",
+     "zh": "打包，装箱",
+     "ctx": "指将整座“黑灯工厂”打包、装运并在海外重新组装",
+     "ex1": "The equipment was carefully packed and shipped to the new facility overseas. 设备被仔细打包并运往海外的新工厂。",
+     "ex2": "After the exhibition, the team packed the display units into crates for return shipping. 展览结束后，团队将展示装置装入板条箱运回。"
+    }
+   ]
+  }
+ ],
+ "proper": [
+  {
+   "name": "Ford / 福特汽车",
+   "def": "美国第二大汽车制造商，1911年在英国曼彻斯特设立海外工厂，开创汽车业跨国生产先河。彼时福特通过“出口+本地组装”模式将T型车推向全球，成为20世纪车企国际化的范本；如今其西班牙瓦伦西亚工厂产能利用率仅约26%，并在2026年7月与吉利达成合资协议（福特控股66%、吉利持股34%）。<br>本文中的意思：以其百年前的全球化路径，对比中国车企从“产品出海”到“产业链出海”的角色转换。"
+  },
+  {
+   "name": "Localising production / 本地化生产",
+   "def": "指车企在海外目标市场建立工厂、组装线或供应链，而非单纯从本国出口整车。核心动因包括规避关税壁垒、降低物流成本、快速响应目标市场法规和消费者偏好。艾睿铂预测，到2030年中国大型车企的海外产能将达约340万辆，较2025年增长1.8倍。<br>本文中的意思：中国车企正从整车出口转向本地化生产，以应对欧盟等市场不断提高的准入门槛。"
+  },
+  {
+   "name": "AlixPartners / 艾睿铂咨询公司",
+   "def": "全球知名管理咨询机构，专注汽车、航空等行业重组与绩效提升。其第23届全球汽车展望报告预测，2026年中国汽车出口量将达近1000万辆，同比增长41%，将成为全球首个年出口千万辆汽车的国家，出口量约为日本的2.5倍；同时预测中国国内市场2026年销量下降10%至2460万辆。<br>本文中的意思：文中出口量（10m vehicles）与海外产能（3.4m）等关键预测数据的出处。"
+  },
+  {
+   "name": "Price war / 价格战",
+   "def": "车企通过大幅降价争夺市场份额的激烈竞争。中国国内市场规模预计2026年萎缩10%，叠加新能源转型和燃油车去库存压力，倒逼车企加速出海以消化过剩产能。艾睿铂指出，2025年中国30家专注新能源车的车企中仅3家实现全年盈利，预计到2030年也仅有7家扭亏为盈，行业整合将加速。<br>本文中的意思：国内激烈竞争加剧价格战、推动海外销售的原因。"
+  },
+  {
+   "name": "Tariffs / 关税",
+   "def": "国家对进口商品征收的税收，直接影响整车出口经济性。欧盟在10%基础汽车进口关税之上，对中国产电动车加征反补贴税：比亚迪17%、吉利18.8%、上汽集团35.3%，特斯拉（上海）7.8%，其他配合调查企业20.7%，综合税率最高可达45%以上。<br>本文中的意思：本地化生产可直接抹掉这部分成本，是中国车企加速欧洲建厂的首要动因。"
+  },
+  {
+   "name": "本地化生产的其他动因",
+   "def": "除规避关税外，本地化生产还能消除整车海运的高昂物流成本（每辆车数千美元），同时有助于车企根据当地路况、充电标准、气候条件以及消费者审美偏好进行车型适配。此外，欧盟正在推动的工业加速器法案将要求公共采购和补贴与本地含量挂钩，进一步推高本地化生产的必要性。<br>本文中的意思：解释中国车企在欧洲等地建厂的除关税之外的理由。"
+  },
+  {
+   "name": "EU's Industrial Accelerator Act / 欧盟工业加速器法案",
+   "def": "欧盟委员会2026年3月4日提出的立法提案，核心目标是到2035年将制造业占欧盟GDP比重从14.3%提升至20%。法案对非欧盟投资者在电池、电动汽车、太阳能光伏和关键原材料领域的投资施加严格审查，获批须满足6项条件中至少4项，包括外资持股不超过49%、成立合资企业、技术转让、50%本地员工比例、30%本地采购比例等。<br>本文中的意思：拟议中把购车补贴和企业车队税收优惠与本地含量门槛挂钩的法案，是欧盟更严厉的限制措施。"
+  },
+  {
+   "name": "BYD / 比亚迪",
+   "def": "中国最大新能源车企，全球电动车销量领先。其匈牙利塞格德工厂一期年产能15万辆，预计2026年第四季度投产（比原计划推迟约一年），预计创造超1万个就业岗位；同时暂停了土耳其建厂计划，正寻求在西欧（西班牙或法国）建立第二个生产基地。<br>本文中的意思：文中称其匈牙利工厂最终年产能可能达到30万辆，正寻找现成厂址以缩短建设周期。"
+  },
+  {
+   "name": "Retrofitting / 改造翻新（现有工厂）",
+   "def": "指收购旧有汽车工厂并对产线进行改装以适应新车型生产。新建工厂通常需3年左右，而收购并改造现有工厂更为快捷。欧洲存在大量闲置产能——艾睿铂测算欧洲工厂约有年产250万辆车的闲置产能。<br>本文中的意思：中国车企加速进入欧洲的关键策略，比从零建厂更快更便宜。"
+  },
+  {
+   "name": "Volkswagen / 大众汽车",
+   "def": "欧洲最大汽车制造商，正面临严峻的产能和成本压力：2026年第一季度营业利润下降14.3%，计划到2030年在全球裁员5万至10万人，并关停4家德国工厂。大众同时持有小鹏汽车5%股权（2023年以7亿美元投资获得），并正与小鹏洽谈在欧洲寻找生产基地的可能。<br>本文中的意思：文中称其计划逐步停止在德国四个生产基地的汽车生产。"
+  },
+  {
+   "name": "Chery / 奇瑞汽车",
+   "def": "中国主要自主品牌车企。2026年6月与日产签署非约束性谅解备忘录，探索在日产英国桑德兰工厂（英国最大汽车工厂，员工约6000人）生产奇瑞汽车，如协议落地，奇瑞汽车最早可于2027财年下线，成为首家在英国大规模生产乘用车的中国主要车企。<br>本文中的意思：借用桑德兰工厂部分产能，是“接管闲置产能加快进入市场”的典型案例。"
+  },
+  {
+   "name": "Geely / 吉利汽车",
+   "def": "中国民营汽车集团，旗下拥有沃尔沃、极星、路特斯等品牌，2010年从福特手中收购沃尔沃。2026年7月与福特在西班牙瓦伦西亚工厂成立合资企业，福特持股66%、吉利持股34%，生产5款多能源车型，预计2027年上半年启动运营，2028年首车下线；该工厂2025年产能利用率仅26%。<br>本文中的意思：文中吉利获批在福特瓦伦西亚工厂生产电动汽车，即用中国技术和资金盘活欧洲闲置产能之举。"
+  },
+  {
+   "name": "SAIC / 上汽集团",
+   "def": "中国最大的国有汽车集团之一，旗下拥有MG（名爵）品牌。计划在西班牙费罗尔港建设估值2亿欧元的电动车工厂，预计创造约1000个就业岗位；选址靠近关键海军设施曾引发安全争议，但西班牙政府明确表示该投资与工业发展、就业和国家安全相兼容。<br>本文中的意思：文中称上汽已确认在西班牙建设新工厂的计划。"
+  },
+  {
+   "name": "Xpeng / 小鹏汽车",
+   "def": "中国新势力造车企业，专注智能电动汽车。目前在欧洲的制造依赖奥地利麦格纳斯太尔工厂（代工模式），但产能已受限，正与大众及其他车企就在欧洲收购生产设施进行谈判，并称也在考虑新建工厂的可能。<br>本文中的意思：文中称小鹏正在寻找一个永久性的欧洲生产基地。"
+  },
+  {
+   "name": "Vertical integration / 垂直整合",
+   "def": "指企业将产业链上下游环节（如电池、电机、电控、芯片、软件等）纳入内部，而非依赖外部供应商，可降低依赖和议价成本，更大幅提升新产品开发速度。比亚迪的“刀片电池”自产、吉利与亿咖通自研芯片等均为典型案例。<br>本文中的意思：中国车企约30%成本优势的重要来源之一。"
+  },
+  {
+   "name": "Simplified parts architecture / 零部件架构简化",
+   "def": "中国车企更早采用模块化平台和高度集成的电子电气架构，将原本由数十个独立微控制器（ECU）实现的功能整合到少数几个域控制器或中央计算平台中，大幅减少零部件种类和线束复杂度，从而降低物料成本、组装工时和故障率。<br>本文中的意思：中国车约含1000-2000种零部件而欧洲车多达3000-10000种的原因。"
+  },
+  {
+   "name": "Software-defined vehicle / 软件定义汽车",
+   "def": "指车辆的核心功能和用户体验由软件和集中式计算平台驱动，而非传统由硬件和分布式ECU决定。中国车企率先采用中央集中式计算机架构，可通过OTA（空中升级）持续更新车辆功能，类似智能手机模式，改变了过去“买车时功能已固定”的产品逻辑。<br>本文中的意思：中国车企已掌握的另一项核心能力，围绕中央计算机而非几十个微控制器开发。"
+  },
+  {
+   "name": "China speed / 中国速度",
+   "def": "行业术语，指中国车企从立项到新车量产约需2年，而传统外资车企普遍需要至少4年以上。优势来自高度垂直整合减少供应链协调时间、扁平化决策结构加快审批、数字化研发工具缩短验证周期，以及激烈竞争倒逼快速迭代。艾睿铂指出盈利能力越来越多地由组织效率和产品周期速度决定。<br>本文中的意思：文中称中国开发新车约两年，外国竞争对手至少需要两倍时间。"
+  },
+  {
+   "name": "Manufacturing localization / 制造方法全球化复制",
+   "def": "中国车企将国内成熟的生产工艺（如一体压铸、数字化排产、模块化装配等）直接复制到海外工厂，而非从零探索；研发和核心技术仍留在国内，但制造know-how具有可迁移性。同时可选择欧盟内部成本较低的成员国立厂（如匈牙利、斯洛伐克），以对冲较高的劳动力和能源成本。<br>本文中的意思：生产外移之后，中国车企的成本与速度优势仍将延续的原因。"
+  },
+  {
+   "name": "Dark factory / 黑灯工厂（暗工厂）",
+   "def": "指高度自动化、无需人工干预即可运行的智能制造工厂，因不需照明而得名。西安吉利汽车制造基地是其典型代表。奥纬咨询的Daniel Hirsch描述：一旦“黑灯工厂”准备就绪，中国车企只需“打包、运走、拆包”即可在海外快速复制。<br>本文中的意思：文中用以说明当地劳动力成本差异对中国车企的制约将逐步减弱。"
+  },
+  {
+   "name": "Overseas capacity projections / 海外产能预测",
+   "def": "艾睿铂估算，中国车企到2030年海外年产能将达约340万辆，较2025年的120万辆增长1.8倍，其他机构预测最高可达600万辆。比亚迪匈牙利工厂（30万辆，一期15万）、吉利福特西班牙合资工厂、奇瑞日产桑德兰工厂等项目正加速兑现。<br>本文中的意思：文中“到2030年海外产能340万辆、高于去年的120万辆”数据的出处与背景。"
+  }
+ ],
+ "sources_note": "资料核对：以上内容整理自《早安英文》2026 年 9 月 9 日课件，原文为英国《经济学人》2026 年 9 月 8 日文章 Chinese carmakers are bringing their factories to the world。",
+ "practice": {
+  "intro": "把下面三句翻译成英文，注意划线表达。",
+  "items": [
+   "这家公司在新加坡设立了一个海外据点，以服务亚洲市场。",
+   "激烈的价格战加剧了竞争，许多小公司被迫退出市场。",
+   "精简的管理结构和高度垂直整合帮助公司以低成本大量生产产品。"
+  ],
+  "critical_en": "When Ford opened the industry’s first large-scale overseas outpost, in Manchester in 1911, it set the route by which ambitious carmakers went from dominating at home to spanning the globe.",
+  "critical_zh": "1911年，福特在曼彻斯特建立了汽车行业首个大规模海外生产基地，也由此开辟了一条后来雄心勃勃的汽车制造商们从称霸本土市场走向全球扩张的道路。",
+  "answer": "1. The company established an overseas outpost in Singapore to serve the Asian market.<br><br>2. The vicious price war intensified competition, forcing many small companies to exit the market.<br><br>3. A lean management structure and a high degree of vertical integration help the company churn out products at low cost.<br><br>翻译时先抓主干再套用文中表达：outpost、vicious、intensify、lean、vertical integration、churn out 都是本篇反复出现的高频词。"
+ },
+ "mindmap": {
+  "aria": "中国汽车出海思维导图",
+  "alt": "中国汽车出海与本地化生产（手绘版）",
+  "svg": "<svg viewBox=\"0 0 960 720\" xmlns=\"http://www.w3.org/2000/svg\" role=\"img\" aria-label=\"中国汽车出海思维导图\" style=\"width:100%;height:auto;font-family:-apple-system,'PingFang SC','Hiragino Sans GB','Microsoft YaHei',sans-serif\">\n        <rect x=\"24\" y=\"306\" width=\"176\" height=\"88\" rx=\"14\" fill=\"#eae3d2\" stroke=\"#9a8f76\"/>\n        <text x=\"112\" y=\"342\" text-anchor=\"middle\" fill=\"#3d3a34\" font-size=\"17\" font-weight=\"700\">中国汽车出海</text>\n        <text x=\"112\" y=\"368\" text-anchor=\"middle\" fill=\"#5c5648\" font-size=\"12.5\">把工厂开向全世界</text>\n\n        <path d=\"M200,350 C232,350 232,88 260,88\"  stroke=\"#6b8f71\" stroke-width=\"2\" fill=\"none\"/>\n        <path d=\"M200,350 C232,350 232,238 260,238\" stroke=\"#7d98ad\" stroke-width=\"2\" fill=\"none\"/>\n        <path d=\"M200,350 C232,350 232,433 260,433\" stroke=\"#bd7a6d\" stroke-width=\"2\" fill=\"none\"/>\n        <path d=\"M200,350 C232,350 232,628 260,628\" stroke=\"#9b86b3\" stroke-width=\"2\" fill=\"none\"/>\n\n        <g class=\"mm-branch\" data-target=\"bc1\">\n          <rect x=\"260\" y=\"71\" width=\"190\" height=\"34\" rx=\"8\" fill=\"#e6efe7\" stroke=\"#6b8f71\"/>\n          <text x=\"349\" y=\"93\" text-anchor=\"middle\" fill=\"#4c6b52\" font-size=\"15\" font-weight=\"700\">出口有多猛（¶1–2）</text>\n          <text class=\"mm-arrow\" data-for=\"bc1\" x=\"442\" y=\"93\" text-anchor=\"end\" fill=\"#4c6b52\">▾</text>\n        </g>\n        <g class=\"mm-children\" id=\"bc1\">\n          <path d=\"M450,88 C462,88 462,46 480,46\" stroke=\"#6b8f71\" stroke-width=\"1.5\" fill=\"none\"/>\n          <path d=\"M450,88 C462,88 462,88 480,88\" stroke=\"#6b8f71\" stroke-width=\"1.5\" fill=\"none\"/>\n          <path d=\"M450,88 C462,88 462,130 480,130\" stroke=\"#6b8f71\" stroke-width=\"1.5\" fill=\"none\"/>\n          <rect x=\"480\" y=\"30\" width=\"456\" height=\"32\" rx=\"8\" fill=\"#e6efe7\"/><text x=\"492\" y=\"51\" fill=\"#3d3a34\" font-size=\"14\">五年出口涨到原来的七倍</text>\n          <rect x=\"480\" y=\"72\" width=\"456\" height=\"32\" rx=\"8\" fill=\"#e6efe7\"/><text x=\"492\" y=\"93\" fill=\"#3d3a34\" font-size=\"14\">今年出口或达一千万辆汽车</text>\n          <rect x=\"480\" y=\"114\" width=\"456\" height=\"32\" rx=\"8\" fill=\"#e6efe7\"/><text x=\"492\" y=\"135\" fill=\"#3d3a34\" font-size=\"14\">外资在华份额五年约减半</text>\n        </g>\n\n        <g class=\"mm-branch\" data-target=\"bc2\">\n          <rect x=\"260\" y=\"221\" width=\"190\" height=\"34\" rx=\"8\" fill=\"#e5edf4\" stroke=\"#7d98ad\"/>\n          <text x=\"349\" y=\"243\" text-anchor=\"middle\" fill=\"#3d5872\" font-size=\"15\" font-weight=\"700\">为何要建厂（¶3–4）</text>\n          <text class=\"mm-arrow\" data-for=\"bc2\" x=\"442\" y=\"243\" text-anchor=\"end\" fill=\"#3d5872\">▾</text>\n        </g>\n        <g class=\"mm-children\" id=\"bc2\">\n          <path d=\"M450,238 C462,238 462,196 480,196\" stroke=\"#7d98ad\" stroke-width=\"1.5\" fill=\"none\"/>\n          <path d=\"M450,238 C462,238 462,238 480,238\" stroke=\"#7d98ad\" stroke-width=\"1.5\" fill=\"none\"/>\n          <path d=\"M450,238 C462,238 462,280 480,280\" stroke=\"#7d98ad\" stroke-width=\"1.5\" fill=\"none\"/>\n          <rect x=\"480\" y=\"180\" width=\"456\" height=\"32\" rx=\"8\" fill=\"#e5edf4\"/><text x=\"492\" y=\"201\" fill=\"#3d3a34\" font-size=\"14\">省运费避关税贴近当地市场</text>\n          <rect x=\"480\" y=\"222\" width=\"456\" height=\"32\" rx=\"8\" fill=\"#e5edf4\"/><text x=\"492\" y=\"243\" fill=\"#3d3a34\" font-size=\"14\">西欧销量份额已达百分之十一</text>\n          <rect x=\"480\" y=\"264\" width=\"456\" height=\"32\" rx=\"8\" fill=\"#e5edf4\"/><text x=\"492\" y=\"285\" fill=\"#3d3a34\" font-size=\"14\">欧盟酝酿本地含量门槛新规</text>\n        </g>\n\n        <g class=\"mm-branch\" data-target=\"bc3\">\n          <rect x=\"260\" y=\"416\" width=\"190\" height=\"34\" rx=\"8\" fill=\"#f4e7e4\" stroke=\"#bd7a6d\"/>\n          <text x=\"349\" y=\"438\" text-anchor=\"middle\" fill=\"#7c4a3e\" font-size=\"15\" font-weight=\"700\">建厂怎么建（¶5–6）</text>\n          <text class=\"mm-arrow\" data-for=\"bc3\" x=\"442\" y=\"438\" text-anchor=\"end\" fill=\"#7c4a3e\">▾</text>\n        </g>\n        <g class=\"mm-children\" id=\"bc3\">\n          <path d=\"M450,433 C462,433 462,391 480,391\" stroke=\"#bd7a6d\" stroke-width=\"1.5\" fill=\"none\"/>\n          <path d=\"M450,433 C462,433 462,433 480,433\" stroke=\"#bd7a6d\" stroke-width=\"1.5\" fill=\"none\"/>\n          <path d=\"M450,433 C462,433 462,475 480,475\" stroke=\"#bd7a6d\" stroke-width=\"1.5\" fill=\"none\"/>\n          <rect x=\"480\" y=\"375\" width=\"456\" height=\"32\" rx=\"8\" fill=\"#f4e7e4\"/><text x=\"492\" y=\"396\" fill=\"#3d3a34\" font-size=\"14\">比亚迪匈牙利厂即将投产</text>\n          <rect x=\"480\" y=\"417\" width=\"456\" height=\"32\" rx=\"8\" fill=\"#f4e7e4\"/><text x=\"492\" y=\"438\" fill=\"#3d3a34\" font-size=\"14\">奇瑞吉利借用现成闲置产能</text>\n          <rect x=\"480\" y=\"459\" width=\"456\" height=\"32\" rx=\"8\" fill=\"#f4e7e4\"/><text x=\"492\" y=\"480\" fill=\"#3d3a34\" font-size=\"14\">上汽小鹏筹划独立建厂</text>\n        </g>\n\n        <g class=\"mm-branch\" data-target=\"bc4\">\n          <rect x=\"260\" y=\"611\" width=\"190\" height=\"34\" rx=\"8\" fill=\"#ece4f2\" stroke=\"#9b86b3\"/>\n          <text x=\"349\" y=\"633\" text-anchor=\"middle\" fill=\"#5a4670\" font-size=\"15\" font-weight=\"700\">优势留得住（¶7–9）</text>\n          <text class=\"mm-arrow\" data-for=\"bc4\" x=\"442\" y=\"633\" text-anchor=\"end\" fill=\"#5a4670\">▾</text>\n        </g>\n        <g class=\"mm-children\" id=\"bc4\">\n          <path d=\"M450,628 C462,628 462,586 480,586\" stroke=\"#9b86b3\" stroke-width=\"1.5\" fill=\"none\"/>\n          <path d=\"M450,628 C462,628 462,628 480,628\" stroke=\"#9b86b3\" stroke-width=\"1.5\" fill=\"none\"/>\n          <path d=\"M450,628 C462,628 462,670 480,670\" stroke=\"#9b86b3\" stroke-width=\"1.5\" fill=\"none\"/>\n          <rect x=\"480\" y=\"570\" width=\"456\" height=\"32\" rx=\"8\" fill=\"#ece4f2\"/><text x=\"492\" y=\"591\" fill=\"#3d3a34\" font-size=\"14\">零部件少垂直整合省成本</text>\n          <rect x=\"480\" y=\"612\" width=\"456\" height=\"32\" rx=\"8\" fill=\"#ece4f2\"/><text x=\"492\" y=\"633\" fill=\"#3d3a34\" font-size=\"14\">两年出新车远快于对手</text>\n          <rect x=\"480\" y=\"654\" width=\"456\" height=\"32\" rx=\"8\" fill=\"#ece4f2\"/><text x=\"492\" y=\"675\" fill=\"#3d3a34\" font-size=\"14\">黑灯工厂让劳动力不再关键</text>\n        </g>\n      </svg>",
+  "img": ""
+ }
+}
