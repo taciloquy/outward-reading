@@ -1,0 +1,395 @@
+{
+ "paragraphs": [
+  {
+   "en_html": "Eight candidates are currently <mark class=\"voc\">jostling</mark> to replace Guterres, but the selection process creates its own <mark class=\"voc\">dilemma</mark>. The Security Council’s five veto powers are central to <mark class=\"voc\">vetting</mark> candidates and recommending one to the <mark class=\"voc\">General Assembly</mark>. Anyone who wants to be Secretary-General must avoid <mark class=\"voc\">offending</mark> them. Talking about what is wrong with the world today without <mark class=\"voc\">irritating</mark> at least one of the major powers is quite hard.",
+   "zh": "目前，共有八名候选人正在竞逐古特雷斯的职位，但秘书长的遴选机制本身就制造了一个两难困境。安理会五个拥有否决权的常任理事国，在审查候选人并向联合国大会推荐人选的过程中发挥着核心作用。这意味着，任何有志于秘书长之位的人，都必须尽量避免得罪这五个国家。然而，要谈论当今世界究竟出了什么问题，却又不触怒任何一个大国，实在不是一件容易的事。",
+   "notes": [
+    {
+     "w": "jostle",
+     "ipa": "/ˈdʒɒsl/",
+     "pos": "v.",
+     "en": "to compete or struggle for something such as a position, advantage, or power",
+     "zh": "争夺，竞争",
+     "ctx": "争夺（指八位候选人正在竞相争夺联合国秘书长一职）",
+     "ex1": "Several young executives are jostling for the top position in the company. 几位年轻高管正在争夺公司的最高职位。",
+     "ex2": "Rival companies are jostling for control of the emerging market. 竞争对手公司正在争夺对这个新兴市场的控制权。"
+    },
+    {
+     "w": "dilemma",
+     "ipa": "/dɪˈlemə/",
+     "pos": "n.",
+     "en": "a situation in which a difficult choice has to be made between two or more alternatives",
+     "zh": "困境，两难境地",
+     "ctx": "困境（指遴选过程本身就造成了一种两难局面）",
+     "ex1": "The government faces a dilemma: raise taxes or cut public services. 政府面临两难选择：增税还是削减公共服务。",
+     "ex2": "She found herself in a dilemma when two close friends offered conflicting advice. 当两位好友给出相互矛盾的建议时，她陷入了两难境地。"
+    },
+    {
+     "w": "vet",
+     "ipa": "/vet/",
+     "pos": "v.",
+     "en": "to examine or evaluate someone or something carefully to determine suitability",
+     "zh": "审查，审核",
+     "ctx": "审核（指安理会五个常任理事国在候选人审查中扮演核心角色）",
+     "ex1": "All candidates are carefully vetted before being offered an interview. 所有候选人在获得面试机会之前都会被仔细审查。",
+     "ex2": "The committee vetted every proposal before approving funding. 委员会在批准资助前对每项提案都进行了审核。"
+    },
+    {
+     "w": "assembly",
+     "ipa": "/əˈsembli/",
+     "pos": "n.",
+     "en": "a group of people gathered together for a common purpose, especially for legislation or decision-making",
+     "zh": "大会，议会",
+     "ctx": "大会（指联合国大会，安理会推荐人选后由大会批准）",
+     "ex1": "The proposal was approved by a majority vote in the general assembly. 该提案在大会上以多数票通过。",
+     "ex2": "Representatives from all member states attended the assembly. 来自所有成员国的代表出席了大会。"
+    },
+    {
+     "w": "offend",
+     "ipa": "/əˈfend/",
+     "pos": "v.",
+     "en": "to cause displeasure, anger, or resentment in someone",
+     "zh": "冒犯，得罪",
+     "ctx": "冒犯，得罪（指任何想成为秘书长的人都必须避免冒犯常任理事国）",
+     "ex1": "He was careful not to offend any of the senior executives during the meeting. 他小心翼翼，不在会议期间冒犯任何高级主管。",
+     "ex2": "The documentary offended many viewers with its controversial content. 这部纪录片因其有争议的内容冒犯了许多观众。"
+    },
+    {
+     "w": "irritate",
+     "ipa": "/ˈɪrɪteɪt/",
+     "pos": "v.",
+     "en": "to annoy or provoke someone, often mildly or repeatedly",
+     "zh": "激怒，使不悦",
+     "ctx": "惹恼，激怒（指讨论当今世界的问题而不激怒任何一个大国是相当困难的）",
+     "ex1": "His constant interruptions began to irritate the other panelists. 他不断的插话开始激怒其他讨论小组成员。",
+     "ex2": "The new policy irritated many long-time employees. 新政策激怒了许多老员工。"
+    }
+   ]
+  },
+  {
+   "en_html": "On the diplomatic <mark class=\"voc\">front</mark>, the <mark class=\"voc\">incoming</mark> leader’s priority will be to demonstrate the ability to <mark class=\"voc\">insert</mark> himself or herself into one or more conflicts, signaling a shift from the Guterres era. Conflict prevention and <mark class=\"voc\">peacemaking</mark> have become crowded fields, with a growing number of middle powers leading peace processes the U.N. might once have <mark class=\"voc\">overseen</mark>. The greater danger is that the U.N. fails to engage in meaningful crisis diplomacy at all, <mark class=\"voc\">cementing</mark> the impression that it is no longer a significant peacemaking force.",
+   "zh": "在外交层面，新任秘书长上台后的首要任务，将是证明自己有能力真正介入一场或多场国际冲突，从而展现出与古特雷斯时代不同的姿态。如今，预防冲突与斡旋和平早已成为一片拥挤的外交战场，越来越多的中等强国开始主导和平进程，而这些事务过去或许本应由联合国主持。更大的危险在于，联合国可能彻底无法参与任何真正具有分量的危机外交，从而进一步坐实这样一种印象：它已不再是一支举足轻重的国际和平斡旋力量。",
+   "notes": [
+    {
+     "w": "front",
+     "ipa": "/frʌnt/",
+     "pos": "n.",
+     "en": "a particular area of activity, interest, or conflict",
+     "zh": "方面，领域，战线",
+     "ctx": "方面（指在外交方面，新任领导人的首要任务是……）",
+     "ex1": "On the economic front, the country has made significant progress. 在经济方面，该国取得了重大进展。",
+     "ex2": "The government is fighting a war on multiple fronts. 政府正在多条战线上作战。"
+    },
+    {
+     "w": "incoming",
+     "ipa": "/ˈɪnkʌmɪŋ/",
+     "pos": "adj.",
+     "en": "about to take up a position or office; arriving or starting",
+     "zh": "即将上任的，新任的",
+     "ctx": "即将上任的（指即将上任的联合国领导人）",
+     "ex1": "The incoming administration has promised sweeping reforms. 即将上任的政府承诺进行全面改革。",
+     "ex2": "The incoming director will meet with staff on her first day. 新任主任将在第一天与员工见面。"
+    },
+    {
+     "w": "insert",
+     "ipa": "/ɪnˈsɜːt/",
+     "pos": "v.",
+     "en": "to place or involve oneself into a situation or activity",
+     "zh": "使介入，使参与",
+     "ctx": "使介入（指新任领导人需要展示自己介入一场或多场冲突的能力）",
+     "ex1": "The mediator tried to insert himself into the negotiations between the two sides. 调解人试图介入双方的谈判。",
+     "ex2": "The organization inserted itself into the debate over climate policy. 该组织介入了关于气候政策的辩论。"
+    },
+    {
+     "w": "peacemaking",
+     "ipa": "/ˈpiːsmeɪkɪŋ/",
+     "pos": "n.",
+     "en": "the process of bringing about peace, especially by reconciling adversaries",
+     "zh": "促成和平，调停",
+     "ctx": "促成和平（指冲突预防与和平调解已成为一个拥挤的领域）",
+     "ex1": "The former diplomat has decades of experience in peacemaking. 这位前外交官在促成和平方面拥有数十年的经验。",
+     "ex2": "Traditional peacemaking efforts have struggled to keep up with modern conflicts. 传统的和平调解努力难以应对现代冲突。"
+    },
+    {
+     "w": "oversee",
+     "ipa": "/ˌəʊvəˈsiː/",
+     "pos": "v.",
+     "en": "to watch over and direct a process, activity, or organization",
+     "zh": "监督，负责管理",
+     "ctx": "监督，主导（指越来越多的中等强国主导联合国可能曾经主导过的和平进程）",
+     "ex1": "She was appointed to oversee the company's expansion into new markets. 她被任命负责监督公司向新市场的扩张。",
+     "ex2": "An independent committee will oversee the election process. 一个独立委员会将监督选举过程。"
+    },
+    {
+     "w": "cement",
+     "ipa": "/sɪˈment/",
+     "pos": "v.",
+     "en": "to make something stronger or more firmly established",
+     "zh": "巩固，强化，使（印象或关系）牢固",
+     "ctx": "巩固，坐实（指联合国未能参与有意义的外交行动，会坐实它不再是重要和平调解力量这一印象）",
+     "ex1": "The victory cemented her reputation as one of the best players in the world. 这场胜利巩固了她作为世界最佳球员之一的声誉。",
+     "ex2": "The agreement helped cement the alliance between the two nations. 该协议帮助巩固了两国之间的联盟。"
+    }
+   ]
+  },
+  {
+   "en_html": "The best approach may be to <mark class=\"voc\">frame the U.N. as</mark> <mark class=\"voc\">a sort of</mark> global risk reduction organization. The pandemic, regional conflicts and new technologies have demonstrated how crises can cause global disruption. The U.N. does not have the power to <mark class=\"voc\">halt</mark> these trends, but it is a space in which governments can discuss risks and explore steps to <mark class=\"voc\">mitigate</mark> them. Its advantage is that it remains a <mark class=\"voc\">neutral</mark> space where different <mark class=\"voc\">blocs</mark> of governments can engage in <mark class=\"voc\">dialogue</mark>.",
+   "zh": "或许，最好的办法是重新将联合国定位为一种“全球风险管控机构”。新冠疫情、地区冲突以及新兴技术都已经表明，一场危机完全可能引发全球性的连锁震荡。联合国没有能力阻止这些趋势，但它至少能够提供一个平台，让各国政府共同讨论风险，并探索降低风险的可行之策。联合国真正的优势在于，它仍是一片相对中立的空间，使分属不同阵营的国家依然能够坐下来展开对话。",
+   "notes": [
+    {
+     "w": "frame A as B",
+     "ipa": "/ˌfreɪm eɪ əz biː/",
+     "pos": "phr.",
+     "en": "to present or describe something in a particular way to influence how it is perceived",
+     "zh": "将A定位为B，把A描述为B",
+     "ctx": "将联合国定位为一种全球风险防控组织（指最好的办法可能是将联合国塑造成一个全球风险防控机构）",
+     "ex1": "The CEO framed the restructuring as an opportunity for growth rather than a setback. 首席执行官将重组定位为增长机遇而非挫折。",
+     "ex2": "Environmentalists framed the campaign as a fight for future generations. 环保主义者将这场运动定位为为子孙后代而战。"
+    },
+    {
+     "w": "a sort of",
+     "ipa": "/ə ˈsɔːt əv/",
+     "pos": "phr.",
+     "en": "a type or kind of something, used when describing something imprecisely",
+     "zh": "某种，一种",
+     "ctx": "某种（指将联合国定位为某种全球风险防控组织）",
+     "ex1": "The community center serves as a sort of gathering place for local residents. 社区中心充当着某种当地居民聚集场所的角色。",
+     "ex2": "He became a sort of unofficial advisor to the new government. 他成了新政府某种非官方的顾问。"
+    },
+    {
+     "w": "halt",
+     "ipa": "/hɔːlt/",
+     "pos": "v.",
+     "en": "to stop or cause to stop moving, progressing, or operating",
+     "zh": "阻止，使停止",
+     "ctx": "阻止，遏制（指联合国没有能力阻止这些趋势）",
+     "ex1": "The government introduced emergency measures to halt the spread of the virus. 政府采取紧急措施阻止病毒传播。",
+     "ex2": "Nothing could halt the decline of the struggling industry. 没有什么能阻止这个陷入困境的行业继续衰退。"
+    },
+    {
+     "w": "mitigate",
+     "ipa": "/ˈmɪtɪɡeɪt/",
+     "pos": "v.",
+     "en": "to make something less severe, serious, or painful",
+     "zh": "减轻，缓解",
+     "ctx": "缓解，减轻（指各国可以在联合国这个平台上讨论风险并探索缓解风险的步骤）",
+     "ex1": "Planting trees can help mitigate the effects of climate change. 植树有助于缓解气候变化的影响。",
+     "ex2": "The company took steps to mitigate the financial impact of the crisis. 公司采取措施减轻危机对财务的冲击。"
+    },
+    {
+     "w": "neutral",
+     "ipa": "/ˈnjuːtrəl/",
+     "pos": "adj.",
+     "en": "not supporting or favoring either side in a conflict or disagreement",
+     "zh": "中立的",
+     "ctx": "中立的（指联合国作为一个中立空间，不同阵营的政府可以在此展开对话）",
+     "ex1": "Switzerland has remained neutral in European conflicts for centuries. 几个世纪以来，瑞士在欧洲冲突中一直保持中立。",
+     "ex2": "A neutral third party was brought in to mediate the dispute. 一位中立的第三方被请来调解争端。"
+    },
+    {
+     "w": "bloc",
+     "ipa": "/blɒk/",
+     "pos": "n.",
+     "en": "a group of countries or parties with shared interests or goals, often acting together",
+     "zh": "集团，阵营",
+     "ctx": "阵营，集团（指不同国家集团可以在联合国这一中立空间进行对话）",
+     "ex1": "The eastern European bloc voted against the proposed trade agreement. 东欧集团投票反对拟议的贸易协定。",
+     "ex2": "The two main political blocs failed to reach a compromise. 两大政治集团未能达成妥协。"
+    },
+    {
+     "w": "dialogue",
+     "ipa": "/ˈdaɪəlɒɡ/",
+     "pos": "n.",
+     "en": "formal discussion or negotiation between opposing groups or countries",
+     "zh": "对话，磋商",
+     "ctx": "对话（指联合国作为中立空间，不同国家集团可以在此进行对话）",
+     "ex1": "The two countries resumed dialogue after months of silence. 在数月的沉默之后，两国恢复了对话。",
+     "ex2": "Diplomats hope the talks will open a dialogue between the rival factions. 外交官们希望会谈能在敌对派系之间开启对话。"
+    }
+   ]
+  },
+  {
+   "en_html": "The role of the Secretary-General is perhaps to be both the world’s most <mark class=\"voc\">prominent</mark> event organizer and a sort of political <mark class=\"voc\">therapist</mark> for world leaders. The new leader cannot <mark class=\"voc\">heal</mark> all the world’s divisions, but with courage and political <mark class=\"voc\">acumen</mark>, the Secretary-General can make international disputes a little less <mark class=\"voc\">toxic</mark>. That may be a limited vision of what the U.N., sometimes dubbed the “<mark class=\"voc\">parliament</mark> of man,” is for. But in an era of multiplying dangers and distrust, it is a <mark class=\"voc\">noble</mark> and perhaps essential one.",
+   "zh": "从某种意义上说，联合国秘书长既要成为全世界最重要的“会议召集人”，又要充当各国领导人的“政治心理治疗师”。新任秘书长当然无法弥合世界上的所有裂痕，但只要拥有足够的勇气与政治智慧，就有可能让国际争端少一些敌意与戾气。这或许是对联合国使命的一种相对克制的设想——毕竟，联合国有时被誉为“人类的议会”。然而，在一个危险不断滋生、互信日益稀缺的时代，这样的使命依然崇高，而且或许不可或缺。",
+   "notes": [
+    {
+     "w": "prominent",
+     "ipa": "/ˈprɒmɪnənt/",
+     "pos": "adj.",
+     "en": "important, well-known, or conspicuous",
+     "zh": "重要的，著名的，显眼的",
+     "ctx": "重要的，知名的（指秘书长一职或许既是全世界最知名的活动组织者，又是一种世界领导人的“政治治疗师”）",
+     "ex1": "She is one of the most prominent scientists in the field of genetics. 她是遗传学领域最著名的科学家之一。",
+     "ex2": "The statue occupies a prominent position in the city square. 这座雕像矗立在城市广场上显眼的位置。"
+    },
+    {
+     "w": "therapist",
+     "ipa": "/ˈθerəpɪst/",
+     "pos": "n.",
+     "en": "a person who helps others improve their mental or emotional well-being through discussion and guidance",
+     "zh": "治疗师，心理治疗师",
+     "ctx": "治疗师（指秘书长需要像政治治疗师一样帮助世界各国领导人处理分歧）",
+     "ex1": "He has been seeing a therapist to help manage his anxiety. 他一直在看心理治疗师来帮助控制焦虑。",
+     "ex2": "The coach acted as both a trainer and a therapist for the young athletes. 教练对年轻运动员来说既是训练师又是心理治疗师。"
+    },
+    {
+     "w": "heal",
+     "ipa": "/hiːl/",
+     "pos": "v.",
+     "en": "to make or become healthy or whole again; to repair divisions or rifts",
+     "zh": "治愈，弥合",
+     "ctx": "弥合（指新任领导人无法弥合世界上所有的分歧）",
+     "ex1": "Time is needed to heal the wounds caused by the civil war. 弥合内战造成的创伤需要时间。",
+     "ex2": "The two leaders met in an attempt to heal the rift between their countries. 两位领导人会面，试图弥合两国之间的裂痕。"
+    },
+    {
+     "w": "acumen",
+     "ipa": "/ˈækjəmən/",
+     "pos": "n.",
+     "en": "the ability to make good judgments and quick decisions, especially in a particular field",
+     "zh": "敏锐，洞察力，才智",
+     "ctx": "政治智慧，敏锐（指秘书长凭借勇气和政治智慧，可以让国际争端不再那么剑拔弩张）",
+     "ex1": "Her business acumen helped turn the struggling startup into a market leader. 她的商业头脑帮助这家举步维艰的初创企业成长为市场领导者。",
+     "ex2": "The ambassador was known for his diplomatic acumen. 这位大使以敏锐的外交才智而闻名。"
+    },
+    {
+     "w": "toxic",
+     "ipa": "/ˈtɒksɪk/",
+     "pos": "adj.",
+     "en": "harmful, poisonous, or extremely negative in a way that damages relationships or environments",
+     "zh": "有毒的；极其有害的，恶劣的",
+     "ctx": "有害的，恶劣的（指秘书长可以减少国际争端的危害性，让争端不再那么“有毒”）",
+     "ex1": "The toxic political climate made compromise nearly impossible. 恶劣的政治氛围使妥协几乎成为不可能。",
+     "ex2": "A toxic work environment drove many talented employees to leave. 有毒的工作环境使许多有才华的员工离开了。"
+    },
+    {
+     "w": "parliament",
+     "ipa": "/ˈpɑːləmənt/",
+     "pos": "n.",
+     "en": "a legislative body of government; used figuratively to describe a gathering or institution representing all people",
+     "zh": "议会，国会",
+     "ctx": "议会（指联合国有时被称为“人类议会”）",
+     "ex1": "The parliament passed a new law on environmental protection. 议会通过了一项关于环境保护的新法律。",
+     "ex2": "The proposal will be debated in parliament next week. 该提案将于下周在议会进行辩论。"
+    },
+    {
+     "w": "noble",
+     "ipa": "/ˈnəʊbl/",
+     "pos": "adj.",
+     "en": "having or showing fine personal qualities or high moral principles",
+     "zh": "高尚的，崇高的",
+     "ctx": "崇高的（指在一个危险与不信任日益增多的时代，这一愿景虽然有限，却是一项崇高且或许必不可少的使命）",
+     "ex1": "Fighting for social justice is a noble cause. 为社会正义而战是一项崇高的事业。",
+     "ex2": "His noble efforts to help the refugees earned him widespread respect. 他帮助难民的崇高努力为他赢得了广泛的尊重。"
+    }
+   ]
+  }
+ ],
+ "proper": [
+  {
+   "name": "Secretary-General of the United Nations / 联合国秘书长",
+   "def": "联合国秘书处的最高行政首长，也是联合国系统的“首席外交官”。任期五年，理论上可连任一次；人选由安理会多轮“意向性投票”筛选后推荐给大会，大会通常以简单多数通过。古特雷斯 2017 年上任，按惯例于 2026 年 12 月 31 日卸任。<br>本文中的意思：全文的“空缺岗位”。八名候选人争的就是这个位子，而它既要面对五常否决，又要收拾联合国的财政与信誉烂摊子。"
+  },
+  {
+   "name": "\"Less with less\" / “用更少资源做更少事”",
+   "def": "对“do more with less（以更少投入做更多产出）”的刻意反转：不再追求效率，而是接受职能萎缩——维和行动从 2015 年的 16 个降至 2025 年的 10 个左右，人道援助配给不足，行政预算冻结。<br>本文中的意思：作者用它概括下一任秘书长的处境，不再是“改革与发展”，而是“如何体面地管理衰落”。"
+  },
+  {
+   "name": "Security Council / 联合国安全理事会（安理会）",
+   "def": "联合国六大机构中权力最集中者，依《联合国宪章》第二十四条负“维持国际和平与安全之主要责任”。由 5 个常任理事国与 10 个非常任理事国组成，决议具国际法约束力，可授权制裁、禁运乃至动武。<br>本文中的意思：下一任秘书长最大的挑战所在——五常一分裂，安理会即陷入瘫痪。"
+  },
+  {
+   "name": "Five permanent members (P5) / Veto power / 五常与否决权",
+   "def": "美、中、俄、英、法，二战主要战胜国。依《宪章》第二十七条第三款，非程序性决议须至少 9 票赞成且无常任理事国反对，一票即可否决整项决议。苏联（俄罗斯）使用最多，逾 120 次，美国逾 80 次。<br>本文中的意思：作者说安理会“最具实力的成员已不再受原则约束”，指的正是这套机制被反复动用。"
+  },
+  {
+   "name": "Ukraine crisis / 乌克兰危机",
+   "def": "2022 年 2 月 24 日俄罗斯对乌克兰发动“特别军事行动”，实为全面入侵，酿成欧洲二战以来最大规模地面战争。联大多次通过决议谴责并要求撤军，安理会却因俄一票否决无法采取强制措施。<br>本文中的意思：作者举它证明大国自己动武时，联合国束手无策。"
+  },
+  {
+   "name": "Myanmar crisis / 缅甸危机",
+   "def": "2021 年 2 月 1 日缅甸国防军推翻昂山素季领导的民选政府，宣布进入紧急状态，抗议演变为内战。安理会召开数十次会议，因中俄主张不干涉、西方主张制裁，仅出一份无强制效力的主席声明。<br>本文中的意思：与乌克兰并列，说明“从乌克兰到缅甸”的干预屡屡被挡。"
+  },
+  {
+   "name": "U.S. decision to attack Iran / 美国攻击伊朗的决定",
+   "def": "指美国对伊朗核设施、革命卫队海外基地等目标采取的军事打击。行动未事先提交安理会审议，也未获授权，直接违反《宪章》第二条第四款禁止使用武力之原则。<br>本文中的意思：作者以此说明美国同样绕开联合国自行其是，安理会权威被两头削弱。"
+  },
+  {
+   "name": "Trump Administration (2025 funding cut) / 特朗普政府削减联合国经费",
+   "def": "特朗普 2025 年 1 月就任第 47 任总统后，以行政命令和国会拨款大幅削减对联合国系统几乎所有机构的资助，涉及 UNDP、UNICEF、UNFPA、WFP、UNRWA；第一任期他已退出联合国人权理事会。<br>本文中的意思：联合国财政危机的直接起因，也是标题“美国欠钱”的来处。"
+  },
+  {
+   "name": "U.S. contribution to U.N. core budget and peacekeeping / 美国摊款比例",
+   "def": "联合国经常预算每三年按国民总收入等指标调整，美国常年约占 22%（约五分之一），维和预算约占 27%（约四分之一），均为第一大户。截至 2026 年初，拖欠会费与维和摊款累计约 40 亿美元。<br>本文中的意思：解释文中“五分之一核心经费、四分之一维和预算”与 40 亿美元欠款的来历。"
+  },
+  {
+   "name": "European governments scaling back aid / 欧洲削减发展与人道援助",
+   "def": "2020 年代中后期，能源价格高企、制造业外流、难民压力与右翼政党上台，使欧洲多国压缩对外援助：英国将 ODA 占国民总收入比例从 0.7% 降至 0.5%，德国因“债务刹车”削减气候融资，法国减少西非人道项目。<br>本文中的意思：美国撤资之外的第二重打击，2025 年 OCHA 仅募得所需资金的 40%。"
+  },
+  {
+   "name": "Paris climate accord / 《巴黎气候协定》",
+   "def": "2015 年 12 月 COP21 通过、2016 年 11 月生效。核心机制是“国家自主贡献”：各国自定减排目标、每五年更新，不设惩罚条款，首次把中美印等主要排放国纳入同一框架。<br>本文中的意思：古特雷斯 2017 年上任时的“多边主义高光”，与今天的低潮形成对照。"
+  },
+  {
+   "name": "Sustainable Development Goals (SDGs) / 可持续发展目标",
+   "def": "2015 年 9 月由 193 个成员国通过的 17 项全球目标（含 169 项子目标），期限为 2016 至 2030 年，涵盖消除贫困、零饥饿、优质教育、气候行动等。2025 年中期评估显示多数目标严重滞后。<br>本文中的意思：与《巴黎协定》一起，构成 2017 年那阵短暂乐观的背景。"
+  },
+  {
+   "name": "Eradicate extreme poverty by 2030 / 2030 年前消除极端贫困",
+   "def": "SDG 目标 1.1 的具体承诺。极端贫困按世界银行标准为每日生活费低于 2.15 美元（2017 年购买力平价）。2015 年约 7.5 亿人，2024 年仍有约 6.5 亿，世行预测 2030 年仍将超过 5 亿。<br>本文中的意思：作者用它说明当年那点乐观为何“转瞬即逝”。"
+  },
+  {
+   "name": "Group of 7 (G7) / 七国集团",
+   "def": "1975 年成立的六国集团，加拿大次年加入而成 G7；俄罗斯 1998 年入组为 G8，2014 年因吞并克里米亚被冻结资格。无常设秘书处、无正式条约，每年由轮值主席国办峰会。<br>本文中的意思：各国弃联合国而去的第一类“更小、更松散的决策俱乐部”。"
+  },
+  {
+   "name": "BRICS / 金砖国家",
+   "def": "原为高盛经济学家奥尼尔 2001 年提出的投资概念（巴西、俄罗斯、印度、中国），2010 年南非加入正式成组。2024 年 1 月扩员，吸纳伊朗、埃及、埃塞俄比亚、阿联酋与沙特（沙特暂未最终确认）。<br>本文中的意思：与 G7 并列，说明决策正流向“利益相近的小群体”，而非 193 国的联合国大会。"
+  },
+  {
+   "name": "General Assembly / 联合国大会",
+   "def": "由全部 193 个会员国组成、一国一票的审议与代表机构，每年 9 至 12 月举行常会。决议无强制约束力，但有政治与道义分量；任命秘书长时通常只是“形式上的任命机关”。<br>本文中的意思：安理会推荐人选后由它走程序，实权有限，候选人真正要过的是五常那一关。"
+  },
+  {
+   "name": "Vetting candidates / 候选人审查",
+   "def": "秘书长遴选并非公开竞选，而是安理会闭门磋商：成员国提名、候选人与安理会“非正式对话”、多轮用颜色区分鼓励与否决的意向性投票；五常任何一国投反对票，候选人即出局。<br>本文中的意思：正是这套机制逼得候选人不敢批评美国制裁、俄罗斯动武或中国人权记录。"
+  },
+  {
+   "name": "Global risk reduction / 全球风险削减",
+   "def": "作者为联合国提出的“退而求其次”定位，区别于“冲突解决”与“和平缔造”。源于灾害管理，强调预防胜于应对：早期预警、技术标准协调、信息共享、气候适应基金。现有机制如 WHO《国际卫生条例》、IAEA 核安全通报。<br>本文中的意思：与其指望它调停战争，不如务实当“全球风险讨论平台”。"
+  },
+  {
+   "name": "Neutral space / 中立空间",
+   "def": "联合国的独特资产不是军力或财力，而是普遍性会员资格与形式上平等的主权地位。即便美中对抗、美俄关系接近冰点，两国外交官仍能在走廊和闭门磋商中保持最低限度接触。<br>本文中的意思：作者眼中联合国不可替代的价值——加沙、朝鲜等议题上少数仍能对话的管道。"
+  },
+  {
+   "name": "\"Parliament of man\" / “人类议会”",
+   "def": "常被追溯至英国哲学家，最著名的引用出自第二任秘书长哈马舍尔德（1953—1961 在任），他把联合国比作“人类集体良知的表达场所”。但联合国无立法权、无征税权、也无军队。<br>本文中的意思：文末用它承认理想已不可行，却仍给秘书长留一丝道义高度。"
+  },
+  {
+   "name": "Political therapist / 政治治疗师",
+   "def": "并非章程规定的职位，而是比喻：秘书长解决不了大国冲突的根源（意识形态、地缘利益、民族主义），却能通过私下沟通、倾听诉求、降低辞令激烈程度，帮领导人管理情绪、减少误判。<br>本文中的意思：与“会议召集人”并列，是作者给下一任秘书长设想的新角色。"
+  }
+ ],
+ "sources_note": "资料核对：本页内容依 2026 年 9 月 1 日课件整理，原文为 TIME 2026 年 8 月 31 日刊发的 《Make the U.N. Great Again: The Uphill Struggle Facing the Next Secretary General》，作者 Richard Gowan、Daniel Forti。会费比例、拖欠数额、维和预算等背景数据参考联合国会费委员会、联合国维和行动部与世界银行公开资料。",
+ "practice": {
+  "intro": "把下面六句翻译成英文，注意划线表达。",
+  "items": [
+   "说服董事会批准这项预算被证明是一项艰巨的任务。",
+   "连续三场失利后，球队的士气处于低谷。",
+   "他们合作是出于必要，而非真正的信任。",
+   "大部分工作在第一周就完成了。",
+   "多年的空头承诺逐渐削弱了公众对政府的信心。",
+   "有毒的工作环境使许多有才华的员工离开了。"
+  ],
+  "critical_en": "Conflict prevention and peacemaking have become crowded fields, with a growing number of middle powers leading peace processes the U.N. might once have overseen.",
+  "critical_zh": "如今，预防冲突与斡旋和平早已成为一片拥挤的外交战场，越来越多的中等强国开始主导和平进程，而这些事务过去或许本应由联合国主持。",
+  "answer": "1. Convincing the board to approve the budget proved to be an uphill task.<br><br>2. The team's morale was at a low ebb after three consecutive defeats.<br><br>3. They cooperated out of necessity rather than genuine trust.<br><br>4. The bulk of the work was completed in the first week.<br><br>5. Years of broken promises have eroded public confidence in the government.<br><br>6. A toxic work environment drove many talented employees to leave.<br><br>一句总结：六句都落在今天这篇的六个核心表达上——uphill task、at a low ebb、out of necessity、the bulk of、erode、toxic，套用原文句式即可，不必另换同义词。"
+ },
+ "mindmap": {
+  "aria": "联合国秘书长换届与困境思维导图",
+  "alt": "联合国秘书长换届与出路（手绘版）",
+  "svg": "<svg viewBox=\"0 0 960 720\" xmlns=\"http://www.w3.org/2000/svg\" role=\"img\" aria-label=\"联合国秘书长换届与困境思维导图\" style=\"width:100%;height:auto;font-family:-apple-system,'PingFang SC','Hiragino Sans GB','Microsoft YaHei',sans-serif\">\n        <rect x=\"24\" y=\"306\" width=\"176\" height=\"88\" rx=\"14\" fill=\"#eae3d2\" stroke=\"#9a8f76\"/>\n        <text x=\"112\" y=\"342\" text-anchor=\"middle\" fill=\"#3d3a34\" font-size=\"17\" font-weight=\"700\">联合国还能撑多久</text>\n        <text x=\"112\" y=\"368\" text-anchor=\"middle\" fill=\"#5c5648\" font-size=\"12.5\">下一任秘书长的难题</text>\n\n        <path d=\"M200,350 C232,350 232,88 260,88\"  stroke=\"#6b8f71\" stroke-width=\"2\" fill=\"none\"/>\n        <path d=\"M200,350 C232,350 232,238 260,238\" stroke=\"#7d98ad\" stroke-width=\"2\" fill=\"none\"/>\n        <path d=\"M200,350 C232,350 232,433 260,433\" stroke=\"#bd7a6d\" stroke-width=\"2\" fill=\"none\"/>\n        <path d=\"M200,350 C232,350 232,628 260,628\" stroke=\"#9b86b3\" stroke-width=\"2\" fill=\"none\"/>\n\n        <g class=\"mm-branch\" data-target=\"bc1\">\n          <rect x=\"260\" y=\"71\" width=\"190\" height=\"34\" rx=\"8\" fill=\"#e6efe7\" stroke=\"#6b8f71\"/>\n          <text x=\"349\" y=\"93\" text-anchor=\"middle\" fill=\"#4c6b52\" font-size=\"15\" font-weight=\"700\">换届与困境（¶1–2）</text>\n          <text class=\"mm-arrow\" data-for=\"bc1\" x=\"442\" y=\"93\" text-anchor=\"end\" fill=\"#4c6b52\">▾</text>\n        </g>\n        <g class=\"mm-children\" id=\"bc1\">\n          <path d=\"M450,88 C462,88 462,46 480,46\" stroke=\"#6b8f71\" stroke-width=\"1.5\" fill=\"none\"/>\n          <path d=\"M450,88 C462,88 462,88 480,88\" stroke=\"#6b8f71\" stroke-width=\"1.5\" fill=\"none\"/>\n          <path d=\"M450,88 C462,88 462,130 480,130\" stroke=\"#6b8f71\" stroke-width=\"1.5\" fill=\"none\"/>\n          <rect x=\"480\" y=\"30\" width=\"456\" height=\"32\" rx=\"8\" fill=\"#e6efe7\"/><text x=\"492\" y=\"51\" fill=\"#3d3a34\" font-size=\"14\">古特雷斯12月卸任，由谁接任正在权衡</text>\n          <rect x=\"480\" y=\"72\" width=\"456\" height=\"32\" rx=\"8\" fill=\"#e6efe7\"/><text x=\"492\" y=\"93\" fill=\"#3d3a34\" font-size=\"14\">联合国处境跌至历史低谷，大国屡屡阻挠</text>\n          <rect x=\"480\" y=\"114\" width=\"456\" height=\"32\" rx=\"8\" fill=\"#e6efe7\"/><text x=\"492\" y=\"135\" fill=\"#3d3a34\" font-size=\"14\">但全球挑战激增，维护联合国仍有理据</text>\n        </g>\n\n        <g class=\"mm-branch\" data-target=\"bc2\">\n          <rect x=\"260\" y=\"221\" width=\"190\" height=\"34\" rx=\"8\" fill=\"#e5edf4\" stroke=\"#7d98ad\"/>\n          <text x=\"349\" y=\"243\" text-anchor=\"middle\" fill=\"#3d5872\" font-size=\"15\" font-weight=\"700\">安理会失灵（¶3）</text>\n          <text class=\"mm-arrow\" data-for=\"bc2\" x=\"442\" y=\"243\" text-anchor=\"end\" fill=\"#3d5872\">▾</text>\n        </g>\n        <g class=\"mm-children\" id=\"bc2\">\n          <path d=\"M450,238 C462,238 462,196 480,196\" stroke=\"#7d98ad\" stroke-width=\"1.5\" fill=\"none\"/>\n          <path d=\"M450,238 C462,238 462,238 480,238\" stroke=\"#7d98ad\" stroke-width=\"1.5\" fill=\"none\"/>\n          <path d=\"M450,238 C462,238 462,280 480,280\" stroke=\"#7d98ad\" stroke-width=\"1.5\" fill=\"none\"/>\n          <rect x=\"480\" y=\"180\" width=\"456\" height=\"32\" rx=\"8\" fill=\"#e5edf4\"/><text x=\"492\" y=\"201\" fill=\"#3d3a34\" font-size=\"14\">最大挑战在安理会：五常屡次否决介入</text>\n          <rect x=\"480\" y=\"222\" width=\"456\" height=\"32\" rx=\"8\" fill=\"#e5edf4\"/><text x=\"492\" y=\"243\" fill=\"#3d3a34\" font-size=\"14\">俄入侵乌克兰、美袭击伊朗都不再守规矩</text>\n          <rect x=\"480\" y=\"264\" width=\"456\" height=\"32\" rx=\"8\" fill=\"#e5edf4\"/><text x=\"492\" y=\"285\" fill=\"#3d3a34\" font-size=\"14\">从乌克兰到缅甸，危机干预屡屡被挡</text>\n        </g>\n\n        <g class=\"mm-branch\" data-target=\"bc3\">\n          <rect x=\"260\" y=\"416\" width=\"190\" height=\"34\" rx=\"8\" fill=\"#f4e7e4\" stroke=\"#bd7a6d\"/>\n          <text x=\"349\" y=\"438\" text-anchor=\"middle\" fill=\"#7c4a3e\" font-size=\"15\" font-weight=\"700\">财政与格局（¶4–5）</text>\n          <text class=\"mm-arrow\" data-for=\"bc3\" x=\"442\" y=\"438\" text-anchor=\"end\" fill=\"#7c4a3e\">▾</text>\n        </g>\n        <g class=\"mm-children\" id=\"bc3\">\n          <path d=\"M450,433 C462,433 462,391 480,391\" stroke=\"#bd7a6d\" stroke-width=\"1.5\" fill=\"none\"/>\n          <path d=\"M450,433 C462,433 462,433 480,433\" stroke=\"#bd7a6d\" stroke-width=\"1.5\" fill=\"none\"/>\n          <path d=\"M450,433 C462,433 462,475 480,475\" stroke=\"#bd7a6d\" stroke-width=\"1.5\" fill=\"none\"/>\n          <rect x=\"480\" y=\"375\" width=\"456\" height=\"32\" rx=\"8\" fill=\"#f4e7e4\"/><text x=\"492\" y=\"396\" fill=\"#3d3a34\" font-size=\"14\">美国2025年断供，拖欠约40亿美元</text>\n          <rect x=\"480\" y=\"417\" width=\"456\" height=\"32\" rx=\"8\" fill=\"#f4e7e4\"/><text x=\"492\" y=\"438\" fill=\"#3d3a34\" font-size=\"14\">本该出五分之一核心经费、四分之一维和</text>\n          <rect x=\"480\" y=\"459\" width=\"456\" height=\"32\" rx=\"8\" fill=\"#f4e7e4\"/><text x=\"492\" y=\"480\" fill=\"#3d3a34\" font-size=\"14\">各国转投七国集团、金砖等小圈子</text>\n        </g>\n\n        <g class=\"mm-branch\" data-target=\"bc4\">\n          <rect x=\"260\" y=\"611\" width=\"190\" height=\"34\" rx=\"8\" fill=\"#ece4f2\" stroke=\"#9b86b3\"/>\n          <text x=\"349\" y=\"633\" text-anchor=\"middle\" fill=\"#5a4670\" font-size=\"15\" font-weight=\"700\">遴选与出路（¶6–9）</text>\n          <text class=\"mm-arrow\" data-for=\"bc4\" x=\"442\" y=\"633\" text-anchor=\"end\" fill=\"#5a4670\">▾</text>\n        </g>\n        <g class=\"mm-children\" id=\"bc4\">\n          <path d=\"M450,628 C462,628 462,586 480,586\" stroke=\"#9b86b3\" stroke-width=\"1.5\" fill=\"none\"/>\n          <path d=\"M450,628 C462,628 462,628 480,628\" stroke=\"#9b86b3\" stroke-width=\"1.5\" fill=\"none\"/>\n          <path d=\"M450,628 C462,628 462,670 480,670\" stroke=\"#9b86b3\" stroke-width=\"1.5\" fill=\"none\"/>\n          <rect x=\"480\" y=\"570\" width=\"456\" height=\"32\" rx=\"8\" fill=\"#ece4f2\"/><text x=\"492\" y=\"591\" fill=\"#3d3a34\" font-size=\"14\">候选人不敢得罪五常，遴选本身就是两难</text>\n          <rect x=\"480\" y=\"612\" width=\"456\" height=\"32\" rx=\"8\" fill=\"#ece4f2\"/><text x=\"492\" y=\"633\" fill=\"#3d3a34\" font-size=\"14\">秘书长可当会议召集人与政治治疗师</text>\n          <rect x=\"480\" y=\"654\" width=\"456\" height=\"32\" rx=\"8\" fill=\"#ece4f2\"/><text x=\"492\" y=\"675\" fill=\"#3d3a34\" font-size=\"14\">把联合国定位为全球风险讨论平台</text>\n        </g>\n      </svg>",
+  "img": ""
+ }
+}

@@ -1,0 +1,357 @@
+{
+ "date": "2026-09-01",
+ "title_tag": "美国欠钱、五常内斗、战争也管不了：联合国真的还有存在的必要吗？—— 美国《时代周刊》外刊讲解第1153天",
+ "h1": "美国欠钱、五常内斗、战争也管不了：联合国真的还有存在的必要吗？",
+ "source_label": "Time",
+ "category": "美国《时代周刊》外刊讲解 第1153天",
+ "read_minutes": 18,
+ "nav_hint": "Make the U.N. Great Again",
+ "headline": {
+  "en_html": "<span>Make the U.N. Great Again:</span> — <span>The <mark class=\"voc\">Uphill</mark> Struggle Facing the Next <mark class=\"voc\">Secretary General</mark></span>",
+  "zh": "让联合国重振雄风：下一任秘书长面临的艰难挑战",
+  "notes": [
+   {
+    "w": "uphill",
+    "ipa": "/ˌʌpˈhɪl/",
+    "pos": "adj.",
+    "en": "difficult to achieve or requiring great effort and determination",
+    "zh": "艰难的，费力的",
+    "ctx": "艰难的（形容下一任联合国秘书长面临的斗争非常艰巨，需要付出极大努力）",
+    "ex1": "Winning public trust after the scandal was an uphill battle for the new mayor. 丑闻之后，对这位新市长来说，赢得公众信任是一场艰难的战斗。",
+    "ex2": "Convincing the board to approve the budget proved to be an uphill task. 说服董事会批准这项预算被证明是一项艰巨的任务。"
+   },
+   {
+    "w": "secretary general",
+    "ipa": "/ˌsekrətri ˈdʒenərəl/",
+    "pos": "n.",
+    "en": "the chief administrative officer of an international organization such as the United Nations",
+    "zh": "秘书长",
+    "ctx": "秘书长（指联合国这一国际组织的最高行政长官）",
+    "ex1": "The secretary general called for an emergency meeting to address the escalating crisis. 秘书长呼吁召开紧急会议以应对不断升级的危机。",
+    "ex2": "As secretary general of the organization, she oversees operations in more than fifty countries. 作为该组织的秘书长，她负责监管五十多个国家的运作。"
+   }
+  ]
+ },
+ "paragraphs": [
+  {
+   "en_html": "It may be both the most <mark class=\"voc\">prestigious</mark> and the most frustrating job in international diplomacy: members of the United Nations are <mark class=\"voc\">weighing</mark> who should <mark class=\"voc\">succeed</mark> António Guterres as Secretary-General when he completes his final term in December. The <mark class=\"voc\">timing</mark> couldn’t be more critical, with U.N.’s fortunes at a historically <mark class=\"voc\">low ebb</mark>. With major powers repeatedly blocking the U.N. from intervening in crises and the U.S. <mark class=\"voc\">rolling back</mark> funding, some predict that whoever succeeds Guterres will simply have to do “less with less” and manage a process of institutional decline.",
+   "zh": "这或许是国际外交舞台上最显赫、也最令人心力交瘁的职位。联合国成员国正在权衡：当安东尼奥·古特雷斯于今年12月结束最后一个任期后，究竟由谁接任联合国秘书长。这个时间点再关键不过——联合国的处境已跌至历史低谷。大国屡屡阻挠联合国介入国际危机，美国又不断削减资金支持，因此有人预测，无论谁接替古特雷斯，恐怕都只能在资源更加捉襟见肘的情况下“少花钱、少办事”，尽可能体面地应对这一机构日渐式微的局面。",
+   "notes": [
+    {
+     "w": "prestigious",
+     "ipa": "/preˈstɪdʒəs/",
+     "pos": "adj.",
+     "en": "respected and admired, usually because of high quality, success, or social standing",
+     "zh": "有声望的，久负盛名的",
+     "ctx": "声望极高的（形容联合国秘书长一职在国际外交领域享有极高声誉）",
+     "ex1": "She won a prestigious award for her groundbreaking research in medicine. 她因在医学领域的开创性研究而获得了一项享有盛誉的奖项。",
+     "ex2": "The university is known for its prestigious law program. 这所大学以其久负盛名的法学项目而闻名。"
+    },
+    {
+     "w": "weigh",
+     "ipa": "/weɪ/",
+     "pos": "v.",
+     "en": "to carefully consider something before making a decision",
+     "zh": "权衡，斟酌",
+     "ctx": "权衡，斟酌（指联合国成员国正在仔细考量下一任秘书长的人选）",
+     "ex1": "The committee is weighing whether to invest in the new project or focus on existing ones. 委员会正在权衡是投资新项目还是专注于现有项目。",
+     "ex2": "Before accepting the offer, he weighed the benefits against the potential risks. 在接受这个提议之前，他权衡了收益与潜在风险。"
+    },
+    {
+     "w": "succeed",
+     "ipa": "/səkˈsiːd/",
+     "pos": "v.",
+     "en": "to take over a position, title, or office from someone who held it before",
+     "zh": "继任，接替",
+     "ctx": "接替（指接替安东尼奥·古特雷斯担任联合国秘书长一职）",
+     "ex1": "She will succeed the current director when he retires next year. 现任主任明年退休后，她将接替他的职位。",
+     "ex2": "Who is expected to succeed him as head of the department? 谁有望接替他成为部门负责人？"
+    },
+    {
+     "w": "timing",
+     "ipa": "/ˈtaɪmɪŋ/",
+     "pos": "n.",
+     "en": "the selection of a particular moment or period for doing something",
+     "zh": "时机，时机的选择",
+     "ctx": "时机（指此时正值联合国处境艰难之际，这一时间节点尤为关键）",
+     "ex1": "The timing of the announcement was carefully planned to maximize media coverage. 公告的时机经过精心安排，以最大限度地扩大媒体报道。",
+     "ex2": "Given the timing of the election, many voters were still undecided. 考虑到选举的时机，许多选民尚未做出决定。"
+    },
+    {
+     "w": "low ebb",
+     "ipa": "/ˌləʊ ˈeb/",
+     "pos": "n.",
+     "en": "a point at which something is at its worst or lowest level",
+     "zh": "低谷，低潮",
+     "ctx": "低谷（指联合国的命运正处在历史最低点）",
+     "ex1": "The team's morale was at a low ebb after three consecutive defeats. 连续三场失利后，球队的士气处于低谷。",
+     "ex2": "Relations between the two countries are at their lowest ebb in decades. 两国关系处于几十年来最低迷的时期。"
+    },
+    {
+     "w": "roll back",
+     "ipa": "/ˌrəʊl ˈbæk/",
+     "pos": "phr. v.",
+     "en": "to reduce or reverse something such as funding, prices, or rights to a previous level",
+     "zh": "削减，缩减，回退",
+     "ctx": "削减（指美国削减了对联合国的资助）",
+     "ex1": "The new government promised to roll back taxes on small businesses. 新政府承诺削减对小企业的税收。",
+     "ex2": "Environmental groups are fighting to prevent the rollback of clean air regulations. 环保组织正在努力阻止清洁空气法规被削弱。"
+    }
+   ]
+  },
+  {
+   "en_html": "Yet, at a time when global challenges—wars, <mark class=\"voc\">epidemics</mark>, and climate change—continue to <mark class=\"voc\">proliferate</mark>, there is a <mark class=\"voc\">compelling</mark> case for preserving the U.N. as a space for global deal making. The U.N. is an organization that <mark class=\"voc\">rests on</mark> international cooperation, but the current global moment is one of international competition. A <mark class=\"voc\">shrewd</mark> leader could help states de-escalate conflicts and cooperate on global challenges out of <mark class=\"voc\">necessity</mark>, not idealism.",
+   "zh": "然而，当战争、流行病和气候变化等全球性挑战不断涌现之际，我们仍有充分理由维护联合国，使其继续充当全球协商与博弈的平台。联合国建立在国际合作的基础之上，而当今世界的主旋律却是国际竞争。一位精明老练的领导者，或许能够推动各国缓和冲突，并促使它们在全球性挑战面前携手合作——不是出于理想主义，而是迫于现实需要。",
+   "notes": [
+    {
+     "w": "epidemic",
+     "ipa": "/ˌepɪˈdemɪk/",
+     "pos": "n.",
+     "en": "a widespread occurrence of an infectious disease in a community at a particular time",
+     "zh": "流行病，传染病",
+     "ctx": "流行病（指战争、流行病和气候变化等全球性挑战持续增多）",
+     "ex1": "The cholera epidemic spread rapidly through the overcrowded refugee camps. 霍乱疫情在过度拥挤的难民营中迅速蔓延。",
+     "ex2": "Governments around the world took drastic measures to contain the epidemic. 世界各国政府采取了严厉措施来控制疫情。"
+    },
+    {
+     "w": "proliferate",
+     "ipa": "/prəˈlɪfəreɪt/",
+     "pos": "v.",
+     "en": "to increase rapidly in number or amount",
+     "zh": "激增，迅速扩散",
+     "ctx": "不断增多（指全球性挑战——战争、流行病、气候变化——持续激增）",
+     "ex1": "Online misinformation has proliferated at an alarming rate in recent years. 近年来，网络虚假信息以惊人的速度激增。",
+     "ex2": "Small coffee shops have proliferated across the city over the past decade. 过去十年间，小咖啡馆在整座城市遍地开花。"
+    },
+    {
+     "w": "compelling",
+     "ipa": "/kəmˈpelɪŋ/",
+     "pos": "adj.",
+     "en": "convincing or powerful enough to make one believe or act",
+     "zh": "令人信服的，有说服力的",
+     "ctx": "有力的，令人信服的（指保留联合国作为全球协商平台的理由非常有说服力）",
+     "ex1": "There is compelling evidence that regular exercise improves mental health. 有令人信服的证据表明，经常锻炼能改善心理健康。",
+     "ex2": "She made a compelling argument for reforming the education system. 她为改革教育体系提出了令人信服的论点。"
+    },
+    {
+     "w": "rest on",
+     "ipa": "/ˈrest ɒn/",
+     "pos": "phr. v.",
+     "en": "to be based on or depend on something",
+     "zh": "基于，依赖于",
+     "ctx": "建立在……基础上（指联合国是一个以国际合作为基础的组织）",
+     "ex1": "The success of the project rests on the cooperation of all team members. 这个项目的成功依赖于所有团队成员的配合。",
+     "ex2": "His reputation rests on years of honest and dedicated service. 他的声誉建立在多年诚实敬业的付出之上。"
+    },
+    {
+     "w": "shrewd",
+     "ipa": "/ʃruːd/",
+     "pos": "adj.",
+     "en": "having or showing sharp powers of judgment; astute",
+     "zh": "精明的，敏锐的",
+     "ctx": "精明的（指一位精明的领导人可以帮助各国缓和冲突、开展合作）",
+     "ex1": "She is a shrewd negotiator who always knows when to compromise. 她是一位精明的谈判者，总是知道何时该做出让步。",
+     "ex2": "His shrewd investment decisions saved the company from bankruptcy. 他精明的投资决策使公司免于破产。"
+    },
+    {
+     "w": "necessity",
+     "ipa": "/nəˈsesəti/",
+     "pos": "n.",
+     "en": "the state of being unavoidable or indispensable; something that must be done",
+     "zh": "必要，必然；迫不得已的事",
+     "ctx": "出于必要（指各国出于现实必要性而非理想主义开展合作）",
+     "ex1": "Cutting costs became a necessity after the company lost its biggest client. 失去最大的客户后，削减成本成为必要之举。",
+     "ex2": "They cooperated out of necessity rather than genuine trust. 他们合作是出于必要，而非真正的信任。"
+    }
+   ]
+  },
+  {
+   "en_html": "Maybe the biggest challenge for the next Secretary-General <mark class=\"voc\">lies inside</mark> the Security Council, the organization’s most powerful body. The five <mark class=\"voc\">permanent</mark>, <mark class=\"voc\">veto</mark> power-<mark class=\"voc\">wielding</mark> members—the United States, China, Russia, Britain, and France—have repeatedly blocked intervention in crises from Ukraine to Myanmar. Russia’s <mark class=\"voc\">invasion</mark> of Ukraine and the U.S. decision to attack Iran suggest that some of the council’s most powerful members no longer <mark class=\"voc\">feel bound by</mark> its guiding principles.",
+   "zh": "下一任秘书长面临的最大挑战，或许就在联合国内部最具权力的机构——安全理事会。拥有否决权的五个常任理事国——美国、中国、俄罗斯、英国和法国——已屡次阻碍联合国介入从乌克兰到缅甸的一系列危机。俄罗斯入侵乌克兰，以及美国决定对伊朗发动袭击，都表明安理会中一些最具实力的成员国似乎已不再认为自己必须受其基本原则的约束。",
+   "notes": [
+    {
+     "w": "lie inside",
+     "ipa": "/ˌlaɪ ɪnˈsaɪd/",
+     "pos": "phr. v.",
+     "en": "to be found or located within something",
+     "zh": "存在于……内部，位于……之中",
+     "ctx": "存在于内部（指下一任秘书长面临的最大挑战可能在于安理会内部）",
+     "ex1": "The real problem lies inside the organization's outdated management structure. 真正的问题存在于该组织过时的管理结构内部。",
+     "ex2": "The answer lies inside the data we have already collected. 答案就在我们已经收集的数据之中。"
+    },
+    {
+     "w": "permanent",
+     "ipa": "/ˈpɜːmənənt/",
+     "pos": "adj.",
+     "en": "lasting or intended to last indefinitely without change",
+     "zh": "永久的，常设的",
+     "ctx": "常任的（指联合国安理会五个拥有否决权的常任理事国）",
+     "ex1": "She finally secured a permanent position after years of temporary contracts. 经过多年的临时合同后，她终于获得了一个永久职位。",
+     "ex2": "The museum has a permanent collection of modern art. 该博物馆拥有现代艺术的永久馆藏。"
+    },
+    {
+     "w": "veto",
+     "ipa": "/ˈviːtəʊ/",
+     "pos": "n.",
+     "en": "the power or right to reject a decision or proposal made by others",
+     "zh": "否决权",
+     "ctx": "否决权（指安理会五个常任理事国拥有的否决权）",
+     "ex1": "The president used his veto to block the bill passed by Congress. 总统行使否决权阻止了国会通过的法案。",
+     "ex2": "China and Russia exercised their veto against the resolution. 中国和俄罗斯对该决议行使了否决权。"
+    },
+    {
+     "w": "wield",
+     "ipa": "/wiːld/",
+     "pos": "v.",
+     "en": "to hold and use power, authority, or influence",
+     "zh": "行使，运用（权力或影响力）",
+     "ctx": "行使，拥有（指拥有否决权的常任理事国）",
+     "ex1": "The committee wields considerable influence over education policy. 该委员会对教育政策拥有相当大的影响力。",
+     "ex2": "She wields more power than anyone else in the company. 她在公司里行使的权力比任何人都大。"
+    },
+    {
+     "w": "invasion",
+     "ipa": "/ɪnˈveɪʒn/",
+     "pos": "n.",
+     "en": "an instance of a country entering another by force with an army",
+     "zh": "入侵，侵略",
+     "ctx": "入侵（指俄罗斯对乌克兰的入侵）",
+     "ex1": "The invasion of the country drew widespread international condemnation. 对该国的入侵引起了国际社会的广泛谴责。",
+     "ex2": "The invasion triggered a massive refugee crisis across the region. 这场入侵在整个地区引发了大规模的难民危机。"
+    },
+    {
+     "w": "feel bound by",
+     "ipa": "/ˌfiːl ˈbaʊnd baɪ/",
+     "pos": "phr.",
+     "en": "to feel obligated or required to follow a rule, principle, or agreement",
+     "zh": "感到受……的约束",
+     "ctx": "感到受约束（指一些最强大的成员国不再感到受安理会指导原则的约束）",
+     "ex1": "Many employees no longer feel bound by traditional office rules. 许多员工不再感到受传统办公规则的约束。",
+     "ex2": "Do members still feel bound by the organization's founding principles? 成员们是否仍感到受该组织创始原则的约束？"
+    }
+   ]
+  },
+  {
+   "en_html": "If the U.N.’s political situation is its main headache, its financial position is a <mark class=\"voc\">close second</mark>. After the Trump Administration cut off <mark class=\"voc\">the bulk of</mark> U.S. funding in 2025, U.N. officials have been wondering how to pay the bills. The U.S. is supposed to cover about a fifth of the organization’s core costs and a quarter of its <mark class=\"voc\">peacekeeping</mark> budget, but currently owes the U.N. about $4 billion. European governments are also <mark class=\"voc\">scaling back</mark> development and <mark class=\"voc\">humanitarian aid</mark>.",
+   "zh": "如果说政治困局是联合国最大的心病，那么财政危机则紧随其后。自特朗普政府于2025年切断美国对联合国的大部分资金支持以来，联合国官员一直在为如何维持机构运转而发愁。按规定，美国应承担联合国约五分之一的核心经费和四分之一的维和预算，但目前拖欠联合国的款项约达40亿美元。与此同时，欧洲各国政府也在削减发展援助和人道主义援助。",
+   "notes": [
+    {
+     "w": "close second",
+     "ipa": "/ˌkləʊs ˈsekənd/",
+     "pos": "n.",
+     "en": "a very narrow runner-up position; almost as important as the first item mentioned",
+     "zh": "紧随其后的第二大问题，不相上下的第二位",
+     "ctx": "紧随其后的第二大问题（指联合国的财政状况是其第二大难题）",
+     "ex1": "After cost, convenience is a close second factor for most consumers. 对大多数消费者来说，便利性是仅次于成本的第二大因素。",
+     "ex2": "In terms of challenges, the team's lack of experience is a close second to its limited budget. 就挑战而言，团队经验不足是仅次于预算有限的第二大难题。"
+    },
+    {
+     "w": "the bulk of",
+     "ipa": "/ðə ˈbʌlk əv/",
+     "pos": "phr.",
+     "en": "the greater part or majority of something",
+     "zh": "大部分，主要部分",
+     "ctx": "大部分（指特朗普政府切断了美国对联合国的大部分资助）",
+     "ex1": "The bulk of the work was completed in the first week. 大部分工作在第一周就完成了。",
+     "ex2": "The bulk of the company's revenue comes from overseas sales. 公司的大部分收入来自海外销售。"
+    },
+    {
+     "w": "peacekeeping",
+     "ipa": "/ˈpiːskiːpɪŋ/",
+     "pos": "n.",
+     "en": "the activity of maintaining peace, especially by deploying military forces to prevent conflict",
+     "zh": "维和，维持和平",
+     "ctx": "维和（指联合国的维和预算）",
+     "ex1": "The country contributed troops to the United Nations peacekeeping mission. 该国向联合国维和任务派遣了部队。",
+     "ex2": "Peacekeeping operations have become increasingly complex and dangerous. 维和行动已变得越来越复杂和危险。"
+    },
+    {
+     "w": "scale back",
+     "ipa": "/skeɪl/",
+     "pos": "v.",
+     "en": "to reduce or increase the size, amount, or extent of something",
+     "zh": "缩减，调整规模",
+     "ctx": "缩减（指欧洲各国政府也在缩减发展和人道主义援助）",
+     "ex1": "The company decided to scale back its operations in Asia. 该公司决定缩减在亚洲的业务。",
+     "ex2": "We need to scale back the project to fit the new budget. 我们需要缩减项目规模以适应新的预算。"
+    },
+    {
+     "w": "humanitarian aid",
+     "ipa": "/hjuːˌmænɪˈteəriən eɪd/",
+     "pos": "n.",
+     "en": "material or logistical assistance provided for humanitarian purposes, typically in response to crises",
+     "zh": "人道主义援助",
+     "ctx": "人道主义援助（指欧洲政府正在缩减发展和人道主义援助）",
+     "ex1": "The organization delivered humanitarian aid to families displaced by the earthquake. 该组织向因地震而流离失所的家庭提供了人道主义援助。",
+     "ex2": "Humanitarian aid workers face growing risks in conflict zones. 人道主义援助工作者在冲突地区面临越来越大的风险。"
+    }
+   ]
+  },
+  {
+   "en_html": "This is a <mark class=\"voc\">markedly</mark> different <mark class=\"voc\">landscape</mark> from the one Guterres encountered in 2017, when U.N. members had just agreed to the Paris climate accord and Sustainable Development Goals, including a pledge to <mark class=\"voc\">eradicate</mark> extreme poverty by 2030. That <mark class=\"voc\">brief</mark> moment of optimism proved <mark class=\"voc\">ephemeral</mark>. Rising tensions among major powers have <mark class=\"voc\">eroded</mark> governments’ trust in one another and their faith in the U.N.’s negotiation-based approach. Increasingly, governments are turning instead to smaller, looser decision-making clubs such as the Group of 7 or the BRICS.",
+   "zh": "这与古特雷斯2017年上任时所面对的局面截然不同。当时，联合国成员国刚刚达成《巴黎气候协定》，并通过了可持续发展目标，其中包括到2030年消除极端贫困的承诺。然而，那段短暂的乐观岁月最终只是昙花一现。大国之间日益加剧的紧张关系，不断侵蚀各国政府彼此之间的信任，也削弱了它们对联合国以谈判协商解决问题这一模式的信心。越来越多的国家开始转向规模更小、组织更松散的决策机制，例如七国集团（G7）和金砖国家（BRICS）。",
+   "notes": [
+    {
+     "w": "markedly",
+     "ipa": "/ˈmɑːkɪdli/",
+     "pos": "adv.",
+     "en": "in a way that is clearly noticeable or evident",
+     "zh": "明显地，显著地",
+     "ctx": "显著地（指当下的环境与古特雷斯2017年上任时明显不同）",
+     "ex1": "The company's performance has improved markedly since the new CEO took over. 新首席执行官上任以来，公司的业绩明显改善。",
+     "ex2": "Attitudes toward remote work have shifted markedly in recent years. 近年来，人们对远程工作的态度发生了显著转变。"
+    },
+    {
+     "w": "landscape",
+     "ipa": "/ˈlændskeɪp/",
+     "pos": "n.",
+     "en": "the distinctive features of a particular situation, field of activity, or intellectual environment",
+     "zh": "形势，格局，局面",
+     "ctx": "格局，形势（指当下的全球政治形势与2017年相比大不相同）",
+     "ex1": "The political landscape has changed dramatically since the last election. 自上次选举以来，政治格局发生了巨大变化。",
+     "ex2": "New technologies are rapidly reshaping the media landscape. 新技术正在迅速重塑媒体格局。"
+    },
+    {
+     "w": "eradicate",
+     "ipa": "/ɪˈrædɪkeɪt/",
+     "pos": "v.",
+     "en": "to completely destroy or put an end to something",
+     "zh": "根除，消灭",
+     "ctx": "消除（指联合国可持续发展目标中承诺到2030年消除极端贫困）",
+     "ex1": "The campaign aims to eradicate malaria from the region within a decade. 该运动的目标是在十年内从该地区根除疟疾。",
+     "ex2": "Efforts to eradicate poverty require sustained investment in education and healthcare. 消除贫困的努力需要在教育和医疗方面持续投资。"
+    },
+    {
+     "w": "brief",
+     "ipa": "/briːf/",
+     "pos": "adj.",
+     "en": "lasting for only a short period of time",
+     "zh": "短暂的，简短的",
+     "ctx": "短暂的（指2017年那段乐观的时期非常短暂）",
+     "ex1": "There was a brief moment of silence before the announcement was made. 在宣布之前有片刻的沉默。",
+     "ex2": "The ceasefire brought only a brief period of calm to the region. 停火只给该地区带来了短暂的平静。"
+    },
+    {
+     "w": "ephemeral",
+     "ipa": "/ɪˈfemərəl/",
+     "pos": "adj.",
+     "en": "lasting for a very short time; transitory",
+     "zh": "短暂的，转瞬即逝的",
+     "ctx": "短暂的，转瞬即逝的（指联合国成员达成巴黎气候协定和可持续发展目标时的乐观情绪很快就消退了）",
+     "ex1": "Fame in the digital age can be surprisingly ephemeral. 数字时代的名声可能出人意料地短暂。",
+     "ex2": "The joy of winning the championship proved ephemeral as the team soon disbanded. 夺冠的喜悦转瞬即逝，因为球队很快就解散了。"
+    },
+    {
+     "w": "erode",
+     "ipa": "/ɪˈrəʊd/",
+     "pos": "v.",
+     "en": "to gradually weaken, damage, or destroy something such as trust, confidence, or power",
+     "zh": "逐渐削弱，侵蚀",
+     "ctx": "侵蚀，削弱（指大国间日益紧张的局势削弱了政府间的互信）",
+     "ex1": "Years of broken promises have eroded public confidence in the government. 多年的空头承诺逐渐削弱了公众对政府的信心。",
+     "ex2": "Constant criticism from management eroded the team's morale. 管理层的不断批评侵蚀了团队的士气。"
+    }
+   ]
+  }
+ ]
+}
