@@ -8,7 +8,8 @@
 对 articles/2026/{09,10,11}/ 下每个 *.reading.html：
   1. 找 scripts/content/<日期>.json（.part1/.part2 等后缀自动忽略；无 JSON 时从页面正文兜底抽取，含标题）
   2. 音频目录 articles/YYYY/MM/audio/<日期>/ 缺哪个 uk-pN.m4a / uk-title.m4a 就补生成（gen-paragraph-audio.py 断点续跑）
-  3. 页面缺 para-audio-v3 或 para-audio-title-v1 标记就打补丁（add-paragraph-audio.py）
+  3. 页面缺 para-audio-v3 或 para-audio-title-v2（含连播开关）标记就打补丁
+     （旧 para-audio-title-v1 会被原位升级为 v2，音频不受影响）
 已完成的自动跳过，可随时中断重跑。11-01/11-02 已是定稿，也会被自动跳过。
 """
 import glob
@@ -106,7 +107,7 @@ def main():
         adir = os.path.join(REPO, "articles", yy, mm, "audio", d)
         need_gen = not audio_ok(jp, adir)
         s = open(page, encoding="utf-8").read()
-        need_patch = "para-audio-v3" not in s or "para-audio-title-v1" not in s
+        need_patch = "para-audio-v3" not in s or "para-audio-title-v2" not in s
         if need_gen:
             todo_gen.append((page, jp, adir))
         if need_patch:

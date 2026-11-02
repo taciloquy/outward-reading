@@ -454,6 +454,15 @@ body.print-sheet .layout,body.print-sheet .main{display:block !important}
 @keyframes paWave{0%,100%{opacity:.2}50%{opacity:1}}
 .p-audio.error{color:#b3543e}
 @media print{.p-audio{display:none !important}}
+/* ===== 连续播放 para-audio-title-v2 ===== */
+.pa-loop{appearance:none;border:1px solid rgba(24,25,28,.25);background:transparent;cursor:pointer;
+  font:inherit;font-size:12px;line-height:1;color:var(--ink-light);
+  padding:4px 9px;border-radius:999px;transition:color .15s,background .15s,border-color .15s;
+  white-space:nowrap;flex:none}
+.pa-loop:hover{color:#0F6E56;border-color:#0F6E56;background:rgba(15,110,86,.08)}
+.pa-loop.on{color:#fff;background:#0F6E56;border-color:#0F6E56}
+.pa-loop:focus-visible{outline:2px solid #0F6E56;outline-offset:1px}
+@media print{.pa-loop{display:none !important}}
 </style>
 </head>
 <body>
@@ -1354,7 +1363,33 @@ function toggleParaAudio(btn, n){
     label.appendChild(btn);
   });
 })();
-/* ===== 标题朗读 para-audio-title-v1 ===== */
+/* ===== 标题朗读 + 连续播放 para-audio-title-v2 ===== */
+var paChain = false;
+try{ paChain = localStorage.getItem('pa-chain') === '1'; }catch(e){}
+var paOrder = [], paCur = -1, paPre = null;
+
+function paSrcOf(btn){
+  var sec = btn.closest('section');
+  var m = sec && (sec.id || '').match(/^p(\d+)$/);
+  return PARA_AUDIO_BASE + (m ? '/uk-p' + m[1] : '/uk-title') + '.m4a';
+}
+function paPreload(i){
+  var nxt = paOrder[i + 1];
+  if(!nxt) return;
+  if(!paPre) paPre = new Audio();
+  paPre.preload = 'auto';
+  paPre.src = paSrcOf(nxt);
+}
+function paAttachWatch(){
+  if(paraAudioEl && !paraAudioEl.__paWatch){
+    paraAudioEl.__paWatch = 1;
+    paraAudioEl.addEventListener('ended', function(){
+      if(!paChain || paCur < 0) return;
+      var nxt = paOrder[paCur + 1];
+      if(nxt) nxt.click();          // 复用按钮点击：状态/动画/滚动全部走同一入口
+    });
+  }
+}
 function toggleTitleAudio(btn){
   if(paraPlayingBtn === btn){ stopParaAudio(); return; }
   stopParaAudio();
@@ -1367,23 +1402,62 @@ function toggleTitleAudio(btn){
   paraAudioEl.play().catch(function(){});
   paraPlayingBtn = btn; btn.classList.add('playing');
 }
-(function initTitleAudio(){
+(function initTitleAudioV2(){
   var sec = document.getElementById('p-headline');
   if(!sec) return;
   var label = sec.querySelector('.p-label');
-  if(!label || label.querySelector('.p-audio')) return;
+  if(!label) return;
   var SVG = '<svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8" '
     + 'stroke-linecap="round" stroke-linejoin="round" aria-hidden="true">'
     + '<path d="M11 5 L6.5 9 H3.5 V15 H6.5 L11 19 Z"/>'
     + '<path class="pa-w1" d="M14.8 9.4 A4 4 0 0 1 14.8 14.6"/>'
     + '<path class="pa-w2" d="M17.4 7 A7.6 7.6 0 0 1 17.4 17"/></svg>';
-  label.innerHTML = '<span class="p-label-text">' + label.innerHTML + '</span>';
-  var btn = document.createElement('button');
-  btn.className = 'p-audio'; btn.type = 'button';
-  btn.setAttribute('aria-label', '朗读标题'); btn.title = '朗读标题（英音）';
-  btn.innerHTML = SVG;
-  btn.addEventListener('click', function(){ toggleTitleAudio(btn); });
-  label.appendChild(btn);
+  var titleBtn;
+  if(label.querySelector('.p-audio')){          // v1 已注入过喇叭，直接复用
+    titleBtn = label.querySelector('.p-audio');
+  }else{
+    label.innerHTML = '<span class="p-label-text">' + label.innerHTML + '</span>';
+    titleBtn = document.createElement('button');
+    titleBtn.className = 'p-audio'; titleBtn.type = 'button';
+    titleBtn.setAttribute('aria-label', '朗读标题'); titleBtn.title = '朗读标题（英音）';
+    titleBtn.innerHTML = SVG;
+    titleBtn.addEventListener('click', function(){ toggleTitleAudio(titleBtn); });
+    label.appendChild(titleBtn);
+  }
+  // 「连播」开关（放在标题喇叭右侧）
+  var loop = document.createElement('button');
+  loop.className = 'pa-loop' + (paChain ? ' on' : '');
+  loop.type = 'button'; loop.textContent = '连播';
+  loop.title = '连续播放：从当前位置按顺序播完整篇';
+  loop.setAttribute('aria-pressed', String(paChain));
+  loop.addEventListener('click', function(){
+    paChain = !paChain;
+    loop.classList.toggle('on', paChain);
+    loop.setAttribute('aria-pressed', String(paChain));
+    try{ localStorage.setItem('pa-chain', paChain ? '1' : '0'); }catch(e){}
+  });
+  label.appendChild(loop);
+
+  // 播放序列：标题 → 各段（DOM 顺序；排除标题区自身——它的 class 也含 paragraph）
+  paOrder = [titleBtn];
+  document.querySelectorAll('section.paragraph').forEach(function(s2){
+    if(!/^p\d+$/.test(s2.id || '')) return;
+    var b = s2.querySelector('.p-audio');
+    if(b) paOrder.push(b);
+  });
+
+  // 捕获阶段监听任意喇叭点击：记录连播起点 / 滚动跟随 / 预载下一段
+  document.addEventListener('click', function(e){
+    var b = e.target.closest ? e.target.closest('.p-audio') : null;
+    if(!b) return;
+    paCur = paOrder.indexOf(b);
+    setTimeout(paAttachWatch, 0);               // paraAudioEl 可能刚由 v3 创建
+    if(paChain){
+      var s2 = b.closest('section');
+      if(s2 && s2.scrollIntoView) s2.scrollIntoView({behavior:'smooth', block:'center'});
+      paPreload(paCur);
+    }
+  }, true);
 })();
 </script>
 </body>

@@ -1,0 +1,68 @@
+<!DOCTYPE html><html><head><meta charset="utf-8"><title>pa-chain-test</title></head>
+<body>
+<iframe id="f" src="/articles/2026/11/2026-11-02_001.reading.html" style="width:390px;height:800px"></iframe>
+<pre id="log"></pre>
+<script>
+const log = [];
+function ok(name, cond){ log.push((cond ? 'PASS ' : 'FAIL ') + name); }
+const f = document.getElementById('f');
+f.addEventListener('load', () => {
+  setTimeout(async () => {
+    let w, d;
+    try {
+      w = f.contentWindow; d = f.contentDocument;
+      w.localStorage.removeItem('pa-chain');
+      const label = d.querySelector('#p-headline .p-label');
+      const titleBtn = label.querySelector('.p-audio');
+      const loop = label.querySelector('.pa-loop');
+      ok('01 标题喇叭存在', !!titleBtn);
+      ok('02 连播开关存在', !!loop);
+      ok('03 默认关闭', !loop.classList.contains('on'));
+      // 开启连播
+      loop.click();
+      ok('04 开关点亮', loop.classList.contains('on') && loop.getAttribute('aria-pressed') === 'true');
+      ok('05 偏好已存 localStorage', w.localStorage.getItem('pa-chain') === '1');
+      // 点标题 → 播标题
+      titleBtn.click();
+      await new Promise(r => setTimeout(r, 120));
+      const pe = w.paraAudioEl;
+      ok('06 标题在播', pe && pe.src.endsWith('/uk-title.m4a') && titleBtn.classList.contains('playing'));
+      // 模拟播完 → 自动接 P1（同时侦测滚动跟随；无头环境不跑平滑动画）
+      let scrolled = null;
+      const origSIV = w.Element.prototype.scrollIntoView;
+      w.Element.prototype.scrollIntoView = function(){ scrolled = this.id || '(root)'; return origSIV.apply(this, arguments); };
+      pe.dispatchEvent(new Event('ended'));
+      await new Promise(r => setTimeout(r, 120));
+      w.Element.prototype.scrollIntoView = origSIV;
+      const p1 = d.querySelector('#p1 .p-audio');
+      ok('07 自动接 P1', pe.src.endsWith('/uk-p1.m4a') && p1.classList.contains('playing') && !titleBtn.classList.contains('playing'));
+      ok('08 滚动跟随调用于 P1 区块', scrolled === 'p1');
+      // 关闭连播 → 播完当前段即停
+      loop.click();
+      ok('09 开关熄灭', !loop.classList.contains('on') && w.localStorage.getItem('pa-chain') === '0');
+      pe.dispatchEvent(new Event('ended'));
+      await new Promise(r => setTimeout(r, 120));
+      ok('10 关闭后不续播', pe.src.endsWith('/uk-p1.m4a') && !p1.classList.contains('playing'));
+      // 从中间点 P3 → 连播开启时从 P3 继续（再开连播，点 P3，ended → P4）
+      loop.click();
+      const p3 = d.querySelector('#p3 .p-audio');
+      p3.click();
+      await new Promise(r => setTimeout(r, 120));
+      ok('11 手动点 P3 在播', pe.src.endsWith('/uk-p3.m4a'));
+      pe.dispatchEvent(new Event('ended'));
+      await new Promise(r => setTimeout(r, 120));
+      ok('12 P3 播完接 P4', pe.src.endsWith('/uk-p4.m4a'));
+      // 打印态隐藏连播（CSS 规则存在）
+      ok('13 打印隐藏连播', [...d.styleSheets].some(ss => { try { return [...ss.cssRules].some(r => r.cssText && r.cssText.includes('.pa-loop') && r.cssText.includes('print')); } catch(e){ return false; } }));
+      // 标题行不折行（390 宽下 label 高度不超过两行）
+      const h = label.getBoundingClientRect().height;
+      ok('14 标题行 390 宽不折行(高≤36px)', h <= 36);
+    } catch(e) {
+      log.push('FAIL 异常: ' + e.message);
+    }
+    w.localStorage.removeItem('pa-chain');
+    document.getElementById('log').textContent = 'RESULT-START\n' + log.join('\n') + '\nRESULT-END';
+    document.title = 'PA-TEST-DONE';
+  }, 400);
+});
+</script></body></html>
