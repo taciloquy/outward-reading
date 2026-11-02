@@ -96,6 +96,8 @@ def main():
     ap.add_argument('parsed')
     ap.add_argument('--issue', required=True, help='期次配置 JSON（标题/刊名/导图映射等）')
     ap.add_argument('--out', required=True)
+    ap.add_argument('--rebuild-mindmap', action='store_true',
+                    help='输出文件已存在时，强制用模板重新生成导图（默认沿用已有的手工导图）')
     a = ap.parse_args()
 
     d = json.load(open(a.parsed, encoding='utf-8'))
@@ -148,15 +150,34 @@ def main():
     answer_html = '<br><br>'.join(f'{i}. {x}' for i, x in enumerate(answers, 1))
 
     # ---------- 导图 SVG：克隆模板只换字 ----------
+    # 已有输出文件里的导图是人工归纳的成果（含手绘图路径），默认原样继承；
+    # 完整笔记覆盖同一期时不得冲掉，须显式 --rebuild-mindmap 才按模板重做。
     mm = cfg['mindmap']
-    svg = json.load(open(os.path.join(ROOT, mm['template']), encoding='utf-8'))['mindmap']['svg']
-    for old, new in mm.get('repl', []):
-        if old not in svg:
-            sys.exit(f'✗ 导图模板里找不到文字「{old}」，模板换错了？')
-        svg = svg.replace(old, new)
-    left = re.findall(r'<text[^>]*>([^<]*)</text>', svg)
-    if mm.get('template_texts') and len(left) != mm['template_texts']:
-        print(f'⚠ 导图文本节点 {len(left)} 个（配置写 {mm["template_texts"]} 个），请目检')
+    prev_mm = None
+    if not a.rebuild_mindmap and os.path.exists(a.out):
+        try:
+            prev_mm = json.load(open(a.out, encoding='utf-8')).get('mindmap')
+        except Exception:
+            prev_mm = None
+    if prev_mm and (prev_mm.get('svg') or '').strip():
+        mindmap = {'aria': prev_mm.get('aria', ''),
+                   'alt': prev_mm.get('alt', ''),
+                   'svg': prev_mm['svg'],
+                   'img': prev_mm.get('img', '')}
+        print(f'导图：沿用 {a.out} 中已有的手工导图（{len(prev_mm["svg"])} 字符，'
+              f'手绘图{"有" if prev_mm.get("img") else "无"}路径）')
+        if prev_mm.get('img') and not os.path.exists(prev_mm['img']):
+            print(f'  ⚠ 手绘图文件不存在：{prev_mm["img"]}，构建后需重新指定或重嵌')
+    else:
+        svg = json.load(open(os.path.join(ROOT, mm['template']), encoding='utf-8'))['mindmap']['svg']
+        for old, new in mm.get('repl', []):
+            if old not in svg:
+                sys.exit(f'✗ 导图模板里找不到文字「{old}」，模板换错了？')
+            svg = svg.replace(old, new)
+        left = re.findall(r'<text[^>]*>([^<]*)</text>', svg)
+        if mm.get('template_texts') and len(left) != mm['template_texts']:
+            print(f'⚠ 导图文本节点 {len(left)} 个（配置写 {mm["template_texts"]} 个），请目检')
+        mindmap = {'aria': mm.get('aria', ''), 'alt': mm.get('alt', ''), 'svg': svg, 'img': ''}
 
     category = cfg['category']
     # 惯例：category 里「外刊讲解 第N天」带空格，title_tag 里不带
@@ -180,7 +201,7 @@ def main():
             'critical_zh': cfg.get('critical_zh', ''),
             'answer': answer_html,
         },
-        'mindmap': {'aria': mm.get('aria', ''), 'alt': mm.get('alt', ''), 'svg': svg, 'img': ''},
+        'mindmap': mindmap,
     }
     with open(a.out, 'w', encoding='utf-8') as f:
         json.dump(out, f, ensure_ascii=False, indent=1)
