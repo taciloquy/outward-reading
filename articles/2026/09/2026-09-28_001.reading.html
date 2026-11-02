@@ -437,6 +437,23 @@ body.print-sheet .layout,body.print-sheet .main{display:block !important}
   body.side-collapsed .side-collapse:hover{border-color:var(--accent);filter:brightness(.98)}
   body.side-collapsed .side-body{display:none}
 }
+/* ===== 逐段朗读 para-audio-v3 ===== */
+.p-label{display:flex;align-items:center;gap:8px}
+.p-label .p-label-text{flex:none}
+.p-audio{appearance:none;border:none;background:transparent;cursor:pointer;
+  padding:3px;line-height:0;color:var(--ink-light);border-radius:6px;
+  transition:color .15s,background .15s}
+.p-audio:hover{color:#0F6E56;background:rgba(15,110,86,.08)}
+.p-audio:focus-visible{outline:2px solid #0F6E56;outline-offset:1px}
+.p-audio svg{width:16px;height:16px;display:block}
+.p-audio .pa-w1,.p-audio .pa-w2{opacity:.45;transition:opacity .15s}
+.p-audio:hover .pa-w1,.p-audio:hover .pa-w2{opacity:.75}
+.p-audio.playing{color:#0F6E56}
+.p-audio.playing .pa-w1{opacity:1;animation:paWave 1.2s ease-in-out infinite}
+.p-audio.playing .pa-w2{opacity:1;animation:paWave 1.2s ease-in-out infinite reverse}
+@keyframes paWave{0%,100%{opacity:.2}50%{opacity:1}}
+.p-audio.error{color:#b3543e}
+@media print{.p-audio{display:none !important}}
 </style>
 </head>
 <body>
@@ -1272,6 +1289,76 @@ document.addEventListener('click', function(e){
   item.scrollIntoView({behavior:'smooth', block:'center'});
   setTimeout(function(){ item.classList.remove('flash'); }, 1800);
 });
+/* ===== 逐段朗读 para-audio-v3 ===== */
+var PARA_AUDIO_BASE = 'audio/2026-09-28';
+var paraAudioEl = null, paraPlayingBtn = null;
+function stopParaAudio(){
+  if(paraAudioEl){ paraAudioEl.pause(); try{paraAudioEl.currentTime = 0;}catch(e){} }
+  if(paraPlayingBtn){ paraPlayingBtn.classList.remove('playing'); paraPlayingBtn = null; }
+}
+function toggleParaAudio(btn, n){
+  if(paraPlayingBtn === btn){ stopParaAudio(); return; }
+  stopParaAudio();
+  if(!paraAudioEl) paraAudioEl = new Audio();
+  paraAudioEl.src = PARA_AUDIO_BASE + '/uk-p' + n + '.m4a';
+  paraAudioEl.onended = stopParaAudio;
+  paraAudioEl.onerror = function(){
+    stopParaAudio(); btn.classList.add('error'); btn.title = '本段音频未生成';
+  };
+  paraAudioEl.play().catch(function(){});
+  paraPlayingBtn = btn; btn.classList.add('playing');
+}
+(function initParaAudio(){
+  var SVG = '<svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8" '
+    + 'stroke-linecap="round" stroke-linejoin="round" aria-hidden="true">'
+    + '<path d="M11 5 L6.5 9 H3.5 V15 H6.5 L11 19 Z"/>'
+    + '<path class="pa-w1" d="M14.8 9.4 A4 4 0 0 1 14.8 14.6"/>'
+    + '<path class="pa-w2" d="M17.4 7 A7.6 7.6 0 0 1 17.4 17"/></svg>';
+  document.querySelectorAll('section.paragraph').forEach(function(sec){
+    var m = (sec.id || '').match(/^p(\d+)$/);
+    if(!m) return;
+    var label = sec.querySelector('.p-label');
+    if(!label || label.querySelector('.p-audio')) return;
+    label.innerHTML = '<span class="p-label-text">' + label.innerHTML + '</span>';
+    var btn = document.createElement('button');
+    btn.className = 'p-audio'; btn.type = 'button';
+    btn.setAttribute('aria-label', '朗读本段'); btn.title = '朗读本段（英音）';
+    btn.innerHTML = SVG;
+    btn.addEventListener('click', function(){ toggleParaAudio(btn, m[1]); });
+    label.appendChild(btn);
+  });
+})();
+/* ===== 标题朗读 para-audio-title-v1 ===== */
+function toggleTitleAudio(btn){
+  if(paraPlayingBtn === btn){ stopParaAudio(); return; }
+  stopParaAudio();
+  if(!paraAudioEl) paraAudioEl = new Audio();
+  paraAudioEl.src = PARA_AUDIO_BASE + '/uk-title.m4a';
+  paraAudioEl.onended = stopParaAudio;
+  paraAudioEl.onerror = function(){
+    stopParaAudio(); btn.classList.add('error'); btn.title = '标题音频未生成';
+  };
+  paraAudioEl.play().catch(function(){});
+  paraPlayingBtn = btn; btn.classList.add('playing');
+}
+(function initTitleAudio(){
+  var sec = document.getElementById('p-headline');
+  if(!sec) return;
+  var label = sec.querySelector('.p-label');
+  if(!label || label.querySelector('.p-audio')) return;
+  var SVG = '<svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8" '
+    + 'stroke-linecap="round" stroke-linejoin="round" aria-hidden="true">'
+    + '<path d="M11 5 L6.5 9 H3.5 V15 H6.5 L11 19 Z"/>'
+    + '<path class="pa-w1" d="M14.8 9.4 A4 4 0 0 1 14.8 14.6"/>'
+    + '<path class="pa-w2" d="M17.4 7 A7.6 7.6 0 0 1 17.4 17"/></svg>';
+  label.innerHTML = '<span class="p-label-text">' + label.innerHTML + '</span>';
+  var btn = document.createElement('button');
+  btn.className = 'p-audio'; btn.type = 'button';
+  btn.setAttribute('aria-label', '朗读标题'); btn.title = '朗读标题（英音）';
+  btn.innerHTML = SVG;
+  btn.addEventListener('click', function(){ toggleTitleAudio(btn); });
+  label.appendChild(btn);
+})();
 </script>
 </body>
 </html>

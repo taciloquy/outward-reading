@@ -25,6 +25,7 @@ import subprocess
 
 VOICE = {"uk": "en-GB-SoniaNeural"}   # 2026-11-02 起只保留英音
 BITRATE = 32000                        # 32kbps AAC 单声道
+TMP_DIR = "/tmp/tts-mp3"               # 中间 mp3 落在这里，不落仓库（见 transcode 注释）
 
 
 def fix_radicals(t: str) -> str:
@@ -52,15 +53,17 @@ def html_to_text(en_html: str) -> str:
     return t
 
 
-def transcode(mp3_path: str) -> int:
-    """48kbps mp3 → 32kbps 单声道 m4a，返回 m4a 大小；成功后删除中间 mp3"""
-    m4a_path = mp3_path[:-4] + ".m4a"
+def transcode(mp3_path: str, m4a_path: str) -> int:
+    """48kbps mp3 → 32kbps 单声道 m4a，返回 m4a 大小。
+
+    注意：中间 mp3 一律放在系统临时目录（见 main 里的 TMP_DIR），
+    这里不删除任何仓库内文件——批量生成时逐篇删 mp3 会触发「批量删除确认」而中断。
+    """
     subprocess.run(
         ["afconvert", "-f", "m4af", "-d", "aac", "-b", str(BITRATE), "-c", "1",
          mp3_path, m4a_path],
         check=True, capture_output=True,
     )
-    os.remove(mp3_path)
     return os.path.getsize(m4a_path)
 
 
@@ -83,6 +86,7 @@ async def main():
         yy, mm = date[:4], date[5:7]
         out_dir = os.path.join("articles", yy, mm, "audio", date)
     os.makedirs(out_dir, exist_ok=True)
+    os.makedirs(TMP_DIR, exist_ok=True)
 
     # 任务清单：(文件名主干, 要朗读的文本)
     jobs = []
@@ -111,9 +115,9 @@ async def main():
             if os.path.exists(m4a_path) and os.path.getsize(m4a_path) > 1000:
                 print(f"跳过（已存在）{m4a_path}")
                 continue
-            tmp_mp3 = m4a_path[:-4] + ".mp3"
+            tmp_mp3 = os.path.join(TMP_DIR, stem + ".mp3")
             await gen_one(text, voice_id, tmp_mp3)
-            size = transcode(tmp_mp3)
+            size = transcode(tmp_mp3, m4a_path)
             total += size
             print(f"{m4a_path}  {size/1024:.0f}KB")
     print(f"完成：{out_dir}，新增 {total/1024/1024:.2f}MB")

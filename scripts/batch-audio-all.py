@@ -21,6 +21,11 @@ import sys
 REPO = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
 SCRIPTS = os.path.join(REPO, "scripts")
 
+# 不做的页面（用户明确跳过：学习方法篇无课件 PDF，需重写正文，暂不配音）
+SKIP_PAGES = {
+    "2026-09-16_002.reading.html",
+}
+
 
 def pages():
     out = []
@@ -88,6 +93,8 @@ def main():
 
     todo_gen, todo_patch, skip, nojson = [], [], [], []
     for page in pages():
+        if os.path.basename(page) in SKIP_PAGES:
+            continue
         if only and not any(o in page for o in only):
             continue
         jp = json_for(page)
