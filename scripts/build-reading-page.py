@@ -9,7 +9,7 @@
 JSON 结构见 scripts/reading-content-schema.md（或参考 workbuddy 目录下 10-31 的 content 文件）。
 母版固定用 articles/2026/10/2026-10-30_001.reading.html（含最新打印链路与按钮文案）。
 """
-import json, re, sys, base64, os
+import json, re, sys, base64, os, subprocess
 
 REPO = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
 TEMPLATE = os.path.join(REPO, "articles/2026/10/2026-10-30_001.reading.html")
@@ -212,6 +212,18 @@ def main():
 
     open(sys.argv[2], "w", encoding="utf-8").write(s)
     print(f"已生成 {sys.argv[2]}（{len(s)//1024} KB，段落 {len(paras)}，词汇 {vi}，专名 {len(c['proper'])}）")
+
+    # 9.6 翻页导航：母版里的「上一篇／下一篇」是 10-30 的邻居，直接沿用会链到别人身上。
+    # 装配完立刻按 index.html 的 ARTICLES 重注入一遍（幂等，integrate 里再跑也无害）。
+    nav = os.path.join(REPO, "scripts/inject-seq-nav.py")
+    if os.path.exists(nav):
+        r = subprocess.run([sys.executable, nav, c["date"]],
+                           capture_output=True, text=True)
+        print(r.stdout.strip() or "", end="")
+        if r.returncode != 0:
+            print(f"  ⚠ 翻页导航注入失败（返回 {r.returncode}）：{r.stderr.strip()[:200]}")
+            print("    务必手动跑 scripts/inject-seq-nav.py "
+                  f"{c['date']}，否则翻页会指向母版 10-30 的邻居。")
 
 
 if __name__ == "__main__":
