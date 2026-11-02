@@ -163,8 +163,8 @@ def gen_flow(o: dict) -> str:
         raise ValueError("branches 不能为空")
 
     M = 26
-    card_w = 236
-    gap = 46                                 # 卡片间箭头区
+    card_w = int(o.get("card_w", 236))
+    gap = int(o.get("gap", 46))              # 卡片间箭头区
     title_h = 40
     line_h = 24
     pad = 14
