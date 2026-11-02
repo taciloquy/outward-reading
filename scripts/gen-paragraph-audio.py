@@ -1,7 +1,7 @@
 #!/usr/bin/env python3
 # -*- coding: utf-8 -*-
 """
-逐段朗读音频生成器（para-audio-v3，最终版：仅英音 + 原速，32kbps AAC）
+逐段朗读音频生成器（para-audio-v3 + 标题，仅英音 + 原速，32kbps AAC）
 用法：
     python3 scripts/gen-paragraph-audio.py scripts/content/2026-11-01.json [输出目录]
 
@@ -10,7 +10,8 @@
     - 音色只保留英音 en-GB-SoniaNeural（去掉美音，页面不再提供选择器）
     - 语速只保留原速（去掉慢速档）
     - 码率压缩：edge-tts 原始 48kbps mp3 → 32kbps 单声道 AAC (.m4a)，macOS 自带 afconvert
-输出：<日期>/uk-p<N>.m4a（单篇 9 段 ≈ 1.3MB，62 篇全量 ≈ 80MB）
+    - 标题也要朗读（2026-11-02 追加）：headline.en_html → uk-title.m4a
+输出：uk-title.m4a + uk-p<N>.m4a（9 段 ≈ 1.3MB，62 篇全量 ≈ 80MB）
 串行生成，断点续跑（已存在且非空的文件跳过）。
 依赖：pip3 install edge-tts；macOS 自带 afconvert（Linux 需另装 ffmpeg 并改 transcode 函数）
 """
@@ -83,18 +84,29 @@ async def main():
         out_dir = os.path.join("articles", yy, mm, "audio", date)
     os.makedirs(out_dir, exist_ok=True)
 
-    paras = []
+    # 任务清单：(文件名主干, 要朗读的文本)
+    jobs = []
+
+    # ① 标题（headline 英文，两行 span 已被压成一行空格分隔）
+    head = data.get("headline") or {}
+    head_text = html_to_text(head.get("en_html", ""))
+    if head_text:
+        jobs.append(("uk-title", head_text))
+    else:
+        print("警告：headline.en_html 为空，跳过标题音频")
+
+    # ② 正文各段
     for i, p in enumerate(data["paragraphs"], 1):
         text = html_to_text(p["en_html"])
         if not text:
             print(f"警告：P{i} 抽取文本为空，跳过")
             continue
-        paras.append((i, text))
+        jobs.append((f"uk-p{i}", text))
 
     total = 0
-    for key, voice_id in VOICE.items():
-        for i, text in paras:
-            m4a_path = os.path.join(out_dir, f"{key}-p{i}.m4a")
+    for voice_id in VOICE.values():
+        for stem, text in jobs:
+            m4a_path = os.path.join(out_dir, stem + ".m4a")
             # 已存在且非空则跳过（断点续跑）
             if os.path.exists(m4a_path) and os.path.getsize(m4a_path) > 1000:
                 print(f"跳过（已存在）{m4a_path}")

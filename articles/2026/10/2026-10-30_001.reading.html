@@ -1354,6 +1354,37 @@ function toggleParaAudio(btn, n){
     label.appendChild(btn);
   });
 })();
+/* ===== 标题朗读 para-audio-title-v1 ===== */
+function toggleTitleAudio(btn){
+  if(paraPlayingBtn === btn){ stopParaAudio(); return; }
+  stopParaAudio();
+  if(!paraAudioEl) paraAudioEl = new Audio();
+  paraAudioEl.src = PARA_AUDIO_BASE + '/uk-title.m4a';
+  paraAudioEl.onended = stopParaAudio;
+  paraAudioEl.onerror = function(){
+    stopParaAudio(); btn.classList.add('error'); btn.title = '标题音频未生成';
+  };
+  paraAudioEl.play().catch(function(){});
+  paraPlayingBtn = btn; btn.classList.add('playing');
+}
+(function initTitleAudio(){
+  var sec = document.getElementById('p-headline');
+  if(!sec) return;
+  var label = sec.querySelector('.p-label');
+  if(!label || label.querySelector('.p-audio')) return;
+  var SVG = '<svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8" '
+    + 'stroke-linecap="round" stroke-linejoin="round" aria-hidden="true">'
+    + '<path d="M11 5 L6.5 9 H3.5 V15 H6.5 L11 19 Z"/>'
+    + '<path class="pa-w1" d="M14.8 9.4 A4 4 0 0 1 14.8 14.6"/>'
+    + '<path class="pa-w2" d="M17.4 7 A7.6 7.6 0 0 1 17.4 17"/></svg>';
+  label.innerHTML = '<span class="p-label-text">' + label.innerHTML + '</span>';
+  var btn = document.createElement('button');
+  btn.className = 'p-audio'; btn.type = 'button';
+  btn.setAttribute('aria-label', '朗读标题'); btn.title = '朗读标题（英音）';
+  btn.innerHTML = SVG;
+  btn.addEventListener('click', function(){ toggleTitleAudio(btn); });
+  label.appendChild(btn);
+})();
 </script>
 </body>
 </html>

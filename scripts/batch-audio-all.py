@@ -6,10 +6,10 @@
     python3 scripts/batch-audio-all.py [--dry-run] [--only 2026-09-01,2026-09-03]
 
 对 articles/2026/{09,10,11}/ 下每个 *.reading.html：
-  1. 找 scripts/content/<日期>.json（.part1/.part2 等后缀自动忽略；无 JSON 跳过并提示）
-  2. 音频目录 articles/YYYY/MM/audio/<日期>/ 缺哪个 uk-pN.m4a 就补生成（gen-paragraph-audio.py 断点续跑）
-  3. 页面没有 para-audio-v3 标记就打补丁（add-paragraph-audio.py）
-已完成的自动跳过，可随时中断重跑。11-01 已是定稿，也会被自动跳过。
+  1. 找 scripts/content/<日期>.json（.part1/.part2 等后缀自动忽略；无 JSON 时从页面正文兜底抽取，含标题）
+  2. 音频目录 articles/YYYY/MM/audio/<日期>/ 缺哪个 uk-pN.m4a / uk-title.m4a 就补生成（gen-paragraph-audio.py 断点续跑）
+  3. 页面缺 para-audio-v3 或 para-audio-title-v1 标记就打补丁（add-paragraph-audio.py）
+已完成的自动跳过，可随时中断重跑。11-01/11-02 已是定稿，也会被自动跳过。
 """
 import glob
 import json
@@ -43,7 +43,7 @@ def json_for(page):
 
 def extract_json(page):
     """早期手工页（10-29/10-30 等）没有 content JSON，
-    从页面自身抽取各段英文到临时 JSON，供音频生成使用。"""
+    从页面自身抽取标题与各段英文到临时 JSON，供音频生成使用。"""
     d = re.match(r"(\d{4}-\d{2}-\d{2})", os.path.basename(page)).group(1)
     s = open(page, encoding="utf-8").read()
     paras = []
@@ -53,20 +53,29 @@ def extract_json(page):
         paras.append({"en_html": m.group(2)})
     if not paras:
         return None
+    data = {"date": d, "paragraphs": paras}
+    # 标题英文（用于 uk-title.m4a）
+    i = s.find('<section class="paragraph headline-block"')
+    if i >= 0:
+        j = s.find("</section>", i)
+        m = re.search(r'<div class="headline-en">(.*?)</div>', s[i:j], re.S)
+        if m:
+            data["headline"] = {"en_html": m.group(1)}
     tmp = f"/tmp/audio-json-{d}.json"
-    json.dump({"date": d, "paragraphs": paras}, open(tmp, "w", encoding="utf-8"),
-              ensure_ascii=False)
+    json.dump(data, open(tmp, "w", encoding="utf-8"), ensure_ascii=False)
     return tmp
 
 
 def audio_ok(json_path, page_dir):
-    """该日期需要的 uk-pN.m4a 是否全部存在"""
+    """该日期需要的 uk-title.m4a 与 uk-pN.m4a 是否全部存在"""
     data = json.load(open(json_path, encoding="utf-8"))
     n = len(data["paragraphs"])
+    need = [f"uk-p{i}.m4a" for i in range(1, n + 1)]
+    if (data.get("headline") or {}).get("en_html"):
+        need.append("uk-title.m4a")
     return all(
-        os.path.exists(os.path.join(page_dir, f"uk-p{i}.m4a"))
-        and os.path.getsize(os.path.join(page_dir, f"uk-p{i}.m4a")) > 1000
-        for i in range(1, n + 1)
+        os.path.exists(os.path.join(page_dir, f)) and os.path.getsize(os.path.join(page_dir, f)) > 1000
+        for f in need
     )
 
 
@@ -90,7 +99,7 @@ def main():
         adir = os.path.join(REPO, "articles", yy, mm, "audio", d)
         need_gen = not audio_ok(jp, adir)
         s = open(page, encoding="utf-8").read()
-        need_patch = "para-audio-v3" not in s
+        need_patch = "para-audio-v3" not in s or "para-audio-title-v1" not in s
         if need_gen:
             todo_gen.append((page, jp, adir))
         if need_patch:

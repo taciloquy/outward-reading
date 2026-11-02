@@ -6,16 +6,18 @@
     python3 scripts/add-paragraph-audio.py <精读页.html> [--base audio/2026-11-01]
 
 - 在每个 Paragraph N 的 .p-label 里注入描边喇叭按钮（SVG，JS 动态注入），点击朗读/停止本段
+- 标题（#p-headline）的 .p-label 同样注入一个按钮，朗读 uk-title.m4a（标记 para-audio-title-v1）
 - 2026-11-02 用户决策：音色固定英音 Sonia、语速固定原速，**不提供任何选择器**
   （v1 顶栏切换 / v2 段内胶囊均已废弃）
 - CSS：按钮态样式 + 播放中声波动画 + 打印隐藏
 - 音频文件由 scripts/gen-paragraph-audio.py（v3）预生成：
-    <base>/uk-p<N>.m4a（英音原速，32kbps AAC 单声道）
+    <base>/uk-title.m4a、<base>/uk-p<N>.m4a（英音原速，32kbps AAC 单声道）
 """
 import re
 import sys
 
 MARK = "para-audio-v3"
+TITLE_MARK = "para-audio-title-v1"
 
 CSS = """/* ===== 逐段朗读 para-audio-v3 ===== */
 .p-label{display:flex;align-items:center;gap:8px}
@@ -77,6 +79,40 @@ function toggleParaAudio(btn, n){
 })();
 """
 
+# 标题朗读：复用 v3 的按钮样式与播放器全局变量，独立标记，可单独增补
+TITLE_JS = r"""/* ===== 标题朗读 para-audio-title-v1 ===== */
+function toggleTitleAudio(btn){
+  if(paraPlayingBtn === btn){ stopParaAudio(); return; }
+  stopParaAudio();
+  if(!paraAudioEl) paraAudioEl = new Audio();
+  paraAudioEl.src = PARA_AUDIO_BASE + '/uk-title.m4a';
+  paraAudioEl.onended = stopParaAudio;
+  paraAudioEl.onerror = function(){
+    stopParaAudio(); btn.classList.add('error'); btn.title = '标题音频未生成';
+  };
+  paraAudioEl.play().catch(function(){});
+  paraPlayingBtn = btn; btn.classList.add('playing');
+}
+(function initTitleAudio(){
+  var sec = document.getElementById('p-headline');
+  if(!sec) return;
+  var label = sec.querySelector('.p-label');
+  if(!label || label.querySelector('.p-audio')) return;
+  var SVG = '<svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8" '
+    + 'stroke-linecap="round" stroke-linejoin="round" aria-hidden="true">'
+    + '<path d="M11 5 L6.5 9 H3.5 V15 H6.5 L11 19 Z"/>'
+    + '<path class="pa-w1" d="M14.8 9.4 A4 4 0 0 1 14.8 14.6"/>'
+    + '<path class="pa-w2" d="M17.4 7 A7.6 7.6 0 0 1 17.4 17"/></svg>';
+  label.innerHTML = '<span class="p-label-text">' + label.innerHTML + '</span>';
+  var btn = document.createElement('button');
+  btn.className = 'p-audio'; btn.type = 'button';
+  btn.setAttribute('aria-label', '朗读标题'); btn.title = '朗读标题（英音）';
+  btn.innerHTML = SVG;
+  btn.addEventListener('click', function(){ toggleTitleAudio(btn); });
+  label.appendChild(btn);
+})();
+"""
+
 
 def main():
     args = sys.argv[1:]
@@ -92,26 +128,36 @@ def main():
             d = m.group(1)
             base = "audio/" + d
     s = open(page, encoding="utf-8").read()
-    if MARK in s:
-        print(f"已打过补丁（{MARK}），跳过：{page}")
-        return
     for old in ("para-audio-v1", "para-audio-v2"):
         if old in s:
             print(f"检测到旧补丁 {old}，请先还原页面再打 v3："
                   f"git checkout HEAD~N -- <页面>（N = 该页面打补丁的次数）")
             sys.exit(2)
 
-    # 1) CSS：插在 </style> 前
-    assert s.count("</style>") == 1, "预期单个 </style>"
-    s = s.replace("</style>", CSS + "</style>", 1)
+    have_body = MARK in s
+    have_title = TITLE_MARK in s
+    if have_body and have_title:
+        print(f"已打过补丁（{MARK} + {TITLE_MARK}），跳过：{page}")
+        return
 
-    # 2) JS：插在 </script> 前
-    assert s.count("</script>") == 1, "预期单个 </script>"
-    js = JS.replace("__AUDIO_BASE__", base)
-    s = s.replace("</script>", js + "</script>", 1)
+    done = []
+    if not have_body:
+        # 1) CSS：插在 </style> 前
+        assert s.count("</style>") == 1, "预期单个 </style>"
+        s = s.replace("</style>", CSS + "</style>", 1)
+        # 2) JS：插在 </script> 前
+        assert s.count("</script>") == 1, "预期单个 </script>"
+        s = s.replace("</script>", JS.replace("__AUDIO_BASE__", base) + "</script>", 1)
+        done.append("正文段落")
+
+    if not have_title:
+        # 标题按钮复用 v3 的 CSS 与播放器全局变量，因此必须在正文补丁之后注入
+        assert s.count("</script>") == 1, "预期单个 </script>"
+        s = s.replace("</script>", TITLE_JS + "</script>", 1)
+        done.append("标题")
 
     open(page, "w", encoding="utf-8").write(s)
-    print(f"已打补丁 {MARK} → {page}（音频目录 {base}，固定英音原速）")
+    print(f"已打补丁 {' + '.join(done)} → {page}（音频目录 {base}，固定英音原速）")
 
 
 if __name__ == "__main__":
