@@ -1,0 +1,61 @@
+{
+ "date": "2026-11-02",
+ "h1": "大国掰手腕，小国发大财：谁在中美竞争中坐收渔利？",
+ "category": "英国《经济学人》外刊讲解 第1216天",
+ "source_label": "The Economist",
+ "read_minutes": 18,
+ "nav_hint": "Critical minerals and the US-China rivalry",
+ "headline_en": "The countries making a fortune from the US-China rivalry | Critical-mineral profits could transform a lucky few",
+ "headline_marks": [
+  ["make a fortune", "making a fortune"],
+  ["rivalry", "rivalry"],
+  ["critical mineral / critical minerals", "Critical-mineral"],
+  ["a lucky few", "a lucky few"]
+ ],
+ "headline_zh": "大国掰手腕，小国发横财——谁在中美对抗中坐收渔利？关键矿产的暴利，或许能彻底改写少数几个幸运儿的命运——但这份\"幸运\"，只属于寥寥数人。",
+ "sources_note": "本文选自 The Economist 2026 年 10 月 29 日文章，由《早安英文》讲解。",
+ "practice_intro": "请将以下中文句子翻译为英文（参考答案见后）。",
+ "critical_en": "",
+ "critical_zh": "",
+ "paragraph_overrides": {
+  "7": "Two other big winners are Brazil and Kazakhstan. But they are nevertheless benefiting mightily from American and Chinese interest. America’s approach has been the more focused. In Brazil it has set about building a rare-earth empire. In September USA Rare Earth took over Serra Verde, the only producer of four of the scarcest such minerals outside Asia. A further package pulled together by the Department of War and a loan from the DFC will push American investment to nearly $5bn."
+ },
+ "marks": {
+  "1": [["for better or worse", "For better or worse"], ["hinge on", "hinge on"], ["sophisticated", "sophisticated"], ["bounty", "bounty"], ["make a big difference to", "make a big difference to"], ["spur", "spur"]],
+  "2": [["supercycle", "supercycle"], ["propel", "propelled"], ["electrification", "electrification"], ["minerals diplomacy", "minerals diplomacy"], ["alive and well", "alive and well"], ["-themed", "mineral-themed"], ["court", "courting"], ["capable of", "capable of"]],
+  "3": [["quintuple", "quintuple"], ["capture", "capture"], ["subterranean", "subterranean"], ["cosiness", "cosiness"], ["at speed", "at speed"], ["palpable", "palpable"], ["rein in", "rein in"], ["impose on", "imposed on"], ["retaliate", "retaliated"], ["chokehold", "chokehold"]],
+  "4": [["wheedle", "wheedling"], ["in response", "In response"], ["splurge", "splurged"]],
+  "5": [["beneficiary", "beneficiary"], ["conflict-torn", "conflict-torn"], ["landlocked", "landlocked"], ["collapse", "collapsed"], ["pledge", "pledged"], ["churn out", "churn out"]],
+  "6": [["in talks to", "in talks to"], ["concern", "concern"], ["indigent", "indigent"], ["equivalent to", "equivalent to"]],
+  "7": [["mightily", "mightily"], ["set about", "set about"], ["rare-earth empire", "rare-earth empire"], ["take over", "took over"], ["scarce / scarcest", "scarcest"]],
+  "8": [["eye", "eyeing"], ["tungsten", "tungsten"], ["backed by", "backed by"], ["stump up", "stumping up"], ["recruit", "recruiting"], ["spurn", "spurn"], ["advances", "advances"], ["pick a side", "pick a side"], ["play out", "played out"]],
+  "9": [["mineral-hunter", "mineral-hunters"], ["pile into", "piling into"], ["handful", "handful"], ["half-finished", "half-finished"], ["dormant", "dormant"], ["revive", "revived"]],
+  "10": [["smash-and-grab", "smash-and-grab"], ["prospect", "prospect"], ["outstrip", "outstrip"], ["the red metal", "the red metal"], ["cut back", "cut back"], ["decaying", "decaying"]],
+  "11": [["in theory", "in theory"], ["pinpoint", "pinpoint"], ["meddle", "meddling"], ["price signal", "price signals"], ["untapped", "untapped"], ["worth the hassle", "worth the hassle"], ["paralysis", "paralysis"], ["payday", "payday"]]
+ },
+ "mindmap": {
+  "template": "scripts/content/2026-11-01.json",
+  "aria": "中美关键矿产竞赛与小国红利思维导图",
+  "alt": "中美争抢关键矿产与小国发财（手绘版）",
+  "repl": [
+   ["天才詹姆斯", "中美抢矿"],
+   ["助特朗普赢下白宫", "小国发横财"],
+   ["他到底是谁（¶1–2）", "超级周期（¶1–2）"],
+   ["37岁光头、四孩父亲，与米勒同为特朗普智囊", "穷国命运系于地底资源"],
+   ["《时代》称他是华盛顿最重要、却没人听过的人", "中美争抢关键矿产"],
+   ["靠数据起家，22岁在佛州政坛磨出政治本领", "稀土外交方兴未艾"],
+   ["他怎么打赢（¶3–4）", "非洲赢家（¶3–5）"],
+   ["先跟德桑蒂斯，再与怀尔斯结成关键同盟", "世行矿产基金扩至两百亿"],
+   ["认定电视已过气，关掉实体办公室改打线上", "刚果金成最大赢家"],
+   ["把催票外包给超级政治行动委员会，挨了不少骂", "光有矿还不够，还得快"],
+   ["白宫与钱袋（¶5–6）", "美国回归（¶6–8）"],
+   ["进白宫当副幕僚长，一口气管三块事务", "洽购嘉能可两矿四成股权"],
+   ["特朗普在节日招待会上亲口夸他是政治天才", "巴西稀土：亚洲之外唯一"],
+   ["接手 MAGA Inc，账上4.15亿美元", "哈萨克钨矿，总统儿子入股"],
+   ["眼下的麻烦（¶7–9）", "隐忧与结局（¶9–11）"],
+   ["特朗普不在选票上，这批人本来就懒得投票", "抢的是同一批有旧矿的国家"],
+   ["去塞族共和国收钱做顾问，被曝出后挨批", "短期掠夺，长期投资瘫痪"],
+   ["生活成本压不住，惨败就得当替罪羊", "新矿投产动辄十年以上"]
+  ]
+ }
+}
