@@ -200,6 +200,11 @@ def main():
 </section>'''
     s = re.sub(r'<section class="practice" id="practice">.*?</section>', lambda _: practice, s, count=1, flags=re.S)
 
+    # 9.5 音频目录：母版里 PARA_AUDIO_BASE 是母版自己的日期，改成新文章的
+    if "PARA_AUDIO_BASE" in s:
+        s = re.sub(r"var PARA_AUDIO_BASE = 'audio/[\d-]+'",
+                   f"var PARA_AUDIO_BASE = 'audio/{c['date']}'", s)
+
     open(sys.argv[2], "w", encoding="utf-8").write(s)
     print(f"已生成 {sys.argv[2]}（{len(s)//1024} KB，段落 {len(paras)}，词汇 {vi}，专名 {len(c['proper'])}）")
 
