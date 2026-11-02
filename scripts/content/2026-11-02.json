@@ -1,0 +1,920 @@
+{
+ "date": "2026-11-02",
+ "title_tag": "大国掰手腕，小国发大财：谁在中美竞争中坐收渔利？—— 英国《经济学人》外刊讲解第1216天",
+ "h1": "大国掰手腕，小国发大财：谁在中美竞争中坐收渔利？",
+ "source_label": "The Economist",
+ "category": "英国《经济学人》外刊讲解 第1216天",
+ "read_minutes": 18,
+ "nav_hint": "Critical minerals and the US-China rivalry",
+ "headline": {
+  "en_html": "<span>The countries <mark class=\"voc\">making a fortune</mark> from the US-China <mark class=\"voc\">rivalry</mark></span> <span><mark class=\"voc\">Critical-mineral</mark> profits could transform <mark class=\"voc\">a lucky few</mark></span>",
+  "zh": "大国掰手腕，小国发横财——谁在中美对抗中坐收渔利？关键矿产的暴利，或许能彻底改写少数几个幸运儿的命运——但这份\"幸运\"，只属于寥寥数人。",
+  "notes": [
+   {
+    "w": "make a fortune",
+    "ipa": "/meɪk ə ˈfɔːrtʃən/",
+    "pos": "phrase",
+    "en": "make a fortune means to earn or obtain a very large amount of money",
+    "zh": "\"造出一大笔钱\"（fortune 来自罗马神话命运女神Fortuna，本义\"命运、运气\"——古人认为有钱没钱靠命，钱是命运塞给你的），财富语境核心义为发大财、赚大钱",
+    "ctx": "作者不用earn（一分耕耘一分收获地挣）、不用get rich（变富），而用make a fortune——这钱是\"风口上躺着发出来的\"，带运气味。且用进行时 making，现在分词作后置定语修饰the countries，强调\"正在发生\"。标题埋了钩子：主角是中美对抗，发财的却是第三方国家",
+    "ex1": "She made a fortune buying apartments before the boom.她在房价暴涨前买房发了大财。",
+    "ex2": "This ring cost me a fortune, but she loves it.这戒指花了我一大笔钱，但她很喜欢。"
+   },
+   {
+    "w": "rivalry",
+    "ipa": "/ˈraɪvəlri/",
+    "pos": "n.",
+    "en": "rivalry means a situation in which people, companies or countries compete with each other for the same thing",
+    "zh": "\"共河而争\"（rival 来自拉丁语 rivalis——rivus 是\"河\"，rivalis 是\"同住一条河边、共用一条河的人\"），竞争语境核心义为对抗、较劲、你死我活的竞争",
+    "ctx": "",
+    "ex1": "Sibling rivalry is common in families with two children close in age.年龄相近的两个孩子之间，兄弟姐妹的争宠较劲很常见。",
+    "ex2": "The rivalry between the two tech giants has lasted a decade.这两家科技巨头之间的对抗已经持续了十年。"
+   },
+   {
+    "w": "critical mineral / critical minerals",
+    "ipa": "/ˈkrɪtɪkl ˈmɪnərəl/",
+    "pos": "n.",
+    "en": "a critical mineral is a mineral considered essential for a country's economy, technology or national security, whose supply is at risk",
+    "zh": "\"没它不行的矿\"，政策与产业语境核心义为关键矿产、战略矿产",
+    "ctx": "一句话记死——AI 靠芯片，芯片要镓、锗、铟；电动车靠电池，电池要锂、钴、铜；导弹战斗机要稀土、要钨。缺一样，手机、汽车、军队全停摆。这是全文的\"命脉\"概念，理解它，后面所有矿名才不是空的",
+    "ex1": "Governments are racing to secure critical mineral supplies for their industries.各国政府正竞相为本国产业锁定关键矿产供应。",
+    "ex2": "The new law is designed to protect domestic critical mineral resources.这项新法旨在保护本国的关键矿产资源。"
+   },
+   {
+    "w": "a lucky few",
+    "ipa": "/ə ˈlʌki fjuː/",
+    "pos": "phrase",
+    "en": "a lucky few means a small number of people or places who are fortunate",
+    "zh": "\"少数几个幸运儿\"（lucky 幸运+ few 少数），描述语境核心义为寥寥几个幸运儿",
+    "ctx": "few 的坑——few 单独用是\"几乎没有\"（否定），a few 是\"几个\"（肯定），the few 是\"少数派\"。作者用a lucky few 而非some/many，一落笔就埋好结论：能从这波矿产潮发财的，不是所有资源国，只有寥寥几个。lucky 尤其损——它们发财靠命好、脚下正好有矿，不靠本事",
+    "ex1": "Only a lucky few got tickets to the final. 只有少数几个幸运儿买到了决赛门票。",
+    "ex2": "Few countries have both the deposits and the ability to process them. 几乎没有哪个国家既有矿藏、又有加工能力。"
+   }
+  ]
+ },
+ "paragraphs": [
+  {
+   "en_html": "<mark class=\"voc\">For better or worse</mark>, many poor countries’ fortunes <mark class=\"voc\">hinge on</mark> their natural resources. Since their industries are less <mark class=\"voc\">sophisticated</mark> and their service sectors smaller than in rich places, an underground <mark class=\"voc\">bounty</mark> can <mark class=\"voc\">make a big difference to</mark> their economic prospects. Rising global demand for oil or ores can <mark class=\"voc\">spur</mark> growth, attract investment and fill fiscal holes.",
+   "zh": "无论好坏，许多穷国的命运都系于脚下的资源——它们的工业不如富国精密，服务业规模也更小，地底下的慷慨馈赠，便成了改写经济前景的那张牌。全球对石油与矿石的需求不断攀升，恰似一记马刺，催动增长、引来投资，也补上了政府的财政窟窿。",
+   "notes": [
+    {
+     "w": "for better or worse",
+     "ipa": "/fɔːr ˈbetər ɔːr wɜːrs/",
+     "pos": "phrase",
+     "en": "for better or worse means whatever the outcome is, whether it is good or bad",
+     "zh": "\"无论好坏\"（出自西方婚礼誓词for better, for worse, for richer, for poorer），承诺与宿命语境核心义为无论如何、不管好坏",
+     "ctx": "作者用婚礼誓词开头，暗示穷国与地底资源像一对\"被命运绑死的夫妻\"——这婚离不掉，好坏都捆在一起。也埋伏笔：资源可能是祝福，也可能是诅咒",
+     "ex1": "For better or worse, the two families are now tied together.无论如何，这两个家族如今已经绑在了一起。",
+     "ex2": "She stayed with him, for better or worse, for thirty years.无论好坏，她跟他一起过了三十年。"
+    },
+    {
+     "w": "hinge on",
+     "ipa": "/hɪndʒ ɒn/",
+     "pos": "phrasal v.",
+     "en": "hinge on means to depend completely on one thing",
+     "zh": "\"铰在……上\"（hinge 门上的合页——门整个吊在合页上，门会不会掉全看它），取决语境核心义为完全取决于、悬于一点",
+     "ctx": "比depend on 狠——depend on 是\"依赖\"，中性；hinge on 是\"整件事悬在这一个点上，这点崩了全完蛋\"。穷国的命像一扇门吊在合页上，那个合页就是地底下的矿",
+     "ex1": "The whole deal hinges on whether the bank approves the loan.整笔交易就取决于银行是否批准这笔贷款。",
+     "ex2": "Her future hinges on the result of this one exam.她的未来就悬在这一场考试的结果上。"
+    },
+    {
+     "w": "sophisticated",
+     "ipa": "/səˈfɪstɪkeɪtɪd/",
+     "pos": "adj.",
+     "en": "sophisticated means highly developed and complex; it can also describe a person who is worldly and knowledgeable",
+     "zh": "\"有智慧的\"（词根soph- 来自希腊语sophia\"智慧\"；古希腊智者叫sophist），工业语境核心义为复杂精密的、先进的；另一义为世故老练的",
+     "ctx": "industries are less sophisticated 取\"精密、高级\"义。与advanced （先进）、developed（发达）不同，sophisticated 强调\"内里复杂、有技术含量\"。说一个工业less sophisticated，不是说它没工业，是它干的是低端初级活",
+     "ex1": "The new factory uses highly sophisticated machinery.新工厂使用高度精密的机器。",
+     "ex2": "Poorer countries often have less sophisticated industries than rich ones.穷国的工业通常不如富国精密高级。"
+    },
+    {
+     "w": "bounty",
+     "ipa": "/ˈbaʊnti/",
+     "pos": "n.",
+     "en": "bounty means a generous gift, or money given as a reward",
+     "zh": "\"好处、赠予\"（词根bon- 来自拉丁语bonus\"好\"；同源bonus 奖金、bon voyage 一路顺风），财富语境核心义为慷慨的赠予、丰厚的赏金",
+     "ctx": "",
+     "ex1": "The region enjoys a bounty of natural resources.这个地区享有丰富的自然资源。",
+     "ex2": "A bounty hunter tracked down the escaped criminal for the reward.一名赏金猎人为拿赏金追捕到了那名逃犯。"
+    },
+    {
+     "w": "make a big difference to",
+     "ipa": "/meɪk ə bɪɡ ˈdɪfərəns tə/",
+     "pos": "phrase",
+     "en": "make a big difference to means to have a large and important effect on someone or something",
+     "zh": "\"制造出巨大的不同\"，影响语境核心义为对……产生巨大影响",
+     "ctx": "高频短语make a difference（产生影响）的加强版。注意介词是to—— make a difference TO something。有没有这笔矿，对穷国是天差地别",
+     "ex1": "A little extra sleep can make a big difference to your mood. 多睡一小会儿能对你的情绪产生很大影响。",
+     "ex2": "Foreign investment makes a big difference to a small economy. 外资对小体量经济能产生巨大影响。"
+    },
+    {
+     "w": "spur",
+     "ipa": "/spɜːr/",
+     "pos": "v. & n.",
+     "en": "spur means to encourage something to happen or develop faster",
+     "zh": "\"用马刺踢一脚\"（spur 牛仔靴后跟带尖刺的金属片，往马肚子一夹马就往前冲），刺激语境核心义为刺激、促进、推动",
+     "ctx": "比encourage（拍肩膀\"加油\"）狠——是拿马刺\"踢你一脚\"。全球需求一涨，像往穷国经济屁股上踢了一马刺。另记高频习语on the spur of the moment（一时冲动）",
+     "ex1": "Rising demand for copper has spurred investment in new mines. 铜需求的上升刺激了对新矿的投资。",
+     "ex2": "On the spur of the moment, I booked a flight to the coast. 一时冲动，我订了张飞往海边的机票。"
+    }
+   ]
+  },
+  {
+   "en_html": "Now the world may be entering another <mark class=\"voc\">supercycle</mark>, <mark class=\"voc\">propelled</mark> by the race between America and China to secure supplies of minerals critical to artificial intelligence, <mark class=\"voc\">electrification</mark> and other technologies expected to define the 21st century. Chinese <mark class=\"voc\">minerals diplomacy</mark> is <mark class=\"voc\">alive and well</mark>. Donald Trump’s administration has already signed <mark class=\"voc\">mineral-themed</mark> agreements with more than 20. Today the rivals are both <mark class=\"voc\">courting</mark> a much smaller group of countries <mark class=\"voc\">capable of</mark> getting minerals out of the ground quickly.",
+   "zh": "如今，世界或许正迈入又一轮超级周期，推手正是中美两国那场争夺关键矿产供应的竞赛——这些矿产，关乎人工智能、电气化，以及那些注定要定义21世纪的技术。中国的矿产外交方兴未艾，川总政府也已与二十余国签下矿产协议。然而时至今日，两个对手真正放下身段去讨好的，是寥寥无几、能把矿产快速挖出地面的国家。",
+   "notes": [
+    {
+     "w": "supercycle",
+     "ipa": "/ˈsuːpərsaɪkl/",
+     "pos": "n.",
+     "en": "supercycle means an unusually long period of strong growth and high prices for commodities",
+     "zh": "\"超级周期\"（super- 超级+ cycle 周期），经济语境核心义为大宗商品价格的超长上涨期",
+     "ctx": "矿、油、铜这些原材料价格不是年年平稳，而是\"憋很多年猛涨一大波\"。上一轮是2000 年代中国崛起推动——铁矿石从13 涨到190 美元/吨（13 倍）、铜 1800 到8900（近4 倍）、石油25 到147（近6 倍）。每一轮超级周期背后都站着一个\"巨人在崛起\"",
+     "ex1": "Many analysts believe we are entering a new commodity supercycle. 许多分析师认为我们正进入一个新的大宗商品超级周期。",
+     "ex2": "The last supercycle was driven by China's rapid urbanisation. 上一轮超级周期是由中国快速城市化推动的。"
+    },
+    {
+     "w": "propel",
+     "ipa": "/prəˈpel/",
+     "pos": "v.",
+     "en": "propel means to push or drive something forward",
+     "zh": "\"往前推\"（pro- 向前+ pel 推；同源propeller 螺旋桨），推动语境核心义为推动、推进",
+     "ctx": "",
+     "ex1": "The boom was propelled by a race between the two superpowers. 这波繁荣是由两个超级大国之间的竞赛推动的。",
+     "ex2": "Her first film propelled her to international fame. 她的第一部电影把她推向了国际声誉。"
+    },
+    {
+     "w": "electrification",
+     "ipa": "/ɪˌlektrɪfɪˈkeɪʃn/",
+     "pos": "n.",
+     "en": "electrification means the process of changing something so that it uses electricity instead of other forms of power",
+     "zh": "\"电气化\"（electr- 电+ -ification ……化），产业语境核心义为电气化、把烧油烧煤的东西换成用电",
+     "ctx": "",
+     "ex1": "The electrification of transport is driving demand for lithium and copper. 交通电气化正推高对锂和铜的需求。",
+     "ex2": "Rural electrification brought power to millions of homes. 农村电气化为数百万家庭带来了电力。"
+    },
+    {
+     "w": "minerals diplomacy",
+     "ipa": "/ˈmɪnərəlz dɪˈploʊməsi/",
+     "pos": "n. phrase",
+     "en": "minerals diplomacy means the use of diplomatic and financial tools by a government to secure access to minerals abroad",
+     "zh": "\"矿产外交\"（minerals 矿产+ diplomacy 外交），国际事务语境核心义为矿产外交、用外交手段去搞矿",
+     "ctx": "就是政府出面，去资源国投资、签协议、拿矿权。Chinese minerals diplomacy is alive and well 是客观陈述——在矿产外交上中国一直走得很早、很活跃",
+     "ex1": "Minerals diplomacy has become central to both powers' foreign policy. 矿产外交已成为两个大国对外政策的核心。",
+     "ex2": "The country uses resource diplomacy to win allies in the region. 该国利用资源外交在地区内争取盟友。"
+    },
+    {
+     "w": "alive and well",
+     "ipa": "/əˈlaɪv ənd wel/",
+     "pos": "phrase",
+     "en": "alive and well means still active and successful, and not in decline",
+     "zh": "\"活着且健康\"，状态语境核心义为依然活跃、一点没衰败",
+     "ctx": "固定短语。形容某个做法、机构、关系\"还活得好好的\"。Chinese minerals diplomacy is alive and well——中国的矿产外交依然活跃、势头不减",
+     "ex1": "Despite the rumours, the old tradition is alive and well. 尽管有流言，这项老传统依然活跃。",
+     "ex2": "The industry, once thought doomed, is alive and well. 这个一度被认为没救的行业依然生机勃勃。"
+    },
+    {
+     "w": "-themed",
+     "ipa": "/θiːmd/",
+     "pos": "suffix",
+     "en": "-themed is used after a noun to form an adjective meaning \"having a particular theme or subject\"",
+     "zh": "\"以……为主题的\"（theme 主题+ -d），构词语境核心义为……主题的",
+     "ctx": "mineral-themed agreements 矿产主题的协议。这个后缀极能产—— music-themed 音乐主题、Christmas-themed 圣诞主题、horror-themed 恐怖主题",
+     "ex1": "The two sides signed a series of mineral-themed agreements. 双方签署了一系列矿产主题的协议。",
+     "ex2": "The hotel threw a Christmas-themed party for guests. 这家酒店为客人办了一场圣诞主题的派对。"
+    },
+    {
+     "w": "court",
+     "ipa": "/kɔːrt/",
+     "pos": "v.",
+     "en": "court (as a verb) means to try to please someone or get their support, often in a way that seems flattering",
+     "zh": "\"求爱、献殷勤\"（court 本义庭院、法庭，动词化\"追、讨好\"），拉拢语境核心义为献殷勤、讨好、争取",
+     "ctx": "最原始画面是小伙子追姑娘、送花献殷勤。引申为\"放下身段去讨好争取\"。中美两个大国为矿，像追对象一样去哄一群小国——平时穷国求大国，现在大国求穷国，本身是反转。另记court disaster（自找麻烦）",
+     "ex1": "Both superpowers are courting the same small group of countries. 两个超级大国都在讨好同样那一小群国家。",
+     "ex2": "By ignoring the warning, he was courting disaster. 无视警告，他是在自找麻烦。"
+    },
+    {
+     "w": "capable of",
+     "ipa": "/ˈkeɪpəbl əv/",
+     "pos": "adj. phrase",
+     "en": "capable of means having the ability or qualities necessary to do something",
+     "zh": "\"装得下、办得到的\"（capable 有能力的+ of），能力语境核心义为有能力做……",
+     "ctx": "",
+     "ex1": "Only a few countries are capable of producing these minerals quickly. 只有少数几个国家能快速生产这些矿物。",
+     "ex2": "She is more than capable of running the whole operation. 她完全有能力运营整个业务。"
+    }
+   ]
+  },
+  {
+   "en_html": "On October 16th the World Bank said it would <mark class=\"voc\">quintuple</mark>, to $20bn, a fund to help countries <mark class=\"voc\">capture</mark> some of the surging demand. Yet in order to succeed, their governments cannot rely only on their <mark class=\"voc\">subterranean</mark> resources or their <mark class=\"voc\">cosiness</mark> with America and China. They must also show ability to supply stuff <mark class=\"voc\">at speed</mark>. The urgency is <mark class=\"voc\">palpable</mark>. In May 2025 Mr Trump was forced to <mark class=\"voc\">rein in</mark> tariffs he had <mark class=\"voc\">imposed on</mark> Chinese goods, after China <mark class=\"voc\">retaliated</mark> by restricting exports of seven rare-earth minerals used to make semiconductors and weapons. America wants to break China’s <mark class=\"voc\">chokehold</mark>.",
+   "zh": "10月16日，世界银行宣布将一支基金扩至五倍、达200亿美元，以助各国分食这波暴涨的需求。然而，要真正成功，这些国家的政府不能只仰仗地下的资源，也不能只凭与中美两国的亲密关系——它们还得拿出高速供货的本事。局势之紧迫，触手可及。2025年5月，川总被迫收回先前加诸中国商品的关税，起因是中国出手反制，限制七种用于制造半导体与武器的稀土出口。如今，美国一心想要挣脱中国锁在喉咙上的那只手。",
+   "notes": [
+    {
+     "w": "quintuple",
+     "ipa": "/kwɪnˈtuːpl/",
+     "pos": "v.",
+     "en": "quintuple means to become five times as large, or to multiply by five",
+     "zh": "\"翻五倍\"（词根quint- 拉丁语\"五\"；同源quintet 五重奏），数字语境核心义为增至五倍",
+     "ctx": "倍数全家桶一次记——single 一倍、double 两倍、triple 三倍、 quadruple 四倍、quintuple 五倍。世行把基金扩大到五倍、至200 亿美元，而五年前这类融资才约36 亿，翻五倍还多",
+     "ex1": "The fund will quintuple to twenty billion dollars. 这支基金将扩大五倍，达到两百亿美元。",
+     "ex2": "Profits tripled last year after the new mine opened. 新矿投产后，利润去年翻了三倍。"
+    },
+    {
+     "w": "capture",
+     "ipa": "/ˈkæptʃər/",
+     "pos": "v.",
+     "en": "capture, in this sense, means to get control of a share of something such as a market or demand",
+     "zh": "\"捕获、俘虏\"（capture a criminal 抓罪犯），商务语境引申义为抢占、分得",
+     "ctx": "capture some of the surging demand——从暴涨的需求里抢下一块、分一杯羹。capture the market 抢占市场、capture a share 分得份额，都是外刊高频",
+     "ex1": "The fund aims to help poor countries capture a share of the demand. 这支基金旨在帮助穷国分得需求的一杯羹。",
+     "ex2": "The new brand quickly captured a large share of the market. 这个新品牌迅速抢占了很大的市场份额。"
+    },
+    {
+     "w": "subterranean",
+     "ipa": "/ˌsʌbtəˈreɪniən/",
+     "pos": "adj.",
+     "en": "subterranean means existing or happening under the ground",
+     "zh": "\"地底下的\"（sub- 下面+ terr- 土地+ -anean 形容词后缀；同根terrain 地形、 territory 领土、terrestrial 陆地的），书面语境核心义为地下的",
+     "ctx": "作者不用口语词underground，偏用地质学书面词subterranean，是外刊的\"端着\"。知道它俩一个意思即可。subterranean resources = 地底下的矿",
+     "ex1": "The country cannot rely only on its subterranean resources.这个国家不能只靠它地底下的资源。",
+     "ex2": "A subterranean river runs beneath the city.一条地下河在城市下方流淌。"
+    },
+    {
+     "w": "cosiness",
+     "ipa": "/ˈkoʊzinəs/",
+     "pos": "n.",
+     "en": "cosiness (also cosiness) means a close and comfortable relationship; friendliness",
+     "zh": "\"舒适、惬意\"（cozy 舒适的），关系语境引申义为亲密关系、走得近",
+     "ctx": "熟词僻义的坑——你学cozy 是a cozy room（舒适的房间），但 cosiness with America and China 不是\"舒服\"，是\"亲密、套近乎\"。get cozy with somebody 即\"跟某人打得火热\"。这里指资源国抱大国的大腿",
+     "ex1": "Their cosiness with the big powers has brought them money. 它们与大国的亲密关系给它们带来了钱。",
+     "ex2": "He got a little too cozy with the company he was supposed to regulate. 他与他本该监管的那家公司走得太近了。"
+    },
+    {
+     "w": "at speed",
+     "ipa": "/ət spiːd/",
+     "pos": "phrase",
+     "en": "at speed means quickly or at a high rate",
+     "zh": "\"以高速\"，能力语境核心义为快速地、高速地",
+     "ctx": "supply stuff at speed 快速供货。与P2 的\"能快速把矿挖出来\"扣在一起——作者在一个\"快\"字上反复敲，胜负手就一个字：快。光有矿、光抱大腿都不够，还得供得快",
+     "ex1": "The winners are those who can supply minerals at speed. 赢家是那些能快速供应矿产的国家。",
+     "ex2": "The project must be delivered at speed to meet demand. 这个项目必须快速交付以满足需求。"
+    },
+    {
+     "w": "palpable",
+     "ipa": "/ˈpælpəbl/",
+     "pos": "adj.",
+     "en": "palpable means so obvious or strong that it can almost be felt",
+     "zh": "\"摸得着的\"（词根palp- 摸；同源palpate 触诊——医生按肚子检查），程度语境核心义为真切可感的、明显到能摸到的",
+     "ctx": "比obvious（眼睛看出的\"明显\"）更强——palpable 是\"用手实实在在摸到的\"。作者不说\"紧迫感很明显\"，说\"紧迫感摸得着\"，把局势之紧写到极致。The urgency is palpable",
+     "ex1": "The tension in the room was palpable before the announcement. 宣布之前，房间里的紧张感扑面而来。",
+     "ex2": "There was a palpable sense of excitement among the crowd. 人群中涌动着真切可感的兴奋。"
+    },
+    {
+     "w": "rein in",
+     "ipa": "/reɪn ɪn/",
+     "pos": "phrasal v.",
+     "en": "rein in means to control or limit something that is getting out of hand",
+     "zh": "\"勒住缰绳\"（rein 缰绳——马跑太快，骑手一勒缰绳马就慢下来），控制语境核心义为收紧、控制、收回",
+     "ctx": "比control 多一层狼狈——\"本来已经放出去，现在不得不硬拽回来\"。川总之前猛加关税，加猛了，被逼着一根一根往回勒。rein in tariffs 收回关税",
+     "ex1": "The government was forced to rein in the tariffs it had imposed. 政府被迫收回了之前加征的关税。",
+     "ex2": "The board moved to rein in runaway costs. 董事会着手控制失控的成本。"
+    },
+    {
+     "w": "impose on",
+     "ipa": "/ɪmˈpoʊz ɒn/",
+     "pos": "v.",
+     "en": "impose on means to officially force something such as a tax, rule or punishment on someone",
+     "zh": "\"把……强加于\"（im- 上+ pose 放→ 放到人头上），施政语境核心义为征收、强加、施加",
+     "ctx": "impose tariffs 征税、impose sanctions 施加制裁。he had imposed on Chinese goods 用过去完成时，强调\"先前已经加上的、现在要收回的\"",
+     "ex1": "The president imposed tariffs on a wide range of Chinese goods. 总统对中国多种商品加征了关税。",
+     "ex2": "The court imposed a heavy fine on the company.法院对该公司处以重罚。"
+    },
+    {
+     "w": "retaliate",
+     "ipa": "/rɪˈtælieɪt/",
+     "pos": "v.",
+     "en": "retaliate means to do something bad to someone because they have done something bad to you",
+     "zh": "\"以牙还牙\"（re- 回+ 拉丁语talio\"同态复仇\"——你打我一下我也打你一下），冲突语境核心义为反击、报复",
+     "ctx": "比revenge（个人恩怨、带情绪）更冷静对等，国家之间常用。中国 retaliated by restricting exports——你卡我的货，我也卡你的，限制七种稀土出口",
+     "ex1": "China retaliated by restricting exports of seven rare-earth minerals.中国以限制七种稀土矿物出口作为反击。",
+     "ex2": "The country threatened to retaliate against any new tariffs.该国威胁要对任何新关税进行报复。"
+    },
+    {
+     "w": "chokehold",
+     "ipa": "/ˈtʃoʊkhoʊld/",
+     "pos": "n.",
+     "en": "chokehold means a strong control over something that makes it very difficult for others to act freely",
+     "zh": "\"锁喉\"（choke 窒息+ hold 控制——格斗里从背后勒住脖子），控制语境核心义为钳制、卡脖子",
+     "ctx": "比monopoly（垄断）更狠——画面是一只手指在喉咙上喘不上气。 America wants to break China's chokehold，用美国视角：中国控制稀土加工，像一只手锁住它的喉咙。全文关键词之一",
+     "ex1": "America wants to break China's chokehold on rare-earth processing.美国想打破中国对稀土加工的控制。",
+     "ex2": "The company had a chokehold on the supply of the key material.这家公司牢牢卡住了这种关键材料的供应。"
+    }
+   ]
+  },
+  {
+   "en_html": "The <mark class=\"voc\">wheedling</mark> has worked. According to officials, in 2025 the American government and American firms spent $15.4bn on foreign mines, up from nearly nothing in 2024, and more is expected this year. <mark class=\"voc\">In response</mark>, Chinese state-owned mining giants <mark class=\"voc\">splurged</mark> well over $30bn abroad, far more than in 2024.",
+   "zh": "这番软磨硬泡，到底起了效。据官员透露，2025年美国政府与企业向海外矿山砸下154亿美元，而2024年这个数字几乎为零，今年料将更多。作为回应，中国的国有矿业巨头在海外豪掷远超300亿美元，远胜往年。",
+   "notes": [
+    {
+     "w": "wheedle",
+     "ipa": "/ˈwiːdl/",
+     "pos": "v.",
+     "en": "wheedle means to persuade someone to do something by saying nice things or flattering them",
+     "zh": "\"软磨硬泡、甜言蜜语地哄\"（画面：小孩缠着爸妈买玩具——\"求求你了\"\"你最好了\"），游说语境核心义为哄劝、软磨硬泡",
+     "ctx": "The wheedling has worked——\"软磨硬泡起了作用\"。区别persuade （讲道理说服）、coax（温柔地哄）：wheedle 是甜言蜜语加死缠烂打。美国政府不能亲自开矿，只能哄企业去海外买矿，一个wheedling 写尽\"求着企业下场\"的窘态",
+     "ex1": "He wheedled his parents into buying him a new phone.他软磨硬泡让父母给他买了部新手机。",
+     "ex2": "The government's wheedling finally persuaded firms to invest abroad.政府的软磨硬泡最终说服了企业到海外投资。"
+    },
+    {
+     "w": "in response",
+     "ipa": "/ɪn rɪˈspɒns/",
+     "pos": "phrase",
+     "en": "in response means as a reaction to something that has happened or been said",
+     "zh": "\"作为回应\"，关联语境核心义为作为回应、针锋相对地",
+     "ctx": "作者用in response 点明中国是\"回应\"美国的——你先动154 亿，我回敬一笔更大的。是针尖对麦芒，不是各玩各的",
+     "ex1": "In response, Chinese giants spent even more abroad. 作为回应，中国巨头在海外砸了更多钱。",
+     "ex2": "The company cut prices in response to falling demand. 面对需求下滑，公司降低了价格。"
+    },
+    {
+     "w": "splurge",
+     "ipa": "/splɜːrdʒ/",
+     "pos": "v.",
+     "en": "splurge means to spend a lot of money on something, often in a way that seems careless or showy",
+     "zh": "\"挥霍、大手大脚花钱\"（发工资那天一高兴splurge on a new phone），消费语境核心义为豪掷、挥霍",
+     "ctx": "作者不用invest（理性的投资），偏用splurge（冲动的挥霍），暗指中国这笔钱砸得\"壕气\"——\"你出154 亿？行，那我出300 亿\"。well over $30bn 是美国的近两倍",
+     "ex1": "Chinese firms splurged well over thirty billion dollars abroad. 中国企业豪掷了远超300 亿美元的海外投资。",
+     "ex2": "She splurged on a new car after her promotion. 升职后她奢侈地买了辆新车。"
+    }
+   ]
+  },
+  {
+   "en_html": "So far the biggest <mark class=\"voc\">beneficiary</mark> has been the Democratic Republic of Congo (DRC). Most Western investors abandoned the vast, <mark class=\"voc\">conflict-torn</mark>, <mark class=\"voc\">landlocked</mark> central African country when prices of tin, diamonds and other of its abundant resources <mark class=\"voc\">collapsed</mark>. The Chinese have <mark class=\"voc\">pledged</mark> $1bn to expand a copper mine and propose to build a much bigger one that could <mark class=\"voc\">churn out</mark> up to 500,000 tonnes per year.",
+   "zh": "截至目前，最大的赢家当属刚果民主共和国。曾几何时，锡、钻石等丰饶物产的价格一泻千里，大多数西方投资者纷纷撤离这个幅员辽阔、战乱不休、深居内陆的中非国家。而中国则承诺斥资10亿美元扩建一座铜矿，并计划再建一座年产可高达50万吨的更大矿山。",
+   "notes": [
+    {
+     "w": "beneficiary",
+     "ipa": "/ˌbenɪˈfɪʃieri/",
+     "pos": "n.",
+     "en": "beneficiary means a person or group who receives an advantage or money from something",
+     "zh": "\"得到好处的人\"（词根bene- 拉丁语\"好\"；同源benefit 好处、benevolent 仁慈的），利益语境核心义为受益者、得利者",
+     "ctx": "保险单上的\"受益人\"就是beneficiary。作者先说the biggest beneficiary 再甩名字，是在吊胃口——最肥的肉被谁叼走了",
+     "ex1": "So far the biggest beneficiary has been the Democratic Republic of Congo. 到目前为止，最大的受益者是刚果民主共和国。",
+     "ex2": "She is named as the sole beneficiary of the insurance policy.她被列为这份保单的唯一受益人。"
+    },
+    {
+     "w": "conflict-torn",
+     "ipa": "/ˈkɒnflɪkt tɔːrn/",
+     "pos": "adj.",
+     "en": "conflict-torn means badly affected by war or fighting",
+     "zh": "\"被战乱撕碎的\"（conflict 冲突+ torn 是tear\"撕扯\"的过去分词），战争语境核心义为战乱不断的、满目疮痍的",
+     "ctx": "名词+过去分词构成复合形容词——torn 的画面是一块布被两头一扯撕成两半。同类构词war-torn、drought-stricken、smoke-filled，见到\"名词-分词\"译作\"被……的\"",
+     "ex1": "The vast, conflict-torn country has rich mineral deposits. 这个辽阔而战乱不断的国家拥有丰富的矿藏。",
+     "ex2": "Aid agencies struggle to work in the war-torn region. 援助机构难以在这个饱受战乱的地区开展工作。"
+    },
+    {
+     "w": "landlocked",
+     "ipa": "/ˈlændlɒkt/",
+     "pos": "adj.",
+     "en": "landlocked means surrounded by land, with no coast or seaport",
+     "zh": "\"被陆地锁死的\"（land 陆地+ locked 锁住的），地理语境核心义为内陆的、没有出海口的",
+     "ctx": "画面是被一圈国家围在中间、像锁在柜子里。刚果金不靠海，矿挖出来还得借道别人的港口，运输成本与政治风险全上来了。三个形容词vast、conflict-torn、 landlocked 串出\"又大、又乱、又不靠海\"",
+     "ex1": "The landlocked country must export its minerals through neighbours. 这个内陆国家必须借道邻国出口矿产。",
+     "ex2": "Being landlocked raises the cost of everything it trades. 地处内陆抬高了它所有贸易的成本。"
+    },
+    {
+     "w": "collapse",
+     "ipa": "/kəˈlæps/",
+     "pos": "v. & n.",
+     "en": "collapse means to fall down or fail suddenly and completely",
+     "zh": "\"一起塌下来\"（col- 一起+ lapse 滑、倒——楼轰的一下塌成废墟），经济语境核心义为崩塌、暴跌、崩溃",
+     "ctx": "作者不用fall（下跌）、decline（下滑），用collapse——\"雪崩式\"暴跌。锡价、钻石价一崩，利润没了，西方资本\"弃船而逃\"，才有中国抄底",
+     "ex1": "Prices of tin and diamonds collapsed, driving investors away. 锡和钻石价格暴跌，赶走了投资者。",
+     "ex2": "The company collapsed under a mountain of debt. 这家公司被堆积如山的债务压垮了。"
+    },
+    {
+     "w": "pledge",
+     "ipa": "/pledʒ/",
+     "pos": "v. & n.",
+     "en": "pledge means to make a formal or serious promise to do something",
+     "zh": "\"郑重承诺、立誓\"（比promise 口头答应分量重，白纸黑字、当众表态），承诺语境核心义为郑重承诺、保证",
+     "ctx": "The Chinese have pledged $1bn——中国不是随口说给点钱，是郑重承诺砸10 亿美元。注意用的是expand（扩建），不是新建，是\"加码、做大\"",
+     "ex1": "The Chinese have pledged one billion dollars to expand a copper mine. 中国承诺拿出10 亿美元扩建一座铜矿。",
+     "ex2": "The government pledged to halve emissions by 2030. 政府承诺到2030 年将排放量减半。"
+    },
+    {
+     "w": "churn out",
+     "ipa": "/tʃɜːrn aʊt/",
+     "pos": "phrasal v.",
+     "en": "churn out means to produce large quantities of something quickly, often with little care",
+     "zh": "\"像搅黄油一样源源产出\"（churn 搅乳器——搅啊搅，黄油不停出），量产语境核心义为大批量快速产出",
+     "ctx": "比produce（生产）多一层\"量+速度\"。churn out up to 500,000 tonnes per year——年产最高50 万吨，是\"巨无霸\"级大矿。作者还在敲全文那个\"快\"字",
+     "ex1": "The new mine could churn out up to 500,000 tonnes a year. 这座新矿年产最高可达50 万吨。",
+     "ex2": "The factory churns out thousands of phones every day. 这家工厂每天量产数千部手机。"
+    }
+   ]
+  },
+  {
+   "en_html": "Now America is back, too. A government-financed fund is <mark class=\"voc\">in talks to</mark> buy 40% of one of the last remaining Western-owned operating mines, a copper <mark class=\"voc\">concern</mark> run by Glencore, a Swiss-based company. Private firms have followed. The DRC is so <mark class=\"voc\">indigent</mark> that the cash is already transforming its economy. In 2025 foreign mining investment was <mark class=\"voc\">equivalent to</mark> roughly 8% of its GDP.",
+   "zh": "如今，美国也杀了回来。一个政府出资的基金正在洽谈，欲购得西方人硕果仅存的在营矿山之一——一座由瑞士巨头嘉能可运营的铜矿——的四成股权。私人资本亦随之跟进。刚果金赤贫如斯，这笔钱已然在改写它的经济；2025年，外资矿业投资竟相当于其GDP的约8%。",
+   "notes": [
+    {
+     "w": "in talks to",
+     "ipa": "/ɪn tɔːks tə/",
+     "pos": "phrase",
+     "en": "in talks to means having formal discussions with someone in order to reach an agreement",
+     "zh": "\"正在洽谈\"（talks 会谈），商务语境核心义为正在谈判、商谈",
+     "ctx": "高频短语。in talks with someone 跟某人洽谈；in talks to do something 谈判准备做某事。A fund is in talks to buy 40%——一个基金正在谈判要买四成股权",
+     "ex1": "A government-financed fund is in talks to buy 40% of the mine. 一个政府出资的基金正在洽谈收购该矿40% 的股权。",
+     "ex2": "The two companies are in talks over a possible merger. 两家公司正就可能的合并进行谈判。"
+    },
+    {
+     "w": "concern",
+     "ipa": "/kənˈsɜːrn/",
+     "pos": "n.",
+     "en": "concern, in business, means a company or business organisation",
+     "zh": "\"操心的事→ 生意\"（最早是\"跟你有关系、你操心的事\"，慢慢指代\"公司\"），商务语境核心义为公司、企业",
+     "ctx": "熟词僻义——不是\"担心、关心\"，是\"公司\"。a copper concern 铜业公司；a going concern 持续经营的企业。外刊财经新闻高频",
+     "ex1": "The mine is a copper concern run by a Swiss-based company. 这座矿是一家由总部在瑞士的公司运营的铜矿企业。",
+     "ex2": "The firm remains a going concern despite the losses. 尽管有亏损，这家企业仍持续经营。"
+    },
+    {
+     "w": "indigent",
+     "ipa": "/ˈɪndɪdʒənt/",
+     "pos": "adj.",
+     "en": "indigent means extremely poor, so poor that one cannot afford basic things",
+     "zh": "\"赤贫的、活不下去的\"，贫困语境核心义为极度贫困的、赤贫的",
+     "ctx": "比poor（一般穷）、impoverished（贫困）都重——是穷到连最基本东西都买不起。作者不用poor 用indigent，是要强调刚果金不是\"穷\"，是\"赤贫\"，所以才说那点钱就能改它的命",
+     "ex1": "The DRC is so indigent that the cash is already transforming its economy. 刚果金赤贫到如此地步，这些钱已在改变它的经济。",
+     "ex2": "The clinic offers free care to indigent patients. 这家诊所为赤贫病人提供免费诊疗。"
+    },
+    {
+     "w": "equivalent to",
+     "ipa": "/ɪˈkwɪvələnt tə/",
+     "pos": "adj. phrase",
+     "en": "equivalent to means equal in value, amount or meaning to something else",
+     "zh": "\"相当于、等同于\"（equal 相等+ -valent 价值），比较语境核心义为相当于、等同于",
+     "ctx": "be equivalent to 高频短语。investment was equivalent to roughly 8% of GDP——投资相当于GDP 的约8%。roughly 是\"大约\"",
+     "ex1": "Foreign mining investment was equivalent to roughly 8% of its GDP. 外资矿业投资相当于其GDP 的大约8%。",
+     "ex2": "The tax cut is equivalent to about 500 dollars per household. 这次减税相当于每户约500 美元。"
+    }
+   ]
+  },
+  {
+   "en_html": "Two other big winners are Brazil and Kazakhstan. But they are nevertheless benefiting <mark class=\"voc\">mightily</mark> from American and Chinese interest. America’s approach has been the more focused. In Brazil it has <mark class=\"voc\">set about</mark> building a <mark class=\"voc\">rare-earth empire</mark>. In September USA Rare Earth <mark class=\"voc\">took over</mark> Serra Verde, the only producer of four of the <mark class=\"voc\">scarcest</mark> such minerals outside Asia. A further package pulled together by the Department of War and a loan from the DFC will push American investment to nearly $5bn.",
+   "zh": "另外两个大赢家，是巴西与哈萨克斯坦。尽管如此，它们仍从中美两国的浓厚兴趣中获益巨大。美国的手法更为聚焦——在巴西，它已着手营建一座\"稀土帝国\"。9月，美国稀土公司接管了SerraVerde，这是亚洲以外唯一能生产那四种最稀缺稀土矿物的矿山。由\"战争部\"牵头拼凑的另一套方案，加上DFC的一笔贷款，将把美国的投资推高至近50亿美元。",
+   "notes": [
+    {
+     "w": "mightily",
+     "ipa": "/ˈmaɪtɪli/",
+     "pos": "adv.",
+     "en": "mightily means to a very great extent, or with great force",
+     "zh": "\"用力地、威力十足地\"（might 力量+ -ly），程度语境核心义为极大地、强力地",
+     "ctx": "benefiting mightily——不是小赚，是\"赚疯了\"。语感递进：benefit（受益） ＜benefit greatly（受益很大）＜benefit mightily（受益巨大到形容不过来）",
+     "ex1": "Brazil and Kazakhstan are benefiting mightily from the rivalry. 巴西和哈萨克斯坦正从这场对抗中获益巨大。",
+     "ex2": "The team fought mightily to stay in the game. 这支队伍拼尽全力留在比赛中。"
+    },
+    {
+     "w": "set about",
+     "ipa": "/set əˈbaʊt/",
+     "pos": "phrasal v.",
+     "en": "set about (doing something) means to start doing something, especially something that needs a lot of time or effort",
+     "zh": "\"着手开干\"（撸起袖子开始干一件大事），行动语境核心义为着手、开始（做大事）",
+     "ctx": "set about building a rare-earth empire——着手去建一个稀土帝国。自带\"正式上马、认真开干\"的气势，不是随便试试",
+     "ex1": "In Brazil, America has set about building a rare-earth empire. 在巴西，美国已着手打造一个稀土帝国。",
+     "ex2": "She set about reorganising the whole department. 她着手重组整个部门。"
+    },
+    {
+     "w": "rare-earth empire",
+     "ipa": "/ˌrer ˈɜːrθ ˈempaɪər/",
+     "pos": "n. phrase",
+     "en": "a rare-earth empire is a complete, self-controlled supply chain for rare-earth minerals",
+     "zh": "\"稀土帝国\"（rare earth 稀土+ empire 帝国——一大片地盘我说了算、建立自己的秩序），战略语境核心义为稀土帝国、全链条自主的稀土供应体系",
+     "ctx": "帝国不是一个公司、一笔买卖，是\"从挖矿到提纯到造磁体全链条由我掌控\"。美国不是来\"买点矿\"，是来建一套\"脱离中国\"的稀土体系",
+     "ex1": "America is trying to build a rare-earth empire outside China. 美国正试图在中国之外建立一个稀土帝国。",
+     "ex2": "He built a business empire from a single shop. 他从一家小店起家建起了商业帝国。"
+    },
+    {
+     "w": "take over",
+     "ipa": "/teɪk ˈoʊvər/",
+     "pos": "phrasal v.",
+     "en": "take over means to gain control of something, especially a company",
+     "zh": "\"接过来、接管\"（新老板上台把旧管理层全换了），控制语境核心义为接管、收购、拿下控制权",
+     "ctx": "与buy 不同——buy 买的是所有权，take over 接过来的是\"控制权\"，强调控制。USA Rare Earth took over Serra Verde 美国稀土公司接管了这座矿",
+     "ex1": "USA Rare Earth took over Serra Verde in September. 美国稀土公司于9 月接管了Serra Verde。",
+     "ex2": "The larger firm took over its smaller rival last year. 那家大公司去年接管了它较小的竞争对手。"
+    },
+    {
+     "w": "scarce / scarcest",
+     "ipa": "/skers/",
+     "pos": "adj.",
+     "en": "scarce means not easy to find or get; scarce goods are in short supply",
+     "zh": "\"稀缺的、难搞到的\"（scarcest 是最高级\"最稀缺的\"），资源语境核心义为稀缺的",
+     "ctx": "four of the scarcest such minerals 那四种最稀缺的稀土——钕、镨、镝、铽，是造永磁体（导弹、电动车、风电的\"方向盘\"）的命根子材料。注意scarce 不读 /skeɪs/，是/skers/",
+     "ex1": "Serra Verde is the only producer of four of the scarcest minerals outside Asia. Serra Verde 是亚洲之外唯一能生产那四种最稀缺矿物的矿山。",
+     "ex2": "Water is becoming scarce in many parts of the world. 在世界许多地方，水正变得越来越稀缺。"
+    }
+   ]
+  },
+  {
+   "en_html": "In Kazakhstan America is <mark class=\"voc\">eyeing</mark> <mark class=\"voc\">tungsten</mark>, which is vital to high-tech arms-manufacturing. In November 2025 Kaz Resources, a firm <mark class=\"voc\">backed by</mark> the administration and by investors including Eric Trump and Donald Trump junior, is <mark class=\"voc\">stumping up</mark> $1bn to develop deposits at Kairakty and Northern Katpar. A further $1.6bn could come via the DFC and EXIM. Last year Mr Trump’s officials spoke about <mark class=\"voc\">recruiting</mark> countries to America’s camp while pressing them to <mark class=\"voc\">spurn</mark> Chinese <mark class=\"voc\">advances</mark>. Most, they said, would have to <mark class=\"voc\">pick a side</mark>. The experience of the DRC, Brazil and Kazakhstan shows that this is not how things have <mark class=\"voc\">played out</mark> so far.",
+   "zh": "在哈萨克斯坦，美国盯上了钨——它对高科技武器的制造至关重要。2025年11月，KazResources——这家由美国政府、以及埃里克·特朗普与小唐纳德·特朗普等投资者支持的公司——掏出10亿美元开发凯拉克特与北卡特帕尔的矿藏，另有16亿美元或经DFC与EXIM注入。去年，特朗普的官员曾扬言要拉各国入美国阵营，同时施压它们唾弃中国的示好，并称大多数国家终须选边站队。然而，刚果金、巴西与哈萨克斯坦的经历表明，事态至今并非如此。",
+   "notes": [
+    {
+     "w": "eye",
+     "ipa": "/aɪ/",
+     "pos": "v.",
+     "en": "eye (as a verb) means to look at someone or something carefully, especially because you want it",
+     "zh": "\"用眼睛盯\"（eye 眼睛→ 动词化\"盯、虎视眈眈\"），关注语境核心义为盯着、垂涎地打量",
+     "ctx": "America is eyeing tungsten——美国\"盯上\"了钨。画面是一只鹰盘旋半空、眼睛死死锁定猎物，带着\"志在必得\"的贪婪劲。进行时eyeing 表\"正在盯\"",
+     "ex1": "America is eyeing tungsten for its military value. 美国正盯上钨，看中它的军事价值。",
+     "ex2": "Several firms are eyeing the struggling company as a takeover target. 几家公司正把这家陷入困境的企业当作收购目标盯着。"
+    },
+    {
+     "w": "tungsten",
+     "ipa": "/ˈtʌŋstən/",
+     "pos": "n.",
+     "en": "tungsten is a very hard, grey metal with the highest melting point of all metals",
+     "zh": "\"钨\"（元素符号W，源自其拉丁名Wolfram），材料语境核心义为钨",
+     "ctx": "两大绝活——熔点3422℃ 为金属之最、极硬，故有\"工业牙齿\"\"战争金属之王\"之称。穿甲弹弹芯、导弹飞机发动机都靠它。中国掌控全球约八成钨供应，美国自 2015 年起无在营商业钨矿",
+     "ex1": "Tungsten is vital to high-tech arms manufacturing. 钨对高科技武器制造至关重要。",
+     "ex2": "The country controls most of the world's tungsten supply. 该国掌控着全球大部分的钨供应。"
+    },
+    {
+     "w": "backed by",
+     "ipa": "/bækt baɪ/",
+     "pos": "phrase",
+     "en": "backed by means supported financially or otherwise by a person or organisation",
+     "zh": "\"背后站着……\"（back 后背→ 谁在背后撑腰、掏钱），支持语境核心义为由……支持、出资",
+     "ctx": "a firm backed by the administration——一家由美国政府撑腰的公司。看谁backed by 谁，就知道这笔生意的靠山是谁",
+     "ex1": "The firm is backed by the administration and by private investors. 这家公司由政府和私人投资者支持。",
+     "ex2": "The start-up is backed by several large venture funds. 这家初创公司由几家大型风投基金支持。"
+    },
+    {
+     "w": "stump up",
+     "ipa": "/stʌmp ʌp/",
+     "pos": "phrasal v.",
+     "en": "stump up means to pay an amount of money, often unwillingly (informal British English)",
+     "zh": "\"咬牙掏出钱来\"（stump 树桩——像从树桩底下刨钱一样掏），口语语境核心义为（不情愿地）掏钱、出钱",
+     "ctx": "英式口语。与pay（中性付钱）不同，stump up 带着\"肉疼、咬牙\"的味道。 is stumping up $1bn——咬着牙掏出10 亿美元",
+     "ex1": "The firm is stumping up one billion dollars to develop the deposits. 这家公司掏出10 亿美元开发这些矿藏。",
+     "ex2": "He finally stumped up for the repairs he had promised. 他最终不情愿地掏钱做了他承诺的维修。"
+    },
+    {
+     "w": "recruit",
+     "ipa": "/rɪˈkruːt/",
+     "pos": "v.",
+     "en": "recruit means to persuade people to join or support something",
+     "zh": "\"招募、征兵\"（recruit soldiers 招新兵），拉拢语境核心义为招募、拉拢",
+     "ctx": "",
+     "ex1": "Officials spoke about recruiting countries to America's camp.官员谈到要招募各国加入美国阵营。",
+     "ex2": "The party is recruiting new members before the election.该党在选举前招募新成员。"
+    },
+    {
+     "w": "spurn",
+     "ipa": "/spɜːrn/",
+     "pos": "v.",
+     "en": "spurn means to reject someone or something in a proud or angry way",
+     "zh": "\"轻蔑地一脚踢开\"（把别人递来的东西啪地打掉），拒绝语境核心义为唾弃、轻蔑地拒绝",
+     "ctx": "比refuse（中性说\"不\"）、reject（正式否决）都狠——是\"我不光不要，还看不起你\"。pressing them to spurn Chinese advances 逼它们把中国伸来的橄榄枝一脚踢开",
+     "ex1": "Washington pressed them to spurn Chinese advances.华盛顿施压它们拒绝中国的示好。",
+     "ex2": "She spurned his offer of help and walked away.她轻蔑地拒绝了他的帮助，转身离开。"
+    },
+    {
+     "w": "advances",
+     "ipa": "/ədˈvænsɪz/",
+     "pos": "n. (pl.)",
+     "en": "advances means attempts to start a friendly or romantic relationship, or to win favour",
+     "zh": "\"主动靠近、示好\"（make advances 套近乎），关系语境核心义为示好、拉拢、主动接近",
+     "ctx": "熟词僻义——不是\"前进\"，是\"示好、套近乎\"。Chinese advances 中国的示好、拉拢。注意常用复数，且常与make 连用make advances",
+     "ex1": "The two powers are both making advances to the same countries. 两个大国都在向同样那几个国家示好。",
+     "ex2": "He rejected the advances of his rivals and stood firm. 他拒绝了对手的示好，立场坚定。"
+    },
+    {
+     "w": "pick a side",
+     "ipa": "/pɪk ə saɪd/",
+     "pos": "phrase",
+     "en": "pick a side means to choose which of two opposing groups or views you support",
+     "zh": "\"选边站\"（pick 挑+ side 边、阵营），立场语境核心义为选边站、站队",
+     "ctx": "美国官员的原话大意——\"大多数国家必须二选一，要么跟美国要么跟中国\"。这是冷战\"谁不跟我们谁就是敌人\"逻辑的翻版",
+     "ex1": "Most countries, they said, would have to pick a side. 他们说，大多数国家都得选边站。",
+     "ex2": "She refused to pick a side in the argument. 她拒绝在这场争论中站队。"
+    },
+    {
+     "w": "play out",
+     "ipa": "/pleɪ aʊt/",
+     "pos": "phrasal v.",
+     "en": "play out means to develop or end in a particular way",
+     "zh": "\"（一出戏）演完\"（剧情怎么走、怎么收场），发展语境核心义为发展、演变、收场",
+     "ctx": "how things have played out——事情怎么演变。this is not how things have played out 事情根本没照美国设想的演。转折句：美国要各国选边，结果三国全在\"脚踏两条船\"",
+     "ex1": "This is not how things have played out so far. 事情至今并未如此发展。",
+     "ex2": "Let's wait and see how the situation plays out. 我们等着看事态如何演变。"
+    }
+   ]
+  },
+  {
+   "en_html": "American and Chinese <mark class=\"voc\">mineral-hunters</mark> are <mark class=\"voc\">piling into</mark> the same <mark class=\"voc\">handful</mark> of countries because only so many have lots of <mark class=\"voc\">half-finished</mark>, old or <mark class=\"voc\">dormant</mark> mines that can be completed or <mark class=\"voc\">revived</mark> quickly and cheaply. Now America is becoming impatient—and so behaving more like the Chinese.",
+   "zh": "中美两国的矿产猎手，正一窝蜂地挤进同样那寥寥几个国家——因为只有那么几个地方，坐拥大量烂尾、老旧或休眠的矿山，能够又快又省地完工或重启。如今，美国愈发不耐烦，行事也越来越像中国了。",
+   "notes": [
+    {
+     "w": "mineral-hunter",
+     "ipa": "/ˈmɪnərəl ˌhʌntər/",
+     "pos": "n.",
+     "en": "a mineral-hunter is a person or company that searches for minerals to acquire",
+     "zh": "\"矿产猎手\"（mineral 矿+ hunter 猎手——扛着枪、眼睛冒光、满山找猎物），商业语境核心义为矿产猎手、四处搜寻矿藏的人",
+     "ctx": "作者不说\"矿业公司\"，偏说\"猎手\"——那种\"四处搜寻、发现就扑上去\"的劲一下出来了。American and Chinese mineral-hunters 两个猎手抢同一批猎物",
+     "ex1": "American and Chinese mineral-hunters are piling into the same countries. 中美两国的矿产猎手正一窝蜂挤进同样那几个国家。",
+     "ex2": "Bargain hunters rushed to buy shares after the crash. 暴跌之后，抄底者蜂拥买入股票。"
+    },
+    {
+     "w": "pile into",
+     "ipa": "/paɪl ˈɪntə/",
+     "pos": "phrasal v.",
+     "en": "pile into means to get into a place or activity in large numbers, in a disorderly way",
+     "zh": "\"一窝蜂挤进\"（pile 堆——公交车来了，一群人呼啦全往上挤），涌入语境核心义为蜂拥而入、一窝蜂挤进",
+     "ctx": "piling into the same handful of countries——两边挤的是同一扇门。注意same（一样的）：美国去的中国也去",
+     "ex1": "Investors are piling into the same small group of countries. 投资者正蜂拥涌入同样那一小群国家。",
+     "ex2": "Fans piled into the stadium hours before the match. 球迷们在开赛前数小时就蜂拥入场。"
+    },
+    {
+     "w": "handful",
+     "ipa": "/ˈhændfʊl/",
+     "pos": "n.",
+     "en": "a handful of means a small number of people or things",
+     "zh": "\"一把\"（手抓一把米，就那么点），数量语境核心义为少数几个、寥寥几个",
+     "ctx": "",
+     "ex1": "Only a handful of countries have such ready mines. 只有少数几个国家有这样的现成矿山。",
+     "ex2": "A handful of investors made most of the profits. 少数几个投资者赚走了大部分利润。"
+    },
+    {
+     "w": "half-finished",
+     "ipa": "/ˌhæf ˈfɪnɪʃt/",
+     "pos": "adj.",
+     "en": "half-finished means only partly completed",
+     "zh": "\"建了一半的\"（half 一半+ finished 完工的），状态语境核心义为烂尾的、未完工的",
+     "ctx": "画面是烂尾楼——盖到一半、钢筋外露、停工多年。half-finished mines 烂尾矿：有人投了钱、建了一半，资金断了或跑了就撂那儿。是\"别人已经花过大钱\"的矿",
+     "ex1": "The country has lots of half-finished, old or dormant mines.这个国家有大量烂尾的、老旧的、休眠的矿山。",
+     "ex2": "The half-finished tower has stood empty for years.那座建了一半的塔已经空置多年。"
+    },
+    {
+     "w": "dormant",
+     "ipa": "/ˈdɔːrmənt/",
+     "pos": "adj.",
+     "en": "dormant means not active for the time being, but able to become active again",
+     "zh": "\"休眠的、蛰伏的\"（dormant volcano 休眠火山——现在不喷但没死，哪天就醒），状态语境核心义为休眠的、蛰伏的",
+     "ctx": "三个形容词里最有味道的一个——表面是\"停的\"，其实是\"睡着的、随时能醒\"。dormant mine 休眠矿：曾开过、后来停了、矿还在、随时能重启",
+     "ex1": "A dormant mine can be revived quickly and cheaply.一座休眠矿能又快又便宜地重启。",
+     "ex2": "The volcano has been dormant for a century.这座火山已休眠了一个世纪。"
+    },
+    {
+     "w": "revive",
+     "ipa": "/rɪˈvaɪv/",
+     "pos": "v.",
+     "en": "revive means to bring something back into use or make it active again",
+     "zh": "\"复活、苏醒\"（re- 再+ vive 活——同源vivid 生动的、survive 幸存），恢复语境核心义为复活、重启、使复苏",
+     "ctx": "",
+     "ex1": "Old mines can be revived at a fraction of the cost of new ones.老矿可以以远低于新矿的成本重启。",
+     "ex2": "The government hopes to revive the struggling economy.政府希望重振低迷的经济。"
+    }
+   ]
+  },
+  {
+   "en_html": "In the short run, <mark class=\"voc\">smash-and-grab</mark> may benefit the superpower rivals, too. Yet the strategy has its limits. It relies on others to <mark class=\"voc\">prospect</mark> for and develop existing deposits, even as prospectors and developers grow more cautious. Despite forecasts of surging demand for copper, which may <mark class=\"voc\">outstrip</mark> supply by 8% within ten years, the world’s biggest producer of <mark class=\"voc\">the red metal</mark>, Chile, has <mark class=\"voc\">cut back</mark> output, largely owing to underinvestment in <mark class=\"voc\">decaying</mark> assets.",
+   "zh": "短期内，\"砸橱窗抢劫式\"的抢矿或能让两个超级大国对手也分得一杯羹。但这套策略自有其局限：它仰赖他人去勘探、开发现成的矿藏，而勘探者与开发者却正日趋谨慎。尽管预测铜需求将激增、十年内或超供给8%，全球最大的\"红金属\"生产国智利反而减产，主因是对日渐老化的矿山投资严重不足。",
+   "notes": [
+    {
+     "w": "smash-and-grab",
+     "ipa": "/ˌsmæʃ ən ˈɡræb/",
+     "pos": "n. & adj.",
+     "en": "smash-and-grab is a robbery in which a window is broken and goods are snatched quickly; figuratively, quick grabbing without thought for the future",
+     "zh": "\"砸橱窗抢劫\"（smash 砸+ grab 抢——砸碎玻璃、抓了就跑），比喻语境核心义为抢现成、不管长远的掠夺",
+     "ctx": "",
+     "ex1": "Smash-and-grab may benefit the rivals in the short run.短期内，这种抢现成的做法可能让对手受益。",
+     "ex2": "Thieves carried out a smash-and-grab raid on the jewellery shop.窃贼对珠宝店实施了一次砸窗抢劫。"
+    },
+    {
+     "w": "prospect",
+     "ipa": "/ˈprɑːspekt/",
+     "pos": "v.",
+     "en": "prospect (as a verb) means to search for minerals or other valuable substances",
+     "zh": "“勘探、找矿”（pro- 向前+ spect 看——淘金者东张西望到处找金矿），矿业语境核心义为勘探、找矿",
+     "ctx": "",
+     "ex1": "The strategy relies on others to prospect for and develop deposits. 这套策略靠别人去勘探和开发现成的矿藏。",
+     "ex2": "Thousands once came to prospect for gold in these hills. 曾几何时，成千上万的人来这片山区淘金。"
+    },
+    {
+     "w": "outstrip",
+     "ipa": "/ˌaʊtˈstrɪp/",
+     "pos": "v.",
+     "en": "outstrip means to become larger, more important or better than something else",
+     "zh": "\"把……甩在后面\"（out- 超出+ strip 跑——赛跑时把别人甩下一大截），比较语境核心义为超过、把……甩在后头",
+     "ctx": "",
+     "ex1": "Demand for copper may outstrip supply by 8% within ten years.十年内，铜需求可能超过供给8%。",
+     "ex2": "Wage growth has outstripped inflation for the first time in years.工资增长多年来首次超过通胀。"
+    },
+    {
+     "w": "the red metal",
+     "ipa": "/ðə red ˈmetl/",
+     "pos": "n. phrase",
+     "en": "the red metal is a nickname for copper, which has a reddish-brown colour",
+     "zh": "\"红金属\"（铜是唯一天生带红棕色的常见金属），矿业语境核心义为铜",
+     "ctx": "",
+     "ex1": "Chile is the world's biggest producer of the red metal.智利是全球最大的红金属（铜）生产国。",
+     "ex2": "The price of the red metal hit a record high this year.今年铜价创下历史新高。"
+    },
+    {
+     "w": "cut back",
+     "ipa": "/kʌt bæk/",
+     "pos": "phrasal v.",
+     "en": "cut back means to reduce the amount of something",
+     "zh": "\"往回切、缩减\"（cut 切+ back 回），减产语境核心义为削减、缩减、减产",
+     "ctx": "cut back output 减产。全球在闹\"铜荒\"、铜价飞天，最大的产铜国智利反而减产——这是本段最扎心的反常",
+     "ex1": "Chile has cut back output despite record copper prices.尽管铜价创纪录，智利反而减产了。",
+     "ex2": "The company cut back on travel to save money.公司削减差旅以节省开支。"
+    },
+    {
+     "w": "decaying",
+     "ipa": "/dɪˈkeɪɪŋ/",
+     "pos": "adj.",
+     "en": "decaying means gradually getting worse, falling apart or rotting",
+     "zh": "\"正在腐烂、衰败的\"（decay 腐烂——木头被雨淋、被虫蛀一天天烂下去），状态语境核心义为老化的、衰败的",
+     "ctx": "",
+     "ex1": "The mines are decaying assets that nobody wants to fund.这些矿山是没人愿意投资的衰败资产。",
+     "ex2": "The city's decaying infrastructure needs urgent repair.这座城市日益老化的基础设施急需修缮。"
+    }
+   ]
+  },
+  {
+   "en_html": "Higher prices should <mark class=\"voc\">in theory</mark> attract investment in new projects. But these can take a decade or more to <mark class=\"voc\">pinpoint</mark> and develop. In the meantime, all the <mark class=\"voc\">meddling</mark> by the governments of America and China is confusing the <mark class=\"voc\">price signals</mark> miners rely on to decide whether an <mark class=\"voc\">untapped</mark> deposit is <mark class=\"voc\">worth the hassle</mark>. The result is more investment <mark class=\"voc\">paralysis</mark>—but, for the lucky few places with ready deposits, it’s <mark class=\"voc\">payday</mark>. ■",
+   "zh": "理论上，高价本该引来对新项目的投资。但新矿往往要十年甚至更久方能定位与开发。而与此同时，中美两国政府的种种插手，正搅乱矿企赖以判断\"一处未开发矿藏是否值得大费周章\"的价格信号。其结果是更多的投资瘫痪——然而，对那些坐拥现成矿藏的少数幸运之地而言，这却是它们的发薪日。■",
+   "notes": [
+    {
+     "w": "in theory",
+     "ipa": "/ɪn ˈθɪəri/",
+     "pos": "phrase",
+     "en": "in theory means according to what should be true, though it may not be so in practice",
+     "zh": "\"理论上\"（theory 理论），让步语境核心义为理论上、按道理说",
+     "ctx": "",
+     "ex1": "Higher prices should in theory attract new investment. 理论上，更高的价格应该会吸引新投资。",
+     "ex2": "In theory it works, but in practice it rarely does. 理论上行得通，实践中却很少行得通。"
+    },
+    {
+     "w": "pinpoint",
+     "ipa": "/ˈpɪnpɔɪnt/",
+     "pos": "v.",
+     "en": "pinpoint means to find or describe something exactly",
+     "zh": "\"用大头针钉住那个点\"（pin 大头针+ point 点——在地图上把矿的位置一针钉住），精确定位语境核心义为精确定位、准确找到",
+     "ctx": "",
+     "ex1": "New projects can take a decade or more to pinpoint and develop. 新项目可能要花十年甚至更久才能定位并开发。",
+     "ex2": "Engineers pinpointed the cause of the failure within hours. 工程师们在数小时内就准确定位了故障原因。"
+    },
+    {
+     "w": "meddle",
+     "ipa": "/ˈmedl/",
+     "pos": "v.",
+     "en": "meddle means to interfere in something that is not your business, in a way that annoys people",
+     "zh": "\"多管闲事、瞎掺和\"（贬义——别人好好做事，你凑过去指手画脚添乱），干涉语境核心义为插手、干涉、添乱",
+     "ctx": "",
+     "ex1": "All the meddling by the two governments is confusing the price signals.两国政府的种种插手正在搅乱价格信号。",
+     "ex2": "He warned outsiders not to meddle in the country's affairs.他警告外部势力不要干涉该国内政。"
+    },
+    {
+     "w": "price signal",
+     "ipa": "/praɪs ˈsɪɡnəl/",
+     "pos": "n.",
+     "en": "a price signal is the information that a market price gives to buyers and sellers about supply and demand",
+     "zh": "“价格信号”（signal 信号、红绿灯），经济语境核心义为价格信号、价格这个 “红绿灯”",
+     "ctx": "",
+     "ex1": "Miners rely on price signals to decide whether to invest. 矿企依赖价格信号来决定是否投资。",
+     "ex2": "Government subsidies can distort the price signals investors need. 政府补贴会扭曲投资者所需的价格信号。"
+    },
+    {
+     "w": "untapped",
+     "ipa": "/ˌʌnˈtæpt/",
+     "pos": "adj.",
+     "en": "untapped means not yet used or developed, especially resources or potential",
+     "zh": "\"龙头还没拧开的\"（tap 水龙头——一口井龙头还没开、水还在地里），资源语境核心义为未开采的、未开发的",
+     "ctx": "",
+     "ex1": "They must decide whether an untapped deposit is worth the hassle. 他们必须判断一处未开发的矿藏值不值得费这个劲。",
+     "ex2": "The region has vast untapped potential for clean energy. 该地区在清洁能源方面有巨大的未开发潜力。"
+    },
+    {
+     "w": "worth the hassle",
+     "ipa": "/wɜːrθ ðə ˈhæsl/",
+     "pos": "phrase",
+     "en": "worth the hassle means worth the trouble or effort involved",
+     "zh": "\"值得费这个劲\"（hassle 麻烦事、费劲的事），权衡语境核心义为值得费这个劲、值得折腾",
+     "ctx": "",
+     "ex1": "Miners must decide if a new deposit is worth the hassle. 矿企必须判断新矿藏是否值得费这个劲。",
+     "ex2": "For a small gain, it is simply not worth the hassle. 就为那么点收益，实在不值得折腾。"
+    },
+    {
+     "w": "paralysis",
+     "ipa": "/pəˈræləsɪs/",
+     "pos": "n.",
+     "en": "paralysis means a total inability to move or act",
+     "zh": "“瘫痪、麻痹”（动词paralyze——脑子清醒但身体动不了），停滞语境核心义为瘫痪、停滞",
+     "ctx": "",
+     "ex1": "The result is more investment paralysis in the mining sector.结果是矿业领域的投资瘫痪加剧。",
+     "ex2": "The committee was stuck in paralysis, unable to reach a decision.委员会陷入瘫痪，无法作出决定。"
+    },
+    {
+     "w": "payday",
+     "ipa": "/ˈpeɪdeɪ/",
+     "pos": "n.",
+     "en": "payday is the day on which a person receives their wages or salary",
+     "zh": "\"发薪日\"（pay 发工资+ day 日子——打工人最盼的那天），隐喻语境核心义为发薪日、数钱的好日子",
+     "ctx": "全文的冷幽默收官——整个行业在\"瘫痪\"、在煎熬，但少数几个攥着现成矿的国家，照样像打工人一样准时\"领工资\"。作者用一个payday 加句号收尾，讽刺\"大国忙前忙后、小国天天数钱\"",
+     "ex1": "For the lucky few places with ready deposits, it's payday.对少数坐拥现成矿的幸运之地来说，这是发薪日。",
+     "ex2": "Friday is payday for most of the workforce.对大多数上班族来说，周五是发薪日。"
+    }
+   ]
+  }
+ ],
+ "proper": [
+  {
+   "name": "rare earth",
+   "def": "简要介绍：17 种金属元素的总称（钪、钇加镧系15 种），其实一点都不\"稀\"——最丰富的铈在地壳里的储量跟铜差不多。名字是个历史误会：1787 年瑞典军官在伊特比村捡到一块黑石头，1794 年芬兰化学家加多林从中分离出\"钇土\"，因当年习惯把不溶于水的固体氧化物叫\"土\"、又以为它稀有，故得名\"稀土\"。\"稀\"的不是矿，是\"把17 个孪生兄弟一个个分开\"的分离提纯技术——这一环中国占全球约九成，中国\"稀土之父\"徐光宪上世纪70 年代的\"串级萃取\"理论把纯度提到99.99%，让中国从资源大国变成分离霸主。<br>本文中的意思：全文的命门词。它串起\"关键矿产为什么关键\"和\"中国为什么能卡脖子\"——你有矿没用，会不会炼才是关键。"
+  },
+  {
+   "name": "cobalt",
+   "def": "简要介绍：元素符号Co，银蓝色金属。独门绝技是能让电池存得住电、扛得住高低温——手机、电动车电池靠它，故称\"电池的心脏\"。全球挖出的钴六成以上最终进入电池厂。刚果金一国产量占全球约七成、储量近一半。<br>本文中的意思：第一个赢家刚果金的\"王牌\"。也是全文最扎心的一层——刚果金部分钴来自无安全措施的手工矿，甚至童工，国际媒体称之为\"电池的血钻\"，你手机里那点钴可能是一个孩子用手挖出来的。"
+  },
+  {
+   "name": "World Bank",
+   "def": "简要介绍：专门向发展中国家提供资金与贷款的国际机构。它的钱往哪儿砸，通常意味着\"哪儿要起风了\"。<br>本文中的意思：10 月16 日宣布把一支关键矿产基金扩至五倍、达200亿美元，帮各国分这波暴涨需求。五年前这类融资才约36 亿美元，翻五倍还多——全世界真金白银往矿里砸。"
+  },
+  {
+   "name": "Democratic Republic of Congo / DRC",
+   "def": "简要介绍：中非国家，国土约234 万平方公里（非洲第二大），人口一亿多，是联合国认定的\"世界最不发达国家\"之一，人均GDP 约700 多美元。地底下富得流油（钴、铜），地面上穷得叮当响。注意与\"刚果布\"（刚果共和国）区分——带\"金\"字的才是矿产大国。<br>本文中的意思：全文第一个也是最大的赢家。西方资本在2015-16 年大宗商品崩盘后\"弃船而逃\"，中国反手抄底（砸10 亿美元扩建铜矿、再造年产50 万吨的巨无霸），美国随后也杀回来。2025 年外资矿业投资相当于其GDP 的约8%——钱一进去，这个赤贫国家的经济整个被\"脱胎换骨\"。"
+  },
+  {
+   "name": "Glencore",
+   "def": "简要介绍：总部在瑞士的矿业与大宗商品贸易巨头，全球最大钴生产商之一，在刚果金经营二十多年。旗下Mutanda（穆坦达）是全球最大钴矿之一，最盛时曾供全球约五分之一的钴；另有Kamoto（卡莫托）铜钴大矿。<br>本文中的意思：美国\"杀回来\"的落点——政府牵头的基金要买下它在刚果金两座矿山40%的股权，因为这是西方人手里\"硕果仅存\"的在营矿之一。"
+  },
+  {
+   "name": "DFC",
+   "def": "简要介绍：U.S. International Development Finance Corporation，美国政府的官方金融机构，专门出资支持美国在海外的战略投资，是\"美国政府掏钱抢矿\"的主要工具之一。<br>本文中的意思：在巴西、哈萨克斯坦两处都出现——给稀土矿批贷款、帮钨矿融资，是那套\"政府砸钱开路、私企跟上\"打法里的钱袋子。"
+  },
+  {
+   "name": "EXIM",
+   "def": "简要介绍：Export-Import Bank of the United States，美国政府系的金融机构，专门给\"美国企业做海外生意\"提供贷款与担保。<br>本文中的意思：与DFC 并列，是哈萨克斯坦钨矿那笔16 亿美元融资的来源之一。"
+  },
+  {
+   "name": "Orion",
+   "def": "简要介绍：美国一家顶级私募牵头发起、获DFC 支持的关键矿产投资联盟，专门收购海外关键矿产资产。<br>本文中的意思：美国重返刚果金的主力——通过这个联盟，以约90 亿美元的盘子买嘉能可在刚果金两座矿山40% 的股权，卡住钴的命脉、对冲中国已占七成多的矿山份额。"
+  },
+  {
+   "name": "Serra Verde / USA Rare Earth",
+   "def": "简要介绍：Serra Verde 是巴西一家稀土矿商，矿山位于巴西中部戈亚斯州的Pela Ema（佩拉埃玛），2024 年初才开始商业生产，却是亚洲之外唯一能规模化生产钕、镨、镝、铽四种磁性稀土的矿山。USA Rare Earth 是美国专门搞稀土的公司，2025 年9 月出手接管了它。<br>本文中的意思：美国\"稀土帝国\"的关键一子——巴西稀土储量全球第二（约2100 万吨），产量却不到全球1%（因为缺\"分离\"技术）。美国拿下这座\"亚洲之外唯一\"的矿，再叠加DFC 贷款与\"战争部\"的锁定包购，总投资直逼50 亿美元。"
+  },
+  {
+   "name": "Kaz Resources / Kairakty & Northern Katpar",
+   "def": "简要介绍：Kaz Resources 是一家去哈萨克斯坦开发钨矿的公司，背后有美国政府背书，以及埃里克·特朗普、小唐纳德·特朗普等投资者。Kairakty（凯拉克特）与NorthernKatpar（北卡特帕尔）是哈萨克斯坦中部两处大型钨矿，属全球最大的未开发钨矿资源之一。<br>本文中的意思：美国抢钨的抓手。中国掌控全球约八成钨供应、美国自2015 年起无在营商业钨矿——为了挣脱这第二只\"锁喉的手\"，美国连总统的儿子都下了场。"
+  },
+  {
+   "name": "Eric Trump / Donald Trump Jr.",
+   "def": "简要介绍：美国总统特朗普的两个儿子。大儿子因与父亲同名，称\"小唐纳德\"（DonaldTrump Jr.），二儿子为埃里克（Eric Trump）。<br>本文中的意思：彩蛋级细节——据报道二人通过一家空壳公司入股建筑公司，后者与矿业公司合并为Kaz Resources，而Kaz Resources 又拿到美国政府上十亿美元的融资去挖钨。本文仅陈述事实，不作评论。"
+  },
+  {
+   "name": "Chile",
+   "def": "简要介绍：全球最大的产铜国，一个国家产了全球约四分之一的铜，堪称\"铜界的沙特\"。其铜矿多为几十年前的老矿，品位逐年下降。<br>本文中的意思：全文最讽刺的反常——全球闹\"铜荒\"、铜价飞天，智利反而减产（2025 年产量同比降约2%），主因是老矿越挖越贫、而所有人都忙着\"抢现成\"，没人肯掏钱救那些正在衰败的老矿。"
+  },
+  {
+   "name": "resource curse",
+   "def": "简要介绍：经济学著名现象——自然资源越丰富的穷国，往往越容易穷、越容易乱。典型如委内瑞拉（石油储量全球前列却经济崩盘）、尼日利亚（非洲第一大产油国，老百姓反而最穷）。钱来得太容易，人就懒得干别的，还容易为抢钱内斗。<br>本文中的意思：开头for better or worse（婚礼誓词）埋的伏笔——资源可能是\"祝福\"，也可能是\"诅咒\"。有矿，不一定就是好事。"
+  },
+  {
+   "name": "supercycle",
+   "def": "简要介绍：大宗商品价格的超长上涨期。历史上有过数轮：19 世纪末美国崛起、二战后欧洲日本重建、1970 年代石油危机、2000 年代中国崛起——每一轮背后都站着一个\"巨人在崛起\"。2000 年代那轮：铁矿石13→190 美元/吨（13 倍）、铜1800→8900（近4倍）、石油25→147（近6 倍）。<br>本文中的意思：作者说世界\"可能正在进入又一个超级周期\"，推手是中美抢关键矿产。这个another 暗示历史又走到熟悉的节点——新一轮巨人崛起。"
+  },
+  {
+   "name": "rare-earth magnets / 四种磁性稀土",
+   "def": "简要介绍：钕、镨、镝、铽四种稀土是造\"永磁体\"（永远带磁的磁铁）的核心材料。永磁体用在电动车电机、风力发电机转子，以及导弹与战斗机上控制方向的小电机里——磁体一失效，导弹就失控。故称这四种稀土是\"命根子\"级的战略物资。<br>本文中的意思：解释美国为什么非拿下巴西Serra Verde 不可——它是中国之外唯一能稳定供这四种稀土的矿。"
+  },
+  {
+   "name": "2025 稀土出口管制事件",
+   "def": "简要介绍：2025 年4 月4 日，中国对钐、钆、铽、镝、镥、钪、钇七种中重稀土实施出口管制（这些是造芯片、武器离不了的）。一个月后的5 月12 日，中美在日内瓦达成声明，美国同意把对华关税从145% 降到30%。<br>本文中的意思：第三段那段\"加关税→限稀土→被迫收手\"因果链的实锤。一张稀土牌打出去，关税战直接熄火——这就是美国为什么拼了命要\"挣脱锁喉\"。"
+  }
+ ],
+ "sources_note": "本文选自 The Economist 2026 年 10 月 29 日文章，由《早安英文》讲解。",
+ "practice": {
+  "intro": "请将以下中文句子翻译为英文（参考答案见后）。",
+  "items": [
+   "关键矿产的利润，可能彻底改变少数几个幸运儿的命运。",
+   "无论好坏，许多穷国的命运，都系于它们脚下的自然资源。",
+   "如今，这两个对手都在讨好一个比这小得多的国家群体——那些能快速把矿产从地里挖",
+   "2025 年5 月，特朗普被迫收回先前加诸中国商品的关税，起因是中国出手反制，限制",
+   "中美两国的矿产猎手正一窝蜂地挤进同样那寥寥几个国家，因为只有那么几个国家拥有",
+   "其结果是更多的投资瘫痪——然而，对那些坐拥现成矿藏的少数幸运之地而言，这却是"
+  ],
+  "critical_en": "",
+  "critical_zh": "",
+  "answer": "1. Critical-mineral profits could transform a lucky few.<br><br>2. For better or worse, many poor countries' fortunes hinge on their natural<br><br>3. Today the rivals are both courting a much smaller group of countries capable<br><br>4. In May 2025 Mr Trump was forced to rein in tariffs he had imposed on Chinese<br><br>5. American and Chinese mineral-hunters are piling into the same handful of<br><br>6. The result is more investment paralysis—but, for the lucky few places with"
+ },
+ "mindmap": {
+  "aria": "中美关键矿产竞赛与小国红利思维导图",
+  "alt": "中美争抢关键矿产与小国发财（手绘版）",
+  "svg": "<svg viewBox=\"0 0 960 720\" xmlns=\"http://www.w3.org/2000/svg\" role=\"img\" aria-label=\"“中美抢矿”布莱尔与中期选举思维导图\" style=\"width:100%;height:auto;font-family:-apple-system,'PingFang SC','Hiragino Sans GB','Microsoft YaHei',sans-serif\">\n        <rect x=\"24\" y=\"306\" width=\"176\" height=\"88\" rx=\"14\" fill=\"#eae3d2\" stroke=\"#9a8f76\"/>\n        <text x=\"112\" y=\"342\" text-anchor=\"middle\" fill=\"#3d3a34\" font-size=\"17\" font-weight=\"700\">中美抢矿</text>\n        <text x=\"112\" y=\"368\" text-anchor=\"middle\" fill=\"#5c5648\" font-size=\"12.5\">小国发横财</text>\n\n        <path d=\"M200,350 C232,350 232,88 260,88\"  stroke=\"#6b8f71\" stroke-width=\"2\" fill=\"none\"/>\n        <path d=\"M200,350 C232,350 232,238 260,238\" stroke=\"#7d98ad\" stroke-width=\"2\" fill=\"none\"/>\n        <path d=\"M200,350 C232,350 232,433 260,433\" stroke=\"#bd7a6d\" stroke-width=\"2\" fill=\"none\"/>\n        <path d=\"M200,350 C232,350 232,628 260,628\" stroke=\"#9b86b3\" stroke-width=\"2\" fill=\"none\"/>\n\n        <g class=\"mm-branch\" data-target=\"bc1\">\n          <rect x=\"260\" y=\"71\" width=\"190\" height=\"34\" rx=\"8\" fill=\"#e6efe7\" stroke=\"#6b8f71\"/>\n          <text x=\"349\" y=\"93\" text-anchor=\"middle\" fill=\"#4c6b52\" font-size=\"15\" font-weight=\"700\">超级周期（¶1–2）</text>\n          <text class=\"mm-arrow\" data-for=\"bc1\" x=\"442\" y=\"93\" text-anchor=\"end\" fill=\"#4c6b52\">▾</text>\n        </g>\n        <g class=\"mm-children\" id=\"bc1\">\n          <path d=\"M450,88 C462,88 462,46 480,46\" stroke=\"#6b8f71\" stroke-width=\"1.5\" fill=\"none\"/>\n          <path d=\"M450,88 C462,88 462,88 480,88\" stroke=\"#6b8f71\" stroke-width=\"1.5\" fill=\"none\"/>\n          <path d=\"M450,88 C462,88 462,130 480,130\" stroke=\"#6b8f71\" stroke-width=\"1.5\" fill=\"none\"/>\n          <rect x=\"480\" y=\"30\" width=\"456\" height=\"32\" rx=\"8\" fill=\"#e6efe7\"/><text x=\"492\" y=\"51\" fill=\"#3d3a34\" font-size=\"14\">穷国命运系于地底资源</text>\n          <rect x=\"480\" y=\"72\" width=\"456\" height=\"32\" rx=\"8\" fill=\"#e6efe7\"/><text x=\"492\" y=\"93\" fill=\"#3d3a34\" font-size=\"14\">中美争抢关键矿产</text>\n          <rect x=\"480\" y=\"114\" width=\"456\" height=\"32\" rx=\"8\" fill=\"#e6efe7\"/><text x=\"492\" y=\"135\" fill=\"#3d3a34\" font-size=\"14\">稀土外交方兴未艾</text>\n        </g>\n\n        <g class=\"mm-branch\" data-target=\"bc2\">\n          <rect x=\"260\" y=\"221\" width=\"190\" height=\"34\" rx=\"8\" fill=\"#e5edf4\" stroke=\"#7d98ad\"/>\n          <text x=\"349\" y=\"243\" text-anchor=\"middle\" fill=\"#3d5872\" font-size=\"15\" font-weight=\"700\">非洲赢家（¶3–5）</text>\n          <text class=\"mm-arrow\" data-for=\"bc2\" x=\"442\" y=\"243\" text-anchor=\"end\" fill=\"#3d5872\">▾</text>\n        </g>\n        <g class=\"mm-children\" id=\"bc2\">\n          <path d=\"M450,238 C462,238 462,196 480,196\" stroke=\"#7d98ad\" stroke-width=\"1.5\" fill=\"none\"/>\n          <path d=\"M450,238 C462,238 462,238 480,238\" stroke=\"#7d98ad\" stroke-width=\"1.5\" fill=\"none\"/>\n          <path d=\"M450,238 C462,238 462,280 480,280\" stroke=\"#7d98ad\" stroke-width=\"1.5\" fill=\"none\"/>\n          <rect x=\"480\" y=\"180\" width=\"456\" height=\"32\" rx=\"8\" fill=\"#e5edf4\"/><text x=\"492\" y=\"201\" fill=\"#3d3a34\" font-size=\"14\">世行矿产基金扩至两百亿</text>\n          <rect x=\"480\" y=\"222\" width=\"456\" height=\"32\" rx=\"8\" fill=\"#e5edf4\"/><text x=\"492\" y=\"243\" fill=\"#3d3a34\" font-size=\"14\">刚果金成最大赢家</text>\n          <rect x=\"480\" y=\"264\" width=\"456\" height=\"32\" rx=\"8\" fill=\"#e5edf4\"/><text x=\"492\" y=\"285\" fill=\"#3d3a34\" font-size=\"14\">光有矿还不够，还得快</text>\n        </g>\n\n        <g class=\"mm-branch\" data-target=\"bc3\">\n          <rect x=\"260\" y=\"416\" width=\"190\" height=\"34\" rx=\"8\" fill=\"#f4e7e4\" stroke=\"#bd7a6d\"/>\n          <text x=\"349\" y=\"438\" text-anchor=\"middle\" fill=\"#7c4a3e\" font-size=\"15\" font-weight=\"700\">美国回归（¶6–8）</text>\n          <text class=\"mm-arrow\" data-for=\"bc3\" x=\"442\" y=\"438\" text-anchor=\"end\" fill=\"#7c4a3e\">▾</text>\n        </g>\n        <g class=\"mm-children\" id=\"bc3\">\n          <path d=\"M450,433 C462,433 462,391 480,391\" stroke=\"#bd7a6d\" stroke-width=\"1.5\" fill=\"none\"/>\n          <path d=\"M450,433 C462,433 462,433 480,433\" stroke=\"#bd7a6d\" stroke-width=\"1.5\" fill=\"none\"/>\n          <path d=\"M450,433 C462,433 462,475 480,475\" stroke=\"#bd7a6d\" stroke-width=\"1.5\" fill=\"none\"/>\n          <rect x=\"480\" y=\"375\" width=\"456\" height=\"32\" rx=\"8\" fill=\"#f4e7e4\"/><text x=\"492\" y=\"396\" fill=\"#3d3a34\" font-size=\"14\">洽购嘉能可两矿四成股权</text>\n          <rect x=\"480\" y=\"417\" width=\"456\" height=\"32\" rx=\"8\" fill=\"#f4e7e4\"/><text x=\"492\" y=\"438\" fill=\"#3d3a34\" font-size=\"14\">巴西稀土：亚洲之外唯一</text>\n          <rect x=\"480\" y=\"459\" width=\"456\" height=\"32\" rx=\"8\" fill=\"#f4e7e4\"/><text x=\"492\" y=\"480\" fill=\"#3d3a34\" font-size=\"14\">哈萨克钨矿，总统儿子入股</text>\n        </g>\n\n        <g class=\"mm-branch\" data-target=\"bc4\">\n          <rect x=\"260\" y=\"611\" width=\"190\" height=\"34\" rx=\"8\" fill=\"#ece4f2\" stroke=\"#9b86b3\"/>\n          <text x=\"349\" y=\"633\" text-anchor=\"middle\" fill=\"#5a4670\" font-size=\"15\" font-weight=\"700\">隐忧与结局（¶9–11）</text>\n          <text class=\"mm-arrow\" data-for=\"bc4\" x=\"442\" y=\"633\" text-anchor=\"end\" fill=\"#5a4670\">▾</text>\n        </g>\n        <g class=\"mm-children\" id=\"bc4\">\n          <path d=\"M450,628 C462,628 462,586 480,586\" stroke=\"#9b86b3\" stroke-width=\"1.5\" fill=\"none\"/>\n          <path d=\"M450,628 C462,628 462,628 480,628\" stroke=\"#9b86b3\" stroke-width=\"1.5\" fill=\"none\"/>\n          <path d=\"M450,628 C462,628 462,670 480,670\" stroke=\"#9b86b3\" stroke-width=\"1.5\" fill=\"none\"/>\n          <rect x=\"480\" y=\"570\" width=\"456\" height=\"32\" rx=\"8\" fill=\"#ece4f2\"/><text x=\"492\" y=\"591\" fill=\"#3d3a34\" font-size=\"14\">抢的是同一批有旧矿的国家</text>\n          <rect x=\"480\" y=\"612\" width=\"456\" height=\"32\" rx=\"8\" fill=\"#ece4f2\"/><text x=\"492\" y=\"633\" fill=\"#3d3a34\" font-size=\"14\">短期掠夺，长期投资瘫痪</text>\n          <rect x=\"480\" y=\"654\" width=\"456\" height=\"32\" rx=\"8\" fill=\"#ece4f2\"/><text x=\"492\" y=\"675\" fill=\"#3d3a34\" font-size=\"14\">新矿投产动辄十年以上</text>\n        </g>\n      </svg>",
+  "img": ""
+ }
+}
