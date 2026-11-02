@@ -19,6 +19,7 @@
   --voc: #eef3d8;          /* 正文中「有注释的单词」底色 */
   --voc-line: #c3d19b;
   --radius: 10px;
+  --side-w: clamp(288px,30%,404px); /* 侧栏宽度；顶部栏据此对齐正文列 */
   --header-h: 116px;       /* 顶部固定栏高度，JS 会实时校准 */
 }
 *{box-sizing:border-box;margin:0;padding:0}
@@ -34,12 +35,16 @@ body{
 /* 顶部标题栏：固定在页面顶端，滚动时不动 */
 header{
   position:sticky; top:0; z-index:60;
-  max-width:1400px;margin:0 auto; /* header-align-v1 */
+  max-width:1400px;margin:0 auto;
+  padding:0 28px; /* header-align-v2：可见栏收窄到正文列，白底移到 .head-inner */
+}
+.head-inner{
+  max-width:calc(100% - var(--side-w) - 24px);
+  padding:14px 0 12px;
   background:rgba(255,255,255,.95);
   -webkit-backdrop-filter:saturate(180%) blur(10px);
   backdrop-filter:saturate(180%) blur(10px);
   border-bottom:1px solid var(--line);
-  padding:14px 28px 12px;
 }
 .meta-row{display:flex;flex-wrap:wrap;gap:14px;align-items:baseline}
 h1{font-size:22px;font-weight:700}
@@ -61,7 +66,7 @@ h1{font-size:22px;font-weight:700}
 .main{flex:7;min-width:0}
 /* 右侧面板：固定悬浮，高度不超一屏 */
 .side{
-  flex:0 0 clamp(288px,30%,404px);min-width:0;
+  flex:0 0 var(--side-w);min-width:0;
   position:sticky; top:calc(var(--header-h) + 12px);
   height:calc(100vh - var(--header-h) - 24px);
   display:flex;
@@ -217,6 +222,8 @@ mark.voc:hover{background:#e0eabf;border-bottom-color:var(--accent)}
 
 /* ========== 移动端自适应 ========== */
 @media (max-width:767px){
+  header{padding:0 16px}
+  header .head-inner{max-width:none}
   .layout{flex-direction:column}
   .main{flex:none;width:100%}
   /* 窄屏：面板下沉页面底部，不再固定高度 */
@@ -395,6 +402,11 @@ body.print-sheet .back-cal{display:none !important}
     position:static !important;
     -webkit-backdrop-filter:none !important;backdrop-filter:none !important;
   }
+  header .head-inner{
+    position:static !important;max-width:none !important;margin:0 !important;padding:0 !important;
+    background:none !important;border:0 !important;
+    -webkit-backdrop-filter:none !important;backdrop-filter:none !important;
+  }
   /* 分页控制：只留低风险的 avoid，高块不 avoid */
   h1{break-after:avoid !important;page-break-after:avoid !important}
   .headline-block{break-after:auto !important;page-break-after:auto !important;
@@ -405,6 +417,7 @@ body.print-sheet .back-cal{display:none !important}
 }
 body.print-sheet header{position:static !important;
   -webkit-backdrop-filter:none !important;backdrop-filter:none !important}
+body.print-sheet .head-inner{background:none!important;border:0!important;padding:0!important;max-width:none!important}
 body.print-sheet .layout,body.print-sheet .main{display:block !important}
 /* ========== 右侧查询面板：宽屏默认收成竖条，点击展开（side-rail-v1） ========== */
 /* 平板（768–1080）：展开态是右侧抽屉浮层，正文宽度不变、不重排，只盖住右侧一小条 */
@@ -419,6 +432,7 @@ body.print-sheet .layout,body.print-sheet .main{display:block !important}
     box-shadow:0 16px 40px rgba(24,25,28,.22),0 2px 8px rgba(24,25,28,.10);
   }
   body:not(.side-collapsed) .side-collapse{font-size:12.5px;padding:4px 8px}
+  header .head-inner{max-width:none}
 }
 @media (min-width:768px){
   body.side-collapsed .layout{gap:14px}
@@ -470,6 +484,7 @@ body.print-sheet .layout,body.print-sheet .main{display:block !important}
 
 <!-- ==================== 页面头部 ==================== -->
 <header>
+  <div class="head-inner">
   <a class="back-cal" href="../../../index.html?d=2026-10-07">← 返回日历</a>
   <div class="meta-row">
     <h1>缅北电诈“四大家族”覆灭全纪录！被转卖的“猪仔”、晒在屋顶的钱、布满弹孔的墙……</h1>
@@ -487,6 +502,7 @@ body.print-sheet .layout,body.print-sheet .main{display:block !important}
       <a href="#practice">练习</a>
     </nav>
     <button class="print-btn" onclick="doPrint()" title="A4 打印：仅标题与英文正文" aria-label="打印">🖨</button>
+  </div>
   </div>
 </header>
 
