@@ -379,8 +379,15 @@ h1,.headline-block{break-after:avoid !important;page-break-after:avoid !importan
 .back-cal{display:inline-block;font-size:13px;color:#4a6fa5;text-decoration:none;padding:0 0 8px}
 .back-cal:hover{color:#2c4a7c}
 .back-cal:active{opacity:.55}
-@media print{.back-cal{display:none !important}}
-body.print-sheet .back-cal{display:none !important}
+/* 上一篇 / 下一篇 跳转 */
+.seq-nav{display:flex;gap:14px;margin:2px 0 8px;font-size:13px;flex-wrap:wrap}
+.seq-nav a{display:inline-flex;flex-direction:column;max-width:48%;text-decoration:none;color:#4a6fa5;padding:5px 12px;border:1px solid #d8e0ec;border-radius:9px;background:#f7f9fc;transition:.15s}
+.seq-nav a:hover{color:#2c4a7c;border-color:#9fb6d6;background:#eef3fa}
+.seq-nav .seq-l{font-weight:600;font-size:12px;color:#6b7d97;letter-spacing:.5px}
+.seq-nav .seq-t{font-size:13px;color:#33475f;white-space:nowrap;overflow:hidden;text-overflow:ellipsis;max-width:100%;margin-top:1px}
+.seq-nav .seq-next{text-align:right;align-items:flex-end;margin-left:auto}
+@media print{.back-cal,.seq-nav{display:none !important}}
+body.print-sheet .back-cal,body.print-sheet .seq-nav{display:none !important}
 
 /* ===== print-hardened-v1：WebKit / Safari 打印分页加固，勿删 ===== */
 @media print{
@@ -485,7 +492,7 @@ body.print-sheet .layout,body.print-sheet .main{display:block !important}
 <!-- ==================== 页面头部 ==================== -->
 <header>
   <div class="head-inner">
-  <a class="back-cal" href="../../../index.html?d=2026-10-30">← 返回日历</a>
+  <a class="back-cal" href="../../../index.html?d=2026-10-30">← 返回日历</a><nav class="seq-nav" aria-label="上一篇/下一篇"><a class="seq-prev" href="/outward-reading/articles/2026/10/2026-10-29_001.reading.html"><span class="seq-l">← 上一篇</span><span class="seq-t">Don't expect supersize profits from Anthropic soon</span></a><a class="seq-next" href="/outward-reading/articles/2026/10/2026-10-31_001.reading.html"><span class="seq-l">下一篇 →</span><span class="seq-t">The Americans changing politics for the better</span></a></nav>
   <div class="meta-row">
     <h1>西班牙高铁又出事了：同一条高铁线，10 个月两次重大事故、114 人死亡</h1>
     <div class="meta">

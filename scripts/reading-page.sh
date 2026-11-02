@@ -80,6 +80,9 @@ case "$cmd" in
     echo "== 1/4 复制精读页 → $dest"
     cp "$html" "$dest"
 
+    echo "== 1.5/4 注入「上一篇/下一篇」跳转（含本页与相邻页）"
+    python3 "$REPO_DIR/scripts/inject-seq-nav.py" "$date"
+
     echo "== 2/4 更新 index.html（为 $date 条目加 readingPath）"
     node - "$INDEX" "$date" "$web_path" <<'NODE'
 const fs = require('fs');
