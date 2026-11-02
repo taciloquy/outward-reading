@@ -1,15 +1,20 @@
 #!/usr/bin/env python3
 # -*- coding: utf-8 -*-
 """
-逐段朗读音频生成器（para-audio-v1）
+逐段朗读音频生成器（para-audio-v2）
 用法：
     python3 scripts/gen-paragraph-audio.py scripts/content/2026-11-01.json [输出目录]
 
 默认输出目录：articles/YYYY/MM/audio/<日期>/（从 JSON 的 date 字段推导）
 音色：us = en-US-AndrewMultilingualNeural（美音男）
       uk = en-GB-SoniaNeural（英音女）
-语速固定 -8%（学习场景友好）。串行生成，避免并发被限流。
+语速：原速 = 0%，慢速 = -10%
+输出：<us|uk>-p<N>.mp3（原速）与 <us|uk>-p<N>-s.mp3（慢速）
+串行生成，避免并发被限流。断点续跑：已存在且非空的文件跳过。
 依赖：pip3 install edge-tts
+
+注意：v1 的旧音频是 -8% 语速且文件名无 -s 后缀，与 v2 语速定义不符；
+升级到 v2 时请先删除旧的 audio/<日期>/ 目录再重新生成。
 """
 import json
 import re
@@ -22,10 +27,12 @@ VOICES = {
     "us": "en-US-AndrewMultilingualNeural",
     "uk": "en-GB-SoniaNeural",
 }
-RATE = "-8%"
+# (文件后缀, edge-tts rate 参数)
+RATES = [("", "+0%"), ("-s", "-10%")]
 
-# pymupdf 同款坑：康熙部首/部首补充区码位还原（音频文本也用得上）
+
 def fix_radicals(t: str) -> str:
+    """pymupdf 同款坑：康熙部首/部首补充区码位还原"""
     import unicodedata
     out = []
     for ch in t:
@@ -49,9 +56,9 @@ def html_to_text(en_html: str) -> str:
     return t
 
 
-async def gen_one(text: str, voice_id: str, path: str):
+async def gen_one(text: str, voice_id: str, rate: str, path: str):
     import edge_tts
-    c = edge_tts.Communicate(text, voice_id, rate=RATE)
+    c = edge_tts.Communicate(text, voice_id, rate=rate)
     await c.save(path)
 
 
@@ -79,16 +86,17 @@ async def main():
 
     total = 0
     for key, voice_id in VOICES.items():
-        for i, text in paras:
-            path = os.path.join(out_dir, f"{key}-p{i}.mp3")
-            # 已存在且非空则跳过（断点续跑）
-            if os.path.exists(path) and os.path.getsize(path) > 1000:
-                print(f"跳过（已存在）{path}")
-                continue
-            await gen_one(text, voice_id, path)
-            size = os.path.getsize(path)
-            total += size
-            print(f"{path}  {size/1024:.0f}KB")
+        for suffix, rate in RATES:
+            for i, text in paras:
+                path = os.path.join(out_dir, f"{key}-p{i}{suffix}.mp3")
+                # 已存在且非空则跳过（断点续跑）
+                if os.path.exists(path) and os.path.getsize(path) > 1000:
+                    print(f"跳过（已存在）{path}")
+                    continue
+                await gen_one(text, voice_id, rate, path)
+                size = os.path.getsize(path)
+                total += size
+                print(f"{path}  {size/1024:.0f}KB")
     print(f"完成：{out_dir}，新增 {total/1024/1024:.1f}MB")
 
 
