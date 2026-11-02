@@ -59,10 +59,11 @@ def build_section(sec_id, p_label, toggle_text, en_html, zh, notes, prefix, head
     btn = f'\n      <button class="notes-toggle" onclick="toggleNotes(this)">{toggle_text}</button>' if notes else ""
     sec_cls = "paragraph headline-block" if headline else "paragraph"
     en_cls = "headline-en" if headline else "en-block en"
+    # 原文无译文时不出译文块（否则留一条空白灰带）
+    zh_html = f'\n      <div class="zh-block">{zh}</div>' if zh and zh.strip() else ""
     return f'''    <section class="{sec_cls}" id="{sec_id}">
       <div class="p-label">{p_label}</div>
-      <div class="{en_cls}">{marks}</div>
-      <div class="zh-block">{zh}</div>{btn}{ng}
+      <div class="{en_cls}">{marks}</div>{zh_html}{btn}{ng}
     </section>'''
 
 
@@ -177,11 +178,13 @@ def main():
     b = s.index('</div>', a)
     s = s[:a] + "\n" + pnav + s[b:]
 
-    # 9. 练习区
-    pr = c["practice"]
-    items_html = "<br><br>".join(f"{i+1}. {it}" for i, it in enumerate(pr["items"]))
-    ex_body = f"{pr['intro']}<br><br>{items_html}<br><br>Critical Thinking 课后思考<br>{pr['critical_en']}<br><br>{pr['critical_zh']}"
-    practice = f'''<section class="practice" id="practice">
+    # 9. 练习区（原文无练习时整段隐藏，避免留一个空的「翻译练习」区）
+    pr = c.get("practice") or {}
+    has_practice = pr.get("items") or pr.get("answer") or pr.get("intro") or pr.get("critical_en")
+    if has_practice:
+        items_html = "<br><br>".join(f"{i+1}. {it}" for i, it in enumerate(pr.get("items") or []))
+        ex_body = f"{pr.get('intro','')}<br><br>{items_html}<br><br>Critical Thinking 课后思考<br>{pr.get('critical_en','')}<br><br>{pr.get('critical_zh','')}"
+        practice = f'''<section class="practice" id="practice">
   <h2>翻译练习</h2>
 
   <div class="fold" id="fold-exercise">
@@ -195,9 +198,11 @@ def main():
     <button class="fold-head" onclick="toggleFold('fold-answer')">
       <span>参考答案</span><span class="arrow">▶</span>
     </button>
-    <div class="fold-body">{pr["answer"]}</div>
+    <div class="fold-body">{pr.get("answer","")}</div>
   </div>
 </section>'''
+    else:
+        practice = ""
     s = re.sub(r'<section class="practice" id="practice">.*?</section>', lambda _: practice, s, count=1, flags=re.S)
 
     # 9.5 音频目录：母版里 PARA_AUDIO_BASE 是母版自己的日期，改成新文章的
