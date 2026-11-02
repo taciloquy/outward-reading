@@ -19,7 +19,7 @@
   --voc: #eef3d8;          /* 正文中「有注释的单词」底色 */
   --voc-line: #c3d19b;
   --radius: 10px;
-  --side-w: clamp(288px,30%,404px); /* 侧栏宽度；顶部栏据此对齐正文列 */
+  --side-w: clamp(288px,30%,404px); /* 侧栏宽度 */
   --header-h: 116px;       /* 顶部固定栏高度，JS 会实时校准 */
 }
 *{box-sizing:border-box;margin:0;padding:0}
@@ -36,10 +36,10 @@ body{
 header{
   position:sticky; top:0; z-index:60;
   max-width:1400px;margin:0 auto;
-  padding:0 28px; /* header-align-v2：可见栏收窄到正文列，白底移到 .head-inner */
+  padding:0 28px; /* header-align-v3：可见栏占满内容区整宽，左缘对正文、右缘对查询面板 */
 }
 .head-inner{
-  max-width:calc(100% - var(--side-w) - 24px);
+  max-width:100%;
   padding:14px 0 12px;
   background:rgba(255,255,255,.95);
   -webkit-backdrop-filter:saturate(180%) blur(10px);
