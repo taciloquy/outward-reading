@@ -9,7 +9,7 @@
 - 标题（#p-headline）的 .p-label 注入喇叭按钮 + 「连播」开关（标记 para-audio-title-v2）
   - 连播：按 标题 → P1 → P2 → … → Pn 顺序播完整篇；偏好存 localStorage('pa-chain')
   - 连播中自动滚动跟随当前段落，并预载下一段消除段间空档
-  - 手动点了任意段落 → 从那里继续连播；连播关闭时播完当前段即停
+  - 手动点了任意段落 → 从那里继续连播；听全文关闭时播完当前段即停
   - 旧标记 para-audio-title-v1 会被原位升级替换为 v2（正文 v3 不动）
 - 2026-11-02 用户决策：音色固定英音 Sonia、语速固定原速，**不提供任何选择器**
   （v1 顶栏切换 / v2 段内胶囊均已废弃）
@@ -156,11 +156,11 @@ function toggleTitleAudio(btn){
     titleBtn.addEventListener('click', function(){ toggleTitleAudio(titleBtn); });
     label.appendChild(titleBtn);
   }
-  // 「连播」开关（放在标题喇叭右侧）
+  // 「听全文」开关（放在标题喇叭右侧）
   var loop = document.createElement('button');
   loop.className = 'pa-loop' + (paChain ? ' on' : '');
-  loop.type = 'button'; loop.textContent = '连播';
-  loop.title = '连续播放：从当前位置按顺序播完整篇';
+  loop.type = 'button'; loop.textContent = '听全文';
+  loop.title = '听全文：从当前位置按顺序播完整篇';
   loop.setAttribute('aria-pressed', String(paChain));
   loop.addEventListener('click', function(){
     paChain = !paChain;
@@ -178,7 +178,7 @@ function toggleTitleAudio(btn){
     if(b) paOrder.push(b);
   });
 
-  // 捕获阶段监听任意喇叭点击：记录连播起点 / 滚动跟随 / 预载下一段
+  // 捕获阶段监听任意喇叭点击：记录听全文起点 / 滚动跟随 / 预载下一段
   document.addEventListener('click', function(e){
     var b = e.target.closest ? e.target.closest('.p-audio') : null;
     if(!b) return;

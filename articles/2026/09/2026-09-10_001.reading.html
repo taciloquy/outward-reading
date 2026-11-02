@@ -482,13 +482,38 @@ body.print-sheet .layout,body.print-sheet .main{display:block !important}
 @media print{.seq-nav{display:none !important}}
 body.print-sheet .seq-nav{display:none !important}
 </style>
+<style id="pager-css">
+/* 上一篇 / 下一篇：与「返回日历」同行，右侧双箭头，悬停出字 */
+.head-top{display:flex;align-items:center;justify-content:space-between;gap:12px}
+.pager{display:flex;align-items:center;gap:6px;flex:none;margin:0}
+.pg-btn{position:relative;display:inline-flex;align-items:center;justify-content:center;
+  width:30px;height:30px;border-radius:50%;flex:none;
+  color:#4a6fa5;background:rgba(74,111,165,.10);text-decoration:none;
+  font:600 15px/1 -apple-system,BlinkMacSystemFont,"PingFang SC","Microsoft YaHei",sans-serif;
+  -webkit-tap-highlight-color:transparent;transition:background .15s,color .15s,transform .15s}
+.pg-btn:hover,.pg-btn:focus-visible{background:#4a6fa5;color:#fff;transform:translateY(-1px)}
+.pg-btn:active{transform:translateY(0)}
+.pg-btn.is-off{background:transparent;color:#cfc9bd;pointer-events:none;cursor:default}
+.pg-tip{position:absolute;top:calc(100% + 7px);left:50%;
+  transform:translateX(-50%) translateY(-4px);
+  padding:4px 9px;border-radius:6px;background:#3d3a34;color:#fff;
+  font:500 12px/1.3 -apple-system,"PingFang SC","Microsoft YaHei",sans-serif;
+  white-space:nowrap;opacity:0;visibility:hidden;pointer-events:none;z-index:90;
+  transition:opacity .15s,visibility .15s,transform .15s}
+.pg-tip:before{content:"";position:absolute;bottom:100%;left:50%;transform:translateX(-50%);
+  border:5px solid transparent;border-bottom-color:#3d3a34}
+.pg-btn:hover .pg-tip,.pg-btn:focus-visible .pg-tip{opacity:1;visibility:visible;
+  transform:translateX(-50%) translateY(0)}
+@media print{.pager{display:none !important}}
+body.print-sheet .pager{display:none !important}
+</style>
 </head>
 <body>
 
 <!-- ==================== 页面头部 ==================== -->
 <header>
   <div class="head-inner">
-  <a class="back-cal" href="../../../index.html?d=2026-09-10">← 返回日历</a><nav class="seq-nav" aria-label="上一篇/下一篇"><a class="seq-prev" href="/outward-reading/articles/2026/09/2026-09-09_001.reading.html"><span class="seq-l">← 上一篇</span><span class="seq-t">中国汽车出海杀疯了：5年出口暴涨7倍，现在开始把工厂开到全世界！欧洲人都看傻了</span></a><a class="seq-next" href="/outward-reading/articles/2026/09/2026-09-11_001.reading.html"><span class="seq-l">下一篇 →</span><span class="seq-t">苹果2026发布会炸了：第一台折叠iPhone来了：卖到1.6万元，凭什么？</span></a></nav>
+  <div class="head-top"><a class="back-cal" href="../../../index.html?d=2026-09-10">← 返回日历</a><nav class="pager" aria-label="文章翻页"><a class="pg-btn pg-prev" href="/outward-reading/articles/2026/09/2026-09-09_001.reading.html" aria-label="上一篇"><span class="pg-ico" aria-hidden="true">←</span><span class="pg-tip" role="tooltip">上一篇</span></a><a class="pg-btn pg-next" href="/outward-reading/articles/2026/09/2026-09-11_001.reading.html" aria-label="下一篇"><span class="pg-ico" aria-hidden="true">→</span><span class="pg-tip" role="tooltip">下一篇</span></a></nav></div>
   <div class="meta-row">
     <h1>全世界的孩子都越学越差？这一代到底怎么了？全球教育出了什么问题？</h1>
     <div class="meta">
@@ -1435,11 +1460,11 @@ function toggleTitleAudio(btn){
     titleBtn.addEventListener('click', function(){ toggleTitleAudio(titleBtn); });
     label.appendChild(titleBtn);
   }
-  // 「连播」开关（放在标题喇叭右侧）
+  // 「听全文」开关（放在标题喇叭右侧）
   var loop = document.createElement('button');
   loop.className = 'pa-loop' + (paChain ? ' on' : '');
-  loop.type = 'button'; loop.textContent = '连播';
-  loop.title = '连续播放：从当前位置按顺序播完整篇';
+  loop.type = 'button'; loop.textContent = '听全文';
+  loop.title = '听全文：从当前位置按顺序播完整篇';
   loop.setAttribute('aria-pressed', String(paChain));
   loop.addEventListener('click', function(){
     paChain = !paChain;
@@ -1457,7 +1482,7 @@ function toggleTitleAudio(btn){
     if(b) paOrder.push(b);
   });
 
-  // 捕获阶段监听任意喇叭点击：记录连播起点 / 滚动跟随 / 预载下一段
+  // 捕获阶段监听任意喇叭点击：记录听全文起点 / 滚动跟随 / 预载下一段
   document.addEventListener('click', function(e){
     var b = e.target.closest ? e.target.closest('.p-audio') : null;
     if(!b) return;
