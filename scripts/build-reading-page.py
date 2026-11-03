@@ -103,16 +103,21 @@ def main():
         except Exception:
             pass
         img_b64 = base64.b64encode(raw).decode()
+    # 默认显示手绘版（用户 2026-11-03：手绘版更容易留印象）；没有手绘图时退回矢量版
+    vector_attr = ' style="display:none"' if img_b64 else ""
+    image_attr = "" if img_b64 else ' style="display:none"'
+    vector_active = "" if img_b64 else " active"
+    image_active = " active" if img_b64 else ""
     mm_head = f'''<section class="mindmap" id="mindmap">
       <div class="mm-switch">
         <button class="mm-btn" id="mm-all-btn" onclick="toggleAllMindmap()">全部收起</button>
-        <button class="mm-btn active" id="mm-vector-btn" onclick="showMindmap('vector',this)">矢量版</button>
-        <button class="mm-btn" onclick="showMindmap('image',this)">手绘版</button>
+        <button class="mm-btn{vector_active}" id="mm-vector-btn" onclick="showMindmap('vector',this)">矢量版</button>
+        <button class="mm-btn{image_active}" onclick="showMindmap('image',this)">手绘版</button>
       </div>
-      <div class="mm-view" id="mm-vector">
+      <div class="mm-view" id="mm-vector"{vector_attr}>
       {mm["svg"]}
       </div>
-      <div class="mm-view" id="mm-image" style="display:none">
+      <div class="mm-view" id="mm-image"{image_attr}>
         <img src="data:image/jpeg;base64,{img_b64}" alt="{mm.get("alt","手绘版思维导图")}">
       </div>
     </section>
