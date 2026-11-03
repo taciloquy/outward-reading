@@ -36,7 +36,7 @@ body{
 header{
   position:sticky; top:0; z-index:60;
   max-width:1400px;margin:0 auto;
-  padding:0 28px; /* header-align-v3：可见栏占满内容区整宽，左缘对正文、右缘对查询面板 */
+  padding:0 36px; /* header-gutter-v4：可见栏占满内容区整宽，左缘对正文、右缘对查询面板 */
 }
 .head-inner{
   max-width:100%;
@@ -61,7 +61,7 @@ h1{font-size:22px;font-weight:700}
 /* ========== 左右分栏 ========== */
 .layout{
   display:flex;gap:24px;align-items:flex-start;
-  max-width:1400px;margin:0 auto;padding:24px 28px;
+  max-width:1400px;margin:0 auto;padding:24px 36px;
 }
 .main{flex:7;min-width:0}
 /* 右侧面板：固定悬浮，高度不超一屏 */
@@ -203,7 +203,7 @@ mark.voc:hover{background:#e0eabf;border-bottom-color:var(--accent)}
 
 /* ========== 底部：翻译练习 ========== */
 .practice{
-  max-width:1400px;margin:0 auto;padding:0 28px 40px;
+  max-width:1400px;margin:0 auto;padding:0 36px 40px;
 }
 .practice h2{font-size:18px;margin-bottom:12px}
 .fold{
@@ -222,7 +222,7 @@ mark.voc:hover{background:#e0eabf;border-bottom-color:var(--accent)}
 
 /* ========== 移动端自适应 ========== */
 @media (max-width:767px){
-  header{padding:0 16px}
+  header{padding:0 22px}
   header .head-inner{max-width:none}
   .layout{flex-direction:column}
   .main{flex:none;width:100%}
@@ -231,13 +231,13 @@ mark.voc:hover{background:#e0eabf;border-bottom-color:var(--accent)}
   .side-inner{height:auto}
   .tab-panes{max-height:56vh}
   .practice{order:3}
-  header{padding:12px 16px 10px}
-  .layout,.practice{padding-left:16px;padding-right:16px}
+  header{padding:12px 22px 10px}
+  .layout,.practice{padding-left:22px;padding-right:22px}
 }
 
 /* ========== 手机（≤700px）：头部不再固定，压缩高度，把屏幕留给正文 ========== */
 @media (max-width:700px){
-  header{position:static;padding:12px 16px 10px}
+  header{position:static;padding:12px 22px 10px}
   h1{font-size:17px;line-height:1.45}
   .meta-row{display:block}
   .meta{font-size:12px;margin-top:5px}
