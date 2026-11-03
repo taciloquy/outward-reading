@@ -642,59 +642,101 @@ body.print-sheet .pager{display:none !important}
       </div>
     </section>
 <style id="mm-lb-css">
-/* 手绘导图点击放大：手机上手绘图缩到 ~340px 时字太小，点一下按原分辨率看 */
+/* 手绘导图点击放大：默认自适应铺满可用屏幕（横过手机自动变大），点图切 1:1 看细节 */
 #mm-image img{cursor:zoom-in}
-#mm-lb{position:fixed;inset:0;z-index:9999;background:rgba(22,20,17,.95);
-  display:none;overflow:auto;-webkit-overflow-scrolling:touch;overscroll-behavior:contain}
-#mm-lb.on{display:block}
-#mm-lb img{display:block;width:auto;max-width:none;height:auto;margin:10px auto;
-  cursor:zoom-out;user-select:none;-webkit-user-drag:none}
+#mm-lb{position:fixed;inset:0;z-index:9999;background:rgba(22,20,17,.96);
+  display:none;overflow:hidden}
+#mm-lb.on{display:flex;align-items:center;justify-content:center}
+#mm-lb .lb-box{box-sizing:border-box;width:100%;height:100%;padding:10px;
+  display:flex;align-items:center;justify-content:center;overflow:hidden}
+#mm-lb img{display:block;width:auto;height:auto;max-width:100%;max-height:100%;
+  cursor:zoom-in;user-select:none;-webkit-user-drag:none}
+/* 1:1 原始分辨率：可拖动看细节 */
+#mm-lb.raw{display:block;overflow:auto;-webkit-overflow-scrolling:touch;overscroll-behavior:contain}
+#mm-lb.raw .lb-box{display:block;width:auto;height:auto;padding:0;overflow:visible}
+#mm-lb.raw img{max-width:none;max-height:none;margin:0 auto;cursor:zoom-out}
 #mm-lb .lb-x{position:fixed;top:10px;right:10px;width:40px;height:40px;padding:0;
   border:none;border-radius:50%;background:rgba(255,255,255,.94);color:#333;
   font:400 19px/40px -apple-system,sans-serif;text-align:center;cursor:pointer;
   z-index:10000;box-shadow:0 2px 10px rgba(0,0,0,.35)}
 #mm-lb .lb-tip{position:fixed;bottom:14px;left:50%;transform:translateX(-50%);
-  padding:6px 14px;border-radius:14px;background:rgba(0,0,0,.55);color:#fff;
+  padding:6px 14px;border-radius:14px;background:rgba(0,0,0,.58);color:#fff;
   font:400 12.5px/1.4 -apple-system,"PingFang SC",sans-serif;
-  white-space:nowrap;z-index:10000;pointer-events:none;opacity:.9;
+  white-space:nowrap;z-index:10000;pointer-events:none;opacity:.92;
   transition:opacity .45s}
 #mm-lb .lb-tip.fade{opacity:0}
+/* 横屏时尽量铺满，让手绘画幅吃到最多像素 */
+@media (orientation:landscape){
+  #mm-lb .lb-box{padding:4px}
+  #mm-lb .lb-tip{bottom:8px}
+}
 body.lb-lock{overflow:hidden}
 @media print{#mm-lb{display:none!important}#mm-image img{cursor:auto}}
 </style>
 <div id="mm-lb" aria-hidden="true">
-  <img alt="" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==">
+  <div class="lb-box">
+    <img alt="" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==">
+  </div>
   <button class="lb-x" type="button" aria-label="关闭">&#10005;</button>
-  <div class="lb-tip">点图或空白处关闭 · 可拖动查看细节</div>
+  <div class="lb-tip"></div>
 </div>
 <script id="mm-lb-js">
 (function(){
   var lb = document.getElementById('mm-lb');
   if(!lb) return;
   var big = lb.querySelector('img');
+  var box = lb.querySelector('.lb-box');
+  var tip = lb.querySelector('.lb-tip');
   var moved = false, sx = 0, sy = 0;
+
+  var TIP_FIT = '点图放大看细节 · 横过手机更清楚';
+  var TIP_RAW = '点图还原 · 拖动查看 · 点 × 关闭';
+
+  function say(text){
+    if(!tip) return;
+    tip.textContent = text;
+    tip.classList.remove('fade');
+    clearTimeout(tip._t);
+    tip._t = setTimeout(function(){ tip.classList.add('fade'); }, 3000);
+  }
 
   function open(src){
     big.src = src;
+    lb.classList.remove('raw');
     lb.classList.add('on');
     lb.setAttribute('aria-hidden','false');
     document.body.classList.add('lb-lock');
     lb.scrollTop = 0; lb.scrollLeft = 0;
-    /* 提示 2.5 秒后淡出，不长期挡图 */
-    var tip = lb.querySelector('.lb-tip');
-    if(tip){
-      tip.classList.remove('fade');
-      clearTimeout(tip._t);
-      tip._t = setTimeout(function(){ tip.classList.add('fade'); }, 2500);
-    }
+    say(TIP_FIT);
   }
   function close(){
-    lb.classList.remove('on');
+    lb.classList.remove('on','raw');
     lb.setAttribute('aria-hidden','true');
     document.body.classList.remove('lb-lock');
   }
   window.openMmLightbox = open;
   window.closeMmLightbox = close;
+
+  /* 在自适应 / 1:1 之间切换；放大时把点击位置拖到屏幕中央，点到哪就看哪 */
+  function zoomTo(e){
+    var rect = big.getBoundingClientRect();
+    var px = rect.width  ? (e.clientX - rect.left) / rect.width  : 0.5;
+    var py = rect.height ? (e.clientY - rect.top)  / rect.height : 0.5;
+    var toRaw = !lb.classList.contains('raw');
+    big.style.transform = '';
+    if(toRaw){
+      lb.classList.add('raw');
+      requestAnimationFrame(function(){
+        lb.scrollLeft = px * big.clientWidth  - lb.clientWidth  / 2;
+        lb.scrollTop  = py * big.clientHeight - lb.clientHeight / 2;
+        say(TIP_RAW);
+      });
+    }else{
+      lb.classList.remove('raw');
+      lb.scrollTop = 0; lb.scrollLeft = 0;
+      say(TIP_FIT);
+    }
+  }
 
   /* 手绘图：点击放大（运行时绑定，老页面无需改 img 标签） */
   function bind(){
@@ -706,11 +748,12 @@ body.lb-lock{overflow:hidden}
   if(document.readyState === 'loading') document.addEventListener('DOMContentLoaded', bind);
   else bind();
 
-  /* 关闭：×、空白处、图片本身（拖动过查看细节就不关）、Esc */
+  /* 点击：× 关闭 / 点图缩放 / 空白处关闭（1:1 模式下不关，避免拖动误触） */
   lb.addEventListener('click', function(e){
     if(e.target.closest('.lb-x')) return close();
-    if(e.target === lb) return close();
-    if(e.target === big && !moved) return close();
+    if(e.target === big) return zoomTo(e);
+    if(lb.classList.contains('raw')) return;
+    if(e.target === lb || e.target === box) return close();
   });
   lb.addEventListener('touchstart', function(e){
     moved = false;
@@ -722,6 +765,11 @@ body.lb-lock{overflow:hidden}
   }, {passive:true});
   document.addEventListener('keydown', function(e){
     if(e.key === 'Escape' && lb.classList.contains('on')) close();
+  });
+  /* 转屏（含用户横过手机）后重算一下位置，避免停在旧滚动点 */
+  window.addEventListener('orientationchange', function(){
+    if(!lb.classList.contains('on')) return;
+    setTimeout(function(){ lb.scrollTop = 0; lb.scrollLeft = 0; }, 120);
   });
 })();
 </script>
