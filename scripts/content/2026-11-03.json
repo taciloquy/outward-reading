@@ -1,75 +1,820 @@
 {
-  "date": "2026-11-03",
-  "title_tag": "德国30多城爆发抗议，部分地区演变成打砸冲突：为什么欧洲年轻人越来越愤怒？—— 美国彭博社外刊原文",
-  "h1": "德国30多城爆发抗议，部分地区演变成打砸冲突：为什么欧洲年轻人越来越愤怒？",
-  "source_label": "Bloomberg",
-  "category": "美国彭博社外刊原文",
-  "read_minutes": 7,
-  "nav_hint": "German protests turn violent across 30+ cities",
-  "headline": {
-    "en_html": "German Protests Turn Violent as Activists Clash With Police",
-    "zh": "",
-    "notes": []
-  },
-  "paragraphs": [
+ "date": "2026-11-03",
+ "title_tag": "德国30多城爆发抗议，部分地区演变成打砸冲突：为什么欧洲年轻人越来越愤怒？—— 美国彭博社外刊讲解第1217天",
+ "h1": "德国30多城爆发抗议，部分地区演变成打砸冲突：为什么欧洲年轻人越来越愤怒？",
+ "source_label": "Bloomberg",
+ "category": "美国彭博社外刊讲解 第1217天",
+ "read_minutes": 18,
+ "nav_hint": "German protests turn violent across 30+ cities",
+ "headline": {
+  "en_html": "German <mark class=\"voc\">Protests</mark> <mark class=\"voc\">Turn</mark> Violent as <mark class=\"voc\">Activists</mark> <mark class=\"voc\">Clash With</mark> Police",
+  "zh": "德国抗议演变为暴力，激进分子与警方正面相撞。",
+  "notes": [
+   {
+    "w": "protest",
+    "ipa": "/ˈprəʊtest/",
+    "pos": "n. & /prəˈtest/ v.",
+    "en": "protest (n.) means an event at which people publicly show that they disagree with something; as a verb it means to say or show publicly that you object to something",
+    "zh": "\"站出来作证、公开表示反对\"（pro- 向前+ 拉丁语testari 作证），社会运动语境核心义为抗议、示威",
+    "ctx": "",
+    "ex1": "Thousands joined the protest against rising housing costs.数千人加入了反对住房成本上涨的抗议。",
+    "ex2": "Students protested against the new conscription law.学生们抗议新的兵役法。"
+   },
+   {
+    "w": "turn",
+    "ipa": "/tɜːn/",
+    "pos": "v.（系动词linking verb）",
+    "en": "turn (v.) as a linking verb means to become or change into a different state or quality",
+    "zh": "\"转动、翻转\"（源自古英语turnian、拉丁语tornare，用辘轳转圈），变化语境核心义为变得、变成",
+    "ctx": "标题turn violent 中的turn 不是\"转弯\"，是系动词，后面直接接形容词，表示\"变得……\"。判断法：turn 后面跟形容词、没跟名词，就是\"变得\"。它天天见： turn red（变红）、turn sour（变质发酸）、turn 40（满40 岁）",
+    "ex1": "The weather turned cold overnight.天气一夜之间变冷了。",
+    "ex2": "The mood of the crowd turned ugly as night fell.夜幕降临，人群的情绪变得危险起来。"
+   },
+   {
+    "w": "activist",
+    "ipa": "/ˈæktɪvɪst/",
+    "pos": "n.",
+    "en": "activist (n.) means a person who works to achieve political or social change, often as a member of an organisation",
+    "zh": "\"一个靠行动推动改变的人\"（act 行动+ -ive 形容词后缀+ -ist 表\"人\"的后缀），政治语境核心义为活动人士、行动主义者",
+    "ctx": "",
+    "ex1": "Climate activists blocked the main road for three hours.气候活动人士把主干道堵了三个小时。",
+    "ex2": "She has been a human rights activist for more than twenty years. 二十多年来，她一直是一名人权活动人士。"
+   },
+   {
+    "w": "clash with",
+    "ipa": "/klæʃ wɪð/",
+    "pos": "phrasal v.",
+    "en": "clash with (phrasal v.) means to fight or come into strong disagreement with someone",
+    "zh": "\"哐当撞在一起\"（拟声词——两样硬东西\"哐当\"相撞那个响），冲突语境核心义为与……正面冲突、对峙",
+    "ctx": "",
+    "ex1": "Protesters clashed with riot police outside the parliament. 抗议者在议会外与防暴警察发生冲突。",
+    "ex2": "The new policy has brought the government into a clash with the unions. 新政策让政府与工会正面起了冲突。"
+   }
+  ]
+ },
+ "paragraphs": [
+  {
+   "en_html": "<mark class=\"voc\">Mass</mark> <mark class=\"voc\">demonstrations</mark> in Germany that passed largely peacefully on Saturday <mark class=\"voc\">erupted</mark> in violence as night fell and <mark class=\"voc\">rioters</mark> <mark class=\"voc\">faced off against</mark> police in Frankfurt, Cologne, Hamburg and Berlin.",
+   "zh": "周六，德国多地的大规模示威，白天大体上还行进得平和有序，可随着夜幕降临，事态骤然喷发成暴力——法兰克福、科隆、汉堡、柏林四座城市里，暴徒们与警方脸对脸、僵持不下。",
+   "notes": [
     {
-      "en_html": "Mass demonstrations in Germany that passed largely peacefully on Saturday erupted in violence as night fell and rioters faced off against police in Frankfurt, Cologne, Hamburg and Berlin.",
-      "zh": "",
-      "notes": []
+     "w": "mass",
+     "ipa": "/mæs/",
+     "pos": "adj.",
+     "en": "mass (adj.) means involving a large number of people or things",
+     "zh": "\"一堆、一团\"（源自拉丁语massa 面团、块），规模语境核心义为大规模的、群众的",
+     "ctx": "",
+     "ex1": "The factory turned to mass production to meet demand.这家工厂转向大规模生产以满足需求。",
+     "ex2": "Mass unemployment pushed many young people onto the streets.大规模失业把许多年轻人逼上了街头。"
     },
     {
-      "en_html": "Authorities blocked off Frankfurt’s main shopping street Die Zeil and arrested more than 30 people after demonstrators smashed shop windows and made off with streetwear and other goods. Officers arrested one person suspected of breaking into a gun store and stealing two weapons, which were retrieved. Police used water cannons to break up the crowds as protestors threw Molotov cocktails and set off fireworks. By early Sunday, the streets had emptied, while police maintained a visible presence.",
-      "zh": "",
-      "notes": []
+     "w": "demonstration",
+     "ipa": "/ˌdemənˈstreɪʃn/",
+     "pos": "n.",
+     "en": "demonstration (n.) means an event at which a large group of people march or stand together to show that they disagree with or support something",
+     "zh": "\"把东西明明白白摆到所有人眼前\"（de- 彻底+ monstr 拉丁语\"展示\" + -ation 名词后缀），社会语境核心义为示威游行；另一核心义为演示、示范",
+     "ctx": "",
+     "ex1": "Police estimated that fifty thousand people joined the demonstration. 警方估计有五万人参加了这场示威。",
+     "ex2": "The teacher gave a demonstration of the experiment before the class. 老师在课前演示了一遍这个实验。"
     },
     {
-      "en_html": "Several thousand mostly young people gathered at the Main river embankment on Saturday afternoon before weaving their way through the financial district and toward the European Central Bank in the city’s east. Red flags flew over a diverse crowd, with some wearing hammer and sickle motifs and others bearing rainbow flags and traditional Middle Eastern scarves. One protestor dressed as German Chancellor Friedrich Merz became an instant selfie magnet while others called for him “to resign.” Banners read: “Eat the rich,” “We can’t feed the poor but we can fight a war?”, “your housing market is making us homeless” and “Send Merz to the frontlines.”",
-      "zh": "",
-      "notes": []
+     "w": "erupt",
+     "ipa": "/ɪˈrʌpt/",
+     "pos": "v.",
+     "en": "erupt (v.) means to happen suddenly and violently; of a volcano, to explode and throw out lava, ash and gas",
+     "zh": "\"从内部炸开、冲出来\"（e- 出来+ rupt 破裂、断裂），爆发语境核心义为（突然猛烈地）爆发；（火山）喷发",
+     "ctx": "",
+     "ex1": "Violence erupted after police tried to clear the square.警方试图清场之后，暴力冲突爆发了。",
+     "ex2": "The volcano erupted for the first time in over a century.这座火山一个多世纪以来首次喷发。"
     },
     {
-      "en_html": "The protests were organized by a group known as “Gen Z regelt” — loosely translated as “Gen Z sorts things out” — which had stressed in the run-up to the protest that it wouldn’t tolerate any form of violence against people or property. The crowds fell short of the more than 150,000 participants initially expected across more than 30 cities. The group said it plans another countrywide protest on Nov. 14. “We are young people who no longer want to watch decisions being made about our future without us,” it said in a post on its website, calling on people of all ages to join the demonstration “for education, health, climate protection and an affordable life.”",
-      "zh": "",
-      "notes": []
+     "w": "rioter",
+     "ipa": "/ˈraɪətə/",
+     "pos": "n.",
+     "en": "rioter (n.) means a person who takes part in a violent disturbance by a crowd; riot (n.) means a violent disturbance by a crowd",
+     "zh": "\"制造骚乱的人\"（riot 骚乱+ -er 人），冲突语境核心义为暴徒、骚乱者（本文特指：注意称呼换了——标题里叫activists（活动人士），这里一眨眼变成rioters （暴徒）。我前面埋的\"刻度尺\"动了：从protest（合法表达）到riot（失控暴力），中间隔着的是\"秩序\"这条线。白天还是protestors，晚上就是rioters——同样一群人，在天黑之后被作者重新命了名。从称呼变化里，就看见事情从\"表达诉求\"滑向\"破坏秩序\"）",
+     "ctx": "",
+     "ex1": "Rioters set fire to cars and smashed shop windows.暴徒点燃汽车、砸碎商店橱窗。",
+     "ex2": "Riot police formed a line to hold back the crowd.防暴警察排成一线挡住人群。"
     },
     {
-      "en_html": "Authorities had feared a repeat of the violence that swept through France last month, when blockades and marches morphed into nationwide cost of living protests that drew more than half a million people and descended into riots, arson and looting. “I have repeatedly signaled that we must expect left-wing extremists with a potential for violence to infiltrate this demonstration, and that is exactly what has happened,” ARD television’s Tagesschau cited the interior minister for the state of Hesse, Roman Poseck, as saying.",
-      "zh": "",
-      "notes": []
-    },
-    {
-      "en_html": "In Berlin, a mass gathering at Brandenburg Gate proceeded with little incident, but police made almost 60 arrests in other parts of the city for property damage, assault, resisting law enforcement and violations of the Weapons and Explosives Act.",
-      "zh": "",
-      "notes": []
-    },
-    {
-      "en_html": "The unrest in France has emboldened activists in other parts of Europe, including Zurich, where several hundred people, masked and dressed in black, gathered around Langstrasse and Helvetiaplatz in the city center for an unauthorized protest on Saturday night. Participants erected barricades using rubbish containers and other objects, setting some of them on fire. A car was set alight in nearby Zwinglistrasse. Police used water cannons and rubber bullets to disperse the crowds.",
-      "zh": "",
-      "notes": []
-    },
-    {
-      "en_html": "Youth-driven protests have erupted across Europe in recent weeks, from Belgium and Portugal in the west to Serbia and Albania in the east. Although grievances are slightly different in each country, the prevailing sentiment is one of anger over affordability, crumbling infrastructure and inequality. Students in France began to demonstrate in mid-September to denounce overcrowded classrooms, teacher shortages and outdated buildings.",
-      "zh": "",
-      "notes": []
-    },
-    {
-      "en_html": "After the violent unrest in France, authorities rolled out tougher security measures and pledged aid for businesses and shop owners that suffered damages. In Italy, Premier Giorgia Meloni’s government passed new security measures aimed at stemming violent protests, including tougher penalties on minors after a series of incidents across the country. More than 300,000 people joined a fresh protest wave in France on Saturday that sparked renewed violence, although on a lesser scale than the midOctober riots. Paris deployed about 70,000 law enforcement officers, similar to the force used during demonstrations last weekend. Police arrested 779 people, authorities said, adding that five officers were injured in Paris.",
-      "zh": "",
-      "notes": []
-    },
-    {
-      "en_html": "Images circulated by the National Gendarmerie showed one officer being hit by a Molotov cocktail, an attack Interior Minister Laurent Nunez described as “attempted murder” in comments to journalists late on Saturday. France has launched an attempted murder investigation after the incident, Agence France-Presse reported on Sunday. Student unions have called for blockades at high schools and universities this week and urged students to join a major cross-sector strike scheduled for Nov. 5 across the country.",
-      "zh": "",
-      "notes": []
+     "w": "face off against",
+     "ipa": "/feɪs ɒf əˈɡenst/",
+     "pos": "phrasal v.",
+     "en": "face off against (phrasal v.) means to directly oppose or confront someone, in a situation that could turn into a fight",
+     "zh": "\"脸对着脸\"（face 脸+ off 相对，源自冰球开球face-off），对抗语境核心义为与……对峙、正面僵持",
+     "ctx": "王牌词，画面从冰球来——冰球开球时，裁判把球一丢，两边各站一名球员，脸对脸、下巴都快贴上，死死盯着那一下，就叫face-off。所以face off against 的语感是：双方已经脸对脸站定，但还没真正开打，是那种\"剑拔弩张、一触即发\"的紧绷。对比fight：fight 是\"已经打起来了\"；face off 是\"打之前那一刻\"。作者用face off against 而不用fought，描写的不是打斗，是暴徒和警察隔着一条街、脸对脸僵着的那一秒张力——这种\"将打未打\"最吓人",
+     "ex1": "Protesters faced off against police outside the courthouse.抗议者在法院外与警方对峙。",
+     "ex2": "The two teams will face off in the final next week.两队将在下周的决赛中交锋。"
     }
-  ],
-  "proper": [],
-  "sources_note": "本文选自 Bloomberg 报道，由《早安英文》讲解。",
-  "practice": {},
-  "mindmap": {
-    "aria": "欧洲青年之怒思维导图",
-    "alt": "思维导图：中心为“欧洲青年之怒·生活成本引爆、暴力外溢”，四支论点依次为“怒从何来（房租与生活成本、诉求被搁置、拒绝被代表）”→“何以失控（30余城入夜转为打砸、组织者与暴力切割、当局归咎左翼渗透）”→“怒火越境（苏黎世设障纵火、泛欧同声抗议、11·5 全欧罢工）”→“强硬回应（法意收紧处罚与安保、袭警升格谋杀未遂调查）”。",
-    "svg": "<svg viewBox=\"0 0 960 602\" xmlns=\"http://www.w3.org/2000/svg\" role=\"img\" aria-label=\"欧洲青年之怒思维导图\" style=\"width:100%;height:auto;font-family:-apple-system,'PingFang SC','Hiragino Sans GB','Microsoft YaHei',sans-serif\">\n<rect x=\"24\" y=\"257\" width=\"176\" height=\"88\" rx=\"14\" fill=\"#eae3d2\" stroke=\"#9a8f76\"/>\n<text x=\"112\" y=\"293\" text-anchor=\"middle\" fill=\"#3d3a34\" font-size=\"17\" font-weight=\"700\">欧洲青年之怒</text>\n<text x=\"112\" y=\"319\" text-anchor=\"middle\" fill=\"#5c5648\" font-size=\"12.5\">生活成本引爆·暴力外溢</text>\n<path d=\"M200,301 C232,301 232,88 260,88\" stroke=\"#6b8f71\" stroke-width=\"2\" fill=\"none\"/>\n<path d=\"M200,301 C232,301 232,244 260,244\" stroke=\"#7d98ad\" stroke-width=\"2\" fill=\"none\"/>\n<path d=\"M200,301 C232,301 232,400 260,400\" stroke=\"#bd7a6d\" stroke-width=\"2\" fill=\"none\"/>\n<path d=\"M200,301 C232,301 232,535 260,535\" stroke=\"#9b86b3\" stroke-width=\"2\" fill=\"none\"/>\n<g class=\"mm-branch\" data-target=\"bc1\">\n<rect x=\"260\" y=\"71\" width=\"190\" height=\"34\" rx=\"8\" fill=\"#e6efe7\" stroke=\"#6b8f71\"/>\n<text x=\"355\" y=\"93\" text-anchor=\"middle\" fill=\"#4c6b52\" font-size=\"15\" font-weight=\"700\">怒从何来（¶3–4）</text>\n<text class=\"mm-arrow\" data-for=\"bc1\" x=\"442\" y=\"93\" text-anchor=\"end\" fill=\"#4c6b52\">▾</text>\n</g>\n<g class=\"mm-children\" id=\"bc1\">\n<path d=\"M450,88 C462,88 462,46 480,46\" stroke=\"#6b8f71\" stroke-width=\"1.5\" fill=\"none\"/>\n<path d=\"M450,88 C462,88 462,88 480,88\" stroke=\"#6b8f71\" stroke-width=\"1.5\" fill=\"none\"/>\n<path d=\"M450,88 C462,88 462,130 480,130\" stroke=\"#6b8f71\" stroke-width=\"1.5\" fill=\"none\"/>\n<rect x=\"480\" y=\"30\" width=\"456\" height=\"32\" rx=\"8\" fill=\"#e6efe7\"/><text x=\"492\" y=\"51\" fill=\"#3d3a34\" font-size=\"14\">房租与生活成本压垮青年</text>\n<rect x=\"480\" y=\"72\" width=\"456\" height=\"32\" rx=\"8\" fill=\"#e6efe7\"/><text x=\"492\" y=\"93\" fill=\"#3d3a34\" font-size=\"14\">教育·医疗·气候诉求被搁置</text>\n<rect x=\"480\" y=\"114\" width=\"456\" height=\"32\" rx=\"8\" fill=\"#e6efe7\"/><text x=\"492\" y=\"135\" fill=\"#3d3a34\" font-size=\"14\">拒绝被代表：别替我们决定未来</text>\n</g>\n<g class=\"mm-branch\" data-target=\"bc2\">\n<rect x=\"260\" y=\"227\" width=\"190\" height=\"34\" rx=\"8\" fill=\"#e5edf4\" stroke=\"#7d98ad\"/>\n<text x=\"355\" y=\"249\" text-anchor=\"middle\" fill=\"#3d5872\" font-size=\"15\" font-weight=\"700\">何以失控（¶1–2·¶5–6）</text>\n<text class=\"mm-arrow\" data-for=\"bc2\" x=\"442\" y=\"249\" text-anchor=\"end\" fill=\"#3d5872\">▾</text>\n</g>\n<g class=\"mm-children\" id=\"bc2\">\n<path d=\"M450,244 C462,244 462,202 480,202\" stroke=\"#7d98ad\" stroke-width=\"1.5\" fill=\"none\"/>\n<path d=\"M450,244 C462,244 462,244 480,244\" stroke=\"#7d98ad\" stroke-width=\"1.5\" fill=\"none\"/>\n<path d=\"M450,244 C462,244 462,286 480,286\" stroke=\"#7d98ad\" stroke-width=\"1.5\" fill=\"none\"/>\n<rect x=\"480\" y=\"186\" width=\"456\" height=\"32\" rx=\"8\" fill=\"#e5edf4\"/><text x=\"492\" y=\"207\" fill=\"#3d3a34\" font-size=\"14\">30余城入夜转为打砸</text>\n<rect x=\"480\" y=\"228\" width=\"456\" height=\"32\" rx=\"8\" fill=\"#e5edf4\"/><text x=\"492\" y=\"249\" fill=\"#3d3a34\" font-size=\"14\">组织者事前与暴力切割</text>\n<rect x=\"480\" y=\"270\" width=\"456\" height=\"32\" rx=\"8\" fill=\"#e5edf4\"/><text x=\"492\" y=\"291\" fill=\"#3d3a34\" font-size=\"14\">当局归咎左翼分子渗透</text>\n</g>\n<g class=\"mm-branch\" data-target=\"bc3\">\n<rect x=\"260\" y=\"383\" width=\"190\" height=\"34\" rx=\"8\" fill=\"#f4e7e4\" stroke=\"#bd7a6d\"/>\n<text x=\"355\" y=\"405\" text-anchor=\"middle\" fill=\"#7c4a3e\" font-size=\"15\" font-weight=\"700\">怒火越境（¶7–8·¶10）</text>\n<text class=\"mm-arrow\" data-for=\"bc3\" x=\"442\" y=\"405\" text-anchor=\"end\" fill=\"#7c4a3e\">▾</text>\n</g>\n<g class=\"mm-children\" id=\"bc3\">\n<path d=\"M450,400 C462,400 462,358 480,358\" stroke=\"#bd7a6d\" stroke-width=\"1.5\" fill=\"none\"/>\n<path d=\"M450,400 C462,400 462,400 480,400\" stroke=\"#bd7a6d\" stroke-width=\"1.5\" fill=\"none\"/>\n<path d=\"M450,400 C462,400 462,442 480,442\" stroke=\"#bd7a6d\" stroke-width=\"1.5\" fill=\"none\"/>\n<rect x=\"480\" y=\"342\" width=\"456\" height=\"32\" rx=\"8\" fill=\"#f4e7e4\"/><text x=\"492\" y=\"363\" fill=\"#3d3a34\" font-size=\"14\">苏黎世设障·纵火·橡皮子弹</text>\n<rect x=\"480\" y=\"384\" width=\"456\" height=\"32\" rx=\"8\" fill=\"#f4e7e4\"/><text x=\"492\" y=\"405\" fill=\"#3d3a34\" font-size=\"14\">从比利时到阿尔巴尼亚同声抗议</text>\n<rect x=\"480\" y=\"426\" width=\"456\" height=\"32\" rx=\"8\" fill=\"#f4e7e4\"/><text x=\"492\" y=\"447\" fill=\"#3d3a34\" font-size=\"14\">11·5 全欧大罢工在即</text>\n</g>\n<g class=\"mm-branch\" data-target=\"bc4\">\n<rect x=\"260\" y=\"518\" width=\"190\" height=\"34\" rx=\"8\" fill=\"#ece4f2\" stroke=\"#9b86b3\"/>\n<text x=\"355\" y=\"540\" text-anchor=\"middle\" fill=\"#5a4670\" font-size=\"15\" font-weight=\"700\">强硬回应（¶9–10）</text>\n<text class=\"mm-arrow\" data-for=\"bc4\" x=\"442\" y=\"540\" text-anchor=\"end\" fill=\"#5a4670\">▾</text>\n</g>\n<g class=\"mm-children\" id=\"bc4\">\n<path d=\"M450,535 C462,535 462,514 480,514\" stroke=\"#9b86b3\" stroke-width=\"1.5\" fill=\"none\"/>\n<path d=\"M450,535 C462,535 462,556 480,556\" stroke=\"#9b86b3\" stroke-width=\"1.5\" fill=\"none\"/>\n<rect x=\"480\" y=\"498\" width=\"456\" height=\"32\" rx=\"8\" fill=\"#ece4f2\"/><text x=\"492\" y=\"519\" fill=\"#3d3a34\" font-size=\"14\">法意收紧处罚与安保</text>\n<rect x=\"480\" y=\"540\" width=\"456\" height=\"32\" rx=\"8\" fill=\"#ece4f2\"/><text x=\"492\" y=\"561\" fill=\"#3d3a34\" font-size=\"14\">袭警升格“谋杀未遂”调查</text>\n</g>\n<text x=\"486\" y=\"170\" fill=\"#8a8578\" font-size=\"11.5\">↓ 直接触发</text>\n<text x=\"486\" y=\"326\" fill=\"#8a8578\" font-size=\"11.5\">↓ 外溢</text>\n<text x=\"486\" y=\"482\" fill=\"#8a8578\" font-size=\"11.5\">↓ 对策</text>\n</svg>",
-    "img": "/Users/malen/.workbuddy/backups/handmap/2026-11-03_欧洲青年之怒.jpg"
+   ]
+  },
+  {
+   "en_html": "Authorities <mark class=\"voc\">blocked off</mark> Frankfurt’s main shopping street Die Zeil and arrested more than 30 people after demonstrators <mark class=\"voc\">smashed</mark> shop windows and <mark class=\"voc\">made off with</mark> <mark class=\"voc\">streetwear</mark> and other goods. Officers arrested one person <mark class=\"voc\">suspected of</mark> <mark class=\"voc\">breaking into</mark> a gun store and stealing two weapons, which were <mark class=\"voc\">retrieved</mark>. Police used <mark class=\"voc\">water cannons</mark> to break up the crowds as protestors threw <mark class=\"voc\">Molotov cocktails</mark> and <mark class=\"voc\">set off</mark> fireworks. By early Sunday, the streets had emptied, while police maintained a visible presence.",
+   "zh": "当局封锁了法兰克福最繁华的采尔大街，逮捕了三十余人；此前，示威者砸碎橱窗，抢走潮牌服饰等商品扬长而去。警方还抓获一名涉嫌破门闯入枪店、窃走两件武器的嫌疑人，武器已悉数追回。警方出动水炮驱散人群，抗议者则投掷燃烧瓶、燃放烟花。及至周日凌晨，街头已空无一人，唯警察仍保持着令人望而却步的驻守。",
+   "notes": [
+    {
+     "w": "block off",
+     "ipa": "/blɒk ɒf/",
+     "pos": "phrasal v.",
+     "en": "block off (phrasal v.) means to completely close a road or area so that people or vehicles cannot pass",
+     "zh": "\"拿一堵墙把它彻底隔断\"（block 堵+ off 彻底离开），管制语境核心义为封锁、封堵",
+     "ctx": "警方不是劝散，是直接把整条街给\"闸\"断了。搭配固定：block off a street/road（封锁街道）。注意它和block up（堵住管道）的区别——block off 是\"封路、隔离一片区域\"",
+     "ex1": "Police blocked off the main street while they cleared the debris.警方在清理残骸时封锁了主干道。",
+     "ex2": "Several roads were blocked off ahead of the demonstration.示威开始前，几条道路已被封锁。"
+    },
+    {
+     "w": "smash",
+     "ipa": "/smæʃ/",
+     "pos": "v.",
+     "en": "smash (v.) means to break something violently into many pieces, often with a loud noise",
+     "zh": "\"啪嚓一声打碎\"（拟声词，就是玻璃碎掉那一下），破坏语境核心义为砸碎、摔碎",
+     "ctx": "拟声词——你读smash，嘴里都能听见玻璃碎的声音。smash the window（砸碎窗户）、smash the phone（摔碎手机），都比break 要有\"脆响\"的画面感。作者这里用smash 而不是break，就是要你听见那一声\"啪\"",
+     "ex1": "Protesters smashed the shop windows and ran off with the goods.抗议者砸碎商店橱窗，抢走货物跑了。",
+     "ex2": "The ball smashed into the window and shattered the glass.球猛砸进窗户，把玻璃震碎了。"
+    },
+    {
+     "w": "make off with",
+     "ipa": "/meɪk ɒf wɪð/",
+     "pos": "phrasal v.",
+     "en": "make off with (phrasal v.) means to steal something and escape with it quickly",
+     "zh": "\"带着东西撒腿就跑\"（make off 跑掉、溜走+ with 带着），盗窃语境核心义为偷走、抢了就跑",
+     "ctx": "王牌词。它强调的不是\"偷\"也不是\"抢\"，是那个\"动作的连贯性\"——一把抓起、转身就跑、不恋战。对比：steal 是\"偷\"（偷偷摸摸）、 rob 是\"抢\"（暴力夺取），而make off with 多了一层\"抢完就溜\"的速度感。电影里劫匪砸开柜台、抓一把珠宝塞兜里、拔腿冲出门——那个动作就是make off with",
+     "ex1": "The thieves made off with jewellery worth thousands of dollars. 窃贼抢走了价值数千美元的珠宝逃之夭夭。",
+     "ex2": "Looters made off with sneakers and electronics during the chaos. 混乱中，劫掠者抢走了球鞋和电子产品。"
+    },
+    {
+     "w": "streetwear",
+     "ipa": "/ˈstriːtweə/",
+     "pos": "n.",
+     "en": "streetwear (n.) means casual clothing in the style of urban youth culture, especially branded hoodies, sneakers and similar items",
+     "zh": "\"街头穿的潮牌服饰\"（street 街头+ wear 衣着），时尚语境核心义为街头潮牌服饰",
+     "ctx": "",
+     "ex1": "The streetwear shop was emptied within minutes of the looting.这家潮牌店在劫掠开始后几分钟内就被搬空了。",
+     "ex2": "Streetwear brands have become hugely popular with young buyers.街头潮牌在年轻消费者中大受欢迎。"
+    },
+    {
+     "w": "suspected of",
+     "ipa": "/səˈspektɪd əv/",
+     "pos": "phrase",
+     "en": "suspected of means believed, on some evidence, to be guilty of something",
+     "zh": "\"被怀疑（做了某事）\"（suspect 怀疑+ of），司法语境核心义为涉嫌、被怀疑犯有",
+     "ctx": "",
+     "ex1": "A man suspected of breaking into the shop was arrested nearby. 一名涉嫌闯入该店的人被在附近抓获。",
+     "ex2": "Two officers are suspected of leaking the documents. 两名官员涉嫌泄露文件。"
+    },
+    {
+     "w": "break into",
+     "ipa": "/breɪk ˈɪntə/",
+     "pos": "phrasal v.",
+     "en": "break into (phrasal v.) means to enter a building illegally by force",
+     "zh": "\"打破一样东西进到里面去\"（break 打破+ into 进入），犯罪语境核心义为破门而入、闯入",
+     "ctx": "break into 后面必须接宾语（闯进哪里）；break in 也是\"闯入\"，但不接宾语。搭配：break into a house（闯进房子）、break into tears（突然大哭——情绪\"破门而出\"的引申义）",
+     "ex1": "Someone broke into the store and stole two weapons. 有人闯进这家商店，偷走了两件武器。",
+     "ex2": "She broke into tears when she heard the news. 听到这个消息，她突然哭了起来。"
+    },
+    {
+     "w": "retrieve",
+     "ipa": "/rɪˈtriːv/",
+     "pos": "v.",
+     "en": "retrieve (v.) means to get something back, especially after finding it or after it was lost",
+     "zh": "\"重新找到\"（re- 回、重新+ trieve 来自法语trouver\"找到\"），寻回语境核心义为找回、取回、追回",
+     "ctx": "",
+     "ex1": "Police retrieved both stolen weapons within hours. 警方在数小时内追回了这两件被盗武器。",
+     "ex2": "The system lets users retrieve old messages with a single search. 该系统让用户一次搜索就能找回旧消息。"
+    },
+    {
+     "w": "water cannon",
+     "ipa": "/ˈwɔːtə ˈkænən/",
+     "pos": "n.",
+     "en": "water cannon (n.) means a machine that shoots a powerful jet of water, used especially by police to break up crowds",
+     "zh": "\"喷高压水的炮车\"（water 水+ cannon 大炮），防暴语境核心义为水炮",
+     "ctx": "cannon 是\"大炮\"，water cannon 就是\"喷高压水的炮车\"。水柱压力极高，几十米外能把人冲倒。这个名词看图就懂，不复杂，但它是这轮欧洲骚乱的\"标配武器\"——德国用、瑞士用，后文第7 段还会呼应",
+     "ex1": "Police used water cannons to push the crowd back. 警方用水炮把人群逼退。",
+     "ex2": "Several water cannon trucks were parked outside the stadium. 数辆水炮车停放在体育场外。"
+    },
+    {
+     "w": "Molotov cocktail",
+     "ipa": "/ˈmɒlətɒf ˈkɒkteɪl/",
+     "pos": "n.",
+     "en": "Molotov cocktail (n.) means a crude bomb made by filling a bottle with flammable liquid and a cloth wick, lit and thrown",
+     "zh": "\"灌了汽油、塞块布的土制燃烧瓶\"（芬兰人起的讽刺外号），冲突语境核心义为燃烧瓶、汽油弹（本文特指：最重的一颗王牌词，背后是个二战段子。它为什么不叫\"汽油瓶\"而叫\"莫洛托夫鸡尾酒\"？1939–40 年苏芬战争，苏联轰炸芬兰平民，外长莫洛托夫出来\"辟谣\"说投下的不是炸弹、是给芬兰老百姓空投的\"面包\"。芬兰人气疯了，把苏联燃烧弹叫\"莫洛托夫面包篮\"；又因为自己缺反坦克武器，用玻璃瓶装汽油自制燃烧弹烧苏联坦克，给它起名\"莫洛托夫鸡尾酒\"——\"你不是送面包吗？好，我们回敬你一杯'鸡尾酒'配着喝\"。一个弱国在最绝望时用幽默回敬强权，名字里装着一整个国家的愤怒和讽刺。这个词后文第10 段还会出现，性质升级成\"谋杀未遂\"，首尾呼应） ・Protesters threw Molotov cocktails at the police line.抗议者向警察防线投掷燃烧瓶。 ・A Molotov cocktail was thrown at the embassy gate.有人向大使馆大门投掷了一枚燃烧瓶",
+     "ctx": "",
+     "ex1": "Protesters threw Molotov cocktails at the police line.抗议者向警察防线投掷燃烧瓶。",
+     "ex2": "A Molotov cocktail was thrown at the embassy gate.有人向大使馆大门投掷了一枚燃烧瓶。"
+    },
+    {
+     "w": "set off",
+     "ipa": "/set ɒf/",
+     "pos": "phrasal v.",
+     "en": "set off (phrasal v.) means to make something explode or start, such as a bomb or fireworks",
+     "zh": "\"引爆、触发\"（set 使+ off 离开、发动），启动语境核心义为引爆、触发、燃放",
+     "ctx": "",
+     "ex1": "Someone set off fireworks in the middle of the square.有人在广场中央燃放烟花。",
+     "ex2": "The smoke set off the fire alarm in the building.烟雾触发了大楼的火警。"
+    }
+   ]
+  },
+  {
+   "en_html": "Several thousand mostly young people gathered at the Main river <mark class=\"voc\">embankment</mark> on Saturday afternoon before <mark class=\"voc\">weaving their way through</mark> the financial district and toward the European Central Bank in the city’s east. Red flags flew over a <mark class=\"voc\">diverse</mark> crowd, with some wearing <mark class=\"voc\">hammer and sickle</mark> motifs and others bearing <mark class=\"voc\">rainbow flags</mark> and traditional Middle Eastern scarves. One protestor dressed as German Chancellor Friedrich Merz became an instant <mark class=\"voc\">selfie magnet</mark> while others called for him “to resign.” Banners <mark class=\"voc\">read</mark>: “<mark class=\"voc\">Eat the rich</mark>,” “We can’t feed the poor but we can fight a war?”, “your housing market is making us homeless” and “Send Merz to the frontlines.”",
+   "zh": "周六午后，数千以年轻人为主的人群聚于美因河堤岸，继而蜿蜒穿行金融区，一路走向城东的欧洲央行。红旗在形形色色的人群上空飘扬，有人佩着镰刀锤子的图案，有人举着彩虹旗与传统的中东头巾。一名扮作德国总理默茨的抗议者，转瞬成了众人争相合影的\"自拍焦点\"，其余人则高呼要他\"下台\"。标语赫然写着：\"吃掉富人\"\"我们养不起穷人，却打得起仗？\"\"你们的楼市正让我们无家可归\"\"把默茨送上前线\"。",
+   "notes": [
+    {
+     "w": "embankment",
+     "ipa": "/ɪmˈbæŋkmənt/",
+     "pos": "n.",
+     "en": "embankment (n.) means a raised bank built to keep a river within its course, or the land along the side of a river",
+     "zh": "\"人工筑起来的那道河岸\"（em- 使+ bank 河岸+ -ment），地理语境核心义为堤岸、护坡",
+     "ctx": "美因河Main river 是法兰克福的母亲河，莱茵河支流，把这座城一分为二。背景彩蛋——法兰克福金融区贴着美因河两岸、全是摩天大楼，当地人称它 Mainhattan（美因哈顿），即Main + Manhattan。德国全国就法兰克福一个城市有成片摩天楼，全挤在美因河边。记住这个梗，聊法兰克福甩出来，别人觉得你懂行",
+     "ex1": "Thousands gathered at the river embankment before the march.游行开始前，数千人聚集在河堤上。",
+     "ex2": "People lined the embankment to watch the fireworks.人们沿着堤岸排开看烟花。"
+    },
+    {
+     "w": "weave one's way through",
+     "ipa": "/wiːv wʌnz weɪ θruː/",
+     "pos": "v. phrase",
+     "en": "weave one's way through means to move through a place by turning and changing direction repeatedly",
+     "zh": "\"像织布一样穿过来穿过去地走\"（weave 编织+ one's way），动态语境核心义为蜿蜒穿行、七拐八绕地穿行",
+     "ctx": "",
+     "ex1": "The marchers weaved their way through the narrow streets. 游行者蜿蜒穿过狭窄的街道。",
+     "ex2": "He weaved his way through the crowd to the exit. 他在人群中左拐右拐地走向出口。"
+    },
+    {
+     "w": "diverse",
+     "ipa": "/daɪˈvɜːs/",
+     "pos": "adj.",
+     "en": "diverse (adj.) means including people or things of many different kinds",
+     "zh": "\"分叉开的、多种多样的\"（di- 分开+ vers 转向），构成语境核心义为多元的、多样的",
+     "ctx": "",
+     "ex1": "The city has become one of the most diverse in Europe. 这座城市已成为欧洲最多元的城市之一。",
+     "ex2": "A diverse group of protesters gathered in the square. 一群背景各异的抗议者聚集在广场上。"
+    },
+    {
+     "w": "hammer and sickle",
+     "ipa": "/ˈhæmə ænd ˈsɪkl/",
+     "pos": "n.",
+     "en": "hammer and sickle (n.) means the emblem of the former Soviet Union, symbolising the union of industrial workers and peasants",
+     "zh": "\"锤子加镰刀\"（锤子代表工人，镰刀代表农民，\"工农联盟\"），政治语境核心义为镰刀锤子（共产主义标志）",
+     "ctx": "前苏联国徽图案、共产主义标志。看到它，说明人群里有左翼甚至共产主义背景的参与者。作者点这一笔，是为后文\"左翼极端分子渗透\"的指控埋的伏笔——草蛇灰线",
+     "ex1": "Some protesters wore hammer and sickle motifs on their jackets. 一些抗议者的外套上佩着镰刀锤子图案。",
+     "ex2": "The red flag with the hammer and sickle was once flown across the region. 印有镰刀锤子的红旗曾飘扬在这个地区上空。"
+    },
+    {
+     "w": "rainbow flag",
+     "ipa": "/ˈreɪnbəʊ flæɡ/",
+     "pos": "n.",
+     "en": "rainbow flag (n.) means a flag with stripes of the colours of the rainbow, used as a symbol of the LGBT community",
+     "zh": "\"彩虹条纹旗\"（rainbow 彩虹+ flag 旗），社会语境核心义为彩虹旗（性少数平权标志）",
+     "ctx": "LGBTQ 群体的标志，代表性少数平权。它和\"镰刀锤子\"并列出现，是作者在给你画\"人群大杂烩\"——左翼、性少数、中东议题，平时互不相干的几拨人站在了一起",
+     "ex1": "Marchers carried rainbow flags alongside political banners.游行者举着彩虹旗，和政治标语并列前行。",
+     "ex2": "The rainbow flag has become a global symbol of equality.彩虹旗已成为全球平等的象征。"
+    },
+    {
+     "w": "selfie magnet",
+     "ipa": "/ˈselfi ˈmæɡnət/",
+     "pos": "n.",
+     "en": "selfie magnet (n.) means a person or thing that attracts a lot of people who want to take photos of themselves with it",
+     "zh": "\"能把人像铁屑一样'吸'过来自拍的人或东西\"（selfie 自拍+ magnet 磁铁），流行语境核心义为自拍磁铁、自拍打卡焦点（本文特指：现代口语词。记住构词逻辑就能自己造词——magnet 前面加名词就是\"XX 磁铁\"，意思是\"特别能吸引XX 的东西\"：a tourist magnet（游客磁铁，指游客扎堆的景点）、a girl magnet（女孩磁铁）。一个人能火到人人都想跟他合影，他就是 selfie magnet。这个词拿下，刷外网、看英文评论天天能碰见） ・The celebrity became an instant selfie magnet at the event.这位名人在现场立刻成了\"自拍磁铁\"。 ・The old town is a tourist magnet all year round.这座老城终年都是游客磁铁",
+     "ctx": "",
+     "ex1": "The celebrity became an instant selfie magnet at the event.这位名人在现场立刻成了\"自拍磁铁\"。",
+     "ex2": "The old town is a tourist magnet all year round.这座老城终年都是游客磁铁。"
+    },
+    {
+     "w": "read",
+     "ipa": "/riːd/",
+     "pos": "v.",
+     "en": "read (v.) means to have a particular word or wording on it, used of signs, banners or instruments",
+     "zh": "“写着、显示着”（read 读→ 引申为“上面写着”），描述语境核心义为（标牌、横幅等）写着",
+     "ctx": "",
+     "ex1": "The banner read \"We want a future that is affordable.\"横幅上写着\"我们要一种负担得起的未来\"。",
+     "ex2": "A sign on the door read \"Closed until further notice.\"门上的牌子写着\"暂停营业，恢复时间另行通知\"。"
+    },
+    {
+     "w": "Eat the rich",
+     "ipa": "/iːt ðə rɪtʃ/",
+     "pos": "slogan",
+     "en": "Eat the rich is a political slogan expressing hostility towards the wealthy",
+     "zh": "\"吃掉富人\"（eat 吃+ the rich 富人，集合名词），政治口号语境核心义为吃掉富人（反资本主义口号）（本文特指：四个字，能追溯到法国大革命。1793 年10 月\"恐怖统治\"时期，巴黎公社主席肖梅特在一次演讲里引用卢梭的话：\"当人民再也没有东西可吃的时候，他们就会吃掉富人。\"（Quand le peuple n'aura plus rien à manger, il mangera le riche）后来缩成三个字Eat the rich，成了全世界左翼、反资本主义运动的标准口号——占领华尔街、BLM 游行都举，爆火的《寄生虫》《小丑》都被影评人叫\"吃富人电影\"。德国街头这张横幅不是在开玩笑，是在引用一个两百三十年前的革命口号） ・\"Eat the rich\" has become a rallying cry for anti-capitalist protests. \"吃掉富人\"已成为反资本主义抗议的口号。 ・Critics called the film an eat-the-rich satire.影评人称这部电影是一部\"吃富人\"的讽刺片",
+     "ctx": "",
+     "ex1": "\"Eat the rich\" has become a rallying cry for anti-capitalist protests. \"吃掉富人\"已成为反资本主义抗议的口号。",
+     "ex2": "Critics called the film an eat-the-rich satire.影评人称这部电影是一部\"吃富人\"的讽刺片。"
+    }
+   ]
+  },
+  {
+   "en_html": "The protests were organized by a group known as “Gen Z regelt” — <mark class=\"voc\">loosely translated as</mark> “Gen Z sorts things out” — which had stressed <mark class=\"voc\">in the run-up to</mark> the protest that it wouldn’t tolerate any form of violence against people or property. The crowds <mark class=\"voc\">fell short of</mark> the more than 150,000 participants initially expected across more than 30 cities. The group said it plans another countrywide protest on Nov. 14. “We are young people who no longer want to watch decisions being made about our future without us,” it said in a post on its website, <mark class=\"voc\">calling on</mark> people of all ages to join the demonstration “for education, health, climate protection and an affordable life.”",
+   "zh": "这场抗议由一个名为\"GenZregelt\"（大意\"Z世代来搞定\"）的团体发起。该团体早在抗议开始前就强调，绝不容忍针对人身或财物的任何形式的暴力。实际到场人数未能达到最初预期的、遍及三十余城的十五万之众。该团体称，计划于11月14日再发起一场全国性抗议。它在官网上写道：\"我们是一群年轻人，不愿再眼睁睁看着关乎我们未来的决定，在无视我们的情况下被做出。\"并号召各年龄层的人士加入示威，\"为教育、健康、气候保护，以及一种负担得起的生活\"。",
+   "notes": [
+    {
+     "w": "loosely translated as",
+     "ipa": "/ˈluːsli trænzˈleɪtɪd æz/",
+     "pos": "phrase",
+     "en": "loosely translated as means roughly or approximately translated, not word for word",
+     "zh": "\"大致可译作\"（loosely 宽松地+ translated 被翻译的），翻译语境核心义为意译为、大致译作",
+     "ctx": "",
+     "ex1": "The name is loosely translated as \"Gen Z sorts things out\". 这个名字大致可译作\"Z 世代来搞定\"。",
+     "ex2": "The word is loosely translated as \"togetherness\", but it means more. 这个词大致译作\"凝聚力\"，但它的含义更深。"
+    },
+    {
+     "w": "in the run-up to",
+     "ipa": "/ɪn ðə ˈrʌn ʌp tə/",
+     "pos": "phrase",
+     "en": "in the run-up to means during the period just before an important event",
+     "zh": "\"在起跳前那段助跑期\"（run-up 助跑），时间语境核心义为在……（大事）之前的准备阶段",
+     "ctx": "王牌词，画面从体育\"助跑\"来——跳远、跳高选手起跳前\"哒哒哒\"的那段加速冲刺，就是the run-up。所以in the run-up to the protest，就是\"在抗议正式'起跳'之前那段冲刺准备期\"——筹备、宣传、拉人、造势。它把\"准备期\"变成\"助跑期\"，自带\"马上要冲了\"的动感。高频场景：in the run-up to the election（选举前的冲刺期）、in the run-up to the exam（备考期）",
+     "ex1": "The group stressed its message in the run-up to the march.该组织在游行前的准备期反复强调其诉求。",
+     "ex2": "Sales always rise in the run-up to the holiday season.假期旺季来临前，销售额总是上升。"
+    },
+    {
+     "w": "fall short of",
+     "ipa": "/fɔːl ʃɔːt əv/",
+     "pos": "phrase",
+     "en": "fall short of means to fail to reach a particular standard, amount or target",
+     "zh": "\"手短了一截，没够着\"（fall 落下+ short 短），差距语境核心义为达不到、没够着、差一截",
+     "ctx": "",
+     "ex1": "The turnout fell short of the 150,000 the organisers expected. 到场人数没能达到组织者预期的15 万。",
+     "ex2": "The results fell short of what investors had hoped for. 结果未能达到投资者的期望。"
+    },
+    {
+     "w": "call on",
+     "ipa": "/kɔːl ɒn/",
+     "pos": "phrasal v.",
+     "en": "call on (phrasal v.) means to publicly ask someone to do something",
+     "zh": "\"点名叫某人去做\"（call 叫+ on 在……身上），呼吁语境核心义为号召、呼吁（某人做某事）",
+     "ctx": "近义词辨析——call for vs call on，特别容易混：call for + 事（呼吁某事，如call for peace）；call on + 人+ to do（号召某人做某事，如call on everyone to join）。本文calling on people of all ages to join，号召的是\"人\"，所以用call on",
+     "ex1": "The group called on people of all ages to join the march. 该组织号召各年龄段的人加入游行。",
+     "ex2": "World leaders called on both sides to show restraint. 世界各国领导人呼吁双方保持克制。"
+    }
+   ]
+  },
+  {
+   "en_html": "Authorities had feared <mark class=\"voc\">a repeat of</mark> the violence that <mark class=\"voc\">swept through</mark> France last month, when <mark class=\"voc\">blockades</mark> and marches <mark class=\"voc\">morphed into</mark> nationwide cost of living protests that drew more than half a million people and <mark class=\"voc\">descended into</mark> riots, <mark class=\"voc\">arson</mark> and looting. “I have repeatedly signaled that we must expect left-wing extremists with a potential for violence to <mark class=\"voc\">infiltrate</mark> this demonstration, and that is exactly what has happened,” ARD television’s Tagesschau cited the interior minister for the state of Hesse, Roman Poseck, as saying.",
+   "zh": "德国当局此前便忧虑，上月横扫法国的暴力会在本国重演——在法国，封锁与游行渐变为一场全国性的生活成本抗议，聚起逾五十万之众，终至堕落为骚乱、纵火与劫掠。\"我反复发出过警示，我们必须料到会有具暴力倾向的左翼极端分子渗透进这场示威，而事实正是如此。\"德国电视一台《每日新闻》援引黑森州内政部长罗曼·波泽克的话如是报道。",
+   "notes": [
+    {
+     "w": "a repeat of",
+     "ipa": "/ə rɪˈpiːt əv/",
+     "pos": "n. phrase",
+     "en": "a repeat of means a happening of the same thing again",
+     "zh": "\"……的一次重演\"（repeat 重复，作名词），事件语境核心义为（某事）的重演、重蹈覆辙",
+     "ctx": "repeat 你认识是动词\"重复\"，这里做名词——a repeat of the violence = 暴力的一次重演。这个词组定了本段基调：德国最怕的，就是\"复制粘贴\"一个法国。所以后面第9 段德国部长说\"我们阻止了像巴黎那样的暴力\"——他们从头到尾，脑子里都是\"别变成法国\"",
+     "ex1": "Authorities feared a repeat of last month's riots in France.当局担心上月法国的骚乱会重演。",
+     "ex2": "The police were determined to avoid a repeat of the chaos.警方决心避免混乱重演。"
+    },
+    {
+     "w": "sweep through",
+     "ipa": "/swiːp θruː/",
+     "pos": "phrasal v.",
+     "en": "sweep through (phrasal v.) means to move quickly and powerfully through a place, affecting everything in its path",
+     "zh": "\"像扫帚一样横扫而过\"（sweep 扫+ through 穿过），扩散语境核心义为席卷、横扫",
+     "ctx": "",
+     "ex1": "The unrest swept through France in a matter of days. 骚乱在数日之内席卷了法国。",
+     "ex2": "A wave of panic swept through the city after the explosion. 爆炸之后，恐慌的浪潮席卷全城。"
+    },
+    {
+     "w": "blockade",
+     "ipa": "/blɒˈkeɪd/",
+     "pos": "n.",
+     "en": "blockade (n.) means the action of blocking a place or route so that people or goods cannot pass",
+     "zh": "\"用身体和障碍物把秩序卡住\"（block 堵 + -ade，源自法语），抗议语境核心义为封锁、街垒",
+     "ctx": "",
+     "ex1": "Blockades and marches shut down parts of the capital.封锁和游行让首都部分地区陷入瘫痪。",
+     "ex2": "Students staged a blockade outside the education ministry.学生在教育部外设置了封锁。"
+    },
+    {
+     "w": "morph into",
+     "ipa": "/mɔːf ˈɪntə/",
+     "pos": "v.",
+     "en": "morph into (v.) means to gradually change into something else",
+     "zh": "\"像人脸变形一样平滑地变成\"（morph 希腊语 morphē\"形态\"），变化语境核心义为演变成、逐渐变成",
+     "ctx": "",
+     "ex1": "The student protests morphed into a nationwide movement. 学生抗议演变成了一场全国性运动。",
+     "ex2": "What began as a strike morphed into a full-scale riot. 起初的罢工逐渐演变成全面骚乱。"
+    },
+    {
+     "w": "descend into",
+     "ipa": "/dɪˈsend ˈɪntə/",
+     "pos": "v.",
+     "en": "descend into (v.) means to gradually get into a bad state or situation",
+     "zh": "\"一路往下滑、滑进……\"（de- 向下+ scend 攀爬），恶化语境核心义为堕入、陷入、滑向",
+     "ctx": "王牌词，和morph into 凑一对——morph 是\"水平地、不知不觉地变\"，descend 是\"垂直地、往下堕\"。词根scend 是\"爬\"（ascend 上升、descend 下降）。 descend into 后面接的永远是坏东西：descend into chaos（陷入混乱）、descend into war（滑向战争）、descend into crime（堕入犯罪）。自带\"往下掉\"的重力感——从\"抗议\"一路掉到\"骚乱\"，用的是\"掉\"这个字",
+     "ex1": "The protests descended into riots, arson and looting.抗议最终堕入骚乱、纵火与抢劫。",
+     "ex2": "The talks descended into open conflict within days.几天之内，会谈就滑向了公开冲突。"
+    },
+    {
+     "w": "arson",
+     "ipa": "/ˈɑːsn/",
+     "pos": "n.",
+     "en": "arson (n.) means the crime of deliberately setting fire to a building or property; looting (n.) means the act of stealing from shops or homes during a riot or war",
+     "zh": "\"故意纵火\"（拉丁语ardere 燃烧），法律语境核心义为纵火（罪）； looting 为抢劫、劫掠",
+     "ctx": "",
+     "ex1": "The unrest descended into riots, arson and looting.骚乱最终堕落为打砸、纵火与抢劫。",
+     "ex2": "Several shops were looted during the night of violence.在那个暴力之夜，数家商店遭到洗劫。"
+    },
+    {
+     "w": "infiltrate",
+     "ipa": "/ˈɪnfɪltreɪt/",
+     "pos": "v.",
+     "en": "infiltrate (v.) means to enter a group or organisation secretly, especially in order to gain information or influence",
+     "zh": "\"像水渗过滤网一样一点一点渗进去\"（in- 进入+ filtr 过滤+ -ate），潜入语境核心义为渗透、悄悄潜入",
+     "ctx": "王牌词。filtr 是\"过滤\"——你肯定认识亲戚filter 过滤器。古罗马人用毛毡滤液体，那个\"滤\"的动作就是filtr。所以infiltrate 的本义是\"像水渗过滤网一样，一点一点、悄无声息地渗进去\"。对比enter（明着进），infiltrate 是\"暗着渗\"。官方用这个词，本身就带着判断：这些人不是\"来抗议的\"，是\"混进来的\"。一个动词，立场全在里面",
+     "ex1": "The minister warned that extremists might infiltrate the march. 部长警告极端分子可能渗透进游行。",
+     "ex2": "Spies infiltrated the organisation over several months.间谍花了数月时间渗透进该组织。"
+    }
+   ]
+  },
+  {
+   "en_html": "In Berlin, a mass gathering at Brandenburg Gate proceeded with little incident, but police made almost 60 arrests in other parts of the city for property damage, <mark class=\"voc\">assault</mark>, resisting <mark class=\"voc\">law enforcement</mark> and <mark class=\"voc\">violations</mark> of the Weapons and Explosives Act.",
+   "zh": "在柏林，勃兰登堡门前的一场大规模集会进行得波澜不惊；然而在城中其他角落，警方仍以毁损财物、人身袭击、抗拒执法及违反《武器与爆炸物法》等罪名，逮捕了近六十人。",
+   "notes": [
+    {
+     "w": "assault",
+     "ipa": "/əˈsɔːlt/",
+     "pos": "n.",
+     "en": "assault (n.) means a physical attack on someone, or the crime of attacking someone",
+     "zh": "\"跳到某人身上\"（ad- 向+ 拉丁语saltare 跳），法律语境核心义为袭击、人身攻击",
+     "ctx": "",
+     "ex1": "The arrests were for property damage, assault and resisting police. 逮捕理由是财产损坏、袭击和抗拒警察。",
+     "ex2": "He was charged with assault after the fight outside the bar. 酒吧外斗殴后，他被控袭击罪。"
+    },
+    {
+     "w": "law enforcement",
+     "ipa": "/lɔː ɪnˈfɔːsmənt/",
+     "pos": "n.",
+     "en": "law enforcement means the system by which laws are enforced; the police and similar agencies",
+     "zh": "\"法律的执行\"（law 法律+ enforcement 执行），司法语境核心义为执法（部门）、警方",
+     "ctx": "\"警察、执法部门\"的正式说法，美国说law enforcement 基本就等于\"警方\"。所以resisting law enforcement 就是\"抗拒警察执法\"，说白了就是\"跟警察对着干\"。以后看英文新闻看到law enforcement 别懵，它就是\"警方/执法者\"的官面叫法",
+     "ex1": "Police arrested people for resisting law enforcement.警方以抗拒执法为由逮捕了一些人。",
+     "ex2": "Thousands of law enforcement officers were deployed across Paris.数千名执法人员在巴黎各处部署。"
+    },
+    {
+     "w": "violation",
+     "ipa": "/ˌvaɪəˈleɪʃn/",
+     "pos": "n.",
+     "en": "violation (n.) means the act of breaking a law, rule or agreement",
+     "zh": "\"对规则的侵犯\"（violate 违反+ -ion），法律语境核心义为违反、违犯",
+     "ctx": "动词violate（违反），名词violation。violations of the Weapons and Explosives Act = 违反《武器与爆炸物法》。这和第2 段\"枪店被抢、燃烧瓶满天飞\"是呼应——砸枪店、扔燃烧瓶的人，最后落的就是这条罪名。一个句子把\"一场骚乱的四类罪名\"列全了：砸东西的（property damage）、打警察的（assault）、抗法的（resisting）、动枪动爆炸物的（violations）",
+     "ex1": "They were charged with violations of the Weapons and Explosives Act. 他们被控违反《武器与爆炸物法》。",
+     "ex2": "The company was fined for violations of safety rules. 该公司因违反安全规定被罚款。"
+    }
+   ]
+  },
+  {
+   "en_html": "The <mark class=\"voc\">unrest</mark> in France has <mark class=\"voc\">emboldened</mark> activists in other parts of Europe, including Zurich, where several hundred people, <mark class=\"voc\">masked</mark> and dressed in black, gathered around Langstrasse and Helvetiaplatz in the city center for an <mark class=\"voc\">unauthorized</mark> protest on Saturday night. Participants <mark class=\"voc\">erected barricades</mark> using rubbish containers and other objects, setting some of them on fire. A car was <mark class=\"voc\">set alight</mark> in nearby Zwinglistrasse. Police used water cannons and rubber bullets to <mark class=\"voc\">disperse</mark> the crowds.",
+   "zh": "法国的动荡，给欧洲其他地方的激进分子壮了胆——苏黎世亦在其列。周六深夜，数百名蒙面黑衣之人，聚集于市中心的朗斯特拉斯与海尔维蒂亚广场一带，举行一场未经批准的抗议。参与者以垃圾桶及杂物筑起路障，并点燃其中部分。邻近的茨温利街上，一辆汽车被纵火焚烧。警方出动水炮与橡皮子弹，将人群驱散。",
+   "notes": [
+    {
+     "w": "unrest",
+     "ipa": "/ʌnˈrest/",
+     "pos": "n.",
+     "en": "unrest (n.) means a situation in which people are angry and likely to protest or fight",
+     "zh": "“不安宁”（un- 不+ rest 安宁），社会语境核心义为骚乱、动荡",
+     "ctx": "注意作者用unrest 而不用riot——riot 是“具体的一场骚乱”， unrest 是“整个社会的不安定状态”，范围更大、时间更长。这说明法国的骚乱不是“一天的事”，是“一段时期的动荡”",
+     "ex1": "The unrest in France has spread across Europe.法国的动荡已经蔓延到全欧洲。",
+     "ex2": "Rising prices sparked widespread unrest in several cities. 物价上涨在多个城市引发了广泛动荡。"
+    },
+    {
+     "w": "embolden",
+     "ipa": "/ɪmˈbəʊldn/",
+     "pos": "v.",
+     "en": "embolden (v.) means to make someone feel braver or more confident, especially in a way that leads them to act",
+     "zh": "\"使大胆\"（em- 使+ bold 大胆+ -en 动词后缀），心理语境核心义为使……壮胆、使……更有底气",
+     "ctx": "全段最值钱的词。一眼看穿：em-（使）+ bold（大胆）+ - en（动词后缀）=\"使大胆\"。为什么用emboldened 而不用inspired（激励）/ encouraged（鼓励）？因为后两个还有\"正向、善意\"的味道，embolden 一点都不善意，它说的是\"壮胆\"——法国的骚乱没教给别国激进分子什么新道理，只是给了他们一个胆：\"原来可以这么干啊，法国人砸了烧了也没怎么样，那我也敢了。\"这就是著名的破窗效应：一扇破窗没人管，很快整栋楼的窗都会破。法国的骚乱，就是那扇\"先破的窗\"",
+     "ex1": "The unrest in France emboldened activists across Europe.法国的骚乱给全欧洲的激进分子壮了胆。",
+     "ex2": "The thief was emboldened by the empty, dark street.空无一人的漆黑街道让小偷壮了胆。"
+    },
+    {
+     "w": "masked",
+     "ipa": "/mɑːskt/",
+     "pos": "adj.",
+     "en": "masked (adj.) means wearing a mask, especially to hide one's identity",
+     "zh": "\"蒙着面的\"（mask 面具+ -ed），行为语境核心义为蒙面的、戴着面具的",
+     "ctx": "",
+     "ex1": "Several hundred masked people gathered for an unauthorized protest. 几百名蒙面的人聚集起来举行未经批准的抗议。",
+     "ex2": "Masked men set fire to a car on a nearby street. 蒙面男子在附近一条街上点燃了一辆汽车。"
+    },
+    {
+     "w": "unauthorized",
+     "ipa": "/ʌnˈɔːθəraɪzd/",
+     "pos": "adj.",
+     "en": "unauthorized (adj.) means not officially approved or permitted",
+     "zh": "\"未经批准的\"（un- 不+ authorized 被授权的），合规语境核心义为未经批准的、未经许可的",
+     "ctx": "这个词是本半句的\"定性\"——前面德国的示威是有组织、有报备、官方批准的，组织方提前申请了游行许可；苏黎世这场是unauthorized（未经批准的）。差别大了：批准的抗议是\"合法表达\"，没批准的第一分钟起就是\"非法集会\"。所以作者一用 unauthorized，就等于告诉你：苏黎世这一场，从一开始就踩在红线上，它不是\"失控\"，它压根就是\"冲着违法去的\"",
+     "ex1": "Police dispersed an unauthorized protest in the city centre. 警方驱散了市中心一场未经批准的抗议。",
+     "ex2": "Unauthorized access to the building is strictly forbidden. 未经授权进入该建筑是被严格禁止的。"
+    },
+    {
+     "w": "erect barricades",
+     "ipa": "/ɪˈrekt ˌbærɪˈkeɪdz/",
+     "pos": "v. phrase",
+     "en": "erect barricades means to build barriers across a street to block passage",
+     "zh": "\"竖立起路障\"（erect 竖立+ barricade 路障），对抗语境核心义为筑起路障",
+     "ctx": "词源彩蛋——barricade 来自法语barrique\"木桶\"，因为历史上最早的街垒路障，就是人们把大街上的木桶翻倒、堆起来堵路。今天苏黎世人不过是用\"垃圾桶\"替代了当年的\"木桶\"——把街上的东西堆起来堵路，这个动作几百年没变过",
+     "ex1": "Protesters erected barricades using rubbish bins and other objects. 抗议者用垃圾桶等物件筑起路障。",
+     "ex2": "Demonstrators built barricades across the main road. 示威者在主干道上筑起路障。"
+    },
+    {
+     "w": "set ... alight",
+     "ipa": "/set ... əˈlaɪt/",
+     "pos": "phrase",
+     "en": "set something alight means to make something start burning",
+     "zh": "\"点燃\"（set 使+ alight 燃烧着的），纵火语境核心义为点燃、放火烧",
+     "ctx": "alight 是\"燃烧着的\"，set alight = 点燃，和第2 段的set on fire 同义，作者换个说法避免重复。这个细节值得学：同一篇英文里，作者会刻意换词避免重复——前面set on fire，这里set alight，意思一样但读起来不腻",
+     "ex1": "A car was set alight in a nearby street. 附近一条街上的一辆汽车被点燃。",
+     "ex2": "Rioters set several vehicles on fire overnight. 暴徒一夜之间点燃了数辆车。"
+    },
+    {
+     "w": "disperse",
+     "ipa": "/dɪˈspɜːs/",
+     "pos": "v.",
+     "en": "disperse (v.) means to cause a crowd of people to separate and go in different directions",
+     "zh": "\"使散开\"（dis- 分开+ sperse 散开），管制语境核心义为驱散、疏散",
+     "ctx": "骚乱新闻的高频动词，和第2 段的break up（驱散人群）近义，两个一起记：break up the crowd / disperse the crowd，都是\"把人驱散\"",
+     "ex1": "Police used tear gas to disperse the crowds. 警方用催泪瓦斯驱散人群。",
+     "ex2": "The crowd slowly dispersed after midnight. 午夜过后，人群慢慢散去。"
+    }
+   ]
+  },
+  {
+   "en_html": "<mark class=\"voc\">Youth-driven</mark> protests have erupted across Europe in recent weeks, from Belgium and Portugal in the west to Serbia and Albania in the east. Although <mark class=\"voc\">grievances</mark> are slightly different in each country, the prevailing sentiment is one of anger over <mark class=\"voc\">affordability</mark>, <mark class=\"voc\">crumbling</mark> infrastructure and inequality. Students in France began to demonstrate in mid-September to <mark class=\"voc\">denounce</mark> <mark class=\"voc\">overcrowded</mark> classrooms, teacher shortages and outdated buildings.",
+   "zh": "近几周来，青年主导的抗议在欧洲各地此起彼伏——西起比利时、葡萄牙，东及塞尔维亚、阿尔巴尼亚。各国怨艾虽略有差异，主流情绪却殊途同归：对可负担性、对日益崩塌的基础设施、对不平等的怒火。法国的学生，早在九月中旬便走上街头，声讨拥挤的教室、匮乏的师资与破败的校舍。",
+   "notes": [
+    {
+     "w": "youth-driven",
+     "ipa": "/ˈjuːθ ˌdrɪvn/",
+     "pos": "adj.",
+     "en": "youth-driven (adj.) means led, organised or powered by young people",
+     "zh": "\"由青年推动的\"（youth 青年+ driven 被驱动的），社会语境核心义为青年主导的",
+     "ctx": "\"-driven\"构词，万能后缀，意思是\"以……为动力的、由……推动的\"： data-driven（数据驱动的）、profit-driven（利润驱动的）、market-driven（市场导向的）。记住一条：凡是\"-driven\"，就是\"被XX 推着走的\"。youth-driven protests 就是\"被年轻人推动的抗议\"——不是大人领着，是年轻人自己冲在前头。这个词一出，全文\"主角\"锁定：这场戏，是年轻人唱的",
+     "ex1": "Youth-driven protests have erupted across Europe in recent weeks.近几周，青年主导的抗议在全欧洲爆发。",
+     "ex2": "The campaign is entirely data-driven.这场活动完全由数据驱动。"
+    },
+    {
+     "w": "grievance",
+     "ipa": "/ˈɡriːvns/",
+     "pos": "n.",
+     "en": "grievance (n.) means a complaint or a strong feeling that you have been treated unfairly",
+     "zh": "\"觉得被亏待的那份委屈\"（grieve 悲痛+ -ance），情感语境核心义为不满、怨气、冤屈",
+     "ctx": "",
+     "ex1": "Each country's grievances are slightly different. 每个国家的怨气略有不同。",
+     "ex2": "Workers filed a grievance over the pay cut. 工人就减薪提起了申诉。"
+    },
+    {
+     "w": "affordability",
+     "ipa": "/əˌfɔːdəˈbɪləti/",
+     "pos": "n.",
+     "en": "affordability (n.) means the quality of being cheap enough for people to be able to pay for",
+     "zh": "\"可负担性\"（afford 负担得起+ -able + -ity），经济语境核心义为可负担性、生活成本压力",
+     "ctx": "",
+     "ex1": "Anger over affordability is driving the protests. 对可负担性的愤怒正在驱动这些抗议。",
+     "ex2": "Housing affordability has become a defining issue for the young. 住房可负担性已成为年轻人的一个核心议题。"
+    },
+    {
+     "w": "crumbling",
+     "ipa": "/ˈkrʌmblɪŋ/",
+     "pos": "adj.",
+     "en": "crumbling (adj.) means breaking into small pieces, or falling apart gradually",
+     "zh": "\"正在碎成渣的\"（crumble 碎成屑，crumb 面包屑），衰败语境核心义为摇摇欲坠的、日益崩塌的",
+     "ctx": "",
+     "ex1": "Students marched against crumbling infrastructure and overcrowded schools. 学生们为反对日益破败的基础设施和拥挤的学校而游行。",
+     "ex2": "The old bridge is crumbling and urgently needs repair. 这座老桥正在崩塌，急需修复。"
+    },
+    {
+     "w": "denounce",
+     "ipa": "/dɪˈnaʊns/",
+     "pos": "v.",
+     "en": "denounce (v.) means to strongly criticize something publicly, saying it is wrong or bad",
+     "zh": "“往坏里说”（de- 向下、负面+ nounce 说），表态语境核心义为公开谴责、强烈抨击",
+     "ctx": "",
+     "ex1": "Students demonstrated to denounce overcrowded classrooms.学生们示威，谴责拥挤的教室。",
+     "ex2": "Human rights groups denounced the crackdown on protesters.人权组织谴责对抗议者的镇压。"
+    },
+    {
+     "w": "overcrowded",
+     "ipa": "/ˌəʊvəˈkraʊdɪd/",
+     "pos": "adj.",
+     "en": "overcrowded (adj.) means containing too many people for the space available",
+     "zh": "\"挤爆了的\"（over 过度+ crowded 拥挤的），状态语境核心义为拥挤不堪的、人满为患的",
+     "ctx": "",
+     "ex1": "Students protested against overcrowded classrooms and a lack of teachers. 学生们抗议拥挤的教室和师资短缺。",
+     "ex2": "The hospital is overcrowded and understaffed.这家医院人满为患、人手不足。"
+    }
+   ]
+  },
+  {
+   "en_html": "After the violent unrest in France, authorities <mark class=\"voc\">rolled out</mark> tougher security measures and pledged aid for businesses and shop owners that suffered damages. In Italy, Premier Giorgia Meloni’s government passed new security measures aimed at <mark class=\"voc\">stemming</mark> violent protests, including tougher penalties on minors after <mark class=\"voc\">a series of</mark> incidents across the country. More than 300,000 people joined <mark class=\"voc\">a fresh protest wave</mark> in France on Saturday that sparked renewed violence, although <mark class=\"voc\">on a lesser scale</mark> than the mid-October riots. Paris <mark class=\"voc\">deployed</mark> about 70,000 law enforcement officers, similar to the force used during demonstrations last weekend. Police arrested 779 people, authorities said, adding that five officers were injured in Paris.",
+   "zh": "法国爆发暴力骚乱之后，当局推出更为严厉的安保举措，并承诺援助蒙受损失的商户与店主。在意大利，总理梅洛尼的政府通过新的安保措施，意在遏制暴力抗议，其中包括在国内一连串事件之后，加重对未成年人的处罚。周六，逾三十万人汇入法国新一轮抗议浪潮，再度点燃暴力，唯其规模小于十月中旬的那场骚乱。巴黎部署了约七万名执法人员，与上周末示威期间所动用的警力相当。警方逮捕了七百七十九人；当局并补充称，巴黎有五名警察受伤。",
+   "notes": [
+    {
+     "w": "roll out",
+     "ipa": "/rəʊl aʊt/",
+     "pos": "phrasal v.",
+     "en": "roll out (phrasal v.) means to officially introduce or launch something new, such as a policy or product",
+     "zh": "\"把一卷东西展开铺开来\"（roll 卷+ out 向外），推行语境核心义为推出、正式铺开",
+     "ctx": "王牌词，画面是卷地毯——工人抱着一卷新地毯，\"哗\"地从这头一路铺到那头。所以roll out 一个政策、措施，就是\"把它正式铺开、全面推行\"。它和introduce （介绍）、launch（发布）的区别是自带一个\"从点到面、逐步铺开\"的过程感。现在是科技圈宠儿——roll out a new feature（推出新功能）、roll out a product（新产品上市）。记住\"铺地毯\"的画面就忘不掉",
+     "ex1": "Authorities rolled out tougher security measures after the unrest.骚乱之后，当局推出了更严厉的安保措施。",
+     "ex2": "The company will roll out the update to all users next month.该公司下月将向所有用户推出更新。"
+    },
+    {
+     "w": "stem",
+     "ipa": "/stem/",
+     "pos": "v.",
+     "en": "stem (v.) means to stop something from spreading or increasing",
+     "zh": "\"像船头顶住急流一样\"（源自stem the tide 顶住潮水），遏制语境核心义为遏制、阻止（蔓延）",
+     "ctx": "",
+     "ex1": "The new laws are aimed at stemming violent protests. 新法旨在遏制暴力抗议。",
+     "ex2": "The government is struggling to stem the tide of migration. 政府正艰难地遏制移民潮。"
+    },
+    {
+     "w": "a series of",
+     "ipa": "/ə ˈsɪəriːz əv/",
+     "pos": "phrase",
+     "en": "a series of means a number of similar things or events that happen one after another",
+     "zh": "\"一连串\"（series 系列+ of），数量语境核心义为一连串、一系列",
+     "ctx": "",
+     "ex1": "The law came after a series of incidents across the country.这部法律是在全国一连串事件之后出台的。",
+     "ex2": "A series of protests shut down the city centre.一连串抗议让市中心陷入瘫痪。"
+    },
+    {
+     "w": "a fresh protest wave",
+     "ipa": "/ə freʃ ˈprəʊtest weɪv/",
+     "pos": "n. phrase",
+     "en": "a protest wave means a period in which many protests happen, one after another",
+     "zh": "\"新一波的抗议浪潮\"（fresh 新的+ wave 浪），社会语境核心义为新一轮抗议浪潮",
+     "ctx": "",
+     "ex1": "More than 300,000 joined a fresh protest wave in France. 超过30 万人加入了法国新一轮的抗议浪潮。",
+     "ex2": "A fresh wave of anger swept through the capital. 新一波愤怒席卷了首都。"
+    },
+    {
+     "w": "on a lesser scale",
+     "ipa": "/ɒn ə ˈlesə skeɪl/",
+     "pos": "phrase",
+     "en": "on a lesser scale means to a smaller size or extent than something else",
+     "zh": "\"以更小的规模\"（lesser 较小的+ scale 规模），比较语境核心义为规模较小",
+     "ctx": "",
+     "ex1": "The violence was on a lesser scale than the mid-October riots.这次暴力的规模比 10 月中旬的骚乱要小。",
+     "ex2": "The protests were repeated on a lesser scale the following week.接下来的一周，抗议以更小的规模再次上演。"
+    },
+    {
+     "w": "deploy",
+     "ipa": "/dɪˈplɔɪ/",
+     "pos": "v.",
+     "en": "deploy (v.) means to move soldiers, police or equipment into position for action",
+     "zh": "\"把部队调遣到指定位置准备作战\"（源自法语déployer 展开），军事语境核心义为部署、调遣",
+     "ctx": "",
+     "ex1": "Paris deployed about 70,000 law enforcement officers.巴黎部署了约7 万名执法人员。",
+     "ex2": "The army was deployed to support the police.军队被调来支援警方。"
+    }
+   ]
+  },
+  {
+   "en_html": "Images <mark class=\"voc\">circulated</mark> by the National Gendarmerie showed one officer being hit by a Molotov cocktail, an attack Interior Minister Laurent Nunez described as “<mark class=\"voc\">attempted murder</mark>” in comments to journalists late on Saturday. France has launched an attempted murder investigation after the incident, Agence France-Presse reported on Sunday. Student unions have called for blockades at high schools and universities this week and <mark class=\"voc\">urged</mark> students to join a major <mark class=\"voc\">cross-sector strike</mark> scheduled for Nov. 5 across the country.",
+   "zh": "法国宪兵队流传出的画面显示，一名警察被燃烧瓶击中；内政部长洛朗·努内兹在周六深夜向记者发表评论时，将此次袭击定性为\"谋杀未遂\"。据法新社周日报道，法国已就此事件立案，展开谋杀未遂的调查。学生工会则呼吁本周封锁各大高中与大学，并敦促学生加入定于11月5日在全国范围举行的一场大规模跨行业罢工。",
+   "notes": [
+    {
+     "w": "circulate",
+     "ipa": "/ˈsɜːkjəleɪt/",
+     "pos": "v.",
+     "en": "circulate (v.) means to pass from one person or place to another; to spread",
+     "zh": "\"转圈、循环\"（circle 圆圈→ circulate 绕圈流动），传播语境核心义为流传、传播",
+     "ctx": "",
+     "ex1": "Images circulated by the gendarmerie showed an officer being hit. 宪兵队流传出的画面显示一名警察被击中。",
+     "ex2": "The video circulated widely on social media within hours. 这段视频数小时内就在社交媒体上广泛传播。"
+    },
+    {
+     "w": "attempted murder",
+     "ipa": "/əˈtemptɪd ˈmɜːdə/",
+     "pos": "n.",
+     "en": "attempted murder (n.) means the crime of trying to kill someone but failing",
+     "zh": "\"企图杀人但没杀成\"（attempted 未遂的+ murder 谋杀），法律语境核心义为谋杀未遂",
+     "ctx": "",
+     "ex1": "France launched an attempted murder investigation after the incident.事件发生后，法国展开了谋杀未遂调查。",
+     "ex2": "He was charged with attempted murder after the attack.袭击后，他被控谋杀未遂。"
+    },
+    {
+     "w": "urge",
+     "ipa": "/ɜːdʒ/",
+     "pos": "v.",
+     "en": "urge (v.) means to strongly advise or try to persuade someone to do something",
+     "zh": "\"苦口婆心地催\"（源自拉丁语urgere 催逼），劝告语境核心义为敦促、力劝",
+     "ctx": "",
+     "ex1": "Unions urged students to join the cross-sector strike.工会敦促学生加入这场跨行业罢工。",
+     "ex2": "Doctors urged people to get vaccinated early.医生敦促人们尽早接种疫苗。"
+    },
+    {
+     "w": "cross-sector strike",
+     "ipa": "/ˌkrɒs ˈsektə straɪk/",
+     "pos": "n. phrase",
+     "en": "a cross-sector strike means a strike involving workers from many different industries at the same time",
+     "zh": "\"跨行业罢工\"（cross 跨+ sector 行业+ strike 罢工），劳动语境核心义为跨行业大罢工",
+     "ctx": "",
+     "ex1": "Student unions urged students to join a major cross-sector strike.学生工会敦促学生加入一场大规模跨行业罢工。",
+     "ex2": "A cross-sector strike brought the country to a standstill.一场跨行业罢工让整个国家陷入停滞。"
+    }
+   ]
   }
+ ],
+ "proper": [
+  {
+   "name": "Gen Z regelt",
+   "def": "简要介绍：德国这场全国抗议的组织方，名字来自德语动词regeln（处理、解决、摆平），直译即\"Z 世代，来搞定\"。发起人是年仅18 岁的TikTok 用户阿克拉姆·塞洛（AkramSelo），核心团队只有5 人、另有3 人匿名。组织方在抗议前反复强调绝不容忍暴力，预期30 多城15 万人参与，实际到场约一半。<br>本文中的意思：全文的\"理想主义vs 失控\"张力所在。一个18 岁少年用社交媒体组织起全国抗议，名字里带着\"你们上一代搞不定、闪开让我们来\"的底气；但组织方反复强调和平，散场后仍爆发打砸抢——\"谁该背锅\"的疑问，就悬在理想主义与街头失控之间。"
+  },
+  {
+   "name": "Friedrich Merz",
+   "def": "简要介绍：德国现任总理，1955 年生，基民盟（CDU）党魁，2025 年5 月就任，接朔尔茨的班。早年与默克尔争夺党内领导权落败后退出政坛，做了十几年企业律师与金融高管，成为德国政界有名的富豪（有私人飞机），被年轻人视为\"富人阵营\"代表。他主推了德国今年的新兵役法（要求18 岁男性登记兵役意愿）。<br>本文中的意思：全文年轻人愤怒的\"头号靶子\"。第3 段有抗议者把他cosplay 成\"自拍背景板\"、高呼\"默茨下台\"，标语\"把默茨送上前线\"更是黑色幽默的天花板——\"你让开私人飞机的富豪总理上前线挨子弹，却喊我们18 岁的孩子去当炮灰，凭什么？\""
+  },
+  {
+   "name": "Die Zeil",
+   "def": "简要介绍：法兰克福最繁华的商业步行街，德国最繁忙的购物街之一，日人流量以几十万计。名字来自古德语，本义是\"一排、一行\"——几百年前这里就是一排排摊位和房子沿街铺开，故称\"排街\"。<br>本文中的意思：骚乱最刺眼的现场。作者不写\"事态严重\"，只写\"法兰克福的南京路封街了\"，德国观众自己心里就\"咯噔\"一下——这是德国最体面的一条街，现在不体面了。当晚它被封锁，30 多人被捕，Snipes 球鞋店的球鞋被一扫而空。"
+  },
+  {
+   "name": "Main river / Mainhattan",
+   "def": "简要介绍：美因河是法兰克福的母亲河，莱茵河支流，把城市一分为二。法兰克福金融区贴着美因河两岸、全是摩天大楼，德国全国独此一处，当地人称它\"Mainhattan\"（Main +Manhattan，即\"美因河的曼哈顿\"）。<br>本文中的意思：游行路线的地理坐标。队伍从美因河堤岸出发，穿过\"美因哈顿\"金融区，一路走向欧洲央行——起点是河，终点是\"钱\"，这是场冲着\"钱\"去的游行。"
+  },
+  {
+   "name": "Hesse",
+   "def": "简要介绍：德国16 个联邦州之一，法兰克福就属于黑森州。德国是联邦制，治安、警察主要是\"州\"的事，不是联邦中央的事。<br>本文中的意思：解释为什么是\"州内政部长\"波泽克发言、而不是联邦内政部长——法兰克福街头骚乱的直接对口负责人，就是黑森州内政部长。他不是\"被叫来评论的\"，就是\"这场事儿的直接责任人之一\"，所以发言格外用力。"
+  },
+  {
+   "name": "European Central Bank / ECB",
+   "def": "简要介绍：1998 年成立，总部就在法兰克福，是欧元的发行方，掌管整个欧元区的货币政策、利率与货币发行，说白了就是\"欧洲的钱袋子\"。<br>本文中的意思：游行的终点，象征意义拉满。一支队伍专门走到欧洲央行，等于把矛头直指\"财富分配不公\"——他们抗议的不是别的，正是\"管钱的那个地方\"。"
+  },
+  {
+   "name": "Brandenburg Gate",
+   "def": "简要介绍：柏林的象征、也是德国统一的象征，建于18 世纪末，门顶是\"胜利女神驾四马战车\"雕像。冷战时期柏林墙贴着它穿过，它正好卡在东西柏林分界线上，一关几十年；1989 年11 月9 日柏林墙倒塌，成千上万人涌到门前欢呼。德国版欧元硬币背面印的就是它。<br>本文中的意思：柏林抗议的主会场。把主会场设在德国最神圣、最象征\"国家\"的地方，选址本身就是一句话——\"我们说的，是这个国家的事。\"然而讽刺的是，主会场平静，城市其他地方却抓了近60 人——暴徒\"柿子捡软的捏\"，转去警力薄弱的角落。"
+  },
+  {
+   "name": "Roman Poseck",
+   "def": "简要介绍：黑森州内政部长，来自基民盟（CDU），与总理默茨同党。他称自己\"反复警告过\"会有带暴力倾向的左翼极端分子渗透进示威。<br>本文中的意思：为这场骚乱\"定性\"的官员。他的发言是典型的\"事后免责\"式话术——先把\"我早有预见\"摆出来，等于说\"出了事别怪我\"。但注意：这是官员的一面之词，组织方说法与之对立，作者只转述、不给对质机会，谁在说谎留给读者。"
+  },
+  {
+   "name": "Black Bloc",
+   "def": "简要介绍：西方一种专门的抗议战术，不是政党也不是组织，而是一套\"打法\"——参与者统一穿黑衣、蒙脸以隐藏身份，让警察认不出人、事后无法追责。起源于上世纪七八十年代意大利和西德的无政府主义占屋运动，1999 年西雅图反世贸峰会一战\"出圈\"走向全球。特点是\"没有领袖，却高度协同\"，靠社交媒体和加密软件临时组织。<br>本文中的意思：第7 段\"几百名蒙面、穿黑衣的人\"的正解。它说明苏黎世这批人和白天举牌和平游行的学生根本不是一路人，是专业的\"街头对抗者\"。"
+  },
+  {
+   "name": "Langstrasse / Helvetiaplatz",
+   "def": "简要介绍：苏黎世的两处地标。Langstrasse 字面\"长街\"，是苏黎世出了名的红灯区，外国居民占42%，历史上是工业时代工人区，一直是左翼运动的老巢；Helvetiaplatz 紧邻其旁，\"Helvetia\"是瑞士的国家象征（那位\"瑞士女神\"，瑞士拉丁语国名即Helvetia），该广场是苏黎世每年五一游行和反资本主义抗议的固定场地。<br>本文中的意思：苏黎世骚乱不是随机发生，而是发生在这座城市\"左翼情绪最浓、抗议传统最厚\"的那条街——蒙面黑衣人选在这儿集结，像回家一样。"
+  },
+  {
+   "name": "Giorgia Meloni",
+   "def": "简要介绍：意大利总理，1977 年生，极右翼政党\"意大利兄弟党\"党魁，2022 年10 月上台，是意大利史上第一位女总理，到2026 年8 月已成意大利二战后执政时间最长的总理。年轻时是极右翼出身，只有高中学历，早年干过保姆、服务员、调酒师，一路靠街头政治爬上来。<br>本文中的意思：这位靠\"反移民、反左翼、强治安\"起家的极右翼女总理，面对青年骚乱出台的招数天然偏\"硬\"——通过新安保法，加重对未成年人的处罚，甚至\"推定14 岁懂法\"。"
+  },
+  {
+   "name": "National Gendarmerie",
+   "def": "简要介绍：法国的宪兵部队，词源来自法语gens d'armes（\"带武器的人\"）。法国有警察和宪兵两套并行的执法系统：警察管城市，宪兵管乡村和小城镇，而且宪兵属于军队序列，是\"武装力量\"的一部分。<br>本文中的意思：作者特意写\"宪兵队公布的画面\"——对付一场街头骚乱，动用的不只是警察，还有军队体系的宪兵，呼应第9 段\"哨兵行动军人增援\"，说明法国已动到了军队。"
+  },
+  {
+   "name": "Laurent Nunez",
+   "def": "简要介绍：法国内政部长，1964 年生，前巴黎警察局长（2022–2025），2025 年10月刚接任内政部长。10 月17 日大骚乱后曾主动向马克龙递交辞呈（\"我对发生的一切负责\"），被拒绝。<br>本文中的意思：把\"警察被燃烧瓶击中\"定性为\"谋杀未遂\"的官员。一个刚上任、还差点辞职的部长，此时站出来定性，既是向公众表态\"我要严惩\"，也是给自己\"找回场子\"——官员的每句定性，背后都有他自己的处境。"
+  },
+  {
+   "name": "Agence France-Presse / AFP",
+   "def": "简要介绍：全球三大通讯社之一（另两家是路透社、美联社），总部巴黎，缩写AFP。<br>本文中的意思：作者交代消息来源的规范动作——\"据法新社报道\"就是\"消息来源\"（source）。读外刊养成一个习惯：每看一个信息都问一句\"这是谁说的\"，就不会被带节奏。"
+  },
+  {
+   "name": "Molotov cocktail",
+   "def": "简要介绍：土制燃烧瓶（玻璃瓶灌汽油、瓶口塞布点着扔出）的通用名称。燃烧瓶本身是1936 年西班牙内战发明的，但\"莫洛托夫鸡尾酒\"这个名字来自1939–40 年苏芬战争：苏联轰炸芬兰平民，外长莫洛托夫\"辟谣\"说投下的是给芬兰百姓的\"面包\"；芬兰人反讽，把苏联燃烧弹叫\"莫洛托夫面包篮\"，又给自制的反坦克燃烧瓶起名\"莫洛托夫鸡尾酒\"——\"你送面包，我们回敬一杯鸡尾酒配着喝\"。一个弱国在最绝望时用幽默回敬强权。<br>本文中的意思：全文最重要的首尾呼应物件。第2 段法兰克福街头它首次出现（骚乱物件），第10 段它击中警察、升级为\"谋杀未遂\"的凶器——同一个词，把全文温度从\"骚乱\"拉到\"刑事犯罪\"。"
+  },
+  {
+   "name": "France October unrest",
+   "def": "简要介绍：第5 段\"上月席卷法国的暴力\"的完整背景——9 月中旬法国学生因教室拥挤、师资短缺、校舍老旧开始罢课；10 月17 日校园抗议与\"生活成本\"不满合流，全国约55 万人上街，3000 多家商铺被砸被抢，利摩日市政厅被焚，近千名警察受伤，2397 人被捕。这是欧洲多年来最严重的骚乱。<br>本文中的意思：德国当局最怕重演的那场\"大火\"，也是全欧洲这轮动荡的\"导火索\"和\"胆量来源\"。作者把它放第5 段，但细节到第9 段才补，是全文唯一\"背景前置不足\"的卡点，读时要心里有数。"
+  },
+  {
+   "name": "Serbia student protest",
+   "def": "简要介绍：第8 段\"东至塞尔维亚\"背后的真实故事——塞尔维亚学生抗议源于2024 年11月诺维萨德火车站雨棚坍塌砸死16 人、民众认定背后有腐败，学生们整整抗议两年；2026 年10 月25 日议会选举，学生支持的联盟拿下52.7% 选票、140 席，把执政14年的总统武契奇拉下台。<br>本文中的意思：全文最强的\"大反转\"。一群大学生靠两年街头抗议，最后用选票接管国家，有抗议者说\"我从抗议，走向了责任\"——这正是这场\"欧洲青年运动\"最狠的地方：它不只上街喊两嗓子，在某些国家已真的改变了政权。"
+  },
+  {
+   "name": "conscription law",
+   "def": "简要介绍：德国今年新推的兵役登记制度，要求18 岁男性登记兵役意愿，由默茨政府主推。这也是后文标语\"把默茨送上前线\"\"养不起穷人却能打仗\"的直接由来。德国国防预算近年从约635 亿欧元一路涨到约1080 亿欧元，另设1000 亿欧元国防特别基金。<br>本文中的意思：解释标语里\"打仗\"二字的出处——年轻人愤怒于\"政府喊没钱砍教育经费，打仗的钱却大把掏\"。一个斯图加特学生说得好：\"我们教室的投影仪坏了三周没人修，可征兵广告已经贴到了披萨外卖盒上。\""
+  },
+  {
+   "name": "hammer and sickle + rainbow flag",
+   "def": "简要介绍：镰刀锤子是前苏联国徽图案、共产主义标志（锤子代表工人、镰刀代表农民，\"工农联盟\"）；彩虹旗是LGBTQ 群体的平权标志。这两类符号在现实中通常互不相干。<br>本文中的意思：作者把它们并排写进同一支队伍，是要画一个\"人群大杂烩\"——左翼、性少数、中东议题平时聊不到一块，今天却站在同一条队伍里，说明凝聚力不是统一信仰，而是\"一个共同的情绪：不满\"。这也为第5 段官员\"左翼极端分子渗透\"的指控埋下伏笔。"
+  },
+  {
+   "name": "Eat the rich",
+   "def": "简要介绍：反资本主义的标志性口号，可追溯到法国大革命。1793 年10 月\"恐怖统治\"时期，巴黎公社主席肖梅特引用卢梭的话：\"当人民再也没有东西可吃的时候，他们就会吃掉富人。\"（Quand le peuple n'aura plus rien à manger, il mangera le riche）后缩为三个字Eat the rich，成为占领华尔街、BLM 游行等全球左翼运动的标准口号。<br>本文中的意思：第3 段四条标语里最有历史分量的一条。举牌的年轻人可能自己都没读过卢梭，但这个口号的分量就摆在那儿——这是\"阶级对立\"四个字最古老、也最刺眼的一种写法。德国30多城爆发抗议，部分地区演变成打砸冲突：为什么欧洲年轻人越来越愤怒？"
+  }
+ ],
+ "sources_note": "本文选自 Bloomberg 报道，由《早安英文》讲解。",
+ "practice": {
+  "intro": "请将以下中文句子翻译为英文（参考答案见后）。",
+  "items": [
+   "德国各地的大规模示威，周六当天大体行进得平和有序；然而随着夜幕降临，却骤然爆发成暴力冲突——暴徒们在法兰克福、科隆、汉堡与柏林，同警方正面僵持。",
+   "当局封锁了法兰克福最繁华的购物街采尔大街，并在示威者砸碎橱窗、抢走潮牌服饰等商品之后，逮捕了三十余人。",
+   "周六午后，数千以年轻人为主的人聚集在美因河堤岸，继而蜿蜒穿过金融区，走向城东的欧洲央行。",
+   "一名扮作德国总理默茨的抗议者，转瞬成了众人争相合影的\"自拍焦点\"，其余人则高呼要他\"下台\"。",
+   "该组织早在抗议开始前便强调，绝不容忍任何形式的暴力——无论是对人，还是对财物。",
+   "实际到场的人数，未能达到最初预期的、遍及三十余城的十五万之众。"
+  ],
+  "critical_en": "",
+  "critical_zh": "",
+  "answer": "1. Mass demonstrations in Germany that passed largely peacefully on Saturday erupted in violence as night fell and rioters faced off against police in Frankfurt, Cologne, Hamburg and Berlin.<br><br>2. Authorities blocked off Frankfurt's main shopping street Die Zeil and arrested more than 30 people after demonstrators smashed shop windows and made off with streetwear and other goods.<br><br>3. Several thousand mostly young people gathered at the Main river embankment on Saturday afternoon before weaving their way through the financial district and toward the European Central Bank in the city's east.<br><br>4. One protestor dressed as German Chancellor Friedrich Merz became an instant selfie magnet while others called for him \"to resign.\"<br><br>5. The group had stressed in the run-up to the protest that it wouldn't tolerate any form of violence against people or property.<br><br>6. The crowds fell short of the more than 150,000 participants initially expected across more than 30 cities."
+ },
+ "mindmap": {
+  "aria": "欧洲青年之怒思维导图",
+  "alt": "思维导图：中心为“欧洲青年之怒·生活成本引爆、暴力外溢”，四支论点依次为“怒从何来（房租与生活成本、诉求被搁置、拒绝被代表）”→“何以失控（30余城入夜转为打砸、组织者与暴力切割、当局归咎左翼渗透）”→“怒火越境（苏黎世设障纵火、泛欧同声抗议、11·5 全欧罢工）”→“强硬回应（法意收紧处罚与安保、袭警升格谋杀未遂调查）”。",
+  "svg": "<svg viewBox=\"0 0 960 602\" xmlns=\"http://www.w3.org/2000/svg\" role=\"img\" aria-label=\"欧洲青年之怒思维导图\" style=\"width:100%;height:auto;font-family:-apple-system,'PingFang SC','Hiragino Sans GB','Microsoft YaHei',sans-serif\">\n<rect x=\"24\" y=\"257\" width=\"176\" height=\"88\" rx=\"14\" fill=\"#eae3d2\" stroke=\"#9a8f76\"/>\n<text x=\"112\" y=\"293\" text-anchor=\"middle\" fill=\"#3d3a34\" font-size=\"17\" font-weight=\"700\">欧洲青年之怒</text>\n<text x=\"112\" y=\"319\" text-anchor=\"middle\" fill=\"#5c5648\" font-size=\"12.5\">生活成本引爆·暴力外溢</text>\n<path d=\"M200,301 C232,301 232,88 260,88\" stroke=\"#6b8f71\" stroke-width=\"2\" fill=\"none\"/>\n<path d=\"M200,301 C232,301 232,244 260,244\" stroke=\"#7d98ad\" stroke-width=\"2\" fill=\"none\"/>\n<path d=\"M200,301 C232,301 232,400 260,400\" stroke=\"#bd7a6d\" stroke-width=\"2\" fill=\"none\"/>\n<path d=\"M200,301 C232,301 232,535 260,535\" stroke=\"#9b86b3\" stroke-width=\"2\" fill=\"none\"/>\n<g class=\"mm-branch\" data-target=\"bc1\">\n<rect x=\"260\" y=\"71\" width=\"190\" height=\"34\" rx=\"8\" fill=\"#e6efe7\" stroke=\"#6b8f71\"/>\n<text x=\"355\" y=\"93\" text-anchor=\"middle\" fill=\"#4c6b52\" font-size=\"15\" font-weight=\"700\">怒从何来（¶3–4）</text>\n<text class=\"mm-arrow\" data-for=\"bc1\" x=\"442\" y=\"93\" text-anchor=\"end\" fill=\"#4c6b52\">▾</text>\n</g>\n<g class=\"mm-children\" id=\"bc1\">\n<path d=\"M450,88 C462,88 462,46 480,46\" stroke=\"#6b8f71\" stroke-width=\"1.5\" fill=\"none\"/>\n<path d=\"M450,88 C462,88 462,88 480,88\" stroke=\"#6b8f71\" stroke-width=\"1.5\" fill=\"none\"/>\n<path d=\"M450,88 C462,88 462,130 480,130\" stroke=\"#6b8f71\" stroke-width=\"1.5\" fill=\"none\"/>\n<rect x=\"480\" y=\"30\" width=\"456\" height=\"32\" rx=\"8\" fill=\"#e6efe7\"/><text x=\"492\" y=\"51\" fill=\"#3d3a34\" font-size=\"14\">房租与生活成本压垮青年</text>\n<rect x=\"480\" y=\"72\" width=\"456\" height=\"32\" rx=\"8\" fill=\"#e6efe7\"/><text x=\"492\" y=\"93\" fill=\"#3d3a34\" font-size=\"14\">教育·医疗·气候诉求被搁置</text>\n<rect x=\"480\" y=\"114\" width=\"456\" height=\"32\" rx=\"8\" fill=\"#e6efe7\"/><text x=\"492\" y=\"135\" fill=\"#3d3a34\" font-size=\"14\">拒绝被代表：别替我们决定未来</text>\n</g>\n<g class=\"mm-branch\" data-target=\"bc2\">\n<rect x=\"260\" y=\"227\" width=\"190\" height=\"34\" rx=\"8\" fill=\"#e5edf4\" stroke=\"#7d98ad\"/>\n<text x=\"355\" y=\"249\" text-anchor=\"middle\" fill=\"#3d5872\" font-size=\"15\" font-weight=\"700\">何以失控（¶1–2·¶5–6）</text>\n<text class=\"mm-arrow\" data-for=\"bc2\" x=\"442\" y=\"249\" text-anchor=\"end\" fill=\"#3d5872\">▾</text>\n</g>\n<g class=\"mm-children\" id=\"bc2\">\n<path d=\"M450,244 C462,244 462,202 480,202\" stroke=\"#7d98ad\" stroke-width=\"1.5\" fill=\"none\"/>\n<path d=\"M450,244 C462,244 462,244 480,244\" stroke=\"#7d98ad\" stroke-width=\"1.5\" fill=\"none\"/>\n<path d=\"M450,244 C462,244 462,286 480,286\" stroke=\"#7d98ad\" stroke-width=\"1.5\" fill=\"none\"/>\n<rect x=\"480\" y=\"186\" width=\"456\" height=\"32\" rx=\"8\" fill=\"#e5edf4\"/><text x=\"492\" y=\"207\" fill=\"#3d3a34\" font-size=\"14\">30余城入夜转为打砸</text>\n<rect x=\"480\" y=\"228\" width=\"456\" height=\"32\" rx=\"8\" fill=\"#e5edf4\"/><text x=\"492\" y=\"249\" fill=\"#3d3a34\" font-size=\"14\">组织者事前与暴力切割</text>\n<rect x=\"480\" y=\"270\" width=\"456\" height=\"32\" rx=\"8\" fill=\"#e5edf4\"/><text x=\"492\" y=\"291\" fill=\"#3d3a34\" font-size=\"14\">当局归咎左翼分子渗透</text>\n</g>\n<g class=\"mm-branch\" data-target=\"bc3\">\n<rect x=\"260\" y=\"383\" width=\"190\" height=\"34\" rx=\"8\" fill=\"#f4e7e4\" stroke=\"#bd7a6d\"/>\n<text x=\"355\" y=\"405\" text-anchor=\"middle\" fill=\"#7c4a3e\" font-size=\"15\" font-weight=\"700\">怒火越境（¶7–8·¶10）</text>\n<text class=\"mm-arrow\" data-for=\"bc3\" x=\"442\" y=\"405\" text-anchor=\"end\" fill=\"#7c4a3e\">▾</text>\n</g>\n<g class=\"mm-children\" id=\"bc3\">\n<path d=\"M450,400 C462,400 462,358 480,358\" stroke=\"#bd7a6d\" stroke-width=\"1.5\" fill=\"none\"/>\n<path d=\"M450,400 C462,400 462,400 480,400\" stroke=\"#bd7a6d\" stroke-width=\"1.5\" fill=\"none\"/>\n<path d=\"M450,400 C462,400 462,442 480,442\" stroke=\"#bd7a6d\" stroke-width=\"1.5\" fill=\"none\"/>\n<rect x=\"480\" y=\"342\" width=\"456\" height=\"32\" rx=\"8\" fill=\"#f4e7e4\"/><text x=\"492\" y=\"363\" fill=\"#3d3a34\" font-size=\"14\">苏黎世设障·纵火·橡皮子弹</text>\n<rect x=\"480\" y=\"384\" width=\"456\" height=\"32\" rx=\"8\" fill=\"#f4e7e4\"/><text x=\"492\" y=\"405\" fill=\"#3d3a34\" font-size=\"14\">从比利时到阿尔巴尼亚同声抗议</text>\n<rect x=\"480\" y=\"426\" width=\"456\" height=\"32\" rx=\"8\" fill=\"#f4e7e4\"/><text x=\"492\" y=\"447\" fill=\"#3d3a34\" font-size=\"14\">11·5 全欧大罢工在即</text>\n</g>\n<g class=\"mm-branch\" data-target=\"bc4\">\n<rect x=\"260\" y=\"518\" width=\"190\" height=\"34\" rx=\"8\" fill=\"#ece4f2\" stroke=\"#9b86b3\"/>\n<text x=\"355\" y=\"540\" text-anchor=\"middle\" fill=\"#5a4670\" font-size=\"15\" font-weight=\"700\">强硬回应（¶9–10）</text>\n<text class=\"mm-arrow\" data-for=\"bc4\" x=\"442\" y=\"540\" text-anchor=\"end\" fill=\"#5a4670\">▾</text>\n</g>\n<g class=\"mm-children\" id=\"bc4\">\n<path d=\"M450,535 C462,535 462,514 480,514\" stroke=\"#9b86b3\" stroke-width=\"1.5\" fill=\"none\"/>\n<path d=\"M450,535 C462,535 462,556 480,556\" stroke=\"#9b86b3\" stroke-width=\"1.5\" fill=\"none\"/>\n<rect x=\"480\" y=\"498\" width=\"456\" height=\"32\" rx=\"8\" fill=\"#ece4f2\"/><text x=\"492\" y=\"519\" fill=\"#3d3a34\" font-size=\"14\">法意收紧处罚与安保</text>\n<rect x=\"480\" y=\"540\" width=\"456\" height=\"32\" rx=\"8\" fill=\"#ece4f2\"/><text x=\"492\" y=\"561\" fill=\"#3d3a34\" font-size=\"14\">袭警升格“谋杀未遂”调查</text>\n</g>\n<text x=\"486\" y=\"170\" fill=\"#8a8578\" font-size=\"11.5\">↓ 直接触发</text>\n<text x=\"486\" y=\"326\" fill=\"#8a8578\" font-size=\"11.5\">↓ 外溢</text>\n<text x=\"486\" y=\"482\" fill=\"#8a8578\" font-size=\"11.5\">↓ 对策</text>\n</svg>",
+  "img": "/Users/malen/.workbuddy/backups/handmap/2026-11-03_欧洲青年之怒.jpg"
+ }
 }

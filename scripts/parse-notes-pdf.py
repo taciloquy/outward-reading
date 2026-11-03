@@ -187,6 +187,8 @@ def run(pdf, proper_mark, practice_mark, drop):
             cur_p['def'] += t
 
     # 练习 + 答案
+    # 题干与答案都会折行（中文一行约 35 字、英文约 75 字符），
+    # 不带编号的续行必须并回上一条，否则会被整条丢掉。
     practice, answers, mode = [], [], 'q'
     for l in clean[para_end:]:
         t = l.strip()
@@ -195,9 +197,15 @@ def run(pdf, proper_mark, practice_mark, drop):
         if t == '参考答案' or t.startswith('参考答案'):
             mode = 'a'
             continue
+        bucket = practice if mode == 'q' else answers
         m = re.match(r'^\d+\.\s*(.+)$', t)
         if m:
-            (practice if mode == 'q' else answers).append(m.group(1).strip())
+            bucket.append(m.group(1).strip())
+        elif bucket:
+            prev = bucket[-1]
+            # 中文之间不加空格，中英/英文之间补一个空格
+            sep = '' if (prev and CJK.match(prev[-1]) and CJK.match(t[0])) else ' '
+            bucket[-1] = prev + sep + t
 
     return {
         'paragraphs': paras,

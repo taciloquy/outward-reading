@@ -1,0 +1,224 @@
+{
+ "date": "2026-11-03",
+ "h1": "德国30多城爆发抗议，部分地区演变成打砸冲突：为什么欧洲年轻人越来越愤怒？",
+ "category": "美国彭博社外刊讲解 第1217天",
+ "source_label": "Bloomberg",
+ "read_minutes": 18,
+ "nav_hint": "German protests turn violent across 30+ cities",
+ "headline_en": "German Protests Turn Violent as Activists Clash With Police",
+ "headline_zh": "德国抗议演变为暴力，激进分子与警方正面相撞。",
+ "sources_note": "本文选自 Bloomberg 报道，由《早安英文》讲解。",
+ "practice_intro": "请将以下中文句子翻译为英文（参考答案见后）。",
+ "critical_en": "",
+ "critical_zh": "",
+ "mindmap": {
+  "template": "scripts/content/2026-11-02.json",
+  "aria": "欧洲青年之怒思维导图",
+  "alt": "欧洲青年之怒（手绘版）",
+  "repl": []
+ },
+ "marks": {
+  "1": [
+   [
+    "mass",
+    "Mass"
+   ],
+   [
+    "demonstration",
+    "demonstrations"
+   ],
+   [
+    "erupt",
+    "erupted"
+   ],
+   [
+    "rioter",
+    "rioters"
+   ],
+   [
+    "face off against",
+    "faced off against"
+   ]
+  ],
+  "2": [
+   [
+    "block off",
+    "blocked off"
+   ],
+   [
+    "smash",
+    "smashed"
+   ],
+   [
+    "make off with",
+    "made off with"
+   ],
+   [
+    "streetwear",
+    "streetwear"
+   ],
+   [
+    "suspected of",
+    "suspected of"
+   ],
+   [
+    "break into",
+    "breaking into"
+   ],
+   [
+    "retrieve",
+    "retrieved"
+   ],
+   [
+    "water cannon",
+    "water cannons"
+   ],
+   [
+    "Molotov cocktail",
+    "Molotov cocktails"
+   ],
+   [
+    "set off",
+    "set off"
+   ]
+  ],
+  "3": [
+   [
+    "embankment",
+    "embankment"
+   ],
+   [
+    "weave one's way through",
+    "weaving their way through"
+   ],
+   [
+    "diverse",
+    "diverse"
+   ],
+   [
+    "hammer and sickle",
+    "hammer and sickle"
+   ],
+   [
+    "rainbow flag",
+    "rainbow flags"
+   ],
+   [
+    "selfie magnet",
+    "selfie magnet"
+   ],
+   [
+    "read",
+    "read"
+   ],
+   [
+    "Eat the rich",
+    "Eat the rich"
+   ]
+  ],
+  "4": [
+   [
+    "loosely translated as",
+    "loosely translated as"
+   ],
+   [
+    "in the run-up to",
+    "in the run-up to"
+   ],
+   [
+    "fall short of",
+    "fell short of"
+   ],
+   [
+    "call on",
+    "calling on"
+   ]
+  ],
+  "5": [
+   [
+    "a repeat of",
+    "a repeat of"
+   ],
+   [
+    "sweep through",
+    "swept through"
+   ],
+   [
+    "blockade",
+    "blockades"
+   ],
+   [
+    "morph into",
+    "morphed into"
+   ],
+   [
+    "descend into",
+    "descended into"
+   ],
+   [
+    "arson",
+    "arson"
+   ],
+   [
+    "infiltrate",
+    "infiltrate"
+   ]
+  ],
+  "7": [
+   [
+    "unrest",
+    "unrest"
+   ],
+   [
+    "embolden",
+    "emboldened"
+   ],
+   [
+    "masked",
+    "masked"
+   ],
+   [
+    "unauthorized",
+    "unauthorized"
+   ],
+   [
+    "erect barricades",
+    "erected barricades"
+   ],
+   [
+    "set ... alight",
+    "set alight"
+   ],
+   [
+    "disperse",
+    "disperse"
+   ]
+  ],
+  "9": [
+   [
+    "roll out",
+    "rolled out"
+   ],
+   [
+    "stem",
+    "stemming"
+   ],
+   [
+    "a series of",
+    "a series of"
+   ],
+   [
+    "a fresh protest wave",
+    "a fresh protest wave"
+   ],
+   [
+    "on a lesser scale",
+    "on a lesser scale"
+   ],
+   [
+    "deploy",
+    "deployed"
+   ]
+  ]
+ }
+}
