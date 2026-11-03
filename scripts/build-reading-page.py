@@ -108,6 +108,12 @@ def main():
     image_attr = "" if img_b64 else ' style="display:none"'
     vector_active = "" if img_b64 else " active"
     image_active = " active" if img_b64 else ""
+    # 手绘图点击放大浮层（仅在有手绘图时需要）；片段与 inject-mm-lightbox.py 共用
+    lb = ""
+    if img_b64:
+        lb_path = os.path.join(REPO, "scripts/assets/mm-lightbox.html")
+        if os.path.exists(lb_path):
+            lb = open(lb_path, encoding="utf-8").read()
     mm_head = f'''<section class="mindmap" id="mindmap">
       <div class="mm-switch">
         <button class="mm-btn" id="mm-all-btn" onclick="toggleAllMindmap()">全部收起</button>
@@ -121,6 +127,7 @@ def main():
         <img src="data:image/jpeg;base64,{img_b64}" alt="{mm.get("alt","手绘版思维导图")}">
       </div>
     </section>
+{lb}
 
     '''
     m = re.search(r'<section class="mindmap" id="mindmap">', s)

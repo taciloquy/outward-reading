@@ -1,0 +1,84 @@
+<style id="mm-lb-css">
+/* 手绘导图点击放大：手机上手绘图缩到 ~340px 时字太小，点一下按原分辨率看 */
+#mm-image img{cursor:zoom-in}
+#mm-lb{position:fixed;inset:0;z-index:9999;background:rgba(22,20,17,.95);
+  display:none;overflow:auto;-webkit-overflow-scrolling:touch;overscroll-behavior:contain}
+#mm-lb.on{display:block}
+#mm-lb img{display:block;width:auto;max-width:none;height:auto;margin:10px auto;
+  cursor:zoom-out;user-select:none;-webkit-user-drag:none}
+#mm-lb .lb-x{position:fixed;top:10px;right:10px;width:40px;height:40px;padding:0;
+  border:none;border-radius:50%;background:rgba(255,255,255,.94);color:#333;
+  font:400 19px/40px -apple-system,sans-serif;text-align:center;cursor:pointer;
+  z-index:10000;box-shadow:0 2px 10px rgba(0,0,0,.35)}
+#mm-lb .lb-tip{position:fixed;bottom:14px;left:50%;transform:translateX(-50%);
+  padding:6px 14px;border-radius:14px;background:rgba(0,0,0,.55);color:#fff;
+  font:400 12.5px/1.4 -apple-system,"PingFang SC",sans-serif;
+  white-space:nowrap;z-index:10000;pointer-events:none;opacity:.9;
+  transition:opacity .45s}
+#mm-lb .lb-tip.fade{opacity:0}
+body.lb-lock{overflow:hidden}
+@media print{#mm-lb{display:none!important}#mm-image img{cursor:auto}}
+</style>
+<div id="mm-lb" aria-hidden="true">
+  <img alt="" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==">
+  <button class="lb-x" type="button" aria-label="关闭">&#10005;</button>
+  <div class="lb-tip">点图或空白处关闭 · 可拖动查看细节</div>
+</div>
+<script id="mm-lb-js">
+(function(){
+  var lb = document.getElementById('mm-lb');
+  if(!lb) return;
+  var big = lb.querySelector('img');
+  var moved = false, sx = 0, sy = 0;
+
+  function open(src){
+    big.src = src;
+    lb.classList.add('on');
+    lb.setAttribute('aria-hidden','false');
+    document.body.classList.add('lb-lock');
+    lb.scrollTop = 0; lb.scrollLeft = 0;
+    /* 提示 2.5 秒后淡出，不长期挡图 */
+    var tip = lb.querySelector('.lb-tip');
+    if(tip){
+      tip.classList.remove('fade');
+      clearTimeout(tip._t);
+      tip._t = setTimeout(function(){ tip.classList.add('fade'); }, 2500);
+    }
+  }
+  function close(){
+    lb.classList.remove('on');
+    lb.setAttribute('aria-hidden','true');
+    document.body.classList.remove('lb-lock');
+  }
+  window.openMmLightbox = open;
+  window.closeMmLightbox = close;
+
+  /* 手绘图：点击放大（运行时绑定，老页面无需改 img 标签） */
+  function bind(){
+    var im = document.querySelector('#mm-image img');
+    if(!im || im.dataset.lbBound) return;
+    im.dataset.lbBound = '1';
+    im.addEventListener('click', function(){ open(im.src); });
+  }
+  if(document.readyState === 'loading') document.addEventListener('DOMContentLoaded', bind);
+  else bind();
+
+  /* 关闭：×、空白处、图片本身（拖动过查看细节就不关）、Esc */
+  lb.addEventListener('click', function(e){
+    if(e.target.closest('.lb-x')) return close();
+    if(e.target === lb) return close();
+    if(e.target === big && !moved) return close();
+  });
+  lb.addEventListener('touchstart', function(e){
+    moved = false;
+    sx = e.touches[0].clientX; sy = e.touches[0].clientY;
+  }, {passive:true});
+  lb.addEventListener('touchmove', function(e){
+    if(Math.abs(e.touches[0].clientX - sx) > 8 ||
+       Math.abs(e.touches[0].clientY - sy) > 8) moved = true;
+  }, {passive:true});
+  document.addEventListener('keydown', function(e){
+    if(e.key === 'Escape' && lb.classList.contains('on')) close();
+  });
+})();
+</script>
