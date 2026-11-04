@@ -1,0 +1,31 @@
+{
+  "outline": "scripts/content/outlines/2026-11-05.json",
+  "outline_mtime": 1793778482.068962,
+  "checked_at": "2026-11-04 15:58:13",
+  "user_confirmed": true,
+  "center": "徒步28载",
+  "branches": [
+    {
+      "title": "壮举本身",
+      "subs": 3,
+      "relation": null
+    },
+    {
+      "title": "英雄归乡",
+      "subs": 4,
+      "relation": "铸成"
+    },
+    {
+      "title": "意义升华",
+      "subs": 3,
+      "relation": "升华"
+    }
+  ],
+  "branch_count": 3,
+  "subs_counts": [
+    3,
+    4,
+    3
+  ],
+  "warns": []
+}
