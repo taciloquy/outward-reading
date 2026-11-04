@@ -1,0 +1,156 @@
+{
+  "date": "2026-11-04",
+  "h1": "美国中期选举进入最后24小时：经济明明还不错，为什么选民还是这么不满？",
+  "category": "英国路透社外刊讲解 第1218天",
+  "source_label": "Reuters",
+  "read_minutes": 18,
+  "nav_hint": "US voters in a sour economic mood ahead of midterms",
+  "headline_en": "US voters in a sour economic mood heading into midterm elections",
+  "headline_zh": "美国选民带着对经济的不满情绪迎接中期选举。",
+  "sources_note": "本文选自 Reuters（路透社）报道，由《早安英文》讲解。",
+  "practice_intro": "请根据今天学习的外刊，用自己的英语简要复述美国中期选举前的经济状况，以及美国选民对经济不满的原因。要求：至少使用下方提示词中的6个，可以适当改变词形。尽量使用自己的语言，不要直接照抄原文。",
+  "critical_en": "Why might voters feel unhappy about the economy even when economic indicators such as employment and GDP growth remain strong?",
+  "critical_zh": "为什么即使就业和GDP增长等经济指标表现强劲，选民仍然可能对经济状况感到不满？",
+  "mindmap": {
+    "template": "scripts/content/2026-11-03.json",
+    "aria": "经济情绪悖论思维导图",
+    "alt": "经济情绪悖论（手绘版）",
+    "repl": []
+  },
+  "marks": {
+    "1": [
+      [
+        "on the eve of",
+        "On the eve of"
+      ],
+      [
+        "keep control of",
+        "keeps control of"
+      ],
+      [
+        "nagging",
+        "nagging"
+      ],
+      [
+        "blame sth. on sb./sth.",
+        "blaming his policies"
+      ]
+    ],
+    "2": [
+      [
+        "on the upside",
+        "On the upside"
+      ],
+      [
+        "solid",
+        "solid"
+      ],
+      [
+        "boom",
+        "boom"
+      ],
+      [
+        "drive up",
+        "driving up"
+      ],
+      [
+        "pad",
+        "padding"
+      ]
+    ],
+    "4": [
+      [
+        "deteriorate",
+        "deteriorated"
+      ],
+      [
+        "nuance",
+        "nuances"
+      ],
+      [
+        "perk up",
+        "perked up"
+      ],
+      [
+        "register",
+        "registered"
+      ],
+      [
+        "sentiment",
+        "sentiment"
+      ],
+      [
+        "macroeconomy",
+        "macroeconomy"
+      ],
+      [
+        "affordable",
+        "affordable"
+      ],
+      [
+        "driver",
+        "driver"
+      ]
+    ],
+    "5": [
+      [
+        "derive from",
+        "derives from"
+      ],
+      [
+        "labor market",
+        "labor market"
+      ],
+      [
+        "mass layoff",
+        "mass layoffs"
+      ],
+      [
+        "unemployment insurance claim",
+        "unemployment insurance claims"
+      ],
+      [
+        "stretch",
+        "stretch"
+      ],
+      [
+        "on record",
+        "on record"
+      ]
+    ],
+    "8": [
+      [
+        "paycheck",
+        "paychecks"
+      ],
+      [
+        "cover",
+        "cover"
+      ],
+      [
+        "launch",
+        "launched"
+      ],
+      [
+        "acceleration",
+        "acceleration"
+      ],
+      [
+        "average hourly earnings",
+        "average hourly earnings"
+      ],
+      [
+        "the upshot",
+        "The upshot"
+      ],
+      [
+        "purchasing power",
+        "purchasing-power"
+      ],
+      [
+        "no worse off, but also no better off",
+        "no worse off, but also no better off"
+      ]
+    ]
+  }
+}

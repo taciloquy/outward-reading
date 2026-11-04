@@ -27,12 +27,23 @@ from collections import Counter
 CJK = re.compile(r'[\u4e00-\u9fff]')
 
 
+RADICAL_MAP = {
+    # U+2E80–U+2EFF 这一段没有 NFKC 映射，必须手写（pymupdf 抽简体字时常见）
+    '\u2ea0': '民', '\u2ed3': '长', '\u2ecb': '车', '\u2edb': '风', '\u2ee2': '马',
+    '\u2ed4': '门', '\u2edd': '食', '\u2edc': '飞', '\u2ec6': '角', '\u2eee': '齿',
+    '\u2ebf': '言', '\u2ea2': '月', '\u2eb9': '高', '\u2ec2': '页',
+}
+
+
 def fix_radicals(t: str) -> str:
-    """康熙部首码位（U+2E80–U+2FDF）→ 常用汉字。"""
+    """康熙部首 / CJK 部首码位（U+2E80–U+2FDF）→ 常用汉字。"""
     out = []
     for ch in t:
         o = ord(ch)
-        if 0x2E80 <= o <= 0x2FDF:
+        if o in (0x2EA0, 0x2ED3, 0x2ECB, 0x2EDB, 0x2EE2, 0x2ED4, 0x2EDD,
+                 0x2EDC, 0x2EC6, 0x2EEE, 0x2EBF, 0x2EA2, 0x2EB9, 0x2EC2):
+            out.append(RADICAL_MAP[ch])
+        elif 0x2E80 <= o <= 0x2FDF:
             n = unicodedata.normalize('NFKC', ch)
             out.append(n if len(n) == 1 and '\u4e00' <= n <= '\u9fff' else ch)
         else:

@@ -1,75 +1,860 @@
 {
-  "date": "2026-11-04",
-  "title_tag": "美国中期选举进入最后24小时：经济明明还不错，为什么选民还是这么不满？—— 美国彭博社外刊讲解第1218天",
-  "h1": "美国中期选举进入最后24小时：经济明明还不错，为什么选民还是这么不满？",
-  "source_label": "Bloomberg",
-  "category": "美国彭博社外刊讲解 第1218天",
-  "read_minutes": 12,
-  "nav_hint": "US voters sour on economy before midterms",
-  "headline": {
-    "en_html": "US voters in a sour economic mood heading into midterm elections",
-    "zh": "",
-    "notes": []
-  },
-  "paragraphs": [
+ "date": "2026-11-04",
+ "title_tag": "美国中期选举进入最后24小时：经济明明还不错，为什么选民还是这么不满？—— 英国路透社外刊讲解第1218天",
+ "h1": "美国中期选举进入最后24小时：经济明明还不错，为什么选民还是这么不满？",
+ "source_label": "Reuters",
+ "category": "英国路透社外刊讲解 第1218天",
+ "read_minutes": 18,
+ "nav_hint": "US voters in a sour economic mood ahead of midterms",
+ "headline": {
+  "en_html": "US voters in a <mark class=\"voc\">sour</mark> economic mood heading into <mark class=\"voc\">midterm elections</mark>",
+  "zh": "美国选民带着对经济的不满情绪迎接中期选举。",
+  "notes": [
+   {
+    "w": "sour",
+    "ipa": "/ˈsaʊər/",
+    "pos": "adj.",
+    "en": "unpleasant, unfriendly, or expressing dissatisfaction",
+    "zh": "不愉快的；不满的；酸的",
+    "ctx": "形容美国选民对经济状况感到不满、悲观",
+    "ex1": "Public opinion turned sour after the government announced another tax increase. 政府宣布再次加税后，公众情绪变得消极。",
+    "ex2": "The meeting ended on a sour note when the two sides failed to reach an agreement. 双方未能达成协议，会议最终不欢而散。"
+   },
+   {
+    "w": "midterm election",
+    "ipa": "/ˈmɪdtɜːrm ɪˈlekʃən/",
+    "pos": "n.",
+    "en": "an election held in the middle of a president's term of office",
+    "zh": "中期选举",
+    "ctx": "美国总统四年任期中间举行的国会等选举",
+    "ex1": "The president's party lost several seats in the midterm elections. 总统所属政党在中期选举中失去了几个席位。",
+    "ex2": "Economic concerns often influence voters during midterm elections. 经济问题常常影响中期选举期间的选民。"
+   }
+  ]
+ },
+ "paragraphs": [
+  {
+   "en_html": "<mark class=\"voc\">On the eve of</mark> elections that will decide whether President Donald Trump's Republican Party <mark class=\"voc\">keeps control of</mark> Congress, voters' minds are on the economy, with high and rising prices a key issue and many blaming his policies, specifically tariffs and the Iran war, for the <mark class=\"voc\">nagging</mark><mark class=\"voc\">blaming his policies</mark>, specifically tariffs and the Iran war, for the nagging inflation. In short, Americans are in a sour mood.",
+   "zh": "在即将举行的选举前夕，选民们最关心的是经济问题。这场选举将决定唐纳德·特朗普总统领导的共和党能否继续掌控国会。物价居高不下且持续上涨是一个关键问题，许多人将挥之不去的通货膨胀归咎于特朗普的政策，尤其是关税政策和伊朗战争。简而言之，美国民众正普遍感到不满。",
+   "notes": [
     {
-      "en_html": "On the eve of elections that will decide whether President Donald Trump's Republican Party keeps control of Congress, voters' minds are on the economy, with high and rising prices a key issue and many blaming his policies, specifically tariffs and the Iran war, for the nagging inflation. In short, Americans are in a sour mood.",
-      "zh": "",
-      "notes": []
+     "w": "on the eve of",
+     "ipa": "/ɒn ði ˈiːv əv/",
+     "pos": "phr.",
+     "en": "immediately before an important event or occasion",
+     "zh": "在……前夕；在……即将发生之际",
+     "ctx": "在美国中期选举即将举行之际",
+     "ex1": "On the eve of the summit, the two leaders held a private meeting. 峰会前夕，两位领导人举行了一次私人会晤。",
+     "ex2": "The company announced major changes on the eve of its anniversary. 公司在周年纪念日前夕宣布了重大变革。"
     },
     {
-      "en_html": "The numbers, however, tell a more complex story. On the upside, the unemployment rate remains historically low, more people than ever are employed, overall economic growth is solid and the artificial intelligence investment boom has — until recently — been driving up the stock market, padding retirement accounts for millions.",
-      "zh": "",
-      "notes": []
+     "w": "keep control of",
+     "ipa": "/kiːp kənˈtroʊl əv/",
+     "pos": "phr.",
+     "en": "to continue having the power to direct or govern something",
+     "zh": "继续控制；保持对……的掌控",
+     "ctx": "共和党继续掌控美国国会",
+     "ex1": "The ruling party is struggling to keep control of parliament. 执政党正努力维持对议会的控制。",
+     "ex2": "The founder wanted to keep control of the company after the merger. 创始人希望在合并后继续掌控公司。"
     },
     {
-      "en_html": "Countering that momentum, of course, is inflation. Though not nearly as high as just a few years ago, it is elevated and ever-present enough that people feel the pinch whenever they fill their gas tanks, pay a utility bill or order a meal.",
-      "zh": "",
-      "notes": []
+     "w": "nagging",
+     "ipa": "/ˈnæɡɪŋ/",
+     "pos": "adj.",
+     "en": "continuing for a long time and causing worry or annoyance",
+     "zh": "持续困扰的；挥之不去的；令人烦恼的",
+     "ctx": "持续困扰美国民众的通货膨胀问题",
+     "ex1": "She had a nagging feeling that something important had been overlooked. 她总有一种挥之不去的感觉，觉得有什么重要的事情被忽略了。",
+     "ex2": "Rising rents remain a nagging problem for young workers. 不断上涨的房租仍然是困扰年轻劳动者的一个问题。"
     },
     {
-      "en_html": "Trump is not on the ballot on November 3, but voters have his economic record in mind as they head to the polls. And the vibe is skeptical, if not downright grumpy.",
-      "zh": "",
-      "notes": []
-    },
-    {
-      "en_html": "Consumer surveys show the mood has generally deteriorated since Trump's second term began in January 2025, though there are nuances: One widely tracked measure of confidence published by the Conference Board perked up in October, while the University of Michigan's consumer sentiment index registered a near-record low. Brian Jacobsen, chief economic strategist at Annex Wealth Management, said the confidence index tracks the macroeconomy, while the sentiment index is \"more personal,\" asking people how they are doing financially and how affordable they find their lives to be. \"Sentiment is the bigger driver of election outcomes, but confidence is the bigger driver of markets,\" he said.",
-      "zh": "",
-      "notes": []
-    },
-    {
-      "en_html": "One argument for macroeconomic confidence derives from the labor market. Firms may not be hiring much, and new graduates are having a hard time finding jobs, but companies are not conducting mass layoffs either. Weekly unemployment insurance claims are near a 57-year low. The unemployment rate, at 4.2% in September, has measured no higher than 4.5% for five straight years — the longest stretch on record.",
-      "zh": "",
-      "notes": []
-    },
-    {
-      "en_html": "There is also the updraft from stock market gains to consider. The main US equity indexes have notched dozens of record highs this year, as Trump frequently reminds attendees at his rallies. Most Americans hold some stock, though higher-income households have disproportionately more. Outlays by higher-income households, buoyed by the rising value of their stock holdings, have helped underpin consumer spending, which has been a strong driver of economic growth. Data last week showed the US economy grew at a 3.4% annualized pace last quarter, its strongest performance this year. AI-related demand is fueling many of the gains in the stock market and in the real economy, and business investment rose at an annualized 12.7% pace last quarter.",
-      "zh": "",
-      "notes": []
-    },
-    {
-      "en_html": "Still, some economists warn of potential fragility — and cracks may be starting to appear. As the midterm elections neared, a wave of corporate earnings results from the likes of Amazon.com (AMZN.O) and Intel (INTC.O) added to growing worries about the sustainability of the AI spending boom, sending indexes such as the Nasdaq Composite sharply lower. \"A sharp reset in AI expectations could undermine corporate confidence, trigger a pullback in capex (capital expenditure) and weigh on GDP growth, just as higher oil prices, tariffs and tighter immigration restrictions push inflation higher, raising the risk of a stagflationary environment in which growth slows even as price pressures persist,\" Torsten Slok, chief economist at Apollo Global Management, wrote in a mid-October note.",
-      "zh": "",
-      "notes": []
-    },
-    {
-      "en_html": "For much of Trump's second term in the White House, wages were growing faster than prices, meaning that workers could expect their paychecks to cover as much or more of the same goods and services as before. That situation changed earlier this year after the US and Israel launched attacks on Iran in what has become an eight-month war that has lifted fuel prices globally and contributed to price acceleration more broadly. Demand for AI is also adding to inflation, Fed policymakers and economists say. Wage growth is also slowing. Consumer prices and average hourly earnings have both risen about 5.5% since January 2025, data from the US Bureau of Labor Statistics shows. The upshot: from a purchasing-power perspective, workers are no worse off, but also no better off, than when Trump came into office in January 2025.",
-      "zh": "",
-      "notes": []
-    },
-    {
-      "en_html": "The US central bank raised its policy rate in September and is expected to increase borrowing costs again in December, delivering what Fed Chairman Kevin Warsh calls \"monetary medicine\" to bring down inflation without, he says, the need \"to throw sand in the gears of the economy and throw people out of work.\" Longer-term borrowing costs have also risen, adding to the affordability woes that voters have cited as weighing on them. The combination of 30-year mortgage rates that have topped 7% and a shortage of housing supply that has driven up home prices has conspired to put home purchases out of reach for many people.",
-      "zh": "",
-      "notes": []
+     "w": "blame sth. on sb./sth.",
+     "ipa": "/bleɪm ɒn/",
+     "pos": "phr.",
+     "en": "to say that someone or something is responsible for a bad situation",
+     "zh": "把某事归咎于某人或某事",
+     "ctx": "将持续的通胀归咎于特朗普的政策",
+     "ex1": "Many residents blamed the water shortage on poor planning. 许多居民将缺水归咎于规划不当。",
+     "ex2": "The manager refused to blame the team's failure on one employee. 经理拒绝将团队的失败归咎于某一名员工。"
     }
-  ],
-  "proper": [],
-  "sources_note": "本文选自 Bloomberg 报道，由《早安英文》讲解。",
-  "practice": {},
-  "mindmap": {
-    "svg": "<svg viewBox=\"0 0 960 446\" xmlns=\"http://www.w3.org/2000/svg\" role=\"img\" aria-label=\"美国中期选举经济情绪悖论思维导图\" style=\"width:100%;height:auto;font-family:-apple-system,'PingFang SC','Hiragino Sans GB','Microsoft YaHei',sans-serif\">\n<rect x=\"24\" y=\"179\" width=\"176\" height=\"88\" rx=\"14\" fill=\"#eae3d2\" stroke=\"#9a8f76\"/>\n<text x=\"112\" y=\"215\" text-anchor=\"middle\" fill=\"#3d3a34\" font-size=\"17\" font-weight=\"700\">经济情绪悖论</text>\n<text x=\"112\" y=\"241\" text-anchor=\"middle\" fill=\"#5c5648\" font-size=\"12.5\">数据向好 · 选民不满</text>\n<path d=\"M200,223 C232,223 232,88 260,88\" stroke=\"#6b8f71\" stroke-width=\"2\" fill=\"none\"/>\n<path d=\"M200,223 C232,223 232,223 260,223\" stroke=\"#7d98ad\" stroke-width=\"2\" fill=\"none\"/>\n<path d=\"M200,223 C232,223 232,358 260,358\" stroke=\"#bd7a6d\" stroke-width=\"2\" fill=\"none\"/>\n<g class=\"mm-branch\" data-target=\"bc1\">\n<rect x=\"260\" y=\"71\" width=\"190\" height=\"34\" rx=\"8\" fill=\"#e6efe7\" stroke=\"#6b8f71\"/>\n<text x=\"355\" y=\"93\" text-anchor=\"middle\" fill=\"#4c6b52\" font-size=\"15\" font-weight=\"700\">选民的怨气（¶1,3–4）</text>\n<text class=\"mm-arrow\" data-for=\"bc1\" x=\"442\" y=\"93\" text-anchor=\"end\" fill=\"#4c6b52\">▾</text>\n</g>\n<g class=\"mm-children\" id=\"bc1\">\n<path d=\"M450,88 C462,88 462,46 480,46\" stroke=\"#6b8f71\" stroke-width=\"1.5\" fill=\"none\"/>\n<path d=\"M450,88 C462,88 462,88 480,88\" stroke=\"#6b8f71\" stroke-width=\"1.5\" fill=\"none\"/>\n<path d=\"M450,88 C462,88 462,130 480,130\" stroke=\"#6b8f71\" stroke-width=\"1.5\" fill=\"none\"/>\n<rect x=\"480\" y=\"30\" width=\"456\" height=\"32\" rx=\"8\" fill=\"#e6efe7\"/><text x=\"492\" y=\"51\" fill=\"#3d3a34\" font-size=\"14\">物价高企，加油/缴费/吃饭都觉贵</text>\n<rect x=\"480\" y=\"72\" width=\"456\" height=\"32\" rx=\"8\" fill=\"#e6efe7\"/><text x=\"492\" y=\"93\" fill=\"#3d3a34\" font-size=\"14\">归咎关税+伊朗战争推高通胀</text>\n<rect x=\"480\" y=\"114\" width=\"456\" height=\"32\" rx=\"8\" fill=\"#e6efe7\"/><text x=\"492\" y=\"135\" fill=\"#3d3a34\" font-size=\"14\">11/3 投票盯经济账，情绪悲观</text>\n</g>\n<g class=\"mm-branch\" data-target=\"bc2\">\n<rect x=\"260\" y=\"206\" width=\"190\" height=\"34\" rx=\"8\" fill=\"#e5edf4\" stroke=\"#7d98ad\"/>\n<text x=\"355\" y=\"228\" text-anchor=\"middle\" fill=\"#3d5872\" font-size=\"15\" font-weight=\"700\">数据的底气（¶2,6–7）</text>\n<text class=\"mm-arrow\" data-for=\"bc2\" x=\"442\" y=\"228\" text-anchor=\"end\" fill=\"#3d5872\">▾</text>\n</g>\n<g class=\"mm-children\" id=\"bc2\">\n<path d=\"M450,223 C462,223 462,202 480,202\" stroke=\"#7d98ad\" stroke-width=\"1.5\" fill=\"none\"/>\n<path d=\"M450,223 C462,223 462,244 480,244\" stroke=\"#7d98ad\" stroke-width=\"1.5\" fill=\"none\"/>\n<rect x=\"480\" y=\"186\" width=\"456\" height=\"32\" rx=\"8\" fill=\"#e5edf4\"/><text x=\"492\" y=\"207\" fill=\"#3d3a34\" font-size=\"14\">失业率4.2%，五年≤4.5%史上最长</text>\n<rect x=\"480\" y=\"228\" width=\"456\" height=\"32\" rx=\"8\" fill=\"#e5edf4\"/><text x=\"492\" y=\"249\" fill=\"#3d3a34\" font-size=\"14\">股市新高、GDP+3.4%、AI投资热</text>\n</g>\n<g class=\"mm-branch\" data-target=\"bc3\">\n<rect x=\"260\" y=\"341\" width=\"190\" height=\"34\" rx=\"8\" fill=\"#f4e7e4\" stroke=\"#bd7a6d\"/>\n<text x=\"355\" y=\"363\" text-anchor=\"middle\" fill=\"#7c4a3e\" font-size=\"15\" font-weight=\"700\">感觉为何骗人（¶5,8–10）</text>\n<text class=\"mm-arrow\" data-for=\"bc3\" x=\"442\" y=\"363\" text-anchor=\"end\" fill=\"#7c4a3e\">▾</text>\n</g>\n<g class=\"mm-children\" id=\"bc3\">\n<path d=\"M450,358 C462,358 462,316 480,316\" stroke=\"#bd7a6d\" stroke-width=\"1.5\" fill=\"none\"/>\n<path d=\"M450,358 C462,358 462,358 480,358\" stroke=\"#bd7a6d\" stroke-width=\"1.5\" fill=\"none\"/>\n<path d=\"M450,358 C462,358 462,400 480,400\" stroke=\"#bd7a6d\" stroke-width=\"1.5\" fill=\"none\"/>\n<rect x=\"480\" y=\"300\" width=\"456\" height=\"32\" rx=\"8\" fill=\"#f4e7e4\"/><text x=\"492\" y=\"321\" fill=\"#3d3a34\" font-size=\"14\">购买力原地踏步：工资≈物价、房贷超7%</text>\n<rect x=\"480\" y=\"342\" width=\"456\" height=\"32\" rx=\"8\" fill=\"#f4e7e4\"/><text x=\"492\" y=\"363\" fill=\"#3d3a34\" font-size=\"14\">情绪(个人)比信心(宏观)更定选举</text>\n<rect x=\"480\" y=\"384\" width=\"456\" height=\"32\" rx=\"8\" fill=\"#f4e7e4\"/><text x=\"492\" y=\"405\" fill=\"#3d3a34\" font-size=\"14\">隐患：AI支出潮裂缝、滞胀风险</text>\n</g>\n<text x=\"486\" y=\"170\" fill=\"#8a8578\" font-size=\"11.5\">↓ 对比</text>\n<text x=\"486\" y=\"284\" fill=\"#8a8578\" font-size=\"11.5\">↓ 解释</text>\n</svg>",
-    "img": "/Users/malen/.workbuddy/backups/handmap/2026-11-04_经济情绪悖论_手绘3枝.jpg",
-    "alt": "思维导图（3 枝·现象/反证/解释）：中心“经济情绪悖论·数据向好、选民不满”；①“选民的怨气”（¶1,3–4）：物价高企、归咎关税+伊朗战争、投票盯经济账；②“数据的底气”（¶2,6–7，对比）：失业率4.2%五年最长低位、股市新高+GDP+3.4%+AI投资热；③“感觉为何骗人”（¶5,8–10，解释）：购买力原地踏步（工资≈物价、房贷超7%）、情绪比信心更定选举、AI裂缝与滞胀隐患。",
-    "aria": "美国中期选举经济情绪悖论思维导图"
+   ]
+  },
+  {
+   "en_html": "The numbers, however, tell a more complex story. <mark class=\"voc\">On the upside</mark>, the unemployment rate remains historically low, more people than ever are employed, overall economic growth is <mark class=\"voc\">solid</mark> and the artificial intelligence investment <mark class=\"voc\">boom</mark> has — until recently — been <mark class=\"voc\">driving up</mark> the stock market, <mark class=\"voc\">padding</mark> retirement accounts for millions.",
+   "zh": "然而，经济数据却呈现出一幅更为复杂的图景。从积极的一面来看，失业率仍处于历史低位，就业人数比以往任何时候都多，整体经济增长稳健，而人工智能投资热潮直到最近还一直在推动股市上涨，让数百万人的退休账户资产增值。",
+   "notes": [
+    {
+     "w": "on the upside",
+     "ipa": "/ɒn ði ˈʌpsaɪd/",
+     "pos": "phr.",
+     "en": "used to introduce the positive or advantageous aspects of a situation",
+     "zh": "从积极的一面来看；好的一面是",
+     "ctx": "引出美国经济表现中积极的一面，与民众悲观的经济情绪形成对比",
+     "ex1": "On the upside, working from home saves me two hours of commuting every day. 好的一面是，居家办公让我每天节省两个小时的通勤时间。",
+     "ex2": "The project is behind schedule, but on the upside, we have managed to stay within budget. 项目进度落后了，但好的一面是，我们成功将支出控制在预算之内。"
+    },
+    {
+     "w": "solid",
+     "ipa": "/ˈsɒlɪd/",
+     "pos": "adj.",
+     "en": "strong, reliable, and showing steady progress or performance",
+     "zh": "稳健的；可靠的；表现良好的",
+     "ctx": "形容美国整体经济增长稳健，表现良好",
+     "ex1": "Despite rising costs, the company reported solid profits in the first quarter. 尽管成本上涨，公司第一季度仍实现了稳健的利润。",
+     "ex2": "She has built a solid reputation through years of hard work. 经过多年的努力，她建立了良好的声誉。"
+    },
+    {
+     "w": "boom",
+     "ipa": "/buːm/",
+     "pos": "n.",
+     "en": "a period of sudden and rapid growth in business, economic activity, or interest",
+     "zh": "繁荣；迅猛发展；热潮",
+     "ctx": "指人工智能领域投资规模迅速扩大的热潮",
+     "ex1": "The city experienced a construction boom after the new airport opened. 新机场投入使用后，这座城市迎来了一波建筑热潮。",
+     "ex2": "The popularity of online shopping has created a boom in delivery services. 网上购物的普及推动了快递服务行业的迅猛发展。"
+    },
+    {
+     "w": "drive up",
+     "ipa": "/draɪv ʌp/",
+     "pos": "phr.",
+     "en": "to cause the price, value, or level of something to increase",
+     "zh": "推高；促使……上涨",
+     "ctx": "人工智能投资热潮推动美国股市上涨",
+     "ex1": "Strong demand for electric vehicles has driven up the price of lithium. 电动汽车的强劲需求推高了锂的价格。",
+     "ex2": "A shortage of skilled workers could drive up labor costs. 技术工人短缺可能会推高劳动力成本。"
+    },
+    {
+     "w": "pad",
+     "ipa": "/pæd/",
+     "pos": "v.",
+     "en": "to increase an amount or value, especially by adding something extra",
+     "zh": "增加；充实；使更加丰厚",
+     "ctx": "指股市上涨使数百万美国人的退休账户资产增值",
+     "ex1": "She took on a part-time job to pad her savings before moving abroad. 为了在出国前增加积蓄，她找了一份兼职工作。",
+     "ex2": "The unexpected bonus helped pad his retirement fund. 这笔意外奖金让他的退休基金更加充裕。"
+    }
+   ]
+  },
+  {
+   "en_html": "Countering that <mark class=\"voc\">momentum</mark>, of course, is inflation. Though not nearly as high as just a few years ago, it is <mark class=\"voc\">elevated</mark> and <mark class=\"voc\">ever-present</mark> enough that people <mark class=\"voc\">feel the pinch</mark> whenever they fill their gas tanks, pay a utility bill or order a meal. Trump is not <mark class=\"voc\">on the ballot</mark> on November 3, but voters have his economic record in mind as they <mark class=\"voc\">head to the polls</mark>. And the vibe is <mark class=\"voc\">skeptical</mark>, if not <mark class=\"voc\">downright</mark> <mark class=\"voc\">grumpy</mark>.",
+   "zh": "当然，与这种经济增长势头形成对抗的，是通货膨胀。尽管通胀水平远没有几年前那么高，但它仍然居高不下，而且无处不在，以至于人们每次给汽车加油、支付水电燃气账单，或者点餐时，都能切身感受到经济压力。11月3日的选票上虽然没有特朗普的名字，但选民们在前往投票站时，心里仍然惦记着他的经济政绩。而整个社会的情绪，即便谈不上彻底恼火，至少也是充满怀疑的。",
+   "notes": [
+    {
+     "w": "momentum",
+     "ipa": "/məˈmentəm/",
+     "pos": "n.",
+     "en": "the force or energy that keeps a process or activity developing or moving forward",
+     "zh": "势头；动力；发展动能",
+     "ctx": "指前文提到的美国经济增长、就业稳定和股市上涨所形成的积极势头",
+     "ex1": "The campaign gained momentum after the candidate's impressive television debate. 这位候选人在电视辩论中表现出色后，竞选活动的势头越来越强。",
+     "ex2": "The company is struggling to maintain its growth momentum in a competitive market. 在竞争激烈的市场中，这家公司正努力保持增长势头。"
+    },
+    {
+     "w": "elevated",
+     "ipa": "/ˈelɪveɪtɪd/",
+     "pos": "adj.",
+     "en": "higher than the normal or expected level",
+     "zh": "偏高的；高于正常水平的",
+     "ctx": "形容美国通货膨胀率虽然有所回落，但仍然处于较高水平",
+     "ex1": "Elevated food prices have forced many families to cut back on unnecessary spending. 居高不下的食品价格迫使许多家庭削减不必要的开支。",
+     "ex2": "Doctors are concerned about the patient's elevated blood pressure. 医生对这名患者偏高的血压感到担忧。"
+    },
+    {
+     "w": "ever-present",
+     "ipa": "/ˌevər ˈprezənt/",
+     "pos": "adj.",
+     "en": "existing or noticeable all the time",
+     "zh": "始终存在的；无处不在的；挥之不去的",
+     "ctx": "指通胀压力持续存在，并渗透到美国民众日常生活的各个方面",
+     "ex1": "The threat of cyberattacks is an ever-present concern for large companies. 网络攻击的威胁始终是大型企业的一大隐忧。",
+     "ex2": "For many young people, financial pressure is an ever-present part of city life. 对许多年轻人来说，经济压力是城市生活中始终存在的一部分。"
+    },
+    {
+     "w": "feel the pinch",
+     "ipa": "/fiːl ðə pɪntʃ/",
+     "pos": "phr.",
+     "en": "to experience financial difficulties, especially because of rising prices or reduced income",
+     "zh": "感受到经济压力；手头拮据；感到生活成本带来的压力",
+     "ctx": "指美国民众在加油、缴纳账单和外出就餐时，切实感受到物价上涨带来的经济负担",
+     "ex1": "Small businesses are beginning to feel the pinch as rents and energy costs continue to rise. 随着租金和能源成本持续上涨，小企业开始感受到经济压力。",
+     "ex2": "Even middle-class families are feeling the pinch after months of rising grocery prices. 在食品杂货价格连续数月上涨之后，就连中产阶级家庭也开始感到手头吃紧。"
+    },
+    {
+     "w": "on the ballot",
+     "ipa": "/ɒn ðə ˈbælət/",
+     "pos": "phr.",
+     "en": "included as a candidate or an issue that people can vote for or against in an election",
+     "zh": "出现在选票上；作为选举候选人或表决事项",
+     "ctx": "指特朗普本人并不是11月3日中期选举中的候选人",
+     "ex1": "The mayor's name will not be on the ballot in next month's election. 市长的名字不会出现在下个月的选票上。",
+     "ex2": "Several important education proposals will be on the ballot this November. 今年11月，几项重要的教育提案将交由选民投票表决。"
+    },
+    {
+     "w": "head to the polls",
+     "ipa": "/hed tə ðə poʊlz/",
+     "pos": "phr.",
+     "en": "to go to a polling station in order to vote in an election",
+     "zh": "前往投票站；参加投票",
+     "ctx": "指美国选民前往投票站，参加11月3日的中期选举",
+     "ex1": "Millions of citizens will head to the polls on Sunday to choose their next president. 数百万公民将在周日前往投票站，选出下一任总统。",
+     "ex2": "Young voters are expected to head to the polls in large numbers this year. 预计今年将有大量年轻选民前往投票站投票。"
+    },
+    {
+     "w": "skeptical",
+     "ipa": "/ˈskeptɪkəl/",
+     "pos": "adj.",
+     "en": "having doubts about whether something is true, effective, or likely to succeed",
+     "zh": "怀疑的；持怀疑态度的；不轻易相信的",
+     "ctx": "指美国选民对经济表现及特朗普经济政策的实际效果持怀疑态度",
+     "ex1": "Many investors remain skeptical about the company's ambitious expansion plans. 许多投资者仍然对该公司雄心勃勃的扩张计划持怀疑态度。",
+     "ex2": "She was skeptical of the government's promise to reduce living costs. 她对政府降低生活成本的承诺持怀疑态度。"
+    },
+    {
+     "w": "downright",
+     "ipa": "/ˈdaʊnraɪt/",
+     "pos": "adv.",
+     "en": "used to emphasize that something is completely or extremely true, especially something negative",
+     "zh": "彻底地；完全地；简直；十足地",
+     "ctx": "用于加强grumpy的程度，表示选民的情绪甚至可能已经到了明显恼火的地步",
+     "ex1": "The politician's explanation was not just confusing but downright misleading. 这位政客的解释不仅令人困惑，简直是在误导公众。",
+     "ex2": "Charging customers extra for basic services seems downright unfair. 连基本服务都要向顾客额外收费，简直太不公平了。"
+    },
+    {
+     "w": "grumpy",
+     "ipa": "/ˈɡrʌmpi/",
+     "pos": "adj.",
+     "en": "easily annoyed or complaining because of being in a bad mood",
+     "zh": "脾气暴躁的；闷闷不乐的；爱抱怨的",
+     "ctx": "形容美国选民对经济状况感到烦躁、不满，甚至有些恼火",
+     "ex1": "My grandfather gets grumpy whenever someone interrupts his afternoon nap. 每当有人打扰爷爷午睡时，他就会变得脾气暴躁。",
+     "ex2": "After waiting three hours for a delayed flight, the passengers became increasingly grumpy. 航班延误了三个小时后，乘客们变得越来越烦躁。"
+    }
+   ]
+  },
+  {
+   "en_html": "Consumer surveys show the mood has generally <mark class=\"voc\">deteriorated</mark> since Trump's second term began in January 2025, though there are <mark class=\"voc\">nuances</mark>: One widely tracked measure of confidence published by the Conference Board <mark class=\"voc\">perked up</mark> in October, while the University of Michigan's consumer sentiment index <mark class=\"voc\">registered</mark> a near-record low. Brian Jacobsen, chief economic strategist at Annex Wealth Management, said the confidence index tracks the macroeconomy, while the <mark class=\"voc\">sentiment</mark><mark class=\"voc\">macroeconomy</mark>, while the sentiment index is \"more personal,\" asking people how they are doing financially and how <mark class=\"voc\">affordable</mark> they find their lives to be. \"Sentiment is the bigger <mark class=\"voc\">driver</mark> of election outcomes, but confidence is the bigger driver of markets,\" he said.",
+   "zh": "消费者调查显示，自特朗普于2025年1月开启第二个总统任期以来，民众的情绪总体上一直在恶化，不过其中也存在一些细微差别：世界大型企业联合会发布的一项受到广泛关注的消费者信心指标在10月份有所回升，而密歇根大学的消费者情绪指数则跌至接近历史最低水平。Annex Wealth Management的首席经济策略师布赖恩·雅各布森表示，消费者信心指数反映的是宏观经济状况，而消费者情绪指数则“更加个人化”，它关注的是人们自身的财务状况如何，以及他们觉得自己的生活在经济上是否负担得起。他说：“消费者情绪对选举结果的影响更大，而消费者信心对金融市场的影响更大。”",
+   "notes": [
+    {
+     "w": "deteriorate",
+     "ipa": "/dɪˈtɪəriəreɪt/",
+     "pos": "v.",
+     "en": "to become worse in quality, condition, or degree",
+     "zh": "恶化；变差；退化",
+     "ctx": "指特朗普第二任期开始以来，美国消费者的整体情绪逐渐恶化",
+     "ex1": "Relations between the two countries deteriorated after the trade negotiations collapsed. 贸易谈判破裂后，两国关系恶化了。",
+     "ex2": "Her health began to deteriorate after months of working without enough rest. 连续几个月缺乏休息地工作后，她的健康状况开始恶化。"
+    },
+    {
+     "w": "nuance",
+     "ipa": "/ˈnuːɑːns/",
+     "pos": "n.",
+     "en": "a small but important difference in meaning, feeling, or opinion",
+     "zh": "细微差别；微妙之处；细微差异",
+     "ctx": "指不同消费者调查结果之间存在的细微差别，并非所有经济情绪指标都在同步下降",
+     "ex1": "Understanding the nuances of a foreign language takes years of practice. 理解一门外语中的细微差别需要多年的练习。",
+     "ex2": "The journalist's report captured the nuances of public opinion on immigration. 这位记者的报道捕捉到了公众对移民问题看法中的微妙差异。"
+    },
+    {
+     "w": "perk up",
+     "ipa": "/pɜːrk ʌp/",
+     "pos": "phr.",
+     "en": "to become more cheerful, lively, active, or successful",
+     "zh": "振作起来；好转；回升",
+     "ctx": "指世界大型企业联合会发布的消费者信心指标在10月份有所回升",
+     "ex1": "Retail sales began to perk up as the holiday shopping season approached. 随着节日购物季临近，零售销售额开始回升。",
+     "ex2": "She immediately perked up when she heard that her application had been accepted. 听到自己的申请获得批准后，她立刻精神振奋起来。"
+    },
+    {
+     "w": "register",
+     "ipa": "/ˈredʒɪstər/",
+     "pos": "v.",
+     "en": "to show or record a particular amount, level, or measurement",
+     "zh": "显示；记录；达到某一数值或水平",
+     "ctx": "指密歇根大学消费者情绪指数录得接近历史最低的水平",
+     "ex1": "The city registered its highest temperature in more than twenty years. 这座城市录得二十多年来的最高气温。",
+     "ex2": "The company registered a sharp decline in profits during the second quarter. 这家公司第二季度的利润出现了大幅下降。"
+    },
+    {
+     "w": "sentiment",
+     "ipa": "/ˈsentɪmənt/",
+     "pos": "n.",
+     "en": "a general feeling, attitude, or opinion that people have about something",
+     "zh": "情绪；态度；看法；情感倾向",
+     "ctx": "指消费者对自身经济状况、生活负担和未来财务前景的主观感受",
+     "ex1": "Investor sentiment improved after the central bank announced its new policy. 央行宣布新政策后，投资者情绪有所改善。",
+     "ex2": "Public sentiment toward the proposed tax reform remains largely negative. 公众对拟议中的税收改革仍然普遍持负面态度。"
+    },
+    {
+     "w": "macroeconomy",
+     "ipa": "/ˌmækrəʊɪˈkɒnəmi/",
+     "pos": "n.",
+     "en": "the economy of a country or region as a whole, including employment, inflation, and economic growth",
+     "zh": "宏观经济；整体经济",
+     "ctx": "指就业、经济增长、通货膨胀等反映美国整体经济运行状况的指标",
+     "ex1": "Changes in interest rates can have a significant impact on the macroeconomy. 利率变化可能对宏观经济产生重大影响。",
+     "ex2": "The government is trying to stabilize the macroeconomy without slowing economic growth. 政府正努力在不拖慢经济增长的情况下稳定宏观经济。"
+    },
+    {
+     "w": "affordable",
+     "ipa": "/əˈfɔːrdəbəl/",
+     "pos": "adj.",
+     "en": "not too expensive for people to buy or pay for",
+     "zh": "负担得起的；价格合理的",
+     "ctx": "指美国消费者是否觉得自己的日常生活开支处于经济上能够承受的范围内",
+     "ex1": "Many young families are struggling to find affordable housing in major cities. 许多年轻家庭正努力在大城市寻找负担得起的住房。",
+     "ex2": "The company hopes to make electric cars more affordable for ordinary consumers. 这家公司希望让普通消费者更买得起电动汽车。"
+    },
+    {
+     "w": "driver",
+     "ipa": "/ˈdraɪvər/",
+     "pos": "n.",
+     "en": "a factor or force that causes something to develop, change, or happen",
+     "zh": "驱动因素；推动力量；主要影响因素",
+     "ctx": "指消费者情绪是影响选举结果的重要因素，而消费者信心则是影响金融市场的重要因素",
+     "ex1": "Technological innovation has become a major driver of economic growth. 技术创新已经成为经济增长的重要驱动力。",
+     "ex2": "Rising living costs were one of the main drivers of public dissatisfaction. 生活成本上涨是引发公众不满的主要因素之一。"
+    }
+   ]
+  },
+  {
+   "en_html": "One argument for macroeconomic confidence <mark class=\"voc\">derives from</mark> the <mark class=\"voc\">labor market</mark>. Firms may not be hiring much, and new graduates are having a hard time finding jobs, but companies are not conducting <mark class=\"voc\">mass layoffs</mark> either. Weekly <mark class=\"voc\">unemployment insurance claims</mark> are near a 57-year low. The unemployment rate, at 4.2% in September, has measured no higher than 4.5% for five straight years — the longest <mark class=\"voc\">stretch</mark> <mark class=\"voc\">on record</mark>.",
+   "zh": "支撑宏观经济信心的一个理由来自劳动力市场。企业或许没有大规模招聘，应届毕业生也正面临求职困难，但与此同时，企业也没有进行大规模裁员。每周申请失业保险救济的人数接近57年来的最低水平。9月份的失业率为4.2%，而且美国失业率已经连续五年没有超过4.5%，这是有记录以来持续时间最长的一段时期。",
+   "notes": [
+    {
+     "w": "derive from",
+     "ipa": "/dɪˈraɪv frəm/",
+     "pos": "phr.",
+     "en": "to come from or have something as an origin or source",
+     "zh": "源于；来自；由……产生",
+     "ctx": "指对美国宏观经济保持信心的一个重要依据来自劳动力市场的表现",
+     "ex1": "Much of her confidence derives from years of professional experience. 她的自信很大程度上源于多年的职业经验。",
+     "ex2": "The country's economic strength derives from its highly skilled workforce. 这个国家的经济实力来自其高技能劳动力。"
+    },
+    {
+     "w": "labor market",
+     "ipa": "/ˈleɪbər ˌmɑːrkɪt/",
+     "pos": "n.",
+     "en": "the system in which workers look for jobs and employers look for people to hire",
+     "zh": "劳动力市场；就业市场",
+     "ctx": "指美国企业招聘、裁员、就业人数和失业率等方面的整体状况",
+     "ex1": "Young people are facing increasing competition in the labor market. 年轻人在就业市场上正面临日益激烈的竞争。",
+     "ex2": "A strong labor market usually gives workers more bargaining power. 强劲的劳动力市场通常会赋予劳动者更大的议价能力。"
+    },
+    {
+     "w": "mass layoff",
+     "ipa": "/mæs ˈleɪɔːf/",
+     "pos": "n.",
+     "en": "the dismissal of a large number of employees by a company within a relatively short period",
+     "zh": "大规模裁员；集体裁员",
+     "ctx": "指美国企业虽然招聘放缓，但尚未普遍出现大规模裁员的情况",
+     "ex1": "The factory announced mass layoffs after demand for its products collapsed. 产品需求暴跌后，这家工厂宣布大规模裁员。",
+     "ex2": "Workers are worried that automation could lead to mass layoffs in the coming years. 工人们担心自动化可能在未来几年引发大规模裁员。"
+    },
+    {
+     "w": "unemployment insurance claim",
+     "ipa": "/ˌʌnɪmˈplɔɪmənt ɪnˈʃʊrəns kleɪm/",
+     "pos": "n.",
+     "en": "a formal request for financial benefits made by someone who has lost their job",
+     "zh": "失业保险金申请；失业救济申请",
+     "ctx": "指美国每周申请失业保险救济的人数，是衡量劳动力市场状况的重要指标",
+     "ex1": "A sudden rise in unemployment insurance claims may signal weakness in the labor market. 失业保险金申请人数突然增加，可能预示着劳动力市场正在走弱。",
+     "ex2": "After losing his job, he filed an unemployment insurance claim to help cover his living expenses. 失业后，他申请了失业保险金，以帮助支付生活开支。"
+    },
+    {
+     "w": "stretch",
+     "ipa": "/stretʃ/",
+     "pos": "n.",
+     "en": "a continuous period of time during which something happens or remains true",
+     "zh": "连续的一段时间；持续时期",
+     "ctx": "指美国失业率连续五年保持在4.5%或以下的历史最长时期",
+     "ex1": "The country experienced a long stretch of economic stability before the financial crisis. 金融危机爆发前，这个国家经历了一段长期的经济稳定时期。",
+     "ex2": "After a difficult stretch of unemployment, she finally found a job she enjoyed. 经历了一段艰难的失业时期后，她终于找到了一份自己喜欢的工作。"
+    },
+    {
+     "w": "on record",
+     "ipa": "/ɒn ˈrekərd/",
+     "pos": "phr.",
+     "en": "known or officially recorded in the available historical data",
+     "zh": "有记录以来；在历史记录中",
+     "ctx": "强调美国失业率连续五年不超过4.5%，创下有统计记录以来最长的持续纪录",
+     "ex1": "Last summer was the hottest on record in the region. 去年夏天是该地区有记录以来最炎热的夏天。",
+     "ex2": "The company reported its strongest annual sales growth on record. 这家公司公布了有记录以来最强劲的年度销售增长。"
+    }
+   ]
+  },
+  {
+   "en_html": "There is also the <mark class=\"voc\">updraft</mark> from stock market gains to consider. The main US equity indexes have <mark class=\"voc\">notched</mark> dozens of record highs this year, as Trump frequently reminds attendees at his rallies. Most Americans hold some stock, though higher-income households have <mark class=\"voc\">disproportionately</mark> more. <mark class=\"voc\">Outlays</mark> by higher-income households, <mark class=\"voc\">buoyed</mark> by the rising value of their stock holdings, have helped <mark class=\"voc\">underpin</mark> consumer spending, which has been a strong driver of economic growth. Data last week showed the US economy grew at a 3.4% <mark class=\"voc\">annualized</mark> pace last quarter, its strongest performance this year. AI-related demand is <mark class=\"voc\">fueling</mark> many of the gains in the stock market and in the real economy, and business investment rose at an annualized 12.7% pace last quarter.",
+   "zh": "此外，股市上涨带来的提振作用也值得考虑。今年，美国主要股指已经数十次创下历史新高，特朗普也经常在自己的政治集会上向与会者强调这一点。大多数美国人都持有一定数量的股票，不过高收入家庭持有的股票资产比例明显更高。随着股票持仓价值上涨，高收入家庭的财富得到提振，其消费支出也因此增加，从而帮助支撑了整体消费，而消费一直是推动经济增长的重要动力。上周公布的数据显示，美国经济上季度按年化计算增长了3.4%，创下今年以来的最佳表现。人工智能相关需求正在推动股市和实体经济中的许多增长，而上季度企业投资也以12.7%的年化速度增长。",
+   "notes": [
+    {
+     "w": "updraft",
+     "ipa": "/ˈʌpdræft/",
+     "pos": "n.",
+     "en": "an upward movement of air; figuratively, a force that lifts or supports something",
+     "zh": "上升气流；向上的推动力；提振作用",
+     "ctx": "比喻股市上涨给美国经济和消费者财富带来的向上推动力",
+     "ex1": "The rapid growth of tourism created an economic updraft for local businesses. 旅游业的快速发展为当地企业带来了经济上的提振作用。",
+     "ex2": "The small aircraft was lifted by a powerful updraft over the mountains. 一股强劲的上升气流将这架小型飞机托举到了群山上空。"
+    },
+    {
+     "w": "notch",
+     "ipa": "/nɒtʃ/",
+     "pos": "v.",
+     "en": "to achieve or record a particular result, especially a successful one",
+     "zh": "取得；创下；达到",
+     "ctx": "指美国主要股指今年数十次创下历史新高",
+     "ex1": "The company notched record sales during the holiday shopping season. 这家公司在节日购物季创下了销售纪录。",
+     "ex2": "The young athlete notched her third consecutive victory at the international competition. 这位年轻运动员在国际比赛中取得了三连胜。"
+    },
+    {
+     "w": "disproportionately",
+     "ipa": "/ˌdɪsprəˈpɔːrʃənətli/",
+     "pos": "adv.",
+     "en": "to a degree that is too large or too small in comparison with something else",
+     "zh": "不成比例地；过度地；明显不均衡地",
+     "ctx": "指高收入家庭持有的股票资产比例明显高于其他收入群体",
+     "ex1": "Rising housing costs disproportionately affect young people and low-income families. 住房成本上涨对年轻人和低收入家庭的影响尤为严重。",
+     "ex2": "Wealthy investors benefit disproportionately from increases in property values. 富裕投资者从房产升值中获得了不成比例的更多收益。"
+    },
+    {
+     "w": "outlay",
+     "ipa": "/ˈaʊtleɪ/",
+     "pos": "n.",
+     "en": "an amount of money spent on something, especially for a particular purpose",
+     "zh": "支出；费用；开销",
+     "ctx": "指高收入家庭用于购买商品和服务的消费支出",
+     "ex1": "The initial outlay for opening a restaurant can be surprisingly high. 开一家餐厅的初期投入可能高得惊人。",
+     "ex2": "The government has increased its outlays on public transportation and education. 政府增加了在公共交通和教育方面的支出。"
+    },
+    {
+     "w": "buoy",
+     "ipa": "/bɔɪ/",
+     "pos": "v.",
+     "en": "to support something or make it stronger, more successful, or more confident",
+     "zh": "支撑；提振；使增强",
+     "ctx": "指股票资产升值提振了高收入家庭的财富状况和消费能力",
+     "ex1": "Strong export demand helped buoy the country's economy during the slowdown. 强劲的出口需求帮助支撑了经济放缓时期的国家经济。",
+     "ex2": "Positive customer reviews buoyed the team's confidence before the product launch. 积极的顾客评价提振了团队在产品发布前的信心。"
+    },
+    {
+     "w": "underpin",
+     "ipa": "/ˌʌndərˈpɪn/",
+     "pos": "v.",
+     "en": "to support something or form the basis on which it depends",
+     "zh": "支撑；构成……的基础；为……提供根基",
+     "ctx": "指高收入家庭的消费支出为美国整体消费提供了重要支撑",
+     "ex1": "Public trust is essential to underpin a stable financial system. 公众信任是支撑稳定金融体系的重要基础。",
+     "ex2": "Years of scientific research underpin the development of this new technology. 多年的科学研究为这项新技术的发展奠定了基础。"
+    },
+    {
+     "w": "annualized",
+     "ipa": "/ˈænjuəlaɪzd/",
+     "pos": "adj.",
+     "en": "calculated or expressed as a rate that would apply over a full year",
+     "zh": "年化的；按全年计算的",
+     "ctx": "指将一个季度的经济增长或投资增长换算成全年速度后的增长率",
+     "ex1": "The economy expanded at an annualized rate of 2.8% in the second quarter. 第二季度，经济按年化计算增长了2.8%。",
+     "ex2": "The fund delivered an annualized return of 6% over the past five years. 过去五年，这只基金实现了6%的年化回报率。"
+    },
+    {
+     "w": "fuel",
+     "ipa": "/ˈfjuːəl/",
+     "pos": "v.",
+     "en": "to make something increase, develop, or become stronger",
+     "zh": "推动；助长；刺激；为……提供动力",
+     "ctx": "指人工智能相关需求正在推动美国股市和实体经济增长",
+     "ex1": "Growing demand for renewable energy has fueled investment in battery technology. 对可再生能源日益增长的需求推动了电池技术投资。",
+     "ex2": "Rumors about the company's financial problems fueled concerns among investors. 有关公司财务问题的传言加剧了投资者的担忧。"
+    }
+   ]
+  },
+  {
+   "en_html": "Still, some economists warn of potential <mark class=\"voc\">fragility</mark> — and <mark class=\"voc\">cracks</mark> may be starting to appear. As the midterm elections neared, a wave of <mark class=\"voc\">corporate earnings</mark> results from the likes of Amazon.com (AMZN.O) and Intel (INTC.O) added to growing worries about the <mark class=\"voc\">sustainability</mark> of the AI spending boom, sending indexes such as the Nasdaq Composite sharply lower. \"A sharp reset in AI expectations could <mark class=\"voc\">undermine</mark> corporate confidence, <mark class=\"voc\">trigger</mark> a <mark class=\"voc\">pullback</mark> in capex (<mark class=\"voc\">capital expenditure</mark>) and <mark class=\"voc\">weigh on</mark> GDP growth, just as higher oil prices, tariffs and tighter immigration restrictions push inflation higher, raising the risk of a <mark class=\"voc\">stagflationary</mark> environment in which growth slows even as price pressures persist,\" Torsten Slok, chief economist at Apollo Global Management, wrote in a mid-October note.",
+   "zh": "然而，一些经济学家警告称，经济可能存在潜在的脆弱性，而且裂痕或许已经开始显现。随着中期选举临近，亚马逊和英特尔等企业陆续公布的一系列财报，加剧了市场对人工智能投资热潮能否持续的担忧，导致纳斯达克综合指数等股指大幅下跌。阿波罗全球管理公司的首席经济学家托斯滕·斯洛克在10月中旬的一份报告中写道：“如果市场对人工智能的预期出现大幅调整，就可能削弱企业信心，引发资本支出缩减，并拖累国内生产总值增长。与此同时，油价上涨、关税以及更加严格的移民限制又会进一步推高通胀，从而增加经济陷入滞胀环境的风险，也就是经济增长放缓，但物价上涨压力依然持续存在。”",
+   "notes": [
+    {
+     "w": "fragility",
+     "ipa": "/frəˈdʒɪləti/",
+     "pos": "n.",
+     "en": "the quality of being weak or easily damaged, broken, or affected by problems",
+     "zh": "脆弱性；易受损的状态；不稳定性",
+     "ctx": "指美国经济虽然表面表现强劲，但仍可能受到人工智能投资降温等因素的冲击",
+     "ex1": "The financial crisis exposed the fragility of the country's banking system. 金融危机暴露了该国银行体系的脆弱性。",
+     "ex2": "The pandemic revealed the fragility of global supply chains. 疫情暴露了全球供应链的脆弱性。"
+    },
+    {
+     "w": "crack",
+     "ipa": "/kræk/",
+     "pos": "n.",
+     "en": "a narrow break in a surface; a sign of weakness or a developing problem",
+     "zh": "裂缝；裂痕；问题初现的迹象",
+     "ctx": "比喻美国经济表面繁荣之下开始显现的潜在问题",
+     "ex1": "Cracks are beginning to appear in the company's ambitious expansion strategy. 这家公司雄心勃勃的扩张战略开始显现出问题。",
+     "ex2": "The disagreement exposed serious cracks in the relationship between the two leaders. 这场分歧暴露了两位领导人关系中的严重裂痕。"
+    },
+    {
+     "w": "corporate earnings",
+     "ipa": "/ˈkɔːrpərət ˈɜːrnɪŋz/",
+     "pos": "n.",
+     "en": "the profits that a company makes during a particular period, usually reported in its financial results",
+     "zh": "企业盈利；公司收益；企业财报中的利润",
+     "ctx": "指亚马逊、英特尔等大型企业公布的盈利业绩及相关财务数据",
+     "ex1": "Strong corporate earnings helped push stock prices higher during the first quarter. 强劲的企业盈利推动第一季度股价上涨。",
+     "ex2": "Investors are closely watching corporate earnings for signs of an economic slowdown. 投资者正密切关注企业盈利，以寻找经济放缓的迹象。"
+    },
+    {
+     "w": "sustainability",
+     "ipa": "/səˌsteɪnəˈbɪləti/",
+     "pos": "n.",
+     "en": "the ability of something to continue or be maintained over a long period of time",
+     "zh": "可持续性；长期维持的能力",
+     "ctx": "指人工智能投资热潮能否长期维持，而不是在短期繁荣后迅速降温",
+     "ex1": "Analysts have questioned the sustainability of the company's rapid growth. 分析师对这家公司快速增长的可持续性提出了质疑。",
+     "ex2": "The government must consider the long-term sustainability of its pension system. 政府必须考虑养老金制度的长期可持续性。"
+    },
+    {
+     "w": "undermine",
+     "ipa": "/ˌʌndərˈmaɪn/",
+     "pos": "v.",
+     "en": "to gradually weaken or damage something, especially confidence, authority, or effectiveness",
+     "zh": "削弱；损害；动摇",
+     "ctx": "指人工智能市场预期大幅下调可能削弱企业对未来经济和投资前景的信心",
+     "ex1": "Repeated policy changes have undermined public confidence in the government. 政策反复变化削弱了公众对政府的信心。",
+     "ex2": "A series of scandals threatened to undermine the company's reputation. 一连串丑闻可能损害这家公司的声誉。"
+    },
+    {
+     "w": "trigger",
+     "ipa": "/ˈtrɪɡər/",
+     "pos": "v.",
+     "en": "to cause something to happen or begin, especially a sudden event or reaction",
+     "zh": "引发；触发；促使发生",
+     "ctx": "指人工智能预期变化可能引发企业缩减资本支出",
+     "ex1": "The unexpected interest rate increase triggered a sharp decline in stock prices. 意外加息引发了股价大幅下跌。",
+     "ex2": "The announcement triggered widespread protests across the country. 这一公告引发了全国范围内的大规模抗议。"
+    },
+    {
+     "w": "pullback",
+     "ipa": "/ˈpʊlbæk/",
+     "pos": "n.",
+     "en": "a reduction in the amount of money, effort, or resources being used for something",
+     "zh": "缩减；减少；撤回；回落",
+     "ctx": "指企业可能减少在人工智能及其他项目上的资本支出",
+     "ex1": "The economic uncertainty led to a pullback in business investment. 经济前景的不确定性导致企业投资缩减。",
+     "ex2": "A sudden pullback in consumer spending could hurt the retail industry. 消费支出突然减少可能会打击零售行业。"
+    },
+    {
+     "w": "capital expenditure",
+     "ipa": "/ˌkæpɪtəl ɪkˈspendɪtʃər/",
+     "pos": "n.",
+     "en": "money spent by a company on acquiring, improving, or maintaining long- term assets such as buildings, equipment, and technology",
+     "zh": "资本支出；用于长期资产的投资性开支",
+     "ctx": "指企业用于建设数据中心、购买芯片、服务器及其他长期资产的投资支出，文中缩写为capex",
+     "ex1": "The technology company increased its capital expenditure to build new data centers. 这家科技公司增加了资本支出，以建设新的数据中心。",
+     "ex2": "High borrowing costs have forced manufacturers to reduce capital expenditure. 高昂的借贷成本迫使制造商削减资本支出。"
+    },
+    {
+     "w": "weigh on",
+     "ipa": "/weɪ ɒn/",
+     "pos": "phr.",
+     "en": "to have a negative effect on something or make it more difficult to improve",
+     "zh": "拖累；对……造成压力；压制",
+     "ctx": "指企业资本支出缩减可能拖累美国国内生产总值增长",
+     "ex1": "High interest rates continue to weigh on the housing market. 高利率持续对房地产市场造成压力。",
+     "ex2": "Weak consumer demand is weighing on the company's profits. 疲软的消费需求正在拖累公司的利润。"
+    },
+    {
+     "w": "stagflationary",
+     "ipa": "/ˌstæɡˈfleɪʃənəri/",
+     "pos": "adj.",
+     "en": "relating to an economic situation in which growth is weak or stagnant while inflation remains high",
+     "zh": "滞胀的；具有经济停滞与通货膨胀并存特征的",
+     "ctx": "指美国可能面临经济增长放缓、但物价上涨压力持续存在的滞胀风险",
+     "ex1": "Rising energy costs could create stagflationary pressures across the economy. 能源成本上涨可能给整个经济带来滞胀压力。",
+     "ex2": "Policymakers face difficult choices in a stagflationary environment. 在滞胀环境下，政策制定者面临艰难的抉择。"
+    }
+   ]
+  },
+  {
+   "en_html": "For much of Trump's second term in the White House, wages were growing faster than prices, meaning that workers could expect their <mark class=\"voc\">paychecks</mark> to <mark class=\"voc\">cover</mark> as much or more of the same goods and services as before. That situation changed earlier this year after the US and Israel <mark class=\"voc\">launched</mark> attacks on Iran in what has become an eight- month war that has lifted fuel prices globally and contributed to price <mark class=\"voc\">acceleration</mark> more broadly. Demand for AI is also adding to inflation, Fed policymakers and economists say. Wage growth is also slowing. Consumer prices and <mark class=\"voc\">average hourly earnings</mark> have both risen about 5.5% since January 2025, data from the US Bureau of Labor Statistics shows. <mark class=\"voc\">The upshot</mark>: from a <mark class=\"voc\">purchasing-power</mark> perspective, workers are <mark class=\"voc\">no worse off, but also no better off</mark>, than when Trump came into office in January 2025.",
+   "zh": "在特朗普第二个白宫任期的大部分时间里，工资上涨的速度一直快于物价上涨，这意味着劳动者的工资能够购买与过去同样多、甚至更多的商品和服务。然而，今年早些时候，美国和以色列对伊朗发动袭击，随后冲突演变成一场持续八个月的战争，推高了全球燃油价格，并进一步加剧了更广泛的物价上涨，这种局面也随之发生了变化。美联储政策制定者和经济学家表示，人工智能领域的需求同样在加剧通货膨胀。与此同时，工资增长也在放缓。美国劳工统计局的数据显示，自2025年1月以来，消费者价格和平均时薪均上涨了约5.5%。最终的结果是：从购买力的角度来看，与特朗普2025年1月上任时相比，劳动者的经济状况既没有变得更差，也没有变得更好。",
+   "notes": [
+    {
+     "w": "paycheck",
+     "ipa": "/ˈpeɪtʃek/",
+     "pos": "n.",
+     "en": "the money that an employee receives as payment for their work, usually at regular intervals",
+     "zh": "工资；薪水；工资收入",
+     "ctx": "指美国劳动者定期获得的工资收入，以及这些收入能够购买多少商品和服务",
+     "ex1": "Rising rent takes up nearly half of her monthly paycheck. 不断上涨的房租几乎占去了她每月工资的一半。",
+     "ex2": "Many young workers find that their paychecks barely cover their basic living expenses. 许多年轻劳动者发现，他们的工资仅仅够支付基本生活开支。"
+    },
+    {
+     "w": "cover",
+     "ipa": "/ˈkʌvər/",
+     "pos": "v.",
+     "en": "to provide enough money to pay for something",
+     "zh": "足以支付；够支付；负担得起",
+     "ctx": "指劳动者的工资能够支付购买一定数量商品和服务所需的费用",
+     "ex1": "Her part-time income is not enough to cover the cost of living in the city. 她的兼职收入不足以支付在这座城市的生活费用。",
+     "ex2": "The scholarship covers tuition fees but not accommodation expenses. 这笔奖学金涵盖学费，但不包括住宿费用。"
+    },
+    {
+     "w": "launch",
+     "ipa": "/lɔːntʃ/",
+     "pos": "v.",
+     "en": "to begin or carry out an organized activity, operation, or attack",
+     "zh": "发起；发动；启动",
+     "ctx": "指美国和以色列对伊朗发动军事袭击",
+     "ex1": "The military launched an operation to rescue the trapped civilians. 军方发起了一次行动，以营救被困平民。",
+     "ex2": "The government launched a nationwide campaign to reduce food waste. 政府发起了一场全国性的减少食物浪费运动。"
+    },
+    {
+     "w": "acceleration",
+     "ipa": "/əkˌseləˈreɪʃən/",
+     "pos": "n.",
+     "en": "an increase in the speed or rate at which something happens or develops",
+     "zh": "加速；增速加快",
+     "ctx": "指物价上涨的速度进一步加快，而不仅仅是物价本身处于高位",
+     "ex1": "The sudden acceleration in food prices has put pressure on household budgets. 食品价格突然加速上涨，给家庭预算带来了压力。",
+     "ex2": "The acceleration of technological change is transforming the global labor market. 技术变革的加速正在改变全球劳动力市场。"
+    },
+    {
+     "w": "average hourly earnings",
+     "ipa": "/ˈævərɪd ˈaʊərli ˈɜːrnɪŋz/",
+     "pos": "n.",
+     "en": "the average amount of money employees earn for each hour of work",
+     "zh": "平均时薪；平均每小时工资收入",
+     "ctx": "指美国劳动者每小时平均获得的工资收入，是衡量工资增长的重要经济指标",
+     "ex1": "Average hourly earnings increased as employers competed for skilled workers. 随着雇主争夺技术工人，平均时薪有所上涨。",
+     "ex2": "Economists closely monitor average hourly earnings to assess wage pressures. 经济学家密切关注平均时薪，以评估工资上涨压力。"
+    },
+    {
+     "w": "the upshot",
+     "ipa": "/ði ˈʌpʃɒt/",
+     "pos": "n.",
+     "en": "the final result or most important consequence of a situation or series of events",
+     "zh": "最终结果；结局；归根结底",
+     "ctx": "用于总结工资与物价均上涨约5.5%所带来的实际结果，即劳动者的购买力基本没有改善",
+     "ex1": "The upshot of the negotiations was that both sides agreed to delay the project. 谈判的最终结果是，双方同意推迟这个项目。",
+     "ex2": "The upshot is that we spent more money but achieved very little. 归根结底，我们花了更多的钱，却几乎没有取得什么成果。"
+    },
+    {
+     "w": "purchasing power",
+     "ipa": "/ˈpɜːrtʃəsɪŋ ˈpaʊər/",
+     "pos": "n.",
+     "en": "the amount of goods and services that a particular amount of money can buy",
+     "zh": "购买力；货币购买商品和服务的能力",
+     "ctx": "指美国劳动者的工资在扣除物价上涨影响后，实际能够购买多少商品和服务",
+     "ex1": "High inflation has significantly reduced the purchasing power of ordinary families. 高通胀显著削弱了普通家庭的购买力。",
+     "ex2": "A salary increase does not necessarily improve purchasing power if prices rise even faster. 如果物价上涨得更快，加薪并不一定能提高购买力。"
+    },
+    {
+     "w": "no worse off, but also no better off",
+     "ipa": "/nəʊ wɜːrs ɒf bət ˈɔːlsəʊ nəʊ ˈbetər ɒf/",
+     "pos": "phr.",
+     "en": "in neither a worse nor a better financial or general situation than before",
+     "zh": "既没有变得更糟，也没有变得更好",
+     "ctx": "指美国劳动者虽然名义工资有所上涨，但由于物价同步上涨，实际购买力与特朗普上任时基本持平",
+     "ex1": "After receiving a pay raise that barely matched inflation, she was no worse off, but also no better off. 加薪幅度勉强赶上通胀后，她的经济状况既没有变差，也没有变好。",
+     "ex2": "The new tax policy left most middle-income families no worse off, but also no better off. 新税收政策让大多数中等收入家庭的经济状况既没有恶化，也没有改善。"
+    }
+   ]
+  },
+  {
+   "en_html": "The US central bank raised its <mark class=\"voc\">policy rate</mark> in September and is expected to increase <mark class=\"voc\">borrowing costs</mark> again in December, delivering what Fed Chairman Kevin Warsh calls \"<mark class=\"voc\">monetary</mark> medicine\" to <mark class=\"voc\">bring down</mark> inflation without, he says, the need \"to <mark class=\"voc\">throw sand in the gears</mark> of the economy and throw people out of work.\" Longer-term borrowing costs have also risen, adding to the affordability <mark class=\"voc\">woes</mark> that voters have cited as weighing on them. The combination of 30-year <mark class=\"voc\">mortgage</mark> rates that have topped 7% and a shortage of housing supply that has driven up home prices has <mark class=\"voc\">conspired</mark> to put home purchases <mark class=\"voc\">out of reach</mark> for many people.",
+   "zh": "美国中央银行已于9月份上调政策利率，预计还将在12月份进一步提高借贷成本，以实施美联储主席凯文·沃什所称的“货币良药”，从而降低通货膨胀。他表示，这样做不必“向经济运转的齿轮里撒沙子，也不必让人们失去工作”。长期借贷成本也有所上升，进一步加剧了选民们所抱怨的生活负担问题。30年期抵押贷款利率已突破7%，与此同时，住房供应短缺又推高了房价。这两种因素共同作用，使许多人无力负担购房费用。",
+   "notes": [
+    {
+     "w": "policy rate",
+     "ipa": "/ˈpɒləsi reɪt/",
+     "pos": "n.",
+     "en": "an interest rate set by a central bank to influence borrowing costs and economic activity",
+     "zh": "政策利率；央行政策性利率",
+     "ctx": "指美联储用于调节借贷成本、经济活动和通货膨胀的政策利率",
+     "ex1": "The central bank raised its policy rate to control rising inflation. 中央银行提高政策利率，以控制不断上涨的通货膨胀。",
+     "ex2": "A lower policy rate can encourage businesses to borrow money and expand production. 较低的政策利率可以鼓励企业借款并扩大生产。"
+    },
+    {
+     "w": "borrowing cost",
+     "ipa": "/ˈbɒrəʊɪŋ kɒst/",
+     "pos": "n.",
+     "en": "the amount of money paid for borrowing funds, especially interest and related charges",
+     "zh": "借贷成本；融资成本",
+     "ctx": "指美联储加息后，个人和企业借款所需承担的利息等费用",
+     "ex1": "Higher borrowing costs have discouraged many families from buying new homes. 更高的借贷成本使许多家庭打消了购买新房的念头。",
+     "ex2": "Small businesses often struggle to expand when borrowing costs rise sharply. 当借贷成本大幅上涨时，小企业往往难以扩大经营。"
+    },
+    {
+     "w": "monetary",
+     "ipa": "/ˈmʌnɪtəri/",
+     "pos": "adj.",
+     "en": "relating to money, currency, or the management of money in an economy",
+     "zh": "货币的；金融的；货币政策相关的",
+     "ctx": "monetary medicine 是将央行通过货币政策抑制通胀的措施比喻为治疗经济问题的药物",
+     "ex1": "The government is working with the central bank to maintain monetary stability. 政府正与中央银行合作，以维持货币稳定。",
+     "ex2": "Tighter monetary policy may help reduce inflation but could also slow economic growth. 更紧缩的货币政策可能有助于降低通胀，但也可能拖慢经济增长。"
+    },
+    {
+     "w": "bring down",
+     "ipa": "/brɪŋ daʊn/",
+     "pos": "phr.",
+     "en": "to reduce the level, amount, or value of something",
+     "zh": "降低；减少；使下降",
+     "ctx": "指美联储通过提高利率等货币政策手段降低通货膨胀水平",
+     "ex1": "The government introduced new measures to bring down the cost of essential medicines. 政府推出了新措施，以降低基本药品的价格。",
+     "ex2": "Increasing housing supply could help bring down rents in major cities. 增加住房供应可能有助于降低大城市的租金。"
+    },
+    {
+     "w": "throw sand in the gears",
+     "ipa": "/θrəʊ sænd ɪn ðə ɡɪərz/",
+     "pos": "phr.",
+     "en": "to interfere with a process or system in a way that makes it operate less smoothly or efficiently",
+     "zh": "妨碍正常运转；制造阻力；拖慢进程",
+     "ctx": "将经济比喻为一台运转的机器，强调过度紧缩的货币政策可能阻碍经济活动",
+     "ex1": "Unnecessary regulations can throw sand in the gears of economic development. 不必要的监管规定可能阻碍经济发展。",
+     "ex2": "Poor communication between departments threw sand in the gears of the entire project. 部门之间沟通不畅，拖慢了整个项目的推进。"
+    },
+    {
+     "w": "woe",
+     "ipa": "/wəʊ/",
+     "pos": "n.",
+     "en": "a serious problem, difficulty, or source of worry",
+     "zh": "困难；烦恼；困境",
+     "ctx": "affordability woes 指美国选民因住房及其他生活成本过高而面临的经济困境",
+     "ex1": "The company is facing financial woes after several years of declining sales. 连续几年销售额下降后，这家公司正面临财务困境。",
+     "ex2": "Rising food prices have added to the economic woes of low-income households. 食品价格上涨加剧了低收入家庭的经济困难。"
+    },
+    {
+     "w": "mortgage",
+     "ipa": "/ˈmɔːrɡɪdʒ/",
+     "pos": "n.",
+     "en": "a loan used to buy property, usually repaid over a long period and secured against the property",
+     "zh": "住房抵押贷款；按揭贷款",
+     "ctx": "指美国购房者用于购买住房的长期抵押贷款，文中重点提到30年期房贷利率",
+     "ex1": "The couple took out a mortgage to buy their first apartment. 这对夫妇申请了一笔住房抵押贷款，购买了他们的第一套公寓。",
+     "ex2": "Rising mortgage rates have made homeownership more expensive for young people. 不断上涨的房贷利率使年轻人拥有住房的成本变得更高。"
+    },
+    {
+     "w": "conspire",
+     "ipa": "/kənˈspaɪər/",
+     "pos": "v.",
+     "en": "to combine with other factors to produce a particular result, especially an unpleasant one",
+     "zh": "共同促成；合力导致；密谋",
+     "ctx": "指高房贷利率与住房供应短缺共同作用，使普通美国人越来越难以买房",
+     "ex1": "High energy prices and weak consumer demand conspired to reduce the company's profits. 高能源价格与疲软的消费需求共同导致了公司利润下降。",
+     "ex2": "Bad weather and transportation delays conspired to ruin our holiday plans. 恶劣天气和交通延误接连发生，最终毁掉了我们的假期安排。"
+    },
+    {
+     "w": "out of reach",
+     "ipa": "/aʊt əv riːtʃ/",
+     "pos": "phr.",
+     "en": "impossible or very difficult to obtain, achieve, or afford",
+     "zh": "遥不可及；难以获得；负担不起",
+     "ctx": "指由于房贷利率和房价双双高企，许多美国人已经无力购买住房",
+     "ex1": "For many young workers, buying a home in the city is increasingly out of reach. 对许多年轻劳动者来说，在这座城市买房正变得越来越遥不可及。",
+     "ex2": "Without financial support, studying abroad would have been out of reach for her. 如果没有经济支持，出国留学对她来说原本是遥不可及的。"
+    }
+   ]
   }
+ ],
+ "proper": [
+  {
+   "name": "US Midterm Elections／美国中期选举",
+   "def": "美国中期选举每四年举行一次，时间恰好位于总统四年任期的中间，因此称为“中期选举”。美国国会由参议院（Senate）和众议院（House of Representatives）组成。众议院全部 435个拥有投票权的席位每两年改选一次，参议院100个席位任期六年，每两年大约改选三分之一。2026年11月3日的中期选举将决定共和党能否继续控制国会两院。虽然特朗普本人不参加这次选举，但选民往往会通过支持或反对总统所属政党的候选人，表达对总统执政表现的评价。如果共和党失去众议院或参议院多数席位，特朗普后续推动立法和预算政策可能面临更大的阻力。"
+  },
+  {
+   "name": "Tariffs and Inflation／关税与通货膨胀",
+   "def": "关税是政府对进口商品征收的税。特朗普将关税作为贸易政策的重要工具，希望借此保护美国制造业、鼓励企业在美国生产，并在贸易谈判中争取有利条件。但关税也可能增加美国进口商的成本，而企业往往会将部分成本转嫁给消费者，导致商品价格上涨。例如，一家美国公司从海外进口价值100美元的商品，如果被征收25%的关税，仅关税就增加25美元的成本。至于消费者最终承担多少，还取决于企业定价、汇率和供应链调整等因素。因此，关税究竟能够保护多少就业岗位、又会增加多少生活成本，一直是美国经济政策争论的重要问题。"
+  },
+  {
+   "name": "Unemployment Rate／失业率",
+   "def": "失业率指失业人口占劳动力人口的比例，而不是失业人口占全国总人口的比例。在美国官方统计中，通常只有没有工作、能够工作，并且近期积极寻找工作的人才被计入失业人口。因此，一名毕业生如果一直找不到工作但仍在积极求职，通常会被统计为失业者；如果他已经放弃寻找工作，就可能不再被计入劳动力人口。文章提到美国2026年9月失业率为4.2%，属于相对较低的水平。但低失业率不意味着所有人都拥有满意的工作，也无法直接反映工资是否足够、工作是否稳定以及年轻人的求职难度。"
+  },
+  {
+   "name": "AI Investment Boom／人工智能投资热潮",
+   "def": "人工智能投资热潮指企业和投资者大量投入资金，建设支持人工智能发展的基础设施，包括数据中心、高性能芯片、服务器、电力设施和网络设备等。人工智能不仅推动了相关科技公司的股票估值，也直接增加了企业设备采购、建筑施工和技术研发等经济活动。例如，建设一座大型AI数据中心，需要购买大量芯片、安装冷却系统、建设电力设施，并雇用工程人员，因此能够带动多个行业的需求。不过，投资热潮能否长期持续，取决于AI技术未来是否能够创造足够的商业收入和利润。文章正是借这一现象说明，美国经济增长的一部分动力来自AI产业的快速扩张。"
+  },
+  {
+   "name": "Inflation vs. Price Level／通货膨胀率与物价水平",
+   "def": "通货膨胀率下降，并不意味着商品价格正在下降，而通常意味着商品价格上涨的速度变慢。例如，一件商品原价100元，第一年上涨10%后变成110元，第二年即使通胀率下降到3%，价格仍会进一步上涨到113.3元。因此，即使美国通胀率已经明显低于前几年的高峰，消费者仍然可能觉得生活越来越贵。真正的价格普遍下降称为通货紧缩（deflation）。文章中美国民众的不满，很大程度上来自过去累积的物价上涨，以及目前仍在持续的价格压力，而不仅仅是某个月公布的通胀率数字。"
+  },
+  {
+   "name": "Cost of Living and Affordability／生活成本与可负担性",
+   "def": "生活成本指维持日常生活所需要支付的费用，包括住房、食品、交通、医疗、能源和教育等。可负担性则强调一个人的收入是否足以承担这些开支。对普通家庭来说，经济是否繁荣，并不完全取决于GDP或股市表现，而是取决于每个月支付房租、购买食品、给汽车加油之后，还能剩下多少钱。美国很多地区的居民需要依赖汽车通勤，因此燃油价格变化尤其容易被感受到。文章用加油、支付水电账单和点餐三个日常场景说明，通胀是一种消费者能够反复感受到的生活压力。"
+  },
+  {
+   "name": "The Conference Board／世界大型企业联合会",
+   "def": "The Conference Board 是一家成立于1916年的美国非营利研究机构，主要研究经济、企业管理和商业发展。它发布的消费者信心指数（Consumer Confidence Index）是美国受到广泛关注的经济指标之一，通过调查消费者对当前商业环境、就业市场和未来经济前景的看法，判断家庭消费意愿可能如何变化。由于消费支出在美国经济中占据重要地位，消费者信心变化往往受到企业、投资者和政策制定者关注。文章提到，该机构的消费者信心指标在2026年10月有所回升，说明部分消费者对整体经济前景的判断出现改善。"
+  },
+  {
+   "name": "University of Michigan Consumer Sentiment Index／密歇根大学消费者情绪指数",
+   "def": "密歇根大学消费者情绪指数是美国另一项重要的消费者调查指标，重点关注家庭对自身财务状况、未来经济前景和购买条件的主观感受。与The Conference Board的消费者信心指数相比，两者在问卷设计和调查方法上有所不同，因此可能出现不同的变化方向。 2026年10月，密歇根大学消费者情绪指数降至48.0，接近历史最低水平。文章借专家的解释指出，消费者对宏观经济的判断与对个人生活的感受并不一定一致。一个人可以认为美国经济总体仍然强劲，却同时觉得自己的房租、食品和交通费用越来越难以承担。 Investing.com +1"
+  },
+  {
+   "name": "Initial Jobless Claims／首次申请失业救济人数",
+   "def": "首次申请失业救济人数是美国衡量劳动力市场变化的重要高频指标，通常每周公布一次，反映新近申请失业保险福利的人数。与每月公布的失业率相比，这项指标能够更及时地显示企业裁员活动是否增加。一般来说，首次申请人数突然上升，可能意味着更多劳动者正在失去工作；申请人数维持低位，则说明企业整体裁员活动较少。不过，并非所有失业者都符合领取失业保险的资格，因此这一指标不能代表全部失业人口。文章提到每周失业保险申请人数接近57年来的最低水平，意在说明美国企业虽然招聘谨慎，但尚未出现普遍的大规模裁员。"
+  },
+  {
+   "name": "Low-Hire, Low-Fire Labor Market／低招聘、低裁员的劳动力市场",
+   "def": "“低招聘、低裁员”描述的是一种企业既不愿意大量招聘新员工，也不愿意大规模解雇现有员工的就业市场状态。造成这种现象的原因可能包括经济前景不确定、企业担心招聘成本过高，或者希望保留已有的熟练员工。在这种环境下，已经拥有稳定工作的人可能感觉就业市场相对安全，但刚毕业的大学生和希望换工作的人却可能面临更大困难。这也解释了为什么美国失业率可以保持在较低水平，而年轻求职者仍然觉得找工作越来越难。就业市场的稳定性和就业机会的充足程度，并不是完全相同的概念。"
+  },
+  {
+   "name": "Wealth Effect／财富效应",
+   "def": "财富效应是指当人们持有的股票、房产等资产升值时，即使没有立即出售这些资产，也可能因为感觉自己变得更富有而增加消费。例如，一个家庭的股票账户从20万美元上涨到25万美元，虽然增加的5万美元只是账面收益，但家庭可能因此更愿意旅游、购买汽车或者进行房屋装修。美国较高收入家庭通常持有更多金融资产，因此更容易从股市上涨中受益。文章指出，高收入家庭的消费支出帮助支撑了美国经济增长。这也意味着股市繁荣带来的经济收益并不是平均分配给所有家庭的。"
+  },
+  {
+   "name": "GDP and Annualized Growth／国内生产总值与年化增长率",
+   "def": "GDP是Gross Domestic Product的缩写，中文称为国内生产总值，衡量一个国家或地区在一定时期内生产的最终商品和服务的市场价值。文章提到美国上季度GDP以3.4% 的年化速度增长。这里的annualized非常重要，它并不是说美国经济在一个季度内实际增长了3.4%，而是将一个季度的增长速度换算成假设连续四个季度保持同样速度时的全年增长率。美国经常使用季度环比年化增长率来公布经济表现，因此阅读美国财经新闻时，必须区分季度实际增长、同比增长和年化增长，否则容易误解经济增长的真实幅度。"
+  },
+  {
+   "name": "Nasdaq Composite Index／纳斯达克综合指数",
+   "def": "纳斯达克综合指数是美国重要的股票市场指数之一，包含在纳斯达克交易所上市的大量公司，科技企业在其中具有重要影响力。苹果、微软、英伟达、亚马逊等大型科技公司都是投资者关注的代表性企业。由于人工智能投资与芯片、云计算、数据中心和软件行业密切相关，市场对AI产业前景的判断会影响相关科技公司的股价。当投资者相信AI能够创造巨额利润时，可能愿意给予科技公司更高的估值；但如果企业财报显示AI投资成本不断增加，而收益尚不明确，市场预期就可能迅速转变。文章提到纳斯达克指数下跌，正是为了说明AI投资热潮背后也存在风险。"
+  },
+  {
+   "name": "Capex and AI Spending／资本支出与人工智能投资",
+   "def": "Capex是Capital Expenditure的缩写，指企业用于购买、建设或升级长期资产的资金，例如工厂、机器、服务器和数据中心。它与企业日常支付工资、房租和水电费等经营费用不同。人工智能企业需要投入巨额资金购买芯片、建设数据中心和完善基础设施，因此AI热潮带动了美国企业资本支出的增长。然而，如果未来AI产品带来的收入无法覆盖投资成本，企业可能削减新的建设计划。资本支出一旦放缓，不仅可能影响科技公司，还可能波及建筑、电力、设备制造等相关行业，这正是文章中经济学家担忧AI投资热潮不可持续的原因。"
+  },
+  {
+   "name": "Stagflation／滞胀",
+   "def": "Stagflation由stagnation（经济停滞）和inflation（通货膨胀）组合而成，指经济增长疲弱甚至停滞，同时物价仍然持续上涨的局面。20世纪70年代，美国曾经历严重的滞胀，石油价格冲击是其中的重要因素之一。滞胀对经济政策制定者尤其棘手，因为通常通过提高利率来抑制通胀，可能进一步削弱经济增长；而通过降低利率刺激经济，又可能加剧物价上涨。文章中经济学家担心，如果AI投资突然降温，同时油价、关税和移民限制继续推高成本，美国就可能面临增长放缓与通胀持续并存的风险。这里描述的是潜在风险，而不是断言美国已经陷入滞胀。"
+  },
+  {
+   "name": "Iran War and Global Oil Prices／伊朗战争与全球石油价格",
+   "def": "文章提到，美国和以色列对伊朗发动军事袭击后，冲突持续数月，并推动全球燃油价格上涨。理解这一现象需要了解霍尔木兹海峡（Strait of Hormuz）：它位于伊朗与阿拉伯半岛之间，是全球最重要的石油运输通道之一，连接波斯湾与阿曼湾。海湾地区的石油和液化天然气运输高度依赖这一通道，因此军事冲突可能使市场担心运输受阻，推动国际能源价格上涨。油价上涨不仅意味着汽车加油更贵，还会提高货物运输、农业生产和工业制造的成本，最终影响食品和日用品价格。2026年伊朗冲突造成的能源价格压力，也是文章解释美国通胀持续的重要背景。Reuters +1"
+  },
+  {
+   "name": "Real Wages and Purchasing Power／实际工资与购买力",
+   "def": "经济学通常区分名义工资（Nominal Wages）和实际工资（Real Wages）。名义工资指劳动者实际收到的货币金额，而实际工资则考虑了通货膨胀的影响，反映工资能够购买多少商品和服务。例如，一个人原本每月收入5000美元，后来工资上涨5%至5250美元，但同期生活成本也上涨5%，那么他的实际购买力基本没有改善。文章提到，自特朗普2025年1月上任以来，美国消费者价格和平均时薪均上涨约5.5%，因此从总体购买力来看，劳动者的状况大致与此前持平。不过，这只是总体平均数据，不同收入群体、地区和家庭的实际感受仍可能存在明显差异。"
+  },
+  {
+   "name": "Federal Reserve and Kevin Warsh／美联储与凯文·沃什",
+   "def": "美联储（Federal Reserve，简称Fed）是美国中央银行体系，主要职责包括维持物价稳定、促进充分就业以及维护金融体系稳定。美联储通过调整政策利率影响借贷成本和经济活动。文章中的Kevin Warsh是2026年担任美联储主席的凯文·沃什。2026年9月，美联储将政策利率上调至3.75%—4.00%的区间，10月则决定暂时维持利率不变。加息通常会使企业和家庭借钱更加昂贵，从而抑制部分消费和投资需求，缓解通胀压力，但也可能增加经济放缓和失业上升的风险。因此，文章将紧缩货币政策形容为治疗通胀的“货币良药”，强调美联储希望在控制物价的同时避免严重伤害就业和经济增长。Reuters +1"
+  },
+  {
+   "name": "30-Year Fixed-Rate Mortgage／美国30年期固定利率住房贷款",
+   "def": "美国购房者广泛使用30年期固定利率住房抵押贷款，即在30年的还款期限内，贷款利率通常保持不变。它与中国部分房贷采用的浮动利率机制有所不同。房贷利率对美国人的购房能力影响非常明显。例如，假设贷款30万美元、期限30年，且不考虑税费和保险，当年利率为3%时，每月本金和利息还款约为1265美元；如果利率上涨至7%，每月还款将增加到约1996美元，相当于每个月多支付730美元左右。与此同时，如果住房供应不足导致房价居高不下，即使居民拥有稳定工作，也可能无法负担买房费用。文章最后强调，高房贷利率与住房供应短缺共同造成的住房负担危机，是美国选民对经济不满的重要原因之一。"
+  }
+ ],
+ "sources_note": "本文选自 Reuters（路透社）报道，由《早安英文》讲解。",
+ "practice": {
+  "intro": "请根据今天学习的外刊，用自己的英语简要复述美国中期选举前的经济状况，以及美国选民对经济不满的原因。要求：至少使用下方提示词中的6个，可以适当改变词形。尽量使用自己的语言，不要直接照抄原文。",
+  "items": [
+   "美国中期选举临近，尽管经济数据显示出一些积极迹象，许多选民仍然对经济状况感到不满。（midterm elections / in a sour mood / economic growth）",
+   "美国失业率处于历史低位，股市上涨，人工智能投资热潮也推动了经济增长。（historically low / stock market / AI investment boom / drive up）",
+   "然而，持续的通货膨胀和不断上涨的生活成本让普通家庭感受到经济压力。（inflation / rising living costs / feel the pinch）",
+   "尽管工资有所上涨，但物价也几乎以相同的速度上涨，因此劳动者的实际购买力并没有明显改善。（wage growth / purchasing power / no better off）",
+   "此外，高房贷利率和住房供应短缺使许多人难以负担购房费用。（mortgage rates / housing shortage / out of reach）",
+   "这说明，良好的宏观经济数据并不一定意味着普通民众对自己的生活感到满意。（macroeconomy / consumer sentiment / confidence）"
+  ],
+  "critical_en": "Why might voters feel unhappy about the economy even when economic indicators such as employment and GDP growth remain strong?",
+  "critical_zh": "为什么即使就业和GDP增长等经济指标表现强劲，选民仍然可能对经济状况感到不满？",
+  "answer": "1. ： As the US midterm elections approach, many voters are in a sour mood about the economy. Although unemployment remains historically low and the AI investment boom has driven up the stock market, inflation continues to make families feel the pinch. Wage growth has barely kept pace with rising prices, leaving workers no better off in terms of purchasing power. Meanwhile, high mortgage rates and a housing shortage have put homeownership out of reach for many Americans. The contrast between strong economic growth and weak consumer sentiment shows why voters remain skeptical about the country’s economic future.<br>参考译文：随着美国中期选举临近，许多选民对经济状况感到不满。尽管失业率仍处于历史低位，人工智能投资热潮也推动了股市上涨，但通货膨胀仍然让普通家庭感受到经济压力。工资增长勉强跟上物价上涨的速度，使劳动者的实际购买力并没有得到改善。与此同时，高房贷利率和住房短缺使许多美国人难以实现购房梦想。强劲的经济增长与低迷的消费者情绪之间的反差，解释了为什么选民仍然对美国经济的未来持怀疑态度。<br><br>2. （选做）I think voters care more about their daily lives than economic statistics. A low unemployment rate does not mean everyone can find a good job, and a rising stock market benefits wealthy households more than ordinary families. When food, fuel and housing remain expensive, people still feel financial pressure. Therefore, strong GDP growth does not necessarily lead to greater consumer confidence or satisfaction.<br>参考译文：我认为，与经济统计数据相比，选民更关心自己的日常生活。低失业率并不意味着每个人都能找到好工作，而股市上涨给富裕家庭带来的好处往往超过普通家庭。当食品、燃油和住房价格仍然高昂时，人们依然会感受到经济压力。因此，强劲的GDP增长并不一定会带来更高的消费者信心或满意度。"
+ },
+ "mindmap": {
+  "aria": "美国中期选举经济情绪悖论思维导图",
+  "alt": "思维导图（3 枝·现象/反证/解释）：中心\"经济情绪悖论·数据向好、选民不满\"；①\"选民的怨气\"（¶1,3）：物价高企、归咎关税+伊朗战争、投票盯经济账；②\"数据的底气\"（¶2,5–6，对比）：失业率4.2%五年最长低位、股市新高+GDP+3.4%+AI投资热；③\"感觉为何骗人\"（¶4,7–9，解释）：购买力原地踏步（工资≈物价、房贷超7%）、情绪比信心更定选举、AI裂缝与滞胀隐患。",
+  "svg": "<svg viewBox=\"0 0 960 446\" xmlns=\"http://www.w3.org/2000/svg\" role=\"img\" aria-label=\"美国中期选举经济情绪悖论思维导图\" style=\"width:100%;height:auto;font-family:-apple-system,'PingFang SC','Hiragino Sans GB','Microsoft YaHei',sans-serif\">\n<rect x=\"24\" y=\"179\" width=\"176\" height=\"88\" rx=\"14\" fill=\"#eae3d2\" stroke=\"#9a8f76\"/>\n<text x=\"112\" y=\"215\" text-anchor=\"middle\" fill=\"#3d3a34\" font-size=\"17\" font-weight=\"700\">经济情绪悖论</text>\n<text x=\"112\" y=\"241\" text-anchor=\"middle\" fill=\"#5c5648\" font-size=\"12.5\">数据向好 · 选民不满</text>\n<path d=\"M200,223 C232,223 232,88 260,88\" stroke=\"#6b8f71\" stroke-width=\"2\" fill=\"none\"/>\n<path d=\"M200,223 C232,223 232,223 260,223\" stroke=\"#7d98ad\" stroke-width=\"2\" fill=\"none\"/>\n<path d=\"M200,223 C232,223 232,358 260,358\" stroke=\"#bd7a6d\" stroke-width=\"2\" fill=\"none\"/>\n<g class=\"mm-branch\" data-target=\"bc1\">\n<rect x=\"260\" y=\"71\" width=\"190\" height=\"34\" rx=\"8\" fill=\"#e6efe7\" stroke=\"#6b8f71\"/>\n<text x=\"355\" y=\"93\" text-anchor=\"middle\" fill=\"#4c6b52\" font-size=\"15\" font-weight=\"700\">选民的怨气（¶1,3）</text>\n<text class=\"mm-arrow\" data-for=\"bc1\" x=\"442\" y=\"93\" text-anchor=\"end\" fill=\"#4c6b52\">▾</text>\n</g>\n<g class=\"mm-children\" id=\"bc1\">\n<path d=\"M450,88 C462,88 462,46 480,46\" stroke=\"#6b8f71\" stroke-width=\"1.5\" fill=\"none\"/>\n<path d=\"M450,88 C462,88 462,88 480,88\" stroke=\"#6b8f71\" stroke-width=\"1.5\" fill=\"none\"/>\n<path d=\"M450,88 C462,88 462,130 480,130\" stroke=\"#6b8f71\" stroke-width=\"1.5\" fill=\"none\"/>\n<rect x=\"480\" y=\"30\" width=\"456\" height=\"32\" rx=\"8\" fill=\"#e6efe7\"/><text x=\"492\" y=\"51\" fill=\"#3d3a34\" font-size=\"14\">物价高企，加油/缴费/吃饭都觉贵</text>\n<rect x=\"480\" y=\"72\" width=\"456\" height=\"32\" rx=\"8\" fill=\"#e6efe7\"/><text x=\"492\" y=\"93\" fill=\"#3d3a34\" font-size=\"14\">归咎关税+伊朗战争推高通胀</text>\n<rect x=\"480\" y=\"114\" width=\"456\" height=\"32\" rx=\"8\" fill=\"#e6efe7\"/><text x=\"492\" y=\"135\" fill=\"#3d3a34\" font-size=\"14\">11/3 投票盯经济账，情绪悲观</text>\n</g>\n<g class=\"mm-branch\" data-target=\"bc2\">\n<rect x=\"260\" y=\"206\" width=\"190\" height=\"34\" rx=\"8\" fill=\"#e5edf4\" stroke=\"#7d98ad\"/>\n<text x=\"355\" y=\"228\" text-anchor=\"middle\" fill=\"#3d5872\" font-size=\"15\" font-weight=\"700\">数据的底气（¶2,5–6）</text>\n<text class=\"mm-arrow\" data-for=\"bc2\" x=\"442\" y=\"228\" text-anchor=\"end\" fill=\"#3d5872\">▾</text>\n</g>\n<g class=\"mm-children\" id=\"bc2\">\n<path d=\"M450,223 C462,223 462,202 480,202\" stroke=\"#7d98ad\" stroke-width=\"1.5\" fill=\"none\"/>\n<path d=\"M450,223 C462,223 462,244 480,244\" stroke=\"#7d98ad\" stroke-width=\"1.5\" fill=\"none\"/>\n<rect x=\"480\" y=\"186\" width=\"456\" height=\"32\" rx=\"8\" fill=\"#e5edf4\"/><text x=\"492\" y=\"207\" fill=\"#3d3a34\" font-size=\"14\">失业率4.2%，五年≤4.5%史上最长</text>\n<rect x=\"480\" y=\"228\" width=\"456\" height=\"32\" rx=\"8\" fill=\"#e5edf4\"/><text x=\"492\" y=\"249\" fill=\"#3d3a34\" font-size=\"14\">股市新高、GDP+3.4%、AI投资热</text>\n</g>\n<g class=\"mm-branch\" data-target=\"bc3\">\n<rect x=\"260\" y=\"341\" width=\"190\" height=\"34\" rx=\"8\" fill=\"#f4e7e4\" stroke=\"#bd7a6d\"/>\n<text x=\"355\" y=\"363\" text-anchor=\"middle\" fill=\"#7c4a3e\" font-size=\"15\" font-weight=\"700\">感觉为何骗人（¶4,7–9）</text>\n<text class=\"mm-arrow\" data-for=\"bc3\" x=\"442\" y=\"363\" text-anchor=\"end\" fill=\"#7c4a3e\">▾</text>\n</g>\n<g class=\"mm-children\" id=\"bc3\">\n<path d=\"M450,358 C462,358 462,316 480,316\" stroke=\"#bd7a6d\" stroke-width=\"1.5\" fill=\"none\"/>\n<path d=\"M450,358 C462,358 462,358 480,358\" stroke=\"#bd7a6d\" stroke-width=\"1.5\" fill=\"none\"/>\n<path d=\"M450,358 C462,358 462,400 480,400\" stroke=\"#bd7a6d\" stroke-width=\"1.5\" fill=\"none\"/>\n<rect x=\"480\" y=\"300\" width=\"456\" height=\"32\" rx=\"8\" fill=\"#f4e7e4\"/><text x=\"492\" y=\"321\" fill=\"#3d3a34\" font-size=\"14\">购买力原地踏步：工资≈物价、房贷超7%</text>\n<rect x=\"480\" y=\"342\" width=\"456\" height=\"32\" rx=\"8\" fill=\"#f4e7e4\"/><text x=\"492\" y=\"363\" fill=\"#3d3a34\" font-size=\"14\">情绪(个人)比信心(宏观)更定选举</text>\n<rect x=\"480\" y=\"384\" width=\"456\" height=\"32\" rx=\"8\" fill=\"#f4e7e4\"/><text x=\"492\" y=\"405\" fill=\"#3d3a34\" font-size=\"14\">隐患：AI支出潮裂缝、滞胀风险</text>\n</g>\n<text x=\"486\" y=\"170\" fill=\"#8a8578\" font-size=\"11.5\">↓ 对比</text>\n<text x=\"486\" y=\"284\" fill=\"#8a8578\" font-size=\"11.5\">↓ 解释</text>\n</svg>",
+  "img": "/Users/malen/.workbuddy/backups/handmap/2026-11-04_经济情绪悖论_手绘3枝.jpg"
+ }
 }
