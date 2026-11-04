@@ -231,6 +231,37 @@ DEMO = {
 }
 
 
+def _preflight_check(outline: dict) -> list:
+    """生图硬闸门（用户 2026-11-04 定）：骨架若像套模板，拒绝生成。
+
+    规则见 scripts/mm-preflight.py 与 MEMORY.md「思维导图硬性流程」。
+    返回 FAIL 列表；空列表＝通过。
+    """
+    fails = []
+    branches = outline.get("branches") or []
+    n = len(branches)
+    subs = [len(b.get("subs") or []) for b in branches]
+    if n < 2:
+        fails.append(f"只有 {n} 枝：至少 2 枝")
+    if n > 6:
+        fails.append(f"{n} 枝过多：说明没归并论证层次，回 S2 合并")
+    if n in (3, 4) and subs and len(set(subs)) == 1 and subs[0] == 3:
+        fails.append(f"疑似模板化：{n} 枝 × 每枝恰好 3 点（{subs}）——枝数/点数必须由原文论证层次得出")
+    if n >= 3 and len(set(subs)) == 1:
+        fails.append(f"各枝子点数完全相同 {subs}：机械凑数，真实论证各枝不等长（如 2/3/1/2）")
+    if n >= 3 and all(not b.get("relation") for b in branches[1:]):
+        fails.append("所有枝都没 relation：没有关系链＝目录不是导图，先判关系（对比/转折/递进/因果/解释）")
+    for i, b in enumerate(branches, 1):
+        t = (b.get("title") or "").strip()
+        if not t:
+            fails.append(f"第 {i} 枝 title 为空")
+        elif len(t) > 7:
+            fails.append(f"第 {i} 枝标题「{t}」{len(t)} 字 > 7：矢量卡片会溢出")
+        if not (b.get("subs") or []):
+            fails.append(f"第 {i} 枝「{t}」没有子点")
+    return fails
+
+
 def main(argv):
     if len(argv) == 3 and argv[1] == "--demo":
         svg = generate(DEMO)
@@ -238,14 +269,27 @@ def main(argv):
             f.write(svg)
         print(f"demo written: {argv[2]} ({len(svg)} bytes)")
         return 0
-    if len(argv) != 3:
+    force = "--force" in argv
+    args = [a for a in argv if not a.startswith("--")]
+    if len(args) != 3:
         print(__doc__)
         return 2
-    outline = json.load(open(argv[1], encoding="utf-8"))
+    outline = json.load(open(args[1], encoding="utf-8"))
+    fails = _preflight_check(outline)
+    if fails and not force:
+        print("✗ 生图闸门未通过（骨架像套模板，禁止生成）：")
+        for f in fails:
+            print("  ✗ " + f)
+        print("\n先按 MEMORY.md「思维导图硬性流程」S1–S5 重做骨架：")
+        print("  python3 scripts/mm-preflight.py " + args[1] + "   # 看骨架表")
+        print("  （确认确实合理才可加 --force 强行生成）")
+        return 3
+    if fails and force:
+        print("⚠ --force：无视闸门强行生成，注意核对骨架是否真由原文得出")
     svg = generate(outline)
-    with open(argv[2], "w", encoding="utf-8") as f:
+    with open(args[2], "w", encoding="utf-8") as f:
         f.write(svg)
-    print(f"written: {argv[2]} ({len(svg)} bytes)")
+    print(f"written: {args[2]} ({len(svg)} bytes)")
     return 0
 
 
