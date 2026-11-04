@@ -1507,6 +1507,7 @@ document.addEventListener('click', function(e){
 });
 /* ===== 逐段朗读 para-audio-v3 ===== */
 var PARA_AUDIO_BASE = 'audio/2026-10-30';
+var PARA_AUDIO_ENABLED = true;   // 预习原文阶段为 false：不注入朗读按钮，避免点开 404
 var paraAudioEl = null, paraPlayingBtn = null;
 function stopParaAudio(){
   if(paraAudioEl){ paraAudioEl.pause(); try{paraAudioEl.currentTime = 0;}catch(e){} }
@@ -1525,6 +1526,7 @@ function toggleParaAudio(btn, n){
   paraPlayingBtn = btn; btn.classList.add('playing');
 }
 (function initParaAudio(){
+  if(!PARA_AUDIO_ENABLED) return;
   var SVG = '<svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8" '
     + 'stroke-linecap="round" stroke-linejoin="round" aria-hidden="true">'
     + '<path d="M11 5 L6.5 9 H3.5 V15 H6.5 L11 19 Z"/>'
@@ -1584,6 +1586,7 @@ function toggleTitleAudio(btn){
   paraPlayingBtn = btn; btn.classList.add('playing');
 }
 (function initTitleAudioV2(){
+  if(!PARA_AUDIO_ENABLED) return;
   var sec = document.getElementById('p-headline');
   if(!sec) return;
   var label = sec.querySelector('.p-label');
