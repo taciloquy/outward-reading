@@ -1,0 +1,31 @@
+{
+  "outline": "scripts/content/outlines/2026-11-04.json",
+  "outline_mtime": 1793757745.8280182,
+  "checked_at": "2026-11-04 10:02:26",
+  "user_confirmed": true,
+  "center": "经济情绪悖论",
+  "branches": [
+    {
+      "title": "选民的怨气",
+      "subs": 3,
+      "relation": null
+    },
+    {
+      "title": "数据的底气",
+      "subs": 2,
+      "relation": "对比"
+    },
+    {
+      "title": "感觉为何骗人",
+      "subs": 3,
+      "relation": "解释"
+    }
+  ],
+  "branch_count": 3,
+  "subs_counts": [
+    3,
+    2,
+    3
+  ],
+  "warns": []
+}

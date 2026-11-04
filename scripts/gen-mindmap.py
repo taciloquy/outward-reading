@@ -26,6 +26,7 @@ gen-mindmap.py — 数据驱动的导图 SVG 生成器（替代「克隆 11-02 �
   python3 scripts/gen-mindmap.py --demo /tmp/mm_demo.svg     # 生成一份可变结构示例
 """
 import json
+import os
 import sys
 from html import escape as _esc
 
@@ -269,13 +270,33 @@ def main(argv):
             f.write(svg)
         print(f"demo written: {argv[2]} ({len(svg)} bytes)")
         return 0
-    force = "--force" in argv
+    # --force 需要额外的环境变量才生效（防手滑绕过闸门）
+    force = "--force" in argv and os.environ.get("MM_FORCE") == "1"
+    if "--force" in argv and not force:
+        print("⚠ --force 被忽略：闸门是硬规则，确实要绕过得同时设 MM_FORCE=1（并说明理由给用户）")
     args = [a for a in argv if not a.startswith("--")]
     if len(args) != 3:
         print(__doc__)
         return 2
     outline = json.load(open(args[1], encoding="utf-8"))
     fails = _preflight_check(outline)
+
+    # 通行证校验：必须先跑 mm-preflight.py，且大纲在那之后没被改动过
+    stamp_path = os.path.abspath(args[1]) + ".pass.json"
+    if not os.path.exists(stamp_path):
+        fails.append(f"没有通行证（{os.path.basename(stamp_path)}）：先跑 "
+                     f"`python3 scripts/mm-preflight.py {args[1]}` 并把骨架表报给用户")
+    else:
+        try:
+            stamp = json.load(open(stamp_path, encoding="utf-8"))
+            if os.path.getmtime(args[1]) > float(stamp.get("outline_mtime", 0)) + 0.001:
+                fails.append("大纲在通过校验之后又被改过（骨架变了但没重跑 preflight）")
+            elif not stamp.get("user_confirmed"):
+                print("⚠ 用户尚未确认骨架（user_confirmed=false）：矢量可出，"
+                      "但**禁止调用 ImageGen**，先把骨架表报给用户并等点头")
+        except Exception as e:
+            fails.append(f"通行证读取失败：{e}")
+
     if fails and not force:
         print("✗ 生图闸门未通过（骨架像套模板，禁止生成）：")
         for f in fails:

@@ -23,7 +23,9 @@ mm-preflight.py — 思维导图「生图前」硬闸门（用户 2026-11-04 强
   F6 center 必须有 main + sub
 """
 import json
+import os
 import sys
+import time
 
 MAX_TITLE = 7
 FAILS, WARNS = [], []
@@ -40,6 +42,7 @@ def warn(msg):
 def main(argv):
     args = [a for a in argv[1:] if not a.startswith("--")]
     quiet = "--quiet" in argv
+    confirm = "--confirm" in argv
     if not args:
         print(__doc__)
         return 2
@@ -95,6 +98,16 @@ def main(argv):
         if not (b.get("subs") or []):
             fail(f"第 {i} 枝「{t}」没有子点")
 
+    # F0 大纲必须落在仓库里（不许放 /tmp 这类临时目录，否则无法追溯、下次没法复核）
+    try:
+        repo_root = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
+        abs_outline = os.path.abspath(path)
+        if not abs_outline.startswith(repo_root + os.sep):
+            fail(f"大纲不在仓库内（{abs_outline}）：必须存到 scripts/content/outlines/ 下，"
+                 f"临时目录的骨架无从追溯")
+    except Exception:
+        repo_root, abs_outline = None, os.path.abspath(path)
+
     # ---- 输出骨架表（生图前必须把这个贴给用户）----
     if not quiet:
         print("=" * 60)
@@ -125,6 +138,31 @@ def main(argv):
 
     if FAILS:
         return 2
+
+    # PASS → 写通行证（gen-mindmap 认这张票；改了骨架没重验就作废）
+    if repo_root:
+        stamp = {
+            "outline": os.path.relpath(abs_outline, repo_root),
+            "outline_mtime": os.path.getmtime(abs_outline),
+            "checked_at": time.strftime("%Y-%m-%d %H:%M:%S"),
+            # 只有用户在对话里点头后才允许带 --confirm 重跑一次，把确认落到文件里
+            "user_confirmed": bool(confirm),
+            "center": center.get("main"),
+            "branches": [{"title": b.get("title"), "subs": len(b.get("subs") or []),
+                          "relation": b.get("relation")} for b in branches],
+            "branch_count": n,
+            "subs_counts": subs_counts,
+            "warns": WARNS,
+        }
+        stamp_path = abs_outline + ".pass.json"
+        with open(stamp_path, "w", encoding="utf-8") as f:
+            json.dump(stamp, f, ensure_ascii=False, indent=2)
+        if not quiet:
+            print(f"通行证已写：{os.path.relpath(stamp_path, repo_root)}"
+                  f"　user_confirmed={bool(confirm)}")
+            if not confirm:
+                print("→ 只允许出矢量；把上面骨架表报给用户，用户点头后再跑一次 --confirm，"
+                      "否则禁止调用 ImageGen")
     return 0
 
 
