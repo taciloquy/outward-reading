@@ -55,7 +55,13 @@ def _pattern(surface):
 
 def find_surface(text, surface, start=0):
     pat = re.compile(_pattern(surface), re.I)
-    m = pat.search(text, start) or pat.search(text)
+    m = pat.search(text, start)
+    if not m and start:
+        # 回退全文搜时必须确保命中点在 start 之后，否则游标会倒退、
+        # 导致 text[pos:m.start()] 切出空串后再拼一遍，成段文字被重复。
+        m2 = pat.search(text)
+        if m2 and m2.start() >= start:
+            m = m2
     return m
 
 
@@ -83,6 +89,26 @@ def auto_mark(text, cards, overrides=None):
         pos = m.end()
     out.append(text[pos:])
     return ''.join(out), missing
+
+
+def order_cards_by_position(text, cards, marks_pairs=None):
+    """按词卡在正文中首次出现的位置重排；marks 的「词→写法」随卡片一起重排。
+
+    返回 (cards_sorted, marks_pairs_sorted)。任何一张卡在正文里找不到时保持原顺序，
+    交给 auto_mark 报错，避免把真正的问题掩盖掉。
+    """
+    pos = []
+    for c in cards:
+        m = find_surface(text, c['w'], 0)
+        pos.append(m.start() if m else None)
+    if any(p is None for p in pos):
+        return cards, marks_pairs
+    order = sorted(range(len(cards)), key=lambda i: pos[i])
+    cards2 = [cards[i] for i in order]
+    if not marks_pairs:
+        return cards2, marks_pairs
+    surf = {w: s for w, s in marks_pairs}
+    return cards2, [[c['w'], surf.get(c['w'], c['w'])] for c in cards2]
 
 
 def card_out(c):
@@ -130,7 +156,10 @@ def main():
         en = overrides.get(str(n), p['en'])
         if str(n) in overrides:
             print(f'  · 第 {n} 段用配置里的原文覆盖（PDF 抽取有误）')
-        html, miss = auto_mark(en, cards, marks.get(str(n)))
+        # PDF 词卡偶有不按正文出现顺序排列（如把短语卡放段末），
+        # 这里按各卡在正文中的首次出现位置重排，marks 的「词→写法」映射随之重排。
+        cards, marks_n = order_cards_by_position(en, cards, marks.get(str(n)))
+        html, miss = auto_mark(en, cards, marks_n)
         if miss:
             problems.append((n, miss))
         paras.append({'en_html': html, 'zh': tidy(p['zh']), 'notes': cards})

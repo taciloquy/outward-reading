@@ -1,0 +1,192 @@
+{
+  "date": "2026-11-05",
+  "h1": "徒步28载：英国老兵走遍世界，终返家乡受英雄礼遇",
+  "category": "英国《卫报》外刊讲解 第1219天",
+  "source_label": "The Guardian",
+  "read_minutes": 18,
+  "nav_hint": "28-year walk across the world",
+  "headline_en": "‘It’s been a while’: hero’s welcome for UK man after 28-year walk across the world",
+  "headline_html": "‘It’s been <mark class=\"voc\">a while</mark>’: <mark class=\"voc\">hero’s welcome</mark> for UK man after 28-year walk across the world|Former <mark class=\"voc\">paratrooper</mark> Karl Bushby arrives back in Hull and becomes first person to walk <mark class=\"voc\">continuously</mark> across planet",
+  "headline_zh": "“有一阵子了”——一个英国男人，徒步横穿了整个世界，用了 28 年；当他终于回到家乡，整座城像迎接英雄一样，为他夹道欢呼。",
+  "sources_note": "本文选自 The Guardian（英国《卫报》）报道，由《早安英文》讲解。",
+  "practice_intro": "请将以下中文句子翻译为英文（参考答案见后）。",
+  "critical_en": "",
+  "critical_zh": "",
+  "mindmap": {
+    "template": "scripts/content/2026-11-04.json",
+    "aria": "英国老兵28年徒步走遍世界终返家乡思维导图",
+    "alt": "徒步28载（手绘版）",
+    "repl": []
+  },
+  "marks": {
+    "1": [
+      [
+        "odyssey",
+        "odyssey"
+      ],
+      [
+        "spanning",
+        "spanning"
+      ],
+      [
+        "face down",
+        "facing down"
+      ],
+      [
+        "a spell",
+        "a spell"
+      ],
+      [
+        "longsuffering",
+        "longsuffering"
+      ],
+      [
+        "sob",
+        "sob"
+      ],
+      [
+        "a mix of",
+        "a mix of"
+      ],
+      [
+        "the odd",
+        "the odd"
+      ]
+    ],
+    "3": [
+      [
+        "set off",
+        "set off"
+      ],
+      [
+        "stick by",
+        "stuck by"
+      ],
+      [
+        "feat",
+        "feat"
+      ],
+      [
+        "advance",
+        "advance"
+      ],
+      [
+        "trek",
+        "trek"
+      ],
+      [
+        "keen on",
+        "keen on"
+      ],
+      [
+        "as hell",
+        "as hell"
+      ]
+    ],
+    "6": [
+      [
+        "stride",
+        "strode"
+      ],
+      [
+        "folk hero",
+        "folk hero"
+      ],
+      [
+        "dozens of",
+        "dozens of"
+      ],
+      [
+        "navigate",
+        "navigate"
+      ],
+      [
+        "a little lost",
+        "a little lost"
+      ],
+      [
+        "point the way",
+        "point the way"
+      ],
+      [
+        "keep sb waiting",
+        "keep you all waiting"
+      ]
+    ],
+    "7": [
+      [
+        "trolley",
+        "trolley"
+      ],
+      [
+        "dub",
+        "dub"
+      ],
+      [
+        "laden with",
+        "laden with"
+      ],
+      [
+        "embrace",
+        "embrace"
+      ],
+      [
+        "hang in there",
+        "hanging in there"
+      ],
+      [
+        "whisk",
+        "whisk"
+      ],
+      [
+        "festooned with",
+        "festooned with"
+      ],
+      [
+        "reunite",
+        "reunite"
+      ]
+    ],
+    "9": [
+      [
+        "MP",
+        "MP"
+      ],
+      [
+        "congratulate sb on sth",
+        "congratulated Bushby on his"
+      ],
+      [
+        "remarkable",
+        "remarkable"
+      ],
+      [
+        "barely",
+        "barely"
+      ],
+      [
+        "determination",
+        "determination"
+      ],
+      [
+        "self-belief",
+        "self-belief"
+      ]
+    ],
+    "10": [
+      [
+        "usher",
+        "usher"
+      ],
+      [
+        "I'll be seeing you around",
+        "I’ll be seeing you around"
+      ]
+    ]
+  },
+  "paragraph_overrides": {
+    "1": "After a 28-year odyssey spanning 29 countries, 36,000 miles, facing down polar bears, kidnappers and a spell in Russian custody, Karl Bushby was finally back in the arms of his longsuffering mother, Angela. “Where have I been?” he joked as Angela sobbed into his chest with a mix of relief, pride and no doubt the odd sleepless night.",
+    "2": "Surrounded by television cameras and with a Sky News helicopter overhead, the 57-year-old was given a hero’s welcome as he completed his record-breaking voyage on foot from Punta Arenas in Chile, the southernmost city on the South American continent, to his home town of Hull on Monday. “There has never been a welcome home quite like this, I’m sure,” said Bushby, shaking his head in disbelief as he greeted a crowd of well-wishers in the city’s Queen Victoria Square. “This is absolutely madness.”",
+    "5": "The voyage took him across the frozen sea of the Bering strait between Alaska and Russia and across the notorious Darién Gap in Central America. He described last month how he had been threatened at gunpoint, faced down a polar bear, was convicted of being a spy, and been held in custody in Russia and sentenced to deportation."
+  }
+}

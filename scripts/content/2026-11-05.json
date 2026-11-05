@@ -1,74 +1,764 @@
 {
  "date": "2026-11-05",
- "title_tag": "徒步28载：英国老兵走遍世界，终返家乡受英雄礼遇 —— 英国《卫报》外刊讲解第1219天",
+ "title_tag": "徒步28载：英国老兵走遍世界，终返家乡受英雄礼遇—— 英国《卫报》外刊讲解第1219天",
  "h1": "徒步28载：英国老兵走遍世界，终返家乡受英雄礼遇",
  "source_label": "The Guardian",
  "category": "英国《卫报》外刊讲解 第1219天",
- "read_minutes": 16,
+ "read_minutes": 18,
  "nav_hint": "28-year walk across the world",
  "headline": {
-  "en_html": "<span>'It's been a while': hero's welcome for UK man after 28-year walk across the world</span> <span>Former paratrooper Karl Bushby arrives back in Hull and becomes first person to walk continuously across planet</span>",
-  "zh": "",
-  "notes": []
+  "en_html": "‘It’s been <mark class=\"voc\">a while</mark>’: <mark class=\"voc\">hero’s welcome</mark> for UK man after 28-year walk across the world|Former <mark class=\"voc\">paratrooper</mark> Karl Bushby arrives back in Hull and becomes first person to walk <mark class=\"voc\">continuously</mark> across planet",
+  "zh": "“有一阵子了”——一个英国男人，徒步横穿了整个世界，用了 28 年；当他终于回到家乡，整座城像迎接英雄一样，为他夹道欢呼。",
+  "notes": [
+   {
+    "w": "a while",
+    "ipa": "/ə waɪl/",
+    "pos": "n. phrase",
+    "en": "a while means a period of time, especially a short one",
+    "zh": "\"一小段时间\"（while 源自古英语hwil，本义\"一段时间、片刻\"），口语语境核心义为一会儿、一阵子",
+    "ctx": "",
+    "ex1": "It's been a while since we last met. Let's grab coffee and catch up. 自从我们上次见面，已经有一阵子了。咱们去喝杯咖啡叙叙旧吧。",
+    "ex2": "Let's wait a while and see if the weather clears up before we head out. 我们再等一会儿，看天气会不会转好，再出门。"
+   },
+   {
+    "w": "hero's welcome",
+    "ipa": "/ˈhɪərəʊz ˈwelkəm/",
+    "pos": "n. phrase",
+    "en": "a hero's welcome means a grand and enthusiastic reception given to someone regarded as a hero",
+    "zh": "\"英雄式的欢迎\"（hero 英雄+ welcome 欢迎），场面语境核心义为凯旋式的欢迎、万人空巷的迎接",
+    "ctx": "",
+    "ex1": "The soldiers returned home to a hero's welcome from the whole town. 士兵们回到家乡，受到了全镇英雄式的欢迎。",
+    "ex2": "The young gymnast was given a hero's welcome when she came back with the gold. 这位年轻的体操选手带着金牌归来时，受到了英雄式的欢迎。"
+   },
+   {
+    "w": "paratrooper",
+    "ipa": "/ˈpærətruːpə/",
+    "pos": "n.",
+    "en": "a paratrooper is a soldier trained to jump out of an aircraft using a parachute",
+    "zh": "\"从天而降的士兵\"（para- 挡、防护+ trooper 士兵；parachute 挡坠落、 parasol 挡太阳，同一个para-），军旅语境核心义为伞兵、空降兵",
+    "ctx": "作者在副标题一上来就点他\"前伞兵\"的身份，是要交代他\"能扛\"的底子——受过世界上最硬的体能训练。一个\"前\"字还藏着全文暗线：他本可安稳度日，却偏选了最难的一条路",
+    "ex1": "He served as a paratrooper for more than a decade before leaving the army. 他在离开军队前，当了十多年伞兵。",
+    "ex2": "Only the fittest recruits are selected for paratrooper training. 只有体能最好的新兵才会被选中接受伞兵训练。"
+   },
+   {
+    "w": "continuously",
+    "ipa": "/kənˈtɪnjuəsli/",
+    "pos": "adv.",
+    "en": "continuously means without stopping or being interrupted",
+    "zh": "\"连续地、不间断地\"（continue 继续+ -ous + -ly），纪录语境核心义为一步不断、中间没有停顿地",
+    "ctx": "",
+    "ex1": "He walked continuously for eighteen hours before finally resting. 他一连走了十八个小时才停下来休息。",
+    "ex2": "It rained continuously for three days, and the streets were flooded. 雨连下了三天没停，街道都淹了。"
+   }
+  ]
  },
  "paragraphs": [
   {
-   "en_html": "<span>After a 28-year odyssey spanning 29 countries, 36,000 miles, facing down polar  bears, kidnappers and a spell in Russian custody, Karl Bushby was finally back  in the arms of his longsuffering mother, Angela. “Where have I been?” he joked  as Angela sobbed into his chest with a mix of relief, pride and no doubt the odd  sleepless night.</span>",
-   "zh": "",
-   "notes": []
+   "en_html": "After a 28-year <mark class=\"voc\">odyssey</mark> <mark class=\"voc\">spanning</mark> 29 countries, 36,000 miles, <mark class=\"voc\">facing down</mark> polar bears, kidnappers and <mark class=\"voc\">a spell</mark> in Russian custody, Karl Bushby was finally back in the arms of his <mark class=\"voc\">longsuffering</mark> mother, Angela. “Where have I been?” he joked as Angela <mark class=\"voc\">sob</mark>bed into his chest with <mark class=\"voc\">a mix of</mark> relief, pride and no doubt <mark class=\"voc\">the odd</mark> sleepless night.",
+   "zh": "一场历时28年、横跨29国、3.6万英里的\"奥德赛\"式远征——途中他直面过北极熊，遭遇过绑匪，还曾在俄罗斯被拘留过一阵——卡尔·布什比终于回到了他那任劳任怨、苦等他多年的母亲安吉拉的怀抱。\"我去哪儿了？\"他这样打趣道；而安吉拉扑在他胸口抽泣着，满心交织着如释重负、骄傲，还有那——用作者的话说\"偶尔\"的——彻夜难眠。",
+   "notes": [
+    {
+     "w": "odyssey",
+     "ipa": "/ˈɒdəsi/",
+     "pos": "n.",
+     "en": "an odyssey means a long journey full of adventures and difficulties",
+     "zh": "\"史诗般的远征\"（源自古希腊荷马史诗《奥德赛》，主人公奥德修斯在海上漂流十年才回家），叙事语境核心义为漫长而充满艰险的旅程",
+     "ctx": "作者不用journey、trip，偏用odyssey，是要把这个走了28 年的普通人直接抬到古希腊史诗英雄的高度——奥德修斯海上漂十年才回家，布什比在路上走 28 年才回家。trip 是短途、journey 是一段路、voyage 是海上航行，只有odyssey 配得上这场\"史诗\"",
+     "ex1": "His decade-long odyssey across Asia finally ended back in his hometown. 他那历时十年的亚洲远征，最终在家乡画上了句号。",
+     "ex2": "The film follows one man's odyssey from poverty to stardom. 这部电影讲述了一个人从贫穷走向成名的漫漫征途。"
+    },
+    {
+     "w": "spanning",
+     "ipa": "/ˈspænɪŋ/",
+     "pos": "v. (present participle)",
+     "en": "spanning means extending across a particular area or period of time",
+     "zh": "\"横跨\"（span 本义是张开拇指到小指的距离，引申为跨度），空间与时间语境核心义为跨越、涵盖",
+     "ctx": "",
+     "ex1": "Her career, spanning four decades, has touched every corner of the industry. 她横跨四十年的职业生涯，触及了这个行业的每个角落。",
+     "ex2": "A new bridge spanning the bay will open next year. 一座横跨海湾的新桥将于明年通车。"
+    },
+    {
+     "w": "face down",
+     "ipa": "/feɪs daʊn/",
+     "pos": "phrasal v.",
+     "en": "face down means to confront and overcome someone or something by showing courage",
+     "zh": "\"正面顶住\"（face 面对+ down 压下去），勇敢语境核心义为直面、正面硬刚",
+     "ctx": "与中性的face 不同，face down 多了一层\"硬气\"——面对比你强大的东西，不退、不躲，正面顶住它。face down a polar bear，在冰天雪地里迎面撞上北极熊，他没跑，正面顶住了",
+     "ex1": "She managed to face down her fears and give the speech. 她终于鼓起勇气直面恐惧，作了那场演讲。",
+     "ex2": "The union faced down the company and won better conditions. 工会正面顶住了公司，争取到了更好的待遇。"
+    },
+    {
+     "w": "a spell",
+     "ipa": "/ə spel/",
+     "pos": "n. phrase",
+     "en": "a spell means a period of time, especially one that is fairly short",
+     "zh": "\"一小段时间\"（spell 在英式英语里另有一义\"一段时间\"，与拼写、咒语无关），时间语境核心义为一阵子、一段时间",
+     "ctx": "英式用法里的熟词僻义——a spell 不是\"拼写\"也不是\"咒语\"，而是\"一小段时间\"。a spell in Russian custody 就是在俄罗斯被拘留的一段时间。注意区分： spell 拼写/ spell 咒语/ a spell 一阵子",
+     "ex1": "He spent a spell in hospital after the accident.事故之后，他在医院待了一阵子。",
+     "ex2": "We had a spell of heavy rain that lasted nearly a week.我们经历了一阵持续近一周的暴雨。"
+    },
+    {
+     "w": "longsuffering",
+     "ipa": "/ˌlɒŋˈsʌfərɪŋ/",
+     "pos": "adj.",
+     "en": "longsuffering means patiently putting up with a lot of trouble or pain over a long time",
+     "zh": "\"长期默默忍受的\"（long 长+ suffering 受苦），人物描写语境核心义为任劳任怨的、苦等多时的",
+     "ctx": "",
+     "ex1": "His longsuffering wife finally persuaded him to see a doctor. 他那任劳任怨的妻子终于劝动了他去看医生。",
+     "ex2": "After years of waiting, the longsuffering fans finally saw their team win. 苦等多年之后，这些老球迷终于看到了自己主队夺冠。"
+    },
+    {
+     "w": "sob",
+     "ipa": "/sɒb/",
+     "pos": "v.",
+     "en": "sob means to cry noisily while taking in sudden, deep breaths",
+     "zh": "\"抽泣、呜咽\"（拟声词，源自哭泣时急促呼吸的声音），情感语境核心义为抽噎、哭得浑身发抖",
+     "ctx": "",
+     "ex1": "She sobbed into his shoulder, unable to say a word.她扑在他肩头抽泣，一句话也说不出来。",
+     "ex2": "The child was sobbing loudly after losing his toy.孩子丢了玩具，放声抽泣。"
+    },
+    {
+     "w": "a mix of",
+     "ipa": "/ə mɪks əv/",
+     "pos": "n. phrase",
+     "en": "a mix of means a combination of two or more different things or feelings",
+     "zh": "\"……的混合\"（mix 混合+ of），情感语境核心义为种种……交织、百感交集",
+     "ctx": "写\"心情复杂、百感交集\"的黄金句式a mix of A, B and C。这里混着三种情绪——relief 如释重负、pride 骄傲、还有the odd sleepless night 那\"偶尔\"的不眠夜",
+     "ex1": "She felt a mix of relief and sadness as the long journey came to an end. 漫长的旅程结束时，她心里交织着如释重负与伤感。",
+     "ex2": "The dish is a mix of sweet, sour and spicy flavours. 这道菜是甜、酸、辣三种味道的混合。"
+    },
+    {
+     "w": "the odd",
+     "ipa": "/ði ɒd/",
+     "pos": "det. phrase",
+     "en": "the odd + singular noun means a few or occasional ones, not regular",
+     "zh": "\"偶尔的、零星的\"（odd 在此不是\"奇怪\"也不是\"奇数\"，而是英式\"偶尔的\"），口语语境核心义为偶尔的、零星的",
+     "ctx": "中国学生最容易踩的坑。odd 有三义：奇怪的（an odd smell 一股怪味）、奇数（odd numbers）、以及这里的\"偶尔的\"（the odd cigarette 偶尔抽的一根烟）。the odd sleepless night 不是\"奇怪的不眠夜\"，而是\"偶尔几个睡不着的夜晚\"——作者又在轻描淡写：28 年的担惊受怕，被说成\"偶尔失眠\"",
+     "ex1": "He still has the odd cigarette, though he has mostly quit. 他偶尔还会抽上一根烟，尽管已经基本戒了。",
+     "ex2": "We get the odd phone call from old customers now and then. 我们时不时还会接到老客户打来的零星电话。"
+    }
+   ]
   },
   {
-   "en_html": "<span>Surrounded by television cameras and with a Sky News helicopter overhead,  the 57-year-old was given a hero’s welcome as he completed his record- breaking voyage on foot from Punta Arenas in Chile, the southernmost city on  the South American continent, to his home town of Hull on Monday. “There has  never been a welcome home quite like this, I’m sure,” said Bushby, shaking his  head in disbelief as he greeted a crowd of well-wishers in the city’s Queen  Victoria Square. “This is absolutely madness.”</span>",
-   "zh": "",
-   "notes": []
+   "en_html": "<mark class=\"voc\">Surrounded by</mark> television cameras and with a Sky News helicopter overhead, the 57-year-old was given a hero’s welcome as he completed his <mark class=\"voc\">record-breaking</mark> voyage <mark class=\"voc\">on foot</mark> from Punta Arenas in Chile, the southernmost city on the South American continent, to his home town of Hull on Monday. “There has never been a welcome home quite like this, I’m sure,” said Bushby, shaking his head <mark class=\"voc\">in disbelief</mark> as he greeted a crowd of <mark class=\"voc\">well-wishers</mark> in the city’s Queen Victoria Square. “This is absolutely <mark class=\"voc\">madness</mark>.”",
+   "zh": "周围架满了电视摄像机，头顶上还有天空新闻台的直升机在盘旋——这位57岁的男人，在周一步行完成他那趟破纪录的远征、从智利的蓬塔阿雷纳斯（南美大陆最南端的城市）走回他的家乡赫尔时，受到了一场英雄式的欢迎。\"我敢说，从来没有过这样的欢迎回家。\"布什比说着，一边难以置信地摇着头，一边回应着维多利亚女王广场上那群前来祝福的人。\"这绝对是疯了。\"",
+   "notes": [
+    {
+     "w": "surrounded by",
+     "ipa": "/səˈraʊndɪd baɪ/",
+     "pos": "v. phrase",
+     "en": "surrounded by means having something or someone all around you",
+     "zh": "\"被……团团围住\"（surround 包围+ -ed 被动），场面语境核心义为被……围绕、被……簇拥",
+     "ctx": "",
+     "ex1": "The winner was immediately surrounded by reporters and photographers. 获胜者立刻被记者和摄影师团团围住。",
+     "ex2": "She felt lonely even when surrounded by people. 即便身处人群之中，她仍感到孤独。"
+    },
+    {
+     "w": "record-breaking",
+     "ipa": "/ˈrekɔːd ˌbreɪkɪŋ/",
+     "pos": "adj.",
+     "en": "record-breaking means better, faster or bigger than any previous record",
+     "zh": "\"打破纪录的\"（record 纪录+ breaking 打破），成就语境核心义为破纪录的、创纪录的",
+     "ctx": "复合形容词。把\"纪录\"这一家子一起记：break a record 破纪录、set a record 创纪录、a record-breaking voyage 破纪录的旅程。voyage 本义是\"海上航行\"，这里泛化为\"史诗般的探索之旅\"，和第1 段的odyssey 一起，反复提醒你这不是普通旅行",
+     "ex1": "It was a record-breaking year for the company, with profits up forty per cent. 对公司而言这是创纪录的一年，利润上涨了四成。",
+     "ex2": "She completed the race in record-breaking time.她以破纪录的成绩完成了比赛。"
+    },
+    {
+     "w": "on foot",
+     "ipa": "/ɒn fʊt/",
+     "pos": "adv. phrase",
+     "en": "on foot means walking, rather than using a vehicle",
+     "zh": "\"步行、靠脚走\"（foot 脚，前面用on），出行语境核心义为徒步",
+     "ctx": "考点是介词——是on foot，不是by foot。记规律：脚前面用on，交通工具前面用by（by car、by bus、by train、by plane）。这是中国学生最常出错的搭配之一",
+     "ex1": "We decided to explore the old town on foot rather than by taxi. 我们决定步行游览老城区，而不是打车。",
+     "ex2": "He crossed the entire country on foot over the course of a year. 他用一年时间，徒步穿越了整个国家。"
+    },
+    {
+     "w": "in disbelief",
+     "ipa": "/ɪn ˌdɪsbɪˈliːf/",
+     "pos": "adv. phrase",
+     "en": "in disbelief means unable to believe something because it is so surprising",
+     "zh": "\"处于不敢相信的状态\"（dis- 不+ belief 相信），情绪语境核心义为难以置信地",
+     "ctx": "",
+     "ex1": "Fans stared in disbelief as their team scored in the final second. 球迷们难以置信地盯着，看自家球队在最后一秒破门。",
+     "ex2": "She shook her head in disbelief at the news. 听到这个消息，她难以置信地摇了摇头。"
+    },
+    {
+     "w": "well-wisher",
+     "ipa": "/ˈwel wɪʃə/",
+     "pos": "n.",
+     "en": "a well-wisher is a person who wishes good things for someone, especially by attending an event or sending a message",
+     "zh": "\"祝愿你好的人\"（well 好+ wish 祝愿+ -er 人），人际语境核心义为前来祝福的人、祝福者",
+     "ctx": "",
+     "ex1": "Hundreds of well-wishers gathered outside the hospital to show their support. 数百名祝福者聚集在医院外表达支持。",
+     "ex2": "The couple thanked the well-wishers who had sent cards and flowers. 这对夫妇感谢了那些寄来贺卡和鲜花的祝福者。"
+    },
+    {
+     "w": "madness",
+     "ipa": "/ˈmædnəs/",
+     "pos": "n.",
+     "en": "madness means something that is completely crazy or unreasonable",
+     "zh": "\"疯狂\"（mad 疯的+ -ness 名词后缀），口语语境核心义为太疯狂了、简直是疯了",
+     "ctx": "考点是mad 是抽象名词、不可数，前面不加a——是This is madness，不是a madness。这是全段情绪顶点：一个独自行走28 年的孤独的人，突然被直升机、摄像机、人山人海包围，千言万语最后崩出一句\"这绝对是疯了\"",
+     "ex1": "Driving home through that storm was sheer madness. 顶着那场暴风雨开车回家，简直是疯了。",
+     "ex2": "\"Standing here, all this, it's absolute madness,\" he kept saying. \"站在这儿，这一切，太疯狂了。\"他不停地念叨。"
+    }
+   ]
   },
   {
-   "en_html": "<span>It has been 28 years since Bushby, then aged 29, left the army to walk the world  on what he intended to be a 12-year journey. He finally crossed a misty Humber  Bridge back to the city on Sunday – on the same date he set off in 1998. In that  time he has stuck by two simple rules: not to return home until he had fully  completed his feat, and not to use transport to advance. In all, he walked 36,000  miles across four continents, a frozen sea, deserts, jungles and mountains.  Quite a trek for a man not keen on walking. “It’s boring as hell,” he told the  Guardian last month.</span>",
-   "zh": "",
-   "notes": []
+   "en_html": "It has been 28 years since Bushby, then aged 29, left the army to walk the world on what he intended to be a 12-year journey. He finally crossed a misty Humber Bridge back to the city on Sunday – on the same date he <mark class=\"voc\">set off</mark> in 1998. In that time he has <mark class=\"voc\">stuck by</mark> two simple rules: not to return home until he had fully completed his <mark class=\"voc\">feat</mark>, and not to use transport to <mark class=\"voc\">advance</mark>. In all, he walked 36,000 miles across four continents, a frozen sea, deserts, jungles and mountains. Quite a <mark class=\"voc\">trek</mark> for a man not <mark class=\"voc\">keen on</mark> walking. “It’s boring <mark class=\"voc\">as hell</mark>,” he told the Guardian last month.",
+   "zh": "自从布什比——当时才29岁——离开军队、踏上他那原计划12年的徒步环游世界之旅，已经过去了28年。周日，他终于走过雾蒙蒙的亨伯桥，回到了这座城市——而这一天，恰好就是他1998年出发的同一天。这28年里，他一直守着两条再简单不过的规矩：一，不彻底完成这项壮举，绝不回家；二，绝不用任何交通工具来推进行程。加起来，他徒步走过了3.6万英里，横穿四大洲，走过一片冰封的海、沙漠、丛林和群山。对一个并不爱走路的人来说，这真是一段了不起的跋涉。\"无聊透顶了。\"上个月接受《卫报》采访时，他这样说。",
+   "notes": [
+    {
+     "w": "set off",
+     "ipa": "/set ɒf/",
+     "pos": "phrasal v.",
+     "en": "set off means to begin a journey",
+     "zh": "\"出发、动身\"（set 安放+ off 离开），出行语境核心义为启程、出发（本文特指：与set out 同义，都表\"出发\"。on the same date he set off in 1998——他 1998 年出发的那一天，和28 年后走回家的那一天，是同一天。这个细节藏着宿命感：命运给他画了一个闭环）",
+     "ctx": "",
+     "ex1": "They set off for the coast at dawn to avoid the traffic. 他们天一亮就出发去海边，以避开交通拥堵。",
+     "ex2": "He set off on his journey with little more than a backpack and a map. 他背着一个背包、揣着一张地图就出发了。"
+    },
+    {
+     "w": "stick by",
+     "ipa": "/stɪk baɪ/",
+     "pos": "phrasal v.",
+     "en": "stick by means to continue to support or be loyal to a person or principle",
+     "zh": "\"不离不弃、坚守到底\"（stick 粘住+ by 在旁），忠诚语境核心义为坚守、对……不离不弃",
+     "ctx": "与stick to 的区别——stick to 是\"坚持（计划、决定、习惯）\"，stick by 是\"对（人、原则）不离不弃\"。stuck by two rules 不是\"坚持做某件事\"，而是\"对这两条规矩，28 年一条都没破\"。这个by 比to 多一层\"信守\"的忠诚感",
+     "ex1": "Through all the difficulties, she stuck by her friends. 经历了所有困难，她对朋友们始终不离不弃。",
+     "ex2": "He stuck by his principles even when it cost him his job. 即便因此丢了工作，他仍坚守自己的原则。"
+    },
+    {
+     "w": "feat",
+     "ipa": "/fiːt/",
+     "pos": "n.",
+     "en": "a feat means an impressive and difficult act or achievement",
+     "zh": "\"壮举、了不起的功绩\"（源自古法语fait\"做成的事\"，与fact\"事实\"同根——都是\"做\"出来的），成就语境核心义为壮举",
+     "ctx": "与achievement（成就，中性）、accomplishment（完成的事）相比， feat 语气最重，强调\"难到让人佩服\"。作者用feat，是在告诉你这件事是\"壮举\"级别，不是普通成就。黄金搭配no mean feat 绝非易事",
+     "ex1": "Completing the marathon in under three hours is no mean feat. 三小时内跑完马拉松，绝非易事。",
+     "ex2": "Landing on the moon remains one of humanity's greatest feats. 登月至今仍是人类最伟大的壮举之一。"
+    },
+    {
+     "w": "advance",
+     "ipa": "/ədˈvɑːns/",
+     "pos": "v.",
+     "en": "advance means to move forward",
+     "zh": "\"向前推进\"（源自拉丁语abante\"在前\"），行进语境核心义为前进、推进",
+     "ctx": "熟词僻义——很多人一看到advance 就想到\"进步\"，卡住了。这里的 advance 不是\"进步\"，是\"向前推进（行程）\"。use transport to advance 就是\"用交通工具让自己往前赶路\"，这正是他立誓不做的事",
+     "ex1": "The hikers advanced slowly through the deep snow. 徒步者在深雪中缓慢前行。",
+     "ex2": "The army advanced across the plain at dawn. 军队拂晓时分穿过平原向前推进。"
+    },
+    {
+     "w": "trek",
+     "ipa": "/trek/",
+     "pos": "n.",
+     "en": "a trek means a long and difficult journey, especially one made on foot",
+     "zh": "\"艰苦的长途跋涉\"（源自古荷兰语trekken\"拉、拽\"，引申为苦行般的行走），出行语境核心义为跋涉、艰苦的徒步",
+     "ctx": "语感分级——walk 普通走、hike 徒步远足、trek 最重，是\"翻山越岭、苦哈哈的长途跋涉\"，自带一股苦味。Quite a trek for a man not keen on walking——作者在这里\"损\"他：一个不爱走路的人，走了3.6 万英里",
+     "ex1": "The journey involved a three-day trek through the jungle. 这趟旅程包括穿越丛林的三天跋涉。",
+     "ex2": "It was quite a trek to get to the cabin in the snow. 冒着大雪走到那间小屋，真是一段不轻松的跋涉。"
+    },
+    {
+     "w": "keen on",
+     "ipa": "/kiːn ɒn/",
+     "pos": "adj. phrase",
+     "en": "keen on means very interested in or enthusiastic about something",
+     "zh": "\"热衷于\"（keen 敏锐的、热切的+ on），兴趣语境核心义为喜欢、热衷于",
+     "ctx": "not keen on walking 不喜欢走路。be keen on something 是英式口语里的高频表达，问\"你对……感兴趣吗\"就可以说Are you keen on...?。整句\"一个不爱走路的人走了28 年\"，是全文第一个反差幽默点",
+     "ex1": "He is very keen on photography and carries his camera everywhere. 他非常热爱摄影，走到哪儿都带着相机。",
+     "ex2": "I'm not keen on driving at night, especially in the rain. 我不喜欢夜里开车，尤其是下雨天。"
+    },
+    {
+     "w": "as hell",
+     "ipa": "/æz hel/",
+     "pos": "adv. phrase",
+     "en": "as hell is used after an adjective to emphasise it, meaning extremely",
+     "zh": "\"像地狱一样\"（as 如同+ hell 地狱，表程度拉满），口语强调语境核心义为极其、……得要命",
+     "ctx": "地道口语的加强语气。能配各种词：cold as hell 冷得要命、tired as hell 累得要死、sure as hell 千真万确。It's boring as hell——无聊透顶。走了28 年的史诗，他只用俩字总结：\"无聊\"",
+     "ex1": "It's cold as hell out here; let's go back inside. 外面冷得要命，我们回屋里去吧。",
+     "ex2": "I'm tired as hell after working a twelve-hour shift. 连上了十二小时的班，我累得要死。"
+    }
+   ]
   },
   {
-   "en_html": "<span>His return on Monday will make Bushby the first person to have walked  continuously across the world, visiting 29 countries, having already exceeded  the record for the longest unbroken foot journey (far outstripping the 25,000- mile circumference of the world).</span>",
-   "zh": "",
-   "notes": []
+   "en_html": "His return on Monday will make Bushby the first person to have walked continuously across the world, visiting 29 countries, having already exceeded the record for the longest <mark class=\"voc\">unbroken</mark> foot journey (<mark class=\"voc\">far outstripping</mark> the 25,000-mile <mark class=\"voc\">circumference</mark> of the world).",
+   "zh": "周一的归来，将让布什比成为史上第一个“连续徒步横穿世界”的人——他途经29个国家，早已打破了“最长不间断徒步”的纪录（远远超过了绕地球一圈的2.5万英里）。",
+   "notes": [
+    {
+     "w": "unbroken",
+     "ipa": "/ʌnˈbrəʊkən/",
+     "pos": "adj.",
+     "en": "unbroken means not interrupted or broken",
+     "zh": "\"没断过的\"（un- 不+ broken 断的），纪录语境核心义为不间断的、未被打破的",
+     "ctx": "与continuously 同义，作者翻来覆去就是强调一件事——这条纪录的含金量全在\"不断\"二字。记几个搭配：a broken leg 一条断腿、an unbroken record 一个还没被打破的纪录、unbroken sleep 一夜没醒",
+     "ex1": "She slept for eight unbroken hours for the first time in weeks. 几周来，她第一次一口气睡满了八个小时。",
+     "ex2": "The record has remained unbroken for over twenty years. 这项纪录二十多年来一直未被打破。"
+    },
+    {
+     "w": "far outstripping",
+     "ipa": "/fɑː aʊtˈstrɪpɪŋ/",
+     "pos": "v. phrase",
+     "en": "far outstripping means being much greater, larger or better than something else",
+     "zh": "\"远远超过\"（far 远+ outstrip 超过），比较语境核心义为远超、把……远远甩在后面",
+     "ctx": "far 修饰比较级/分词，表\"远远地\"。outstrip 是\"超过、胜过\"。far outstripping the 25,000-mile circumference——他走的3.6 万英里，比绕地球一圈的2.5 万英里还多出快小半圈。能修饰比较级的词还有much、even、a lot、still",
+     "ex1": "Demand for the product quickly outstripped supply. 这款产品的需求很快超过了供应。",
+     "ex2": "Her performance far outstripped everyone's expectations. 她的表现远远超出了所有人的预期。"
+    },
+    {
+     "w": "circumference",
+     "ipa": "/səˈkʌmfərəns/",
+     "pos": "n.",
+     "en": "circumference means the distance around the edge of a circle",
+     "zh": "\"周长、环绕一圈的长度\"（circum- 环绕+ fer- 携带、承载），数学语境核心义为周长、圆周",
+     "ctx": "circum- 词头一记一串——circumnavigate 环球航行（circum 环绕+ navigate 航行）、circumference 绕地球量一圈的长度。麦哲伦干的\"环航地球\"叫 circumnavigate，他量的\"绕地球一圈的距离\"叫circumference，同一个circum-",
+     "ex1": "The lake is about forty miles in circumference. 这个湖周长约四十英里。",
+     "ex2": "The circumference of the Earth is roughly 25,000 miles. 地球的周长约为2.5 万英里。"
+    }
+   ]
   },
   {
-   "en_html": "<span>The voyage took him across the frozen sea of the Bering strait between Alaska  and Russia and across the notorious Darién Gap in Central America. He  described last month how he had been threatened at gunpoint, faced down a  polar bear, was convicted of being a spy, and been held in custody in Russia  and sentenced to deportation.</span>",
-   "zh": "",
-   "notes": []
+   "en_html": "The voyage took him across the frozen sea of the Bering strait between Alaska and Russia and across the <mark class=\"voc\">notorious</mark> Darién Gap in Central America. He described last month how he had been threatened <mark class=\"voc\">at gunpoint</mark>, faced down a polar bear, was <mark class=\"voc\">convicted</mark> of being a spy, and been held in <mark class=\"voc\">custody</mark> in Russia and sentenced to <mark class=\"voc\">deportation</mark>.",
+   "zh": "这趟旅程，带他横穿了阿拉斯加和俄罗斯之间、白令海峡的冰封海面，也横穿了中美洲那臭名昭著的达连地堑。上个月，他这样讲述自己的遭遇：他曾被人持枪威胁，曾与北极熊正面硬刚，曾被判间谍罪，还曾在俄罗斯被拘留、并被判处驱逐出境。",
+   "notes": [
+    {
+     "w": "notorious",
+     "ipa": "/nəʊˈtɔːriəs/",
+     "pos": "adj.",
+     "en": "notorious means famous for something bad",
+     "zh": "\"臭名昭著的\"（源自拉丁语notus\"知名的\"，后带贬义），评价语境核心义为因坏事而出名的、声名狼藉的",
+     "ctx": "语感分级——famous 因好事出名（褒义）、 well-known 中性知名、notorious 因坏事出名、infamous 声名狼藉（程度更狠）。作者用notorious，是告诉你达连地堑这地方不是\"风景好\"，是\"凶名在外\"",
+     "ex1": "The pass is notorious for its sudden storms and landslides. 这个山口以突如其来的暴风雨和滑坡而恶名远扬。",
+     "ex2": "He became notorious for his explosive temper on set. 他因片场暴脾气而声名狼藉。"
+    },
+    {
+     "w": "at gunpoint",
+     "ipa": "/æt ˈɡʌnpɔɪnt/",
+     "pos": "adv. phrase",
+     "en": "at gunpoint means while being threatened with a gun",
+     "zh": "\"在枪口下\"（gun 枪+ point 指着），威胁语境核心义为被枪指着",
+     "ctx": "threatened at gunpoint 被持枪威胁。同款搭配at knifepoint 在刀口下。被枪口指着威胁，这个画面你想想都后背发凉",
+     "ex1": "The cashier was held at gunpoint during the robbery. 抢劫时，收银员被人用枪指着。",
+     "ex2": "He was threatened at knifepoint in the car park. 他在停车场被人持刀威胁。"
+    },
+    {
+     "w": "convict",
+     "ipa": "/kənˈvɪkt/",
+     "pos": "v.",
+     "en": "convict means to officially decide in a court of law that someone is guilty of a crime",
+     "zh": "\"定罪\"（con- 加强+ vincere 征服、证明），司法语境核心义为判……有罪",
+     "ctx": "be convicted of something 被判……罪。was convicted of being a spy 被判了间谍罪。这背后是他2006 年踩着冰面走进俄罗斯，被当成\"可疑分子\"抓起来的那段经历",
+     "ex1": "He was convicted of fraud and sentenced to five years in prison. 他因欺诈罪被判刑，入狱五年。",
+     "ex2": "The company was convicted of dumping waste illegally. 这家公司因非法倾倒废弃物被判有罪。"
+    },
+    {
+     "w": "custody",
+     "ipa": "/ˈkʌstədi/",
+     "pos": "n.",
+     "en": "custody means the state of being kept in prison or under police control, especially while awaiting trial",
+     "zh": "\"拘留、羁押\"（源自拉丁语custodia\"看守\"），司法语境核心义为拘留、羁押",
+     "ctx": "in custody 被拘留、被关着。第1 段的\"a spell in Russian custody\"和第 4 段的\"held in custody in Russia\"是同一件事，作者前后呼应——这哥们坐过俄罗斯的牢",
+     "ex1": "The suspect was taken into custody late last night.嫌疑人于昨夜深夜被拘留。",
+     "ex2": "Two men remain in custody while the investigation continues.调查进行期间，两名男子仍被羁押。"
+    },
+    {
+     "w": "deportation",
+     "ipa": "/ˌdiːpɔːˈteɪʃn/",
+     "pos": "n.",
+     "en": "deportation means the act of forcing someone to leave a country, usually because they have no legal right to stay or have broken the law",
+     "zh": "\"驱逐出境\"（de- 离开、出去+ port 搬运——\"把人搬出去\"），司法语境核心义为驱逐出境",
+     "ctx": "deport 这个词根能串一串——transport 运输（trans 穿过+搬运）、 export 出口（运出去）、import 进口（运进来）、deport 驱逐出境（把人搬出去），全是同一个port\"搬运\"。他被俄罗斯赶了出去，还被禁止好几年再入境",
+     "ex1": "He was sentenced to deportation after overstaying his visa.他因签证逾期被判驱逐出境。",
+     "ex2": "The authorities ordered the immediate deportation of the two men.当局下令立即将这两名男子驱逐出境。"
+    }
+   ]
   },
   {
-   "en_html": "<span>Bushby strode into Queen Victoria Square like a modern folk hero, his passage  only slowed by the dozens of people rushing to shake his hand and take  photographs. Yet for a man who had navigated much of the planet, he did  appear to get a little lost on his way through the crowds of his home city. “I’ve  no idea which direction I’m going. Everybody point the way,” he said. “Sorry to  keep you all waiting – it’s been a while.”</span>",
-   "zh": "",
-   "notes": []
+   "en_html": "Bushby <mark class=\"voc\">strode</mark> into Queen Victoria Square like a modern <mark class=\"voc\">folk hero</mark>, his passage only slowed by the <mark class=\"voc\">dozens of</mark> people rushing to shake his hand and take photographs. Yet for a man who had <mark class=\"voc\">navigated</mark> much of the planet, he did appear to get <mark class=\"voc\">a little lost</mark> on his way through the crowds of his home city. “I’ve no idea which direction I’m going. Everybody <mark class=\"voc\">point the way</mark>,” he said. “Sorry to <mark class=\"voc\">keep you all waiting</mark> – it’s been a while.”",
+   "zh": "布什比像一个现代的民间英雄，大步走进维多利亚女王广场——他的脚步，只是被那几十个冲上来同他握手、拍照的人给拖慢了一点。然而，对一个走遍了大半个地球的人来说，在穿过家乡的人群时，他看起来，还真有点儿\"迷路\"了。\"我完全不知道该往哪个方向走了。大伙儿给我指指路吧。\"他说，\"抱歉让各位久等了——有一阵子了。\"",
+   "notes": [
+    {
+     "w": "stride",
+     "ipa": "/straɪd/",
+     "pos": "v. & n.",
+     "en": "stride means to walk with long, confident steps",
+     "zh": "\"大步流星地走\"（源自古英语stridan\"跨步\"），动作语境核心义为昂首阔步、大步走",
+     "ctx": "作者用strode（stride 的过去式）而不用walked，是要你脑补那个画面——步子又大又稳、人没到气场先到，透着\"我回来了\"的劲儿。顺带把\"走\"这一大家子分清：walk 普通走、stroll 散步闲逛、stride 大步流星、march 行军、stagger 踉跄、 tiptoe 踮脚走",
+     "ex1": "She strode into the meeting room and took her seat without a word.她大步走进会议室，一言不发地坐下。",
+     "ex2": "He strode across the field with purpose, not once looking back.他昂首阔步穿过田野，一次也没回头。"
+    },
+    {
+     "w": "folk hero",
+     "ipa": "/fəʊk ˈhɪərəʊ/",
+     "pos": "n.",
+     "en": "a folk hero is a person who is admired by ordinary people, often for fighting against the powerful",
+     "zh": "\"民间英雄\"（folk 民间的、老百姓的+ hero 英雄），文化语境核心义为民间英雄",
+     "ctx": "不是官方封的、史书写的那种英雄，而是老百姓口口相传、自发拥戴出来的英雄——出身草根，却干了让普通人扬眉吐气的事。英国人心里头号folk hero 是罗宾汉，绿林好汉劫富济贫。作者用folk hero 而不用national hero，是要说：布什比不是靠国家封赏，而是老百姓用一广场的人自己选出来的英雄",
+     "ex1": "The footballer became a folk hero in his home town after the cup win.夺冠之后，这位足球运动员成了家乡的民间英雄。",
+     "ex2": "Robin Hood remains one of England's best-loved folk heroes.罗宾汉至今仍是英国最受爱戴的民间英雄之一。"
+    },
+    {
+     "w": "dozens of",
+     "ipa": "/ˈdʌznz əv/",
+     "pos": "det. phrase",
+     "en": "dozens of means a large number of, roughly between twenty and a hundred",
+     "zh": "\"几十个\"（dozen 一打、十二个，dozens of 泛指\"好几十\"），数量语境核心义为几十、许多",
+     "ctx": "注意dozen 单数是\"十二个\"（a dozen eggs 一打鸡蛋），dozens of 是模糊的大数\"几十个、好几十个\"。不是dozen 单数",
+     "ex1": "Dozens of volunteers turned up to help with the clean-up.几十名志愿者前来帮忙清理。",
+     "ex2": "She has called him dozens of times but he never answers.她给他打了几十次电话，可他从不接。"
+    },
+    {
+     "w": "navigate",
+     "ipa": "/ˈnævɪɡeɪt/",
+     "pos": "v.",
+     "en": "navigate means to find your way and work out a route, especially across land or sea",
+     "zh": "\"驾船、找路\"（源自拉丁语navis\"船\" + agere\"驱动\"——驱动一条船），行进语境核心义为航行、导航、找路",
+     "ctx": "作者从标题讲到现在，一路用的都是\"海\"的词—— odyssey《奥德赛》海上漂流、voyage 海上航行、navigate 驾船——一个明明用双脚走的人，作者却全拿\"航海\"的词写他。这不是词穷，是故意制造错位：他走出的，是\"航海史诗\"级别的气魄。同根词：navy 海军、naval 海军的、navigation 导航",
+     "ex1": "Early sailors navigated by the stars and the position of the sun.早期的水手靠星星和太阳的位置来导航。",
+     "ex2": "He navigated the narrow streets of the old city with ease.他轻车熟路地穿行在老城狭窄的街巷里。"
+    },
+    {
+     "w": "a little lost",
+     "ipa": "/ə ˈlɪtl lɒst/",
+     "pos": "adj. phrase",
+     "en": "a little lost means slightly confused or unable to find one's way",
+     "zh": "\"有点迷路、有点懵\"（a little 一点点+ lost 迷路的），状态语境核心义为有点找不着北",
+     "ctx": "作者用词特别克制——不是\"彻底迷路\"，是\"有点儿迷路\"，就\"一点点\"。这\"一点点\"正是笑点的分寸：一个独自穿越四大洲、冰海、沙漠、丛林都没迷路的人，回到家乡，在一群欢迎他的人里，有点懵了",
+     "ex1": "He looked a little lost in the unfamiliar city without his phone. 没了手机，他在这座陌生的城市里显得有点找不着北。",
+     "ex2": "New students often feel a little lost during the first week. 新生在第一周常常会有点不知所措。"
+    },
+    {
+     "w": "point the way",
+     "ipa": "/pɔɪnt ðə weɪ/",
+     "pos": "v. phrase",
+     "en": "point the way means to show the direction in which someone should go",
+     "zh": "\"指路\"（point 指+ way 路），方向语境核心义为指路、指明方向",
+     "ctx": "Everybody point the way 是一句祈使句——动词用原形，不管主语是谁。不是陈述\"大家在指路\"，而是喊一句\"大伙儿都给我指个路！\"。一个走遍世界的男人，冲人群喊大家给他指路，瞬间接地气",
+     "ex1": "A kind passer-by pointed the way to the nearest station. 一位好心的路人给他指了指去最近车站的路。",
+     "ex2": "Could you point me in the right direction for the museum? 您能给我指一下去博物馆的路吗？"
+    },
+    {
+     "w": "keep sb waiting",
+     "ipa": "/kiːp ˈsʌmbədi ˈweɪtɪŋ/",
+     "pos": "v. phrase",
+     "en": "keep someone waiting means to make someone wait for a long time",
+     "zh": "\"让某人久等\"（keep 让……保持+ waiting 等待），礼貌语境核心义为让……久等",
+     "ctx": "Sorry to keep you all waiting 抱歉让大家久等了。keep 是\"让……保持某种状态\"，keep you waiting 就是\"让你们一直等着\"。这个短语口语里天天用",
+     "ex1": "Sorry to keep you waiting — the meeting ran over. 抱歉让您久等了——会议拖堂了。",
+     "ex2": "He kept us waiting for nearly an hour without any explanation. 他让我们干等了将近一个小时，一句解释都没有。"
+    }
+   ]
   },
   {
-   "en_html": "<span>Through the crowd he pushed his heavily loaded trolley, dubbed the Beast 2  (his first one broke down) laden with essentials such as medicine, sleeping bags,  headtorches – and two very worn tyres. About three miles away, Angela, 75,  was waiting at the gate of Bushby’s childhood home as she had promised. After  a tearful embrace, they took a long look at each other. “You’ve changed a bit,”  Bushby told her. “I’m older,” his mother replied through tears. “We both are,” he  said. “Well done for hanging in there.” He was then whisked inside the small  terrace house, festooned with union flag bunting, where he was reunited with  his son, now 36, and a 12-year-old granddaughter whom he was meeting for  the first time.</span>",
-   "zh": "",
-   "notes": []
+   "en_html": "Through the crowd he pushed his heavily loaded <mark class=\"voc\">trolley</mark>, <mark class=\"voc\">dub</mark>bed the Beast 2 (his first one broke down) <mark class=\"voc\">laden with</mark> essentials such as medicine, sleeping bags, headtorches – and two very worn tyres. About three miles away, Angela, 75, was waiting at the gate of Bushby’s childhood home as she had promised. After a tearful <mark class=\"voc\">embrace</mark>, they took a long look at each other. “You’ve changed a bit,” Bushby told her. “I’m older,” his mother replied through tears. “We both are,” he said. “Well done for <mark class=\"voc\">hanging in there</mark>.” He was then <mark class=\"voc\">whisked</mark> inside the small terrace house, <mark class=\"voc\">festooned with</mark> union flag bunting, where he was <mark class=\"voc\">reunited</mark> with his son, now 36, and a 12-year-old granddaughter whom he was meeting for the first time.",
+   "zh": "他推着那辆塞得满满当当的手推车穿过人群——这车被他叫做\"野兽2号\"（第一辆坏了），上面装着药品、睡袋、头灯这些必需品，还有两个磨得快光了的旧轮胎。大约三英里外，75岁的安吉拉，正像她当年承诺过的那样，等在布什比童年老家的大门口。一阵含泪的拥抱过后，两人久久地互相打量着。\"你变了一点了。\"布什比对她说。\"我老了。\"母亲噙着泪答。\"我们都老了。\"他说，\"你撑了这么久，真了不起。\"接着，他被领进了那栋挂满英国国旗彩旗的小联排房子，在那里，他和如今36岁的儿子团聚，还第一次见到了那个12岁的孙女。",
+   "notes": [
+    {
+     "w": "trolley",
+     "ipa": "/ˈtrɒli/",
+     "pos": "n.",
+     "en": "a trolley is a small wheeled vehicle or cart that you push or pull to carry things",
+     "zh": "\"手推车\"（英式说法，美式说cart），生活语境核心义为手推车、购物车",
+     "ctx": "英美差异顺带记——英式trolley、美式cart，都是\"手推车\"；轮胎英式tyre、美式tire。这辆小车是他28 年一路推回来的，是他一路上唯一的\"旅伴\"",
+     "ex1": "She loaded the shopping trolley with everything on the list. 她把清单上的东西都装进了购物车。",
+     "ex2": "He wheeled the luggage trolley towards the taxi rank. 他推着行李车朝出租车站走去。"
+    },
+    {
+     "w": "dub",
+     "ipa": "/dʌb/",
+     "pos": "v.",
+     "en": "dub means to give someone or something a particular name or nickname",
+     "zh": "\"给……起外号、授予称号\"（源自古英语dubbian\"授予骑士称号\"），称谓语境核心义为被称为、被叫做",
+     "ctx": "外刊最爱用的\"起名\"词。be dubbed something 就是\"被称作……\"。跟它一个意思的还有called、named、nicknamed，但dubbed 最地道。 dubbed the Beast 2——这辆车被他叫做\"野兽2 号\"",
+     "ex1": "The city was dubbed \"the Paris of the East\" by early travellers. 早期旅行者把这座城市称为\"东方巴黎\"。",
+     "ex2": "The young player was dubbed the next big thing in football. 这位年轻球员被誉为足球界的下一个巨星。"
+    },
+    {
+     "w": "laden with",
+     "ipa": "/ˈleɪdn wɪð/",
+     "pos": "adj. phrase",
+     "en": "laden with means carrying or loaded with a large amount of something",
+     "zh": "\"满载着\"（laden 是load 的过去分词，专门形容\"满满当当装着的\"），描写语境核心义为装满了……的、满载……的",
+     "ctx": "load 是\"装载\"，laden 是它的\"高级亲戚\"，专门形容满载状态。a tree laden with fruit 一棵果实累累的树。一辆小车，装着药、睡袋、头灯和两个备用旧轮胎——一个徒步者全部的家当",
+     "ex1": "The apple trees were laden with fruit that autumn. 那年秋天，苹果树结满了果实。",
+     "ex2": "The boat was laden with supplies for the long voyage. 船满载着长途航行所需的补给。"
+    },
+    {
+     "w": "embrace",
+     "ipa": "/ɪmˈbreɪs/",
+     "pos": "n. & v.",
+     "en": "an embrace means the act of holding someone closely in your arms, especially as a sign of affection",
+     "zh": "\"拥抱\"（em- 在里+ brac 手臂——把对方搂进臂弯里），情感语境核心义为拥抱、紧紧相拥",
+     "ctx": "比hug 更书面、更深情的\"抱\"——hug 是日常抱一下，embrace 是感情满满、紧紧搂住的那种。a tearful embrace 含泪的拥抱，一个等了28 年的拥抱，作者只用两个词就带过去了，越克制越显重",
+     "ex1": "After years apart, the two friends shared a long, tearful embrace. 分别多年后，两个朋友久久地含泪相拥。",
+     "ex2": "He held her in a warm embrace and whispered that he was sorry. 他把她搂在怀里，轻声说着对不起。"
+    },
+    {
+     "w": "hang in there",
+     "ipa": "/hæŋ ɪn ðeə/",
+     "pos": "idiom",
+     "en": "hang in there means to continue trying and not give up, especially in a difficult situation",
+     "zh": "\"坚持住、撑住\"（hang 悬挂+ in there 在那儿——吊在悬崖边别松手的画面），鼓励语境核心义为再撑一下、挺住",
+     "ctx": "Well done for hanging in there——\"你撑了这么久，真了不起\"。这是儿子对妈妈说的。一个走了28 年、被全世界当英雄的人，最想表扬的不是自己，而是那个在门口等了他28 年的妈妈",
+     "ex1": "Hang in there — the doctors say he's going to be fine.再撑一下——医生说他不会有事的。",
+     "ex2": "I know the course is tough, but just hang in there a little longer.我知道这课程很难，但再坚持一阵子。"
+    },
+    {
+     "w": "whisk",
+     "ipa": "/wɪsk/",
+     "pos": "v.",
+     "en": "whisk means to take someone or something somewhere very quickly",
+     "zh": "\"快速带走、飞快领走\"（whisk 本义\"快速搅打\"，打发蛋清就是whisk，引申为迅速移动），动作语境核心义为迅速带走、簇拥着领走",
+     "ctx": "be whisked inside 被迅速带进屋里。这个词特别有画面——一群人簇拥着他，\"唰\"地就把他推进门了。一个词同时带出\"速度\"和\"热情\"",
+     "ex1": "After the speech, the star was whisked away by security.演讲一结束，这位明星就被保安迅速护送离开了。",
+     "ex2": "The injured player was whisked off to hospital by ambulance.受伤的球员被救护车迅速送往医院。"
+    },
+    {
+     "w": "festooned with",
+     "ipa": "/feˈstuːnd wɪð/",
+     "pos": "adj. phrase",
+     "en": "festooned with means decorated with a large amount of ribbons, flags or flowers",
+     "zh": "\"张灯结彩地挂满\"（festoon 源自意大利语festone\"节日装饰\"），描写语境核心义为挂满……、装饰满……",
+     "ctx": "专门形容\"张灯结彩、挂满装饰物\"的样子。 festooned with union flag bunting——挂满英国国旗彩旗。一个75 岁的老太太，把家门口挂满彩旗，就为了迎接走了28 年的儿子回家",
+     "ex1": "The hall was festooned with flags and banners for the celebration.大厅里挂满了旗帜和横幅，庆祝节日。",
+     "ex2": "At Christmas, the streets are festooned with coloured lights.圣诞节时，街道上挂满了彩灯。"
+    },
+    {
+     "w": "reunite",
+     "ipa": "/ˌriːjuːˈnaɪt/",
+     "pos": "v.",
+     "en": "reunite means to bring people together again after they have been apart",
+     "zh": "\"重新团聚\"（re- 重新+ unite 结合），情感语境核心义为重逢、重新团聚",
+     "ctx": "be reunited with someone 与某人久别重逢。他走的时候儿子才8 岁，回来时儿子已经36 岁；那个12 岁的孙女，他更是第一次见——从她出生到长成小姑娘，他全错过了。两个数字，比任何煽情的话都重",
+     "ex1": "The family was finally reunited after years of separation.这个家庭在分离多年后终于团聚了。",
+     "ex2": "She was reunited with her childhood friend at the airport.她在机场与儿时的朋友重逢了。"
+    }
+   ]
   },
   {
-   "en_html": "<span>Earlier on a makeshift stage, Bushby thanked the city for his hero’s welcome.  “It took a world to get me here,” he said. “The kindness of strangers – so many,  from individuals to nation states, to get me back here. I didn’t do this alone.  There was a big team, the biggest team: Earth. “We faced down governments,  we faced down some of the hardest challenges, we had to create two world  records just to get back here. It was a global effort.”</span>",
-   "zh": "",
-   "notes": []
+   "en_html": "Earlier on a <mark class=\"voc\">makeshift</mark> stage, Bushby thanked the city for his hero’s welcome. “<mark class=\"voc\">It took a world</mark> to get me here,” he said. “<mark class=\"voc\">The kindness of strangers</mark> – so many, from individuals to nation states, to get me back here. I didn’t do this alone. There was a big team, the biggest team: Earth. “We faced down governments, we faced down some of the hardest challenges, we had to create two world records <mark class=\"voc\">just to</mark> get back here. It was a global effort.”",
+   "zh": "早些时候，在一个临时搭建的舞台上，布什比感谢了这座城市给他的英雄式欢迎。\"是整个世界，才把我送到了这里。\"他说，\"陌生人的善意——那么多，从一个个普通人，到一个个国家——才把我带了回来。这件事，不是我一个人做到的。我的背后有一个庞大的团队，一个最大的团队：整个地球。\"\"我们顶住了来自政府的压力，我们熬过了一些最艰难的挑战，我们甚至不得不创造两个世界纪录，才回到这里。这是一场全球性的努力。\"",
+   "notes": [
+    {
+     "w": "makeshift",
+     "ipa": "/ˈmeɪkʃɪft/",
+     "pos": "adj.",
+     "en": "makeshift means temporary and improvised, made to be used for a short time",
+     "zh": "\"临时搭建的、凑合用的\"（make 做+ shift 转换、凑合——临时凑合做出来的），描写语境核心义为临时的、权宜的",
+     "ctx": "",
+     "ex1": "Refugees built makeshift shelters out of wood and plastic.难民们用木头和塑料搭起了临时棚屋。",
+     "ex2": "We made a makeshift table out of boxes and a plank.我们用箱子和一块木板拼了张临时桌子。"
+    },
+    {
+     "w": "It took a world",
+     "ipa": "/ɪt tʊk ə wɜːld/",
+     "pos": "sentence",
+     "en": "It took a world to get me here means it required an enormous, almost unimaginable effort — and a whole world — to bring me here",
+     "zh": "\"要动用'一个世界'才……\"（It took + 某人/某物+ to do，表\"要付出……才能做成\"），修辞语境核心义为费尽天大的力气",
+     "ctx": "一句漂亮的双关。第一层，是\"巨大的力量\"——费了天大的劲才把他推回家；第二层，他这28 年是真的走遍了一个世界，\"a world\"不是夸张，是字面意思。还暗合英语谚语It takes a village to raise a child（养大一个孩子需要一个村庄）——他把\"村庄\"拔高成了\"世界\"",
+     "ex1": "It took a world of patience to get the two sides to agree.让双方达成一致，费尽了天大的耐心。",
+     "ex2": "It took a lot of courage for her to speak up at the meeting.她在会上开口，需要很大的勇气。"
+    },
+    {
+     "w": "the kindness of strangers",
+     "ipa": "/ðə ˈkaɪndnəs əv ˈstreɪndʒəz/",
+     "pos": "phrase",
+     "en": "the kindness of strangers means help and generosity received from people you do not know",
+     "zh": "\"陌生人的善意\"（kindness 善意+ strangers 陌生人），情感语境核心义为陌生人的善意",
+     "ctx": "一句有文学出处的名句——出自美国剧作家田纳西·威廉斯《欲望号街车》，女主角布兰奇最后一句台词\"I have always depended on the kindness of strangers\"（我这一辈子，一直靠着陌生人的善意才活到今天）。一个走了28 年的人，吃的住的、走投无路时拉他一把的，正是这些素不相识的路人",
+     "ex1": "Lost and without money, he had to depend on the kindness of strangers. 身无分文又迷了路，他只能靠陌生人的善意。",
+     "ex2": "The whole trip was made possible by the kindness of strangers. 这趟旅行之所以能成行，全靠陌生人的善意。"
+    },
+    {
+     "w": "just to",
+     "ipa": "/dʒʌst tə/",
+     "pos": "adv. phrase",
+     "en": "just to means only in order to, often used to make something big sound small or casual",
+     "zh": "\"只是为了\"（just 仅仅+ to 表目的），语气语境核心义为只是为了、仅仅为了",
+     "ctx": "",
+     "ex1": "He cycled all the way there just to see her for five minutes. 他一路骑车过去，就为了见她五分钟。",
+     "ex2": "She took the longer route just to avoid the traffic. 她绕了远路，只是为了避开堵车。"
+    }
+   ]
   },
   {
-   "en_html": "<span>Karl Turner, the Labour MP for Kingston upon Hull East, brought with him a  message from the prime minister, Andy Burnham, who congratulated Bushby  on his “truly remarkable” feat and thanked him for his service as a paratrooper.  In a statement read on stage by Turner, Burnham said: “Your journey has taken  nearly three decades, crossed continents and tested you in ways most of us  can barely imagine. “But today, as you return to the city from which you left 28  years ago, you bring with you something far greater than any world record or a  remarkable personal achievement. You bring a story of what can be  accomplished through extraordinary determination and self-belief.”</span>",
-   "zh": "",
-   "notes": []
+   "en_html": "Karl Turner, the Labour <mark class=\"voc\">MP</mark> for Kingston upon Hull East, brought with him a message from the prime minister, Andy Burnham, who <mark class=\"voc\">congratulated Bushby on his</mark> “truly <mark class=\"voc\">remarkable</mark>” feat and thanked him for his service as a paratrooper. In a statement read on stage by Turner, Burnham said: “Your journey has taken nearly three decades, crossed continents and tested you in ways most of us can <mark class=\"voc\">barely</mark> imagine. “But today, as you return to the city from which you left 28 years ago, you bring with you something far greater than any world record or a remarkable personal achievement. You bring a story of what can be accomplished through extraordinary <mark class=\"voc\">determination</mark> and <mark class=\"voc\">self-belief</mark>.”",
+   "zh": "卡尔·特纳，赫尔东选区的工党议员，带来了一封来自首相安迪·伯纳姆的贺信；首相在信里祝贺布什比完成了这\"真正了不起\"的壮举，也感谢了他作为伞兵的服役。在这份由特纳在台上宣读的声明中，伯纳姆说：\"你的旅程历时近三十年，横跨了各大洲，以我们大多数人几乎无法想象的方式考验了你。\"\"但今天，当你回到28年前离开的这座城市时，你带回来的，是远比任何世界纪录、比任何了不起的个人成就都更重要的东西。你带回来的，是一个关于'凭借非凡的决心和自信，一个人能成就什么'的故事。\"",
+   "notes": [
+    {
+     "w": "MP",
+     "ipa": "/ˌem ˈpiː/",
+     "pos": "n. (abbr.)",
+     "en": "MP stands for Member of Parliament, a person elected to represent an area in parliament",
+     "zh": "\"国会议员\"（Member of Parliament 的缩写），政治语境核心义为议员、国会议员",
+     "ctx": "来送贺信的是本地的议员——这说明布什比这件事已经\"通了天\"，连国家层面、连首相都要专门发一封贺信来。一个走路的普通人，惊动了整个国家机器",
+     "ex1": "The local MP raised the issue in parliament last week. 这位本地议员上周在议会提出了这个问题。",
+     "ex2": "She was elected MP for the town in 2019. 她于2019 年当选该镇的议员。"
+    },
+    {
+     "w": "congratulate sb on sth",
+     "ipa": "/kənˈɡrætʃuleɪt ˈsʌmbədi ɒn/",
+     "pos": "v. phrase",
+     "en": "congratulate someone on something means to tell them you are pleased about their success or good fortune",
+     "zh": "\"就某事祝贺某人\"（congratulate 祝贺，后面\"事\"用on），礼貌语境核心义为祝贺某人某事",
+     "ctx": "超高频搭配，考点是介词——congratulate somebody on something，人做宾语，事情用on。congratulate him on his success 祝贺他的成功。很多中国学生写成for，要记牢是on",
+     "ex1": "Everyone congratulated her on passing the exam. 大家都祝贺她通过了考试。",
+     "ex2": "He congratulated the team on their hard-fought victory. 他祝贺球队取得了这场来之不易的胜利。"
+    },
+    {
+     "w": "remarkable",
+     "ipa": "/rɪˈmɑːkəbl/",
+     "pos": "adj.",
+     "en": "remarkable means unusual or surprising in a way that deserves attention",
+     "zh": "\"了不起的、非凡的\"（re- 反复+ mark 标记+ -able 能……的——值得再三注意的），评价语境核心义为了不起的、值得称道的",
+     "ctx": "拆开看很有意思—— remark 是\"注意、评论\"，remarkable 就是\"好到让人忍不住多看两眼\"。truly remarkable 真真正正、让人叹服的了不起",
+     "ex1": "The patient has made remarkable progress in just a few weeks. 这位病人短短几周内取得了惊人的进展。",
+     "ex2": "It is remarkable how quickly the city recovered after the disaster. 这座城市灾后恢复之快，令人称奇。"
+    },
+    {
+     "w": "barely",
+     "ipa": "/ˈbeəli/",
+     "pos": "adv.",
+     "en": "barely means only just, almost not",
+     "zh": "\"几乎不、勉强\"（bare 光秃的+ -ly，引申为\"只差一点就做不到\"），程度语境核心义为几乎不、勉强",
+     "ctx": "比hardly 更常见于书面语，都是\"几乎不\"。can barely imagine 几乎想象不到。一个坐在办公室里的人，去想象一个人28 年的生死，那确实\"想象不到\"",
+     "ex1": "I can barely hear you over the noise — can you speak up? 噪音太大，我几乎听不见你——你能大声点吗？",
+     "ex2": "She was so tired she could barely keep her eyes open. 她累得几乎睁不开眼。"
+    },
+    {
+     "w": "determination",
+     "ipa": "/dɪˌtɜːmɪˈneɪʃn/",
+     "pos": "n.",
+     "en": "determination means the quality of continuing to try to do something even when it is difficult",
+     "zh": "\"决心\"（determine 下决心+ -ation），品质语境核心义为决心、坚毅",
+     "ctx": "",
+     "ex1": "It was sheer determination that got her through the final year of training.正是纯粹的决心让她撑过了最后一年的训练。",
+     "ex2": "He showed great determination in rebuilding the business from nothing.他在白手起家重建企业的过程中展现出了巨大的决心。"
+    },
+    {
+     "w": "self-belief",
+     "ipa": "/ˌself bɪˈliːf/",
+     "pos": "n.",
+     "en": "self-belief means confidence in your own abilities and judgement",
+     "zh": "“自我信念”（self 自己+ belief 相信），品质语境核心义为自信、对自己能力的信任",
+     "ctx": "",
+     "ex1": "Her self-belief never wavered, even when others doubted her.即便别人质疑她，她的自我信念也从未动摇。",
+     "ex2": "A lack of self-belief is often the biggest obstacle to success.缺乏自信往往是成功路上最大的障碍。"
+    }
+   ]
   },
   {
-   "en_html": "<span>As he was ushered away for a big lunch before the walk to his mother’s house,  Bushby had one last message for the city he left in 1998: “I guess I’ll be seeing  you around.”</span>",
-   "zh": "",
-   "notes": []
+   "en_html": "As he was <mark class=\"voc\">ushered</mark> away for a big lunch before the walk to his mother’s house, Bushby had one last message for the city he left in 1998: “I guess <mark class=\"voc\">I’ll be seeing you around</mark>.”",
+   "zh": "在被领着去吃一顿丰盛的午餐、然后再走向他妈妈家之前，布什比留给了这座他1998年离开的城市最后一句话：\"我猜，回头见吧。\"",
+   "notes": [
+    {
+     "w": "usher",
+     "ipa": "/ˈʌʃə/",
+     "pos": "v.",
+     "en": "usher means to lead or guide someone somewhere",
+     "zh": "\"引导、引领\"（usher 原指\"看门人、引座员\"，引申为引导），动作语境核心义为引领、引导",
+     "ctx": "be ushered away 被领着离开。一个走了28 年的人，终于有人来\"领\"他——去吃顿大餐、去妈妈家。这个词和前面whisked inside 一脉相承，都写\"被人簇拥着、领着走\"",
+     "ex1": "The guests were ushered to their seats by the staff. 客人由工作人员引导入座。",
+     "ex2": "She was ushered into the office to meet the director. 她被领进办公室去见主管。"
+    },
+    {
+     "w": "I'll be seeing you around",
+     "ipa": "/aɪl bi ˈsiːɪŋ ju əˈraʊnd/",
+     "pos": "phrase",
+     "en": "I'll be seeing you around is a casual way of saying goodbye, implying you will meet again",
+     "zh": "\"回头见\"（将来进行时will be seeing，表\"自然而然、轻轻松松\"的未来），道别语境核心义为回头见、回头再见",
+     "ctx": "语法点是将来进行时——I'll see you around 有点郑重，像在许承诺；I'll be seeing you around 语气特别松，像顺嘴带过。首尾呼应：标题是\"It's been a while\"（好久不见·过去），结尾是\"I'll be seeing you around\"（回头见·未来），把 28 年轻轻夹在中间",
+     "ex1": "Thanks for coming — I'll be seeing you around.谢谢你来——回头见。",
+     "ex2": "Take care of yourself, and I'll be seeing you around.照顾好自己，回头见。"
+    }
+   ]
   }
  ],
- "proper": [],
- "practice": {},
+ "proper": [
+  {
+   "name": "Karl Bushby",
+   "def": "简要介绍：英国人，1969 年3 月30 日出生于赫尔，曾在英国陆军第三伞兵团（3 PARA）服役约11 年。1998 年，29 岁的他退伍后（约1995 年经历离婚），仅带着约500 美元从南美智利的蓬塔阿雷纳斯出发，计划用12 年左右、全程不用任何交通工具地走回英国。实际走了28 年，2026 年回到家乡赫尔，成为史上第一个\"连续徒步横穿世界\"的人。<br>本文中的意思：全文主角。一个不爱走路、把28 年的史诗说成\"有一阵子了\"的人。理解他，要抓两条铁规矩——不完成壮举不回家、不用交通工具推进行程；再抓一个性格——英式的举重若轻。"
+  },
+  {
+   "name": "Hull / Kingston upon Hull",
+   "def": "简要介绍：英格兰东北部港口城市，全名Kingston upon Hull，人口二十多万。靠打鱼和港口起家，渔业衰落后一度没落。二战\"赫尔大轰炸\"（Hull Blitz）中，它是全英国被炸得第二惨的城市，仅次于伦敦，约90% 的建筑受损。英国废除奴隶贸易的关键人物威廉·威尔伯福斯出生于此；诗人菲利普·拉金在此长居，曾不客气地形容这里\"又冷又一股鱼腥味\"（chilly and smells of fish）。2017 年被评为英国\"文化之城\"。<br>本文中的意思：全文情感的落点。一座\"打不倒\"的苦城，接回一个\"停不下\"的游子——他们其实是同一种人。"
+  },
+  {
+   "name": "Punta Arenas",
+   "def": "简要介绍：智利最南端的城市，号称\"世界尽头的城市\"，靠近麦哲伦海峡——1520 年麦哲伦环球航行即从此穿过，是人类第一次绕地球一圈的壮举。它也是如今不少人前往南极的门户。<br>本文中的意思：他这趟28 年远征的起点。四百多年前人类在这里开启\"航海环球\"，四百多年后他用一双脚从这里出发——这个起点本身就写满了\"探索\"二字。"
+  },
+  {
+   "name": "Humber Bridge",
+   "def": "简要介绍：英国赫尔附近的一座大悬索桥，横跨亨伯河。1981 年通车时是当时全世界最长的单跨悬索桥，主跨1410 米，这一\"世界第一\"稳坐17 年，直到1998 年被日本明石海峡大桥超越。<br>本文中的意思：一个耐人寻味的巧合——1998 年亨伯桥让出\"世界第一\"，也是1998 年布什比从赫尔出发、开启后来同样拿\"世界第一\"的徒步。一座\"前世界第一\"的桥，迎来一个\"新世界第一\"的人。"
+  },
+  {
+   "name": "Bering Strait",
+   "def": "简要介绍：位于阿拉斯加（美国）与俄罗斯之间，是亚洲与美洲之间的一条海峡，最窄处约八九十公里。名字来自18 世纪为沙俄探险的丹麦探险家维图斯·白令。冰河时期海平面较低，此处曾露出\"白令陆桥\"，数万年前人类祖先正是从亚洲踏过它走进美洲。冬季海峡会结冰，但那是会漂、会裂、会长\"冰脊\"的海冰，并非平静的冻湖。<br>本文中的意思：他\"不坐交通工具也能过海\"的关键。他踩冰面从阿拉斯加走进俄罗斯，走的是一条\"逆着人类迁徙方向\"的路——几万年前祖先从亚洲走向美洲，几万年后他从美洲走回亚洲。"
+  },
+  {
+   "name": "Goliath Expedition",
+   "def": "简要介绍：布什比给这趟徒步起的正式名称。\"歌利亚\"（Goliath）是《圣经》中被大卫用弹弓击倒的巨人——名字带着一种\"不自量力也要去挑战巨人\"的悲壮与反讽。<br>本文中的意思：这趟28 年远征的正式名号，理解他\"一个人对抗全世界\"的自我定位。"
+  },
+  {
+   "name": "The Beast 2",
+   "def": "简要介绍：布什比一路推行的行李车，是一辆改装过的高尔夫球手推车。第一辆\"野兽\"用了三年后在尼加拉瓜坏了；他随后在尼加拉瓜自己动手造了第二辆\"野兽2 号\"，结果一路陪他撑了25 年，直到走回赫尔。<br>本文中的意思：他28 年唯一的\"旅伴\"。他总用\"我们\"自称，说这是\"王室的我们——我和野兽\"；还给这辆车起外号叫\"my Wilson\"（我的威尔逊），致敬电影《荒岛余生》里主角孤岛求生时唯一的朋友——一只画了脸、起了名的排球。"
+  },
+  {
+   "name": "The Parachute Regiment / Red Devils",
+   "def": "简要介绍：英国陆军伞兵部队，以严酷训练与彪悍作风著称。其\"红魔鬼\"（the Red Devils）外号源自二战北非战场——伞兵落地后浑身沾满红色沙土，伞兵战斗服背后的下摆拖尾，远远看去像条红尾巴，德军便称他们\"红魔鬼\"。<br>本文中的意思：交代他\"硬汉\"的底子。前伞兵，意味着他受过全世界最硬的训练，是最能扛的那类人。"
+  },
+  {
+   "name": "The Odyssey",
+   "def": "简要介绍：古希腊诗人荷马的两大史诗之一，讲希腊英雄奥德修斯在特洛伊战争后海上漂流十年、历尽磨难才回到家乡的故事。<br>本文中的意思：第1 段odyssey 一词的出处。作者用这个词，是要把这个走了28 年的普通人抬到古希腊史诗英雄的高度——奥德修斯海上漂十年才回家，布什比路上走28 年才回家。"
+  },
+  {
+   "name": "Queen Victoria Square",
+   "def": "简要介绍：赫尔市中心的一个标志性广场，名字来自英国维多利亚女王。<br>本文中的意思：这场\"英雄式欢迎\"的舞台。他大步走进这个广场，又在这里\"迷了路\"。"
+  },
+  {
+   "name": "Union Flag / Union Jack",
+   "def": "简要介绍：英国国旗其实是三面旗叠出来的——英格兰的圣乔治十字（红底红十字）、苏格兰的圣安德鲁十字（蓝底白色斜十字）、爱尔兰的圣帕特里克十字（白底红色斜十字），三个十字叠成一面\"联合\"旗。威尔士的红龙没有上旗，因为当年造旗时（1606 年）威尔士早已并入英格兰，不算独立\"王国\"。<br>本文中的意思：母亲在家门口挂满union flag bunting（英国国旗彩旗），迎接走了28年的儿子回家——最彻底的\"英国味儿\"，也是最长情的等待。"
+  },
+  {
+   "name": "A Streetcar Named Desire",
+   "def": "简要介绍：美国剧作家田纳西·威廉斯的经典话剧。剧中女主角布兰奇一生跌宕、最终精神崩溃，戏的最后挽着医生的胳膊说出全剧最后一句台词：\"Whoever you are, I havealways depended on the kindness of strangers.\"（不管你是谁——我这一辈子，一直都靠着陌生人的善意才活到今天。）<br>本文中的意思：第7 段\"the kindness of strangers\"（陌生人的善意）的文学出处。一个走了28 年的人，吃的、住的、走投无路时拉他一把的，正是素不相识的路人——他用这句有分量的话，总结这一路的感恩。"
+  },
+  {
+   "name": "William Wilberforce",
+   "def": "简要介绍：英国政治家，出生于赫尔。他毕生致力于废除奴隶贸易，是推动英国废除奴隶贸易与奴隶制的关键人物。<br>本文中的意思：赫尔\"藏龙卧虎\"的注脚之一——这座被诗人嫌弃\"破\"的城市，曾走出过改变世界的人。"
+  },
+  {
+   "name": "Philip Larkin",
+   "def": "简要介绍：英国著名诗人，在赫尔住了大半辈子，把图书馆工作做到退休，还曾不客气地形容赫尔\"又冷又一股鱼腥味\"（chilly and smells of fish）。<br>本文中的意思：赫尔\"苦城\"气质的注脚——被自家诗人嘴硬嫌弃的\"破地方\"，2017 年却评上了英国文化之都。"
+  },
+  {
+   "name": "Andy Burnham",
+   "def": "简要介绍：文中以\"首相\"身份发来贺信。他本人在英国政坛是工党资深政治人物、大曼彻斯特市长（此前曾担任内阁大臣，并多次竞选工党领袖）。观众记住其\"首相\"这一身份即可——文章要表达的，是\"连国家最高层都专门发来贺信\"这一事实本身。<br>本文中的意思：把\"壮举\"从个人层面抬到国家层面的信号。他夸的不是\"腿力好\"\"能吃苦\"，而是两个\"内在\"的东西——determination（决心）与self-belief（自信）。"
+  },
+  {
+   "name": "Karl Turner",
+   "def": "简要介绍：英国工党议员，代表赫尔东（Kingston upon Hull East）选区——正是布什比的老家这一片。<br>本文中的意思：由本地议员代表首相在台上宣读贺信——说明这件事已经\"通了天\"，惊动了整个国家机器。人类史上首位徒步绕地球一圈的人：北极熊、绑架、被俄罗斯拘留！这28年，他差点死在路上多少次？"
+  }
+ ],
+ "sources_note": "本文选自 The Guardian（英国《卫报》）报道，由《早安英文》讲解。",
+ "practice": {
+  "intro": "请将以下中文句子翻译为英文（参考答案见后）。",
+  "items": [
+   "一场历时28 年、横跨29 个国家、3.6 万英里的徒步远征，让他成了史上第一个\"一步不断\"走遍世界的人。",
+   "他给自己立了两条铁规矩：不彻底完成这项壮举绝不回家，也绝不用任何交通工具来往前赶路。",
+   "这一路，他直面过北极熊和绑匪，还曾被当成间谍、在俄罗斯被拘留过一阵子。",
+   "当他终于回到家乡赫尔，整座城给了他一场英雄式的欢迎，庆祝他那趟破纪录的徒步。",
+   "把28 年的离别说成\"有一阵子了\"，这是再典型不过的英式轻描淡写。",
+   "他那任劳任怨的母亲苦等了他28 年，熬过了多少个不眠之夜，才把儿子盼回家。"
+  ],
+  "critical_en": "",
+  "critical_zh": "",
+  "answer": "1. A 28-year odyssey spanning 29 countries and 36,000 miles made him the first person ever to walk continuously across the world.<br><br>2. He stuck by two simple rules: not to return home until he had fully completed his feat, and not to use transport to advance.<br><br>3. Along the way, he faced down polar bears and kidnappers, and spent a spell in Russian custody after being convicted of being a spy.<br><br>4. When he finally returned to his home town of Hull, he was given a hero’s welcome to celebrate his record-breaking walk.<br><br>5. Describing a 28-year absence as “a while” is British understatement at its finest.<br><br>6. His longsuffering mother waited 28 years for him, spending the odd sleepless night, before her son finally came home."
+ },
  "mindmap": {
-  "svg": "<svg viewBox=\"0 0 960 530\" xmlns=\"http://www.w3.org/2000/svg\" role=\"img\" aria-label=\"英国老兵28年徒步走遍世界终返家乡思维导图\" style=\"width:100%;height:auto;font-family:-apple-system,'PingFang SC','Hiragino Sans GB','Microsoft YaHei',sans-serif\"> <rect x=\"24\" y=\"221\" width=\"176\" height=\"88\" rx=\"14\" fill=\"#eae3d2\" stroke=\"#9a8f76\"/> <text x=\"112\" y=\"257\" text-anchor=\"middle\" fill=\"#3d3a34\" font-size=\"17\" font-weight=\"700\">徒步28载</text> <text x=\"112\" y=\"283\" text-anchor=\"middle\" fill=\"#5c5648\" font-size=\"12.5\">28年独步全球·终返家乡</text> <path d=\"M200,265 C232,265 232,88 260,88\" stroke=\"#6b8f71\" stroke-width=\"2\" fill=\"none\"/> <path d=\"M200,265 C232,265 232,265 260,265\" stroke=\"#7d98ad\" stroke-width=\"2\" fill=\"none\"/> <path d=\"M200,265 C232,265 232,442 260,442\" stroke=\"#bd7a6d\" stroke-width=\"2\" fill=\"none\"/> <g class=\"mm-branch\" data-target=\"bc1\"> <rect x=\"260\" y=\"71\" width=\"190\" height=\"34\" rx=\"8\" fill=\"#e6efe7\" stroke=\"#6b8f71\"/> <text x=\"355\" y=\"93\" text-anchor=\"middle\" fill=\"#4c6b52\" font-size=\"15\" font-weight=\"700\">壮举本身（¶3-5）</text> <text class=\"mm-arrow\" data-for=\"bc1\" x=\"442\" y=\"93\" text-anchor=\"end\" fill=\"#4c6b52\">▾</text> </g> <g class=\"mm-children\" id=\"bc1\"> <path d=\"M450,88 C462,88 462,46 480,46\" stroke=\"#6b8f71\" stroke-width=\"1.5\" fill=\"none\"/> <path d=\"M450,88 C462,88 462,88 480,88\" stroke=\"#6b8f71\" stroke-width=\"1.5\" fill=\"none\"/> <path d=\"M450,88 C462,88 462,130 480,130\" stroke=\"#6b8f71\" stroke-width=\"1.5\" fill=\"none\"/> <rect x=\"480\" y=\"30\" width=\"456\" height=\"32\" rx=\"8\" fill=\"#e6efe7\"/><text x=\"492\" y=\"51\" fill=\"#3d3a34\" font-size=\"14\">28年前29岁离队，立两条铁律：不走回头、不乘车</text> <rect x=\"480\" y=\"72\" width=\"456\" height=\"32\" rx=\"8\" fill=\"#e6efe7\"/><text x=\"492\" y=\"93\" fill=\"#3d3a34\" font-size=\"14\">36,000英里横跨4大洲，史上首人连续徒步走遍世界</text> <rect x=\"480\" y=\"114\" width=\"456\" height=\"32\" rx=\"8\" fill=\"#e6efe7\"/><text x=\"492\" y=\"135\" fill=\"#3d3a34\" font-size=\"14\">旅途凶险：白令海峡、达连隘口、枪口、北极熊、俄方羁押驱逐</text> </g> <g class=\"mm-branch\" data-target=\"bc2\"> <rect x=\"260\" y=\"248\" width=\"190\" height=\"34\" rx=\"8\" fill=\"#e5edf4\" stroke=\"#7d98ad\"/> <text x=\"355\" y=\"270\" text-anchor=\"middle\" fill=\"#3d5872\" font-size=\"15\" font-weight=\"700\">英雄归乡（¶1-2,6-7）</text> <text class=\"mm-arrow\" data-for=\"bc2\" x=\"442\" y=\"270\" text-anchor=\"end\" fill=\"#3d5872\">▾</text> </g> <g class=\"mm-children\" id=\"bc2\"> <path d=\"M450,265 C462,265 462,202 480,202\" stroke=\"#7d98ad\" stroke-width=\"1.5\" fill=\"none\"/> <path d=\"M450,265 C462,265 462,244 480,244\" stroke=\"#7d98ad\" stroke-width=\"1.5\" fill=\"none\"/> <path d=\"M450,265 C462,265 462,286 480,286\" stroke=\"#7d98ad\" stroke-width=\"1.5\" fill=\"none\"/> <path d=\"M450,265 C462,265 462,328 480,328\" stroke=\"#7d98ad\" stroke-width=\"1.5\" fill=\"none\"/> <rect x=\"480\" y=\"186\" width=\"456\" height=\"32\" rx=\"8\" fill=\"#e5edf4\"/><text x=\"492\" y=\"207\" fill=\"#3d3a34\" font-size=\"14\">与母亲重逢：28年后重入母亲怀抱</text> <rect x=\"480\" y=\"228\" width=\"456\" height=\"32\" rx=\"8\" fill=\"#e5edf4\"/><text x=\"492\" y=\"249\" fill=\"#3d3a34\" font-size=\"14\">全城英雄礼遇：直升机、广场万人相迎、自叹「这太疯狂」</text> <rect x=\"480\" y=\"270\" width=\"456\" height=\"32\" rx=\"8\" fill=\"#e5edf4\"/><text x=\"492\" y=\"291\" fill=\"#3d3a34\" font-size=\"14\">像民间英雄入场却自嘲「迷路」，幽默反差</text> <rect x=\"480\" y=\"312\" width=\"456\" height=\"32\" rx=\"8\" fill=\"#e5edf4\"/><text x=\"492\" y=\"333\" fill=\"#3d3a34\" font-size=\"14\">推车「野兽2号」回家，初见36岁儿子与12岁孙女</text> </g> <g class=\"mm-branch\" data-target=\"bc3\"> <rect x=\"260\" y=\"425\" width=\"190\" height=\"34\" rx=\"8\" fill=\"#f4e7e4\" stroke=\"#bd7a6d\"/> <text x=\"355\" y=\"447\" text-anchor=\"middle\" fill=\"#7c4a3e\" font-size=\"15\" font-weight=\"700\">意义升华（¶8-10）</text> <text class=\"mm-arrow\" data-for=\"bc3\" x=\"442\" y=\"447\" text-anchor=\"end\" fill=\"#7c4a3e\">▾</text> </g> <g class=\"mm-children\" id=\"bc3\"> <path d=\"M450,442 C462,442 462,400 480,400\" stroke=\"#bd7a6d\" stroke-width=\"1.5\" fill=\"none\"/> <path d=\"M450,442 C462,442 462,442 480,442\" stroke=\"#bd7a6d\" stroke-width=\"1.5\" fill=\"none\"/> <path d=\"M450,442 C462,442 462,484 480,484\" stroke=\"#bd7a6d\" stroke-width=\"1.5\" fill=\"none\"/> <rect x=\"480\" y=\"384\" width=\"456\" height=\"32\" rx=\"8\" fill=\"#f4e7e4\"/><text x=\"492\" y=\"405\" fill=\"#3d3a34\" font-size=\"14\">感谢陌生人与「地球团队」：这是一场全球性努力</text> <rect x=\"480\" y=\"426\" width=\"456\" height=\"32\" rx=\"8\" fill=\"#f4e7e4\"/><text x=\"492\" y=\"447\" fill=\"#3d3a34\" font-size=\"14\">首相贺词：毅力与自信方能成就非凡</text> <rect x=\"480\" y=\"468\" width=\"456\" height=\"32\" rx=\"8\" fill=\"#f4e7e4\"/><text x=\"492\" y=\"489\" fill=\"#3d3a34\" font-size=\"14\">临别赠言「后会有期」，余韵悠长</text> </g> <text x=\"486\" y=\"170\" fill=\"#8a8578\" font-size=\"11.5\">↓ 铸成</text> <text x=\"486\" y=\"368\" fill=\"#8a8578\" font-size=\"11.5\">↓ 升华</text> </svg>",
-  "img": "/Users/malen/.workbuddy/backups/handmap/2026-11-05_徒步28载_手绘.jpg",
+  "aria": "英国老兵28年徒步走遍世界终返家乡思维导图",
   "alt": "手绘版思维导图：徒步28载",
-  "aria": "英国老兵28年徒步走遍世界终返家乡思维导图"
+  "svg": "<svg viewBox=\"0 0 960 530\" xmlns=\"http://www.w3.org/2000/svg\" role=\"img\" aria-label=\"英国老兵28年徒步走遍世界终返家乡思维导图\" style=\"width:100%;height:auto;font-family:-apple-system,'PingFang SC','Hiragino Sans GB','Microsoft YaHei',sans-serif\"> <rect x=\"24\" y=\"221\" width=\"176\" height=\"88\" rx=\"14\" fill=\"#eae3d2\" stroke=\"#9a8f76\"/> <text x=\"112\" y=\"257\" text-anchor=\"middle\" fill=\"#3d3a34\" font-size=\"17\" font-weight=\"700\">徒步28载</text> <text x=\"112\" y=\"283\" text-anchor=\"middle\" fill=\"#5c5648\" font-size=\"12.5\">28年独步全球·终返家乡</text> <path d=\"M200,265 C232,265 232,88 260,88\" stroke=\"#6b8f71\" stroke-width=\"2\" fill=\"none\"/> <path d=\"M200,265 C232,265 232,265 260,265\" stroke=\"#7d98ad\" stroke-width=\"2\" fill=\"none\"/> <path d=\"M200,265 C232,265 232,442 260,442\" stroke=\"#bd7a6d\" stroke-width=\"2\" fill=\"none\"/> <g class=\"mm-branch\" data-target=\"bc1\"> <rect x=\"260\" y=\"71\" width=\"190\" height=\"34\" rx=\"8\" fill=\"#e6efe7\" stroke=\"#6b8f71\"/> <text x=\"355\" y=\"93\" text-anchor=\"middle\" fill=\"#4c6b52\" font-size=\"15\" font-weight=\"700\">壮举本身（¶3-5）</text> <text class=\"mm-arrow\" data-for=\"bc1\" x=\"442\" y=\"93\" text-anchor=\"end\" fill=\"#4c6b52\">▾</text> </g> <g class=\"mm-children\" id=\"bc1\"> <path d=\"M450,88 C462,88 462,46 480,46\" stroke=\"#6b8f71\" stroke-width=\"1.5\" fill=\"none\"/> <path d=\"M450,88 C462,88 462,88 480,88\" stroke=\"#6b8f71\" stroke-width=\"1.5\" fill=\"none\"/> <path d=\"M450,88 C462,88 462,130 480,130\" stroke=\"#6b8f71\" stroke-width=\"1.5\" fill=\"none\"/> <rect x=\"480\" y=\"30\" width=\"456\" height=\"32\" rx=\"8\" fill=\"#e6efe7\"/><text x=\"492\" y=\"51\" fill=\"#3d3a34\" font-size=\"14\">28年前29岁离队，立两条铁律：不走回头、不乘车</text> <rect x=\"480\" y=\"72\" width=\"456\" height=\"32\" rx=\"8\" fill=\"#e6efe7\"/><text x=\"492\" y=\"93\" fill=\"#3d3a34\" font-size=\"14\">36,000英里横跨4大洲，史上首人连续徒步走遍世界</text> <rect x=\"480\" y=\"114\" width=\"456\" height=\"32\" rx=\"8\" fill=\"#e6efe7\"/><text x=\"492\" y=\"135\" fill=\"#3d3a34\" font-size=\"14\">旅途凶险：白令海峡、达连隘口、枪口、北极熊、俄方羁押驱逐</text> </g> <g class=\"mm-branch\" data-target=\"bc2\"> <rect x=\"260\" y=\"248\" width=\"190\" height=\"34\" rx=\"8\" fill=\"#e5edf4\" stroke=\"#7d98ad\"/> <text x=\"355\" y=\"270\" text-anchor=\"middle\" fill=\"#3d5872\" font-size=\"15\" font-weight=\"700\">英雄归乡（¶1-2,6-7）</text> <text class=\"mm-arrow\" data-for=\"bc2\" x=\"442\" y=\"270\" text-anchor=\"end\" fill=\"#3d5872\">▾</text> </g> <g class=\"mm-children\" id=\"bc2\"> <path d=\"M450,265 C462,265 462,202 480,202\" stroke=\"#7d98ad\" stroke-width=\"1.5\" fill=\"none\"/> <path d=\"M450,265 C462,265 462,244 480,244\" stroke=\"#7d98ad\" stroke-width=\"1.5\" fill=\"none\"/> <path d=\"M450,265 C462,265 462,286 480,286\" stroke=\"#7d98ad\" stroke-width=\"1.5\" fill=\"none\"/> <path d=\"M450,265 C462,265 462,328 480,328\" stroke=\"#7d98ad\" stroke-width=\"1.5\" fill=\"none\"/> <rect x=\"480\" y=\"186\" width=\"456\" height=\"32\" rx=\"8\" fill=\"#e5edf4\"/><text x=\"492\" y=\"207\" fill=\"#3d3a34\" font-size=\"14\">与母亲重逢：28年后重入母亲怀抱</text> <rect x=\"480\" y=\"228\" width=\"456\" height=\"32\" rx=\"8\" fill=\"#e5edf4\"/><text x=\"492\" y=\"249\" fill=\"#3d3a34\" font-size=\"14\">全城英雄礼遇：直升机、广场万人相迎、自叹「这太疯狂」</text> <rect x=\"480\" y=\"270\" width=\"456\" height=\"32\" rx=\"8\" fill=\"#e5edf4\"/><text x=\"492\" y=\"291\" fill=\"#3d3a34\" font-size=\"14\">像民间英雄入场却自嘲「迷路」，幽默反差</text> <rect x=\"480\" y=\"312\" width=\"456\" height=\"32\" rx=\"8\" fill=\"#e5edf4\"/><text x=\"492\" y=\"333\" fill=\"#3d3a34\" font-size=\"14\">推车「野兽2号」回家，初见36岁儿子与12岁孙女</text> </g> <g class=\"mm-branch\" data-target=\"bc3\"> <rect x=\"260\" y=\"425\" width=\"190\" height=\"34\" rx=\"8\" fill=\"#f4e7e4\" stroke=\"#bd7a6d\"/> <text x=\"355\" y=\"447\" text-anchor=\"middle\" fill=\"#7c4a3e\" font-size=\"15\" font-weight=\"700\">意义升华（¶8-10）</text> <text class=\"mm-arrow\" data-for=\"bc3\" x=\"442\" y=\"447\" text-anchor=\"end\" fill=\"#7c4a3e\">▾</text> </g> <g class=\"mm-children\" id=\"bc3\"> <path d=\"M450,442 C462,442 462,400 480,400\" stroke=\"#bd7a6d\" stroke-width=\"1.5\" fill=\"none\"/> <path d=\"M450,442 C462,442 462,442 480,442\" stroke=\"#bd7a6d\" stroke-width=\"1.5\" fill=\"none\"/> <path d=\"M450,442 C462,442 462,484 480,484\" stroke=\"#bd7a6d\" stroke-width=\"1.5\" fill=\"none\"/> <rect x=\"480\" y=\"384\" width=\"456\" height=\"32\" rx=\"8\" fill=\"#f4e7e4\"/><text x=\"492\" y=\"405\" fill=\"#3d3a34\" font-size=\"14\">感谢陌生人与「地球团队」：这是一场全球性努力</text> <rect x=\"480\" y=\"426\" width=\"456\" height=\"32\" rx=\"8\" fill=\"#f4e7e4\"/><text x=\"492\" y=\"447\" fill=\"#3d3a34\" font-size=\"14\">首相贺词：毅力与自信方能成就非凡</text> <rect x=\"480\" y=\"468\" width=\"456\" height=\"32\" rx=\"8\" fill=\"#f4e7e4\"/><text x=\"492\" y=\"489\" fill=\"#3d3a34\" font-size=\"14\">临别赠言「后会有期」，余韵悠长</text> </g> <text x=\"486\" y=\"170\" fill=\"#8a8578\" font-size=\"11.5\">↓ 铸成</text> <text x=\"486\" y=\"368\" fill=\"#8a8578\" font-size=\"11.5\">↓ 升华</text> </svg>",
+  "img": "/Users/malen/.workbuddy/backups/handmap/2026-11-05_徒步28载_手绘.jpg"
  }
 }

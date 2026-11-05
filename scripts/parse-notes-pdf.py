@@ -141,6 +141,16 @@ def run(pdf, proper_mark, practice_mark, drop):
     while i < para_end:
         l = clean[i]
         m = re.match(r'^(\d+)\.\s+(.+)$', l)
+        mn = re.match(r'^(\d+)\.$', l)          # 编号单独占一行（PDF 折行）
+        if mn and not m:
+            j = i + 1
+            while j < para_end and (clean[j] == '@@PAGE@@' or not clean[j].strip()):
+                j += 1
+            if j < para_end and not CJK.search(clean[j][:2]):
+                l = f'{mn.group(1)}. ' + clean[j].strip()
+                clean[i] = l
+                clean[j] = ''                   # 已并入，勿重复计入
+                m = re.match(r'^(\d+)\.\s+(.+)$', l)
         mcard = re.match(r'^【(.+?)】\s*(/[^/]+/)?\s*(.*)$', l)
         if l == '@@PAGE@@' or not l.strip():
             i += 1
@@ -209,6 +219,10 @@ def run(pdf, proper_mark, practice_mark, drop):
             mode = 'a'
             continue
         bucket = practice if mode == 'q' else answers
+        mb = re.match(r'^[•·]\s*(.+)$', t)      # 答案常用「•」列条目
+        if mb and mode == 'a':
+            bucket.append(mb.group(1).strip())
+            continue
         m = re.match(r'^\d+\.\s*(.+)$', t)
         if m:
             bucket.append(m.group(1).strip())
