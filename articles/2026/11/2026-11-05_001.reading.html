@@ -78,6 +78,13 @@ h1{font-size:22px;font-weight:700}
   padding:14px 14px 16px;color:var(--ink-light);font-size:14px;margin-bottom:24px;
 }
 .mindmap img{max-width:100%;border-radius:8px}
+/* 延伸阅读：环球路线地图 */
+.mm-map-link{margin:2px 0 10px;font-size:13.5px}
+.mm-map-link a{
+  color:var(--accent,#8a6b4f);text-decoration:none;
+  border-bottom:1px dashed #b9a888;padding-bottom:1px;-webkit-tap-highlight-color:transparent;
+}
+.mm-map-link a:active{opacity:.7}
 /* 导图双版本切换 */
 .mm-switch{display:flex;justify-content:flex-end;gap:8px;margin-bottom:10px}
 .mm-btn{
@@ -545,6 +552,7 @@ body.print-sheet .pager{display:none !important}
 
     <!-- 思维导图 -->
     <section class="mindmap" id="mindmap">
+      <div class="mm-map-link">🗺️ <a href="2026-11-05_bushby-map.html" target="_blank" rel="noopener">延伸：Karl Bushby 28 年环球徒步路线地图（出发 / 途经 / 抵达全标注）</a></div>
       <div class="mm-switch">
         <button class="mm-btn" id="mm-all-btn" onclick="toggleAllMindmap()">全部收起</button>
         <button class="mm-btn" id="mm-vector-btn" onclick="showMindmap('vector',this)">矢量版</button>
