@@ -32,6 +32,7 @@ RADICAL_MAP = {
     '\u2ea0': '民', '\u2ed3': '长', '\u2ecb': '车', '\u2edb': '风', '\u2ee2': '马',
     '\u2ed4': '门', '\u2edd': '食', '\u2edc': '飞', '\u2ec6': '角', '\u2eee': '齿',
     '\u2ebf': '言', '\u2ea2': '月', '\u2eb9': '高', '\u2ec2': '页',
+    '\u2ec4': '西', '\u2ec5': '见',
 }
 
 
@@ -40,8 +41,7 @@ def fix_radicals(t: str) -> str:
     out = []
     for ch in t:
         o = ord(ch)
-        if o in (0x2EA0, 0x2ED3, 0x2ECB, 0x2EDB, 0x2EE2, 0x2ED4, 0x2EDD,
-                 0x2EDC, 0x2EC6, 0x2EEE, 0x2EBF, 0x2EA2, 0x2EB9, 0x2EC2):
+        if ch in RADICAL_MAP:
             out.append(RADICAL_MAP[ch])
         elif 0x2E80 <= o <= 0x2FDF:
             n = unicodedata.normalize('NFKC', ch)

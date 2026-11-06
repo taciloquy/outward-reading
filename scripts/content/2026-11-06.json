@@ -1,70 +1,774 @@
 {
  "date": "2026-11-06",
- "title_tag": "特朗普的「致命豪赌」：从权力无限到被选民彻底否定 —— 美国《华尔街日报》外刊讲解第1220天",
+ "title_tag": "特朗普的「致命豪赌」：从权力无限到被选民彻底否定，只用了几个月 —— 美国《华尔街日报》外刊讲解第1220天",
  "h1": "特朗普的「致命豪赌」：从权力无限到被选民彻底否定，只用了几个月",
  "source_label": "The Wall Street Journal",
  "category": "美国《华尔街日报》外刊讲解 第1220天",
  "read_minutes": 15,
  "nav_hint": "How Trump Lost the Midterms",
  "headline": {
-  "en_html": "<span>How Trump Lost the Midterms</span>",
-  "zh": "",
-  "notes": []
+  "en_html": "How Trump Lost the <mark class=\"voc\">Midterms</mark>",
+  "zh": "特朗普如何输掉中期选举",
+  "notes": [
+   {
+    "w": "midterms",
+    "ipa": "/ˈmɪdˌtɜːrmz/",
+    "pos": "n.",
+    "en": "elections held in the middle of a president's term of office, especially in the United States",
+    "zh": "中期选举",
+    "ctx": "指美国总统四年任期中间举行的国会选举，通常被视为选民对现任总统及其执政表现的一次检验。",
+    "ex1": "The midterms could dramatically change the balance of power in Congress. 中期选举可能彻底改变国会的权力格局。",
+    "ex2": "Rising living costs became a central issue in the midterms. 不断上涨的生活成本成为中期选举的核心议题。"
+   }
+  ]
  },
  "paragraphs": [
   {
-   "en_html": "<span>In mid-February, one of President Trump’s economic advisers arrived at the Oval Office with charts showing how the administration’s policies might be making America great again. Household income was up, particularly among low-income Americans. Retirement accounts were soaring. And the nation’s economic growth was even better than projected. “This is great stuff,” said Trump. He had completed his first year back in office, and his power seemed limitless.</span>",
-   "zh": "",
-   "notes": []
+   "en_html": "In mid-February, one of President Trump’s economic advisers arrived at the Oval Office with charts showing how the <mark class=\"voc\">administration</mark>’s policies might be making America great again. <mark class=\"voc\">Household income</mark> was up, particularly among low-income Americans. Retirement accounts were <mark class=\"voc\">soaring</mark>. And the nation’s economic growth was even better than <mark class=\"voc\">projected</mark>. “This is great stuff,” said Trump. He had completed his first year <mark class=\"voc\">back in office</mark>, and his power seemed limitless.",
+   "zh": "2月中旬，特朗普总统的一名经济顾问带着几张图表来到椭圆形办公室，向他展示本届政府的政策可能正在如何让美国再次伟大。家庭收入有所增长，尤其是低收入美国人的收入。退休账户的资产价值一路飙升。美国的经济增长甚至比预期还要强劲。“这可真是好消息。”特朗普说道。此时，他重返白宫执政已经满一年，而他的权力似乎没有任何限制。——美国《华尔街日报》外刊讲解第1220天",
+   "notes": [
+    {
+     "w": "administration",
+     "ipa": "/ədˌmɪnɪˈstreɪʃən/",
+     "pos": "n.",
+     "en": "the government of a country, especially the executive branch under a particular president",
+     "zh": "政府；行政当局；某届政府",
+     "ctx": "特指特朗普领导的美国政府及其执政团队，而不是一般意义上的行政管理。",
+     "ex1": "The administration introduced a series of measures to stimulate economic growth. 本届政府推出了一系列刺激经济增长的措施。",
+     "ex2": "Critics accused the administration of ignoring the concerns of ordinary families. 批评人士指责政府忽视普通家庭的担忧。"
+    },
+    {
+     "w": "household income",
+     "ipa": "/ˈhaʊshoʊld ˈɪnkʌm/",
+     "pos": "n.",
+     "en": "the total amount of money earned by all members of a household over a particular period",
+     "zh": "家庭收入；家庭总收入",
+     "ctx": "指美国家庭获得的总收入，文章用这一指标说明当时经济数据呈现出的积极迹象。",
+     "ex1": "Household income has risen steadily, but many families still struggle with housing costs. 家庭收入一直稳步增长，但许多家庭仍难以承担住房开支。",
+     "ex2": "A higher household income does not necessarily guarantee a better quality of life. 更高的家庭收入并不一定意味着更好的生活质量。"
+    },
+    {
+     "w": "soar",
+     "ipa": "/sɔːr/",
+     "pos": "v.",
+     "en": "to increase very quickly to a high level",
+     "zh": "猛增；飙升；急剧上涨",
+     "ctx": "形容美国人的退休账户资产价值快速上涨，强调增长幅度大、速度快。",
+     "ex1": "Shares in the technology company soared after it announced record profits. 这家科技公司宣布创纪录的利润后，股价大幅飙升。",
+     "ex2": "Demand for electric vehicles soared as fuel prices continued to rise. 随着燃油价格持续上涨，电动汽车的需求猛增。"
+    },
+    {
+     "w": "project",
+     "ipa": "/prəˈdʒekt/",
+     "pos": "v.",
+     "en": "to estimate or predict what will happen in the future based on available information",
+     "zh": "预测；预计；推算",
+     "ctx": "文章中的 projected 指经济学家或相关机构此前对美国经济增长作出的预测；better than projected 表示实际经济增长表现好于预期。",
+     "ex1": "The country's economy is projected to grow by three percent next year. 预计该国经济明年将增长百分之三。",
+     "ex2": "The project cost significantly more than officials had originally projected. 这个项目的成本远远超过官员最初的预计。"
+    },
+    {
+     "w": "back in office",
+     "ipa": "/bæk ɪn ˈɔːfɪs/",
+     "pos": "phr.",
+     "en": "having returned to an official position of authority after previously leaving it",
+     "zh": "重新执政；重返公职；重新掌权",
+     "ctx": "指特朗普在结束上一届总统任期后，再次当选并重返白宫执政。",
+     "ex1": "After several years away from politics, the former president was back in office. 离开政坛数年后，这位前总统重新执政。",
+     "ex2": "Within months of being back in office, the governor introduced major reforms. 重新上任后的几个月内，这位州长就推出了重大改革。"
+    }
+   ]
   },
   {
-   "en_html": "<span>Within days, Trump made a decision that would change everything. After campaigning on ending foreign wars, Trump wagered on one of his own, triggering an open-ended conflict that has seen the deaths of more than 20 U.S. servicemembers, cost U.S. taxpayers more than $47 billion, and pushed up the cost of everything from freight to fertilizer. On Tuesday, Republicans suffered losses that amounted to one of the most decisive repudiations of a president in modern history. It was likely a direct result of Trump’s decision to go to war in Iran, sending gas prices up 40%, leaving many of his most loyal supporters disillusioned and effectively drawing a curtain on the Trump age.</span>",
-   "zh": "",
-   "notes": []
+   "en_html": "Within days, Trump made a decision that would change everything. After <mark class=\"voc\">campaigning on</mark> ending foreign wars, Trump <mark class=\"voc\">wagered on</mark> one of his own, triggering an <mark class=\"voc\">open-ended</mark> conflict that has seen the deaths of more than 20 U.S. <mark class=\"voc\">servicemembers</mark>, cost U.S. taxpayers more than $47 billion, and pushed up the cost of everything from freight to fertilizer. On Tuesday, Republicans suffered losses that <mark class=\"voc\">amounted to</mark> one of the most decisive <mark class=\"voc\">repudiations</mark> of a president in modern history. It was likely a direct result of Trump’s decision to go to war in Iran, sending gas prices up 40%, leaving many of his most loyal supporters <mark class=\"voc\">disillusioned</mark> and effectively <mark class=\"voc\">drawing a curtain on</mark> the Trump age.",
+   "zh": "——美国《华尔街日报》外刊讲解第1220天短短几天之内，特朗普就作出了一个将改变一切的决定。此前，他在竞选时一直主张结束海外战争，如今却决定押注一场由自己发动的战争，引发了一场看不到明确终点的冲突。这场冲突已造成20多名美国军人死亡，耗费美国纳税人超过470亿美元，并推高了从货运到化肥等几乎所有商品和服务的成本。周二，共和党遭遇了惨重的选举失利，其严重程度堪称美国现代历史上选民对总统最坚决的否定之一。这很可能是特朗普决定对伊朗开战的直接后果：汽油价格上涨了40%，令许多最忠诚的支持者深感失望，也实际上宣告了特朗普时代的落幕。——美国《华尔街日报》外刊讲解第1220天",
+   "notes": [
+    {
+     "w": "campaign on",
+     "ipa": "/kæmˈpeɪn ɑːn/",
+     "pos": "phr.",
+     "en": "to make a particular issue or promise a central part of an election campaign",
+     "zh": "以某项主张作为竞选纲领；围绕某项议题展开竞选",
+     "ctx": "指特朗普在竞选期间将结束海外战争作为重要政治承诺，以此争取选民支持。",
+     "ex1": "The candidate campaigned on a promise to reduce taxes for working families. 这位候选人以为工薪家庭减税的承诺作为竞选主张。",
+     "ex2": "She successfully campaigned on improving public education and healthcare. 她以改善公共教育和医疗保健为竞选纲领，并成功赢得选举。"
+    },
+    {
+     "w": "wager on",
+     "ipa": "/ˈweɪdʒər ɑːn/",
+     "pos": "phr.",
+     "en": "to risk something important because you believe a particular action or outcome will be successful",
+     "zh": "押注于；把希望寄托在；冒险赌一把",
+     "ctx": "指特朗普冒着巨大的政治和经济风险，决定发动一场战争，暗含这一决定具有赌博性质，结果充满不确定性。",
+     "ex1": "The company wagered on artificial intelligence becoming the next major technological revolution. 这家公司押注人工智能将成为下一场重大技术革命。",
+     "ex2": "The prime minister wagered his political future on a controversial economic reform. 首相将自己的政治前途押在了一项充满争议的经济改革上。"
+    },
+    {
+     "w": "open-ended",
+     "ipa": "/ˌoʊpən ˈendɪd/",
+     "pos": "adj.",
+     "en": "without a fixed limit, definite conclusion or predetermined ending",
+     "zh": "没有明确期限的；结局未定的；开放式的",
+     "ctx": "open-ended conflict 指一场没有明确结束时间、军事目标或退出安排的冲突，强调战争可能长期持续。",
+     "ex1": "The government faced criticism for making an open-ended military commitment overseas. 政府因在海外作出没有明确期限的军事承诺而受到批评。",
+     "ex2": "The two countries entered into open-ended negotiations over the disputed territory. 两国就争议领土展开了没有预设结束期限的谈判。"
+    },
+    {
+     "w": "servicemember",
+     "ipa": "/ˈsɜːrvɪsˌmembər/",
+     "pos": "n.",
+     "en": "a person who serves in the armed forces of a country",
+     "zh": "军人；武装部队成员",
+     "ctx": "U.S. servicemembers 指美国现役军人，文章用这一表达说明战争造成的美军人员死亡。",
+     "ex1": "Thousands of servicemembers were deployed overseas during the crisis. 危机期间，数千名军人被派往海外。",
+     "ex2": "The ceremony honored servicemembers who had lost their lives in combat. 这场仪式旨在纪念在战斗中牺牲的军人。"
+    },
+    {
+     "w": "amount to",
+     "ipa": "/əˈmaʊnt tuː/",
+     "pos": "phr.",
+     "en": "to be equal to something in meaning, effect or importance",
+     "zh": "相当于；等同于；意味着",
+     "ctx": "文章中的 losses that amounted to one of the most decisive repudiations 表示共和党的选举失利，其政治意义相当于选民对总统作出的一次极其坚决的否定。",
+     "ex1": "The court ruled that the company's actions amounted to a serious violation of consumer rights. 法院裁定，这家公司的行为构成了对消费者权益的严重侵犯。",
+     "ex2": "His refusal to answer the question amounted to an admission that something had gone wrong. 他拒绝回答这个问题，实际上等于承认出了问题。"
+    },
+    {
+     "w": "repudiation",
+     "ipa": "/rɪˌpjuːdiˈeɪʃən/",
+     "pos": "n.",
+     "en": "the act of strongly rejecting, refusing to accept or publicly disapproving of something",
+     "zh": "坚决否定；断然拒绝；公开否认",
+     "ctx": "指选民通过选举结果对特朗普的政策和执政表现表达强烈反对，具有明显的政治否定意味。",
+     "ex1": "The election result was widely interpreted as a repudiation of the government's economic policies. 这次选举结果被普遍解读为选民对政府经济政策的否定。",
+     "ex2": "The party's defeat represented a clear repudiation of its increasingly unpopular leadership. 该党的失败意味着选民明确否定了其日益不得人心的领导层。"
+    },
+    {
+     "w": "disillusioned",
+     "ipa": "/ˌdɪsɪˈluːʒənd/",
+     "pos": "adj.",
+     "en": "disappointed because someone or something is not as good, honest or successful as you previously believed",
+     "zh": "幻想破灭的；失望的；理想破灭的",
+     "ctx": "指特朗普原本最忠诚的支持者因为他的战争决定及其经济后果而感到失望，原先对他的信任和期待开始破灭。",
+     "ex1": "Many young voters became disillusioned with politics after years of broken promises. 在经历多年落空的承诺后，许多年轻选民对政治感到失望。",
+     "ex2": "She grew increasingly disillusioned with the company when its leaders failed to keep their promises. 当公司领导层未能兑现承诺时，她对公司的幻想逐渐破灭。"
+    },
+    {
+     "w": "draw a curtain on",
+     "ipa": "/drɔː ə ˈkɜːrtən ɑːn/",
+     "pos": "phr.",
+     "en": "to bring something to an end or mark the conclusion of a particular period or activity",
+     "zh": "结束；宣告落幕；为……画上句号",
+     "ctx": "effectively drawing a curtain on the Trump age 指这场战争及其引发的政治失败实际上宣告了特朗普政治时代的落幕，带有强烈的历史性和戏剧性色彩。",
+     "ex1": "The president's resignation drew a curtain on a decade of political dominance. 总统的辞职为长达十年的政治主导地位画上了句号。",
+     "ex2": "The closure of the historic factory drew a curtain on the town's industrial past. 这家历史悠久的工厂关闭，宣告了这座小镇工业时代的结束。"
+    }
+   ]
   },
   {
-   "en_html": "<span>Conservative commentator Matt Walsh described the war as “the greatest political blunder in the last two decades,” and a betrayal of Trump’s America First movement. “We’re going to have to find a new leader because Trump abandoned it,” he said in an interview. While Trump publicly defended the war, privately he asked people around him whether he should change course, including junior staffers who gathered for a photo. The war wasn’t the only issue contributing to Tuesday’s crushing defeat for Republicans. Trump also lost his advantage on immigration. After first lady Melania Trump complained about people she knew getting deported, the president would tell aides that the architect of his aggressive immigration campaign, Stephen Miller, had gone too far.</span>",
-   "zh": "",
-   "notes": []
+   "en_html": "<mark class=\"voc\">Conservative</mark> commentator Matt Walsh described the war as “the greatest political <mark class=\"voc\">blunder</mark> in the last two decades,” and a <mark class=\"voc\">betrayal</mark> of Trump’s America First movement. “We’re going to have to find a new leader because Trump abandoned it,” he said in an interview. While Trump publicly defended the war, privately he asked people around him whether he should <mark class=\"voc\">change course</mark>, including <mark class=\"voc\">junior staffers</mark> who gathered for a photo. The war wasn’t the only issue contributing to Tuesday’s <mark class=\"voc\">crushing</mark> defeat for Republicans. Trump also lost his advantage on immigration. After first lady Melania Trump complained about people she knew getting <mark class=\"voc\">deported</mark>, the president would tell aides that the <mark class=\"voc\">architect</mark> of his aggressive immigration campaign, Stephen Miller, had <mark class=\"voc\">gone too far</mark>.",
+   "zh": "——美国《华尔街日报》外刊讲解第1220天保守派评论员马特·沃尔什将这场战争形容为“过去二十年来最大的政治失误”，并认为这是对特朗普“美国优先”运动的背叛。“我们将不得不寻找一位新的领导人，因为特朗普已经背弃了这一运动。”他在一次采访中说道。尽管特朗普公开为这场战争辩护，但私下里，他却向身边的人询问自己是否应该改变路线，甚至包括那些聚在一起准备合影的初级工作人员。战争并不是导致共和党在周二遭遇惨败的唯一问题。特朗普在移民议题上也失去了原有的优势。在第一夫人梅拉尼娅·特朗普抱怨自己认识的一些人遭到驱逐出境后，总统后来向助手们表示，主导其强硬移民政策的斯蒂芬·米勒做得太过火了。——美国《华尔街日报》外刊讲解第1220天",
+   "notes": [
+    {
+     "w": "conservative",
+     "ipa": "/kənˈsɜːrvətɪv/",
+     "pos": "adj.",
+     "en": "supporting traditional values and generally opposing sudden or major political and social changes",
+     "zh": "保守主义的；保守派的",
+     "ctx": "指马特·沃尔什在政治立场上属于美国保守派，通常支持右翼政治理念，因此他对特朗普的公开批评尤其引人关注。",
+     "ex1": "The conservative politician opposed the proposed changes to the education system. 这位保守派政治人物反对拟议中的教育制度改革。",
+     "ex2": "Some conservative voters expressed concern about the government's foreign policy. 一些保守派选民对政府的外交政策表示担忧。"
+    },
+    {
+     "w": "blunder",
+     "ipa": "/ˈblʌndər/",
+     "pos": "n.",
+     "en": "a serious or careless mistake, especially one that causes problems or embarrassment",
+     "zh": "严重失误；愚蠢的错误；重大疏忽",
+     "ctx": "指沃尔什认为特朗普发动战争是过去二十年来最严重的政治错误，强调这一决定不仅错误，而且造成了灾难性的政治后果。",
+     "ex1": "The minister's careless remarks were widely regarded as a major political blunder. 这位部长不谨慎的言论被普遍视为一次重大的政治失误。",
+     "ex2": "A simple diplomatic blunder nearly destroyed years of negotiations. 一次简单的外交失误几乎毁掉了多年的谈判成果。"
+    },
+    {
+     "w": "betrayal",
+     "ipa": "/bɪˈtreɪəl/",
+     "pos": "n.",
+     "en": "the act of being disloyal to someone or failing to support a person, principle or belief",
+     "zh": "背叛；辜负；违背信任",
+     "ctx": "指特朗普发动战争被批评者视为背弃了“美国优先”运动原本反对海外军事干预的政治理念。",
+     "ex1": "Many supporters saw the broken campaign promise as a betrayal of their trust. 许多支持者将这一落空的竞选承诺视为对他们信任的背叛。",
+     "ex2": "The decision was condemned as a betrayal of the party's founding principles. 这一决定被谴责为对该党创立原则的背叛。"
+    },
+    {
+     "w": "change course",
+     "ipa": "/tʃeɪndʒ kɔːrs/",
+     "pos": "phr.",
+     "en": "to change a plan, policy or way of doing something because the original approach is no longer suitable",
+     "zh": "改变方向；调整路线；改变原有方针",
+     "ctx": "指特朗普私下询问身边人，自己是否应该调整战争政策或改变此前采取的政治路线。",
+     "ex1": "The government was forced to change course after its economic reforms failed. 经济改革失败后，政府被迫改变政策方向。",
+     "ex2": "Facing declining public support, the party decided to change course before the election. 面对不断下降的公众支持率，该党决定在选举前调整路线。"
+    },
+    {
+     "w": "junior staffer",
+     "ipa": "/ˈdʒuːniər ˈstæfər/",
+     "pos": "n.",
+     "en": "an employee who holds a relatively low-ranking position within an organization",
+     "zh": "初级工作人员；基层职员；资历较浅的员工",
+     "ctx": "指白宫内部职位较低、资历较浅的工作人员。文章强调特朗普甚至向这些原本只是聚在一起合影的基层员工征求意见。",
+     "ex1": "The junior staffer was surprised when the director asked for her opinion. 当主管征求她的意见时，这名初级员工感到十分惊讶。",
+     "ex2": "Several junior staffers attended the meeting to learn how senior officials made decisions. 几名初级工作人员参加了会议，以了解高级官员如何作出决策。"
+    },
+    {
+     "w": "crushing",
+     "ipa": "/ˈkrʌʃɪŋ/",
+     "pos": "adj.",
+     "en": "extremely severe or decisive, especially when describing a defeat or disappointment",
+     "zh": "惨重的；压倒性的；毁灭性的",
+     "ctx": "crushing defeat 指共和党在中期选举中遭遇的严重失败，强调选举结果带来的巨大政治打击。",
+     "ex1": "The ruling party suffered a crushing defeat in the national election. 执政党在全国选举中遭遇惨败。",
+     "ex2": "The unexpected result dealt a crushing blow to the prime minister's political ambitions. 这一出人意料的结果给首相的政治抱负带来了沉重打击。"
+    },
+    {
+     "w": "deport",
+     "ipa": "/dɪˈpɔːrt/",
+     "pos": "v.",
+     "en": "to officially force someone to leave a country, usually because they do not have the legal right to remain there",
+     "zh": "驱逐出境；遣返",
+     "ctx": "指特朗普政府执行移民执法政策，将部分人员强制遣送出美国，其中包括梅拉尼娅认识的人。",
+     "ex1": "The authorities decided to deport several foreign nationals who had violated immigration laws. 当局决定将几名违反移民法律的外国公民驱逐出境。",
+     "ex2": "The family feared that their father might be deported after his visa expired. 这家人担心父亲会在签证到期后被遣返。"
+    },
+    {
+     "w": "architect",
+     "ipa": "/ˈɑːrkɪtekt/",
+     "pos": "n.",
+     "en": "a person who is mainly responsible for creating or developing an important plan, system or policy",
+     "zh": "设计者；策划者；主要制定者",
+     "ctx": "并非指建筑师，而是比喻斯蒂芬·米勒是特朗普强硬移民政策的主要设计者和推动者。",
+     "ex1": "She was widely regarded as the architect of the country's successful education reforms. 她被普遍认为是该国成功教育改革的主要设计者。",
+     "ex2": "The former minister was the chief architect of the controversial tax policy. 这位前部长是那项争议性税收政策的主要策划者。"
+    },
+    {
+     "w": "go too far",
+     "ipa": "/ɡoʊ tuː fɑːr/",
+     "pos": "phr.",
+     "en": "to behave in an excessive or unacceptable way, or to take an action beyond reasonable limits",
+     "zh": "做得太过分；走得太远；超出合理限度",
+     "ctx": "had gone too far 指特朗普认为米勒在执行强硬移民政策时采取了过于激进的措施，已经超出了可以接受的范围。",
+     "ex1": "Even some government supporters believed the new restrictions had gone too far. 就连一些政府支持者也认为，新限制措施做得太过分了。",
+     "ex2": "The manager admitted that he had gone too far in criticizing his employees. 这位经理承认，自己批评员工时确实做得太过火了。"
+    }
+   ]
   },
   {
-   "en_html": "<span>When Trump’s aides told him in the spring and summer that polls showed voters concerned about his handling of affordability, he said the polling was fake, the senior administration official said. Trump also pushed out of Senate races Republican candidates who would have faced better odds, including in Georgia, South Carolina, North Carolina and Texas. He instead anointed candidates he believed would be loyal to him. Democrats won in all four of these states. “It really didn’t have to be this way,” said Rep. Ralph Norman, the Republican who lost the South Carolina Republican nomination to Sen. Darline Graham after Trump swooped in. “Pride goeth before the fall. It’s going to be a wake-up call for the Republican Party.”</span>",
-   "zh": "",
-   "notes": []
+   "en_html": "When Trump’s aides told him in the spring and summer that polls showed voters concerned about his <mark class=\"voc\">handling</mark> of affordability, he said the <mark class=\"voc\">polling</mark> was fake, the senior administration official said. Trump also pushed out of Senate races Republican candidates who would have faced better <mark class=\"voc\">odds</mark>, including in Georgia, South Carolina, North Carolina and Texas. He instead <mark class=\"voc\">anointed</mark> candidates he believed would be loyal to him. Democrats won in all four of these states. “It really didn’t have to be this way,” said Rep. Ralph Norman, the Republican who lost the South Carolina Republican <mark class=\"voc\">nomination</mark> to Sen. Darline Graham after Trump <mark class=\"voc\">swooped in</mark>. “<mark class=\"voc\">Pride goeth before the fall</mark>. It’s going to be a <mark class=\"voc\">wake-up call</mark> for the Republican Party.”",
+   "zh": "——美国《华尔街日报》外刊讲解第1220天据一名政府高级官员透露，今年春夏两季，特朗普的助手告诉他，民调显示选民对他处理生活成本问题的方式感到担忧，但特朗普却声称这些民调是假的。特朗普还将一些原本更有胜算的共和党候选人排挤出参议院选举，包括佐治亚州、南卡罗来纳州、北卡罗来纳州和得克萨斯州的候选人。相反，他亲自指定了那些他认为会忠于自己的候选人。最终，民主党在这四个州全部获胜。“事情原本真的不必发展成这样。”共和党众议员拉尔夫·诺曼说道。在特朗普介入后，诺曼输掉了南卡罗来纳州共和党提名之争，败给了参议员达琳·格雷厄姆。“骄傲在败坏以先。这将给共和党敲响警钟。”——美国《华尔街日报》外刊讲解第1220天",
+   "notes": [
+    {
+     "w": "handling",
+     "ipa": "/ˈhændlɪŋ/",
+     "pos": "n.",
+     "en": "the way in which someone deals with or manages a situation, problem or responsibility",
+     "zh": "处理；应对；管理方式",
+     "ctx": "his handling of affordability 指特朗普应对生活成本及民众经济负担问题的方式，强调选民对其政策表现的不满。",
+     "ex1": "The government's handling of the housing crisis attracted widespread criticism. 政府处理住房危机的方式招致了广泛批评。",
+     "ex2": "Voters expressed dissatisfaction with the president's handling of the economy. 选民对总统处理经济问题的方式表示不满。"
+    },
+    {
+     "w": "polling",
+     "ipa": "/ˈpoʊlɪŋ/",
+     "pos": "n.",
+     "en": "the process of asking people questions to find out their opinions, especially about politics or elections",
+     "zh": "民意调查；民调活动",
+     "ctx": "指通过调查了解选民对特朗普经济政策的评价。特朗普认为这些显示自己支持率或政策评价不佳的民调是假的。",
+     "ex1": "Recent polling suggests that voters are increasingly worried about inflation. 最近的民调显示，选民越来越担忧通货膨胀。",
+     "ex2": "The candidate dismissed the unfavorable polling as inaccurate. 这位候选人认为对自己不利的民调不准确，并对此不予理会。"
+    },
+    {
+     "w": "odds",
+     "ipa": "/ɑːdz/",
+     "pos": "n.",
+     "en": "the chances or likelihood that something will happen, especially that someone will succeed",
+     "zh": "可能性；成功概率；胜算",
+     "ctx": "faced better odds 指某些共和党候选人原本拥有更高的获胜概率，但特朗普却将他们排挤出竞选。",
+     "ex1": "The candidate's odds of winning improved after a strong performance in the debate. 这位候选人在辩论中表现出色后，获胜的可能性有所提高。",
+     "ex2": "Despite the difficult circumstances, the team managed to overcome the odds. 尽管处境艰难，这支团队仍然克服了重重困难。"
+    },
+    {
+     "w": "anoint",
+     "ipa": "/əˈnɔɪnt/",
+     "pos": "v.",
+     "en": "to officially or publicly choose someone for an important position, often without a competitive selection process",
+     "zh": "选定；指定；钦定",
+     "ctx": "指特朗普凭借个人影响力指定自己偏好的共和党候选人，而不是优先考虑他们在选举中的胜算。这里带有明显的政治讽刺意味。",
+     "ex1": "The party leader effectively anointed his closest ally as the next candidate. 该党领导人实际上钦定了自己最亲密的盟友作为下一任候选人。",
+     "ex2": "Political insiders criticized the decision to anoint a successor without consulting ordinary party members. 政界内部人士批评了未经普通党员协商便指定接班人的决定。"
+    },
+    {
+     "w": "nomination",
+     "ipa": "/ˌnɑːmɪˈneɪʃən/",
+     "pos": "n.",
+     "en": "the official selection of someone as a candidate for an election or an important position",
+     "zh": "提名；候选人资格；正式推举",
+     "ctx": "South Carolina Republican nomination 指南卡罗来纳州共和党参议员候选人的党内提名资格，获得提名者才能代表共和党参加正式选举。",
+     "ex1": "She secured the party's nomination after defeating three opponents in the primary election. 她在初选中击败三名对手，获得了该党的提名。",
+     "ex2": "The senator's unexpected withdrawal completely changed the race for the nomination. 这位参议员意外退出，彻底改变了党内提名之争的局势。"
+    },
+    {
+     "w": "swoop in",
+     "ipa": "/swuːp ɪn/",
+     "pos": "phr.",
+     "en": "to arrive or become involved suddenly and quickly, often to take control of a situation",
+     "zh": "突然介入；迅速插手；突然采取行动",
+     "ctx": "指特朗普突然介入南卡罗来纳州共和党候选人的提名竞争，并利用自己的政治影响力改变了选举局势。",
+     "ex1": "The party leadership swooped in at the last minute to support a different candidate. 该党领导层在最后一刻突然介入，转而支持另一位候选人。",
+     "ex2": "A large technology company swooped in and acquired the struggling startup. 一家大型科技公司突然出手，收购了这家陷入困境的初创企业。"
+    },
+    {
+     "w": "pride goeth before the fall",
+     "ipa": "/praɪd ˈɡoʊɪθ bɪˈfɔːr ðə fɔːl/",
+     "pos": "phr.",
+     "en": "an old-fashioned expression meaning that excessive pride or arrogance often leads to failure",
+     "zh": "骄傲使人跌倒；骄兵必败；傲慢是失败的前兆",
+     "ctx": "诺曼借用带有圣经色彩的古老表达，讽刺特朗普因过度自信、拒绝听取不同意见而使共和党遭遇选举失败。goeth 是古英语风格的 goes。",
+     "ex1": "The CEO ignored every warning, proving once again that pride goeth before the fall. 这位首席执行官无视所有警告，再次印证了骄兵必败的道理。",
+     "ex2": "After the team's unexpected defeat, the coach reminded his players that pride goeth before the fall. 球队意外失利后，教练提醒队员们，骄傲往往是失败的前兆。"
+    },
+    {
+     "w": "wake-up call",
+     "ipa": "/ˈweɪk ʌp kɔːl/",
+     "pos": "n.",
+     "en": "an event or experience that makes someone realize they need to take action or change their behavior",
+     "zh": "警钟；警醒；促使人改变的事件",
+     "ctx": "指共和党的惨败将迫使党内人士重新审视特朗普的领导方式、候选人选择以及整体竞选策略。",
+     "ex1": "The unexpected election defeat served as a wake-up call for the ruling party. 这场意外的选举失败给执政党敲响了警钟。",
+     "ex2": "The company's declining sales were a wake-up call that its business strategy needed to change. 销售额持续下滑给公司敲响了警钟，表明其商业战略需要调整。"
+    }
+   ]
   },
   {
-   "en_html": "<span>By August, polls showed Republicans had lost their edge with voters on the economy. Trump aides grew deeply concerned in August when internal polling showed voters overwhelmingly blamed Trump for inflation over Democrats. In September, gasoline prices in the U.S. shot up 16 cents in a single week. Not long after, diesel prices hit a record high. On one Republican call, a pollster said, “People will mark the last week of September as the week the bottom fell out.”</span>",
-   "zh": "",
-   "notes": []
+   "en_html": "By August, polls showed Republicans had lost their <mark class=\"voc\">edge</mark> with voters on the economy. Trump aides <mark class=\"voc\">grew deeply concerned</mark> in August when internal polling showed voters <mark class=\"voc\">overwhelmingly</mark> blamed Trump for inflation over Democrats. In September, gasoline prices in the U.S. <mark class=\"voc\">shot up</mark> 16 cents in a single week. Not long after, diesel prices hit a record high. On one Republican call, a <mark class=\"voc\">pollster</mark> said, “People will mark the last week of September as the week <mark class=\"voc\">the bottom fell out</mark>.”",
+   "zh": "到了8月，民调显示，共和党在经济议题上已经失去了相对于民主党的选民支持优势。8月，当内部民调显示，选民将通货膨胀归咎于特朗普的人数远远超过归咎于民主党的人数时，特朗普的助手们开始深感担忧。9月，美国汽油价格在短短一周内就上涨了16美分。不久之后，柴油价格创下历史新高。在一次共和党内部电话会议上，一名民调专家说道：“人们将会记住9月的最后一周，因为那正是局势彻底崩盘的一周。”——美国《华尔街日报》外刊讲解第1220天",
+   "notes": [
+    {
+     "w": "edge",
+     "ipa": "/edʒ/",
+     "pos": "n.",
+     "en": "an advantage over someone or something that makes success more likely",
+     "zh": "优势；竞争优势；有利条件",
+     "ctx": "lost their edge with voters on the economy 指共和党失去了在经济议题上相对于民主党的选民支持优势。这里的 edge 并不是“边缘”，而是竞争中的领先优势。",
+     "ex1": "The candidate gained an edge over her opponent after the televised debate. 这位候选人在电视辩论后取得了相对于对手的优势。",
+     "ex2": "The company lost its competitive edge when cheaper alternatives entered the market. 当更便宜的替代产品进入市场时，这家公司失去了竞争优势。"
+    },
+    {
+     "w": "grow concerned",
+     "ipa": "/ɡroʊ kənˈsɜːrnd/",
+     "pos": "phr.",
+     "en": "to become increasingly worried or anxious about a situation",
+     "zh": "开始感到担忧；变得越来越忧虑",
+     "ctx": "grew deeply concerned 指特朗普的助手们看到内部民调结果后，开始对共和党的选举前景产生强烈担忧。",
+     "ex1": "Government officials grew concerned as unemployment continued to rise. 随着失业率持续上升，政府官员越来越担忧。",
+     "ex2": "Investors grew increasingly concerned about the company's mounting debts. 投资者对公司不断增加的债务感到越来越担忧。"
+    },
+    {
+     "w": "overwhelmingly",
+     "ipa": "/ˌoʊvərˈwelmɪŋli/",
+     "pos": "adv.",
+     "en": "by a very large amount or majority; to a very great degree",
+     "zh": "压倒性地；以绝大多数；极其强烈地",
+     "ctx": "指民调中将通货膨胀归咎于特朗普的选民人数远远多于归咎于民主党的人数，呈现出明显的一边倒趋势。",
+     "ex1": "Voters overwhelmingly rejected the government's proposed tax increase. 选民以压倒性多数反对政府提出的增税方案。",
+     "ex2": "The proposal was overwhelmingly supported by members of parliament. 这项提案获得了议会议员的压倒性支持。"
+    },
+    {
+     "w": "shoot up",
+     "ipa": "/ʃuːt ʌp/",
+     "pos": "phr.",
+     "en": "to increase very quickly and suddenly",
+     "zh": "猛涨；飙升；急剧增加",
+     "ctx": "shot up 16 cents in a single week 指美国汽油价格在一周内迅速上涨16美分，突出能源价格上涨的突然性和冲击力。",
+     "ex1": "Food prices shot up after severe flooding damaged crops across the region. 严重洪灾破坏了该地区的农作物后，食品价格猛涨。",
+     "ex2": "Demand for hotel rooms shot up during the international conference. 国际会议期间，酒店客房需求急剧增加。"
+    },
+    {
+     "w": "pollster",
+     "ipa": "/ˈpoʊlstər/",
+     "pos": "n.",
+     "en": "a person whose job is to conduct opinion polls and analyze public attitudes",
+     "zh": "民调专家；民意调查员",
+     "ctx": "指在共和党内部电话会议上分析选情的民意调查专家，他认为9月最后一周将成为共和党支持率崩盘的关键节点。",
+     "ex1": "The pollster warned that public confidence in the government was declining rapidly. 这名民调专家警告说，公众对政府的信任正在迅速下降。",
+     "ex2": "Several experienced pollsters predicted a much closer election than expected. 几名经验丰富的民调专家预测，这场选举将比预期更加胶着。"
+    },
+    {
+     "w": "the bottom falls out",
+     "ipa": "/ðə ˈbɑːtəm fɔːlz aʊt/",
+     "pos": "phr.",
+     "en": "used when a situation, market or level of support suddenly becomes much worse or collapses",
+     "zh": "局势突然崩盘；形势急剧恶化；彻底垮掉",
+     "ctx": "the week the bottom fell out 指共和党选情在9月最后一周急剧恶化，原本的政治支持基础仿佛突然坍塌。这里使用了非常形象的比喻。",
+     "ex1": "The bottom fell out of the housing market when interest rates rose sharply. 利率大幅上升后，房地产市场突然崩盘。",
+     "ex2": "After the corruption scandal became public, the bottom fell out of the candidate's support. 腐败丑闻曝光后，这位候选人的支持率突然崩塌。"
+    }
+   ]
   },
   {
-   "en_html": "<span>When Trump wanted to veto a popular bipartisan housing bill, senior White House official James Braid sent a note to other staffers asking them to help persuade the president to sign it. Trump shut down the lawmakers and advisers favoring the bill, scuttling a news conference so late that some lawmakers arrived anyway. Nobody cares about this, he told one adviser. Aides eventually persuaded him to let the housing bill become law without his signature.</span>",
-   "zh": "",
-   "notes": []
+   "en_html": "When Trump wanted to <mark class=\"voc\">veto</mark> a popular <mark class=\"voc\">bipartisan</mark> housing bill, senior White House official James Braid sent a note to other staffers asking them to help <mark class=\"voc\">persuade</mark> the president to sign it. Trump shut down the lawmakers and advisers <mark class=\"voc\">favoring</mark> the bill, <mark class=\"voc\">scuttling</mark> a <mark class=\"voc\">news conference</mark> so late that some lawmakers arrived anyway. Nobody cares about this, he told one adviser. Aides eventually persuaded him to let the housing bill become law without his signature.",
+   "zh": "当特朗普想要否决一项广受欢迎、获得两党支持的住房法案时，白宫高级官员詹姆斯·布雷德给其他工作人员发了一条消息，请他们帮忙说服总统签署这项法案。特朗普拒绝听取那些支持该法案的议员和顾问的意见，并在最后一刻取消了一场新闻发布会，以至于一些议员还是按原计划赶到了现场。“根本没人关心这件事。”他对一名顾问说道。最终，助手们说服了他，让这项住房法案在没有总统签字的情况下成为法律。——美国《华尔街日报》外刊讲解第1220天",
+   "notes": [
+    {
+     "w": "veto",
+     "ipa": "/ˈviːtoʊ/",
+     "pos": "v.",
+     "en": "to officially refuse to approve a proposed law or decision",
+     "zh": "否决；行使否决权",
+     "ctx": "指特朗普原本打算利用总统否决权，阻止一项获得两党支持的住房法案成为法律。",
+     "ex1": "The president threatened to veto the bill unless Congress agreed to make changes. 总统威胁说，除非国会同意修改法案，否则他将予以否决。",
+     "ex2": "The governor vetoed the proposal because he believed it would increase government spending. 州长否决了这项提案，因为他认为它会增加政府开支。"
+    },
+    {
+     "w": "bipartisan",
+     "ipa": "/ˌbaɪˈpɑːrtɪzən/",
+     "pos": "adj.",
+     "en": "involving or supported by two political parties, especially parties that usually oppose each other",
+     "zh": "两党共同参与的；获得两党支持的",
+     "ctx": "bipartisan housing bill 指同时获得共和党和民主党支持的住房法案，强调这项法案具有跨党派支持基础。",
+     "ex1": "Lawmakers reached a bipartisan agreement on improving the country's infrastructure. 议员们就改善国家基础设施达成了两党协议。",
+     "ex2": "The proposal received bipartisan support because housing costs had become a national concern. 由于住房成本已经成为全国性问题，这项提案获得了两党的共同支持。"
+    },
+    {
+     "w": "persuade",
+     "ipa": "/pərˈsweɪd/",
+     "pos": "v.",
+     "en": "to make someone agree to do something by giving them reasons or arguments",
+     "zh": "说服；劝服；使相信",
+     "ctx": "指白宫官员和助手试图改变特朗普的决定，让他接受住房法案。最终，他们说服他允许法案在没有本人签字的情况下生效。",
+     "ex1": "The advisers struggled to persuade the president to reconsider his decision. 顾问们努力说服总统重新考虑自己的决定。",
+     "ex2": "She eventually persuaded her colleagues to support the new education policy. 她最终说服同事们支持新的教育政策。"
+    },
+    {
+     "w": "favor",
+     "ipa": "/ˈfeɪvər/",
+     "pos": "v.",
+     "en": "to support, approve of or prefer a particular person, plan or idea",
+     "zh": "支持；赞成；倾向于",
+     "ctx": "favoring the bill 指那些支持住房法案、希望特朗普批准该法案的议员和顾问。",
+     "ex1": "Most voters favored the proposal to make public transportation more affordable. 大多数选民支持让公共交通更加经济实惠的提案。",
+     "ex2": "Several senior officials favored a more cautious approach to foreign policy. 几名高级官员倾向于采取更加谨慎的外交政策。"
+    },
+    {
+     "w": "scuttle",
+     "ipa": "/ˈskʌtəl/",
+     "pos": "v.",
+     "en": "to deliberately cause a plan, proposal or arrangement to fail or be cancelled",
+     "zh": "使计划泡汤；取消；破坏；阻止实施",
+     "ctx": "scuttling a news conference 指特朗普在最后一刻取消原定的新闻发布会，使相关安排落空，甚至有议员来不及收到消息便赶到了现场。",
+     "ex1": "Disagreements between the two parties scuttled the proposed agreement at the last minute. 两党之间的分歧使原定协议在最后一刻泡汤。",
+     "ex2": "The unexpected resignation of the minister scuttled plans for a major policy announcement. 部长的意外辞职打乱了宣布重大政策的计划。"
+    },
+    {
+     "w": "news conference",
+     "ipa": "/ˈnuːz ˌkɑːnfərəns/",
+     "pos": "n.",
+     "en": "a formal meeting at which someone makes an announcement or answers questions from journalists",
+     "zh": "新闻发布会；记者招待会",
+     "ctx": "指原本计划围绕住房法案举行的新闻发布会，但特朗普临时取消了这一安排。",
+     "ex1": "The president held a news conference to explain the government's new economic measures. 总统举行新闻发布会，解释政府的新经济措施。",
+     "ex2": "Journalists gathered outside the building after the news conference was unexpectedly cancelled. 新闻发布会意外取消后，记者们聚集在大楼外。"
+    }
+   ]
   },
   {
-   "en_html": "<span>Allegations of corruption involving the administration and the Trump family became a top concern for voters. Yet Trump continued to focus on pet projects, including a new White House ballroom and a proposed 250-foot triumphal arch. He interrupted Oval Office meetings to show off his latest plans, at one point leading a guest outside to see how he attached gold letters reading “The Rose Garden.” Aides said it was a waste of time to tell him to stop talking about the ballroom because he held several long meetings a week on the topic and enjoyed giving tours.</span>",
-   "zh": "",
-   "notes": []
+   "en_html": "<mark class=\"voc\">Allegations</mark> of <mark class=\"voc\">corruption</mark> involving the administration and the Trump family became a top concern for voters. Yet Trump continued to focus on <mark class=\"voc\">pet projects</mark>, including a new White House <mark class=\"voc\">ballroom</mark> and a proposed 250-foot <mark class=\"voc\">triumphal arch</mark>. He interrupted Oval Office meetings to show off his latest plans, at one point leading a guest outside to see how he attached gold letters reading “The Rose Garden.” Aides said it was a waste of time to tell him to stop talking about the ballroom because he held several long meetings a week on the topic and enjoyed <mark class=\"voc\">giving tours</mark>.",
+   "zh": "涉及特朗普政府及特朗普家族的腐败指控成为选民最关心的问题之一。然而，特朗普却继续将注意力放在自己钟爱的项目上，包括一座新的白宫宴会厅，以及一座拟建的250英尺高的凯旋门。他甚至会打断椭圆形办公室里的会议，向别人炫耀自己的最新规划。有一次，他还带着一位客人走到外面，展示自己如何安装了写着“The Rose Garden”（玫瑰园）的金色字母标识。助手们表示，劝他不要再谈论宴会厅纯粹是浪费时间，因为他每周都会为这个项目召开好几场长时间的会议，而且非常喜欢带人参观。——美国《华尔街日报》外刊讲解第1220天",
+   "notes": [
+    {
+     "w": "allegation",
+     "ipa": "/ˌæləˈɡeɪʃən/",
+     "pos": "n.",
+     "en": "a claim that someone has done something wrong or illegal, especially one that has not yet been proven",
+     "zh": "指控；未经证实的说法；涉嫌违法的主张",
+     "ctx": "allegations of corruption 指针对特朗普政府及特朗普家族的腐败指控。allegation 强调这些是被提出的指控，并不意味着相关行为已经得到证实。",
+     "ex1": "The minister denied allegations that he had accepted illegal payments from private companies. 这位部长否认了有关他收受私人企业非法款项的指控。",
+     "ex2": "The newspaper published a detailed investigation into allegations of misconduct within the organization. 这家报纸发表了一篇针对该组织内部不当行为指控的详细调查报道。"
+    },
+    {
+     "w": "corruption",
+     "ipa": "/kəˈrʌpʃən/",
+     "pos": "n.",
+     "en": "dishonest or illegal behavior by people in positions of power, especially involving money or personal gain",
+     "zh": "腐败；贪污；滥用职权",
+     "ctx": "指涉及特朗普政府和特朗普家族的腐败争议，尤其是公众对掌权者可能利用政治权力谋取私人利益的担忧。",
+     "ex1": "The government promised to introduce tougher laws to combat political corruption. 政府承诺出台更严格的法律来打击政治腐败。",
+     "ex2": "Public anger over corruption contributed to the ruling party's defeat in the election. 公众对腐败的不满促成了执政党在选举中的失败。"
+    },
+    {
+     "w": "pet project",
+     "ipa": "/ˈpet ˌprɑːdʒekt/",
+     "pos": "n.",
+     "en": "a project or activity that someone is particularly interested in and gives special attention to, often more than others think it deserves",
+     "zh": "个人特别钟爱的项目；心头好；偏爱的计划",
+     "ctx": "指特朗普格外热衷的白宫宴会厅和凯旋门等建设项目。这里带有一定讽刺意味，暗示他对个人喜好的关注超过了选民真正关心的问题。",
+     "ex1": "The mayor spent millions of dollars on his pet project while public schools struggled with funding shortages. 市长在自己钟爱的项目上花费了数百万美元，而公立学校却面临资金短缺。",
+     "ex2": "The new cultural center was the governor's pet project, and he personally supervised its construction. 这座新文化中心是州长特别钟爱的项目，他亲自监督了建设过程。"
+    },
+    {
+     "w": "ballroom",
+     "ipa": "/ˈbɔːlruːm/",
+     "pos": "n.",
+     "en": "a large room used for formal dances, receptions and other important social events",
+     "zh": "舞厅；宴会厅；大型正式活动厅",
+     "ctx": "指特朗普计划在白宫新建的大型宴会厅，也是他在这一时期反复讨论和展示的重点项目。",
+     "ex1": "The president welcomed foreign leaders at a formal reception in the grand ballroom. 总统在豪华宴会厅举行正式招待会，欢迎外国领导人。",
+     "ex2": "The historic hotel spent two years restoring its magnificent ballroom. 这家历史悠久的酒店花了两年时间修复其宏伟的宴会厅。"
+    },
+    {
+     "w": "triumphal arch",
+     "ipa": "/traɪˈʌmfəl ɑːrtʃ/",
+     "pos": "n.",
+     "en": "a large decorative arch built to celebrate a military victory, an important event or a powerful leader",
+     "zh": "凯旋门；纪念性拱门",
+     "ctx": "指特朗普提议建造的一座高达250英尺（约76米）的凯旋门，属于他特别关注的纪念性建筑项目。",
+     "ex1": "The ancient triumphal arch was built to celebrate the emperor's military victories. 这座古老的凯旋门是为了纪念皇帝的军事胜利而建造的。",
+     "ex2": "The city unveiled plans for a new triumphal arch to commemorate its independence. 这座城市公布了建造新凯旋门以纪念独立的计划。"
+    },
+    {
+     "w": "give a tour",
+     "ipa": "/ɡɪv ə tʊr/",
+     "pos": "phr.",
+     "en": "to show someone around a place while explaining its features or points of interest",
+     "zh": "带领参观；陪同游览；介绍场所",
+     "ctx": "指特朗普喜欢亲自带领来访者参观白宫相关区域，展示并介绍自己推动的改造项目。",
+     "ex1": "The museum director gave the visiting diplomats a private tour of the new exhibition. 博物馆馆长亲自带领来访的外交官参观了新展览。",
+     "ex2": "The architect gave reporters a tour of the newly renovated government building. 建筑师带领记者参观了刚刚翻修完成的政府大楼。"
+    }
+   ]
   },
   {
-   "en_html": "<span>On Monday, the day before the midterm election, Trump gave a nearly hourlong speech at the Lincoln Memorial reflecting pool that aides had billed as a final argument to voters. Trump mostly talked about his renovations of the capital, including cleaning up graffiti, resodding the mall and replacing rusty pipes. One of the project’s biggest foes, he said, had been algae. There wasn’t enough time, he said, to discuss his plans for the nation. “The biggest issue is that I wasn’t on the ballot,” he told The Wall Street Journal. Yet, Trump had said repeatedly that voters should imagine that he was on the ballot.</span>",
-   "zh": "",
-   "notes": []
+   "en_html": "On Monday, the day before the midterm election, Trump gave a nearly hourlong speech at the Lincoln Memorial <mark class=\"voc\">reflecting pool</mark> that aides had <mark class=\"voc\">billed</mark> as a final argument to voters. Trump mostly talked about his renovations of the capital, including cleaning up <mark class=\"voc\">graffiti</mark>, <mark class=\"voc\">resodding</mark> the mall and replacing <mark class=\"voc\">rusty</mark> pipes. One of the project’s biggest <mark class=\"voc\">foes</mark>, he said, had been <mark class=\"voc\">algae</mark>. There wasn’t enough time, he said, to discuss his plans for the nation. “The biggest issue is that I wasn’t on the ballot,” he told The Wall Street Journal. Yet, Trump had said repeatedly that voters should imagine that he was on the ballot.",
+   "zh": "周一，也就是中期选举的前一天，特朗普在林肯纪念堂倒影池旁发表了一场将近一小时的演讲。此前，他的助手们将这场演讲宣传为面向选民的最后一次重要陈词。然而，特朗普谈论的大部分内容却是他对首都进行的翻新工程，包括清除涂鸦、为国家广场重新铺设草坪，以及更换生锈的管道。他说，这项工程面临的最大敌人之一竟然是藻类。他表示，已经没有足够的时间来讨论自己对国家未来的规划。“最大的问题是，我的名字并不在选票上。”他告诉《华尔街日报》。然而，特朗普此前曾多次表示，选民应该想象他本人就在选票上。——美国《华尔街日报》外刊讲解第1220天",
+   "notes": [
+    {
+     "w": "reflecting pool",
+     "ipa": "/rɪˈflektɪŋ puːl/",
+     "pos": "n.",
+     "en": "a shallow pool of water designed to reflect nearby buildings, monuments or the sky",
+     "zh": "倒影池；镜面水池",
+     "ctx": "指华盛顿特区林肯纪念堂前的倒影池，是美国首都具有象征意义的公共空间，也是特朗普发表选前演讲的地点。",
+     "ex1": "Tourists gathered beside the reflecting pool to photograph the monument at sunset. 游客们聚集在倒影池旁，拍摄夕阳下的纪念碑。",
+     "ex2": "The still water of the reflecting pool mirrored the surrounding historic buildings. 倒影池平静的水面映照出周围的历史建筑。"
+    },
+    {
+     "w": "bill",
+     "ipa": "/bɪl/",
+     "pos": "v.",
+     "en": "to advertise or describe an event or person in a particular way, especially to attract attention",
+     "zh": "宣传为；将……描述为；把……称作",
+     "ctx": "had billed as a final argument to voters 指特朗普的助手们事先将这场演讲宣传为选举前向选民发出的最后一次重要呼吁。",
+     "ex1": "The event was billed as the most important economic conference of the year. 这场活动被宣传为年度最重要的经济会议。",
+     "ex2": "The candidate's speech was billed as a major announcement about the country's future. 这位候选人的演讲被宣传为一次关于国家未来的重大政策宣示。"
+    },
+    {
+     "w": "graffiti",
+     "ipa": "/ɡrəˈfiːti/",
+     "pos": "n.",
+     "en": "words, pictures or drawings written or painted on walls or other public surfaces",
+     "zh": "涂鸦；墙面喷绘；乱写乱画的文字或图案",
+     "ctx": "指首都公共设施上的涂鸦，特朗普在演讲中将清除涂鸦列为自己的城市整修成果之一。",
+     "ex1": "City workers spent the morning removing graffiti from the walls of the historic station. 市政工人花了一上午清除历史车站墙上的涂鸦。",
+     "ex2": "The local council introduced new measures to prevent graffiti on public buildings. 地方议会推出新措施，防止公共建筑遭到乱涂乱画。"
+    },
+    {
+     "w": "resod",
+     "ipa": "/ˌriːˈsɑːd/",
+     "pos": "v.",
+     "en": "to cover an area of ground with new pieces of grass and the soil attached to their roots",
+     "zh": "重新铺设草皮；重新植草",
+     "ctx": "resodding the mall 指为华盛顿国家广场重新铺设草坪。这里的 mall 并非购物中心，而是美国首都的国家广场。",
+     "ex1": "The city decided to resod the public park after months of heavy use. 经过数月的高强度使用后，市政府决定为公园重新铺设草皮。",
+     "ex2": "Workers were hired to resod the lawn before the annual outdoor ceremony. 工人们受雇在年度户外典礼举行前重新铺设草坪。"
+    },
+    {
+     "w": "rusty",
+     "ipa": "/ˈrʌsti/",
+     "pos": "adj.",
+     "en": "covered with rust, a reddish-brown substance that forms on iron or steel when exposed to air and moisture",
+     "zh": "生锈的；锈迹斑斑的",
+     "ctx": "rusty pipes 指首都公共设施中已经生锈的管道，特朗普将更换这些管道作为自己翻新工程的成果。",
+     "ex1": "The old building suffered from leaking water and rusty pipes. 这栋老建筑存在漏水和管道生锈的问题。",
+     "ex2": "Engineers recommended replacing the rusty metal structures before they became dangerous. 工程师建议在这些生锈的金属结构变得危险之前将其更换。"
+    },
+    {
+     "w": "foe",
+     "ipa": "/foʊ/",
+     "pos": "n.",
+     "en": "an enemy or opponent, especially someone or something that creates difficulties",
+     "zh": "敌人；对手；阻碍因素",
+     "ctx": "Trump 将 algae 称为翻新工程的 biggest foes 之一，把藻类拟人化为工程的“敌人”，形成一种颇具戏剧性和幽默感的表达。",
+     "ex1": "The politician described rising inflation as the greatest foe of economic stability. 这位政治人物将不断上升的通货膨胀称为经济稳定的最大敌人。",
+     "ex2": "For farmers in the region, prolonged drought has become a formidable foe. 对该地区的农民来说，长期干旱已经成为一个难以对付的敌人。"
+    },
+    {
+     "w": "algae",
+     "ipa": "/ˈældʒiː/",
+     "pos": "n.",
+     "en": "simple plant-like organisms that grow in water or damp places, often forming green layers",
+     "zh": "藻类；水藻",
+     "ctx": "指倒影池等水体中生长的藻类。特朗普将清理藻类描述为首都翻新工程面临的重要挑战之一。",
+     "ex1": "Excessive algae growth turned the lake green and threatened the local ecosystem. 藻类过度生长使湖水变绿，并威胁当地生态系统。",
+     "ex2": "Workers regularly remove algae from the fountain to keep the water clean. 工人们定期清除喷泉中的藻类，以保持水质清洁。"
+    }
+   ]
   },
   {
-   "en_html": "<span>By October, some Republicans felt that a spending blitz by Republican super PACs, including Trump’s MAGA Inc., would stabilize the map. The money couldn’t compete with gas prices and other pocketbook troubles. “It was about the economy,” said Chris Winkelman, president of the Congressional Leadership Fund, a super PAC run by Johnson allies. “It was always about the economy.”</span>",
-   "zh": "",
-   "notes": []
+   "en_html": "By October, some Republicans felt that a <mark class=\"voc\">spending blitz</mark> by Republican <mark class=\"voc\">super PACs</mark>, including Trump’s MAGA Inc., would stabilize the map. The money couldn’t compete with gas prices and other <mark class=\"voc\">pocketbook</mark> troubles. “It <mark class=\"voc\">was about the</mark> economy,” said Chris Winkelman, president of the Congressional Leadership Fund, a super PAC run by Johnson allies. “It was always about the economy.”",
+   "zh": "到了10月，一些共和党人认为，包括特朗普旗下的MAGA Inc.在内的共和党超级政治行动委员会，只要展开一轮密集的巨额资金投入，就能够稳住各州的选举局势。然而，再多的钱也无法抵消汽油价格上涨和其他民生经济困境带来的影响。“问题就在于经济。”由约翰逊盟友掌管的超级政治行动委员会“国会领导基金会”的主席克里斯·温克尔曼说道。“问题从头到尾都在于经济。”——美国《华尔街日报》外刊讲解第1220天",
+   "notes": [
+    {
+     "w": "spending blitz",
+     "ipa": "/ˈspendɪŋ blɪts/",
+     "pos": "n.",
+     "en": "a sudden and intensive period of spending large amounts of money to achieve a particular goal",
+     "zh": "集中大规模投入资金；密集的资金攻势",
+     "ctx": "指共和党超级政治行动委员会在选举前集中投入巨额资金，通过广告和其他政治宣传活动争取选民支持，试图扭转不利的选举局势。",
+     "ex1": "The party launched a massive spending blitz on television advertisements before the election. 该党在选举前发动了一轮大规模的电视广告资金攻势。",
+     "ex2": "The company's advertising spending blitz helped its new product attract national attention. 这家公司密集投入广告资金，帮助新产品获得了全国关注。"
+    },
+    {
+     "w": "super PAC",
+     "ipa": "/ˈsuːpər pæk/",
+     "pos": "n.",
+     "en": "a political action committee in the United States that can raise and spend unlimited amounts of money independently to influence elections",
+     "zh": "超级政治行动委员会；超级政治募款组织",
+     "ctx": "指美国能够筹集和独立支出不限金额资金以影响选举的政治组织。文章提到的MAGA Inc.和Congressional Leadership Fund都属于这类组织，但它们在法律上不得直接与候选人的竞选团队协调独立支出。",
+     "ex1": "A wealthy donor contributed millions of dollars to a super PAC supporting the candidate. 一位富有的捐款人向支持该候选人的超级政治行动委员会捐赠了数百万美元。",
+     "ex2": "Super PACs often spend enormous sums on political advertisements during election campaigns. 超级政治行动委员会经常在竞选期间花费巨额资金投放政治广告。"
+    },
+    {
+     "w": "pocketbook",
+     "ipa": "/ˈpɑːkɪtbʊk/",
+     "pos": "adj.",
+     "en": "relating to people's personal finances, especially the money they earn, spend or have available",
+     "zh": "与个人财务有关的；涉及家庭经济负担的",
+     "ctx": "pocketbook troubles 指普通美国人面临的日常经济困难，例如汽油、食品、住房和其他生活开支上涨。pocketbook 在美国政治新闻中常用来强调直接影响选民钱包的民生问题。",
+     "ex1": "Pocketbook concerns became the central issue for voters during the election campaign. 与个人经济负担有关的问题成为竞选期间选民最关心的核心议题。",
+     "ex2": "The candidate promised to focus on pocketbook issues rather than political arguments. 这位候选人承诺将重点关注民生经济问题，而不是政治争论。"
+    },
+    {
+     "w": "be about sth.",
+     "ipa": "/bi əˈbaʊt ˈsʌmθɪŋ/",
+     "pos": "phr.",
+     "en": "to have something as the main subject, purpose or central issue",
+     "zh": "核心在于……；关键是……；归根结底是……",
+     "ctx": "It was about the economy. It was always about the economy. 强调共和党此次选举失败的核心原因始终是经济问题，而不是竞选资金、政治宣传或其他因素。通过重复形成有力的总结。",
+     "ex1": "The debate was never really about personalities; it was about the future of public education. 这场辩论真正的焦点从来不是个人，而是公共教育的未来。",
+     "ex2": "For struggling families, the election was always about the cost of everyday life. 对生活困难的家庭来说，这场选举从头到尾都关乎日常生活成本。"
+    }
+   ]
   }
  ],
- "proper": [],
- "practice": {},
- "audio": false,
+ "proper": [
+  {
+   "name": "Oval Office / 白宫椭圆形办公室",
+   "def": "椭圆形办公室位于美国白宫西翼，是美国总统最重要的正式办公场所之一，也是总统会见高级官员、外国领导人和重要访客的地点。它因椭圆形的房间结构而得名。历任总统通常会根据个人喜好调整室内装饰，包括地毯、窗帘、家具和总统肖像。文章开头将故事设置在椭圆形办公室，意味着读者直接进入了美国政治权力的中心。经济顾问带着图表向特朗普汇报经济成绩，也为后文总统作出重大决策形成了鲜明对照。"
+  },
+  {
+   "name": "Retirement Accounts / 美国退休账户制度",
+   "def": "美国人的退休储蓄很大程度上依赖个人投资账户，其中最常见的是401(k)和IRA（Individual Retirement Account，个人退休账户）。401(k)通常由雇主提供，员工可以从工资中拿出一部分用于退休投资，有些雇主还会提供配套缴款。账户资金通常投资于股票、债券和基金，因此股市上涨时，许多人的退休账户资产也会增值。不过，账户资产上涨并不等于每个人的工资增加，也不意味着所有美国人都能同等受益。文章提到退休账户飙升，是为了说明特朗普当时看到的经济数据十分乐观。"
+  },
+  {
+   "name": "America First / 美国优先",
+   "def": "“美国优先”是特朗普政治理念中的核心口号之一，强调美国政府应当优先考虑本国经济、安全、边境和国家利益。在外交政策上，这一理念通常反对代价高昂、目标不明确的海外军事干预，主张美国不应无限承担其他国家的安全责任。但“美国优先”并不意味着完全反对使用军事力量。文章的核心冲突在于，特朗普曾经以结束海外战争争取选民支持，后来却决定对伊朗发动战争，使部分支持者认为他背离了原有承诺。"
+  },
+  {
+   "name": "Iran War / 2026年伊朗战争",
+   "def": "文章所指的是2026年2月底开始的美国对伊朗军事行动及随后持续的冲突。伊朗位于中东，靠近波斯湾和霍尔木兹海峡，后者是全球重要的石油运输通道。战争不仅涉及军事成本，也会通过能源供应、航运保险、运输费用等渠道影响全球经济。文章将战争视为共和党中期选举失利的重要原因之一，因为战争造成的能源价格上涨直接影响了美国普通家庭的生活成本。特朗普在选举后也承认伊朗战争是共和党失利的部分原因，但仍为发动战争的决定辩护。Investing.com +1"
+  },
+  {
+   "name": "Midterm Elections / 美国中期选举",
+   "def": "美国总统任期为四年，而国会选举每两年举行一次。发生在总统任期中间的国会选举称为中期选举。众议院全部435个席位每两年改选一次，参议员任期六年，每两年大约改选三分之一的席位。总统本人通常不参加中期选举，但选民往往会通过投票表达对现任总统执政表现的满意或不满。因此，中期选举常被视为对总统的一次政治考核。2026年11月3日的中期选举中，民主党取得重大胜利，赢得了国会两院控制权。AP News +1"
+  },
+  {
+   "name": "Matt Walsh / 马特·沃尔什",
+   "def": "马特·沃尔什是美国保守派政治评论员、作家和媒体人物，以鲜明的右翼社会文化立场而知名。他长期参与美国关于性别、教育、家庭和政治价值观的公共讨论。文章引用他对伊朗战争的严厉批评，重要之处在于，这并非来自传统民主党反对派，而是来自美国保守派内部。沃尔什将战争视为严重的政治失误，说明特朗普面临的不仅是反对党的批评，也包括原有政治支持阵营内部的分歧。"
+  },
+  {
+   "name": "Stephen Miller / 斯蒂芬·米勒",
+   "def": "斯蒂芬·米勒是特朗普长期信任的政治顾问，也是其强硬移民政策的重要设计者。他在特朗普第一任期内就参与制定限制移民、加强边境管控和推动驱逐出境等政策，在特朗普第二任期继续发挥重要影响力。米勒通常被视为特朗普政府内部立场最强硬的人物之一。文章提到特朗普认为米勒在移民问题上“走得太远”，表现出政府内部对于政策执行力度的分歧。这里尤其值得注意的是，政策制定者、执行者和最终承担政治责任的总统，并不总是对政策后果持有完全相同的看法。"
+  },
+  {
+   "name": "Deportation / 美国驱逐出境制度",
+   "def": "Deportation指美国政府依据移民法律，将不具备合法居留资格或符合特定法定驱逐条件的非美国公民遣送出境。相关程序通常由美国国土安全部及其下属机构执行，其中ICE（Immigration and Customs Enforcement，美国移民与海关执法局）负责大量境内移民执法工作。驱逐出境与普通的自愿离境不同，通常具有强制性，也可能涉及行政程序、移民法庭和司法审查。特朗普政府的强硬执法政策引发了有关公共安全、家庭分离、执法尺度及移民权利的广泛争议。文章中梅拉尼娅的抱怨，是这一争议进入白宫内部的一个具体细节。"
+  },
+  {
+   "name": "Republican Primaries / 美国共和党初选制度",
+   "def": "美国两大主要政党通常通过初选（primary elections）或党团会议（caucuses）决定由谁代表本党参加正式选举。以参议院选举为例，如果多名共和党人希望竞选同一个席位，他们通常需要先争取共和党提名，然后由获得提名者与民主党等其他候选人竞争。初选选民资格和具体规则因州而异。虽然总统通常不能直接任命某州的参议员候选人，但可以通过公开背书、筹款支持和政治影响力改变初选结果。文章所描述的正是特朗普个人偏好与候选人实际胜选能力之间的冲突。"
+  },
+  {
+   "name": "Georgia, South Carolina, North Carolina and Texas / 美国南部四州",
+   "def": "佐治亚州、南卡罗来纳州、北卡罗来纳州和得克萨斯州均位于美国南部或南部地区，近年来在美国选举政治中具有重要地位。得克萨斯州长期具有明显的共和党优势；北卡罗来纳州经常出现激烈竞争；佐治亚州在近年的全国选举中展现出较强的竞争性；南卡罗来纳州则长期偏向共和党。文章强调民主党在这四个州的胜利，是因为共和党不仅在竞争激烈的地区失利，也在一些传统上较有优势的地区遭遇挫折。The Guardian +1"
+  },
+  {
+   "name": "Pride Goeth Before the Fall / 骄傲在败坏以先",
+   "def": "这句话与《圣经·箴言》16章18节有关，其经典英文表达是“Pride goeth beforedestruction, and an haughty spirit before a fall”。意思是骄傲与傲慢往往会导致失败。这里的goeth是古英语风格的第三人称单数动词形式，相当于现代英语的goes。美国政治人物有时会引用《圣经》中的表达来强调道德教训或历史警示。文章中诺曼引用这一思想，是在批评特朗普过度自信、不愿听取不同意见，最终使共和党付出了政治代价。"
+  },
+  {
+   "name": "Inflation and Affordability / 通货膨胀与生活可负担性",
+   "def": "Inflation指商品和服务整体价格水平持续上涨，而affordability强调普通人是否有能力支付生活所需。两者密切相关，但并不完全相同：即使通胀率下降，商品价格也不一定回到过去的水平，因为通胀率下降通常只意味着价格上涨速度放缓。美国选民尤其关注汽油、食品、住房和医疗等日常开支，因为这些费用直接影响家庭预算。文章提到共和党逐渐失去经济议题上的优势，反映了经济统计数据与普通民众实际生活感受之间可能存在的落差。"
+  },
+  {
+   "name": "Gasoline and Diesel Prices / 美国汽油与柴油价格",
+   "def": "美国是一个高度依赖汽车出行的国家，尤其在公共交通不发达的郊区和乡村，汽油价格对家庭支出的影响十分直接。柴油则广泛用于货运卡车、农业机械和其他工业设备。因此，柴油价格上涨不仅增加司机和运输企业的成本，还可能通过物流链条推高食品和其他商品价格。能源价格还会受到原油供应、炼油能力、税收、季节性需求及国际冲突等因素影响。文章用汽油和柴油价格的快速上涨，解释为什么海外战争最终会转化为国内选民的不满。"
+  },
+  {
+   "name": "Presidential Veto / 美国总统否决权",
+   "def": "美国宪法赋予总统对国会通过的法案行使否决权的权力。通常情况下，法案经过众议院和参议院通过后，会送交总统。总统可以签署使其成为法律，也可以否决并将其退回国会。国会若在两院分别获得三分之二多数支持，则可以推翻总统否决。此外，如果总统收到法案后十天内（不计算星期日）既不签署也不退回，而国会没有休会到妨碍退回法案的程度，法案也可以自动成为法律。文章中的住房法案正涉及总统不签字而允许法案生效的情况。"
+  },
+  {
+   "name": "Bipartisan Housing Bill / 两党支持的住房法案",
+   "def": "Bipartisan意为“两党共同支持的”，在美国政治语境中通常指民主党与共和党之间的合作。住房问题之所以可能获得跨党派支持，是因为高房价、租金上涨、住房供应不足以及首次购房困难影响着不同政治立场的选民。不过，两党在政府补贴、土地使用限制、税收优惠和市场监管等具体解决方式上可能存在分歧。文章中的住房法案被描述为广受欢迎且获得两党支持，但特朗普仍曾考虑否决，突出了总统个人政治判断与国会跨党派合作之间的矛盾。"
+  },
+  {
+   "name": "White House Ballroom / 白宫宴会厅项目",
+   "def": "白宫既是美国总统的办公地点，也是举行国宴、外交接待和重要官方活动的场所。特朗普推动的新宴会厅项目旨在为白宫增加大型正式活动空间，但项目规模、成本、建筑设计及其对历史建筑的影响都引发了争议。对于支持者而言，这类建设可以被视为改善白宫设施；对于批评者而言，在民众面临经济压力时，领导人过度关注宏伟建筑可能反映出政治优先事项失衡。文章利用宴会厅这一细节，展示特朗普个人兴趣与选民关注的问题之间的反差。"
+  },
+  {
+   "name": "Triumphal Arch and the Rose Garden / 凯旋门与白宫玫瑰园",
+   "def": "Triumphal arch是一种纪念性拱门建筑，历史上常用于纪念军事胜利、国家成就或重要人物，最著名的例子之一是巴黎凯旋门。文章提到特朗普计划建造一座250英尺高的凯旋门。Rose Garden则是白宫西侧著名的玫瑰园，长期用于总统讲话、接待和官方仪式。文章把凯旋门、宴会厅以及玫瑰园金色字母标识放在一起，突出特朗普对于建筑、视觉形象和个人政治遗产的兴趣。这些细节也为报道增加了鲜明的画面感。"
+  },
+  {
+   "name": "Lincoln Memorial and Reflecting Pool / 林肯纪念堂与倒影池",
+   "def": "林肯纪念堂位于华盛顿特区国家广场西端，为纪念美国第16任总统亚伯拉罕·林肯而建，于1922年落成。林肯在美国历史上与维护联邦统一、废除奴隶制等重大历史事件密切相关。纪念堂前方的倒影池是美国最著名的公共景观之一。1963年，马丁·路德·金在林肯纪念堂台阶上发表了著名的《我有一个梦想》演讲，因此这一地点也具有深厚的民权运动象征意义。文章将特朗普选前的最后演讲安排在这一历史场景中，使其讲话内容与地点的庄严象征形成反差。"
+  },
+  {
+   "name": "National Mall / 美国国家广场",
+   "def": "National Mall位于华盛顿特区，是连接美国国会大厦、华盛顿纪念碑和林肯纪念堂等重要建筑与纪念设施的公共区域。虽然mall在日常英语中经常指购物中心，但National Mall并不是商业购物中心，而是美国首都的历史性公共空间。这里经常举办总统就职典礼相关活动、政治集会、纪念活动和大型公众庆典。文章中的resodding the mall指重新铺设国家广场的草坪。理解这一背景，学生才能明白特朗普谈论的是首都公共设施整修，而不是商业购物场所。"
+  },
+  {
+   "name": "Super PAC and MAGA Inc. / 超级政治行动委员会与MAGA政治组织",
+   "def": "Super PAC是美国的一种政治行动委员会，可以从个人、企业、工会等合法来源筹集不限金额的资金，并通过独立广告和政治宣传影响选举。与直接向候选人竞选团队捐款不同，SuperPAC的独立支出原则上不得与候选人或其竞选团队协调。MAGA Inc.是支持特朗普及其政治议程的超级政治行动委员会；Congressional Leadership Fund则是与共和党众议院领导层关系密切的政治组织。2026年中期选举期间，共和党及其支持组织投入了巨额竞选资金，但仍未能抵消选民对经济和战争的担忧。文章借此说明，政治广告可以帮助候选人传播信息，却不一定能够改变选民对现实生活成本的判断。The Washington Post +120261106"
+  }
+ ],
+ "sources_note": "依据美国《华尔街日报》（The Wall Street Journal）2026-11-06 报道。",
+ "practice": {
+  "intro": "请根据今天学习的外刊，用自己的英语简要复述特朗普及共和党在2026年美国中期选举中失利的主要原因。要求： 至少使用下方提示词中的 6个，可以适当改变词形。尽量使用自己的语言，不要直接照抄原文。",
+  "items": [
+   "今年2月，特朗普的经济顾问向他展示了积极的经济数据。当时，特朗普似乎拥有无限的政治权力。（economic adviser / soar / economic growth / limitless）",
+   "然而，特朗普决定对伊朗发动战争。这场战争导致能源价格上涨，也让许多原本忠诚的支持者感到失望。（wager on / trigger / gas prices / disillusioned）",
+   "特朗普拒绝相信对自己不利的民调，还选择支持忠于自己的候选人，而不是胜算更高的人。（polling / anoint / loyal / odds） 20261106",
+   "随着通货膨胀和生活成本上涨，选民越来越不满，共和党在经济议题上逐渐失去了优势。（inflation / affordability / blame / lose one’s edge）",
+   "与此同时，特朗普却将大量注意力放在白宫宴会厅和其他个人喜爱的建设项目上。（focus on / pet project / ballroom / show off）",
+   "尽管共和党投入了大量竞选资金，最终仍然无法挽回败局。这场选举的核心问题始终是经济。（spending blitz / stabilize / pocketbook troubles / crushing defeat）"
+  ],
+  "critical_en": "Do you think political leaders should focus more on economic issues than on their personal political ambitions? Why or why not?",
+  "critical_zh": "你认为政治领导人应该将更多精力放在经济问题上，而不是个人政治抱负上吗？为什么？20261106",
+  "answer": "1. At first, Trump seemed to have limitless political power, but his decision to wage war in Iran changed everything. Rising gas prices left many supporters disillusioned. He also ignored unfavorable polling and anointed candidates based on loyalty rather than their odds of winning. As inflation increased, Republicans lost their edge on the economy. Meanwhile, Trump focused on pet projects instead of voters’ concerns about affordability. Despite a massive spending blitz, Republicans suffered a crushing defeat in the midterms. The election became a wake-up call for the party, showing that voters cared more about their pocketbook troubles than political promises.<br>参考译文：起初，特朗普似乎拥有无限的政治权力，但他决定对伊朗发动战争，改变了一切。不断上涨的汽油价格让许多支持者感到失望。他还无视对自己不利的民调，并根据忠诚度而非获胜概率来指定候选人。随着通货膨胀加剧，共和党失去了在经济议题上的优势。与此同时，特朗普将注意力放在自己钟爱的项目上，而不是选民对生活成本的担忧。尽管共和党投入了巨额竞选资金，最终仍在中期选举中遭遇惨败。这场选举给共和党敲响了警钟，表明相比政治承诺，选民更加关心自己的经济负担。20261106<br><br>2. I believe political leaders should pay more attention to economic issues because these problems directly affect ordinary people’s lives. In the article, Trump focused on pet projects while many voters struggled with inflation and affordability. As a result, Republicans lost their edge in the election. Political ambitions are important, but leaders should always put public concerns first if they want to maintain people’s trust.<br>参考译文：我认为政治领导人应该更加关注经济问题，因为这些问题直接影响普通人的生活。在文章中，当许多选民正为通货膨胀和生活成本发愁时，特朗普却将注意力放在自己钟爱的项目上。结果，共和党在选举中失去了优势。政治抱负固然重要，但如果领导人想要维持民众的信任，就应该始终把公众关心的问题放在首位。"
+ },
  "mindmap": {
-  "svg": "<svg viewBox=\"0 0 960 602\" xmlns=\"http://www.w3.org/2000/svg\" role=\"img\" aria-label=\"特朗普如何输掉中期选举：从权力巅峰到被选民否定思维导图\" style=\"width:100%;height:auto;font-family:-apple-system,'PingFang SC','Hiragino Sans GB','Microsoft YaHei',sans-serif\"> <rect x=\"24\" y=\"257\" width=\"176\" height=\"88\" rx=\"14\" fill=\"#eae3d2\" stroke=\"#9a8f76\"/> <text x=\"112\" y=\"293\" text-anchor=\"middle\" fill=\"#3d3a34\" font-size=\"17\" font-weight=\"700\">一场豪赌</text> <text x=\"112\" y=\"319\" text-anchor=\"middle\" fill=\"#5c5648\" font-size=\"12.5\">从权力巅峰到被选民否定</text> <path d=\"M200,301 C232,301 232,67 260,67\" stroke=\"#6b8f71\" stroke-width=\"2\" fill=\"none\"/> <path d=\"M200,301 C232,301 232,202 260,202\" stroke=\"#7d98ad\" stroke-width=\"2\" fill=\"none\"/> <path d=\"M200,301 C232,301 232,379 260,379\" stroke=\"#bd7a6d\" stroke-width=\"2\" fill=\"none\"/> <path d=\"M200,301 C232,301 232,535 260,535\" stroke=\"#9b86b3\" stroke-width=\"2\" fill=\"none\"/> <g class=\"mm-branch\" data-target=\"bc1\"> <rect x=\"260\" y=\"50\" width=\"190\" height=\"34\" rx=\"8\" fill=\"#e6efe7\" stroke=\"#6b8f71\"/> <text x=\"355\" y=\"72\" text-anchor=\"middle\" fill=\"#4c6b52\" font-size=\"15\" font-weight=\"700\">巅峰假象（¶1）</text> <text class=\"mm-arrow\" data-for=\"bc1\" x=\"442\" y=\"72\" text-anchor=\"end\" fill=\"#4c6b52\">▾</text> </g> <g class=\"mm-children\" id=\"bc1\"> <path d=\"M450,67 C462,67 462,46 480,46\" stroke=\"#6b8f71\" stroke-width=\"1.5\" fill=\"none\"/> <path d=\"M450,67 C462,67 462,88 480,88\" stroke=\"#6b8f71\" stroke-width=\"1.5\" fill=\"none\"/> <rect x=\"480\" y=\"30\" width=\"456\" height=\"32\" rx=\"8\" fill=\"#e6efe7\"/><text x=\"492\" y=\"51\" fill=\"#3d3a34\" font-size=\"14\">经济亮眼：收入升、退休账户飙升、增长超预期</text> <rect x=\"480\" y=\"72\" width=\"456\" height=\"32\" rx=\"8\" fill=\"#e6efe7\"/><text x=\"492\" y=\"93\" fill=\"#3d3a34\" font-size=\"14\">自评「great stuff」，权力「似乎无边界」</text> </g> <g class=\"mm-branch\" data-target=\"bc2\"> <rect x=\"260\" y=\"185\" width=\"190\" height=\"34\" rx=\"8\" fill=\"#e5edf4\" stroke=\"#7d98ad\"/> <text x=\"355\" y=\"207\" text-anchor=\"middle\" fill=\"#3d5872\" font-size=\"15\" font-weight=\"700\">一步豪赌（¶2-3）</text> <text class=\"mm-arrow\" data-for=\"bc2\" x=\"442\" y=\"207\" text-anchor=\"end\" fill=\"#3d5872\">▾</text> </g> <g class=\"mm-children\" id=\"bc2\"> <path d=\"M450,202 C462,202 462,160 480,160\" stroke=\"#7d98ad\" stroke-width=\"1.5\" fill=\"none\"/> <path d=\"M450,202 C462,202 462,202 480,202\" stroke=\"#7d98ad\" stroke-width=\"1.5\" fill=\"none\"/> <path d=\"M450,202 C462,202 462,244 480,244\" stroke=\"#7d98ad\" stroke-width=\"1.5\" fill=\"none\"/> <rect x=\"480\" y=\"144\" width=\"456\" height=\"32\" rx=\"8\" fill=\"#e5edf4\"/><text x=\"492\" y=\"165\" fill=\"#3d3a34\" font-size=\"14\">背离「结束战争」承诺，自启伊朗战端</text> <rect x=\"480\" y=\"186\" width=\"456\" height=\"32\" rx=\"8\" fill=\"#e5edf4\"/><text x=\"492\" y=\"207\" fill=\"#3d3a34\" font-size=\"14\">代价：20余阵亡、470亿美元、油价涨40%</text> <rect x=\"480\" y=\"228\" width=\"456\" height=\"32\" rx=\"8\" fill=\"#e5edf4\"/><text x=\"492\" y=\"249\" fill=\"#3d3a34\" font-size=\"14\">保守派斥「二十年最大失误」，支持者叛离</text> </g> <g class=\"mm-branch\" data-target=\"bc3\"> <rect x=\"260\" y=\"362\" width=\"190\" height=\"34\" rx=\"8\" fill=\"#f4e7e4\" stroke=\"#bd7a6d\"/> <text x=\"355\" y=\"384\" text-anchor=\"middle\" fill=\"#7c4a3e\" font-size=\"15\" font-weight=\"700\">连环自毁（¶3-8）</text> <text class=\"mm-arrow\" data-for=\"bc3\" x=\"442\" y=\"384\" text-anchor=\"end\" fill=\"#7c4a3e\">▾</text> </g> <g class=\"mm-children\" id=\"bc3\"> <path d=\"M450,379 C462,379 462,316 480,316\" stroke=\"#bd7a6d\" stroke-width=\"1.5\" fill=\"none\"/> <path d=\"M450,379 C462,379 462,358 480,358\" stroke=\"#bd7a6d\" stroke-width=\"1.5\" fill=\"none\"/> <path d=\"M450,379 C462,379 462,400 480,400\" stroke=\"#bd7a6d\" stroke-width=\"1.5\" fill=\"none\"/> <path d=\"M450,379 C462,379 462,442 480,442\" stroke=\"#bd7a6d\" stroke-width=\"1.5\" fill=\"none\"/> <rect x=\"480\" y=\"300\" width=\"456\" height=\"32\" rx=\"8\" fill=\"#f4e7e4\"/><text x=\"492\" y=\"321\" fill=\"#3d3a34\" font-size=\"14\">移民优势亦失：梅拉尼娅抱怨、米勒越界</text> <rect x=\"480\" y=\"342\" width=\"456\" height=\"32\" rx=\"8\" fill=\"#f4e7e4\"/><text x=\"492\" y=\"363\" fill=\"#3d3a34\" font-size=\"14\">斥民调为假，换掉有胜算者，四州全失</text> <rect x=\"480\" y=\"384\" width=\"456\" height=\"32\" rx=\"8\" fill=\"#f4e7e4\"/><text x=\"492\" y=\"405\" fill=\"#3d3a34\" font-size=\"14\">通胀油价恶化：九月「见底之周」</text> <rect x=\"480\" y=\"426\" width=\"456\" height=\"32\" rx=\"8\" fill=\"#f4e7e4\"/><text x=\"492\" y=\"447\" fill=\"#3d3a34\" font-size=\"14\">痴迷舞厅凯旋门，选前只谈涂鸦与藻类</text> </g> <g class=\"mm-branch\" data-target=\"bc4\"> <rect x=\"260\" y=\"518\" width=\"190\" height=\"34\" rx=\"8\" fill=\"#ece4f2\" stroke=\"#9b86b3\"/> <text x=\"355\" y=\"540\" text-anchor=\"middle\" fill=\"#5a4670\" font-size=\"15\" font-weight=\"700\">经济定论（¶9）</text> <text class=\"mm-arrow\" data-for=\"bc4\" x=\"442\" y=\"540\" text-anchor=\"end\" fill=\"#5a4670\">▾</text> </g> <g class=\"mm-children\" id=\"bc4\"> <path d=\"M450,535 C462,535 462,514 480,514\" stroke=\"#9b86b3\" stroke-width=\"1.5\" fill=\"none\"/> <path d=\"M450,535 C462,535 462,556 480,556\" stroke=\"#9b86b3\" stroke-width=\"1.5\" fill=\"none\"/> <rect x=\"480\" y=\"498\" width=\"456\" height=\"32\" rx=\"8\" fill=\"#ece4f2\"/><text x=\"492\" y=\"519\" fill=\"#3d3a34\" font-size=\"14\">金主砸钱稳不住盘</text> <rect x=\"480\" y=\"540\" width=\"456\" height=\"32\" rx=\"8\" fill=\"#ece4f2\"/><text x=\"492\" y=\"561\" fill=\"#3d3a34\" font-size=\"14\">「从来都是经济」</text> </g> <text x=\"486\" y=\"128\" fill=\"#8a8578\" font-size=\"11.5\">↓ 一步失手</text> <text x=\"486\" y=\"284\" fill=\"#8a8578\" font-size=\"11.5\">↓ 连锁反应</text> <text x=\"486\" y=\"482\" fill=\"#8a8578\" font-size=\"11.5\">↓ 归结</text> </svg>",
-  "img": "/Users/malen/.workbuddy/backups/handmap/2026-11-06_一场豪赌_手绘.jpg",
+  "aria": "特朗普如何输掉中期选举：从权力巅峰到被选民否定思维导图",
   "alt": "手绘版思维导图：一场豪赌",
-  "aria": "特朗普如何输掉中期选举：从权力巅峰到被选民否定思维导图"
+  "svg": "<svg viewBox=\"0 0 960 602\" xmlns=\"http://www.w3.org/2000/svg\" role=\"img\" aria-label=\"特朗普如何输掉中期选举：从权力巅峰到被选民否定思维导图\" style=\"width:100%;height:auto;font-family:-apple-system,'PingFang SC','Hiragino Sans GB','Microsoft YaHei',sans-serif\"> <rect x=\"24\" y=\"257\" width=\"176\" height=\"88\" rx=\"14\" fill=\"#eae3d2\" stroke=\"#9a8f76\"/> <text x=\"112\" y=\"293\" text-anchor=\"middle\" fill=\"#3d3a34\" font-size=\"17\" font-weight=\"700\">一场豪赌</text> <text x=\"112\" y=\"319\" text-anchor=\"middle\" fill=\"#5c5648\" font-size=\"12.5\">从权力巅峰到被选民否定</text> <path d=\"M200,301 C232,301 232,67 260,67\" stroke=\"#6b8f71\" stroke-width=\"2\" fill=\"none\"/> <path d=\"M200,301 C232,301 232,202 260,202\" stroke=\"#7d98ad\" stroke-width=\"2\" fill=\"none\"/> <path d=\"M200,301 C232,301 232,379 260,379\" stroke=\"#bd7a6d\" stroke-width=\"2\" fill=\"none\"/> <path d=\"M200,301 C232,301 232,535 260,535\" stroke=\"#9b86b3\" stroke-width=\"2\" fill=\"none\"/> <g class=\"mm-branch\" data-target=\"bc1\"> <rect x=\"260\" y=\"50\" width=\"190\" height=\"34\" rx=\"8\" fill=\"#e6efe7\" stroke=\"#6b8f71\"/> <text x=\"355\" y=\"72\" text-anchor=\"middle\" fill=\"#4c6b52\" font-size=\"15\" font-weight=\"700\">巅峰假象（¶1）</text> <text class=\"mm-arrow\" data-for=\"bc1\" x=\"442\" y=\"72\" text-anchor=\"end\" fill=\"#4c6b52\">▾</text> </g> <g class=\"mm-children\" id=\"bc1\"> <path d=\"M450,67 C462,67 462,46 480,46\" stroke=\"#6b8f71\" stroke-width=\"1.5\" fill=\"none\"/> <path d=\"M450,67 C462,67 462,88 480,88\" stroke=\"#6b8f71\" stroke-width=\"1.5\" fill=\"none\"/> <rect x=\"480\" y=\"30\" width=\"456\" height=\"32\" rx=\"8\" fill=\"#e6efe7\"/><text x=\"492\" y=\"51\" fill=\"#3d3a34\" font-size=\"14\">经济亮眼：收入升、退休账户飙升、增长超预期</text> <rect x=\"480\" y=\"72\" width=\"456\" height=\"32\" rx=\"8\" fill=\"#e6efe7\"/><text x=\"492\" y=\"93\" fill=\"#3d3a34\" font-size=\"14\">自评「great stuff」，权力「似乎无边界」</text> </g> <g class=\"mm-branch\" data-target=\"bc2\"> <rect x=\"260\" y=\"185\" width=\"190\" height=\"34\" rx=\"8\" fill=\"#e5edf4\" stroke=\"#7d98ad\"/> <text x=\"355\" y=\"207\" text-anchor=\"middle\" fill=\"#3d5872\" font-size=\"15\" font-weight=\"700\">一步豪赌（¶2-3）</text> <text class=\"mm-arrow\" data-for=\"bc2\" x=\"442\" y=\"207\" text-anchor=\"end\" fill=\"#3d5872\">▾</text> </g> <g class=\"mm-children\" id=\"bc2\"> <path d=\"M450,202 C462,202 462,160 480,160\" stroke=\"#7d98ad\" stroke-width=\"1.5\" fill=\"none\"/> <path d=\"M450,202 C462,202 462,202 480,202\" stroke=\"#7d98ad\" stroke-width=\"1.5\" fill=\"none\"/> <path d=\"M450,202 C462,202 462,244 480,244\" stroke=\"#7d98ad\" stroke-width=\"1.5\" fill=\"none\"/> <rect x=\"480\" y=\"144\" width=\"456\" height=\"32\" rx=\"8\" fill=\"#e5edf4\"/><text x=\"492\" y=\"165\" fill=\"#3d3a34\" font-size=\"14\">背离「结束战争」承诺，自启伊朗战端</text> <rect x=\"480\" y=\"186\" width=\"456\" height=\"32\" rx=\"8\" fill=\"#e5edf4\"/><text x=\"492\" y=\"207\" fill=\"#3d3a34\" font-size=\"14\">代价：20余阵亡、470亿美元、油价涨40%</text> <rect x=\"480\" y=\"228\" width=\"456\" height=\"32\" rx=\"8\" fill=\"#e5edf4\"/><text x=\"492\" y=\"249\" fill=\"#3d3a34\" font-size=\"14\">保守派斥「二十年最大失误」，支持者叛离</text> </g> <g class=\"mm-branch\" data-target=\"bc3\"> <rect x=\"260\" y=\"362\" width=\"190\" height=\"34\" rx=\"8\" fill=\"#f4e7e4\" stroke=\"#bd7a6d\"/> <text x=\"355\" y=\"384\" text-anchor=\"middle\" fill=\"#7c4a3e\" font-size=\"15\" font-weight=\"700\">连环自毁（¶3-8）</text> <text class=\"mm-arrow\" data-for=\"bc3\" x=\"442\" y=\"384\" text-anchor=\"end\" fill=\"#7c4a3e\">▾</text> </g> <g class=\"mm-children\" id=\"bc3\"> <path d=\"M450,379 C462,379 462,316 480,316\" stroke=\"#bd7a6d\" stroke-width=\"1.5\" fill=\"none\"/> <path d=\"M450,379 C462,379 462,358 480,358\" stroke=\"#bd7a6d\" stroke-width=\"1.5\" fill=\"none\"/> <path d=\"M450,379 C462,379 462,400 480,400\" stroke=\"#bd7a6d\" stroke-width=\"1.5\" fill=\"none\"/> <path d=\"M450,379 C462,379 462,442 480,442\" stroke=\"#bd7a6d\" stroke-width=\"1.5\" fill=\"none\"/> <rect x=\"480\" y=\"300\" width=\"456\" height=\"32\" rx=\"8\" fill=\"#f4e7e4\"/><text x=\"492\" y=\"321\" fill=\"#3d3a34\" font-size=\"14\">移民优势亦失：梅拉尼娅抱怨、米勒越界</text> <rect x=\"480\" y=\"342\" width=\"456\" height=\"32\" rx=\"8\" fill=\"#f4e7e4\"/><text x=\"492\" y=\"363\" fill=\"#3d3a34\" font-size=\"14\">斥民调为假，换掉有胜算者，四州全失</text> <rect x=\"480\" y=\"384\" width=\"456\" height=\"32\" rx=\"8\" fill=\"#f4e7e4\"/><text x=\"492\" y=\"405\" fill=\"#3d3a34\" font-size=\"14\">通胀油价恶化：九月「见底之周」</text> <rect x=\"480\" y=\"426\" width=\"456\" height=\"32\" rx=\"8\" fill=\"#f4e7e4\"/><text x=\"492\" y=\"447\" fill=\"#3d3a34\" font-size=\"14\">痴迷舞厅凯旋门，选前只谈涂鸦与藻类</text> </g> <g class=\"mm-branch\" data-target=\"bc4\"> <rect x=\"260\" y=\"518\" width=\"190\" height=\"34\" rx=\"8\" fill=\"#ece4f2\" stroke=\"#9b86b3\"/> <text x=\"355\" y=\"540\" text-anchor=\"middle\" fill=\"#5a4670\" font-size=\"15\" font-weight=\"700\">经济定论（¶9）</text> <text class=\"mm-arrow\" data-for=\"bc4\" x=\"442\" y=\"540\" text-anchor=\"end\" fill=\"#5a4670\">▾</text> </g> <g class=\"mm-children\" id=\"bc4\"> <path d=\"M450,535 C462,535 462,514 480,514\" stroke=\"#9b86b3\" stroke-width=\"1.5\" fill=\"none\"/> <path d=\"M450,535 C462,535 462,556 480,556\" stroke=\"#9b86b3\" stroke-width=\"1.5\" fill=\"none\"/> <rect x=\"480\" y=\"498\" width=\"456\" height=\"32\" rx=\"8\" fill=\"#ece4f2\"/><text x=\"492\" y=\"519\" fill=\"#3d3a34\" font-size=\"14\">金主砸钱稳不住盘</text> <rect x=\"480\" y=\"540\" width=\"456\" height=\"32\" rx=\"8\" fill=\"#ece4f2\"/><text x=\"492\" y=\"561\" fill=\"#3d3a34\" font-size=\"14\">「从来都是经济」</text> </g> <text x=\"486\" y=\"128\" fill=\"#8a8578\" font-size=\"11.5\">↓ 一步失手</text> <text x=\"486\" y=\"284\" fill=\"#8a8578\" font-size=\"11.5\">↓ 连锁反应</text> <text x=\"486\" y=\"482\" fill=\"#8a8578\" font-size=\"11.5\">↓ 归结</text> </svg>",
+  "img": "/Users/malen/.workbuddy/backups/handmap/2026-11-06_一场豪赌_手绘.jpg"
  }
 }
