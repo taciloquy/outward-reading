@@ -93,8 +93,9 @@ def judge(date_str, source_root=None):
         action = "DONE" if st["html"] else "PREVIEW"
     else:
         action = "NONE"
+    blocked = bool(pdfs["notes"])  # 同日已有完整笔记 → 预习原文一律不处理
     return {"date": date_str, "pdfs": pdfs, "month_dir": month_dir,
-            "state": st, "action": action, "stale": stale}
+            "state": st, "action": action, "stale": stale, "preview_blocked": blocked}
 
 
 def render(r):
@@ -120,6 +121,10 @@ def render(r):
         "NONE": "无 PDF",
     }[r["action"]]
     print(f"  → {r['action']}：{hint}")
+    if pdfs["notes"] and pdfs["preview"]:
+        print("  ⛔ 同日已有【完整笔记】：预习原文一律不处理（直接按完整笔记上）")
+    elif st["notes_ready"]:
+        print("  ⛔ 页面已是完整笔记版：不许用预习原文覆盖")
     if r["stale"]:
         print("  ⚠ 完整笔记 PDF 比已发布页面更新，建议重跑一遍完整笔记流水线")
     print()
@@ -131,6 +136,8 @@ def main():
     ap.add_argument("--window", type=int, default=1, help="前后各查几天（默认 1）")
     ap.add_argument("--source", default=None, help="源根目录（测试用，默认 WORK DISK 路径）")
     ap.add_argument("--json", action="store_true")
+    ap.add_argument("--gate", choices=["preview", "notes"], default=None,
+                    help="闸门模式：preview=确认可以按预习原文处理；notes=确认需要/可以重跑完整笔记")
     a = ap.parse_args()
 
     root = a.source or SOURCE_ROOT
@@ -143,6 +150,35 @@ def main():
         return 0
 
     base = datetime.strptime(a.date, "%Y-%m-%d") if a.date else datetime.now()
+
+    # ---- 闸门模式（供自动发布前强制检查，退出码非 0 即停止） ----
+    if a.gate:
+        d = base.strftime("%Y-%m-%d")
+        r = judge(d, a.source)
+        pdfs, st = r["pdfs"], r["state"]
+        if a.gate == "preview":
+            if pdfs["notes"]:
+                name = os.path.basename(pdfs["notes"][0])
+                print(f"[STOP] {d} 同日已有完整笔记：{name}")
+                print("       规则：有完整笔记就不做预习原文，直接走完整笔记流程。")
+                return 10
+            if st["notes_ready"]:
+                print(f"[STOP] {d} 页面已是完整笔记版，禁止用预习原文覆盖。")
+                return 11
+            if not pdfs["preview"]:
+                print(f"[STOP] {d} 没有【预习原文】PDF，无从处理。")
+                return 12
+            print(f"[GO] {d} 可以按预习原文处理：{os.path.basename(pdfs['preview'][0])}")
+            return 0
+        # gate == notes
+        if st["notes_ready"] and not r["stale"]:
+            print(f"[SKIP] {d} 完整笔记版已发布且 PDF 未更新，无需重跑。")
+            return 13
+        if not pdfs["notes"]:
+            print(f"[STOP] {d} 没有【完整笔记】PDF，无法走完整笔记流程。")
+            return 14
+        print(f"[GO] {d} 可以按完整笔记处理：{os.path.basename(pdfs['notes'][0])}")
+        return 0
     dates = [(base + timedelta(days=i)).strftime("%Y-%m-%d")
              for i in range(-a.window, a.window + 1)]
     results = [judge(d, a.source) for d in dates]
