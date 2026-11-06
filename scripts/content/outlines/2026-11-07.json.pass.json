@@ -1,0 +1,37 @@
+{
+  "outline": "scripts/content/outlines/2026-11-07.json",
+  "outline_mtime": 1793951102.3811476,
+  "checked_at": "2026-11-06 15:45:09",
+  "user_confirmed": false,
+  "center": "赌局崩盘",
+  "branches": [
+    {
+      "title": "一日蒸发",
+      "subs": 2,
+      "relation": null
+    },
+    {
+      "title": "夺门而出",
+      "subs": 3,
+      "relation": "溯源"
+    },
+    {
+      "title": "政治断供",
+      "subs": 3,
+      "relation": "根在"
+    },
+    {
+      "title": "全链失血",
+      "subs": 4,
+      "relation": "蔓延"
+    }
+  ],
+  "branch_count": 4,
+  "subs_counts": [
+    2,
+    3,
+    3,
+    4
+  ],
+  "warns": []
+}
