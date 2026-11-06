@@ -133,6 +133,15 @@ def main():
     ap.add_argument("--json", action="store_true")
     a = ap.parse_args()
 
+    root = a.source or SOURCE_ROOT
+    if not os.path.isdir(root):
+        print(f"⚠ 源目录根不存在：{root}")
+        print("  多半是移动硬盘「WORK DISK」没挂载或未插上，PDF 无从检查。")
+        print("  处置：直接汇报这一条，不要当作「今天没有新 PDF」。")
+        if a.json:
+            print(json.dumps({"error": "source_root_missing", "root": root}, ensure_ascii=False))
+        return 0
+
     base = datetime.strptime(a.date, "%Y-%m-%d") if a.date else datetime.now()
     dates = [(base + timedelta(days=i)).strftime("%Y-%m-%d")
              for i in range(-a.window, a.window + 1)]
