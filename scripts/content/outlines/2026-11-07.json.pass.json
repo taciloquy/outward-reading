@@ -1,37 +1,37 @@
 {
   "outline": "scripts/content/outlines/2026-11-07.json",
-  "outline_mtime": 1793951102.3811476,
-  "checked_at": "2026-11-06 15:45:09",
-  "user_confirmed": false,
-  "center": "赌局崩盘",
+  "outline_mtime": 1793955857.0318608,
+  "checked_at": "2026-11-06 17:07:33",
+  "user_confirmed": true,
+  "center": "豪赌翻车",
   "branches": [
     {
-      "title": "一日蒸发",
-      "subs": 2,
+      "title": "政治掀桌",
+      "subs": 3,
       "relation": null
     },
     {
-      "title": "夺门而出",
-      "subs": 3,
-      "relation": "溯源"
+      "title": "叙事反转",
+      "subs": 2,
+      "relation": "于是"
     },
     {
-      "title": "政治断供",
+      "title": "万亿蒸发",
       "subs": 3,
-      "relation": "根在"
+      "relation": "引爆"
     },
     {
-      "title": "全链失血",
-      "subs": 4,
-      "relation": "蔓延"
+      "title": "押注落空",
+      "subs": 2,
+      "relation": "代价"
     }
   ],
   "branch_count": 4,
   "subs_counts": [
+    3,
     2,
     3,
-    3,
-    4
+    2
   ],
   "warns": []
 }
