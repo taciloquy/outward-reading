@@ -91,23 +91,44 @@ def auto_mark(text, cards, overrides=None):
     return ''.join(out), missing
 
 
+def card_surface(w):
+    """卡片词 → 可在正文里检索的写法。
+
+    去掉 PDF 常见装饰：「cool（动词）」的中文括注、「capital spending / capex」
+    的备选写法——否则这些卡在正文里永远定位不到，连带整段排序失效。
+    """
+    s = re.sub(r'（[^）]*）', '', w or '').strip()
+    return s.split(' / ')[0].strip() or (w or '')
+
+
 def order_cards_by_position(text, cards, marks_pairs=None):
     """按词卡在正文中首次出现的位置重排；marks 的「词→写法」随卡片一起重排。
 
     返回 (cards_sorted, marks_pairs_sorted)。任何一张卡在正文里找不到时保持原顺序，
     交给 auto_mark 报错，避免把真正的问题掩盖掉。
     """
+    surf = {w: s for w, s in (marks_pairs or [])}
     pos = []
     for c in cards:
-        m = find_surface(text, c['w'], 0)
-        pos.append(m.start() if m else None)
+        # 卡片词本身不可检索时（如 be not limited to → was not limited to），
+        # 退到 marks 里登记的原文写法，排序才不会整体失效。
+        cands = [card_surface(c['w'])]
+        alt = surf.get(c['w'])
+        if alt and alt not in cands:
+            cands.append(alt)
+        hit = None
+        for s in cands:
+            m = find_surface(text, s, 0)
+            if m:
+                hit = m.start()
+                break
+        pos.append(hit)
     if any(p is None for p in pos):
         return cards, marks_pairs
     order = sorted(range(len(cards)), key=lambda i: pos[i])
     cards2 = [cards[i] for i in order]
     if not marks_pairs:
         return cards2, marks_pairs
-    surf = {w: s for w, s in marks_pairs}
     return cards2, [[c['w'], surf.get(c['w'], c['w'])] for c in cards2]
 
 
@@ -139,9 +160,15 @@ def main():
         if miss:
             sys.exit('✗ 标题里找不到这些卡片词：' + '；'.join(f'{w}→{s}' for w, s in miss)
                      + '\n  在 issue 的 headline_marks 里补「卡片词, 原文写法」。')
-        if '|' in hl_html:                       # | 处拆两行 span（母版样式）
-            parts = [p.strip() for p in hl_html.split('|')]
-            hl_html = ' '.join(f'<span>{p}</span>' for p in parts)
+    # 标题卡片可能同时取自主标题与副标题（PDF 的 headline_cards 混装）。
+    # 按卡片词在标题全文里的首次出现位置重排，词卡列表才不会跳序。
+    hl_plain = re.sub(r'<[^>]+>', '', hl_html).replace('|', ' ')
+    hl_cards, _ = order_cards_by_position(hl_plain, hl_cards, None)
+    # `|` 之后是副标题（deck）：拆成独立一行（.headline-sub），不把竖线渲染出来。
+    if '|' in hl_html:
+        parts = [p.strip() for p in hl_html.split('|') if p.strip()]
+        hl_html = (f'<span>{parts[0]}</span>'
+                   + ''.join(f'<span class="headline-sub">{p}</span>' for p in parts[1:]))
 
     # ---------- 正文 ----------
     # PDF 里浮动的批注/图注偶尔会插进词中间（如 approacrare-earth empireh），

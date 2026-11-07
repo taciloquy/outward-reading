@@ -1,75 +1,931 @@
 {
-  "date": "2026-11-07",
-  "title_tag": "华尔街一天蒸发 3.2 万亿美元：民主党的中期选举大胜，引爆了 AI 板块的一场惨烈溃败 —— 英国《金融时报》外刊讲解第1221天",
-  "h1": "华尔街一天蒸发 3.2 万亿美元：民主党的中期选举大胜，引爆了 AI 板块的一场惨烈溃败",
-  "source_label": "Financial Times",
-  "category": "英国《金融时报》外刊讲解 第1221天",
-  "read_minutes": 15,
-  "nav_hint": "A brutal AI rout on Wall Street",
-  "headline": {
-    "en_html": "<span>Wall Street sheds $3.2tn as Democratic midterm sweep triggers brutal AI rout</span>",
-    "zh": "民主党中期选举大胜，华尔街一天蒸发 3.2 万亿美元，AI 板块惨烈溃败",
-    "notes": []
-  },
-  "paragraphs": [
+ "date": "2026-11-07",
+ "title_tag": "华尔街一天蒸发 3.2 万亿美元：民主党的中期选举大胜，引爆了 AI 板块的一场惨烈溃败 —— 英国《金融时报》外刊讲解第1221天",
+ "h1": "华尔街一天蒸发 3.2 万亿美元：民主党的中期选举大胜，引爆了 AI 板块的一场惨烈溃败",
+ "source_label": "Financial Times",
+ "category": "英国《金融时报》外刊讲解 第1221天",
+ "read_minutes": 15,
+ "nav_hint": "A brutal AI rout on Wall Street",
+ "headline": {
+  "en_html": "<span>Wall Street <mark class=\"voc\">sheds</mark> $3.2tn as Democratic <mark class=\"voc\">midterm</mark> <mark class=\"voc\">sweep</mark> <mark class=\"voc\">triggers</mark> <mark class=\"voc\">brutal</mark> AI <mark class=\"voc\">rout</mark></span><span class=\"headline-sub\"><mark class=\"voc\">Tech-heavy</mark> Nasdaq 100 <mark class=\"voc\">tumbles</mark> 6.4% in day of chaotic trading</span>",
+  "zh": "民主党中期选举大胜，华尔街一天蒸发 3.2 万亿美元，AI 板块惨烈溃败",
+  "notes": [
+   {
+    "w": "shed",
+    "ipa": "/ʃed/",
+    "pos": "v.",
+    "en": "shed (v.) means to lose or get rid of something, especially in a way that is natural and hard to stop",
+    "zh": "\"蜕掉、脱落\"（蛇蜕皮shed its skin、树掉叶shed leaves、猫掉毛shed hair，全是\"自然地从身上掉下来\"），财经语境核心义为蒸发、跌落（市值）",
+    "ctx": "作者不用lose 而用shed，是要把\"暴跌\"写成\"蛇蜕皮\"——蜕下来的皮回不去，蛇要蜕皮你也拦不住。这个市值一掉，像自然规律一样势不可挡，比lose 痛得多。",
+    "ex1": "The company shed 5,000 jobs last year.那家公司去年裁掉了五千人。",
+    "ex2": "US stocks shed more than $3tn in a single chaotic day.美股在一天混乱的交易中蒸发逾3 万亿美元。"
+   },
+   {
+    "w": "midterm",
+    "ipa": "/ˌmɪdˈtɜːm/",
+    "pos": "n. & adj.",
+    "en": "midterm (adj.) means happening in the middle of an elected official's term of office",
+    "zh": "\"任期中间的\"（mid 中间+ term 任期），政治语境核心义为中期选举；另一常用义为\"期中（考试）\"",
+    "ctx": "美国总统四年一选，干到第二年重新选国会议员与州长，这场选举卡在任期正中间，故称midterm。顺带白捡一个考试词：期中考试也叫midterm exam。",
+    "ex1": "The president's party usually loses seats in the midterms.总统所在的党通常会在中期选举中丢掉席位。",
+    "ex2": "I have a midterm in economics on Friday.周五我有一场经济学期中考试。"
+   },
+   {
+    "w": "sweep",
+    "ipa": "/swiːp/",
+    "pos": "v. & n.",
+    "en": "sweep (v.) means to win all the seats or games in an election or competition",
+    "zh": "\"扫、清扫\"（扫地sweep the floor；扫帚一下过去、把地上东西全扫走），选举语境核心义为横扫、全胜、通吃",
+    "ctx": "不是\"赢了\"，是\"把对手席位像扫落叶一样全扫进自己这边\"。正是因为它赢得这么彻底，民主党才有席位和能力去兑现\"限制AI\"的承诺——赢得多狠，市场就多怕。",
+    "ex1": "The party made a clean sweep of the state, winning every seat.该党在这个州大获全胜，拿下了所有席位。",
+    "ex2": "Her smile swept him off his feet.她的笑容让他神魂颠倒。"
+   },
+   {
+    "w": "trigger",
+    "ipa": "/ˈtrɪɡə(r)/",
+    "pos": "v. & n.",
+    "en": "trigger (v.) means to cause something to happen, especially suddenly or as a chain reaction",
+    "zh": "\"扳机\"（枪上的那个），动词义为\"扣扳机\"，因果语境核心义为触发、引爆",
+    "ctx": "与cause（平平地\"导致\"）不同，trigger 强调\"扣一下扳机、子弹飞出去\"——一个动作引爆一连串反应。这场选举结果，就是那个扳机。",
+    "ex1": "The ruling triggered a wave of selling across the market.这项裁决引发了整个市场的一波抛售。",
+    "ex2": "Higher rates could trigger a recession next year.更高的利率可能触发明年的衰退。"
+   },
+   {
+    "w": "brutal",
+    "ipa": "/ˈbruːtl/",
+    "pos": "adj.",
+    "en": "brutal (adj.) means very harsh, cruel or merciless",
+    "zh": "\"野兽般的、残暴的\"（brute 野兽+ -al），形容语境核心义为残酷的、毫不留情的",
+    "ctx": "brutal AI rout——\"残酷的AI 溃败\"，brutal 一加，把这场下跌的\"惨烈\"顶到极致。",
+    "ex1": "Chipmakers suffered a brutal sell-off on Thursday.周四芯片股遭到惨烈抛售。",
+    "ex2": "She gave me the brutal truth about my chances.她毫不留情地把我的胜算真相告诉了我。"
+   },
+   {
+    "w": "rout",
+    "ipa": "/raʊt/",
+    "pos": "n.",
+    "en": "rout (n.) means a complete and overwhelming defeat, especially a disorderly retreat of defeated troops",
+    "zh": "\"溃败\"（军事词——部队被打散、士兵丢下武器、转身四散逃命），财经语境核心义为溃败、恐慌性暴跌",
+    "ctx": "作者不用fall、decline（中性\"跌\"），偏用rout，是在描述\"投资者像溃兵一样夺路而逃\"——不是股价在跌，是人在逃命。",
+    "ex1": "The election result triggered a brutal rout in AI stocks.选举结果引发了AI 股一场惨烈的溃败。",
+    "ex2": "What began as a sell-off quickly turned into a full-blown rout.起初只是抛售，很快演变成一场彻底的溃败。"
+   },
+   {
+    "w": "tech-heavy",
+    "ipa": "/ˌtek ˈhevi/",
+    "pos": "adj.",
+    "en": "tech-heavy (adj.) means made up largely of technology companies or weighted toward technology",
+    "zh": "\"科技占大头的\"（tech 科技+ heavy 重的、占比大的），金融语境核心义为科技股扎堆的",
+    "ctx": "-heavy 后缀特别能造词，一次带走一串：value-heavy 价值导向、 feature-heavy 功能堆满、debt-heavy 负债累累。",
+    "ex1": "The tech-heavy Nasdaq 100 plunged more than 6 per cent. 科技股扎堆的纳斯达克100 暴跌逾6%。",
+    "ex2": "The company's debt-heavy structure worried investors. 这家公司负债累累的结构让投资者担忧。"
+   },
+   {
+    "w": "tumble",
+    "ipa": "/ˈtʌmbl/",
+    "pos": "v.",
+    "en": "tumble (v.) means to fall suddenly and sharply, or to fall down quickly and awkwardly",
+    "zh": "\"翻滚、摔倒\"（tumble down the stairs 从楼梯滚下来），财经语境核心义为暴跌",
+    "ctx": "继shed（蜕皮）之后第二个带动作画面的\"跌\"字——跌得人仰马翻就是 tumble。作者不用干巴巴的drop，非得让你看见\"摔\"的那一下。",
+    "ex1": "The Nasdaq 100 tumbled 6.4 per cent in one day.纳斯达克100 一天暴跌6.4%。",
+    "ex2": "He tumbled down the stairs and hurt his arm.他从楼梯上滚下来，摔伤了胳膊。"
+   }
+  ]
+ },
+ "paragraphs": [
+  {
+   "en_html": "US stocks shed more than $3tn in a day of chaotic trading which saw the tech-heavy Nasdaq 100 <mark class=\"voc\">plunge</mark> 6.4 per cent after Democrats’ <mark class=\"voc\">sweeping</mark> midterm election victory <mark class=\"voc\">upended</mark> Wall Street’s <mark class=\"voc\">mammoth</mark> AI bet. The <mark class=\"voc\">market value</mark> drop on the S&P Composite 1500 index, <mark class=\"voc\">a broad basket</mark> of America’s publicly traded companies, was the biggest since <mark class=\"voc\">the turn of the millennium</mark>, according to FT calculations based on FactSet data.",
+   "zh": "在一天的混乱交易中，美股整体蒸发了超过3万亿美元——就在这一天，科技股扎堆的纳斯达克100暴跌6.4%，起因是民主党在中期选举中取得压倒性胜利，一举掀翻了华尔街押在AI上的那场庞然豪赌。《金融时报》基于FactSet数据测算，标普综合1500指数——这个囊括了美国各类上市公司的宽口径篮子——的市值跌幅，创下了2000年互联网泡沫以来之最。",
+   "notes": [
     {
-      "en_html": "<span>US stocks shed more than $3tn in a day of chaotic trading which saw the tech-heavy Nasdaq 100 plunge 6.4 per cent after Democrats’ sweeping midterm election victory upended Wall Street’s mammoth AI bet. The market value drop on the S&P Composite 1500 index, a broad basket of America’s publicly traded companies, was the biggest since the turn of the millennium, according to FT calculations based on FactSet data.</span>",
-      "zh": "",
-      "notes": []
+     "w": "plunge",
+     "ipa": "/plʌndʒ/",
+     "pos": "v.",
+     "en": "plunge (v.) means to fall suddenly and steeply; it also means to jump or dive into water",
+     "zh": "\"猛扎进水里\"（plunge into the water 一头扎进水里），财经语境核心义为跳水、俯冲式暴跌",
+     "ctx": "全文第三个\"跌\"字——shed 蜕皮、tumble 翻滚、plunge 栽下去，一个比一个狠。作者变着花样写\"跌\"，就是不想让你觉得这是普通的一天。",
+     "ex1": "The semiconductor index plunged more than 12 per cent.费城半导体指数暴跌逾12%。",
+     "ex2": "He plunged into the pool to save the child.他一头扎进泳池去救那个孩子。"
     },
     {
-      "en_html": "<span>Traders stampeded out of tech shares on fears that Democrats’ stunning victory over Donald Trump’s Republicans in Tuesday’s midterms would cool the AI spending boom that has driven Wall Street to record highs this year. “[Investors] are throwing in the towel and indiscriminately liquidating,” said Adam Crisafulli, president of market research group Vital Knowledge.</span>",
-      "zh": "",
-      "notes": []
+     "w": "sweeping",
+     "ipa": "/ˈswiːpɪŋ/",
+     "pos": "adj.",
+     "en": "sweeping (adj.) means affecting many things or people; wide-ranging and overwhelming",
+     "zh": "\"横扫式的、全面的\"（sweep 扫+ -ing），选举语境核心义为压倒性的、全面的",
+     "ctx": "与标题的sweep 一个词根、两个词性——sweep 是动词\"横扫\"， sweeping 是形容词\"横扫式的\"。a sweeping victory 压倒性胜利。",
+     "ex1": "The party won a sweeping victory in the election. 该党在选举中取得了压倒性胜利。",
+     "ex2": "The new law brought sweeping changes to the industry. 这部新法给整个行业带来了全面的变革。"
     },
     {
-      "en_html": "<span>Selling among chipmakers was brutal, with Nvidia, the company most closely associated with the AI surge, tumbling 9.3 per cent, pushing its market value down more than $400bn. The S&P 500 index of US blue-chip companies lost 4.4 per cent, its worst session since last year’s “liberation day” ructions, in a session marked by wild swings. The broader Nasdaq Composite fell 5.5 per cent, its steepest drop in 19 months, closing more than 10 per cent below its October 6 record and confirming a technical correction. The Philadelphia semiconductor index plunged more than 12 per cent. “With the blue wave, investors fear that peak [AI capital spending] is behind us,” said Charles-Henry Monchau, chief investment officer at Swiss private bank SYZ Group. One hedge fund portfolio manager said the move was driven by quick-moving investors ditching large positions, known as “de-grossing”. “People are starting to get worried now, today the move was so swift,” said another hedge fund executive.</span>",
-      "zh": "",
-      "notes": []
+     "w": "upend",
+     "ipa": "/ʌpˈend/",
+     "pos": "v.",
+     "en": "upend (v.) means to turn something upside down, or to completely change or disrupt something",
+     "zh": "\"把底部朝上\"（up 上+ end 末端/底部），引申语境核心义为掀翻、颠覆",
+     "ctx": "upend Wall Street's mammoth AI bet——把华尔街的AI 豪赌\"一桌子掀了\"，画面感极强：原来赌局摆得好好的，被人连桌带筹码全掀翻。",
+     "ex1": "The scandal upended the company's plans for an IPO. 这桩丑闻彻底打乱了该公司的上市计划。",
+     "ex2": "The pandemic upended the global travel industry. 疫情颠覆了全球旅游业。"
     },
     {
-      "en_html": "<span>Investors fear that newly elected politicians who campaigned against data centres will hit the brakes on AI infrastructure development, eroding Wall Street’s expectations for vast spending on chips, servers and facilities that have driven up earnings expectations and powered stocks to record highs this year. “Guys who would normally be bargain-hunting, excited by these low prices, they’re not jumping in . . . everyone’s hiding out in cash,” said the chief executive of a New York brokerage.</span>",
-      "zh": "",
-      "notes": []
+     "w": "mammoth",
+     "ipa": "/ˈmæməθ/",
+     "pos": "adj.",
+     "en": "mammoth (adj.) means extremely large; enormous",
+     "zh": "\"猛犸象\"（冰河时代的巨象），形容词引申为庞大的、巨大的",
+     "ctx": "比huge、giant 多出那头史前巨兽的份量。更深一层暗线：猛犸象已经灭绝了——作者偏偏在\"AI 豪赌\"前放一头\"猛犸象\"，暗示这场赌局大到离谱，也可能说没就没。",
+     "ex1": "Building the model was a mammoth undertaking. 打造这个模型是一项浩大的工程。",
+     "ex2": "They took a mammoth bet on the future of AI. 他们对AI 的未来下了一场庞大的赌注。"
     },
     {
-      "en_html": "<span>Vincent Mortier, the investment chief of Amundi, said the “honeymoon” gains for US stocks on the day after Democrats won control of Congress had been “very short-lived”. He added that the tech repricing was “harsh and quick as the fundamental question marks resurface under the microscope of the new political US picture — data centres backlash, new regulation”.</span>",
-      "zh": "",
-      "notes": []
+     "w": "market value",
+     "ipa": "/ˈmɑːkɪt ˈvæljuː/",
+     "pos": "n.",
+     "en": "market value means the total value of a company, calculated by multiplying its share price by the number of shares",
+     "zh": "\"市场价值\"（market 市场+ value 价值），金融语境核心义为市值",
+     "ctx": "pushing its market value down more than $400bn——英伟达市值一天缩水4000 亿美元，比全世界绝大多数国家一年的GDP 都高。",
+     "ex1": "Nvidia's market value fell by more than $400bn in a day.英伟达的市值一天之内缩水逾4000 亿美元。",
+     "ex2": "The company's market value has doubled in two years.这家公司的市值两年翻了一番。"
     },
     {
-      "en_html": "<span>Abdul El-Sayed, the Democratic senator-elect from Michigan, has said there should be a “full-on pause” in frontier development, arguing that “you’re seeing the pace of technological development outpace the pace of safety”. Incoming South Carolina senator Annie Andrews proposed a two-year ban on new data centre construction to stop communities “getting steamrollered” by “incredibly wealthy, powerful companies”.</span>",
-      "zh": "",
-      "notes": []
+     "w": "a broad basket",
+     "ipa": "/ə brɔːd ˈbɑːskɪt/",
+     "pos": "n. phrase",
+     "en": "a basket (of stocks) is a group of securities chosen to represent a market or index",
+     "zh": "\"一篮子（股票）\"（basket 篮子），金融语境核心义为一篮子股票、代表性样本",
+     "ctx": "指数本质上就是\"一篮子股票\"——挑一批有代表性的打包算成一个数。a broad basket 是\"一个装得很满的篮子\"，强调标普1500 涵盖的公司特别全、特别有代表性。",
+     "ex1": "The index tracks a broad basket of America's listed companies.该指数追踪一篮子覆盖面很广的美国上市公司。",
+     "ex2": "The consumer price index measures a basket of everyday goods.消费者物价指数衡量的是日常商品的一篮子价格。"
     },
     {
-      "en_html": "<span>The Democrats’ win in Congress was “a horrible day for America”, said a US portfolio manager with large positions in tech companies including Anthropic. The results of the midterms would have “massive ramifications” for the price of chips used in AI servers, the initial public offering pipeline and AI data centre companies, the person said. Several Big Tech bosses spent heavily to support the electoral chances of Trump’s Republicans, who have sought to lighten regulation of the AI sector.</span>",
-      "zh": "",
-      "notes": []
-    },
-    {
-      "en_html": "<span>Semiconductor groups were among Thursday’s biggest declines. Qualcomm dropped 9.5 per cent, Broadcom fell 10 per cent and Micron shed 17 per cent. Memory stocks Sandisk and Western Digital — among the market’s best performers this year — plunged 22 per cent and 17 per cent, respectively. But the selling was not limited to tech stocks. Caterpillar, the world’s biggest heavy machinery maker, slid 6.4 per cent, while retail giant Walmart dropped 1.1 per cent.</span>",
-      "zh": "",
-      "notes": []
-    },
-    {
-      "en_html": "<span>Data centre operators were also hammered, with IREN and Applied Digital shedding more than 14 per cent and CoreWeave nearly 10 per cent. Even the “hyperscalers” lost ground, with Meta down 4 per cent and Amazon and Alphabet each off 2.2 per cent.</span>",
-      "zh": "",
-      "notes": []
-    },
-    {
-      "en_html": "<span>Elon Musk’s companies, which are both based in Texas where Democrats won the race for governor and their first Senate seat for more than 30 years, had another bad day. Tesla fell 10.8 per cent, adding to a 3.3 per cent drop on Wednesday, while SpaceX was down 9.1 per cent, on top of a 3.8 per cent drop the previous day. Gina Hinojosa, the governor-elect of Texas, which accounts for about a third of planned new US data centre capacity, has backed an extended moratorium on approving new construction.</span>",
-      "zh": "",
-      "notes": []
+     "w": "the turn of the millennium",
+     "ipa": "/ðə tɜːn əv ðə mɪˈleniəm/",
+     "pos": "phrase",
+     "en": "the turn of the millennium means the period around the year 2000",
+     "zh": "\"千年之交\"（turn 拐点+ millennium 一千年），时间语境核心义为2000 年前后",
+     "ctx": "暗指2000 年互联网泡沫破裂。作者说\"这是2000 年以来最大跌幅\"，潜台词不是报数字，是敲警钟——上一次市场这么狂热又崩掉，就是2000 年。",
+     "ex1": "This was the biggest drop since the turn of the millennium. 这是自2000 年前后以来的最大跌幅。",
+     "ex2": "Many feared a crash at the turn of the millennium. 许多人担心千年之交会出现崩盘。"
     }
-  ],
-  "proper": [],
-  "practice": {},
-  "audio": false,
-  "mindmap": {
-    "svg": "<svg viewBox=\"0 0 960 560\" xmlns=\"http://www.w3.org/2000/svg\" role=\"img\" aria-label=\"华尔街一日蒸发3.2万亿美元：民主党中期大胜引爆AI溃败思维导图\" style=\"width:100%;height:auto;font-family:-apple-system,'PingFang SC','Hiragino Sans GB','Microsoft YaHei',sans-serif\">\n<rect x=\"24\" y=\"236\" width=\"176\" height=\"88\" rx=\"14\" fill=\"#eae3d2\" stroke=\"#9a8f76\"/>\n<text x=\"112\" y=\"272\" text-anchor=\"middle\" fill=\"#3d3a34\" font-size=\"17\" font-weight=\"700\">豪赌翻车</text>\n<text x=\"112\" y=\"298\" text-anchor=\"middle\" fill=\"#5c5648\" font-size=\"12.5\">民主党大胜，掀翻 AI 豪赌</text>\n<path d=\"M200,280 C232,280 232,88 260,88\" stroke=\"#6b8f71\" stroke-width=\"2\" fill=\"none\"/>\n<path d=\"M200,280 C232,280 232,223 260,223\" stroke=\"#7d98ad\" stroke-width=\"2\" fill=\"none\"/>\n<path d=\"M200,280 C232,280 232,358 260,358\" stroke=\"#bd7a6d\" stroke-width=\"2\" fill=\"none\"/>\n<path d=\"M200,280 C232,280 232,493 260,493\" stroke=\"#9b86b3\" stroke-width=\"2\" fill=\"none\"/>\n<g class=\"mm-branch\" data-target=\"bc1\">\n<rect x=\"260\" y=\"71\" width=\"190\" height=\"34\" rx=\"8\" fill=\"#e6efe7\" stroke=\"#6b8f71\"/>\n<text x=\"355\" y=\"93\" text-anchor=\"middle\" fill=\"#4c6b52\" font-size=\"15\" font-weight=\"700\">政治掀桌（¶2·¶4·¶6）</text>\n<text class=\"mm-arrow\" data-for=\"bc1\" x=\"442\" y=\"93\" text-anchor=\"end\" fill=\"#4c6b52\">▾</text>\n</g>\n<g class=\"mm-children\" id=\"bc1\">\n<path d=\"M450,88 C462,88 462,46 480,46\" stroke=\"#6b8f71\" stroke-width=\"1.5\" fill=\"none\"/>\n<path d=\"M450,88 C462,88 462,88 480,88\" stroke=\"#6b8f71\" stroke-width=\"1.5\" fill=\"none\"/>\n<path d=\"M450,88 C462,88 462,130 480,130\" stroke=\"#6b8f71\" stroke-width=\"1.5\" fill=\"none\"/>\n<rect x=\"480\" y=\"30\" width=\"456\" height=\"32\" rx=\"8\" fill=\"#e6efe7\"/><text x=\"492\" y=\"51\" fill=\"#3d3a34\" font-size=\"14\">民主党横扫，AI 支出热潮要凉</text>\n<rect x=\"480\" y=\"72\" width=\"456\" height=\"32\" rx=\"8\" fill=\"#e6efe7\"/><text x=\"492\" y=\"93\" fill=\"#3d3a34\" font-size=\"14\">反数据中心政客上位，基建踩刹车</text>\n<rect x=\"480\" y=\"114\" width=\"456\" height=\"32\" rx=\"8\" fill=\"#e6efe7\"/><text x=\"492\" y=\"135\" fill=\"#3d3a34\" font-size=\"14\">新科议员：全面暂停、两年禁建</text>\n</g>\n<g class=\"mm-branch\" data-target=\"bc2\">\n<rect x=\"260\" y=\"206\" width=\"190\" height=\"34\" rx=\"8\" fill=\"#e5edf4\" stroke=\"#7d98ad\"/>\n<text x=\"355\" y=\"228\" text-anchor=\"middle\" fill=\"#3d5872\" font-size=\"15\" font-weight=\"700\">叙事反转（¶3·¶5）</text>\n<text class=\"mm-arrow\" data-for=\"bc2\" x=\"442\" y=\"228\" text-anchor=\"end\" fill=\"#3d5872\">▾</text>\n</g>\n<g class=\"mm-children\" id=\"bc2\">\n<path d=\"M450,223 C462,223 462,202 480,202\" stroke=\"#7d98ad\" stroke-width=\"1.5\" fill=\"none\"/>\n<path d=\"M450,223 C462,223 462,244 480,244\" stroke=\"#7d98ad\" stroke-width=\"1.5\" fill=\"none\"/>\n<rect x=\"480\" y=\"186\" width=\"456\" height=\"32\" rx=\"8\" fill=\"#e5edf4\"/><text x=\"492\" y=\"207\" fill=\"#3d3a34\" font-size=\"14\">怕资本支出见顶，无差别清算</text>\n<rect x=\"480\" y=\"228\" width=\"456\" height=\"32\" rx=\"8\" fill=\"#e5edf4\"/><text x=\"492\" y=\"249\" fill=\"#3d3a34\" font-size=\"14\">蜜月极短，重定价又快又狠</text>\n</g>\n<g class=\"mm-branch\" data-target=\"bc3\">\n<rect x=\"260\" y=\"341\" width=\"190\" height=\"34\" rx=\"8\" fill=\"#f4e7e4\" stroke=\"#bd7a6d\"/>\n<text x=\"355\" y=\"363\" text-anchor=\"middle\" fill=\"#7c4a3e\" font-size=\"15\" font-weight=\"700\">万亿蒸发（¶1·¶3·¶8-9）</text>\n<text class=\"mm-arrow\" data-for=\"bc3\" x=\"442\" y=\"363\" text-anchor=\"end\" fill=\"#7c4a3e\">▾</text>\n</g>\n<g class=\"mm-children\" id=\"bc3\">\n<path d=\"M450,358 C462,358 462,316 480,316\" stroke=\"#bd7a6d\" stroke-width=\"1.5\" fill=\"none\"/>\n<path d=\"M450,358 C462,358 462,358 480,358\" stroke=\"#bd7a6d\" stroke-width=\"1.5\" fill=\"none\"/>\n<path d=\"M450,358 C462,358 462,400 480,400\" stroke=\"#bd7a6d\" stroke-width=\"1.5\" fill=\"none\"/>\n<rect x=\"480\" y=\"300\" width=\"456\" height=\"32\" rx=\"8\" fill=\"#f4e7e4\"/><text x=\"492\" y=\"321\" fill=\"#3d3a34\" font-size=\"14\">一日蒸发 3 万亿，千禧年来最大</text>\n<rect x=\"480\" y=\"342\" width=\"456\" height=\"32\" rx=\"8\" fill=\"#f4e7e4\"/><text x=\"492\" y=\"363\" fill=\"#3d3a34\" font-size=\"14\">纳指跌 6.4%，半导体指数跌 12%</text>\n<rect x=\"480\" y=\"384\" width=\"456\" height=\"32\" rx=\"8\" fill=\"#f4e7e4\"/><text x=\"492\" y=\"405\" fill=\"#3d3a34\" font-size=\"14\">芯片存储到实体，无差别下挫</text>\n</g>\n<g class=\"mm-branch\" data-target=\"bc4\">\n<rect x=\"260\" y=\"476\" width=\"190\" height=\"34\" rx=\"8\" fill=\"#ece4f2\" stroke=\"#9b86b3\"/>\n<text x=\"355\" y=\"498\" text-anchor=\"middle\" fill=\"#5a4670\" font-size=\"15\" font-weight=\"700\">押注落空（¶7·¶10）</text>\n<text class=\"mm-arrow\" data-for=\"bc4\" x=\"442\" y=\"498\" text-anchor=\"end\" fill=\"#5a4670\">▾</text>\n</g>\n<g class=\"mm-children\" id=\"bc4\">\n<path d=\"M450,493 C462,493 462,472 480,472\" stroke=\"#9b86b3\" stroke-width=\"1.5\" fill=\"none\"/>\n<path d=\"M450,493 C462,493 462,514 480,514\" stroke=\"#9b86b3\" stroke-width=\"1.5\" fill=\"none\"/>\n<rect x=\"480\" y=\"456\" width=\"456\" height=\"32\" rx=\"8\" fill=\"#ece4f2\"/><text x=\"492\" y=\"477\" fill=\"#3d3a34\" font-size=\"14\">大科技金主押共和党，押错了</text>\n<rect x=\"480\" y=\"498\" width=\"456\" height=\"32\" rx=\"8\" fill=\"#ece4f2\"/><text x=\"492\" y=\"519\" fill=\"#3d3a34\" font-size=\"14\">德州变天，1/3 新增产能卡住</text>\n</g>\n<text x=\"486\" y=\"170\" fill=\"#8a8578\" font-size=\"11.5\">↓ 于是</text>\n<text x=\"486\" y=\"284\" fill=\"#8a8578\" font-size=\"11.5\">↓ 引爆</text>\n<text x=\"486\" y=\"440\" fill=\"#8a8578\" font-size=\"11.5\">↓ 代价</text>\n</svg>",
-    "img": "/Users/malen/.workbuddy/backups/handmap/2026-11-07_豪赌翻车_手绘.jpg",
-    "alt": "豪赌翻车：民主党大胜掀翻华尔街AI豪赌思维导图",
-    "aria": "华尔街一日蒸发3.2万亿美元：民主党中期大胜引爆AI溃败思维导图"
+   ]
+  },
+  {
+   "en_html": "Traders <mark class=\"voc\">stampeded</mark> out of tech shares on fears that Democrats’ <mark class=\"voc\">stunning</mark> victory over Donald Trump’s Republicans in Tuesday’s midterms would <mark class=\"voc\">cool</mark> the AI spending <mark class=\"voc\">boom</mark> that has driven Wall Street to record highs this year. “[Investors] are <mark class=\"voc\">throwing in the towel</mark> and <mark class=\"voc\">indiscriminately</mark> <mark class=\"voc\">liquidating</mark>,” said Adam Crisafulli, president of market research group Vital Knowledge.",
+   "zh": "交易员们像受惊的角马一般，从科技股中夺路而逃——他们担心，民主党在周二的中期选举中对川总的共和党取得的那场令人目瞪口呆的大胜，会给那股把华尔街推上历史新高的AI投资热潮浇上一盆冷水。\"投资者们正在举白旗认输，不分青红皂白地清仓抛售，\"市场研究机构VitalKnowledge的总裁亚当·克里萨富利说。",
+   "notes": [
+    {
+     "w": "stampede",
+     "ipa": "/stæmˈpiːd/",
+     "pos": "v. & n.",
+     "en": "stampede (v.) means to rush suddenly in a large group, especially because of fear",
+     "zh": "\"（兽群受惊后的）惊逃、狂奔\"（牛群、角马群受惊四散狂奔），引申语境核心义为踩踏式奔逃、恐慌性抛售",
+     "ctx": "作者不说sold（有序卖出）、 dumped（抛售），偏用stampede——它是\"兽\"的动作，本能的、失控的、谁都不管谁的。昨天的华尔街没有人在\"理性卖出\"，全是惊弓之鸟夺路而逃。",
+     "ex1": "Traders stampeded out of tech shares on Thursday. 周四，交易员们从科技股中夺路而逃。",
+     "ex2": "The news triggered a stampede for the exits. 这一消息引发了争相出逃的踩踏。"
+    },
+    {
+     "w": "stunning",
+     "ipa": "/ˈstʌnɪŋ/",
+     "pos": "adj.",
+     "en": "stunning (adj.) means extremely surprising or shocking",
+     "zh": "\"令人目瞪口呆的\"（stun 打晕、击昏），形容语境核心义为令人震惊的",
+     "ctx": "a stunning victory\"令人目瞪口呆的大胜\"。注意作者三换说法反复强调同一件事——sweep、sweeping victory、stunning victory——一个意思反复出现，就是作者想让你记住的重点。",
+     "ex1": "Democrats scored a stunning victory over Trump's Republicans. 民主党对川总的共和党取得了一场令人震惊的大胜。",
+     "ex2": "The team pulled off a stunning comeback in the final minute. 该队在最后一分钟上演了惊人的逆转。"
+    },
+    {
+     "w": "cool（动词）",
+     "ipa": "/kuːl/",
+     "pos": "v.",
+     "en": "cool (v.) means to make something less hot, or to make something less intense or enthusiastic",
+     "zh": "\"使冷却、降温\"（形容词cool 动词化），财经语境核心义为给……降温、使放缓",
+     "ctx": "熟词僻义——would cool the AI spending boom\"给AI 投资热潮降降温\"。投资热潮是\"热\"的、滚烫的，想让它慢下来就是\"降降温\"，一个cool 画面全出来了。",
+     "ex1": "Higher rates are meant to cool the overheated market.加息是为了给过热的市场降温。",
+     "ex2": "The news cooled investors' enthusiasm for tech stocks.这一消息冷却了投资者对科技股的热情。"
+    },
+    {
+     "w": "boom",
+     "ipa": "/buːm/",
+     "pos": "n.",
+     "en": "a boom is a period of rapid growth in an economy, industry or activity",
+     "zh": "\"轰的一声（爆炸/轰鸣声）\"，引申语境核心义为暴涨、繁荣、热潮",
+     "ctx": "the AI spending boom\"AI 投资热潮\"是全文核心概念——AI 公司买芯片、建数据中心烧的那笔钱。经济繁荣economic boom、房地产暴涨housing boom、婴儿潮baby boom 全是一个boom。",
+     "ex1": "The AI spending boom has powered stocks to record highs.AI 投资热潮把股市推上了历史新高。",
+     "ex2": "The city enjoyed a building boom in the 1990s.这座城市在20 世纪90 年代经历了一轮建设热潮。"
+    },
+    {
+     "w": "throw in the towel",
+     "ipa": "/θrəʊ ɪn ðə ˈtaʊəl/",
+     "pos": "idiom",
+     "en": "throw in the towel means to admit defeat and give up, especially after a long struggle",
+     "zh": "\"扔毛巾认输\"（源自拳击——教练往擂台里扔白毛巾，替拳手认输），引申语境核心义为认输、放弃、举白旗",
+     "ctx": "关键细节——扔毛巾的是教练不是拳手自己：拳手还在硬撑，教练看不下去了替他做决定。所以这个短语藏着两层意思：认输+ 这个决定是痛苦、被迫的。更早的版本是扔海绵throw up the sponge。",
+     "ex1": "Investors are throwing in the towel and selling everything.投资者正在认输，把一切清仓卖出。",
+     "ex2": "After years of losses, the founder finally threw in the towel.连年亏损之后，创始人终于认输放弃了。"
+    },
+    {
+     "w": "indiscriminately",
+     "ipa": "/ˌɪndɪˈskrɪmɪnətli/",
+     "pos": "adv.",
+     "en": "indiscriminately (adv.) means without making careful distinctions; without choosing",
+     "zh": "\"不分青红皂白地\"（in- 否定+ discriminate 区分），描写语境核心义为不挑不拣地、见什么卖什么",
+     "ctx": "indiscriminately liquidating——正常的抛售是\"我算过了，这个股看空\"，恐慌性清仓是\"管你是什么，全卖，换成现金\"。这时投资者不是分析，是逃命。",
+     "ex1": "Frightened investors were indiscriminately liquidating their holdings.惊恐的投资者不分青红皂白地清仓。",
+     "ex2": "The new rules punish indiscriminate dumping of waste.新规惩罚不分情况的废弃物倾倒。"
+    },
+    {
+     "w": "liquidate",
+     "ipa": "/ˈlɪkwɪdeɪt/",
+     "pos": "v.",
+     "en": "liquidate (v.) means to sell assets to get cash, or to close down a business and sell its assets",
+     "zh": "\"把……变成液体\"（liquid 液体+ -ate），金融语境核心义为变现、清仓、平仓",
+     "ctx": "资产本来是\"固体\"的（股票、房子），liquidate 就是把它\"化\"成能流动的现金——这个\"液化\"的词源，记一次就忘不了。",
+     "ex1": "The fund liquidated its entire position in tech stocks. 该基金清空了它在科技股上的全部仓位。",
+     "ex2": "The company was forced to liquidate its assets to pay creditors. 这家公司被迫变卖资产来偿还债权人。"
+    }
+   ]
+  },
+  {
+   "en_html": "Selling among chipmakers was brutal, with Nvidia, the company most closely associated with the AI surge, tumbling 9.3 per cent, pushing its market value down more than $400bn. The S&P 500 index of US <mark class=\"voc\">blue-chip</mark> companies lost 4.4 per cent, its worst <mark class=\"voc\">session</mark> since last year’s “<mark class=\"voc\">liberation day</mark>” <mark class=\"voc\">ructions</mark>, in a session marked by <mark class=\"voc\">wild swings</mark>. The broader Nasdaq Composite fell 5.5 per cent, its steepest drop in 19 months, closing more than 10 per cent below its October 6 record and confirming a technical correction. The Philadelphia semiconductor index plunged more than 12 per cent. “With the <mark class=\"voc\">blue wave</mark>, investors fear that <mark class=\"voc\">peak</mark> [AI <mark class=\"voc\">capital spending</mark>] is behind us,” said Charles-Henry Monchau, chief investment officer at Swiss private bank SYZ Group. One <mark class=\"voc\">hedge fund</mark> portfolio manager said the move was driven by quick-moving investors <mark class=\"voc\">ditching</mark> large positions, known as “<mark class=\"voc\">de-grossing</mark>”. “People are starting to get worried now, today the move was so <mark class=\"voc\">swift</mark>,” said another hedge fund executive.",
+   "zh": "芯片股的抛售异常惨烈：与AI浪潮关联最深的英伟达，暴跌9.3%，市值一夜蒸发4000多亿美元。由美国蓝筹股构成的标普500指数跌去4.4%，是自去年\"解放日\"风波以来最惨的一个交易日，盘面剧烈震荡。覆盖面更广的纳斯达克综合指数下跌5.5%，创19个月来最大单日跌幅，收盘价较10月6日的历史高点跌去逾10%，正式确认进入技术性调整。费城半导体指数更是暴跌逾12%。\"随着这股蓝色浪潮，投资者开始担心，AI资本开支的巅峰已经过去，\"瑞士私人银行SYZ集团首席投资官夏尔-亨利·蒙肖表示。一位对冲基金投资组合经理称，这一跌势由动作飞快的投资者大量甩卖头寸所致，业内称之为\"降仓位\"。\"人们现在是真的开始怕了，今天这一跌，来得太急太快，\"另一位对冲基金高管说。",
+   "notes": [
+    {
+     "w": "blue-chip",
+     "ipa": "/ˌbluː ˈtʃɪp/",
+     "pos": "adj. & n.",
+     "en": "blue-chip (adj.) describes a large, well-established and financially sound company",
+     "zh": "\"蓝色筹码\"（赌场里最值钱的那枚筹码是蓝色的），金融语境核心义为蓝筹（股）、最优质稳健的",
+     "ctx": "blue-chip companies 蓝筹股——规模最大、最赚钱、最经得起风浪的龙头公司，是股市里的\"蓝色筹码\"。中文\"蓝筹股\"就是直译过来的。连它们都跌，说明整个大盘在塌。",
+     "ex1": "The S&P 500 tracks America's blue-chip companies.标普500 追踪的是美国的蓝筹公司。",
+     "ex2": "Even blue-chip stocks fell sharply in the rout.连蓝筹股都在这次溃败中大跌。"
+    },
+    {
+     "w": "session",
+     "ipa": "/ˈseʃn/",
+     "pos": "n.",
+     "en": "a session (in finance) means a single trading day on a stock exchange",
+     "zh": "\"一场、一节\"（会议/课程的\"一场\"），财经语境核心义为（一个）交易日",
+     "ctx": "its worst session——外刊里说session，十有八九说的是\"一个交易日\"。 a trading session 一个交易日。",
+     "ex1": "The S&P 500 lost 4.4 per cent in its worst session of the year. 标普500 在年内最惨的一个交易日下跌4.4%。",
+     "ex2": "Shares recovered slightly late in the session. 临近收盘时股价略有回升。"
+    },
+    {
+     "w": "liberation day",
+     "ipa": "/ˌlɪbəˈreɪʃn deɪ/",
+     "pos": "n.",
+     "en": "\"Liberation Day\" was the name Donald Trump gave to April 2, 2025, when he announced sweeping reciprocal tariffs",
+     "zh": "\"解放日\"（川总给自己关税日起的名字），时事语境核心义为（2025 年4 月2 日）关税日",
+     "ctx": "last year's \"liberation day\" ructions——指2025 年4 月川总宣布对等关税引发的暴跌。一个反讽点：上一次华尔街这么惨是川总的关税，这一次是民主党的选举，左右两端都能打崩市场。",
+     "ex1": "The market had its worst day since last year's \"liberation day\". 市场经历了自去年\"解放日\"以来最惨的一天。",
+     "ex2": "Investors still remember the \"liberation day\" sell-off. 投资者至今仍记得\"解放日\"那场抛售。"
+    },
+    {
+     "w": "ructions",
+     "ipa": "/ˈrʌkʃnz/",
+     "pos": "n. pl.",
+     "en": "ructions (n.) means angry arguments, disturbances or turmoil",
+     "zh": "\"骚动、风波、大乱子\"（英式口语），时事语境核心义为骚乱、剧烈动荡",
+     "ctx": "liberation day ructions\"解放日引发的那场风波\"。这个词偏英式、偏口语，让严肃的财经报道多了点烟火气。",
+     "ex1": "The tariffs caused ructions across global markets. 这些关税在全球市场引发了剧烈动荡。",
+     "ex2": "There were ructions in the party over the new policy. 党内因新政策闹得不可开交。"
+    },
+    {
+     "w": "wild swings",
+     "ipa": "/waɪld swɪŋz/",
+     "pos": "n. pl.",
+     "en": "wild swings means large, sudden changes in price or direction",
+     "zh": "\"疯狂的摆动\"（wild 疯狂的+ swing 摆动），财经语境核心义为剧烈震荡",
+     "ctx": "股价不是平稳下跌，是上蹿下跳、一会儿狂涨一会儿狂跌——这种\"疯摆\"说明市场已失去方向感，纯粹是恐慌情绪在驱动。",
+     "ex1": "The session was marked by wild swings in both directions. 这个交易日双向剧烈震荡。",
+     "ex2": "Wild swings are a sign of panic, not analysis. 剧烈震荡是恐慌的信号，而非理性分析。"
+    },
+    {
+     "w": "blue wave",
+     "ipa": "/ˌbluː ˈweɪv/",
+     "pos": "n.",
+     "en": "a blue wave means a sweeping victory by the Democratic Party (blue being the Democrats' colour)",
+     "zh": "\"蓝色浪潮\"（美国政治里民主党是蓝色、共和党是红色），政治语境核心义为（民主党的）席卷式大胜",
+     "ctx": "与标题sweep、导语sweeping victory、第2 段stunning victory 说的是同一件事——民主党赢麻了。",
+     "ex1": "With the blue wave, investors fear the AI boom is over. 随着这股蓝色浪潮，投资者担心AI 热潮已经结束。",
+     "ex2": "The blue wave gave Democrats control of Congress. 这场蓝色浪潮让民主党掌控了国会。"
+    },
+    {
+     "w": "peak",
+     "ipa": "/piːk/",
+     "pos": "n. & v.",
+     "en": "peak (n.) means the highest point; as a verb it means to reach the highest point",
+     "zh": "\"顶峰、巅峰\"，财经语境核心义为见顶、最高点",
+     "ctx": "peak [AI capital spending] is behind us——\"AI 资本开支的巅峰已经过去了\"，翻译成人话就是\"好日子到头了，以后再也不会比现在更好\"。这是全文最核心的一句担忧。",
+     "ex1": "Investors fear that peak AI spending is behind us. 投资者担心AI 开支的巅峰已经过去。",
+     "ex2": "The stock hit its peak in October and has fallen since. 这只股票10 月见顶，此后一路下跌。"
+    },
+    {
+     "w": "capital spending / capex",
+     "ipa": "/ˈkæpɪtl ˈspendɪŋ/",
+     "pos": "n.",
+     "en": "capital spending (or capex) means money a company spends on long-term assets such as equipment, buildings or data centres",
+     "zh": "\"资本开支\"（capital 资本+ spending 开支；简称capex，来自capital expenditure），财经语境核心义为资本开支、资本支出",
+     "ctx": "就是第2 段讲的AI spending 的正式叫法——AI 公司买芯片、建数据中心、搞基建的那笔巨额支出。以后看到capex，就是\"资本开支\"。",
+     "ex1": "Tech giants have boosted their AI capital spending sharply. 科技巨头大幅提高了AI 资本开支。",
+     "ex2": "The company cut its capex forecast for next year. 该公司下调了明年的资本开支预测。"
+    },
+    {
+     "w": "hedge fund",
+     "ipa": "/ˈhedʒ fʌnd/",
+     "pos": "n.",
+     "en": "a hedge fund is an investment fund that uses complex strategies, including borrowing and short-selling, to seek high returns",
+     "zh": "\"对冲基金\"（hedge 对冲、避险+ fund 基金），金融语境核心义为对冲基金",
+     "ctx": "用做多、做空、加杠杆等复杂手段赚钱的基金，服务大资金大机构，是华尔街最\"猛\"的一批玩家。",
+     "ex1": "One hedge fund manager said the move was driven by de-grossing. 一位对冲基金经理称，这轮下跌由降仓位推动。",
+     "ex2": "The hedge fund made a fortune betting against the market. 这家对冲基金靠做空市场大赚了一笔。"
+    },
+    {
+     "w": "ditch",
+     "ipa": "/dɪtʃ/",
+     "pos": "v.",
+     "en": "ditch (v.) means to get rid of or abandon something suddenly",
+     "zh": "\"把……扔进沟里\"（ditch 水沟→ 动词\"抛进水沟\"），口语语境核心义为抛弃、甩掉",
+     "ctx": "ditching large positions——把大把仓位\"扔进沟里\"不要了，比\"卖出\"生动一百倍。",
+     "ex1": "Quick-moving investors ditched their large positions. 动作飞快的投资者甩掉了大量头寸。",
+     "ex2": "They ditched the idea after the first meeting. 第一次会议后他们就放弃了这个想法。"
+    },
+    {
+     "w": "de-grossing",
+     "ipa": "/ˌdiː ˈɡrəʊsɪŋ/",
+     "pos": "n.",
+     "en": "de-grossing means reducing the total size of positions a fund holds, often by selling quickly",
+     "zh": "\"降总敞口\"（de- 减少+ gross 总敞口+ -ing），金融行话核心义为降仓位、去杠杆、减仓",
+     "ctx": "行话。gross 是\"你手里总共压了多少钱在市场上\"，de-grossing 就是把这些仓位赶紧砍掉。画面像派对散场——有人喊\"着火了\"，所有人一窝蜂冲向出口。",
+     "ex1": "The sell-off was driven by hedge funds de-grossing their books. 这轮抛售由对冲基金减仓推动。",
+     "ex2": "De-grossing means funds are cutting risk fast. 降仓位意味着基金正在快速削减风险。"
+    },
+    {
+     "w": "swift",
+     "ipa": "/swɪft/",
+     "pos": "adj.",
+     "en": "swift (adj.) means happening very quickly",
+     "zh": "\"飞快的、迅速的\"（比fast 更有画面——\"嗖的一下\"，像燕子掠过水面），描写语境核心义为迅速的、飞快的",
+     "ctx": "today the move was so swift——为什么强调\"太快\"？因为慢跌你可以止损，跌太快你连反应的时间都没有，就已经在悬崖底下了。最吓人的不是\"跌多少\"，是\"来不及跑\"。",
+     "ex1": "The move was so swift that few investors could react. 这一跌来得太快，几乎没有投资者来得及反应。",
+     "ex2": "The government promised swift action on the crisis. 政府承诺就这场危机迅速采取行动。"
+    }
+   ]
+  },
+  {
+   "en_html": "Investors fear that newly elected politicians who <mark class=\"voc\">campaigned against</mark> data centres will <mark class=\"voc\">hit the brakes</mark> on AI infrastructure development, <mark class=\"voc\">eroding</mark> Wall Street’s expectations for vast spending on chips, servers and facilities that have driven up earnings expectations and powered stocks to record highs this year. “Guys who would normally be <mark class=\"voc\">bargain-hunting</mark>, excited by these low prices, they’re not <mark class=\"voc\">jumping in</mark> . . . everyone’s <mark class=\"voc\">hiding out in cash</mark>,” said the chief executive of a New York <mark class=\"voc\">brokerage</mark>.",
+   "zh": "投资者担心，那些在竞选中高喊反对数据中心的新当选政客，会给AI基础设施建设踩下刹车，从而一点点蚕食华尔街对芯片、服务器和设施巨额支出的预期——正是这笔支出，今年推高了盈利预期，把股票一路送上了历史新高。\"那些平时最爱抄底、看到低价就两眼放光的人，这次也不进场了……所有人，都躲进了现金里。\"纽约一家券商的首席执行官说。",
+   "notes": [
+    {
+     "w": "campaign against",
+     "ipa": "/kæmˈpeɪn əˈɡenst/",
+     "pos": "v. phrase",
+     "en": "campaign against means to take part in organised activities to oppose something",
+     "zh": "\"发起反对……的运动\"（campaign 竞选、开展运动+ against 反对），政治语境核心义为（把反对某事当主张）奔走、造势",
+     "ctx": "campaign against data centres——把\"限制数据中心\"当竞选口号一路选上来。与之相对的是campaign for （为某事奔走）。",
+     "ex1": "She campaigned against the construction of new power plants. 她发起运动反对新建发电厂。",
+     "ex2": "The group has campaigned for cleaner air for years. 这个团体多年来一直为更清洁的空气奔走。"
+    },
+    {
+     "w": "hit the brakes",
+     "ipa": "/hɪt ðə breɪks/",
+     "pos": "phrase",
+     "en": "hit the brakes means to suddenly slow down or stop something that was moving fast",
+     "zh": "\"踩刹车\"，比喻语境核心义为踩刹车、踩停、急刹车",
+     "ctx": "全文\"开车\"比喻的核心一环——第2 段说AI 热潮drive（油门）把华尔街推上新高，这里民主党要 hit the brakes（踩刹车）。华尔街是车，AI 是油门，民主党踩刹车。",
+     "ex1": "New politicians could hit the brakes on AI infrastructure. 新上任的政客可能会给AI 基建踩下刹车。",
+     "ex2": "The government put the brakes on new construction. 政府叫停了新建设项目。"
+    },
+    {
+     "w": "erode",
+     "ipa": "/ɪˈrəʊd/",
+     "pos": "v.",
+     "en": "erode (v.) means to gradually wear something away or weaken it",
+     "zh": "\"侵蚀\"（水慢慢侵蚀河岸、风慢慢侵蚀岩石），引申语境核心义为蚕食、一点点削弱",
+     "ctx": "eroding Wall Street's expectations——投资者的信心不是\"啪\"一下没了，而是像河岸被水一点点冲刷，一点一点塌掉。这个画面比\"破坏\"温柔，但更揪心。",
+     "ex1": "The policy is eroding Wall Street's expectations for AI spending.这项政策正在一点点蚕食华尔街对AI 开支的预期。",
+     "ex2": "Inflation has eroded the value of savings.通胀蚕食了储蓄的价值。 【drive up / power】 v. phrase 英文释义：drive up means to push something higher; power (as a verb) means to give energy or force to something 本义为\"把……往上推/ 给……供能\"，比喻语境核心义为推动、助推（本文特指：drive up earnings expectations 和powered stocks to record highs——两个都是\"发动机\"画面，延续全文\"车\"的比喻：AI 巨额支出就是那台发动机，把盈利预期和股价一路轰上历史新高。）核心搭配：drive up prices、power stocks higher、power growth"
+    },
+    {
+     "w": "bargain-hunting",
+     "ipa": "/ˈbɑːɡən ˌhʌntɪŋ/",
+     "pos": "n.",
+     "en": "bargain-hunting means looking for things to buy at a much lower price than usual",
+     "zh": "\"猎便宜货\"（bargain 便宜货+ hunt 打猎），投资语境核心义为抄底、捡便宜",
+     "ctx": "像猎人一样专门盯价格跌到谷底的股票，等它够低了冲进去捡便宜——股市里叫\"抄底\"。这群人是胆子最大、最反人性的一批：别人恐慌抛售，他们反而兴奋地接货。",
+     "ex1": "Guys who would normally be bargain-hunting are not jumping in. 那些平时最爱抄底的人，这次也不进场了。",
+     "ex2": "Bargain hunters rushed in when the stock hit a low. 当股价触及低点时，抄底者蜂拥而入。"
+    },
+    {
+     "w": "jump in",
+     "ipa": "/dʒʌmp ɪn/",
+     "pos": "phrasal v.",
+     "en": "jump in means to start doing something quickly and eagerly",
+     "zh": "\"跳进来\"（jump 跳+ in 进入），口语语境核心义为（迫不及待地）进场、加入",
+     "ctx": "they're not jumping in——平时看到低价会\"扑通\"一声跳进市场，今天站在岸上愣是不跳。一个jump，写出那种跃跃欲试又硬生生收住的犹豫。",
+     "ex1": "Normally eager buyers are not jumping in this time. 平时跃跃欲试的买家这次不进场了。",
+     "ex2": "She jumped at the chance to work abroad. 她迫不及待地抓住了去国外工作的机会。"
+    },
+    {
+     "w": "hide out in cash",
+     "ipa": "/haɪd aʊt ɪn kæʃ/",
+     "pos": "phrase",
+     "en": "hide out in cash means selling assets and holding cash as a safe place during uncertainty",
+     "zh": "\"躲进现金里\"（hide out 躲藏+ cash 现金），投资语境核心义为（抛股）持币避险",
+     "ctx": "现金成了\"防空洞\"——所有人从股市这座危楼里逃出来，抱着现金躲进去。平时这些职业投资人看不起现金（放着不增值），今天宁可抱着现金也不碰打折的股票。",
+     "ex1": "Everyone's hiding out in cash, waiting for the dust to settle. 所有人都躲进现金里，等待尘埃落定。",
+     "ex2": "When fear peaks, investors flee to cash. 当恐慌达到顶点，投资者会逃向现金。"
+    },
+    {
+     "w": "brokerage",
+     "ipa": "/ˈbrəʊkərɪdʒ/",
+     "pos": "n.",
+     "en": "a brokerage is a company that buys and sells securities on behalf of clients",
+     "zh": "\"经纪公司、券商\"（broker 经纪人+ -age），金融语境核心义为券商、经纪行",
+     "ctx": "the chief executive of a New York brokerage——纽约一家券商的老总。说明这是\"一线\"传来的真实声音，不是坐办公室的分析师在纸上谈兵。",
+     "ex1": "The chief executive of a New York brokerage described the mood. 纽约一家券商的首席执行官描述了市场的情绪。",
+     "ex2": "The online brokerage cut its trading fees last month. 这家线上券商上月下调了交易手续费。"
+    }
+   ]
+  },
+  {
+   "en_html": "Vincent Mortier, the investment chief of Amundi, said the “<mark class=\"voc\">honeymoon</mark>” gains for US stocks on the day after Democrats won control of Congress had been “very <mark class=\"voc\">short-lived</mark>”. He added that the tech <mark class=\"voc\">repricing</mark> was “<mark class=\"voc\">harsh</mark> and quick as the fundamental question marks <mark class=\"voc\">resurface</mark> <mark class=\"voc\">under the microscope</mark> of the new political US picture — data centres <mark class=\"voc\">backlash</mark>, new regulation”.",
+   "zh": "欧洲资管巨头Amundi的投资总监文森·莫尔捷表示，民主党赢得国会控制权后的第二天，美股那波\"蜜月\"式上涨\"转瞬即逝\"。他补充说，这波科技股的重新定价\"又狠又急，因为那些根本性的问号，在新的美国政治图景这面显微镜下重新浮现——对数据中心的反弹、以及新的监管\"。",
+   "notes": [
+    {
+     "w": "honeymoon",
+     "ipa": "/ˈhʌnimuːn/",
+     "pos": "n.",
+     "en": "honeymoon (n.) means a period of goodwill and friendliness at the start of a new relationship, or a brief period of optimism after a political victory",
+     "zh": "\"蜜月\"（新婚夫妇婚后的甜蜜假期），引申语境核心义为蜜月期、短暂的乐观期",
+     "ctx": "美国政治里有honeymoon period\"蜜月期\"——新政府刚上台，市场、媒体、老百姓都先看它的好。但作者给honeymoon 加引号，是在说这是\"假蜜月\"，是市场一时的自我感动，注定短暂。",
+     "ex1": "The market's \"honeymoon\" gains proved very shortlived. 市场那波\"蜜月\"式上涨被证明非常短命。",
+     "ex2": "New leaders usually enjoy a honeymoon period. 新领导人通常会有一段蜜月期。"
+    },
+    {
+     "w": "short-lived",
+     "ipa": "/ˌʃɔːtˈlɪvd/",
+     "pos": "adj.",
+     "en": "short-lived (adj.) means lasting only for a short time",
+     "zh": "\"短命的\"（short 短+ lived 活的），描写语境核心义为短暂的、转瞬即逝的",
+     "ctx": "the gains had been \"very short-lived\"——涨势\"转瞬即逝\"。拆开一看就懂：活得很短的。",
+     "ex1": "The rally proved short-lived as sellers returned. 随着卖盘回场，这波反弹被证明转瞬即逝。",
+     "ex2": "His success was short-lived. 他的成功是短暂的。"
+    },
+    {
+     "w": "repricing",
+     "ipa": "/ˌriːˈpraɪsɪŋ/",
+     "pos": "n.",
+     "en": "repricing means the process of re-evaluating and re-setting the value of an asset",
+     "zh": "\"重新定价\"（re- 重新+ price 定价+ -ing），金融语境核心义为重新定价、重新估值",
+     "ctx": "像你看中一件1000 块的衣服，突然发现是仿货，心里\"咯噔\"一下给它重新标个50 块——市场昨天干的就是这场\"集体的、慌乱的重新标价\"。它本身带着残酷：不是\"跌一点\"，是\"推倒重来\"。",
+     "ex1": "The tech repricing was harsh and quick. 这波科技股的重新定价又狠又急。",
+     "ex2": "Investors are repricing AI stocks for slower growth. 投资者正在按增长放缓的预期给AI 股重新估值。"
+    },
+    {
+     "w": "harsh",
+     "ipa": "/hɑːʃ/",
+     "pos": "adj.",
+     "en": "harsh (adj.) means severe, cruel or unpleasantly rough",
+     "zh": "\"粗糙的、刺耳的、严酷的\"，描写语境核心义为残酷的、严酷的",
+     "ctx": "harsh and quick——与第3 段swift 呼应并升级：不是慢慢调整，是\"啪\"一下又快又狠地砸下来。",
+     "ex1": "The repricing was described as harsh and quick. 这场重新定价被形容为又狠又急。",
+     "ex2": "He faced harsh criticism over the decision. 他因这个决定遭到了严厉批评。"
+    },
+    {
+     "w": "resurface",
+     "ipa": "/ˌriːˈsɜːfɪs/",
+     "pos": "v.",
+     "en": "resurface (v.) means to appear again after being hidden or forgotten",
+     "zh": "\"重新浮出水面\"（re- 重新+ surface 水面），比喻语境核心义为（问题）重新浮现、再度出现",
+     "ctx": "question marks resurface——那些疑问一直都在，只是前阵子被乐观的潮水盖住了、沉在水底；现在潮水退了，石头一块块又露出水面。不是\"新出现\"，是\"藏不住了\"。",
+     "ex1": "Old doubts are resurfacing as the market cools. 随着市场降温，旧的疑虑重新浮现。",
+     "ex2": "The scandal resurfaced in the news this week. 这桩丑闻本周再次出现在新闻里。"
+    },
+    {
+     "w": "under the microscope",
+     "ipa": "/ˈʌndə ðə ˈmaɪkrəskəʊp/",
+     "pos": "phrase",
+     "en": "under the microscope means being examined or scrutinised very closely",
+     "zh": "\"在显微镜下\"（microscope 显微镜），比喻语境核心义为被仔细审视、被严加审查",
+     "ctx": "新的政治局势变成一台显微镜，把AI 行业放大一百倍——原来这些光鲜的\"未来\"，底下全是没回答的问号。",
+     "ex1": "AI's economics are now under the microscope. AI 的经济账现在被放到了显微镜下审视。",
+     "ex2": "The company's finances came under the microscope. 这家公司的财务状况受到了严密审查。"
+    },
+    {
+     "w": "backlash",
+     "ipa": "/ˈbæklæʃ/",
+     "pos": "n.",
+     "en": "backlash means a strong negative reaction by many people against something",
+     "zh": "\"反冲、后坐力\"（机械零件间的反冲），引申语境核心义为（民众的）强烈反弹、强烈反对",
+     "ctx": "data centres backlash——AI 疯狂建数据中心，现在民众的反对\"弹回来\"反咬一口。backlash 画面感极强：你往前推一样东西，它会弹回来咬你。",
+     "ex1": "There is growing backlash against new data centres. 对新建数据中心的反弹日益强烈。",
+     "ex2": "The plan sparked a backlash from local residents. 这项计划引发了当地居民的强烈反弹。"
+    }
+   ]
+  },
+  {
+   "en_html": "Abdul El-Sayed, the Democratic <mark class=\"voc\">senator-elect</mark> from Michigan, has said there should be a “<mark class=\"voc\">full-on</mark> pause” in frontier development, arguing that “you’re seeing the pace of technological development <mark class=\"voc\">outpace</mark> the pace of safety”. <mark class=\"voc\">Incoming</mark> South Carolina senator Annie Andrews proposed a two-year ban on new data centre construction to stop communities “getting <mark class=\"voc\">steamroll</mark>ered” by “incredibly wealthy, powerful companies”.",
+   "zh": "密歇根州民主党候任参议员阿卜杜勒·埃尔-萨义德表示，前沿AI开发应当\"全面暂停\"，他给出的理由是\"你正在看到，技术发展的速度，把安全的速度远远甩在了身后\"。南卡罗来纳州即将上任的参议员安妮·安德鲁斯则提议，对新建数据中心实施为期两年的禁令，以免社区被那些\"富可敌国、权势滔天的大公司\"\"碾压\"。",
+   "notes": [
+    {
+     "w": "senator-elect",
+     "ipa": "/ˌsenətər ɪˈlekt/",
+     "pos": "n.",
+     "en": "a senator-elect is someone who has been elected senator but has not yet taken office",
+     "zh": "\"候任参议员\"（senator 参议员+ elect 当选的，作后置定语），政治语境核心义为候任参议员（选上、还没就职）",
+     "ctx": "美国11 月投票、新议员来年1 月才就职，中间几个月就是\"候任\"身份——票赢了，权还没拿到。president-elect 候任总统同理。-elect 后缀记法：选上了，还没上岗。",
+     "ex1": "The senator-elect called for a pause in frontier AI development. 这位候任参议员呼吁暂停前沿AI 开发。",
+     "ex2": "The president-elect will take office in January. 候任总统将于1 月就职。"
+    },
+    {
+     "w": "full-on",
+     "ipa": "/ˌfʊl ˈɒn/",
+     "pos": "adj.",
+     "en": "full-on means complete, total or without reservation",
+     "zh": "\"彻底的、全面的、不打折扣的\"（英式口语），口语语境核心义为彻底的、全力的",
+     "ctx": "a \"full-on pause\"——不是\"缓一缓\"，是\"整个停掉\"。口语词用在严肃的\"全面叫停\"主张上，反而更有冲击力。",
+     "ex1": "He called for a full-on pause in frontier development. 他呼吁全面暂停前沿开发。",
+     "ex2": "They launched a full-on marketing campaign. 他们发起了一场全力投入的营销活动。"
+    },
+    {
+     "w": "outpace",
+     "ipa": "/ˌaʊtˈpeɪs/",
+     "pos": "v.",
+     "en": "outpace (v.) means to go faster or develop more quickly than someone or something else",
+     "zh": "\"在速度上超过、跑赢\"（out- 超过+ pace 步速），描写语境核心义为（速度）超过、甩开",
+     "ctx": "out- 前缀特别能造词，一次带一串：outrun 跑赢、outnumber 数量超过、 outweigh 分量超过。the pace of technology outpaces the pace of safety——技术像脱缰赛车，安全像追它的警车，越追越远。",
+     "ex1": "Technological development is outpacing safety. 技术发展正把安全甩在身后。",
+     "ex2": "Wages are failing to outpace inflation. 工资没能跑赢通胀。"
+    },
+    {
+     "w": "incoming",
+     "ipa": "/ˈɪnkʌmɪŋ/",
+     "pos": "adj.",
+     "en": "incoming (adj.) means soon to take up a position or arrive",
+     "zh": "\"即将上任的、即将到来的\"（in 进入+ coming 来），政治语境核心义为即将上任的",
+     "ctx": "incoming senator——与前面的senator-elect 一个意思，作者换了个说法避免重复。记住：incoming 和-elect 说的都是\"新官即将上任\"。",
+     "ex1": "The incoming senator proposed a two-year ban on new data centres. 这位即将上任的参议员提议禁建新数据中心两年。",
+     "ex2": "The incoming government faces a tough first year. 即将上任的政府面临艰难的执政第一年。"
+    },
+    {
+     "w": "steamroll",
+     "ipa": "/ˈstiːmrəʊl/",
+     "pos": "v.",
+     "en": "steamroll (v.) means to defeat or crush someone completely, using overwhelming force",
+     "zh": "\"碾压、强行压服\"（steamroller 蒸汽压路机→ 动词），引申语境核心义为碾压、强行压制",
+     "ctx": "画面感强到爆——一个巨大的蒸汽压路机轰隆隆碾过来，把你、你的房子、你的意见全压平，你连吭声的机会都没有。communities \"getting steamrollered\"是那位议员的原话，带着情绪，作者用引号标出。",
+     "ex1": "Communities are getting steamrollered by powerful companies. 社区正被实力雄厚的公司碾压。",
+     "ex2": "The bill was steamrollered through parliament. 这项法案被强行在议会通过。"
+    }
+   ]
+  },
+  {
+   "en_html": "The Democrats’ win in Congress was “a horrible day for America”, said a US portfolio manager with <mark class=\"voc\">large positions</mark> in tech companies including Anthropic. The results of the midterms would have “massive <mark class=\"voc\">ramifications</mark>” for the price of chips used in AI servers, the <mark class=\"voc\">initial public offering</mark> <mark class=\"voc\">pipeline</mark> and AI data centre companies, the person said. Several <mark class=\"voc\">Big Tech bosses</mark> spent heavily to support the <mark class=\"voc\">electoral chances</mark> of Trump’s Republicans, who have sought to <mark class=\"voc\">lighten regulation</mark> of the AI sector.",
+   "zh": "\"对美国来说，这是可怕的一天。\"一位在Anthropic等科技公司持有大量头寸的美国投资组合经理如是说。这位人士称，中期选举的结果，将给AI服务器芯片的价格、首次公开募股的排队名单，以及AI数据中心公司，带来\"巨大的连锁后果\"。此前，多位科技巨头老板曾砸下重金，支持川总的共和党提高胜选几率——而共和党一直试图放松对AI行业的监管。",
+   "notes": [
+    {
+     "w": "large positions",
+     "ipa": "/lɑːdʒ pəˈzɪʃnz/",
+     "pos": "n. pl.",
+     "en": "a position (in finance) means the amount of a particular security a person or fund holds; large positions means big holdings",
+     "zh": "\"大量头寸、大仓位\"（position 头寸、仓位），金融语境核心义为大量持仓、重仓",
+     "ctx": "with large positions in tech companies including Anthropic——这位经理重仓了科技股（包括Anthropic）。他喊\"美国可怕的一天\"，其实是\"我的仓位可怕\"。",
+     "ex1": "The manager held large positions in tech companies. 这位经理在科技公司持有大量头寸。",
+     "ex2": "The fund took a large position in Nvidia. 该基金在英伟达上建立了大仓位。"
+    },
+    {
+     "w": "ramifications",
+     "ipa": "/ˌræmɪfɪˈkeɪʃnz/",
+     "pos": "n. pl.",
+     "en": "ramifications means the complex, often unwelcome consequences of an action that spread out widely",
+     "zh": "\"（像树枝一样蔓延开的）后果、牵连\"（词根ramus 树枝），正式语境核心义为连锁后果、牵一发而动全身的影响",
+     "ctx": "词源妙——ramus 是拉丁语\"树枝\"。砍树干一刀，影响顺着树枝分叉蔓延到四面八方。massive ramifications 就是\"巨大到像整片森林一样蔓延开的连锁后果\"。",
+     "ex1": "The results would have massive ramifications for the AI industry. 这一结果将给AI 行业带来巨大的连锁后果。",
+     "ex2": "The decision has serious legal ramifications. 这一决定有着严重的法律后果。"
+    },
+    {
+     "w": "initial public offering / IPO",
+     "ipa": "/ɪˌnɪʃl ˈpʌblɪk ˈɒfərɪŋ/",
+     "pos": "n.",
+     "en": "an initial public offering (IPO) is the first time a company sells its shares to the public on a stock exchange",
+     "zh": "\"首次公开募股\"（initial 首次+ public 公开+ offering 发售），金融语境核心义为 IPO、首次公开募股、上市",
+     "ctx": "就是\"上市\"——一家没上市的公司第一次把股票拿到股市上公开卖。缩写IPO 你肯定常听。",
+     "ex1": "The results could hurt the IPO pipeline for AI companies. 这一结果可能冲击AI 公司的IPO 排队名单。",
+     "ex2": "The company filed for an IPO earlier this year. 这家公司今年早些时候递交了上市申请。"
+    },
+    {
+     "w": "pipeline",
+     "ipa": "/ˈpaɪplaɪn/",
+     "pos": "n.",
+     "en": "a pipeline (in business) means a list of things — such as deals or IPOs — that are planned or in progress",
+     "zh": "\"管道、输油管\"，引申语境核心义为（排队中的）一批、储备名单",
+     "ctx": "the IPO pipeline——那些已提交申请、正排队等上市的一长串公司名单，像水管里排着队的水，一桶接一桶往前流，等着流到\"上市\"那个出口。",
+     "ex1": "Several AI companies are sitting in the IPO pipeline. 好几家AI 公司正排在IPO 名单里。",
+     "ex2": "The company has new products in the pipeline. 这家公司有一批新产品正在筹备中。"
+    },
+    {
+     "w": "Big Tech bosses",
+     "ipa": "/bɪɡ tek ˈbɒsɪz/",
+     "pos": "n. pl.",
+     "en": "Big Tech bosses means the leaders of the largest technology companies",
+     "zh": "\"科技巨头老板\"（Big Tech 大型科技公司+ boss 老板），语境核心义为科技巨头掌门人",
+     "ctx": "Big Tech 指苹果、谷歌、亚马逊、Meta 这些大型科技公司。spent heavily to support the electoral chances of Trump's Republicans——几位大老板豪掷千金去帮共和党提高胜选几率。",
+     "ex1": "Several Big Tech bosses spent heavily on the election. 多位科技巨头老板在选举上砸下重金。",
+     "ex2": "Big Tech faces growing calls for tougher regulation. 科技巨头面临越来越多加强监管的呼声。"
+    },
+    {
+     "w": "electoral chances",
+     "ipa": "/ɪˈlektərəl tʃɑːnsɪz/",
+     "pos": "n. pl.",
+     "en": "electoral chances means a candidate's prospects of winning an election",
+     "zh": "\"胜选几率\"（electoral 选举的+ chances 机会、几率），政治语境核心义为胜选几率",
+     "ctx": "electoral 来自elect（选举）。support sb's electoral chances——出钱帮他提高胜选几率。",
+     "ex1": "They spent heavily to support the Republicans' electoral chances. 他们斥巨资帮助共和党提高胜选几率。",
+     "ex2": "The scandal hurt his electoral chances badly. 这桩丑闻严重损害了他的胜选几率。"
+    },
+    {
+     "w": "lighten regulation",
+     "ipa": "/ˈlaɪtn ˌreɡjuˈleɪʃn/",
+     "pos": "v. phrase",
+     "en": "lighten regulation means to make rules less strict or burdensome",
+     "zh": "\"把监管变轻\"（light 轻+ -en 使变+ regulation 监管），政策语境核心义为放松监管",
+     "ctx": "监管（regulation）本来是\"重\"的，压在身上沉甸甸；科技大佬想干的，就是把它\"变轻\"，好放开手脚搞AI。-en 是能产动词后缀：lighten、tighten、widen、 sharpen。",
+     "ex1": "Republicans have sought to lighten regulation of the AI sector. 共和党一直试图放松对AI 行业的监管。",
+     "ex2": "The government promised to lighten the regulatory burden. 政府承诺减轻监管负担。"
+    }
+   ]
+  },
+  {
+   "en_html": "<mark class=\"voc\">Semiconductor groups</mark> were among Thursday’s biggest declines. Qualcomm dropped 9.5 per cent, Broadcom fell 10 per cent and Micron shed 17 per cent. <mark class=\"voc\">Memory stocks</mark> Sandisk and Western Digital — among the market’s best performers this year — plunged 22 per cent and 17 per cent, <mark class=\"voc\">respectively</mark>. But the selling <mark class=\"voc\">was not limited to</mark> tech stocks. Caterpillar, the world’s biggest heavy machinery maker, <mark class=\"voc\">slid</mark> 6.4 per cent, while <mark class=\"voc\">retail giant</mark> Walmart dropped 1.1 per cent.",
+   "zh": "半导体板块是周四跌幅最大的一批：高通下跌9.5%，博通下跌10%，美光下跌17%。今年全市场表现最亮眼的存储股——闪迪和西部数据——分别暴跌22%和17%。但这场抛售并未止步于科技股：全球最大的重型机械制造商卡特彼勒下挫6.4%，零售巨头沃尔玛也跌了1.1%。",
+   "notes": [
+    {
+     "w": "semiconductor groups",
+     "ipa": "/ˌsemikənˈdʌktə(r) ɡruːps/",
+     "pos": "n. pl.",
+     "en": "semiconductor groups means companies that make semiconductors (chips), or the sector as a whole",
+     "zh": "\"半导体板块\"（semiconductor 半导体+ groups 群体），金融语境核心义为半导体板块、芯片股",
+     "ctx": "semiconductor 是芯片的\"材料学叫法\"——芯片是拿半导体做的，所以外刊里\"半导体\"和\"芯片\"基本可划等号。groups 指\"这一批股票\"。",
+     "ex1": "Semiconductor groups were among Thursday's biggest declines.半导体板块是周四跌幅最大的一批。",
+     "ex2": "The semiconductor sector has boomed on AI demand.半导体板块因AI 需求而大涨。"
+    },
+    {
+     "w": "memory stocks",
+     "ipa": "/ˈmeməri stɒks/",
+     "pos": "n. pl.",
+     "en": "memory stocks means shares of companies that make memory chips (for data storage)",
+     "zh": "\"存储股\"（memory 内存、存储+ stocks 股票），金融语境核心义为存储（芯片）股",
+     "ctx": "做\"存储芯片\"的公司的股票——你手机里的照片、视频、App 都存在这些芯片里。",
+     "ex1": "Memory stocks Sandisk and Western Digital plunged sharply. 存储股闪迪和西部数据暴跌。",
+     "ex2": "Memory stocks have been among the market's best performers. 存储股一直是市场表现最好的板块之一。"
+    },
+    {
+     "w": "respectively",
+     "ipa": "/rɪˈspektɪvli/",
+     "pos": "adv.",
+     "en": "respectively (adv.) means \"in the order mentioned\", linking two lists one-to-one",
+     "zh": "\"分别地、各自地\"（respective 各自的+ -ly），写作语境核心义为分别地（按顺序对号入座）",
+     "ctx": "外刊数字题神器——Sandisk and Western Digital plunged 22% and 17%, respectively，即\"闪迪对22%、西数对17%\"。口诀：respectively 就是\"对号入座\"，前对前、后对后。",
+     "ex1": "The two stocks fell 22 per cent and 17 per cent, respectively. 这两只股票分别下跌22% 和17%。",
+     "ex2": "Gold and silver rose 2% and 5%, respectively. 金价和银价分别上涨2% 和5%。"
+    },
+    {
+     "w": "be not limited to",
+     "ipa": "/bi nɒt ˈlɪmɪtɪd tə/",
+     "pos": "phrase",
+     "en": "be not limited to means to include more than the thing mentioned",
+     "zh": "\"不局限于、不限于\"（limit 限制+ -ed），写作语境核心义为不限于……",
+     "ctx": "转折信号——作者前面列了一堆科技股怎么跌，突然来个But，把镜头范围\"哗\"地拉大：遭殃的不止科技股。这个句型在文章里常用来引出一个更广的范围。",
+     "ex1": "The selling was not limited to tech stocks. 抛售并不只限于科技股。",
+     "ex2": "The impact is not limited to the financial sector. 影响并不局限于金融行业。"
+    },
+    {
+     "w": "slid",
+     "ipa": "/slɪd/",
+     "pos": "v.",
+     "en": "slid (past of slide) means to fall or move down gradually",
+     "zh": "\"滑、溜\"（slide down 滑下来），财经语境核心义为下滑、走低",
+     "ctx": "比tumble（翻滚）、plunge（跳水）轻——是\"滑落\"的感觉。卡特彼勒跌 6.4%，用slid 就够了，还没到\"跳崖\"的程度。作者用词分寸极准。",
+     "ex1": "Caterpillar slid 6.4 per cent on Thursday. 卡特彼勒周四下挫6.4%。",
+     "ex2": "The stock slid for a third straight session. 这只股票连续第三个交易日下滑。"
+    },
+    {
+     "w": "retail giant",
+     "ipa": "/ˈriːteɪl ˈdʒaɪənt/",
+     "pos": "n. phrase",
+     "en": "a retail giant is a very large retail company",
+     "zh": "\"零售巨头\"（retail 零售+ giant 巨人），商业语境核心义为零售巨头",
+     "ctx": "retail giant Walmart——沃尔玛，全球最大超市。它跟AI 八竿子打不着，却也跌了，说明恐慌已经从科技股溢出来、蔓延到了整个市场。",
+     "ex1": "Retail giant Walmart dropped 1.1 per cent. 零售巨头沃尔玛下跌1.1%。",
+     "ex2": "The retail giant announced plans to expand overseas. 这家零售巨头宣布了海外扩张计划。"
+    }
+   ]
+  },
+  {
+   "en_html": "Data centre operators were also <mark class=\"voc\">hammered</mark>, with IREN and Applied Digital shedding more than 14 per cent and CoreWeave nearly 10 per cent. Even the “<mark class=\"voc\">hyperscalers</mark>” <mark class=\"voc\">lost ground</mark>, with Meta down 4 per cent and Amazon and Alphabet each <mark class=\"voc\">off</mark> 2.2 per cent.",
+   "zh": "数据中心运营商也遭到重创：IREN与AppliedDigital蒸发逾14%，CoreWeave跌去近10%。就连那些\"超大规模云厂商\"也未能守住阵地——Meta下跌4%，亚马逊和Alphabet各跌2.2%。",
+   "notes": [
+    {
+     "w": "hammered",
+     "ipa": "/ˈhæməd/",
+     "pos": "adj.",
+     "en": "hammered (adj.) means severely hit, damaged or beaten down",
+     "zh": "\"被锤子砸的\"（hammer 锤子+ -ed），口语语境核心义为被重创、被砸烂",
+     "ctx": "比drop、fall 狠多了——是\"被一锤子一锤子砸\"。数据中心运营商were also hammered，字面就是\"被锤子砸了\"。",
+     "ex1": "Data centre operators were also hammered in the sell-off. 数据中心运营商也在抛售中遭到重创。",
+     "ex2": "The stock was hammered after the profit warning. 发布盈利预警后，这只股票遭到重创。"
+    },
+    {
+     "w": "hyperscalers",
+     "ipa": "/ˈhaɪpəˌskeɪləz/",
+     "pos": "n. pl.",
+     "en": "hyperscalers are the very large cloud-computing companies that provide massive computing capacity at scale",
+     "zh": "\"超大规模云厂商\"（hyper- 超级+ scale 规模+ -er），行业黑话核心义为超大规模云厂商（微软、谷歌、亚马逊、Meta）",
+     "ctx": "加引号说明是行业黑话——圈内人的叫法。指微软、谷歌、亚马逊、Meta 这四家\"既有云平台、又自己疯狂建数据中心\"的巨头，是\"自建自住的业主\"，跟\"二房东\"不是一个量级。",
+     "ex1": "Even the hyperscalers lost ground on Thursday. 周四，连超大规模云厂商也失守了。",
+     "ex2": "Hyperscalers are the biggest buyers of AI chips. 超大规模云厂商是AI 芯片最大的买家。"
+    },
+    {
+     "w": "lost ground",
+     "ipa": "/lɒst ɡraʊnd/",
+     "pos": "phrase",
+     "en": "lost ground means to lose an advantage or position, especially gradually",
+     "zh": "\"丢失阵地\"（军事术语——被逼着往后撤、一寸寸丢阵地），财经语境核心义为失守、走低、丢阵地",
+     "ctx": "又一个军事隐喻！前面已见过rout（溃败）、stampede（惊逃），这里 lost ground 一出来，脑子里就是\"巨头的阵地也在被攻陷、在往后退\"——只是巨头退得慢，二房东已溃不成军。",
+     "ex1": "Even the hyperscalers lost ground in the rout. 连超大规模云厂商都在这次溃败中失守。",
+     "ex2": "The stock lost ground for a third day running. 这只股票连续第三天走低。"
+    },
+    {
+     "w": "off",
+     "ipa": "/ɒf/",
+     "pos": "adv.",
+     "en": "off (adv.) in finance means lower than a previous level or price",
+     "zh": "\"低于、从……回落\"（off 偏离、离开），财经语境核心义为下跌、较前收低",
+     "ctx": "熟词僻义——Amazon and Alphabet each off 2.2 per cent 里的off 不是\"关掉\"，是\"跌了\"。外刊看到shares are off 3% 别以为是\"股票关了3%\"，是\"跌了 3%\"。",
+     "ex1": "Amazon and Alphabet were each off 2.2 per cent. 亚马逊和Alphabet 各跌2.2%。",
+     "ex2": "The stock is off about 10 per cent from its peak. 这只股票较峰值下跌了约10%。"
+    }
+   ]
+  },
+  {
+   "en_html": "Elon Musk’s companies, which are both based in Texas where Democrats won the race for governor and their first Senate seat for more than 30 years, had another bad day. Tesla fell 10.8 per cent, <mark class=\"voc\">adding to</mark> a 3.3 per cent drop on Wednesday, while SpaceX was down 9.1 per cent, on top of a 3.8 per cent drop the previous day. Gina Hinojosa, the governor-elect of Texas, which <mark class=\"voc\">accounts for</mark> about a third of planned new US data centre capacity, has backed an extended <mark class=\"voc\">moratorium</mark> on approving new construction.",
+   "zh": "马斯克的两家公司都设在德州——而民主党在德州赢得了州长选举，并拿下了30多年来的首个参议院席位——它们又经历了一个糟糕的交易日：特斯拉下跌10.8%，继周三3.3%的跌幅后再遭重挫；SpaceX下挫9.1%，在前一日3.8%的跌幅上雪上加霜。德州候任州长吉娜·伊诺霍萨已表态支持延长\"暂停批准新建（数据中心）\"的禁令，而德州，占据了全美计划新增数据中心容量的大约三分之一。",
+   "notes": [
+    {
+     "w": "adding to / on top of",
+     "ipa": "",
+     "pos": "phrase",
+     "en": "adding to and on top of both mean \"in addition to\", used here for two consecutive falls",
+     "zh": "\"在……之上又叠加\"（add 加+ on top of 在……顶上），写作语境核心义为叠加、雪上加霜（连续下跌）",
+     "ctx": "作者先写Tesla fell 10.8%, adding to a 3.3% drop on Wednesday，紧接着SpaceX was down 9.1%, on top of a 3.8% drop——两个短语同义替换，都是\"昨天跌完今天接着跌\"。学写作就学这种\"换着花样避免重复\"。",
+     "ex1": "Tesla fell 10.8 per cent, adding to a 3.3 per cent drop on Wednesday. 特斯拉下跌10.8%，继周三3.3% 的跌幅后再挫。",
+     "ex2": "The fine came on top of a heavy loss last quarter. 这笔罚款叠加在上季度的巨额亏损之上。"
+    },
+    {
+     "w": "accounts for",
+     "ipa": "/əˈkaʊnts fɔː/",
+     "pos": "v. phrase",
+     "en": "accounts for means to make up a particular proportion or amount of something",
+     "zh": "\"占（多少比例）\"（account 算账+ for），统计语境核心义为占……比例、占据",
+     "ctx": "accounts for about a third——约占三分之一。高频考点，数据句必用。注意别和\"account for（解释原因）\"混淆，看语境。",
+     "ex1": "Texas accounts for about a third of planned US data-centre capacity. 德州约占全美计划新增数据中心容量的三分之一。",
+     "ex2": "Exports account for half of the country's economy. 出口占该国经济的一半。"
+    },
+    {
+     "w": "moratorium",
+     "ipa": "/ˌmɒrəˈtɔːriəm/",
+     "pos": "n.",
+     "en": "a moratorium is a temporary halt or suspension of an activity, usually ordered by an authority",
+     "zh": "\"（官方下达的）暂停令、暂缓期\"（词根mora 拖延、延迟），法律语境核心义为暂停令、延期偿付",
+     "ctx": "全文最后一个王牌词。词源mora=\"拖延\"——所以它本质不是\"永久禁止\"，是\"先按下暂停键\"。跟ban 不同：ban 是彻底禁了，moratorium 是\"先缓一缓，缓多久还没定\"。",
+     "ex1": "She backed an extended moratorium on approving new construction. 她支持延长暂停批准新建项目的禁令。",
+     "ex2": "The city imposed a moratorium on new building permits. 该市对新建筑许可实施了暂停令。"
+    }
+   ]
   }
+ ],
+ "proper": [
+  {
+   "name": "Nasdaq 100",
+   "def": "简要介绍：纳斯达克（NASDAQ）是美国主打科技股的证券交易所。纳斯达克100 指数，就是在这上面上市的最大的100 家非金融公司——苹果、微软、英伟达、特斯拉、亚马逊、谷歌全在里面，基本就是\"美国科技股的体温计\"。<br>本文中的意思：副标题里的\"科技股扎堆的指数\"。注意它和正文出现的NasdaqComposite（纳斯达克综合指数）不是一回事：100 是\"精选100 家\"，综合是\"全部几千家\"——一个精，一个全，口径不一样。"
+  },
+  {
+   "name": "S&P 500",
+   "def": "简要介绍：标准普尔（Standard & Poor's，S&P）发布的指数，追踪500 家美国大蓝筹公司的股价，是全球最受关注的股市基准之一。<br>本文中的意思：文中写\"由美国蓝筹股构成的标普500 跌了4.4%，是去年解放日以来最惨的一天\"——用最主流的指数来说明这次下跌的严重程度。"
+  },
+  {
+   "name": "S&P Composite 1500",
+   "def": "简要介绍：标普旗下覆盖面更广的指数，包含1500 家美国上市公司，把大、中、小公司全装进去，最能代表\"整个美国股市\"。<br>本文中的意思：文中用它来算\"本世纪以来最大单日市值损失\"——因为它是覆盖面最广的\"一篮子\"，用它算出的\"蒸发3 万亿\"才最有说服力。"
+  },
+  {
+   "name": "Nvidia",
+   "def": "简要介绍：1993 年创立，一开始做游戏显卡（GPU），名字来自拉丁语invidia（嫉妒）。2012 年转折点：有学者拿两张游戏显卡训练出AlexNet 夺冠，人们才发现游戏显卡能训练AI。此后英伟达把整个公司押注AI，成长为AI 时代\"卖铲子的人\"——不管谁赢，都得买它的芯片。<br>本文中的意思：\"与AI 浪潮关联最深的公司\"，全文主角。文中写它跌9.3%、市值缩水4000 亿美元——它是整个AI 热潮的晴雨表：AI 火它涨最猛，AI 被泼冷水它跌最惨。"
+  },
+  {
+   "name": "Anthropic",
+   "def": "简要介绍：2021 年创立的AI 大模型公司，对标OpenAI，主打产品Claude。创始人Dario Amodei 兄妹原是OpenAI 核心人物，因与OpenAI 在\"安全\"上闹翻而出走，专门做\"更安全、更听话的AI\"——公司名Anthropic 字面即\"与人类有关的\"，是全行业最常把\"AI 安全\"挂在嘴边的一家。<br>本文中的意思：那位投资经理重仓的科技公司之一。颇具反讽：连这个\"AI 安全标兵\"都一起挨砸——民主党正是用\"安全\"的名义动的手。（据公开信息，它2026 年10 月已递交招股书，股票代码ANT，估值在1.5 万亿至2 万亿美元之间。）"
+  },
+  {
+   "name": "CoreWeave",
+   "def": "简要介绍：2017 年成立，最早挖以太坊（加密货币），后来把挖矿用的显卡、机柜、电力、土地全拿来改行做AI——专门买英伟达GPU、盖数据中心、出租算力，是AI 界最出名的\"算力二房东\"。手握25 万多张英伟达顶级GPU，OpenAI 下过224 亿美元订单、Meta 下过142 亿，英伟达还直接投资了20 亿美元。"
+  },
+  {
+   "name": "IREN",
+   "def": "简要介绍：澳洲人跑到北美挖比特币的矿企，2024 年比特币行情转淡后转型——把手里成片的土地、现成的电厂和便宜电力拿来给AI 卖算力，还跟微软签了约97 亿美元大单。转型后股价从52 周低点一度涨了725%。<br>本文中的意思：文中跌超14%。它是典型的\"挖矿转AI\"投机概念股，投机属性最浓，一有风吹草动跌得最狠。"
+  },
+  {
+   "name": "Applied Digital",
+   "def": "简要介绍：从\"区块链托管\"起家，后转型做\"AI 工厂\"：专门设计、建造、运营高密度液冷的高端数据中心，租给大厂跑AI，高性能计算托管占其业务约七成。<br>本文中的意思：文中与IREN 一起跌超14%。同属\"半路转型炒AI 算力\"的二房东，命脉捏在\"能不能继续盖新楼\"上。"
+  },
+  {
+   "name": "Caterpillar",
+   "def": "简要介绍：全球最大的工程机械制造商，造挖掘机、推土机、压路机、柴油发电机，标志色是\"卡特黄\"。它与AI 的关系藏在产业链暗处：数据中心盖楼用它的挖掘机，怕断电买它的柴油发电机（官网专门有\"数据中心用发电机\"页面）。<br>本文中的意思：文中跌6.4%。作者用它说明\"抛售不止于科技股\"——它其实是\"给AI 基建卖铁锹和发电机的人\"，数据中心停建，它的订单就少。"
+  },
+  {
+   "name": "Walmart",
+   "def": "简要介绍：全球最大的零售商，卖矿泉水、卫生纸、洗衣粉、零食，跟AI 八竿子打不着。<br>本文中的意思：文中跌1.1%，是全文最反直觉的一笔——连最无辜的超市都跌了，说明恐慌已经从科技股溢出来、蔓延到整个市场，是\"不分青红皂白抛售\"最好的注脚。"
+  },
+  {
+   "name": "Meta / Amazon / Alphabet",
+   "def": "简要介绍：Meta 是Facebook 母公司（扎克伯格），Amazon 是亚马逊（贝索斯），Alphabet 是谷歌的母公司（外刊说到谷歌股价常写Alphabet）。它们加上微软，就是\"hyperscalers 四大金刚\"——既有云平台、又自己疯狂建数据中心。<br>本文中的意思：文中分别跌4%、2.2%、2.2%，比二房东轻得多。因为它们\"自己盖楼自己住\"——已经盖好的数据中心照常用，新建受限只是\"少赚点\"，不是\"要命\"。"
+  },
+  {
+   "name": "Tesla / SpaceX / Elon Musk",
+   "def": "简要介绍：马斯克是世界首富，特斯拉（电动车与AI）和SpaceX（火箭）的老板。他把两家公司总部从加州搬到德州——因为德州税低、监管松、能源便宜、土地多，是美国最\"亲商\"的州之一。<br>本文中的意思：文中两公司连着两天跌（特斯拉-3.3% 后-10.8%，SpaceX -3.8% 后-9.1%）。讽刺在于：他精心挑的\"避风港\"一夜之间成了风暴眼——德州翻蓝了。据公开报道，他这次中期选举砸了近5 亿美元支持共和党，结果德州州长和参议员全输，他自嘲\"太空激光没起作用\"。"
+  },
+  {
+   "name": "Texas",
+   "def": "简要介绍：美国面积与人口都居前的大州，出了名的\"深红州\"（铁杆共和党）。能源便宜、土地多、监管松，吸引了大量数据中心落地。<br>本文中的意思：全文收尾的落点。它占了全美计划新增数据中心容量的大约三分之一，是全美AI 基建的\"首都\"；德州电网光数据中心接电申请就排了474 吉瓦（约九成是数据中心）。所以德州州长说\"暂停审批\"，等于按下全美AI 扩张三分之一的暂停键，能让华尔街抖三抖。"
+  },
+  {
+   "name": "Democrats / Republicans",
+   "def": "简要介绍：美国两大政党。民主党的代表色是蓝色（所以\"蓝色浪潮blue wave\"指民主党大胜），共和党的代表色是红色。本次中期选举中，民主党主张加强对AI 和数据中心的监管，共和党则主张放松监管。<br>本文中的意思：全文的因果源头——民主党横扫中期选举，市场担心\"限制AI\"的承诺要兑现，于是AI 概念股崩盘。"
+  },
+  {
+   "name": "midterm election",
+   "def": "简要介绍：美国总统四年选一次，但总统干到第二年，会重新选举国会议员（众议院全部重选、参议院换三分之一）外加一批州长。这场选举卡在总统任期正中间，故称\"中期选举\"。<br>本文中的意思：全文的导火索。民主党在中期选举里大胜，市场担心他们会兑现\"限制数据中心、加强AI 监管\"的竞选承诺，引发AI 股暴跌。"
+  },
+  {
+   "name": "2000 年互联网泡沫",
+   "def": "简要介绍：20 世纪90 年代末，全民疯狂追捧互联网，股价炒上天。典型如Pets.com（网上卖猫粮狗粮，超级碗投120 万美元广告，上市融7500 万美元、9 个月破产）；思科一度成全球市值第一，泡沫破后股价跌80% 多；亚马逊当年股价一度跌93%，差点死掉。整个纳斯达克从5000 多点跌到1100 点，跌掉78%，约5 万亿美元灰飞烟灭。1996 年美联储主席格林斯潘就警告过\"非理性繁荣\"（irrational exuberance），没人听。<br>本文中的意思：文章说\"这是2000 年以来最大跌幅\"——潜台词不是报数字，是敲警钟：上一次大家这么狂热地追捧一个新技术，最后就是这么收场的。这是全文的一条暗线：市场真正怕的是互联网泡沫重演。"
+  },
+  {
+   "name": "Liberation Day",
+   "def": "简要介绍：2025 年4 月2 日，川总宣布对全世界加征\"对等关税\"，并把这一天命名为美国的\"解放日\"。结果市场当场吓崩：当天标普500 跌4.84%、纳指跌5.97%，是2020 年以来最惨的一天，两天内美股蒸发约6 万亿美元。<br>本文中的意思：文中说今天是\"解放日风波以来最惨的一天\"——一个反讽点：上一次华尔街这么惨是川总的关税政策，这一次是民主党的选举结果，左右两端都能把市场打崩。"
+  },
+  {
+   "name": "FactSet",
+   "def": "简要介绍：美国金融数据与软件公司，专门给华尔街提供数据和工具。<br>本文中的意思：作者提它，是为了说明\"本世纪最大跌幅\"不是拍脑袋编的，是用实打实数据算出来的。"
+  },
+  {
+   "name": "Adam Crisafulli / Vital Knowledge",
+   "def": "简要介绍：Adam Crisafulli 是市场研究机构Vital Knowledge（可译作\"重要情报\"）的总裁，常就美股发表评论。<br>本文中的意思：第2 段说出\"投资者正在认输、不分青红皂白清仓\"的人。扫一眼知道是\"市场分析师\"即可。"
+  },
+  {
+   "name": "Charles-Henry Monchau / SYZ Group",
+   "def": "简要介绍：Charles-Henry Monchau 是瑞士私人银行SYZ Group 的首席投资官。<br>本文中的意思：第3 段说出\"投资者担心AI 资本开支巅峰已过\"的人。扫一眼知道是\"一位瑞士的分析师\"即可。"
+  },
+  {
+   "name": "Vincent Mortier / Amundi",
+   "def": "简要介绍：Vincent Mortier 是欧洲最大资产管理公司Amundi（总部法国）的投资总监。<br>本文中的意思：第5 段说\"蜜月涨幅转瞬即逝\"\"重新定价又狠又快\"的人。扫一眼知道是\"欧洲的一位重量级大佬\"即可。"
+  },
+  {
+   "name": "Abdul El-Sayed",
+   "def": "简要介绍：密歇根州的民主党候任参议员。<br>本文中的意思：第6 段主张\"全面暂停\"前沿AI 开发，理由是\"技术发展速度已超过安全速度\"。他是\"想踩刹车\"（暂停研发）的一方。"
+  },
+  {
+   "name": "Annie Andrews",
+   "def": "简要介绍：南卡罗来纳州即将上任的民主党参议员。<br>本文中的意思：第6 段提议对新建数据中心实施两年禁令，以免社区被大公司\"碾压\"。她是\"想划红线\"（禁建数据中心）的一方。与El-Sayed 一个管\"脑子\"（研发）、一个管\"房子\"（建设）。"
+  },
+  {
+   "name": "Gina Hinojosa",
+   "def": "简要介绍：德州候任州长。<br>本文中的意思：第10 段表态支持延长\"暂停批准新建数据中心\"的禁令。德州占全美计划新增数据中心容量约三分之一，她的这一表态，等于按下全美AI 扩张三分之一的暂停键。"
+  },
+  {
+   "name": "AI data centre / data centre",
+   "def": "简要介绍：AI 不是纯软件，它背后是一座座\"烧电、喝水、占地\"的大工厂——数据中心。训练一个大模型要消耗海量电力（相当于一个小城市的年用电量），给服务器降温还要蒸发大量水。选民反对的，正是这些吞电吞水占地的庞然大物建在自己家门口（即\"邻避效应\"，Not in my backyard / NIMBY）。<br>本文中的意思：全文因果链的核心——AI 公司要发展就得建数据中心，数据中心要买芯片、用电、占地；选民反对数据中心→民主党上台要限制→AI 公司不敢再砸钱→AI 概念股暴跌。这一环懂了，全文就通了。美gu一天蒸发3.2万亿美元，英伟达跌掉4000多亿美元：一场选举怎么把华尔街吓成这样？"
+  }
+ ],
+ "sources_note": "依据英国《金融时报》（Financial Times）2026-11-07 报道。",
+ "practice": {
+  "intro": "请将以下中文句子翻译为英文（参考答案见后）。",
+  "items": [
+   "华尔街一天蒸发3.2 万亿美元——民主党的中期选举大胜，引爆了AI 板块的一场惨烈溃败。提示：shed · sweep · rout",
+   "交易员们像受惊的兽群一般从科技股中夺路而逃，因为他们担心，民主党在周二的中期选举中对特朗普的共和党取得的那场令人震惊的大胜，会给今年把华尔街一路推上历史新高的AI 投资热潮降降温。提示：stampede · on fears that · stunning · cool (v.) · drive ... to record highs",
+   "\"投资者们正在举白旗认输，不分青红皂白地清仓抛售。\"市场研究机构Vital Knowledge 的总裁亚当·克里萨富利说。提示：throw in the towel · indiscriminately liquidating",
+   "芯片股的抛售异常惨烈：与AI 浪潮关联最深的英伟达暴跌9.3%，市值一夜蒸发4000 多亿美元。提示：brutal · with + 独立主格· tumble · push ... down",
+   "\"那些平时最爱抄底、看到这么低的股价就兴奋的人，这次也不进场了……所有人，都躲进了现金里。\"纽约一家券商的首席执行官说。提示：bargain-hunting · excited by these low prices · jump in · hide out in cash",
+   "德州候任州长吉娜·伊诺霍萨已表态支持延长\"暂停批准新建（数据中心）\"的禁令，而德州，占据了全美计划新增数据中心容量的大约三分之一。提示：governor-elect · back · extended moratorium · account for about a third"
+  ],
+  "critical_en": "",
+  "critical_zh": "",
+  "answer": "1. Wall Street sheds $3.2tn as Democratic midterm sweep triggers brutal AI rout.<br><br>2. Traders stampeded out of tech shares on fears that Democrats' stunning victory over Donald Trump's Republicans in Tuesday's midterms would cool the AI spending boom that has driven Wall Street to record highs this year.<br><br>3. \"[Investors] are throwing in the towel and indiscriminately liquidating,\" said Adam Crisafulli, president of market research group Vital Knowledge.<br><br>4. Selling among chipmakers was brutal, with Nvidia, the company most closely associated with the AI surge, tumbling 9.3 per cent, pushing its market value down more than $400bn.<br><br>5. \"Guys who would normally be bargain-hunting, excited by these low prices, they're not jumping in . . . everyone's hiding out in cash,\" said the chief executive of a New York brokerage.<br><br>6. Gina Hinojosa, the governor-elect of Texas, which accounts for about a third of planned new US data centre capacity, has backed an extended moratorium on approving new construction."
+ },
+ "mindmap": {
+  "aria": "华尔街一日蒸发3.2万亿美元：民主党中期大胜引爆AI溃败思维导图",
+  "alt": "豪赌翻车：民主党大胜掀翻华尔街AI豪赌思维导图",
+  "svg": "<svg viewBox=\"0 0 960 560\" xmlns=\"http://www.w3.org/2000/svg\" role=\"img\" aria-label=\"华尔街一日蒸发3.2万亿美元：民主党中期大胜引爆AI溃败思维导图\" style=\"width:100%;height:auto;font-family:-apple-system,'PingFang SC','Hiragino Sans GB','Microsoft YaHei',sans-serif\">\n<rect x=\"24\" y=\"236\" width=\"176\" height=\"88\" rx=\"14\" fill=\"#eae3d2\" stroke=\"#9a8f76\"/>\n<text x=\"112\" y=\"272\" text-anchor=\"middle\" fill=\"#3d3a34\" font-size=\"17\" font-weight=\"700\">豪赌翻车</text>\n<text x=\"112\" y=\"298\" text-anchor=\"middle\" fill=\"#5c5648\" font-size=\"12.5\">民主党大胜，掀翻 AI 豪赌</text>\n<path d=\"M200,280 C232,280 232,88 260,88\" stroke=\"#6b8f71\" stroke-width=\"2\" fill=\"none\"/>\n<path d=\"M200,280 C232,280 232,223 260,223\" stroke=\"#7d98ad\" stroke-width=\"2\" fill=\"none\"/>\n<path d=\"M200,280 C232,280 232,358 260,358\" stroke=\"#bd7a6d\" stroke-width=\"2\" fill=\"none\"/>\n<path d=\"M200,280 C232,280 232,493 260,493\" stroke=\"#9b86b3\" stroke-width=\"2\" fill=\"none\"/>\n<g class=\"mm-branch\" data-target=\"bc1\">\n<rect x=\"260\" y=\"71\" width=\"190\" height=\"34\" rx=\"8\" fill=\"#e6efe7\" stroke=\"#6b8f71\"/>\n<text x=\"355\" y=\"93\" text-anchor=\"middle\" fill=\"#4c6b52\" font-size=\"15\" font-weight=\"700\">政治掀桌（¶2·¶4·¶6）</text>\n<text class=\"mm-arrow\" data-for=\"bc1\" x=\"442\" y=\"93\" text-anchor=\"end\" fill=\"#4c6b52\">▾</text>\n</g>\n<g class=\"mm-children\" id=\"bc1\">\n<path d=\"M450,88 C462,88 462,46 480,46\" stroke=\"#6b8f71\" stroke-width=\"1.5\" fill=\"none\"/>\n<path d=\"M450,88 C462,88 462,88 480,88\" stroke=\"#6b8f71\" stroke-width=\"1.5\" fill=\"none\"/>\n<path d=\"M450,88 C462,88 462,130 480,130\" stroke=\"#6b8f71\" stroke-width=\"1.5\" fill=\"none\"/>\n<rect x=\"480\" y=\"30\" width=\"456\" height=\"32\" rx=\"8\" fill=\"#e6efe7\"/><text x=\"492\" y=\"51\" fill=\"#3d3a34\" font-size=\"14\">民主党横扫，AI 支出热潮要凉</text>\n<rect x=\"480\" y=\"72\" width=\"456\" height=\"32\" rx=\"8\" fill=\"#e6efe7\"/><text x=\"492\" y=\"93\" fill=\"#3d3a34\" font-size=\"14\">反数据中心政客上位，基建踩刹车</text>\n<rect x=\"480\" y=\"114\" width=\"456\" height=\"32\" rx=\"8\" fill=\"#e6efe7\"/><text x=\"492\" y=\"135\" fill=\"#3d3a34\" font-size=\"14\">新科议员：全面暂停、两年禁建</text>\n</g>\n<g class=\"mm-branch\" data-target=\"bc2\">\n<rect x=\"260\" y=\"206\" width=\"190\" height=\"34\" rx=\"8\" fill=\"#e5edf4\" stroke=\"#7d98ad\"/>\n<text x=\"355\" y=\"228\" text-anchor=\"middle\" fill=\"#3d5872\" font-size=\"15\" font-weight=\"700\">叙事反转（¶3·¶5）</text>\n<text class=\"mm-arrow\" data-for=\"bc2\" x=\"442\" y=\"228\" text-anchor=\"end\" fill=\"#3d5872\">▾</text>\n</g>\n<g class=\"mm-children\" id=\"bc2\">\n<path d=\"M450,223 C462,223 462,202 480,202\" stroke=\"#7d98ad\" stroke-width=\"1.5\" fill=\"none\"/>\n<path d=\"M450,223 C462,223 462,244 480,244\" stroke=\"#7d98ad\" stroke-width=\"1.5\" fill=\"none\"/>\n<rect x=\"480\" y=\"186\" width=\"456\" height=\"32\" rx=\"8\" fill=\"#e5edf4\"/><text x=\"492\" y=\"207\" fill=\"#3d3a34\" font-size=\"14\">怕资本支出见顶，无差别清算</text>\n<rect x=\"480\" y=\"228\" width=\"456\" height=\"32\" rx=\"8\" fill=\"#e5edf4\"/><text x=\"492\" y=\"249\" fill=\"#3d3a34\" font-size=\"14\">蜜月极短，重定价又快又狠</text>\n</g>\n<g class=\"mm-branch\" data-target=\"bc3\">\n<rect x=\"260\" y=\"341\" width=\"190\" height=\"34\" rx=\"8\" fill=\"#f4e7e4\" stroke=\"#bd7a6d\"/>\n<text x=\"355\" y=\"363\" text-anchor=\"middle\" fill=\"#7c4a3e\" font-size=\"15\" font-weight=\"700\">万亿蒸发（¶1·¶3·¶8-9）</text>\n<text class=\"mm-arrow\" data-for=\"bc3\" x=\"442\" y=\"363\" text-anchor=\"end\" fill=\"#7c4a3e\">▾</text>\n</g>\n<g class=\"mm-children\" id=\"bc3\">\n<path d=\"M450,358 C462,358 462,316 480,316\" stroke=\"#bd7a6d\" stroke-width=\"1.5\" fill=\"none\"/>\n<path d=\"M450,358 C462,358 462,358 480,358\" stroke=\"#bd7a6d\" stroke-width=\"1.5\" fill=\"none\"/>\n<path d=\"M450,358 C462,358 462,400 480,400\" stroke=\"#bd7a6d\" stroke-width=\"1.5\" fill=\"none\"/>\n<rect x=\"480\" y=\"300\" width=\"456\" height=\"32\" rx=\"8\" fill=\"#f4e7e4\"/><text x=\"492\" y=\"321\" fill=\"#3d3a34\" font-size=\"14\">一日蒸发 3 万亿，千禧年来最大</text>\n<rect x=\"480\" y=\"342\" width=\"456\" height=\"32\" rx=\"8\" fill=\"#f4e7e4\"/><text x=\"492\" y=\"363\" fill=\"#3d3a34\" font-size=\"14\">纳指跌 6.4%，半导体指数跌 12%</text>\n<rect x=\"480\" y=\"384\" width=\"456\" height=\"32\" rx=\"8\" fill=\"#f4e7e4\"/><text x=\"492\" y=\"405\" fill=\"#3d3a34\" font-size=\"14\">芯片存储到实体，无差别下挫</text>\n</g>\n<g class=\"mm-branch\" data-target=\"bc4\">\n<rect x=\"260\" y=\"476\" width=\"190\" height=\"34\" rx=\"8\" fill=\"#ece4f2\" stroke=\"#9b86b3\"/>\n<text x=\"355\" y=\"498\" text-anchor=\"middle\" fill=\"#5a4670\" font-size=\"15\" font-weight=\"700\">押注落空（¶7·¶10）</text>\n<text class=\"mm-arrow\" data-for=\"bc4\" x=\"442\" y=\"498\" text-anchor=\"end\" fill=\"#5a4670\">▾</text>\n</g>\n<g class=\"mm-children\" id=\"bc4\">\n<path d=\"M450,493 C462,493 462,472 480,472\" stroke=\"#9b86b3\" stroke-width=\"1.5\" fill=\"none\"/>\n<path d=\"M450,493 C462,493 462,514 480,514\" stroke=\"#9b86b3\" stroke-width=\"1.5\" fill=\"none\"/>\n<rect x=\"480\" y=\"456\" width=\"456\" height=\"32\" rx=\"8\" fill=\"#ece4f2\"/><text x=\"492\" y=\"477\" fill=\"#3d3a34\" font-size=\"14\">大科技金主押共和党，押错了</text>\n<rect x=\"480\" y=\"498\" width=\"456\" height=\"32\" rx=\"8\" fill=\"#ece4f2\"/><text x=\"492\" y=\"519\" fill=\"#3d3a34\" font-size=\"14\">德州变天，1/3 新增产能卡住</text>\n</g>\n<text x=\"486\" y=\"170\" fill=\"#8a8578\" font-size=\"11.5\">↓ 于是</text>\n<text x=\"486\" y=\"284\" fill=\"#8a8578\" font-size=\"11.5\">↓ 引爆</text>\n<text x=\"486\" y=\"440\" fill=\"#8a8578\" font-size=\"11.5\">↓ 代价</text>\n</svg>",
+  "img": "/Users/malen/.workbuddy/backups/handmap/2026-11-07_豪赌翻车_手绘.jpg"
+ },
+ "audio": true
 }

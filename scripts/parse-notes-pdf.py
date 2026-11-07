@@ -163,8 +163,20 @@ def run(pdf, proper_mark, practice_mark, drop):
             while i < para_end and clean[i] != '@@PAGE@@' and not CJK.search(clean[i]):
                 en.append(clean[i].strip())
                 i += 1
+            # 译文可能与英文原文分属两页：允许跨页续收，但下一页必须以中文起首。
             zh = []
-            while i < para_end and clean[i] != '@@PAGE@@':
+            while i < para_end:
+                if clean[i] == '@@PAGE@@':
+                    j = i + 1
+                    while j < para_end and (clean[j] == '@@PAGE@@' or not clean[j].strip()):
+                        j += 1
+                    nxt = clean[j].strip() if j < para_end else ''
+                    probe = re.sub(r'^\d+\.\s*', '', nxt)   # 折页后译文可能重复段落编号
+                    if (probe and not nxt.startswith('【') and CJK.search(probe[:6])):
+                        clean[j] = probe
+                        i = j
+                        continue
+                    break
                 zh.append(clean[i].strip())
                 i += 1
             en_txt = ' '.join(en)

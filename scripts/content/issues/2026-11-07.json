@@ -6,12 +6,133 @@
   "category": "英国《金融时报》外刊讲解 第1221天",
   "read_minutes": 15,
   "nav_hint": "A brutal AI rout on Wall Street",
-  "headline_en": "Wall Street sheds $3.2tn as Democratic midterm sweep triggers brutal AI rout",
+  "headline_en": "Wall Street sheds $3.2tn as Democratic midterm sweep triggers brutal AI rout|Tech-heavy Nasdaq 100 tumbles 6.4% in day of chaotic trading",
   "headline_zh": "民主党中期选举大胜，华尔街一天蒸发 3.2 万亿美元，AI 板块惨烈溃败",
   "sources_note": "依据英国《金融时报》（Financial Times）2026-11-07 报道。",
-  "marks": {},
-  "paragraph_overrides": {},
+  "marks": {
+    "2": [
+      [
+        "stampede",
+        "stampeded"
+      ],
+      [
+        "stunning",
+        "stunning"
+      ],
+      [
+        "cool（动词）",
+        "cool"
+      ],
+      [
+        "boom",
+        "boom"
+      ],
+      [
+        "throw in the towel",
+        "throwing in the towel"
+      ],
+      [
+        "indiscriminately",
+        "indiscriminately"
+      ],
+      [
+        "liquidate",
+        "liquidating"
+      ]
+    ],
+    "4": [
+      [
+        "campaign against",
+        "campaigned against"
+      ],
+      [
+        "hit the brakes",
+        "hit the brakes"
+      ],
+      [
+        "erode",
+        "eroding"
+      ],
+      [
+        "bargain-hunting",
+        "bargain-hunting"
+      ],
+      [
+        "jump in",
+        "jumping in"
+      ],
+      [
+        "hide out in cash",
+        "hiding out in cash"
+      ],
+      [
+        "brokerage",
+        "brokerage"
+      ]
+    ],
+    "8": [
+      [
+        "memory stocks",
+        "Memory stocks"
+      ],
+      [
+        "semiconductor groups",
+        "Semiconductor groups"
+      ],
+      [
+        "respectively",
+        "respectively"
+      ],
+      [
+        "be not limited to",
+        "was not limited to"
+      ],
+      [
+        "slid",
+        "slid"
+      ],
+      [
+        "retail giant",
+        "retail giant"
+      ]
+    ],
+    "5": [
+      [
+        "honeymoon",
+        "honeymoon"
+      ],
+      [
+        "shortlived",
+        "short-lived"
+      ],
+      [
+        "repricing",
+        "repricing"
+      ],
+      [
+        "harsh",
+        "harsh"
+      ],
+      [
+        "resurface",
+        "resurface"
+      ],
+      [
+        "under the microscope",
+        "under the microscope"
+      ],
+      [
+        "backlash",
+        "backlash"
+      ]
+    ]
+  },
+  "paragraph_overrides": {
+    "5": "Vincent Mortier, the investment chief of Amundi, said the “honeymoon” gains for US stocks on the day after Democrats won control of Congress had been “very short-lived”. He added that the tech repricing was “harsh and quick as the fundamental question marks resurface under the microscope of the new political US picture — data centres backlash, new regulation”.",
+    "7": "The Democrats’ win in Congress was “a horrible day for America”, said a US portfolio manager with large positions in tech companies including Anthropic. The results of the midterms would have “massive ramifications” for the price of chips used in AI servers, the initial public offering pipeline and AI data centre companies, the person said. Several Big Tech bosses spent heavily to support the electoral chances of Trump’s Republicans, who have sought to lighten regulation of the AI sector."
+  },
   "mindmap": {
     "aria": "华尔街一日蒸发3.2万亿美元：民主党中期大胜引爆AI溃败思维导图"
-  }
+  },
+  "headline_html": "Wall Street <mark class=\"voc\">sheds</mark> $3.2tn as Democratic <mark class=\"voc\">midterm</mark> <mark class=\"voc\">sweep</mark> <mark class=\"voc\">triggers</mark> <mark class=\"voc\">brutal</mark> AI <mark class=\"voc\">rout</mark>|<mark class=\"voc\">Tech-heavy</mark> Nasdaq 100 <mark class=\"voc\">tumbles</mark> 6.4% in day of chaotic trading"
 }
