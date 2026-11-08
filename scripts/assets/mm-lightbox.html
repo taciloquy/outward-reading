@@ -1,6 +1,6 @@
 <style id="mm-lb-css">
 /* 手绘导图点击放大：默认自适应铺满可用屏幕（横过手机自动变大），点图切 1:1 看细节 */
-#mm-image img{cursor:zoom-in}
+.mm-view img{cursor:zoom-in}
 #mm-lb{position:fixed;inset:0;z-index:9999;background:rgba(22,20,17,.96);
   display:none;overflow:hidden}
 #mm-lb.on{display:flex;align-items:center;justify-content:center}
@@ -28,7 +28,7 @@
   #mm-lb .lb-tip{bottom:8px}
 }
 body.lb-lock{overflow:hidden}
-@media print{#mm-lb{display:none!important}#mm-image img{cursor:auto}}
+@media print{#mm-lb{display:none!important}.mm-view img{cursor:auto}}
 </style>
 <div id="mm-lb" aria-hidden="true">
   <div class="lb-box">
@@ -95,12 +95,13 @@ body.lb-lock{overflow:hidden}
     }
   }
 
-  /* 手绘图：点击放大（运行时绑定，老页面无需改 img 标签） */
+  /* 导图区所有图片（手绘版 / 课件原图版）：点击放大。运行时绑定，老页面无需改 img 标签 */
   function bind(){
-    var im = document.querySelector('#mm-image img');
-    if(!im || im.dataset.lbBound) return;
-    im.dataset.lbBound = '1';
-    im.addEventListener('click', function(){ open(im.src); });
+    document.querySelectorAll('.mm-view img').forEach(function(im){
+      if(im.dataset.lbBound) return;
+      im.dataset.lbBound = '1';
+      im.addEventListener('click', function(){ open(im.src); });
+    });
   }
   if(document.readyState === 'loading') document.addEventListener('DOMContentLoaded', bind);
   else bind();

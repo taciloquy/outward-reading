@@ -11,6 +11,6 @@
   "sources_note": "依据早安英文【共读】课件（课程日期 2026-07-28）整理，书评原载《经济学人》。文末附课件原版中文思维导图一张，原样呈现。",
   "audio": true,
   "audio_dir": "audio/2026-11-09_002",
-  "tail_image": "/tmp/gongdu1109_end.jpg",
-  "surface_overrides": {}
+  "surface_overrides": {},
+  "mindmap_extra": "scripts/assets/gongdu/2026-11-09_end.jpg"
 }

@@ -162,10 +162,14 @@ def main():
         'proper': r['proper'],
         'sources_note': meta.get('sources_note', ''),
         'practice': practice,
-        'mindmap': {'svg': '', 'img': '', 'alt': '', 'aria': ''},
+        'mindmap': {'svg': '', 'img': '', 'alt': '', 'aria': '',
+                    # 课件原版中文图并进导图区做第三视图（点击可放大），不再挂文末
+                    'extra_img': meta.get('mindmap_extra') or meta.get('tail_image', ''),
+                    'extra_caption': meta.get('mindmap_extra_caption',
+                                              '课件原版导图 · 与矢量/手绘版内容对应，点击可放大'),
+                    'extra_alt': meta.get('mindmap_extra_alt', '课件原版思维导图')},
         'audio': meta.get('audio', True),
         'audio_dir': meta.get('audio_dir', ''),
-        'tail_image': meta.get('tail_image', ''),
     }
     json.dump(c, open(a.out, 'w', encoding='utf-8'), ensure_ascii=False, indent=1)
 

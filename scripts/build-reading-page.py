@@ -130,6 +130,22 @@ def main():
         except Exception:
             pass
         img_b64 = base64.b64encode(raw).decode()
+    # 课件原版图（共读）：作为导图区第三个视图，不单独占正文尾部
+    extra_b64 = ""
+    if mm.get("extra_img"):
+        raw = open(mm["extra_img"], "rb").read()
+        try:  # 中文图要能看字：留到 1400px 宽、q88，配合 1:1 放大仍清晰
+            from PIL import Image
+            import io
+            im = Image.open(io.BytesIO(raw)).convert("RGB")
+            if im.width > 1400:
+                im = im.resize((1400, round(im.height * 1400 / im.width)), Image.LANCZOS)
+            buf = io.BytesIO()
+            im.save(buf, "JPEG", quality=88)
+            raw = buf.getvalue()
+        except Exception:
+            pass
+        extra_b64 = base64.b64encode(raw).decode()
     # 默认显示手绘版（用户 2026-11-03：手绘版更容易留印象）；没有手绘图时退回矢量版
     vector_attr = ' style="display:none"' if img_b64 else ""
     image_attr = "" if img_b64 else ' style="display:none"'
@@ -137,7 +153,7 @@ def main():
     image_active = " active" if img_b64 else ""
     # 手绘图点击放大浮层（仅在有手绘图时需要）；片段与 inject-mm-lightbox.py 共用
     lb = ""
-    if img_b64:
+    if img_b64 or extra_b64:
         lb_path = os.path.join(REPO, "scripts/assets/mm-lightbox.html")
         if os.path.exists(lb_path):
             lb = open(lb_path, encoding="utf-8").read()
@@ -159,6 +175,17 @@ def main():
         mm_views = f'''<div class="mm-view" id="mm-vector">
       {mm["svg"]}
       </div>'''
+    # 课件原版图：并入导图区做第三视图（点击可放大）
+    if extra_b64:
+        mm_btns += ('\n        <button class="mm-btn" '
+                    'onclick="showMindmap(\'extra\',this)">课件原图</button>')
+        extra_cap = mm.get("extra_caption", "课件原版导图 · 与矢量/手绘版内容对应，点击可放大")
+        extra_alt = mm.get("extra_alt", "课件原版思维导图")
+        mm_views += (f'''
+      <div class="mm-view" id="mm-extra" style="display:none">
+        <div style="font-size:13px;color:#7b7266;margin:2px 2px 8px">{extra_cap}</div>
+        <img src="data:image/jpeg;base64,{extra_b64}" alt="{extra_alt}">
+      </div>''')
     mm_head = f'''<section class="mindmap" id="mindmap">
       <div class="mm-switch">
         <button class="mm-btn" id="mm-all-btn" onclick="toggleAllMindmap()">全部收起</button>
@@ -267,7 +294,7 @@ def main():
                    f"var PARA_AUDIO_ENABLED = {'true' if audio_on else 'false'};", s)
 
     # 9.55 文末自带图（共读课件：中文图原样呈现，不翻译；打印隐藏以保 2 页）
-    if c.get("tail_image"):
+    if c.get("tail_image") and not mm.get("extra_img"):
         raw = open(c["tail_image"], "rb").read()
         try:
             from PIL import Image

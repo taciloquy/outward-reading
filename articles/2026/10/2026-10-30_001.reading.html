@@ -1319,11 +1319,17 @@ function toggleFold(id){
 
 /* 导图双版本切换：矢量版 / 手绘版 */
 function showMindmap(mode, btn){
-  document.getElementById('mm-vector').style.display = (mode === 'vector') ? '' : 'none';
-  document.getElementById('mm-image').style.display  = (mode === 'image')  ? '' : 'none';
+  MM_VIEWS.forEach(function(m){
+    var el = document.getElementById('mm-' + m);
+    if(el) el.style.display = (m === mode) ? '' : 'none';
+  });
   document.querySelectorAll('.mm-btn').forEach(function(b){ b.classList.remove('active'); });
   if(btn) btn.classList.add('active');
 }
+
+/* 导图视图清单（共读页会多出 extra=课件原图） */
+var MM_VIEWS = ['vector', 'image', 'extra'];
+
 
 /* 矢量导图：点击分支标题折叠 / 展开子节点 */
 var MM_BRANCHES = ['bc1','bc2','bc3','bc4'];
@@ -1350,7 +1356,7 @@ function syncAllBtn(){
 }
 function toggleAllMindmap(){
   /* 若当前显示手绘版，先切回矢量版再操作 */
-  if(document.getElementById('mm-image').style.display !== 'none'){
+  if(document.getElementById('mm-vector').style.display === 'none'){
     showMindmap('vector', document.getElementById('mm-vector-btn'));
   }
   var anyCollapsed = MM_BRANCHES.some(function(id){

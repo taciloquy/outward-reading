@@ -1,0 +1,563 @@
+{
+ "date": "2026-11-09",
+ "title_tag": "【共读】“做你喜欢的事情”可能是最坑年轻人的职业建议：AI时代，找工作逻辑彻底变了 —— 早安英文·共读",
+ "h1": "【共读】“做你喜欢的事情”可能是最坑年轻人的职业建议：AI时代，找工作逻辑彻底变了",
+ "source_label": "The Economist",
+ "category": "早安英文·共读",
+ "read_minutes": 15,
+ "nav_hint": "Rethinking career advice for Gen Z",
+ "headline": {
+  "en_html": "<span>Why traditional career advice is <mark class=\"voc\">failing</mark> Gen Z</span><span class=\"headline-sub\">Don't follow your dreams. Try this instead</span>",
+  "zh": "为何传统职业建议在Z世代面前失灵——别再盲从“追随梦想”那一套了，试试这个",
+  "notes": [
+   {
+    "w": "fail",
+    "ipa": "/feɪl/",
+    "pos": "v.",
+    "en": "to not succeed in doing something or to let someone down",
+    "zh": "使失望；未能奏效",
+    "ctx": "",
+    "ex1": "The old system failed to meet the needs of modern users. 旧系统未能满足现代用户的需求。",
+    "ex2": "When the backup generator failed, the hospital faced a crisis. 备用发电机失灵时，医院面临了一场危机。 Don't follow your dreams. Try this instead别再盲从\"追随梦想\"那一套了，试试这个"
+   }
+  ]
+ },
+ "paragraphs": [
+  {
+   "en_html": "<span>Leaving the <mark class=\"voc\">cosy</mark> <mark class=\"voc\">confines</mark> of college for the <mark class=\"voc\">tundra</mark> of the job market has always been <mark class=\"voc\">bracing</mark>. Not every graduate <mark class=\"voc\">hears a calling</mark> to a particular profession. Many want to do good but also need to <mark class=\"voc\">pay off</mark> debt. AI is making the transition even <mark class=\"voc\">bumpier</mark>, automating entry-level jobs and threatening entire careers. On July 13th more than 200 economists and tech <mark class=\"voc\">luminaries</mark> warned that AI could cause “large-scale job displacement”. Finding your life’s work has never been so hard.</span>",
+   "zh": "走出大学温暖的象牙塔，踏入求职市场的荒原，这历来都是一次令人清醒的淬炼。并非每个毕业生都能听见某种职业的神圣召唤。许多人既想行善济世，又身负债务需要偿还。而人工智能的崛起，更令这场过渡雪上加霜——它正在吞噬初级岗位，甚至威胁到整个行业的存续。7月13日，两百余位经济学家与科技界翘楚联名发出警告：AI可能引发\"大规模岗位替代\"。找到毕生志业，从未如此艰难。",
+   "notes": [
+    {
+     "w": "cosy",
+     "ipa": "/ˈkəʊzi/",
+     "pos": "adj.",
+     "en": "comfortable, warm, and safe",
+     "zh": "温暖舒适的；安逸的",
+     "ctx": "",
+     "ex1": "She missed the cosy atmosphere of her hometown café. 她怀念家乡小咖啡馆那温暖舒适的氛围。",
+     "ex2": "They spent a cosy evening by the fireplace. 他们在壁炉边度过了一个温馨舒适的夜晚。"
+    },
+    {
+     "w": "confine",
+     "ipa": "/ˈkɒnfaɪn/ (常用复数 confines)",
+     "pos": "n.",
+     "en": "the limits or boundaries of a place or situation",
+     "zh": "界限；范围；疆界",
+     "ctx": "",
+     "ex1": "After years within the confines of the corporate world, he started his own business. 在公司的藩篱内待了多年之后，他开创了自己的事业。",
+     "ex2": "The research pushed beyond the confines of traditional medicine. 这项研究超越了传统医学的界限。"
+    },
+    {
+     "w": "tundra",
+     "ipa": "/ˈtʌndrə/",
+     "pos": "n.",
+     "en": "a vast, flat, treeless Arctic region; metaphorically, a harsh, barren environment",
+     "zh": "冻原；荒原（比喻严酷荒芜的环境）",
+     "ctx": "",
+     "ex1": "Moving to a new city without any connections felt like stepping onto a frozen tundra. 举目无亲地搬到一个新城市，感觉就像踏上冰封的荒原。",
+     "ex2": "The competitive industry can be a merciless tundra for newcomers. 对于新人来说，这个竞争激烈的行业可能是一片冷酷的荒原。"
+    },
+    {
+     "w": "bracing",
+     "ipa": "/ˈbreɪsɪŋ/",
+     "pos": "adj.",
+     "en": "fresh and invigorating, often in a sharp or challenging way",
+     "zh": "令人清醒的；提神的（常带有冷冽、刺骨之意）",
+     "ctx": "",
+     "ex1": "A bracing morning run along the coast woke him up completely. 清晨沿着海岸的跑步冷冽提神，让他彻底清醒。",
+     "ex2": "The professor's bracing criticism pushed students to work harder. 教授令人警醒的批评促使学生们更加努力。"
+    },
+    {
+     "w": "hear a call",
+     "ipa": "",
+     "pos": "phrase",
+     "en": "to feel a strong inner urge to pursue a particular vocation",
+     "zh": "感受到召唤；听到内心的呼唤",
+     "ctx": "",
+     "ex1": "After volunteering in the village, she heard a call to become a rural doctor. 在那座村庄做志愿者后，她感受到成为一名乡村医生的召唤。",
+     "ex2": "Not everyone hears a call to teaching, but many discover it along the way. 并非所有人都一开始就感受到教学的召唤，但许多人在途中发现了它。"
+    },
+    {
+     "w": "pay off",
+     "ipa": "",
+     "pos": "phrasal verb",
+     "en": "to settle a debt completely; to yield a successful result",
+     "zh": "还清债务；取得成功",
+     "ctx": "",
+     "ex1": "He took a second job to pay off his student loans faster. 他找了第二份工作以便更快还清学生贷款。",
+     "ex2": "Her years of training finally paid off when she won the championship. 当她赢得冠军时，多年的训练终于有了回报。"
+    },
+    {
+     "w": "bumpy",
+     "ipa": "/ˈbʌmpi/",
+     "pos": "adj.",
+     "en": "uneven or rough; metaphorically, full of difficulties",
+     "zh": "颠簸的；坎坷的",
+     "ctx": "",
+     "ex1": "The start-up's first year was a bumpy ride filled with unexpected setbacks. 这家创业公司第一年走得颠簸坎坷，充满了意外挫折。",
+     "ex2": "Their relationship had a bumpy beginning but gradually smoothed out. 他们的关系起步不顺，但渐渐变得顺畅起来。"
+    },
+    {
+     "w": "luminary",
+     "ipa": "/ˈluːmɪnəri/",
+     "pos": "n.",
+     "en": "a person who inspires or influences others, especially in a particular field",
+     "zh": "杰出人物；权威；泰斗",
+     "ctx": "",
+     "ex1": "The conference gathered luminaries from the fields of science and technology. 会议汇聚了来自科学和技术领域的杰出人物。",
+     "ex2": "As a luminary in architecture, her designs have influenced a whole generation. 作为建筑界的泰斗，她的设计影响了一整代人。"
+    }
+   ]
+  },
+  {
+   "en_html": "<span>As graduates <mark class=\"voc\">trawl</mark> LinkedIn—sending AI-<mark class=\"voc\">polished</mark> applications only to be rejected by AI-powered <mark class=\"voc\">recruiters</mark>—they may wonder why they <mark class=\"voc\">bothered with</mark> college at all. Among recent American graduates, 40% work in roles that do not require a <mark class=\"voc\">bachelor</mark>’s degree, according to the New York Fed. Gen Z’s career anxiety has produced <mark class=\"voc\">a rash of</mark> advice books. Bill Gurley, Jodi Kantor and Benjamin Todd all offer different answers to the same question.</span>",
+   "zh": "当毕业生们埋头刷着领英——发送经过AI精心润色的简历，却收到由AI驱动的招聘系统发来的拒信——他们或许会困惑，自己当初究竟为什么要上大学。根据纽约联储的数据，美国近年的毕业生中，有40%在从事根本不需要本科学历的工作。Z世代的职业焦虑催生了一大批指导书籍。比尔·格利、乔迪·坎特和本杰明·托德，对同一个问题给出了各自不同的解答。",
+   "notes": [
+    {
+     "w": "trawl",
+     "ipa": "/trɔːl/",
+     "pos": "v.",
+     "en": "to search through a large amount of information, often methodically",
+     "zh": "网罗式搜索；翻找",
+     "ctx": "",
+     "ex1": "She spent hours trawling through online archives for her thesis. 她花了数小时在网上档案库中搜寻论文资料。",
+     "ex2": "Recruiters trawl social media platforms looking for potential candidates. 招聘人员在社交媒体平台上搜寻潜在的候选人。"
+    },
+    {
+     "w": "polished",
+     "ipa": "/ˈpɒlɪʃt/",
+     "pos": "adj.",
+     "en": "refined and perfected to a high standard",
+     "zh": "打磨过的；精炼完美的",
+     "ctx": "",
+     "ex1": "His polished presentation impressed the entire board of directors. 他那精炼完美的演示给整个董事会留下了深刻印象。",
+     "ex2": "The manuscript still needs some work; it's not polished enough yet. 这份手稿还需要打磨，还不够精炼。"
+    },
+    {
+     "w": "recruiter",
+     "ipa": "/rɪˈkruːtə/",
+     "pos": "n.",
+     "en": "a person or tool whose job is to find and hire new employees",
+     "zh": "招聘人员；招聘系统",
+     "ctx": "",
+     "ex1": "The recruiter reached out to her after seeing her online portfolio. 招聘人员看到她的在线作品集后主动联系了她。",
+     "ex2": "Many large companies now use AI recruiters to screen initial applications. 许多大公司现在使用AI招聘系统筛选初步申请。"
+    },
+    {
+     "w": "bother with",
+     "ipa": "",
+     "pos": "phrase",
+     "en": "to take the time or trouble to do something",
+     "zh": "费心做；麻烦地去做",
+     "ctx": "",
+     "ex1": "Many customers no longer bother with cash, preferring digital payments. 许多顾客不再费事用现金，更偏爱数字支付。",
+     "ex2": "If the instructions are too complicated, people simply won't bother with them. 如果说明书太复杂，人们根本不会费心去看。"
+    },
+    {
+     "w": "bachelor",
+     "ipa": "/ˈbætʃələ/",
+     "pos": "n.",
+     "en": "a person who holds a first-level university degree",
+     "zh": "学士；学士学位持有者",
+     "ctx": "",
+     "ex1": "A bachelor in engineering can open many doors in the tech industry. 工程学学士学位能为科技行业打开许多大门。",
+     "ex2": "She earned her bachelor's degree in three years instead of the usual four. 她用三年而非通常的四年拿到了学士学位。"
+    },
+    {
+     "w": "a rash of",
+     "ipa": "",
+     "pos": "phrase",
+     "en": "a sudden appearance of many things, usually unwelcome",
+     "zh": "一连串的（通常指不好的事）",
+     "ctx": "",
+     "ex1": "A rash of product recalls damaged the company's reputation. 一连串产品召回事件损害了公司的声誉。",
+     "ex2": "The city experienced a rash of power outages during the heatwave. 热浪期间，这座城市经历了一连串的停电。"
+    }
+   ]
+  },
+  {
+   "en_html": "<span>Mr Gurley encourages students to pursue careers they <mark class=\"voc\">genuinely</mark> love. Ms Kantor likewise argues that <mark class=\"voc\">fulfilling</mark> work can also be financially rewarding. Yet both authors also demonstrate why highly successful people often make poor career advisers. Their own careers are exceptional, shaped by survivorship bias rather than ordinary experience. Stories of successful restaurateurs or famous podcasters make inspiring <mark class=\"voc\">anecdotes</mark>, but they offer little guidance to the average graduate. Hard work and passion alone rarely guarantee success.</span>",
+   "zh": "格利先生鼓励学生去追求自己真正热爱的事业。坎特女士同样主张，让人有成就感的工作也能带来丰厚的经济回报。然而，这两位作者也在不经意间揭示了一个道理：为什么极度成功的人往往成为糟糕的职业顾问。他们自身的职业轨迹是异乎寻常的，是由幸存者偏差而非普通人的经验所塑造。成功餐厅老板或知名播客主的故事，固然是鼓舞人心的佳话，但对普通毕业生而言，却几乎没有指导意义。仅凭努力和热爱，极少能确保成功。",
+   "notes": [
+    {
+     "w": "genuinely",
+     "ipa": "/ˈdʒenjuɪnli/",
+     "pos": "adv.",
+     "en": "truly; in a sincere and authentic way",
+     "zh": "真正地；真诚地",
+     "ctx": "",
+     "ex1": "She was genuinely surprised by the farewell party her colleagues had planned. 同事们策划的欢送会让她由衷地感到惊喜。",
+     "ex2": "Few leaders are genuinely willing to admit their mistakes in public. 很少有领导者真正愿意公开承认自己的错误。"
+    },
+    {
+     "w": "fulfilling",
+     "ipa": "/fʊlˈfɪlɪŋ/",
+     "pos": "adj.",
+     "en": "providing deep satisfaction and a sense of purpose",
+     "zh": "令人满足的；有成就感的",
+     "ctx": "",
+     "ex1": "Teaching may not be the highest-paid job, but many find it profoundly fulfilling. 教书也许不是收入最高的工作，但许多人觉得它让人深感满足。",
+     "ex2": "After years in banking, he switched to a more fulfilling career in conservation. 在银行业工作多年后，他转行从事更有成就感的自然保护工作。"
+    },
+    {
+     "w": "anecdote",
+     "ipa": "/ˈænɪkdəʊt/",
+     "pos": "n.",
+     "en": "a short, interesting or amusing story about a real person or event",
+     "zh": "轶事；趣闻",
+     "ctx": "",
+     "ex1": "The CEO opened her speech with a personal anecdote about her first failed venture. 这位首席执行官以自己的首次创业失败轶事开始了演讲。",
+     "ex2": "The book is filled with anecdotes that illustrate the chaos of start-up culture. 这本书满是描绘创业文化之混乱的趣闻轶事。"
+    }
+   ]
+  },
+  {
+   "en_html": "<span>Benjamin Todd’s 80,000 Hours, the strongest and most original of the three books, takes the opposite approach. <mark class=\"voc\">Drawing on</mark> 15 years of advising people at the beginning of their working lives, it examines careers not from the perspective of those who have already succeeded, but from the choices facing ordinary people. The result is a more <mark class=\"voc\">systematic</mark> <mark class=\"voc\">framework</mark> for thinking about work.</span>",
+   "zh": "而本杰明·托德的《八万小时》，作为三本书中最为深刻、最具原创性的一部，则采取了截然相反的路径。基于15年来为初入职场者提供咨询的经验，它审视职业的视角，不是从那些已经功成名就者出发，而是立足于普通人所面临的抉择。由此，一个更为系统化的职业思考框架应运而生。",
+   "notes": [
+    {
+     "w": "draw on",
+     "ipa": "",
+     "pos": "phrasal verb",
+     "en": "to use or make use of something, especially experience or knowledge",
+     "zh": "利用；借鉴",
+     "ctx": "",
+     "ex1": "The architect drew on traditional techniques to design the modern building. 这位建筑师借鉴传统手法来设计这栋现代建筑。",
+     "ex2": "Good leaders draw on the collective wisdom of their team members. 好的领导者善于汲取团队成员的集体智慧。"
+    },
+    {
+     "w": "systematic",
+     "ipa": "/ˌsɪstəˈmætɪk/",
+     "pos": "adj.",
+     "en": "done according to a fixed plan or method",
+     "zh": "系统的；有计划的",
+     "ctx": "",
+     "ex1": "A systematic review of the data revealed patterns that had been overlooked. 对数据的系统化审视揭示出之前被忽略的模式。",
+     "ex2": "Learning a language requires systematic effort over a long period. 学习一门语言需要长期系统的努力。"
+    },
+    {
+     "w": "framework",
+     "ipa": "/ˈfreɪmwɜːk/",
+     "pos": "n.",
+     "en": "a basic structure or system of ideas that supports or guides thinking",
+     "zh": "框架；体系",
+     "ctx": "",
+     "ex1": "The new policy provides a framework for evaluating environmental impact. 这项新政策为评估环境影响提供了一个框架。",
+     "ex2": "The course offers a clear framework for thinking about ethical dilemmas. 这门课程为思考伦理困境提供了一个清晰的框架。"
+    }
+   ]
+  },
+  {
+   "en_html": "<span>First, perhaps do not follow your passion. Career books have long encouraged people to discover what they enjoy and then find matching jobs. But many people simply do not know what they want. Even when they have a genuine passion, there may be little demand for it in the <mark class=\"voc\">labour market</mark>. Large numbers of students love music, art or sport, yet <mark class=\"voc\">relatively</mark> few jobs exist in those fields. Passion alone is not a career strategy.</span>",
+   "zh": "首先，或许你不该追随自己的热情所在。长期以来，职业类书籍都在鼓励人们去发现自己的兴趣所在，然后找到匹配的工作。但许多人根本不知道自己想要什么。即便他们确实怀有某种真正的热情，劳动力市场也未必对此有需求。大量学生热爱音乐、艺术或体育，但这些领域的工作岗位相对寥寥。热情本身，并不能构成一种职业策略。",
+   "notes": [
+    {
+     "w": "labour market",
+     "ipa": "/ˈleɪbə ˌmɑːkɪt/ (BrE)",
+     "pos": "n.",
+     "en": "the supply of available workers and demand for labour",
+     "zh": "劳动力市场",
+     "ctx": "",
+     "ex1": "The local labour market has struggled to recover since the factory closed. 自工厂关闭以来，当地劳动力市场一直难以复苏。",
+     "ex2": "Digital skills are increasingly prized in today's global labour market. 在当今全球劳动力市场中，数字技能日益受到青睐。"
+    },
+    {
+     "w": "relatively",
+     "ipa": "/ˈrelətɪvli/",
+     "pos": "adv.",
+     "en": "in comparison with something else; to a fairly moderate degree",
+     "zh": "相对地；比较而言",
+     "ctx": "",
+     "ex1": "Housing remains relatively affordable in this part of the country. 在该国的这一地区，住房相对而言仍然负担得起。",
+     "ex2": "The exam was relatively easy compared to last year's paper. 与去年的试卷相比，这场考试相对简单。"
+    }
+   ]
+  },
+  {
+   "en_html": "<span>“‘Follow your passion’ gets it <mark class=\"voc\">backwards</mark>,” Mr Todd argues. Instead, become highly skilled at something valuable to other people, and passion may develop afterwards. Helping others increases life satisfaction, while <mark class=\"voc\">mastering</mark> difficult skills is rewarding in itself. If you become excellent at your work, you gain more <mark class=\"voc\">leverage</mark> to shape your career than if you pursue an existing passion but remain <mark class=\"voc\">mediocre</mark>.</span>",
+   "zh": "\"'追随你的热情'把因果搞反了，\"托德先生如此论断。相反，应该先精进某项对他人有价值的技能，热情或许会在此之后悄然生长。帮助他人能提升人生的满足感，而掌握艰深的技能本身就令人愉悦。若你在工作中出类拔萃，便能获得更多塑造职业生涯的筹码，这远胜于追逐既有的热情却始终表现平庸。",
+   "notes": [
+    {
+     "w": "backwards",
+     "ipa": "/ˈbækwədz/",
+     "pos": "adv.",
+     "en": "in the opposite direction to the usual way; reversed",
+     "zh": "颠倒地；向后地",
+     "ctx": "",
+     "ex1": "You've put the whole argument backwards; the cause comes before the effect. 你把整个论证弄颠倒了，因在果之前。",
+     "ex2": "Trying to write a conclusion before doing research is doing things backwards. 先写结论再做研究，是把事情搞反了。"
+    },
+    {
+     "w": "master",
+     "ipa": "/ˈmɑːstə/",
+     "pos": "v.",
+     "en": "to acquire complete knowledge or skill in something",
+     "zh": "精通；掌握",
+     "ctx": "",
+     "ex1": "It took her five years to master the art of negotiation. 她花了五年时间才精通谈判的艺术。",
+     "ex2": "Children can master a second language far more easily than adults. 儿童掌握第二语言远比成年人容易。"
+    },
+    {
+     "w": "leverage",
+     "ipa": "/ˈliːvərɪdʒ/",
+     "pos": "n.",
+     "en": "the power to influence a situation or achieve a desired outcome",
+     "zh": "影响力；筹码；杠杆",
+     "ctx": "",
+     "ex1": "His deep industry knowledge gave him considerable leverage during the salary negotiation. 他深厚的行业知识让他在薪资谈判中拥有了相当大的筹码。",
+     "ex2": "The union used its leverage to secure better working conditions. 工会利用其影响力争取到了更好的工作条件。"
+    },
+    {
+     "w": "mediocre",
+     "ipa": "/ˌmiːdiˈəʊkə/",
+     "pos": "adj.",
+     "en": "of average or below-average quality; not very good",
+     "zh": "平庸的；普通的",
+     "ctx": "",
+     "ex1": "A mediocre performance at the interview is unlikely to land you the job. 面试表现平庸是不太可能让你拿到这份工作的。",
+     "ex2": "The restaurant had great reviews, but the food turned out to be mediocre. 这家餐厅评价很好，但菜品却平平无奇。"
+    }
+   ]
+  },
+  {
+   "en_html": "<span>To explain how people can make a positive difference, Mr Todd draws on the philosophy of effective <mark class=\"voc\">altruism</mark>. <mark class=\"voc\">Donating</mark> effectively may sometimes produce greater social impact than working directly in a helping profession. He also identifies AI regulation and preventing <mark class=\"voc\">great-power conflict</mark> as careers with unusually large potential benefits. On money, he argues that beyond roughly $75,000 of <mark class=\"voc\">annual household income</mark>, additional earnings contribute relatively little to self-reported happiness.</span>",
+   "zh": "为了阐释人们如何能对社会产生积极的改变，托德先生援引了有效利他主义的哲学。有时候，有效的捐赠所带来的社会影响力，可能比直接从事某个助人职业更为巨大。他还将AI监管、防止大国冲突等领域界定为具有超常潜在价值的职业方向。在金钱问题上，他提出，家庭年收入一旦超过大约7.5万美元，额外收入对自我报告的幸福感的贡献便微乎其微了。",
+   "notes": [
+    {
+     "w": "altruism",
+     "ipa": "/ˈæltruɪzəm/",
+     "pos": "n.",
+     "en": "the principle or practice of selfless concern for the well-being of others",
+     "zh": "利他主义",
+     "ctx": "",
+     "ex1": "True altruism involves helping others with no expectation of personal reward. 真正的利他主义意味着帮助他人而不期待任何个人回报。",
+     "ex2": "The charity was founded on a simple belief in altruism and human kindness. 这个慈善机构建立在一种朴素的利他主义和人性善良的信念之上。"
+    },
+    {
+     "w": "donate",
+     "ipa": "/dəʊˈneɪt/",
+     "pos": "v.",
+     "en": "to give money, goods, or time to help a person or organization",
+     "zh": "捐赠；捐献",
+     "ctx": "",
+     "ex1": "Many people choose to donate a portion of their income to environmental causes. 许多人选择将一部分收入捐给环保事业。",
+     "ex2": "She decided to donate her hair to a charity that makes wigs for cancer patients. 她决定把头发捐给一个为癌症患者制作假发的慈善机构。"
+    },
+    {
+     "w": "great-power conflict",
+     "ipa": "",
+     "pos": "n. phrase",
+     "en": "a large-scale war or serious confrontation between major global nations",
+     "zh": "大国冲突",
+     "ctx": "",
+     "ex1": "Diplomatic efforts are essential to prevent the escalation of great-power conflict. 外交努力对于防止大国冲突升级至关重要。",
+     "ex2": "Historians study past great-power conflicts to understand how to avoid future ones. 历史学家研究过去的大国冲突，以了解如何避免未来的冲突。"
+    },
+    {
+     "w": "annual household income",
+     "ipa": "",
+     "pos": "n. phrase",
+     "en": "the total amount of money earned by all members of a household in one year",
+     "zh": "家庭年收入",
+     "ctx": "",
+     "ex1": "The average annual household income in the region has grown modestly over the past decade. 该地区的平均家庭年收入在过去十年中略有增长。",
+     "ex2": "Lenders typically evaluate mortgage applications based on annual household income. 贷款机构通常基于家庭年收入来评估房贷申请。"
+    }
+   ]
+  },
+  {
+   "en_html": "<span>His discussion of AI is equally <mark class=\"voc\">counter-intuitive</mark>. Automation eventually destroys jobs, but it often increases demand for <mark class=\"voc\">complementary</mark> skills before doing so. Banks actually employed more clerks after ATMs were introduced because lower operating costs made it worthwhile to open more <mark class=\"voc\">branches</mark>. Rather than searching for careers that can never be automated, workers should continually <mark class=\"voc\">adapt</mark>, moving towards the skills that become more valuable as technology changes. That may include AI model training, <mark class=\"voc\">cyber-security</mark> or service industries whose demand rises as AI lowers costs.</span>",
+   "zh": "他对AI的探讨同样反直觉。自动化最终会摧毁工作岗位，但在此之前，它往往会增加对互补技能的需求。自动取款机普及后，银行雇佣的出纳员反而增多了，因为更低的运营成本使得开设更多分行变得划算。与其寻找永远不会被自动化的工作，工作者更应不断适应，朝着那些随技术变革而水涨船高的技能方向迁移。这可能包括AI模型训练、网络安全，或是那些因AI降低成本而需求上升的服务行业。",
+   "notes": [
+    {
+     "w": "counter-intuitive",
+     "ipa": "/ˌkaʊntərɪnˈtjuːɪtɪv/",
+     "pos": "adj.",
+     "en": "contrary to what common sense or intuition would suggest",
+     "zh": "反直觉的；违反常理的",
+     "ctx": "",
+     "ex1": "It seems counter-intuitive, but working fewer hours can sometimes boost productivity. 这似乎违反常理，但减少工作时间有时反而能提升效率。",
+     "ex2": "The medicine has a counter-intuitive effect: a stimulant that actually calms the patient. 这种药物有一种反直觉的效果：一种兴奋剂反而能让患者平静下来。"
+    },
+    {
+     "w": "complementary",
+     "ipa": "/ˌkɒmplɪˈmentəri/",
+     "pos": "adj.",
+     "en": "combining in a way that enhances each other's qualities",
+     "zh": "互补的；相辅相成的",
+     "ctx": "",
+     "ex1": "The two colleagues have complementary skills: one is creative, the other analytical. 这两位同事技能互补：一个富有创意，另一个善于分析。",
+     "ex2": "Technology and human judgement are complementary, not interchangeable. 技术与人类判断力是互补的，而非可以互换。"
+    },
+    {
+     "w": "branch",
+     "ipa": "/brɑːntʃ/",
+     "pos": "n.",
+     "en": "a local office or shop that is part of a larger organization",
+     "zh": "分行；分店；分支机构",
+     "ctx": "",
+     "ex1": "The bank closed several rural branches but expanded its city presence. 这家银行关闭了若干乡镇分行，但扩大了城市业务。",
+     "ex2": "The library has branches in every neighbourhood across the city. 这座图书馆在全市每个街区都设有分馆。"
+    },
+    {
+     "w": "adapt",
+     "ipa": "/əˈdæpt/",
+     "pos": "v.",
+     "en": "to change in order to suit new conditions",
+     "zh": "适应；调整",
+     "ctx": "",
+     "ex1": "Species that fail to adapt to climate change face a risk of extinction. 无法适应气候变化的物种面临灭绝的风险。",
+     "ex2": "New employees need time to adapt to the company's culture and workflow. 新员工需要时间来适应公司的文化和工作流程。"
+    },
+    {
+     "w": "cyber-security",
+     "ipa": "/ˌsaɪbəsɪˈkjʊərəti/",
+     "pos": "n.",
+     "en": "measures taken to protect computer systems and networks from theft or damage",
+     "zh": "网络安全",
+     "ctx": "",
+     "ex1": "Investing in cyber-security is no longer optional for businesses that store customer data. 对于存储客户数据的企业来说，投资网络安全已不再是可选项。",
+     "ex2": "She took an online course to transition into the cyber-security field. 她修了一门在线课程以转入网络安全领域。"
+    }
+   ]
+  },
+  {
+   "en_html": "<span>Still, Mr Todd’s philosophy has its own limitations. A <mark class=\"voc\">relentless</mark> focus on maximising global good implies that every career choice should be judged by its overall impact on humanity. Taken to its logical conclusion, this way of thinking can become <mark class=\"voc\">paralysing</mark>. Even John Stuart Mill struggled with <mark class=\"voc\">depression</mark>, while Sam Bankman-Fried became a cautionary example of effective altruism taken <mark class=\"voc\">disastrously</mark> wrong.</span>",
+   "zh": "尽管如此，托德先生的哲学也有其自身的局限性。对最大化全球福祉的执着追求，暗含着一种倾向：即每一个职业选择都应以它对人类整体的影响来评判。若将这种思维方式推演到极致，足以令人举步维艰。就连约翰·斯图尔特·密尔也曾深陷抑郁，而萨姆·班克曼-弗里德更是成了有效利他主义走向灾难性歧途的警示教材。",
+   "notes": [
+    {
+     "w": "relentless",
+     "ipa": "/rɪˈlentləs/",
+     "pos": "adj.",
+     "en": "continuing in a severe, intense, or determined way without stopping",
+     "zh": "无休止的；持续强烈的",
+     "ctx": "",
+     "ex1": "The relentless pressure to meet sales targets eventually drove him to resign. 达成销售目标的持续高压最终迫使他辞了职。",
+     "ex2": "The team's relentless pursuit of perfection earned them the industry award. 团队对完美的不懈追求为他们赢得了行业大奖。"
+    },
+    {
+     "w": "paralysing",
+     "ipa": "/ˈpærəlaɪzɪŋ/",
+     "pos": "adj.",
+     "en": "causing a person to become unable to act, think, or function normally",
+     "zh": "令人瘫痪的；令人无法行动的",
+     "ctx": "",
+     "ex1": "A paralysing fear of public speaking held her back professionally for years. 对公开演讲的恐惧多年来一直令她在职业上裹足不前。",
+     "ex2": "Having too many career options can be paralysing rather than liberating. 拥有太多职业选择可能令人举步维艰，而非如释重负。"
+    },
+    {
+     "w": "depression",
+     "ipa": "/dɪˈpreʃən/",
+     "pos": "n.",
+     "en": "a mental health condition marked by persistent low mood and loss of interest",
+     "zh": "抑郁症；抑郁",
+     "ctx": "",
+     "ex1": "Seeking professional help for depression is a sign of strength, not weakness. 为抑郁症寻求专业帮助是一种坚强而非软弱的表现。",
+     "ex2": "The long winter months can trigger seasonal depression in some people. 漫长的冬季可能引发一些人的季节性抑郁。"
+    },
+    {
+     "w": "disastrously",
+     "ipa": "/dɪˈzɑːstrəsli/",
+     "pos": "adv.",
+     "en": "in a way that causes great damage, failure, or suffering",
+     "zh": "灾难性地；极其糟糕地",
+     "ctx": "",
+     "ex1": "The project went disastrously wrong after the key engineer left the team. 关键工程师离开团队后，项目走向了灾难性的失败。",
+     "ex2": "The actor's attempt to direct his own film ended disastrously at the box office. 这位演员自导电影的尝试在票房上遭遇惨败。"
+    }
+   ]
+  },
+  {
+   "en_html": "<span>Ultimately, careers rarely follow a straight path. Tony Blair promoted rock concerts before entering politics. Maya Angelou worked as a <mark class=\"voc\">streetcar conductor</mark> before becoming a celebrated writer. Colonel Sanders founded Kentucky Fried Chicken at the age of 62. Getting your career right often takes years of experimentation and changing direction. In an age when AI is transforming the labour market faster than ever, certainty is becoming increasingly rare. Anyone worrying about how to spend their 80,000 working hours could do worse than spending a few of them reading Mr Todd’s thoughtful book.</span>",
+   "zh": "归根结底，职业生涯很少是一条坦途。托尼·布莱尔在进入政界前，曾推广过摇滚音乐会；玛雅·安杰卢在成为享誉文坛的作家前，做过电车售票员；山德士上校在62岁时才创立了肯德基。找到适合你的职业道路，往往需要多年的摸索与转向。在一个AI正以空前速度重塑劳动力市场的时代，确定性正变得日益稀缺。任何为如何度过那八万个小时的工作生涯而忧心忡忡的人，不妨从中抽出几个钟头，读一读托德先生这本发人深省的著作。",
+   "notes": [
+    {
+     "w": "streetcar conductor",
+     "ipa": "",
+     "pos": "n. phrase",
+     "en": "a person employed on a streetcar to collect fares and assist passengers",
+     "zh": "有轨电车售票员",
+     "ctx": "",
+     "ex1": "Before becoming a novelist, her grandfather worked as a streetcar conductor in Chicago. 在成为小说家之前，她的祖父在芝加哥做有轨电车售票员。",
+     "ex2": "The streetcar conductor greeted every passenger with a friendly tip of his cap. 那位有轨电车售票员友好地向每位乘客抬帽致意。"
+    }
+   ]
+  }
+ ],
+ "proper": [
+  {
+   "name": "Gen Z（Z世代）",
+   "def": "指出生于1997年至2012年之间的一代人。他们是第一代完全在互联网和智能手机普及环境中成长起来的群体，也被称为“数字原住民”。Z世代目前正处于陆续步入职场的阶段，面临着人工智能冲击、学历贬值等独特挑战，因此他们的职业焦虑和择业观念备受关注。"
+  },
+  {
+   "name": "LinkedIn（领英）",
+   "def": "全球最大的职业社交平台，用户可在上面发布简历、建立人脉、申请职位。文章第二段提到毕业生“刷领英”求职，正是对这一平台在当代求职中核心地位的反映。此外，句中还暗含一种讽刺：求职者用AI美化简历，而招聘方同样用AI筛选简历，人的因素在两端都被削弱了。"
+  },
+  {
+   "name": "Survivorship Bias（幸存者偏差）",
+   "def": "一种逻辑谬误，指人们往往只看到经过某种筛选后的成功者，而忽略了那些在过程中被淘汰的失败者，从而对成功的原因得出错误的结论。在职业建议领域，成功人士常常将自己的成就归因于勤奋和热爱，却忽视了背后大量同样努力却未能成功的人，这就导致他们的经验对普通人缺乏普适的指导意义。"
+  },
+  {
+   "name": "Benjamin Todd（本杰明·托德）",
+   "def": "英国非营利组织80,000 Hours的联合创始人兼首席执行官。该组织隶属于牛津大学的有效利他主义运动，致力于研究如何通过职业选择最大化社会积极影响。托德在牛津大学学习物理学和哲学后，放弃了学术道路，专注于职业研究咨询工作，至今已为数千名处于职业起点的人提供过指导。文章中提到的《80,000 Hours》一书，正是他15年咨询经验的系统总结。"
+  },
+  {
+   "name": "《80,000 Hours》（《八万小时》）",
+   "def": "全名为《80,000 Hours: Find a Fulfilling Career That Does Good》（《八万小时：找到一份既有成就感又造福他人的职业》）。书名取自一个人一生大约花在工作上的总时长（按40年职业生涯、每年50周、每周40小时估算），以此提醒读者职业选择的分量。该书打破了“追随激情”这类传统职业建议，转而从“你能为他人创造什么价值”出发，提供了一个理性且反直觉的职业选择框架。文章评价它为三本书中“最深刻、最具原创性”的一部。"
+  },
+  {
+   "name": "Effective Altruism（有效利他主义）",
+   "def": "一种哲学与社会运动，强调用理性和证据来决定如何最有效地帮助他人，而非仅凭善意或直觉。其核心主张是：在资源有限的前提下，应该优先选择能产生最大正面影响的行动。比如，与其直接从事慈善工作，不如选择高收入职业并将部分收入捐给高效慈善机构。文章第七段托德的观点正是建立在这一哲学基础之上。"
+  },
+  {
+   "name": "Self-Reported Happiness（自我报告的幸福感）",
+   "def": "指在调查或研究中，由受访者本人对自己的幸福程度做出的主观陈述，而非通过收入、健康等客观指标来间接衡量。这种测量方式依赖个人对自己生活满意度的直接判断，常见于幸福经济学和心理学研究。原文中提到家庭年收入超过约7.5万美元后，额外收入对自我报告的幸福感提升作用微乎其微，正说明主观幸福感并不与财富无限正相关。"
+  },
+  {
+   "name": "John Stuart Mill（约翰·斯图尔特·密尔）",
+   "def": "19世纪英国哲学家、经济学家，功利主义伦理学的代表人物，主张以行为产生的最大幸福作为道德评判标准。密尔本人年轻时曾因过度追求理性与功利的完美而陷入严重抑郁，后在诗歌与情感生活中找到平衡。文章第九段以他为例，说明过度追求最大化善行可能导致精神困境。"
+  },
+  {
+   "name": "Sam Bankman-Fried（萨姆·班克曼-弗里德）",
+   "def": "加密货币交易所FTX的创始人，曾公开标榜自己是有效利他主义的践行者，声称将赚取巨额财富用于高效慈善。然而2022年FTX因大规模欺诈而破产，他于2023年被判多项刑事罪名成立。他的案例成为有效利他主义运动中被反复引用的反面教材，警示用崇高目标为不择手段辩护的危险。"
+  },
+  {
+   "name": "Tony Blair（托尼·布莱尔）",
+   "def": "英国前首相（1997—2007年在任），工党领袖。文章第十段提到他在进入政界之前曾“推广摇滚音乐会”，指的是他在学生时代和毕业后曾短暂从事音乐推广工作，这一冷门经历被用来佐证“职业道路极少是直线”的观点。"
+  },
+  {
+   "name": "Maya Angelou（玛雅·安杰卢）",
+   "def": "美国著名作家、诗人、民权活动家，代表作《我知道笼中鸟为何歌唱》。文章提到她曾在成为作家之前做过有轨电车售票员，强调即便最成功的文化偶像也曾从事普通工作，职业转折是人生常态。"
+  },
+  {
+   "name": "Colonel Sanders（哈兰·山德士上校）",
+   "def": "肯德基（KFC）品牌的创始人。他在62岁高龄时才开始将炸鸡配方特许经营推广，在此之前做过农民、消防员、保险销售等多种职业。文章以他为典型例子，说明成功可以在人生较晚阶段到来，职业生涯不必急于求成。"
+  }
+ ],
+ "sources_note": "依据早安英文【共读】课件（课程日期 2026-07-28）整理，书评原载《经济学人》。文末附课件原版中文思维导图一张，原样呈现。",
+ "practice": {
+  "intro": "请将以下中文句子翻译为英文（参考答案见后）。",
+  "items": [
+   "许多年轻人认为传统的职业建议正在让他们失望。",
+   "她花了整个下午在招聘网站上搜索合适的职位。",
+   "学会适应变化，比死守一份稳定的工作更明智。",
+   "这位行业杰出人物分享了一段关于他早期失败的轶事。",
+   "还清学生贷款是许多毕业生面临的首要压力。",
+   "找到一份既能带来成就感、又相对稳定的工作并不容易。"
+  ],
+  "critical_en": "",
+  "critical_zh": "",
+  "answer": "1. Many young people feel that traditional career advice is failing them.<br>2. She spent the whole afternoon trawling job sites for suitable positions.<br>3. Learning to adapt to change is wiser than holding on to a stable job.<br>4. The industry luminary shared an anecdote about his early failures.<br>5. Paying off student loans is the primary pressure facing many graduates.<br>6. Finding a job that is both fulfilling and relatively stable is not easy."
+ },
+ "mindmap": {
+  "svg": "<svg viewBox=\"0 0 960 560\" xmlns=\"http://www.w3.org/2000/svg\" role=\"img\" aria-label=\"择业新解：AI时代怎么选职业思维导图（早安英文共读）\" style=\"width:100%;height:auto;font-family:-apple-system,'PingFang SC','Hiragino Sans GB','Microsoft YaHei',sans-serif\">\n<rect x=\"24\" y=\"236\" width=\"176\" height=\"88\" rx=\"14\" fill=\"#eae3d2\" stroke=\"#9a8f76\"/>\n<text x=\"112\" y=\"272\" text-anchor=\"middle\" fill=\"#3d3a34\" font-size=\"17\" font-weight=\"700\">择业新解</text>\n<text x=\"112\" y=\"298\" text-anchor=\"middle\" fill=\"#5c5648\" font-size=\"12.5\">AI 时代怎么选职业</text>\n<path d=\"M200,280 C232,280 232,67 260,67\" stroke=\"#6b8f71\" stroke-width=\"2\" fill=\"none\"/>\n<path d=\"M200,280 C232,280 232,181 260,181\" stroke=\"#7d98ad\" stroke-width=\"2\" fill=\"none\"/>\n<path d=\"M200,280 C232,280 232,316 260,316\" stroke=\"#bd7a6d\" stroke-width=\"2\" fill=\"none\"/>\n<path d=\"M200,280 C232,280 232,472 260,472\" stroke=\"#9b86b3\" stroke-width=\"2\" fill=\"none\"/>\n<g class=\"mm-branch\" data-target=\"bc1\">\n<rect x=\"260\" y=\"50\" width=\"190\" height=\"34\" rx=\"8\" fill=\"#e6efe7\" stroke=\"#6b8f71\"/>\n<text x=\"355\" y=\"72\" text-anchor=\"middle\" fill=\"#4c6b52\" font-size=\"15\" font-weight=\"700\">困境登场（¶1-2）</text>\n<text class=\"mm-arrow\" data-for=\"bc1\" x=\"442\" y=\"72\" text-anchor=\"end\" fill=\"#4c6b52\">▾</text>\n</g>\n<g class=\"mm-children\" id=\"bc1\">\n<path d=\"M450,67 C462,67 462,46 480,46\" stroke=\"#6b8f71\" stroke-width=\"1.5\" fill=\"none\"/>\n<path d=\"M450,67 C462,67 462,88 480,88\" stroke=\"#6b8f71\" stroke-width=\"1.5\" fill=\"none\"/>\n<rect x=\"480\" y=\"30\" width=\"456\" height=\"32\" rx=\"8\" fill=\"#e6efe7\"/><text x=\"492\" y=\"51\" fill=\"#3d3a34\" font-size=\"14\">求职本就艰难，AI 雪上加霜</text>\n<rect x=\"480\" y=\"72\" width=\"456\" height=\"32\" rx=\"8\" fill=\"#e6efe7\"/><text x=\"492\" y=\"93\" fill=\"#3d3a34\" font-size=\"14\">40% 学非所用，焦虑催生建议书</text>\n</g>\n<g class=\"mm-branch\" data-target=\"bc2\">\n<rect x=\"260\" y=\"164\" width=\"190\" height=\"34\" rx=\"8\" fill=\"#e5edf4\" stroke=\"#7d98ad\"/>\n<text x=\"355\" y=\"186\" text-anchor=\"middle\" fill=\"#3d5872\" font-size=\"15\" font-weight=\"700\">破旧立新（¶3-4）</text>\n<text class=\"mm-arrow\" data-for=\"bc2\" x=\"442\" y=\"186\" text-anchor=\"end\" fill=\"#3d5872\">▾</text>\n</g>\n<g class=\"mm-children\" id=\"bc2\">\n<path d=\"M450,181 C462,181 462,160 480,160\" stroke=\"#7d98ad\" stroke-width=\"1.5\" fill=\"none\"/>\n<path d=\"M450,181 C462,181 462,202 480,202\" stroke=\"#7d98ad\" stroke-width=\"1.5\" fill=\"none\"/>\n<rect x=\"480\" y=\"144\" width=\"456\" height=\"32\" rx=\"8\" fill=\"#e5edf4\"/><text x=\"492\" y=\"165\" fill=\"#3d3a34\" font-size=\"14\">幸存者偏差：成功者当不好顾问</text>\n<rect x=\"480\" y=\"186\" width=\"456\" height=\"32\" rx=\"8\" fill=\"#e5edf4\"/><text x=\"492\" y=\"207\" fill=\"#3d3a34\" font-size=\"14\">Todd 反其道：普通人视角、系统框架</text>\n</g>\n<g class=\"mm-branch\" data-target=\"bc3\">\n<rect x=\"260\" y=\"299\" width=\"190\" height=\"34\" rx=\"8\" fill=\"#f4e7e4\" stroke=\"#bd7a6d\"/>\n<text x=\"355\" y=\"321\" text-anchor=\"middle\" fill=\"#7c4a3e\" font-size=\"15\" font-weight=\"700\">三条主张（¶5-7）</text>\n<text class=\"mm-arrow\" data-for=\"bc3\" x=\"442\" y=\"321\" text-anchor=\"end\" fill=\"#7c4a3e\">▾</text>\n</g>\n<g class=\"mm-children\" id=\"bc3\">\n<path d=\"M450,316 C462,316 462,274 480,274\" stroke=\"#bd7a6d\" stroke-width=\"1.5\" fill=\"none\"/>\n<path d=\"M450,316 C462,316 462,316 480,316\" stroke=\"#bd7a6d\" stroke-width=\"1.5\" fill=\"none\"/>\n<path d=\"M450,316 C462,316 462,358 480,358\" stroke=\"#bd7a6d\" stroke-width=\"1.5\" fill=\"none\"/>\n<rect x=\"480\" y=\"258\" width=\"456\" height=\"32\" rx=\"8\" fill=\"#f4e7e4\"/><text x=\"492\" y=\"279\" fill=\"#3d3a34\" font-size=\"14\">别追热情：热情≠职业策略</text>\n<rect x=\"480\" y=\"300\" width=\"456\" height=\"32\" rx=\"8\" fill=\"#f4e7e4\"/><text x=\"492\" y=\"321\" fill=\"#3d3a34\" font-size=\"14\">先精进技能，热情随后生长</text>\n<rect x=\"480\" y=\"342\" width=\"456\" height=\"32\" rx=\"8\" fill=\"#f4e7e4\"/><text x=\"492\" y=\"363\" fill=\"#3d3a34\" font-size=\"14\">有效利他：7.5万美元幸福阈值</text>\n</g>\n<g class=\"mm-branch\" data-target=\"bc4\">\n<rect x=\"260\" y=\"455\" width=\"190\" height=\"34\" rx=\"8\" fill=\"#ece4f2\" stroke=\"#9b86b3\"/>\n<text x=\"355\" y=\"477\" text-anchor=\"middle\" fill=\"#5a4670\" font-size=\"15\" font-weight=\"700\">边界结语（¶8-10）</text>\n<text class=\"mm-arrow\" data-for=\"bc4\" x=\"442\" y=\"477\" text-anchor=\"end\" fill=\"#5a4670\">▾</text>\n</g>\n<g class=\"mm-children\" id=\"bc4\">\n<path d=\"M450,472 C462,472 462,430 480,430\" stroke=\"#9b86b3\" stroke-width=\"1.5\" fill=\"none\"/>\n<path d=\"M450,472 C462,472 462,472 480,472\" stroke=\"#9b86b3\" stroke-width=\"1.5\" fill=\"none\"/>\n<path d=\"M450,472 C462,472 462,514 480,514\" stroke=\"#9b86b3\" stroke-width=\"1.5\" fill=\"none\"/>\n<rect x=\"480\" y=\"414\" width=\"456\" height=\"32\" rx=\"8\" fill=\"#ece4f2\"/><text x=\"492\" y=\"435\" fill=\"#3d3a34\" font-size=\"14\">AI 反直觉：互补技能，持续适应</text>\n<rect x=\"480\" y=\"456\" width=\"456\" height=\"32\" rx=\"8\" fill=\"#ece4f2\"/><text x=\"492\" y=\"477\" fill=\"#3d3a34\" font-size=\"14\">最大化善致瘫痪：密尔与 SBF</text>\n<rect x=\"480\" y=\"498\" width=\"456\" height=\"32\" rx=\"8\" fill=\"#ece4f2\"/><text x=\"492\" y=\"519\" fill=\"#3d3a34\" font-size=\"14\">道路非线性：确定性稀缺，读书以对</text>\n</g>\n<text x=\"486\" y=\"128\" fill=\"#8a8578\" font-size=\"11.5\">↓ 引出</text>\n<text x=\"486\" y=\"242\" fill=\"#8a8578\" font-size=\"11.5\">↓ 立</text>\n<text x=\"486\" y=\"398\" fill=\"#8a8578\" font-size=\"11.5\">↓ 自省</text>\n</svg>",
+  "img": "/Users/malen/.workbuddy/backups/handmap/2026-11-09_择业新解_手绘.jpg",
+  "alt": "择业新解：AI时代怎么选职业思维导图",
+  "aria": "择业新解：AI时代怎么选职业思维导图",
+  "extra_img": "/Users/malen/outward-reading-site-prod/scripts/assets/gongdu/2026-11-09_end.jpg",
+  "extra_caption": "课件原版中文导图 · 内容与矢量/手绘版一一对应，点击图片可放大看细节",
+  "extra_alt": "课件原版中文思维导图（择业新解）"
+ },
+ "audio": true,
+ "audio_dir": "audio/2026-11-09_002"
+}
