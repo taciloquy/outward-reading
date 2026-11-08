@@ -1,0 +1,37 @@
+{
+  "outline": "scripts/content/outlines/2026-11-09-gongdu.json",
+  "outline_mtime": 1794151363.655432,
+  "checked_at": "2026-11-08 23:33:51",
+  "user_confirmed": true,
+  "center": "择业新解",
+  "branches": [
+    {
+      "title": "困境登场",
+      "subs": 2,
+      "relation": null
+    },
+    {
+      "title": "破旧立新",
+      "subs": 2,
+      "relation": "引出"
+    },
+    {
+      "title": "三条主张",
+      "subs": 3,
+      "relation": "立"
+    },
+    {
+      "title": "边界结语",
+      "subs": 3,
+      "relation": "自省"
+    }
+  ],
+  "branch_count": 4,
+  "subs_counts": [
+    2,
+    2,
+    3,
+    3
+  ],
+  "warns": []
+}

@@ -134,48 +134,42 @@ def update_page(path, prev_e, next_e):
 
 def main():
     arts = load_articles()
-    by_date = {}
-    for a in arts:
-        d = a.get("publishDate")
-        if d:
-            by_date.setdefault(d, a)
-
+    # 2026-11-09 起同日可能有两篇（如【共读】_002），翻页按 (publishDate, fileKey) 全序
     focal = sys.argv[1] if len(sys.argv) > 1 else None
-    dates = sorted(by_date.keys())
 
-    def entry_for(d):
-        return by_date.get(d)
+    def neighbors(idx):
+        prev_e = arts[idx - 1] if idx - 1 >= 0 else None
+        next_e = arts[idx + 1] if idx + 1 < len(arts) else None
+        return prev_e, next_e
 
     if focal:
         targets = set()
-        if focal in by_date:
-            targets.add(focal)
-            idx = dates.index(focal)
-            if idx - 1 >= 0:
-                targets.add(dates[idx - 1])
-            if idx + 1 < len(dates):
-                targets.add(dates[idx + 1])
-        targets = sorted(targets)
-        print("更新焦点页及其相邻页:", targets)
+        for i, a in enumerate(arts):
+            if a.get("publishDate") == focal:
+                targets.add(i)
+                if i - 1 >= 0:
+                    targets.add(i - 1)
+                if i + 1 < len(arts):
+                    targets.add(i + 1)
+        target_idx = sorted(targets)
+        print("更新焦点页及其相邻页:", [arts[i]["fileKey"] for i in target_idx])
     else:
-        targets = dates
-        print(f"批量更新全部 {len(targets)} 个日期页")
+        target_idx = list(range(len(arts)))
+        print(f"批量更新全部 {len(target_idx)} 篇")
 
-    for d in targets:
-        idx = dates.index(d)
-        prev_d = dates[idx - 1] if idx - 1 >= 0 else None
-        next_d = dates[idx + 1] if idx + 1 < len(dates) else None
-        e = entry_for(d)
-        if not e or not e.get("readingPath"):
-            print(f"  [跳过] 该日期无 readingPath（尚未发布精读页）: {d}")
+    for i in target_idx:
+        e = arts[i]
+        if not e.get("readingPath"):
+            print(f"  [跳过] 无 readingPath: {e.get('fileKey')}")
             continue
-        update_page(local_path(e["readingPath"]), entry_for(prev_d), entry_for(next_d))
+        prev_e, next_e = neighbors(i)
+        update_page(local_path(e["readingPath"]), prev_e, next_e)
         tags = []
-        if prev_d:
-            tags.append("←" + prev_d)
-        if next_d:
-            tags.append("→" + next_d)
-        print(f"  ✓ {d}: " + (" ".join(tags) if tags else "（无相邻）"))
+        if prev_e:
+            tags.append("←" + prev_e.get("fileKey", ""))
+        if next_e:
+            tags.append("→" + next_e.get("fileKey", ""))
+        print(f"  ✓ {e.get('fileKey')}: " + (" ".join(tags) if tags else "（无相邻）"))
 
 
 if __name__ == "__main__":

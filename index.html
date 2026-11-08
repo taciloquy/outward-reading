@@ -52,8 +52,12 @@
     .cal-day.empty:hover{background:transparent;}
     .cal-day.has-article{background:var(--accent-soft);color:#6b5326;font-weight:600;}
     .cal-day.has-article::after{content:'';position:absolute;bottom:4px;width:5px;height:5px;border-radius:50%;background:var(--gold);}
+    /* 【共读】日：金色加粗 + 右上角星标 */
+    .cal-day.has-gongdu{color:#9a6b00;font-weight:800;}
+    .cal-day.has-gongdu::before{content:'★';position:absolute;top:0;right:3px;font-size:9px;line-height:1;color:#d4a017;}
     .cal-day.selected{background:var(--accent);color:#f7f4ec !important;}
     .cal-day.selected::after{background:#f7f4ec;}
+    .cal-day.selected::before{color:#ffd766;}
     .cal-day.today{border-color:var(--gold);}
 
     .article-list{margin:1rem auto;max-width:600px;}
@@ -138,7 +142,7 @@
         <div class="cal-dow" v-for="d in ['日','一','二','三','四','五','六']" :key="d">{{d}}</div>
         <div v-for="(cell,i) in calCells" :key="i"
           class="cal-day"
-          :class="{empty:!cell.day, selected:selectedDate===cell.date, 'has-article':cell.hasArticle, today:cell.date===todayStr}"
+          :class="{empty:!cell.day, selected:selectedDate===cell.date, 'has-article':cell.hasArticle, 'has-gongdu':cell.hasGongdu, today:cell.date===todayStr}"
           @click="cell.day && selectDate(cell.date)">
           {{ cell.day || '' }}
         </div>
@@ -226,6 +230,14 @@
 
     // ===== 文章数据库（嵌入前端，纯静态） =====
     const ARTICLES = [
+      {
+        title: "【共读】“做你喜欢的事情”可能是最坑年轻人的职业建议：AI时代，找工作逻辑彻底变了",
+        publishDate: "2026-11-09",
+        fileKey: "2026-11-09_002",
+        readingPath: "/outward-reading/articles/2026/11/2026-11-09_002.reading.html",
+        source: "The Economist",
+        plainText: "Leaving the cosy confines of college for the tundra of the job market has always been bracing. Not every graduate hears a calling to a particular profession. Many want to do good but also need to pay off debt. AI is making the transition even bumpier, automating entry-level jobs and threatening entire careers. On July 13th more than 200 economists and tech luminaries warned that AI could cause “large-scale job displacement”. Finding your life’s work has never been so hard. As graduates trawl LinkedIn—sending AI-polished applications only to be rejected by AI-powered recruiters—they may wonder why they bothered with college at all. Among recent American graduates, 40% work in roles that do not require a bachelor’s degree, according to the New York Fed. Gen Z’s career anxiety has produced a rash of advice books. Bill Gurley, Jodi Kantor and Benjamin Todd all offer different answers to the same question. Mr Gurley encourages students to pursue careers they genuinely love. Ms Kantor likewise argues that fulfilling work can also be financially rewarding. Yet both authors also demonstrate why highly successful people often make poor career advisers. Their own careers are exceptional, shaped by survivorship bias rather than ordinary experience. Stories of successful restaurateurs or famous podcasters make inspiring anecdotes, but they offer little guidance to the average graduate. Hard work and passion alone rarely guarantee success. Benjamin Todd’s 80,000 Hours, the strongest and most original of the three books, takes the opposite approach. Drawing on 15 years of advising people at the beginning of their working lives, it examines careers not from the perspective of those who have already succeeded, but from the choices facing ordinary people. The result is a more systematic framework for thinking about work. First, perhaps do not follow your passion. Career books have long encouraged people to discover what they enjoy and then find matching jobs. But many people simply do not know what they want. Even when they have a genuine passion, there may be little demand for it in the labour market. Large numbers of students love music, art or sport, yet relatively few jobs exist in those fields. Passion alone is not a career strategy. “‘Follow your passion’ gets it backwards,” Mr Todd argues. Instead, become highly skilled at something valuable to other people, and passion may develop afterwards. Helping others increases life satisfaction, while mastering difficult skills is rewarding in itself. If you become excellent at your work, you gain more leverage to shape your career than if you pursue an existing passion but remain mediocre. To explain how people can make a positive difference, Mr Todd draws on the philosophy of effective altruism. Donating effectively may sometimes produce greater social impact than working directly in a helping profession. He also identifies AI regulation and preventing great-power conflict as careers with unusually large potential benefits. On money, he argues that beyond roughly $75,000 of annual household income, additional earnings contribute relatively little to self-reported happiness. His discussion of AI is equally counter-intuitive. Automation eventually destroys jobs, but it often increases demand for complementary skills before doing so. Banks actually employed more clerks after ATMs were introduced because lower operating costs made it worthwhile to open more branches. Rather than searching for careers that can never be automated, workers should continually adapt, moving towards the skills that become more valuable as technology changes. That may include AI model training, cyber-security or service industries whose demand rises as AI lowers costs. Still, Mr Todd’s philosophy has its own limitations. A relentless focus on maximising global good implies that every career choice should be judged by its overall impact on humanity. Taken to its logical conclusion, this way of thinking can become paralysing. Even John Stuart Mill struggled with depression, while Sam Bankman-Fried became a cautionary example of effective altruism taken disastrously wrong. Ultimately, careers rarely follow a straight path. Tony Blair promoted rock concerts before entering politics. Maya Angelou worked as a streetcar conductor before becoming a celebrated writer. Colonel Sanders founded Kentucky Fried Chicken at the age of 62. Getting your career right often takes years of experimentation and changing direction. In an age when AI is transforming the labour market faster than ever, certainty is becoming increasingly rare. Anyone worrying about how to spend their 80,000 working hours could do worse than spending a few of them reading Mr Todd’s thoughtful book."
+      },
       {
         title: "一家银行塌了，把拉美这位“明星优等生”一直背着光的那一面，掀到了台前",
         publishDate: "2026-11-09",
@@ -2157,7 +2169,8 @@
           for(let i=0;i<firstDay;i++) cells.push({day:null,date:null})
           for(let d=1;d<=daysInMonth;d++){
             const dateStr = `${year}-${String(month+1).padStart(2,'0')}-${String(d).padStart(2,'0')}`
-            cells.push({day:d, date:dateStr, hasArticle: ARTICLES.some(a=>a.publishDate===dateStr)})
+            cells.push({day:d, date:dateStr, hasArticle: ARTICLES.some(a=>a.publishDate===dateStr),
+              hasGongdu: ARTICLES.some(a=>a.publishDate===dateStr && (a.title||'').includes('【共读】'))})
           }
           return cells
         }

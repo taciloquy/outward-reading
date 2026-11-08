@@ -31,7 +31,7 @@ def mm_gate_check(c, out_path):
     if not is_notes:
         return
     r = subprocess.run([sys.executable, os.path.join(REPO, "scripts/mm-gate.py"),
-                        "--date", c["date"], "--stage", "publish"],
+                        "--date", c.get("gate_key", c["date"]), "--stage", "publish"],
                        capture_output=True, text=True)
     if r.returncode == 0:
         return
@@ -257,12 +257,40 @@ def main():
     s = re.sub(r'<section class="practice" id="practice">.*?</section>', lambda _: practice, s, count=1, flags=re.S)
 
     # 9.5 音频目录与开关：预习原文阶段不配音（audio=false），页面也不出现朗读/听全文按钮
+    # audio_dir：同日第二篇（如【共读】）用独立音频目录，避免与 _001 冲突
     audio_on = bool(c.get("audio", True))
+    audio_base = c.get("audio_dir") or f"audio/{c['date']}"
     if "PARA_AUDIO_BASE" in s:
-        s = re.sub(r"var PARA_AUDIO_BASE = 'audio/[\d-]+'",
-                   f"var PARA_AUDIO_BASE = 'audio/{c['date']}'", s)
+        s = re.sub(r"var PARA_AUDIO_BASE = 'audio/[\w-]+'",
+                   f"var PARA_AUDIO_BASE = '{audio_base}'", s)
         s = re.sub(r"var PARA_AUDIO_ENABLED = (?:true|false);",
                    f"var PARA_AUDIO_ENABLED = {'true' if audio_on else 'false'};", s)
+
+    # 9.55 文末自带图（共读课件：中文图原样呈现，不翻译；打印隐藏以保 2 页）
+    if c.get("tail_image"):
+        raw = open(c["tail_image"], "rb").read()
+        try:
+            from PIL import Image
+            import io
+            im = Image.open(io.BytesIO(raw)).convert("RGB")
+            if im.width > 1100:
+                im = im.resize((1100, round(im.height * 1100 / im.width)), Image.LANCZOS)
+            buf = io.BytesIO()
+            im.save(buf, "JPEG", quality=82)
+            raw = buf.getvalue()
+        except Exception:
+            pass
+        b64 = base64.b64encode(raw).decode()
+        tail = (f'<section class="tail-figure" id="tail-figure">\n'
+                f'      <img src="data:image/jpeg;base64,{b64}" '
+                f'alt="{c.get("tail_alt", "文末配图（课件原版，原样呈现）")}" '
+                f'style="display:block;max-width:100%;height:auto;margin:26px auto 8px;'
+                f'border-radius:10px;box-shadow:0 2px 10px rgba(0,0,0,.12)">\n'
+                f'    </section>\n'
+                f'    <style>@media print{{.tail-figure{{display:none !important}}}}</style>\n\n    ')
+        spans = [(m.start(), m.end())
+                 for m in re.finditer(r'<section class="paragraph" id="p\d+">.*?</section>', s, re.S)]
+        s = s[:spans[-1][1]] + "\n\n" + tail + s[spans[-1][1]:]
 
     open(sys.argv[2], "w", encoding="utf-8").write(s)
     print(f"已生成 {sys.argv[2]}（{len(s)//1024} KB，段落 {len(paras)}，词汇 {vi}，专名 {len(c['proper'])}）")
