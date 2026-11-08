@@ -2119,12 +2119,14 @@
       },
       mounted(){
         // 列表由 selectedDate 派生（见 computed），这里只负责把选中日期定位对：
-        // 从文章页「← 返回日历」回来带 ?d=YYYY-MM-DD；无参数则取最近有文章的日期。
+        // 优先 URL 的 ?d=，其次 history.state.d（点日历时记下），最后回退最新一期。
         const syncFromUrl = () => {
           const qd = new URLSearchParams(location.search).get('d')
+          let stateDate = null
+          try { stateDate = history.state && history.state.d } catch(e) {}
+          const valid = d => d && ARTICLES.some(a => a.publishDate === d)
           const dates = ARTICLES.map(a => a.publishDate).sort().reverse()
-          const target = (qd && ARTICLES.some(a => a.publishDate === qd))
-            ? qd : (this.selectedDate || dates[0] || '')
+          const target = [qd, stateDate, this.selectedDate].find(valid) || dates[0] || ''
           if(target){
             this.selectedDate = target
             this.searchResults = null
@@ -2170,17 +2172,14 @@
           this.calYear = y
         },
         selectDate(date){
+          const list = ARTICLES.filter(a => a.publishDate === date)
+          // 日期只记进 history.state，不改写 URL：首页 URL 保持干净，
+          // 同一 URL 才容易命中 HTTP 缓存 / bfcache；bfcache 恢复时 pageshow 据此定位。
+          try{ history.replaceState(Object.assign({}, history.state, {d: date}), '') }catch(e){}
+          // 单篇直达：跳转前不做任何响应式写入，避免离开前多渲染一整块文章列表
+          if(list.length === 1 && list[0].readingPath){ location.href = list[0].readingPath; return }
           this.selectedDate = date
           this.searchResults = null
-          // 把选中日期写进地址栏：刷新、从文章页返回、bfcache 恢复都能定位回同一天
-          try{
-            const u = new URL(location.href)
-            u.searchParams.set('d', date)
-            history.replaceState(null, '', u)
-          }catch(e){}
-          // 当天只有一篇且有独立精读页：点日期直接进文章，不再多套一层列表
-          const list = ARTICLES.filter(a => a.publishDate === date)
-          if(list.length === 1 && list[0].readingPath){ location.href = list[0].readingPath; return }
         },
         extractSnippet(text, kw){
           const idx = text.toLowerCase().indexOf(kw.toLowerCase())

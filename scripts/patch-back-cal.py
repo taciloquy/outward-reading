@@ -13,12 +13,26 @@ patch-back-cal.py —— 文章页「← 返回日历」入口补丁（幂等）
 补丁内容：
   1) <div class="meta-row"> 后插入 <a class="back-cal" href="../../../index.html">← 返回日历</a>
   2) </style> 前插入 CSS；若存在旧版（仅手机显示）的 .back-cal 块，自动升级为新版
+  3) 给已有 back-cal 链接补上 smart-back：若本次是从日历点进来的（referrer 为同源首页），
+     点「← 返回日历」改用 history.back()，命中 bfcache 瞬时恢复，避免重新下载解析
+     650KB 首页；直接打开文章链接时仍走 href 兜底。
+     幂等：onclick 已存在则跳过。注意 onclick 内不能出现 > 或 <（inject-seq-nav.py 用 [^>]* 匹配标签）。
 """
 import io
 import os
+import re
 import sys
 
-LINK_HTML = '<a class="back-cal" href="../../../index.html">← 返回日历</a>\n  '
+SMART_ONCLICK = (
+    "onclick=\"try{var h=new URL(this.href,location.href),"
+    "r=document.referrer?new URL(document.referrer):null,"
+    "f=function(p){return p.replace(/index\\.html$/,'').replace(/\\/$/,'')};"
+    "if(history.length-1&&r&&r.origin===location.origin&&f(r.pathname)===f(h.pathname))"
+    "{event.preventDefault();setTimeout(function(){history.back()},0)}}catch(e){}\""
+)
+
+LINK_HTML = '<a class="back-cal" href="../../../index.html" ' + SMART_ONCLICK + '>← 返回日历</a>\n  '
+LINK_RE = re.compile(r'<a class="back-cal"([^>]*)>')
 ANCHOR_HTML = '<div class="meta-row">'
 
 CSS_NEW = """
@@ -57,14 +71,16 @@ def write(path, s):
 
 def process(path, check_only=False):
     src = read(path)
-    has_link = MARK_HTML in src
+    link_m = LINK_RE.search(src)
+    has_link = bool(link_m)
+    has_smart = bool(link_m and SMART_ONCLICK in link_m.group(1))
     has_new_css = MARK_CSS in src
 
     if check_only:
-        return ('ok' if (has_link and has_new_css) else 'missing',
-                '链接=%s 新版CSS=%s' % (has_link, has_new_css))
+        return ('ok' if (has_link and has_smart and has_new_css) else 'missing',
+                '链接=%s 智能返回=%s 新版CSS=%s' % (has_link, has_smart, has_new_css))
 
-    if has_link and has_new_css:
+    if has_link and has_smart and has_new_css:
         return ('same', '已是最新：%s' % os.path.basename(path))
 
     notes = []
@@ -74,6 +90,12 @@ def process(path, check_only=False):
             return ('skip', '找不到 <div class="meta-row">：%s' % path)
         src = src[:i] + LINK_HTML + src[i:]
         notes.append('link')
+    elif not has_smart:
+        # 幂等升级：保留原有 href（含 ?d= 日期），替换旧版 onclick 或追加新版
+        attrs = re.sub(r'\s*onclick="[^"]*"', '', link_m.group(1)).rstrip()
+        src = (src[:link_m.start()] + '<a class="back-cal"' + attrs + ' ' + SMART_ONCLICK + '>'
+               + src[link_m.end():])
+        notes.append('smart-back')
 
     if not has_new_css:
         if CSS_OLD in src:
