@@ -118,7 +118,7 @@
     <div class="search-bar">
       <div style="position:relative;">
         <input v-model="kw" placeholder="输入关键词" @keyup.enter="searchFull" style="padding-right:28px;">
-        <span v-if="kw" @click="kw='';articleList=[]" style="position:absolute;right:8px;top:50%;transform:translateY(-50%);cursor:pointer;color:#999;font-size:16px;">✕</span>
+        <span v-if="kw" @click="kw='';searchResults=null" style="position:absolute;right:8px;top:50%;transform:translateY(-50%);cursor:pointer;color:#999;font-size:16px;">✕</span>
       </div>
       <div class="search-btns">
         <button @click="searchTitle()">搜标题</button>
@@ -2099,7 +2099,7 @@
       data(){
         return {
           kw: "",
-          articleList: [],
+          searchResults: null,   // 搜索态结果；null = 按选中日期展示列表
           selectedDate: "",
           calYear: 2026,
           calMonth: 9, // 0=Jan, 9=Oct
@@ -2118,21 +2118,34 @@
         }
       },
       mounted(){
-        // 从文章页「← 返回日历」回来时会带 ?d=YYYY-MM-DD，定位回那一天；
-        // 没有参数则自动选中最近有文章的日期
-        const qd = new URLSearchParams(location.search).get('d')
-        const dates = ARTICLES.map(a => a.publishDate).sort().reverse()
-        const target = (qd && ARTICLES.some(a => a.publishDate === qd)) ? qd : (dates[0] || '')
-        if(target){
-          this.selectedDate = target
-          this.articleList = ARTICLES.filter(a => a.publishDate === target)
-          // 跳转到对应月份
-          const [y, m] = target.split('-')
-          this.calYear = parseInt(y)
-          this.calMonth = parseInt(m) - 1
+        // 列表由 selectedDate 派生（见 computed），这里只负责把选中日期定位对：
+        // 从文章页「← 返回日历」回来带 ?d=YYYY-MM-DD；无参数则取最近有文章的日期。
+        const syncFromUrl = () => {
+          const qd = new URLSearchParams(location.search).get('d')
+          const dates = ARTICLES.map(a => a.publishDate).sort().reverse()
+          const target = (qd && ARTICLES.some(a => a.publishDate === qd))
+            ? qd : (this.selectedDate || dates[0] || '')
+          if(target){
+            this.selectedDate = target
+            this.searchResults = null
+            const [y, m] = target.split('-')
+            this.calYear = parseInt(y)
+            this.calMonth = parseInt(m) - 1
+          }
         }
+        syncFromUrl()
+        // 浏览器返回键 / 手机手势返回会从 bfcache 恢复页面（不重跑 mounted），
+        // 此时按地址栏日期重新同步选中态，列表由 computed 自动跟着刷新。
+        window.addEventListener('pageshow', e => { if(e.persisted) syncFromUrl() })
       },
       computed:{
+        articleList(){
+          // 列表永远是「当前选中日期」的派生结果：点日期直达文章、浏览器返回（bfcache）、
+          // 清空搜索等场景下，selectedDate 已更新但列表还停在旧状态（甚至为空）的 bug 不再出现。
+          if(this.searchResults !== null) return this.searchResults
+          if(!this.selectedDate) return []
+          return ARTICLES.filter(a => a.publishDate === this.selectedDate)
+        },
         calCells(){
           const year = this.calYear
           const month = this.calMonth
@@ -2157,11 +2170,17 @@
           this.calYear = y
         },
         selectDate(date){
-          const list = ARTICLES.filter(a => a.publishDate === date)
           this.selectedDate = date
+          this.searchResults = null
+          // 把选中日期写进地址栏：刷新、从文章页返回、bfcache 恢复都能定位回同一天
+          try{
+            const u = new URL(location.href)
+            u.searchParams.set('d', date)
+            history.replaceState(null, '', u)
+          }catch(e){}
           // 当天只有一篇且有独立精读页：点日期直接进文章，不再多套一层列表
+          const list = ARTICLES.filter(a => a.publishDate === date)
           if(list.length === 1 && list[0].readingPath){ location.href = list[0].readingPath; return }
-          this.articleList = list
         },
         extractSnippet(text, kw){
           const idx = text.toLowerCase().indexOf(kw.toLowerCase())
@@ -2175,10 +2194,10 @@
           return snippet
         },
         searchTitle(){
-          if(!this.kw.trim()){ this.articleList = []; return }
+          if(!this.kw.trim()){ this.searchResults = null; return }
           const k = this.kw.toLowerCase()
           const kw = this.kw.trim()
-          this.articleList = ARTICLES.filter(a =>
+          this.searchResults = ARTICLES.filter(a =>
             a.title.toLowerCase().includes(k) ||
             (a.source||"").toLowerCase().includes(k)
           ).map(a => {
@@ -2187,10 +2206,10 @@
           })
         },
         searchFull(){
-          if(!this.kw.trim()){ this.articleList = []; return }
+          if(!this.kw.trim()){ this.searchResults = null; return }
           const k = this.kw.toLowerCase()
           const kw = this.kw.trim()
-          this.articleList = ARTICLES.filter(a =>
+          this.searchResults = ARTICLES.filter(a =>
             a.title.toLowerCase().includes(k) ||
             a.plainText.toLowerCase().includes(k) ||
             (a.source||"").toLowerCase().includes(k)
