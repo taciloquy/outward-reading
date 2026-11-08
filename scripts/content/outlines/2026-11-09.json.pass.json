@@ -1,0 +1,43 @@
+{
+  "outline": "scripts/content/outlines/2026-11-09.json",
+  "outline_mtime": 1794139462.4956415,
+  "checked_at": "2026-11-08 20:04:28",
+  "user_confirmed": false,
+  "center": "绿洲露底",
+  "branches": [
+    {
+      "title": "七十二小时",
+      "subs": 2,
+      "relation": null
+    },
+    {
+      "title": "神话褪色",
+      "subs": 3,
+      "relation": "溯源"
+    },
+    {
+      "title": "党内反噬",
+      "subs": 2,
+      "relation": "内因"
+    },
+    {
+      "title": "监管失守",
+      "subs": 3,
+      "relation": "病灶"
+    },
+    {
+      "title": "处置分歧",
+      "subs": 2,
+      "relation": "余波"
+    }
+  ],
+  "branch_count": 5,
+  "subs_counts": [
+    2,
+    3,
+    2,
+    3,
+    2
+  ],
+  "warns": []
+}
