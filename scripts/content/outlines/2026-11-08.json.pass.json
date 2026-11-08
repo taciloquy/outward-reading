@@ -1,0 +1,43 @@
+{
+  "outline": "scripts/content/outlines/2026-11-08.json",
+  "outline_mtime": 1794135954.4019303,
+  "checked_at": "2026-11-08 19:05:57",
+  "user_confirmed": false,
+  "center": "断援之变",
+  "branches": [
+    {
+      "title": "选后甩锅",
+      "subs": 2,
+      "relation": null
+    },
+    {
+      "title": "民意转向",
+      "subs": 3,
+      "relation": "溯源"
+    },
+    {
+      "title": "断援落地",
+      "subs": 4,
+      "relation": "落实"
+    },
+    {
+      "title": "账本与代价",
+      "subs": 3,
+      "relation": "代价"
+    },
+    {
+      "title": "底子仍在",
+      "subs": 2,
+      "relation": "但"
+    }
+  ],
+  "branch_count": 5,
+  "subs_counts": [
+    2,
+    3,
+    4,
+    3,
+    2
+  ],
+  "warns": []
+}

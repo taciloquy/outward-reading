@@ -72,7 +72,9 @@ def boilerplate(pages):
     for t in pages:
         for line in t.split('\n'):
             s = re.sub(r'\s+', '', line)
-            if s:
+            # 单词级小写串（something/value 这类跨卡片折行续尾）不可能是页眉页脚，
+            # 却会因为出现 ≥3 次被误判——一律豁免。
+            if s and not re.fullmatch(r'[a-z]+', s):
                 cnt[s] += 1
     return {s for s, c in cnt.items() if c >= 3 and len(s) <= 40}
 
@@ -125,12 +127,206 @@ def parse_card_text(c):
             'ex1': exs[0] if exs else '', 'ex2': exs[1] if len(exs) > 1 else ''}
 
 
+# ---------- 新版式（62 页起：无【】标记，专名条目插在段落之间） ----------
+# 词卡头形如 `blame sb/sth for sth phr. /bleɪm/`、`a blow to sth n. phr. /ə bləʊ tuː/`
+CARD_HEAD = re.compile(
+    r'^(?P<w>.+?)\s+(?P<pos>(?:n\.\s*phr\.|phr\.v\.|phr|n|v|adj|adv|prep|phrase)\.?)\s*'
+    r'(?P<ipa>/[^/]+/)?$')
+PROPER_LINE = re.compile(r'^(\d{1,2})\.\s+([A-Z][^/]{1,60}?)\s*/\s*(.*[\u4e00-\u9fff].*)$')
+PARA_HEAD = re.compile(r'^(\d{1,2})\.(?=\S)\s*(.+)$')
+CARD_FIELDS = [('英文释义', 'en'), ('中文释义', 'zh'), ('文中意', 'ctx'),
+               ('例句一', 'ex1'), ('例句二', 'ex2')]
+
+
+def _card_body(lines):
+    """`· 英文释义：…` 之类的行 → 卡片字段；不带标记的续行并回上一字段。"""
+    out = {'en': '', 'zh': '', 'ctx': '', 'ex1': '', 'ex2': ''}
+    field = None
+    for raw in lines:
+        s = raw.strip()
+        if not s:
+            continue
+        body = s.lstrip('·•').strip()
+        hit = next((k for k, _ in CARD_FIELDS if body.startswith(k + '：')), None)
+        if hit:
+            field = dict(CARD_FIELDS)[hit]
+            out[field] = body[len(hit) + 1:].strip()
+            continue
+        if field:
+            out[field] += ' ' + body
+    return out
+
+
+def run_new_edition(clean, practice_mark):
+    """新版式解析：卡片靠「词 + 词性 + 音标」识别，专名靠「编号. 英文名 / 中文名」。"""
+    para_end = next((j for j, l in enumerate(clean)
+                     if l.strip().startswith(practice_mark)), len(clean))
+
+    def stops(i):
+        """该行是否意味着「上一块内容到此为止」。"""
+        s = clean[i].strip()
+        return (s == '@@PAGE@@' or not s or PROPER_LINE.match(s)
+                or (CARD_HEAD.match(s) and '/' in s and s.count('/') >= 2)
+                or (PARA_HEAD.match(s) and not CJK.search(s[:24])
+                    and not s.startswith('（')))
+
+    paras, pool, proper = [], {'headline': []}, []
+    cur = 'headline'
+    i = 0
+    while i < para_end:
+        l = clean[i].strip()
+        if l == '@@PAGE@@' or not l:
+            i += 1
+            continue
+        mp = PROPER_LINE.match(l)
+        if mp:
+            proper.append({'name': f'{mp.group(2).strip()} / {mp.group(3).strip()}', 'def': ''})
+            i += 1
+            # 说明文字 = 后续普通行，直到下一个专名/段落/卡片
+            buf = []
+            while i < para_end:
+                s = clean[i].strip()
+                if s == '@@PAGE@@':
+                    i += 1
+                    continue
+                if (not s or PROPER_LINE.match(s) or PARA_HEAD.match(s)
+                        or (CARD_HEAD.match(s) and s.count('/') >= 2)):
+                    break
+                buf.append(s)
+                i += 1
+            # 说明尾部常混入检索引用（如「Al Jazeera +1」「GOV.UK」），非中文即弃
+            while buf and not CJK.search(buf[-1]):
+                buf.pop()
+            proper[-1]['def'] = ' '.join(buf)
+            cur = 'proper'
+            continue
+        mc = CARD_HEAD.match(l)
+        if mc and mc.group('ipa'):
+            buf = []
+            i += 1
+            while i < para_end:
+                if stops(i):
+                    # 折页后正文续行也算停止，交给外层处理
+                    if clean[i].strip() == '@@PAGE@@':
+                        j = i + 1
+                        while j < para_end and (clean[j].strip() == '@@PAGE@@'
+                                                or not clean[j].strip()):
+                            j += 1
+                        if j < para_end and not stops(j):
+                            i = j
+                            continue
+                    break
+                buf.append(clean[i])
+                i += 1
+            card = {'w': mc.group('w').strip(), 'ipa': mc.group('ipa'),
+                    'pos': mc.group('pos')}
+            card.update(_card_body(buf))
+            pool.setdefault(cur, []).append(card)
+            continue
+        mpar = PARA_HEAD.match(l)
+        if mpar and not CJK.search(mpar.group(2)[:24]):
+            n = int(mpar.group(1))
+            cur = 'p%d' % n
+            pool.setdefault(cur, [])
+            en = [mpar.group(2)]
+            i += 1
+            while i < para_end:
+                s = clean[i].strip()
+                if s == '@@PAGE@@':
+                    j = i + 1
+                    while j < para_end and (clean[j].strip() == '@@PAGE@@'
+                                            or not clean[j].strip()):
+                        j += 1
+                    nxt = clean[j].strip() if j < para_end else ''
+                    if nxt and not CJK.search(nxt[:12]) and not CARD_HEAD.match(nxt):
+                        i = j
+                        continue
+                    break
+                if not s:
+                    i += 1
+                    continue
+                if CJK.search(s) or CARD_HEAD.match(s) and s.count('/') >= 2:
+                    break
+                en.append(s)
+                i += 1
+            en_txt = ' '.join(en)
+            en_txt = re.sub(r'([A-Za-z])-\s+([a-z])', r'\1-\2', en_txt)
+            en_txt = re.sub(r'\s+', ' ', en_txt).strip()
+            zh = []
+            while i < para_end:
+                s = clean[i].strip()
+                if s == '@@PAGE@@':
+                    j = i + 1
+                    while j < para_end and (clean[j].strip() == '@@PAGE@@'
+                                            or not clean[j].strip()):
+                        j += 1
+                    nxt = re.sub(r'^\d+\.\s*', '', clean[j].strip()) if j < para_end else ''
+                    if nxt and CJK.search(nxt[:6]):
+                        clean[j] = nxt
+                        i = j
+                        continue
+                    break
+                if not s:
+                    i += 1
+                    continue
+                if CARD_HEAD.match(s) and s.count('/') >= 2 or PROPER_LINE.match(s):
+                    break
+                zh.append(s)
+                i += 1
+            paras.append({'n': n, 'en': fix_radicals(en_txt),
+                          'zh': re.sub(r'\s+', '', ''.join(zh))})
+            continue
+        i += 1
+
+    # ---------- 练习 / 思考题 / 答案 ----------
+    practice, answers = [], []
+    mode, seg = 'q', {'a': [], 'a2': []}
+    for l in clean[para_end:]:
+        t = fix_radicals(l.strip())
+        if not t or t == '@@PAGE@@' or re.fullmatch(r'[\d：:，。]+', t):
+            continue
+        if t.startswith(practice_mark[:6]):
+            mode = 'q'
+            continue
+        if t.startswith('思考题（') or t.startswith('思考题('):
+            mode = 'critical'
+            continue
+        if t.startswith('思考题参考答案'):
+            mode = 'a2'
+            continue
+        if t.startswith('参考答案'):
+            mode = 'a'
+            continue
+        if mode == 'q':
+            m = re.match(r'^\d+\.\s*(.+)$', t)
+            if m:
+                practice.append(m.group(1).strip())
+            elif practice:
+                practice[-1] += t if CJK.match(t[0]) else ' ' + t
+        elif mode in ('a', 'a2'):
+            seg[mode].append(t)
+    for key in ('a', 'a2'):
+        lines = seg[key]
+        if not lines:
+            continue
+        cut = next((k for k, s in enumerate(lines) if CJK.search(s[:6])), len(lines))
+        en = ' '.join(lines[:cut]).strip()
+        zh = ''.join(lines[cut:]).strip()
+        answers.append(f'{en}<br>参考译文：{zh}' if zh else en)
+    return {'paragraphs': paras,
+            'headline_cards': pool.get('headline', []),
+            'para_cards': {p['n']: pool.get('p%d' % p['n'], []) for p in paras},
+            'proper': proper,
+            'practice': practice,
+            'answers': answers}
+
+
 def run(pdf, proper_mark, practice_mark, drop):
     pages = extract(pdf, dump=None)
     clean = flatten(pages, proper_mark, practice_mark, drop)
 
     if '@@PROPER@@' not in clean:
-        sys.exit('✗ 找不到专名区标记（默认「【背景信息」），用 --proper-mark 指定')
+        return run_new_edition(clean, practice_mark)
     para_end = next((j for j, l in enumerate(clean)
                      if l.strip().startswith(practice_mark)), len(clean))
     proper_idx = clean.index('@@PROPER@@')

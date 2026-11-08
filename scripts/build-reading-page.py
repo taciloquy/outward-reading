@@ -114,18 +114,30 @@ def main():
         lb_path = os.path.join(REPO, "scripts/assets/mm-lightbox.html")
         if os.path.exists(lb_path):
             lb = open(lb_path, encoding="utf-8").read()
-    mm_head = f'''<section class="mindmap" id="mindmap">
-      <div class="mm-switch">
-        <button class="mm-btn" id="mm-all-btn" onclick="toggleAllMindmap()">全部收起</button>
-        <button class="mm-btn{vector_active}" id="mm-vector-btn" onclick="showMindmap('vector',this)">矢量版</button>
-        <button class="mm-btn{image_active}" onclick="showMindmap('image',this)">手绘版</button>
-      </div>
-      <div class="mm-view" id="mm-vector"{vector_attr}>
+    # 无手绘图时不留空标签：手绘版按钮与容器一并省略，避免点开是一片空白
+    if img_b64:
+        mm_btns = (f'<button class="mm-btn{vector_active}" id="mm-vector-btn" '
+                   f'onclick="showMindmap(\'vector\',this)">矢量版</button>\n'
+                   f'        <button class="mm-btn{image_active}" '
+                   f'onclick="showMindmap(\'image\',this)">手绘版</button>')
+        mm_views = (f'''<div class="mm-view" id="mm-vector"{vector_attr}>
       {mm["svg"]}
       </div>
       <div class="mm-view" id="mm-image"{image_attr}>
         <img src="data:image/jpeg;base64,{img_b64}" alt="{mm.get("alt","手绘版思维导图")}">
+      </div>''')
+    else:
+        mm_btns = ('<button class="mm-btn active" id="mm-vector-btn" '
+                   'onclick="showMindmap(\'vector\',this)">矢量版</button>')
+        mm_views = f'''<div class="mm-view" id="mm-vector">
+      {mm["svg"]}
+      </div>'''
+    mm_head = f'''<section class="mindmap" id="mindmap">
+      <div class="mm-switch">
+        <button class="mm-btn" id="mm-all-btn" onclick="toggleAllMindmap()">全部收起</button>
+        {mm_btns}
       </div>
+      {mm_views}
     </section>
 {lb}
 
