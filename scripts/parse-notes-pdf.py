@@ -194,10 +194,12 @@ def run_new_edition(clean, practice_mark):
                     break
                 buf.append(s)
                 i += 1
-            # 说明尾部常混入检索引用（如「Al Jazeera +1」「GOV.UK」），非中文即弃
-            while buf and not CJK.search(buf[-1]):
-                buf.pop()
-            proper[-1]['def'] = ' '.join(buf)
+            # 说明尾部常混入检索引用（如「Al Jazeera +1」「GOV.UK」，与中文同行），
+            # 统一在句号后把纯英文尾巴剥掉；说明正文全中文，句号后不应再接英文。
+            dfn = ' '.join(buf)
+            dfn = re.sub(r'(?<=[。！？；])\s*[A-Za-z][A-Za-z .+&\'-]*?(?:\+\s*\d+)?\s*$',
+                         '', dfn).strip()
+            proper[-1]['def'] = dfn
             cur = 'proper'
             continue
         mc = CARD_HEAD.match(l)
