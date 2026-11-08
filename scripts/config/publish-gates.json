@@ -1,0 +1,5 @@
+{
+  "_comment": "发布闸门配置。mm_confirm_before_publish=true：完整笔记（有音频/练习）的正式页面在写出与推送前，导图骨架必须已通过 mm-preflight 且经用户在对话里确认（user_confirmed=true）。改为 false 则退回预习原文的做法——页面可先上线矢量版，只有手绘版等确认。",
+  "mm_confirm_before_publish": true,
+  "apply_from": "2026-11-09"
+}

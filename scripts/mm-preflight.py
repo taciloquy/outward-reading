@@ -141,12 +141,29 @@ def main(argv):
 
     # PASS → 写通行证（gen-mindmap 认这张票；改了骨架没重验就作废）
     if repo_root:
+        stamp_path = abs_outline + ".pass.json"
+        mtime = os.path.getmtime(abs_outline)
+        # 确认过的骨架不该被「再跑一次 preflight 看表」这种动作悄悄撤销：
+        # 只有骨架本身没动过，才沿用手上的 user_confirmed。
+        carried = False
+        if not confirm and os.path.exists(stamp_path):
+            try:
+                old = json.load(open(stamp_path, encoding="utf-8"))
+                same_shape = (
+                    old.get("branch_count") == n
+                    and [b.get("subs") for b in (old.get("branches") or [])] == subs_counts
+                    and (old.get("center") or "") == (center.get("main") or "")
+                    and abs(float(old.get("outline_mtime", 0)) - mtime) <= 0.001
+                )
+                carried = bool(old.get("user_confirmed")) and same_shape
+            except Exception:
+                carried = False
         stamp = {
             "outline": os.path.relpath(abs_outline, repo_root),
-            "outline_mtime": os.path.getmtime(abs_outline),
+            "outline_mtime": mtime,
             "checked_at": time.strftime("%Y-%m-%d %H:%M:%S"),
             # 只有用户在对话里点头后才允许带 --confirm 重跑一次，把确认落到文件里
-            "user_confirmed": bool(confirm),
+            "user_confirmed": bool(confirm) or carried,
             "center": center.get("main"),
             "branches": [{"title": b.get("title"), "subs": len(b.get("subs") or []),
                           "relation": b.get("relation")} for b in branches],
@@ -154,13 +171,13 @@ def main(argv):
             "subs_counts": subs_counts,
             "warns": WARNS,
         }
-        stamp_path = abs_outline + ".pass.json"
         with open(stamp_path, "w", encoding="utf-8") as f:
             json.dump(stamp, f, ensure_ascii=False, indent=2)
         if not quiet:
             print(f"通行证已写：{os.path.relpath(stamp_path, repo_root)}"
-                  f"　user_confirmed={bool(confirm)}")
-            if not confirm:
+                  f"　user_confirmed={stamp['user_confirmed']}"
+                  + ("（沿用上次确认）" if carried and not confirm else ""))
+            if not stamp["user_confirmed"]:
                 print("→ 只允许出矢量；把上面骨架表报给用户，用户点头后再跑一次 --confirm，"
                       "否则禁止调用 ImageGen")
     return 0

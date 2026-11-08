@@ -47,6 +47,31 @@ def find_pdfs(date_str, source_root=None):
     return out, month_dir
 
 
+def mm_state(date_str):
+    """导图骨架状态（与 scripts/mm-gate.py 同源，只读）。"""
+    op = os.path.join(REPO, "scripts", "content", "outlines", f"{date_str}.json")
+    if not os.path.exists(op):
+        return {"state": "missing", "label": "缺（还没写大纲）", "branches": 0, "subs": []}
+    try:
+        o = json.load(open(op, encoding="utf-8"))
+    except Exception:
+        return {"state": "bad", "label": "大纲读不了", "branches": 0, "subs": []}
+    n = len(o.get("branches") or [])
+    subs = [len(b.get("subs") or []) for b in o.get("branches") or []]
+    sp = op + ".pass.json"
+    if not os.path.exists(sp):
+        return {"state": "nocheck", "label": "未跑 preflight", "branches": n, "subs": subs}
+    try:
+        stamp = json.load(open(sp, encoding="utf-8"))
+    except Exception:
+        return {"state": "bad", "label": "通行证读不了", "branches": n, "subs": subs}
+    if os.path.getmtime(op) > float(stamp.get("outline_mtime", 0)) + 0.001:
+        return {"state": "stale", "label": "骨架改过未复检", "branches": n, "subs": subs}
+    if not stamp.get("user_confirmed"):
+        return {"state": "pending", "label": "待用户确认", "branches": n, "subs": subs}
+    return {"state": "confirmed", "label": "已确认", "branches": n, "subs": subs}
+
+
 def page_state(date_str):
     y, m = date_str[:4], date_str[5:7]
     html = os.path.join(REPO, "articles", y, m, f"{date_str}_001.reading.html")
@@ -57,6 +82,7 @@ def page_state(date_str):
         "paras": 0, "translated": False, "cards": 0, "proper": 0,
         "practice": False, "audio": None, "mindmap_img": False,
         "registered": False, "notes_ready": False,
+        "mm": mm_state(date_str),
         "html_mtime": os.path.getmtime(html) if os.path.exists(html) else 0,
     }
     if st["content"]:
@@ -114,9 +140,13 @@ def render(r):
           f"专名 {st['proper']}　练习 {'有' if st['practice'] else '无'}　"
           f"audio={st['audio']}　手绘={'已接' if st['mindmap_img'] else '未接'}　"
           f"首页={'已登记' if st['registered'] else '未登记'}")
+    mm = st.get("mm") or {}
+    if mm:
+        extra = f"　{mm['branches']} 枝 {mm['subs']}" if mm.get("branches") else ""
+        print(f"  导图：{mm.get('label','?')}{extra}")
     hint = {
         "PREVIEW": "上【预习原文】原文首发：audio=false、zh/notes/proper/practice 留空、导图先矢量（手绘等用户确认）",
-        "NOTES": "上【完整笔记】：覆盖同日期同 URL，补译文/词卡/练习，audio=true 并生成标题+段落英音朗读",
+        "NOTES": "上【完整笔记】：先出导图骨架等用户确认，再补译文/词卡/练习、audio=true 并生成标题+段落英音朗读",
         "DONE": "已是最新",
         "NONE": "无 PDF",
     }[r["action"]]
@@ -127,6 +157,12 @@ def render(r):
         print("  ⛔ 页面已是完整笔记版：不许用预习原文覆盖")
     if r["stale"]:
         print("  ⚠ 完整笔记 PDF 比已发布页面更新，建议重跑一遍完整笔记流水线")
+    if r["action"] == "NOTES" and mm.get("state") != "confirmed":
+        print(f"  ⛔ 导图骨架未就绪（{mm.get('label','缺')}）：先写大纲 → 跑 scripts/mm-preflight.py "
+              "→ 把骨架表报给用户；用户确认后 preflight --confirm，才可正式构建与推送"
+              "（scripts/mm-gate.py 会拦）")
+    elif r["action"] == "PREVIEW" and mm.get("state") in ("missing", "nocheck", "stale", "bad"):
+        print(f"  · 导图骨架{mm.get('label','缺')}：先写大纲 + preflight 再构建（预习原文可先上矢量，手绘等用户确认）")
     print()
 
 

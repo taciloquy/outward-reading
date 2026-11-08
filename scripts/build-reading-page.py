@@ -20,6 +20,32 @@ def die(msg):
     sys.exit(1)
 
 
+def mm_gate_check(c, out_path):
+    """完整笔记（有音频/练习）的正式页面必须过导图闸门（用户 2026-11-08 定）。
+
+    规则：完整笔记上线前也要先让用户确认导图骨架，确认之后才做手绘版。
+    闸门只拦「写进仓库」的正式页面；指到 /tmp 的自查输出照常放行。
+    """
+    practice = c.get("practice") or {}
+    is_notes = bool(c.get("audio")) or bool(practice.get("items") or practice.get("answer"))
+    if not is_notes:
+        return
+    r = subprocess.run([sys.executable, os.path.join(REPO, "scripts/mm-gate.py"),
+                        "--date", c["date"], "--stage", "publish"],
+                       capture_output=True, text=True)
+    if r.returncode == 0:
+        return
+    print(((r.stdout or "") + (r.stderr or "")).strip())
+    if not os.path.abspath(out_path).startswith(REPO + os.sep):
+        print("（输出在仓库外，按自查用途放行）")
+        return
+    print("\n错误：导图闸门未通过，正式页面不写。")
+    print("  顺序：写骨架 → scripts/mm-preflight.py 出表 → 把骨架表报给用户 → ")
+    print("        用户确认后 preflight --confirm → 再构建上线。")
+    print("  只想先看版式：把输出路径指到 /tmp 即可。")
+    sys.exit(23)
+
+
 def note_html(n):
     parts = [f"<b>{n['w']}</b> {n.get('ipa','')} {n.get('pos','')}".rstrip()]
     parts.append(f"英文释义：{n['en']}")
@@ -71,6 +97,7 @@ def main():
     if len(sys.argv) != 3:
         die("用法：build-reading-page.py <content.json> <output.html>")
     c = json.load(open(sys.argv[1], encoding="utf-8"))
+    mm_gate_check(c, sys.argv[2])
     s = open(TEMPLATE, encoding="utf-8").read()
 
     # 1. <title>
