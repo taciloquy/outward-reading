@@ -13,12 +13,15 @@
   python3 scripts/inject-seq-nav.py            # 更新所有已发布精读页
   python3 scripts/inject-seq-nav.py 2026-11-03 # 更新该日期页 + 其前后相邻页（integrate 用）
 
-依据 index.html 里的 ARTICLES 数组（按 publishDate + fileKey 排序）确定相邻文章。幂等。
+依据 articles.js 里的 ARTICLES 数组（按 publishDate + fileKey 排序）确定相邻文章。幂等。
+（首页轻量化后元数据已外置；未拆分的工作区自动回退读 index.html。）
 """
 import json, re, sys, os, subprocess
 
 REPO = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
-INDEX = os.path.join(REPO, "index.html")
+INDEX = os.path.join(REPO, "articles.js")
+if not os.path.exists(INDEX):
+    INDEX = os.path.join(REPO, "index.html")
 
 PAGER_CSS = """<style id="pager-css">
 /* 上一篇 / 下一篇：与「返回日历」同行，右侧双箭头，悬停出字 */

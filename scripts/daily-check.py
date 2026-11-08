@@ -100,7 +100,11 @@ def page_state(date_str):
         st["audio"] = c.get("audio")
         st["mindmap_img"] = bool((c.get("mindmap") or {}).get("img"))
         st["notes_ready"] = bool(st["translated"] or st["cards"] or st["practice"])
-    idx = os.path.join(REPO, "index.html")
+    # 2026-11-08 首页轻量化：文章元数据已外置到 articles.js；
+    # 兼容尚未拆分的工作区，回退读 index.html。
+    idx = os.path.join(REPO, "articles.js")
+    if not os.path.exists(idx):
+        idx = os.path.join(REPO, "index.html")
     if os.path.exists(idx):
         s = open(idx, encoding="utf-8", errors="ignore").read()
         st["registered"] = f'publishDate: "{date_str}"' in s

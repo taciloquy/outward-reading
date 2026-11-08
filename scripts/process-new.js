@@ -7,7 +7,7 @@
  * 1. 扫描早安英文目录，找到未处理的 plain + annotated 对
  * 2. 生成正式命名的 clean/annotated HTML 到 articles/YYYY/MM/
  * 3. 提取生词
- * 4. 自动更新 index.html 的 ARTICLES 数组
+ * 4. 自动更新 articles.js 的 ARTICLES 数组（正文全文交给 search-index.js）
  * 5. git add / commit / push
  */
 
@@ -18,7 +18,7 @@ const { execSync } = require('child_process');
 const SOURCE_DIR = '/Volumes/WORK DISK/QHY/读书/1.早安英文';
 const REPO_DIR = path.resolve(__dirname, '..');
 const ARTICLES_DIR = path.join(REPO_DIR, 'articles');
-const INDEX_HTML = path.join(REPO_DIR, 'index.html');
+const INDEX_HTML = path.join(REPO_DIR, 'articles.js');
 
 // ========== 工具函数 ==========
 
@@ -299,7 +299,6 @@ const newEntries = newArticles.map(art => {
         source: ${JSON.stringify(art.source)},
         cleanPath: ${JSON.stringify(art.cleanPath)},
         annotatedPath: ${JSON.stringify(art.annotatedPath)},
-        plainText: ${JSON.stringify(art.plainText)},
         vocabs: [
           ${vocabsJson}
         ]
@@ -313,7 +312,14 @@ indexHtml = indexHtml.replace(
 );
 
 fs.writeFileSync(INDEX_HTML, indexHtml);
-console.log('✅ index.html 已更新');
+console.log('✅ articles.js 已更新');
+
+// 全文索引单独维护：新条目的 plainText 由 sync-search-index.py 从内容 JSON 生成
+try {
+  execSync('python3 scripts/sync-search-index.py', { cwd: REPO_DIR, stdio: 'inherit' });
+} catch (e) {
+  console.log('⚠️  全文索引同步失败，请手动执行 python3 scripts/sync-search-index.py');
+}
 
 // ========== Git push ==========
 

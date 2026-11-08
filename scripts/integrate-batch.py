@@ -1,45 +1,39 @@
 #!/usr/bin/env python3
 """
-批量接入精读页：装配产物 → articles/YYYY/MM/ → 首页 readingPath → processed 清单。
+批量接入精读页：装配产物 → articles/YYYY/MM/ → articles.js 的 readingPath → processed 清单。
 不做 git 操作（由调用方批量 commit / push，避免多次推送触发网络失败）。
 
 用法：
     python3 scripts/integrate-batch.py 2026-10-19 2026-10-18 ...
     python3 scripts/integrate-batch.py --list dates.txt
 
-对首页没有条目的日期（如 9 月上旬），会自动插入一条新的 ARTICLES 记录，
-plainText 由内容 JSON 正文生成，保证全站搜索能命中。
+对没有条目的日期（如 9 月上旬），会在 articles.js 的 ARTICLES 开头插入新记录；
+首页轻量化后条目不再内联 plainText，收尾自动跑 sync-search-index.py 生成全文索引。
 """
 import json
 import os
 import re
 import shutil
+import subprocess
 import sys
 
 REPO = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
-INDEX = os.path.join(REPO, "index.html")
+INDEX = os.path.join(REPO, "articles.js")
+if not os.path.exists(INDEX):          # 兼容尚未拆分的工作区
+    INDEX = os.path.join(REPO, "index.html")
 CONTENT = os.path.join(REPO, "scripts", "content")
 MANIFEST = os.path.join(REPO, "scripts", "processed-reading.list")
 
 
-def plain_text(c):
-    """纯文本正文，用于首页全站搜索。"""
-    strip = lambda h: re.sub(r"<[^>]+>", "", h)
-    parts = [strip(c["h1"])]
-    parts += [strip(p["en_html"]) for p in c["paragraphs"]]
-    return json.dumps(" ".join(parts), ensure_ascii=False)[1:-1]
-
-
 def make_entry(c, web_path):
-    """生成一条 ARTICLES 记录（与现有条目同格式）。"""
+    """生成一条 ARTICLES 记录（正文全文不进首页，见 sync-search-index.py）。"""
     return (
         '{\n'
         f'        title: {json.dumps(c["h1"], ensure_ascii=False)},\n'
         f'        publishDate: "{c["date"]}",\n'
         f'        fileKey: "{c["date"]}_001",\n'
         f'        readingPath: "{web_path}",\n'
-        f'        source: {json.dumps(c.get("source_en") or c.get("source_label", ""), ensure_ascii=False)},\n'
-        f'        plainText: "{plain_text(c)}"\n'
+        f'        source: {json.dumps(c.get("source_en") or c.get("source_label", ""), ensure_ascii=False)}\n'
         '      }'
     )
 
@@ -105,6 +99,14 @@ def main(argv):
         print(f"✓ {date} → {web}  ({size} KB, {msg})")
         done.append(date)
     print(f"\n共接入 {len(done)} 篇：{' '.join(done)}")
+    if done:
+        sync = os.path.join(REPO, "scripts", "sync-search-index.py")
+        if os.path.exists(sync):
+            r = subprocess.run([sys.executable, sync], capture_output=True, text=True)
+            print(r.stdout.strip() or "")
+            if r.returncode != 0:
+                print(f"  ⚠ 全文索引同步失败（返回 {r.returncode}）：{r.stderr.strip()[:200]}")
+                print("    务必手动跑 python3 scripts/sync-search-index.py")
     return 0
 
 

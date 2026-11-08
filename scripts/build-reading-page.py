@@ -323,7 +323,7 @@ def main():
     print(f"已生成 {sys.argv[2]}（{len(s)//1024} KB，段落 {len(paras)}，词汇 {vi}，专名 {len(c['proper'])}）")
 
     # 9.6 翻页导航：母版里的「上一篇／下一篇」是 10-30 的邻居，直接沿用会链到别人身上。
-    # 装配完立刻按 index.html 的 ARTICLES 重注入一遍（幂等，integrate 里再跑也无害）。
+    # 装配完立刻按 articles.js 的 ARTICLES 重注入一遍（幂等，integrate 里再跑也无害）。
     nav = os.path.join(REPO, "scripts/inject-seq-nav.py")
     if os.path.exists(nav):
         r = subprocess.run([sys.executable, nav, c["date"]],
