@@ -27,7 +27,7 @@ import sys
 from datetime import datetime, timedelta
 
 REPO = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
-SOURCE_ROOT = "/Volumes/WORK DISK/QHY/读书/1.早安英文"
+SOURCE_ROOT = "/Volumes/WORK DISK/QHY/03_学习与阅读/读书/1.早安英文"
 
 
 def find_pdfs(date_str, source_root=None):

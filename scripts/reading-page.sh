@@ -14,7 +14,7 @@
 set -euo pipefail
 
 REPO_DIR="$(cd "$(dirname "$0")/.." && pwd)"
-SOURCE_ROOT="/Volumes/WORK DISK/QHY/读书/1.早安英文"
+SOURCE_ROOT="/Volumes/WORK DISK/QHY/03_学习与阅读/读书/1.早安英文"
 MANIFEST="$REPO_DIR/scripts/processed-reading.list"
 INDEX="$REPO_DIR/index.html"
 

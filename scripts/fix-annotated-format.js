@@ -5,7 +5,7 @@
 const fs = require('fs');
 const path = require('path');
 
-const dir = '/Volumes/WORK DISK/QHY/读书/1.早安英文/';
+const dir = '/Volumes/WORK DISK/QHY/03_学习与阅读/读书/1.早安英文/';
 const files = fs.readdirSync(dir).filter(f => f.endsWith('.annotated.html'));
 
 let modified = 0;

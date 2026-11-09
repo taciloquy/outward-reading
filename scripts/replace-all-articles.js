@@ -1,7 +1,7 @@
 const fs = require('fs');
 const path = require('path');
 
-const SOURCE_DIR = "/Volumes/WORK DISK/QHY/读书/1.早安英文";
+const SOURCE_DIR = "/Volumes/WORK DISK/QHY/03_学习与阅读/读书/1.早安英文";
 const TARGET_DIR = "/Users/malen/outward-reading-site-prod/articles";
 
 // 找到所有 clean 文件

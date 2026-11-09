@@ -15,7 +15,7 @@ const fs = require('fs');
 const path = require('path');
 const { execSync } = require('child_process');
 
-const SOURCE_DIR = '/Volumes/WORK DISK/QHY/读书/1.早安英文';
+const SOURCE_DIR = '/Volumes/WORK DISK/QHY/03_学习与阅读/读书/1.早安英文';
 const REPO_DIR = path.resolve(__dirname, '..');
 const ARTICLES_DIR = path.join(REPO_DIR, 'articles');
 const INDEX_HTML = path.join(REPO_DIR, 'articles.js');
