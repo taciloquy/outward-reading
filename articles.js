@@ -1,6 +1,13 @@
 // ===== 文章数据库（独立静态资源；正文全文见 search-index.js） =====
     const ARTICLES = [
       {
+        title: "千亿帝国掌舵人的私密丑闻：黄仁勋承认出轨，对方被美情报部门认定为间谍",
+        publishDate: "2026-11-10",
+        fileKey: "2026-11-10_001",
+        readingPath: "/outward-reading/articles/2026/11/2026-11-10_001.reading.html",
+        source: "The New York Times"
+      },
+      {
         title: "【共读】“做你喜欢的事情”可能是最坑年轻人的职业建议：AI时代，找工作逻辑彻底变了",
         publishDate: "2026-11-09",
         fileKey: "2026-11-09_002",

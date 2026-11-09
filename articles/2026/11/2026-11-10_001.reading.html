@@ -1,0 +1,1293 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>千亿帝国掌舵人的私密丑闻：黄仁勋承认出轨，对方被美情报部门认定为间谍 —— 美国《纽约时报》外刊讲解第1224天</title>
+<style>
+/* ========== 全局变量：改这里即可换配色 ========== */
+:root{
+  --bg: #f7f5f0;
+  --paper: #ffffff;
+  --paper-trans: #f0ede6;
+  --ink: #3d3a34;
+  --ink-light: #8a857c;
+  --accent: #6b8f71;
+  --accent-light: #e6efe7;
+  --line: #e2ddd3;
+  --hl: #f5e6a8;
+  --voc: #eef3d8;          /* 正文中「有注释的单词」底色 */
+  --voc-line: #c3d19b;
+  --radius: 10px;
+  --side-w: clamp(288px,30%,404px); /* 侧栏宽度 */
+  --header-h: 116px;       /* 顶部固定栏高度，JS 会实时校准 */
+}
+*{box-sizing:border-box;margin:0;padding:0}
+html{scroll-behavior:smooth}
+body{
+  background:var(--bg); color:var(--ink);
+  font-family:-apple-system,BlinkMacSystemFont,"PingFang SC","Hiragino Sans GB","Microsoft YaHei",sans-serif;
+  line-height:1.75;
+}
+.en, .mono{font-family:Menlo, Monaco, "Courier New", monospace}
+
+/* ========== 页面头部 ========== */
+/* 顶部标题栏：固定在页面顶端，滚动时不动 */
+header{
+  position:sticky; top:0; z-index:60;
+  max-width:1400px;margin:0 auto;
+  padding:0 clamp(36px,5vw,80px); /* header-gutter-v5：可见栏占满内容区整宽，左缘对正文、右缘对查询面板 */
+}
+.head-inner{
+  max-width:100%;
+  padding:14px 0 12px;
+  background:rgba(255,255,255,.95);
+  -webkit-backdrop-filter:saturate(180%) blur(10px);
+  backdrop-filter:saturate(180%) blur(10px);
+  border-bottom:1px solid var(--line);
+}
+.meta-row{display:flex;flex-wrap:wrap;gap:14px;align-items:baseline}
+h1{font-size:22px;font-weight:700}
+.meta{color:var(--ink-light);font-size:13px}
+.meta span{margin-right:14px}
+.tool-row{display:flex;align-items:center;gap:10px;margin-top:10px}
+.anchors{display:flex;flex-wrap:wrap;gap:8px;flex:1;min-width:0}
+.anchors a{
+  text-decoration:none;font-size:13px;color:var(--accent);
+  background:var(--accent-light);padding:4px 12px;border-radius:999px;
+}
+.anchors a:hover{filter:brightness(.96)}
+
+/* ========== 左右分栏 ========== */
+.layout{
+  display:flex;gap:24px;align-items:flex-start;
+  max-width:1400px;margin:0 auto;padding:24px clamp(36px,5vw,80px);
+}
+.main{flex:7;min-width:0}
+/* 右侧面板：固定悬浮，高度不超一屏 */
+.side{
+  flex:0 0 var(--side-w);min-width:0;
+  position:sticky; top:calc(var(--header-h) + 12px);
+  height:calc(100vh - var(--header-h) - 24px);
+  display:flex;
+}
+
+/* ========== 左侧主阅读区 ========== */
+.mindmap{
+  background:var(--paper);border:1px solid var(--line);border-radius:var(--radius);
+  padding:14px 14px 16px;color:var(--ink-light);font-size:14px;margin-bottom:24px;
+}
+.mindmap img{max-width:100%;border-radius:8px}
+/* 导图双版本切换 */
+.mm-switch{display:flex;justify-content:flex-end;gap:8px;margin-bottom:10px}
+.mm-btn{
+  font-size:13.5px;padding:4px 14px;border-radius:999px;cursor:pointer;
+  border:1px solid var(--line);background:var(--bg);color:var(--ink-light);
+}
+.mm-btn:hover{border-color:var(--accent)}
+.mm-btn.active{background:var(--accent-light);border-color:var(--accent);color:var(--accent);font-weight:600}
+.mm-view img{width:100%;display:block;border-radius:8px}
+/* 矢量导图交互：分支可点击折叠 */
+.mm-branch rect,.mm-branch text,.mm-arrow{cursor:pointer}
+.mm-branch:hover rect{stroke-width:2.5}
+.mm-children.collapsed{display:none}
+.mm-arrow{font-size:12.5px;user-select:none}
+
+.headline-block{
+  background:var(--paper);border:1px solid var(--line);border-radius:var(--radius);
+  padding:18px 20px;margin-bottom:22px;
+}
+.headline-en{font-size:19.5px;font-weight:700;line-height:1.6;font-family:-apple-system,BlinkMacSystemFont,"PingFang SC","Hiragino Sans GB","Microsoft YaHei",sans-serif}
+.headline-sub{display:block;font-size:15px;font-weight:400;color:var(--ink-light);margin-top:6px}
+
+.paragraph{
+  background:var(--paper);border:1px solid var(--line);border-radius:var(--radius);
+  padding:18px 20px;margin-bottom:22px;
+}
+.p-label{
+  font-size:12.5px;color:var(--ink-light);letter-spacing:.08em;
+  margin-bottom:8px;text-transform:uppercase;
+}
+.en-block{
+  background:var(--paper);border-radius:6px;padding:4px 0;
+  font-size:17px;line-height:1.9;white-space:pre-wrap;
+}
+.zh-block{
+  background:var(--paper-trans);border-radius:8px;padding:12px 16px;
+  margin-top:10px;font-size:15.5px;color:#55524b;white-space:pre-wrap;
+}
+mark.hl{background:var(--hl);border-radius:3px;padding:0 1px}
+/* 正文中「有注释的单词」：淡绿底 + 虚线下划线，点击跳到该词注释 */
+mark.voc{
+  background:var(--voc);border-bottom:1px dashed var(--voc-line);
+  border-radius:3px;padding:0 1px;cursor:pointer;color:inherit;
+}
+mark.voc:hover{background:#e0eabf;border-bottom-color:var(--accent)}
+.note-item.flash{background:#fdf6db;border-radius:6px;box-shadow:0 0 0 6px #fdf6db}
+
+/* —— 本段注释组（默认收起） —— */
+.notes-toggle{
+  margin-top:12px;font-size:13.5px;color:var(--accent);background:none;
+  border:1px solid var(--accent);border-radius:6px;padding:4px 12px;cursor:pointer;
+}
+.notes-group{display:none;margin-top:10px;border-top:1px dashed var(--line);padding-top:10px}
+.notes-group.open{display:block}
+.note-item{font-size:15px;margin-bottom:14px;line-height:1.8}
+.note-item b{color:var(--accent)}
+
+/* 锚点跳转补偿：不被固定标题栏挡住 */
+.paragraph,.headline-block,#practice,#main-reading,.mindmap,#side-panel{
+  scroll-margin-top:calc(var(--header-h) + 16px);
+}
+
+/* ========== 右侧查询面板（固定悬浮 + 分页） ========== */
+.side-inner{
+  background:var(--paper);border:1px solid var(--line);border-radius:var(--radius);
+  padding:14px;display:flex;flex-direction:column;width:100%;height:100%;overflow:hidden;
+}
+.side-head{display:flex;justify-content:space-between;align-items:center;margin-bottom:10px;flex:none}
+.side-head h2{font-size:15px}
+.side-collapse{font-size:12px;color:var(--accent);background:var(--accent-light);border:none;border-radius:6px;padding:4px 10px;cursor:pointer}
+.side-body{display:flex;flex-direction:column;flex:1;min-height:0}
+.side-body.hidden{display:none}
+
+.search-box{margin-bottom:10px;flex:none}
+.search-box input{
+  width:100%;border:1px solid var(--line);border-radius:8px;
+  padding:9px 12px;font-size:15.5px;background:var(--bg);color:var(--ink);
+}
+.search-box input:focus{outline:2px solid var(--accent-light);border-color:var(--accent)}
+.search-result{font-size:13.5px;color:var(--ink-light);margin-top:6px;line-height:1.9}
+.search-result a{color:var(--accent);text-decoration:none;margin-right:10px}
+
+/* 分页内容区：只有这一块滚动，搜索框与分页按钮固定 */
+.tab-panes{flex:1;min-height:0;overflow-y:auto;overflow-x:hidden;padding-right:2px}
+.tab-pane{display:none}
+.tab-pane.active{display:block}
+.tab-list{display:flex;flex-direction:column}
+.row{padding:7px 8px;border-radius:7px;border-bottom:1px solid var(--bg)}
+.row.row-hit{background:var(--hl)}
+.row:hover{background:#faf8f3}
+.row-top{display:flex;align-items:baseline;gap:7px;flex-wrap:wrap}
+.row-top .w{font-weight:700;font-size:15px;color:var(--ink)}
+.row-top .ph{font-size:12.5px;color:var(--ink-light)}
+.row-top .src{
+  margin-left:auto;font-size:11.5px;color:var(--accent);text-decoration:none;
+  background:var(--accent-light);padding:1px 7px;border-radius:5px;white-space:nowrap;
+}
+.row .def{font-size:13.5px;color:#55524b;line-height:1.76;margin-top:4px}
+.row .def.role{color:var(--ink-light);border-left:2px solid var(--accent-light);padding-left:8px;margin-top:6px}
+
+/* 段落导航（第 3 页） */
+.p-nav{display:flex;flex-direction:column;gap:2px}
+.p-nav a{
+  display:block;padding:7px 10px;border-radius:6px;text-decoration:none;
+  color:var(--ink);font-size:14px;border-left:2px solid transparent;
+}
+.p-nav a:hover{background:var(--accent-light);border-left-color:var(--accent)}
+.p-nav a.sub{font-size:13.5px;color:var(--ink-light);padding-left:22px}
+.p-nav a .hint{display:block;font-size:12px;color:var(--ink-light);margin-top:1px;font-family:Menlo,monospace}
+
+/* 底部分页按钮 1 / 2 / 3 */
+.tab-bar{
+  flex:none;display:flex;gap:6px;margin-top:10px;padding-top:10px;
+  border-top:1px solid var(--line);
+}
+.tab-btn{
+  flex:1;font-size:12.5px;padding:8px 4px;border-radius:7px;cursor:pointer;
+  border:1px solid var(--line);background:var(--bg);color:var(--ink-light);
+  font-family:inherit;white-space:nowrap;
+}
+.tab-btn:hover{border-color:var(--accent);color:var(--accent)}
+.tab-btn.active{background:var(--accent-light);border-color:var(--accent);color:var(--accent);font-weight:600}
+
+/* ========== 底部：翻译练习 ========== */
+.practice{
+  max-width:1400px;margin:0 auto;padding:0 clamp(36px,5vw,80px) 40px;
+}
+.practice h2{font-size:18px;margin-bottom:12px}
+.fold{
+  background:var(--paper);border:1px solid var(--line);border-radius:var(--radius);
+  margin-bottom:12px;overflow:hidden;
+}
+.fold-head{
+  width:100%;text-align:left;background:none;border:none;cursor:pointer;
+  padding:12px 18px;font-size:14.5px;font-weight:600;color:var(--ink);
+  display:flex;justify-content:space-between;align-items:center;
+}
+.fold-body{display:none;padding:0 18px 16px;font-size:14.5px;white-space:pre-wrap}
+.fold.open .fold-body{display:block}
+.fold.open .fold-head .arrow{transform:rotate(90deg)}
+.fold-head .arrow{color:var(--ink-light);font-size:12px;transition:transform .2s}
+
+/* ========== 移动端自适应 ========== */
+@media (max-width:767px){
+  header{padding:0 clamp(24px,5.5vw,40px)}
+  header .head-inner{max-width:none}
+  .layout{flex-direction:column}
+  .main{flex:none;width:100%}
+  /* 窄屏：面板下沉页面底部，不再固定高度 */
+  .side{flex:none;width:100%;position:static;order:2;height:auto;display:block}
+  .side-inner{height:auto}
+  .tab-panes{max-height:56vh}
+  .practice{order:3}
+  header{padding:12px clamp(24px,5.5vw,40px) 10px}
+  .layout,.practice{padding-left:clamp(24px,5.5vw,40px);padding-right:clamp(24px,5.5vw,40px)}
+}
+
+/* ========== 手机（≤700px）：头部不再固定，压缩高度，把屏幕留给正文 ========== */
+@media (max-width:700px){
+  header{position:static;padding:12px clamp(24px,5.5vw,40px) 10px}
+  h1{font-size:17px;line-height:1.45}
+  .meta-row{display:block}
+  .meta{font-size:12px;margin-top:5px}
+  .meta span{margin-right:10px}
+  .tool-row{margin-top:8px;gap:8px}
+  .anchors{flex-wrap:nowrap;overflow-x:auto;gap:6px;padding-bottom:2px;-webkit-overflow-scrolling:touch}
+  .anchors::-webkit-scrollbar{display:none}
+  .anchors a{flex:none;font-size:12.5px;padding:4px 10px}
+  .print-btn{font-size:15px;padding:5px 9px;border-radius:999px}
+  .paragraph,.headline-block,#practice,#main-reading,.mindmap,#side-panel{scroll-margin-top:10px}
+  .layout{padding-top:14px}
+  .mindmap{padding:10px;margin-bottom:16px}
+  .paragraph,.headline-block{padding:14px}
+}
+
+/* ========== 打印按钮（屏幕显示） ========== */
+.print-btn{
+  flex:none;
+  border:1px solid var(--line);background:var(--paper);color:var(--ink-light);
+  font-size:15px;line-height:1;border-radius:8px;padding:6px 10px;cursor:pointer;
+  font-family:inherit;white-space:nowrap;
+}
+.print-btn:hover{color:var(--accent);border-color:var(--accent)}
+
+/* ========== 打印提示条：手机 / 微信内兜底 ========== */
+.print-tip{
+  position:fixed;left:50%;bottom:calc(18px + env(safe-area-inset-bottom));
+  transform:translate(-50%,10px);
+  max-width:min(92vw,460px);width:max-content;
+  background:rgba(28,32,38,.94);color:#f5f2ec;
+  font-size:13px;line-height:1.6;letter-spacing:.01em;
+  padding:10px 14px;border-radius:12px;
+  box-shadow:0 8px 24px rgba(0,0,0,.22);
+  z-index:9999;opacity:0;pointer-events:none;
+  transition:opacity .25s ease,transform .25s ease;
+  text-align:center;
+}
+.print-tip.show{opacity:1;transform:translate(-50%,0)}
+
+/* ========== 打印引导卡片：iPhone / 微信内 ========== */
+.pg-mask{
+  position:fixed;inset:0;z-index:10000;
+  background:rgba(28,24,20,.44);
+  display:flex;align-items:flex-end;justify-content:center;
+  opacity:0;transition:opacity .22s ease;
+}
+.pg-mask.show{opacity:1}
+.pg-card{
+  width:100%;max-width:480px;
+  background:var(--paper,#fbf8f2);color:var(--ink,#2b2622);
+  border-radius:18px 18px 0 0;
+  padding:20px 20px calc(20px + env(safe-area-inset-bottom));
+  box-shadow:0 -10px 34px rgba(0,0,0,.2);
+  transform:translateY(16px);transition:transform .26s ease;
+  font-family:-apple-system,'PingFang SC','Hiragino Sans GB','Microsoft YaHei',sans-serif;
+}
+.pg-mask.show .pg-card{transform:translateY(0)}
+.pg-card h3{margin:0 0 6px;font-size:16px;font-weight:600;letter-spacing:.01em}
+.pg-card p{margin:0 0 12px;font-size:13px;line-height:1.7;color:var(--ink-light,#6b6259)}
+.pg-card ol{margin:0 0 16px;padding-left:20px;font-size:13.5px;line-height:1.85}
+.pg-card ol li{margin-bottom:2px}
+.pg-acts{display:flex;gap:10px}
+.pg-acts button{
+  flex:1;font-size:14px;padding:11px 0;border-radius:10px;cursor:pointer;
+  font-family:inherit;-webkit-tap-highlight-color:transparent;
+}
+.pg-primary{border:1px solid var(--accent,#8a6b4f);background:var(--accent,#8a6b4f);color:#fff}
+.pg-ghost{border:1px solid var(--line,#e2dad0);background:transparent;color:var(--ink-light,#6b6259)}
+@media print{.print-tip{display:none !important}.pg-mask{display:none !important}}
+
+/* ========== 打印样式：A4，仅标题 + 英文正文（v3 / Safari 兼容） ========== */
+@page{size:A4 portrait;margin:14mm 13mm}
+
+@media print{
+  html,body{
+    width:auto !important;max-width:none !important;
+    margin:0 !important;padding:0 !important;
+    background:#fff !important;color:#111 !important;
+    -webkit-text-size-adjust:100% !important;text-size-adjust:100% !important;
+  }
+  /* 一律不打印：导航 / 元信息 / 按钮 / 导图 / 侧栏 / 译文 / 注释 / 练习 / 提示层 */
+  .anchors,.meta,.tool-row,.print-btn,.mindmap,.side,.practice,
+  .zh-block,.notes-toggle,.notes-group,.mm-switch,
+  .print-tip,.pg-mask{display:none !important}
+  .meta-row{display:block !important;margin:0 !important}
+  header{
+    position:static !important;display:block !important;
+    background:#fff !important;border:none !important;box-shadow:none !important;
+    padding:0 0 6pt !important;margin:0 !important;
+  }
+  h1{font-size:17pt !important;line-height:1.35 !important;margin:0 0 5pt !important;color:#111 !important}
+  .layout{
+    display:block !important;max-width:none !important;
+    padding:0 !important;margin:0 !important;gap:0 !important;
+  }
+  .main,main{width:100% !important;max-width:none !important;flex:none !important;min-width:0 !important}
+  .paragraph,.headline-block{
+    background:#fff !important;border:none !important;border-radius:0 !important;
+    box-shadow:none !important;padding:0 !important;margin:0 0 8pt !important;
+  }
+  .p-label{font-size:8.5pt !important;color:#777 !important;letter-spacing:.06em !important;margin:0 0 3pt !important}
+  .en-block{
+    background:#fff !important;border:none !important;border-left:2px solid #ccc !important;
+    border-radius:0 !important;box-shadow:none !important;
+    padding:1pt 0 1pt 8pt !important;
+    font-size:10pt !important;line-height:1.55 !important;color:#111 !important;
+  }
+  mark.voc{
+    background:transparent !important;border-bottom:none !important;
+    padding:0 !important;color:inherit !important;font-weight:600 !important;
+  }
+  .headline-en{font-size:12pt !important;line-height:1.45 !important;color:#111 !important}
+  .headline-sub{font-size:9.5pt !important;color:#444 !important;font-style:italic !important;margin-top:3pt !important}
+  h2,h3{page-break-after:avoid}
+  a{color:#111 !important;text-decoration:none !important}
+}
+
+
+/* ========== 打印视图兜底：body.print-sheet（普通规则，任何 WebKit 都生效） ========== */
+body.print-sheet{background:#fff !important;margin:0 !important;padding:0 !important}
+body.print-sheet .layout{display:block !important}
+body.print-sheet .side,body.print-sheet .mindmap,body.print-sheet .practice,
+body.print-sheet .zh-block,body.print-sheet .notes-toggle,body.print-sheet .notes-group,
+body.print-sheet .mm-switch,body.print-sheet .anchors,body.print-sheet .tool-row,
+body.print-sheet .meta,body.print-sheet .print-tip,body.print-sheet .pg-mask{display:none !important}
+body.print-sheet .meta-row{display:block !important}
+body.print-sheet .main{width:100% !important;max-width:100% !important;margin:0 !important;padding:0 !important}
+body.print-sheet header,body.print-sheet .headline-block{background:none !important;border:none !important;box-shadow:none !important;padding:0 0 5pt !important;margin:0 0 8pt !important}
+body.print-sheet .paragraph{background:none !important;border:none !important;border-radius:0 !important;box-shadow:none !important;padding:0 0 8pt !important;color:#000 !important}
+body.print-sheet .paragraph .en-block{font-size:10pt !important;line-height:1.55 !important;color:#000 !important}
+body.print-sheet mark,body.print-sheet mark.voc{background:none !important;color:inherit !important}
+body.print-sheet .p-label{color:#555 !important}
+
+/* 打印分页控制：段落序号 / 标题不孤悬页底 */
+.p-label{break-after:avoid !important;page-break-after:avoid !important}
+h1,.headline-block{break-after:avoid !important;page-break-after:avoid !important}
+
+/* 返回日历入口：文章页独立打开时（首页点击直达），顶部提供回日历链接 */
+.back-cal{display:inline-block;font-size:13px;color:#4a6fa5;text-decoration:none;padding:0 0 8px}
+.back-cal:hover{color:#2c4a7c}
+.back-cal:active{opacity:.55}
+/* 上一篇 / 下一篇 跳转 */
+.seq-nav{display:flex;gap:14px;margin:2px 0 8px;font-size:13px;flex-wrap:wrap}
+.seq-nav a{display:inline-flex;flex-direction:column;max-width:48%;text-decoration:none;color:#4a6fa5;padding:5px 12px;border:1px solid #d8e0ec;border-radius:9px;background:#f7f9fc;transition:.15s}
+.seq-nav a:hover{color:#2c4a7c;border-color:#9fb6d6;background:#eef3fa}
+.seq-nav .seq-l{font-weight:600;font-size:12px;color:#6b7d97;letter-spacing:.5px}
+.seq-nav .seq-t{font-size:13px;color:#33475f;white-space:nowrap;overflow:hidden;text-overflow:ellipsis;max-width:100%;margin-top:1px}
+.seq-nav .seq-next{text-align:right;align-items:flex-end;margin-left:auto}
+@media print{.back-cal,.seq-nav{display:none !important}}
+body.print-sheet .back-cal,body.print-sheet .seq-nav{display:none !important}
+
+/* ===== print-hardened-v1：WebKit / Safari 打印分页加固，勿删 ===== */
+@media print{
+  html,body{height:auto !important;min-height:0 !important;overflow:visible !important}
+  /* 非正文块彻底移出流：固定定位 / 视口高元素是 Safari 空白页的头号来源 */
+  .side,.mindmap,.mm-switch,.mm-legend,.practice,.anchors,.tool-row,.meta,
+  .zh-block,.notes-toggle,.notes-group,.print-tip,.pg-mask,.back-cal,.print-btn{
+    display:none !important;position:static !important;
+    height:0 !important;min-height:0 !important;max-height:0 !important;
+    margin:0 !important;padding:0 !important;border:0 !important;
+    overflow:hidden !important;
+  }
+  /* flex 容器分页在 WebKit 上不可靠，一律摊成块级文档流 */
+  .layout,.main,main,.paragraph,.headline-block,header,section,.en-block{
+    display:block !important;float:none !important;
+    width:auto !important;max-width:none !important;
+  }
+  header{
+    position:static !important;
+    -webkit-backdrop-filter:none !important;backdrop-filter:none !important;
+  }
+  header .head-inner{
+    position:static !important;max-width:none !important;margin:0 !important;padding:0 !important;
+    background:none !important;border:0 !important;
+    -webkit-backdrop-filter:none !important;backdrop-filter:none !important;
+  }
+  /* 分页控制：只留低风险的 avoid，高块不 avoid */
+  h1{break-after:avoid !important;page-break-after:avoid !important}
+  .headline-block{break-after:auto !important;page-break-after:auto !important;
+                   break-inside:auto !important;page-break-inside:auto !important}
+  .paragraph,.en-block{break-inside:auto !important;page-break-inside:auto !important}
+  .p-label{break-after:avoid !important;page-break-after:avoid !important}
+  p{orphans:2 !important;widows:2 !important}
+}
+body.print-sheet header{position:static !important;
+  -webkit-backdrop-filter:none !important;backdrop-filter:none !important}
+body.print-sheet .head-inner{background:none!important;border:0!important;padding:0!important;max-width:none!important}
+body.print-sheet .layout,body.print-sheet .main{display:block !important}
+/* ========== 右侧查询面板：宽屏默认收成竖条，点击展开（side-rail-v1） ========== */
+/* 平板（768–1080）：展开态是右侧抽屉浮层，正文宽度不变、不重排，只盖住右侧一小条 */
+@media (min-width:768px) and (max-width:1080px){
+  body:not(.side-collapsed) .side{
+    position:fixed;z-index:70;right:12px;
+    top:calc(var(--header-h) + 12px);
+    width:min(360px,64vw);height:calc(100vh - var(--header-h) - 24px);
+    flex:none;min-width:0;
+  }
+  body:not(.side-collapsed) .side-inner{
+    box-shadow:0 16px 40px rgba(24,25,28,.22),0 2px 8px rgba(24,25,28,.10);
+  }
+  body:not(.side-collapsed) .side-collapse{font-size:12.5px;padding:4px 8px}
+  header .head-inner{max-width:none}
+}
+@media (min-width:768px){
+  body.side-collapsed .layout{gap:14px}
+  body.side-collapsed .side{flex:0 0 60px;width:60px;min-width:0;height:auto}
+  body.side-collapsed .side-inner{
+    background:transparent;border:0;padding:0;height:auto;display:block;overflow:visible;
+  }
+  body.side-collapsed .side-head{margin:0;padding:0;display:block}
+  body.side-collapsed .side-head h2{display:none}
+  body.side-collapsed .side-collapse{
+    writing-mode:vertical-rl;-webkit-writing-mode:vertical-rl;
+    display:block;margin:0 auto;width:38px;height:auto;padding:18px 0;
+    border-radius:999px;border:1px solid var(--line);
+    background:var(--accent-light);color:var(--accent);
+    font-size:13px;letter-spacing:.2em;line-height:1;
+  }
+  body.side-collapsed .side-collapse:hover{border-color:var(--accent);filter:brightness(.98)}
+  body.side-collapsed .side-body{display:none}
+}
+/* ===== 逐段朗读 para-audio-v3 ===== */
+.p-label{display:flex;align-items:center;gap:8px}
+.p-label .p-label-text{flex:none}
+.p-audio{appearance:none;border:none;background:transparent;cursor:pointer;
+  padding:3px;line-height:0;color:var(--ink-light);border-radius:6px;
+  transition:color .15s,background .15s}
+.p-audio:hover{color:#0F6E56;background:rgba(15,110,86,.08)}
+.p-audio:focus-visible{outline:2px solid #0F6E56;outline-offset:1px}
+.p-audio svg{width:16px;height:16px;display:block}
+.p-audio .pa-w1,.p-audio .pa-w2{opacity:.45;transition:opacity .15s}
+.p-audio:hover .pa-w1,.p-audio:hover .pa-w2{opacity:.75}
+.p-audio.playing{color:#0F6E56}
+.p-audio.playing .pa-w1{opacity:1;animation:paWave 1.2s ease-in-out infinite}
+.p-audio.playing .pa-w2{opacity:1;animation:paWave 1.2s ease-in-out infinite reverse}
+@keyframes paWave{0%,100%{opacity:.2}50%{opacity:1}}
+.p-audio.error{color:#b3543e}
+@media print{.p-audio{display:none !important}}
+/* ===== 连续播放 para-audio-title-v2 ===== */
+.pa-loop{appearance:none;border:1px solid rgba(24,25,28,.25);background:transparent;cursor:pointer;
+  font:inherit;font-size:12px;line-height:1;color:var(--ink-light);
+  padding:4px 9px;border-radius:999px;transition:color .15s,background .15s,border-color .15s;
+  white-space:nowrap;flex:none}
+.pa-loop:hover{color:#0F6E56;border-color:#0F6E56;background:rgba(15,110,86,.08)}
+.pa-loop.on{color:#fff;background:#0F6E56;border-color:#0F6E56}
+.pa-loop:focus-visible{outline:2px solid #0F6E56;outline-offset:1px}
+@media print{.pa-loop{display:none !important}}
+</style>
+<style id="pager-css">
+/* 上一篇 / 下一篇：与「返回日历」同行，右侧双箭头，悬停出字 */
+.head-top{display:flex;align-items:center;justify-content:space-between;gap:12px}
+.pager{display:flex;align-items:center;gap:6px;flex:none;margin:0}
+.pg-btn{position:relative;display:inline-flex;align-items:center;justify-content:center;
+  width:30px;height:30px;border-radius:50%;flex:none;
+  color:#4a6fa5;background:rgba(74,111,165,.10);text-decoration:none;
+  font:600 15px/1 -apple-system,BlinkMacSystemFont,"PingFang SC","Microsoft YaHei",sans-serif;
+  -webkit-tap-highlight-color:transparent;transition:background .15s,color .15s,transform .15s}
+.pg-btn:hover,.pg-btn:focus-visible{background:#4a6fa5;color:#fff;transform:translateY(-1px)}
+.pg-btn:active{transform:translateY(0)}
+.pg-btn.is-off{background:transparent;color:#cfc9bd;pointer-events:none;cursor:default}
+.pg-tip{position:absolute;top:calc(100% + 7px);left:50%;
+  transform:translateX(-50%) translateY(-4px);
+  padding:4px 9px;border-radius:6px;background:#3d3a34;color:#fff;
+  font:500 12px/1.3 -apple-system,"PingFang SC","Microsoft YaHei",sans-serif;
+  white-space:nowrap;opacity:0;visibility:hidden;pointer-events:none;z-index:90;
+  transition:opacity .15s,visibility .15s,transform .15s}
+.pg-tip:before{content:"";position:absolute;bottom:100%;left:50%;transform:translateX(-50%);
+  border:5px solid transparent;border-bottom-color:#3d3a34}
+.pg-btn:hover .pg-tip,.pg-btn:focus-visible .pg-tip{opacity:1;visibility:visible;
+  transform:translateX(-50%) translateY(0)}
+@media print{.pager{display:none !important}}
+body.print-sheet .pager{display:none !important}
+</style>
+</head>
+<body>
+
+<!-- ==================== 页面头部 ==================== -->
+<header>
+  <div class="head-inner">
+  <div class="head-top"><a class="back-cal" href="../../../index.html?d=2026-11-10" onclick="try{var h=new URL(this.href,location.href),r=document.referrer?new URL(document.referrer):null,f=function(p){return p.replace(/index\.html$/,'').replace(/\/$/,'')};if(history.length-1&&r&&r.origin===location.origin&&f(r.pathname)===f(h.pathname)){event.preventDefault();setTimeout(function(){history.back()},0)}}catch(e){}">← 返回日历</a><nav class="pager" aria-label="文章翻页"><a class="pg-btn pg-prev" href="/outward-reading/articles/2026/11/2026-11-09_002.reading.html" aria-label="上一篇"><span class="pg-ico" aria-hidden="true">←</span><span class="pg-tip" role="tooltip">上一篇</span></a><span class="pg-btn pg-next is-off" aria-hidden="true"><span class="pg-ico">→</span></span></nav></div>
+  <div class="meta-row">
+    <h1>千亿帝国掌舵人的私密丑闻：黄仁勋承认出轨，对方被美情报部门认定为间谍</h1>
+    <div class="meta">
+      <span>日期：2026-11-10</span>
+      <span>分类：美国《纽约时报》外刊讲解 第1224天</span>
+      <span>阅读时长：约 15 分钟</span>
+    </div>
+  </div>
+  <div class="tool-row">
+    <nav class="anchors">
+      <a href="#main-reading">正文</a>
+      <a href="#side-panel" onclick="showTab(1)">词汇</a>
+      <a href="#side-panel" onclick="showTab(2)">专有名词</a>
+      <a href="#practice">练习</a>
+    </nav>
+    <button class="print-btn" onclick="doPrint()" title="A4 打印：仅标题与英文正文" aria-label="打印">🖨</button>
+  </div>
+  </div>
+</header>
+
+<div class="layout">
+
+  <!-- ==================== 左侧主阅读区 ==================== -->
+  <main class="main" id="main-reading">
+
+    <!-- 思维导图 -->
+    <section class="mindmap" id="mindmap">
+      <div class="mm-switch">
+        <button class="mm-btn" id="mm-all-btn" onclick="toggleAllMindmap()">全部收起</button>
+        <button class="mm-btn active" id="mm-vector-btn" onclick="showMindmap('vector',this)">矢量版</button>
+      </div>
+      <div class="mm-view" id="mm-vector">
+      <svg viewBox="0 0 960 614" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="英伟达调查黄仁勋与中方间谍关系思维导图" style="width:100%;height:auto;font-family:-apple-system,'PingFang SC','Hiragino Sans GB','Microsoft YaHei',sans-serif">
+<rect x="24" y="263" width="176" height="88" rx="14" fill="#eae3d2" stroke="#9a8f76"/>
+<text x="112" y="299" text-anchor="middle" fill="#3d3a34" font-size="17" font-weight="700">芯片之王</text>
+<text x="112" y="325" text-anchor="middle" fill="#5c5648" font-size="12.5">私情牵出间谍疑云</text>
+<path d="M200,307 C232,307 232,88 260,88" stroke="#6b8f71" stroke-width="2" fill="none"/>
+<path d="M200,307 C232,307 232,286 260,286" stroke="#7d98ad" stroke-width="2" fill="none"/>
+<path d="M200,307 C232,307 232,505 260,505" stroke="#bd7a6d" stroke-width="2" fill="none"/>
+<g class="mm-branch" data-target="bc1">
+<rect x="260" y="71" width="190" height="34" rx="8" fill="#e6efe7" stroke="#6b8f71"/>
+<text x="355" y="93" text-anchor="middle" fill="#4c6b52" font-size="15" font-weight="700">丑闻落地（¶1-2）</text>
+<text class="mm-arrow" data-for="bc1" x="442" y="93" text-anchor="end" fill="#4c6b52">▾</text>
+</g>
+<g class="mm-children" id="bc1">
+<path d="M450,88 C462,88 462,46 480,46" stroke="#6b8f71" stroke-width="1.5" fill="none"/>
+<path d="M450,88 C462,88 462,88 480,88" stroke="#6b8f71" stroke-width="1.5" fill="none"/>
+<path d="M450,88 C462,88 462,130 480,130" stroke="#6b8f71" stroke-width="1.5" fill="none"/>
+<rect x="480" y="30" width="456" height="32" rx="8" fill="#e6efe7"/><text x="492" y="51" fill="#3d3a34" font-size="14">董事会立案查这段关系</text>
+<rect x="480" y="72" width="456" height="32" rx="8" fill="#e6efe7"/><text x="492" y="93" fill="#3d3a34" font-size="14">「我对妻子不忠」，公开道歉</text>
+<rect x="480" y="114" width="456" height="32" rx="8" fill="#e6efe7"/><text x="492" y="135" fill="#3d3a34" font-size="14">三年「怎么做都不会错」的对照</text>
+</g>
+<g class="mm-branch" data-target="bc2">
+<rect x="260" y="269" width="190" height="34" rx="8" fill="#e5edf4" stroke="#7d98ad"/>
+<text x="355" y="291" text-anchor="middle" fill="#3d5872" font-size="15" font-weight="700">致命重叠（¶3-7）</text>
+<text class="mm-arrow" data-for="bc2" x="442" y="291" text-anchor="end" fill="#3d5872">▾</text>
+</g>
+<g class="mm-children" id="bc2">
+<path d="M450,286 C462,286 462,202 480,202" stroke="#7d98ad" stroke-width="1.5" fill="none"/>
+<path d="M450,286 C462,286 462,244 480,244" stroke="#7d98ad" stroke-width="1.5" fill="none"/>
+<path d="M450,286 C462,286 462,286 480,286" stroke="#7d98ad" stroke-width="1.5" fill="none"/>
+<path d="M450,286 C462,286 462,328 480,328" stroke="#7d98ad" stroke-width="1.5" fill="none"/>
+<path d="M450,286 C462,286 462,370 480,370" stroke="#7d98ad" stroke-width="1.5" fill="none"/>
+<rect x="480" y="186" width="456" height="32" rx="8" fill="#e5edf4"/><text x="492" y="207" fill="#3d3a34" font-size="14">对方是前电视记者、新加坡数据中心高管</text>
+<rect x="480" y="228" width="456" height="32" rx="8" fill="#e5edf4"/><text x="492" y="249" fill="#3d3a34" font-size="14">Megaspeed 只是转手租算力的中间人</text>
+<rect x="480" y="270" width="456" height="32" rx="8" fill="#e5edf4"/><text x="492" y="291" fill="#3d3a34" font-size="14">马来西亚姊妹公司买入 48 亿美元设备</text>
+<rect x="480" y="312" width="456" height="32" rx="8" fill="#e5edf4"/><text x="492" y="333" fill="#3d3a34" font-size="14">机房设备未拆封，疑转运中国</text>
+<rect x="480" y="354" width="456" height="32" rx="8" fill="#e5edf4"/><text x="492" y="375" fill="#3d3a34" font-size="14">关系与采购同期，公司否认被推翻</text>
+</g>
+<g class="mm-branch" data-target="bc3">
+<rect x="260" y="488" width="190" height="34" rx="8" fill="#f4e7e4" stroke="#bd7a6d"/>
+<text x="355" y="510" text-anchor="middle" fill="#7c4a3e" font-size="15" font-weight="700">权力未倒（¶8-9）</text>
+<text class="mm-arrow" data-for="bc3" x="442" y="510" text-anchor="end" fill="#7c4a3e">▾</text>
+</g>
+<g class="mm-children" id="bc3">
+<path d="M450,505 C462,505 462,442 480,442" stroke="#bd7a6d" stroke-width="1.5" fill="none"/>
+<path d="M450,505 C462,505 462,484 480,484" stroke="#bd7a6d" stroke-width="1.5" fill="none"/>
+<path d="M450,505 C462,505 462,526 480,526" stroke="#bd7a6d" stroke-width="1.5" fill="none"/>
+<path d="M450,505 C462,505 462,568 480,568" stroke="#bd7a6d" stroke-width="1.5" fill="none"/>
+<rect x="480" y="426" width="456" height="32" rx="8" fill="#f4e7e4"/><text x="492" y="447" fill="#3d3a34" font-size="14">国会要他宣誓作证</text>
+<rect x="480" y="468" width="456" height="32" rx="8" fill="#f4e7e4"/><text x="492" y="489" fill="#3d3a34" font-size="14">董事会称查「全部可得信息」</text>
+<rect x="480" y="510" width="456" height="32" rx="8" fill="#f4e7e4"/><text x="492" y="531" fill="#3d3a34" font-size="14">特朗普：「我当然会带他去」</text>
+<rect x="480" y="552" width="456" height="32" rx="8" fill="#f4e7e4"/><text x="492" y="573" fill="#3d3a34" font-size="14">60 人直属，创始人一人定事</text>
+</g>
+<text x="486" y="170" fill="#8a8578" font-size="11.5">↓ 为何</text>
+<text x="486" y="410" fill="#8a8578" font-size="11.5">↓ 却仍</text>
+</svg>
+      </div>
+    </section>
+
+
+        <section class="paragraph headline-block" id="p-headline">
+      <div class="p-label">The New York Times · 标题</div>
+      <div class="headline-en"><span>Nvidia Opens Investigation Into Jensen Huang's Relationship With Chinese Spy</span></div>
+      <div class="zh-block">千亿帝国掌舵人的私密丑闻：黄仁勋承认出轨，对方被美情报部门认定为间谍</div>
+    </section>
+
+    <!-- Paragraph 1 -->
+        <section class="paragraph" id="p1">
+      <div class="p-label">Paragraph 1</div>
+      <div class="en-block en">Nvidia said on Sunday that it was opening an investigation into Jensen Huang, its chief executive and co-founder, after he acknowledged to the company’s board that he had been intimate with a business executive who U.S. intelligence determined was a Chinese spy. In a message to the company, Mr. Huang apologized. “I was unfaithful to my wife,” he said. “My actions hurt her and our children. There is no excuse for what I did. I am deeply sorry.”</div>
+    </section>
+
+    <section class="paragraph" id="p2">
+      <div class="p-label">Paragraph 2</div>
+      <div class="en-block en">The relationship and affair are a rare misstep for Mr. Huang. Over the past three years, he could do no wrong. His chipmaker, which makes the technology to build artificial intelligence, grew into one of the world’s most valuable companies and the engine of the data center boom powering the U.S. economy. He started being followed by autograph-seeking throngs at events. And his black leather jackets, which he wears daily, became collectors’ items. Mr. Huang has credited his wife, Lori, whom he married in 1985, with making it possible for him to build the company.</div>
+    </section>
+
+    <section class="paragraph" id="p3">
+      <div class="p-label">Paragraph 3</div>
+      <div class="en-block en">Public scrutiny of Mr. Huang’s ties with Ms. Huang began after The New York Times first reported last month that American intelligence agencies had discovered that Mr. Huang had developed a close relationship with a Chinese citizen and chip buyer, who U.S. officials concluded was gathering intelligence for Beijing. The chip buyer was Ms. Huang or Huang Le, whose biography said she worked in China as a TV reporter before becoming a top executive at a Singapore-based data center company that had become one of Nvidia’s biggest customers in Southeast Asia.</div>
+    </section>
+
+    <section class="paragraph" id="p4">
+      <div class="p-label">Paragraph 4</div>
+      <div class="en-block en">Megaspeed was formed in 2023, when a Chinese online gaming company split off its Singaporean subsidiary. Megaspeed is among the firms in Southeast Asia that buy chips to build data centers and then rent their computing power to companies in China. Megaspeed is essentially a middle man. Megaspeed’s sister company in Malaysia bought at least $4.8 billion worth of advanced AI equipment containing Nvidia chips and technology between June 2024 and February 2026, according to trade records obtained from ImportGenius, a trade platform. It was an exceptional amount of money for a small, obscure company.</div>
+    </section>
+
+    <section class="paragraph" id="p5">
+      <div class="p-label">Paragraph 5</div>
+      <div class="en-block en">The U.S. government has been investigating Megaspeed since late 2024, when a Commerce Department official visited its data center in Malaysia and found the site to be suspicious. The Nvidia equipment was still packed in boxes, suggesting it was being shipped in or out rather than installed there. Investigators suspect that some Nvidia chips acquired by Megaspeed are also finding their way illegally into China. Singapore has conducted its own investigation into Megaspeed. In 2025, Singaporean authorities brought Alice Huang in for questioning, but subsequently released her.</div>
+    </section>
+
+    <section class="paragraph" id="p6">
+      <div class="p-label">Paragraph 6</div>
+      <div class="en-block en">As Megaspeed’s chip purchases rolled in, Mr. Huang and Ms. Huang began spending time together. Their relationship became a preoccupation in Washington, where officials were already alarmed by the large volume of Megaspeed’s purchases. Nvidia and Mr. Huang initially said there was nothing problematic or unusual about his relationship with Ms. Huang. In an interview with Bloomberg News last month, he said that his interactions with Ms. Huang had been “related to Megaspeed, and it was all completely normal and not unusual.”</div>
+    </section>
+
+    <section class="paragraph" id="p7">
+      <div class="p-label">Paragraph 7</div>
+      <div class="en-block en">The U.S. government, which had been investigating Megaspeed for possibly steering advanced Nvidia A.I. chips to China, began its surveillance of Ms. Huang more than a year ago. In the course of the surveillance, they found that she was in communication with a U.S. citizen who was identified as Mr. Huang. Officials who had seen that intelligence said they were certain the relationship was romantic. That undercut Nvidia’s original misleading statements to The Times and others over the course of the last year about the nature of Mr. Huang’s relationship with Ms. Huang.</div>
+    </section>
+
+    <section class="paragraph" id="p8">
+      <div class="p-label">Paragraph 8</div>
+      <div class="en-block en">As news about the U.S. surveillance of Ms. Huang broke, Mr. Huang’s room to maneuver all but disappeared. Congress wanted him to testify, probably under oath, and reporting on the surveillance raised the possibility that U.S. intelligence knew the nature of his relationship with Ms. Huang. There was also pressure on Nvidia’s board. Nvidia’s board said that it had “no reason to believe that either national security or Nvidia secrets were compromised,” but that “the board’s inquiry will examine all available information.”</div>
+    </section>
+
+    <section class="paragraph" id="p9">
+      <div class="p-label">Paragraph 9</div>
+      <div class="en-block en">Mr. Huang, 63, will continue to lead the company during the investigation, the board said. He also received public support from President Trump. Asked by reporters whether he would bring Mr. Huang on his upcoming trip to China, Mr. Trump said, “I’d certainly take him.” He also described Mr. Huang as “an honorable guy.” As a co-founder, Mr. Huang has set up a unique structure at Nvidia where he dictates all aspects of its business while overseeing some 60 people who directly report to him. “Today’s news will not slow Nvidia,” Mr. Rizzo said. “Jensen is committed to continuing to lead Nvidia as C.E.O. without interruption.” Many questions about the situation remain unanswered, at least publicly.</div>
+    </section>
+  </main>
+
+  <!-- ==================== 右侧查询面板 ==================== -->
+  <aside class="side" id="side-panel">
+    <div class="side-inner">
+      <div class="side-head">
+        <h2>查询面板</h2>
+        <button class="side-collapse" onclick="toggleSide()">收起面板</button>
+      </div>
+
+      <div class="side-body" id="side-body">
+
+        <div class="search-box">
+          <input type="text" id="search-input" placeholder="输入单词 / 短语，实时检索全文…"
+                 oninput="doSearch(this.value)">
+          <div class="search-result" id="search-result"></div>
+        </div>
+
+        <div class="tab-panes">
+          <div class="tab-pane active" id="tab-1">
+            <div class="tab-list" id="vocab-list">
+
+            </div>
+          </div>
+
+          <div class="tab-pane" id="tab-2">
+            <div class="tab-list" id="proper-list">
+
+            </div>
+          </div>
+
+          <div class="tab-pane" id="tab-3">
+            <div class="p-nav">
+<a href="#p-headline">标题 · The New York Times<span class="hint">Nvidia probes Huang’s ties with Chinese spy</span></a>
+<a href="#p1">Paragraph 1<span class="hint">Nvidia said on Sunday that it was …</span></a>
+<a href="#p2">Paragraph 2<span class="hint">The relationship and affair are a …</span></a>
+<a href="#p3">Paragraph 3<span class="hint">Public scrutiny of Mr. Huang’s tie…</span></a>
+<a href="#p4">Paragraph 4<span class="hint">Megaspeed was formed in 2023, when…</span></a>
+<a href="#p5">Paragraph 5<span class="hint">The U.S. government has been inves…</span></a>
+<a href="#p6">Paragraph 6<span class="hint">As Megaspeed’s chip purchases roll…</span></a>
+<a href="#p7">Paragraph 7<span class="hint">The U.S. government, which had bee…</span></a>
+<a href="#p8">Paragraph 8<span class="hint">As news about the U.S. surveillanc…</span></a>
+<a href="#p9">Paragraph 9<span class="hint">Mr. Huang, 63, will continue to le…</span></a>
+              </div>
+          </div>
+        </div>
+
+        <div class="tab-bar">
+          <button class="tab-btn active" onclick="showTab(1,this)">1 词汇</button>
+          <button class="tab-btn" onclick="showTab(2,this)">2 专有名词</button>
+          <button class="tab-btn" onclick="showTab(3,this)">3 段落导航</button>
+        </div>
+
+      </div><!-- /side-body -->
+    </div>
+  </aside>
+
+</div><!-- /layout -->
+
+<!-- ==================== 底部翻译练习 ==================== -->
+
+
+<script>
+/* ========== 极简原生 JS：折叠 / 搜索高亮 / 面板显隐 ========== */
+
+/* ========== 打印：桌面 / iPad / Android 直调；iPhone 走分享菜单；微信先回浏览器 ========== */
+function printTip(msg, ms){
+  var old = document.getElementById('print-tip');
+  if(old && old.parentNode) old.parentNode.removeChild(old);
+  var t = document.createElement('div');
+  t.id = 'print-tip';
+  t.className = 'print-tip';
+  t.textContent = msg;
+  document.body.appendChild(t);
+  void t.offsetHeight;            /* 强制 reflow：不依赖 rAF，任何环境都能上过渡 */
+  t.classList.add('show');
+  setTimeout(function(){
+    t.classList.remove('show');
+    setTimeout(function(){ if(t.parentNode) t.parentNode.removeChild(t); }, 300);
+  }, ms || 4600);
+}
+
+function legacyCopy(text, cb){
+  var ta = document.createElement('textarea');
+  ta.value = text;
+  ta.setAttribute('readonly','');
+  ta.style.position = 'fixed';
+  ta.style.left = '-9999px';
+  document.body.appendChild(ta);
+  ta.select();
+  try{ document.execCommand('copy'); }catch(e){}
+  document.body.removeChild(ta);
+  if(cb) cb();
+}
+
+function copyPageLink(){
+  var url = location.href;
+  var done = function(){ printTip('链接已复制，粘到 Safari 里打开就能打印。', 3200); };
+  if(navigator.clipboard && navigator.clipboard.writeText){
+    navigator.clipboard.writeText(url).then(done, function(){ legacyCopy(url, done); });
+  }else{
+    legacyCopy(url, done);
+  }
+}
+
+function closePrintGuide(){
+  var m = document.getElementById('pg-mask');
+  if(!m) return;
+  m.classList.remove('show');
+  setTimeout(function(){ if(m.parentNode) m.parentNode.removeChild(m); }, 240);
+}
+
+/* opts: {title, desc, steps:[...], primaryLabel, primaryAction} */
+function openPrintGuide(opts){
+  closePrintGuide();
+  var m = document.createElement('div');
+  m.id = 'pg-mask';
+  m.className = 'pg-mask';
+
+  var card = document.createElement('div');
+  card.className = 'pg-card';
+
+  var h = document.createElement('h3');
+  h.textContent = opts.title;
+  card.appendChild(h);
+
+  var p = document.createElement('p');
+  p.textContent = opts.desc;
+  card.appendChild(p);
+
+  var ol = document.createElement('ol');
+  (opts.steps || []).forEach(function(s){
+    var li = document.createElement('li');
+    li.textContent = s;
+    ol.appendChild(li);
+  });
+  card.appendChild(ol);
+
+  var acts = document.createElement('div');
+  acts.className = 'pg-acts';
+  if(opts.primaryLabel && opts.primaryAction){
+    var b1 = document.createElement('button');
+    b1.className = 'pg-primary';
+    b1.textContent = opts.primaryLabel;
+    b1.onclick = function(){ closePrintGuide(); opts.primaryAction(); };
+    acts.appendChild(b1);
+  }
+  var b2 = document.createElement('button');
+  b2.className = 'pg-ghost';
+  b2.textContent = opts.primaryLabel ? '取消' : '知道了';
+  b2.onclick = closePrintGuide;
+  acts.appendChild(b2);
+  card.appendChild(acts);
+
+  m.appendChild(card);
+  document.body.appendChild(m);
+  void m.offsetHeight;            /* 强制 reflow：不依赖 rAF */
+  m.classList.add('show');
+  m.addEventListener('click', function(e){ if(e.target === m) closePrintGuide(); });
+}
+
+/* ========== 打印视图兜底：任何入口打印前切到 print-sheet 视图，打完恢复 ========== */
+window.addEventListener('beforeprint', function(){ document.body.classList.add('print-sheet'); });
+window.addEventListener('afterprint', function(){ document.body.classList.remove('print-sheet'); });
+/* print-sheet-safety：万一浏览器不触发 afterprint，用户再碰页面就自动恢复 */
+document.addEventListener('pointerdown', function(){ document.body.classList.remove('print-sheet'); }, true);
+
+function doPrint(){
+  var ua = navigator.userAgent || '';
+  var inWX = /MicroMessenger|WeChat/i.test(ua);
+  var isIPhone = /iPhone|iPod/i.test(ua);
+  var isIPad = /iPad/i.test(ua) || (/Macintosh/i.test(ua) && navigator.maxTouchPoints > 1);
+  var isAndroid = /Android/i.test(ua);
+  var isHarmony = /HarmonyOS/i.test(ua);
+  /* 0) 首页弹窗（iframe）里：打印的是外层首页（日历+弹窗叠加），必须先去独立页面 */
+  var inFrame = false;
+  try{ inFrame = (window.self !== window.top); }catch(e){ inFrame = true; }
+  if(inFrame && (inWX || isIPhone || isIPad || isAndroid || isHarmony)){
+    openPrintGuide({
+      title: '先去独立页面再打印',
+      desc: '你现在是在首页的弹窗里看这篇精读页，在这里打印会把首页的日历一起印出来。',
+      steps: [
+        '点下面的「前往独立页面」',
+        '页面会跳到精读页本体（不在弹窗里）',
+        '再点一次「🖨 打印」，按提示操作'
+      ],
+      primaryLabel: '前往独立页面',
+      primaryAction: function(){
+        try{ window.top.location.href = location.href; }
+        catch(e){ copyPageLink(); }        /* 跨域被拦时退回复制链接 */
+      }
+    });
+    return;
+  }
+
+  /* 1) 微信内置浏览器：打印接口被屏蔽，先请用户回到系统浏览器 */
+  if(inWX){
+    openPrintGuide({
+      title: '微信里打不了印',
+      desc: '微信内置浏览器屏蔽了打印功能，换到 Safari 或系统浏览器里打开就能用。',
+      steps: [
+        '点右上角 ···',
+        '选「在默认浏览器打开」（找不到就先把链接复制出来）',
+        '在浏览器里再点一次「🖨 打印」'
+      ],
+      primaryLabel: '复制链接',
+      primaryAction: copyPageLink
+    });
+    return;
+  }
+
+  /* 2) iPhone Safari：window.print() 静默失败，只能走系统分享菜单 */
+  if(isIPhone && !isIPad){
+    if(navigator.share){
+      openPrintGuide({
+        title: '在 iPhone 上打印',
+        desc: 'iPhone 的 Safari 不响应网页里的直接打印，从系统的「分享」两步就到。',
+        steps: [
+          '点下面的「打开分享菜单」',
+          '在弹出面板里向下滑，找到并点「打印」',
+          '只要 PDF：在打印预览里双指放大，即可「存储到文件」'
+        ],
+        primaryLabel: '打开分享菜单',
+        primaryAction: function(){
+          document.body.classList.add('print-sheet');   /* beforeprint 之外的冗余保险 */
+          var sheetDone = false;
+          var cleanup = function(){ if(sheetDone) return; sheetDone = true; document.body.classList.remove('print-sheet'); };
+          try{ window.addEventListener('afterprint', cleanup, {once:true}); }catch(e){}
+          try{
+            var pr = navigator.share({ title: document.title, url: location.href });
+            /* share-cleanup-safe-v1：分享面板一关就撤样式，Safari 会在排版打印预览时回流，
+               分页错位、多出一张空白页。改成 afterprint 或 120s 后再恢复。 */
+            var later = function(){ setTimeout(cleanup, 120000); };
+            if(pr && pr.then){ pr.then(later, later); }
+            else{ setTimeout(cleanup, 120000); }
+          }catch(e){ cleanup(); }
+        }
+      });
+    }else{
+      openPrintGuide({
+        title: '在 iPhone 上打印',
+        desc: '这个浏览器没有开放网页打印，用 Safari 打开后按下面两步操作。',
+        steps: [
+          '点 Safari 工具栏中间的「分享」图标 ⤴',
+          '向下滑找到「打印」；只要 PDF 就在预览里双指放大后「存储到文件」'
+        ],
+        primaryLabel: '复制链接',
+        primaryAction: copyPageLink
+      });
+    }
+    return;
+  }
+
+  /* 3) iPad / Android / 鸿蒙 / 桌面：直接调起 */
+  if(isIPad || isAndroid || isHarmony){
+    printTip('正在调起打印…若没反应，请用浏览器菜单里的「打印 / 存为 PDF」。', 4200);
+    try{ window.print(); }catch(e){}
+    return;
+  }
+  try{
+    window.print();
+  }catch(e){
+    printTip('当前浏览器没有响应打印，请用浏览器菜单里的「打印 / 存为 PDF」。');
+  }
+}
+
+function toggleNotes(btn){
+  btn.nextElementSibling.classList.toggle('open');
+  btn.textContent = btn.nextElementSibling.classList.contains('open')
+    ? '收起本段注释' : '查看本段注释';
+}
+
+/* 右侧面板分页：1 词汇总表 / 2 专有名词表 / 3 段落导航 */
+function showTab(n, btn){
+  [1,2,3].forEach(function(i){
+    var pane = document.getElementById('tab-'+i);
+    if(pane) pane.classList.toggle('active', i === n);
+  });
+  var bar = document.querySelector('.tab-bar');
+  if(bar){
+    var btns = bar.querySelectorAll('.tab-btn');
+    for(var k=0;k<btns.length;k++){
+      btns[k].classList.toggle('active', k === n-1);
+    }
+  }
+  /* 若面板处于收起状态，切换分页时自动展开 */
+  var body = document.getElementById('side-body');
+  if(body && body.classList.contains('hidden')) setSide(true, false);
+  var panes = document.querySelector('.tab-panes');
+  if(panes && !btn) panes.scrollTop = 0;
+}
+
+function toggleFold(id){
+  document.getElementById(id).classList.toggle('open');
+}
+
+/* 导图双版本切换：矢量版 / 手绘版 */
+function showMindmap(mode, btn){
+  MM_VIEWS.forEach(function(m){
+    var el = document.getElementById('mm-' + m);
+    if(el) el.style.display = (m === mode) ? '' : 'none';
+  });
+  document.querySelectorAll('.mm-btn').forEach(function(b){ b.classList.remove('active'); });
+  if(btn) btn.classList.add('active');
+}
+
+/* 导图视图清单（共读页会多出 extra=课件原图） */
+var MM_VIEWS = ['vector', 'image', 'extra'];
+
+
+/* 矢量导图：点击分支标题折叠 / 展开子节点 */
+var MM_BRANCHES = ['bc1','bc2','bc3','bc4'];
+function toggleBranch(id){
+  var kids = document.getElementById(id);
+  var collapsed = kids.classList.toggle('collapsed');
+  var arrow = document.querySelector('.mm-arrow[data-for="'+id+'"]');
+  if(arrow) arrow.textContent = collapsed ? '▸' : '▾';
+  syncAllBtn();
+}
+/* shouldExpand = true 全部展开；false 全部收起 */
+function setAllBranches(shouldExpand){
+  MM_BRANCHES.forEach(function(id){
+    var isCollapsed = document.getElementById(id).classList.contains('collapsed');
+    if(shouldExpand && isCollapsed) toggleBranch(id);
+    if(!shouldExpand && !isCollapsed) toggleBranch(id);
+  });
+}
+function syncAllBtn(){
+  var anyCollapsed = MM_BRANCHES.some(function(id){
+    return document.getElementById(id).classList.contains('collapsed');
+  });
+  document.getElementById('mm-all-btn').textContent = anyCollapsed ? '全部展开' : '全部收起';
+}
+function toggleAllMindmap(){
+  /* 若当前显示手绘版，先切回矢量版再操作 */
+  if(document.getElementById('mm-vector').style.display === 'none'){
+    showMindmap('vector', document.getElementById('mm-vector-btn'));
+  }
+  var anyCollapsed = MM_BRANCHES.some(function(id){
+    return document.getElementById(id).classList.contains('collapsed');
+  });
+  /* 有收起的 → 全部展开；全展开 → 全部收起 */
+  setAllBranches(anyCollapsed);
+  syncAllBtn();
+}
+document.querySelectorAll('.mm-branch').forEach(function(g){
+  g.addEventListener('click', function(){ toggleBranch(g.getAttribute('data-target')); });
+});
+
+/* ========== 右侧面板开合：宽屏默认收成竖条，点击展开；偏好记入 localStorage ========== */
+var SIDE_PREF = 'outward-side-open-v1';
+function sideWide(){ return window.matchMedia('(min-width:768px)').matches; }
+function sideHidden(){
+  var b = document.getElementById('side-body');
+  return !!b && b.classList.contains('hidden');
+}
+function syncSideBtn(){
+  var btn = document.querySelector('.side-collapse');
+  if(!btn) return;
+  if(sideWide() && sideHidden()){
+    btn.textContent = '展开查询面板';
+    btn.title = '点击展开查询面板，与正文并排显示';
+  }else{
+    btn.textContent = sideHidden() ? '展开面板' : '收起面板';
+    btn.title = '';
+  }
+}
+function setSide(open, remember){
+  var body = document.getElementById('side-body');
+  if(!body) return;
+  body.classList.toggle('hidden', !open);
+  document.body.classList.toggle('side-collapsed', !open);
+  if(remember){ try{ localStorage.setItem(SIDE_PREF, open ? '1' : '0'); }catch(e){} }
+  syncSideBtn();
+  if(typeof syncHeaderHeight === 'function') syncHeaderHeight();
+}
+function toggleSide(){
+  setSide(sideHidden(), true);   /* 收起状态点一下就展开 */
+}
+(function initSide(){
+  var saved = null;
+  try{ saved = localStorage.getItem(SIDE_PREF); }catch(e){}
+  /* 手机保持展开（面板在页面底部）；电脑 / iPad 首次访问默认收起，之后按用户上次的选择 */
+  var open = sideWide() ? (saved === '1') : true;
+  setSide(open, false);
+  window.addEventListener('resize', syncSideBtn);
+})();
+
+/* 实时搜索：高亮全文英文块 + 标记表格命中行 + 列出跳转链接 */
+var lastMarks = [];
+function clearMarks(){
+  lastMarks.forEach(function(m){
+    var parent = m.parentNode;
+    parent.replaceChild(document.createTextNode(m.textContent), m);
+    parent.normalize();
+  });
+  lastMarks = [];
+  document.querySelectorAll('tr.row-hit').forEach(function(r){ r.classList.remove('row-hit'); });
+}
+
+function doSearch(q){
+  clearMarks();
+  var result = document.getElementById('search-result');
+  q = q.trim();
+  if(!q){ result.textContent = ''; return; }
+
+  /* 1) 高亮左侧正文英文块 */
+  var hitParas = [];
+  document.querySelectorAll('.en-block').forEach(function(block){
+    var marksBefore = lastMarks.length;   /* 本段新增的高亮数，用于按段统计 */
+    var walker = document.createTreeWalker(block, NodeFilter.SHOW_TEXT, null, false);
+    var nodes = [];
+    while(walker.nextNode()) nodes.push(walker.currentNode);
+    nodes.forEach(function(node){
+      var text = node.nodeValue, lower = text.toLowerCase(), needle = q.toLowerCase();
+      var idx = lower.indexOf(needle);
+      if(idx === -1) return;
+      var frag = document.createDocumentFragment(), pos = 0;
+      while(idx !== -1){
+        frag.appendChild(document.createTextNode(text.slice(pos, idx)));
+        var mark = document.createElement('mark');
+        mark.className = 'hl';
+        mark.textContent = text.slice(idx, idx + q.length);
+        frag.appendChild(mark);
+        lastMarks.push(mark);
+        pos = idx + q.length;
+        idx = lower.indexOf(needle, pos);
+      }
+      frag.appendChild(document.createTextNode(text.slice(pos)));
+      node.parentNode.replaceChild(frag, node);
+    });
+    if(lastMarks.length > marksBefore){
+      var para = block.closest('.paragraph');
+      if(para) hitParas.push(para.id);
+    }
+  });
+
+  /* 2) 词汇总表 / 专有名词表：命中行加底色 */
+  var vocabHit = false, properHit = false;
+  ['vocab-list','proper-list'].forEach(function(tid){
+    document.querySelectorAll('#'+tid+' .row').forEach(function(row){
+      if(row.textContent.toLowerCase().indexOf(q.toLowerCase()) !== -1){
+        row.classList.add('row-hit');
+        if(tid === 'vocab-list') vocabHit = true; else properHit = true;
+      }
+    });
+  });
+
+  /* 3) 结果区：跳转链接 */
+  var links = hitParas.map(function(pid){
+    var label = pid === 'p-headline' ? '标题' : ('¶ ' + pid.replace('p',''));
+    return '<a href="#'+pid+'">'+label+'</a>';
+  }).join('');
+  result.innerHTML = (links || vocabHit || properHit)
+    ? ('命中 ' + hitParas.length + ' 段：' + links +
+       (vocabHit ? '<a href="javascript:void(0)" onclick="showTab(1)">→ 词汇表</a>' : '') +
+       (properHit ? '<a href="javascript:void(0)" onclick="showTab(2)">→ 专名表</a>' : ''))
+    : '未找到匹配内容';
+
+  /* 4) 自动翻到有命中的分页：保证「查到了就看得见」 */
+  if(vocabHit) showTab(1);
+  else if(properHit) showTab(2);
+}
+
+/* ========== 顶部固定栏高度校准（供侧栏 sticky 与锚点补偿使用） ========== */
+function syncHeaderHeight(){
+  var hd = document.querySelector('header');
+  if(hd) document.documentElement.style.setProperty('--header-h', hd.offsetHeight + 'px');
+}
+syncHeaderHeight();
+window.addEventListener('load', syncHeaderHeight);
+window.addEventListener('resize', syncHeaderHeight);
+
+/* ========== 点击正文中高亮的单词：展开本段注释并定位到该词条 ========== */
+document.addEventListener('click', function(e){
+  var m = e.target.closest ? e.target.closest('mark.voc') : null;
+  if(!m) return;
+  var id = m.getAttribute('data-note');
+  var item = id ? document.getElementById(id) : null;
+  if(!item) return;
+  var group = item.closest('.notes-group');
+  if(group && !group.classList.contains('open')){
+    group.classList.add('open');
+    var btn = group.previousElementSibling;
+    if(btn && btn.classList.contains('notes-toggle')) btn.textContent = '收起本段注释';
+  }
+  item.classList.add('flash');
+  item.scrollIntoView({behavior:'smooth', block:'center'});
+  setTimeout(function(){ item.classList.remove('flash'); }, 1800);
+});
+/* ===== 逐段朗读 para-audio-v3 ===== */
+var PARA_AUDIO_BASE = 'audio/2026-11-10';
+var PARA_AUDIO_ENABLED = false;   // 预习原文阶段为 false：不注入朗读按钮，避免点开 404
+var paraAudioEl = null, paraPlayingBtn = null;
+function stopParaAudio(){
+  if(paraAudioEl){ paraAudioEl.pause(); try{paraAudioEl.currentTime = 0;}catch(e){} }
+  if(paraPlayingBtn){ paraPlayingBtn.classList.remove('playing'); paraPlayingBtn = null; }
+}
+function toggleParaAudio(btn, n){
+  if(paraPlayingBtn === btn){ stopParaAudio(); return; }
+  stopParaAudio();
+  if(!paraAudioEl) paraAudioEl = new Audio();
+  paraAudioEl.src = PARA_AUDIO_BASE + '/uk-p' + n + '.m4a';
+  paraAudioEl.onended = stopParaAudio;
+  paraAudioEl.onerror = function(){
+    stopParaAudio(); btn.classList.add('error'); btn.title = '本段音频未生成';
+  };
+  paraAudioEl.play().catch(function(){});
+  paraPlayingBtn = btn; btn.classList.add('playing');
+}
+(function initParaAudio(){
+  if(!PARA_AUDIO_ENABLED) return;
+  var SVG = '<svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8" '
+    + 'stroke-linecap="round" stroke-linejoin="round" aria-hidden="true">'
+    + '<path d="M11 5 L6.5 9 H3.5 V15 H6.5 L11 19 Z"/>'
+    + '<path class="pa-w1" d="M14.8 9.4 A4 4 0 0 1 14.8 14.6"/>'
+    + '<path class="pa-w2" d="M17.4 7 A7.6 7.6 0 0 1 17.4 17"/></svg>';
+  document.querySelectorAll('section.paragraph').forEach(function(sec){
+    var m = (sec.id || '').match(/^p(\d+)$/);
+    if(!m) return;
+    var label = sec.querySelector('.p-label');
+    if(!label || label.querySelector('.p-audio')) return;
+    label.innerHTML = '<span class="p-label-text">' + label.innerHTML + '</span>';
+    var btn = document.createElement('button');
+    btn.className = 'p-audio'; btn.type = 'button';
+    btn.setAttribute('aria-label', '朗读本段'); btn.title = '朗读本段（英音）';
+    btn.innerHTML = SVG;
+    btn.addEventListener('click', function(){ toggleParaAudio(btn, m[1]); });
+    label.appendChild(btn);
+  });
+})();
+/* ===== 标题朗读 + 连续播放 para-audio-title-v2 ===== */
+var paChain = false;
+try{ paChain = localStorage.getItem('pa-chain') === '1'; }catch(e){}
+var paOrder = [], paCur = -1, paPre = null;
+
+function paSrcOf(btn){
+  var sec = btn.closest('section');
+  var m = sec && (sec.id || '').match(/^p(\d+)$/);
+  return PARA_AUDIO_BASE + (m ? '/uk-p' + m[1] : '/uk-title') + '.m4a';
+}
+function paPreload(i){
+  var nxt = paOrder[i + 1];
+  if(!nxt) return;
+  if(!paPre) paPre = new Audio();
+  paPre.preload = 'auto';
+  paPre.src = paSrcOf(nxt);
+}
+function paAttachWatch(){
+  if(paraAudioEl && !paraAudioEl.__paWatch){
+    paraAudioEl.__paWatch = 1;
+    paraAudioEl.addEventListener('ended', function(){
+      if(!paChain || paCur < 0) return;
+      var nxt = paOrder[paCur + 1];
+      if(nxt) nxt.click();          // 复用按钮点击：状态/动画/滚动全部走同一入口
+    });
+  }
+}
+function toggleTitleAudio(btn){
+  if(paraPlayingBtn === btn){ stopParaAudio(); return; }
+  stopParaAudio();
+  if(!paraAudioEl) paraAudioEl = new Audio();
+  paraAudioEl.src = PARA_AUDIO_BASE + '/uk-title.m4a';
+  paraAudioEl.onended = stopParaAudio;
+  paraAudioEl.onerror = function(){
+    stopParaAudio(); btn.classList.add('error'); btn.title = '标题音频未生成';
+  };
+  paraAudioEl.play().catch(function(){});
+  paraPlayingBtn = btn; btn.classList.add('playing');
+}
+(function initTitleAudioV2(){
+  if(!PARA_AUDIO_ENABLED) return;
+  var sec = document.getElementById('p-headline');
+  if(!sec) return;
+  var label = sec.querySelector('.p-label');
+  if(!label) return;
+  var SVG = '<svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8" '
+    + 'stroke-linecap="round" stroke-linejoin="round" aria-hidden="true">'
+    + '<path d="M11 5 L6.5 9 H3.5 V15 H6.5 L11 19 Z"/>'
+    + '<path class="pa-w1" d="M14.8 9.4 A4 4 0 0 1 14.8 14.6"/>'
+    + '<path class="pa-w2" d="M17.4 7 A7.6 7.6 0 0 1 17.4 17"/></svg>';
+  var titleBtn;
+  if(label.querySelector('.p-audio')){          // v1 已注入过喇叭，直接复用
+    titleBtn = label.querySelector('.p-audio');
+  }else{
+    label.innerHTML = '<span class="p-label-text">' + label.innerHTML + '</span>';
+    titleBtn = document.createElement('button');
+    titleBtn.className = 'p-audio'; titleBtn.type = 'button';
+    titleBtn.setAttribute('aria-label', '朗读标题'); titleBtn.title = '朗读标题（英音）';
+    titleBtn.innerHTML = SVG;
+    titleBtn.addEventListener('click', function(){ toggleTitleAudio(titleBtn); });
+    label.appendChild(titleBtn);
+  }
+  // 「听全文」开关（放在标题喇叭右侧）
+  var loop = document.createElement('button');
+  loop.className = 'pa-loop' + (paChain ? ' on' : '');
+  loop.type = 'button'; loop.textContent = '听全文';
+  loop.title = '听全文：从当前位置按顺序播完整篇';
+  loop.setAttribute('aria-pressed', String(paChain));
+  loop.addEventListener('click', function(){
+    paChain = !paChain;
+    loop.classList.toggle('on', paChain);
+    loop.setAttribute('aria-pressed', String(paChain));
+    try{ localStorage.setItem('pa-chain', paChain ? '1' : '0'); }catch(e){}
+  });
+  label.appendChild(loop);
+
+  // 播放序列：标题 → 各段（DOM 顺序；排除标题区自身——它的 class 也含 paragraph）
+  paOrder = [titleBtn];
+  document.querySelectorAll('section.paragraph').forEach(function(s2){
+    if(!/^p\d+$/.test(s2.id || '')) return;
+    var b = s2.querySelector('.p-audio');
+    if(b) paOrder.push(b);
+  });
+
+  // 捕获阶段监听任意喇叭点击：记录听全文起点 / 滚动跟随 / 预载下一段
+  document.addEventListener('click', function(e){
+    var b = e.target.closest ? e.target.closest('.p-audio') : null;
+    if(!b) return;
+    paCur = paOrder.indexOf(b);
+    setTimeout(paAttachWatch, 0);               // paraAudioEl 可能刚由 v3 创建
+    if(paChain){
+      var s2 = b.closest('section');
+      if(s2 && s2.scrollIntoView) s2.scrollIntoView({behavior:'smooth', block:'center'});
+      paPreload(paCur);
+    }
+  }, true);
+})();
+</script>
+</body>
+</html>

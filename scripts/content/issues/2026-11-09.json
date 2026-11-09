@@ -9,5 +9,158 @@
  "headline_en": "A bank collapse exposes the dark side of Latin America’s star economy|Ueno Bank’s seizure has toppled Paraguay’s president and tarnished its glossy pitch to investors",
  "headline_zh": "一家银行塌了，把拉美这位“明星优等生”一直背着光的那一面，掀到了台前",
  "sources_note": "依据英国《金融时报》（Financial Times）2026-11-09 报道。",
- "marks": {}
+ "marks": {
+  "2": [
+   [
+    "smooth-talking",
+    "smooth-talking"
+   ],
+   [
+    "unravel",
+    "unravelled"
+   ],
+   [
+    "seize control of",
+    "seized control of"
+   ],
+   [
+    "flashy",
+    "flashy"
+   ],
+   [
+    "insolvent",
+    "insolvent"
+   ]
+  ],
+  "3": [
+   [
+    "impeachment",
+    "impeachment"
+   ],
+   [
+    "proceedings",
+    "proceedings"
+   ],
+   [
+    "holding company",
+    "holding company"
+   ],
+   [
+    "install",
+    "installed"
+   ],
+   [
+    "entrust sb with sth",
+    "entrusted the lender with"
+   ],
+   [
+    "ouster",
+    "ouster"
+   ]
+  ],
+  "4": [
+   [
+    "episode",
+    "episode"
+   ],
+   [
+    "technocratic",
+    "technocratic"
+   ],
+   [
+    "haven",
+    "haven"
+   ],
+   [
+    "the same as always",
+    "the same as always"
+   ],
+   [
+    "maintain a vigil",
+    "maintaining a vigil"
+   ]
+  ],
+  "7": [
+   [
+    "substantial",
+    "substantial"
+   ],
+   [
+    "entities",
+    "entities"
+   ],
+   [
+    "prominent",
+    "prominent"
+   ],
+   [
+    "fintech",
+    "fintech"
+   ],
+   [
+    "wage a campaign",
+    "waged"
+   ],
+   [
+    "aggressive",
+    "aggressive"
+   ],
+   [
+    "bring on",
+    "bring on"
+   ],
+   [
+    "sponsor",
+    "sponsoring"
+   ]
+  ],
+  "8": [
+   [
+    "take in",
+    "took in"
+   ],
+   [
+    "heavily informal",
+    "heavily informal"
+   ],
+   [
+    "unicorn",
+    "unicorn"
+   ],
+   [
+    "listing",
+    "listing"
+   ],
+   [
+    "window dressing",
+    "window dressing"
+   ],
+   [
+    "sham",
+    "sham"
+   ]
+  ],
+  "9": [
+   [
+    "wind down",
+    "wind down"
+   ],
+   [
+    "raise hopes",
+    "raised hopes"
+   ],
+   [
+    "in the wake of",
+    "in the wake of"
+   ],
+   [
+    "fiasco",
+    "fiasco"
+   ]
+  ]
+ },
+ "mindmap": {
+  "template": "scripts/content/2026-10-31.json",
+  "aria": "巴拉圭银行暴雷掀开明星经济体暗面思维导图"
+ }
 }

@@ -7,70 +7,820 @@
  "read_minutes": 15,
  "nav_hint": "Paraguay bank collapse topples president",
  "headline": {
-  "en_html": "<span>A bank collapse exposes the dark side of Latin America’s star economy</span><span class=\"headline-sub\">Ueno Bank’s seizure has toppled Paraguay’s president and tarnished its glossy pitch to investors</span>",
+  "en_html": "<span>A bank collapse <mark class=\"voc\">exposes</mark> the <mark class=\"voc\">dark side</mark> of Latin America’s <mark class=\"voc\">star economy</mark></span><span class=\"headline-sub\">Ueno Bank’s <mark class=\"voc\">seizure</mark> has <mark class=\"voc\">toppled</mark> Paraguay’s president and <mark class=\"voc\">tarnished</mark> its <mark class=\"voc\">glossy</mark> <mark class=\"voc\">pitch</mark> to investors</span>",
   "zh": "一家银行塌了，把拉美这位“明星优等生”一直背着光的那一面，掀到了台前",
-  "notes": []
+  "notes": [
+   {
+    "w": "expose",
+    "ipa": "/ɪkˈspəʊz/",
+    "pos": "v.",
+    "en": "expose (v.) means to make visible something that was previously hidden or covered",
+    "zh": "\"把盖着的东西摆出来\"（拉丁语exponere：ex- 向外+ ponere 放置），新闻语境核心义为揭露、掀开、暴露",
+    "ctx": "",
+    "ex1": "The audit exposed gaps that had been quietly tolerated for years. 那份审计报告揭出了多年来被默许的漏洞。",
+    "ex2": "A single leaked memo exposed the scale of the lending to related firms. 一份外泄的备忘录，就把关联放贷的规模摊在了台面上。"
+   },
+   {
+    "w": "dark side",
+    "ipa": "/dɑːk saɪd/",
+    "pos": "n. phr.",
+    "en": "the dark side (n. phr.) means the hidden, less admirable aspect of a person or thing",
+    "zh": "\"背光的那一面\"（借月球背面：永远转过去、从地球上看不见），评论语境核心义为阴暗面、不给人看的那一面",
+    "ctx": "",
+    "ex1": "The documentary set out to show the dark side of the country's property boom. 那部纪录片要拍的，正是这个国家地产热的背面。",
+    "ex2": "Every glossy growth story has a dark side that the brochures leave out. 每一个光鲜的增长故事，都有一面是招商手册不会写的。"
+   },
+   {
+    "w": "star economy",
+    "ipa": "/stɑː(r) ɪˈkɒnəmi/",
+    "pos": "n. phr.",
+    "en": "a star economy (n. phr.) means an economy widely praised as an outstanding performer and held up as a model",
+    "zh": "\"明星\"（古英语steorra），财经语境核心义为明星经济体、被当成样板的优等生",
+    "ctx": "",
+    "ex1": "For a decade it was the star economy of the region, cited in every investor deck. 十年来它一直是本地区的明星经济体，每一份投资人材料都要引它。",
+    "ex2": "Being labelled a star economy makes the eventual stumble far more painful. 被贴上\"明星经济体\"的标签，日后摔那一跤就格外疼。"
+   },
+   {
+    "w": "seizure",
+    "ipa": "/ˈsiːʒə(r)/",
+    "pos": "n.",
+    "en": "seizure (n.) means the act of officially taking control of property or an organisation by legal authority",
+    "zh": "\"一把抓住\"（古法语saisir 抓住、占据），监管语境核心义为查封、接管、扣押",
+    "ctx": "",
+    "ex1": "The seizure of the bank was announced before dawn on Tuesday. 银行的接管公告在周二天亮前就发了出来。",
+    "ex2": "Depositors learned of the seizure when their app stopped showing a balance. 储户得知查封，是因为App 上连余额都不显示了。"
+   },
+   {
+    "w": "topple",
+    "ipa": "/ˈtɒpl/",
+    "pos": "v.",
+    "en": "topple (v.) means to make someone or something fall over, especially from a position of power",
+    "zh": "\"头重脚轻地翻倒\"（与top 同源，本义\"顶端先着地\"），政治语境核心义为掀翻、拉下台",
+    "ctx": "",
+    "ex1": "A banking scandal toppled a president who had seemed untouchable months earlier. 一桩银行丑闻，掀翻了几个月前还看似动不得的总统。",
+    "ex2": "The vote toppled the leadership but left the underlying network intact. 那场表决把领导层掀了，底下的关系网却纹丝没动。"
+   },
+   {
+    "w": "tarnish",
+    "ipa": "/ˈtɑːnɪʃ/",
+    "pos": "v.",
+    "en": "tarnish (v.) means to make a shiny metal lose its brightness, or to damage a good reputation",
+    "zh": "\"金属氧化发乌\"（古法语ternir，使暗淡），声誉语境核心义为蒙尘、失色、玷污",
+    "ctx": "",
+    "ex1": "The allegations tarnished a reputation built over three decades. 那些指控，让经营了三十年的名声蒙了尘。",
+    "ex2": "A single week can tarnish a pitch that took years to polish. 打磨了好几年的一套说辞，一个星期就能让它发乌。"
+   },
+   {
+    "w": "glossy",
+    "ipa": "/ˈɡlɒsi/",
+    "pos": "adj.",
+    "en": "glossy (adj.) means smooth and shiny on the surface, or attractively produced but lacking substance",
+    "zh": "\"上过一层光的\"（希腊语glōssa 本义\"舌头\"，后转指光滑的表面、光泽），营销语境核心义为光鲜的、印得漂漂亮亮的",
+    "ctx": "",
+    "ex1": "The glossy brochure said nothing about who actually controlled the lender. 那本印得锃亮的宣传册，只字没提究竟谁控制着这家放贷机构。",
+    "ex2": "Investors were handed glossy slides while the warnings piled up in a drawer. 投资人手里拿到的是光鲜的幻灯片，预警函却在抽屉里越摞越高。"
+   },
+   {
+    "w": "pitch",
+    "ipa": "/pɪtʃ/",
+    "pos": "n.",
+    "en": "a pitch (n.) means a persuasive talk or presentation designed to sell an idea, product or place",
+    "zh": "\"把话掷过去\"（中古英语pichen 投、扎），商业语境核心义为推销话术、招商说辞、游说",
+    "ctx": "",
+    "ex1": "His pitch to foreign funds rested on stability, cheap energy and a young workforce. 他对外资的那套说辞，靠的是稳定、廉价能源和年轻劳动力。",
+    "ex2": "After the crash, the same pitch suddenly sounded like a warning. 崩盘之后，同一套说辞听着忽然像一句警示。"
+   }
+  ]
  },
  "paragraphs": [
   {
-   "en_html": "The stunning downfall of Paraguay’s president and collapse of its most popular bank have exposed cracks in a free-market success story hailed by investors and the global conservative movement in recent years.",
-   "zh": "",
-   "notes": []
+   "en_html": "The <mark class=\"voc\">stunning</mark> <mark class=\"voc\">downfall</mark> of Paraguay’s president and collapse of its most popular bank have exposed <mark class=\"voc\">cracks</mark> in a <mark class=\"voc\">free-market</mark> success story <mark class=\"voc\">hailed</mark> by investors and <mark class=\"voc\">the global conservative movement</mark> in recent years.",
+   "zh": "总统骤然垮台，国民银行轰然坍塌——这两下，把那个近些年被投资人与全球保守派一路捧为\"自由市场样板\"的成功故事，戳出了一道道细裂。",
+   "notes": [
+    {
+     "w": "stunning",
+     "ipa": "/ˈstʌnɪŋ/",
+     "pos": "adj.",
+     "en": "stunning (adj.) means extremely surprising or shocking, almost impossible to take in at once",
+     "zh": "\"被打懵\"（古英语stunian 撞、震，与stun 电击同根），新闻语境核心义为令人错愕的、让人一下愣住的",
+     "ctx": "",
+     "ex1": "The speed of the collapse was stunning even to seasoned analysts. 连见惯风浪的分析师，都被这垮台的速度惊了一下。",
+     "ex2": "It was a stunning reversal for a leader who had just been courted abroad. 对一位不久前还在国外被争相拉拢的领导人来说，这个反转太让人错愕。"
+    },
+    {
+     "w": "downfall",
+     "ipa": "/ˈdaʊnfɔːl/",
+     "pos": "n.",
+     "en": "downfall (n.) means a sudden loss of power, position or success",
+     "zh": "\"朝下落\"（down + fall 叠义强调），政治语境核心义为垮台、身败名裂",
+     "ctx": "",
+     "ex1": "His downfall was triggered not by an election but by a bank run. 把他拉下台的不是一场选举，而是一家银行的挤兑。",
+     "ex2": "The inquiry traced the downfall back to a single appointment made three years earlier. 调查把这场垮台，一路追回到三年前的一次人事任命。"
+    },
+    {
+     "w": "cracks",
+     "ipa": "/kræks/",
+     "pos": "n. pl.",
+     "en": "cracks (n. pl.) means thin lines on a surface showing that something is beginning to break",
+     "zh": "\"裂开时那一声脆响\"（中古英语craken，拟声），评论语境核心义为裂缝、裂痕",
+     "ctx": "",
+     "ex1": "The data still looked fine; the cracks were in the story told about the data. 数据依旧好看，裂的是围绕数据讲的那套故事。",
+     "ex2": "Regulators had been papering over the cracks for months before the seizure. 查封之前的几个月里，监管一直在把裂缝一层层糊上。"
+    },
+    {
+     "w": "free-market",
+     "ipa": "/ˌfriː ˈmɑːkɪt/",
+     "pos": "adj.",
+     "en": "free-market (adj.) means based on private enterprise and minimal government intervention in the economy",
+     "zh": "\"自由的市场\"（连字符复合形容词），政治经济语境核心义为自由市场的、小政府大市场的",
+     "ctx": "",
+     "ex1": "The country was frequently cited as a free-market success story in the region. 这个国家常被引用为本地区自由市场的成功样板。",
+     "ex2": "The scandal raised awkward questions about its free-market credentials. 这场丑闻，让它的\"自由市场\"招牌变得有点不好接话。"
+    },
+    {
+     "w": "hail",
+     "ipa": "/heɪl/",
+     "pos": "v.",
+     "en": "hail (v., often passive) means to praise someone or something publicly and enthusiastically",
+     "zh": "\"高声呼喊致意\"（古北欧语heill 安康，本为问候语），传媒语境核心义为公开盛赞、誉为",
+     "ctx": "",
+     "ex1": "The reform was hailed by foreign investors as a model for the region. 那项改革被外国投资人誉为本地区的样板。",
+     "ex2": "A policy hailed as historic can look very different three years on. 一项当年被誉为\"历史性\"的政策，三年后看可能完全是另一副样子。"
+    },
+    {
+     "w": "the global conservative movement",
+     "ipa": "/ðə ˈɡləʊbl kənˈsɜːvətɪv ˈmuːvmənt/",
+     "pos": "n.",
+     "en": "the global conservative movement (n. phr.) refers to like-minded political groups and figures in different countries who promote similar right- of-centre ideas",
+     "zh": "\"跨越国界的保守派阵营\"，政治评论语境核心义为全球保守派、国际保守主义阵营",
+     "ctx": "",
+     "ex1": "For several years the country was a darling of the global conservative movement.有那么几年，这个国家是国际保守派阵营眼里的宠儿。",
+     "ex2": "Being held up as an example abroad raises the stakes of any stumble at home.在国外被当成样板举着，国内摔一跤的代价就格外大。"
+    }
+   ]
   },
   {
-   "en_html": "The presidency of Santiago Peña, a smooth-talking former IMF economist, unravelled in less than 72 hours this week after regulators seized control of Ueno Bank, a flashy digital lender used by more than half of Paraguayan adults that had become insolvent.",
-   "zh": "",
-   "notes": []
+   "en_html": "The presidency of Santiago Peña, a <mark class=\"voc\">smooth-talking</mark> former IMF economist, <mark class=\"voc\">unravelled</mark> in less than 72 hours this week after regulators <mark class=\"voc\">seized control of</mark> Ueno Bank, a <mark class=\"voc\">flashy</mark> digital lender used by more than half of Paraguayan adults that had become <mark class=\"voc\">insolvent</mark>.",
+   "zh": "嘴皮子极溜的前IMF经济学家圣地亚哥·培尼亚，其总统任期本周不到72小时便层层脱线——只因监管一把收走了韦诺银行：那家扎眼的数字银行，一半以上巴拉圭成年人都在用，却早已资不抵债。",
+   "notes": [
+    {
+     "w": "smooth-talking",
+     "ipa": "/ˌsmuːð ˈtɔːkɪŋ/",
+     "pos": "adj.",
+     "en": "smooth-talking (adj.) means persuasive and fluent in a way that makes people suspicious",
+     "zh": "\"话说得顺滑\"（形容词+ 现在分词构成的复合形容词），人物描写语境核心义为能说会道的、嘴皮子利索（略带贬义）",
+     "ctx": "",
+     "ex1": "The smooth-talking executive could sell any projection to a room of investors. 那位能说会道的高管，能把任何一份预测都卖给出席的投资人。",
+     "ex2": "Voters later wondered whether they had been swayed by a smooth-talking outsider. 选民后来都在想，当初是不是被一张嘴利索的外来面孔说动了。"
+    },
+    {
+     "w": "unravel",
+     "ipa": "/ʌnˈrævl/",
+     "pos": "v.",
+     "en": "unravel (v.) means to come apart gradually, or to begin to fail after being under strain",
+     "zh": "\"把织好的线拆开\"（un- 反向+ ravel 缠绕），叙事语境核心义为脱线、散架、一点点垮",
+     "ctx": "",
+     "ex1": "The coalition began to unravel within hours of the bank's seizure. 银行被接管后不出几小时，执政联盟就开始散架。",
+     "ex2": "One loose thread was enough to unravel three years of careful image- building.一根线头，就够把三年苦心经营的形象整件拆掉。"
+    },
+    {
+     "w": "seize control of",
+     "ipa": "/siːz kənˈtrəʊl əv/",
+     "pos": "phr. v.",
+     "en": "seize control of (phr. v.) means to take authority over something suddenly and officially, usually by force of law",
+     "zh": "\"把控制权一把收走\"，监管语境核心义为接管、收归监管",
+     "ctx": "",
+     "ex1": "Regulators seized control of the lender before the markets opened on Tuesday. 周二开市前，监管就接管了这家放贷机构。",
+     "ex2": "The same authority that licensed the bank eventually seized control of it. 当初给这家银行发牌照的，和最后收走它的，是同一个部门。"
+    },
+    {
+     "w": "flashy",
+     "ipa": "/ˈflæʃi/",
+     "pos": "adj.",
+     "en": "flashy (adj.) means showy and bright in a way intended to attract attention, often suggesting a lack of substance",
+     "zh": "\"一闪一闪的\"（flash 闪光+ -y），描写语境核心义为花哨扎眼、晃眼的（略带贬义）",
+     "ctx": "",
+     "ex1": "The flashy branch design was meant to make a young brand feel instantly trustworthy. 那套晃眼的网点设计，是要让一个新牌子立刻显得可信。",
+     "ex2": "Critics later called the sponsorships flashy distractions from a thin balance sheet. 事后评论说，那些赞助不过是用晃眼的热闹，遮住单薄的资产负债表。"
+    },
+    {
+     "w": "insolvent",
+     "ipa": "/ɪnˈsɒlvənt/",
+     "pos": "adj.",
+     "en": "insolvent (adj.) means unable to pay debts when they fall due; liabilities exceed assets",
+     "zh": "\"解不开（债）了\"（in- 不+ 拉丁语solvere 松开、清偿，solution、solve、 dissolve 同根），会计语境核心义为资不抵债、无偿付能力",
+     "ctx": "",
+     "ex1": "The bank was declared insolvent after its accounts were restated under regulatory rules. 按监管规则重列账目之后，这家银行被认定资不抵债。",
+     "ex2": "A firm can be profitable on paper and still insolvent when its debts fall due. 一家公司账面可以盈利，债到期还不上时照样是资不抵债。"
+    }
+   ]
   },
   {
-   "en_html": "Lawmakers quickly launched impeachment proceedings against Peña, a former investor in Ueno’s holding company who installed its boss to lead Paraguay’s central bank and entrusted the lender with hundreds of millions of dollars of public money. The senate approved Peña’s ouster on Friday.",
-   "zh": "",
-   "notes": []
+   "en_html": "Lawmakers quickly launched <mark class=\"voc\">impeachment</mark> <mark class=\"voc\">proceedings</mark> against Peña, a former investor in Ueno’s <mark class=\"voc\">holding company</mark> who <mark class=\"voc\">installed</mark> its boss to lead Paraguay’s central bank and <mark class=\"voc\">entrusted the lender with</mark> hundreds of millions of dollars of public money. The senate approved Peña’s <mark class=\"voc\">ouster</mark> on Friday.",
+   "zh": "议会迅即启动对培尼亚的弹劾程序：此人曾持股于韦诺银行控股公司，既将其旧日掌舵人安插为央行行长，又将数以亿计的公帑托付该行。周五，参议院核准罢免。",
+   "notes": [
+    {
+     "w": "impeachment",
+     "ipa": "/ɪmˈpiːtʃmənt/",
+     "pos": "n.",
+     "en": "impeachment (n.) means the formal process by which a legislature charges and may remove a senior official from office",
+     "zh": "\"被绊住脚\"（拉丁语impedicare：im- 使+ pedica 脚镣，与impede 同根），宪政语境核心义为弹劾（国会审判，不是刑事审判）",
+     "ctx": "",
+     "ex1": "Impeachment removes an official from office; it does not decide criminal guilt. 弹劾罢的是官职，并不判定刑事责任。",
+     "ex2": "The impeachment trial went ahead even after the president offered to resign. 即便总统提出辞职，弹劾审判照样往下走。"
+    },
+    {
+     "w": "proceedings",
+     "ipa": "/prəˈsiːdɪŋz/",
+     "pos": "n. pl.",
+     "en": "proceedings (n. pl.) means the whole series of formal steps and actions in a legal or official case",
+     "zh": "\"一步步往前走\"（procedere：pro- 向前+ cedere 走），法律语境核心义为一整套程序、诉讼／议事过程",
+     "ctx": "",
+     "ex1": "The proceedings moved from committee to a full vote in under a week. 整套程序从委员会到全院表决，用了不到一周。",
+     "ex2": "Criminal proceedings are separate from the parliamentary ones. 刑事程序与国会那套程序是两条线。"
+    },
+    {
+     "w": "holding company",
+     "ipa": "/ˈhəʊldɪŋ ˈkʌmpəni/",
+     "pos": "n. phr.",
+     "en": "a holding company (n. phr.) means a company created to own shares in other companies rather than to trade or produce goods itself",
+     "zh": "\"持股的公司\"，公司金融语境核心义为控股公司、母公司壳",
+     "ctx": "",
+     "ex1": "He held a stake in the holding company rather than in the bank itself. 他持的是控股公司的股份，不是银行本身的。",
+     "ex2": "The holding company sat above a web of subsidiaries and related entities. 控股公司底下，是一整张子公司与关联实体的网。"
+    },
+    {
+     "w": "install",
+     "ipa": "/ɪnˈstɔːl/",
+     "pos": "v.",
+     "en": "install (v.) means to place someone formally in an official position",
+     "zh": "\"把人安放进位子\"（中古拉丁语installare：in- 入+ stallum 席位，原指教堂里给教士安排座位），人事语境核心义为安插、任命到位",
+     "ctx": "",
+     "ex1": "He installed a former executive of the bank as head of the supervisor. 他把这家银行的前高管，安到了监管者的位子上。",
+     "ex2": "The appointment was criticised as a textbook revolving door. 那次任命被批为教科书式的\"旋转门\"。"
+    },
+    {
+     "w": "entrust sb with sth",
+     "ipa": "/ɪnˈtrʌst ˈsʌmbədi wɪð ˈsʌmθɪŋ/",
+     "pos": "v. phr.",
+     "en": "entrust somebody with something means to give them responsibility for something valuable because you trust them",
+     "zh": "\"把某物托付给某人\"（en- 使+ trust 信任），财政语境核心义为托付、把……交到某人手里",
+     "ctx": "",
+     "ex1": "The state entrusted the lender with a sizeable share of the pension fund. 国家把养老基金里相当一块，托付给了这家放贷机构。",
+     "ex2": "Voters had entrusted him with the savings of nearly three million people. 选民曾把近三百万人的积蓄，交到他手上。"
+    },
+    {
+     "w": "ouster",
+     "ipa": "/ˈaʊstə(r)/",
+     "pos": "n.",
+     "en": "ouster (n.) means the removal of someone from a position of power, especially against their will",
+     "zh": "\"把人推出去\"（古法语oster 移走、剥夺），政治语境核心义为罢免、被赶下台",
+     "ctx": "",
+     "ex1": "The senate approved the ouster by a unanimous vote on Friday. 参议院周五一致通过罢免。",
+     "ex2": "An ouster ends a presidency; it does not end the legal proceedings. 罢免结束的是任期，不是司法程序。"
+    }
+   ]
   },
   {
-   "en_html": "The episode, which has left 2.9mn people unable to access their savings, has shocked Paraguayans after their technocratic president spent three years in office promising to build a “modern” state that might one day join the OECD, and travelling the world to promote Paraguay as a haven for foreign capital. “We thought we were improving, but actually we’re the same as always,” said Elizabeth Gonzalez, 28, a barista in a café in downtown Asunción, a few blocks from where hundreds of protesters are maintaining a vigil after larger demonstrations earlier this week.",
-   "zh": "",
-   "notes": []
+   "en_html": "The <mark class=\"voc\">episode</mark>, which has left 2.9mn people unable to access their savings, has shocked Paraguayans after their <mark class=\"voc\">technocratic</mark> president spent three years in office promising to build a “modern” state that might one day join the OECD, and travelling the world to promote Paraguay as a <mark class=\"voc\">haven</mark> for foreign capital. “We thought we were improving, but actually we’re <mark class=\"voc\">the same as always</mark>,” said Elizabeth Gonzalez, 28, a barista in a café in downtown Asunción, a few blocks from where hundreds of protesters are <mark class=\"voc\">maintaining a vigil</mark> after larger demonstrations earlier this week.",
+   "zh": "这一桩风波，已令290万人取不出积蓄，举国为之震愕——毕竟他们那位技术官僚总统在任三年，一面许诺要建成一个\"现代化\"国家、有朝一日或可跻身经合组织，一面满世界奔走，把巴拉圭推介为外资的避风港。\"我们原以为日子在往好里走，敢情还是老一套，\"28岁的咖啡师伊丽莎白·冈萨雷斯说。她供职的咖啡馆在亚松森市中心，隔几个街区，数百名抗议者仍在静守——本周早些时候，那里曾有过规模更大的示威。",
+   "notes": [
+    {
+     "w": "episode",
+     "ipa": "/ˈepɪsəʊd/",
+     "pos": "n.",
+     "en": "an episode (n.) means one event or incident in a longer sequence of events",
+     "zh": "\"插进来的那一段\"（希腊语epeisodion，原指古希腊悲剧中两段合唱之间插入的一段戏），叙事语境核心义为一集、一段插曲",
+     "ctx": "",
+     "ex1": "The press called it an episode; depositors called it the month they could not pay rent. 媒体管它叫\"一集\"，储户管它叫\"付不起房租的那个月\"。",
+     "ex2": "That episode was later read as the opening chapter of a much longer crisis. 那一段后来被读成一场更长危机的开篇。"
+    },
+    {
+     "w": "technocratic",
+     "ipa": "/ˌteknəˈkrætɪk/",
+     "pos": "adj.",
+     "en": "technocratic (adj.) means relating to government by technical experts rather than by career politicians",
+     "zh": "\"技术专家治国\"（希腊语technē 技艺+ kratos 权力，与technology、-cracy 同根），政治语境核心义为技术官僚型的、专家治国的",
+     "ctx": "",
+     "ex1": "The technocratic government sold itself on competence rather than charisma. 这届技术官僚政府卖的是\"能干\"，不是个人魅力。",
+     "ex2": "Voters had trusted a technocrat to keep their savings safe. 选民原本信的是，一个懂行的技术官僚会守住他们的积蓄。"
+    },
+    {
+     "w": "haven",
+     "ipa": "/ˈheɪvn/",
+     "pos": "n.",
+     "en": "a haven (n.) means a place of safety, shelter or favourable conditions",
+     "zh": "\"避风的港湾\"（古英语hæfen 港、河口，与harbour 近亲），投资语境核心义为避风港、安全去处",
+     "ctx": "这三个字要连着读——a haven for foreign capital，给外资的避风港。作者挑的不是\"钱能赚多少\"的词，是\"钱会安全\"的词。三年、满世界、promising 和travelling 两个现在分词一路铺开，讲的就是一句：把钱放我这儿，稳。而这一段第一句是什么？290 万人，取不出自己的存款。他给外面的钱承诺了一个避风港，里面的人连余额都看不见",
+     "ex1": "For three years the country was marketed as a haven for foreign capital. 三年来，这个国家一直被包装成外资的避风港。",
+     "ex2": "A haven for investors can still be a place where locals cannot reach their money. 对外资是避风港的地方，本地人也可能取不到自己的钱。"
+    },
+    {
+     "w": "the same as always",
+     "ipa": "/ðə seɪm əz ˈɔːlweɪz/",
+     "pos": "adj. phr.",
+     "en": "the same as always (adj. phr.) means unchanged from how things have always been",
+     "zh": "\"和向来一样\"，口语语境核心义为还是老样子、一直都这样",
+     "ctx": "",
+     "ex1": "\"We thought we were improving, but actually we're the same as always.\"\"我们以为在变好，其实还是老样子。\"",
+     "ex2": "One tense shift carried the whole sentence: were improving, we're the same. 一个时态的切换就撑起了整句：曾经在变好，如今还是原样。"
+    },
+    {
+     "w": "maintain a vigil",
+     "ipa": "/meɪnˈteɪn ə ˈvɪdʒɪl/",
+     "pos": "v. phr.",
+     "en": "maintain a vigil (v. phr.) means to keep a quiet, continuous presence at a place, often through the night, as a form of protest or witness",
+     "zh": "\"守夜\"（拉丁语vigilia 守夜、vigilare 保持清醒，与vigilant 警惕同根），社会语境核心义为持续静守、通宵守着不走",
+     "ctx": "",
+     "ex1": "Hundreds maintained a vigil a few blocks from the café. 数百人就在离咖啡馆几个街区的地方静守着。",
+     "ex2": "The demonstrations faded, but the vigil continued through the week. 示威散了，静守却整周没断。"
+    }
+   ]
   },
   {
-   "en_html": "Paraguay has emerged as an oasis of consistent GDP growth and macroeconomic stability within Latin America over the past decade. Peña also secured the country’s first investment-grade credit ratings. But the rapid implosion of Peña’s government, analysts said, would draw attention to deep-rooted problems with corruption and clientelism that have marred Paraguay’s economic development story. “The underbelly of the success story has been an institutional landscape that is . . . captive to a very small number of groups and families,” said Mariano Machado, Americas principal at risk intelligence firm Verisk Maplecroft. “That’s much more visible now than it was at the start of this week.”",
-   "zh": "",
-   "notes": []
+   "en_html": "Paraguay has emerged as an <mark class=\"voc\">oasis</mark> of consistent GDP growth and <mark class=\"voc\">macroeconomic</mark> stability within Latin America over the past decade. Peña also secured the country’s first <mark class=\"voc\">investment-grade</mark> <mark class=\"voc\">credit ratings</mark>. But the rapid <mark class=\"voc\">implosion</mark> of Peña’s government, analysts said, would draw attention to <mark class=\"voc\">deep-rooted</mark> problems with corruption and <mark class=\"voc\">clientelism</mark> that have <mark class=\"voc\">mar</mark>red Paraguay’s economic development story. “The <mark class=\"voc\">underbelly</mark> of the success story has been an institutional landscape that is . . . <mark class=\"voc\">captive to</mark> a very small number of groups and families,” said Mariano Machado, Americas principal at risk intelligence firm Verisk Maplecroft. “That’s much more visible now than it was at the start of this week.”",
+   "zh": "过去十年，巴拉圭在拉美渐次长成一块绿洲：增长连贯、宏观稳健。培尼亚又为这个国家挣来了史上首批投资级评级。然而分析师指出，其政府这场骤然内爆，将把目光引向根深蒂固的腐败与庇护主义——正是它们，早给巴拉圭的经济发展叙事留下了抹不掉的痕。\"这个成功故事的底下，始终是一片被极少数集团与家族攫住的制度地貌，\"风险情报公司VeriskMaplecroft美洲区负责人马里亚诺·马查多说，\"较之本周一，它如今清晰得多。\"",
+   "notes": [
+    {
+     "w": "oasis",
+     "ipa": "/əʊˈeɪsɪs/",
+     "pos": "n.",
+     "en": "an oasis (n.) means a fertile place with water in a desert, or figuratively a calm, favourable place amid surrounding trouble",
+     "zh": "\"沙漠里的绿洲\"（经希腊语、拉丁语转写自古埃及语wḥꜣt 洼地），财经评论语境核心义为绿洲、乱局里的一块稳地",
+     "ctx": "",
+     "ex1": "For a decade the country was described as an oasis of stability in a volatile region. 十年来，这个国家被说成动荡地区里的一块稳定绿洲。",
+     "ex2": "An oasis is defined as much by the desert around it as by its own water. 一块绿洲之所以是绿洲，一半靠自己的水，一半靠四周的沙。"
+    },
+    {
+     "w": "macroeconomic",
+     "ipa": "/ˌmækrəʊˌiːkəˈnɒmɪk/",
+     "pos": "adj.",
+     "en": "macroeconomic (adj.) means relating to the economy as a whole, such as growth, inflation and public finances",
+     "zh": "\"大尺度经济\"（希腊语makros 大+ oikonomia 家政／经济，与micro- 相对），财经语境核心义为宏观经济的",
+     "ctx": "",
+     "ex1": "Macroeconomic stability was real; institutional strength was another matter. 宏观稳定是真的，制度结不结实是另一回事。",
+     "ex2": "Investors watched the macro indicators and missed the governance warnings. 投资人盯着宏观指标，把治理那一栏的提醒漏掉了。"
+    },
+    {
+     "w": "investment-grade",
+     "ipa": "/ɪnˈvestmənt ɡreɪd/",
+     "pos": "adj.",
+     "en": "investment-grade (adj.) means having a credit rating high enough to be considered low-risk by institutional investors",
+     "zh": "\"够得上投资级别\"，债券语境核心义为投资级（信用评级的及格线）",
+     "ctx": "",
+     "ex1": "Crossing into investment grade opened the country's bonds to pension funds. 一跨进投资级，这个国家的债券就向养老基金打开了门。",
+     "ex2": "The grade measured the ability to repay; it did not measure who controlled the regulator. 评级量的是还得起钱，没量监管者归谁管。"
+    },
+    {
+     "w": "credit ratings",
+     "ipa": "/ˈkredɪt ˈreɪtɪŋz/",
+     "pos": "n. pl.",
+     "en": "credit ratings (n. pl.) means formal assessments by rating agencies of a borrower's ability to repay debt",
+     "zh": "\"信用评级\"（拉丁语creditum 相信、贷出），金融语境核心义为信用／主权评级",
+     "ctx": "",
+     "ex1": "The ratings were upgraded, but the reports still flagged weak governance. 评级升了，报告里却仍写着治理薄弱。",
+     "ex2": "A rating is a judgement about repayment, not a certificate of good institutions. 评级是对偿债能力的判断，不是一张制度优良的证书。"
+    },
+    {
+     "w": "implosion",
+     "ipa": "/ɪmˈpləʊʒən/",
+     "pos": "n.",
+     "en": "an implosion (n.) means a collapse inward, or a sudden failure caused from within",
+     "zh": "\"朝里塌\"（im- 向内+ 拉丁语plaudere 拍击构成的-plosion，与explosion 相对），评论语境核心义为内爆、从内部塌",
+     "ctx": "",
+     "ex1": "The government's implosion was driven by its own appointments, not by an outside shock. 这届政府的内爆是自己的人事安排造成的，不是外部冲击。",
+     "ex2": "From the outside the cabinet looked intact until the day it imploded. 从外面看，内阁一直好好的，直到塌下去那天。"
+    },
+    {
+     "w": "deep-rooted",
+     "ipa": "/ˌdiːp ˈruːtɪd/",
+     "pos": "adj.",
+     "en": "deep-rooted (adj.) means firmly established and very difficult to change",
+     "zh": "\"根扎得深\"（复合形容词，名词+ -ed），社会语境核心义为根深蒂固的",
+     "ctx": "",
+     "ex1": "The crisis exposed deep-rooted problems that no single election could fix. 这场危机露出的，是任何一次选举都修不掉的老根子。",
+     "ex2": "A three-day collapse pointed to an eighty-year habit. 三天的垮台，指的是一个八十年的习惯。"
+    },
+    {
+     "w": "clientelism",
+     "ipa": "/ˌklaɪənˈtelɪzəm/",
+     "pos": "n.",
+     "en": "clientelism (n.) means a political system in which jobs, contracts or public money are exchanged for loyalty and support",
+     "zh": "\"门客关系\"（拉丁语cliens 依附于贵族的门客，古罗马的庇护—效忠关系），政治学语境核心义为庇护主义",
+     "ctx": "",
+     "ex1": "Clientelism turns public jobs into a currency of political loyalty. 庇护主义把公职变成了兑换政治忠诚的货币。",
+     "ex2": "Analysts distinguished outright corruption from the quieter machinery of clientelism. 分析人士把明面上的腐败，和更安静的庇护机器分开讲。"
+    },
+    {
+     "w": "mar",
+     "ipa": "/mɑː(r)/",
+     "pos": "v.",
+     "en": "mar (v.) means to spoil or damage the appearance or quality of something, leaving a lasting mark",
+     "zh": "\"弄出一道痕\"（古英语merran 妨碍、损伤），评论语境核心义为留下瑕疵、玷污了……的记录",
+     "ctx": "",
+     "ex1": "Years of steady growth were marred by persistent governance concerns. 连年稳定增长的纪录上，一直留着治理问题的痕。",
+     "ex2": "What was marred was the story, not the growth figures themselves. 被弄脏的是那套说法，不是增长数字本身。"
+    },
+    {
+     "w": "underbelly",
+     "ipa": "/ˈʌndəbeli/",
+     "pos": "n.",
+     "en": "the underbelly (n.) means the soft underside of an animal, or figuratively the hidden, most vulnerable part of something",
+     "zh": "\"动物的下腹\"，评论语境核心义为软肋、平时看不见也最经不起一下的那面",
+     "ctx": "",
+     "ex1": "The scandal exposed the soft underbelly of a much-praised growth model. 这场丑闻，把那套备受称赞的增长模式最软的一面翻了出来。",
+     "ex2": "Every success story has an underbelly that the brochures never photograph. 每个成功故事都有一面，是宣传册从不拍的。"
+    },
+    {
+     "w": "captive to",
+     "ipa": "/ˈkæptɪv tə/",
+     "pos": "adj. phr.",
+     "en": "captive to (adj. phr.) means unable to act independently because another party controls or dominates you",
+     "zh": "\"被俘的\"（拉丁语captivus，capere 抓住，与capture、captive 同根），监管语境核心义为被攫住、动弹不得",
+     "ctx": "",
+     "ex1": "A regulator captive to the industry it oversees cannot be expected to police it. 一个被自己监管的行业攫住的监管者，指望不了它去执法。",
+     "ex2": "The warnings were on file; the problem was a supervisor that could not move. 预警都入档了，问题是那位动不了的看门人。"
+    }
+   ]
   },
   {
-   "en_html": "Paraguay has been ruled by the same party — the rightwing Colorados — for 75 of the last 80 years. Peña’s impeachment was largely the result of a rift with party president Horacio Cartes. Cartes picked Peña as a candidate in 2023 elections. But earlier this year Peña moved to form his own movement within the Colorado Party, sidelining Cartes’s influence. “Peña thought he could walk alone and that Cartes would fade into irrelevance,” said Sebastián Acha, a consultant and former lawmaker in Paraguay. “Cartes did not agree.”",
-   "zh": "",
-   "notes": []
+   "en_html": "Paraguay has been ruled by the same party — the <mark class=\"voc\">rightwing</mark> Colorados — for 75 of the last 80 years. Peña’s impeachment was largely the result of a <mark class=\"voc\">rift</mark> with party president Horacio Cartes. Cartes picked Peña as a candidate in 2023 elections. But earlier this year Peña moved to form his own movement within the Colorado Party, <mark class=\"voc\">sidelining</mark> Cartes’s influence. “Peña thought he could walk alone and that Cartes would <mark class=\"voc\">fade into irrelevance</mark>,” said Sebastián Acha, a consultant and former lawmaker in Paraguay. “Cartes did not agree.”",
+   "zh": "近八十年间，巴拉圭有七十五载系出同一政党——右翼红党。培尼亚之遭弹劾，大半缘于他与党主席奥拉西奥·卡特斯的决裂。2023年大选，正是卡特斯将他点为候选人；而今年早些时候，培尼亚却着手在红党之内另树一帜，把卡特斯的影响挪到了边线。\"培尼亚以为自己足可独行，以为卡特斯会慢慢淡到无人置理，\"巴拉圭政治顾问、前议员塞巴斯蒂安·阿查说，\"卡特斯并未首肯。\"",
+   "notes": [
+    {
+     "w": "rightwing",
+     "ipa": "/ˌraɪt ˈwɪŋ/",
+     "pos": "adj.",
+     "en": "rightwing (adj.) means holding conservative or right-of-centre political views",
+     "zh": "\"右翼\"（源自法国大革命制宪会议里保守派坐在议长右侧的座次），政治语境核心义为右翼的、保守派的",
+     "ctx": "",
+     "ex1": "The rightwing party had dominated national politics for generations. 这个右翼政党主导国政已有几代人。",
+     "ex2": "Seating in an eighteenth-century assembly gave English two lasting political labels. 十八世纪一场议会的座次，给英语留下了一对沿用至今的政治标签。"
+    },
+    {
+     "w": "rift",
+     "ipa": "/rɪft/",
+     "pos": "n.",
+     "en": "a rift (n.) means a serious break in a relationship, or a crack in the earth's surface",
+     "zh": "\"裂谷、撕开\"（古北欧语rífa 撕，与rive、river 关联），地质／关系双语境核心义为裂口、决裂",
+     "ctx": "",
+     "ex1": "A rift with the party chairman proved more decisive than the banking scandal. 与党主席的决裂，比银行丑闻更决定结局。",
+     "ex2": "The rift had been visible for months to anyone reading the local press. 只要读本地报纸，这道裂几个月前就看得见。"
+    },
+    {
+     "w": "sidelining",
+     "ipa": "/ˈsaɪdlaɪnɪŋ/",
+     "pos": "pres. part.",
+     "en": "sidelining (pres. part.) means pushing someone or something out of a position where they can influence events",
+     "zh": "\"挤到边线外\"（side + line，体育术语：把球员放到场边），权力语境核心义为边缘化、架空",
+     "ctx": "",
+     "ex1": "The reshuffle ended up sidelining the very people who had chosen him. 那轮调整的结果，是把当初挑中他的人挤到了边线。",
+     "ex2": "He was not removed; his influence simply stopped reaching decisions. 人没被拿掉，只是他的影响力再也够不着决策了。"
+    },
+    {
+     "w": "fade into irrelevance",
+     "ipa": "/feɪd ˈɪntə ɪˈreləvəns/",
+     "pos": "v. phr.",
+     "en": "fade into irrelevance (v. phr.) means to lose influence gradually until one no longer matters",
+     "zh": "\"慢慢淡到不相干\"，权力语境核心义为褪色出局、慢慢变成不重要的人",
+     "ctx": "",
+     "ex1": "He assumed his former patron would quietly fade into irrelevance. 他以为那位旧恩主会安安静静地淡出。",
+     "ex2": "Power can be lost in a vote, but relevance fades without anyone noticing. 权力可以在一场表决里丢掉，分量却是没人留意时慢慢褪的。"
+    }
+   ]
   },
   {
-   "en_html": "The central bank had already received at least 10 warnings since last year regarding Ueno’s substantial lending to entities related to its own parent company and other financial issues, according to Paraguayan newspaper ABC Color. Ueno Bank had a prominent role in Peña’s vision of a modern Paraguayan economy. Founded as a fintech in 2021, it quickly obtained a banking licence and waged an aggressive marketing campaign to bring on new clients, including sponsoring the national football team.",
-   "zh": "",
-   "notes": []
+   "en_html": "The central bank had already received at least 10 warnings since last year regarding Ueno’s <mark class=\"voc\">substantial</mark> lending to <mark class=\"voc\">entities</mark> related to its own parent company and other financial issues, according to Paraguayan newspaper ABC Color. Ueno Bank had a <mark class=\"voc\">prominent</mark> role in Peña’s vision of a modern Paraguayan economy. Founded as a <mark class=\"voc\">fintech</mark> in 2021, it quickly obtained a banking licence and <mark class=\"voc\">waged</mark> an <mark class=\"voc\">aggressive</mark> marketing campaign to <mark class=\"voc\">bring on</mark> new clients, including <mark class=\"voc\">sponsoring</mark> the national football team.",
+   "zh": "据巴拉圭《ABC彩色报》披露，自去年以来，央行即已接获不下十次预警，所指为Ueno向与其自家母公司相关联的实体大额放款，以及其他财务事项。在培尼亚所构想的\"现代巴拉圭经济\"图景中，Ueno银行曾居于最显眼处。它2021年以一家金融科技公司起家，旋即取得银行牌照，继而发起一场凌厉的营销攻势以广纳新客，赞助国家足球队即其中一举。",
+   "notes": [
+    {
+     "w": "substantial",
+     "ipa": "/səbˈstænʃl/",
+     "pos": "adj.",
+     "en": "substantial (adj.) means large in amount or size, and significant enough to affect a judgement",
+     "zh": "\"有实体、有分量的\"（拉丁语substantia 本质、实体），财务语境核心义为大额的、大到足以影响判断的",
+     "ctx": "",
+     "ex1": "The report flagged substantial lending to companies linked to the parent group. 报告点出了向母集团关联公司的大额放贷。",
+     "ex2": "Once exposure crossed the regulatory limit, \"substantial\" became decisive. 敞口一越过监管红线，\"大额\"两个字就变成决定性的了。"
+    },
+    {
+     "w": "entities",
+     "ipa": "/ˈentɪtiz/",
+     "pos": "n. pl.",
+     "en": "entities (n. pl.) means organisations or legal bodies that exist separately, such as companies, trusts or funds",
+     "zh": "\"存在的东西\"（拉丁语entitas，esse 是、存在），法律语境核心义为实体、法律主体",
+     "ctx": "",
+     "ex1": "The loans went to entities whose ownership was not immediately clear. 那些贷款流向了一些所有权一时看不清的实体。",
+     "ex2": "\"Entities\" is deliberately vaguer than \"companies\"— and that is the point. entities 比companies 故意含糊，含糊本身就是重点。"
+    },
+    {
+     "w": "prominent",
+     "ipa": "/ˈprɒmɪnənt/",
+     "pos": "adj.",
+     "en": "prominent (adj.) means standing out, important or easily noticed",
+     "zh": "\"凸出来的\"（拉丁语prominere：pro- 向前+ minere 突出，与mountain、 eminent 同根），形象语境核心义为显眼的、摆在显要位置的",
+     "ctx": "",
+     "ex1": "The lender had a prominent role in the president's vision of a modern economy. 在总统那幅现代经济蓝图里，这家放贷机构摆在很显眼的位置。",
+     "ex2": "It was prominently featured in every investor presentation for three years. 三年来每一份投资人材料，它都摆在显眼处。"
+    },
+    {
+     "w": "fintech",
+     "ipa": "/ˈfɪntek/",
+     "pos": "n.",
+     "en": "fintech (n.) means technology-based financial services, usually delivered through apps rather than branches",
+     "zh": "finance + technology 的混成词（blend），行业语境核心义为金融科技",
+     "ctx": "",
+     "ex1": "The fintech label helped the bank attract both customers and international investors. \"金融科技\"这块招牌，帮它同时招来了客户和国际投资人。",
+     "ex2": "A fintech with seventy branches is a branding choice as much as a business model. 一家有七十个网点的fintech，是branding 的成分不比商业模式少。"
+    },
+    {
+     "w": "wage a campaign",
+     "ipa": "/weɪdʒ ə kæmˈpeɪn/",
+     "pos": "v. phr.",
+     "en": "wage a campaign (v. phr.) means to organise and carry out a sustained, forceful effort to achieve something",
+     "zh": "\"发动一场战役\"（wage 与wage 工资不同源，本义\"下注、押上、开打\"，与wager 同根），营销语境核心义为发动一场（营销）战役",
+     "ctx": "",
+     "ex1": "The bank waged an aggressive campaign to bring millions of new clients on board. 这家银行发动了一场猛烈的营销战，把数百万新客户拉了进来。",
+     "ex2": "While regulators wrote warnings, the app kept waging its cashback campaign. 监管在写预警函，App 那边返现攻势照打不误。"
+    },
+    {
+     "w": "aggressive",
+     "ipa": "/əˈɡresɪv/",
+     "pos": "adj.",
+     "en": "aggressive (adj.) means forceful, pushing hard and willing to take risks to win",
+     "zh": "\"朝人逼近\"（拉丁语aggredi：ad- 向+ gradi 迈步），商业语境核心义为猛的、不惜代价抢的",
+     "ctx": "",
+     "ex1": "Aggressive cashback offers drew in customers who had never used a bank before. 猛打返现，把从没进过银行的人也拉了进来。",
+     "ex2": "The campaign was still aggressive in its final week, even as the warnings mounted. 预警越摞越高，最后一周的攻势却一点没收敛。"
+    },
+    {
+     "w": "bring on",
+     "ipa": "/brɪŋ ɒn/",
+     "pos": "phr. v.",
+     "en": "bring on (phr. v.) means to recruit, sign up or introduce new people into an organisation or system",
+     "zh": "\"把人带进来\"，商业语境核心义为招揽、签下、拉进来",
+     "ctx": "",
+     "ex1": "Cashback and football sponsorships brought on millions of first-time customers. 返现加足球赞助，拉进来数百万第一次用银行的人。",
+     "ex2": "Once a whole informal economy is brought on, pulling the plug is no longer a private matter. 一整个非正规经济都被接进来之后，拔插头就不再是一家公司的事了。"
+    },
+    {
+     "w": "sponsor",
+     "ipa": "/ˈspɒnsə(r)/",
+     "pos": "v.",
+     "en": "sponsor (v.) means to pay to be publicly associated with an event, team or person in return for publicity",
+     "zh": "\"作保、担保\"（拉丁语spondere 承诺、作保，与respond、spouse 同根），营销语境核心义为赞助",
+     "ctx": "",
+     "ex1": "Sponsoring the national team bought the new brand an air of official trust. 赞助国家队，给这个新牌子买来了一层\"官方可信\"的气场。",
+     "ex2": "The stadium had to take the logo down after the seizure. 查封之后，球场把那块标识摘了下来。"
+    }
+   ]
   },
   {
-   "en_html": "Ueno took in more than $850mn in public money, including a tenth of the social security agency’s investment fund, and many small businesses began to rely on its payment system in Paraguay’s heavily informal economy. Ueno founder Miguel Vázquez spoke about becoming the country’s first unicorn and listing on the New York Stock Exchange. “Everything that man said was just window dressing, because it was all a sham,” said Eduardo Lopez, 35, a businessman at the protest who works in exporting goods to the US. “It affected all businesses . . . and it makes the country look bad. It’s a disaster.”",
-   "zh": "",
-   "notes": []
+   "en_html": "Ueno <mark class=\"voc\">took in</mark> more than $850mn in public money, including a tenth of the social security agency’s investment fund, and many small businesses began to rely on its payment system in Paraguay’s <mark class=\"voc\">heavily informal</mark> economy. Ueno founder Miguel Vázquez spoke about becoming the country’s first <mark class=\"voc\">unicorn</mark> and <mark class=\"voc\">listing</mark> on the New York Stock Exchange. “Everything that man said was just <mark class=\"voc\">window dressing</mark>, because it was all a <mark class=\"voc\">sham</mark>,” said Eduardo Lopez, 35, a businessman at the protest who works in exporting goods to the US. “It affected all businesses . . . and it makes the country look bad. It’s a disaster.”",
+   "zh": "Ueno吸纳的公共资金逾8.5亿美元，其中含社保机构投资基金的十分之一；在巴拉圭非正规成分极重的经济中，众多小本生意亦渐次仰赖其支付体系维生。Ueno创始人米格尔·巴斯克斯曾谈及，欲使公司成为本国首家\"独角兽\"，并登陆纽约证券交易所。\"那人所说的一切，不过是装点门面，因为内里根本是个空壳，\"35岁的爱德华多·洛佩斯说。他是静守现场的一名商人，经营对美出口。\"此事波及所有行当……也叫这个国家面上无光。是一场灾难。\"",
+   "notes": [
+    {
+     "w": "take in",
+     "ipa": "/teɪk ɪn/",
+     "pos": "phr. v.",
+     "en": "take in (phr. v., of an institution) means to receive and hold money, especially deposits",
+     "zh": "\"收进来\"，金融语境核心义为吸纳（存款、资金）",
+     "ctx": "",
+     "ex1": "The lender took in more than $850mn in public money in under three years. 不到三年，这家放贷机构吸纳了逾8.5 亿美元公共资金。",
+     "ex2": "Small depositors were taken in by a brand that sponsored the national team. 小储户信的，是一个赞助了国家队的牌子。"
+    },
+    {
+     "w": "heavily informal",
+     "ipa": "/ˈhevɪli ɪnˈfɔːml/",
+     "pos": "adj. phr.",
+     "en": "heavily informal (adj. phr.) of an economy means containing a very large share of unregistered, cash-based work",
+     "zh": "\"大量非正规的\"，发展经济语境核心义为非正规部门占比极高的",
+     "ctx": "",
+     "ex1": "In a heavily informal economy, a phone can be the only bank account a family has. 在非正规经济占比很高的地方，一部手机可能就是一家人唯一的银行账户。",
+     "ex2": "\"Informal\" here means off the books, not unimportant. 这里的\"非正规\"是指没入账，不是不重要。"
+    },
+    {
+     "w": "unicorn",
+     "ipa": "/ˈjuːnɪkɔːn/",
+     "pos": "n.",
+     "en": "a unicorn (n.) means a privately held startup valued at more than one billion US dollars",
+     "zh": "\"独角兽\"（拉丁语unus 一+ cornu 角），创投语境核心义为估值超10 亿美元的未上市公司",
+     "ctx": "",
+     "ex1": "He spoke about building the country's first unicorn; investors repeated the phrase for months. 他说起过要造出本国第一家独角兽，投资人把这句话传了好几个月。",
+     "ex2": "A unicorn is a valuation, not a verdict on the balance sheet. 独角兽说的是估值，不是给资产负债表下的结论。"
+    },
+    {
+     "w": "listing",
+     "ipa": "/ˈlɪstɪŋ/",
+     "pos": "n.",
+     "en": "a listing (n.) means the admission of a company's shares to a stock exchange so they can be traded",
+     "zh": "\"被列入（交易所名单）\"，资本市场语境核心义为上市、挂牌",
+     "ctx": "",
+     "ex1": "A New York listing was the most vivid part of the pitch to foreign investors. 在纽约上市，是那套对外说辞里最有画面的一句。",
+     "ex2": "The listing never happened; a regulatory notice did instead. 上市没等到，等到的是一纸监管公告。"
+    },
+    {
+     "w": "window dressing",
+     "ipa": "/ˈwɪndəʊ ˈdresɪŋ/",
+     "pos": "n. phr.",
+     "en": "window dressing (n. phr.) means something done to make a situation look better than it is; in finance, transactions near a reporting date that improve the apparent figures",
+     "zh": "\"橱窗陈列\"（商店把最好看的东西摆在临街玻璃后面），口语／金融双语境核心义为①场面话、表面文章②窗饰效应／报表粉饰",
+     "ctx": "",
+     "ex1": "\"Everything that man said was just window dressing,\" said one businessman at the protest. \"那人说的全是场面话。\"现场一位商人说。",
+     "ex2": "Window dressing changes how the shop looks from the street, not what is on the shelves. 橱窗改的是街上看过去的样子，改不了货架上的东西。"
+    },
+    {
+     "w": "sham",
+     "ipa": "/ʃæm/",
+     "pos": "n./adj.",
+     "en": "a sham (n.) means something that is pretended or fraudulent, claiming to be what it is not",
+     "zh": "\"假装、空壳\"（18 世纪英语，词源未定，一说来自sham 羞惭的方言变体），评价语境核心义为骗局、摆样子、空架子",
+     "ctx": "",
+     "ex1": "\"When the accounts were restated, people called the whole thing a sham.\"账目一重列，就有人把整件事叫作一场空架子。",
+     "ex2": "A sham has a front; that is precisely what makes it hard to spot early. 空架子是有门面的，正因如此才不容易早看出来。"
+    }
+   ]
   },
   {
-   "en_html": "In the early hours of Tuesday morning, the central bank froze Ueno accounts and began a process to wind down its operations. The monetary authority said it would guarantee deposits up to the equivalent of about $38,000 per customer and that there was no risk to the wider financial system. The response has raised hopes that Paraguay’s institutions will strengthen in the wake of the Ueno fiasco. “We are seeing the start of corrective measures,” said José Tomás Sánchez, a director at ICA consultancy in Asunción, arguing that the rapid arrest and charging of those involved “sends a very strong signal . . . that you can no longer do this kind of thing in Paraguay.”",
-   "zh": "",
-   "notes": []
+   "en_html": "In the early hours of Tuesday morning, the central bank froze Ueno accounts and began a process to <mark class=\"voc\">wind down</mark> its operations. The monetary authority said it would guarantee deposits up to the equivalent of about $38,000 per customer and that there was no risk to the wider financial system. The response has <mark class=\"voc\">raised hopes</mark> that Paraguay’s institutions will strengthen <mark class=\"voc\">in the wake of</mark> the Ueno <mark class=\"voc\">fiasco</mark>. “We are seeing the start of corrective measures,” said José Tomás Sánchez, a director at ICA consultancy in Asunción, arguing that the rapid arrest and charging of those involved “sends a very strong signal . . . that you can no longer do this kind of thing in Paraguay.”",
+   "zh": "周二凌晨，央行冻结Ueno账户，并启动程序，令其业务有序收束。货币当局表示，将按每名存款人约合3.8万美元的上限担保存款，且更广的金融体系并无风险。此番应对使人寄望：经Ueno此番狼藉之后，巴拉圭的制度或得转强。\"我们正目睹纠偏措施的发端，\"亚松森ICA咨询公司主管何塞·托马斯·桑切斯说。他认为，对涉案者的迅速拘捕与起诉\"释放了一个极强信号……在巴拉圭，这等事今后再也做不得了\"。",
+   "notes": [
+    {
+     "w": "wind down",
+     "ipa": "/ˌwaɪnd ˈdaʊn/",
+     "pos": "phr. v.",
+     "en": "wind down (phr. v.) means to bring an organisation or activity gradually and in an orderly way to a close",
+     "zh": "\"发条慢慢松、转到停\"（读音/waɪnd/，与wind 风/wɪnd/ 不同），处置语境核心义为有序关停、逐步收尾",
+     "ctx": "",
+     "ex1": "The central bank began a process to wind down the bank's operations. 央行启动了一套有序关停这家银行业务的流程。",
+     "ex2": "A wind-down is a managed ending; a collapse is an unmanaged one. 有序关停是有人管的结尾，崩塌是没人管的。"
+    },
+    {
+     "w": "raise hopes",
+     "ipa": "/reɪz həʊps/",
+     "pos": "v. phr.",
+     "en": "raise hopes (v. phr.) means to make people more hopeful that something good may happen",
+     "zh": "\"把希望抬起来\"，评论语境核心义为让人生出希望、带来期待",
+     "ctx": "",
+     "ex1": "The swift response raised hopes that institutions might finally be strengthening. 反应这么快，让人开始期待制度也许真在变强。",
+     "ex2": "Hopes were raised on Tuesday and qualified on Friday. 周二把希望抬了起来，周五又被打了折。"
+    },
+    {
+     "w": "in the wake of",
+     "ipa": "/ɪn ðə weɪk əv/",
+     "pos": "prep. phr.",
+     "en": "in the wake of (prep. phr.) means following soon after, and often as a consequence of, an event",
+     "zh": "\"跟在船尾的浪迹里\"（wake 航迹），评论语境核心义为在……的余波里、紧随……之后",
+     "ctx": "",
+     "ex1": "Reforms are often promised in the wake of a scandal. 改革承诺，常常是在丑闻余波里开出来的。",
+     "ex2": "The phrase quietly assumes the event caused what came next. 这个短语悄悄预设了：后面发生的事，是前面那件事促成的。"
+    },
+    {
+     "w": "fiasco",
+     "ipa": "/fiˈæskəʊ/",
+     "pos": "n.",
+     "en": "a fiasco (n.) means a complete and embarrassing failure, especially one that was grandly staged",
+     "zh": "\"瓶子\"（意大利语fiasco，与flask 同源；18 世纪戏剧行话far fiasco 指演出砸了），评价语境核心义为惨败、砸锅（自带丢人）",
+     "ctx": "",
+     "ex1": "The Ueno fiasco became shorthand for the whole three-year pitch. \"Ueno 这场砸锅\"，后来成了那三年整套说辞的代名词。",
+     "ex2": "A fiasco is a failure with an audience — which is why the word stings. 砸锅是有观众的失败，所以这个词才扎人。"
+    }
+   ]
   },
   {
-   "en_html": "But others were less optimistic. “It’s pretty clear that this crisis was only resolved because Cartes decided to abandon Peña for political reasons,” said Ramiro Blazquez Giomi, strategist at financial services group Stone X. “It suggests there haven’t been the kind of institutional improvements that we had hoped to see. “We’re suffering the consequences of Peña splitting from Cartes,” said Batarram Caballero, 23, president of the student centre at the National University of Paraguay. “This is a group of people who have meddled and are destroying our country.”",
-   "zh": "",
-   "notes": []
+   "en_html": "But others were less optimistic. “It’s pretty clear that this crisis was only <mark class=\"voc\">resolved</mark> because Cartes decided to abandon Peña for political reasons,” said Ramiro Blazquez Giomi, strategist at financial services group Stone X. “It suggests there haven’t been the kind of institutional improvements that we had hoped to see. “We’re suffering the consequences of Peña <mark class=\"voc\">splitting</mark> from Cartes,” said Batarram Caballero, 23, president of the student centre at the National University of Paraguay. “This is a group of people who have <mark class=\"voc\">meddled</mark> and are destroying our country.”",
+   "zh": "然亦有人未敢乐观。\"此事之得以收场，分明只因Cartes出于政治考量决意弃Peña于不顾，\"金融服务集团StoneX策略师拉米罗·布拉斯克斯·乔米说，\"由此可见，我们昔日所盼的那般制度之进，并未发生。\"\"Peña与Cartes决裂的后果，正由我们承担，\"23岁的巴塔拉姆·卡瓦列罗说，他是国立巴拉圭大学学生中心主席。\"不过是那一撮人伸手搅局，正在毁掉我们的国家。\"",
+   "notes": [
+    {
+     "w": "resolved",
+     "ipa": "/rɪˈzɒlvd/",
+     "pos": "v.",
+     "en": "resolved (v., passive here) means brought to a definite end or settlement",
+     "zh": "\"解开、松开\"（拉丁语resolvere：re- 回+ solvere 松，与insolvent 的solvere 同根），处置语境核心义为了结、收尾、解决了",
+     "ctx": "",
+     "ex1": "The political crisis was resolved in three days; the depositors' claims were not. 政治危机三天就了结了，储户的赔付却没有。",
+     "ex2": "Asking \"what exactly was resolved?\" is the whole point of the sentence. 问一句\"到底什么被解决了\"，正是这句的全部意思。"
+    },
+    {
+     "w": "splitting",
+     "ipa": "/ˈsplɪtɪŋ/",
+     "pos": "n./v.",
+     "en": "splitting (n./v.) means separating or breaking away from a person or group one belonged to",
+     "zh": "\"劈开、分岔\"（中古荷兰语splitten），关系语境核心义为决裂、分家",
+     "ctx": "全篇「裂」意象的第四站，也是最后一站。cracks（瓷器上的细线）→ unravel（毛衣的线头）→ rift（地壳的裂谷）→ splitting（两个人分手）。前三站是物，这一站是人；离人越近，代价越具体。而且它出现在最后一段普通人嘴里——上一段分析师还在说institutional landscape，这里一个23 岁的学生直接说\"你们分家，我们买单\"",
+     "ex1": "\"We're suffering the consequences of Peña splitting from Cartes.\"\"我们正在承受培尼亚与卡特斯决裂的后果。\"",
+     "ex2": "The first crack was in porcelain; the last was between two people. 第一道裂在瓷器上，最后一道裂在两个人中间。"
+    },
+    {
+     "w": "meddle",
+     "ipa": "/ˈmedl/",
+     "pos": "v.",
+     "en": "meddle (v.) means to interfere in other people's affairs in an unwelcome or harmful way",
+     "zh": "\"混进去乱插手\"（古法语mesler 混合、搅和，与mix 有关），评价语境核心义为插手搅和、瞎掺和（贬义）",
+     "ctx": "不是intervene（中性介入）、不是interfere（干涉），meddle 是\"本没你的事、你还把水搅浑了\"。a group of people 故意不点名——这是受访者的评价，不是记者的指认。相关指控均为公开报道／检方指控口径，当事人否认，尚未定罪，司法程序进行中，讲解时只转述、不评论、不站队、不下结论",
+     "ex1": "\"This is a group of people who have meddled and are destroying our country.\"\"就是这么一群人，搅和进来，正在毁掉我们的国家。\"",
+     "ex2": "\"Meddle\" carries the speaker's anger, not a legal finding. meddle 带的是说话人的怒气，不是法律结论。"
+    }
+   ]
   }
  ],
- "proper": [],
+ "proper": [
+  {
+   "name": "Paraguay",
+   "def": "简要介绍：南美洲中部的内陆国，人口约610 万，西邻玻利维亚、东接巴西与阿根廷，没有出海口。经济以农业、畜牧、水电出口和转口贸易为支柱，拥有伊泰普水电站等大型水电资产。过去十年是拉美少见的宏观稳定样本：GDP 年均增速约3.1%，2025 年一度达6.6%，通胀与财政相对可控，因此在动荡的地区里被反复称作\"绿洲\"。另一面是制度评价长期偏低：透明国际2025 年清廉指数列150/182。<br>本文中的意思：全文主角，也是\"明星经济体\"这个标签的载体。文章真正要写的不是它有多好或多差，而是\"被外面讲出来的那套\"和\"里面在过的日子\"之间那道缝——标题的darkside、P5 的underbelly、P4 的same as always 都指向这道缝。"
+  },
+  {
+   "name": "Asunción",
+   "def": "简要介绍：巴拉圭首都与最大城市，位于巴拉圭河东岸，都会区集中了全国相当一部分人口与经济活动和政治机构，总统府、国会、央行与国立大学均在此。2025 年11 月，OECD拉美治理峰会曾在亚松森举行，主题为\"Building trust, integrity\"（建立信任与廉正）。<br>本文中的意思：全篇镜头的落点。P4 把读者从\"满世界招商\"的高处，猛地按到市中心一家咖啡馆里一位正在上班的28 岁咖啡师面前；P8 的商人在抗议现场说话；P9 的顾问来自本地咨询机构。大数之外必须有一张脸，这张脸都在亚松森。"
+  },
+  {
+   "name": "Ueno Bank",
+   "def": "简要介绍：课文里的\"国民银行\"。并非2021 年白手起家：前身是1976 年成立、专做中小企业贷款的Financiera El Comercio；2021 年被Grupo Vázquez 收购后更名，12月20 日以Ueno 品牌重启；2023 年11 月22 日取得银行牌照；2024 年6 月吸收合并Visión Banco（自带一百多万客户、68 个网点）。靠买菜返现、70 多个网点、赞助国家足球队与冠名国家主球场迅速铺开，课文P4 记2.9mn 人受影响，成年人口覆盖率约六成。2026 年11 月3 日凌晨被央行接管。<br>本文中的意思：不是背景板，是全文的机关。它一头连着总统、央行与公共资金（P3），一头连着几百万普通人的日常（P4、P8）；作者借它把\"上面的关系\"和\"下面的日子\"压进同一个事件里。"
+  },
+  {
+   "name": "Santiago Peña",
+   "def": "简要介绍：1978 年生，曾在巴拉圭央行任职、后赴IMF 华盛顿工作，2015–2017 年任财政部长，2023 年8 月15 日就任总统（5 年任期），是该国民主化以来最年轻的总统。任内主推\"现代国家\"叙事、争取加入OECD、招商引资，并拿下国家首个投资级评级。公开报道称他曾任Ueno 控股公司股东（约100 万美元量级），2024 年银行方面曾澄清\"是Ueno Holding 的股东、不是银行本身的股东\"，本人已否认相关不当行为，相关事项尚在司法程序中。<br>本文中的意思：P2 那个\"能说会道的前IMF 经济学家\"，是全套光鲜叙事的人格化。他的人设越可信，P4 那句\"我们以为在变好，其实还是老样子\"的落差越大。"
+  },
+  {
+   "name": "Horacio Cartes",
+   "def": "简要介绍：商人出身，2013–2018 年任巴拉圭总统，后任执政党红党主席（partypresident，注意不是国家总统）。2015–2017 年间Peña 在其政府任财长；2023 年他亲自点将让Peña 参选并胜出，胜选夜曾对Peña 说\"I want to be a tool for you.\"。美方2022 年对其有过公开措辞，本人否认，无司法结论；本笔记只取履历性事实，不作评论。<br>本文中的意思：P6 那句四词短句\"Cartes did not agree.\"的主语，也是P10\"only...because...\"里的那个\"决定\"。课文刻意不解释他，靠一处过去分词、一句引语把权力归属写完了——银行是导火索，党内翻脸才是推手。"
+  },
+  {
+   "name": "Colorado Party / the Colorados",
+   "def": "简要介绍：巴拉圭执政党，课文写\"75 of the last 80 years\"（八十年里执政七十五年）。1947–1962 年间为唯一合法政党；斯特罗斯纳1954–1989 年执政时期，党是两大支柱之一，军人与公职人员须入党。1989 年后恢复民主选举，但该党仍长期执政。2022 年公开资料记登记党员约261 万（另有虚报质疑），而全国人口约610 万。<br>本文中的意思：P5 那个抽象的clientelism（庇护主义）在这里有了脸——\"选举是有的，但长期换不了人\"。它和Ueno 的290 万客户一样，是铺在另一条轨道上、同样覆盖全民的一张网。"
+  },
+  {
+   "name": "BCP / Central Bank of Paraguay",
+   "def": "简要介绍：该国的货币当局兼银行监管者，负责发钞、货币政策与金融机构准入。课文里它同时出现在三个位置：P2 的regulators seized control、P7 的had already received atleast 10 warnings、P9 的froze Ueno accounts / the monetary authority said。公开报道称，时任行长曾任Ueno 前CEO，上任83 天后央行批准Ueno 转为银行；监管自2025 年起已多次就关联放贷发出预警。<br>本文中的意思：全篇最刺人的一处结构。同一个机构，先发牌照、后收预警、最后查封；P5 的captive to（监管俘获）说的正是它。相关人事与指控均为公开报道口径，当事人否认，司法程序进行中。"
+  },
+  {
+   "name": "IMF / International Monetary Fund",
+   "def": "简要介绍：1944 年布雷顿森林会议后成立的国际机构，总部在华盛顿，主要职能是监督全球金融稳定、向成员国提供贷款与技术援助，并定期发布国别经济评估。其履历在拉美政界常被视为\"技术官僚\"标签。<br>本文中的意思：P2 \"a former IMF economist\"五个字给人物发的名片。它和technocratic、smooth-talking 一起，把\"会算账、懂规矩、值得托付\"的预设立起来，正是后面all 落差所需的高度。OECD / Organisation for Economic Co-operation and Development（经济合作与发"
+  },
+  {
+   "name": "展组织）",
+   "def": "简要介绍：以高收入经济体为主的政府间组织，总部在巴黎，常被称作\"富裕国家俱乐部\"。加入并非报名即入，需经过一系列技术与治理评估，其中司法独立、公共部门透明度、反腐败框架是硬门槛，考的不是GDP。巴拉圭目前既非成员，也非正式候选国。2025 年11月OECD 拉美治理峰会在亚松森举行，主题是\"Building trust, integrity\"。<br>本文中的意思：P4 \"might one day join the OECD\"是三年头号承诺的远景。作者挑它的用意很实：这个国家对外承诺的是\"制度现代化\"，而P5 分析师说崩塌暴露的恰恰是制度——承诺与批评，落在同一栏上。"
+  },
+  {
+   "name": "IPS / Instituto de Previsión Social",
+   "def": "简要介绍：管理养老、医疗等社会保险的公共机构，下设投资基金。课文P8 写Ueno 吸纳的8.5 亿美元公共资金里，包括\"社保局投资基金的十分之一\"（IPS 自述口径约9%，同一量级）；公开报道提及其基金规模约3.5–3.8 亿美元、约3.2 万名退休人员受影响。<br>本文中的意思：把P3 的entrust（我信你）兑现成具体的人。它让\"公共资金\"不再是一个财政术语，而是下个月等着这笔钱过日子的三万多个老人；P9 的存款保障按\"人\"兜底、金额大头仍要排队，也是从这个资金池来的张力。"
+  },
+  {
+   "name": "Moody's / S&P / Fitch",
+   "def": "简要介绍：穆迪2024/7/26 将巴拉圭主权评级由Ba1 升至Baa3，为历史上首次投资级；标普2025/12/17 升BBB-，成为第二家；惠誉至今BB+，2025/10/6 维持评级但把展望由稳定转为正面。两处易混：① 有资料把穆迪那次写成\"Baa1→Baa3\"，按债券募集说明书应为Ba1→Baa3；② 惠誉2026/10 把Ueno 这家银行的展望调负面，与2025/10 的主权展望转正面是两个对象、两个年份。更关键的是，标普2024/2 升评报告已写\"评级仍受制度仍在演进的制约\"\"感知腐败与公共部门低效是长期制约\"，惠誉同年10月写\"受治理指标薄弱的制约\"。<br>本文中的意思：P5 的\"恍然大悟\"。那张及格证的背面，两年前就印着这一行小字，只是所有人都在看正面那枚章。评级量的是偿债能力，不是制度优良证书。"
+  },
+  {
+   "name": "Grupo Vázquez / Miguel Vázquez",
+   "def": "简要介绍：家族企业集团，生意起点是1984 年菜市场里的Credicentro（小额信贷），后扩展到金融、零售、农业、地产与媒体等板块。Miguel Vázquez 为家族第三代，2026 年36 岁，Ueno 创始人，曾公开谈过把银行做成该国第一家独角兽并在纽交所上市。大纲里\"约28 家公司\"未找到可靠一手来源，本笔记不给确数。相关指控为检方口径，本人否认，尚未定罪，司法程序进行中。<br>本文中的意思：P7 关联放贷那句\"entities related to its own parent company\"的落点——储户的钱顺着管子流进老板自家公司；P8 那句\"Everything that man said\"里被去掉姓名的\"那个人\"，也是他。"
+  },
+  {
+   "name": "Financiera El Comercio / Visión Banco",
+   "def": "简要介绍：Financiera El Comercio 成立于1976 年，长期做中小企业贷款；2021 年被Grupo Vázquez 收购，12 月20 日更名以Ueno 品牌重启。Visión Banco 是另一家本地银行，自带一百多万客户与68 个网点，2024 年6 月28 日被Ueno 吸收合并。2023 年11 月22 日Ueno 取得银行牌照。<br>本文中的意思：全篇最要紧的一处事实订正。课文\"Founded as a fintech in 2021\"容易被讲成\"五年从零做到290 万客户\"，实际是给一家45 岁的老公司换了层漆、又并进一整家银行。订正后反而更贴主题：founded 的不是一家公司，是一个新说法。"
+  },
+  {
+   "name": "New York Stock Exchange / NYSE",
+   "def": "简要介绍：全球市值最大的证券交易所，位于纽约华尔街，常被视为企业国际化的终点站。上市（listing）需经监管审核、披露与承销流程，与\"聊起过要上市\"（spoke aboutlisting）相去甚远。<br>本文中的意思：P8 梦想话术的最高一级。\"成为本国第一家独角兽+在纽交所上市\"，把一个小国内陆银行的想象推到全球资本市场的门面。公开报道里那句\"直到11 月3 日凌晨3:24\"，正是把纽交所梦停在具体到分钟的时刻上。"
+  },
+  {
+   "name": "the informal economy",
+   "def": "简要介绍：指未注册、未纳入税务与劳动统计、多以现金交易的经济活动。世界银行2025年口径，巴拉圭劳动非正规率约60.3%；很多人没有工资账户、没有完税凭证，现金常放在家里，手机几乎是他们接触正规金融的唯一入口。<br>本文中的意思：P8 \"heavily informaleconomy\"不是形容词堆砌，是解释\"为什么一家银行能有三百万客户、为什么它一停全国小生意跟着停\"。也把P8 的payment system 坐实为字面意义的基础设施，而非修辞。"
+  },
+  {
+   "name": "弹劾、辞职与终身参议员豁免",
+   "def": "简要介绍：impeachment 是国会程序，争的是职位而非刑责；众议院曾以78:0 通过，参议院44 票一致罢免。按巴拉圭宪法，卸任总统会成为终身参议员并享有豁免，反对派议员认为接受辞呈等于保住这层法律保护、可能阻碍起诉，因此拒绝接受辞呈、坚持走弹劾程序。另有公开报道记，Cartes 的盟友在国会支持弹劾Peña，却挡下了对副总统Alliana的弹劾（30:48），最终上位的是\"自己人\"。<br>本文中的意思：P3 那句ouster（而非departure / resignation）的全部分量。一个名词，把宪法弯子、谁主动谁被动、以及为什么后面能立刻接司法程序，全压进去了；也为P10 \"only because...\"提供了议会层面的注脚。"
+  },
+  {
+   "name": "透明国际清廉指数与\"out of date\"",
+   "def": "简要介绍：透明国际（Transparency International）每年发布清廉感知指数（CPI），2025 年版覆盖182 个经济体，巴拉圭列第150 位。公开报道记，2024 年一份治理相关报告出炉时，总统府曾以\"out of date\"（过时了）回应。另有2026/10/9 的公开表态称相关调查不代表银行会关门，而三个月前该行资本充足率还报15.01%（监管下限12%）。<br>本文中的意思：P5 \"成绩单背后的另一面\"最直观的一栏。讲的时候只摆时间线与公开措辞，不加评论——两年前那句\"过时了\"，和两年后那句\"一直都在\"，让听众自己听。"
+  },
+  {
+   "name": "Verisk Maplecroft / ICA / StoneX",
+   "def": "简要介绍：Verisk Maplecroft 是国际风险情报机构，Mariano Machado 为其美洲区负责人（principal，不是\"校长\"）；ICA 是亚松森本地咨询机构，José Tomás Sánchez 任董事；StoneX 是金融服务集团，Ramiro Blazquez Giomi 任策略师。三者分别提供风险、本地治理与市场三类视角。<br>本文中的意思：外刊引语的典型配置——同一件事给三种口径。P5 的分析师讲\"一直都在、现在看得见\"，P9 的顾问讲\"纠偏开始\"，P10 的策略师讲\"只因有人放手\"。三人身份不同，才有全篇从希望到冷水的那一转。"
+  },
+  {
+   "name": "National University of Paraguay",
+   "def": "简要介绍：巴拉圭规模最大、历史最悠久的公立大学，主校区在亚松森近郊圣洛伦索，学生运动在本国政治中一向有声音。课文里23 岁的Batarram Caballero 任学生中心（student centre）主席。<br>本文中的意思：全篇最后一张脸。政治分析师、策略师、顾问都说完之后，作者把最后一句交给一个23 岁的学生——落点不是\"制度\"，是\"我们的国家\"。金融风暴席卷巴拉圭！290万人拿不出钱，总统72小时内下台：这个国家到底发生了什么？"
+  }
+ ],
  "sources_note": "依据英国《金融时报》（Financial Times）2026-11-09 报道。",
- "practice": {},
+ "practice": {
+  "intro": "请将以下中文句子翻译为英文（参考答案见后）。",
+  "items": [
+   "一家银行倒闭，暴露了拉丁美洲明星经济体的阴暗面：对Ueno 银行的接管，已经掀翻了巴拉圭总统，也让它那套说给投资人听的光鲜话术蒙了尘。",
+   "巴拉圭总统的骤然倒台，以及其最受欢迎的银行的崩塌，暴露出一个近年来被投资者和全球保守派交口称赞的自由市场成功故事上的裂缝。",
+   "本周，Santiago Peña——一位能言善道的前IMF 经济学家——的总统任期，在监管者接管Ueno 银行之后不到72 小时便散了架；那是一家花哨的、被超过半数巴拉圭成年人使用的、已经资不抵债的数字放贷机构。",
+   "议员们迅速对Peña 启动了弹劾程序——此人曾是Ueno 控股公司的投资人，把这家银行的老板安插去执掌巴拉圭央行，还把数以亿计美元的公共资金托付给这家放贷机构。",
+   "\"那个人说过的一切不过是摆给外人看的场面话，因为整件事就是个骗局，\"35 岁、做对美出口生意的商人Eduardo Lopez 在抗议现场说，\"它波及了所有生意……还让这个国家面上难看。这是一场灾难。\"",
+   "\"很明显，这场危机之所以能了结，只是因为Cartes 出于政治原因决定放弃Peña，\"金融服务集团 Stone X 的策略师Ramiro Blazquez Giomi 说，\"这说明，我们原本盼着看到的那种制度上的改进，并没有发生。\""
+  ],
+  "critical_en": "",
+  "critical_zh": "",
+  "answer": "1. A bank collapse exposes the dark side of Latin America's star economy. Ueno Bank's seizure has toppled Paraguay's president and tarnished its glossy pitch to investors.<br><br>2. The stunning downfall of Paraguay's president and collapse of its most popular bank have exposed cracks in a free-market success story hailed by investors and the global conservative movement in recent years.<br><br>3. The presidency of Santiago Peña, a smooth-talking former IMF economist, unravelled in less than 72 hours this week after regulators seized control of Ueno Bank, a flashy digital lender used by more than half of Paraguayan adults that had become insolvent.<br><br>4. Lawmakers quickly launched impeachment proceedings against Peña, a former investor in Ueno's holding company who installed its boss to lead Paraguay's central bank and entrusted the lender with hundreds of millions of dollars of public money.<br><br>5. \"Everything that man said was just window dressing, because it was all a sham,\" said Eduardo Lopez, 35, a businessman at the protest who works in exporting goods to the US. \"It affected all businesses . . . and it makes the country look bad. It's a disaster.\"<br><br>6. \"It's pretty clear that this crisis was only resolved because Cartes decided to abandon Peña for political reasons,\" said Ramiro Blazquez Giomi, strategist at financial services group Stone X. \"It suggests there haven't been the kind of institutional improvements that we had hoped to see.\""
+ },
  "mindmap": {
   "aria": "绿洲露底——明星经济体的暗面：3 枝思维导图（手绘版）",
   "alt": "绿洲露底——明星经济体的暗面（手绘版思维导图）",
   "svg": "<svg viewBox=\"0 0 960 488\" xmlns=\"http://www.w3.org/2000/svg\" role=\"img\" aria-label=\"巴拉圭银行暴雷掀开明星经济体暗面思维导图\" style=\"width:100%;height:auto;font-family:-apple-system,'PingFang SC','Hiragino Sans GB','Microsoft YaHei',sans-serif\">\n<rect x=\"24\" y=\"200\" width=\"176\" height=\"88\" rx=\"14\" fill=\"#eae3d2\" stroke=\"#9a8f76\"/>\n<text x=\"112\" y=\"236\" text-anchor=\"middle\" fill=\"#3d3a34\" font-size=\"17\" font-weight=\"700\">绿洲露底</text>\n<text x=\"112\" y=\"262\" text-anchor=\"middle\" fill=\"#5c5648\" font-size=\"12.5\">明星经济体的暗面</text>\n<path d=\"M200,244 C232,244 232,88 260,88\" stroke=\"#6b8f71\" stroke-width=\"2\" fill=\"none\"/>\n<path d=\"M200,244 C232,244 232,265 260,265\" stroke=\"#7d98ad\" stroke-width=\"2\" fill=\"none\"/>\n<path d=\"M200,244 C232,244 232,421 260,421\" stroke=\"#bd7a6d\" stroke-width=\"2\" fill=\"none\"/>\n<g class=\"mm-branch\" data-target=\"bc1\">\n<rect x=\"260\" y=\"71\" width=\"190\" height=\"34\" rx=\"8\" fill=\"#e6efe7\" stroke=\"#6b8f71\"/>\n<text x=\"355\" y=\"93\" text-anchor=\"middle\" fill=\"#4c6b52\" font-size=\"15\" font-weight=\"700\">人设崩塌（¶1-4）</text>\n<text class=\"mm-arrow\" data-for=\"bc1\" x=\"442\" y=\"93\" text-anchor=\"end\" fill=\"#4c6b52\">▾</text>\n</g>\n<g class=\"mm-children\" id=\"bc1\">\n<path d=\"M450,88 C462,88 462,46 480,46\" stroke=\"#6b8f71\" stroke-width=\"1.5\" fill=\"none\"/>\n<path d=\"M450,88 C462,88 462,88 480,88\" stroke=\"#6b8f71\" stroke-width=\"1.5\" fill=\"none\"/>\n<path d=\"M450,88 C462,88 462,130 480,130\" stroke=\"#6b8f71\" stroke-width=\"1.5\" fill=\"none\"/>\n<rect x=\"480\" y=\"30\" width=\"456\" height=\"32\" rx=\"8\" fill=\"#e6efe7\"/><text x=\"492\" y=\"51\" fill=\"#3d3a34\" font-size=\"14\">72 小时内总统被参院罢免</text>\n<rect x=\"480\" y=\"72\" width=\"456\" height=\"32\" rx=\"8\" fill=\"#e6efe7\"/><text x=\"492\" y=\"93\" fill=\"#3d3a34\" font-size=\"14\">2.9 万人取不出积蓄</text>\n<rect x=\"480\" y=\"114\" width=\"456\" height=\"32\" rx=\"8\" fill=\"#e6efe7\"/><text x=\"492\" y=\"135\" fill=\"#3d3a34\" font-size=\"14\">「现代国家」与 OECD 承诺落空</text>\n</g>\n<g class=\"mm-branch\" data-target=\"bc2\">\n<rect x=\"260\" y=\"248\" width=\"190\" height=\"34\" rx=\"8\" fill=\"#e5edf4\" stroke=\"#7d98ad\"/>\n<text x=\"355\" y=\"270\" text-anchor=\"middle\" fill=\"#3d5872\" font-size=\"15\" font-weight=\"700\">失灵之源（¶5-8）</text>\n<text class=\"mm-arrow\" data-for=\"bc2\" x=\"442\" y=\"270\" text-anchor=\"end\" fill=\"#3d5872\">▾</text>\n</g>\n<g class=\"mm-children\" id=\"bc2\">\n<path d=\"M450,265 C462,265 462,202 480,202\" stroke=\"#7d98ad\" stroke-width=\"1.5\" fill=\"none\"/>\n<path d=\"M450,265 C462,265 462,244 480,244\" stroke=\"#7d98ad\" stroke-width=\"1.5\" fill=\"none\"/>\n<path d=\"M450,265 C462,265 462,286 480,286\" stroke=\"#7d98ad\" stroke-width=\"1.5\" fill=\"none\"/>\n<path d=\"M450,265 C462,265 462,328 480,328\" stroke=\"#7d98ad\" stroke-width=\"1.5\" fill=\"none\"/>\n<rect x=\"480\" y=\"186\" width=\"456\" height=\"32\" rx=\"8\" fill=\"#e5edf4\"/><text x=\"492\" y=\"207\" fill=\"#3d3a34\" font-size=\"14\">增长绿洲，首个投资级评级</text>\n<rect x=\"480\" y=\"228\" width=\"456\" height=\"32\" rx=\"8\" fill=\"#e5edf4\"/><text x=\"492\" y=\"249\" fill=\"#3d3a34\" font-size=\"14\">制度被少数家族集团俘获</text>\n<rect x=\"480\" y=\"270\" width=\"456\" height=\"32\" rx=\"8\" fill=\"#e5edf4\"/><text x=\"492\" y=\"291\" fill=\"#3d3a34\" font-size=\"14\">同党 75/80 年，党内决裂招弹劾</text>\n<rect x=\"480\" y=\"312\" width=\"456\" height=\"32\" rx=\"8\" fill=\"#e5edf4\"/><text x=\"492\" y=\"333\" fill=\"#3d3a34\" font-size=\"14\">十次警告无人理，8.5 亿公款入账</text>\n</g>\n<g class=\"mm-branch\" data-target=\"bc3\">\n<rect x=\"260\" y=\"404\" width=\"190\" height=\"34\" rx=\"8\" fill=\"#f4e7e4\" stroke=\"#bd7a6d\"/>\n<text x=\"355\" y=\"426\" text-anchor=\"middle\" fill=\"#7c4a3e\" font-size=\"15\" font-weight=\"700\">余波存疑（¶9-10）</text>\n<text class=\"mm-arrow\" data-for=\"bc3\" x=\"442\" y=\"426\" text-anchor=\"end\" fill=\"#7c4a3e\">▾</text>\n</g>\n<g class=\"mm-children\" id=\"bc3\">\n<path d=\"M450,421 C462,421 462,400 480,400\" stroke=\"#bd7a6d\" stroke-width=\"1.5\" fill=\"none\"/>\n<path d=\"M450,421 C462,421 462,442 480,442\" stroke=\"#bd7a6d\" stroke-width=\"1.5\" fill=\"none\"/>\n<rect x=\"480\" y=\"384\" width=\"456\" height=\"32\" rx=\"8\" fill=\"#f4e7e4\"/><text x=\"492\" y=\"405\" fill=\"#3d3a34\" font-size=\"14\">冻结账户，每户上限 3.8 万美元</text>\n<rect x=\"480\" y=\"426\" width=\"456\" height=\"32\" rx=\"8\" fill=\"#f4e7e4\"/><text x=\"492\" y=\"447\" fill=\"#3d3a34\" font-size=\"14\">一说是纠错，一说只是政治清算</text>\n</g>\n<text x=\"486\" y=\"170\" fill=\"#8a8578\" font-size=\"11.5\">↓ 为何</text>\n<text x=\"486\" y=\"368\" fill=\"#8a8578\" font-size=\"11.5\">↓ 因此</text>\n</svg>",
   "img": "/Users/malen/.workbuddy/backups/handmap/2026-11-09_绿洲露底_手绘.jpg"
- },
- "audio": false
+ }
 }

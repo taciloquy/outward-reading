@@ -1,0 +1,31 @@
+{
+  "outline": "scripts/content/outlines/2026-11-10.json",
+  "outline_mtime": 1794212647.4237971,
+  "checked_at": "2026-11-09 16:24:07",
+  "user_confirmed": false,
+  "center": "芯片之王",
+  "branches": [
+    {
+      "title": "丑闻落地",
+      "subs": 3,
+      "relation": null
+    },
+    {
+      "title": "致命重叠",
+      "subs": 5,
+      "relation": "为何"
+    },
+    {
+      "title": "权力未倒",
+      "subs": 4,
+      "relation": "却仍"
+    }
+  ],
+  "branch_count": 3,
+  "subs_counts": [
+    3,
+    5,
+    4
+  ],
+  "warns": []
+}
