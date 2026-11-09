@@ -1,31 +1,31 @@
 {
   "outline": "scripts/content/outlines/2026-11-10.json",
-  "outline_mtime": 1794212647.4237971,
-  "checked_at": "2026-11-09 16:24:07",
-  "user_confirmed": false,
+  "outline_mtime": 1794213101.850418,
+  "checked_at": "2026-11-09 16:34:24",
+  "user_confirmed": true,
   "center": "芯片之王",
   "branches": [
     {
-      "title": "丑闻落地",
+      "title": "丑闻立案",
       "subs": 3,
       "relation": null
     },
     {
-      "title": "致命重叠",
-      "subs": 5,
+      "title": "国安坐实",
+      "subs": 4,
       "relation": "为何"
     },
     {
-      "title": "权力未倒",
-      "subs": 4,
-      "relation": "却仍"
+      "title": "压而未倒",
+      "subs": 3,
+      "relation": "因此"
     }
   ],
   "branch_count": 3,
   "subs_counts": [
     3,
-    5,
-    4
+    4,
+    3
   ],
   "warns": []
 }
