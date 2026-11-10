@@ -1,31 +1,31 @@
 {
   "outline": "scripts/content/outlines/2026-11-11.json",
-  "outline_mtime": 1794304947.0519621,
-  "checked_at": "2026-11-10 18:02:30",
+  "outline_mtime": 1794312019.0642436,
+  "checked_at": "2026-11-10 20:00:21",
   "user_confirmed": false,
   "center": "百万移民潮",
   "branches": [
     {
       "title": "数据画像",
-      "subs": 4,
+      "subs": 3,
       "relation": null
     },
     {
       "title": "小镇样本",
-      "subs": 4,
+      "subs": 3,
       "relation": "落到一处看后果"
     },
     {
       "title": "暗流与认同",
-      "subs": 3,
+      "subs": 2,
       "relation": "然而"
     }
   ],
   "branch_count": 3,
   "subs_counts": [
-    4,
-    4,
-    3
+    3,
+    3,
+    2
   ],
   "warns": []
 }
