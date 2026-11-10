@@ -32,7 +32,7 @@ RADICAL_MAP = {
     '\u2ea0': '民', '\u2ed3': '长', '\u2ecb': '车', '\u2edb': '风', '\u2ee2': '马',
     '\u2ed4': '门', '\u2edd': '食', '\u2edc': '飞', '\u2ec6': '角', '\u2eee': '齿',
     '\u2ebf': '言', '\u2ea2': '月', '\u2eb9': '高', '\u2ec2': '页',
-    '\u2ec4': '西', '\u2ec5': '见',
+    '\u2ec4': '西', '\u2ec5': '见', '\u2ee9': '黄',
 }
 
 
@@ -132,6 +132,9 @@ def parse_card_text(c):
 CARD_HEAD = re.compile(
     r'^(?P<w>.+?)\s+(?P<pos>(?:n\.\s*phr\.|phr\.v\.|phr|n|v|adj|adv|prep|phrase)\.?)\s*'
     r'(?P<ipa>/[^/]+/)?$')
+# 又一版式（2026-11-10 起）：词卡头没有词性标记，形如 `investigation /ɪnˌvestɪˈɡeɪʃən/`
+CARD_HEAD_NOP = re.compile(r'^(?P<w>[A-Za-z][^/]{0,70}?)\s+(/[^/]+/)$')
+CARD_FIELD_RE = re.compile(r'^(英文释义|中文释义|文中含义|文中意|例句一|例句二)：')
 PROPER_LINE = re.compile(r'^(\d{1,2})\.\s+([A-Z][^/]{1,60}?)\s*/\s*(.*[\u4e00-\u9fff].*)$')
 PARA_HEAD = re.compile(r'^(\d{1,2})\.(?=\S)\s*(.+)$')
 CARD_FIELDS = [('英文释义', 'en'), ('中文释义', 'zh'), ('文中意', 'ctx'),
@@ -147,6 +150,8 @@ def _card_body(lines):
         if not s:
             continue
         body = s.lstrip('·•').strip()
+        # 「文中含义：」与旧版「文中意：」是同一字段，先归一
+        body = re.sub(r'^文中含义：', '文中意：', body)
         hit = next((k for k, _ in CARD_FIELDS if body.startswith(k + '：')), None)
         if hit:
             field = dict(CARD_FIELDS)[hit]
@@ -167,6 +172,7 @@ def run_new_edition(clean, practice_mark):
         s = clean[i].strip()
         return (s == '@@PAGE@@' or not s or PROPER_LINE.match(s)
                 or (CARD_HEAD.match(s) and '/' in s and s.count('/') >= 2)
+                or CARD_HEAD_NOP.match(s)
                 or (PARA_HEAD.match(s) and not CJK.search(s[:24])
                     and not s.startswith('（')))
 
@@ -203,7 +209,20 @@ def run_new_edition(clean, practice_mark):
             cur = 'proper'
             continue
         mc = CARD_HEAD.match(l)
-        if mc and mc.group('ipa'):
+        nop = CARD_HEAD_NOP.match(l)
+        if nop and not CJK.search(nop.group('w')):
+            # 防误伤：无词性词卡头的下一行必须是字段行（英文释义/中文释义/文中含义）
+            j = i + 1
+            nxt = ''
+            while j < min(i + 4, len(clean)):
+                s2 = clean[j].strip()
+                if s2 and s2 != '@@PAGE@@':
+                    nxt = s2
+                    break
+                j += 1
+            if not CARD_FIELD_RE.match(nxt):
+                nop = None
+        if (mc and mc.group('ipa')) or nop:
             buf = []
             i += 1
             while i < para_end:
@@ -220,8 +239,11 @@ def run_new_edition(clean, practice_mark):
                     break
                 buf.append(clean[i])
                 i += 1
-            card = {'w': mc.group('w').strip(), 'ipa': mc.group('ipa'),
-                    'pos': mc.group('pos')}
+            if mc and mc.group('ipa'):
+                card = {'w': mc.group('w').strip(), 'ipa': mc.group('ipa'),
+                        'pos': mc.group('pos')}
+            else:
+                card = {'w': nop.group('w').strip(), 'ipa': nop.group(2), 'pos': ''}
             card.update(_card_body(buf))
             pool.setdefault(cur, []).append(card)
             continue
@@ -247,7 +269,8 @@ def run_new_edition(clean, practice_mark):
                 if not s:
                     i += 1
                     continue
-                if CJK.search(s) or CARD_HEAD.match(s) and s.count('/') >= 2:
+                if CJK.search(s) or (CARD_HEAD.match(s) and s.count('/') >= 2) \
+                        or CARD_HEAD_NOP.match(s):
                     break
                 en.append(s)
                 i += 1
@@ -271,7 +294,8 @@ def run_new_edition(clean, practice_mark):
                 if not s:
                     i += 1
                     continue
-                if CARD_HEAD.match(s) and s.count('/') >= 2 or PROPER_LINE.match(s):
+                if (CARD_HEAD.match(s) and s.count('/') >= 2) \
+                        or CARD_HEAD_NOP.match(s) or PROPER_LINE.match(s):
                     break
                 zh.append(s)
                 i += 1
@@ -290,11 +314,11 @@ def run_new_edition(clean, practice_mark):
         if t.startswith(practice_mark[:6]):
             mode = 'q'
             continue
-        if t.startswith('思考题（') or t.startswith('思考题('):
-            mode = 'critical'
-            continue
         if t.startswith('思考题参考答案'):
             mode = 'a2'
+            continue
+        if t == '思考题' or t.startswith('思考题（') or t.startswith('思考题('):
+            mode = 'critical'
             continue
         if t.startswith('参考答案'):
             mode = 'a'
@@ -304,7 +328,12 @@ def run_new_edition(clean, practice_mark):
             if m:
                 practice.append(m.group(1).strip())
             elif practice:
-                practice[-1] += t if CJK.match(t[0]) else ' ' + t
+                # 题干折行直接拼回（中文之间不加空格）；编号标题行短且无末标点，
+                # 其后第一行是题干正文，补一个句号隔开；正文折行行长满，直接拼。
+                prev = practice[-1]
+                is_head = len(prev) <= 20 and prev[-1] not in '。，；、！？：））》”…'
+                sep = '。' if is_head else ''
+                practice[-1] = prev + sep + t
         elif mode in ('a', 'a2'):
             seg[mode].append(t)
     for key in ('a', 'a2'):

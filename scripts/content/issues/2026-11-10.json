@@ -9,5 +9,67 @@
  "headline_en": "Nvidia Opens Investigation Into Jensen Huang's Relationship With Chinese Spy",
  "headline_zh": "千亿帝国掌舵人的私密丑闻：黄仁勋承认出轨，对方被美情报部门认定为间谍",
  "sources_note": "依据美国《纽约时报》（The New York Times）2026-11-10 报道。",
- "marks": {}
+ "marks": {
+  "1": [
+   [
+    "open an investigation into",
+    "opening an investigation into"
+   ]
+  ],
+  "2": [
+   [
+    "collector's item",
+    "collectors’ items"
+   ],
+   [
+    "credit someone with",
+    "credited"
+   ]
+  ],
+  "3": [
+   [
+    "gather intelligence",
+    "gathering intelligence"
+   ]
+  ],
+  "4": [
+   [
+    "middleman",
+    "middle man"
+   ]
+  ],
+  "5": [
+   [
+    "find one's way into",
+    "finding their way"
+   ],
+   [
+    "conduct an investigation",
+    "conducted its own investigation"
+   ],
+   [
+    "bring someone in for questioning",
+    "brought Alice Huang in for questioning"
+   ]
+  ],
+  "6": [
+   [
+    "roll in",
+    "rolled in"
+   ]
+  ],
+  "9": [
+   [
+    "be committed to",
+    "is committed to"
+   ]
+  ]
+ },
+ "practice_intro": "请根据今天学习的文章，用自己的英文复述整篇新闻（提示词见各题括号内）。",
+ "critical_en": "Should a successful CEO’s private life affect their professional reputation and career? Why or why not?",
+ "critical_zh": "一位成功的首席执行官，其私人生活是否应该影响他的职业声誉和事业？为什么？",
+ "mindmap": {
+  "template": "scripts/content/2026-10-31.json",
+  "aria": "英伟达调查黄仁勋与中方间谍关系思维导图"
+ }
 }

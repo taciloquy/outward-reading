@@ -7,65 +7,738 @@
  "read_minutes": 15,
  "nav_hint": "Nvidia probes Huang’s ties with Chinese spy",
  "headline": {
-  "en_html": "<span>Nvidia Opens Investigation Into Jensen Huang's Relationship With Chinese Spy</span>",
+  "en_html": "Nvidia Opens <mark class=\"voc\">Investigation</mark> Into Jensen Huang's Relationship With Chinese <mark class=\"voc\">Spy</mark>",
   "zh": "千亿帝国掌舵人的私密丑闻：黄仁勋承认出轨，对方被美情报部门认定为间谍",
-  "notes": []
+  "notes": [
+   {
+    "w": "investigation",
+    "ipa": "/ɪnˌvestɪˈɡeɪʃən/",
+    "pos": "",
+    "en": "an official process of examining facts to discover the truth",
+    "zh": "调查；审查",
+    "ctx": "英伟达针对黄仁勋与被认定为间谍的人员之间的关系展开的正式调查",
+    "ex1": "The company launched an investigation into the missing funds. 公司对失踪的资金展开了调查。",
+    "ex2": "The investigation revealed several serious problems. 调查揭露了几个严重的问题。"
+   },
+   {
+    "w": "spy",
+    "ipa": "/spaɪ/",
+    "pos": "",
+    "en": "a person who secretly collects information about another country or organization",
+    "zh": "间谍；密探",
+    "ctx": "被美国情报机构认定为替中国收集情报的人",
+    "ex1": "The spy secretly passed information to a foreign government. 这名间谍秘密地向外国政府传递信息。",
+    "ex2": "He was accused of working as a spy for several years. 他被指控从事了数年的间谍活动。"
+   }
+  ]
  },
  "paragraphs": [
   {
-   "en_html": "Nvidia said on Sunday that it was opening an investigation into Jensen Huang, its chief executive and co-founder, after he acknowledged to the company’s board that he had been intimate with a business executive who U.S. intelligence determined was a Chinese spy. In a message to the company, Mr. Huang apologized. “I was unfaithful to my wife,” he said. “My actions hurt her and our children. There is no excuse for what I did. I am deeply sorry.”",
-   "zh": "",
-   "notes": []
+   "en_html": "Nvidia said on Sunday that it was <mark class=\"voc\">opening an investigation into</mark> Jensen Huang, its chief executive and co-founder, after he acknowledged to the company’s <mark class=\"voc\">board</mark> that he had been <mark class=\"voc\">intimate</mark> with a business executive who U.S. intelligence <mark class=\"voc\">determined</mark> was a Chinese spy. In a message to the company, Mr. Huang apologized. “I was <mark class=\"voc\">unfaithful</mark> to my wife,” he said. “My actions hurt her and our children. There is no excuse for what I did. I am deeply sorry.”",
+   "zh": "英伟达周日表示，公司正在对其首席执行官兼联合创始人黄仁勋展开调查。此前，黄仁勋向公司董事会承认，他曾与一名商业高管发生亲密关系，而美国情报机构认定这名高管是一名中国间谍。黄仁勋在发给公司的内部消息中道歉。他说：“我对妻子不忠。我的行为伤害了她和我们的孩子。我所做的一切没有任何借口。我深感抱歉。”",
+   "notes": [
+    {
+     "w": "open an investigation into",
+     "ipa": "/ˈoʊpən ən ɪnˌvestɪˈɡeɪʃən ˈɪntuː/",
+     "pos": "",
+     "en": "to officially begin examining a person or situation to discover the truth",
+     "zh": "对……展开调查",
+     "ctx": "英伟达正式启动针对黄仁勋的调查",
+     "ex1": "The authorities opened an investigation into the company's financial activities. 当局对这家公司的财务活动展开了调查。",
+     "ex2": "The school opened an investigation into the allegations against the teacher. 学校对针对这名教师的指控展开了调查。"
+    },
+    {
+     "w": "board",
+     "ipa": "/bɔːrd/",
+     "pos": "",
+     "en": "a group of people responsible for directing and controlling a company",
+     "zh": "董事会",
+     "ctx": "负责监督英伟达管理层和公司重大事务的董事会",
+     "ex1": "The board decided to appoint a new chief executive. 董事会决定任命一位新的首席执行官。",
+     "ex2": "The proposal must be approved by the company's board. 这项提议必须得到公司董事会的批准。"
+    },
+    {
+     "w": "intimate",
+     "ipa": "/ˈɪntɪmət/",
+     "pos": "",
+     "en": "having a very close personal or sexual relationship with someone",
+     "zh": "亲密的；关系密切的",
+     "ctx": "had been intimate with 表示曾与某人有过亲密关系，此处指婚外亲密关系",
+     "ex1": "The two developed an intimate relationship over several months. 两人在几个月里逐渐发展出亲密关系。",
+     "ex2": "She refused to discuss the intimate details of her private life. 她拒绝谈论自己私人生活中的亲密细节。"
+    },
+    {
+     "w": "determine",
+     "ipa": "/dɪˈtɜːrmɪn/",
+     "pos": "",
+     "en": "to discover or decide something after studying the facts carefully",
+     "zh": "查明；确定；认定",
+     "ctx": "美国情报机构认定该商业高管是间谍",
+     "ex1": "Investigators are trying to determine the cause of the accident. 调查人员正试图查明事故原因。",
+     "ex2": "The police determined that the documents were not genuine. 警方认定这些文件并非真实文件。"
+    },
+    {
+     "w": "unfaithful",
+     "ipa": "/ʌnˈfeɪθfəl/",
+     "pos": "",
+     "en": "having a romantic or sexual relationship with someone who is not your husband, wife or partner",
+     "zh": "不忠的；有婚外情的",
+     "ctx": "黄仁勋承认自己在婚姻中对妻子不忠",
+     "ex1": "She discovered that her husband had been unfaithful to her. 她发现丈夫对她不忠。",
+     "ex2": "He admitted being unfaithful and asked for forgiveness. 他承认自己有过不忠行为，并请求原谅。"
+    }
+   ]
   },
   {
-   "en_html": "The relationship and affair are a rare misstep for Mr. Huang. Over the past three years, he could do no wrong. His chipmaker, which makes the technology to build artificial intelligence, grew into one of the world’s most valuable companies and the engine of the data center boom powering the U.S. economy. He started being followed by autograph-seeking throngs at events. And his black leather jackets, which he wears daily, became collectors’ items. Mr. Huang has credited his wife, Lori, whom he married in 1985, with making it possible for him to build the company.",
-   "zh": "",
-   "notes": []
+   "en_html": "The relationship and <mark class=\"voc\">affair</mark> are a rare <mark class=\"voc\">misstep</mark> for Mr. Huang. Over the past three years, he <mark class=\"voc\">could do no wrong</mark>. His chipmaker, which makes the technology to build artificial intelligence, grew into one of the world’s most valuable companies and the engine of the data center boom powering the U.S. economy. He started being followed by <mark class=\"voc\">autograph-seeking</mark> <mark class=\"voc\">throngs</mark> at events. And his black leather jackets, which he wears daily, became <mark class=\"voc\">collectors’ items</mark>. Mr. Huang has <mark class=\"voc\">credited</mark> his wife, Lori, whom he married in 1985, with making it possible for him to build the company.",
+   "zh": "这段亲密关系和婚外情对于黄仁勋来说，是一次罕见的失足。过去三年里，他似乎做什么都不会出错。他创办的芯片制造公司为人工智能的发展提供关键技术，如今已成长为全球最有价值的公司之一，并成为推动美国经济发展的数据中心热潮背后的重要引擎。在各种活动现场，他开始受到大批索要签名的粉丝追捧。而他每天穿着的黑色皮夹克，也成了收藏家们争相收藏的物品。黄仁勋曾表示，正是因为妻子洛莉的支持，他才得以创办并发展这家公司。两人于1985年结婚。",
+   "notes": [
+    {
+     "w": "affair",
+     "ipa": "/əˈfer/",
+     "pos": "",
+     "en": "a romantic or sexual relationship between two people, especially when one or both are married to someone else",
+     "zh": "婚外情；风流韵事；私情",
+     "ctx": "黄仁勋与另一名商业高管之间的婚外亲密关系",
+     "ex1": "The politician's secret affair became a major public scandal. 这名政治人物的秘密婚外情演变成了一场重大公众丑闻。",
+     "ex2": "She discovered that her husband had been having an affair for months. 她发现丈夫已经有了好几个月的婚外情。"
+    },
+    {
+     "w": "misstep",
+     "ipa": "/ˌmɪsˈstep/",
+     "pos": "",
+     "en": "a mistake, especially one that shows poor judgment or causes problems",
+     "zh": "失误；失策；错误的一步",
+     "ctx": "黄仁勋事业与个人声誉发展过程中一次罕见的重大失误",
+     "ex1": "One careless remark became a serious political misstep. 一句不经意的话成了一次严重的政治失误。",
+     "ex2": "The company's biggest misstep was ignoring its customers' complaints. 这家公司最大的失策就是忽视了客户的投诉。"
+    },
+    {
+     "w": "could do no wrong",
+     "ipa": "/kʊd duː noʊ rɔːŋ/",
+     "pos": "",
+     "en": "to be regarded as someone who never makes mistakes or whose actions are always admired",
+     "zh": "似乎永远不会犯错；做什么都被认为是对的",
+     "ctx": "过去三年黄仁勋事业顺风顺水，外界对他高度追捧，仿佛他做什么都不会出错",
+     "ex1": "After winning three championships, the coach could do no wrong in the eyes of the fans. 连续赢得三次冠军后，在球迷眼中，这位教练简直做什么都对。",
+     "ex2": "When the company was growing rapidly, its founder seemed able to do no wrong. 当公司快速发展时，它的创始人似乎做什么都不会出错。"
+    },
+    {
+     "w": "autograph-seeking",
+     "ipa": "/ˈɔːtəɡræf ˌsiːkɪŋ/",
+     "pos": "",
+     "en": "trying to obtain the signature of a famous person",
+     "zh": "索要签名的；寻求名人亲笔签名的",
+     "ctx": "形容在活动现场追着黄仁勋索要亲笔签名的粉丝",
+     "ex1": "The actor was surrounded by autograph-seeking fans outside the theater. 这名演员在剧院外被索要签名的粉丝团团围住。",
+     "ex2": "Autograph-seeking crowds waited for hours to meet the famous athlete. 大批想要签名的人等了好几个小时，只为见到这位著名运动员。"
+    },
+    {
+     "w": "throng",
+     "ipa": "/θrɔːŋ/",
+     "pos": "",
+     "en": "a large crowd of people gathered closely together",
+     "zh": "人群；大批聚集的人",
+     "ctx": "在公开活动中追随黄仁勋、向他索要签名的大批粉丝",
+     "ex1": "Throngs of tourists filled the streets during the festival. 节日期间，大批游客挤满了街道。",
+     "ex2": "A throng of reporters gathered outside the courthouse. 一大群记者聚集在法院外面。"
+    },
+    {
+     "w": "collector's item",
+     "ipa": "/kəˈlektərz ˈaɪtəm/",
+     "pos": "",
+     "en": "an object that people want to collect because it is rare, valuable or connected with someone famous",
+     "zh": "收藏品；具有收藏价值的物品",
+     "ctx": "黄仁勋标志性的黑色皮夹克因他的名气而成为人们追捧的收藏品",
+     "ex1": "The limited-edition watch quickly became a collector's item. 这款限量版手表很快成了收藏家争相收藏的物品。",
+     "ex2": "The singer's first album is now considered a valuable collector's item. 这位歌手的首张专辑如今被视为珍贵的收藏品。"
+    },
+    {
+     "w": "credit someone with",
+     "ipa": "/ˈkredɪt ˈsʌmwʌn wɪð/",
+     "pos": "",
+     "en": "to say or believe that someone is responsible for an achievement or a positive result",
+     "zh": "将功劳归于某人；认为某人促成了某事",
+     "ctx": "黄仁勋认为妻子洛莉的支持使他得以创办并发展英伟达",
+     "ex1": "She credited her parents with helping her achieve her dreams. 她认为自己能够实现梦想，要归功于父母的帮助。",
+     "ex2": "The scientist credited his research team with making the discovery possible. 这位科学家认为，这项发现能够实现要归功于他的研究团队。"
+    }
+   ]
   },
   {
-   "en_html": "Public scrutiny of Mr. Huang’s ties with Ms. Huang began after The New York Times first reported last month that American intelligence agencies had discovered that Mr. Huang had developed a close relationship with a Chinese citizen and chip buyer, who U.S. officials concluded was gathering intelligence for Beijing. The chip buyer was Ms. Huang or Huang Le, whose biography said she worked in China as a TV reporter before becoming a top executive at a Singapore-based data center company that had become one of Nvidia’s biggest customers in Southeast Asia.",
-   "zh": "",
-   "notes": []
+   "en_html": "Public <mark class=\"voc\">scrutiny</mark> of Mr. Huang’s <mark class=\"voc\">ties</mark> with Ms. Huang began after The New York Times first reported last month that American <mark class=\"voc\">intelligence agencies</mark> had discovered that Mr. Huang had developed a close relationship with a Chinese citizen and chip buyer, who U.S. officials concluded was <mark class=\"voc\">gathering intelligence</mark> for Beijing. The chip buyer was Ms. Huang or Huang Le, whose <mark class=\"voc\">biography</mark> said she worked in China as a TV reporter before becoming a top <mark class=\"voc\">executive</mark> at a Singapore-based data center company that had become one of Nvidia’s biggest customers in Southeast Asia.",
+   "zh": "上个月，《纽约时报》首次报道称，美国情报机构发现，黄仁勋与一名中国公民兼芯片采购商建立了密切关系，而美国官员认定，这名女子正在为北京方面收集情报。此后，黄仁勋与这名黄姓女子之间的关系开始受到公众的密切审视。这名芯片采购商名叫黄乐，也被称为Ms.Huang。她的个人履历显示，她曾在中国担任电视记者，后来成为一家总部位于新加坡的数据中心公司的高级管理人员，而这家公司已经发展成为英伟达在东南亚最大的客户之一。",
+   "notes": [
+    {
+     "w": "scrutiny",
+     "ipa": "/ˈskruːtəni/",
+     "pos": "",
+     "en": "careful and detailed examination of someone or something",
+     "zh": "仔细审查；密切关注；严格审视",
+     "ctx": "媒体报道曝光后，公众开始密切关注并审视黄仁勋与黄乐之间的关系",
+     "ex1": "The company's financial activities came under intense public scrutiny. 这家公司的财务活动受到了公众的严格审视。",
+     "ex2": "The politician faced growing scrutiny over his personal relationships. 这名政治人物因其私人关系而受到越来越多的关注。"
+    },
+    {
+     "w": "tie",
+     "ipa": "/taɪ/",
+     "pos": "",
+     "en": "a connection or relationship between people, organizations or countries",
+     "zh": "联系；关系；纽带",
+     "ctx": "黄仁勋与黄乐之间的私人及商业联系",
+     "ex1": "The businessman has close ties with several powerful politicians. 这名商人与几位有权势的政治人物关系密切。",
+     "ex2": "The investigation revealed financial ties between the two companies. 调查揭示了这两家公司之间的财务联系。"
+    },
+    {
+     "w": "intelligence agency",
+     "ipa": "/ɪnˈtelɪdʒəns ˈeɪdʒənsi/",
+     "pos": "",
+     "en": "a government organization that secretly collects and analyzes information about security threats and foreign activities",
+     "zh": "情报机构",
+     "ctx": "发现黄仁勋与黄乐之间关系的美国情报机构",
+     "ex1": "The intelligence agency warned the government about possible security threats. 情报机构向政府发出了潜在安全威胁的警告。",
+     "ex2": "Several intelligence agencies worked together to investigate the case. 多家情报机构合作调查了这起案件。"
+    },
+    {
+     "w": "gather intelligence",
+     "ipa": "/ˈɡæðər ɪnˈtelɪdʒəns/",
+     "pos": "",
+     "en": "to collect information secretly, especially information useful to a government or military organization",
+     "zh": "收集情报；搜集情报信息",
+     "ctx": "美国官员认为黄乐正在为北京方面搜集情报",
+     "ex1": "The agents were sent abroad to gather intelligence about military activities. 这些特工被派往国外收集有关军事活动的情报。",
+     "ex2": "The organization was accused of gathering intelligence for a foreign government. 该组织被指控为外国政府收集情报。"
+    },
+    {
+     "w": "biography",
+     "ipa": "/baɪˈɑːɡrəfi/",
+     "pos": "",
+     "en": "an account of a person's life, education and career",
+     "zh": "传记；生平介绍；个人履历",
+     "ctx": "介绍黄乐曾担任电视记者及后来职业经历的个人履历",
+     "ex1": "Her official biography describes her early career as a journalist. 她的官方履历介绍了她早年担任记者的职业经历。",
+     "ex2": "The company's website includes a short biography of each executive. 公司网站上有每位高管的简短个人履历。"
+    },
+    {
+     "w": "executive",
+     "ipa": "/ɪɡˈzekjətɪv/",
+     "pos": "",
+     "en": "a person who holds a senior management position in a company or organization",
+     "zh": "高管；高级管理人员",
+     "ctx": "黄乐后来在一家总部位于新加坡的数据中心公司担任高级管理职务",
+     "ex1": "She became a senior executive at an international technology company. 她成为一家国际科技公司的高级管理人员。",
+     "ex2": "The company's top executives met to discuss its future strategy. 公司的高层管理人员开会讨论未来战略。"
+    }
+   ]
   },
   {
-   "en_html": "Megaspeed was formed in 2023, when a Chinese online gaming company split off its Singaporean subsidiary. Megaspeed is among the firms in Southeast Asia that buy chips to build data centers and then rent their computing power to companies in China. Megaspeed is essentially a middle man. Megaspeed’s sister company in Malaysia bought at least $4.8 billion worth of advanced AI equipment containing Nvidia chips and technology between June 2024 and February 2026, according to trade records obtained from ImportGenius, a trade platform. It was an exceptional amount of money for a small, obscure company.",
-   "zh": "",
-   "notes": []
+   "en_html": "Megaspeed was formed in 2023, when a Chinese online gaming company <mark class=\"voc\">split off</mark> its Singaporean <mark class=\"voc\">subsidiary</mark>. Megaspeed is among the firms in Southeast Asia that buy chips to build data centers and then rent their <mark class=\"voc\">computing power</mark> to companies in China. Megaspeed is essentially a <mark class=\"voc\">middle man</mark>. Megaspeed’s <mark class=\"voc\">sister company</mark> in Malaysia bought at least $4.8 billion worth of advanced AI equipment containing Nvidia chips and technology between June 2024 and February 2026, according to <mark class=\"voc\">trade records</mark> obtained from ImportGenius, a trade platform. It was an <mark class=\"voc\">exceptional</mark> amount of money for a small, <mark class=\"voc\">obscure</mark> company.",
+   "zh": "Megaspeed成立于2023年，当时一家中国网络游戏公司将其位于新加坡的子公司分拆出来，成立了这家公司。Megaspeed是东南亚众多购买芯片、建设数据中心，再将计算能力出租给中国企业的公司之一。从本质上说，Megaspeed就是一家中间商。根据从贸易数据平台ImportGenius获取的贸易记录，2024年6月至2026年2月期间，Megaspeed位于马来西亚的姐妹公司购买了至少价值48亿美元的先进人工智能设备，其中包含英伟达的芯片和技术。对于这样一家规模不大、鲜为人知的公司来说，这是一笔异常巨大的金额。",
+   "notes": [
+    {
+     "w": "split off",
+     "ipa": "/splɪt ɔːf/",
+     "pos": "",
+     "en": "to separate part of a company or organization so that it becomes independent",
+     "zh": "分拆；拆分出去；使独立",
+     "ctx": "一家中国网络游戏公司将其新加坡子公司分拆出来",
+     "ex1": "The technology company decided to split off its cloud computing division. 这家科技公司决定将云计算部门分拆出去。",
+     "ex2": "The business was split off from its parent company and became independent. 这项业务从母公司分拆出来，成为一家独立企业。"
+    },
+    {
+     "w": "subsidiary",
+     "ipa": "/səbˈsɪdieri/",
+     "pos": "",
+     "en": "a company that is owned or controlled by another larger company",
+     "zh": "子公司；附属公司",
+     "ctx": "原本隶属于中国网络游戏公司的新加坡子公司",
+     "ex1": "The American company opened a subsidiary in Singapore to expand its Asian business. 这家美国公司在新加坡设立了一家子公司，以拓展亚洲业务。",
+     "ex2": "The subsidiary operates independently but remains under the control of its parent company. 这家子公司独立运营，但仍受母公司控制。"
+    },
+    {
+     "w": "computing power",
+     "ipa": "/kəmˈpjuːtɪŋ ˈpaʊər/",
+     "pos": "",
+     "en": "the ability of computers to process data and perform calculations",
+     "zh": "计算能力；算力",
+     "ctx": "数据中心利用先进芯片提供的数据处理和人工智能计算能力",
+     "ex1": "Training advanced AI models requires enormous computing power. 训练先进的人工智能模型需要巨大的算力。",
+     "ex2": "The company invested billions of dollars to increase its computing power. 这家公司投入了数十亿美元来提升计算能力。"
+    },
+    {
+     "w": "middleman",
+     "ipa": "/ˈmɪdəlmæn/",
+     "pos": "",
+     "en": "a person or company that acts as a link between buyers and sellers",
+     "zh": "中间商；中介人",
+     "ctx": "Megaspeed在芯片供应商与需要计算能力的中国企业之间扮演中间商角色",
+     "ex1": "The company acts as a middleman between manufacturers and overseas customers. 这家公司充当制造商与海外客户之间的中间商。",
+     "ex2": "Buying directly from farmers allows restaurants to avoid paying a middleman. 餐厅直接从农民手中采购，可以避免向中间商支付费用。"
+    },
+    {
+     "w": "sister company",
+     "ipa": "/ˈsɪstər ˈkʌmpəni/",
+     "pos": "",
+     "en": "a company that is controlled by the same parent company as another company",
+     "zh": "姐妹公司；同属一家母公司的关联企业",
+     "ctx": "与Megaspeed存在共同母公司或同一集团控制关系的马来西亚企业",
+     "ex1": "The two sister companies share technology but operate in different countries. 这两家姐妹公司共享技术，但在不同国家运营。",
+     "ex2": "Our sister company in Japan is responsible for the Asian market. 我们在日本的姐妹公司负责亚洲市场。"
+    },
+    {
+     "w": "trade record",
+     "ipa": "/treɪd ˈrekərd/",
+     "pos": "",
+     "en": "an official document containing information about commercial transactions or the movement of goods",
+     "zh": "贸易记录；交易记录",
+     "ctx": "ImportGenius平台提供的有关Megaspeed关联公司采购设备的贸易数据",
+     "ex1": "Trade records showed that the company had imported large quantities of electronic equipment. 贸易记录显示，这家公司进口了大量电子设备。",
+     "ex2": "Investigators examined trade records to identify the origin of the products. 调查人员检查了贸易记录，以确定这些产品的来源。"
+    },
+    {
+     "w": "exceptional",
+     "ipa": "/ɪkˈsepʃənəl/",
+     "pos": "",
+     "en": "unusually great or different from what is normal",
+     "zh": "异常的；非同寻常的；特别突出的",
+     "ctx": "对于一家规模较小的公司而言，48亿美元的采购金额大得不寻常",
+     "ex1": "The small company reported an exceptional increase in sales last year. 这家小公司去年报告了异常显著的销售增长。",
+     "ex2": "Such a large investment was exceptional for a business of that size. 对于那种规模的企业来说，如此巨额的投资非同寻常。"
+    },
+    {
+     "w": "obscure",
+     "ipa": "/əbˈskjʊr/",
+     "pos": "",
+     "en": "not well known or familiar to most people",
+     "zh": "鲜为人知的；名不见经传的；不出名的",
+     "ctx": "Megaspeed是一家知名度不高、背景并不广为人知的公司",
+     "ex1": "The investigation brought an obscure technology company into the public spotlight. 这场调查让一家名不见经传的科技公司进入公众视野。",
+     "ex2": "He began his career at a small, obscure firm before becoming a successful entrepreneur. 在成为成功企业家之前，他曾在一家鲜为人知的小公司开启职业生涯。"
+    }
+   ]
   },
   {
-   "en_html": "The U.S. government has been investigating Megaspeed since late 2024, when a Commerce Department official visited its data center in Malaysia and found the site to be suspicious. The Nvidia equipment was still packed in boxes, suggesting it was being shipped in or out rather than installed there. Investigators suspect that some Nvidia chips acquired by Megaspeed are also finding their way illegally into China. Singapore has conducted its own investigation into Megaspeed. In 2025, Singaporean authorities brought Alice Huang in for questioning, but subsequently released her.",
-   "zh": "",
-   "notes": []
+   "en_html": "The U.S. government has been investigating Megaspeed since late 2024, when a <mark class=\"voc\">Commerce Department</mark> official visited its data center in Malaysia and found the site to be <mark class=\"voc\">suspicious</mark>. The Nvidia equipment was still packed in boxes, suggesting it was being shipped in or out rather than installed there. Investigators suspect that some Nvidia chips acquired by Megaspeed are also <mark class=\"voc\">finding their way</mark> illegally into China. Singapore has <mark class=\"voc\">conducted its own investigation</mark> into Megaspeed. In 2025, Singaporean authorities <mark class=\"voc\">brought Alice Huang in for questioning</mark>, but <mark class=\"voc\">subsequently</mark> released her.",
+   "zh": "自2024年底以来，美国政府一直在调查Megaspeed。当时，美国商务部的一名官员走访了该公司位于马来西亚的数据中心，发现现场存在可疑之处。英伟达的设备仍然装在箱子里，这表明这些设备可能正在被运进或运出，而不是被安装在当地使用。调查人员怀疑，Megaspeed采购的部分英伟达芯片也正在通过非法途径流入中国。新加坡也对Megaspeed展开了自己的调查。2025年，新加坡当局曾传唤黄乐接受问询，但随后将她释放。",
+   "notes": [
+    {
+     "w": "Commerce Department",
+     "ipa": "/ˈkɑːmɜːrs dɪˈpɑːrtmənt/",
+     "pos": "",
+     "en": "a department of the U.S. government responsible for promoting trade, economic growth and regulating certain exports",
+     "zh": "美国商务部",
+     "ctx": "负责美国商业政策及部分出口管制事务的政府部门，其官员曾前往Megaspeed在马来西亚的数据中心检查",
+     "ex1": "The Commerce Department announced new restrictions on exports of advanced technology. 美国商务部宣布了针对先进技术出口的新限制。",
+     "ex2": "A Commerce Department official visited the factory to examine its operations. 一名美国商务部官员走访了这家工厂，以检查其运营情况。"
+    },
+    {
+     "w": "suspicious",
+     "ipa": "/səˈspɪʃəs/",
+     "pos": "",
+     "en": "making you think that something is wrong, dishonest or possibly illegal",
+     "zh": "可疑的；令人怀疑的",
+     "ctx": "美国商务部官员发现数据中心的设备状况异常，因此认为该场所存在可疑之处",
+     "ex1": "The police noticed suspicious activity near the warehouse late at night. 警方注意到深夜仓库附近有可疑活动。",
+     "ex2": "The unusually large payments raised suspicious questions about the company's business. 这些异常巨额的付款引发了人们对该公司业务的怀疑。"
+    },
+    {
+     "w": "find one's way into",
+     "ipa": "/faɪnd wʌnz weɪ ˈɪntuː/",
+     "pos": "",
+     "en": "to eventually reach or enter a particular place, often through an indirect or unexpected route",
+     "zh": "最终进入；辗转流入；通过某种途径进入",
+     "ctx": "部分英伟达芯片可能通过间接或非法渠道流入中国",
+     "ex1": "Some stolen products eventually found their way into overseas markets. 一些被盗产品最终辗转流入了海外市场。",
+     "ex2": "The confidential documents somehow found their way into the hands of journalists. 这些机密文件不知怎么落到了记者手中。"
+    },
+    {
+     "w": "conduct an investigation",
+     "ipa": "/kənˈdʌkt ən ɪnˌvestɪˈɡeɪʃən/",
+     "pos": "",
+     "en": "to carry out an official examination of facts in order to discover what happened",
+     "zh": "开展调查；进行调查",
+     "ctx": "新加坡政府也针对Megaspeed的相关业务和活动进行了独立调查",
+     "ex1": "The authorities conducted an investigation into the company's financial transactions. 当局对这家公司的金融交易展开了调查。",
+     "ex2": "An independent committee was appointed to conduct an investigation into the incident. 一个独立委员会被任命负责调查这起事件。"
+    },
+    {
+     "w": "bring someone in for questioning",
+     "ipa": "/brɪŋ ˈsʌmwʌn ɪn fər ˈkwestʃənɪŋ/",
+     "pos": "",
+     "en": "to ask someone to come to a police station or official location to answer questions during an investigation",
+     "zh": "传唤某人接受问询；带某人接受调查",
+     "ctx": "2025年新加坡当局曾要求黄乐接受调查问询",
+     "ex1": "Police brought several employees in for questioning after the documents disappeared. 文件失踪后，警方传唤了几名员工接受问询。",
+     "ex2": "The businessman was brought in for questioning but was not formally charged. 这名商人被传唤接受问询，但并未受到正式起诉。"
+    },
+    {
+     "w": "subsequently",
+     "ipa": "/ˈsʌbsɪkwəntli/",
+     "pos": "",
+     "en": "after something else has happened; at a later time",
+     "zh": "随后；后来；此后",
+     "ctx": "黄乐在接受新加坡当局问询之后被释放",
+     "ex1": "The suspect was questioned for several hours and subsequently released. 这名嫌疑人接受了数小时的问询，随后被释放。",
+     "ex2": "The company initially denied the allegations but subsequently admitted its mistake. 这家公司最初否认了相关指控，但后来承认了自己的错误。"
+    }
+   ]
   },
   {
-   "en_html": "As Megaspeed’s chip purchases rolled in, Mr. Huang and Ms. Huang began spending time together. Their relationship became a preoccupation in Washington, where officials were already alarmed by the large volume of Megaspeed’s purchases. Nvidia and Mr. Huang initially said there was nothing problematic or unusual about his relationship with Ms. Huang. In an interview with Bloomberg News last month, he said that his interactions with Ms. Huang had been “related to Megaspeed, and it was all completely normal and not unusual.”",
-   "zh": "",
-   "notes": []
+   "en_html": "As Megaspeed’s chip purchases <mark class=\"voc\">rolled in</mark>, Mr. Huang and Ms. Huang began spending time together. Their relationship became a <mark class=\"voc\">preoccupation</mark> in Washington, where officials were already alarmed by the large <mark class=\"voc\">volume</mark> of Megaspeed’s purchases. Nvidia and Mr. Huang <mark class=\"voc\">initially</mark> said there was nothing <mark class=\"voc\">problematic</mark> or unusual about his relationship with Ms. Huang. In an interview with Bloomberg News last month, he said that his interactions with Ms. Huang had been “related to Megaspeed, and it was all completely normal and not unusual.”",
+   "zh": "随着Megaspeed的芯片采购订单源源不断地涌入，黄仁勋与黄乐也开始频繁相处。两人之间的关系逐渐成为华盛顿官员高度关注的问题，因为这些官员此前就已经对Megaspeed巨大的采购规模感到担忧。起初，英伟达和黄仁勋都表示，他与黄乐之间的关系不存在任何问题，也没有任何不寻常之处。在上个月接受彭博新闻社采访时，黄仁勋表示，他与黄乐之间的接触都“与Megaspeed有关，一切都完全正常，没有任何异常”。",
+   "notes": [
+    {
+     "w": "roll in",
+     "ipa": "/roʊl ɪn/",
+     "pos": "",
+     "en": "to arrive or come in large numbers or amounts, often continuously",
+     "zh": "大量涌入；接连不断地到来",
+     "ctx": "Megaspeed的芯片采购订单和交易持续大量增加",
+     "ex1": "Orders began rolling in after the company launched its new product. 公司推出新产品后，订单开始源源不断地涌入。",
+     "ex2": "As profits rolled in, the small business quickly expanded overseas. 随着利润不断涌入，这家小企业迅速向海外扩张。"
+    },
+    {
+     "w": "preoccupation",
+     "ipa": "/priˌɑːkjuˈpeɪʃən/",
+     "pos": "",
+     "en": "something that someone thinks about or worries about a great deal",
+     "zh": "关注的焦点；牵挂的事情；令人忧虑的问题",
+     "ctx": "黄仁勋与黄乐的关系成为华盛顿官员持续关注和担忧的问题",
+     "ex1": "National security has become a major preoccupation for government officials. 国家安全已经成为政府官员高度关注的问题。",
+     "ex2": "The company's growing debt was a constant preoccupation for its investors. 公司不断增加的债务一直是投资者担忧的问题。"
+    },
+    {
+     "w": "volume",
+     "ipa": "/ˈvɑːljuːm/",
+     "pos": "",
+     "en": "the amount or quantity of something, especially goods, business or activity",
+     "zh": "数量；总量；交易规模",
+     "ctx": "Megaspeed购买英伟达芯片的庞大数量和采购规模",
+     "ex1": "The company reported a sharp increase in the volume of international orders. 这家公司报告称，国际订单数量大幅增加。",
+     "ex2": "The unusually high volume of transactions attracted the attention of regulators. 异常庞大的交易量引起了监管机构的注意。"
+    },
+    {
+     "w": "initially",
+     "ipa": "/ɪˈnɪʃəli/",
+     "pos": "",
+     "en": "at the beginning, before something changes or develops",
+     "zh": "最初；起初；一开始",
+     "ctx": "在更多调查信息曝光之前，英伟达和黄仁勋最初对两人关系作出的解释",
+     "ex1": "The company initially denied the allegations but later admitted that mistakes had been made. 这家公司最初否认了相关指控，但后来承认确实犯了错误。",
+     "ex2": "She initially believed the offer was genuine, but soon became suspicious. 她起初认为这份邀约是真的，但很快就产生了怀疑。"
+    },
+    {
+     "w": "problematic",
+     "ipa": "/ˌprɑːbləˈmætɪk/",
+     "pos": "",
+     "en": "causing difficulties or problems, or likely to cause them",
+     "zh": "有问题的；棘手的；可能引发麻烦的",
+     "ctx": "英伟达和黄仁勋最初声称两人的关系不存在不当之处或潜在问题",
+     "ex1": "The business arrangement became problematic when conflicts of interest emerged. 当利益冲突出现时，这项商业安排开始变得棘手。",
+     "ex2": "His close relationship with the supplier was considered problematic by the board. 董事会认为他与供应商之间的密切关系存在问题。"
+    }
+   ]
   },
   {
-   "en_html": "The U.S. government, which had been investigating Megaspeed for possibly steering advanced Nvidia A.I. chips to China, began its surveillance of Ms. Huang more than a year ago. In the course of the surveillance, they found that she was in communication with a U.S. citizen who was identified as Mr. Huang. Officials who had seen that intelligence said they were certain the relationship was romantic. That undercut Nvidia’s original misleading statements to The Times and others over the course of the last year about the nature of Mr. Huang’s relationship with Ms. Huang.",
-   "zh": "",
-   "notes": []
+   "en_html": "The U.S. government, which had been investigating Megaspeed for possibly <mark class=\"voc\">steering</mark> advanced Nvidia A.I. chips to China, began its surveillance of Ms. Huang more than a year ago. <mark class=\"voc\">In the course of</mark> the surveillance, they found that she was in communication with a U.S. citizen who was identified as Mr. Huang. Officials who had seen that intelligence said they were certain the relationship was romantic. That <mark class=\"voc\">undercut</mark> Nvidia’s original <mark class=\"voc\">misleading</mark> statements to The Times and others <mark class=\"voc\">over the course of</mark> the last year about the <mark class=\"voc\">nature</mark> of Mr. Huang’s relationship with Ms. Huang.",
+   "zh": "美国政府此前一直在调查Megaspeed是否可能将英伟达的先进人工智能芯片转运至中国，并在一年多前开始对黄乐实施监视。在监视过程中，调查人员发现，她一直与一名美国公民保持联系，而这名公民后来被确认就是黄仁勋。看过相关情报的官员表示，他们确信两人之间存在恋爱关系。这一发现削弱了英伟达过去一年向《纽约时报》及其他方面所作声明的可信度，因为那些声明对黄仁勋与黄乐之间关系的真实性质作出了误导性的描述。",
+   "notes": [
+    {
+     "w": "steer",
+     "ipa": "/stɪr/",
+     "pos": "",
+     "en": "to direct or guide something or someone in a particular direction",
+     "zh": "引导；操纵；使流向；将……导向",
+     "ctx": "指Megaspeed可能通过某些渠道将先进的英伟达人工智能芯片转运至中国",
+     "ex1": "The company was accused of steering restricted technology toward overseas buyers. 这家公司被指控将受限制的技术转向海外买家。",
+     "ex2": "The manager tried to steer the conversation away from the financial scandal. 经理试图将谈话从财务丑闻上引开。"
+    },
+    {
+     "w": "in the course of",
+     "ipa": "/ɪn ðə kɔːrs əv/",
+     "pos": "",
+     "en": "during the time that something is happening or being carried out",
+     "zh": "在……过程中；在……期间",
+     "ctx": "美国调查人员在监视黄乐的过程中发现了她与黄仁勋的联系",
+     "ex1": "In the course of the investigation, police discovered several hidden bank accounts. 在调查过程中，警方发现了几个隐藏的银行账户。",
+     "ex2": "Several important details emerged in the course of the interview. 在采访过程中，几个重要细节逐渐浮出水面。"
+    },
+    {
+     "w": "undercut",
+     "ipa": "/ˌʌndərˈkʌt/",
+     "pos": "",
+     "en": "to make something weaker, less effective or less believable",
+     "zh": "削弱；损害；动摇；使失去可信度",
+     "ctx": "美国情报机构发现的恋爱关系削弱了英伟达此前有关两人关系的公开说法的可信度",
+     "ex1": "The newly discovered evidence undercut the company's original explanation. 新发现的证据削弱了公司最初解释的可信度。",
+     "ex2": "His contradictory statements undercut public confidence in his leadership. 他前后矛盾的言论削弱了公众对其领导能力的信心。"
+    },
+    {
+     "w": "misleading",
+     "ipa": "/ˌmɪsˈliːdɪŋ/",
+     "pos": "",
+     "en": "giving someone a wrong idea or impression, often by hiding or presenting information in a confusing way",
+     "zh": "误导性的；容易使人产生错误印象的",
+     "ctx": "英伟达此前对黄仁勋与黄乐关系的描述没有准确反映两人关系的真实性质",
+     "ex1": "The advertisement was criticized for making misleading claims about the product. 这则广告因对产品作出误导性宣传而受到批评。",
+     "ex2": "The company issued a correction after admitting that its earlier statement was misleading. 公司承认此前的声明具有误导性后，发布了更正说明。"
+    },
+    {
+     "w": "over the course of",
+     "ipa": "/ˈoʊvər ðə kɔːrs əv/",
+     "pos": "",
+     "en": "during a particular period of time, especially as something develops or changes",
+     "zh": "在……期间；在……整个过程中",
+     "ctx": "英伟达在过去一年的时间里多次对外解释黄仁勋与黄乐之间的关系",
+     "ex1": "Over the course of several months, the investigation uncovered new evidence. 在几个月的调查过程中，新的证据陆续浮出水面。",
+     "ex2": "The company's reputation changed dramatically over the course of the year. 在这一年里，这家公司的声誉发生了巨大变化。"
+    },
+    {
+     "w": "nature",
+     "ipa": "/ˈneɪtʃər/",
+     "pos": "",
+     "en": "the basic character, type or qualities of something",
+     "zh": "性质；本质；特征",
+     "ctx": "黄仁勋与黄乐之间关系的真实性质，即究竟是普通商业关系还是恋爱关系",
+     "ex1": "The investigation focused on the nature of the relationship between the two executives. 调查重点关注这两名高管之间关系的性质。",
+     "ex2": "The public wanted to understand the true nature of the agreement. 公众希望了解这项协议的真实性质。"
+    }
+   ]
   },
   {
-   "en_html": "As news about the U.S. surveillance of Ms. Huang broke, Mr. Huang’s room to maneuver all but disappeared. Congress wanted him to testify, probably under oath, and reporting on the surveillance raised the possibility that U.S. intelligence knew the nature of his relationship with Ms. Huang. There was also pressure on Nvidia’s board. Nvidia’s board said that it had “no reason to believe that either national security or Nvidia secrets were compromised,” but that “the board’s inquiry will examine all available information.”",
-   "zh": "",
-   "notes": []
+   "en_html": "As news about the U.S. surveillance of Ms. Huang broke, Mr. Huang’s <mark class=\"voc\">room to maneuver</mark> <mark class=\"voc\">all but</mark> disappeared. <mark class=\"voc\">Congress</mark> wanted him to <mark class=\"voc\">testify</mark>, probably <mark class=\"voc\">under oath</mark>, and reporting on the surveillance raised the possibility that U.S. intelligence knew the nature of his relationship with Ms. Huang. There was also pressure on Nvidia’s board. Nvidia’s board said that it had “no reason to believe that either national security or Nvidia secrets were <mark class=\"voc\">compromised</mark>,” but that “the board’s <mark class=\"voc\">inquiry</mark> will examine all available information.”",
+   "zh": "随着美国政府监视黄乐的消息被曝光，黄仁勋几乎失去了所有回旋余地。美国国会希望他出席作证，而且很可能要求他宣誓后提供证词。与此同时，有关监视行动的报道也让外界意识到，美国情报机构可能早已掌握了他与黄乐之间关系的真实性质。英伟达董事会同样面临着压力。英伟达董事会表示，目前“没有理由认为国家安全或英伟达的商业机密受到了损害”，但同时强调，“董事会的调查将审查所有能够获得的信息”。",
+   "notes": [
+    {
+     "w": "room to maneuver",
+     "ipa": "/ruːm tə məˈnuːvər/",
+     "pos": "",
+     "en": "the freedom or opportunity to change plans, make decisions or deal with a difficult situation",
+     "zh": "回旋余地；操作空间；灵活应对的余地",
+     "ctx": "随着监视行动曝光，黄仁勋能够解释、否认或灵活处理这场危机的空间大幅缩小",
+     "ex1": "The new evidence left the executive with very little room to maneuver. 新证据让这名高管几乎没有了回旋余地。",
+     "ex2": "The government has limited room to maneuver because of growing public pressure. 由于公众压力不断增加，政府的回旋余地十分有限。"
+    },
+    {
+     "w": "all but",
+     "ipa": "/ɔːl bʌt/",
+     "pos": "",
+     "en": "almost completely; very nearly",
+     "zh": "几乎；差不多完全",
+     "ctx": "all but disappeared表示黄仁勋的回旋余地几乎完全消失",
+     "ex1": "After the documents were released, his chances of winning the case all but disappeared. 文件公布后，他赢得这场官司的机会几乎完全消失了。",
+     "ex2": "The small town was all but abandoned after the factory closed. 工厂关闭后，这座小镇几乎被完全遗弃。"
+    },
+    {
+     "w": "Congress",
+     "ipa": "/ˈkɑːŋɡrəs/",
+     "pos": "",
+     "en": "the national lawmaking body of the United States, consisting of the Senate and the House of Representatives",
+     "zh": "美国国会",
+     "ctx": "希望黄仁勋就相关事件出席作证的美国立法机构",
+     "ex1": "Congress demanded an explanation from the technology company's chief executive. 美国国会要求这家科技公司的首席执行官作出解释。",
+     "ex2": "The proposed law must be approved by Congress before it can take effect. 这项拟议法律必须获得国会批准才能生效。"
+    },
+    {
+     "w": "testify",
+     "ipa": "/ˈtestɪfaɪ/",
+     "pos": "",
+     "en": "to make a formal statement about what you know, especially in a court of law or before an official committee",
+     "zh": "作证；提供证词",
+     "ctx": "美国国会希望黄仁勋出席听证会，就他与黄乐之间的关系及相关问题作证",
+     "ex1": "The company's chief executive was asked to testify before Congress. 这家公司的首席执行官被要求在国会作证。",
+     "ex2": "Several witnesses testified about what they had seen on the night of the incident. 几名证人就事发当晚的所见所闻提供了证词。"
+    },
+    {
+     "w": "under oath",
+     "ipa": "/ˈʌndər oʊθ/",
+     "pos": "",
+     "en": "having formally promised to tell the truth before giving evidence or making an official statement",
+     "zh": "宣誓后；在宣誓保证如实陈述的情况下",
+     "ctx": "黄仁勋可能需要在国会宣誓后接受询问，并承担如实作证的法律义务",
+     "ex1": "The witness gave his testimony under oath during the hearing. 这名证人在听证会上宣誓后提供了证词。",
+     "ex2": "Giving false information under oath can have serious legal consequences. 宣誓后提供虚假信息可能带来严重的法律后果。"
+    },
+    {
+     "w": "compromise",
+     "ipa": "/ˈkɑːmprəmaɪz/",
+     "pos": "",
+     "en": "to put something important, such as security or confidential information, at risk of being harmed or exposed",
+     "zh": "危及；损害；使受到威胁；使泄露",
+     "ctx": "董事会表示目前没有理由认为国家安全或英伟达的商业机密因这段关系而受到损害或泄露",
+     "ex1": "The security breach may have compromised sensitive customer information. 这次安全漏洞可能已经导致敏感客户信息泄露。",
+     "ex2": "Officials insisted that national security had not been compromised. 官员们坚称国家安全并未受到损害。"
+    },
+    {
+     "w": "inquiry",
+     "ipa": "/ɪnˈkwaɪəri/",
+     "pos": "",
+     "en": "an official process of asking questions and examining facts to discover the truth",
+     "zh": "调查；询问；正式审查",
+     "ctx": "英伟达董事会针对黄仁勋相关事件开展的正式内部调查",
+     "ex1": "The board launched an independent inquiry into the executive's conduct. 董事会针对这名高管的行为启动了一项独立调查。",
+     "ex2": "The inquiry will examine whether company rules were violated. 这项调查将审查是否存在违反公司规定的行为。"
+    }
+   ]
   },
   {
-   "en_html": "Mr. Huang, 63, will continue to lead the company during the investigation, the board said. He also received public support from President Trump. Asked by reporters whether he would bring Mr. Huang on his upcoming trip to China, Mr. Trump said, “I’d certainly take him.” He also described Mr. Huang as “an honorable guy.” As a co-founder, Mr. Huang has set up a unique structure at Nvidia where he dictates all aspects of its business while overseeing some 60 people who directly report to him. “Today’s news will not slow Nvidia,” Mr. Rizzo said. “Jensen is committed to continuing to lead Nvidia as C.E.O. without interruption.” Many questions about the situation remain unanswered, at least publicly.",
-   "zh": "",
-   "notes": []
+   "en_html": "Mr. Huang, 63, will continue to lead the company during the investigation, the board said. He also received public support from President Trump. Asked by reporters whether he would bring Mr. Huang on his <mark class=\"voc\">upcoming</mark> trip to China, Mr. Trump said, “I’d certainly take him.” He also described Mr. Huang as “an <mark class=\"voc\">honorable</mark> guy.” As a co-founder, Mr. Huang has <mark class=\"voc\">set up</mark> a unique structure at Nvidia where he <mark class=\"voc\">dictates</mark> all aspects of its business while overseeing some 60 people who directly report to him. “Today’s news will not slow Nvidia,” Mr. Rizzo said. “Jensen <mark class=\"voc\">is committed to</mark> continuing to lead Nvidia as C.E.O. without interruption.” Many questions about the situation remain unanswered, at least publicly.",
+   "zh": "董事会表示，现年63岁的黄仁勋将在调查期间继续领导公司。他还获得了特朗普总统的公开支持。当记者问特朗普，是否愿意在即将到来的中国之行中带上黄仁勋时，特朗普回答说：“我当然愿意带上他。”他还形容黄仁勋是“一个正直的人”。作为联合创始人，黄仁勋在英伟达建立了一套独特的管理架构：他掌控公司业务的方方面面，同时直接管理着大约60名向他汇报工作的人员。里佐先生表示：“今天的新闻不会拖慢英伟达的发展。黄仁勋将坚定不移地继续担任英伟达首席执行官，领导公司的工作不会受到任何中断。”至少从公开信息来看，围绕这一事件，仍有许多问题尚未得到解答。",
+   "notes": [
+    {
+     "w": "upcoming",
+     "ipa": "/ˈʌpˌkʌmɪŋ/",
+     "pos": "",
+     "en": "going to happen soon",
+     "zh": "即将到来的；即将举行的",
+     "ctx": "特朗普计划中即将进行的中国之行",
+     "ex1": "The president discussed his upcoming visit to several Asian countries. 总统谈到了他即将对几个亚洲国家进行的访问。",
+     "ex2": "Investors are closely watching the company's upcoming financial report. 投资者正密切关注这家公司即将发布的财务报告。"
+    },
+    {
+     "w": "honorable",
+     "ipa": "/ˈɑːnərəbəl/",
+     "pos": "",
+     "en": "deserving respect because of being honest, fair and morally good",
+     "zh": "正直的；值得尊敬的；品德高尚的",
+     "ctx": "特朗普用an honorable guy来形容黄仁勋，表达对其个人品格的认可",
+     "ex1": "He is widely regarded as an honorable man who always keeps his promises. 他被广泛认为是一个正直的人，总是信守承诺。",
+     "ex2": "The chairman described her as an honorable leader who had earned the trust of her colleagues. 董事长称她是一位值得尊敬的领导者，赢得了同事们的信任。"
+    },
+    {
+     "w": "set up",
+     "ipa": "/set ʌp/",
+     "pos": "",
+     "en": "to establish or arrange something, such as a company, system or organization",
+     "zh": "建立；设立；创建；安排",
+     "ctx": "黄仁勋在英伟达建立了一套不同寻常的公司管理架构",
+     "ex1": "The founder set up a management system that allowed him to make important decisions quickly. 创始人建立了一套管理体系，使自己能够迅速作出重要决策。",
+     "ex2": "The company set up a new department to oversee international operations. 公司设立了一个新部门，负责监督国际业务。"
+    },
+    {
+     "w": "dictate",
+     "ipa": "/ˈdɪkteɪt/",
+     "pos": "",
+     "en": "to control or decide how something should be done, often with strong authority",
+     "zh": "决定；支配；主导；发号施令",
+     "ctx": "黄仁勋对英伟达业务的各个方面拥有高度控制权和决策权",
+     "ex1": "The founder still dictates the company's overall strategy and major investments. 创始人仍然主导公司的整体战略和重大投资。",
+     "ex2": "No single executive should dictate every decision in a large organization. 在一个大型组织中，不应该由某一位高管决定所有事情。"
+    },
+    {
+     "w": "be committed to",
+     "ipa": "/bi kəˈmɪtɪd tuː/",
+     "pos": "",
+     "en": "to be willing and determined to give time and effort to something because you believe it is important",
+     "zh": "致力于；坚定地投入；承诺坚持",
+     "ctx": "黄仁勋决心在调查期间继续担任英伟达首席执行官并履行领导职责",
+     "ex1": "The founder remains committed to leading the company through difficult times. 这位创始人仍然坚定地致力于带领公司渡过困难时期。",
+     "ex2": "The organization is committed to improving the quality of its services. 这个组织致力于提高服务质量。"
+    }
+   ]
   }
  ],
- "proper": [],
+ "proper": [
+  {
+   "name": "Jensen Huang / 黄仁勋",
+   "def": "黄仁勋1963年出生于中国台湾，后来移居美国，1993年与Chris Malachowsky和Curtis Priem共同创立英伟达（Nvidia）。公司最初以图形处理芯片（GPU）闻名，主要服务于电子游戏和计算机图形处理。随着人工智能技术发展，GPU强大的并行计算能力使英伟达成为AI产业的重要基础设施供应商。黄仁勋长期担任首席执行官，以标志性的黑色皮夹克、技术演讲和高度集中的管理风格著称。与许多由职业经理人接管的科技企业不同，他至今仍是公司的核心领导者。"
+  },
+  {
+   "name": "Corporate Board of Directors / 公司董事会",
+   "def": "董事会是上市公司治理体系中的重要机构，代表股东监督公司的重大决策和高级管理人员。首席执行官负责日常经营，但董事会通常拥有监督、评价乃至更换CEO的权力。当公司高管卷入可能影响商业机密、国家安全或股东利益的事件时，董事会可以成立独立调查委员会，并聘请外部律师开展审查。2026年11月8日，英伟达董事会正式宣布启动独立调查，由独立董事委员会和外部法律顾问负责监督，同时表示目前没有理由认为公司机密或美国国家安全已经受到损害。"
+  },
+  {
+   "name": "Nvidia and the AI Boom / 英伟达与人工智能热潮",
+   "def": "英伟达的崛起与人工智能的发展密不可分。传统CPU擅长处理复杂、连续的计算任务，而GPU能够同时执行大量相似的运算，非常适合训练大型人工智能模型。随着 ChatGPT等生成式AI应用普及，微软、谷歌、亚马逊等科技企业投入巨额资金建设AI数据中心，对高性能芯片的需求迅速增加。英伟达不仅销售芯片，还提供CUDA软件生态、网络设备和完整计算系统，因此在人工智能基础设施市场占据重要位置。这也解释了为什么黄仁勋能够从一名芯片企业创始人，成为全球科技界最受关注的人物之一。"
+  },
+  {
+   "name": "Jensen Huang’s Black Leather Jacket / 黄仁勋的黑色皮夹克",
+   "def": "黑色皮夹克已经成为黄仁勋最具辨识度的个人标志之一。他经常穿着皮夹克参加产品发布会、技术大会和公开演讲，形成了稳定的公众形象。与史蒂夫·乔布斯的黑色高领衫类似，这种固定着装逐渐成为企业家个人品牌的一部分。随着英伟达影响力不断扩大，黄仁勋本人也获得了近似明星的关注度，粉丝会在活动现场索要签名，甚至将他的皮夹克视为具有收藏价值的物品。文章通过这些细节，突出他在丑闻发生前几乎无人能够撼动的公众形象。"
+  },
+  {
+   "name": "Alice Huang (Huang Le) / 黄乐",
+   "def": "根据文章及2026年10月至11月的媒体报道，黄乐是一名中国籍商业高管，曾在中国担任电视记者，后来进入数据中心和芯片采购行业，并成为新加坡企业Megaspeed的高级管理人员。美国情报官员认为她与中国情报机构存在联系，并曾针对黄仁勋收集情报。部分报道进一步称，她可能被安排接近黄仁勋，以获取有关美国先进AI芯片及出口政策的信息。不过，这些属于美国情报机构的认定及媒体披露的指控，中国方面否认有关间谍行动的说法。她与黄仁勋没有亲属关系。"
+  },
+  {
+   "name": "U.S. Intelligence Agencies / 美国情报机构",
+   "def": "美国拥有多个承担不同任务的情报机构，其中中央情报局（CIA）主要负责对外情报收集和分析，国家安全局（NSA）重点涉及信号情报和网络安全，联邦调查局（FBI）则负责美国境内的反间谍和相关执法调查。情报机构可以通过通信情报、人员情报及其他合法授权的调查手段识别潜在安全威胁。需要注意，情报机构认定某人存在间谍活动，与法院经过审判认定其犯罪，并不是同一个概念。本文中有关黄乐身份的判断主要来自美国情报官员及媒体报道，并不等于已经公开完成司法定罪。"
+  },
+  {
+   "name": "Megaspeed International / Megaspeed国际公司",
+   "def": "Megaspeed是一家总部位于新加坡、从事数据中心和计算资源业务的企业。根据文章，该公司成立于2023年，与一家中国网络游戏企业分拆新加坡业务有关。它通过采购英伟达芯片建设数据中心，再将计算能力出租给客户。文章指出，其位于马来西亚的关联企业在2024年6月至2026年2月期间购买了至少价值48亿美元的先进AI设备。如此庞大的采购金额，与其相对有限的知名度形成鲜明反差，也成为美国调查人员关注的原因之一。需要区分的是，巨额采购本身并不能直接证明存在非法交易。"
+  },
+  {
+   "name": "AI Computing Power Rental / 人工智能算力租赁",
+   "def": "算力租赁是一种企业不必直接购买昂贵GPU，而是通过数据中心远程使用计算资源的商业模式。例如，一家中国人工智能公司可以向位于其他国家的数据中心支付费用，通过网络使用其GPU训练模型。这种模式类似于租房而不是买房：企业购买的是一段时间内的计算服务，而不一定拥有设备本身。文章中的Megaspeed扮演的就是这种中间商角色。算力租赁本身是一项正常的商业活动，但当设备涉及美国出口限制、客户位于受限制地区时，交易是否合规就会成为复杂的问题。"
+  },
+  {
+   "name": "ImportGenius / 全球贸易数据平台",
+   "def": "ImportGenius是一家提供国际贸易数据查询和分析服务的平台，主要利用海关及运输记录帮助企业、研究人员和记者了解货物的进出口流向。通过这些记录，可以分析某家公司从哪些供应商采购设备、交易规模大致有多大，以及货物可能运往何处。调查记者经常使用类似数据库追踪供应链、发现异常采购模式。不过，贸易记录只能说明相关申报和运输信息，并不能单独证明设备最终被安装在哪里、由谁实际使用，或者是否存在违法行为。"
+  },
+  {
+   "name": "U.S. Department of Commerce / 美国商务部",
+   "def": "美国商务部不仅负责经济和商业发展，还通过工业与安全局（Bureau of Industry and Security，BIS）管理重要的出口管制政策。对于高性能AI芯片、先进半导体制造设备及部分敏感技术，美国政府可以根据产品性能、最终用户和目的地设置出口限制。2022 年以来，美国不断调整针对中国先进计算芯片的出口管制措施。文章中美国商务部官员前往马来西亚数据中心检查设备，正与监管部门关注芯片最终用途和最终用户的职责有关。"
+  },
+  {
+   "name": "AI Chip Export Controls / 人工智能芯片出口管制",
+   "def": "出口管制是政府限制特定技术或产品向某些国家、企业或个人转移的制度。美国限制部分先进AI芯片出口中国，主要出于国家安全和先进计算技术竞争方面的考虑。但现代芯片供应链涉及制造商、经销商、数据中心、云服务商和最终客户等多个环节，因此监管并不只是检查芯片有没有直接从美国运往中国。即使设备先出口到第三国，如果实际最终用户或用途涉及受限制交易，也可能引发合规问题。不过，具体是否合法，需要依据适用的出口规则、许可证和实际交易结构判断。"
+  },
+  {
+   "name": "Malaysia and Singapore / 马来西亚与新加坡",
+   "def": "新加坡和马来西亚都是东南亚重要的商业与科技基础设施中心。新加坡拥有成熟的国际金融、贸易和数据中心产业，但土地及电力资源相对有限；马来西亚则凭借土地、电力和基础设施成本等条件吸引数据中心投资。因此，企业在新加坡设立总部、在马来西亚建设或运营数据中心，是可以理解的商业布局。文章中的Megaspeed涉及新加坡公司及马来西亚关联企业，调查重点并不是两国的地理位置本身，而是芯片采购、设备部署与最终使用情况是否一致。"
+  },
+  {
+   "name": "Bloomberg News / 彭博新闻社",
+   "def": "彭博新闻社是全球重要的财经新闻机构，隶属于Bloomberg，主要报道金融市场、跨国企业、经济政策和科技产业。由于拥有大量金融终端用户，其报道经常涉及上市公司高管、投资者和市场敏感信息。文章提到，黄仁勋在2026年10月底接受彭博采访时，强调自己与Megaspeed相关人员的接触属于正常商业往来。随着11月更多有关私人关系的报道出现，他此前的公开解释受到进一步审视。这一时间上的变化，也是文章叙事反转的重要部分。"
+  },
+  {
+   "name": "Counterintelligence / 反间谍活动",
+   "def": "反间谍是国家安全体系中的重要组成部分，主要目标是发现、防范和阻止外国情报机构获取敏感信息、影响决策或接近重要人物。与普通商业调查不同，反间谍调查不仅关注是否存在已经发生的信息泄露，也关注潜在的接触渠道和安全风险。企业高管可能掌握技术发展方向、商业战略及重要政策沟通信息，因此有时会成为外国情报活动关注的对象。本文的关键在于，美国官员担心的不只是两个人之间的私人关系，而是这种关系是否可能成为获取信息或施加影响的渠道。"
+  },
+  {
+   "name": "Intelligence Surveillance / 情报监视",
+   "def": "情报监视是指情报或执法机构通过依法授权的方式，对特定人员的活动、通信或接触关系进行调查和分析。其具体方式可能包括通信数据分析、现场观察及其他情报收集手段，但本文没有公开说明针对黄乐的具体监视技术。报道声称，美国调查人员在监视过程中发现她与黄仁勋存在联系，并据此判断两人的关系具有恋爱性质。课堂上需要强调：发现通信联系、判断关系性质和证明某种犯罪行为，是三个不同层次的问题，不能直接画等号。"
+  },
+  {
+   "name": "Congressional Hearing / 美国国会听证会",
+   "def": "美国国会除了立法，还拥有监督政府部门、调查公共事务以及要求相关人员提供信息的权力。国会委员会可以邀请企业高管参加听证会，也可以要求其提交文件、接受正式问询。2026 年11月，美国众议院多个委员会的共和党主席要求黄仁勋就其与黄乐的接触以及英伟达防范外国情报活动的安全机制进行闭门情况说明。国会关注的重点包括美国敏感技术是否面临风险，以及企业是否建立了足够的保护措施。闭门情况说明不必然等于公开听证或宣誓作证，应当区分。"
+  },
+  {
+   "name": "Testimony Under Oath / 宣誓作证",
+   "def": "在美国法律和国会调查程序中，证人可能被要求宣誓，承诺提供真实信息。宣誓作证具有重要法律意义，因为在适用的情况下，故意作出重大虚假陈述可能引发伪证等法律责任。相比普通媒体采访，正式宣誓证词受到更严格的法律约束。文章提到黄仁勋可能需要在国会宣誓作证，是为了说明调查压力可能升级。但截至相关报道时，国会提出的具体要求包括闭门情况说明，不能把可能发生的宣誓作证描述成已经发生的事实。"
+  },
+  {
+   "name": "Independent Board Investigation / 董事会独立调查",
+   "def": "当一家上市公司的CEO卷入重大争议时，董事会可以设立由独立董事组成的特别委员会，并聘请外部律师调查，以减少管理层对调查过程的干预。调查可能涉及公司内部通信、商业决策、利益冲突、信息安全和相关人员的陈述。英伟达董事会在2026年11月8日宣布采取这一机制，同时表示对黄仁勋及其领导团队保持信心。需要注意，董事会认为目前没有证据显示机密受到损害，并不意味着调查已经结束或所有问题都得到解答。"
+  },
+  {
+   "name": "Donald Trump and Jensen Huang / 特朗普与黄仁勋",
+   "def": "特朗普政府将人工智能、先进芯片和美国科技竞争力视为重要政策议题，而英伟达在全球AI基础设施市场具有重要影响力，因此黄仁勋不仅是一名企业高管，也经常参与美国科技政策相关讨论。2026年11月8日，特朗普在被记者问及相关事件时公开称赞黄仁勋，并表示愿意考虑带他参加亚洲之行。特朗普的表态体现了政治人物对重要科技企业家的公开支持，但这种支持不等于对调查结果作出了法律判断，也不意味着董事会或国会的调查程序会因此终止。"
+  },
+  {
+   "name": "Nvidia’s Management Structure / 英伟达的管理架构",
+   "def": "许多大型企业采用层级式管理结构，CEO通常通过少数高级副总裁管理不同部门，再由这些高管逐级向下分配工作。黄仁勋的管理方式则相对扁平化。根据文章，他有大约60名直接汇报工作的人员，并高度参与公司的产品、技术及商业决策。这种模式有助于减少管理层级、加快信息传递，也使企业的战略与创始人个人判断高度绑定。但另一方面，当创始人掌握大量关键决策权时，企业也可能面临关键人物风险（key-person risk）：如果核心领导者突然无法履职，公司的管理稳定性和市场信心就可能受到影响。"
+  }
+ ],
  "sources_note": "依据美国《纽约时报》（The New York Times）2026-11-10 报道。",
- "practice": {},
+ "practice": {
+  "intro": "请根据今天学习的文章，用自己的英文复述整篇新闻（提示词见各题括号内）。",
+  "items": [
+   "事件曝光：英伟达CEO遭调查。英伟达宣布对首席执行官黄仁勋展开调查，因为他承认与一名被美国情报机构认定为间谍的商业高管存在亲密关系，并为自己的婚外情公开道歉。（open an investigation into / acknowledge / intimate relationship / apologize）",
+   "从事业巅峰到个人危机。过去几年，黄仁勋带领英伟达成为全球最有价值的公司之一，自己也成为科技界的明星人物。然而，这场风波成为他事业中一次罕见的失误。（could do no wrong / valuable / misstep / affair）",
+   "神秘公司Megaspeed引起怀疑。Megaspeed通过购买英伟达芯片建设数据中心，再向中国企业出租算力。其关联公司采购了价值至少48亿美元的设备，但调查人员发现部分设备仍然装在箱子里，因此怀疑芯片可能被非法转运。（middleman / computing power / suspicious / illegally）",
+   "情报监视揭露关系真相。美国政府对黄乐进行监视，发现她与黄仁勋之间存在恋爱关系。这与英伟达此前声称两人只是正常商业往来的说法相矛盾。（surveillance / romantic / misleading / undercut）",
+   "调查继续，特朗普公开支持。尽管国会希望黄仁勋作证，英伟达董事会仍表示他可以继续领导公司。特朗普也公开支持黄仁勋，但事件仍有许多问题尚未得到解答。（testify / public support / continue / remain unanswered）"
+  ],
+  "critical_en": "Should a successful CEO’s private life affect their professional reputation and career? Why or why not?",
+  "critical_zh": "一位成功的首席执行官，其私人生活是否应该影响他的职业声誉和事业？为什么？",
+  "answer": "1. Nvidia opened an investigation into CEO Jensen Huang after he acknowledged an affair with a business executive identified by U.S. intelligence as a Chinese spy. The scandal was a rare misstep for Huang, who had made Nvidia one of the world’s most valuable companies. Investigators were already suspicious of Megaspeed’s huge chip purchases and possible illegal exports to China. Government surveillance revealed Huang’s romantic relationship, undercutting Nvidia’s earlier statements. Although Congress wanted him to testify, Nvidia’s board allowed him to continue leading the company. President Trump also expressed public support, but many questions remain unanswered.<br>参考译文：英伟达对首席执行官黄仁勋展开调查，此前他承认与一名被美国情报机构认定为中国间谍的商业高管发生婚外情。这场丑闻成为黄仁勋罕见的一次失误，而他此前已将英伟达发展成全球最有价值的公司之一。调查人员此前就已经对Megaspeed巨额的芯片采购以及可能存在的非法对华出口行为产生怀疑。政府监视行动揭露了黄仁勋的恋爱关系，削弱了英伟达此前声明的可信度。尽管国会希望他出席作证，英伟达董事会仍允许他继续领导公司。特朗普总统也公开表达了支持，但许多问题仍未得到解答。<br><br>2. I believe a CEO’s private life should remain private unless their actions affect the company or public trust. However, if a personal relationship creates security risks or leads to misleading statements, an investigation is necessary. Professional success should not protect anyone from responsibility.<br>参考译文：我认为，首席执行官的私人生活应该受到尊重，除非其个人行为影响了公司或公众信任。然而，如果一段私人关系带来了安全风险，或者导致了误导性的声明，那么展开调查就是必要的。职业上的成功不应该成为任何人逃避责任的理由。"
+ },
  "mindmap": {
   "aria": "英伟达调查黄仁勋与中方间谍关系思维导图",
   "alt": "手绘版思维导图：THE CHIP KING，三枝 THE SCANDAL → WHY → SPY SHADOW → THEREFORE → STILL IN CHARGE",
   "svg": "<svg viewBox=\"0 0 960 530\" xmlns=\"http://www.w3.org/2000/svg\" role=\"img\" aria-label=\"英伟达调查黄仁勋与中方间谍关系思维导图\" style=\"width:100%;height:auto;font-family:-apple-system,'PingFang SC','Hiragino Sans GB','Microsoft YaHei',sans-serif\">\n<rect x=\"24\" y=\"221\" width=\"176\" height=\"88\" rx=\"14\" fill=\"#eae3d2\" stroke=\"#9a8f76\"/>\n<text x=\"112\" y=\"257\" text-anchor=\"middle\" fill=\"#3d3a34\" font-size=\"17\" font-weight=\"700\">芯片之王</text>\n<text x=\"112\" y=\"283\" text-anchor=\"middle\" fill=\"#5c5648\" font-size=\"12.5\">私情牵出间谍疑云</text>\n<path d=\"M200,265 C232,265 232,88 260,88\" stroke=\"#6b8f71\" stroke-width=\"2\" fill=\"none\"/>\n<path d=\"M200,265 C232,265 232,265 260,265\" stroke=\"#7d98ad\" stroke-width=\"2\" fill=\"none\"/>\n<path d=\"M200,265 C232,265 232,442 260,442\" stroke=\"#bd7a6d\" stroke-width=\"2\" fill=\"none\"/>\n<g class=\"mm-branch\" data-target=\"bc1\">\n<rect x=\"260\" y=\"71\" width=\"190\" height=\"34\" rx=\"8\" fill=\"#e6efe7\" stroke=\"#6b8f71\"/>\n<text x=\"355\" y=\"93\" text-anchor=\"middle\" fill=\"#4c6b52\" font-size=\"15\" font-weight=\"700\">丑闻立案（¶1-2）</text>\n<text class=\"mm-arrow\" data-for=\"bc1\" x=\"442\" y=\"93\" text-anchor=\"end\" fill=\"#4c6b52\">▾</text>\n</g>\n<g class=\"mm-children\" id=\"bc1\">\n<path d=\"M450,88 C462,88 462,46 480,46\" stroke=\"#6b8f71\" stroke-width=\"1.5\" fill=\"none\"/>\n<path d=\"M450,88 C462,88 462,88 480,88\" stroke=\"#6b8f71\" stroke-width=\"1.5\" fill=\"none\"/>\n<path d=\"M450,88 C462,88 462,130 480,130\" stroke=\"#6b8f71\" stroke-width=\"1.5\" fill=\"none\"/>\n<rect x=\"480\" y=\"30\" width=\"456\" height=\"32\" rx=\"8\" fill=\"#e6efe7\"/><text x=\"492\" y=\"51\" fill=\"#3d3a34\" font-size=\"14\">董事会就这段关系立案</text>\n<rect x=\"480\" y=\"72\" width=\"456\" height=\"32\" rx=\"8\" fill=\"#e6efe7\"/><text x=\"492\" y=\"93\" fill=\"#3d3a34\" font-size=\"14\">「我对妻子不忠」，公开道歉</text>\n<rect x=\"480\" y=\"114\" width=\"456\" height=\"32\" rx=\"8\" fill=\"#e6efe7\"/><text x=\"492\" y=\"135\" fill=\"#3d3a34\" font-size=\"14\">三年无错形象，反衬落差</text>\n</g>\n<g class=\"mm-branch\" data-target=\"bc2\">\n<rect x=\"260\" y=\"248\" width=\"190\" height=\"34\" rx=\"8\" fill=\"#e5edf4\" stroke=\"#7d98ad\"/>\n<text x=\"355\" y=\"270\" text-anchor=\"middle\" fill=\"#3d5872\" font-size=\"15\" font-weight=\"700\">国安坐实（¶3-7）</text>\n<text class=\"mm-arrow\" data-for=\"bc2\" x=\"442\" y=\"270\" text-anchor=\"end\" fill=\"#3d5872\">▾</text>\n</g>\n<g class=\"mm-children\" id=\"bc2\">\n<path d=\"M450,265 C462,265 462,202 480,202\" stroke=\"#7d98ad\" stroke-width=\"1.5\" fill=\"none\"/>\n<path d=\"M450,265 C462,265 462,244 480,244\" stroke=\"#7d98ad\" stroke-width=\"1.5\" fill=\"none\"/>\n<path d=\"M450,265 C462,265 462,286 480,286\" stroke=\"#7d98ad\" stroke-width=\"1.5\" fill=\"none\"/>\n<path d=\"M450,265 C462,265 462,328 480,328\" stroke=\"#7d98ad\" stroke-width=\"1.5\" fill=\"none\"/>\n<rect x=\"480\" y=\"186\" width=\"456\" height=\"32\" rx=\"8\" fill=\"#e5edf4\"/><text x=\"492\" y=\"207\" fill=\"#3d3a34\" font-size=\"14\">对方涉谍，且是英伟达大客户高管</text>\n<rect x=\"480\" y=\"228\" width=\"456\" height=\"32\" rx=\"8\" fill=\"#e5edf4\"/><text x=\"492\" y=\"249\" fill=\"#3d3a34\" font-size=\"14\">中间商 48 亿买货，货未拆封疑转运</text>\n<rect x=\"480\" y=\"270\" width=\"456\" height=\"32\" rx=\"8\" fill=\"#e5edf4\"/><text x=\"492\" y=\"291\" fill=\"#3d3a34\" font-size=\"14\">采购放量同期交往，华盛顿起疑</text>\n<rect x=\"480\" y=\"312\" width=\"456\" height=\"32\" rx=\"8\" fill=\"#e5edf4\"/><text x=\"492\" y=\"333\" fill=\"#3d3a34\" font-size=\"14\">一年监控坐实恋情，推翻「完全正常」</text>\n</g>\n<g class=\"mm-branch\" data-target=\"bc3\">\n<rect x=\"260\" y=\"425\" width=\"190\" height=\"34\" rx=\"8\" fill=\"#f4e7e4\" stroke=\"#bd7a6d\"/>\n<text x=\"355\" y=\"447\" text-anchor=\"middle\" fill=\"#7c4a3e\" font-size=\"15\" font-weight=\"700\">压而未倒（¶8-9）</text>\n<text class=\"mm-arrow\" data-for=\"bc3\" x=\"442\" y=\"447\" text-anchor=\"end\" fill=\"#7c4a3e\">▾</text>\n</g>\n<g class=\"mm-children\" id=\"bc3\">\n<path d=\"M450,442 C462,442 462,400 480,400\" stroke=\"#bd7a6d\" stroke-width=\"1.5\" fill=\"none\"/>\n<path d=\"M450,442 C462,442 462,442 480,442\" stroke=\"#bd7a6d\" stroke-width=\"1.5\" fill=\"none\"/>\n<path d=\"M450,442 C462,442 462,484 480,484\" stroke=\"#bd7a6d\" stroke-width=\"1.5\" fill=\"none\"/>\n<rect x=\"480\" y=\"384\" width=\"456\" height=\"32\" rx=\"8\" fill=\"#f4e7e4\"/><text x=\"492\" y=\"405\" fill=\"#3d3a34\" font-size=\"14\">国会要宣誓作证，董事会启动问询</text>\n<rect x=\"480\" y=\"426\" width=\"456\" height=\"32\" rx=\"8\" fill=\"#f4e7e4\"/><text x=\"492\" y=\"447\" fill=\"#3d3a34\" font-size=\"14\">董事会称国安未损，特朗普公开背书</text>\n<rect x=\"480\" y=\"468\" width=\"456\" height=\"32\" rx=\"8\" fill=\"#f4e7e4\"/><text x=\"492\" y=\"489\" fill=\"#3d3a34\" font-size=\"14\">60 人直属的集权结构，照常掌舵</text>\n</g>\n<text x=\"486\" y=\"170\" fill=\"#8a8578\" font-size=\"11.5\">↓ 为何</text>\n<text x=\"486\" y=\"368\" fill=\"#8a8578\" font-size=\"11.5\">↓ 因此</text>\n</svg>",
   "img": "/Users/malen/.workbuddy/backups/handmap/2026-11-10_芯片之王_手绘.jpg"
  },
- "audio": false
+ "audio": true
 }
