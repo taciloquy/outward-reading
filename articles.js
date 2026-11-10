@@ -1,6 +1,13 @@
 // ===== 文章数据库（独立静态资源；正文全文见 search-index.js） =====
     const ARTICLES = [
       {
+        title: "450万移民改变了美国：他们究竟是谁，又去了哪里？",
+        publishDate: "2026-11-11",
+        fileKey: "2026-11-11_001",
+        readingPath: "/outward-reading/articles/2026/11/2026-11-11_001.reading.html",
+        source: "The Associated Press"
+      },
+      {
         title: "千亿帝国掌舵人的私密丑闻：黄仁勋承认出轨，对方被美情报部门认定为间谍",
         publishDate: "2026-11-10",
         fileKey: "2026-11-10_001",
