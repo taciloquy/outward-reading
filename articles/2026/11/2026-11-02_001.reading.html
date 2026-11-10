@@ -1661,5 +1661,48 @@ function toggleTitleAudio(btn){
   }, true);
 })();
 </script>
-</body>
+<script id="search-jump">
+/* 搜全文跳转：?q=关键词 → 定位到该句并橙色高亮（#ffc078，与列表页黄色区分） */
+(function(){
+  try{
+    var q=(new URLSearchParams(location.search)).get('q');
+    if(!q||!q.trim())return;
+    var parts=q.trim().split(/\s+/).map(function(s){return s.replace(/[.*+?^${}()|[\]\\]/g,'\\$&')});
+    var re=new RegExp(parts.join('\\s+'),'i');
+    var walker=document.createTreeWalker(document.body,NodeFilter.SHOW_TEXT,
+      {acceptNode:function(n){return n.nodeValue.trim()?NodeFilter.FILTER_ACCEPT:NodeFilter.FILTER_REJECT}});
+    var nodes=[],nd;while((nd=walker.nextNode()))nodes.push(nd);
+    var full='',spans=[];
+    nodes.forEach(function(x){spans.push([full.length,full.length+x.nodeValue.length,x]);full+=x.nodeValue});
+    var m=full.match(re);
+    function toView(el){try{el.scrollIntoView({behavior:'smooth',block:'center'})}catch(e){el.scrollIntoView()}}
+    if(m){
+      var s=m.index,e=s+m[0].length,done=null;
+      spans.forEach(function(sp){
+        var a=sp[0],b=sp[1],x=sp[2];
+        if(b<=s||a>=e)return;
+        try{
+          var rng=document.createRange();
+          rng.setStart(x,Math.max(s,a)-a);rng.setEnd(x,Math.min(e,b)-a);
+          var mk=document.createElement('mark');
+          mk.style.background='#ffc078';mk.style.color='inherit';
+          rng.surroundContents(mk);
+          if(!done)done=mk;
+        }catch(err){}
+      });
+      if(done)toView(done);
+    }else{
+      /* 关键词跨标签拼接无法整体匹配时：退而定位到包含它的最小块级元素，橙框提示 */
+      var els=document.querySelectorAll('div,p,h1,h2,h3,li');
+      for(var i=0;i<els.length;i++){var el=els[i];
+        if(el.querySelector('div,p,li'))continue;
+        if(re.test(el.textContent)){
+          el.style.outline='3px solid #ffc078';el.style.outlineOffset='2px';
+          toView(el);break;
+        }
+      }
+    }
+  }catch(e){}
+})();
+</script></body>
 </html>

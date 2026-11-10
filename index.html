@@ -136,7 +136,7 @@
     <div class="empty" v-if="searchLoading">正在加载全文索引…</div>
     <div class="empty" v-else-if="searchError" style="color:#a33;">{{ searchError }}</div>
     <div class="article-list" v-else-if="articleList.length>0">
-      <div class="article-item" v-for="art in articleList" :key="art.fileKey" @click="openArticle(art)">
+      <div class="article-item" v-for="art in articleList" :key="art.fileKey" @click="openArticle(art, art._kw)">
         <div class="title">{{ art.title }}</div>
         <div class="date">{{ art.publishDate }}</div>
         <div v-if="art._snippet" style="font-size:0.85rem;color:#666;margin-top:6px;line-height:1.5;" v-html="art._snippet"></div>
@@ -330,7 +330,7 @@
             (a.source||"").toLowerCase().includes(k)
           ).map(a => {
             const s = this.extractSnippet(a.title, kw)
-            return {...a, _snippet: s ? '【标题】' + s : ''}
+            return {...a, _snippet: s ? '【标题】' + s : '', _kw: kw}
           })
         },
         // 全文索引 343KB，独立文件按需注入 script（本地 file:// 也能用，不受 CORS 限制）。
@@ -375,13 +375,17 @@
             (a.source||"").toLowerCase().includes(k)
           ).map(a => {
             const s = this.extractSnippet(texts[a.fileKey] || '', kw)
-            return {...a, _snippet: s ? s : ''}
+            return {...a, _snippet: s ? s : '', _kw: kw}
           })
         },
-        openArticle(art){
+        openArticle(art, kw){
           /* 29 日之后的新式文章：点一下直接进文章页本体，不再套弹窗（无「精读页」按钮、无 ✕）。
-             返回走浏览器返回键或文章页顶部的「← 返回日历」 */
-          if(art && art.readingPath){ location.href = art.readingPath; return }
+             返回走浏览器返回键或文章页顶部的「← 返回日历」。
+             搜索结果点击：把关键词经 ?q= 带过去，精读页自动定位到该句并橙色高亮 */
+          if(art && art.readingPath){
+            location.href = art.readingPath + (kw ? '?q=' + encodeURIComponent(kw) : '')
+            return
+          }
           this.currentArticle = art
           this.showArticle = true
           this.mode = "clean"
@@ -457,25 +461,36 @@
         scrollToKeyword(kw){
           const container = document.querySelector('.modal-card')
           if(!container) return
-          // 遍历文本节点找关键词
-          const walker = document.createTreeWalker(container, NodeFilter.SHOW_TEXT, null)
-          const kwLower = kw.toLowerCase()
-          let node
-          while(node = walker.nextNode()){
-            if(node.textContent.toLowerCase().includes(kwLower)){
-              // 高亮并滚动
+          /* 与精读页注入脚本同款算法：拼接全文文本节点做整体匹配（词被生词链接等
+             标签拆开也能命中），命中处拆分包裹橙色高亮（#ffc078，与列表页黄色区分） */
+          const parts = kw.trim().split(/\s+/).map(s => s.replace(/[.*+?^${}()|[\]\\]/g,'\\$&'))
+          const re = new RegExp(parts.join('\\s+'), 'i')
+          const walker = document.createTreeWalker(container, NodeFilter.SHOW_TEXT, {
+            acceptNode: n => n.nodeValue.trim() ? NodeFilter.FILTER_ACCEPT : NodeFilter.FILTER_REJECT
+          })
+          const nodes = []; let nd
+          while(nd = walker.nextNode()) nodes.push(nd)
+          let full = ''; const spans = []
+          nodes.forEach(x => { spans.push([full.length, full.length + x.nodeValue.length, x]); full += x.nodeValue })
+          const m = full.match(re)
+          if(!m) return
+          const s = m.index, e = s + m[0].length
+          let done = null
+          spans.forEach(sp => {
+            const a = sp[0], b = sp[1], x = sp[2]
+            if(b <= s || a >= e) return
+            try {
               const range = document.createRange()
-              const idx = node.textContent.toLowerCase().indexOf(kwLower)
-              range.setStart(node, idx)
-              range.setEnd(node, idx + kw.length)
+              range.setStart(x, Math.max(s,a) - a)
+              range.setEnd(x, Math.min(e,b) - a)
               const mark = document.createElement('mark')
-              mark.style.background = '#fef08a'
-              mark.style.padding = '2px 0'
+              mark.style.background = '#ffc078'
+              mark.style.color = 'inherit'
               range.surroundContents(mark)
-              mark.scrollIntoView({behavior:'smooth', block:'center'})
-              break
-            }
-          }
+              if(!done) done = mark
+            } catch(err) {}
+          })
+          if(done) done.scrollIntoView({behavior:'smooth', block:'center'})
         },
         closeArticle(){
           this.showArticle = false
