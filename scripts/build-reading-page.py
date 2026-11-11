@@ -319,6 +319,22 @@ def main():
                  for m in re.finditer(r'<section class="paragraph" id="p\d+">.*?</section>', s, re.S)]
         s = s[:spans[-1][1]] + "\n\n" + tail + s[spans[-1][1]:]
 
+    # 9.7 打印紧凑模式：预习版自然段多、但打印必须正好 2 页时，只压缩打印态留白，
+    # 绝不合并原文段落（2026-11-11 用户定：预习版段落编号要与次日完整笔记对齐，
+    # 完整笔记才是最终版，会带逐段译文/词卡）。仅 @media print 生效，屏幕版式不变。
+    # 在 content JSON 里写 "print_compact": true 可显式开启；段落 >= 11 时自动兜底
+    # （次日完整笔记往往沿用原文的 12 段，打印只出英文正文，同样需要紧凑留白）。
+    if c.get("print_compact") or len(paras) >= 11:
+        compact = (
+            '<style id="print-compact">@media print{\n'
+            '  .paragraph,.headline-block{margin:0 0 5pt !important}\n'
+            '  .p-label{margin:0 0 2pt !important}\n'
+            '  .en-block{line-height:1.48 !important}\n'
+            '  h1{margin:0 0 4pt !important}\n'
+            '}</style>\n'
+        )
+        s = s.replace("</head>", compact + "</head>", 1)
+
     open(sys.argv[2], "w", encoding="utf-8").write(s)
     print(f"已生成 {sys.argv[2]}（{len(s)//1024} KB，段落 {len(paras)}，词汇 {vi}，专名 {len(c['proper'])}）")
 
