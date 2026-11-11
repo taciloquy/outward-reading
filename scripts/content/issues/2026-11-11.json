@@ -9,5 +9,64 @@
  "headline_en": "A Border Surge Reshaped America. Now, Data Shows Who 4.5 Million Migrants Were and Where They Went",
  "headline_zh": "450万移民改变了美国：他们究竟是谁，又去了哪里？",
  "sources_note": "依据美联社（The Associated Press）2026-11-11 报道。",
- "marks": {}
+ "marks": {
+  "1": [
+   ["unprecedented", "unprecedented"],
+   ["border crossing", "border crossing"],
+   ["immigrant", "immigrant"],
+   ["exclusively", "exclusively"],
+   ["paint a picture of", "paints a picture of"],
+   ["unfold", "unfold"]
+  ],
+  "2": [
+   ["via", "via"],
+   ["self-reported", "self-reported"],
+   ["a sharp departure from", "a sharp departure from"],
+   ["magnet", "magnet"],
+   ["find one's way to", "found their way to"],
+   ["foothold", "foothold"]
+  ],
+  "4": [
+   ["countryman", "countrymen"],
+   ["pile into", "piled into"],
+   ["mattress", "mattress"],
+   ["unaccustomed", "unaccustomed"],
+   ["crammed", "crammed"],
+   ["pose a serious hazard", "pose a serious hazard"]
+  ],
+  "5": [
+   ["influx", "influx"],
+   ["Christian-run", "Christian-run"],
+   ["lobby", "lobby"],
+   ["pantry", "pantry"],
+   ["packed", "packed"],
+   ["stretch out", "stretching out"],
+   ["put out a request", "put out a request"]
+  ],
+  "7": [
+   ["school", "school"],
+   ["fellow countryman", "fellow countrymen"],
+   ["scold", "scold"],
+   ["whistle at", "whistle at"]
+  ],
+  "8": [
+   ["circulate", "circulate"],
+   ["right-wing", "right-wing"],
+   ["invasion", "invasion"],
+   ["flyer", "flyer"],
+   ["red-blooded", "red-blooded"],
+   ["take a stand", "take your stand"],
+   ["neo-Nazi", "neo-Nazi"],
+   ["swastika", "swastika"],
+   ["overpass", "overpass"],
+   ["sound the alarm", "sounding the alarm"]
+  ]
+ },
+ "practice_intro": "请根据今天学习的文章，用 80–100 个英文单词复述美国 450 万移民如何改变美国社会（提示词见各题括号内）。",
+ "critical_en": "Is immigration a threat to American identity, or is it the very tradition that defines America?",
+ "critical_zh": "移民究竟是在威胁美国的身份认同，还是恰恰代表了塑造美国的核心传统？",
+ "mindmap": {
+  "template": "scripts/content/2026-10-31.json",
+  "aria": "450万移民重塑美国思维导图"
+ }
 }

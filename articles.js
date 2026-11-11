@@ -1,6 +1,13 @@
 // ===== 文章数据库（独立静态资源；正文全文见 search-index.js） =====
     const ARTICLES = [
       {
+        title: "Anthropic 剑指 1.4 万亿美元估值，上演一场爆炸级的上市",
+        publishDate: "2026-11-12",
+        fileKey: "2026-11-12_001",
+        readingPath: "/outward-reading/articles/2026/11/2026-11-12_001.reading.html",
+        source: "Bloomberg"
+      },
+      {
         title: "450万移民改变了美国：他们究竟是谁，又去了哪里？",
         publishDate: "2026-11-11",
         fileKey: "2026-11-11_001",

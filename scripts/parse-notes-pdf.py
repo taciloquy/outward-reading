@@ -33,7 +33,23 @@ RADICAL_MAP = {
     '\u2ed4': '门', '\u2edd': '食', '\u2edc': '飞', '\u2ec6': '角', '\u2eee': '齿',
     '\u2ebf': '言', '\u2ea2': '月', '\u2eb9': '高', '\u2ec2': '页',
     '\u2ec4': '西', '\u2ec5': '见', '\u2ee9': '黄',
+    '\u2ef0': '龙', '\u2ee4': '鬼',
 }
+
+# 练习区起头语随课件版式变化（旧版「请将以下中文句子」，新版「请根据今天学习的文章」）。
+# 默认多候选自动识别；--practice-mark 传参时只用指定值。
+DEFAULT_PRACTICE_STARTS = (
+    '请将以下中文句子',
+    '请根据今天学习的文章',
+    '请根据今天所学',
+    '根据今天学习的文章',
+    '根据今天所学',
+)
+PRACTICE_STARTS = DEFAULT_PRACTICE_STARTS
+
+
+def is_practice_start(t: str) -> bool:
+    return any(t.startswith(m) for m in PRACTICE_STARTS)
 
 
 def fix_radicals(t: str) -> str:
@@ -165,7 +181,7 @@ def _card_body(lines):
 def run_new_edition(clean, practice_mark):
     """新版式解析：卡片靠「词 + 词性 + 音标」识别，专名靠「编号. 英文名 / 中文名」。"""
     para_end = next((j for j, l in enumerate(clean)
-                     if l.strip().startswith(practice_mark)), len(clean))
+                     if is_practice_start(l.strip())), len(clean))
 
     def stops(i):
         """该行是否意味着「上一块内容到此为止」。"""
@@ -311,7 +327,7 @@ def run_new_edition(clean, practice_mark):
         t = fix_radicals(l.strip())
         if not t or t == '@@PAGE@@' or re.fullmatch(r'[\d：:，。]+', t):
             continue
-        if t.startswith(practice_mark[:6]):
+        if is_practice_start(t):
             mode = 'q'
             continue
         if t.startswith('思考题参考答案'):
@@ -328,9 +344,14 @@ def run_new_edition(clean, practice_mark):
             if m:
                 practice.append(m.group(1).strip())
             elif practice:
+                # 复述型练习的「关键词：a / b / c」提示行 → 括号提示词，
+                # 与旧版题干末尾的「（a / b / c）」保持同一版式。
+                prev = practice[-1]
+                if t.startswith('关键词：'):
+                    practice[-1] = prev + '（' + t[len('关键词：'):].strip() + '）'
+                    continue
                 # 题干折行直接拼回（中文之间不加空格）；编号标题行短且无末标点，
                 # 其后第一行是题干正文，补一个句号隔开；正文折行行长满，直接拼。
-                prev = practice[-1]
                 is_head = len(prev) <= 20 and prev[-1] not in '。，；、！？：））》”…'
                 sep = '。' if is_head else ''
                 practice[-1] = prev + sep + t
@@ -359,7 +380,7 @@ def run(pdf, proper_mark, practice_mark, drop):
     if '@@PROPER@@' not in clean:
         return run_new_edition(clean, practice_mark)
     para_end = next((j for j, l in enumerate(clean)
-                     if l.strip().startswith(practice_mark)), len(clean))
+                     if is_practice_start(l.strip())), len(clean))
     proper_idx = clean.index('@@PROPER@@')
 
     paras, pool = [], {'headline': []}
@@ -452,7 +473,7 @@ def run(pdf, proper_mark, practice_mark, drop):
     practice, answers, mode = [], [], 'q'
     for l in clean[para_end:]:
         t = l.strip()
-        if not t or t == '@@PAGE@@' or re.fullmatch(r'\d+', t) or t.startswith(practice_mark[:5]):
+        if not t or t == '@@PAGE@@' or re.fullmatch(r'\d+', t) or is_practice_start(t):
             continue
         if t == '参考答案' or t.startswith('参考答案'):
             mode = 'a'
@@ -488,10 +509,13 @@ def main():
     ap.add_argument('--out', required=True)
     ap.add_argument('--dump-text', help='把整份文本落到这个文件，便于排查')
     ap.add_argument('--proper-mark', default='【背景信息', help='专名区起头文字')
-    ap.add_argument('--practice-mark', default='请将以下中文句子', help='练习区起头文字')
+    ap.add_argument('--practice-mark', default=None,
+                    help='练习区起头文字（不传则自动识别多种课件版式）')
     ap.add_argument('--drop', action='append', default=[], help='额外丢弃的行正则，可多次')
     a = ap.parse_args()
 
+    global PRACTICE_STARTS
+    PRACTICE_STARTS = (a.practice_mark,) if a.practice_mark else DEFAULT_PRACTICE_STARTS
     pages = extract(a.pdf, dump=a.dump_text)
     data = run(a.pdf, a.proper_mark, a.practice_mark, a.drop)
     with open(a.out, 'w', encoding='utf-8') as f:

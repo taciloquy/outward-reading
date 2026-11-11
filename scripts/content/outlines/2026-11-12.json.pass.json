@@ -1,0 +1,31 @@
+{
+  "outline": "scripts/content/outlines/2026-11-12.json",
+  "outline_mtime": 1794372615.4499633,
+  "checked_at": "2026-11-11 12:50:15",
+  "user_confirmed": false,
+  "center": "万亿上市",
+  "branches": [
+    {
+      "title": "万亿定价",
+      "subs": 3,
+      "relation": null
+    },
+    {
+      "title": "增长与疑云",
+      "subs": 4,
+      "relation": "凭什么撑住"
+    },
+    {
+      "title": "账本与治理",
+      "subs": 3,
+      "relation": "然而账本上"
+    }
+  ],
+  "branch_count": 3,
+  "subs_counts": [
+    3,
+    4,
+    3
+  ],
+  "warns": []
+}
