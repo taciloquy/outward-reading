@@ -1287,7 +1287,7 @@ document.addEventListener('click', function(e){
 });
 /* ===== 逐段朗读 para-audio-v3 ===== */
 var PARA_AUDIO_BASE = 'audio/2026-11-12_002';
-var PARA_AUDIO_ENABLED = false;   // 预习原文阶段为 false：不注入朗读按钮，避免点开 404
+var PARA_AUDIO_ENABLED = true;    // 已配齐标题 + 8 段英音朗读，注入喇叭与「听全文」
 var paraAudioEl = null, paraPlayingBtn = null;
 function stopParaAudio(){
   if(paraAudioEl){ paraAudioEl.pause(); try{paraAudioEl.currentTime = 0;}catch(e){} }

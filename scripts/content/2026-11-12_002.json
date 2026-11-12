@@ -901,6 +901,7 @@
   "svg": "",
   "img": ""
  },
- "audio": false,
+ "audio": true,
+ "audio_dir": "audio/2026-11-12_002",
  "print_compact": true
 }
