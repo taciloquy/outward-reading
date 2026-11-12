@@ -1,6 +1,13 @@
 // ===== 文章数据库（独立静态资源；正文全文见 search-index.js） =====
     const ARTICLES = [
       {
+        title: "世界，是怎么变得如此依赖黄仁勋一个人的？",
+        publishDate: "2026-11-12",
+        fileKey: "2026-11-12_002",
+        readingPath: "/outward-reading/articles/2026/11/2026-11-12_002.reading.html",
+        source: "Financial Times"
+      },
+      {
         title: "Anthropic 剑指 1.4 万亿美元估值，上演一场爆炸级的上市",
         publishDate: "2026-11-12",
         fileKey: "2026-11-12_001",
