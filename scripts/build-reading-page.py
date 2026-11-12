@@ -261,7 +261,11 @@ def main():
     has_practice = pr.get("items") or pr.get("answer") or pr.get("intro") or pr.get("critical_en")
     if has_practice:
         items_html = "<br><br>".join(f"{i+1}. {it}" for i, it in enumerate(pr.get("items") or []))
-        ex_body = f"{pr.get('intro','')}<br><br>{items_html}<br><br>Critical Thinking 课后思考<br>{pr.get('critical_en','')}<br><br>{pr.get('critical_zh','')}"
+        ex_body = f"{pr.get('intro','')}<br><br>{items_html}"
+        # 本期待无思考题时不留一个只有标题的空块（如 2026-11-12）。
+        if pr.get("critical_en") or pr.get("critical_zh"):
+            ex_body += (f"<br><br>Critical Thinking 课后思考<br>{pr.get('critical_en','')}"
+                        f"<br><br>{pr.get('critical_zh','')}")
         practice = f'''<section class="practice" id="practice">
   <h2>翻译练习</h2>
 

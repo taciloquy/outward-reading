@@ -178,7 +178,8 @@ def main():
     for p in d['paragraphs']:
         n = p['n']
         cards = [card_out(c) for c in d['para_cards'].get(str(n)) or d['para_cards'].get(n) or []]
-        if not cards:
+        if not cards and n != 0:
+            # 第 0 段是无编号导语，本来就不带词卡；其余段落无卡说明解析出错。
             sys.exit(f'✗ 第 {n} 段没有词卡，检查 PDF 或 --drop 是否误删')
         en = overrides.get(str(n), p['en'])
         if str(n) in overrides:

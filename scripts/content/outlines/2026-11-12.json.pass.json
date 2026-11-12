@@ -1,8 +1,8 @@
 {
   "outline": "scripts/content/outlines/2026-11-12.json",
-  "outline_mtime": 1794382497.015872,
-  "checked_at": "2026-11-11 15:34:57",
-  "user_confirmed": false,
+  "outline_mtime": 1794470746.0243485,
+  "checked_at": "2026-11-12 16:05:55",
+  "user_confirmed": true,
   "center": "万亿上市",
   "branches": [
     {
@@ -16,9 +16,9 @@
       "relation": "凭什么撑住"
     },
     {
-      "title": "账本与治理",
+      "title": "治理与账本",
       "subs": 3,
-      "relation": "然而账本上"
+      "relation": "最终落到"
     }
   ],
   "branch_count": 3,

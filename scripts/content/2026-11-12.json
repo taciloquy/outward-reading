@@ -7,81 +7,834 @@
  "read_minutes": 10,
  "nav_hint": "Anthropic targets $1.4T IPO valuation",
  "headline": {
-  "en_html": "<span>Anthropic Targets $1.4 Trillion Valuation in Blockbuster IPO</span>",
+  "en_html": "Anthropic Targets $1.4 Trillion <mark class=\"voc\">Valuation</mark> in <mark class=\"voc\">Blockbuster</mark> <mark class=\"voc\">IPO</mark>",
   "zh": "Anthropic 剑指 1.4 万亿美元估值，上演一场爆炸级的上市",
-  "notes": []
+  "notes": [
+   {
+    "w": "valuation",
+    "ipa": "/ˌvæljuˈeɪʃn/",
+    "pos": "n.",
+    "en": "valuation (n.) means the estimated worth or value of something, especially a company or an asset",
+    "zh": "\"估值\"（value 价值+ -ation 名词后缀），金融语境核心义为估值、估价（本文特指：与value 的根本区别——value 是\"价值\"本身，valuation 是\"别人估出来的价\"。一个是东西值多少，一个是大家\"觉得\"它值多少，差一个\"估\"字，天壤之别。全文1.4 万亿正是valuation，不是value）",
+    "ctx": "",
+    "ex1": "The start-up reached a valuation of two billion dollars within three years.这家创业公司在三年内估值达到了20 亿美元。",
+    "ex2": "Investors questioned whether the valuation was realistic.投资者质疑这个估值是否现实。"
+   },
+   {
+    "w": "blockbuster",
+    "ipa": "/ˈblɒkbʌstə(r)/",
+    "pos": "adj. & n.",
+    "en": "blockbuster (adj./n.) means something very successful, popular or impressive, such as a film or event",
+    "zh": "\"二战时英国造的一种能炸平一整个街区的巨型炸弹\"（block 街区+ buster 破坏者），后被好莱坞借用指\"像炸弹炸开全城一样轰动的大片\"，新闻语境核心义为爆炸级的、轰动全球的",
+    "ctx": "",
+    "ex1": "The film became a blockbuster, breaking box-office records worldwide.这部电影成了票房炸弹，刷新了全球票房纪录。",
+    "ex2": "It could be a blockbuster deal that reshapes the entire industry. 这可能是一笔重塑整个行业的轰动级交易。"
+   },
+   {
+    "w": "IPO",
+    "ipa": "/ˌaɪ piː ˈoʊ/",
+    "pos": "n.",
+    "en": "IPO (n.) means initial public offering, the first time a company sells its shares to the public",
+    "zh": "\"首次公开募股\"（initial 最初的+ public 公开的+ offering 发售），金融语境核心义为首次公开募股、上市",
+    "ctx": "initial 是灵魂——只有第一次对公众卖股票才叫IPO，之后再增发就不叫了。上市意味着它从\"私有公司\"变成\"上市公司\"，任何人都能在股市上买到它的股票",
+    "ex1": "The company announced plans for an IPO on the New York Stock Exchange. 这家公司宣布了在纽约证券交易所上市的计划。",
+    "ex2": "Investors piled into the IPO, pushing the shares up on day one. 投资者蜂拥认购这次IPO，上市首日股价便上扬。"
+   }
+  ]
  },
  "paragraphs": [
   {
-   "en_html": "Anthropic PBC is seeking a fully diluted valuation of about $1.4 trillion in its initial public offering, in a bid to make history as the first frontier artificial intelligence lab to go public.",
-   "zh": "",
-   "notes": []
+   "en_html": "Anthropic <mark class=\"voc\">PBC</mark> is seeking a <mark class=\"voc\">fully diluted valuation</mark> of about $1.4 trillion in its initial public offering, <mark class=\"voc\">in a bid to</mark> make history as the first frontier artificial intelligence lab to go public.",
+   "zh": "Anthropic这家公益公司，正寻求以约1.4万亿美元的完全稀释估值上市——若能成行，它将成为史上第一家走进公开市场的前沿AI实验室。",
+   "notes": [
+    {
+     "w": "PBC / public benefit corporation",
+     "ipa": "/ˌpʌblɪk ˈbenɪfɪt ˌkɔːpəˈreɪʃn/",
+     "pos": "n.",
+     "en": "a public benefit corporation is a company legally required to balance shareholder interests with the interests of society",
+     "zh": "\"公益公司\"（public 公共的+ benefit 利益+ corporation 公司），公司法语境核心义为公益公司",
+     "ctx": "",
+     "ex1": "As a public benefit corporation, the firm must serve society as well as shareholders. 作为一家公益公司，它既要服务股东，也要服务社会。",
+     "ex2": "The benefit corporation model lets founders protect a social mission. 公益公司这种模式让创始人得以守住一项社会使命。"
+    },
+    {
+     "w": "fully diluted valuation",
+     "ipa": "/ˌfʊli daɪˈluːtɪd ˌvæljuˈeɪʃn/",
+     "pos": "n.",
+     "en": "fully diluted valuation means a company's total value when all possible shares, including options and restricted shares, are counted",
+     "zh": "\"完全稀释后的估值\"（fully 完全+ dilute 稀释+ valuation 估值），金融语境核心义为完全稀释后估值",
+     "ctx": "",
+     "ex1": "On a fully diluted basis, the company is worth about forty billion dollars. 按完全稀释口径计算，这家公司价值约400 亿美元。",
+     "ex2": "Founders care about fully diluted value because options will eventually convert into shares. 创始人看重完全稀释价值，因为期权最终会转成股份。"
+    },
+    {
+     "w": "in a bid to",
+     "ipa": "/ɪn ə ˈbɪd tə/",
+     "pos": "phrase",
+     "en": "in a bid to means in an attempt to, with the aim of achieving something",
+     "zh": "\"在出价以图……\"（bid 拍卖会上举牌出价的动作），新闻语境核心义为为了、试图、力求",
+     "ctx": "外刊出现率极高的固定搭配，但比in order to 多一层味道——bid 是拍卖的\"出价\"，所以in a bid to 背后藏着一个画面：Anthropic 不是平平淡淡上市，是举着牌子、喊了个天价，要赌自己在历史上留下一笔",
+     "ex1": "The firm cut prices in a bid to win back lost customers.这家公司降价，力图赢回流失的客户。",
+     "ex2": "He moved abroad in a bid to find better opportunities.他移居海外，以求找到更好的机会。"
+    }
+   ]
   },
   {
-   "en_html": "The Claude chatbot maker and some of its backers are seeking to raise as much as $90.4 billion in the IPO and a private placement. The base offering would raise up to $64.4 billion, with shares marketed for $70 to $78 each. At the top of the price range, Anthropic would have a market value of about $1 trillion, based on the shares outstanding listed in the filing. Accounting for employee stock options, restricted shares and stock reserved for the company’s charitable donation matching program, Anthropic would have a fully diluted value of about $1.4 trillion.",
-   "zh": "",
-   "notes": []
+   "en_html": "The Claude chatbot maker and some of its <mark class=\"voc\">backers</mark> are seeking to raise as much as $90.4 billion in the IPO and a <mark class=\"voc\">private placement</mark>. The <mark class=\"voc\">base offering</mark> would raise up to $64.4 billion, with shares marketed for $70 to $78 each. At the top of the price range, Anthropic would have a <mark class=\"voc\">market value</mark> of about $1 trillion, based on the <mark class=\"voc\">shares outstanding</mark> listed in the filing. <mark class=\"voc\">Accounting for</mark> employee stock options, restricted shares and stock reserved for the company’s charitable donation matching program, Anthropic would have a fully diluted value of about $1.4 trillion.",
+   "zh": "Anthropic这家Claude的缔造者，与其背后的一批投资方一道，拟通过IPO及一笔私募最多募得904亿美元；其中基础发行最多644亿美元，每股定价70至78美元。按价格区间上限、仅以已发行在外股份计，其市值约为1万亿美元；若再计入员工期权、限制性股票以及为慈善配捐计划预留的股份，完全稀释后的市值可达约1.4万亿美元。",
+   "notes": [
+    {
+     "w": "backer",
+     "ipa": "/ˈbækə(r)/",
+     "pos": "n.",
+     "en": "a backer is a person or company that gives financial support to a project or business",
+     "zh": "\"站在背后的人\"（back 背后+ -er 人），商业语境核心义为金主、出资人、投资人",
+     "ctx": "some of its backers——\"它背后的一批金主\"。注意some of 点出的细节：这场圈钱不是Anthropic 一家在卖，它背后的老股东也在跟着卖一点。一个是募新钱，一个是老股东套现，两码事",
+     "ex1": "The project found backers willing to put up millions in seed money. 这个项目找到了愿意投入数百万种子资金的金主。",
+     "ex2": "Early backers of the start-up saw their stakes multiply in value. 这家创业公司的早期投资人眼看着自己的股份成倍增值。"
+    },
+    {
+     "w": "private placement",
+     "ipa": "/ˌpraɪvɪt ˈpleɪsmənt/",
+     "pos": "n.",
+     "en": "a private placement is the sale of shares directly to a small number of chosen investors, not to the public",
+     "zh": "\"私下配售\"（private 私下的+ placement 安置、配售），金融语境核心义为私募、定向配售",
+     "ctx": "",
+     "ex1": "The company raised the money through a private placement to three institutions.这家公司通过向三家机构定向配售筹集了这笔资金。",
+     "ex2": "A private placement avoids the lengthy process of a public listing. 私募避开了公开上市那套漫长流程。"
+    },
+    {
+     "w": "base offering",
+     "ipa": "/beɪs ˈɒfərɪŋ/",
+     "pos": "n.",
+     "en": "the base offering is the core part of an IPO, the shares actually sold to the public before any extra options",
+     "zh": "\"基础发行\"（base 基础+ offering 发售），金融语境核心义为基础发行、基础发售部分",
+     "ctx": "904 亿是总数，里头分了好几块，真正拿到市场上公开卖给普通人的，是这644 亿的base offering。记住它是\"最实打实\"的那一块",
+     "ex1": "The base offering was oversubscribed several times over. 基础发行部分获得了数倍超额认购。",
+     "ex2": "The base offering raised the bulk of the IPO proceeds. 基础发行筹得了此次IPO 的大部分资金。"
+    },
+    {
+     "w": "market",
+     "ipa": "/ˈmɑːkɪt/",
+     "pos": "v.",
+     "en": "market (v.) means to sell or promote a product, often by setting a price and finding buyers",
+     "zh": "\"把……推向市场\"（market 市场→ 动词化），商业语境核心义为定价出售、营销",
+     "ctx": "",
+     "ex1": "The new phone is marketed for under five hundred dollars. 这款新手机的定价在500 美元以下。",
+     "ex2": "The company markets its software directly to small businesses. 这家公司直接向小企业营销其软件。"
+    },
+    {
+     "w": "shares outstanding",
+     "ipa": "/ʃeəz aʊtˈstændɪŋ/",
+     "pos": "n. phrase",
+     "en": "shares outstanding means all the shares of a company that have been issued and are held by investors",
+     "zh": "\"已发行在外的股票\"（outstanding 在此是\"未收回、仍在外面流通的\"，不是\"杰出\"），金融语境核心义为已发行在外股份",
+     "ctx": "outstanding 别被\"杰出\"那个意思骗了，在股票这儿它是\"已经发出去、还流在外面的\"。按shares outstanding 算，Anthropic 值1 万亿——这是\"只看桌上摆着的披萨块\"的口径",
+     "ex1": "The company has about five hundred million shares outstanding. 这家公司约有5 亿股已发行在外。",
+     "ex2": "Market value is calculated by multiplying price by shares outstanding. 市值等于股价乘以已发行在外股份数。"
+    },
+    {
+     "w": "account for",
+     "ipa": "/əˈkaʊnt fɔː(r)/",
+     "pos": "phrasal v.",
+     "en": "account for means to include or consider something, especially when calculating a total",
+     "zh": "\"把……也算进去\"（account 账目、清点+ for），财经语境核心义为把……计入、考虑到",
+     "ctx": "",
+     "ex1": "Once you account for taxes, the actual profit is much smaller.一旦把税算进去，实际利润要小得多。",
+     "ex2": "Online sales now account for nearly half of the company's revenue.线上销售如今占这家公司收入的近一半。"
+    }
+   ]
   },
   {
-   "en_html": "Anthropic’s ambitious target, including the private placement, would hit roughly $100 billion when including a so-called over-allotment option or greenshoe. Investors are under pressure to decide whether valuations in AI reflect a plausible trajectory for a technology that many expect to transform the economy and society as a whole, or overconfidence in an investment theme that hasn’t yet proven its staying power.",
-   "zh": "",
-   "notes": []
+   "en_html": "Anthropic’s <mark class=\"voc\">ambitious</mark> target, including the private placement, would hit roughly $100 billion when including a so-called over-allotment option or <mark class=\"voc\">greenshoe</mark>. Investors are under pressure to decide whether valuations in AI reflect a <mark class=\"voc\">plausible</mark> <mark class=\"voc\">trajectory</mark> for a technology that many expect to transform the economy and society as a whole, or <mark class=\"voc\">overconfidence</mark> in an <mark class=\"voc\">investment theme</mark> that hasn’t yet proven its <mark class=\"voc\">staying power</mark>.",
+   "zh": "Anthropic这一雄心勃勃的目标，若将私募与所谓的\"超额配售选择权\"（即绿鞋期权）一并计入，总规模将达约1000亿美元。投资者此刻如坐针毡，必须做出判断：AI领域的天价估值，究竟反映了一项被寄望于重塑整个经济与社会之技术的合理前景，还只是对一个尚未证明其持久生命力之投资主题的过度自信。",
+   "notes": [
+    {
+     "w": "ambitious",
+     "ipa": "/æmˈbɪʃəs/",
+     "pos": "adj.",
+     "en": "ambitious (adj.) means having a strong desire to succeed or to achieve something great",
+     "zh": "\"雄心勃勃的\"（ambition 雄心、抱负+ -ous），评价语境核心义为雄心勃勃的、野心大的",
+     "ctx": "",
+     "ex1": "The company set an ambitious goal of doubling revenue in two years. 这家公司定下了两年内收入翻倍的雄心目标。",
+     "ex2": "She is an ambitious founder who wants to build a global brand. 她是一位雄心勃勃、想打造全球品牌的创始人。"
+    },
+    {
+     "w": "greenshoe",
+     "ipa": "/ˈɡriːnʃuː/",
+     "pos": "n.",
+     "en": "a greenshoe is an option that lets underwriters sell extra shares in an IPO if demand is strong",
+     "zh": "\"绿鞋\"（green 绿+ shoe 鞋，源自1963 年第一家使用该机制的\"绿鞋制造公司\"Green Shoe Manufacturing），金融语境核心义为绿鞋期权、超额配售选择权",
+     "ctx": "一家公司本来卖100 股，太抢手了，承销商就额外多卖15 股，这个\"额外多卖\"的权利就是绿鞋，上限通常是初始发行量的15%。它的作用是稳定股价——炒太高就多放货压一压，跌太狠也能在底下接一把，相当于给股价装了个减震器",
+     "ex1": "The underwriters exercised the greenshoe after demand surged on the first day.首日需求激增后，承销商行使了绿鞋期权。",
+     "ex2": "The greenshoe lets bankers stabilise the stock in early trading.绿鞋机制让投行能在早期交易中稳住股价。"
+    },
+    {
+     "w": "plausible",
+     "ipa": "/ˈplɔːzəbl/",
+     "pos": "adj.",
+     "en": "plausible (adj.) means seeming reasonable or likely to be true, though not necessarily true",
+     "zh": "\"看似合理的\"（源自拉丁语plaudere 鼓掌——值得鼓掌称赞的），辨析语境核心义为看似合理、说得通的",
+     "ctx": "",
+     "ex1": "The theory sounds plausible, but there is little evidence to support it. 这套说法听着合理，但几乎没有证据支撑。",
+     "ex2": "He gave a plausible excuse for missing the meeting. 他为缺席会议找了个听起来合理的借口。"
+    },
+    {
+     "w": "trajectory",
+     "ipa": "/trəˈdʒektəri/",
+     "pos": "n.",
+     "en": "trajectory (n.) means the path that something takes as it moves or develops over time",
+     "zh": "\"轨迹、弹道\"（源自拉丁语trajicere 抛过、掷过），发展语境核心义为发展路径、走向",
+     "ctx": "火箭升空那条飞行路线就是trajectory，这里引申成\"AI 发展的路径\"。a plausible trajectory——一条\"看着合理、能改变世界\"的发展路线。这个词把抽象的\"发展\"说成了看得见的弹道",
+     "ex1": "The company's growth trajectory has been remarkably steep.这家公司的增长轨迹一直陡得惊人。",
+     "ex2": "The pandemic changed the trajectory of the entire industry.疫情改变了整个行业的发展轨迹。"
+    },
+    {
+     "w": "overconfidence",
+     "ipa": "/ˌəʊvəˈkɒnfɪdəns/",
+     "pos": "n.",
+     "en": "overconfidence (n.) means having too much confidence in something, often without good reason",
+     "zh": "\"过度自信\"（over- 过度+ confidence 自信），心理与投资语境核心义为过度自信、自信过头",
+     "ctx": "",
+     "ex1": "Overconfidence in tech stocks has led to painful corrections before. 对科技股的过度自信，此前已酿成过惨痛的回落。",
+     "ex2": "His overconfidence in the plan blinded him to its risks. 他对这项计划的过度自信，让他看不到其中的风险。"
+    },
+    {
+     "w": "investment theme",
+     "ipa": "/ɪnˈvestmənt θiːm/",
+     "pos": "n.",
+     "en": "an investment theme is a broad idea or trend that investors bet on, such as AI or clean energy",
+     "zh": "\"投资主题\"（investment 投资+ theme 主题），金融语境核心义为投资主题、赛道",
+     "ctx": "",
+     "ex1": "Artificial intelligence has become the dominant investment theme of the decade. 人工智能已成为这十年里主导性的投资主题。",
+     "ex2": "Investors piled into every company tied to the new theme. 投资者蜂拥买入每一家沾上新主题的公司。"
+    },
+    {
+     "w": "staying power",
+     "ipa": "/ˈsteɪɪŋ ˌpaʊə(r)/",
+     "pos": "n.",
+     "en": "staying power means the ability to keep going for a long time and remain successful or relevant",
+     "zh": "\"留得住的那股劲儿\"（staying 留得住+ power 力量），评价语境核心义为持久力、后劲、长跑的能力",
+     "ctx": "一个主题有没有staying power，就是问它是能火十年二十年，还是明年就凉了。作者说this theme hasn't yet proven its staying power——注意\"还没\"这两个字，没说你对也没说你错，说的是\"赌局还没开牌，谁也不知道\"",
+     "ex1": "Few tech fads have the staying power of the smartphone. 没几个科技热潮能有智能手机那样的持久力。",
+     "ex2": "The band's staying power comes from its ability to keep reinventing itself. 这支乐队的持久力，来自它不断自我重塑的能力。"
+    }
+   ]
   },
   {
-   "en_html": "The widespread adoption of Claude Code and rival tools by software developers points to the potential transformation of a wide range of professional activity, from discovering new miracle drugs to navigating complex legal and accounting rules to running a factory. Already, more than 90% of contributions to Anthropic’s code base were written by Claude.",
-   "zh": "",
-   "notes": []
+   "en_html": "The widespread adoption of Claude Code and rival tools by software developers <mark class=\"voc\">points to</mark> the potential transformation of a wide range of professional activity, from discovering new <mark class=\"voc\">miracle drugs</mark> to <mark class=\"voc\">navigating</mark> complex legal and accounting rules to running a factory. Already, more than 90% of <mark class=\"voc\">contributions</mark> to Anthropic’s <mark class=\"voc\">code base</mark> were written by Claude.",
+   "zh": "ClaudeCode及其竞品工具被软件开发者广泛采用，这预示着从研发神药、到驾驭复杂的法律与会计规则、再到运营工厂等一系列职业活动，都可能迎来变革。而Anthropic自家代码库中，已有超过90%的代码出自Claude之手。",
+   "notes": [
+    {
+     "w": "point to",
+     "ipa": "/pɔɪnt tə/",
+     "pos": "phrasal v.",
+     "en": "point to means to indicate or suggest that something is likely or true",
+     "zh": "\"用手指向\"（point 指+ to 向），推断语境核心义为指向、预示",
+     "ctx": "作者没用causes（导致）也没用leads to（带来），用的是points to——它不把话说死，是\"指个方向\"而非\"盖棺定论\"。这事儿还在发生，还没到\"必然\"那一步，措辞的分寸感就在这一个词里",
+     "ex1": "All the data point to a sharp slowdown in the second half. 所有数据都指向下半年的大幅放缓。",
+     "ex2": "The signs point to a recovery, though it is still early. 种种迹象指向复苏，尽管为时尚早。"
+    },
+    {
+     "w": "miracle drug",
+     "ipa": "/ˈmɪrəkl drʌɡ/",
+     "pos": "n.",
+     "en": "a miracle drug is a medicine that works extremely well, often curing a disease thought to be untreatable",
+     "zh": "\"奇迹药、神药\"（miracle 奇迹+ drug 药），医药语境核心义为神药、灵药",
+     "ctx": "就是那种能救命、颠覆性的新药。discovering new miracle drugs 说的是AI 帮着科学家筛分子、预测药效去发现新药。这不是吹——现在已经真在做了。你老了以后吃的药，可能一半是AI 帮着找出来的",
+     "ex1": "The new treatment was hailed as a miracle drug for a rare disease. 这种新疗法被誉为治疗一种罕见病的神药。",
+     "ex2": "AI is helping scientists discover candidate miracle drugs faster. AI 正在帮助科学家更快地发现候选神药。"
+    },
+    {
+     "w": "navigate",
+     "ipa": "/ˈnævɪɡeɪt/",
+     "pos": "v.",
+     "en": "navigate (v.) means to find your way through a complicated situation, system or place",
+     "zh": "\"航海、导航\"（源自拉丁语navis 船+ agere 驾驶——开船在大海里找方向），引申语境核心义为驾驭、在……中找路",
+     "ctx": "",
+     "ex1": "New graduates often struggle to navigate the job market. 应届毕业生往往难以在就业市场中摸清门路。",
+     "ex2": "The software helps lawyers navigate thousands of pages of documents. 这款软件帮助律师梳理数千页的文件。"
+    },
+    {
+     "w": "contribution",
+     "ipa": "/ˌkɒntrɪˈbjuːʃn/",
+     "pos": "n.",
+     "en": "a contribution in programming is a piece of code that someone adds to a shared code base",
+     "zh": "\"贡献\"（con- 一起+ 拉丁语tribuere 给予→ 贡献），软件工程语境核心义为代码贡献",
+     "ctx": "程序员世界里，谁往代码库里写了一段代码，就叫一次contribution。这个日常词在技术语境里特指\"代码贡献\"，是全文\"AI 写AI\"那个震撼数字的计量单位",
+     "ex1": "More than ninety per cent of contributions to the project now come from AI. 这个项目如今九成以上的代码贡献来自AI。",
+     "ex2": "Her open-source contributions earned her a job offer. 她的开源贡献为她赢得了一份工作邀约。"
+    },
+    {
+     "w": "code base",
+     "ipa": "/kəʊd beɪs/",
+     "pos": "n.",
+     "en": "a code base is all the source code that makes up a software project or company's programs",
+     "zh": "\"代码库\"（code 代码+ base 底座、大本营），软件工程语境核心义为代码库",
+     "ctx": "base 是\"底座、大本营\"，code base 就是\"这家公司所有代码堆在一起的那个大库\"。90% of contributions to Anthropic's code base——它自己最核心的产品，代码九成是它自己的AI 写的。AI 在写AI",
+     "ex1": "Maintaining a large code base is a full-time job for a whole team. 维护一个庞大的代码库是一整支团队的专职工作。",
+     "ex2": "New developers often find the code base hard to understand at first. 新开发者起初往往会觉得这个代码库很难读懂。"
+    }
+   ]
   },
   {
-   "en_html": "Sales are surging. The company reported third-quarter revenue of nearly $17 billion as of Sept. 30, versus $1.4 billion in the same period a year ago. Keeping the pace of development running at a breakneck pace will require growing revenue faster than Anthropic’s spending on AI infrastructure. Anthropic has $895 billion of commitments, most of which are for computing power, chips, the filing shows. About $70 billion worth — a figure that’s larger than the individual market caps of roughly two-thirds of S&P 500 companies — are due just in the year through September 2027.",
-   "zh": "",
-   "notes": []
+   "en_html": "Sales are <mark class=\"voc\">surging</mark>. The company reported third-quarter revenue of nearly $17 billion as of Sept. 30, versus $1.4 billion in the same period a year ago. Keeping the pace of development running at a <mark class=\"voc\">breakneck pace</mark> will require growing revenue faster than Anthropic’s spending on AI infrastructure. Anthropic has $895 billion of <mark class=\"voc\">commitments</mark>, most of which are for <mark class=\"voc\">computing power</mark>, chips, the filing shows. About $70 billion worth — a figure that’s larger than the individual <mark class=\"voc\">market caps</mark> of roughly two-thirds of S&P 500 companies — are <mark class=\"voc\">due</mark> just in the year through September 2027.",
+   "zh": "销售额正在飙升：公司截至9月30日的第三季度收入接近170亿美元，而去年同期仅为14亿。要让研发维持在这种不要命的高速上，收入的增速就必须跑赢其在AI基础设施上的开支。招股文件显示，Anthropic背负着8950亿美元的承诺支出，其中大头是算力与芯片；而单是截至2027年9月的一年内，就有约700亿美元到期——这个数字，比标普500中约三分之二公司的市值都要大。",
+   "notes": [
+    {
+     "w": "surge",
+     "ipa": "/sɜːdʒ/",
+     "pos": "v. & n.",
+     "en": "surge (v.) means to increase suddenly and powerfully",
+     "zh": "\"巨浪涌起\"（源自拉丁语surgere 升起、涌起），数据语境核心义为激增、暴涨、飙升",
+     "ctx": "Sales are surging——作者没用increasing（在涨）也没用growing （在长），用surging（像浪一样拍上来的暴涨）。画面不是\"涨\"，是一堵水墙推过来。同根词resurgence（复兴）、insurgent（起义者）",
+     "ex1": "Demand for AI chips surged as companies raced to build data centres. 随着企业争相建数据中心，对AI 芯片的需求激增。",
+     "ex2": "Hospital admissions surged during the heatwave. 热浪期间，入院人数激增。"
+    },
+    {
+     "w": "breakneck pace",
+     "ipa": "/ˈbreɪknek peɪs/",
+     "pos": "n.",
+     "en": "breakneck pace means a speed so fast that it is dangerous",
+     "zh": "\"能把脖子跑断的速度\"（break 断+ neck 脖子+ pace 速度），描写语境核心义为不要命的高速、危险的高速",
+     "ctx": "想象一个人拼命狂奔、跑到脖子都快甩断，breakneck pace 就是\"快到危险、快得不要命\"。作者不是在夸它快，是在提醒你：这速度是要命的。development running at a breakneck pace——研发在不要命地狂奔",
+     "ex1": "The start-up grew at a breakneck pace, hiring hundreds in a year. 这家创业公司以不要命的速度扩张，一年招了数百人。",
+     "ex2": "Keeping up this breakneck pace will eventually take a toll. 维持这种不要命的速度，终归是要付出代价的。"
+    },
+    {
+     "w": "commitment",
+     "ipa": "/kəˈmɪtmənt/",
+     "pos": "n.",
+     "en": "a commitment in finance is money a company has agreed by contract to spend in the future",
+     "zh": "\"承诺下来的东西\"（commit 承诺+ -ment），财经语境核心义为承诺支出、已签约待付款项",
+     "ctx": "你买房签了贷款合同，未来三十年要还的钱就是你的 commitment。Anthropic 现在欠着8950 亿美元的承诺支出——已经跟人签了约、未来必须掏出去的钱，大头是算力和芯片。这是一家\"越赚钱、越欠钱\"的公司",
+     "ex1": "The company has commitments of nearly nine hundred billion dollars for computing power.这家公司有近9000 亿美元的算力承诺支出。",
+     "ex2": "It must grow revenue fast enough to meet its capital commitments.它必须让收入增长快到足以兑现其资本承诺。"
+    },
+    {
+     "w": "computing power",
+     "ipa": "/kəmˈpjuːtɪŋ ˌpaʊə(r)/",
+     "pos": "n.",
+     "en": "computing power means the capacity of computers and chips to process data, often rented to run AI models",
+     "zh": "\"算力\"（computing 计算+ power 力量），科技语境核心义为算力、计算能力",
+     "ctx": "就是让AI 跑起来的那堆服务器、那堆显卡。Anthropic 欠的8950 亿，大头是算力和芯片——它赚的每一分，都得先喂给算力。这就是为什么它\"越赚钱越欠钱\"",
+     "ex1": "Training large models requires enormous computing power.训练大模型需要巨大的算力。",
+     "ex2": "Cloud providers rent computing power to AI companies.云服务商把算力租给AI 公司。"
+    },
+    {
+     "w": "market cap",
+     "ipa": "/ˌmɑːkɪt ˈkæp/",
+     "pos": "n.",
+     "en": "market cap, short for market capitalisation, is the total value of a company's shares",
+     "zh": "\"市值\"（market 市场+ cap 即capitalisation 的简称），金融语境核心义为市值、市场总值",
+     "ctx": "一股多少钱乘上一共多少股，就是这家公司总共值多少钱。700 亿这个数，比标普500 里约三分之二的公司\"单拎出来\"的市值都大——一家公司一年要还的钱，够买下美国三分之二的大公司",
+     "ex1": "The company has a market cap of over one trillion dollars. 这家公司市值超过1 万亿美元。",
+     "ex2": "Its market cap is larger than the GDP of many countries. 它的市值比许多国家的国内生产总值还高。"
+    },
+    {
+     "w": "due",
+     "ipa": "/djuː/",
+     "pos": "adj.",
+     "en": "due (adj.) means owed or required to be paid at a particular time",
+     "zh": "\"到期的、该付的\"（源自法语devoir 欠、应尽），财经语境核心义为到期的、应付的",
+     "ctx": "",
+     "ex1": "The first instalment is due at the end of the month. 第一笔分期款月底到期。",
+     "ex2": "About seventy billion dollars of spending is due within a year. 约700 亿美元的支出将在一年内到期。"
+    }
+   ]
   },
   {
-   "en_html": "Unlike other tech companies with sources of income such as advertising to fall back on, Anthropic will have to convince investors that its focus on AI alone will generate profit far beyond the technology’s surging costs. SpaceX may have tied its aspirations to AI when it pitched investors on its IPO, but most of its actual revenue at the time came from its other business lines.",
-   "zh": "",
-   "notes": []
+   "en_html": "Unlike other tech companies with sources of income such as advertising to <mark class=\"voc\">fall back on</mark>, Anthropic will have to convince investors that its focus on AI alone will generate profit <mark class=\"voc\">far beyond</mark> the technology’s surging costs. SpaceX may have tied its aspirations to AI when it <mark class=\"voc\">pitched</mark> investors on its IPO, but most of its actual revenue at the time came from its other <mark class=\"voc\">business lines</mark>.",
+   "zh": "与其他有广告等收入来源可作退路的科技公司不同，Anthropic必须让投资者相信，它一门心思扑在AI上，也能赚出远超技术飙升成本的利润。SpaceX在上市推介时，或许也曾把抱负寄托在AI上，但它当时绝大部分的实际收入，其实来自其他业务线。",
+   "notes": [
+    {
+     "w": "fall back on",
+     "ipa": "/fɔːl ˈbæk ɒn/",
+     "pos": "phrasal v.",
+     "en": "fall back on means to use something as a backup when your first choice fails",
+     "zh": "\"往后倒、靠在……上\"（fall 倒+ back 往后+ on 靠在），语感语境核心义为退而求其次、在没辙时依靠……",
+     "ctx": "想象你站着没站稳，往后一倒，后面有堵墙把你接住——你fall back on 这堵墙。它说的不是你的主业，是你的退路、后手、保底。别的科技公司有广告收入当底牌，AI 亏了没事；Anthropic 没有。fall back on 的东西，永远是你最后那张底牌",
+     "ex1": "If the start-up fails, he can fall back on his teaching job. 创业要是黄了，他还能回去教书兜底。",
+     "ex2": "With no savings to fall back on, losing the job was devastating. 没有积蓄可作退路，失业便成了毁灭性的打击。"
+    },
+    {
+     "w": "far beyond",
+     "ipa": "/fɑː(r) bɪˈjɒnd/",
+     "pos": "phrase",
+     "en": "far beyond means much greater than, or well outside a certain limit",
+     "zh": "\"远远超出\"（far 远+ beyond 在……之外），比较语境核心义为远超",
+     "ctx": "generate profit far beyond the technology's surging costs——赚的利润要远超技术飙升的成本。far 加在beyond 前面，把\"超出\"的程度又拉大了一截：不是勉强超过，是甩开一大截",
+     "ex1": "The returns must grow far beyond the soaring costs of computing. 回报必须远超飙升的算力成本。",
+     "ex2": "His success went far beyond what anyone had expected. 他的成功远远超出了任何人的预期。"
+    },
+    {
+     "w": "pitch",
+     "ipa": "/pɪtʃ/",
+     "pos": "v.",
+     "en": "pitch (v.) means to try to persuade someone to buy or invest in something",
+     "zh": "\"推销、推介\"（源自投掷、摆摊叫卖），商业语境核心义为推销、向……推介",
+     "ctx": "pitched investors on its IPO——向投资人推介它的IPO。创业公司见投资人那套\"路演\"，就叫pitch。作者用这个词，点出SpaceX 上市时把AI 当卖点讲给投资人听，但那只是\"讲故事\"，不是\"真赚钱\"",
+     "ex1": "The founder pitched his vision to a room full of investors. 创始人在一屋子投资人面前推介他的愿景。",
+     "ex2": "They spent weeks preparing the pitch for the new product. 他们花了几周时间准备这款新产品的推介。"
+    },
+    {
+     "w": "business line",
+     "ipa": "/ˈbɪznəs laɪn/",
+     "pos": "n.",
+     "en": "a business line is a particular product or service area within a company",
+     "zh": "\"业务线\"（business 业务+ line 线），商业语境核心义为业务线、业务板块",
+     "ctx": "most of its actual revenue came from its other business lines—— SpaceX 大部分实际收入来自别的业务线（火箭、星链），不是AI。一条business line 就是一条赚钱的路，Anthropic 只有AI 这一条线，这就是它和SpaceX 的根本区别",
+     "ex1": "The company is expanding into new business lines to reduce risk. 这家公司正拓展新业务线以降低风险。",
+     "ex2": "Advertising remains its most profitable business line. 广告仍是它最赚钱的业务线。"
+    }
+   ]
   },
   {
-   "en_html": "The speed of development has become increasingly controversial, with Anthropic’s own Chief Executive Officer Dario Amodei among those calling for top AI labs to “pace the frontier” in order to prioritize safety. Anthropic itself warned that the technology could pose “catastrophic or existential risks to humanity” in its IPO filing, if the technology isn’t developed with adequate safeguards and oversight.",
-   "zh": "",
-   "notes": []
+   "en_html": "The speed of development has become increasingly <mark class=\"voc\">controversial</mark>, with Anthropic’s own Chief Executive Officer Dario Amodei among those calling for top AI labs to “<mark class=\"voc\">pace the frontier</mark>” in order to prioritize safety. Anthropic itself warned that the technology could pose “<mark class=\"voc\">catastrophic</mark> or <mark class=\"voc\">existential</mark> risks to humanity” in its IPO filing, if the technology isn’t developed with adequate <mark class=\"voc\">safeguards</mark> and <mark class=\"voc\">oversight</mark>.",
+   "zh": "研发速度已愈发引发争议，连Anthropic自己的CEO达里奥·阿莫迪，也跻身于呼吁顶级AI实验室\"放慢前沿步伐\"、把安全置于首位的人之列。Anthropic甚至在招股文件中警告：倘若这项技术未在充分的防护与监督下发展，便可能给人类带来\"灾难性乃至生存性的风险\"。",
+   "notes": [
+    {
+     "w": "controversial",
+     "ipa": "/ˌkɒntrəˈvɜːʃl/",
+     "pos": "adj.",
+     "en": "controversial (adj.) means causing a lot of disagreement or argument",
+     "zh": "\"有争议的\"（contro- 相对+ 拉丁语vertere 转→ 意见相对转动），评价语境核心义为有争议的、引发分歧的",
+     "ctx": "作者说\"速度\"有争议，不是\"AI\"有争议，也不是\"公司\"有争议——争议的焦点是那个不要命的狂奔速度，呼应上一段的breakneck pace。跑得太快，快到圈里人都吵起来了",
+     "ex1": "The fast pace of AI development has become increasingly controversial. AI 发展的飞快速度已越来越有争议。",
+     "ex2": "The policy remains highly controversial among experts. 这项政策在专家中间仍极具争议。"
+    },
+    {
+     "w": "pace the frontier",
+     "ipa": "/peɪs ðə ˈfrʌntɪə(r)/",
+     "pos": "v. phrase",
+     "en": "pace the frontier means to slow down or control the speed of cutting- edge AI development",
+     "zh": "\"给前沿定个节奏\"（pace 在此作动词，控制节奏+ frontier 前沿），科技语境核心义为放慢前沿发展、给前沿限速",
+     "ctx": "pace 不是stop（停下）也不是pause（暂停），是\"我在控制速度，不是不走了，是把油门松一点\"。Amodei 不是要大家别搞AI，是说慢一点、稳一点、先把安全带系上。自己人喊刹车，是这段的戏剧张力",
+     "ex1": "He called on top labs to pace the frontier and put safety first. 他呼吁顶级实验室放慢前沿步伐、把安全放在首位。",
+     "ex2": "You need to pace yourself if you want to finish the marathon. 想跑完马拉松，你得控制好自己的节奏。"
+    },
+    {
+     "w": "catastrophic",
+     "ipa": "/ˌkætəˈstrɒfɪk/",
+     "pos": "adj.",
+     "en": "catastrophic (adj.) means causing great and sudden damage or suffering",
+     "zh": "\"灾难性的\"（希腊语katastrophē 颠覆、彻底翻转），风险语境核心义为灾难性的、毁灭性的",
+     "ctx": "与existential 的区别是生和死的区别。catastrophic 是\"伤筋动骨\"——大金融危机、大地震，很惨，但人类还在，缓几年能爬起来。它威胁的是\"人类的某一部分\"，不是\"物种存续本身\"",
+     "ex1": "The filing warns of catastrophic risks to humanity. 招股文件警告了对人类的灾难性风险。",
+     "ex2": "A catastrophic failure of the system could bring the economy to a halt. 系统的灾难性故障可能让经济陷入停顿。"
+    },
+    {
+     "w": "existential",
+     "ipa": "/ˌeɡzɪˈstenʃl/",
+     "pos": "adj.",
+     "en": "existential (adj.) means relating to existence itself, especially the survival of the human species",
+     "zh": "\"存在性的\"（exist 存在+ -ential），风险语境核心义为生存性的、关乎物种存亡的",
+     "ctx": "existential risk 是\"直接绝种\"的风险——它威胁的不是人类的某一部分，是\"人类这个物种的存续本身\"。作者写\"catastrophic or existential\"——一个比一个重，重到最后那个词是在说：人类可能整个没了",
+     "ex1": "The filing warns the technology could pose existential risks to humanity. 招股文件警告这项技术可能给人类带来生存性风险。",
+     "ex2": "Climate change is an existential threat to some island nations. 气候变化对某些岛国而言是生存性威胁。"
+    },
+    {
+     "w": "safeguards",
+     "ipa": "/ˈseɪfɡɑːdz/",
+     "pos": "n.",
+     "en": "safeguards are measures taken to protect against harm or risk",
+     "zh": "\"安全守卫\"（safe 安全+ guard 守卫），风险语境核心义为防护措施、保障措施",
+     "ctx": "注意是复数safeguards，说明防护不是一道，是一整套。adequate safeguards 是\"够格的防护\"——不是要你把AI 锁进保险箱，是\"该有的安全措施，得有\"",
+     "ex1": "The technology must be developed with adequate safeguards and oversight. 这项技术必须在充分的防护与监督下发展。",
+     "ex2": "Regulators want stronger safeguards around AI systems. 监管机构希望为AI 系统建立更强的防护措施。"
+    },
+    {
+     "w": "oversight",
+     "ipa": "/ˈəʊvəsaɪt/",
+     "pos": "n.",
+     "en": "oversight (n.) means the job of supervising something to make sure it is done properly",
+     "zh": "\"站在上面往下看\"（over 在上+ sight 看），治理语境核心义为监督、监管",
+     "ctx": "safeguards and oversight——防护加监督，一个都不能少。oversight 是\"从上面盯着\"的意思，强调的是有第三方、有制度在看管着，不是靠自觉",
+     "ex1": "The board provides oversight of the company's risk management. 董事会为公司的风险管理提供监督。",
+     "ex2": "Critics say the industry needs more independent oversight. 批评者称该行业需要更多独立监督。"
+    }
+   ]
   },
   {
-   "en_html": "Regulators, investors and even Anthropic’s employees have flagged the significant risk of humans losing control of the technology, with one putting the chance of AI eliminating all humans in the next decade at greater than 10%. Bill Gates said AI is powerful enough to drive events that cause “a billion deaths.”",
-   "zh": "",
-   "notes": []
+   "en_html": "Regulators, investors and even Anthropic’s employees have <mark class=\"voc\">flagged</mark> the significant risk of humans <mark class=\"voc\">losing control of</mark> the technology, with one <mark class=\"voc\">putting the chance</mark> of AI <mark class=\"voc\">eliminating</mark> all humans in the next decade at greater than 10%. Bill Gates said AI is powerful enough to <mark class=\"voc\">drive events</mark> that cause “<mark class=\"voc\">a billion deaths</mark>.”",
+   "zh": "监管者、投资者，乃至Anthropic自己的员工，都已对人类失去对这项技术控制权的重大风险示警，其中一人更将\"未来十年内AI灭绝全人类\"的概率估至10%以上。比尔·盖茨则称，AI强大到足以引发\"十亿人死亡\"级别的事件。",
+   "notes": [
+    {
+     "w": "flag",
+     "ipa": "/flæɡ/",
+     "pos": "v.",
+     "en": "flag (v.) means to mark something for attention, often as a warning",
+     "zh": "\"插旗子标示\"（flag 旗子→ 动词化），警示语境核心义为标示出来、警示",
+     "ctx": "路上有个坑，你插个小旗子提醒后面的人\"当心，这有坑\"，这个动作就是flag。 have flagged the significant risk——不是泛泛提一嘴，是郑重地把风险标出来、挂上旗子提醒大家当心",
+     "ex1": "Regulators have flagged the risk of humans losing control of the technology. 监管者已标示出人类失去技术控制权的风险。",
+     "ex2": "The auditor flagged several errors in the report. 审计员在报告中标出了几处错误。"
+    },
+    {
+     "w": "lose control of",
+     "ipa": "/luːz kənˈtrəʊl əv/",
+     "pos": "v. phrase",
+     "en": "lose control of means to no longer be able to direct or manage something",
+     "zh": "\"失去对……的控制\"（lose 失去+ control 控制+ of），风险语境核心义为失去控制",
+     "ctx": "注意作者说的是\"失去控制\"（losing control），不是\"AI 觉醒\"\"AI 造反\"。这是两个完全不同的叙事——前者是科幻片，后者是工程师的担心：我不怕它有心害我，我怕的是我根本管不住它了",
+     "ex1": "The biggest fear is losing control of increasingly powerful systems. 最大的恐惧，是失去对日益强大系统的控制。",
+     "ex2": "The driver lost control of the car on the icy road. 司机在结冰的路面上失去了对汽车的控制。"
+    },
+    {
+     "w": "put the chance at",
+     "ipa": "/pʊt ðə tʃɑːns æt/",
+     "pos": "v. phrase",
+     "en": "put the chance at means to estimate the probability of something as a particular figure",
+     "zh": "\"把概率估为\"（put…at…把……定在……），统计语境核心义为把概率估为、给概率定在",
+     "ctx": "with one putting the chance of AI eliminating all humans…at greater than 10%——with + 名词+ 现在分词独立结构做伴随状语。put A at B 就是把A 定在B 这个位置，这里是把\"AI 灭绝人类\"的概率定在10% 以上",
+     "ex1": "One employee put the chance of catastrophe at more than ten per cent. 一位员工把发生灾难的概率估在10% 以上。",
+     "ex2": "Analysts put the odds of a recession at one in three.分析师把衰退的概率估为三分之一。"
+    },
+    {
+     "w": "eliminate",
+     "ipa": "/ɪˈlɪmɪneɪt/",
+     "pos": "v.",
+     "en": "eliminate (v.) means to completely remove or get rid of something",
+     "zh": "\"连根拔除、彻底清除\"（源自拉丁语eliminare，ex- 出+ limen 门槛→ 赶出门外），程度语境核心义为消灭、根除、一个不剩",
+     "ctx": "它跟kill 不一样。kill 是\"杀死某个人\"，eliminate 是\"一个不剩、彻底清除\"。 AI eliminating all humans 不是\"AI 杀几个人\"，是\"AI 把人类作为一个物种彻底抹掉\"",
+     "ex1": "Some fear AI could one day eliminate all human life.有人担忧AI 有朝一日会彻底抹掉所有人类生命。",
+     "ex2": "The new system eliminates the need for manual data entry.新系统省去了人工录入数据的需要。"
+    },
+    {
+     "w": "drive events",
+     "ipa": "/draɪv ɪˈvents/",
+     "pos": "v. phrase",
+     "en": "drive events means to cause or set in motion events that lead to a particular outcome",
+     "zh": "\"推动事件发生\"（drive 驱动、推动+ events 事件），因果语境核心义为推动事件、引发",
+     "ctx": "盖茨说AI 不是自己去杀人，而是\"驱动\"某些事件、最终导致十亿人死亡。这个用词的精度很关键——不是\"AI 亲手杀人\"，是\"AI 放大人的能力去引发灾难\"，两者性质完全不同",
+     "ex1": "The technology is powerful enough to drive events that cause mass harm. 这项技术强大到足以推动引发大规模伤害的事件。",
+     "ex2": "Automation is driving change across every industry. 自动化正在驱动各个行业的变革。"
+    },
+    {
+     "w": "a billion deaths",
+     "ipa": "/ə ˈbɪljən deθs/",
+     "pos": "n. phrase",
+     "en": "a billion deaths means the death of one billion people, used as a measure of extreme catastrophe",
+     "zh": "\"十亿人死亡\"（billion 十亿+ deaths 死亡），风险语境核心义为十亿人级别的死亡",
+     "ctx": "盖茨2026 年9 月底在NBC《与媒体见面》的原话语境——\"AI 当然强大到足以驱动导致十亿人死亡的事件。历史上从没有一种武器，能比得上一个怀有恶意的人配上最新AI 工具所形成的威胁。\"可怕的不在AI 觉醒，在\"坏人+ AI = 前所未有的武器\"",
+     "ex1": "Gates warned AI could drive events causing a billion deaths. 盖茨警告AI 可能引发导致十亿人死亡的事件。",
+     "ex2": "The scenario of a billion deaths forces a rethink of AI safety. 十亿人死亡这种情景，迫使人们重新思考AI 安全。"
+    }
+   ]
   },
   {
-   "en_html": "Anthropic’s rival OpenAI is targeting a 2027 listing and Chief Executive Officer Sam Altman called 2026 an “ill-advised moment” for an IPO, citing concern over AI safety. The company is raising funds at a $1.25 trillion valuation, people familiar with the matter have said.",
-   "zh": "",
-   "notes": []
+   "en_html": "Anthropic’s rival OpenAI is targeting a 2027 listing and Chief Executive Officer Sam Altman called 2026 an “<mark class=\"voc\">ill-advised</mark> moment” for an IPO, citing concern over AI safety. The company is raising funds at a $1.25 trillion valuation, <mark class=\"voc\">people familiar with the matter</mark> have said.",
+   "zh": "Anthropic的宿敌OpenAI计划于2027年上市，其CEO山姆·奥特曼以担忧AI安全为由，称2026年并非上市IPO的\"明智时机\"。据知情人士透露，OpenAI目前正以1.25万亿美元的估值进行融资。",
+   "notes": [
+    {
+     "w": "ill-advised",
+     "ipa": "/ˌɪl ədˈvaɪzd/",
+     "pos": "adj.",
+     "en": "ill-advised (adj.) means not sensible or wise, likely to have bad results",
+     "zh": "\"欠考虑的、不明智的\"（ill- 不好的+ advised 经过考虑的），判断语境核心义为不明智的、考虑欠妥的",
+     "ctx": "奥特曼没说\"2026 上市是错的\"，他说的是ill- advised——\"不明智\"。这个词很克制，但意思很明确：现在上市，不是好时候。一个克制的词，反而比直接说\"错\"更有分量",
+     "ex1": "Altman called 2026 an ill-advised moment for an IPO. 奥特曼称2026 年是IPO 的一个不明智时机。",
+     "ex2": "Selling the unit now would be an ill-advised move. 现在卖掉这个部门将是一个不明智的举动。"
+    },
+    {
+     "w": "people familiar with the matter",
+     "ipa": "/ˈpiːpl fəˈmɪliə(r) wɪð ðə ˈmætə(r)/",
+     "pos": "phrase",
+     "en": "people familiar with the matter is a news phrase meaning sources who know the facts but do not want to be named",
+     "zh": "\"熟悉此事的人\"，新闻语境核心义为知情人士、消息人士",
+     "ctx": "",
+     "ex1": "The company is raising funds at a $1.25 trillion valuation, people familiar with the matter said. 据知情人士透露，这家公司正以1.25 万亿美元的估值融资。",
+     "ex2": "People familiar with the matter say the deal could close within weeks. 知情人士称这笔交易可能在数周内完成。"
+    }
+   ]
   },
   {
-   "en_html": "Anthropic’s origin story centers around former OpenAI executives defecting because they wanted to prioritize AI safety. Nearly six years after its founding, Anthropic has structured itself as a public benefit corporation that balances shareholder interests with those of society, and whose governance includes a Long-Term Benefit Trust that has the power to elect and remove a majority of the members of the company’s board.",
-   "zh": "",
-   "notes": []
+   "en_html": "Anthropic’s <mark class=\"voc\">origin story</mark> centers around former OpenAI executives <mark class=\"voc\">defecting</mark> because they wanted to <mark class=\"voc\">prioritize</mark> AI safety. Nearly six years after its founding, Anthropic has structured itself as a public benefit corporation that <mark class=\"voc\">balances shareholder interests with</mark> those of society, and whose <mark class=\"voc\">governance</mark> includes a <mark class=\"voc\">Long-Term Benefit Trust</mark> that has the power to elect and remove a majority of the members of the company’s board.",
+   "zh": "Anthropic的出身故事，围绕一群前OpenAI高管的\"出走\"展开——他们出走，是为了把AI安全置于首位。成立近六年后，Anthropic已将自己打造成一家公益公司，既须在股东利益与社会利益之间求得平衡，其治理结构中又设有一个\"长期利益信托\"，握有选举与罢免公司董事会多数成员的权力。",
+   "notes": [
+    {
+     "w": "origin story",
+     "ipa": "/ˈɒrɪdʒɪn ˈstɔːri/",
+     "pos": "n.",
+     "en": "an origin story is the account of how someone or something began, especially a founding myth",
+     "zh": "\"起源故事\"（origin 起源+ story 故事），叙事语境核心义为起源故事、出身叙事",
+     "ctx": "",
+     "ex1": "The company's origin story centres on executives who left over safety concerns. 这家公司的起源故事，围绕一群因安全担忧而出走的高管。",
+     "ex2": "Every superhero has an origin story that explains their mission. 每个超级英雄都有一个解释其使命的起源故事。"
+    },
+    {
+     "w": "defect",
+     "ipa": "/dɪˈfekt/",
+     "pos": "v.",
+     "en": "defect (v.) means to leave a country, group or organisation to join an opposing one",
+     "zh": "\"叛逃、变节\"（源自拉丁语deficere 脱离、背弃；注意作名词\"缺陷\"时读 /ˈdiːfekt/），政治与人事语境核心义为叛逃、出走、变节",
+     "ctx": "作者没用left（离开）也没用resigned（辞职），用的是defecting。 defect 平时用在\"叛逃到敌国\"——冷战间谍从苏联跑到美国那个动作。把一群OpenAI 前高管的出走写成\"叛逃\"，一个词就把这场人事变动写成了\"理念上的叛变\"",
+     "ex1": "Several executives defected from OpenAI over disagreements about safety. 数名高管因在安全问题上意见不合而从OpenAI 出走。",
+     "ex2": "A senior researcher defected to a rival lab last year. 一位资深研究员去年投奔了对手实验室。"
+    },
+    {
+     "w": "prioritize",
+     "ipa": "/praɪˈɒrətaɪz/",
+     "pos": "v.",
+     "en": "prioritize (v.) means to treat something as more important than other things",
+     "zh": "\"把……排在前面\"（priority 优先事项+ -ize 动词化），管理语境核心义为优先处理、把……置于首位",
+     "ctx": "they wanted to prioritize AI safety——把AI 安全排在赚钱前面。这个词点出了他们出走的全部理由：不是钱没给够，是\"安全\"和\"赚钱\"的排序谈不拢",
+     "ex1": "They left because they wanted to prioritize AI safety over profits. 他们出走，是因为想把AI 安全置于利润之上。",
+     "ex2": "The company has prioritized growth over profitability this year. 这家公司今年把增长放在了盈利之前。"
+    },
+    {
+     "w": "balance A with B",
+     "ipa": "/ˈbæləns … wɪð/",
+     "pos": "v. phrase",
+     "en": "balance A with B means to give equal or appropriate importance to two different things",
+     "zh": "\"在A 与B 之间求平衡\"（balance 天平、平衡），治理语境核心义为平衡、兼顾",
+     "ctx": "balance shareholder interests with those of society——在股东利益与社会利益之间走钢丝。注意those 指代前面的interests， those of society = the interests of society。这家公司从法律结构上就不允许自己\"只认钱\"",
+     "ex1": "The firm must balance shareholder interests with those of society. 这家公司必须在股东利益与社会利益之间求得平衡。",
+     "ex2": "She balances work with family life remarkably well. 她在工作与家庭生活之间平衡得非常好。"
+    },
+    {
+     "w": "governance",
+     "ipa": "/ˈɡʌvənəns/",
+     "pos": "n.",
+     "en": "governance (n.) means the way an organisation is managed and controlled, and who has power in it",
+     "zh": "\"治理结构\"（govern 治理+ -ance），公司与政治语境核心义为治理、治理结构",
+     "ctx": "就是\"一整套怎么管理、谁说了算的制度\"。whose governance includes a Long-Term Benefit Trust——它的治理结构里设了一个信托。这个词回答的是\"这家公司到底谁当家\"这个根本问题",
+     "ex1": "The company's governance includes safeguards against founder control. 这家公司的治理结构中包含防范创始人独揽大权的机制。",
+     "ex2": "Investors care increasingly about good corporate governance. 投资者越来越看重良好的公司治理。"
+    },
+    {
+     "w": "Long-Term Benefit Trust",
+     "ipa": "/ˌlɒŋ tɜːm ˈbenɪfɪt trʌst/",
+     "pos": "n.",
+     "en": "the Long-Term Benefit Trust is an independent trust within Anthropic with power to appoint and remove most board members",
+     "zh": "\"长期利益信托\"（long-term 长期+ benefit 利益+ trust 信托），治理语境核心义为长期利益信托",
+     "ctx": "信托是一种法律结构——把一项权力交给独立机构，替某个目的来管理。Anthropic 这个信托托付的不是钱，是\"选董事、罢董事\"的权力。它是道\"防跑偏\"装置：哪怕将来资本砸钱买股份想夺权，这个信托也能换掉董事会、把公司拉回正轨",
+     "ex1": "The Long-Term Benefit Trust can elect and remove most board members. 长期利益信托有权选举和罢免大多数董事会成员。",
+     "ex2": "The shares are held in trust for the benefit of future generations. 这些股份以信托方式持有，以造福后代。"
+    }
+   ]
   },
   {
-   "en_html": "The company’s total operating expenses jumped to $17.5 billion in the third quarter, a 292% increase from a year prior. It flipped from an operating profit of $974 million in the second quarter — its first after at least five quarters of operating losses — back to a negative $567 million in the three months ended Sept. 30. The operating loss in the third quarter was primarily driven by $5 billion of computing costs under short-term commitments and $2 billion of non-cash charges related to the company’s charitable donation-matching program.",
-   "zh": "",
-   "notes": []
+   "en_html": "The company’s total <mark class=\"voc\">operating expenses</mark> <mark class=\"voc\">jumped to</mark> $17.5 billion in the third quarter, a 292% increase from a year prior. It <mark class=\"voc\">flipped from</mark> an <mark class=\"voc\">operating profit</mark> of $974 million in the second quarter — its first after at least five quarters of operating losses — back to a negative $567 million in the three months ended Sept. 30. The operating loss in the third quarter was primarily driven by $5 billion of computing costs under short-term commitments and $2 billion of <mark class=\"voc\">non-cash charges</mark> related to the company’s charitable donation-matching program.",
+   "zh": "公司第三季度总运营支出飙升至175亿美元，较上年同期增长292%。其运营业绩从第二季度9.74亿美元的盈利——那也是它连续至少五个季度亏损后首次转正——又跌回截至9月30日季度的负5.67亿美元。第三季度的亏损，主要源于短期承诺下的50亿美元算力成本，以及与慈善配捐计划相关的20亿美元非现金费用。",
+   "notes": [
+    {
+     "w": "operating expenses",
+     "ipa": "/ˌɒpəreɪtɪŋ ɪkˈspensɪz/",
+     "pos": "n.",
+     "en": "operating expenses are the costs a company incurs in its normal business activities",
+     "zh": "\"运营支出\"（operating 运营的+ expenses 开支），财务语境核心义为运营支出、运营费用",
+     "ctx": "就是这家公司为了把AI 跑起来、把生意做起来实际花掉的钱。第三季度运营支出175 亿美元，同比涨292%——不是\"增长\"，是\"膨胀\"",
+     "ex1": "Total operating expenses jumped to $17.5 billion in the third quarter. 第三季度总运营支出飙升至175 亿美元。",
+     "ex2": "The company is cutting operating expenses to slow its losses. 这家公司正在削减运营支出以减缓亏损。"
+    },
+    {
+     "w": "jump to",
+     "ipa": "/dʒʌmp tə/",
+     "pos": "v. phrase",
+     "en": "jump to means to increase suddenly and sharply to a higher level",
+     "zh": "\"跳到、飙到\"（jump 跳+ to 到），数据语境核心义为飙升至",
+     "ctx": "又是那种\"猛\"的词——作者形容Anthropic 的花钱，和形容它的赚钱一样，用的都是\"猛涨\"。因为这家公司赚钱和花钱，是同一股不要命的劲。jump 比rise 多了一层\"啪一下蹿上去\"的突然感",
+     "ex1": "Expenses jumped to $17.5 billion, a 292% increase from a year earlier. 支出飙升至175 亿美元，较上年同期增长292%。",
+     "ex2": "The stock jumped to an all-time high after the announcement. 消息公布后，股价蹿至历史新高。"
+    },
+    {
+     "w": "flip from A back to B",
+     "ipa": "/flɪp frəm … bæk tə/",
+     "pos": "v. phrase",
+     "en": "flip from A back to B means to change suddenly from one state to another and then back again",
+     "zh": "\"从A 翻回B\"（flip 翻转——翻硬币、翻煎饼那个\"啪\"一下翻面的动作），财务语境核心义为从A 又跌回B",
+     "ctx": "flipped from an operating profit of $974 million…back to a negative $567 million——好不容易翻到\"赚\"这一面，结果又\"啪\"一下翻回了\"亏\"那一面。多形象：刚赚到钱，还没捂热，又亏回去了",
+     "ex1": "It flipped from an operating profit back to a loss within a quarter.它在一个季度内，从运营盈利又翻回了亏损。",
+     "ex2": "The stock flipped from a gain to a loss in the final minutes.该股在最后几分钟从上涨翻转为下跌。"
+    },
+    {
+     "w": "operating profit / loss",
+     "ipa": "/ˌɒpəreɪtɪŋ ˈprɒfɪt /",
+     "pos": "ˈlɒs/ n.",
+     "en": "operating profit is money a company makes from its core business; operating loss is when its core business loses money",
+     "zh": "\"运营利润/ 运营亏损\"（operating 运营的+ profit 利润/ loss 亏损），财务语境核心义为运营利润、运营亏损",
+     "ctx": "只看主业——卖AI 这个生意本身是赚是亏，不看利息、税、炒股投资收益那些\"副业\"。它回答一个问题：这摊AI 生意到底挣不挣钱？答案是挣扎——一个季度赚9.74 亿，下一个季度亏5.67 亿",
+     "ex1": "It reported an operating profit of $974 million before sliding back into a loss. 它先报出9.74 亿美元的运营利润，随后又滑回亏损。",
+     "ex2": "The company's operating loss widened in the latest quarter.这家公司最新季度的运营亏损扩大了。"
+    },
+    {
+     "w": "non-cash charges",
+     "ipa": "/ˌnɒn kæʃ ˈtʃɑːdʒɪz/",
+     "pos": "n.",
+     "en": "non-cash charges are expenses recorded in the accounts that do not involve paying out cash",
+     "zh": "\"非现金费用\"（non- 非+ cash 现金+ charges 费用），财务语境核心义为非现金费用",
+     "ctx": "账上记了一笔费用，但你其实没真掏现金。比如公司发股票给员工，股票值 20 亿，账上就得记一笔20 亿的支出，但没掏真金白银。Anthropic 这20 亿是\"慈善配捐\"发股票记的费用——亏5.67 亿里，有20 亿是这种\"账面亏\"",
+     "ex1": "The loss included $2 billion of non-cash charges tied to its charity programme. 这笔亏损包含与慈善计划相关的20 亿美元非现金费用。",
+     "ex2": "Non-cash charges reduce reported profit without draining cash. 非现金费用会压低账面利润，却不消耗现金。"
+    }
+   ]
   },
   {
-   "en_html": "AI pricing pressures have begun to hit Anthropic’s revenue. Lower prices on some of its new models, plus contractual discounts for some customers, reduced its revenue growth in the third quarter by about $600 million. Anthropic has cut prices in newer model rollouts, including Opus 5.5 in September, and OpenAI has also introduced lower-priced models in recent months. The AI giants face growing competition from cheaper open-weight models, including from Chinese developers, which customers can download and fine-tune to their needs.",
-   "zh": "",
-   "notes": []
+   "en_html": "AI <mark class=\"voc\">pricing pressures</mark> have begun to <mark class=\"voc\">hit</mark> Anthropic’s revenue. Lower prices on some of its new models, plus <mark class=\"voc\">contractual discounts</mark> for some customers, reduced its revenue growth in the third quarter by about $600 million. Anthropic has cut prices in newer model rollouts, including Opus 5.5 in September, and OpenAI has also introduced lower-priced models in recent months. The AI giants face growing competition from cheaper <mark class=\"voc\">open-weight models</mark>, including from Chinese developers, which customers can download and <mark class=\"voc\">fine-tune</mark> to their needs.",
+   "zh": "AI的价格压力已开始冲击Anthropic的收入：部分新模型降价，加上给某些客户的合同折扣，令其第三季度收入增速减少了约6亿美元。Anthropic在新模型发布时不断压价（包括9月的Opus5.5），OpenAI近几个月也推出了更便宜的模型。这些AI巨头正面临来自更廉价的开放权重模型日益激烈的竞争——其中包括来自中国开发者的模型——客户可将这些模型下载并按需微调。",
+   "notes": [
+    {
+     "w": "pricing pressures",
+     "ipa": "/ˈpraɪsɪŋ ˌpreʃəz/",
+     "pos": "n.",
+     "en": "pricing pressures are the forces that push companies to lower their prices, squeezing their revenue",
+     "zh": "\"价格压力\"（pricing 定价+ pressures 压力），商业语境核心义为价格压力、价格战压力",
+     "ctx": "就是\"大家都在降价，压得你喘不过气\"的那种压力。AI 定价压力已经开始打到Anthropic 收入上——这场价格战，才刚开头",
+     "ex1": "AI pricing pressures have begun to hit the company's revenue. AI 的价格压力已经开始冲击这家公司的收入。",
+     "ex2": "The airline faces intense pricing pressure from budget carriers. 这家航空公司面临来自廉价航空的激烈价格压力。"
+    },
+    {
+     "w": "hit",
+     "ipa": "/hɪt/",
+     "pos": "v.",
+     "en": "hit (v.) means to have a negative effect on something, causing damage or loss",
+     "zh": "\"打、击中\"（hit 打），影响语境核心义为打击、冲击",
+     "ctx": "价格压力不是在\"影响\"它，是在\"打\"它。一个熟词，用在这儿特别传神—— have begun to hit 已经开始打了，说明这场价格战才刚开头，后面只会更狠",
+     "ex1": "Lower prices have begun to hit Anthropic's revenue growth. 降价已经开始打击Anthropic 的收入增长。",
+     "ex2": "Rising energy costs hit manufacturers hard last year. 能源成本上涨去年重创了制造商。"
+    },
+    {
+     "w": "contractual discounts",
+     "ipa": "/kənˈtræktʃuəl ˈdɪskaʊnts/",
+     "pos": "n.",
+     "en": "contractual discounts are price reductions agreed in a contract for certain customers",
+     "zh": "\"合同折扣\"（contractual 合同的+ discounts 折扣），商业语境核心义为合同折扣、约定折扣",
+     "ctx": "",
+     "ex1": "Lower prices plus contractual discounts reduced its revenue growth by $600 million. 降价加上合同折扣，让它的收入增长减少了6 亿美元。",
+     "ex2": "The company offers contractual discounts to its largest clients. 这家公司向最大的客户提供合同折扣。"
+    },
+    {
+     "w": "open-weight models",
+     "ipa": "/ˌəʊpən weɪt ˈmɒdlz/",
+     "pos": "n.",
+     "en": "open-weight models are AI models whose trained parameters are made public, so anyone can download and modify them",
+     "zh": "\"开放权重模型\"（open 开放+ weight 权重+ models 模型），科技语境核心义为开放权重模型、开源大模型",
+     "ctx": "",
+     "ex1": "Cheaper open-weight models are drawing customers away from the AI giants. 更便宜的开放权重模型正把客户从AI 巨头那里拉走。",
+     "ex2": "Developers can download open-weight models and run them locally."
+    },
+    {
+     "w": "fine-tune",
+     "ipa": "/ˌfaɪn ˈtjuːn/",
+     "pos": "v.",
+     "en": "fine-tune (v.) means to make small adjustments to something to improve it; in AI, to adapt a model with your own data",
+     "zh": "\"精调\"（fine 精细的+ tune 调——给钢琴调音、给收音机微调频道），科技语境核心义为微调",
+     "ctx": "放到AI 上，fine-tune 就是\"拿一个现成的模型，用你自己的数据再把它调一调，让它更适合你的活儿\"。开放权重模型能下载、能fine-tune，所以客户换用成本极低——这是开源模型最厉害的地方",
+     "ex1": "Customers can download open-weight models and fine-tune them to their needs. 客户可以下载开放权重模型，并按自己的需求进行微调。",
+     "ex2": "The team fine-tuned the model on medical data for the new task. 团队用医疗数据对新任务所需的模型进行了微调。"
+    }
+   ]
   }
  ],
- "proper": [],
+ "proper": [
+  {
+   "name": "Anthropic",
+   "def": "简要介绍：美国人工智能公司，2021 年由Dario Amodei、Daniela Amodei 兄妹等一批前OpenAI 高管创立，代表作是Claude 系列大模型与Claude Code 编程工具。公司注册为公益公司（PBC），治理结构中设有\"长期利益信托\"（Long-Term Benefit Trust），握有选举与罢免多数董事会成员的权力。名字源于希腊语anthrōpos（人），强调\"以人为本\"。<br>本文中的意思：全文主角——一家名字里带着\"人\"的AI 公司，一边冲击1.4 万亿美元估值、冲击\"首家上市的前沿AI 实验室\"，一边在招股书里警告\"AI 可能给人类带来生存性风险\"。这个反差，是整篇文章的底色。"
+  },
+  {
+   "name": "Claude / Claude Code",
+   "def": "简要介绍：Claude 是Anthropic 推出的聊天大模型，业内普遍认为其名字致敬\"信息论之父\"克劳德·香农（Claude Shannon）。其模型不以版本号命名，而以文学体裁命名——Haiku（俳句）、Sonnet（十四行诗）、Opus（巨作），全部取自诗歌与音乐。ClaudeCode 是其推出的编程工具，用户用自然语言即可让它编写、修改代码。<br>本文中的意思：文中\"90% 以上代码由Claude 写\"的主角，也是\"AI 写AI\"这个震撼事实的载体。公司名、模型名全往\"人\"和\"诗\"上靠，是理解Anthropic 气质的一把钥匙。"
+  },
+  {
+   "name": "Claude Shannon",
+   "def": "简要介绍：美国数学家、工程师，被誉为\"信息论之父\"。1948 年发表划时代论文《通信的数学理论》，首次证明信息可以编码为0 和1 进行传输，奠定了整个数字时代与计算机科学的理论基础。可以说，没有香农，就没有今天的数字世界。<br>本文中的意思：Anthropic 把旗舰模型命名为Claude，正是对这位奠基人的致敬——一家\"用0 和1 改写世界\"的公司，名字追溯到\"发明0 和1\"的人。"
+  },
+  {
+   "name": "the anthropic principle",
+   "def": "简要介绍：物理学与哲学中的一个概念——人类能够坐在这里思考\"宇宙为什么长成这样\"，恰恰是因为宇宙碰巧长成了这样；如果物理常数稍有偏差，连原子都无法形成，更遑论有人提出问题。是\"人\"这个观察者，反过来解释了宇宙为什么是现在这副样子。<br>本文中的意思：Anthropic 这个名字的深层含义。它指向\"人择原理\"这条思想脉络，说明这家公司从出生起，核心关切就不是\"怎么把模型做大\"，而是\"怎么让人类这个观察者一直存在下去\"。"
+  },
+  {
+   "name": "Nick Bostrom",
+   "def": "简要介绍：牛津大学哲学家，著有《Anthropic Bias》（人择偏差）与《Superintelligence》（超级智能）等书，长期研究AI 可能给人类带来的生存性风险，是\"有效利他主义\"运动的灵魂人物之一，终身关切的核心问题是\"人类这个物种如何避免自我毁灭\"。<br>本文中的意思：从\"人择原理\"到Bostrom 再到Anthropic，这条思想脉络的中间一环——它把公司名字背后\"担忧人类命运\"的精神谱系串了起来。"
+  },
+  {
+   "name": "有效利他主义",
+   "def": "简要介绍：一种哲学与社会运动，主张用理性和证据去判断\"怎样做善事最有效\"，常把资源投向\"预防人类生存性风险\"这类高杠杆议题。硅谷与AI 圈是其重要拥趸之一。<br>本文中的意思：Anthropic 创始团队的思想底色。理解它，才能理解为什么这家公司一边造最强AI、一边喊\"放慢速度、优先安全\"——这不是分裂，而是一套自洽的价值观。"
+  },
+  {
+   "name": "Dario Amodei / Daniela Amodei",
+   "def": "简要介绍：一对兄妹，均为Anthropic 联合创始人。达里奥任CEO，此前是OpenAI 的研究副总裁；丹妮拉曾任OpenAI 安全与政策副总裁。2020 年底，二人因在\"安全与商业化孰先孰后\"上与OpenAI 路线分歧，带着一批核心研究员出走，2021 年创立Anthropic。<br>本文中的意思：全文\"拧巴\"的起点。达里奥本人公开给\"AI 灭绝人类\"报的概率是10%–25%，一边真心害怕、一边停不下来——\"又怕，又停不下来\"，正是本文题眼之一。"
+  },
+  {
+   "name": "OpenAI",
+   "def": "简要介绍：Anthropic 的前东家与头号竞争对手，推出ChatGPT，2025 年前后开始筹备上市。其CEO 山姆·奥特曼曾称2026 年是IPO 的\"不明智时机\"，理由同样是AI 安全；据知情人士透露，OpenAI 正以约1.25 万亿美元的估值私下融资。<br>本文中的意思：Anthropic 的\"宿敌\"，也是一家人。它的存在让整篇文章多了一层讽刺——同一个AI 安全担忧，OpenAI 选择\"先不上市\"，Anthropic 选择\"上市但警告风险\"，两个完全相反的选择，源自同一批人。"
+  },
+  {
+   "name": "Sam Altman",
+   "def": "简要介绍：OpenAI 联合创始人兼CEO，AI 商业化浪潮中最具代表性的人物之一，曾公开表示自己给\"AI 灭绝人类\"报的概率约为10%。<br>本文中的意思：文中\"说现在不适合上市\"的那位。他的表态与Anthropic 的上市形成对照，也把\"AI 安全\"从技术议题拉成了资本市场议题。"
+  },
+  {
+   "name": "p(doom)",
+   "def": "简要介绍：probability of doom 的缩写，AI 圈的一个梗——造AI 的人私下给自己报一个\"AI 最终把人类搞没\"的概率。ChatGPT 爆火后，这个玩笑梗演变成了圈内人认真对待的问题。公开报道过的数字：Geoffrey Hinton 报10%–20%、Yoshua Bengio 报20%、Sam Altman 报10%、Dario Amodei 报10%–25%、Eliezer Yudkowsky 报95%；另一边Yann LeCun 报接近0%、Marc Andreessen 报0%。<br>本文中的意思：理解第7、8 段的关键背景——那些\"可能毁灭人类\"的警告，不是外人的阴谋论，而是造AI 的人自己发自内心的恐惧。同一个问题，最聪明的一批人答案从0 到95%，说明他们自己心里也没底。"
+  },
+  {
+   "name": "Geoffrey Hinton",
+   "def": "简要介绍：英国裔加拿大计算机科学家，被誉为\"深度学习教父\"，2018 年与Bengio、LeCun 共同获得图灵奖。他近年多次公开警告AI 的风险，自述给\"AI 灭绝人类\"报的概率是10%–20%。<br>本文中的意思：代表\"担忧派\"的权威声音。一个把深度学习带到今天的人，反过来警告它的风险，这让第8 段的恐惧显得格外有分量。"
+  },
+  {
+   "name": "Bill Gates 的\"十亿人死亡\"之语",
+   "def": "简要介绍：2026 年9 月底，比尔·盖茨在NBC《与媒体见面》（Meet the Press）节目中，谈及AI 时表示：AI“当然强大到足以驱动导致十亿人死亡的事件”，并称“历史上从没有一种武器，能比得上一个怀有恶意的人配上最新AI 工具所形成的威胁”。<br>本文中的意思：必须还原的真实语境——盖茨说的不是\"AI 觉醒造反\"，而是\"坏人+ AI = 前所未有的武器\"。这个辨析，是第8 段最值钱的一句话，避免读者误读成科幻电影里的机器人反叛。"
+  },
+  {
+   "name": "Green Shoe Manufacturing",
+   "def": "简要介绍：美国一家制鞋公司。1963 年，它是全世界第一家上市时采用\"超额配售\"机制的公司。华尔街为了纪念它，此后就把这一机制统称为\"绿鞋\"（greenshoe）。<br>本文中的意思：第3 段\"绿鞋期权\"一词的来源。一家卖鞋的公司，因为第一个用了一种稳定股价的金融工具，名字从此被写进了金融史——这也是\"财经黑话\"里最好玩的冷知识之一。"
+  },
+  {
+   "name": "超额配售选择权",
+   "def": "简要介绍：一种IPO 机制。公司原本计划发行一定数量的股票，若认购火爆，承销商有权额外多卖一部分（通常最多为初始发行量的15%），既满足需求，也能在上市初期稳定股价——股价被炒高就多放货压一压，跌太狠也能在下方接一把，相当于给股价装了个\"减震器\"。<br>本文中的意思：第3 段那个\"加上绿鞋总数冲到1000 亿美元\"的组成部分。理解它，才能把644 亿、904 亿、1000 亿这一串数字的关系理顺。"
+  },
+  {
+   "name": "public benefit corporation / PBC",
+   "def": "简要介绍：一种特殊的公司法律形态。普通公司法律上只要求对股东负责——赚钱；公益公司则被要求（或被允许）在赚钱之外，同时对社会、对公众负责，且须把这一点写进公司章程。<br>本文中的意思：Anthropic 的法律身份。它上市时带的是一个\"双重身份\"：既要对得起掏钱买股票的股东，又得守住\"以人为本\"那条线。从法律上，它就不是一家\"只认钱\"的公司。"
+  },
+  {
+   "name": "Long-Term Benefit Trust",
+   "def": "简要介绍：一种法律结构，把一项权力（而非金钱）交给一个独立机构，替某个目的代为管理。Anthropic 的长期利益信托，握有选举与罢免公司董事会多数成员的权力。<br>本文中的意思：Anthropic 给自己装的\"防跑偏\"装置。正常情况下董事会由股东选出、谁股份多谁说了算；但Anthropic 让一个独立信托任免多数董事，意味着哪怕将来资本砸钱买股份想夺权、想把公司带偏，这个信托也能把董事会换掉、把公司拉回正轨。"
+  },
+  {
+   "name": "SpaceX",
+   "def": "简要介绍：马斯克创立的火箭与航天公司，业务涵盖火箭发射、卫星互联网（Starlink 星链），并关联AI 公司xAI。2026 年6 月上市，是此前全球最大的IPO 之一。<br>本文中的意思：第6 段的对照组。SpaceX 上市时也把AI 当卖点讲故事，但它大部分实际收入来自火箭、星链等别的业务线；而Anthropic 连\"火箭\"都没有，只有AI 一条腿。这个对比，凸显了Anthropic 的\"没有退路\"。"
+  },
+  {
+   "name": "慈善配捐计划",
+   "def": "简要介绍：一种企业慈善机制——员工向慈善机构捐款，公司按同等价值\"配捐\"（matching）。Anthropic 的配捐以股票形式进行，并为此专门预留了一批股票。<br>本文中的意思：它在文中两次出现——第一次是\"完全稀释估值\"里被算进去的预留股，第二次是第11 段\"20 亿美元非现金费用\"的来源。它既是\"完全稀释\"里那几块\"后厨欠着的披萨\"，也是账面亏损里\"没真掏现金\"的部分。"
+  },
+  {
+   "name": "Anthropic《支持地区政策》",
+   "def": "简要介绍：2026 年11 月10 日更新、11 月12 日生效，适用于Claude.ai、ClaudeCode、API 及开发者平台等产品。最大变化是从\"除少数地区外均可使用\"改为白名单制——共185 个国家和地区可用，不在名单内的一律不支持；中国大陆、香港、澳门、俄罗斯均不在名单内。其规定三种违规情形：人在不支持地区使用；注册地或总部在不支持地区的实体及其人员；被不支持地区直接或间接多数持股（超过50%）或控制的实体及其人员（其中\"超50% 持股\"规则2025 年9 月即已公布）。违规者账号可能被暂停或终止，且因违规被终止的不退款。<br>本文中的意思：文中由\"中国开发者的开放权重模型\"顺势引出、但原文并未提及的外部补充背景。它不是Bloomberg 原文内容，而是与Anthropic 直接相关的另一则消息。它说明AI 早已不只是技术问题，而是地缘、政策与站队。"
+  },
+  {
+   "name": "S&P 500",
+   "def": "简要介绍：标准普尔公司编制的、由美国500 家最大型上市公司组成的股票指数，苹果、微软、英伟达、谷歌等均在其中，被广泛视为美国股市的整体风向标。<br>本文中的意思：第5段里量级对比的那把尺子——Anthropic 一年内到期的700 亿美元账单，比标普500 里约三分之二公司的单家市值还大。用它当参照，才能让读者感受到700 亿的压迫感。"
+  },
+  {
+   "name": "招股书\"风险因素\"章节",
+   "def": "简要介绍：美国证监会（SEC）要求所有上市公司在招股说明书中必须设置\"风险因素\"章节，把公司可能面临的各类风险如实、甚至从重地列出，作为免责声明——风险没写清楚，将来出事可能被投资人以\"欺诈、隐瞒\"起诉。<br>本文中的意思：第7 段\"招股书警告AI 可能毁灭人类\"的法律背景。它说明这不是Anthropic 在\"自黑\"，而是法律规定的标准动作；但把风险写到\"人类灭绝\"这个量级，依然极其罕见——真话和免责声明，在这家公司身上恰好重合了。"
+  },
+  {
+   "name": "开放权重模型vs 闭源模型",
+   "def": "简要介绍：AI 模型可粗略分为两类。闭源模型（如Claude、ChatGPT）只开放使用、不公开内部参数，客户按用量付费；开放权重模型则把训练好的参数公开，任何人都能下载、本地部署、按需微调，成本更低、更灵活，代表包括一批来自中国开发者的开源模型。<br>本文中的意思：第12 段的落点。它解释了AI 巨头面临价格压力的根源——同样的活儿，一边是\"租个锁着的脑子\"，一边是\"白拿个脑子自己改\"，客户自然用脚投票。成立不到6年，Anthropic冲刺1.4万亿美元估值：AI到底值这么多钱吗？"
+  }
+ ],
  "sources_note": "依据美国《彭博社》（Bloomberg）2026-11-12 报道。",
- "practice": {},
+ "practice": {
+  "intro": "请将以下中文句子翻译为英文（参考答案见后）。",
+  "items": [
+   "Anthropic 这家公益公司，正寻求以约1.4 万亿美元的完全稀释估值上市，力图成为史上第一家上市的前沿人工智能实验室。",
+   "若把员工股票期权、限制性股票，以及为慈善配捐计划预留的股份统统算进去， Anthropic 的完全稀释后估值约为1.4 万亿美元。",
+   "投资者此刻压力重重，必须做出判断：AI 领域的天价估值，究竟反映了一项被寄望于重塑整个经济与社会的技术的合理前景，还是对一个尚未证明其持久生命力的投资主题的过度自信。",
+   "要让研发维持在这种不要命的高速上，收入的增速就必须跑赢其在AI 基础设施上的开支。",
+   "与那些有广告等收入来源可作退路的科技公司不同，Anthropic 必须让投资者相信，它一门心思扑在AI 上，也能赚出远超技术飙升成本的利润。",
+   "这些AI 巨头正面临来自更廉价开放权重模型日益激烈的竞争——其中包括来自中国开发者的模型——客户可将这些模型下载并按需微调。"
+  ],
+  "critical_en": "",
+  "critical_zh": "",
+  "answer": "1. Anthropic PBC is seeking a fully diluted valuation of about $1.4 trillion in its initial public offering, in a bid to make history as the first frontier artificial intelligence lab to go public.<br><br>2. Accounting for employee stock options, restricted shares and stock reserved for the company's charitable donation matching program, Anthropic would have a fully diluted value of about $1.4 trillion.<br><br>3. Investors are under pressure to decide whether valuations in AI reflect a plausible trajectory for a technology that many expect to transform the economy and society as a whole, or overconfidence in an investment theme that hasn't yet proven its staying power.<br><br>4. Keeping the pace of development running at a breakneck pace will require growing revenue faster than Anthropic's spending on AI infrastructure.<br><br>5. Unlike other tech companies with sources of income such as advertising to fall back on, Anthropic will have to convince investors that its focus on AI alone will generate profit far beyond the technology's surging costs.<br><br>6. The AI giants face growing competition from cheaper open-weight models, including from Chinese developers, which customers can download and fine-tune to their needs."
+ },
  "mindmap": {
   "aria": "Anthropic 万亿估值 IPO 思维导图",
   "alt": "Anthropic 万亿估值 IPO 思维导图：万亿定价、增长与疑云、账本与治理",
-  "svg": "<svg viewBox=\"0 0 960 530\" xmlns=\"http://www.w3.org/2000/svg\" role=\"img\" aria-label=\"Anthropic 万亿估值 IPO 思维导图\" style=\"width:100%;height:auto;font-family:-apple-system,'PingFang SC','Hiragino Sans GB','Microsoft YaHei',sans-serif\">\n<rect x=\"24\" y=\"221\" width=\"176\" height=\"88\" rx=\"14\" fill=\"#eae3d2\" stroke=\"#9a8f76\"/>\n<text x=\"112\" y=\"257\" text-anchor=\"middle\" fill=\"#3d3a34\" font-size=\"17\" font-weight=\"700\">万亿上市</text>\n<text x=\"112\" y=\"283\" text-anchor=\"middle\" fill=\"#5c5648\" font-size=\"12.5\">1.4 万亿美元定价</text>\n<path d=\"M200,265 C232,265 232,88 260,88\" stroke=\"#6b8f71\" stroke-width=\"2\" fill=\"none\"/>\n<path d=\"M200,265 C232,265 232,265 260,265\" stroke=\"#7d98ad\" stroke-width=\"2\" fill=\"none\"/>\n<path d=\"M200,265 C232,265 232,442 260,442\" stroke=\"#bd7a6d\" stroke-width=\"2\" fill=\"none\"/>\n<g class=\"mm-branch\" data-target=\"bc1\">\n<rect x=\"260\" y=\"71\" width=\"190\" height=\"34\" rx=\"8\" fill=\"#e6efe7\" stroke=\"#6b8f71\"/>\n<text x=\"355\" y=\"93\" text-anchor=\"middle\" fill=\"#4c6b52\" font-size=\"15\" font-weight=\"700\">万亿定价（¶1-3）</text>\n<text class=\"mm-arrow\" data-for=\"bc1\" x=\"442\" y=\"93\" text-anchor=\"end\" fill=\"#4c6b52\">▾</text>\n</g>\n<g class=\"mm-children\" id=\"bc1\">\n<path d=\"M450,88 C462,88 462,46 480,46\" stroke=\"#6b8f71\" stroke-width=\"1.5\" fill=\"none\"/>\n<path d=\"M450,88 C462,88 462,88 480,88\" stroke=\"#6b8f71\" stroke-width=\"1.5\" fill=\"none\"/>\n<path d=\"M450,88 C462,88 462,130 480,130\" stroke=\"#6b8f71\" stroke-width=\"1.5\" fill=\"none\"/>\n<rect x=\"480\" y=\"30\" width=\"456\" height=\"32\" rx=\"8\" fill=\"#e6efe7\"/><text x=\"492\" y=\"51\" fill=\"#3d3a34\" font-size=\"14\">估值 1.4 万亿，首家前沿 AI 实验室上市</text>\n<rect x=\"480\" y=\"72\" width=\"456\" height=\"32\" rx=\"8\" fill=\"#e6efe7\"/><text x=\"492\" y=\"93\" fill=\"#3d3a34\" font-size=\"14\">募资 904 亿，每股定价 70–78 美元</text>\n<rect x=\"480\" y=\"114\" width=\"456\" height=\"32\" rx=\"8\" fill=\"#e6efe7\"/><text x=\"492\" y=\"135\" fill=\"#3d3a34\" font-size=\"14\">算上绿鞋约 1000 亿；估值合理性受质疑</text>\n</g>\n<g class=\"mm-branch\" data-target=\"bc2\">\n<rect x=\"260\" y=\"248\" width=\"190\" height=\"34\" rx=\"8\" fill=\"#e5edf4\" stroke=\"#7d98ad\"/>\n<text x=\"355\" y=\"270\" text-anchor=\"middle\" fill=\"#3d5872\" font-size=\"15\" font-weight=\"700\">增长与疑云（¶4-9）</text>\n<text class=\"mm-arrow\" data-for=\"bc2\" x=\"442\" y=\"270\" text-anchor=\"end\" fill=\"#3d5872\">▾</text>\n</g>\n<g class=\"mm-children\" id=\"bc2\">\n<path d=\"M450,265 C462,265 462,202 480,202\" stroke=\"#7d98ad\" stroke-width=\"1.5\" fill=\"none\"/>\n<path d=\"M450,265 C462,265 462,244 480,244\" stroke=\"#7d98ad\" stroke-width=\"1.5\" fill=\"none\"/>\n<path d=\"M450,265 C462,265 462,286 480,286\" stroke=\"#7d98ad\" stroke-width=\"1.5\" fill=\"none\"/>\n<path d=\"M450,265 C462,265 462,328 480,328\" stroke=\"#7d98ad\" stroke-width=\"1.5\" fill=\"none\"/>\n<rect x=\"480\" y=\"186\" width=\"456\" height=\"32\" rx=\"8\" fill=\"#e5edf4\"/><text x=\"492\" y=\"207\" fill=\"#3d3a34\" font-size=\"14\">Claude Code 普及，九成代码由 Claude 写</text>\n<rect x=\"480\" y=\"228\" width=\"456\" height=\"32\" rx=\"8\" fill=\"#e5edf4\"/><text x=\"492\" y=\"249\" fill=\"#3d3a34\" font-size=\"14\">Q3 营收 170 亿，去年同期仅 14 亿</text>\n<rect x=\"480\" y=\"270\" width=\"456\" height=\"32\" rx=\"8\" fill=\"#e5edf4\"/><text x=\"492\" y=\"291\" fill=\"#3d3a34\" font-size=\"14\">8950 亿算力承诺；无广告等业务缓冲</text>\n<rect x=\"480\" y=\"312\" width=\"456\" height=\"32\" rx=\"8\" fill=\"#e5edf4\"/><text x=\"492\" y=\"333\" fill=\"#3d3a34\" font-size=\"14\">自家 CEO 呼吁放慢；OpenAI 推到 2027 上市</text>\n</g>\n<g class=\"mm-branch\" data-target=\"bc3\">\n<rect x=\"260\" y=\"425\" width=\"190\" height=\"34\" rx=\"8\" fill=\"#f4e7e4\" stroke=\"#bd7a6d\"/>\n<text x=\"355\" y=\"447\" text-anchor=\"middle\" fill=\"#7c4a3e\" font-size=\"15\" font-weight=\"700\">账本与治理（¶10-12）</text>\n<text class=\"mm-arrow\" data-for=\"bc3\" x=\"442\" y=\"447\" text-anchor=\"end\" fill=\"#7c4a3e\">▾</text>\n</g>\n<g class=\"mm-children\" id=\"bc3\">\n<path d=\"M450,442 C462,442 462,400 480,400\" stroke=\"#bd7a6d\" stroke-width=\"1.5\" fill=\"none\"/>\n<path d=\"M450,442 C462,442 462,442 480,442\" stroke=\"#bd7a6d\" stroke-width=\"1.5\" fill=\"none\"/>\n<path d=\"M450,442 C462,442 462,484 480,484\" stroke=\"#bd7a6d\" stroke-width=\"1.5\" fill=\"none\"/>\n<rect x=\"480\" y=\"384\" width=\"456\" height=\"32\" rx=\"8\" fill=\"#f4e7e4\"/><text x=\"492\" y=\"405\" fill=\"#3d3a34\" font-size=\"14\">安全派另立门户，PBC 信托可换多数董事</text>\n<rect x=\"480\" y=\"426\" width=\"456\" height=\"32\" rx=\"8\" fill=\"#f4e7e4\"/><text x=\"492\" y=\"447\" fill=\"#3d3a34\" font-size=\"14\">Q3 费用 175 亿增 292%，由盈转亏</text>\n<rect x=\"480\" y=\"468\" width=\"456\" height=\"32\" rx=\"8\" fill=\"#f4e7e4\"/><text x=\"492\" y=\"489\" fill=\"#3d3a34\" font-size=\"14\">降价少收 6 亿；开源低价模型夹击</text>\n</g>\n<text x=\"486\" y=\"170\" fill=\"#8a8578\" font-size=\"11.5\">↓ 凭什么撑住</text>\n<text x=\"486\" y=\"368\" fill=\"#8a8578\" font-size=\"11.5\">↓ 然而账本上</text>\n</svg>",
+  "svg": "<svg viewBox=\"0 0 960 530\" xmlns=\"http://www.w3.org/2000/svg\" role=\"img\" aria-label=\"Anthropic 万亿估值 IPO 思维导图\" style=\"width:100%;height:auto;font-family:-apple-system,'PingFang SC','Hiragino Sans GB','Microsoft YaHei',sans-serif\">\n<rect x=\"24\" y=\"221\" width=\"176\" height=\"88\" rx=\"14\" fill=\"#eae3d2\" stroke=\"#9a8f76\"/>\n<text x=\"112\" y=\"257\" text-anchor=\"middle\" fill=\"#3d3a34\" font-size=\"17\" font-weight=\"700\">万亿上市</text>\n<text x=\"112\" y=\"283\" text-anchor=\"middle\" fill=\"#5c5648\" font-size=\"12.5\">1.4 万亿美元定价</text>\n<path d=\"M200,265 C232,265 232,88 260,88\" stroke=\"#6b8f71\" stroke-width=\"2\" fill=\"none\"/>\n<path d=\"M200,265 C232,265 232,265 260,265\" stroke=\"#7d98ad\" stroke-width=\"2\" fill=\"none\"/>\n<path d=\"M200,265 C232,265 232,442 260,442\" stroke=\"#bd7a6d\" stroke-width=\"2\" fill=\"none\"/>\n<g class=\"mm-branch\" data-target=\"bc1\">\n<rect x=\"260\" y=\"71\" width=\"190\" height=\"34\" rx=\"8\" fill=\"#e6efe7\" stroke=\"#6b8f71\"/>\n<text x=\"355\" y=\"93\" text-anchor=\"middle\" fill=\"#4c6b52\" font-size=\"15\" font-weight=\"700\">万亿定价（¶1-3）</text>\n<text class=\"mm-arrow\" data-for=\"bc1\" x=\"442\" y=\"93\" text-anchor=\"end\" fill=\"#4c6b52\">▾</text>\n</g>\n<g class=\"mm-children\" id=\"bc1\">\n<path d=\"M450,88 C462,88 462,46 480,46\" stroke=\"#6b8f71\" stroke-width=\"1.5\" fill=\"none\"/>\n<path d=\"M450,88 C462,88 462,88 480,88\" stroke=\"#6b8f71\" stroke-width=\"1.5\" fill=\"none\"/>\n<path d=\"M450,88 C462,88 462,130 480,130\" stroke=\"#6b8f71\" stroke-width=\"1.5\" fill=\"none\"/>\n<rect x=\"480\" y=\"30\" width=\"456\" height=\"32\" rx=\"8\" fill=\"#e6efe7\"/><text x=\"492\" y=\"51\" fill=\"#3d3a34\" font-size=\"14\">估值 1.4 万亿，首家前沿 AI 实验室上市</text>\n<rect x=\"480\" y=\"72\" width=\"456\" height=\"32\" rx=\"8\" fill=\"#e6efe7\"/><text x=\"492\" y=\"93\" fill=\"#3d3a34\" font-size=\"14\">募资至多 904 亿，每股定价 70–78 美元</text>\n<rect x=\"480\" y=\"114\" width=\"456\" height=\"32\" rx=\"8\" fill=\"#e6efe7\"/><text x=\"492\" y=\"135\" fill=\"#3d3a34\" font-size=\"14\">算上私募与绿鞋约募 1000 亿；合理性受质疑</text>\n</g>\n<g class=\"mm-branch\" data-target=\"bc2\">\n<rect x=\"260\" y=\"248\" width=\"190\" height=\"34\" rx=\"8\" fill=\"#e5edf4\" stroke=\"#7d98ad\"/>\n<text x=\"355\" y=\"270\" text-anchor=\"middle\" fill=\"#3d5872\" font-size=\"15\" font-weight=\"700\">增长与疑云（¶4-9）</text>\n<text class=\"mm-arrow\" data-for=\"bc2\" x=\"442\" y=\"270\" text-anchor=\"end\" fill=\"#3d5872\">▾</text>\n</g>\n<g class=\"mm-children\" id=\"bc2\">\n<path d=\"M450,265 C462,265 462,202 480,202\" stroke=\"#7d98ad\" stroke-width=\"1.5\" fill=\"none\"/>\n<path d=\"M450,265 C462,265 462,244 480,244\" stroke=\"#7d98ad\" stroke-width=\"1.5\" fill=\"none\"/>\n<path d=\"M450,265 C462,265 462,286 480,286\" stroke=\"#7d98ad\" stroke-width=\"1.5\" fill=\"none\"/>\n<path d=\"M450,265 C462,265 462,328 480,328\" stroke=\"#7d98ad\" stroke-width=\"1.5\" fill=\"none\"/>\n<rect x=\"480\" y=\"186\" width=\"456\" height=\"32\" rx=\"8\" fill=\"#e5edf4\"/><text x=\"492\" y=\"207\" fill=\"#3d3a34\" font-size=\"14\">Claude Code 普及，九成代码由 Claude 写</text>\n<rect x=\"480\" y=\"228\" width=\"456\" height=\"32\" rx=\"8\" fill=\"#e5edf4\"/><text x=\"492\" y=\"249\" fill=\"#3d3a34\" font-size=\"14\">Q3 营收 170 亿，无广告兜底须自证盈利</text>\n<rect x=\"480\" y=\"270\" width=\"456\" height=\"32\" rx=\"8\" fill=\"#e5edf4\"/><text x=\"492\" y=\"291\" fill=\"#3d3a34\" font-size=\"14\">自家 CEO 呼吁放慢；失控风险被点名</text>\n<rect x=\"480\" y=\"312\" width=\"456\" height=\"32\" rx=\"8\" fill=\"#e5edf4\"/><text x=\"492\" y=\"333\" fill=\"#3d3a34\" font-size=\"14\">OpenAI 讥时机不明智，自己推 2027</text>\n</g>\n<g class=\"mm-branch\" data-target=\"bc3\">\n<rect x=\"260\" y=\"425\" width=\"190\" height=\"34\" rx=\"8\" fill=\"#f4e7e4\" stroke=\"#bd7a6d\"/>\n<text x=\"355\" y=\"447\" text-anchor=\"middle\" fill=\"#7c4a3e\" font-size=\"15\" font-weight=\"700\">治理与账本（¶10-12）</text>\n<text class=\"mm-arrow\" data-for=\"bc3\" x=\"442\" y=\"447\" text-anchor=\"end\" fill=\"#7c4a3e\">▾</text>\n</g>\n<g class=\"mm-children\" id=\"bc3\">\n<path d=\"M450,442 C462,442 462,400 480,400\" stroke=\"#bd7a6d\" stroke-width=\"1.5\" fill=\"none\"/>\n<path d=\"M450,442 C462,442 462,442 480,442\" stroke=\"#bd7a6d\" stroke-width=\"1.5\" fill=\"none\"/>\n<path d=\"M450,442 C462,442 462,484 480,484\" stroke=\"#bd7a6d\" stroke-width=\"1.5\" fill=\"none\"/>\n<rect x=\"480\" y=\"384\" width=\"456\" height=\"32\" rx=\"8\" fill=\"#f4e7e4\"/><text x=\"492\" y=\"405\" fill=\"#3d3a34\" font-size=\"14\">PBC + 信托可换多数董事</text>\n<rect x=\"480\" y=\"426\" width=\"456\" height=\"32\" rx=\"8\" fill=\"#f4e7e4\"/><text x=\"492\" y=\"447\" fill=\"#3d3a34\" font-size=\"14\">费用 175 亿增 292%，由盈转亏</text>\n<rect x=\"480\" y=\"468\" width=\"456\" height=\"32\" rx=\"8\" fill=\"#f4e7e4\"/><text x=\"492\" y=\"489\" fill=\"#3d3a34\" font-size=\"14\">降价少收 6 亿；开源低价夹击</text>\n</g>\n<text x=\"486\" y=\"170\" fill=\"#8a8578\" font-size=\"11.5\">↓ 凭什么撑住</text>\n<text x=\"486\" y=\"368\" fill=\"#8a8578\" font-size=\"11.5\">↓ 最终落到</text>\n</svg>",
   "img": ""
- },
- "audio": false,
- "print_compact": true
+ }
 }

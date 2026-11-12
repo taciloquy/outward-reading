@@ -178,6 +178,65 @@ def _card_body(lines):
     return out
 
 
+def detect_lede(clean, para_end, is_head):
+    """识别编号段之前的无编号导语块（英文长句 + 其译文），返回 {'n':0,...} 或 None。
+
+    部分期次在标题之后、编号段之前另置一块导语（如 20261112）。它是正文第 1 段，
+    漏掉会让段号整体前移、与预习版和导图 range 错位。判据：标题块之后最后一个
+    英文块以句号收尾且不少于 8 词，其后紧跟中文块即为它的译文。
+    """
+    lead_lines, k = [], 0
+    while k < para_end:
+        s = clean[k].strip()
+        if not s or s == '@@PAGE@@':
+            k += 1
+            continue
+        if is_head(s):
+            break
+        lead_lines.append(s)
+        k += 1
+    blocks = []
+    for line in lead_lines:
+        is_cjk = bool(CJK.search(line))
+        if blocks and blocks[-1][0] == is_cjk:
+            blocks[-1][1].append(line)
+        else:
+            blocks.append((is_cjk, [line]))
+    if len(blocks) < 3:
+        return None
+
+    def ok(t):
+        return t.rstrip().endswith(('.', '.”', '."')) and len(t.split()) >= 8
+
+    if not blocks[-1][0] and ok(' '.join(blocks[-1][1])):
+        en, zh = ' '.join(blocks[-1][1]), ''
+        head = ' '.join(' '.join(b[1]) for b in blocks[:-1])
+    elif not blocks[-2][0] and blocks[-1][0] and ok(' '.join(blocks[-2][1])):
+        en = ' '.join(blocks[-2][1])
+        zh = re.sub(r'\s+', '', ''.join(blocks[-1][1]))
+        head = ' '.join(' '.join(b[1]) for b in blocks[:-2])
+    else:
+        return None
+    en = re.sub(r'([A-Za-z])-\s+([a-z])', r'\1-\2', en)
+    return {'n': 0, 'en': fix_radicals(re.sub(r'\s+', ' ', en).strip()), 'zh': zh,
+            'head': re.sub(r'\s+', ' ', head).strip()}
+
+
+def split_lead_cards(cards, head_text):
+    """导语出现前的词卡分流：词在标题里出现的留在 headline，其余归导语段（¶1）。
+
+    版面上一整页的词卡都排在编号段之前，但其中一部分注释的是标题
+    （valuation / blockbuster / IPO），另一部分注释的是导语句
+    （PBC / fully diluted valuation / in a bid to），必须按实际词形归位。
+    """
+    head, body = [], []
+    for c in cards:
+        base = c['w'].split(' / ')[0]
+        pat = r'\s+'.join(re.escape(t) for t in base.split())
+        (head if re.search(pat, head_text or '', re.I) else body).append(c)
+    return head, body
+
+
 def run_new_edition(clean, practice_mark):
     """新版式解析：卡片靠「词 + 词性 + 音标」识别，专名靠「编号. 英文名 / 中文名」。"""
     para_end = next((j for j, l in enumerate(clean)
@@ -192,7 +251,15 @@ def run_new_edition(clean, practice_mark):
                 or (PARA_HEAD.match(s) and not CJK.search(s[:24])
                     and not s.startswith('（')))
 
-    paras, pool, proper = [], {'headline': []}, []
+    lede = detect_lede(clean, para_end, lambda s: bool(
+        PROPER_LINE.match(s) or (CARD_HEAD.match(s) and s.count('/') >= 2)
+        or CARD_HEAD_NOP.match(s) or PARA_HEAD.match(s)))
+
+    paras, pool, proper = [], {'headline': [], 'p0': []}, []
+    lede_head = ''
+    if lede:
+        lede_head = lede.pop('head', '')
+        paras.append(lede)
     cur = 'headline'
     i = 0
     while i < para_end:
@@ -365,6 +432,8 @@ def run_new_edition(clean, practice_mark):
         en = ' '.join(lines[:cut]).strip()
         zh = ''.join(lines[cut:]).strip()
         answers.append(f'{en}<br>参考译文：{zh}' if zh else en)
+    if lede_head:
+        pool['headline'], pool['p0'] = split_lead_cards(pool.get('headline', []), lede_head)
     return {'paragraphs': paras,
             'headline_cards': pool.get('headline', []),
             'para_cards': {p['n']: pool.get('p%d' % p['n'], []) for p in paras},
@@ -384,6 +453,8 @@ def run(pdf, proper_mark, practice_mark, drop):
     proper_idx = clean.index('@@PROPER@@')
 
     paras, pool = [], {'headline': []}
+    lede = detect_lede(clean, para_end, lambda s: bool(
+        s == '@@PROPER@@' or s.startswith('【') or re.match(r'^(\d+)\.(\s|$)', s)))
     cur = 'headline'
     i = 0
     while i < para_end:
@@ -446,6 +517,12 @@ def run(pdf, proper_mark, practice_mark, drop):
             pool[cur].append({'w': w, 'ipa': ipa, 'pos': pos, 'body': ' '.join(body)})
             continue
         i += 1
+
+    if lede:
+        lede_head = lede.pop('head', '')
+        paras.insert(0, lede)
+        pool.setdefault('p0', [])
+        pool['headline'], pool['p0'] = split_lead_cards(pool.get('headline', []), lede_head)
 
     # 专名：名字行以括注结尾，或下一行是「简要介绍…」
     proper, seg, cur_p = [], clean[proper_idx + 1:para_end], None
@@ -526,7 +603,8 @@ def main():
     print(f'段落 {len(data["paragraphs"])} | 词卡 {total}'
           f'（标题 {len(data["headline_cards"])} + 正文 {total - len(data["headline_cards"])}）')
     print(f'专名 {len(data["proper"])} | 练习 {len(data["practice"])} | 答案 {len(data["answers"])}')
-    empty = [n for n, v in data['para_cards'].items() if not v]
+    # 第 0 段是无编号导语，本来就不带词卡，不算异常。
+    empty = [n for n, v in data['para_cards'].items() if not v and n != 0]
     if empty:
         print(f'⚠ 这些段落没有词卡：{empty}')
     print(f'→ {a.out}')

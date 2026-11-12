@@ -9,5 +9,48 @@
  "headline_en": "Anthropic Targets $1.4 Trillion Valuation in Blockbuster IPO",
  "headline_zh": "Anthropic 剑指 1.4 万亿美元估值，上演一场爆炸级的上市",
  "sources_note": "依据美国《彭博社》（Bloomberg）2026-11-12 报道。",
- "marks": {}
+ "mindmap": {
+  "template": "scripts/content/2026-10-31.json",
+  "aria": "Anthropic 万亿估值 IPO 思维导图"
+ },
+ "marks": {
+  "1": [
+   ["backer", "backers"],
+   ["private placement", "private placement"],
+   ["base offering", "base offering"],
+   ["market", "market value"],
+   ["shares outstanding", "shares outstanding"],
+   ["account for", "Accounting for"]
+  ],
+  "3": [
+   ["point to", "points to"],
+   ["miracle drug", "miracle drugs"],
+   ["navigate", "navigating"],
+   ["code base", "code base"],
+   ["contribution", "contributions"]
+  ],
+  "7": [
+   ["flag", "flagged"],
+   ["lose control of", "losing control of"],
+   ["put the chance at", "putting the chance"],
+   ["eliminate", "eliminating"],
+   ["drive events", "drive events"],
+   ["a billion deaths", "a billion deaths"]
+  ],
+  "9": [
+   ["origin story", "origin story"],
+   ["defect", "defecting"],
+   ["prioritize", "prioritize"],
+   ["balance A with B", "balances shareholder interests with"],
+   ["governance", "governance"],
+   ["Long-Term Benefit Trust", "Long-Term Benefit Trust"]
+  ],
+  "10": [
+   ["operating expenses", "operating expenses"],
+   ["jump to", "jumped to"],
+   ["flip from A back to B", "flipped from"],
+   ["operating profit / loss", "operating profit"],
+   ["non-cash charges", "non-cash charges"]
+  ]
+ }
 }
