@@ -118,14 +118,14 @@ def main():
     img_b64 = ""
     if mm.get("img"):
         raw = open(mm["img"], "rb").read()
-        try:  # 压到手绘导图宽 ≤1000px、q80，控制单页体积
+        try:  # 压到手绘导图宽 ≤1400px、q86（笔记风导图含大量小字，1000px 会糊）
             from PIL import Image
             import io
             im = Image.open(io.BytesIO(raw)).convert("RGB")
-            if im.width > 1000:
-                im = im.resize((1000, round(im.height * 1000 / im.width)), Image.LANCZOS)
+            if im.width > 1400:
+                im = im.resize((1400, round(im.height * 1400 / im.width)), Image.LANCZOS)
             buf = io.BytesIO()
-            im.save(buf, "JPEG", quality=80)
+            im.save(buf, "JPEG", quality=86)
             raw = buf.getvalue()
         except Exception:
             pass
