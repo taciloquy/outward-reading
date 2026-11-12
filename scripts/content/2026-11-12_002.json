@@ -1,907 +1,907 @@
 {
- "date": "2026-11-12",
- "title_tag": "世界，是怎么变得如此依赖黄仁勋一个人的？ —— 英国《金融时报》深度外刊精讲 第七讲",
- "h1": "世界，是怎么变得如此依赖黄仁勋一个人的？",
- "source_label": "Financial Times",
- "category": "早安英文·深度外刊精讲 第七讲",
- "read_minutes": 25,
- "nav_hint": "How the world became too reliant on Jensen Huang",
- "headline": {
-  "en_html": "<span>How <mark class=\"voc\">the world</mark> became too <mark class=\"voc\">reliant</mark> on Jensen Huang</span> <span class=\"headline-sub\">The <mark class=\"voc\">chief executive</mark>'s <mark class=\"voc\">travails</mark> are a <mark class=\"voc\">reminder</mark> that a <mark class=\"voc\">single point of failure</mark> is <mark class=\"voc\">never a good thing</mark> for a big company</span>",
-  "zh": "世界，是怎么变得如此依赖黄仁勋一个人的？<br>这位首席执行官的这场磨难提醒我们——单点故障，对一家大公司来说，从来都不是一件好事。",
-  "notes": [
-   {
-    "w": "the world",
-    "ipa": "/ðə wɜːld/",
-    "pos": "n.",
-    "en": "all the countries and people on Earth, or everyone and everything that is affected by something.",
-    "zh": "世界。作者一上来不写 Nvidia、不写 the market、不写 the tech industry，偏写 the world——用最大的词，把格局拉到顶。意思是：这件事，已经不是一家公司的家事，是全世界的公共议题。<br>补充：（本文特指：这是英式评论的老套路——开头一个最大的词，把格局拉到顶。而且标题的动词是 became（过去式），强调「已经依赖上了」，木已成舟，不是「将来会依赖」。）<br>核心搭配：the whole world、around the world、the world of、in the world",
-    "ctx": "",
-    "ex1": "A single company now moves the whole world's markets. 一家公司如今能牵动全球市场。",
-    "ex2": "This is a lesson for the world, not just for one firm. 这是给全世界的教训，不只是给一家公司。"
-   },
-   {
-    "w": "reliant",
-    "ipa": "/rɪˈlaɪənt/",
-    "pos": "adj.",
-    "en": "needing someone or something to help or support you.",
-    "zh": "依赖的。reliant 和 dependent 近义，但 reliant 更书面、更正式，且后面固定接 on——be reliant on。标题里的 too reliant on，就是「过度依赖、依赖到过分了」。<br>补充：（本文特指：前面的 too 是「过了头」。全篇的题眼就是这个词——too reliant。第 5 段作者会用同源的 reduce dependency on 回收这个词，一头一尾，把「依赖一个人」这件事讲透。）<br>核心搭配：be reliant on、be heavily reliant on、too reliant on、rely on、reliance",
-    "ctx": "",
-    "ex1": "The world is too reliant on a handful of tech giants. 世界过于依赖少数几家科技巨头。",
-    "ex2": "The economy is heavily reliant on exports. 这个经济体重度依赖出口。"
-   },
-   {
-    "w": "chief executive",
-    "ipa": "/tʃiːf ɪɡˈzekjətɪv/",
-    "pos": "n.",
-    "en": "the person with the highest rank in a company, in charge of running it day to day.",
-    "zh": "首席执行官，即 CEO 的全称（chief executive officer）。chief 是「首席的」，executive 是「执行者、高管」。新闻里也常用 The Nvidia chief 来称呼黄仁勋——用「头衔 + 公司」代替点名，显得客观、有距离感。<br>补充：（本文特指：注意 CEO 和 chairman（董事长）的分工——CEO 是干活的「运动员」，chairman 是主持董事会、监督的「裁判员」。这个区别第 5 段讲权力交接时会用到，先记着。）<br>核心搭配：a chief executive、the chief executive officer、a chief executive's decision、take over as chief executive",
-    "ctx": "",
-    "ex1": "The chief executive resigned after the scandal. 丑闻曝光后，这位首席执行官辞职了。",
-    "ex2": "She was named chief executive last year. 她去年被任命为首席执行官。"
-   },
-   {
-    "w": "travails",
-    "ipa": "/ˈtræveɪlz/",
-    "pos": "n. (pl.)",
-    "en": "painful or laborious effort, or difficult and unpleasant situations that you have to deal with.",
-    "zh": "磨难、煎熬、困苦。这个词自带戏剧感，天生配大人物——名人的起落、CEO 的危机、领袖的困境才配得上 travails。你不会说「我早上堵车，travails 了」。<br>补充：（本文特指：黄仁勋出的是桃色新闻，本是八卦。作者不说 scandal、不说 trouble，偏挑最「端着」的词 travails，把一件「八卦」包装成一场「史诗般的磨难」。这就是英式评论的语言功力——不骂你，把你抬到悲剧的高度，让你自己显得更尴尬。）<br>核心搭配：the travails of、suffer travails、the company's travails、endure travails",
-    "ctx": "",
-    "ex1": "The travails of the tech giant have rattled global markets. 这家科技巨头的磨难，震动了全球市场。",
-    "ex2": "He wrote about the travails of running a start-up. 他写下了经营一家初创公司的种种艰辛。"
-   },
-   {
-    "w": "reminder",
-    "ipa": "/rɪˈmaɪndə(r)/",
-    "pos": "n.",
-    "en": "something that makes you remember or think about something.",
-    "zh": "提醒物、提醒。a reminder that...，后面 that 引导的是同位语从句，说明「提醒」的具体内容。整句骨架就是 X is a reminder that...「X 提醒我们……」。<br>补充：（本文特指：这是写作高频句式。This is a reminder that health is the real wealth.（这提醒我们，健康才是真财富。）用这个句式，比干巴巴的「我们要注意」高级得多。）<br>核心搭配：a reminder that、a constant reminder、serve as a reminder、a timely reminder",
-    "ctx": "",
-    "ex1": "His downfall is a reminder that no one is irreplaceable. 他的倒台提醒我们，没有人是不可替代的。",
-    "ex2": "This serves as a reminder to plan for succession. 这提醒我们要提前规划接班。"
-   },
-   {
-    "w": "single point of failure",
-    "ipa": "/ˈsɪŋɡl pɔɪnt əv ˈfeɪljə(r)/",
-    "pos": "phr.",
-    "en": "a part of a system that, if it fails, will stop the entire system from working.",
-    "zh": "单点故障，缩写 SPOF。这是全文的灵魂词，来自工程学——系统里这么一个部件：它一坏，整个系统就停止运转。别的零件再稳都没用，只要这一个「单点」一倒，全盘瘫痪。<br>补充：（本文特指：作者用它打了一个嵌套的比喻——黄仁勋是英伟达的「单点故障」（管 60 个直接下属、没接班人），而英伟达又是整个市场的「单点故障」（占标普 500 近 7% 权重）。单点里面套着单点，这才是「世界过度依赖一个人」的完整意思。生活类比：家里只有一把钥匙，钥匙一丢，全家进不了门。）<br>核心搭配：a single point of failure、eliminate single points of failure、a SPOF、create a single point of failure",
-    "ctx": "",
-    "ex1": "Relying on one person is a single point of failure. 只依赖一个人，就是单点故障。",
-    "ex2": "Engineers try to eliminate every single point of failure. 工程师尽力消除每一个单点故障。"
-   },
-   {
-    "w": "never a good thing",
-    "ipa": "/ˈnevə ə ɡʊd θɪŋ/",
-    "pos": "phr.",
-    "en": "always bad; never beneficial.",
-    "zh": "从来不是好事。双重强调，语气绝对——作者不是「可能不好」，是斩钉截铁地「从来不是好事」。后面的 for a big company 点出适用范围：大公司，一个几万人的帝国，命还悬在一个人身上，才是灾难。<br>补充：（本文特指：小公司本来就靠一两个人，无所谓「单点故障」；但大公司不行。这个副标题其实已经把全文结论说完了——标题抛现象，副标题下结论，正文八段全是论证。这是英式评论最标准的写法：先给结论，再慢慢证明。）<br>核心搭配：never a good thing、a good thing、do the right thing",
-    "ctx": "",
-    "ex1": "A single point of failure is never a good thing for a big company. 单点故障，对大公司从来不是好事。",
-    "ex2": "Putting all your eggs in one basket is never a good thing. 把鸡蛋全放一个篮子里，从来不是好事。"
-   }
-  ]
- },
- "paragraphs": [
-  {
-   "en_html": "A <mark class=\"voc\">wayward</mark> chief executive is a major problem for any company. The <mark class=\"voc\">scandal</mark> <mark class=\"voc\">unfolding</mark> at the top of Nvidia, though, is a <mark class=\"voc\">liability</mark> for <mark class=\"voc\">a much broader set of people</mark>. <mark class=\"voc\">It's a good moment to</mark> think about how to make the world less dependent on the <mark class=\"voc\">fortunes</mark> and <mark class=\"voc\">foibles</mark> of Jensen Huang.",
-   "zh": "一个行为出格的 CEO，对任何公司而言都是大麻烦。然而，英伟达最高层正在发酵的这桩丑闻，却成了范围远为广泛的一群人的隐患。此刻，我们正该认真想想，如何让这个世界，不再如此依赖黄仁勋个人的财富运势，与那点无伤大雅的小毛病。",
-   "notes": [
-    {
-     "w": "wayward",
-     "ipa": "/ˈweɪwəd/",
-     "pos": "adj.",
-     "en": "behaving badly, or doing things that are not expected or allowed.",
-     "zh": "任性的、行为出格的、不受约束的。拆开看：way 是「路」，-ward 是「朝……方向」（如 toward、backward），wayward 字面就是「朝自己的路走」——不走正道，按自己性子来。<br>补充：（本文特指：形容人是那种「谁都管不住」的劲儿。a wayward child 不听话的孩子，a wayward husband 不着家乱来的丈夫。作者一上来用这个词给黄仁勋定调：不是普通「犯错」，是「出格」。）<br>核心搭配：a wayward child、wayward behaviour、a wayward genius",
-     "ctx": "",
-     "ex1": "A wayward boss can sink an entire company. 一个任性的老板能拖垮整家公司。",
-     "ex2": "He was a wayward talent who broke every rule. 他是个不守规矩、却才华横溢的人。"
-    },
-    {
-     "w": "scandal",
-     "ipa": "/ˈskændl/",
-     "pos": "n.",
-     "en": "an event or behaviour that shocks people because it is morally wrong or illegal.",
-     "zh": "丑闻。the scandal unfolding，正在发酵的丑闻。作者不点破具体内容（婚外情），用 scandal 这个正式、克制的词带过，留待第 2 段再展开。<br>补充：（本文特指：at the top of Nvidia「英伟达的最高层」，点出这事不是普通员工出事，是「顶层」出事——这才会引出后文「单点故障」的危机。）<br>核心搭配：a scandal、a corruption scandal、break a scandal、be caught in a scandal",
-     "ctx": "",
-     "ex1": "The scandal at the top of the company is still unfolding. 公司高层的这桩丑闻仍在发酵。",
-     "ex2": "A financial scandal brought down the bank. 一桩金融丑闻击垮了这家银行。"
-    },
-    {
-     "w": "unfold",
-     "ipa": "/ʌnˈfəʊld/",
-     "pos": "v.",
-     "en": "to gradually happen, or to become clearer as more details are known.",
-     "zh": "展开、逐渐显露。fold 是「折叠」，un- 是「打开」，unfold 就是把折起来的东西摊开。这里 unfolding 是现在分词做后置定语，修饰 scandal——「正在展开的丑闻」。<br>补充：（本文特指：作者不用静态的 the scandal，偏用 the scandal unfolding，传达一个微妙信息——这事还是进行时，还没完，正在一层层往外翻。这出戏，才刚拉开帷幕。）<br>核心搭配：events unfold、the story unfolds、unfold gradually、as the scandal unfolded",
-     "ctx": "",
-     "ex1": "As the scandal unfolded, more details came to light. 随着丑闻展开，更多细节浮出水面。",
-     "ex2": "We watched the crisis unfold in real time. 我们眼睁睁看着危机实时上演。"
-    },
-    {
-     "w": "liability",
-     "ipa": "/ˌlaɪəˈbɪləti/",
-     "pos": "n.",
-     "en": "a person or thing that causes you a lot of problems.",
-     "zh": "隐患、负担、拖累者。这是个「一词多义」的坑——它的第一义是「法律责任」（legal liability、limited liability company 有限责任），但这里取的是「负担、拖累」这层义。<br>补充：（本文特指：最好记的方式——liability 是 asset 的反义词。asset 是「资产、有价值的人」，团队里说一个人 is an asset 是「宝」；说一个人 is a liability 是「坑、拖后腿」。一个 CEO 本应是公司的核心资产，作者却说他变成了 a liability——态度，一个词就出来了。）<br>核心搭配：a liability、a legal liability、become a liability、be a liability to",
-     "ctx": "",
-     "ex1": "Without a successor, the CEO becomes a liability. 没有接班人，这位 CEO 就成了一种隐患。",
-     "ex2": "His lack of judgement made him a liability. 他缺乏判断力，成了团队的负担。"
-    },
-    {
-     "w": "a much broader set of people",
-     "ipa": "/ə mʌtʃ ˈbrɔːdə set əv ˈpiːpl/",
-     "pos": "phr.",
-     "en": "a far larger and more varied group of people than the obvious one.",
-     "zh": "范围广得多的一批人。a set of 是「一组、一批」，much broader 是「广得多的」。这是全文第一个伏笔——作者说丑闻是「更多人」的隐患，但不点破是谁，卖个关子。<br>补充：（本文特指：这「范围广得多的人」是谁，作者故意按住不揭，一直到第 4 段才「轰」地砸下来——你我的养老金、指数基金，都押在英伟达身上。先记住这六个字，读到第 4 段会有答案揭晓的爽感。）<br>核心搭配：a broad set of、a much broader group、a wider range of people",
-     "ctx": "",
-     "ex1": "The failure affects a much broader set of people than investors. 这场失败影响的人群，远不止投资者。",
-     "ex2": "The decision hurt a far wider group than expected. 这个决定伤害的范围，比预想的大得多。"
-    },
-    {
-     "w": "It's a good moment to...",
-     "ipa": "/ɪts ə ɡʊd ˈməʊmənt tə/",
-     "pos": "phr.",
-     "en": "now is a suitable time to do something.",
-     "zh": "是做……的好时机。万能句型。作者前两句是「陈述事实」，到这句笔锋一转，开始「给建议」——这是评论文章的典型节奏：先摆事实，再提主张。<br>补充：（本文特指：how to make the world less dependent on...，how to do 是不定式结构，跟在 think about 后面做宾语。less dependent on「不那么依赖」，呼应标题里的 too reliant on——同一个意思，换了词又讲一遍。）<br>核心搭配：a good moment to、the right moment to、seize the moment",
-     "ctx": "",
-     "ex1": "It's a good moment to rethink our over-reliance on one supplier. 现在是时候重新审视我们对单一供应商的过度依赖了。",
-     "ex2": "This is the right moment to diversify. 现在正是分散风险的合适时机。"
-    },
-    {
-     "w": "fortunes and foibles",
-     "ipa": "/ˈfɔːtʃuːnz ən ˈfɔɪblz/",
-     "pos": "phr.",
-     "en": "a person's wealth and luck on the one hand, and their small weaknesses on the other.",
-     "zh": "财富运势与小毛病。两个词都是 f 开头，读起来「叮当」一声，是头韵（alliteration）。fortunes 用复数，既指「财富」也指「命运兴衰」；foibles 是「性格里无伤大雅的小毛病」。<br>补充：（本文特指：注意这两个词的「体量差」——fortunes 是天大的东西（财富、命运），foibles 是芝麻大的东西（小毛病）。作者把它们并排放，讽刺就出来了：整个世界这么大，居然被一个人「有钱没钱、脾气好不好」这种小事拿捏了。这就是英式评论的功力——不骂人，用最优雅的方式摆出最荒唐的事。）<br>核心搭配：fortunes and foibles、the fortunes of、human foibles、a foible",
-     "ctx": "",
-     "ex1": "The world should not depend on one man's fortunes and foibles. 世界不该悬于一个人的财富与脾气。",
-     "ex2": "We all have our little foibles. 我们都有自己的小毛病。"
-    },
-    {
-     "w": "foible",
-     "ipa": "/ˈfɔɪbl/",
-     "pos": "n.",
-     "en": "a small fault or weakness in someone's character.",
-     "zh": "小毛病、小软肋。词源来自击剑——17 世纪，剑刃分两段：靠近剑柄那段有力结实，叫 forte；从中间到剑尖那段细软使不上劲，叫 foible，即「剑的弱点」。<br>补充：（本文特指：后来这两个词从剑跳到了人身上——forte 变成「你的强项」（数学是我的 forte），foible 变成「你的小软肋」。所以 foible 天生的气质不是大奸大恶，是「无伤大雅、但真实存在的小毛病」。这层词源，和「单点故障」恰好呼应——弱点，才是系统最怕的地方。）<br>核心搭配：a human foible、little foibles、one's foibles、a minor foible",
-     "ctx": "",
-     "ex1": "Impatience is his one obvious foible. 急躁是他唯一明显的小毛病。",
-     "ex2": "The book is full of warm portraits of human foibles. 这本书满是关于人性弱点的温情描摹。"
-    }
-   ]
+  "date": "2026-11-12",
+  "title_tag": "世界，是怎么变得如此依赖黄仁勋一个人的？ —— 英国《金融时报》深度外刊精讲 第七讲",
+  "h1": "世界，是怎么变得如此依赖黄仁勋一个人的？",
+  "source_label": "Financial Times",
+  "category": "早安英文·深度外刊精讲 第七讲",
+  "read_minutes": 25,
+  "nav_hint": "How the world became too reliant on Jensen Huang",
+  "headline": {
+    "en_html": "<span>How <mark class=\"voc\">the world</mark> became too <mark class=\"voc\">reliant</mark> on Jensen Huang</span> <span class=\"headline-sub\">The <mark class=\"voc\">chief executive</mark>'s <mark class=\"voc\">travails</mark> are a <mark class=\"voc\">reminder</mark> that a <mark class=\"voc\">single point of failure</mark> is <mark class=\"voc\">never a good thing</mark> for a big company</span>",
+    "zh": "世界，是怎么变得如此依赖黄仁勋一个人的？<br>这位首席执行官的这场磨难提醒我们——单点故障，对一家大公司来说，从来都不是一件好事。",
+    "notes": [
+      {
+        "w": "the world",
+        "ipa": "/ðə wɜːld/",
+        "pos": "n.",
+        "en": "all the countries and people on Earth, or everyone and everything that is affected by something.",
+        "zh": "世界。作者一上来不写 Nvidia、不写 the market、不写 the tech industry，偏写 the world——用最大的词，把格局拉到顶。意思是：这件事，已经不是一家公司的家事，是全世界的公共议题。<br>补充：（本文特指：这是英式评论的老套路——开头一个最大的词，把格局拉到顶。而且标题的动词是 became（过去式），强调「已经依赖上了」，木已成舟，不是「将来会依赖」。）<br>核心搭配：the whole world、around the world、the world of、in the world",
+        "ctx": "",
+        "ex1": "A single company now moves the whole world's markets. 一家公司如今能牵动全球市场。",
+        "ex2": "This is a lesson for the world, not just for one firm. 这是给全世界的教训，不只是给一家公司。"
+      },
+      {
+        "w": "reliant",
+        "ipa": "/rɪˈlaɪənt/",
+        "pos": "adj.",
+        "en": "needing someone or something to help or support you.",
+        "zh": "依赖的。reliant 和 dependent 近义，但 reliant 更书面、更正式，且后面固定接 on——be reliant on。标题里的 too reliant on，就是「过度依赖、依赖到过分了」。<br>补充：（本文特指：前面的 too 是「过了头」。全篇的题眼就是这个词——too reliant。第 5 段作者会用同源的 reduce dependency on 回收这个词，一头一尾，把「依赖一个人」这件事讲透。）<br>核心搭配：be reliant on、be heavily reliant on、too reliant on、rely on、reliance",
+        "ctx": "",
+        "ex1": "The world is too reliant on a handful of tech giants. 世界过于依赖少数几家科技巨头。",
+        "ex2": "The economy is heavily reliant on exports. 这个经济体重度依赖出口。"
+      },
+      {
+        "w": "chief executive",
+        "ipa": "/tʃiːf ɪɡˈzekjətɪv/",
+        "pos": "n.",
+        "en": "the person with the highest rank in a company, in charge of running it day to day.",
+        "zh": "首席执行官，即 CEO 的全称（chief executive officer）。chief 是「首席的」，executive 是「执行者、高管」。新闻里也常用 The Nvidia chief 来称呼黄仁勋——用「头衔 + 公司」代替点名，显得客观、有距离感。<br>补充：（本文特指：注意 CEO 和 chairman（董事长）的分工——CEO 是干活的「运动员」，chairman 是主持董事会、监督的「裁判员」。这个区别第 5 段讲权力交接时会用到，先记着。）<br>核心搭配：a chief executive、the chief executive officer、a chief executive's decision、take over as chief executive",
+        "ctx": "",
+        "ex1": "The chief executive resigned after the scandal. 丑闻曝光后，这位首席执行官辞职了。",
+        "ex2": "She was named chief executive last year. 她去年被任命为首席执行官。"
+      },
+      {
+        "w": "travails",
+        "ipa": "/ˈtræveɪlz/",
+        "pos": "n. (pl.)",
+        "en": "painful or laborious effort, or difficult and unpleasant situations that you have to deal with.",
+        "zh": "磨难、煎熬、困苦。这个词自带戏剧感，天生配大人物——名人的起落、CEO 的危机、领袖的困境才配得上 travails。你不会说「我早上堵车，travails 了」。<br>补充：（本文特指：黄仁勋出的是桃色新闻，本是八卦。作者不说 scandal、不说 trouble，偏挑最「端着」的词 travails，把一件「八卦」包装成一场「史诗般的磨难」。这就是英式评论的语言功力——不骂你，把你抬到悲剧的高度，让你自己显得更尴尬。）<br>核心搭配：the travails of、suffer travails、the company's travails、endure travails",
+        "ctx": "",
+        "ex1": "The travails of the tech giant have rattled global markets. 这家科技巨头的磨难，震动了全球市场。",
+        "ex2": "He wrote about the travails of running a start-up. 他写下了经营一家初创公司的种种艰辛。"
+      },
+      {
+        "w": "reminder",
+        "ipa": "/rɪˈmaɪndə(r)/",
+        "pos": "n.",
+        "en": "something that makes you remember or think about something.",
+        "zh": "提醒物、提醒。a reminder that...，后面 that 引导的是同位语从句，说明「提醒」的具体内容。整句骨架就是 X is a reminder that...「X 提醒我们……」。<br>补充：（本文特指：这是写作高频句式。This is a reminder that health is the real wealth.（这提醒我们，健康才是真财富。）用这个句式，比干巴巴的「我们要注意」高级得多。）<br>核心搭配：a reminder that、a constant reminder、serve as a reminder、a timely reminder",
+        "ctx": "",
+        "ex1": "His downfall is a reminder that no one is irreplaceable. 他的倒台提醒我们，没有人是不可替代的。",
+        "ex2": "This serves as a reminder to plan for succession. 这提醒我们要提前规划接班。"
+      },
+      {
+        "w": "single point of failure",
+        "ipa": "/ˈsɪŋɡl pɔɪnt əv ˈfeɪljə(r)/",
+        "pos": "phr.",
+        "en": "a part of a system that, if it fails, will stop the entire system from working.",
+        "zh": "单点故障，缩写 SPOF。这是全文的灵魂词，来自工程学——系统里这么一个部件：它一坏，整个系统就停止运转。别的零件再稳都没用，只要这一个「单点」一倒，全盘瘫痪。<br>补充：（本文特指：作者用它打了一个嵌套的比喻——黄仁勋是英伟达的「单点故障」（管 60 个直接下属、没接班人），而英伟达又是整个市场的「单点故障」（占标普 500 近 7% 权重）。单点里面套着单点，这才是「世界过度依赖一个人」的完整意思。生活类比：家里只有一把钥匙，钥匙一丢，全家进不了门。）<br>核心搭配：a single point of failure、eliminate single points of failure、a SPOF、create a single point of failure",
+        "ctx": "",
+        "ex1": "Relying on one person is a single point of failure. 只依赖一个人，就是单点故障。",
+        "ex2": "Engineers try to eliminate every single point of failure. 工程师尽力消除每一个单点故障。"
+      },
+      {
+        "w": "never a good thing",
+        "ipa": "/ˈnevə ə ɡʊd θɪŋ/",
+        "pos": "phr.",
+        "en": "always bad; never beneficial.",
+        "zh": "从来不是好事。双重强调，语气绝对——作者不是「可能不好」，是斩钉截铁地「从来不是好事」。后面的 for a big company 点出适用范围：大公司，一个几万人的帝国，命还悬在一个人身上，才是灾难。<br>补充：（本文特指：小公司本来就靠一两个人，无所谓「单点故障」；但大公司不行。这个副标题其实已经把全文结论说完了——标题抛现象，副标题下结论，正文八段全是论证。这是英式评论最标准的写法：先给结论，再慢慢证明。）<br>核心搭配：never a good thing、a good thing、do the right thing",
+        "ctx": "",
+        "ex1": "A single point of failure is never a good thing for a big company. 单点故障，对大公司从来不是好事。",
+        "ex2": "Putting all your eggs in one basket is never a good thing. 把鸡蛋全放一个篮子里，从来不是好事。"
+      }
+    ]
   },
-  {
-   "en_html": "The Nvidia chief said on Sunday that he had been <mark class=\"voc\">unfaithful</mark> to his wife, <mark class=\"voc\">following</mark> reports that a woman <mark class=\"voc\">with whom</mark> he <mark class=\"voc\">had relations</mark> <mark class=\"voc\">may have been</mark> a <mark class=\"voc\">Chinese</mark> <mark class=\"voc\">intelligence asset</mark>. Given the value of Nvidia's <mark class=\"voc\">intellectual property</mark> and the <mark class=\"voc\">fraught</mark> nature of US-China politics, this raises countless questions that a <mark class=\"voc\">board probe</mark>, assisted by outside lawyers, will have to <mark class=\"voc\">investigate</mark>.",
-   "zh": "这位英伟达掌门人周日承认，自己曾对妻子不忠——此前有报道称，一名与他有染的女子，可能曾是中国情报机构的线人。鉴于英伟达知识产权的价值，以及中美政治本就紧绷的敏感性质，此事牵出了无数待解的问题，一个由外部律师协助的董事会调查，将不得不逐一查清。",
-   "notes": [
+  "paragraphs": [
     {
-     "w": "unfaithful",
-     "ipa": "/ʌnˈfeɪθfl/",
-     "pos": "adj.",
-     "en": "having sex with someone who is not your husband, wife, or partner.",
-     "zh": "不忠的、出轨的。faithful 是「忠实的」，un- 否定前缀，unfaithful 即「不忠」。新闻里更正式、更克制的说法是 be unfaithful to someone；口语里更常说 cheat on someone。<br>补充：（本文特指：注意时态 had been unfaithful 是过去完成时——主句动词 said 已是过去，而「不忠」发生在他「说」之前，是「过去的过去」。还有 be unfaithful to 里的 to 别丢。）<br>核心搭配：be unfaithful to、an unfaithful husband、cheat on someone",
-     "ctx": "",
-     "ex1": "He admitted he had been unfaithful to his wife. 他承认自己对妻子不忠。",
-     "ex2": "She found out he had cheated on her. 她发现他出轨了。"
+      "en_html": "A <mark class=\"voc\">wayward</mark> chief executive is a major problem for any company. The <mark class=\"voc\">scandal</mark> <mark class=\"voc\">unfolding</mark> at the top of Nvidia, though, is a <mark class=\"voc\">liability</mark> for <mark class=\"voc\">a much broader set of people</mark>. <mark class=\"voc\">It's a good moment to</mark> think about how to make the world less dependent on the <mark class=\"voc\">fortunes</mark> and <mark class=\"voc\">foibles</mark> of Jensen Huang.",
+      "zh": "一个行为出格的 CEO，对任何公司而言都是大麻烦。然而，英伟达最高层正在发酵的这桩丑闻，却成了范围远为广泛的一群人的隐患。此刻，我们正该认真想想，如何让这个世界，不再如此依赖黄仁勋个人的财富运势，与那点无伤大雅的小毛病。",
+      "notes": [
+        {
+          "w": "wayward",
+          "ipa": "/ˈweɪwəd/",
+          "pos": "adj.",
+          "en": "behaving badly, or doing things that are not expected or allowed.",
+          "zh": "任性的、行为出格的、不受约束的。拆开看：way 是「路」，-ward 是「朝……方向」（如 toward、backward），wayward 字面就是「朝自己的路走」——不走正道，按自己性子来。<br>补充：（本文特指：形容人是那种「谁都管不住」的劲儿。a wayward child 不听话的孩子，a wayward husband 不着家乱来的丈夫。作者一上来用这个词给黄仁勋定调：不是普通「犯错」，是「出格」。）<br>核心搭配：a wayward child、wayward behaviour、a wayward genius",
+          "ctx": "",
+          "ex1": "A wayward boss can sink an entire company. 一个任性的老板能拖垮整家公司。",
+          "ex2": "He was a wayward talent who broke every rule. 他是个不守规矩、却才华横溢的人。"
+        },
+        {
+          "w": "scandal",
+          "ipa": "/ˈskændl/",
+          "pos": "n.",
+          "en": "an event or behaviour that shocks people because it is morally wrong or illegal.",
+          "zh": "丑闻。the scandal unfolding，正在发酵的丑闻。作者不点破具体内容（婚外情），用 scandal 这个正式、克制的词带过，留待第 2 段再展开。<br>补充：（本文特指：at the top of Nvidia「英伟达的最高层」，点出这事不是普通员工出事，是「顶层」出事——这才会引出后文「单点故障」的危机。）<br>核心搭配：a scandal、a corruption scandal、break a scandal、be caught in a scandal",
+          "ctx": "",
+          "ex1": "The scandal at the top of the company is still unfolding. 公司高层的这桩丑闻仍在发酵。",
+          "ex2": "A financial scandal brought down the bank. 一桩金融丑闻击垮了这家银行。"
+        },
+        {
+          "w": "unfold",
+          "ipa": "/ʌnˈfəʊld/",
+          "pos": "v.",
+          "en": "to gradually happen, or to become clearer as more details are known.",
+          "zh": "展开、逐渐显露。fold 是「折叠」，un- 是「打开」，unfold 就是把折起来的东西摊开。这里 unfolding 是现在分词做后置定语，修饰 scandal——「正在展开的丑闻」。<br>补充：（本文特指：作者不用静态的 the scandal，偏用 the scandal unfolding，传达一个微妙信息——这事还是进行时，还没完，正在一层层往外翻。这出戏，才刚拉开帷幕。）<br>核心搭配：events unfold、the story unfolds、unfold gradually、as the scandal unfolded",
+          "ctx": "",
+          "ex1": "As the scandal unfolded, more details came to light. 随着丑闻展开，更多细节浮出水面。",
+          "ex2": "We watched the crisis unfold in real time. 我们眼睁睁看着危机实时上演。"
+        },
+        {
+          "w": "liability",
+          "ipa": "/ˌlaɪəˈbɪləti/",
+          "pos": "n.",
+          "en": "a person or thing that causes you a lot of problems.",
+          "zh": "隐患、负担、拖累者。这是个「一词多义」的坑——它的第一义是「法律责任」（legal liability、limited liability company 有限责任），但这里取的是「负担、拖累」这层义。<br>补充：（本文特指：最好记的方式——liability 是 asset 的反义词。asset 是「资产、有价值的人」，团队里说一个人 is an asset 是「宝」；说一个人 is a liability 是「坑、拖后腿」。一个 CEO 本应是公司的核心资产，作者却说他变成了 a liability——态度，一个词就出来了。）<br>核心搭配：a liability、a legal liability、become a liability、be a liability to",
+          "ctx": "",
+          "ex1": "Without a successor, the CEO becomes a liability. 没有接班人，这位 CEO 就成了一种隐患。",
+          "ex2": "His lack of judgement made him a liability. 他缺乏判断力，成了团队的负担。"
+        },
+        {
+          "w": "a much broader set of people",
+          "ipa": "/ə mʌtʃ ˈbrɔːdə set əv ˈpiːpl/",
+          "pos": "phr.",
+          "en": "a far larger and more varied group of people than the obvious one.",
+          "zh": "范围广得多的一批人。a set of 是「一组、一批」，much broader 是「广得多的」。这是全文第一个伏笔——作者说丑闻是「更多人」的隐患，但不点破是谁，卖个关子。<br>补充：（本文特指：这「范围广得多的人」是谁，作者故意按住不揭，一直到第 4 段才「轰」地砸下来——你我的养老金、指数基金，都押在英伟达身上。先记住这六个字，读到第 4 段会有答案揭晓的爽感。）<br>核心搭配：a broad set of、a much broader group、a wider range of people",
+          "ctx": "",
+          "ex1": "The failure affects a much broader set of people than investors. 这场失败影响的人群，远不止投资者。",
+          "ex2": "The decision hurt a far wider group than expected. 这个决定伤害的范围，比预想的大得多。"
+        },
+        {
+          "w": "It's a good moment to...",
+          "ipa": "/ɪts ə ɡʊd ˈməʊmənt tə/",
+          "pos": "phr.",
+          "en": "now is a suitable time to do something.",
+          "zh": "是做……的好时机。万能句型。作者前两句是「陈述事实」，到这句笔锋一转，开始「给建议」——这是评论文章的典型节奏：先摆事实，再提主张。<br>补充：（本文特指：how to make the world less dependent on...，how to do 是不定式结构，跟在 think about 后面做宾语。less dependent on「不那么依赖」，呼应标题里的 too reliant on——同一个意思，换了词又讲一遍。）<br>核心搭配：a good moment to、the right moment to、seize the moment",
+          "ctx": "",
+          "ex1": "It's a good moment to rethink our over-reliance on one supplier. 现在是时候重新审视我们对单一供应商的过度依赖了。",
+          "ex2": "This is the right moment to diversify. 现在正是分散风险的合适时机。"
+        },
+        {
+          "w": "fortunes and foibles",
+          "ipa": "/ˈfɔːtʃuːnz ən ˈfɔɪblz/",
+          "pos": "phr.",
+          "en": "a person's wealth and luck on the one hand, and their small weaknesses on the other.",
+          "zh": "财富运势与小毛病。两个词都是 f 开头，读起来「叮当」一声，是头韵（alliteration）。fortunes 用复数，既指「财富」也指「命运兴衰」；foibles 是「性格里无伤大雅的小毛病」。<br>补充：（本文特指：注意这两个词的「体量差」——fortunes 是天大的东西（财富、命运），foibles 是芝麻大的东西（小毛病）。作者把它们并排放，讽刺就出来了：整个世界这么大，居然被一个人「有钱没钱、脾气好不好」这种小事拿捏了。这就是英式评论的功力——不骂人，用最优雅的方式摆出最荒唐的事。）<br>核心搭配：fortunes and foibles、the fortunes of、human foibles、a foible",
+          "ctx": "",
+          "ex1": "The world should not depend on one man's fortunes and foibles. 世界不该悬于一个人的财富与脾气。",
+          "ex2": "We all have our little foibles. 我们都有自己的小毛病。"
+        },
+        {
+          "w": "foible",
+          "ipa": "/ˈfɔɪbl/",
+          "pos": "n.",
+          "en": "a small fault or weakness in someone's character.",
+          "zh": "小毛病、小软肋。词源来自击剑——17 世纪，剑刃分两段：靠近剑柄那段有力结实，叫 forte；从中间到剑尖那段细软使不上劲，叫 foible，即「剑的弱点」。<br>补充：（本文特指：后来这两个词从剑跳到了人身上——forte 变成「你的强项」（数学是我的 forte），foible 变成「你的小软肋」。所以 foible 天生的气质不是大奸大恶，是「无伤大雅、但真实存在的小毛病」。这层词源，和「单点故障」恰好呼应——弱点，才是系统最怕的地方。）<br>核心搭配：a human foible、little foibles、one's foibles、a minor foible",
+          "ctx": "",
+          "ex1": "Impatience is his one obvious foible. 急躁是他唯一明显的小毛病。",
+          "ex2": "The book is full of warm portraits of human foibles. 这本书满是关于人性弱点的温情描摹。"
+        }
+      ]
     },
     {
-     "w": "following",
-     "ipa": "/ˈfɒləʊɪŋ/",
-     "pos": "prep.",
-     "en": "after something, or as a result of something.",
-     "zh": "在……之后、随着。这里 following 不是动词「跟随」，是介词。following reports that... 就是「在……报道之后」，即「此前有报道称」。这是新闻里天天见的介词用法，比 after 更正式、更新闻腔。<br>补充：（本文特指：整句骨架就三个字——「他承认了」。主干 The Nvidia chief said that he had been unfaithful to his wife，后面那一大串 following reports... 全是「在什么情况下承认的」背景补充。先抓主干，再补枝叶，再长的句子都不怕。）<br>核心搭配：following the announcement、following reports that、following the news",
-     "ctx": "",
-     "ex1": "Following the announcement, shares fell sharply. 消息公布后，股价应声大跌。",
-     "ex2": "Following reports of the scandal, the board launched a probe. 丑闻报道出来后，董事会启动了调查。"
+      "en_html": "The Nvidia chief said on Sunday that he had been <mark class=\"voc\">unfaithful</mark> to his wife, <mark class=\"voc\">following</mark> reports that a woman <mark class=\"voc\">with whom</mark> he <mark class=\"voc\">had relations</mark> <mark class=\"voc\">may have been</mark> a <mark class=\"voc\">Chinese</mark> <mark class=\"voc\">intelligence asset</mark>. Given the value of Nvidia's <mark class=\"voc\">intellectual property</mark> and the <mark class=\"voc\">fraught</mark> nature of US-China politics, this raises countless questions that a <mark class=\"voc\">board probe</mark>, assisted by outside lawyers, will have to <mark class=\"voc\">investigate</mark>.",
+      "zh": "这位英伟达掌门人周日承认，自己曾对妻子不忠——此前有报道称，一名与他有染的女子，可能曾是中国情报机构的线人。鉴于英伟达知识产权的价值，以及中美政治本就紧绷的敏感性质，此事牵出了无数待解的问题，一个由外部律师协助的董事会调查，将不得不逐一查清。",
+      "notes": [
+        {
+          "w": "unfaithful",
+          "ipa": "/ʌnˈfeɪθfl/",
+          "pos": "adj.",
+          "en": "having sex with someone who is not your husband, wife, or partner.",
+          "zh": "不忠的、出轨的。faithful 是「忠实的」，un- 否定前缀，unfaithful 即「不忠」。新闻里更正式、更克制的说法是 be unfaithful to someone；口语里更常说 cheat on someone。<br>补充：（本文特指：注意时态 had been unfaithful 是过去完成时——主句动词 said 已是过去，而「不忠」发生在他「说」之前，是「过去的过去」。还有 be unfaithful to 里的 to 别丢。）<br>核心搭配：be unfaithful to、an unfaithful husband、cheat on someone",
+          "ctx": "",
+          "ex1": "He admitted he had been unfaithful to his wife. 他承认自己对妻子不忠。",
+          "ex2": "She found out he had cheated on her. 她发现他出轨了。"
+        },
+        {
+          "w": "following",
+          "ipa": "/ˈfɒləʊɪŋ/",
+          "pos": "prep.",
+          "en": "after something, or as a result of something.",
+          "zh": "在……之后、随着。这里 following 不是动词「跟随」，是介词。following reports that... 就是「在……报道之后」，即「此前有报道称」。这是新闻里天天见的介词用法，比 after 更正式、更新闻腔。<br>补充：（本文特指：整句骨架就三个字——「他承认了」。主干 The Nvidia chief said that he had been unfaithful to his wife，后面那一大串 following reports... 全是「在什么情况下承认的」背景补充。先抓主干，再补枝叶，再长的句子都不怕。）<br>核心搭配：following the announcement、following reports that、following the news",
+          "ctx": "",
+          "ex1": "Following the announcement, shares fell sharply. 消息公布后，股价应声大跌。",
+          "ex2": "Following reports of the scandal, the board launched a probe. 丑闻报道出来后，董事会启动了调查。"
+        },
+        {
+          "w": "with whom",
+          "ipa": "/wɪð huːm/",
+          "pos": "phr.",
+          "en": "a formal way of forming a relative clause, placing the preposition before the relative pronoun.",
+          "zh": "介词前置的定语从句。原句要表达「一个女子，他跟她有过关系」，口语语序是 a woman whom he had relations with（with 甩最后）；正式文体把介词提前，就变成 a woman with whom he had relations。<br>补充：（本文特指：whom 是关系代词，指代 a woman，在从句里做 with 的宾语。看到 with whom / in which / for which 这种「介词 + 关系代词」开头，就是作者在「端着写」，正式、书面。写作想拿高分，就学着把介词往前放。）<br>核心搭配：with whom、in which、for which、the woman with whom",
+          "ctx": "",
+          "ex1": "He praised the team with whom he had worked. 他称赞了曾共事过的团队。",
+          "ex2": "The report in which the claim appeared was widely read. 刊载这一说法的报道被广泛阅读。"
+        },
+        {
+          "w": "have relations with",
+          "ipa": "/həv rɪˈleɪʃnz wɪð/",
+          "pos": "phr.",
+          "en": "to have sex with someone (a polite or formal way of saying it).",
+          "zh": "与……有（性）关系。relations 在这里不是「一般关系」，是个委婉语——新闻里不直说 have sex，太露骨，就用 have relations with 这种「体面的说法」带过。<br>补充：（本文特指：以后看外媒，看到 relations 出现在这种语境，别理解成「一般关系」。这是新闻写作里「用体面词讲不体面事」的典型手法，跟全文「克制的腔调」一脉相承。）<br>核心搭配：have relations with、have an affair with、be involved with",
+          "ctx": "",
+          "ex1": "He had relations with a woman he met at work. 他和一名工作中认识的女子有染。",
+          "ex2": "The report claimed he had an affair with a colleague. 报道称他与一名同事有婚外情。"
+        },
+        {
+          "w": "may have been",
+          "ipa": "/meɪ həv biːn/",
+          "pos": "phr.",
+          "en": "to avoid giving a direct answer or promise, so as to reduce risk.",
+          "zh": "对冲、留退路。hedge 本义是「树篱」——院墙外那排挡风、挡视线的灌木，作用是「给自己留个缓冲区」。金融里 hedge 是「对冲」（买股票怕跌，反向操作一笔兜底）；语言学里 hedging 是「对冲表达」（说话怕担责，加个「可能、据说」留退路）。<br>补充：（本文特指：这三个意思其实是通的——都是「给自己上一道保险」。想通这一层，以后看新闻能一眼看穿记者在哪句「留了退路」。这是能长期受用的硬功夫。）<br>核心搭配：hedge against、a hedge fund、hedging language、hedge one's bets",
+          "ctx": "",
+          "ex1": "The woman may have been a foreign agent. 这名女子可能曾是一名外国特工。",
+          "ex2": "The deal may have been signed without full approval. 这笔交易可能未经完全批准就签了。"
+        },
+        {
+          "w": "honeypot",
+          "ipa": "/ˈhʌnipɒt/",
+          "pos": "n.",
+          "en": "a trap in which an attractive person is used to lure a target into a sexual or romantic relationship for intelligence purposes.",
+          "zh": "蜜罐，情报圈黑话，指「美人计、色诱」。字面就是「蜂蜜罐子」——蜜蜂闻到甜味，自己往罐子里钻；情报机构摆一个「甜」的人在那儿，让目标自己上钩。<br>补充：（本文特指：这是各国情报机构真实存在、历史上反复使用的手段，不是电影里编的。所以「黄仁勋跟谁有过关系」能惊动到让董事会请外部律师来查——因为它背后可能牵着一个 honeypot。这就从八卦，上升到了国家安全。）<br>核心搭配：a honeypot trap、set a honeypot、a honeypot operation",
+          "ctx": "",
+          "ex1": "The spy was caught in a honeypot operation. 这名间谍在一次「美人计」行动中被捕。",
+          "ex2": "A honeypot is a classic intelligence technique. 蜜罐是情报战中的经典手法。"
+        },
+        {
+          "w": "intelligence asset",
+          "ipa": "/ɪnˈtelɪdʒəns ˈæset/",
+          "pos": "phr.",
+          "en": "a person who provides information or services to an intelligence agency.",
+          "zh": "情报机构的「线人、暗桩」。这是全文最容易误译的点——asset 在这里不是「资产」，是情报圈的暗号义，指「被策反、或被安插、为情报机构提供情报的人」。<br>补充：（本文特指：中文谍战剧里叫「下线、眼线、暗桩」。英文情报圈叫 asset，字面「资产」——因为在他身上投了钱、投了功夫，是「值钱的资源」。所以这层寒意是：一个「人」被叫作「资产」。a Chinese intelligence asset，即「疑被中国情报机构招募的人」，绝不可译成「中国情报资产」。）<br>核心搭配：an intelligence asset、a valuable asset、recruit an asset、turn an asset",
+          "ctx": "",
+          "ex1": "He was suspected of being a foreign intelligence asset. 他被怀疑是一名外国情报机构的线人。",
+          "ex2": "Spies recruit assets over many years. 间谍会花多年时间策反线人。"
+        },
+        {
+          "w": "intellectual property",
+          "ipa": "/ˌɪntəˈlektʃuəl ˈprɒpəti/",
+          "pos": "n.",
+          "en": "the ideas, inventions, designs and creative work that a person or company owns and has legal rights over.",
+          "zh": "知识产权，简称 IP。这里指英伟达最值钱的东西——芯片设计、核心技术。英伟达是全球 AI 芯片龙头，它那一张张图纸、一行行代码，就是别人做梦都想拿到的「武林秘籍」。<br>补充：（本文特指：正因为英伟达的 IP 价值连城，一个「情人可能是情报线人」的传闻，才会牵动国家安全——泄了技术，就是泄了命脉。）<br>核心搭配：intellectual property、protect intellectual property、IP theft、patent",
+          "ctx": "",
+          "ex1": "The company's intellectual property is its most valuable asset. 知识产权是这家公司最值钱的资产。",
+          "ex2": "The case centres on alleged IP theft. 这起案件的核心是指控窃取知识产权。"
+        },
+        {
+          "w": "fraught",
+          "ipa": "/frɔːt/",
+          "pos": "adj.",
+          "en": "full of problems, difficulties, or unpleasant things.",
+          "zh": "充满（麻烦、紧张）的。最常见搭配是 fraught with——fraught with danger（危机四伏）、fraught with risk（充满风险）。这里 the fraught nature of US-China politics，即「中美政治本就紧绷、麻烦多的大环境」。<br>补充：（本文特指：作者用这一句点出背景——中美关系本来就敏感，你在这个节骨眼上出了个跟「中国情报」沾边的事，性质就完全不一样了。）<br>核心搭配：fraught with、the fraught nature of、a fraught relationship、fraught with danger",
+          "ctx": "",
+          "ex1": "The situation is fraught with risk. 局势危机四伏。",
+          "ex2": "Their relationship has always been fraught. 他们的关系一直很紧张。"
+        },
+        {
+          "w": "board probe",
+          "ipa": "/bɔːd prəʊb/",
+          "pos": "n.",
+          "en": "a formal investigation carried out by a company's board of directors.",
+          "zh": "董事会调查。board 是董事会，probe 是「调查」——probe 原意是「探针」（医生用的探子），引申为「深入探查、调查」。board probe 就是「董事会的调查」。<br>补充：（本文特指：后面 assisted by outside lawyers 是过去分词短语做后置定语，修饰 board probe——「由外部律师协助的调查」。为什么强调 outside（外部）？因为内部人查自己老板不让人信服，得请「外人」来才独立、才服众。这个细节的分量：一家四万多亿美元的公司，要动真格了。）<br>核心搭配：a board probe、launch a probe、an internal probe、probe into",
+          "ctx": "",
+          "ex1": "The board launched an independent probe into the affair. 董事会就此事发起了独立调查。",
+          "ex2": "An external probe will investigate the claims. 一项外部调查将核查这些指控。"
+        },
+        {
+          "w": "investigate",
+          "ipa": "/ɪnˈvestɪɡeɪt/",
+          "pos": "v.",
+          "en": "to carefully examine something, especially to find out the truth about it.",
+          "zh": "调查、查清。will have to investigate，「将不得不去查清」。注意 have to 的「不得不」——暗示这事不是想不想查，是必须查，躲不掉的。<br>补充：（本文特指：第 2 段全程没有一句情绪化的词，没说「震惊」「恶劣」，就用 may have been 这个「可能」，把分寸拿捏得死死的。越是大事，越要冷静——这就是一流外刊「用最克制的语言，讲最炸裂的事」的腔调。）<br>核心搭配：investigate a claim、investigate thoroughly、launch an investigation、an investigation into",
+          "ctx": "",
+          "ex1": "Lawyers will investigate whether any rules were broken. 律师将调查是否有违规行为。",
+          "ex2": "The affair is under investigation. 此事正在调查中。"
+        }
+      ]
     },
     {
-     "w": "with whom",
-     "ipa": "/wɪð huːm/",
-     "pos": "phr.",
-     "en": "a formal way of forming a relative clause, placing the preposition before the relative pronoun.",
-     "zh": "介词前置的定语从句。原句要表达「一个女子，他跟她有过关系」，口语语序是 a woman whom he had relations with（with 甩最后）；正式文体把介词提前，就变成 a woman with whom he had relations。<br>补充：（本文特指：whom 是关系代词，指代 a woman，在从句里做 with 的宾语。看到 with whom / in which / for which 这种「介词 + 关系代词」开头，就是作者在「端着写」，正式、书面。写作想拿高分，就学着把介词往前放。）<br>核心搭配：with whom、in which、for which、the woman with whom",
-     "ctx": "",
-     "ex1": "He praised the team with whom he had worked. 他称赞了曾共事过的团队。",
-     "ex2": "The report in which the claim appeared was widely read. 刊载这一说法的报道被广泛阅读。"
+      "en_html": "<mark class=\"voc\">Whatever</mark> they find, it is <mark class=\"voc\">undeniable</mark> that Nvidia without Huang as its CEO would have a problem. He is already <mark class=\"voc\">spread thin</mark>, <mark class=\"voc\">overseeing</mark> about 60 <mark class=\"voc\">direct reports</mark>, with no obvious <mark class=\"voc\">successor</mark>. And the company's board is <mark class=\"voc\">not exactly</mark> <mark class=\"voc\">robust</mark>. Its directors have an average <mark class=\"voc\">tenure</mark> of 18 years, more than twice the <mark class=\"voc\">S&amp;P 500 mean</mark>, according to consulting firm Spencer Stuart. Five of them have served for roughly three decades, with no apparent resistance from <mark class=\"voc\">shareholders</mark>.",
+      "zh": "无论调查结果如何，不可否认的是，一旦失去黄仁勋这位 CEO，英伟达势必陷入困境。他本人早已分身乏术，一人统管约六十名直接下属，却并无明显的继任者。而公司的董事会，也说不上多么强健——其董事平均任期长达十八年，为标普 500 均值的两倍有余（据咨询公司斯宾塞·斯图尔特统计），其中五人已任职约三十年，股东对此却毫无明显异议。",
+      "notes": [
+        {
+          "w": "whatever",
+          "ipa": "/wɒtˈevə(r)/",
+          "pos": "conj.",
+          "en": "no matter what; regardless of what happens.",
+          "zh": "无论什么。它引导让步状语从句——「不管结果如何」。作者先用这一句，把「调查结果」这件事摁住：结果不重要，因为接下来要说的，跟查不查得出来无关。<br>补充：（本文特指：这是一个「先让一步，再立论」的写法——先把对方最关心的变量（调查结果）踢出局，然后说「不管怎样，都改变不了这个事实」。写议论文很好用。）<br>核心搭配：whatever happens、whatever the result、whatever they find、come what may",
+          "ctx": "",
+          "ex1": "Whatever they find, the damage is already done. 无论查出什么，损失已经造成。",
+          "ex2": "Whatever the outcome, the company must change. 无论结果如何，公司都必须改变。"
+        },
+        {
+          "w": "undeniable",
+          "ipa": "/ˌʌndɪˈnaɪəbl/",
+          "pos": "adj.",
+          "en": "certainly true; impossible to deny.",
+          "zh": "不可否认的。拆开：deny（否认）→ deniable（可否认的）→ 加 un- 再否定，undeniable（不可否认的）。it is undeniable that...，「不可否认的是……」，后面接陈述事实的从句。<br>补充：（本文特指：这个「双重否定」的构词，本身就是在强调语气——不是「可能是」，是「板上钉钉、想否认都否认不了」。）<br>核心搭配：it is undeniable that、an undeniable fact、undeniable evidence",
+          "ctx": "",
+          "ex1": "It is undeniable that the company relies too much on one man. 不可否认，这家公司过度依赖一个人。",
+          "ex2": "His talent is undeniable. 他的才华无可置疑。"
+        },
+        {
+          "w": "spread thin",
+          "ipa": "/spred θɪn/",
+          "pos": "phr.",
+          "en": "having too many things to do, so that you cannot do any of them well.",
+          "zh": "分身乏术、精力摊薄。字面「摊得太薄」——一块黄油抹一大片面包，越抹越薄，薄到快看不见。一个人 spread thin，就是要管的事太多，顾不过来。<br>补充：（本文特指：thin 是形容词做 spread 的补语，表示「被摊成薄薄的状态」。固定搭配 be spread thin，精力透支、顾此失彼。）<br>核心搭配：be spread thin、spread oneself too thin、stretched thin",
+          "ctx": "",
+          "ex1": "He is already spread thin managing so many teams. 他管这么多团队，早已分身乏术。",
+          "ex2": "Don't spread yourself too thin. 别把自己摊得太薄（别贪多嚼不烂）。"
+        },
+        {
+          "w": "oversee",
+          "ipa": "/ˌəʊvəˈsiː/",
+          "pos": "v.",
+          "en": "to be in charge of a group of workers or a piece of work, and make sure it is done properly.",
+          "zh": "监督、统管。over-（从上往下）+ see（看），就是「居高临下地看着」——管理、监督。比 manage 更强调「站在上面俯瞰全局」。<br>补充：（本文特指：overseeing about 60 direct reports，是现在分词做状语，补充说明他「分身乏术」的具体表现。）<br>核心搭配：oversee a project、oversee operations、oversee the work",
+          "ctx": "",
+          "ex1": "He oversees a team of sixty people. 他统管一支六十人的团队。",
+          "ex2": "She was hired to oversee the company's expansion. 她受雇监管公司的扩张。"
+        },
+        {
+          "w": "direct reports",
+          "ipa": "/dəˈrekt rɪˈpɔːts/",
+          "pos": "n. (pl.)",
+          "en": "the people who report directly to a particular manager.",
+          "zh": "直接下属。report 除了「报道」，还有个职场高频义——「汇报」。report to someone「向某人汇报」，你老板就是 the person you report to。direct reports，字面「直接汇报（给你）的人」。<br>补充：（本文特指：管理学有个共识——一个人能有效管理的直接下属，一般不超过 7 到 10 个。黄仁勋一个人直接管约 60 个，是正常值的六到八倍。这意味着不是他能力强到没边，是这家公司从根子上就没有「分权」，所有人都绕不开他一个人。这不是能力，是风险。）<br>核心搭配：direct reports、report to someone、a direct report",
+          "ctx": "",
+          "ex1": "Managing sixty direct reports is a warning sign. 直接管理六十个下属，是一个警示信号。",
+          "ex2": "She reports directly to the CEO. 她直接向 CEO 汇报。"
+        },
+        {
+          "w": "successor",
+          "ipa": "/səkˈsesə(r)/",
+          "pos": "n.",
+          "en": "a person who takes over a job or position from someone else.",
+          "zh": "接班人、继任者。success（成功）→ successor（接棒的人）。反义词是 predecessor（前任）。with no obvious successor，注意 obvious 这个词——不是「没有接班人」，是「看不出谁是接班人」。<br>补充：（本文特指：一家四万亿的公司，老板管 60 个人，连个「备胎」都没有，这本身就够吓人了。这是「单点故障」的第二个证据——没人接班。）<br>核心搭配：a successor、no obvious successor、the successor to、a worthy successor",
+          "ctx": "",
+          "ex1": "The company has no obvious successor to its founder. 这家公司没有明显能接替创始人的人。",
+          "ex2": "He groomed a successor before stepping down. 他在卸任前培养好了接班人。"
+        },
+        {
+          "w": "not exactly robust",
+          "ipa": "/nɒt ɪɡˈzæktli rəʊˈbʌst/",
+          "pos": "phr.",
+          "en": "a polite, indirect way of saying something is weak or inadequate (litotes).",
+          "zh": "反话式含蓄（litotes，读 /laɪˈtəʊtiːz/）。作者不直说「董事会弱爆了」，说 not exactly robust「算不上强健」——用「不算好」来让你显得更差。这是英国人最狠的一种说话方式。<br>补充：（本文特指：英国人说一个人丑，不直说 ugly，说 not exactly handsome「算不上帅」；问饭好不好吃，说 not bad——你以为的「还行」，其实是「非常好」。所以看到 not exactly + 好词，就往反了理解，多半在骂人。作者这里的实际意思是：这董事会，弱爆了。）<br>核心搭配：not exactly robust、not exactly impressive、not bad",
+          "ctx": "",
+          "ex1": "The board is not exactly robust. 这个董事会实在说不上强健。",
+          "ex2": "His track record is not exactly impressive. 他的过往成绩实在算不上亮眼。"
+        },
+        {
+          "w": "robust",
+          "ipa": "/rəʊˈbʌst/",
+          "pos": "adj.",
+          "en": "strong and healthy, or strong enough to be effective.",
+          "zh": "强健的、结实的、有力的。一个 robust 的董事会，就是「能镇得住 CEO、能制衡他」的董事会——CEO 乱来，董事会能把他按住。<br>补充：（本文特指：not exactly robust 是这段最妙的一个修辞，见下一条 litotes。先记 robust 本义「强健」，再用它理解那个「温柔的骂人」。）<br>核心搭配：a robust board、robust governance、a robust system、robust growth",
+          "ctx": "",
+          "ex1": "A robust board can rein in a powerful CEO. 一个强健的董事会能制衡强势的 CEO。",
+          "ex2": "The company posted robust earnings. 公司公布了强劲的业绩。"
+        },
+        {
+          "w": "tenure",
+          "ipa": "/ˈtenjə(r)/",
+          "pos": "n.",
+          "en": "the period of time during which someone holds an important job or position.",
+          "zh": "任期。词根 ten- 是「持有、握住」——tenant（房客）是「持有房子的人」，tenacious（坚持的）是「抓住不放的」。tenure 就是「你握住一个职位的时间」，任期。<br>补充：（本文特指：an average tenure of 18 years，平均任期 18 年——这是标普 500 均值的两倍还多。这个数字之所以是问题，见下一条「董事会本该干什么」的补充背景。）<br>核心搭配：a tenure of、during one's tenure、a long tenure、job tenure",
+          "ctx": "",
+          "ex1": "Directors have an average tenure of eighteen years. 董事的平均任期长达十八年。",
+          "ex2": "During his tenure, the company tripled in size. 在他任内，公司规模翻了三倍。"
+        },
+        {
+          "w": "S&P 500 mean",
+          "ipa": "/ˌes ən piː faɪv ˈhʌndrəd miːn/",
+          "pos": "phr.",
+          "en": "the average value for companies in the S&P 500 index.",
+          "zh": "标普 500 均值。S&P 500 是标普 500 指数，美国 500 家大公司的代表；mean 是「平均值」。这里说英伟达董事任期 18 年，是标普 500 平均（约七八年）的两倍多。<br>补充：（本文特指：数据来源 Spencer Stuart（斯宾塞·斯图尔特）——全球专门研究董事会治理的权威咨询公司。作者搬出它，是要告诉你：这个数不是我编的，是权威机构统计的。这就是外刊「用数据说话」的严谨。）<br>核心搭配：the S&P 500、the mean、above the mean、the index",
+          "ctx": "",
+          "ex1": "Its directors serve more than twice the S&P 500 mean. 其董事任期是标普 500 均值的两倍多。",
+          "ex2": "The stock is one of the biggest in the S&P 500. 这只股票是标普 500 里最大的之一。"
+        },
+        {
+          "w": "shareholder",
+          "ipa": "/ˈʃeəhəʊldə(r)/",
+          "pos": "n.",
+          "en": "a person or organisation that owns shares in a company.",
+          "zh": "股东。share（股份）+ holder（持有者）。with no apparent resistance from shareholders，「股东对此毫无明显异议」——apparent「明显的」，resistance「抵抗、反对」。<br>补充：（本文特指：这段的寒意就在最后这句——董事会不独立（全是 30 年老伙计），股东又没人反对。一个没人接班的老板，配一群没人反对的老董事，这叫「老将坐镇」，更准确的叫法是「没人敢管」。董事会本该代表股东监督 CEO，一旦董事待太久变成「自己人」，就失去了监督的意义。）<br>核心搭配：shareholders、a shareholders' meeting、shareholder value、activist shareholder",
+          "ctx": "",
+          "ex1": "Shareholders showed no resistance to the arrangement. 股东对这项安排毫无异议。",
+          "ex2": "The board is supposed to serve shareholders. 董事会本该为股东服务。"
+        }
+      ]
     },
     {
-     "w": "have relations with",
-     "ipa": "/həv rɪˈleɪʃnz wɪð/",
-     "pos": "phr.",
-     "en": "to have sex with someone (a polite or formal way of saying it).",
-     "zh": "与……有（性）关系。relations 在这里不是「一般关系」，是个委婉语——新闻里不直说 have sex，太露骨，就用 have relations with 这种「体面的说法」带过。<br>补充：（本文特指：以后看外媒，看到 relations 出现在这种语境，别理解成「一般关系」。这是新闻写作里「用体面词讲不体面事」的典型手法，跟全文「克制的腔调」一脉相承。）<br>核心搭配：have relations with、have an affair with、be involved with",
-     "ctx": "",
-     "ex1": "He had relations with a woman he met at work. 他和一名工作中认识的女子有染。",
-     "ex2": "The report claimed he had an affair with a colleague. 报道称他与一名同事有婚外情。"
+      "en_html": "<mark class=\"voc\">What hurts Nvidia hurts the market</mark> because of its <mark class=\"voc\">sheer</mark> size. The $4.5tn company makes up nearly 7 per cent of the S&amp;P 500. But Huang's <mark class=\"voc\">empire</mark> has also <mark class=\"voc\">underwritten</mark> growth at many of its customers, taking <mark class=\"voc\">stakes</mark>, backstopping loans and financing data centre builders who <mark class=\"voc\">in turn</mark> host AI labs such as OpenAI and Anthropic. Huang was a <mark class=\"voc\">cheerleader</mark> when tech investors <mark class=\"voc\">lost their nerve</mark> — most recently during the <mark class=\"voc\">so-called</mark> <mark class=\"voc\">SaaSpocalypse</mark> software <mark class=\"voc\">sell-off</mark>.",
+      "zh": "伤害英伟达，即是伤害整个市场，盖因其体量之大。这家市值四点五万亿美元的公司，独占标普 500 近百分之七的权重。而黄仁勋的帝国，还一直在为众多客户提供资金支撑——入股持股、为贷款兜底、为数据中心建设商提供融资，而这些数据中心，反过来又托管着 OpenAI、Anthropic 等 AI 实验室。每逢科技投资者信心动摇，黄仁勋便挺身而出充当「啦啦队长」——最近一次，便是在那场被戏称为「SaaS 大灾难」的软件股抛售潮中。",
+      "notes": [
+        {
+          "w": "What hurts Nvidia hurts the market",
+          "ipa": "/wɒt hɜːts ənˈvɪdiə hɜːts ðə ˈmɑːkɪt/",
+          "pos": "sent.",
+          "en": "whatever damages Nvidia also damages the whole market.",
+          "zh": "伤害英伟达，就伤害整个市场。What hurts Nvidia 是主语从句（「伤害英伟达的那个东西」），整句主干就是 What hurts Nvidia（主语）hurts the market（谓语+宾语）。八个字：英伟达痛，市场痛。<br>补充：（本文特指：这是万能句式，写作里特别有力量。What helps you helps me（帮你的也帮了我）、What hurts one hurts all（伤一个就是伤全部）。）<br>核心搭配：what hurts one hurts all、what helps you helps me",
+          "ctx": "",
+          "ex1": "What hurts Nvidia hurts the entire market. 英伟达一痛，整个市场都痛。",
+          "ex2": "What helps the customer helps us too. 对客户好的，对我们也好。"
+        },
+        {
+          "w": "sheer",
+          "ipa": "/ʃɪə(r)/",
+          "pos": "adj.",
+          "en": "to form or constitute a particular amount or part of something.",
+          "zh": "构成、占据。make up 一词多义：编造（make up a story）、化妆（make up）、和好（make up with），但在这里是「占……比例」。makes up nearly 7 per cent，「占了近 7%」。<br>补充：（本文特指：这个 7% 是本段最扎心的数。标普 500 是 500 家最大公司，平分一家 0.2%，英伟达一家占近 7%。换句话说——你买任何一支标普 500 指数基金、你的养老金，里面每一块钱就有近 7 分押在英伟达身上。黄仁勋出事，不是炒股的人倒霉，是你我的养老金跟着抖。）<br>核心搭配：make up a percentage、make up the difference、make up for",
+          "ctx": "",
+          "ex1": "The company matters because of its sheer size. 这家公司举足轻重，纯粹因为体量。",
+          "ex2": "It was sheer luck that we won. 我们能赢纯属运气。"
+        },
+        {
+          "w": "empire",
+          "ipa": "/ˈempaɪə(r)/",
+          "pos": "n.",
+          "en": "a large and powerful group of companies, organisations, or businesses controlled by one person.",
+          "zh": "帝国。作者不说 company，说 empire——「帝国」，它不是一家公司，是一股势力，有自己的「诸侯」和「附庸」的势力范围。这一个词，就把英伟达的「盘根错节」点出来了。<br>补充：（本文特指：后面 underwrite、backstop、finance 这一串动作，就是「帝国」在豢养自己的附庸——这也正是第 4 段「循环融资」暗线的起点。）<br>核心搭配：a business empire、build an empire、a media empire",
+          "ctx": "",
+          "ex1": "Huang built a chip empire worth trillions. 黄仁勋建起了一个价值数万亿的芯片帝国。",
+          "ex2": "He controls a vast media empire. 他掌控着一个庞大的媒体帝国。"
+        },
+        {
+          "w": "underwrite",
+          "ipa": "/ˌʌndəˈraɪt/",
+          "pos": "v.",
+          "en": "to agree to pay for a project or activity, or to guarantee financial support for it.",
+          "zh": "承保、为……提供资金兜底。词源极妙：under（下面）+ write（写）——早期保险业，保险公司要为一个风险担保，负责人就在保单最下面签上自己的名字，表示「这事我担保了，出事我赔」。<br>补充：（本文特指：从「保单下签字」引申为「承保」，再到「为某件事提供资金支撑」。所以这句话说：英伟达不只是卖芯片，还给自己客户「在下面签字、兜底」——出钱、入股、担保，帮客户把生意撑起来。）<br>核心搭配：underwrite a loan、underwrite growth、underwrite the risk、an underwriter",
+          "ctx": "",
+          "ex1": "The chip giant underwrote growth at its own customers. 这家芯片巨头为自己的客户提供资金支撑。",
+          "ex2": "Banks underwrite most large corporate loans. 银行承保大多数大额企业贷款。"
+        },
+        {
+          "w": "stake",
+          "ipa": "/steɪk/",
+          "pos": "n.",
+          "en": "to provide support or a guarantee that prevents something from failing.",
+          "zh": "兜底、托底。拆开看 back（后面）+ stop（挡住），字面「在后面挡住的东西」。来自棒球——捕手身后那道高高的网（接球网），投手没接住的球飞过去，就撞在网上被挡住，不会飞出界外。<br>补充：（本文特指：从球场跳进金融圈，backstop a loan「给贷款兜底」——这笔贷款万一还不上，我来托底。画面感：客户借钱做生意，英伟达在后面站着——「没事，你借，还不上有我」。）<br>核心搭配：backstop a loan、a backstop、provide a backstop、backstop funding",
+          "ctx": "",
+          "ex1": "Nvidia has taken stakes in several AI start-ups. 英伟达入股了多家 AI 初创公司。",
+          "ex2": "She holds a large stake in the company. 她持有公司大量股份。"
+        },
+        {
+          "w": "in turn",
+          "ipa": "/ɪn tɜːn/",
+          "pos": "phr.",
+          "en": "as a result of something in a series of events; in one's turn.",
+          "zh": "反过来、相应地。它表示一环扣一环的连锁——英伟达出钱 → 建数据中心 → 数据中心反过来（in turn）托管 AI 实验室。<br>补充：（本文特指：who in turn host AI labs 是个定语从句，who 指代前面的 data centre builders。这个 in turn 就是产业链的最后一环，把「链子」越接越长。）<br>核心搭配：in turn、which in turn、in turn lead to",
+          "ctx": "",
+          "ex1": "The data centres in turn host the biggest AI labs. 这些数据中心反过来又托管着最大的 AI 实验室。",
+          "ex2": "Higher demand drives investment, which in turn boosts demand. 更高的需求推动投资，投资反过来又推高需求。"
+        },
+        {
+          "w": "cheerleader",
+          "ipa": "/ˈtʃɪəliːdə(r)/",
+          "pos": "n.",
+          "en": "a person who leads the crowd in encouraging and supporting a team; someone who enthusiastically promotes something.",
+          "zh": "啦啦队长。篮球赛里领喊「加油、防守、我们一定能赢」的人。作者说黄仁勋是 cheerleader，意思是——市场一恐慌，他就出来喊话、站台、稳定军心：「别慌，AI 没问题，我们英伟达没问题」。<br>补充：（本文特指：注意这个对比的画面——投资者们 lost their nerve（怂了、慌了），黄仁勋当 cheerleader（打气、稳场）。一边是慌了的人群，一边是喊「稳住」的人。这一对比就说明：这市场，已经离不开他这个人了。）<br>核心搭配：a cheerleader for、be a cheerleader、cheer on",
+          "ctx": "",
+          "ex1": "He acted as a cheerleader for the tech sector. 他充当了科技板块的「啦啦队长」。",
+          "ex2": "The CEO is a tireless cheerleader for his company. 这位 CEO 是不知疲倦地为公司摇旗呐喊的人。"
+        },
+        {
+          "w": "lose one's nerve",
+          "ipa": "/luːz wʌnz nɜːv/",
+          "pos": "phr.",
+          "en": "to suddenly become frightened and unable to continue confidently.",
+          "zh": "失去胆量、慌了神。nerve 是「神经、胆量」，lose one's nerve 就是「怂了、慌了」。tech investors lost their nerve，科技投资者们信心动摇了。<br>补充：（本文特指：画面感很强——本来还镇定的投资者，突然慌了。这个短语和「have the nerve to do」胆敢做某事 同源，都跟「胆量」有关。）<br>核心搭配：lose one's nerve、have the nerve to、get on one's nerves",
+          "ctx": "",
+          "ex1": "Investors lost their nerve during the sell-off. 抛售潮中，投资者们慌了神。",
+          "ex2": "I almost lost my nerve at the last minute. 我最后一刻差点退缩。"
+        },
+        {
+          "w": "so-called",
+          "ipa": "/ˌsəʊ ˈkɔːld/",
+          "pos": "adj.",
+          "en": "used to show that you think a word or name is not accurate or appropriate.",
+          "zh": "所谓的。带一点调侃、质疑的口气——「那场被大家叫做『软件股末日』的抛售」。作者用 so-called，是在暗示「这个名字有点夸张，但大家就这么叫」。<br>补充：（本文特指：so-called 后面常跟一个带引号的称号，语气里往往藏着作者的不以为然。注意它和「所谓的」中文一样，要带点「打引号」的感觉。）<br>核心搭配：so-called、the so-called、a so-called expert",
+          "ctx": "",
+          "ex1": "The so-called SaaSpocalypse shook the sector. 那场所谓的「SaaS 大灾难」震动了整个板块。",
+          "ex2": "This so-called expert got everything wrong. 这位所谓的专家全都说错了。"
+        },
+        {
+          "w": "SaaSpocalypse",
+          "ipa": "/sɑːsəˈpɒkəlɪps/",
+          "pos": "n. (coinage)",
+          "en": "a blend of \"SaaS\" and \"apocalypse\", meaning a catastrophic crash in software stocks.",
+          "zh": "SaaS 大灾难。作者自己造的词：SaaS（Software as a Service，软件即服务，指 Salesforce、Adobe 这类靠订阅收费的软件公司）+ apocalypse（世界末日、大灾变），拼成 SaaSpocalypse，即「软件股的末日」。<br>补充：（本文特指：这种把两个词拼成一个新词的玩法，叫拼合词 portmanteau。类似的还有 brunch（breakfast+lunch 早午餐）、smog（smoke+fog 雾霾）。so-called SaaSpocalypse software sell-off，「被戏称为『SaaS 大崩塌』的软件股抛售潮」。）<br>核心搭配：a sell-off、a portmanteau、apocalypse、a market sell-off",
+          "ctx": "",
+          "ex1": "The SaaSpocalypse hit software stocks hard. 那场「SaaS 大崩塌」重创了软件股。",
+          "ex2": "\"Brunch\" is a portmanteau of breakfast and lunch. Brunch 是 breakfast 和 lunch 的拼合词。"
+        },
+        {
+          "w": "sell-off",
+          "ipa": "/ˈsel ɒf/",
+          "pos": "n.",
+          "en": "a situation in which many investors sell their shares quickly, causing prices to fall.",
+          "zh": "抛售（潮）。就是大家恐慌性甩卖股票，导致股价下跌。the so-called SaaSpocalypse software sell-off，那场「软件股末日」式的抛售。<br>补充：（本文特指：sell-off 是名词，动词短语是 sell off（甩卖）。市场术语里，比 sell-off 更狠的还有 crash（崩盘）、rout（惨跌）。这一段讲的就是：黄仁勋在那场恐慌里，出来当了「啦啦队长」稳场。）<br>核心搭配：a sell-off、a market sell-off、trigger a sell-off、panic selling",
+          "ctx": "",
+          "ex1": "The sell-off wiped billions off the index. 这场抛售让指数蒸发了数十亿。",
+          "ex2": "A panic sell-off swept through tech stocks. 一场恐慌性抛售席卷了科技股。"
+        }
+      ]
     },
     {
-     "w": "may have been",
-     "ipa": "/meɪ həv biːn/",
-     "pos": "phr.",
-     "en": "to avoid giving a direct answer or promise, so as to reduce risk.",
-     "zh": "对冲、留退路。hedge 本义是「树篱」——院墙外那排挡风、挡视线的灌木，作用是「给自己留个缓冲区」。金融里 hedge 是「对冲」（买股票怕跌，反向操作一笔兜底）；语言学里 hedging 是「对冲表达」（说话怕担责，加个「可能、据说」留退路）。<br>补充：（本文特指：这三个意思其实是通的——都是「给自己上一道保险」。想通这一层，以后看新闻能一眼看穿记者在哪句「留了退路」。这是能长期受用的硬功夫。）<br>核心搭配：hedge against、a hedge fund、hedging language、hedge one's bets",
-     "ctx": "",
-     "ex1": "The woman may have been a foreign agent. 这名女子可能曾是一名外国特工。",
-     "ex2": "The deal may have been signed without full approval. 这笔交易可能未经完全批准就签了。"
+      "en_html": "<mark class=\"voc\">Fortunately</mark> there are plenty of <mark class=\"voc\">templates</mark> for <mark class=\"voc\">reducing dependency on</mark> a CEO. Companies such as Morgan Stanley, Amazon and Apple made successful <mark class=\"voc\">chiefs</mark> into <mark class=\"voc\">chairs</mark> while successors <mark class=\"voc\">found their footing</mark>. Look too at Google DeepMind founder Demis Hassabis, who just stepped back from his role as CEO to instead become chair, giving him more space to think about the AI <mark class=\"voc\">big picture</mark>.",
+      "zh": "所幸，要降低对某一位 CEO 的依赖，现成的范本不胜枚举。摩根士丹利、亚马逊、苹果等公司，都曾让功成名就的首席执行官转任董事长，令继任者得以站稳脚跟。再看谷歌 DeepMind 创始人德米斯·哈萨比斯，他刚刚卸下 CEO 一职，转任董事长，从而留出更多空间，去思考 AI 的宏大格局。",
+      "notes": [
+        {
+          "w": "fortunately",
+          "ipa": "/ˈfɔːtʃənətli/",
+          "pos": "adv.",
+          "en": "luckily; in a way that is good or helpful.",
+          "zh": "好在、幸运的是。就这么一个句首副词，你注意——气氛开始变了。前面四段越听越沉重，到这里一个 Fortunately，笔锋一转，告诉你：别慌，这事儿有解。<br>补充：（本文特指：评论文章里，这种「句首转折副词」是给读者的信号灯——我要切换情绪了。看到 Fortunately、Luckily、However，就要知道下文要转方向。）<br>核心搭配：fortunately、unfortunately、fortunately for us",
+          "ctx": "",
+          "ex1": "Fortunately, there are ways to fix this. 好在，这件事有办法解决。",
+          "ex2": "Unfortunately, the problem got worse. 不幸的是，问题更严重了。"
+        },
+        {
+          "w": "template",
+          "ipa": "/ˈtempleɪt/",
+          "pos": "n.",
+          "en": "a model or pattern that can be copied or used as a guide.",
+          "zh": "模板、范例。plenty of templates，「现成的模板多得是」——怎么解决「太依赖一个人」？别人家早就有现成方案了，抄作业就行。<br>补充：（本文特指：template 原义是「样板、模具」，引申为「可以照搬的范例」。作者的意思是：降低对 CEO 的依赖，早就是一门成熟的操作，有大量先例可循。）<br>核心搭配：a template for、follow a template、a model、a blueprint",
+          "ctx": "",
+          "ex1": "Other companies offer a template for succession. 其他公司提供了交接班的范例。",
+          "ex2": "Use this plan as a template. 把这份计划当模板用。"
+        },
+        {
+          "w": "reduce dependency on",
+          "ipa": "/rɪˈdjuːs dɪˈpendənsi ɒn/",
+          "pos": "phr.",
+          "en": "to make something less dependent on someone or something.",
+          "zh": "降低对……的依赖。注意 dependency 和标题里的 reliant 是同源的——标题是 too reliant on，这里是 dependency on，前后呼应。reduce「减少、降低」。<br>补充：（本文特指：reduce dependency on a CEO，「降低对一位 CEO 的依赖」。这正是全文的核心主张——怎么把「单点故障」的风险降下来。）<br>核心搭配：reduce dependency on、dependence on、rely on、cut reliance",
+          "ctx": "",
+          "ex1": "The goal is to reduce dependency on a single person. 目标是降低对单一个人的依赖。",
+          "ex2": "The country wants to reduce its dependency on oil. 这个国家想降低对石油的依赖。"
+        },
+        {
+          "w": "chief",
+          "ipa": "/tʃiːf/",
+          "pos": "n.",
+          "en": "a leader or ruler; the person with the highest position in an organisation.",
+          "zh": "一把手、头儿。这里 made successful chiefs into chairs 里的 chiefs，就是指 CEO（一把手）。chief 本义「首领」，chief executive 就是「首席执行者」。<br>补充：（本文特指：chiefs 和 chairs 两个词都是 ch 开头，读起来「叮当」一声——又一处头韵（alliteration），和第 1 段的 fortunes and foibles 呼应。英式评论就爱这种文字上的小机灵。）<br>核心搭配：a chief、chief executive、a tribal chief、the chief of staff",
+          "ctx": "",
+          "ex1": "The company made its successful chief into chair. 公司让功成名就的一把手转任董事长。",
+          "ex2": "He was the chief of a fast-growing start-up. 他是一家快速成长初创公司的一把手。"
+        },
+        {
+          "w": "chair",
+          "ipa": "/tʃeə(r)/",
+          "pos": "n.",
+          "en": "short for chairman or chairwoman — the person who leads a company's board of directors.",
+          "zh": "董事长（chairman 的简称）。注意它和 CEO 的分工——CEO 是干活的「运动员」，chairman 是主持董事会、监督制衡管理层的「裁判员」。<br>补充：（本文特指：make successful chiefs into chairs（把成功的 CEO 变成董事长），make A into B 是「把 A 变成 B」。很多人以为「从 CEO 转董事长」是升官，其实方向相反——CEO 管日常运营，chairman 主持董事会、监督管理层。这是「体面的权力交接」：让老人退到董事会镇场子、传经验，把日常权力交给接班人。）<br>核心搭配：become chair、step down to chair、the chair of the board、chairman",
+          "ctx": "",
+          "ex1": "He stepped back from CEO to become chair. 他从 CEO 退下来，转任董事长。",
+          "ex2": "The chair leads the board's oversight of management. 董事长主持董事会对管理层的监督。"
+        },
+        {
+          "w": "find one's footing",
+          "ipa": "/faɪnd wʌnz ˈfʊtɪŋ/",
+          "pos": "phr.",
+          "en": "to leave an important job or position, or to reduce your involvement in day-to-day work.",
+          "zh": "退居、卸下日常职务。字面「往后退一步」，这里指从日常经营的一线退下来。who just stepped back from his role as CEO 是个定语从句，who 指代哈萨比斯。<br>补充：（本文特指：注意 just——「刚刚」。哈萨比斯是 2025 年 8 月卸任 DeepMind CEO、转任董事长兼 Alphabet 首席科学家的，是当年刚发生的新鲜案例，作者拿它当「最新模板」，特别有说服力。）<br>核心搭配：step back from、step down、step aside、hand over",
+          "ctx": "",
+          "ex1": "The new CEO took time to find his footing. 新 CEO 花了一段时间才站稳脚跟。",
+          "ex2": "She lost her footing and stumbled. 她脚下打滑，踉跄了一下。"
+        },
+        {
+          "w": "big picture",
+          "ipa": "/bɪɡ ˈpɪktʃə(r)/",
+          "pos": "n.",
+          "en": "the overall situation or most important aspects of something, rather than the details.",
+          "zh": "大局、全局。字面「大图景」，反义是 details（细节）。一个人管日常运营，天天陷在细节里；退下来当董事长，就是把鸡毛蒜皮交出去，把脑子空出来，专门想「AI 未来往哪走」这种大事。<br>补充：（本文特指：哈萨比斯宣布转任时，本人原话是「so that I have the time and space to focus on the big picture」（这样我才有时间和空间专注大局）——跟文章里的 think about the AI big picture 几乎一字不差。这说明作者不是编的，他连人家本人的原话都吃透了。）<br>核心搭配：the big picture、see the big picture、focus on the big picture、look at the big picture",
+          "ctx": "",
+          "ex1": "Step back and look at the big picture. 退一步，看看全局。",
+          "ex2": "Managers often lose sight of the big picture. 管理者常常忘了全局。"
+        }
+      ]
     },
     {
-     "w": "honeypot",
-     "ipa": "/ˈhʌnipɒt/",
-     "pos": "n.",
-     "en": "a trap in which an attractive person is used to lure a target into a sexual or romantic relationship for intelligence purposes.",
-     "zh": "蜜罐，情报圈黑话，指「美人计、色诱」。字面就是「蜂蜜罐子」——蜜蜂闻到甜味，自己往罐子里钻；情报机构摆一个「甜」的人在那儿，让目标自己上钩。<br>补充：（本文特指：这是各国情报机构真实存在、历史上反复使用的手段，不是电影里编的。所以「黄仁勋跟谁有过关系」能惊动到让董事会请外部律师来查——因为它背后可能牵着一个 honeypot。这就从八卦，上升到了国家安全。）<br>核心搭配：a honeypot trap、set a honeypot、a honeypot operation",
-     "ctx": "",
-     "ex1": "The spy was caught in a honeypot operation. 这名间谍在一次「美人计」行动中被捕。",
-     "ex2": "A honeypot is a classic intelligence technique. 蜜罐是情报战中的经典手法。"
+      "en_html": "<mark class=\"voc\">Even if</mark> Nvidia isn't prepared to <mark class=\"voc\">countenance</mark> Huang leaving his CEO <mark class=\"voc\">post</mark>, many companies have de facto <mark class=\"voc\">number-two spots</mark> — presidents and <mark class=\"voc\">chief operating officers</mark>, say — that ensure investors know there's someone <mark class=\"voc\">on hand</mark> if <mark class=\"voc\">the boss</mark> <mark class=\"voc\">collides with a bus</mark>. Nvidia should do that too.",
+      "zh": "即便英伟达尚不愿容忍黄仁勋卸任 CEO 之位，许多公司都设有「事实上的」二把手——诸如总裁、首席运营官之职——以此让投资者安心：即便老板突遭不测，也随时有人可以顶上。英伟达，也当如此。",
+      "notes": [
+        {
+          "w": "even if",
+          "ipa": "/ˈiːvn ɪf/",
+          "pos": "conj.",
+          "en": "used to say that something will happen or be true whether or not another thing happens.",
+          "zh": "即使、即便。引导让步状语从句——「即便英伟达还不愿……」。作者先退一步（哪怕你不舍得让黄仁勋走），再给出折中方案（那至少设个二把手）。<br>补充：（本文特指：even if 和 even though 的区别——even if 是「就算」（假设），even though 是「虽然」（事实）。这里是 even if，因为「英伟达不愿让黄仁勋走」是作者推测的立场，不是既定事实。）<br>核心搭配：even if、even though、even so",
+          "ctx": "",
+          "ex1": "Even if you keep the CEO, appoint a number two. 就算你留住 CEO，也该设个二把手。",
+          "ex2": "We will proceed even if it is difficult. 即便困难，我们也要推进。"
+        },
+        {
+          "w": "countenance",
+          "ipa": "/ˈkaʊntənəns/",
+          "pos": "v.",
+          "en": "existing in fact, even if not officially recognised or legally established.",
+          "zh": "事实上的。这是拉丁语，直接搬进英语。de（依据、关于）+ facto（事实），「依据事实的」。和它成对的是 de jure /ˌdeɪ ˈdʒʊəri/（法律上的、名义上的）。<br>补充：（本文特指：区分——de facto 是「事实上的」（这对夫妻没领证，但同居十年，是 de facto 夫妻）；de jure 是「法律上的」（法律上他名义上负责）。de facto number-two spots，「事实上的二把手」——没写进组织架构图，但大家都知道那个人是二当家。）<br>核心搭配：de facto、de jure、a de facto leader、the de facto standard",
+          "ctx": "",
+          "ex1": "The board refused to countenance his departure. 董事会拒绝接受他的离开。",
+          "ex2": "I will not countenance such behaviour. 我绝不容忍这种行为。"
+        },
+        {
+          "w": "post",
+          "ipa": "/pəʊst/",
+          "pos": "n.",
+          "en": "a job or position in an organisation.",
+          "zh": "职位、岗位。这里不是「帖子」，是「职位」。CEO post，「CEO 这个职位」。工作、岗位，正式一点就叫 post。<br>补充：（本文特指：post 一词多义——职位（a teaching post）、邮件（the post）、柱子（a fence post）、发布（post a message）。这里取「职位」义。近义词 position、job、role。）<br>核心搭配：a senior post、leave one's post、take up a post、a post",
+          "ctx": "",
+          "ex1": "He has held the CEO post for three decades. 他担任 CEO 一职已有三十年。",
+          "ex2": "She was appointed to the post of finance director. 她被任命为财务总监。"
+        },
+        {
+          "w": "number-two spot",
+          "ipa": "/ˈnʌmbə tuː spɒt/",
+          "pos": "n.",
+          "en": "the second most important position in an organisation.",
+          "zh": "二把手的位置。number two「二号」，spot「位置」。de facto number-two spots，「事实上的二把手位置」——比如总裁（president）、首席运营官（COO）。<br>补充：（本文特指：后面破折号里的 presidents and chief operating officers, say 是插入语，举例解释「二把手」具体指哪些职位。say 在这里不是「说」，是插入语，意思是「比如说、譬如」。）<br>核心搭配：a number-two spot、the number two、play second fiddle",
+          "ctx": "",
+          "ex1": "Every strong company needs a number-two spot. 每家公司都需要一个二把手位置。",
+          "ex2": "He was promoted to the number-two role. 他升任二把手。"
+        },
+        {
+          "w": "COO",
+          "ipa": "/ˌsiː əʊ ˈəʊ/",
+          "pos": "n.",
+          "en": "Chief Operating Officer — the executive responsible for a company's day-to-day operations.",
+          "zh": "首席运营官。chief operating officer 的缩写。和 CEO（掌全局、定方向）不同，COO 管日常运营、执行。president（总裁）和 COO 都是典型的「二把手」职位。<br>补充：（本文特指：这就是作者给的「解药」——设一个实质上的二把手，让投资者知道「万一老板出意外，有人能顶上」。这恰恰是把英伟达的 bus factor（见下条）从 1 往上抬。）<br>核心搭配：the COO、chief operating officer、a president and COO",
+          "ctx": "",
+          "ex1": "She serves as president and COO. 她担任总裁兼首席运营官。",
+          "ex2": "The COO runs daily operations. 首席运营官负责日常运营。"
+        },
+        {
+          "w": "on hand",
+          "ipa": "/ɒn hænd/",
+          "pos": "phr.",
+          "en": "available and ready to be used or to help.",
+          "zh": "在手边、随时可用、在场。someone on hand，「随时待命、招之即来的人」。that ensure investors know there's someone on hand，「让投资者知道随时有人能顶上」。<br>补充：（本文特指：on hand 和 at hand、in hand 要分清——on hand 是「随时可用」，at hand 是「在手边/临近」，in hand 是「在掌控中」。这里的 on hand 强调「招之即来」。）<br>核心搭配：be on hand、have someone on hand、on hand to help",
+          "ctx": "",
+          "ex1": "There is always a deputy on hand. 总有一个副手随时待命。",
+          "ex2": "A doctor was on hand in case of emergency. 有一名医生在场以备不时之需。"
+        },
+        {
+          "w": "bus factor",
+          "ipa": "/bʌs ˈfæktə(r)/",
+          "pos": "n.",
+          "en": "the number of people who would need to be \"hit by a bus\" before a project or company collapses.",
+          "zh": "巴士系数。软件工程、项目管理里的概念——一个团队，得「撞」掉几个关键人物，项目才会彻底瘫痪？这个数字就是 bus factor。<br>补充：（本文特指：说人话——你的团队，得「撞」掉几个人才会瘫痪？bus factor 是 5，说明五个人都懂都能扛，很健康；是 1，就危险了，只有一个人不可替代。回头看英伟达——黄仁勋管 60 个下属、没接班人、董事会全是他 30 年老伙计，它的 bus factor 是 1。这家四万多亿美元的公司，撞掉黄仁勋一个人就瘫。这就是「单点故障」最直白的样子，和全文灵魂词完美闭环。）<br>核心搭配：the bus factor、a low bus factor、single point of failure",
+          "ctx": "",
+          "ex1": "A bus factor of one is a serious risk. 「巴士系数」为一，是严重风险。",
+          "ex2": "Hiring a deputy raises the team's bus factor. 招个副手能抬高团队的「巴士系数」。"
+        },
+        {
+          "w": "collide with a bus",
+          "ipa": "/kəˈlaɪd wɪð ə bʌs/",
+          "pos": "phr.",
+          "en": "a humorous euphemism for a key person suddenly dying or becoming unable to work.",
+          "zh": "被公交车撞了。collide with 是「撞上」。这是英美商界心照不宣的黑色幽默——说一个人「突然出意外、干不了了」，不直接说 death，而说 hit by a bus「被公交车撞了」。<br>补充：（本文特指：翻译成人话就是「万一老板哪天人没了，总得有人能顶上」。用「被公交撞」委婉说「突然没了」，这就是英式冷幽默——用最轻的话，讲最重的事，呼应前面 travails 那种英式腔调。）<br>核心搭配：collide with、hit by a bus、in case of emergency",
+          "ctx": "",
+          "ex1": "Who takes over if the boss is hit by a bus? 万一老板突遭不测，谁来接班？",
+          "ex2": "The plan assumes a key person could be hit by a bus. 这个方案假设关键人物可能突然离场。"
+        }
+      ]
     },
     {
-     "w": "intelligence asset",
-     "ipa": "/ɪnˈtelɪdʒəns ˈæset/",
-     "pos": "phr.",
-     "en": "a person who provides information or services to an intelligence agency.",
-     "zh": "情报机构的「线人、暗桩」。这是全文最容易误译的点——asset 在这里不是「资产」，是情报圈的暗号义，指「被策反、或被安插、为情报机构提供情报的人」。<br>补充：（本文特指：中文谍战剧里叫「下线、眼线、暗桩」。英文情报圈叫 asset，字面「资产」——因为在他身上投了钱、投了功夫，是「值钱的资源」。所以这层寒意是：一个「人」被叫作「资产」。a Chinese intelligence asset，即「疑被中国情报机构招募的人」，绝不可译成「中国情报资产」。）<br>核心搭配：an intelligence asset、a valuable asset、recruit an asset、turn an asset",
-     "ctx": "",
-     "ex1": "He was suspected of being a foreign intelligence asset. 他被怀疑是一名外国情报机构的线人。",
-     "ex2": "Spies recruit assets over many years. 间谍会花多年时间策反线人。"
+      "en_html": "It's also time to think about whether the <mark class=\"voc\">oversight</mark> foisted on <mark class=\"voc\">banks</mark> — long regarded as <mark class=\"voc\">essential social infrastructure</mark> — should apply to big tech companies. <mark class=\"voc\">Lenders</mark> such as JPMorgan, with regulators <mark class=\"voc\">breathing down their necks</mark>, <mark class=\"voc\">have no choice but to</mark> build in <mark class=\"voc\">contingency plans</mark>. Nvidia is <mark class=\"voc\">nowhere near as complicated as</mark> a <mark class=\"voc\">Wall Street bank</mark>, but it is becoming similarly <mark class=\"voc\">systemic</mark>. It would not be a surprise to see that <mark class=\"voc\">on the new Congress's agenda</mark> in 2027.",
+      "zh": "如今，也是时候思考：长久以来被视作关键社会基础设施的银行，其头上那套「强加」的监管，是否也该套用到科技巨头身上。像摩根大通这样的放贷机构，在监管者如影随形的紧盯之下，别无选择，只能未雨绸缪、建好应急预案。英伟达固然远没有华尔街银行那般盘根错节，却正变得同样「系统重要」。若在 2027 年新一届国会的议程上看到这一议题，也丝毫不令人意外。",
+      "notes": [
+        {
+          "w": "oversight",
+          "ipa": "/ˈəʊvəsaɪt/",
+          "pos": "n.",
+          "en": "to force someone to accept something they do not want.",
+          "zh": "把（不受欢迎的东西）强加给。foist something on someone，「把某样东西硬塞给某人」。作者不说「银行接受的监管」，说「强加在银行头上的监管」——一个 foisted on，就点出银行打心底不想要这套监管，是被逼接受的。<br>补充：（本文特指：这个词是贬义的。作者用它，态度就藏在这儿了——他其实在说：监管这东西，谁都不想要，但该管还是得管。一个动词，立场全出。）<br>核心搭配：foist something on someone、be foisted on、impose on",
+          "ctx": "",
+          "ex1": "Banks operate under close regulatory oversight. 银行在严密的监管下运营。",
+          "ex2": "Failing to test it was a serious oversight. 没有测试它，是个严重的疏忽。"
+        },
+        {
+          "w": "living will",
+          "ipa": "/ˈlɪvɪŋ wɪl/",
+          "pos": "n.",
+          "en": "in finance, a plan for how a bank would be wound down safely if it failed.",
+          "zh": "生前遗嘱。字面是「活人的遗嘱」——人没死先立好遗嘱，银行也得这么干：提前写清楚「万一我要倒了，怎么体面地、不拖累别人地清算」。<br>补充：（本文特指：这是 2008 年后监管的创举，要求系统重要性银行「未雨绸缪」。和上面 contingency plan 一脉相承——都是「没出事，先想好出事怎么办」。这个词把全文「单点故障→应急预案」的线索，落到了金融监管的具体操作上。）<br>核心搭配：a living will、resolution planning、wind down",
+          "ctx": "",
+          "ex1": "Systemic banks must file living wills. 系统重要性银行必须提交「生前遗嘱」。",
+          "ex2": "The bank's living will describes an orderly wind-down. 这家银行的生前遗嘱描述了一种有序清算。"
+        },
+        {
+          "w": "essential social infrastructure",
+          "ipa": "/ɪˈsenʃl ˈsəʊʃl ˈɪnfrəstrʌktʃə(r)/",
+          "pos": "phr.",
+          "en": "a system or service so important that society cannot function without it.",
+          "zh": "关键社会基础设施。infrastructure 是「基础设施」——公路、电网、自来水，社会没它们就没法运转。作者说银行就是 essential social infrastructure，跟水电煤一样，是社会离不开的「命脉」。<br>补充：（本文特指：为什么强调这个？因为一个东西一旦是「基础设施」，就意味着「不能随便倒」——公路塌了不行，电网断了不行，银行倒了更不行。这是为后面「大而不能倒」的类比埋的伏笔。）<br>核心搭配：essential infrastructure、critical infrastructure、social infrastructure、public infrastructure",
+          "ctx": "",
+          "ex1": "Banks are regarded as essential social infrastructure. 银行被视为关键的社会基础设施。",
+          "ex2": "The power grid is critical infrastructure. 电网是关键基础设施。"
+        },
+        {
+          "w": "lender",
+          "ipa": "/ˈlendə(r)/",
+          "pos": "n.",
+          "en": "a person or organisation that lends money.",
+          "zh": "银行、贷款机构。lend（借出）+ -er，lender 是「借出钱的人」——银行就是「借钱给别人的人」，所以 lender 常用来指银行。<br>补充：（本文特指：Lenders such as JPMorgan，「像摩根大通这样的放贷机构」。用 lender 而不用 bank，强调银行的「放贷」这一本质功能——它欠着千家万户的存款，连着成千上万企业的贷款。）<br>核心搭配：a lender、a mortgage lender、lenders、borrowers and lenders",
+          "ctx": "",
+          "ex1": "Major lenders must hold extra capital. 大型放贷机构必须持有额外资本。",
+          "ex2": "The lender tightened its lending standards. 这家银行收紧了放贷标准。"
+        },
+        {
+          "w": "breathing down one's neck",
+          "ipa": "/ˈbriːðɪŋ daʊn wʌnz nek/",
+          "pos": "phr.",
+          "en": "watching someone very closely, in a way that makes them feel pressured.",
+          "zh": "死死盯着、如影随形。字面「对着你的脖子喘气」——有个人就站在你身后，紧贴着你，他的呼吸你后脖子都能感觉到。regulators breathing down their necks，「监管者死死盯着他们的后脖子」。<br>补充：（本文特指：这是很生动的「身体隐喻」，形容「被紧盯、被施压」。写作用它，比 watch closely 有画面感得多。）<br>核心搭配：breathe down someone's neck、have someone breathing down your neck",
+          "ctx": "",
+          "ex1": "Banks work with regulators breathing down their necks. 银行在监管者的紧盯下运营。",
+          "ex2": "The deadline is next week, and the boss is breathing down my neck. 截止日就在下周，老板盯我盯得紧。"
+        },
+        {
+          "w": "have no choice but to...",
+          "ipa": "/həv nəʊ tʃɔɪs bʌt tə/",
+          "pos": "phr.",
+          "en": "to be forced to do something because there is no other option.",
+          "zh": "别无选择，只能……。固定句型。have no choice but to build in contingency plans，「别无选择，只能建好应急预案」——监管压着，不建不行。<br>补充：（本文特指：类似表达还有 have no option but to、can't help but do。这个句型语气很「无奈」，正好呼应前面 foisted on 的「不情愿」。）<br>核心搭配：have no choice but to、have no option but to、be left with no choice",
+          "ctx": "",
+          "ex1": "Banks have no choice but to plan for failure. 银行别无选择，只能为失败做预案。",
+          "ex2": "We had no choice but to cut costs. 我们别无选择，只能削减成本。"
+        },
+        {
+          "w": "contingency plan",
+          "ipa": "/kənˈtɪndʒənsi plæn/",
+          "pos": "n.",
+          "en": "a plan for dealing with a possible future emergency or failure.",
+          "zh": "应急预案。contingency 是「意外事件、突发情况」，contingency plan 就是「万一出事的应对方案」。build in「内置、建立」。<br>补充：（本文特指：这是 2008 金融危机后，监管给「大而不能倒」银行上的紧箍咒之一——必须提前想好「万一我倒了怎么体面清算」。下面 too big to fail 会展开。）<br>核心搭配：a contingency plan、plan for contingencies、a backup plan",
+          "ctx": "",
+          "ex1": "Regulators require banks to have contingency plans. 监管要求银行制定应急预案。",
+          "ex2": "We need a contingency plan in case of a crash. 我们需要一份应对崩盘的预案。"
+        },
+        {
+          "w": "nowhere near as... as...",
+          "ipa": "/ˈnəʊweə nɪə(r) æz... æz/",
+          "pos": "phr.",
+          "en": "not nearly as much or as good as something; far less than.",
+          "zh": "远不如、远没有……那么……。nowhere near 字面「离……还差得远」。nowhere near as complicated as，「远没有……那么复杂」——英伟达远没有华尔街银行那般盘根错节。<br>补充：（本文特指：这是个「先让步、再转折」的句式——承认英伟达没银行复杂，但（but）它正变得同样系统重要。让步之后的重心，落在 but 后面。）<br>核心搭配：nowhere near as... as...、not nearly as... as...",
+          "ctx": "",
+          "ex1": "Nvidia is nowhere near as complex as a Wall Street bank. 英伟达远没有华尔街银行那么复杂。",
+          "ex2": "The problem is nowhere near as simple as it looks. 问题远没有看上去那么简单。"
+        },
+        {
+          "w": "too big to fail",
+          "ipa": "/tuː bɪɡ tə feɪl/",
+          "pos": "phr.",
+          "en": "so large and important that its failure would be catastrophic, so it must be supported.",
+          "zh": "大而不能倒。2008 金融危机后最著名的概念——有些银行已经大到「不能倒」，因为一倒就是整个金融系统跟着崩。<br>补充：（本文特指：背景是 2008 年雷曼兄弟倒闭引爆全球金融海啸。危机后监管给这些「系统重要性银行」上了三道紧箍咒：① 提前写好「生前遗嘱」living wills（怎么体面清算、不拖累别人）；② 留够压箱底的资本；③ 一举一动被监管死盯。作者的意思是：英伟达也正在变成「too big to fail」，那是不是该被同样地管起来？）<br>核心搭配：too big to fail、a bailout、systemically important",
+          "ctx": "",
+          "ex1": "Some banks were deemed too big to fail. 一些银行被认为「大到不能倒」。",
+          "ex2": "The \"too big to fail\" doctrine shaped modern regulation. 「大而不能倒」的理念塑造了现代监管。"
+        },
+        {
+          "w": "systemic",
+          "ipa": "/sɪˈstemɪk/",
+          "pos": "adj.",
+          "en": "affecting the whole of a system, organisation, or economy, rather than just a part.",
+          "zh": "系统性的、全局性的。注意别跟 systematic 搞混——systematic 是「有条理的、按部就班的」（做事有系统方法）；systemic 是「系统性的」（影响整个系统、牵一发动全身）。一个讲「做事方法」，一个讲「影响范围」。<br>补充：（本文特指：becoming similarly systemic，「正变得同样系统重要」。翻译成人话就是——英伟达正在变成科技界的「大而不能倒」。它一倒，不只是它一家的事，会拖垮整个市场、AI 产业链、你我的养老金。）<br>核心搭配：systemic risk、systemically important、a systemic problem",
+          "ctx": "",
+          "ex1": "Nvidia is becoming systemically important. 英伟达正变得「系统重要」。",
+          "ex2": "The crisis revealed systemic weaknesses. 这场危机暴露了系统性的弱点。"
+        },
+        {
+          "w": "on the agenda",
+          "ipa": "/ɒn ði əˈdʒendə/",
+          "pos": "phr.",
+          "en": "planned to be discussed or dealt with.",
+          "zh": "在议程上、被提上日程。agenda「议程」。on the new Congress's agenda，「在新一届国会的议程上」。<br>补充：（本文特指：注意作者的委婉——It would not be a surprise to see that...，「如果看到……也不意外」。他不说「一定会发生」，说「如果发生我也不惊讶」。这种留余地的说法，跟前文 may have been 的分寸感一脉相承，是新闻评论的「不把话说死」。）<br>核心搭配：on the agenda、high on the agenda、set the agenda",
+          "ctx": "",
+          "ex1": "Regulating big tech is now on the agenda. 监管科技巨头如今已提上日程。",
+          "ex2": "Tax reform is high on the new agenda. 税改是新议程的重中之重。"
+        }
+      ]
     },
     {
-     "w": "intellectual property",
-     "ipa": "/ˌɪntəˈlektʃuəl ˈprɒpəti/",
-     "pos": "n.",
-     "en": "the ideas, inventions, designs and creative work that a person or company owns and has legal rights over.",
-     "zh": "知识产权，简称 IP。这里指英伟达最值钱的东西——芯片设计、核心技术。英伟达是全球 AI 芯片龙头，它那一张张图纸、一行行代码，就是别人做梦都想拿到的「武林秘籍」。<br>补充：（本文特指：正因为英伟达的 IP 价值连城，一个「情人可能是情报线人」的传闻，才会牵动国家安全——泄了技术，就是泄了命脉。）<br>核心搭配：intellectual property、protect intellectual property、IP theft、patent",
-     "ctx": "",
-     "ex1": "The company's intellectual property is its most valuable asset. 知识产权是这家公司最值钱的资产。",
-     "ex2": "The case centres on alleged IP theft. 这起案件的核心是指控窃取知识产权。"
-    },
-    {
-     "w": "fraught",
-     "ipa": "/frɔːt/",
-     "pos": "adj.",
-     "en": "full of problems, difficulties, or unpleasant things.",
-     "zh": "充满（麻烦、紧张）的。最常见搭配是 fraught with——fraught with danger（危机四伏）、fraught with risk（充满风险）。这里 the fraught nature of US-China politics，即「中美政治本就紧绷、麻烦多的大环境」。<br>补充：（本文特指：作者用这一句点出背景——中美关系本来就敏感，你在这个节骨眼上出了个跟「中国情报」沾边的事，性质就完全不一样了。）<br>核心搭配：fraught with、the fraught nature of、a fraught relationship、fraught with danger",
-     "ctx": "",
-     "ex1": "The situation is fraught with risk. 局势危机四伏。",
-     "ex2": "Their relationship has always been fraught. 他们的关系一直很紧张。"
-    },
-    {
-     "w": "board probe",
-     "ipa": "/bɔːd prəʊb/",
-     "pos": "n.",
-     "en": "a formal investigation carried out by a company's board of directors.",
-     "zh": "董事会调查。board 是董事会，probe 是「调查」——probe 原意是「探针」（医生用的探子），引申为「深入探查、调查」。board probe 就是「董事会的调查」。<br>补充：（本文特指：后面 assisted by outside lawyers 是过去分词短语做后置定语，修饰 board probe——「由外部律师协助的调查」。为什么强调 outside（外部）？因为内部人查自己老板不让人信服，得请「外人」来才独立、才服众。这个细节的分量：一家四万多亿美元的公司，要动真格了。）<br>核心搭配：a board probe、launch a probe、an internal probe、probe into",
-     "ctx": "",
-     "ex1": "The board launched an independent probe into the affair. 董事会就此事发起了独立调查。",
-     "ex2": "An external probe will investigate the claims. 一项外部调查将核查这些指控。"
-    },
-    {
-     "w": "investigate",
-     "ipa": "/ɪnˈvestɪɡeɪt/",
-     "pos": "v.",
-     "en": "to carefully examine something, especially to find out the truth about it.",
-     "zh": "调查、查清。will have to investigate，「将不得不去查清」。注意 have to 的「不得不」——暗示这事不是想不想查，是必须查，躲不掉的。<br>补充：（本文特指：第 2 段全程没有一句情绪化的词，没说「震惊」「恶劣」，就用 may have been 这个「可能」，把分寸拿捏得死死的。越是大事，越要冷静——这就是一流外刊「用最克制的语言，讲最炸裂的事」的腔调。）<br>核心搭配：investigate a claim、investigate thoroughly、launch an investigation、an investigation into",
-     "ctx": "",
-     "ex1": "Lawyers will investigate whether any rules were broken. 律师将调查是否有违规行为。",
-     "ex2": "The affair is under investigation. 此事正在调查中。"
+      "en_html": "Investors already seem to be <mark class=\"voc\">contemplating</mark> a less <mark class=\"voc\">Nvidia-centric</mark> world. <mark class=\"voc\">Shares</mark> in <mark class=\"voc\">rival</mark> AMD rose 12 per cent on Monday; <mark class=\"voc\">upstart</mark> chipmaker Cerebras was up 5 per cent. Customers <mark class=\"voc\">move more slowly than</mark> markets, but Huang's <mark class=\"voc\">slip-up</mark> gives them, too, a prod. Whatever the consequences, his <mark class=\"voc\">predicament</mark> is <mark class=\"voc\">a helpful reminder</mark> that a single point of failure is never a good thing.",
+      "zh": "投资者似乎已在设想一个「不那么以英伟达为中心」的世界：竞争对手 AMD 的股价周一大涨 12%，芯片新贵 Cerebras 亦上扬 5%。客户的反应往往比市场迟缓，但黄仁勋此番失足，也给了他们一记轻轻的催促。无论最终结局如何，他的这场困境都是一次有益的提醒——单点故障，从来都不是一件好事。",
+      "notes": [
+        {
+          "w": "contemplate",
+          "ipa": "/ˈkɒntəmpleɪt/",
+          "pos": "v.",
+          "en": "to think about something seriously and for a long time.",
+          "zh": "认真考虑、郑重盘算。比 think about 正式得多——think about 是「随便想想」，contemplate 是「郑重其事地盘算」。Investors seem to be contemplating，「投资者似乎已在认真设想」。<br>补充：（本文特指：seem to be doing 是「似乎正在做」，带一种观察、推测的口吻——作者从股价走势里，读出投资者的心态。）<br>核心搭配：contemplate a future、contemplate doing、contemplate the possibility",
+          "ctx": "",
+          "ex1": "Investors are contemplating a world with less reliance on one firm. 投资者在设想一个不再那么依赖一家公司的世界。",
+          "ex2": "He is contemplating retirement. 他在认真考虑退休。"
+        },
+        {
+          "w": "-centric",
+          "ipa": "/ˈsentrɪk/",
+          "pos": "suffix",
+          "en": "centred on or focused on a particular thing or person.",
+          "zh": "以……为中心的。高频构词后缀——China-centric（以中国为中心的）、user-centric（以用户为中心的）、customer-centric（以客户为中心的）。Nvidia-centric，「以英伟达为中心的」。<br>补充：（本文特指：a less Nvidia-centric world，「一个不那么以英伟达为中心的世界」。注意这个 less——作者没说「没有英伟达的世界」，而是「没那么依赖英伟达的世界」，分寸拿捏得很准。）<br>核心搭配：-centric、customer-centric、user-centric、China-centric",
+          "ctx": "",
+          "ex1": "The market is moving toward a less Nvidia-centric world. 市场正走向一个不那么以英伟达为中心的世界。",
+          "ex2": "Good design is user-centric. 好的设计以用户为中心。"
+        },
+        {
+          "w": "shares",
+          "ipa": "/ʃeəz/",
+          "pos": "n. (pl.)",
+          "en": "units of ownership in a company, which can be bought and sold.",
+          "zh": "股票、股份。shares 是「股票」最常见的英式说法，美式多说 stock。Shares in rival AMD rose 12 per cent，「竞争对手 AMD 的股价上涨了 12%」。<br>补充：（本文特指：rise 的过去式 rose「上涨」，反义词 fall/fell「下跌」。注意表达股价涨跌：shares rose / shares jumped / shares tumbled。）<br>核心搭配：shares in、share price、buy shares、shares rose",
+          "ctx": "",
+          "ex1": "Shares in AMD rose sharply on the news. 消息一出，AMD 股价大涨。",
+          "ex2": "The share price fell to a record low. 股价跌到了历史新低。"
+        },
+        {
+          "w": "rival",
+          "ipa": "/ˈraɪvl/",
+          "pos": "n.",
+          "en": "a person or company competing with another for the same thing.",
+          "zh": "竞争对手。rival AMD，「竞争对手 AMD」——英伟达在 GPU 芯片上的头号对手。<br>补充：（本文特指：on Monday「周一」，就是第 2 段那个 Sunday 的第二天——黄仁勋周日道歉，周一开盘市场就用脚投票。前后时间线在这里扣上了。）<br>核心搭配：a rival、a rival company、arch-rival、rivalry",
+          "ctx": "",
+          "ex1": "Shares in its main rival jumped. 其主要竞争对手的股价大涨。",
+          "ex2": "The two firms are fierce rivals. 这两家公司是死对头。"
+        },
+        {
+          "w": "upstart",
+          "ipa": "/ˈʌpstɑːt/",
+          "pos": "n.",
+          "en": "a person or company that has recently become successful or powerful.",
+          "zh": "后起之秀、新贵。字面 up（向上）+ start（起步），「突然冒出来的」。早年带点贬义（「暴发户」），现在中性多了，就是「新近蹿红的公司」。upstart chipmaker Cerebras，「芯片新贵 Cerebras」。<br>补充：（本文特指：Cerebras 是做 AI 芯片的后起之秀，专做「全球最大」的巨型芯片，2026 年 5 月才刚在纳斯达克上市，妥妥的 upstart。作者用 upstart，和前面的巨头英伟达形成「新老」对比——市场正在给「没有英伟达」的选项投票。）<br>核心搭配：an upstart、an upstart company、a brash upstart",
+          "ctx": "",
+          "ex1": "The upstart chipmaker is gaining ground. 这家芯片新贵正在抢占份额。",
+          "ex2": "A few upstarts are challenging the giants. 几家新贵正在挑战巨头。"
+        },
+        {
+          "w": "move more slowly than...",
+          "ipa": "/muːv mɔː ˈsləʊli ðən/",
+          "pos": "phr.",
+          "en": "to react or change more slowly than something else.",
+          "zh": "比……反应慢。Customers move more slowly than markets，「客户的反应比市场慢」——这是个值得抄下来的对比句式：A move more slowly than B。<br>补充：（本文特指：股价一天就能涨跌，但「客户」（那些买英伟达芯片的公司）决策慢得多——换供应商不是一天的事，要评估、测试、签合同。作者用这个对比，说明「市场先动，客户随后」，改变正在一层层传导。）<br>核心搭配：move more slowly than、react slowly、lag behind",
+          "ctx": "",
+          "ex1": "Customers move more slowly than markets. 客户的反应比市场慢。",
+          "ex2": "Regulators usually lag behind markets. 监管者通常落后于市场。"
+        },
+        {
+          "w": "slip-up",
+          "ipa": "/ˈslɪp ʌp/",
+          "pos": "n.",
+          "en": "a push or poke; something that encourages or urges you to act.",
+          "zh": "轻轻一推、催促。give someone a prod，「推某人一把、催一下」。作者说，黄仁勋的失误给了这些客户「一记轻推」——本来客户还在犹豫要不要分散供应链，这一下，被推着开始认真考虑了。<br>补充：（本文特指：prod 作动词本义是「用手指戳」，引申为「催促、促使」。gives them, too, a prod，「也给了他们一记催促」——这个 too，呼应前面「市场已经动了」，现在客户也被推着动起来了。）<br>核心搭配：give someone a prod、prod someone into、a gentle prod",
+          "ctx": "",
+          "ex1": "The CEO's slip-up cost the company billions. 这位 CEO 的「小失误」让公司损失了数十亿。",
+          "ex2": "One small slip-up ruined the whole deal. 一个小小的失误毁掉了整笔交易。"
+        },
+        {
+          "w": "predicament",
+          "ipa": "/prɪˈdɪkəmənt/",
+          "pos": "n.",
+          "en": "an unpleasant situation that is difficult to get out of.",
+          "zh": "困境、窘境。his predicament，「他的这场困境」。比 problem、trouble 更书面，强调「陷进去、难脱身」的处境。<br>补充：（本文特指：最后一句 his predicament is a helpful reminder that a single point of failure is never a good thing，跟副标题几乎一模一样——副标题是 single point of failure is never a good thing for a big company，结尾是 a single point of failure is never a good thing。这就是评论文章最标准的收尾手法——首尾呼应，把核心概念像钉子一样最后再敲一遍。）<br>核心搭配：a predicament、be in a predicament、a difficult predicament",
+          "ctx": "",
+          "ex1": "His predicament is a warning to every big company. 他的困境是对每家巨头的一记警钟。",
+          "ex2": "She found herself in an awkward predicament. 她陷入了一种尴尬的困境。"
+        },
+        {
+          "w": "echo",
+          "ipa": "/ˈekəʊ/",
+          "pos": "v.",
+          "en": "to repeat an idea or statement, so that it appears again in a similar form.",
+          "zh": "呼应、回响。这是英文评论文章最标准的收尾手法——开头点题，结尾回扣，把核心概念像钉子一样最后再敲一遍。这篇文章开头副标题点出 single point of failure is never a good thing，结尾又把这句原样敲一遍，形成闭环。<br>补充：（本文特指：echo 本义是「回声」，引申为「呼应、重复」。首尾呼应的英文说法就是 echo the opening / bookend the piece。全篇的收束逻辑——从一个 CEO 的八卦，一路升到「单点故障从来不是好事」这个朴素的道理，没有愤怒、没有煽情，只告诉你：别把命押在一个点上。）<br>核心搭配：echo the theme、echo the opening、a call-back、bookend the piece",
+          "ctx": "",
+          "ex1": "The final line echoes the subtitle. 最后一句呼应了副标题。",
+          "ex2": "The essay bookends with the same idea. 这篇文章首尾呼应同一个观点。"
+        }
+      ]
     }
-   ]
+  ],
+  "proper": [],
+  "sources_note": "依据英国《金融时报》（Financial Times）观点评论；早安英文深度外刊精讲系列课第七讲。",
+  "practice": {},
+  "mindmap": {
+    "aria": "",
+    "alt": "",
+    "svg": "<svg viewBox=\"0 0 960 488\" xmlns=\"http://www.w3.org/2000/svg\" role=\"img\" aria-label=\"黄仁勋依赖 思维导图\" style=\"width:100%;height:auto;font-family:-apple-system,'PingFang SC','Hiragino Sans GB','Microsoft YaHei',sans-serif\">\n<rect x=\"24\" y=\"200\" width=\"176\" height=\"88\" rx=\"14\" fill=\"#eae3d2\" stroke=\"#9a8f76\"/>\n<text x=\"112\" y=\"236\" text-anchor=\"middle\" fill=\"#3d3a34\" font-size=\"17\" font-weight=\"700\">黄仁勋依赖</text>\n<text x=\"112\" y=\"262\" text-anchor=\"middle\" fill=\"#5c5648\" font-size=\"12.5\">单点故障之忧</text>\n<path d=\"M200,244 C232,244 232,88 260,88\" stroke=\"#6b8f71\" stroke-width=\"2\" fill=\"none\"/>\n<path d=\"M200,244 C232,244 232,223 260,223\" stroke=\"#7d98ad\" stroke-width=\"2\" fill=\"none\"/>\n<path d=\"M200,244 C232,244 232,379 260,379\" stroke=\"#bd7a6d\" stroke-width=\"2\" fill=\"none\"/>\n<g class=\"mm-branch\" data-target=\"bc1\">\n<rect x=\"260\" y=\"71\" width=\"190\" height=\"34\" rx=\"8\" fill=\"#e6efe7\" stroke=\"#6b8f71\"/>\n<text x=\"355\" y=\"93\" text-anchor=\"middle\" fill=\"#4c6b52\" font-size=\"15\" font-weight=\"700\">丑闻缠身（¶1-3）</text>\n<text class=\"mm-arrow\" data-for=\"bc1\" x=\"442\" y=\"93\" text-anchor=\"end\" fill=\"#4c6b52\">▾</text>\n</g>\n<g class=\"mm-children\" id=\"bc1\">\n<path d=\"M450,88 C462,88 462,46 480,46\" stroke=\"#6b8f71\" stroke-width=\"1.5\" fill=\"none\"/>\n<path d=\"M450,88 C462,88 462,88 480,88\" stroke=\"#6b8f71\" stroke-width=\"1.5\" fill=\"none\"/>\n<path d=\"M450,88 C462,88 462,130 480,130\" stroke=\"#6b8f71\" stroke-width=\"1.5\" fill=\"none\"/>\n<rect x=\"480\" y=\"30\" width=\"456\" height=\"32\" rx=\"8\" fill=\"#e6efe7\"/><text x=\"492\" y=\"51\" fill=\"#3d3a34\" font-size=\"14\">坦承婚外情，女方疑为中方线人</text>\n<rect x=\"480\" y=\"72\" width=\"456\" height=\"32\" rx=\"8\" fill=\"#e6efe7\"/><text x=\"492\" y=\"93\" fill=\"#3d3a34\" font-size=\"14\">一人统管约60名直属，分身乏术</text>\n<rect x=\"480\" y=\"114\" width=\"456\" height=\"32\" rx=\"8\" fill=\"#e6efe7\"/><text x=\"492\" y=\"135\" fill=\"#3d3a34\" font-size=\"14\">失去他，英伟达势必陷入困境</text>\n</g>\n<g class=\"mm-branch\" data-target=\"bc2\">\n<rect x=\"260\" y=\"206\" width=\"190\" height=\"34\" rx=\"8\" fill=\"#e5edf4\" stroke=\"#7d98ad\"/>\n<text x=\"355\" y=\"228\" text-anchor=\"middle\" fill=\"#3d5872\" font-size=\"15\" font-weight=\"700\">绑定之危（¶4）</text>\n<text class=\"mm-arrow\" data-for=\"bc2\" x=\"442\" y=\"228\" text-anchor=\"end\" fill=\"#3d5872\">▾</text>\n</g>\n<g class=\"mm-children\" id=\"bc2\">\n<path d=\"M450,223 C462,223 462,202 480,202\" stroke=\"#7d98ad\" stroke-width=\"1.5\" fill=\"none\"/>\n<path d=\"M450,223 C462,223 462,244 480,244\" stroke=\"#7d98ad\" stroke-width=\"1.5\" fill=\"none\"/>\n<rect x=\"480\" y=\"186\" width=\"456\" height=\"32\" rx=\"8\" fill=\"#e5edf4\"/><text x=\"492\" y=\"207\" fill=\"#3d3a34\" font-size=\"14\">市值4.5万亿，独占标普500近7%权重</text>\n<rect x=\"480\" y=\"228\" width=\"456\" height=\"32\" rx=\"8\" fill=\"#e5edf4\"/><text x=\"492\" y=\"249\" fill=\"#3d3a34\" font-size=\"14\">伤英伟达即伤整个市场（养老金指数基金押注）</text>\n</g>\n<g class=\"mm-branch\" data-target=\"bc3\">\n<rect x=\"260\" y=\"362\" width=\"190\" height=\"34\" rx=\"8\" fill=\"#f4e7e4\" stroke=\"#bd7a6d\"/>\n<text x=\"355\" y=\"384\" text-anchor=\"middle\" fill=\"#7c4a3e\" font-size=\"15\" font-weight=\"700\">如何解绑（¶5-8）</text>\n<text class=\"mm-arrow\" data-for=\"bc3\" x=\"442\" y=\"384\" text-anchor=\"end\" fill=\"#7c4a3e\">▾</text>\n</g>\n<g class=\"mm-children\" id=\"bc3\">\n<path d=\"M450,379 C462,379 462,316 480,316\" stroke=\"#bd7a6d\" stroke-width=\"1.5\" fill=\"none\"/>\n<path d=\"M450,379 C462,379 462,358 480,358\" stroke=\"#bd7a6d\" stroke-width=\"1.5\" fill=\"none\"/>\n<path d=\"M450,379 C462,379 462,400 480,400\" stroke=\"#bd7a6d\" stroke-width=\"1.5\" fill=\"none\"/>\n<path d=\"M450,379 C462,379 462,442 480,442\" stroke=\"#bd7a6d\" stroke-width=\"1.5\" fill=\"none\"/>\n<rect x=\"480\" y=\"300\" width=\"456\" height=\"32\" rx=\"8\" fill=\"#f4e7e4\"/><text x=\"492\" y=\"321\" fill=\"#3d3a34\" font-size=\"14\">CEO转任执行董事长范本（大摩/亚马逊/苹果）</text>\n<rect x=\"480\" y=\"342\" width=\"456\" height=\"32\" rx=\"8\" fill=\"#f4e7e4\"/><text x=\"492\" y=\"363\" fill=\"#3d3a34\" font-size=\"14\">设总裁/COO二把手分散权力</text>\n<rect x=\"480\" y=\"384\" width=\"456\" height=\"32\" rx=\"8\" fill=\"#f4e7e4\"/><text x=\"492\" y=\"405\" fill=\"#3d3a34\" font-size=\"14\">监管套用科技巨头（类比银行）</text>\n<rect x=\"480\" y=\"426\" width=\"456\" height=\"32\" rx=\"8\" fill=\"#f4e7e4\"/><text x=\"492\" y=\"447\" fill=\"#3d3a34\" font-size=\"14\">AMD周一大涨12%显去英伟达化预期</text>\n</g>\n<text x=\"486\" y=\"170\" fill=\"#8a8578\" font-size=\"11.5\">↓ 牵动</text>\n<text x=\"486\" y=\"284\" fill=\"#8a8578\" font-size=\"11.5\">↓ 最终落到</text>\n</svg>",
+    "img": "scripts/content/img/2026-11-12_002.jpg"
   },
-  {
-   "en_html": "<mark class=\"voc\">Whatever</mark> they find, it is <mark class=\"voc\">undeniable</mark> that Nvidia without Huang as its CEO would have a problem. He is already <mark class=\"voc\">spread thin</mark>, <mark class=\"voc\">overseeing</mark> about 60 <mark class=\"voc\">direct reports</mark>, with no obvious <mark class=\"voc\">successor</mark>. And the company's board is <mark class=\"voc\">not exactly</mark> <mark class=\"voc\">robust</mark>. Its directors have an average <mark class=\"voc\">tenure</mark> of 18 years, more than twice the <mark class=\"voc\">S&amp;P 500 mean</mark>, according to consulting firm Spencer Stuart. Five of them have served for roughly three decades, with no apparent resistance from <mark class=\"voc\">shareholders</mark>.",
-   "zh": "无论调查结果如何，不可否认的是，一旦失去黄仁勋这位 CEO，英伟达势必陷入困境。他本人早已分身乏术，一人统管约六十名直接下属，却并无明显的继任者。而公司的董事会，也说不上多么强健——其董事平均任期长达十八年，为标普 500 均值的两倍有余（据咨询公司斯宾塞·斯图尔特统计），其中五人已任职约三十年，股东对此却毫无明显异议。",
-   "notes": [
-    {
-     "w": "whatever",
-     "ipa": "/wɒtˈevə(r)/",
-     "pos": "conj.",
-     "en": "no matter what; regardless of what happens.",
-     "zh": "无论什么。它引导让步状语从句——「不管结果如何」。作者先用这一句，把「调查结果」这件事摁住：结果不重要，因为接下来要说的，跟查不查得出来无关。<br>补充：（本文特指：这是一个「先让一步，再立论」的写法——先把对方最关心的变量（调查结果）踢出局，然后说「不管怎样，都改变不了这个事实」。写议论文很好用。）<br>核心搭配：whatever happens、whatever the result、whatever they find、come what may",
-     "ctx": "",
-     "ex1": "Whatever they find, the damage is already done. 无论查出什么，损失已经造成。",
-     "ex2": "Whatever the outcome, the company must change. 无论结果如何，公司都必须改变。"
-    },
-    {
-     "w": "undeniable",
-     "ipa": "/ˌʌndɪˈnaɪəbl/",
-     "pos": "adj.",
-     "en": "certainly true; impossible to deny.",
-     "zh": "不可否认的。拆开：deny（否认）→ deniable（可否认的）→ 加 un- 再否定，undeniable（不可否认的）。it is undeniable that...，「不可否认的是……」，后面接陈述事实的从句。<br>补充：（本文特指：这个「双重否定」的构词，本身就是在强调语气——不是「可能是」，是「板上钉钉、想否认都否认不了」。）<br>核心搭配：it is undeniable that、an undeniable fact、undeniable evidence",
-     "ctx": "",
-     "ex1": "It is undeniable that the company relies too much on one man. 不可否认，这家公司过度依赖一个人。",
-     "ex2": "His talent is undeniable. 他的才华无可置疑。"
-    },
-    {
-     "w": "spread thin",
-     "ipa": "/spred θɪn/",
-     "pos": "phr.",
-     "en": "having too many things to do, so that you cannot do any of them well.",
-     "zh": "分身乏术、精力摊薄。字面「摊得太薄」——一块黄油抹一大片面包，越抹越薄，薄到快看不见。一个人 spread thin，就是要管的事太多，顾不过来。<br>补充：（本文特指：thin 是形容词做 spread 的补语，表示「被摊成薄薄的状态」。固定搭配 be spread thin，精力透支、顾此失彼。）<br>核心搭配：be spread thin、spread oneself too thin、stretched thin",
-     "ctx": "",
-     "ex1": "He is already spread thin managing so many teams. 他管这么多团队，早已分身乏术。",
-     "ex2": "Don't spread yourself too thin. 别把自己摊得太薄（别贪多嚼不烂）。"
-    },
-    {
-     "w": "oversee",
-     "ipa": "/ˌəʊvəˈsiː/",
-     "pos": "v.",
-     "en": "to be in charge of a group of workers or a piece of work, and make sure it is done properly.",
-     "zh": "监督、统管。over-（从上往下）+ see（看），就是「居高临下地看着」——管理、监督。比 manage 更强调「站在上面俯瞰全局」。<br>补充：（本文特指：overseeing about 60 direct reports，是现在分词做状语，补充说明他「分身乏术」的具体表现。）<br>核心搭配：oversee a project、oversee operations、oversee the work",
-     "ctx": "",
-     "ex1": "He oversees a team of sixty people. 他统管一支六十人的团队。",
-     "ex2": "She was hired to oversee the company's expansion. 她受雇监管公司的扩张。"
-    },
-    {
-     "w": "direct reports",
-     "ipa": "/dəˈrekt rɪˈpɔːts/",
-     "pos": "n. (pl.)",
-     "en": "the people who report directly to a particular manager.",
-     "zh": "直接下属。report 除了「报道」，还有个职场高频义——「汇报」。report to someone「向某人汇报」，你老板就是 the person you report to。direct reports，字面「直接汇报（给你）的人」。<br>补充：（本文特指：管理学有个共识——一个人能有效管理的直接下属，一般不超过 7 到 10 个。黄仁勋一个人直接管约 60 个，是正常值的六到八倍。这意味着不是他能力强到没边，是这家公司从根子上就没有「分权」，所有人都绕不开他一个人。这不是能力，是风险。）<br>核心搭配：direct reports、report to someone、a direct report",
-     "ctx": "",
-     "ex1": "Managing sixty direct reports is a warning sign. 直接管理六十个下属，是一个警示信号。",
-     "ex2": "She reports directly to the CEO. 她直接向 CEO 汇报。"
-    },
-    {
-     "w": "successor",
-     "ipa": "/səkˈsesə(r)/",
-     "pos": "n.",
-     "en": "a person who takes over a job or position from someone else.",
-     "zh": "接班人、继任者。success（成功）→ successor（接棒的人）。反义词是 predecessor（前任）。with no obvious successor，注意 obvious 这个词——不是「没有接班人」，是「看不出谁是接班人」。<br>补充：（本文特指：一家四万亿的公司，老板管 60 个人，连个「备胎」都没有，这本身就够吓人了。这是「单点故障」的第二个证据——没人接班。）<br>核心搭配：a successor、no obvious successor、the successor to、a worthy successor",
-     "ctx": "",
-     "ex1": "The company has no obvious successor to its founder. 这家公司没有明显能接替创始人的人。",
-     "ex2": "He groomed a successor before stepping down. 他在卸任前培养好了接班人。"
-    },
-    {
-     "w": "not exactly robust",
-     "ipa": "/nɒt ɪɡˈzæktli rəʊˈbʌst/",
-     "pos": "phr.",
-     "en": "a polite, indirect way of saying something is weak or inadequate (litotes).",
-     "zh": "反话式含蓄（litotes，读 /laɪˈtəʊtiːz/）。作者不直说「董事会弱爆了」，说 not exactly robust「算不上强健」——用「不算好」来让你显得更差。这是英国人最狠的一种说话方式。<br>补充：（本文特指：英国人说一个人丑，不直说 ugly，说 not exactly handsome「算不上帅」；问饭好不好吃，说 not bad——你以为的「还行」，其实是「非常好」。所以看到 not exactly + 好词，就往反了理解，多半在骂人。作者这里的实际意思是：这董事会，弱爆了。）<br>核心搭配：not exactly robust、not exactly impressive、not bad",
-     "ctx": "",
-     "ex1": "The board is not exactly robust. 这个董事会实在说不上强健。",
-     "ex2": "His track record is not exactly impressive. 他的过往成绩实在算不上亮眼。"
-    },
-    {
-     "w": "robust",
-     "ipa": "/rəʊˈbʌst/",
-     "pos": "adj.",
-     "en": "strong and healthy, or strong enough to be effective.",
-     "zh": "强健的、结实的、有力的。一个 robust 的董事会，就是「能镇得住 CEO、能制衡他」的董事会——CEO 乱来，董事会能把他按住。<br>补充：（本文特指：not exactly robust 是这段最妙的一个修辞，见下一条 litotes。先记 robust 本义「强健」，再用它理解那个「温柔的骂人」。）<br>核心搭配：a robust board、robust governance、a robust system、robust growth",
-     "ctx": "",
-     "ex1": "A robust board can rein in a powerful CEO. 一个强健的董事会能制衡强势的 CEO。",
-     "ex2": "The company posted robust earnings. 公司公布了强劲的业绩。"
-    },
-    {
-     "w": "tenure",
-     "ipa": "/ˈtenjə(r)/",
-     "pos": "n.",
-     "en": "the period of time during which someone holds an important job or position.",
-     "zh": "任期。词根 ten- 是「持有、握住」——tenant（房客）是「持有房子的人」，tenacious（坚持的）是「抓住不放的」。tenure 就是「你握住一个职位的时间」，任期。<br>补充：（本文特指：an average tenure of 18 years，平均任期 18 年——这是标普 500 均值的两倍还多。这个数字之所以是问题，见下一条「董事会本该干什么」的补充背景。）<br>核心搭配：a tenure of、during one's tenure、a long tenure、job tenure",
-     "ctx": "",
-     "ex1": "Directors have an average tenure of eighteen years. 董事的平均任期长达十八年。",
-     "ex2": "During his tenure, the company tripled in size. 在他任内，公司规模翻了三倍。"
-    },
-    {
-     "w": "S&P 500 mean",
-     "ipa": "/ˌes ən piː faɪv ˈhʌndrəd miːn/",
-     "pos": "phr.",
-     "en": "the average value for companies in the S&P 500 index.",
-     "zh": "标普 500 均值。S&P 500 是标普 500 指数，美国 500 家大公司的代表；mean 是「平均值」。这里说英伟达董事任期 18 年，是标普 500 平均（约七八年）的两倍多。<br>补充：（本文特指：数据来源 Spencer Stuart（斯宾塞·斯图尔特）——全球专门研究董事会治理的权威咨询公司。作者搬出它，是要告诉你：这个数不是我编的，是权威机构统计的。这就是外刊「用数据说话」的严谨。）<br>核心搭配：the S&P 500、the mean、above the mean、the index",
-     "ctx": "",
-     "ex1": "Its directors serve more than twice the S&P 500 mean. 其董事任期是标普 500 均值的两倍多。",
-     "ex2": "The stock is one of the biggest in the S&P 500. 这只股票是标普 500 里最大的之一。"
-    },
-    {
-     "w": "shareholder",
-     "ipa": "/ˈʃeəhəʊldə(r)/",
-     "pos": "n.",
-     "en": "a person or organisation that owns shares in a company.",
-     "zh": "股东。share（股份）+ holder（持有者）。with no apparent resistance from shareholders，「股东对此毫无明显异议」——apparent「明显的」，resistance「抵抗、反对」。<br>补充：（本文特指：这段的寒意就在最后这句——董事会不独立（全是 30 年老伙计），股东又没人反对。一个没人接班的老板，配一群没人反对的老董事，这叫「老将坐镇」，更准确的叫法是「没人敢管」。董事会本该代表股东监督 CEO，一旦董事待太久变成「自己人」，就失去了监督的意义。）<br>核心搭配：shareholders、a shareholders' meeting、shareholder value、activist shareholder",
-     "ctx": "",
-     "ex1": "Shareholders showed no resistance to the arrangement. 股东对这项安排毫无异议。",
-     "ex2": "The board is supposed to serve shareholders. 董事会本该为股东服务。"
-    }
-   ]
-  },
-  {
-   "en_html": "<mark class=\"voc\">What hurts Nvidia hurts the market</mark> because of its <mark class=\"voc\">sheer</mark> size. The $4.5tn company makes up nearly 7 per cent of the S&amp;P 500. But Huang's <mark class=\"voc\">empire</mark> has also <mark class=\"voc\">underwritten</mark> growth at many of its customers, taking <mark class=\"voc\">stakes</mark>, backstopping loans and financing data centre builders who <mark class=\"voc\">in turn</mark> host AI labs such as OpenAI and Anthropic. Huang was a <mark class=\"voc\">cheerleader</mark> when tech investors <mark class=\"voc\">lost their nerve</mark> — most recently during the <mark class=\"voc\">so-called</mark> <mark class=\"voc\">SaaSpocalypse</mark> software <mark class=\"voc\">sell-off</mark>.",
-   "zh": "伤害英伟达，即是伤害整个市场，盖因其体量之大。这家市值四点五万亿美元的公司，独占标普 500 近百分之七的权重。而黄仁勋的帝国，还一直在为众多客户提供资金支撑——入股持股、为贷款兜底、为数据中心建设商提供融资，而这些数据中心，反过来又托管着 OpenAI、Anthropic 等 AI 实验室。每逢科技投资者信心动摇，黄仁勋便挺身而出充当「啦啦队长」——最近一次，便是在那场被戏称为「SaaS 大灾难」的软件股抛售潮中。",
-   "notes": [
-    {
-     "w": "What hurts Nvidia hurts the market",
-     "ipa": "/wɒt hɜːts ənˈvɪdiə hɜːts ðə ˈmɑːkɪt/",
-     "pos": "sent.",
-     "en": "whatever damages Nvidia also damages the whole market.",
-     "zh": "伤害英伟达，就伤害整个市场。What hurts Nvidia 是主语从句（「伤害英伟达的那个东西」），整句主干就是 What hurts Nvidia（主语）hurts the market（谓语+宾语）。八个字：英伟达痛，市场痛。<br>补充：（本文特指：这是万能句式，写作里特别有力量。What helps you helps me（帮你的也帮了我）、What hurts one hurts all（伤一个就是伤全部）。）<br>核心搭配：what hurts one hurts all、what helps you helps me",
-     "ctx": "",
-     "ex1": "What hurts Nvidia hurts the entire market. 英伟达一痛，整个市场都痛。",
-     "ex2": "What helps the customer helps us too. 对客户好的，对我们也好。"
-    },
-    {
-     "w": "sheer",
-     "ipa": "/ʃɪə(r)/",
-     "pos": "adj.",
-     "en": "to form or constitute a particular amount or part of something.",
-     "zh": "构成、占据。make up 一词多义：编造（make up a story）、化妆（make up）、和好（make up with），但在这里是「占……比例」。makes up nearly 7 per cent，「占了近 7%」。<br>补充：（本文特指：这个 7% 是本段最扎心的数。标普 500 是 500 家最大公司，平分一家 0.2%，英伟达一家占近 7%。换句话说——你买任何一支标普 500 指数基金、你的养老金，里面每一块钱就有近 7 分押在英伟达身上。黄仁勋出事，不是炒股的人倒霉，是你我的养老金跟着抖。）<br>核心搭配：make up a percentage、make up the difference、make up for",
-     "ctx": "",
-     "ex1": "The company matters because of its sheer size. 这家公司举足轻重，纯粹因为体量。",
-     "ex2": "It was sheer luck that we won. 我们能赢纯属运气。"
-    },
-    {
-     "w": "empire",
-     "ipa": "/ˈempaɪə(r)/",
-     "pos": "n.",
-     "en": "a large and powerful group of companies, organisations, or businesses controlled by one person.",
-     "zh": "帝国。作者不说 company，说 empire——「帝国」，它不是一家公司，是一股势力，有自己的「诸侯」和「附庸」的势力范围。这一个词，就把英伟达的「盘根错节」点出来了。<br>补充：（本文特指：后面 underwrite、backstop、finance 这一串动作，就是「帝国」在豢养自己的附庸——这也正是第 4 段「循环融资」暗线的起点。）<br>核心搭配：a business empire、build an empire、a media empire",
-     "ctx": "",
-     "ex1": "Huang built a chip empire worth trillions. 黄仁勋建起了一个价值数万亿的芯片帝国。",
-     "ex2": "He controls a vast media empire. 他掌控着一个庞大的媒体帝国。"
-    },
-    {
-     "w": "underwrite",
-     "ipa": "/ˌʌndəˈraɪt/",
-     "pos": "v.",
-     "en": "to agree to pay for a project or activity, or to guarantee financial support for it.",
-     "zh": "承保、为……提供资金兜底。词源极妙：under（下面）+ write（写）——早期保险业，保险公司要为一个风险担保，负责人就在保单最下面签上自己的名字，表示「这事我担保了，出事我赔」。<br>补充：（本文特指：从「保单下签字」引申为「承保」，再到「为某件事提供资金支撑」。所以这句话说：英伟达不只是卖芯片，还给自己客户「在下面签字、兜底」——出钱、入股、担保，帮客户把生意撑起来。）<br>核心搭配：underwrite a loan、underwrite growth、underwrite the risk、an underwriter",
-     "ctx": "",
-     "ex1": "The chip giant underwrote growth at its own customers. 这家芯片巨头为自己的客户提供资金支撑。",
-     "ex2": "Banks underwrite most large corporate loans. 银行承保大多数大额企业贷款。"
-    },
-    {
-     "w": "stake",
-     "ipa": "/steɪk/",
-     "pos": "n.",
-     "en": "to provide support or a guarantee that prevents something from failing.",
-     "zh": "兜底、托底。拆开看 back（后面）+ stop（挡住），字面「在后面挡住的东西」。来自棒球——捕手身后那道高高的网（接球网），投手没接住的球飞过去，就撞在网上被挡住，不会飞出界外。<br>补充：（本文特指：从球场跳进金融圈，backstop a loan「给贷款兜底」——这笔贷款万一还不上，我来托底。画面感：客户借钱做生意，英伟达在后面站着——「没事，你借，还不上有我」。）<br>核心搭配：backstop a loan、a backstop、provide a backstop、backstop funding",
-     "ctx": "",
-     "ex1": "Nvidia has taken stakes in several AI start-ups. 英伟达入股了多家 AI 初创公司。",
-     "ex2": "She holds a large stake in the company. 她持有公司大量股份。"
-    },
-    {
-     "w": "in turn",
-     "ipa": "/ɪn tɜːn/",
-     "pos": "phr.",
-     "en": "as a result of something in a series of events; in one's turn.",
-     "zh": "反过来、相应地。它表示一环扣一环的连锁——英伟达出钱 → 建数据中心 → 数据中心反过来（in turn）托管 AI 实验室。<br>补充：（本文特指：who in turn host AI labs 是个定语从句，who 指代前面的 data centre builders。这个 in turn 就是产业链的最后一环，把「链子」越接越长。）<br>核心搭配：in turn、which in turn、in turn lead to",
-     "ctx": "",
-     "ex1": "The data centres in turn host the biggest AI labs. 这些数据中心反过来又托管着最大的 AI 实验室。",
-     "ex2": "Higher demand drives investment, which in turn boosts demand. 更高的需求推动投资，投资反过来又推高需求。"
-    },
-    {
-     "w": "cheerleader",
-     "ipa": "/ˈtʃɪəliːdə(r)/",
-     "pos": "n.",
-     "en": "a person who leads the crowd in encouraging and supporting a team; someone who enthusiastically promotes something.",
-     "zh": "啦啦队长。篮球赛里领喊「加油、防守、我们一定能赢」的人。作者说黄仁勋是 cheerleader，意思是——市场一恐慌，他就出来喊话、站台、稳定军心：「别慌，AI 没问题，我们英伟达没问题」。<br>补充：（本文特指：注意这个对比的画面——投资者们 lost their nerve（怂了、慌了），黄仁勋当 cheerleader（打气、稳场）。一边是慌了的人群，一边是喊「稳住」的人。这一对比就说明：这市场，已经离不开他这个人了。）<br>核心搭配：a cheerleader for、be a cheerleader、cheer on",
-     "ctx": "",
-     "ex1": "He acted as a cheerleader for the tech sector. 他充当了科技板块的「啦啦队长」。",
-     "ex2": "The CEO is a tireless cheerleader for his company. 这位 CEO 是不知疲倦地为公司摇旗呐喊的人。"
-    },
-    {
-     "w": "lose one's nerve",
-     "ipa": "/luːz wʌnz nɜːv/",
-     "pos": "phr.",
-     "en": "to suddenly become frightened and unable to continue confidently.",
-     "zh": "失去胆量、慌了神。nerve 是「神经、胆量」，lose one's nerve 就是「怂了、慌了」。tech investors lost their nerve，科技投资者们信心动摇了。<br>补充：（本文特指：画面感很强——本来还镇定的投资者，突然慌了。这个短语和「have the nerve to do」胆敢做某事 同源，都跟「胆量」有关。）<br>核心搭配：lose one's nerve、have the nerve to、get on one's nerves",
-     "ctx": "",
-     "ex1": "Investors lost their nerve during the sell-off. 抛售潮中，投资者们慌了神。",
-     "ex2": "I almost lost my nerve at the last minute. 我最后一刻差点退缩。"
-    },
-    {
-     "w": "so-called",
-     "ipa": "/ˌsəʊ ˈkɔːld/",
-     "pos": "adj.",
-     "en": "used to show that you think a word or name is not accurate or appropriate.",
-     "zh": "所谓的。带一点调侃、质疑的口气——「那场被大家叫做『软件股末日』的抛售」。作者用 so-called，是在暗示「这个名字有点夸张，但大家就这么叫」。<br>补充：（本文特指：so-called 后面常跟一个带引号的称号，语气里往往藏着作者的不以为然。注意它和「所谓的」中文一样，要带点「打引号」的感觉。）<br>核心搭配：so-called、the so-called、a so-called expert",
-     "ctx": "",
-     "ex1": "The so-called SaaSpocalypse shook the sector. 那场所谓的「SaaS 大灾难」震动了整个板块。",
-     "ex2": "This so-called expert got everything wrong. 这位所谓的专家全都说错了。"
-    },
-    {
-     "w": "SaaSpocalypse",
-     "ipa": "/sɑːsəˈpɒkəlɪps/",
-     "pos": "n. (coinage)",
-     "en": "a blend of \"SaaS\" and \"apocalypse\", meaning a catastrophic crash in software stocks.",
-     "zh": "SaaS 大灾难。作者自己造的词：SaaS（Software as a Service，软件即服务，指 Salesforce、Adobe 这类靠订阅收费的软件公司）+ apocalypse（世界末日、大灾变），拼成 SaaSpocalypse，即「软件股的末日」。<br>补充：（本文特指：这种把两个词拼成一个新词的玩法，叫拼合词 portmanteau。类似的还有 brunch（breakfast+lunch 早午餐）、smog（smoke+fog 雾霾）。so-called SaaSpocalypse software sell-off，「被戏称为『SaaS 大崩塌』的软件股抛售潮」。）<br>核心搭配：a sell-off、a portmanteau、apocalypse、a market sell-off",
-     "ctx": "",
-     "ex1": "The SaaSpocalypse hit software stocks hard. 那场「SaaS 大崩塌」重创了软件股。",
-     "ex2": "\"Brunch\" is a portmanteau of breakfast and lunch. Brunch 是 breakfast 和 lunch 的拼合词。"
-    },
-    {
-     "w": "sell-off",
-     "ipa": "/ˈsel ɒf/",
-     "pos": "n.",
-     "en": "a situation in which many investors sell their shares quickly, causing prices to fall.",
-     "zh": "抛售（潮）。就是大家恐慌性甩卖股票，导致股价下跌。the so-called SaaSpocalypse software sell-off，那场「软件股末日」式的抛售。<br>补充：（本文特指：sell-off 是名词，动词短语是 sell off（甩卖）。市场术语里，比 sell-off 更狠的还有 crash（崩盘）、rout（惨跌）。这一段讲的就是：黄仁勋在那场恐慌里，出来当了「啦啦队长」稳场。）<br>核心搭配：a sell-off、a market sell-off、trigger a sell-off、panic selling",
-     "ctx": "",
-     "ex1": "The sell-off wiped billions off the index. 这场抛售让指数蒸发了数十亿。",
-     "ex2": "A panic sell-off swept through tech stocks. 一场恐慌性抛售席卷了科技股。"
-    }
-   ]
-  },
-  {
-   "en_html": "<mark class=\"voc\">Fortunately</mark> there are plenty of <mark class=\"voc\">templates</mark> for <mark class=\"voc\">reducing dependency on</mark> a CEO. Companies such as Morgan Stanley, Amazon and Apple made successful <mark class=\"voc\">chiefs</mark> into <mark class=\"voc\">chairs</mark> while successors <mark class=\"voc\">found their footing</mark>. Look too at Google DeepMind founder Demis Hassabis, who just stepped back from his role as CEO to instead become chair, giving him more space to think about the AI <mark class=\"voc\">big picture</mark>.",
-   "zh": "所幸，要降低对某一位 CEO 的依赖，现成的范本不胜枚举。摩根士丹利、亚马逊、苹果等公司，都曾让功成名就的首席执行官转任董事长，令继任者得以站稳脚跟。再看谷歌 DeepMind 创始人德米斯·哈萨比斯，他刚刚卸下 CEO 一职，转任董事长，从而留出更多空间，去思考 AI 的宏大格局。",
-   "notes": [
-    {
-     "w": "fortunately",
-     "ipa": "/ˈfɔːtʃənətli/",
-     "pos": "adv.",
-     "en": "luckily; in a way that is good or helpful.",
-     "zh": "好在、幸运的是。就这么一个句首副词，你注意——气氛开始变了。前面四段越听越沉重，到这里一个 Fortunately，笔锋一转，告诉你：别慌，这事儿有解。<br>补充：（本文特指：评论文章里，这种「句首转折副词」是给读者的信号灯——我要切换情绪了。看到 Fortunately、Luckily、However，就要知道下文要转方向。）<br>核心搭配：fortunately、unfortunately、fortunately for us",
-     "ctx": "",
-     "ex1": "Fortunately, there are ways to fix this. 好在，这件事有办法解决。",
-     "ex2": "Unfortunately, the problem got worse. 不幸的是，问题更严重了。"
-    },
-    {
-     "w": "template",
-     "ipa": "/ˈtempleɪt/",
-     "pos": "n.",
-     "en": "a model or pattern that can be copied or used as a guide.",
-     "zh": "模板、范例。plenty of templates，「现成的模板多得是」——怎么解决「太依赖一个人」？别人家早就有现成方案了，抄作业就行。<br>补充：（本文特指：template 原义是「样板、模具」，引申为「可以照搬的范例」。作者的意思是：降低对 CEO 的依赖，早就是一门成熟的操作，有大量先例可循。）<br>核心搭配：a template for、follow a template、a model、a blueprint",
-     "ctx": "",
-     "ex1": "Other companies offer a template for succession. 其他公司提供了交接班的范例。",
-     "ex2": "Use this plan as a template. 把这份计划当模板用。"
-    },
-    {
-     "w": "reduce dependency on",
-     "ipa": "/rɪˈdjuːs dɪˈpendənsi ɒn/",
-     "pos": "phr.",
-     "en": "to make something less dependent on someone or something.",
-     "zh": "降低对……的依赖。注意 dependency 和标题里的 reliant 是同源的——标题是 too reliant on，这里是 dependency on，前后呼应。reduce「减少、降低」。<br>补充：（本文特指：reduce dependency on a CEO，「降低对一位 CEO 的依赖」。这正是全文的核心主张——怎么把「单点故障」的风险降下来。）<br>核心搭配：reduce dependency on、dependence on、rely on、cut reliance",
-     "ctx": "",
-     "ex1": "The goal is to reduce dependency on a single person. 目标是降低对单一个人的依赖。",
-     "ex2": "The country wants to reduce its dependency on oil. 这个国家想降低对石油的依赖。"
-    },
-    {
-     "w": "chief",
-     "ipa": "/tʃiːf/",
-     "pos": "n.",
-     "en": "a leader or ruler; the person with the highest position in an organisation.",
-     "zh": "一把手、头儿。这里 made successful chiefs into chairs 里的 chiefs，就是指 CEO（一把手）。chief 本义「首领」，chief executive 就是「首席执行者」。<br>补充：（本文特指：chiefs 和 chairs 两个词都是 ch 开头，读起来「叮当」一声——又一处头韵（alliteration），和第 1 段的 fortunes and foibles 呼应。英式评论就爱这种文字上的小机灵。）<br>核心搭配：a chief、chief executive、a tribal chief、the chief of staff",
-     "ctx": "",
-     "ex1": "The company made its successful chief into chair. 公司让功成名就的一把手转任董事长。",
-     "ex2": "He was the chief of a fast-growing start-up. 他是一家快速成长初创公司的一把手。"
-    },
-    {
-     "w": "chair",
-     "ipa": "/tʃeə(r)/",
-     "pos": "n.",
-     "en": "short for chairman or chairwoman — the person who leads a company's board of directors.",
-     "zh": "董事长（chairman 的简称）。注意它和 CEO 的分工——CEO 是干活的「运动员」，chairman 是主持董事会、监督制衡管理层的「裁判员」。<br>补充：（本文特指：make successful chiefs into chairs（把成功的 CEO 变成董事长），make A into B 是「把 A 变成 B」。很多人以为「从 CEO 转董事长」是升官，其实方向相反——CEO 管日常运营，chairman 主持董事会、监督管理层。这是「体面的权力交接」：让老人退到董事会镇场子、传经验，把日常权力交给接班人。）<br>核心搭配：become chair、step down to chair、the chair of the board、chairman",
-     "ctx": "",
-     "ex1": "He stepped back from CEO to become chair. 他从 CEO 退下来，转任董事长。",
-     "ex2": "The chair leads the board's oversight of management. 董事长主持董事会对管理层的监督。"
-    },
-    {
-     "w": "find one's footing",
-     "ipa": "/faɪnd wʌnz ˈfʊtɪŋ/",
-     "pos": "phr.",
-     "en": "to leave an important job or position, or to reduce your involvement in day-to-day work.",
-     "zh": "退居、卸下日常职务。字面「往后退一步」，这里指从日常经营的一线退下来。who just stepped back from his role as CEO 是个定语从句，who 指代哈萨比斯。<br>补充：（本文特指：注意 just——「刚刚」。哈萨比斯是 2025 年 8 月卸任 DeepMind CEO、转任董事长兼 Alphabet 首席科学家的，是当年刚发生的新鲜案例，作者拿它当「最新模板」，特别有说服力。）<br>核心搭配：step back from、step down、step aside、hand over",
-     "ctx": "",
-     "ex1": "The new CEO took time to find his footing. 新 CEO 花了一段时间才站稳脚跟。",
-     "ex2": "She lost her footing and stumbled. 她脚下打滑，踉跄了一下。"
-    },
-    {
-     "w": "big picture",
-     "ipa": "/bɪɡ ˈpɪktʃə(r)/",
-     "pos": "n.",
-     "en": "the overall situation or most important aspects of something, rather than the details.",
-     "zh": "大局、全局。字面「大图景」，反义是 details（细节）。一个人管日常运营，天天陷在细节里；退下来当董事长，就是把鸡毛蒜皮交出去，把脑子空出来，专门想「AI 未来往哪走」这种大事。<br>补充：（本文特指：哈萨比斯宣布转任时，本人原话是「so that I have the time and space to focus on the big picture」（这样我才有时间和空间专注大局）——跟文章里的 think about the AI big picture 几乎一字不差。这说明作者不是编的，他连人家本人的原话都吃透了。）<br>核心搭配：the big picture、see the big picture、focus on the big picture、look at the big picture",
-     "ctx": "",
-     "ex1": "Step back and look at the big picture. 退一步，看看全局。",
-     "ex2": "Managers often lose sight of the big picture. 管理者常常忘了全局。"
-    }
-   ]
-  },
-  {
-   "en_html": "<mark class=\"voc\">Even if</mark> Nvidia isn't prepared to <mark class=\"voc\">countenance</mark> Huang leaving his CEO <mark class=\"voc\">post</mark>, many companies have de facto <mark class=\"voc\">number-two spots</mark> — presidents and <mark class=\"voc\">chief operating officers</mark>, say — that ensure investors know there's someone <mark class=\"voc\">on hand</mark> if <mark class=\"voc\">the boss</mark> <mark class=\"voc\">collides with a bus</mark>. Nvidia should do that too.",
-   "zh": "即便英伟达尚不愿容忍黄仁勋卸任 CEO 之位，许多公司都设有「事实上的」二把手——诸如总裁、首席运营官之职——以此让投资者安心：即便老板突遭不测，也随时有人可以顶上。英伟达，也当如此。",
-   "notes": [
-    {
-     "w": "even if",
-     "ipa": "/ˈiːvn ɪf/",
-     "pos": "conj.",
-     "en": "used to say that something will happen or be true whether or not another thing happens.",
-     "zh": "即使、即便。引导让步状语从句——「即便英伟达还不愿……」。作者先退一步（哪怕你不舍得让黄仁勋走），再给出折中方案（那至少设个二把手）。<br>补充：（本文特指：even if 和 even though 的区别——even if 是「就算」（假设），even though 是「虽然」（事实）。这里是 even if，因为「英伟达不愿让黄仁勋走」是作者推测的立场，不是既定事实。）<br>核心搭配：even if、even though、even so",
-     "ctx": "",
-     "ex1": "Even if you keep the CEO, appoint a number two. 就算你留住 CEO，也该设个二把手。",
-     "ex2": "We will proceed even if it is difficult. 即便困难，我们也要推进。"
-    },
-    {
-     "w": "countenance",
-     "ipa": "/ˈkaʊntənəns/",
-     "pos": "v.",
-     "en": "existing in fact, even if not officially recognised or legally established.",
-     "zh": "事实上的。这是拉丁语，直接搬进英语。de（依据、关于）+ facto（事实），「依据事实的」。和它成对的是 de jure /ˌdeɪ ˈdʒʊəri/（法律上的、名义上的）。<br>补充：（本文特指：区分——de facto 是「事实上的」（这对夫妻没领证，但同居十年，是 de facto 夫妻）；de jure 是「法律上的」（法律上他名义上负责）。de facto number-two spots，「事实上的二把手」——没写进组织架构图，但大家都知道那个人是二当家。）<br>核心搭配：de facto、de jure、a de facto leader、the de facto standard",
-     "ctx": "",
-     "ex1": "The board refused to countenance his departure. 董事会拒绝接受他的离开。",
-     "ex2": "I will not countenance such behaviour. 我绝不容忍这种行为。"
-    },
-    {
-     "w": "post",
-     "ipa": "/pəʊst/",
-     "pos": "n.",
-     "en": "a job or position in an organisation.",
-     "zh": "职位、岗位。这里不是「帖子」，是「职位」。CEO post，「CEO 这个职位」。工作、岗位，正式一点就叫 post。<br>补充：（本文特指：post 一词多义——职位（a teaching post）、邮件（the post）、柱子（a fence post）、发布（post a message）。这里取「职位」义。近义词 position、job、role。）<br>核心搭配：a senior post、leave one's post、take up a post、a post",
-     "ctx": "",
-     "ex1": "He has held the CEO post for three decades. 他担任 CEO 一职已有三十年。",
-     "ex2": "She was appointed to the post of finance director. 她被任命为财务总监。"
-    },
-    {
-     "w": "number-two spot",
-     "ipa": "/ˈnʌmbə tuː spɒt/",
-     "pos": "n.",
-     "en": "the second most important position in an organisation.",
-     "zh": "二把手的位置。number two「二号」，spot「位置」。de facto number-two spots，「事实上的二把手位置」——比如总裁（president）、首席运营官（COO）。<br>补充：（本文特指：后面破折号里的 presidents and chief operating officers, say 是插入语，举例解释「二把手」具体指哪些职位。say 在这里不是「说」，是插入语，意思是「比如说、譬如」。）<br>核心搭配：a number-two spot、the number two、play second fiddle",
-     "ctx": "",
-     "ex1": "Every strong company needs a number-two spot. 每家公司都需要一个二把手位置。",
-     "ex2": "He was promoted to the number-two role. 他升任二把手。"
-    },
-    {
-     "w": "COO",
-     "ipa": "/ˌsiː əʊ ˈəʊ/",
-     "pos": "n.",
-     "en": "Chief Operating Officer — the executive responsible for a company's day-to-day operations.",
-     "zh": "首席运营官。chief operating officer 的缩写。和 CEO（掌全局、定方向）不同，COO 管日常运营、执行。president（总裁）和 COO 都是典型的「二把手」职位。<br>补充：（本文特指：这就是作者给的「解药」——设一个实质上的二把手，让投资者知道「万一老板出意外，有人能顶上」。这恰恰是把英伟达的 bus factor（见下条）从 1 往上抬。）<br>核心搭配：the COO、chief operating officer、a president and COO",
-     "ctx": "",
-     "ex1": "She serves as president and COO. 她担任总裁兼首席运营官。",
-     "ex2": "The COO runs daily operations. 首席运营官负责日常运营。"
-    },
-    {
-     "w": "on hand",
-     "ipa": "/ɒn hænd/",
-     "pos": "phr.",
-     "en": "available and ready to be used or to help.",
-     "zh": "在手边、随时可用、在场。someone on hand，「随时待命、招之即来的人」。that ensure investors know there's someone on hand，「让投资者知道随时有人能顶上」。<br>补充：（本文特指：on hand 和 at hand、in hand 要分清——on hand 是「随时可用」，at hand 是「在手边/临近」，in hand 是「在掌控中」。这里的 on hand 强调「招之即来」。）<br>核心搭配：be on hand、have someone on hand、on hand to help",
-     "ctx": "",
-     "ex1": "There is always a deputy on hand. 总有一个副手随时待命。",
-     "ex2": "A doctor was on hand in case of emergency. 有一名医生在场以备不时之需。"
-    },
-    {
-     "w": "bus factor",
-     "ipa": "/bʌs ˈfæktə(r)/",
-     "pos": "n.",
-     "en": "the number of people who would need to be \"hit by a bus\" before a project or company collapses.",
-     "zh": "巴士系数。软件工程、项目管理里的概念——一个团队，得「撞」掉几个关键人物，项目才会彻底瘫痪？这个数字就是 bus factor。<br>补充：（本文特指：说人话——你的团队，得「撞」掉几个人才会瘫痪？bus factor 是 5，说明五个人都懂都能扛，很健康；是 1，就危险了，只有一个人不可替代。回头看英伟达——黄仁勋管 60 个下属、没接班人、董事会全是他 30 年老伙计，它的 bus factor 是 1。这家四万多亿美元的公司，撞掉黄仁勋一个人就瘫。这就是「单点故障」最直白的样子，和全文灵魂词完美闭环。）<br>核心搭配：the bus factor、a low bus factor、single point of failure",
-     "ctx": "",
-     "ex1": "A bus factor of one is a serious risk. 「巴士系数」为一，是严重风险。",
-     "ex2": "Hiring a deputy raises the team's bus factor. 招个副手能抬高团队的「巴士系数」。"
-    },
-    {
-     "w": "collide with a bus",
-     "ipa": "/kəˈlaɪd wɪð ə bʌs/",
-     "pos": "phr.",
-     "en": "a humorous euphemism for a key person suddenly dying or becoming unable to work.",
-     "zh": "被公交车撞了。collide with 是「撞上」。这是英美商界心照不宣的黑色幽默——说一个人「突然出意外、干不了了」，不直接说 death，而说 hit by a bus「被公交车撞了」。<br>补充：（本文特指：翻译成人话就是「万一老板哪天人没了，总得有人能顶上」。用「被公交撞」委婉说「突然没了」，这就是英式冷幽默——用最轻的话，讲最重的事，呼应前面 travails 那种英式腔调。）<br>核心搭配：collide with、hit by a bus、in case of emergency",
-     "ctx": "",
-     "ex1": "Who takes over if the boss is hit by a bus? 万一老板突遭不测，谁来接班？",
-     "ex2": "The plan assumes a key person could be hit by a bus. 这个方案假设关键人物可能突然离场。"
-    }
-   ]
-  },
-  {
-   "en_html": "It's also time to think about whether the <mark class=\"voc\">oversight</mark> foisted on <mark class=\"voc\">banks</mark> — long regarded as <mark class=\"voc\">essential social infrastructure</mark> — should apply to big tech companies. <mark class=\"voc\">Lenders</mark> such as JPMorgan, with regulators <mark class=\"voc\">breathing down their necks</mark>, <mark class=\"voc\">have no choice but to</mark> build in <mark class=\"voc\">contingency plans</mark>. Nvidia is <mark class=\"voc\">nowhere near as complicated as</mark> a <mark class=\"voc\">Wall Street bank</mark>, but it is becoming similarly <mark class=\"voc\">systemic</mark>. It would not be a surprise to see that <mark class=\"voc\">on the new Congress's agenda</mark> in 2027.",
-   "zh": "如今，也是时候思考：长久以来被视作关键社会基础设施的银行，其头上那套「强加」的监管，是否也该套用到科技巨头身上。像摩根大通这样的放贷机构，在监管者如影随形的紧盯之下，别无选择，只能未雨绸缪、建好应急预案。英伟达固然远没有华尔街银行那般盘根错节，却正变得同样「系统重要」。若在 2027 年新一届国会的议程上看到这一议题，也丝毫不令人意外。",
-   "notes": [
-    {
-     "w": "oversight",
-     "ipa": "/ˈəʊvəsaɪt/",
-     "pos": "n.",
-     "en": "to force someone to accept something they do not want.",
-     "zh": "把（不受欢迎的东西）强加给。foist something on someone，「把某样东西硬塞给某人」。作者不说「银行接受的监管」，说「强加在银行头上的监管」——一个 foisted on，就点出银行打心底不想要这套监管，是被逼接受的。<br>补充：（本文特指：这个词是贬义的。作者用它，态度就藏在这儿了——他其实在说：监管这东西，谁都不想要，但该管还是得管。一个动词，立场全出。）<br>核心搭配：foist something on someone、be foisted on、impose on",
-     "ctx": "",
-     "ex1": "Banks operate under close regulatory oversight. 银行在严密的监管下运营。",
-     "ex2": "Failing to test it was a serious oversight. 没有测试它，是个严重的疏忽。"
-    },
-    {
-     "w": "living will",
-     "ipa": "/ˈlɪvɪŋ wɪl/",
-     "pos": "n.",
-     "en": "in finance, a plan for how a bank would be wound down safely if it failed.",
-     "zh": "生前遗嘱。字面是「活人的遗嘱」——人没死先立好遗嘱，银行也得这么干：提前写清楚「万一我要倒了，怎么体面地、不拖累别人地清算」。<br>补充：（本文特指：这是 2008 年后监管的创举，要求系统重要性银行「未雨绸缪」。和上面 contingency plan 一脉相承——都是「没出事，先想好出事怎么办」。这个词把全文「单点故障→应急预案」的线索，落到了金融监管的具体操作上。）<br>核心搭配：a living will、resolution planning、wind down",
-     "ctx": "",
-     "ex1": "Systemic banks must file living wills. 系统重要性银行必须提交「生前遗嘱」。",
-     "ex2": "The bank's living will describes an orderly wind-down. 这家银行的生前遗嘱描述了一种有序清算。"
-    },
-    {
-     "w": "essential social infrastructure",
-     "ipa": "/ɪˈsenʃl ˈsəʊʃl ˈɪnfrəstrʌktʃə(r)/",
-     "pos": "phr.",
-     "en": "a system or service so important that society cannot function without it.",
-     "zh": "关键社会基础设施。infrastructure 是「基础设施」——公路、电网、自来水，社会没它们就没法运转。作者说银行就是 essential social infrastructure，跟水电煤一样，是社会离不开的「命脉」。<br>补充：（本文特指：为什么强调这个？因为一个东西一旦是「基础设施」，就意味着「不能随便倒」——公路塌了不行，电网断了不行，银行倒了更不行。这是为后面「大而不能倒」的类比埋的伏笔。）<br>核心搭配：essential infrastructure、critical infrastructure、social infrastructure、public infrastructure",
-     "ctx": "",
-     "ex1": "Banks are regarded as essential social infrastructure. 银行被视为关键的社会基础设施。",
-     "ex2": "The power grid is critical infrastructure. 电网是关键基础设施。"
-    },
-    {
-     "w": "lender",
-     "ipa": "/ˈlendə(r)/",
-     "pos": "n.",
-     "en": "a person or organisation that lends money.",
-     "zh": "银行、贷款机构。lend（借出）+ -er，lender 是「借出钱的人」——银行就是「借钱给别人的人」，所以 lender 常用来指银行。<br>补充：（本文特指：Lenders such as JPMorgan，「像摩根大通这样的放贷机构」。用 lender 而不用 bank，强调银行的「放贷」这一本质功能——它欠着千家万户的存款，连着成千上万企业的贷款。）<br>核心搭配：a lender、a mortgage lender、lenders、borrowers and lenders",
-     "ctx": "",
-     "ex1": "Major lenders must hold extra capital. 大型放贷机构必须持有额外资本。",
-     "ex2": "The lender tightened its lending standards. 这家银行收紧了放贷标准。"
-    },
-    {
-     "w": "breathing down one's neck",
-     "ipa": "/ˈbriːðɪŋ daʊn wʌnz nek/",
-     "pos": "phr.",
-     "en": "watching someone very closely, in a way that makes them feel pressured.",
-     "zh": "死死盯着、如影随形。字面「对着你的脖子喘气」——有个人就站在你身后，紧贴着你，他的呼吸你后脖子都能感觉到。regulators breathing down their necks，「监管者死死盯着他们的后脖子」。<br>补充：（本文特指：这是很生动的「身体隐喻」，形容「被紧盯、被施压」。写作用它，比 watch closely 有画面感得多。）<br>核心搭配：breathe down someone's neck、have someone breathing down your neck",
-     "ctx": "",
-     "ex1": "Banks work with regulators breathing down their necks. 银行在监管者的紧盯下运营。",
-     "ex2": "The deadline is next week, and the boss is breathing down my neck. 截止日就在下周，老板盯我盯得紧。"
-    },
-    {
-     "w": "have no choice but to...",
-     "ipa": "/həv nəʊ tʃɔɪs bʌt tə/",
-     "pos": "phr.",
-     "en": "to be forced to do something because there is no other option.",
-     "zh": "别无选择，只能……。固定句型。have no choice but to build in contingency plans，「别无选择，只能建好应急预案」——监管压着，不建不行。<br>补充：（本文特指：类似表达还有 have no option but to、can't help but do。这个句型语气很「无奈」，正好呼应前面 foisted on 的「不情愿」。）<br>核心搭配：have no choice but to、have no option but to、be left with no choice",
-     "ctx": "",
-     "ex1": "Banks have no choice but to plan for failure. 银行别无选择，只能为失败做预案。",
-     "ex2": "We had no choice but to cut costs. 我们别无选择，只能削减成本。"
-    },
-    {
-     "w": "contingency plan",
-     "ipa": "/kənˈtɪndʒənsi plæn/",
-     "pos": "n.",
-     "en": "a plan for dealing with a possible future emergency or failure.",
-     "zh": "应急预案。contingency 是「意外事件、突发情况」，contingency plan 就是「万一出事的应对方案」。build in「内置、建立」。<br>补充：（本文特指：这是 2008 金融危机后，监管给「大而不能倒」银行上的紧箍咒之一——必须提前想好「万一我倒了怎么体面清算」。下面 too big to fail 会展开。）<br>核心搭配：a contingency plan、plan for contingencies、a backup plan",
-     "ctx": "",
-     "ex1": "Regulators require banks to have contingency plans. 监管要求银行制定应急预案。",
-     "ex2": "We need a contingency plan in case of a crash. 我们需要一份应对崩盘的预案。"
-    },
-    {
-     "w": "nowhere near as... as...",
-     "ipa": "/ˈnəʊweə nɪə(r) æz... æz/",
-     "pos": "phr.",
-     "en": "not nearly as much or as good as something; far less than.",
-     "zh": "远不如、远没有……那么……。nowhere near 字面「离……还差得远」。nowhere near as complicated as，「远没有……那么复杂」——英伟达远没有华尔街银行那般盘根错节。<br>补充：（本文特指：这是个「先让步、再转折」的句式——承认英伟达没银行复杂，但（but）它正变得同样系统重要。让步之后的重心，落在 but 后面。）<br>核心搭配：nowhere near as... as...、not nearly as... as...",
-     "ctx": "",
-     "ex1": "Nvidia is nowhere near as complex as a Wall Street bank. 英伟达远没有华尔街银行那么复杂。",
-     "ex2": "The problem is nowhere near as simple as it looks. 问题远没有看上去那么简单。"
-    },
-    {
-     "w": "too big to fail",
-     "ipa": "/tuː bɪɡ tə feɪl/",
-     "pos": "phr.",
-     "en": "so large and important that its failure would be catastrophic, so it must be supported.",
-     "zh": "大而不能倒。2008 金融危机后最著名的概念——有些银行已经大到「不能倒」，因为一倒就是整个金融系统跟着崩。<br>补充：（本文特指：背景是 2008 年雷曼兄弟倒闭引爆全球金融海啸。危机后监管给这些「系统重要性银行」上了三道紧箍咒：① 提前写好「生前遗嘱」living wills（怎么体面清算、不拖累别人）；② 留够压箱底的资本；③ 一举一动被监管死盯。作者的意思是：英伟达也正在变成「too big to fail」，那是不是该被同样地管起来？）<br>核心搭配：too big to fail、a bailout、systemically important",
-     "ctx": "",
-     "ex1": "Some banks were deemed too big to fail. 一些银行被认为「大到不能倒」。",
-     "ex2": "The \"too big to fail\" doctrine shaped modern regulation. 「大而不能倒」的理念塑造了现代监管。"
-    },
-    {
-     "w": "systemic",
-     "ipa": "/sɪˈstemɪk/",
-     "pos": "adj.",
-     "en": "affecting the whole of a system, organisation, or economy, rather than just a part.",
-     "zh": "系统性的、全局性的。注意别跟 systematic 搞混——systematic 是「有条理的、按部就班的」（做事有系统方法）；systemic 是「系统性的」（影响整个系统、牵一发动全身）。一个讲「做事方法」，一个讲「影响范围」。<br>补充：（本文特指：becoming similarly systemic，「正变得同样系统重要」。翻译成人话就是——英伟达正在变成科技界的「大而不能倒」。它一倒，不只是它一家的事，会拖垮整个市场、AI 产业链、你我的养老金。）<br>核心搭配：systemic risk、systemically important、a systemic problem",
-     "ctx": "",
-     "ex1": "Nvidia is becoming systemically important. 英伟达正变得「系统重要」。",
-     "ex2": "The crisis revealed systemic weaknesses. 这场危机暴露了系统性的弱点。"
-    },
-    {
-     "w": "on the agenda",
-     "ipa": "/ɒn ði əˈdʒendə/",
-     "pos": "phr.",
-     "en": "planned to be discussed or dealt with.",
-     "zh": "在议程上、被提上日程。agenda「议程」。on the new Congress's agenda，「在新一届国会的议程上」。<br>补充：（本文特指：注意作者的委婉——It would not be a surprise to see that...，「如果看到……也不意外」。他不说「一定会发生」，说「如果发生我也不惊讶」。这种留余地的说法，跟前文 may have been 的分寸感一脉相承，是新闻评论的「不把话说死」。）<br>核心搭配：on the agenda、high on the agenda、set the agenda",
-     "ctx": "",
-     "ex1": "Regulating big tech is now on the agenda. 监管科技巨头如今已提上日程。",
-     "ex2": "Tax reform is high on the new agenda. 税改是新议程的重中之重。"
-    }
-   ]
-  },
-  {
-   "en_html": "Investors already seem to be <mark class=\"voc\">contemplating</mark> a less <mark class=\"voc\">Nvidia-centric</mark> world. <mark class=\"voc\">Shares</mark> in <mark class=\"voc\">rival</mark> AMD rose 12 per cent on Monday; <mark class=\"voc\">upstart</mark> chipmaker Cerebras was up 5 per cent. Customers <mark class=\"voc\">move more slowly than</mark> markets, but Huang's <mark class=\"voc\">slip-up</mark> gives them, too, a prod. Whatever the consequences, his <mark class=\"voc\">predicament</mark> is <mark class=\"voc\">a helpful reminder</mark> that a single point of failure is never a good thing.",
-   "zh": "投资者似乎已在设想一个「不那么以英伟达为中心」的世界：竞争对手 AMD 的股价周一大涨 12%，芯片新贵 Cerebras 亦上扬 5%。客户的反应往往比市场迟缓，但黄仁勋此番失足，也给了他们一记轻轻的催促。无论最终结局如何，他的这场困境都是一次有益的提醒——单点故障，从来都不是一件好事。",
-   "notes": [
-    {
-     "w": "contemplate",
-     "ipa": "/ˈkɒntəmpleɪt/",
-     "pos": "v.",
-     "en": "to think about something seriously and for a long time.",
-     "zh": "认真考虑、郑重盘算。比 think about 正式得多——think about 是「随便想想」，contemplate 是「郑重其事地盘算」。Investors seem to be contemplating，「投资者似乎已在认真设想」。<br>补充：（本文特指：seem to be doing 是「似乎正在做」，带一种观察、推测的口吻——作者从股价走势里，读出投资者的心态。）<br>核心搭配：contemplate a future、contemplate doing、contemplate the possibility",
-     "ctx": "",
-     "ex1": "Investors are contemplating a world with less reliance on one firm. 投资者在设想一个不再那么依赖一家公司的世界。",
-     "ex2": "He is contemplating retirement. 他在认真考虑退休。"
-    },
-    {
-     "w": "-centric",
-     "ipa": "/ˈsentrɪk/",
-     "pos": "suffix",
-     "en": "centred on or focused on a particular thing or person.",
-     "zh": "以……为中心的。高频构词后缀——China-centric（以中国为中心的）、user-centric（以用户为中心的）、customer-centric（以客户为中心的）。Nvidia-centric，「以英伟达为中心的」。<br>补充：（本文特指：a less Nvidia-centric world，「一个不那么以英伟达为中心的世界」。注意这个 less——作者没说「没有英伟达的世界」，而是「没那么依赖英伟达的世界」，分寸拿捏得很准。）<br>核心搭配：-centric、customer-centric、user-centric、China-centric",
-     "ctx": "",
-     "ex1": "The market is moving toward a less Nvidia-centric world. 市场正走向一个不那么以英伟达为中心的世界。",
-     "ex2": "Good design is user-centric. 好的设计以用户为中心。"
-    },
-    {
-     "w": "shares",
-     "ipa": "/ʃeəz/",
-     "pos": "n. (pl.)",
-     "en": "units of ownership in a company, which can be bought and sold.",
-     "zh": "股票、股份。shares 是「股票」最常见的英式说法，美式多说 stock。Shares in rival AMD rose 12 per cent，「竞争对手 AMD 的股价上涨了 12%」。<br>补充：（本文特指：rise 的过去式 rose「上涨」，反义词 fall/fell「下跌」。注意表达股价涨跌：shares rose / shares jumped / shares tumbled。）<br>核心搭配：shares in、share price、buy shares、shares rose",
-     "ctx": "",
-     "ex1": "Shares in AMD rose sharply on the news. 消息一出，AMD 股价大涨。",
-     "ex2": "The share price fell to a record low. 股价跌到了历史新低。"
-    },
-    {
-     "w": "rival",
-     "ipa": "/ˈraɪvl/",
-     "pos": "n.",
-     "en": "a person or company competing with another for the same thing.",
-     "zh": "竞争对手。rival AMD，「竞争对手 AMD」——英伟达在 GPU 芯片上的头号对手。<br>补充：（本文特指：on Monday「周一」，就是第 2 段那个 Sunday 的第二天——黄仁勋周日道歉，周一开盘市场就用脚投票。前后时间线在这里扣上了。）<br>核心搭配：a rival、a rival company、arch-rival、rivalry",
-     "ctx": "",
-     "ex1": "Shares in its main rival jumped. 其主要竞争对手的股价大涨。",
-     "ex2": "The two firms are fierce rivals. 这两家公司是死对头。"
-    },
-    {
-     "w": "upstart",
-     "ipa": "/ˈʌpstɑːt/",
-     "pos": "n.",
-     "en": "a person or company that has recently become successful or powerful.",
-     "zh": "后起之秀、新贵。字面 up（向上）+ start（起步），「突然冒出来的」。早年带点贬义（「暴发户」），现在中性多了，就是「新近蹿红的公司」。upstart chipmaker Cerebras，「芯片新贵 Cerebras」。<br>补充：（本文特指：Cerebras 是做 AI 芯片的后起之秀，专做「全球最大」的巨型芯片，2026 年 5 月才刚在纳斯达克上市，妥妥的 upstart。作者用 upstart，和前面的巨头英伟达形成「新老」对比——市场正在给「没有英伟达」的选项投票。）<br>核心搭配：an upstart、an upstart company、a brash upstart",
-     "ctx": "",
-     "ex1": "The upstart chipmaker is gaining ground. 这家芯片新贵正在抢占份额。",
-     "ex2": "A few upstarts are challenging the giants. 几家新贵正在挑战巨头。"
-    },
-    {
-     "w": "move more slowly than...",
-     "ipa": "/muːv mɔː ˈsləʊli ðən/",
-     "pos": "phr.",
-     "en": "to react or change more slowly than something else.",
-     "zh": "比……反应慢。Customers move more slowly than markets，「客户的反应比市场慢」——这是个值得抄下来的对比句式：A move more slowly than B。<br>补充：（本文特指：股价一天就能涨跌，但「客户」（那些买英伟达芯片的公司）决策慢得多——换供应商不是一天的事，要评估、测试、签合同。作者用这个对比，说明「市场先动，客户随后」，改变正在一层层传导。）<br>核心搭配：move more slowly than、react slowly、lag behind",
-     "ctx": "",
-     "ex1": "Customers move more slowly than markets. 客户的反应比市场慢。",
-     "ex2": "Regulators usually lag behind markets. 监管者通常落后于市场。"
-    },
-    {
-     "w": "slip-up",
-     "ipa": "/ˈslɪp ʌp/",
-     "pos": "n.",
-     "en": "a push or poke; something that encourages or urges you to act.",
-     "zh": "轻轻一推、催促。give someone a prod，「推某人一把、催一下」。作者说，黄仁勋的失误给了这些客户「一记轻推」——本来客户还在犹豫要不要分散供应链，这一下，被推着开始认真考虑了。<br>补充：（本文特指：prod 作动词本义是「用手指戳」，引申为「催促、促使」。gives them, too, a prod，「也给了他们一记催促」——这个 too，呼应前面「市场已经动了」，现在客户也被推着动起来了。）<br>核心搭配：give someone a prod、prod someone into、a gentle prod",
-     "ctx": "",
-     "ex1": "The CEO's slip-up cost the company billions. 这位 CEO 的「小失误」让公司损失了数十亿。",
-     "ex2": "One small slip-up ruined the whole deal. 一个小小的失误毁掉了整笔交易。"
-    },
-    {
-     "w": "predicament",
-     "ipa": "/prɪˈdɪkəmənt/",
-     "pos": "n.",
-     "en": "an unpleasant situation that is difficult to get out of.",
-     "zh": "困境、窘境。his predicament，「他的这场困境」。比 problem、trouble 更书面，强调「陷进去、难脱身」的处境。<br>补充：（本文特指：最后一句 his predicament is a helpful reminder that a single point of failure is never a good thing，跟副标题几乎一模一样——副标题是 single point of failure is never a good thing for a big company，结尾是 a single point of failure is never a good thing。这就是评论文章最标准的收尾手法——首尾呼应，把核心概念像钉子一样最后再敲一遍。）<br>核心搭配：a predicament、be in a predicament、a difficult predicament",
-     "ctx": "",
-     "ex1": "His predicament is a warning to every big company. 他的困境是对每家巨头的一记警钟。",
-     "ex2": "She found herself in an awkward predicament. 她陷入了一种尴尬的困境。"
-    },
-    {
-     "w": "echo",
-     "ipa": "/ˈekəʊ/",
-     "pos": "v.",
-     "en": "to repeat an idea or statement, so that it appears again in a similar form.",
-     "zh": "呼应、回响。这是英文评论文章最标准的收尾手法——开头点题，结尾回扣，把核心概念像钉子一样最后再敲一遍。这篇文章开头副标题点出 single point of failure is never a good thing，结尾又把这句原样敲一遍，形成闭环。<br>补充：（本文特指：echo 本义是「回声」，引申为「呼应、重复」。首尾呼应的英文说法就是 echo the opening / bookend the piece。全篇的收束逻辑——从一个 CEO 的八卦，一路升到「单点故障从来不是好事」这个朴素的道理，没有愤怒、没有煽情，只告诉你：别把命押在一个点上。）<br>核心搭配：echo the theme、echo the opening、a call-back、bookend the piece",
-     "ctx": "",
-     "ex1": "The final line echoes the subtitle. 最后一句呼应了副标题。",
-     "ex2": "The essay bookends with the same idea. 这篇文章首尾呼应同一个观点。"
-    }
-   ]
-  }
- ],
- "proper": [],
- "sources_note": "依据英国《金融时报》（Financial Times）观点评论；早安英文深度外刊精讲系列课第七讲。",
- "practice": {},
- "mindmap": {
-  "aria": "",
-  "alt": "",
-  "svg": "",
-  "img": ""
- },
- "audio": true,
- "audio_dir": "audio/2026-11-12_002",
- "print_compact": true
+  "audio": true,
+  "audio_dir": "audio/2026-11-12_002",
+  "print_compact": true
 }

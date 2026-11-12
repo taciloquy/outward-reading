@@ -1,0 +1,834 @@
+{
+  "date": "2026-10-20",
+  "title_tag": "法国爆发近年来最严重的街头骚乱震惊世界！为什么法国人总在抗议？ —— 法国《世界报》外刊讲解第1203天",
+  "h1": "法国爆发近年来最严重的街头骚乱震惊世界！为什么法国人总在抗议？",
+  "source_label": "Le Monde",
+  "category": "法国《世界报》外刊讲解 第1203天",
+  "read_minutes": 12,
+  "nav_hint": "France's Street Unrest",
+  "headline": {
+    "en_html": "October 17 French protests: Crowds <mark class=\"voc\">marched through</mark> the streets before violence, <mark class=\"voc\">looting</mark> and <mark class=\"voc\">chaos</mark> <mark class=\"voc\">broke out</mark>",
+    "zh": "法国爆发近年来最严重的街头骚乱震惊世界！为什么法国人总在抗议？",
+    "notes": [
+      {
+        "w": "march through",
+        "ipa": "/mɑːtʃ θruː/",
+        "pos": "v.",
+        "en": "to walk together through a place, often as part of a public demonstration",
+        "zh": "列队穿过，游行经过",
+        "ctx": "大批法国民众走上街头，举行抗议游行",
+        "ex1": "Thousands of teachers marched through the capital to demand higher salaries. 数千名教师在首都举行游行，要求提高工资。",
+        "ex2": "The demonstrators marched through the historic district carrying banners and singing songs. 示威者举着横幅、唱着歌曲，列队穿过历史街区。"
+      },
+      {
+        "w": "looting",
+        "ipa": "/ˈluːtɪŋ/",
+        "pos": "n.",
+        "en": "the act of stealing goods from shops or buildings, especially during riots or disasters",
+        "zh": "抢劫，哄抢，趁乱洗劫",
+        "ctx": "部分人在抗议期间趁乱洗劫商店、抢走商品的行为",
+        "ex1": "Widespread looting forced dozens of local businesses to close temporarily. 大规模哄抢迫使数十家当地商铺暂时停业。",
+        "ex2": "The authorities deployed additional officers to prevent looting after the earthquake. 地震发生后，当局增派警力以防止趁乱抢劫。"
+      },
+      {
+        "w": "chaos",
+        "ipa": "/ˈkeɪɒs/",
+        "pos": "n.",
+        "en": "a state of complete confusion and disorder",
+        "zh": "混乱，无序状态",
+        "ctx": "法国抗议现场因暴力冲突、纵火和抢劫而出现的混乱局面",
+        "ex1": "The sudden cancellation of hundreds of flights threw the airport into chaos. 数百架航班突然取消，使机场陷入一片混乱。",
+        "ex2": "Without clear instructions, the emergency evacuation quickly descended into chaos. 由于缺乏明确指示，紧急疏散很快陷入混乱。"
+      },
+      {
+        "w": "break out",
+        "ipa": "/breɪk aʊt/",
+        "pos": "v.",
+        "en": "to begin suddenly, especially when referring to violence, war, fire or something unpleasant",
+        "zh": "突然爆发，突然发生",
+        "ctx": "游行过程中突然爆发暴力冲突、抢劫和混乱",
+        "ex1": "Fighting broke out between rival supporters after the football match. 足球比赛结束后，双方球迷之间突然爆发了斗殴。",
+        "ex2": "A mysterious illness broke out in the remote village during the summer. 夏季，这座偏远村庄突然暴发了一种神秘疾病。"
+      }
+    ]
+  },
+  "paragraphs": [
+    {
+      "en_html": "On Saturday, 800,000 people <mark class=\"voc\">took to the streets</mark> according to organizers, while Interior Minister Laurent Nuñez put the number at 550,000. The same pattern <mark class=\"voc\">played out</mark> in many cities: On one side, a crowd of peaceful protesters; on the other, independent groups determined to <mark class=\"voc\">clash with</mark> the police. While <mark class=\"voc\">turnout</mark> across the country was massive, the protests were also <mark class=\"voc\">mar</mark>red by <mark class=\"voc\">unprecedented</mark> property damage, violence and looting. In France, several worlds seemed to have <mark class=\"voc\">collided</mark> over one long day.",
+      "zh": "周六，据组织者统计，约有80万人走上街头，而法国内政部长洛朗·努涅斯则将人数估计为55万。许多城市都上演了相同的场景：一边是和平示威的人群，另一边则是决心与警方发生冲突的独立团体。尽管全国各地的抗议活动参与人数众多，但这些示威也因前所未有的财产破坏、暴力行为和抢劫事件而蒙上阴影。在法国，仿佛几个截然不同的世界，在这漫长的一天里迎面碰撞。",
+      "notes": [
+        {
+          "w": "take to the streets",
+          "ipa": "/teɪk tə ðə striːts/",
+          "pos": "phr.",
+          "en": "to go into public streets in large numbers to protest or express an opinion",
+          "zh": "走上街头，举行示威",
+          "ctx": "数十万法国民众走上街头，参与大规模抗议活动",
+          "ex1": "Residents took to the streets after the government announced cuts to public healthcare. 政府宣布削减公共医疗开支后，居民纷纷走上街头抗议。",
+          "ex2": "Thousands of young people took to the streets to demand stronger action on climate change. 数千名年轻人走上街头，要求采取更有力的措施应对气候变化。"
+        },
+        {
+          "w": "play out",
+          "ipa": "/pleɪ aʊt/",
+          "pos": "v.",
+          "en": "to happen or develop in a particular way, especially over a period of time",
+          "zh": "发生，上演，逐渐展开",
+          "ctx": "和平游行与暴力冲突并存的场景在法国多个城市反复上演",
+          "ex1": "A similar political drama played out in several European countries during the election season. 选举期间，类似的政治戏码在多个欧洲国家上演。",
+          "ex2": "Nobody could have predicted how the negotiations would play out over the following weeks. 没有人能够预料接下来几周的谈判会如何发展。"
+        },
+        {
+          "w": "clash with",
+          "ipa": "/klæʃ wɪð/",
+          "pos": "v.",
+          "en": "to fight or come into violent conflict with another person or group",
+          "zh": "与……发生冲突，与……激烈对抗",
+          "ctx": "部分激进团体决心与警方发生正面冲突",
+          "ex1": "Protesters clashed with security forces outside the government building. 抗议者在政府大楼外与安全部队发生冲突。",
+          "ex2": "Two rival groups clashed with each other during the public gathering. 两个对立团体在公众集会期间发生了冲突。"
+        },
+        {
+          "w": "turnout",
+          "ipa": "/ˈtɜːnaʊt/",
+          "pos": "n.",
+          "en": "the number of people who attend an event or take part in an activity",
+          "zh": "出席人数，参与人数",
+          "ctx": "法国全国范围内参加抗议活动的民众人数",
+          "ex1": "The charity concert attracted a much larger turnout than the organizers had expected. 这场慈善音乐会的到场人数远超组织者预期。",
+          "ex2": "Heavy rain contributed to a disappointing turnout at the outdoor festival. 大雨导致这场户外节日活动的参与人数不尽如人意。"
+        },
+        {
+          "w": "mar",
+          "ipa": "/mɑː(r)/",
+          "pos": "v.",
+          "en": "to spoil or damage something good, pleasant or successful",
+          "zh": "破坏，损害，使……蒙上阴影",
+          "ctx": "暴力、财产破坏和抢劫事件给大规模抗议活动蒙上了阴影",
+          "ex1": "The team's historic victory was marred by allegations of cheating. 这支球队历史性的胜利因作弊指控而蒙上阴影。",
+          "ex2": "What should have been a joyful wedding was marred by a bitter family argument. 一场本应充满欢乐的婚礼被激烈的家庭争吵破坏了气氛。"
+        },
+        {
+          "w": "unprecedented",
+          "ipa": "/ʌnˈpresɪdentɪd/",
+          "pos": "adj.",
+          "en": "never having happened, existed or been experienced before",
+          "zh": "前所未有的，史无前例的",
+          "ctx": "抗议期间出现了规模前所未有的财产破坏",
+          "ex1": "The country experienced unprecedented economic growth following the introduction of new reforms. 新改革实施后，该国经历了前所未有的经济增长。",
+          "ex2": "Scientists warned that the region was facing an unprecedented shortage of fresh water. 科学家警告称，该地区正面临前所未有的淡水短缺。"
+        },
+        {
+          "w": "collide",
+          "ipa": "/kəˈlaɪd/",
+          "pos": "v.",
+          "en": "to crash into something or come into strong conflict with another idea, interest or group",
+          "zh": "碰撞，冲突，发生激烈对立",
+          "ctx": "比喻和平抗议者、激进团体以及不同社会群体在同一天发生激烈碰撞",
+          "ex1": "The two vehicles collided at a busy intersection during the morning rush hour. 早高峰期间，两辆汽车在一个繁忙的十字路口相撞。",
+          "ex2": "Traditional values often collide with modern expectations in rapidly changing societies. 在快速变化的社会中，传统价值观常常与现代观念发生冲突。"
+        }
+      ]
+    },
+    {
+      "en_html": "The roots of the protests <mark class=\"voc\">stretched back to</mark> September, when calls for demonstrations against rising fuel prices began <mark class=\"voc\">circulating</mark> on social media. Meanwhile, high school students were protesting teacher shortages, <mark class=\"voc\">overcrowded</mark> classrooms and poor school conditions. The <mark class=\"voc\">unrest</mark> also <mark class=\"voc\">revived</mark> memories of the Yellow Vest movement, which began in 2018 as a protest against fuel taxes before growing into a broader <mark class=\"voc\">rebellion</mark> against economic inequality and President Emmanuel Macron’s government. Behind these different <mark class=\"voc\">grievances</mark> lay a deeper frustration: many French people felt <mark class=\"voc\">squeezed</mark> by rising living costs, disappointed by public services and increasingly <mark class=\"voc\">distrustful</mark> of political leaders. Students, workers and Yellow Vest <mark class=\"voc\">veterans</mark> saw an opportunity to unite their separate struggles.",
+      "zh": "这场抗议活动的根源可以追溯到9月，当时，社交媒体上开始流传反对燃油价格上涨的示威号召。与此同时，高中生也在抗议教师短缺、教室过度拥挤以及学校条件恶劣等问题。这场社会动荡还唤起了人们对“黄背心运动”的记忆。该运动始于2018年，最初是为了抗议燃油税，随后逐渐演变为一场范围更广、反对经济不平等和埃马纽埃尔·马克龙政府的反抗运动。在这些不同的不满诉求背后，隐藏着一种更深层次的挫败感：许多法国人感到生活成本不断上涨，令自己不堪重负；他们对公共服务感到失望，也越来越不信任政治领导人。学生、工人以及曾经参加“黄背心运动”的老成员们，看到了将各自的抗争联合起来的机会。",
+      "notes": [
+        {
+          "w": "stretch back to",
+          "ipa": "/stretʃ bæk tə/",
+          "pos": "v.",
+          "en": "to have begun or existed since a particular time in the past",
+          "zh": "追溯到，始于",
+          "ctx": "这场大规模抗议的起因可以追溯到9月",
+          "ex1": "The university's history stretches back to the early seventeenth century. 这所大学的历史可以追溯到17世纪初。",
+          "ex2": "Their disagreement stretches back to a business deal that went wrong ten years ago. 他们之间的分歧可以追溯到十年前一笔失败的商业交易。"
+        },
+        {
+          "w": "circulate",
+          "ipa": "/ˈsɜːkjəleɪt/",
+          "pos": "v.",
+          "en": "to spread or pass information, news or ideas from person to person",
+          "zh": "传播，流传，散布",
+          "ctx": "反对燃油价格上涨的示威号召开始在社交媒体上传播",
+          "ex1": "Rumours about the company's financial problems began circulating among employees. 有关公司财务问题的传闻开始在员工之间流传。",
+          "ex2": "A video showing the unusual weather phenomenon circulated widely online. 一段展示罕见天气现象的视频在网上广泛传播。"
+        },
+        {
+          "w": "overcrowded",
+          "ipa": "/ˌəʊvəˈkraʊdɪd/",
+          "pos": "adj.",
+          "en": "containing more people or things than a place can comfortably hold",
+          "zh": "过度拥挤的，挤满人的",
+          "ctx": "法国部分高中教室学生过多，教学空间拥挤",
+          "ex1": "Overcrowded hospitals are struggling to provide adequate care for patients. 人满为患的医院正艰难地为患者提供充分的医疗服务。",
+          "ex2": "The city introduced additional bus services to reduce pressure on overcrowded trains. 该市增开公交线路，以缓解拥挤列车的运输压力。"
+        },
+        {
+          "w": "unrest",
+          "ipa": "/ʌnˈrest/",
+          "pos": "n.",
+          "en": "a situation in which people are angry or dissatisfied and may protest or become violent",
+          "zh": "社会动荡，骚乱，不安",
+          "ctx": "法国因经济和社会问题引发的持续抗议与社会动荡",
+          "ex1": "Political unrest forced several international companies to suspend operations in the region. 政治动荡迫使多家跨国公司暂停在该地区的业务。",
+          "ex2": "Rising food prices have contributed to growing social unrest in several countries. 食品价格上涨加剧了多个国家日益严重的社会动荡。"
+        },
+        {
+          "w": "revive",
+          "ipa": "/rɪˈvaɪv/",
+          "pos": "v.",
+          "en": "to bring something back into existence, use or people's memories",
+          "zh": "使复苏，重新唤起，使再度出现",
+          "ctx": "新的抗议浪潮重新唤起人们对2018年“黄背心运动”的记忆",
+          "ex1": "The documentary revived public interest in a forgotten historical event. 这部纪录片重新唤起了公众对一段被遗忘历史事件的兴趣。",
+          "ex2": "The government introduced new measures to revive the struggling tourism industry. 政府出台新措施，以振兴陷入困境的旅游业。"
+        },
+        {
+          "w": "rebellion",
+          "ipa": "/rɪˈbeljən/",
+          "pos": "n.",
+          "en": "organized resistance or opposition to a government, authority or established system",
+          "zh": "反抗，反叛，反抗运动",
+          "ctx": "“黄背心运动”从反对燃油税扩大为针对经济不平等和政府的社会反抗运动",
+          "ex1": "The new tax policy sparked a widespread rebellion among small business owners. 新税收政策引发了小企业主的广泛反抗。",
+          "ex2": "The novel tells the story of a young woman's rebellion against strict family traditions. 这部小说讲述了一名年轻女性反抗严苛家族传统的故事。"
+        },
+        {
+          "w": "grievance",
+          "ipa": "/ˈɡriːvəns/",
+          "pos": "n.",
+          "en": "a complaint or feeling of unfair treatment, especially one that causes anger or dissatisfaction",
+          "zh": "不满，委屈，申诉，抱怨",
+          "ctx": "法国不同群体对物价、教育、公共服务和经济不平等问题的不满与诉求",
+          "ex1": "Employees submitted a formal grievance over unfair working conditions. 员工就不公平的工作条件提出了正式申诉。",
+          "ex2": "The mayor held a public meeting to listen to residents' grievances about housing costs. 市长召开公众会议，听取居民对住房成本的不满。"
+        },
+        {
+          "w": "squeeze",
+          "ipa": "/skwiːz/",
+          "pos": "v.",
+          "en": "to put someone under financial pressure by making it difficult for them to afford things",
+          "zh": "挤压，使承受经济压力",
+          "ctx": "不断上涨的生活成本使许多法国人的经济状况日益紧张",
+          "ex1": "Higher mortgage payments are squeezing middle-income families across the country. 更高的房贷支出正使全国各地的中等收入家庭承受经济压力。",
+          "ex2": "Small restaurants are being squeezed by rising rents and expensive ingredients. 房租上涨和食材成本高企正在挤压小餐馆的生存空间。"
+        },
+        {
+          "w": "distrustful",
+          "ipa": "/dɪsˈtrʌstfl/",
+          "pos": "adj.",
+          "en": "not willing to trust someone or something because of doubts about their honesty or reliability",
+          "zh": "不信任的，怀疑的",
+          "ctx": "越来越多法国民众对政治领导人的诚信和执政能力失去信任",
+          "ex1": "Many voters have become distrustful of politicians who repeatedly break their promises. 许多选民已经不再信任那些屡次违背承诺的政客。",
+          "ex2": "Consumers are increasingly distrustful of advertisements that make unrealistic claims. 消费者越来越不信任那些作出不切实际宣传的广告。"
+        },
+        {
+          "w": "veteran",
+          "ipa": "/ˈvetərən/",
+          "pos": "n.",
+          "en": "a person who has had a great deal of experience in a particular activity or movement",
+          "zh": "老手，资深参与者，老成员",
+          "ctx": "曾参与2018年“黄背心运动”、拥有抗议经验的老成员",
+          "ex1": "Veterans of the environmental movement helped younger activists organize the campaign. 环保运动的资深成员帮助年轻活动人士组织了这场行动。",
+          "ex2": "As a veteran of the film industry, she has witnessed enormous changes in cinema. 作为电影行业的资深从业者，她见证了电影业的巨大变化。"
+        }
+      ]
+    },
+    {
+      "en_html": "Responding to a <mark class=\"voc\">call to action</mark> that notably cited the rising cost of living, but also building on the <mark class=\"voc\">momentum</mark> of the high school student protest movement that began in late September, Saturday’s demonstrations aimed to create a “<mark class=\"voc\">convergence</mark> of struggles” between various groups, ranging from “Yellow Vests” to high school students, several professional <mark class=\"voc\">sectors</mark>, left-wing political leaders and <mark class=\"voc\">trade unions</mark>.",
+      "zh": "周六的示威活动既是对一项特别提及生活成本上涨问题的行动号召的回应，也是借助了9月下旬开始的高中生抗议运动所积累的声势。示威者希望推动不同群体的“抗争汇合”，让“黄背心”成员、高中生、多个职业领域的从业者、左翼政治领导人以及工会组织联合起来，共同表达诉求。",
+      "notes": [
+        {
+          "w": "call to action",
+          "ipa": "/ˌkɔːl tə ˈækʃn/",
+          "pos": "n.",
+          "en": "a statement or message that encourages people to take action to achieve a particular goal",
+          "zh": "行动号召，动员呼吁",
+          "ctx": "组织者发出的参与抗议、反对生活成本上涨的行动号召",
+          "ex1": "The scientist's speech was a powerful call to action on environmental protection. 这位科学家的演讲是一次强有力的环保行动号召。",
+          "ex2": "The campaign ended with a call to action urging citizens to register to vote. 这场活动以呼吁公民登记投票的行动号召结束。"
+        },
+        {
+          "w": "momentum",
+          "ipa": "/məˈmentəm/",
+          "pos": "n.",
+          "en": "the force or energy that allows an activity or process to continue developing or becoming stronger",
+          "zh": "势头，动力，发展动能",
+          "ctx": "9月下旬高中生抗议运动逐渐积累起来的社会声势和推动力",
+          "ex1": "The opposition party gained momentum after winning several important local elections. 反对党在赢得几场重要的地方选举后，声势逐渐增强。",
+          "ex2": "The research project lost momentum when its main source of funding disappeared. 这项研究项目在失去主要资金来源后，发展势头逐渐减弱。"
+        },
+        {
+          "w": "convergence",
+          "ipa": "/kənˈvɜːdʒəns/",
+          "pos": "n.",
+          "en": "the process of different people, ideas or activities coming together toward a common point or purpose",
+          "zh": "汇合，趋同，融合",
+          "ctx": "原本诉求不同的社会群体试图联合起来，形成共同的抗议力量",
+          "ex1": "The conference encouraged a convergence of ideas from scientists, artists and business leaders. 这场会议促进了科学家、艺术家和商业领袖之间不同思想的融合。",
+          "ex2": "The convergence of several political movements created a powerful force for reform. 几场政治运动的汇合形成了一股强大的改革力量。"
+        },
+        {
+          "w": "sector",
+          "ipa": "/ˈsektə(r)/",
+          "pos": "n.",
+          "en": "a particular part of a country's economy, society or area of activity",
+          "zh": "行业，部门，领域",
+          "ctx": "参与抗议活动的多个职业行业和社会领域",
+          "ex1": "The healthcare sector is facing a serious shortage of qualified workers. 医疗行业正面临合格从业人员严重短缺的问题。",
+          "ex2": "Investment in the renewable energy sector has increased significantly over the past decade. 过去十年，可再生能源领域的投资显著增长。"
+        },
+        {
+          "w": "trade union",
+          "ipa": "/ˌtreɪd ˈjuːniən/",
+          "pos": "n.",
+          "en": "an organization of workers that protects their rights and represents their interests",
+          "zh": "工会，工会组织",
+          "ctx": "参与法国抗议活动、代表劳动者权益的工会组织",
+          "ex1": "The trade union demanded better safety standards for workers in the construction industry. 工会要求改善建筑行业工人的安全标准。",
+          "ex2": "Several trade unions joined forces to negotiate higher wages with employers. 多个工会联合起来，与雇主就提高工资展开谈判。"
+        }
+      ]
+    },
+    {
+      "en_html": "At exactly 10 am, outside Gare Saint-Lazare train station, one Yellow Vest <mark class=\"voc\">summed up</mark> his <mark class=\"voc\">twofold</mark> ambition for the day: “First, the revolution, but also to sleep in Macron’s bed.” He said this with a mixture of humor and seriousness, going on to <mark class=\"voc\">denounce</mark> capitalism, the <mark class=\"voc\">bourgeoisie</mark>, the police and the cost of living. Everyone in his <mark class=\"voc\">entourage</mark> <mark class=\"voc\">chimed in</mark> <mark class=\"voc\">relentlessly</mark>, listing their demands, frustrations and anger, until their conversation was <mark class=\"voc\">abruptly</mark> cut short when a BRAV-M motorcycle police unit suddenly <mark class=\"voc\">barged in</mark> and <mark class=\"voc\">descended on</mark> the group.",
+      "zh": "上午10点整，在圣拉扎尔火车站外，一名“黄背心”抗议者概括了自己当天的双重目标：“首先是革命，不过我还想睡到马克龙的床上去。”他说这番话时，语气中既带着幽默，又透着认真。随后，他开始抨击资本主义、资产阶级、警察以及高昂的生活成本。周围的同伴也接连加入讨论，滔滔不绝地列举各自的诉求、不满和愤怒。直到一支BRAV-M摩托车警察部队突然闯入，向这群人逼近，他们的谈话才戛然而止。",
+      "notes": [
+        {
+          "w": "sum up",
+          "ipa": "/sʌm ʌp/",
+          "pos": "v.",
+          "en": "to express the most important facts or ideas about something in a few words",
+          "zh": "总结，概括，归纳",
+          "ctx": "一名“黄背心”抗议者用一句话概括自己当天的两个目标",
+          "ex1": "The professor summed up the entire lecture in three simple sentences. 教授用三个简单的句子概括了整堂讲座的内容。",
+          "ex2": "Her experience can be summed up in one word: unforgettable. 她的经历可以用一个词来概括：难忘。"
+        },
+        {
+          "w": "twofold",
+          "ipa": "/ˈtuːfəʊld/",
+          "pos": "adj.",
+          "en": "having two different parts, purposes or aspects",
+          "zh": "双重的，包含两个方面的",
+          "ctx": "这名抗议者当天既想推动革命，又想闯入马克龙的私人生活空间",
+          "ex1": "The government's strategy has a twofold purpose: reducing unemployment and encouraging investment. 政府的战略有双重目的：降低失业率和鼓励投资。",
+          "ex2": "The benefits of regular exercise are twofold: it improves physical health and reduces stress. 定期锻炼有双重好处：既能改善身体健康，又能缓解压力。"
+        },
+        {
+          "w": "denounce",
+          "ipa": "/dɪˈnaʊns/",
+          "pos": "v.",
+          "en": "to publicly criticize or strongly condemn someone or something",
+          "zh": "公开谴责，强烈抨击",
+          "ctx": "抗议者公开抨击资本主义、资产阶级、警方以及高昂的生活成本",
+          "ex1": "Human rights organizations denounced the government's decision to restrict press freedom. 人权组织强烈谴责政府限制新闻自由的决定。",
+          "ex2": "The actor used his acceptance speech to denounce discrimination in the entertainment industry. 这位演员利用获奖感言公开谴责娱乐行业中的歧视现象。"
+        },
+        {
+          "w": "bourgeoisie",
+          "ipa": "/ˌbʊəʒwɑːˈziː/",
+          "pos": "n.",
+          "en": "the middle or upper-middle social class, especially those who own property or capital",
+          "zh": "资产阶级，中产阶级",
+          "ctx": "抗议者所抨击的、被视为掌握财富和资本的社会阶层",
+          "ex1": "The novel explores the growing tensions between industrial workers and the bourgeoisie. 这部小说探讨了产业工人与资产阶级之间日益加剧的矛盾。",
+          "ex2": "The rise of the bourgeoisie transformed European society during the nineteenth century. 资产阶级的崛起改变了19世纪的欧洲社会。"
+        },
+        {
+          "w": "entourage",
+          "ipa": "/ˈɒnturɑːʒ/",
+          "pos": "n.",
+          "en": "a group of people who accompany or surround an important person or someone taking part in an activity",
+          "zh": "随行人员，随从，身边的一群人",
+          "ctx": "围在这名“黄背心”抗议者身边、与他一起表达诉求的同伴",
+          "ex1": "The famous singer arrived at the hotel surrounded by a large entourage. 这位著名歌手在一大群随行人员的簇拥下抵达酒店。",
+          "ex2": "The visiting diplomat and his entourage were escorted to the conference hall. 来访的外交官及其随行人员被护送至会议大厅。"
+        },
+        {
+          "w": "chime in",
+          "ipa": "/tʃaɪm ɪn/",
+          "pos": "v.",
+          "en": "to join a conversation by adding a comment or expressing an opinion",
+          "zh": "插话，加入讨论，接着发表意见",
+          "ctx": "抗议者身边的同伴纷纷加入谈话，表达各自的不满和诉求",
+          "ex1": "When the discussion turned to education, several parents chimed in with their own experiences. 当讨论转向教育问题时，几位家长纷纷加入，分享自己的经历。",
+          "ex2": "Before the manager could finish explaining, one employee chimed in with a question. 经理还没解释完，一名员工就插话提出了一个问题。"
+        },
+        {
+          "w": "relentlessly",
+          "ipa": "/rɪˈlentləsli/",
+          "pos": "adv.",
+          "en": "in a way that continues without stopping or becoming less intense",
+          "zh": "不停地，持续不断地，毫不松懈地",
+          "ctx": "抗议者们接连不断地诉说自己的诉求、不满与愤怒",
+          "ex1": "The journalist relentlessly questioned officials about the missing public funds. 这名记者不断追问官员有关公共资金失踪的问题。",
+          "ex2": "The company worked relentlessly to improve the safety of its products. 这家公司坚持不懈地努力提高产品安全性。"
+        },
+        {
+          "w": "abruptly",
+          "ipa": "/əˈbrʌptli/",
+          "pos": "adv.",
+          "en": "suddenly and unexpectedly, often in a way that seems rude or unpleasant",
+          "zh": "突然地，出其不意地，唐突地",
+          "ctx": "警方突然出现，导致抗议者之间的谈话被猛然打断",
+          "ex1": "The interview ended abruptly when the politician refused to answer further questions. 当这位政客拒绝回答更多问题时，采访突然结束了。",
+          "ex2": "The train stopped abruptly, causing several passengers to lose their balance. 火车突然停下，导致几名乘客失去平衡。"
+        },
+        {
+          "w": "barge in",
+          "ipa": "/bɑːdʒ ɪn/",
+          "pos": "v.",
+          "en": "to enter a place or interrupt a conversation suddenly and rudely",
+          "zh": "突然闯入，冒失地打断",
+          "ctx": "摩托车警察部队突然强行闯入抗议者聚集的区域",
+          "ex1": "He barged into the meeting without knocking or asking for permission. 他既没有敲门，也没有征求许可，就突然闯进了会议室。",
+          "ex2": "The children barged in while their parents were discussing an important family matter. 父母正在讨论一件重要的家庭事务时，孩子们突然闯了进来。"
+        },
+        {
+          "w": "descend on",
+          "ipa": "/dɪˈsend ɒn/",
+          "pos": "v.",
+          "en": "to arrive at a place suddenly and in large numbers, often in a threatening or overwhelming way",
+          "zh": "突然涌向，突然袭来，蜂拥而至",
+          "ctx": "摩托车警察部队突然向这群抗议者逼近并展开行动",
+          "ex1": "Hundreds of journalists descended on the small town after the shocking discovery. 这一惊人发现传出后，数百名记者突然涌入这座小镇。",
+          "ex2": "Police officers descended on the warehouse after receiving reports of illegal activity. 警方接到非法活动的举报后，突然赶到这座仓库展开行动。"
+        }
+      ]
+    },
+    {
+      "en_html": "Several small <mark class=\"voc\">autonomous</mark> gatherings started forming in the morning. They aimed to head toward the Elysée Palace, the Place de la Concorde or the Opéra – basically, to push as far as possible. There was no official <mark class=\"voc\">procession</mark>, no leader, no truly defined objective, just <mark class=\"voc\">packs</mark> of individuals on the move, <mark class=\"voc\">light on their feet</mark>. “Strike, <mark class=\"voc\">blockade</mark>, wild protest!” <mark class=\"voc\">mask-clad</mark> people shouted as they <mark class=\"voc\">sprinted</mark> toward Avenue de l’Opéra. In Paris, the situation seemed to at least partially <mark class=\"voc\">slip out of control</mark> from the early afternoon, while, at the same time, taking on several different forms. Place de la République, the starting point for the official demonstration was <mark class=\"voc\">packed to bursting</mark>. Some violent and organized protesters began by attacking street furniture, then tried to break into the Republican Guard <mark class=\"voc\">barracks</mark>, set a car on fire and smashed things <mark class=\"voc\">left, right and center</mark>.",
+      "zh": "上午，几个小规模、自发组织的集会开始陆续形成。他们打算朝着爱丽舍宫、协和广场或歌剧院方向前进——说白了，就是尽可能向前推进。他们没有正式的游行队伍，没有领导者，也没有真正明确的目标，只有一群群四处移动、行动灵活的人。“罢工！封锁！自发抗议！”戴着面罩的人们一边高喊口号，一边朝歌剧院大道飞奔。到了下午早些时候，巴黎的局势似乎已经至少在一定程度上失去控制，而且混乱同时以多种不同形式蔓延。作为正式示威活动起点的共和国广场，早已被人群挤得水泄不通。一些有组织的暴力抗议者首先开始破坏街道公共设施，随后试图闯入共和国卫队营房，点燃一辆汽车，并四处打砸破坏。",
+      "notes": [
+        {
+          "w": "autonomous",
+          "ipa": "/ɔːˈtɒnəməs/",
+          "pos": "adj.",
+          "en": "independent and able to make decisions or operate without outside control",
+          "zh": "自主的，独立的，自治的",
+          "ctx": "没有统一领导、独立组织行动的小规模抗议集会",
+          "ex1": "The university operates as an autonomous institution with its own governing board. 这所大学作为一个拥有独立管理委员会的自治机构运作。",
+          "ex2": "Several autonomous community groups launched their own projects to improve local housing. 几个独立的社区组织分别启动了改善当地住房条件的项目。"
+        },
+        {
+          "w": "procession",
+          "ipa": "/prəˈseʃn/",
+          "pos": "n.",
+          "en": "a line of people or vehicles moving forward in an organized way, especially during a ceremony or public event",
+          "zh": "游行队伍，列队行进的人群",
+          "ctx": "这些自发抗议者没有统一组织的正式游行队伍",
+          "ex1": "A long procession of mourners followed the funeral vehicle through the village. 一长队送葬者跟随灵车穿过村庄。",
+          "ex2": "The annual festival features a colourful procession through the city centre. 每年的节日活动都会有一支色彩缤纷的游行队伍穿过市中心。"
+        },
+        {
+          "w": "pack",
+          "ipa": "/pæk/",
+          "pos": "n.",
+          "en": "a group of people or animals moving or acting together, often in an uncontrolled way",
+          "zh": "一群，一伙，一帮",
+          "ctx": "没有统一指挥、成群结队在街头移动的抗议者",
+          "ex1": "A pack of excited teenagers rushed toward the concert entrance. 一群兴奋的⻘ 少年冲向演唱会入口。",
+          "ex2": "The photographer was followed by a pack of reporters eager to hear his story. 一群急于听他讲述经历的记者紧跟在这名摄影师身后。"
+        },
+        {
+          "w": "light on one's feet",
+          "ipa": "/laɪt ɒn wʌnz fiːt/",
+          "pos": "phr.",
+          "en": "able to move quickly, easily and with agility",
+          "zh": "脚步轻快的，行动敏捷的",
+          "ctx": "抗议者行动灵活，能够迅速在不同街道之间移动",
+          "ex1": "Despite his age, the experienced dancer is still remarkably light on his feet. 尽管年事已高，这位经验丰富的舞者依然步伐轻盈。",
+          "ex2": "The young boxer stayed light on his feet to avoid his opponent's punches. 这位年轻拳击手保持灵活的步伐，以躲避对手的出拳。"
+        },
+        {
+          "w": "blockade",
+          "ipa": "/blɒˈkeɪd/",
+          "pos": "n.",
+          "en": "an action that prevents people, vehicles or goods from entering or leaving a place",
+          "zh": "封锁，阻断，封锁行动",
+          "ctx": "抗议者呼吁通过封锁道路等方式阻碍正常交通和社会运转",
+          "ex1": "Farmers organized a blockade of the main highway to protest against falling crop prices. 农民组织封锁主要公路，以抗议农产品价格下跌。",
+          "ex2": "The blockade prevented essential supplies from reaching the isolated community. 封锁阻止了基本生活物资运抵这个与外界隔绝的社区。"
+        },
+        {
+          "w": "mask-clad",
+          "ipa": "/ˈmɑːsk klæd/",
+          "pos": "adj.",
+          "en": "wearing a mask or having the face covered by a mask",
+          "zh": "戴着面罩的，蒙面的",
+          "ctx": "在巴黎街头高喊抗议口号、戴着面罩的示威者",
+          "ex1": "Mask-clad performers appeared on stage during the opening ceremony. 开幕式期间，戴着面具的表演者登上了舞台。",
+          "ex2": "Security cameras captured several mask-clad individuals entering the abandoned building. 监控摄像头拍下了几名蒙面人员进入废弃建筑的画面。"
+        },
+        {
+          "w": "sprint",
+          "ipa": "/sprɪnt/",
+          "pos": "v.",
+          "en": "to run as fast as possible over a short distance",
+          "zh": "冲刺，飞奔，快速奔跑",
+          "ctx": "戴着面罩的抗议者朝歌剧院大道快速奔跑",
+          "ex1": "She sprinted across the platform just in time to catch the departing train. 她飞奔穿过站台，刚好赶上即将开走的火车。",
+          "ex2": "The athlete sprinted toward the finish line as the crowd cheered wildly. 在观众热烈的欢呼声中，这名运动员向终点线全力冲刺。"
+        },
+        {
+          "w": "slip out of control",
+          "ipa": "/slɪp aʊt əv kənˈtrəʊl/",
+          "pos": "phr.",
+          "en": "to gradually become impossible to manage, control or contain",
+          "zh": "逐渐失控，脱离控制",
+          "ctx": "巴黎的抗议局势从下午早些时候开始逐渐失去控制",
+          "ex1": "What began as a minor disagreement quickly slipped out of control and turned into a serious argument. 一场原本轻微的分歧迅速失控，演变成了激烈争吵。",
+          "ex2": "The wildfire slipped out of control as strong winds pushed the flames toward nearby villages. 强风将火焰吹向附近村庄，导致野火逐渐失控。"
+        },
+        {
+          "w": "packed to bursting",
+          "ipa": "/pækt tə ˈbɜːstɪŋ/",
+          "pos": "phr.",
+          "en": "extremely full of people or things, with almost no space left",
+          "zh": "挤得水泄不通的，拥挤不堪的",
+          "ctx": "作为正式示威起点的共和国广场挤满了抗议人群",
+          "ex1": "The stadium was packed to bursting for the championship final. 冠军决赛当天，体育场内挤得水泄不通。",
+          "ex2": "The small café was packed to bursting with tourists seeking shelter from the rain. 这家小咖啡馆挤满了前来避雨的游客。"
+        },
+        {
+          "w": "barracks",
+          "ipa": "/ˈbærəks/",
+          "pos": "n.",
+          "en": "a building or group of buildings where soldiers live and work",
+          "zh": "军营，营房",
+          "ctx": "部分暴力抗议者试图闯入的法国共和国卫队营房",
+          "ex1": "The soldiers returned to their barracks after completing the training exercise. 士兵们完成训练演习后返回营房。",
+          "ex2": "The old military barracks were converted into affordable housing for local residents. 这座旧军营被改造成了供当地居民居住的保障性住房。"
+        },
+        {
+          "w": "left, right and center",
+          "ipa": "/left raɪt ənd ˈsentə(r)/",
+          "pos": "phr.",
+          "en": "in all directions or everywhere, often in large numbers or without discrimination",
+          "zh": "到处，四面八方，不分对象地",
+          "ctx": "部分暴力抗议者在街头四处打砸，肆意破坏",
+          "ex1": "During the company's financial crisis, employees were being laid off left, right and center. 在公司财务危机期间，员工被大规模裁撤。",
+          "ex2": "After the celebrity's controversial interview, criticism came from left, right and center. 这位名人的争议性采访播出后，批评声从四面八方涌来。"
+        }
+      ]
+    },
+    {
+      "en_html": "While it might not exactly have been the <mark class=\"voc\">much-heralded</mark> “convergence of struggles,” the march still brought together people from <mark class=\"voc\">all walks of life</mark>. Lucie and Thomas, who both just graduated from the <mark class=\"voc\">prestigious</mark> HEC business school, <mark class=\"voc\">proclaimed</mark> their support for the movement: “We are aware that we were <mark class=\"voc\">privileged</mark> students and we have a duty of <mark class=\"voc\">solidarity</mark>.”",
+      "zh": "尽管这场游行或许并没有真正实现此前被大力宣扬的“各方抗争汇合”，但它仍然汇聚了来自社会各行各业的人们。露西和托马斯刚刚从享有盛誉的HEC商学院毕业，两人公开表达了对这场运动的支持：“我们清楚，自己曾是享有优越条件的学生，因此我们有责任与他人团结在一起。”",
+      "notes": [
+        {
+          "w": "much-heralded",
+          "ipa": "/ˌmʌtʃ ˈherəldɪd/",
+          "pos": "adj.",
+          "en": "widely announced, praised or talked about before something happens",
+          "zh": "备受宣传的，被大力宣扬的，广受期待的",
+          "ctx": "此前被组织者广泛宣传、寄予厚望的“各方抗争汇合”",
+          "ex1": "The much-heralded economic reforms failed to deliver the promised improvements. 此前备受宣传的经济改革未能带来承诺中的改善。",
+          "ex2": "The much-heralded return of the famous singer attracted enormous media attention. 这位著名歌手备受期待的复出吸引了媒体的广泛关注。"
+        },
+        {
+          "w": "all walks of life",
+          "ipa": "/ɔːl wɔːks əv laɪf/",
+          "pos": "phr.",
+          "en": "people from many different social, economic or professional backgrounds",
+          "zh": "社会各界，各行各业，不同社会阶层",
+          "ctx": "参与抗议的人来自不同职业、经济背景和社会阶层",
+          "ex1": "The community festival welcomed visitors from all walks of life. 这场社区节日活动欢迎来自社会各界的游客。",
+          "ex2": "The charity has received support from people from all walks of life. 这家慈善机构得到了社会各界人士的支持。"
+        },
+        {
+          "w": "prestigious",
+          "ipa": "/preˈstɪdʒəs/",
+          "pos": "adj.",
+          "en": "respected and admired because of high quality, success or importance",
+          "zh": "享有盛誉的，声望很高的",
+          "ctx": "形容法国HEC商学院是一所享有很高社会声誉的精英商学院",
+          "ex1": "She received a scholarship to study at one of the country's most prestigious universities. 她获得了奖学金，前往该国最负盛名的大学之一深造。",
+          "ex2": "Winning the prestigious literary award transformed the young writer's career. 获得这项享有盛誉的文学奖彻底改变了这位年轻作家的职业生涯。"
+        },
+        {
+          "w": "proclaim",
+          "ipa": "/prəˈkleɪm/",
+          "pos": "v.",
+          "en": "to announce or declare something publicly and confidently",
+          "zh": "公开宣布，郑重声明，宣告",
+          "ctx": "两名HEC商学院毕业生公开表达对抗议运动的支持",
+          "ex1": "The newly elected president proclaimed that education would be his government's top priority. 新当选的总统郑重宣布，教育将成为政府的首要任务。",
+          "ex2": "The environmental organization proclaimed its commitment to protecting endangered species. 这家环保组织公开宣告了保护濒危物种的承诺。"
+        },
+        {
+          "w": "privileged",
+          "ipa": "/ˈprɪvəlɪdʒd/",
+          "pos": "adj.",
+          "en": "having special advantages, opportunities or benefits that most people do not have",
+          "zh": "享有特权的，条件优越的，拥有特殊优势的",
+          "ctx": "两名毕业生承认自己曾享有普通学生未必能够获得的优质教育资源和社会机会",
+          "ex1": "Children from privileged backgrounds often have greater access to educational opportunities. 来自优越家庭背景的孩子通常能够获得更多教育机会。",
+          "ex2": "He acknowledged that his privileged upbringing had protected him from many financial difficulties. 他承认，自己优越的成长环境使他免于面对许多经济困难。"
+        },
+        {
+          "w": "solidarity",
+          "ipa": "/ˌsɒlɪˈdærəti/",
+          "pos": "n.",
+          "en": "unity and mutual support among people who share common interests, goals or difficulties",
+          "zh": "团结，相互支持，休戚与共",
+          "ctx": "出身优越的学生认为自己有责任与面临社会经济困境的其他群体站在一起",
+          "ex1": "Workers expressed solidarity with their colleagues who had lost their jobs. 工人们向失去工作的同事表达了团结与支持。",
+          "ex2": "The international community showed solidarity with the disaster-stricken nation by providing emergency aid. 国际社会通过提供紧急援助，表达了与这个受灾国家同舟共济的立场。"
+        }
+      ]
+    },
+    {
+      "en_html": "The same pattern also played out in several other cities. On one side, large groups of <mark class=\"voc\">demonstrators</mark> marched in dozens of peaceful processions from Rennes (Brittany) to Toulouse (south), despite the <mark class=\"voc\">tensions</mark>. On the other, independent groups were determined to clash with the police.",
+      "zh": "类似的场景也在法国其他几座城市上演。一边是大批示威者，尽管局势紧张，仍然在从布列塔尼地区的雷恩到法国南部的图卢兹等城市，参加数十场和平游行；另一边，则是一些决心与警方发生冲突的独立团体。",
+      "notes": [
+        {
+          "w": "demonstrator",
+          "ipa": "/ˈdemənstreɪtə(r)/",
+          "pos": "n.",
+          "en": "a person who takes part in a public protest or demonstration",
+          "zh": "示威者，游行抗议者",
+          "ctx": "参加法国各地和平游行及抗议活动的民众",
+          "ex1": "Demonstrators gathered outside parliament to demand greater transparency in government spending. 示威者聚集在议会外，要求提高政府支出的透明度。",
+          "ex2": "Police asked demonstrators to remain peaceful and avoid blocking emergency vehicles. 警方要求示威者保持和平，避免阻挡紧急救援车辆。"
+        },
+        {
+          "w": "tension",
+          "ipa": "/ˈtenʃn/",
+          "pos": "n.",
+          "en": "a feeling or situation of anxiety, hostility or conflict between people or groups",
+          "zh": "紧张局势，紧张关系，对立情绪",
+          "ctx": "法国各地抗议者与警方之间持续存在的紧张和对立局势",
+          "ex1": "Tensions between the two neighbouring countries increased after the border incident. 边境事件发生后，这两个邻国之间的紧张关系加剧。",
+          "ex2": "The manager tried to ease tensions between employees following the controversial decision. 在这项引发争议的决定之后，经理试图缓和员工之间的紧张关系。"
+        }
+      ]
+    },
+    {
+      "en_html": "In the streets, groups of university and high school students, <mark class=\"voc\">toughened up</mark> by weeks of protest, <mark class=\"voc\">mingled with</mark> small groups that organized to <mark class=\"voc\">confront</mark> <mark class=\"voc\">law enforcement</mark> units. Protesters from <mark class=\"voc\">working-class</mark> neighborhoods were there, as well as a good number of looters who <mark class=\"voc\">could hardly believe their eyes</mark>: All the <mark class=\"voc\">opulence</mark> of Paris’s wealthy districts was suddenly <mark class=\"voc\">within reach</mark>, whether by hand or by hammer. “These neighborhoods are rich here. It’s all from the profits made off the suburbs,” shouted a very young man in the middle of a small group, as they <mark class=\"voc\">made their way</mark> near Rue Lafayette.",
+      "zh": "街头上，经历了数周抗议活动磨炼的大学生和高中生，与那些有组织地对抗执法部队的小团体混杂在一起。来自工人阶级社区的抗议者也出现在现场，还有数量不少的抢劫者，他们几乎不敢相信眼前的一切：巴黎富裕街区的种种奢华，如今突然变得触手可及——无论是伸手去拿，还是挥锤砸开。一个小团体中的年轻男子在经过拉法耶特街附近时高喊：“这里的街区都很富有。这些财富全都是靠从郊区赚取的利润积累起来的！”",
+      "notes": [
+        {
+          "w": "toughen up",
+          "ipa": "/ˈtʌfn ʌp/",
+          "pos": "v.",
+          "en": "to become stronger, more determined or better able to deal with difficult situations",
+          "zh": "变得坚强，得到磨炼，增强承受能力",
+          "ctx": "大学生和高中生经过数周抗议活动后，变得更加坚定，也更习惯于面对街头冲突",
+          "ex1": "Years of working in emergency medicine had toughened her up emotionally. 多年的急诊医疗工作让她在心理上变得更加坚强。",
+          "ex2": "The demanding training programme helped the young athletes toughen up before the competition. 严格的训练计划帮助年轻运动员在比赛前得到了磨炼。"
+        },
+        {
+          "w": "mingle with",
+          "ipa": "/ˈmɪŋɡl wɪð/",
+          "pos": "v.",
+          "en": "to mix or move among other people, often in a social situation",
+          "zh": "与……混在一起，与……交往，混杂于",
+          "ctx": "学生抗议者与有组织对抗警方的小团体混杂在街头人群中",
+          "ex1": "At the international conference, young researchers had the opportunity to mingle with leading scientists. 在这场国际会议上，年轻研究人员有机会与顶尖科学家交流。",
+          "ex2": "Tourists mingled with local residents at the crowded night market. 在拥挤的夜市里，游客与当地居民混杂在一起。"
+        },
+        {
+          "w": "confront",
+          "ipa": "/kənˈfrʌnt/",
+          "pos": "v.",
+          "en": "to face someone or something directly, especially in a challenging, hostile or difficult situation",
+          "zh": "直面，对抗，与……正面冲突",
+          "ctx": "部分有组织的小团体主动与执法人员发生正面对抗",
+          "ex1": "The journalist confronted the minister with evidence of corruption during the interview. 记者在采访中拿出腐败证据，当面质问这位部长。",
+          "ex2": "The company must confront the serious environmental consequences of its operations. 这家公司必须正视其经营活动造成的严重环境后果。"
+        },
+        {
+          "w": "law enforcement",
+          "ipa": "/ˌlɔː ɪnˈfɔːsmənt/",
+          "pos": "n.",
+          "en": "the activity or organizations responsible for making sure that laws are obeyed",
+          "zh": "执法，执法部门，执法机构",
+          "ctx": "在抗议现场维持秩序、应对冲突的警方等执法力量",
+          "ex1": "Local law enforcement agencies launched a joint investigation into the cybercrime network. 当地执法机构联合对这一网络犯罪组织展开调查。",
+          "ex2": "Effective law enforcement requires cooperation between the police and local communities. 有效执法需要警方与当地社区之间的合作。"
+        },
+        {
+          "w": "working-class",
+          "ipa": "/ˌwɜːkɪŋ ˈklɑːs/",
+          "pos": "adj.",
+          "en": "relating to people who typically earn wages through manual, industrial or lower-paid work",
+          "zh": "工人阶级的，劳动阶层的",
+          "ctx": "来自巴黎及周边工薪阶层社区的抗议者",
+          "ex1": "She grew up in a working-class neighbourhood where most families depended on factory jobs. 她在一个工人阶级社区长大，那里的大多数家庭依靠工厂工作维持生计。",
+          "ex2": "Rising housing prices have made it increasingly difficult for working-class families to remain in the city. 房价上涨使工薪阶层家庭越来越难以继续留在这座城市生活。"
+        },
+        {
+          "w": "could hardly believe one's eyes",
+          "ipa": "/kʊd ˈhɑːdli bɪˈliːv wʌnz aɪz/",
+          "pos": "phr.",
+          "en": "to be extremely surprised by something one sees",
+          "zh": "简直不敢相信自己的眼睛，目瞪口呆",
+          "ctx": "抢劫者看到巴黎富裕街区的奢侈商品近在眼前，感到难以置信",
+          "ex1": "When she opened the envelope and saw the scholarship offer, she could hardly believe her eyes. 当她打开信封看到奖学金录取通知时，简直不敢相信自己的眼睛。",
+          "ex2": "The villagers could hardly believe their eyes when snow began falling in the middle of summer. 当盛夏突然下起雪时，村民们简直不敢相信自己的眼睛。"
+        },
+        {
+          "w": "opulence",
+          "ipa": "/ˈɒpjələns/",
+          "pos": "n.",
+          "en": "great wealth, luxury and the display of expensive possessions or surroundings",
+          "zh": "奢华，富丽堂皇，豪奢生活",
+          "ctx": "巴黎富裕街区的豪华商店、昂贵商品以及随处可见的财富象征",
+          "ex1": "The opulence of the royal palace stood in sharp contrast to the poverty of the surrounding villages. 王宫的奢华与周边村庄的贫困形成鲜明对比。",
+          "ex2": "Visitors were amazed by the opulence of the hotel's marble halls and crystal chandeliers. 酒店的大理石大厅和水晶吊灯所展现出的奢华令游客惊叹不已。"
+        },
+        {
+          "w": "within reach",
+          "ipa": "/wɪˈðɪn riːtʃ/",
+          "pos": "phr.",
+          "en": "close enough to be touched, obtained or achieved",
+          "zh": "触手可及的，能够得到的，近在咫尺的",
+          "ctx": "巴黎富裕街区的奢侈商品突然变得可以直接接触甚至被抢走",
+          "ex1": "After years of hard work, her dream of becoming a doctor was finally within reach. 经过多年的努力，她成为医生的梦想终于触手可及。",
+          "ex2": "The company lowered its prices to bring electric vehicles within reach of ordinary families. 这家公司降低价格，让普通家庭也能够负担得起电动汽车。"
+        },
+        {
+          "w": "make one's way",
+          "ipa": "/meɪk wʌnz weɪ/",
+          "pos": "phr.",
+          "en": "to move or travel toward a particular place, often through a crowd or along a route",
+          "zh": "前往，向……行进，设法到达",
+          "ctx": "一小群抗议者沿着巴黎街道向拉法耶特街附近移动",
+          "ex1": "The hikers slowly made their way through the dense forest toward the mountain village. 徒步旅行者缓缓穿过茂密的森林，朝山村前进。",
+          "ex2": "After the concert, thousands of fans made their way toward the nearest subway station. 演唱会结束后，数千名歌迷纷纷朝最近的地铁站走去。"
+        }
+      ]
+    },
+    {
+      "en_html": "On several of Paris’s major <mark class=\"voc\">right bank</mark> streets, the same scenes, with the same violent acts, played out again and again. <mark class=\"voc\">Paving stones</mark> were thrown. Cars, trucks and construction vehicles were <mark class=\"voc\">set on fire</mark>. Starting from Madeleine, Kenzo, Salomon and Arc’teryx <mark class=\"voc\">boutiques</mark> had their windows smashed and shelves <mark class=\"voc\">ransacked</mark>. The Céline store on Avenue Montaigne was <mark class=\"voc\">pillaged</mark>. In nearby streets, one guy and his friends were asking, “Where is Chanel?” On Saturday evening, Lecornu announced that 1,200 people had been arrested and 150 police officers and <mark class=\"voc\">gendarmes</mark> injured. “We will all stand united against the <mark class=\"voc\">sowers</mark> of chaos, who seek only to <mark class=\"voc\">bring down</mark> our <mark class=\"voc\">institutions</mark> and prevent those who peacefully express their demands from doing so,” he said.",
+      "zh": "在巴黎塞纳河右岸的几条主要街道上，同样的场景、同样的暴力行为一再上演。铺路石被人掷出，汽车、卡车和工程车辆遭到纵火。从玛德莱娜广场一带开始，Kenzo、Salomon和Arc’teryx等品牌精品店的橱窗被砸碎，货架遭到洗劫。位于蒙田大道的Céline门店也被抢劫。在附近的街道上，一个男子甚至和朋友们四处打听：“香奈儿在哪儿？”周六晚间，勒科尔尼宣布，已有1200人被捕，150名警察和宪兵受伤。他表示：“我们将团结一致，共同对抗那些制造混乱的人。他们唯一的目的，就是摧毁我们的制度，并阻止那些和平表达诉求的人发出自己的声音。”",
+      "notes": [
+        {
+          "w": "right bank",
+          "ipa": "/ˌraɪt ˈbæŋk/",
+          "pos": "n.",
+          "en": "the land on the right side of a river when facing downstream",
+          "zh": "河流右岸，右岸地区",
+          "ctx": "巴黎塞纳河右岸地区，分布着众多商业街区和奢侈品商店",
+          "ex1": "The city's financial district developed along the right bank of the river. 这座城市的金融区沿河流右岸发展起来。",
+          "ex2": "Many historic buildings on the right bank have been restored and opened to visitors. 右岸的许多历史建筑经过修复后已向游客开放。"
+        },
+        {
+          "w": "paving stone",
+          "ipa": "/ˈpeɪvɪŋ stəʊn/",
+          "pos": "n.",
+          "en": "a flat stone used to cover roads, streets or walking areas",
+          "zh": "铺路石，路面石块",
+          "ctx": "抗议现场被人从路面取下并投掷的石块",
+          "ex1": "Workers carefully replaced the old paving stones in the historic town square. 工人们小心翼翼地更换了历史悠久的城镇广场上的旧铺路石。",
+          "ex2": "The ancient street was covered with uneven paving stones that had survived for centuries. 这条古老街道铺满了高低不平、历经数百年的铺路石。"
+        },
+        {
+          "w": "set on fire",
+          "ipa": "/set ɒn ˈfaɪə(r)/",
+          "pos": "phr.",
+          "en": "to deliberately make something start burning",
+          "zh": "点燃，纵火焚烧",
+          "ctx": "部分暴力抗议者点燃汽车、卡车和工程车辆",
+          "ex1": "Several abandoned buildings were deliberately set on fire during the riots. 骚乱期间，几栋废弃建筑被人故意纵火焚烧。",
+          "ex2": "Investigators discovered that someone had set the warehouse on fire to destroy evidence. 调查人员发现，有人为了销毁证据而纵火焚烧仓库。"
+        },
+        {
+          "w": "boutique",
+          "ipa": "/buːˈtiːk/",
+          "pos": "n.",
+          "en": "a small shop selling fashionable clothes, jewellery or other expensive and carefully selected goods",
+          "zh": "精品店，时装精品店",
+          "ctx": "巴黎商业街上遭到打砸的Kenzo、Salomon和Arc’teryx等品牌门店",
+          "ex1": "She opened a boutique specialising in handmade jewellery and independent fashion labels. 她开了一家精品店，专门销售手工珠宝和独立设计师品牌服装。",
+          "ex2": "The luxury boutique attracts wealthy tourists looking for exclusive designer collections. 这家奢侈品精品店吸引了寻找独家设计师系列的富裕游客。"
+        },
+        {
+          "w": "ransack",
+          "ipa": "/ˈrænsæk/",
+          "pos": "v.",
+          "en": "to search a place violently or carelessly, often stealing things and leaving it in disorder",
+          "zh": "洗劫，翻箱倒柜地搜寻，肆意搜掠",
+          "ctx": "暴力抗议者砸毁商店橱窗，并翻抢货架上的商品",
+          "ex1": "Burglars ransacked the apartment while its owners were away on holiday. 房主外出度假期间，窃贼将公寓翻了个底朝天。",
+          "ex2": "The museum's storage rooms were ransacked, and several valuable paintings disappeared. 博物馆的储藏室遭到洗劫，数幅珍贵画作不翼而飞。"
+        },
+        {
+          "w": "pillage",
+          "ipa": "/ˈpɪlɪdʒ/",
+          "pos": "v.",
+          "en": "to steal valuable things from a place using force, especially during war or violent disorder",
+          "zh": "掠夺，洗劫，抢劫",
+          "ctx": "巴黎蒙田大道的Céline奢侈品门店遭到暴力洗劫",
+          "ex1": "Historical records describe how invading armies pillaged wealthy towns along the coast. 历史记录描述了入侵军队如何洗劫沿海的富裕城镇。",
+          "ex2": "During the collapse of the local government, armed groups pillaged several commercial districts. 当地政府崩溃期间，武装团体洗劫了多个商业区。"
+        },
+        {
+          "w": "gendarme",
+          "ipa": "/ˈʒɒndɑːm/",
+          "pos": "n.",
+          "en": "a member of a police force, especially in France, that has military status and performs law enforcement duties",
+          "zh": "宪兵，法国国家宪兵队成员",
+          "ctx": "在法国抗议活动中执行治安任务并有人员受伤的宪兵",
+          "ex1": "A group of gendarmes was sent to maintain security during the international summit. 一队宪兵被派往国际峰会现场维持安全。",
+          "ex2": "French gendarmes often patrol rural areas where there are fewer regular police stations. 法国宪兵经常在普通警察局较少的乡村地区巡逻。"
+        },
+        {
+          "w": "sower",
+          "ipa": "/ˈsəʊə(r)/",
+          "pos": "n.",
+          "en": "someone who spreads or causes something, especially trouble, fear or disagreement",
+          "zh": "散播者，制造者",
+          "ctx": "勒科尔尼所谴责的那些故意制造社会混乱、破坏公共秩序的人",
+          "ex1": "The minister accused the extremist group of being sowers of hatred and division. 这位部长指责该极端组织是仇恨与分裂的制造者。",
+          "ex2": "The writer described those spreading false rumours as sowers of fear. 这位作家将散布虚假谣言的人称为恐惧的散播者。"
+        },
+        {
+          "w": "bring down",
+          "ipa": "/brɪŋ daʊn/",
+          "pos": "v.",
+          "en": "to cause a government, institution or powerful organization to lose its authority or collapse",
+          "zh": "推翻，使垮台，摧毁",
+          "ctx": "勒科尔尼指责暴力制造者试图摧毁法国现有的政治和社会制度",
+          "ex1": "The corruption scandal eventually brought down the country's coalition government. 这起腐败丑闻最终导致该国联合政府垮台。",
+          "ex2": "Years of financial mismanagement brought down what had once been a successful banking institution. 多年的财务管理不善最终使这家曾经成功的银行机构走向崩溃。"
+        },
+        {
+          "w": "institution",
+          "ipa": "/ˌɪnstɪˈtjuːʃn/",
+          "pos": "n.",
+          "en": "an established organization or system that plays an important role in society, government or public life",
+          "zh": "机构，制度，社会体制",
+          "ctx": "法国现有的国家机构、政治制度及公共秩序体系",
+          "ex1": "Independent courts are essential institutions in a democratic society. 独立法院是民主社会中不可或缺的重要机构。",
+          "ex2": "Public confidence in political institutions has declined following a series of corruption scandals. 一系列腐败丑闻发生后，公众对政治机构的信任有所下降。"
+        }
+      ]
+    }
+  ],
+  "proper": [],
+  "sources_note": "依据法国《世界报》（Le Monde）2026-10-20 报道。",
+  "practice": {
+    "intro": "请将以下中文句子翻译为英文（参考答案见后）。",
+    "items": [
+      "10月17日，数十万法国民众走上街头，参加大规模抗议活动。（take to the streets / turnout / massive）",
+      "抗议的原因包括生活成本上涨、教育问题，以及民众对政府和公共服务的不满。（rising cost of living / grievance / squeeze / distrustful）",
+      "学生、工人和“黄背心”运动的老成员希望联合起来，共同表达诉求。（veteran / convergence / solidarity）",
+      "尽管许多示威者保持和平，但一些团体与警方发生冲突，部分街区出现暴力、纵火和抢劫。（clash with / break out / looting / set on fire）",
+      "这场抗议反映了法国社会深层的社会压力与社会矛盾。（unrest / inequality / tension）"
+    ],
+    "critical_en": "",
+    "critical_zh": "",
+    "answer": "1. On October 17, hundreds of thousands of people took to the streets across France. The massive protests were driven by the rising cost of living, problems in education and growing dissatisfaction with the government. Many people felt squeezed by higher prices and had become distrustful of political leaders. Students, workers and veterans of the Yellow Vest movement hoped to show solidarity and unite their struggles. Although many demonstrations remained peaceful, some groups clashed with the police, and violence and looting broke out. The unrest revealed deep economic pressures and social tensions in France."
+  },
+  "mindmap": {
+    "aria": "",
+    "alt": "",
+    "svg": "<svg viewBox=\"0 0 960 488\" xmlns=\"http://www.w3.org/2000/svg\" role=\"img\" aria-label=\"法国骚乱 思维导图\" style=\"width:100%;height:auto;font-family:-apple-system,'PingFang SC','Hiragino Sans GB','Microsoft YaHei',sans-serif\">\n<rect x=\"24\" y=\"200\" width=\"176\" height=\"88\" rx=\"14\" fill=\"#eae3d2\" stroke=\"#9a8f76\"/>\n<text x=\"112\" y=\"236\" text-anchor=\"middle\" fill=\"#3d3a34\" font-size=\"17\" font-weight=\"700\">法国骚乱</text>\n<text x=\"112\" y=\"262\" text-anchor=\"middle\" fill=\"#5c5648\" font-size=\"12.5\">为何总在抗议</text>\n<path d=\"M200,244 C232,244 232,88 260,88\" stroke=\"#6b8f71\" stroke-width=\"2\" fill=\"none\"/>\n<path d=\"M200,244 C232,244 232,223 260,223\" stroke=\"#7d98ad\" stroke-width=\"2\" fill=\"none\"/>\n<path d=\"M200,244 C232,244 232,379 260,379\" stroke=\"#bd7a6d\" stroke-width=\"2\" fill=\"none\"/>\n<g class=\"mm-branch\" data-target=\"bc1\">\n<rect x=\"260\" y=\"71\" width=\"190\" height=\"34\" rx=\"8\" fill=\"#e6efe7\" stroke=\"#6b8f71\"/>\n<text x=\"355\" y=\"93\" text-anchor=\"middle\" fill=\"#4c6b52\" font-size=\"15\" font-weight=\"700\">抗议引爆（¶1-3）</text>\n<text class=\"mm-arrow\" data-for=\"bc1\" x=\"442\" y=\"93\" text-anchor=\"end\" fill=\"#4c6b52\">▾</text>\n</g>\n<g class=\"mm-children\" id=\"bc1\">\n<path d=\"M450,88 C462,88 462,46 480,46\" stroke=\"#6b8f71\" stroke-width=\"1.5\" fill=\"none\"/>\n<path d=\"M450,88 C462,88 462,88 480,88\" stroke=\"#6b8f71\" stroke-width=\"1.5\" fill=\"none\"/>\n<path d=\"M450,88 C462,88 462,130 480,130\" stroke=\"#6b8f71\" stroke-width=\"1.5\" fill=\"none\"/>\n<rect x=\"480\" y=\"30\" width=\"456\" height=\"32\" rx=\"8\" fill=\"#e6efe7\"/><text x=\"492\" y=\"51\" fill=\"#3d3a34\" font-size=\"14\">80万上街（官方55万），和平示威与暴力抢劫并存</text>\n<rect x=\"480\" y=\"72\" width=\"456\" height=\"32\" rx=\"8\" fill=\"#e6efe7\"/><text x=\"492\" y=\"93\" fill=\"#3d3a34\" font-size=\"14\">根源：9月反对燃油涨价的示威号召</text>\n<rect x=\"480\" y=\"114\" width=\"456\" height=\"32\" rx=\"8\" fill=\"#e6efe7\"/><text x=\"492\" y=\"135\" fill=\"#3d3a34\" font-size=\"14\">高中生抗议教师短缺，借势联合不同群体</text>\n</g>\n<g class=\"mm-branch\" data-target=\"bc2\">\n<rect x=\"260\" y=\"206\" width=\"190\" height=\"34\" rx=\"8\" fill=\"#e5edf4\" stroke=\"#7d98ad\"/>\n<text x=\"355\" y=\"228\" text-anchor=\"middle\" fill=\"#3d5872\" font-size=\"15\" font-weight=\"700\">街头众生（¶4-6）</text>\n<text class=\"mm-arrow\" data-for=\"bc2\" x=\"442\" y=\"228\" text-anchor=\"end\" fill=\"#3d5872\">▾</text>\n</g>\n<g class=\"mm-children\" id=\"bc2\">\n<path d=\"M450,223 C462,223 462,202 480,202\" stroke=\"#7d98ad\" stroke-width=\"1.5\" fill=\"none\"/>\n<path d=\"M450,223 C462,223 462,244 480,244\" stroke=\"#7d98ad\" stroke-width=\"1.5\" fill=\"none\"/>\n<rect x=\"480\" y=\"186\" width=\"456\" height=\"32\" rx=\"8\" fill=\"#e5edf4\"/><text x=\"492\" y=\"207\" fill=\"#3d3a34\" font-size=\"14\">黄背心“革命+睡马克龙床”的双重目标</text>\n<rect x=\"480\" y=\"228\" width=\"456\" height=\"32\" rx=\"8\" fill=\"#e5edf4\"/><text x=\"492\" y=\"249\" fill=\"#3d3a34\" font-size=\"14\">自发集会涌向爱丽舍宫/协和广场，社会各界汇聚（HEC学生）</text>\n</g>\n<g class=\"mm-branch\" data-target=\"bc3\">\n<rect x=\"260\" y=\"362\" width=\"190\" height=\"34\" rx=\"8\" fill=\"#f4e7e4\" stroke=\"#bd7a6d\"/>\n<text x=\"355\" y=\"384\" text-anchor=\"middle\" fill=\"#7c4a3e\" font-size=\"15\" font-weight=\"700\">蔓延冲突（¶7-9）</text>\n<text class=\"mm-arrow\" data-for=\"bc3\" x=\"442\" y=\"384\" text-anchor=\"end\" fill=\"#7c4a3e\">▾</text>\n</g>\n<g class=\"mm-children\" id=\"bc3\">\n<path d=\"M450,379 C462,379 462,316 480,316\" stroke=\"#bd7a6d\" stroke-width=\"1.5\" fill=\"none\"/>\n<path d=\"M450,379 C462,379 462,358 480,358\" stroke=\"#bd7a6d\" stroke-width=\"1.5\" fill=\"none\"/>\n<path d=\"M450,379 C462,379 462,400 480,400\" stroke=\"#bd7a6d\" stroke-width=\"1.5\" fill=\"none\"/>\n<path d=\"M450,379 C462,379 462,442 480,442\" stroke=\"#bd7a6d\" stroke-width=\"1.5\" fill=\"none\"/>\n<rect x=\"480\" y=\"300\" width=\"456\" height=\"32\" rx=\"8\" fill=\"#f4e7e4\"/><text x=\"492\" y=\"321\" fill=\"#3d3a34\" font-size=\"14\">外省多城（雷恩/图卢兹）数十场和平游行</text>\n<rect x=\"480\" y=\"342\" width=\"456\" height=\"32\" rx=\"8\" fill=\"#f4e7e4\"/><text x=\"492\" y=\"363\" fill=\"#3d3a34\" font-size=\"14\">学生与对抗执法小团体混杂、工人阶级到场</text>\n<rect x=\"480\" y=\"384\" width=\"456\" height=\"32\" rx=\"8\" fill=\"#f4e7e4\"/><text x=\"492\" y=\"405\" fill=\"#3d3a34\" font-size=\"14\">巴黎右岸铺路石掷出、车辆纵火</text>\n<rect x=\"480\" y=\"426\" width=\"456\" height=\"32\" rx=\"8\" fill=\"#f4e7e4\"/><text x=\"492\" y=\"447\" fill=\"#3d3a34\" font-size=\"14\">玛德莱娜广场起，暴力循环上演</text>\n</g>\n<text x=\"486\" y=\"170\" fill=\"#8a8578\" font-size=\"11.5\">↓ 深挖</text>\n<text x=\"486\" y=\"284\" fill=\"#8a8578\" font-size=\"11.5\">↓ 终致</text>\n</svg>",
+    "img": "scripts/content/img/2026-10-20.jpg"
+  },
+  "audio": true,
+  "print_compact": true
+}

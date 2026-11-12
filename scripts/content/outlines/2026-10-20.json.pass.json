@@ -1,0 +1,31 @@
+{
+  "outline": "scripts/content/outlines/2026-10-20.json",
+  "outline_mtime": 1794492817.5281346,
+  "checked_at": "2026-11-12 22:27:00",
+  "user_confirmed": true,
+  "center": "法国骚乱",
+  "branches": [
+    {
+      "title": "抗议引爆",
+      "subs": 3,
+      "relation": null
+    },
+    {
+      "title": "街头众生",
+      "subs": 2,
+      "relation": "深挖"
+    },
+    {
+      "title": "蔓延冲突",
+      "subs": 4,
+      "relation": "终致"
+    }
+  ],
+  "branch_count": 3,
+  "subs_counts": [
+    3,
+    2,
+    4
+  ],
+  "warns": []
+}

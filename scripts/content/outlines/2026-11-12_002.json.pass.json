@@ -1,0 +1,31 @@
+{
+  "outline": "scripts/content/outlines/2026-11-12_002.json",
+  "outline_mtime": 1794492448.4019399,
+  "checked_at": "2026-11-12 22:24:33",
+  "user_confirmed": true,
+  "center": "黄仁勋依赖",
+  "branches": [
+    {
+      "title": "丑闻缠身",
+      "subs": 3,
+      "relation": null
+    },
+    {
+      "title": "绑定之危",
+      "subs": 2,
+      "relation": "牵动"
+    },
+    {
+      "title": "如何解绑",
+      "subs": 4,
+      "relation": "最终落到"
+    }
+  ],
+  "branch_count": 3,
+  "subs_counts": [
+    3,
+    2,
+    4
+  ],
+  "warns": []
+}

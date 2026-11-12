@@ -1,0 +1,335 @@
+{
+  "date": "2026-10-20",
+  "title_tag": "法国爆发近年来最严重的街头骚乱震惊世界！为什么法国人总在抗议？ —— 法国《世界报》外刊讲解第1203天",
+  "h1": "法国爆发近年来最严重的街头骚乱震惊世界！为什么法国人总在抗议？",
+  "source_label": "Le Monde",
+  "category": "法国《世界报》外刊讲解 第1203天",
+  "read_minutes": 12,
+  "nav_hint": "France's Street Unrest",
+  "headline_en": "October 17 French protests: Crowds marched through the streets before violence, looting and chaos broke out",
+  "headline_zh": "法国爆发近年来最严重的街头骚乱震惊世界！为什么法国人总在抗议？",
+  "sources_note": "依据法国《世界报》（Le Monde）2026-10-20 报道。",
+  "headline_marks": [
+    [
+      "march through phr.",
+      "marched through"
+    ],
+    [
+      "looting",
+      "looting"
+    ],
+    [
+      "chaos",
+      "chaos"
+    ],
+    [
+      "break out phr.",
+      "broke out"
+    ]
+  ],
+  "marks": {
+    "1": [
+      [
+        "take to the streets",
+        "took to the streets"
+      ],
+      [
+        "play out",
+        "played out"
+      ],
+      [
+        "clash with",
+        "clash with"
+      ],
+      [
+        "turnout",
+        "turnout"
+      ],
+      [
+        "mar",
+        "mar"
+      ],
+      [
+        "unprecedented",
+        "unprecedented"
+      ],
+      [
+        "collide",
+        "collide"
+      ]
+    ],
+    "2": [
+      [
+        "stretch back to",
+        "stretched back to"
+      ],
+      [
+        "circulate",
+        "circulate"
+      ],
+      [
+        "overcrowded",
+        "overcrowded"
+      ],
+      [
+        "unrest",
+        "unrest"
+      ],
+      [
+        "revive",
+        "revive"
+      ],
+      [
+        "rebellion",
+        "rebellion"
+      ],
+      [
+        "grievance",
+        "grievance"
+      ],
+      [
+        "squeeze",
+        "squeeze"
+      ],
+      [
+        "distrustful",
+        "distrustful"
+      ],
+      [
+        "veteran",
+        "veteran"
+      ]
+    ],
+    "3": [
+      [
+        "call to action",
+        "call to action"
+      ],
+      [
+        "momentum",
+        "momentum"
+      ],
+      [
+        "convergence",
+        "convergence"
+      ],
+      [
+        "sector",
+        "sector"
+      ],
+      [
+        "trade union",
+        "trade union"
+      ]
+    ],
+    "4": [
+      [
+        "sum up",
+        "summed up"
+      ],
+      [
+        "twofold",
+        "twofold"
+      ],
+      [
+        "denounce",
+        "denounce"
+      ],
+      [
+        "bourgeoisie",
+        "bourgeoisie"
+      ],
+      [
+        "entourage",
+        "entourage"
+      ],
+      [
+        "chime in",
+        "chimed in"
+      ],
+      [
+        "relentlessly",
+        "relentlessly"
+      ],
+      [
+        "abruptly",
+        "abruptly"
+      ],
+      [
+        "barge in",
+        "barged in"
+      ],
+      [
+        "descend on",
+        "descended on"
+      ]
+    ],
+    "5": [
+      [
+        "autonomous",
+        "autonomous"
+      ],
+      [
+        "procession",
+        "procession"
+      ],
+      [
+        "pack",
+        "pack"
+      ],
+      [
+        "light on one's feet",
+        "light on their feet"
+      ],
+      [
+        "blockade",
+        "blockade"
+      ],
+      [
+        "mask-clad",
+        "mask-clad"
+      ],
+      [
+        "sprint",
+        "sprint"
+      ],
+      [
+        "slip out of control",
+        "slip out of control"
+      ],
+      [
+        "packed to bursting",
+        "packed to bursting"
+      ],
+      [
+        "barracks",
+        "barracks"
+      ],
+      [
+        "left, right and center",
+        "left, right and center"
+      ]
+    ],
+    "6": [
+      [
+        "much-heralded",
+        "much-heralded"
+      ],
+      [
+        "all walks of life",
+        "all walks of life"
+      ],
+      [
+        "prestigious",
+        "prestigious"
+      ],
+      [
+        "proclaim",
+        "proclaim"
+      ],
+      [
+        "privileged",
+        "privileged"
+      ],
+      [
+        "solidarity",
+        "solidarity"
+      ]
+    ],
+    "7": [
+      [
+        "demonstrator",
+        "demonstrator"
+      ],
+      [
+        "tension",
+        "tension"
+      ]
+    ],
+    "8": [
+      [
+        "toughen up",
+        "toughened up"
+      ],
+      [
+        "mingle with",
+        "mingled with"
+      ],
+      [
+        "confront",
+        "confront"
+      ],
+      [
+        "law enforcement",
+        "law enforcement"
+      ],
+      [
+        "working-class",
+        "working-class"
+      ],
+      [
+        "could hardly believe one's eyes",
+        "could hardly believe their eyes"
+      ],
+      [
+        "opulence",
+        "opulence"
+      ],
+      [
+        "within reach",
+        "within reach"
+      ],
+      [
+        "make one's way",
+        "made their way"
+      ]
+    ],
+    "9": [
+      [
+        "right bank",
+        "right bank"
+      ],
+      [
+        "paving stone",
+        "paving stone"
+      ],
+      [
+        "set on fire",
+        "set on fire"
+      ],
+      [
+        "boutique",
+        "boutique"
+      ],
+      [
+        "ransack",
+        "ransack"
+      ],
+      [
+        "pillage",
+        "pillage"
+      ],
+      [
+        "gendarme",
+        "gendarme"
+      ],
+      [
+        "sower",
+        "sower"
+      ],
+      [
+        "bring down",
+        "bring down"
+      ],
+      [
+        "institution",
+        "institution"
+      ]
+    ]
+  },
+  "mindmap": {
+    "template": "scripts/content/2026-11-13.json",
+    "aria": "",
+    "alt": ""
+  }
+}

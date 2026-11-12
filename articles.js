@@ -662,6 +662,7 @@
         title: "October 17 French protests: Crowds marched through the streets before violence, looting and chaos broke out",
         publishDate: "2026-10-20",
         fileKey: "2026-10-20_001",
+        readingPath: "/outward-reading/articles/2026/10/2026-10-20_001.reading.html",
         source: "The Economist",
         cleanPath: "/outward-reading/articles/2026/10/2026-10-20_001.clean.html",
         annotatedPath: "/outward-reading/articles/2026/10/2026-10-20_001.annotated.html",
