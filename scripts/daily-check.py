@@ -40,7 +40,7 @@ def find_pdfs(date_str, source_root=None):
         base = os.path.basename(p)
         if "完整笔记" in base:
             out["notes"].append(p)
-        elif "预习原文" in base:
+        elif "预习" in base:  # 预习原文 与 原文预习 等价，均按预习原文处理
             out["preview"].append(p)
         else:
             out["other"].append(p)

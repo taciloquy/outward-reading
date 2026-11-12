@@ -100,6 +100,12 @@ def main():
     mm_gate_check(c, sys.argv[2])
     s = open(TEMPLATE, encoding="utf-8").read()
 
+    # 0.5 紧凑打印：段落数 ≥11 或显式 print_compact 时给 body 加 class，
+    #     把打印从 3 页压回 2 页（只改间距，不动内容；CSS 在母版 scoped）。
+    paras_n = len(c.get("paragraphs") or [])
+    if c.get("print_compact") or paras_n >= 11:
+        s = s.replace("<body>", '<body class="print-compact">', 1)
+
     # 1. <title>
     s = re.sub(r"<title>.*?</title>", f"<title>{c['title_tag']}</title>", s, flags=re.S)
 

@@ -1,0 +1,31 @@
+{
+  "outline": "scripts/content/outlines/2026-11-13.json",
+  "outline_mtime": 1794486728.7840633,
+  "checked_at": "2026-11-12 20:32:19",
+  "user_confirmed": false,
+  "center": "代际战火",
+  "branches": [
+    {
+      "title": "战火重燃",
+      "subs": 3,
+      "relation": null
+    },
+    {
+      "title": "怨恨有根",
+      "subs": 4,
+      "relation": "为何烧得旺"
+    },
+    {
+      "title": "出路在握",
+      "subs": 3,
+      "relation": "最终落到"
+    }
+  ],
+  "branch_count": 3,
+  "subs_counts": [
+    3,
+    4,
+    3
+  ],
+  "warns": []
+}

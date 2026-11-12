@@ -355,6 +355,14 @@ mark.voc:hover{background:#e0eabf;border-bottom-color:var(--accent)}
   a{color:#111 !important;text-decoration:none !important}
 }
 
+/* 紧凑打印：段落数较多（≥11）时启用，把打印从 3 页压回 2 页，只改间距不改内容 */
+@media print{
+  body.print-compact .paragraph,body.print-compact .headline-block{margin:0 0 4pt !important}
+  body.print-compact .p-label{margin:0 0 2pt !important}
+  body.print-compact .en-block{line-height:1.44 !important;padding:1pt 0 1pt 7pt !important}
+  body.print-compact h1{margin:0 0 4pt !important}
+}
+
 
 /* ========== 打印视图兜底：body.print-sheet（普通规则，任何 WebKit 都生效） ========== */
 body.print-sheet{background:#fff !important;margin:0 !important;padding:0 !important}

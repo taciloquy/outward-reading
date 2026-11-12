@@ -1,6 +1,13 @@
 // ===== 文章数据库（独立静态资源；正文全文见 search-index.js） =====
     const ARTICLES = [
       {
+        title: "千禧一代 vs 婴儿潮：一场正在撕裂美国的代际战争",
+        publishDate: "2026-11-13",
+        fileKey: "2026-11-13_001",
+        readingPath: "/outward-reading/articles/2026/11/2026-11-13_001.reading.html",
+        source: "The Washington Post"
+      },
+      {
         title: "世界，是怎么变得如此依赖黄仁勋一个人的？",
         publishDate: "2026-11-12",
         fileKey: "2026-11-12_002",
