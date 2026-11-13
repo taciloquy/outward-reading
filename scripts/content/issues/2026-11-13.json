@@ -1,13 +1,222 @@
 {
-  "date": "2026-11-13",
-  "title_tag": "千禧一代 vs 婴儿潮：一场正在撕裂美国的代际战争 —— 美国《华盛顿邮报》外刊讲解第1227天",
-  "h1": "千禧一代 vs 婴儿潮：一场正在撕裂美国的代际战争",
-  "source_label": "Washington Post",
-  "category": "美国《华盛顿邮报》外刊讲解 第1227天",
-  "read_minutes": 10,
-  "nav_hint": "The Return of Generational Warfare",
-  "headline_en": "The Return of Generational Warfare",
-  "headline_zh": "千禧一代 vs 婴儿潮：一场正在撕裂美国的代际战争",
-  "sources_note": "依据美国《华盛顿邮报》（The Washington Post）2026-11-13 报道。",
-  "marks": {}
+ "date": "2026-11-13",
+ "title_tag": "千禧一代 vs 婴儿潮：一场正在撕裂美国的代际战争 —— 美国《华盛顿邮报》外刊讲解第1227天",
+ "h1": "千禧一代 vs 婴儿潮：一场正在撕裂美国的代际战争",
+ "source_label": "Washington Post",
+ "category": "美国《华盛顿邮报》外刊讲解 第1227天",
+ "read_minutes": 10,
+ "nav_hint": "The Return of Generational Warfare",
+ "headline_en": "The Return of Generational Warfare",
+ "headline_zh": "千禧一代 vs 婴儿潮：一场正在撕裂美国的代际战争",
+ "sources_note": "依据美国《华盛顿邮报》（The Washington Post）2026-11-13 报道。",
+ "marks": {
+  "3": [
+   [
+    "temptation",
+    "temptation"
+   ],
+   [
+    "go after phr.",
+    "go after"
+   ],
+   [
+    "baby boomer",
+    "baby boomer"
+   ],
+   [
+    "irrepressible",
+    "irrepressible"
+   ],
+   [
+    "liability",
+    "liability"
+   ],
+   [
+    "project",
+    "project"
+   ],
+   [
+    "denounce",
+    "denounce"
+   ],
+   [
+    "gerontocracy",
+    "gerontocracy"
+   ],
+   [
+    "amass",
+    "amass"
+   ],
+   [
+    "disproportionate",
+    "disproportionate"
+   ]
+  ],
+  "4": [
+   [
+    "burn down phr.",
+    "Burning down"
+   ],
+   [
+    "in the moment",
+    "in the moment"
+   ],
+   [
+    "notion",
+    "notion"
+   ],
+   [
+    "convincing",
+    "convincing"
+   ],
+   [
+    "millennial",
+    "millennial"
+   ],
+   [
+    "cohort",
+    "cohort"
+   ],
+   [
+    "harvest",
+    "harvest"
+   ],
+   [
+    "upward of",
+    "upward of"
+   ]
+  ],
+  "5": [
+   [
+    "to be sure",
+    "to be sure"
+   ],
+   [
+    "resentment",
+    "resentment"
+   ],
+   [
+    "have roots in",
+    "has roots in"
+   ],
+   [
+    "median",
+    "median"
+   ],
+   [
+    "net worth",
+    "net worth"
+   ],
+   [
+    "in terms of",
+    "in terms of"
+   ],
+   [
+    "fare",
+    "fare"
+   ],
+   [
+    "lag behind phr.",
+    "lag behind"
+   ],
+   [
+    "homeownership",
+    "homeownership"
+   ],
+   [
+    "Census Bureau",
+    "Census Bureau"
+   ],
+   [
+    "not coincidentally",
+    "not coincidentally"
+   ]
+  ],
+  "7": [
+   [
+    "play into the hands of",
+    "plays into the hands of"
+   ],
+   [
+    "authoritarian",
+    "authoritarian"
+   ],
+   [
+    "unenthusiastic",
+    "unenthusiastic"
+   ],
+   [
+    "liberal",
+    "liberal"
+   ],
+   [
+    "up in the air",
+    "up in the air"
+   ]
+  ],
+  "8": [
+   [
+    "geezer",
+    "geezer"
+   ],
+   [
+    "greed",
+    "greed"
+   ],
+   [
+    "retiree",
+    "retiree"
+   ],
+   [
+    "insufficient",
+    "insufficient"
+   ],
+   [
+    "burn through phr.",
+    "burned through"
+   ],
+   [
+    "store away phr.",
+    "stored away"
+   ],
+   [
+    "truce",
+    "truce"
+   ],
+   [
+    "down payment",
+    "down payment"
+   ]
+  ],
+  "9": [
+   [
+    "caregiver",
+    "caregiver"
+   ],
+   [
+    "on a regular basis",
+    "on a regular"
+   ],
+   [
+    "aspire",
+    "aspire"
+   ],
+   [
+    "single-family home",
+    "single-family home"
+   ],
+   [
+    "obligation",
+    "obligation"
+   ],
+   [
+    "for one's own pleasure",
+    "for their own pleasure"
+   ]
+  ]
+ },
+ "mindmap": {
+  "template": "scripts/content/2026-10-31.json",
+  "aria": "代际战争回归 思维导图"
+ }
 }
