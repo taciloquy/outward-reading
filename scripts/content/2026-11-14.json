@@ -1,0 +1,71 @@
+{
+ "date": "2026-11-14",
+ "title_tag": "黄仁勋黯然出局。其继任者接下的，是科技界最艰巨的担子 —— 美国《经济学人》外刊讲解第1228天",
+ "h1": "黄仁勋黯然出局。其继任者接下的，是科技界最艰巨的担子",
+ "source_label": "The Economist",
+ "category": "美国《经济学人》外刊讲解 第1228天",
+ "read_minutes": 10,
+ "nav_hint": "Jensen Huang is out",
+ "audio": false,
+ "headline": {
+  "en_html": "Jensen Huang is out. His successor has the toughest job in tech",
+  "zh": "黄仁勋黯然出局。其继任者接下的，是科技界最艰巨的担子",
+  "notes": []
+ },
+ "paragraphs": [
+  {
+   "en_html": "Two of the world’s most valuable companies have changed bosses in recent months. They could hardly have done so more differently. At Apple, Tim Cook made way for John Ternus in September under what the iPhone-maker called a “long-term succession plan”. Nvidia’s succession plan lasted four days. Jensen Huang, the chip giant’s only boss in its 33-year history, never intended to leave. On November 8th he confessed to an affair; on November 12th, after further revelations about his private life, he resigned.",
+   "zh": "",
+   "notes": []
+  },
+  {
+   "en_html": "The job has fallen, for now, to Colette Kress, Nvidia’s finance chief since 2013, who has been named interim chief executive. She was never coached for the top job, and will need to learn fast. Since news of the scandal broke Nvidia’s shares have lost about 20% of their value. Besides calming investors, she will need to shore up suppliers, mend fences with Washington and hold together the vast web of financing schemes and partnerships that has fuelled Nvidia’s breakneck growth.",
+   "zh": "",
+   "notes": []
+  },
+  {
+   "en_html": "Ms Kress inherits one of the most formidable money-making machines in corporate history. Two-thirds of the world’s artificial-intelligence computing power runs on Nvidia’s chips. Its gross margins hover around 75%, against 55% at AMD, a rival chip designer. This financial year analysts expect it to bring in more than $400bn in revenue, nearly double last year’s total. And it is sitting on around $100bn in cash and liquid financial instruments.",
+   "zh": "",
+   "notes": []
+  },
+  {
+   "en_html": "Ms Kress’s first test will come on November 17th, when Nvidia reports its latest earnings. A blowout quarter would soothe nerves. But investors will also want assurances that Nvidia can still achieve the 70% revenue growth it has promised for next year. She will need to convince them that the upheaval at the top will not distract the company.",
+   "zh": "",
+   "notes": []
+  },
+  {
+   "en_html": "Next is the chip giant’s intricate supply chain. Nvidia says that it cannot fill all the demand, because of supply-chain bottlenecks. That makes the launch of Vera Rubin, its next generation of AI systems, especially delicate. Reports have suggested that manufacturing problems are holding up production of the higher-end variant.",
+   "zh": "",
+   "notes": []
+  },
+  {
+   "en_html": "Ensuring that its products are delivered on time requires working with suppliers such as TSMC and memory-makers such as SK Hynix of South Korea. Mr Huang excelled at this, running the relationships as much by charm as by contract. Nvidia has signed long-term deals with many of its suppliers, committing hundreds of billions of dollars to them through 2029. But they, too, will want reassurance that the lofty growth targets behind the orders still hold.",
+   "zh": "",
+   "notes": []
+  },
+  {
+   "en_html": "Then there is Washington. Mr Huang was one of Donald Trump’s favourite businessmen, and used his access to lobby hard for looser curbs on selling chips to China, often clashing with hawks in Congress. The scandal has left Nvidia’s standing in the capital badly bruised. On November 18th, a day after the earnings call, Mr Huang has been asked to appear at a closed-door congressional briefing to answer questions about his relationship with Megaspeed, a Singaporean customer of Nvidia. Democrats, who take control of Congress in January, may add more pressure. One employee concedes that Mr Huang’s combative style in Washington made Nvidia enemies, and that it will need to work with policymakers rather than against them.",
+   "zh": "",
+   "notes": []
+  },
+  {
+   "en_html": "The hardest task of all may be keeping Nvidia at the centre of the AI economy. Mr Huang’s aggressive dealmaking has made the company the AI-infrastructure boom’s most important player, and boosted demand for its chips. Over the past three years Nvidia has pledged more than $70bn to startups, making about 90 investments last year alone and at least 60 so far this year. It has also backstopped AI clouds to the tune of up to $36bn, promising to buy computing capacity they cannot sell to others, and guaranteed the debts for a giant data-centre project in Ohio intended for OpenAI. On top of that, it has signed $20bn of data-centre leases that it plans to pass on to third parties, and orchestrated a financing programme with Wall Street lenders that could direct up to $500bn of further investment into data centres. Many of these deals rested on Mr Huang’s word.",
+   "zh": "",
+   "notes": []
+  },
+  {
+   "en_html": "However deftly she handles all this, Ms Kress is unlikely to keep the job for long. She lacks a technical background; Bloomberg reports that the board has been working with an outside recruiting firm to find a permanent replacement. Among insiders, Ian Buck, who runs Nvidia’s data-centre computing business, is popular with engineers but untested at running a giant company. Lisa Su of AMD and Rene Haas of Arm, a former Nvidia executive, may be options. Nvidia may yet find that the answer to its succession problem lies at the company that showed it how succession should be done.",
+   "zh": "",
+   "notes": []
+  }
+ ],
+ "proper": [],
+ "sources_note": "依据美国《经济学人》（The Economist）2026-11-14 报道。",
+ "practice": {},
+ "mindmap": {
+  "aria": "黄仁勋交棒 思维导图",
+  "alt": "黄仁勋交棒 思维导图：四天换帅、连闯三关、信用即命脉",
+  "svg": "<svg viewBox=\"0 0 960 572\" xmlns=\"http://www.w3.org/2000/svg\" role=\"img\" aria-label=\"黄仁勋交棒 思维导图\" style=\"width:100%;height:auto;font-family:-apple-system,'PingFang SC','Hiragino Sans GB','Microsoft YaHei',sans-serif\">\n<rect x=\"24\" y=\"242\" width=\"176\" height=\"88\" rx=\"14\" fill=\"#eae3d2\" stroke=\"#9a8f76\"/>\n<text x=\"112\" y=\"278\" text-anchor=\"middle\" fill=\"#3d3a34\" font-size=\"17\" font-weight=\"700\">谁来接黄仁勋</text>\n<text x=\"112\" y=\"304\" text-anchor=\"middle\" fill=\"#5c5648\" font-size=\"12.5\">四天换帅的芯片帝国</text>\n<path d=\"M200,286 C232,286 232,88 260,88\" stroke=\"#6b8f71\" stroke-width=\"2\" fill=\"none\"/>\n<path d=\"M200,286 C232,286 232,265 260,265\" stroke=\"#7d98ad\" stroke-width=\"2\" fill=\"none\"/>\n<path d=\"M200,286 C232,286 232,463 260,463\" stroke=\"#bd7a6d\" stroke-width=\"2\" fill=\"none\"/>\n<g class=\"mm-branch\" data-target=\"bc1\">\n<rect x=\"260\" y=\"71\" width=\"190\" height=\"34\" rx=\"8\" fill=\"#e6efe7\" stroke=\"#6b8f71\"/>\n<text x=\"355\" y=\"93\" text-anchor=\"middle\" fill=\"#4c6b52\" font-size=\"15\" font-weight=\"700\">四天换帅（¶1-2）</text>\n<text class=\"mm-arrow\" data-for=\"bc1\" x=\"442\" y=\"93\" text-anchor=\"end\" fill=\"#4c6b52\">▾</text>\n</g>\n<g class=\"mm-children\" id=\"bc1\">\n<path d=\"M450,88 C462,88 462,46 480,46\" stroke=\"#6b8f71\" stroke-width=\"1.5\" fill=\"none\"/>\n<path d=\"M450,88 C462,88 462,88 480,88\" stroke=\"#6b8f71\" stroke-width=\"1.5\" fill=\"none\"/>\n<path d=\"M450,88 C462,88 462,130 480,130\" stroke=\"#6b8f71\" stroke-width=\"1.5\" fill=\"none\"/>\n<rect x=\"480\" y=\"30\" width=\"456\" height=\"32\" rx=\"8\" fill=\"#e6efe7\"/><text x=\"492\" y=\"51\" fill=\"#3d3a34\" font-size=\"14\">33 年只有一位掌门，从未想走</text>\n<rect x=\"480\" y=\"72\" width=\"456\" height=\"32\" rx=\"8\" fill=\"#e6efe7\"/><text x=\"492\" y=\"93\" fill=\"#3d3a34\" font-size=\"14\">承认私情到辞职，前后四天</text>\n<rect x=\"480\" y=\"114\" width=\"456\" height=\"32\" rx=\"8\" fill=\"#e6efe7\"/><text x=\"492\" y=\"135\" fill=\"#3d3a34\" font-size=\"14\">财务官临时接棒，股价跌两成</text>\n</g>\n<g class=\"mm-branch\" data-target=\"bc2\">\n<rect x=\"260\" y=\"248\" width=\"190\" height=\"34\" rx=\"8\" fill=\"#e5edf4\" stroke=\"#7d98ad\"/>\n<text x=\"355\" y=\"270\" text-anchor=\"middle\" fill=\"#3d5872\" font-size=\"15\" font-weight=\"700\">连闯三关（¶3-7）</text>\n<text class=\"mm-arrow\" data-for=\"bc2\" x=\"442\" y=\"270\" text-anchor=\"end\" fill=\"#3d5872\">▾</text>\n</g>\n<g class=\"mm-children\" id=\"bc2\">\n<path d=\"M450,265 C462,265 462,202 480,202\" stroke=\"#7d98ad\" stroke-width=\"1.5\" fill=\"none\"/>\n<path d=\"M450,265 C462,265 462,244 480,244\" stroke=\"#7d98ad\" stroke-width=\"1.5\" fill=\"none\"/>\n<path d=\"M450,265 C462,265 462,286 480,286\" stroke=\"#7d98ad\" stroke-width=\"1.5\" fill=\"none\"/>\n<path d=\"M450,265 C462,265 462,328 480,328\" stroke=\"#7d98ad\" stroke-width=\"1.5\" fill=\"none\"/>\n<rect x=\"480\" y=\"186\" width=\"456\" height=\"32\" rx=\"8\" fill=\"#e5edf4\"/><text x=\"492\" y=\"207\" fill=\"#3d3a34\" font-size=\"14\">全球三分之二 AI 算力，毛利 75%</text>\n<rect x=\"480\" y=\"228\" width=\"456\" height=\"32\" rx=\"8\" fill=\"#e5edf4\"/><text x=\"492\" y=\"249\" fill=\"#3d3a34\" font-size=\"14\">11 月 17 日财报，要交 70% 增长</text>\n<rect x=\"480\" y=\"270\" width=\"456\" height=\"32\" rx=\"8\" fill=\"#e5edf4\"/><text x=\"492\" y=\"291\" fill=\"#3d3a34\" font-size=\"14\">高端型号量产受阻，Rubin 押后</text>\n<rect x=\"480\" y=\"312\" width=\"456\" height=\"32\" rx=\"8\" fill=\"#e5edf4\"/><text x=\"492\" y=\"333\" fill=\"#3d3a34\" font-size=\"14\">白宫人脉成负资产，国会传唤问话</text>\n</g>\n<g class=\"mm-branch\" data-target=\"bc3\">\n<rect x=\"260\" y=\"446\" width=\"190\" height=\"34\" rx=\"8\" fill=\"#f4e7e4\" stroke=\"#bd7a6d\"/>\n<text x=\"355\" y=\"468\" text-anchor=\"middle\" fill=\"#7c4a3e\" font-size=\"15\" font-weight=\"700\">信用即命脉（¶8-9）</text>\n<text class=\"mm-arrow\" data-for=\"bc3\" x=\"442\" y=\"468\" text-anchor=\"end\" fill=\"#7c4a3e\">▾</text>\n</g>\n<g class=\"mm-children\" id=\"bc3\">\n<path d=\"M450,463 C462,463 462,400 480,400\" stroke=\"#bd7a6d\" stroke-width=\"1.5\" fill=\"none\"/>\n<path d=\"M450,463 C462,463 462,442 480,442\" stroke=\"#bd7a6d\" stroke-width=\"1.5\" fill=\"none\"/>\n<path d=\"M450,463 C462,463 462,484 480,484\" stroke=\"#bd7a6d\" stroke-width=\"1.5\" fill=\"none\"/>\n<path d=\"M450,463 C462,463 462,526 480,526\" stroke=\"#bd7a6d\" stroke-width=\"1.5\" fill=\"none\"/>\n<rect x=\"480\" y=\"384\" width=\"456\" height=\"32\" rx=\"8\" fill=\"#f4e7e4\"/><text x=\"492\" y=\"405\" fill=\"#3d3a34\" font-size=\"14\">700 亿投初创，360 亿兜底 AI 云</text>\n<rect x=\"480\" y=\"426\" width=\"456\" height=\"32\" rx=\"8\" fill=\"#f4e7e4\"/><text x=\"492\" y=\"447\" fill=\"#3d3a34\" font-size=\"14\">5000 亿融资计划，只凭他一句话</text>\n<rect x=\"480\" y=\"468\" width=\"456\" height=\"32\" rx=\"8\" fill=\"#f4e7e4\"/><text x=\"492\" y=\"489\" fill=\"#3d3a34\" font-size=\"14\">她缺技术底子，董事会另寻人</text>\n<rect x=\"480\" y=\"510\" width=\"456\" height=\"32\" rx=\"8\" fill=\"#f4e7e4\"/><text x=\"492\" y=\"531\" fill=\"#3d3a34\" font-size=\"14\">答案或许在苹果的交接范本</text>\n</g>\n<text x=\"486\" y=\"170\" fill=\"#8a8578\" font-size=\"11.5\">↓ 机器够强，考题另在三处</text>\n<text x=\"486\" y=\"368\" fill=\"#8a8578\" font-size=\"11.5\">↓ 三关之下，押的是他本人</text>\n</svg>",
+  "img": ""
+ }
+}

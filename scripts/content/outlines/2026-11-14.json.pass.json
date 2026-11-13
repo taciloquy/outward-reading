@@ -1,0 +1,31 @@
+{
+  "outline": "scripts/content/outlines/2026-11-14.json",
+  "outline_mtime": 1794564070.185419,
+  "checked_at": "2026-11-13 18:01:12",
+  "user_confirmed": false,
+  "center": "谁来接黄仁勋",
+  "branches": [
+    {
+      "title": "四天换帅",
+      "subs": 3,
+      "relation": null
+    },
+    {
+      "title": "连闯三关",
+      "subs": 4,
+      "relation": "机器够强，考题另在三处"
+    },
+    {
+      "title": "信用即命脉",
+      "subs": 4,
+      "relation": "三关之下，押的是他本人"
+    }
+  ],
+  "branch_count": 3,
+  "subs_counts": [
+    3,
+    4,
+    4
+  ],
+  "warns": []
+}

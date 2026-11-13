@@ -1,6 +1,13 @@
 // ===== 文章数据库（独立静态资源；正文全文见 search-index.js） =====
     const ARTICLES = [
       {
+        title: "黄仁勋黯然出局。其继任者接下的，是科技界最艰巨的担子",
+        publishDate: "2026-11-14",
+        fileKey: "2026-11-14_001",
+        readingPath: "/outward-reading/articles/2026/11/2026-11-14_001.reading.html",
+        source: "The Economist"
+      },
+      {
         title: "千禧一代 vs 婴儿潮：一场正在撕裂美国的代际战争",
         publishDate: "2026-11-13",
         fileKey: "2026-11-13_001",
