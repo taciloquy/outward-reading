@@ -1,79 +1,790 @@
 {
-  "date": "2026-11-13",
-  "title_tag": "千禧一代 vs 婴儿潮：一场正在撕裂美国的代际战争 —— 美国《华盛顿邮报》外刊讲解第1227天",
-  "h1": "千禧一代 vs 婴儿潮：一场正在撕裂美国的代际战争",
-  "source_label": "Washington Post",
-  "category": "美国《华盛顿邮报》外刊讲解 第1227天",
-  "read_minutes": 10,
-  "nav_hint": "The Return of Generational Warfare",
-  "headline": {
-    "en_html": "The Return of Generational Warfare",
-    "zh": "",
-    "notes": []
-  },
-  "paragraphs": [
+ "date": "2026-11-13",
+ "title_tag": "千禧一代 vs 婴儿潮：一场正在撕裂美国的代际战争 —— 美国《华盛顿邮报》外刊讲解第1227天",
+ "h1": "千禧一代 vs 婴儿潮：一场正在撕裂美国的代际战争",
+ "source_label": "Washington Post",
+ "category": "美国《华盛顿邮报》外刊讲解 第1227天",
+ "read_minutes": 10,
+ "nav_hint": "The Return of Generational Warfare",
+ "headline": {
+  "en_html": "The Return of <mark class=\"voc\">Generational</mark> <mark class=\"voc\">Warfare</mark>",
+  "zh": "千禧一代 vs 婴儿潮：一场正在撕裂美国的代际战争",
+  "notes": [
+   {
+    "w": "generational",
+    "ipa": "/ˌdʒenəˈreɪʃənəl/",
+    "pos": "adj.",
+    "en": "Relating to a particular generation or to differences between generations.",
+    "zh": "一代人的；代际的；不同世代之间的",
+    "ctx": "形容年轻一代与年长一代之间的矛盾和冲突",
+    "ex1": "Generational differences often shape people's attitudes toward work. 代际差异常常影响人们对工作的态度。",
+    "ex2": "The country is experiencing a generational shift in political values. 这个国家正在经历政治价值观的代际转变。"
+   },
+   {
+    "w": "warfare",
+    "ipa": "/ˈwɔːrfer/",
+    "pos": "n.",
+    "en": "The activity of fighting a war or a serious struggle between opposing groups.",
+    "zh": "战争；斗争；激烈冲突",
+    "ctx": "不同世代之间围绕财富、资源和政治权力展开的对立",
+    "ex1": "Political warfare has divided the country for decades. 数十年来，政治斗争一直使这个国家陷入分裂。",
+    "ex2": "The disagreement gradually developed into open warfare between the two groups. 这场分歧逐渐演变成两个群体之间的公开对抗。"
+   }
+  ]
+ },
+ "paragraphs": [
+  {
+   "en_html": "As last week’s midterms demonstrated, young people appear <mark class=\"voc\">poised</mark> to drive American politics, and particularly the Democratic Party, further to the left. This is particularly true in big cities. New York Mayor Zohran Mamdani was elected last year with crucial support from younger voters, while in Los Angeles, <mark class=\"voc\">preelection</mark> surveys showed <mark class=\"voc\">democratic socialist</mark> (and now <mark class=\"voc\">Mayor-elect</mark>) Nithya Raman leading by almost five to one among voters in their thirties and by more than four to one among voters aged 18 to 29.",
+   "zh": "正如上周的中期选举所表明的那样，年轻人似乎正蓄势待发，准备推动美国政治，尤其是民主党，进一步向左转。这一点在大城市尤为明显。纽约市长佐赫兰·马姆达尼去年成功当选，年轻选民的关键支持功不可没。而在洛杉矶，选前民调显示，民主社会主义者妮蒂娅·拉曼（如今已成为候任市长）在30多岁的选民中以接近五比一的优势领先，在18至29岁的选民中则以超过四比一的优势领先。",
+   "notes": [
     {
-      "en_html": "As last week’s midterms demonstrated, young people appear poised to drive American politics, and particularly the Democratic Party, further to the left. This is particularly true in big cities. New York Mayor Zohran Mamdani was elected last year with crucial support from younger voters, while in Los Angeles, preelection surveys showed democratic socialist (and now Mayor-elect) Nithya Raman leading by almost five to one among voters in their thirties and by more than four to one among voters aged 18 to 29.",
-      "zh": "",
-      "notes": []
+     "w": "poised",
+     "ipa": "/pɔɪzd/",
+     "pos": "adj.",
+     "en": "Ready or prepared to do something or for something to happen.",
+     "zh": "准备就绪的；蓄势待发的",
+     "ctx": "appear poised to do sth.，似乎即将采取行动或推动某种变化",
+     "ex1": "The company is poised to become a global leader in artificial intelligence. 这家公司正蓄势待发，有望成为人工智能领域的全球领导者。",
+     "ex2": "A new generation of politicians is poised to challenge the traditional political system. 新一代政治人物正准备挑战传统政治体系。"
     },
     {
-      "en_html": "Nationally, two-thirds of voters aged 18 to 29 voted Democratic in House races last Tuesday. The recent return of generational conflict has a 1960s vibe. As back then, it’s affecting the “rich” countries like the United States, Canada, the U.K., and the nations of the European Union, but it’s also occurring in poorer regions, with mass protests spreading from Paris and Milan to Katmandu, Jakarta, Manila, New Delhi, and Sri Lanka. A new generational war could prove devastating. Societies, noted Aristotle, are like ships: though the crew members have different roles, they all must work together on a common journey.",
-      "zh": "",
-      "notes": []
+     "w": "preelection",
+     "ipa": "/ˌpriːɪˈlekʃən/",
+     "pos": "adj.",
+     "en": "Happening or existing before an election takes place.",
+     "zh": "选举前的",
+     "ctx": "preelection surveys，选前民意调查",
+     "ex1": "Preelection polls suggested that the race would be extremely close. 选前民调显示，这场选举的竞争将异常激烈。",
+     "ex2": "The candidate gained popularity during the preelection campaign. 这位候选人在选前竞选活动中赢得了更多支持。"
     },
     {
-      "en_html": "The temptation to go after the successful baby boomers seems irrepressible. Many economists and politicians treat the aging population as a great liability. The United States, like the rest of the world, is older than it has ever been: the population aged 65 and older is projected to grow from 58 million in 2022 to 82 million by 2050. The Atlantic, for example, denounces a corrupt gerontocracy that has “amassed disproportionate wealth and power.”",
-      "zh": "",
-      "notes": []
+     "w": "democratic socialist",
+     "ipa": "/ˌdeməˈkrætɪk ˈsəʊʃəlɪst/",
+     "pos": "n.",
+     "en": "A person who supports achieving socialist goals through democratic political processes.",
+     "zh": "民主社会主义者",
+     "ctx": "用于描述妮蒂娅·拉曼的政治立场，强调通过民主制度推动社会主义政策目标",
+     "ex1": "The democratic socialist called for higher taxes on wealthy citizens. 这位民主社会主义者呼吁对富裕公民征收更高的税。",
+     "ex2": "Some young voters support democratic socialists because of their housing policies. 一些年轻选民因为住房政策而支持民主社会主义者。"
     },
     {
-      "en_html": "Burning down their grandparents’ world may feel satisfying in the moment, but the notion that older Americans had it easier is not convincing. Boomers faced interest rates as high as 17 percent and unemployment rates much higher than today.",
-      "zh": "",
-      "notes": []
-    },
-    {
-      "en_html": "Many Generation Z (zoomers) and millennials appear to lack appreciation for the contributions of their elders. In the U.S. alone, according to one financial estimate, younger cohorts will harvest upward of $73 trillion from older generations by 2045.",
-      "zh": "",
-      "notes": []
-    },
-    {
-      "en_html": "To be sure, youthful resentment has roots in reality: fewer than half of American millennials are doing better than their parents. Between 2022 and 2025, median net worth rose 37 percent for Americans aged 75 and over while falling 23 percent among those under 35. In terms of income, millennials have fared better than their parents but still lag behind in net worth, largely because of low homeownership rates. According to the U.S. Census Bureau, the homeownership rate among young adults aged 25 to 34 was 45 percent for Generation X but dropped to 37 percent for millennials. Not coincidentally, the share of Americans aged 18 to 29 living at home has grown steadily in recent years and now sits at 49 percent. This creates the prospect of a new cohort of “forever renters” dependent on large corporations or the state to supply their residences.",
-      "zh": "",
-      "notes": []
-    },
-    {
-      "en_html": "Housing is just one source of younger Americans’ skepticism about the future. Today, the angst is more generational, as 69 percent of millennials believe success is much harder to achieve than it was for older generations.",
-      "zh": "",
-      "notes": []
-    },
-    {
-      "en_html": "Underemployment among recent college graduates has reached 42 percent, and many young people carry massive student-loan debt. One might expect that young people would be excited about unprecedented technological progress, from the rise of space industries to artificial intelligence. Instead, many view the rise of AI and robots with trepidation. According to Pew, 73 percent of Americans under 30 think AI means fewer jobs.",
-      "zh": "",
-      "notes": []
-    },
-    {
-      "en_html": "Fear of the future under capitalism plays into the hands of those promoting an authoritarian alternative. It’s not just the flag that young people are unenthusiastic about but the liberal economic system that has powered the American experiment. According to a Cato Institution/YouGov poll, 62 percent of Americans under 30 have a positive view of socialism; one-third support Communism. What “socialism” and “capitalism” mean remains up in the air.",
-      "zh": "",
-      "notes": []
-    },
-    {
-      "en_html": "Of course, despite the talk of geezer greed, not all boomers are rich. Forty percent of U.S. retirees have insufficient savings, and 19 percent have already burned through what they had stored away. The more constructive alternative to generational war, of course, would be a truce. Seniors often support their children financially. In 2024, 2.6 million parents gave over $26 billion to their children living outside the home. Nearly one in four first-time homebuyers rely on families for down payments.",
-      "zh": "",
-      "notes": []
-    },
-    {
-      "en_html": "Boomers—the vast majority of seniors—and the aging Xers account for the largest group of formal and informal volunteers helping out their neighbors and fellow citizens. Today, more than two-thirds of grandparents are caregivers, often on a regular, even daily basis, contributing over $900 billion to the broader economy by allowing parents to work or go to school. Seniors need the younger generations, too, especially as they age. The truth is, the generations need each other, as they always have. Most young Americans aspire to own a single-family home and start a family. It’s the obligation of the older generation to help them achieve this—not for their own pleasure, but for the future of society.",
-      "zh": "",
-      "notes": []
+     "w": "Mayor-elect",
+     "ipa": "/ˈmeɪər ɪˌlekt/",
+     "pos": "n.",
+     "en": "A person who has been elected mayor but has not yet officially taken office.",
+     "zh": "候任市长；当选市长",
+     "ctx": "拉曼已经赢得洛杉矶市长选举，但尚未正式就职",
+     "ex1": "The mayor-elect promised to make housing more affordable. 候任市长承诺让住房变得更加负担得起。",
+     "ex2": "The mayor-elect will officially take office next month. 当选市长将于下个月正式就职。"
     }
-  ],
-  "proper": [],
-  "sources_note": "依据美国《华盛顿邮报》（The Washington Post）2026-11-13 报道。",
-  "practice": {},
-  "mindmap": {
-    "svg": "<svg viewBox=\"0 0 960 530\" xmlns=\"http://www.w3.org/2000/svg\" role=\"img\" aria-label=\"代际战争回归 思维导图\" style=\"width:100%;height:auto;font-family:-apple-system,'PingFang SC','Hiragino Sans GB','Microsoft YaHei',sans-serif\">\n<rect x=\"24\" y=\"221\" width=\"176\" height=\"88\" rx=\"14\" fill=\"#eae3d2\" stroke=\"#9a8f76\"/>\n<text x=\"112\" y=\"257\" text-anchor=\"middle\" fill=\"#3d3a34\" font-size=\"17\" font-weight=\"700\">代际战火</text>\n<text x=\"112\" y=\"283\" text-anchor=\"middle\" fill=\"#5c5648\" font-size=\"12.5\">归来还是休战</text>\n<path d=\"M200,265 C232,265 232,88 260,88\" stroke=\"#6b8f71\" stroke-width=\"2\" fill=\"none\"/>\n<path d=\"M200,265 C232,265 232,265 260,265\" stroke=\"#7d98ad\" stroke-width=\"2\" fill=\"none\"/>\n<path d=\"M200,265 C232,265 232,442 260,442\" stroke=\"#bd7a6d\" stroke-width=\"2\" fill=\"none\"/>\n<g class=\"mm-branch\" data-target=\"bc1\">\n<rect x=\"260\" y=\"71\" width=\"190\" height=\"34\" rx=\"8\" fill=\"#e6efe7\" stroke=\"#6b8f71\"/>\n<text x=\"355\" y=\"93\" text-anchor=\"middle\" fill=\"#4c6b52\" font-size=\"15\" font-weight=\"700\">战火重燃（¶1-3）</text>\n<text class=\"mm-arrow\" data-for=\"bc1\" x=\"442\" y=\"93\" text-anchor=\"end\" fill=\"#4c6b52\">▾</text>\n</g>\n<g class=\"mm-children\" id=\"bc1\">\n<path d=\"M450,88 C462,88 462,46 480,46\" stroke=\"#6b8f71\" stroke-width=\"1.5\" fill=\"none\"/>\n<path d=\"M450,88 C462,88 462,88 480,88\" stroke=\"#6b8f71\" stroke-width=\"1.5\" fill=\"none\"/>\n<path d=\"M450,88 C462,88 462,130 480,130\" stroke=\"#6b8f71\" stroke-width=\"1.5\" fill=\"none\"/>\n<rect x=\"480\" y=\"30\" width=\"456\" height=\"32\" rx=\"8\" fill=\"#e6efe7\"/><text x=\"492\" y=\"51\" fill=\"#3d3a34\" font-size=\"14\">青年把美国政治推向左，纽约洛杉矶为证</text>\n<rect x=\"480\" y=\"72\" width=\"456\" height=\"32\" rx=\"8\" fill=\"#e6efe7\"/><text x=\"492\" y=\"93\" fill=\"#3d3a34\" font-size=\"14\">18–29 岁过半投民主党，冲突带 1960s 味</text>\n<rect x=\"480\" y=\"114\" width=\"456\" height=\"32\" rx=\"8\" fill=\"#e6efe7\"/><text x=\"492\" y=\"135\" fill=\"#3d3a34\" font-size=\"14\">婴儿潮被斥老龄化负债，65+ 人口将破 8 千万</text>\n</g>\n<g class=\"mm-branch\" data-target=\"bc2\">\n<rect x=\"260\" y=\"248\" width=\"190\" height=\"34\" rx=\"8\" fill=\"#e5edf4\" stroke=\"#7d98ad\"/>\n<text x=\"355\" y=\"270\" text-anchor=\"middle\" fill=\"#3d5872\" font-size=\"15\" font-weight=\"700\">怨恨有根（¶4-8）</text>\n<text class=\"mm-arrow\" data-for=\"bc2\" x=\"442\" y=\"270\" text-anchor=\"end\" fill=\"#3d5872\">▾</text>\n</g>\n<g class=\"mm-children\" id=\"bc2\">\n<path d=\"M450,265 C462,265 462,202 480,202\" stroke=\"#7d98ad\" stroke-width=\"1.5\" fill=\"none\"/>\n<path d=\"M450,265 C462,265 462,244 480,244\" stroke=\"#7d98ad\" stroke-width=\"1.5\" fill=\"none\"/>\n<path d=\"M450,265 C462,265 462,286 480,286\" stroke=\"#7d98ad\" stroke-width=\"1.5\" fill=\"none\"/>\n<path d=\"M450,265 C462,265 462,328 480,328\" stroke=\"#7d98ad\" stroke-width=\"1.5\" fill=\"none\"/>\n<rect x=\"480\" y=\"186\" width=\"456\" height=\"32\" rx=\"8\" fill=\"#e5edf4\"/><text x=\"492\" y=\"207\" fill=\"#3d3a34\" font-size=\"14\">烧祖辈世界虽爽，长辈曾扛 17% 高利率</text>\n<rect x=\"480\" y=\"228\" width=\"456\" height=\"32\" rx=\"8\" fill=\"#e5edf4\"/><text x=\"492\" y=\"249\" fill=\"#3d3a34\" font-size=\"14\">千禧 Z 世代将继承逾 73 万亿财富</text>\n<rect x=\"480\" y=\"270\" width=\"456\" height=\"32\" rx=\"8\" fill=\"#e5edf4\"/><text x=\"492\" y=\"291\" fill=\"#3d3a34\" font-size=\"14\">仅 37% 有房、49% 青年仍住父母家</text>\n<rect x=\"480\" y=\"312\" width=\"456\" height=\"32\" rx=\"8\" fill=\"#e5edf4\"/><text x=\"492\" y=\"333\" fill=\"#3d3a34\" font-size=\"14\">42% 毕业生就业不足，73% 忧 AI 抢岗</text>\n</g>\n<g class=\"mm-branch\" data-target=\"bc3\">\n<rect x=\"260\" y=\"425\" width=\"190\" height=\"34\" rx=\"8\" fill=\"#f4e7e4\" stroke=\"#bd7a6d\"/>\n<text x=\"355\" y=\"447\" text-anchor=\"middle\" fill=\"#7c4a3e\" font-size=\"15\" font-weight=\"700\">出路在握（¶9-11）</text>\n<text class=\"mm-arrow\" data-for=\"bc3\" x=\"442\" y=\"447\" text-anchor=\"end\" fill=\"#7c4a3e\">▾</text>\n</g>\n<g class=\"mm-children\" id=\"bc3\">\n<path d=\"M450,442 C462,442 462,400 480,400\" stroke=\"#bd7a6d\" stroke-width=\"1.5\" fill=\"none\"/>\n<path d=\"M450,442 C462,442 462,442 480,442\" stroke=\"#bd7a6d\" stroke-width=\"1.5\" fill=\"none\"/>\n<path d=\"M450,442 C462,442 462,484 480,484\" stroke=\"#bd7a6d\" stroke-width=\"1.5\" fill=\"none\"/>\n<rect x=\"480\" y=\"384\" width=\"456\" height=\"32\" rx=\"8\" fill=\"#f4e7e4\"/><text x=\"492\" y=\"405\" fill=\"#3d3a34\" font-size=\"14\">62% 青年挺社会主义，三成支持共</text>\n<rect x=\"480\" y=\"426\" width=\"456\" height=\"32\" rx=\"8\" fill=\"#f4e7e4\"/><text x=\"492\" y=\"447\" fill=\"#3d3a34\" font-size=\"14\">四成退休者储蓄不足，但长辈仍资助</text>\n<rect x=\"480\" y=\"468\" width=\"456\" height=\"32\" rx=\"8\" fill=\"#f4e7e4\"/><text x=\"492\" y=\"489\" fill=\"#3d3a34\" font-size=\"14\">代际彼此需要，停战方为正途</text>\n</g>\n<text x=\"486\" y=\"170\" fill=\"#8a8578\" font-size=\"11.5\">↓ 为何烧得旺</text>\n<text x=\"486\" y=\"368\" fill=\"#8a8578\" font-size=\"11.5\">↓ 最终落到</text>\n</svg>",
-    "img": "/Users/malen/.workbuddy/backups/handmap/2026-11-13-handmap-v3.jpg",
-    "alt": "代际战争回归 思维导图（手绘版）"
+   ]
+  },
+  {
+   "en_html": "Nationally, two-thirds of voters aged 18 to 29 voted Democratic in House races last Tuesday. The recent return of generational conflict has a 1960s <mark class=\"voc\">vibe</mark>. As back then, it’s affecting the “rich” countries like the United States, Canada, the U.K., and the nations of the European Union, but it’s also occurring in poorer regions, with mass protests spreading from Paris and Milan to Katmandu, Jakarta, Manila, New Delhi, and Sri Lanka. A new generational war could <mark class=\"voc\">prove</mark> <mark class=\"voc\">devastating</mark>. Societies, noted Aristotle, are like ships: though the <mark class=\"voc\">crew</mark> members have different roles, they all must work together on a common journey.",
+   "zh": "从全国范围来看，在上周二的众议院选举中，18至29岁的选民有三分之二投票支持民主党。最近重新出现的代际冲突颇有20世纪60年代的味道。与当年一样，这种冲突不仅影响着美国、加拿大、英国和欧盟成员国等“富裕”国家，也正在较为贫穷的地区发生，大规模抗议活动从巴黎、米兰蔓延至加德满都、雅加达、马尼拉、新德里和斯里兰卡。一场新的代际战争可能造成毁灭性的后果。亚里士多德曾指出，社会就像一艘船：尽管船员们各自承担着不同的职责，但所有人都必须为了共同的航程而齐心协力。",
+   "notes": [
+    {
+     "w": "vibe",
+     "ipa": "/vaɪb/",
+     "pos": "n.",
+     "en": "The general feeling, mood, or atmosphere that a person, place, or situation creates.",
+     "zh": "氛围；感觉；气息",
+     "ctx": "has a 1960s vibe，带有20世纪60年代社会运动和代际对抗的氛围",
+     "ex1": "The neighborhood has a relaxed and artistic vibe. 这个街区有一种轻松而富有艺术气息的氛围。",
+     "ex2": "The student protests had a rebellious vibe reminiscent of the 1960s. 这些学生抗议活动带有一种令人联想到20世纪60年代的反叛气息。"
+    },
+    {
+     "w": "prove",
+     "ipa": "/pruːv/",
+     "pos": "v.",
+     "en": "To turn out to be something or to have a particular quality or result.",
+     "zh": "结果是；最终被证明是",
+     "ctx": "could prove devastating，最终可能造成毁灭性的后果",
+     "ex1": "The new policy could prove unpopular among younger voters. 这项新政策最终可能不受年轻选民欢迎。",
+     "ex2": "The decision proved costly for the company. 事实证明，这项决定让公司付出了高昂的代价。"
+    },
+    {
+     "w": "devastating",
+     "ipa": "/ˈdevəsteɪtɪŋ/",
+     "pos": "adj.",
+     "en": "Causing great damage, destruction, or suffering.",
+     "zh": "毁灭性的；破坏性极大的；令人痛苦的",
+     "ctx": "新的代际战争可能对社会团结和稳定造成严重破坏",
+     "ex1": "The economic crisis had a devastating impact on working families. 经济危机对工薪家庭造成了毁灭性的影响。",
+     "ex2": "A prolonged conflict between generations could have devastating consequences for society. 长期的代际冲突可能给社会带来灾难性的后果。"
+    },
+    {
+     "w": "crew",
+     "ipa": "/kruː/",
+     "pos": "n.",
+     "en": "A group of people who work together, especially on a ship or aircraft.",
+     "zh": "全体船员；机组人员；工作人员",
+     "ctx": "crew members，船员；比喻社会中承担不同职责的成员",
+     "ex1": "The ship's crew worked together to survive the storm. 船上的全体船员齐心协力，挺过了暴风雨。",
+     "ex2": "Every crew member has an important responsibility during the voyage. 在航行过程中，每一位船员都肩负着重要的责任。"
+    }
+   ]
+  },
+  {
+   "en_html": "The <mark class=\"voc\">temptation</mark> to <mark class=\"voc\">go after</mark> the successful <mark class=\"voc\">baby boomers</mark> seems <mark class=\"voc\">irrepressible</mark>. Many economists and politicians treat the aging population as a great <mark class=\"voc\">liability</mark>. The United States, like the rest of the world, is older than it has ever been: the population aged 65 and older is <mark class=\"voc\">projected</mark> to grow from 58 million in 2022 to 82 million by 2050. The Atlantic, for example, <mark class=\"voc\">denounces</mark> a corrupt <mark class=\"voc\">gerontocracy</mark> that has “<mark class=\"voc\">amassed</mark> <mark class=\"voc\">disproportionate</mark> wealth and power.”",
+   "zh": "想要将矛头指向那些事业有成的婴儿潮一代，这种冲动似乎已经难以遏制。许多经济学家和政治人物将老龄化人口视为巨大的负担。美国和世界其他地区一样，人口老龄化程度已经达到历史最高水平：预计65岁及以上的人口将从2022年的5800万增长到2050年的8200万。例如，《大西洋月刊》就谴责了一种腐败的老人统治体制，认为它“积累了与其人口比例不相称的财富和权力”。",
+   "notes": [
+    {
+     "w": "temptation",
+     "ipa": "/tempˈteɪʃən/",
+     "pos": "n.",
+     "en": "A strong desire to do something, especially something that may be unwise or harmful.",
+     "zh": "诱惑；强烈的冲动；想做某事的欲望",
+     "ctx": "指责和攻击事业有成的婴儿潮一代的强烈冲动",
+     "ex1": "Many politicians cannot resist the temptation to blame others for economic problems. 许多政治人物无法抵挡将经济问题归咎于他人的冲动。",
+     "ex2": "She resisted the temptation to spend all her savings on a new car. 她抵制住了把全部积蓄花在新车上的诱惑。"
+    },
+    {
+     "w": "go after phr.",
+     "ipa": "/ɡəʊ ˈɑːftər/",
+     "pos": "v.",
+     "en": "To criticize, attack, or pursue someone or something.",
+     "zh": "追逐；攻击；批评；针对",
+     "ctx": "将矛头指向婴儿潮一代，批评他们占有过多财富和资源",
+     "ex1": "The opposition party went after the president over his economic policies. 反对党就总统的经济政策对他展开了猛烈批评。",
+     "ex2": "Instead of solving the problem, the politician chose to go after his critics. 这位政治人物没有解决问题，反而选择攻击批评他的人。"
+    },
+    {
+     "w": "baby boomer",
+     "ipa": "/ˈbeɪbi ˌbuːmər/",
+     "pos": "n.",
+     "en": "A person born during the period of high birth rates following the Second World War, usually between 1946 and 1964.",
+     "zh": "婴儿潮一代的人",
+     "ctx": "通常指出生于1946年至1964年、如今已进入中老年阶段的一代美国人",
+     "ex1": "Many baby boomers bought their first homes when housing was relatively affordable. 许多婴儿潮一代的人在住房相对负担得起的时候购买了自己的第一套房。",
+     "ex2": "As baby boomers retire, younger workers are taking on more responsibilities. 随着婴儿潮一代陆续退休，年轻员工正在承担更多责任。"
+    },
+    {
+     "w": "irrepressible",
+     "ipa": "/ˌɪrɪˈpresəbl/",
+     "pos": "adj.",
+     "en": "Impossible to control, stop, or prevent from being expressed.",
+     "zh": "无法抑制的；难以遏制的；控制不住的",
+     "ctx": "批评和攻击婴儿潮一代的冲动似乎已经无法遏制",
+     "ex1": "Her irrepressible enthusiasm inspired everyone in the classroom. 她那无法抑制的热情感染了教室里的每一个人。",
+     "ex2": "The crowd showed irrepressible excitement when the election results were announced. 选举结果公布时，人群表现出难以抑制的兴奋。"
+    },
+    {
+     "w": "liability",
+     "ipa": "/ˌlaɪəˈbɪləti/",
+     "pos": "n.",
+     "en": "Someone or something that causes problems, creates disadvantages, or places a burden on others.",
+     "zh": "负担；累赘；不利因素；法律责任",
+     "ctx": "将老龄化人口视为社会和经济发展的巨大负担",
+     "ex1": "Some economists view rising public debt as a serious liability for future generations. 一些经济学家认为，不断增加的公共债务是未来世代的沉重负担。",
+     "ex2": "His lack of experience became a liability during the negotiations. 他缺乏经验这一点在谈判过程中成了一个不利因素。"
+    },
+    {
+     "w": "project",
+     "ipa": "/prəˈdʒekt/",
+     "pos": "v.",
+     "en": "To estimate or predict what will happen in the future based on available information.",
+     "zh": "预测；预计；推算",
+     "ctx": "is projected to grow，预计将会增长，指根据人口统计数据推算未来老年人口规模",
+     "ex1": "The country's population is projected to reach 100 million by 2050. 预计到2050 年，这个国家的人口将达到一亿。",
+     "ex2": "Economists project that healthcare spending will continue to rise. 经济学家预测，医疗支出将继续增长。"
+    },
+    {
+     "w": "denounce",
+     "ipa": "/dɪˈnaʊns/",
+     "pos": "v.",
+     "en": "To publicly criticize someone or something strongly because it is considered wrong or unacceptable.",
+     "zh": "公开谴责；强烈抨击；指责",
+     "ctx": "《大西洋月刊》公开批评由老年人掌握过多财富和权力的体制",
+     "ex1": "The journalist denounced the government's failure to address the housing crisis. 这位记者强烈谴责政府未能解决住房危机。",
+     "ex2": "Several lawmakers denounced the policy as unfair to younger generations. 几位议员公开谴责这项政策对年轻一代不公平。"
+    },
+    {
+     "w": "gerontocracy",
+     "ipa": "/ˌdʒerənˈtɒkrəsi/",
+     "pos": "n.",
+     "en": "A political or social system in which power is held mainly by elderly people.",
+     "zh": "老人统治；老年人掌权的政治体制",
+     "ctx": "指老年群体在政治、经济和社会决策中掌握过多权力的体制",
+     "ex1": "Critics argue that the country's political system has become a gerontocracy. 批评者认为，这个国家的政治制度已经变成了一种老人统治体制。",
+     "ex2": "Young voters are increasingly frustrated with what they see as a gerontocracy. 年轻选民对他们眼中的老人统治体制越来越感到不满。"
+    },
+    {
+     "w": "amass",
+     "ipa": "/əˈmæs/",
+     "pos": "v.",
+     "en": "To collect or accumulate a large amount of something, especially money, wealth, or power, over time.",
+     "zh": "积累；聚集；大量获取",
+     "ctx": "amassed disproportionate wealth and power，积累了与其人口比例不相称的财富和权力",
+     "ex1": "The businessman amassed a fortune through investments in technology companies. 这位商人通过投资科技公司积累了巨额财富。",
+     "ex2": "Over several decades, the political elite amassed enormous influence. 几十年来，政治精英积累了巨大的影响力。"
+    },
+    {
+     "w": "disproportionate",
+     "ipa": "/ˌdɪsprəˈpɔːrʃənət/",
+     "pos": "adj.",
+     "en": "Too large or too small in comparison with something else, or not in a fair or reasonable proportion.",
+     "zh": "不成比例的；不相称的；过大的",
+     "ctx": "老年群体拥有的财富和权力相对于其他世代而言过多",
+     "ex1": "Wealthy families hold a disproportionate share of the country's assets. 富裕家庭占有了这个国家不成比例的大量资产。",
+     "ex2": "The economic crisis placed a disproportionate burden on low-income workers. 经济危机给低收入劳动者带来了不成比例的沉重负担。"
+    }
+   ]
+  },
+  {
+   "en_html": "<mark class=\"voc\">Burning down</mark> their grandparents’ world may feel satisfying <mark class=\"voc\">in the moment</mark>, but the <mark class=\"voc\">notion</mark> that older Americans had it easier is not <mark class=\"voc\">convincing</mark>. Boomers faced interest rates as high as 17 percent and unemployment rates much higher than today. Many Generation Z (zoomers) and <mark class=\"voc\">millennials</mark> appear to lack appreciation for the contributions of their elders. In the U.S. alone, according to one financial estimate, younger <mark class=\"voc\">cohorts</mark> will <mark class=\"voc\">harvest</mark> <mark class=\"voc\">upward of</mark> $73 trillion from older generations by 2045.",
+   "zh": "摧毁祖辈所建立的世界，也许能让年轻人在那一刻感到痛快，但认为美国老一辈人的生活更加轻松，这种观点并不令人信服。婴儿潮一代曾经面临高达17%的利率，以及远高于今天的失业率。许多Z世代和千禧一代似乎没有充分认识到长辈们所作出的贡献。仅在美国，根据一项金融估算，到2045年，年轻世代就将从老一辈人那里继承超过73万亿美元的财富。",
+   "notes": [
+    {
+     "w": "burn down phr.",
+     "ipa": "/bɜːrn daʊn/",
+     "pos": "v.",
+     "en": "To destroy something completely by fire, or figuratively to destroy an existing system or structure.",
+     "zh": "烧毁；焚毁；彻底摧毁",
+     "ctx": "Burning down their grandparents’ world，比喻年轻人试图推翻祖辈建立的社会秩序和制度",
+     "ex1": "The fire burned down several historic buildings in the city center. 这场大火烧毁了市中心的几座历史建筑。",
+     "ex2": "Some activists want to burn down the old system rather than reform it. 一些活动人士想要彻底推翻旧制度，而不是对其进行改革。"
+    },
+    {
+     "w": "in the moment",
+     "ipa": "/ɪn ðə ˈməʊmənt/",
+     "pos": "phr.",
+     "en": "At the particular time something is happening, without necessarily considering its future consequences.",
+     "zh": "在当下；在那一刻；一时之间",
+     "ctx": "强调年轻人反抗老一辈时获得的短暂满足感，而非长期的实际收益",
+     "ex1": "The decision seemed reasonable in the moment, but she regretted it later. 这个决定在当时似乎很合理，但她后来后悔了。",
+     "ex2": "Anger can feel powerful in the moment, yet it may lead to poor decisions. 愤怒在当下可能让人感到充满力量，但也可能导致错误的决定。"
+    },
+    {
+     "w": "notion",
+     "ipa": "/ˈnəʊʃən/",
+     "pos": "n.",
+     "en": "An idea, belief, or understanding about something.",
+     "zh": "观念；看法；想法",
+     "ctx": "认为美国老一辈人的生活比年轻一代更加容易的观点",
+     "ex1": "The notion that money guarantees happiness is widely questioned. 金钱能够保证幸福这一观念受到广泛质疑。",
+     "ex2": "Many young people reject the traditional notion of success. 许多年轻人拒绝接受传统的成功观念。"
+    },
+    {
+     "w": "convincing",
+     "ipa": "/kənˈvɪnsɪŋ/",
+     "pos": "adj.",
+     "en": "Able to make someone believe that something is true or reasonable.",
+     "zh": "令人信服的；有说服力的",
+     "ctx": "is not convincing，作者认为老一辈人生活更轻松的说法缺乏足够说服力",
+     "ex1": "The politician failed to provide a convincing explanation for the decision. 这位政治人物未能对这一决定作出令人信服的解释。",
+     "ex2": "Her argument was convincing because it was supported by historical evidence. 她的论点很有说服力，因为有历史证据作为支撑。"
+    },
+    {
+     "w": "millennial",
+     "ipa": "/mɪˈleniəl/",
+     "pos": "n.",
+     "en": "A person born approximately between 1981 and 1996, belonging to the generation after Generation X.",
+     "zh": "千禧一代；Y世代",
+     "ctx": "指出生于大约1981年至1996年的一代人，与Z世代一起被作者视为年轻世代",
+     "ex1": "Many millennials entered the job market during a period of economic uncertainty. 许多千禧一代在经济充满不确定性的时期进入了就业市场。",
+     "ex2": "Millennials often face higher housing costs than their parents did at the same age. 千禧一代面临的住房成本往往高于父母在同龄时所承担的成本。"
+    },
+    {
+     "w": "cohort",
+     "ipa": "/ˈkəʊhɔːrt/",
+     "pos": "n.",
+     "en": "A group of people who share a particular characteristic or experience, especially being born during the same period.",
+     "zh": "同龄群体；一代人；具有共同特征的人群",
+     "ctx": "younger cohorts，年轻世代，指未来将从老一辈继承财富的人群",
+     "ex1": "Younger cohorts are entering the housing market later than previous generations. 年轻世代进入住房市场的时间比前几代人更晚。",
+     "ex2": "Researchers compared the spending habits of different age cohorts. 研究人员比较了不同年龄群体的消费习惯。"
+    },
+    {
+     "w": "harvest",
+     "ipa": "/ˈhɑːrvɪst/",
+     "pos": "v.",
+     "en": "To collect crops or, figuratively, to obtain benefits, rewards, or wealth from something.",
+     "zh": "收获；收割；获得",
+     "ctx": "比喻年轻世代将通过财富继承，从老一辈人那里获得巨额资产",
+     "ex1": "Farmers harvest their crops in the autumn. 农民在秋天收割庄稼。",
+     "ex2": "Future generations may harvest the benefits of today's investments in education. 未来世代可能收获今天教育投资所带来的成果。"
+    },
+    {
+     "w": "upward of",
+     "ipa": "/ˈʌpwərd əv/",
+     "pos": "phr.",
+     "en": "More than a particular amount or number.",
+     "zh": "超过；多于；在……以上",
+     "ctx": "upward of $73 trillion，超过73万亿美元",
+     "ex1": "The project is expected to cost upward of $10 billion. 这个项目预计将耗资超过 100亿美元。",
+     "ex2": "The museum attracts upward of two million visitors every year. 这家博物馆每年吸引超过200万名游客。"
+    }
+   ]
+  },
+  {
+   "en_html": "<mark class=\"voc\">To be sure</mark>, youthful <mark class=\"voc\">resentment</mark> <mark class=\"voc\">has roots in</mark> reality: fewer than half of American millennials are doing better than their parents. Between 2022 and 2025, <mark class=\"voc\">median</mark> <mark class=\"voc\">net worth</mark> rose 37 percent for Americans aged 75 and over while falling 23 percent among those under 35. <mark class=\"voc\">In terms of</mark> income, millennials have <mark class=\"voc\">fared</mark> better than their parents but still <mark class=\"voc\">lag behind</mark> in net worth, largely because of low <mark class=\"voc\">homeownership</mark> rates. According to the U.S. <mark class=\"voc\">Census Bureau</mark>, the homeownership rate among young adults aged 25 to 34 was 45 percent for Generation X but dropped to 37 percent for millennials. <mark class=\"voc\">Not coincidentally</mark>, the share of Americans aged 18 to 29 living at home has grown steadily in recent years and now sits at 49 percent. This creates the prospect of a new cohort of “forever renters” dependent on large corporations or the state to supply their residences.",
+   "zh": "诚然，年轻人的怨恨情绪有着现实根源：在美国千禧一代中，生活过得比父母更好的人还不到一半。2022年至2025年间，75岁及以上美国人的净资产中位数增长了37%，而35岁以下人群的净资产中位数却下降了23%。从收入来看，千禧一代的表现比父母一代更好，但在净资产方面仍然落后，这在很大程度上是因为他们的住房自有率较低。根据美国人口普查局的数据，25至34岁年轻成年人中，X世代的住房自有率为45%，而千禧一代则下降至37%。并非巧合的是，近年来，18至29岁美国人与父母同住的比例持续上升，如今已达到49%。这意味着可能出现新一批“终身租房者”，他们不得不依赖大型企业或政府来提供住所。",
+   "notes": [
+    {
+     "w": "to be sure",
+     "ipa": "/tə bi ʃʊr/",
+     "pos": "phr.",
+     "en": "Used to admit that something is true before introducing a different or contrasting point.",
+     "zh": "诚然；不可否认；的确",
+     "ctx": "作者承认年轻人的不满具有现实依据，为后文列举经济数据作铺垫",
+     "ex1": "To be sure, technology has improved our lives, but it has also created new problems. 诚然，科技改善了我们的生活，但也带来了新的问题。",
+     "ex2": "To be sure, older generations faced difficulties, but young people today have their own struggles. 不可否认，老一辈曾面临困难，但今天的年轻人也有自己的困境。"
+    },
+    {
+     "w": "resentment",
+     "ipa": "/rɪˈzentmənt/",
+     "pos": "n.",
+     "en": "A feeling of anger or bitterness because you believe you have been treated unfairly.",
+     "zh": "怨恨；愤懑；不满情绪",
+     "ctx": "年轻人因经济机会和财富分配不平等而对老一辈产生的不满",
+     "ex1": "Rising inequality has fueled resentment among younger workers. 不断加剧的不平等激起了年轻劳动者的不满。",
+     "ex2": "She felt deep resentment toward a system that seemed to reward only the wealthy. 她对一个似乎只奖励富人的制度感到深深的愤懑。"
+    },
+    {
+     "w": "have roots in",
+     "ipa": "/hæv ruːts ɪn/",
+     "pos": "phr.",
+     "en": "To originate from or be caused by a particular situation, experience, or condition.",
+     "zh": "根源在于；起源于；有……的根源",
+     "ctx": "年轻人的怨恨并非凭空产生，而是源于真实的经济困境",
+     "ex1": "Many social conflicts have roots in economic inequality. 许多社会冲突的根源在于经济不平等。",
+     "ex2": "Her fear of failure has roots in her childhood experiences. 她对失败的恐惧源于童年经历。"
+    },
+    {
+     "w": "median",
+     "ipa": "/ˈmiːdiən/",
+     "pos": "adj.",
+     "en": "Representing the middle value in a set of numbers arranged from lowest to highest.",
+     "zh": "中位数的；居中的",
+     "ctx": "median net worth，净资产中位数，即按净资产排序后处于中间位置的数值",
+     "ex1": "The median household income increased slightly last year. 去年家庭收入中位数略有增长。",
+     "ex2": "Median home prices have risen faster than wages in many cities. 在许多城市，房价中位数的上涨速度超过了工资增长速度。"
+    },
+    {
+     "w": "net worth",
+     "ipa": "/ˌnet ˈwɜːrθ/",
+     "pos": "n.",
+     "en": "The total value of a person's assets after subtracting all debts and financial liabilities.",
+     "zh": "净资产；资产净值",
+     "ctx": "衡量个人财富状况的指标，即房产、储蓄等资产减去债务后的价值",
+     "ex1": "Owning a home can significantly increase a family's net worth. 拥有住房可以显著增加一个家庭的净资产。",
+     "ex2": "Despite earning a high salary, his net worth remained low because of his debts. 尽管收入很高，但由于负债，他的净资产仍然很低。"
+    },
+    {
+     "w": "in terms of",
+     "ipa": "/ɪn ˈtɜːrmz əv/",
+     "pos": "phr.",
+     "en": "Used to describe the particular aspect or subject being considered.",
+     "zh": "就……而言；从……方面来看",
+     "ctx": "in terms of income，从收入这一衡量标准来看",
+     "ex1": "In terms of salary, young workers are doing better than before. 从工资来看，年轻劳动者的情况比过去有所改善。",
+     "ex2": "The city performs well in terms of economic growth but poorly in housing affordability. 这座城市在经济增长方面表现良好，但在住房可负担性方面表现不佳。"
+    },
+    {
+     "w": "fare",
+     "ipa": "/fer/",
+     "pos": "v.",
+     "en": "To perform or experience a particular level of success or difficulty in a situation.",
+     "zh": "表现；进展；过得",
+     "ctx": "have fared better，千禧一代在收入方面的表现比父母一代更好",
+     "ex1": "Young graduates have fared poorly in the competitive job market. 年轻毕业生在竞争激烈的就业市场中处境不佳。",
+     "ex2": "Families with stable incomes generally fare better during economic downturns. 收入稳定的家庭通常在经济衰退期间过得更好。"
+    },
+    {
+     "w": "lag behind phr.",
+     "ipa": "/læɡ bɪˈhaɪnd/",
+     "pos": "v.",
+     "en": "To develop, progress, or perform more slowly or less successfully than others.",
+     "zh": "落后于；进展缓慢；跟不上",
+     "ctx": "千禧一代虽然收入有所提高，但在财富积累方面仍落后于父母一代",
+     "ex1": "Wage growth continues to lag behind rising housing costs. 工资增长仍然赶不上不断上涨的住房成本。",
+     "ex2": "Some rural areas lag behind major cities in technological development. 一些农村地区在技术发展方面落后于大城市。"
+    },
+    {
+     "w": "homeownership",
+     "ipa": "/ˌhəʊmˈəʊnərʃɪp/",
+     "pos": "n.",
+     "en": "The state of owning the home in which one lives.",
+     "zh": "住房所有权；拥有自有住房",
+     "ctx": "homeownership rates，住房自有率，反映不同世代拥有自己住房的比例",
+     "ex1": "High property prices have made homeownership increasingly difficult for young adults. 高昂的房价使年轻人越来越难以拥有自己的住房。",
+     "ex2": "Homeownership has traditionally been an important part of the American dream. 拥有自己的住房历来是美国梦的重要组成部分。"
+    },
+    {
+     "w": "Census Bureau",
+     "ipa": "/ˈsensəs ˈbjʊrəʊ/",
+     "pos": "n.",
+     "en": "A U.S. government agency responsible for collecting and publishing data about the population and economy.",
+     "zh": "美国人口普查局",
+     "ctx": "提供不同年龄群体住房自有率等人口与经济统计数据的美国政府机构",
+     "ex1": "The Census Bureau collects information about the country's population. 美国人口普查局收集有关全国人口的信息。",
+     "ex2": "According to the Census Bureau, household sizes have changed over time. 根据美国人口普查局的数据，家庭规模随着时间发生了变化。"
+    },
+    {
+     "w": "not coincidentally",
+     "ipa": "/nɒt kəʊˌɪnsɪˈdentəli/",
+     "pos": "phr.",
+     "en": "Used to emphasize that two events or trends are connected rather than happening together by chance.",
+     "zh": "并非巧合的是；这并不是偶然",
+     "ctx": "年轻人住房自有率下降与更多年轻人和父母同住之间存在关联",
+     "ex1": "Not coincidentally, more young adults are living with their parents as housing prices rise. 并非巧合的是，随着房价上涨，越来越多的年轻人与父母同住。",
+     "ex2": "Not coincidentally, public dissatisfaction increased as living costs continued to rise. 生活成本持续上涨的同时，公众不满情绪也随之增加，这并非巧合。"
+    }
+   ]
+  },
+  {
+   "en_html": "Housing is just one source of younger Americans’ <mark class=\"voc\">skepticism</mark> about the future. Today, the <mark class=\"voc\">angst</mark> is more generational, as 69 percent of millennials believe success is much harder to achieve than it was for older generations. Underemployment among recent college graduates has reached 42 percent, and many young people carry massive <mark class=\"voc\">student-loan debt</mark>. One might expect that young people would be excited about unprecedented technological progress, from the rise of space industries to artificial intelligence. Instead, many view the rise of AI and robots with <mark class=\"voc\">trepidation</mark>. According to Pew, 73 percent of Americans under 30 think AI means fewer jobs.",
+   "zh": "住房问题只是美国年轻人对未来持怀疑态度的原因之一。如今，这种焦虑更多地体现为一种代际情绪，因为69%的千禧一代认为，与老一辈相比，如今取得成功要困难得多。近期大学毕业生的就业不足率已达到42%，许多年轻人还背负着巨额学生贷款债务。人们或许会以为，面对从航天产业崛起到人工智能发展这样前所未有的技术进步，年轻人应该感到兴奋。然而，许多人却对人工智能和机器人的兴起感到忧虑和恐惧。根据皮尤研究中心的数据，73%的30岁以下美国人认为，人工智能意味着就业岗位将会减少。",
+   "notes": [
+    {
+     "w": "skepticism",
+     "ipa": "/ˈskeptɪsɪzəm/",
+     "pos": "n.",
+     "en": "An attitude of doubting whether something is true, possible, or likely to succeed.",
+     "zh": "怀疑态度；怀疑主义；不信任",
+     "ctx": "年轻人对未来能否拥有稳定生活和实现成功持怀疑态度",
+     "ex1": "Rising living costs have increased skepticism about the American dream. 不断上涨的生活成本加剧了人们对美国梦的怀疑。",
+     "ex2": "Many workers expressed skepticism about the company's promises. 许多员工对公司的承诺表示怀疑。"
+    },
+    {
+     "w": "angst",
+     "ipa": "/æŋst/",
+     "pos": "n.",
+     "en": "A strong feeling of anxiety, worry, or unhappiness about life or the future.",
+     "zh": "焦虑；忧虑；不安",
+     "ctx": "年轻一代对经济前景、就业机会和未来生活的普遍焦虑",
+     "ex1": "Economic uncertainty has created widespread angst among young adults. 经济的不确定性在年轻人中引发了普遍的焦虑。",
+     "ex2": "Her novel explores the angst of growing up in a rapidly changing society. 她的小说探讨了在快速变化的社会中成长所带来的焦虑。"
+    },
+    {
+     "w": "student-loan debt",
+     "ipa": "/ˈstuːdənt ləʊn det/",
+     "pos": "n.",
+     "en": "Money borrowed to pay for education that must be repaid, usually with interest.",
+     "zh": "学生贷款债务；助学贷款欠款",
+     "ctx": "美国年轻人为支付大学教育费用而背负的贷款债务",
+     "ex1": "Student-loan debt can prevent young adults from buying their first homes. 学生贷款债务可能使年轻人无法购买自己的第一套住房。",
+     "ex2": "She spent ten years paying off her student-loan debt. 她花了十年时间才还清学生贷款。"
+    },
+    {
+     "w": "trepidation",
+     "ipa": "/ˌtrepɪˈdeɪʃən/",
+     "pos": "n.",
+     "en": "A feeling of fear, anxiety, or nervousness about something that may happen.",
+     "zh": "恐惧；惴惴不安；忧虑",
+     "ctx": "view the rise of AI and robots with trepidation，对人工智能和机器人兴起所带来的未知后果感到担忧",
+     "ex1": "Many employees view workplace automation with trepidation. 许多员工对工作场所的自动化感到忧虑。",
+     "ex2": "She approached her first job interview with considerable trepidation. 她怀着相当忐忑的心情参加了第一次工作面试。"
+    }
+   ]
+  },
+  {
+   "en_html": "Fear of the future under capitalism <mark class=\"voc\">plays into the hands of</mark> those promoting an <mark class=\"voc\">authoritarian</mark> alternative. It’s not just the flag that young people are <mark class=\"voc\">unenthusiastic</mark> about but the <mark class=\"voc\">liberal</mark> economic system that has powered the American experiment. According to a Cato Institution/YouGov poll, 62 percent of Americans under 30 have a positive view of socialism; one-third support Communism. What “socialism” and “capitalism” mean remains <mark class=\"voc\">up in the air</mark>.",
+   "zh": "对资本主义制度下未来前景的恐惧，恰恰让那些鼓吹威权主义替代方案的人有机可乘。年轻人缺乏热情的，不仅仅是国旗所象征的国家认同，还有一直推动美国社会发展与制度实践的自由主义经济体系。根据卡托研究所与舆观调查机构的一项民意调查，62%的30岁以下美国人对社会主义持积极看法，三分之一的人支持共产主义。然而，“社会主义”和“资本主义”究竟意味着什么，仍然没有明确的定论。",
+   "notes": [
+    {
+     "w": "play into the hands of",
+     "ipa": "/pleɪ ˈɪntuː ðə hændz əv/",
+     "pos": "phr.",
+     "en": "To unintentionally help someone, especially an opponent, achieve what they want.",
+     "zh": "正中……下怀；让……有机可乘；无意中帮助……",
+     "ctx": "年轻人对资本主义未来的恐惧，可能反而有利于那些主张威权主义制度的人",
+     "ex1": "Public anger over inequality may play into the hands of extremist politicians. 公众对不平等的愤怒可能让极端主义政治人物有机可乘。",
+     "ex2": "By refusing to compromise, the government played into the hands of its opponents. 政府拒绝妥协，反而正中反对者下怀。"
+    },
+    {
+     "w": "authoritarian",
+     "ipa": "/ɔːˌθɒrɪˈteəriən/",
+     "pos": "adj.",
+     "en": "Demanding strict obedience to authority and allowing little personal or political freedom.",
+     "zh": "威权主义的；专制的；强调绝对服从权威的",
+     "ctx": "指强调集中权力、限制个人自由和政治参与的政治制度或思想",
+     "ex1": "Authoritarian governments often restrict freedom of speech. 威权主义政府往往限制言论自由。",
+     "ex2": "Economic instability can increase public support for authoritarian leaders. 经济不稳定可能增加公众对威权主义领导人的支持。"
+    },
+    {
+     "w": "unenthusiastic",
+     "ipa": "/ˌʌnɪnˌθjuːziˈæstɪk/",
+     "pos": "adj.",
+     "en": "Not showing much interest, excitement, or support for something.",
+     "zh": "缺乏热情的；不感兴趣的；不积极支持的",
+     "ctx": "年轻人不仅对国家象征缺乏热情，也对美国传统的自由主义经济制度缺乏认同",
+     "ex1": "Many young voters are unenthusiastic about the traditional political parties. 许多年轻选民对传统政党缺乏热情。",
+     "ex2": "Workers were unenthusiastic about the company's proposed changes. 员工对公司提出的改革方案并不热心。"
+    },
+    {
+     "w": "liberal",
+     "ipa": "/ˈlɪbərəl/",
+     "pos": "adj.",
+     "en": "Supporting individual freedom, civil rights, and, in an economic context, private enterprise and market competition.",
+     "zh": "自由主义的；支持个人自由的；自由市场的",
+     "ctx": "liberal economic system，强调私人企业、市场竞争和经济自由的经济体系",
+     "ex1": "A liberal economic system generally allows businesses to compete in open markets. 自由主义经济体系通常允许企业在开放市场中竞争。",
+     "ex2": "The country introduced liberal economic reforms to encourage private investment. 这个国家推行了自由主义经济改革，以鼓励私人投资。"
+    },
+    {
+     "w": "up in the air",
+     "ipa": "/ʌp ɪn ði eər/",
+     "pos": "phr.",
+     "en": "Not yet decided, settled, or clearly understood.",
+     "zh": "悬而未决；尚不确定；没有定论",
+     "ctx": "人们对社会主义和资本主义的具体定义及理解仍存在分歧",
+     "ex1": "The future of the housing project is still up in the air. 这个住房项目的未来仍然悬而未决。",
+     "ex2": "Whether the government will introduce new taxes remains up in the air. 政府是否会推出新税种，目前仍没有定论。"
+    }
+   ]
+  },
+  {
+   "en_html": "Of course, despite the talk of <mark class=\"voc\">geezer</mark> <mark class=\"voc\">greed</mark>, not all boomers are rich. Forty percent of U.S. <mark class=\"voc\">retirees</mark> have <mark class=\"voc\">insufficient</mark> savings, and 19 percent have already <mark class=\"voc\">burned through</mark> what they had <mark class=\"voc\">stored away</mark>. The more constructive alternative to generational war, of course, would be a <mark class=\"voc\">truce</mark>. Seniors often support their children financially. In 2024, 2.6 million parents gave over $26 billion to their children living outside the home. Nearly one in four first-time homebuyers rely on families for <mark class=\"voc\">down payments</mark>.",
+   "zh": "当然，尽管人们不断谈论所谓的“老年人的贪婪”，但并非所有婴儿潮一代的人都很富有。40%的美国退休人员储蓄不足，19%的人甚至已经耗尽了此前积攒的积蓄。当然，与其发动代际战争，更具建设性的选择应该是达成休战。老年人经常在经济上支持自己的子女。2024年，260万名父母向已经搬出去独立居住的子女提供了总计超过260亿美元的经济援助。近四分之一的首次购房者依靠家人帮助支付购房首付款。",
+   "notes": [
+    {
+     "w": "geezer",
+     "ipa": "/ˈɡiːzər/",
+     "pos": "n.",
+     "en": "An informal word for an old man, sometimes used in a humorous or disrespectful way.",
+     "zh": "老头儿；老家伙；老年男性",
+     "ctx": "geezer greed，“老家伙的贪婪”，带有讽刺意味，指责老年人占有过多财富和资源",
+     "ex1": "The old geezer still goes hiking every weekend. 那位老爷子每个周末仍然去徒步旅行。",
+     "ex2": "Some young activists unfairly describe wealthy retirees as greedy geezers. 一些年轻活动人士不公平地把富裕的退休人员称为贪婪的老家伙。"
+    },
+    {
+     "w": "greed",
+     "ipa": "/ɡriːd/",
+     "pos": "n.",
+     "en": "A strong and selfish desire to have more money, power, or possessions than one needs.",
+     "zh": "贪婪；贪心；贪欲",
+     "ctx": "geezer greed，指部分年轻人认为老年群体过度占有财富和社会资源",
+     "ex1": "Corporate greed has become a major concern among young workers. 企业的贪婪已经成为年轻劳动者关注的重要问题。",
+     "ex2": "The politician accused wealthy investors of putting greed before public welfare. 这位政治人物指责富裕投资者将贪婪置于公共福祉之上。"
+    },
+    {
+     "w": "retiree",
+     "ipa": "/rɪˌtaɪəˈriː/",
+     "pos": "n.",
+     "en": "A person who has stopped working, usually because they have reached retirement age.",
+     "zh": "退休人员；退休者",
+     "ctx": "美国已经退出劳动力市场、主要依靠养老金和储蓄生活的老年人",
+     "ex1": "Many retirees struggle to cover their healthcare expenses. 许多退休人员难以负担医疗费用。",
+     "ex2": "Some retirees continue working part-time to supplement their income. 一些退休人员继续从事兼职工作，以补充收入。"
+    },
+    {
+     "w": "insufficient",
+     "ipa": "/ˌɪnsəˈfɪʃənt/",
+     "pos": "adj.",
+     "en": "Not enough in amount, quality, or degree to meet a particular need.",
+     "zh": "不足的；不充分的；不够的",
+     "ctx": "insufficient savings，退休人员积蓄不足，难以满足退休后的生活需求",
+     "ex1": "Many elderly people have insufficient savings to support themselves after retirement. 许多老年人的积蓄不足以维持退休后的生活。",
+     "ex2": "Insufficient funding has delayed the construction of affordable housing. 资金不足导致可负担住房的建设被推迟。"
+    },
+    {
+     "w": "burn through phr.",
+     "ipa": "/bɜːrn θruː/",
+     "pos": "v.",
+     "en": "To use up a large amount of money or resources very quickly.",
+     "zh": "迅速花光；大量消耗；耗尽",
+     "ctx": "have already burned through what they had stored away，已经耗尽此前积攒的退休储蓄",
+     "ex1": "The family burned through most of their savings during the economic crisis. 这家人在经济危机期间花光了大部分积蓄。",
+     "ex2": "He burned through his inheritance in just three years. 他仅用了三年就挥霍掉了继承的遗产。"
+    },
+    {
+     "w": "store away phr.",
+     "ipa": "/stɔːr əˈweɪ/",
+     "pos": "v.",
+     "en": "To save or keep something, especially money or possessions, for future use.",
+     "zh": "储存；积攒；留存备用",
+     "ctx": "what they had stored away，老年人为退休生活提前积攒的储蓄",
+     "ex1": "She stored away part of her salary every month for retirement. 她每个月都会存下一部分工资，为退休生活作准备。",
+     "ex2": "His parents had stored away enough money to help him buy his first home. 他的父母积攒了足够的钱，帮助他购买第一套住房。"
+    },
+    {
+     "w": "truce",
+     "ipa": "/truːs/",
+     "pos": "n.",
+     "en": "An agreement between opposing sides to stop fighting or arguing for a period of time.",
+     "zh": "休战；停战协议；暂时和解",
+     "ctx": "作者主张年轻一代与老年一代停止相互指责，寻求合作与和解",
+     "ex1": "The two countries agreed to a temporary truce after months of fighting. 经过数月的战斗，两国同意暂时休战。",
+     "ex2": "The two generations need a truce rather than another political battle. 这两个世代需要的是和解，而不是另一场政治斗争。"
+    },
+    {
+     "w": "down payment",
+     "ipa": "/ˈdaʊn ˌpeɪmənt/",
+     "pos": "n.",
+     "en": "An initial amount of money paid when buying something expensive, especially a house, with the rest paid later.",
+     "zh": "首付款；首付",
+     "ctx": "购房者购买房屋时需要提前支付的一部分房款",
+     "ex1": "The couple saved for five years to afford a down payment on their first home. 这对夫妻存了五年的钱，才凑够第一套住房的首付款。",
+     "ex2": "Without help from their parents, many young people cannot afford a down payment. 如果没有父母的帮助，许多年轻人无法负担购房首付。"
+    }
+   ]
+  },
+  {
+   "en_html": "Boomers—the vast majority of seniors—and the aging Xers account for the largest group of formal and informal volunteers helping out their neighbors and fellow citizens. Today, more than two-thirds of grandparents are <mark class=\"voc\">caregivers</mark>, often <mark class=\"voc\">on a regular</mark>, even daily basis, contributing over $900 billion to the broader economy by allowing parents to work or go to school. Seniors need the younger generations, too, especially as they age. The truth is, the generations need each other, as they always have. Most young Americans <mark class=\"voc\">aspire</mark> to own a <mark class=\"voc\">single-family home</mark> and start a family. It’s the <mark class=\"voc\">obligation</mark> of the older generation to help them achieve this—not <mark class=\"voc\">for their own pleasure</mark>, but for the future of society.",
+   "zh": "婴儿潮一代——他们构成了老年人口的绝大多数——以及逐渐步入老年的X世代，是正式和非正式志愿服务中规模最大的群体，他们帮助邻居和其他社会成员。如今，超过三分之二的祖父母承担着照护者的角色，而且往往是定期甚至每天提供照护。通过让孩子的父母能够外出工作或继续求学，他们为整体经济贡献了超过9000亿美元。当然，老年人同样需要年轻一代，尤其是随着他们年龄的增长。事实是，不同世代始终彼此需要，过去如此，现在亦然。大多数美国年轻人都渴望拥有一栋独栋住宅，并组建自己的家庭。帮助他们实现这一愿望，是老一辈人的责任——不是为了满足老一辈自身的愿望，而是为了整个社会的未来。",
+   "notes": [
+    {
+     "w": "caregiver",
+     "ipa": "/ˈkerɡɪvər/",
+     "pos": "n.",
+     "en": "A person who regularly looks after someone who needs help, such as a child, an elderly person, or someone who is ill.",
+     "zh": "照护者；照料者；护理人员",
+     "ctx": "承担照顾孙辈等家庭照护责任的祖父母",
+     "ex1": "Many grandparents serve as caregivers while their adult children are at work. 许多祖父母在成年子女工作期间承担照顾孩子的责任。",
+     "ex2": "Being a full-time caregiver can be physically and emotionally demanding. 担任全职照护者可能在身体和情感上都十分辛苦。"
+    },
+    {
+     "w": "on a regular basis",
+     "ipa": "/ɒn ə ˈreɡjələr ˈbeɪsɪs/",
+     "pos": "phr.",
+     "en": "Happening repeatedly or frequently according to a usual pattern.",
+     "zh": "定期地；经常性地；有规律地",
+     "ctx": "祖父母并非偶尔帮忙，而是经常甚至每天承担照护工作",
+     "ex1": "Her parents help look after the children on a regular basis. 她的父母经常帮忙照顾孩子。",
+     "ex2": "Volunteers visit elderly residents on a regular basis. 志愿者定期探望老年居民。"
+    },
+    {
+     "w": "aspire",
+     "ipa": "/əˈspaɪər/",
+     "pos": "v.",
+     "en": "To have a strong desire or ambition to achieve something important.",
+     "zh": "渴望；立志；追求",
+     "ctx": "aspire to own a single-family home and start a family，渴望拥有独栋住宅并组建家庭",
+     "ex1": "Many young adults aspire to own a home before starting a family. 许多年轻人渴望在组建家庭之前拥有自己的住房。",
+     "ex2": "She aspires to become a journalist who reports on social inequality. 她立志成为一名报道社会不平等问题的记者。"
+    },
+    {
+     "w": "single-family home",
+     "ipa": "/ˌsɪŋɡəl ˈfæməli həʊm/",
+     "pos": "n.",
+     "en": "A house designed for one family to live in, rather than a building divided into several separate homes.",
+     "zh": "独栋住宅；独户住宅",
+     "ctx": "许多美国年轻人希望拥有的、供一个家庭独立居住的住宅",
+     "ex1": "Owning a single-family home remains an important goal for many Americans. 拥有一栋独户住宅仍然是许多美国人的重要目标。",
+     "ex2": "Rising property prices have made single-family homes unaffordable for many young couples. 不断上涨的房价使许多年轻夫妻负担不起独栋住宅。"
+    },
+    {
+     "w": "obligation",
+     "ipa": "/ˌɒblɪˈɡeɪʃən/",
+     "pos": "n.",
+     "en": "Something that a person is morally or legally required to do.",
+     "zh": "义务；责任；职责",
+     "ctx": "the obligation of the older generation，老一辈帮助年轻人实现住房和家庭梦想的道德与社会责任",
+     "ex1": "Every generation has an obligation to protect the interests of those who come after it. 每一代人都有责任保护后代的利益。",
+     "ex2": "Parents often feel a moral obligation to support their children during difficult times. 父母常常觉得自己有道德责任在子女遇到困难时提供支持。"
+    },
+    {
+     "w": "for one's own pleasure",
+     "ipa": "/fɔːr wʌnz əʊn ˈpleʒər/",
+     "pos": "phr.",
+     "en": "For one's personal enjoyment or satisfaction rather than for another purpose.",
+     "zh": "为了自己的快乐；为了个人满足",
+     "ctx": "not for their own pleasure，强调老一辈帮助年轻人不应只是为了满足自身愿望",
+     "ex1": "He volunteers not for his own pleasure but because he wants to help others. 他做志愿服务不是为了自己的快乐，而是因为他想帮助别人。",
+     "ex2": "Good leaders make decisions for the public good rather than for their own pleasure. 优秀的领导者作出决定是为了公共利益，而不是为了个人享乐。"
+    }
+   ]
   }
+ ],
+ "proper": [
+  {
+   "name": "U.S. Midterm Elections / 美国中期选举",
+   "def": "美国中期选举每四年举行一次，时间位于总统四年任期的中间。届时，众议院全部435个席位和参议院约三分之一的席位需要改选。中期选举通常被视为对现任总统执政表现的一次全民检验。年轻选民的投票率、政治倾向及其关注的议题，都可能改变两党在国会的力量对比。文章以2026年中期选举为切入点，讨论年轻选民如何推动美国政治向左转。"
+  },
+  {
+   "name": "Zohran Mamdani / 佐赫兰·马姆达尼",
+   "def": "马姆达尼是美国民主社会主义政治人物，2025年当选纽约市长。他的政治主张强调住房可负担性、公共交通和降低普通人的生活成本。对于许多年轻选民来说，他所代表的并非传统民主党政治精英，而是一种更加关注经济不平等的政治方向。文章引用他的胜选，是为了说明年轻人的政治影响力正在从网络讨论转化为实际选举结果。"
+  },
+  {
+   "name": "Democratic Socialism / 民主社会主义",
+   "def": "民主社会主义主张通过民主政治程序推动更平等的财富分配、扩大公共服务以及加强社会保障。它并不等同于所有形式的共产主义，也不意味着必然取消私人财产。美国政治语境中的民主社会主义者通常特别关注医疗、教育、住房和劳动者权益。对于一些年轻人而言，这些主张具有吸引力，因为他们认为现有经济制度没有提供足够公平的发展机会。"
+  },
+  {
+   "name": "The 1960s Counterculture / 20世纪60年代的反文化运动",
+   "def": "20世纪60年代，欧美社会出现了规模庞大的青年反叛浪潮。美国年轻人参与民权运动、反越战示威和校园抗议，挑战传统权威、社会等级以及父母一代的价值观。1968年前后，法国巴黎也爆发了大规模学生运动和工人罢工。文章认为，当代年轻人的政治激进化与当年的代际对抗具有相似之处：年轻人不仅反对某些政策，也开始质疑上一代人建立的整个社会秩序。"
+  },
+  {
+   "name": "Global Youth Protests / 全球青年抗议浪潮",
+   "def": "文章提到巴黎、米兰、加德满都、雅加达、马尼拉、新德里和斯里兰卡等地点，强调青年不满并非美国独有的现象。不同国家的抗议起因并不相同，可能涉及腐败、就业机会、生活成本、政治权利或政府治理。但它们可以反映一个共同问题：当年轻人认为现有制度无法保障自己的未来时，社会矛盾就可能转化为政治抗议。需要注意，不能将这些不同国家的运动简单视为同一场代际战争。"
+  },
+  {
+   "name": "Aristotle’s Ship Analogy / 亚里士多德的船舶比喻",
+   "def": "古希腊哲学家亚里士多德在《政治学》中曾用船员之间的合作来解释城邦共同体。船上的水手虽然承担不同职责，但都必须为了航行安全而协作。文章借用这一思想说明：年轻人与老年人虽然有不同的利益和社会角色，却共同生活在同一个社会中。如果不同世代只顾争夺资源而拒绝合作，最终可能损害所有人的利益。这是文章贯穿始终的重要哲学线索。"
+  },
+  {
+   "name": "Baby Boomers / 婴儿潮一代",
+   "def": "婴儿潮一代通常指出生于1946年至1964年之间的人。第二次世界大战结束后，美国经历了持续多年的出生人口增长，因此形成了规模庞大的这一代人。他们成长于美国战后经济扩张时期，部分人享受了住房市场发展、就业增长和资产升值带来的机会。如今，许多婴儿潮一代已经退休，也有不少人积累了房产和金融资产，因此成为美国代际财富分配争论中的核心群体。不过，同一世代内部也存在巨大的贫富差距。"
+  },
+  {
+   "name": "Gerontocracy / 老人统治",
+   "def": "Gerontocracy源于希腊语词根，通常指政治权力主要掌握在老年人手中的制度或社会结构。在美国政治讨论中，这个词经常被用来批评政治领导层年龄偏高，以及年轻一代缺乏足够的决策权。文章引用《大西洋月刊》对老人统治的批评，反映了部分年轻人对财富和权力集中于年长群体的不满。但政治人物年龄较高，并不自动意味着其政策只服务于老年人的利益。"
+  },
+  {
+   "name": "The Stagflation Era / 美国滞胀时代",
+   "def": "20世纪70年代至80年代初，美国经历了严重的通货膨胀、经济增长乏力和较高失业率，这种通胀与经济疲弱并存的现象被称为滞胀。为了控制通货膨胀，美联储大幅提高政策利率，住房贷款成本也随之飙升。文章提到婴儿潮一代曾面对高达17%的利率，意在反驳“老一辈人的生活始终比年轻人容易”这一说法。不同世代面临的经济困难并不完全相同，不能只根据今天的房价判断过去的生活是否轻松。"
+  },
+  {
+   "name": "The Great Wealth Transfer / 代际财富大转移",
+   "def": "随着婴儿潮一代逐渐进入高龄阶段，美国正面临大规模的财富代际转移。房产、股票、退休账户以及其他资产可能通过继承或生前赠与转移给子女和孙辈。文章引用估算称，到2045年，年轻世代可能从老一辈获得超过73万亿美元的财富。但这些财富不会平均分配：富裕家庭的继承人可能获得大量资产，而缺乏家庭财富的年轻人未必受益。因此，财富继承既可能缓解部分年轻人的经济压力，也可能延续家庭之间的不平等。"
+  },
+  {
+   "name": "Generation X, Millennials and Generation Z / X世代、千禧一代与Z世代",
+   "def": "美国社会研究通常将出生于1965年至1980年的人称为X世代，1981年至1996年出生的人称为千禧一代，1997年以后出生的一批年轻人称为Z世代，但具体分界并非所有机构都完全一致。不同世代进入就业市场和房地产市场的时间不同，所经历的经济环境也存在差异。例如，千禧一代中的许多人在2008年金融危机前后开始职业生涯，而Z世代则成长于互联网和智能手机高度普及的时代。这些经历可能影响他们对财富、工作和政治的态度。"
+  },
+  {
+   "name": "The American Dream and Homeownership / 美国梦与住房所有权",
+   "def": "拥有自己的房子长期以来被视为美国梦的重要组成部分。对许多美国家庭而言，住房不仅是居住空间，也是积累财富的重要工具。房屋价值上涨可以增加家庭净资产，而没有进入房地产市场的人则可能错过资产升值机会。文章指出，千禧一代的住房自有率低于 X世代在相近年龄时的水平，这有助于解释为什么年轻人的收入即使有所增长，净资产仍可能落后于父母一代。"
+  },
+  {
+   "name": "Forever Renters / 终身租房者",
+   "def": "Forever renters指长期租房、难以进入住房所有权市场的人群。这个词在文章中带有警示意味：如果住房价格持续超出年轻人的购买能力，一部分人可能长期依赖房东、房地产企业或公共住房体系。租房本身并不必然意味着生活失败，但在住房资产对家庭财富积累具有重要作用的美国，长期无法买房可能影响个人资产增长、退休保障和家庭规划。"
+  },
+  {
+   "name": "Underemployment / 就业不足",
+   "def": "就业不足不同于失业。失业通常指没有工作但正在寻找工作，而就业不足的人可能已经就业，却只能从事兼职工作，或者从事不需要其学历和专业技能的岗位。例如，一名大学毕业生找不到与专业相关的职位，只能长期从事学历要求较低的工作，就可能属于技能未被充分利用的情况。文章借此说明，大学毕业生即使拥有工作，也不一定意味着获得了符合预期的职业机会。"
+  },
+  {
+   "name": "Student Loan Debt / 美国学生贷款债务",
+   "def": "美国高等教育费用较高，许多学生需要通过贷款支付学费和生活费。毕业后，借款人通常需要在一定期限内偿还本金和利息。对于收入不稳定的年轻人来说，学生贷款可能影响储蓄、购房和家庭规划。文章将学生债务与住房问题联系起来，强调年轻人面临的困难不仅是工资水平，还包括进入成年生活时需要承担的各种经济成本。"
+  },
+  {
+   "name": "AI and the Future of Work / 人工智能与就业未来",
+   "def": "人工智能正在改变企业处理信息、编写代码、提供客户服务和完成行政工作的方式。年轻人通常被认为更熟悉新技术，但这并不意味着他们对AI的就业影响更加乐观。特别是对于刚进入劳动力市场的毕业生而言，一些原本由初级员工承担的任务可能被自动化。文章引用皮尤研究中心的调查，说明年轻人担忧AI减少就业岗位。不过，调查反映的是受访者的预期，并不等于AI必然造成相同比例的就业减少。"
+  },
+  {
+   "name": "Capitalism, Socialism and Communism / 资本主义、社会主义与共产主义",
+   "def": "资本主义通常强调私人所有制、市场竞争和资本投资；社会主义包含多种理论与制度主张，通常更强调社会或公共所有权以及经济平等；共产主义则以实现无阶级社会和生产资料共同所有为理论目标。三者的具体含义在不同国家和历史时期存在差异。文章指出，一些美国年轻人对社会主义甚至共产主义持积极态度，但受访者对这些词的理解未必一致。有人可能将社会主义理解为全民医疗和更强的社会保障，而另一些人则将其理解为更深层次的经济制度变革。"
+  },
+  {
+   "name": "Bank of Mom and Dad / 父母银行",
+   "def": "Bank of Mom and Dad是英语媒体常用的形象表达，指成年子女依靠父母提供经济帮助，尤其是在支付房租、购房首付或偿还债务时。文章指出，许多美国父母即使在子女搬离家庭后，仍然会提供大量经济支持。近四分之一的首次购房者依赖家庭帮助支付首付款。这说明代际关系并不只有财富竞争，也包含大量实际的经济合作。但与此同时，父母能否提供支持，也可能影响年轻人获得住房的机会。"
+  },
+  {
+   "name": "Unpaid Care Work and the Care Economy / 无偿照护劳动与照护经济",
+   "def": "无偿照护劳动包括照顾儿童、老人、病人以及承担其他家庭照护责任。这些活动通常不会直接获得工资，却对经济运行至关重要。例如，祖父母帮助照顾孙辈，可以让孩子的父母继续工作、接受教育或参加职业培训。文章指出，祖父母提供的照护具有巨大的经济价值。它强调一个经常被忽视的事实：老年人的社会贡献不仅来自财富和纳税，也来自时间、经验以及无偿劳动。"
+  }
+ ],
+ "sources_note": "依据美国《华盛顿邮报》（The Washington Post）2026-11-13 报道。",
+ "practice": {
+  "intro": "请将以下中文句子翻译为英文（参考答案见后）。",
+  "items": [
+   "年轻人的政治倾向：美国年轻选民正在推动政治向左转，代际冲突重新出现。（young voters / shift to the left / generational conflict）",
+   "年轻人的经济困境：住房成本高、财富积累困难、就业不足以及学生贷款，让年轻人对未来感到焦虑。（housing costs / net worth / underemployment / student-loan debt）",
+   "科技发展带来的担忧：尽管AI技术快速发展，许多年轻人却担心工作岗位被取代。（artificial intelligence / technological progress / fewer jobs）",
+   "老一辈人的处境与贡献：并非所有婴儿潮一代都很富有，他们也经历过经济困难，并在经济和家庭生活中帮助年轻人。（baby boomers / financial difficulties / savings / support）",
+   "作者的核心观点：代际战争无法解决问题，年轻人与老年人应该相互理解、合作，共同创造未来。（generational warfare / cooperation / depend on each other / future of society）20261113 为什么越来越多美国年轻人开始讨厌“资本主义”？答案藏在房子和工作里"
+  ],
+  "critical_en": "",
+  "critical_zh": "",
+  "answer": "1. Young Americans are increasingly moving to the political left as generational tensions grow. Many struggle with high housing costs, student debt, and limited opportunities to build wealth. They also worry that artificial intelligence will replace jobs. However, older generations faced economic difficulties too, and many retirees have insufficient savings. Baby boomers also support younger generations financially and provide valuable childcare. The author argues that blaming older people will not solve these problems. Instead of fighting a generational war, young and old should recognize their shared interests and work together to build a better future for society.<br>参考译文：随着代际矛盾日益加剧，美国年轻人的政治立场正越来越向左倾斜。许多人面临高昂的住房成本、学生贷款债务以及有限的财富积累机会。他们还担心人工智能会取代工作岗位。然而，老一辈人同样经历过经济困难，而且许多退休人员的储蓄并不充足。婴儿潮一代还在经济上支持年轻人，并通过照顾孙辈作出重要贡献。作者认为，责怪老年人并不能解决这些问题。年轻人与老年人不应该陷入代际战争，而应该认识到彼此拥有共同利益，携手为社会创造更美好的未来。20261113 为什么越来越多美国年轻人开始讨厌“资本主义”？答案藏在房子和工作里<br><br>2. I believe young people today face greater financial pressure than their parents did. Although technology has created new opportunities, housing prices and education costs have increased significantly. Many young adults struggle to buy homes or achieve financial independence, even with good jobs. However, older generations also experienced serious economic challenges, including high interest rates and unemployment. Therefore, instead of blaming each other, different generations should work together to create a fairer society.<br>参考译文：我认为，今天的年轻人比父母那一代面临更大的经济压力。虽然科技创造了新的机会，但住房价格和教育成本已经大幅上涨。许多年轻人即使拥有不错的工作，也很难买房或实现经济独立。然而，老一辈人同样经历过严重的经济挑战，包括高利率和高失业率。因此，不同世代不应该互相指责，而应该共同努力，创造一个更加公平的社会。"
+ },
+ "mindmap": {
+  "aria": "",
+  "alt": "代际战争回归 思维导图（手绘版）",
+  "svg": "<svg viewBox=\"0 0 960 530\" xmlns=\"http://www.w3.org/2000/svg\" role=\"img\" aria-label=\"代际战争回归 思维导图\" style=\"width:100%;height:auto;font-family:-apple-system,'PingFang SC','Hiragino Sans GB','Microsoft YaHei',sans-serif\">\n<rect x=\"24\" y=\"221\" width=\"176\" height=\"88\" rx=\"14\" fill=\"#eae3d2\" stroke=\"#9a8f76\"/>\n<text x=\"112\" y=\"257\" text-anchor=\"middle\" fill=\"#3d3a34\" font-size=\"17\" font-weight=\"700\">代际战火</text>\n<text x=\"112\" y=\"283\" text-anchor=\"middle\" fill=\"#5c5648\" font-size=\"12.5\">归来还是休战</text>\n<path d=\"M200,265 C232,265 232,88 260,88\" stroke=\"#6b8f71\" stroke-width=\"2\" fill=\"none\"/>\n<path d=\"M200,265 C232,265 232,265 260,265\" stroke=\"#7d98ad\" stroke-width=\"2\" fill=\"none\"/>\n<path d=\"M200,265 C232,265 232,442 260,442\" stroke=\"#bd7a6d\" stroke-width=\"2\" fill=\"none\"/>\n<g class=\"mm-branch\" data-target=\"bc1\">\n<rect x=\"260\" y=\"71\" width=\"190\" height=\"34\" rx=\"8\" fill=\"#e6efe7\" stroke=\"#6b8f71\"/>\n<text x=\"355\" y=\"93\" text-anchor=\"middle\" fill=\"#4c6b52\" font-size=\"15\" font-weight=\"700\">战火重燃（¶1-3）</text>\n<text class=\"mm-arrow\" data-for=\"bc1\" x=\"442\" y=\"93\" text-anchor=\"end\" fill=\"#4c6b52\">▾</text>\n</g>\n<g class=\"mm-children\" id=\"bc1\">\n<path d=\"M450,88 C462,88 462,46 480,46\" stroke=\"#6b8f71\" stroke-width=\"1.5\" fill=\"none\"/>\n<path d=\"M450,88 C462,88 462,88 480,88\" stroke=\"#6b8f71\" stroke-width=\"1.5\" fill=\"none\"/>\n<path d=\"M450,88 C462,88 462,130 480,130\" stroke=\"#6b8f71\" stroke-width=\"1.5\" fill=\"none\"/>\n<rect x=\"480\" y=\"30\" width=\"456\" height=\"32\" rx=\"8\" fill=\"#e6efe7\"/><text x=\"492\" y=\"51\" fill=\"#3d3a34\" font-size=\"14\">青年把美国政治推向左，纽约洛杉矶为证</text>\n<rect x=\"480\" y=\"72\" width=\"456\" height=\"32\" rx=\"8\" fill=\"#e6efe7\"/><text x=\"492\" y=\"93\" fill=\"#3d3a34\" font-size=\"14\">18–29 岁过半投民主党，冲突带 1960s 味</text>\n<rect x=\"480\" y=\"114\" width=\"456\" height=\"32\" rx=\"8\" fill=\"#e6efe7\"/><text x=\"492\" y=\"135\" fill=\"#3d3a34\" font-size=\"14\">婴儿潮被斥老龄化负债，65+ 人口将破 8 千万</text>\n</g>\n<g class=\"mm-branch\" data-target=\"bc2\">\n<rect x=\"260\" y=\"248\" width=\"190\" height=\"34\" rx=\"8\" fill=\"#e5edf4\" stroke=\"#7d98ad\"/>\n<text x=\"355\" y=\"270\" text-anchor=\"middle\" fill=\"#3d5872\" font-size=\"15\" font-weight=\"700\">怨恨有根（¶4-8）</text>\n<text class=\"mm-arrow\" data-for=\"bc2\" x=\"442\" y=\"270\" text-anchor=\"end\" fill=\"#3d5872\">▾</text>\n</g>\n<g class=\"mm-children\" id=\"bc2\">\n<path d=\"M450,265 C462,265 462,202 480,202\" stroke=\"#7d98ad\" stroke-width=\"1.5\" fill=\"none\"/>\n<path d=\"M450,265 C462,265 462,244 480,244\" stroke=\"#7d98ad\" stroke-width=\"1.5\" fill=\"none\"/>\n<path d=\"M450,265 C462,265 462,286 480,286\" stroke=\"#7d98ad\" stroke-width=\"1.5\" fill=\"none\"/>\n<path d=\"M450,265 C462,265 462,328 480,328\" stroke=\"#7d98ad\" stroke-width=\"1.5\" fill=\"none\"/>\n<rect x=\"480\" y=\"186\" width=\"456\" height=\"32\" rx=\"8\" fill=\"#e5edf4\"/><text x=\"492\" y=\"207\" fill=\"#3d3a34\" font-size=\"14\">烧祖辈世界虽爽，长辈曾扛 17% 高利率</text>\n<rect x=\"480\" y=\"228\" width=\"456\" height=\"32\" rx=\"8\" fill=\"#e5edf4\"/><text x=\"492\" y=\"249\" fill=\"#3d3a34\" font-size=\"14\">千禧 Z 世代将继承逾 73 万亿财富</text>\n<rect x=\"480\" y=\"270\" width=\"456\" height=\"32\" rx=\"8\" fill=\"#e5edf4\"/><text x=\"492\" y=\"291\" fill=\"#3d3a34\" font-size=\"14\">仅 37% 有房、49% 青年仍住父母家</text>\n<rect x=\"480\" y=\"312\" width=\"456\" height=\"32\" rx=\"8\" fill=\"#e5edf4\"/><text x=\"492\" y=\"333\" fill=\"#3d3a34\" font-size=\"14\">42% 毕业生就业不足，73% 忧 AI 抢岗</text>\n</g>\n<g class=\"mm-branch\" data-target=\"bc3\">\n<rect x=\"260\" y=\"425\" width=\"190\" height=\"34\" rx=\"8\" fill=\"#f4e7e4\" stroke=\"#bd7a6d\"/>\n<text x=\"355\" y=\"447\" text-anchor=\"middle\" fill=\"#7c4a3e\" font-size=\"15\" font-weight=\"700\">出路在握（¶9-11）</text>\n<text class=\"mm-arrow\" data-for=\"bc3\" x=\"442\" y=\"447\" text-anchor=\"end\" fill=\"#7c4a3e\">▾</text>\n</g>\n<g class=\"mm-children\" id=\"bc3\">\n<path d=\"M450,442 C462,442 462,400 480,400\" stroke=\"#bd7a6d\" stroke-width=\"1.5\" fill=\"none\"/>\n<path d=\"M450,442 C462,442 462,442 480,442\" stroke=\"#bd7a6d\" stroke-width=\"1.5\" fill=\"none\"/>\n<path d=\"M450,442 C462,442 462,484 480,484\" stroke=\"#bd7a6d\" stroke-width=\"1.5\" fill=\"none\"/>\n<rect x=\"480\" y=\"384\" width=\"456\" height=\"32\" rx=\"8\" fill=\"#f4e7e4\"/><text x=\"492\" y=\"405\" fill=\"#3d3a34\" font-size=\"14\">62% 青年挺社会主义，三成支持共</text>\n<rect x=\"480\" y=\"426\" width=\"456\" height=\"32\" rx=\"8\" fill=\"#f4e7e4\"/><text x=\"492\" y=\"447\" fill=\"#3d3a34\" font-size=\"14\">四成退休者储蓄不足，但长辈仍资助</text>\n<rect x=\"480\" y=\"468\" width=\"456\" height=\"32\" rx=\"8\" fill=\"#f4e7e4\"/><text x=\"492\" y=\"489\" fill=\"#3d3a34\" font-size=\"14\">代际彼此需要，停战方为正途</text>\n</g>\n<text x=\"486\" y=\"170\" fill=\"#8a8578\" font-size=\"11.5\">↓ 为何烧得旺</text>\n<text x=\"486\" y=\"368\" fill=\"#8a8578\" font-size=\"11.5\">↓ 最终落到</text>\n</svg>",
+  "img": "/Users/malen/.workbuddy/backups/handmap/2026-11-13-handmap-v3.jpg"
+ },
+ "audio": true
 }
