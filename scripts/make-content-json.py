@@ -110,12 +110,15 @@ def order_cards_by_position(text, cards, marks_pairs=None):
     surf = {w: s for w, s in (marks_pairs or [])}
     pos = []
     for c in cards:
-        # 卡片词本身不可检索时（如 be not limited to → was not limited to），
-        # 退到 marks 里登记的原文写法，排序才不会整体失效。
-        cands = [card_surface(c['w'])]
+        # marks 里登记的原文写法最可靠，优先用它定位；卡片词本身不可检索时
+        # （如 be not limited to → was not limited to）再退到 card_surface。
+        # 反过来会让短卡吃到长词的词头（break 命中 breakneck），排序整体错位。
+        cands = []
         alt = surf.get(c['w'])
-        if alt and alt not in cands:
+        if alt:
             cands.append(alt)
+        if card_surface(c['w']) not in cands:
+            cands.append(card_surface(c['w']))
         hit = None
         for s in cands:
             m = find_surface(text, s, 0)

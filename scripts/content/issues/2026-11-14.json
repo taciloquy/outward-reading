@@ -6,12 +6,304 @@
  "category": "美国《经济学人》外刊讲解 第1228天",
  "read_minutes": 10,
  "nav_hint": "Jensen Huang is out",
- "headline_en": "Jensen Huang is out. His successor has the toughest job in tech",
+ "headline_en": "Jensen Huang is out. His successor has the toughest job in tech|A company built around one man must now learn to run without him",
+ "headline_marks": [
+  [
+   "is out",
+   "is out"
+  ],
+  [
+   "successor",
+   "successor"
+  ],
+  [
+   "tough",
+   "toughest"
+  ],
+  [
+   "build around",
+   "built around"
+  ]
+ ],
  "headline_zh": "黄仁勋黯然出局。其继任者接下的，是科技界最艰巨的担子",
  "sources_note": "依据美国《经济学人》（The Economist）2026-11-14 报道。",
- "marks": {},
+ "marks": {
+  "1": [
+   [
+    "make way for",
+    "made way for"
+   ],
+   [
+    "intend to",
+    "intended to"
+   ],
+   [
+    "confess to",
+    "confessed to"
+   ],
+   [
+    "affair",
+    "affair"
+   ],
+   [
+    "revelation",
+    "revelations"
+   ],
+   [
+    "resign",
+    "resigned"
+   ]
+  ],
+  "2": [
+   [
+    "fall to",
+    "fallen, for now, to"
+   ],
+   [
+    "interim",
+    "interim"
+   ],
+   [
+    "coach",
+    "coached"
+   ],
+   [
+    "break",
+    "broke"
+   ],
+   [
+    "scandal",
+    "scandal"
+   ],
+   [
+    "shore up",
+    "shore up"
+   ],
+   [
+    "mend fences",
+    "mend fences"
+   ],
+   [
+    "hold together",
+    "hold together"
+   ],
+   [
+    "financing scheme",
+    "financing schemes"
+   ],
+   [
+    "breakneck",
+    "breakneck"
+   ]
+  ],
+  "3": [
+   [
+    "inherit",
+    "inherits"
+   ],
+   [
+    "formidable",
+    "formidable"
+   ],
+   [
+    "money-making machine",
+    "money-making machines"
+   ],
+   [
+    "run on",
+    "runs on"
+   ],
+   [
+    "gross margin",
+    "gross margins"
+   ],
+   [
+    "hover",
+    "hover"
+   ],
+   [
+    "sit on",
+    "sitting on"
+   ],
+   [
+    "liquid financial instruments",
+    "liquid financial instruments"
+   ]
+  ],
+  "4": [
+   [
+    "report earnings",
+    "reports its latest earnings"
+   ],
+   [
+    "blowout quarter",
+    "blowout quarter"
+   ],
+   [
+    "soothe nerves",
+    "soothe nerves"
+   ],
+   [
+    "assurance",
+    "assurances"
+   ],
+   [
+    "upheaval",
+    "upheaval"
+   ],
+   [
+    "distract",
+    "distract"
+   ]
+  ],
+  "5": [
+   [
+    "intricate",
+    "intricate"
+   ],
+   [
+    "supply chain",
+    "supply chain"
+   ],
+   [
+    "bottleneck",
+    "bottlenecks"
+   ],
+   [
+    "delicate",
+    "delicate"
+   ],
+   [
+    "hold up",
+    "holding up"
+   ],
+   [
+    "higher-end variant",
+    "higher-end variant"
+   ]
+  ],
+  "6": [
+   [
+    "excel at",
+    "excelled at"
+   ],
+   [
+    "charm",
+    "charm"
+   ],
+   [
+    "as much A as B",
+    "as much"
+   ],
+   [
+    "commit",
+    "committing"
+   ],
+   [
+    "reassurance",
+    "reassurance"
+   ],
+   [
+    "lofty",
+    "lofty"
+   ],
+   [
+    "still hold",
+    "still hold"
+   ]
+  ],
+  "7": [
+   [
+    "lobby",
+    "lobby"
+   ],
+   [
+    "curb",
+    "curbs"
+   ],
+   [
+    "clash with",
+    "clashing with"
+   ],
+   [
+    "hawk / dove",
+    "hawks"
+   ],
+   [
+    "bruised",
+    "bruised"
+   ],
+   [
+    "concede",
+    "concedes"
+   ],
+   [
+    "combative",
+    "combative"
+   ]
+  ],
+  "8": [
+   [
+    "aggressive dealmaking",
+    "aggressive dealmaking"
+   ],
+   [
+    "pledge",
+    "pledged"
+   ],
+   [
+    "backstop",
+    "backstopped"
+   ],
+   [
+    "to the tune of",
+    "to the tune of"
+   ],
+   [
+    "intended for",
+    "intended for"
+   ],
+   [
+    "on top of that",
+    "On top of that"
+   ],
+   [
+    "pass on to",
+    "pass on to"
+   ],
+   [
+    "orchestrate",
+    "orchestrated"
+   ],
+   [
+    "rest on",
+    "rested on"
+   ]
+  ],
+  "9": [
+   [
+    "deftly",
+    "deftly"
+   ],
+   [
+    "untested",
+    "untested"
+   ],
+   [
+    "may yet find",
+    "may yet find"
+   ],
+   [
+    "lies at",
+    "lies at"
+   ]
+  ]
+ },
  "mindmap": {
   "template": "scripts/content/2026-10-31.json",
   "aria": "黄仁勋交棒 思维导图"
+ },
+ "paragraph_overrides": {
+  "9": "However deftly she handles all this, Ms Kress is unlikely to keep the job for long. She lacks a technical background; Bloomberg reports that the board has been working with an outside recruiting firm to find a permanent replacement. Among insiders, Ian Buck, who runs Nvidia’s data-centre computing business, is popular with engineers but untested at running a giant company. Lisa Su of AMD and Rene Haas of Arm, a former Nvidia executive, may be options. Nvidia may yet find that the answer to its succession problem lies at the company that showed it how succession should be done."
  }
 }
