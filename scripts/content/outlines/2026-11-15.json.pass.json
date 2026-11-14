@@ -1,0 +1,31 @@
+{
+  "outline": "scripts/content/outlines/2026-11-15.json",
+  "outline_mtime": 1794650697.7558322,
+  "checked_at": "2026-11-14 18:05:01",
+  "user_confirmed": false,
+  "center": "鹰派复仇",
+  "branches": [
+    {
+      "title": "宠臣得势",
+      "subs": 3,
+      "relation": null
+    },
+    {
+      "title": "丑闻坠马",
+      "subs": 4,
+      "relation": "备忘录引爆连环丑闻"
+    },
+    {
+      "title": "管制加码",
+      "subs": 4,
+      "relation": "权力翻转，鹰派乘势"
+    }
+  ],
+  "branch_count": 3,
+  "subs_counts": [
+    3,
+    4,
+    4
+  ],
+  "warns": []
+}
