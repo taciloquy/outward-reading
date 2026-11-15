@@ -327,9 +327,11 @@
           this.searchError = ''
           this.searchResults = ARTICLES.filter(a =>
             a.title.toLowerCase().includes(k) ||
+            (a.titleZh||"").toLowerCase().includes(k) ||
             (a.source||"").toLowerCase().includes(k)
           ).map(a => {
-            const s = this.extractSnippet(a.title, kw)
+            // 老条目的 title 是英文、中文标题在 titleZh；两处都取摘要
+            const s = this.extractSnippet(a.title, kw) || this.extractSnippet(a.titleZh||'', kw)
             return {...a, _snippet: s ? '【标题】' + s : '', _kw: kw}
           })
         },
@@ -371,11 +373,17 @@
           this.searchLoading = false
           this.searchResults = ARTICLES.filter(a =>
             a.title.toLowerCase().includes(k) ||
+            (a.titleZh||"").toLowerCase().includes(k) ||
             (texts[a.fileKey] || '').toLowerCase().includes(k) ||
             (a.source||"").toLowerCase().includes(k)
           ).map(a => {
-            const s = this.extractSnippet(texts[a.fileKey] || '', kw)
-            return {...a, _snippet: s ? s : '', _kw: kw}
+            let s = this.extractSnippet(texts[a.fileKey] || '', kw)
+            if(!s){
+              // 中文标题命中、但英文正文里没有该词时，给出带高亮的标题摘要
+              const t = this.extractSnippet(a.title, kw) || this.extractSnippet(a.titleZh||'', kw)
+              s = t ? '【标题】' + t : ''
+            }
+            return {...a, _snippet: s, _kw: kw}
           })
         },
         openArticle(art, kw){
