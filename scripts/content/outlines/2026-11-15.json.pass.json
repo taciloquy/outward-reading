@@ -1,31 +1,31 @@
 {
   "outline": "scripts/content/outlines/2026-11-15.json",
-  "outline_mtime": 1794650697.7558322,
-  "checked_at": "2026-11-14 18:05:01",
+  "outline_mtime": 1794714321.2665145,
+  "checked_at": "2026-11-15 11:45:21",
   "user_confirmed": false,
   "center": "鹰派复仇",
   "branches": [
     {
-      "title": "宠臣得势",
+      "title": "宠信树敌",
       "subs": 3,
       "relation": null
     },
     {
-      "title": "丑闻坠马",
+      "title": "丑闻翻盘",
       "subs": 4,
-      "relation": "备忘录引爆连环丑闻"
+      "relation": "备忘录引爆私德清算，权力天平翻转"
     },
     {
-      "title": "管制加码",
-      "subs": 4,
-      "relation": "权力翻转，鹰派乘势"
+      "title": "旧账成法",
+      "subs": 5,
+      "relation": "天平既翻，多年旧账终于写成法条"
     }
   ],
   "branch_count": 3,
   "subs_counts": [
     3,
     4,
-    4
+    5
   ],
   "warns": []
 }
