@@ -121,8 +121,8 @@ def strip_tags(html):
 
 
 def text_from_content(c):
-    """按内容 JSON 生成全文：中文标题 + 英文标题 + 全部英文段落。"""
-    parts = [strip_tags(c.get("h1") or "")]
+    """按内容 JSON 生成英文全文（中文标题/译文统一由 zh_index.enrich 从页面并入）。"""
+    parts = []
     hl = c.get("headline") or {}
     if isinstance(hl, dict):
         parts.append(strip_tags(hl.get("en_html") or ""))
@@ -238,6 +238,13 @@ def do_sync(check_only=False, refresh_dates=()):
             kept.append(key)
         if new:
             texts[key] = new
+    # 中文译文增强：把页面真实可见的中文（.zh-block / translated.html）并入索引。
+    # 幂等 —— 每次以 ZH_MARK 之前的英文部分为基底，中文部分从页面重新抽取；
+    # 内容不变则 save_index 算出的版本戳不变，CDN 缓存不会天天失效。
+    import zh_index
+    texts, zh_stat = zh_index.enrich(texts, REPO)
+    print("中文译文：精读页 %d / 旧式译文页 %d / 无中文源 %d"
+          % (zh_stat["reading"], zh_stat["translated"], zh_stat["none"]))
     missing = [x["key"] for x in items if not texts.get(x["key"])]
     print("条目 %d | 新增 %d | 刷新 %d | 沿用 %d | 缺索引 %d"
           % (len(items), len(added), len(updated), len(kept), len(missing)))

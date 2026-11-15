@@ -197,7 +197,7 @@
 
   <script src="articles.js"></script>
   <script>
-    const SEARCH_INDEX_V = "ceacc4b5a9";
+    const SEARCH_INDEX_V = "3f5d6b4312";
     // 全文索引按需加载：只在「搜全文」或聚焦搜索框时下载，且全程只注入一次
     let searchIndexPromise = null;
     const { createApp } = Vue
@@ -310,11 +310,23 @@
           this.searchResults = null
         },
         extractSnippet(text, kw){
-          const idx = text.toLowerCase().indexOf(kw.toLowerCase())
+          // 索引 = 英文原文 + 分隔标记 + 中文译文。中文词优先只在译文段内取摘要，
+          // 避免出现「英文半句 + 中文标题」的拼接杂音；英文词仍搜全文。
+          const raw = text || ''
+          const mark = '\n⟪中文译文⟫\n'
+          const cn = /[\u4e00-\u9fff]/.test(kw)
+          let body = raw
+          if(raw.includes(mark)){
+            const zh = raw.split(mark)[1] || ''
+            body = (cn && zh.toLowerCase().includes(kw.toLowerCase()))
+              ? zh : raw.split(mark).join(' … ')
+          }
+          const idx = body.toLowerCase().indexOf(kw.toLowerCase())
           if(idx === -1) return ''
-          const start = Math.max(0, idx - 50)
-          const end = Math.min(text.length, idx + kw.length + 80)
-          let snippet = (start > 0 ? '...' : '') + text.substring(start, end) + (end < text.length ? '...' : '')
+          // 中文摘要窗口收紧（中文单字信息密度高，50/80 会拖出一大段）
+          const start = Math.max(0, idx - (cn ? 24 : 50))
+          const end = Math.min(body.length, idx + kw.length + (cn ? 42 : 80))
+          let snippet = (start > 0 ? '...' : '') + body.substring(start, end) + (end < body.length ? '...' : '')
           // 高亮关键词
           const re = new RegExp('(' + kw.replace(/[.*+?^${}()|[\]\\]/g,'\\$&') + ')', 'gi')
           snippet = snippet.replace(re, '<mark style="background:#fef08a;padding:0 2px;">$1</mark>')
@@ -396,7 +408,8 @@
           }
           this.currentArticle = art
           this.showArticle = true
-          this.mode = "clean"
+          // 中文关键词命中的是译文段落；旧式弹窗文章默认切到「翻译版」才能定位并高亮
+          this.mode = /[\u4e00-\u9fff]/.test(kw || '') ? "translated" : "clean"
           this.vocabList = art.vocabs || []
           this.loadContent()
         },
