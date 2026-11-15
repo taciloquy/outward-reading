@@ -1,6 +1,13 @@
 // ===== 文章数据库（独立静态资源；正文全文见 search-index.js） =====
     const ARTICLES = [
       {
+        title: "在 Tinder 上被骗走七十万美元——连聪明人，也正坠入一场名为爱情的骗局",
+        publishDate: "2026-11-16",
+        fileKey: "2026-11-16_001",
+        readingPath: "/outward-reading/articles/2026/11/2026-11-16_001.reading.html",
+        source: "The Washington Post"
+      },
+      {
         title: "华盛顿对华鹰派‘复仇’成功：黄仁勋出局，芯片出口管制要加码了？",
         publishDate: "2026-11-15",
         fileKey: "2026-11-15_001",

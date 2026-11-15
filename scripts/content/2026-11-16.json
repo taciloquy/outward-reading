@@ -1,0 +1,76 @@
+{
+ "date": "2026-11-16",
+ "title_tag": "在 Tinder 上被骗走七十万美元——连聪明人，也正坠入一场名为爱情的骗局 —— 美国《华盛顿邮报》外刊讲解第1230天",
+ "h1": "在 Tinder 上被骗走七十万美元——连聪明人，也正坠入一场名为爱情的骗局",
+ "source_label": "Washington Post",
+ "category": "美国《华盛顿邮报》外刊讲解 第1230天",
+ "read_minutes": 10,
+ "nav_hint": "Scammed out of $700,000 on Tinder",
+ "audio": false,
+ "headline": {
+  "en_html": "Scammed out of $700,000 on Tinder: Even smart people are falling for romance cons",
+  "zh": "七十万美元买来的教训：聪明人也会上爱情骗局的当",
+  "notes": []
+ },
+ "paragraphs": [
+  {
+   "en_html": "She wanted to give her heart away. A scammer posing as a love interest wanted to take her money instead. Romance and confidence schemes are driving nearly $1 billion in annual losses, according to the FBI Internet Crime Report for 2025.",
+   "zh": "",
+   "notes": []
+  },
+  {
+   "en_html": "The personal stories behind the statistics are painful. A report released last month by the congressional Joint Economic Committee focused specifically on romance scams. The findings were based on a year-long bipartisan investigation led by the panel’s top Democrat, Sen. Maggie Hassan (New Hampshire), and Sen. Marsha Blackburn (R-Tennessee), who chairs a Senate subcommittee on consumer protection and data privacy.",
+   "zh": "",
+   "notes": []
+  },
+  {
+   "en_html": "The probe examined Match Group platforms, including Hinge, Match, Plenty of Fish and Tinder. The report featured victims’ stories, including a woman who joined Tinder last year seeking companionship after her husband died. She matched with a user who claimed to be from New Jersey. After winning her trust, the online predator fabricated various crises — including a heart attack and an arrest in Mexico. The fraudster ultimately coaxed her into sending him money.",
+   "zh": "",
+   "notes": []
+  },
+  {
+   "en_html": "According to the report, after the scam was exposed, the victim was contacted by a group offering to help recover her stolen funds. That turned out to be a fake cryptocurrency scheme. In total, the widow lost more than $700,000 from the two scams. “A romance scam takes more than money,” the woman, who was not identified by name in the report, told investigators. “There are wounds nobody sees. You question every conversation, every promise you believed. Some lose savings, homes, and futures. Some lose faith in love.”",
+   "zh": "",
+   "notes": []
+  },
+  {
+   "en_html": "I invited Hassan to join me on my show “Dollars &amp; Sense” to discuss the report on Match Group and her efforts to combat a growing and expensive crime. “It’s really important for all of these tech platforms to understand the scale of the criminal enterprise that is the global scam industry,” Hassan told me. “We are seeing scams just explode as AI has developed and become more and more effective.”",
+   "zh": "",
+   "notes": []
+  },
+  {
+   "en_html": "According to the report, as of the second half of 2025, Tinder had not updated most of its machine learning models in years. “As a result, Tinder detected scammers and other bad actors less reliably and struggled to keep pace with emerging threats,” the report found.",
+   "zh": "",
+   "notes": []
+  },
+  {
+   "en_html": "The committee report acknowledged that Match Group has taken steps to improve its detection of bad actors. This includes the launch of a new security feature last year called Face Check, which requires new members to film a video selfie within the app. “We’re grateful the committee recognized our significant advancements to protect our users against romance scams, including the launch of our biometric verification tool Face Check across Tinder and Hinge,” Yoel Roth, Match Group’s senior vice president of Trust and Safety, said in an email. “That said, the report mischaracterizes both the historical scale of our investment and the work already completed.”",
+   "zh": "",
+   "notes": []
+  },
+  {
+   "en_html": "Face Check confirms that the person is real and physically present and that their face matches the one shown in their profile photos, according to Match Group. If the scanned face matches a profile photo, members get a verified badge. “Alongside our engagement with the committee over the past year, we’ve made the largest safety advancements in Match Group’s history,” Roth said. “Trust and safety is a foundational priority, and we intend to continue leading the industry in building tools that promote authentic, safe connections. Romance scams are a cross-platform, societal problem that no company can solve alone, which is why we participate in and help fund cross-industry efforts to combat online scams.”",
+   "zh": "",
+   "notes": []
+  },
+  {
+   "en_html": "Sadly, no app can guarantee complete protection from scammers. There is no magic advice that can save you from fraudsters, because the schemes have become so sophisticated. “Romance scams are in fact nefarious,” Hassan said. “They steal people’s money, but also their trust.” And please don’t shame victims like the widow. She was looking for love and was manipulated. You are not too clever to be conned.",
+   "zh": "",
+   "notes": []
+  },
+  {
+   "en_html": "Until there is more robust security on these platforms, my advice is to trust nothing and no one. Verify everything. Make it a point to always do a reverse image search. Go to the TinEye reverse image search tool, and upload your image or paste its URL. The AARP Fraud Victim Support Group provides an online forum for scam victims. Group sessions are confidential and led by trained facilitators. They are also open to friends and family. Go to aarp.org/fraudsupport for help.",
+   "zh": "",
+   "notes": []
+  }
+ ],
+ "proper": [],
+ "sources_note": "依据美国《华盛顿邮报》（The Washington Post）2026-11-16 报道。",
+ "practice": {},
+ "mindmap": {
+  "aria": "爱情骗局 思维导图",
+  "alt": "爱情骗局：从心动到七十万美元 思维导图",
+  "svg": "<svg viewBox=\"0 0 960 644\" xmlns=\"http://www.w3.org/2000/svg\" role=\"img\" aria-label=\"爱情骗局 思维导图\" style=\"width:100%;height:auto;font-family:-apple-system,'PingFang SC','Hiragino Sans GB','Microsoft YaHei',sans-serif\">\n<rect x=\"24\" y=\"278\" width=\"176\" height=\"88\" rx=\"14\" fill=\"#eae3d2\" stroke=\"#9a8f76\"/>\n<text x=\"112\" y=\"314\" text-anchor=\"middle\" fill=\"#3d3a34\" font-size=\"17\" font-weight=\"700\">爱情骗局</text>\n<text x=\"112\" y=\"340\" text-anchor=\"middle\" fill=\"#5c5648\" font-size=\"12.5\">从心动到七十万美元</text>\n<path d=\"M200,322 C232,322 232,88 260,88\" stroke=\"#6b8f71\" stroke-width=\"2\" fill=\"none\"/>\n<path d=\"M200,322 C232,322 232,265 260,265\" stroke=\"#7d98ad\" stroke-width=\"2\" fill=\"none\"/>\n<path d=\"M200,322 C232,322 232,442 260,442\" stroke=\"#bd7a6d\" stroke-width=\"2\" fill=\"none\"/>\n<path d=\"M200,322 C232,322 232,577 260,577\" stroke=\"#9b86b3\" stroke-width=\"2\" fill=\"none\"/>\n<g class=\"mm-branch\" data-target=\"bc1\">\n<rect x=\"260\" y=\"71\" width=\"190\" height=\"34\" rx=\"8\" fill=\"#e6efe7\" stroke=\"#6b8f71\"/>\n<text x=\"355\" y=\"93\" text-anchor=\"middle\" fill=\"#4c6b52\" font-size=\"15\" font-weight=\"700\">骗局成灾（¶1-3）</text>\n<text class=\"mm-arrow\" data-for=\"bc1\" x=\"442\" y=\"93\" text-anchor=\"end\" fill=\"#4c6b52\">▾</text>\n</g>\n<g class=\"mm-children\" id=\"bc1\">\n<path d=\"M450,88 C462,88 462,46 480,46\" stroke=\"#6b8f71\" stroke-width=\"1.5\" fill=\"none\"/>\n<path d=\"M450,88 C462,88 462,88 480,88\" stroke=\"#6b8f71\" stroke-width=\"1.5\" fill=\"none\"/>\n<path d=\"M450,88 C462,88 462,130 480,130\" stroke=\"#6b8f71\" stroke-width=\"1.5\" fill=\"none\"/>\n<rect x=\"480\" y=\"30\" width=\"456\" height=\"32\" rx=\"8\" fill=\"#e6efe7\"/><text x=\"492\" y=\"51\" fill=\"#3d3a34\" font-size=\"14\">情感与信任类骗局年损近十亿美元</text>\n<rect x=\"480\" y=\"72\" width=\"456\" height=\"32\" rx=\"8\" fill=\"#e6efe7\"/><text x=\"492\" y=\"93\" fill=\"#3d3a34\" font-size=\"14\">众院联合经济委员会专项报告</text>\n<rect x=\"480\" y=\"114\" width=\"456\" height=\"32\" rx=\"8\" fill=\"#e6efe7\"/><text x=\"492\" y=\"135\" fill=\"#3d3a34\" font-size=\"14\">两党议员一年长查交友平台</text>\n</g>\n<g class=\"mm-branch\" data-target=\"bc2\">\n<rect x=\"260\" y=\"248\" width=\"190\" height=\"34\" rx=\"8\" fill=\"#e5edf4\" stroke=\"#7d98ad\"/>\n<text x=\"355\" y=\"270\" text-anchor=\"middle\" fill=\"#3d5872\" font-size=\"15\" font-weight=\"700\">两次收割（¶4-6）</text>\n<text class=\"mm-arrow\" data-for=\"bc2\" x=\"442\" y=\"270\" text-anchor=\"end\" fill=\"#3d5872\">▾</text>\n</g>\n<g class=\"mm-children\" id=\"bc2\">\n<path d=\"M450,265 C462,265 462,202 480,202\" stroke=\"#7d98ad\" stroke-width=\"1.5\" fill=\"none\"/>\n<path d=\"M450,265 C462,265 462,244 480,244\" stroke=\"#7d98ad\" stroke-width=\"1.5\" fill=\"none\"/>\n<path d=\"M450,265 C462,265 462,286 480,286\" stroke=\"#7d98ad\" stroke-width=\"1.5\" fill=\"none\"/>\n<path d=\"M450,265 C462,265 462,328 480,328\" stroke=\"#7d98ad\" stroke-width=\"1.5\" fill=\"none\"/>\n<rect x=\"480\" y=\"186\" width=\"456\" height=\"32\" rx=\"8\" fill=\"#e5edf4\"/><text x=\"492\" y=\"207\" fill=\"#3d3a34\" font-size=\"14\">丧偶女性上 Tinder 寻伴，匹配“新泽西”用户</text>\n<rect x=\"480\" y=\"228\" width=\"456\" height=\"32\" rx=\"8\" fill=\"#e5edf4\"/><text x=\"492\" y=\"249\" fill=\"#3d3a34\" font-size=\"14\">伪造心梗与墨西哥被捕，诱其汇款</text>\n<rect x=\"480\" y=\"270\" width=\"456\" height=\"32\" rx=\"8\" fill=\"#e5edf4\"/><text x=\"492\" y=\"291\" fill=\"#3d3a34\" font-size=\"14\">追损群实为假币局，共失七十万美元</text>\n<rect x=\"480\" y=\"312\" width=\"456\" height=\"32\" rx=\"8\" fill=\"#e5edf4\"/><text x=\"492\" y=\"333\" fill=\"#3d3a34\" font-size=\"14\">Hassan：AI 让骗局爆炸式增长</text>\n</g>\n<g class=\"mm-branch\" data-target=\"bc3\">\n<rect x=\"260\" y=\"425\" width=\"190\" height=\"34\" rx=\"8\" fill=\"#f4e7e4\" stroke=\"#bd7a6d\"/>\n<text x=\"355\" y=\"447\" text-anchor=\"middle\" fill=\"#7c4a3e\" font-size=\"15\" font-weight=\"700\">风控停摆（¶7-9）</text>\n<text class=\"mm-arrow\" data-for=\"bc3\" x=\"442\" y=\"447\" text-anchor=\"end\" fill=\"#7c4a3e\">▾</text>\n</g>\n<g class=\"mm-children\" id=\"bc3\">\n<path d=\"M450,442 C462,442 462,400 480,400\" stroke=\"#bd7a6d\" stroke-width=\"1.5\" fill=\"none\"/>\n<path d=\"M450,442 C462,442 462,442 480,442\" stroke=\"#bd7a6d\" stroke-width=\"1.5\" fill=\"none\"/>\n<path d=\"M450,442 C462,442 462,484 480,484\" stroke=\"#bd7a6d\" stroke-width=\"1.5\" fill=\"none\"/>\n<rect x=\"480\" y=\"384\" width=\"456\" height=\"32\" rx=\"8\" fill=\"#f4e7e4\"/><text x=\"492\" y=\"405\" fill=\"#3d3a34\" font-size=\"14\">Tinder 机器学习模型多年未更新</text>\n<rect x=\"480\" y=\"426\" width=\"456\" height=\"32\" rx=\"8\" fill=\"#f4e7e4\"/><text x=\"492\" y=\"447\" fill=\"#3d3a34\" font-size=\"14\">Face Check 视频自拍换认证徽章</text>\n<rect x=\"480\" y=\"468\" width=\"456\" height=\"32\" rx=\"8\" fill=\"#f4e7e4\"/><text x=\"492\" y=\"489\" fill=\"#3d3a34\" font-size=\"14\">Roth 反驳报告低估其投入</text>\n</g>\n<g class=\"mm-branch\" data-target=\"bc4\">\n<rect x=\"260\" y=\"560\" width=\"190\" height=\"34\" rx=\"8\" fill=\"#ece4f2\" stroke=\"#9b86b3\"/>\n<text x=\"355\" y=\"582\" text-anchor=\"middle\" fill=\"#5a4670\" font-size=\"15\" font-weight=\"700\">只能自保（¶10-11）</text>\n<text class=\"mm-arrow\" data-for=\"bc4\" x=\"442\" y=\"582\" text-anchor=\"end\" fill=\"#5a4670\">▾</text>\n</g>\n<g class=\"mm-children\" id=\"bc4\">\n<path d=\"M450,577 C462,577 462,556 480,556\" stroke=\"#9b86b3\" stroke-width=\"1.5\" fill=\"none\"/>\n<path d=\"M450,577 C462,577 462,598 480,598\" stroke=\"#9b86b3\" stroke-width=\"1.5\" fill=\"none\"/>\n<rect x=\"480\" y=\"540\" width=\"456\" height=\"32\" rx=\"8\" fill=\"#ece4f2\"/><text x=\"492\" y=\"561\" fill=\"#3d3a34\" font-size=\"14\">骗术已精，没有万能建议</text>\n<rect x=\"480\" y=\"582\" width=\"456\" height=\"32\" rx=\"8\" fill=\"#ece4f2\"/><text x=\"492\" y=\"603\" fill=\"#3d3a34\" font-size=\"14\">零信任、反向搜图、AARP 求助</text>\n</g>\n<text x=\"486\" y=\"170\" fill=\"#8a8578\" font-size=\"11.5\">↓ 统计落到一个人身上，套路才看得清</text>\n<text x=\"486\" y=\"368\" fill=\"#8a8578\" font-size=\"11.5\">↓ 个案背后是平台多年不更新模型</text>\n<text x=\"486\" y=\"524\" fill=\"#8a8578\" font-size=\"11.5\">↓ 平台补不上窟窿，责任回到个人</text>\n</svg>",
+  "img": ""
+ }
+}

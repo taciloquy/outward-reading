@@ -1,0 +1,37 @@
+{
+  "outline": "scripts/content/outlines/2026-11-16.json",
+  "outline_mtime": 1794740632.930857,
+  "checked_at": "2026-11-15 19:03:55",
+  "user_confirmed": false,
+  "center": "爱情骗局",
+  "branches": [
+    {
+      "title": "骗局成灾",
+      "subs": 3,
+      "relation": null
+    },
+    {
+      "title": "两次收割",
+      "subs": 4,
+      "relation": "统计落到一个人身上，套路才看得清"
+    },
+    {
+      "title": "风控停摆",
+      "subs": 3,
+      "relation": "个案背后是平台多年不更新模型"
+    },
+    {
+      "title": "只能自保",
+      "subs": 2,
+      "relation": "平台补不上窟窿，责任回到个人"
+    }
+  ],
+  "branch_count": 4,
+  "subs_counts": [
+    3,
+    4,
+    3,
+    2
+  ],
+  "warns": []
+}
