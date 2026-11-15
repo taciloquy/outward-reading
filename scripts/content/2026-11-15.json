@@ -6,62 +6,747 @@
  "category": "美国《华盛顿邮报》外刊讲解 第1229天",
  "read_minutes": 9,
  "nav_hint": "Behind Jensen Huang's spy scandal",
- "audio": false,
  "headline": {
-  "en_html": "Behind Jensen Huang’s spy scandal, a shadow war for Trump’s ear on China",
+  "en_html": "Behind Jensen Huang's spy <mark class=\"voc\">scandal</mark>, a <mark class=\"voc\">shadow war</mark> <mark class=\"voc\">for Trump's ear</mark> on China",
   "zh": "华盛顿对华鹰派‘复仇’成功：黄仁勋出局，芯片出口管制要加码了？",
-  "notes": []
+  "notes": [
+   {
+    "w": "scandal",
+    "ipa": "/ˈskændl/",
+    "pos": "n.",
+    "en": "An event involving shocking or unacceptable behavior that causes public anger.",
+    "zh": "丑闻；引起公众愤怒的事件",
+    "ctx": "spy scandal 指黄仁勋与涉嫌间谍活动的人士有关的丑闻。",
+    "ex1": "The scandal seriously damaged the politician's reputation. 这场丑闻严重损害了这位政治家的声誉。",
+    "ex2": "The company faced intense criticism after the scandal. 丑闻发生后，这家公司遭到了猛烈批评。"
+   },
+   {
+    "w": "shadow war",
+    "ipa": "/ˈʃædoʊ wɔːr/",
+    "pos": "phr.",
+    "en": "A hidden conflict or struggle between opposing groups.",
+    "zh": "暗战；秘密斗争",
+    "ctx": "指华盛顿内部围绕特朗普对华芯片政策展开的隐秘权力斗争。",
+    "ex1": "A shadow war was taking place between the two political groups. 两个政治集团之间正在展开一场暗战。",
+    "ex2": "The shadow war for political influence continued behind closed doors. 争夺政治影响力的暗战仍在幕后继续。"
+   },
+   {
+    "w": "for Trump's ear",
+    "ipa": "/fɔːr trʌmps ɪr/",
+    "pos": "phr.",
+    "en": "In competition to gain Trump's attention and influence his decisions.",
+    "zh": "争取特朗普的倾听；争夺对特朗普的影响力",
+    "ctx": "指各方争夺特朗普的关注与信任，试图影响他的对华政策。",
+    "ex1": "Several advisers competed for the president's ear. 几位顾问争相获得总统的关注。",
+    "ex2": "Business leaders fought for the governor's ear. 商界领袖争相争取州长的倾听。"
+   }
+  ]
  },
  "paragraphs": [
   {
-   "en_html": "As Nvidia chief executive Jensen Huang gained extraordinary access to President Donald Trump and secured his blessing to sell artificial intelligence chips to China, he fueled a backlash among Washington officials and national security hawks who wanted to keep the powerful technology out of Beijing’s hands. Some national security officials within the Trump administration chafed at Huang’s influence over the president, according to two former officials.",
-   "zh": "",
-   "notes": []
+   "en_html": "As Nvidia chief executive Jensen Huang gained extraordinary access to President Donald Trump and <mark class=\"voc\">secured</mark> his <mark class=\"voc\">blessing</mark> to sell artificial intelligence chips to China, he fueled a <mark class=\"voc\">backlash</mark> among Washington officials and national security <mark class=\"voc\">hawks</mark> who wanted to keep the powerful technology <mark class=\"voc\">out of Beijing's hands</mark>. Some national security officials within the Trump administration <mark class=\"voc\">chafed</mark> at Huang's influence over the president, according to two former officials.",
+   "zh": "随着英伟达首席执行官黄仁勋获得了接近美国总统唐纳德·特朗普的非同寻常的机会，并取得特朗普的首肯，得以向中国出售人工智能芯片，他也在华盛顿官员和国家安全鹰派人士中引发了强烈反弹。这些人希望阻止这项强大的技术落入北京手中。据两名前官员透露，特朗普政府内部的一些国家安全官员对黄仁勋施加于总统的影响力感到不满。",
+   "notes": [
+    {
+     "w": "secured",
+     "ipa": "/sɪˈkjʊrd/",
+     "pos": "v.",
+     "en": "Succeeded in obtaining something, especially after making an effort.",
+     "zh": "获得；争取到；确保",
+     "ctx": "secured his blessing 指黄仁勋成功获得了特朗普的许可和支持。",
+     "ex1": "The company secured a major contract with the government. 这家公司成功获得了一份重要的政府合同。",
+     "ex2": "She secured enough support to move the proposal forward. 她争取到了足够的支持来推进这项提案。"
+    },
+    {
+     "w": "blessing",
+     "ipa": "/ˈblesɪŋ/",
+     "pos": "n.",
+     "en": "Approval or permission for someone to do something.",
+     "zh": "赞同；许可；支持；祝福",
+     "ctx": "his blessing 指特朗普对英伟达向中国出售人工智能芯片的首肯。",
+     "ex1": "The project cannot move forward without the director's blessing. 没有主管的批准，这个项目就无法推进。",
+     "ex2": "They started the business with their parents' blessing. 他们在父母的支持下创办了这家企业。"
+    },
+    {
+     "w": "backlash",
+     "ipa": "/ˈbæklæʃ/",
+     "pos": "n.",
+     "en": "A strong negative reaction by a group of people to something.",
+     "zh": "强烈反对；强烈抵制；反弹",
+     "ctx": "a backlash among Washington officials 指华盛顿官员对黄仁勋影响特朗普政策产生的强烈反对。",
+     "ex1": "The new policy triggered a backlash from voters. 这项新政策引发了选民的强烈反对。",
+     "ex2": "The company faced a public backlash over its decision. 这家公司因其决定而遭到公众的强烈抵制。"
+    },
+    {
+     "w": "hawks",
+     "ipa": "/hɔːks/",
+     "pos": "n.",
+     "en": "People who support strong or aggressive policies, especially in politics or national security.",
+     "zh": "鹰派人物；主张强硬政策的人",
+     "ctx": "national security hawks 指主张对中国采取强硬技术和国家安全政策的人士。",
+     "ex1": "Foreign policy hawks demanded tougher action against the rival country. 外交政策鹰派要求对竞争国家采取更强硬的行动。",
+     "ex2": "The hawks opposed any relaxation of export restrictions. 鹰派人士反对放松任何出口限制。"
+    },
+    {
+     "w": "out of Beijing's hands",
+     "ipa": "/aʊt əv beɪˈdʒɪŋz hændz/",
+     "pos": "phr.",
+     "en": "Away from Beijing's possession, control, or influence.",
+     "zh": "不落入北京手中；不受北京控制",
+     "ctx": "keep the powerful technology out of Beijing's hands 指阻止中国获得或控制这种强大的技术。",
+     "ex1": "The government wants to keep dangerous weapons out of criminals' hands. 政府希望防止危险武器落入犯罪分子手中。",
+     "ex2": "The documents must be kept out of competitors' hands. 这些文件绝不能落入竞争对手手中。"
+    },
+    {
+     "w": "chafed",
+     "ipa": "/tʃeɪft/",
+     "pos": "v.",
+     "en": "Felt annoyed or impatient because of something that was unwelcome or restrictive.",
+     "zh": "感到恼火；感到不满；因受限制而烦躁",
+     "ctx": "chafed at Huang's influence 指一些国家安全官员对黄仁勋影响总统决策的能力感到不满。",
+     "ex1": "The employees chafed at the company's strict rules. 员工们对公司的严格规定感到不满。",
+     "ex2": "Several officials chafed at the growing power of the new adviser. 几名官员对这位新顾问日益增长的权力感到恼火。"
+    }
+   ]
   },
   {
-   "en_html": "Huang’s downfall, which has the potential to mark a dramatic shift in power, was ultimately set in motion by one of the capital’s most influential China hard-liners, national security adviser and Secretary of State Marco Rubio. Rubio issued a memo warning Trump about the relationship between Huang and a suspected Chinese spy, based on a report generated by the CIA, according to a person familiar with the matter. When the findings of Rubio’s memo — swiping at one of Trump’s closest allies — leaked in news reports, they set off a chain of events that culminated in Huang’s resignation Thursday.",
-   "zh": "",
-   "notes": []
+   "en_html": "Huang’s <mark class=\"voc\">downfall</mark>, which has the potential to mark a dramatic shift in power, was ultimately <mark class=\"voc\">set in motion</mark> by one of the capital’s most influential China <mark class=\"voc\">hard-liners</mark>, national security adviser and Secretary of State Marco Rubio. Rubio issued a memo warning Trump about the relationship between Huang and a suspected Chinese spy, based on a report generated by the CIA, according to a person familiar with the matter. When the findings of Rubio’s memo — <mark class=\"voc\">swiping at</mark> one of Trump’s closest allies — <mark class=\"voc\">leaked</mark> in news reports, they <mark class=\"voc\">set off</mark> a chain of events that <mark class=\"voc\">culminated</mark> in Huang’s resignation Thursday.",
+   "zh": "黄仁勋的倒台可能标志着权力格局发生戏剧性的转变，而最终推动这一事件发生的，是华盛顿最具影响力的对华强硬派人物之一——国家安全顾问兼国务卿马尔科·卢比奥。据一名知情人士透露，卢比奥根据美国中央情报局（CIA）出具的一份报告，向特朗普提交了一份备忘录，警告他注意黄仁勋与一名涉嫌为中国从事间谍活动的人士之间的关系。当卢比奥备忘录中的调查发现被新闻媒体泄露出来时，这些直指特朗普最亲密盟友之一的内容引发了一连串事件，最终导致黄仁勋于周四辞职。",
+   "notes": [
+    {
+     "w": "downfall",
+     "ipa": "/ˈdaʊnfɔːl/",
+     "pos": "n.",
+     "en": "The loss of power, success, or status, especially after a period of great influence.",
+     "zh": "垮台；衰落；失势",
+     "ctx": "Huang's downfall 指黄仁勋因丑闻失去原有的权力、地位和政治影响力。",
+     "ex1": "The corruption scandal led to the minister's downfall. 这场腐败丑闻导致了部长的垮台。",
+     "ex2": "His arrogance eventually contributed to his downfall. 他的傲慢最终促成了他的失败。"
+    },
+    {
+     "w": "set in motion",
+     "ipa": "/set ɪn ˈmoʊʃn/",
+     "pos": "phr.",
+     "en": "To cause a process or series of events to begin.",
+     "zh": "启动；引发；使一系列事件开始发生",
+     "ctx": "was ultimately set in motion by Marco Rubio 指卢比奥的行动启动了最终导致黄仁勋辞职的一系列事件。",
+     "ex1": "The investigation set in motion a series of political changes. 这项调查引发了一系列政治变化。",
+     "ex2": "One unexpected phone call set the entire plan in motion. 一通意外的电话启动了整个计划。"
+    },
+    {
+     "w": "hard-liners",
+     "ipa": "/ˌhɑːrd ˈlaɪnərz/",
+     "pos": "n.",
+     "en": "People who strongly support strict or uncompromising political policies.",
+     "zh": "强硬派人士；立场坚定且不愿妥协的人",
+     "ctx": "China hard-liners 指主张对中国采取严格限制和强硬政策的政治人物。",
+     "ex1": "The hard-liners opposed any compromise with the opposing party. 强硬派人士反对与对立政党作出任何妥协。",
+     "ex2": "Political hard-liners demanded tougher economic sanctions. 政治强硬派要求实施更严厉的经济制裁。"
+    },
+    {
+     "w": "swipe at",
+     "ipa": "/ˈswaɪpɪŋ æt/",
+     "pos": "phr.",
+     "en": "Criticizing or attacking someone, often indirectly or sharply.",
+     "zh": "抨击；攻击；尖锐批评",
+     "ctx": "swiping at one of Trump's closest allies 指卢比奥的备忘录实际上将矛头指向了特朗普最亲密的盟友之一黄仁勋。",
+     "ex1": "The senator was swiping at his political rivals during the interview. 这位参议员在采访中抨击自己的政治对手。",
+     "ex2": "The article was widely seen as swiping at the president's economic policies. 这篇文章被广泛认为是在抨击总统的经济政策。"
+    },
+    {
+     "w": "leaked",
+     "ipa": "/liːkt/",
+     "pos": "v.",
+     "en": "Became publicly known without official permission, especially when the information was secret.",
+     "zh": "泄露；走漏；被披露",
+     "ctx": "leaked in news reports 指卢比奥备忘录中的调查发现被媒体披露。",
+     "ex1": "The confidential documents were leaked to the press. 这些机密文件被泄露给了媒体。",
+     "ex2": "Details of the private meeting leaked before the official announcement. 私人会议的细节在正式公告前就泄露了。"
+    },
+    {
+     "w": "set off",
+     "ipa": "/set ɔːf/",
+     "pos": "phr.",
+     "en": "To cause something to happen, especially a series of events or reactions.",
+     "zh": "引发；触发；激起",
+     "ctx": "set off a chain of events 指备忘录内容曝光后引发了一连串事件。",
+     "ex1": "The unexpected announcement set off a wave of protests. 这项意外的公告引发了一波抗议浪潮。",
+     "ex2": "The discovery set off a series of investigations. 这一发现引发了一系列调查。"
+    },
+    {
+     "w": "culminate",
+     "ipa": "/ˈkʌlmɪneɪtɪd/",
+     "pos": "v.",
+     "en": "Reached a final result or the most important point after a series of events.",
+     "zh": "以……告终；达到顶点；最终导致",
+     "ctx": "culminated in Huang's resignation 指一系列事件最终以黄仁勋辞职告终。",
+     "ex1": "Months of negotiations culminated in a historic agreement. 数月的谈判最终促成了一项历史性协议。",
+     "ex2": "The growing controversy culminated in the minister's resignation. 不断升级的争议最终导致部长辞职。"
+    }
+   ]
   },
   {
-   "en_html": "Huang admitted to and apologized for having an affair with an executive at an Nvidia customer, who American spies suspect of being a Chinese intelligence asset. Nvidia’s board launched an investigation, but Huang ultimately resigned following reports of another affair with a subordinate. After Huang’s resignation, Trump referred to him as a “legend” who had “done a fantastic job.” At a Group of Seven summit in Paris this week, Rubio declined several times to answer reporters’ questions on his role in alerting the White House to Huang’s affair.",
-   "zh": "",
-   "notes": []
+   "en_html": "Huang admitted to and apologized for having an <mark class=\"voc\">affair</mark> with an executive at an Nvidia customer, who American spies suspect of being a Chinese intelligence asset. Nvidia's board launched an investigation, but Huang ultimately resigned following reports of another affair with a <mark class=\"voc\">subordinate</mark>. After Huang's resignation, Trump <mark class=\"voc\">referred to</mark> him as a \"legend\" who had \"done a fantastic job.\" At a Group of Seven <mark class=\"voc\">summit</mark> in Paris this week, Rubio declined several times to answer reporters' questions on his role in alerting the White House to Huang's affair.",
+   "zh": "黄仁勋承认自己与英伟达一家客户公司的高管发生了婚外情，并为此道歉。美国情报人员怀疑这名高管是中国情报机构的线人。英伟达董事会启动了一项调查，但在有关黄仁勋与另一名下属存在婚外情的报道出现后，他最终辞去了职务。黄仁勋辞职后，特朗普称他是一位“传奇人物”，并表示他“工作做得非常出色”。本周，在巴黎举行的七国集团峰会上，记者多次询问卢比奥在向白宫通报黄仁勋婚外情一事中扮演了什么角色，但卢比奥始终拒绝回答。",
+   "notes": [
+    {
+     "w": "affair",
+     "ipa": "/əˈfer/",
+     "pos": "n.",
+     "en": "A romantic or sexual relationship, especially a secret one involving someone who is married.",
+     "zh": "婚外情；私情；秘密恋情",
+     "ctx": "having an affair with an executive 指黄仁勋与一名企业高管发生婚外情。",
+     "ex1": "The secret affair became public after several months. 这段秘密恋情在几个月后被曝光。",
+     "ex2": "The scandal began when the politician admitted having an affair. 这场丑闻始于这位政治人物承认自己有婚外情。"
+    },
+    {
+     "w": "subordinate",
+     "ipa": "/səˈbɔːrdɪnət/",
+     "pos": "n.",
+     "en": "A person who has a lower position or rank than someone else in an organization.",
+     "zh": "下属；部下；职位较低的人",
+     "ctx": "another affair with a subordinate 指黄仁勋被报道与另一名下属存在婚外情。",
+     "ex1": "The manager was accused of treating his subordinates unfairly. 这名经理被指控不公平地对待下属。",
+     "ex2": "She encouraged her subordinates to express their opinions freely. 她鼓励下属自由表达意见。"
+    },
+    {
+     "w": "refer to",
+     "ipa": "/rɪˈfɜːrd tuː/",
+     "pos": "phr.",
+     "en": "Described or mentioned someone or something in a particular way.",
+     "zh": "称……为；把……称作；提及",
+     "ctx": "Trump referred to him as a \"legend\"指特朗普称黄仁勋为一位“传奇人物”。",
+     "ex1": "The president referred to the scientist as a national hero. 总统称这位科学家为民族英雄。",
+     "ex2": "Her colleagues often referred to her as the heart of the team. 同事们经常称她为团队的核心人物。"
+    },
+    {
+     "w": "summit",
+     "ipa": "/ˈsʌmɪt/",
+     "pos": "n.",
+     "en": "An important meeting between leaders of countries or major organizations.",
+     "zh": "峰会；首脑会议；最高峰",
+     "ctx": "a Group of Seven summit 指七国集团领导人举行的高级别国际会议。",
+     "ex1": "World leaders gathered for an international summit on climate change. 世界领导人齐聚一场关于气候变化的国际峰会。",
+     "ex2": "The two presidents discussed trade relations during the summit. 两位总统在峰会期间讨论了贸易关系。"
+    }
+   ]
   },
   {
-   "en_html": "The ouster marks a huge victory for those who had long sought to curb Huang’s influence over Trump’s policy toward Beijing, and a stunning turn in a shadow battle that has raged for years between Nvidia and those in Washington who see China as a military and technology threat. Until recently, Huang’s close relationship with Trump appeared to give him the upper hand. But with the downfall of the leatherjacket-sporting CEO, the hawks are ready to seize on the moment to redirect the national agenda toward tougher policies on China.",
-   "zh": "",
-   "notes": []
+   "en_html": "The <mark class=\"voc\">ouster</mark> marks a huge victory for those who had long sought to <mark class=\"voc\">curb</mark> Huang's influence over Trump's policy toward Beijing, and a <mark class=\"voc\">stunning</mark> turn in a shadow battle that has <mark class=\"voc\">raged</mark> for years between Nvidia and those in Washington who see China as a military and technology threat. Until recently, Huang's close relationship with Trump appeared to give him the <mark class=\"voc\">upper hand</mark>. But with the downfall of the <mark class=\"voc\">leatherjacket sporting</mark> CEO, the hawks are ready to <mark class=\"voc\">seize on</mark> the moment to redirect the national <mark class=\"voc\">agenda</mark> toward tougher policies on China.",
+   "zh": "黄仁勋被迫离职，对于那些长期以来一直试图限制他对特朗普对华政策影响力的人来说，标志着一场重大胜利。这也是英伟达与华盛顿那些将中国视为军事和技术威胁的人士之间持续多年暗战的一次惊人转折。直到最近，黄仁勋与特朗普的亲密关系似乎仍让他占据上风。然而，随着这位以身穿皮夹克著称的首席执行官倒台，鹰派人士正准备抓住这一时机，推动美国国家政策议程转向对中国采取更强硬的立场。",
+   "notes": [
+    {
+     "w": "ouster",
+     "ipa": "/ˈaʊstər/",
+     "pos": "n.",
+     "en": "The act of forcing someone to leave a position of power or authority.",
+     "zh": "罢免；驱逐；被迫离职",
+     "ctx": "The ouster 指黄仁勋离开英伟达首席执行官职位，被视为其政治对手的一场重大胜利。",
+     "ex1": "The minister's ouster followed months of political controversy. 这位部长在经历数月政治争议后被迫离职。",
+     "ex2": "The sudden ouster of the CEO shocked investors. 首席执行官突然被迫离职令投资者震惊。"
+    },
+    {
+     "w": "curb",
+     "ipa": "/kɜːrb/",
+     "pos": "v.",
+     "en": "To control or limit something, especially something considered harmful or excessive.",
+     "zh": "限制；抑制；控制",
+     "ctx": "curb Huang's influence 指限制黄仁勋对特朗普及其对华政策的影响力。",
+     "ex1": "The government introduced new measures to curb inflation. 政府推出了新措施来抑制通货膨胀。",
+     "ex2": "Lawmakers are trying to curb the influence of powerful technology companies. 立法者正试图限制大型科技公司的影响力。"
+    },
+    {
+     "w": "stunning",
+     "ipa": "/ˈstʌnɪŋ/",
+     "pos": "adj.",
+     "en": "Extremely surprising, impressive, or shocking.",
+     "zh": "令人震惊的；惊人的；出乎意料的",
+     "ctx": "a stunning turn 指这场持续多年的政治暗战出现了令人震惊的转折。",
+     "ex1": "The election ended with a stunning victory for the opposition. 这场选举以反对派令人震惊的胜利告终。",
+     "ex2": "The investigation revealed a stunning change in the company's leadership. 调查揭示了公司领导层令人震惊的变化。"
+    },
+    {
+     "w": "rage",
+     "ipa": "/reɪdʒd/",
+     "pos": "v.",
+     "en": "Continued with great force, violence, or intensity.",
+     "zh": "激烈进行；肆虐；持续猛烈地发展",
+     "ctx": "a shadow battle that has raged for years 指英伟达与华盛顿对华强硬派之间持续多年、竞争激烈的暗战。",
+     "ex1": "A fierce debate raged in Congress over the proposed law. 国会围绕这项拟议法律展开了激烈辩论。",
+     "ex2": "The political conflict raged for months without a clear winner. 这场政治冲突持续激烈进行了数月，始终没有明确的赢家。"
+    },
+    {
+     "w": "upper hand",
+     "ipa": "/ˌʌpər ˈhænd/",
+     "pos": "n.",
+     "en": "A position of advantage, power, or control over someone else.",
+     "zh": "优势；上风；有利地位",
+     "ctx": "give him the upper hand 指黄仁勋凭借与特朗普的亲密关系，在政策争夺中占据优势。",
+     "ex1": "The company gained the upper hand during the negotiations. 这家公司在谈判中占据了上风。",
+     "ex2": "The opposition appeared to have the upper hand after the debate. 辩论结束后，反对派似乎占据了优势。"
+    },
+    {
+     "w": "leatherjacket sporting adj.",
+     "ipa": "/ˈleðər ˌdʒækɪt ˈspɔːrtɪŋ/",
+     "pos": "phr.",
+     "en": "Wearing or displaying a leather jacket as a noticeable part of one's appearance.",
+     "zh": "穿着皮夹克的；以皮夹克造型示人的",
+     "ctx": "the leatherjacket sporting CEO 指以标志性皮夹克形象著称的英伟达首席执行官黄仁勋。",
+     "ex1": "The leather-jacket-sporting musician attracted attention as soon as he entered the room. 这位穿着皮夹克的音乐家一走进房间就吸引了众人的目光。",
+     "ex2": "A leather-jacket-sporting businessman stood out among the formally dressed executives. 一位身穿皮夹克的商人在西装革履的高管中格外显眼。"
+    },
+    {
+     "w": "seize on",
+     "ipa": "/siːz ɑːn/",
+     "pos": "phr.",
+     "en": "To quickly take advantage of an opportunity, event, or idea.",
+     "zh": "抓住；利用；趁机利用",
+     "ctx": "seize on the moment 指对华鹰派准备利用黄仁勋倒台的机会推动更强硬的政策。",
+     "ex1": "The opposition seized on the scandal to demand political reform. 反对派抓住这场丑闻要求进行政治改革。",
+     "ex2": "The company seized on the opportunity to enter a new market. 这家公司抓住机会进入了一个新市场。"
+    },
+    {
+     "w": "agenda",
+     "ipa": "/əˈdʒendə/",
+     "pos": "n.",
+     "en": "A list of subjects to be discussed or a set of goals that a person or organization wants to achieve.",
+     "zh": "议程；计划；政策目标",
+     "ctx": "the national agenda 指美国政府在国家层面优先推动的政策方向和政治议程。",
+     "ex1": "Economic growth remains at the top of the government's agenda. 经济增长仍然是政府议程中的首要任务。",
+     "ex2": "The president introduced a new national security agenda. 总统提出了一项新的国家安全政策议程。"
+    }
+   ]
   },
   {
-   "en_html": "Many of Trump’s national security team had not shared the president’s view on exports of chips, according to a former official who worked on chips policy and is still connected to the industry, who likened Huang’s relationship to handing officials a “nuclear bomb.” “They wanted to destroy the influence Jensen had over the president,” said the former official, who spoke on the condition of anonymity to describe internal dynamics. “Things are forever changed,” said Fedasiuk, a longtime advocate for controls on chip exports.",
-   "zh": "",
-   "notes": []
+   "en_html": "Many of Trump’s national security team had not shared the president’s view on exports of chips, according to a former official who worked on chips policy and is still connected to the industry, who <mark class=\"voc\">likened</mark> Huang’s relationship to handing officials a “nuclear bomb.” “They wanted to destroy the influence Jensen had over the president,” said the former official, who spoke on the condition of anonymity to describe internal <mark class=\"voc\">dynamics</mark>. “Things are forever changed,” said Fedasiuk, a longtime advocate for controls on chip exports.",
+   "zh": "据一名前官员透露，特朗普国家安全团队中的许多人并不赞同总统在芯片出口问题上的立场。这名前官员曾参与芯片政策制定，目前仍与该行业保持联系。他将黄仁勋的这段关系比作有人向官员们递上了一枚“核弹”。这名前官员表示：“他们一直想摧毁黄仁勋对总统的影响力。”由于需要描述政府内部的权力运作情况，他要求匿名。长期主张限制芯片出口的费达修克则表示：“一切都永远改变了。”",
+   "notes": [
+    {
+     "w": "liken",
+     "ipa": "/ˈlaɪkənd/",
+     "pos": "v.",
+     "en": "Compared one person or thing to another because they have similar qualities or effects.",
+     "zh": "将……比作；把……与……相提并论",
+     "ctx": "likened Huang's relationship to handing officials a \"nuclear bomb\"指这名前官员将黄仁勋的相关关系曝光比作给官员们递上一枚具有巨大破坏力的“核弹”。",
+     "ex1": "The economist likened the financial crisis to a spreading fire. 这位经济学家将金融危机比作不断蔓延的大火。",
+     "ex2": "The journalist likened the political struggle to a game of chess. 这名记者将政治斗争比作一场国际象棋比赛。"
+    },
+    {
+     "w": "dynamics",
+     "ipa": "/daɪˈnæmɪks/",
+     "pos": "n.",
+     "en": "The forces, relationships, and interactions that influence how a group or situation develops.",
+     "zh": "互动关系；运作机制；力量变化",
+     "ctx": "internal dynamics 指特朗普政府内部围绕芯片政策展开的权力博弈及官员之间的复杂关系。",
+     "ex1": "The election changed the political dynamics within the party. 这场选举改变了党内的政治力量格局。",
+     "ex2": "Understanding workplace dynamics can help managers resolve conflicts. 理解职场内部的互动关系有助于管理者解决冲突。"
+    }
+   ]
   },
   {
-   "en_html": "For decades, Nvidia’s computer chips powered the graphics in video games and were not a matter of national security. But for many in Washington, that began to change at the start of the AI boom and what officials in the Biden administration saw as the dawn of a new contest with China poised to reshape the two nations’ military and economic power. Huang took a different view, arguing that chipmakers should be able to continue to sell into China, hooking them on American systems in a way that would ultimately benefit the U.S.",
-   "zh": "",
-   "notes": []
+   "en_html": "For decades, Nvidia’s computer chips powered the <mark class=\"voc\">graphics</mark> in video games and were not <mark class=\"voc\">a matter of</mark> national security. But for many in Washington, that began to change at the start of the AI boom and what officials in the Biden administration saw as the <mark class=\"voc\">dawn</mark> of a new <mark class=\"voc\">contest</mark> with China <mark class=\"voc\">poised to</mark> reshape the two nations’ military and economic power. Huang took a different view, arguing that chipmakers should be able to continue to sell into China, <mark class=\"voc\">hooking</mark> them on American systems in a way that would ultimately benefit the U.S.",
+   "zh": "几十年来，英伟达的计算机芯片一直为电子游戏的图形画面提供运算支持，并不涉及国家安全问题。然而，在华盛顿许多人看来，随着人工智能热潮兴起，情况开始发生变化。拜登政府的官员认为，一场与中国之间的新竞争正在拉开序幕，而这场竞争可能重塑两国的军事和经济实力。黄仁勋则持有不同的观点。他认为，芯片制造商应该能够继续向中国销售芯片，让中国企业依赖美国的技术系统，从而最终使美国受益。",
+   "notes": [
+    {
+     "w": "graphics",
+     "ipa": "/ˈɡræfɪks/",
+     "pos": "n.",
+     "en": "Images, pictures, and visual effects produced by computers.",
+     "zh": "计算机图形；图像；视觉效果",
+     "ctx": "the graphics in video games 指电子游戏中的图像、画面和视觉效果。",
+     "ex1": "Modern video games feature incredibly realistic graphics. 现代电子游戏拥有极其逼真的画面。",
+     "ex2": "The new computer can handle complex graphics much faster. 这台新电脑能够更快地处理复杂图像。"
+    },
+    {
+     "w": "a matter of",
+     "ipa": "/ə ˈmætər əv/",
+     "pos": "phr.",
+     "en": "Something that concerns or involves a particular subject or issue.",
+     "zh": "属于……的问题；涉及……的事情",
+     "ctx": "were not a matter of national security 指过去英伟达芯片并不被视为涉及国家安全的问题。",
+     "ex1": "Protecting personal information is a matter of public safety. 保护个人信息是一个涉及公共安全的问题。",
+     "ex2": "The decision is not simply a matter of money. 这个决定并不仅仅是钱的问题。"
+    },
+    {
+     "w": "dawn",
+     "ipa": "/dɔːn/",
+     "pos": "n.",
+     "en": "The beginning of a new period, development, or situation.",
+     "zh": "开端；黎明；初期",
+     "ctx": "the dawn of a new contest with China 指美国与中国之间一场新竞争的开始。",
+     "ex1": "The invention marked the dawn of a new technological era. 这项发明标志着一个新时代的开端。",
+     "ex2": "Many historians regard the event as the dawn of modern democracy. 许多历史学家将这一事件视为现代民主的开端。"
+    },
+    {
+     "w": "contest",
+     "ipa": "/ˈkɑːntest/",
+     "pos": "n.",
+     "en": "A competition or struggle between people, groups, or countries to gain an advantage.",
+     "zh": "竞争；较量；争夺",
+     "ctx": "a new contest with China 指美国与中国在先进技术、军事和经济实力方面展开的新一轮竞争。",
+     "ex1": "The two companies are locked in a fierce contest for market leadership. 两家公司正为争夺市场领导地位展开激烈竞争。",
+     "ex2": "The election became a contest between two competing visions of the country's future. 这场选举变成了两种不同国家未来愿景之间的较量。"
+    },
+    {
+     "w": "poised to",
+     "ipa": "/pɔɪzd tuː/",
+     "pos": "phr.",
+     "en": "Ready or likely to do something or experience a significant change.",
+     "zh": "准备好……；即将……；有望……",
+     "ctx": "poised to reshape the two nations' military and economic power 指这场竞争可能即将重塑中美两国的军事和经济实力格局。",
+     "ex1": "The company is poised to become a major player in the global market. 这家公司有望成为全球市场的重要参与者。",
+     "ex2": "The new technology is poised to transform the healthcare industry. 这项新技术即将改变医疗行业。"
+    },
+    {
+     "w": "hook",
+     "ipa": "/ˈhʊkɪŋ/",
+     "pos": "v.",
+     "en": "Making someone strongly attracted to or dependent on something.",
+     "zh": "使着迷；使依赖；牢牢吸引",
+     "ctx": "hooking them on American systems 指通过持续销售美国芯片，让中国客户逐渐依赖美国的技术系统和生态。",
+     "ex1": "The company focused on hooking customers on its software platform. 这家公司致力于让客户依赖自己的软件平台。",
+     "ex2": "The new service succeeded in hooking millions of users on its products. 这项新服务成功吸引了数百万用户持续使用其产品。"
+    }
+   ]
   },
   {
-   "en_html": "In December, when Trump said he had green-lit exports of a new class of chips, Commerce Secretary Howard Lutnick said the bargain had been hammered out between Huang and the president. “So it’s the great American technologist talking to the great businessman president, and they reached what they thought was the right answer for this particular moment,” Lutnick told CNBC. A Trump appointee at the Commerce department bureau responsible for export licenses expedited Nvidia’s chip applications, according to two former agency officials, who spoke on the condition of anonymity to avoid professional retaliation.",
-   "zh": "",
-   "notes": []
+   "en_html": "In December, when Trump said he had <mark class=\"voc\">green-lit</mark> exports of a new class of chips, Commerce Secretary Howard Lutnick said the <mark class=\"voc\">bargain</mark> had been <mark class=\"voc\">hammered out</mark> between Huang and the president. \"So it's the great American technologist talking to the great businessman president, and they reached what they thought was the right answer for this particular moment,\" Lutnick told CNBC. A Trump <mark class=\"voc\">appointee</mark> at the Commerce department <mark class=\"voc\">bureau</mark> responsible for export licenses <mark class=\"voc\">expedited</mark> Nvidia's chip applications, according to two former agency officials, who spoke on the condition of anonymity to avoid professional <mark class=\"voc\">retaliation</mark>.",
+   "zh": "去年12月，当特朗普表示自己已经批准出口一类新型芯片时，美国商务部长霍华德·卢特尼克表示，这项协议是黄仁勋与总统亲自磋商达成的。卢特尼克在接受美国消费者新闻与商业频道（CNBC）采访时说：“这就是一位伟大的美国技术专家与一位伟大的商人总统之间的对话，他们共同得出了一个他们认为在当前这个特殊时刻最合适的答案。”据两名前政府机构官员透露，特朗普任命的一名官员在商务部负责出口许可证的机构中，加快了英伟达芯片出口申请的审批进程。这两名前官员要求匿名，以避免遭到职业上的报复。",
+   "notes": [
+    {
+     "w": "green-lit",
+     "ipa": "/ˈɡriːn lɪt/",
+     "pos": "v.",
+     "en": "Gave official permission or approval for something to happen.",
+     "zh": "批准；开绿灯；正式许可",
+     "ctx": "green-lit exports of a new class of chips 指特朗普批准出口一类新型芯片。",
+     "ex1": "The government green-lit the construction of a new airport. 政府批准了新机场的建设。",
+     "ex2": "The board green-lit the company's expansion into overseas markets. 董事会批准了公司向海外市场扩张的计划。"
+    },
+    {
+     "w": "bargain",
+     "ipa": "/ˈbɑːrɡən/",
+     "pos": "n.",
+     "en": "An agreement reached between two sides, often after discussion or negotiation.",
+     "zh": "协议；交易；谈判达成的条件",
+     "ctx": "the bargain 指黄仁勋与特朗普就芯片出口问题达成的协议。",
+     "ex1": "The two companies finally reached a bargain after weeks of negotiations. 两家公司经过数周谈判后终于达成了协议。",
+     "ex2": "The political bargain required both sides to make compromises. 这项政治协议要求双方作出让步。"
+    },
+    {
+     "w": "hammer out",
+     "ipa": "/ˈhæmərd aʊt/",
+     "pos": "phr.",
+     "en": "Reached an agreement or solution after long or difficult discussions.",
+     "zh": "经过反复磋商达成；艰难谈妥；协商解决",
+     "ctx": "had been hammered out between Huang and the president 指黄仁勋与特朗普经过磋商，最终达成芯片出口协议。",
+     "ex1": "The two governments hammered out a trade agreement after months of negotiations. 两国政府经过数月谈判，最终达成了一项贸易协议。",
+     "ex2": "The executives hammered out the final details of the contract. 高管们经过反复磋商，敲定了合同的最终细节。"
+    },
+    {
+     "w": "appointee",
+     "ipa": "/əˌpɔɪnˈtiː/",
+     "pos": "n.",
+     "en": "A person who has been officially chosen for a job or position.",
+     "zh": "被任命者；受任命的官员",
+     "ctx": "A Trump appointee 指由特朗普任命、在商务部相关机构任职的一名官员。",
+     "ex1": "The president's appointee took office earlier this month. 总统任命的官员于本月早些时候上任。",
+     "ex2": "Several political appointees were replaced after the election. 选举结束后，几名政治任命官员被替换。"
+    },
+    {
+     "w": "bureau",
+     "ipa": "/ˈbjʊroʊ/",
+     "pos": "n.",
+     "en": "A government department or office responsible for a particular area of work.",
+     "zh": "政府部门；局；办事机构",
+     "ctx": "the Commerce department bureau responsible for export licenses 指美国商务部内部负责出口许可证事务的机构。",
+     "ex1": "The bureau is responsible for reviewing international trade applications. 该部门负责审核国际贸易申请。",
+     "ex2": "The government established a new bureau to oversee technology policy. 政府成立了一个新机构来监督科技政策。"
+    },
+    {
+     "w": "expedite",
+     "ipa": "/ˈekspədaɪtɪd/",
+     "pos": "v.",
+     "en": "Made a process or action happen more quickly.",
+     "zh": "加快；加速处理；促进",
+     "ctx": "expedited Nvidia's chip applications 指加快英伟达芯片出口申请的审批进程。",
+     "ex1": "The agency expedited the approval process for the new technology. 该机构加快了新技术的审批流程。",
+     "ex2": "The manager expedited the delivery to meet the customer's deadline. 经理加快了交货速度，以满足客户的截止日期要求。"
+    },
+    {
+     "w": "retaliation",
+     "ipa": "/rɪˌtæliˈeɪʃn/",
+     "pos": "n.",
+     "en": "Harmful action taken against someone in response to something they have done.",
+     "zh": "报复；反击；报复行为",
+     "ctx": "professional retaliation 指两名前官员担心因向媒体透露信息而在职业发展或工作方面遭到报复。",
+     "ex1": "The employee feared retaliation after reporting misconduct. 这名员工担心举报不当行为后遭到报复。",
+     "ex2": "The law protects workers from retaliation for exposing illegal activities. 法律保护揭露违法行为的员工免遭报复。"
+    }
+   ]
   },
   {
-   "en_html": "Huang advocated for his position in sometimes caustic terms. In an interview with a podcast in September 2025, he said the term “China hawk” should be a badge of shame. “They think they’re doing the right thing for our country, but it’s not patriotic,” he said. “Not even a little bit.” Staff at Washington think tanks and on Capitol Hill responded by designing badges designating them China hawks that they passed around among themselves. At the time, Eric Sayers, a managing director at consulting firm Beacon Global Strategies, posted to social media that the group had “long memories” — a message he shared again in recent days as the scandal around Huang deepened.",
-   "zh": "",
-   "notes": []
+   "en_html": "Huang advocated for his position in sometimes <mark class=\"voc\">caustic</mark> terms. In an interview with a podcast in September 2025, he said the term “China hawk” should be a <mark class=\"voc\">badge</mark> of shame. “They think they’re doing the right thing for our country, but it’s not <mark class=\"voc\">patriotic</mark>,” he said. “Not even a little bit.” Staff at Washington think tanks and on Capitol Hill responded by designing badges <mark class=\"voc\">designating</mark> them China hawks that they <mark class=\"voc\">passed around</mark> among themselves. At the time, Eric Sayers, a managing director at consulting firm Beacon Global Strategies, posted to social media that the group had “long memories” — a message he shared again in recent days as the scandal around Huang deepened.",
+   "zh": "黄仁勋在捍卫自己的立场时，有时会使用相当尖刻的言辞。2025年9月，他在一次播客采访中表示，“对华鹰派”这个称号应该成为一种耻辱的标志。他说：“他们以为自己是在为我们的国家做正确的事，但这根本不是爱国。连一点点都算不上。”作为回应，华盛顿智库和美国国会山的工作人员专门设计了印有“对华鹰派”身份标识的徽章，并在彼此之间传递。当时，咨询公司BeaconGlobalStrategies的董事总经理埃里克·塞耶斯在社交媒体上发文表示，这群人“记性很好”，暗示他们不会忘记黄仁勋的这番言论。最近几天，随着黄仁勋的丑闻不断发酵，他又重新分享了这条信息。",
+   "notes": [
+    {
+     "w": "caustic",
+     "ipa": "/ˈkɔːstɪk/",
+     "pos": "adj.",
+     "en": "Severely critical or sarcastic in a way that is intended to hurt or offend.",
+     "zh": "尖刻的；讽刺挖苦的；刻薄的",
+     "ctx": "in sometimes caustic terms 指黄仁勋有时使用尖锐甚至带有讽刺意味的言辞表达自己的立场。",
+     "ex1": "The senator made several caustic remarks about his political opponents. 这位参议员对政治对手发表了几句尖刻的评论。",
+     "ex2": "Her caustic criticism angered several senior executives. 她尖锐刻薄的批评激怒了几名高级管理人员。"
+    },
+    {
+     "w": "badge",
+     "ipa": "/bædʒ/",
+     "pos": "n.",
+     "en": "A small object or symbol worn or displayed to show identity, membership, achievement, or support.",
+     "zh": "徽章；标志；身份象征",
+     "ctx": "a badge of shame 指黄仁勋认为“对华鹰派”这一称号应该成为令人羞耻的标志。",
+     "ex1": "The volunteers wore badges to identify themselves at the event. 志愿者们佩戴徽章，以便在活动中表明身份。",
+     "ex2": "The award became a badge of honor for the young researcher. 这个奖项成为了这位年轻研究人员的荣誉象征。"
+    },
+    {
+     "w": "patriotic",
+     "ipa": "/ˌpeɪtriˈɑːtɪk/",
+     "pos": "adj.",
+     "en": "Showing love for and loyalty to one's country.",
+     "zh": "爱国的；具有爱国精神的",
+     "ctx": "it's not patriotic 指黄仁勋认为限制美国芯片向中国出口的做法并不是真正的爱国行为。",
+     "ex1": "The president described the volunteers as patriotic citizens. 总统称这些志愿者是具有爱国精神的公民。",
+     "ex2": "The businessman argued that supporting domestic innovation was a patriotic duty. 这位商人认为支持本国创新是一种爱国责任。"
+    },
+    {
+     "w": "designate",
+     "ipa": "/ˈdezɪɡneɪtɪŋ/",
+     "pos": "v.",
+     "en": "Officially or clearly identifying someone or something as belonging to a particular category or having a particular role.",
+     "zh": "标明；指定；将……称为",
+     "ctx": "badges designating them China hawks 指徽章上标明佩戴者是“对华鹰派”，将黄仁勋的批评转化为一种自我身份认同。",
+     "ex1": "The organization issued badges designating volunteers as official representatives. 该组织发放徽章，标明志愿者的官方代表身份。",
+     "ex2": "The committee passed a resolution designating the building a historic landmark. 委员会通过决议，将这座建筑指定为历史地标。"
+    },
+    {
+     "w": "pass around",
+     "ipa": "/pæst əˈraʊnd/",
+     "pos": "phr.",
+     "en": "Shared or handed something from one person to another within a group.",
+     "zh": "传递；传阅；分发",
+     "ctx": "badges that they passed around among themselves 指华盛顿智库和国会工作人员彼此传递这些“对华鹰派”徽章。",
+     "ex1": "The employees passed around copies of the confidential report. 员工们互相传阅这份机密报告。",
+     "ex2": "The students passed around photographs from their graduation ceremony. 学生们互相传看毕业典礼的照片。"
+    }
+   ]
   },
   {
-   "en_html": "Now, with Huang sidelined — and Republican committee chairs planning to haul him in to provide information about the affair — the sponsors of a trio of new measures say they are increasingly optimistic that they can push them through as part of an annual defense bill. The bills would place export restrictions on the most powerful AI chips, require technology in chips to detect smuggling and limit Chinese access to chipmaking equipment. “Leading up to this moment, we were waiting to see who Nvidia deploys to kill these bills,” said a Senate Democratic aide, who spoke on the condition of anonymity to describe internal strategy. “Now all this stuff has come out, it puts them in a very, very tough position.",
-   "zh": "",
-   "notes": []
+   "en_html": "Now, with Huang <mark class=\"voc\">sidelined</mark> — and Republican committee chairs planning to <mark class=\"voc\">haul him in</mark> to provide information about the affair — the <mark class=\"voc\">sponsors</mark> of a <mark class=\"voc\">trio</mark> of new measures say they are increasingly optimistic that they can <mark class=\"voc\">push them through</mark> as part of an annual defense bill. The bills would place export restrictions on the most powerful AI chips, require technology in chips to <mark class=\"voc\">detect</mark> <mark class=\"voc\">smuggling</mark> and limit Chinese access to chipmaking equipment. “<mark class=\"voc\">Leading up to</mark> this moment, we were waiting to see who Nvidia deploys to <mark class=\"voc\">kill</mark> these bills,” said a Senate Democratic aide, who spoke on the condition of anonymity to describe internal strategy. “Now all this stuff has <mark class=\"voc\">come out</mark>, it puts them in a very, very tough position.",
+   "zh": "如今，随着黄仁勋被排挤出权力中心，共和党籍委员会主席们也正计划传唤他，就这起婚外情事件提供相关信息，三项新措施的提案发起人表示，他们越来越有信心将这些措施纳入年度国防法案并推动通过。这些法案将限制最强大的人工智能芯片出口，要求在芯片中加入能够检测走私行为的技术，并限制中国获取芯片制造设备。一名参议院民主党幕僚表示：“在这一切发生之前，我们一直在等着看英伟达会派谁出来阻止这些法案。”这名幕僚要求匿名，以便透露内部策略。“现在所有这些事情都曝光了，这让他们陷入了非常、非常困难的境地。”",
+   "notes": [
+    {
+     "w": "sidelined",
+     "ipa": "/ˈsaɪdlaɪnd/",
+     "pos": "adj.",
+     "en": "Removed from an important position or prevented from taking an active part in something.",
+     "zh": "被边缘化的；被排除在外的；失去重要作用的",
+     "ctx": "with Huang sidelined 指黄仁勋辞职后失去了原有的政治影响力，无法再像过去那样直接影响芯片政策。",
+     "ex1": "The senior adviser was sidelined after the political scandal. 这位高级顾问在政治丑闻后被边缘化。",
+     "ex2": "Several executives were sidelined during the company's restructuring. 几名高管在公司重组期间被排除在核心决策之外。"
+    },
+    {
+     "w": "haul him in",
+     "ipa": "/hɔːl hɪm ɪn/",
+     "pos": "phr.",
+     "en": "To force or strongly require someone to appear before authorities for questioning.",
+     "zh": "传唤他；强制要求他到场接受询问",
+     "ctx": "planning to haul him in 指共和党籍委员会主席计划要求黄仁勋到场，就婚外情及相关事件提供信息。",
+     "ex1": "Lawmakers threatened to haul the executive in for questioning. 立法者威胁要传唤这名高管接受质询。",
+     "ex2": "The committee decided to haul him in after new evidence emerged. 新证据出现后，委员会决定传唤他到场。"
+    },
+    {
+     "w": "sponsor",
+     "ipa": "/ˈspɑːnsərz/",
+     "pos": "n.",
+     "en": "People who officially introduce or support a proposed law or measure.",
+     "zh": "法案发起人；提案支持者；赞助者",
+     "ctx": "the sponsors of a trio ot new measures 指三项新政策措施的发起人或支持者。",
+     "ex1": "The sponsors of the bill defended its national security provisions. 这项法案的发起人为其中的国家安全条款进行了辩护。",
+     "ex2": "Several senators became sponsors of the proposed legislation. 几位参议员成为这项拟议立法的发起人。"
+    },
+    {
+     "w": "trio",
+     "ipa": "/ˈtriːoʊ/",
+     "pos": "n.",
+     "en": "A group of three people or things.",
+     "zh": "三个一组；三人组；三项事物",
+     "ctx": "a trio ot new measures 指三项新的芯片出口管制措施。",
+     "ex1": "The government announced a trio of measures to strengthen cybersecurity. 政府宣布了三项加强网络安全的措施。",
+     "ex2": "A trio of lawmakers introduced the proposal in Congress. 三名立法者在国会提出了这项提案。"
+    },
+    {
+     "w": "push them through",
+     "ipa": "/pʊʃ ðem θruː/",
+     "pos": "phr.",
+     "en": "To make proposals, laws, or decisions officially accepted despite difficulties or opposition.",
+     "zh": "推动其通过；设法使其获批",
+     "ctx": "push them through as part of an annual defense bill 指将三项芯片管制措施纳入年度国防法案，并努力推动其获得通过。",
+     "ex1": "The government managed to push the reforms through despite strong opposition. 尽管遭到强烈反对，政府仍设法推动改革获得通过。",
+     "ex2": "The senator hopes to push the legislation through before the end of the year. 这位参议员希望在年底前推动这项立法通过。"
+    },
+    {
+     "w": "detect",
+     "ipa": "/dɪˈtekt/",
+     "pos": "v.",
+     "en": "To discover or identify something that is hidden, difficult to notice, or not immediately obvious.",
+     "zh": "检测；发现；识别",
+     "ctx": "require technology in chips to detect smuggling 指要求芯片配备能够帮助识别走私行为的技术。",
+     "ex1": "The new system can detect unusual activity on computer networks. 这套新系统能够检测计算机网络中的异常活动。",
+     "ex2": "Advanced sensors help detect potential security threats. 先进传感器有助于发现潜在的安全威胁。"
+    },
+    {
+     "w": "smuggling",
+     "ipa": "/ˈsmʌɡlɪŋ/",
+     "pos": "n.",
+     "en": "The illegal act of secretly moving goods or people into or out of a country.",
+     "zh": "走私；非法运输",
+     "ctx": "detect smuggling 指通过芯片内置技术发现或识别违反出口管制的芯片走私行为。",
+     "ex1": "Authorities uncovered a network involved in smuggling electronic equipment. 当局发现了一个参与走私电子设备的网络。",
+     "ex2": "The government introduced new technology to prevent the smuggling of restricted goods. 政府引入新技术来防止受限制商品的走私。"
+    },
+    {
+     "w": "lead up to",
+     "ipa": "/ˈliːdɪŋ ʌp tuː/",
+     "pos": "phr.",
+     "en": "During the period before a particular event or moment.",
+     "zh": "在……之前；临近……期间",
+     "ctx": "Leading up to this moment 指在黄仁勋丑闻曝光并失势之前的那段时间。",
+     "ex1": "Tensions increased in the weeks leading up to the election. 选举前的几周里，紧张局势不断升级。",
+     "ex2": "The company faced growing criticism leading up to the investigation. 在调查开始之前，这家公司面临着越来越多的批评。"
+    },
+    {
+     "w": "kill",
+     "ipa": "/kɪl/",
+     "pos": "v.",
+     "en": "To stop, defeat, or prevent a plan, proposal, or law from succeeding.",
+     "zh": "阻止；否决；使失败",
+     "ctx": "kill these bills 指英伟达试图阻止这些芯片出口管制法案获得通过。",
+     "ex1": "Powerful business groups tried to kill the proposed regulation. 强大的商业团体试图阻止这项拟议规定通过。",
+     "ex2": "The opposition managed to kill the bill before the final vote. 反对派成功在最终投票前阻止了这项法案。"
+    },
+    {
+     "w": "come out",
+     "ipa": "/kʌm aʊt/",
+     "pos": "phr.",
+     "en": "To become publicly known, especially when information was previously secret.",
+     "zh": "曝光；被揭露；公之于众",
+     "ctx": "all this stuff has come out 指黄仁勋的婚外情及相关争议已经被媒体曝光。",
+     "ex1": "The truth finally came out during the investigation. 真相最终在调查过程中曝光。",
+     "ex2": "More details about the scandal came out over the weekend. 周末期间，这场丑闻的更多细节被披露。"
+    }
+   ]
   }
  ],
- "proper": [],
+ "proper": [
+  {
+   "name": "Nvidia / 英伟达",
+   "def": "英伟达是一家美国半导体企业，由黄仁勋等人于1993年创立。它最初以图形处理器（GPU）闻名，产品主要用于电子游戏画面渲染。随着人工智能的发展，GPU强大的并行计算能力被广泛用于训练和运行AI模型，使英伟达成为全球人工智能基础设施的重要供应商。理解这一点，学生才能明白：为什么一家原本与游戏产业密切相关的公司，如今会成为美国国家安全政策争论的中心。"
+  },
+  {
+   "name": "National Security Hawks / 国家安全鹰派",
+   "def": "在美国政治语境中，hawk（鹰派）指主张采取更强硬政策的人，尤其是在外交、军事和国家安全领域。China hawks（对华鹰派）通常认为，中国在科技、军事和经济领域的崛起可能对美国构成战略挑战，因此支持更严格的技术出口管制。文章中的冲突，并不是简单的两个人意见不合，而是美国商业利益与国家安全优先思路之间的矛盾。"
+  },
+  {
+   "name": "Marco Rubio / 马尔科·卢比奥",
+   "def": "卢比奥是美国共和党政治人物，长期在对华政策上持强硬立场，曾担任美国参议员，并参与外交和情报事务。他在特朗普政府中的高级外交与国家安全职务，使其能够直接影响总统对中国及敏感技术的判断。文章把他描绘为推动黄仁勋失势的重要人物，教学时可以重点讲解：同一届政府内部，即使都支持总统，也可能围绕具体政策展开激烈的权力竞争。"
+  },
+  {
+   "name": "CIA / 美国中央情报局",
+   "def": "CIA是Central Intelligence Agency的缩写，即美国中央情报局，主要负责搜集和分析国外情报，为美国总统及其他决策者提供情报评估。它与负责国内联邦犯罪调查的FBI 职责不同。文章提到卢比奥根据CIA报告撰写备忘录，说明情报信息可能进入高层政治决策过程。但必须向学生区分：情报机构提出怀疑或作出评估，不等于法院已经认定某个人从事间谍活动。"
+  },
+  {
+   "name": "Nvidia’s Board of Directors / 英伟达董事会",
+   "def": "美国上市公司的董事会负责监督企业管理层、维护公司治理，并在重大风险出现时决定是否启动独立调查。即使首席执行官是公司创始人，也不意味着他可以完全不受董事会约束。文章中董事会启动调查，反映出大型科技公司的领导者不仅要对经营业绩负责，也可能因个人行为引发的利益冲突、信息安全或公司声誉风险接受审查。"
+  },
+  {
+   "name": "G7 / 七国集团",
+   "def": "七国集团由美国、英国、法国、德国、意大利、加拿大和日本组成，是主要发达经济体之间的重要政策协调机制。G7会议经常讨论国际安全、经济贸易、技术与外交问题。文章提到记者在巴黎的G7峰会期间追问卢比奥，体现出这一事件已经不只是企业内部新闻，也成为国际外交场合受到关注的政治议题。"
+  },
+  {
+   "name": "U.S.–China Technology Rivalry / 中美科技竞争",
+   "def": "中美科技竞争不仅涉及谁能生产性能更强的芯片，还涉及人工智能、先进制造、军事应用、供应链和技术标准。美国部分决策者认为，先进计算能力可能同时服务于商业创新和军事现代化，因此主张限制敏感技术出口。科技企业则往往强调全球市场、研发收入和国际产业合作的重要性。文章中的“暗战”正是围绕这两种政策逻辑展开。"
+  },
+  {
+   "name": "Export Controls / 出口管制",
+   "def": "出口管制是政府对特定商品、软件和技术向国外销售或转移施加的限制。美国商务部通过相关法规和许可证制度管理敏感技术出口。对先进AI芯片而言，出口管制的核心争议在于：限制销售是否能保护美国技术优势，以及限制过严是否反而促使海外客户开发替代技术。黄仁勋与对华鹰派的分歧，主要就集中在这一问题上。"
+  },
+  {
+   "name": "Internal Power Struggles / 政府内部的权力斗争",
+   "def": "美国总统虽然拥有重要的行政决策权，但具体政策往往涉及白宫、国务院、商务部、国家安全委员会以及国会等多个权力中心。不同部门的官员可能对同一问题持有不同立场。例如，经济部门可能更关注美国企业的全球竞争力，而国家安全官员可能更担心先进技术被战略竞争对手利用。文章中匿名官员所说的“他们想摧毁黄仁勋对总统的影响力”，反映的是政策争议背后更深层的权力竞争。"
+  },
+  {
+   "name": "Nuclear Bomb as a Political Metaphor / “核弹”作为政治隐喻",
+   "def": "文章中，一名前官员把黄仁勋与特朗普的关系比作给官员们递上一枚“核弹”。这里并不是指真实的核武器，而是用夸张的比喻强调这种关系所产生的巨大政治冲击。黄仁勋可以直接影响总统的判断，使其他官员难以通过正常的政策讨论推动自己的主张。英语新闻中经常使用军事或战争意象来描写政治斗争，例如 political ammunition（政治攻击的弹药）和 power struggle（权力斗争）。"
+  },
+  {
+   "name": "GPU and the AI Boom / 图形处理器与人工智能热潮",
+   "def": "GPU是Graphics Processing Unit的缩写，即图形处理器。与擅长处理多种通用任务的CPU不同，GPU能够同时执行大量相似的计算任务，因此特别适合人工智能模型训练所需要的大规模数学运算。英伟达从游戏显卡企业成长为人工智能基础设施巨头，正是因为GPU的应用范围发生了根本变化。课堂上可以借此解释：为什么同一项技术在不同历史阶段，会从普通商业产品变成涉及国家安全的战略资源。"
+  },
+  {
+   "name": "Biden Administration’s Chip Restrictions / 拜登政府的芯片出口限制",
+   "def": "拜登政府在2022年开始推出针对中国先进计算芯片和半导体制造设备的重要出口管制措施，之后又多次调整相关规定。其政策逻辑是限制可能被用于先进军事系统和人工智能开发的敏感技术流向中国。黄仁勋则提出不同的商业逻辑：如果中国企业持续使用美国芯片及配套软件，就可能长期依赖美国的技术生态。这里最值得学生思考的问题是：让竞争对手依赖自己的技术，究竟是一种战略优势，还是一种国家安全风险？"
+  },
+  {
+   "name": "Howard Lutnick / 霍华德·卢特尼克",
+   "def": "霍华德·卢特尼克是美国商界出身的政治人物，在特朗普政府担任商务部长。美国商务部不仅负责促进经济发展和国际贸易，也通过下属机构管理敏感商品及技术的出口许可。文章中，卢特尼克把黄仁勋与特朗普之间的磋商描述为技术专家与商人总统之间的对话。这种表述突出了一种商业谈判式的决策风格：总统直接与企业领袖讨论问题，并形成政策安排。"
+  },
+  {
+   "name": "H200 Chips and the December Export Decision / H200芯片与12月出口决定",
+   "def": "文章所指的2025年12月决定，涉及英伟达H200人工智能芯片。H200属于用于高性能计算和AI工作的芯片产品。特朗普当时宣布允许在特定条件下向中国销售这类芯片，标志着对部分先进芯片出口政策的重要调整。对于黄仁勋而言，这是商业上的政策突破；对于国家安全鹰派而言，则意味着他们此前努力维持的技术限制出现松动。"
+  },
+  {
+   "name": "Export Licensing and the Commerce Department / 出口许可制度与美国商务部",
+   "def": "美国商务部下属的工业与安全局（Bureau of Industry and Security，BIS）负责实施美国出口管理法规。某些敏感技术不能由企业自行决定出口，而必须经过政府审批。文章中提到特朗普任命的官员加快英伟达的申请流程，之所以具有政治意义，是因为审批速度也可能影响企业能否及时进入海外市场。这里需要区分：加快审批并不自动等于违法，但如果审批受到不当政治干预，就可能引发对决策程序的质疑。"
+  },
+  {
+   "name": "Think Tanks and Capitol Hill / 华盛顿智库与国会山",
+   "def": "华盛顿的政策制定并不只发生在白宫。智库研究人员、国会议员、议员幕僚、行业协会以及咨询公司都会参与政策辩论。智库通常通过研究报告、公开活动和专家建议影响政策讨论；国会则拥有立法、监督和举行听证会等权力。因此，即使一位企业领袖获得总统支持，也不意味着他能够控制华盛顿所有政治力量。文章中智库和国会工作人员的反应，正好说明了这种复杂的政治生态。"
+  },
+  {
+   "name": "Badge of Shame and Political Identity / 耻辱徽章与政治身份认同",
+   "def": "黄仁勋称“对华鹰派”应该成为一种耻辱标志，而部分华盛顿工作人员却反过来制作印有这一身份的徽章。这个细节非常适合课堂讲解，因为它展示了一种有趣的政治反击方式：当一个群体受到外部批评时，成员可能主动接受原本带有贬义的标签，将它转化为团结和身份认同的象征。文章中的“long memories”也不只是“记忆力好”，而是暗示政治圈里的人可能长期记得过去的公开冲突。"
+  },
+  {
+   "name": "Beacon Global Strategies / 灯塔全球战略咨询公司",
+   "def": "Beacon Global Strategies是一家美国战略咨询公司，业务涉及国家安全、国际事务和商业战略。文章提到的埃里克·塞耶斯（Eric Sayers）是该公司的董事总经理。类似机构经常处于企业与政策制定者之间，帮助客户理解国际政治和监管环境。因此，这类人物虽然不一定直接担任政府职务，却可能通过专业网络和公共讨论参与政策影响力的竞争。"
+  },
+  {
+   "name": "National Defense Authorization Act / 美国《国防授权法》",
+   "def": "美国《国防授权法》（National Defense Authorization Act，简称NDAA）是国会每年制定的重要国防政策法律，涉及国防项目、军事政策和相关授权事项。由于这是一项必须受到高度重视的年度立法，议员有时会尝试将其他与国家安全有关的政策条款纳入其中。文章中的芯片管制支持者希望借助这一立法渠道推动新措施，因此黄仁勋失势可能改变的不只是英伟达的商业处境，也包括相关法案的通过机会。"
+  },
+  {
+   "name": "Congressional Oversight and Chip Smuggling / 国会监督与芯片走私",
+   "def": "美国国会可以通过听证会、文件要求和传票等方式监督行政部门及相关企业。文章提到共和党委员会主席计划要求黄仁勋提供信息，同时议员希望加强先进芯片出口限制、走私检测和半导体制造设备管制。这些措施针对的是一个共同问题：即使美国限制芯片直接出口，相关产品仍可能通过第三国转运等方式流向受限制的最终用户。近期报道也提到了围绕芯片转运的调查，但相关指控与具体个人责任仍需依据证据区分。"
+  }
+ ],
  "sources_note": "依据美国《华盛顿邮报》（The Washington Post）2026-11-15 报道。",
- "practice": {},
+ "practice": {
+  "intro": "请将以下中文句子翻译为英文（参考答案见后）。",
+  "items": [
+   "黄仁勋与特朗普建立了密切关系，并成功推动美国向中国出售人工智能芯片。（closerelationship / influence / chip exports）",
+   "华盛顿的国家安全鹰派对此十分不满，认为先进芯片可能威胁美国国家安全。（nationalsecurity / China hawks / oppose）",
+   "卢比奥向特朗普提交了一份备忘录，警告他黄仁勋与一名涉嫌从事中国间谍活动的人存在关系。（Marco Rubio / memo / suspected spy）",
+   "随着丑闻不断曝光，英伟达启动调查，黄仁勋最终辞职。（scandal / investigation /resignation）",
+   "黄仁勋一直认为，继续向中国出售芯片能够让中国企业依赖美国技术，最终使美国受益。（advocate / American systems / ultimately benefit）",
+   "黄仁勋曾公开批评“对华鹰派”，双方的矛盾进一步加深。（China hawks / caustic / conflict）",
+   "黄仁勋失势后，支持严格出口管制的政治人物看到了推动新法案的机会。（downfall / exportrestrictions / legislation）",
+   "这场事件不仅是一桩个人丑闻，更是一场围绕美国对华科技政策影响力展开的政治斗争。（political power / technology policy / shadow battle）"
+  ],
+  "critical_en": "",
+  "critical_zh": "",
+  "answer": "1. Jensen Huang developed a close relationship with President Trump and gained influence over U.S. chip export policy. However, national security officials opposed his position because they feared that advanced technology could strengthen China. Marco Rubio warned Trump about Huang’s relationship with a suspected Chinese spy. As the scandal deepened, Nvidia launched an investigation, and Huang eventually resigned. Huang had argued that selling chips to China would make Chinese companies dependent on American systems. His downfall gave China hawks a new opportunity to push for stricter export restrictions. The scandal revealed a deeper political battle over who should shape America’s technology policy.<br>参考译文：黄仁勋与特朗普总统建立了密切关系，并对美国芯片出口政策产生了影响。然而，国家安全官员反对他的立场，因为他们担心先进技术可能增强中国的实力。卢比奥向特朗普发出警告，指出黄仁勋与一名涉嫌中国间谍活动的人存在关系。随着丑闻不断发酵，英伟达启动调查，黄仁勋最终辞职。黄仁勋此前一直主张，向中国出售芯片可以让中国企业依赖美国的技术系统。他的失势为对华鹰派推动更严格的出口限制创造了新的机会。这场丑闻揭示了一场更深层次的政治斗争：究竟谁应该主导美国的科技政策？<br><br>2. I believe both business leaders and government officials should have a voice in technology policy, but the government should make the final decision. Business leaders understand technology and global markets. For example, Jensen Huang believed that selling American chips to China could benefit the United States by making Chinese companies depend on American systems. However, government officials must also consider national security. Advanced chips could be used for military purposes. If business interests become too powerful, national security risks might be ignored. Therefore, governments should listen to industry experts while making independent decisions that protect the country’s long-term interests.<br>参考译文：我认为商业领袖和政府官员都应该在科技政策制定中拥有发言权，但最终决定权应该掌握在政府手中。商业领袖了解技术和全球市场。例如，黄仁勋认为，向中国出售美国芯片可以让中国企业依赖美国的技术系统，从而使美国受益。然而，政府官员还必须考虑国家安全问题。先进芯片可能被用于军事目的。如果商业利益的影响力过大，国家安全风险就可能被忽视。因此，政府应该听取行业专家的意见，同时保持独立决策，以保护国家的长期利益。"
+ },
  "mindmap": {
   "aria": "鹰派复仇 思维导图",
   "alt": "鹰派复仇：黄仁勋出局与芯片管制 思维导图",

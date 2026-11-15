@@ -151,10 +151,13 @@ CARD_HEAD = re.compile(
 # 又一版式（2026-11-10 起）：词卡头没有词性标记，形如 `investigation /ɪnˌvestɪˈɡeɪʃən/`
 CARD_HEAD_NOP = re.compile(r'^(?P<w>[A-Za-z][^/]{0,70}?)\s+(/[^/]+/)$')
 CARD_FIELD_RE = re.compile(r'^(英文释义|中文释义|文中含义|文中意|例句一|例句二)：')
-# 分隔符兼容两种版式：「N. 英文名 / 中文名」（20261112 起）与
-# 「N. 英文名 — 中文名」（20261113 起，em-dash / en-dash）
+# 分隔符兼容三种版式：「N. 英文名（中文名）」（20261115 起，中文名在括号内）
+# 「N. 英文名 / 中文名」（20261112 起）与「N. 英文名 — 中文名」（20261113 起）。
+# 括号版式必须先匹配：否则 "U.S.–China Technology Rivalry（中美科技竞争）" 里的
+# 连接号会被当成英文名与中文名之间的分隔符，把名字劈成 "U.S. / China…"。
 PROPER_LINE = re.compile(
-    r'^(\d{1,2})\.\s+([A-Z][^/—–]{1,60}?)\s*[/—–]\s*(.*[\u4e00-\u9fff].*)$')
+    r'^(\d{1,2})\.\s+([A-Z][^（\u4e00-\u9fff]{0,60}?)（([^）]{1,50})）\s*$'
+    r'|^(\d{1,2})\.\s+([A-Z][^/—–]{1,60}?)\s*[/—–]\s*(.*[\u4e00-\u9fff].*)$')
 PARA_HEAD = re.compile(r'^(\d{1,2})\.(?=\S)\s*(.+)$')
 CARD_FIELDS = [('英文释义', 'en'), ('中文释义', 'zh'), ('文中意', 'ctx'),
                ('例句一', 'ex1'), ('例句二', 'ex2')]
@@ -272,16 +275,21 @@ def run_new_edition(clean, practice_mark):
             continue
         mp = PROPER_LINE.match(l)
         if mp:
-            proper.append({'name': f'{mp.group(2).strip()} / {mp.group(3).strip()}', 'def': ''})
+            if mp.group(2) is not None:
+                name = f'{mp.group(2).strip()} / {mp.group(3).strip()}'
+            else:
+                name = f'{mp.group(5).strip()} / {mp.group(6).strip()}'
+            proper.append({'name': name, 'def': ''})
             i += 1
-            # 说明文字 = 后续普通行，直到下一个专名/段落/卡片
+            # 说明文字 = 后续普通行，直到下一个专名/段落/卡片；
+            # 空行跳过（说明可能跨页，页脚页码已被 flatten 剔除）
             buf = []
             while i < para_end:
                 s = clean[i].strip()
-                if s == '@@PAGE@@':
+                if s == '@@PAGE@@' or not s:
                     i += 1
                     continue
-                if (not s or PROPER_LINE.match(s) or PARA_HEAD.match(s)
+                if (PROPER_LINE.match(s) or PARA_HEAD.match(s)
                         or (CARD_HEAD.match(s) and s.count('/') >= 2)):
                     break
                 buf.append(s)

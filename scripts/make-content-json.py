@@ -154,6 +154,18 @@ def main():
     cfg = json.load(open(a.issue, encoding='utf-8'))
     marks = {str(k): v for k, v in (cfg.get('marks') or {}).items()}
 
+    # 词卡头勘误（同 paragraph_overrides 的口径）：PDF 漏印字母等源文件笔误，
+    # 以音标/文中意为证（如 20261115「leake v. /liːkt/」应为 leaked）。
+    # 只改显示词头，marks 的「卡片词 → 原文写法」键也用改后的词。
+    w_overrides = cfg.get('card_word_overrides') or {}
+    if w_overrides:
+        for pool in ([d['headline_cards']]
+                     + [v for v in d['para_cards'].values()]):
+            for c in pool:
+                if c['w'] in w_overrides:
+                    print(f'  · 词卡头勘误：{c["w"]} → {w_overrides[c["w"]]}（源 PDF 笔误）')
+                    c['w'] = w_overrides[c['w']]
+
     # ---------- 标题 ----------
     hl_cards = [card_out(c) for c in d['headline_cards']]
     if cfg.get('headline_html'):
