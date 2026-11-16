@@ -8,8 +8,187 @@
  "nav_hint": "Scammed out of $700,000 on Tinder",
  "headline_en": "Scammed out of $700,000 on Tinder: Even smart people are falling for romance cons",
  "headline_zh": "七十万美元买来的教训：聪明人也会上爱情骗局的当",
+ "headline_extra_cards": [
+  "scam sb out of sth",
+  "fall for"
+ ],
+ "headline_marks": [
+  [
+   "scam sb out of sth",
+   "Scammed out of"
+  ],
+  [
+   "fall for",
+   "falling for"
+  ],
+  [
+   "con",
+   "cons"
+  ]
+ ],
  "sources_note": "依据美国《华盛顿邮报》（The Washington Post）2026-11-16 报道。",
- "marks": {},
+ "marks": {
+  "0": [
+   [
+    "swindler",
+    "swindlers"
+   ],
+   [
+    "on the rise",
+    "on the rise"
+   ],
+   [
+    "take steps",
+    "steps"
+   ]
+  ],
+  "1": [
+   [
+    "give one's heart away",
+    "give her heart away"
+   ],
+   [
+    "pose as",
+    "posing as"
+   ],
+   [
+    "love interest",
+    "love interest"
+   ],
+   [
+    "scheme",
+    "schemes"
+   ]
+  ],
+  "3": [
+   [
+    "probe",
+    "probe"
+   ],
+   [
+    "feature",
+    "featured"
+   ],
+   [
+    "companionship",
+    "companionship"
+   ],
+   [
+    "match with",
+    "matched with"
+   ],
+   [
+    "win sb's trust",
+    "winning her trust"
+   ],
+   [
+    "predator",
+    "predator"
+   ],
+   [
+    "fabricate",
+    "fabricated"
+   ],
+   [
+    "fraudster",
+    "fraudster"
+   ],
+   [
+    "coax sb into doing sth",
+    "coaxed her into"
+   ]
+  ],
+  "4": [
+   [
+    "recover",
+    "recover"
+   ],
+   [
+    "turn out to be",
+    "turned out to be"
+   ],
+   [
+    "cryptocurrency",
+    "cryptocurrency"
+   ],
+   [
+    "widow",
+    "widow"
+   ],
+   [
+    "wound",
+    "wounds"
+   ],
+   [
+    "question",
+    "question"
+   ],
+   [
+    "faith in love",
+    "faith in love"
+   ]
+  ],
+  "6": [
+   [
+    "machine learning models",
+    "machine learning models"
+   ],
+   [
+    "bad actors",
+    "bad actors"
+   ],
+   [
+    "detect",
+    "detected"
+   ],
+   [
+    "keep pace with",
+    "keep pace with"
+   ],
+   [
+    "emerging threats",
+    "emerging threats"
+   ],
+   [
+    "struggle to",
+    "struggled to"
+   ]
+  ],
+  "9": [
+   [
+    "guarantee",
+    "guarantee"
+   ],
+   [
+    "magic advice",
+    "magic advice"
+   ],
+   [
+    "sophisticated",
+    "sophisticated"
+   ],
+   [
+    "nefarious",
+    "nefarious"
+   ],
+   [
+    "shame",
+    "shame"
+   ],
+   [
+    "manipulate",
+    "manipulated"
+   ],
+   [
+    "too... to...",
+    "too clever to"
+   ],
+   [
+    "be conned",
+    "be conned"
+   ]
+  ]
+ },
  "paragraph_overrides": {},
  "override_notes": {},
  "mindmap": {

@@ -1,6 +1,13 @@
 // ===== 文章数据库（独立静态资源；正文全文见 search-index.js） =====
     const ARTICLES = [
       {
+        title: "一场让黄仁勋重回英伟达CEO之位的运动",
+        publishDate: "2026-11-17",
+        fileKey: "2026-11-17_001",
+        readingPath: "/outward-reading/articles/2026/11/2026-11-17_001.reading.html",
+        source: "The Wall Street Journal"
+      },
+      {
         title: "在 Tinder 上被骗走七十万美元——连聪明人，也正坠入一场名为爱情的骗局",
         publishDate: "2026-11-16",
         fileKey: "2026-11-16_001",

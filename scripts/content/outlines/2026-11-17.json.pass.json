@@ -1,0 +1,31 @@
+{
+  "outline": "scripts/content/outlines/2026-11-17.json",
+  "outline_mtime": 1794826340.1362693,
+  "checked_at": "2026-11-16 18:52:23",
+  "user_confirmed": false,
+  "center": "黄仁勋去留",
+  "branches": [
+    {
+      "title": "挺黄声浪",
+      "subs": 3,
+      "relation": null
+    },
+    {
+      "title": "复位拉锯",
+      "subs": 4,
+      "relation": "声浪越大，制度审查同步升级"
+    },
+    {
+      "title": "审查加码",
+      "subs": 3,
+      "relation": "拉锯的裁决权落在调查结果"
+    }
+  ],
+  "branch_count": 3,
+  "subs_counts": [
+    3,
+    4,
+    3
+  ],
+  "warns": []
+}

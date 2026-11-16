@@ -166,6 +166,20 @@ def main():
                     print(f'  · 词卡头勘误：{c["w"]} → {w_overrides[c["w"]]}（源 PDF 笔误）')
                     c['w'] = w_overrides[c['w']]
 
+    # 标题词卡归位：词卡注释的是标题短语、但词形与标题不一致时（sb/sth 占位、
+    # 变形如 fall for → falling for），split_lead_cards 会把卡错分到导语段，
+    # 导致该段「卡片词在原文里定位不到」。此处按配置把这类卡搬回标题。
+    extra = cfg.get('headline_extra_cards') or []
+    if extra:
+        moved = []
+        for key, lst in d['para_cards'].items():
+            keep = []
+            for c in lst:
+                (moved if c['w'] in extra else keep).append(c)
+            d['para_cards'][key] = keep
+        d['headline_cards'] = list(d['headline_cards']) + moved
+        print(f'  · 标题词卡归位：{", ".join(c["w"] for c in moved) or "无命中"}')
+
     # ---------- 标题 ----------
     hl_cards = [card_out(c) for c in d['headline_cards']]
     if cfg.get('headline_html'):
@@ -178,7 +192,7 @@ def main():
     # 标题卡片可能同时取自主标题与副标题（PDF 的 headline_cards 混装）。
     # 按卡片词在标题全文里的首次出现位置重排，词卡列表才不会跳序。
     hl_plain = re.sub(r'<[^>]+>', '', hl_html).replace('|', ' ')
-    hl_cards, _ = order_cards_by_position(hl_plain, hl_cards, None)
+    hl_cards, _ = order_cards_by_position(hl_plain, hl_cards, cfg.get('headline_marks'))
     # `|` 之后是副标题（deck）：拆成独立一行（.headline-sub），不把竖线渲染出来。
     if '|' in hl_html:
         parts = [p.strip() for p in hl_html.split('|') if p.strip()]

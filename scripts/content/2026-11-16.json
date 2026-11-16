@@ -6,71 +6,880 @@
  "category": "美国《华盛顿邮报》外刊讲解 第1230天",
  "read_minutes": 10,
  "nav_hint": "Scammed out of $700,000 on Tinder",
- "audio": false,
  "headline": {
-  "en_html": "Scammed out of $700,000 on Tinder: Even smart people are falling for romance cons",
+  "en_html": "<mark class=\"voc\">Scammed out of</mark> $700,000 on Tinder: Even smart people are <mark class=\"voc\">falling for</mark> romance <mark class=\"voc\">cons</mark>",
   "zh": "七十万美元买来的教训：聪明人也会上爱情骗局的当",
-  "notes": []
+  "notes": [
+   {
+    "w": "scam sb out of sth",
+    "ipa": "/skæm/",
+    "pos": "v. phrase",
+    "en": "scam (v.) means to trick someone into giving you money, especially by deceiving them",
+    "zh": "\"用话术把人骗上钩\"（scam 为20 世纪才出现的口语词，可能源自美国俚语），诈骗语境核心义为骗、诈骗；scam sb out of sth 意为\"把某人的某样东西骗走\"（被骗走的，是out of 后面的东西）",
+    "ctx": "",
+    "ex1": "Con artists scammed the elderly couple out of their life savings. 骗子把这对老夫妇毕生的积蓄都骗走了。",
+    "ex2": "She nearly fell for an online scam that promised a huge return. 她差点上了一个许诺高回报的网络骗局的当。"
+   },
+   {
+    "w": "fall for",
+    "ipa": "/fɔːl fɔː(r)/",
+    "pos": "phrasal v.",
+    "en": "fall for (phrasal v.) means to be tricked into believing something that is not true; fall for somebody means to fall in love with them",
+    "zh": "\"跌落、坠入\"（fall 落下+ for 朝向），双重语境核心义为上当、被……骗；另一核心义为爱上某人",
+    "ctx": "全文最精彩的双关。falling for romance cons 表面是\"坠入恋爱\"（fall for a romance），骨子里是\"掉进骗局\"（fall for a con）——同一个fall for，一头是\"爱\"，一头是\"骗\"，把全文的悲剧核心缝在一个词组里。作者用这个pun，点透\"你以为的爱情，其实是圈套\"",
+    "ex1": "Don't fall for emails that ask for your password.别相信那些索要你密码的邮件。",
+    "ex2": "She fell for him the moment they met.她一见到他就坠入了爱河。"
+   },
+   {
+    "w": "con",
+    "ipa": "/kɒn/",
+    "pos": "n. & v.",
+    "en": "con (n.) means a trick or plan to get money from someone by lying to them; it is short for confidence trick",
+    "zh": "\"信任\"的缩略（con 是confidence 的缩写），诈骗语境核心义为骗局、诈骗； con sb 意为\"骗某人\"",
+    "ctx": "全文的地基词。con 背后藏着1849 年纽约骗子 William Thompson 的故事——他穿得体面、专挑有钱人搭话，问一句\"Do you have the confidence to lend me your watch?\"（你信得过我、把怀表借我吗），拿过表就走。《纽约先驱报》据此造出confidence man（靠信任行骗的人），后缩成con man、再简化为con。",
+    "ex1": "He conned her out of thousands of dollars over two years.两年里，他骗走了她数千美元。",
+    "ex2": "The whole investment scheme turned out to be a con.那整个投资方案最后被证实是一场骗局。"
+   }
+  ]
  },
  "paragraphs": [
   {
-   "en_html": "She wanted to give her heart away. A scammer posing as a love interest wanted to take her money instead. Romance and confidence schemes are driving nearly $1 billion in annual losses, according to the FBI Internet Crime Report for 2025.",
-   "zh": "",
-   "notes": []
+   "en_html": "Dating-app <mark class=\"voc\">swindlers</mark> are <mark class=\"voc\">on the rise</mark>, but there are a few <mark class=\"voc\">steps</mark> you can take to protect yourself.",
+   "zh": "交友App上的骗子越来越多，但你可以采取几个步骤来保护好自己。",
+   "notes": [
+    {
+     "w": "swindler",
+     "ipa": "/ˈswɪndlə(r)/",
+     "pos": "n.",
+     "en": "swindler (n.) means a person who cheats people out of money or property",
+     "zh": "\"诈取钱财的人\"（源自德语Schwindler，词根与\"眩晕、发昏\"相关，指把人忽悠得晕头转向），诈骗语境核心义为骗子、诈财者",
+     "ctx": "",
+     "ex1": "The swindler promised investors impossible returns.这个骗子向投资者许诺了不可能实现的回报。",
+     "ex2": "He was swindled out of his pension by a fake charity.他被一个假慈善机构骗走了养老金。"
+    },
+    {
+     "w": "on the rise",
+     "ipa": "/ɒn ðə raɪz/",
+     "pos": "phrase",
+     "en": "on the rise (phrase) means increasing in number, amount or influence",
+     "zh": "\"正在上升\"（rise 上升），趋势语境核心义为在增多、势头正旺",
+     "ctx": "dating-app swindlers are on the rise——交友App 上的骗子\"正在越来越多\"。注意时态的味道：不是\"一直有\"，而是\"正在变多\"，趋势在恶化，像一锅正在升温的水",
+     "ex1": "Online fraud is on the rise across the region. 该地区的网络诈骗正在增多。",
+     "ex2": "Demand for electric cars has been on the rise for years. 多年来，电动汽车的需求一直在上升。"
+    },
+    {
+     "w": "take steps",
+     "ipa": "/teɪk steps/",
+     "pos": "v. phrase",
+     "en": "take steps (v. phrase) means to take action or do what is necessary to achieve something or prevent something",
+     "zh": "\"迈出步子\"（step 步子→ 比喻应对措施），行动语境核心义为采取措施、付诸行动",
+     "ctx": "",
+     "ex1": "The bank took steps to block suspicious transactions. 银行采取措施拦截了可疑交易。",
+     "ex2": "We need to take steps to protect our customers' data. 我们需要采取措施保护客户的数据。"
+    }
+   ]
   },
   {
-   "en_html": "The personal stories behind the statistics are painful. A report released last month by the congressional Joint Economic Committee focused specifically on romance scams. The findings were based on a year-long bipartisan investigation led by the panel’s top Democrat, Sen. Maggie Hassan (New Hampshire), and Sen. Marsha Blackburn (R-Tennessee), who chairs a Senate subcommittee on consumer protection and data privacy.",
-   "zh": "",
-   "notes": []
+   "en_html": "She wanted to <mark class=\"voc\">give her heart away</mark>. A scammer <mark class=\"voc\">posing as</mark> a <mark class=\"voc\">love interest</mark> wanted to take her money instead. Romance and confidence <mark class=\"voc\">schemes</mark> are driving nearly $1 billion in annual losses, according to the FBI Internet Crime Report for 2025.",
+   "zh": "她想把心交出去，那个假扮成恋人的骗子，却只想拿走她的钱。根据FBI《2025年网络犯罪报告》，恋爱与信任类骗局，正在造成近10亿美元的年度损失。",
+   "notes": [
+    {
+     "w": "give one's heart away",
+     "ipa": "/ɡɪv wʌnz hɑːt əˈweɪ/",
+     "pos": "v. phrase",
+     "en": "give one's heart away (v. phrase) means to give all your love and affection to someone, to fall completely in love",
+     "zh": "\"把心送出去\"（give away 白给、送掉），情感语境核心义为把整颗心交给某人、彻底爱上",
+     "ctx": "",
+     "ex1": "After years alone, she was finally ready to give her heart away again. 独身多年后，她终于准备好再次交出真心。",
+     "ex2": "He gave away his entire fortune to charity. 他把全部财产都捐给了慈善机构。"
+    },
+    {
+     "w": "pose as",
+     "ipa": "/pəʊz æz/",
+     "pos": "v. phrase",
+     "en": "pose as (v. phrase) means to pretend to be someone you are not, in order to trick people",
+     "zh": "\"摆出……的架势\"（pose 摆姿势），冒名语境核心义为冒充、假扮",
+     "ctx": "posing as a love interest——现在分词短语作后置定语，修饰a scammer，\"一个正装成恋人的骗子\"。pose as 专指\"装成别人来骗你\"；注意pose 的另外两个意思：拍照摆姿势、pose a threat 构成威胁",
+     "ex1": "He posed as a lawyer to gain the family's trust. 他假扮律师以博取这家人的信任。",
+     "ex2": "Criminals posed as bank staff to steal passwords. 犯罪分子冒充银行工作人员盗取密码。"
+    },
+    {
+     "w": "love interest",
+     "ipa": "/lʌv ˈɪntrəst/",
+     "pos": "n.",
+     "en": "love interest (n.) means a person that someone is romantically interested in or attracted to, especially in a film or story",
+     "zh": "\"爱的利害对象\"（interest 在此是\"利害、利益\"义，非\"兴趣\"），情感语境核心义为心仪的对象、恋人",
+     "ctx": "十个人九个会读错——interest 这里不是\"兴趣\"，而是\"利害、利益\"（如 financial interest 财务利益、business interest 商业利益）。love interest 即\"感情线里那个人\"。电影小说里the hero's love interest 就是\"男主角的恋人\"",
+     "ex1": "In the novel, his love interest is a mysterious stranger. 在小说里，他的恋人是位神秘的陌生人。",
+     "ex2": "She has no love interest in the whole film. 整部电影里她都没有一个恋爱对象。"
+    },
+    {
+     "w": "scheme",
+     "ipa": "/skiːm/",
+     "pos": "n.",
+     "en": "scheme (n.) means a clever but dishonest plan to get money or an advantage",
+     "zh": "\"精心设计的图谋\"（源自希腊语schēma 形态、样式），诈骗语境核心义为骗局、阴谋、诡计",
+     "ctx": "",
+     "ex1": "The Ponzi scheme collapsed, wiping out thousands of investors. 这个庞氏骗局崩盘了，让数千投资者血本无归。",
+     "ex2": "Police uncovered a scheme to defraud elderly people. 警方破获了一个诈骗老年人的阴谋。"
+    }
+   ]
   },
   {
-   "en_html": "The probe examined Match Group platforms, including Hinge, Match, Plenty of Fish and Tinder. The report featured victims’ stories, including a woman who joined Tinder last year seeking companionship after her husband died. She matched with a user who claimed to be from New Jersey. After winning her trust, the online predator fabricated various crises — including a heart attack and an arrest in Mexico. The fraudster ultimately coaxed her into sending him money.",
-   "zh": "",
-   "notes": []
+   "en_html": "The personal stories behind the statistics are <mark class=\"voc\">painful</mark>. A report <mark class=\"voc\">released</mark> last month by the congressional Joint Economic Committee focused specifically on romance scams. The findings were based on a year-long <mark class=\"voc\">bipartisan</mark> investigation led by the <mark class=\"voc\">panel</mark>’s top Democrat, Sen. Maggie Hassan (New Hampshire), and Sen. Marsha Blackburn (R-Tennessee), who <mark class=\"voc\">chairs</mark> a Senate <mark class=\"voc\">subcommittee</mark> on consumer protection and data privacy.",
+   "zh": "统计数字背后的一个个真实故事，令人心痛。上个月，国会联合经济委员会发布了一份报告，专门聚焦恋爱诈骗。这些结论，基于一项长达一年、由两党联合开展的调查——牵头的是该委员会的头号民主党人、新罕布什尔州参议员玛吉·哈桑，以及田纳西州共和党参议员玛莎·布莱克本；后者还主持着一个关于消费者保护和数据隐私的参议院小组委员会。",
+   "notes": [
+    {
+     "w": "painful",
+     "ipa": "/ˈpeɪnfl/",
+     "pos": "adj.",
+     "en": "painful (adj.) means causing pain, suffering or sadness",
+     "zh": "\"满是痛的\"（pain 疼痛+ -ful 形容词后缀），情感语境核心义为痛苦的、令人心痛的",
+     "ctx": "构词极直白——满是痛（pain）的，就是painful。作者说那些故事are painful，是\"痛的\"，把抽象数字拉回到有血有肉的人身上",
+     "ex1": "It was painful to watch her struggle.看着她苦苦挣扎，令人心痛。",
+     "ex2": "He has painful memories of that time.他对那段时光有着痛苦的回忆。"
+    },
+    {
+     "w": "release",
+     "ipa": "/rɪˈliːs/",
+     "pos": "v.",
+     "en": "release (v.) means to make something available to the public, such as a report, film or product",
+     "zh": "\"放开、放出\"（re- 再+ lease 放松），发布语境核心义为发布、公布、上映",
+     "ctx": "released last month 为过去分词短语作后置定语，修饰report，\"上月被发布的那份报告\"。高频搭配——release a report 发布报告、release a movie 上映电影；顺带记press release 新闻稿",
+     "ex1": "The committee released its findings last month. 该委员会上月公布了调查结果。",
+     "ex2": "The studio released the film in fifty countries. 这家制片公司在五十个国家上映了这部电影。"
+    },
+    {
+     "w": "bipartisan",
+     "ipa": "/ˌbaɪˈpɑːtɪzæn/",
+     "pos": "adj.",
+     "en": "bipartisan (adj.) means involving the agreement or cooperation of two political parties that usually oppose each other",
+     "zh": "\"两党一起的\"（bi- 两个+ partisan 党派的），政治语境核心义为两党的、跨党派的",
+     "ctx": "本段王牌词。拆词bi-（两个，如bicycle 自行车、bilingual 双语）+ partisan（党派的）。在美国两党日常斗得你死我活，一份调查能被贴上bipartisan 标签，只意味着一件事——这件事严重到连天天吵架的两党都放下分歧一起查了",
+     "ex1": "The bill passed with rare bipartisan support.这项法案获得了罕见的两党共同支持而通过。",
+     "ex2": "A bipartisan group of lawmakers led the inquiry.一个跨党派议员小组领导了这次调查。"
+    },
+    {
+     "w": "panel",
+     "ipa": "/ˈpænl/",
+     "pos": "n.",
+     "en": "panel (n.) means a group of people chosen to discuss, investigate or decide something",
+     "zh": "\"一块板子\"（熟词僻义），机构语境核心义为专家小组、委员会、评审团",
+     "ctx": "熟词僻义。你认识的panel 是\"面板\"，但它引申为\"围坐一桌的一群人\"——想象一群人围桌而坐，从上方看就是一块\"板\"。the panel 指前文的联合经济委员会",
+     "ex1": "A panel of experts reviewed the evidence.一个专家小组审查了这些证据。",
+     "ex2": "The panel will announce its decision next week.该委员会将于下周宣布决定。"
+    },
+    {
+     "w": "chair",
+     "ipa": "/tʃeə(r)/",
+     "pos": "v.",
+     "en": "chair (v.) means to be in charge of a meeting or committee",
+     "zh": "\"坐在主位上\"（chair 椅子→ 动词化），会议语境核心义为主持、担任主席",
+     "ctx": "熟词僻义。一群人开会，坐最中间主位的那个说了算——chairman 主席， chair 做动词就是\"坐上主位、主持大局\"。who chairs a subcommittee 为非限定性定语从句，补充说明布莱克本的身份",
+     "ex1": "She chairs the committee on consumer protection. 她主持消费者保护委员会。",
+     "ex2": "The meeting was chaired by the finance director. 会议由财务总监主持。"
+    },
+    {
+     "w": "subcommittee",
+     "ipa": "/ˈsʌbkəmɪti/",
+     "pos": "n.",
+     "en": "subcommittee (n.) means a smaller committee formed from members of a larger committee",
+     "zh": "\"委员会下面的委员会\"（sub- 子级+ committee 委员会），机构语境核心义为小组委员会、下属委员会",
+     "ctx": "sub- 前缀表\"下面的、子级的\"——subway 地铁、subtitle 副标题。a Senate subcommittee on consumer protection and data privacy 即\"消费者保护与数据隐私\"参议院小组委员会，这个身份与\"恋爱诈骗\"正好对上：恋爱诈骗说到底，就是消费者的钱被骗、隐私数据被偷",
+     "ex1": "The subcommittee will hear evidence from victims.该小组委员会将听取受害者的证词。",
+     "ex2": "A Senate subcommittee is examining the issue.一个参议院小组委员会正在审议此事。"
+    }
+   ]
   },
   {
-   "en_html": "According to the report, after the scam was exposed, the victim was contacted by a group offering to help recover her stolen funds. That turned out to be a fake cryptocurrency scheme. In total, the widow lost more than $700,000 from the two scams. “A romance scam takes more than money,” the woman, who was not identified by name in the report, told investigators. “There are wounds nobody sees. You question every conversation, every promise you believed. Some lose savings, homes, and futures. Some lose faith in love.”",
-   "zh": "",
-   "notes": []
+   "en_html": "The <mark class=\"voc\">probe</mark> examined Match Group platforms, including Hinge, Match, Plenty of Fish and Tinder. The report <mark class=\"voc\">featured</mark> victims’ stories, including a woman who joined Tinder last year seeking <mark class=\"voc\">companionship</mark> after her husband died. She <mark class=\"voc\">matched with</mark> a user who claimed to be from New Jersey. After <mark class=\"voc\">winning her trust</mark>, the online <mark class=\"voc\">predator</mark> <mark class=\"voc\">fabricated</mark> various crises — including a heart attack and an arrest in Mexico. The <mark class=\"voc\">fraudster</mark> ultimately <mark class=\"voc\">coaxed her into</mark> sending him money.",
+   "zh": "这项调查审查了MatchGroup旗下的平台，包括Hinge、Match、PlentyofFish和Tinder。报告呈现了受害者的故事，其中有一位女性，去年在丈夫去世后加入了Tinder，只为寻求一份陪伴。她和一位自称来自新泽西州的用户配对成功。在赢得她的信任之后，这个网络掠食者编造了各种危机——包括一次心脏病发作，和一次在墨西哥被捕。最终，这个诈骗犯哄骗她给他汇了钱。",
+   "notes": [
+    {
+     "w": "probe",
+     "ipa": "/prəʊb/",
+     "pos": "n. & v.",
+     "en": "probe (n.) means a thorough investigation into something; as a verb it means to investigate deeply",
+     "zh": "\"探针、探头\"（医生用的探针、探测海底的探头），调查语境核心义为深入调查、彻查、刨根问底",
+     "ctx": "作者不用investigation 而用probe，是有讲究的—— investigation 是\"调查\"，偏书面偏泛；probe 多了一层\"往深里钻、把底翻出来查\"的味道。这份报告不是走个过场，是刨根问底",
+     "ex1": "The government launched a probe into the dating app. 政府对这款约会应用展开了调查。",
+     "ex2": "A congressional probe examined the companies' practices. 一项国会调查审查了这些公司的做法。"
+    },
+    {
+     "w": "feature",
+     "ipa": "/ˈfiːtʃə(r)/",
+     "pos": "v.",
+     "en": "feature (v.) means to include someone or something as an important part",
+     "zh": "\"作为特色呈现\"（feature 特色→ 动词化），呈现语境核心义为以……为特色、重点呈现、刊登",
+     "ctx": "你认识的是名词\"特色\"，这里是动词。The report featured victims' stories——报告不是干巴巴罗列数据，而是把一个个受害者的真实故事郑重其事放进去。作者借此提醒你：接下来要看的，是\"人\"，不是\"数字\"",
+     "ex1": "The film features a famous actor in the lead role. 这部电影由一位著名演员主演。",
+     "ex2": "The magazine featured her story on its cover. 这本杂志在封面上刊登了她的故事。"
+    },
+    {
+     "w": "companionship",
+     "ipa": "/kəmˈpænjənʃɪp/",
+     "pos": "n.",
+     "en": "companionship (n.) means the good feeling of being with someone, rather than being alone",
+     "zh": "\"一起分面包的关系\"（com- 一起+ pan- 面包→ companion 一起分面包的人 + -ship），情感语境核心义为陪伴、伴侣关系",
+     "ctx": "",
+     "ex1": "After losing her husband, she craved companionship.失去丈夫后，她渴望有人陪伴。",
+     "ex2": "Many elderly people value companionship above all else.许多老人把陪伴看得比什么都重。"
+    },
+    {
+     "w": "match with",
+     "ipa": "/mætʃ wɪð/",
+     "pos": "v. phrase",
+     "en": "match with (v. phrase) means to be paired with someone on a dating app because you both expressed interest",
+     "zh": "\"与……相配\"（match 匹配），交友语境核心义为配对、配对成功",
+     "ctx": "这是Tinder 的核心机制——两人互相\"右滑\"了对方，就match，配对成功，可开始聊天。对一个孤独的女人来说，这条\"配对成功\"的通知，可能是她丧偶后第一次觉得\"有人注意到我了\"",
+     "ex1": "She matched with him on a dating app last spring. 去年春天，她在约会应用上和他配对成功。",
+     "ex2": "They matched with each other within minutes. 他们几分钟内就互相配对了。"
+    },
+    {
+     "w": "win sb's trust",
+     "ipa": "/wɪn ˈsʌmbədiz trʌst/",
+     "pos": "v. phrase",
+     "en": "win someone's trust (v. phrase) means to make someone trust you through effort over time",
+     "zh": "\"赢得某人的信任\"（win 赢+ trust 信任），关系语境核心义为赢得信任、博取信任",
+     "ctx": "信任是\"赢\"（win）来的——说明骗子花了大功夫，不是一天两天，是长时间嘘寒问暖，像打仗一样一点点把她的信任赢下来。这正呼应标题的con：骗子的第一步，永远是先骗取信任",
+     "ex1": "He spent months winning her trust before asking for money.他花了几个月赢取她的信任，才开始要钱。",
+     "ex2": "Once trust is lost, it is hard to win back.信任一旦失去，就很难赢回。"
+    },
+    {
+     "w": "predator",
+     "ipa": "/ˈpredətə(r)/",
+     "pos": "n.",
+     "en": "predator (n.) means an animal that kills and eats other animals; a person who hunts or exploits others",
+     "zh": "\"捕食者、掠食者\"（拉丁语praeda 猎物），比喻语境核心义为掠食者、靠伤害他人牟利的人",
+     "ctx": "本段最有画面感的词。predator（掠食者）对应prey（猎物）——狮子、老鹰是predator，兔子、小鱼是prey。作者称骗子为online predator，是在说：这个约会App 不是红娘，是猎场；骗子不是网友，是猎人；那个丧偶的女人，是猎物。狮子专盯落单受伤的羚羊，骗子专盯感情最脆弱的人",
+     "ex1": "Online predators often target the lonely and vulnerable.网络掠食者常常盯上孤独而脆弱的人。",
+     "ex2": "The documentary exposed a predator who preyed on widows.这部纪录片揭露了一个专坑寡妇的掠食者。"
+    },
+    {
+     "w": "fabricate",
+     "ipa": "/ˈfæbrɪkeɪt/",
+     "pos": "v.",
+     "en": "fabricate (v.) means to invent false information or stories in order to deceive",
+     "zh": "\"编织、制造（布料）\"（fabric 织物+ -ate），编造语境核心义为编造、捏造",
+     "ctx": "词源妙——fabric 是\"布料\"，fabricate 本义是\"织布\"，引申为\"编造\"。编一个谎，就像织一块布，一针一线编得严严实实。fabricated various crises 即\"精心编织了各种危机\"——注意这些危机全是假的，一件都没真发生",
+     "ex1": "He fabricated a story about needing money for surgery.他编造了一个需要钱做手术的故事。",
+     "ex2": "The report was found to contain fabricated evidence.这份报告被发现含有伪造的证据。"
+    },
+    {
+     "w": "fraudster",
+     "ipa": "/ˈfrɔːdstə(r)/",
+     "pos": "n.",
+     "en": "fraudster (n.) means a person who commits fraud, deceiving others for money",
+     "zh": "\"诈骗的人\"（fraud 诈骗+ -ster 表人后缀），诈骗语境核心义为诈骗犯、骗子",
+     "ctx": "与scammer、swindler、predator 同义，作者换着词用避免重复。- ster 是个表\"人\"的后缀，常见如gangster 歹徒、prankster 恶作剧者",
+     "ex1": "The fraudster was finally arrested after years on the run.这个诈骗犯潜逃多年后终于落网。",
+     "ex2": "Fraudsters often pose as officials to gain trust.骗子常冒充官员以博取信任。"
+    },
+    {
+     "w": "coax sb into doing sth",
+     "ipa": "/kəʊks/",
+     "pos": "v. phrase",
+     "en": "coax (v.) means to persuade someone to do something by being gentle and patient",
+     "zh": "\"软磨硬泡地劝\"（coax 哄、诱），劝诱语境核心义为哄骗、劝诱；coax sb into doing sth 意为\"哄着某人做某事\"",
+     "ctx": "本段王牌词。语感对比是关键——force 是\"逼\"（用硬的，拿刀架脖子上）， coax 是\"哄\"（用软的，甜言蜜语让你自己心甘情愿转钱）。恋爱诈骗的本质就是coax 不是force：骗子从头到尾没抢没偷，靠\"早安晚安\"\"我想你\"把你哄到自愿打钱。而这也正是最残忍处——因为钱是\"你自己转的\"，受害者事后疯狂自责",
+     "ex1": "He coaxed her into sending him money for a \"medical emergency\". 他哄骗她为一场\"急病\"给他汇钱。",
+     "ex2": "She coaxed the child into taking his medicine. 她哄着孩子把药吃了。"
+    }
+   ]
   },
   {
-   "en_html": "I invited Hassan to join me on my show “Dollars &amp; Sense” to discuss the report on Match Group and her efforts to combat a growing and expensive crime. “It’s really important for all of these tech platforms to understand the scale of the criminal enterprise that is the global scam industry,” Hassan told me. “We are seeing scams just explode as AI has developed and become more and more effective.”",
-   "zh": "",
-   "notes": []
+   "en_html": "According to the report, after the scam was exposed, the victim was contacted by a group offering to help <mark class=\"voc\">recover</mark> her stolen funds. That <mark class=\"voc\">turned out to be</mark> a fake <mark class=\"voc\">cryptocurrency</mark> scheme. In total, the <mark class=\"voc\">widow</mark> lost more than $700,000 from the two scams. “A romance scam takes more than money,” the woman, who was not identified by name in the report, told investigators. “There are <mark class=\"voc\">wounds</mark> nobody sees. You <mark class=\"voc\">question</mark> every conversation, every promise you believed. Some lose savings, homes, and futures. Some lose <mark class=\"voc\">faith in love</mark>.”",
+   "zh": "根据这份报告，骗局被揭穿之后，这位受害者又被一个声称能帮她追回被盗资金的团伙联系上了。结果，那又是一个假的加密货币骗局。两次骗局加起来，这位遗孀总共损失了七十多万美元。\"恋爱诈骗夺走的不只是钱，\"这位在报告中没有透露姓名的女性告诉调查人员，\"有些伤口，没有人看得到。你会质疑每一段对话、每一个你曾相信过的承诺。有些人失去了存款、房子和未来。有些人，则失去了对爱的信心。\"",
+   "notes": [
+    {
+     "w": "recover",
+     "ipa": "/rɪˈkʌvə(r)/",
+     "pos": "v.",
+     "en": "recover (v.) means to get back something that was lost or stolen; also to become well again after illness",
+     "zh": "\"重新拿回\"（re- 再+ cover 覆盖→ 重新抓住），找回语境核心义为追回、找回；另一核心义为康复、恢复",
+     "ctx": "recover her stolen funds 追回被盗的资金。注意两个核心义都高频—— recover from illness 康复、recover losses 挽回损失",
+     "ex1": "Police helped her recover most of the stolen money. 警方帮她追回了大部分被盗的钱。",
+     "ex2": "He is still recovering from the surgery. 他仍在从手术中康复。"
+    },
+    {
+     "w": "turn out to be",
+     "ipa": "/tɜːn aʊt tə biː/",
+     "pos": "v. phrase",
+     "en": "turn out to be (v. phrase) means to be discovered in the end to be something, often unexpectedly",
+     "zh": "\"结果证明是\"（turn out 结果是+ to be），反转语境核心义为结果却是、最后发现是",
+     "ctx": "",
+     "ex1": "The \"rescue team\" turned out to be another gang of fraudsters. 那个\"救援队\"结果又是另一伙骗子。",
+     "ex2": "The investment turned out to be worthless. 那笔投资最后被证明一文不值。"
+    },
+    {
+     "w": "cryptocurrency",
+     "ipa": "/ˈkrɪptəʊkʌrənsi/",
+     "pos": "n.",
+     "en": "cryptocurrency (n.) means a digital currency that uses encryption to secure transactions and is hard to trace",
+     "zh": "\"加密数字货币\"（crypto- 加密的+ currency 货币），金融语境核心义为加密货币（如比特币）",
+     "ctx": "为什么骗子最爱加密货币？因为它匿名、难追踪、难冻结——钱一转过去就像水一样流走，警察想追都追不回。所以现在网络诈骗的资金，越来越多走加密货币这条道",
+     "ex1": "Scammers increasingly demand payment in cryptocurrency. 骗子越来越倾向于要求用加密货币付款。",
+     "ex2": "He lost a fortune in a cryptocurrency scheme. 他在一个加密货币骗局里损失了一大笔钱。"
+    },
+    {
+     "w": "widow",
+     "ipa": "/ˈwɪdəʊ/",
+     "pos": "n.",
+     "en": "widow (n.) means a woman whose husband has died and who has not remarried",
+     "zh": "\"丧偶的女人\"（与widower 鳏夫相对），身份语境核心义为遗孀、寡妇",
+     "ctx": "作者用词的转折点——前面三段一直叫她the woman、the victim、she，到这里第一次用widow。作者要你停一下，重新想起她最原始的身份：她不是\"案例\"，不是\"受害者编号\"，是一个刚死了丈夫的女人。这一个词，把你从看客视角拽回\"一个孤苦无依的人\"身上",
+     "ex1": "She was left a widow at only forty-five.她四十五岁就成了寡妇。",
+     "ex2": "The charity supports widows and their children.这家慈善机构帮助寡妇及其子女。"
+    },
+    {
+     "w": "wound",
+     "ipa": "/wuːnd/",
+     "pos": "n.",
+     "en": "wound (n.) means an injury to the body, or emotional damage that lasts a long time",
+     "zh": "\"创伤\"（与injury 相对），身心语境核心义为伤口、创伤",
+     "ctx": "与injury 的区别——injury 是\"受伤\"，泛指磕碰；wound 是\"创伤\"，尤其是深层的、会留疤的伤。她说There are wounds nobody sees——钱被偷是看得见的损失，银行流水一查就知道；但心被撕碎这个伤口，没人看得到",
+     "ex1": "Some wounds never fully heal.有些伤口永远无法完全愈合。",
+     "ex2": "The betrayal left a wound that lasted for years.那次背叛留下的伤口持续了多年。"
+    },
+    {
+     "w": "question",
+     "ipa": "/ˈkwestʃən/",
+     "pos": "v.",
+     "en": "question (v.) means to express doubt about something, or to ask someone questions",
+     "zh": "\"提出问题\"（question 问题→ 动词化），质疑语境核心义为质疑、怀疑",
+     "ctx": "全段最扎心的一句——You question every conversation, every promise you believed（你会质疑每一段对话、每一个你曾相信的承诺）。you believed 是省略 that 的定语从句修饰every promise。骗子偷走的不是钱，是你\"信任别人\"的能力",
+     "ex1": "After the scam, she questioned every new friendship. 被骗之后，她对每一段新的友谊都心存怀疑。",
+     "ex2": "They began to question his motives. 他们开始质疑他的动机。"
+    },
+    {
+     "w": "faith in love",
+     "ipa": "/feɪθ ɪn lʌv/",
+     "pos": "n. phrase",
+     "en": "faith (n.) means strong belief or trust, especially belief in something good",
+     "zh": "\"信仰、信念\"（拉丁语fides 信任），信念语境核心义为信仰、信心、信念",
+     "ctx": "faith 与trust 的分量不同——trust 是\"我相信这个人靠谱\"，faith 是\"我依然相信爱情、相信人间值得\"这种层面。lose faith in love 即失去\"对爱的信心\"。最惨的不是失去钱、房子、未来的人，是失去faith in love 的人——他们从今往后再也无法全身心去爱一个人了",
+     "ex1": "She lost faith in love after the betrayal. 遭遇背叛后，她失去了对爱的信心。",
+     "ex2": "The story restored his faith in humanity. 这个故事让他重拾了对人性的信心。"
+    }
+   ]
   },
   {
-   "en_html": "According to the report, as of the second half of 2025, Tinder had not updated most of its machine learning models in years. “As a result, Tinder detected scammers and other bad actors less reliably and struggled to keep pace with emerging threats,” the report found.",
-   "zh": "",
-   "notes": []
+   "en_html": "I invited Hassan to join me on my show “Dollars & Sense” to discuss the report on Match Group and her efforts to <mark class=\"voc\">combat</mark> a growing and expensive crime. “It’s really important for all of these tech platforms to understand the <mark class=\"voc\">scale</mark> of the <mark class=\"voc\">criminal enterprise</mark> that is the global scam industry,” Hassan told me. “We are seeing scams just <mark class=\"voc\">explode</mark> as AI has developed and become more and more <mark class=\"voc\">effective</mark>.”",
+   "zh": "我邀请哈桑上我的节目《Dollars&Sense》，一起讨论这份关于MatchGroup的报告，以及她为打击这一日益增长、代价高昂的犯罪所做的努力。\"让所有这些科技平台，真正理解'全球诈骗产业'这个犯罪企业的体量，真的非常重要，\"哈桑对我说，\"我们看到，随着AI的发展、而且变得越来越高效，诈骗正在爆炸式增长。\"",
+   "notes": [
+    {
+     "w": "combat",
+     "ipa": "/ˈkɒmbæt/",
+     "pos": "v.",
+     "en": "combat (v.) means to fight against or take action to stop something bad",
+     "zh": "\"对打、作战\"（com- 一起+ battere 打），治理语境核心义为打击、对抗、与……作斗争",
+     "ctx": "与fight 的区别——fight 是\"打\"，combat 更正式，是\"系统性地、作为一项事业去打击\"。combat crime 打击犯罪、combat climate change 应对气候变化，都是外刊固定搭配",
+     "ex1": "Governments are stepping up efforts to combat online fraud.各国政府正在加大打击网络诈骗的力度。",
+     "ex2": "New tools were introduced to combat money laundering.有关部门引入了新工具来打击洗钱。"
+    },
+    {
+     "w": "scale",
+     "ipa": "/skeɪl/",
+     "pos": "n.",
+     "en": "scale (n.) means the size or extent of something, especially when it is large",
+     "zh": "\"刻度、秤\"（scale 秤→ 衡量大小的尺度），体量语境核心义为规模、体量",
+     "ctx": "你认识的是\"秤、刻度\"，这里引申为\"规模、体量\"。understand the scale of the criminal enterprise——得明白这东西到底有多大。the scale of 是高频结构，如the scale of the problem 问题的规模",
+     "ex1": "Few grasp the true scale of the scam industry.很少有人真正理解诈骗产业的规模。",
+     "ex2": "The fraud was carried out on a global scale.这场诈骗在全球范围内展开。"
+    },
+    {
+     "w": "criminal enterprise",
+     "ipa": "/ˈkrɪmɪnl ˈentəpraɪz/",
+     "pos": "n. phrase",
+     "en": "criminal enterprise (n. phrase) means an organised group running illegal activities like a business",
+     "zh": "\"像企业一样运作的犯罪组织\"（criminal 犯罪的+ enterprise 企业、事业），犯罪语境核心义为犯罪集团、犯罪企业",
+     "ctx": "enterprise 与company、business 不同，多了一层\"有规模、成体系、有进取心的事业\"的味道。criminal enterprise 不是\"几个骗子\"，是\"像企业一样运作的犯罪集团\"——有分工、有流水线",
+     "ex1": "The scam network operated like a criminal enterprise. 这个诈骗网络像一家犯罪企业一样运作。",
+     "ex2": "Police dismantled a criminal enterprise spanning three countries. 警方端掉了一个横跨三国的犯罪集团。"
+    },
+    {
+     "w": "explode",
+     "ipa": "/ɪkˈspləʊd/",
+     "pos": "v.",
+     "en": "explode (v.) means to increase suddenly and very quickly",
+     "zh": "\"爆炸\"（ex- 向外+ plaudere 拍击、爆响），激增语境核心义为爆炸式增长、激增",
+     "ctx": "作者没用increase（增加）、rise（上升），偏用explode——increase 是\"涨了一点\"，explode 是\"炸了\"。scams just explode 中just 不是\"刚刚\"，是\"简直\"，加强语气：\"诈骗简直在爆炸\"。画面感极强",
+     "ex1": "Online fraud has exploded in recent years.近年来网络诈骗呈爆炸式增长。",
+     "ex2": "Demand for the app exploded overnight.这款应用的需求一夜之间暴涨。"
+    },
+    {
+     "w": "effective",
+     "ipa": "/ɪˈfektɪv/",
+     "pos": "adj.",
+     "en": "effective (adj.) means producing the intended result, working well",
+     "zh": "\"能产生效果的\"（effect 效果+ -ive），效能语境核心义为有效的、高效的",
+     "ctx": "AI has become more and more effective——注意这个\"高效\"是对骗子高效。 more and more（越来越）结构简单，但effective 一词点出要害：AI 的每一次进步，都同时是骗子装备的升级",
+     "ex1": "AI has made scammers far more effective. AI 让骗子的效率大大提升。",
+     "ex2": "The new filter is effective against spam. 这个新过滤器对垃圾信息很有效。"
+    }
+   ]
   },
   {
-   "en_html": "The committee report acknowledged that Match Group has taken steps to improve its detection of bad actors. This includes the launch of a new security feature last year called Face Check, which requires new members to film a video selfie within the app. “We’re grateful the committee recognized our significant advancements to protect our users against romance scams, including the launch of our biometric verification tool Face Check across Tinder and Hinge,” Yoel Roth, Match Group’s senior vice president of Trust and Safety, said in an email. “That said, the report mischaracterizes both the historical scale of our investment and the work already completed.”",
-   "zh": "",
-   "notes": []
+   "en_html": "According to the report, as of the second half of 2025, Tinder had not updated most of its <mark class=\"voc\">machine learning models</mark> in years. “As a result, Tinder <mark class=\"voc\">detected</mark> scammers and other <mark class=\"voc\">bad actors</mark> less reliably and <mark class=\"voc\">struggled to</mark> <mark class=\"voc\">keep pace with</mark> <mark class=\"voc\">emerging threats</mark>,” the report found.",
+   "zh": "根据这份报告，截至2025年下半年，Tinder多年来一直没有更新它大部分的机器学习模型。\"结果，Tinder识别骗子和其他不法分子的能力就变得没那么可靠了，而且很难跟上不断出现的新型威胁，\"报告指出。",
+   "notes": [
+    {
+     "w": "machine learning models",
+     "ipa": "/məˈʃiːn ˈlɜːnɪŋ ˈmɒdlz/",
+     "pos": "n. phrase",
+     "en": "machine learning models (n. phrase) means computer systems trained on data to recognise patterns and make decisions",
+     "zh": "\"机器学习模型\"（machine learning 机器学习+ models 模型），科技语境核心义为机器学习模型（用于自动识别的算法系统）",
+     "ctx": "翻译成人话——就是Tinder 用来\"自动识别骗子\"的那套算法系统，可理解成平台的\"防诈骗雷达/保安系统\"。它需要定期\"训练、更新\"，因为骗子也在进化；雷达不更新，新套路就扫不出来，就像杀毒软件病毒库好几年不更新，新病毒自然拦不住",
+     "ex1": "The app's machine learning models detect fake profiles. 这款应用的机器学习模型能识别假账号。",
+     "ex2": "Outdated models struggle to spot new scams. 过时的模型很难识别新型骗局。"
+    },
+    {
+     "w": "detect",
+     "ipa": "/dɪˈtekt/",
+     "pos": "v.",
+     "en": "detect (v.) means to discover or notice something, especially something hard to see or find",
+     "zh": "\"揭开、发现\"（de- 去除+ tegere 覆盖→ 掀开盖子发现），识别语境核心义为检测、识别、发现",
+     "ctx": "比find（找到）更\"技术\"，像雷达扫描、仪器探测。Tinder detected scammers——雷达扫出了骗子。detect 强调\"从隐蔽中识别出来\"，与骗子\"藏得深\"的特性正好相对",
+     "ex1": "The system detected thousands of fake accounts.该系统检测出了数千个假账号。",
+     "ex2": "Fraud is often difficult to detect early.诈骗往往很难在早期被察觉。"
+    },
+    {
+     "w": "bad actors",
+     "ipa": "/bæd ˈæktəz/",
+     "pos": "n. (pl.)",
+     "en": "bad actors (n.) means people or groups who do harmful or dishonest things, especially online",
+     "zh": "\"坏的行动者\"（bad 坏+ actor 行动者，非\"演员\"），安全语境核心义为不法分子、恶意行为者",
+     "ctx": "",
+     "ex1": "The platform is working to detect and block bad actors. 该平台正努力识别并拦截不法分子。",
+     "ex2": "Bad actors constantly find new ways to bypass security. 不法分子总能找到绕过安全防护的新办法。"
+    },
+    {
+     "w": "struggle to",
+     "ipa": "/ˈstrʌɡl tə/",
+     "pos": "v. phrase",
+     "en": "struggle to do something (v. phrase) means to try hard but find something very difficult",
+     "zh": "\"挣扎着做\"（struggle 挣扎、奋力），费力语境核心义为艰难地、费劲地（做某事）",
+     "ctx": "很传神——struggled to keep pace 是\"费了老大的劲想跟上，却跟不上\"。它不是\"不做\"，是\"做了却做不成\"，比fail to 多一层\"苦苦挣扎\"的画面",
+     "ex1": "Small firms struggle to compete with the giants.小公司难以与巨头竞争。",
+     "ex2": "She struggled to make ends meet.她勉强维持生计。"
+    },
+    {
+     "w": "keep pace with",
+     "ipa": "/kiːp peɪs wɪð/",
+     "pos": "v. phrase",
+     "en": "keep pace with (v. phrase) means to move or develop at the same speed as something else",
+     "zh": "\"跟上……的步伐\"（pace 步伐、节奏），同步语境核心义为跟上、与……并驾齐驱",
+     "ctx": "struggled to keep pace with emerging threats——\"气喘吁吁地追，却怎么也追不上\"新型威胁。keep pace with the times 跟上时代、keep pace with technology 跟上技术发展，都是高频用法",
+     "ex1": "The company struggled to keep pace with new threats.这家公司难以跟上新型威胁的步伐。",
+     "ex2": "Regulation rarely keeps pace with technology.监管很少能跟上技术的发展。"
+    },
+    {
+     "w": "emerging threats",
+     "ipa": "/ɪˈmɜːdʒɪŋ θrets/",
+     "pos": "n. phrase",
+     "en": "emerging threats (n. phrase) means new dangers or risks that are beginning to appear",
+     "zh": "\"正在浮现的威胁\"（emerge 浮现+ -ing + threat 威胁），安全语境核心义为新型威胁、不断出现的新风险",
+     "ctx": "emerging 是\"正在出现的、新兴的\"——emerging markets 新兴市场、 emerging technologies 新兴技术。emerging threats 即\"不断冒出来的新诈骗手段\"：今天AI 换脸，明天语音克隆，后天又出新花样",
+     "ex1": "Security teams must adapt to emerging threats. 安全团队必须适应不断出现的新威胁。",
+     "ex2": "The report warns of emerging threats from AI. 这份报告对来自AI 的新型威胁发出警告。"
+    }
+   ]
   },
   {
-   "en_html": "Face Check confirms that the person is real and physically present and that their face matches the one shown in their profile photos, according to Match Group. If the scanned face matches a profile photo, members get a verified badge. “Alongside our engagement with the committee over the past year, we’ve made the largest safety advancements in Match Group’s history,” Roth said. “Trust and safety is a foundational priority, and we intend to continue leading the industry in building tools that promote authentic, safe connections. Romance scams are a cross-platform, societal problem that no company can solve alone, which is why we participate in and help fund cross-industry efforts to combat online scams.”",
-   "zh": "",
-   "notes": []
+   "en_html": "The committee report acknowledged that Match Group has taken steps to improve its detection of bad actors. This includes the launch of a new security feature last year called <mark class=\"voc\">Face Check</mark>, which requires new members to film a <mark class=\"voc\">video selfie</mark> within the app. “We’re <mark class=\"voc\">grateful</mark> the committee recognized our significant advancements to protect our users against romance scams, including the launch of our <mark class=\"voc\">biometric</mark> verification tool Face Check across Tinder and Hinge,” Yoel Roth, Match Group’s senior vice president of Trust and Safety, said in an email. “<mark class=\"voc\">That said</mark>, the report <mark class=\"voc\">mischaracterizes</mark> both the historical scale of our investment and the work already completed.”",
+   "zh": "委员会的这份报告也承认，MatchGroup已经采取了一些措施，来改进它对不法分子的识别。这包括去年上线的一个新安全功能——FaceCheck，它要求新用户在这个App里拍摄一段视频自拍。\"我们很感激委员会认可了我们在保护用户免受恋爱诈骗方面的重大进步，包括我们在Tinder和Hinge上推出的生物识别验证工具FaceCheck，\"MatchGroup信任与安全高级副总裁约埃尔·罗斯在一封邮件中说。\"不过，这份报告歪曲了我们历史投入的规模，也歪曲了我们已经完成的工作。\"",
+   "notes": [
+    {
+     "w": "Face Check",
+     "ipa": "/feɪs tʃek/",
+     "pos": "n.",
+     "en": "Face Check (n.) means a biometric feature that verifies a user's identity by matching their video selfie to their profile photos",
+     "zh": "\"人脸核验\"（face 脸+ check 检查、核验），科技语境核心义为人脸核验（功能名）",
+     "ctx": "Tinder 与Hinge 上线的身份核验功能。check 是\"检查、核验\"，Face Check 说白了就是\"验你的脸\"——确认你是真人、且脸和资料照一致",
+     "ex1": "New members must pass Face Check to get verified. 新会员必须通过人脸核验才能获得认证。",
+     "ex2": "The app introduced Face Check to stop fake profiles. 这款应用引入人脸核验以杜绝假账号。"
+    },
+    {
+     "w": "video selfie",
+     "ipa": "/ˈvɪdiəʊ ˈselfi/",
+     "pos": "n.",
+     "en": "video selfie (n.) means a short video of yourself, recorded on a phone camera",
+     "zh": "\"视频自拍\"（video 视频+ selfie 自拍），科技语境核心义为视频自拍",
+     "ctx": "为什么非得是video 而不是photo？因为造假一张照片太容易——网上一偷就能当人设；但视频你得动、得眨眼、得转头、得有真实光影，造假难度翻几十倍。所以拍视频本质是让你\"证明自己是活的\"，这个技术叫liveness detection 活体检测",
+     "ex1": "The app asks new users to film a video selfie. 这款应用要求新用户拍摄一段视频自拍。",
+     "ex2": "She posted a video selfie to her profile. 她在主页上发了一段视频自拍。"
+    },
+    {
+     "w": "grateful",
+     "ipa": "/ˈɡreɪtfl/",
+     "pos": "adj.",
+     "en": "grateful (adj.) means feeling that you want to thank someone for something",
+     "zh": "\"心怀感激的\"（grate 感恩+ -ful），致谢语境核心义为感激的、感谢的",
+     "ctx": "We're grateful the committee recognized...——这是英文\"官方回应\"最经典的开场白，先感谢。大公司回应负面新闻的固定套路是\"先感谢、再表功、最后翻脸\"， grateful 就是第一步",
+     "ex1": "We are grateful for the committee's recognition.我们感激委员会的认可。",
+     "ex2": "She was grateful for their support.她感激他们的支持。"
+    },
+    {
+     "w": "biometric",
+     "ipa": "/ˌbaɪəʊˈmetrɪk/",
+     "pos": "adj.",
+     "en": "biometric (adj.) means relating to the measurement of unique physical characteristics, such as faces or fingerprints",
+     "zh": "\"生物计量的\"（bio- 生命+ metric 测量），科技语境核心义为生物识别的、生物特征的",
+     "ctx": "",
+     "ex1": "The app uses biometric verification to confirm identity. 这款应用使用生物识别验证来确认身份。",
+     "ex2": "Biometric data is sensitive and must be protected. 生物特征数据很敏感，必须加以保护。"
+    },
+    {
+     "w": "That said",
+     "ipa": "/ðæt sed/",
+     "pos": "phrase",
+     "en": "That said (phrase) means \"however\", used to introduce a contrasting or opposing point",
+     "zh": "\"话虽如此\"（that 那+ said 说了），转折语境核心义为话虽如此、不过、但是",
+     "ctx": "话锋一转的标志。前面刚夸完\"我们很感激、我们有进步\"，That said 一转折——\"不过……\"。翻译出潜台词就是：\"我们感激你夸我们，但，你夸得不够，你还冤枉我们了。\"前脸笑脸，That said 后面就是翻脸",
+     "ex1": "The app is good; that said, it has serious flaws. 这款应用不错；话虽如此，它也有严重缺陷。",
+     "ex2": "That said, we still have a lot of work to do. 话虽如此，我们仍有很多工作要做。"
+    },
+    {
+     "w": "mischaracterize",
+     "ipa": "/ˌmɪsˈkærəktəraɪz/",
+     "pos": "v.",
+     "en": "mischaracterize (v.) means to describe something in a way that is inaccurate or unfair",
+     "zh": "\"错误地描述\"（mis- 错的+ characterize 描述、定性），表述语境核心义为歪曲、错误描述",
+     "ctx": "这个词用得很狠。Match Group 没说\"报告有出入\"（small difference），也没说\"不准确\"（inaccurate），而是mischaracterize——\"你歪曲了我们\"。潜台词是：你不是没写对，是故意说错、故意抹黑。这是\"官方回应\"的第三步：翻脸",
+     "ex1": "The company said the report mischaracterized its work. 该公司称这份报告歪曲了它的工作。",
+     "ex2": "He claimed his comments had been mischaracterized. 他声称自己的言论被歪曲了。"
+    }
+   ]
   },
   {
-   "en_html": "Sadly, no app can guarantee complete protection from scammers. There is no magic advice that can save you from fraudsters, because the schemes have become so sophisticated. “Romance scams are in fact nefarious,” Hassan said. “They steal people’s money, but also their trust.” And please don’t shame victims like the widow. She was looking for love and was manipulated. You are not too clever to be conned.",
-   "zh": "",
-   "notes": []
+   "en_html": "Face Check confirms that the person is real and <mark class=\"voc\">physically present</mark> and that their face matches the one shown in their profile photos, according to Match Group. If the scanned face matches a profile photo, members get a <mark class=\"voc\">verified badge</mark>. “Alongside our engagement with the committee over the past year, we’ve made the largest safety advancements in Match Group’s history,” Roth said. “Trust and safety is a <mark class=\"voc\">foundational priority</mark>, and we <mark class=\"voc\">intend to</mark> continue leading the industry in building tools that promote <mark class=\"voc\">authentic</mark>, safe connections. Romance scams are a <mark class=\"voc\">cross-platform</mark>, <mark class=\"voc\">societal</mark> problem that no company can solve alone, which is why we participate in and <mark class=\"voc\">help fund</mark> cross-industry efforts to combat online scams.”",
+   "zh": "据MatchGroup的说法，FaceCheck能确认：这个人是真实的、本人在场的，而且他们的脸，和资料照片里的那张脸是一致的。如果扫描出来的脸和某张资料照片吻合，会员就会获得一个\"认证徽章\"。\"在过去一年里，在我们与委员会保持沟通的同时，我们做出了MatchGroup历史上最大规模的安全进步，\"罗斯说。\"信任与安全，是我们的根本优先事项，我们打算继续引领这个行业，打造那些促进真实、安全连接的工具。恋爱诈骗是一个跨平台的社会问题，没有哪家公司能单独解决，这就是为什么我们参与、并资助跨行业的反诈行动。\"",
+   "notes": [
+    {
+     "w": "physically present",
+     "ipa": "/ˈfɪzɪkli ˈpreznt/",
+     "pos": "adj. phrase",
+     "en": "physically present (adj. phrase) means actually being in a place in person, not virtually or remotely",
+     "zh": "\"肉体在场的\"（physical 实体的+ present 在场），身份语境核心义为本人实打实在场",
+     "ctx": "Face Check 确认的三件事之一——这人是真的（real）、本人真的在场（physically present）、脸和照片一致。physically present 强调\"真人实打实在那儿\"，不是提前录好的视频",
+     "ex1": "The check confirms the person is physically present.这项核验确认本人确实在场。",
+     "ex2": "He was not physically present at the meeting.他并未亲自到场参加会议。"
+    },
+    {
+     "w": "verified badge",
+     "ipa": "/ˈverɪfaɪd bædʒ/",
+     "pos": "n.",
+     "en": "verified badge (n.) means the blue checkmark that shows a user's identity has been confirmed",
+     "zh": "\"认证徽章\"（verified 已验证+ badge 徽章），平台语境核心义为认证徽章、蓝勾",
+     "ctx": "点开用户头像旁边的蓝色小对勾，跟微博、微信的\"大V 认证\"\"实名认证\"一个意思。但反讽在于——Tinder 官方自己在帮助页写明：蓝勾只表示\"你是照片里的本人\"，它不能保证其他信息的真实性。",
+     "ex1": "Verified members get a blue badge on their profile.通过认证的会员会在主页上获得一个蓝勾。",
+     "ex2": "The badge shows only that the photo is real, nothing more.这个徽章只表明照片是真的，仅此而已。"
+    },
+    {
+     "w": "foundational priority",
+     "ipa": "/faʊnˈdeɪʃənl praɪˈɒrəti/",
+     "pos": "n. phrase",
+     "en": "foundational priority (n. phrase) means something treated as the most basic and important concern",
+     "zh": "\"地基级的优先事项\"（foundation 地基+ -al + priority 优先），表态语境核心义为根本优先事项",
+     "ctx": "foundational 来自foundation（地基），\"地基级优先\"。但漂亮话要结合第六段看——如果这真是你的\"地基级优先\"，那套防骗系统怎么会好几年不更新？漂亮话谁都会说，关键看脚底下那套系统到底更新没有",
+     "ex1": "Trust and safety is a foundational priority for us.信任与安全是我们的根本优先事项。",
+     "ex2": "User protection should be a top priority.用户保护应当是最优先的事项。"
+    },
+    {
+     "w": "intend to",
+     "ipa": "/ɪnˈtend tə/",
+     "pos": "v. phrase",
+     "en": "intend to do something (v. phrase) means to plan or want to do something",
+     "zh": "\"打算、意图\"（in- 向+ tendere 伸展→ 心思朝向），表态语境核心义为打算、意图做",
+     "ctx": "we intend to continue leading the industry——\"我们打算继续引领行业\"。注意intend to 是\"打算\"，只是表态，还没落地，与\"已做到\"是两回事",
+     "ex1": "The company intends to expand its safety team.该公司打算扩充其安全团队。",
+     "ex2": "They intend to roll out the feature worldwide.他们打算在全球范围内推出这一功能。"
+    },
+    {
+     "w": "authentic",
+     "ipa": "/ɔːˈθentɪk/",
+     "pos": "adj.",
+     "en": "authentic (adj.) means real, genuine, or true, not fake or copied",
+     "zh": "\"真实可信的\"（源自希腊语authentikos 亲笔的、货真价实的），真实语境核心义为真实的、真诚的、可信的",
+     "ctx": "authentic, safe connections——\"真实、安全的连接\"。authentic 强调\"货真价实、不是假冒\"，正好点出问题的核心：这个平台上最缺的就是\"真实性\"",
+     "ex1": "The app promises authentic, safe connections. 这款应用承诺提供真实、安全的连接。",
+     "ex2": "The letter was later found to be authentic. 这封信后来被证实是真的。"
+    },
+    {
+     "w": "cross-platform",
+     "ipa": "/ˌkrɒs ˈplætfɔːm/",
+     "pos": "adj.",
+     "en": "cross-platform (adj.) means involving or happening across more than one platform or system",
+     "zh": "\"跨平台的\"（cross 跨越+ platform 平台），范围语境核心义为跨平台的",
+     "ctx": "a cross-platform problem——\"跨平台的问题\"，即不只在Tinder 一个 App 上，所有App 上都有。这是Match Group 甩锅的第一层定性：这是全社会的问题，不全是我的锅",
+     "ex1": "Romance scams are a cross-platform problem.恋爱诈骗是一个跨平台的问题。",
+     "ex2": "The app is available cross-platform.这款应用支持跨平台使用。"
+    },
+    {
+     "w": "societal",
+     "ipa": "/səˈsaɪətl/",
+     "pos": "adj.",
+     "en": "societal (adj.) means relating to society as a whole",
+     "zh": "\"整个社会的\"（society 社会+ -al），社会语境核心义为社会层面的、全社会的",
+     "ctx": "注意与social 的区别——social 是\"社交的、与人相处的\"，societal 是\"整个社会层面的\"。societal problem 社会层面的问题。这个区分是考点，别混",
+     "ex1": "Scams have become a serious societal problem. 诈骗已成为一个严重的社会问题。",
+     "ex2": "The policy aims to address societal inequality. 这项政策旨在解决社会不平等。"
+    },
+    {
+     "w": "help fund",
+     "ipa": "/help fʌnd/",
+     "pos": "v. phrase",
+     "en": "help fund (v. phrase) means to provide some of the money needed for a project or activity",
+     "zh": "\"出资帮助\"（help 帮助+ fund 资助），资金语境核心义为资助、出钱支持",
+     "ctx": "help fund cross-industry efforts——出钱支持跨行业反诈。fund 作动词\"资助、为……提供资金\"，比pay 更正式，是外刊商务高频词",
+     "ex1": "They help fund anti-fraud programmes. 他们出资支持反诈骗项目。",
+     "ex2": "The project is funded by private donors. 这个项目由私人捐助者资助。"
+    }
+   ]
   },
   {
-   "en_html": "Until there is more robust security on these platforms, my advice is to trust nothing and no one. Verify everything. Make it a point to always do a reverse image search. Go to the TinEye reverse image search tool, and upload your image or paste its URL. The AARP Fraud Victim Support Group provides an online forum for scam victims. Group sessions are confidential and led by trained facilitators. They are also open to friends and family. Go to aarp.org/fraudsupport for help.",
-   "zh": "",
-   "notes": []
+   "en_html": "Sadly, no app can <mark class=\"voc\">guarantee</mark> complete protection from scammers. There is no <mark class=\"voc\">magic advice</mark> that can save you from fraudsters, because the schemes have become so <mark class=\"voc\">sophisticated</mark>. “Romance scams are in fact <mark class=\"voc\">nefarious</mark>,” Hassan said. “They steal people’s money, but also their trust.” And please don’t <mark class=\"voc\">shame</mark> victims like the widow. She was looking for love and was <mark class=\"voc\">manipulated</mark>. You are not <mark class=\"voc\">too clever to</mark> <mark class=\"voc\">be conned</mark>.",
+   "zh": "遗憾的是，没有任何一个App，能保证让你完全免受骗子的侵害。也没有任何\"魔法般的建议\"，能把你从诈骗犯手里救出来，因为现在的骗局，已经变得太精密了。\"恋爱诈骗，其实是非常邪恶的，\"哈桑说。\"它们偷走人们的钱，也偷走人们的信任。\"而且，请别羞辱像那位遗孀一样的受害者。她只是在寻找爱情，却被操控了。你并没有聪明到，不会被骗的地步。",
+   "notes": [
+    {
+     "w": "guarantee",
+     "ipa": "/ˌɡærənˈtiː/",
+     "pos": "v.",
+     "en": "guarantee (v.) means to promise that something will happen or be true",
+     "zh": "\"担保、保证\"（源自法语garantir 担保），承诺语境核心义为保证、担保",
+     "ctx": "no app can guarantee complete protection——没有任何App 能保证让你完全免受骗。作者一句话给\"平台再牛也靠不住\"定调：别指望App 了",
+     "ex1": "No app can guarantee complete protection from scammers. 没有任何应用能保证让你完全免受骗子的侵害。",
+     "ex2": "The company guarantees a refund within thirty days. 该公司保证三十天内退款。"
+    },
+    {
+     "w": "magic advice",
+     "ipa": "/ˈmædʒɪk ədˈvaɪs/",
+     "pos": "n. phrase",
+     "en": "magic advice (n. phrase) means a simple tip that could instantly solve a complex problem",
+     "zh": "\"魔法般的建议\"（magic 魔法+ advice 建议），反讽语境核心义为一招制敌的建议、灵丹妙药",
+     "ctx": "作者用magic 是在说反话——你想找一个\"听了就安全\"的建议？没有。因为骗局是活的、会进化的，你今天学一招，骗子明天就换一套。所以别信魔法，但要信常识",
+     "ex1": "There is no magic advice that keeps you safe from fraud. 没有什么灵丹妙药能让你免于诈骗。",
+     "ex2": "Don't look for a magic solution; do the basics. 别指望什么神奇解法，把基本功做好。"
+    },
+    {
+     "w": "sophisticated",
+     "ipa": "/səˈfɪstɪkeɪtɪd/",
+     "pos": "adj.",
+     "en": "sophisticated (adj.) means advanced, complex and cleverly designed",
+     "zh": "\"精密的、高级的、老练的\"（源自希腊语sophistēs 智者），复杂语境核心义为精密的、复杂的、老练的",
+     "ctx": "词源是一部\"骗局进化史\"——源自希腊语\"智者\"（sophists），雅典那批只教\"怎么赢\"、不教\"什么是真\"的诡辩家，被柏拉图骂成\"卖假智慧的人\"；中世纪又变成\"掺假\"（往胡椒里掺便宜货）；直到18、19 世纪才反转成\"老练的、高级的\"。作者说骗局已变得sophisticated，是精密的、防不胜防的，甚至听起来还特别\"高级\"——一个词本身就是骗局的进化史",
+     "ex1": "The scams have become highly sophisticated.这些骗局已经变得非常精密。",
+     "ex2": "Sophisticated software now mimics real voices.精密的软件如今能模仿真人声音。"
+    },
+    {
+     "w": "nefarious",
+     "ipa": "/nɪˈfeəriəs/",
+     "pos": "adj.",
+     "en": "nefarious (adj.) means extremely wicked, criminal or morally bad",
+     "zh": "\"不可言说之恶\"（拉丁语nefas 违背神意的罪行，ne- 不+ fas 神圣律法），道德语境核心义为极其邪恶的、罪大恶极的",
+     "ctx": "Hassan 给恋爱诈骗盖棺定论的词。语感阶梯——bad 是\"不好\"，evil 是\"邪恶\"，nefarious 是\"坏到连提都不该提\"的大奸大恶。它不是一个普通的坏，是\"上了刑法、天理不容的坏\"",
+     "ex1": "The scam was part of a nefarious scheme.这场诈骗是一个邪恶阴谋的一部分。",
+     "ex2": "Criminals use the app for nefarious purposes.犯罪分子利用这款应用干邪恶的勾当。"
+    },
+    {
+     "w": "shame",
+     "ipa": "/ʃeɪm/",
+     "pos": "v.",
+     "en": "shame (v.) means to make someone feel ashamed or embarrassed",
+     "zh": "\"使蒙羞\"（shame 羞耻→ 动词化），道德语境核心义为羞辱、使难堪",
+     "ctx": "don't shame victims——别羞辱受害者。作者太了解人性：我们这些旁观者看到\"聪明人被骗70 万\"，第一反应往往是嘲笑\"这都能信\"\"人傻钱多\"。作者用please 请求你别这么做，因为她不是蠢，是被操控了",
+     "ex1": "Please don't shame victims of fraud. 请别羞辱诈骗受害者。",
+     "ex2": "He was shamed into admitting his mistake. 他因羞愧而承认了错误。"
+    },
+    {
+     "w": "manipulate",
+     "ipa": "/məˈnɪpjuleɪt/",
+     "pos": "v.",
+     "en": "manipulate (v.) means to control or influence someone cleverly, often unfairly",
+     "zh": "\"用手摆弄\"（拉丁语manus 手+ -pulate 操作），操控语境核心义为操控、摆布",
+     "ctx": "词源有画面——来自manus（手），字面是\"用手去摆弄\"。想象木偶师手一抬一拉，木偶就动。恋爱诈骗的受害者就是被提线的木偶，骗子用甜言蜜语一根根线把她提起来。所以她被骗，不是因为蠢，是因为被\"操控\"了——被操控和傻，是两码事",
+     "ex1": "She was manipulated into giving away her savings.她被操控着交出了自己的积蓄。",
+     "ex2": "The scammer manipulated his emotions for months.这个骗子操控他的情感长达数月。"
+    },
+    {
+     "w": "too... to...",
+     "ipa": "/tuː ... tə .../",
+     "pos": "structure",
+     "en": "too... to... (structure) means so much that something cannot happen; \"too + adjective + to do\" means \"so... that one cannot do\"",
+     "zh": "\"太……以至于不能……\"（too 太+ to 以至于），否定结构核心义为太……而不能……",
+     "ctx": "全文题眼的语法。too clever to be conned = 太聪明以至于不会被骗；加 not——not too clever to be conned = 还没聪明到\"不会被骗\"的程度，即\"你再聪明，也可能被骗\"。注意conned 正是标题的con 的过去分词，首尾呼应",
+     "ex1": "He was too tired to keep working. 他太累了，没法继续工作。",
+     "ex2": "You are not too clever to be conned. 你并没有聪明到不会被骗的地步。"
+    },
+    {
+     "w": "be conned",
+     "ipa": "/biː kɒnd/",
+     "pos": "v. phrase",
+     "en": "be conned (v. phrase) means to be tricked or cheated out of money",
+     "zh": "\"被骗\"（con 骗+ -ed 被动），被动语境核心义为被骗、上当",
+     "ctx": "conned 是con 的过去分词，作被动——be conned 被骗。与标题首尾呼应：开头标题讲con，结尾还是con，作者用这个词把全文收成一个闭环",
+     "ex1": "No one wants to admit they were conned. 没有人愿意承认自己被骗了。",
+     "ex2": "He was conned out of his retirement savings. 他被骗走了退休积蓄。"
+    }
+   ]
+  },
+  {
+   "en_html": "Until there is more <mark class=\"voc\">robust</mark> security on these platforms, my advice is to trust nothing and no one. <mark class=\"voc\">Verify</mark> everything. Make it a point to always do a reverse image search. Go to the TinEye reverse image search tool, and upload your image or paste its URL. The AARP Fraud Victim Support Group provides an online forum for scam victims. Group sessions are <mark class=\"voc\">confidential</mark> and led by trained <mark class=\"voc\">facilitators</mark>. They are also open to friends and family. Go to aarp.org/fraudsupport for help.",
+   "zh": "在这些平台拥有更扎实的安全保障之前，我的建议是——谁也别信，什么都别信，处处核实。一定要养成习惯，总是做一次反向图片搜索。去TinEye这个反向搜图工具，上传你的图片，或者粘贴它的网址。AARP的\"欺诈受害者支持小组\"，为诈骗受害者提供了一个在线论坛。小组的会话是保密的，由受过培训的引导者主持。它们也向亲友开放。去aarp.org/fraudsupport寻求帮助吧。",
+   "notes": [
+    {
+     "w": "robust",
+     "ipa": "/rəʊˈbʌst/",
+     "pos": "adj.",
+     "en": "robust (adj.) means strong, solid and able to withstand problems",
+     "zh": "\"健壮的、结实的\"（robust 壮实），强度语境核心义为健壮的、扎实的、牢靠的",
+     "ctx": "本义说人\"壮实、结实\"，引申到东西上就是\"牢靠、抗造\"。robust security 即\"扎实、靠得住的安全保障\"。注意潜台词：在平台安全\"真正完善\"之前——言下之意，现在平台的安全还不行，你别指望它",
+     "ex1": "These platforms need more robust security. 这些平台需要更扎实的安全保障。",
+     "ex2": "The economy showed robust growth last year. 去年经济展现了强劲增长。"
+    },
+    {
+     "w": "verify",
+     "ipa": "/ˈverɪfaɪ/",
+     "pos": "v.",
+     "en": "verify (v.) means to check that something is true or correct",
+     "zh": "\"核实、验证\"（拉丁语verus 真实+ -fy 使），核实语境核心义为核实、验证",
+     "ctx": "verify 与trust 正好是一对反义词——trust 是\"信\"，verify 是\"查\"。trust nothing and no one, verify everything：谁也别信，处处核实。作者不是让你变偏执狂，是让你在\"掏钱、给钱、透露信息\"之前先停一下、核实一下",
+     "ex1": "Always verify before you transfer money. 转账之前一定要核实。",
+     "ex2": "The platform verifies users' identities. 该平台核实用户身份。"
+    },
+    {
+     "w": "confidential",
+     "ipa": "/ˌkɒnfɪˈdenʃl/",
+     "pos": "adj.",
+     "en": "confidential (adj.) means kept secret or private",
+     "zh": "\"秘密的、保密的\"（con- 加强+ fidere 信任→ 只托付给可信的人），隐私语境核心义为保密的、机密的",
+     "ctx": "Group sessions are confidential——小组会话是保密的，你的遭遇不会给你传出去。对\"怕丢人\"的受害者来说，这个\"保密\"太重要了。注意fid- 词根（信任）家族：confide 托付、confidant 密友、fidelity 忠诚",
+     "ex1": "The sessions are confidential and free.这些会话是保密的，且免费。",
+     "ex2": "All personal details remain strictly confidential.所有个人信息都严格保密。"
+    },
+    {
+     "w": "facilitator",
+     "ipa": "/fəˈsɪlɪteɪtə(r)/",
+     "pos": "n.",
+     "en": "facilitator (n.) means someone who helps a group to communicate and work together, rather than teaching them",
+     "zh": "\"使事情更容易的人\"（facilitate 使容易+ -or 表人），主持语境核心义为引导者、协调者",
+     "ctx": "来自facilitate（使……更容易）。所以facilitator 不是\"老师\"，是\"引导者\"——他的活儿不是教你，是帮你在小组里把话说出来、把情绪释放出来。这些引导者经过专门培训，知道怎么跟受骗的人打交道：不评判、不指责，只陪伴",
+     "ex1": "Sessions are led by trained facilitators. 这些会话由受过培训的引导者主持。",
+     "ex2": "A facilitator helped the group share their stories. 一位引导者帮助小组成员分享他们的故事。"
+    }
+   ]
   }
  ],
- "proper": [],
+ "proper": [
+  {
+   "name": "Tinder",
+   "def": "简要介绍：美国最火的约会交友App，2012 年上线，累计下载量超6 亿次、月活跃用户约5000 万。它最出名的设计是像刷短视频一样\"左滑不喜欢、右滑喜欢\"，两人互相右滑即\"配对\"（match）成功、可开始聊天——这个\"滑一滑\"的玩法就是Tinder 发明的。字面上，tinder 一词的本义是\"火绒、引火物\"，即那种干燥的、一点就着的东西，App 起这名是暗示\"点燃爱情的火花\"。放到中文语境，可理解成\"探探\"\"陌陌\"\"Soul\"——陌生人社交、找对象。<br>本文中的意思：文章标题的案发地。讽刺正在于名字——它想让你\"一点就着、擦出爱的火花\"，可骗子正是用这点火花，把受害者整个钱包点着。一个丧偶的女人，就是在它上面被骗走70 万美元。"
+  },
+  {
+   "name": "Match Group",
+   "def": "简要介绍：全球最大的约会App 集团，一家公司手里攥着一大堆找对象的App，旗下包括Tinder、Hinge、Match、Plenty of Fish 等。之所以做这么多约会App，是因为\"找对象\"也被细分了市场——有奔着结婚去的、有随便聊聊的、有主打颜值的，Match Group 用App 矩阵全覆盖。<br>本文中的意思：被国会联合经济委员会调查的对象。记住一句话——你在这些App 上找对象，背后可能都是同一家公司。平台做得越大，骗子越爱往里钻。"
+  },
+  {
+   "name": "Hinge",
+   "def": "简要介绍：Match Group 旗下的约会App。hinge 字面是\"铰链\"（门上让门开合的金属件）。它有一句特别有名的广告语——\"Designed to be deleted\"（一款设计出来就是为了让你删掉它的App），意思是：你在这里找到真爱了，就不需要它了。用这句话把\"严肃找对象\"的定位立了起来。<br>本文中的意思：被调查的Match Group 平台之一，也是FaceCheck 人脸核验上线的两个平台之一（另一个是Tinder）。"
+  },
+  {
+   "name": "Plenty of Fish",
+   "def": "简要介绍：Match Group 旗下的约会App。名字来自一句英文谚语\"There are plenty offish in the sea\"——\"海里的鱼多的是\"，就是安慰失恋的人\"天涯何处无芳草\"。所以这个App 叫\"好多鱼\"，意思是\"这里对象有的是，随便挑\"。<br>本文中的意思：被调查的MatchGroup 平台之一。光这四个App 的名字（Tinder 火绒、Match 配对、Hinge 铰链、Plenty of Fish 好多鱼）就能看出各自定位，但作者要告诉你的是——不管名字取得多浪漫，骗子就藏在里面。"
+  },
+  {
+   "name": "FBI / IC3",
+   "def": "简要介绍：FBI 即美国联邦调查局（Federal Bureau of Investigation）。IC3 是它的\"互联网犯罪投诉中心\"（Internet Crime Complaint Center），每年发布一份《互联网犯罪报告》（Internet Crime Report），统计当年各类网络诈骗的报案与损失数据。<br>本文中的意思：文章第一段\"近10 亿美元年度损失\"的数据来源。在IC3 2025 年的报告里，恋爱/信任类（confidence/romance）诈骗的精确损失是9.29 亿美元，比2024 年的6.72 亿美元一年涨了38%。且这只是\"报了案\"的数字，实际损失远超于此——很多受害者根本不敢报案。"
+  },
+  {
+   "name": "Joint Economic Committee",
+   "def": "简要介绍：美国国会的一个机构，由参议院和众议院两院议员共同组成，故称\"联合\"（joint）。它是美国国会里主管经济议题的常设委员会之一。<br>本文中的意思：一个\"恍然大悟\"的点——管\"经济\"的委员会，跑来查\"恋爱诈骗\"，为什么？因为恋爱诈骗已不是感情问题，而是一年9 亿多美元的经济问题。当一个社会问题严重到要轮到经济委员会出手时，你就知道它已经大到什么程度了。"
+  },
+  {
+   "name": "Maggie Hassan",
+   "def": "简要介绍：美国民主党参议员，代表新罕布什尔州（New Hampshire）。在本文所述的国会联合经济委员会中，她是头号民主党人（the panel's top Democrat），即委员会里职位最高的民主党议员。<br>本文中的意思：这份恋爱诈骗调查报告的两位牵头人之一（民主党一方）。一个值得点出的细节——她和布莱克本，都是女性参议员；而恋爱诈骗的受害者，绝大多数也是女性。专门查恋爱诈骗的报告，偏偏由两位女参议员牵头，贴切又巧合。"
+  },
+  {
+   "name": "Marsha Blackburn",
+   "def": "简要介绍：美国共和党参议员，代表田纳西州（Tennessee），原文括号里的R 即Republican（共和党）。她同时主持着一个关于消费者保护和数据隐私的参议院小组委员会。<br>本文中的意思：报告的两位牵头人之一（共和党一方）。她与哈桑一D（民主党）一R（共和党），正好凑成前文的bipartisan（两党联合）。她主持\"消费者保护与数据隐私\"小组委员会，与恋爱诈骗的切入口（消费者的钱被骗、隐私数据被偷）正好对口。"
+  },
+  {
+   "name": "Yoel Roth",
+   "def": "简要介绍：Match Group 信任与安全（Trust and Safety）高级副总裁。他此前是Twitter（现X）的\"信任与安全\"主管，干了七年多。2021 年1 月美国国会山骚乱后，他领导的团队做出了一个震动全球的决定——永久封禁时任总统特朗普的推特账号。事后他遭到疯狂网暴甚至威胁，自述那段时间家门口有持枪保镖、全家被迫东躲西藏数月。马斯克收购推特后也公开点名攻击过他，他最终离职，转投Match Group。<br>本文中的意思：回话的那个人。一个当年连美国总统账号都敢封的人，如今坐镇Tinder 抓杀猪盘——这配置有点\"杀鸡用牛刀\"，但换个角度看，恰恰说明恋爱诈骗已严重到要请这种级别的人来镇场子了。理解这个人的来头，才能读懂他回应里那种\"我见过大世面\"的底气。"
+  },
+  {
+   "name": "William Thompson / confidence man",
+   "def": "简要介绍：1849 年美国纽约的真实人物。他穿得体面，专挑有钱人搭话，装作认识对方，寒暄热络后突然问一句\"Do you have the confidence to lend me your watch?\"（你信得过我、把怀表借我吗）。对方一看他衣冠楚楚，就把表递过去，他拿过表转身就走，再没回来。他被捕后关进纽约外号\"The Tombs\"（\"坟墓\"）的监狱，《纽约先驱报》报道此案时给他起外号\"confidence man\"（靠信任行骗的人）。<br>本文中的意思：con 这个词的源头。confidence man 后缩成con man，再简化为con——所以\"信任\"（confidence）就这样成了\"骗局\"的代名词。它点破了骗局的本质：骗子骗人的第一步，永远不是要钱，而是先把你的信任骗到手。"
+  },
+  {
+   "name": "Herman Melville /《The Confidence-Man》",
+   "def": "简要介绍：赫尔曼·梅尔维尔，美国文学大师，代表作《白鲸》（Moby-Dick）。1857 年，他以威廉·汤普森的故事为原型，写了一部小说《The Confidence-Man》（《骗子》）。<br>本文中的意思：说明\"靠信任行骗\"这个题材，170 多年前就已进入严肃文学。也侧面印证con 这个词源故事的真实分量——一个街头骗子的故事，最后被写成了文学经典。"
+  },
+  {
+   "name": "Dollars & Sense",
+   "def": "简要介绍：本文作者的财经节目名称。它是一个双关：Dollars（美元）+ Sense（理智），字面是\"美元与理智\"，即既讲钱、也讲理财的脑子；连读\"Dollars and Sense\"又谐音\"dollars and cents\"（美元和美分，即\"钱\"本身）。类似中文里\"钱途\"——既是\"前途\"又是\"钱途\"，一个音、两层意思。<br>本文中的意思：作者能请一位参议员上节目，说明他不是普通记者，是个有分量的财经节目主持人。理解了节目名这个双关，也就理解了为什么这篇文章的用词（con、predator、coax、nefarious）那么讲究——都是这个\"懂文字游戏\"的作者的手笔。"
+  },
+  {
+   "name": "recovery scam",
+   "def": "简要介绍：一类专挑\"已经被骗过的人\"下手的骗术。骗子知道刚被骗的人正在经历懊悔、自责、着急，于是假扮成\"专业追讨机构\"\"律师\"甚至\"警察\"，主动联系说\"你被骗的钱我们能帮你追回来\"，再以\"手续费\"\"保证金\"\"律师费\"名义让你先交一笔钱。钱一交，人消失——你不但没追回原来的钱，又搭进去一笔。FBI 专门警告过：若有陌生人主动联系你声称能帮你追回被骗的钱，大概率是另一个骗子。<br>本文中的意思：第四段那个丧偶女人\"第二次被骗\"的真相。第一次被骗刚结束，第二次骗局已在路上——正因为这种\"连环套\"，她才两次合计损失70 多万美元。这也是全文最荒诞、最让人心碎的地方。"
+  },
+  {
+   "name": "pig butchering / 杀猪盘",
+   "def": "简要介绍：中英文里对同一种网恋诈骗的称呼。中文叫\"杀猪盘\"，三个字就是整个骗局流程——先\"养猪\"（养的是你对他的信任，嘘寒问暖、掏心掏肺），再\"杀猪\"（一刀下去，钱没了、人也消失）。英文把\"杀猪盘\"直译成pig butchering，字面就是\"杀猪\"。<br>本文中的意思：全文最能引发国内观众共鸣的连接点。英文的con 讲的是\"骗信任\"，中文的\"杀猪盘\"讲的是\"先养后杀\"——一个从骗子视角，一个从受害者视角，说的是同一件事。全世界的骗子，用的都是同一本剧本。"
+  },
+  {
+   "name": "catfish",
+   "def": "简要介绍：本义是鲶鱼，网络语境里指\"用假照片、假身份在网上骗人的人\"（中文可叫\"照骗\"\"盗图狗\"）。词源来自2010 年美国纪录片《Catfish》：男主角网恋的\"美女\"其实是个用假照片骗他的中年主妇；片中渔民的比喻——往运鳕鱼的箱里扔几条鲶鱼，鳕鱼见天敌拼命游、肉才紧实新鲜。从此catfish 成了\"网上用假身份骗人的人\"。管理学里的\"鲶鱼效应\"也脱胎于此。<br>本文中的意思：Face Check 要防的核心对象。骗子偷一张帅哥美女的照片注册账号，就能装成别人来骗你；Face Check 逼你拍视频自拍，就是为了确认\"你真的是照片里那个人吗\"。"
+  },
+  {
+   "name": "romance scam / confidence scheme",
+   "def": "简要介绍：两类高度重叠的诈骗的官方统称。romance scam（恋爱诈骗）指骗子假扮恋人、发展感情后骗钱；confidence scheme（信任骗局）范围更广，指一切\"先骗取信任、再骗钱\"的骗局。FBI 在统计时把两者合并为\"confidence/romance fraud\"一类。<br>本文中的意思：文章的核心概念。注意confidence scheme 里的confidence，正是标题con 的全称——正文第一段用官方术语把标题的con 又对了一遍，作者和FBI 讲的是同一件事：先骗你的信任，再骗你的钱。"
+  },
+  {
+   "name": "Face Check / liveness detection",
+   "def": "简要介绍：Match Group 去年在Tinder 和Hinge 上线的身份核验功能，要求新用户拍一段视频自拍。它确认三件事：这人是真的、本人在场、脸和资料照片一致。背后的关键技术叫liveness detection（活体检测），即\"证明你是活的\"——因为造假一张照片太容易，但视频要动、要眨眼、要有真实光影，造假难度翻几十倍。<br>本文中的意思：Match Group 回应里最重要的\"表功\"工具。但反讽在于——Tinder 官方自己承认，蓝勾只表示\"你是照片里的本人\"，不能保证其他信息真实。它验的是\"脸\"，不是\"人品\"；一个骗子照样可以验脸拿到蓝勾，然后继续骗人。"
+  },
+  {
+   "name": "TinEye",
+   "def": "简要介绍：全互联网第一个反向图片搜索引擎，2008 年由加拿大多伦多的公司Idée 推出，比Google 的以图搜图（2011 年）还早，是这块的开山祖师爷。原理是给每张图生成独一无二的\"图像指纹\"，哪怕被裁剪、调色、改大小都能认出，已索引超660 亿张图片。免费，且不保存你搜的图。<br>本文中的意思：作者推荐的第一条保命工具。用法就两步：上传图片（upload）或粘贴图片网址（paste its URL），一搜就知道这张图在网上还出现在哪里。"
+  },
+  {
+   "name": "AARP",
+   "def": "简要介绍：全称American Association of Retired Persons，1958 年成立的美国最大退休人员组织，会员近3800 万人，是华盛顿最有政治游说力的组织之一。它的\"欺诈受害者支持小组\"（Fraud Victim Support Group）提供在线论坛，会话保密、由受训引导者主持，且对亲友开放。<br>本文中的意思：作者推荐的第二个保命工具——被骗之后的\"急救站\"。反差在于：一个服务\"美国大爷大妈\"的机构，反诈支持却对所有人、所有年龄免费开放，年轻人照样能白嫖。它反复强调一句话\"不是你的错\"，正好接住第九段\"别羞辱受害者\"的情绪，形成一个\"防骗→被骗→求助→不羞耻\"的完整闭环。"
+  },
+  {
+   "name": "cryptocurrency",
+   "def": "简要介绍：以加密技术保障交易、去中心化的数字货币，如比特币。特点是匿名、难追踪、难冻结，钱一转过去就像水一样流走，警察想追都追不回。<br>本文中的意思：骗子现在最爱用的资金通道。文中的\"追赃诈骗\"就是打着\"帮你追回加密货币损失\"的旗号进行二次收割。理解了加密货币\"难追回\"的特性，才能体会受害者\"钱一旦转出就再也要不回来\"的绝望。"
+  },
+  {
+   "name": "FBI Internet Crime Report for 2025",
+   "def": "简要介绍：FBI 互联网犯罪投诉中心（IC3）每年发布一次的网络犯罪统计报告，汇总当年报案数据。2025 年版显示，恋爱/信任类（confidence/romance）诈骗损失9.29 亿美元，比2024 年的6.72 亿美元上涨约38%。<br>本文中的意思：文章第一段\"近10 亿美元\"的精确出处。作者用这个官方数字开场，是要用一个冰冷、权威、不可辩驳的规模，把\"这已经是一个严重的社会问题\"砸到读者面前。"
+  },
+  {
+   "name": "AI 诈骗三件套",
+   "def": "简要介绍：AI 让诈骗升级的三个典型场景。① AI 换脸：骗子实时换一张脸跟你视频，灯光不变、表情自然、还能对答，但那脸是假的；② AI 克隆声音：拿到你几秒录音就能克隆你的声音，打给你爸妈说\"我出事了急需用钱\"；③ AI 批量恋爱：以前一个骗子同时只能哄一两个，现在AI 能自动生成甜言蜜语、自动回复、24 小时在线，同时\"养\"几百个目标。<br>本文中的意思：第五段Hassan 那句\"AI 越来越高效\"的具体展开——高效的是骗子的效率。这也为第六段埋下反差：骗子都开上\"战斗机\"了，Tinder 的防御系统却好几年没更新，还拿着旧名单在门口眯眼睛。"
+  }
+ ],
  "sources_note": "依据美国《华盛顿邮报》（The Washington Post）2026-11-16 报道。",
- "practice": {},
+ "practice": {
+  "intro": "请将以下中文句子翻译为英文（参考答案见后）。",
+  "items": [
+   "她本想交出真心，那个假扮成恋人的骗子，却只想拿走她的钱。",
+   "根据FBI《2025 年网络犯罪报告》，恋爱与信任类骗局，正造成近10 亿美元的年度损失。",
+   "在赢得她的信任之后，这个网络掠食者编造了各种危机——包括一次心脏病发作，和一次在墨西哥被捕。最终，这个诈骗犯哄骗她给他汇了钱。",
+   "结果，那又是一个假的加密货币骗局。两次骗局加起来，这位遗孀总共损失了七十多万美元。",
+   "\"恋爱诈骗，其实是非常邪恶的，\"哈桑说，\"它们偷走人们的钱，也偷走人们的信任。\"",
+   "她只是在寻找爱情，却被操控了。你并没有聪明到，不会被骗的地步。"
+  ],
+  "critical_en": "",
+  "critical_zh": "",
+  "answer": "1. She wanted to give her heart away. A scammer posing as a love interest wanted to take her money instead.<br><br>2. Romance and confidence schemes are driving nearly $1 billion in annual losses, according to the FBI Internet Crime Report for 2025.<br><br>3. After winning her trust, the online predator fabricated various crises — including a heart attack and an arrest in Mexico. The fraudster ultimately coaxed her into sending him money.<br><br>4. That turned out to be a fake cryptocurrency scheme. In total, the widow lost more than $700,000 from the two scams.<br><br>5. \"Romance scams are in fact nefarious,\" Hassan said. \"They steal people's money, but also their trust.\"<br><br>6. She was looking for love and was manipulated. You are not too clever to be conned."
+ },
  "mindmap": {
   "aria": "爱情骗局 思维导图",
   "alt": "爱情骗局：从心动到七十万美元 思维导图",
   "svg": "<svg viewBox=\"0 0 960 644\" xmlns=\"http://www.w3.org/2000/svg\" role=\"img\" aria-label=\"爱情骗局 思维导图\" style=\"width:100%;height:auto;font-family:-apple-system,'PingFang SC','Hiragino Sans GB','Microsoft YaHei',sans-serif\">\n<rect x=\"24\" y=\"278\" width=\"176\" height=\"88\" rx=\"14\" fill=\"#eae3d2\" stroke=\"#9a8f76\"/>\n<text x=\"112\" y=\"314\" text-anchor=\"middle\" fill=\"#3d3a34\" font-size=\"17\" font-weight=\"700\">爱情骗局</text>\n<text x=\"112\" y=\"340\" text-anchor=\"middle\" fill=\"#5c5648\" font-size=\"12.5\">从心动到七十万美元</text>\n<path d=\"M200,322 C232,322 232,88 260,88\" stroke=\"#6b8f71\" stroke-width=\"2\" fill=\"none\"/>\n<path d=\"M200,322 C232,322 232,265 260,265\" stroke=\"#7d98ad\" stroke-width=\"2\" fill=\"none\"/>\n<path d=\"M200,322 C232,322 232,442 260,442\" stroke=\"#bd7a6d\" stroke-width=\"2\" fill=\"none\"/>\n<path d=\"M200,322 C232,322 232,577 260,577\" stroke=\"#9b86b3\" stroke-width=\"2\" fill=\"none\"/>\n<g class=\"mm-branch\" data-target=\"bc1\">\n<rect x=\"260\" y=\"71\" width=\"190\" height=\"34\" rx=\"8\" fill=\"#e6efe7\" stroke=\"#6b8f71\"/>\n<text x=\"355\" y=\"93\" text-anchor=\"middle\" fill=\"#4c6b52\" font-size=\"15\" font-weight=\"700\">骗局成灾（¶1-3）</text>\n<text class=\"mm-arrow\" data-for=\"bc1\" x=\"442\" y=\"93\" text-anchor=\"end\" fill=\"#4c6b52\">▾</text>\n</g>\n<g class=\"mm-children\" id=\"bc1\">\n<path d=\"M450,88 C462,88 462,46 480,46\" stroke=\"#6b8f71\" stroke-width=\"1.5\" fill=\"none\"/>\n<path d=\"M450,88 C462,88 462,88 480,88\" stroke=\"#6b8f71\" stroke-width=\"1.5\" fill=\"none\"/>\n<path d=\"M450,88 C462,88 462,130 480,130\" stroke=\"#6b8f71\" stroke-width=\"1.5\" fill=\"none\"/>\n<rect x=\"480\" y=\"30\" width=\"456\" height=\"32\" rx=\"8\" fill=\"#e6efe7\"/><text x=\"492\" y=\"51\" fill=\"#3d3a34\" font-size=\"14\">FBI：这类骗局年损近十亿美元</text>\n<rect x=\"480\" y=\"72\" width=\"456\" height=\"32\" rx=\"8\" fill=\"#e6efe7\"/><text x=\"492\" y=\"93\" fill=\"#3d3a34\" font-size=\"14\">国会联合经济委员会出专项报告</text>\n<rect x=\"480\" y=\"114\" width=\"456\" height=\"32\" rx=\"8\" fill=\"#e6efe7\"/><text x=\"492\" y=\"135\" fill=\"#3d3a34\" font-size=\"14\">两党议员历时一年调查交友平台</text>\n</g>\n<g class=\"mm-branch\" data-target=\"bc2\">\n<rect x=\"260\" y=\"248\" width=\"190\" height=\"34\" rx=\"8\" fill=\"#e5edf4\" stroke=\"#7d98ad\"/>\n<text x=\"355\" y=\"270\" text-anchor=\"middle\" fill=\"#3d5872\" font-size=\"15\" font-weight=\"700\">两次收割（¶4-6）</text>\n<text class=\"mm-arrow\" data-for=\"bc2\" x=\"442\" y=\"270\" text-anchor=\"end\" fill=\"#3d5872\">▾</text>\n</g>\n<g class=\"mm-children\" id=\"bc2\">\n<path d=\"M450,265 C462,265 462,202 480,202\" stroke=\"#7d98ad\" stroke-width=\"1.5\" fill=\"none\"/>\n<path d=\"M450,265 C462,265 462,244 480,244\" stroke=\"#7d98ad\" stroke-width=\"1.5\" fill=\"none\"/>\n<path d=\"M450,265 C462,265 462,286 480,286\" stroke=\"#7d98ad\" stroke-width=\"1.5\" fill=\"none\"/>\n<path d=\"M450,265 C462,265 462,328 480,328\" stroke=\"#7d98ad\" stroke-width=\"1.5\" fill=\"none\"/>\n<rect x=\"480\" y=\"186\" width=\"456\" height=\"32\" rx=\"8\" fill=\"#e5edf4\"/><text x=\"492\" y=\"207\" fill=\"#3d3a34\" font-size=\"14\">丧偶女子上 Tinder 找伴，遇到新泽西男子</text>\n<rect x=\"480\" y=\"228\" width=\"456\" height=\"32\" rx=\"8\" fill=\"#e5edf4\"/><text x=\"492\" y=\"249\" fill=\"#3d3a34\" font-size=\"14\">对方编出心梗、在墨西哥被捕，骗她汇款</text>\n<rect x=\"480\" y=\"270\" width=\"456\" height=\"32\" rx=\"8\" fill=\"#e5edf4\"/><text x=\"492\" y=\"291\" fill=\"#3d3a34\" font-size=\"14\">「帮忙追钱」的群是假加密货币局，共骗走七十万</text>\n<rect x=\"480\" y=\"312\" width=\"456\" height=\"32\" rx=\"8\" fill=\"#e5edf4\"/><text x=\"492\" y=\"333\" fill=\"#3d3a34\" font-size=\"14\">参议员哈桑：AI 让骗局爆发式增长</text>\n</g>\n<g class=\"mm-branch\" data-target=\"bc3\">\n<rect x=\"260\" y=\"425\" width=\"190\" height=\"34\" rx=\"8\" fill=\"#f4e7e4\" stroke=\"#bd7a6d\"/>\n<text x=\"355\" y=\"447\" text-anchor=\"middle\" fill=\"#7c4a3e\" font-size=\"15\" font-weight=\"700\">风控停摆（¶7-9）</text>\n<text class=\"mm-arrow\" data-for=\"bc3\" x=\"442\" y=\"447\" text-anchor=\"end\" fill=\"#7c4a3e\">▾</text>\n</g>\n<g class=\"mm-children\" id=\"bc3\">\n<path d=\"M450,442 C462,442 462,400 480,400\" stroke=\"#bd7a6d\" stroke-width=\"1.5\" fill=\"none\"/>\n<path d=\"M450,442 C462,442 462,442 480,442\" stroke=\"#bd7a6d\" stroke-width=\"1.5\" fill=\"none\"/>\n<path d=\"M450,442 C462,442 462,484 480,484\" stroke=\"#bd7a6d\" stroke-width=\"1.5\" fill=\"none\"/>\n<rect x=\"480\" y=\"384\" width=\"456\" height=\"32\" rx=\"8\" fill=\"#f4e7e4\"/><text x=\"492\" y=\"405\" fill=\"#3d3a34\" font-size=\"14\">Tinder 的机器学习模型多年没更新</text>\n<rect x=\"480\" y=\"426\" width=\"456\" height=\"32\" rx=\"8\" fill=\"#f4e7e4\"/><text x=\"492\" y=\"447\" fill=\"#3d3a34\" font-size=\"14\">新增 Face Check：拍视频自拍换认证徽章</text>\n<rect x=\"480\" y=\"468\" width=\"456\" height=\"32\" rx=\"8\" fill=\"#f4e7e4\"/><text x=\"492\" y=\"489\" fill=\"#3d3a34\" font-size=\"14\">Match 称报告低估其投入与已有工作</text>\n</g>\n<g class=\"mm-branch\" data-target=\"bc4\">\n<rect x=\"260\" y=\"560\" width=\"190\" height=\"34\" rx=\"8\" fill=\"#ece4f2\" stroke=\"#9b86b3\"/>\n<text x=\"355\" y=\"582\" text-anchor=\"middle\" fill=\"#5a4670\" font-size=\"15\" font-weight=\"700\">只能自保（¶10-11）</text>\n<text class=\"mm-arrow\" data-for=\"bc4\" x=\"442\" y=\"582\" text-anchor=\"end\" fill=\"#5a4670\">▾</text>\n</g>\n<g class=\"mm-children\" id=\"bc4\">\n<path d=\"M450,577 C462,577 462,556 480,556\" stroke=\"#9b86b3\" stroke-width=\"1.5\" fill=\"none\"/>\n<path d=\"M450,577 C462,577 462,598 480,598\" stroke=\"#9b86b3\" stroke-width=\"1.5\" fill=\"none\"/>\n<rect x=\"480\" y=\"540\" width=\"456\" height=\"32\" rx=\"8\" fill=\"#ece4f2\"/><text x=\"492\" y=\"561\" fill=\"#3d3a34\" font-size=\"14\">骗术太高明，没有万能建议</text>\n<rect x=\"480\" y=\"582\" width=\"456\" height=\"32\" rx=\"8\" fill=\"#ece4f2\"/><text x=\"492\" y=\"603\" fill=\"#3d3a34\" font-size=\"14\">不信任何人，先反向搜图，再找 AARP</text>\n</g>\n<text x=\"486\" y=\"170\" fill=\"#8a8578\" font-size=\"11.5\">↓ 统计落到一个人身上，套路才看得清</text>\n<text x=\"486\" y=\"368\" fill=\"#8a8578\" font-size=\"11.5\">↓ 个案背后是平台多年不更新模型</text>\n<text x=\"486\" y=\"524\" fill=\"#8a8578\" font-size=\"11.5\">↓ 平台补不上窟窿，责任回到个人</text>\n</svg>",
   "img": "/Users/malen/.workbuddy/backups/handmap/2026-11-16.png"
- }
+ },
+ "audio": true
 }

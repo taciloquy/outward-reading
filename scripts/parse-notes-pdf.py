@@ -243,6 +243,22 @@ def split_lead_cards(cards, head_text):
     return head, body
 
 
+def is_page_title(s):
+    """跨页页眉里重复的文章标题行：纯中文、以问号收尾、无句读、长度短。
+
+    20261116 课件第 57 页页眉整行重复标题「一个女人被骗500万，为什么聪明人也会
+    掉进爱情骗局？」，会被当成上一条专名说明的尾行。专名说明正文全中文且以句号
+    收束，不会出现「整行只有问句标题」的形态，故按此特征剔除。
+    """
+    if not s or not CJK.search(s):
+        return False
+    if re.search(r'[。；：！]', s):
+        return False
+    if not s.endswith(('？', '?')):
+        return False
+    return len(s) <= 40
+
+
 def run_new_edition(clean, practice_mark):
     """新版式解析：卡片靠「词 + 词性 + 音标」识别，专名靠「编号. 英文名 / 中文名」。"""
     para_end = next((j for j, l in enumerate(clean)
@@ -284,14 +300,22 @@ def run_new_edition(clean, practice_mark):
             # 说明文字 = 后续普通行，直到下一个专名/段落/卡片；
             # 空行跳过（说明可能跨页，页脚页码已被 flatten 剔除）
             buf = []
+            after_page = False
             while i < para_end:
                 s = clean[i].strip()
                 if s == '@@PAGE@@' or not s:
+                    if s == '@@PAGE@@':
+                        after_page = True
                     i += 1
                     continue
                 if (PROPER_LINE.match(s) or PARA_HEAD.match(s)
                         or (CARD_HEAD.match(s) and s.count('/') >= 2)):
                     break
+                # 跨页后紧跟的整行中文问句 = PDF 页眉里重复的文章标题，不是说明正文
+                if after_page and is_page_title(s):
+                    i += 1
+                    continue
+                after_page = False
                 buf.append(s)
                 i += 1
             # 说明尾部常混入检索引用（如「Al Jazeera +1」「GOV.UK」，与中文同行），
@@ -369,7 +393,7 @@ def run_new_edition(clean, practice_mark):
                 en.append(s)
                 i += 1
             en_txt = ' '.join(en)
-            en_txt = re.sub(r'([A-Za-z])-\s+([a-z])', r'\1-\2', en_txt)
+            en_txt = re.sub(r'([A-Za-z])-\s+([A-Za-z])', r'\1-\2', en_txt)
             en_txt = re.sub(r'\s+', ' ', en_txt).strip()
             zh = []
             while i < para_end:
@@ -418,9 +442,12 @@ def run_new_edition(clean, practice_mark):
             mode = 'a'
             continue
         if mode == 'q':
-            m = re.match(r'^\d+\.\s*(.+)$', t)
-            if m:
-                practice.append(m.group(1).strip())
+            # 行首编号可能重复（PDF 「1. 1. 题干」），统一全部剥掉，
+            # 与往期 items 不带编号的版式一致（答案区由渲染器统一编号）。
+            body = re.sub(r'^(?:\d+\.\s*)+', '', t)
+            m = re.match(r'^(.+)$', body)
+            if body != t and m:
+                practice.append(body.strip())
             elif practice:
                 # 复述型练习的「关键词：a / b / c」提示行 → 括号提示词，
                 # 与旧版题干末尾的「（a / b / c）」保持同一版式。
@@ -510,7 +537,7 @@ def run(pdf, proper_mark, practice_mark, drop):
                 zh.append(clean[i].strip())
                 i += 1
             en_txt = ' '.join(en)
-            en_txt = re.sub(r'([A-Za-z])-\s+([a-z])', r'\1-\2', en_txt)  # 断行连字符
+            en_txt = re.sub(r'([A-Za-z])-\s+([A-Za-z])', r'\1-\2', en_txt)  # 断行连字符
             en_txt = re.sub(r'\s+', ' ', en_txt).strip()
             paras.append({'n': int(m.group(1)), 'en': fix_radicals(en_txt),
                           'zh': re.sub(r'\s+', '', ''.join(zh))})
@@ -537,10 +564,17 @@ def run(pdf, proper_mark, practice_mark, drop):
 
     # 专名：名字行以括注结尾，或下一行是「简要介绍…」
     proper, seg, cur_p = [], clean[proper_idx + 1:para_end], None
+    after_page = False
     for idx, l in enumerate(seg):
         t = l.strip()
         if t == '@@PAGE@@' or not t:
+            if t == '@@PAGE@@':
+                after_page = True
             continue
+        # 跨页后紧跟的整行中文问句 = PDF 页眉里重复的文章标题，不属于说明正文
+        if after_page and is_page_title(t):
+            continue
+        after_page = False
         if t.startswith('简要介绍') or t.startswith('本文中的意思'):
             if cur_p:
                 cur_p['def'] += t
@@ -571,9 +605,11 @@ def run(pdf, proper_mark, practice_mark, drop):
         if mb and mode == 'a':
             bucket.append(mb.group(1).strip())
             continue
-        m = re.match(r'^\d+\.\s*(.+)$', t)
-        if m:
-            bucket.append(m.group(1).strip())
+        # 行首编号可能重复（PDF 「1. 1. 题干」），统一剥掉全部编号；
+        # 与往期 items 不带编号的版式一致，答案区由渲染器统一编号。
+        body = re.sub(r'^(?:\d+\.\s*)+', '', t)
+        if body != t and body:
+            bucket.append(body.strip())
         elif bucket:
             prev = bucket[-1]
             # 中文之间不加空格，中英/英文之间补一个空格
