@@ -1,6 +1,13 @@
 // ===== 文章数据库（独立静态资源；正文全文见 search-index.js） =====
     const ARTICLES = [
       {
+        title: "亚马逊云成以军“人脸识别军火库”？350万张巴勒斯坦人照片被上传分析",
+        publishDate: "2026-11-18",
+        fileKey: "2026-11-18_001",
+        readingPath: "/outward-reading/articles/2026/11/2026-11-18_001.reading.html",
+        source: "The Guardian"
+      },
+      {
         title: "一场让黄仁勋重回英伟达CEO之位的运动",
         publishDate: "2026-11-17",
         fileKey: "2026-11-17_001",

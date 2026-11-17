@@ -1,0 +1,72 @@
+{
+ "date": "2026-11-18",
+ "title_tag": "亚马逊云成以军“人脸识别军火库”？350万张巴勒斯坦人照片被上传分析 —— 英国《卫报》外刊讲解第1232天",
+ "h1": "亚马逊云成以军“人脸识别军火库”？350万张巴勒斯坦人照片被上传分析",
+ "source_label": "The Guardian",
+ "category": "英国《卫报》外刊讲解 第1232天",
+ "read_minutes": 10,
+ "nav_hint": "Israel uploaded millions of photos to Amazon's facial recognition platform",
+ "audio": false,
+ "headline": {
+  "en_html": "Israel uploaded millions of photos to Amazon's facial recognition platform to track Palestinians",
+  "zh": "亚马逊云成以军“人脸识别军火库”？350万张巴勒斯坦人照片被上传分析",
+  "notes": []
+ },
+ "paragraphs": [
+  {
+   "en_html": "The Israeli military uploaded 3.5m photos to Amazon’s cloud platform in order to use the US company’s facial recognition technology to analyse images of Palestinians, the Guardian can reveal. Leaked documents show the expansive catalogue of images was moved into Amazon’s cloud in the early months of Israel’s devastating aerial bombardment and ground offensive in Gaza. The images were uploaded by a department of the Israeli military that holds a vast collection of photos covering the Palestinian populations in Gaza and the West Bank.",
+   "zh": "",
+   "notes": []
+  },
+  {
+   "en_html": "After Israel’s ground invasion of Gaza in October 2023, its military routinely collected images of Palestinians as they passed through checkpoints, often after they had been forcibly displaced by the bombing campaign. It’s not clear whether the 3.5m images uploaded to Amazon’s Rekognition were captured at these checkpoints, which effectively served as pop-up surveillance posts. However, a military source familiar with facial recognition efforts at the checkpoints said Amazon’s cloud infrastructure was used due to the “very large scale” of images collected at the sites.",
+   "zh": "",
+   "notes": []
+  },
+  {
+   "en_html": "Israel has long used facial recognition technology, particularly in its occupation of the West Bank. Face scanning is routine at checkpoints, while Israeli soldiers use custom-built smartphone apps to collect images of people living in the Palestinian territory. Sources familiar with its work said the images were routinely used for facial recognition programmes. These include Blue Wolf, a smartphone app Israeli soldiers use in the West Bank to scan Palestinians’ faces and access information about them, including whether they’ve been flagged as suspects for arrest. The New York Times has previously reported how the military experimented with commercially available technology in Gaza to detect faces in crowds and in drone footage, at times wrongly flagging civilians as militants.",
+   "zh": "",
+   "notes": []
+  },
+  {
+   "en_html": "In early 2024, a small group of Israeli soldiers worked from AWS’s offices in Tel Aviv, located on the 28th floor of one of Israel’s tallest skyscrapers. The soldiers were exploring ways to use the company’s cloud infrastructure to more effectively operate a facial recognition programme underway in Gaza, several military sources said. It’s not clear whether their work was made operational or if it related to the 3.5m images uploaded to Rekognition. The presence of the group at AWS’s offices, however, underscores the close relationship between the Israeli military and the cloud provider.",
+   "zh": "",
+   "notes": []
+  },
+  {
+   "en_html": "The foundation of Israel’s relationship with Amazon is a sweeping 2021 contract known as Project Nimbus. Under the multibillion dollar deal, AWS and Google provide cloud services to a wide range of government and military clients. The Guardian revealed last year that the Nimbus contract contains unusual terms that prohibit the US companies from restricting or suspending Israeli government and military use of their cloud services, even if Israel breaches their terms of service. This would prevent the kind of unilateral action taken by Microsoft last year when it disabled the Israeli military’s access to technology used to operate a mass surveillance system uncovered by the Guardian and +972 Magazine.",
+   "zh": "",
+   "notes": []
+  },
+  {
+   "en_html": "A central component of the Nimbus contract, files show, was an obligation on AWS to provide the Israeli military with access to a segregated area within its Tel Aviv datacentres, fortified with enhanced digital and physical security measures. This isolated area within the AWS cloud – used to store sensitive material relating to military operations and intelligence collection – was described by the company and its client as a “walled garden”.",
+   "zh": "",
+   "notes": []
+  },
+  {
+   "en_html": "Files show the department migrated significant volumes of the data it holds into the so-called “walled garden” in AWS’s cloud throughout 2023. A military source involved in this effort said it had planned to move all of its databases from the military servers into AWS’s cloud. The source, who spoke on the condition of anonymity, said: “The plan at Rolling Stone was to migrate pictures, videos, all the confidential intelligence information – everything.” As a result of Israel’s control of the population registries covering Gaza and the West Bank, the Rolling Stone department has amassed millions of Palestinians’ photographs taken for the identity cards issued to every resident when they turn 16 years old.",
+   "zh": "",
+   "notes": []
+  },
+  {
+   "en_html": "In Gaza, at temporary Israeli checkpoints established after the ground invasion, cameras trained on Palestinian people were used to capture their images as they approached the sites. Facial recognition was then used to match people to images held in Rolling Stone’s systems, sources said. The checkpoints became notorious in Gaza as places where people were pulled aside and detained. Many were taken into Israeli custody and held incommunicado, amounting to enforced disappearances, according to several UN bodies and rights groups. Military insiders said the checkpoints were referred to by Israeli soldiers as Nakaz – a Hebrew word for drainage.",
+   "zh": "",
+   "notes": []
+  },
+  {
+   "en_html": "Documents suggest AWS’s cloud technology was used at times during 2024 to support the work of the checkpoints. A spokesperson for AWS said it had no “visibility” into workloads held by its customers in its cloud. They added: “We respect the privacy of our customers, and we do not discuss our relationship without their consent.”",
+   "zh": "",
+   "notes": []
+  }
+ ],
+ "proper": [],
+ "sources_note": "依据英国《卫报》（The Guardian）2026-11-18 报道。",
+ "practice": {},
+ "mindmap": {
+  "aria": "人脸识别上云 思维导图",
+  "alt": "人脸识别上云：350万张照片的监控链路",
+  "svg": "<svg viewBox=\"0 0 960 518\" xmlns=\"http://www.w3.org/2000/svg\" role=\"img\" aria-label=\"人脸识别上云 思维导图\" style=\"width:100%;height:auto;font-family:-apple-system,'PingFang SC','Hiragino Sans GB','Microsoft YaHei',sans-serif\">\n<rect x=\"24\" y=\"215\" width=\"176\" height=\"88\" rx=\"14\" fill=\"#eae3d2\" stroke=\"#9a8f76\"/>\n<text x=\"112\" y=\"251\" text-anchor=\"middle\" fill=\"#3d3a34\" font-size=\"17\" font-weight=\"700\">人脸识别上云</text>\n<text x=\"112\" y=\"277\" text-anchor=\"middle\" fill=\"#5c5648\" font-size=\"12.5\">350万张照片的监控链路</text>\n<path d=\"M200,259 C232,259 232,67 260,67\" stroke=\"#6b8f71\" stroke-width=\"2\" fill=\"none\"/>\n<path d=\"M200,259 C232,259 232,181 260,181\" stroke=\"#7d98ad\" stroke-width=\"2\" fill=\"none\"/>\n<path d=\"M200,259 C232,259 232,316 260,316\" stroke=\"#bd7a6d\" stroke-width=\"2\" fill=\"none\"/>\n<path d=\"M200,259 C232,259 232,451 260,451\" stroke=\"#9b86b3\" stroke-width=\"2\" fill=\"none\"/>\n<g class=\"mm-branch\" data-target=\"bc1\">\n<rect x=\"260\" y=\"50\" width=\"190\" height=\"34\" rx=\"8\" fill=\"#e6efe7\" stroke=\"#6b8f71\"/>\n<text x=\"355\" y=\"72\" text-anchor=\"middle\" fill=\"#4c6b52\" font-size=\"15\" font-weight=\"700\">泄密曝光（¶1-2）</text>\n<text class=\"mm-arrow\" data-for=\"bc1\" x=\"442\" y=\"72\" text-anchor=\"end\" fill=\"#4c6b52\">▾</text>\n</g>\n<g class=\"mm-children\" id=\"bc1\">\n<path d=\"M450,67 C462,67 462,46 480,46\" stroke=\"#6b8f71\" stroke-width=\"1.5\" fill=\"none\"/>\n<path d=\"M450,67 C462,67 462,88 480,88\" stroke=\"#6b8f71\" stroke-width=\"1.5\" fill=\"none\"/>\n<rect x=\"480\" y=\"30\" width=\"456\" height=\"32\" rx=\"8\" fill=\"#e6efe7\"/><text x=\"492\" y=\"51\" fill=\"#3d3a34\" font-size=\"14\">350 万张照片上传 Rekognition，分析巴勒斯坦人图像</text>\n<rect x=\"480\" y=\"72\" width=\"456\" height=\"32\" rx=\"8\" fill=\"#e6efe7\"/><text x=\"492\" y=\"93\" fill=\"#3d3a34\" font-size=\"14\">入侵后检查站成临时监控点，采集规模大到须借亚马逊云</text>\n</g>\n<g class=\"mm-branch\" data-target=\"bc2\">\n<rect x=\"260\" y=\"164\" width=\"190\" height=\"34\" rx=\"8\" fill=\"#e5edf4\" stroke=\"#7d98ad\"/>\n<text x=\"355\" y=\"186\" text-anchor=\"middle\" fill=\"#3d5872\" font-size=\"15\" font-weight=\"700\">技术积淀（¶3-4）</text>\n<text class=\"mm-arrow\" data-for=\"bc2\" x=\"442\" y=\"186\" text-anchor=\"end\" fill=\"#3d5872\">▾</text>\n</g>\n<g class=\"mm-children\" id=\"bc2\">\n<path d=\"M450,181 C462,181 462,160 480,160\" stroke=\"#7d98ad\" stroke-width=\"1.5\" fill=\"none\"/>\n<path d=\"M450,181 C462,181 462,202 480,202\" stroke=\"#7d98ad\" stroke-width=\"1.5\" fill=\"none\"/>\n<rect x=\"480\" y=\"144\" width=\"456\" height=\"32\" rx=\"8\" fill=\"#e5edf4\"/><text x=\"492\" y=\"165\" fill=\"#3d3a34\" font-size=\"14\">西岸早有 Blue Wolf 扫脸 App，可查是否被列为抓捕对象</text>\n<rect x=\"480\" y=\"186\" width=\"456\" height=\"32\" rx=\"8\" fill=\"#e5edf4\"/><text x=\"492\" y=\"207\" fill=\"#3d3a34\" font-size=\"14\">士兵进驻 AWS 特拉维夫办公室，探索更高效跑识别</text>\n</g>\n<g class=\"mm-branch\" data-target=\"bc3\">\n<rect x=\"260\" y=\"299\" width=\"190\" height=\"34\" rx=\"8\" fill=\"#f4e7e4\" stroke=\"#bd7a6d\"/>\n<text x=\"355\" y=\"321\" text-anchor=\"middle\" fill=\"#7c4a3e\" font-size=\"15\" font-weight=\"700\">合同托底（¶5-7）</text>\n<text class=\"mm-arrow\" data-for=\"bc3\" x=\"442\" y=\"321\" text-anchor=\"end\" fill=\"#7c4a3e\">▾</text>\n</g>\n<g class=\"mm-children\" id=\"bc3\">\n<path d=\"M450,316 C462,316 462,274 480,274\" stroke=\"#bd7a6d\" stroke-width=\"1.5\" fill=\"none\"/>\n<path d=\"M450,316 C462,316 462,316 480,316\" stroke=\"#bd7a6d\" stroke-width=\"1.5\" fill=\"none\"/>\n<path d=\"M450,316 C462,316 462,358 480,358\" stroke=\"#bd7a6d\" stroke-width=\"1.5\" fill=\"none\"/>\n<rect x=\"480\" y=\"258\" width=\"456\" height=\"32\" rx=\"8\" fill=\"#f4e7e4\"/><text x=\"492\" y=\"279\" fill=\"#3d3a34\" font-size=\"14\">Nimbus 合同禁止限制或中止以军方用云</text>\n<rect x=\"480\" y=\"300\" width=\"456\" height=\"32\" rx=\"8\" fill=\"#f4e7e4\"/><text x=\"492\" y=\"321\" fill=\"#3d3a34\" font-size=\"14\">专设「围墙花园」隔离区，加固存军事情报</text>\n<rect x=\"480\" y=\"342\" width=\"456\" height=\"32\" rx=\"8\" fill=\"#f4e7e4\"/><text x=\"492\" y=\"363\" fill=\"#3d3a34\" font-size=\"14\">军方可将全部数据库迁入 AWS 云</text>\n</g>\n<g class=\"mm-branch\" data-target=\"bc4\">\n<rect x=\"260\" y=\"434\" width=\"190\" height=\"34\" rx=\"8\" fill=\"#ece4f2\" stroke=\"#9b86b3\"/>\n<text x=\"355\" y=\"456\" text-anchor=\"middle\" fill=\"#5a4670\" font-size=\"15\" font-weight=\"700\">落地检查站（¶8-9）</text>\n<text class=\"mm-arrow\" data-for=\"bc4\" x=\"442\" y=\"456\" text-anchor=\"end\" fill=\"#5a4670\">▾</text>\n</g>\n<g class=\"mm-children\" id=\"bc4\">\n<path d=\"M450,451 C462,451 462,430 480,430\" stroke=\"#9b86b3\" stroke-width=\"1.5\" fill=\"none\"/>\n<path d=\"M450,451 C462,451 462,472 480,472\" stroke=\"#9b86b3\" stroke-width=\"1.5\" fill=\"none\"/>\n<rect x=\"480\" y=\"414\" width=\"456\" height=\"32\" rx=\"8\" fill=\"#ece4f2\"/><text x=\"492\" y=\"435\" fill=\"#3d3a34\" font-size=\"14\">检查站拍照与人脸库匹配，被扣者遭强迫失踪</text>\n<rect x=\"480\" y=\"456\" width=\"456\" height=\"32\" rx=\"8\" fill=\"#ece4f2\"/><text x=\"492\" y=\"477\" fill=\"#3d3a34\" font-size=\"14\">AWS 回应：对客户工作负载无「可见性」</text>\n</g>\n<text x=\"486\" y=\"128\" fill=\"#8a8578\" font-size=\"11.5\">↓ 曝光背后是多年成建制的识别积累</text>\n<text x=\"486\" y=\"242\" fill=\"#8a8578\" font-size=\"11.5\">↓ 积累能搬上云，靠合同条款扫清障碍</text>\n<text x=\"486\" y=\"398\" fill=\"#8a8578\" font-size=\"11.5\">↓ 制度加技术，最终落到检查站日常</text>\n</svg>",
+  "img": ""
+ },
+ "print_compact": true
+}
