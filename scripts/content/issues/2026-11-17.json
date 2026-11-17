@@ -6,8 +6,29 @@
  "category": "美国《华尔街日报》外刊讲解 第1231天",
  "read_minutes": 10,
  "nav_hint": "The Campaign to Bring Back Jensen Huang",
- "headline_en": "The Campaign to Bring Back Jensen Huang as Nvidia CEO",
+ "headline_en": "The Campaign to Bring Back Jensen Huang as Nvidia CEO | In open letters, phone calls and group chats, Huang’s allies are making the case that his ouster was hasty—even as legal scrutiny intensifies",
  "headline_zh": "一场让黄仁勋重回英伟达CEO之位的运动",
+ "headline_marks": [
+  ["campaign", "Campaign"],
+  ["bring back", "Bring Back"],
+  ["ally", "allies"],
+  ["make the case that", "making the case that"],
+  ["ouster", "ouster"],
+  ["hasty", "hasty"],
+  ["scrutiny", "scrutiny"],
+  ["intensify", "intensifies"]
+ ],
  "sources_note": "依据美国《华尔街日报》（The Wall Street Journal）2026-11-17 报道。",
- "marks": {}
+ "marks": {
+  "3": [["hold on to hope", "holding on to hope"]],
+  "4": [["step down", "stepped down"]],
+  "5": [["suspect sb of doing sth", "suspect Alice Huang of"]],
+  "6": [["be of concern", "was of concern"], ["take down", "taken down"]],
+  "7": [["call for", "called for"], ["a culture of noncompliance", "culture of noncompliance"]]
+ },
+ "mindmap": {
+  "outline": "scripts/content/outlines/2026-11-17.json",
+  "template": "scripts/content/2026-11-16.json",
+  "aria": "黄仁勋去留 思维导图"
+ }
 }

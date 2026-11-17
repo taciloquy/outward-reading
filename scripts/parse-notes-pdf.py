@@ -513,6 +513,45 @@ def run(pdf, proper_mark, practice_mark, drop):
             i += 1
             continue
         if m and not CJK.search(m.group(2)[:2]):
+            n_int = int(m.group(1))
+            prev = next((pp for pp in paras if pp['n'] == n_int), None)
+            if prev is not None:
+                # 编号重复 = 跨页续文，不是新段。译文块以英文专名开头（如
+                # 「7. Bessent 在福克斯新闻…」）会漏过 zh 探测的 CJK[:6] 检查，
+                # 落到这里当成新编号段；按内容语言归并回既有段。
+                if CJK.search(m.group(2)):
+                    prev['zh'] += re.sub(r'\s+', '', m.group(2))
+                    i += 1
+                    while i < para_end:
+                        if clean[i].strip() == '@@PAGE@@':
+                            j = i + 1
+                            while j < para_end and (clean[j].strip() == '@@PAGE@@'
+                                                    or not clean[j].strip()):
+                                j += 1
+                            nxt = clean[j].strip() if j < para_end else ''
+                            probe = re.sub(r'^\d+\.\s*', '', nxt)
+                            if (probe and not nxt.startswith('【')
+                                    and CJK.search(probe[:6])):
+                                clean[j] = probe
+                                i = j
+                                continue
+                            break
+                        s = clean[i].strip()
+                        if s and (s.startswith('【') or re.match(r'^\d+\.\s+', s)):
+                            break
+                        if s:
+                            prev['zh'] += re.sub(r'\s+', '', s)
+                        i += 1
+                else:
+                    seg = [m.group(2)]
+                    i += 1
+                    while (i < para_end and clean[i] != '@@PAGE@@'
+                           and not CJK.search(clean[i])):
+                        seg.append(clean[i].strip())
+                        i += 1
+                    prev['en'] = re.sub(r'\s+', ' ',
+                                        prev['en'] + ' ' + ' '.join(seg)).strip()
+                continue
             cur = 'p' + m.group(1)
             pool.setdefault(cur, [])
             en = [m.group(2)]
@@ -588,6 +627,12 @@ def run(pdf, proper_mark, practice_mark, drop):
             continue
         if cur_p:
             cur_p['def'] += t
+
+    # 20261117 版式：PDF 文本层把「简要介绍：」「本文中的意思：」各印了两遍
+    # （重叠文字层），此处折叠重复标签，避免页面上出现「简要介绍：简要介绍：」。
+    for p in proper:
+        p['def'] = re.sub(r'(简要介绍：)\1+', r'\1', p['def'])
+        p['def'] = re.sub(r'(本文中的意思：)\1+', r'\1', p['def'])
 
     # 练习 + 答案
     # 题干与答案都会折行（中文一行约 35 字、英文约 75 字符），

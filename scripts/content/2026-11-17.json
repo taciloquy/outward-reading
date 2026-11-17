@@ -6,61 +6,846 @@
  "category": "美国《华尔街日报》外刊讲解 第1231天",
  "read_minutes": 10,
  "nav_hint": "The Campaign to Bring Back Jensen Huang",
- "audio": false,
  "headline": {
-  "en_html": "The Campaign to Bring Back Jensen Huang as Nvidia CEO",
+  "en_html": "<span>The <mark class=\"voc\">Campaign</mark> to <mark class=\"voc\">Bring Back</mark> Jensen Huang as Nvidia CEO</span><span class=\"headline-sub\">In open letters, phone calls and group chats, Huang’s <mark class=\"voc\">allies</mark> are <mark class=\"voc\">making the case that</mark> his <mark class=\"voc\">ouster</mark> was <mark class=\"voc\">hasty</mark>—even as legal <mark class=\"voc\">scrutiny</mark> <mark class=\"voc\">intensifies</mark></span>",
   "zh": "一场让黄仁勋重回英伟达CEO之位的运动",
-  "notes": []
+  "notes": [
+   {
+    "w": "campaign",
+    "ipa": "/kæmˈpeɪn/",
+    "pos": "n.",
+    "en": "campaign (n.) means a series of planned activities intended to achieve a particular aim",
+    "zh": "“战役”（源自拉丁语campus，意为田野、平地——古罗马在开阔平地上排兵布阵，一连串有组织、有目标的军事行动，即一个campaign），引申语境核心义为运动、攻势、有组织的行动",
+    "ctx": "作者不用plan 或movement，偏用 campaign——它把“捞黄仁勋回来”写成一场要打赢的仗，既点出“有组织、有策略”，又自带一股“战役”的狠劲。标题的力度全在这一个词里",
+    "ex1": "They launched a campaign to raise money for the school.他们发起了一场为学校筹款的活动。",
+    "ex2": "The presidential campaign will run for nearly two years.这场总统竞选将持续近两年。"
+   },
+   {
+    "w": "bring back",
+    "ipa": "/brɪŋ bæk/",
+    "pos": "phrasal v.",
+    "en": "bring back (phrasal v.) means to cause someone or something to return",
+    "zh": "“带回来”（bring 带来+ back 回），复职语境核心义为使回归、让……回来",
+    "ctx": "bring back 前接campaign——把一个已被赶走的人重新拽回原位，词虽简单，却藏满不甘与执着",
+    "ex1": "The fans campaigned to bring back the manager they loved.球迷们发起运动，想让他们喜爱的主教练回归。",
+    "ex2": "The policy was meant to bring back jobs to the region.这项政策旨在把就业岗位带回该地区。"
+   },
+   {
+    "w": "ally",
+    "ipa": "/ˈælaɪ/",
+    "pos": "n.",
+    "en": "ally (n.) means a person or country that helps and supports you, especially in a war or argument",
+    "zh": "“战争中的盟国”（二战中英美苏即the Allies 同盟国），关系语境核心义为盟友、同盟者",
+    "ctx": "作者不用supporters 或friends，偏用allies——它把这场请愿抬到“战争”高度，这些人不是随口表态的支持者，而是并肩作战的战友。与标题的 campaign 共用一套“战争”比喻",
+    "ex1": "The two countries have been close allies for decades. 这两个国家几十年来一直是亲密盟友。",
+    "ex2": "She relied on her political allies to push the bill through. 她依靠政治盟友推动法案通过。"
+   },
+   {
+    "w": "make the case that",
+    "ipa": "/meɪk ðə keɪs ðæt/",
+    "pos": "phrase",
+    "en": "make the case (that) means to give reasons why you think something is right or should be done",
+    "zh": "“摆出理由”（case 在此不是箱子也不是案件，而是“论点、理由”），论证语境核心义为论证、主张、摆出道理",
+    "ctx": "强调一种“论证的认真劲儿”——不是随口说说，而是有逻辑、有理由地主张。职场、写作想有理有据表达观点，就用它",
+    "ex1": "The report makes the case that remote work boosts productivity.这份报告论证了远程办公能提高效率。",
+    "ex2": "She made a strong case for changing the rules.她有力地论证了应该修改规则。"
+   },
+   {
+    "w": "ouster",
+    "ipa": "/ˈaʊstə/",
+    "pos": "n.",
+    "en": "ouster (n.) means the act of removing someone from a position of power or authority",
+    "zh": "“驱逐、赶下台”（源自动词oust，本义驱逐、罢黜），权力语境核心义为强行罢免、赶下台",
+    "ctx": "与fire（口语、最随意）、dismissal（正式、中性）、 removal（撤职）相比，ouster 自带“强行、粗暴”的劲儿，暗示下台不体面、背后有斗争。作者一上来就用它，态度已经埋下",
+    "ex1": "The board faced calls for the CEO's ouster after the scandal. 丑闻之后，董事会面临罢免CEO 的呼声。",
+    "ex2": "His ouster came as a shock to employees who admired him. 他的被罢免让敬重他的员工们深感震惊。"
+   },
+   {
+    "w": "hasty",
+    "ipa": "/ˈheɪsti/",
+    "pos": "adj.",
+    "en": "hasty (adj.) means done too quickly, without enough thought",
+    "zh": "“匆忙造成的”（词根haste 匆忙、仓促+ -y 变形容词），评价语境核心义为草率的、仓促的",
+    "ctx": "与quick（只是“快”）不同，hasty 是“快得过头、快出了毛病”，略带批评。它与第4 段支持派说的deliberate（审慎）正好是一对反义词，是作者的“态度关键词”",
+    "ex1": "Don't make a hasty decision you'll regret later.别做会让你日后后悔的草率决定。",
+    "ex2": "Critics accused the board of a hasty rush to judgment.批评者指责董事会草率地急于下结论。"
+   },
+   {
+    "w": "scrutiny",
+    "ipa": "/ˈskruːtəni/",
+    "pos": "n.",
+    "en": "scrutiny (n.) means careful and thorough examination",
+    "zh": "“在垃圾堆里翻找”（源自拉丁语scrutari，本义翻寻、仔细查找），审查语境核心义为审查、细查、检视",
+    "ctx": "比check（核对）、review（复盘）狠得多——它是“翻个底朝天”的彻底检查。全文反复出现，是压住“挺黄派”的那根“法律之弦”",
+    "ex1": "The company's finances are under scrutiny. 这家公司的财务正被审查。",
+    "ex2": "His business dealings came under public scrutiny. 他的商业往来受到了公众的审视。"
+   },
+   {
+    "w": "intensify",
+    "ipa": "/ɪnˈtensɪfaɪ/",
+    "pos": "v.",
+    "en": "intensify (v.) means to become stronger or more extreme",
+    "zh": "“使变强烈”（intense 强烈的+ -ify 使……化），程度语境核心义为加剧、强化、升级",
+    "ctx": "legal scrutiny intensifies——审查步步升级。名词intensity（强度）、形容词intense（强烈的）同根",
+    "ex1": "The government promised to intensify its crackdown on smuggling. 政府承诺加大打击走私的力度。",
+    "ex2": "As the deadline neared, pressure on the board intensified. 随着最后期限临近，董事会的压力越来越大。"
+   }
+  ]
  },
  "paragraphs": [
   {
-   "en_html": "Amjad Masad was recording a promotional video for his AI company on Friday afternoon when he got an urgent text: Could he help the campaign to get Jensen Huang his job back? An Nvidia employee had used Masad’s service, Replit, to build a website where anyone could sign an open letter demanding that Nvidia’s board, which ousted Huang as chief executive last week, reinstate him. The “Stand With Jensen” website was struggling under the load of traffic it was receiving. Masad inspected the website’s code and found that the petition was limited to 200 signatures a minute—far below the rate of submissions it was seeing. He lifted the cap and added a Captcha to limit bots, among other fixes.",
-   "zh": "",
-   "notes": []
+   "en_html": "Amjad Masad was recording a <mark class=\"voc\">promotional video</mark> for his AI company on Friday afternoon when he got an <mark class=\"voc\">urgent</mark> text: Could he help the campaign to get Jensen Huang his job back? An Nvidia employee had used Masad’s service, Replit, to build a website where anyone could sign an <mark class=\"voc\">open letter</mark> demanding that Nvidia’s board, which ousted Huang as chief executive last week, <mark class=\"voc\">reinstate</mark> him. The “Stand With Jensen” website was struggling under the load of <mark class=\"voc\">traffic</mark> it was receiving. Masad inspected the website’s code and found that the <mark class=\"voc\">petition</mark> was limited to 200 signatures a minute—far below the rate of submissions it was seeing. He lifted the <mark class=\"voc\">cap</mark> and added a <mark class=\"voc\">Captcha</mark> to limit bots, among other fixes.",
+   "zh": "周五下午，AmjadMasad正在为他的AI公司录制宣传视频，突然收到一条紧急短信：能不能帮帮忙，把黄仁勋的工作弄回来？原来，一名英伟达员工用Masad的Replit服务搭了个网站，任何人都能在上面签署一封公开信，要求上周罢免了黄仁勋CEO职务的董事会让他复职。这个名叫“StandWithJensen”的网站，正在汹涌而来的访问量下苦苦支撑。Masad检查了网站代码，发现请愿被限制在每分钟200个签名，远低于它实际收到的提交速率。于是他取消了上限，又加了验证码挡机器人，另外还顺手修了一堆东西。",
+   "notes": [
+    {
+     "w": "promotional video",
+     "ipa": "/prəˈməʊʃənl ˈvɪdiəʊ/",
+     "pos": "n. phrase",
+     "en": "a promotional video is a short film made to advertise or publicise a product, service or company",
+     "zh": "“宣传视频”（promotion 推广、宣传+ -al），营销语境核心义为宣传片、推广视频",
+     "ctx": "Masad 正在给自己的AI 公司录宣传片——一个“正在忙自家事”的平常下午，被一条短信打断。这个铺垫让故事更有戏剧性",
+     "ex1": "The start-up released a promotional video ahead of its launch. 这家初创公司在发布前放出了一支宣传片。",
+     "ex2": "They shot a promotional video for the new product line. 他们为新产品线拍了一支宣传视频。"
+    },
+    {
+     "w": "urgent",
+     "ipa": "/ˈɜːdʒənt/",
+     "pos": "adj.",
+     "en": "urgent (adj.) means needing immediate attention or action",
+     "zh": "“急迫的、催逼的”（词根urge 敦促、催逼），时间语境核心义为紧急的、迫切的",
+     "ctx": "an urgent text 紧急短信——一条短信把正在录视频的Masad 拽进这场风波",
+     "ex1": "She sent an urgent message asking for help. 她发来一条紧急信息求助。",
+     "ex2": "The patient was rushed to urgent care. 这名病人被紧急送往急诊。"
+    },
+    {
+     "w": "open letter",
+     "ipa": "/ˈəʊpən ˈletə/",
+     "pos": "n.",
+     "en": "an open letter is a letter published in the press or online, addressed to someone but intended for the public to read",
+     "zh": "“公开信”（open 公开的 + letter 信），舆论语境核心义为公开信",
+     "ctx": "不是私下写信，而是公开站出来表态。名人、学者、员工群体想公开施压时，就写公开信、数百上千人联名，挂在网上或登报——它是“公开表态+ 集体施压”的工具",
+     "ex1": "Hundreds of employees signed an open letter to management. 数百名员工联名签署了一封致管理层的公开信。",
+     "ex2": "The scientists published an open letter warning of the risks. 科学家们发表了一封公开信，警示其中的风险。"
+    },
+    {
+     "w": "reinstate",
+     "ipa": "/ˌriːɪnˈsteɪt/",
+     "pos": "v.",
+     "en": "reinstate (v.) means to give someone back the job or position they had before",
+     "zh": "“重新放回原位”（re- 重新+ in- 进入+ state 状态、位置），人事语境核心义为使复职、恢复……的职位",
+     "ctx": "本文王牌词。它与副标题的 ouster 正好一上一下——ouster 是“轰下台”，reinstate 是“放回原位”，前后照应。拆词就懂：把一个人重新放回他原来的位置",
+     "ex1": "He was reinstated after the investigation cleared him. 调查证明他清白之后，他复职了。",
+     "ex2": "The court ordered the company to reinstate the dismissed workers. 法院命令该公司恢复被解雇员工的职位。"
+    },
+    {
+     "w": "traffic",
+     "ipa": "/ˈtræfɪk/",
+     "pos": "n.",
+     "en": "traffic (n.) means the number of people who visit or use a website",
+     "zh": "“交通、往来”（本指道路上的车流人流），网络语境核心义为流量、访问量",
+     "ctx": "熟词僻义，考试爱考。不是“堵车”的交通，是“访问网站的人有多少”。 traffic 重＝访问的人太多，把网站挤爆",
+     "ex1": "The campaign drove a huge surge in traffic to the site. 这场运动让网站流量激增。",
+     "ex2": "Heavy traffic crashed the server for several hours. 巨大的流量让服务器瘫痪了好几个小时。"
+    },
+    {
+     "w": "petition",
+     "ipa": "/pəˈtɪʃn/",
+     "pos": "n.",
+     "en": "petition (n.) means a formal written request signed by many people, asking an authority to do something",
+     "zh": "“请愿书、请愿”（源自拉丁语petere 寻求、请求），施压语境核心义为请愿书、联名请愿",
+     "ctx": "与open letter 是一套——都是集体施压工具。这里指网站上的“签名请愿”功能，当时一分钟限签200 个",
+     "ex1": "More than a hundred thousand people signed the petition. 超过十万人签署了这份请愿书。",
+     "ex2": "They launched a petition demanding the CEO be reinstated. 他们发起请愿，要求让CEO 复职。"
+    },
+    {
+     "w": "cap",
+     "ipa": "/kæp/",
+     "pos": "n. & v.",
+     "en": "cap (n.) means an upper limit on the amount of something; cap (v.) means to set such a limit",
+     "zh": "“帽子”（头顶那顶帽正好卡在脑袋最顶上，引申为“最高的那个限制”），限制语境核心义为上限；给……设上限",
+     "ctx": "熟词僻义。lift the cap 即把“上限”这个盖子掀了、取消。NBA 的 salary cap（工资帽）、price cap（价格上限）同此用法",
+     "ex1": "The government imposed a cap on fuel prices. 政府对燃油价格设了上限。",
+     "ex2": "The league lifted the cap on foreign players last season. 联盟上个赛季取消了外援名额上限。"
+    },
+    {
+     "w": "Captcha",
+     "ipa": "/ˈkæptʃə/",
+     "pos": "n.",
+     "en": "Captcha (n.) means a test used on websites to check that the user is a human and not a computer program",
+     "zh": "“验证码”（全称Completely Automated Public Turing test to tell Computers and Humans Apart——“完全自动化的、区分人与机器的公共图灵测试”）",
+     "ctx": "网站太火会有bots（机器人）自动刷签名，加验证码挡住假签名，让真人的签名是真的",
+     "ex1": "You need to complete a Captcha before signing up.注册前你需要完成一个验证码。",
+     "ex2": "The site added a Captcha to block automated sign-ups.该网站加了验证码来拦截自动注册。"
+    }
+   ]
   },
   {
-   "en_html": "As of Sunday afternoon, the petition had 106,000 names, including confirmed signatures from Masad, Uber co-founder Travis Kalanick, tech investor Gavin Baker, Shopify CEO Tobias Lutke and Epic Games CEO Tim Sweeney. Some people, including prominent Nvidia employees, said their names appeared but that they hadn’t signed the petition.",
-   "zh": "",
-   "notes": []
+   "en_html": "As of Sunday afternoon, the petition had 106,000 names, including <mark class=\"voc\">confirmed signatures</mark> from Masad, Uber co-founder Travis Kalanick, tech investor Gavin Baker, Shopify CEO Tobias Lutke and Epic Games CEO Tim Sweeney. Some people, including <mark class=\"voc\">prominent</mark> Nvidia employees, said their names appeared but that they hadn’t signed the petition.",
+   "zh": "截至周日下午，这份请愿书已经集了10.6万个名字，其中包括马斯德本人、Uber联合创始人特拉维斯·卡兰尼克、科技投资人加文·贝克、Shopify首席执行官托比亚斯·卢特克，以及EpicGames首席执行官蒂姆·斯威尼等人的确认签名。但也有一些，包括英伟达内部一些知名员工，表示，自己的名字虽然出现在了请愿书上，本人却并没有签过。",
+   "notes": [
+    {
+     "w": "confirmed signature",
+     "ipa": "/kənˈfɜːmd ˈsɪɡnətʃə/",
+     "pos": "n. phrase",
+     "en": "a confirmed signature is a signature that has been checked and verified as genuine",
+     "zh": "“已确认的签名”（confirm 确认+ signature 签名），语境核心义为经过核实的签名",
+     "ctx": "强调“已确认”，是因为这份请愿书里有“假签名”——有人被冒名顶替",
+     "ex1": "The petition included thousands of confirmed signatures. 这份请愿书包含数千个已确认的签名。",
+     "ex2": "Officials confirmed the signatures were genuine. 官员确认这些签名是真实的。"
+    },
+    {
+     "w": "prominent",
+     "ipa": "/ˈprɒmɪnənt/",
+     "pos": "adj.",
+     "en": "prominent (adj.) means important and well-known",
+     "zh": "“突出的、显著的”（pro- 向前+ minere 突出），人物语境核心义为知名的、显赫的、有头有脸的",
+     "ctx": "prominent Nvidia employees——英伟达内部有头有脸的员工。这些人被冒签，说明这场“捞人”的水分不小",
+     "ex1": "Several prominent investors backed the new fund. 几位知名投资人为这只新基金背书。",
+     "ex2": "She played a prominent role in the negotiations. 她在谈判中扮演了重要角色。"
+    }
+   ]
   },
   {
-   "en_html": "Across Silicon Valley, a constellation of Huang’s peers, employees and investors are holding on to hope he could regain his position atop the chip maker—even as official scrutiny of his role in providing powerful artificial-intelligence chips to China intensifies. On Sunday, Treasury Secretary Scott Bessent urged Nvidia’s board to bring in an outside candidate as CEO: “Just what was going on inside the company, they need a dramatic shake-up,” he said on Fox News.",
-   "zh": "",
-   "notes": []
+   "en_html": "Across Silicon Valley, <mark class=\"voc\">a constellation of</mark> Huang’s <mark class=\"voc\">peers</mark>, employees and investors are <mark class=\"voc\">holding on to hope</mark> he could <mark class=\"voc\">regain</mark> his position <mark class=\"voc\">atop</mark> the chip maker—even as official scrutiny of his role in providing powerful artificial-intelligence chips to China intensifies. On Sunday, Treasury Secretary Scott Bessent <mark class=\"voc\">urged</mark> Nvidia’s board to bring in an outside candidate as CEO: “Just what was going on inside the company, they need <mark class=\"voc\">a dramatic shake-up</mark>,” he said on Fox News.",
+   "zh": "在整个硅谷，黄仁勋的同行、员工与投资人们，如同一片璀璨的星群，正抱着一线希望，盼他能重回这家芯片巨头的最高位，即便与此同时，官方对他向中国供应强大AI芯片一事的审查正在步步升级。周日，财政部长斯科特·贝森特敦促英伟达董事会引入一位外部候选人出任CEO：“公司内部到底在发生什么？他们需要一场彻底的洗牌。”他在福克斯新闻上如是说。",
+   "notes": [
+    {
+     "w": "a constellation of",
+     "ipa": "/ˌkɒnstəˈleɪʃn əv/",
+     "pos": "n. phrase",
+     "en": "a constellation of people means a group of people who are all notable or important in the same field",
+     "zh": "“星座、星群”（con- 一起+ stella 拉丁语“星星”），比喻语境核心义为一群璀璨出众的人",
+     "ctx": "作者不用a group of 或a bunch of，偏用a constellation of——把支持黄仁勋的这群大佬比作夜空里的星星，每一个都发光、都咖位不小。词根stella＝星，一串词带走：stellar 杰出的、interstellar 星际的、Stella 女孩名“星星”",
+     "ex1": "The conference drew a constellation of tech leaders. 这次大会云集了一群科技界领军人物。",
+     "ex2": "She has built a constellation of talent around her. 她在身边聚拢了一群才华横溢的人。"
+    },
+    {
+     "w": "peers",
+     "ipa": "/pɪəz/",
+     "pos": "n. (pl.)",
+     "en": "peers (n.) means people who are of the same age, status or ability as you",
+     "zh": "“同等的人”（源自拉丁语par 相等，与pair、equal 同源），人际语境核心义为同行、同辈、同级的人",
+     "ctx": "Huang's peers——黄仁勋的同行，即和他同一级别的科技圈大佬",
+     "ex1": "She is highly respected among her peers.她在同行中备受尊敬。",
+     "ex2": "The results will be judged by a panel of peers.结果将由一个同行评审小组来评定。"
+    },
+    {
+     "w": "hold on to hope",
+     "ipa": "/həʊld ɒn tə həʊp/",
+     "pos": "phrase",
+     "en": "to hold on to hope means to continue to hope, especially when the situation is difficult",
+     "zh": "“紧紧抓住不松手”（hold on to 抓紧），情感语境核心义为抱着一线希望、不放弃希望",
+     "ctx": "画面是溺水者抓住稻草死都不放——这些人不是轻松地“希望他回来”，而是“死死攥着那点希望不撒手”，说明他们心里清楚这事悬得很",
+     "ex1": "Even after the setback, they held on to hope. 即便遭受挫折，他们仍抱着一线希望。",
+     "ex2": "She held on to the hope that things would improve. 她抱着事情会好转的希望。"
+    },
+    {
+     "w": "regain",
+     "ipa": "/rɪˈɡeɪn/",
+     "pos": "v.",
+     "en": "regain (v.) means to get back something you lost or no longer had",
+     "zh": "“重新获得”（re- 重新+ gain 获得），人事语境核心义为重获、收复、重新赢得",
+     "ctx": "用regain 而非gain，本身就暗示——这个位置他原来有，丢了，现在要拿回来。一个re-，把“失而复得”的意思全装进去了",
+     "ex1": "The party hopes to regain power in the next election. 该党希望在下次选举中重掌权力。",
+     "ex2": "It took him months to regain his confidence. 他花了好几个月才重拾信心。"
+    },
+    {
+     "w": "atop",
+     "ipa": "/əˈtɒp/",
+     "pos": "prep.",
+     "en": "atop (prep.) means on top of",
+     "zh": "“在……顶上”（a- + top），位置语境核心义为在……的最高处",
+     "ctx": "atop the chip maker——在这家芯片制造商的最高处。the chip maker 即英伟达，作者用“芯片制造商”换称，避免重复提Nvidia",
+     "ex1": "The company stands atop the global chip market. 这家公司站在全球芯片市场的顶端。",
+     "ex2": "Her name was atop the list of candidates. 她的名字排在候选人名单的首位。"
+    },
+    {
+     "w": "urge",
+     "ipa": "/ɜːdʒ/",
+     "pos": "v.",
+     "en": "urge (v.) means to strongly advise or try to persuade someone to do something",
+     "zh": "“催逼、力劝”（词根urgere 推、驱赶），施压语境核心义为敦促、力劝、强烈呼吁",
+     "ctx": "比ask 强硬，比force 温和——是“强烈建议、反复劝”。urged the board to bring in an outside candidate 敦促董事会从外面找人",
+     "ex1": "Doctors urge people to get vaccinated early. 医生敦促人们尽早接种疫苗。",
+     "ex2": "The minister urged the board to act quickly. 部长敦促董事会迅速采取行动。"
+    },
+    {
+     "w": "a dramatic shake-up",
+     "ipa": "/ə drəˈmætɪk ˈʃeɪk ʌp/",
+     "pos": "n. phrase",
+     "en": "a shake-up is a major change or reorganisation, especially in a company or organisation",
+     "zh": "“用力摇晃、重新排列”（shake 摇+ up，画面是使劲摇一个罐子，里面的东西哐当全部打乱重排），变革语境核心义为大改组、大洗牌",
+     "ctx": "dramatic 强调“剧烈的、伤筋动骨的”。财长的意思——英伟达现在这个班子不能留了，得彻底换血、重头再来",
+     "ex1": "The company announced a major management shake-up. 公司宣布了一次重大管理层改组。",
+     "ex2": "The scandal led to a shake-up at the top. 这场丑闻导致了高层的大洗牌。"
+    }
+   ]
   },
   {
-   "en_html": "In the days since Huang stepped down following reports of affairs with two women, well-known tech CEOs and investors have registered their continued support for him—in public social-media posts and in private phone calls. In a Friday open letter, Baker and Altimeter Capital CEO Brad Gerstner said Huang “has earned the right for a deliberate process that avoids any needless rush to replace him before all the facts are known.” On Friday Nvidia’s board released a statement saying it was hiring an executive search firm and hadn’t yet engaged any potential candidates.",
-   "zh": "",
-   "notes": []
+   "en_html": "In the days since Huang <mark class=\"voc\">stepped down</mark> following reports of affairs with two women, well-known tech CEOs and investors have <mark class=\"voc\">registered</mark> their continued support for him—in public social-media posts and in private phone calls. In a Friday open letter, Baker and Altimeter Capital CEO Brad Gerstner said Huang “has earned the right for a <mark class=\"voc\">deliberate</mark> process that avoids any <mark class=\"voc\">needless rush</mark> to replace him before all the facts are known.” On Friday Nvidia’s board released a statement saying it was hiring an <mark class=\"voc\">executive search firm</mark> and hadn’t yet <mark class=\"voc\">engaged</mark> any potential candidates.",
+   "zh": "在黄仁勋因与两名女性的婚外情报道而下台之后的这些天里，知名的科技公司CEO和投资人们纷纷表达了对他的持续支持，既在公开的社交媒体上发帖，也在私下的电话里表态。在周五的一封公开信中，贝克与AltimeterCapital的CEO布拉德·格斯特纳写道，黄仁勋“有权得到一个审慎的程序，避免在全部事实水落石出之前，就仓促地把他替换掉”。周五，英伟达董事会发布声明称，正在聘请一家高管猎头公司，并且尚未接触任何潜在候选人。",
+   "notes": [
+    {
+     "w": "step down",
+     "ipa": "/step daʊn/",
+     "pos": "phrasal v.",
+     "en": "step down (phrasal v.) means to leave an important job or position",
+     "zh": "“走下来”（step 迈步+ down 向下），人事语境核心义为下台、辞职",
+     "ctx": "与ousted（被罢免、被动、不体面）是一对——step down 是“主动走下来、体面”。公司新闻几乎永远说he stepped down 而非“他被炒了”，这叫委婉语euphemism。看到step down，要多个心眼：这人八成是被迫的",
+     "ex1": "The chairman announced he would step down at the end of the year. 董事长宣布将在年底卸任。",
+     "ex2": "She stepped down as CEO after ten years. 她在任职十年后辞去了CEO 一职。"
+    },
+    {
+     "w": "register",
+     "ipa": "/ˈredʒɪstə/",
+     "pos": "v.",
+     "en": "register (v.) means to make your opinion or feeling known officially or publicly",
+     "zh": "“登记、注册”（re- 回+ gerere 记载），表达语境核心义为正式地、公开地表达",
+     "ctx": "熟词僻义。register their support 不是“登记支持”，而是“郑重其事地、摆到台面上地表达支持”。比say、express 多一层“正式、公开”的分量",
+     "ex1": "Investors registered their concern over the deal. 投资者对这笔交易表达了担忧。",
+     "ex2": "Several countries registered a formal protest. 多个国家提出了正式抗议。"
+    },
+    {
+     "w": "deliberate",
+     "ipa": "/dɪˈlɪbərət/",
+     "pos": "adj.",
+     "en": "deliberate (adj.) means done slowly and carefully, after thinking about it",
+     "zh": "“掂量过的、深思熟虑的”（de- 加强+ libra 拉丁语“天平”→ 反复称量），态度语境核心义为审慎的、从容的",
+     "ctx": "与副标题的hasty（草率）正好是一对反义词——一个是“太急”，一个是“慢慢来”。作者一个hasty、一个deliberate，把“别急着下结论”的立场讲得明明白白",
+     "ex1": "We need to take a deliberate approach to this problem. 我们需要以审慎的态度处理这个问题。",
+     "ex2": "It was a deliberate decision, not a rushed one. 这是一个深思熟虑的决定，而非仓促之举。"
+    },
+    {
+     "w": "needless rush",
+     "ipa": "/ˈniːdləs rʌʃ/",
+     "pos": "n. phrase",
+     "en": "a needless rush is an unnecessary or avoidable hurry",
+     "zh": "“不必要的仓促”（need 需要+ -less 无+ rush 匆忙），评价语境核心义为不必要的仓促、没必要的赶",
+     "ctx": "needless rush 与前面的deliberate 是同一意思的反复强调——“别急、别慌、慢慢来”。rush 在此做名词“仓促”",
+     "ex1": "There is no needless rush to replace him before the facts are clear. 在事实查清之前，没有必要急着替换他。",
+     "ex2": "A needless rush to judgment only makes things worse. 不必要的仓促下结论只会让事情更糟。"
+    },
+    {
+     "w": "executive search firm",
+     "ipa": "/ɪɡˈzekjətɪv sɜːtʃ fɜːm/",
+     "pos": "n. phrase",
+     "en": "an executive search firm is a company that helps organisations find senior staff, especially executives",
+     "zh": "“高管搜寻公司”（executive 高管+ search 搜寻+ firm 公司），人事语境核心义为猎头公司",
+     "ctx": "说人话就是“猎头公司”，专门帮大公司挖高管。董事会请猎头，意思再明白不过——已经开始找黄仁勋的接班人了",
+     "ex1": "The company hired an executive search firm to find a new CEO. 公司聘请了一家猎头公司来物色新CEO。",
+     "ex2": "An executive search firm was retained to fill the post. 一家猎头公司受托填补该职位。"
+    },
+    {
+     "w": "engage",
+     "ipa": "/ɪnˈɡeɪdʒ/",
+     "pos": "v.",
+     "en": "engage (v.) means to arrange to employ or hire someone",
+     "zh": "“聘用、雇用”（源自古法语en- 使+ gage 抵押，本义“以抵押立约”），人事语境核心义为聘用、雇用",
+     "ctx": "熟词僻义。你第一反应是“订婚”（engaged），但这里engage 是“聘用”。 hadn't yet engaged any potential candidates＝还没雇用任何潜在候选人",
+     "ex1": "The firm engaged an outside counsel to review the case. 该事务所聘请了外部律师来审查此案。",
+     "ex2": "They engaged a new CFO after a long search. 经过长时间物色，他们聘用了一位新的首席财务官。"
+    }
+   ]
   },
   {
-   "en_html": "U.S. officials suspect Alice Huang of passing information to Chinese intelligence during the relationship. Her company, Megaspeed, became a cloud partner of Nvidia, allowing it to purchase large numbers of chips. Jensen Huang’s supporters argue that the former CEO is pro-American and essential to the movement to develop American-controlled open-source AI, ensuring the technology isn’t ultimately controlled by a small number of companies. They say that policies espoused by China hawks would backfire, enabling Chinese chip giant Huawei to make up ground on Nvidia.",
-   "zh": "",
-   "notes": []
+   "en_html": "U.S. officials <mark class=\"voc\">suspect Alice Huang of</mark> passing information to Chinese <mark class=\"voc\">intelligence</mark> during the relationship. Her company, Megaspeed, became a cloud partner of Nvidia, allowing it to purchase large numbers of chips. Jensen Huang’s supporters argue that the former CEO is <mark class=\"voc\">pro-American</mark> and <mark class=\"voc\">essential to</mark> the movement to develop American-controlled <mark class=\"voc\">open-source</mark> AI, ensuring the technology isn’t ultimately controlled by a small number of companies. They say that policies <mark class=\"voc\">espoused</mark> by <mark class=\"voc\">China hawks</mark> would <mark class=\"voc\">backfire</mark>, enabling Chinese chip giant Huawei to <mark class=\"voc\">make up ground</mark> on Nvidia.",
+   "zh": "美国官员怀疑，Alice黄在与黄仁勋交往期间，向中国的情报机构传递了信息。她的公司Megaspeed成了英伟达的云合作伙伴，得以大量采购芯片。黄仁勋的支持者们则辩称，这位前CEO是亲美的，而且对于发展“由美国掌控的开源AI”这场运动至关重要，这能确保这项技术，最终不会被少数几家公司所垄断。他们说，对华鹰派所鼓吹的政策会适得其反，反而会让中国芯片巨头华为，缩小与英伟达的差距。",
+   "notes": [
+    {
+     "w": "suspect sb of doing sth",
+     "ipa": "/səˈspekt ˈsʌmbədi əv/",
+     "pos": "v. phrase",
+     "en": "to suspect someone of doing something means to believe, without proof, that they have done something bad",
+     "zh": "“怀疑某人做了某事”（suspect 怀疑+ of + 动名词），司法语境核心义为怀疑某人做某事",
+     "ctx": "suspect 是“怀疑”，不是“确认、定罪”——文章用它，说明这是美方的“怀疑”，不是已坐实的罪名。这个分寸，看新闻时要心里有数",
+     "ex1": "The police suspect him of stealing the money.警方怀疑他偷了钱。",
+     "ex2": "The firm is suspected of concealing data from regulators.这家公司被怀疑向监管机构隐瞒数据。"
+    },
+    {
+     "w": "intelligence",
+     "ipa": "/ɪnˈtelɪdʒəns/",
+     "pos": "n.",
+     "en": "intelligence (n.) means secret information about an enemy or rival; the work of collecting such information",
+     "zh": "“智力、智商”（intel- 在……之间+ legere 挑选、辨别），安全语境核心义为情报、情报工作",
+     "ctx": "熟词僻义。IQ 那个I 就是intelligence（智力），但这里 Chinese intelligence 指的不是“中国的智力”，而是“中国的情报机构”。国际关系、间谍、安全类新闻高频",
+     "ex1": "Officials claim the couple passed information to foreign intelligence.官员称这对夫妇向外国情报机构传递了信息。",
+     "ex2": "The agency gathers intelligence on potential threats.该机构搜集潜在威胁方面的情报。"
+    },
+    {
+     "w": "pro-American",
+     "ipa": "/prəʊ əˈmerɪkən/",
+     "pos": "adj.",
+     "en": "pro-American (adj.) means in favour of or supporting the United States",
+     "zh": "“亲美的”（pro- 支持+ American 美国的），立场语境核心义为亲美的、站在美国一边的",
+     "ctx": "pro- 是“支持、赞成”，与anti-（反对）相反。这个词根很能产词：pro- democracy 亲民主的、pro-environment 环保的、pro-business 亲商的",
+     "ex1": "He is seen as pro-American and pro-business. 他被视为亲美且亲商的。",
+     "ex2": "The party adopted a pro-environment platform. 该党通过了亲环保的政纲。"
+    },
+    {
+     "w": "essential to",
+     "ipa": "/ɪˈsenʃl tə/",
+     "pos": "adj. phrase",
+     "en": "to be essential to something means to be completely necessary for it",
+     "zh": "“对……不可或缺”（essence 本质、核心+ -ial），重要性语境核心义为对……至关重要、不可或缺的",
+     "ctx": "essential to the movement to develop American-controlled open- source AI——对发展“美国掌控的开源AI”这场运动至关重要",
+     "ex1": "Trust is essential to any long-term partnership. 信任对任何长期合作关系都至关重要。",
+     "ex2": "The new chip is essential to the company's AI strategy. 这款新芯片对公司的AI 战略不可或缺。"
+    },
+    {
+     "w": "open-source",
+     "ipa": "/ˌəʊpən ˈsɔːs/",
+     "pos": "adj.",
+     "en": "open-source (adj.) describes software whose source code is freely available and can be modified by anyone",
+     "zh": "“开源的”（open 公开+ source 源代码），科技语境核心义为开源的",
+     "ctx": "关键词背景——开源＝把菜谱公开，谁都能照着做、自己改良；闭源＝把秘方锁在保险柜。支持者强调“美国掌控的开源AI”，是反对AI 被少数几家闭源巨头垄断",
+     "ex1": "The company released the model as open-source software. 该公司把这个模型作为开源软件发布。",
+     "ex2": "Open-source projects rely on contributions from volunteers. 开源项目依赖志愿者的贡献。"
+    },
+    {
+     "w": "espouse",
+     "ipa": "/ɪˈspaʊz/",
+     "pos": "v.",
+     "en": "espouse (v.) means to support or adopt an idea, belief or cause",
+     "zh": "“信奉、主张”（源自古法语espouser 许婚、结盟，引申为“把观点娶进门”），观点语境核心义为信奉、主张、支持",
+     "ctx": "policies espoused by China hawks——对华鹰派所主张的政策。 espoused 是过去分词做后置定语，修饰policies",
+     "ex1": "He has long espoused the cause of open technology. 他长期信奉开放技术的主张。",
+     "ex2": "The policies espoused by hardliners would backfire. 强硬派所主张的政策会适得其反。"
+    },
+    {
+     "w": "China hawks",
+     "ipa": "/ˈtʃaɪnə hɔːks/",
+     "pos": "n. (pl.)",
+     "en": "China hawks are people, especially in politics, who favour a tough or aggressive policy towards China",
+     "zh": "“对华鹰派”（hawk 鹰，凶猛好斗；对应dove 鸽，温和），政治语境核心义为对华鹰派、主张对中国强硬的人",
+     "ctx": "美国政坛把主张强硬对抗的人叫“鹰派”（hawks），主张温和对话的叫“鸽派”（doves）。China hawks 的核心主张，就是卡住中国的芯片脖子",
+     "ex1": "China hawks in Congress pushed for stricter export controls. 国会里的对华鹰派推动更严格的出口管制。",
+     "ex2": "The debate split the party between hawks and doves. 这场辩论让党内在鹰派和鸽派之间产生分裂。"
+    },
+    {
+     "w": "backfire",
+     "ipa": "/ˌbækˈfaɪə/",
+     "pos": "v.",
+     "en": "backfire (v.) means to have the opposite result to the one intended",
+     "zh": "“枪走火、向后喷火”（back 向后+ fire 火，打猎时枪没朝前打出去，反而朝自己脸上崩），结果语境核心义为适得其反、产生反效果",
+     "ctx": "本文王牌词。鹰派那套“卡中国芯片脖子”的政策会反噬美国自己——把英伟达逼得太狠、把黄仁勋搞下去，反而给华为追赶的机会。“搬起石头砸自己脚”的感觉，就是这个backfire",
+     "ex1": "The plan to cut costs backfired and drove customers away. 削减成本的计划适得其反，把顾客都赶跑了。",
+     "ex2": "Tougher sanctions could backfire on the companies themselves. 更严厉的制裁可能反噬这些公司自身。"
+    },
+    {
+     "w": "make up ground",
+     "ipa": "/meɪk ʌp ɡraʊnd/",
+     "pos": "phrase",
+     "en": "to make up ground means to reduce the gap or distance between you and a rival",
+     "zh": "“补上地面”（ground 地、地面），竞争语境核心义为缩小差距、追赶",
+     "ctx": "像赛跑时把落后的那段距离一步步追回来。enabling Huawei to make up ground on Nvidia——让华为缩小与英伟达的差距",
+     "ex1": "The challenger is making up ground on the market leader. 这家挑战者正在缩小与市场龙头的差距。",
+     "ex2": "Huawei has made up ground in the AI chip market. 华为在AI 芯片市场上追赶了上来。"
+    }
+   ]
   },
   {
-   "en_html": "Masad said that the vibe in his group chat of tech industry peers was of concern that a champion of open source was being taken down. Open-source software permits users to download and alter the code for themselves. “He’s been very helpful to companies and he’s a good counterbalance to voices saying we need to regulate AI and shut down open models,” said Masad. Nvidia employees who confirmed signing the open letter said they view Huang as an irreplaceable leader. Some employees have discussed holding a demonstration in Huang’s support on the company’s Santa Clara, Calif., campus in coming days.",
-   "zh": "",
-   "notes": []
+   "en_html": "Masad said that the <mark class=\"voc\">vibe</mark> in his group chat of tech industry peers <mark class=\"voc\">was of concern</mark> that a <mark class=\"voc\">champion</mark> of open source was being <mark class=\"voc\">taken down</mark>. Open-source software permits users to download and alter the code for themselves. “He’s been very helpful to companies and he’s a good <mark class=\"voc\">counterbalance</mark> to voices saying we need to <mark class=\"voc\">regulate</mark> AI and shut down open models,” said Masad. Nvidia employees who confirmed signing the open letter said they view Huang as an <mark class=\"voc\">irreplaceable</mark> leader. Some employees have discussed holding a <mark class=\"voc\">demonstration</mark> in Huang’s support on the company’s Santa Clara, Calif., campus in coming days.",
+   "zh": "Masad说，在他的科技同行群里，弥漫着一股担忧：一个开源的捍卫者，正在被人扳倒。开源软件允许用户自己下载、修改代码。“他一直对公司非常有帮助，而且他是一股很好的制衡力量，去对冲那些‘我们要监管AI、关停开源模型’的声音。”Masad说。那些确认在公开信上签了名的英伟达员工表示，他们把黄仁勋视为一位不可替代的领袖。一些员工还在商量，要在接下来几天，到公司位于加州圣克拉拉的总部园区，举行一场支持黄仁勋的集会。",
+   "notes": [
+    {
+     "w": "vibe",
+     "ipa": "/vaɪb/",
+     "pos": "n.",
+     "en": "vibe (n.) means the atmosphere or feeling you get from a person, place or situation",
+     "zh": "“氛围、气场”（vibration 振动的缩略，人/地方会“散发”出一种气场，像振动波一样传到你身上），口语语境核心义为氛围、感觉",
+     "ctx": "网感词，年轻人高频。the vibe in his group chat——他那个群里的氛围。比atmosphere 接地气一百倍",
+     "ex1": "There's a really good vibe in this office. 这间办公室的氛围真的很好。",
+     "ex2": "I got a weird vibe from the meeting. 那场会议让我感觉怪怪的。"
+    },
+    {
+     "w": "be of concern",
+     "ipa": "/bi əv kənˈsɜːn/",
+     "pos": "phrase",
+     "en": "to be of concern means to be worrying or cause worry",
+     "zh": "“令人担忧的”（concern 担忧；of + 名词= 具有某种性质），书面语境核心义为令人担忧",
+     "ctx": "高级又克制的书面结构。普通人说people were concerned，作者写the vibe was of concern——把“担忧”变成弥漫在空气里的东西，而不是某个人脸上的表情",
+     "ex1": "The rise in costs is of concern to small businesses. 成本上升令小企业担忧。",
+     "ex2": "The findings are of concern to regulators. 这些发现令监管机构感到担忧。"
+    },
+    {
+     "w": "champion",
+     "ipa": "/ˈtʃæmpiən/",
+     "pos": "n.",
+     "en": "champion (n.) means a person who strongly supports and fights for a cause or another person",
+     "zh": "“捍卫者、斗士”（与campaign 同根，源自拉丁语campus“战场”；中世纪指替人上场的“决斗代理人”——为你站到战场拼命的人），立场语境核心义为捍卫者、拥护者",
+     "ctx": "本文王牌词。a champion of open source＝开源的捍卫者，指黄仁勋。与标题的campaign（战役）同根——campaign 是“那场仗”，champion 是“替你打那场仗的人”，一个战场一个战士，作者用同一词根串起整篇文章",
+     "ex1": "He is a longtime champion of open technology. 他是开放技术的长期捍卫者。",
+     "ex2": "She has been a champion of workers' rights. 她一直是工人权益的捍卫者。"
+    },
+    {
+     "w": "take down",
+     "ipa": "/teɪk daʊn/",
+     "pos": "phrasal v.",
+     "en": "take down (phrasal v.) means to defeat, destroy or remove someone from a position",
+     "zh": "“扳倒、搞垮”（take 拿+ down 向下），斗争语境核心义为扳倒、搞垮（本文特指：注意时态was being taken down——被动+ 进行时，表示“正在被扳倒的过程中”。黄仁勋还没彻底倒下，但一群人正在合力把他往下拽，危机正在进行时）",
+     "ctx": "",
+     "ex1": "The scandal nearly took down the entire company. 这场丑闻差点把整个公司搞垮。",
+     "ex2": "A champion of the movement was being taken down. 这场运动的一位捍卫者正在被人扳倒。"
+    },
+    {
+     "w": "counterbalance",
+     "ipa": "/ˈkaʊntəbæləns/",
+     "pos": "n.",
+     "en": "counterbalance (n.) means a force or influence that has an equal but opposite effect to another",
+     "zh": "“制衡、平衡力”（counter- 对抗+ balance 平衡），抽象语境核心义为制衡、对冲力量",
+     "ctx": "画面是一个天平一边太重，你在另一边加个砝码压回去。Masad 说黄仁勋是 a good counterbalance——对冲那些“要监管AI、关停开源模型”的声音",
+     "ex1": "The committee acts as a counterbalance to the CEO's power. 这个委员会是对CEO 权力的一种制衡。",
+     "ex2": "Public opinion provides a counterbalance to industry lobbying. 公众舆论对行业游说形成了一种对冲。"
+    },
+    {
+     "w": "regulate",
+     "ipa": "/ˈreɡjuleɪt/",
+     "pos": "v.",
+     "en": "regulate (v.) means to control an activity or process by means of rules",
+     "zh": "“拿尺子去管”（源自拉丁语regula 规则、尺子），治理语境核心义为监管、管控",
+     "ctx": "与regular（规则的）、regulation（法规）同根，全是“规矩”这一家。 regulate AI——给AI 立规矩、上紧箍咒",
+     "ex1": "Many countries are debating how to regulate AI. 许多国家正在争论该如何监管AI。",
+     "ex2": "The agency was set up to regulate the banking sector. 这个机构是为监管银行业而设立的。"
+    },
+    {
+     "w": "irreplaceable",
+     "ipa": "/ˌɪrɪˈpleɪsəbl/",
+     "pos": "adj.",
+     "en": "irreplaceable (adj.) means too special or valuable to be replaced",
+     "zh": "“不可替代的”（ir- 不+ re- 再次+ place 放置+ -able 能……的——不能再次被放置的），价值语境核心义为不可替代的、无可取代的",
+     "ctx": "员工说老板 irreplaceable，是最高级别的认可——这个位置换谁来都摆不出他那个效果。员工称他 leader（领袖）而非boss（老板）或manager（经理），感情全在词里",
+     "ex1": "She proved herself irreplaceable to the team. 她证明了自己对团队不可或缺。",
+     "ex2": "He was seen as an irreplaceable leader by his staff. 他被员工视为不可替代的领袖。"
+    },
+    {
+     "w": "demonstration",
+     "ipa": "/ˌdemənˈstreɪʃn/",
+     "pos": "n.",
+     "en": "demonstration (n.) means a public meeting or march to show support for or opposition to something",
+     "zh": "“展示、证明”（de- 向外+ monstrare 指出、显示），集会语境核心义为示威、集会、声援活动",
+     "ctx": "熟词僻义。不是“演示”（商品演示），是“示威、集会”。 holding a demonstration in Huang's support——举行一场支持黄仁勋的集会，员工用肉身去站队",
+     "ex1": "Thousands joined a demonstration in support of the workers. 数千人参加了支持工人的集会。",
+     "ex2": "The demonstration outside the headquarters was peaceful. 总部外的那场集会气氛平和。"
+    }
+   ]
   },
   {
-   "en_html": "Bessent in the Fox News interview called for deeper inquiries into Nvidia’s practice of selling huge quantities of chips to companies in Southeast Asia that serve Chinese AI companies and that in some cases are suspected of diverting chips into China. Bessent said the appearance of a “culture of noncompliance at Nvidia” had persuaded him “that as the board conducts a search for a new leader, that they need to go outside the company.” Colette Kress, who was named interim CEO after Huang’s resignation, served under him as chief financial officer for 13 years. “I want to keep coming back to what was the culture at Nvidia, and were they pressing these seemingly illicit sales to goose their revenues and their earnings?” Bessent said. “And I think we need answers in the next 10 days from the board and from the outside counsel.”",
-   "zh": "",
-   "notes": []
+   "en_html": "Bessent in the Fox News interview <mark class=\"voc\">called for</mark> deeper <mark class=\"voc\">inquiries</mark> into Nvidia’s practice of selling huge quantities of chips to companies in Southeast Asia that serve Chinese AI companies and that in some cases are suspected of <mark class=\"voc\">diverting</mark> chips into China. Bessent said the appearance of a “<mark class=\"voc\">culture of noncompliance</mark> at Nvidia” had persuaded him “that as the board conducts a search for a new leader, that they need to go outside the company.” Colette Kress, who was named <mark class=\"voc\">interim CEO</mark> after Huang’s resignation, served under him as chief financial officer for 13 years. “I want to <mark class=\"voc\">keep coming back to</mark> what was the culture at Nvidia, and were they pressing these <mark class=\"voc\">seemingly</mark> <mark class=\"voc\">illicit</mark> sales to <mark class=\"voc\">goose</mark> their revenues and their earnings?” Bessent said. “And I think we need answers in the next 10 days from the board and from the <mark class=\"voc\">outside counsel</mark>.”",
+   "zh": "Bessent在福克斯新闻的采访中，呼吁对英伟达向东南亚公司出售海量芯片的做法展开更深入的调查，这些公司，有的服务于中国的AI公司，有的则被怀疑把芯片转进中国。Bessent说，英伟达内部那种“不合规文化”的表象，已经让他确信：董事会在物色新领导人的时候，必须从公司外部找。而那位在黄仁勋辞职后被任命为临时CEO的ColetteKress，此前曾在黄仁勋手下当了13年的首席财务官。“我想反复追问的是：英伟达的文化到底是什么？他们是不是在推动这些看似非法的销售，来人为抬高自己的收入和利润？”Bessent说，“而且我认为，我们需要在接下来的10天里，从董事会和外部律师那里得到一个答案。”",
+   "notes": [
+    {
+     "w": "call for",
+     "ipa": "/kɔːl fɔː/",
+     "pos": "phrasal v.",
+     "en": "call for (phrasal v.) means to demand or ask publicly for something",
+     "zh": "“喊着要、公开要求”（call 喊+ for 为），主张语境核心义为呼吁、要求",
+     "ctx": "比ask 重、比demand 轻，是“公开地、正式地喊话要求”。call for deeper inquiries——呼吁展开更深入的调查",
+     "ex1": "Critics called for an independent inquiry into the deal. 批评者要求对这笔交易展开独立调查。",
+     "ex2": "The minister called for tougher export controls. 部长呼吁实施更严格的出口管制。"
+    },
+    {
+     "w": "inquiries",
+     "ipa": "/ɪnˈkwaɪəriz/",
+     "pos": "n. (pl.)",
+     "en": "inquiries (n. pl.) means official investigations or processes of finding out the facts",
+     "zh": "“质询、调查”（in- 向内+ quaerere 寻求），司法语境核心义为调查、质询",
+     "ctx": "与question（问题）不同，inquiry 是“一套系统的、官方的调查”。财长要的不是问一句，是“彻查”",
+     "ex1": "The committee launched inquiries into the company's sales practices. 委员会对这家公司的销售做法展开了调查。",
+     "ex2": "Officials called for deeper inquiries into the matter. 官员们呼吁对此事展开更深入的调查。"
+    },
+    {
+     "w": "divert",
+     "ipa": "/daɪˈvɜːt/",
+     "pos": "v.",
+     "en": "divert (v.) means to change the direction or use of something",
+     "zh": "“使改道、使转向”（di- 分开、偏离+ vert 转），转移语境核心义为使改道、转移、挪用",
+     "ctx": "画面是一条河被挖个口子拐到别处去。diverting chips into China——把本应停在东南亚的芯片“拐”进中国",
+     "ex1": "The goods were diverted to an unauthorised destination. 这批货物被转运到了一个未经授权的地方。",
+     "ex2": "He was accused of diverting company funds to personal accounts. 他被指控把公司资金转入个人账户。"
+    },
+    {
+     "w": "a culture of noncompliance",
+     "ipa": "/ə ˈkʌltʃə əv ˌnɒnkəmˈplaɪəns/",
+     "pos": "n. phrase",
+     "en": "a culture of noncompliance is a widespread attitude within an organisation of not obeying rules or laws",
+     "zh": "“不合规文化”（non- 不+ comply 遵守+ -ance；culture 风气），治理语境核心义为不合规的文化、把违规当常态的风气",
+     "ctx": "全文题眼。财长不说“某些违规行为”（那是个别员工的错），偏说“一种文化”——等于指控英伟达从上到下、整个公司的风气问题，为赚钱故意系统地打擦边球",
+     "ex1": "Regulators cited a culture of noncompliance at the firm. 监管机构指出该公司存在不合规文化。",
+     "ex2": "The bank was criticised for fostering a culture of noncompliance. 这家银行因纵容不合规文化而受到批评。"
+    },
+    {
+     "w": "interim CEO",
+     "ipa": "/ˈɪntərɪm siː iː ˈəʊ/",
+     "pos": "n. phrase",
+     "en": "an interim CEO is someone who leads a company temporarily until a permanent replacement is found",
+     "zh": "“临时CEO”（interim 临时的、过渡的+ CEO），人事语境核心义为临时首席执行官、代理CEO",
+     "ctx": "interim 是“先顶上、等找到正式的就让位”。临时顶班的人Colette Kress 恰恰是黄仁勋13 年的老部下，作者摆出这层关系，是在给财长“必须从外面找”做注脚",
+     "ex1": "She was named interim CEO after the sudden resignation. 前任突然辞职后，她被任命为临时CEO。",
+     "ex2": "The board appointed an interim chief executive. 董事会任命了一位代理首席执行官。"
+    },
+    {
+     "w": "keep coming back to",
+     "ipa": "/kiːp ˈkʌmɪŋ bæk tə/",
+     "pos": "phrase",
+     "en": "to keep coming back to something means to repeatedly return to a topic or question",
+     "zh": "“反复回到”（keep 不断+ come back to 回到），追问语境核心义为反复追问、揪住不放",
+     "ctx": "财长说I want to keep coming back to...——“我想一遍又一遍地回到这个问题上”，那股揪住不放、死磕到底的劲儿全在里头",
+     "ex1": "I keep coming back to the same question: why now? 我反复回到同一个问题：为什么是现在？",
+     "ex2": "He kept coming back to the issue of missing documents. 他反复追问文件缺失的问题。"
+    },
+    {
+     "w": "seemingly",
+     "ipa": "/ˈsiːmɪŋli/",
+     "pos": "adv.",
+     "en": "seemingly (adv.) means appearing to be something, but perhaps not really so",
+     "zh": "“表面上、看似”（seem 似乎+ -ing + -ly），语气语境核心义为表面上、看似",
+     "ctx": "seemingly illicit sales——“看似非法的销售”。这个seemingly 用得很讲究：没直接说“非法”，而是“看似非法”，既表达质疑，又留了“还没实锤”的余地",
+     "ex1": "They were pressing seemingly illicit sales to boost earnings. 他们在推动看似非法的销售来抬升利润。",
+     "ex2": "The two issues are seemingly unrelated. 这两个问题看似毫无关联。"
+    },
+    {
+     "w": "illicit",
+     "ipa": "/ɪˈlɪsɪt/",
+     "pos": "adj.",
+     "en": "illicit (adj.) means not allowed by law or by the rules",
+     "zh": "“非法的、违禁的”（in- 不+ licere 拉丁语“被允许”→ license 许可），法律语境核心义为非法的、违禁的",
+     "ctx": "与illegal 同义但更书面，常指暗中进行的违法活动。illicit sales 非法销售。注意与elicit（引出、诱出）形近，别写混",
+     "ex1": "The company was accused of illicit sales to sanctioned buyers. 这家公司被指控向受制裁买家非法销售。",
+     "ex2": "Authorities cracked down on the illicit chip trade. 当局打击了非法的芯片交易。"
+    },
+    {
+     "w": "goose",
+     "ipa": "/ɡuːs/",
+     "pos": "v.",
+     "en": "goose (v.) means to stimulate or push something to a higher level, often artificially",
+     "zh": "“鹅”（作动词源自“鹅嘴冷不丁戳人一下，把人吓得窜起来”），口语语境核心义为猛催、人为拔高、刺激",
+     "ctx": "本文王牌词。goose the revenues/earnings ＝人为把业绩数字往上拔高，即“注水、催肥”。画面顺“填鹅肝”联想记——鹅肝是硬灌肥的，goose 就是“催肥业绩”。财长在骂“你们在给业绩注水”",
+     "ex1": "The firm was accused of goosing its sales figures. 这家公司被指控虚增销售数据。",
+     "ex2": "They goosed revenues with aggressive accounting. 他们用激进的会计手段催肥了收入。"
+    },
+    {
+     "w": "outside counsel",
+     "ipa": "/ˌaʊtˈsaɪd ˈkaʊnsl/",
+     "pos": "n. phrase",
+     "en": "outside counsel means an external lawyer or law firm, not part of a company's own legal team",
+     "zh": "“外部律师”（outside 外部+ counsel 律师、法律顾问），法律语境核心义为外部律师、外聘法律顾问",
+     "ctx": "熟词僻义——counsel 不是“咨询、忠告”，法律语境里就是“律师”。outside counsel 是专门从外面请来查案的第三方，图一个公正",
+     "ex1": "The board hired outside counsel to investigate. 董事会聘请了外部律师来调查。",
+     "ex2": "Answers must come from the board and outside counsel. 答案必须由董事会和外部律师给出。"
+    }
+   ]
   },
   {
-   "en_html": "Jeffrey Sonnenfeld, a professor and governance expert at Yale University’s School of Management, said the grounds for Huang’s dismissal were solid under the company’s own code of conduct. “If they were to look the other way, then it’s open season, tear up the rulebook, because nothing is legally enforceable in the company’s own ethical standards,” Sonnenfeld said. Huang’s involvement in deals with Megaspeed and other companies accused of helping China get around chip-export controls will also continue to draw scrutiny. “This was aiding and abetting the circumvention of U.S. trade laws,” he said.",
-   "zh": "",
-   "notes": []
+   "en_html": "Jeffrey Sonnenfeld, a professor and governance expert at Yale University’s School of Management, said the <mark class=\"voc\">grounds</mark> for Huang’s <mark class=\"voc\">dismissal</mark> were solid under the company’s own <mark class=\"voc\">code of conduct</mark>. “If they were to <mark class=\"voc\">look the other way</mark>, then it’s <mark class=\"voc\">open season</mark>, <mark class=\"voc\">tear up the rulebook</mark>, because nothing is <mark class=\"voc\">legally enforceable</mark> in the company’s own ethical standards,” Sonnenfeld said. Huang’s involvement in deals with Megaspeed and other companies accused of helping China <mark class=\"voc\">get around</mark> chip-export controls will also continue to <mark class=\"voc\">draw scrutiny</mark>. “This was <mark class=\"voc\">aiding and abetting</mark> the <mark class=\"voc\">circumvention</mark> of U.S. trade laws,” he said.",
+   "zh": "耶鲁大学管理学院教授、公司治理专家杰弗里·索南菲尔德表示，按照英伟达公司自己的行为准则，解雇黄仁勋的理由是站得住脚的。“如果他们睁一只眼闭一只眼，那就等于开禁了、规则手册直接撕掉算了，因为公司自己的道德标准，就再也没有任何法律约束力了。”索南菲尔德说。黄仁勋卷入的那些与Megaspeed及其他公司（这些公司被指控帮助中国规避芯片出口管制）的交易，也将继续受到审查。“这就是在协助和教唆对‘美国贸易法’的规避。”他说。",
+   "notes": [
+    {
+     "w": "grounds",
+     "ipa": "/ɡraʊndz/",
+     "pos": "n. (pl.)",
+     "en": "grounds (n. pl.) means reasons or justification for a belief or action",
+     "zh": "“地面”（ground 地，引申为“立脚点、依据”），法律语境核心义为理由、根据",
+     "ctx": "the grounds for Huang's dismissal——解雇黄仁勋的理由。用复数 grounds 表“正当理由”，是法律、新闻里的固定用法",
+     "ex1": "There are solid grounds for dismissing him. 解雇他有充分的理由。",
+     "ex2": "She sued on the grounds that she was unfairly treated. 她以受到不公对待为由提起诉讼。"
+    },
+    {
+     "w": "dismissal",
+     "ipa": "/dɪsˈmɪsl/",
+     "pos": "n.",
+     "en": "dismissal (n.) means the act of officially removing someone from their job",
+     "zh": "“打发走、解雇”（dis- 离开+ mittere 送→ dismiss 让离开），人事语境核心义为解雇、开除",
+     "ctx": "最正式、最中性的“解雇”说法。与ouster（强行罢免）、step down （主动辞职）凑齐一套“下台”三兄弟，各有各的味",
+     "ex1": "The dismissal of the CEO was widely criticised. 解雇CEO 一事受到广泛批评。",
+     "ex2": "He sued the company for unfair dismissal. 他以不当解雇为由起诉了公司。"
+    },
+    {
+     "w": "code of conduct",
+     "ipa": "/kəʊd əv ˈkɒndʌkt/",
+     "pos": "n. phrase",
+     "en": "a code of conduct is a set of rules about how people should behave in an organisation",
+     "zh": "“行为准则”（code 准则、规范+ conduct 行为），治理语境核心义为行为准则、行为规范",
+     "ctx": "杀伤力在“公司自己的”（the company's own）——黄仁勋不是按外部标准被炒，而是违反了自己家白纸黑字的员工手册，这让“开除他”无懈可击",
+     "ex1": "His actions violated the company's code of conduct.他的行为违反了公司的行为准则。",
+     "ex2": "All employees must follow the code of conduct.所有员工都必须遵守行为准则。"
+    },
+    {
+     "w": "look the other way",
+     "ipa": "/lʊk ði ˈʌðə weɪ/",
+     "pos": "idiom",
+     "en": "to look the other way means to deliberately ignore something wrong that you know is happening",
+     "zh": "“看向另一边”（把脸别过去），态度语境核心义为睁一只眼闭一只眼、故意装作没看见",
+     "ctx": "本文王牌词，全篇冲突的灵魂。全文争的就是“董事会到底该不该look the other way”——支持者要他放过，Sonnenfeld 说一旦放过就完蛋",
+     "ex1": "I saw him doing it, but I just looked the other way. 我看见了，但我装作没看见。",
+     "ex2": "Regulators cannot afford to look the other way. 监管机构不敢睁一只眼闭一只眼。"
+    },
+    {
+     "w": "open season",
+     "ipa": "/ˈəʊpən ˈsiːzn/",
+     "pos": "n.",
+     "en": "open season (n.) means a period when it is acceptable to attack or criticise someone without restraint",
+     "zh": "“开放狩猎季”（打猎有禁猎期closed season，解禁后可以随便打的日子即 open season），比喻语境核心义为无差别开火、谁都能随便攻击的时期",
+     "ctx": "本文王牌词。Sonnenfeld 说“一旦睁一只眼闭一只眼，就open season 了”——等于宣布开禁，从今往后谁都可以随便违规、无人再管",
+     "ex1": "It has been open season on the company since the scandal. 丑闻之后，这家公司就成了众矢之的。",
+     "ex2": "The judge warned that it must not become open season on the rules. 法官警告绝不能放任规则形同虚设。"
+    },
+    {
+     "w": "tear up the rulebook",
+     "ipa": "/teə ʌp ðə ˈruːlbʊk/",
+     "pos": "phrase",
+     "en": "to tear up the rulebook means to completely abandon the usual rules",
+     "zh": "“撕掉规则手册”（tear up 撕掉+ rulebook 规则手册），比喻语境核心义为规矩彻底作废",
+     "ctx": "规则本来写在本子里大家照着办，你连本子都撕了，还谈什么规则？ Sonnenfeld 说——破例放黄仁勋一马，就等于亲手撕了自家员工手册",
+     "ex1": "If we make an exception, we might as well tear up the rulebook. 要是破例，那还不如把规则手册撕了。",
+     "ex2": "He tore up the rulebook and did things his own way. 他抛开一切规则，按自己的方式行事。"
+    },
+    {
+     "w": "legally enforceable",
+     "ipa": "/ˈliːɡəli ɪnˈfɔːsəbl/",
+     "pos": "adj. phrase",
+     "en": "legally enforceable means able to be made effective or obeyed through the law",
+     "zh": "“法律上可强制执行的”（legal 法律的+ enforce 执行+ -able 可……的），法律语境核心义为有法律约束力的、可强制执行的",
+     "ctx": "Sonnenfeld 说——你不执行，那套道德标准就“没有任何法律约束力了”，跟没有一样。enforceable 是“可强制执行的”",
+     "ex1": "The code is not legally enforceable without enforcement. 没有执行，这套准则就没有法律约束力。",
+     "ex2": "The agreement is legally enforceable in court. 这份协议在法庭上具有法律约束力。"
+    },
+    {
+     "w": "get around",
+     "ipa": "/ɡet əˈraʊnd/",
+     "pos": "phrasal v.",
+     "en": "to get around something means to find a way to avoid or deal with a rule or problem",
+     "zh": "“绕开走”（get 到达+ around 绕过），规避语境核心义为规避、绕过",
+     "ctx": "一条规则立在那儿，你不硬闯，而是绕开它走，这就是get around。get around chip-export controls——规避芯片出口管制",
+     "ex1": "Companies found ways to get around the export controls. 企业找到了规避出口管制的办法。",
+     "ex2": "There's no easy way to get around this regulation. 这条规定没有轻易规避的办法。"
+    },
+    {
+     "w": "draw scrutiny",
+     "ipa": "/drɔː ˈskruːtəni/",
+     "pos": "phrase",
+     "en": "to draw scrutiny means to attract careful examination or criticism",
+     "zh": "“招来审查”（draw 吸引、招来+ scrutiny 细查），新闻语境核心义为招来审查、被盯着查",
+     "ctx": "will continue to draw scrutiny——“还将继续被审查”。这事没完，黄仁勋的交易会一直被查下去",
+     "ex1": "The deal will continue to draw scrutiny from regulators. 这笔交易将继续受到监管机构的审查。",
+     "ex2": "His role in the affair has drawn intense scrutiny. 他在此事中的角色受到了严密的审视。"
+    },
+    {
+     "w": "aiding and abetting",
+     "ipa": "/ˌeɪdɪŋ ənd əˈbetɪŋ/",
+     "pos": "legal phrase",
+     "en": "aiding and abetting means helping and encouraging someone to commit a crime",
+     "zh": "“协助与教唆”（aid 帮助+ abet 怂恿、教唆），法律语境核心义为协助与教唆（犯罪）",
+     "ctx": "本文王牌词，法律术语。就算你没亲手犯罪，只要你“帮助+ 怂恿”了别人犯罪，就一样有罪，判得跟主犯一样重。Sonnenfeld 用它把整件事从“道德问题”定性为“法律问题”",
+     "ex1": "He was charged with aiding and abetting the fraud. 他被控协助和教唆这起欺诈。",
+     "ex2": "The executive was accused of aiding and abetting the cover-up. 这名高管被指控协助和教唆掩盖真相。"
+    },
+    {
+     "w": "circumvention",
+     "ipa": "/ˌsɜːkəmˈvenʃn/",
+     "pos": "n.",
+     "en": "circumvention (n.) means the act of avoiding or getting around a rule or law",
+     "zh": "“绕着走”（circum- 环绕+ vent 来→ 绕着走），法律语境核心义为规避、绕开",
+     "ctx": "与get around 同义但更正式、更书面。the circumvention of U.S. trade laws——对美国贸易法的规避",
+     "ex1": "The scheme involved the circumvention of export rules. 这个计划涉及规避出口规定。",
+     "ex2": "Lawmakers sought to close loopholes for circumvention. 立法者设法堵住可供规避的漏洞。"
+    }
+   ]
   }
  ],
- "proper": [],
+ "proper": [
+  {
+   "name": "Jensen Huang",
+   "def": "简要介绍：英伟达（Nvidia）联合创始人，1993 年与两位合伙人在美国加州圣何塞创立英伟达，并在此后掌舵公司约33 年。1963 年出生于中国台湾，9 岁赴美读书，16 岁考入俄勒冈州立大学主修电气工程，30 岁那年创立英伟达。个人标志性形象是一年四季穿黑皮衣。在其带领下，英伟达从一家做游戏显卡的小公司成长为全球AI 芯片霸主，2025 年10 月市值一度突破5 万亿美元，成为全球首家触及这一数字的公司。<br>本文中的意思：全文主角。他因被曝与两名女性的婚外情而下台，又因卷入“向中国供芯片”的调查而成为中美芯片博弈的焦点。文章表面写他一个人，背后写的是AI 时代中美在芯片上的较量。"
+  },
+  {
+   "name": "Nvidia",
+   "def": "简要介绍：全球最大的AI 芯片设计公司之一，以图形处理器（GPU）起家，如今其高端AI 芯片是大模型训练的“算力发动机”。总部位于美国加州圣克拉拉（SantaClara）。2025 年10 月市值一度突破5 万亿美元，是全球首家做到这一数字的公司。<br>本文中的意思：事件的“风暴中心”。它既是“芯片之王”，也是被美国财政部长指控存在“不合规文化”、被怀疑借道东南亚向中国转口芯片的公司。"
+  },
+  {
+   "name": "Replit / Amjad Masad",
+   "def": "简要介绍：Replit 是全球最大的在线编程平台，用户无需在本地安装环境，打开网页就能直接写代码、跑代码，灵感来自Google Docs（在网页上直接编辑文档）。创始人是约旦裔美国创业者Amjad Masad，曾任Facebook 工程师，也曾在在线编程教学网站Codecademy 任早期工程师。Replit 估值约90 亿美元。<br>本文中的意思：故事的“第一个出场人物”。一名英伟达员工用Replit 搭了请愿网站，网站被挤爆后向Masad 求助，Masad 顺手修好了代码并自己签名。他是“程序员改变世界”的一个缩影。"
+  },
+  {
+   "name": "Travis Kalanick / Uber",
+   "def": "简要介绍：网约车鼻祖Uber（优步）的联合创始人兼前CEO，2009 年创立Uber。2017 年因公司内部一系列丑闻，被五大股东联名“逼宫”辞职，下台时说过一句名言“I love Uber more than anything in the world.”（我爱Uber，胜过世间一切）。<br>本文中的意思：名单里最妙的一个梗——一个当年“被自己公司炒掉的创始人”，站出来签名力挺另一个“被炒的CEO”黄仁勋。作者特意标出他是“Uber co-founder”，就是在埋这个“同是天涯被炒人”的呼应。"
+  },
+  {
+   "name": "Tobias Lutke / Shopify",
+   "def": "简要介绍：Shopify 是全球最大的独立站电商平台，帮商家自己搭网店卖货。创始人卢特克本是单板滑雪玩家，为卖滑雪板想开网店，市面上没有好用的建站工具，就自己写了一个——这个“自己写着玩”的东西，后来长成了市值上千亿美元的Shopify。<br>本文中的意思：名单中的“电商巨头”代表。又是一个“程序员改变世界”的故事，他签名代表着科技创业者圈子对黄仁勋的声援。"
+  },
+  {
+   "name": "Tim Sweeney / Epic Games",
+   "def": "简要介绍：Epic Games 的创始人兼CEO，全球最火游戏之一《堡垒之夜》（Fortnite）之父。自学成才的程序员，大学学的是机械工程（非计算机），从父母家房间里一个人写小游戏起步，一路做到游戏界传奇。他还有个反差萌：狂买美国北卡罗来纳州五万多英亩森林地，不为开发，只为保护森林不被砍伐。<br>本文中的意思：名单中的“游戏巨头”代表。作者把他和Shopify、Uber等并排，是在“报菜名”式地亮肌肉——支持黄仁勋的不是乌合之众，而是硅谷一杆杆旗帜。"
+  },
+  {
+   "name": "Gavin Baker / Atreides",
+   "def": "简要介绍：美国科技投资人，对冲基金Atreides 的创始人，此前在富达（Fidelity）管理过数百亿美元的科技股基金，是硅谷圈子里出了名的“看多AI”的大投资人。<br>本文中的意思：名单中的“资本圈”代表。他与Altimeter Capital 的Gerstner 联名发表公开信，代表真金白银押注科技行业的资本在站队黄仁勋。"
+  },
+  {
+   "name": "Scott Bessent",
+   "def": "简要介绍：川总政府时期的美国财政部长（Treasury Secretary），华尔街老手，早年是索罗斯基金的首席投资官，1992 年作为核心成员参与“黑色星期三”做空英镑一战，帮基金赚了超过10 亿美元。后创立对冲基金Key Square。<br>本文中的意思：公开施压英伟达的“政府最高层”。他要求从公司外部找新CEO、彻查转口芯片给中国一事、并给出“10 天之内给答案”的最后通牒。他是本文“倒黄派”的旗帜。"
+  },
+  {
+   "name": "Brad Gerstner / Altimeter Capital",
+   "def": "简要介绍：对冲基金Altimeter Capital 的创始人，重仓科技股，硅谷圈里有名的“硬核投资人”。2022 年他曾给扎克伯格写公开信，措辞严厉地建议Meta 砍掉20%员工开支、缩减元宇宙投资，那封信当年在科技圈炸锅，之后Meta 真的大裁员。<br>本文中的意思：一个“公开信专业户”。这回他联手Gavin Baker 写公开信，立场从“你赶紧砍人”变成了“你别急着换人”——站出来替黄仁勋说话，分量十足。"
+  },
+  {
+   "name": "Colette Kress",
+   "def": "简要介绍：英伟达首席财务官（CFO），在黄仁勋手下任职约13 年。黄仁勋辞职后被任命为临时CEO（interim CEO）。<br>本文中的意思：作者摆出的一个“打脸式补刀”——财长刚说“要从公司外面找、内部的人不干净”，紧接着作者就点出：现任临时CEO 恰恰是黄仁勋最亲近的老部下。事实本身就在给财长的立场做注脚。"
+  },
+  {
+   "name": "Huawei",
+   "def": "简要介绍：中国科技公司的代表，在芯片领域，华为的“昇腾”系列AI 芯片一直在奋力追赶英伟达。据IDC 等机构数据，2026 年上半年在中国数据中心AI 加速芯片市场，英伟达出货量份额降至约34%，而华为昇腾已升至约28%，两者差距明显缩小。<br>本文中的意思：支持派论点的关键。他们说鹰派“卡中国芯片”的政策会backfire（适得其反），反而让华为make up ground（缩小差距）。这个数据让“芯片争夺战”从抽象落到具体。"
+  },
+  {
+   "name": "Jeffrey Sonnenfeld",
+   "def": "简要介绍：耶鲁大学管理学院领导力研究高级副院长，创办了号称“世界上第一个CEO 大学”的首席执行领导力研究所。哈佛本科、硕士、博士，26 岁当上哈佛商学院教授，曾任5 位美国总统的非正式顾问，《商业周刊》评其为“全球十大最具影响力商学院教授”。他写过《Firing Back》（研究被炒CEO 如何东山再起）和《The Hero'sFarewell》（研究CEO 如何退场）。<br>本文中的意思：全文的“压轴人物”。一个专门研究“CEO 怎么下台”的权威，站出来说“黄仁勋被炒得有理”，等于最懂行的人反手给黄仁勋一记“专业暴击”，为整件事盖棺定论。"
+  },
+  {
+   "name": "美国对华芯片出口管制/ 转口贸易",
+   "def": "简要介绍：美国有一整套对华芯片出口管制，不允许把最先进的高端AI 芯片直接卖给中国。于是有人借道东南亚“洗白”——芯片先卖给新加坡、马来西亚等地的公司（表面合法，因这些地方不在禁售名单上），再转运进中国，这一招叫“转口贸易”（transshipment）。有BBC 报道的真实案例：两名中国公民在美国开公司，三年内把英伟达顶级H100 芯片经新加坡、马来西亚转运进中国，最高刑期20 年。美国司法部文件称这两地“常被用作掩饰非法运输至中国的中转枢纽”。<br>本文中的意思：全文后半段的“命根子”。财长要彻查的，就是英伟达是否明知这些芯片最终流入中国，却睁一只眼闭一只眼，先卖给东南亚图个表面合规。理解这条灰色链路，才能读懂后半篇。"
+  },
+  {
+   "name": "开源vs 闭源",
+   "def": "简要介绍：开源＝把“菜谱”公开，谁都能下载代码、研究、修改；闭源＝把“秘方”锁在保险柜，只有自己家能做（如OpenAI 的ChatGPT、谷歌的模型）。黄仁勋多年是“开源”的坚定支持者，英伟达芯片卖给了无数做开源AI 的公司和个人。<br>本文中的意思：支持派给黄仁勋找的“合法性”——他们强调“美国掌控的开源AI”，是为了防止AI 被少数几家闭源巨头垄断。挺黄派的核心论点之一。"
+  },
+  {
+   "name": "鹰派vs 鸽派",
+   "def": "简要介绍：美国政坛的一对经典术语。鹰（hawk）凶、猛、好斗，鸽子（dove）温和、象征和平。主张对某国采取强硬、对抗、遏制政策的人叫“鹰派”，主张温和、对话、合作的人叫“鸽派”。China hawks（对华鹰派）的核心主张就是卡住中国的芯片脖子。<br>本文中的意思：支持派说，对华鹰派那套“卡芯片”的政策会backfire（反噬美国自己）——把英伟达逼得太狠，反而给华为追赶的机会。"
+  },
+  {
+   "name": "SB 1047",
+   "def": "简要介绍：2024 年美国加州推出的“前沿人工智能模型安全与创新法案”，要求最先进的AI 模型做安全测试、出了事要担责。法案在硅谷炸锅，开源社区集体反对，理由是“一旦要求绝对安全，就等于变相关停开源”。最终加州州长纽森于2024 年9 月一票否决了该法案。<br>本文中的意思：Masad 那句“有人要监管AI、关停开源模型”的现实注脚——这不是嘴炮，是加州议会白纸黑字投过票、差点成真的路线之争。黄仁勋这种“开源扛旗人”，正是那帮人眼里的“绊脚石”。"
+  },
+  {
+   "name": "Santa Clara",
+   "def": "简要介绍：美国加州硅谷的核心城市之一，英伟达总部所在地。<br>本文中的意思：一些英伟达员工商量要到位于圣克拉拉的公司总部园区举行支持黄仁勋的集会——作者特意点出地点，是要写“跑到公司大门口去站队”，把支持从线上拉到线下。"
+  },
+  {
+   "name": "Fox News",
+   "def": "简要介绍：美国保守派电视台，常被视为川总的“铁杆盟友”和“御用媒体”。<br>本文中的意思：财长Bessent 选择在福克斯新闻上放话，潜台词是——这话既是说给支持者听，也是说给英伟达董事会听：动真格的了。老黄要重返英伟达？15.7万人联署，马斯克等硅谷大佬公开支持！他还能回去吗？"
+  }
+ ],
  "sources_note": "依据美国《华尔街日报》（The Wall Street Journal）2026-11-17 报道。",
- "practice": {},
+ "practice": {
+  "intro": "请将以下中文句子翻译为英文（参考答案见后）。",
+  "items": [
+   "通过公开信、电话和群聊，黄仁勋的盟友们正在论证：这次罢免来得太草率了——而与此同时，法律层面的审查正步步升级。",
+   "在整个硅谷，黄仁勋的同行、员工和投资人，如同一片星群，正抱着一线希望，盼他能重回这家芯片巨头的最高位——即便与此同时，官方对他向中国供应强大AI 芯片一事的审查，正在步步升级。",
+   "他们说，对华鹰派所鼓吹的政策会适得其反，反而让中国芯片巨头华为，缩小与英伟达的差距。",
+   "“我想反复追问的是：英伟达的文化到底是什么？他们是不是在推动这些看似非法的销售，来人为抬高自己的收入和利润？”贝森特说。",
+   "“如果他们睁一只眼闭一只眼，那就等于彻底放开、随便乱来了——规则手册干脆撕掉算了，因为公司自己的道德标准，从此再无任何法律约束力。”索南菲尔德说。",
+   "“这就是在协助和教唆对‘美国贸易法’的规避。”他说。"
+  ],
+  "critical_en": "",
+  "critical_zh": "",
+  "answer": "1. In open letters, phone calls and group chats, Huang's allies are making the case that his ouster was hasty—even as legal scrutiny intensifies.<br><br>2. Across Silicon Valley, a constellation of Huang's peers, employees and investors are holding on to hope he could regain his position atop the chip maker—even as official scrutiny of his role in providing powerful artificial-intelligence chips to China intensifies.<br><br>3. They say that policies espoused by China hawks would backfire, enabling Chinese chip giant Huawei to make up ground on Nvidia.<br><br>4. “I want to keep coming back to what was the culture at Nvidia, and were they pressing these seemingly illicit sales to goose their revenues and their earnings?” Bessent said.<br><br>5. “If they were to look the other way, then it's open season, tear up the rulebook, because nothing is legally enforceable in the company's own ethical standards,” Sonnenfeld said.<br><br>6. “This was aiding and abetting the circumvention of U.S. trade laws,” he said."
+ },
  "mindmap": {
   "aria": "黄仁勋去留 思维导图",
   "alt": "黄仁勋去留：请愿声浪与审查赛跑 思维导图",
   "svg": "<svg viewBox=\"0 0 960 530\" xmlns=\"http://www.w3.org/2000/svg\" role=\"img\" aria-label=\"黄仁勋去留 思维导图\" style=\"width:100%;height:auto;font-family:-apple-system,'PingFang SC','Hiragino Sans GB','Microsoft YaHei',sans-serif\">\n<rect x=\"24\" y=\"221\" width=\"176\" height=\"88\" rx=\"14\" fill=\"#eae3d2\" stroke=\"#9a8f76\"/>\n<text x=\"112\" y=\"257\" text-anchor=\"middle\" fill=\"#3d3a34\" font-size=\"17\" font-weight=\"700\">黄仁勋去留</text>\n<text x=\"112\" y=\"283\" text-anchor=\"middle\" fill=\"#5c5648\" font-size=\"12.5\">请愿声浪与审查赛跑</text>\n<path d=\"M200,265 C232,265 232,88 260,88\" stroke=\"#6b8f71\" stroke-width=\"2\" fill=\"none\"/>\n<path d=\"M200,265 C232,265 232,265 260,265\" stroke=\"#7d98ad\" stroke-width=\"2\" fill=\"none\"/>\n<path d=\"M200,265 C232,265 232,442 260,442\" stroke=\"#bd7a6d\" stroke-width=\"2\" fill=\"none\"/>\n<g class=\"mm-branch\" data-target=\"bc1\">\n<rect x=\"260\" y=\"71\" width=\"190\" height=\"34\" rx=\"8\" fill=\"#e6efe7\" stroke=\"#6b8f71\"/>\n<text x=\"355\" y=\"93\" text-anchor=\"middle\" fill=\"#4c6b52\" font-size=\"15\" font-weight=\"700\">挺黄声浪（¶1-2）</text>\n<text class=\"mm-arrow\" data-for=\"bc1\" x=\"442\" y=\"93\" text-anchor=\"end\" fill=\"#4c6b52\">▾</text>\n</g>\n<g class=\"mm-children\" id=\"bc1\">\n<path d=\"M450,88 C462,88 462,46 480,46\" stroke=\"#6b8f71\" stroke-width=\"1.5\" fill=\"none\"/>\n<path d=\"M450,88 C462,88 462,88 480,88\" stroke=\"#6b8f71\" stroke-width=\"1.5\" fill=\"none\"/>\n<path d=\"M450,88 C462,88 462,130 480,130\" stroke=\"#6b8f71\" stroke-width=\"1.5\" fill=\"none\"/>\n<rect x=\"480\" y=\"30\" width=\"456\" height=\"32\" rx=\"8\" fill=\"#e6efe7\"/><text x=\"492\" y=\"51\" fill=\"#3d3a34\" font-size=\"14\">Replit CEO 临时救站：解除限速、加验证码</text>\n<rect x=\"480\" y=\"72\" width=\"456\" height=\"32\" rx=\"8\" fill=\"#e6efe7\"/><text x=\"492\" y=\"93\" fill=\"#3d3a34\" font-size=\"14\">「Stand With Jensen」请愿 10.6 万人签名</text>\n<rect x=\"480\" y=\"114\" width=\"456\" height=\"32\" rx=\"8\" fill=\"#e6efe7\"/><text x=\"492\" y=\"135\" fill=\"#3d3a34\" font-size=\"14\">有知名员工称名字被冒签</text>\n</g>\n<g class=\"mm-branch\" data-target=\"bc2\">\n<rect x=\"260\" y=\"248\" width=\"190\" height=\"34\" rx=\"8\" fill=\"#e5edf4\" stroke=\"#7d98ad\"/>\n<text x=\"355\" y=\"270\" text-anchor=\"middle\" fill=\"#3d5872\" font-size=\"15\" font-weight=\"700\">复位拉锯（¶3-6）</text>\n<text class=\"mm-arrow\" data-for=\"bc2\" x=\"442\" y=\"270\" text-anchor=\"end\" fill=\"#3d5872\">▾</text>\n</g>\n<g class=\"mm-children\" id=\"bc2\">\n<path d=\"M450,265 C462,265 462,202 480,202\" stroke=\"#7d98ad\" stroke-width=\"1.5\" fill=\"none\"/>\n<path d=\"M450,265 C462,265 462,244 480,244\" stroke=\"#7d98ad\" stroke-width=\"1.5\" fill=\"none\"/>\n<path d=\"M450,265 C462,265 462,286 480,286\" stroke=\"#7d98ad\" stroke-width=\"1.5\" fill=\"none\"/>\n<path d=\"M450,265 C462,265 462,328 480,328\" stroke=\"#7d98ad\" stroke-width=\"1.5\" fill=\"none\"/>\n<rect x=\"480\" y=\"186\" width=\"456\" height=\"32\" rx=\"8\" fill=\"#e5edf4\"/><text x=\"492\" y=\"207\" fill=\"#3d3a34\" font-size=\"14\">财长贝森特：董事会应引进外部人选</text>\n<rect x=\"480\" y=\"228\" width=\"456\" height=\"32\" rx=\"8\" fill=\"#e5edf4\"/><text x=\"492\" y=\"249\" fill=\"#3d3a34\" font-size=\"14\">公开信：换帅别仓促，先查清事实</text>\n<rect x=\"480\" y=\"270\" width=\"456\" height=\"32\" rx=\"8\" fill=\"#e5edf4\"/><text x=\"492\" y=\"291\" fill=\"#3d3a34\" font-size=\"14\">支持者称他是开源旗手，鹰派政策会反哺华为</text>\n<rect x=\"480\" y=\"312\" width=\"456\" height=\"32\" rx=\"8\" fill=\"#e5edf4\"/><text x=\"492\" y=\"333\" fill=\"#3d3a34\" font-size=\"14\">员工拟在圣克拉拉总部集会声援</text>\n</g>\n<g class=\"mm-branch\" data-target=\"bc3\">\n<rect x=\"260\" y=\"425\" width=\"190\" height=\"34\" rx=\"8\" fill=\"#f4e7e4\" stroke=\"#bd7a6d\"/>\n<text x=\"355\" y=\"447\" text-anchor=\"middle\" fill=\"#7c4a3e\" font-size=\"15\" font-weight=\"700\">审查加码（¶7-8）</text>\n<text class=\"mm-arrow\" data-for=\"bc3\" x=\"442\" y=\"447\" text-anchor=\"end\" fill=\"#7c4a3e\">▾</text>\n</g>\n<g class=\"mm-children\" id=\"bc3\">\n<path d=\"M450,442 C462,442 462,400 480,400\" stroke=\"#bd7a6d\" stroke-width=\"1.5\" fill=\"none\"/>\n<path d=\"M450,442 C462,442 462,442 480,442\" stroke=\"#bd7a6d\" stroke-width=\"1.5\" fill=\"none\"/>\n<path d=\"M450,442 C462,442 462,484 480,484\" stroke=\"#bd7a6d\" stroke-width=\"1.5\" fill=\"none\"/>\n<rect x=\"480\" y=\"384\" width=\"456\" height=\"32\" rx=\"8\" fill=\"#f4e7e4\"/><text x=\"492\" y=\"405\" fill=\"#3d3a34\" font-size=\"14\">深查东南亚渠道是否向中国转售芯片</text>\n<rect x=\"480\" y=\"426\" width=\"456\" height=\"32\" rx=\"8\" fill=\"#f4e7e4\"/><text x=\"492\" y=\"447\" fill=\"#3d3a34\" font-size=\"14\">限期 10 天交出「不合规文化」答案</text>\n<rect x=\"480\" y=\"468\" width=\"456\" height=\"32\" rx=\"8\" fill=\"#f4e7e4\"/><text x=\"492\" y=\"489\" fill=\"#3d3a34\" font-size=\"14\">耶鲁专家：解雇依据扎实，属协助规避贸易法</text>\n</g>\n<text x=\"486\" y=\"170\" fill=\"#8a8578\" font-size=\"11.5\">↓ 声浪越响，审查越紧</text>\n<text x=\"486\" y=\"368\" fill=\"#8a8578\" font-size=\"11.5\">↓ 拉锯的裁决权落在调查结果</text>\n</svg>",
   "img": "/Users/malen/.workbuddy/backups/handmap/2026-11-17-v3.png"
- }
+ },
+ "audio": true
 }
