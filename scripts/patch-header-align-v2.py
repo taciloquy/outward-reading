@@ -36,7 +36,7 @@ HEADER_NEW = """header{
 }
 .head-inner{
   max-width:calc(100% - var(--side-w) - 24px);
-  padding:14px 0 12px;
+  padding:14px 20px 12px; /* header-inner-gutter-v1：与 headline 卡片内边距对齐 */
   background:rgba(255,255,255,.95);
   -webkit-backdrop-filter:saturate(180%) blur(10px);
   backdrop-filter:saturate(180%) blur(10px);
