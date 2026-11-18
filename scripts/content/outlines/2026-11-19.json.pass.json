@@ -1,37 +1,31 @@
 {
   "outline": "scripts/content/outlines/2026-11-19.json",
-  "outline_mtime": 1795009092.9159222,
-  "checked_at": "2026-11-18 21:38:15",
+  "outline_mtime": 1795009653.897594,
+  "checked_at": "2026-11-18 21:47:36",
   "user_confirmed": false,
   "center": "出访先耸肩",
   "branches": [
     {
       "title": "一问一耸肩",
-      "subs": 3,
+      "subs": 2,
       "relation": null
     },
     {
-      "title": "老剧本重演",
+      "title": "转移视线",
       "subs": 3,
-      "relation": "耸肩不是失态，是惨败后转移视线的老剧本"
-    },
-    {
-      "title": "只剩摆拍",
-      "subs": 2,
-      "relation": "剧本落到这一站，只剩签字合影撑场面"
+      "relation": "耸肩不是失态，是败选后转移视线的老剧本"
     },
     {
       "title": "硬仗在中国",
-      "subs": 3,
-      "relation": "场面撑完，真正的考题压在下半程"
+      "subs": 2,
+      "relation": "场面撑不住真正的考题"
     }
   ],
-  "branch_count": 4,
+  "branch_count": 3,
   "subs_counts": [
-    3,
-    3,
     2,
-    3
+    3,
+    2
   ],
   "warns": []
 }
