@@ -1,0 +1,31 @@
+{
+  "outline": "scripts/content/outlines/2026-11-19.json",
+  "outline_mtime": 1794996294.4704764,
+  "checked_at": "2026-11-18 18:04:57",
+  "user_confirmed": false,
+  "center": "出访先耸肩",
+  "branches": [
+    {
+      "title": "一问一耸肩",
+      "subs": 3,
+      "relation": null
+    },
+    {
+      "title": "老剧本空转",
+      "subs": 4,
+      "relation": "耸肩不是失态，是转移视线的竞选老剧本在演"
+    },
+    {
+      "title": "硬仗在中国",
+      "subs": 3,
+      "relation": "剧本演完，真正的考题压在行程后半程"
+    }
+  ],
+  "branch_count": 3,
+  "subs_counts": [
+    3,
+    4,
+    3
+  ],
+  "warns": []
+}
