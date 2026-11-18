@@ -83,6 +83,10 @@ def boilerplate(pages):
 
     用「去掉所有空白」后的形式比对，才能抓住 `早安英文 Morning English 20261102`
     和 `早安英文Morning English20261102` 这类同一页脚的变体。
+
+    20261118 起部分页脚把日期与整条标题连排（`20261118<标题>`，去空白后 40+ 字），
+    超过长度上限会漏进正文被拼到练习句尾，故凡是「8 位日期开头」的重复行一律按页脚
+    处理，不再受 40 字限制（正文行不会以 8 位数字起首）。
     """
     cnt = Counter()
     for t in pages:
@@ -92,7 +96,10 @@ def boilerplate(pages):
             # 却会因为出现 ≥3 次被误判——一律豁免。
             if s and not re.fullmatch(r'[a-z]+', s):
                 cnt[s] += 1
-    return {s for s, c in cnt.items() if c >= 3 and len(s) <= 40}
+    return {
+        s for s, c in cnt.items()
+        if c >= 3 and (len(s) <= 40 or re.match(r'^\d{8}', s))
+    }
 
 
 def flatten(pages, proper_mark, practice_mark, drop=()):
