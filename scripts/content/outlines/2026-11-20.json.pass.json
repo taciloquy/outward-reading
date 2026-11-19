@@ -1,0 +1,31 @@
+{
+  "outline": "scripts/content/outlines/2026-11-20.json",
+  "outline_mtime": 1795087615.8332593,
+  "checked_at": "2026-11-19 19:26:59",
+  "user_confirmed": false,
+  "center": "新词背后",
+  "branches": [
+    {
+      "title": "词即角力",
+      "subs": 3,
+      "relation": null
+    },
+    {
+      "title": "谁在推词",
+      "subs": 3,
+      "relation": "自发传播之外，有人带着目的把词送进词典"
+    },
+    {
+      "title": "规则定名",
+      "subs": 2,
+      "relation": "再往上，词由赛规与政治直接写进公共语汇"
+    }
+  ],
+  "branch_count": 3,
+  "subs_counts": [
+    3,
+    3,
+    2
+  ],
+  "warns": []
+}

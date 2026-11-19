@@ -9,7 +9,16 @@
  "headline_en": "President Trump Starts Asia Trip by Shrugging Off U.S. Concerns: ‘It’s Fine’",
  "headline_zh": "川总启程出访亚洲，对国内的种种担忧一概耸肩不理：“没事。”",
  "sources_note": "依据美国《纽约时报》（The New York Times）2026-11-19 报道。",
- "marks": {},
+ "marks": {
+  "1": [["at the tail end of", "at the tail end of"], ["ink", "inking"], ["embrace", "embracing"], ["be supposed to be", "supposed to be"]],
+  "2": [["pelt", "pelted"], ["meet sth with sth", "meet each with a shrug"], ["meltdown", "meltdown"], ["afflict", "afflicting"], ["outage", "outage"], ["unleash", "unleash"], ["imminent", "imminent"], ["soil", "soil"], ["not exactly", "not exactly"], ["happen to be", "happen to be"], ["reassurance", "reassurance"], ["aviation", "aviation"]],
+  "3": [["amount to", "amounted to"], ["layover", "layover"], ["trudge", "trudged"], ["weary", "weary"], ["long-haul", "long-haul"], ["make one's way", "made his way"], ["whisk", "whisked"], ["doorstep", "doorstep"]],
+  "5": [["take control of", "took control of"], ["depart for", "departed for"], ["jet to", "jetting to"]],
+  "7": [["deliver remarks", "delivered remarks"], ["host", "host"], ["date oneself", "date myself"], ["genetics", "genetics"]],
+  "9": [["linger", "lingering"], ["fallout", "fallout"], ["resignation", "resignation"], ["revelation", "revelations"], ["extramarital", "extramarital"], ["shape", "shaping"], ["make the argument that", "made the argument that"], ["dominance over", "dominance over"]]
+ },
+ "headline_extra_cards": ["shrug off"],
+ "headline_marks": [["shrug off", "Shrugging Off"]],
  "paragraph_overrides": {},
  "override_notes": {},
  "mindmap": {

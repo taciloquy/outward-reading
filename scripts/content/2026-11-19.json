@@ -6,67 +6,851 @@
  "category": "美国《纽约时报》外刊讲解 第1233天",
  "read_minutes": 10,
  "nav_hint": "President Trump Starts Asia Trip by Shrugging Off U.S. Concerns",
- "audio": false,
  "headline": {
-  "en_html": "President Trump Starts Asia Trip by Shrugging Off U.S. Concerns: ‘It’s Fine’",
+  "en_html": "President Trump Starts Asia Trip by <mark class=\"voc\">Shrugging Off</mark> U.S. Concerns: ‘It’s Fine’",
   "zh": "川总启程出访亚洲，对国内的种种担忧一概耸肩不理：“没事。”",
-  "notes": []
+  "notes": [
+   {
+    "w": "shrug off",
+    "ipa": "/ʃrʌɡ ɒf/",
+    "pos": "phrasal v.",
+    "en": "shrug off (phrasal v.) means to treat something as unimportant and refuse to let it worry you",
+    "zh": "\"把一件挂在肩上的东西抖下去\"（shrug 是耸肩，off 是\"脱离\"），本文语境核心义为对……不当回事、一耸肩甩掉",
+    "ctx": "标题用它，不是随便选。文章写的不是\"他不解决问题\"，而是\"他不接这个问题\"。作者要的是\"拒绝被它烦到\"这个动作，不是\"解决失败\"这个结果，所以dismiss、 ignore 都不如它准",
+    "ex1": "She shrugged off the injury and finished the race.她对伤情不当回事，跑完了全程。",
+    "ex2": "The company shrugged off the bad quarter and raised its forecast.公司没把那个糟糕的季度当回事，还上调了预期。"
+   }
+  ]
  },
  "paragraphs": [
   {
-   "en_html": "President Trump arrived in Manila on Tuesday, at the tail end of a diplomatic summit in which world leaders had arranged to hold part of the gathering at his hotel. His agenda was supposed to be about inking trade deals and embracing regional partnerships, but several problems from home had followed him overseas.",
-   "zh": "",
-   "notes": []
+   "en_html": "Even for a president who <mark class=\"voc\">prizes</mark> photo opportunities, Mr. Trump’s appearance in Manila suggested <mark class=\"voc\">a lack of interest</mark> in diplomatic wins or issues at home. ‘It’s life,’ he said.",
+   "zh": "就算对一位把拍照机会看得比什么都重的总统来说，川总这次在马尼拉的露面也说明：外交上的斩获、国内的问题，他一样都不上心。\"这就是生活，\"他说。",
+   "notes": [
+    {
+     "w": "prize",
+     "ipa": "/praɪz/",
+     "pos": "v.",
+     "en": "prize (v.) means to value something highly and consider it very important",
+     "zh": "\"与价格同源\"（拉丁语pretium 意为\"价值、价钱\"），本文语境核心义为极为看重、珍视",
+     "ctx": "全文出现两次，导语一次、第三段一次，配的都是同一个宾语 photo opportunities。新闻写作里同一个搭配重复出现，就不再是细节，而是母题。作者先把他钉成\"把照片当收藏品的人\"，后面那句\"连这个都不上心了\"才有落差",
+     "ex1": "He prizes loyalty above talent.他把忠诚看得比才华重。",
+     "ex2": "The vase is the museum's most prized possession.那只花瓶是这家博物馆最珍视的藏品。"
+    },
+    {
+     "w": "a lack of interest",
+     "ipa": "/ə læk əv ˈɪntrəst/",
+     "pos": "n. phrase",
+     "en": "a lack of interest (n. phrase) means having no feeling of wanting to know about or be involved in something",
+     "zh": "\"兴趣的缺失\"（lack 作名词是\"短缺\"，不是动词\"缺少\"），本文语境核心义为提不起兴趣、没有那个心气",
+     "ctx": "作者写a lack of interest，不是a lack of effort，也不是a lack of attention。effort 是\"没使劲\"，attention 是\"没在看\"， interest 是\"心里没有那个念头\"。三个词里，interest 最不指责人，也最冷",
+     "ex1": "There is a growing lack of interest in local elections. 人们对地方选举越来越提不起兴趣。",
+     "ex2": "His lack of interest in the job was obvious from day one. 他对这份工作没兴趣，第一天就看得出来。"
+    }
+   ]
   },
   {
-   "en_html": "He was pelted with questions. He seemed to meet each with a shrug. Did he have any worries about the aviation-system meltdown afflicting travelers across the United States, or a technological outage affecting several large banking systems? “It’s life,” Mr. Trump said. “When you’re big and powerful and you have all the money, things like that happen. It’s fine.” What about news reports, so far unconfirmed by the Trump administration, that Iran may be thinking about how to unleash a dirty bomb in Washington? Was an attack on American soil imminent? “I hope it’s not,” Mr. Trump said, not exactly the voice of reassurance. “But we take it very seriously. Because they happen to be crazy.”",
-   "zh": "",
-   "notes": []
+   "en_html": "President Trump arrived in Manila on Tuesday, <mark class=\"voc\">at the tail end of</mark> a diplomatic summit in which world leaders had arranged to hold part of the gathering at his hotel. His agenda was <mark class=\"voc\">supposed to be</mark> about <mark class=\"voc\">inking</mark> trade deals and <mark class=\"voc\">embracing</mark> regional partnerships, but several problems from home had followed him overseas.",
+   "zh": "川总于周二抵达马尼拉。此时这场外交峰会已近尾声——各国领导人甚至安排，把其中一部分会议放在他下榻的酒店里召开。按原定议程，他此行的任务是签下几笔贸易协议、拉紧与区域伙伴的关系。可好几个国内的问题，一路跟着他飞到了海外。",
+   "notes": [
+    {
+     "w": "at the tail end of",
+     "ipa": "/æt ðə teɪl end əv/",
+     "pos": "phrase",
+     "en": "at the tail end of (phrase) means at the very last part of a period or event",
+     "zh": "\"在某条尾巴的末端\"（tail 是尾巴，end 是尽头），本文语境核心义为在……的最后阶段",
+     "ctx": "这一个短语定了整段的调子。他不是\"在峰会期间到的\"，是\"在峰会快散场的时候到的\"。作者不写at the end of，多写一个tail，画面就从\"末尾\"变成\"尾巴尖\"，还带着\"剩下的、不重要的\"那层意味",
+     "ex1": "We caught the tail end of the storm.我们赶上了这场暴风雨的尾巴。",
+     "ex2": "She joined at the tail end of the project.她是在项目快结束时加入的。"
+    },
+    {
+     "w": "be supposed to be",
+     "ipa": "/bi səˈpəʊzd tə bi/",
+     "pos": "phrase",
+     "en": "be supposed to be (phrase) means what was planned or expected, often when it did not happen",
+     "zh": "\"被认为应该\"（suppose 是\"设想\"），本文语境核心义为本来应该、原定是",
+     "ctx": "这是全段最关键的一个词组。它的功能是提前给出一张空头支票。你写 his agenda was supposed to be about inking trade deals，读者立刻知道：后面这些事没成。这个词组自带\"落空\"的影子，比should have been 更轻，比was going to 更无奈",
+     "ex1": "I was supposed to be off today.我今天本该休息的。",
+     "ex2": "This was supposed to be a quick meeting.这本来该是个短会。"
+    },
+    {
+     "w": "ink",
+     "ipa": "/ɪŋk/",
+     "pos": "v.",
+     "en": "ink (v.) means to sign a document, especially a business or political deal",
+     "zh": "\"用墨水写\"（ink 作名词是墨水），本文语境核心义为签下（协议）",
+     "ctx": "作者不用sign，用ink。sign 只说明动作，ink 说明墨迹。这个词带\"刚签完、墨还没干\"的新鲜感，也带一点业内人的随意。用ink a deal 的人，是天天跟协议打交道的人。作者选它，是站在跑商业口的语气里写外交",
+     "ex1": "The two firms inked a deal worth $2 billion.两家公司签下了一笔二十亿美元的交易。",
+     "ex2": "The contract was inked in March.合同是三月签的。"
+    },
+    {
+     "w": "embrace",
+     "ipa": "/ɪmˈbreɪs/",
+     "pos": "v.",
+     "en": "embrace (v.) means to accept something enthusiastically and willingly",
+     "zh": "\"抱在怀里\"（em 进入+ bracchium 手臂），本文语境核心义为欣然接受、主动拥抱",
+     "ctx": "作者写embracing regional partnerships。embrace 是主动的、带热情的，不是accept 那种被动的接受。用这个词，是因为后面要说他其实什么都没拥抱。前面给的温度越高，后面的落差越大",
+     "ex1": "The industry has been slow to embrace the new standard.这个行业接受新标准一直很慢。",
+     "ex2": "She embraced the challenge rather than avoiding it.她迎上这个挑战，没有回避。"
+    }
+   ]
   },
   {
-   "en_html": "Mr. Trump’s visit to Manila amounted to a layover. When he arrived, he trudged off the plane like all weary long-haul travelers do, and slowly made his way down the stairs of Air Force One. Mr. Trump was then whisked to his hotel, where several world leaders had gathered to bring the diplomatic summit to his doorstep.",
-   "zh": "",
-   "notes": []
+   "en_html": "He was <mark class=\"voc\">pelted</mark> with questions. He seemed to <mark class=\"voc\">meet each with a shrug</mark>. Did he have any worries about the <mark class=\"voc\">aviation</mark>-system <mark class=\"voc\">meltdown</mark> <mark class=\"voc\">afflicting</mark> travelers across the United States, or a technological <mark class=\"voc\">outage</mark> affecting several large banking systems? “It’s life,” Mr. Trump said. “When you’re big and powerful and you have all the money, things like that happen. It’s fine.” What about news reports, so far unconfirmed by the Trump administration, that Iran may be thinking about how to <mark class=\"voc\">unleash</mark> a dirty bomb in Washington? Was an attack on American <mark class=\"voc\">soil</mark> <mark class=\"voc\">imminent</mark>? “I hope it’s not,” Mr. Trump said, <mark class=\"voc\">not exactly</mark> the voice of <mark class=\"voc\">reassurance</mark>. “But we take it very seriously. Because they <mark class=\"voc\">happen to be</mark> crazy.”",
+   "zh": "问题像石头一样朝他砸过来。他好像每一次都只是耸耸肩，就接住了。那场让全美旅客遭罪的航空系统大崩溃，还有那场波及好几家大型银行的技术故障，他就不担心吗？\"这就是生活，\"川总说，\"你又大又强，钱又那么多，这类事总会发生。没事。\"那些报道呢？说伊朗可能正在琢磨怎么在华盛顿放一颗脏弹。这些报道至今没得到川总政府的证实。对美国本土的袭击，是不是已经迫在眉睫？\"我希望不会，\"川总说。这话实在不太像一个让人安心的声音。\"但我们非常认真地对待这件事。因为他们恰好是疯的。\"",
+   "notes": [
+    {
+     "w": "pelt",
+     "ipa": "/pelt/",
+     "pos": "v.",
+     "en": "pelt (v.) means to throw things at someone repeatedly and with force",
+     "zh": "\"接连投掷、猛砸\"（原指扔石头，也指雨点猛下），本文语境核心义为被（问题）连番砸来",
+     "ctx": "这个词把提问写成了攻击。记者不是\"问\"，是\"砸\"。作者用被动pelted with questions，被砸的人是受害者姿态。同样的场面，写成faced questions 就平淡，写成was pelted with questions，你就看见石头了",
+     "ex1": "Reporters pelted him with questions as he left the building.他离开大楼时，记者们一连串问题砸过来。",
+     "ex2": "The bus was pelted with stones.那辆大巴被人扔了石头。"
+    },
+    {
+     "w": "meet sth with sth",
+     "ipa": "/miːt wɪð/",
+     "pos": "phrase",
+     "en": "meet sth with sth (phrase) means to respond to something in a particular way",
+     "zh": "\"以……迎接……\"（meet 是相遇），本文语境核心义为用（某反应）来应对",
+     "ctx": "He seemed to meet each with a shrug。这个结构把\"问题\"和\"反应\"放成对等的两样东西，好像耸肩也是一份答卷。作者用meet，不用answer、不用 respond，因为meet 是\"接住\"，而耸肩确实接住了，只是什么都没给",
+     "ex1": "The government met the protests with silence.政府对抗议保持了沉默。",
+     "ex2": "She met the news with a shrug.她听到这个消息只是耸了耸肩。"
+    },
+    {
+     "w": "aviation",
+     "ipa": "/ˌeɪviˈeɪʃn/",
+     "pos": "n.",
+     "en": "aviation (n.) means the operation of aircraft, or the industry that builds and flies them",
+     "zh": "\"与飞鸟有关的\"（拉丁语avis 鸟），本文语境核心义为航空（业）",
+     "ctx": "作者写aviation-system meltdown，把整个国家的航空体系当成一个系统。加 system 之后，读者想到的不是\"某家航司出问题\"，是\"那张网断了\"。这个词前后一夹，事故的性质就升级了",
+     "ex1": "The aviation industry was hit hard by the pandemic.航空业在疫情期间受到重创。",
+     "ex2": "Aviation safety rules were tightened.航空安全规定收紧了。"
+    },
+    {
+     "w": "meltdown",
+     "ipa": "/ˈmeltdaʊn/",
+     "pos": "n.",
+     "en": "meltdown (n.) means a sudden complete failure of a system, or a severe loss of control",
+     "zh": "\"熔毁\"（melt 融化+ down 向下），本文语境核心义为（系统）全面崩溃",
+     "ctx": "作者写aviation-system meltdown，不是failure，不是disruption。meltdown 来自核反应堆：堆芯温度失控，燃料棒自己熔掉，从内部烧穿。所以这个词的画面不是\"停机\"，是\"化了\"。用它写航空系统，等于说这不是故障，这是自己熔了",
+     "ex1": "The reactor suffered a partial meltdown.那座反应堆发生了部分熔毁。",
+     "ex2": "The airline faced a complete meltdown of its booking system.那家航空公司的订票系统彻底崩了。"
+    },
+    {
+     "w": "afflict",
+     "ipa": "/əˈflɪkt/",
+     "pos": "v.",
+     "en": "afflict (v.) means to cause someone pain, suffering, or trouble over a period of time",
+     "zh": "\"打击、使受苦\"（拉丁语affligere，ad 向+ fligere 打），本文语境核心义为使（大批人）受困扰",
+     "ctx": "作者写the meltdown afflicting travelers across the United States。afflict 的主语是灾难，宾语是人，而且通常是\"一大群人、一段时间\"。它比affect 重，比plague 轻。用afflict，那些旅客就成了\"受灾的人\"，不是\"受影响的用户\"",
+     "ex1": "The region is afflicted by drought every few years.这个地区每隔几年就遭一次旱灾。",
+     "ex2": "The same problems afflict schools across the country.同样的问题困扰着全国各地的学校。"
+    },
+    {
+     "w": "outage",
+     "ipa": "/ˈaʊtɪdʒ/",
+     "pos": "n.",
+     "en": "outage (n.) means a period when a service such as electricity or internet is not working",
+     "zh": "\"停止供应的时段\"（out 向外+ -age 名词后缀，19 世纪从\"断电\"起用），本文语境核心义为（银行系统）中断、瘫痪",
+     "ctx": "作者写a technological outage affecting several large banking systems。outage 的隐含前提是\"本来是通的\"。它不追问原因，只描述\"那段时间不通\"。这个词在电力、网络行业天天用，用在银行系统上，语气像是运维报告，冷得很",
+     "ex1": "A power outage left the whole district dark.一次停电让整个区陷入黑暗。",
+     "ex2": "The bank blamed a network outage for the delays.银行把延误归因于网络中断。"
+    },
+    {
+     "w": "unleash",
+     "ipa": "/ʌnˈliːʃ/",
+     "pos": "v.",
+     "en": "unleash (v.) means to suddenly let loose something powerful that was controlled",
+     "zh": "\"解开狗绳\"（un 相反+ leash 皮带、拴绳），本文语境核心义为放出（某种可怕的东西）",
+     "ctx": "作者写Iran may be thinking about how to unleash a dirty bomb。unleash 的画面是拴着的猛兽被放开。用这个词，那个东西还没发生，但已经被写成\"已经栓好了、只等松手\"。这是记者在用动词制造紧张，不是在陈述情报",
+     "ex1": "The film unleashed a wave of criticism.这部电影引来了一片批评。",
+     "ex2": "New rules could unleash a surge in demand.新规可能释放出一波需求激增。"
+    },
+    {
+     "w": "soil",
+     "ipa": "/sɔɪl/",
+     "pos": "n.",
+     "en": "soil (n.) means a country's territory, especially in the context of an attack",
+     "zh": "\"土地、土壤\"（拉丁语solum，地面），本文语境核心义为国土、领土",
+     "ctx": "作者写an attack on American soil，不写in America。用soil，说的是主权边界，不是地理位置。这个词在战争报道里是固定用法：on American soil、on British soil。换成in America，就变成\"在美国境内\"，主权那层意思没了",
+     "ex1": "It was the first attack on American soil in decades.这是几十年来美国国土首次遭到袭击。",
+     "ex2": "He died on foreign soil.他死在了异国他乡。"
+    },
+    {
+     "w": "imminent",
+     "ipa": "/ˈɪmɪnənt/",
+     "pos": "adj.",
+     "en": "imminent (adj.) means likely to happen very soon, especially of something unpleasant",
+     "zh": "\"悬在头顶上\"（拉丁语imminere，in 在上+ minere 突出、悬出），本文语境核心义为迫在眉睫的",
+     "ctx": "作者写Was an attack on American soil imminent? 这个词的关键不是\"快\"，是\"悬着\"。同族menace（威胁）也是从\"悬出、突出\"来的。所以imminent 天然带压迫感，它描述的不是时间，是头顶那块石头",
+     "ex1": "The building was in imminent danger of collapse.那栋楼随时可能倒塌。",
+     "ex2": "A deal was reported to be imminent.据报道，协议即将达成。"
+    },
+    {
+     "w": "not exactly",
+     "ipa": "/nɒt ɪɡˈzæktli/",
+     "pos": "phrase",
+     "en": "not exactly (phrase) means not at all, used to say the opposite in a polite or ironic way",
+     "zh": "\"不完全是\"（exact 精确+ -ly 副词），本文语境核心义为一点都不、恰恰相反（反讽）",
+     "ctx": "作者写\"I hope it's not,\" Mr. Trump said, not exactly the voice of reassurance。字面是\"不太像一个让人安心的声音\"，实际是\"一点都不让人安心\"。这是全篇最漂亮的五个词，因为作者没有评价，他只是让你去听那个音色",
+     "ex1": "He's not exactly a genius.他算不上聪明。",
+     "ex2": "The hotel wasn't exactly cheap.那家酒店一点都不便宜。"
+    },
+    {
+     "w": "reassurance",
+     "ipa": "/ˌriːəˈʃʊərəns/",
+     "pos": "n.",
+     "en": "reassurance (n.) means words or actions that make someone feel less worried",
+     "zh": "\"再次让人安心\"（re 再+ assure 保证+ -ance 名词后缀），本文语境核心义为安抚、让人放心的话",
+     "ctx": "这个词被作者用在了否定里。not exactly the voice of reassurance，把\"安抚\"当成一种应该具备的音色。他没说\"他在吓人\"，他说\"这不是安抚的声音\"。否定一个词，比否定一个人更狠",
+     "ex1": "The government offered reassurance to worried savers. 政府向担忧的储户做出了安抚。",
+     "ex2": "She needed constant reassurance that she was doing well. 她需要不断地被告知自己做得不错。"
+    },
+    {
+     "w": "happen to be",
+     "ipa": "/ˈhæpən tə bi/",
+     "pos": "phrase",
+     "en": "happen to be (phrase) means used to say something is the case by chance, often with an edge",
+     "zh": "\"碰巧是\"（happen 发生），本文语境核心义为恰好是、偏巧是",
+     "ctx": "They happen to be crazy。加一个happen to，语气立刻变了：不是\"他们是疯子\"，是\"他们恰好是疯子\"。这个\"恰好\"把责任推给了运气。作者引的原话之所以好笑，一半在这个happen to 上",
+     "ex1": "I happen to know the owner.我恰好认识老板。",
+     "ex2": "They happen to be neighbours.他们碰巧是邻居。"
+    }
+   ]
   },
   {
-   "en_html": "Mr. Trump’s trip was planned before the midterm elections, but few Republicans, including Mr. Trump, had predicted them to be a near complete wipeout of the president’s handpicked candidates. His appearance in Asia, two weeks after the election, is in keeping with a long tradition of global trips taken by presidents hoping to divert attention from a damaging domestic story by flexing American power abroad.",
-   "zh": "",
-   "notes": []
+   "en_html": "Mr. Trump’s visit to Manila <mark class=\"voc\">amounted to</mark> a <mark class=\"voc\">layover</mark>. When he arrived, he <mark class=\"voc\">trudged</mark> off the plane like all <mark class=\"voc\">weary</mark> <mark class=\"voc\">long-haul</mark> travelers do, and slowly <mark class=\"voc\">made his way</mark> down the stairs of Air Force One. Mr. Trump was then <mark class=\"voc\">whisked</mark> to his hotel, where several world leaders had gathered to bring the diplomatic summit to his <mark class=\"voc\">doorstep</mark>.",
+   "zh": "川总这趟马尼拉之行，说到底不过是一次中转。落地的时候，他像所有熬完长途航班的旅客一样，拖着腿走下飞机，再慢慢地一级一级下完空军一号的舷梯。随后，他被迅速送往下榻的酒店。而那里，几位世界领导人已经聚齐，把这场外交峰会送到了他的门口。",
+   "notes": [
+    {
+     "w": "amount to",
+     "ipa": "/əˈmaʊnt tə/",
+     "pos": "phrasal v.",
+     "en": "amount to (phrasal v.) means to be the same as something else in effect, often less than expected",
+     "zh": "\"合计达到\"（amount 是数量，拉丁语ad montem，\"往上走\"），本文语境核心义为等于、不过是",
+     "ctx": "这个词自带\"降级\"功能。左边的东西永远比右边大。 His answer amounted to a refusal（他的回答等于拒绝）、All that work amounted to nothing（那么多活儿等于白干）。所以amount to a layover，是把一趟跨半个地球的总统出访，压成了一次转机",
+     "ex1": "His answer amounted to a refusal.他的回答等于拒绝。",
+     "ex2": "All that effort amounted to nothing.那么多努力等于白费。"
+    },
+    {
+     "w": "layover",
+     "ipa": "/ˈleɪəʊvə/",
+     "pos": "n.",
+     "en": "layover (n.) means a short stay somewhere between two parts of a journey",
+     "zh": "\"躺下等一下\"（lay 放+ over 过，19 世纪美国铁路用语），本文语境核心义为中转停留",
+     "ctx": "这是全篇最好的一个比喻。作者说这趟访问\"等于一次中转\"，不是在说行程短，是在说\"这里不是目的地\"。而且layover 有个行业界限：一般指24 小时以内的停留，超过就叫stopover。用这个词，就等于给这趟访问标了时限",
+     "ex1": "We had a six-hour layover in Istanbul.我们在伊斯坦布尔中转停留了六个小时。",
+     "ex2": "The city was just a layover on the way home.那座城市只是回家路上的一个中转站。"
+    },
+    {
+     "w": "trudge",
+     "ipa": "/trʌdʒ/",
+     "pos": "v.",
+     "en": "trudge (v.) means to walk slowly with heavy steps, usually because you are tired or unwilling",
+     "zh": "\"踏着沉重的步子走\"（16 世纪，来源不明，可能与\"拖着\"有关），本文语境核心义为拖着步子走",
+     "ctx": "一个词写完了他的状态。作者写he trudged off the plane like all weary long-haul travelers do。他不是走下飞机，是\"拖\"下来的。而这个词的分量在 like all weary long-haul travelers：总统和经济舱乘客，在这一刻是同一个姿势",
+     "ex1": "We trudged through the snow for an hour.我们在雪里走了一个小时。",
+     "ex2": "He trudged up the stairs with the shopping.他拎着买的东西，拖着腿上了楼。"
+    },
+    {
+     "w": "weary",
+     "ipa": "/ˈwɪəri/",
+     "pos": "adj.",
+     "en": "weary (adj.) means very tired, especially tired in a way that goes deeper than the body",
+     "zh": "\"疲乏到心里\"（古英语werig），本文语境核心义为疲累的、倦的",
+     "ctx": "作者写weary long-haul travelers。tired 是身体的，weary 是心的。英语里有一串词只跟weary 搭配：world-weary（厌世的）、war-weary（厌战的）。用 weary 写一个刚下飞机的人，作者在暗示的不只是时差",
+     "ex1": "The passengers looked weary after the delay.延误之后，乘客们一脸疲累。",
+     "ex2": "The country has grown weary of war.这个国家已经厌战了。"
+    },
+    {
+     "w": "long-haul",
+     "ipa": "/ˈlɒŋ hɔːl/",
+     "pos": "adj.",
+     "en": "long-haul (adj.) means travelling over a long distance, especially by air",
+     "zh": "\"长途拖运\"（haul 是拖、拉），本文语境核心义为长途的",
+     "ctx": "作者用long-haul travelers 这个身份，把总统放进了普通旅客那一类。同一个机舱里坐着的人，都是拖着箱子倒时差的人。而这个词组还有个反义：short- haul 短途。他偏用long-haul，是在强调这趟有多远",
+     "ex1": "She flies long-haul twice a month.她一个月飞两次长途。",
+     "ex2": "Over the long haul, the policy will pay off.长远看，这项政策会有回报。"
+    },
+    {
+     "w": "make one's way",
+     "ipa": "/meɪk wʌnz weɪ/",
+     "pos": "phrase",
+     "en": "make one's way (phrase) means to move towards a place, often slowly or with effort",
+     "zh": "\"给自己开路\"（make 造+ way 路），本文语境核心义为一步步往（某处）走",
+     "ctx": "作者写slowly made his way down the stairs。他不写walked down the stairs。make one's way 的意思是\"自己开出一条路来\"，配上slowly，就成了\"一步一挪\"。上一句是trudged，这一句是made his way，两个慢动作连着，节奏就下来了",
+     "ex1": "She made her way through the crowd.她从人群里挤了过去。",
+     "ex2": "He made his way slowly to the exit.他慢慢往出口走。"
+    },
+    {
+     "w": "whisk",
+     "ipa": "/wɪsk/",
+     "pos": "v.",
+     "en": "whisk (v.) means to take someone somewhere quickly, so that they have no control",
+     "zh": "\"打蛋器\"（古北欧语visk，快速挥动的东西），本文语境核心义为被迅速带走",
+     "ctx": "作者写Mr. Trump was then whisked to his hotel。whisk 的画面是打蛋：手一快，东西就搅走了。而且这个词几乎总是用被动：人被whisked，因为被带走的人没有主动权。前面两个动词是他自己在慢，这个动词换成别人对他做，快慢就调了个头",
+     "ex1": "She was whisked away by security.她被安保迅速带走了。",
+     "ex2": "We were whisked through customs in minutes.我们几分钟就过了海关。"
+    },
+    {
+     "w": "doorstep",
+     "ipa": "/ˈdɔːstep/",
+     "pos": "n.",
+     "en": "doorstep (n.) means the step in front of your door, used to mean the area right by your home",
+     "zh": "\"门前台阶\"（door 门+ step 台阶），本文语境核心义为家门口",
+     "ctx": "作者写world leaders had gathered to bring the diplomatic summit to his doorstep。门前的台阶，是一个人最私人的边界。峰会是公共场合，送到 doorstep，等于把公事搬到了他家门口。这个说法里有明显的\"这不合规矩\"的意味",
+     "ex1": "The shop delivers to your doorstep.这家店送货上门。",
+     "ex2": "The scandal landed on his doorstep.那桩丑闻落到了他头上。"
+    }
+   ]
   },
   {
-   "en_html": "In November 1994, days after Republicans took control of Congress for the first time in decades, President Bill Clinton departed for the Philippines. In 2010, after Democrats lost 63 House seats, President Barack Obama traveled through India, Indonesia, South Korea, Japan and Portugal. Mr. Trump even did it in his first term, jetting to France after Republicans lost control of the House in 2018.",
-   "zh": "",
-   "notes": []
+   "en_html": "Mr. Trump’s trip was planned before the midterm elections, but few Republicans, including Mr. Trump, had predicted them to be a near complete <mark class=\"voc\">wipeout</mark> of the president’s <mark class=\"voc\">handpicked</mark> candidates. His appearance in Asia, two weeks after the election, is <mark class=\"voc\">in keeping with</mark> a long tradition of global trips taken by presidents hoping to <mark class=\"voc\">divert</mark> attention from a damaging domestic story by <mark class=\"voc\">flexing</mark> American power abroad.",
+   "zh": "川总这趟行程，在中期选举之前就已经定好了。但几乎没有哪个共和党人，包括他自己，料到这场选举会把他亲手挑出来的那些候选人，打得几乎一个不剩。而他在亚洲的这次露面，就发生在选举结束两周之后。这个时间安排，恰好合得上一个由来已久的传统：总统们出国访问，图的是在外面秀一把实力，把国内的注意力从一条难看的新闻上引开。",
+   "notes": [
+    {
+     "w": "wipeout",
+     "ipa": "/ˈwaɪpaʊt/",
+     "pos": "n.",
+     "en": "wipeout (n.) means a complete and devastating defeat or destruction",
+     "zh": "\"（浪）把人整个拍翻\"（wipe out 抹掉，冲浪术语），本文语境核心义为惨败、全军覆没",
+     "ctx": "作者写a near complete wipeout of the president's handpicked candidates。这个词的画面不是\"输\"，是\"连人带板被浪卷走\"。英语里\"输\"有一整把尺子：loss、defeat、setback、rout、drubbing、shellacking、landslide、 bloodbath、wipeout。作者挑了最后一档",
+     "ex1": "The party suffered a wipeout in the north. 这个党在北方全军覆没。",
+     "ex2": "The surfer survived a massive wipeout. 那个冲浪手被巨浪拍翻，人没事。"
+    },
+    {
+     "w": "handpicked",
+     "ipa": "/ˌhændˈpɪkt/",
+     "pos": "adj.",
+     "en": "handpicked (adj.) means chosen personally by someone in authority",
+     "zh": "\"用手一个个挑的\"（hand 手+ pick 采摘），本文语境核心义为亲自挑选的",
+     "ctx": "作者写the president's handpicked candidates。这个词把责任扣得很死：不是\"党提名的候选人\"，是\"他亲手挑的\"。用这个词，那场败选的账就落到了一个人头上。同一个事实，写成party candidates，责任就散了",
+     "ex1": "He brought in a handpicked team of advisers. 他带了一支亲自挑选的顾问团队。",
+     "ex2": "The board was handpicked by the founder. 董事会是创始人亲自挑的。"
+    },
+    {
+     "w": "in keeping with",
+     "ipa": "/ɪn ˈkiːpɪŋ wɪð/",
+     "pos": "phrase",
+     "en": "in keeping with (phrase) means in the same style as, or matching, something else",
+     "zh": "\"与……保持一致\"（keep 保持），本文语境核心义为符合（某种传统）、与……一脉相承",
+     "ctx": "作者写his appearance is in keeping with a long tradition。这个短语的暗劲在\"long tradition\"：他没说\"他这么干是因为心虚\"，他说\"这种做法符合一个悠久的传统\"。一个判断，被包装成了一句规律",
+     "ex1": "The design is in keeping with the original building. 这个设计跟原建筑保持了风格一致。",
+     "ex2": "His remarks were out of keeping with his usual tone. 他那番话跟他平时的语气不一致。"
+    },
+    {
+     "w": "divert",
+     "ipa": "/daɪˈvɜːt/",
+     "pos": "v.",
+     "en": "divert (v.) means to change the direction or purpose of something",
+     "zh": "\"转开\"（di 离开+ vert 转），本文语境核心义为转移（注意力）",
+     "ctx": "作者写divert attention from a damaging domestic story。这个词的画面是挖渠：水本来往东流，你挖一条把它引到北边去。同族一串：convert 转变、invert 倒过来、reverse 反转、 versatile 多面的、versus 相对。全是\"转\"",
+     "ex1": "The scandal diverted attention from the policy failure.那桩丑闻把注意力从政策失误上引开了。",
+     "ex2": "The flight was diverted to Chicago.航班改降芝加哥。"
+    },
+    {
+     "w": "flex",
+     "ipa": "/fleks/",
+     "pos": "v.",
+     "en": "flex (v.) means to bend a muscle, and informally to show off your power or wealth",
+     "zh": "\"弯曲（肌肉）\"（拉丁语flectere），本文语境核心义为秀（实力）",
+     "ctx": "作者写flexing American power abroad。这个动词的画面是弯起胳膊给人看肌肉。它在英语口语里已经固定成\"炫耀\"：flex on sb、a flex。用在外交上，就把\"展示国力\"写成了\"秀\"",
+     "ex1": "The navy is flexing its muscles in the region.海军正在该地区秀肌肉。",
+     "ex2": "He bought the car just to flex.他买那辆车就是为了炫。"
+    }
+   ]
   },
   {
-   "en_html": "This time, there was little of substance on Mr. Trump’s schedule aside from signing a trade deal between the United States and Thailand. In the end, not even the trade deal materialized, with the president saying that it would be finished in the coming weeks. “I look forward to finalizing the details of our formal agreement in the coming weeks,” Mr. Trump said. “Our staff is working on it very diligently, and it’ll be done. But the concept of what we have will be really very permanent, and we’re just about there.” He signed something anyway, even in the absence of a deal, under the theory that no favorable photo should go unsnapped.",
-   "zh": "",
-   "notes": []
+   "en_html": "In November 1994, days after Republicans <mark class=\"voc\">took control of</mark> Congress for the first time in decades, President Bill Clinton <mark class=\"voc\">departed for</mark> the Philippines. In 2010, after Democrats lost 63 House seats, President Barack Obama traveled through India, Indonesia, South Korea, Japan and Portugal. Mr. Trump even did it in his first term, <mark class=\"voc\">jetting to</mark> France after Republicans lost control of the House in 2018.",
+   "zh": "1994年11月，共和党几十年来头一回拿下国会，没过几天，克林顿总统就启程去了菲律宾。2010年，民主党丢掉六十三个众议院席位之后，奥巴马总统走了一趟印度、印度尼西亚、韩国、日本和葡萄牙。特朗普在第一任期里也干过同样的事。2018年共和党丢了众议院，他坐着专机去了法国。",
+   "notes": [
+    {
+     "w": "take control of",
+     "ipa": "/teɪk kənˈtrəʊl əv/",
+     "pos": "phrase",
+     "en": "take control of (phrase) means to gain the power to direct something",
+     "zh": "\"拿到控制权\"（control 来自contra rotulum，\"对照账本\"），本文语境核心义为拿下（两院）",
+     "ctx": "作者写Republicans took control of Congress。他写的是Congress，两院。后面两句分别写lost 63 House seats 和lost the House，只有众议院。三个词层级不同，一个字都不能多。这是读外报要练的地方：看他收在哪个词上",
+     "ex1": "The party took control of both chambers. 这个党拿下了两院。",
+     "ex2": "Rebels took control of the airport. 武装分子控制了机场。"
+    },
+    {
+     "w": "depart for",
+     "ipa": "/dɪˈpɑːt fɔː/",
+     "pos": "phrasal v.",
+     "en": "depart for (phrasal v.) means to leave, heading towards a place",
+     "zh": "\"分开、离开\"（de 离开+ pars 部分），本文语境核心义为启程前往",
+     "ctx": "作者用了不止一次，克林顿一次、这一段收尾一次、后面\"before departing for Shenzhen\"又一次。这个词组是给\"出访\"定下的代号。它只写动作，不写目的，也不写心情。机场大屏上departures 那一栏，就是这个语气",
+     "ex1": "The president departed for Manila on Monday.总统周一启程前往马尼拉。",
+     "ex2": "The train departs from platform three.列车从三号站台发车。"
+    },
+    {
+     "w": "jet to",
+     "ipa": "/dʒet tə/",
+     "pos": "phrase",
+     "en": "jet to (phrase) means to fly somewhere quickly, especially in a private or official plane",
+     "zh": "\"喷气式飞机\"（jet 喷射），本文语境核心义为乘专机飞往",
+     "ctx": "作者写jetting to France。这个动词带一点口语的轻快，也有点不以为然：坐专机去，是一种待遇。前面第四段他用trudged 写同一个人的身体状态，这里用jet 写他的行程。一个词写状态，一个词写特权",
+     "ex1": "They jetted off to the Caribbean for a week. 他们坐飞机去加勒比海待了一周。",
+     "ex2": "He jets between capitals every month. 他每个月在各国首都之间飞来飞去。"
+    }
+   ]
   },
   {
-   "en_html": "Before ending his day, Mr. Trump delivered remarks at a dinner of ASEAN leaders, and praised his host, President Ferdinand R. Marcos Jr. of the Philippines. “I don’t want to date myself, but I knew your parents very well. They were great,” Mr. Trump said. “I believe in genetics. They did a good job. You have very good genetics, I can tell you that.”",
-   "zh": "",
-   "notes": []
+   "en_html": "This time, there was little of <mark class=\"voc\">substance</mark> on Mr. Trump’s schedule <mark class=\"voc\">aside from</mark> signing a trade deal between the United States and Thailand. In the end, not even the trade deal <mark class=\"voc\">materialized</mark>, with the president saying that it would be finished <mark class=\"voc\">in the coming weeks</mark>. “I <mark class=\"voc\">look forward to</mark> <mark class=\"voc\">finalizing</mark> the details of our formal agreement in the coming weeks,” Mr. Trump said. “Our staff is working on it very <mark class=\"voc\">diligently</mark>, and it’ll be done. But the concept of what we have will be really very <mark class=\"voc\">permanent</mark>, and we’re just about there.” He signed something anyway, even <mark class=\"voc\">in the absence of</mark> a deal, <mark class=\"voc\">under the theory that</mark> no <mark class=\"voc\">favorable</mark> photo should go un<mark class=\"voc\">snap</mark>ped.",
+   "zh": "这一次，特朗普的日程上几乎没有什么实质内容，除了要签一份美国与泰国之间的贸易协议。到头来，连这份协议也没能落地。总统说，再过几周就能弄完。\"我期待在未来几周内敲定我们这份正式协议的细节，\"特朗普说。\"我们的人正在非常勤勉地推进，会完成的。但我们手上这个东西的概念，将会是非常非常永久的，而且我们差不多就到了。\"没有协议，他还是签了点什么。按照他的逻辑，任何一张有利的照片，都不该被漏掉。",
+   "notes": [
+    {
+     "w": "substance",
+     "ipa": "/ˈsʌbstəns/",
+     "pos": "n.",
+     "en": "substance (n.) means the quality of being important, real, or meaningful",
+     "zh": "\"站在下面的东西\"（sub 在下+ stare 站立），本文语境核心义为实质、实在的内容",
+     "ctx": "作者写there was little of substance on his schedule。这个词的根义是\"底下的支撑物\"。所以\"没有substance\"不是\"没有内容\"，是\"底下是空的\"。这一段有四个词连成一条暗线：substance（实体）→ materialize（变成物质）→ absence（缺席）→ concept（概念）。从有滑到没有",
+     "ex1": "The speech had plenty of style but little substance. 那场演讲形式很足，实质很少。",
+     "ex2": "There is no substance to the allegations. 那些指控没有实质内容。"
+    },
+    {
+     "w": "aside from",
+     "ipa": "/əˈsaɪd frəm/",
+     "pos": "phrase",
+     "en": "aside from (phrase) means except for, or in addition to",
+     "zh": "\"放在一边\"（aside 在旁边），本文语境核心义为除了……之外",
+     "ctx": "作者写 little of substance aside from signing a trade deal。一个aside from，先把\"签协议\"单拎出来当唯一的例外，等于提前声明：这是唯一算得上实事的，结果连这件也没成。这个词组在这里是给后面的落空铺路",
+     "ex1": "Aside from the weather, the trip was fine.除了天气，这趟旅行还行。",
+     "ex2": "The plan is ready, aside from a few details.除了几个细节，方案已经就绪。"
+    },
+    {
+     "w": "materialize",
+     "ipa": "/məˈtɪəriəlaɪz/",
+     "pos": "v.",
+     "en": "materialize (v.) means to happen or become real, often used when something expected fails to appear",
+     "zh": "\"变成物质\"（material 物质+ -ize 动词后缀），本文语境核心义为成为现实、兑现",
+     "ctx": "作者写not even the trade deal materialized。这个词的老底是\"鬼显形\"——旧小说里鬼魂从空气里浮出来、变得能看见。所以它的意思不是\"没谈成\"，是\"它一直没能从空气里长出来\"。作者不用failed，因为failed 是\"有人努力了但失败了\"，didn't materialize 是\"那东西从来就没长成过实体\"",
+     "ex1": "The promised funding never materialized.承诺的资金始终没有兑现。",
+     "ex2": "The feared attack did not materialize.令人担心的袭击并没有发生。"
+    },
+    {
+     "w": "in the coming weeks",
+     "ipa": "/ɪn ðə ˈkʌmɪŋ wiːks/",
+     "pos": "phrase",
+     "en": "in the coming weeks (phrase) means during the next few weeks",
+     "zh": "\"在接下来的几周里\"（coming 即将到来的），本文语境核心义为在未来的几周内",
+     "ctx": "作者写finished in the coming weeks。这个说法极其常见，也极其空洞：它给了你一个时间框架，却没有任何具体日期。政客说\"几周内\"，通常意味着\"我也不知道什么时候\"。作者原样引用，是在让这句话自己暴露它的空",
+     "ex1": "The details will be announced in the coming weeks. 细节将在未来几周内公布。",
+     "ex2": "More changes are expected in the coming months. 预计未来几个月还会有更多变化。"
+    },
+    {
+     "w": "look forward to",
+     "ipa": "/lʊk ˈfɔːwəd tə/",
+     "pos": "phrasal v.",
+     "en": "look forward to (phrasal v.) means to feel pleased and excited about something that is going to happen",
+     "zh": "\"朝前看\"（look 看+ forward 向前+ to 朝向），本文语境核心义为期待",
+     "ctx": "这个词组的语法坑在于to 是介词，后面必须接名词或动名词：look forward to doing，不是to do。作者引的原话里，说话人期待的是\"敲定细节\"，可细节遥遥无期，这个\"期待\"就显得特别空",
+     "ex1": "I look forward to meeting you.我期待见到你。",
+     "ex2": "We look forward to hearing from you soon.我们期待尽快收到你的消息。"
+    },
+    {
+     "w": "finalize",
+     "ipa": "/ˈfaɪnəlaɪz/",
+     "pos": "v.",
+     "en": "finalize (v.) means to complete the last part of a plan or agreement",
+     "zh": "\"使……成为最终版\"（final 最终+ -ize），本文语境核心义为敲定、定稿",
+     "ctx": "作者引的原话是finalizing the details。这个词隐含的意思是\"主体已经好了，只差最后一遍\"。可实际情况是协议根本没签成。说话人用\"敲定细节\"，等于把一个没影的协议说成已经九成九。用词越细，现实越虚",
+     "ex1": "The two sides finalized the agreement on Friday. 双方周五敲定了协议。",
+     "ex2": "We need to finalize the schedule this week. 我们这周需要把日程定下来。"
+    },
+    {
+     "w": "diligently",
+     "ipa": "/ˈdɪlɪdʒəntli/",
+     "pos": "adv.",
+     "en": "diligently (adv.) means in a way that shows careful and persistent effort",
+     "zh": "\"勤勉地\"（拉丁语diligere，\"挑选、珍爱\"），本文语境核心义为兢兢业业地、努力地",
+     "ctx": "作者引的原话是Our staff is working on it very diligently。diligently 是个很正式、很\"表功\"的词，通常出现在评语和讣告里。它跟口语化的it'll be done 摆在一起，产生一种喜剧效果：一个用最隆重副词表功的人，承诺的却是最简单的结果",
+     "ex1": "She worked diligently on the report all week.她一周都在兢兢业业地写报告。",
+     "ex2": "The team diligently checked every figure.团队一丝不苟地核对了每一个数字。"
+    },
+    {
+     "w": "permanent",
+     "ipa": "/ˈpɜːmənənt/",
+     "pos": "adj.",
+     "en": "permanent (adj.) means lasting for a long time or forever, not temporary",
+     "zh": "\"留到最后\"（per 贯穿+ manere 停留），本文语境核心义为永久的、持久的",
+     "ctx": "作者引的原话说the concept of what we have will be really very permanent。这句话的荒谬在于：一个\"概念\"（concept）怎么可能是\"永久\"的？概念只存在于脑子里，你哪天不想了它就没了。用permanent 去形容一个概念，逻辑上就是空的。同族remain、mansion、manor 都是\"停留\"",
+     "ex1": "The accident left permanent damage. 那场事故留下了永久性的损伤。",
+     "ex2": "They need a permanent solution, not a quick fix. 他们需要一劳永逸的办法，不是权宜之计。"
+    },
+    {
+     "w": "in the absence of",
+     "ipa": "/ɪn ðə ˈæbsəns əv/",
+     "pos": "phrase",
+     "en": "in the absence of (phrase) means without something, because it is not there",
+     "zh": "\"在……缺席的情况下\"（absence 缺席，来自拉丁语abesse，\"不在\"），本文语境核心义为在缺少……的情况下",
+     "ctx": "作者写even in the absence of a deal。这个短语是本段暗线的一环： substance（有）→ materialize（没变成实物）→ absence（缺席）→ concept（虚）。一路往下，东西越来越轻。而最妙的是，作者说\"没有协议，他还是签了字\"，签的到底是什么？作者没说",
+     "ex1": "In the absence of a deal, both sides lost.协议没谈成，双方都输了。",
+     "ex2": "The meeting went ahead in his absence.会议在他缺席的情况下照常进行。"
+    },
+    {
+     "w": "under the theory that",
+     "ipa": "/ˈʌndə ðə ˈθɪəri ðæt/",
+     "pos": "phrase",
+     "en": "under the theory that (phrase) means because of the idea or belief that",
+     "zh": "\"基于……的理论\"（theory 理论，希腊语theoria，\"观看、思索\"），本文语境核心义为秉持着……的想法",
+     "ctx": "这是全段最损的一个短语。作者写He signed something anyway, under the theory that no favorable photo should go unsnapped。签字的理由是\"照片不能漏拍\"。under the theory that 给这个荒唐的理由披了件学术外衣，越正式，越好笑",
+     "ex1": "He invested under the theory that prices would rise.他投资是基于价格会涨的想法。",
+     "ex2": "Police acted on the theory that it was an inside job.警方按\"内部作案\"的推测行事。"
+    },
+    {
+     "w": "favorable",
+     "ipa": "/ˈfeɪvərəbl/",
+     "pos": "adj.",
+     "en": "favorable (adj.) means showing approval, or giving an advantage",
+     "zh": "\"带来好处的、表示赞许的\"（favor 恩惠、好意），本文语境核心义为有利的、正面的",
+     "ctx": "作者写no favorable photo。favorable 在这里是\"拍出来好看的、对他有利的\"。照片有两种：对他有利的，和对他不利的。他的理论是，对自己不利的照片一张都不能漏。这个词把拍照从\"记录\"变成了\"经营形象\"",
+     "ex1": "The report gave a favorable impression of the plan. 报告对这个计划给出了正面印象。",
+     "ex2": "They secured favorable terms for the loan. 他们争取到了优惠的贷款条件。"
+    },
+    {
+     "w": "snap",
+     "ipa": "/snæp/",
+     "pos": "v.",
+     "en": "snap (v.) means to take a photograph, especially quickly",
+     "zh": "\"发出清脆的响声\"（拟声词，快门声），本文语境核心义为拍照",
+     "ctx": "作者写no favorable photo should go unsnapped。snap 是从相机快门声来的动词。而go unsnapped 是\"处于没被拍下的状态\"。整个句子在模仿誓词句式：No child left behind、No man left behind。作者把誓词的壳拿来，装进去一句\"照片不能漏拍\"",
+     "ex1": "Tourists snapped photos of the sunset.游客们对着落日拍照。",
+     "ex2": "She snapped a picture of the menu.她拍了一张菜单的照片。"
+    }
+   ]
   },
   {
-   "en_html": "On Wednesday, Mr. Trump will stay in Manila long enough to have lunch at Malacañang Palace and a bilateral meeting with Mr. Marcos before departing for Shenzhen. In China, Mr. Trump needs to extend a soon-expiring trade truce that limited tariffs on Chinese goods entering the United States in return for a Chinese commitment not to cut off rare earths and magnets.",
-   "zh": "",
-   "notes": []
+   "en_html": "Before ending his day, Mr. Trump <mark class=\"voc\">delivered remarks</mark> at a dinner of ASEAN leaders, and praised his <mark class=\"voc\">host</mark>, President Ferdinand R. Marcos Jr. of the Philippines. “I don’t want to <mark class=\"voc\">date myself</mark>, but I knew your parents very well. They were great,” Mr. Trump said. “I believe in <mark class=\"voc\">genetics</mark>. They did a good job. You have very good genetics, I can tell you that.”",
+   "zh": "这一天收尾之前，特朗普在东盟领导人的晚宴上讲了话，夸了他的东道主、菲律宾总统小费迪南德·马科斯。\"我不想暴露年龄，但我跟你父母很熟。他们很棒，\"特朗普说。\"我相信遗传。他们干得不错。你的基因非常好，我跟你说。\"",
+   "notes": [
+    {
+     "w": "deliver remarks",
+     "ipa": "/dɪˈlɪvə rɪˈmɑːks/",
+     "pos": "phrase",
+     "en": "deliver remarks (phrase) means to give a short formal speech",
+     "zh": "\"把话投递出去\"（deliver 投递+ remarks 言论），本文语境核心义为发表讲话、致辞",
+     "ctx": "作者写delivered remarks at a dinner。deliver 的画面是\"投递\"，把话像信件一样送到听众耳朵里。这个词让讲话变成了一件被安排的、正式的事，跟\"随口说\"正好相反。所以后面他说的那些不正式的话，才显得格外刺眼",
+     "ex1": "The minister delivered remarks at the opening ceremony.部长在开幕式上致辞。",
+     "ex2": "She delivered a speech that moved the whole room.她发表了一篇打动全场的演讲。"
+    },
+    {
+     "w": "host",
+     "ipa": "/həʊst/",
+     "pos": "n.",
+     "en": "host (n.) means a person who invites guests and is responsible for them at an event",
+     "zh": "\"主人、款待者\"（拉丁语hospes，\"主人，也指客人\"），本文语境核心义为东道主",
+     "ctx": "作者写praised his host, President Ferdinand R. Marcos Jr.。host 这个词把一场国事访问写成了饭局：他是来吃饭的客人，你是请客的主人。多边外交里的严肃关系，被这个词拉回了人情世故的层面",
+     "ex1": "The host country welcomed the visiting delegation. 东道国欢迎了来访的代表团。",
+     "ex2": "She played host to twenty guests that evening. 她那天晚上招待了二十位客人。"
+    },
+    {
+     "w": "date oneself",
+     "ipa": "/deɪt wʌnˈself/",
+     "pos": "phrase",
+     "en": "date oneself (phrase) means to say something that shows how old you are",
+     "zh": "\"给自己定年代\"（date 判定年代，考古学用法），本文语境核心义为暴露年龄",
+     "ctx": "作者引的原话是I don't want to date myself, but I knew your parents very well。date 在这里是\"判定年代\"，跟考古学家用碳十四给骨头定年代是一个用法。给自己判了年代，就等于报了年龄。说话人一边说\"不想暴露年龄\"，一边暴露得彻彻底底",
+     "ex1": "I'll date myself here, but I remember when there were no smartphones. 我这么说会暴露年龄，但我记得没有智能手机的年代。",
+     "ex2": "Asking about cassette tapes will really date you.问磁带的事真的会暴露你的年龄。"
+    },
+    {
+     "w": "genetics",
+     "ipa": "/dʒəˈnetɪks/",
+     "pos": "n.",
+     "en": "genetics (n.) means the study of how characteristics are passed from parents to children",
+     "zh": "\"与出生、起源有关的学问\"（希腊语genos，\"出生、血统\"），本文语境核心义为遗传（学）",
+     "ctx": "这个词的词根gen- 是\"出生\"，同族一串：gene 基因、genesis 起源、generate 产生、generation 一代、genius 天才（本义\"随出生带来的守护灵\"）、 generous 慷慨（本义\"出身高贵的\"）。说话人把\"基因\"当成赞美一个政治家的最高级，这是全段的荒诞所在",
+     "ex1": "Good genetics is only part of being a great athlete.好基因只是成为优秀运动员的一部分。",
+     "ex2": "Genetics plays a role, but so does environment.基因有作用，环境也一样。"
+    }
+   ]
   },
   {
-   "en_html": "Also lingering over Mr. Trump’s trip to Asia is the fallout from the resignation of Jensen Huang, the chief executive of the chip maker Nvidia, after revelations he had engaged in extramarital affairs. Mr. Huang has been influential in shaping the president’s views about technological competition with China, and made the argument that keeping China dependent on American-made semiconductor chips and technology could help maintain U.S. dominance over Beijing.",
-   "zh": "",
-   "notes": []
+   "en_html": "On Wednesday, Mr. Trump will stay in Manila <mark class=\"voc\">long enough to</mark> have lunch at Malacañang Palace and a <mark class=\"voc\">bilateral</mark> meeting with Mr. Marcos before departing for Shenzhen. In China, Mr. Trump needs to <mark class=\"voc\">extend</mark> a soon-<mark class=\"voc\">expiring</mark> trade <mark class=\"voc\">truce</mark> that limited tariffs on Chinese goods entering the United States <mark class=\"voc\">in return for</mark> a Chinese <mark class=\"voc\">commitment</mark> not to <mark class=\"voc\">cut off</mark> rare earths and magnets.",
+   "zh": "周三，特朗普会在马尼拉待到够吃一顿午饭的时间，地点是马拉卡南宫，并与马科斯举行一场双边会晤，之后飞往深圳。在中国，特朗普需要延长一份即将到期的贸易休战。这份休战限制了进入美国的中国商品关税，作为交换，中方承诺不切断稀土和磁体的供应。",
+   "notes": [
+    {
+     "w": "long enough to",
+     "ipa": "/lɒŋ ɪˈnʌf tə/",
+     "pos": "phrase",
+     "en": "long enough to (phrase) means for a sufficient length of time to do something",
+     "zh": "\"久到足以做某事\"（long 长+ enough 足够+ to 不定式），本文语境核心义为待到能（做某事）",
+     "ctx": "作者写stay in Manila long enough to have lunch。这个结构有两个方向：不够（didn't stay long enough to see the ending）和够（stayed long enough to say goodbye）。这里用的是\"够\"，但你要听出背后的意思——\"只够吃一顿午饭\"。翻译成中文，long enough 很多时候其实是\"只够\"",
+     "ex1": "He didn't stay long enough to see the ending. 他没待够，没看到结局。",
+     "ex2": "She stayed long enough to say goodbye. 她待到了能说再见的时候。"
+    },
+    {
+     "w": "bilateral",
+     "ipa": "/ˌbaɪˈlætərəl/",
+     "pos": "adj.",
+     "en": "bilateral (adj.) means involving two groups or countries",
+     "zh": "\"两边的\"（bi 二+ lateral 边的），本文语境核心义为双边的",
+     "ctx": "作者写a bilateral meeting with Mr. Marcos。这个词把会面的人数说死了：就两方。同族一串：unilateral 单边的、trilateral 三边的、multilateral 多边的。外交里\"双边会晤\"是最小、最具体的一档，跟后面那个\"三方会\"形成数字上的对照",
+     "ex1": "The two leaders held bilateral talks.两位领导人举行了双边会谈。",
+     "ex2": "They signed a bilateral trade deal.他们签了一份双边贸易协议。"
+    },
+    {
+     "w": "extend",
+     "ipa": "/ɪkˈstend/",
+     "pos": "v.",
+     "en": "extend (v.) means to make something last longer, or to reach out",
+     "zh": "\"向外伸\"（ex 向外+ tend 伸展），本文语境核心义为延长、续",
+     "ctx": "作者写needs to extend a soon-expiring trade truce。这个词的根是\"伸\"。同族一串：extent 范围、tension 张力、tense 紧张的、intense 强烈的、tent 帐篷（伸开来的布）。延长一份协议，就是把它往外再拽一段",
+     "ex1": "They agreed to extend the deadline.他们同意延长截止日期。",
+     "ex2": "The company extended the contract for another year.公司把合同又续了一年。"
+    },
+    {
+     "w": "expire",
+     "ipa": "/ɪkˈspaɪə/",
+     "pos": "v.",
+     "en": "expire (v.) means to come to an end, especially of a document or agreement",
+     "zh": "\"呼出最后一口气\"（ex 向外+ spirare 呼吸），本文语境核心义为到期、失效",
+     "ctx": "作者写a soon-expiring trade truce。这个词的本义是\"断气\"。所以\"快到期的协议\"在英文里是\"快断气的协议\"。同族一串全通了：inspire（吸气进去，启发）、 perspire（透过皮肤呼吸，出汗）、conspire（同呼吸，合谋）、spirit（气息，精神）。作者用一个形容词，把一份国际协议写成了一个病人",
+     "ex1": "Her passport expires next month. 她的护照下个月到期。",
+     "ex2": "The offer expires at the end of the week. 这个优惠本周末截止。"
+    },
+    {
+     "w": "truce",
+     "ipa": "/truːs/",
+     "pos": "n.",
+     "en": "truce (n.) means an agreement between enemies to stop fighting for a period",
+     "zh": "\"彼此信任的约定\"（与true、trust、truth 同源），本文语境核心义为休战",
+     "ctx": "作者写extend a trade truce。三个\"停火\"词要分清：ceasefire 最具体（枪停）、armistice 最正式（要签文件）、truce 最临时。所以\"延长一份truce\"，是在延长一样本来就标明\"临时\"的东西。用这个词，等于承认这不是和平，只是暂停",
+     "ex1": "The two sides called a truce to negotiate.双方宣布休战以便谈判。",
+     "ex2": "The truce held for only three months.休战只维持了三个月。"
+    },
+    {
+     "w": "in return for",
+     "ipa": "/ɪn rɪˈtɜːn fɔː/",
+     "pos": "phrase",
+     "en": "in return for (phrase) means as an exchange for something",
+     "zh": "\"作为……的回报\"（return 回+ for 为了），本文语境核心义为作为交换、换取",
+     "ctx": "作者写in return for a Chinese commitment。这个短语把两边摆成天平：美国给的是关税限制，中国给的是一个承诺。注意作者没用in exchange for。in return 更软，它暗示的是一种\"礼尚往来\"，而不是冷冰冰的等价交换",
+     "ex1": "He helped me in return for nothing. 他帮了我，不求回报。",
+     "ex2": "The company offered discounts in return for loyalty. 公司用折扣回报忠诚客户。"
+    },
+    {
+     "w": "commitment",
+     "ipa": "/kəˈmɪtmənt/",
+     "pos": "n.",
+     "en": "commitment (n.) means a promise to do something, or a strong belief in something",
+     "zh": "\"把……托付出去\"（com 共同+ mittere 送出），本文语境核心义为承诺、保证",
+     "ctx": "作者写a Chinese commitment not to cut off rare earths。注意他没写 promise，没写agreement。commitment 的特点是它是一个人的态度，不是一份文件。所以这份休战，美国给的是能查的数（关税），中国给的是不能查的话（承诺）。这个词选得极准",
+     "ex1": "The government made a commitment to cut emissions.政府做出了减排的承诺。",
+     "ex2": "She honoured her commitment despite the cost.她不顾代价地履行了承诺。"
+    },
+    {
+     "w": "cut off",
+     "ipa": "/kʌt ɒf/",
+     "pos": "phrasal v.",
+     "en": "cut off (phrasal v.) means to stop the supply of something, or to separate something",
+     "zh": "\"一刀切掉\"（cut 切+ off 脱离），本文语境核心义为切断（供应）",
+     "ctx": "作者写not to cut off rare earths and magnets。cut off 不是\"减少\"，是\"归零\"。同族一串：cut down 削减、cut back 缩减、cut out 戒掉、cut in 插嘴、cut across 抄近路、cut off 切断。作者用cut off，因为稀土这件事的性质就是：一刀下去，后面没了",
+     "ex1": "The storm cut off power to the whole town.暴风雨切断了全镇的电力。",
+     "ex2": "He was cut off from his family for weeks.他和家人失联了好几周。"
+    }
+   ]
   },
   {
-   "en_html": "Before leaving for Manila, Mr. Trump did not seem concerned about the scandal that has rocked a corporate juggernaut that is critical to the A.I. industry. His usual retort when asked about spying is that everyone does it, and he did not seem especially perturbed. If he was, he would not show it. “You know, we’re heading to China, and I don’t think you want to insult China just before you get there,” Mr. Trump said.",
-   "zh": "",
-   "notes": []
+   "en_html": "Also <mark class=\"voc\">lingering</mark> over Mr. Trump’s trip to Asia is the <mark class=\"voc\">fallout</mark> from the <mark class=\"voc\">resignation</mark> of Jensen Huang, the chief executive of the chip maker Nvidia, after <mark class=\"voc\">revelations</mark> he had engaged in <mark class=\"voc\">extramarital</mark> affairs. Mr. Huang has been influential in <mark class=\"voc\">shaping</mark> the president’s views about technological competition with China, and <mark class=\"voc\">made the argument that</mark> keeping China dependent on American-made semiconductor chips and technology could help maintain U.S. <mark class=\"voc\">dominance over</mark> Beijing.",
+   "zh": "还有一层余波，也悬在这趟亚洲行的上方，那就是黄仁勋辞职带来的震荡。他是芯片公司英伟达的首席执行官，此前被曝出有婚外情。在对华技术竞争这件事上，他一直在塑造总统的看法，还提出过一套主张：只要让中国持续依赖美国制造的芯片和技术，美国对北京的压倒性优势就能维持下去。",
+   "notes": [
+    {
+     "w": "linger",
+     "ipa": "/ˈlɪŋɡə/",
+     "pos": "v.",
+     "en": "linger (v.) means to stay somewhere longer than necessary, or to be slow to disappear",
+     "zh": "\"迟迟不走\"（中古英语lengeren，\"拖延\"），本文语境核心义为滞留不散",
+     "ctx": "作者写lingering over Mr. Trump's trip。这个词的画面是\"该走的东西还没走\"。所以lingering over his trip 不是\"跟着他的行程\"，是\"悬在那儿不肯散\"。同一窝只有linger、lingering、lingeringly。作者用现在分词，那股灰是持续飘着的",
+     "ex1": "He lingered at the door, unwilling to leave.他在门口流连，不愿离开。",
+     "ex2": "The smell of smoke lingered for days.烟味好几天都没散。"
+    },
+    {
+     "w": "fallout",
+     "ipa": "/ˈfɔːlaʊt/",
+     "pos": "n.",
+     "en": "fallout (n.) means the bad results of a situation, or radioactive dust after a nuclear explosion",
+     "zh": "\"核爆后落下的放射性尘埃\"（fall 落+ out 向外），本文语境核心义为余波、后续影响",
+     "ctx": "这是全段最准的一个词。它本是核时代的词：炸完之后的灰尘从天上慢慢落下来，冷战的地下室叫fallout shelter。作者用它，是想说丑闻是爆炸，fallout 是之后一直落下来的灰。所以它不是aftermath（留在地里的再生草），是躲不掉、看不见的东西",
+     "ex1": "The political fallout from the scandal lasted months.那桩丑闻的政治余波持续了好几个月。",
+     "ex2": "They are still dealing with the fallout of the decision.他们还在处理那个决定带来的后续影响。"
+    },
+    {
+     "w": "resignation",
+     "ipa": "/ˌrezɪɡˈneɪʃn/",
+     "pos": "n.",
+     "en": "resignation (n.) means the act of officially leaving a job or position",
+     "zh": "\"把名字签回去\"（re 回+ signare 签字），本文语境核心义为辞职",
+     "ctx": "作者写the resignation of Jensen Huang。resign 拆开是\"把名字签回去\"，你上任签的名，现在交还。英语里\"不干了\"有五档：step down 让位、resign 辞职、quit 不干了、be ousted 被赶下台、be fired 被解雇。作者选了中间最中性的那个，不说谁让他交的",
+     "ex1": "He handed in his resignation on Monday.他周一递交了辞呈。",
+     "ex2": "She resigned over the scandal.她因那桩丑闻而辞职。"
+    },
+    {
+     "w": "revelation",
+     "ipa": "/ˌrevəˈleɪʃn/",
+     "pos": "n.",
+     "en": "revelation (n.) means a surprising fact that is made known, especially one that was secret",
+     "zh": "\"被揭开的事\"（re 相反+ velum 帘子，\"揭开面纱\"），本文语境核心义为被曝出的事",
+     "ctx": "作者写after revelations he had engaged in extramarital affairs。这个词的根是\"揭开帘子\"，《圣经》最后一卷《启示录》就是The Revelation。关键在它和confession 的差别：confession 是当事人自己承认，revelation 是别人挖出来的。记者不能替当事人承认，只能用revelation",
+     "ex1": "The revelations about the company shocked investors.关于那家公司的爆料震惊了投资者。",
+     "ex2": "New revelations emerged in the report.报告里出现了新的爆料。"
+    },
+    {
+     "w": "extramarital",
+     "ipa": "/ˌekstrəˈmærɪtl/",
+     "pos": "adj.",
+     "en": "extramarital (adj.) means happening outside a marriage",
+     "zh": "\"婚外的\"（extra 外面+ marital 婚姻的），本文语境核心义为婚外的",
+     "ctx": "作者写he had engaged in extramarital affairs。extra 这个词根永远在说\"边界外的那一边\"：extraordinary 非凡的、extraterrestrial 地外的、 extracurricular 课外的。而engage in 是\"卷入并持续从事\"，不是\"参加一次\"。作者用 affairs（复数），一个形容词都没加",
+     "ex1": "The scandal involved an extramarital affair.这桩丑闻涉及一段婚外情。",
+     "ex2": "He denied having an extramarital relationship.他否认有婚外关系。"
+    },
+    {
+     "w": "shape",
+     "ipa": "/ʃeɪp/",
+     "pos": "v.",
+     "en": "shape (v.) means to influence the way something develops, so that it has a particular form",
+     "zh": "\"塑形\"（古英语sceap，\"形状\"），本文语境核心义为塑造、决定……的走向",
+     "ctx": "作者写influential in shaping the president's views。shape 不是\"影响\"，是\"捏成一个形状\"。这个看法的形状有他的指纹。注意前面的搭配是influential in doing，介词是in 不是to。作者用shaping，是把黄仁勋写成了总统世界观的设计师",
+     "ex1": "The experience shaped his views on China.那段经历塑造了他对中国的看法。",
+     "ex2": "Public opinion is shaped by the media.舆论是被媒体塑造的。"
+    },
+    {
+     "w": "make the argument that",
+     "ipa": "/meɪk ðə ˈɑːɡjumənt ðæt/",
+     "pos": "phrase",
+     "en": "make the argument that (phrase) means to put forward a reason or set of reasons for a position",
+     "zh": "\"提出一套论证\"（argue 论证，不是\"争吵\"），本文语境核心义为主张、论证说",
+     "ctx": "作者写he made the argument that keeping China dependent... could help maintain U.S. dominance。这个结构不是\"他说了句话\"，是\"他提出了一套逻辑\"。话可以随口说，逻辑是要负责任的。后面that 引导的是同位语从句，说明这个 argument 的内容",
+     "ex1": "She made the argument that early action saves money.她论证说，早行动能省钱。",
+     "ex2": "He makes a strong case for reform.他为改革提出了有力的论证。"
+    },
+    {
+     "w": "dominance over",
+     "ipa": "/ˈdɒmɪnəns ˈəʊvə/",
+     "pos": "n.",
+     "en": "dominance over (n.) means the state of being more powerful or important than someone else",
+     "zh": "\"作主人的地位\"（拉丁语dominus，\"主人\"），本文语境核心义为对……的支配地位",
+     "ctx": "作者写maintain U.S. dominance over Beijing。介词是over，不是to，也不是on。因为over 有\"在上方压着\"的空间感。同族搭配：control over、advantage over、an edge over。作者写Beijing 而不写 China，是借代，指的不是那片土地，是那个做决定的机构",
+     "ex1": "The company has maintained market dominance for years.这家公司多年来一直保持市场主导地位。",
+     "ex2": "The team asserted its dominance early in the game.这支队伍在比赛一开始就确立了统治地位。"
+    }
+   ]
+  },
+  {
+   "en_html": "Before leaving for Manila, Mr. Trump did not seem concerned about the scandal that has <mark class=\"voc\">rocked</mark> a corporate <mark class=\"voc\">juggernaut</mark> that is critical to the A.I. industry. His usual <mark class=\"voc\">retort</mark> when asked about spying is that everyone does it, and he did not seem especially <mark class=\"voc\">perturbed</mark>. If he was, he would not show it. “You know, we’re heading to China, and I don’t think you want to insult China just before you get there,” Mr. Trump said.",
+   "zh": "在动身飞往马尼拉之前，特朗普对这场丑闻并不显得担心。这场丑闻动摇了一家对人工智能产业至关重要的巨无霸公司。被问到间谍问题时，他一贯的顶法是人人都这么干。而他看上去也没有特别不安。如果他真的不安，他也不会表现出来。\"你知道的，我们正要去中国。我想，你不会想在到那儿之前，就先把它给得罪了吧。\"他说。",
+   "notes": [
+    {
+     "w": "rock",
+     "ipa": "/rɒk/",
+     "pos": "v.",
+     "en": "rock (v.) means to make something shake or to shock a person, group, or place",
+     "zh": "\"摇动\"（与名词\"岩石\"同形，作动词取\"摇晃\"义），本文语境核心义为动摇、震动",
+     "ctx": "作者写a scandal that has rocked a corporate juggernaut。rock 作动词是\"从底部晃动\"，比shake 重——shake 是抖，抖完还在原地；rock 是整个结构在晃。而且时态是has rocked，现在完成时：已经晃了，而且还在晃",
+     "ex1": "The news rocked the financial markets.这个消息震动了金融市场。",
+     "ex2": "The scandal rocked the government.那桩丑闻震动了政府。"
+    },
+    {
+     "w": "juggernaut",
+     "ipa": "/ˈdʒʌɡənɔːt/",
+     "pos": "n.",
+     "en": "juggernaut (n.) means a huge, powerful, and unstoppable force or organisation",
+     "zh": "\"世界之主的战车\"（印地语Jagannath，\"世界之主\"），本文语境核心义为势不可挡的巨无霸",
+     "ctx": "作者写a corporate juggernaut that is critical to the A.I. industry。这个词来自印度普里城的战车节：载着神像的巨车，几百人拉绳，一旦动起来停不住也拐不了弯。十七世纪英国人把它带回英语，后来比喻\"碾过去不问理由的东西\"。英伟达五万亿市值，四个月涨一万亿，就是这个画面",
+     "ex1": "The tech juggernaut kept growing despite the lawsuits.尽管官司缠身，那个科技巨头仍在增长。",
+     "ex2": "The juggernaut of the market rolls on.市场的洪流滚滚向前。"
+    },
+    {
+     "w": "retort",
+     "ipa": "/rɪˈtɔːt/",
+     "pos": "v./n.",
+     "en": "retort (v.) means to reply quickly, in an angry or humorous way",
+     "zh": "\"把话扭回去\"（re 回+ torquere 扭），本文语境核心义为回嘴、反驳",
+     "ctx": "作者写his usual retort when asked about spying。这个词跟reply、 answer、respond 都不一样，它是\"顶回去\"，带一点不客气。同族一串全是\"扭\"： distort 扭歪、torture 扭折、torque 扭矩、extort 勒索、contort 扭曲。而且usual 说明这套说辞他用了不止一次",
+     "ex1": "She came back with a sharp retort.她针锋相对地回了一句。",
+     "ex2": "\"So do you,\" he retorted.\"你也一样，\"他回嘴道。"
+    },
+    {
+     "w": "perturbed",
+     "ipa": "/pəˈtɜːbd/",
+     "pos": "adj.",
+     "en": "perturbed (adj.) means worried or upset about something",
+     "zh": "\"被彻底搅浑的\"（per 彻底+ turbare 搅动），本文语境核心义为不安的、心烦的",
+     "ctx": "作者写he did not seem especially perturbed。这个词的画面是\"一池水被搅浑\"。同族：disturb 打扰、turbulent 动荡的、turbine 涡轮、turbo 增压——涡轮和\"心里不安\"是同一窝词。而especially 给这句话留了口子：不是\"不慌\"，是\"没有特别慌\"",
+     "ex1": "She seemed perturbed by the question.她似乎被这个问题搅得不安。",
+     "ex2": "He was not at all perturbed by the criticism.他对批评毫不在意。"
+    }
+   ]
   }
  ],
- "proper": [],
+ "proper": [
+  {
+   "name": "ASEAN",
+   "def": "简要介绍：东南亚国家联盟，1967 年成立，目前有11 个成员国（含2025 年入盟的东帝汶）。它是一个相对松散的区域组织，靠共识议事，不设超国家的强制机构，所以英文里用Association（联盟）而不用Organization（组织）。<br>本文中的意思：川总这趟访问的名义目的地。作者点出他是在峰会\"接近尾声\"时才到，又点出各国领导人把部分会议安排到他的酒店，暗指这位客人享受着与身份不相称的迁就。"
+  },
+  {
+   "name": "Manila",
+   "def": "简要介绍：菲律宾首都，位于吕宋岛西岸，临马尼拉湾。其历史复杂，先后被西班牙（约330 年）和美国统治，二战后才随菲律宾独立。城市名源自他加禄语的一种水边植物nilad。<br>本文中的意思：川总亚洲行的第一站，也是原文所说的\"中转站\"。作者用它承载了一个反讽：一个跨半个地球而来的总统，在这儿只待了不到一天。"
+  },
+  {
+   "name": "Ferdinand R. Marcos Jr.",
+   "def": "简要介绍：老马科斯之子，全名与父亲相同，仅多一个Jr.。2022 年以压倒性多数当选菲律宾总统，被视为马科斯家族的政治回归。他上任后在外交上相对平衡，既维持与美国的盟友关系，也重视对华经济合作。<br>本文中的意思：这场晚宴的东道主，也是川总\"基因论\"的对象。作者写他\"是独裁者之子\"，是为了让读者看清那句\"你基因很好\"到底在夸什么。"
+  },
+  {
+   "name": "Malacañang Palace",
+   "def": "简要介绍：菲律宾总统府，位于马尼拉巴石河畔。名字来自他加禄语may lakan diyan，意为\"那里住着一位贵族\"。这栋建筑先后是西班牙总督、美国总督和菲律宾总统的官邸。<br>本文中的意思：川总第二天午饭的地点。作者写他\"待到够吃一顿午饭的时间\"就走，把这座承载了三朝历史的宫殿，写成了一个打卡点。"
+  },
+  {
+   "name": "APEC",
+   "def": "简要介绍：亚太经济合作组织，1989 年成立，21 个成员，覆盖全球约一半的经济总量。它以\"领导人非正式会议\"闻名，1993 年西雅图首届上克林顿穿牛仔裤亮相，1994 年印尼茂物会议起形成了穿东道国传统服饰合影的惯例。<br>本文中的意思：川总这趟的真正目的地之一。他要在中国深圳出席APEC 峰会，并与习近平、普京会面——这被写成了他真正上心的一件事，与马尼拉的\"敷衍\"形成对比。"
+  },
+  {
+   "name": "Nvidia",
+   "def": "简要介绍：全球市值最高的半导体公司之一，以图形处理器（GPU）起家，后成为人工智能芯片的绝对龙头。2025 年10 月29 日，其市值突破5 万亿美元，成为全球首家，且从4 万亿到5 万亿仅用四个月。<br>本文中的意思：作者笔下的corporate juggernaut（巨无霸）。它的CEO 辞职，被写成足以\"震动\"一家五万亿公司的丑闻，而川总对它的态度是\"没多看一眼\"。"
+  },
+  {
+   "name": "Jensen Huang",
+   "def": "简要介绍：英伟达创始人兼长期CEO，美籍华人，出生于中国台湾。他长期主张\"让中国依赖美国芯片有利于美国安全\"，认为断供反而会逼中国自研、最终追赶上来。2025 年他曾与川总达成\"英伟达上缴中国区收入15% 以换取出口许可\"的安排（川总原本要20%）。<br>本文中的意思：全文最重的一个人物。他的主张直接塑造了川总的对华科技观，而这套世界观随他的辞职而动摇。作者用他串起了丑闻、芯片、内斗三条线。"
+  },
+  {
+   "name": "rare earths",
+   "def": "简要介绍：钪、钇和镧系共17 种元素的总称。它们其实并不\"稀\"，铈的储量甚至和铜相当；真正稀缺的是\"分离提炼\"——17 种元素性质相近，一种一种拆出来又脏又难，全球能稳定量产的国家屈指可数。中国的优势在提炼环节。<br>本文中的意思：川总\"需要\"的对象。文章写他要延长休战，以换取中国\"不断供稀土和磁体\"的承诺。这是全篇唯一一次，让这个\"对什么都无所谓的人\"显得有所谓。"
+  },
+  {
+   "name": "midterm elections",
+   "def": "简要介绍：美国在总统任期中间（每四年一次）举行的国会选举，改选全部众议员和约三分之一的参议员。它常被视为对在任总统的\"期中考\"。<br>本文中的意思：文章分析逻辑的起点。2026 年11 月3 日中期选举，川总亲点的候选人大面积落败，两周后他启程亚洲——作者把这个时间差，写成\"总统败选后出国转移视线\"的老传统。"
+  },
+  {
+   "name": "Air Force One",
+   "def": "简要介绍：并非某一架飞机，而是\"美国总统乘坐的美国空军飞机\"这一身份的呼号。1953年艾森豪威尔所乘飞机与一架民航机差点在空中相撞后，空军才定下这个专属呼号。现役两架VC-25A（改装自波音747），尾号28000 和29000，一主一备。<br>本文中的意思：身份的象征，也是反讽的载体。作者写他从这种拥有总统套房的飞机上，走出了经济舱旅客般的疲惫姿态——身份再尊贵，也抵不过一趟长途。"
+  },
+  {
+   "name": "dirty bomb",
+   "def": "简要介绍：一种\"放射性扩散装置\"（RDD），用常规炸药把放射性物质炸散，制造污染和恐慌。美国核监管委员会的原话是：它不是\"大规模杀伤性武器\"，而是\"大规模扰乱武器\"，多数情况下普通炸药的伤害反而更大。<br>本文中的意思：文章开头那个\"疯\"字的前情。记者问伊朗是否可能用脏弹袭击华盛顿，川总回答\"我希望不会……因为他们恰好是疯的\"。理解脏弹是\"吓人\"而非\"杀人\"，才明白这场问答的荒诞。"
+  }
+ ],
  "sources_note": "依据美国《纽约时报》（The New York Times）2026-11-19 报道。",
- "practice": {},
+ "practice": {
+  "intro": "请将以下中文句子翻译为英文（参考答案见后）。",
+  "items": [
+   "面对国内接连不断的坏消息，他只是耸耸肩，回了一句\"人生就是这样\"。",
+   "一下飞机，记者们就连珠炮似地抛来问题，追问那笔本应在峰会上签署的贸易协议为何迟迟没有兑现。",
+   "在他看来，这趟马尼拉之行不过是一次中转，根本算不上一次真正的外交访问。",
+   "在中期选举惨败后出访亚洲，正是总统们惯用的老套路——借对外展示实力来转移人们对国内困境的注意力。",
+   "他拖着步子走下飞机，随即被迅速送往酒店，各国领导人早已在那里等候。",
+   "他亲手挑选的候选人几乎全军覆没，此刻他却还得赶去续签一份已经到期的贸易休战。"
+  ],
+  "critical_en": "",
+  "critical_zh": "",
+  "answer": "1. He simply shrugged off the mounting bad news at home, answering with a dismissive \"It's life.\"<br><br>2. As soon as he landed, reporters pelted him with questions about why the trade deal that was supposed to be signed at the summit had failed to materialize.<br><br>3. In his eyes, the Manila visit amounted to little more than a layover, not a real diplomatic visit.<br><br>4. Travelling to Asia after a midterm wipeout is in keeping with the long tradition of presidents diverting attention from domestic troubles by flexing American power abroad.<br><br>5. He trudged off the plane and was then whisked to his hotel, where world leaders had already gathered.<br><br>6. His handpicked candidates suffered a near-complete wipeout, yet he now had to rush to extend a trade truce that had already expired."
+ },
  "mindmap": {
   "aria": "出访先耸肩 思维导图",
   "alt": "出访先耸肩 思维导图",

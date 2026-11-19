@@ -1,6 +1,13 @@
 // ===== 文章数据库（独立静态资源；正文全文见 search-index.js） =====
     const ARTICLES = [
       {
+        title: "mogging拿下2026年度词汇：9个新词，看懂这一年人们在焦虑什么",
+        publishDate: "2026-11-20",
+        fileKey: "2026-11-20_001",
+        readingPath: "/outward-reading/articles/2026/11/2026-11-20_001.reading.html",
+        source: "Quartz"
+      },
+      {
         title: "川总启程出访亚洲，对国内的种种担忧一概耸肩不理：“没事。”",
         publishDate: "2026-11-19",
         fileKey: "2026-11-19_001",
