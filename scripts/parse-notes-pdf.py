@@ -34,6 +34,7 @@ RADICAL_MAP = {
     '\u2ebf': '言', '\u2ea2': '月', '\u2eb9': '高', '\u2ec2': '页',
     '\u2ec4': '西', '\u2ec5': '见', '\u2ee9': '黄',
     '\u2ef0': '龙', '\u2ee4': '鬼', '\u2eec': '齐', '\u2ed8': '青',
+    '\u2ed9': '韦',
 }
 
 # 练习区起头语随课件版式变化（旧版「请将以下中文句子」，新版「请根据今天学习的文章」）。
@@ -411,7 +412,10 @@ def run_new_edition(clean, practice_mark):
                                             or not clean[j].strip()):
                         j += 1
                     nxt = re.sub(r'^\d+\.\s*', '', clean[j].strip()) if j < para_end else ''
-                    if nxt and CJK.search(nxt[:6]):
+                    # 折页后的译文首行可能以英文专名起首（如「Firewave 最初是…」），
+                    # 剥掉行首英文词再探中文，避免误判为下一页的英文正文而丢译文。
+                    probe = re.sub(r'^[A-Za-z][A-Za-z’\-]*\s+', '', nxt)
+                    if nxt and CJK.search(probe[:6]):
                         clean[j] = nxt
                         i = j
                         continue
