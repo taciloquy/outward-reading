@@ -262,18 +262,23 @@ def main():
     b = s.index('</div>', a)
     s = s[:a] + "\n" + pnav + s[b:]
 
-    # 9. 练习区（原文无练习时整段隐藏，避免留一个空的「翻译练习」区）
+    # 9. 练习区（原文无练习时整段隐藏，避免留一个空的练习区）
     pr = c.get("practice") or {}
-    has_practice = pr.get("items") or pr.get("answer") or pr.get("intro") or pr.get("critical_en")
+    has_practice = (pr.get("items") or pr.get("answer") or pr.get("intro")
+                    or pr.get("critical_en") or pr.get("exercise_verbatim"))
     if has_practice:
-        items_html = "<br><br>".join(f"{i+1}. {it}" for i, it in enumerate(pr.get("items") or []))
-        ex_body = f"{pr.get('intro','')}<br><br>{items_html}"
-        # 本期待无思考题时不留一个只有标题的空块（如 2026-11-12）。
-        if pr.get("critical_en") or pr.get("critical_zh"):
-            ex_body += (f"<br><br>Critical Thinking 课后思考<br>{pr.get('critical_en','')}"
-                        f"<br><br>{pr.get('critical_zh','')}")
+        if pr.get("exercise_verbatim"):
+            # PPT 原文逐字照搬：题号/关键词/要求/思考题均已按原文还原，渲染器不做任何加工
+            ex_body = pr["exercise_verbatim"]
+        else:
+            items_html = "<br><br>".join(f"{i+1}. {it}" for i, it in enumerate(pr.get("items") or []))
+            ex_body = f"{pr.get('intro','')}<br><br>{items_html}"
+            # 本期待无思考题时不留一个只有标题的空块（如 2026-11-12）。
+            if pr.get("critical_en") or pr.get("critical_zh"):
+                ex_body += (f"<br><br>Critical Thinking 课后思考<br>{pr.get('critical_en','')}"
+                            f"<br><br>{pr.get('critical_zh','')}")
         practice = f'''<section class="practice" id="practice">
-  <h2>翻译练习</h2>
+  <h2>练习</h2>
 
   <div class="fold" id="fold-exercise">
     <button class="fold-head" onclick="toggleFold('fold-exercise')">
@@ -286,7 +291,7 @@ def main():
     <button class="fold-head" onclick="toggleFold('fold-answer')">
       <span>参考答案</span><span class="arrow">▶</span>
     </button>
-    <div class="fold-body">{pr.get("answer","")}</div>
+    <div class="fold-body">{pr.get("answer_verbatim") or pr.get("answer","")}</div>
   </div>
 </section>'''
     else:
