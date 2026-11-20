@@ -722,17 +722,13 @@
  ],
  "sources_note": "依据美国《纽约时报》（The New York Times）2026-11-10 报道。",
  "practice": {
-  "intro": "请根据今天学习的文章，用自己的英文复述整篇新闻（提示词见各题括号内）。",
-  "items": [
-   "事件曝光：英伟达CEO遭调查。英伟达宣布对首席执行官黄仁勋展开调查，因为他承认与一名被美国情报机构认定为间谍的商业高管存在亲密关系，并为自己的婚外情公开道歉。（open an investigation into / acknowledge / intimate relationship / apologize）",
-   "从事业巅峰到个人危机。过去几年，黄仁勋带领英伟达成为全球最有价值的公司之一，自己也成为科技界的明星人物。然而，这场风波成为他事业中一次罕见的失误。（could do no wrong / valuable / misstep / affair）",
-   "神秘公司Megaspeed引起怀疑。Megaspeed通过购买英伟达芯片建设数据中心，再向中国企业出租算力。其关联公司采购了价值至少48亿美元的设备，但调查人员发现部分设备仍然装在箱子里，因此怀疑芯片可能被非法转运。（middleman / computing power / suspicious / illegally）",
-   "情报监视揭露关系真相。美国政府对黄乐进行监视，发现她与黄仁勋之间存在恋爱关系。这与英伟达此前声称两人只是正常商业往来的说法相矛盾。（surveillance / romantic / misleading / undercut）",
-   "调查继续，特朗普公开支持。尽管国会希望黄仁勋作证，英伟达董事会仍表示他可以继续领导公司。特朗普也公开支持黄仁勋，但事件仍有许多问题尚未得到解答。（testify / public support / continue / remain unanswered）"
-  ],
-  "critical_en": "Should a successful CEO’s private life affect their professional reputation and career? Why or why not?",
-  "critical_zh": "一位成功的首席执行官，其私人生活是否应该影响他的职业声誉和事业？为什么？",
-  "answer": "1. Nvidia opened an investigation into CEO Jensen Huang after he acknowledged an affair with a business executive identified by U.S. intelligence as a Chinese spy. The scandal was a rare misstep for Huang, who had made Nvidia one of the world’s most valuable companies. Investigators were already suspicious of Megaspeed’s huge chip purchases and possible illegal exports to China. Government surveillance revealed Huang’s romantic relationship, undercutting Nvidia’s earlier statements. Although Congress wanted him to testify, Nvidia’s board allowed him to continue leading the company. President Trump also expressed public support, but many questions remain unanswered.<br>参考译文：英伟达对首席执行官黄仁勋展开调查，此前他承认与一名被美国情报机构认定为中国间谍的商业高管发生婚外情。这场丑闻成为黄仁勋罕见的一次失误，而他此前已将英伟达发展成全球最有价值的公司之一。调查人员此前就已经对Megaspeed巨额的芯片采购以及可能存在的非法对华出口行为产生怀疑。政府监视行动揭露了黄仁勋的恋爱关系，削弱了英伟达此前声明的可信度。尽管国会希望他出席作证，英伟达董事会仍允许他继续领导公司。特朗普总统也公开表达了支持，但许多问题仍未得到解答。<br><br>2. I believe a CEO’s private life should remain private unless their actions affect the company or public trust. However, if a personal relationship creates security risks or leads to misleading statements, an investigation is necessary. Professional success should not protect anyone from responsibility.<br>参考译文：我认为，首席执行官的私人生活应该受到尊重，除非其个人行为影响了公司或公众信任。然而，如果一段私人关系带来了安全风险，或者导致了误导性的声明，那么展开调查就是必要的。职业上的成功不应该成为任何人逃避责任的理由。"
+  "intro": "",
+  "items": [],
+  "critical_en": "",
+  "critical_zh": "",
+  "answer": "",
+  "exercise_verbatim": "根据今天学习的文章，用自己的英文复述整篇新闻。<br><br>1. 事件曝光：英伟达CEO遭调查<br>英伟达宣布对首席执行官黄仁勋展开调查，因为他承认与一名被美国情报机构认定为间谍的商业高管存在亲密关系，并为自己的婚外情公开道歉。<br>（open an investigation into / acknowledge / intimate relationship / apologize）<br>2. 从事业巅峰到个人危机<br>过去几年，黄仁勋带领英伟达成为全球最有价值的公司之一，自己也成为科技界的明星人物。然而，这场风波成为他事业中一次罕见的失误。<br>（could do no wrong / valuable / misstep / affair）<br>3. 神秘公司Megaspeed引起怀疑<br>Megaspeed通过购买英伟达芯片建设数据中心，再向中国企业出租算力。其关联公司采购了价值至少48亿美元的设备，但调查人员发现部分设备仍然装在箱子里，因此怀疑芯片可能被非法转运。<br>（middleman / computing power / suspicious / illegally）<br>4. 情报监视揭露关系真相<br>美国政府对黄乐进行监视，发现她与黄仁勋之间存在恋爱关系。这与英伟达此前声称两人只是正常商业往来的说法相矛盾。<br>（surveillance / romantic / misleading / undercut）<br>5. 调查继续，特朗普公开支持<br>尽管国会希望黄仁勋作证，英伟达董事会仍表示他可以继续领导公司。特朗普也公开支持黄仁勋，但事件仍有许多问题尚未得到解答。<br>（testify / public support / continue / remain unanswered）<br><br>思考题<br>Should a successful CEO’s private life affect their professional reputation and career? Why or why not?<br>一位成功的首席执行官，其私人生活是否应该影响他的职业声誉和事业？为什么？<br>请用英文回答2–3句话，表达自己的观点，并尽量使用课堂所学词汇。",
+  "answer_verbatim": "参考答案：<br>Nvidia opened an investigation into CEO Jensen Huang after he acknowledged an affair with a business executive identified by U.S. intelligence as a Chinese spy. The scandal was a rare misstep for Huang, who had made Nvidia one of the world’s most valuable companies. Investigators were already suspicious of Megaspeed’s huge chip purchases and possible illegal exports to China. Government surveillance revealed Huang’s romantic relationship, undercutting Nvidia’s earlier statements. Although Congress wanted him to testify, Nvidia’s board allowed him to continue leading the company. President Trump also expressed public support, but many questions remain unanswered.<br>英伟达对首席执行官黄仁勋展开调查，此前他承认与一名被美国情报机构认定为中国间谍的商业高管发生婚外情。这场丑闻成为黄仁勋罕见的一次失误，而他此前已将英伟达发展成全球最有价值的公司之一。调查人员此前就已经对Megaspeed巨额的芯片采购以及可能存在的非法对华出口行为产生怀疑。政府监视行动揭露了黄仁勋的恋爱关系，削弱了英伟达此前声明的可信度。尽管国会希望他出席作证，英伟达董事会仍允许他继续领导公司。特朗普总统也公开表达了支持，但许多问题仍未得到解答。<br><br>思考题参考答案（选做）<br>I believe a CEO’s private life should remain private unless their actions affect the company or public trust. However, if a personal relationship creates security risks or leads to misleading statements, an investigation is necessary. Professional success should not protect anyone from responsibility.<br>我认为，首席执行官的私人生活应该受到尊重，除非其个人行为影响了公司或公众信任。然而，如果一段私人关系带来了安全风险，或者导致了误导性的声明，那么展开调查就是必要的。职业上的成功不应该成为任何人逃避责任的理由。"
  },
  "mindmap": {
   "aria": "英伟达调查黄仁勋与中方间谍关系思维导图",
