@@ -120,7 +120,13 @@ def main():
     s = re.sub(r'index\.html\?d=\d{4}-\d{2}-\d{2}', f'index.html?d={c["date"]}', s)
 
     # 4. 思维导图区（到 headline 开始前）
-    mm = c["mindmap"]
+    # 2026-11-21 起用户不再要思维导图：content 的 mindmap.svg 留空时整段导图区不渲染，
+    # 连带 mm-switch/矢量/手绘按钮与 lightbox 全部省略。
+    mm = c.get("mindmap") or {}
+    no_mindmap = not mm.get("svg")
+    if no_mindmap:
+        mm = dict(mm)
+        mm["svg"] = ""   # 占位避免下游 KeyError；末尾据此删掉整个导图区
     img_b64 = ""
     if mm.get("img"):
         raw = open(mm["img"], "rb").read()
@@ -204,7 +210,7 @@ def main():
     '''
     m = re.search(r'<section class="mindmap" id="mindmap">', s)
     e = s.index('<section class="paragraph headline-block" id="p-headline">')
-    s = s[:m.start()] + mm_head + s[e:]
+    s = s[:m.start()] + ("" if no_mindmap else mm_head) + s[e:]
 
     # 5. headline 区块
     hl = c["headline"]

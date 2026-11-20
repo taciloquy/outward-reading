@@ -1,6 +1,13 @@
 // ===== 文章数据库（独立静态资源；正文全文见 search-index.js） =====
     const ARTICLES = [
       {
+        title: "Anthropic soars, but it may soon be back, cap in hand",
+        publishDate: "2026-11-21",
+        fileKey: "2026-11-21_001",
+        readingPath: "/outward-reading/articles/2026/11/2026-11-21_001.reading.html",
+        source: "Economist"
+      },
+      {
         title: "mogging拿下2026年度词汇：9个新词，看懂这一年人们在焦虑什么",
         publishDate: "2026-11-20",
         fileKey: "2026-11-20_001",
