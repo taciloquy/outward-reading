@@ -1,6 +1,13 @@
 // ===== 文章数据库（独立静态资源；正文全文见 search-index.js） =====
     const ARTICLES = [
       {
+        title: "Futuristic Shenzhen Shows Trump the Difficulty of Stopping China",
+        publishDate: "2026-11-22",
+        fileKey: "2026-11-22_001",
+        readingPath: "/outward-reading/articles/2026/11/2026-11-22_001.reading.html",
+        source: "Bloomberg"
+      },
+      {
         title: "Anthropic soars, but it may soon be back, cap in hand",
         publishDate: "2026-11-21",
         fileKey: "2026-11-21_001",
