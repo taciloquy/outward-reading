@@ -6,8 +6,169 @@
  "category": "英国《经济学人》外刊讲解 第1235天",
  "read_minutes": 8,
  "nav_hint": "Anthropic’s record-breaking IPO",
- "headline_en": "The biggest IPO of all time is just a start",
+ "headline_en": "Anthropic soars, but it may soon be back, cap in hand | The biggest IPO of all time is just a start",
  "headline_zh": "",
  "sources_note": "依据《经济学人》2026-11-21 报道。",
- "marks": {}
+ "marks": {
+  "1": [
+   [
+    "and so it was that",
+    "and so it was that"
+   ],
+   [
+    "at the close of",
+    "at the close of"
+   ],
+   [
+    "pull off",
+    "pulled off"
+   ],
+   [
+    "nerd",
+    "nerds"
+   ],
+   [
+    "private share sale",
+    "private share sale"
+   ],
+   [
+    "backer",
+    "backers"
+   ],
+   [
+    "off its highs",
+    "off its highs"
+   ],
+   [
+    "push sth above",
+    "pushed its value above"
+   ]
+  ],
+  "5": [
+   [
+    "rocketing",
+    "rocketing"
+   ],
+   [
+    "considerably",
+    "considerably"
+   ],
+   [
+    "sustainable",
+    "sustainable"
+   ],
+   [
+    "swing to a loss",
+    "swinging to a loss"
+   ]
+  ],
+  "8": [
+   [
+    "sentiment",
+    "sentiment"
+   ],
+   [
+    "far from",
+    "far from"
+   ],
+   [
+    "assured",
+    "assured"
+   ],
+   [
+    "steady",
+    "steady"
+   ],
+   [
+    "ballot measure",
+    "ballot measures"
+   ],
+   [
+    "backlash",
+    "backlash"
+   ],
+   [
+    "incoming",
+    "incoming"
+   ],
+   [
+    "moratorium",
+    "moratoriums"
+   ],
+   [
+    "liken A to B",
+    "likens data centres to"
+   ],
+   [
+    "hostile",
+    "hostile"
+   ],
+   [
+    "oversight",
+    "oversight"
+   ]
+  ],
+  "9": [
+   [
+    "record-breaking",
+    "record-breaking"
+   ],
+   [
+    "debut",
+    "debut"
+   ],
+   [
+    "spread its bets",
+    "spread its bets"
+   ],
+   [
+    "rally",
+    "rally"
+   ],
+   [
+    "indices",
+    "indices"
+   ],
+   [
+    "For all",
+    "For all"
+   ],
+   [
+    "fever",
+    "fever"
+   ],
+   [
+    "volatile",
+    "volatile"
+   ],
+   [
+    "as ... as ever",
+    "as ever"
+   ]
+  ]
+ },
+ "headline_marks": [
+  [
+   "soar",
+   "soars"
+  ],
+  [
+   "cap in hand",
+   "cap in hand"
+  ],
+  [
+   "initial public offering (IPO)",
+   "IPO"
+  ],
+  [
+   "of all time",
+   "of all time"
+  ]
+ ],
+ "mindmap": {
+  "template": "scripts/content/2026-11-20.json",
+  "aria": "",
+  "alt": "",
+  "repl": []
+ }
 }

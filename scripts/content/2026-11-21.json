@@ -6,66 +6,785 @@
  "category": "英国《经济学人》外刊讲解 第1235天",
  "read_minutes": 8,
  "nav_hint": "Anthropic’s record-breaking IPO",
- "audio": false,
  "headline": {
-  "en_html": "The biggest IPO of all time is just a start",
+  "en_html": "<span>Anthropic <mark class=\"voc\">soars</mark>, but it may soon be back, <mark class=\"voc\">cap in hand</mark></span><span class=\"headline-sub\">The biggest <mark class=\"voc\">IPO</mark> <mark class=\"voc\">of all time</mark> is just a start</span>",
   "zh": "",
-  "notes": []
+  "notes": [
+   {
+    "w": "soar",
+    "ipa": "/sɔː(r)/",
+    "pos": "v.",
+    "en": "soar (v.) means to rise very quickly to a high level, especially of prices or amounts",
+    "zh": "“借气流滑翔上升”（源自古法语essorer“飞起”，再往上追是拉丁语 aura“气流、微风”），市场语境核心义为飙升、一飞冲天",
+    "ctx": "",
+    "ex1": "Demand for AI chips sent Nvidia's shares soaring for a third straight year. 对AI 芯片的需求让英伟达股价连续第三年飙升。",
+    "ex2": "Housing costs have soared in every big city where the data centres went up. 凡建起数据中心的大城市，住房成本都飞涨了。"
+   },
+   {
+    "w": "cap in hand",
+    "ipa": "/ˌkæp ɪn ˈhænd/",
+    "pos": "idiom",
+    "en": "cap in hand means in a humble way, especially when asking someone for money or help",
+    "zh": "“把帽子摘下来拿在手里”（英国旧礼：下人见上人须脱帽；cap 特指flat cap，工人与仆役戴的软布帽），求助语境核心义为低声下气地、攥着帽子求人",
+    "ctx": "",
+    "ex1": "The startup went cap in hand to its largest investor after burning through its cash. 这家初创公司烧完现金后，攥着帽子去找它最大的投资人。",
+    "ex2": "Universities should not have to come cap in hand to government every year. 大学不该每年都得低声下气地来向政府要钱。"
+   },
+   {
+    "w": "initial public offering (IPO)",
+    "ipa": "/ɪˌnɪʃl ˈpʌblɪk ˈɒfərɪŋ/",
+    "pos": "n.",
+    "en": "an initial public offering means the first time a company sells its shares to the public",
+    "zh": "“最初的公开发售”（initial 最初的+ public 公开的+ offering 发售），资本市场语境核心义为首次公开募股",
+    "ctx": "",
+    "ex1": "The company priced its IPO at $83 a share, well above the initial range. 该公司把IPO 发行价定在每股83 美元，远高于最初的区间。",
+    "ex2": "Investors queued for an allocation in what became the largest IPO in history. 投资者排队争抢配售额度，这笔募股最终成了史上最大的一单。"
+   },
+   {
+    "w": "of all time",
+    "ipa": "/əv ɔːl ˈtaɪm/",
+    "pos": "phrase",
+    "en": "of all time means ever recorded in history",
+    "zh": "“在所有时间之中”，最高级语境核心义为有史以来",
+    "ctx": "它必须跟最高级连用——the biggest ... of all time。体育圈那个GOAT （the greatest of all time，史上最佳）就是它的缩写。作者在第一段用它给这次IPO 定位，等于把参照系拉到了人类全部历史，而不是“今年以来”",
+    "ex1": "It was the largest listing of all time, and it broke the record in under five months. 这是有史以来规模最大的一次上市，而且只用了不到五个月就破了纪录。",
+    "ex2": "Critics call it the most expensive mistake of all time. 批评者称这是有史以来代价最高的一个错误。"
+   }
+  ]
  },
  "paragraphs": [
   {
-   "en_html": "And so it was that a bunch of AI nerds on November 19th pulled off the biggest stock-market listing of all time. Anthropic, a San Francisco-based company that is not even six years old, raised $107bn in an initial public offering (IPO) that included a $26bn private share sale to tech-giant backers such as Google and Nvidia. An initial surge in Anthropic’s share price briefly pushed its value above $2trn. At the close of its first day of trading it was off its highs but still up over 17%.",
-   "zh": "",
-   "notes": []
+   "en_html": "<mark class=\"voc\">And so it was that</mark> a bunch of AI <mark class=\"voc\">nerds</mark> on November 19th <mark class=\"voc\">pulled off</mark> the biggest stock-market listing of all time. Anthropic, a San Francisco-based company that is not even six years old, raised $107bn in an initial public offering (IPO) that included a $26bn <mark class=\"voc\">private share sale</mark> to tech-giant <mark class=\"voc\">backers</mark> such as Google and Nvidia. An initial surge in Anthropic’s share price briefly <mark class=\"voc\">pushed its value above</mark> $2trn. <mark class=\"voc\">At the close of</mark> its first day of trading it was <mark class=\"voc\">off its highs</mark> but still up over 17%.",
+   "zh": "11月19日这天，一群AI书呆子把人类历史上规模最大的一次上市，办成了。Anthropic总部在旧金山，成立还不满六年，此番IPO募得1073亿美元，其中260亿是卖给Google、英伟达这类科技巨头的私募份额。开盘后股价一阵猛冲，市值一度越过两万亿美元；到首日收盘，虽已从高点回落，仍较发行价高出17%有余。",
+   "notes": [
+    {
+     "w": "and so it was that",
+     "ipa": "/ənd səʊ ɪt wɒz ˈðæt/",
+     "pos": "phrase",
+     "en": "and so it was that is an old-fashioned narrative formula meaning “and that is how it happened”",
+     "zh": "“于是就这样……”（旧约圣经与骑士传奇的开场腔，钦定本《圣经》里满篇 And it came to pass），叙事语境核心义为就这样、于是",
+     "ctx": "全文最大的文风亮点。作者拿圣经腔去写一帮程序员敲钟——修辞学叫bathos（顿降法），中文对应的说法是相声抖包袱：腔调抬得越高，摔下来越好笑。用庄重句式写琐碎内容，一个字的评价都没有，讽味自己就出来了",
+     "ex1": "And so it was that a physics graduate came to run the most valuable company on earth.于是就这样，一个物理系毕业生掌管了地球上市值最高的公司。",
+     "ex2": "And so it was that the smallest firm in the room won the contract. 于是就这样，会议室里最小的那家公司拿下了合同。"
+    },
+    {
+     "w": "nerd",
+     "ipa": "/nɜːd/",
+     "pos": "n.",
+     "en": "a nerd means a person who is boringly studious or obsessed with a technical subject",
+     "zh": "“怪兽名”（1950 年苏斯博士《If I Ran the Zoo》里随手编的虚构动物，纯粹为了押韵），校园语境核心义为书呆子、技术宅",
+     "ctx": "这个词到1970 年代才被美国学生拿去形容泡实验室的同学。作者用AI nerds 不用engineers 或researchers，因为它带自嘲和亲昵——一群被嘲笑过的人，把华尔街给办了。整段的情绪来源就在这两个词上",
+     "ex1": "The people who built the model were the kind of nerds who read papers for fun.造出这个模型的人，是那种拿读论文当消遣的书呆子。",
+     "ex2": "Nerd culture went mainstream the moment those shares started trading. 就在那只股票开始交易的那一刻，极客文化变成了主流。"
+    },
+    {
+     "w": "pull off",
+     "ipa": "/pʊl ˈɒf/",
+     "pos": "phrasal v.",
+     "en": "pull off (phrasal v.) means to succeed in doing something difficult",
+     "zh": "“把车拉到路边停下”（pull 拉+ off 离开主路），引申为“硬生生把一件事办成”，成就语境核心义为干成了、拿下来了",
+     "ctx": "",
+     "ex1": "Nobody thought a six-year-old startup could pull off a listing of this size. 没人相信一家成立六年的初创公司能办成这么大规模的一次上市。",
+     "ex2": "She pulled off the negotiation in a single afternoon. 她一个下午就把那场谈判拿下了。"
+    },
+    {
+     "w": "private share sale",
+     "ipa": "/ˌpraɪvət ˈʃeə seɪl/",
+     "pos": "n.",
+     "en": "a private share sale means selling shares to selected investors rather than on the open market",
+     "zh": "“私下卖股”（private 私下的+ share 股份+ sale 出售），资本市场语境核心义为私募配售",
+     "ctx": "",
+     "ex1": "The founder raised $200m through a private share sale before the listing. 创始人在上市前通过一次私募配售募到两亿美元。",
+     "ex2": "Private share sales let big backers get in before the public does. 私募配售让大金主在公众之前先上车。"
+    },
+    {
+     "w": "backer",
+     "ipa": "/ˈbækə(r)/",
+     "pos": "n.",
+     "en": "a backer means a person or company that gives financial support to a project",
+     "zh": "“在背后撑着的人”（back 后背+ -er 者），投资语境核心义为出资方、金主",
+     "ctx": "tech-giant backers 指Google、NVIDIA 等。妙在它们不只是股东，还是Anthropic 的算力供应商——你既是我的投资人，又是我的供货商。这个双重身份是全文最值得琢磨的一处结构",
+     "ex1": "Its earliest backers were paid back many times over when it listed. 它上市时，最早的出资方拿回了本钱的许多倍。",
+     "ex2": "No backer wanted to be the first to walk away from the deal. 没有哪个出资方愿意做第一个撤出这笔交易的人。"
+    },
+    {
+     "w": "push sth above",
+     "ipa": "/pʊʃ əˈbʌv/",
+     "pos": "phrase",
+     "en": "to push something above a level means to make it rise past that level",
+     "zh": "“往上推到……之上”，数字语境核心义为推升到……以上",
+     "ctx": "pushed its value above $2trn——用push 不用make，是把股价写成一股有劲的力量在顶。行情报道里push、lift、drive 都表“推高”，push 最有力：它暗示有人在推",
+     "ex1": "A single block trade pushed the stock above its issue price.一笔大宗交易把股价推到了发行价之上。",
+     "ex2": "Rising power costs could push inflation above the central bank's target.电费上涨可能把通胀推高到央行目标之上。"
+    },
+    {
+     "w": "at the close of",
+     "ipa": "/ət ðə kləʊz əv/",
+     "pos": "phrase",
+     "en": "at the close of means at the end of a period of trading or activity",
+     "zh": "“在……关闭之时”（close 关闭），交易语境核心义为在……收盘时（本文特指：at the close of its first day of trading 是交易所的标准说法。配套还有at the open（开盘时）、in after-hours trading（盘后交易）、at the bell（敲钟时）。这几个是读财经版的地基，不认就得靠猜）",
+     "ctx": "",
+     "ex1": "At the close of its first day, the stock was up 17% from the offer price.首日收盘时，该股较发行价上涨17%。",
+     "ex2": "The index fell 2% at the close of business on Thursday.周四收盘时，该指数下跌2%。"
+    },
+    {
+     "w": "off its highs",
+     "ipa": "/ɒf ɪts ˈhaɪz/",
+     "pos": "phrase",
+     "en": "off its highs means below the highest level it previously reached",
+     "zh": "“离开了那个高点”（off 离开+ high 高点），行情语境核心义为从高位回落",
+     "ctx": "不说fell（跌了），说off its highs（从高点下来）。同一件事，一个说你在流血，一个说你在退烧。外刊的分寸感，全在这类选择里。配套：off its lows（从低位回升）、at its highs（处于高位）",
+     "ex1": "The stock closed 17% up, though it was well off its highs by the bell. 该股收涨17%，但收盘时已明显从盘中高点回落。",
+     "ex2": "Even off its highs, the company is worth more than most countries. 即便从高点回落，这家公司的市值仍高过大多数国家。"
+    }
+   ]
   },
   {
-   "en_html": "The financial feat, impressive as it is, will not be the last time Anthropic comes to the capital markets with palms outstretched. It will need plenty of funding to stay ahead in the race to build frontier AI, where it faces competition from arch-rival OpenAI and a growing array of open-source model makers. Its new investors, excited as they are to buy shares in the first pure-play AI lab to tap the public markets, may find themselves asked to open their wallets again in the future.",
-   "zh": "",
-   "notes": []
+   "en_html": "The financial <mark class=\"voc\">feat</mark>, <mark class=\"voc\">impressive as it is</mark>, will not be the last time Anthropic comes to the capital markets with <mark class=\"voc\">palms outstretched</mark>. It will need plenty of funding to stay ahead in the race to build frontier AI, where it faces competition from <mark class=\"voc\">arch-rival</mark> OpenAI and a growing array of <mark class=\"voc\">open-source</mark> model makers. Its new investors, excited as they are to buy shares in the first <mark class=\"voc\">pure-play</mark> AI lab to <mark class=\"voc\">tap</mark> the public markets, may find themselves asked to <mark class=\"voc\">open their wallets</mark> again in the future.",
+   "zh": "这笔融资固然干得漂亮，却不会是Anthropic最后一次摊开手掌、走进资本市场。要在前沿AI的竞赛里不掉队，它还得烧很多钱。这场竞赛里，前头是头号劲敌OpenAI，后头是一群越来越壮大的开源模型厂商。它的新股东们眼下正为买到\"第一家纯AI上市公司\"的股票而兴奋，将来却多半会发现，自己又被叫去掏了一次钱包。",
+   "notes": [
+    {
+     "w": "feat",
+     "ipa": "/fiːt/",
+     "pos": "n.",
+     "en": "a feat means an impressive achievement that needs skill, strength or courage",
+     "zh": "“做过的事”（拉丁语facere“做”的过去分词factum，与fact、effect、 defeat、feasible 同族），成就语境核心义为壮举、了不起的一手",
+     "ctx": "",
+     "ex1": "Raising that much in a single offering is no mean feat. 在一次发行中募到这么多钱，绝非易事。",
+     "ex2": "Landing a rocket upright was a feat nobody had managed before. 让火箭直立着陆，是此前无人做到的壮举。"
+    },
+    {
+     "w": "impressive as it is",
+     "ipa": "/ɪmˈpresɪv əz ɪt ɪz/",
+     "pos": "phrase",
+     "en": "impressive as it is means although it is impressive",
+     "zh": "“尽管它令人印象深刻”（as 引导让步，必须倒装：形容词提到as 前面），让步语境核心义为尽管了不起、固然厉害",
+     "ctx": "本段最重要的语法点，也是中国学生最容易卡的地方。中文对应的是那个“归”字——“累归累，活儿还得干”。作者一段里用了两次（开头impressive as it is、结尾excited as they are），形成一个括号，读起来有节奏：先给糖，再打脸",
+     "ex1": "Impressive as it is, the number tells us nothing about next year. 这个数字固然惊人，却说明不了明年的事。",
+     "ex2": "Tired as I was, I stayed to the end of the hearing. 累归累，我还是把听证会听完了。"
+    },
+    {
+     "w": "palms outstretched",
+     "ipa": "/pɑːmz ˌaʊtˈstretʃt/",
+     "pos": "phrase",
+     "en": "with palms outstretched means with the hands open and facing upwards, as when begging",
+     "zh": "“手掌摊开”（palm 源自拉丁palma“棕榈”——古罗马人看棕榈叶摊开像手掌，才拿它给手命名），求助语境核心义为摊着手要钱",
+     "ctx": "它与标题的cap in hand 是同一个画面，一个给姿态，一个给动作。手心朝上是“要”，手心朝下是“给”，全世界不用翻译。这一处适合直播时当场做动作，比讲三句都管用",
+     "ex1": "He came back with his palms outstretched, asking for another $5bn.他摊着手回来了，还要再要50 亿美元。",
+     "ex2": "The gesture said everything: palms up, shoulders down, no answer.那个动作说明了一切：手心朝上，肩膀一垂，答不上来。"
+    },
+    {
+     "w": "arch-rival",
+     "ipa": "/ˌɑːtʃ ˈraɪvl/",
+     "pos": "n.",
+     "en": "an arch-rival means the main and most long-standing rival",
+     "zh": "“首要的对手”（arch- 首要的，如archbishop 大主教、archenemy 头号敌人+ rival 对手），竞争语境核心义为头号劲敌",
+     "ctx": "指OpenAI——而 Anthropic 本来就是从OpenAI 出走的，2021 年Dario Amodei 带一批核心研究员另立门户。所以这个词不只是“竞争对手”，是武林里最狠的那种仇：同门",
+     "ex1": "The two firms have been arch-rivals since a group of researchers walked out in 2021.自2021 年一批研究员出走以来，这两家公司就成了死对头。",
+     "ex2": "Its arch-rival listed first and took the headlines with it.它的头号对手先上了市，把头条也一并拿走了。"
+    },
+    {
+     "w": "open-source",
+     "ipa": "/ˌəʊpən ˈsɔːs/",
+     "pos": "adj.",
+     "en": "open-source means referring to software whose code is freely available for anyone to use or modify",
+     "zh": "“源代码开放的”（open 开放+ source 源码），AI 语境核心义为开源的",
+     "ctx": "a growing array of open-source model makers——这条线上中国公司分量很重。作者把它和OpenAI 并列成两股压力，等于说Anthropic 是“前有强敌、后有追兵”：闭源赛道打得凶，开源的又不断把价格往下拉",
+     "ex1": "Open-source models have narrowed the gap with the closed labs.开源模型已经缩小了与闭源实验室之间的差距。",
+     "ex2": "A growing array of open-source developers now train models for a fraction of the cost.越来越多的开源开发者如今用零头的成本训练模型。"
+    },
+    {
+     "w": "pure-play",
+     "ipa": "/ˈpjʊə pleɪ/",
+     "pos": "n. & adj.",
+     "en": "a pure-play means a company that does only one kind of business",
+     "zh": "“纯粹下注”（赌桌术语：只押一个号码、一种玩法），投资语境核心义为纯业务公司、单一赛道标的",
+     "ctx": "全段真正的里程碑在这三个字上。买Google，买到的是广告机器，AI 是附赠；买Anthropic，买到的只有AI。华尔街想“纯押AI”，以前根本找不到标的——钱多只是表面，稀缺才是本质",
+     "ex1": "It is the first pure-play AI lab to tap the public markets.它是第一家向公开市场融资的纯AI 实验室。",
+     "ex2": "Investors who want pure-play exposure had nowhere to go before this listing. 在这单上市之前，想要纯粹敞口的投资者无处可去。"
+    },
+    {
+     "w": "tap",
+     "ipa": "/tæp/",
+     "pos": "v.",
+     "en": "tap (v.) means to make use of a resource that is available",
+     "zh": "“拧开水龙头接水”（英式英语里tap 就是水龙头），资源语境核心义为开发、动用（资金／市场）",
+     "ctx": "tap the public markets 的画面是“拧开公开市场这个龙头”。这条比喻会一路走到第7 段的keeping the funding taps open（让资金龙头开着），一条隐喻横跨五段，是全文最结实的一根线",
+     "ex1": "Only a handful of labs can tap the public markets at this scale. 只有极少数实验室能以这种规模动用公开市场。",
+     "ex2": "The industry has barely begun to tap demand in emerging markets. 这个行业才刚刚开始开发新兴市场的需求。"
+    },
+    {
+     "w": "open their wallets",
+     "ipa": "/ˌəʊpən ðeə ˈwɒlɪts/",
+     "pos": "phrase",
+     "en": "open one's wallet means to start spending or giving money",
+     "zh": "“把钱包打开”，出钱语境核心义为掏腰包",
+     "ctx": "may find themselves asked to open their wallets again——被动+ 反身，写的是“不是你愿意掏，是有人来问你掏”。中文“掏腰包”是主动的，这里其实更接近“被要求再掏一次”，这层被动不能丢",
+     "ex1": "The same investors may find themselves asked to open their wallets again. 同一批投资者可能会发现，自己又被要求掏一次钱。",
+     "ex2": "Consumers opened their wallets in November after a cautious autumn. 在谨慎的秋季之后，消费者十一月开始掏钱了。"
+    }
+   ]
   },
   {
-   "en_html": "The IPO gives Anthropic a big cushion. Ahead of the listing, the company had almost $132bn in cash and short-term investments. It now has more than $230bn, surpassing more traditional tech giants with the exception of Google’s parent company, Alphabet, which had $265bn at the end of the most recent quarter.",
-   "zh": "",
-   "notes": []
+   "en_html": "The IPO gives Anthropic a big <mark class=\"voc\">cushion</mark>. Ahead of the listing, the company had almost $132bn in cash and short-term investments. It now has more than $230bn, <mark class=\"voc\">surpassing</mark> more traditional tech giants <mark class=\"voc\">with the exception of</mark> Google’s <mark class=\"voc\">parent company</mark>, Alphabet, which had $265bn at the end of the most recent quarter.",
+   "zh": "这次IPO给Anthropic垫了一张厚厚的安全垫。上市之前，公司账上有近1320亿美元的现金和短期投资；如今已超过2300亿，把一众传统科技巨头都甩在身后，唯一的例外是Google的母公司Alphabet——后者在最近一个季度末持有2650亿美元。",
+   "notes": [
+    {
+     "w": "cushion",
+     "ipa": "/ˈkʊʃn/",
+     "pos": "n.",
+     "en": "a cushion means an amount of money kept to protect against sudden losses",
+     "zh": "“坐垫”（古法语coissin，源自拉丁coxa“髋部”），财务语境核心义为缓冲垫、安全垫",
+     "ctx": "人为什么要垫子？因为椅子硬，因为人会摔。一张垫子存在的前提，就是“迟早要摔”。所以The IPO gives Anthropic a big cushion 表面在夸它钱多，底下那句是“我知道你要摔”——连夸你的时候都在留后手",
+     "ex1": "The listing gives it a cushion of more than $230bn.这次上市给了它超过2300 亿美元的缓冲。",
+     "ex2": "Households have little cushion left if energy prices jump again.如果能源价格再跳一次，家庭几乎没有什么缓冲可言。"
+    },
+    {
+     "w": "surpass",
+     "ipa": "/səˈpɑːs/",
+     "pos": "v.",
+     "en": "surpass (v.) means to be greater than something else",
+     "zh": "“越过去”（古法语surpasser，sur- 在上+ passer 通过），比较语境核心义为超过、胜过",
+     "ctx": "",
+     "ex1": "Its cash pile now surpasses that of every tech giant but Alphabet. 它的现金储备如今超过了除Alphabet 外的所有科技巨头。",
+     "ex2": "Demand for power has surpassed what the grid can deliver. 用电需求已经超出了电网的输送能力。"
+    },
+    {
+     "w": "with the exception of",
+     "ipa": "/wɪð ði ɪkˈsepʃn əv/",
+     "pos": "phrase",
+     "en": "with the exception of means except for",
+     "zh": "“把……拿出来不算”（exception 例外），排除语境核心义为除了……之外",
+     "ctx": "surpassing more traditional tech giants with the exception of Alphabet——注意语序：先给“超过了一大片”，再补“只有一个除外”。这个顺序让读者先惊讶、后修正，比直接写“仅次于Alphabet”更有戏",
+     "ex1": "It now holds more cash than every tech giant with the exception of Alphabet. 它如今持有的现金超过所有科技巨头，只有Alphabet 例外。",
+     "ex2": "With the exception of two members, the board backed the plan. 除两名成员外，董事会都支持这项计划。"
+    },
+    {
+     "w": "parent company",
+     "ipa": "/ˈpeərənt ˈkʌmpəni/",
+     "pos": "n.",
+     "en": "a parent company means a company that owns other, smaller companies",
+     "zh": "“母公司”（parent 父母），公司治理语境核心义为母公司、控股公司",
+     "ctx": "Google's parent company, Alphabet——这个同位语是在解释 Alphabet 是谁。2015 年谷歌成立Alphabet 把自己变成子公司，因为搜索广告太赚钱， Waymo、DeepMind 这些烧钱项目放在同一张财报里全是拖后腿。理解这一层，才懂第4 段那句“Anthropic 没有主业可躲”",
+     "ex1": "Google's parent company held $265bn at the end of the quarter. 谷歌的母公司在该季度末持有2650 亿美元。",
+     "ex2": "The parent company absorbs the losses of its experimental units. 母公司承担着各实验性业务单元的亏损。"
+    }
+   ]
   },
   {
-   "en_html": "Anthropic will probably need even more to build what Dario Amodei, its boss, calls a “country of geniuses in a data centre”—ie, superintelligence capable of surpassing humans in almost every realm that requires brainpower. It has committed to spending $900bn on computing power until 2045, with about half of that due by the end of 2030. That requires making bold assumptions: while it is hard to predict how aggressively customers will adopt AI in coming years, some computing providers require large spending commitments more than a year in advance. Mr Amodei recently called this conundrum Anthropic’s “deepest business dilemma”.",
-   "zh": "",
-   "notes": []
+   "en_html": "Anthropic will probably need even more to build what Dario Amodei, its boss, calls a “country of geniuses in a data centre”—<mark class=\"voc\">ie</mark>, <mark class=\"voc\">superintelligence</mark> capable of surpassing humans in almost every <mark class=\"voc\">realm</mark> that requires <mark class=\"voc\">brainpower</mark>. It has committed to spending $900bn on computing power until 2045, with about half of that due by the end of 2030. That requires making <mark class=\"voc\">bold</mark> assumptions: while it is hard to predict how aggressively customers will adopt AI in coming years, some computing providers require large spending commitments more than a year in advance. Mr Amodei recently called this <mark class=\"voc\">conundrum</mark> Anthropic’s “deepest business dilemma”.",
+   "zh": "Anthropic很可能还需要更多钱，去建造一样东西——用其掌门人达里奥·阿莫代的话说，叫\"数据中心里的天才之国\"。也就是超级智能：在几乎所有需要脑力的领域，它都能超过人类。这家公司已经承诺，到2045年为止在算力上投入9000亿美元，其中约有一半要在2030年底之前付清。这就要求它做出一连串大胆的假设：未来几年客户究竟会多猛地采用AI，没人说得准；可一些算力供应商却要求它提前一年多就许下大额支出。阿莫代最近把这道难题称作Anthropic\"最深的商业困境\"。",
+   "notes": [
+    {
+     "w": "ie",
+     "ipa": "/ˌaɪ ˈiː/",
+     "pos": "abbrev.",
+     "en": "ie means “that is”— used to explain or restate what has just been said",
+     "zh": "“即”（拉丁语id est 的缩写），书面语境核心义为也就是说",
+     "ctx": "它和eg 必须分清——ie 是“换言之”（同义重述），eg 是“例如”（举例，拉丁exempli gratia）。中文读者常把两者混用，写英文时一错就露怯。文中ie 后面接的正是对前一句的同义改写",
+     "ex1": "They want superintelligence, ie a system better than humans at almost everything.他们要的是超级智能，也就是一个几乎在所有方面都强过人类的系统。",
+     "ex2": "The deal, ie the $63bn server purchase, closes next month.这笔交易，也就是那630 亿美元的服务器采购，下月交割。"
+    },
+    {
+     "w": "superintelligence",
+     "ipa": "/ˌsuːpərɪnˈtelɪdʒəns/",
+     "pos": "n.",
+     "en": "superintelligence means an intellect far greater than the best human minds",
+     "zh": "“超越的智能”（super- 在上+ intelligence 智能），AI 语境核心义为超级智能",
+     "ctx": "特朗普也爱用这个词，但他缩成SI（Super Intelligence），刻意避开 artificial intelligence——因为AI 在选民心里已经变负分了。同一个概念，两种叫法，两种政治。这个词因此成了本文的一个隐线",
+     "ex1": "He is 100% in favour of superintelligence, he said, because it brings riches. 他说自己百分之百支持超级智能，因为它带来财富。",
+     "ex2": "Nobody agrees on how close we are to superintelligence, including the people building it.关于超级智能还有多远，没人有共识，包括正在造它的人。"
+    },
+    {
+     "w": "realm",
+     "ipa": "/relm/",
+     "pos": "n.",
+     "en": "a realm means an area of activity, interest or knowledge",
+     "zh": "“王国、疆域”（古法语reaume，源自拉丁regalis“王的”，与royal、regal 同族），抽象语境核心义为领域、范畴",
+     "ctx": "in almost every realm that requires brainpower——用realm 不用area，因为它带着“疆土”的意味：不是“涉及”，是“攻占”。一个词把“超越人类”写成了“接管领土”",
+     "ex1": "It is meant to beat humans in almost every realm that requires brainpower. 它的目标是在几乎所有需要脑力的领域超越人类。",
+     "ex2": "That question lies beyond the realm of what regulators can currently test. 那个问题超出了监管者目前能够检测的范围。"
+    },
+    {
+     "w": "brainpower",
+     "ipa": "/ˈbreɪnpaʊə(r)/",
+     "pos": "n.",
+     "en": "brainpower means the ability to think and solve problems",
+     "zh": "“脑力”（brain 脑+ power 力），能力语境核心义为智力、脑力",
+     "ctx": "requires brainpower 这个限定非常关键——它划出了AI 的野心边界：凡是靠脑子的领域它都要，靠身体的不一定。作者用四个字，给“超级智能”画了一张地图，也顺手给人类留了半块地",
+     "ex1": "Any task that needs brainpower is, in principle, fair game. 原则上，任何需要脑力的活儿都可能被它接手。",
+     "ex2": "The country's advantage lies in brainpower, not in raw materials. 这个国家的优势在于脑力，不在于原料。"
+    },
+    {
+     "w": "bold",
+     "ipa": "/bəʊld/",
+     "pos": "adj.",
+     "en": "bold (adj.) means willing to take risks",
+     "zh": "“大胆的”（古英语beald），决策语境核心义为大胆的、敢下重注的",
+     "ctx": "bold assumptions 是作者的暗评——“这需要大胆的假设”。他没说wrong，也没说 reckless，只说bold：表面中性，底下是“你这是在赌”。一个形容词，立场就站好了，而作者一句评论都没写",
+     "ex1": "That requires making bold assumptions about how fast customers will adopt AI. 这需要对客户多快采用AI 做出大胆假设。",
+     "ex2": "It was a bold bet, and the market has not yet decided whether it was wise. 这是一注大胆的押注，市场还没判定它是否明智。"
+    },
+    {
+     "w": "conundrum",
+     "ipa": "/kəˈnʌndrəm/",
+     "pos": "n.",
+     "en": "a conundrum means a problem that is very difficult to solve",
+     "zh": "“难题”（16 世纪末牛津学生生造的词，故意模仿拉丁语，实际一个拉丁词根都没有——一个假拉丁语混进英语，混了四百年），困境语境核心义为难题、解不开的疙瘩",
+     "ctx": "它和同段的dilemma 是作者刻意换词。conundrum 是“这题本身难”， dilemma 是“必须选、两条路都疼”。作者自己概括用conundrum，引阿莫代原话用 dilemma——一个词的替换，把旁观者和当事人分开了",
+     "ex1": "He called it the company's “deepest business dilemma”— the deepest, not the biggest.他称之为公司“最深的商业困境”——是“最深”，不是“最大”。",
+     "ex2": "The conundrum is simple to state and hard to escape: commit early, or lose the capacity.这道难题说起来简单、躲起来很难：要么提前下注，要么失去产能。"
+    }
+   ]
   },
   {
-   "en_html": "Its rocketing performance could help resolve the dilemma. As long as revenue grows by more than 20% annually through 2035, Anthropic should be able to cover its computing commitments, reckons William Blair, a bank. Anthropic has grown considerably faster than that. It also needs to generate sustainable profits. It briefly made an operating profit of nearly $1bn in the second quarter before swinging to a loss in the following three-month period.",
-   "zh": "",
-   "notes": []
+   "en_html": "Its <mark class=\"voc\">rocketing</mark> performance could help resolve the dilemma. As long as revenue grows by more than 20% annually through 2035, Anthropic should be able to cover its computing commitments, reckons William Blair, a bank. Anthropic has grown <mark class=\"voc\">considerably</mark> faster than that. It also needs to generate <mark class=\"voc\">sustainable</mark> profits. It briefly made an operating profit of nearly $1bn in the second quarter before <mark class=\"voc\">swinging to a loss</mark> in the following three-month period.",
+   "zh": "它火箭般的业绩，或许能化解这道难题。据威廉·布莱尔银行估算，只要营收到2035年为止每年增长超过20%，Anthropic就应该付得起它的算力账。而它的实际增速，比这快得多。但它还得赚出可持续的利润。今年第二季度，它一度做出近10亿美元的营业利润，紧接着的三个月，又转成了亏损。",
+   "notes": [
+    {
+     "w": "rocketing",
+     "ipa": "/ˈrɒkɪtɪŋ/",
+     "pos": "adj.",
+     "en": "rocketing means increasing extremely fast",
+     "zh": "“像火箭一样蹿升”（rocket 火箭+ -ing），行情语境核心义为火箭般的、猛涨的",
+     "ctx": "rocketing performance。火箭有个特点：快，而且烧燃料。这个词在夸增长，也顺手提醒了你它有多费钱——一个词，两层意思，作者不用另写一句",
+     "ex1": "Its rocketing performance could help resolve the dilemma. 它火箭般的业绩，也许能帮它化解这道难题。",
+     "ex2": "Costs have rocketed since the first data centre broke ground. 自第一座数据中心动工以来，成本一路蹿升。"
+    },
+    {
+     "w": "considerably",
+     "ipa": "/kənˈsɪdərəbli/",
+     "pos": "adv.",
+     "en": "considerably (adv.) means by a large amount",
+     "zh": "“值得考虑的量大”（consider 考虑+ -able + -ly），程度语境核心义为显著地、大幅地",
+     "ctx": "grown considerably faster than that——作者用considerably 不用 much，因为much 太口语、太随意，considerably 保留了“这是有数据支撑的判断”的分寸。外刊里的程度副词，几乎全是这种“看似模糊、实则留证”的类型",
+     "ex1": "It has grown considerably faster than the 20% the bank assumed. 它的增速明显快于那家银行假设的20%。",
+     "ex2": "Costs vary considerably between states, depending on the grid. 各州成本差别很大，取决于电网条件。"
+    },
+    {
+     "w": "sustainable",
+     "ipa": "/səˈsteɪnəbl/",
+     "pos": "adj.",
+     "en": "sustainable (adj.) means able to continue over a period of time",
+     "zh": "“能撑住的”（拉丁sustinere，sub- 在下+ tenere 握住，字面“从下面托住”），财务语境核心义为可持续的、撑得住的",
+     "ctx": "熟词僻义，别翻错——sustainable 现在最常听的意思是“环保的”，但在财经语境里它就是“撑得住”。sustainable profits 是“能一直赚下去的利润”，不是“绿色利润”。这个坑在考研翻译里出现过",
+     "ex1": "It also needs to generate sustainable profits, which it has not yet done. 它还需要产生可持续的利润，而这一点它还没做到。",
+     "ex2": "At this burn rate, the business is not sustainable without new capital. 按这个烧钱速度，没有新资金，这门生意撑不下去。"
+    },
+    {
+     "w": "swing to a loss",
+     "ipa": "/swɪŋ tuː ə lɒs/",
+     "pos": "phrase",
+     "en": "swing to a loss means to change from making a profit to making a loss",
+     "zh": "“荡过去”（swing 钟摆），财报语境核心义为转为亏损",
+     "ctx": "不是“下滑”，是“荡过零点”。而且这个词在第8 段会变成mood swings——作者没说一句“公司的账目和市场情绪一样不稳”，只把一个动词用了两次，暗线自己就通了。这类手法是长文才玩得起的",
+     "ex1": "It swung to a loss in the following three-month period. 在接下来的三个月里，它转为亏损。",
+     "ex2": "The account swung from a surplus to a deficit in one quarter. 这个账户在一个季度内从盈余荡成了赤字。"
+    }
+   ]
   },
   {
-   "en_html": "In addition, the model maker has admitted it may need other sources of funding to pay for the AI chips it uses to train and run new versions of its Claude bot. In the run-up to the IPO, it told potential investors that its ability to get enough computing power “is directly linked to our ability to access capital on favourable terms”. Being a public company should make the task easier. Until now, Anthropic has turned to off-balance-sheet deals such as that last month with Broadcom, a chip designer, and Blackstone, among other financial firms, to raise $63bn for server purchases.",
-   "zh": "",
-   "notes": []
+   "en_html": "In addition, the model maker has admitted it may need other sources of funding to pay for the AI chips it uses to train and run new versions of its Claude bot. In the <mark class=\"voc\">run-up</mark> to the IPO, it told potential investors that its ability to get enough computing power “is directly linked to our ability to access capital on <mark class=\"voc\">favourable terms</mark>”. Being a public company should make the task easier. Until now, Anthropic has turned to <mark class=\"voc\">off-balance-sheet</mark> deals such as that last month with Broadcom, a chip designer, and Blackstone, among other financial firms, to raise $63bn for server purchases.",
+   "zh": "此外，这家模型制造商已经承认，它可能还需要别的资金来源，来支付训练和运行Claude新版本所需的AI芯片。在IPO前夕，它曾对潜在投资者坦言：其能否获得足够的算力，\"直接取决于我们能否以优惠条件拿到资金\"。成为上市公司，应该能让这件事容易一些。在此之前，Anthropic一直靠表外交易筹钱——比如上个月与芯片设计公司博通、以及黑石等金融机构达成的那笔交易，为采购服务器募得630亿美元。",
+   "notes": [
+    {
+     "w": "run-up",
+     "ipa": "/ˈrʌn ʌp/",
+     "pos": "n.",
+     "en": "the run-up to something means the period just before it",
+     "zh": "“助跑”（run 跑+ up 向上，田径里起跳前那段加速），时间语境核心义为……之前的一段时间",
+     "ctx": "In the run-up to the IPO——用“助跑”形容上市前那段，画面是越跑越快、蓄势待发。同义搭配in the run-up to the election（大选前夕）是新闻高频，考试里也常出现",
+     "ex1": "In the run-up to the listing, it warned investors about the risk.在上市前夕，它向投资者提示了这项风险。",
+     "ex2": "Volumes typically rise in the run-up to results day.在业绩发布日之前，成交量通常会放大。"
+    },
+    {
+     "w": "favourable terms",
+     "ipa": "/ˈfeɪvərəbl tɜːmz/",
+     "pos": "phrase",
+     "en": "favourable terms means conditions that are to your advantage, especially in a deal",
+     "zh": "“有利的条件”（favour 恩惠+ -able），谈判语境核心义为优惠条件",
+     "ctx": "terms 是常考又容易错的词——terms and conditions 那个“条款”，不是“学期”。on favourable terms 是“按优惠条件”，terms 在这里是复数，指一整套条件。英式拼法favourable，美式favorable",
+     "ex1": "Its ability to get computing power is linked to capital “on favourable terms”. 它拿到算力的能力，取决于能否“以优惠条件”获得资金。",
+     "ex2": "The loan was granted on unusually favourable terms.这笔贷款的条款优惠得有些不寻常。"
+    },
+    {
+     "w": "off-balance-sheet",
+     "ipa": "/ˌɒf ˈbæləns ʃiːt/",
+     "pos": "adj.",
+     "en": "off-balance-sheet means not recorded on a company's balance sheet",
+     "zh": "“离开资产负债表的”（off 离开+ balance sheet 资产负债表），财务语境核心义为表外的",
+     "ctx": "全段最大的黑箱，不解释就听不懂。类比：自己借钱买房，债务写在账上；找别人出面买、再租给你，债务不记在你账上，可每月租金一分不少。所以表外融资的本质是：债换了地方待着，不等于没有债",
+     "ex1": "It has turned to off-balance-sheet deals to raise $63bn for servers.它转向表外交易，为采购服务器募到630 亿美元。",
+     "ex2": "Regulators have long worried about risks hidden off balance sheet.监管者长期担心藏在表外的风险。"
+    }
+   ]
   },
   {
-   "en_html": "Its menu of options may include more traditional debt offerings. It was given a BB+ credit rating, one notch below investment grade, by Kroll Bond Rating Agency in June before a $35bn chip financing deal with Apollo Global Management, an investment firm. Investors expect Anthropic to push for an investment-grade rating now that its financial performance is public, allowing it to borrow more cheaply.",
-   "zh": "",
-   "notes": []
+   "en_html": "Its <mark class=\"voc\">menu of options</mark> may include more traditional <mark class=\"voc\">debt offerings</mark>. It was given a BB+ <mark class=\"voc\">credit rating</mark>, one <mark class=\"voc\">notch</mark> below <mark class=\"voc\">investment grade</mark>, by Kroll Bond Rating Agency in June before a $35bn chip financing deal with Apollo Global Management, an investment firm. Investors expect Anthropic to push for an investment-grade rating now that its financial performance is public, allowing it to borrow more cheaply.",
+   "zh": "它的选项菜单里，可能还包括更传统的发债。今年6月，Kroll债券评级机构给它评了BB+，比投资级低一档；此后它才与投资公司阿波罗做了一笔350亿美元的芯片融资。如今财务表现已经公开，投资者预期它会去争取投资级评级，从而以更低的成本借钱。",
+   "notes": [
+    {
+     "w": "menu of options",
+     "ipa": "/ˈmenjuː əv ˈɒpʃnz/",
+     "pos": "phrase",
+     "en": "a menu of options means a range of choices available",
+     "zh": "“菜单”（法语menu“细小的、详细的清单”），选择语境核心义为一整套可选方案",
+     "ctx": "作者用menu 不用list，是把融资写成了“点菜”——不是没得选，是看你点哪道。而且menu 暗示“价格不同”：发债便宜但要评级，表外灵活但更贵。一个词，把权衡写出来了",
+     "ex1": "Its menu of options may include more traditional debt offerings. 它的选项菜单里，可能包括更传统的债券发行。",
+     "ex2": "Executives were handed a menu of options, none of them cheap. 高管们拿到了一份选项菜单，没有一项是便宜的。"
+    },
+    {
+     "w": "debt offering",
+     "ipa": "/det ˈɒfərɪŋ/",
+     "pos": "n.",
+     "en": "a debt offering means an issue of bonds or loans to raise money",
+     "zh": "“债务的发售”（debt 债+ offering 发售，与IPO 的offering 同一个词），融资语境核心义为债券发行",
+     "ctx": "more traditional debt offerings——traditional 是关键词：前面那些表外交易是“新玩法”，发债是“老办法”。作者用“更传统”三个字，反过来暗示了前者有多不传统",
+     "ex1": "It may turn to more traditional debt offerings next. 它接下来可能会转向更传统的债券发行。",
+     "ex2": "The company raised $35bn in a chip-financing deal with Apollo. 该公司通过与阿波罗的一笔芯片融资交易募到350 亿美元。"
+    },
+    {
+     "w": "credit rating",
+     "ipa": "/ˈkredɪt ˈreɪtɪŋ/",
+     "pos": "n.",
+     "en": "a credit rating means a score showing how likely a borrower is to repay its debts",
+     "zh": "“信用评分”，金融语境核心义为信用评级",
+     "ctx": "可以理解成“企业的征信分”，它决定你借钱的利息。三大评级机构是标普、穆迪、惠誉；这次给BB+ 的Kroll （KBRA）是后起的一家。评级不是荣誉，是价格标签——它唯一的作用是给利息定价",
+     "ex1": "It was given a BB+ credit rating, one notch below investment grade. 它拿到了BB+ 的信用评级，比投资级低一档。",
+     "ex2": "A higher rating would let it borrow more cheaply. 更高的评级能让它借得更便宜。"
+    },
+    {
+     "w": "notch",
+     "ipa": "/nɒtʃ/",
+     "pos": "n.",
+     "en": "a notch means a level or grade on a scale",
+     "zh": "“木棍上刻的一道口子”（古法语oche），等级语境核心义为一档、一级（本文特指：one notch below investment grade——差一档。所以top-notch 是“刻在最上面那一档”，即一流的。中文“差一档”听起来像小事，实际差了一整个世界，下一段会讲为什么）",
+     "ctx": "",
+     "ex1": "One notch is the difference between a pension fund buying your bonds and not. 差一档，就是养老金买不买你债券的区别。",
+     "ex2": "The service is top-notch and priced accordingly. 这项服务是一流水准，定价也与之相称。"
+    },
+    {
+     "w": "investment grade",
+     "ipa": "/ɪnˈvestmənt ɡreɪd/",
+     "pos": "n.",
+     "en": "investment grade means a credit rating high enough to be considered safe for institutional investors",
+     "zh": "“可投资的等级”（investment 投资+ grade 级别），金融语境核心义为投资级",
+     "ctx": "BBB- 及以上叫投资级，BB+ 及以下叫投机级（江湖人称“垃圾级” junk）。分水岭不在“利息贵一点”，而在于——养老金、保险公司、货币基金的规则只允许它们买投资级债券。跨过去，全世界的长钱都能买你的债；跨不过去，那扇门对你关着",
+     "ex1": "Investors expect it to push for an investment-grade rating now. 投资者预计它现在会争取拿到投资级评级。",
+     "ex2": "Losing investment grade would shut out most institutional buyers. 失去投资级，就等于把大多数机构买家关在门外。"
+    }
+   ]
   },
   {
-   "en_html": "Keeping the funding taps open will be easier if sentiment towards AI strengthens. That is far from assured. Nvidia, the chipmaker at the centre of the AI boom, lost its boss, Jensen Huang, last week, and markets have yet to steady. Politics is turning, too. In this month’s midterm elections voters backed dozens of ballot measures restricting AI, and an anti-data-centre backlash may have helped Democrats sweep to victory. Their incoming leaders have promised moratoriums on the very facilities that Anthropic’s computing commitments depend on. Elizabeth Warren, a Democratic senator, has warned of threats to Americans’ retirements if the IPO goes awry. The White House has so far waved away talk of a bubble, and Donald Trump, who likens data centres to “GOLD”, will resist a crackdown. Yet a Congress turned hostile could raise the price of both capital and concrete. Anthropic’s own prospectus concedes that AI may advance faster than oversight can keep up.",
-   "zh": "",
-   "notes": []
+   "en_html": "Keeping the funding taps open will be easier if <mark class=\"voc\">sentiment</mark> towards AI strengthens. That is <mark class=\"voc\">far from</mark> <mark class=\"voc\">assured</mark>. Nvidia, the chipmaker at the centre of the AI boom, lost its boss, Jensen Huang, last week, and markets have yet to <mark class=\"voc\">steady</mark>. Politics is turning, too. In this month’s midterm elections voters backed dozens of <mark class=\"voc\">ballot measures</mark> restricting AI, and an anti-data-centre <mark class=\"voc\">backlash</mark> may have helped Democrats sweep to victory. Their <mark class=\"voc\">incoming</mark> leaders have promised <mark class=\"voc\">moratoriums</mark> on the very facilities that Anthropic’s computing commitments depend on. Elizabeth Warren, a Democratic senator, has warned of threats to Americans’ retirements if the IPO goes awry. The White House has so far waved away talk of a bubble, and Donald Trump, who <mark class=\"voc\">likens data centres to</mark> “GOLD”, will resist a crackdown. Yet a Congress turned <mark class=\"voc\">hostile</mark> could raise the price of both capital and concrete. Anthropic’s own prospectus concedes that AI may advance faster than <mark class=\"voc\">oversight</mark> can keep up.",
+   "zh": "只要对AI的情绪转强，让资金的龙头继续开着就会容易一些。可这一点，远没有保证。上周，身处AI热潮正中心的芯片制造商英伟达失去了它的掌门人黄仁勋，市场至今仍未稳住。政治也在转向。在本月的美国中期选举中，选民支持了数十项限制AI的公投议案，而一股反数据中心的情绪，可能助推民主党横扫获胜。他们即将上任的领导人已经承诺：要对那些设施实施暂停令——而Anthropic的算力承诺，恰恰系于这些设施。民主党参议员伊丽莎白·沃伦警告说，一旦这次IPO出了岔子，美国人的退休金将受到威胁。白宫至今对\"泡沫\"之说一挥手了之，而把数据中心称为\"黄金\"的特朗普，会抵制任何打压。可一个已经转向敌对的国会，却可能同时抬高资本与水泥的价格。Anthropic自己的招股说明书也承认：AI的推进速度，可能快过监管跟上的速度。",
+   "notes": [
+    {
+     "w": "sentiment",
+     "ipa": "/ˈsentɪmənt/",
+     "pos": "n.",
+     "en": "sentiment means the general feeling or opinion that a group of people share",
+     "zh": "“感觉”（拉丁sentire“感知”，与sense、sensible、consent 同族），市场语境核心义为（群体）情绪、市场气氛",
+     "ctx": "和emotion 要分清——emotion 是个人的、私密的；sentiment 是群体的、外部的、可以被测量的。所以有market sentiment、investor sentiment、consumer sentiment（美国密歇根大学那个著名指数就叫Consumer Sentiment Index）。sentiment 从来不是“我感觉”，是“大家感觉”",
+     "ex1": "Keeping the funding taps open is easier if sentiment towards AI strengthens. 如果对AI 的情绪转强，让资金龙头继续开着就会容易些。",
+     "ex2": "Sentiment turned against the sector within a single week. 短短一周之内，市场对这个板块的情绪就翻了。"
+    },
+    {
+     "w": "far from",
+     "ipa": "/fɑː frəm/",
+     "pos": "phrase",
+     "en": "far from + adjective means not at all",
+     "zh": "“离……很远”，否定语境核心义为远非、根本不",
+     "ctx": "",
+     "ex1": "That is far from assured, given what happened last week. 考虑到上周发生的事，这一点远没有保证。",
+     "ex2": "The dispute is far from settled. 这场争端远未解决。"
+    },
+    {
+     "w": "assured",
+     "ipa": "/əˈʃʊəd/",
+     "pos": "adj.",
+     "en": "assured (adj.) means certain to happen",
+     "zh": "“被保证了的”（assure 保证+ -ed），确定语境核心义为有保证的、确定能成的",
+     "ctx": "顺手分清三个同音近形词——assure 对人（让人放心），ensure 对事（确保发生），insure 对钱（买保险）。三个词各管一摊：一个管人心，一个管事情，一个管钱包。这一步分清，考试里稳拿分",
+     "ex1": "Nothing about the next two years is assured. 未来两年的一切都没有保证。",
+     "ex2": "Rest assured, the board has looked at every option. 请放心，董事会已经把每个选项都看过了。"
+    },
+    {
+     "w": "steady",
+     "ipa": "/ˈstedi/",
+     "pos": "v.",
+     "en": "steady (v.) means to become or make stable",
+     "zh": "“站稳”（stead 位置+ -y），行情语境核心义为稳住",
+     "ctx": "markets have yet to steady——用“稳”字写“不稳”，整段就成了一个“求稳不得”的故事。作者把哪个词放在段首，那个词就是这一段的反面。这是读外刊时最容易被跳过的一层",
+     "ex1": "Markets have yet to steady since the news broke. 消息传出后，市场至今还没稳住。",
+     "ex2": "A single reassuring statement steadied the currency. 一句安抚性的声明就把汇率稳住了。"
+    },
+    {
+     "w": "ballot measure",
+     "ipa": "/ˈbælət ˈmeʒə(r)/",
+     "pos": "n.",
+     "en": "a ballot measure means a proposal that voters decide on directly at an election",
+     "zh": "“选票上的议案”（ballot 源自古意大利语ballotta“小球”——中世纪威尼斯选总督往罐子里扔球，白的同意、黑的反对），政治语境核心义为公民投票议案",
+     "ctx": "美国“直接民主”的统称，下面分三类：initiative（公民自己凑签名发起）、 referendum（议会通过后交全民确认）、recall（罢免官员）。以后看到Proposition 8、 Issue 1、Question 2 这种名字别懵，那就是某个ballot measure 的编号",
+     "ex1": "Voters backed dozens of ballot measures restricting AI. 选民支持了数十项限制AI 的公投议案。",
+     "ex2": "The measure passed with nearly three-quarters of the vote. 这项议案以近四分之三的票数通过。"
+    },
+    {
+     "w": "backlash",
+     "ipa": "/ˈbæklæʃ/",
+     "pos": "n.",
+     "en": "a backlash means a strong negative reaction by a large number of people",
+     "zh": "“鞭子往回抽”（back 向后+ lash 鞭打），社会语境核心义为反弹、反噬",
+     "ctx": "",
+     "ex1": "An anti-data-centre backlash may have helped the Democrats. 一股反数据中心的反弹，可能帮了民主党。",
+     "ex2": "The rebranding triggered a backlash it never saw coming. 那次品牌重塑引发了一场它没料到的反弹。"
+    },
+    {
+     "w": "incoming",
+     "ipa": "/ˈɪnkʌmɪŋ/",
+     "pos": "adj.",
+     "en": "incoming (adj.) means recently elected or appointed and about to take office",
+     "zh": "“进来的”（in 进+ come 来+ -ing），职务语境核心义为即将上任的",
+     "ctx": "和outgoing（即将卸任的）是一对，同一篇新闻里可能是两个人，而且是死对头。注意outgoing 还有完全不同的一个意思：外向的、爱社交的——an outgoing person 不是“要离职的人”，是“很会来事的人”",
+     "ex1": "Their incoming leaders have promised moratoriums on those very facilities. 他们即将上任的领导人已经承诺，要对那些设施实施暂停令。",
+     "ex2": "The incoming governor has not yet named a energy adviser. 即将上任的州长尚未任命能源顾问。"
+    },
+    {
+     "w": "moratorium",
+     "ipa": "/ˌmɒrəˈtɔːriəm/",
+     "pos": "n.",
+     "en": "a moratorium means an official temporary stop to an activity",
+     "zh": "“延期”（拉丁mora“拖延”，与demur 同族），政策语境核心义为暂停令",
+     "ctx": "它最早是法律词，指“债务延期偿还”，后来引申为“一段时间内暂停某项活动”，搭配固定用on：a moratorium on nuclear testing。它的本质不是禁止，是“先停着”——而商业世界里让你等，就等于让你死：你要还利息、付工资、养机器",
+     "ex1": "They promised moratoriums on the very facilities its commitments depend on. 他们承诺暂停的，恰恰是它的承诺所依赖的那些设施。",
+     "ex2": "The council imposed a 180-day moratorium on large data centres. 市议会下令对大型数据中心实施180 天的暂停令。"
+    },
+    {
+     "w": "liken A to B",
+     "ipa": "/ˈlaɪkən/",
+     "pos": "v.",
+     "en": "liken (v.) means to describe one thing as similar to another",
+     "zh": "“使相似”（like 像+ -en 动词后缀），比喻语境核心义为把A 比作B",
+     "ctx": "这个词中国学生最容易用错——liken 是及物动词，后面必须跟to，不能跟 as 也不能跟with。为什么容易错？因为like 是介词（A is like B）。一句话记住：like 是介词，liken 是动词，动词要带to",
+     "ex1": "He likens data centres to “GOLD”, in capitals.他把数据中心比作“黄金”——还是全大写的那种。",
+     "ex2": "Critics liken the spending to the railway mania of the 1840s.批评者把这波支出比作1840 年代的铁路狂热。"
+    },
+    {
+     "w": "hostile",
+     "ipa": "/ˈhɒstaɪl/",
+     "pos": "adj.",
+     "en": "hostile (adj.) means unfriendly and opposed",
+     "zh": "“陌生人的”（拉丁hostis“陌生人”——古罗马人眼里，陌生人只有两种可能：要么是客人，要么是敌人），对立语境核心义为敌对的、怀有敌意的",
+     "ctx": "这一族词全从hostis 长出来：host（主人，接待陌生人的人）、hostel（旅社）、hotel（同一个词，法国人把h 吞了）、hospital（最早是收留陌生人、病人、朝圣者的地方）、 hospice、hostage（人质）。hotel 和hospital 和hostile，是一个妈生的",
+     "ex1": "A Congress turned hostile could raise the price of both capital and concrete. 一个转向敌对的国会，可能同时抬高资本与水泥的价格。",
+     "ex2": "The proposal was hostile to everything the agency stood for.这项提案与那个机构所主张的一切都对着来。"
+    },
+    {
+     "w": "oversight",
+     "ipa": "/ˈəʊvəsaɪt/",
+     "pos": "n.",
+     "en": "oversight means supervision; it also means a failure to notice something",
+     "zh": "“从上往下看”（over 在上+ sight 看），监管语境核心义为监管；同时也指疏忽",
+     "ctx": "一个词，两个反义——看着、盯着，是“监管”；看漏了、没看见，是“疏忽”。英语里管这种词叫contronym（自反义词），同类的还有sanction（批准／制裁）、cleave（劈开／黏住）、dust（撒粉／掸灰）、left（离开了／剩下的）。而这句话妙在：监管跟不上，就是疏忽。它不是双关，是揭露",
+     "ex1": "AI may advance faster than oversight can keep up. AI 的推进速度，可能快过监管跟上的速度。",
+     "ex2": "The missing clause was an oversight, not a decision. 漏掉那一条是疏忽，不是决定。"
+    }
+   ]
   },
   {
-   "en_html": "Anthropic’s record-breaking stock-market debut suggests Wall Street is excited to spread its bets from AI hardware and cloud-computing firms to model makers. But despite its first-day rally, broader share-price indices continued to decline. For all the Anthropic fever, the stock market’s mood swings about AI remain as volatile as ever. ■",
-   "zh": "",
-   "notes": []
+   "en_html": "Anthropic’s <mark class=\"voc\">record-breaking</mark> stock-market <mark class=\"voc\">debut</mark> suggests Wall Street is excited to <mark class=\"voc\">spread its bets</mark> from AI hardware and cloud-computing firms to model makers. But despite its first-day <mark class=\"voc\">rally</mark>, broader share-price <mark class=\"voc\">indices</mark> continued to decline. <mark class=\"voc\">For all</mark> the Anthropic <mark class=\"voc\">fever</mark>, the stock market’s mood swings about AI remain as <mark class=\"voc\">volatile</mark> <mark class=\"voc\">as ever</mark>. ■",
+   "zh": "Anthropic那场破纪录的股市首秀，表明华尔街乐于把赌注从AI硬件与云计算公司，分散到模型公司身上。然而，尽管首日走高，大盘指数却继续下行。纵然Anthropic热得发烫，股市对AI的情绪起伏，却一如既往地剧烈。■",
+   "notes": [
+    {
+     "w": "record-breaking",
+     "ipa": "/ˈrekəd ˌbreɪkɪŋ/",
+     "pos": "adj.",
+     "en": "record-breaking means better or greater than any previous record",
+     "zh": "“打破纪录的”（record 纪录+ breaking 打破），构词语境核心义为破纪录的",
+     "ctx": "",
+     "ex1": "Its record-breaking debut suggests Wall Street is excited to spread its bets. 它那场破纪录的首秀表明，华尔街乐于把赌注摊开。",
+     "ex2": "The city logged record-breaking temperatures for the third summer running. 这座城市连续第三个夏天录得破纪录的高温。"
+    },
+    {
+     "w": "debut",
+     "ipa": "/ˈdeɪbjuː/",
+     "pos": "n.",
+     "en": "a debut means the first public appearance of a performer, or of a company on the market",
+     "zh": "“开始”（法语début，débuter 开始），登场语境核心义为首次亮相、首秀",
+     "ctx": "读音先说清楚——重音在第一个音节/ˈdeɪbjuː/，不是de-BUT。英语借法语词的通病：拼写留着，读音改掉，重音往前挪（ballet、buffet、garage 全是这个路数）。作者在一篇讲IPO 的文章里最后用debut 不用IPO，因为debut 有情绪：一个新人走上台，灯打在他身上",
+     "ex1": "Its stock-market debut was the largest of all time. 它的股市首秀是史上规模最大的一次。",
+     "ex2": "She made her debut in front of nine thousand people. 她在九千人面前完成了首秀。"
+    },
+    {
+     "w": "spread its bets",
+     "ipa": "/spred ɪts bets/",
+     "pos": "phrase",
+     "en": "to spread your bets means to risk money on several things instead of one",
+     "zh": "“把赌注摊开”（赌桌术语：押一匹马，输了全输；分押三匹，一匹赢还能回本），投资语境核心义为分散下注",
+     "ctx": "中文有个意思一样的说法：别把鸡蛋放一个篮子里。但两个比喻的姿势不一样——鸡蛋是“怕碎”，赌注是“怕输”；一个在厨房，一个在赌场。作者用赌场的说法，因为这一段讲的是华尔街，而华尔街的语言天生是赌桌的语言",
+     "ex1": "Wall Street is spreading its bets from hardware to model makers.华尔街正把赌注从硬件分散到模型公司。",
+     "ex2": "When the outlook is this murky, investors spread their bets.前景这么混沌的时候，投资者会分散下注。"
+    },
+    {
+     "w": "rally",
+     "ipa": "/ˈræli/",
+     "pos": "n.",
+     "en": "a rally means a recovery in prices after a period of falling",
+     "zh": "“重新集合”（法语rallier，re- 再+ allier 联合），行情语境核心义为反弹、回升",
+     "ctx": "",
+     "ex1": "Despite its first-day rally, broader indices kept falling. 尽管首日上涨，大盘指数却持续下行。",
+     "ex2": "The rally faded within an hour of the opening bell. 开盘一小时内，这波涨势就退了。"
+    },
+    {
+     "w": "indices",
+     "ipa": "/ˈɪndɪsiːz/",
+     "pos": "n.",
+     "en": "indices is the plural of index, used especially in finance and statistics",
+     "zh": "“索引、指数”的拉丁语复数（index 的复数有两个），金融语境核心义为指数（复数）",
+     "ctx": "",
+     "ex1": "Broader share-price indices continued to decline despite the debut. 尽管有这场首秀，更广泛的大盘指数仍继续下跌。",
+     "ex2": "Index funds must buy a stock once it joins the index. 一只股票一旦被纳入指数，指数基金就必须买入。"
+    },
+    {
+     "w": "For all",
+     "ipa": "/fɔːr ɔːl/",
+     "pos": "prep.",
+     "en": "for all + noun means despite",
+     "zh": "“就算有”，让步语境核心义为尽管",
+     "ctx": "全篇最后一个坑，也是最大的一个——它绝不是“为了所有”。For all his wealth, he is unhappy.（尽管有钱，他不快乐。）三个例句的共同点：前半句让一步，后半句捅一刀。它比despite 更像叹气：Despite the fever 是陈述，For all the fever 是摇头。另有for all I know（据我所知／说不定），看后面接名词还是句子",
+     "ex1": "For all the Anthropic fever, the market's mood has not changed. 纵然Anthropic 热得发烫，市场的情绪并没有变。",
+     "ex2": "For all its size, the company still cannot name a successor. 尽管体量庞大，这家公司仍说不出接班人选。"
+    },
+    {
+     "w": "fever",
+     "ipa": "/ˈfiːvə(r)/",
+     "pos": "n.",
+     "en": "fever means a high body temperature; it also means intense excitement",
+     "zh": "“发烧”（拉丁febris），引申语境核心义为狂热、热",
+     "ctx": "为什么“发烧”能表示“狂热”？因为发烧的人脸红、心跳快、说胡话、不听劝——跟追星现场、抢房、炒鞋一个样。所以有一串X fever：gold fever、dotcom fever。而作者在这里做了一个很狠的判断：他没说Anthropic 热，他说Anthropic 发烧。热是好事，烧是病",
+     "ex1": "For all the Anthropic fever, the mood about AI has not changed. 尽管Anthropic 热得发烫，人们对AI 的情绪并没有变。",
+     "ex2": "Excitement reached fever pitch in the hour before the bell. 开盘前一小时，兴奋到了白热化。"
+    },
+    {
+     "w": "volatile",
+     "ipa": "/ˈvɒlətaɪl/",
+     "pos": "adj.",
+     "en": "volatile (adj.) means likely to change suddenly and unexpectedly",
+     "zh": "“会飞的”（拉丁volare“飞”，同族volley 齐射），金融语境核心义为剧烈波动的",
+     "ctx": "",
+     "ex1": "The stock market's mood swings about AI remain as volatile as ever. 股市对AI 的情绪起伏，一如既往地剧烈。",
+     "ex2": "Chip stocks are among the most volatile on the exchange. 芯片股是交易所里波动最剧烈的一类。"
+    },
+    {
+     "w": "as ... as ever",
+     "ipa": "/əz ... əz ˈevə(r)/",
+     "pos": "phrase",
+     "en": "as ... as ever means as ... as at any time before",
+     "zh": "“跟以往任何时候一样……”，比较语境核心义为一如既往地",
+     "ctx": "它有个隐含的对比——你以为事情变了，其实没变。作者用这四个词，把整篇文章拉回了原点：标题说soar（飞上去了），读完八段落在as volatile as ever（还是那么晃）。首尾一合，全文成了一个圆",
+     "ex1": "Its mood about AI remains as volatile as ever. 它对AI 的情绪，一如既往地反复。",
+     "ex2": "Demand for chips is as strong as ever, whatever the share price says. 不管股价怎么说，芯片需求一如既往地强劲。"
+    }
+   ]
   }
  ],
- "proper": [],
+ "proper": [
+  {
+   "name": "Anthropic",
+   "def": "简要介绍：美国AI 实验室，2021 年由Dario Amodei 与其妹妹Daniela Amodei 等一批前OpenAI 核心成员创立，总部旧金山，主打大模型Claude。公司名字取自物理学中的anthropic principle（人择原理），anthrop- 即希腊语“人”。它把自己定位为“安全优先”的实验室，主张在造出强AI 之前先解决可控性问题。2026 年11 月19 日上市，募资1073 亿美元，成为人类历史上规模最大的一次IPO，盘中市值一度突破2 万亿美元。<br>本文中的意思：全文主角。文章对它的态度非常微妙：既承认它是“史上最大”，又断言它“很快还会回来要钱”。理解这家公司的双重身份（最风光的上市公司／最饥渴的融资者），才理解标题为什么用cap in hand。"
+  },
+  {
+   "name": "Dario Amodei",
+   "def": "简要介绍：Anthropic 联合创始人兼CEO。普林斯顿大学生物物理博士，早年在百度硅谷AI 实验室、谷歌大脑（Google Brain）任职，后加入OpenAI 担任研究副总裁，主导了GPT-2、GPT-3 的研发。2021 年因在“商业化速度与安全优先级”上与OpenAI 高层产生分歧，带团队出走创立Anthropic。<br>本文中的意思：文中两个关键判断都出自他：一是“数据中心里的天才之国”这个目标，二是“最深的商业困境”这个自我诊断。作者引他的原话时用dilemma，自己概括时用conundrum——一个词的替换，把当事人和旁观者分开了。"
+  },
+  {
+   "name": "Claude",
+   "def": "简要介绍：Anthropic 开发的大语言模型系列，名字取自信息论之父克劳德·香农（Claude Shannon）。2023 年首次发布，主打长文本理解与“宪法式AI”（Constitutional AI）训练方法——即用一套明文规则约束模型行为，而不是纯靠人工标注。它是ChatGPT 最主要的竞争对手之一。<br>本文中的意思：文中以its Claude bot 的形式出现。注意作者称它bot（机器人），而不是model（模型）——这是《经济学人》的一贯口气：不管这家公司市值多少，在他笔下就是一群书呆子做的一个bot。"
+  },
+  {
+   "name": "anthropic principle",
+   "def": "简要介绍：物理学与宇宙学中的一个哲学命题：我们观测到的宇宙之所以是现在这个样子，是因为如果它不这样，就不会有观测者来提问。换句话说，宇宙的常数“刚好适合人类存在”，这不是巧合，而是观测行为本身带来的筛选效应。1973 年由物理学家布兰登·卡特（Brandon Carter）正式提出并命名。<br>本文中的意思：公司名字的来源。这个背景值得讲：一家名字叫“人”的公司，目标是造一个超过人的智能——命名与使命之间形成了一层黑色幽默。作者没有点破，但这是理解全文调性的一个暗扣。"
+  },
+  {
+   "name": "OpenAI",
+   "def": "简要介绍：2015 年成立于旧金山的AI 研究机构，2022 年凭ChatGPT 引爆全球AI 热潮，是这一轮技术浪潮的起点。最初为非营利组织，后重组为“有限利润”结构以吸引投资，微软是最大外部股东。<br>本文中的意思：文中的arch-rival（头号劲敌）。这层关系的狠处在于：Anthropic 是从OpenAI 出走的，2021 年那批人带的正是“安全优先”的立场。所以这不是普通竞争，是同门之争。"
+  },
+  {
+   "name": "NVIDIA",
+   "def": "简要介绍：1993 年创立于加州的芯片公司，最初做图形处理器（GPU），2010 年代因GPU 恰好适合深度学习而成为AI 算力的绝对核心。其CUDA 软件生态构成极深的护城河——竞争对手能造芯片，但难以复制二十年积累的开发者生态。2020 年代市值一路攀升至全球最高之列。<br>本文中的意思：文中两个角色：一是Anthropic 的算力供应商（也是它的股东，出现在第1 段的260 亿私募名单里），二是第7 段的“风险源”——它一抖，整个AI 板块跟着抖。作者用chipmaker at the centre of the AI boom 给它定位，一句话写完它的分量。"
+  },
+  {
+   "name": "Jensen Huang",
+   "def": "简要介绍：英伟达联合创始人兼长期CEO，1963 年生于台南，幼年赴美，俄勒冈州立大学电机工程本科、斯坦福硕士。1993 年与两位同伴创立英伟达，以“皮衣”形象和极长的战略视野著称，被视为这一轮AI 浪潮最具象征性的企业家。2026 年11 月，因一桩涉及个人行为的丑闻引发董事会内部调查，随后离开公司。<br>本文中的意思：文中只用三个词交代：lost its boss。作者不写辞职、不写被免、不写原因——因为一写，段落重心就会跑到八卦上。他要的是“不确定性”，不是“丑闻”。这处克制值得单独讲。"
+  },
+  {
+   "name": "Alphabet",
+   "def": "简要介绍：2015 年由谷歌重组而成的控股公司，谷歌成为其子公司，与Waymo（自动驾驶）、Verily（生命科学）、DeepMind（AI）等实验性业务并列。重组的原因是：搜索广告业务太赚钱，而那些烧钱的前沿项目放在同一张财报里全是拖累——分开之后，主业可以更干净地被估值。<br>本文中的意思：文中唯一的“参照物”：Anthropic 手里的2300 亿现金，只比它少（它在最近一个季度末持有2650 亿）。作者用它作对照，是给读者一个“钱多到什么量级”的坐标，同时顺手埋下一句潜台词：Anthropic 没有主业可躲。"
+  },
+  {
+   "name": "Broadcom",
+   "def": "简要介绍：全球领先的半导体与基础设施软件公司，总部位于加州。除了网络芯片、存储芯片，它近年最受关注的是为超大客户定制AI 专用芯片（ASIC/XPU）的业务——即帮云厂商造“自家的英伟达替代品”。<br>本文中的意思：文中是那笔630 亿美元表外融资合作方之一。它的出现说明一件事：Anthropic 连服务器采购都可以不自己出面，而是通过芯片设计商和金融机构搭结构——这正是off-balance-sheet 的现实版本。"
+  },
+  {
+   "name": "Blackstone",
+   "def": "简要介绍：全球最大的另类资产管理公司，1985 年由苏世民（Stephen Schwarzman）与彼得·彼得森创立，管理规模超过万亿美元，业务涵盖私募股权、房地产、信贷与对冲基金。它擅长的是“用别人的钱做大交易”。<br>本文中的意思：文中与博通并列，是那笔630 亿美元融资里的金融方。理解这一类机构的作用，就理解了表外融资的本质：不是公司自己借钱，是有人替它把钱组织起来，再以租赁、合资等形式给它用。"
+  },
+  {
+   "name": "Apollo Global Management",
+   "def": "简要介绍：美国大型另类资产管理公司，1990 年由前德崇证券（Drexel BurnhamLambert）的银行家创立，以信贷与私募股权投资见长，尤其擅长结构化融资与资产支持类交易。<br>本文中的意思：文中是那笔350 亿美元芯片融资的交易对手。注意作者交代的顺序：6 月先拿到BB+ 评级，然后才做这笔350 亿融资——顺序一摆，画面就出来了：它是顶着BB+ 去借的这350 亿。"
+  },
+  {
+   "name": "Kroll Bond Rating Agency (KBRA)",
+   "def": "简要介绍：美国信用评级机构，2010 年成立，总部纽约。相比标普、穆迪、惠誉三大巨头，它属于后起者，但在结构化金融与新兴发行人中占有一席之地。2008 年金融危机后，评级机构的公信力受到广泛质疑，新机构因此有了生存空间。<br>本文中的意思：文中给Anthropic 打出BB+ 的那一家。作者特意写明机构名字，而不是笼统说“评级机构”，是在给这个判断加可核查性——这是外刊处理数据的一贯做法。"
+  },
+  {
+   "name": "William Blair",
+   "def": "简要介绍：美国老牌投资银行与资产管理公司，1935 年成立于芝加哥，以成长型企业研究与承销见长，在科技与医疗行业的研究上有一定影响力。<br>本文中的意思：文中唯一给出量化测算的机构：只要年收入增速高于20%、持续到2035年，Anthropic 就能覆盖其算力承诺。作者用reckon 而不用say 引出它，暗示这不是“表个态”，而是“算过一笔账”。"
+  },
+  {
+   "name": "SpaceX",
+   "def": "简要介绍：2002 年由埃隆·马斯克创立的航天公司，主业是可回收火箭与星链（Starlink）卫星互联网。2026 年6 月上市，募资约750 亿美元，一度是人类史上最大的IPO，估值约1.77 万亿美元。<br>本文中的意思：文中未点名，但它是“史上最大”这个说法的前纪录保持者。补上这个参照物，1073 亿才有分量：一个造火箭的、四个月前刚创下的纪录，被一家成立六年的AI 公司用不到半年就破了。"
+  },
+  {
+   "name": "401(k)",
+   "def": "简要介绍：美国最主流的雇主发起退休储蓄计划，名字来自1978 年美国《国内税收法》第401(k) 条款。运作方式：员工从税前工资中按比例存入，雇主按比例配比（match），资金投入基金长期投资，退休后取出时才缴税。截至2020 年代，它是数千万美国中产最主要的退休资产。<br>本文中的意思：理解第7 段沃伦那句警告的钥匙。关键机制是：这笔钱绝大部分不是自己挑股票，而是买指数基金；而指数基金的规则是“只要一只股票被纳入指数，就必须买”。所以Anthropic 一旦进入主要指数，几千万美国人在不知情的情况下就持有了它——你没买，你也买了。"
+  },
+  {
+   "name": "Elizabeth Warren",
+   "def": "简要介绍：美国马萨诸塞州民主党参议员，1949 年生，法学教授出身，专攻破产法。2008 年金融危机后主导推动成立消费者金融保护局（CFPB），是华尔街最忌惮的立法者之一。2019 年曾参加民主党总统初选。<br>本文中的意思：文中她警告：如果这次IPO 出岔子，美国人的退休金与整个金融体系都会受威胁，而“特朗普的监管者在岗位上睡着了”。作者引她不引别人，是因为她的位置天生就是这句话的发言人——替普通人说话、盯金融机构。"
+  },
+  {
+   "name": "Donald Trump",
+   "def": "简要介绍：美国第47 任总统。2026 年中期选举民主党大胜后，他在社交平台表态“百分之百支持超级智能（SI）”，并称数据中心“是黄金，只有愚蠢的领导人才会对它们带来的财富说不”。他把AI 刻意称作Super Intelligence 而非artificial intelligence。<br>本文中的意思：文中代表联邦层面的相反力量：地方在投票否决，白宫在喊“它们是黄金”。作者用likens ... to “GOLD”（全大写）引用他的原话，大写本身就是信息——它在告诉你这个人在喊。"
+  },
+  {
+   "name": "US midterm elections",
+   "def": "简要介绍：美国总统四年任期中段举行的全国选举，通常在任期的第二年的11 月第一个星期二。改选众议院全部435 席、参议院约三分之一席位，以及36 个州长。历史上执政党几乎总在中期选举中丢席位，故有“中期魔咒”（the midterm curse）之说。2026 年这一场，民主党大胜，重掌国会两院。<br>本文中的意思：第7 段的政治转折点。这次选举的特殊之处在于：数据中心成了核心议题之一。全美约五十项与数据中心相关的地方公投，四十六项通过了限制；选举日民调显示76% 的选民反对在自己社区建数据中心。一个技术设施，成了选票上的主角。"
+  },
+  {
+   "name": "Ballotpedia",
+   "def": "简要介绍：美国非营利性政治百科全书网站，2007 年上线，系统追踪全美各级选举、公投议案、候选人及官员信息，是研究美国地方政治最常被引用的数据源之一。它的数据特点是把“选票上到底印了什么”逐条记录下来。<br>本文中的意思：文中“数十项公投议案”这个模糊说法的精确来源。作者在正文里用dozens of（不必精确），而实际数字是五十项左右、四十六项通过——补上这个数，读者才知道“数十项”有多重。"
+  },
+  {
+   "name": "Nasdaq",
+   "def": "简要介绍：美国第二大证券交易所，1971 年成立，是全球第一个电子化交易市场，以科技股集中著称（苹果、微软、英伟达、Alphabet 均在此上市）。其综合指数（NasdaqComposite）是观察科技板块最重要的指标之一。<br>本文中的意思：文中broader share-price indices 的现实所指。Anthropic 首日大涨的那几天，纳指正从高点回落超过10%，跌入“回调区间”；英伟达事件后的一交易日内，美股市值蒸发约2.5 万亿美元。一句“大盘继续跌”，背后是这个量级。史上最大IPO！Anthropic上市首日市值一度破2万亿美元，但还是不够花？"
+  }
+ ],
  "sources_note": "依据《经济学人》2026-11-21 报道。",
- "practice": {},
+ "practice": {
+  "intro": "",
+  "items": [],
+  "critical_en": "",
+  "critical_zh": "",
+  "answer": "",
+  "exercise_verbatim": "请将以下中文句子翻译为英文（参考答案见后）<br><br>1. 这家公司眼下风光无两，但用不了多久，它就得攥着帽子，回过头来向投资人伸手要钱。<br>2. 这一成就固然亮眼，却丝毫减轻不了它未来几年的融资压力。<br>3. 在客户需求尚不可知的时候就把算力提前锁死，是它眼下最难解的一道题。<br>4. 为了不让债务趴在资产负债表上，它让合作方出面买下服务器，再转租给自己使用。<br>5. 国会扬言要叫停的，恰恰是这类公司赖以运转的设施。<br>6. 纵然上市首日大涨，市场对人工智能的情绪仍一如既往地反复无常。",
+  "answer_verbatim": "参考答案<br><br>1. The company is riding high at the moment, but it will soon be back, cap in hand, asking investors for money.<br>2. The feat, impressive as it is, does nothing to ease the funding pressure of the years ahead.<br>3. Locking in computing power before customers' demand is known is the conundrum it now faces.<br>4. To keep the debt off its balance sheet, it has partners buy the servers and lease them back to it.<br>5. What Congress threatens to halt are the very facilities on which such firms depend.<br>6. Despite a first-day rally, the market's mood about AI remains as volatile as ever."
+ },
  "mindmap": {
   "aria": "",
   "alt": "",
   "svg": "",
   "img": ""
- }
+ },
+ "audio": true
 }

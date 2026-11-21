@@ -25,7 +25,12 @@ def mm_gate_check(c, out_path):
 
     规则：完整笔记上线前也要先让用户确认导图骨架，确认之后才做手绘版。
     闸门只拦「写进仓库」的正式页面；指到 /tmp 的自查输出照常放行。
+
+    2026-11-21 起用户不再要思维导图：无导图期次（mindmap.svg 为空）不设导图骨架，
+    这道「先确认骨架」的闸门失去审查对象，直接放行。历史期次导图非空，照旧受闸门约束。
     """
+    if not (c.get("mindmap") or {}).get("svg"):
+        return
     practice = c.get("practice") or {}
     is_notes = bool(c.get("audio")) or bool(practice.get("items") or practice.get("answer"))
     if not is_notes:
