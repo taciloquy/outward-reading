@@ -1,6 +1,13 @@
 // ===== 文章数据库（独立静态资源；正文全文见 search-index.js） =====
     const ARTICLES = [
       {
+        title: "Using AI, mathematician claims to have solved one of math’s great mysteries",
+        publishDate: "2026-11-23",
+        fileKey: "2026-11-23_001",
+        readingPath: "/outward-reading/articles/2026/11/2026-11-23_001.reading.html",
+        source: "Washington Post"
+      },
+      {
         title: "Futuristic Shenzhen Shows Trump the Difficulty of Stopping China",
         publishDate: "2026-11-22",
         fileKey: "2026-11-22_001",
