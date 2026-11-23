@@ -360,6 +360,22 @@ def main():
             '}</style>\n'
         )
         s = s.replace("</head>", compact + "</head>", 1)
+        # 9.7b 更紧档：原文特别长（如 11-24  CNN 5844 字符 / 11 段）时，
+        # 仅靠 print_compact 仍会溢出到第 3 页（尾段 ~400 字符）。content JSON 写
+        # "print_compact_dense": true 启用，只收打印态页边距/字号/行高/段距，
+        # 不改内容、不合段、不动屏幕版式；@page 规则放 @media 外确保 Chrome 生效。
+        if c.get("print_compact_dense"):
+            dense = (
+                '<style id="print-compact-dense">'
+                '@page{size:A4 portrait;margin:11mm 12mm}\n'
+                '@media print{\n'
+                '  body.print-compact .paragraph,body.print-compact .headline-block{margin:0 0 2pt !important}\n'
+                '  body.print-compact .p-label{margin:0 0 1pt !important}\n'
+                '  body.print-compact .en-block{line-height:1.32 !important;padding:0 0 0 7pt !important;font-size:9.5pt !important}\n'
+                '  body.print-compact h1{font-size:16pt !important;margin:0 0 2pt !important}\n'
+                '}</style>\n'
+            )
+            s = s.replace("</head>", dense + "</head>", 1)
 
     open(sys.argv[2], "w", encoding="utf-8").write(s)
     print(f"已生成 {sys.argv[2]}（{len(s)//1024} KB，段落 {len(paras)}，词汇 {vi}，专名 {len(c['proper'])}）")

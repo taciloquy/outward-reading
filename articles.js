@@ -1,6 +1,13 @@
 // ===== 文章数据库（独立静态资源；正文全文见 search-index.js） =====
     const ARTICLES = [
       {
+        title: "The Garbage Man: Bill Gates has earned billions investing in climate-polluting landfills",
+        publishDate: "2026-11-24",
+        fileKey: "2026-11-24_001",
+        readingPath: "/outward-reading/articles/2026/11/2026-11-24_001.reading.html",
+        source: "CNN"
+      },
+      {
         title: "Using AI, mathematician claims to have solved one of math’s great mysteries",
         publishDate: "2026-11-23",
         fileKey: "2026-11-23_001",
