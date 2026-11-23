@@ -6,8 +6,218 @@
  "category": "美国《华盛顿邮报》外刊讲解 第1237天",
  "read_minutes": 10,
  "nav_hint": "AI 破解黎曼猜想？数学家的得与失",
- "headline_en": "AI may have cracked the Riemann hypothesis, one of math’s most cherished mysteries. For mathematicians, the breakthrough brings both wonder and loss.",
- "headline_zh": "",
+ "headline_en": "Using AI, mathematician claims to have solved one of math’s great mysteries",
+ "headline_zh": "借AI 之力，一位数学家宣称，自己已经解开了数学界一道重大的谜。",
  "sources_note": "依据《华盛顿邮报》2026-11-23 报道。",
- "marks": {}
+ "marks": {
+  "2": [
+   [
+    "concern",
+    "concern"
+   ],
+   [
+    "unpredictable",
+    "unpredictable"
+   ],
+   [
+    "prime",
+    "prime"
+   ],
+   [
+    "come with",
+    "comes with"
+   ],
+   [
+    "cause for",
+    "cause for"
+   ],
+   [
+    "grapple with",
+    "grapples with"
+   ]
+  ],
+  "3": [
+   [
+    "allure",
+    "allure"
+   ],
+   [
+    "motivate",
+    "motivate"
+   ],
+   [
+    "profound",
+    "profound"
+   ],
+   [
+    "fell",
+    "felled"
+   ],
+   [
+    "reckon on",
+    "reckoning on"
+   ],
+   [
+    "North Star",
+    "North Stars"
+   ],
+   [
+    "principal",
+    "principal"
+   ],
+   [
+    "dawn",
+    "dawn"
+   ]
+  ],
+  "6": [
+   [
+    "go back to",
+    "goes back to"
+   ],
+   [
+    "building block",
+    "building blocks"
+   ],
+   [
+    "arithmetic",
+    "arithmetic"
+   ],
+   [
+    "hold up",
+    "hold up"
+   ],
+   [
+    "cryptography",
+    "cryptography"
+   ],
+   [
+    "contradictory",
+    "contradictory"
+   ],
+   [
+    "captivate",
+    "captivated"
+   ],
+   [
+    "weed",
+    "weeds"
+   ],
+   [
+    "no other ... than",
+    "no other law than"
+   ],
+   [
+    "sprout",
+    "sprout"
+   ],
+   [
+    "stunning",
+    "stunning"
+   ],
+   [
+    "military precision",
+    "military precision"
+   ]
+  ],
+  "7": [
+   [
+    "formulate",
+    "formulated"
+   ],
+   [
+    "come to do",
+    "came to realize"
+   ],
+   [
+    "unlock",
+    "unlocked"
+   ],
+   [
+    "raise the stakes",
+    "raised the stakes"
+   ],
+   [
+    "validate",
+    "validated"
+   ],
+   [
+    "come crashing down",
+    "come crashing down"
+   ]
+  ],
+  "8": [
+   [
+    "outpace",
+    "outpace"
+   ],
+   [
+    "leave sb in awe",
+    "leave me in awe"
+   ]
+  ],
+  "9": [
+   [
+    "pick through",
+    "pick through"
+   ],
+   [
+    "certificate",
+    "certificate"
+   ],
+   [
+    "travesty",
+    "travesty"
+   ],
+   [
+    "slop",
+    "slop"
+   ],
+   [
+    "allude to",
+    "alluding to"
+   ]
+  ],
+  "10": [
+   [
+    "grief",
+    "grief"
+   ],
+   [
+    "vacuum up",
+    "vacuum up"
+   ],
+   [
+    "treasured",
+    "treasured"
+   ],
+   [
+    "have nothing to do with",
+    "had nothing to do with"
+   ],
+   [
+    "foray",
+    "foray"
+   ],
+   [
+    "horrible",
+    "horrible"
+   ]
+  ]
+ },
+ "mindmap": {
+  "template": "scripts/content/2026-11-21.json",
+  "aria": "",
+  "alt": "",
+  "repl": []
+ },
+ "headline_marks": [
+  [
+   "claim",
+   "claims"
+  ]
+ ],
+ "paragraph_overrides": {
+  "10": "But he also alluded to the strange grief that many mathematicians have felt watching AI vacuum up their most treasured problems. He said the timing of the release of the solution, which he said he produced Sunday, had nothing to do with Anthropic’s record-breaking foray into the stock market. “The precise timing is horrible. If I could have, I’d have finished this all much earlier,” he wrote. “Hell, strictly before this age would have sure been nice.”"
+ }
 }
