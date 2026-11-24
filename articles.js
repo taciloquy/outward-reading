@@ -1,11 +1,18 @@
 // ===== 文章数据库（独立静态资源；正文全文见 search-index.js） =====
     const ARTICLES = [
       {
-        title: "Jensen Huang returns. But Nvidia will never be the same",
+        title: "Nvidia reinstates Jensen Huang as CEO amid pressure from President Trump, investors",
         publishDate: "2026-11-25",
         fileKey: "2026-11-25_001",
         readingPath: "/outward-reading/articles/2026/11/2026-11-25_001.reading.html",
-        source: "Economist"
+        source: "The Guardian"
+      },
+      {
+        title: "The Garbage Man: Bill Gates has earned billions investing in climate-polluting landfills",
+        publishDate: "2026-11-25",
+        fileKey: "2026-11-25_002",
+        readingPath: "/outward-reading/articles/2026/11/2026-11-25_002.reading.html",
+        source: "CNN"
       },
       {
         title: "The Garbage Man: Bill Gates has earned billions investing in climate-polluting landfills",

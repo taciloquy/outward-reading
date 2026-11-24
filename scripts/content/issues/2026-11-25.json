@@ -1,13 +1,130 @@
 {
  "date": "2026-11-25",
- "title_tag": "Jensen Huang returns. But Nvidia will never be the same —— 英国《经济学人》外刊讲解第1239天",
- "h1": "Jensen Huang returns. But Nvidia will never be the same",
- "source_label": "经济学人",
- "category": "英国《经济学人》外刊讲解 第1239天",
- "read_minutes": 9,
- "nav_hint": "黄仁勋回归：国会、员工与盟友的三重考验",
- "headline_en": "He now faces a hostile Congress, rattled employees and wary business partners",
- "headline_zh": "",
- "sources_note": "依据《经济学人》2026-11-25 报道。",
- "marks": {}
+ "title_tag": "Nvidia reinstates Jensen Huang as CEO amid pressure from President Trump, investors —— 英国《卫报》外刊讲解第1238天",
+ "h1": "Nvidia reinstates Jensen Huang as CEO amid pressure from President Trump, investors",
+ "source_label": "卫报",
+ "category": "英国《卫报》外刊讲解 第1238天",
+ "read_minutes": 11,
+ "nav_hint": "黄仁勋回归英伟达：特朗普施压、董事会逆转与未散的阴影",
+ "headline_en": "Nvidia reinstates Jensen Huang as CEO amid pressure from President Trump, investors",
+ "headline_zh": "在特朗普总统与投资者的压力下，英伟达恢复黄仁勋首席执行官职务",
+ "sources_note": "依据《卫报》2026-11-24 报道（转引路透社）。",
+ "marks": {
+  "1": [
+   [
+    "reversal",
+    "reversal"
+   ],
+   [
+    "extramarital",
+    "extramarital"
+   ],
+   [
+    "soar",
+    "soaring"
+   ],
+   [
+    "carry on phr.",
+    "carried on"
+   ],
+   [
+    "underway",
+    "underway"
+   ],
+   [
+    "smuggling",
+    "smuggling"
+   ]
+  ],
+  "2": [
+   [
+    "urge",
+    "urged"
+   ],
+   [
+    "rule out phr.",
+    "ruled out"
+   ],
+   [
+    "pose",
+    "posed"
+   ],
+   [
+    "nevertheless",
+    "nevertheless"
+   ],
+   [
+    "compliance",
+    "compliance"
+   ],
+   [
+    "obligation",
+    "obligations"
+   ]
+  ],
+  "3": [
+   [
+    "rehire",
+    "rehire"
+   ],
+   [
+    "processor",
+    "processors"
+   ],
+   [
+    "roadmap",
+    "roadmap"
+   ],
+   [
+    "ties",
+    "ties"
+   ]
+  ],
+  "5": [
+   [
+    "departure",
+    "departure"
+   ],
+   [
+    "reverberate",
+    "reverberated"
+   ],
+   [
+    "petition",
+    "petition"
+   ],
+   [
+    "underscore",
+    "underscoring"
+   ],
+   [
+    "step down phr.",
+    "stepped down"
+   ],
+   [
+    "highlight",
+    "highlights"
+   ]
+  ],
+  "11": [
+   [
+    "scandal",
+    "scandal"
+   ],
+   [
+    "at the heart of",
+    "at the heart of"
+   ],
+   [
+    "be in touch with",
+    "in touch with"
+   ]
+  ]
+ },
+ "mindmap": {
+  "template": "scripts/content/2026-11-21.json",
+  "aria": "",
+  "alt": "",
+  "repl": []
+ }
 }

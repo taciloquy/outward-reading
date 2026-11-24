@@ -1,76 +1,512 @@
 {
  "date": "2026-11-25",
- "title_tag": "Jensen Huang returns. But Nvidia will never be the same —— 英国《经济学人》外刊讲解第1239天",
- "h1": "Jensen Huang returns. But Nvidia will never be the same",
- "source_label": "经济学人",
- "category": "英国《经济学人》外刊讲解 第1239天",
- "read_minutes": 9,
- "nav_hint": "黄仁勋回归：国会、员工与盟友的三重考验",
- "audio": false,
+ "title_tag": "Nvidia reinstates Jensen Huang as CEO amid pressure from President Trump, investors —— 英国《卫报》外刊讲解第1238天",
+ "h1": "Nvidia reinstates Jensen Huang as CEO amid pressure from President Trump, investors",
+ "source_label": "卫报",
+ "category": "英国《卫报》外刊讲解 第1238天",
+ "read_minutes": 11,
+ "nav_hint": "黄仁勋回归英伟达：特朗普施压、董事会逆转与未散的阴影",
  "headline": {
-  "en_html": "He now faces a hostile Congress, rattled employees and wary business partners",
-  "zh": "",
-  "notes": []
+  "en_html": "Nvidia <mark class=\"voc\">reinstates</mark> Jensen Huang as CEO <mark class=\"voc\">amid</mark> pressure from President Trump, investors",
+  "zh": "在特朗普总统与投资者的压力下，英伟达恢复黄仁勋首席执行官职务",
+  "notes": [
+   {
+    "w": "reinstate",
+    "ipa": "/ˌriːɪnˈsteɪt/",
+    "pos": "v.",
+    "en": "To give someone back a job or position that they previously lost.",
+    "zh": "恢复（职位、职务或身份）；使复职。",
+    "ctx": "指英伟达重新任命黄仁勋担任首席执行官。",
+    "ex1": "The company decided to reinstate the manager after reviewing the case. 公司在重新审查此事后决定恢复这位经理的职务。",
+    "ex2": "The university agreed to reinstate the professor following an investigation. 大学同意在调查结束后恢复这位教授的职位。"
+   },
+   {
+    "w": "amid",
+    "ipa": "/əˈmɪd/",
+    "pos": "prep.",
+    "en": "In the middle of or during a particular situation or event.",
+    "zh": "在……之中；在……背景下。",
+    "ctx": "表示黄仁勋的复职发生在特朗普总统和投资者施压的背景下。",
+    "ex1": "The company announced major changes amid growing public criticism. 面对日益强烈的公众批评，公司宣布了重大改革。",
+    "ex2": "The president delivered a speech amid rising economic uncertainty. 总统在经济不确定性不断加剧之际发表了讲话。"
+   }
+  ]
  },
  "paragraphs": [
   {
-   "en_html": "Comebacks are nothing new in Silicon Valley. Three years ago, almost to the week, the board of OpenAI, a model-maker, sacked Sam Altman, its boss, only to reinstate him four days later. Even so, Jensen Huang’s return is extraordinary. On November 23rd the board of Nvidia reinstated Mr Huang, its co-founder, as chief executive, just 12 days after he resigned over a series of affairs, including one with a suspected Chinese agent.",
-   "zh": "",
-   "notes": []
+   "en_html": "Nov 23 (Reuters) - Nvidia on Monday said on Monday it was reinstating Jensen Huang as CEO, effective immediately, an extraordinary <mark class=\"voc\">reversal</mark> that followed calls from US President Donald Trump for his return after Huang resigned over revelations of <mark class=\"voc\">extramarital</mark> affairs, including one with an alleged Chinese spy. The reversal, which sent shares <mark class=\"voc\">soaring</mark> 33%, came after the board said it saw no national security risk in the return of Huang, who had also allegedly <mark class=\"voc\">carried on</mark> affairs with at least two Nvidia employees. Multiple investigations of the company are <mark class=\"voc\">underway</mark>, including by the US SEC and the Department of Justice, related to everything from potential accounting issues to alleged chip <mark class=\"voc\">smuggling</mark>.",
+   "zh": "11月23日（路透社）——英伟达周一宣布，将恢复黄仁勋的首席执行官职务，立即生效。这一不同寻常的决定逆转发生在美国总统唐纳德·特朗普呼吁黄仁勋回归之后。此前，黄仁勋因婚外情被曝光而辞职，其中包括一段据称与一名涉嫌为中国从事间谍活动的女子之间的关系。这一决定使英伟达股价飙升33%。此前，董事会表示，黄仁勋的回归不会构成国家安全风险。据称，黄仁勋还曾与至少两名英伟达员工发生婚外情。目前，英伟达正面临多项调查，包括美国证券交易委员会和司法部开展的调查，涉及的问题从潜在的会计问题到涉嫌芯片走私等多个方面。",
+   "notes": [
+    {
+     "w": "reversal",
+     "ipa": "/rɪˈvɜːsəl/",
+     "pos": "n.",
+     "en": "A change to the opposite of a previous decision, situation, or direction.",
+     "zh": "逆转；彻底改变；撤销原有决定。",
+     "ctx": "指英伟达董事会改变此前的立场，重新任命黄仁勋。",
+     "ex1": "The government's sudden reversal shocked political observers. 政府突然改变立场，令政治观察人士感到震惊。",
+     "ex2": "The court's decision marked a dramatic reversal of the earlier ruling. 法院的决定标志着此前裁决发生了戏剧性逆转。"
+    },
+    {
+     "w": "extramarital",
+     "ipa": "/ˌekstrəˈmærɪtəl/",
+     "pos": "adj.",
+     "en": "Relating to a romantic or sexual relationship outside marriage.",
+     "zh": "婚外的；婚姻之外的。",
+     "ctx": "extramarital affairs 指婚外情。",
+     "ex1": "The politician admitted to an extramarital relationship during the interview. 这位政治人物在采访中承认了一段婚外关系。",
+     "ex2": "Reports of an extramarital affair damaged the actor's public image. 有关婚外情的报道损害了这位演员的公众形象。"
+    },
+    {
+     "w": "soar",
+     "ipa": "/sɔːr/",
+     "pos": "v.",
+     "en": "To increase very quickly to a high level.",
+     "zh": "猛增；飙升；急剧上涨。",
+     "ctx": "指英伟达股价因黄仁勋复职的消息而大幅上涨。",
+     "ex1": "The company's shares soared after it announced record profits. 公司宣布创纪录的利润后，股价大幅上涨。",
+     "ex2": "Housing prices have soared in many major cities over the past decade. 过去十年，许多大城市的房价急剧上涨。"
+    },
+    {
+     "w": "carry on phr.",
+     "ipa": "/ˈkæri ɒn/",
+     "pos": "v.",
+     "en": "To continue doing something or to engage in an activity.",
+     "zh": "继续进行；从事；开展。",
+     "ctx": "carry on affairs 指与他人保持婚外情关系。",
+     "ex1": "Despite the difficulties, the researchers carried on with their work. 尽管困难重重，研究人员仍继续开展工作。",
+     "ex2": "He secretly carried on a relationship for several years. 他秘密维持了一段长达数年的感情关系。"
+    },
+    {
+     "w": "underway",
+     "ipa": "/ˌʌndəˈweɪ/",
+     "pos": "adj.",
+     "en": "Having started and currently in progress.",
+     "zh": "正在进行中的；已经开始的。",
+     "ctx": "表示针对英伟达的多项调查已经启动，目前仍在进行。",
+     "ex1": "An independent investigation is already underway. 一项独立调查已经展开。",
+     "ex2": "Preparations for the international conference are well underway. 国际会议的筹备工作正在顺利进行。"
+    },
+    {
+     "w": "smuggling",
+     "ipa": "/ˈsmʌɡlɪŋ/",
+     "pos": "n.",
+     "en": "The illegal act of secretly taking goods or people into or out of a country.",
+     "zh": "走私；非法秘密运输。",
+     "ctx": "chip smuggling 指涉嫌违反相关法律或出口管制规定的芯片走私行为。",
+     "ex1": "The authorities launched an investigation into the smuggling of electronic devices. 当局对电子设备走私展开了调查。",
+     "ex2": "The government introduced stricter border controls to prevent smuggling. 政府实施了更严格的边境管制措施，以防止走私活动。"
+    }
+   ]
   },
   {
-   "en_html": "The board, which on November 17th said it had no intention of giving Mr Huang his job back, declared that, after all, it was satisfied with his “candour”, even though its own investigation has not yet finished. In the days after Mr Huang quit, Nvidia lost over $1trn in market value. Since the announcement of his return its share price has surged by a third.",
-   "zh": "",
-   "notes": []
+   "en_html": "Trump, who last week <mark class=\"voc\">urged</mark> Nvidia to bring Huang back after its board <mark class=\"voc\">ruled out</mark> his return, praised the reversal on Monday as the \"correct and proper decision.\" In a post on Truth Social, Trump said the US government had no reason to believe Huang's return <mark class=\"voc\">posed</mark> a national security risk and had no evidence he had engaged in unlawful conduct. He <mark class=\"voc\">nevertheless</mark> urged Nvidia to continue investigating the company's <mark class=\"voc\">compliance</mark> with US export controls to ensure it was meeting its <mark class=\"voc\">obligations</mark> to protect national security.",
+   "zh": "上周，在英伟达董事会排除黄仁勋回归的可能性之后，特朗普曾敦促英伟达让黄仁勋重新担任首席执行官。周一，特朗普称赞这一立场逆转是“正确且恰当的决定”。特朗普在TruthSocial（真实社交）平台上发文表示，美国政府没有理由认为黄仁勋的回归会构成国家安全风险，也没有证据表明他曾从事任何违法行为。尽管如此，特朗普仍敦促英伟达继续调查公司遵守美国出口管制规定的情况，以确保公司履行保护国家安全的义务。",
+   "notes": [
+    {
+     "w": "urge",
+     "ipa": "/ɜːdʒ/",
+     "pos": "v.",
+     "en": "To strongly advise or encourage someone to do something.",
+     "zh": "敦促；力劝；强烈要求。",
+     "ctx": "指特朗普强烈敦促英伟达董事会让黄仁勋重新担任首席执行官。",
+     "ex1": "The president urged lawmakers to approve the new economic plan. 总统敦促立法者批准新的经济计划。",
+     "ex2": "Environmental groups urged the government to take immediate action. 环保组织敦促政府立即采取行动。"
+    },
+    {
+     "w": "rule out phr.",
+     "ipa": "/ˌruːl ˈaʊt/",
+     "pos": "v.",
+     "en": "To decide that something is impossible or will not happen.",
+     "zh": "排除……的可能性；否决；不予考虑。",
+     "ctx": "指英伟达董事会此前明确排除了黄仁勋重新担任首席执行官的可能性。",
+     "ex1": "The company has ruled out the possibility of selling its overseas business. 公司已经排除了出售海外业务的可能性。",
+     "ex2": "The doctors could not rule out a serious infection. 医生无法排除严重感染的可能性。"
+    },
+    {
+     "w": "pose",
+     "ipa": "/pəʊz/",
+     "pos": "v.",
+     "en": "To cause or present a problem, danger, or difficulty.",
+     "zh": "造成；构成；引起。",
+     "ctx": "pose a national security risk 表示对国家安全构成风险。",
+     "ex1": "The rapid development of artificial intelligence may pose new challenges to society. 人工智能的快速发展可能给社会带来新的挑战。",
+     "ex2": "The security experts warned that the software could pose a serious risk to users. 安全专家警告称，这款软件可能对用户构成严重风险。"
+    },
+    {
+     "w": "nevertheless",
+     "ipa": "/ˌnevəðəˈles/",
+     "pos": "adv.",
+     "en": "Despite what has just been said or done.",
+     "zh": "然而；尽管如此；不过。",
+     "ctx": "表示虽然特朗普支持黄仁勋回归，但仍要求英伟达继续接受相关调查。",
+     "ex1": "The project faced serious financial difficulties; nevertheless, the team managed to complete it. 这个项目面临严重的资金困难，尽管如此，团队还是设法完成了它。",
+     "ex2": "The company reported strong profits; nevertheless, investors remained cautious. 公司公布了强劲的利润，但投资者仍然保持谨慎。"
+    },
+    {
+     "w": "compliance",
+     "ipa": "/kəmˈplaɪəns/",
+     "pos": "n.",
+     "en": "The act of obeying a law, rule, or official requirement.",
+     "zh": "遵守；合规；服从规定。",
+     "ctx": "指英伟达遵守美国出口管制法律及相关规定的情况。",
+     "ex1": "The bank introduced new measures to ensure compliance with financial regulations. 银行推出了新措施，以确保遵守金融监管规定。",
+     "ex2": "The company hired additional lawyers to improve its compliance with international trade laws. 公司聘请了更多律师，以加强对国际贸易法律的合规管理。"
+    },
+    {
+     "w": "obligation",
+     "ipa": "/ˌɒblɪˈɡeɪʃən/",
+     "pos": "n.",
+     "en": "A legal or moral duty to do something.",
+     "zh": "义务；责任；职责。",
+     "ctx": "指英伟达在保护国家安全方面必须履行的法律和监管义务。",
+     "ex1": "Every business has an obligation to protect its customers' personal information. 每家企业都有义务保护客户的个人信息。",
+     "ex2": "The company failed to meet its legal obligations under the agreement. 该公司未能履行协议规定的法律义务。"
+    }
+   ]
   },
   {
-   "en_html": "Investors’ relief may not last, however. Mr Huang is back at the helm, but he returns under very different circumstances. Nvidia faces a government newly keen on tougher export controls and a Congress soon to be full of artificial-intelligence sceptics. Mr Huang, long the AI industry’s chief showman, must also now win back the trust of staff, customers and suppliers.",
-   "zh": "",
-   "notes": []
+   "en_html": "Nvidia Chairman Harvey Jones had said last week that the company would not <mark class=\"voc\">rehire</mark> Huang despite a growing campaign for his return. Huang resigned on November 12 following revelations of extramarital affairs, including one with a businesswoman whom US authori<mark class=\"voc\">ties</mark> suspect of spying for China, an allegation Beijing denies. Huang built Nvidia from a video-game chip designer into the dominant supplier of artificial-intelligence <mark class=\"voc\">processors</mark>, playing a central role in its chip <mark class=\"voc\">roadmap</mark>, major customer relationships and ties with Washington.",
+   "zh": "英伟达董事长哈维·琼斯上周曾表示，尽管要求黄仁勋回归的呼声日益高涨，公司仍不会重新聘用他。11月12日，在婚外情被曝光后，黄仁勋辞去了职务，其中一段婚外情涉及一名被美国当局怀疑为中国从事间谍活动的女商人，而北京方面否认了这一指控。黄仁勋将英伟达从一家电子游戏芯片设计公司发展成为人工智能处理器领域的主导供应商，在公司的芯片发展路线图、重要客户关系以及与华盛顿的联系方面发挥了核心作用。",
+   "notes": [
+    {
+     "w": "rehire",
+     "ipa": "/ˌriːˈhaɪər/",
+     "pos": "v.",
+     "en": "To employ someone again after they have left a job or been dismissed.",
+     "zh": "重新雇用；重新聘用。",
+     "ctx": "指英伟达董事会此前表示不会重新聘用已经辞职的黄仁勋。",
+     "ex1": "The company decided to rehire several experienced workers after business improved. 业务好转后，公司决定重新聘用几名经验丰富的员工。",
+     "ex2": "The board refused to rehire the former executive despite pressure from investors. 尽管投资者施加压力，董事会仍拒绝重新聘用这名前高管。"
+    },
+    {
+     "w": "ties",
+     "ipa": "/taɪz/",
+     "pos": "n.",
+     "en": "Connections or relationships between people, organizations, or countries.",
+     "zh": "联系；关系；纽带。",
+     "ctx": "ties with Washington 指黄仁勋与美国政府及华盛顿政治决策圈之间建立的联系。",
+     "ex1": "The company has developed close ties with government officials over the years. 多年来，这家公司与政府官员建立了密切联系。",
+     "ex2": "Strong ties between universities and technology companies can encourage innovation. 大学与科技公司之间的紧密联系能够促进创新。"
+    },
+    {
+     "w": "processor",
+     "ipa": "/ˈprəʊsesər/",
+     "pos": "n.",
+     "en": "An electronic component that performs calculations and processes data in a computer.",
+     "zh": "处理器；计算机中央处理部件。",
+     "ctx": "artificial-intelligence processors 指用于人工智能计算和数据处理的芯片。",
+     "ex1": "Modern artificial-intelligence processors can handle enormous amounts of data. 现代人工智能处理器能够处理海量数据。",
+     "ex2": "The company is developing a new processor designed for complex computing tasks. 该公司正在开发一款专门用于复杂计算任务的新型处理器。"
+    },
+    {
+     "w": "roadmap",
+     "ipa": "/ˈrəʊdmæp/",
+     "pos": "n.",
+     "en": "A detailed plan showing how something will be developed or achieved over time.",
+     "zh": "路线图；发展规划；实施计划。",
+     "ctx": "chip roadmap 指英伟达未来芯片产品的研发方向、技术升级及发布规划。",
+     "ex1": "The technology company announced a five-year roadmap for developing advanced chips. 这家科技公司公布了一项为期五年的先进芯片研发路线图。",
+     "ex2": "The new CEO introduced a strategic roadmap for the company's international expansion. 新任首席执行官提出了公司国际扩张的战略路线图。"
+    }
+   ]
   },
   {
-   "en_html": "Mr Huang’s first test will be on December 1st when he faces a grilling before Congress. The board has said it is confident that Mr Huang’s “reinstatement poses no national-security risk”. But questions remain about his relationship with Alice Huang, a Chinese national and former executive at Megaspeed, a Singaporean data-centre developer that bought Nvidia’s chips. These will not disappear. Democrats have promised investigations of their own when they take control of both houses of Congress next year.",
-   "zh": "",
-   "notes": []
+   "en_html": "Nvidia said its board voted <mark class=\"voc\">unanimously</mark> on Monday to reinstate Huang after concluding that it was satisfied with his <mark class=\"voc\">candor</mark> and leadership ability. The board said that, after receiving <mark class=\"voc\">input</mark> from senior US government officials, it saw no national security risk from his return. The board has also formed a committee to investigate whether foreign intelligence efforts targeted Huang and is also starting a search to name a new chief compliance officer. The company said Colette Kress would continue as chief financial officer.",
+   "zh": "英伟达表示，董事会在认定黄仁勋的坦诚程度和领导能力令人满意后，于周一一致投票决定恢复他的职务。董事会表示，在听取美国政府高级官员的意见后，认为黄仁勋的回归不会构成国家安全风险。董事会还成立了一个委员会，以调查黄仁勋是否曾成为外国情报活动的目标，同时也开始物色一位新的首席合规官。公司表示，科莱特·克雷斯将继续担任首席财务官。",
+   "notes": [
+    {
+     "w": "unanimously",
+     "ipa": "/juːˈnænɪməsli/",
+     "pos": "adv.",
+     "en": "With everyone involved agreeing or voting in the same way.",
+     "zh": "一致地；全体同意地；无异议地。",
+     "ctx": "指英伟达董事会所有参与投票的成员一致同意恢复黄仁勋的首席执行官职务。",
+     "ex1": "The board unanimously approved the company's new investment strategy. 董事会一致批准了公司的新投资战略。",
+     "ex2": "The committee voted unanimously to appoint a new director. 委员会一致投票决定任命一位新董事。"
+    },
+    {
+     "w": "candor",
+     "ipa": "/ˈkændər/",
+     "pos": "n.",
+     "en": "The quality of being honest and direct when speaking about something.",
+     "zh": "坦诚；直率；坦白。",
+     "ctx": "指董事会对黄仁勋在沟通及说明相关情况时所表现出的坦诚程度作出的评价。",
+     "ex1": "The chairman appreciated the executive's candor during the difficult discussion. 董事长赞赏这名高管在艰难讨论中表现出的坦诚。",
+     "ex2": "Her candor about the company's problems helped rebuild trust among employees. 她坦诚谈论公司的问题，有助于重建员工之间的信任。"
+    },
+    {
+     "w": "input",
+     "ipa": "/ˈɪnpʊt/",
+     "pos": "n.",
+     "en": "Advice, information, or ideas provided to help make a decision.",
+     "zh": "意见；建议；提供的信息。",
+     "ctx": "指美国政府高级官员就黄仁勋回归及相关国家安全问题向英伟达董事会提供的意见。",
+     "ex1": "The board sought input from legal experts before making its final decision. 董事会在作出最终决定前征求了法律专家的意见。",
+     "ex2": "Employee input played an important role in shaping the company's new policies. 员工的意见在制定公司新政策的过程中发挥了重要作用。"
+    }
+   ]
   },
   {
-   "en_html": "Even Mr Trump’s administration seems divided. The president said he wanted Mr Huang back, and reportedly dialled into a board meeting to make the case. Others in his cabinet have been cooler. On November 15th Scott Bessent, the treasury secretary, called for a “dramatic shakeup” at Nvidia and an outside chief executive, though a week later he changed tack, suggesting bizarrely that Mr Huang, having resigned, was now an outsider himself. Marco Rubio, the secretary of state, is no fan either. It was he who oversaw the intelligence memo about Mr Huang’s ties to Alice Huang that prompted the chief executive’s downfall.",
-   "zh": "",
-   "notes": []
+   "en_html": "Huang's <mark class=\"voc\">departure</mark> <mark class=\"voc\">reverberated</mark> from Silicon Valley to Taipei and Washington. A <mark class=\"voc\">petition</mark> calling for his reinstatement drew more than 180,000 signatures, including one from Elon Musk, <mark class=\"voc\">underscoring</mark> the unusually strong support for an executive who <mark class=\"voc\">stepped down</mark> amid controversy. The reversal <mark class=\"voc\">highlights</mark> Huang's deep influence over Nvidia and raises broader questions about how dependent one of the world's most valuable companies remains on its co-founder.",
+   "zh": "黄仁勋的离职在从硅谷到台北再到华盛顿的各界引发了强烈反响。一份呼吁恢复他职务的请愿书获得了超过18万个签名，其中包括埃隆·马斯克的签名。这凸显出一位在争议中辞职的高管竟然获得了不同寻常的强大支持。这一决定的逆转不仅凸显了黄仁勋对英伟达的深远影响力，也引发了一个更广泛的问题：作为全球市值最高的公司之一，英伟达究竟在多大程度上仍然依赖其联合创始人？",
+   "notes": [
+    {
+     "w": "departure",
+     "ipa": "/dɪˈpɑːtʃər/",
+     "pos": "n.",
+     "en": "The act of leaving a place, job, or organization.",
+     "zh": "离开；离职；辞职。",
+     "ctx": "指黄仁勋辞去英伟达首席执行官职务。",
+     "ex1": "The sudden departure of the CEO shocked investors around the world. 首席执行官的突然离职震惊了全球投资者。",
+     "ex2": "Her departure from the company marked the end of an important era. 她的离职标志着公司一个重要时代的结束。"
+    },
+    {
+     "w": "reverberate",
+     "ipa": "/rɪˈvɜːbəreɪt/",
+     "pos": "v.",
+     "en": "To have a strong and continuing effect on people or situations, often across a wide area.",
+     "zh": "引起持续反响；产生深远影响；回荡。",
+     "ctx": "指黄仁勋离职的消息在硅谷、台北和华盛顿等科技及政治中心引发广泛而持续的影响。",
+     "ex1": "The company's unexpected decision reverberated throughout the global technology industry. 公司的意外决定在全球科技行业引发了强烈反响。",
+     "ex2": "The political scandal continued to reverberate across the country for months. 这场政治丑闻在数月内持续引发全国性的反响。"
+    },
+    {
+     "w": "petition",
+     "ipa": "/pəˈtɪʃən/",
+     "pos": "n.",
+     "en": "A formal written request signed by many people asking an authority to take action.",
+     "zh": "请愿书；请愿；正式请求。",
+     "ctx": "指支持者发起并签署的、要求英伟达恢复黄仁勋首席执行官职务的请愿书。",
+     "ex1": "Thousands of employees signed a petition demanding better working conditions. 数千名员工签署了一份要求改善工作条件的请愿书。",
+     "ex2": "The petition calling for the director's return attracted widespread public attention. 要求这位董事回归的请愿书引起了公众的广泛关注。"
+    },
+    {
+     "w": "underscore",
+     "ipa": "/ˌʌndəˈskɔːr/",
+     "pos": "v.",
+     "en": "To emphasize or show that something is especially important or true.",
+     "zh": "强调；凸显；突出表明。",
+     "ctx": "指超过18万人的请愿行动凸显了黄仁勋在争议之中仍然获得的强大支持。",
+     "ex1": "The company's success underscores the importance of long-term investment in research. 公司的成功凸显了长期科研投入的重要性。",
+     "ex2": "The public reaction underscored how deeply people cared about the issue. 公众的反应凸显了人们对这一问题的高度关注。"
+    },
+    {
+     "w": "step down phr.",
+     "ipa": "/ˌstep ˈdaʊn/",
+     "pos": "v.",
+     "en": "To leave an important job or official position, especially to allow someone else to take over.",
+     "zh": "辞职；退位；卸任。",
+     "ctx": "指黄仁勋在婚外情争议中辞去英伟达首席执行官职务。",
+     "ex1": "The chairman decided to step down after facing growing criticism from shareholders. 面对股东日益强烈的批评，董事长决定辞职。",
+     "ex2": "The minister announced that he would step down at the end of the month. 这位部长宣布将在月底卸任。"
+    },
+    {
+     "w": "highlight",
+     "ipa": "/ˈhaɪlaɪt/",
+     "pos": "v.",
+     "en": "To emphasize something or make people notice its importance.",
+     "zh": "突出；强调；凸显。",
+     "ctx": "指黄仁勋重新担任首席执行官的事件凸显了他对英伟达的重要影响力。",
+     "ex1": "The crisis highlighted the importance of strong leadership during uncertain times. 这场危机凸显了在不确定时期强大领导力的重要性。",
+     "ex2": "The report highlights several weaknesses in the company's management structure. 这份报告指出了公司管理结构中的几个突出弱点。"
+    }
+   ]
   },
   {
-   "en_html": "Mr Huang will also find it harder to make the case for a lenient approach to export controls. He has long argued that restricting sales to China only encourages its domestic chip industry. But five days after he resigned, the Commerce Department announced a rule intended to stop Chinese firms renting access to advanced AI chips in data centres abroad. Congress, meanwhile, is weighing bills that would tighten controls further.",
-   "zh": "",
-   "notes": []
+   "en_html": "Nvidia has reinstated Jensen Huang as chief executive in a <mark class=\"voc\">stunning</mark> reversal after his dramatic <mark class=\"voc\">resignation</mark> after reports of extramarital affairs including with an alleged Chinese spy. Nvidia shares surged on the news, jumping more than 25% as stock markets opened in New York on Monday, while Donald Trump, who had called for Huang’s return, said “the country needs Jensen’s leadership”.",
+   "zh": "在有关黄仁勋婚外情的报道曝光后，其中包括一段据称与一名涉嫌为中国从事间谍活动的女子之间的关系，黄仁勋戏剧性地辞去了职务。然而，英伟达如今又恢复了他的首席执行官职位，形成了一次令人震惊的逆转。消息公布后，英伟达股价大幅飙升，周一纽约股市开盘时涨幅超过25%。与此同时，此前一直呼吁黄仁勋回归的唐纳德·特朗普表示：“国家需要黄仁勋的领导力。”",
+   "notes": [
+    {
+     "w": "stunning",
+     "ipa": "/ˈstʌnɪŋ/",
+     "pos": "adj.",
+     "en": "Extremely surprising or shocking, often in a way that attracts great attention.",
+     "zh": "令人震惊的；惊人的；出人意料的。",
+     "ctx": "形容英伟达重新任命黄仁勋的决定极具戏剧性，令外界感到震惊。",
+     "ex1": "The company's stunning announcement surprised investors around the world. 公司令人震惊的公告让全球投资者感到意外。",
+     "ex2": "The election ended with a stunning victory for the young candidate. 这场选举以年轻候选人令人震惊的胜利告终。"
+    },
+    {
+     "w": "resignation",
+     "ipa": "/ˌrezɪɡˈneɪʃən/",
+     "pos": "n.",
+     "en": "The act of formally leaving a job or official position.",
+     "zh": "辞职；辞去职务；辞呈。",
+     "ctx": "指黄仁勋在婚外情相关报道曝光后辞去英伟达首席执行官职务。",
+     "ex1": "The unexpected resignation of the chairman created uncertainty among investors. 董事长的意外辞职让投资者感到不安。",
+     "ex2": "The minister announced his resignation following weeks of public criticism. 在经历数周的公众批评后，这位部长宣布辞职。"
+    }
+   ]
   },
   {
-   "en_html": "Nvidia’s returning boss must also deal with the internal fallout at the company from the damaging revelations of the past few weeks. Two of Mr Huang’s alleged affairs were with subordinates. On November 20th the New York Times published accounts from more than a dozen current and former employees who said he had long used public humiliation and violent threats to drive staff. (His spokesperson has disputed the claims.) Mr Huang was previously not shy about his methods; he once said he would be willing to “torture” employees “into greatness”.",
-   "zh": "",
-   "notes": []
+   "en_html": "The chipmaker’s move to bring Huang back marks a sharp reversal from its board’s decision days earlier to rule out his return. Trump said the US government had no “evidence that he has engaged in any unlawful <mark class=\"voc\">conduct</mark>”. In a statement, the company said its board directors had talked to Huang and were “satisfied <mark class=\"voc\">with respect to</mark> Mr Huang’s candor and ability to lead Nvidia”. Nvidia added that it had received input from “senior levels” of the US government and was confident his reinstatement “poses no national security risk”.",
+   "zh": "这家芯片制造商决定让黄仁勋回归，标志着其董事会的立场发生了急剧逆转。就在几天前，董事会还曾排除他重新担任首席执行官的可能性。特朗普表示，美国政府没有“证据表明他曾从事任何违法行为”。英伟达在一份声明中表示，公司董事会成员已经与黄仁勋进行了交谈，并且“对黄仁勋先生的坦诚程度以及领导英伟达的能力感到满意”。英伟达还补充称，公司已经听取了美国政府“高层人士”的意见，并确信黄仁勋复职“不会构成任何国家安全风险”。",
+   "notes": [
+    {
+     "w": "conduct",
+     "ipa": "/ˈkɒndʌkt/",
+     "pos": "n.",
+     "en": "The way a person behaves, especially in a particular situation or in relation to rules.",
+     "zh": "行为；举止；行事方式。",
+     "ctx": "unlawful conduct 指违反法律的行为，文中强调美国政府没有证据证明黄仁勋曾从事此类行为。",
+     "ex1": "The investigation focused on the conduct of several senior executives. 调查重点关注几名高级管理人员的行为。",
+     "ex2": "The organization has strict rules regarding professional conduct. 该组织对职业行为有严格规定。"
+    },
+    {
+     "w": "with respect to",
+     "ipa": "/wɪð rɪˈspekt tuː/",
+     "pos": "phr.",
+     "en": "Concerning or in relation to a particular subject or matter.",
+     "zh": "关于；就……而言；在……方面。",
+     "ctx": "with respect to Mr Huang’s candor and ability 表示董事会在黄仁勋的坦诚程度和领导能力方面感到满意。",
+     "ex1": "The board expressed confidence with respect to the company's long-term strategy. 董事会对公司的长期战略表示有信心。",
+     "ex2": "Several questions were raised with respect to the safety of the new technology. 关于这项新技术的安全性，人们提出了几个问题。"
+    }
+   ]
   },
   {
-   "en_html": "Some at Nvidia worry less about his temper than about the firm’s dependence on him. He has run the business with some 60 direct reports and no obvious successor. That a company worth trillions of dollars is held together by a single man “is absurd”, says one employee. Another wonders how Mr Huang will operate at a firm where his actions now face greater scrutiny. Before his reinstatement, the board had announced it would form a committee composed solely of independent directors to oversee national-security risks and compliance with trade rules.",
-   "zh": "",
-   "notes": []
+   "en_html": "Nvidia said an independent investigation into allegations that Huang was the target of a Chinese intelligence operation, which included having an affair with an alleged Chinese spy, is still <mark class=\"voc\">ongoing</mark> and “will proceed to conclusion.” Harvey Jones, the Nvidia chair, who was <mark class=\"voc\">appointed</mark> this month after Huang’s resignation on 12 November, said: “The board believes Jensen is the right person to lead Nvidia, and that his reinstatement is <mark class=\"voc\">in the best interests of</mark> our stockholders, employees, partners and customers.”",
+   "zh": "英伟达表示，针对黄仁勋涉嫌成为中国情报行动目标的相关指控，一项独立调查仍在进行中，其中涉及他与一名被指称为中国间谍的女子发生婚外情的情况。公司强调，这项调查“将继续进行，直至得出最终结论”。在黄仁勋于11月12日辞职后于本月获任命的英伟达董事长哈维·琼斯表示：“董事会认为，黄仁勋是领导英伟达的合适人选，他的复职最符合我们股东、员工、合作伙伴和客户的利益。”",
+   "notes": [
+    {
+     "w": "ongoing",
+     "ipa": "/ˈɒnˌɡəʊɪŋ/",
+     "pos": "adj.",
+     "en": "Continuing to happen or develop and not yet finished.",
+     "zh": "持续进行的；尚未结束的；仍在发展的。",
+     "ctx": "指针对相关情报活动指控的独立调查目前仍在进行，尚未得出最终结论。",
+     "ex1": "The ongoing investigation has attracted considerable public attention. 这项仍在进行的调查引起了公众的广泛关注。",
+     "ex2": "The company promised to provide updates on the ongoing review. 公司承诺提供有关正在进行的审查的最新进展。"
+    },
+    {
+     "w": "appoint",
+     "ipa": "/əˈpɔɪnt/",
+     "pos": "v.",
+     "en": "To officially choose someone for a job or position of responsibility.",
+     "zh": "任命；委派；指定。",
+     "ctx": "指哈维·琼斯在黄仁勋于11月12日辞职后，于当月被任命为英伟达董事长。",
+     "ex1": "The board appointed a new chairman following the former leader's resignation. 前任领导人辞职后，董事会任命了一位新董事长。",
+     "ex2": "The company appointed an experienced executive to oversee its international business. 公司任命了一位经验丰富的高管来监督国际业务。"
+    },
+    {
+     "w": "in the best interests of",
+     "ipa": "/ɪn ðə best ˈɪntrəsts əv/",
+     "pos": "phr.",
+     "en": "Most beneficial or advantageous for a particular person, group, or organization.",
+     "zh": "最符合……的利益；对……最有利。",
+     "ctx": "指董事会认为恢复黄仁勋的职务最有利于英伟达股东、员工、合作伙伴和客户的整体利益。",
+     "ex1": "The board believed that the merger was in the best interests of the company's shareholders. 董事会认为这次合并最符合公司股东的利益。",
+     "ex2": "The decision was made in the best interests of employees and customers. 这一决定是从最有利于员工和客户的角度作出的。"
+    }
+   ]
   },
   {
-   "en_html": "Then there is the question of whether Mr Huang will be able to regain his role as the orchestrator of the AI boom. Not long ago, his blessing alone could send a company’s shares soaring. He toured the world, sharing stages with presidents and prime ministers, preaching the gospel of AI. Customers and suppliers alike queued to do business with him.",
-   "zh": "",
-   "notes": []
+   "en_html": "Huang built Nvidia from a video-game chip designer into the dominant supplier of AI processors, <mark class=\"voc\">steering</mark> its roadmap, customer deals and Washington ties along the way. He resigned after revelations of extramarital affairs, including one with a businesswoman whom US authorities suspect of spying for China, an allegation Beijing denies.",
+   "zh": "黄仁勋将英伟达从一家电子游戏芯片设计公司发展成为人工智能处理器领域占据主导地位的供应商。在这一过程中，他始终主导着公司的发展路线图、客户交易以及与华盛顿的关系。在婚外情被曝光后，他辞去了职务，其中一段婚外情涉及一名被美国当局怀疑为中国从事间谍活动的女商人，而北京方面否认了这一指控。",
+   "notes": [
+    {
+     "w": "steer",
+     "ipa": "/stɪər/",
+     "pos": "v.",
+     "en": "To control or guide the direction or development of something.",
+     "zh": "引导；掌控；指导……的发展方向。",
+     "ctx": "指黄仁勋在英伟达的发展过程中主导公司的技术路线、客户交易及与美国政府的关系。",
+     "ex1": "The founder helped steer the company through several periods of economic uncertainty. 创始人帮助公司度过了几个经济不确定的时期。",
+     "ex2": "The new CEO is expected to steer the business toward long-term growth. 人们期待新任首席执行官带领企业实现长期增长。"
+    }
+   ]
   },
   {
-   "en_html": "His star is almost certain to have dimmed. Politicians who once courted Mr Huang are likely to keep their distance until the investigations into him are over. The industry may hedge its bets. TSMC, a Taiwanese chip giant whose biggest customer is Nvidia, will be more wary of depending so heavily on a single client, reckons one analyst. Cloud providers that shunned Nvidia’s rivals, for fear of being cut off from Mr Huang’s chips, may be readier to shop around. And not all investors are reassured. Stacy Rasgon of Bernstein, a broker, noted that Mr Huang’s tendency to keep “questionable company” and “willingness to lie to the board” remain troubling. Nvidia’s rockstar boss has his job back. His mystique will be harder to recover.",
-   "zh": "",
-   "notes": []
+   "en_html": "Trump had called for Huang’s reinstatement <mark class=\"voc\">overnight</mark>, posting on Truth Social: “I hope the Board of Nvidia rehires Jensen Huang. It would be the best thing for the Company, and also, for the U.S.A. President DONALD J. TRUMP.” Trump said the US government had no reason to believe Huang’s return posed a risk to national security, adding that the <mark class=\"voc\">attorney general</mark>, Todd Blanche, had “confirmed that the US government does not possess evidence that he has engaged in any unlawful conduct”. He praised Nvidia’s board for making “the correct and proper decision” and said: “The Country needs Jensen’s leadership at NVIDIA in order to ensure the Success and <mark class=\"voc\">Prosperity</mark> of not only the Company, but the American Economy.”",
+   "zh": "此前一夜，特朗普曾在“真实社交”（TruthSocial）平台上发文，呼吁恢复黄仁勋的职务：“我希望英伟达董事会重新聘用黄仁勋。这将是对公司最有利的事情，同时也最符合美国的利益。——唐纳德·J·特朗普总统。”特朗普表示，美国政府没有理由认为黄仁勋的回归会对国家安全构成风险。他还补充称，司法部长托德·布兰奇已经“确认美国政府并未掌握任何证据，表明他曾从事违法行为”。特朗普称赞英伟达董事会作出了“正确且恰当的决定”，并表示：“国家需要黄仁勋在英伟达发挥领导作用，以确保不仅是这家公司的成功与繁荣，也是整个美国经济的成功与繁荣。”",
+   "notes": [
+    {
+     "w": "overnight",
+     "ipa": "/ˌəʊvəˈnaɪt/",
+     "pos": "adv.",
+     "en": "During the night or in the period between one day and the next.",
+     "zh": "在夜间；一夜之间；突然。",
+     "ctx": "指特朗普在英伟达宣布恢复黄仁勋职务之前的夜间公开呼吁其回归。",
+     "ex1": "The president issued a statement overnight calling for immediate action. 总统在夜间发表声明，呼吁立即采取行动。",
+     "ex2": "The company's shares rose sharply overnight following the announcement. 公告发布后，这家公司的股价在一夜之间大幅上涨。"
+    },
+    {
+     "w": "attorney general",
+     "ipa": "/əˌtɜːni ˈdʒenərəl/",
+     "pos": "n.",
+     "en": "The chief legal officer of a government, responsible for overseeing legal affairs and law enforcement.",
+     "zh": "司法部长；首席法律官。",
+     "ctx": "指特朗普在发言中提到的美国司法部长托德·布兰奇。",
+     "ex1": "The attorney general announced a new investigation into financial misconduct. 司法部长宣布对财务不当行为展开新的调查。",
+     "ex2": "The president consulted the attorney general before making the announcement. 总统在发表声明前征询了司法部长的意见。"
+    },
+    {
+     "w": "prosperity",
+     "ipa": "/prɒˈsperəti/",
+     "pos": "n.",
+     "en": "The state of being successful, especially in financial or economic terms.",
+     "zh": "繁荣；兴旺；富裕。",
+     "ctx": "指特朗普所强调的英伟达公司以及整个美国经济的成功与繁荣。",
+     "ex1": "Technological innovation can contribute to long-term economic prosperity. 技术创新能够促进长期经济繁荣。",
+     "ex2": "The government introduced new measures to encourage business growth and national prosperity. 政府推出了新措施，以促进企业增长和国家繁荣。"
+    }
+   ]
+  },
+  {
+   "en_html": "It came hours after reports that Alice Huang, the Chinese businesswoman <mark class=\"voc\">at the heart of</mark> the <mark class=\"voc\">scandal</mark>, had been in contact with an official in China’s spy agency while she was having an affair with Huang. People with knowledge of US intelligence reports claimed she was <mark class=\"voc\">in touch with</mark> the Chinese official until this autumn, according to the New York Times.",
+   "zh": "就在这一消息公布的几个小时前，有报道称，处于这场丑闻核心的中国女商人爱丽丝·黄在与黄仁勋保持婚外情关系期间，曾与中国情报机构的一名官员保持联系。据《纽约时报》报道，知悉美国情报报告内容的人士声称，她与这名中国官员的联系一直持续到今年秋天。",
+   "notes": [
+    {
+     "w": "at the heart of",
+     "ipa": "/ət ðə ˈhɑːt əv/",
+     "pos": "phr.",
+     "en": "At the center of something or playing the most important role in a situation.",
+     "zh": "处于……的核心；位于……的中心；是……的关键。",
+     "ctx": "at the heart of the scandal 指爱丽丝·黄是这场婚外情及相关情报争议中的核心人物。",
+     "ex1": "The former executive was at the heart of the company's financial scandal. 这名前高管是公司财务丑闻的核心人物。",
+     "ex2": "A disagreement over leadership was at the heart of the organization's internal conflict. 围绕领导权的分歧是该组织内部冲突的核心。"
+    },
+    {
+     "w": "scandal",
+     "ipa": "/ˈskændəl/",
+     "pos": "n.",
+     "en": "An event or situation involving shocking or morally unacceptable behavior that causes public anger or criticism.",
+     "zh": "丑闻；丑事；引发公众愤怒或批评的事件。",
+     "ctx": "指围绕黄仁勋婚外情以及相关间谍指控所引发的争议事件。",
+     "ex1": "The political scandal damaged public confidence in the government. 这场政治丑闻损害了公众对政府的信任。",
+     "ex2": "The company struggled to rebuild its reputation after the scandal. 丑闻发生后，公司努力重建自身声誉。"
+    },
+    {
+     "w": "be in touch with",
+     "ipa": "/bi ɪn ˈtʌtʃ wɪð/",
+     "pos": "phr.",
+     "en": "To communicate or maintain contact with someone.",
+     "zh": "与……保持联系；与……有往来。",
+     "ctx": "指据消息人士声称，爱丽丝·黄直到今年秋天仍与那名中国官员保持联系。",
+     "ex1": "The former manager remained in touch with several employees after leaving the company. 这名前经理离职后仍与几名员工保持联系。",
+     "ex2": "The journalist had been in touch with the source for several months before publishing the report. 记者在发表报道之前已经与消息人士保持了数月的联系。"
+    }
+   ]
   }
  ],
  "proper": [],
- "sources_note": "依据《经济学人》2026-11-25 报道。",
- "practice": {},
+ "sources_note": "依据《卫报》2026-11-24 报道（转引路透社）。",
+ "practice": {
+  "intro": "",
+  "items": [],
+  "critical_en": "",
+  "critical_zh": "",
+  "answer": "",
+  "exercise_verbatim": "请根据今天学习的文章，用 80–100个英文单词复述文章内容。<br><br>1. Why did Jensen Huang resign as Nvidia's CEO?黄仁勋为什么辞去英伟达首席执行官的职务？<br>2. Why did Nvidia's board reverse its earlier decision?英伟达董事会为什么改变了此前的决定？<br>3. What role did Donald Trump and investors play in Huang's return?特朗普和投资者在黄仁勋回归的过程中发挥了什么作用？<br>4. How did the stock market react to Huang's reinstatement?股票市场对黄仁勋复职作出了怎样的反应？<br>5. What risks and challenges does Nvidia still face?英伟达目前仍然面临哪些风险和挑战？<br>When a company depends heavily on a powerful founder, should business success outweigh concerns about personal conduct?当一家公司高度依赖一位极具影响力的创始人时，商业上的成功是否应该凌驾于对其个人行为的担忧之上？",
+  "answer_verbatim": "参考答案<br><br>Jensen Huang resigned as Nvidia's CEO after reports of extramarital affairs, including one involving an alleged Chinese spy. Although the board initially ruled out his return, President Trump urged the company to reinstate him. A petition also attracted more than 180,000 signatures. In a dramatic reversal, the board unanimously approved his reinstatement, saying it was satisfied with his candor and leadership ability. Nvidia's shares soared following the announcement. However, several investigations are still ongoing, and the company continues to face questions about national security, compliance and its dependence on Huang.<br>在有关婚外情的报道曝光后，黄仁勋辞去了英伟达首席执行官的职务，其中一段婚外情涉及一名被指称为中国间谍的女子。尽管董事会最初排除了他回归的可能性，但特朗普总统敦促公司恢复他的职务。一份请愿书也获得了超过18万个签名。在一次戏剧性的立场逆转中，董事会一致批准了他的复职，并表示对他的坦诚程度和领导能力感到满意。消息公布后，英伟达股价大幅飙升。然而，多项调查仍在进行，公司依然面临有关国家安全、合规以及对黄仁勋个人依赖程度的问题。<br><br>I believe business success should not come at the cost of ethical responsibility. A talented founder can bring enormous value to a company, but no individual should be above its rules. If a company depends too heavily on one leader, it may face serious risks when that person makes mistakes. True corporate success requires not only strong leadership and financial growth, but also transparency, accountability and public trust.<br>我认为，商业上的成功不应该以牺牲道德责任为代价。一位才华出众的创始人能够为公司带来巨大的价值，但任何个人都不应该凌驾于公司的规则之上。如果一家公司过度依赖某一位领导者，那么当这个人犯错时，公司就可能面临严重的风险。真正的企业成功不仅需要强大的领导力和财务增长，还需要透明度、问责机制以及公众的信任。"
+ },
  "mindmap": {
   "aria": "",
   "alt": "",
   "svg": "",
   "img": ""
- }
+ },
+ "audio": true,
+ "print_compact_dense": true
 }

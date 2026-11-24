@@ -218,8 +218,12 @@ def do_sync(check_only=False, refresh_dates=()):
         new = prior
         cp = os.path.join(CONTENT_DIR, x["date"] + ".json")
         # 只在「缺索引」或「显式 --refresh 该日期」时读内容 JSON，避免每次发布重写全部历史
-        need = (not prior) or (x["date"] in refresh_dates and key.endswith("_001"))
-        if need and key.endswith("_001") and os.path.exists(cp):
+        need = (not prior) or (x["date"] in refresh_dates and not key.endswith("_002"))
+        # 同日第二篇（_002）用 scripts/content/<date>_002.json；_001 与旧式无后缀沿用 <date>.json
+        cp2 = os.path.join(CONTENT_DIR, x["date"] + "_002.json")
+        if key.endswith("_002") and os.path.exists(cp2):
+            cp = cp2
+        if need and os.path.exists(cp):
             try:
                 c = json.loads(read(cp))
                 candidate = text_from_content(c)
