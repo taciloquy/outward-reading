@@ -1,0 +1,76 @@
+{
+ "date": "2026-11-25",
+ "title_tag": "Jensen Huang returns. But Nvidia will never be the same —— 英国《经济学人》外刊讲解第1239天",
+ "h1": "Jensen Huang returns. But Nvidia will never be the same",
+ "source_label": "经济学人",
+ "category": "英国《经济学人》外刊讲解 第1239天",
+ "read_minutes": 9,
+ "nav_hint": "黄仁勋回归：国会、员工与盟友的三重考验",
+ "audio": false,
+ "headline": {
+  "en_html": "He now faces a hostile Congress, rattled employees and wary business partners",
+  "zh": "",
+  "notes": []
+ },
+ "paragraphs": [
+  {
+   "en_html": "Comebacks are nothing new in Silicon Valley. Three years ago, almost to the week, the board of OpenAI, a model-maker, sacked Sam Altman, its boss, only to reinstate him four days later. Even so, Jensen Huang’s return is extraordinary. On November 23rd the board of Nvidia reinstated Mr Huang, its co-founder, as chief executive, just 12 days after he resigned over a series of affairs, including one with a suspected Chinese agent.",
+   "zh": "",
+   "notes": []
+  },
+  {
+   "en_html": "The board, which on November 17th said it had no intention of giving Mr Huang his job back, declared that, after all, it was satisfied with his “candour”, even though its own investigation has not yet finished. In the days after Mr Huang quit, Nvidia lost over $1trn in market value. Since the announcement of his return its share price has surged by a third.",
+   "zh": "",
+   "notes": []
+  },
+  {
+   "en_html": "Investors’ relief may not last, however. Mr Huang is back at the helm, but he returns under very different circumstances. Nvidia faces a government newly keen on tougher export controls and a Congress soon to be full of artificial-intelligence sceptics. Mr Huang, long the AI industry’s chief showman, must also now win back the trust of staff, customers and suppliers.",
+   "zh": "",
+   "notes": []
+  },
+  {
+   "en_html": "Mr Huang’s first test will be on December 1st when he faces a grilling before Congress. The board has said it is confident that Mr Huang’s “reinstatement poses no national-security risk”. But questions remain about his relationship with Alice Huang, a Chinese national and former executive at Megaspeed, a Singaporean data-centre developer that bought Nvidia’s chips. These will not disappear. Democrats have promised investigations of their own when they take control of both houses of Congress next year.",
+   "zh": "",
+   "notes": []
+  },
+  {
+   "en_html": "Even Mr Trump’s administration seems divided. The president said he wanted Mr Huang back, and reportedly dialled into a board meeting to make the case. Others in his cabinet have been cooler. On November 15th Scott Bessent, the treasury secretary, called for a “dramatic shakeup” at Nvidia and an outside chief executive, though a week later he changed tack, suggesting bizarrely that Mr Huang, having resigned, was now an outsider himself. Marco Rubio, the secretary of state, is no fan either. It was he who oversaw the intelligence memo about Mr Huang’s ties to Alice Huang that prompted the chief executive’s downfall.",
+   "zh": "",
+   "notes": []
+  },
+  {
+   "en_html": "Mr Huang will also find it harder to make the case for a lenient approach to export controls. He has long argued that restricting sales to China only encourages its domestic chip industry. But five days after he resigned, the Commerce Department announced a rule intended to stop Chinese firms renting access to advanced AI chips in data centres abroad. Congress, meanwhile, is weighing bills that would tighten controls further.",
+   "zh": "",
+   "notes": []
+  },
+  {
+   "en_html": "Nvidia’s returning boss must also deal with the internal fallout at the company from the damaging revelations of the past few weeks. Two of Mr Huang’s alleged affairs were with subordinates. On November 20th the New York Times published accounts from more than a dozen current and former employees who said he had long used public humiliation and violent threats to drive staff. (His spokesperson has disputed the claims.) Mr Huang was previously not shy about his methods; he once said he would be willing to “torture” employees “into greatness”.",
+   "zh": "",
+   "notes": []
+  },
+  {
+   "en_html": "Some at Nvidia worry less about his temper than about the firm’s dependence on him. He has run the business with some 60 direct reports and no obvious successor. That a company worth trillions of dollars is held together by a single man “is absurd”, says one employee. Another wonders how Mr Huang will operate at a firm where his actions now face greater scrutiny. Before his reinstatement, the board had announced it would form a committee composed solely of independent directors to oversee national-security risks and compliance with trade rules.",
+   "zh": "",
+   "notes": []
+  },
+  {
+   "en_html": "Then there is the question of whether Mr Huang will be able to regain his role as the orchestrator of the AI boom. Not long ago, his blessing alone could send a company’s shares soaring. He toured the world, sharing stages with presidents and prime ministers, preaching the gospel of AI. Customers and suppliers alike queued to do business with him.",
+   "zh": "",
+   "notes": []
+  },
+  {
+   "en_html": "His star is almost certain to have dimmed. Politicians who once courted Mr Huang are likely to keep their distance until the investigations into him are over. The industry may hedge its bets. TSMC, a Taiwanese chip giant whose biggest customer is Nvidia, will be more wary of depending so heavily on a single client, reckons one analyst. Cloud providers that shunned Nvidia’s rivals, for fear of being cut off from Mr Huang’s chips, may be readier to shop around. And not all investors are reassured. Stacy Rasgon of Bernstein, a broker, noted that Mr Huang’s tendency to keep “questionable company” and “willingness to lie to the board” remain troubling. Nvidia’s rockstar boss has his job back. His mystique will be harder to recover.",
+   "zh": "",
+   "notes": []
+  }
+ ],
+ "proper": [],
+ "sources_note": "依据《经济学人》2026-11-25 报道。",
+ "practice": {},
+ "mindmap": {
+  "aria": "",
+  "alt": "",
+  "svg": "",
+  "img": ""
+ }
+}
