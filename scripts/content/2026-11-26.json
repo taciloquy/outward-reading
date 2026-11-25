@@ -1,0 +1,71 @@
+{
+  "date": "2026-11-26",
+  "title_tag": "Copper shows how AI is messing with markets —— 英国《经济学人》外刊讲解第1240天",
+  "h1": "Copper shows how AI is messing with markets",
+  "source_label": "经济学人",
+  "category": "英国《经济学人》外刊讲解 第1240天",
+  "read_minutes": 9,
+  "nav_hint": "铜价为何跟着 AI 坐过山车：代理交易、中国需求与矿端困局",
+  "audio": false,
+  "headline": {
+    "en_html": "",
+    "zh": "",
+    "notes": []
+  },
+  "paragraphs": [
+    {
+      "en_html": "Amid the rollercoaster ride in equity markets over the past week, spare a thought for copper traders. On November 16th the Shanghai Futures Exchange, where Chinese buyers and sellers trade metals and other commodities, made an extraordinary intervention. It leant on traders to settle futures contracts for copper in cash, rather than metal—possibly the first time it has ever done so. Reserves of the metal, the exchange’s officials concluded, were too low to cope with a rush for physical material.",
+      "zh": "",
+      "notes": []
+    },
+    {
+      "en_html": "In normal times such shortages would have sent prices soaring. But stock-market jitters ahead of the initial public offering of Anthropic, a model-creator seen as a bellwether of the AI revolution, were making buyers nervous. By November 18th copper futures fell by nearly 6% on the London Metals Exchange, which sets the global benchmark. Two days after that spot prices were 9% lower than a week before.",
+      "zh": "",
+      "notes": []
+    },
+    {
+      "en_html": "Welcome to one of the world’s most confusing markets. Demand for copper, untold tonnes of which will be needed as the world electrifies and builds artificial-intelligence data centres, looks poised to keep rising. At the same time, supply of quality ore is scarce. More instances of extreme weather, creaky infrastructure and bad geology have left many mines struggling to dig up as much as in past years. By 2040, according to S&P Global, a research firm, demand will outstrip supply by 10m tonnes. Yet prices have moved sideways or down for months. What is going on?",
+      "zh": "",
+      "notes": []
+    },
+    {
+      "en_html": "Part of the explanation is an economic slowdown in China, which uses the stuff in prodigious amounts. Donald Trump’s tariffs play a role, too. After the president threatened last year to impose new ones, many American buyers amassed stockpiles of copper. If incoming Democratic majorities in both houses of Congress, elected on a message of lower everyday prices, make it harder for him to follow through, those stockpiles may start to look needlessly large.",
+      "zh": "",
+      "notes": []
+    },
+    {
+      "en_html": "But the chief reason for the copper confusion is that the metal has, like many other assets, become a proxy for the all-consuming AI trade. Never mind that only around 1% of the global demand for copper comes from data centres: prices have risen and fallen with AI-infrastructure stocks at least since January, according to Goldman Sachs, a bank. This is a headache for copper traders, and a warning for other markets.",
+      "zh": "",
+      "notes": []
+    },
+    {
+      "en_html": "For a good part of this year a widespread belief in the markets that AI is an unstoppable force kept the price of the red metal red hot. In recent weeks, however, investors’ faith has been shaken. Voters, especially in America, have turned against a technology that despoils their backyards and could, just maybe, end humanity. The ho-hum post-IPO performance of Anthropic’s shares casts doubt on AI companies’ continued ability to finance expensive new data centres.",
+      "zh": "",
+      "notes": []
+    },
+    {
+      "en_html": "Then on November 22nd Jensen Huang returned triumphantly to the top job at Nvidia, whose chips and balance-sheet are helping power the AI revolution technologically and financially. The news added nearly $1trn to Nvidia’s market value the next day, and pulled up other tech shares (though not Anthropic’s, which now trade for a bit less than in its IPO). Copper futures rose, too, by 3%. Yet the sex-and-spying scandal that temporarily cost Mr Huang his job is not going away. Nor are questions about exactly how much computing capacity the world will eventually need.",
+      "zh": "",
+      "notes": []
+    },
+    {
+      "en_html": "And that is the problem. Sharp AI-induced ups and downs are discouraging investments in new mines, which are needed to avert a shortfall in a few years’ time. Less ore means less business for smelters, which transform it into metal on miners’ behalf for a fee. Already some smelters are paying miners to keep ore coming, rather than being paid by them, so as to avoid the heavy cost of turning furnaces off and back on again. If this puts some smelters out of business, it could worsen the supply crunch.",
+      "zh": "",
+      "notes": []
+    },
+    {
+      "en_html": "Copper shows how the spasmodic AI trade can mess with markets that are used to a more sedate pace of change. In contrast to those of nimble tech firms, the life-cycles of AI’s industrial proxies, from metals and mining firms to operators of electrical grids, are often measured in decades. Investment decisions require confidence that demand will materialise after all that time. AI itself may one day improve the accuracy of such prognostications. For now, its distortive effect on price signals is making them harder to produce.",
+      "zh": "",
+      "notes": []
+    }
+  ],
+  "proper": [],
+  "sources_note": "依据《经济学人》2026-11-26 报道。",
+  "practice": {},
+  "mindmap": {
+    "aria": "",
+    "alt": "",
+    "svg": "",
+    "img": ""
+  }
+}

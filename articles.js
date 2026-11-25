@@ -1,6 +1,13 @@
 // ===== 文章数据库（独立静态资源；正文全文见 search-index.js） =====
     const ARTICLES = [
       {
+        title: "Copper shows how AI is messing with markets",
+        publishDate: "2026-11-26",
+        fileKey: "2026-11-26_001",
+        readingPath: "/outward-reading/articles/2026/11/2026-11-26_001.reading.html",
+        source: "Economist"
+      },
+      {
         title: "Nvidia reinstates Jensen Huang as CEO amid pressure from President Trump, investors",
         publishDate: "2026-11-25",
         fileKey: "2026-11-25_001",
