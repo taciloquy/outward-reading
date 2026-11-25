@@ -83,7 +83,14 @@ def page_state(date_str):
         "practice": False, "audio": None, "mindmap_img": False,
         "registered": False, "notes_ready": False,
         "mm": mm_state(date_str),
-        "html_mtime": os.path.getmtime(html) if os.path.exists(html) else 0,
+        # 同日可能有多篇（_001/_002/_003…）。取当天所有页面的最新 mtime，
+        # 否则「PDF 比页面新」会误报：例如 11-25 的经济学人完整笔记上成 _003，
+        # 而 _001 的 mtime 仍停在更早的时间，被误判为待重跑。
+        "html_mtime": max(
+            (os.path.getmtime(p) for p in
+             glob.glob(os.path.join(REPO, "articles", y, m, f"{date_str}_*.reading.html"))),
+            default=0,
+        ),
     }
     if st["content"]:
         try:
