@@ -15,6 +15,13 @@
         source: "CNN"
       },
       {
+        title: "Jensen Huang returns. But Nvidia will never be the same",
+        publishDate: "2026-11-25",
+        fileKey: "2026-11-25_003",
+        readingPath: "/outward-reading/articles/2026/11/2026-11-25_003.reading.html",
+        source: "Economist"
+      },
+      {
         title: "The Garbage Man: Bill Gates has earned billions investing in climate-polluting landfills",
         publishDate: "2026-11-24",
         fileKey: "2026-11-24_001",

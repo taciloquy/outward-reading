@@ -1,0 +1,737 @@
+{
+ "date": "2026-11-25",
+ "title_tag": "Jensen Huang returns. But Nvidia will never be the same —— 英国《经济学人》外刊讲解第1239天",
+ "h1": "Jensen Huang returns. But Nvidia will never be the same",
+ "source_label": "经济学人",
+ "category": "英国《经济学人》外刊讲解 第1239天",
+ "read_minutes": 11,
+ "nav_hint": "黄仁勋回归：国会、员工与盟友的三重考验",
+ "headline": {
+  "en_html": "He now faces a <mark class=\"voc\">hostile</mark> <mark class=\"voc\">Congress</mark>, <mark class=\"voc\">rattled</mark> employees and <mark class=\"voc\">wary</mark> business partners",
+  "zh": "如今，他面对的是充满敌意的国会、惶恐不安的员工以及心存戒备的商业伙伴。",
+  "notes": [
+   {
+    "w": "hostile",
+    "ipa": "/ˈhɒstaɪl/",
+    "pos": "adj.",
+    "en": "unfriendly or strongly opposed to someone or something",
+    "zh": "敌对的；不友好的；强烈反对的",
+    "ctx": "对黄仁勋持敌对或强烈反对态度的",
+    "ex1": "The proposal received a hostile response from local residents. 这项提议遭到了当地居民的强烈反对。",
+    "ex2": "It is difficult to remain confident in a hostile environment. 在充满敌意的环境中保持自信并不容易。"
+   },
+   {
+    "w": "Congress",
+    "ipa": "/ˈkɒŋɡres/",
+    "pos": "n.",
+    "en": "the national legislative body of the United States",
+    "zh": "（美国）国会；代表大会",
+    "ctx": "由参议院和众议院组成的美国国会",
+    "ex1": "Congress is considering a new law to protect consumers. 美国国会正在考虑制定一项保护消费者的新法律。",
+    "ex2": "The president needs the support of Congress to carry out his plans. 总统需要国会的支持才能实施自己的计划。"
+   },
+   {
+    "w": "rattled",
+    "ipa": "/ˈrætld/",
+    "pos": "adj.",
+    "en": "nervous, worried or upset because of something unexpected",
+    "zh": "紧张不安的；惊慌失措的；心神不宁的",
+    "ctx": "因公司近期的丑闻和管理层动荡而感到不安的",
+    "ex1": "She looked visibly rattled after receiving the unexpected news. 收到这个出乎意料的消息后，她显得明显有些慌乱。",
+    "ex2": "The sudden departure of the manager left the entire team rattled. 经理的突然离职让整个团队惶恐不安。"
+   },
+   {
+    "w": "wary",
+    "ipa": "/ˈweəri/",
+    "pos": "adj.",
+    "en": "careful because you think there may be a danger or problem",
+    "zh": "谨慎的；警惕的；心存戒备的",
+    "ctx": "因潜在的商业风险而对黄仁勋及英伟达保持警惕的",
+    "ex1": "Investors are becoming increasingly wary of risky investments. 投资者对高风险投资越来越谨慎。",
+    "ex2": "After several disappointing experiences, she became wary of making promises. 经历了几次令人失望的事情后，她在作出承诺时变得更加谨慎。"
+   }
+  ]
+ },
+ "paragraphs": [
+  {
+   "en_html": "<mark class=\"voc\">Comebacks</mark> are nothing new in Silicon Valley. Three years ago, <mark class=\"voc\">almost to the week</mark>, the board of OpenAI, a model-maker, <mark class=\"voc\">sacked</mark> Sam Altman, its boss, <mark class=\"voc\">only to reinstate</mark> him four days later. Even so, Jensen Huang’s return is extraordinary. On November 23rd the board of Nvidia <mark class=\"voc\">reinstated</mark> Mr Huang, its co-founder, as chief executive, just 12 days after he resigned over a series of affairs, including one with a suspected Chinese agent.",
+   "zh": "在硅谷，东山再起并不是什么新鲜事。几乎就在三年前的同一周，人工智能模型开发商OpenAI的董事会解雇了其掌门人萨姆·奥尔特曼，却在仅仅四天后又让他恢复了原职。即便如此，黄仁勋的回归依然非同寻常。11月23日，英伟达董事会恢复了联合创始人黄仁勋的首席执行官职务，而就在12天前，他才因一系列婚外情辞职，其中一段婚外情涉及一名疑似中国情报人员。",
+   "notes": [
+    {
+     "w": "comeback",
+     "ipa": "/ˈkʌmbæk/",
+     "pos": "n.",
+     "en": "a return to success, popularity or an important position after a period of difficulty",
+     "zh": "复出；东山再起；重新获得成功",
+     "ctx": "企业领导人在失去职位后重新掌权",
+     "ex1": "The singer made a remarkable comeback after years away from the stage. 这位歌手在离开舞台多年后实现了令人瞩目的复出。",
+     "ex2": "The company is hoping to make a comeback after several years of financial difficulties. 这家公司希望在经历数年的财务困境后东山再起。"
+    },
+    {
+     "w": "almost to the week",
+     "ipa": "/ˈɔːlməʊst tə ðə wiːk/",
+     "pos": "phr.",
+     "en": "at nearly exactly the same time of the year, with a difference of about a week or less",
+     "zh": "几乎就在同一周；时间几乎精确到周",
+     "ctx": "奥尔特曼被解雇的时间与黄仁勋复职的时间相隔几乎整整三年",
+     "ex1": "Ten years ago, almost to the week, we moved into this house. 几乎就在十年前的同一周，我们搬进了这栋房子。",
+     "ex2": "Two years ago, almost to the week, the company launched its first product. 几乎就在两年前的同一周，这家公司推出了第一款产品。"
+    },
+    {
+     "w": "sack",
+     "ipa": "/sæk/",
+     "pos": "v.",
+     "en": "to dismiss someone from their job",
+     "zh": "解雇；开除；辞退",
+     "ctx": "OpenAI董事会解除萨姆·奥尔特曼的职务",
+     "ex1": "The manager was sacked after a series of poor decisions. 这位经理因一系列错误决策而被解雇。",
+     "ex2": "The company denied that it planned to sack hundreds of employees. 该公司否认计划解雇数百名员工。"
+    },
+    {
+     "w": "only to do sth.",
+     "ipa": "/ˈəʊnli tə duː/",
+     "pos": "phr.",
+     "en": "used to introduce an unexpected or disappointing result",
+     "zh": "结果却……；不料竟然……",
+     "ctx": "董事会解雇奥尔特曼后，却出人意料地在四天后恢复了他的职务",
+     "ex1": "She rushed to the airport, only to discover that her flight had been cancelled. 她匆忙赶到机场，却发现自己的航班已经被取消。",
+     "ex2": "He spent years building his business, only to lose everything in a financial crisis. 他花了多年时间建立自己的企业，却在一场金融危机中失去了一切。"
+    },
+    {
+     "w": "reinstate",
+     "ipa": "/ˌriːɪnˈsteɪt/",
+     "pos": "v.",
+     "en": "to return someone to a position or job that they previously held",
+     "zh": "使恢复原职；使重新获得原有地位；恢复",
+     "ctx": "董事会让被解雇或已经辞职的企业领导人重新担任原来的职务",
+     "ex1": "The university agreed to reinstate the professor after an independent investigation. 在独立调查结束后，该大学同意恢复这位教授的职务。",
+     "ex2": "The company decided to reinstate its former chief executive. 该公司决定让前首席执行官恢复原职。"
+    }
+   ]
+  },
+  {
+   "en_html": "The board, which on November 17th said it had no <mark class=\"voc\">intention</mark> of <mark class=\"voc\">giving Mr Huang his job back</mark>, declared that, after all, it was <mark class=\"voc\">satisfied with</mark> his “<mark class=\"voc\">candour</mark>”, even though its own investigation has not yet finished. In the days after Mr Huang quit, Nvidia lost over $1trn in market value. Since the announcement of his return its share price has surged by a third.",
+   "zh": "11月17日，英伟达董事会还曾表示无意让黄仁勋恢复原职，但最终却宣布对他的“坦诚”感到满意，尽管董事会自身的调查尚未结束。在黄仁勋辞职后的几天里，英伟达的市值蒸发了超过1万亿美元。自他回归的消息公布以来，英伟达的股价已经飙升了三分之一。",
+   "notes": [
+    {
+     "w": "intention",
+     "ipa": "/ɪnˈtenʃn/",
+     "pos": "n.",
+     "en": "a plan or purpose to do something",
+     "zh": "意图；目的；打算",
+     "ctx": "董事会让黄仁勋恢复原职的意愿或打算",
+     "ex1": "She has no intention of giving up her career. 她无意放弃自己的事业。",
+     "ex2": "The company announced its intention to expand into overseas markets. 该公司宣布了拓展海外市场的计划。"
+    },
+    {
+     "w": "give sb. sth. back",
+     "ipa": "/ɡɪv ˈsʌmbədi ˈsʌmθɪŋ bæk/",
+     "pos": "phr.",
+     "en": "to return something to the person who previously had it",
+     "zh": "将某物归还给某人；让某人重新获得某物",
+     "ctx": "将首席执行官的职位重新交还给黄仁勋",
+     "ex1": "The court ordered the company to give him his job back. 法院命令该公司恢复他的工作职位。",
+     "ex2": "The successful treatment gave her back her confidence. 成功的治疗让她重新找回了自信。"
+    },
+    {
+     "w": "be satisfied with",
+     "ipa": "/bi ˈsætɪsfaɪd wɪð/",
+     "pos": "phr.",
+     "en": "to feel pleased because something meets your expectations or requirements",
+     "zh": "对……感到满意；对……表示认可",
+     "ctx": "董事会认为黄仁勋表现出的坦诚符合其要求",
+     "ex1": "The investors were satisfied with the company's financial performance. 投资者对公司的财务表现感到满意。",
+     "ex2": "She was not entirely satisfied with his explanation. 她对他的解释并不完全满意。"
+    },
+    {
+     "w": "candour",
+     "ipa": "/ˈkændə/",
+     "pos": "n.",
+     "en": "the quality of being honest, open and direct about something",
+     "zh": "坦诚；坦率；直言不讳",
+     "ctx": "董事会所认可的黄仁勋在沟通中表现出的坦诚态度",
+     "ex1": "I appreciated her candour about the difficulties facing the business. 我很欣赏她在谈及企业面临的困难时所表现出的坦诚。",
+     "ex2": "His unusual candour surprised everyone at the meeting. 他不同寻常的坦率让与会者都感到惊讶。"
+    }
+   ]
+  },
+  {
+   "en_html": "Investors’ relief may not last, however. Mr Huang is back <mark class=\"voc\">at the helm</mark>, but he returns under very different circumstances. Nvidia faces a government newly <mark class=\"voc\">keen on</mark> tougher export controls and a Congress soon to be full of artificial-intelligence <mark class=\"voc\">sceptics</mark>. Mr Huang, long the AI industry’s chief <mark class=\"voc\">showman</mark>, must also now win back the trust of staff, customers and suppliers.",
+   "zh": "然而，投资者松了一口气的状态可能不会持续太久。黄仁勋重新掌舵英伟达，但他回归时所面临的环境已经截然不同。英伟达面对的是一个如今热衷于实施更严格出口管制的政府，以及一个即将充斥着人工智能怀疑者的国会。长期以来一直是人工智能行业最具表演魅力的领军人物的黄仁勋，如今还必须重新赢得员工、客户和供应商的信任。",
+   "notes": [
+    {
+     "w": "at the helm",
+     "ipa": "/ət ðə helm/",
+     "pos": "phr.",
+     "en": "in a position of leadership or control of an organization",
+     "zh": "掌舵；掌权；处于领导地位",
+     "ctx": "黄仁勋重新掌握英伟达的领导权",
+     "ex1": "With an experienced leader at the helm, the company recovered from the crisis. 在一位经验丰富的领导者掌舵下，公司从危机中恢复了过来。",
+     "ex2": "She spent more than a decade at the helm of the organization. 她掌管这家机构长达十多年。"
+    },
+    {
+     "w": "keen on",
+     "ipa": "/kiːn ɒn/",
+     "pos": "phr.",
+     "en": "very interested in or enthusiastic about something",
+     "zh": "热衷于；对……感兴趣；积极支持",
+     "ctx": "美国政府积极倾向于实施更加严格的出口管制措施",
+     "ex1": "The government is keen on attracting foreign investment. 政府热衷于吸引外国投资。",
+     "ex2": "She is keen on developing new skills that will help her career. 她热衷于培养有助于职业发展的新技能。"
+    },
+    {
+     "w": "sceptic",
+     "ipa": "/ˈskeptɪk/",
+     "pos": "n.",
+     "en": "a person who doubts whether something is true, useful or effective",
+     "zh": "怀疑者；持怀疑态度的人",
+     "ctx": "对人工智能的发展、应用及其潜在影响持怀疑或审慎态度的国会议员",
+     "ex1": "Even the most determined sceptics were impressed by the results. 就连最坚定的怀疑者也对这些结果印象深刻。",
+     "ex2": "Sceptics argue that the benefits of the new technology have been exaggerated. 怀疑者认为，这项新技术的好处被夸大了。"
+    },
+    {
+     "w": "showman",
+     "ipa": "/ˈʃəʊmən/",
+     "pos": "n.",
+     "en": "a person who is skilled at attracting public attention and entertaining an audience",
+     "zh": "表演家；善于吸引公众注意力的人；擅长造势的人",
+     "ctx": "善于通过公开演讲、产品发布会和个人魅力为人工智能行业造势的黄仁勋",
+     "ex1": "The entrepreneur was a natural showman who knew how to excite an audience. 这位企业家天生擅长表演，知道如何调动观众的情绪。",
+     "ex2": "He was not only a talented businessman but also a brilliant showman. 他不仅是一位才华横溢的商人，也是一位出色的表演家。"
+    }
+   ]
+  },
+  {
+   "en_html": "Mr Huang’s first test will be on December 1st when he faces a <mark class=\"voc\">grilling</mark> before Congress. The board has said it is confident that Mr Huang’s “reinstatement poses no <mark class=\"voc\">national</mark>-security risk”. But questions remain about his relationship with Alice Huang, a Chinese national and former executive at Megaspeed, a Singaporean data-centre developer that bought Nvidia’s chips. These will not disappear. Democrats have promised investigations of their own when they take control of both <mark class=\"voc\">houses</mark> of Congress next year.",
+   "zh": "黄仁勋的第一次考验将在12月1日到来，届时他将在国会面前接受严厉质询。董事会已经表示，相信黄仁勋的“复职不会构成国家安全风险”。然而，关于他与AliceHuang之间的关系，仍然存在诸多疑问。AliceHuang是一名中国公民，曾担任Megaspeed的高管，这是一家购买过英伟达芯片的新加坡数据中心开发商。这些疑问不会就此消失。民主党人已经承诺，明年掌控国会参众两院后，他们将自行展开调查。",
+   "notes": [
+    {
+     "w": "grilling",
+     "ipa": "/ˈɡrɪlɪŋ/",
+     "pos": "n.",
+     "en": "a period of intense and difficult questioning",
+     "zh": "严厉质询；盘问；审问",
+     "ctx": "美国国会议员对黄仁勋进行的严厉而密集的质询",
+     "ex1": "The minister faced a grilling from journalists over his controversial decision. 这位部长因其颇具争议的决定而受到记者的严厉质询。",
+     "ex2": "The chief executive received a grilling from shareholders at the annual meeting. 首席执行官在年度会议上受到了股东们的严厉质询。"
+    },
+    {
+     "w": "national",
+     "ipa": "/ˈnæʃnəl/",
+     "pos": "n.",
+     "en": "a person who is legally recognized as a citizen of a particular country",
+     "zh": "某国国民；某国公民",
+     "ctx": "拥有中国国籍的公民",
+     "ex1": "Several foreign nationals were working on the international project. 数名外国公民参与了这个国际项目。",
+     "ex2": "She is a British national who has lived abroad for many years. 她是一名在海外生活多年的英国公民。"
+    },
+    {
+     "w": "house",
+     "ipa": "/haʊs/",
+     "pos": "n.",
+     "en": "one of the groups of people who form a country's legislative body",
+     "zh": "议院；立法机构中的一院；房屋",
+     "ctx": "美国国会的参议院和众议院，both houses of Congress指国会参众两院",
+     "ex1": "The proposed law must be approved by both houses of Congress. 这项拟议中的法律必须获得国会参众两院的批准。",
+     "ex2": "The bill was passed by the lower house of parliament. 这项法案获得了议会下院的通过。"
+    }
+   ]
+  },
+  {
+   "en_html": "Even Mr Trump’s administration seems divided. The president said he wanted Mr Huang back, and reportedly <mark class=\"voc\">dialled into</mark> a board meeting to <mark class=\"voc\">make the case</mark>. Others in his <mark class=\"voc\">cabinet</mark> have been cooler. On November 15th Scott Bessent, the treasury secretary, called for a “dramatic <mark class=\"voc\">shakeup</mark>” at Nvidia and an outside chief executive, though a week later he <mark class=\"voc\">changed tack</mark>, suggesting <mark class=\"voc\">bizarrely</mark> that Mr Huang, having resigned, was now an <mark class=\"voc\">outsider</mark> himself. Marco Rubio, the secretary of state, <mark class=\"voc\">is no fan either</mark>. It was he who oversaw the intelligence memo about Mr Huang’s ties to Alice Huang that prompted the chief executive’s <mark class=\"voc\">downfall</mark>.",
+   "zh": "甚至特朗普政府内部似乎也存在分歧。总统表示希望黄仁勋回归，据报道，他还通过电话参加了一场董事会会议，为黄仁勋复职据理力争。然而，内阁中的其他成员对此态度则较为冷淡。11月15日，美国财政部长斯科特·⻉森特呼吁英伟达进行一次“重大改组”，并从公司外部聘请一位首席执行官。然而，一周后，他却改变了立场，令人匪夷所思地表示，既然黄仁勋已经辞职，那么他本人现在也算是一个外部人士。美国国务卿马尔科·卢比奥同样不是黄仁勋的支持者。正是他负责监督有关黄仁勋与AliceHuang之间关系的情报备忘录的编制，而这份备忘录促成了这位首席执行官的下台。",
+   "notes": [
+    {
+     "w": "dial into phr.",
+     "ipa": "/ˈdaɪəl ˈɪntuː/",
+     "pos": "v.",
+     "en": "to join a meeting or conversation by telephone or through a communication system",
+     "zh": "通过电话接入；远程加入会议",
+     "ctx": "特朗普通过电话远程参加英伟达的董事会会议",
+     "ex1": "She dialled into the meeting while travelling abroad. 她在海外旅行期间通过电话参加了会议。",
+     "ex2": "Employees can dial into the conference from anywhere in the world. 员工可以从世界任何地方远程接入会议。"
+    },
+    {
+     "w": "make the case",
+     "ipa": "/meɪk ðə keɪs/",
+     "pos": "phr.",
+     "en": "to present arguments or evidence in support of a particular idea or action",
+     "zh": "提出支持某事的理由；论证；据理力争",
+     "ctx": "特朗普向英伟达董事会阐述支持黄仁勋复职的理由",
+     "ex1": "The scientist made the case for greater investment in clean energy. 这位科学家阐述了增加清洁能源投资的理由。",
+     "ex2": "She made a convincing case for changing the company's existing strategy. 她提出了令人信服的理由，主张改变公司现有的战略。"
+    },
+    {
+     "w": "cabinet",
+     "ipa": "/ˈkæbɪnət/",
+     "pos": "n.",
+     "en": "a group of senior government officials who advise the head of government and make important policy decisions",
+     "zh": "内阁；政府高级决策机构；储物柜",
+     "ctx": "特朗普政府中由各部门高级官员组成的内阁",
+     "ex1": "The president held an emergency cabinet meeting to discuss the crisis. 总统召开了紧急内阁会议，讨论这场危机。",
+     "ex2": "Several cabinet members expressed concerns about the proposed policy. 几名内阁成员对拟议中的政策表达了担忧。"
+    },
+    {
+     "w": "shakeup",
+     "ipa": "/ˈʃeɪkʌp/",
+     "pos": "n.",
+     "en": "a major change in the organization or management of a company or institution",
+     "zh": "重大改组；重组；大规模调整",
+     "ctx": "⻉森特所呼吁的英伟达管理层及组织结构的重大调整",
+     "ex1": "The financial crisis led to a major shakeup in the banking industry. 金融危机导致银行业发生了重大重组。",
+     "ex2": "The company announced a management shakeup following disappointing financial results. 在公布令人失望的财务业绩后，该公司宣布对管理层进行重大改组。"
+    },
+    {
+     "w": "change tack",
+     "ipa": "/tʃeɪndʒ tæk/",
+     "pos": "phr.",
+     "en": "to change one's approach, strategy or way of dealing with a situation",
+     "zh": "改变策略；转换方向；改变立场",
+     "ctx": "⻉森特改变此前主张聘请外部首席执行官的立场，转而将已经辞职的黄仁勋视为外部人士",
+     "ex1": "When the original strategy failed, the management team decided to change tack. 当原有策略失败后，管理团队决定改变策略。",
+     "ex2": "The politician changed tack after facing strong public opposition. 在遭到公众强烈反对后，这位政治人物改变了立场。"
+    },
+    {
+     "w": "bizarrely",
+     "ipa": "/bɪˈzɑːli/",
+     "pos": "adv.",
+     "en": "in a very strange, unusual or difficult-to-explain way",
+     "zh": "古怪地；离奇地；令人匪夷所思地",
+     "ctx": "作者认为⻉森特将已经辞职的黄仁勋重新定义为外部人士的说法十分奇怪",
+     "ex1": "Bizarrely, the company continued to expand despite its enormous losses. 令人匪夷所思的是，尽管遭受巨额亏损，该公司仍然继续扩张。",
+     "ex2": "The two reports reached bizarrely different conclusions based on the same evidence. 令人费解的是，这两份报告基于相同的证据却得出了截然不同的结论。"
+    },
+    {
+     "w": "outsider",
+     "ipa": "/ˌaʊtˈsaɪdə/",
+     "pos": "n.",
+     "en": "a person who does not belong to a particular group, organization or community",
+     "zh": "外部人士；局外人；圈外人",
+     "ctx": "⻉森特声称已经辞去职务的黄仁勋现在也属于英伟达的外部人士",
+     "ex1": "The board believed that an outsider could bring fresh ideas to the company. 董事会认为，外部人士能够为公司带来新的想法。",
+     "ex2": "As an outsider, she was able to identify problems that others had overlooked. 作为一名局外人，她能够发现其他人忽视的问题。"
+    },
+    {
+     "w": "be no fan of",
+     "ipa": "/bi nəʊ fæn əv/",
+     "pos": "phr.",
+     "en": "to dislike or have little enthusiasm or support for someone or something",
+     "zh": "不喜欢……；并不支持……；对……不感冒",
+     "ctx": "卢比奥同样不是黄仁勋的支持者，对其持有保留或反对态度",
+     "ex1": "He is no fan of excessive government intervention in business. 他并不赞同政府过度干预商业活动。",
+     "ex2": "She is no fan of the company's aggressive management style. 她并不喜欢该公司强势的管理风格。"
+    },
+    {
+     "w": "downfall",
+     "ipa": "/ˈdaʊnfɔːl/",
+     "pos": "n.",
+     "en": "the loss of power, success, status or reputation, especially after a period of great achievement",
+     "zh": "垮台；下台；衰败；身败名裂",
+     "ctx": "黄仁勋因相关丑闻和政治压力而失去英伟达首席执行官职位",
+     "ex1": "His refusal to listen to criticism eventually led to his downfall. 他拒绝听取批评意见，最终导致了自己的垮台。",
+     "ex2": "Excessive ambition and poor judgment contributed to the downfall of the once successful businessman. 过度的野心和糟糕的判断力促成了这位曾经成功的商人的衰败。"
+    }
+   ]
+  },
+  {
+   "en_html": "Mr Huang will also find it harder to <mark class=\"voc\">make the case for</mark> a lenient approach to export controls. He has long argued that restricting sales to China only encourages its domestic chip industry. But five days after he resigned, the Commerce Department announced a rule intended to stop Chinese firms renting access to advanced AI chips in data centres abroad. Congress, meanwhile, is <mark class=\"voc\">weighing</mark> bills that would tighten controls further.",
+   "zh": "黄仁勋还将发现，为采取较为宽松的出口管制政策据理力争变得更加困难。长期以来，他一直认为，限制向中国销售芯片只会促进中国本土芯片产业的发展。然而，就在他辞职五天后，美国商务部宣布了一项新规，旨在阻止中国企业通过租赁方式使用海外数据中心的先进人工智能芯片。与此同时，美国国会正在考虑进一步收紧管制的法案。",
+   "notes": [
+    {
+     "w": "make the case for",
+     "ipa": "/meɪk ðə keɪs fɔː/",
+     "pos": "phr.",
+     "en": "to present convincing reasons or evidence in support of something",
+     "zh": "为……提出有力论据；论证……的合理性；为……据理力争",
+     "ctx": "黄仁勋试图通过阐述理由来争取政府对宽松出口管制政策的支持",
+     "ex1": "The researchers made the case for greater investment in public health. 研究人员阐述了增加公共卫生投资的必要性。",
+     "ex2": "She made a strong case for reducing unnecessary government restrictions. 她提出了有力的论据，主张减少不必要的政府限制。"
+    },
+    {
+     "w": "weigh",
+     "ipa": "/weɪ/",
+     "pos": "v.",
+     "en": "to carefully consider something before making a decision",
+     "zh": "权衡；仔细考虑；衡量；称重",
+     "ctx": "美国国会正在审慎考虑是否通过进一步收紧出口管制的相关法案",
+     "ex1": "The board is weighing several options before making a final decision. 董事会正在权衡几种选择，然后再作出最终决定。",
+     "ex2": "The government must weigh the economic benefits against the potential risks. 政府必须权衡经济利益与潜在风险。"
+    }
+   ]
+  },
+  {
+   "en_html": "Nvidia’s returning boss must also deal with the internal <mark class=\"voc\">fallout</mark> at the company from the damaging revelations of the past few weeks. Two of Mr Huang’s alleged affairs were with <mark class=\"voc\">subordinates</mark>. On November 20th the New York Times published accounts from more than a dozen current and former employees who said he had long used public <mark class=\"voc\">humiliation</mark> and violent threats to drive staff. (His spokesperson has disputed the claims.) Mr Huang was previously <mark class=\"voc\">not shy about</mark> his methods; he once said he would be willing to “torture” employees “into greatness”.",
+   "zh": "重新掌舵英伟达的黄仁勋还必须处理过去几周那些具有破坏性的爆料给公司内部带来的负面影响。据称，黄仁勋的两段婚外情涉及他的下属。11月20日，《纽约时报》刊登了十多名现任及前任员工的讲述，他们表示，黄仁勋长期以来通过公开羞辱和暴力威胁的方式来鞭策员工。（他的发言人对此类说法提出了异议。）黄仁勋过去并不避讳谈论自己的管理方式；他曾表示，他愿意通过“折磨”员工来使他们“变得卓越”。",
+   "notes": [
+    {
+     "w": "fallout",
+     "ipa": "/ˈfɔːlaʊt/",
+     "pos": "n.",
+     "en": "the unpleasant or harmful consequences of an event or situation",
+     "zh": "负面后果；不良影响；余波；放射性沉降物",
+     "ctx": "近期丑闻给英伟达内部的员工信任、管理秩序及企业文化带来的负面影响",
+     "ex1": "The company is still dealing with the fallout from the financial scandal. 该公司仍在处理金融丑闻造成的负面影响。",
+     "ex2": "The political fallout from the controversial decision lasted for months. 这一颇具争议的决定所引发的政治余波持续了数月。"
+    },
+    {
+     "w": "subordinate",
+     "ipa": "/səˈbɔːdɪnət/",
+     "pos": "n.",
+     "en": "a person who has a lower position or less authority than someone else in an organization",
+     "zh": "下属；部属；级别较低的人员",
+     "ctx": "在英伟达内部职位或权力低于黄仁勋的员工",
+     "ex1": "An effective manager should treat subordinates with respect. 一位高效的管理者应该尊重自己的下属。",
+     "ex2": "He was criticized for failing to listen to the concerns of his subordinates. 他因未能倾听下属的担忧而受到批评。"
+    },
+    {
+     "w": "humiliation",
+     "ipa": "/hjuːˌmɪliˈeɪʃn/",
+     "pos": "n.",
+     "en": "the feeling of shame or embarrassment caused by being made to look foolish or inferior",
+     "zh": "羞辱；耻辱；屈辱；难堪",
+     "ctx": "据受访员工所称，黄仁勋通过当众批评或贬低员工，使其感到羞耻和难堪",
+     "ex1": "No employee should have to endure public humiliation in the workplace. 任何员工都不应该在工作场所忍受公开羞辱。",
+     "ex2": "The experience of humiliation damaged his confidence for years. 那段受辱的经历多年来一直损害着他的自信心。"
+    },
+    {
+     "w": "not be shy about sth.",
+     "ipa": "/nɒt bi ʃaɪ əˈbaʊt/",
+     "pos": "phr.",
+     "en": "to be willing to speak openly about something or do something without embarrassment or hesitation",
+     "zh": "不避讳……；毫不掩饰……；不羞于……",
+     "ctx": "黄仁勋过去并不避讳公开谈论自己强硬的管理方式",
+     "ex1": "She is not shy about expressing her disagreement with senior managers. 她毫不避讳地表达自己对高级管理人员的不同意见。",
+     "ex2": "The entrepreneur has never been shy about discussing his past failures. 这位企业家从不避讳谈论自己过去的失败经历。"
+    }
+   ]
+  },
+  {
+   "en_html": "Some at Nvidia worry <mark class=\"voc\">less about</mark> his <mark class=\"voc\">temper</mark> than about the firm’s dependence on him. He has run the business with some 60 direct reports and no obvious successor. That a company worth trillions of dollars is held together by a single man “is <mark class=\"voc\">absurd</mark>”, says one employee. Another wonders how Mr Huang will operate at a firm where his actions now face greater <mark class=\"voc\">scrutiny</mark>. Before his reinstatement, the board had announced it would form a committee composed solely of independent directors to oversee national-security risks and compliance with trade rules. Then there is the question of whether Mr Huang will be able to regain his role as the <mark class=\"voc\">orchestrator</mark> of the AI boom. Not long ago, his <mark class=\"voc\">blessing</mark> alone could <mark class=\"voc\">send a company’s shares soaring</mark>. He toured the world, <mark class=\"voc\">sharing stages with</mark> presidents and prime ministers, <mark class=\"voc\">preaching</mark> the <mark class=\"voc\">gospel</mark> of AI. Customers and suppliers alike <mark class=\"voc\">queued</mark> to do business with him.",
+   "zh": "英伟达内部的一些人，与其说担心黄仁勋的脾气，不如说更担心公司对他的依赖。他一直管理着这家企业，拥有大约60名直接向他汇报工作的下属，却没有明确的接班人。一名员工表示，一家价值数万亿美元的公司竟然依靠一个人来维系，“简直荒谬”。另一名员工则想知道，如今黄仁勋的一举一动都将受到更加严格的审视，他将如何在这样的公司里开展工作。在他复职之前，董事会曾宣布将成立一个完全由独立董事组成的委员会，负责监督国家安全风险以及公司对贸易规则的遵守情况。除此之外，还有一个问题：黄仁勋能否重新成为人工智能热潮的幕后推动者？就在不久前，仅凭他的认可，就能让一家公司的股价飙升。他曾周游世界，与各国总统和总理同台亮相，四处宣扬人工智能的福音。无论是客户还是供应商，都排着队想与他做生意。",
+   "notes": [
+    {
+     "w": "less...than...",
+     "ipa": "/les ðæn/",
+     "pos": "phr.",
+     "en": "used to show that one thing is less important, noticeable or significant than another",
+     "zh": "与其说……不如说……；相比……更少……",
+     "ctx": "相比黄仁勋的暴躁脾气，一些员工更担忧英伟达对他个人的过度依赖",
+     "ex1": "She worries less about failure than about missing an opportunity. 与其说她害怕失败，不如说她更担心错过机会。",
+     "ex2": "The problem is less about money than about trust. 与其说这是金钱问题，不如说这是信任问题。"
+    },
+    {
+     "w": "temper",
+     "ipa": "/ˈtempə/",
+     "pos": "n.",
+     "en": "a person's tendency to become angry or lose control of their emotions",
+     "zh": "脾气；性情；易怒的情绪",
+     "ctx": "黄仁勋在管理过程中表现出的暴躁脾气",
+     "ex1": "A good manager should learn to control their temper under pressure. 一位优秀的管理者应该学会在压力下控制自己的脾气。",
+     "ex2": "His unpredictable temper made his colleagues feel uncomfortable. 他难以捉摸的脾气让同事们感到不自在。"
+    },
+    {
+     "w": "absurd",
+     "ipa": "/əbˈsɜːd/",
+     "pos": "adj.",
+     "en": "completely unreasonable, illogical or ridiculous",
+     "zh": "荒谬的；荒唐的；不合理的；可笑的",
+     "ctx": "一名员工认为，一家价值数万亿美元的企业过度依赖一个人的现象极不合理",
+     "ex1": "It is absurd to expect one employee to solve every problem. 指望一名员工解决所有问题是荒谬的。",
+     "ex2": "The idea that success can be achieved without any effort is absurd. 不付出任何努力就能取得成功的想法是荒谬的。"
+    },
+    {
+     "w": "scrutiny",
+     "ipa": "/ˈskruːtəni/",
+     "pos": "n.",
+     "en": "careful and detailed examination of someone or something",
+     "zh": "仔细审查；严格审视；密切监督",
+     "ctx": "黄仁勋的个人行为及经营决策将受到更加严格的审查和监督",
+     "ex1": "The company's financial practices have come under increasing scrutiny. 该公司的财务操作受到了越来越严格的审查。",
+     "ex2": "Public figures often face intense scrutiny of their personal lives. 公众人物的私人生活往往受到密切审视。"
+    },
+    {
+     "w": "orchestrator",
+     "ipa": "/ˈɔːkɪstreɪtə/",
+     "pos": "n.",
+     "en": "a person who organizes and coordinates complex activities to achieve a particular result",
+     "zh": "组织者；策划者；协调者；幕后推动者",
+     "ctx": "协调产业资源、推动人工智能发展并引领行业热潮的核心人物",
+     "ex1": "He was the chief orchestrator of the company's international expansion. 他是该公司国际扩张的主要策划者。",
+     "ex2": "She emerged as the orchestrator of a major transformation within the industry. 她逐渐成为推动该行业重大变革的核心人物。"
+    },
+    {
+     "w": "blessing",
+     "ipa": "/ˈblesɪŋ/",
+     "pos": "n.",
+     "en": "approval, support or permission given by someone with authority or influence",
+     "zh": "认可；支持；许可；祝福；幸事",
+     "ctx": "黄仁勋凭借个人影响力给予某家企业的公开认可或支持",
+     "ex1": "The project went ahead with the blessing of the company's founder. 在公司创始人的认可下，该项目得以推进。",
+     "ex2": "The young entrepreneur received the blessing of several influential investors. 这位年轻创业者获得了几位有影响力的投资者的认可。"
+    },
+    {
+     "w": "send sth. doing",
+     "ipa": "/send ˈsʌmθɪŋ ˈduːɪŋ/",
+     "pos": "phr.",
+     "en": "to cause something to move, change or enter a particular state, often suddenly",
+     "zh": "使某物突然……；导致某物进入某种状态",
+     "ctx": "send a company's shares soaring表示使一家公司的股价迅速飙升",
+     "ex1": "The unexpected announcement sent stock prices tumbling. 这一出人意料的公告导致股价暴跌。",
+     "ex2": "The shortage of raw materials sent production costs soaring. 原材料短缺导致生产成本飙升。"
+    },
+    {
+     "w": "share the stage with",
+     "ipa": "/ʃeə ðə steɪdʒ wɪð/",
+     "pos": "phr.",
+     "en": "to appear or speak on the same stage as another person at a public event",
+     "zh": "与……同台；与……共同出席公开活动",
+     "ctx": "黄仁勋与各国总统和总理共同登台亮相，体现其曾经拥有的国际影响力",
+     "ex1": "The young scientist shared the stage with several Nobel Prize winners. 这位年轻科学家与几位诺⻉尔奖得主同台亮相。",
+     "ex2": "She was invited to share the stage with some of the world's most influential business leaders. 她受邀与全球一些最具影响力的商界领袖同台。"
+    },
+    {
+     "w": "preach",
+     "ipa": "/priːtʃ/",
+     "pos": "v.",
+     "en": "to publicly express and promote a belief, idea or principle with strong enthusiasm",
+     "zh": "宣扬；鼓吹；布道；传教；说教",
+     "ctx": "黄仁勋在全球范围内积极宣传人工智能的价值、潜力及未来前景",
+     "ex1": "The entrepreneur has spent years preaching the benefits of technological innovation. 这位企业家多年来一直在宣扬技术创新的好处。",
+     "ex2": "It is easier to preach the importance of honesty than to practise it. 宣扬诚实的重要性比真正践行诚实更容易。"
+    },
+    {
+     "w": "gospel",
+     "ipa": "/ˈɡɒspl/",
+     "pos": "n.",
+     "en": "a set of beliefs or principles that someone strongly supports and promotes",
+     "zh": "福音；信条；被坚定信奉的理念",
+     "ctx": "作者借用宗教用语，将黄仁勋对人工智能的热情宣传比作传播一种令人深信不疑的信仰",
+     "ex1": "The consultant travelled around the world spreading the gospel of digital transformation. 这位顾问周游世界，传播数字化转型的理念。",
+     "ex2": "For decades, he preached the gospel of hard work and personal responsibility. 数十年来，他一直宣扬努力工作和个人责任的信条。"
+    },
+    {
+     "w": "queue",
+     "ipa": "/kjuː/",
+     "pos": "v.",
+     "en": "to wait in a line or eagerly wait for an opportunity to obtain or do something",
+     "zh": "排队；列队等候；争相等待机会",
+     "ctx": "客户和供应商争相寻求与黄仁勋及英伟达开展商业合作的机会",
+     "ex1": "Customers queued outside the store to buy the latest smartphone. 顾客们在商店外排队购买最新款智能手机。",
+     "ex2": "Investors were queuing to support the promising startup. 投资者们争相为这家前景光明的初创公司提供资金支持。"
+    }
+   ]
+  },
+  {
+   "en_html": "His star is almost certain to have <mark class=\"voc\">dimmed</mark>. Politicians who once <mark class=\"voc\">courted</mark> Mr Huang are likely to <mark class=\"voc\">keep their distance</mark> until the investigations into him are over. The industry may <mark class=\"voc\">hedge its bets</mark>. TSMC, a Taiwanese chip giant whose biggest customer is Nvidia, will be more wary of depending so heavily on a single client, <mark class=\"voc\">reckons</mark> one analyst. Cloud providers that <mark class=\"voc\">shun</mark>ned Nvidia’s rivals, <mark class=\"voc\">for fear of</mark> being cut off from Mr Huang’s chips, may be readier to <mark class=\"voc\">shop around</mark>. And not all investors are reassured. Stacy Rasgon of Bernstein, a <mark class=\"voc\">broker</mark>, noted that Mr Huang’s tendency to <mark class=\"voc\">keep “questionable company”</mark> and “willingness to lie to the board” remain troubling. Nvidia’s rockstar boss has his job back. His <mark class=\"voc\">mystique</mark> will be harder to recover.",
+   "zh": "黄仁勋的明星光环几乎肯定已经黯淡。那些曾经主动拉拢他的政界人士，很可能会在针对他的调查结束之前与他保持距离。整个行业也可能采取措施来分散风险。一位分析师认为，英伟达最大的芯片制造合作伙伴、芯片巨头台积电，将更加警惕对单一客户的过度依赖。那些过去因为担心被切断黄仁勋的芯片供应而避开英伟达竞争对手的云服务提供商，如今可能更愿意四处比较、寻找其他供应商。并非所有投资者都已经放下心来。券商伯恩斯坦的斯泰西·拉斯贡指出，黄仁勋倾向于与“值得怀疑的人交往”，以及他“愿意向董事会撒谎”的态度，依然令人担忧。英伟达那位摇滚明星般的老板夺回了自己的职位，但他曾经拥有的神秘光环，却没有那么容易恢复。",
+   "notes": [
+    {
+     "w": "dim",
+     "ipa": "/dɪm/",
+     "pos": "v.",
+     "en": "to become or make something less bright, strong or impressive",
+     "zh": "变暗；使暗淡；减弱；使失去光彩",
+     "ctx": "黄仁勋曾经耀眼的个人声望和影响力已经有所减弱",
+     "ex1": "Repeated failures gradually dimmed his enthusiasm for the project. 接连不断的失败逐渐削弱了他对这个项目的热情。",
+     "ex2": "The scandal dimmed the company's once brilliant reputation. 这场丑闻使该公司曾经辉煌的声誉黯然失色。"
+    },
+    {
+     "w": "court",
+     "ipa": "/kɔːt/",
+     "pos": "v.",
+     "en": "to try to gain someone's support, approval, attention or favour",
+     "zh": "争取；拉拢；讨好；追求",
+     "ctx": "政界人士过去主动接近黄仁勋，希望获得他的支持或建立有利的关系",
+     "ex1": "The company is actively courting international investors. 这家公司正在积极争取国际投资者的支持。",
+     "ex2": "Political leaders often court influential figures in the business community. 政治领导人经常主动拉拢商界有影响力的人物。"
+    },
+    {
+     "w": "keep one's distance",
+     "ipa": "/kiːp wʌnz ˈdɪstəns/",
+     "pos": "phr.",
+     "en": "to avoid becoming too closely involved with someone or something",
+     "zh": "保持距离；避免过于亲近；疏远",
+     "ctx": "政界人士可能在相关调查结束前避免与黄仁勋建立过于密切的联系",
+     "ex1": "Several business partners decided to keep their distance after the scandal. 丑闻发生后，几位商业伙伴决定与其保持距离。",
+     "ex2": "She prefers to keep her distance from unnecessary workplace conflicts. 她更愿意远离不必要的职场冲突。"
+    },
+    {
+     "w": "hedge one's bets",
+     "ipa": "/hedʒ wʌnz bets/",
+     "pos": "phr.",
+     "en": "to reduce the risk of failure or loss by keeping several different options available",
+     "zh": "分散风险；采取两手准备；避免孤注一掷",
+     "ctx": "人工智能行业的企业可能通过寻找其他合作伙伴来降低对英伟达的依赖风险",
+     "ex1": "The company is hedging its bets by investing in several different technologies. 该公司通过投资多种不同的技术来分散风险。",
+     "ex2": "Many investors hedge their bets by spreading their money across different industries. 许多投资者通过将资金分散到不同行业来降低风险。"
+    },
+    {
+     "w": "reckon",
+     "ipa": "/ˈrekən/",
+     "pos": "v.",
+     "en": "to think, believe or estimate that something is true or likely",
+     "zh": "认为；估计；判断；计算",
+     "ctx": "一位分析师判断台积电未来将更加谨慎地看待对英伟达的依赖",
+     "ex1": "Experts reckon that the recovery could take several years. 专家认为，经济复苏可能需要数年时间。",
+     "ex2": "I reckon the company needs to reconsider its current strategy. 我认为这家公司需要重新考虑目前的战略。"
+    },
+    {
+     "w": "shun",
+     "ipa": "/ʃʌn/",
+     "pos": "v.",
+     "en": "to deliberately avoid someone or something",
+     "zh": "刻意避开；回避；排斥；拒绝接触",
+     "ctx": "一些云服务提供商过去为了维持与英伟达的关系而刻意避免与其竞争对手合作",
+     "ex1": "Many investors shun companies with poor financial records. 许多投资者刻意避开财务记录不佳的企业。",
+     "ex2": "Consumers increasingly shun brands that fail to meet environmental standards. 消费者越来越倾向于避开不符合环保标准的品牌。"
+    },
+    {
+     "w": "for fear of",
+     "ipa": "/fə fɪər əv/",
+     "pos": "phr.",
+     "en": "because of being afraid that something unpleasant might happen",
+     "zh": "唯恐；生怕；由于担心……",
+     "ctx": "云服务提供商因为担心失去英伟达的芯片供应而避免与其竞争对手合作",
+     "ex1": "Some employees remain silent for fear of losing their jobs. 一些员工因为担心失去工作而保持沉默。",
+     "ex2": "The company delayed its expansion for fear of taking on too much debt. 该公司因为担心承担过多债务而推迟了扩张计划。"
+    },
+    {
+     "w": "shop around phr.",
+     "ipa": "/ʃɒp əˈraʊnd/",
+     "pos": "v.",
+     "en": "to compare different products, prices or suppliers before making a decision",
+     "zh": "货比三家；四处比较；寻找更合适的选择",
+     "ctx": "云服务提供商可能更加积极地比较其他芯片制造商的产品，并寻找替代供应商",
+     "ex1": "It is worth shopping around before choosing an insurance provider. 在选择保险服务商之前，值得货比三家。",
+     "ex2": "Businesses should shop around for suppliers that offer better prices and services. 企业应该多方比较，寻找能够提供更优惠价格和更好服务的供应商。"
+    },
+    {
+     "w": "broker",
+     "ipa": "/ˈbrəʊkə/",
+     "pos": "n.",
+     "en": "a person or company that arranges financial transactions or buys and sells investments on behalf of clients",
+     "zh": "经纪人；证券经纪商；券商；中介机构",
+     "ctx": "提供证券交易、投资研究等金融服务的伯恩斯坦公司",
+     "ex1": "The broker advised clients to diversify their investments. 这家券商建议客户进行多元化投资。",
+     "ex2": "She contacted a broker before making her first investment in the stock market. 在首次投资股票市场之前，她联系了一名证券经纪人。"
+    },
+    {
+     "w": "keep company",
+     "ipa": "/kiːp ˈkʌmpəni/",
+     "pos": "phr.",
+     "en": "to spend time with or regularly associate with particular people",
+     "zh": "与人交往；与人来往；与人结伴",
+     "ctx": "分析师对黄仁勋所交往的人及其私人社交关系表达担忧",
+     "ex1": "Parents sometimes worry about the company their children keep. 父母有时会担心孩子与什么样的人交往。",
+     "ex2": "He was criticized for keeping company with dishonest business associates. 他因与不诚实的商业伙伴交往而受到批评。"
+    },
+    {
+     "w": "mystique",
+     "ipa": "/mɪˈstiːk/",
+     "pos": "n.",
+     "en": "a special quality of mystery, fascination or admiration surrounding a person or thing",
+     "zh": "神秘感；神秘魅力；令人崇拜的光环",
+     "ctx": "黄仁勋曾经拥有的近乎传奇般的个人魅力、权威和令人崇拜的明星光环",
+     "ex1": "The founder's extraordinary success created an almost legendary mystique around him. 这位创始人的非凡成功为他营造了一种近乎传奇般的神秘光环。",
+     "ex2": "Once the truth was revealed, much of the brand's mystique disappeared. 真相被揭露后，这个品牌的大部分神秘魅力随之消失。"
+    }
+   ]
+  }
+ ],
+ "proper": [
+  {
+   "name": "Founder Comebacks in Silicon Valley / 硅谷的创始人回归现象",
+   "def": "在硅谷科技企业的发展历史中，创始人离开公司后重新掌权并不罕见。最著名的例子之一是乔布斯，他于1985年离开苹果公司，1997年重新担任公司领导者，并带领苹果走向复兴。这种现象反映出科技企业的价值有时不仅来自技术和产品，也来自创始人的个人魅力、战略眼光以及投资者对其未来愿景的信任。"
+  },
+  {
+   "name": "Sam Altman’s Ouster and Return / 山姆·奥尔特曼的“宫斗事件”",
+   "def": "2023年11月17日，OpenAI董事会突然宣布解除首席执行官山姆·奥尔特曼的职务，理由是他在与董事会沟通时未能始终保持坦诚。这一决定引发了公司内部的巨大震荡，微软等投资方表达关切，大批员工联名要求董事会辞职，并威胁离开公司。短短数天后，奥尔特曼便重新获得首席执行官职位。这场事件揭示了科技企业董事会的正式权力与创始人实际影响力之间的矛盾，也是本文开头用来进行对比的典型案例。"
+  },
+  {
+   "name": "Board of Directors vs. CEO / 董事会与首席执行官的权力关系",
+   "def": "董事会代表股东监督公司的经营管理，通常拥有任命和解雇首席执行官、审查重大经营决策以及监督企业风险的权力。CEO则负责公司的日常经营和战略执行。然而，当CEO 同时也是企业创始人，并拥有极高的个人声望时，董事会虽然在制度上拥有监督权，却可能在实际决策中受到员工、投资者和商业伙伴的压力。"
+  },
+  {
+   "name": "Market Capitalisation and Investor Confidence / 市值与投资者信心",
+   "def": "市值是指一家上市公司的股票总数乘以当前股价。市值蒸发一万亿美元，并不意味着公司的银行账户里真的少了一万亿美元，而是意味着资本市场对公司整体价值的估计下降了。文章通过黄仁勋离职和回归前后的股价变化，体现投资者对企业领导者个人能力的重视，也揭示了资本市场对未来预期的高度敏感性。"
+  },
+  {
+   "name": "US Chip Export Controls / 美国的芯片出口管制",
+   "def": "美国近年来不断加强对先进半导体及人工智能相关技术的出口限制，其公开政策理由主要涉及国家安全和军事技术风险。出口管制不仅可能限制某些芯片的直接销售，还可能涉及芯片制造设备、软件和相关技术服务。对于英伟达这样的全球化企业而言，出口管制意味着商业利益与国家安全政策之间存在长期冲突。"
+  },
+  {
+   "name": "Corporate Stakeholders / 科技企业的利益相关者",
+   "def": "企业的利益相关者不仅包括股东，还包括员工、客户、供应商、政府以及其他受到企业经营活动影响的群体。一个企业领导者即使重新获得董事会和股东的支持，也不意味着其他利益相关者会立即恢复对他的信任。本文第三段实际上为后文设置了三条主线：政治信任、内部员工信任以及商业合作伙伴的信任。"
+  },
+  {
+   "name": "Congressional Hearings / 美国国会听证会",
+   "def": "美国国会可以通过举行听证会，对政府政策、企业行为及社会重大事件展开调查和监督。大型科技公司的负责人经常被要求出席国会听证会，回答议员有关数据隐私、市场垄断、国家安全等问题。国会听证会并不等同于法院审判，但公开质询可能给企业领导者带来巨大的舆论压力，并推动后续立法或监管行动。"
+  },
+  {
+   "name": "The Two Houses of Congress / 美国国会的两院制度",
+   "def": "美国国会由参议院（Senate）和众议院（House of Representatives）组成。两院均拥有立法和监督职能，但在具体权力和议事程序上有所不同。当一个政党同时控制两院时，通常能够更有力地推动其立法议程，并通过委员会组织调查和听证会。因此，国会控制权的变化可能直接影响大型科技企业所面临的政治环境。"
+  },
+  {
+   "name": "The US Cabinet / 美国总统内阁",
+   "def": "美国总统内阁由各主要联邦行政部门的负责人及部分其他高级官员组成，其主要职责是向总统提供政策建议并负责相关行政事务。总统与内阁成员并不一定在所有问题上保持一致。例如，经济部门可能更加关注企业竞争力、就业和金融市场稳定，而外交及国家安全部门可能更加重视地缘政治和技术安全风险。"
+  },
+  {
+   "name": "Scott Bessent / 斯科特·⻉森特",
+   "def": "斯科特·⻉森特拥有长期的金融投资和资产管理从业经历，曾在索罗斯基金管理公司担任重要职务，后来创立自己的投资管理公司。2025年，他出任美国财政部长。财政部长主要负责联邦财政、税收、国债、金融政策以及部分经济制裁事务。文章中⻉森特对英伟达领导层的态度变化，体现了政府内部在企业治理、市场稳定与国家利益之间可能存在的不同考量。"
+  },
+  {
+   "name": "Marco Rubio / 马尔科·卢比奥",
+   "def": "马尔科·卢比奥曾长期担任美国联邦参议员，并于2025年出任美国国务卿。国务卿是美国负责外交事务的重要政府官员，主要职责包括执行外交政策、处理国际关系以及维护美国在海外的利益。卢比奥长期关注美国的国家安全和国际竞争问题。根据本文的叙述，他在涉及黄仁勋的情报备忘录事件中扮演了重要角色，这也使事件超出了单纯企业管理和个人私生活的范畴。"
+  },
+  {
+   "name": "Department of Commerce and BIS / 美国商务部与工业和安全局",
+   "def": "美国商务部负责促进商业发展、经济增长和国际贸易，其下属的工业和安全局（Bureau of Industry and Security，简称BIS）是负责执行美国出口管制的重要机构。该机构可以通过出口许可证、实体清单及相关技术限制措施，对特定商品和技术的跨境流动进行监管。先进半导体出口政策是其近年来受到广泛关注的工作领域之一。"
+  },
+  {
+   "name": "Chip Rental and Cross-border Computing Power / 芯片租赁与跨境算力",
+   "def": "企业使用先进人工智能芯片，并不一定需要直接购买实体芯片。它们也可以通过互联网向海外数据中心租用计算资源，远程完成模型训练、数据处理和人工智能推理。这意味着，即使实体芯片的跨境销售受到限制，相关企业仍可能通过云计算服务获得算力。文章提到的新规，反映了出口管制从关注实体硬件交易向关注计算资源使用权限延伸的政策思路。"
+  },
+  {
+   "name": "Power Imbalance in the Workplace / 职场权力不对等",
+   "def": "当企业高管与下属发生私人亲密关系时，双方之间的权力差距可能引发一系列企业治理问题，包括利益冲突、晋升公平性以及其他员工是否受到不公平待遇等。即使私人关系本身是双方自愿的，企业也可能要求相关人员主动申报，以避免管理权力与私人利益发生冲突。本文提到的相关婚外情属于报道中的指称，不应直接视为已经证实的事实。"
+  },
+  {
+   "name": "High-pressure Management Culture / 高压管理文化",
+   "def": "硅谷部分科技企业以高强度工作、高绩效要求和激烈的内部竞争而闻名。一些企业领导者认为，严格要求和持续施压能够激发员工的潜力，但这种管理方式也可能导致职业倦怠、心理压力以及员工流失。管理学中的一个重要概念是心理安全感（psychological safety），即员工能够在不担心遭受羞辱或惩罚的情况下提出问题、承认错误和表达不同意见。本文中有关黄仁勋管理行为的具体指控，已受到其发言人的质疑。"
+  },
+  {
+   "name": "Key Person Risk and Succession Planning / 关键人物风险与接班人计划",
+   "def": "关键人物风险是指一家企业过度依赖某位创始人、高管或核心技术人员，一旦此人离职、患病或陷入危机，企业的经营和市场价值便可能受到严重影响。为了降低这种风险，成熟企业通常会制定接班人计划，提前培养能够承担核心领导职责的人选。文章提到黄仁勋拥有约60 名直属下属，却没有明确的接班人，正是为了突出这种高度集中化的管理模式可能带来的风险。"
+  },
+  {
+   "name": "Independent Directors and Corporate Compliance / 独立董事与企业合规",
+   "def": "独立董事通常不参与公司的日常经营管理，并且不应存在可能影响其独立判断的重大利益关系。他们的重要职责之一是监督管理层、保护股东利益以及审查企业风险。企业合规则是指公司经营活动必须符合相关法律、监管规定和内部制度。文章中提到的独立董事委员会，体现了董事会试图通过制度化监督来约束管理层权力、降低国家安全及贸易合规风险的做法。"
+  },
+  {
+   "name": "TSMC and Nvidia / 台积电与英伟达的商业关系",
+   "def": "英伟达采用无晶圆厂商业模式（fabless business model），即主要负责芯片设计，而将芯片制造交给专业的半导体代工企业。台积电是全球重要的先进半导体代工企业，也是英伟达的重要制造合作伙伴。这种分工模式能够让双方集中资源发展各自的核心优势，但也会形成相互依赖关系。当一家企业过度依赖单一客户或供应商时，合作伙伴的经营危机就可能沿着整个产业链传导。因此，供应链多元化也是企业降低商业风险的重要方式。"
+  },
+  {
+   "name": "Founder Worship and Charismatic Authority / 创始人崇拜与魅力型权威",
+   "def": "德国社会学家马克斯·韦伯曾提出“魅力型权威”（charismatic authority）的概念，即一个人的权威来自追随者对其非凡能力、个人魅力和领导才能的信任。在现代科技行业，乔布斯等明星企业家身上都可以看到类似现象。投资者相信他们能够预见未来，员工相信他们能够创造奇迹，商业伙伴则希望借助他们的影响力获得发展机会。然而，这种建立在个人魅力之上的权威也十分脆弱。一旦公众对领导者的信任发生动摇，即使其重新获得正式职位，也未必能够重新获得曾经的崇拜与追随。这正是本文最后一句所表达的深层含义。"
+  }
+ ],
+ "sources_note": "依据《经济学人》2026-11-25 报道。",
+ "practice": {
+  "intro": "",
+  "items": [],
+  "critical_en": "",
+  "critical_zh": "",
+  "answer": "",
+  "exercise_verbatim": "请根据今天学习的文章，用 80–100个英文单词复述文章内容。<br><br>1. 黄仁勋为什么辞职？英伟达董事会又作出了怎样令人意外的决定？<br>（resign, affair, reinstate, board）<br>2. 黄仁勋复职后，面临怎样的政治压力和出口管制挑战？<br>（Congress, investigation, export controls, tighten）<br>3. 近期的丑闻给英伟达内部带来了哪些问题？<br>（internal fallout, subordinate, humiliation, trust）<br>4. 为什么一些员工担心英伟达对黄仁勋个人的过度依赖？<br>（dependence, direct reports, successor, scrutiny）<br>5. 黄仁勋曾经拥有怎样的行业影响力？为什么如今恢复这种影响力变得更加困难？<br>（orchestrator, blessing, wary, mystique, regain）<br><br>思考题<br>Is it more dangerous for a company to lose a great leader or to become too dependent on<br>one?<br>对于一家企业而言，失去一位卓越的领导者和过度依赖一位领导者，哪一种情况更加危险？<br>请结合今天的文章内容以及自己的理解，用50–80个英文单词表达你的观点。",
+  "answer_verbatim": "参考答案：<br><br>Jensen Huang was reinstated as Nvidia’s chief executive just 12 days after resigning over a series of affairs. Although investors welcomed his return, he still faces investigations from Congress and tougher export controls. Inside Nvidia, allegations about his management methods have raised concerns about employee trust. Some employees also worry about the company’s dependence on him, as he has no obvious successor. Meanwhile, business partners may become more cautious and seek alternative suppliers. Although Huang has regained his position, recovering his reputation, influence and former mystique will be much more difficult.<br>黄仁勋在因一系列婚外情辞职仅12天后，便重新担任英伟达的首席执行官。尽管投资者欢迎他的回归，但他仍然面临国会的调查以及更加严格的出口管制。在英伟达内部，有关其管理方式的指控引发了人们对员工信任问题的担忧。一些员工也担心公司对他的依赖，因为他并没有明确的接班人。与此同时，商业合作伙伴可能会变得更加谨慎，并寻找其他供应商。尽管黄仁勋已经重新获得了自己的职位，但恢复他的声誉、影响力以及曾经的传奇光环将更加困难。<br><br>思考题参考答案（选做）<br>I believe becoming too dependent on one leader is more dangerous. A great leader can bring vision, innovation and confidence to a company. However, if the entire business depends on a single person, any personal crisis can become a corporate crisis. A truly successful company should develop strong management systems and prepare future leaders. Great leadership should make an organization stronger, not make it unable to survive without its leader.<br>中文翻译：<br>我认为，过度依赖一位领导者更加危险。一位卓越的领导者能够为企业带来远见、创新和信心。然而，如果整个企业都依赖于一个人，那么任何个人危机都可能演变成企业危机。一家真正成功的企业应该建立健全的管理体系，并培养未来的领导者。卓越的领导力应该让一个组织变得更加强大，而不是让这个组织在失去领导者之后便无法生存。"
+ },
+ "mindmap": {
+  "aria": "",
+  "alt": "",
+  "svg": "",
+  "img": ""
+ },
+ "audio": true,
+ "audio_dir": "audio/2026-11-25-003"
+}

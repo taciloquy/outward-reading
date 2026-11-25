@@ -1,0 +1,1466 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Jensen Huang returns. But Nvidia will never be the same —— 英国《经济学人》外刊讲解第1239天</title>
+<style>
+/* ========== 全局变量：改这里即可换配色 ========== */
+:root{
+  --bg: #f7f5f0;
+  --paper: #ffffff;
+  --paper-trans: #f0ede6;
+  --ink: #3d3a34;
+  --ink-light: #8a857c;
+  --accent: #6b8f71;
+  --accent-light: #e6efe7;
+  --line: #e2ddd3;
+  --hl: #f5e6a8;
+  --voc: #eef3d8;          /* 正文中「有注释的单词」底色 */
+  --voc-line: #c3d19b;
+  --radius: 10px;
+  --side-w: clamp(288px,30%,404px); /* 侧栏宽度 */
+  --header-h: 116px;       /* 顶部固定栏高度，JS 会实时校准 */
+}
+*{box-sizing:border-box;margin:0;padding:0}
+html{scroll-behavior:smooth}
+body{
+  background:var(--bg); color:var(--ink);
+  font-family:-apple-system,BlinkMacSystemFont,"PingFang SC","Hiragino Sans GB","Microsoft YaHei",sans-serif;
+  line-height:1.75;
+}
+.en, .mono{font-family:Menlo, Monaco, "Courier New", monospace}
+
+/* ========== 页面头部 ========== */
+/* 顶部标题栏：固定在页面顶端，滚动时不动 */
+header{
+  position:sticky; top:0; z-index:60;
+  max-width:1400px;margin:0 auto;
+  padding:0 clamp(36px,5vw,80px); /* header-gutter-v5：可见栏占满内容区整宽，左缘对正文、右缘对查询面板 */
+}
+.head-inner{
+  max-width:100%;
+  padding:14px 20px 12px; /* header-inner-gutter-v1：与 headline 卡片内边距对齐，页头两头不顶格 */
+  background:rgba(255,255,255,.95);
+  -webkit-backdrop-filter:saturate(180%) blur(10px);
+  backdrop-filter:saturate(180%) blur(10px);
+  border-bottom:1px solid var(--line);
+}
+.meta-row{display:flex;flex-wrap:wrap;gap:14px;align-items:baseline}
+h1{font-size:22px;font-weight:700}
+.meta{color:var(--ink-light);font-size:13px}
+.meta span{margin-right:14px}
+.tool-row{display:flex;align-items:center;gap:10px;margin-top:10px}
+.anchors{display:flex;flex-wrap:wrap;gap:8px;flex:1;min-width:0}
+.anchors a{
+  text-decoration:none;font-size:13px;color:var(--accent);
+  background:var(--accent-light);padding:4px 12px;border-radius:999px;
+}
+.anchors a:hover{filter:brightness(.96)}
+
+/* ========== 左右分栏 ========== */
+.layout{
+  display:flex;gap:24px;align-items:flex-start;
+  max-width:1400px;margin:0 auto;padding:24px clamp(36px,5vw,80px);
+}
+.main{flex:7;min-width:0}
+/* 右侧面板：固定悬浮，高度不超一屏 */
+.side{
+  flex:0 0 var(--side-w);min-width:0;
+  position:sticky; top:calc(var(--header-h) + 12px);
+  height:calc(100vh - var(--header-h) - 24px);
+  display:flex;
+}
+
+/* ========== 左侧主阅读区 ========== */
+.mindmap{
+  background:var(--paper);border:1px solid var(--line);border-radius:var(--radius);
+  padding:14px 14px 16px;color:var(--ink-light);font-size:14px;margin-bottom:24px;
+}
+.mindmap img{max-width:100%;border-radius:8px}
+/* 导图双版本切换 */
+.mm-switch{display:flex;justify-content:flex-end;gap:8px;margin-bottom:10px}
+.mm-btn{
+  font-size:13.5px;padding:4px 14px;border-radius:999px;cursor:pointer;
+  border:1px solid var(--line);background:var(--bg);color:var(--ink-light);
+}
+.mm-btn:hover{border-color:var(--accent)}
+.mm-btn.active{background:var(--accent-light);border-color:var(--accent);color:var(--accent);font-weight:600}
+.mm-view img{width:100%;display:block;border-radius:8px}
+/* 矢量导图交互：分支可点击折叠 */
+.mm-branch rect,.mm-branch text,.mm-arrow{cursor:pointer}
+.mm-branch:hover rect{stroke-width:2.5}
+.mm-children.collapsed{display:none}
+.mm-arrow{font-size:12.5px;user-select:none}
+
+.headline-block{
+  background:var(--paper);border:1px solid var(--line);border-radius:var(--radius);
+  padding:18px 20px;margin-bottom:22px;
+}
+.headline-en{font-size:19.5px;font-weight:700;line-height:1.6;font-family:-apple-system,BlinkMacSystemFont,"PingFang SC","Hiragino Sans GB","Microsoft YaHei",sans-serif}
+.headline-sub{display:block;font-size:15px;font-weight:400;color:var(--ink-light);margin-top:6px}
+
+.paragraph{
+  background:var(--paper);border:1px solid var(--line);border-radius:var(--radius);
+  padding:18px 20px;margin-bottom:22px;
+}
+.p-label{
+  font-size:12.5px;color:var(--ink-light);letter-spacing:.08em;
+  margin-bottom:8px;text-transform:uppercase;
+}
+.en-block{
+  background:var(--paper);border-radius:6px;padding:4px 0;
+  font-size:17px;line-height:1.9;white-space:pre-wrap;
+}
+.zh-block{
+  background:var(--paper-trans);border-radius:8px;padding:12px 16px;
+  margin-top:10px;font-size:15.5px;color:#55524b;white-space:pre-wrap;
+}
+mark.hl{background:var(--hl);border-radius:3px;padding:0 1px}
+/* 正文中「有注释的单词」：淡绿底 + 虚线下划线，点击跳到该词注释 */
+mark.voc{
+  background:var(--voc);border-bottom:1px dashed var(--voc-line);
+  border-radius:3px;padding:0 1px;cursor:pointer;color:inherit;
+}
+mark.voc:hover{background:#e0eabf;border-bottom-color:var(--accent)}
+.note-item.flash{background:#fdf6db;border-radius:6px;box-shadow:0 0 0 6px #fdf6db}
+
+/* —— 本段注释组（默认收起） —— */
+.notes-toggle{
+  margin-top:12px;font-size:13.5px;color:var(--accent);background:none;
+  border:1px solid var(--accent);border-radius:6px;padding:4px 12px;cursor:pointer;
+}
+.notes-group{display:none;margin-top:10px;border-top:1px dashed var(--line);padding-top:10px}
+.notes-group.open{display:block}
+.note-item{font-size:15px;margin-bottom:14px;line-height:1.8}
+.note-item b{color:var(--accent)}
+
+/* 锚点跳转补偿：不被固定标题栏挡住 */
+.paragraph,.headline-block,#practice,#main-reading,.mindmap,#side-panel{
+  scroll-margin-top:calc(var(--header-h) + 16px);
+}
+
+/* ========== 右侧查询面板（固定悬浮 + 分页） ========== */
+.side-inner{
+  background:var(--paper);border:1px solid var(--line);border-radius:var(--radius);
+  padding:14px;display:flex;flex-direction:column;width:100%;height:100%;overflow:hidden;
+}
+.side-head{display:flex;justify-content:space-between;align-items:center;margin-bottom:10px;flex:none}
+.side-head h2{font-size:15px}
+.side-collapse{font-size:12px;color:var(--accent);background:var(--accent-light);border:none;border-radius:6px;padding:4px 10px;cursor:pointer}
+.side-body{display:flex;flex-direction:column;flex:1;min-height:0}
+.side-body.hidden{display:none}
+
+.search-box{margin-bottom:10px;flex:none}
+.search-box input{
+  width:100%;border:1px solid var(--line);border-radius:8px;
+  padding:9px 12px;font-size:15.5px;background:var(--bg);color:var(--ink);
+}
+.search-box input:focus{outline:2px solid var(--accent-light);border-color:var(--accent)}
+.search-result{font-size:13.5px;color:var(--ink-light);margin-top:6px;line-height:1.9}
+.search-result a{color:var(--accent);text-decoration:none;margin-right:10px}
+
+/* 分页内容区：只有这一块滚动，搜索框与分页按钮固定 */
+.tab-panes{flex:1;min-height:0;overflow-y:auto;overflow-x:hidden;padding-right:2px}
+.tab-pane{display:none}
+.tab-pane.active{display:block}
+.tab-list{display:flex;flex-direction:column}
+.row{padding:7px 8px;border-radius:7px;border-bottom:1px solid var(--bg)}
+.row.row-hit{background:var(--hl)}
+.row:hover{background:#faf8f3}
+.row-top{display:flex;align-items:baseline;gap:7px;flex-wrap:wrap}
+.row-top .w{font-weight:700;font-size:15px;color:var(--ink)}
+.row-top .ph{font-size:12.5px;color:var(--ink-light)}
+.row-top .src{
+  margin-left:auto;font-size:11.5px;color:var(--accent);text-decoration:none;
+  background:var(--accent-light);padding:1px 7px;border-radius:5px;white-space:nowrap;
+}
+.row .def{font-size:13.5px;color:#55524b;line-height:1.76;margin-top:4px}
+.row .def.role{color:var(--ink-light);border-left:2px solid var(--accent-light);padding-left:8px;margin-top:6px}
+
+/* 段落导航（第 3 页） */
+.p-nav{display:flex;flex-direction:column;gap:2px}
+.p-nav a{
+  display:block;padding:7px 10px;border-radius:6px;text-decoration:none;
+  color:var(--ink);font-size:14px;border-left:2px solid transparent;
+}
+.p-nav a:hover{background:var(--accent-light);border-left-color:var(--accent)}
+.p-nav a.sub{font-size:13.5px;color:var(--ink-light);padding-left:22px}
+.p-nav a .hint{display:block;font-size:12px;color:var(--ink-light);margin-top:1px;font-family:Menlo,monospace}
+
+/* 底部分页按钮 1 / 2 / 3 */
+.tab-bar{
+  flex:none;display:flex;gap:6px;margin-top:10px;padding-top:10px;
+  border-top:1px solid var(--line);
+}
+.tab-btn{
+  flex:1;font-size:12.5px;padding:8px 4px;border-radius:7px;cursor:pointer;
+  border:1px solid var(--line);background:var(--bg);color:var(--ink-light);
+  font-family:inherit;white-space:nowrap;
+}
+.tab-btn:hover{border-color:var(--accent);color:var(--accent)}
+.tab-btn.active{background:var(--accent-light);border-color:var(--accent);color:var(--accent);font-weight:600}
+
+/* ========== 底部：翻译练习 ========== */
+.practice{
+  max-width:1400px;margin:0 auto;padding:0 clamp(36px,5vw,80px) 40px;
+}
+.practice h2{font-size:18px;margin-bottom:12px}
+.fold{
+  background:var(--paper);border:1px solid var(--line);border-radius:var(--radius);
+  margin-bottom:12px;overflow:hidden;
+}
+.fold-head{
+  width:100%;text-align:left;background:none;border:none;cursor:pointer;
+  padding:12px 18px;font-size:14.5px;font-weight:600;color:var(--ink);
+  display:flex;justify-content:space-between;align-items:center;
+}
+.fold-body{display:none;padding:0 18px 16px;font-size:14.5px;white-space:pre-wrap}
+.fold.open .fold-body{display:block}
+.fold.open .fold-head .arrow{transform:rotate(90deg)}
+.fold-head .arrow{color:var(--ink-light);font-size:12px;transition:transform .2s}
+
+/* ========== 移动端自适应 ========== */
+@media (max-width:767px){
+  header{padding:0 clamp(24px,5.5vw,40px)}
+  header .head-inner{max-width:none}
+  .layout{flex-direction:column}
+  .main{flex:none;width:100%}
+  /* 窄屏：面板下沉页面底部，不再固定高度 */
+  .side{flex:none;width:100%;position:static;order:2;height:auto;display:block}
+  .side-inner{height:auto}
+  .tab-panes{max-height:56vh}
+  .practice{order:3}
+  header{padding:12px clamp(24px,5.5vw,40px) 10px}
+  .layout,.practice{padding-left:clamp(24px,5.5vw,40px);padding-right:clamp(24px,5.5vw,40px)}
+}
+
+/* ========== 手机（≤700px）：头部不再固定，压缩高度，把屏幕留给正文 ========== */
+@media (max-width:700px){
+  header{position:static;padding:12px clamp(24px,5.5vw,40px) 10px}
+  h1{font-size:17px;line-height:1.45}
+  .meta-row{display:block}
+  .meta{font-size:12px;margin-top:5px}
+  .meta span{margin-right:10px}
+  .tool-row{margin-top:8px;gap:8px}
+  .anchors{flex-wrap:nowrap;overflow-x:auto;gap:6px;padding-bottom:2px;-webkit-overflow-scrolling:touch}
+  .anchors::-webkit-scrollbar{display:none}
+  .anchors a{flex:none;font-size:12.5px;padding:4px 10px}
+  .print-btn{font-size:15px;padding:5px 9px;border-radius:999px}
+  .paragraph,.headline-block,#practice,#main-reading,.mindmap,#side-panel{scroll-margin-top:10px}
+  .layout{padding-top:14px}
+  .mindmap{padding:10px;margin-bottom:16px}
+  .paragraph,.headline-block{padding:14px}
+  header .head-inner{padding:14px}
+}
+
+/* ========== 打印按钮（屏幕显示） ========== */
+.print-btn{
+  flex:none;
+  border:1px solid var(--line);background:var(--paper);color:var(--ink-light);
+  font-size:15px;line-height:1;border-radius:8px;padding:6px 10px;cursor:pointer;
+  font-family:inherit;white-space:nowrap;
+}
+.print-btn:hover{color:var(--accent);border-color:var(--accent)}
+
+/* ========== 打印提示条：手机 / 微信内兜底 ========== */
+.print-tip{
+  position:fixed;left:50%;bottom:calc(18px + env(safe-area-inset-bottom));
+  transform:translate(-50%,10px);
+  max-width:min(92vw,460px);width:max-content;
+  background:rgba(28,32,38,.94);color:#f5f2ec;
+  font-size:13px;line-height:1.6;letter-spacing:.01em;
+  padding:10px 14px;border-radius:12px;
+  box-shadow:0 8px 24px rgba(0,0,0,.22);
+  z-index:9999;opacity:0;pointer-events:none;
+  transition:opacity .25s ease,transform .25s ease;
+  text-align:center;
+}
+.print-tip.show{opacity:1;transform:translate(-50%,0)}
+
+/* ========== 打印引导卡片：iPhone / 微信内 ========== */
+.pg-mask{
+  position:fixed;inset:0;z-index:10000;
+  background:rgba(28,24,20,.44);
+  display:flex;align-items:flex-end;justify-content:center;
+  opacity:0;transition:opacity .22s ease;
+}
+.pg-mask.show{opacity:1}
+.pg-card{
+  width:100%;max-width:480px;
+  background:var(--paper,#fbf8f2);color:var(--ink,#2b2622);
+  border-radius:18px 18px 0 0;
+  padding:20px 20px calc(20px + env(safe-area-inset-bottom));
+  box-shadow:0 -10px 34px rgba(0,0,0,.2);
+  transform:translateY(16px);transition:transform .26s ease;
+  font-family:-apple-system,'PingFang SC','Hiragino Sans GB','Microsoft YaHei',sans-serif;
+}
+.pg-mask.show .pg-card{transform:translateY(0)}
+.pg-card h3{margin:0 0 6px;font-size:16px;font-weight:600;letter-spacing:.01em}
+.pg-card p{margin:0 0 12px;font-size:13px;line-height:1.7;color:var(--ink-light,#6b6259)}
+.pg-card ol{margin:0 0 16px;padding-left:20px;font-size:13.5px;line-height:1.85}
+.pg-card ol li{margin-bottom:2px}
+.pg-acts{display:flex;gap:10px}
+.pg-acts button{
+  flex:1;font-size:14px;padding:11px 0;border-radius:10px;cursor:pointer;
+  font-family:inherit;-webkit-tap-highlight-color:transparent;
+}
+.pg-primary{border:1px solid var(--accent,#8a6b4f);background:var(--accent,#8a6b4f);color:#fff}
+.pg-ghost{border:1px solid var(--line,#e2dad0);background:transparent;color:var(--ink-light,#6b6259)}
+@media print{.print-tip{display:none !important}.pg-mask{display:none !important}}
+
+/* ========== 打印样式：A4，仅标题 + 英文正文（v3 / Safari 兼容） ========== */
+@page{size:A4 portrait;margin:14mm 13mm}
+
+@media print{
+  html,body{
+    width:auto !important;max-width:none !important;
+    margin:0 !important;padding:0 !important;
+    background:#fff !important;color:#111 !important;
+    -webkit-text-size-adjust:100% !important;text-size-adjust:100% !important;
+  }
+  /* 一律不打印：导航 / 元信息 / 按钮 / 导图 / 侧栏 / 译文 / 注释 / 练习 / 提示层 */
+  .anchors,.meta,.tool-row,.print-btn,.mindmap,.side,.practice,
+  .zh-block,.notes-toggle,.notes-group,.mm-switch,
+  .print-tip,.pg-mask{display:none !important}
+  .meta-row{display:block !important;margin:0 !important}
+  header{
+    position:static !important;display:block !important;
+    background:#fff !important;border:none !important;box-shadow:none !important;
+    padding:0 0 6pt !important;margin:0 !important;
+  }
+  h1{font-size:17pt !important;line-height:1.35 !important;margin:0 0 5pt !important;color:#111 !important}
+  .layout{
+    display:block !important;max-width:none !important;
+    padding:0 !important;margin:0 !important;gap:0 !important;
+  }
+  .main,main{width:100% !important;max-width:none !important;flex:none !important;min-width:0 !important}
+  .paragraph,.headline-block{
+    background:#fff !important;border:none !important;border-radius:0 !important;
+    box-shadow:none !important;padding:0 !important;margin:0 0 8pt !important;
+  }
+  .p-label{font-size:8.5pt !important;color:#777 !important;letter-spacing:.06em !important;margin:0 0 3pt !important}
+  .en-block{
+    background:#fff !important;border:none !important;border-left:2px solid #ccc !important;
+    border-radius:0 !important;box-shadow:none !important;
+    padding:1pt 0 1pt 8pt !important;
+    font-size:10pt !important;line-height:1.55 !important;color:#111 !important;
+  }
+  mark.voc{
+    background:transparent !important;border-bottom:none !important;
+    padding:0 !important;color:inherit !important;font-weight:600 !important;
+  }
+  .headline-en{font-size:12pt !important;line-height:1.45 !important;color:#111 !important}
+  .headline-sub{font-size:9.5pt !important;color:#444 !important;font-style:italic !important;margin-top:3pt !important}
+  h2,h3{page-break-after:avoid}
+  a{color:#111 !important;text-decoration:none !important}
+}
+
+/* 紧凑打印：段落数较多（≥11）时启用，把打印从 3 页压回 2 页，只改间距不改内容 */
+@media print{
+  body.print-compact .paragraph,body.print-compact .headline-block{margin:0 0 4pt !important}
+  body.print-compact .p-label{margin:0 0 2pt !important}
+  body.print-compact .en-block{line-height:1.44 !important;padding:1pt 0 1pt 7pt !important}
+  body.print-compact h1{margin:0 0 4pt !important}
+}
+
+
+/* ========== 打印视图兜底：body.print-sheet（普通规则，任何 WebKit 都生效） ========== */
+body.print-sheet{background:#fff !important;margin:0 !important;padding:0 !important}
+body.print-sheet .layout{display:block !important}
+body.print-sheet .side,body.print-sheet .mindmap,body.print-sheet .practice,
+body.print-sheet .zh-block,body.print-sheet .notes-toggle,body.print-sheet .notes-group,
+body.print-sheet .mm-switch,body.print-sheet .anchors,body.print-sheet .tool-row,
+body.print-sheet .meta,body.print-sheet .print-tip,body.print-sheet .pg-mask{display:none !important}
+body.print-sheet .meta-row{display:block !important}
+body.print-sheet .main{width:100% !important;max-width:100% !important;margin:0 !important;padding:0 !important}
+body.print-sheet header,body.print-sheet .headline-block{background:none !important;border:none !important;box-shadow:none !important;padding:0 0 5pt !important;margin:0 0 8pt !important}
+body.print-sheet .paragraph{background:none !important;border:none !important;border-radius:0 !important;box-shadow:none !important;padding:0 0 8pt !important;color:#000 !important}
+body.print-sheet .paragraph .en-block{font-size:10pt !important;line-height:1.55 !important;color:#000 !important}
+body.print-sheet mark,body.print-sheet mark.voc{background:none !important;color:inherit !important}
+body.print-sheet .p-label{color:#555 !important}
+
+/* 打印分页控制：段落序号 / 标题不孤悬页底 */
+.p-label{break-after:avoid !important;page-break-after:avoid !important}
+h1,.headline-block{break-after:avoid !important;page-break-after:avoid !important}
+
+/* 返回日历入口：文章页独立打开时（首页点击直达），顶部提供回日历链接 */
+.back-cal{display:inline-block;font-size:13px;color:#4a6fa5;text-decoration:none;padding:0 0 8px}
+.back-cal:hover{color:#2c4a7c}
+.back-cal:active{opacity:.55}
+/* 上一篇 / 下一篇 跳转 */
+.seq-nav{display:flex;gap:14px;margin:2px 0 8px;font-size:13px;flex-wrap:wrap}
+.seq-nav a{display:inline-flex;flex-direction:column;max-width:48%;text-decoration:none;color:#4a6fa5;padding:5px 12px;border:1px solid #d8e0ec;border-radius:9px;background:#f7f9fc;transition:.15s}
+.seq-nav a:hover{color:#2c4a7c;border-color:#9fb6d6;background:#eef3fa}
+.seq-nav .seq-l{font-weight:600;font-size:12px;color:#6b7d97;letter-spacing:.5px}
+.seq-nav .seq-t{font-size:13px;color:#33475f;white-space:nowrap;overflow:hidden;text-overflow:ellipsis;max-width:100%;margin-top:1px}
+.seq-nav .seq-next{text-align:right;align-items:flex-end;margin-left:auto}
+@media print{.back-cal,.seq-nav{display:none !important}}
+body.print-sheet .back-cal,body.print-sheet .seq-nav{display:none !important}
+
+/* ===== print-hardened-v1：WebKit / Safari 打印分页加固，勿删 ===== */
+@media print{
+  html,body{height:auto !important;min-height:0 !important;overflow:visible !important}
+  /* 非正文块彻底移出流：固定定位 / 视口高元素是 Safari 空白页的头号来源 */
+  .side,.mindmap,.mm-switch,.mm-legend,.practice,.anchors,.tool-row,.meta,
+  .zh-block,.notes-toggle,.notes-group,.print-tip,.pg-mask,.back-cal,.print-btn{
+    display:none !important;position:static !important;
+    height:0 !important;min-height:0 !important;max-height:0 !important;
+    margin:0 !important;padding:0 !important;border:0 !important;
+    overflow:hidden !important;
+  }
+  /* flex 容器分页在 WebKit 上不可靠，一律摊成块级文档流 */
+  .layout,.main,main,.paragraph,.headline-block,header,section,.en-block{
+    display:block !important;float:none !important;
+    width:auto !important;max-width:none !important;
+  }
+  header{
+    position:static !important;
+    -webkit-backdrop-filter:none !important;backdrop-filter:none !important;
+  }
+  header .head-inner{
+    position:static !important;max-width:none !important;margin:0 !important;padding:0 !important;
+    background:none !important;border:0 !important;
+    -webkit-backdrop-filter:none !important;backdrop-filter:none !important;
+  }
+  /* 分页控制：只留低风险的 avoid，高块不 avoid */
+  h1{break-after:avoid !important;page-break-after:avoid !important}
+  .headline-block{break-after:auto !important;page-break-after:auto !important;
+                   break-inside:auto !important;page-break-inside:auto !important}
+  .paragraph,.en-block{break-inside:auto !important;page-break-inside:auto !important}
+  .p-label{break-after:avoid !important;page-break-after:avoid !important}
+  p{orphans:2 !important;widows:2 !important}
+}
+body.print-sheet header{position:static !important;
+  -webkit-backdrop-filter:none !important;backdrop-filter:none !important}
+body.print-sheet .head-inner{background:none!important;border:0!important;padding:0!important;max-width:none!important}
+body.print-sheet .layout,body.print-sheet .main{display:block !important}
+/* ========== 右侧查询面板：宽屏默认收成竖条，点击展开（side-rail-v1） ========== */
+/* 平板（768–1080）：展开态是右侧抽屉浮层，正文宽度不变、不重排，只盖住右侧一小条 */
+@media (min-width:768px) and (max-width:1080px){
+  body:not(.side-collapsed) .side{
+    position:fixed;z-index:70;right:12px;
+    top:calc(var(--header-h) + 12px);
+    width:min(360px,64vw);height:calc(100vh - var(--header-h) - 24px);
+    flex:none;min-width:0;
+  }
+  body:not(.side-collapsed) .side-inner{
+    box-shadow:0 16px 40px rgba(24,25,28,.22),0 2px 8px rgba(24,25,28,.10);
+  }
+  body:not(.side-collapsed) .side-collapse{font-size:12.5px;padding:4px 8px}
+  header .head-inner{max-width:none}
+}
+@media (min-width:768px){
+  body.side-collapsed .layout{gap:14px}
+  body.side-collapsed .side{flex:0 0 60px;width:60px;min-width:0;height:auto}
+  body.side-collapsed .side-inner{
+    background:transparent;border:0;padding:0;height:auto;display:block;overflow:visible;
+  }
+  body.side-collapsed .side-head{margin:0;padding:0;display:block}
+  body.side-collapsed .side-head h2{display:none}
+  body.side-collapsed .side-collapse{
+    writing-mode:vertical-rl;-webkit-writing-mode:vertical-rl;
+    display:block;margin:0 auto;width:38px;height:auto;padding:18px 0;
+    border-radius:999px;border:1px solid var(--line);
+    background:var(--accent-light);color:var(--accent);
+    font-size:13px;letter-spacing:.2em;line-height:1;
+  }
+  body.side-collapsed .side-collapse:hover{border-color:var(--accent);filter:brightness(.98)}
+  body.side-collapsed .side-body{display:none}
+}
+/* ===== 逐段朗读 para-audio-v3 ===== */
+.p-label{display:flex;align-items:center;gap:8px}
+.p-label .p-label-text{flex:none}
+.p-audio{appearance:none;border:none;background:transparent;cursor:pointer;
+  padding:3px;line-height:0;color:var(--ink-light);border-radius:6px;
+  transition:color .15s,background .15s}
+.p-audio:hover{color:#0F6E56;background:rgba(15,110,86,.08)}
+.p-audio:focus-visible{outline:2px solid #0F6E56;outline-offset:1px}
+.p-audio svg{width:16px;height:16px;display:block}
+.p-audio .pa-w1,.p-audio .pa-w2{opacity:.45;transition:opacity .15s}
+.p-audio:hover .pa-w1,.p-audio:hover .pa-w2{opacity:.75}
+.p-audio.playing{color:#0F6E56}
+.p-audio.playing .pa-w1{opacity:1;animation:paWave 1.2s ease-in-out infinite}
+.p-audio.playing .pa-w2{opacity:1;animation:paWave 1.2s ease-in-out infinite reverse}
+@keyframes paWave{0%,100%{opacity:.2}50%{opacity:1}}
+.p-audio.error{color:#b3543e}
+@media print{.p-audio{display:none !important}}
+/* ===== 连续播放 para-audio-title-v2 ===== */
+.pa-loop{appearance:none;border:1px solid rgba(24,25,28,.25);background:transparent;cursor:pointer;
+  font:inherit;font-size:12px;line-height:1;color:var(--ink-light);
+  padding:4px 9px;border-radius:999px;transition:color .15s,background .15s,border-color .15s;
+  white-space:nowrap;flex:none}
+.pa-loop:hover{color:#0F6E56;border-color:#0F6E56;background:rgba(15,110,86,.08)}
+.pa-loop.on{color:#fff;background:#0F6E56;border-color:#0F6E56}
+.pa-loop:focus-visible{outline:2px solid #0F6E56;outline-offset:1px}
+@media print{.pa-loop{display:none !important}}
+</style>
+<style id="pager-css">
+/* 上一篇 / 下一篇：与「返回日历」同行，右侧双箭头，悬停出字 */
+.head-top{display:flex;align-items:center;justify-content:space-between;gap:12px}
+.pager{display:flex;align-items:center;gap:6px;flex:none;margin:0}
+.pg-btn{position:relative;display:inline-flex;align-items:center;justify-content:center;
+  width:30px;height:30px;border-radius:50%;flex:none;
+  color:#4a6fa5;background:rgba(74,111,165,.10);text-decoration:none;
+  font:600 15px/1 -apple-system,BlinkMacSystemFont,"PingFang SC","Microsoft YaHei",sans-serif;
+  -webkit-tap-highlight-color:transparent;transition:background .15s,color .15s,transform .15s}
+.pg-btn:hover,.pg-btn:focus-visible{background:#4a6fa5;color:#fff;transform:translateY(-1px)}
+.pg-btn:active{transform:translateY(0)}
+.pg-btn.is-off{background:transparent;color:#cfc9bd;pointer-events:none;cursor:default}
+.pg-tip{position:absolute;top:calc(100% + 7px);left:50%;
+  transform:translateX(-50%) translateY(-4px);
+  padding:4px 9px;border-radius:6px;background:#3d3a34;color:#fff;
+  font:500 12px/1.3 -apple-system,"PingFang SC","Microsoft YaHei",sans-serif;
+  white-space:nowrap;opacity:0;visibility:hidden;pointer-events:none;z-index:90;
+  transition:opacity .15s,visibility .15s,transform .15s}
+.pg-tip:before{content:"";position:absolute;bottom:100%;left:50%;transform:translateX(-50%);
+  border:5px solid transparent;border-bottom-color:#3d3a34}
+.pg-btn:hover .pg-tip,.pg-btn:focus-visible .pg-tip{opacity:1;visibility:visible;
+  transform:translateX(-50%) translateY(0)}
+@media print{.pager{display:none !important}}
+body.print-sheet .pager{display:none !important}
+</style>
+</head>
+<body>
+
+<!-- ==================== 页面头部 ==================== -->
+<header>
+  <div class="head-inner">
+  <div class="head-top"><a class="back-cal" href="../../../index.html?d=2026-11-25" onclick="try{var h=new URL(this.href,location.href),r=document.referrer?new URL(document.referrer):null,f=function(p){return p.replace(/index\.html$/,'').replace(/\/$/,'')};if(history.length-1&&r&&r.origin===location.origin&&f(r.pathname)===f(h.pathname)){event.preventDefault();setTimeout(function(){history.back()},0)}}catch(e){}">← 返回日历</a><nav class="pager" aria-label="文章翻页"><a class="pg-btn pg-prev" href="/outward-reading/articles/2026/11/2026-11-25_002.reading.html" aria-label="上一篇"><span class="pg-ico" aria-hidden="true">←</span><span class="pg-tip" role="tooltip">上一篇</span></a><span class="pg-btn pg-next is-off" aria-hidden="true"><span class="pg-ico">→</span></span></nav></div>
+  <div class="meta-row">
+    <h1>Jensen Huang returns. But Nvidia will never be the same</h1>
+    <div class="meta">
+      <span>日期：2026-11-25</span>
+      <span>分类：英国《经济学人》外刊讲解 第1239天</span>
+      <span>阅读时长：约 11 分钟</span>
+    </div>
+  </div>
+  <div class="tool-row">
+    <nav class="anchors">
+      <a href="#main-reading">正文</a>
+      <a href="#side-panel" onclick="showTab(1)">词汇</a>
+      <a href="#side-panel" onclick="showTab(2)">专有名词</a>
+      <a href="#practice">练习</a>
+    </nav>
+    <button class="print-btn" onclick="doPrint()" title="A4 打印：仅标题与英文正文" aria-label="打印">🖨</button>
+  </div>
+  </div>
+</header>
+
+<div class="layout">
+
+  <!-- ==================== 左侧主阅读区 ==================== -->
+  <main class="main" id="main-reading">
+
+    <!-- 思维导图 -->
+        <section class="paragraph headline-block" id="p-headline">
+      <div class="p-label">经济学人 · 标题</div>
+      <div class="headline-en">He now faces a <mark class="voc" data-note="n-p-headline-1">hostile</mark> <mark class="voc" data-note="n-p-headline-2">Congress</mark>, <mark class="voc" data-note="n-p-headline-3">rattled</mark> employees and <mark class="voc" data-note="n-p-headline-4">wary</mark> business partners</div>
+      <div class="zh-block">如今，他面对的是充满敌意的国会、惶恐不安的员工以及心存戒备的商业伙伴。</div>
+      <button class="notes-toggle" onclick="toggleNotes(this)">查看标题注释</button>
+      <div class="notes-group">
+        <div class="note-item" id="n-p-headline-1"><b>hostile</b> /ˈhɒstaɪl/ adj.<br>英文释义：unfriendly or strongly opposed to someone or something<br>中文释义：敌对的；不友好的；强烈反对的<br>文中意：对黄仁勋持敌对或强烈反对态度的<br>例句一：The proposal received a hostile response from local residents. 这项提议遭到了当地居民的强烈反对。<br>例句二：It is difficult to remain confident in a hostile environment. 在充满敌意的环境中保持自信并不容易。</div>
+        <div class="note-item" id="n-p-headline-2"><b>Congress</b> /ˈkɒŋɡres/ n.<br>英文释义：the national legislative body of the United States<br>中文释义：（美国）国会；代表大会<br>文中意：由参议院和众议院组成的美国国会<br>例句一：Congress is considering a new law to protect consumers. 美国国会正在考虑制定一项保护消费者的新法律。<br>例句二：The president needs the support of Congress to carry out his plans. 总统需要国会的支持才能实施自己的计划。</div>
+        <div class="note-item" id="n-p-headline-3"><b>rattled</b> /ˈrætld/ adj.<br>英文释义：nervous, worried or upset because of something unexpected<br>中文释义：紧张不安的；惊慌失措的；心神不宁的<br>文中意：因公司近期的丑闻和管理层动荡而感到不安的<br>例句一：She looked visibly rattled after receiving the unexpected news. 收到这个出乎意料的消息后，她显得明显有些慌乱。<br>例句二：The sudden departure of the manager left the entire team rattled. 经理的突然离职让整个团队惶恐不安。</div>
+        <div class="note-item" id="n-p-headline-4"><b>wary</b> /ˈweəri/ adj.<br>英文释义：careful because you think there may be a danger or problem<br>中文释义：谨慎的；警惕的；心存戒备的<br>文中意：因潜在的商业风险而对黄仁勋及英伟达保持警惕的<br>例句一：Investors are becoming increasingly wary of risky investments. 投资者对高风险投资越来越谨慎。<br>例句二：After several disappointing experiences, she became wary of making promises. 经历了几次令人失望的事情后，她在作出承诺时变得更加谨慎。</div>
+      </div>
+    </section>
+
+    <!-- Paragraph 1 -->
+        <section class="paragraph" id="p1">
+      <div class="p-label">Paragraph 1</div>
+      <div class="en-block en"><mark class="voc" data-note="n-p1-1">Comebacks</mark> are nothing new in Silicon Valley. Three years ago, <mark class="voc" data-note="n-p1-2">almost to the week</mark>, the board of OpenAI, a model-maker, <mark class="voc" data-note="n-p1-3">sacked</mark> Sam Altman, its boss, <mark class="voc" data-note="n-p1-4">only to reinstate</mark> him four days later. Even so, Jensen Huang’s return is extraordinary. On November 23rd the board of Nvidia <mark class="voc" data-note="n-p1-5">reinstated</mark> Mr Huang, its co-founder, as chief executive, just 12 days after he resigned over a series of affairs, including one with a suspected Chinese agent.</div>
+      <div class="zh-block">在硅谷，东山再起并不是什么新鲜事。几乎就在三年前的同一周，人工智能模型开发商OpenAI的董事会解雇了其掌门人萨姆·奥尔特曼，却在仅仅四天后又让他恢复了原职。即便如此，黄仁勋的回归依然非同寻常。11月23日，英伟达董事会恢复了联合创始人黄仁勋的首席执行官职务，而就在12天前，他才因一系列婚外情辞职，其中一段婚外情涉及一名疑似中国情报人员。</div>
+      <button class="notes-toggle" onclick="toggleNotes(this)">查看本段注释</button>
+      <div class="notes-group">
+        <div class="note-item" id="n-p1-1"><b>comeback</b> /ˈkʌmbæk/ n.<br>英文释义：a return to success, popularity or an important position after a period of difficulty<br>中文释义：复出；东山再起；重新获得成功<br>文中意：企业领导人在失去职位后重新掌权<br>例句一：The singer made a remarkable comeback after years away from the stage. 这位歌手在离开舞台多年后实现了令人瞩目的复出。<br>例句二：The company is hoping to make a comeback after several years of financial difficulties. 这家公司希望在经历数年的财务困境后东山再起。</div>
+        <div class="note-item" id="n-p1-2"><b>almost to the week</b> /ˈɔːlməʊst tə ðə wiːk/ phr.<br>英文释义：at nearly exactly the same time of the year, with a difference of about a week or less<br>中文释义：几乎就在同一周；时间几乎精确到周<br>文中意：奥尔特曼被解雇的时间与黄仁勋复职的时间相隔几乎整整三年<br>例句一：Ten years ago, almost to the week, we moved into this house. 几乎就在十年前的同一周，我们搬进了这栋房子。<br>例句二：Two years ago, almost to the week, the company launched its first product. 几乎就在两年前的同一周，这家公司推出了第一款产品。</div>
+        <div class="note-item" id="n-p1-3"><b>sack</b> /sæk/ v.<br>英文释义：to dismiss someone from their job<br>中文释义：解雇；开除；辞退<br>文中意：OpenAI董事会解除萨姆·奥尔特曼的职务<br>例句一：The manager was sacked after a series of poor decisions. 这位经理因一系列错误决策而被解雇。<br>例句二：The company denied that it planned to sack hundreds of employees. 该公司否认计划解雇数百名员工。</div>
+        <div class="note-item" id="n-p1-4"><b>only to do sth.</b> /ˈəʊnli tə duː/ phr.<br>英文释义：used to introduce an unexpected or disappointing result<br>中文释义：结果却……；不料竟然……<br>文中意：董事会解雇奥尔特曼后，却出人意料地在四天后恢复了他的职务<br>例句一：She rushed to the airport, only to discover that her flight had been cancelled. 她匆忙赶到机场，却发现自己的航班已经被取消。<br>例句二：He spent years building his business, only to lose everything in a financial crisis. 他花了多年时间建立自己的企业，却在一场金融危机中失去了一切。</div>
+        <div class="note-item" id="n-p1-5"><b>reinstate</b> /ˌriːɪnˈsteɪt/ v.<br>英文释义：to return someone to a position or job that they previously held<br>中文释义：使恢复原职；使重新获得原有地位；恢复<br>文中意：董事会让被解雇或已经辞职的企业领导人重新担任原来的职务<br>例句一：The university agreed to reinstate the professor after an independent investigation. 在独立调查结束后，该大学同意恢复这位教授的职务。<br>例句二：The company decided to reinstate its former chief executive. 该公司决定让前首席执行官恢复原职。</div>
+      </div>
+    </section>
+
+    <section class="paragraph" id="p2">
+      <div class="p-label">Paragraph 2</div>
+      <div class="en-block en">The board, which on November 17th said it had no <mark class="voc" data-note="n-p2-1">intention</mark> of <mark class="voc" data-note="n-p2-2">giving Mr Huang his job back</mark>, declared that, after all, it was <mark class="voc" data-note="n-p2-3">satisfied with</mark> his “<mark class="voc" data-note="n-p2-4">candour</mark>”, even though its own investigation has not yet finished. In the days after Mr Huang quit, Nvidia lost over $1trn in market value. Since the announcement of his return its share price has surged by a third.</div>
+      <div class="zh-block">11月17日，英伟达董事会还曾表示无意让黄仁勋恢复原职，但最终却宣布对他的“坦诚”感到满意，尽管董事会自身的调查尚未结束。在黄仁勋辞职后的几天里，英伟达的市值蒸发了超过1万亿美元。自他回归的消息公布以来，英伟达的股价已经飙升了三分之一。</div>
+      <button class="notes-toggle" onclick="toggleNotes(this)">查看本段注释</button>
+      <div class="notes-group">
+        <div class="note-item" id="n-p2-1"><b>intention</b> /ɪnˈtenʃn/ n.<br>英文释义：a plan or purpose to do something<br>中文释义：意图；目的；打算<br>文中意：董事会让黄仁勋恢复原职的意愿或打算<br>例句一：She has no intention of giving up her career. 她无意放弃自己的事业。<br>例句二：The company announced its intention to expand into overseas markets. 该公司宣布了拓展海外市场的计划。</div>
+        <div class="note-item" id="n-p2-2"><b>give sb. sth. back</b> /ɡɪv ˈsʌmbədi ˈsʌmθɪŋ bæk/ phr.<br>英文释义：to return something to the person who previously had it<br>中文释义：将某物归还给某人；让某人重新获得某物<br>文中意：将首席执行官的职位重新交还给黄仁勋<br>例句一：The court ordered the company to give him his job back. 法院命令该公司恢复他的工作职位。<br>例句二：The successful treatment gave her back her confidence. 成功的治疗让她重新找回了自信。</div>
+        <div class="note-item" id="n-p2-3"><b>be satisfied with</b> /bi ˈsætɪsfaɪd wɪð/ phr.<br>英文释义：to feel pleased because something meets your expectations or requirements<br>中文释义：对……感到满意；对……表示认可<br>文中意：董事会认为黄仁勋表现出的坦诚符合其要求<br>例句一：The investors were satisfied with the company's financial performance. 投资者对公司的财务表现感到满意。<br>例句二：She was not entirely satisfied with his explanation. 她对他的解释并不完全满意。</div>
+        <div class="note-item" id="n-p2-4"><b>candour</b> /ˈkændə/ n.<br>英文释义：the quality of being honest, open and direct about something<br>中文释义：坦诚；坦率；直言不讳<br>文中意：董事会所认可的黄仁勋在沟通中表现出的坦诚态度<br>例句一：I appreciated her candour about the difficulties facing the business. 我很欣赏她在谈及企业面临的困难时所表现出的坦诚。<br>例句二：His unusual candour surprised everyone at the meeting. 他不同寻常的坦率让与会者都感到惊讶。</div>
+      </div>
+    </section>
+
+    <section class="paragraph" id="p3">
+      <div class="p-label">Paragraph 3</div>
+      <div class="en-block en">Investors’ relief may not last, however. Mr Huang is back <mark class="voc" data-note="n-p3-1">at the helm</mark>, but he returns under very different circumstances. Nvidia faces a government newly <mark class="voc" data-note="n-p3-2">keen on</mark> tougher export controls and a Congress soon to be full of artificial-intelligence <mark class="voc" data-note="n-p3-3">sceptics</mark>. Mr Huang, long the AI industry’s chief <mark class="voc" data-note="n-p3-4">showman</mark>, must also now win back the trust of staff, customers and suppliers.</div>
+      <div class="zh-block">然而，投资者松了一口气的状态可能不会持续太久。黄仁勋重新掌舵英伟达，但他回归时所面临的环境已经截然不同。英伟达面对的是一个如今热衷于实施更严格出口管制的政府，以及一个即将充斥着人工智能怀疑者的国会。长期以来一直是人工智能行业最具表演魅力的领军人物的黄仁勋，如今还必须重新赢得员工、客户和供应商的信任。</div>
+      <button class="notes-toggle" onclick="toggleNotes(this)">查看本段注释</button>
+      <div class="notes-group">
+        <div class="note-item" id="n-p3-1"><b>at the helm</b> /ət ðə helm/ phr.<br>英文释义：in a position of leadership or control of an organization<br>中文释义：掌舵；掌权；处于领导地位<br>文中意：黄仁勋重新掌握英伟达的领导权<br>例句一：With an experienced leader at the helm, the company recovered from the crisis. 在一位经验丰富的领导者掌舵下，公司从危机中恢复了过来。<br>例句二：She spent more than a decade at the helm of the organization. 她掌管这家机构长达十多年。</div>
+        <div class="note-item" id="n-p3-2"><b>keen on</b> /kiːn ɒn/ phr.<br>英文释义：very interested in or enthusiastic about something<br>中文释义：热衷于；对……感兴趣；积极支持<br>文中意：美国政府积极倾向于实施更加严格的出口管制措施<br>例句一：The government is keen on attracting foreign investment. 政府热衷于吸引外国投资。<br>例句二：She is keen on developing new skills that will help her career. 她热衷于培养有助于职业发展的新技能。</div>
+        <div class="note-item" id="n-p3-3"><b>sceptic</b> /ˈskeptɪk/ n.<br>英文释义：a person who doubts whether something is true, useful or effective<br>中文释义：怀疑者；持怀疑态度的人<br>文中意：对人工智能的发展、应用及其潜在影响持怀疑或审慎态度的国会议员<br>例句一：Even the most determined sceptics were impressed by the results. 就连最坚定的怀疑者也对这些结果印象深刻。<br>例句二：Sceptics argue that the benefits of the new technology have been exaggerated. 怀疑者认为，这项新技术的好处被夸大了。</div>
+        <div class="note-item" id="n-p3-4"><b>showman</b> /ˈʃəʊmən/ n.<br>英文释义：a person who is skilled at attracting public attention and entertaining an audience<br>中文释义：表演家；善于吸引公众注意力的人；擅长造势的人<br>文中意：善于通过公开演讲、产品发布会和个人魅力为人工智能行业造势的黄仁勋<br>例句一：The entrepreneur was a natural showman who knew how to excite an audience. 这位企业家天生擅长表演，知道如何调动观众的情绪。<br>例句二：He was not only a talented businessman but also a brilliant showman. 他不仅是一位才华横溢的商人，也是一位出色的表演家。</div>
+      </div>
+    </section>
+
+    <section class="paragraph" id="p4">
+      <div class="p-label">Paragraph 4</div>
+      <div class="en-block en">Mr Huang’s first test will be on December 1st when he faces a <mark class="voc" data-note="n-p4-1">grilling</mark> before Congress. The board has said it is confident that Mr Huang’s “reinstatement poses no <mark class="voc" data-note="n-p4-2">national</mark>-security risk”. But questions remain about his relationship with Alice Huang, a Chinese national and former executive at Megaspeed, a Singaporean data-centre developer that bought Nvidia’s chips. These will not disappear. Democrats have promised investigations of their own when they take control of both <mark class="voc" data-note="n-p4-3">houses</mark> of Congress next year.</div>
+      <div class="zh-block">黄仁勋的第一次考验将在12月1日到来，届时他将在国会面前接受严厉质询。董事会已经表示，相信黄仁勋的“复职不会构成国家安全风险”。然而，关于他与AliceHuang之间的关系，仍然存在诸多疑问。AliceHuang是一名中国公民，曾担任Megaspeed的高管，这是一家购买过英伟达芯片的新加坡数据中心开发商。这些疑问不会就此消失。民主党人已经承诺，明年掌控国会参众两院后，他们将自行展开调查。</div>
+      <button class="notes-toggle" onclick="toggleNotes(this)">查看本段注释</button>
+      <div class="notes-group">
+        <div class="note-item" id="n-p4-1"><b>grilling</b> /ˈɡrɪlɪŋ/ n.<br>英文释义：a period of intense and difficult questioning<br>中文释义：严厉质询；盘问；审问<br>文中意：美国国会议员对黄仁勋进行的严厉而密集的质询<br>例句一：The minister faced a grilling from journalists over his controversial decision. 这位部长因其颇具争议的决定而受到记者的严厉质询。<br>例句二：The chief executive received a grilling from shareholders at the annual meeting. 首席执行官在年度会议上受到了股东们的严厉质询。</div>
+        <div class="note-item" id="n-p4-2"><b>national</b> /ˈnæʃnəl/ n.<br>英文释义：a person who is legally recognized as a citizen of a particular country<br>中文释义：某国国民；某国公民<br>文中意：拥有中国国籍的公民<br>例句一：Several foreign nationals were working on the international project. 数名外国公民参与了这个国际项目。<br>例句二：She is a British national who has lived abroad for many years. 她是一名在海外生活多年的英国公民。</div>
+        <div class="note-item" id="n-p4-3"><b>house</b> /haʊs/ n.<br>英文释义：one of the groups of people who form a country's legislative body<br>中文释义：议院；立法机构中的一院；房屋<br>文中意：美国国会的参议院和众议院，both houses of Congress指国会参众两院<br>例句一：The proposed law must be approved by both houses of Congress. 这项拟议中的法律必须获得国会参众两院的批准。<br>例句二：The bill was passed by the lower house of parliament. 这项法案获得了议会下院的通过。</div>
+      </div>
+    </section>
+
+    <section class="paragraph" id="p5">
+      <div class="p-label">Paragraph 5</div>
+      <div class="en-block en">Even Mr Trump’s administration seems divided. The president said he wanted Mr Huang back, and reportedly <mark class="voc" data-note="n-p5-1">dialled into</mark> a board meeting to <mark class="voc" data-note="n-p5-2">make the case</mark>. Others in his <mark class="voc" data-note="n-p5-3">cabinet</mark> have been cooler. On November 15th Scott Bessent, the treasury secretary, called for a “dramatic <mark class="voc" data-note="n-p5-4">shakeup</mark>” at Nvidia and an outside chief executive, though a week later he <mark class="voc" data-note="n-p5-5">changed tack</mark>, suggesting <mark class="voc" data-note="n-p5-6">bizarrely</mark> that Mr Huang, having resigned, was now an <mark class="voc" data-note="n-p5-7">outsider</mark> himself. Marco Rubio, the secretary of state, <mark class="voc" data-note="n-p5-8">is no fan either</mark>. It was he who oversaw the intelligence memo about Mr Huang’s ties to Alice Huang that prompted the chief executive’s <mark class="voc" data-note="n-p5-9">downfall</mark>.</div>
+      <div class="zh-block">甚至特朗普政府内部似乎也存在分歧。总统表示希望黄仁勋回归，据报道，他还通过电话参加了一场董事会会议，为黄仁勋复职据理力争。然而，内阁中的其他成员对此态度则较为冷淡。11月15日，美国财政部长斯科特·⻉森特呼吁英伟达进行一次“重大改组”，并从公司外部聘请一位首席执行官。然而，一周后，他却改变了立场，令人匪夷所思地表示，既然黄仁勋已经辞职，那么他本人现在也算是一个外部人士。美国国务卿马尔科·卢比奥同样不是黄仁勋的支持者。正是他负责监督有关黄仁勋与AliceHuang之间关系的情报备忘录的编制，而这份备忘录促成了这位首席执行官的下台。</div>
+      <button class="notes-toggle" onclick="toggleNotes(this)">查看本段注释</button>
+      <div class="notes-group">
+        <div class="note-item" id="n-p5-1"><b>dial into phr.</b> /ˈdaɪəl ˈɪntuː/ v.<br>英文释义：to join a meeting or conversation by telephone or through a communication system<br>中文释义：通过电话接入；远程加入会议<br>文中意：特朗普通过电话远程参加英伟达的董事会会议<br>例句一：She dialled into the meeting while travelling abroad. 她在海外旅行期间通过电话参加了会议。<br>例句二：Employees can dial into the conference from anywhere in the world. 员工可以从世界任何地方远程接入会议。</div>
+        <div class="note-item" id="n-p5-2"><b>make the case</b> /meɪk ðə keɪs/ phr.<br>英文释义：to present arguments or evidence in support of a particular idea or action<br>中文释义：提出支持某事的理由；论证；据理力争<br>文中意：特朗普向英伟达董事会阐述支持黄仁勋复职的理由<br>例句一：The scientist made the case for greater investment in clean energy. 这位科学家阐述了增加清洁能源投资的理由。<br>例句二：She made a convincing case for changing the company's existing strategy. 她提出了令人信服的理由，主张改变公司现有的战略。</div>
+        <div class="note-item" id="n-p5-3"><b>cabinet</b> /ˈkæbɪnət/ n.<br>英文释义：a group of senior government officials who advise the head of government and make important policy decisions<br>中文释义：内阁；政府高级决策机构；储物柜<br>文中意：特朗普政府中由各部门高级官员组成的内阁<br>例句一：The president held an emergency cabinet meeting to discuss the crisis. 总统召开了紧急内阁会议，讨论这场危机。<br>例句二：Several cabinet members expressed concerns about the proposed policy. 几名内阁成员对拟议中的政策表达了担忧。</div>
+        <div class="note-item" id="n-p5-4"><b>shakeup</b> /ˈʃeɪkʌp/ n.<br>英文释义：a major change in the organization or management of a company or institution<br>中文释义：重大改组；重组；大规模调整<br>文中意：⻉森特所呼吁的英伟达管理层及组织结构的重大调整<br>例句一：The financial crisis led to a major shakeup in the banking industry. 金融危机导致银行业发生了重大重组。<br>例句二：The company announced a management shakeup following disappointing financial results. 在公布令人失望的财务业绩后，该公司宣布对管理层进行重大改组。</div>
+        <div class="note-item" id="n-p5-5"><b>change tack</b> /tʃeɪndʒ tæk/ phr.<br>英文释义：to change one's approach, strategy or way of dealing with a situation<br>中文释义：改变策略；转换方向；改变立场<br>文中意：⻉森特改变此前主张聘请外部首席执行官的立场，转而将已经辞职的黄仁勋视为外部人士<br>例句一：When the original strategy failed, the management team decided to change tack. 当原有策略失败后，管理团队决定改变策略。<br>例句二：The politician changed tack after facing strong public opposition. 在遭到公众强烈反对后，这位政治人物改变了立场。</div>
+        <div class="note-item" id="n-p5-6"><b>bizarrely</b> /bɪˈzɑːli/ adv.<br>英文释义：in a very strange, unusual or difficult-to-explain way<br>中文释义：古怪地；离奇地；令人匪夷所思地<br>文中意：作者认为⻉森特将已经辞职的黄仁勋重新定义为外部人士的说法十分奇怪<br>例句一：Bizarrely, the company continued to expand despite its enormous losses. 令人匪夷所思的是，尽管遭受巨额亏损，该公司仍然继续扩张。<br>例句二：The two reports reached bizarrely different conclusions based on the same evidence. 令人费解的是，这两份报告基于相同的证据却得出了截然不同的结论。</div>
+        <div class="note-item" id="n-p5-7"><b>outsider</b> /ˌaʊtˈsaɪdə/ n.<br>英文释义：a person who does not belong to a particular group, organization or community<br>中文释义：外部人士；局外人；圈外人<br>文中意：⻉森特声称已经辞去职务的黄仁勋现在也属于英伟达的外部人士<br>例句一：The board believed that an outsider could bring fresh ideas to the company. 董事会认为，外部人士能够为公司带来新的想法。<br>例句二：As an outsider, she was able to identify problems that others had overlooked. 作为一名局外人，她能够发现其他人忽视的问题。</div>
+        <div class="note-item" id="n-p5-8"><b>be no fan of</b> /bi nəʊ fæn əv/ phr.<br>英文释义：to dislike or have little enthusiasm or support for someone or something<br>中文释义：不喜欢……；并不支持……；对……不感冒<br>文中意：卢比奥同样不是黄仁勋的支持者，对其持有保留或反对态度<br>例句一：He is no fan of excessive government intervention in business. 他并不赞同政府过度干预商业活动。<br>例句二：She is no fan of the company's aggressive management style. 她并不喜欢该公司强势的管理风格。</div>
+        <div class="note-item" id="n-p5-9"><b>downfall</b> /ˈdaʊnfɔːl/ n.<br>英文释义：the loss of power, success, status or reputation, especially after a period of great achievement<br>中文释义：垮台；下台；衰败；身败名裂<br>文中意：黄仁勋因相关丑闻和政治压力而失去英伟达首席执行官职位<br>例句一：His refusal to listen to criticism eventually led to his downfall. 他拒绝听取批评意见，最终导致了自己的垮台。<br>例句二：Excessive ambition and poor judgment contributed to the downfall of the once successful businessman. 过度的野心和糟糕的判断力促成了这位曾经成功的商人的衰败。</div>
+      </div>
+    </section>
+
+    <section class="paragraph" id="p6">
+      <div class="p-label">Paragraph 6</div>
+      <div class="en-block en">Mr Huang will also find it harder to <mark class="voc" data-note="n-p6-1">make the case for</mark> a lenient approach to export controls. He has long argued that restricting sales to China only encourages its domestic chip industry. But five days after he resigned, the Commerce Department announced a rule intended to stop Chinese firms renting access to advanced AI chips in data centres abroad. Congress, meanwhile, is <mark class="voc" data-note="n-p6-2">weighing</mark> bills that would tighten controls further.</div>
+      <div class="zh-block">黄仁勋还将发现，为采取较为宽松的出口管制政策据理力争变得更加困难。长期以来，他一直认为，限制向中国销售芯片只会促进中国本土芯片产业的发展。然而，就在他辞职五天后，美国商务部宣布了一项新规，旨在阻止中国企业通过租赁方式使用海外数据中心的先进人工智能芯片。与此同时，美国国会正在考虑进一步收紧管制的法案。</div>
+      <button class="notes-toggle" onclick="toggleNotes(this)">查看本段注释</button>
+      <div class="notes-group">
+        <div class="note-item" id="n-p6-1"><b>make the case for</b> /meɪk ðə keɪs fɔː/ phr.<br>英文释义：to present convincing reasons or evidence in support of something<br>中文释义：为……提出有力论据；论证……的合理性；为……据理力争<br>文中意：黄仁勋试图通过阐述理由来争取政府对宽松出口管制政策的支持<br>例句一：The researchers made the case for greater investment in public health. 研究人员阐述了增加公共卫生投资的必要性。<br>例句二：She made a strong case for reducing unnecessary government restrictions. 她提出了有力的论据，主张减少不必要的政府限制。</div>
+        <div class="note-item" id="n-p6-2"><b>weigh</b> /weɪ/ v.<br>英文释义：to carefully consider something before making a decision<br>中文释义：权衡；仔细考虑；衡量；称重<br>文中意：美国国会正在审慎考虑是否通过进一步收紧出口管制的相关法案<br>例句一：The board is weighing several options before making a final decision. 董事会正在权衡几种选择，然后再作出最终决定。<br>例句二：The government must weigh the economic benefits against the potential risks. 政府必须权衡经济利益与潜在风险。</div>
+      </div>
+    </section>
+
+    <section class="paragraph" id="p7">
+      <div class="p-label">Paragraph 7</div>
+      <div class="en-block en">Nvidia’s returning boss must also deal with the internal <mark class="voc" data-note="n-p7-1">fallout</mark> at the company from the damaging revelations of the past few weeks. Two of Mr Huang’s alleged affairs were with <mark class="voc" data-note="n-p7-2">subordinates</mark>. On November 20th the New York Times published accounts from more than a dozen current and former employees who said he had long used public <mark class="voc" data-note="n-p7-3">humiliation</mark> and violent threats to drive staff. (His spokesperson has disputed the claims.) Mr Huang was previously <mark class="voc" data-note="n-p7-4">not shy about</mark> his methods; he once said he would be willing to “torture” employees “into greatness”.</div>
+      <div class="zh-block">重新掌舵英伟达的黄仁勋还必须处理过去几周那些具有破坏性的爆料给公司内部带来的负面影响。据称，黄仁勋的两段婚外情涉及他的下属。11月20日，《纽约时报》刊登了十多名现任及前任员工的讲述，他们表示，黄仁勋长期以来通过公开羞辱和暴力威胁的方式来鞭策员工。（他的发言人对此类说法提出了异议。）黄仁勋过去并不避讳谈论自己的管理方式；他曾表示，他愿意通过“折磨”员工来使他们“变得卓越”。</div>
+      <button class="notes-toggle" onclick="toggleNotes(this)">查看本段注释</button>
+      <div class="notes-group">
+        <div class="note-item" id="n-p7-1"><b>fallout</b> /ˈfɔːlaʊt/ n.<br>英文释义：the unpleasant or harmful consequences of an event or situation<br>中文释义：负面后果；不良影响；余波；放射性沉降物<br>文中意：近期丑闻给英伟达内部的员工信任、管理秩序及企业文化带来的负面影响<br>例句一：The company is still dealing with the fallout from the financial scandal. 该公司仍在处理金融丑闻造成的负面影响。<br>例句二：The political fallout from the controversial decision lasted for months. 这一颇具争议的决定所引发的政治余波持续了数月。</div>
+        <div class="note-item" id="n-p7-2"><b>subordinate</b> /səˈbɔːdɪnət/ n.<br>英文释义：a person who has a lower position or less authority than someone else in an organization<br>中文释义：下属；部属；级别较低的人员<br>文中意：在英伟达内部职位或权力低于黄仁勋的员工<br>例句一：An effective manager should treat subordinates with respect. 一位高效的管理者应该尊重自己的下属。<br>例句二：He was criticized for failing to listen to the concerns of his subordinates. 他因未能倾听下属的担忧而受到批评。</div>
+        <div class="note-item" id="n-p7-3"><b>humiliation</b> /hjuːˌmɪliˈeɪʃn/ n.<br>英文释义：the feeling of shame or embarrassment caused by being made to look foolish or inferior<br>中文释义：羞辱；耻辱；屈辱；难堪<br>文中意：据受访员工所称，黄仁勋通过当众批评或贬低员工，使其感到羞耻和难堪<br>例句一：No employee should have to endure public humiliation in the workplace. 任何员工都不应该在工作场所忍受公开羞辱。<br>例句二：The experience of humiliation damaged his confidence for years. 那段受辱的经历多年来一直损害着他的自信心。</div>
+        <div class="note-item" id="n-p7-4"><b>not be shy about sth.</b> /nɒt bi ʃaɪ əˈbaʊt/ phr.<br>英文释义：to be willing to speak openly about something or do something without embarrassment or hesitation<br>中文释义：不避讳……；毫不掩饰……；不羞于……<br>文中意：黄仁勋过去并不避讳公开谈论自己强硬的管理方式<br>例句一：She is not shy about expressing her disagreement with senior managers. 她毫不避讳地表达自己对高级管理人员的不同意见。<br>例句二：The entrepreneur has never been shy about discussing his past failures. 这位企业家从不避讳谈论自己过去的失败经历。</div>
+      </div>
+    </section>
+
+    <section class="paragraph" id="p8">
+      <div class="p-label">Paragraph 8</div>
+      <div class="en-block en">Some at Nvidia worry <mark class="voc" data-note="n-p8-1">less about</mark> his <mark class="voc" data-note="n-p8-2">temper</mark> than about the firm’s dependence on him. He has run the business with some 60 direct reports and no obvious successor. That a company worth trillions of dollars is held together by a single man “is <mark class="voc" data-note="n-p8-3">absurd</mark>”, says one employee. Another wonders how Mr Huang will operate at a firm where his actions now face greater <mark class="voc" data-note="n-p8-4">scrutiny</mark>. Before his reinstatement, the board had announced it would form a committee composed solely of independent directors to oversee national-security risks and compliance with trade rules. Then there is the question of whether Mr Huang will be able to regain his role as the <mark class="voc" data-note="n-p8-5">orchestrator</mark> of the AI boom. Not long ago, his <mark class="voc" data-note="n-p8-6">blessing</mark> alone could <mark class="voc" data-note="n-p8-7">send a company’s shares soaring</mark>. He toured the world, <mark class="voc" data-note="n-p8-8">sharing stages with</mark> presidents and prime ministers, <mark class="voc" data-note="n-p8-9">preaching</mark> the <mark class="voc" data-note="n-p8-10">gospel</mark> of AI. Customers and suppliers alike <mark class="voc" data-note="n-p8-11">queued</mark> to do business with him.</div>
+      <div class="zh-block">英伟达内部的一些人，与其说担心黄仁勋的脾气，不如说更担心公司对他的依赖。他一直管理着这家企业，拥有大约60名直接向他汇报工作的下属，却没有明确的接班人。一名员工表示，一家价值数万亿美元的公司竟然依靠一个人来维系，“简直荒谬”。另一名员工则想知道，如今黄仁勋的一举一动都将受到更加严格的审视，他将如何在这样的公司里开展工作。在他复职之前，董事会曾宣布将成立一个完全由独立董事组成的委员会，负责监督国家安全风险以及公司对贸易规则的遵守情况。除此之外，还有一个问题：黄仁勋能否重新成为人工智能热潮的幕后推动者？就在不久前，仅凭他的认可，就能让一家公司的股价飙升。他曾周游世界，与各国总统和总理同台亮相，四处宣扬人工智能的福音。无论是客户还是供应商，都排着队想与他做生意。</div>
+      <button class="notes-toggle" onclick="toggleNotes(this)">查看本段注释</button>
+      <div class="notes-group">
+        <div class="note-item" id="n-p8-1"><b>less...than...</b> /les ðæn/ phr.<br>英文释义：used to show that one thing is less important, noticeable or significant than another<br>中文释义：与其说……不如说……；相比……更少……<br>文中意：相比黄仁勋的暴躁脾气，一些员工更担忧英伟达对他个人的过度依赖<br>例句一：She worries less about failure than about missing an opportunity. 与其说她害怕失败，不如说她更担心错过机会。<br>例句二：The problem is less about money than about trust. 与其说这是金钱问题，不如说这是信任问题。</div>
+        <div class="note-item" id="n-p8-2"><b>temper</b> /ˈtempə/ n.<br>英文释义：a person's tendency to become angry or lose control of their emotions<br>中文释义：脾气；性情；易怒的情绪<br>文中意：黄仁勋在管理过程中表现出的暴躁脾气<br>例句一：A good manager should learn to control their temper under pressure. 一位优秀的管理者应该学会在压力下控制自己的脾气。<br>例句二：His unpredictable temper made his colleagues feel uncomfortable. 他难以捉摸的脾气让同事们感到不自在。</div>
+        <div class="note-item" id="n-p8-3"><b>absurd</b> /əbˈsɜːd/ adj.<br>英文释义：completely unreasonable, illogical or ridiculous<br>中文释义：荒谬的；荒唐的；不合理的；可笑的<br>文中意：一名员工认为，一家价值数万亿美元的企业过度依赖一个人的现象极不合理<br>例句一：It is absurd to expect one employee to solve every problem. 指望一名员工解决所有问题是荒谬的。<br>例句二：The idea that success can be achieved without any effort is absurd. 不付出任何努力就能取得成功的想法是荒谬的。</div>
+        <div class="note-item" id="n-p8-4"><b>scrutiny</b> /ˈskruːtəni/ n.<br>英文释义：careful and detailed examination of someone or something<br>中文释义：仔细审查；严格审视；密切监督<br>文中意：黄仁勋的个人行为及经营决策将受到更加严格的审查和监督<br>例句一：The company's financial practices have come under increasing scrutiny. 该公司的财务操作受到了越来越严格的审查。<br>例句二：Public figures often face intense scrutiny of their personal lives. 公众人物的私人生活往往受到密切审视。</div>
+        <div class="note-item" id="n-p8-5"><b>orchestrator</b> /ˈɔːkɪstreɪtə/ n.<br>英文释义：a person who organizes and coordinates complex activities to achieve a particular result<br>中文释义：组织者；策划者；协调者；幕后推动者<br>文中意：协调产业资源、推动人工智能发展并引领行业热潮的核心人物<br>例句一：He was the chief orchestrator of the company's international expansion. 他是该公司国际扩张的主要策划者。<br>例句二：She emerged as the orchestrator of a major transformation within the industry. 她逐渐成为推动该行业重大变革的核心人物。</div>
+        <div class="note-item" id="n-p8-6"><b>blessing</b> /ˈblesɪŋ/ n.<br>英文释义：approval, support or permission given by someone with authority or influence<br>中文释义：认可；支持；许可；祝福；幸事<br>文中意：黄仁勋凭借个人影响力给予某家企业的公开认可或支持<br>例句一：The project went ahead with the blessing of the company's founder. 在公司创始人的认可下，该项目得以推进。<br>例句二：The young entrepreneur received the blessing of several influential investors. 这位年轻创业者获得了几位有影响力的投资者的认可。</div>
+        <div class="note-item" id="n-p8-7"><b>send sth. doing</b> /send ˈsʌmθɪŋ ˈduːɪŋ/ phr.<br>英文释义：to cause something to move, change or enter a particular state, often suddenly<br>中文释义：使某物突然……；导致某物进入某种状态<br>文中意：send a company's shares soaring表示使一家公司的股价迅速飙升<br>例句一：The unexpected announcement sent stock prices tumbling. 这一出人意料的公告导致股价暴跌。<br>例句二：The shortage of raw materials sent production costs soaring. 原材料短缺导致生产成本飙升。</div>
+        <div class="note-item" id="n-p8-8"><b>share the stage with</b> /ʃeə ðə steɪdʒ wɪð/ phr.<br>英文释义：to appear or speak on the same stage as another person at a public event<br>中文释义：与……同台；与……共同出席公开活动<br>文中意：黄仁勋与各国总统和总理共同登台亮相，体现其曾经拥有的国际影响力<br>例句一：The young scientist shared the stage with several Nobel Prize winners. 这位年轻科学家与几位诺⻉尔奖得主同台亮相。<br>例句二：She was invited to share the stage with some of the world's most influential business leaders. 她受邀与全球一些最具影响力的商界领袖同台。</div>
+        <div class="note-item" id="n-p8-9"><b>preach</b> /priːtʃ/ v.<br>英文释义：to publicly express and promote a belief, idea or principle with strong enthusiasm<br>中文释义：宣扬；鼓吹；布道；传教；说教<br>文中意：黄仁勋在全球范围内积极宣传人工智能的价值、潜力及未来前景<br>例句一：The entrepreneur has spent years preaching the benefits of technological innovation. 这位企业家多年来一直在宣扬技术创新的好处。<br>例句二：It is easier to preach the importance of honesty than to practise it. 宣扬诚实的重要性比真正践行诚实更容易。</div>
+        <div class="note-item" id="n-p8-10"><b>gospel</b> /ˈɡɒspl/ n.<br>英文释义：a set of beliefs or principles that someone strongly supports and promotes<br>中文释义：福音；信条；被坚定信奉的理念<br>文中意：作者借用宗教用语，将黄仁勋对人工智能的热情宣传比作传播一种令人深信不疑的信仰<br>例句一：The consultant travelled around the world spreading the gospel of digital transformation. 这位顾问周游世界，传播数字化转型的理念。<br>例句二：For decades, he preached the gospel of hard work and personal responsibility. 数十年来，他一直宣扬努力工作和个人责任的信条。</div>
+        <div class="note-item" id="n-p8-11"><b>queue</b> /kjuː/ v.<br>英文释义：to wait in a line or eagerly wait for an opportunity to obtain or do something<br>中文释义：排队；列队等候；争相等待机会<br>文中意：客户和供应商争相寻求与黄仁勋及英伟达开展商业合作的机会<br>例句一：Customers queued outside the store to buy the latest smartphone. 顾客们在商店外排队购买最新款智能手机。<br>例句二：Investors were queuing to support the promising startup. 投资者们争相为这家前景光明的初创公司提供资金支持。</div>
+      </div>
+    </section>
+
+    <section class="paragraph" id="p9">
+      <div class="p-label">Paragraph 9</div>
+      <div class="en-block en">His star is almost certain to have <mark class="voc" data-note="n-p9-1">dimmed</mark>. Politicians who once <mark class="voc" data-note="n-p9-2">courted</mark> Mr Huang are likely to <mark class="voc" data-note="n-p9-3">keep their distance</mark> until the investigations into him are over. The industry may <mark class="voc" data-note="n-p9-4">hedge its bets</mark>. TSMC, a Taiwanese chip giant whose biggest customer is Nvidia, will be more wary of depending so heavily on a single client, <mark class="voc" data-note="n-p9-5">reckons</mark> one analyst. Cloud providers that <mark class="voc" data-note="n-p9-6">shun</mark>ned Nvidia’s rivals, <mark class="voc" data-note="n-p9-7">for fear of</mark> being cut off from Mr Huang’s chips, may be readier to <mark class="voc" data-note="n-p9-8">shop around</mark>. And not all investors are reassured. Stacy Rasgon of Bernstein, a <mark class="voc" data-note="n-p9-9">broker</mark>, noted that Mr Huang’s tendency to <mark class="voc" data-note="n-p9-10">keep “questionable company”</mark> and “willingness to lie to the board” remain troubling. Nvidia’s rockstar boss has his job back. His <mark class="voc" data-note="n-p9-11">mystique</mark> will be harder to recover.</div>
+      <div class="zh-block">黄仁勋的明星光环几乎肯定已经黯淡。那些曾经主动拉拢他的政界人士，很可能会在针对他的调查结束之前与他保持距离。整个行业也可能采取措施来分散风险。一位分析师认为，英伟达最大的芯片制造合作伙伴、芯片巨头台积电，将更加警惕对单一客户的过度依赖。那些过去因为担心被切断黄仁勋的芯片供应而避开英伟达竞争对手的云服务提供商，如今可能更愿意四处比较、寻找其他供应商。并非所有投资者都已经放下心来。券商伯恩斯坦的斯泰西·拉斯贡指出，黄仁勋倾向于与“值得怀疑的人交往”，以及他“愿意向董事会撒谎”的态度，依然令人担忧。英伟达那位摇滚明星般的老板夺回了自己的职位，但他曾经拥有的神秘光环，却没有那么容易恢复。</div>
+      <button class="notes-toggle" onclick="toggleNotes(this)">查看本段注释</button>
+      <div class="notes-group">
+        <div class="note-item" id="n-p9-1"><b>dim</b> /dɪm/ v.<br>英文释义：to become or make something less bright, strong or impressive<br>中文释义：变暗；使暗淡；减弱；使失去光彩<br>文中意：黄仁勋曾经耀眼的个人声望和影响力已经有所减弱<br>例句一：Repeated failures gradually dimmed his enthusiasm for the project. 接连不断的失败逐渐削弱了他对这个项目的热情。<br>例句二：The scandal dimmed the company's once brilliant reputation. 这场丑闻使该公司曾经辉煌的声誉黯然失色。</div>
+        <div class="note-item" id="n-p9-2"><b>court</b> /kɔːt/ v.<br>英文释义：to try to gain someone's support, approval, attention or favour<br>中文释义：争取；拉拢；讨好；追求<br>文中意：政界人士过去主动接近黄仁勋，希望获得他的支持或建立有利的关系<br>例句一：The company is actively courting international investors. 这家公司正在积极争取国际投资者的支持。<br>例句二：Political leaders often court influential figures in the business community. 政治领导人经常主动拉拢商界有影响力的人物。</div>
+        <div class="note-item" id="n-p9-3"><b>keep one's distance</b> /kiːp wʌnz ˈdɪstəns/ phr.<br>英文释义：to avoid becoming too closely involved with someone or something<br>中文释义：保持距离；避免过于亲近；疏远<br>文中意：政界人士可能在相关调查结束前避免与黄仁勋建立过于密切的联系<br>例句一：Several business partners decided to keep their distance after the scandal. 丑闻发生后，几位商业伙伴决定与其保持距离。<br>例句二：She prefers to keep her distance from unnecessary workplace conflicts. 她更愿意远离不必要的职场冲突。</div>
+        <div class="note-item" id="n-p9-4"><b>hedge one's bets</b> /hedʒ wʌnz bets/ phr.<br>英文释义：to reduce the risk of failure or loss by keeping several different options available<br>中文释义：分散风险；采取两手准备；避免孤注一掷<br>文中意：人工智能行业的企业可能通过寻找其他合作伙伴来降低对英伟达的依赖风险<br>例句一：The company is hedging its bets by investing in several different technologies. 该公司通过投资多种不同的技术来分散风险。<br>例句二：Many investors hedge their bets by spreading their money across different industries. 许多投资者通过将资金分散到不同行业来降低风险。</div>
+        <div class="note-item" id="n-p9-5"><b>reckon</b> /ˈrekən/ v.<br>英文释义：to think, believe or estimate that something is true or likely<br>中文释义：认为；估计；判断；计算<br>文中意：一位分析师判断台积电未来将更加谨慎地看待对英伟达的依赖<br>例句一：Experts reckon that the recovery could take several years. 专家认为，经济复苏可能需要数年时间。<br>例句二：I reckon the company needs to reconsider its current strategy. 我认为这家公司需要重新考虑目前的战略。</div>
+        <div class="note-item" id="n-p9-6"><b>shun</b> /ʃʌn/ v.<br>英文释义：to deliberately avoid someone or something<br>中文释义：刻意避开；回避；排斥；拒绝接触<br>文中意：一些云服务提供商过去为了维持与英伟达的关系而刻意避免与其竞争对手合作<br>例句一：Many investors shun companies with poor financial records. 许多投资者刻意避开财务记录不佳的企业。<br>例句二：Consumers increasingly shun brands that fail to meet environmental standards. 消费者越来越倾向于避开不符合环保标准的品牌。</div>
+        <div class="note-item" id="n-p9-7"><b>for fear of</b> /fə fɪər əv/ phr.<br>英文释义：because of being afraid that something unpleasant might happen<br>中文释义：唯恐；生怕；由于担心……<br>文中意：云服务提供商因为担心失去英伟达的芯片供应而避免与其竞争对手合作<br>例句一：Some employees remain silent for fear of losing their jobs. 一些员工因为担心失去工作而保持沉默。<br>例句二：The company delayed its expansion for fear of taking on too much debt. 该公司因为担心承担过多债务而推迟了扩张计划。</div>
+        <div class="note-item" id="n-p9-8"><b>shop around phr.</b> /ʃɒp əˈraʊnd/ v.<br>英文释义：to compare different products, prices or suppliers before making a decision<br>中文释义：货比三家；四处比较；寻找更合适的选择<br>文中意：云服务提供商可能更加积极地比较其他芯片制造商的产品，并寻找替代供应商<br>例句一：It is worth shopping around before choosing an insurance provider. 在选择保险服务商之前，值得货比三家。<br>例句二：Businesses should shop around for suppliers that offer better prices and services. 企业应该多方比较，寻找能够提供更优惠价格和更好服务的供应商。</div>
+        <div class="note-item" id="n-p9-9"><b>broker</b> /ˈbrəʊkə/ n.<br>英文释义：a person or company that arranges financial transactions or buys and sells investments on behalf of clients<br>中文释义：经纪人；证券经纪商；券商；中介机构<br>文中意：提供证券交易、投资研究等金融服务的伯恩斯坦公司<br>例句一：The broker advised clients to diversify their investments. 这家券商建议客户进行多元化投资。<br>例句二：She contacted a broker before making her first investment in the stock market. 在首次投资股票市场之前，她联系了一名证券经纪人。</div>
+        <div class="note-item" id="n-p9-10"><b>keep company</b> /kiːp ˈkʌmpəni/ phr.<br>英文释义：to spend time with or regularly associate with particular people<br>中文释义：与人交往；与人来往；与人结伴<br>文中意：分析师对黄仁勋所交往的人及其私人社交关系表达担忧<br>例句一：Parents sometimes worry about the company their children keep. 父母有时会担心孩子与什么样的人交往。<br>例句二：He was criticized for keeping company with dishonest business associates. 他因与不诚实的商业伙伴交往而受到批评。</div>
+        <div class="note-item" id="n-p9-11"><b>mystique</b> /mɪˈstiːk/ n.<br>英文释义：a special quality of mystery, fascination or admiration surrounding a person or thing<br>中文释义：神秘感；神秘魅力；令人崇拜的光环<br>文中意：黄仁勋曾经拥有的近乎传奇般的个人魅力、权威和令人崇拜的明星光环<br>例句一：The founder's extraordinary success created an almost legendary mystique around him. 这位创始人的非凡成功为他营造了一种近乎传奇般的神秘光环。<br>例句二：Once the truth was revealed, much of the brand's mystique disappeared. 真相被揭露后，这个品牌的大部分神秘魅力随之消失。</div>
+      </div>
+    </section>
+  </main>
+
+  <!-- ==================== 右侧查询面板 ==================== -->
+  <aside class="side" id="side-panel">
+    <div class="side-inner">
+      <div class="side-head">
+        <h2>查询面板</h2>
+        <button class="side-collapse" onclick="toggleSide()">收起面板</button>
+      </div>
+
+      <div class="side-body" id="side-body">
+
+        <div class="search-box">
+          <input type="text" id="search-input" placeholder="输入单词 / 短语，实时检索全文…"
+                 oninput="doSearch(this.value)">
+          <div class="search-result" id="search-result"></div>
+        </div>
+
+        <div class="tab-panes">
+          <div class="tab-pane active" id="tab-1">
+            <div class="tab-list" id="vocab-list">
+<div class="row" id="v-1"><div class="row-top"><span class="w en">hostile</span><span class="ph en">/ˈhɒstaɪl/</span><a class="src" href="#p-headline">标题</a></div><div class="def">英文释义：unfriendly or strongly opposed to someone or something</div></div>
+<div class="row" id="v-2"><div class="row-top"><span class="w en">Congress</span><span class="ph en">/ˈkɒŋɡres/</span><a class="src" href="#p-headline">标题</a></div><div class="def">英文释义：the national legislative body of the United States</div></div>
+<div class="row" id="v-3"><div class="row-top"><span class="w en">rattled</span><span class="ph en">/ˈrætld/</span><a class="src" href="#p-headline">标题</a></div><div class="def">英文释义：nervous, worried or upset because of something unexpected</div></div>
+<div class="row" id="v-4"><div class="row-top"><span class="w en">wary</span><span class="ph en">/ˈweəri/</span><a class="src" href="#p-headline">标题</a></div><div class="def">英文释义：careful because you think there may be a danger or problem</div></div>
+<div class="row" id="v-5"><div class="row-top"><span class="w en">comeback</span><span class="ph en">/ˈkʌmbæk/</span><a class="src" href="#p1">¶1</a></div><div class="def">英文释义：a return to success, popularity or an important position after a period of difficulty</div></div>
+<div class="row" id="v-6"><div class="row-top"><span class="w en">almost to the week</span><span class="ph en">/ˈɔːlməʊst tə ðə wiːk/</span><a class="src" href="#p1">¶1</a></div><div class="def">英文释义：at nearly exactly the same time of the year, with a difference of about a week or less</div></div>
+<div class="row" id="v-7"><div class="row-top"><span class="w en">sack</span><span class="ph en">/sæk/</span><a class="src" href="#p1">¶1</a></div><div class="def">英文释义：to dismiss someone from their job</div></div>
+<div class="row" id="v-8"><div class="row-top"><span class="w en">only to do sth.</span><span class="ph en">/ˈəʊnli tə duː/</span><a class="src" href="#p1">¶1</a></div><div class="def">英文释义：used to introduce an unexpected or disappointing result</div></div>
+<div class="row" id="v-9"><div class="row-top"><span class="w en">reinstate</span><span class="ph en">/ˌriːɪnˈsteɪt/</span><a class="src" href="#p1">¶1</a></div><div class="def">英文释义：to return someone to a position or job that they previously held</div></div>
+<div class="row" id="v-10"><div class="row-top"><span class="w en">intention</span><span class="ph en">/ɪnˈtenʃn/</span><a class="src" href="#p2">¶2</a></div><div class="def">英文释义：a plan or purpose to do something</div></div>
+<div class="row" id="v-11"><div class="row-top"><span class="w en">give sb. sth. back</span><span class="ph en">/ɡɪv ˈsʌmbədi ˈsʌmθɪŋ bæk/</span><a class="src" href="#p2">¶2</a></div><div class="def">英文释义：to return something to the person who previously had it</div></div>
+<div class="row" id="v-12"><div class="row-top"><span class="w en">be satisfied with</span><span class="ph en">/bi ˈsætɪsfaɪd wɪð/</span><a class="src" href="#p2">¶2</a></div><div class="def">英文释义：to feel pleased because something meets your expectations or requirements</div></div>
+<div class="row" id="v-13"><div class="row-top"><span class="w en">candour</span><span class="ph en">/ˈkændə/</span><a class="src" href="#p2">¶2</a></div><div class="def">英文释义：the quality of being honest, open and direct about something</div></div>
+<div class="row" id="v-14"><div class="row-top"><span class="w en">at the helm</span><span class="ph en">/ət ðə helm/</span><a class="src" href="#p3">¶3</a></div><div class="def">英文释义：in a position of leadership or control of an organization</div></div>
+<div class="row" id="v-15"><div class="row-top"><span class="w en">keen on</span><span class="ph en">/kiːn ɒn/</span><a class="src" href="#p3">¶3</a></div><div class="def">英文释义：very interested in or enthusiastic about something</div></div>
+<div class="row" id="v-16"><div class="row-top"><span class="w en">sceptic</span><span class="ph en">/ˈskeptɪk/</span><a class="src" href="#p3">¶3</a></div><div class="def">英文释义：a person who doubts whether something is true, useful or effective</div></div>
+<div class="row" id="v-17"><div class="row-top"><span class="w en">showman</span><span class="ph en">/ˈʃəʊmən/</span><a class="src" href="#p3">¶3</a></div><div class="def">英文释义：a person who is skilled at attracting public attention and entertaining an audience</div></div>
+<div class="row" id="v-18"><div class="row-top"><span class="w en">grilling</span><span class="ph en">/ˈɡrɪlɪŋ/</span><a class="src" href="#p4">¶4</a></div><div class="def">英文释义：a period of intense and difficult questioning</div></div>
+<div class="row" id="v-19"><div class="row-top"><span class="w en">national</span><span class="ph en">/ˈnæʃnəl/</span><a class="src" href="#p4">¶4</a></div><div class="def">英文释义：a person who is legally recognized as a citizen of a particular country</div></div>
+<div class="row" id="v-20"><div class="row-top"><span class="w en">house</span><span class="ph en">/haʊs/</span><a class="src" href="#p4">¶4</a></div><div class="def">英文释义：one of the groups of people who form a country's legislative body</div></div>
+<div class="row" id="v-21"><div class="row-top"><span class="w en">dial into phr.</span><span class="ph en">/ˈdaɪəl ˈɪntuː/</span><a class="src" href="#p5">¶5</a></div><div class="def">英文释义：to join a meeting or conversation by telephone or through a communication system</div></div>
+<div class="row" id="v-22"><div class="row-top"><span class="w en">make the case</span><span class="ph en">/meɪk ðə keɪs/</span><a class="src" href="#p5">¶5</a></div><div class="def">英文释义：to present arguments or evidence in support of a particular idea or action</div></div>
+<div class="row" id="v-23"><div class="row-top"><span class="w en">cabinet</span><span class="ph en">/ˈkæbɪnət/</span><a class="src" href="#p5">¶5</a></div><div class="def">英文释义：a group of senior government officials who advise the head of government and make important policy decisions</div></div>
+<div class="row" id="v-24"><div class="row-top"><span class="w en">shakeup</span><span class="ph en">/ˈʃeɪkʌp/</span><a class="src" href="#p5">¶5</a></div><div class="def">英文释义：a major change in the organization or management of a company or institution</div></div>
+<div class="row" id="v-25"><div class="row-top"><span class="w en">change tack</span><span class="ph en">/tʃeɪndʒ tæk/</span><a class="src" href="#p5">¶5</a></div><div class="def">英文释义：to change one's approach, strategy or way of dealing with a situation</div></div>
+<div class="row" id="v-26"><div class="row-top"><span class="w en">bizarrely</span><span class="ph en">/bɪˈzɑːli/</span><a class="src" href="#p5">¶5</a></div><div class="def">英文释义：in a very strange, unusual or difficult-to-explain way</div></div>
+<div class="row" id="v-27"><div class="row-top"><span class="w en">outsider</span><span class="ph en">/ˌaʊtˈsaɪdə/</span><a class="src" href="#p5">¶5</a></div><div class="def">英文释义：a person who does not belong to a particular group, organization or community</div></div>
+<div class="row" id="v-28"><div class="row-top"><span class="w en">be no fan of</span><span class="ph en">/bi nəʊ fæn əv/</span><a class="src" href="#p5">¶5</a></div><div class="def">英文释义：to dislike or have little enthusiasm or support for someone or something</div></div>
+<div class="row" id="v-29"><div class="row-top"><span class="w en">downfall</span><span class="ph en">/ˈdaʊnfɔːl/</span><a class="src" href="#p5">¶5</a></div><div class="def">英文释义：the loss of power, success, status or reputation, especially after a period of great achievement</div></div>
+<div class="row" id="v-30"><div class="row-top"><span class="w en">make the case for</span><span class="ph en">/meɪk ðə keɪs fɔː/</span><a class="src" href="#p6">¶6</a></div><div class="def">英文释义：to present convincing reasons or evidence in support of something</div></div>
+<div class="row" id="v-31"><div class="row-top"><span class="w en">weigh</span><span class="ph en">/weɪ/</span><a class="src" href="#p6">¶6</a></div><div class="def">英文释义：to carefully consider something before making a decision</div></div>
+<div class="row" id="v-32"><div class="row-top"><span class="w en">fallout</span><span class="ph en">/ˈfɔːlaʊt/</span><a class="src" href="#p7">¶7</a></div><div class="def">英文释义：the unpleasant or harmful consequences of an event or situation</div></div>
+<div class="row" id="v-33"><div class="row-top"><span class="w en">subordinate</span><span class="ph en">/səˈbɔːdɪnət/</span><a class="src" href="#p7">¶7</a></div><div class="def">英文释义：a person who has a lower position or less authority than someone else in an organization</div></div>
+<div class="row" id="v-34"><div class="row-top"><span class="w en">humiliation</span><span class="ph en">/hjuːˌmɪliˈeɪʃn/</span><a class="src" href="#p7">¶7</a></div><div class="def">英文释义：the feeling of shame or embarrassment caused by being made to look foolish or inferior</div></div>
+<div class="row" id="v-35"><div class="row-top"><span class="w en">not be shy about sth.</span><span class="ph en">/nɒt bi ʃaɪ əˈbaʊt/</span><a class="src" href="#p7">¶7</a></div><div class="def">英文释义：to be willing to speak openly about something or do something without embarrassment or hesitation</div></div>
+<div class="row" id="v-36"><div class="row-top"><span class="w en">less...than...</span><span class="ph en">/les ðæn/</span><a class="src" href="#p8">¶8</a></div><div class="def">英文释义：used to show that one thing is less important, noticeable or significant than another</div></div>
+<div class="row" id="v-37"><div class="row-top"><span class="w en">temper</span><span class="ph en">/ˈtempə/</span><a class="src" href="#p8">¶8</a></div><div class="def">英文释义：a person's tendency to become angry or lose control of their emotions</div></div>
+<div class="row" id="v-38"><div class="row-top"><span class="w en">absurd</span><span class="ph en">/əbˈsɜːd/</span><a class="src" href="#p8">¶8</a></div><div class="def">英文释义：completely unreasonable, illogical or ridiculous</div></div>
+<div class="row" id="v-39"><div class="row-top"><span class="w en">scrutiny</span><span class="ph en">/ˈskruːtəni/</span><a class="src" href="#p8">¶8</a></div><div class="def">英文释义：careful and detailed examination of someone or something</div></div>
+<div class="row" id="v-40"><div class="row-top"><span class="w en">orchestrator</span><span class="ph en">/ˈɔːkɪstreɪtə/</span><a class="src" href="#p8">¶8</a></div><div class="def">英文释义：a person who organizes and coordinates complex activities to achieve a particular result</div></div>
+<div class="row" id="v-41"><div class="row-top"><span class="w en">blessing</span><span class="ph en">/ˈblesɪŋ/</span><a class="src" href="#p8">¶8</a></div><div class="def">英文释义：approval, support or permission given by someone with authority or influence</div></div>
+<div class="row" id="v-42"><div class="row-top"><span class="w en">send sth. doing</span><span class="ph en">/send ˈsʌmθɪŋ ˈduːɪŋ/</span><a class="src" href="#p8">¶8</a></div><div class="def">英文释义：to cause something to move, change or enter a particular state, often suddenly</div></div>
+<div class="row" id="v-43"><div class="row-top"><span class="w en">share the stage with</span><span class="ph en">/ʃeə ðə steɪdʒ wɪð/</span><a class="src" href="#p8">¶8</a></div><div class="def">英文释义：to appear or speak on the same stage as another person at a public event</div></div>
+<div class="row" id="v-44"><div class="row-top"><span class="w en">preach</span><span class="ph en">/priːtʃ/</span><a class="src" href="#p8">¶8</a></div><div class="def">英文释义：to publicly express and promote a belief, idea or principle with strong enthusiasm</div></div>
+<div class="row" id="v-45"><div class="row-top"><span class="w en">gospel</span><span class="ph en">/ˈɡɒspl/</span><a class="src" href="#p8">¶8</a></div><div class="def">英文释义：a set of beliefs or principles that someone strongly supports and promotes</div></div>
+<div class="row" id="v-46"><div class="row-top"><span class="w en">queue</span><span class="ph en">/kjuː/</span><a class="src" href="#p8">¶8</a></div><div class="def">英文释义：to wait in a line or eagerly wait for an opportunity to obtain or do something</div></div>
+<div class="row" id="v-47"><div class="row-top"><span class="w en">dim</span><span class="ph en">/dɪm/</span><a class="src" href="#p9">¶9</a></div><div class="def">英文释义：to become or make something less bright, strong or impressive</div></div>
+<div class="row" id="v-48"><div class="row-top"><span class="w en">court</span><span class="ph en">/kɔːt/</span><a class="src" href="#p9">¶9</a></div><div class="def">英文释义：to try to gain someone's support, approval, attention or favour</div></div>
+<div class="row" id="v-49"><div class="row-top"><span class="w en">keep one's distance</span><span class="ph en">/kiːp wʌnz ˈdɪstəns/</span><a class="src" href="#p9">¶9</a></div><div class="def">英文释义：to avoid becoming too closely involved with someone or something</div></div>
+<div class="row" id="v-50"><div class="row-top"><span class="w en">hedge one's bets</span><span class="ph en">/hedʒ wʌnz bets/</span><a class="src" href="#p9">¶9</a></div><div class="def">英文释义：to reduce the risk of failure or loss by keeping several different options available</div></div>
+<div class="row" id="v-51"><div class="row-top"><span class="w en">reckon</span><span class="ph en">/ˈrekən/</span><a class="src" href="#p9">¶9</a></div><div class="def">英文释义：to think, believe or estimate that something is true or likely</div></div>
+<div class="row" id="v-52"><div class="row-top"><span class="w en">shun</span><span class="ph en">/ʃʌn/</span><a class="src" href="#p9">¶9</a></div><div class="def">英文释义：to deliberately avoid someone or something</div></div>
+<div class="row" id="v-53"><div class="row-top"><span class="w en">for fear of</span><span class="ph en">/fə fɪər əv/</span><a class="src" href="#p9">¶9</a></div><div class="def">英文释义：because of being afraid that something unpleasant might happen</div></div>
+<div class="row" id="v-54"><div class="row-top"><span class="w en">shop around phr.</span><span class="ph en">/ʃɒp əˈraʊnd/</span><a class="src" href="#p9">¶9</a></div><div class="def">英文释义：to compare different products, prices or suppliers before making a decision</div></div>
+<div class="row" id="v-55"><div class="row-top"><span class="w en">broker</span><span class="ph en">/ˈbrəʊkə/</span><a class="src" href="#p9">¶9</a></div><div class="def">英文释义：a person or company that arranges financial transactions or buys and sells investments on behalf of clients</div></div>
+<div class="row" id="v-56"><div class="row-top"><span class="w en">keep company</span><span class="ph en">/kiːp ˈkʌmpəni/</span><a class="src" href="#p9">¶9</a></div><div class="def">英文释义：to spend time with or regularly associate with particular people</div></div>
+<div class="row" id="v-57"><div class="row-top"><span class="w en">mystique</span><span class="ph en">/mɪˈstiːk/</span><a class="src" href="#p9">¶9</a></div><div class="def">英文释义：a special quality of mystery, fascination or admiration surrounding a person or thing</div></div>
+            </div>
+          </div>
+
+          <div class="tab-pane" id="tab-2">
+            <div class="tab-list" id="proper-list">
+<div class="row" id="pn-1"><div class="row-top"><span class="w">Founder Comebacks in Silicon Valley / 硅谷的创始人回归现象</span></div><div class="def">在硅谷科技企业的发展历史中，创始人离开公司后重新掌权并不罕见。最著名的例子之一是乔布斯，他于1985年离开苹果公司，1997年重新担任公司领导者，并带领苹果走向复兴。这种现象反映出科技企业的价值有时不仅来自技术和产品，也来自创始人的个人魅力、战略眼光以及投资者对其未来愿景的信任。</div></div>
+<div class="row" id="pn-2"><div class="row-top"><span class="w">Sam Altman’s Ouster and Return / 山姆·奥尔特曼的“宫斗事件”</span></div><div class="def">2023年11月17日，OpenAI董事会突然宣布解除首席执行官山姆·奥尔特曼的职务，理由是他在与董事会沟通时未能始终保持坦诚。这一决定引发了公司内部的巨大震荡，微软等投资方表达关切，大批员工联名要求董事会辞职，并威胁离开公司。短短数天后，奥尔特曼便重新获得首席执行官职位。这场事件揭示了科技企业董事会的正式权力与创始人实际影响力之间的矛盾，也是本文开头用来进行对比的典型案例。</div></div>
+<div class="row" id="pn-3"><div class="row-top"><span class="w">Board of Directors vs. CEO / 董事会与首席执行官的权力关系</span></div><div class="def">董事会代表股东监督公司的经营管理，通常拥有任命和解雇首席执行官、审查重大经营决策以及监督企业风险的权力。CEO则负责公司的日常经营和战略执行。然而，当CEO 同时也是企业创始人，并拥有极高的个人声望时，董事会虽然在制度上拥有监督权，却可能在实际决策中受到员工、投资者和商业伙伴的压力。</div></div>
+<div class="row" id="pn-4"><div class="row-top"><span class="w">Market Capitalisation and Investor Confidence / 市值与投资者信心</span></div><div class="def">市值是指一家上市公司的股票总数乘以当前股价。市值蒸发一万亿美元，并不意味着公司的银行账户里真的少了一万亿美元，而是意味着资本市场对公司整体价值的估计下降了。文章通过黄仁勋离职和回归前后的股价变化，体现投资者对企业领导者个人能力的重视，也揭示了资本市场对未来预期的高度敏感性。</div></div>
+<div class="row" id="pn-5"><div class="row-top"><span class="w">US Chip Export Controls / 美国的芯片出口管制</span></div><div class="def">美国近年来不断加强对先进半导体及人工智能相关技术的出口限制，其公开政策理由主要涉及国家安全和军事技术风险。出口管制不仅可能限制某些芯片的直接销售，还可能涉及芯片制造设备、软件和相关技术服务。对于英伟达这样的全球化企业而言，出口管制意味着商业利益与国家安全政策之间存在长期冲突。</div></div>
+<div class="row" id="pn-6"><div class="row-top"><span class="w">Corporate Stakeholders / 科技企业的利益相关者</span></div><div class="def">企业的利益相关者不仅包括股东，还包括员工、客户、供应商、政府以及其他受到企业经营活动影响的群体。一个企业领导者即使重新获得董事会和股东的支持，也不意味着其他利益相关者会立即恢复对他的信任。本文第三段实际上为后文设置了三条主线：政治信任、内部员工信任以及商业合作伙伴的信任。</div></div>
+<div class="row" id="pn-7"><div class="row-top"><span class="w">Congressional Hearings / 美国国会听证会</span></div><div class="def">美国国会可以通过举行听证会，对政府政策、企业行为及社会重大事件展开调查和监督。大型科技公司的负责人经常被要求出席国会听证会，回答议员有关数据隐私、市场垄断、国家安全等问题。国会听证会并不等同于法院审判，但公开质询可能给企业领导者带来巨大的舆论压力，并推动后续立法或监管行动。</div></div>
+<div class="row" id="pn-8"><div class="row-top"><span class="w">The Two Houses of Congress / 美国国会的两院制度</span></div><div class="def">美国国会由参议院（Senate）和众议院（House of Representatives）组成。两院均拥有立法和监督职能，但在具体权力和议事程序上有所不同。当一个政党同时控制两院时，通常能够更有力地推动其立法议程，并通过委员会组织调查和听证会。因此，国会控制权的变化可能直接影响大型科技企业所面临的政治环境。</div></div>
+<div class="row" id="pn-9"><div class="row-top"><span class="w">The US Cabinet / 美国总统内阁</span></div><div class="def">美国总统内阁由各主要联邦行政部门的负责人及部分其他高级官员组成，其主要职责是向总统提供政策建议并负责相关行政事务。总统与内阁成员并不一定在所有问题上保持一致。例如，经济部门可能更加关注企业竞争力、就业和金融市场稳定，而外交及国家安全部门可能更加重视地缘政治和技术安全风险。</div></div>
+<div class="row" id="pn-10"><div class="row-top"><span class="w">Scott Bessent / 斯科特·⻉森特</span></div><div class="def">斯科特·⻉森特拥有长期的金融投资和资产管理从业经历，曾在索罗斯基金管理公司担任重要职务，后来创立自己的投资管理公司。2025年，他出任美国财政部长。财政部长主要负责联邦财政、税收、国债、金融政策以及部分经济制裁事务。文章中⻉森特对英伟达领导层的态度变化，体现了政府内部在企业治理、市场稳定与国家利益之间可能存在的不同考量。</div></div>
+<div class="row" id="pn-11"><div class="row-top"><span class="w">Marco Rubio / 马尔科·卢比奥</span></div><div class="def">马尔科·卢比奥曾长期担任美国联邦参议员，并于2025年出任美国国务卿。国务卿是美国负责外交事务的重要政府官员，主要职责包括执行外交政策、处理国际关系以及维护美国在海外的利益。卢比奥长期关注美国的国家安全和国际竞争问题。根据本文的叙述，他在涉及黄仁勋的情报备忘录事件中扮演了重要角色，这也使事件超出了单纯企业管理和个人私生活的范畴。</div></div>
+<div class="row" id="pn-12"><div class="row-top"><span class="w">Department of Commerce and BIS / 美国商务部与工业和安全局</span></div><div class="def">美国商务部负责促进商业发展、经济增长和国际贸易，其下属的工业和安全局（Bureau of Industry and Security，简称BIS）是负责执行美国出口管制的重要机构。该机构可以通过出口许可证、实体清单及相关技术限制措施，对特定商品和技术的跨境流动进行监管。先进半导体出口政策是其近年来受到广泛关注的工作领域之一。</div></div>
+<div class="row" id="pn-13"><div class="row-top"><span class="w">Chip Rental and Cross-border Computing Power / 芯片租赁与跨境算力</span></div><div class="def">企业使用先进人工智能芯片，并不一定需要直接购买实体芯片。它们也可以通过互联网向海外数据中心租用计算资源，远程完成模型训练、数据处理和人工智能推理。这意味着，即使实体芯片的跨境销售受到限制，相关企业仍可能通过云计算服务获得算力。文章提到的新规，反映了出口管制从关注实体硬件交易向关注计算资源使用权限延伸的政策思路。</div></div>
+<div class="row" id="pn-14"><div class="row-top"><span class="w">Power Imbalance in the Workplace / 职场权力不对等</span></div><div class="def">当企业高管与下属发生私人亲密关系时，双方之间的权力差距可能引发一系列企业治理问题，包括利益冲突、晋升公平性以及其他员工是否受到不公平待遇等。即使私人关系本身是双方自愿的，企业也可能要求相关人员主动申报，以避免管理权力与私人利益发生冲突。本文提到的相关婚外情属于报道中的指称，不应直接视为已经证实的事实。</div></div>
+<div class="row" id="pn-15"><div class="row-top"><span class="w">High-pressure Management Culture / 高压管理文化</span></div><div class="def">硅谷部分科技企业以高强度工作、高绩效要求和激烈的内部竞争而闻名。一些企业领导者认为，严格要求和持续施压能够激发员工的潜力，但这种管理方式也可能导致职业倦怠、心理压力以及员工流失。管理学中的一个重要概念是心理安全感（psychological safety），即员工能够在不担心遭受羞辱或惩罚的情况下提出问题、承认错误和表达不同意见。本文中有关黄仁勋管理行为的具体指控，已受到其发言人的质疑。</div></div>
+<div class="row" id="pn-16"><div class="row-top"><span class="w">Key Person Risk and Succession Planning / 关键人物风险与接班人计划</span></div><div class="def">关键人物风险是指一家企业过度依赖某位创始人、高管或核心技术人员，一旦此人离职、患病或陷入危机，企业的经营和市场价值便可能受到严重影响。为了降低这种风险，成熟企业通常会制定接班人计划，提前培养能够承担核心领导职责的人选。文章提到黄仁勋拥有约60 名直属下属，却没有明确的接班人，正是为了突出这种高度集中化的管理模式可能带来的风险。</div></div>
+<div class="row" id="pn-17"><div class="row-top"><span class="w">Independent Directors and Corporate Compliance / 独立董事与企业合规</span></div><div class="def">独立董事通常不参与公司的日常经营管理，并且不应存在可能影响其独立判断的重大利益关系。他们的重要职责之一是监督管理层、保护股东利益以及审查企业风险。企业合规则是指公司经营活动必须符合相关法律、监管规定和内部制度。文章中提到的独立董事委员会，体现了董事会试图通过制度化监督来约束管理层权力、降低国家安全及贸易合规风险的做法。</div></div>
+<div class="row" id="pn-18"><div class="row-top"><span class="w">TSMC and Nvidia / 台积电与英伟达的商业关系</span></div><div class="def">英伟达采用无晶圆厂商业模式（fabless business model），即主要负责芯片设计，而将芯片制造交给专业的半导体代工企业。台积电是全球重要的先进半导体代工企业，也是英伟达的重要制造合作伙伴。这种分工模式能够让双方集中资源发展各自的核心优势，但也会形成相互依赖关系。当一家企业过度依赖单一客户或供应商时，合作伙伴的经营危机就可能沿着整个产业链传导。因此，供应链多元化也是企业降低商业风险的重要方式。</div></div>
+<div class="row" id="pn-19"><div class="row-top"><span class="w">Founder Worship and Charismatic Authority / 创始人崇拜与魅力型权威</span></div><div class="def">德国社会学家马克斯·韦伯曾提出“魅力型权威”（charismatic authority）的概念，即一个人的权威来自追随者对其非凡能力、个人魅力和领导才能的信任。在现代科技行业，乔布斯等明星企业家身上都可以看到类似现象。投资者相信他们能够预见未来，员工相信他们能够创造奇迹，商业伙伴则希望借助他们的影响力获得发展机会。然而，这种建立在个人魅力之上的权威也十分脆弱。一旦公众对领导者的信任发生动摇，即使其重新获得正式职位，也未必能够重新获得曾经的崇拜与追随。这正是本文最后一句所表达的深层含义。<div class="def role">依据《经济学人》2026-11-25 报道。</div></div></div>
+            </div>
+          </div>
+
+          <div class="tab-pane" id="tab-3">
+            <div class="p-nav">
+<a href="#p-headline">标题 · 经济学人<span class="hint">黄仁勋回归：国会、员工与盟友的三重考验</span></a>
+<a href="#p1">Paragraph 1<span class="hint">Comebacks are nothing new in Silic…</span></a>
+<a href="#p2">Paragraph 2<span class="hint">The board, which on November 17th …</span></a>
+<a href="#p3">Paragraph 3<span class="hint">Investors’ relief may not last, ho…</span></a>
+<a href="#p4">Paragraph 4<span class="hint">Mr Huang’s first test will be on D…</span></a>
+<a href="#p5">Paragraph 5<span class="hint">Even Mr Trump’s administration see…</span></a>
+<a href="#p6">Paragraph 6<span class="hint">Mr Huang will also find it harder …</span></a>
+<a href="#p7">Paragraph 7<span class="hint">Nvidia’s returning boss must also …</span></a>
+<a href="#p8">Paragraph 8<span class="hint">Some at Nvidia worry less about hi…</span></a>
+<a href="#p9">Paragraph 9<span class="hint">His star is almost certain to have…</span></a>
+              </div>
+          </div>
+        </div>
+
+        <div class="tab-bar">
+          <button class="tab-btn active" onclick="showTab(1,this)">1 词汇</button>
+          <button class="tab-btn" onclick="showTab(2,this)">2 专有名词</button>
+          <button class="tab-btn" onclick="showTab(3,this)">3 段落导航</button>
+        </div>
+
+      </div><!-- /side-body -->
+    </div>
+  </aside>
+
+</div><!-- /layout -->
+
+<!-- ==================== 底部翻译练习 ==================== -->
+<section class="practice" id="practice">
+  <h2>练习</h2>
+
+  <div class="fold" id="fold-exercise">
+    <button class="fold-head" onclick="toggleFold('fold-exercise')">
+      <span>练习题</span><span class="arrow">▶</span>
+    </button>
+    <div class="fold-body">请根据今天学习的文章，用 80–100个英文单词复述文章内容。<br><br>1. 黄仁勋为什么辞职？英伟达董事会又作出了怎样令人意外的决定？<br>（resign, affair, reinstate, board）<br>2. 黄仁勋复职后，面临怎样的政治压力和出口管制挑战？<br>（Congress, investigation, export controls, tighten）<br>3. 近期的丑闻给英伟达内部带来了哪些问题？<br>（internal fallout, subordinate, humiliation, trust）<br>4. 为什么一些员工担心英伟达对黄仁勋个人的过度依赖？<br>（dependence, direct reports, successor, scrutiny）<br>5. 黄仁勋曾经拥有怎样的行业影响力？为什么如今恢复这种影响力变得更加困难？<br>（orchestrator, blessing, wary, mystique, regain）<br><br>思考题<br>Is it more dangerous for a company to lose a great leader or to become too dependent on<br>one?<br>对于一家企业而言，失去一位卓越的领导者和过度依赖一位领导者，哪一种情况更加危险？<br>请结合今天的文章内容以及自己的理解，用50–80个英文单词表达你的观点。</div>
+  </div>
+
+  <div class="fold" id="fold-answer">
+    <button class="fold-head" onclick="toggleFold('fold-answer')">
+      <span>参考答案</span><span class="arrow">▶</span>
+    </button>
+    <div class="fold-body">参考答案：<br><br>Jensen Huang was reinstated as Nvidia’s chief executive just 12 days after resigning over a series of affairs. Although investors welcomed his return, he still faces investigations from Congress and tougher export controls. Inside Nvidia, allegations about his management methods have raised concerns about employee trust. Some employees also worry about the company’s dependence on him, as he has no obvious successor. Meanwhile, business partners may become more cautious and seek alternative suppliers. Although Huang has regained his position, recovering his reputation, influence and former mystique will be much more difficult.<br>黄仁勋在因一系列婚外情辞职仅12天后，便重新担任英伟达的首席执行官。尽管投资者欢迎他的回归，但他仍然面临国会的调查以及更加严格的出口管制。在英伟达内部，有关其管理方式的指控引发了人们对员工信任问题的担忧。一些员工也担心公司对他的依赖，因为他并没有明确的接班人。与此同时，商业合作伙伴可能会变得更加谨慎，并寻找其他供应商。尽管黄仁勋已经重新获得了自己的职位，但恢复他的声誉、影响力以及曾经的传奇光环将更加困难。<br><br>思考题参考答案（选做）<br>I believe becoming too dependent on one leader is more dangerous. A great leader can bring vision, innovation and confidence to a company. However, if the entire business depends on a single person, any personal crisis can become a corporate crisis. A truly successful company should develop strong management systems and prepare future leaders. Great leadership should make an organization stronger, not make it unable to survive without its leader.<br>中文翻译：<br>我认为，过度依赖一位领导者更加危险。一位卓越的领导者能够为企业带来远见、创新和信心。然而，如果整个企业都依赖于一个人，那么任何个人危机都可能演变成企业危机。一家真正成功的企业应该建立健全的管理体系，并培养未来的领导者。卓越的领导力应该让一个组织变得更加强大，而不是让这个组织在失去领导者之后便无法生存。</div>
+  </div>
+</section>
+
+<script>
+/* ========== 极简原生 JS：折叠 / 搜索高亮 / 面板显隐 ========== */
+
+/* ========== 打印：桌面 / iPad / Android 直调；iPhone 走分享菜单；微信先回浏览器 ========== */
+function printTip(msg, ms){
+  var old = document.getElementById('print-tip');
+  if(old && old.parentNode) old.parentNode.removeChild(old);
+  var t = document.createElement('div');
+  t.id = 'print-tip';
+  t.className = 'print-tip';
+  t.textContent = msg;
+  document.body.appendChild(t);
+  void t.offsetHeight;            /* 强制 reflow：不依赖 rAF，任何环境都能上过渡 */
+  t.classList.add('show');
+  setTimeout(function(){
+    t.classList.remove('show');
+    setTimeout(function(){ if(t.parentNode) t.parentNode.removeChild(t); }, 300);
+  }, ms || 4600);
+}
+
+function legacyCopy(text, cb){
+  var ta = document.createElement('textarea');
+  ta.value = text;
+  ta.setAttribute('readonly','');
+  ta.style.position = 'fixed';
+  ta.style.left = '-9999px';
+  document.body.appendChild(ta);
+  ta.select();
+  try{ document.execCommand('copy'); }catch(e){}
+  document.body.removeChild(ta);
+  if(cb) cb();
+}
+
+function copyPageLink(){
+  var url = location.href;
+  var done = function(){ printTip('链接已复制，粘到 Safari 里打开就能打印。', 3200); };
+  if(navigator.clipboard && navigator.clipboard.writeText){
+    navigator.clipboard.writeText(url).then(done, function(){ legacyCopy(url, done); });
+  }else{
+    legacyCopy(url, done);
+  }
+}
+
+function closePrintGuide(){
+  var m = document.getElementById('pg-mask');
+  if(!m) return;
+  m.classList.remove('show');
+  setTimeout(function(){ if(m.parentNode) m.parentNode.removeChild(m); }, 240);
+}
+
+/* opts: {title, desc, steps:[...], primaryLabel, primaryAction} */
+function openPrintGuide(opts){
+  closePrintGuide();
+  var m = document.createElement('div');
+  m.id = 'pg-mask';
+  m.className = 'pg-mask';
+
+  var card = document.createElement('div');
+  card.className = 'pg-card';
+
+  var h = document.createElement('h3');
+  h.textContent = opts.title;
+  card.appendChild(h);
+
+  var p = document.createElement('p');
+  p.textContent = opts.desc;
+  card.appendChild(p);
+
+  var ol = document.createElement('ol');
+  (opts.steps || []).forEach(function(s){
+    var li = document.createElement('li');
+    li.textContent = s;
+    ol.appendChild(li);
+  });
+  card.appendChild(ol);
+
+  var acts = document.createElement('div');
+  acts.className = 'pg-acts';
+  if(opts.primaryLabel && opts.primaryAction){
+    var b1 = document.createElement('button');
+    b1.className = 'pg-primary';
+    b1.textContent = opts.primaryLabel;
+    b1.onclick = function(){ closePrintGuide(); opts.primaryAction(); };
+    acts.appendChild(b1);
+  }
+  var b2 = document.createElement('button');
+  b2.className = 'pg-ghost';
+  b2.textContent = opts.primaryLabel ? '取消' : '知道了';
+  b2.onclick = closePrintGuide;
+  acts.appendChild(b2);
+  card.appendChild(acts);
+
+  m.appendChild(card);
+  document.body.appendChild(m);
+  void m.offsetHeight;            /* 强制 reflow：不依赖 rAF */
+  m.classList.add('show');
+  m.addEventListener('click', function(e){ if(e.target === m) closePrintGuide(); });
+}
+
+/* ========== 打印视图兜底：任何入口打印前切到 print-sheet 视图，打完恢复 ========== */
+window.addEventListener('beforeprint', function(){ document.body.classList.add('print-sheet'); });
+window.addEventListener('afterprint', function(){ document.body.classList.remove('print-sheet'); });
+/* print-sheet-safety：万一浏览器不触发 afterprint，用户再碰页面就自动恢复 */
+document.addEventListener('pointerdown', function(){ document.body.classList.remove('print-sheet'); }, true);
+
+function doPrint(){
+  var ua = navigator.userAgent || '';
+  var inWX = /MicroMessenger|WeChat/i.test(ua);
+  var isIPhone = /iPhone|iPod/i.test(ua);
+  var isIPad = /iPad/i.test(ua) || (/Macintosh/i.test(ua) && navigator.maxTouchPoints > 1);
+  var isAndroid = /Android/i.test(ua);
+  var isHarmony = /HarmonyOS/i.test(ua);
+  /* 0) 首页弹窗（iframe）里：打印的是外层首页（日历+弹窗叠加），必须先去独立页面 */
+  var inFrame = false;
+  try{ inFrame = (window.self !== window.top); }catch(e){ inFrame = true; }
+  if(inFrame && (inWX || isIPhone || isIPad || isAndroid || isHarmony)){
+    openPrintGuide({
+      title: '先去独立页面再打印',
+      desc: '你现在是在首页的弹窗里看这篇精读页，在这里打印会把首页的日历一起印出来。',
+      steps: [
+        '点下面的「前往独立页面」',
+        '页面会跳到精读页本体（不在弹窗里）',
+        '再点一次「🖨 打印」，按提示操作'
+      ],
+      primaryLabel: '前往独立页面',
+      primaryAction: function(){
+        try{ window.top.location.href = location.href; }
+        catch(e){ copyPageLink(); }        /* 跨域被拦时退回复制链接 */
+      }
+    });
+    return;
+  }
+
+  /* 1) 微信内置浏览器：打印接口被屏蔽，先请用户回到系统浏览器 */
+  if(inWX){
+    openPrintGuide({
+      title: '微信里打不了印',
+      desc: '微信内置浏览器屏蔽了打印功能，换到 Safari 或系统浏览器里打开就能用。',
+      steps: [
+        '点右上角 ···',
+        '选「在默认浏览器打开」（找不到就先把链接复制出来）',
+        '在浏览器里再点一次「🖨 打印」'
+      ],
+      primaryLabel: '复制链接',
+      primaryAction: copyPageLink
+    });
+    return;
+  }
+
+  /* 2) iPhone Safari：window.print() 静默失败，只能走系统分享菜单 */
+  if(isIPhone && !isIPad){
+    if(navigator.share){
+      openPrintGuide({
+        title: '在 iPhone 上打印',
+        desc: 'iPhone 的 Safari 不响应网页里的直接打印，从系统的「分享」两步就到。',
+        steps: [
+          '点下面的「打开分享菜单」',
+          '在弹出面板里向下滑，找到并点「打印」',
+          '只要 PDF：在打印预览里双指放大，即可「存储到文件」'
+        ],
+        primaryLabel: '打开分享菜单',
+        primaryAction: function(){
+          document.body.classList.add('print-sheet');   /* beforeprint 之外的冗余保险 */
+          var sheetDone = false;
+          var cleanup = function(){ if(sheetDone) return; sheetDone = true; document.body.classList.remove('print-sheet'); };
+          try{ window.addEventListener('afterprint', cleanup, {once:true}); }catch(e){}
+          try{
+            var pr = navigator.share({ title: document.title, url: location.href });
+            /* share-cleanup-safe-v1：分享面板一关就撤样式，Safari 会在排版打印预览时回流，
+               分页错位、多出一张空白页。改成 afterprint 或 120s 后再恢复。 */
+            var later = function(){ setTimeout(cleanup, 120000); };
+            if(pr && pr.then){ pr.then(later, later); }
+            else{ setTimeout(cleanup, 120000); }
+          }catch(e){ cleanup(); }
+        }
+      });
+    }else{
+      openPrintGuide({
+        title: '在 iPhone 上打印',
+        desc: '这个浏览器没有开放网页打印，用 Safari 打开后按下面两步操作。',
+        steps: [
+          '点 Safari 工具栏中间的「分享」图标 ⤴',
+          '向下滑找到「打印」；只要 PDF 就在预览里双指放大后「存储到文件」'
+        ],
+        primaryLabel: '复制链接',
+        primaryAction: copyPageLink
+      });
+    }
+    return;
+  }
+
+  /* 3) iPad / Android / 鸿蒙 / 桌面：直接调起 */
+  if(isIPad || isAndroid || isHarmony){
+    printTip('正在调起打印…若没反应，请用浏览器菜单里的「打印 / 存为 PDF」。', 4200);
+    try{ window.print(); }catch(e){}
+    return;
+  }
+  try{
+    window.print();
+  }catch(e){
+    printTip('当前浏览器没有响应打印，请用浏览器菜单里的「打印 / 存为 PDF」。');
+  }
+}
+
+function toggleNotes(btn){
+  btn.nextElementSibling.classList.toggle('open');
+  btn.textContent = btn.nextElementSibling.classList.contains('open')
+    ? '收起本段注释' : '查看本段注释';
+}
+
+/* 右侧面板分页：1 词汇总表 / 2 专有名词表 / 3 段落导航 */
+function showTab(n, btn){
+  [1,2,3].forEach(function(i){
+    var pane = document.getElementById('tab-'+i);
+    if(pane) pane.classList.toggle('active', i === n);
+  });
+  var bar = document.querySelector('.tab-bar');
+  if(bar){
+    var btns = bar.querySelectorAll('.tab-btn');
+    for(var k=0;k<btns.length;k++){
+      btns[k].classList.toggle('active', k === n-1);
+    }
+  }
+  /* 若面板处于收起状态，切换分页时自动展开 */
+  var body = document.getElementById('side-body');
+  if(body && body.classList.contains('hidden')) setSide(true, false);
+  var panes = document.querySelector('.tab-panes');
+  if(panes && !btn) panes.scrollTop = 0;
+}
+
+function toggleFold(id){
+  document.getElementById(id).classList.toggle('open');
+}
+
+/* 导图双版本切换：矢量版 / 手绘版 */
+function showMindmap(mode, btn){
+  MM_VIEWS.forEach(function(m){
+    var el = document.getElementById('mm-' + m);
+    if(el) el.style.display = (m === mode) ? '' : 'none';
+  });
+  document.querySelectorAll('.mm-btn').forEach(function(b){ b.classList.remove('active'); });
+  if(btn) btn.classList.add('active');
+}
+
+/* 导图视图清单（共读页会多出 extra=课件原图） */
+var MM_VIEWS = ['vector', 'image', 'extra'];
+
+
+/* 矢量导图：点击分支标题折叠 / 展开子节点 */
+var MM_BRANCHES = ['bc1','bc2','bc3','bc4'];
+function toggleBranch(id){
+  var kids = document.getElementById(id);
+  var collapsed = kids.classList.toggle('collapsed');
+  var arrow = document.querySelector('.mm-arrow[data-for="'+id+'"]');
+  if(arrow) arrow.textContent = collapsed ? '▸' : '▾';
+  syncAllBtn();
+}
+/* shouldExpand = true 全部展开；false 全部收起 */
+function setAllBranches(shouldExpand){
+  MM_BRANCHES.forEach(function(id){
+    var isCollapsed = document.getElementById(id).classList.contains('collapsed');
+    if(shouldExpand && isCollapsed) toggleBranch(id);
+    if(!shouldExpand && !isCollapsed) toggleBranch(id);
+  });
+}
+function syncAllBtn(){
+  var anyCollapsed = MM_BRANCHES.some(function(id){
+    return document.getElementById(id).classList.contains('collapsed');
+  });
+  document.getElementById('mm-all-btn').textContent = anyCollapsed ? '全部展开' : '全部收起';
+}
+function toggleAllMindmap(){
+  /* 若当前显示手绘版，先切回矢量版再操作 */
+  if(document.getElementById('mm-vector').style.display === 'none'){
+    showMindmap('vector', document.getElementById('mm-vector-btn'));
+  }
+  var anyCollapsed = MM_BRANCHES.some(function(id){
+    return document.getElementById(id).classList.contains('collapsed');
+  });
+  /* 有收起的 → 全部展开；全展开 → 全部收起 */
+  setAllBranches(anyCollapsed);
+  syncAllBtn();
+}
+document.querySelectorAll('.mm-branch').forEach(function(g){
+  g.addEventListener('click', function(){ toggleBranch(g.getAttribute('data-target')); });
+});
+
+/* ========== 右侧面板开合：宽屏默认收成竖条，点击展开；偏好记入 localStorage ========== */
+var SIDE_PREF = 'outward-side-open-v1';
+function sideWide(){ return window.matchMedia('(min-width:768px)').matches; }
+function sideHidden(){
+  var b = document.getElementById('side-body');
+  return !!b && b.classList.contains('hidden');
+}
+function syncSideBtn(){
+  var btn = document.querySelector('.side-collapse');
+  if(!btn) return;
+  if(sideWide() && sideHidden()){
+    btn.textContent = '展开查询面板';
+    btn.title = '点击展开查询面板，与正文并排显示';
+  }else{
+    btn.textContent = sideHidden() ? '展开面板' : '收起面板';
+    btn.title = '';
+  }
+}
+function setSide(open, remember){
+  var body = document.getElementById('side-body');
+  if(!body) return;
+  body.classList.toggle('hidden', !open);
+  document.body.classList.toggle('side-collapsed', !open);
+  if(remember){ try{ localStorage.setItem(SIDE_PREF, open ? '1' : '0'); }catch(e){} }
+  syncSideBtn();
+  if(typeof syncHeaderHeight === 'function') syncHeaderHeight();
+}
+function toggleSide(){
+  setSide(sideHidden(), true);   /* 收起状态点一下就展开 */
+}
+(function initSide(){
+  var saved = null;
+  try{ saved = localStorage.getItem(SIDE_PREF); }catch(e){}
+  /* 手机保持展开（面板在页面底部）；电脑 / iPad 首次访问默认收起，之后按用户上次的选择 */
+  var open = sideWide() ? (saved === '1') : true;
+  setSide(open, false);
+  window.addEventListener('resize', syncSideBtn);
+})();
+
+/* 实时搜索：高亮全文英文块 + 标记表格命中行 + 列出跳转链接 */
+var lastMarks = [];
+function clearMarks(){
+  lastMarks.forEach(function(m){
+    var parent = m.parentNode;
+    parent.replaceChild(document.createTextNode(m.textContent), m);
+    parent.normalize();
+  });
+  lastMarks = [];
+  document.querySelectorAll('tr.row-hit').forEach(function(r){ r.classList.remove('row-hit'); });
+}
+
+function doSearch(q){
+  clearMarks();
+  var result = document.getElementById('search-result');
+  q = q.trim();
+  if(!q){ result.textContent = ''; return; }
+
+  /* 1) 高亮左侧正文英文块 */
+  var hitParas = [];
+  document.querySelectorAll('.en-block').forEach(function(block){
+    var marksBefore = lastMarks.length;   /* 本段新增的高亮数，用于按段统计 */
+    var walker = document.createTreeWalker(block, NodeFilter.SHOW_TEXT, null, false);
+    var nodes = [];
+    while(walker.nextNode()) nodes.push(walker.currentNode);
+    nodes.forEach(function(node){
+      var text = node.nodeValue, lower = text.toLowerCase(), needle = q.toLowerCase();
+      var idx = lower.indexOf(needle);
+      if(idx === -1) return;
+      var frag = document.createDocumentFragment(), pos = 0;
+      while(idx !== -1){
+        frag.appendChild(document.createTextNode(text.slice(pos, idx)));
+        var mark = document.createElement('mark');
+        mark.className = 'hl';
+        mark.textContent = text.slice(idx, idx + q.length);
+        frag.appendChild(mark);
+        lastMarks.push(mark);
+        pos = idx + q.length;
+        idx = lower.indexOf(needle, pos);
+      }
+      frag.appendChild(document.createTextNode(text.slice(pos)));
+      node.parentNode.replaceChild(frag, node);
+    });
+    if(lastMarks.length > marksBefore){
+      var para = block.closest('.paragraph');
+      if(para) hitParas.push(para.id);
+    }
+  });
+
+  /* 2) 词汇总表 / 专有名词表：命中行加底色 */
+  var vocabHit = false, properHit = false;
+  ['vocab-list','proper-list'].forEach(function(tid){
+    document.querySelectorAll('#'+tid+' .row').forEach(function(row){
+      if(row.textContent.toLowerCase().indexOf(q.toLowerCase()) !== -1){
+        row.classList.add('row-hit');
+        if(tid === 'vocab-list') vocabHit = true; else properHit = true;
+      }
+    });
+  });
+
+  /* 3) 结果区：跳转链接 */
+  var links = hitParas.map(function(pid){
+    var label = pid === 'p-headline' ? '标题' : ('¶ ' + pid.replace('p',''));
+    return '<a href="#'+pid+'">'+label+'</a>';
+  }).join('');
+  result.innerHTML = (links || vocabHit || properHit)
+    ? ('命中 ' + hitParas.length + ' 段：' + links +
+       (vocabHit ? '<a href="javascript:void(0)" onclick="showTab(1)">→ 词汇表</a>' : '') +
+       (properHit ? '<a href="javascript:void(0)" onclick="showTab(2)">→ 专名表</a>' : ''))
+    : '未找到匹配内容';
+
+  /* 4) 自动翻到有命中的分页：保证「查到了就看得见」 */
+  if(vocabHit) showTab(1);
+  else if(properHit) showTab(2);
+}
+
+/* ========== 顶部固定栏高度校准（供侧栏 sticky 与锚点补偿使用） ========== */
+function syncHeaderHeight(){
+  var hd = document.querySelector('header');
+  if(hd) document.documentElement.style.setProperty('--header-h', hd.offsetHeight + 'px');
+}
+syncHeaderHeight();
+window.addEventListener('load', syncHeaderHeight);
+window.addEventListener('resize', syncHeaderHeight);
+
+/* ========== 点击正文中高亮的单词：展开本段注释并定位到该词条 ========== */
+document.addEventListener('click', function(e){
+  var m = e.target.closest ? e.target.closest('mark.voc') : null;
+  if(!m) return;
+  var id = m.getAttribute('data-note');
+  var item = id ? document.getElementById(id) : null;
+  if(!item) return;
+  var group = item.closest('.notes-group');
+  if(group && !group.classList.contains('open')){
+    group.classList.add('open');
+    var btn = group.previousElementSibling;
+    if(btn && btn.classList.contains('notes-toggle')) btn.textContent = '收起本段注释';
+  }
+  item.classList.add('flash');
+  item.scrollIntoView({behavior:'smooth', block:'center'});
+  setTimeout(function(){ item.classList.remove('flash'); }, 1800);
+});
+/* ===== 逐段朗读 para-audio-v3 ===== */
+var PARA_AUDIO_BASE = 'audio/2026-11-25-003';
+var PARA_AUDIO_ENABLED = true;   // 预习原文阶段为 false：不注入朗读按钮，避免点开 404
+var paraAudioEl = null, paraPlayingBtn = null;
+function stopParaAudio(){
+  if(paraAudioEl){ paraAudioEl.pause(); try{paraAudioEl.currentTime = 0;}catch(e){} }
+  if(paraPlayingBtn){ paraPlayingBtn.classList.remove('playing'); paraPlayingBtn = null; }
+}
+function toggleParaAudio(btn, n){
+  if(paraPlayingBtn === btn){ stopParaAudio(); return; }
+  stopParaAudio();
+  if(!paraAudioEl) paraAudioEl = new Audio();
+  paraAudioEl.src = PARA_AUDIO_BASE + '/uk-p' + n + '.m4a';
+  paraAudioEl.onended = stopParaAudio;
+  paraAudioEl.onerror = function(){
+    stopParaAudio(); btn.classList.add('error'); btn.title = '本段音频未生成';
+  };
+  paraAudioEl.play().catch(function(){});
+  paraPlayingBtn = btn; btn.classList.add('playing');
+}
+(function initParaAudio(){
+  if(!PARA_AUDIO_ENABLED) return;
+  var SVG = '<svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8" '
+    + 'stroke-linecap="round" stroke-linejoin="round" aria-hidden="true">'
+    + '<path d="M11 5 L6.5 9 H3.5 V15 H6.5 L11 19 Z"/>'
+    + '<path class="pa-w1" d="M14.8 9.4 A4 4 0 0 1 14.8 14.6"/>'
+    + '<path class="pa-w2" d="M17.4 7 A7.6 7.6 0 0 1 17.4 17"/></svg>';
+  document.querySelectorAll('section.paragraph').forEach(function(sec){
+    var m = (sec.id || '').match(/^p(\d+)$/);
+    if(!m) return;
+    var label = sec.querySelector('.p-label');
+    if(!label || label.querySelector('.p-audio')) return;
+    label.innerHTML = '<span class="p-label-text">' + label.innerHTML + '</span>';
+    var btn = document.createElement('button');
+    btn.className = 'p-audio'; btn.type = 'button';
+    btn.setAttribute('aria-label', '朗读本段'); btn.title = '朗读本段（英音）';
+    btn.innerHTML = SVG;
+    btn.addEventListener('click', function(){ toggleParaAudio(btn, m[1]); });
+    label.appendChild(btn);
+  });
+})();
+/* ===== 标题朗读 + 连续播放 para-audio-title-v2 ===== */
+var paChain = false;
+try{ paChain = localStorage.getItem('pa-chain') === '1'; }catch(e){}
+var paOrder = [], paCur = -1, paPre = null;
+
+function paSrcOf(btn){
+  var sec = btn.closest('section');
+  var m = sec && (sec.id || '').match(/^p(\d+)$/);
+  return PARA_AUDIO_BASE + (m ? '/uk-p' + m[1] : '/uk-title') + '.m4a';
+}
+function paPreload(i){
+  var nxt = paOrder[i + 1];
+  if(!nxt) return;
+  if(!paPre) paPre = new Audio();
+  paPre.preload = 'auto';
+  paPre.src = paSrcOf(nxt);
+}
+function paAttachWatch(){
+  if(paraAudioEl && !paraAudioEl.__paWatch){
+    paraAudioEl.__paWatch = 1;
+    paraAudioEl.addEventListener('ended', function(){
+      if(!paChain || paCur < 0) return;
+      var nxt = paOrder[paCur + 1];
+      if(nxt) nxt.click();          // 复用按钮点击：状态/动画/滚动全部走同一入口
+    });
+  }
+}
+function toggleTitleAudio(btn){
+  if(paraPlayingBtn === btn){ stopParaAudio(); return; }
+  stopParaAudio();
+  if(!paraAudioEl) paraAudioEl = new Audio();
+  paraAudioEl.src = PARA_AUDIO_BASE + '/uk-title.m4a';
+  paraAudioEl.onended = stopParaAudio;
+  paraAudioEl.onerror = function(){
+    stopParaAudio(); btn.classList.add('error'); btn.title = '标题音频未生成';
+  };
+  paraAudioEl.play().catch(function(){});
+  paraPlayingBtn = btn; btn.classList.add('playing');
+}
+(function initTitleAudioV2(){
+  if(!PARA_AUDIO_ENABLED) return;
+  var sec = document.getElementById('p-headline');
+  if(!sec) return;
+  var label = sec.querySelector('.p-label');
+  if(!label) return;
+  var SVG = '<svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8" '
+    + 'stroke-linecap="round" stroke-linejoin="round" aria-hidden="true">'
+    + '<path d="M11 5 L6.5 9 H3.5 V15 H6.5 L11 19 Z"/>'
+    + '<path class="pa-w1" d="M14.8 9.4 A4 4 0 0 1 14.8 14.6"/>'
+    + '<path class="pa-w2" d="M17.4 7 A7.6 7.6 0 0 1 17.4 17"/></svg>';
+  var titleBtn;
+  if(label.querySelector('.p-audio')){          // v1 已注入过喇叭，直接复用
+    titleBtn = label.querySelector('.p-audio');
+  }else{
+    label.innerHTML = '<span class="p-label-text">' + label.innerHTML + '</span>';
+    titleBtn = document.createElement('button');
+    titleBtn.className = 'p-audio'; titleBtn.type = 'button';
+    titleBtn.setAttribute('aria-label', '朗读标题'); titleBtn.title = '朗读标题（英音）';
+    titleBtn.innerHTML = SVG;
+    titleBtn.addEventListener('click', function(){ toggleTitleAudio(titleBtn); });
+    label.appendChild(titleBtn);
+  }
+  // 「听全文」开关（放在标题喇叭右侧）
+  var loop = document.createElement('button');
+  loop.className = 'pa-loop' + (paChain ? ' on' : '');
+  loop.type = 'button'; loop.textContent = '听全文';
+  loop.title = '听全文：从当前位置按顺序播完整篇';
+  loop.setAttribute('aria-pressed', String(paChain));
+  loop.addEventListener('click', function(){
+    paChain = !paChain;
+    loop.classList.toggle('on', paChain);
+    loop.setAttribute('aria-pressed', String(paChain));
+    try{ localStorage.setItem('pa-chain', paChain ? '1' : '0'); }catch(e){}
+  });
+  label.appendChild(loop);
+
+  // 播放序列：标题 → 各段（DOM 顺序；排除标题区自身——它的 class 也含 paragraph）
+  paOrder = [titleBtn];
+  document.querySelectorAll('section.paragraph').forEach(function(s2){
+    if(!/^p\d+$/.test(s2.id || '')) return;
+    var b = s2.querySelector('.p-audio');
+    if(b) paOrder.push(b);
+  });
+
+  // 捕获阶段监听任意喇叭点击：记录听全文起点 / 滚动跟随 / 预载下一段
+  document.addEventListener('click', function(e){
+    var b = e.target.closest ? e.target.closest('.p-audio') : null;
+    if(!b) return;
+    paCur = paOrder.indexOf(b);
+    setTimeout(paAttachWatch, 0);               // paraAudioEl 可能刚由 v3 创建
+    if(paChain){
+      var s2 = b.closest('section');
+      if(s2 && s2.scrollIntoView) s2.scrollIntoView({behavior:'smooth', block:'center'});
+      paPreload(paCur);
+    }
+  }, true);
+})();
+</script>
+<script id="search-jump">
+/* 搜全文跳转：?q=关键词 → 定位到该句并橙色高亮（#ffc078，与列表页黄色区分） */
+(function(){
+  try{
+    var q=(new URLSearchParams(location.search)).get('q');
+    if(!q||!q.trim())return;
+    var parts=q.trim().split(/\s+/).map(function(s){return s.replace(/[.*+?^${}()|[\]\\]/g,'\\$&')});
+    var re=new RegExp(parts.join('\\s+'),'i');
+    var walker=document.createTreeWalker(document.body,NodeFilter.SHOW_TEXT,
+      {acceptNode:function(n){return n.nodeValue.trim()?NodeFilter.FILTER_ACCEPT:NodeFilter.FILTER_REJECT}});
+    var nodes=[],nd;while((nd=walker.nextNode()))nodes.push(nd);
+    var full='',spans=[];
+    nodes.forEach(function(x){spans.push([full.length,full.length+x.nodeValue.length,x]);full+=x.nodeValue});
+    var m=full.match(re);
+    function toView(el){try{el.scrollIntoView({behavior:'smooth',block:'center'})}catch(e){el.scrollIntoView()}}
+    if(m){
+      var s=m.index,e=s+m[0].length,done=null;
+      spans.forEach(function(sp){
+        var a=sp[0],b=sp[1],x=sp[2];
+        if(b<=s||a>=e)return;
+        try{
+          var rng=document.createRange();
+          rng.setStart(x,Math.max(s,a)-a);rng.setEnd(x,Math.min(e,b)-a);
+          var mk=document.createElement('mark');
+          mk.style.background='#ffc078';mk.style.color='inherit';
+          rng.surroundContents(mk);
+          if(!done)done=mk;
+        }catch(err){}
+      });
+      if(done)toView(done);
+    }else{
+      /* 关键词跨标签拼接无法整体匹配时：退而定位到包含它的最小块级元素，橙框提示 */
+      var els=document.querySelectorAll('div,p,h1,h2,h3,li');
+      for(var i=0;i<els.length;i++){var el=els[i];
+        if(el.querySelector('div,p,li'))continue;
+        if(re.test(el.textContent)){
+          el.style.outline='3px solid #ffc078';el.style.outlineOffset='2px';
+          toView(el);break;
+        }
+      }
+    }
+  }catch(e){}
+})();
+</script></body>
+</html>

@@ -1,0 +1,226 @@
+{
+ "date": "2026-11-25",
+ "title_tag": "Jensen Huang returns. But Nvidia will never be the same —— 英国《经济学人》外刊讲解第1239天",
+ "h1": "Jensen Huang returns. But Nvidia will never be the same",
+ "source_label": "经济学人",
+ "category": "英国《经济学人》外刊讲解 第1239天",
+ "read_minutes": 11,
+ "nav_hint": "黄仁勋回归：国会、员工与盟友的三重考验",
+ "headline_en": "He now faces a hostile Congress, rattled employees and wary business partners",
+ "headline_zh": "如今，他面对的是充满敌意的国会、惶恐不安的员工以及心存戒备的商业伙伴。",
+ "sources_note": "依据《经济学人》2026-11-25 报道。",
+ "headline_marks": [
+  [
+   "hostile",
+   "hostile"
+  ],
+  [
+   "Congress",
+   "Congress"
+  ],
+  [
+   "rattled",
+   "rattled"
+  ],
+  [
+   "wary",
+   "wary"
+  ]
+ ],
+ "marks": {
+  "1": [
+   [
+    "comeback",
+    "Comebacks"
+   ],
+   [
+    "almost to the week",
+    "almost to the week"
+   ],
+   [
+    "sack",
+    "sacked"
+   ],
+   [
+    "only to do sth.",
+    "only to reinstate"
+   ],
+   [
+    "reinstate",
+    "reinstate"
+   ]
+  ],
+  "2": [
+   [
+    "intention",
+    "intention"
+   ],
+   [
+    "give sb. sth. back",
+    "giving Mr Huang his job back"
+   ],
+   [
+    "be satisfied with",
+    "satisfied with"
+   ],
+   [
+    "candour",
+    "candour"
+   ]
+  ],
+  "5": [
+   [
+    "dial into phr.",
+    "dialled into"
+   ],
+   [
+    "make the case",
+    "make the case"
+   ],
+   [
+    "cabinet",
+    "cabinet"
+   ],
+   [
+    "shakeup",
+    "shakeup"
+   ],
+   [
+    "change tack",
+    "changed tack"
+   ],
+   [
+    "bizarrely",
+    "bizarrely"
+   ],
+   [
+    "outsider",
+    "outsider"
+   ],
+   [
+    "be no fan of",
+    "is no fan either"
+   ],
+   [
+    "downfall",
+    "downfall"
+   ]
+  ],
+  "7": [
+   [
+    "fallout",
+    "fallout"
+   ],
+   [
+    "subordinate",
+    "subordinate"
+   ],
+   [
+    "humiliation",
+    "humiliation"
+   ],
+   [
+    "not be shy about sth.",
+    "not shy about"
+   ]
+  ],
+  "8": [
+   [
+    "less...than...",
+    "less about"
+   ],
+   [
+    "temper",
+    "temper"
+   ],
+   [
+    "absurd",
+    "absurd"
+   ],
+   [
+    "scrutiny",
+    "scrutiny"
+   ],
+   [
+    "orchestrator",
+    "orchestrator"
+   ],
+   [
+    "blessing",
+    "blessing"
+   ],
+   [
+    "send sth. doing",
+    "send a company’s shares soaring"
+   ],
+   [
+    "share the stage with",
+    "sharing stages with"
+   ],
+   [
+    "preach",
+    "preach"
+   ],
+   [
+    "gospel",
+    "gospel"
+   ],
+   [
+    "queue",
+    "queue"
+   ]
+  ],
+  "9": [
+   [
+    "dim",
+    "dimmed"
+   ],
+   [
+    "court",
+    "courted"
+   ],
+   [
+    "keep one's distance",
+    "keep their distance"
+   ],
+   [
+    "hedge one's bets",
+    "hedge its bets"
+   ],
+   [
+    "reckon",
+    "reckon"
+   ],
+   [
+    "shun",
+    "shun"
+   ],
+   [
+    "for fear of",
+    "for fear of"
+   ],
+   [
+    "shop around phr.",
+    "shop around"
+   ],
+   [
+    "broker",
+    "broker"
+   ],
+   [
+    "keep company",
+    "keep “questionable company”"
+   ],
+   [
+    "mystique",
+    "mystique"
+   ]
+  ]
+ },
+ "mindmap": {
+  "template": "scripts/content/2026-11-21.json",
+  "aria": "",
+  "alt": "",
+  "repl": []
+ }
+}

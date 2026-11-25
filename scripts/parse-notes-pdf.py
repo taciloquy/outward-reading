@@ -103,6 +103,20 @@ def boilerplate(pages):
     }
 
 
+CN_PROPER_LINE = re.compile(
+    r'^(\d{1,2})\.\s*([\u4e00-\u9fff][^（(]{0,40})[（(]([A-Za-z][^）)]{1,70})[）)]\s*$')
+
+
+def normalize_cn_proper(s):
+    """新版式（20261125 起）：专名条目写成「N. 中文名（English）」，调成
+    「N. English（中文名）」以复用 PROPER_LINE 的第一分支。"""
+    m = CN_PROPER_LINE.match(s)
+    if not m:
+        return s
+    n, cn, en = m.group(1), m.group(2).strip(), m.group(3).strip()
+    return f'{n}. {en}（{cn}）'
+
+
 def flatten(pages, proper_mark, practice_mark, drop=()):
     """逐行整理成线性列表，插入 @@PAGE@@ / @@PROPER@@ 标记。"""
     boiler = boilerplate(pages)
@@ -123,7 +137,7 @@ def flatten(pages, proper_mark, practice_mark, drop=()):
             if s.startswith(proper_mark):
                 out.append('@@PROPER@@')
                 continue
-            out.append(fix_radicals(raw.rstrip()))
+            out.append(normalize_cn_proper(fix_radicals(raw.rstrip())))
         out.append('@@PAGE@@')          # 每页末尾插一个页标记
     return out
 
@@ -166,7 +180,8 @@ CARD_FIELD_RE = re.compile(r'^(英文释义|中文释义|文中含义|文中意|
 PROPER_LINE = re.compile(
     r'^(\d{1,2})\.\s+([A-Z][^（\u4e00-\u9fff]{0,60}?)（([^）]{1,50})）\s*$'
     r'|^(\d{1,2})\.\s+([A-Z][^/—–]{1,60}?)\s*[/—–]\s*(.*[\u4e00-\u9fff].*)$')
-PARA_HEAD = re.compile(r'^(\d{1,2})\.(?=\S)\s*(.+)$')
+# 20261125 起编号与正文之间带空格（「1. Comebacks are…」），放宽为可选空白
+PARA_HEAD = re.compile(r'^(\d{1,2})\.\s*(?=\S)(.+)$')
 CARD_FIELDS = [('英文释义', 'en'), ('中文释义', 'zh'), ('文中意', 'ctx'),
                ('例句一', 'ex1'), ('例句二', 'ex2')]
 
@@ -331,6 +346,8 @@ def run_new_edition(clean, practice_mark):
             dfn = ' '.join(buf)
             dfn = re.sub(r'(?<=[。！？；])\s*[A-Za-z][A-Za-z .+&\'-]*?(?:\+\s*\d+)?\s*$',
                          '', dfn).strip()
+            # 折行拼接会在汉字之间留下空格（「是 乔布斯」「公司 的」），中文不用空格，统一清掉
+            dfn = re.sub(r'(?<=[\u4e00-\u9fff])\s+(?=[\u4e00-\u9fff])', '', dfn)
             proper[-1]['def'] = dfn
             cur = 'proper'
             continue
