@@ -1,0 +1,100 @@
+{
+  "date": "2026-11-26",
+  "title_tag": "Copper shows how AI is messing with markets —— 英国《经济学人》外刊讲解第1240天",
+  "h1": "Copper shows how AI is messing with markets",
+  "source_label": "经济学人",
+  "category": "英国《经济学人》外刊讲解 第1240天",
+  "read_minutes": 10,
+  "nav_hint": "铜价为何跟着 AI 坐过山车：代理交易、中国需求与矿端困局",
+  "headline_en": "Copper shows how AI is messing with markets | The pitfalls of being a proxy bet for a technological revolution",
+  "headline_zh": "铜，让我们看见 AI 正在怎样搅乱市场。押注一场技术革命，而你押的并不是它本身——坑就埋在这儿。",
+  "sources_note": "依据《经济学人》2026-11-26 报道。",
+  "headline_marks": [
+    ["mess with", "messing with"],
+    ["pitfall", "pitfalls"],
+    ["proxy", "proxy"]
+  ],
+  "marks": {
+    "1": [
+      ["rollercoaster ride", "rollercoaster ride"],
+      ["spare a thought for", "spare a thought for"],
+      ["commodity", "commodities"],
+      ["extraordinary", "extraordinary"],
+      ["lean on", "leant on"],
+      ["settle", "settle"],
+      ["futures", "futures"],
+      ["reserves", "Reserves"],
+      ["physical", "physical"],
+      ["cope with", "cope with"]
+    ],
+    "2": [
+      ["send sth doing", "sent prices"],
+      ["soar", "soaring"],
+      ["jitters", "jitters"],
+      ["bellwether", "bellwether"],
+      ["benchmark", "benchmark"],
+      ["fall by", "fell by"]
+    ],
+    "3": [
+      ["confusing", "confusing"],
+      ["untold", "untold"],
+      ["electrify", "electrifies"],
+      ["poised to", "poised to"],
+      ["ore", "ore"],
+      ["scarce", "scarce"],
+      ["creaky", "creaky"],
+      ["outstrip", "outstrip"],
+      ["move sideways", "moved sideways"]
+    ],
+    "4": [
+      ["slowdown", "slowdown"],
+      ["prodigious", "prodigious"],
+      ["play a role", "play a role"],
+      ["amass", "amassed"],
+      ["stockpile", "stockpiles"],
+      ["make it harder for sb to do", "make it harder for him"],
+      ["follow through", "follow through"],
+      ["needlessly", "needlessly"]
+    ],
+    "6": [
+      ["a good part of", "a good part of"],
+      ["widespread", "widespread"],
+      ["unstoppable", "unstoppable"],
+      ["red hot", "red hot"],
+      ["faith", "faith"],
+      ["turn against", "turned against"],
+      ["despoil", "despoils"],
+      ["just maybe", "just maybe"],
+      ["ho-hum", "ho-hum"],
+      ["cast doubt on", "casts doubt on"]
+    ],
+    "7": [
+      ["triumphantly", "triumphantly"],
+      ["the top job", "the top job"],
+      ["balance-sheet", "balance-sheet"],
+      ["pull up", "pulled up"],
+      ["trade", "trade for"],
+      ["cost sb sth", "cost Mr Huang his job"],
+      ["is not going away", "is not going away"]
+    ],
+    "8": [
+      ["sharp", "Sharp"],
+      ["AI-induced", "AI-induced"],
+      ["ups and downs", "ups and downs"],
+      ["discourage", "discouraging"],
+      ["avert", "avert"],
+      ["shortfall", "shortfall"],
+      ["smelter", "smelters"],
+      ["on sb's behalf", "on miners’ behalf"],
+      ["keep sth coming", "keep ore coming"],
+      ["furnace", "furnaces"],
+      ["put sb out of business", "puts some smelters out of business"]
+    ]
+  },
+  "mindmap": {
+    "template": "scripts/content/2026-11-21.json",
+    "aria": "",
+    "alt": "",
+    "repl": []
+  }
+}

@@ -1,6 +1,13 @@
 // ===== 文章数据库（独立静态资源；正文全文见 search-index.js） =====
     const ARTICLES = [
       {
+        title: "China sends first foreign astronaut to ISS rival as it globalises space operations",
+        publishDate: "2026-11-27",
+        fileKey: "2026-11-27_001",
+        readingPath: "/outward-reading/articles/2026/11/2026-11-27_001.reading.html",
+        source: "The Guardian"
+      },
+      {
         title: "Copper shows how AI is messing with markets",
         publishDate: "2026-11-26",
         fileKey: "2026-11-26_001",
