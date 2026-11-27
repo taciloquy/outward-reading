@@ -5,67 +5,716 @@
   "source_label": "卫报",
   "category": "英国《卫报》外刊讲解 第1241天",
   "read_minutes": 9,
-  "nav_hint": "首位巴基斯坦人进入天宫：太空握手、登月竞赛与 ISS 落幕",
-  "audio": false,
+  "nav_hint": "天宫迎来首位外国宇航员：太空握手、登月竞赛与空间站交接期",
   "headline": {
-    "en_html": "",
-    "zh": "",
-    "notes": []
+    "en_html": "Muhammad Zeeshan Ali - the first Pakistani to <mark class=\"voc\">reach orbit</mark> - <mark class=\"voc\">greeted</mark> with Chinese 'space handshake' at Tiangong station",
+    "zh": "首位进入地球轨道的巴基斯坦人穆罕默德·齐尚·阿里，在中国天宫空间站受到中国式“太空握手”的欢迎。",
+    "notes": [
+      {
+        "w": "orbit",
+        "ipa": "/ˈɔːbɪt/",
+        "pos": "n.",
+        "en": "The curved path followed by an object moving around a planet, star or other object in space.",
+        "zh": "轨道；运行轨道。",
+        "ctx": "指宇航员进入太空后围绕地球运行的轨道。",
+        "ex1": "The satellite was successfully placed into orbit around the Earth. 这颗卫星成功进入了环绕地球运行的轨道。",
+        "ex2": "The Moon remains in orbit around the Earth because of gravity. 由于引力的作用，月球始终沿着轨道围绕地球运行。"
+      },
+      {
+        "w": "greet",
+        "ipa": "/ɡriːt/",
+        "pos": "v.",
+        "en": "To welcome someone or react to someone or something in a particular way.",
+        "zh": "迎接；问候；对……作出反应。",
+        "ctx": "指中国航天员在天宫空间站迎接阿里的到来。",
+        "ex1": "The children rushed to the door to greet their father when he returned home. 父亲回家时，孩子们冲到门口迎接他。",
+        "ex2": "The announcement was greeted with excitement and applause. 这一消息引起了人们的热烈反响和掌声。"
+      }
+    ]
   },
   "paragraphs": [
     {
-      "en_html": "China has flown the first foreign astronaut to its Tiangong space station, starting what it says will be the globalisation of its space operations as the US-led International Space Station (ISS) enters its final years of operation. Floating through a hatch to enter Tiangong, Pakistan’s Muhammad Zeeshan Ali grinned broadly as he was embraced by the onboard crew in what China’s space agency called the country’s first foreign “space handshake”.",
-      "zh": "",
-      "notes": []
+      "en_html": "China has flown the first foreign astronaut to its Tiangong space station, starting what it says will be the globalisation of its space operations as the US-led International Space Station (ISS) enters its final years of operation. Floating through a <mark class=\"voc\">hatch</mark> to enter Tiangong, Pakistan’s Muhammad Zeeshan Ali <mark class=\"voc\">grinned</mark> broadly as he was <mark class=\"voc\">embraced</mark> by the onboard <mark class=\"voc\">crew</mark> in what China’s space agency called the country’s first foreign “space handshake”.",
+      "zh": "中国已将首位外国航天员送往天宫空间站，在美国主导的国际空间站（ISS）进入最后几年运行期之际，开启了中国所称的航天活动国际化进程。巴基斯坦航天员穆罕默德·齐尚·阿里漂浮着穿过舱口进入天宫空间站，脸上露出灿烂的笑容，并受到站内航天员的热情拥抱。中国航天机构将这一时刻称为中国首次与外国航天员进行的“太空握手”。",
+      "notes": [
+        {
+          "w": "hatch",
+          "ipa": "/hætʃ/",
+          "pos": "n.",
+          "en": "A small door or opening in a ship, aircraft or spacecraft.",
+          "zh": "舱口；舱门；出入口。",
+          "ctx": "指连接航天飞船与天宫空间站、供航天员进出的舱口。",
+          "ex1": "The astronauts carefully checked the hatch before leaving the spacecraft. 航天员在离开航天器之前仔细检查了舱门。",
+          "ex2": "The sailor climbed through a narrow hatch to reach the lower deck. 水手穿过一个狭窄的舱口，到达下层甲板。"
+        },
+        {
+          "w": "grin",
+          "ipa": "/ɡrɪn/",
+          "pos": "v.",
+          "en": "To smile widely, often showing your teeth, because you are happy or amused.",
+          "zh": "咧嘴笑；露齿而笑。",
+          "ctx": "指阿里进入天宫空间站时露出喜悦而灿烂的笑容。",
+          "ex1": "She grinned when she discovered that all her hard work had finally paid off. 当她发现自己所有的努力终于得到了回报时，她开心地咧嘴笑了。",
+          "ex2": "He couldn't help grinning as he watched his daughter take her first steps. 看着女儿迈出人生中的第一步，他忍不住露出了笑容。"
+        },
+        {
+          "w": "embrace",
+          "ipa": "/ɪmˈbreɪs/",
+          "pos": "v.",
+          "en": "To put your arms around someone, or to willingly accept an idea, change or opportunity.",
+          "zh": "拥抱；欣然接受；积极接纳。",
+          "ctx": "指天宫空间站内的中国航天员热情地拥抱阿里。",
+          "ex1": "After years of separation, the sisters embraced each other in tears. 分别多年之后，姐妹俩含泪相拥。",
+          "ex2": "Instead of fearing uncertainty, we should learn to embrace change as an opportunity for growth. 与其害怕不确定性，我们不如学会将变化视为成长的机会并欣然接受它。"
+        },
+        {
+          "w": "crew",
+          "ipa": "/kruː/",
+          "pos": "n.",
+          "en": "A group of people who work together on a ship, aircraft or spacecraft.",
+          "zh": "全体船员；机组人员；航天乘组。",
+          "ctx": "指在天宫空间站执行任务的航天员团队。",
+          "ex1": "The crew remained calm and professional throughout the emergency. 在整个紧急事件中，机组人员始终保持冷静和专业。",
+          "ex2": "Every member of the crew plays an essential role in ensuring the success of the mission. 每一位乘组成员都在确保任务成功方面发挥着至关重要的作用。"
+        }
+      ]
     },
     {
-      "en_html": "Tiangong, completed in 2022, is the jewel in the crown of China’s space programme. The government has invested billions into its celestial ambitions in recent years to catch up with the US and Russia, two of the five partners involved in the ISS along with Europe, Japan and Canada. After 25 years of continuous occupation, the ISS is set to cease operations from 2030, according to Nasa. On Wednesday Chinese leader told his Pakistani counterpart that Beijing was “willing to work with all countries… to uphold the banner of the peaceful use of outer space.”",
-      "zh": "",
-      "notes": []
+      "en_html": "Tiangong, completed in 2022, is <mark class=\"voc\">the jewel in the crown</mark> of China’s space programme. The government has invested billions into its <mark class=\"voc\">celestial</mark> ambitions in recent years to <mark class=\"voc\">catch up with</mark> the US and Russia, two of the five partners involved in the ISS along with Europe, Japan and Canada. After 25 years of continuous occupation, the ISS <mark class=\"voc\">is set to</mark> <mark class=\"voc\">cease</mark> operations from 2030, according to Nasa. On Wednesday Chinese leader told his Pakistani <mark class=\"voc\">counterpart</mark> that Beijing was “willing to work with all countries… to <mark class=\"voc\">uphold</mark> the <mark class=\"voc\">banner</mark> of the peaceful use of <mark class=\"voc\">outer space</mark>.”",
+      "zh": "天宫空间站于2022年建成，是中国航天计划皇冠上的明珠。近年来，中国政府已投入数十亿资金来实现其太空雄心，以追赶美国和俄罗斯。美俄是参与国际空间站项目的五方合作伙伴中的两方，另外三方是欧洲、日本和加拿大。据美国国家航空航天局称，在持续有人驻留25年之后，国际空间站预计将从2030年起停止运行。周三，中国领导人告诉巴基斯坦领导人，中国“愿意同世界各国一道……高举和平利用外层空间的旗帜”。",
+      "notes": [
+        {
+          "w": "the jewel in the crown",
+          "ipa": "/ðə ˈdʒuːəl ɪn ðə kraʊn/",
+          "pos": "phr.",
+          "en": "The most valuable, successful or impressive part of something.",
+          "zh": "皇冠上的明珠；最珍贵的部分；最引以为傲的成就。",
+          "ctx": "指天宫空间站是中国航天计划中最具代表性、最令人瞩目的成就之一。",
+          "ex1": "The newly opened museum is considered the jewel in the crown of the city's cultural development. 这座新开放的博物馆被视为该城市文化发展皇冠上的明珠。",
+          "ex2": "Among all the company's technological achievements, this invention remains the jewel in the crown. 在这家公司所有的技术成就中，这项发明仍然是最引以为傲的成果。"
+        },
+        {
+          "w": "celestial",
+          "ipa": "/səˈlestiəl/",
+          "pos": "adj.",
+          "en": "Relating to the sky, outer space or objects such as stars and planets.",
+          "zh": "天空的；天体的；太空的。",
+          "ctx": "修饰ambitions，指中国在太空探索领域的宏伟目标。",
+          "ex1": "Ancient sailors relied on celestial bodies to navigate across vast oceans. 古代航海者依靠天体在广阔的海洋中辨别方向。",
+          "ex2": "The telescope allows scientists to observe celestial objects that are billions of light-years away. 这台望远镜使科学家能够观测数十亿光年之外的天体。"
+        },
+        {
+          "w": "catch up with",
+          "ipa": "/kætʃ ˈʌp wɪð/",
+          "pos": "phr.",
+          "en": "To reach the same level, position or standard as someone or something that is ahead.",
+          "zh": "赶上；追上；达到与……相同的水平。",
+          "ctx": "指中国通过发展航天技术，努力追赶美国和俄罗斯的航天发展水平。",
+          "ex1": "The company must accelerate innovation if it wants to catch up with its international competitors. 如果这家公司想要赶上国际竞争对手，就必须加快创新步伐。",
+          "ex2": "Rather than constantly trying to catch up with others, focus on becoming a better version of yourself. 与其不断努力追赶别人，不如专注于成为更好的自己。"
+        },
+        {
+          "w": "be set to do sth.",
+          "ipa": "/bi set tə duː ˈsʌmθɪŋ/",
+          "pos": "phr.",
+          "en": "To be expected, scheduled or ready to do something in the near or foreseeable future.",
+          "zh": "预计将……；即将……；计划将……。",
+          "ctx": "指国际空间站预计将从2030年起停止运行。",
+          "ex1": "The new railway is set to transform transportation across the region. 这条新铁路预计将改变整个地区的交通运输状况。",
+          "ex2": "Artificial intelligence is set to reshape many aspects of our working lives over the coming decades. 在未来几十年里，人工智能预计将重塑我们职业生活的许多方面。"
+        },
+        {
+          "w": "cease",
+          "ipa": "/siːs/",
+          "pos": "v.",
+          "en": "To stop happening, existing or continuing.",
+          "zh": "停止；终止；不再继续。",
+          "ctx": "指国际空间站在达到预定使用期限后停止运行。",
+          "ex1": "The factory was forced to cease operations because of rising production costs. 由于生产成本不断上涨，这家工厂被迫停止运营。",
+          "ex2": "Even after achieving great success, she never ceased to be curious about the world. 即使取得了巨大的成功，她也从未停止对世界保持好奇。"
+        },
+        {
+          "w": "counterpart",
+          "ipa": "/ˈkaʊntəpɑːt/",
+          "pos": "n.",
+          "en": "A person or thing that has the same position, function or purpose as another in a different place or organisation.",
+          "zh": "职位相当的人；对应的人或事物；同行；对等人员。",
+          "ctx": "指与中国领导人职位相对应的巴基斯坦领导人。",
+          "ex1": "The French minister met her German counterpart to discuss environmental policies. 法国部长与德国同级部长会面，讨论环境政策。",
+          "ex2": "Electric vehicles generally produce fewer direct emissions than their petrol- powered counterparts. 与相应的燃油汽车相比，电动汽车通常产生更少的直接排放。"
+        },
+        {
+          "w": "uphold",
+          "ipa": "/ʌpˈhəʊld/",
+          "pos": "v.",
+          "en": "To support, defend or maintain a principle, law, belief or standard.",
+          "zh": "维护；坚持；支持；捍卫。",
+          "ctx": "指坚持并维护和平利用外层空间的理念。",
+          "ex1": "Journalists have a responsibility to uphold the principles of accuracy and fairness. 新闻工作者有责任坚持准确与公正的原则。",
+          "ex2": "A person's character is revealed by the values they choose to uphold when facing difficulties. 一个人的品格体现在他面对困难时选择坚守的价值观之中。"
+        },
+        {
+          "w": "banner",
+          "ipa": "/ˈbænə(r)/",
+          "pos": "n.",
+          "en": "A long piece of cloth displaying a message, or a symbol representing a shared belief or cause.",
+          "zh": "横幅；旗帜；象征某种理念或事业的标志。",
+          "ctx": "以旗帜作为比喻，象征和平利用外层空间的共同理念。",
+          "ex1": "The students carried banners calling for greater environmental protection. 学生们举着呼吁加强环境保护的横幅。",
+          "ex2": "Scientists from different countries gathered under the banner of international cooperation. 来自不同国家的科学家在国际合作的旗帜下汇聚一堂。"
+        },
+        {
+          "w": "outer space",
+          "ipa": "/ˌaʊtə ˈspeɪs/",
+          "pos": "n.",
+          "en": "The vast area beyond the Earth's atmosphere in which stars, planets and other celestial objects exist.",
+          "zh": "外层空间；宇宙空间；外太空。",
+          "ctx": "指地球大气层之外可供人类开展航天探索和科学研究的空间。",
+          "ex1": "Exploring outer space has long been one of humanity's greatest scientific ambitions. 探索外太空长期以来一直是人类最伟大的科学抱负之一。",
+          "ex2": "International cooperation is essential to ensuring the responsible use of outer space. 国际合作对于确保负责任地利用外层空间至关重要。"
+        }
+      ]
     },
     {
-      "en_html": "Ali was part of the crew of Shenzhou 24, the most recent iteration of the series of missions that rotate astronauts in the space station every six months. He is the first Pakistani to reach orbit. Blaine Curcio, the managing director at Orbital Gateway Consulting, told the Guardian: “Sending another country’s astronaut to space is a major undertaking. Pakistan is putting a lot of trust into Beijing by having him fly into space on a Chinese-built rocket. There are also considerations related to security: Ali is getting detailed insights into China’s crewed space programme… It makes China better prepared to do it again, and also makes it clear to other countries that China is open to this type of collaboration.”",
-      "zh": "",
-      "notes": []
+      "en_html": "Ali was part of the crew of Shenzhou 24, the most recent <mark class=\"voc\">iteration</mark> of the series of missions that <mark class=\"voc\">rotate</mark> astronauts in the space station every six months. He is the first Pakistani to reach orbit. Blaine Curcio, the <mark class=\"voc\">managing director</mark> at Orbital Gateway Consulting, told the Guardian: “Sending another country’s astronaut to space is a major <mark class=\"voc\">undertaking</mark>. Pakistan is <mark class=\"voc\">putting a lot of trust into</mark> Beijing by having him fly into space on a Chinese-built rocket. There are also considerations related to security: Ali is getting detailed <mark class=\"voc\">insights</mark> into China’s crewed space programme… It makes China better prepared to do it again, and also makes it clear to other countries that China is open to this type of collaboration.”",
+      "zh": "阿里是神舟二十四号航天乘组的一员。神舟二十四号是每六个月轮换一次空间站航天员的系列任务中的最新一次任务。他是首位进入地球轨道的巴基斯坦人。轨道门户咨询公司的董事总经理布莱恩·柯西奥告诉《卫报》：“将另一个国家的航天员送入太空是一项重大的任务。巴基斯坦让阿里搭乘中国制造的火箭进入太空，体现了其对中国的高度信任。此外，还有一些与安全相关的考量：阿里正在深入了解中国的载人航天计划……这使中国能够为再次开展此类任务做好更充分的准备，同时也向其他国家明确表明，中国对这种类型的合作持开放态度。”",
+      "notes": [
+        {
+          "w": "iteration",
+          "ipa": "/ˌɪtəˈreɪʃən/",
+          "pos": "n.",
+          "en": "A particular version or stage of something that is repeatedly developed or carried out.",
+          "zh": "迭代；更新版本；重复进行的某一次或某一阶段。",
+          "ctx": "指神舟二十四号是神舟系列航天任务中的最新一次任务。",
+          "ex1": "The latest iteration of the software offers a more intuitive user experience. 这款软件的最新版本提供了更加直观的用户体验。",
+          "ex2": "Each iteration of the design brought the engineers closer to their original vision. 每一次设计迭代都让工程师们更加接近最初的构想。"
+        },
+        {
+          "w": "rotate",
+          "ipa": "/rəʊˈteɪt/",
+          "pos": "v.",
+          "en": "To turn around a central point or to regularly replace people or things in a particular position.",
+          "zh": "旋转；转动；轮换；交替。",
+          "ctx": "指每隔六个月对空间站内执行任务的航天员进行轮换。",
+          "ex1": "The Earth rotates on its axis approximately once every 24 hours. 地球大约每24小时绕自身轴线旋转一周。",
+          "ex2": "The hospital rotates its medical staff between different departments to broaden their experience. 这家医院安排医务人员在不同科室之间轮岗，以丰富他们的工作经验。"
+        },
+        {
+          "w": "managing director",
+          "ipa": "/ˌmænɪdʒɪŋ dəˈrektə(r)/",
+          "pos": "n.",
+          "en": "A senior executive who is responsible for managing the daily operations of a company.",
+          "zh": "董事总经理；常务董事；负责公司经营管理的高级管理人员。",
+          "ctx": "指轨道门户咨询公司的董事总经理布莱恩·柯西奥。",
+          "ex1": "The managing director announced a new strategy to expand the company's international presence. 董事总经理宣布了一项扩大公司国际影响力的新战略。",
+          "ex2": "After working in the industry for nearly two decades, she was appointed managing director. 在这个行业工作近二十年后，她被任命为董事总经理。"
+        },
+        {
+          "w": "undertaking",
+          "ipa": "/ˌʌndəˈteɪkɪŋ/",
+          "pos": "n.",
+          "en": "An important or difficult task, project or activity that someone agrees to carry out.",
+          "zh": "重大任务；艰巨工程；事业；承诺。",
+          "ctx": "指将另一个国家的航天员送入太空这一复杂且重大的航天任务。",
+          "ex1": "Building a railway through the mountains was an enormous engineering undertaking. 在群山之间修建铁路是一项规模庞大的工程。",
+          "ex2": "Transforming an entire education system is a challenging undertaking that requires patience and long-term commitment. 改革整个教育体系是一项具有挑战性的任务，需要耐心和长期投入。"
+        },
+        {
+          "w": "put trust into sb.",
+          "ipa": "/pʊt ˈtrʌst ˈɪntuː ˈsʌmbədi/",
+          "pos": "phr.",
+          "en": "To place confidence in someone and believe that they are reliable or capable.",
+          "zh": "信任某人；对某人寄予信任。",
+          "ctx": "指巴基斯坦通过让本国航天员搭乘中国火箭进入太空，展现出对中国的高度信任。",
+          "ex1": "When patients undergo surgery, they put their trust in the medical team. 当患者接受手术时，他们将自己的信任交给医疗团队。",
+          "ex2": "Learning to put your trust in others is an important part of building meaningful relationships. 学会信任他人是建立有意义的人际关系的重要组成部分。"
+        },
+        {
+          "w": "insight",
+          "ipa": "/ˈɪnsaɪt/",
+          "pos": "n.",
+          "en": "A deep and clear understanding of a person, subject or complicated situation.",
+          "zh": "洞察力；深刻见解；深入了解。",
+          "ctx": "指阿里通过亲身参与任务，对中国载人航天计划获得深入了解。",
+          "ex1": "Living abroad gave her valuable insights into how cultural differences shape people's behaviour. 海外生活让她深入了解到文化差异如何影响人们的行为。",
+          "ex2": "The documentary offers fascinating insights into the daily lives of people living in remote communities. 这部纪录片让观众深入了解偏远地区居民的日常生活，内容引人入胜。"
+        }
+      ]
     },
     {
-      "en_html": "Space cooperation between China and Pakistan dates back to the early 1990s. China has launched Pakistani satellites, and a Pakistani-built rover is due to fly on a Chinese lunar mission around 2028. Shenzhou 24 blasted off from the Jiuquan launch centre in north-west China against a pink-tinged dawn sky on Wednesday and first docked with the space station three and a half hours later.",
-      "zh": "",
-      "notes": []
+      "en_html": "Space cooperation between China and Pakistan <mark class=\"voc\">dates back to</mark> the early 1990s. China has launched Pakistani satellites, and a Pakistani-built <mark class=\"voc\">rover</mark> <mark class=\"voc\">is due to</mark> fly on a Chinese lunar mission around 2028. Shenzhou 24 <mark class=\"voc\">blasted off</mark> from the Jiuquan launch centre in north-west China against a <mark class=\"voc\">pink-tinged</mark> dawn sky on Wednesday and first <mark class=\"voc\">docked</mark> with the space station three and a half hours later.",
+      "zh": "中国与巴基斯坦之间的航天合作可以追溯到20世纪90年代初。中国曾为巴基斯坦发射卫星，而一辆由巴基斯坦制造的月球车预计将在2028年前后搭乘中国的探月任务飞往太空。周三，在泛着粉红色的黎明天空映衬下，神舟二十四号从中国西北部的酒泉卫星发射中心腾空而起，并于三个半小时后首次与空间站完成对接。",
+      "notes": [
+        {
+          "w": "date back to",
+          "ipa": "/deɪt ˈbæk tuː/",
+          "pos": "phr.",
+          "en": "To have existed since a particular time in the past.",
+          "zh": "追溯到；始于；起源于。",
+          "ctx": "指中国与巴基斯坦之间的航天合作始于20世纪90年代初。",
+          "ex1": "The tradition of exchanging gifts during this festival dates back to ancient times. 在这个节日期间互赠礼物的传统可以追溯到古代。",
+          "ex2": "Their friendship dates back to a summer when they were both struggling to find their place in the world. 他们的友谊可以追溯到某个夏天，当时两人都在努力寻找自己在世界上的位置。"
+        },
+        {
+          "w": "rover",
+          "ipa": "/ˈrəʊvə(r)/",
+          "pos": "n.",
+          "en": "A vehicle designed to travel across the surface of a planet or moon to explore and collect scientific information.",
+          "zh": "巡视探测器；月球车；火星车；漫游车。",
+          "ctx": "指巴基斯坦制造的、计划参与中国探月任务的月球车。",
+          "ex1": "The rover collected rock samples that could reveal clues about the planet's geological history. 这辆探测车采集了岩石样本，这些样本可能揭示该行星地质历史的线索。",
+          "ex2": "Engineers must design rovers that can survive extreme temperatures and travel across rough terrain. 工程师必须设计出能够承受极端温度并在崎岖地形上行驶的探测车。"
+        },
+        {
+          "w": "be due to do sth.",
+          "ipa": "/bi ˈdjuː tə duː ˈsʌmθɪŋ/",
+          "pos": "phr.",
+          "en": "To be expected or scheduled to happen at a particular time.",
+          "zh": "预计将……；预定……；按计划将……。",
+          "ctx": "指巴基斯坦制造的月球车预计将在2028年前后参与中国的探月任务。",
+          "ex1": "The new international airport is due to open at the end of next year. 这座新的国际机场预计将于明年年底开放。",
+          "ex2": "The research team is due to publish its findings after completing the final stage of the experiment. 研究团队预计将在完成实验的最后阶段后公布研究结果。"
+        },
+        {
+          "w": "blast off",
+          "ipa": "/blɑːst ˈɒf/",
+          "pos": "phr.",
+          "en": "To leave the ground and travel into space, especially when referring to a rocket or spacecraft.",
+          "zh": "点火升空；发射升空；腾空而起。",
+          "ctx": "指神舟二十四号从酒泉卫星发射中心发射升空。",
+          "ex1": "Thousands of spectators gathered to watch the rocket blast off into the night sky. 数千名观众聚集在一起，观看火箭腾空而起，飞向夜空。",
+          "ex2": "The spacecraft blasted off just before sunrise, carrying three astronauts on a scientific mission. 就在日出之前，航天飞船搭载三名执行科研任务的航天员发射升空。"
+        },
+        {
+          "w": "pink-tinged",
+          "ipa": "/ˈpɪŋk tɪndʒd/",
+          "pos": "adj.",
+          "en": "Having a slight pink colour.",
+          "zh": "略带粉红色的；泛着淡粉色的。",
+          "ctx": "形容神舟二十四号发射升空时，黎明天空呈现出的淡粉色。",
+          "ex1": "The pink-tinged clouds slowly drifted across the horizon as the city began to wake up. 当城市逐渐苏醒时，泛着粉红色的云朵缓缓飘过地平线。",
+          "ex2": "She stood by the window, watching the pink-tinged sky reflected in the still waters of the lake. 她站在窗边，望着泛着粉红色的天空倒映在平静的湖面上。"
+        },
+        {
+          "w": "dock",
+          "ipa": "/dɒk/",
+          "pos": "v.",
+          "en": "To bring a ship into a port or connect a spacecraft to another spacecraft or space station.",
+          "zh": "停靠；靠岸；使对接；完成对接。",
+          "ctx": "指神舟二十四号航天飞船与天宫空间站完成对接。",
+          "ex1": "The spacecraft successfully docked with the space station after several hours in orbit. 航天飞船在轨道上运行数小时后，成功与空间站完成对接。",
+          "ex2": "The cruise ship docked at a small coastal town, allowing passengers to explore the surrounding area. 游轮停靠在一座海滨小镇，让乘客能够探索周边地区。"
+        }
+      ]
     },
     {
-      "en_html": "Ali, a 40-year-old Pakistan air force pilot and payload specialist, will conduct experiments including one cultivating microalgae as a potential food and another testing the effects of spaceflight on quinoa seeds. To prepare for the mission, he trained for seven months in Beijing, including taking intensive Chinese-language classes. At a press conference the day before the launch, Ali recited a line from a classical Chinese poem. Commander Tang Hongbo told reporters that differences in language and culture had made learning to work together more challenging but that the effort had paid off.",
-      "zh": "",
-      "notes": []
+      "en_html": "Ali, a 40-year-old Pakistan air force pilot and <mark class=\"voc\">payload</mark> specialist, will conduct experiments including one <mark class=\"voc\">cultivating</mark> <mark class=\"voc\">microalgae</mark> as a potential food and another testing the effects of spaceflight on <mark class=\"voc\">quinoa</mark> seeds. To prepare for the mission, he trained for seven months in Beijing, including taking intensive Chinese-language classes. At a press conference the day before the launch, Ali <mark class=\"voc\">recited</mark> a line from a classical Chinese poem. Commander Tang Hongbo told reporters that differences in language and culture had made learning to work together more challenging but that the effort had <mark class=\"voc\">paid off</mark>.",
+      "zh": "阿里是一名40岁的巴基斯坦空军飞行员兼载荷专家，他将开展多项实验，其中一项是培养微藻，将其作为一种潜在的食物来源，另一项则是测试太空飞行对藜⻨种子的影响。为了此次航天任务做好准备，他在北京接受了为期七个月的训练，其中包括高强度的中文课程。在发射前一天举行的新闻发布会上，阿里背诵了一句中国古典诗词。指令长汤洪波告诉记者，语言和文化上的差异使学习如何共同协作变得更具挑战性，但他们付出的努力最终得到了回报。",
+      "notes": [
+        {
+          "w": "payload",
+          "ipa": "/ˈpeɪləʊd/",
+          "pos": "n.",
+          "en": "The equipment, cargo or other useful load carried by an aircraft, rocket or spacecraft.",
+          "zh": "有效载荷；运载货物；搭载的设备或物资。",
+          "ctx": "出现在payload specialist中，指航天任务中用于开展科学实验等工作的有效载荷。",
+          "ex1": "The rocket carried a scientific payload designed to study the Earth's atmosphere. 这枚火箭搭载了用于研究地球大气层的科学设备。",
+          "ex2": "Engineers are developing lighter equipment to increase the spacecraft's payload capacity. 工程师正在研发更轻便的设备，以提高航天器的有效载荷能力。"
+        },
+        {
+          "w": "cultivate",
+          "ipa": "/ˈkʌltɪveɪt/",
+          "pos": "v.",
+          "en": "To grow plants or other organisms, or to gradually develop a skill, quality or relationship.",
+          "zh": "种植；栽培；培养；培育；发展。",
+          "ctx": "指阿里将在太空中培养微藻，研究其作为潜在食物来源的可能性。",
+          "ex1": "Scientists are exploring new methods of cultivating plants in environments with limited water. 科学家正在探索在水资源有限的环境中培育植物的新方法。",
+          "ex2": "Reading widely helps us cultivate curiosity and develop a deeper understanding of the world. 广泛阅读有助于我们培养好奇心，并加深对世界的理解。"
+        },
+        {
+          "w": "microalgae",
+          "ipa": "/ˌmaɪkrəʊˈældʒiː/",
+          "pos": "n.",
+          "en": "Microscopic algae that usually live in water and can produce organic matter through photosynthesis.",
+          "zh": "微藻；通常生活在水中的微小藻类生物。",
+          "ctx": "指阿里计划在空间站内培养并研究其食用潜力的微小藻类。",
+          "ex1": "Microalgae are being studied as a sustainable source of protein for future generations. 微藻正在被研究作为未来世代的一种可持续蛋白质来源。",
+          "ex2": "Some researchers believe microalgae could help provide food and oxygen during long space missions. 一些研究人员认为，微藻可能有助于在长期航天任务中提供食物和氧气。"
+        },
+        {
+          "w": "quinoa",
+          "ipa": "/ˈkiːnwɑː/",
+          "pos": "n.",
+          "en": "A plant grown for its small, nutritious seeds, which are cooked and eaten like grains.",
+          "zh": "藜⻨；一种富含营养的植物及其可食用种子。",
+          "ctx": "指阿里将在太空中研究其种子受到何种影响的农作物。",
+          "ex1": "Quinoa has become increasingly popular because it is rich in protein and other nutrients. 藜⻨因富含蛋白质和其他营养物质而越来越受欢迎。",
+          "ex2": "She prepared a healthy lunch consisting of quinoa, roasted vegetables and grilled chicken. 她准备了一顿健康的午餐，包括藜⻨、烤蔬菜和烤鸡肉。"
+        },
+        {
+          "w": "recite",
+          "ipa": "/rɪˈsaɪt/",
+          "pos": "v.",
+          "en": "To say a poem, speech or other piece of writing aloud from memory.",
+          "zh": "背诵；朗诵；吟诵。",
+          "ctx": "指阿里在新闻发布会上背诵了一句中国古典诗词。",
+          "ex1": "My grandmother could still recite the poems she had learned as a child. 我的祖母仍然能够背诵她童年时期学过的诗歌。",
+          "ex2": "Rather than simply reciting facts from a textbook, students should learn to express their own ideas. 学生不应该只是背诵课本中的事实，而应该学会表达自己的观点。"
+        },
+        {
+          "w": "pay off",
+          "ipa": "/peɪ ˈɒf/",
+          "pos": "phr.",
+          "en": "To produce a successful or beneficial result after a period of effort, or to repay a debt completely.",
+          "zh": "取得回报；获得成功；努力得到回报；还清债务。",
+          "ctx": "指航天员为克服语言和文化障碍、实现团队协作所付出的努力最终取得了成效。",
+          "ex1": "After months of practising English every day, her hard work finally paid off when she delivered a speech with confidence. 在坚持每天练习英语数月之后，她的努力终于得到了回报，她自信地完成了一场演讲。",
+          "ex2": "Not every effort produces immediate results, but patience and persistence often pay off in the long run. 并不是每一份努力都能立即产生结果，但从长远来看，耐心和坚持往往会得到回报。"
+        }
+      ]
     },
     {
-      "en_html": "Ali will not stay for the six-month term usually demanded of Tiangong astronauts. Instead, he will return to Earth with two of the Shenzhou 23 crew while its commander, Zhu Yangzhu, will remain to reach another milestone - the first full-year stay in space by a Chinese astronaut. Beijing’s accelerated achievements in the skies have spooked its rivals. China is the third country to put humans in orbit and it has landed robotic rovers on Mars and the moon, where it hopes to send crewed missions within the next decade.",
-      "zh": "",
-      "notes": []
+      "en_html": "Ali will not stay for the six-month term usually demanded of Tiangong astronauts. Instead, he will return to Earth with two of the Shenzhou 23 crew while its commander, Zhu Yangzhu, will remain to reach another <mark class=\"voc\">milestone</mark> - the first full-year stay in space by a Chinese astronaut. Beijing’s accelerated achievements in the skies have <mark class=\"voc\">spooked</mark> its rivals. China is the third country to put humans in orbit and it has <mark class=\"voc\">landed</mark> <mark class=\"voc\">robotic rovers</mark> on Mars and the moon, where it hopes to send crewed missions within the next decade.",
+      "zh": "阿里不会像天宫空间站的航天员通常被要求的那样驻留六个月。相反，他将与神舟二十三号乘组中的两名航天员一同返回地球，而该乘组的指令长朱杨柱将继续留在空间站，以实现另一个里程碑——成为首位在太空中完整驻留一年的中国航天员。中国在航天领域加速取得的成就令其竞争对手感到不安。中国是第三个将人类送入地球轨道的国家，并且已经成功将机器人探测车送上火星和月球，同时希望在未来十年内开展载人登月任务。",
+      "notes": [
+        {
+          "w": "milestone",
+          "ipa": "/ˈmaɪlstəʊn/",
+          "pos": "n.",
+          "en": "An important event or achievement that marks a significant stage in the development of something.",
+          "zh": "里程碑；重大事件；具有标志性意义的成就。",
+          "ctx": "指中国航天员首次实现连续一年在太空驻留这一具有标志性意义的航天成就。",
+          "ex1": "The successful landing marked a major milestone in the history of space exploration. 此次成功着陆标志着太空探索历史上的一个重要里程碑。",
+          "ex2": "Graduating from university is an important milestone, but it is only the beginning of a much longer journey. 大学毕业是人生中的一个重要里程碑，但它只是一段更加漫长旅程的开始。"
+        },
+        {
+          "w": "spook",
+          "ipa": "/spuːk/",
+          "pos": "v.",
+          "en": "To make someone suddenly feel frightened, nervous or worried.",
+          "zh": "惊吓；使害怕；使紧张；使感到不安。",
+          "ctx": "指中国航天事业的快速发展使其竞争对手产生担忧和不安。",
+          "ex1": "The sudden decline in consumer confidence spooked investors across the financial markets. 消费者信心的突然下降令整个金融市场的投资者感到不安。",
+          "ex2": "The unexpected noise spooked the horse, causing it to run across the field. 突如其来的声响惊吓到了那匹马，使它跑过了田野。"
+        },
+        {
+          "w": "land",
+          "ipa": "/lænd/",
+          "pos": "v.",
+          "en": "To arrive on the ground or another surface after travelling through the air or space, or to cause something to do so.",
+          "zh": "着陆；降落；使着陆；成功获得。",
+          "ctx": "指中国已经成功将机器人探测车送上火星和月球，并使其完成着陆。",
+          "ex1": "The spacecraft landed safely on the surface of the Moon after a carefully controlled descent. 航天器经过精确控制的下降过程，安全降落在月球表面。",
+          "ex2": "After months of preparation and several interviews, she finally landed her dream job. 经过数月的准备和多次面试，她终于获得了梦寐以求的工作。"
+        },
+        {
+          "w": "robotic rover",
+          "ipa": "/rəʊˈbɒtɪk ˈrəʊvə(r)/",
+          "pos": "n.",
+          "en": "A robotic vehicle designed to travel across the surface of a planet or moon and carry out scientific exploration.",
+          "zh": "机器人探测车；无人巡视探测车。",
+          "ctx": "指中国已经成功送上火星和月球、用于开展科学探测的机器人车辆。",
+          "ex1": "The robotic rover transmitted detailed images of the Martian landscape back to Earth. 这辆机器人探测车将火星地貌的详细图像传回了地球。",
+          "ex2": "A robotic rover can collect scientific data in places that humans have not yet reached. 机器人探测车能够在人类尚未到达的地方收集科学数据。"
+        }
+      ]
     },
     {
-      "en_html": "In racing to the moon before 2030, Beijing is competing with the US’s Artemis programme. The US has excluded China from the ISS since 2011, banning Nasa from collaborating with Beijing. In 2025, Nasa went further by blocking Chinese citizens from its facilities altogether. US lawmakers have moved to try to extend the life of the ISS, citing China’s “permanent human presence in low Earth orbit” through Tiangong. Progress on turning that proposal into law has been slow. Nasa has said that after the ISS it will be “one of many customers in a robust commercial marketplace in low Earth orbit.”",
-      "zh": "",
-      "notes": []
+      "en_html": "In racing to the moon before 2030, Beijing is competing with the US’s Artemis programme. The US has excluded China from the ISS since 2011, banning Nasa from collaborating with Beijing. In 2025, Nasa went further by blocking Chinese citizens from its facilities altogether. US lawmakers have <mark class=\"voc\">moved to</mark> try to extend the life of the ISS, <mark class=\"voc\">citing</mark> China’s “<mark class=\"voc\">permanent</mark> human presence in <mark class=\"voc\">low Earth orbit</mark>” through Tiangong. Progress on turning that proposal into law has been slow. Nasa has said that after the ISS it will be “one of many customers in a <mark class=\"voc\">robust</mark> commercial marketplace in low Earth orbit.”",
+      "zh": "在争取于2030年之前实现登月的竞赛中，中国正与美国的“阿耳忒弥斯”计划展开竞争。自2011年以来，美国一直将中国排除在国际空间站项目之外，并禁止美国国家航空航天局与中国开展合作。2025年，美国国家航空航天局进一步采取措施，全面禁止中国公民进入其设施。美国立法者已采取行动，试图延长国际空间站的使用寿命，理由是中国通过天宫空间站实现了“人类在近地轨道的长期驻留”。然而，将这一提案转化为法律的进展一直十分缓慢。美国国家航空航天局表示，在国际空间站退役之后，它将成为“近地轨道蓬勃发展的商业市场中的众多客户之一”。",
+      "notes": [
+        {
+          "w": "move to do sth.",
+          "ipa": "/muːv tə duː ˈsʌmθɪŋ/",
+          "pos": "phr.",
+          "en": "To take action or begin taking steps towards achieving a particular result.",
+          "zh": "采取行动做某事；着手做某事；开始推动某事。",
+          "ctx": "指美国立法者已经采取行动，试图延长国际空间站的使用寿命。",
+          "ex1": "The company has moved to strengthen its security systems following several data breaches. 在发生数次数据泄露事件之后，该公司已采取行动加强其安全系统。",
+          "ex2": "Several universities have moved to introduce more flexible learning arrangements for working adults. 多所大学已着手为在职成年人推出更加灵活的学习安排。"
+        },
+        {
+          "w": "cite",
+          "ipa": "/saɪt/",
+          "pos": "v.",
+          "en": "To mention something as a reason, example or piece of evidence to support a statement or decision.",
+          "zh": "引用；援引；列举；以……为理由。",
+          "ctx": "指美国立法者以中国通过天宫空间站实现人类在近地轨道的长期驻留作为延长国际空间站使用寿命的理由。",
+          "ex1": "The company cited rising production costs as the main reason for increasing its prices. 该公司将生产成本上涨列为提高价格的主要原因。",
+          "ex2": "The researcher cited several previous studies to support her argument. 这名研究人员引用了几项以往的研究来支持自己的论点。"
+        },
+        {
+          "w": "permanent",
+          "ipa": "/ˈpɜːmənənt/",
+          "pos": "adj.",
+          "en": "Lasting for a long time or intended to continue indefinitely without ending.",
+          "zh": "永久的；长期的；持久的；固定的。",
+          "ctx": "指中国通过天宫空间站在近地轨道建立了长期、持续有人驻留的状态。",
+          "ex1": "The organisation is looking for a permanent solution rather than a temporary response to the problem. 该组织正在寻找一个长久的解决方案，而不是对问题采取临时性的应对措施。",
+          "ex2": "Some experiences leave a permanent mark on the way we understand ourselves and the world. 有些经历会在我们认识自己和世界的方式上留下永久的印记。"
+        },
+        {
+          "w": "low Earth orbit",
+          "ipa": "/ˌləʊ ɜːθ ˈɔːbɪt/",
+          "pos": "n.",
+          "en": "An orbit relatively close to the Earth's surface, generally at an altitude of up to around 2,000 kilometres.",
+          "zh": "近地轨道；低地球轨道。",
+          "ctx": "指天宫空间站和国际空间站所在的、距离地球表面相对较近的运行轨道区域。",
+          "ex1": "Many communication satellites operate in low Earth orbit to provide faster internet connections. 许多通信卫星在近地轨道运行，以提供更加快速的互联网连接。",
+          "ex2": "Scientists are exploring new opportunities for commercial activities in low Earth orbit. 科学家正在探索近地轨道商业活动的新机遇。"
+        },
+        {
+          "w": "robust",
+          "ipa": "/rəʊˈbʌst/",
+          "pos": "adj.",
+          "en": "Strong, healthy and capable of continuing to function successfully even under difficult conditions.",
+          "zh": "强健的；稳健的；强劲的；富有活力的。",
+          "ctx": "形容美国国家航空航天局所设想的成熟、强劲且富有活力的近地轨道商业市场。",
+          "ex1": "A robust economy is better able to withstand unexpected financial shocks. 一个稳健的经济体能够更好地抵御突如其来的金融冲击。",
+          "ex2": "Building a robust support system can help individuals cope with stress and uncertainty. 建立一个强大的支持体系能够帮助个人应对压力和不确定性。"
+        }
+      ]
     },
     {
-      "en_html": "The ISS was heralded as a symbol of post-cold war cooperation, but renewed cooperation with Russia seems “unlikely”, said Andrew Jones, a journalist specialising in China’s space programme. While Tiangong is smaller than the ISS, China is understood to be preparing to double its size, “likely with the end of the ISS in mind”, Jones added. “These developments could allow China to expand its international engagement, and potentially space tourism. With the ISS nearing the end of its life and the future of western commercial space stations uncertain, China could for a time have the only permanently crewed outpost in low Earth orbit.”",
-      "zh": "",
-      "notes": []
+      "en_html": "The ISS was <mark class=\"voc\">heralded</mark> as a symbol of post-cold war cooperation, but renewed cooperation with Russia seems “unlikely”, said Andrew Jones, a journalist specialising in China’s space programme. While Tiangong is smaller than the ISS, China <mark class=\"voc\">is understood to be</mark> preparing to double its size, “likely <mark class=\"voc\">with the end of the ISS in mind</mark>”, Jones added. “These developments could allow China to expand its international <mark class=\"voc\">engagement</mark>, and potentially space tourism. With the ISS nearing the end of its life and the future of western commercial space stations uncertain, China could <mark class=\"voc\">for a time</mark> have the only permanently crewed <mark class=\"voc\">outpost</mark> in low Earth orbit.”",
+      "zh": "专门报道中国航天计划的记者安德鲁·琼斯表示，国际空间站曾被誉为冷战后国际合作的象征，但与俄罗斯重新开展合作似乎“不太可能”。琼斯补充说，尽管天宫空间站的规模小于国际空间站，但据了解，中国正准备将其规模扩大一倍，“这很可能是考虑到了国际空间站即将退役”。“这些发展可能使中国扩大国际合作的范围，并有可能发展太空旅游业。随着国际空间站的使用寿命接近尾声，而西方商业空间站的未来尚不确定，中国可能会在一段时间内拥有近地轨道上唯一一个长期有人驻留的前哨站。”",
+      "notes": [
+        {
+          "w": "herald",
+          "ipa": "/ˈherəld/",
+          "pos": "v.",
+          "en": "To publicly praise or announce something as important, or to signal the beginning of something new.",
+          "zh": "称颂；赞扬；宣告；预示……的到来。",
+          "ctx": "以be heralded as的形式出现，指国际空间站曾被誉为冷战后国际合作的象征。",
+          "ex1": "The discovery was heralded as a major breakthrough in modern medicine. 这一发现被誉为现代医学领域的一项重大突破。",
+          "ex2": "The invention of the internet heralded a new era of global communication. 互联网的发明预示着全球通信新时代的到来。"
+        },
+        {
+          "w": "be understood to do sth.",
+          "ipa": "/bi ˌʌndəˈstʊd tə duː ˈsʌmθɪŋ/",
+          "pos": "phr.",
+          "en": "Used to report something that is believed to be true based on available information, although it may not have been officially confirmed.",
+          "zh": "据了解……；据悉……；据信……。",
+          "ctx": "指根据目前掌握的信息，中国正在为扩大天宫空间站的规模做准备。",
+          "ex1": "The company is understood to be considering a major expansion into overseas markets. 据了解，该公司正在考虑大规模拓展海外市场。",
+          "ex2": "The researchers are understood to have made significant progress in developing the new treatment. 据悉，研究人员在研发这一新疗法方面已经取得了重大进展。"
+        },
+        {
+          "w": "with sth. in mind",
+          "ipa": "/wɪð ˈsʌmθɪŋ ɪn maɪnd/",
+          "pos": "phr.",
+          "en": "While considering a particular fact, purpose, person or future possibility.",
+          "zh": "考虑到……；将……纳入考虑；以……为出发点。",
+          "ctx": "指中国在规划天宫空间站扩建时，可能已经考虑到了国际空间站即将结束运行的情况。",
+          "ex1": "The architect designed the building with environmental sustainability in mind. 建筑师在设计这座建筑时充分考虑了环境的可持续性。",
+          "ex2": "She chose a career with her long-term happiness in mind rather than focusing solely on financial rewards. 她在选择职业时考虑的是自己长远的幸福，而不是仅仅关注经济回报。"
+        },
+        {
+          "w": "engagement",
+          "ipa": "/ɪnˈɡeɪdʒmənt/",
+          "pos": "n.",
+          "en": "Active involvement, participation or interaction with a person, organisation or activity.",
+          "zh": "参与；互动；交往；接触；约定；订婚。",
+          "ctx": "指中国在国际航天领域与其他国家开展的交流、合作及互动。",
+          "ex1": "Greater public engagement can help scientists communicate the importance of their research. 更广泛的公众参与有助于科学家向人们传达其研究的重要性。",
+          "ex2": "The organisation is seeking to strengthen its engagement with local communities through educational projects. 该组织正寻求通过教育项目加强与当地社区的互动。"
+        },
+        {
+          "w": "for a time",
+          "ipa": "/fər ə ˈtaɪm/",
+          "pos": "phr.",
+          "en": "For a limited period of time, rather than permanently.",
+          "zh": "一度；暂时；在一段时间内。",
+          "ctx": "指国际空间站退役后，中国可能在一段时间内拥有近地轨道上唯一一个长期有人驻留的空间站。",
+          "ex1": "For a time, she believed that professional success was the only measure of happiness. 有一段时间，她认为事业上的成功是衡量幸福的唯一标准。",
+          "ex2": "The small coastal town became the centre of international attention for a time. 这座海滨小镇一度成为国际社会关注的焦点。"
+        },
+        {
+          "w": "outpost",
+          "ipa": "/ˈaʊtpəʊst/",
+          "pos": "n.",
+          "en": "A small settlement, station or base established far from a main centre of activity, often for military, scientific or exploratory purposes.",
+          "zh": "前哨站；偏远基地；外围据点；远离主要活动中心的站点。",
+          "ctx": "指人类在近地轨道建立的、能够支持航天员长期驻留和开展科研活动的空间站。",
+          "ex1": "The remote research outpost provides scientists with a unique opportunity to study the Antarctic environment. 这座偏远的科研前哨站为科学家提供了研究南极环境的独特机会。",
+          "ex2": "A permanent human outpost on the Moon could become an important stepping stone towards deeper space exploration. 在月球上建立长期有人驻留的前哨站，可能成为人类迈向更深远太空探索的重要跳板。"
+        }
+      ]
     },
     {
-      "en_html": "China has long signalled its interest in developing Tiangong as an international hub. China Manned Space Agency documents published in coordination with the UN outline “resources for international cooperation” onboard the station. European and Chinese astronauts previously trained together with a view to a visit to Tiangong, but that cooperation ended for political and budgetary reasons, Jones said. Curcio said he would expect countries such as Brazil and Egypt to seek out opportunities to send astronauts on Chinese missions. He added: “I think when the ISS is retired, if there is no western replacement (government or commercial), then yes, we may eventually see European or other ISS-involved countries.”",
-      "zh": "",
-      "notes": []
+      "en_html": "China has long signalled its interest in developing Tiangong as an international <mark class=\"voc\">hub</mark>. China <mark class=\"voc\">Manned</mark> Space Agency documents published <mark class=\"voc\">in coordination with</mark> the UN <mark class=\"voc\">outline</mark> “resources for international cooperation” onboard the station. European and Chinese astronauts previously trained together <mark class=\"voc\">with a view to</mark> a visit to Tiangong, but that cooperation ended for political and <mark class=\"voc\">budgetary</mark> reasons, Jones said. Curcio said he would expect countries such as Brazil and Egypt to <mark class=\"voc\">seek out</mark> opportunities to send astronauts on Chinese missions. He added: “I think when the ISS is retired, if there is no western replacement (government or commercial), then yes, we may eventually see European or other ISS-involved countries.”",
+      "zh": "中国长期以来一直表明有意将天宫空间站发展成为一个国际航天合作中心。中国载人航天工程办公室与联合国协调发布的文件概述了空间站内“可用于国际合作的资源”。琼斯表示，欧洲和中国的航天员此前曾共同接受训练，以期未来能够访问天宫空间站，但由于政治和预算方面的原因，这项合作已经终止。柯西奥表示，他预计巴西和埃及等国家将积极寻找派遣本国航天员参与中国航天任务的机会。他补充道：“我认为，当国际空间站退役之后，如果西方没有能够取而代之的空间站（无论是政府运营的还是商业运营的），那么，是的，我们最终可能会看到欧洲国家或其他曾参与国际空间站项目的国家加入进来。”",
+      "notes": [
+        {
+          "w": "hub",
+          "ipa": "/hʌb/",
+          "pos": "n.",
+          "en": "A central place where a particular activity takes place or where different networks and connections meet.",
+          "zh": "中心；枢纽；核心；活动中心。",
+          "ctx": "指天宫空间站未来可能成为各国开展航天科研、交流与合作的重要中心。",
+          "ex1": "Singapore has developed into a major international financial and transportation hub. 新加坡已经发展成为重要的国际金融和交通枢纽。",
+          "ex2": "The former industrial district has gradually transformed into a vibrant hub for artists and entrepreneurs. 这个曾经的工业区逐渐转变为一个充满活力的艺术家和创业者聚集中心。"
+        },
+        {
+          "w": "manned",
+          "ipa": "/mænd/",
+          "pos": "adj.",
+          "en": "Having one or more people operating or controlling a vehicle, spacecraft or facility.",
+          "zh": "载人的；有人操控的；有人值守的。",
+          "ctx": "出现在China Manned Space Agency中，指中国载人航天工程办公室。",
+          "ex1": "The successful manned space mission represented a major achievement in the country's scientific development. 此次载人航天任务的成功代表着该国科学发展的一项重大成就。",
+          "ex2": "Establishing a manned research station on the Moon would require reliable life-support systems. 在月球上建立载人科研站将需要可靠的生命保障系统。"
+        },
+        {
+          "w": "in coordination with",
+          "ipa": "/ɪn kəʊˌɔːdɪˈneɪʃən wɪð/",
+          "pos": "phr.",
+          "en": "Working together with another person or organisation in an organised and cooperative manner.",
+          "zh": "与……协调合作；与……协同；在……的配合下。",
+          "ctx": "指中国载人航天工程办公室与联合国协调合作，共同推进有关国际航天合作的信息发布。",
+          "ex1": "The university developed the new training programme in coordination with several international research institutions. 该大学与多家国际研究机构协调合作，制定了新的培训计划。",
+          "ex2": "The charity distributed emergency supplies in coordination with local community organisations. 该慈善机构与当地社区组织协调合作，分发紧急救援物资。"
+        },
+        {
+          "w": "outline",
+          "ipa": "/ˈaʊtlaɪn/",
+          "pos": "v.",
+          "en": "To describe the main ideas, features or details of something without providing every detail.",
+          "zh": "概述；简述；勾勒；列出要点。",
+          "ctx": "指相关文件概述了天宫空间站能够为国际航天合作提供的资源。",
+          "ex1": "During the meeting, the director outlined the company's plans for the next five years. 在会议期间，负责人概述了公司未来五年的发展计划。",
+          "ex2": "Before beginning the essay, students should outline their main arguments and supporting evidence. 在开始写文章之前，学生应该先列出主要论点及其支持性证据。"
+        },
+        {
+          "w": "with a view to",
+          "ipa": "/wɪð ə ˈvjuː tuː/",
+          "pos": "phr.",
+          "en": "With the intention or purpose of achieving something in the future.",
+          "zh": "着眼于；以……为目的；为了将来能够……。",
+          "ctx": "指欧洲和中国航天员共同接受训练，目的是为未来访问天宫空间站做准备。",
+          "ex1": "She enrolled in an advanced English course with a view to studying abroad in the future. 她报名参加了一门高级英语课程，目的是将来能够出国留学。",
+          "ex2": "The company is investing in new technology with a view to reducing production costs over the next decade. 该公司正在投资新技术，以期在未来十年内降低生产成本。"
+        },
+        {
+          "w": "budgetary",
+          "ipa": "/ˈbʌdʒɪtəri/",
+          "pos": "adj.",
+          "en": "Relating to the amount of money available for a particular purpose and how that money is planned or spent.",
+          "zh": "预算的；与财政预算有关的；涉及经费安排的。",
+          "ctx": "指欧洲与中国的航天合作终止所涉及的预算和经费方面的原因。",
+          "ex1": "Several research projects were postponed because of budgetary constraints. 由于预算限制，多个科研项目被推迟。",
+          "ex2": "The university must balance its educational ambitions with its budgetary limitations. 该大学必须在教育发展目标与预算限制之间取得平衡。"
+        },
+        {
+          "w": "seek out",
+          "ipa": "/siːk ˈaʊt/",
+          "pos": "phr.",
+          "en": "To actively search for and try to find someone or something, especially when it requires effort.",
+          "zh": "主动寻找；积极寻求；设法找到。",
+          "ctx": "指巴西和埃及等国家可能主动寻找派遣本国航天员参与中国航天任务的机会。",
+          "ex1": "Successful learners actively seek out opportunities to practise what they have learned. 成功的学习者会主动寻找机会实践自己所学的知识。",
+          "ex2": "Instead of waiting for inspiration to arrive, creative people often seek out experiences that challenge their existing perspectives. 富有创造力的人往往不会等待灵感降临，而是主动寻找能够挑战自身固有观念的经历。"
+        }
+      ]
     }
   ],
-  "proper": [],
+  "proper": [
+    {
+      "name": "Tiangong Space Station / 天宫空间站",
+      "def": "天宫空间站是中国自主建设和运营的长期载人空间站，主要由天和核心舱、问天实验舱和梦天实验舱组成，于2022年完成基本构型的在轨组装。“天宫”在中国传统文化中有天上宫殿的含义。它不仅是航天员在太空中的住所，也是开展生命科学、空间医学、材料科学等研究的实验室。"
+    },
+    {
+      "name": "Space Handshake / 太空握手",
+      "def": "太空握手具有重要的国际航天合作象征意义。1975年，美国阿波罗飞船与苏联联盟号飞船在太空完成对接，两国航天员进行了著名的历史性握手。这次握手被视为冷战时期国际航天合作的重要突破。本文描述的中巴航天员在天宫空间站相拥，则象征着中国载人航天国际合作进入了新的阶段。"
+    },
+    {
+      "name": "International Space Station，ISS / 国际空间站",
+      "def": "国际空间站是由美国、俄罗斯、欧洲、日本和加拿大五方航天机构共同参与建设和运营的大型载人空间站。1998年开始在轨组装，2000年开始持续有人驻留，主要在距离地球表面约400公里的轨道上运行。它既是人类重要的太空科学实验室，也是国际科技合作的重要成果。"
+    },
+    {
+      "name": "ISS Retirement / 国际空间站为什么要退役？",
+      "def": "空间站虽然可以通过更换设备和维修来延长使用寿命，但其主体结构无法无限期使用。长期的温度变化、太空辐射以及飞船反复对接都会造成不同程度的老化。按照NASA目前公布的退役规划，国际空间站将在2030年前后结束运行，随后通过受控离轨的方式进入地球大气层，残余碎片预计落入偏远海域。"
+    },
+    {
+      "name": "Shenzhou Spacecraft / 神舟载人飞船",
+      "def": "神舟是中国自主研制的载人航天飞船系列，通常由轨道舱、返回舱和推进舱三部分组成。 2003年，神舟五号成功将杨利伟送入太空，使中国成为继苏联和美国之后第三个独立实现载人航天的国家。空间站建成之后，神舟飞船主要负责航天员的天地往返和乘组轮换。"
+    },
+    {
+      "name": "Reach Orbit / 进入地球轨道",
+      "def": "进入太空与进入轨道并不是完全相同的概念。航天器不仅需要达到一定高度，还需要获得足够的横向速度，才能持续围绕地球运行。近地轨道上的航天器运行速度通常约为每秒7.8公里。本文强调阿里是首位进入地球轨道的巴基斯坦人，意味着他参与的是轨道载人航天任务，而非短暂的亚轨道飞行。"
+    },
+    {
+      "name": "Trust in Crewed Spaceflight / 载人航天合作中的国家信任",
+      "def": "派遣本国航天员乘坐其他国家研制的飞船，需要对对方的火箭技术、生命保障系统、飞船安全性能以及应急救援能力具有高度信任。同时，外国航天员参与训练，也意味着双方需要在一定范围内共享技术知识、操作流程和科研信息。因此，载人航天合作不仅是科学交流，也体现了国家之间的信任程度。"
+    },
+    {
+      "name": "China-Pakistan Space Cooperation / 中国与巴基斯坦的航天合作",
+      "def": "中国与巴基斯坦的航天合作可以追溯到20世纪90年代。1990年，巴基斯坦首颗卫星 Badr-A由中国长征系列火箭送入太空。此后，双方逐渐将合作拓展至通信卫星、遥感卫星和月球探测等领域。按照本文的叙述，此次外国航天员进入天宫空间站，是双方合作从无人航天进一步走向载人航天的重要突破。"
+    },
+    {
+      "name": "Jiuquan Satellite Launch Center / 酒泉卫星发射中心",
+      "def": "酒泉卫星发射中心始建于1958年，是中国最早建立的航天发射基地之一，主要承担卫星发射、载人航天等任务。2003年，神舟五号从这里发射升空。虽然它以甘肃酒泉命名，但其主要发射区域位于内蒙古阿拉善盟境内。当地气候干燥、人口稀少，具有开展航天发射任务的地理条件。"
+    },
+    {
+      "name": "Space Rendezvous and Docking / 太空交会对接",
+      "def": "交会对接是指两个在太空中独立运行的航天器逐渐接近，并最终实现机械连接的过程。由于两个航天器都在高速围绕地球运行，飞船必须通过精确调整轨道、速度和姿态，使双方的相对速度降至安全范围，才能完成对接。掌握这一技术是建设大型空间站、进行人员轮换和运输物资的重要前提。"
+    },
+    {
+      "name": "Payload Specialist / 载荷专家",
+      "def": "载荷专家是载人航天任务中主要负责特定科学实验、科研设备操作或专业技术任务的人员。与主要负责飞船驾驶和系统操作的航天员相比，载荷专家的工作更侧重于科学研究。他们通常需要具备相关专业知识，同时接受航天环境适应、设备操作和紧急情况处理等训练。"
+    },
+    {
+      "name": "Microalgae as Space Food / 微藻与未来太空食品",
+      "def": "微藻是一类体积微小的藻类生物，许多微藻能够通过光合作用吸收二氧化碳、释放氧气，并产生富含蛋白质等营养物质的生物质。科学家研究在太空中培养微藻，是因为未来长期航天任务可能无法完全依赖地球补给。如果能够在太空中自主生产食物，并实现部分空气和资源循环，将有助于降低深空探索的补给压力。"
+    },
+    {
+      "name": "Quinoa Seeds and Space Breeding / 藜⻨种子与太空育种",
+      "def": "藜⻨是一种原产于南美洲安第斯山区的农作物，其种子具有较高的营养价值。太空中的辐射、微重力等特殊环境可能影响植物种子的遗传物质、生长和发育过程。研究人员可以通过比较经历太空飞行的种子与地面种子的表现，探索植物对特殊环境的适应能力。不过，太空飞行带来的变化并不一定有益，仍需要后续实验和筛选。"
+    },
+    {
+      "name": "Long-duration Spaceflight / 航天员长期太空驻留",
+      "def": "长期生活在微重力环境中会对人体产生多方面影响，包括肌肉萎缩、⻣密度下降、体液重新分布以及心血管功能变化。航天员需要通过每天进行体育锻炼、科学饮食和定期医学监测来减少这些影响。一年期太空驻留研究对于未来载人登月、火星探索等长期任务具有重要意义，因为未来的深空旅行可能持续数月甚至数年。"
+    },
+    {
+      "name": "China’s Lunar and Mars Exploration / 中国的月球与火星探测",
+      "def": "中国通过嫦娥工程开展月球探测，通过天问系列任务开展行星探测。2019年，嫦娥四号实现了人类探测器首次在月球背面软着陆；2021年，祝融号火星车成功在火星表面开展探测；2024年，嫦娥六号实现了人类首次月球背面采样返回。这些任务积累的技术经验，为未来载人深空探索奠定了基础。"
+    },
+    {
+      "name": "Artemis Programme / 阿耳忒弥斯计划",
+      "def": "阿耳忒弥斯计划是由美国国家航空航天局主导的新一代月球探索计划，目标不仅是实现人类重返月球，还包括建立可持续的月球探索能力，并为未来载人火星任务积累经验。该计划以希腊神话中的月亮女神阿耳忒弥斯命名，她是太阳神阿波罗的孪生姐妹，因此这一名称也呼应了美国曾经实施的阿波罗登月计划。"
+    },
+    {
+      "name": "Wolf Amendment / 沃尔夫条款",
+      "def": "沃尔夫条款是美国自2011年起通过拨款立法实施的相关限制，以美国前国会议员弗兰克·沃尔夫的姓氏命名。该条款主要限制NASA和美国白宫科技政策办公室使用相关拨款与中国开展未经特定程序批准的双边合作。它是理解中美航天合作长期受到限制的重要背景，但并不意味着所有形式的中美科学交流都被禁止。"
+    },
+    {
+      "name": "Commercial Space Stations / 商业空间站",
+      "def": "传统空间站主要由国家政府投资建设和运营，而商业空间站则由商业企业主导开发，并向政府机构、科研组织和其他客户提供服务。NASA希望在国际空间站退役后，逐步从空间站的直接运营者转变为商业航天服务的购买者。不过，商业空间站能否及时完成建设并投入使用，仍然存在技术、资金和时间上的不确定性。"
+    },
+    {
+      "name": "Low Earth Orbit and Space Tourism / 近地轨道与太空旅游",
+      "def": "近地轨道通常指距离地球表面约2000公里以内的轨道区域，是载人空间站、通信卫星和遥感卫星的重要运行区域。相比前往月球和火星，进入近地轨道所需的航天运输成本通常更低，因此也成为商业太空旅游的重要发展方向。如果未来空间站具备接待商业游客的能力，太空旅行便可能逐渐从专业航天员的活动拓展至普通商业客户。"
+    },
+    {
+      "name": "UN-China Space Station Cooperation / 联合国与中国空间站国际合作计划",
+      "def": "中国载人航天工程办公室与联合国外层空间事务办公室开展了中国空间站国际合作项目，并于 2018年启动首轮空间科学实验项目征集，最终选出9个实验项目。这项合作旨在让不同国家的科研机构，尤其是缺乏独立航天能力的发展中国家，也有机会利用中国空间站开展科学研究。需要注意的是，参与空间科学实验与派遣本国航天员是不同层次的合作。本文最后提到的巴西、埃及以及欧洲国家未来参与中国载人航天任务的可能性，属于受访专家的预测，而非已经确定的任务安排。"
+    }
+  ],
   "sources_note": "依据《卫报》2026-11-27 报道。",
-  "practice": {},
+  "practice": {
+    "intro": "",
+    "items": [],
+    "critical_en": "",
+    "critical_zh": "",
+    "answer": "",
+    "exercise_verbatim": "请根据今天学习的文章，用 80–100个英文单词复述文章内容。<br><br>1. 历史性时刻<br><br>中国首次将一名外国航天员送入天宫空间站，巴基斯坦航天员阿里成为首位进入地球轨道的巴基斯坦人。<br><br>（astronaut, space station, reach orbit, milestone）<br><br>2. 中国航天事业的发展<br><br>中国近年来在航天领域投入大量资金，并在空间站建设、月球和火星探索方面取得了重要成就。<br><br>（invest in, space programme, achievement, robotic rover）<br><br>3. 航天员的训练与任务<br><br>为了执行此次任务，阿里接受了七个月的训练，包括强化中文课程。他将在空间站开展多项科学实验。<br><br>（prepare for, intensive, conduct experiments, cultivate）<br><br>请根据今天学习的文章，用 80–100个英文单词复述文章内容。<br><br>4. 国际空间站的未来<br><br>国际空间站预计将于2030年开始停止运行。如果没有合适的替代空间站，天宫可能在一段时间内成为近地轨道上唯一持续有人驻留的空间站。<br><br>（cease operations, replacement, permanently, low Earth orbit）<br><br>5. 国际航天合作的新篇章<br><br>中国希望将天宫发展成为国际航天合作中心，为更多国家提供参与太空探索的机会。<br><br>（international hub, collaboration, expand, seek out opportunities）<br><br>思考题<br><br>Do you think space exploration should be a competition between countries or a shared mission for all humanity? Why?<br><br>你认为太空探索应该是国家之间的竞争，还是全人类共同承担的使命？为什么？<br><br>请结合今天的文章内容以及自己的理解，用50–80个英文单词表达你的观点。",
+    "answer_verbatim": "参考答案：<br><br>China has sent its first foreign astronaut to Tiangong, marking a major milestone in its space programme. Muhammad Zeeshan Ali became the first Pakistani to reach orbit. China has invested heavily in space exploration and made remarkable achievements. To prepare for the mission, Ali received seven months of training, including intensive Chinese-language classes. He will conduct scientific experiments in space. As the International Space Station approaches the end of its life, Tiangong could become the only permanently crewed space station in low Earth orbit for a time. China hopes to develop Tiangong as an international hub and expand international cooperation.<br><br>中国已将首位外国航天员送入天宫空间站，标志着其航天计划迎来了一个重要的里程碑。穆罕默德·泽山·阿里成为首位进入地球轨道的巴基斯坦人。中国在太空探索领域投入了大量资金，并取得了显著成就。为了此次任务做好准备，阿里接受了为期七个月的训练，其中包括强化中文课程。他将在太空中开展科学实验。随着国际空间站的使用寿命接近尾声，天宫可能在一段时间内成为近地轨道上唯一持续有人驻留的空间站。中国希望将天宫发展成为一个国际合作中心，并扩大国际合作。<br><br>思考题参考答案（选做）<br><br>I believe space exploration should be a shared mission for all humanity. Although competition can accelerate technological progress, international cooperation allows countries to share knowledge, resources and experience. Space exploration is expensive and challenging, and no country can solve every problem alone. By working together, countries can make greater scientific discoveries and reduce unnecessary costs. After all, space does not belong to any single nation, and its exploration should benefit all humanity.<br><br>我认为太空探索应该是全人类共同承担的使命。尽管竞争能够加速技术进步，但国际合作可以让各国共享知识、资源和经验。太空探索成本高昂，而且充满挑战，没有任何一个国家能够独自解决所有问题。通过共同合作，各国能够取得更加重大的科学发现，并减少不必要的成本。毕竟，太空并不属于任何一个国家，对太空的探索应该造福全人类。"
+  },
   "mindmap": {
     "aria": "",
     "alt": "",
     "svg": "",
     "img": ""
-  }
+  },
+  "audio": true
 }

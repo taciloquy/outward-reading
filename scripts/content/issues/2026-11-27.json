@@ -1,0 +1,90 @@
+{
+  "date": "2026-11-27",
+  "title_tag": "China sends first foreign astronaut to ISS rival as it globalises space operations —— 英国《卫报》外刊讲解第1241天",
+  "h1": "China sends first foreign astronaut to ISS rival as it globalises space operations",
+  "source_label": "卫报",
+  "category": "英国《卫报》外刊讲解 第1241天",
+  "read_minutes": 9,
+  "nav_hint": "天宫迎来首位外国宇航员：太空握手、登月竞赛与空间站交接期",
+  "headline_en": "Muhammad Zeeshan Ali - the first Pakistani to reach orbit - greeted with Chinese 'space handshake' at Tiangong station",
+  "headline_zh": "首位进入地球轨道的巴基斯坦人穆罕默德·齐尚·阿里，在中国天宫空间站受到中国式“太空握手”的欢迎。",
+  "sources_note": "依据《卫报》2026-11-27 报道。",
+  "headline_marks": [
+    ["orbit", "reach orbit"],
+    ["greet", "greeted"]
+  ],
+  "marks": {
+    "1": [
+      ["hatch", "hatch"],
+      ["grin", "grinned"],
+      ["embrace", "embraced"],
+      ["crew", "crew"]
+    ],
+    "2": [
+      ["the jewel in the crown", "the jewel in the crown"],
+      ["celestial", "celestial"],
+      ["catch up with", "catch up with"],
+      ["be set to do sth.", "is set to"],
+      ["cease", "cease"],
+      ["counterpart", "counterpart"],
+      ["uphold", "uphold"],
+      ["banner", "banner"],
+      ["outer space", "outer space"]
+    ],
+    "3": [
+      ["iteration", "iteration"],
+      ["rotate", "rotate"],
+      ["managing director", "managing director"],
+      ["undertaking", "undertaking"],
+      ["put trust into sb.", "putting a lot of trust into"],
+      ["insight", "insights"]
+    ],
+    "4": [
+      ["date back to", "dates back to"],
+      ["rover", "rover"],
+      ["be due to do sth.", "is due to"],
+      ["blast off", "blasted off"],
+      ["pink-tinged", "pink-tinged"],
+      ["dock", "docked"]
+    ],
+    "5": [
+      ["payload", "payload"],
+      ["cultivate", "cultivating"],
+      ["microalgae", "microalgae"],
+      ["quinoa", "quinoa"],
+      ["recite", "recited"],
+      ["pay off", "paid off"]
+    ],
+    "6": [
+      ["milestone", "milestone"],
+      ["spook", "spooked"],
+      ["land", "landed"],
+      ["robotic rover", "robotic rovers"]
+    ],
+    "7": [
+      ["move to do sth.", "moved to"],
+      ["cite", "citing"],
+      ["permanent", "permanent"],
+      ["low Earth orbit", "low Earth orbit"],
+      ["robust", "robust"]
+    ],
+    "8": [
+      ["herald", "heralded"],
+      ["be understood to do sth.", "is understood to be"],
+      ["with sth. in mind", "with the end of the ISS in mind"],
+      ["engagement", "engagement"],
+      ["for a time", "for a time"],
+      ["outpost", "outpost"]
+    ],
+    "9": [
+      ["hub", "hub"],
+      ["manned", "Manned"],
+      ["in coordination with", "in coordination with"],
+      ["outline", "outline"],
+      ["with a view to", "with a view to"],
+      ["budgetary", "budgetary"],
+      ["seek out", "seek out"]
+    ]
+  },
+  "mindmap": { "template": "scripts/content/2026-11-21.json", "aria": "", "alt": "", "repl": [] }
+}
