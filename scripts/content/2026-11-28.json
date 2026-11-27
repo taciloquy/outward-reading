@@ -1,0 +1,76 @@
+{
+  "date": "2026-11-28",
+  "title_tag": "Robots will have a staggering economic impact —— 英国《经济学人》外刊讲解第1242天",
+  "h1": "Robots will have a staggering economic impact",
+  "source_label": "经济学人",
+  "category": "英国《经济学人》外刊讲解 第1242天",
+  "read_minutes": 12,
+  "nav_hint": "人形机器人逼近：从家务革命到全球产业链重排",
+  "audio": false,
+  "headline": {
+    "en_html": "",
+    "zh": "",
+    "notes": []
+  },
+  "paragraphs": [
+    {
+      "en_html": "Humanoid Robots grip the imagination in a way chatbots cannot. So futurists have long been disappointed by humanity’s failure to build a real-life c-3po or Marvin the Paranoid Android. Large language models (llms) may have helped prove the Riemann hypothesis, a puzzle that had stumped mathematicians since 1859, but their cousins in the physical world still struggle to fold a bedsheet. The all-purpose flexibility and dexterity of the human body have been trickier to replicate than its intellectual output: the robots that have automated most of manufacturing are usually fixed-in-place machines that carry out the same task for ever. Those who fear the transformative effect of AI have taken comfort. Step away from screens, and the biggest impact of the technology in the physical world is dull-looking data centres.",
+      "zh": "",
+      "notes": []
+    },
+    {
+      "en_html": "All that, however, will soon change. As we report, general-purpose robots are getting better, fast. Engineers are applying the techniques behind llms to budding bicentennial men. Progress is rapid because robotics is starting to benefit from the same scaling laws that have, in four years, taken AI from struggling to count to the frontier of mathematics. By one metric, the capability of LLMs in the physical world, when hooked up to robots, is doubling every two months. Advanced AI may itself soon help develop better robotics tech. And hardware prices are cratering: the average price of one Chinese firm’s humanoid robots has dropped by 72% in two years.",
+      "zh": "",
+      "notes": []
+    },
+    {
+      "en_html": "So any story of how ai will change the economy is incomplete if it is not chock-full of general-purpose robots. They will come in all kinds of shapes, but it is humanoids that will be increasingly ready to perform any physical task a person can do. AI will bring the brains. LLMs have already solved the thorny question of how to communicate with robots and of how they should map out a messy goal. LLM-like models are improving, too, at the tougher task of steering androids reliably enough to navigate the real world. A robotic body will bring the accompanying brawn. As this potent combination proliferates, the implications for human work and life will be head-spinning.",
+      "zh": "",
+      "notes": []
+    },
+    {
+      "en_html": "The robot revolution will probably start in the home. The first million humanoids could hit American laundry rooms and kitchens within the next 5 to 15 years, forecasters reckon. Both are full of low-stakes chores that do not require robots to have so much strength that they are risky to humans. Unlike workplaces, where automation is often resisted and sometimes banned, few will protest against not having to load the dishwasher.",
+      "zh": "",
+      "notes": []
+    },
+    {
+      "en_html": "The liberation of humanity, and especially women, from domestic drudgery is no small blessing. The economic consequences will become truly profound in the years and decades that follow, though, as robots conquer factories, hospitals and construction sites.",
+      "zh": "",
+      "notes": []
+    },
+    {
+      "en_html": "What would happen then? Where goods are made will change. Today free trade and comparative advantage mean that, as economies get richer and prevailing wages rise, factories move to where labour is cheaper. That could unwind if robots take over production, so that human wages no longer matter much. If humans are no longer needed to pick fruit or lay bricks, governments may grow even less welcoming to migrant labourers.",
+      "zh": "",
+      "notes": []
+    },
+    {
+      "en_html": "The services economy could be upended. For hundreds of years many service jobs have proved all but impervious to productivity growth. String quartets, the economist William Baumol noted, demand as much human effort as they did in Mozart’s day. The same goes for jobs like caring for the elderly. Robots could break that pattern.",
+      "zh": "",
+      "notes": []
+    },
+    {
+      "en_html": "Relative prices and wages would then shift wildly. Many more goods and services would go the way of the T-shirt, as mass production makes them abundant. As has already happened in farming, output could soar even as prices collapse still faster, so that whole sectors all but vanish as a share of GDP. Not everything would get cheaper, though. Land and natural resources would remain scarce. Measured in terms of goods and services, they could become vastly more valuable.",
+      "zh": "",
+      "notes": []
+    },
+    {
+      "en_html": "Perhaps people will still be needed for management, steering, oversight and maintenance of robotic systems, just as tractors have not put all farmers out of work. Humans may prefer some jobs to be done by other humans—would a robot orchestra really be worth the ticket price? A preference for “relational goods” could allow humans to trade their labour for the goods and services robots produce. We hope so. An alternative is a highly unequal economy in which robots and AI work for those who own them, with everyone else competing with robots for energy, land and capital.",
+      "zh": "",
+      "notes": []
+    },
+    {
+      "en_html": "The past few years’ remarkable leaps in AI took the world by surprise. Today, most are equally unprepared for the prospect that a real-life c-3po could be around the corner. Time to get ready to meet him.",
+      "zh": "",
+      "notes": []
+    }
+  ],
+  "proper": [],
+  "sources_note": "依据《经济学人》2026-11-28 报道。",
+  "practice": {},
+  "mindmap": {
+    "aria": "",
+    "alt": "",
+    "svg": "",
+    "img": ""
+  }
+}
