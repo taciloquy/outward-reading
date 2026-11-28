@@ -1,76 +1,817 @@
 {
-  "date": "2026-11-28",
-  "title_tag": "Robots will have a staggering economic impact —— 英国《经济学人》外刊讲解第1242天",
-  "h1": "Robots will have a staggering economic impact",
-  "source_label": "经济学人",
-  "category": "英国《经济学人》外刊讲解 第1242天",
-  "read_minutes": 12,
-  "nav_hint": "人形机器人逼近：从家务革命到全球产业链重排",
-  "audio": false,
-  "headline": {
-    "en_html": "",
-    "zh": "",
-    "notes": []
-  },
-  "paragraphs": [
+ "date": "2026-11-28",
+ "title_tag": "Robots will have a staggering economic impact —— 英国《经济学人》外刊讲解第1242天",
+ "h1": "Robots will have a staggering economic impact",
+ "source_label": "经济学人",
+ "category": "英国《经济学人》外刊讲解 第1242天",
+ "read_minutes": 12,
+ "nav_hint": "人形机器人逼近：从家务革命到全球产业链重排",
+ "headline": {
+  "en_html": "<span>Robots will have a <mark class=\"voc\">staggering</mark> economic impact</span><span class=\"headline-sub\"><mark class=\"voc\">Workable</mark> <mark class=\"voc\">humanoids</mark> do not look <mark class=\"voc\">far off</mark></span>",
+  "zh": "机器人将给经济带来一场令人瞠目的冲击。能干活的人形机器人，离我们不远了。",
+  "notes": [
+   {
+    "w": "staggering",
+    "ipa": "/ˈstæɡərɪŋ/",
+    "pos": "adj.",
+    "en": "staggering (adj.) means so great or surprising that it is difficult to believe",
+    "zh": "\"让人站不稳的\"（stagger 踉跄，源自古北欧语stakra\"被推了一把\"， 16 世纪进入英语），经济与数字语境核心义为惊人的、令人瞠目的",
+    "ctx": "作者不用huge、enormous 或massive，因为那一排词说的都是\"尺寸\"； staggering 说的是\"反应\"——你看到这个数字之后身体晃了一下。而且它自带一点负面色彩，常年与债务、亏损、赤字搭配，所以它说的不是\"影响很大\"，是\"大得让人心里发毛\"",
+    "ex1": "The company reported a staggering loss of $4.2bn in a single quarter. 这家公司一个季度就报出了42 亿美元的惊人亏损。",
+    "ex2": "A staggering number of young graduates are still living with their parents. 数量惊人的年轻毕业生至今仍和父母住在一起。"
+   },
+   {
+    "w": "workable",
+    "ipa": "/ˈwɜːkəbl/",
+    "pos": "adj.",
+    "en": "workable (adj.) means able to be used, or able to work successfully in practice",
+    "zh": "\"能work 的\"（work + -able，16 世纪构词），工程与方案语境核心义为可行的、能真正运转起来的",
+    "ctx": "",
+    "ex1": "Negotiators spent the night looking for a workable compromise on fishing rights.谈判代表通宵寻找一个在捕鱼权问题上可行的折中方案。",
+    "ex2": "The plan looks elegant on paper, but it is not workable with the staff we have.这个方案在纸面上很漂亮，但以我们现有的人手根本运转不起来。"
+   },
+   {
+    "w": "humanoid",
+    "ipa": "/ˈhjuːmənɔɪd/",
+    "pos": "n. / adj.",
+    "en": "humanoid (n.) means a machine or creature that looks like a human being",
+    "zh": "\"长得像人的\"（human 人+ -oid 希腊语后缀\"形如……的\"，同族词有asteroid 小行星、android 机器人、cuboid 立方体），机器人语境核心义为人形机器人",
+    "ctx": "",
+    "ex1": "The factory unveiled a humanoid that can carry boxes across uneven floors. 这家工厂发布了一台能抱着箱子走过不平地面的机器人。",
+    "ex2": "Researchers argue that a humanoid shape is the cheapest way into a world built for people. 研究者认为，在一个为人类建造的世界里，人形是最省事的入口。"
+   },
+   {
+    "w": "far off",
+    "ipa": "/ˌfɑːr ˈɒf/",
+    "pos": "adj. phr.",
+    "en": "far off (adj. phr.) means a long distance away in space or, more often, in time",
+    "zh": "\"在很远的地方\"（far 远+ off 离开），时间语境核心义为遥远的、还早着呢",
+    "ctx": "",
+    "ex1": "The day is not far off when most new cars will not have a steering wheel. 大多数新车不再配方向盘的那一天，已经不远了。",
+    "ex2": "His guess about the final score was not far off the mark. 他对最终比分的猜测八九不离十。"
+   }
+  ]
+ },
+ "paragraphs": [
+  {
+   "en_html": "Humanoid Robots <mark class=\"voc\">grip</mark> the imagination in a way chatbots cannot. So <mark class=\"voc\">futurists</mark> have long been disappointed by humanity’s failure to build a real-life c-3po or Marvin the Paranoid Android. Large language models (llms) may have helped prove the Riemann hypothesis, a puzzle that had <mark class=\"voc\">stumped</mark> mathematicians since 1859, but their cousins in the physical world still struggle to fold a bedsheet. The <mark class=\"voc\">all-purpose</mark> flexibility and <mark class=\"voc\">dexterity</mark> of the human body have been trickier to <mark class=\"voc\">replicate</mark> than its intellectual output: the robots that have automated most of manufacturing are usually <mark class=\"voc\">fixed-in-place</mark> machines that <mark class=\"voc\">carry out</mark> the same task for ever. Those who fear the transformative effect of AI have <mark class=\"voc\">taken comfort</mark>. Step away from screens, and the biggest impact of the technology in the physical world is <mark class=\"voc\">dull-looking</mark> data centres.",
+   "zh": "人形机器人抓住想象力的方式，聊天机器人做不到。所以未来学家们失望了很多年：人类始终没能造出一个现实版的C-3PO，或者那个偏执狂机器人马文。大语言模型也许帮着推进了黎曼猜想——一道从1859年就把数学家们卡住的谜题——可它们在物理世界里的表亲，到今天还是连床单都叠不好。人体那种万能的灵活与灵巧，比它的智力产出更难复制：那些替我们实现了大部分制造业自动化的机器人，通常是固定在原地的机器，一辈子重复同一个动作。害怕AI变革作用的人，从中得了些安慰。可你只要从屏幕前走开就会发现，这项技术在物理世界里最大的影响，不过是那些其貌不扬的数据中心。",
+   "notes": [
     {
-      "en_html": "Humanoid Robots grip the imagination in a way chatbots cannot. So futurists have long been disappointed by humanity’s failure to build a real-life c-3po or Marvin the Paranoid Android. Large language models (llms) may have helped prove the Riemann hypothesis, a puzzle that had stumped mathematicians since 1859, but their cousins in the physical world still struggle to fold a bedsheet. The all-purpose flexibility and dexterity of the human body have been trickier to replicate than its intellectual output: the robots that have automated most of manufacturing are usually fixed-in-place machines that carry out the same task for ever. Those who fear the transformative effect of AI have taken comfort. Step away from screens, and the biggest impact of the technology in the physical world is dull-looking data centres.",
-      "zh": "",
-      "notes": []
+     "w": "grip",
+     "ipa": "/ɡrɪp/",
+     "pos": "v.",
+     "en": "grip (v.) means to hold something very tightly, or to hold someone's attention completely",
+     "zh": "\"攥住\"（古英语grippan，同源词有grab、grasp），注意力语境核心义为牢牢抓住、让人着迷",
+     "ctx": "",
+     "ex1": "The documentary grips you from the opening scene and never lets go. 这部纪录片从第一场戏就把你攥住，再没松手。",
+     "ex2": "For three weeks the country was gripped by the story of the missing climber. 整整三周，全国都被那名失踪登山者的消息牵动着。"
     },
     {
-      "en_html": "All that, however, will soon change. As we report, general-purpose robots are getting better, fast. Engineers are applying the techniques behind llms to budding bicentennial men. Progress is rapid because robotics is starting to benefit from the same scaling laws that have, in four years, taken AI from struggling to count to the frontier of mathematics. By one metric, the capability of LLMs in the physical world, when hooked up to robots, is doubling every two months. Advanced AI may itself soon help develop better robotics tech. And hardware prices are cratering: the average price of one Chinese firm’s humanoid robots has dropped by 72% in two years.",
-      "zh": "",
-      "notes": []
+     "w": "futurist",
+     "ipa": "/ˈfjuːtʃərɪst/",
+     "pos": "n.",
+     "en": "futurist (n.) means someone who studies or predicts what will happen in the future",
+     "zh": "\"未来主义者\"（future 未来+ -ist 人；作为艺术流派的Futurism 1909 年由意大利人马里内蒂提出），预测语境核心义为未来学家",
+     "ctx": "",
+     "ex1": "Futurists have been promising kitchen robots since the 1960s. 未来学家从二十世纪六十年代起就在承诺厨房机器人。",
+     "ex2": "The conference gathered futurists, engineers and a few very patient investors. 这场会议聚起了未来学家、工程师，还有几位极有耐心的投资人。"
     },
     {
-      "en_html": "So any story of how ai will change the economy is incomplete if it is not chock-full of general-purpose robots. They will come in all kinds of shapes, but it is humanoids that will be increasingly ready to perform any physical task a person can do. AI will bring the brains. LLMs have already solved the thorny question of how to communicate with robots and of how they should map out a messy goal. LLM-like models are improving, too, at the tougher task of steering androids reliably enough to navigate the real world. A robotic body will bring the accompanying brawn. As this potent combination proliferates, the implications for human work and life will be head-spinning.",
-      "zh": "",
-      "notes": []
+     "w": "stump",
+     "ipa": "/stʌmp/",
+     "pos": "v.",
+     "en": "stump (v.) means to confuse someone completely so that they cannot answer or find a solution 本义是名词\"树桩\"（中古英语stump，树被砍掉后留在地上的那截），动词义\"把人问住\"19 世纪起于美国，核心义为难住、卡死（本文特指：画面感全在这个词里：一个人往前走，路中间横着一个树桩，他过不去了。 confuse 是\"糊涂了\"，stumped 是\"卡住了\"——不是不懂，是走不下去。用它形容一道数学难题，比difficult 狠得多：这块木头在那儿杵了一百六十多年）",
+     "zh": "",
+     "ctx": "",
+     "ex1": "Even the panel of judges was stumped by the final question. 连评委团都被最后那道题问住了。",
+     "ex2": "I was stumped for a moment, then realised he had asked me in Japanese. 我愣了两秒才反应过来，他是用日语问我的。"
     },
     {
-      "en_html": "The robot revolution will probably start in the home. The first million humanoids could hit American laundry rooms and kitchens within the next 5 to 15 years, forecasters reckon. Both are full of low-stakes chores that do not require robots to have so much strength that they are risky to humans. Unlike workplaces, where automation is often resisted and sometimes banned, few will protest against not having to load the dishwasher.",
-      "zh": "",
-      "notes": []
+     "w": "all-purpose",
+     "ipa": "/ˌɔːl ˈpɜːpəs/",
+     "pos": "adj.",
+     "en": "all-purpose (adj.) means suitable for many different uses rather than one specific one",
+     "zh": "\"什么用途都行的\"（all 全部+ purpose 用途，19 世纪构词），能力描述核心义为万能的、通用的",
+     "ctx": "",
+     "ex1": "Keep one all-purpose cleaner in the cupboard instead of six half-used bottles. 柜子里放一瓶万用清洁剂就行，别囤六瓶用了一半的。",
+     "ex2": "English is the closest thing the world has to an all-purpose language. 英语是世界上最接近\"万能语言\"的东西。"
     },
     {
-      "en_html": "The liberation of humanity, and especially women, from domestic drudgery is no small blessing. The economic consequences will become truly profound in the years and decades that follow, though, as robots conquer factories, hospitals and construction sites.",
-      "zh": "",
-      "notes": []
+     "w": "dexterity",
+     "ipa": "/dekˈsterəti/",
+     "pos": "n.",
+     "en": "dexterity (n.) means skill in using your hands, or the ability to think and act quickly",
+     "zh": "\"右手的本事\"（拉丁语dexter 右边的+ -ity），手部技能语境核心义为手巧、灵巧度",
+     "ctx": "",
+     "ex1": "The surgery requires extraordinary manual dexterity and a very steady hand. 这台手术需要极高的手上功夫和一双极稳的手。",
+     "ex2": "Age had cost him some dexterity, but none of his timing. 年纪让他手不如从前灵便，但他的节奏感一点没丢。"
     },
     {
-      "en_html": "What would happen then? Where goods are made will change. Today free trade and comparative advantage mean that, as economies get richer and prevailing wages rise, factories move to where labour is cheaper. That could unwind if robots take over production, so that human wages no longer matter much. If humans are no longer needed to pick fruit or lay bricks, governments may grow even less welcoming to migrant labourers.",
-      "zh": "",
-      "notes": []
+     "w": "replicate",
+     "ipa": "/ˈreplɪkeɪt/",
+     "pos": "v.",
+     "en": "replicate (v.) means to copy something exactly, or to do something again in the same way",
+     "zh": "\"折回去、重做一遍\"（拉丁语replicare：re- 再+ plicare 折叠，同根词有 complicated、duplicate），技术语境核心义为精确复制、重现",
+     "ctx": "",
+     "ex1": "Two independent labs failed to replicate the original findings. 两个独立实验室都没能重现最初的结果。",
+     "ex2": "What worked in one city is not easy to replicate in another. 在一个城市奏效的做法，搬到另一个城市并不容易复制。"
     },
     {
-      "en_html": "The services economy could be upended. For hundreds of years many service jobs have proved all but impervious to productivity growth. String quartets, the economist William Baumol noted, demand as much human effort as they did in Mozart’s day. The same goes for jobs like caring for the elderly. Robots could break that pattern.",
-      "zh": "",
-      "notes": []
+     "w": "fixed-in-place",
+     "ipa": "/ˌfɪkst ɪn ˈpleɪs/",
+     "pos": "adj.",
+     "en": "fixed-in-place (adj.) means installed permanently in one position and unable to move",
+     "zh": "\"固定在原位的\"（fixed 固定+ in place 在原地，复合形容词，用连字符连起来），工业语境核心义为固定不动的",
+     "ctx": "",
+     "ex1": "The old assembly line relied on fixed-in-place welders that never moved an inch.老装配线靠的是一动不动的固定式焊机。",
+     "ex2": "Unlike a fixed-in-place camera, a drone can follow the action. 跟固定机位的摄像机不同，无人机能跟着动作跑。"
     },
     {
-      "en_html": "Relative prices and wages would then shift wildly. Many more goods and services would go the way of the T-shirt, as mass production makes them abundant. As has already happened in farming, output could soar even as prices collapse still faster, so that whole sectors all but vanish as a share of GDP. Not everything would get cheaper, though. Land and natural resources would remain scarce. Measured in terms of goods and services, they could become vastly more valuable.",
-      "zh": "",
-      "notes": []
+     "w": "carry out",
+     "ipa": "/ˌkæri ˈaʊt/",
+     "pos": "phrasal v.",
+     "en": "carry out (phrasal v.) means to perform or complete a task, plan or instruction",
+     "zh": "\"把东西搬出去\"（carry 搬运+ out 出去），任务语境核心义为执行、实施、完成",
+     "ctx": "它跟carry on 只差一个介词，意思却相反：carry on 是\"接着干\"， carry out 是\"把它干完\"。外刊里carry out a task、carry out a plan、carry out research 都是高频搭配，写作用得上，比do 正式，比implement 自然",
+     "ex1": "The survey was carried out over six weeks in twelve cities. 这项调查在十二个城市用了六周时间完成。",
+     "ex2": "Nobody checked whether the orders were ever carried out. 没有人去核实这些命令到底执行了没有。"
     },
     {
-      "en_html": "Perhaps people will still be needed for management, steering, oversight and maintenance of robotic systems, just as tractors have not put all farmers out of work. Humans may prefer some jobs to be done by other humans—would a robot orchestra really be worth the ticket price? A preference for “relational goods” could allow humans to trade their labour for the goods and services robots produce. We hope so. An alternative is a highly unequal economy in which robots and AI work for those who own them, with everyone else competing with robots for energy, land and capital.",
-      "zh": "",
-      "notes": []
+     "w": "take comfort",
+     "ipa": "/teɪk ˈkʌmfət/",
+     "pos": "phr.",
+     "en": "take comfort (phr.) means to feel less worried or unhappy because of something",
+     "zh": "\"取一份安慰\"（comfort 源自拉丁语confortare\"使强壮\"：con- 加强+ fortis 强壮），情绪语境核心义为从中得到宽慰",
+     "ctx": "",
+     "ex1": "Investors took comfort in the fact that no bank had failed. 投资人从\"没有一家银行倒闭\"这件事里得到了安慰。",
+     "ex2": "She took little comfort from his apology; the damage was already done. 他的道歉没让她好受多少，伤害已经造成了。"
     },
     {
-      "en_html": "The past few years’ remarkable leaps in AI took the world by surprise. Today, most are equally unprepared for the prospect that a real-life c-3po could be around the corner. Time to get ready to meet him.",
-      "zh": "",
-      "notes": []
+     "w": "dull-looking",
+     "ipa": "/ˈdʌl lʊkɪŋ/",
+     "pos": "adj.",
+     "en": "dull-looking (adj.) means appearing boring, plain or uninteresting",
+     "zh": "\"看上去钝的\"（dull 古英语dol\"迟钝的\"，一把刀不锋利也叫dull；looking 看上去的），外观描写核心义为其貌不扬的、看着不起眼的",
+     "ctx": "dull 比boring 高级一点：boring 是\"让人无聊\"，dull 是\"本身没光\"。所以dull-looking data centres 不是\"让人想睡觉的机房\"，是\"看上去毫不起眼、毫无存在感的机房\"。这个词组是整段的收口——你以为AI 的实体是银色的机器人，结果它长成了一栋楼",
+     "ex1": "Behind the dull-looking façade is one of the busiest kitchens in the city. 那副不起眼的外表背后，是全城最忙的厨房之一。",
+     "ex2": "They are dull-looking boxes, but each one holds a fortune in data. 它们是一只只其貌不扬的箱子，可每一只都装着一笔数据财富。"
     }
-  ],
-  "proper": [],
-  "sources_note": "依据《经济学人》2026-11-28 报道。",
-  "practice": {},
-  "mindmap": {
-    "aria": "",
-    "alt": "",
-    "svg": "",
-    "img": ""
+   ]
+  },
+  {
+   "en_html": "All that, however, will soon change. As we report, <mark class=\"voc\">general-purpose</mark> robots are getting better, fast. Engineers are <mark class=\"voc\">applying the techniques behind llms to</mark> <mark class=\"voc\">budding</mark> bicentennial men. Progress is rapid because robotics is starting to benefit from the same scaling laws that have, in four years, taken AI from struggling to count to the frontier of mathematics. <mark class=\"voc\">By one metric</mark>, the capability of LLMs in the physical world, when <mark class=\"voc\">hooked up</mark> to robots, is doubling every two months. Advanced AI may itself soon help develop better robotics tech. And hardware prices are <mark class=\"voc\">cratering</mark>: the average price of one Chinese firm’s humanoid robots has dropped by 72% in two years.",
+   "zh": "然而这一切，很快就会变。正如我们在本期报道中所写，通用机器人正在变好，而且很快。工程师们正把大语言模型背后的那套技术，搬到那些刚发芽的“两百年人”身上。进步之所以快，是因为机器人学开始吃上同一套规模定律的红利，而正是这套定律，用四年时间把AI从“连数都数不利索”带到了数学的最前沿。按某一项指标衡量，大语言模型接上机器人之后在物理世界里的能力，每两个月就翻一番。先进的人工智能本身，可能很快也会反过来帮着开发更好的机器人技术。硬件价格还在往下塌：某家中国公司的人形机器人均价，两年跌了72%。",
+   "notes": [
+    {
+     "w": "general-purpose",
+     "ipa": "/ˌdʒenrəl ˈpɜːpəs/",
+     "pos": "adj.",
+     "en": "general-purpose (adj.) means designed to do many different jobs rather than one specialised one",
+     "zh": "\"通用用途的\"（general 一般+ purpose 用途，20 世纪构词），机器人语境核心义为通用的、什么都能干的",
+     "ctx": "这是全段、也是全文的钥匙词。跟它相对的是single-purpose——上一段那台焊了二十年同一个焊点的机械臂。两者的分界线不在技术，在经济：单用途的机器是工具，通用机器是劳动力。工具你得会用，劳动力你只要会指挥。后面讲工厂、工资、服务业，全从这个区别长出来",
+     "ex1": "Economists call AI a general-purpose technology, like electricity or the steam engine.经济学家把AI 称作通用技术，跟电力和蒸汽机同类。",
+     "ex2": "A general-purpose worker is harder to replace than a specialist. 一个什么都能干的人，比一个只会一件事的人更难被替代。"
+    },
+    {
+     "w": "apply A to B",
+     "ipa": "/əˈplaɪ tə/",
+     "pos": "v. + prep.",
+     "en": "apply A to B (v. + prep.) means to use something such as a method or rule in a particular situation",
+     "zh": "\"把……贴上去\"（拉丁语applicare：ad- 向+ plicare 折叠），使用语境核心义为把A 用于B",
+     "ctx": "",
+     "ex1": "It is not obvious that a rule written for cars applies to robots. 为汽车写的规则是否适用于机器人，并不显然。",
+     "ex2": "She applied the same patience to gardening that she had once given to teaching.她把当年教书的那份耐心，用在了种花上。"
+    },
+    {
+     "w": "budding",
+     "ipa": "/ˈbʌdɪŋ/",
+     "pos": "adj.",
+     "en": "budding (adj.) means beginning to develop or become successful",
+     "zh": "\"正在发芽的\"（bud 花苞，中古英语budde），发展语境核心义为初露锋芒的、刚起步的",
+     "ctx": "",
+     "ex1": "She was a budding violinist when the injury ended her career. 她本来是个崭露头角的小提琴手，一次受伤终结了她的演奏生涯。",
+     "ex2": "The two met as budding journalists on a local paper. 两人是在一家地方报纸当见习记者时认识的。"
+    },
+    {
+     "w": "by one metric",
+     "ipa": "/baɪ wʌn ˈmetrɪk/",
+     "pos": "prep. phr.",
+     "en": "by one metric (prep. phr.) means according to one particular way of measuring something",
+     "zh": "\"按某一项衡量标准\"（metric 源自希腊语metron\"尺度\"，同根词有metre、 symmetry），论证语境核心义为按某一项指标来看",
+     "ctx": "",
+     "ex1": "By one metric, the project is a triumph; by every other, it is a mess. 按一项指标看这是个大成功，按其余所有指标看都是一团糟。",
+     "ex2": "Customer retention is the metric that actually predicts growth. 真正能预测增长的是客户留存率这个指标。"
+    },
+    {
+     "w": "hook up",
+     "ipa": "/ˌhʊk ˈʌp/",
+     "pos": "phrasal v.",
+     "en": "hook up (phrasal v.) means to connect a device to another device or to a power supply",
+     "zh": "\"用钩子挂上\"（hook 钩子，古英语hōc），设备语境核心义为接上、连上",
+     "ctx": "这个词组有\"咔哒一下扣上\"的机械感，所以特别适合讲硬件——不是\"安装\"\"配置\"，就是一扣。口语里它还有\"介绍认识、牵线\"的意思（hook sb up with sb），但那跟这儿无关，别混",
+     "ex1": "He hooked his laptop up to the projector and the screen went blue. 他把笔记本接到投影仪上，屏幕一下蓝了。",
+     "ex2": "The sensors are hooked up to a single control room. 这些传感器全部接到同一间控制室。"
+    },
+    {
+     "w": "crater",
+     "ipa": "/ˈkreɪtə(r)/",
+     "pos": "v.",
+     "en": "crater (v.) means to fall or drop suddenly and severely 本义是名词\"坑\"（希腊语kratēr\"调酒用的碗\"，先指火山口，再指月球和炮弹留下的坑），动词\"崩塌式下跌\"20 世纪起于美国，价格语境核心义为崩盘、塌下去（本文特指：整段最狠的一个词。fall 是下跌，drop 是下降，plunge 是往下一头扎进去，crater 是地面塌了、坑出来了——不是\"跌\"，是\"跌穿\"。而且它几乎只搭坏消息：股价crater、销量crater、某人的事业crater，你不会用它说好事。用在价格上，那点疼是给卖家的）",
+     "zh": "",
+     "ctx": "",
+     "ex1": "Demand for office space cratered once the leases came up for renewal. 租约一到期，写字楼的需求就塌了。",
+     "ex2": "The stock cratered 30% in a single morning after the recall. 召回消息一出，股价一个上午就跌掉三成。"
+    }
+   ]
+  },
+  {
+   "en_html": "So any story of how ai will change the economy is incomplete if it is not <mark class=\"voc\">chock-full</mark> of general-purpose robots. They will <mark class=\"voc\">come in all kinds of shapes</mark>, but it is humanoids that will be increasingly ready to perform any physical task a person can do. AI will bring the <mark class=\"voc\">brains</mark>. LLMs have already solved the <mark class=\"voc\">thorny</mark> question of how to communicate with robots and of how they should <mark class=\"voc\">map out</mark> a messy goal. LLM-like models are improving, too, at the tougher task of <mark class=\"voc\">steering</mark> androids reliably enough to navigate the real world. A robotic body will bring the accompanying brawn. As this potent combination <mark class=\"voc\">proliferates</mark>, the implications for human work and life will be <mark class=\"voc\">head-spinning</mark>.",
+   "zh": "所以，任何一个讲AI将如何改变经济的故事，只要没把通用机器人塞得满满当当，就是不完整的。它们的形状会千奇百怪，但真正会越来越能干的，是人形机器人——人能干的所有体力活，它都能干。AI出脑子。怎么跟机器人沟通、机器人又该怎么把一团乱的目标理出头绪，这两个棘手的问题，大语言模型已经解决了。更难的那件事，也就是把机器人操控得足够靠谱、让它在真实世界里走得通，类大语言模型的模型也正在进步。而一具机器人的身体，会带来配套的肌肉。随着这个强效组合不断增殖扩散，它对人类工作与生活的影响，会让人头晕目眩。",
+   "notes": [
+    {
+     "w": "chock-full",
+     "ipa": "/ˌtʃɒk ˈfʊl/",
+     "pos": "adj.",
+     "en": "chock-full (adj.) means completely full of something",
+     "zh": "\"塞得死死的\"（中古英语chokkeful；chock 是垫在货物下的楔子，航海里 chock-a-block 指两组滑轮拉到撞死、一点缝都没有），密度语境核心义为塞满、挤满",
+     "ctx": "",
+     "ex1": "Her notebook was chock-full of half-finished sentences. 她的本子上写满了写到一半的句子。",
+     "ex2": "The market is chock-full of apps that do the same three things. 市场上塞满了做同样三件事的App。"
+    },
+    {
+     "w": "come in all kinds of shapes",
+     "ipa": "/kʌm ɪn ɔːl kaɪndz əv ʃeɪps/",
+     "pos": "phr.",
+     "en": "come in all shapes and sizes (phr.) means to exist in many different forms or varieties",
+     "zh": "\"以各种形状出现\"（come in 以……形式提供，是商品语境的用法，如comes in three colours），描述语境核心义为形形色色、什么样式都有",
+     "ctx": "come in 这个用法中国人不熟：它不表示\"进来\"，而是\"有……款式/规格\"。 The shirt comes in four sizes（这衬衫有四个尺码）。作者用它说明机器人不会只有一种样子——搬货的可能是轮子加机械臂，看护老人的可能是一张脸加两只手，只有进了家门的那种才需要像人",
+     "ex1": "These problems come in all shapes and sizes, but they rarely come alone. 这类问题形形色色，但很少单独出现。",
+     "ex2": "The frame comes in three sizes and four finishes.这款镜框有三个尺寸、四种饰面。"
+    },
+    {
+     "w": "brains and brawn",
+     "ipa": "/breɪnz ən brɔːn/",
+     "pos": "phr.",
+     "en": "brains and brawn (phr.) means intelligence and physical strength considered together",
+     "zh": "\"脑子和肌肉\"（brain 古英语brægen 脑；brawn 源自古法语braon\"肌肉块\"，先指野猪肉，再指人的膂力），能力语境核心义为智力加体力",
+     "ctx": "这组头韵是全文的骨架，后面九段全挂在上面：AI will bring the brains （大模型出脑子），a robotic body will bring the brawn（机器身体出力气）。头韵让两个词粘在一起，听一遍就记住。你在纸上写下这两个词，这篇文章就丢不了",
+     "ex1": "The job needs both brains and brawn — and a strong back helps. 这活儿既要脑子也要力气，腰好更是加分。",
+     "ex2": "He was hired for his brawn, and quietly kept for his brains. 他当初是靠力气被招进来的，后来是靠脑子被留下来的。"
+    },
+    {
+     "w": "thorny",
+     "ipa": "/ˈθɔːni/",
+     "pos": "adj.",
+     "en": "thorny (adj.) means complicated and difficult to deal with, and likely to cause disagreement",
+     "zh": "\"多刺的\"（thorn 古英语þorn 刺+ -y），问题语境核心义为棘手的、扎手的",
+     "ctx": "",
+     "ex1": "How to divide the water between three countries remains a thorny question. 如何在三个国家之间分水，仍是个扎手的问题。",
+     "ex2": "They avoided the thorniest issue and signed a vague agreement. 他们绕开了最扎手的那个问题，签了一份含糊的协议。"
+    },
+    {
+     "w": "map out",
+     "ipa": "/ˌmæp ˈaʊt/",
+     "pos": "phrasal v.",
+     "en": "map out (phrasal v.) means to plan in detail how something will happen or be done",
+     "zh": "\"在地图上标出来\"（map 源自拉丁语mappa\"布、餐巾\"，中世纪把世界画在布上），规划语境核心义为规划出、理出路线",
+     "ctx": "",
+     "ex1": "The first meeting was spent mapping out who would do what. 第一次会议全用来理清谁干什么。",
+     "ex2": "She mapped out the whole trip on the back of an envelope. 她在信封背面把整趟行程都规划出来了。"
+    },
+    {
+     "w": "steer",
+     "ipa": "/stɪə(r)/",
+     "pos": "v.",
+     "en": "steer (v.) means to control the direction in which a vehicle or a process moves",
+     "zh": "\"掌舵\"（古英语stieran\"引导、纠正\"，同源词有stern 船尾），控制语境核心义为操纵方向、引导",
+     "ctx": "它的核心不是\"开\"，是\"改方向\"——开车叫drive，掌方向叫steer。所以steer a company through a crisis（带公司穿过危机）、steer the conversation away from（把话题引开）都用它。用在机器人身上，说的是那个最难的活：一边走，一边纠偏",
+     "ex1": "He steered the conversation away from his divorce with practised ease. 他熟练地把话题从自己的离婚上引开了。",
+     "ex2": "The committee steered the bill through a hostile parliament. 委员会带着这项法案穿过了一个敌意重重的议会。"
+    },
+    {
+     "w": "proliferate",
+     "ipa": "/prəˈlɪfəreɪt/",
+     "pos": "v.",
+     "en": "proliferate (v.) means to increase quickly in number or spread widely",
+     "zh": "\"一个接一个地生出来\"（拉丁语proles 后代+ ferre 带来，字面是\"带来子孙\"），扩散语境核心义为迅速增殖、到处铺开",
+     "ctx": "",
+     "ex1": "Delivery apps proliferated until every street had four of them. 外卖App 一个接一个冒出来，最后每条街上都有四家。",
+     "ex2": "Cheap drones have proliferated faster than any rules to control them. 廉价无人机的扩散速度，快过任何管它们的规则。"
+    },
+    {
+     "w": "head-spinning",
+     "ipa": "/ˈhed spɪnɪŋ/",
+     "pos": "adj.",
+     "en": "head-spinning (adj.) means so fast or complicated that it makes you feel dizzy",
+     "zh": "\"让人头转的\"（head 头+ spinning 旋转，复合形容词），程度描写核心义为让人头晕目眩的",
+     "ctx": "有意思的是，作者上一段才用staggering（让人站不稳），这一段换成head-spinning（让人转晕）——两个都是\"身体失衡\"，但一个是\"大到失衡\"，一个是\"快到失衡\"。一份刊物连两个\"惊人\"都不肯重复，这种较劲值得学：换词不是为了花哨，是为了把两种不同的冲击区分开",
+     "ex1": "The novel moves at a head-spinning pace through four continents. 这部小说以令人目眩的速度穿过了四个大洲。",
+     "ex2": "The range of options is head-spinning; most people just pick the cheapest. 可选项多到让人头晕，多数人干脆挑最便宜的。"
+    }
+   ]
+  },
+  {
+   "en_html": "The robot revolution will probably start in the home. The first million humanoids could <mark class=\"voc\">hit</mark> American laundry rooms and kitchens within the next 5 to 15 years, forecasters reckon. Both are full of <mark class=\"voc\">low-stakes</mark> chores that do not require robots to have so much strength that they are risky to humans. Unlike workplaces, where automation is often <mark class=\"voc\">resisted</mark> and sometimes <mark class=\"voc\">ban</mark>ned, few will <mark class=\"voc\">protest against</mark> not having to <mark class=\"voc\">load</mark> the dishwasher.",
+   "zh": "机器人革命，多半会从家里开始。头一百万台人形机器人，大概会在未来五到十五年里，铺进美国的洗衣房和厨房——这是预测者们的估摸。这两处塞满了低风险的家务：它们不需要机器人有那么大的力气，大到反而对人构成危险。工作场所不一样，那儿自动化常常被抵制，有时干脆被禁；可要是一个人从此不用再往洗碗机里塞碗，几乎不会有人上街抗议。",
+   "notes": [
+    {
+     "w": "hit",
+     "ipa": "/hɪt/",
+     "pos": "v.",
+     "en": "hit (v.) means to reach or arrive at a place, level or figure",
+     "zh": "\"打、击中\"（古北欧语hitta\"遇见\"，13 世纪进入英语），到达义核心义为铺到、达到",
+     "ctx": "",
+     "ex1": "The new phone hits the shops on Friday. 这款新手机周五上架。",
+     "ex2": "Sales hit a record high in the final quarter. 销售额在最后一个季度创下新高。"
+    },
+    {
+     "w": "low-stakes",
+     "ipa": "/ˌləʊ ˈsteɪks/",
+     "pos": "adj.",
+     "en": "low-stakes (adj.) means involving little risk of serious loss or damage",
+     "zh": "\"赌注小的\"（stake 古英语staca\"桩子\"，赌桌上是押在桩上的筹码；low 低），风险语境核心义为风险低的、输得起",
+     "ctx": "这个复合词是全段论证的支点。stake 的本义是\"桩子\"，赌桌上把钱押在那根桩上，就成了\"赌注\"。所以high-stakes 是\"输不起的\"（high-stakes negotiation 高风险谈判），low-stakes 是\"输了也不心疼的\"。叠床单、装洗碗机就是低赌注的活——机器人干砸了，最多碎个盘子",
+     "ex1": "Start with low-stakes tasks and let the team build confidence. 先从不痛不痒的任务开始，让团队慢慢建立信心。",
+     "ex2": "What is at stake here is not money but trust.这里押上的不是钱，是信任。"
+    },
+    {
+     "w": "resist",
+     "ipa": "/rɪˈzɪst/",
+     "pos": "v.",
+     "en": "resist (v.) means to fight against something, or to stop yourself from doing something you want to do",
+     "zh": "\"站住不退\"（拉丁语resistere：re- 反+ sistere 站立，同根有insist、persist、 assist），抵触语境核心义为抵制、抗拒",
+     "ctx": "自动化的抵制从来不是抽象态度。文中resisted and sometimes banned 是一组递进：resist 是软抵抗（抱怨、拖延、消极执行），ban 是硬禁止（法律不许）。两个词一软一硬，把工作场所那道墙写全了",
+     "ex1": "Staff resisted the new roster long after it was official. 新排班表早就正式生效了，员工还在软磨硬抗。",
+     "ex2": "She could not resist checking her phone one more time.她还是没忍住又看了一眼手机。"
+    },
+    {
+     "w": "ban",
+     "ipa": "/bæn/",
+     "pos": "n. / v.",
+     "en": "ban (v.) means to officially forbid something; ban (n.) means an official order forbidding it",
+     "zh": "\"宣告、召集\"（古英语bannan\"发布命令\"，同源词有banns 结婚公告），禁令义核心义为明令禁止",
+     "ctx": "",
+     "ex1": "The city imposed a ban on new short-term rentals downtown. 该市下令禁止在市中心新增短租房。",
+     "ex2": "He was banned from the sport for two years.他被禁赛两年。"
+    },
+    {
+     "w": "protest against",
+     "ipa": "/prəˈtest əˌɡenst/",
+     "pos": "v. + prep.",
+     "en": "protest against (v. + prep.) means to show strong disagreement with something, often publicly",
+     "zh": "\"当众作证\"（拉丁语protestari：pro- 公开+ testari 作证，同根有testify、 testament），抗议义核心义为抗议、反对",
+     "ctx": "",
+     "ex1": "Residents protested against the plan to close the only library. 居民抗议关闭唯一一家图书馆的计划。",
+     "ex2": "She resigned in protest at the way the report was handled. 她辞职以示对报告处理方式的不满。"
+    },
+    {
+     "w": "load",
+     "ipa": "/ləʊd/",
+     "pos": "v.",
+     "en": "load (v.) means to put things into a container, machine or vehicle",
+     "zh": "\"装货\"（古英语lād\"路程、负载\"，同源词有lade、freight 的load 义），家务语境核心义为往里装、装填",
+     "ctx": "load the dishwasher 是英语里最日常的一个动作，也是这一句的笑点所在：装洗碗机这件事，人类嫌烦到愿意让一台机器接手，却又要抗议机器接手——作者用一个家务动作，把\"抵制自动化\"的荒诞说尽了",
+     "ex1": "Nobody in the house will admit to loading the dishwasher wrongly. 家里没人肯承认洗碗机是自己装错的。",
+     "ex2": "The van was loaded with donated blankets by noon. 到中午，面包车已经装满了捐赠的毛毯。"
+    }
+   ]
+  },
+  {
+   "en_html": "The liberation of humanity, and especially women, from domestic <mark class=\"voc\">drudgery</mark> is <mark class=\"voc\">no small blessing</mark>. The economic consequences will become truly <mark class=\"voc\">profound</mark> in the years and decades that follow, though, as robots <mark class=\"voc\">conquer</mark> factories, hospitals and construction sites.",
+   "zh": "人类从家务苦役中解放出来，女性尤其如此——这可不是一件小事。不过，真正深远的经济后果，会在随后的年月里，乃至几十年间，才慢慢显出来：随着机器人一座座攻下工厂、医院和建筑工地。",
+   "notes": [
+    {
+     "w": "drudgery",
+     "ipa": "/ˈdrʌdʒəri/",
+     "pos": "n.",
+     "en": "drudgery (n.) means hard, boring work that has to be done and gives no pleasure",
+     "zh": "\"苦工的活儿\"（drudge 做苦工的人，15 世纪出现，词源不明；-ery 表行为或集合），家务语境核心义为磨人的苦役",
+     "ctx": "",
+     "ex1": "Machines took over the drudgery of the mill and left people the skilled work. 机器接手了纺织厂里最磨人的活，把技术活留给了人。",
+     "ex2": "She left a well-paid job because the drudgery was wearing her down. 她辞掉了一份高薪工作，因为那种日复一日的枯燥正在耗尽她。"
+    },
+    {
+     "w": "no small blessing",
+     "ipa": "/nəʊ smɔːl ˈblesɪŋ/",
+     "pos": "phr.",
+     "en": "no small blessing (phr.) means a very great advantage, expressed by denying the opposite",
+     "zh": "\"不是小福气\"（blessing 源自古英语blēdsian\"使神圣、赐福\"），修辞上属曲言法 litotes：用否定反义词来强调",
+     "ctx": "中国学生常按字面读成\"不是小福气\"，其实等于\"是大福气\"。同类还有not uncommon（很常见）、not bad（相当好）、no small matter（大事）。这种绕一下的说法比直说更有分量，还自带克制——这正是《经济学人》的说话方式，它一辈子不肯说great，但它可以说no small",
+     "ex1": "Getting all twelve countries to sign was no small achievement. 让十二国全部签字，可不是小事一桩。",
+     "ex2": "Raising three children alone is no small feat.一个人把三个孩子拉扯大，绝非易事。"
+    },
+    {
+     "w": "profound",
+     "ipa": "/prəˈfaʊnd/",
+     "pos": "adj.",
+     "en": "profound (adj.) means very great, intense or deeply felt; also, showing deep understanding",
+     "zh": "\"深到底的\"（拉丁语profundus：pro- 向前+ fundus 底部，同根有foundation、fundamental），程度语境核心义为深刻的、深远的",
+     "ctx": "",
+     "ex1": "The invention had a profound effect on how families spent their evenings. 这项发明深刻改变了家庭度过夜晚的方式。",
+     "ex2": "She has a profound understanding of how these markets actually work. 她对这些市场实际如何运转有极深的理解。"
+    },
+    {
+     "w": "conquer",
+     "ipa": "/ˈkɒŋkə(r)/",
+     "pos": "v.",
+     "en": "conquer (v.) means to take control of a place or people by force, or to overcome something difficult",
+     "zh": "\"用武力拿下\"（古法语conquerre，拉丁语conquirere：con- 彻底+ quaerere 寻求，同根有require、question），扩张语境核心义为攻占、征服",
+     "ctx": "作者用它写工厂、医院、工地，语气是有意加重的：这三个地方不是\"用上机器人\"，是被\"攻占\"。而且顺序藏着判断——工厂最容易（搬错箱子赔钱），工地中间，医院最难（碰掉的不是钱）。一个军事动词，把难度梯度也带出来了",
+     "ex1": "The company conquered the budget end of the market in three years. 这家公司三年就拿下了低端市场。",
+     "ex2": "He never quite conquered his fear of speaking in public. 他始终没能彻底克服当众讲话的恐惧。"
+    }
+   ]
+  },
+  {
+   "en_html": "What would happen then? Where goods are made will change. Today free trade and <mark class=\"voc\">comparative advantage</mark> mean that, as economies get richer and <mark class=\"voc\">prevailing wages</mark> rise, factories move to where labour is cheaper. That could <mark class=\"voc\">unwind</mark> if robots <mark class=\"voc\">take over</mark> production, so that human wages no longer matter much. If humans are no longer needed to pick fruit or lay bricks, governments may grow even less <mark class=\"voc\">welcoming</mark> to <mark class=\"voc\">migrant labourers</mark>.",
+   "zh": "那接下来会怎样？东西在哪儿造，要变了。今天，自由贸易和比较优势意味着：随着经济体变富、工资水平上涨，工厂会搬去劳动力更便宜的地方。可要是机器人接管了生产，以至于人的工资不再那么要紧，这套逻辑就可能一圈圈松开。如果摘水果、砌砖都不再需要人，各国政府对移民劳工，恐怕会越发不欢迎。",
+   "notes": [
+    {
+     "w": "comparative advantage",
+     "ipa": "/kəmˈpærətɪv ədˈvɑːntɪdʒ/",
+     "pos": "n. phr.",
+     "en": "comparative advantage (n. phr.) means the ability of a country or firm to produce something at a lower opportunity cost than others",
+     "zh": "\"比较出来的优势\"（comparative 源自拉丁语comparare\"配对、比较\"； advantage 源自古法语avant\"在前\"），贸易理论核心义为比较优势",
+     "ctx": "",
+     "ex1": "The country's comparative advantage has moved from cotton to software. 这个国家的比较优势已经从棉花转向了软件。",
+     "ex2": "Having cheap electricity is a comparative advantage in aluminium. 电价便宜，在铝业就是一种比较优势。"
+    },
+    {
+     "w": "prevailing wage",
+     "ipa": "/prɪˈveɪlɪŋ weɪdʒ/",
+     "pos": "n. phr.",
+     "en": "prevailing wage (n. phr.) means the usual rate of pay for a particular job in a particular place",
+     "zh": "\"占上风的工资\"（prevail 源自拉丁语praevalere：prae 在前+ valere 强，同根有valid、value；wage 源自古法语wage\"抵押、报酬\"），劳动力语境核心义为当地通行工资水平",
+     "ctx": "这个词组是整段逻辑的开关：工厂追着跑的不是\"工资\"，是prevailing wages，也就是当地普遍在付的那个价。所以一个国家富起来、通行工资涨上去，厂子就走了——不是谁决定的，是钱自己找便宜的路。作者用prevailing 而不是average，是在说这是个基准线，不是一个统计数",
+     "ex1": "Contractors on public projects must pay the prevailing wage. 公共工程的承包商必须按当地通行工资标准付薪。",
+     "ex2": "The prevailing view in the room was that the plan would fail. 在场的主流看法是这项计划会失败。"
+    },
+    {
+     "w": "unwind",
+     "ipa": "/ʌnˈwaɪnd/",
+     "pos": "v.",
+     "en": "unwind (v.) means to undo something that has been wound, or to relax after tension; in finance, to reverse a position",
+     "zh": "\"把绕上去的解开\"（un- 反向+ wind 古英语windan\"缠绕\"，同根有wind、winding），经济语境核心义为逐步松开、逆转",
+     "ctx": "",
+     "ex1": "Investors began to unwind their positions as the year ended. 年底一到，投资人开始逐步平掉手上的头寸。",
+     "ex2": "A weekend by the sea is the best way to unwind.到海边过个周末是最好的放松方式。"
+    },
+    {
+     "w": "take over",
+     "ipa": "/ˌteɪk ˈəʊvə(r)/",
+     "pos": "phrasal v.",
+     "en": "take over (phrasal v.) means to take control of something or begin to do a job instead of someone else",
+     "zh": "\"接过来\"（take 古北欧语taka\"拿\" + over 越过），接管语境核心义为接管、接手",
+     "ctx": "",
+     "ex1": "She took over the department when the old manager retired. 老经理退休后，她接手了这个部门。",
+     "ex2": "By the third act, the music takes over the story entirely. 到第三幕，音乐完全接管了叙事。"
+    },
+    {
+     "w": "welcoming",
+     "ipa": "/ˈwelkəmɪŋ/",
+     "pos": "adj.",
+     "en": "welcoming (adj.) means friendly towards visitors, or willing to accept something new",
+     "zh": "\"迎客的\"（welcome 古英语wilcuma，字面是\"合意的来客\"：will 意愿+ cuma 来者），态度语境核心义为欢迎的、接纳的",
+     "ctx": "",
+     "ex1": "The city has become noticeably less welcoming to foreign buyers. 这座城市对外国买家明显没那么欢迎了。",
+     "ex2": "Her manner was warm without being falsely welcoming. 她的态度很暖，却不显得假客气。"
+    },
+    {
+     "w": "migrant labourer",
+     "ipa": "/ˈmaɪɡrənt ˈleɪbərə/",
+     "pos": "n. phr.",
+     "en": "migrant labourer (n. phr.) means a worker who moves from one place or country to another to find work",
+     "zh": "\"迁徙的劳动者\"（migrant 源自拉丁语migrare\"迁移\"，同根有migrate、 immigrant；labourer 源自拉丁语labor 劳动），用工语境核心义为外来务工者、移民工人",
+     "ctx": "英式拼写labourer，美式laborer，同一个词。作者把它放在\"政府可能更不欢迎\"这句里，逻辑很冷：如果连摘水果砌砖都不需要人，那接收移民劳工的理由就少了一条。这句涉及现实政治，讲课时只陈述作者说了什么，不替他引申",
+     "ex1": "The harvest depends almost entirely on seasonal migrant labourers. 收成几乎完全依赖季节性外来务工者。",
+     "ex2": "Migrant workers send a large share of their pay home each month. 外来务工者每月把很大一部分工资寄回老家。"
+    }
+   ]
+  },
+  {
+   "en_html": "The services economy could be <mark class=\"voc\">upended</mark>. For hundreds of years many service jobs have proved <mark class=\"voc\">all but</mark> <mark class=\"voc\">impervious</mark> to productivity growth. String quartets, the economist William Baumol noted, <mark class=\"voc\">demand</mark> as much human effort as they did in Mozart’s day. The same goes for jobs like caring for the elderly. Robots could break that pattern.",
+   "zh": "服务业经济可能会被整个掀翻。几百年来，许多服务性工作被证明几乎对生产率的增长免疫。正如经济学家威廉·鲍莫尔所指出的：一支弦乐四重奏所需要投入的人力，和莫扎特时代一样多。照顾老人这类工作，也是同样的道理。而机器人，或许能打破这个规律。",
+   "notes": [
+    {
+     "w": "upend",
+     "ipa": "/ʌpˈend/",
+     "pos": "v.",
+     "en": "upend (v.) means to turn something upside down, or to change a situation completely",
+     "zh": "\"把……立起来倒个个儿\"（up 向上+ end 端，19 世纪构词，原指把桶倒扣），颠覆语境核心义为掀翻、彻底改写",
+     "ctx": "",
+     "ex1": "Streaming upended the economics of the music business. 流媒体掀翻了音乐业的生意经。",
+     "ex2": "One bad harvest can upend a family's plans for a decade. 一次歉收就能掀翻一个家庭十年的计划。"
+    },
+    {
+     "w": "all but",
+     "ipa": "/ˌɔːl ˈbʌt/",
+     "pos": "adv. phr.",
+     "en": "all but (adv. phr.) means almost, or very nearly",
+     "zh": "\"除了……全都\"（all 全部+ but 除开），副词用法核心义为几乎、差一点就",
+     "ctx": "这是中国学生读外刊最容易读反的短语，没有之一。all but impervious 不是\"全部但是穿不透\"，是\"几乎穿不透\"。记住一条：all but 是一个词，中间不能停，看见它先翻译成almost。同类还有all but disappear（几乎消失）、all but certain（几乎确定）。全文出现两次，第一次在这儿，第二次在第八段的all but vanish",
+     "ex1": "The species is all but extinct in the wild. 这个物种在野外已几乎绝迹。",
+     "ex2": "By midnight the party was all but over. 到半夜，聚会基本已经散了。"
+    },
+    {
+     "w": "impervious",
+     "ipa": "/ɪmˈpɜːviəs/",
+     "pos": "adj.",
+     "en": "impervious (adj.) means not affected or influenced by something; also, not allowing water to pass through",
+     "zh": "\"穿不进去的\"（in- 否定+ pervius 可通行的，而pervius 来自per- 穿过+ via 路，就是那个\"经由\"的via），引申核心义为刀枪不入的、不受影响的",
+     "ctx": "三步拆开就忘不掉：via 是路→ pervious 是有路可通→ 加im- 变成没路可通。所以它的画面是一堵密不透风的墙，水泼不进、话听不进。作者说服务业几百年来all but impervious to productivity growth，意思是：效率这根针，扎不进这块布",
+     "ex1": "He seemed impervious to the cold, walking out in a thin shirt. 他像是完全不怕冷，穿件薄衬衫就出门了。",
+     "ex2": "The industry proved impervious to every reform it was offered. 这个行业对给到它的每一项改革都刀枪不入。"
+    },
+    {
+     "w": "demand",
+     "ipa": "/dɪˈmɑːnd/",
+     "pos": "v.",
+     "en": "demand (v.) means to need or require something in order to work or happen",
+     "zh": "\"郑重托付、要求\"（拉丁语demandare：de- 完全+ mandare 委托，同根有 mandate、command），此处核心义为需要、要求（而非\"需求\"）",
+     "ctx": "",
+     "ex1": "Raising a child demands more patience than anyone expects. 养一个孩子需要的耐心超出所有人的预期。",
+     "ex2": "The job demands a level of precision that few people have. 这活要求的精度，很少有人具备。"
+    }
+   ]
+  },
+  {
+   "en_html": "<mark class=\"voc\">Relative prices</mark> and wages would then shift wildly. Many more goods and services would <mark class=\"voc\">go the way of</mark> the T-shirt, as <mark class=\"voc\">mass production</mark> makes them abundant. As has already happened in farming, output could soar even as prices collapse still faster, so that whole sectors all but <mark class=\"voc\">vanish</mark> as a share of GDP. Not everything would get cheaper, though. Land and natural resources would remain scarce. <mark class=\"voc\">Measured</mark> in terms of goods and services, they could become <mark class=\"voc\">vastly</mark> more valuable.",
+   "zh": "到那时，相对价格和工资都会剧烈地重新洗牌。更多的商品和服务会走上T恤那条路——大规模生产让它们多到溢出。正如农业已经发生过的那样：产出可以一路飙升，与此同时价格跌得还要更快，以至于整个行业作为GDP的一个份额，几乎凭空消失。不过，不是所有东西都会变便宜。土地和自然资源仍然稀缺。要是拿商品和服务去衡量它们，它们会变得极其昂贵。",
+   "notes": [
+    {
+     "w": "relative price",
+     "ipa": "/ˈrelətɪv praɪs/",
+     "pos": "n. phr.",
+     "en": "relative price (n. phr.) means the price of one thing measured against the price of another",
+     "zh": "\"相对的价格\"（relative 源自拉丁语relativus\"与……有关的\"，同根有relate、 relation），经济语境核心义为相对价格",
+     "ctx": "",
+     "ex1": "What matters for most families is the relative price of housing and food. 对多数家庭来说，真正要紧的是住房和食品的相对价格。",
+     "ex2": "Wages fell in relative terms even as they rose in absolute terms. 工资的绝对数在涨，相对水平却在下降。"
+    },
+    {
+     "w": "go the way of",
+     "ipa": "/ɡəʊ ðə ˈweɪ əv/",
+     "pos": "phr.",
+     "en": "go the way of sth (phr.) means to become obsolete or disappear in the same way as something else",
+     "zh": "\"走上……的老路\"（go 走+ way 路+ of 的），引申核心义为步……的后尘、落得同样的下场",
+     "ctx": "",
+     "ex1": "The corner video shop went the way of the typewriter. 街角那家录像店跟打字机一样消失了。",
+     "ex2": "Cheap landlines are going the way of the payphone. 便宜座机正走上公用电话的老路。"
+    },
+    {
+     "w": "mass production",
+     "ipa": "/ˌmæs prəˈdʌkʃn/",
+     "pos": "n. phr.",
+     "en": "mass production (n. phr.) means the manufacture of large quantities of goods using machines and standardised processes",
+     "zh": "\"成批地造\"（mass 源自拉丁语massa\"团块\"；production 源自producere\"引出\"），工业语境核心义为大规模生产",
+     "ctx": "",
+     "ex1": "Mass production turned a luxury into an ordinary household item. 大规模生产把一件奢侈品变成了寻常家用品。",
+     "ex2": "The furniture is mass-produced but finished by hand. 这家具是批量生产的，但由人工做最后打磨。"
+    },
+    {
+     "w": "vanish",
+     "ipa": "/ˈvænɪʃ/",
+     "pos": "v.",
+     "en": "vanish (v.) means to disappear completely and suddenly",
+     "zh": "\"变成空的\"（古法语esvanir，拉丁语evanescere：e- 出+ vanus 空的，同根有 vain、vanity），消失义核心义为消失殆尽",
+     "ctx": "",
+     "ex1": "The mist vanished the moment the sun came over the ridge. 太阳一翻过山脊，雾就散了。",
+     "ex2": "Whole categories of jobs did not vanish; they changed shape. 整类整类的岗位并没有消失，它们变了形状。"
+    },
+    {
+     "w": "measure",
+     "ipa": "/ˈmeʒə(r)/",
+     "pos": "v.",
+     "en": "measure (v.) means to judge the size, amount or importance of something",
+     "zh": "\"量\"（拉丁语mensura\"尺度\"，同根有dimension、immense），此处核心义为以……来衡量",
+     "ctx": "",
+     "ex1": "Success here should be measured in years, not quarters. 这里的成功该以年为单位衡量，不是以季度。",
+     "ex2": "Measured against its rivals, the phone is simply too expensive. 跟对手一比，这款手机就是太贵了。"
+    },
+    {
+     "w": "vastly",
+     "ipa": "/ˈvɑːstli/",
+     "pos": "adv.",
+     "en": "vastly (adv.) means very much, or to a very great degree",
+     "zh": "\"以辽阔的方式\"（vast 源自拉丁语vastus\"空旷的、无边的\"，同根有devastate 摧毁），程度副词核心义为极大地、远远地",
+     "ctx": "它修饰比较级时特别有力：vastly more valuable（值钱得多）、vastly different（差得远）、vastly improved（好太多了）。比very much 正式，比greatly 更有尺度感——它暗示的是\"量级上的差\"，不是\"程度上的差\"",
+     "ex1": "Two households with the same income can have vastly different lives. 收入相同的两户人家，日子可能过得天差地别。",
+     "ex2": "The second version is vastly better than the first. 第二版比第一版好太多了。"
+    }
+   ]
+  },
+  {
+   "en_html": "Perhaps people will still be needed for management, steering, <mark class=\"voc\">oversight</mark> and <mark class=\"voc\">maintenance</mark> of robotic systems, just as tractors have not <mark class=\"voc\">put all farmers out of work</mark>. Humans may prefer some jobs to be done by other humans—would a robot orchestra really be worth the ticket price? A preference for “relational goods” could allow humans to <mark class=\"voc\">trade their labour for</mark> the goods and services robots produce. We hope so. An <mark class=\"voc\">alternative</mark> is a highly unequal economy in which robots and AI work for those who own them, with everyone else <mark class=\"voc\">competing with robots for</mark> energy, land and capital.",
+   "zh": "也许人还是被需要的：去管理、去操控、去监督、去维护这些机器人系统。就像拖拉机并没有让所有农民都丢掉工作一样。人也可能会宁愿某些活儿由别的人来干——一支机器人乐团，真值那张票价吗？对\"关系型商品\"的偏好，也许能让人用自己的劳动，去换机器人产出的商品和服务。我们希望如此。另一条路，是一个高度不平等经济体：机器人和AI为拥有它们的人干活，而其余所有人，都在跟机器人抢能源、抢土地、抢资本。",
+   "notes": [
+    {
+     "w": "oversight",
+     "ipa": "/ˈəʊvəsaɪt/",
+     "pos": "n.",
+     "en": "oversight (n.) means the act of watching and checking that something is done correctly; also, a careless mistake",
+     "zh": "\"从上方看过去\"（over 在上+ sight 看），两个引申义都从这儿来：俯瞰全局是\"监督\"，一眼扫过是\"疏忽\"",
+     "ctx": "",
+     "ex1": "The agency lacks the staff to carry out proper oversight.这个机构人手不足，无法开展有效监管。",
+     "ex2": "The error was an oversight, not a decision.这个错误是一时疏漏，不是有意决定。"
+    },
+    {
+     "w": "maintenance",
+     "ipa": "/ˈmeɪntənəns/",
+     "pos": "n.",
+     "en": "maintenance (n.) means the work of keeping something in good condition",
+     "zh": "\"用手撑住\"（古法语maintenir，拉丁语manu tenere\"用手握住\"：manus 手+ tenere 持，同根有tenant、retain），此处核心义为维护、保养",
+     "ctx": "跟management 一样，这也是\"伺候机器\"的活。作者这四个词其实划出了一个新工种：不是操作机器，是照顾机器。而且maintenance 在英式英语里还有\"赡养费\"的意思（child maintenance），读英国媒体时会碰到",
+     "ex1": "The bridge was closed for routine maintenance. 这座桥因例行维护而关闭。",
+     "ex2": "Maintenance costs are rising faster than the machines' value. 维护成本涨得比机器本身的价值还快。"
+    },
+    {
+     "w": "put sb out of work",
+     "ipa": "/pʊt aʊt əv ˈwɜːk/",
+     "pos": "phr.",
+     "en": "put sb out of work (phr.) means to cause someone to lose their job",
+     "zh": "\"把人放到工作之外\"（put 放+ out of 在外），就业语境核心义为让某人失业",
+     "ctx": "作者这句just as tractors have not put all farmers out of work，是真的，但只说了半句。美国农业劳动力从四成掉到不足百分之二，中间那三十八个百分点、几百万个家庭去了哪里？换个说法就是：\"只让百分之九十五的农民失业了。\"同一个事实，温度差得远。读外刊遇到这种\"没有让所有人失业\"，就该问一句：那让多少人失业了",
+     "ex1": "The mill closed and put four hundred people out of work.纺织厂关了，四百人失业。",
+     "ex2": "He has been out of work since the spring and stopped applying. 他从春天起就失业了，后来干脆不再投简历。"
+    },
+    {
+     "w": "trade A for B",
+     "ipa": "/treɪd ə fɔː/",
+     "pos": "v. + prep.",
+     "en": "trade A for B (v. + prep.) means to exchange one thing for another",
+     "zh": "\"拿A 换B\"（trade 源自中古低地德语trade\"路径\"，先指\"走的路\"，再指\"跑一趟买卖\"），交换语境核心义为用A 换B",
+     "ctx": "",
+     "ex1": "He traded a steady salary for a chance to run his own shop. 他拿一份稳定工资，换了一个自己开店的机会。",
+     "ex2": "Would you trade your weekends for a bigger flat? 你愿意拿周末去换一套更大的房子吗？"
+    },
+    {
+     "w": "alternative",
+     "ipa": "/ɔːlˈtɜːnətɪv/",
+     "pos": "n. / adj.",
+     "en": "alternative (n.) means one of two or more possibilities from which you can choose",
+     "zh": "\"轮流出现的另一个\"（拉丁语alternare\"轮流\"，来自alter 二者之一，同根有alter、alternate），选择语境核心义为另一种可能",
+     "ctx": "An alternative is…是社论里常见的转折句式，等于\"还有另一条路\"，而且往往暗含\"这条路更坏\"。注意the alternative 常特指\"那个不想要的选项\"：We must cut costs; the alternative is closure",
+     "ex1": "There is no alternative to raising taxes, however unpopular. 除了加税别无选择，不管这多不受欢迎。",
+     "ex2": "Solar is now a cheaper alternative to coal in most markets. 在多数市场上，光伏已是比煤更便宜的替代方案。"
+    },
+    {
+     "w": "compete for",
+     "ipa": "/kəmˈpiːt fɔː/",
+     "pos": "v. + prep.",
+     "en": "compete for (v. + prep.) means to try to get something that others also want",
+     "zh": "\"一起往前追\"（拉丁语competere：com- 共同+ petere 追求，同根有petition、 appetite），资源语境核心义为争夺",
+     "ctx": "",
+     "ex1": "Three cities are competing for the same factory. 三座城市在争同一座工厂。",
+     "ex2": "Students now compete with software for entry-level jobs. 如今学生要跟软件抢入门级岗位。"
+    }
+   ]
+  },
+  {
+   "en_html": "The past few years’ remarkable <mark class=\"voc\">leaps</mark> in AI <mark class=\"voc\">took the world by surprise</mark>. Today, most are equally unprepared for the <mark class=\"voc\">prospect</mark> that a real-life c-3po could be <mark class=\"voc\">around the corner</mark>. Time to get ready to meet him.",
+   "zh": "过去这几年，AI那些了不起的跃进，把整个世界打了个措手不及。而今天，对于\"一个真人版的C-3PO可能就在拐角\"这件事，多数人同样毫无准备。该准备起来，去见他了。",
+   "notes": [
+    {
+     "w": "leap",
+     "ipa": "/liːp/",
+     "pos": "n. / v.",
+     "en": "leap (n.) means a big jump, or a large and sudden increase or advance",
+     "zh": "\"跳\"（古英语hlēapan），进展语境核心义为跃升、大跨步",
+     "ctx": "",
+     "ex1": "The treatment represents a genuine leap forward in cancer care. 这种疗法代表着癌症治疗上一次真正的跃迁。",
+     "ex2": "Her English improved by leaps and bounds once she started reading novels. 她一开始读小说，英语就突飞猛进。"
+    },
+    {
+     "w": "take sb by surprise",
+     "ipa": "/teɪk baɪ səˈpraɪz/",
+     "pos": "phr.",
+     "en": "take sb by surprise (phr.) means to happen unexpectedly and cause surprise",
+     "zh": "\"趁人不备拿下\"（surprise 源自古法语surprendre\"突然抓住\"：sur- 在上+ prendre 抓取，同根有enterprise），意外义核心义为让某人措手不及",
+     "ctx": "注意它跟surprise sb 的差别：surprise sb 只是\"让他惊讶\"，take sb by surprise 是\"打了他一个措手不及\"，多一层\"没准备、没招架\"的意味。作者用它，是为了下一句做铺垫：上次就是这么被打懵的，这次又要重演",
+     "ex1": "The speed of the collapse took even the bankers by surprise. 崩盘之快，连银行家们都措手不及。",
+     "ex2": "Her answer took the whole panel by surprise. 她的回答让整个评审组都没料到。"
+    },
+    {
+     "w": "prospect",
+     "ipa": "/ˈprɒspekt/",
+     "pos": "n.",
+     "en": "prospect (n.) means the possibility that something will happen, especially something good or unwelcome",
+     "zh": "\"向前看出去的景象\"（拉丁语prospectus：pro- 向前+ specere 看，同根有 spectrum、inspect），此处核心义为前景、可能性",
+     "ctx": "the prospect that…后面跟的是同位语从句，说明这个prospect 具体是什么。注意它跟possibility 的差别：possibility 是中性概率，prospect 带着\"已经在眼前了\"的意味，而且常指不太妙的事——the prospect of losing the house",
+     "ex1": "The prospect of working weekends put most candidates off. 周末要上班这件事，把大多数应聘者劝退了。",
+     "ex2": "Prospects for the industry have improved since the spring. 开春以来，这个行业的前景有所好转。"
+    },
+    {
+     "w": "around the corner",
+     "ipa": "/əˈraʊnd ðə ˈkɔːnə(r)/",
+     "pos": "phr.",
+     "en": "around the corner (phr.) means very near, either in distance or in time",
+     "zh": "\"在拐角那边\"（around 绕过+ corner 角落，源自拉丁语cornu\"角\"），时间义核心义为就在眼前、即将到来",
+     "ctx": "",
+     "ex1": "Spring is just around the corner; the market already has strawberries. 春天就在眼前了，市场上已经有草莓了。",
+     "ex2": "The company turned the corner after two difficult years. 熬过两个艰难的年份之后，这家公司终于迎来转机。"
+    }
+   ]
   }
+ ],
+ "proper": [
+  {
+   "name": "R.U.R.",
+   "def": "简要介绍：捷克作家卡雷尔·恰佩克1920 年写下的三幕剧，副题是\"由喜剧开场的三幕剧\"，1921 年1 月在捷克斯洛伐克的赫拉德茨-克拉洛韦首演，同月在布拉格国家剧院上演，两年内被译成约三十种语言。剧情是：一座孤岛上的工厂用类原生质批量制造外形与人无异的机器人，卖给全世界干活；十年后人类停止生育，机器人起义，几乎杀光人类，只留下双手劳作的建筑师阿尔奎斯特。最后两个机器人普利姆斯与海伦娜萌生爱情，被他放走，当作新的亚当与夏娃。<br>本文中的意思：\"robot\"这个词的出生地。恰佩克用了捷克语robota（苦役、徭役），这个词由他的哥哥约瑟夫提议。所以人类给机器人起的第一个名字，意思就是\"干苦力的\"——今天所有关于\"它会不会取代人\"的争论，答案从命名那天就写在名字里了。开场用它，是为了立一个一百年的对照：同一件事，一百年前是恐怖片，今天是财经新闻。"
+  },
+  {
+   "name": "C-3PO",
+   "def": "简要介绍：《星球大战》系列里的金色人形机器人，官方设定是\"礼仪机器人\"（protocoldroid），职责是翻译与外交礼节，号称掌握超过六百万种沟通形式。它胆小、话多、遇事第一反应是喊\"我们注定要完蛋了\"（We're doomed），整部正传里干得最多的事是被R2-D2 拖着走。由英国演员安东尼·丹尼尔斯饰演，从1977 年到2019 年，九部正传一部没落。<br>本文中的意思：人类想象机器人想象了几十年，最著名的形象之一，居然是个话痨。它不靠能力强出名，靠性格。这恰恰说明：人真正在意的从来不是机器有多能干，而是它\"像人\"到什么程度。作者把它放在第一段，是因为全文最后一句还要把它叫回来。"
+  },
+  {
+   "name": "Marvin the Paranoid Android",
+   "def": "简要介绍：道格拉斯·亚当斯《银河系漫游指南》里的角色，一台严重抑郁的机器人。原文形容它的脑子\"有行星那么大\"，而它被分配的工作是开门、按电梯、给人端茶。每次干活它都要抱怨一句\"你们根本不知道我有多痛苦\"。在故事里，它是全宇宙最聪明的存在之一，也是最不快乐的存在。<br>本文中的意思：跟C-3PO 正好配成一对：一个话痨，一个抑郁，全是性格，没有一个是靠能力强出名的。两个例子并排，作者要说的那件事就成立了——人类在故事里给机器人安上人的毛病，是为了让它们可爱一点，让自己安心一点。而未来学家失望，是因为他们等的不是性格，是能力。"
+  },
+  {
+   "name": "Isaac Asimov",
+   "def": "简要介绍：1920 年生于俄国、三岁随家人迁居美国，生物化学博士，后在波士顿大学医学院任教，但真正让他留名的是科幻。1941 年的短篇《Liar!》里，他第一次使用了robotics（机器人学）这个词；1942 年的《Runaround》提出了著名的\"机器人学三定律\"。一个写小说的，给一门学科起了名字，后来这门学科真的成立了——这种事在科学史上不多。<br>本文中的意思：本文有两条线都牵到他：一条是robotics 这个词的出处，一条是《双百人》。作者写budding bicentennial men 的时候，假定读者知道这个人是谁、这个故事讲什么——不懂这个梗，那句话就是天书。"
+  },
+  {
+   "name": "The Bicentennial Man",
+   "def": "简要介绍：阿西莫夫1976 年发表的中篇，当年拿下雨果奖与星云奖的最佳中篇。故事讲一台编号NDR 的家政机器人安德鲁，被买回家做家务，后来显出创造力，会做木雕；再后来它要自由、要人格、要被法律承认为\"人\"。为了这个身份，它做了一个决定：让自己的身体像人一样衰老，最后像人一样死去。它用了两百年，一步一步把自己变成了人。1999 年被拍成电影《变人》，罗宾·威廉姆斯主演。"
+  },
+  {
+   "name": "Riemann hypothesis",
+   "def": "简要介绍：德国数学家波恩哈德·黎曼1859 年提出：黎曼ζ 函数的所有非平凡零点，实部都等于1/2，也就是全部落在一条叫\"临界线\"的直线上。这条猜想关系到素数分布的根本规律，至今一百六十多年没有人能证明。它被列为数学界最重要的未解难题之一，悬赏一百万美元。<br>本文中的意思：作者用它做对比的另一端：一个连这种题都可能帮上忙的东西，转头去叠床单，叠不了。这个落差就是整段的发动机。讲课时务必注意原文的措辞是may havehelped prove——是\"可能帮着证明了\"，不是\"已经证明了\"。"
+  },
+  {
+   "name": "Millennium Prize Problems",
+   "def": "简要介绍：2000 年，美国克雷数学研究所选出七个当时最重要的数学未解难题，每解出一题奖励一百万美元。七题之中，只有庞加莱猜想被解决（俄罗斯数学家佩雷尔曼，2003 年前后），而他本人拒绝了奖金与菲尔兹奖。黎曼猜想是七题中至今悬空的一题。<br>本文中的意思：黎曼猜想那句\"一百万美元\"的来源。它给听众的是一个可感的量级：这不是一道作业题，是全世界最贵、最硬的七块骨头之一。补这一个细节就够，再往下讲\"非平凡零点\"就没人跟得上了。"
+  },
+  {
+   "name": "LLM",
+   "def": "简要介绍：Large Language Model 的缩写。2017 年谷歌那篇《Attention Is All YouNeed》提出Transformer 架构，此后模型规模迅速膨胀：2020 年GPT-3 有1750 亿参数，靠海量文本训练，学会了预测\"下一个词\"。它并不是被教会的，而是从数据里自己长出了语法、常识与推理的雏形。<br>本文中的意思：全文的技术底座。作者反复用\"它们的表亲\"\"LLM 那套技术\"来指它，是因为真正的转折点在这儿：机器人过去每换一个动作就要重写一套程序，现在大脑直接换成大模型，同一套脑子能指挥一万种动作。不懂这一层，就看不出为什么2026 年会突然变天。"
+  },
+  {
+   "name": "scaling law",
+   "def": "简要介绍：指模型能力与投入规模之间的可预测关系。2020 年OpenAI 的论文《ScalingLaws for Neural Language Models》把这个规律画成了曲线：参数量、数据量、算力每上一个量级，损失就按幂律稳定下降。2022 年的Chinchilla 论文又修正了一点：在给定算力下，参数和数据要按比例同步放大，才最划算。<br>本文中的意思：全文的发动机。它反常的地方在于：人类造东西通常是\"设计越精巧越好\"，把一辆车放大十倍它会散架；但大模型是\"堆就有效\"，跨过某个门槛突然会做以前完全不会的事。所以整个行业变成了一场买显卡的军备竞赛。作者说机器人starting to benefit from 这套定律——注意是\"开始\"，这两个字很克制，也很关键。"
+  },
+  {
+   "name": "humanoid robot",
+   "def": "简要介绍：目前最受关注的几款：特斯拉的Optimus（2021 年首次公布概念，2022 年展出原型）、美国Figure AI（2022 年成立，已在宝马工厂做过搬运测试）、中国宇树的G1（2024 年发布，定价约合人民币十万元级）、波士顿动力的Atlas（以运动能力著称）。产业界公认的分水岭不是\"能不能走\"，是\"能不能连续干几小时不出错\"。<br>本文中的意思：文中那句\"某家中国公司均价两年降72%\"的现实背景。这句话的分量不在某一家，而在整个行业：能力往上走、价格往下走，两条线一交叉，商业故事才真正开始。"
+  },
+  {
+   "name": "data centre",
+   "def": "简要介绍：一栋装满机架的楼，里面是密密麻麻的服务器、风扇、空调与配电设备，噪音大得像站在飞机发动机旁。国际能源署的估算是：全球数据中心用电约占全世界用电的百分之一出头，且正在快速上涨。美国弗吉尼亚州劳登县一带因聚集了全球最密集的机房，被叫作\"数据中心巷\"。<br>本文中的意思：作者用来打碎读者想象的那块砖。你以为AI 在这个世界上的实体是银色机器人，他说不是，是一排排铁柜子。"
+  },
+  {
+   "name": "comparative advantage",
+   "def": "简要介绍：李嘉图1817 年在《政治经济学及赋税原理》里提出的贸易理论。经典例子是葡萄牙与英国：葡萄牙造酒和织布都比英国省力，但它造酒的优势更大，所以它该专心造酒、把布留给英国，两国总产出反而更高。关键不是\"谁更擅长\"，是\"谁放弃的东西更少\"，也就是机会成本更低。<br>本文中的意思：第六段整段的逻辑支点。今天这套全球分工就建立在这个概念上：经济体越富、通行工资越高，工厂就往劳动便宜的地方搬。而作者说，如果机器人接管生产，人的工资不再重要，这套跑了四十年的逻辑就可能松开（unwind）。这个概念讲不清，那一段就是空转。"
+  },
+  {
+   "name": "David Ricardo",
+   "def": "简要介绍：1772 年生于伦敦，父亲是荷兰裔犹太股票经纪人。他十四岁进父亲的经纪行，后来独立做证券生意，二十五岁前后已财务自由。之后偶然读到亚当·斯密的《国富论》，转向经济学，1817 年写出《政治经济学及赋税原理》，1819 年当选下议院议员。他提出的比较优势、地租理论与货币数量论，至今仍是经济学教科书的第一章。"
+  },
+  {
+   "name": "William Baumol",
+   "def": "简要介绍：1922 年生于纽约，普林斯顿与纽约大学任教，是美国最多产的经济学家之一，研究横跨企业家精神、金融市场与表演艺术。1966 年与威廉·鲍恩合著《表演艺术：经济的困境》，提出后来被称为\"成本病\"的现象。他2017 年去世，享年九十五岁。<br>本文中的意思：第七段的作者。他的洞见很朴素却极难反驳：有些活儿的生产率天生提不上去，可干这些活的人，工资必须跟着全社会一起涨——于是这类服务相对越来越贵。一个音乐家引发的经济学发现，这就是本文插进一段弦乐四重奏的原因。"
+  },
+  {
+   "name": "Baumol's cost disease",
+   "def": "简要介绍：核心逻辑三步：一、有些工作无法靠技术提效（四个人拉四重奏，两百年前四个人，今天还是四个人）；二、这些人的工资必须跟着社会平均水平涨，否则没人干；三、于是单位成本只升不降。结果就是这类服务相对越来越贵：理发、看病、上课、现场演出。<br>本文中的意思：全文解释力最强的一件工具，也是这一段的落点。它顺手回答了听众天天感受到却说不清的两件事：为什么电视越来越便宜、理发越来越贵。更深一层：成本病惩罚的不是\"落后\"，是\"必须有人在场\"。而如果机器人真能干活，这个前提第一次松动了——这才是这篇文章要在经济学分析里插一段音乐的原因。"
+  },
+  {
+   "name": "string quartet",
+   "def": "简要介绍：由两把小提琴、一把中提琴、一把大提琴组成，是古典音乐里最核心的室内乐形式。海顿确立了它的基本写法，莫扎特留下二十三首，贝多芬晚期的几首把这种形式推到了极限。它的特点是：没有指挥，四个人靠听彼此完成，任何一个人快半拍，整段就散。<br>本文中的意思：鲍莫尔用来打比方的那件东西。它的杀伤力在于数字：两百年前四个人，今天还是四个人，一个都不能省。听起来像废话，可它解释了一个大问题——为什么有些东西怎么进化都不会变便宜。讲课时把这个\"四个人\"说透，成本病就不用再解释了。"
+  },
+  {
+   "name": "relational goods",
+   "def": "简要介绍：经济学里的一个概念，指价值不在物品本身、而在人与人之间那段关系里的\"商品\"。典型例子：心理咨询、教学、看病、理发、照顾老人。它们的共同点是无法完全标准化、无法储存、也无法完全由机器替代——因为一旦换成机器，动作可能一样标准甚至更好，但你会觉得少了点什么。<br>本文中的意思：作者给乐观版本留下的最后一根绳子。如果人还愿意为\"有个人在\"付钱，那人类就有可能拿劳动去换机器人造出来的东西，而不是跟机器人抢饭吃。这个词直译成\"关系型商品\"没人听得懂，必须举例子：你理发买的不是剪短，是那半小时有人问你最近怎么样。"
+  },
+  {
+   "name": "Anthony Daniels",
+   "def": "简要介绍：1946 年生于英国，演员。1977 年《星球大战》第一部起饰演C-3PO，一直演到2019 年《天行者崛起》，同一个人、同一个角色、四十二年。那身金色外壳在片场酷热难当，头盔视野极差，他走路得靠数步子来定位，摔过好几次。<br>本文中的意思：收尾段的情感落点。这篇文章通篇在算账——价格、工资、GDP、份额，但真正让人心里一动的地方都不是数字：是一个演员穿着铁皮、数着步子，演了一个机器人四十二年。放在全文最后，比任何总结都有力。"
+  },
+  {
+   "name": "sim-to-real gap",
+   "def": "简要介绍：机器人在计算机仿真里训练，成本低、速度快、可以练几百万次；但仿真里的摩擦、光照、物体形变都是简化过的参数，一搬进真实世界就不对。业内把这之间的落差叫sim-to-real gap。常见的对策是\"域随机化\"：在仿真里随机改变光线、材质、重量，逼模型学会适应不确定。<br>本文中的意思：第三段reliably enough 那四个字背后的真实难度。原文说得客气，实际情况是：仿真里抓取成功率能到九成，扔进一个没见过的真厨房就掉到一成。未来5-15年，100万台人形机器人将进入家庭：我们的生活会变成什么样？"
+  }
+ ],
+ "sources_note": "依据《经济学人》2026-11-28 报道。",
+ "practice": {
+  "intro": "请将以下中文句子翻译为英文（参考答案见后）。",
+  "items": [
+   "大语言模型或许曾助人证明黎曼猜想——那道自1859 年起便让数学家们束手无策的难题；可它们在物理世界里的表亲，至今仍连一条床单都叠不好。",
+   "进步之所以迅猛，是因为机器人学开始受益于同一套规模定律——正是这套定律，用四年时间把AI 从\"连数数都吃力\"一路推到了数学的最前沿。",
+   "因此，任何讲述AI 将如何改变经济的叙事，倘若不是塞满了通用机器人，就是不完整的。",
+   "与工作场所不同——那里的自动化常常遭到抵制，有时甚至被明令禁止——几乎没有人会为了\"不必再往洗碗机里装碗碟\"而上街抗议。",
+   "数百年来的事实是：许多服务性工作对生产率的增长几乎刀枪不入。",
+   "正如农业已经发生过的那样，产出可能一路飙升，而价格跌得还要更快，以致整个行业在GDP 中所占的份额几乎消失殆尽。"
+  ],
+  "critical_en": "",
+  "critical_zh": "",
+  "answer": "1. Large language models (LLMs) may have helped prove the Riemann hypothesis, a puzzle that had stumped mathematicians since 1859, but their cousins in the physical world still struggle to fold a bedsheet.<br><br>2. Progress is rapid because robotics is starting to benefit from the same scaling laws that have, in four years, taken AI from struggling to count to the frontier of mathematics.<br><br>3. So any story of how AI will change the economy is incomplete if it is not chock- full of general-purpose robots.<br><br>4. Unlike workplaces, where automation is often resisted and sometimes banned, few will protest against not having to load the dishwasher.<br><br>5. For hundreds of years many service jobs have proved all but impervious to productivity growth.<br><br>6. As has already happened in farming, output could soar even as prices collapse still faster, so that whole sectors all but vanish as a share of GDP."
+ },
+ "mindmap": {
+  "aria": "",
+  "alt": "",
+  "svg": "",
+  "img": ""
+ },
+ "audio": true
 }

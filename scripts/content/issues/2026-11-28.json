@@ -1,0 +1,62 @@
+{
+  "date": "2026-11-28",
+  "title_tag": "Robots will have a staggering economic impact —— 英国《经济学人》外刊讲解第1242天",
+  "h1": "Robots will have a staggering economic impact",
+  "source_label": "经济学人",
+  "category": "英国《经济学人》外刊讲解 第1242天",
+  "read_minutes": 12,
+  "nav_hint": "人形机器人逼近：从家务革命到全球产业链重排",
+  "headline_en": "Robots will have a staggering economic impact|Workable humanoids do not look far off",
+  "headline_zh": "机器人将给经济带来一场令人瞠目的冲击。能干活的人形机器人，离我们不远了。",
+  "sources_note": "依据《经济学人》2026-11-28 报道。",
+  "paragraph_overrides": {
+    "10": "The past few years’ remarkable leaps in AI took the world by surprise. Today, most are equally unprepared for the prospect that a real-life c-3po could be around the corner. Time to get ready to meet him."
+  },
+  "marks": {
+    "1": [
+      ["grip", "grip"],
+      ["futurist", "futurists"],
+      ["stump", "stumped"],
+      ["dexterity", "dexterity"],
+      ["all-purpose", "all-purpose"],
+      ["replicate", "replicate"],
+      ["fixed-in-place", "fixed-in-place"],
+      ["carry out", "carry out"],
+      ["take comfort", "taken comfort"],
+      ["dull-looking", "dull-looking"]
+    ],
+    "2": [
+      ["general-purpose", "general-purpose"],
+      ["budding", "budding"],
+      ["by one metric", "By one metric"],
+      ["hook up", "hooked up"],
+      ["crater", "cratering"],
+      ["apply A to B", "applying the techniques behind llms to"]
+    ],
+    "3": [
+      ["chock-full", "chock-full"],
+      ["come in all kinds of shapes", "come in all kinds of shapes"],
+      ["brains and brawn", "brains"],
+      ["thorny", "thorny"],
+      ["map out", "map out"],
+      ["steer", "steering"],
+      ["proliferate", "proliferates"],
+      ["head-spinning", "head-spinning"]
+    ],
+    "9": [
+      ["oversight", "oversight"],
+      ["maintenance", "maintenance"],
+      ["put sb out of work", "put all farmers out of work"],
+      ["trade A for B", "trade their labour for"],
+      ["compete for", "competing with robots for"],
+      ["alternative", "alternative"]
+    ],
+    "10": [
+      ["leap", "leaps"],
+      ["take sb by surprise", "took the world by surprise"],
+      ["prospect", "prospect"],
+      ["around the corner", "around the corner"]
+    ]
+  },
+  "mindmap": { "template": "scripts/content/2026-11-21.json", "aria": "", "alt": "", "repl": [] }
+}
